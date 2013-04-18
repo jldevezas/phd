@@ -1,3 +1,20 @@
+is.any.na = function(vals) {
+  for(val in vals)
+    if (is.na(val))
+      return(TRUE)
+  return(FALSE)
+}
+
+f.expand.artists.months.with.zeros = function(d, month.range=NA) {
+  if (is.any.na(month.range))
+    month.range = range(d$month)
+  
+  # TODO
+}
+
+# Dates range from 2005-02-14 00:00:07 to 2013-09-29 18:32:04.
+max.month.range = c("2005-02", "2013-09")
+
 users = read.table(gzfile("~/Desktop/lastfm-dataset-1K/userid-profile.tsv.gz"), quote="", sep="\t")
 names(users) = c("id", "gender", "age", "country", "registered")
 
