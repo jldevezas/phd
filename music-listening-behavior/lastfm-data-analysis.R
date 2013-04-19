@@ -9,7 +9,18 @@ f.expand.artists.months.with.zeros = function(d, month.range=NA) {
   if (is.any.na(month.range))
     month.range = range(d$month)
   
-  # TODO
+  all.months = as.character(seq(as.Date(paste(month.range[1], "01", sep="-")),
+                                as.Date(paste(month.range[2], "01", sep="-")),
+                                by="1 month"))
+  all.months = unlist(lapply(all.months, function(month) { d = strsplit(month, "-")[[1]]; paste(d[1], d[2], sep="-") }))
+  all.artists = unique(d$artist)
+  
+  result = data.frame(month = c(sapply(all.months, function(m) rep(m, length(all.artists)))))
+  result = cbind(result, artist = rep(all.artists, length(all.months)))
+  #result = cbind(result, plays = rep(0, nrow(result)))
+  result = merge(d, result, by.x=c("month", "artist"), by.y=c("month", "artist"), all.y=TRUE)
+  result[which(is.na(result$plays)),]$plays = 0
+  return(result)
 }
 
 # Dates range from 2005-02-14 00:00:07 to 2013-09-29 18:32:04.
@@ -26,6 +37,11 @@ songs$month = strftime(as.Date(songs$timestamp), "%Y-%m")
 # Monthly number of plays for each artist.
 monthly.artist.plays = with(songs, aggregate(artname, by=list(month, artname), length))
 names(monthly.artist.plays) = c("month", "artist", "plays")
+
+# Fill the time series with zeros for missing values and export to CSV.
+write.csv(f.expand.artists.months.with.zeros(monthly.artist.plays),
+          file="~/Desktop/lastfm-dataset-1K/user_000003_monthly_activity.csv",
+          quote=FALSE, row.names=FALSE)
 
 # Monthly favorite artists.
 monthly.favorite = with(monthly.artist.plays, aggregate(plays, by=list(month), function(monthly.plays) artist[which.max(monthly.plays)]))

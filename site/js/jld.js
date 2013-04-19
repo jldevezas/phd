@@ -3,16 +3,37 @@ var JldVisualization = function (userId) {
 };
 
 JldVisualization.prototype.listeningBehavior = function (containerId) {
-	var n = 20, // number of layers
-			m = 200, // number of samples per layer
+	var data = [
+		[{x:"2012-01", y:20}, {x:"2012-02", y:30}, {x:"2012-03", y: 0}, {x:"2012-04", y:20}],
+		[{x:"2012-01", y:30}, {x:"2012-02", y:50}, {x:"2012-03", y:10}, {x:"2012-04", y: 0}]
+	];
+	//var data = d3.range(10).map(function() { return bumpLayer(100); });
+
+	// Take date format
+	data = data.map(function(l) {
+		return l.map(function(e) {
+			var fields = e.x.split('-');
+			return { x: new Date(fields[0], fields[1]), y: e.y };
+		});
+	});
+
+	var n = data.length, 			// number of layers (artists)
+			m = data[0].length,		// number of samples per layer (months)
 			stack = d3.layout.stack().offset("wiggle"),
-			layers = stack(d3.range(n).map(function() { return bumpLayer(m); }));
+			layers = stack(data);
 
 	var width = 960,
 			height = 500;
 
-	var x = d3.scale.linear()
-			.domain([0, m - 1])
+	var minX = d3.min(layers, function(layer) { return d3.min(layer, function(e) { return e.x; }); }),
+			maxX = d3.max(layers, function(layer) { return d3.max(layer, function(e) { return e.x; }); });
+
+	/*var x = d3.scale.linear()
+			.domain([minX, maxX])
+			.range([0, width]);*/
+
+	var x = d3.time.scale()
+			.domain([minX, maxX])
 			.range([0, width]);
 
 	var y = d3.scale.linear()
@@ -21,7 +42,8 @@ JldVisualization.prototype.listeningBehavior = function (containerId) {
 
 	var color = d3.scale.linear()
 			//.range(["#aad", "#556"]);
-			.range(["#ada", "#565"]);
+			//.range(["#ada", "#565"]);
+			.range(["#dad", "#656"]);
 			//.range(["#f0b7a1", "#bf6e4e"]);
 
 	var area = d3.svg.area()
