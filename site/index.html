@@ -60,22 +60,26 @@
 			<p>In here, you will find any algorithms, tools or visualizations that I develop as part of my PhD project.</p>
 
 			<section id="visualizing-listening-behavior">
-			<h1>Visualizing Listening Behavior</h1>
-			<script src="js/d3.v3.min.js"></script>
-			<script src="js/jld.js"></script>
-
-			<div id="vislb-container">
-				<script>
-					var vis = new JldVisualization("user_000001");
-					vis.listeningBehavior("#vislb-container");
-				</script>
-			</div>
+				<h1>Visualizing Listening Behavior</h1>
+				<h2>Streamgraph for Artists Played More Than 10 Times Per Month</h2>
+				<div id="stream-graph-container"></div>
+				<h2>Monthly Play Count for Most Frequently Listened Artist<h2>
+				<div id="artist-chart-container"></div>
 			</section>
 		</div> <!-- /container -->
 
 		<!-- Le javascript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="js/d3.v3.min.js"></script>
+		<script src="js/jld.js"></script>
+		<script>
+			d3.csv("data/user_000001_monthly_activity.csv", function(data) {
+				var vis = new JldVisualization(data);
+				vis.listeningBehaviorStreamGraph("#stream-graph-container");
+				vis.listeningBehaviorArtistChart("#artist-chart-container", vis.mostFrequentArtist());
+			});
+		</script>
 		<!--script src="js/jquery.js"></script>
 		<script src="js/bootstrap-transition.js"></script>
 		<script src="js/bootstrap-alert.js"></script>

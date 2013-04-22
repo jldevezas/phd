@@ -1,3 +1,5 @@
+userId = "user_000010"
+
 is.any.na = function(vals) {
   for(val in vals)
     if (is.na(val))
@@ -30,7 +32,7 @@ users = read.table(gzfile("~/Desktop/lastfm-dataset-1K/userid-profile.tsv.gz"), 
 names(users) = c("id", "gender", "age", "country", "registered")
 
 # Data for user 1 only (users were cut into separate files using split-by-user.py).
-songs = read.table("~/Desktop/lastfm-dataset-1K/user_000003.csv", quote="", sep="\t")
+songs = read.table(paste(paste("~/Desktop/lastfm-dataset-1K", userId, sep="/"), "csv", sep="."), quote="", sep="\t")
 names(songs) = c("id", "timestamp", "artid", "artname", "traid", "traname")
 songs$month = strftime(as.Date(songs$timestamp), "%Y-%m")
 
@@ -39,8 +41,8 @@ monthly.artist.plays = with(songs, aggregate(artname, by=list(month, artname), l
 names(monthly.artist.plays) = c("month", "artist", "plays")
 
 # Fill the time series with zeros for missing values and export to CSV.
-write.csv(f.expand.artists.months.with.zeros(monthly.artist.plays),
-          file="~/Desktop/lastfm-dataset-1K/user_000003_monthly_activity.csv",
+write.csv(f.expand.artists.months.with.zeros(monthly.artist.plays[which(monthly.artist.plays$plays > 10),]),
+          file=paste(paste("~/Desktop/lastfm-dataset-1K", userId, sep="/"), "_monthly_activity.csv", sep=""),
           quote=FALSE, row.names=FALSE)
 
 # Monthly favorite artists.
