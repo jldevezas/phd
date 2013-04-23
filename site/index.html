@@ -107,14 +107,14 @@
 			$("#user-select").select2({
 				width: 200
 			}).on("change", function(e) {
-					if (vis != null) vis.clear();
+				if (vis != null) vis.clear();
 
-					d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {
-						vis = new JldVisualization(data, opt);
-						vis.listeningBehaviorStreamGraph();
-						vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
-					});
+				d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {
+					vis = new JldVisualization(data, opt);
+					vis.listeningBehaviorStreamGraph();
+					vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
 				});
+			});
 
 			d3.csv("data/user_000001_monthly_activity.csv", function(data) {
 				vis = new JldVisualization(data, opt);

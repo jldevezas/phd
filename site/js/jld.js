@@ -2,11 +2,16 @@ var JldVisualization = function (data, containers) {
 	this.data = data;
 	this.containers = containers;
 	this.defaultArtistName = d3.select(containers.artistname).text();
+	
+	var parseDate = d3.time.format("%Y-%m").parse;
+	this.data.forEach(function(row) {
+		row.month = parseDate(row.month);
+		row.plays = +row.plays;
+	});
 };
 				
 JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 	var jld = this;
-	var data = this.data;
 
 	/*var data = [
 		{month:"2012-01", plays:10, artist:"a1"},
@@ -25,13 +30,12 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 		{month:"2012-04", plays:30, artist:"a3"}
 	];*/
 
-	var res = {};
-	data = data.forEach(function(row) {
-		var fields = row.month.split('-');
-		if (res[row.artist] == undefined) res[row.artist] = [];
-		res[row.artist].push({ x: new Date(fields[0], fields[1]), y: +row.plays, artist: row.artist });
+	var dataPerArtist = {};
+	var data = this.data.forEach(function(row) {
+		if (dataPerArtist[row.artist] == undefined) dataPerArtist[row.artist] = [];
+		dataPerArtist[row.artist].push({ x: row.month, y: row.plays, artist: row.artist });
 	});
-	data = d3.values(res);//.slice(0,45);
+	data = d3.values(dataPerArtist);
 	
 	var n = data.length, 			// number of layers (artists)
 			m = data[0].length,		// number of samples per layer (months)
@@ -98,11 +102,10 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 
 JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 	var jld = this;
-	var data = this.data;
 
 	d3.select(jld.containers.artistname).text('"' + artist + '"');
 
-	data = data.filter(function(row) {
+	var data = this.data.filter(function(row) {
 		return row.artist == artist;
 	});
 
@@ -112,7 +115,6 @@ JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 			barWidth = Math.floor(width / data.length) - 1;
 	
 	var formatDate = d3.time.format("%b %Y");
-	var parseDate = d3.time.format("%Y-%m").parse;
 
 	var x = d3.time.scale()
 			.range([barWidth / 2, width - barWidth / 2]);
@@ -135,11 +137,6 @@ JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 			.attr("height", height + margin.top + margin.bottom)
 		.append("g")
 			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-	data.forEach(function(d) {
-		d.month = parseDate(d.month);
-		d.plays = +d.plays;
-	});
 
 	x.domain(d3.extent(data, function(d) { return d.month; }));
 	y.domain([0, d3.max(data, function(d) { return d.plays; })]);
