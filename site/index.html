@@ -15,6 +15,7 @@
 			}
 		</style>
 		<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+		<link href="css/select2.css" rel="stylesheet">
 		<link href="css/jld.css" rel="stylesheet">
 
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -61,27 +62,67 @@
 
 			<section id="visualizing-listening-behavior">
 				<h1>Visualizing Listening Behavior</h1>
-				<h2>Streamgraph for Artists Played More Than 10 Times Per Month</h2>
-				<div id="stream-graph-container"></div>
-				<h2>Monthly Play Count for Most Frequently Listened Artist<h2>
-				<div id="artist-chart-container"></div>
+
+				Explore listening behavior by selecting a user:
+
+				<select id="user-select">
+					<optgroup label="Japan">
+						<option value="user_000001">User 1</option>
+					</optgroup>
+					<optgroup label="United States">
+						<option value="user_000003">User 3</option>
+					</optgroup>
+					<optgroup label="Poland">
+						<option value="user_000010">User 10</option>
+					</optgroup>
+				</select>
+				
+				<h2>Streamgraph for the User's Top 20 Overall Artists</h2>
+				<div id="stream-tooltip"></div>
+				<div id="stream-graph"></div>
+
+				<h2>Monthly Play Count for <span id="artist-name">Most Frequently Listened Artist</span><h2>
+				<div id="artist-tooltip"></div>
+				<div id="artist-chart"></div>
 			</section>
 		</div> <!-- /container -->
 
 		<!-- Le javascript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="js/jquery-1.9.1.min.js"></script>
+		<script src="js/select2.min.js"></script>
 		<script src="js/d3.v3.min.js"></script>
 		<script src="js/jld.js"></script>
 		<script>
+			var vis = null;
+			var opt = {
+				streamgraph: "#stream-graph",
+				streamtooltip: "#stream-tooltip",
+				artistchart: "#artist-chart",
+				artisttooltip: "#artist-tooltip",
+				artistname: "#artist-name"
+			};
+
+			$("#user-select").select2({
+				width: 200
+			}).on("change", function(e) {
+					if (vis != null) vis.clear();
+
+					d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {
+						vis = new JldVisualization(data, opt);
+						vis.listeningBehaviorStreamGraph();
+						vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
+					});
+				});
+
 			d3.csv("data/user_000001_monthly_activity.csv", function(data) {
-				var vis = new JldVisualization(data);
-				vis.listeningBehaviorStreamGraph("#stream-graph-container");
-				vis.listeningBehaviorArtistChart("#artist-chart-container", vis.mostFrequentArtist());
+				vis = new JldVisualization(data, opt);
+				vis.listeningBehaviorStreamGraph();
+				vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
 			});
 		</script>
-		<!--script src="js/jquery.js"></script>
-		<script src="js/bootstrap-transition.js"></script>
+		<!--script src="js/bootstrap-transition.js"></script>
 		<script src="js/bootstrap-alert.js"></script>
 		<script src="js/bootstrap-modal.js"></script>
 		<script src="js/bootstrap-dropdown.js"></script>

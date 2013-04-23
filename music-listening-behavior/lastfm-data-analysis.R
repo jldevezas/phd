@@ -40,8 +40,14 @@ songs$month = strftime(as.Date(songs$timestamp), "%Y-%m")
 monthly.artist.plays = with(songs, aggregate(artname, by=list(month, artname), length))
 names(monthly.artist.plays) = c("month", "artist", "plays")
 
+# Top overall artists.
+overall.ranks = with(monthly.artist.plays, aggregate(artist, by=list(artist), length))
+names(overall.ranks) = c("artist", "plays")
+overall.ranks = overall.ranks[order(overall.ranks$plays, decreasing=T),]
+
 # Fill the time series with zeros for missing values and export to CSV.
-write.csv(f.expand.artists.months.with.zeros(monthly.artist.plays[which(monthly.artist.plays$plays > 10),]),
+write.csv(f.expand.artists.months.with.zeros(monthly.artist.plays[
+  which(monthly.artist.plays$artist %in% overall.ranks[1:20, ]$artist),]),
           file=paste(paste("~/Desktop/lastfm-dataset-1K", userId, sep="/"), "_monthly_activity.csv", sep=""),
           quote=FALSE, row.names=FALSE)
 
