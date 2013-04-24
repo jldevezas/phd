@@ -1,0 +1,361 @@
+month,artist,plays
+2007-09,Alina,0
+2007-09,Anastacia,2
+2007-09,Annie Lennox,2
+2007-09,Britney Spears,2
+2007-09,Christina Aguilera,2
+2007-09,Gwen Stefani,1
+2007-09,Hooverphonic,1
+2007-09,Janet Jackson,0
+2007-09,Jennifer Lopez,2
+2007-09,Kelly Clarkson,9
+2007-09,Kylie Minogue,1
+2007-09,Lamb,1
+2007-09,Leann Rimes,2
+2007-09,Massive Attack,5
+2007-09,Moloko,1
+2007-09,Natasha Bedingfield,2
+2007-09,Nelly Furtado,7
+2007-09,P!Nk,2
+2007-09,Shania Twain,1
+2007-09,Sneaker Pimps,1
+2007-10,Alina,1
+2007-10,Anastacia,2
+2007-10,Annie Lennox,3
+2007-10,Britney Spears,18
+2007-10,Christina Aguilera,18
+2007-10,Gwen Stefani,17
+2007-10,Hooverphonic,5
+2007-10,Janet Jackson,2
+2007-10,Jennifer Lopez,3
+2007-10,Kelly Clarkson,19
+2007-10,Kylie Minogue,19
+2007-10,Lamb,4
+2007-10,Leann Rimes,1
+2007-10,Massive Attack,19
+2007-10,Moloko,4
+2007-10,Natasha Bedingfield,3
+2007-10,Nelly Furtado,17
+2007-10,P!Nk,5
+2007-10,Shania Twain,1
+2007-10,Sneaker Pimps,4
+2007-11,Alina,1
+2007-11,Anastacia,3
+2007-11,Annie Lennox,3
+2007-11,Britney Spears,16
+2007-11,Christina Aguilera,16
+2007-11,Gwen Stefani,18
+2007-11,Hooverphonic,0
+2007-11,Janet Jackson,2
+2007-11,Jennifer Lopez,17
+2007-11,Kelly Clarkson,4
+2007-11,Kylie Minogue,18
+2007-11,Lamb,1
+2007-11,Leann Rimes,3
+2007-11,Massive Attack,2
+2007-11,Moloko,4
+2007-11,Natasha Bedingfield,3
+2007-11,Nelly Furtado,17
+2007-11,P!Nk,6
+2007-11,Shania Twain,3
+2007-11,Sneaker Pimps,3
+2007-12,Alina,0
+2007-12,Anastacia,3
+2007-12,Annie Lennox,3
+2007-12,Britney Spears,7
+2007-12,Christina Aguilera,9
+2007-12,Gwen Stefani,6
+2007-12,Hooverphonic,3
+2007-12,Janet Jackson,1
+2007-12,Jennifer Lopez,10
+2007-12,Kelly Clarkson,4
+2007-12,Kylie Minogue,8
+2007-12,Lamb,3
+2007-12,Leann Rimes,2
+2007-12,Massive Attack,14
+2007-12,Moloko,4
+2007-12,Natasha Bedingfield,2
+2007-12,Nelly Furtado,9
+2007-12,P!Nk,4
+2007-12,Shania Twain,1
+2007-12,Sneaker Pimps,2
+2008-01,Alina,4
+2008-01,Anastacia,6
+2008-01,Annie Lennox,8
+2008-01,Britney Spears,27
+2008-01,Christina Aguilera,37
+2008-01,Gwen Stefani,23
+2008-01,Hooverphonic,1
+2008-01,Janet Jackson,7
+2008-01,Jennifer Lopez,32
+2008-01,Kelly Clarkson,15
+2008-01,Kylie Minogue,28
+2008-01,Lamb,1
+2008-01,Leann Rimes,6
+2008-01,Massive Attack,3
+2008-01,Moloko,5
+2008-01,Natasha Bedingfield,6
+2008-01,Nelly Furtado,34
+2008-01,P!Nk,15
+2008-01,Shania Twain,7
+2008-01,Sneaker Pimps,4
+2008-02,Alina,2
+2008-02,Anastacia,0
+2008-02,Annie Lennox,0
+2008-02,Britney Spears,1
+2008-02,Christina Aguilera,1
+2008-02,Gwen Stefani,1
+2008-02,Hooverphonic,0
+2008-02,Janet Jackson,1
+2008-02,Jennifer Lopez,1
+2008-02,Kelly Clarkson,1
+2008-02,Kylie Minogue,0
+2008-02,Lamb,0
+2008-02,Leann Rimes,1
+2008-02,Massive Attack,0
+2008-02,Moloko,0
+2008-02,Natasha Bedingfield,1
+2008-02,Nelly Furtado,1
+2008-02,P!Nk,0
+2008-02,Shania Twain,1
+2008-02,Sneaker Pimps,0
+2008-03,Alina,0
+2008-03,Anastacia,0
+2008-03,Annie Lennox,0
+2008-03,Britney Spears,0
+2008-03,Christina Aguilera,0
+2008-03,Gwen Stefani,0
+2008-03,Hooverphonic,0
+2008-03,Janet Jackson,0
+2008-03,Jennifer Lopez,0
+2008-03,Kelly Clarkson,0
+2008-03,Kylie Minogue,0
+2008-03,Lamb,0
+2008-03,Leann Rimes,0
+2008-03,Massive Attack,0
+2008-03,Moloko,0
+2008-03,Natasha Bedingfield,0
+2008-03,Nelly Furtado,0
+2008-03,P!Nk,0
+2008-03,Shania Twain,0
+2008-03,Sneaker Pimps,0
+2008-04,Alina,0
+2008-04,Anastacia,0
+2008-04,Annie Lennox,0
+2008-04,Britney Spears,0
+2008-04,Christina Aguilera,0
+2008-04,Gwen Stefani,0
+2008-04,Hooverphonic,0
+2008-04,Janet Jackson,0
+2008-04,Jennifer Lopez,0
+2008-04,Kelly Clarkson,0
+2008-04,Kylie Minogue,0
+2008-04,Lamb,0
+2008-04,Leann Rimes,0
+2008-04,Massive Attack,0
+2008-04,Moloko,0
+2008-04,Natasha Bedingfield,0
+2008-04,Nelly Furtado,0
+2008-04,P!Nk,0
+2008-04,Shania Twain,0
+2008-04,Sneaker Pimps,0
+2008-05,Alina,0
+2008-05,Anastacia,0
+2008-05,Annie Lennox,0
+2008-05,Britney Spears,0
+2008-05,Christina Aguilera,0
+2008-05,Gwen Stefani,0
+2008-05,Hooverphonic,0
+2008-05,Janet Jackson,0
+2008-05,Jennifer Lopez,0
+2008-05,Kelly Clarkson,0
+2008-05,Kylie Minogue,0
+2008-05,Lamb,0
+2008-05,Leann Rimes,0
+2008-05,Massive Attack,0
+2008-05,Moloko,0
+2008-05,Natasha Bedingfield,0
+2008-05,Nelly Furtado,0
+2008-05,P!Nk,0
+2008-05,Shania Twain,0
+2008-05,Sneaker Pimps,0
+2008-06,Alina,0
+2008-06,Anastacia,0
+2008-06,Annie Lennox,0
+2008-06,Britney Spears,0
+2008-06,Christina Aguilera,0
+2008-06,Gwen Stefani,0
+2008-06,Hooverphonic,0
+2008-06,Janet Jackson,0
+2008-06,Jennifer Lopez,0
+2008-06,Kelly Clarkson,0
+2008-06,Kylie Minogue,0
+2008-06,Lamb,0
+2008-06,Leann Rimes,0
+2008-06,Massive Attack,0
+2008-06,Moloko,0
+2008-06,Natasha Bedingfield,0
+2008-06,Nelly Furtado,0
+2008-06,P!Nk,0
+2008-06,Shania Twain,0
+2008-06,Sneaker Pimps,0
+2008-07,Alina,1
+2008-07,Anastacia,0
+2008-07,Annie Lennox,0
+2008-07,Britney Spears,0
+2008-07,Christina Aguilera,0
+2008-07,Gwen Stefani,0
+2008-07,Hooverphonic,0
+2008-07,Janet Jackson,0
+2008-07,Jennifer Lopez,0
+2008-07,Kelly Clarkson,0
+2008-07,Kylie Minogue,0
+2008-07,Lamb,0
+2008-07,Leann Rimes,0
+2008-07,Massive Attack,0
+2008-07,Moloko,0
+2008-07,Natasha Bedingfield,0
+2008-07,Nelly Furtado,0
+2008-07,P!Nk,0
+2008-07,Shania Twain,0
+2008-07,Sneaker Pimps,0
+2008-08,Alina,0
+2008-08,Anastacia,0
+2008-08,Annie Lennox,0
+2008-08,Britney Spears,0
+2008-08,Christina Aguilera,0
+2008-08,Gwen Stefani,0
+2008-08,Hooverphonic,0
+2008-08,Janet Jackson,0
+2008-08,Jennifer Lopez,0
+2008-08,Kelly Clarkson,0
+2008-08,Kylie Minogue,0
+2008-08,Lamb,0
+2008-08,Leann Rimes,0
+2008-08,Massive Attack,0
+2008-08,Moloko,0
+2008-08,Natasha Bedingfield,0
+2008-08,Nelly Furtado,0
+2008-08,P!Nk,0
+2008-08,Shania Twain,0
+2008-08,Sneaker Pimps,0
+2008-09,Alina,0
+2008-09,Anastacia,0
+2008-09,Annie Lennox,0
+2008-09,Britney Spears,0
+2008-09,Christina Aguilera,0
+2008-09,Gwen Stefani,0
+2008-09,Hooverphonic,0
+2008-09,Janet Jackson,0
+2008-09,Jennifer Lopez,0
+2008-09,Kelly Clarkson,0
+2008-09,Kylie Minogue,0
+2008-09,Lamb,0
+2008-09,Leann Rimes,0
+2008-09,Massive Attack,0
+2008-09,Moloko,0
+2008-09,Natasha Bedingfield,0
+2008-09,Nelly Furtado,0
+2008-09,P!Nk,0
+2008-09,Shania Twain,0
+2008-09,Sneaker Pimps,0
+2008-10,Alina,3
+2008-10,Anastacia,0
+2008-10,Annie Lennox,0
+2008-10,Britney Spears,1
+2008-10,Christina Aguilera,0
+2008-10,Gwen Stefani,0
+2008-10,Hooverphonic,2
+2008-10,Janet Jackson,1
+2008-10,Jennifer Lopez,0
+2008-10,Kelly Clarkson,1
+2008-10,Kylie Minogue,1
+2008-10,Lamb,1
+2008-10,Leann Rimes,0
+2008-10,Massive Attack,2
+2008-10,Moloko,0
+2008-10,Natasha Bedingfield,0
+2008-10,Nelly Furtado,0
+2008-10,P!Nk,1
+2008-10,Shania Twain,0
+2008-10,Sneaker Pimps,1
+2008-11,Alina,0
+2008-11,Anastacia,0
+2008-11,Annie Lennox,0
+2008-11,Britney Spears,0
+2008-11,Christina Aguilera,0
+2008-11,Gwen Stefani,0
+2008-11,Hooverphonic,0
+2008-11,Janet Jackson,0
+2008-11,Jennifer Lopez,0
+2008-11,Kelly Clarkson,0
+2008-11,Kylie Minogue,0
+2008-11,Lamb,0
+2008-11,Leann Rimes,0
+2008-11,Massive Attack,0
+2008-11,Moloko,0
+2008-11,Natasha Bedingfield,0
+2008-11,Nelly Furtado,0
+2008-11,P!Nk,0
+2008-11,Shania Twain,0
+2008-11,Sneaker Pimps,0
+2008-12,Alina,1
+2008-12,Anastacia,2
+2008-12,Annie Lennox,12
+2008-12,Britney Spears,8
+2008-12,Christina Aguilera,5
+2008-12,Gwen Stefani,28
+2008-12,Hooverphonic,28
+2008-12,Janet Jackson,5
+2008-12,Jennifer Lopez,8
+2008-12,Kelly Clarkson,6
+2008-12,Kylie Minogue,5
+2008-12,Lamb,39
+2008-12,Leann Rimes,1
+2008-12,Massive Attack,22
+2008-12,Moloko,10
+2008-12,Natasha Bedingfield,2
+2008-12,Nelly Furtado,4
+2008-12,P!Nk,16
+2008-12,Shania Twain,3
+2008-12,Sneaker Pimps,13
+2009-01,Alina,0
+2009-01,Anastacia,3
+2009-01,Annie Lennox,3
+2009-01,Britney Spears,5
+2009-01,Christina Aguilera,4
+2009-01,Gwen Stefani,4
+2009-01,Hooverphonic,3
+2009-01,Janet Jackson,5
+2009-01,Jennifer Lopez,4
+2009-01,Kelly Clarkson,0
+2009-01,Kylie Minogue,5
+2009-01,Lamb,2
+2009-01,Leann Rimes,3
+2009-01,Massive Attack,1
+2009-01,Moloko,5
+2009-01,Natasha Bedingfield,6
+2009-01,Nelly Furtado,5
+2009-01,P!Nk,5
+2009-01,Shania Twain,2
+2009-01,Sneaker Pimps,0
+2009-02,Alina,1
+2009-02,Anastacia,0
+2009-02,Annie Lennox,0
+2009-02,Britney Spears,0
+2009-02,Christina Aguilera,0
+2009-02,Gwen Stefani,0
+2009-02,Hooverphonic,1
+2009-02,Janet Jackson,0
+2009-02,Jennifer Lopez,0
+2009-02,Kelly Clarkson,0
+2009-02,Kylie Minogue,0
+2009-02,Lamb,1
+2009-02,Leann Rimes,0
+2009-02,Massive Attack,1
+2009-02,Moloko,1
+2009-02,Natasha Bedingfield,0
+2009-02,Nelly Furtado,0
+2009-02,P!Nk,20
+2009-02,Shania Twain,0
+2009-02,Sneaker Pimps,1

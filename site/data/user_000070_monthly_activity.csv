@@ -1,0 +1,481 @@
+month,artist,plays
+2007-05,Babyshambles,0
+2007-05,Black Rebel Motorcycle Club,111
+2007-05,Bright Eyes,1
+2007-05,Digitalism,27
+2007-05,Kings Of Leon,21
+2007-05,Mazzy Star,60
+2007-05,Nirvana,13
+2007-05,Oasis,14
+2007-05,Radiohead,2
+2007-05,Sonic Youth,14
+2007-05,Spiritualized,0
+2007-05,The Black Angels,98
+2007-05,The Brian Jonestown Massacre,102
+2007-05,The Charlatans,24
+2007-05,The Electric Soft Parade,12
+2007-05,The Libertines,1
+2007-05,The Stone Roses,11
+2007-05,The Strokes,11
+2007-05,The Verve,0
+2007-05,The Warlocks,11
+2007-06,Babyshambles,0
+2007-06,Black Rebel Motorcycle Club,164
+2007-06,Bright Eyes,25
+2007-06,Digitalism,18
+2007-06,Kings Of Leon,26
+2007-06,Mazzy Star,36
+2007-06,Nirvana,36
+2007-06,Oasis,3
+2007-06,Radiohead,4
+2007-06,Sonic Youth,14
+2007-06,Spiritualized,12
+2007-06,The Black Angels,118
+2007-06,The Brian Jonestown Massacre,96
+2007-06,The Charlatans,13
+2007-06,The Electric Soft Parade,106
+2007-06,The Libertines,8
+2007-06,The Stone Roses,9
+2007-06,The Strokes,12
+2007-06,The Verve,83
+2007-06,The Warlocks,11
+2007-07,Babyshambles,0
+2007-07,Black Rebel Motorcycle Club,217
+2007-07,Bright Eyes,18
+2007-07,Digitalism,1
+2007-07,Kings Of Leon,0
+2007-07,Mazzy Star,10
+2007-07,Nirvana,29
+2007-07,Oasis,48
+2007-07,Radiohead,52
+2007-07,Sonic Youth,0
+2007-07,Spiritualized,0
+2007-07,The Black Angels,22
+2007-07,The Brian Jonestown Massacre,30
+2007-07,The Charlatans,0
+2007-07,The Electric Soft Parade,5
+2007-07,The Libertines,1
+2007-07,The Stone Roses,0
+2007-07,The Strokes,0
+2007-07,The Verve,61
+2007-07,The Warlocks,0
+2007-08,Babyshambles,7
+2007-08,Black Rebel Motorcycle Club,645
+2007-08,Bright Eyes,35
+2007-08,Digitalism,32
+2007-08,Kings Of Leon,129
+2007-08,Mazzy Star,24
+2007-08,Nirvana,19
+2007-08,Oasis,9
+2007-08,Radiohead,20
+2007-08,Sonic Youth,1
+2007-08,Spiritualized,12
+2007-08,The Black Angels,98
+2007-08,The Brian Jonestown Massacre,28
+2007-08,The Charlatans,73
+2007-08,The Electric Soft Parade,72
+2007-08,The Libertines,39
+2007-08,The Stone Roses,78
+2007-08,The Strokes,2
+2007-08,The Verve,59
+2007-08,The Warlocks,0
+2007-09,Babyshambles,151
+2007-09,Black Rebel Motorcycle Club,342
+2007-09,Bright Eyes,5
+2007-09,Digitalism,2
+2007-09,Kings Of Leon,1003
+2007-09,Mazzy Star,53
+2007-09,Nirvana,14
+2007-09,Oasis,33
+2007-09,Radiohead,19
+2007-09,Sonic Youth,19
+2007-09,Spiritualized,0
+2007-09,The Black Angels,50
+2007-09,The Brian Jonestown Massacre,4
+2007-09,The Charlatans,49
+2007-09,The Electric Soft Parade,37
+2007-09,The Libertines,23
+2007-09,The Stone Roses,50
+2007-09,The Strokes,24
+2007-09,The Verve,29
+2007-09,The Warlocks,0
+2007-10,Babyshambles,213
+2007-10,Black Rebel Motorcycle Club,157
+2007-10,Bright Eyes,6
+2007-10,Digitalism,31
+2007-10,Kings Of Leon,419
+2007-10,Mazzy Star,10
+2007-10,Nirvana,9
+2007-10,Oasis,0
+2007-10,Radiohead,316
+2007-10,Sonic Youth,12
+2007-10,Spiritualized,12
+2007-10,The Black Angels,11
+2007-10,The Brian Jonestown Massacre,2
+2007-10,The Charlatans,29
+2007-10,The Electric Soft Parade,19
+2007-10,The Libertines,4
+2007-10,The Stone Roses,0
+2007-10,The Strokes,0
+2007-10,The Verve,11
+2007-10,The Warlocks,0
+2007-11,Babyshambles,18
+2007-11,Black Rebel Motorcycle Club,133
+2007-11,Bright Eyes,2
+2007-11,Digitalism,0
+2007-11,Kings Of Leon,82
+2007-11,Mazzy Star,0
+2007-11,Nirvana,0
+2007-11,Oasis,8
+2007-11,Radiohead,4
+2007-11,Sonic Youth,0
+2007-11,Spiritualized,0
+2007-11,The Black Angels,2
+2007-11,The Brian Jonestown Massacre,1
+2007-11,The Charlatans,12
+2007-11,The Electric Soft Parade,21
+2007-11,The Libertines,3
+2007-11,The Stone Roses,0
+2007-11,The Strokes,1
+2007-11,The Verve,0
+2007-11,The Warlocks,0
+2007-12,Babyshambles,4
+2007-12,Black Rebel Motorcycle Club,301
+2007-12,Bright Eyes,0
+2007-12,Digitalism,0
+2007-12,Kings Of Leon,11
+2007-12,Mazzy Star,0
+2007-12,Nirvana,0
+2007-12,Oasis,0
+2007-12,Radiohead,0
+2007-12,Sonic Youth,0
+2007-12,Spiritualized,12
+2007-12,The Black Angels,17
+2007-12,The Brian Jonestown Massacre,0
+2007-12,The Charlatans,0
+2007-12,The Electric Soft Parade,0
+2007-12,The Libertines,0
+2007-12,The Stone Roses,0
+2007-12,The Strokes,0
+2007-12,The Verve,0
+2007-12,The Warlocks,176
+2008-01,Babyshambles,0
+2008-01,Black Rebel Motorcycle Club,47
+2008-01,Bright Eyes,0
+2008-01,Digitalism,0
+2008-01,Kings Of Leon,2
+2008-01,Mazzy Star,20
+2008-01,Nirvana,0
+2008-01,Oasis,0
+2008-01,Radiohead,0
+2008-01,Sonic Youth,0
+2008-01,Spiritualized,0
+2008-01,The Black Angels,45
+2008-01,The Brian Jonestown Massacre,0
+2008-01,The Charlatans,0
+2008-01,The Electric Soft Parade,33
+2008-01,The Libertines,0
+2008-01,The Stone Roses,6
+2008-01,The Strokes,1
+2008-01,The Verve,0
+2008-01,The Warlocks,97
+2008-02,Babyshambles,4
+2008-02,Black Rebel Motorcycle Club,108
+2008-02,Bright Eyes,7
+2008-02,Digitalism,1
+2008-02,Kings Of Leon,25
+2008-02,Mazzy Star,1
+2008-02,Nirvana,0
+2008-02,Oasis,35
+2008-02,Radiohead,5
+2008-02,Sonic Youth,2
+2008-02,Spiritualized,0
+2008-02,The Black Angels,36
+2008-02,The Brian Jonestown Massacre,6
+2008-02,The Charlatans,0
+2008-02,The Electric Soft Parade,1
+2008-02,The Libertines,5
+2008-02,The Stone Roses,0
+2008-02,The Strokes,10
+2008-02,The Verve,2
+2008-02,The Warlocks,9
+2008-03,Babyshambles,2
+2008-03,Black Rebel Motorcycle Club,11
+2008-03,Bright Eyes,0
+2008-03,Digitalism,1
+2008-03,Kings Of Leon,2
+2008-03,Mazzy Star,0
+2008-03,Nirvana,0
+2008-03,Oasis,15
+2008-03,Radiohead,0
+2008-03,Sonic Youth,1
+2008-03,Spiritualized,12
+2008-03,The Black Angels,1
+2008-03,The Brian Jonestown Massacre,0
+2008-03,The Charlatans,0
+2008-03,The Electric Soft Parade,0
+2008-03,The Libertines,0
+2008-03,The Stone Roses,6
+2008-03,The Strokes,1
+2008-03,The Verve,0
+2008-03,The Warlocks,1
+2008-04,Babyshambles,0
+2008-04,Black Rebel Motorcycle Club,9
+2008-04,Bright Eyes,0
+2008-04,Digitalism,0
+2008-04,Kings Of Leon,0
+2008-04,Mazzy Star,0
+2008-04,Nirvana,0
+2008-04,Oasis,2
+2008-04,Radiohead,1
+2008-04,Sonic Youth,0
+2008-04,Spiritualized,32
+2008-04,The Black Angels,132
+2008-04,The Brian Jonestown Massacre,0
+2008-04,The Charlatans,30
+2008-04,The Electric Soft Parade,0
+2008-04,The Libertines,0
+2008-04,The Stone Roses,0
+2008-04,The Strokes,1
+2008-04,The Verve,0
+2008-04,The Warlocks,0
+2008-05,Babyshambles,0
+2008-05,Black Rebel Motorcycle Club,349
+2008-05,Bright Eyes,6
+2008-05,Digitalism,0
+2008-05,Kings Of Leon,0
+2008-05,Mazzy Star,195
+2008-05,Nirvana,0
+2008-05,Oasis,0
+2008-05,Radiohead,0
+2008-05,Sonic Youth,0
+2008-05,Spiritualized,32
+2008-05,The Black Angels,47
+2008-05,The Brian Jonestown Massacre,0
+2008-05,The Charlatans,10
+2008-05,The Electric Soft Parade,0
+2008-05,The Libertines,0
+2008-05,The Stone Roses,0
+2008-05,The Strokes,0
+2008-05,The Verve,0
+2008-05,The Warlocks,10
+2008-06,Babyshambles,0
+2008-06,Black Rebel Motorcycle Club,169
+2008-06,Bright Eyes,0
+2008-06,Digitalism,0
+2008-06,Kings Of Leon,21
+2008-06,Mazzy Star,108
+2008-06,Nirvana,0
+2008-06,Oasis,0
+2008-06,Radiohead,11
+2008-06,Sonic Youth,12
+2008-06,Spiritualized,0
+2008-06,The Black Angels,9
+2008-06,The Brian Jonestown Massacre,3
+2008-06,The Charlatans,0
+2008-06,The Electric Soft Parade,0
+2008-06,The Libertines,28
+2008-06,The Stone Roses,17
+2008-06,The Strokes,0
+2008-06,The Verve,0
+2008-06,The Warlocks,1
+2008-07,Babyshambles,0
+2008-07,Black Rebel Motorcycle Club,304
+2008-07,Bright Eyes,0
+2008-07,Digitalism,0
+2008-07,Kings Of Leon,3
+2008-07,Mazzy Star,21
+2008-07,Nirvana,30
+2008-07,Oasis,1
+2008-07,Radiohead,14
+2008-07,Sonic Youth,0
+2008-07,Spiritualized,0
+2008-07,The Black Angels,31
+2008-07,The Brian Jonestown Massacre,4
+2008-07,The Charlatans,0
+2008-07,The Electric Soft Parade,0
+2008-07,The Libertines,5
+2008-07,The Stone Roses,1
+2008-07,The Strokes,1
+2008-07,The Verve,17
+2008-07,The Warlocks,0
+2008-08,Babyshambles,0
+2008-08,Black Rebel Motorcycle Club,20
+2008-08,Bright Eyes,0
+2008-08,Digitalism,0
+2008-08,Kings Of Leon,13
+2008-08,Mazzy Star,11
+2008-08,Nirvana,2
+2008-08,Oasis,32
+2008-08,Radiohead,0
+2008-08,Sonic Youth,0
+2008-08,Spiritualized,0
+2008-08,The Black Angels,13
+2008-08,The Brian Jonestown Massacre,18
+2008-08,The Charlatans,0
+2008-08,The Electric Soft Parade,0
+2008-08,The Libertines,2
+2008-08,The Stone Roses,2
+2008-08,The Strokes,0
+2008-08,The Verve,182
+2008-08,The Warlocks,0
+2008-09,Babyshambles,1
+2008-09,Black Rebel Motorcycle Club,5
+2008-09,Bright Eyes,11
+2008-09,Digitalism,0
+2008-09,Kings Of Leon,206
+2008-09,Mazzy Star,12
+2008-09,Nirvana,6
+2008-09,Oasis,203
+2008-09,Radiohead,18
+2008-09,Sonic Youth,1
+2008-09,Spiritualized,83
+2008-09,The Black Angels,36
+2008-09,The Brian Jonestown Massacre,48
+2008-09,The Charlatans,73
+2008-09,The Electric Soft Parade,1
+2008-09,The Libertines,1
+2008-09,The Stone Roses,0
+2008-09,The Strokes,0
+2008-09,The Verve,18
+2008-09,The Warlocks,1
+2008-10,Babyshambles,0
+2008-10,Black Rebel Motorcycle Club,0
+2008-10,Bright Eyes,0
+2008-10,Digitalism,0
+2008-10,Kings Of Leon,17
+2008-10,Mazzy Star,0
+2008-10,Nirvana,0
+2008-10,Oasis,29
+2008-10,Radiohead,0
+2008-10,Sonic Youth,0
+2008-10,Spiritualized,6
+2008-10,The Black Angels,0
+2008-10,The Brian Jonestown Massacre,0
+2008-10,The Charlatans,1
+2008-10,The Electric Soft Parade,0
+2008-10,The Libertines,0
+2008-10,The Stone Roses,0
+2008-10,The Strokes,0
+2008-10,The Verve,0
+2008-10,The Warlocks,0
+2008-11,Babyshambles,0
+2008-11,Black Rebel Motorcycle Club,88
+2008-11,Bright Eyes,0
+2008-11,Digitalism,0
+2008-11,Kings Of Leon,2
+2008-11,Mazzy Star,1
+2008-11,Nirvana,0
+2008-11,Oasis,8
+2008-11,Radiohead,0
+2008-11,Sonic Youth,1
+2008-11,Spiritualized,27
+2008-11,The Black Angels,1
+2008-11,The Brian Jonestown Massacre,2
+2008-11,The Charlatans,0
+2008-11,The Electric Soft Parade,0
+2008-11,The Libertines,0
+2008-11,The Stone Roses,0
+2008-11,The Strokes,1
+2008-11,The Verve,0
+2008-11,The Warlocks,0
+2008-12,Babyshambles,0
+2008-12,Black Rebel Motorcycle Club,6
+2008-12,Bright Eyes,0
+2008-12,Digitalism,0
+2008-12,Kings Of Leon,72
+2008-12,Mazzy Star,0
+2008-12,Nirvana,0
+2008-12,Oasis,11
+2008-12,Radiohead,0
+2008-12,Sonic Youth,0
+2008-12,Spiritualized,0
+2008-12,The Black Angels,2
+2008-12,The Brian Jonestown Massacre,0
+2008-12,The Charlatans,13
+2008-12,The Electric Soft Parade,1
+2008-12,The Libertines,1
+2008-12,The Stone Roses,0
+2008-12,The Strokes,0
+2008-12,The Verve,1
+2008-12,The Warlocks,0
+2009-01,Babyshambles,0
+2009-01,Black Rebel Motorcycle Club,20
+2009-01,Bright Eyes,0
+2009-01,Digitalism,0
+2009-01,Kings Of Leon,12
+2009-01,Mazzy Star,1
+2009-01,Nirvana,1
+2009-01,Oasis,5
+2009-01,Radiohead,8
+2009-01,Sonic Youth,0
+2009-01,Spiritualized,0
+2009-01,The Black Angels,1
+2009-01,The Brian Jonestown Massacre,1
+2009-01,The Charlatans,0
+2009-01,The Electric Soft Parade,0
+2009-01,The Libertines,2
+2009-01,The Stone Roses,0
+2009-01,The Strokes,0
+2009-01,The Verve,0
+2009-01,The Warlocks,0
+2009-02,Babyshambles,0
+2009-02,Black Rebel Motorcycle Club,26
+2009-02,Bright Eyes,0
+2009-02,Digitalism,0
+2009-02,Kings Of Leon,23
+2009-02,Mazzy Star,8
+2009-02,Nirvana,0
+2009-02,Oasis,32
+2009-02,Radiohead,9
+2009-02,Sonic Youth,0
+2009-02,Spiritualized,0
+2009-02,The Black Angels,0
+2009-02,The Brian Jonestown Massacre,1
+2009-02,The Charlatans,0
+2009-02,The Electric Soft Parade,0
+2009-02,The Libertines,12
+2009-02,The Stone Roses,0
+2009-02,The Strokes,4
+2009-02,The Verve,1
+2009-02,The Warlocks,0
+2009-03,Babyshambles,0
+2009-03,Black Rebel Motorcycle Club,0
+2009-03,Bright Eyes,0
+2009-03,Digitalism,0
+2009-03,Kings Of Leon,0
+2009-03,Mazzy Star,0
+2009-03,Nirvana,0
+2009-03,Oasis,0
+2009-03,Radiohead,0
+2009-03,Sonic Youth,0
+2009-03,Spiritualized,0
+2009-03,The Black Angels,0
+2009-03,The Brian Jonestown Massacre,0
+2009-03,The Charlatans,0
+2009-03,The Electric Soft Parade,0
+2009-03,The Libertines,0
+2009-03,The Stone Roses,0
+2009-03,The Strokes,0
+2009-03,The Verve,0
+2009-03,The Warlocks,0
+2009-04,Babyshambles,5
+2009-04,Black Rebel Motorcycle Club,49
+2009-04,Bright Eyes,1
+2009-04,Digitalism,1
+2009-04,Kings Of Leon,19
+2009-04,Mazzy Star,6
+2009-04,Nirvana,2
+2009-04,Oasis,15
+2009-04,Radiohead,6
+2009-04,Sonic Youth,6
+2009-04,Spiritualized,10
+2009-04,The Black Angels,8
+2009-04,The Brian Jonestown Massacre,5
+2009-04,The Charlatans,0
+2009-04,The Electric Soft Parade,2
+2009-04,The Libertines,13
+2009-04,The Stone Roses,6
+2009-04,The Strokes,3
+2009-04,The Verve,12
+2009-04,The Warlocks,3

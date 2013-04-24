@@ -1,0 +1,981 @@
+month,artist,plays
+2005-06,Alice Cooper,3
+2005-06,Apocalyptica,5
+2005-06,Backyard Babies,14
+2005-06,Children Of Bodom,36
+2005-06,Cradle Of Filth,2
+2005-06,Dimmu Borgir,0
+2005-06,Guns N' Roses,17
+2005-06,Hanoi Rocks,5
+2005-06,Him,17
+2005-06,In Flames,4
+2005-06,Kiss,24
+2005-06,Korn,0
+2005-06,Kotiteollisuus,0
+2005-06,Kylähullut,1
+2005-06,Metallica,2
+2005-06,Nightwish,0
+2005-06,Norther,1
+2005-06,Sentenced,9
+2005-06,The 69 Eyes,68
+2005-06,Type O Negative,0
+2005-07,Alice Cooper,43
+2005-07,Apocalyptica,43
+2005-07,Backyard Babies,51
+2005-07,Children Of Bodom,301
+2005-07,Cradle Of Filth,0
+2005-07,Dimmu Borgir,3
+2005-07,Guns N' Roses,111
+2005-07,Hanoi Rocks,35
+2005-07,Him,78
+2005-07,In Flames,6
+2005-07,Kiss,206
+2005-07,Korn,0
+2005-07,Kotiteollisuus,5
+2005-07,Kylähullut,29
+2005-07,Metallica,33
+2005-07,Nightwish,16
+2005-07,Norther,16
+2005-07,Sentenced,35
+2005-07,The 69 Eyes,568
+2005-07,Type O Negative,5
+2005-08,Alice Cooper,0
+2005-08,Apocalyptica,0
+2005-08,Backyard Babies,0
+2005-08,Children Of Bodom,0
+2005-08,Cradle Of Filth,0
+2005-08,Dimmu Borgir,0
+2005-08,Guns N' Roses,0
+2005-08,Hanoi Rocks,0
+2005-08,Him,0
+2005-08,In Flames,0
+2005-08,Kiss,0
+2005-08,Korn,0
+2005-08,Kotiteollisuus,0
+2005-08,Kylähullut,0
+2005-08,Metallica,0
+2005-08,Nightwish,0
+2005-08,Norther,0
+2005-08,Sentenced,0
+2005-08,The 69 Eyes,0
+2005-08,Type O Negative,0
+2005-09,Alice Cooper,0
+2005-09,Apocalyptica,0
+2005-09,Backyard Babies,0
+2005-09,Children Of Bodom,21
+2005-09,Cradle Of Filth,0
+2005-09,Dimmu Borgir,0
+2005-09,Guns N' Roses,2
+2005-09,Hanoi Rocks,1
+2005-09,Him,5
+2005-09,In Flames,0
+2005-09,Kiss,0
+2005-09,Korn,0
+2005-09,Kotiteollisuus,1
+2005-09,Kylähullut,0
+2005-09,Metallica,0
+2005-09,Nightwish,0
+2005-09,Norther,1
+2005-09,Sentenced,0
+2005-09,The 69 Eyes,0
+2005-09,Type O Negative,0
+2005-10,Alice Cooper,10
+2005-10,Apocalyptica,2
+2005-10,Backyard Babies,5
+2005-10,Children Of Bodom,179
+2005-10,Cradle Of Filth,0
+2005-10,Dimmu Borgir,6
+2005-10,Guns N' Roses,22
+2005-10,Hanoi Rocks,3
+2005-10,Him,10
+2005-10,In Flames,2
+2005-10,Kiss,20
+2005-10,Korn,0
+2005-10,Kotiteollisuus,3
+2005-10,Kylähullut,0
+2005-10,Metallica,1
+2005-10,Nightwish,5
+2005-10,Norther,3
+2005-10,Sentenced,2
+2005-10,The 69 Eyes,108
+2005-10,Type O Negative,0
+2005-11,Alice Cooper,1
+2005-11,Apocalyptica,0
+2005-11,Backyard Babies,0
+2005-11,Children Of Bodom,78
+2005-11,Cradle Of Filth,0
+2005-11,Dimmu Borgir,2
+2005-11,Guns N' Roses,4
+2005-11,Hanoi Rocks,1
+2005-11,Him,3
+2005-11,In Flames,0
+2005-11,Kiss,3
+2005-11,Korn,0
+2005-11,Kotiteollisuus,0
+2005-11,Kylähullut,0
+2005-11,Metallica,1
+2005-11,Nightwish,0
+2005-11,Norther,0
+2005-11,Sentenced,1
+2005-11,The 69 Eyes,15
+2005-11,Type O Negative,0
+2005-12,Alice Cooper,0
+2005-12,Apocalyptica,0
+2005-12,Backyard Babies,0
+2005-12,Children Of Bodom,103
+2005-12,Cradle Of Filth,0
+2005-12,Dimmu Borgir,0
+2005-12,Guns N' Roses,1
+2005-12,Hanoi Rocks,0
+2005-12,Him,0
+2005-12,In Flames,0
+2005-12,Kiss,2
+2005-12,Korn,4
+2005-12,Kotiteollisuus,3
+2005-12,Kylähullut,2
+2005-12,Metallica,0
+2005-12,Nightwish,1
+2005-12,Norther,1
+2005-12,Sentenced,0
+2005-12,The 69 Eyes,7
+2005-12,Type O Negative,0
+2006-01,Alice Cooper,0
+2006-01,Apocalyptica,0
+2006-01,Backyard Babies,0
+2006-01,Children Of Bodom,0
+2006-01,Cradle Of Filth,0
+2006-01,Dimmu Borgir,0
+2006-01,Guns N' Roses,0
+2006-01,Hanoi Rocks,0
+2006-01,Him,0
+2006-01,In Flames,0
+2006-01,Kiss,0
+2006-01,Korn,0
+2006-01,Kotiteollisuus,0
+2006-01,Kylähullut,0
+2006-01,Metallica,0
+2006-01,Nightwish,0
+2006-01,Norther,0
+2006-01,Sentenced,0
+2006-01,The 69 Eyes,0
+2006-01,Type O Negative,0
+2006-02,Alice Cooper,19
+2006-02,Apocalyptica,1
+2006-02,Backyard Babies,10
+2006-02,Children Of Bodom,121
+2006-02,Cradle Of Filth,1
+2006-02,Dimmu Borgir,1
+2006-02,Guns N' Roses,15
+2006-02,Hanoi Rocks,11
+2006-02,Him,16
+2006-02,In Flames,7
+2006-02,Kiss,52
+2006-02,Korn,7
+2006-02,Kotiteollisuus,1
+2006-02,Kylähullut,2
+2006-02,Metallica,4
+2006-02,Nightwish,2
+2006-02,Norther,0
+2006-02,Sentenced,5
+2006-02,The 69 Eyes,128
+2006-02,Type O Negative,7
+2006-03,Alice Cooper,1
+2006-03,Apocalyptica,0
+2006-03,Backyard Babies,1
+2006-03,Children Of Bodom,3
+2006-03,Cradle Of Filth,0
+2006-03,Dimmu Borgir,0
+2006-03,Guns N' Roses,12
+2006-03,Hanoi Rocks,1
+2006-03,Him,5
+2006-03,In Flames,0
+2006-03,Kiss,22
+2006-03,Korn,9
+2006-03,Kotiteollisuus,0
+2006-03,Kylähullut,0
+2006-03,Metallica,0
+2006-03,Nightwish,7
+2006-03,Norther,0
+2006-03,Sentenced,0
+2006-03,The 69 Eyes,4
+2006-03,Type O Negative,0
+2006-04,Alice Cooper,50
+2006-04,Apocalyptica,17
+2006-04,Backyard Babies,119
+2006-04,Children Of Bodom,260
+2006-04,Cradle Of Filth,7
+2006-04,Dimmu Borgir,3
+2006-04,Guns N' Roses,64
+2006-04,Hanoi Rocks,104
+2006-04,Him,85
+2006-04,In Flames,24
+2006-04,Kiss,178
+2006-04,Korn,20
+2006-04,Kotiteollisuus,18
+2006-04,Kylähullut,17
+2006-04,Metallica,58
+2006-04,Nightwish,33
+2006-04,Norther,126
+2006-04,Sentenced,26
+2006-04,The 69 Eyes,461
+2006-04,Type O Negative,56
+2006-05,Alice Cooper,56
+2006-05,Apocalyptica,15
+2006-05,Backyard Babies,59
+2006-05,Children Of Bodom,937
+2006-05,Cradle Of Filth,7
+2006-05,Dimmu Borgir,2
+2006-05,Guns N' Roses,64
+2006-05,Hanoi Rocks,70
+2006-05,Him,101
+2006-05,In Flames,24
+2006-05,Kiss,165
+2006-05,Korn,5
+2006-05,Kotiteollisuus,16
+2006-05,Kylähullut,18
+2006-05,Metallica,64
+2006-05,Nightwish,32
+2006-05,Norther,65
+2006-05,Sentenced,31
+2006-05,The 69 Eyes,363
+2006-05,Type O Negative,48
+2006-06,Alice Cooper,20
+2006-06,Apocalyptica,10
+2006-06,Backyard Babies,23
+2006-06,Children Of Bodom,496
+2006-06,Cradle Of Filth,6
+2006-06,Dimmu Borgir,5
+2006-06,Guns N' Roses,43
+2006-06,Hanoi Rocks,19
+2006-06,Him,28
+2006-06,In Flames,22
+2006-06,Kiss,67
+2006-06,Korn,9
+2006-06,Kotiteollisuus,16
+2006-06,Kylähullut,23
+2006-06,Metallica,47
+2006-06,Nightwish,36
+2006-06,Norther,64
+2006-06,Sentenced,29
+2006-06,The 69 Eyes,203
+2006-06,Type O Negative,39
+2006-07,Alice Cooper,10
+2006-07,Apocalyptica,25
+2006-07,Backyard Babies,7
+2006-07,Children Of Bodom,380
+2006-07,Cradle Of Filth,16
+2006-07,Dimmu Borgir,3
+2006-07,Guns N' Roses,31
+2006-07,Hanoi Rocks,11
+2006-07,Him,8
+2006-07,In Flames,13
+2006-07,Kiss,26
+2006-07,Korn,19
+2006-07,Kotiteollisuus,9
+2006-07,Kylähullut,11
+2006-07,Metallica,44
+2006-07,Nightwish,31
+2006-07,Norther,96
+2006-07,Sentenced,26
+2006-07,The 69 Eyes,194
+2006-07,Type O Negative,29
+2006-08,Alice Cooper,5
+2006-08,Apocalyptica,44
+2006-08,Backyard Babies,3
+2006-08,Children Of Bodom,165
+2006-08,Cradle Of Filth,16
+2006-08,Dimmu Borgir,22
+2006-08,Guns N' Roses,10
+2006-08,Hanoi Rocks,5
+2006-08,Him,32
+2006-08,In Flames,42
+2006-08,Kiss,8
+2006-08,Korn,12
+2006-08,Kotiteollisuus,5
+2006-08,Kylähullut,4
+2006-08,Metallica,39
+2006-08,Nightwish,18
+2006-08,Norther,56
+2006-08,Sentenced,30
+2006-08,The 69 Eyes,104
+2006-08,Type O Negative,17
+2006-09,Alice Cooper,10
+2006-09,Apocalyptica,23
+2006-09,Backyard Babies,9
+2006-09,Children Of Bodom,132
+2006-09,Cradle Of Filth,71
+2006-09,Dimmu Borgir,14
+2006-09,Guns N' Roses,3
+2006-09,Hanoi Rocks,10
+2006-09,Him,13
+2006-09,In Flames,91
+2006-09,Kiss,6
+2006-09,Korn,11
+2006-09,Kotiteollisuus,4
+2006-09,Kylähullut,6
+2006-09,Metallica,39
+2006-09,Nightwish,14
+2006-09,Norther,46
+2006-09,Sentenced,46
+2006-09,The 69 Eyes,140
+2006-09,Type O Negative,22
+2006-10,Alice Cooper,5
+2006-10,Apocalyptica,11
+2006-10,Backyard Babies,6
+2006-10,Children Of Bodom,163
+2006-10,Cradle Of Filth,107
+2006-10,Dimmu Borgir,17
+2006-10,Guns N' Roses,5
+2006-10,Hanoi Rocks,4
+2006-10,Him,17
+2006-10,In Flames,77
+2006-10,Kiss,3
+2006-10,Korn,11
+2006-10,Kotiteollisuus,7
+2006-10,Kylähullut,5
+2006-10,Metallica,13
+2006-10,Nightwish,8
+2006-10,Norther,47
+2006-10,Sentenced,31
+2006-10,The 69 Eyes,111
+2006-10,Type O Negative,33
+2006-11,Alice Cooper,1
+2006-11,Apocalyptica,6
+2006-11,Backyard Babies,8
+2006-11,Children Of Bodom,121
+2006-11,Cradle Of Filth,60
+2006-11,Dimmu Borgir,11
+2006-11,Guns N' Roses,2
+2006-11,Hanoi Rocks,3
+2006-11,Him,19
+2006-11,In Flames,42
+2006-11,Kiss,4
+2006-11,Korn,8
+2006-11,Kotiteollisuus,22
+2006-11,Kylähullut,5
+2006-11,Metallica,21
+2006-11,Nightwish,28
+2006-11,Norther,30
+2006-11,Sentenced,11
+2006-11,The 69 Eyes,33
+2006-11,Type O Negative,14
+2006-12,Alice Cooper,6
+2006-12,Apocalyptica,10
+2006-12,Backyard Babies,98
+2006-12,Children Of Bodom,87
+2006-12,Cradle Of Filth,36
+2006-12,Dimmu Borgir,0
+2006-12,Guns N' Roses,3
+2006-12,Hanoi Rocks,0
+2006-12,Him,20
+2006-12,In Flames,33
+2006-12,Kiss,6
+2006-12,Korn,6
+2006-12,Kotiteollisuus,6
+2006-12,Kylähullut,4
+2006-12,Metallica,11
+2006-12,Nightwish,10
+2006-12,Norther,25
+2006-12,Sentenced,31
+2006-12,The 69 Eyes,49
+2006-12,Type O Negative,9
+2007-01,Alice Cooper,3
+2007-01,Apocalyptica,8
+2007-01,Backyard Babies,14
+2007-01,Children Of Bodom,86
+2007-01,Cradle Of Filth,51
+2007-01,Dimmu Borgir,22
+2007-01,Guns N' Roses,4
+2007-01,Hanoi Rocks,0
+2007-01,Him,11
+2007-01,In Flames,57
+2007-01,Kiss,5
+2007-01,Korn,7
+2007-01,Kotiteollisuus,1
+2007-01,Kylähullut,1
+2007-01,Metallica,14
+2007-01,Nightwish,7
+2007-01,Norther,25
+2007-01,Sentenced,42
+2007-01,The 69 Eyes,129
+2007-01,Type O Negative,13
+2007-02,Alice Cooper,5
+2007-02,Apocalyptica,3
+2007-02,Backyard Babies,11
+2007-02,Children Of Bodom,93
+2007-02,Cradle Of Filth,46
+2007-02,Dimmu Borgir,15
+2007-02,Guns N' Roses,2
+2007-02,Hanoi Rocks,2
+2007-02,Him,16
+2007-02,In Flames,45
+2007-02,Kiss,6
+2007-02,Korn,10
+2007-02,Kotiteollisuus,5
+2007-02,Kylähullut,1
+2007-02,Metallica,8
+2007-02,Nightwish,6
+2007-02,Norther,56
+2007-02,Sentenced,50
+2007-02,The 69 Eyes,212
+2007-02,Type O Negative,19
+2007-03,Alice Cooper,7
+2007-03,Apocalyptica,8
+2007-03,Backyard Babies,24
+2007-03,Children Of Bodom,130
+2007-03,Cradle Of Filth,38
+2007-03,Dimmu Borgir,32
+2007-03,Guns N' Roses,8
+2007-03,Hanoi Rocks,1
+2007-03,Him,17
+2007-03,In Flames,47
+2007-03,Kiss,10
+2007-03,Korn,4
+2007-03,Kotiteollisuus,8
+2007-03,Kylähullut,17
+2007-03,Metallica,21
+2007-03,Nightwish,19
+2007-03,Norther,49
+2007-03,Sentenced,34
+2007-03,The 69 Eyes,197
+2007-03,Type O Negative,45
+2007-04,Alice Cooper,2
+2007-04,Apocalyptica,6
+2007-04,Backyard Babies,10
+2007-04,Children Of Bodom,36
+2007-04,Cradle Of Filth,28
+2007-04,Dimmu Borgir,51
+2007-04,Guns N' Roses,6
+2007-04,Hanoi Rocks,3
+2007-04,Him,25
+2007-04,In Flames,50
+2007-04,Kiss,9
+2007-04,Korn,7
+2007-04,Kotiteollisuus,2
+2007-04,Kylähullut,7
+2007-04,Metallica,14
+2007-04,Nightwish,4
+2007-04,Norther,26
+2007-04,Sentenced,22
+2007-04,The 69 Eyes,172
+2007-04,Type O Negative,36
+2007-05,Alice Cooper,3
+2007-05,Apocalyptica,3
+2007-05,Backyard Babies,10
+2007-05,Children Of Bodom,121
+2007-05,Cradle Of Filth,22
+2007-05,Dimmu Borgir,57
+2007-05,Guns N' Roses,88
+2007-05,Hanoi Rocks,6
+2007-05,Him,5
+2007-05,In Flames,16
+2007-05,Kiss,8
+2007-05,Korn,5
+2007-05,Kotiteollisuus,3
+2007-05,Kylähullut,7
+2007-05,Metallica,15
+2007-05,Nightwish,8
+2007-05,Norther,22
+2007-05,Sentenced,11
+2007-05,The 69 Eyes,90
+2007-05,Type O Negative,11
+2007-06,Alice Cooper,2
+2007-06,Apocalyptica,5
+2007-06,Backyard Babies,5
+2007-06,Children Of Bodom,64
+2007-06,Cradle Of Filth,13
+2007-06,Dimmu Borgir,12
+2007-06,Guns N' Roses,3
+2007-06,Hanoi Rocks,2
+2007-06,Him,3
+2007-06,In Flames,42
+2007-06,Kiss,1
+2007-06,Korn,5
+2007-06,Kotiteollisuus,4
+2007-06,Kylähullut,2
+2007-06,Metallica,6
+2007-06,Nightwish,3
+2007-06,Norther,8
+2007-06,Sentenced,10
+2007-06,The 69 Eyes,64
+2007-06,Type O Negative,9
+2007-07,Alice Cooper,1
+2007-07,Apocalyptica,4
+2007-07,Backyard Babies,3
+2007-07,Children Of Bodom,77
+2007-07,Cradle Of Filth,14
+2007-07,Dimmu Borgir,23
+2007-07,Guns N' Roses,4
+2007-07,Hanoi Rocks,4
+2007-07,Him,3
+2007-07,In Flames,80
+2007-07,Kiss,2
+2007-07,Korn,42
+2007-07,Kotiteollisuus,20
+2007-07,Kylähullut,3
+2007-07,Metallica,4
+2007-07,Nightwish,2
+2007-07,Norther,12
+2007-07,Sentenced,11
+2007-07,The 69 Eyes,97
+2007-07,Type O Negative,10
+2007-08,Alice Cooper,3
+2007-08,Apocalyptica,6
+2007-08,Backyard Babies,8
+2007-08,Children Of Bodom,102
+2007-08,Cradle Of Filth,8
+2007-08,Dimmu Borgir,14
+2007-08,Guns N' Roses,8
+2007-08,Hanoi Rocks,2
+2007-08,Him,1
+2007-08,In Flames,16
+2007-08,Kiss,5
+2007-08,Korn,7
+2007-08,Kotiteollisuus,11
+2007-08,Kylähullut,23
+2007-08,Metallica,10
+2007-08,Nightwish,2
+2007-08,Norther,11
+2007-08,Sentenced,5
+2007-08,The 69 Eyes,39
+2007-08,Type O Negative,8
+2007-09,Alice Cooper,5
+2007-09,Apocalyptica,5
+2007-09,Backyard Babies,7
+2007-09,Children Of Bodom,25
+2007-09,Cradle Of Filth,9
+2007-09,Dimmu Borgir,8
+2007-09,Guns N' Roses,9
+2007-09,Hanoi Rocks,4
+2007-09,Him,10
+2007-09,In Flames,17
+2007-09,Kiss,3
+2007-09,Korn,4
+2007-09,Kotiteollisuus,13
+2007-09,Kylähullut,7
+2007-09,Metallica,9
+2007-09,Nightwish,8
+2007-09,Norther,13
+2007-09,Sentenced,10
+2007-09,The 69 Eyes,59
+2007-09,Type O Negative,10
+2007-10,Alice Cooper,1
+2007-10,Apocalyptica,1
+2007-10,Backyard Babies,5
+2007-10,Children Of Bodom,12
+2007-10,Cradle Of Filth,2
+2007-10,Dimmu Borgir,5
+2007-10,Guns N' Roses,0
+2007-10,Hanoi Rocks,1
+2007-10,Him,24
+2007-10,In Flames,5
+2007-10,Kiss,2
+2007-10,Korn,5
+2007-10,Kotiteollisuus,11
+2007-10,Kylähullut,1
+2007-10,Metallica,0
+2007-10,Nightwish,2
+2007-10,Norther,7
+2007-10,Sentenced,2
+2007-10,The 69 Eyes,34
+2007-10,Type O Negative,4
+2007-11,Alice Cooper,2
+2007-11,Apocalyptica,13
+2007-11,Backyard Babies,1
+2007-11,Children Of Bodom,8
+2007-11,Cradle Of Filth,1
+2007-11,Dimmu Borgir,1
+2007-11,Guns N' Roses,2
+2007-11,Hanoi Rocks,0
+2007-11,Him,1
+2007-11,In Flames,2
+2007-11,Kiss,0
+2007-11,Korn,11
+2007-11,Kotiteollisuus,5
+2007-11,Kylähullut,1
+2007-11,Metallica,1
+2007-11,Nightwish,49
+2007-11,Norther,2
+2007-11,Sentenced,1
+2007-11,The 69 Eyes,15
+2007-11,Type O Negative,1
+2007-12,Alice Cooper,2
+2007-12,Apocalyptica,2
+2007-12,Backyard Babies,7
+2007-12,Children Of Bodom,11
+2007-12,Cradle Of Filth,3
+2007-12,Dimmu Borgir,2
+2007-12,Guns N' Roses,3
+2007-12,Hanoi Rocks,1
+2007-12,Him,11
+2007-12,In Flames,2
+2007-12,Kiss,2
+2007-12,Korn,5
+2007-12,Kotiteollisuus,5
+2007-12,Kylähullut,1
+2007-12,Metallica,1
+2007-12,Nightwish,32
+2007-12,Norther,3
+2007-12,Sentenced,1
+2007-12,The 69 Eyes,40
+2007-12,Type O Negative,2
+2008-01,Alice Cooper,3
+2008-01,Apocalyptica,4
+2008-01,Backyard Babies,6
+2008-01,Children Of Bodom,27
+2008-01,Cradle Of Filth,8
+2008-01,Dimmu Borgir,6
+2008-01,Guns N' Roses,13
+2008-01,Hanoi Rocks,1
+2008-01,Him,17
+2008-01,In Flames,16
+2008-01,Kiss,4
+2008-01,Korn,4
+2008-01,Kotiteollisuus,53
+2008-01,Kylähullut,7
+2008-01,Metallica,6
+2008-01,Nightwish,22
+2008-01,Norther,6
+2008-01,Sentenced,5
+2008-01,The 69 Eyes,24
+2008-01,Type O Negative,8
+2008-02,Alice Cooper,2
+2008-02,Apocalyptica,2
+2008-02,Backyard Babies,3
+2008-02,Children Of Bodom,38
+2008-02,Cradle Of Filth,4
+2008-02,Dimmu Borgir,0
+2008-02,Guns N' Roses,6
+2008-02,Hanoi Rocks,4
+2008-02,Him,11
+2008-02,In Flames,1
+2008-02,Kiss,3
+2008-02,Korn,5
+2008-02,Kotiteollisuus,8
+2008-02,Kylähullut,1
+2008-02,Metallica,3
+2008-02,Nightwish,2
+2008-02,Norther,3
+2008-02,Sentenced,5
+2008-02,The 69 Eyes,10
+2008-02,Type O Negative,23
+2008-03,Alice Cooper,2
+2008-03,Apocalyptica,3
+2008-03,Backyard Babies,3
+2008-03,Children Of Bodom,75
+2008-03,Cradle Of Filth,0
+2008-03,Dimmu Borgir,2
+2008-03,Guns N' Roses,4
+2008-03,Hanoi Rocks,1
+2008-03,Him,2
+2008-03,In Flames,8
+2008-03,Kiss,1
+2008-03,Korn,3
+2008-03,Kotiteollisuus,6
+2008-03,Kylähullut,0
+2008-03,Metallica,3
+2008-03,Nightwish,3
+2008-03,Norther,2
+2008-03,Sentenced,0
+2008-03,The 69 Eyes,26
+2008-03,Type O Negative,3
+2008-04,Alice Cooper,1
+2008-04,Apocalyptica,4
+2008-04,Backyard Babies,1
+2008-04,Children Of Bodom,36
+2008-04,Cradle Of Filth,3
+2008-04,Dimmu Borgir,4
+2008-04,Guns N' Roses,3
+2008-04,Hanoi Rocks,1
+2008-04,Him,5
+2008-04,In Flames,7
+2008-04,Kiss,2
+2008-04,Korn,2
+2008-04,Kotiteollisuus,15
+2008-04,Kylähullut,1
+2008-04,Metallica,1
+2008-04,Nightwish,2
+2008-04,Norther,4
+2008-04,Sentenced,0
+2008-04,The 69 Eyes,5
+2008-04,Type O Negative,1
+2008-05,Alice Cooper,0
+2008-05,Apocalyptica,6
+2008-05,Backyard Babies,3
+2008-05,Children Of Bodom,9
+2008-05,Cradle Of Filth,1
+2008-05,Dimmu Borgir,2
+2008-05,Guns N' Roses,0
+2008-05,Hanoi Rocks,0
+2008-05,Him,2
+2008-05,In Flames,3
+2008-05,Kiss,4
+2008-05,Korn,1
+2008-05,Kotiteollisuus,8
+2008-05,Kylähullut,2
+2008-05,Metallica,3
+2008-05,Nightwish,0
+2008-05,Norther,2
+2008-05,Sentenced,3
+2008-05,The 69 Eyes,5
+2008-05,Type O Negative,1
+2008-06,Alice Cooper,4
+2008-06,Apocalyptica,11
+2008-06,Backyard Babies,1
+2008-06,Children Of Bodom,72
+2008-06,Cradle Of Filth,6
+2008-06,Dimmu Borgir,4
+2008-06,Guns N' Roses,6
+2008-06,Hanoi Rocks,1
+2008-06,Him,6
+2008-06,In Flames,13
+2008-06,Kiss,5
+2008-06,Korn,1
+2008-06,Kotiteollisuus,29
+2008-06,Kylähullut,5
+2008-06,Metallica,2
+2008-06,Nightwish,2
+2008-06,Norther,56
+2008-06,Sentenced,5
+2008-06,The 69 Eyes,29
+2008-06,Type O Negative,2
+2008-07,Alice Cooper,3
+2008-07,Apocalyptica,4
+2008-07,Backyard Babies,2
+2008-07,Children Of Bodom,43
+2008-07,Cradle Of Filth,2
+2008-07,Dimmu Borgir,7
+2008-07,Guns N' Roses,2
+2008-07,Hanoi Rocks,1
+2008-07,Him,3
+2008-07,In Flames,10
+2008-07,Kiss,0
+2008-07,Korn,1
+2008-07,Kotiteollisuus,11
+2008-07,Kylähullut,4
+2008-07,Metallica,0
+2008-07,Nightwish,2
+2008-07,Norther,22
+2008-07,Sentenced,11
+2008-07,The 69 Eyes,15
+2008-07,Type O Negative,3
+2008-08,Alice Cooper,0
+2008-08,Apocalyptica,5
+2008-08,Backyard Babies,1
+2008-08,Children Of Bodom,76
+2008-08,Cradle Of Filth,1
+2008-08,Dimmu Borgir,8
+2008-08,Guns N' Roses,0
+2008-08,Hanoi Rocks,0
+2008-08,Him,0
+2008-08,In Flames,1
+2008-08,Kiss,1
+2008-08,Korn,0
+2008-08,Kotiteollisuus,2
+2008-08,Kylähullut,4
+2008-08,Metallica,0
+2008-08,Nightwish,1
+2008-08,Norther,6
+2008-08,Sentenced,5
+2008-08,The 69 Eyes,4
+2008-08,Type O Negative,2
+2008-09,Alice Cooper,0
+2008-09,Apocalyptica,0
+2008-09,Backyard Babies,0
+2008-09,Children Of Bodom,0
+2008-09,Cradle Of Filth,0
+2008-09,Dimmu Borgir,0
+2008-09,Guns N' Roses,0
+2008-09,Hanoi Rocks,0
+2008-09,Him,0
+2008-09,In Flames,0
+2008-09,Kiss,0
+2008-09,Korn,0
+2008-09,Kotiteollisuus,0
+2008-09,Kylähullut,0
+2008-09,Metallica,0
+2008-09,Nightwish,0
+2008-09,Norther,0
+2008-09,Sentenced,0
+2008-09,The 69 Eyes,0
+2008-09,Type O Negative,0
+2008-10,Alice Cooper,0
+2008-10,Apocalyptica,0
+2008-10,Backyard Babies,0
+2008-10,Children Of Bodom,0
+2008-10,Cradle Of Filth,0
+2008-10,Dimmu Borgir,0
+2008-10,Guns N' Roses,0
+2008-10,Hanoi Rocks,0
+2008-10,Him,0
+2008-10,In Flames,0
+2008-10,Kiss,0
+2008-10,Korn,0
+2008-10,Kotiteollisuus,0
+2008-10,Kylähullut,0
+2008-10,Metallica,0
+2008-10,Nightwish,0
+2008-10,Norther,0
+2008-10,Sentenced,0
+2008-10,The 69 Eyes,0
+2008-10,Type O Negative,0
+2008-11,Alice Cooper,0
+2008-11,Apocalyptica,0
+2008-11,Backyard Babies,0
+2008-11,Children Of Bodom,0
+2008-11,Cradle Of Filth,0
+2008-11,Dimmu Borgir,0
+2008-11,Guns N' Roses,0
+2008-11,Hanoi Rocks,0
+2008-11,Him,0
+2008-11,In Flames,0
+2008-11,Kiss,0
+2008-11,Korn,0
+2008-11,Kotiteollisuus,0
+2008-11,Kylähullut,0
+2008-11,Metallica,0
+2008-11,Nightwish,0
+2008-11,Norther,0
+2008-11,Sentenced,0
+2008-11,The 69 Eyes,0
+2008-11,Type O Negative,0
+2008-12,Alice Cooper,0
+2008-12,Apocalyptica,0
+2008-12,Backyard Babies,0
+2008-12,Children Of Bodom,0
+2008-12,Cradle Of Filth,0
+2008-12,Dimmu Borgir,0
+2008-12,Guns N' Roses,0
+2008-12,Hanoi Rocks,0
+2008-12,Him,0
+2008-12,In Flames,0
+2008-12,Kiss,0
+2008-12,Korn,0
+2008-12,Kotiteollisuus,0
+2008-12,Kylähullut,0
+2008-12,Metallica,0
+2008-12,Nightwish,0
+2008-12,Norther,0
+2008-12,Sentenced,0
+2008-12,The 69 Eyes,0
+2008-12,Type O Negative,0
+2009-01,Alice Cooper,0
+2009-01,Apocalyptica,0
+2009-01,Backyard Babies,0
+2009-01,Children Of Bodom,0
+2009-01,Cradle Of Filth,0
+2009-01,Dimmu Borgir,0
+2009-01,Guns N' Roses,0
+2009-01,Hanoi Rocks,0
+2009-01,Him,0
+2009-01,In Flames,0
+2009-01,Kiss,0
+2009-01,Korn,0
+2009-01,Kotiteollisuus,0
+2009-01,Kylähullut,0
+2009-01,Metallica,0
+2009-01,Nightwish,0
+2009-01,Norther,0
+2009-01,Sentenced,0
+2009-01,The 69 Eyes,0
+2009-01,Type O Negative,0
+2009-02,Alice Cooper,0
+2009-02,Apocalyptica,0
+2009-02,Backyard Babies,0
+2009-02,Children Of Bodom,0
+2009-02,Cradle Of Filth,0
+2009-02,Dimmu Borgir,0
+2009-02,Guns N' Roses,0
+2009-02,Hanoi Rocks,0
+2009-02,Him,0
+2009-02,In Flames,0
+2009-02,Kiss,0
+2009-02,Korn,0
+2009-02,Kotiteollisuus,0
+2009-02,Kylähullut,0
+2009-02,Metallica,0
+2009-02,Nightwish,0
+2009-02,Norther,0
+2009-02,Sentenced,0
+2009-02,The 69 Eyes,0
+2009-02,Type O Negative,0
+2009-03,Alice Cooper,0
+2009-03,Apocalyptica,0
+2009-03,Backyard Babies,0
+2009-03,Children Of Bodom,0
+2009-03,Cradle Of Filth,0
+2009-03,Dimmu Borgir,0
+2009-03,Guns N' Roses,0
+2009-03,Hanoi Rocks,0
+2009-03,Him,0
+2009-03,In Flames,0
+2009-03,Kiss,0
+2009-03,Korn,0
+2009-03,Kotiteollisuus,0
+2009-03,Kylähullut,0
+2009-03,Metallica,0
+2009-03,Nightwish,0
+2009-03,Norther,0
+2009-03,Sentenced,0
+2009-03,The 69 Eyes,0
+2009-03,Type O Negative,0
+2009-04,Alice Cooper,0
+2009-04,Apocalyptica,0
+2009-04,Backyard Babies,0
+2009-04,Children Of Bodom,0
+2009-04,Cradle Of Filth,0
+2009-04,Dimmu Borgir,0
+2009-04,Guns N' Roses,0
+2009-04,Hanoi Rocks,0
+2009-04,Him,0
+2009-04,In Flames,0
+2009-04,Kiss,0
+2009-04,Korn,0
+2009-04,Kotiteollisuus,0
+2009-04,Kylähullut,0
+2009-04,Metallica,0
+2009-04,Nightwish,0
+2009-04,Norther,0
+2009-04,Sentenced,0
+2009-04,The 69 Eyes,0
+2009-04,Type O Negative,0
+2009-05,Alice Cooper,0
+2009-05,Apocalyptica,0
+2009-05,Backyard Babies,0
+2009-05,Children Of Bodom,0
+2009-05,Cradle Of Filth,0
+2009-05,Dimmu Borgir,0
+2009-05,Guns N' Roses,0
+2009-05,Hanoi Rocks,0
+2009-05,Him,0
+2009-05,In Flames,0
+2009-05,Kiss,0
+2009-05,Korn,0
+2009-05,Kotiteollisuus,0
+2009-05,Kylähullut,0
+2009-05,Metallica,0
+2009-05,Nightwish,0
+2009-05,Norther,0
+2009-05,Sentenced,0
+2009-05,The 69 Eyes,0
+2009-05,Type O Negative,0
+2009-06,Alice Cooper,1
+2009-06,Apocalyptica,4
+2009-06,Backyard Babies,2
+2009-06,Children Of Bodom,8
+2009-06,Cradle Of Filth,1
+2009-06,Dimmu Borgir,2
+2009-06,Guns N' Roses,1
+2009-06,Hanoi Rocks,1
+2009-06,Him,5
+2009-06,In Flames,1
+2009-06,Kiss,0
+2009-06,Korn,0
+2009-06,Kotiteollisuus,5
+2009-06,Kylähullut,0
+2009-06,Metallica,2
+2009-06,Nightwish,2
+2009-06,Norther,0
+2009-06,Sentenced,2
+2009-06,The 69 Eyes,97
+2009-06,Type O Negative,1

@@ -1,0 +1,761 @@
+month,artist,plays
+2006-03,Belle And Sebastian,22
+2006-03,Billy Joel,2
+2006-03,Bright Eyes,31
+2006-03,Dashboard Confessional,0
+2006-03,Dave Matthews Band,1
+2006-03,Death Cab For Cutie,36
+2006-03,Dropping Daylight,14
+2006-03,Fall Out Boy,1
+2006-03,Jack Johnson,8
+2006-03,Jason Mraz,0
+2006-03,Jimmy Eat World,4
+2006-03,Mae,2
+2006-03,Panic At The Disco,2
+2006-03,Paramore,0
+2006-03,Snow Patrol,5
+2006-03,The Decemberists,31
+2006-03,The Kooks,0
+2006-03,The Postal Service,28
+2006-03,The Shins,48
+2006-03,Wilco,35
+2006-04,Belle And Sebastian,5
+2006-04,Billy Joel,0
+2006-04,Bright Eyes,4
+2006-04,Dashboard Confessional,1
+2006-04,Dave Matthews Band,1
+2006-04,Death Cab For Cutie,8
+2006-04,Dropping Daylight,0
+2006-04,Fall Out Boy,0
+2006-04,Jack Johnson,1
+2006-04,Jason Mraz,0
+2006-04,Jimmy Eat World,2
+2006-04,Mae,0
+2006-04,Panic At The Disco,0
+2006-04,Paramore,0
+2006-04,Snow Patrol,3
+2006-04,The Decemberists,4
+2006-04,The Kooks,0
+2006-04,The Postal Service,5
+2006-04,The Shins,7
+2006-04,Wilco,6
+2006-05,Belle And Sebastian,0
+2006-05,Billy Joel,0
+2006-05,Bright Eyes,0
+2006-05,Dashboard Confessional,0
+2006-05,Dave Matthews Band,0
+2006-05,Death Cab For Cutie,0
+2006-05,Dropping Daylight,1
+2006-05,Fall Out Boy,0
+2006-05,Jack Johnson,0
+2006-05,Jason Mraz,0
+2006-05,Jimmy Eat World,0
+2006-05,Mae,0
+2006-05,Panic At The Disco,10
+2006-05,Paramore,0
+2006-05,Snow Patrol,0
+2006-05,The Decemberists,0
+2006-05,The Kooks,0
+2006-05,The Postal Service,0
+2006-05,The Shins,0
+2006-05,Wilco,0
+2006-06,Belle And Sebastian,1
+2006-06,Billy Joel,0
+2006-06,Bright Eyes,3
+2006-06,Dashboard Confessional,0
+2006-06,Dave Matthews Band,2
+2006-06,Death Cab For Cutie,3
+2006-06,Dropping Daylight,2
+2006-06,Fall Out Boy,0
+2006-06,Jack Johnson,14
+2006-06,Jason Mraz,12
+2006-06,Jimmy Eat World,3
+2006-06,Mae,1
+2006-06,Panic At The Disco,1
+2006-06,Paramore,0
+2006-06,Snow Patrol,1
+2006-06,The Decemberists,2
+2006-06,The Kooks,0
+2006-06,The Postal Service,1
+2006-06,The Shins,17
+2006-06,Wilco,2
+2006-07,Belle And Sebastian,0
+2006-07,Billy Joel,0
+2006-07,Bright Eyes,12
+2006-07,Dashboard Confessional,0
+2006-07,Dave Matthews Band,0
+2006-07,Death Cab For Cutie,5
+2006-07,Dropping Daylight,0
+2006-07,Fall Out Boy,0
+2006-07,Jack Johnson,0
+2006-07,Jason Mraz,0
+2006-07,Jimmy Eat World,0
+2006-07,Mae,1
+2006-07,Panic At The Disco,0
+2006-07,Paramore,0
+2006-07,Snow Patrol,0
+2006-07,The Decemberists,5
+2006-07,The Kooks,0
+2006-07,The Postal Service,5
+2006-07,The Shins,5
+2006-07,Wilco,4
+2006-08,Belle And Sebastian,0
+2006-08,Billy Joel,0
+2006-08,Bright Eyes,1
+2006-08,Dashboard Confessional,112
+2006-08,Dave Matthews Band,1
+2006-08,Death Cab For Cutie,107
+2006-08,Dropping Daylight,1
+2006-08,Fall Out Boy,0
+2006-08,Jack Johnson,1
+2006-08,Jason Mraz,0
+2006-08,Jimmy Eat World,0
+2006-08,Mae,0
+2006-08,Panic At The Disco,29
+2006-08,Paramore,0
+2006-08,Snow Patrol,1
+2006-08,The Decemberists,1
+2006-08,The Kooks,0
+2006-08,The Postal Service,16
+2006-08,The Shins,50
+2006-08,Wilco,1
+2006-09,Belle And Sebastian,0
+2006-09,Billy Joel,0
+2006-09,Bright Eyes,0
+2006-09,Dashboard Confessional,47
+2006-09,Dave Matthews Band,0
+2006-09,Death Cab For Cutie,42
+2006-09,Dropping Daylight,6
+2006-09,Fall Out Boy,0
+2006-09,Jack Johnson,0
+2006-09,Jason Mraz,0
+2006-09,Jimmy Eat World,0
+2006-09,Mae,0
+2006-09,Panic At The Disco,26
+2006-09,Paramore,6
+2006-09,Snow Patrol,13
+2006-09,The Decemberists,0
+2006-09,The Kooks,0
+2006-09,The Postal Service,10
+2006-09,The Shins,12
+2006-09,Wilco,0
+2006-10,Belle And Sebastian,0
+2006-10,Billy Joel,0
+2006-10,Bright Eyes,0
+2006-10,Dashboard Confessional,20
+2006-10,Dave Matthews Band,0
+2006-10,Death Cab For Cutie,52
+2006-10,Dropping Daylight,11
+2006-10,Fall Out Boy,1
+2006-10,Jack Johnson,15
+2006-10,Jason Mraz,0
+2006-10,Jimmy Eat World,0
+2006-10,Mae,6
+2006-10,Panic At The Disco,19
+2006-10,Paramore,0
+2006-10,Snow Patrol,0
+2006-10,The Decemberists,1
+2006-10,The Kooks,0
+2006-10,The Postal Service,3
+2006-10,The Shins,142
+2006-10,Wilco,0
+2006-11,Belle And Sebastian,0
+2006-11,Billy Joel,0
+2006-11,Bright Eyes,0
+2006-11,Dashboard Confessional,0
+2006-11,Dave Matthews Band,0
+2006-11,Death Cab For Cutie,0
+2006-11,Dropping Daylight,0
+2006-11,Fall Out Boy,0
+2006-11,Jack Johnson,0
+2006-11,Jason Mraz,0
+2006-11,Jimmy Eat World,0
+2006-11,Mae,0
+2006-11,Panic At The Disco,0
+2006-11,Paramore,0
+2006-11,Snow Patrol,199
+2006-11,The Decemberists,0
+2006-11,The Kooks,0
+2006-11,The Postal Service,0
+2006-11,The Shins,0
+2006-11,Wilco,0
+2006-12,Belle And Sebastian,0
+2006-12,Billy Joel,0
+2006-12,Bright Eyes,1
+2006-12,Dashboard Confessional,0
+2006-12,Dave Matthews Band,0
+2006-12,Death Cab For Cutie,0
+2006-12,Dropping Daylight,0
+2006-12,Fall Out Boy,1
+2006-12,Jack Johnson,0
+2006-12,Jason Mraz,0
+2006-12,Jimmy Eat World,0
+2006-12,Mae,0
+2006-12,Panic At The Disco,2
+2006-12,Paramore,0
+2006-12,Snow Patrol,73
+2006-12,The Decemberists,0
+2006-12,The Kooks,0
+2006-12,The Postal Service,0
+2006-12,The Shins,0
+2006-12,Wilco,0
+2007-01,Belle And Sebastian,14
+2007-01,Billy Joel,0
+2007-01,Bright Eyes,50
+2007-01,Dashboard Confessional,40
+2007-01,Dave Matthews Band,2
+2007-01,Death Cab For Cutie,24
+2007-01,Dropping Daylight,0
+2007-01,Fall Out Boy,0
+2007-01,Jack Johnson,28
+2007-01,Jason Mraz,26
+2007-01,Jimmy Eat World,2
+2007-01,Mae,47
+2007-01,Panic At The Disco,3
+2007-01,Paramore,0
+2007-01,Snow Patrol,10
+2007-01,The Decemberists,1
+2007-01,The Kooks,0
+2007-01,The Postal Service,0
+2007-01,The Shins,55
+2007-01,Wilco,47
+2007-02,Belle And Sebastian,42
+2007-02,Billy Joel,0
+2007-02,Bright Eyes,14
+2007-02,Dashboard Confessional,8
+2007-02,Dave Matthews Band,0
+2007-02,Death Cab For Cutie,0
+2007-02,Dropping Daylight,0
+2007-02,Fall Out Boy,0
+2007-02,Jack Johnson,2
+2007-02,Jason Mraz,7
+2007-02,Jimmy Eat World,0
+2007-02,Mae,120
+2007-02,Panic At The Disco,0
+2007-02,Paramore,66
+2007-02,Snow Patrol,1
+2007-02,The Decemberists,41
+2007-02,The Kooks,147
+2007-02,The Postal Service,71
+2007-02,The Shins,100
+2007-02,Wilco,97
+2007-03,Belle And Sebastian,0
+2007-03,Billy Joel,0
+2007-03,Bright Eyes,14
+2007-03,Dashboard Confessional,54
+2007-03,Dave Matthews Band,0
+2007-03,Death Cab For Cutie,1
+2007-03,Dropping Daylight,11
+2007-03,Fall Out Boy,1
+2007-03,Jack Johnson,6
+2007-03,Jason Mraz,1
+2007-03,Jimmy Eat World,122
+2007-03,Mae,170
+2007-03,Panic At The Disco,1
+2007-03,Paramore,27
+2007-03,Snow Patrol,10
+2007-03,The Decemberists,0
+2007-03,The Kooks,13
+2007-03,The Postal Service,26
+2007-03,The Shins,13
+2007-03,Wilco,29
+2007-04,Belle And Sebastian,0
+2007-04,Billy Joel,0
+2007-04,Bright Eyes,44
+2007-04,Dashboard Confessional,14
+2007-04,Dave Matthews Band,0
+2007-04,Death Cab For Cutie,0
+2007-04,Dropping Daylight,4
+2007-04,Fall Out Boy,0
+2007-04,Jack Johnson,45
+2007-04,Jason Mraz,16
+2007-04,Jimmy Eat World,21
+2007-04,Mae,26
+2007-04,Panic At The Disco,4
+2007-04,Paramore,22
+2007-04,Snow Patrol,0
+2007-04,The Decemberists,1
+2007-04,The Kooks,63
+2007-04,The Postal Service,4
+2007-04,The Shins,0
+2007-04,Wilco,0
+2007-05,Belle And Sebastian,48
+2007-05,Billy Joel,0
+2007-05,Bright Eyes,13
+2007-05,Dashboard Confessional,2
+2007-05,Dave Matthews Band,0
+2007-05,Death Cab For Cutie,0
+2007-05,Dropping Daylight,12
+2007-05,Fall Out Boy,0
+2007-05,Jack Johnson,0
+2007-05,Jason Mraz,9
+2007-05,Jimmy Eat World,1
+2007-05,Mae,6
+2007-05,Panic At The Disco,0
+2007-05,Paramore,9
+2007-05,Snow Patrol,0
+2007-05,The Decemberists,9
+2007-05,The Kooks,10
+2007-05,The Postal Service,47
+2007-05,The Shins,0
+2007-05,Wilco,0
+2007-06,Belle And Sebastian,33
+2007-06,Billy Joel,0
+2007-06,Bright Eyes,1
+2007-06,Dashboard Confessional,1
+2007-06,Dave Matthews Band,1
+2007-06,Death Cab For Cutie,0
+2007-06,Dropping Daylight,4
+2007-06,Fall Out Boy,0
+2007-06,Jack Johnson,76
+2007-06,Jason Mraz,0
+2007-06,Jimmy Eat World,1
+2007-06,Mae,5
+2007-06,Panic At The Disco,0
+2007-06,Paramore,197
+2007-06,Snow Patrol,1
+2007-06,The Decemberists,16
+2007-06,The Kooks,6
+2007-06,The Postal Service,17
+2007-06,The Shins,29
+2007-06,Wilco,29
+2007-07,Belle And Sebastian,24
+2007-07,Billy Joel,0
+2007-07,Bright Eyes,39
+2007-07,Dashboard Confessional,23
+2007-07,Dave Matthews Band,0
+2007-07,Death Cab For Cutie,22
+2007-07,Dropping Daylight,3
+2007-07,Fall Out Boy,38
+2007-07,Jack Johnson,29
+2007-07,Jason Mraz,0
+2007-07,Jimmy Eat World,2
+2007-07,Mae,42
+2007-07,Panic At The Disco,0
+2007-07,Paramore,89
+2007-07,Snow Patrol,6
+2007-07,The Decemberists,12
+2007-07,The Kooks,15
+2007-07,The Postal Service,11
+2007-07,The Shins,11
+2007-07,Wilco,78
+2007-08,Belle And Sebastian,16
+2007-08,Billy Joel,1
+2007-08,Bright Eyes,2
+2007-08,Dashboard Confessional,23
+2007-08,Dave Matthews Band,0
+2007-08,Death Cab For Cutie,11
+2007-08,Dropping Daylight,0
+2007-08,Fall Out Boy,85
+2007-08,Jack Johnson,42
+2007-08,Jason Mraz,8
+2007-08,Jimmy Eat World,3
+2007-08,Mae,27
+2007-08,Panic At The Disco,8
+2007-08,Paramore,9
+2007-08,Snow Patrol,3
+2007-08,The Decemberists,22
+2007-08,The Kooks,0
+2007-08,The Postal Service,0
+2007-08,The Shins,5
+2007-08,Wilco,7
+2007-09,Belle And Sebastian,11
+2007-09,Billy Joel,0
+2007-09,Bright Eyes,0
+2007-09,Dashboard Confessional,0
+2007-09,Dave Matthews Band,0
+2007-09,Death Cab For Cutie,0
+2007-09,Dropping Daylight,0
+2007-09,Fall Out Boy,135
+2007-09,Jack Johnson,0
+2007-09,Jason Mraz,2
+2007-09,Jimmy Eat World,0
+2007-09,Mae,71
+2007-09,Panic At The Disco,3
+2007-09,Paramore,0
+2007-09,Snow Patrol,13
+2007-09,The Decemberists,0
+2007-09,The Kooks,64
+2007-09,The Postal Service,20
+2007-09,The Shins,34
+2007-09,Wilco,11
+2007-10,Belle And Sebastian,6
+2007-10,Billy Joel,18
+2007-10,Bright Eyes,54
+2007-10,Dashboard Confessional,135
+2007-10,Dave Matthews Band,50
+2007-10,Death Cab For Cutie,18
+2007-10,Dropping Daylight,0
+2007-10,Fall Out Boy,26
+2007-10,Jack Johnson,0
+2007-10,Jason Mraz,27
+2007-10,Jimmy Eat World,7
+2007-10,Mae,20
+2007-10,Panic At The Disco,0
+2007-10,Paramore,1
+2007-10,Snow Patrol,13
+2007-10,The Decemberists,0
+2007-10,The Kooks,14
+2007-10,The Postal Service,13
+2007-10,The Shins,0
+2007-10,Wilco,35
+2007-11,Belle And Sebastian,0
+2007-11,Billy Joel,40
+2007-11,Bright Eyes,17
+2007-11,Dashboard Confessional,119
+2007-11,Dave Matthews Band,4
+2007-11,Death Cab For Cutie,0
+2007-11,Dropping Daylight,2
+2007-11,Fall Out Boy,9
+2007-11,Jack Johnson,12
+2007-11,Jason Mraz,0
+2007-11,Jimmy Eat World,0
+2007-11,Mae,1
+2007-11,Panic At The Disco,0
+2007-11,Paramore,10
+2007-11,Snow Patrol,0
+2007-11,The Decemberists,3
+2007-11,The Kooks,0
+2007-11,The Postal Service,0
+2007-11,The Shins,0
+2007-11,Wilco,82
+2007-12,Belle And Sebastian,30
+2007-12,Billy Joel,0
+2007-12,Bright Eyes,10
+2007-12,Dashboard Confessional,2
+2007-12,Dave Matthews Band,0
+2007-12,Death Cab For Cutie,0
+2007-12,Dropping Daylight,2
+2007-12,Fall Out Boy,12
+2007-12,Jack Johnson,14
+2007-12,Jason Mraz,1
+2007-12,Jimmy Eat World,0
+2007-12,Mae,12
+2007-12,Panic At The Disco,0
+2007-12,Paramore,3
+2007-12,Snow Patrol,0
+2007-12,The Decemberists,0
+2007-12,The Kooks,0
+2007-12,The Postal Service,9
+2007-12,The Shins,0
+2007-12,Wilco,116
+2008-01,Belle And Sebastian,25
+2008-01,Billy Joel,44
+2008-01,Bright Eyes,4
+2008-01,Dashboard Confessional,5
+2008-01,Dave Matthews Band,0
+2008-01,Death Cab For Cutie,90
+2008-01,Dropping Daylight,2
+2008-01,Fall Out Boy,8
+2008-01,Jack Johnson,16
+2008-01,Jason Mraz,2
+2008-01,Jimmy Eat World,3
+2008-01,Mae,19
+2008-01,Panic At The Disco,2
+2008-01,Paramore,11
+2008-01,Snow Patrol,0
+2008-01,The Decemberists,1
+2008-01,The Kooks,57
+2008-01,The Postal Service,2
+2008-01,The Shins,1
+2008-01,Wilco,141
+2008-02,Belle And Sebastian,0
+2008-02,Billy Joel,6
+2008-02,Bright Eyes,0
+2008-02,Dashboard Confessional,0
+2008-02,Dave Matthews Band,0
+2008-02,Death Cab For Cutie,5
+2008-02,Dropping Daylight,0
+2008-02,Fall Out Boy,17
+2008-02,Jack Johnson,18
+2008-02,Jason Mraz,0
+2008-02,Jimmy Eat World,0
+2008-02,Mae,23
+2008-02,Panic At The Disco,0
+2008-02,Paramore,0
+2008-02,Snow Patrol,0
+2008-02,The Decemberists,0
+2008-02,The Kooks,0
+2008-02,The Postal Service,1
+2008-02,The Shins,22
+2008-02,Wilco,158
+2008-03,Belle And Sebastian,0
+2008-03,Billy Joel,19
+2008-03,Bright Eyes,1
+2008-03,Dashboard Confessional,2
+2008-03,Dave Matthews Band,12
+2008-03,Death Cab For Cutie,8
+2008-03,Dropping Daylight,6
+2008-03,Fall Out Boy,15
+2008-03,Jack Johnson,1
+2008-03,Jason Mraz,23
+2008-03,Jimmy Eat World,0
+2008-03,Mae,1
+2008-03,Panic At The Disco,120
+2008-03,Paramore,2
+2008-03,Snow Patrol,0
+2008-03,The Decemberists,0
+2008-03,The Kooks,0
+2008-03,The Postal Service,0
+2008-03,The Shins,0
+2008-03,Wilco,17
+2008-04,Belle And Sebastian,0
+2008-04,Billy Joel,1
+2008-04,Bright Eyes,14
+2008-04,Dashboard Confessional,6
+2008-04,Dave Matthews Band,9
+2008-04,Death Cab For Cutie,1
+2008-04,Dropping Daylight,0
+2008-04,Fall Out Boy,0
+2008-04,Jack Johnson,3
+2008-04,Jason Mraz,33
+2008-04,Jimmy Eat World,0
+2008-04,Mae,1
+2008-04,Panic At The Disco,50
+2008-04,Paramore,0
+2008-04,Snow Patrol,17
+2008-04,The Decemberists,9
+2008-04,The Kooks,114
+2008-04,The Postal Service,0
+2008-04,The Shins,0
+2008-04,Wilco,18
+2008-05,Belle And Sebastian,0
+2008-05,Billy Joel,3
+2008-05,Bright Eyes,0
+2008-05,Dashboard Confessional,0
+2008-05,Dave Matthews Band,0
+2008-05,Death Cab For Cutie,0
+2008-05,Dropping Daylight,0
+2008-05,Fall Out Boy,0
+2008-05,Jack Johnson,0
+2008-05,Jason Mraz,0
+2008-05,Jimmy Eat World,0
+2008-05,Mae,0
+2008-05,Panic At The Disco,0
+2008-05,Paramore,0
+2008-05,Snow Patrol,0
+2008-05,The Decemberists,0
+2008-05,The Kooks,62
+2008-05,The Postal Service,0
+2008-05,The Shins,0
+2008-05,Wilco,0
+2008-06,Belle And Sebastian,0
+2008-06,Billy Joel,5
+2008-06,Bright Eyes,2
+2008-06,Dashboard Confessional,6
+2008-06,Dave Matthews Band,1
+2008-06,Death Cab For Cutie,29
+2008-06,Dropping Daylight,0
+2008-06,Fall Out Boy,14
+2008-06,Jack Johnson,0
+2008-06,Jason Mraz,39
+2008-06,Jimmy Eat World,0
+2008-06,Mae,0
+2008-06,Panic At The Disco,0
+2008-06,Paramore,0
+2008-06,Snow Patrol,0
+2008-06,The Decemberists,0
+2008-06,The Kooks,26
+2008-06,The Postal Service,0
+2008-06,The Shins,0
+2008-06,Wilco,50
+2008-07,Belle And Sebastian,0
+2008-07,Billy Joel,6
+2008-07,Bright Eyes,0
+2008-07,Dashboard Confessional,0
+2008-07,Dave Matthews Band,2
+2008-07,Death Cab For Cutie,0
+2008-07,Dropping Daylight,0
+2008-07,Fall Out Boy,0
+2008-07,Jack Johnson,0
+2008-07,Jason Mraz,39
+2008-07,Jimmy Eat World,0
+2008-07,Mae,9
+2008-07,Panic At The Disco,6
+2008-07,Paramore,0
+2008-07,Snow Patrol,7
+2008-07,The Decemberists,0
+2008-07,The Kooks,5
+2008-07,The Postal Service,0
+2008-07,The Shins,0
+2008-07,Wilco,23
+2008-08,Belle And Sebastian,3
+2008-08,Billy Joel,18
+2008-08,Bright Eyes,0
+2008-08,Dashboard Confessional,0
+2008-08,Dave Matthews Band,0
+2008-08,Death Cab For Cutie,2
+2008-08,Dropping Daylight,0
+2008-08,Fall Out Boy,0
+2008-08,Jack Johnson,3
+2008-08,Jason Mraz,84
+2008-08,Jimmy Eat World,0
+2008-08,Mae,0
+2008-08,Panic At The Disco,2
+2008-08,Paramore,81
+2008-08,Snow Patrol,0
+2008-08,The Decemberists,0
+2008-08,The Kooks,20
+2008-08,The Postal Service,0
+2008-08,The Shins,0
+2008-08,Wilco,123
+2008-09,Belle And Sebastian,0
+2008-09,Billy Joel,0
+2008-09,Bright Eyes,0
+2008-09,Dashboard Confessional,0
+2008-09,Dave Matthews Band,0
+2008-09,Death Cab For Cutie,0
+2008-09,Dropping Daylight,0
+2008-09,Fall Out Boy,0
+2008-09,Jack Johnson,0
+2008-09,Jason Mraz,0
+2008-09,Jimmy Eat World,0
+2008-09,Mae,0
+2008-09,Panic At The Disco,0
+2008-09,Paramore,0
+2008-09,Snow Patrol,0
+2008-09,The Decemberists,0
+2008-09,The Kooks,0
+2008-09,The Postal Service,0
+2008-09,The Shins,0
+2008-09,Wilco,0
+2008-10,Belle And Sebastian,0
+2008-10,Billy Joel,0
+2008-10,Bright Eyes,0
+2008-10,Dashboard Confessional,0
+2008-10,Dave Matthews Band,0
+2008-10,Death Cab For Cutie,3
+2008-10,Dropping Daylight,0
+2008-10,Fall Out Boy,0
+2008-10,Jack Johnson,1
+2008-10,Jason Mraz,6
+2008-10,Jimmy Eat World,0
+2008-10,Mae,0
+2008-10,Panic At The Disco,0
+2008-10,Paramore,0
+2008-10,Snow Patrol,0
+2008-10,The Decemberists,0
+2008-10,The Kooks,36
+2008-10,The Postal Service,0
+2008-10,The Shins,0
+2008-10,Wilco,20
+2008-11,Belle And Sebastian,32
+2008-11,Billy Joel,0
+2008-11,Bright Eyes,0
+2008-11,Dashboard Confessional,18
+2008-11,Dave Matthews Band,0
+2008-11,Death Cab For Cutie,0
+2008-11,Dropping Daylight,0
+2008-11,Fall Out Boy,0
+2008-11,Jack Johnson,0
+2008-11,Jason Mraz,2
+2008-11,Jimmy Eat World,0
+2008-11,Mae,0
+2008-11,Panic At The Disco,0
+2008-11,Paramore,0
+2008-11,Snow Patrol,0
+2008-11,The Decemberists,0
+2008-11,The Kooks,0
+2008-11,The Postal Service,0
+2008-11,The Shins,0
+2008-11,Wilco,26
+2008-12,Belle And Sebastian,0
+2008-12,Billy Joel,4
+2008-12,Bright Eyes,0
+2008-12,Dashboard Confessional,0
+2008-12,Dave Matthews Band,0
+2008-12,Death Cab For Cutie,0
+2008-12,Dropping Daylight,1
+2008-12,Fall Out Boy,1
+2008-12,Jack Johnson,0
+2008-12,Jason Mraz,0
+2008-12,Jimmy Eat World,0
+2008-12,Mae,0
+2008-12,Panic At The Disco,0
+2008-12,Paramore,0
+2008-12,Snow Patrol,0
+2008-12,The Decemberists,0
+2008-12,The Kooks,110
+2008-12,The Postal Service,0
+2008-12,The Shins,0
+2008-12,Wilco,0
+2009-01,Belle And Sebastian,0
+2009-01,Billy Joel,1
+2009-01,Bright Eyes,0
+2009-01,Dashboard Confessional,13
+2009-01,Dave Matthews Band,3
+2009-01,Death Cab For Cutie,1
+2009-01,Dropping Daylight,0
+2009-01,Fall Out Boy,0
+2009-01,Jack Johnson,0
+2009-01,Jason Mraz,1
+2009-01,Jimmy Eat World,1
+2009-01,Mae,0
+2009-01,Panic At The Disco,0
+2009-01,Paramore,7
+2009-01,Snow Patrol,1
+2009-01,The Decemberists,0
+2009-01,The Kooks,27
+2009-01,The Postal Service,2
+2009-01,The Shins,0
+2009-01,Wilco,0
+2009-02,Belle And Sebastian,0
+2009-02,Billy Joel,6
+2009-02,Bright Eyes,0
+2009-02,Dashboard Confessional,0
+2009-02,Dave Matthews Band,5
+2009-02,Death Cab For Cutie,0
+2009-02,Dropping Daylight,0
+2009-02,Fall Out Boy,0
+2009-02,Jack Johnson,0
+2009-02,Jason Mraz,18
+2009-02,Jimmy Eat World,0
+2009-02,Mae,0
+2009-02,Panic At The Disco,0
+2009-02,Paramore,11
+2009-02,Snow Patrol,0
+2009-02,The Decemberists,0
+2009-02,The Kooks,0
+2009-02,The Postal Service,0
+2009-02,The Shins,0
+2009-02,Wilco,0
+2009-03,Belle And Sebastian,0
+2009-03,Billy Joel,0
+2009-03,Bright Eyes,0
+2009-03,Dashboard Confessional,26
+2009-03,Dave Matthews Band,10
+2009-03,Death Cab For Cutie,1
+2009-03,Dropping Daylight,0
+2009-03,Fall Out Boy,0
+2009-03,Jack Johnson,0
+2009-03,Jason Mraz,12
+2009-03,Jimmy Eat World,33
+2009-03,Mae,0
+2009-03,Panic At The Disco,0
+2009-03,Paramore,0
+2009-03,Snow Patrol,0
+2009-03,The Decemberists,0
+2009-03,The Kooks,29
+2009-03,The Postal Service,0
+2009-03,The Shins,1
+2009-03,Wilco,0
+2009-04,Belle And Sebastian,0
+2009-04,Billy Joel,1
+2009-04,Bright Eyes,10
+2009-04,Dashboard Confessional,5
+2009-04,Dave Matthews Band,0
+2009-04,Death Cab For Cutie,12
+2009-04,Dropping Daylight,0
+2009-04,Fall Out Boy,0
+2009-04,Jack Johnson,0
+2009-04,Jason Mraz,3
+2009-04,Jimmy Eat World,2
+2009-04,Mae,0
+2009-04,Panic At The Disco,0
+2009-04,Paramore,9
+2009-04,Snow Patrol,2
+2009-04,The Decemberists,10
+2009-04,The Kooks,4
+2009-04,The Postal Service,9
+2009-04,The Shins,7
+2009-04,Wilco,39

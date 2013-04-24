@@ -1,0 +1,521 @@
+month,artist,plays
+2007-03,Aim,11
+2007-03,Air,3
+2007-03,Beck,1
+2007-03,Björk,2
+2007-03,Bob Dylan,3
+2007-03,Bonobo,0
+2007-03,Dire Straits,0
+2007-03,Fatboy Slim,2
+2007-03,Groove Armada,2
+2007-03,Indiefeed.Com Community,0
+2007-03,Jimi Hendrix,1
+2007-03,Neko Case,0
+2007-03,Nightmares On Wax,0
+2007-03,Oasis,0
+2007-03,Piano Magic,0
+2007-03,Slipknot,0
+2007-03,The Beatles,1
+2007-03,The Chemical Brothers,2
+2007-03,The Prodigy,3
+2007-03,The Rolling Stones,1
+2007-04,Aim,0
+2007-04,Air,1
+2007-04,Beck,1
+2007-04,Björk,2
+2007-04,Bob Dylan,3
+2007-04,Bonobo,0
+2007-04,Dire Straits,5
+2007-04,Fatboy Slim,14
+2007-04,Groove Armada,4
+2007-04,Indiefeed.Com Community,0
+2007-04,Jimi Hendrix,8
+2007-04,Neko Case,2
+2007-04,Nightmares On Wax,0
+2007-04,Oasis,0
+2007-04,Piano Magic,1
+2007-04,Slipknot,1
+2007-04,The Beatles,4
+2007-04,The Chemical Brothers,4
+2007-04,The Prodigy,3
+2007-04,The Rolling Stones,1
+2007-05,Aim,1
+2007-05,Air,2
+2007-05,Beck,4
+2007-05,Björk,1
+2007-05,Bob Dylan,2
+2007-05,Bonobo,71
+2007-05,Dire Straits,6
+2007-05,Fatboy Slim,1
+2007-05,Groove Armada,1
+2007-05,Indiefeed.Com Community,3
+2007-05,Jimi Hendrix,8
+2007-05,Neko Case,4
+2007-05,Nightmares On Wax,4
+2007-05,Oasis,1
+2007-05,Piano Magic,3
+2007-05,Slipknot,0
+2007-05,The Beatles,40
+2007-05,The Chemical Brothers,29
+2007-05,The Prodigy,2
+2007-05,The Rolling Stones,4
+2007-06,Aim,0
+2007-06,Air,0
+2007-06,Beck,1
+2007-06,Björk,1
+2007-06,Bob Dylan,4
+2007-06,Bonobo,1
+2007-06,Dire Straits,2
+2007-06,Fatboy Slim,6
+2007-06,Groove Armada,5
+2007-06,Indiefeed.Com Community,11
+2007-06,Jimi Hendrix,9
+2007-06,Neko Case,6
+2007-06,Nightmares On Wax,15
+2007-06,Oasis,0
+2007-06,Piano Magic,2
+2007-06,Slipknot,2
+2007-06,The Beatles,7
+2007-06,The Chemical Brothers,6
+2007-06,The Prodigy,7
+2007-06,The Rolling Stones,2
+2007-07,Aim,1
+2007-07,Air,3
+2007-07,Beck,0
+2007-07,Björk,0
+2007-07,Bob Dylan,3
+2007-07,Bonobo,2
+2007-07,Dire Straits,4
+2007-07,Fatboy Slim,9
+2007-07,Groove Armada,15
+2007-07,Indiefeed.Com Community,4
+2007-07,Jimi Hendrix,77
+2007-07,Neko Case,2
+2007-07,Nightmares On Wax,1
+2007-07,Oasis,2
+2007-07,Piano Magic,4
+2007-07,Slipknot,1
+2007-07,The Beatles,6
+2007-07,The Chemical Brothers,4
+2007-07,The Prodigy,9
+2007-07,The Rolling Stones,3
+2007-08,Aim,6
+2007-08,Air,3
+2007-08,Beck,4
+2007-08,Björk,3
+2007-08,Bob Dylan,4
+2007-08,Bonobo,6
+2007-08,Dire Straits,7
+2007-08,Fatboy Slim,2
+2007-08,Groove Armada,6
+2007-08,Indiefeed.Com Community,0
+2007-08,Jimi Hendrix,2
+2007-08,Neko Case,0
+2007-08,Nightmares On Wax,2
+2007-08,Oasis,1
+2007-08,Piano Magic,1
+2007-08,Slipknot,3
+2007-08,The Beatles,4
+2007-08,The Chemical Brothers,6
+2007-08,The Prodigy,7
+2007-08,The Rolling Stones,3
+2007-09,Aim,6
+2007-09,Air,1
+2007-09,Beck,0
+2007-09,Björk,2
+2007-09,Bob Dylan,0
+2007-09,Bonobo,2
+2007-09,Dire Straits,2
+2007-09,Fatboy Slim,0
+2007-09,Groove Armada,10
+2007-09,Indiefeed.Com Community,41
+2007-09,Jimi Hendrix,2
+2007-09,Neko Case,0
+2007-09,Nightmares On Wax,0
+2007-09,Oasis,0
+2007-09,Piano Magic,2
+2007-09,Slipknot,1
+2007-09,The Beatles,1
+2007-09,The Chemical Brothers,0
+2007-09,The Prodigy,1
+2007-09,The Rolling Stones,2
+2007-10,Aim,5
+2007-10,Air,3
+2007-10,Beck,0
+2007-10,Björk,3
+2007-10,Bob Dylan,10
+2007-10,Bonobo,6
+2007-10,Dire Straits,2
+2007-10,Fatboy Slim,1
+2007-10,Groove Armada,1
+2007-10,Indiefeed.Com Community,20
+2007-10,Jimi Hendrix,4
+2007-10,Neko Case,1
+2007-10,Nightmares On Wax,17
+2007-10,Oasis,2
+2007-10,Piano Magic,2
+2007-10,Slipknot,1
+2007-10,The Beatles,13
+2007-10,The Chemical Brothers,29
+2007-10,The Prodigy,2
+2007-10,The Rolling Stones,1
+2007-11,Aim,0
+2007-11,Air,0
+2007-11,Beck,0
+2007-11,Björk,0
+2007-11,Bob Dylan,0
+2007-11,Bonobo,0
+2007-11,Dire Straits,0
+2007-11,Fatboy Slim,2
+2007-11,Groove Armada,4
+2007-11,Indiefeed.Com Community,26
+2007-11,Jimi Hendrix,0
+2007-11,Neko Case,0
+2007-11,Nightmares On Wax,0
+2007-11,Oasis,0
+2007-11,Piano Magic,1
+2007-11,Slipknot,2
+2007-11,The Beatles,0
+2007-11,The Chemical Brothers,1
+2007-11,The Prodigy,0
+2007-11,The Rolling Stones,1
+2007-12,Aim,0
+2007-12,Air,0
+2007-12,Beck,1
+2007-12,Björk,0
+2007-12,Bob Dylan,1
+2007-12,Bonobo,2
+2007-12,Dire Straits,1
+2007-12,Fatboy Slim,0
+2007-12,Groove Armada,0
+2007-12,Indiefeed.Com Community,3
+2007-12,Jimi Hendrix,24
+2007-12,Neko Case,0
+2007-12,Nightmares On Wax,0
+2007-12,Oasis,1
+2007-12,Piano Magic,0
+2007-12,Slipknot,0
+2007-12,The Beatles,0
+2007-12,The Chemical Brothers,22
+2007-12,The Prodigy,2
+2007-12,The Rolling Stones,0
+2008-01,Aim,13
+2008-01,Air,1
+2008-01,Beck,0
+2008-01,Björk,1
+2008-01,Bob Dylan,1
+2008-01,Bonobo,3
+2008-01,Dire Straits,1
+2008-01,Fatboy Slim,1
+2008-01,Groove Armada,1
+2008-01,Indiefeed.Com Community,33
+2008-01,Jimi Hendrix,1
+2008-01,Neko Case,0
+2008-01,Nightmares On Wax,2
+2008-01,Oasis,0
+2008-01,Piano Magic,0
+2008-01,Slipknot,0
+2008-01,The Beatles,1
+2008-01,The Chemical Brothers,0
+2008-01,The Prodigy,0
+2008-01,The Rolling Stones,0
+2008-02,Aim,11
+2008-02,Air,4
+2008-02,Beck,0
+2008-02,Björk,5
+2008-02,Bob Dylan,3
+2008-02,Bonobo,4
+2008-02,Dire Straits,2
+2008-02,Fatboy Slim,1
+2008-02,Groove Armada,1
+2008-02,Indiefeed.Com Community,16
+2008-02,Jimi Hendrix,1
+2008-02,Neko Case,0
+2008-02,Nightmares On Wax,4
+2008-02,Oasis,10
+2008-02,Piano Magic,0
+2008-02,Slipknot,0
+2008-02,The Beatles,3
+2008-02,The Chemical Brothers,1
+2008-02,The Prodigy,1
+2008-02,The Rolling Stones,0
+2008-03,Aim,26
+2008-03,Air,22
+2008-03,Beck,0
+2008-03,Björk,0
+2008-03,Bob Dylan,1
+2008-03,Bonobo,8
+2008-03,Dire Straits,0
+2008-03,Fatboy Slim,1
+2008-03,Groove Armada,0
+2008-03,Indiefeed.Com Community,20
+2008-03,Jimi Hendrix,0
+2008-03,Neko Case,0
+2008-03,Nightmares On Wax,1
+2008-03,Oasis,2
+2008-03,Piano Magic,0
+2008-03,Slipknot,0
+2008-03,The Beatles,0
+2008-03,The Chemical Brothers,0
+2008-03,The Prodigy,0
+2008-03,The Rolling Stones,2
+2008-04,Aim,0
+2008-04,Air,0
+2008-04,Beck,0
+2008-04,Björk,0
+2008-04,Bob Dylan,0
+2008-04,Bonobo,0
+2008-04,Dire Straits,0
+2008-04,Fatboy Slim,0
+2008-04,Groove Armada,0
+2008-04,Indiefeed.Com Community,10
+2008-04,Jimi Hendrix,0
+2008-04,Neko Case,1
+2008-04,Nightmares On Wax,1
+2008-04,Oasis,5
+2008-04,Piano Magic,1
+2008-04,Slipknot,3
+2008-04,The Beatles,14
+2008-04,The Chemical Brothers,0
+2008-04,The Prodigy,12
+2008-04,The Rolling Stones,6
+2008-05,Aim,0
+2008-05,Air,0
+2008-05,Beck,15
+2008-05,Björk,0
+2008-05,Bob Dylan,0
+2008-05,Bonobo,37
+2008-05,Dire Straits,0
+2008-05,Fatboy Slim,0
+2008-05,Groove Armada,0
+2008-05,Indiefeed.Com Community,18
+2008-05,Jimi Hendrix,0
+2008-05,Neko Case,4
+2008-05,Nightmares On Wax,12
+2008-05,Oasis,3
+2008-05,Piano Magic,2
+2008-05,Slipknot,2
+2008-05,The Beatles,10
+2008-05,The Chemical Brothers,10
+2008-05,The Prodigy,8
+2008-05,The Rolling Stones,3
+2008-06,Aim,0
+2008-06,Air,1
+2008-06,Beck,0
+2008-06,Björk,0
+2008-06,Bob Dylan,0
+2008-06,Bonobo,0
+2008-06,Dire Straits,0
+2008-06,Fatboy Slim,2
+2008-06,Groove Armada,1
+2008-06,Indiefeed.Com Community,18
+2008-06,Jimi Hendrix,0
+2008-06,Neko Case,0
+2008-06,Nightmares On Wax,0
+2008-06,Oasis,1
+2008-06,Piano Magic,3
+2008-06,Slipknot,0
+2008-06,The Beatles,0
+2008-06,The Chemical Brothers,0
+2008-06,The Prodigy,1
+2008-06,The Rolling Stones,1
+2008-07,Aim,0
+2008-07,Air,1
+2008-07,Beck,2
+2008-07,Björk,0
+2008-07,Bob Dylan,1
+2008-07,Bonobo,1
+2008-07,Dire Straits,7
+2008-07,Fatboy Slim,1
+2008-07,Groove Armada,1
+2008-07,Indiefeed.Com Community,21
+2008-07,Jimi Hendrix,1
+2008-07,Neko Case,2
+2008-07,Nightmares On Wax,1
+2008-07,Oasis,1
+2008-07,Piano Magic,0
+2008-07,Slipknot,1
+2008-07,The Beatles,1
+2008-07,The Chemical Brothers,0
+2008-07,The Prodigy,0
+2008-07,The Rolling Stones,4
+2008-08,Aim,55
+2008-08,Air,23
+2008-08,Beck,25
+2008-08,Björk,3
+2008-08,Bob Dylan,2
+2008-08,Bonobo,9
+2008-08,Dire Straits,6
+2008-08,Fatboy Slim,3
+2008-08,Groove Armada,10
+2008-08,Indiefeed.Com Community,0
+2008-08,Jimi Hendrix,2
+2008-08,Neko Case,3
+2008-08,Nightmares On Wax,1
+2008-08,Oasis,1
+2008-08,Piano Magic,1
+2008-08,Slipknot,1
+2008-08,The Beatles,24
+2008-08,The Chemical Brothers,6
+2008-08,The Prodigy,10
+2008-08,The Rolling Stones,1
+2008-09,Aim,7
+2008-09,Air,0
+2008-09,Beck,3
+2008-09,Björk,1
+2008-09,Bob Dylan,9
+2008-09,Bonobo,4
+2008-09,Dire Straits,3
+2008-09,Fatboy Slim,1
+2008-09,Groove Armada,2
+2008-09,Indiefeed.Com Community,16
+2008-09,Jimi Hendrix,7
+2008-09,Neko Case,6
+2008-09,Nightmares On Wax,1
+2008-09,Oasis,1
+2008-09,Piano Magic,0
+2008-09,Slipknot,1
+2008-09,The Beatles,0
+2008-09,The Chemical Brothers,3
+2008-09,The Prodigy,3
+2008-09,The Rolling Stones,11
+2008-10,Aim,0
+2008-10,Air,0
+2008-10,Beck,28
+2008-10,Björk,0
+2008-10,Bob Dylan,0
+2008-10,Bonobo,0
+2008-10,Dire Straits,0
+2008-10,Fatboy Slim,0
+2008-10,Groove Armada,0
+2008-10,Indiefeed.Com Community,12
+2008-10,Jimi Hendrix,0
+2008-10,Neko Case,5
+2008-10,Nightmares On Wax,0
+2008-10,Oasis,0
+2008-10,Piano Magic,0
+2008-10,Slipknot,1
+2008-10,The Beatles,71
+2008-10,The Chemical Brothers,0
+2008-10,The Prodigy,0
+2008-10,The Rolling Stones,0
+2008-11,Aim,0
+2008-11,Air,0
+2008-11,Beck,0
+2008-11,Björk,0
+2008-11,Bob Dylan,0
+2008-11,Bonobo,0
+2008-11,Dire Straits,0
+2008-11,Fatboy Slim,52
+2008-11,Groove Armada,18
+2008-11,Indiefeed.Com Community,3
+2008-11,Jimi Hendrix,39
+2008-11,Neko Case,7
+2008-11,Nightmares On Wax,6
+2008-11,Oasis,0
+2008-11,Piano Magic,1
+2008-11,Slipknot,0
+2008-11,The Beatles,23
+2008-11,The Chemical Brothers,2
+2008-11,The Prodigy,0
+2008-11,The Rolling Stones,1
+2008-12,Aim,0
+2008-12,Air,0
+2008-12,Beck,2
+2008-12,Björk,26
+2008-12,Bob Dylan,0
+2008-12,Bonobo,0
+2008-12,Dire Straits,0
+2008-12,Fatboy Slim,0
+2008-12,Groove Armada,0
+2008-12,Indiefeed.Com Community,0
+2008-12,Jimi Hendrix,0
+2008-12,Neko Case,0
+2008-12,Nightmares On Wax,0
+2008-12,Oasis,0
+2008-12,Piano Magic,0
+2008-12,Slipknot,0
+2008-12,The Beatles,0
+2008-12,The Chemical Brothers,1
+2008-12,The Prodigy,0
+2008-12,The Rolling Stones,0
+2009-01,Aim,1
+2009-01,Air,0
+2009-01,Beck,1
+2009-01,Björk,4
+2009-01,Bob Dylan,0
+2009-01,Bonobo,16
+2009-01,Dire Straits,0
+2009-01,Fatboy Slim,3
+2009-01,Groove Armada,4
+2009-01,Indiefeed.Com Community,10
+2009-01,Jimi Hendrix,15
+2009-01,Neko Case,1
+2009-01,Nightmares On Wax,1
+2009-01,Oasis,1
+2009-01,Piano Magic,1
+2009-01,Slipknot,2
+2009-01,The Beatles,1
+2009-01,The Chemical Brothers,15
+2009-01,The Prodigy,1
+2009-01,The Rolling Stones,0
+2009-02,Aim,0
+2009-02,Air,0
+2009-02,Beck,0
+2009-02,Björk,6
+2009-02,Bob Dylan,0
+2009-02,Bonobo,0
+2009-02,Dire Straits,18
+2009-02,Fatboy Slim,0
+2009-02,Groove Armada,26
+2009-02,Indiefeed.Com Community,0
+2009-02,Jimi Hendrix,0
+2009-02,Neko Case,3
+2009-02,Nightmares On Wax,0
+2009-02,Oasis,0
+2009-02,Piano Magic,1
+2009-02,Slipknot,1
+2009-02,The Beatles,17
+2009-02,The Chemical Brothers,8
+2009-02,The Prodigy,0
+2009-02,The Rolling Stones,1
+2009-03,Aim,15
+2009-03,Air,20
+2009-03,Beck,9
+2009-03,Björk,25
+2009-03,Bob Dylan,3
+2009-03,Bonobo,20
+2009-03,Dire Straits,33
+2009-03,Fatboy Slim,1
+2009-03,Groove Armada,0
+2009-03,Indiefeed.Com Community,0
+2009-03,Jimi Hendrix,0
+2009-03,Neko Case,3
+2009-03,Nightmares On Wax,0
+2009-03,Oasis,0
+2009-03,Piano Magic,0
+2009-03,Slipknot,1
+2009-03,The Beatles,12
+2009-03,The Chemical Brothers,2
+2009-03,The Prodigy,0
+2009-03,The Rolling Stones,0
+2009-04,Aim,4
+2009-04,Air,0
+2009-04,Beck,12
+2009-04,Björk,0
+2009-04,Bob Dylan,0
+2009-04,Bonobo,0
+2009-04,Dire Straits,0
+2009-04,Fatboy Slim,0
+2009-04,Groove Armada,0
+2009-04,Indiefeed.Com Community,0
+2009-04,Jimi Hendrix,0
+2009-04,Neko Case,0
+2009-04,Nightmares On Wax,14
+2009-04,Oasis,3
+2009-04,Piano Magic,0
+2009-04,Slipknot,0
+2009-04,The Beatles,3
+2009-04,The Chemical Brothers,0
+2009-04,The Prodigy,1
+2009-04,The Rolling Stones,0

@@ -1,0 +1,721 @@
+month,artist,plays
+2006-05,Air,3
+2006-05,Bonobo,3
+2006-05,Coldplay,10
+2006-05,Damien Rice,4
+2006-05,Faithless,4
+2006-05,Fatboy Slim,2
+2006-05,Gotan Project,0
+2006-05,Hooverphonic,11
+2006-05,K'S Choice,1
+2006-05,Leonard Cohen,1
+2006-05,Massive Attack,7
+2006-05,Moby,14
+2006-05,Placebo,1
+2006-05,Portishead,4
+2006-05,Red Hot Chili Peppers,0
+2006-05,Robbie Williams,4
+2006-05,Röyksopp,7
+2006-05,Thievery Corporation,0
+2006-05,Tiësto,2
+2006-05,U2,3
+2006-06,Air,2
+2006-06,Bonobo,0
+2006-06,Coldplay,21
+2006-06,Damien Rice,5
+2006-06,Faithless,1
+2006-06,Fatboy Slim,1
+2006-06,Gotan Project,3
+2006-06,Hooverphonic,13
+2006-06,K'S Choice,10
+2006-06,Leonard Cohen,4
+2006-06,Massive Attack,17
+2006-06,Moby,15
+2006-06,Placebo,34
+2006-06,Portishead,45
+2006-06,Red Hot Chili Peppers,4
+2006-06,Robbie Williams,10
+2006-06,Röyksopp,6
+2006-06,Thievery Corporation,0
+2006-06,Tiësto,0
+2006-06,U2,7
+2006-07,Air,18
+2006-07,Bonobo,2
+2006-07,Coldplay,29
+2006-07,Damien Rice,7
+2006-07,Faithless,4
+2006-07,Fatboy Slim,3
+2006-07,Gotan Project,0
+2006-07,Hooverphonic,13
+2006-07,K'S Choice,21
+2006-07,Leonard Cohen,5
+2006-07,Massive Attack,13
+2006-07,Moby,33
+2006-07,Placebo,26
+2006-07,Portishead,18
+2006-07,Red Hot Chili Peppers,28
+2006-07,Robbie Williams,9
+2006-07,Röyksopp,3
+2006-07,Thievery Corporation,3
+2006-07,Tiësto,1
+2006-07,U2,2
+2006-08,Air,4
+2006-08,Bonobo,1
+2006-08,Coldplay,24
+2006-08,Damien Rice,3
+2006-08,Faithless,1
+2006-08,Fatboy Slim,1
+2006-08,Gotan Project,1
+2006-08,Hooverphonic,15
+2006-08,K'S Choice,12
+2006-08,Leonard Cohen,3
+2006-08,Massive Attack,0
+2006-08,Moby,16
+2006-08,Placebo,6
+2006-08,Portishead,3
+2006-08,Red Hot Chili Peppers,4
+2006-08,Robbie Williams,4
+2006-08,Röyksopp,13
+2006-08,Thievery Corporation,1
+2006-08,Tiësto,0
+2006-08,U2,8
+2006-09,Air,18
+2006-09,Bonobo,36
+2006-09,Coldplay,66
+2006-09,Damien Rice,10
+2006-09,Faithless,0
+2006-09,Fatboy Slim,2
+2006-09,Gotan Project,6
+2006-09,Hooverphonic,25
+2006-09,K'S Choice,13
+2006-09,Leonard Cohen,8
+2006-09,Massive Attack,23
+2006-09,Moby,42
+2006-09,Placebo,10
+2006-09,Portishead,32
+2006-09,Red Hot Chili Peppers,20
+2006-09,Robbie Williams,14
+2006-09,Röyksopp,37
+2006-09,Thievery Corporation,107
+2006-09,Tiësto,0
+2006-09,U2,7
+2006-10,Air,4
+2006-10,Bonobo,42
+2006-10,Coldplay,34
+2006-10,Damien Rice,9
+2006-10,Faithless,2
+2006-10,Fatboy Slim,13
+2006-10,Gotan Project,11
+2006-10,Hooverphonic,30
+2006-10,K'S Choice,10
+2006-10,Leonard Cohen,6
+2006-10,Massive Attack,17
+2006-10,Moby,27
+2006-10,Placebo,16
+2006-10,Portishead,11
+2006-10,Red Hot Chili Peppers,34
+2006-10,Robbie Williams,34
+2006-10,Röyksopp,9
+2006-10,Thievery Corporation,41
+2006-10,Tiësto,29
+2006-10,U2,4
+2006-11,Air,11
+2006-11,Bonobo,13
+2006-11,Coldplay,14
+2006-11,Damien Rice,7
+2006-11,Faithless,7
+2006-11,Fatboy Slim,7
+2006-11,Gotan Project,6
+2006-11,Hooverphonic,14
+2006-11,K'S Choice,4
+2006-11,Leonard Cohen,2
+2006-11,Massive Attack,11
+2006-11,Moby,45
+2006-11,Placebo,23
+2006-11,Portishead,13
+2006-11,Red Hot Chili Peppers,21
+2006-11,Robbie Williams,31
+2006-11,Röyksopp,10
+2006-11,Thievery Corporation,11
+2006-11,Tiësto,22
+2006-11,U2,10
+2006-12,Air,5
+2006-12,Bonobo,15
+2006-12,Coldplay,37
+2006-12,Damien Rice,65
+2006-12,Faithless,45
+2006-12,Fatboy Slim,6
+2006-12,Gotan Project,8
+2006-12,Hooverphonic,13
+2006-12,K'S Choice,7
+2006-12,Leonard Cohen,4
+2006-12,Massive Attack,10
+2006-12,Moby,25
+2006-12,Placebo,13
+2006-12,Portishead,18
+2006-12,Red Hot Chili Peppers,22
+2006-12,Robbie Williams,20
+2006-12,Röyksopp,22
+2006-12,Thievery Corporation,15
+2006-12,Tiësto,12
+2006-12,U2,4
+2007-01,Air,1
+2007-01,Bonobo,2
+2007-01,Coldplay,9
+2007-01,Damien Rice,4
+2007-01,Faithless,3
+2007-01,Fatboy Slim,4
+2007-01,Gotan Project,2
+2007-01,Hooverphonic,6
+2007-01,K'S Choice,1
+2007-01,Leonard Cohen,6
+2007-01,Massive Attack,2
+2007-01,Moby,11
+2007-01,Placebo,3
+2007-01,Portishead,2
+2007-01,Red Hot Chili Peppers,0
+2007-01,Robbie Williams,1
+2007-01,Röyksopp,1
+2007-01,Thievery Corporation,9
+2007-01,Tiësto,1
+2007-01,U2,0
+2007-02,Air,2
+2007-02,Bonobo,5
+2007-02,Coldplay,16
+2007-02,Damien Rice,13
+2007-02,Faithless,3
+2007-02,Fatboy Slim,6
+2007-02,Gotan Project,1
+2007-02,Hooverphonic,7
+2007-02,K'S Choice,5
+2007-02,Leonard Cohen,11
+2007-02,Massive Attack,9
+2007-02,Moby,21
+2007-02,Placebo,6
+2007-02,Portishead,15
+2007-02,Red Hot Chili Peppers,9
+2007-02,Robbie Williams,13
+2007-02,Röyksopp,6
+2007-02,Thievery Corporation,13
+2007-02,Tiësto,4
+2007-02,U2,0
+2007-03,Air,8
+2007-03,Bonobo,11
+2007-03,Coldplay,42
+2007-03,Damien Rice,12
+2007-03,Faithless,8
+2007-03,Fatboy Slim,4
+2007-03,Gotan Project,5
+2007-03,Hooverphonic,7
+2007-03,K'S Choice,5
+2007-03,Leonard Cohen,1
+2007-03,Massive Attack,9
+2007-03,Moby,29
+2007-03,Placebo,25
+2007-03,Portishead,29
+2007-03,Red Hot Chili Peppers,12
+2007-03,Robbie Williams,17
+2007-03,Röyksopp,20
+2007-03,Thievery Corporation,11
+2007-03,Tiësto,28
+2007-03,U2,8
+2007-04,Air,7
+2007-04,Bonobo,1
+2007-04,Coldplay,7
+2007-04,Damien Rice,14
+2007-04,Faithless,22
+2007-04,Fatboy Slim,5
+2007-04,Gotan Project,9
+2007-04,Hooverphonic,8
+2007-04,K'S Choice,5
+2007-04,Leonard Cohen,1
+2007-04,Massive Attack,7
+2007-04,Moby,11
+2007-04,Placebo,3
+2007-04,Portishead,12
+2007-04,Red Hot Chili Peppers,27
+2007-04,Robbie Williams,10
+2007-04,Röyksopp,5
+2007-04,Thievery Corporation,14
+2007-04,Tiësto,10
+2007-04,U2,10
+2007-05,Air,3
+2007-05,Bonobo,6
+2007-05,Coldplay,14
+2007-05,Damien Rice,14
+2007-05,Faithless,14
+2007-05,Fatboy Slim,7
+2007-05,Gotan Project,2
+2007-05,Hooverphonic,4
+2007-05,K'S Choice,3
+2007-05,Leonard Cohen,5
+2007-05,Massive Attack,5
+2007-05,Moby,19
+2007-05,Placebo,8
+2007-05,Portishead,6
+2007-05,Red Hot Chili Peppers,13
+2007-05,Robbie Williams,17
+2007-05,Röyksopp,7
+2007-05,Thievery Corporation,6
+2007-05,Tiësto,8
+2007-05,U2,6
+2007-06,Air,1
+2007-06,Bonobo,3
+2007-06,Coldplay,2
+2007-06,Damien Rice,3
+2007-06,Faithless,2
+2007-06,Fatboy Slim,1
+2007-06,Gotan Project,3
+2007-06,Hooverphonic,4
+2007-06,K'S Choice,2
+2007-06,Leonard Cohen,0
+2007-06,Massive Attack,7
+2007-06,Moby,10
+2007-06,Placebo,3
+2007-06,Portishead,5
+2007-06,Red Hot Chili Peppers,10
+2007-06,Robbie Williams,19
+2007-06,Röyksopp,0
+2007-06,Thievery Corporation,3
+2007-06,Tiësto,6
+2007-06,U2,2
+2007-07,Air,0
+2007-07,Bonobo,0
+2007-07,Coldplay,0
+2007-07,Damien Rice,17
+2007-07,Faithless,0
+2007-07,Fatboy Slim,0
+2007-07,Gotan Project,0
+2007-07,Hooverphonic,0
+2007-07,K'S Choice,0
+2007-07,Leonard Cohen,0
+2007-07,Massive Attack,0
+2007-07,Moby,0
+2007-07,Placebo,0
+2007-07,Portishead,0
+2007-07,Red Hot Chili Peppers,0
+2007-07,Robbie Williams,8
+2007-07,Röyksopp,6
+2007-07,Thievery Corporation,0
+2007-07,Tiësto,4
+2007-07,U2,1
+2007-08,Air,0
+2007-08,Bonobo,0
+2007-08,Coldplay,0
+2007-08,Damien Rice,0
+2007-08,Faithless,0
+2007-08,Fatboy Slim,0
+2007-08,Gotan Project,0
+2007-08,Hooverphonic,0
+2007-08,K'S Choice,0
+2007-08,Leonard Cohen,0
+2007-08,Massive Attack,0
+2007-08,Moby,0
+2007-08,Placebo,0
+2007-08,Portishead,0
+2007-08,Red Hot Chili Peppers,0
+2007-08,Robbie Williams,0
+2007-08,Röyksopp,0
+2007-08,Thievery Corporation,0
+2007-08,Tiësto,0
+2007-08,U2,0
+2007-09,Air,0
+2007-09,Bonobo,0
+2007-09,Coldplay,0
+2007-09,Damien Rice,0
+2007-09,Faithless,0
+2007-09,Fatboy Slim,0
+2007-09,Gotan Project,0
+2007-09,Hooverphonic,0
+2007-09,K'S Choice,0
+2007-09,Leonard Cohen,0
+2007-09,Massive Attack,0
+2007-09,Moby,0
+2007-09,Placebo,0
+2007-09,Portishead,0
+2007-09,Red Hot Chili Peppers,0
+2007-09,Robbie Williams,0
+2007-09,Röyksopp,0
+2007-09,Thievery Corporation,0
+2007-09,Tiësto,0
+2007-09,U2,0
+2007-10,Air,1
+2007-10,Bonobo,1
+2007-10,Coldplay,25
+2007-10,Damien Rice,3
+2007-10,Faithless,7
+2007-10,Fatboy Slim,4
+2007-10,Gotan Project,13
+2007-10,Hooverphonic,1
+2007-10,K'S Choice,1
+2007-10,Leonard Cohen,1
+2007-10,Massive Attack,4
+2007-10,Moby,9
+2007-10,Placebo,5
+2007-10,Portishead,5
+2007-10,Red Hot Chili Peppers,1
+2007-10,Robbie Williams,6
+2007-10,Röyksopp,1
+2007-10,Thievery Corporation,6
+2007-10,Tiësto,4
+2007-10,U2,1
+2007-11,Air,0
+2007-11,Bonobo,2
+2007-11,Coldplay,10
+2007-11,Damien Rice,4
+2007-11,Faithless,9
+2007-11,Fatboy Slim,1
+2007-11,Gotan Project,11
+2007-11,Hooverphonic,0
+2007-11,K'S Choice,0
+2007-11,Leonard Cohen,2
+2007-11,Massive Attack,2
+2007-11,Moby,4
+2007-11,Placebo,3
+2007-11,Portishead,0
+2007-11,Red Hot Chili Peppers,7
+2007-11,Robbie Williams,6
+2007-11,Röyksopp,2
+2007-11,Thievery Corporation,27
+2007-11,Tiësto,18
+2007-11,U2,15
+2007-12,Air,1
+2007-12,Bonobo,1
+2007-12,Coldplay,1
+2007-12,Damien Rice,1
+2007-12,Faithless,4
+2007-12,Fatboy Slim,1
+2007-12,Gotan Project,0
+2007-12,Hooverphonic,0
+2007-12,K'S Choice,1
+2007-12,Leonard Cohen,3
+2007-12,Massive Attack,6
+2007-12,Moby,3
+2007-12,Placebo,1
+2007-12,Portishead,5
+2007-12,Red Hot Chili Peppers,3
+2007-12,Robbie Williams,2
+2007-12,Röyksopp,1
+2007-12,Thievery Corporation,10
+2007-12,Tiësto,2
+2007-12,U2,1
+2008-01,Air,0
+2008-01,Bonobo,0
+2008-01,Coldplay,3
+2008-01,Damien Rice,0
+2008-01,Faithless,3
+2008-01,Fatboy Slim,0
+2008-01,Gotan Project,7
+2008-01,Hooverphonic,0
+2008-01,K'S Choice,0
+2008-01,Leonard Cohen,1
+2008-01,Massive Attack,3
+2008-01,Moby,1
+2008-01,Placebo,0
+2008-01,Portishead,1
+2008-01,Red Hot Chili Peppers,1
+2008-01,Robbie Williams,1
+2008-01,Röyksopp,0
+2008-01,Thievery Corporation,8
+2008-01,Tiësto,2
+2008-01,U2,1
+2008-02,Air,1
+2008-02,Bonobo,2
+2008-02,Coldplay,6
+2008-02,Damien Rice,4
+2008-02,Faithless,3
+2008-02,Fatboy Slim,0
+2008-02,Gotan Project,1
+2008-02,Hooverphonic,1
+2008-02,K'S Choice,1
+2008-02,Leonard Cohen,1
+2008-02,Massive Attack,9
+2008-02,Moby,4
+2008-02,Placebo,4
+2008-02,Portishead,0
+2008-02,Red Hot Chili Peppers,14
+2008-02,Robbie Williams,4
+2008-02,Röyksopp,2
+2008-02,Thievery Corporation,5
+2008-02,Tiësto,5
+2008-02,U2,2
+2008-03,Air,0
+2008-03,Bonobo,1
+2008-03,Coldplay,9
+2008-03,Damien Rice,8
+2008-03,Faithless,3
+2008-03,Fatboy Slim,1
+2008-03,Gotan Project,3
+2008-03,Hooverphonic,6
+2008-03,K'S Choice,16
+2008-03,Leonard Cohen,0
+2008-03,Massive Attack,2
+2008-03,Moby,8
+2008-03,Placebo,4
+2008-03,Portishead,8
+2008-03,Red Hot Chili Peppers,4
+2008-03,Robbie Williams,19
+2008-03,Röyksopp,2
+2008-03,Thievery Corporation,33
+2008-03,Tiësto,5
+2008-03,U2,0
+2008-04,Air,0
+2008-04,Bonobo,0
+2008-04,Coldplay,3
+2008-04,Damien Rice,1
+2008-04,Faithless,6
+2008-04,Fatboy Slim,0
+2008-04,Gotan Project,2
+2008-04,Hooverphonic,0
+2008-04,K'S Choice,1
+2008-04,Leonard Cohen,2
+2008-04,Massive Attack,0
+2008-04,Moby,9
+2008-04,Placebo,2
+2008-04,Portishead,1
+2008-04,Red Hot Chili Peppers,0
+2008-04,Robbie Williams,0
+2008-04,Röyksopp,1
+2008-04,Thievery Corporation,17
+2008-04,Tiësto,0
+2008-04,U2,0
+2008-05,Air,0
+2008-05,Bonobo,0
+2008-05,Coldplay,17
+2008-05,Damien Rice,2
+2008-05,Faithless,3
+2008-05,Fatboy Slim,0
+2008-05,Gotan Project,4
+2008-05,Hooverphonic,1
+2008-05,K'S Choice,0
+2008-05,Leonard Cohen,2
+2008-05,Massive Attack,2
+2008-05,Moby,15
+2008-05,Placebo,1
+2008-05,Portishead,28
+2008-05,Red Hot Chili Peppers,3
+2008-05,Robbie Williams,2
+2008-05,Röyksopp,0
+2008-05,Thievery Corporation,7
+2008-05,Tiësto,1
+2008-05,U2,0
+2008-06,Air,1
+2008-06,Bonobo,0
+2008-06,Coldplay,0
+2008-06,Damien Rice,0
+2008-06,Faithless,0
+2008-06,Fatboy Slim,1
+2008-06,Gotan Project,0
+2008-06,Hooverphonic,0
+2008-06,K'S Choice,1
+2008-06,Leonard Cohen,2
+2008-06,Massive Attack,1
+2008-06,Moby,2
+2008-06,Placebo,1
+2008-06,Portishead,1
+2008-06,Red Hot Chili Peppers,2
+2008-06,Robbie Williams,0
+2008-06,Röyksopp,0
+2008-06,Thievery Corporation,19
+2008-06,Tiësto,1
+2008-06,U2,0
+2008-07,Air,0
+2008-07,Bonobo,0
+2008-07,Coldplay,1
+2008-07,Damien Rice,0
+2008-07,Faithless,0
+2008-07,Fatboy Slim,0
+2008-07,Gotan Project,1
+2008-07,Hooverphonic,0
+2008-07,K'S Choice,0
+2008-07,Leonard Cohen,0
+2008-07,Massive Attack,0
+2008-07,Moby,1
+2008-07,Placebo,0
+2008-07,Portishead,0
+2008-07,Red Hot Chili Peppers,0
+2008-07,Robbie Williams,0
+2008-07,Röyksopp,0
+2008-07,Thievery Corporation,4
+2008-07,Tiësto,3
+2008-07,U2,0
+2008-08,Air,1
+2008-08,Bonobo,0
+2008-08,Coldplay,0
+2008-08,Damien Rice,0
+2008-08,Faithless,1
+2008-08,Fatboy Slim,0
+2008-08,Gotan Project,0
+2008-08,Hooverphonic,1
+2008-08,K'S Choice,0
+2008-08,Leonard Cohen,0
+2008-08,Massive Attack,1
+2008-08,Moby,1
+2008-08,Placebo,0
+2008-08,Portishead,1
+2008-08,Red Hot Chili Peppers,0
+2008-08,Robbie Williams,0
+2008-08,Röyksopp,0
+2008-08,Thievery Corporation,1
+2008-08,Tiësto,0
+2008-08,U2,0
+2008-09,Air,1
+2008-09,Bonobo,0
+2008-09,Coldplay,0
+2008-09,Damien Rice,3
+2008-09,Faithless,1
+2008-09,Fatboy Slim,0
+2008-09,Gotan Project,0
+2008-09,Hooverphonic,0
+2008-09,K'S Choice,1
+2008-09,Leonard Cohen,1
+2008-09,Massive Attack,0
+2008-09,Moby,0
+2008-09,Placebo,1
+2008-09,Portishead,1
+2008-09,Red Hot Chili Peppers,0
+2008-09,Robbie Williams,0
+2008-09,Röyksopp,0
+2008-09,Thievery Corporation,14
+2008-09,Tiësto,0
+2008-09,U2,12
+2008-10,Air,0
+2008-10,Bonobo,0
+2008-10,Coldplay,0
+2008-10,Damien Rice,0
+2008-10,Faithless,0
+2008-10,Fatboy Slim,1
+2008-10,Gotan Project,0
+2008-10,Hooverphonic,0
+2008-10,K'S Choice,0
+2008-10,Leonard Cohen,0
+2008-10,Massive Attack,0
+2008-10,Moby,0
+2008-10,Placebo,0
+2008-10,Portishead,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Robbie Williams,6
+2008-10,Röyksopp,0
+2008-10,Thievery Corporation,69
+2008-10,Tiësto,0
+2008-10,U2,0
+2008-11,Air,0
+2008-11,Bonobo,2
+2008-11,Coldplay,3
+2008-11,Damien Rice,0
+2008-11,Faithless,1
+2008-11,Fatboy Slim,2
+2008-11,Gotan Project,0
+2008-11,Hooverphonic,1
+2008-11,K'S Choice,0
+2008-11,Leonard Cohen,1
+2008-11,Massive Attack,1
+2008-11,Moby,1
+2008-11,Placebo,3
+2008-11,Portishead,3
+2008-11,Red Hot Chili Peppers,3
+2008-11,Robbie Williams,1
+2008-11,Röyksopp,0
+2008-11,Thievery Corporation,2
+2008-11,Tiësto,0
+2008-11,U2,1
+2008-12,Air,0
+2008-12,Bonobo,1
+2008-12,Coldplay,0
+2008-12,Damien Rice,0
+2008-12,Faithless,0
+2008-12,Fatboy Slim,1
+2008-12,Gotan Project,1
+2008-12,Hooverphonic,0
+2008-12,K'S Choice,0
+2008-12,Leonard Cohen,0
+2008-12,Massive Attack,0
+2008-12,Moby,2
+2008-12,Placebo,1
+2008-12,Portishead,0
+2008-12,Red Hot Chili Peppers,0
+2008-12,Robbie Williams,0
+2008-12,Röyksopp,1
+2008-12,Thievery Corporation,2
+2008-12,Tiësto,0
+2008-12,U2,1
+2009-01,Air,0
+2009-01,Bonobo,0
+2009-01,Coldplay,0
+2009-01,Damien Rice,0
+2009-01,Faithless,0
+2009-01,Fatboy Slim,0
+2009-01,Gotan Project,0
+2009-01,Hooverphonic,0
+2009-01,K'S Choice,0
+2009-01,Leonard Cohen,0
+2009-01,Massive Attack,0
+2009-01,Moby,0
+2009-01,Placebo,0
+2009-01,Portishead,0
+2009-01,Red Hot Chili Peppers,1
+2009-01,Robbie Williams,1
+2009-01,Röyksopp,0
+2009-01,Thievery Corporation,4
+2009-01,Tiësto,0
+2009-01,U2,1
+2009-02,Air,1
+2009-02,Bonobo,3
+2009-02,Coldplay,2
+2009-02,Damien Rice,0
+2009-02,Faithless,1
+2009-02,Fatboy Slim,2
+2009-02,Gotan Project,0
+2009-02,Hooverphonic,2
+2009-02,K'S Choice,2
+2009-02,Leonard Cohen,2
+2009-02,Massive Attack,1
+2009-02,Moby,2
+2009-02,Placebo,1
+2009-02,Portishead,2
+2009-02,Red Hot Chili Peppers,1
+2009-02,Robbie Williams,2
+2009-02,Röyksopp,0
+2009-02,Thievery Corporation,15
+2009-02,Tiësto,1
+2009-02,U2,0
+2009-03,Air,3
+2009-03,Bonobo,8
+2009-03,Coldplay,10
+2009-03,Damien Rice,3
+2009-03,Faithless,4
+2009-03,Fatboy Slim,6
+2009-03,Gotan Project,2
+2009-03,Hooverphonic,5
+2009-03,K'S Choice,4
+2009-03,Leonard Cohen,5
+2009-03,Massive Attack,6
+2009-03,Moby,6
+2009-03,Placebo,4
+2009-03,Portishead,3
+2009-03,Red Hot Chili Peppers,5
+2009-03,Robbie Williams,8
+2009-03,Röyksopp,6
+2009-03,Thievery Corporation,5
+2009-03,Tiësto,9
+2009-03,U2,2
+2009-04,Air,1
+2009-04,Bonobo,4
+2009-04,Coldplay,5
+2009-04,Damien Rice,0
+2009-04,Faithless,2
+2009-04,Fatboy Slim,1
+2009-04,Gotan Project,2
+2009-04,Hooverphonic,4
+2009-04,K'S Choice,2
+2009-04,Leonard Cohen,4
+2009-04,Massive Attack,2
+2009-04,Moby,1
+2009-04,Placebo,2
+2009-04,Portishead,1
+2009-04,Red Hot Chili Peppers,1
+2009-04,Robbie Williams,4
+2009-04,Röyksopp,3
+2009-04,Thievery Corporation,2
+2009-04,Tiësto,5
+2009-04,U2,1

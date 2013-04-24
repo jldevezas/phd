@@ -1,0 +1,481 @@
+month,artist,plays
+2007-06,Aesop Rock,54
+2007-06,Air,6
+2007-06,Atmosphere,3
+2007-06,Beastie Boys,17
+2007-06,Death Cab For Cutie,0
+2007-06,El-P,3
+2007-06,Elliott Smith,70
+2007-06,Hot Chip,19
+2007-06,Lcd Soundsystem,18
+2007-06,Rjd2,1
+2007-06,Sublime,20
+2007-06,The Cure,3
+2007-06,The Mountain Goats,0
+2007-06,The Pharcyde,23
+2007-06,The Postal Service,0
+2007-06,The Shins,0
+2007-06,The Smashing Pumpkins,2
+2007-06,Tom Waits,25
+2007-06,Tricky,0
+2007-06,Why?,0
+2007-07,Aesop Rock,8
+2007-07,Air,0
+2007-07,Atmosphere,0
+2007-07,Beastie Boys,0
+2007-07,Death Cab For Cutie,0
+2007-07,El-P,0
+2007-07,Elliott Smith,15
+2007-07,Hot Chip,0
+2007-07,Lcd Soundsystem,0
+2007-07,Rjd2,0
+2007-07,Sublime,12
+2007-07,The Cure,1
+2007-07,The Mountain Goats,0
+2007-07,The Pharcyde,1
+2007-07,The Postal Service,0
+2007-07,The Shins,0
+2007-07,The Smashing Pumpkins,12
+2007-07,Tom Waits,0
+2007-07,Tricky,0
+2007-07,Why?,0
+2007-08,Aesop Rock,27
+2007-08,Air,0
+2007-08,Atmosphere,1
+2007-08,Beastie Boys,2
+2007-08,Death Cab For Cutie,0
+2007-08,El-P,0
+2007-08,Elliott Smith,41
+2007-08,Hot Chip,3
+2007-08,Lcd Soundsystem,3
+2007-08,Rjd2,1
+2007-08,Sublime,2
+2007-08,The Cure,0
+2007-08,The Mountain Goats,0
+2007-08,The Pharcyde,0
+2007-08,The Postal Service,0
+2007-08,The Shins,24
+2007-08,The Smashing Pumpkins,38
+2007-08,Tom Waits,0
+2007-08,Tricky,0
+2007-08,Why?,0
+2007-09,Aesop Rock,9
+2007-09,Air,0
+2007-09,Atmosphere,0
+2007-09,Beastie Boys,0
+2007-09,Death Cab For Cutie,0
+2007-09,El-P,0
+2007-09,Elliott Smith,0
+2007-09,Hot Chip,0
+2007-09,Lcd Soundsystem,0
+2007-09,Rjd2,0
+2007-09,Sublime,0
+2007-09,The Cure,0
+2007-09,The Mountain Goats,0
+2007-09,The Pharcyde,0
+2007-09,The Postal Service,0
+2007-09,The Shins,0
+2007-09,The Smashing Pumpkins,0
+2007-09,Tom Waits,0
+2007-09,Tricky,0
+2007-09,Why?,0
+2007-10,Aesop Rock,0
+2007-10,Air,0
+2007-10,Atmosphere,0
+2007-10,Beastie Boys,0
+2007-10,Death Cab For Cutie,0
+2007-10,El-P,0
+2007-10,Elliott Smith,0
+2007-10,Hot Chip,0
+2007-10,Lcd Soundsystem,0
+2007-10,Rjd2,0
+2007-10,Sublime,0
+2007-10,The Cure,0
+2007-10,The Mountain Goats,0
+2007-10,The Pharcyde,0
+2007-10,The Postal Service,0
+2007-10,The Shins,0
+2007-10,The Smashing Pumpkins,0
+2007-10,Tom Waits,0
+2007-10,Tricky,0
+2007-10,Why?,0
+2007-11,Aesop Rock,0
+2007-11,Air,0
+2007-11,Atmosphere,0
+2007-11,Beastie Boys,0
+2007-11,Death Cab For Cutie,0
+2007-11,El-P,0
+2007-11,Elliott Smith,0
+2007-11,Hot Chip,0
+2007-11,Lcd Soundsystem,0
+2007-11,Rjd2,0
+2007-11,Sublime,0
+2007-11,The Cure,0
+2007-11,The Mountain Goats,0
+2007-11,The Pharcyde,0
+2007-11,The Postal Service,0
+2007-11,The Shins,0
+2007-11,The Smashing Pumpkins,0
+2007-11,Tom Waits,0
+2007-11,Tricky,0
+2007-11,Why?,0
+2007-12,Aesop Rock,0
+2007-12,Air,0
+2007-12,Atmosphere,0
+2007-12,Beastie Boys,0
+2007-12,Death Cab For Cutie,0
+2007-12,El-P,0
+2007-12,Elliott Smith,0
+2007-12,Hot Chip,0
+2007-12,Lcd Soundsystem,0
+2007-12,Rjd2,0
+2007-12,Sublime,0
+2007-12,The Cure,0
+2007-12,The Mountain Goats,0
+2007-12,The Pharcyde,0
+2007-12,The Postal Service,0
+2007-12,The Shins,0
+2007-12,The Smashing Pumpkins,0
+2007-12,Tom Waits,0
+2007-12,Tricky,0
+2007-12,Why?,0
+2008-01,Aesop Rock,0
+2008-01,Air,0
+2008-01,Atmosphere,0
+2008-01,Beastie Boys,0
+2008-01,Death Cab For Cutie,0
+2008-01,El-P,0
+2008-01,Elliott Smith,0
+2008-01,Hot Chip,0
+2008-01,Lcd Soundsystem,0
+2008-01,Rjd2,0
+2008-01,Sublime,0
+2008-01,The Cure,0
+2008-01,The Mountain Goats,0
+2008-01,The Pharcyde,0
+2008-01,The Postal Service,0
+2008-01,The Shins,0
+2008-01,The Smashing Pumpkins,0
+2008-01,Tom Waits,0
+2008-01,Tricky,0
+2008-01,Why?,0
+2008-02,Aesop Rock,0
+2008-02,Air,0
+2008-02,Atmosphere,0
+2008-02,Beastie Boys,0
+2008-02,Death Cab For Cutie,0
+2008-02,El-P,0
+2008-02,Elliott Smith,0
+2008-02,Hot Chip,0
+2008-02,Lcd Soundsystem,0
+2008-02,Rjd2,0
+2008-02,Sublime,0
+2008-02,The Cure,0
+2008-02,The Mountain Goats,0
+2008-02,The Pharcyde,0
+2008-02,The Postal Service,0
+2008-02,The Shins,0
+2008-02,The Smashing Pumpkins,0
+2008-02,Tom Waits,0
+2008-02,Tricky,0
+2008-02,Why?,0
+2008-03,Aesop Rock,0
+2008-03,Air,0
+2008-03,Atmosphere,0
+2008-03,Beastie Boys,0
+2008-03,Death Cab For Cutie,0
+2008-03,El-P,0
+2008-03,Elliott Smith,0
+2008-03,Hot Chip,0
+2008-03,Lcd Soundsystem,2
+2008-03,Rjd2,1
+2008-03,Sublime,1
+2008-03,The Cure,4
+2008-03,The Mountain Goats,0
+2008-03,The Pharcyde,2
+2008-03,The Postal Service,0
+2008-03,The Shins,0
+2008-03,The Smashing Pumpkins,8
+2008-03,Tom Waits,0
+2008-03,Tricky,11
+2008-03,Why?,0
+2008-04,Aesop Rock,25
+2008-04,Air,0
+2008-04,Atmosphere,7
+2008-04,Beastie Boys,3
+2008-04,Death Cab For Cutie,48
+2008-04,El-P,9
+2008-04,Elliott Smith,298
+2008-04,Hot Chip,20
+2008-04,Lcd Soundsystem,9
+2008-04,Rjd2,1
+2008-04,Sublime,13
+2008-04,The Cure,9
+2008-04,The Mountain Goats,78
+2008-04,The Pharcyde,5
+2008-04,The Postal Service,0
+2008-04,The Shins,3
+2008-04,The Smashing Pumpkins,11
+2008-04,Tom Waits,13
+2008-04,Tricky,23
+2008-04,Why?,0
+2008-05,Aesop Rock,18
+2008-05,Air,6
+2008-05,Atmosphere,0
+2008-05,Beastie Boys,2
+2008-05,Death Cab For Cutie,7
+2008-05,El-P,12
+2008-05,Elliott Smith,84
+2008-05,Hot Chip,6
+2008-05,Lcd Soundsystem,0
+2008-05,Rjd2,2
+2008-05,Sublime,1
+2008-05,The Cure,8
+2008-05,The Mountain Goats,107
+2008-05,The Pharcyde,1
+2008-05,The Postal Service,0
+2008-05,The Shins,5
+2008-05,The Smashing Pumpkins,4
+2008-05,Tom Waits,0
+2008-05,Tricky,19
+2008-05,Why?,0
+2008-06,Aesop Rock,35
+2008-06,Air,18
+2008-06,Atmosphere,0
+2008-06,Beastie Boys,0
+2008-06,Death Cab For Cutie,11
+2008-06,El-P,13
+2008-06,Elliott Smith,139
+2008-06,Hot Chip,19
+2008-06,Lcd Soundsystem,0
+2008-06,Rjd2,1
+2008-06,Sublime,0
+2008-06,The Cure,0
+2008-06,The Mountain Goats,38
+2008-06,The Pharcyde,10
+2008-06,The Postal Service,22
+2008-06,The Shins,5
+2008-06,The Smashing Pumpkins,0
+2008-06,Tom Waits,0
+2008-06,Tricky,21
+2008-06,Why?,0
+2008-07,Aesop Rock,41
+2008-07,Air,0
+2008-07,Atmosphere,3
+2008-07,Beastie Boys,19
+2008-07,Death Cab For Cutie,20
+2008-07,El-P,21
+2008-07,Elliott Smith,113
+2008-07,Hot Chip,29
+2008-07,Lcd Soundsystem,3
+2008-07,Rjd2,1
+2008-07,Sublime,7
+2008-07,The Cure,19
+2008-07,The Mountain Goats,49
+2008-07,The Pharcyde,13
+2008-07,The Postal Service,17
+2008-07,The Shins,5
+2008-07,The Smashing Pumpkins,36
+2008-07,Tom Waits,9
+2008-07,Tricky,0
+2008-07,Why?,153
+2008-08,Aesop Rock,16
+2008-08,Air,0
+2008-08,Atmosphere,14
+2008-08,Beastie Boys,0
+2008-08,Death Cab For Cutie,6
+2008-08,El-P,7
+2008-08,Elliott Smith,13
+2008-08,Hot Chip,0
+2008-08,Lcd Soundsystem,0
+2008-08,Rjd2,1
+2008-08,Sublime,0
+2008-08,The Cure,0
+2008-08,The Mountain Goats,95
+2008-08,The Pharcyde,2
+2008-08,The Postal Service,8
+2008-08,The Shins,0
+2008-08,The Smashing Pumpkins,6
+2008-08,Tom Waits,12
+2008-08,Tricky,0
+2008-08,Why?,18
+2008-09,Aesop Rock,28
+2008-09,Air,0
+2008-09,Atmosphere,33
+2008-09,Beastie Boys,0
+2008-09,Death Cab For Cutie,1
+2008-09,El-P,3
+2008-09,Elliott Smith,102
+2008-09,Hot Chip,0
+2008-09,Lcd Soundsystem,1
+2008-09,Rjd2,0
+2008-09,Sublime,24
+2008-09,The Cure,0
+2008-09,The Mountain Goats,55
+2008-09,The Pharcyde,9
+2008-09,The Postal Service,10
+2008-09,The Shins,1
+2008-09,The Smashing Pumpkins,0
+2008-09,Tom Waits,181
+2008-09,Tricky,0
+2008-09,Why?,28
+2008-10,Aesop Rock,57
+2008-10,Air,15
+2008-10,Atmosphere,0
+2008-10,Beastie Boys,0
+2008-10,Death Cab For Cutie,39
+2008-10,El-P,3
+2008-10,Elliott Smith,138
+2008-10,Hot Chip,1
+2008-10,Lcd Soundsystem,0
+2008-10,Rjd2,0
+2008-10,Sublime,1
+2008-10,The Cure,0
+2008-10,The Mountain Goats,0
+2008-10,The Pharcyde,0
+2008-10,The Postal Service,15
+2008-10,The Shins,12
+2008-10,The Smashing Pumpkins,5
+2008-10,Tom Waits,8
+2008-10,Tricky,0
+2008-10,Why?,33
+2008-11,Aesop Rock,0
+2008-11,Air,0
+2008-11,Atmosphere,0
+2008-11,Beastie Boys,0
+2008-11,Death Cab For Cutie,0
+2008-11,El-P,0
+2008-11,Elliott Smith,0
+2008-11,Hot Chip,0
+2008-11,Lcd Soundsystem,0
+2008-11,Rjd2,0
+2008-11,Sublime,0
+2008-11,The Cure,0
+2008-11,The Mountain Goats,0
+2008-11,The Pharcyde,0
+2008-11,The Postal Service,6
+2008-11,The Shins,0
+2008-11,The Smashing Pumpkins,22
+2008-11,Tom Waits,0
+2008-11,Tricky,3
+2008-11,Why?,136
+2008-12,Aesop Rock,4
+2008-12,Air,14
+2008-12,Atmosphere,0
+2008-12,Beastie Boys,0
+2008-12,Death Cab For Cutie,2
+2008-12,El-P,1
+2008-12,Elliott Smith,56
+2008-12,Hot Chip,10
+2008-12,Lcd Soundsystem,28
+2008-12,Rjd2,1
+2008-12,Sublime,0
+2008-12,The Cure,0
+2008-12,The Mountain Goats,7
+2008-12,The Pharcyde,3
+2008-12,The Postal Service,12
+2008-12,The Shins,0
+2008-12,The Smashing Pumpkins,2
+2008-12,Tom Waits,40
+2008-12,Tricky,2
+2008-12,Why?,90
+2009-01,Aesop Rock,37
+2009-01,Air,0
+2009-01,Atmosphere,0
+2009-01,Beastie Boys,9
+2009-01,Death Cab For Cutie,0
+2009-01,El-P,0
+2009-01,Elliott Smith,31
+2009-01,Hot Chip,22
+2009-01,Lcd Soundsystem,37
+2009-01,Rjd2,0
+2009-01,Sublime,1
+2009-01,The Cure,0
+2009-01,The Mountain Goats,17
+2009-01,The Pharcyde,0
+2009-01,The Postal Service,0
+2009-01,The Shins,0
+2009-01,The Smashing Pumpkins,19
+2009-01,Tom Waits,47
+2009-01,Tricky,1
+2009-01,Why?,41
+2009-02,Aesop Rock,27
+2009-02,Air,24
+2009-02,Atmosphere,0
+2009-02,Beastie Boys,31
+2009-02,Death Cab For Cutie,0
+2009-02,El-P,8
+2009-02,Elliott Smith,82
+2009-02,Hot Chip,0
+2009-02,Lcd Soundsystem,19
+2009-02,Rjd2,0
+2009-02,Sublime,0
+2009-02,The Cure,0
+2009-02,The Mountain Goats,63
+2009-02,The Pharcyde,8
+2009-02,The Postal Service,25
+2009-02,The Shins,0
+2009-02,The Smashing Pumpkins,0
+2009-02,Tom Waits,38
+2009-02,Tricky,0
+2009-02,Why?,34
+2009-03,Aesop Rock,0
+2009-03,Air,0
+2009-03,Atmosphere,0
+2009-03,Beastie Boys,0
+2009-03,Death Cab For Cutie,0
+2009-03,El-P,0
+2009-03,Elliott Smith,98
+2009-03,Hot Chip,2
+2009-03,Lcd Soundsystem,11
+2009-03,Rjd2,0
+2009-03,Sublime,1
+2009-03,The Cure,1
+2009-03,The Mountain Goats,141
+2009-03,The Pharcyde,0
+2009-03,The Postal Service,0
+2009-03,The Shins,0
+2009-03,The Smashing Pumpkins,8
+2009-03,Tom Waits,28
+2009-03,Tricky,15
+2009-03,Why?,50
+2009-04,Aesop Rock,0
+2009-04,Air,0
+2009-04,Atmosphere,0
+2009-04,Beastie Boys,12
+2009-04,Death Cab For Cutie,0
+2009-04,El-P,6
+2009-04,Elliott Smith,45
+2009-04,Hot Chip,20
+2009-04,Lcd Soundsystem,12
+2009-04,Rjd2,0
+2009-04,Sublime,0
+2009-04,The Cure,0
+2009-04,The Mountain Goats,19
+2009-04,The Pharcyde,0
+2009-04,The Postal Service,10
+2009-04,The Shins,0
+2009-04,The Smashing Pumpkins,0
+2009-04,Tom Waits,2
+2009-04,Tricky,0
+2009-04,Why?,0
+2009-05,Aesop Rock,0
+2009-05,Air,0
+2009-05,Atmosphere,0
+2009-05,Beastie Boys,0
+2009-05,Death Cab For Cutie,0
+2009-05,El-P,0
+2009-05,Elliott Smith,24
+2009-05,Hot Chip,0
+2009-05,Lcd Soundsystem,2
+2009-05,Rjd2,0
+2009-05,Sublime,0
+2009-05,The Cure,0
+2009-05,The Mountain Goats,0
+2009-05,The Pharcyde,0
+2009-05,The Postal Service,0
+2009-05,The Shins,0
+2009-05,The Smashing Pumpkins,0
+2009-05,Tom Waits,0
+2009-05,Tricky,0
+2009-05,Why?,0

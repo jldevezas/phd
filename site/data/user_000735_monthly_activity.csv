@@ -1,0 +1,841 @@
+month,artist,plays
+2005-12,Air,3
+2005-12,Beastie Boys,7
+2005-12,Beck,5
+2005-12,Björk,0
+2005-12,Bob Marley & The Wailers,7
+2005-12,Coldplay,0
+2005-12,David Bowie,11
+2005-12,Dread Zeppelin,10
+2005-12,Morphine,32
+2005-12,Neil Young,0
+2005-12,Nine Inch Nails,2
+2005-12,Nirvana,6
+2005-12,Prince,4
+2005-12,Radiohead,0
+2005-12,Raga Rockers,50
+2005-12,Red Hot Chili Peppers,4
+2005-12,Stone Temple Pilots,91
+2005-12,Sublime,17
+2005-12,The Beatles,13
+2005-12,The Dandy Warhols,42
+2006-01,Air,4
+2006-01,Beastie Boys,2
+2006-01,Beck,4
+2006-01,Björk,0
+2006-01,Bob Marley & The Wailers,2
+2006-01,Coldplay,0
+2006-01,David Bowie,8
+2006-01,Dread Zeppelin,3
+2006-01,Morphine,29
+2006-01,Neil Young,3
+2006-01,Nine Inch Nails,0
+2006-01,Nirvana,0
+2006-01,Prince,3
+2006-01,Radiohead,0
+2006-01,Raga Rockers,5
+2006-01,Red Hot Chili Peppers,3
+2006-01,Stone Temple Pilots,33
+2006-01,Sublime,22
+2006-01,The Beatles,7
+2006-01,The Dandy Warhols,76
+2006-02,Air,0
+2006-02,Beastie Boys,1
+2006-02,Beck,0
+2006-02,Björk,0
+2006-02,Bob Marley & The Wailers,0
+2006-02,Coldplay,0
+2006-02,David Bowie,0
+2006-02,Dread Zeppelin,0
+2006-02,Morphine,0
+2006-02,Neil Young,0
+2006-02,Nine Inch Nails,0
+2006-02,Nirvana,1
+2006-02,Prince,0
+2006-02,Radiohead,0
+2006-02,Raga Rockers,0
+2006-02,Red Hot Chili Peppers,0
+2006-02,Stone Temple Pilots,0
+2006-02,Sublime,0
+2006-02,The Beatles,0
+2006-02,The Dandy Warhols,0
+2006-03,Air,0
+2006-03,Beastie Boys,0
+2006-03,Beck,0
+2006-03,Björk,0
+2006-03,Bob Marley & The Wailers,0
+2006-03,Coldplay,0
+2006-03,David Bowie,0
+2006-03,Dread Zeppelin,0
+2006-03,Morphine,0
+2006-03,Neil Young,0
+2006-03,Nine Inch Nails,0
+2006-03,Nirvana,0
+2006-03,Prince,0
+2006-03,Radiohead,0
+2006-03,Raga Rockers,0
+2006-03,Red Hot Chili Peppers,0
+2006-03,Stone Temple Pilots,0
+2006-03,Sublime,0
+2006-03,The Beatles,0
+2006-03,The Dandy Warhols,0
+2006-04,Air,0
+2006-04,Beastie Boys,0
+2006-04,Beck,0
+2006-04,Björk,0
+2006-04,Bob Marley & The Wailers,0
+2006-04,Coldplay,0
+2006-04,David Bowie,0
+2006-04,Dread Zeppelin,0
+2006-04,Morphine,0
+2006-04,Neil Young,0
+2006-04,Nine Inch Nails,0
+2006-04,Nirvana,0
+2006-04,Prince,0
+2006-04,Radiohead,0
+2006-04,Raga Rockers,0
+2006-04,Red Hot Chili Peppers,0
+2006-04,Stone Temple Pilots,0
+2006-04,Sublime,0
+2006-04,The Beatles,0
+2006-04,The Dandy Warhols,0
+2006-05,Air,0
+2006-05,Beastie Boys,0
+2006-05,Beck,0
+2006-05,Björk,0
+2006-05,Bob Marley & The Wailers,0
+2006-05,Coldplay,0
+2006-05,David Bowie,0
+2006-05,Dread Zeppelin,0
+2006-05,Morphine,0
+2006-05,Neil Young,0
+2006-05,Nine Inch Nails,0
+2006-05,Nirvana,0
+2006-05,Prince,0
+2006-05,Radiohead,0
+2006-05,Raga Rockers,0
+2006-05,Red Hot Chili Peppers,0
+2006-05,Stone Temple Pilots,0
+2006-05,Sublime,0
+2006-05,The Beatles,0
+2006-05,The Dandy Warhols,0
+2006-06,Air,2
+2006-06,Beastie Boys,0
+2006-06,Beck,0
+2006-06,Björk,0
+2006-06,Bob Marley & The Wailers,0
+2006-06,Coldplay,0
+2006-06,David Bowie,0
+2006-06,Dread Zeppelin,0
+2006-06,Morphine,5
+2006-06,Neil Young,0
+2006-06,Nine Inch Nails,0
+2006-06,Nirvana,0
+2006-06,Prince,0
+2006-06,Radiohead,0
+2006-06,Raga Rockers,0
+2006-06,Red Hot Chili Peppers,0
+2006-06,Stone Temple Pilots,3
+2006-06,Sublime,9
+2006-06,The Beatles,13
+2006-06,The Dandy Warhols,2
+2006-07,Air,0
+2006-07,Beastie Boys,0
+2006-07,Beck,0
+2006-07,Björk,0
+2006-07,Bob Marley & The Wailers,0
+2006-07,Coldplay,0
+2006-07,David Bowie,0
+2006-07,Dread Zeppelin,0
+2006-07,Morphine,0
+2006-07,Neil Young,0
+2006-07,Nine Inch Nails,0
+2006-07,Nirvana,0
+2006-07,Prince,0
+2006-07,Radiohead,0
+2006-07,Raga Rockers,0
+2006-07,Red Hot Chili Peppers,0
+2006-07,Stone Temple Pilots,0
+2006-07,Sublime,0
+2006-07,The Beatles,0
+2006-07,The Dandy Warhols,0
+2006-08,Air,0
+2006-08,Beastie Boys,0
+2006-08,Beck,0
+2006-08,Björk,0
+2006-08,Bob Marley & The Wailers,0
+2006-08,Coldplay,0
+2006-08,David Bowie,0
+2006-08,Dread Zeppelin,0
+2006-08,Morphine,0
+2006-08,Neil Young,0
+2006-08,Nine Inch Nails,0
+2006-08,Nirvana,0
+2006-08,Prince,0
+2006-08,Radiohead,0
+2006-08,Raga Rockers,0
+2006-08,Red Hot Chili Peppers,0
+2006-08,Stone Temple Pilots,0
+2006-08,Sublime,0
+2006-08,The Beatles,0
+2006-08,The Dandy Warhols,0
+2006-09,Air,0
+2006-09,Beastie Boys,0
+2006-09,Beck,0
+2006-09,Björk,0
+2006-09,Bob Marley & The Wailers,0
+2006-09,Coldplay,0
+2006-09,David Bowie,0
+2006-09,Dread Zeppelin,0
+2006-09,Morphine,0
+2006-09,Neil Young,0
+2006-09,Nine Inch Nails,0
+2006-09,Nirvana,0
+2006-09,Prince,0
+2006-09,Radiohead,0
+2006-09,Raga Rockers,0
+2006-09,Red Hot Chili Peppers,0
+2006-09,Stone Temple Pilots,0
+2006-09,Sublime,0
+2006-09,The Beatles,0
+2006-09,The Dandy Warhols,0
+2006-10,Air,0
+2006-10,Beastie Boys,0
+2006-10,Beck,0
+2006-10,Björk,0
+2006-10,Bob Marley & The Wailers,0
+2006-10,Coldplay,0
+2006-10,David Bowie,0
+2006-10,Dread Zeppelin,0
+2006-10,Morphine,0
+2006-10,Neil Young,0
+2006-10,Nine Inch Nails,0
+2006-10,Nirvana,0
+2006-10,Prince,0
+2006-10,Radiohead,0
+2006-10,Raga Rockers,0
+2006-10,Red Hot Chili Peppers,0
+2006-10,Stone Temple Pilots,0
+2006-10,Sublime,0
+2006-10,The Beatles,0
+2006-10,The Dandy Warhols,0
+2006-11,Air,0
+2006-11,Beastie Boys,0
+2006-11,Beck,0
+2006-11,Björk,0
+2006-11,Bob Marley & The Wailers,0
+2006-11,Coldplay,0
+2006-11,David Bowie,0
+2006-11,Dread Zeppelin,0
+2006-11,Morphine,0
+2006-11,Neil Young,0
+2006-11,Nine Inch Nails,0
+2006-11,Nirvana,0
+2006-11,Prince,0
+2006-11,Radiohead,0
+2006-11,Raga Rockers,0
+2006-11,Red Hot Chili Peppers,0
+2006-11,Stone Temple Pilots,0
+2006-11,Sublime,0
+2006-11,The Beatles,0
+2006-11,The Dandy Warhols,0
+2006-12,Air,0
+2006-12,Beastie Boys,0
+2006-12,Beck,0
+2006-12,Björk,0
+2006-12,Bob Marley & The Wailers,0
+2006-12,Coldplay,0
+2006-12,David Bowie,0
+2006-12,Dread Zeppelin,0
+2006-12,Morphine,0
+2006-12,Neil Young,0
+2006-12,Nine Inch Nails,0
+2006-12,Nirvana,0
+2006-12,Prince,0
+2006-12,Radiohead,0
+2006-12,Raga Rockers,0
+2006-12,Red Hot Chili Peppers,0
+2006-12,Stone Temple Pilots,0
+2006-12,Sublime,0
+2006-12,The Beatles,0
+2006-12,The Dandy Warhols,0
+2007-01,Air,0
+2007-01,Beastie Boys,0
+2007-01,Beck,0
+2007-01,Björk,0
+2007-01,Bob Marley & The Wailers,0
+2007-01,Coldplay,0
+2007-01,David Bowie,0
+2007-01,Dread Zeppelin,0
+2007-01,Morphine,0
+2007-01,Neil Young,0
+2007-01,Nine Inch Nails,0
+2007-01,Nirvana,0
+2007-01,Prince,0
+2007-01,Radiohead,0
+2007-01,Raga Rockers,0
+2007-01,Red Hot Chili Peppers,0
+2007-01,Stone Temple Pilots,0
+2007-01,Sublime,0
+2007-01,The Beatles,0
+2007-01,The Dandy Warhols,0
+2007-02,Air,0
+2007-02,Beastie Boys,0
+2007-02,Beck,0
+2007-02,Björk,0
+2007-02,Bob Marley & The Wailers,0
+2007-02,Coldplay,0
+2007-02,David Bowie,0
+2007-02,Dread Zeppelin,0
+2007-02,Morphine,0
+2007-02,Neil Young,0
+2007-02,Nine Inch Nails,0
+2007-02,Nirvana,0
+2007-02,Prince,0
+2007-02,Radiohead,0
+2007-02,Raga Rockers,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,Stone Temple Pilots,0
+2007-02,Sublime,0
+2007-02,The Beatles,0
+2007-02,The Dandy Warhols,0
+2007-03,Air,45
+2007-03,Beastie Boys,0
+2007-03,Beck,0
+2007-03,Björk,0
+2007-03,Bob Marley & The Wailers,0
+2007-03,Coldplay,0
+2007-03,David Bowie,0
+2007-03,Dread Zeppelin,0
+2007-03,Morphine,0
+2007-03,Neil Young,0
+2007-03,Nine Inch Nails,0
+2007-03,Nirvana,0
+2007-03,Prince,0
+2007-03,Radiohead,0
+2007-03,Raga Rockers,0
+2007-03,Red Hot Chili Peppers,0
+2007-03,Stone Temple Pilots,0
+2007-03,Sublime,4
+2007-03,The Beatles,0
+2007-03,The Dandy Warhols,0
+2007-04,Air,7
+2007-04,Beastie Boys,0
+2007-04,Beck,163
+2007-04,Björk,0
+2007-04,Bob Marley & The Wailers,0
+2007-04,Coldplay,0
+2007-04,David Bowie,0
+2007-04,Dread Zeppelin,0
+2007-04,Morphine,0
+2007-04,Neil Young,0
+2007-04,Nine Inch Nails,0
+2007-04,Nirvana,0
+2007-04,Prince,0
+2007-04,Radiohead,0
+2007-04,Raga Rockers,0
+2007-04,Red Hot Chili Peppers,0
+2007-04,Stone Temple Pilots,0
+2007-04,Sublime,8
+2007-04,The Beatles,82
+2007-04,The Dandy Warhols,0
+2007-05,Air,0
+2007-05,Beastie Boys,0
+2007-05,Beck,19
+2007-05,Björk,0
+2007-05,Bob Marley & The Wailers,0
+2007-05,Coldplay,1
+2007-05,David Bowie,1
+2007-05,Dread Zeppelin,0
+2007-05,Morphine,16
+2007-05,Neil Young,1
+2007-05,Nine Inch Nails,11
+2007-05,Nirvana,0
+2007-05,Prince,5
+2007-05,Radiohead,1
+2007-05,Raga Rockers,0
+2007-05,Red Hot Chili Peppers,0
+2007-05,Stone Temple Pilots,0
+2007-05,Sublime,0
+2007-05,The Beatles,7
+2007-05,The Dandy Warhols,2
+2007-06,Air,3
+2007-06,Beastie Boys,2
+2007-06,Beck,3
+2007-06,Björk,1
+2007-06,Bob Marley & The Wailers,2
+2007-06,Coldplay,2
+2007-06,David Bowie,2
+2007-06,Dread Zeppelin,2
+2007-06,Morphine,0
+2007-06,Neil Young,0
+2007-06,Nine Inch Nails,2
+2007-06,Nirvana,1
+2007-06,Prince,0
+2007-06,Radiohead,0
+2007-06,Raga Rockers,0
+2007-06,Red Hot Chili Peppers,2
+2007-06,Stone Temple Pilots,2
+2007-06,Sublime,1
+2007-06,The Beatles,1
+2007-06,The Dandy Warhols,2
+2007-07,Air,0
+2007-07,Beastie Boys,0
+2007-07,Beck,0
+2007-07,Björk,0
+2007-07,Bob Marley & The Wailers,0
+2007-07,Coldplay,0
+2007-07,David Bowie,0
+2007-07,Dread Zeppelin,0
+2007-07,Morphine,0
+2007-07,Neil Young,0
+2007-07,Nine Inch Nails,0
+2007-07,Nirvana,0
+2007-07,Prince,0
+2007-07,Radiohead,0
+2007-07,Raga Rockers,0
+2007-07,Red Hot Chili Peppers,0
+2007-07,Stone Temple Pilots,0
+2007-07,Sublime,0
+2007-07,The Beatles,0
+2007-07,The Dandy Warhols,0
+2007-08,Air,0
+2007-08,Beastie Boys,0
+2007-08,Beck,0
+2007-08,Björk,0
+2007-08,Bob Marley & The Wailers,0
+2007-08,Coldplay,0
+2007-08,David Bowie,0
+2007-08,Dread Zeppelin,0
+2007-08,Morphine,0
+2007-08,Neil Young,0
+2007-08,Nine Inch Nails,0
+2007-08,Nirvana,0
+2007-08,Prince,0
+2007-08,Radiohead,0
+2007-08,Raga Rockers,0
+2007-08,Red Hot Chili Peppers,0
+2007-08,Stone Temple Pilots,0
+2007-08,Sublime,0
+2007-08,The Beatles,0
+2007-08,The Dandy Warhols,0
+2007-09,Air,3
+2007-09,Beastie Boys,2
+2007-09,Beck,5
+2007-09,Björk,2
+2007-09,Bob Marley & The Wailers,1
+2007-09,Coldplay,2
+2007-09,David Bowie,2
+2007-09,Dread Zeppelin,2
+2007-09,Morphine,2
+2007-09,Neil Young,1
+2007-09,Nine Inch Nails,1
+2007-09,Nirvana,2
+2007-09,Prince,105
+2007-09,Radiohead,3
+2007-09,Raga Rockers,63
+2007-09,Red Hot Chili Peppers,2
+2007-09,Stone Temple Pilots,3
+2007-09,Sublime,1
+2007-09,The Beatles,4
+2007-09,The Dandy Warhols,2
+2007-10,Air,4
+2007-10,Beastie Boys,1
+2007-10,Beck,6
+2007-10,Björk,2
+2007-10,Bob Marley & The Wailers,8
+2007-10,Coldplay,2
+2007-10,David Bowie,10
+2007-10,Dread Zeppelin,7
+2007-10,Morphine,3
+2007-10,Neil Young,1
+2007-10,Nine Inch Nails,2
+2007-10,Nirvana,4
+2007-10,Prince,88
+2007-10,Radiohead,5
+2007-10,Raga Rockers,49
+2007-10,Red Hot Chili Peppers,1
+2007-10,Stone Temple Pilots,2
+2007-10,Sublime,1
+2007-10,The Beatles,3
+2007-10,The Dandy Warhols,8
+2007-11,Air,2
+2007-11,Beastie Boys,1
+2007-11,Beck,5
+2007-11,Björk,3
+2007-11,Bob Marley & The Wailers,1
+2007-11,Coldplay,1
+2007-11,David Bowie,6
+2007-11,Dread Zeppelin,1
+2007-11,Morphine,1
+2007-11,Neil Young,2
+2007-11,Nine Inch Nails,2
+2007-11,Nirvana,2
+2007-11,Prince,30
+2007-11,Radiohead,3
+2007-11,Raga Rockers,1
+2007-11,Red Hot Chili Peppers,1
+2007-11,Stone Temple Pilots,3
+2007-11,Sublime,0
+2007-11,The Beatles,5
+2007-11,The Dandy Warhols,0
+2007-12,Air,3
+2007-12,Beastie Boys,3
+2007-12,Beck,3
+2007-12,Björk,3
+2007-12,Bob Marley & The Wailers,2
+2007-12,Coldplay,1
+2007-12,David Bowie,4
+2007-12,Dread Zeppelin,1
+2007-12,Morphine,3
+2007-12,Neil Young,2
+2007-12,Nine Inch Nails,1
+2007-12,Nirvana,3
+2007-12,Prince,6
+2007-12,Radiohead,3
+2007-12,Raga Rockers,0
+2007-12,Red Hot Chili Peppers,4
+2007-12,Stone Temple Pilots,5
+2007-12,Sublime,0
+2007-12,The Beatles,5
+2007-12,The Dandy Warhols,1
+2008-01,Air,0
+2008-01,Beastie Boys,1
+2008-01,Beck,2
+2008-01,Björk,0
+2008-01,Bob Marley & The Wailers,1
+2008-01,Coldplay,0
+2008-01,David Bowie,2
+2008-01,Dread Zeppelin,1
+2008-01,Morphine,1
+2008-01,Neil Young,0
+2008-01,Nine Inch Nails,1
+2008-01,Nirvana,1
+2008-01,Prince,6
+2008-01,Radiohead,1
+2008-01,Raga Rockers,0
+2008-01,Red Hot Chili Peppers,2
+2008-01,Stone Temple Pilots,1
+2008-01,Sublime,0
+2008-01,The Beatles,3
+2008-01,The Dandy Warhols,0
+2008-02,Air,0
+2008-02,Beastie Boys,0
+2008-02,Beck,1
+2008-02,Björk,0
+2008-02,Bob Marley & The Wailers,1
+2008-02,Coldplay,0
+2008-02,David Bowie,0
+2008-02,Dread Zeppelin,1
+2008-02,Morphine,0
+2008-02,Neil Young,0
+2008-02,Nine Inch Nails,0
+2008-02,Nirvana,0
+2008-02,Prince,1
+2008-02,Radiohead,0
+2008-02,Raga Rockers,20
+2008-02,Red Hot Chili Peppers,0
+2008-02,Stone Temple Pilots,0
+2008-02,Sublime,0
+2008-02,The Beatles,1
+2008-02,The Dandy Warhols,0
+2008-03,Air,1
+2008-03,Beastie Boys,1
+2008-03,Beck,3
+2008-03,Björk,1
+2008-03,Bob Marley & The Wailers,5
+2008-03,Coldplay,0
+2008-03,David Bowie,6
+2008-03,Dread Zeppelin,0
+2008-03,Morphine,19
+2008-03,Neil Young,1
+2008-03,Nine Inch Nails,0
+2008-03,Nirvana,0
+2008-03,Prince,2
+2008-03,Radiohead,0
+2008-03,Raga Rockers,60
+2008-03,Red Hot Chili Peppers,0
+2008-03,Stone Temple Pilots,0
+2008-03,Sublime,0
+2008-03,The Beatles,1
+2008-03,The Dandy Warhols,1
+2008-04,Air,4
+2008-04,Beastie Boys,3
+2008-04,Beck,8
+2008-04,Björk,0
+2008-04,Bob Marley & The Wailers,3
+2008-04,Coldplay,0
+2008-04,David Bowie,9
+2008-04,Dread Zeppelin,2
+2008-04,Morphine,2
+2008-04,Neil Young,15
+2008-04,Nine Inch Nails,0
+2008-04,Nirvana,0
+2008-04,Prince,3
+2008-04,Radiohead,0
+2008-04,Raga Rockers,13
+2008-04,Red Hot Chili Peppers,0
+2008-04,Stone Temple Pilots,0
+2008-04,Sublime,0
+2008-04,The Beatles,11
+2008-04,The Dandy Warhols,5
+2008-05,Air,0
+2008-05,Beastie Boys,0
+2008-05,Beck,0
+2008-05,Björk,0
+2008-05,Bob Marley & The Wailers,0
+2008-05,Coldplay,0
+2008-05,David Bowie,2
+2008-05,Dread Zeppelin,0
+2008-05,Morphine,0
+2008-05,Neil Young,2
+2008-05,Nine Inch Nails,0
+2008-05,Nirvana,0
+2008-05,Prince,1
+2008-05,Radiohead,0
+2008-05,Raga Rockers,1
+2008-05,Red Hot Chili Peppers,0
+2008-05,Stone Temple Pilots,0
+2008-05,Sublime,0
+2008-05,The Beatles,0
+2008-05,The Dandy Warhols,1
+2008-06,Air,0
+2008-06,Beastie Boys,0
+2008-06,Beck,0
+2008-06,Björk,0
+2008-06,Bob Marley & The Wailers,0
+2008-06,Coldplay,0
+2008-06,David Bowie,0
+2008-06,Dread Zeppelin,0
+2008-06,Morphine,0
+2008-06,Neil Young,0
+2008-06,Nine Inch Nails,0
+2008-06,Nirvana,0
+2008-06,Prince,0
+2008-06,Radiohead,0
+2008-06,Raga Rockers,0
+2008-06,Red Hot Chili Peppers,0
+2008-06,Stone Temple Pilots,0
+2008-06,Sublime,0
+2008-06,The Beatles,0
+2008-06,The Dandy Warhols,0
+2008-07,Air,0
+2008-07,Beastie Boys,0
+2008-07,Beck,0
+2008-07,Björk,0
+2008-07,Bob Marley & The Wailers,0
+2008-07,Coldplay,0
+2008-07,David Bowie,0
+2008-07,Dread Zeppelin,0
+2008-07,Morphine,0
+2008-07,Neil Young,0
+2008-07,Nine Inch Nails,0
+2008-07,Nirvana,0
+2008-07,Prince,0
+2008-07,Radiohead,0
+2008-07,Raga Rockers,0
+2008-07,Red Hot Chili Peppers,0
+2008-07,Stone Temple Pilots,0
+2008-07,Sublime,0
+2008-07,The Beatles,0
+2008-07,The Dandy Warhols,0
+2008-08,Air,0
+2008-08,Beastie Boys,0
+2008-08,Beck,0
+2008-08,Björk,0
+2008-08,Bob Marley & The Wailers,0
+2008-08,Coldplay,0
+2008-08,David Bowie,0
+2008-08,Dread Zeppelin,0
+2008-08,Morphine,0
+2008-08,Neil Young,0
+2008-08,Nine Inch Nails,0
+2008-08,Nirvana,0
+2008-08,Prince,0
+2008-08,Radiohead,0
+2008-08,Raga Rockers,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,Stone Temple Pilots,0
+2008-08,Sublime,0
+2008-08,The Beatles,13
+2008-08,The Dandy Warhols,0
+2008-09,Air,0
+2008-09,Beastie Boys,0
+2008-09,Beck,0
+2008-09,Björk,0
+2008-09,Bob Marley & The Wailers,0
+2008-09,Coldplay,0
+2008-09,David Bowie,0
+2008-09,Dread Zeppelin,0
+2008-09,Morphine,0
+2008-09,Neil Young,0
+2008-09,Nine Inch Nails,0
+2008-09,Nirvana,0
+2008-09,Prince,0
+2008-09,Radiohead,0
+2008-09,Raga Rockers,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,Stone Temple Pilots,0
+2008-09,Sublime,0
+2008-09,The Beatles,0
+2008-09,The Dandy Warhols,0
+2008-10,Air,50
+2008-10,Beastie Boys,0
+2008-10,Beck,0
+2008-10,Björk,0
+2008-10,Bob Marley & The Wailers,0
+2008-10,Coldplay,0
+2008-10,David Bowie,0
+2008-10,Dread Zeppelin,0
+2008-10,Morphine,0
+2008-10,Neil Young,0
+2008-10,Nine Inch Nails,0
+2008-10,Nirvana,0
+2008-10,Prince,0
+2008-10,Radiohead,0
+2008-10,Raga Rockers,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Stone Temple Pilots,0
+2008-10,Sublime,0
+2008-10,The Beatles,0
+2008-10,The Dandy Warhols,0
+2008-11,Air,0
+2008-11,Beastie Boys,0
+2008-11,Beck,0
+2008-11,Björk,0
+2008-11,Bob Marley & The Wailers,0
+2008-11,Coldplay,0
+2008-11,David Bowie,0
+2008-11,Dread Zeppelin,0
+2008-11,Morphine,0
+2008-11,Neil Young,0
+2008-11,Nine Inch Nails,0
+2008-11,Nirvana,0
+2008-11,Prince,0
+2008-11,Radiohead,0
+2008-11,Raga Rockers,0
+2008-11,Red Hot Chili Peppers,0
+2008-11,Stone Temple Pilots,0
+2008-11,Sublime,0
+2008-11,The Beatles,0
+2008-11,The Dandy Warhols,0
+2008-12,Air,0
+2008-12,Beastie Boys,1
+2008-12,Beck,2
+2008-12,Björk,1
+2008-12,Bob Marley & The Wailers,0
+2008-12,Coldplay,3
+2008-12,David Bowie,0
+2008-12,Dread Zeppelin,0
+2008-12,Morphine,0
+2008-12,Neil Young,0
+2008-12,Nine Inch Nails,0
+2008-12,Nirvana,0
+2008-12,Prince,0
+2008-12,Radiohead,1
+2008-12,Raga Rockers,0
+2008-12,Red Hot Chili Peppers,1
+2008-12,Stone Temple Pilots,0
+2008-12,Sublime,0
+2008-12,The Beatles,0
+2008-12,The Dandy Warhols,0
+2009-01,Air,0
+2009-01,Beastie Boys,0
+2009-01,Beck,1
+2009-01,Björk,2
+2009-01,Bob Marley & The Wailers,0
+2009-01,Coldplay,1
+2009-01,David Bowie,0
+2009-01,Dread Zeppelin,0
+2009-01,Morphine,0
+2009-01,Neil Young,0
+2009-01,Nine Inch Nails,0
+2009-01,Nirvana,1
+2009-01,Prince,0
+2009-01,Radiohead,1
+2009-01,Raga Rockers,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,Stone Temple Pilots,0
+2009-01,Sublime,0
+2009-01,The Beatles,0
+2009-01,The Dandy Warhols,0
+2009-02,Air,0
+2009-02,Beastie Boys,0
+2009-02,Beck,2
+2009-02,Björk,2
+2009-02,Bob Marley & The Wailers,0
+2009-02,Coldplay,3
+2009-02,David Bowie,0
+2009-02,Dread Zeppelin,0
+2009-02,Morphine,1
+2009-02,Neil Young,0
+2009-02,Nine Inch Nails,2
+2009-02,Nirvana,1
+2009-02,Prince,0
+2009-02,Radiohead,3
+2009-02,Raga Rockers,0
+2009-02,Red Hot Chili Peppers,1
+2009-02,Stone Temple Pilots,0
+2009-02,Sublime,0
+2009-02,The Beatles,0
+2009-02,The Dandy Warhols,0
+2009-03,Air,0
+2009-03,Beastie Boys,0
+2009-03,Beck,0
+2009-03,Björk,0
+2009-03,Bob Marley & The Wailers,0
+2009-03,Coldplay,0
+2009-03,David Bowie,0
+2009-03,Dread Zeppelin,0
+2009-03,Morphine,0
+2009-03,Neil Young,0
+2009-03,Nine Inch Nails,0
+2009-03,Nirvana,0
+2009-03,Prince,0
+2009-03,Radiohead,0
+2009-03,Raga Rockers,0
+2009-03,Red Hot Chili Peppers,0
+2009-03,Stone Temple Pilots,0
+2009-03,Sublime,0
+2009-03,The Beatles,0
+2009-03,The Dandy Warhols,0
+2009-04,Air,0
+2009-04,Beastie Boys,0
+2009-04,Beck,0
+2009-04,Björk,0
+2009-04,Bob Marley & The Wailers,0
+2009-04,Coldplay,0
+2009-04,David Bowie,0
+2009-04,Dread Zeppelin,0
+2009-04,Morphine,0
+2009-04,Neil Young,0
+2009-04,Nine Inch Nails,0
+2009-04,Nirvana,0
+2009-04,Prince,0
+2009-04,Radiohead,0
+2009-04,Raga Rockers,0
+2009-04,Red Hot Chili Peppers,0
+2009-04,Stone Temple Pilots,0
+2009-04,Sublime,2
+2009-04,The Beatles,0
+2009-04,The Dandy Warhols,0
+2009-05,Air,0
+2009-05,Beastie Boys,1
+2009-05,Beck,0
+2009-05,Björk,0
+2009-05,Bob Marley & The Wailers,0
+2009-05,Coldplay,0
+2009-05,David Bowie,0
+2009-05,Dread Zeppelin,0
+2009-05,Morphine,0
+2009-05,Neil Young,0
+2009-05,Nine Inch Nails,0
+2009-05,Nirvana,0
+2009-05,Prince,0
+2009-05,Radiohead,0
+2009-05,Raga Rockers,0
+2009-05,Red Hot Chili Peppers,0
+2009-05,Stone Temple Pilots,0
+2009-05,Sublime,0
+2009-05,The Beatles,0
+2009-05,The Dandy Warhols,7

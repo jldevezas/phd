@@ -1,0 +1,761 @@
+month,artist,plays
+2006-05,Albert Hammond, Jr.,0
+2006-05,Artista Desconhecido,6
+2006-05,Bob Dylan,0
+2006-05,Buddy Holly,0
+2006-05,Cachorro Grande,5
+2006-05,Chuck Berry,0
+2006-05,Elvis Presley,0
+2006-05,Jerry Lee Lewis,0
+2006-05,John Lennon,0
+2006-05,Johnny Cash,0
+2006-05,Larry Williams,0
+2006-05,Los Hermanos,0
+2006-05,Roy Orbison,0
+2006-05,Stray Cats,0
+2006-05,The Beatles,0
+2006-05,The Doors,0
+2006-05,The Kinks,0
+2006-05,The Rolling Stones,0
+2006-05,The Strokes,0
+2006-05,The Velvet Underground,0
+2006-06,Albert Hammond, Jr.,0
+2006-06,Artista Desconhecido,0
+2006-06,Bob Dylan,0
+2006-06,Buddy Holly,0
+2006-06,Cachorro Grande,21
+2006-06,Chuck Berry,0
+2006-06,Elvis Presley,0
+2006-06,Jerry Lee Lewis,0
+2006-06,John Lennon,0
+2006-06,Johnny Cash,0
+2006-06,Larry Williams,0
+2006-06,Los Hermanos,0
+2006-06,Roy Orbison,0
+2006-06,Stray Cats,0
+2006-06,The Beatles,0
+2006-06,The Doors,0
+2006-06,The Kinks,0
+2006-06,The Rolling Stones,0
+2006-06,The Strokes,0
+2006-06,The Velvet Underground,0
+2006-07,Albert Hammond, Jr.,0
+2006-07,Artista Desconhecido,0
+2006-07,Bob Dylan,0
+2006-07,Buddy Holly,0
+2006-07,Cachorro Grande,6
+2006-07,Chuck Berry,0
+2006-07,Elvis Presley,0
+2006-07,Jerry Lee Lewis,0
+2006-07,John Lennon,0
+2006-07,Johnny Cash,0
+2006-07,Larry Williams,0
+2006-07,Los Hermanos,0
+2006-07,Roy Orbison,0
+2006-07,Stray Cats,0
+2006-07,The Beatles,0
+2006-07,The Doors,0
+2006-07,The Kinks,0
+2006-07,The Rolling Stones,0
+2006-07,The Strokes,0
+2006-07,The Velvet Underground,0
+2006-08,Albert Hammond, Jr.,0
+2006-08,Artista Desconhecido,12
+2006-08,Bob Dylan,0
+2006-08,Buddy Holly,0
+2006-08,Cachorro Grande,2
+2006-08,Chuck Berry,0
+2006-08,Elvis Presley,0
+2006-08,Jerry Lee Lewis,0
+2006-08,John Lennon,0
+2006-08,Johnny Cash,0
+2006-08,Larry Williams,0
+2006-08,Los Hermanos,7
+2006-08,Roy Orbison,0
+2006-08,Stray Cats,0
+2006-08,The Beatles,0
+2006-08,The Doors,15
+2006-08,The Kinks,0
+2006-08,The Rolling Stones,0
+2006-08,The Strokes,0
+2006-08,The Velvet Underground,0
+2006-09,Albert Hammond, Jr.,0
+2006-09,Artista Desconhecido,7
+2006-09,Bob Dylan,0
+2006-09,Buddy Holly,0
+2006-09,Cachorro Grande,0
+2006-09,Chuck Berry,4
+2006-09,Elvis Presley,0
+2006-09,Jerry Lee Lewis,0
+2006-09,John Lennon,0
+2006-09,Johnny Cash,0
+2006-09,Larry Williams,0
+2006-09,Los Hermanos,0
+2006-09,Roy Orbison,0
+2006-09,Stray Cats,0
+2006-09,The Beatles,0
+2006-09,The Doors,0
+2006-09,The Kinks,0
+2006-09,The Rolling Stones,0
+2006-09,The Strokes,0
+2006-09,The Velvet Underground,0
+2006-10,Albert Hammond, Jr.,0
+2006-10,Artista Desconhecido,9
+2006-10,Bob Dylan,0
+2006-10,Buddy Holly,0
+2006-10,Cachorro Grande,3
+2006-10,Chuck Berry,0
+2006-10,Elvis Presley,0
+2006-10,Jerry Lee Lewis,30
+2006-10,John Lennon,0
+2006-10,Johnny Cash,107
+2006-10,Larry Williams,0
+2006-10,Los Hermanos,0
+2006-10,Roy Orbison,0
+2006-10,Stray Cats,0
+2006-10,The Beatles,0
+2006-10,The Doors,375
+2006-10,The Kinks,0
+2006-10,The Rolling Stones,0
+2006-10,The Strokes,0
+2006-10,The Velvet Underground,0
+2006-11,Albert Hammond, Jr.,0
+2006-11,Artista Desconhecido,26
+2006-11,Bob Dylan,0
+2006-11,Buddy Holly,0
+2006-11,Cachorro Grande,20
+2006-11,Chuck Berry,0
+2006-11,Elvis Presley,0
+2006-11,Jerry Lee Lewis,7
+2006-11,John Lennon,0
+2006-11,Johnny Cash,25
+2006-11,Larry Williams,0
+2006-11,Los Hermanos,0
+2006-11,Roy Orbison,0
+2006-11,Stray Cats,0
+2006-11,The Beatles,2
+2006-11,The Doors,345
+2006-11,The Kinks,0
+2006-11,The Rolling Stones,0
+2006-11,The Strokes,0
+2006-11,The Velvet Underground,0
+2006-12,Albert Hammond, Jr.,0
+2006-12,Artista Desconhecido,5
+2006-12,Bob Dylan,0
+2006-12,Buddy Holly,0
+2006-12,Cachorro Grande,0
+2006-12,Chuck Berry,0
+2006-12,Elvis Presley,0
+2006-12,Jerry Lee Lewis,0
+2006-12,John Lennon,0
+2006-12,Johnny Cash,0
+2006-12,Larry Williams,0
+2006-12,Los Hermanos,0
+2006-12,Roy Orbison,0
+2006-12,Stray Cats,0
+2006-12,The Beatles,0
+2006-12,The Doors,37
+2006-12,The Kinks,0
+2006-12,The Rolling Stones,0
+2006-12,The Strokes,0
+2006-12,The Velvet Underground,0
+2007-01,Albert Hammond, Jr.,0
+2007-01,Artista Desconhecido,0
+2007-01,Bob Dylan,0
+2007-01,Buddy Holly,0
+2007-01,Cachorro Grande,0
+2007-01,Chuck Berry,0
+2007-01,Elvis Presley,0
+2007-01,Jerry Lee Lewis,0
+2007-01,John Lennon,0
+2007-01,Johnny Cash,0
+2007-01,Larry Williams,0
+2007-01,Los Hermanos,0
+2007-01,Roy Orbison,0
+2007-01,Stray Cats,0
+2007-01,The Beatles,0
+2007-01,The Doors,0
+2007-01,The Kinks,0
+2007-01,The Rolling Stones,0
+2007-01,The Strokes,0
+2007-01,The Velvet Underground,0
+2007-02,Albert Hammond, Jr.,0
+2007-02,Artista Desconhecido,10
+2007-02,Bob Dylan,69
+2007-02,Buddy Holly,0
+2007-02,Cachorro Grande,176
+2007-02,Chuck Berry,0
+2007-02,Elvis Presley,0
+2007-02,Jerry Lee Lewis,0
+2007-02,John Lennon,0
+2007-02,Johnny Cash,4
+2007-02,Larry Williams,0
+2007-02,Los Hermanos,0
+2007-02,Roy Orbison,0
+2007-02,Stray Cats,76
+2007-02,The Beatles,16
+2007-02,The Doors,0
+2007-02,The Kinks,0
+2007-02,The Rolling Stones,0
+2007-02,The Strokes,105
+2007-02,The Velvet Underground,0
+2007-03,Albert Hammond, Jr.,0
+2007-03,Artista Desconhecido,0
+2007-03,Bob Dylan,27
+2007-03,Buddy Holly,0
+2007-03,Cachorro Grande,0
+2007-03,Chuck Berry,0
+2007-03,Elvis Presley,0
+2007-03,Jerry Lee Lewis,58
+2007-03,John Lennon,0
+2007-03,Johnny Cash,0
+2007-03,Larry Williams,0
+2007-03,Los Hermanos,0
+2007-03,Roy Orbison,0
+2007-03,Stray Cats,0
+2007-03,The Beatles,0
+2007-03,The Doors,0
+2007-03,The Kinks,0
+2007-03,The Rolling Stones,0
+2007-03,The Strokes,0
+2007-03,The Velvet Underground,0
+2007-04,Albert Hammond, Jr.,0
+2007-04,Artista Desconhecido,5
+2007-04,Bob Dylan,0
+2007-04,Buddy Holly,0
+2007-04,Cachorro Grande,0
+2007-04,Chuck Berry,2
+2007-04,Elvis Presley,0
+2007-04,Jerry Lee Lewis,0
+2007-04,John Lennon,0
+2007-04,Johnny Cash,0
+2007-04,Larry Williams,0
+2007-04,Los Hermanos,0
+2007-04,Roy Orbison,0
+2007-04,Stray Cats,0
+2007-04,The Beatles,0
+2007-04,The Doors,0
+2007-04,The Kinks,3
+2007-04,The Rolling Stones,4
+2007-04,The Strokes,0
+2007-04,The Velvet Underground,0
+2007-05,Albert Hammond, Jr.,0
+2007-05,Artista Desconhecido,1
+2007-05,Bob Dylan,4
+2007-05,Buddy Holly,0
+2007-05,Cachorro Grande,3
+2007-05,Chuck Berry,1
+2007-05,Elvis Presley,0
+2007-05,Jerry Lee Lewis,1
+2007-05,John Lennon,0
+2007-05,Johnny Cash,0
+2007-05,Larry Williams,6
+2007-05,Los Hermanos,5
+2007-05,Roy Orbison,0
+2007-05,Stray Cats,12
+2007-05,The Beatles,198
+2007-05,The Doors,22
+2007-05,The Kinks,3
+2007-05,The Rolling Stones,0
+2007-05,The Strokes,0
+2007-05,The Velvet Underground,0
+2007-06,Albert Hammond, Jr.,0
+2007-06,Artista Desconhecido,1
+2007-06,Bob Dylan,0
+2007-06,Buddy Holly,0
+2007-06,Cachorro Grande,48
+2007-06,Chuck Berry,0
+2007-06,Elvis Presley,0
+2007-06,Jerry Lee Lewis,2
+2007-06,John Lennon,0
+2007-06,Johnny Cash,1
+2007-06,Larry Williams,2
+2007-06,Los Hermanos,0
+2007-06,Roy Orbison,1
+2007-06,Stray Cats,17
+2007-06,The Beatles,285
+2007-06,The Doors,0
+2007-06,The Kinks,66
+2007-06,The Rolling Stones,157
+2007-06,The Strokes,13
+2007-06,The Velvet Underground,0
+2007-07,Albert Hammond, Jr.,0
+2007-07,Artista Desconhecido,7
+2007-07,Bob Dylan,45
+2007-07,Buddy Holly,0
+2007-07,Cachorro Grande,50
+2007-07,Chuck Berry,17
+2007-07,Elvis Presley,0
+2007-07,Jerry Lee Lewis,26
+2007-07,John Lennon,0
+2007-07,Johnny Cash,0
+2007-07,Larry Williams,53
+2007-07,Los Hermanos,18
+2007-07,Roy Orbison,0
+2007-07,Stray Cats,43
+2007-07,The Beatles,301
+2007-07,The Doors,0
+2007-07,The Kinks,53
+2007-07,The Rolling Stones,106
+2007-07,The Strokes,22
+2007-07,The Velvet Underground,165
+2007-08,Albert Hammond, Jr.,0
+2007-08,Artista Desconhecido,1
+2007-08,Bob Dylan,18
+2007-08,Buddy Holly,0
+2007-08,Cachorro Grande,15
+2007-08,Chuck Berry,6
+2007-08,Elvis Presley,0
+2007-08,Jerry Lee Lewis,5
+2007-08,John Lennon,0
+2007-08,Johnny Cash,0
+2007-08,Larry Williams,8
+2007-08,Los Hermanos,10
+2007-08,Roy Orbison,0
+2007-08,Stray Cats,5
+2007-08,The Beatles,183
+2007-08,The Doors,0
+2007-08,The Kinks,25
+2007-08,The Rolling Stones,17
+2007-08,The Strokes,24
+2007-08,The Velvet Underground,36
+2007-09,Albert Hammond, Jr.,0
+2007-09,Artista Desconhecido,0
+2007-09,Bob Dylan,3
+2007-09,Buddy Holly,13
+2007-09,Cachorro Grande,10
+2007-09,Chuck Berry,8
+2007-09,Elvis Presley,0
+2007-09,Jerry Lee Lewis,9
+2007-09,John Lennon,0
+2007-09,Johnny Cash,1
+2007-09,Larry Williams,6
+2007-09,Los Hermanos,0
+2007-09,Roy Orbison,0
+2007-09,Stray Cats,6
+2007-09,The Beatles,50
+2007-09,The Doors,5
+2007-09,The Kinks,3
+2007-09,The Rolling Stones,3
+2007-09,The Strokes,5
+2007-09,The Velvet Underground,15
+2007-10,Albert Hammond, Jr.,0
+2007-10,Artista Desconhecido,0
+2007-10,Bob Dylan,15
+2007-10,Buddy Holly,30
+2007-10,Cachorro Grande,8
+2007-10,Chuck Berry,12
+2007-10,Elvis Presley,0
+2007-10,Jerry Lee Lewis,12
+2007-10,John Lennon,0
+2007-10,Johnny Cash,14
+2007-10,Larry Williams,14
+2007-10,Los Hermanos,1
+2007-10,Roy Orbison,0
+2007-10,Stray Cats,20
+2007-10,The Beatles,213
+2007-10,The Doors,0
+2007-10,The Kinks,0
+2007-10,The Rolling Stones,0
+2007-10,The Strokes,388
+2007-10,The Velvet Underground,14
+2007-11,Albert Hammond, Jr.,192
+2007-11,Artista Desconhecido,3
+2007-11,Bob Dylan,14
+2007-11,Buddy Holly,8
+2007-11,Cachorro Grande,1
+2007-11,Chuck Berry,1
+2007-11,Elvis Presley,0
+2007-11,Jerry Lee Lewis,0
+2007-11,John Lennon,0
+2007-11,Johnny Cash,3
+2007-11,Larry Williams,1
+2007-11,Los Hermanos,0
+2007-11,Roy Orbison,0
+2007-11,Stray Cats,2
+2007-11,The Beatles,6
+2007-11,The Doors,0
+2007-11,The Kinks,0
+2007-11,The Rolling Stones,2
+2007-11,The Strokes,37
+2007-11,The Velvet Underground,0
+2007-12,Albert Hammond, Jr.,44
+2007-12,Artista Desconhecido,6
+2007-12,Bob Dylan,13
+2007-12,Buddy Holly,0
+2007-12,Cachorro Grande,0
+2007-12,Chuck Berry,3
+2007-12,Elvis Presley,59
+2007-12,Jerry Lee Lewis,0
+2007-12,John Lennon,0
+2007-12,Johnny Cash,1
+2007-12,Larry Williams,19
+2007-12,Los Hermanos,73
+2007-12,Roy Orbison,0
+2007-12,Stray Cats,0
+2007-12,The Beatles,396
+2007-12,The Doors,0
+2007-12,The Kinks,0
+2007-12,The Rolling Stones,0
+2007-12,The Strokes,21
+2007-12,The Velvet Underground,9
+2008-01,Albert Hammond, Jr.,32
+2008-01,Artista Desconhecido,11
+2008-01,Bob Dylan,75
+2008-01,Buddy Holly,19
+2008-01,Cachorro Grande,0
+2008-01,Chuck Berry,26
+2008-01,Elvis Presley,0
+2008-01,Jerry Lee Lewis,21
+2008-01,John Lennon,0
+2008-01,Johnny Cash,15
+2008-01,Larry Williams,32
+2008-01,Los Hermanos,0
+2008-01,Roy Orbison,7
+2008-01,Stray Cats,8
+2008-01,The Beatles,309
+2008-01,The Doors,21
+2008-01,The Kinks,47
+2008-01,The Rolling Stones,132
+2008-01,The Strokes,3
+2008-01,The Velvet Underground,0
+2008-02,Albert Hammond, Jr.,10
+2008-02,Artista Desconhecido,0
+2008-02,Bob Dylan,221
+2008-02,Buddy Holly,9
+2008-02,Cachorro Grande,31
+2008-02,Chuck Berry,6
+2008-02,Elvis Presley,0
+2008-02,Jerry Lee Lewis,8
+2008-02,John Lennon,64
+2008-02,Johnny Cash,8
+2008-02,Larry Williams,18
+2008-02,Los Hermanos,0
+2008-02,Roy Orbison,2
+2008-02,Stray Cats,11
+2008-02,The Beatles,176
+2008-02,The Doors,32
+2008-02,The Kinks,10
+2008-02,The Rolling Stones,62
+2008-02,The Strokes,0
+2008-02,The Velvet Underground,0
+2008-03,Albert Hammond, Jr.,3
+2008-03,Artista Desconhecido,0
+2008-03,Bob Dylan,14
+2008-03,Buddy Holly,1
+2008-03,Cachorro Grande,0
+2008-03,Chuck Berry,0
+2008-03,Elvis Presley,0
+2008-03,Jerry Lee Lewis,0
+2008-03,John Lennon,20
+2008-03,Johnny Cash,0
+2008-03,Larry Williams,0
+2008-03,Los Hermanos,0
+2008-03,Roy Orbison,0
+2008-03,Stray Cats,7
+2008-03,The Beatles,575
+2008-03,The Doors,1
+2008-03,The Kinks,2
+2008-03,The Rolling Stones,0
+2008-03,The Strokes,0
+2008-03,The Velvet Underground,0
+2008-04,Albert Hammond, Jr.,2
+2008-04,Artista Desconhecido,0
+2008-04,Bob Dylan,3
+2008-04,Buddy Holly,0
+2008-04,Cachorro Grande,0
+2008-04,Chuck Berry,0
+2008-04,Elvis Presley,0
+2008-04,Jerry Lee Lewis,0
+2008-04,John Lennon,127
+2008-04,Johnny Cash,0
+2008-04,Larry Williams,0
+2008-04,Los Hermanos,1
+2008-04,Roy Orbison,0
+2008-04,Stray Cats,0
+2008-04,The Beatles,62
+2008-04,The Doors,0
+2008-04,The Kinks,0
+2008-04,The Rolling Stones,1
+2008-04,The Strokes,0
+2008-04,The Velvet Underground,0
+2008-05,Albert Hammond, Jr.,0
+2008-05,Artista Desconhecido,0
+2008-05,Bob Dylan,0
+2008-05,Buddy Holly,0
+2008-05,Cachorro Grande,0
+2008-05,Chuck Berry,0
+2008-05,Elvis Presley,6
+2008-05,Jerry Lee Lewis,0
+2008-05,John Lennon,215
+2008-05,Johnny Cash,0
+2008-05,Larry Williams,0
+2008-05,Los Hermanos,0
+2008-05,Roy Orbison,0
+2008-05,Stray Cats,0
+2008-05,The Beatles,430
+2008-05,The Doors,0
+2008-05,The Kinks,1
+2008-05,The Rolling Stones,0
+2008-05,The Strokes,0
+2008-05,The Velvet Underground,0
+2008-06,Albert Hammond, Jr.,0
+2008-06,Artista Desconhecido,0
+2008-06,Bob Dylan,0
+2008-06,Buddy Holly,0
+2008-06,Cachorro Grande,0
+2008-06,Chuck Berry,0
+2008-06,Elvis Presley,0
+2008-06,Jerry Lee Lewis,0
+2008-06,John Lennon,5
+2008-06,Johnny Cash,0
+2008-06,Larry Williams,0
+2008-06,Los Hermanos,0
+2008-06,Roy Orbison,0
+2008-06,Stray Cats,0
+2008-06,The Beatles,398
+2008-06,The Doors,0
+2008-06,The Kinks,0
+2008-06,The Rolling Stones,0
+2008-06,The Strokes,0
+2008-06,The Velvet Underground,0
+2008-07,Albert Hammond, Jr.,32
+2008-07,Artista Desconhecido,0
+2008-07,Bob Dylan,0
+2008-07,Buddy Holly,0
+2008-07,Cachorro Grande,0
+2008-07,Chuck Berry,30
+2008-07,Elvis Presley,2
+2008-07,Jerry Lee Lewis,0
+2008-07,John Lennon,5
+2008-07,Johnny Cash,4
+2008-07,Larry Williams,0
+2008-07,Los Hermanos,0
+2008-07,Roy Orbison,0
+2008-07,Stray Cats,0
+2008-07,The Beatles,522
+2008-07,The Doors,0
+2008-07,The Kinks,0
+2008-07,The Rolling Stones,0
+2008-07,The Strokes,0
+2008-07,The Velvet Underground,0
+2008-08,Albert Hammond, Jr.,49
+2008-08,Artista Desconhecido,0
+2008-08,Bob Dylan,0
+2008-08,Buddy Holly,3
+2008-08,Cachorro Grande,0
+2008-08,Chuck Berry,21
+2008-08,Elvis Presley,129
+2008-08,Jerry Lee Lewis,6
+2008-08,John Lennon,32
+2008-08,Johnny Cash,9
+2008-08,Larry Williams,9
+2008-08,Los Hermanos,0
+2008-08,Roy Orbison,1
+2008-08,Stray Cats,0
+2008-08,The Beatles,142
+2008-08,The Doors,0
+2008-08,The Kinks,0
+2008-08,The Rolling Stones,0
+2008-08,The Strokes,0
+2008-08,The Velvet Underground,0
+2008-09,Albert Hammond, Jr.,2
+2008-09,Artista Desconhecido,0
+2008-09,Bob Dylan,0
+2008-09,Buddy Holly,17
+2008-09,Cachorro Grande,0
+2008-09,Chuck Berry,8
+2008-09,Elvis Presley,10
+2008-09,Jerry Lee Lewis,10
+2008-09,John Lennon,0
+2008-09,Johnny Cash,1
+2008-09,Larry Williams,2
+2008-09,Los Hermanos,10
+2008-09,Roy Orbison,4
+2008-09,Stray Cats,0
+2008-09,The Beatles,241
+2008-09,The Doors,0
+2008-09,The Kinks,0
+2008-09,The Rolling Stones,0
+2008-09,The Strokes,0
+2008-09,The Velvet Underground,0
+2008-10,Albert Hammond, Jr.,0
+2008-10,Artista Desconhecido,0
+2008-10,Bob Dylan,6
+2008-10,Buddy Holly,1
+2008-10,Cachorro Grande,0
+2008-10,Chuck Berry,2
+2008-10,Elvis Presley,2
+2008-10,Jerry Lee Lewis,4
+2008-10,John Lennon,38
+2008-10,Johnny Cash,2
+2008-10,Larry Williams,1
+2008-10,Los Hermanos,25
+2008-10,Roy Orbison,2
+2008-10,Stray Cats,3
+2008-10,The Beatles,196
+2008-10,The Doors,0
+2008-10,The Kinks,0
+2008-10,The Rolling Stones,0
+2008-10,The Strokes,0
+2008-10,The Velvet Underground,0
+2008-11,Albert Hammond, Jr.,62
+2008-11,Artista Desconhecido,2
+2008-11,Bob Dylan,0
+2008-11,Buddy Holly,0
+2008-11,Cachorro Grande,0
+2008-11,Chuck Berry,11
+2008-11,Elvis Presley,5
+2008-11,Jerry Lee Lewis,3
+2008-11,John Lennon,23
+2008-11,Johnny Cash,0
+2008-11,Larry Williams,2
+2008-11,Los Hermanos,0
+2008-11,Roy Orbison,4
+2008-11,Stray Cats,0
+2008-11,The Beatles,37
+2008-11,The Doors,0
+2008-11,The Kinks,0
+2008-11,The Rolling Stones,0
+2008-11,The Strokes,0
+2008-11,The Velvet Underground,0
+2008-12,Albert Hammond, Jr.,0
+2008-12,Artista Desconhecido,0
+2008-12,Bob Dylan,10
+2008-12,Buddy Holly,0
+2008-12,Cachorro Grande,0
+2008-12,Chuck Berry,4
+2008-12,Elvis Presley,17
+2008-12,Jerry Lee Lewis,1
+2008-12,John Lennon,0
+2008-12,Johnny Cash,0
+2008-12,Larry Williams,3
+2008-12,Los Hermanos,2
+2008-12,Roy Orbison,1
+2008-12,Stray Cats,0
+2008-12,The Beatles,22
+2008-12,The Doors,0
+2008-12,The Kinks,0
+2008-12,The Rolling Stones,0
+2008-12,The Strokes,0
+2008-12,The Velvet Underground,0
+2009-01,Albert Hammond, Jr.,13
+2009-01,Artista Desconhecido,0
+2009-01,Bob Dylan,0
+2009-01,Buddy Holly,1
+2009-01,Cachorro Grande,0
+2009-01,Chuck Berry,1
+2009-01,Elvis Presley,1
+2009-01,Jerry Lee Lewis,2
+2009-01,John Lennon,0
+2009-01,Johnny Cash,0
+2009-01,Larry Williams,0
+2009-01,Los Hermanos,0
+2009-01,Roy Orbison,0
+2009-01,Stray Cats,0
+2009-01,The Beatles,469
+2009-01,The Doors,0
+2009-01,The Kinks,0
+2009-01,The Rolling Stones,0
+2009-01,The Strokes,0
+2009-01,The Velvet Underground,1
+2009-02,Albert Hammond, Jr.,2
+2009-02,Artista Desconhecido,0
+2009-02,Bob Dylan,0
+2009-02,Buddy Holly,0
+2009-02,Cachorro Grande,0
+2009-02,Chuck Berry,1
+2009-02,Elvis Presley,0
+2009-02,Jerry Lee Lewis,1
+2009-02,John Lennon,0
+2009-02,Johnny Cash,0
+2009-02,Larry Williams,0
+2009-02,Los Hermanos,5
+2009-02,Roy Orbison,1
+2009-02,Stray Cats,0
+2009-02,The Beatles,47
+2009-02,The Doors,0
+2009-02,The Kinks,0
+2009-02,The Rolling Stones,0
+2009-02,The Strokes,0
+2009-02,The Velvet Underground,0
+2009-03,Albert Hammond, Jr.,1
+2009-03,Artista Desconhecido,0
+2009-03,Bob Dylan,0
+2009-03,Buddy Holly,4
+2009-03,Cachorro Grande,0
+2009-03,Chuck Berry,8
+2009-03,Elvis Presley,1
+2009-03,Jerry Lee Lewis,0
+2009-03,John Lennon,1
+2009-03,Johnny Cash,0
+2009-03,Larry Williams,0
+2009-03,Los Hermanos,0
+2009-03,Roy Orbison,0
+2009-03,Stray Cats,0
+2009-03,The Beatles,189
+2009-03,The Doors,0
+2009-03,The Kinks,0
+2009-03,The Rolling Stones,0
+2009-03,The Strokes,0
+2009-03,The Velvet Underground,4
+2009-04,Albert Hammond, Jr.,15
+2009-04,Artista Desconhecido,0
+2009-04,Bob Dylan,0
+2009-04,Buddy Holly,0
+2009-04,Cachorro Grande,0
+2009-04,Chuck Berry,2
+2009-04,Elvis Presley,0
+2009-04,Jerry Lee Lewis,0
+2009-04,John Lennon,0
+2009-04,Johnny Cash,0
+2009-04,Larry Williams,0
+2009-04,Los Hermanos,0
+2009-04,Roy Orbison,3
+2009-04,Stray Cats,0
+2009-04,The Beatles,55
+2009-04,The Doors,0
+2009-04,The Kinks,0
+2009-04,The Rolling Stones,0
+2009-04,The Strokes,0
+2009-04,The Velvet Underground,1
+2009-05,Albert Hammond, Jr.,60
+2009-05,Artista Desconhecido,0
+2009-05,Bob Dylan,0
+2009-05,Buddy Holly,3
+2009-05,Cachorro Grande,0
+2009-05,Chuck Berry,0
+2009-05,Elvis Presley,0
+2009-05,Jerry Lee Lewis,0
+2009-05,John Lennon,7
+2009-05,Johnny Cash,0
+2009-05,Larry Williams,0
+2009-05,Los Hermanos,0
+2009-05,Roy Orbison,0
+2009-05,Stray Cats,0
+2009-05,The Beatles,198
+2009-05,The Doors,0
+2009-05,The Kinks,0
+2009-05,The Rolling Stones,0
+2009-05,The Strokes,0
+2009-05,The Velvet Underground,2
+2009-06,Albert Hammond, Jr.,0
+2009-06,Artista Desconhecido,0
+2009-06,Bob Dylan,0
+2009-06,Buddy Holly,0
+2009-06,Cachorro Grande,0
+2009-06,Chuck Berry,0
+2009-06,Elvis Presley,0
+2009-06,Jerry Lee Lewis,0
+2009-06,John Lennon,0
+2009-06,Johnny Cash,0
+2009-06,Larry Williams,0
+2009-06,Los Hermanos,12
+2009-06,Roy Orbison,0
+2009-06,Stray Cats,0
+2009-06,The Beatles,1
+2009-06,The Doors,0
+2009-06,The Kinks,0
+2009-06,The Rolling Stones,0
+2009-06,The Strokes,0
+2009-06,The Velvet Underground,0

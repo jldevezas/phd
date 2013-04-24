@@ -1,0 +1,461 @@
+month,artist,plays
+2007-06,Alter Bridge,0
+2007-06,Audioslave,0
+2007-06,Biffy Clyro,0
+2007-06,Counting Crows,0
+2007-06,Creed,0
+2007-06,Dave Matthews Band,0
+2007-06,George Harrison,0
+2007-06,Grant Lee Buffalo,0
+2007-06,Jeff Buckley,0
+2007-06,Kings Of Leon,0
+2007-06,Levellers,0
+2007-06,Newton Faulkner,0
+2007-06,Nirvana,0
+2007-06,Of Montreal,0
+2007-06,Pearl Jam,0
+2007-06,Pixies,1
+2007-06,Red Hot Chili Peppers,0
+2007-06,Screaming Trees,0
+2007-06,Seth Lakeman,0
+2007-06,Snow Patrol,0
+2007-07,Alter Bridge,1
+2007-07,Audioslave,2
+2007-07,Biffy Clyro,0
+2007-07,Counting Crows,1
+2007-07,Creed,0
+2007-07,Dave Matthews Band,0
+2007-07,George Harrison,1
+2007-07,Grant Lee Buffalo,2
+2007-07,Jeff Buckley,1
+2007-07,Kings Of Leon,3
+2007-07,Levellers,13
+2007-07,Newton Faulkner,0
+2007-07,Nirvana,2
+2007-07,Of Montreal,0
+2007-07,Pearl Jam,4
+2007-07,Pixies,1
+2007-07,Red Hot Chili Peppers,1
+2007-07,Screaming Trees,4
+2007-07,Seth Lakeman,3
+2007-07,Snow Patrol,4
+2007-08,Alter Bridge,2
+2007-08,Audioslave,8
+2007-08,Biffy Clyro,0
+2007-08,Counting Crows,15
+2007-08,Creed,9
+2007-08,Dave Matthews Band,1
+2007-08,George Harrison,0
+2007-08,Grant Lee Buffalo,1
+2007-08,Jeff Buckley,3
+2007-08,Kings Of Leon,5
+2007-08,Levellers,52
+2007-08,Newton Faulkner,1
+2007-08,Nirvana,4
+2007-08,Of Montreal,0
+2007-08,Pearl Jam,25
+2007-08,Pixies,5
+2007-08,Red Hot Chili Peppers,12
+2007-08,Screaming Trees,6
+2007-08,Seth Lakeman,3
+2007-08,Snow Patrol,7
+2007-09,Alter Bridge,1
+2007-09,Audioslave,1
+2007-09,Biffy Clyro,1
+2007-09,Counting Crows,2
+2007-09,Creed,1
+2007-09,Dave Matthews Band,1
+2007-09,George Harrison,2
+2007-09,Grant Lee Buffalo,2
+2007-09,Jeff Buckley,0
+2007-09,Kings Of Leon,1
+2007-09,Levellers,9
+2007-09,Newton Faulkner,23
+2007-09,Nirvana,0
+2007-09,Of Montreal,0
+2007-09,Pearl Jam,25
+2007-09,Pixies,1
+2007-09,Red Hot Chili Peppers,1
+2007-09,Screaming Trees,1
+2007-09,Seth Lakeman,0
+2007-09,Snow Patrol,1
+2007-10,Alter Bridge,0
+2007-10,Audioslave,0
+2007-10,Biffy Clyro,0
+2007-10,Counting Crows,0
+2007-10,Creed,1
+2007-10,Dave Matthews Band,0
+2007-10,George Harrison,0
+2007-10,Grant Lee Buffalo,0
+2007-10,Jeff Buckley,0
+2007-10,Kings Of Leon,0
+2007-10,Levellers,0
+2007-10,Newton Faulkner,0
+2007-10,Nirvana,0
+2007-10,Of Montreal,0
+2007-10,Pearl Jam,0
+2007-10,Pixies,0
+2007-10,Red Hot Chili Peppers,0
+2007-10,Screaming Trees,0
+2007-10,Seth Lakeman,0
+2007-10,Snow Patrol,0
+2007-11,Alter Bridge,5
+2007-11,Audioslave,2
+2007-11,Biffy Clyro,1
+2007-11,Counting Crows,3
+2007-11,Creed,0
+2007-11,Dave Matthews Band,5
+2007-11,George Harrison,1
+2007-11,Grant Lee Buffalo,1
+2007-11,Jeff Buckley,1
+2007-11,Kings Of Leon,4
+2007-11,Levellers,10
+2007-11,Newton Faulkner,1
+2007-11,Nirvana,14
+2007-11,Of Montreal,5
+2007-11,Pearl Jam,9
+2007-11,Pixies,0
+2007-11,Red Hot Chili Peppers,0
+2007-11,Screaming Trees,2
+2007-11,Seth Lakeman,10
+2007-11,Snow Patrol,2
+2007-12,Alter Bridge,2
+2007-12,Audioslave,1
+2007-12,Biffy Clyro,1
+2007-12,Counting Crows,5
+2007-12,Creed,1
+2007-12,Dave Matthews Band,1
+2007-12,George Harrison,1
+2007-12,Grant Lee Buffalo,2
+2007-12,Jeff Buckley,0
+2007-12,Kings Of Leon,1
+2007-12,Levellers,15
+2007-12,Newton Faulkner,1
+2007-12,Nirvana,0
+2007-12,Of Montreal,3
+2007-12,Pearl Jam,9
+2007-12,Pixies,10
+2007-12,Red Hot Chili Peppers,3
+2007-12,Screaming Trees,0
+2007-12,Seth Lakeman,3
+2007-12,Snow Patrol,2
+2008-01,Alter Bridge,1
+2008-01,Audioslave,6
+2008-01,Biffy Clyro,5
+2008-01,Counting Crows,33
+2008-01,Creed,2
+2008-01,Dave Matthews Band,1
+2008-01,George Harrison,1
+2008-01,Grant Lee Buffalo,14
+2008-01,Jeff Buckley,11
+2008-01,Kings Of Leon,1
+2008-01,Levellers,48
+2008-01,Newton Faulkner,3
+2008-01,Nirvana,37
+2008-01,Of Montreal,22
+2008-01,Pearl Jam,69
+2008-01,Pixies,0
+2008-01,Red Hot Chili Peppers,13
+2008-01,Screaming Trees,4
+2008-01,Seth Lakeman,19
+2008-01,Snow Patrol,33
+2008-02,Alter Bridge,0
+2008-02,Audioslave,0
+2008-02,Biffy Clyro,0
+2008-02,Counting Crows,0
+2008-02,Creed,0
+2008-02,Dave Matthews Band,0
+2008-02,George Harrison,0
+2008-02,Grant Lee Buffalo,0
+2008-02,Jeff Buckley,0
+2008-02,Kings Of Leon,0
+2008-02,Levellers,15
+2008-02,Newton Faulkner,0
+2008-02,Nirvana,0
+2008-02,Of Montreal,2
+2008-02,Pearl Jam,3
+2008-02,Pixies,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,Screaming Trees,13
+2008-02,Seth Lakeman,0
+2008-02,Snow Patrol,3
+2008-03,Alter Bridge,0
+2008-03,Audioslave,0
+2008-03,Biffy Clyro,0
+2008-03,Counting Crows,0
+2008-03,Creed,0
+2008-03,Dave Matthews Band,0
+2008-03,George Harrison,0
+2008-03,Grant Lee Buffalo,0
+2008-03,Jeff Buckley,0
+2008-03,Kings Of Leon,0
+2008-03,Levellers,0
+2008-03,Newton Faulkner,0
+2008-03,Nirvana,0
+2008-03,Of Montreal,0
+2008-03,Pearl Jam,0
+2008-03,Pixies,0
+2008-03,Red Hot Chili Peppers,0
+2008-03,Screaming Trees,0
+2008-03,Seth Lakeman,0
+2008-03,Snow Patrol,0
+2008-04,Alter Bridge,2
+2008-04,Audioslave,6
+2008-04,Biffy Clyro,4
+2008-04,Counting Crows,37
+2008-04,Creed,4
+2008-04,Dave Matthews Band,3
+2008-04,George Harrison,6
+2008-04,Grant Lee Buffalo,2
+2008-04,Jeff Buckley,7
+2008-04,Kings Of Leon,5
+2008-04,Levellers,37
+2008-04,Newton Faulkner,4
+2008-04,Nirvana,24
+2008-04,Of Montreal,6
+2008-04,Pearl Jam,47
+2008-04,Pixies,10
+2008-04,Red Hot Chili Peppers,10
+2008-04,Screaming Trees,10
+2008-04,Seth Lakeman,58
+2008-04,Snow Patrol,14
+2008-05,Alter Bridge,0
+2008-05,Audioslave,10
+2008-05,Biffy Clyro,2
+2008-05,Counting Crows,72
+2008-05,Creed,3
+2008-05,Dave Matthews Band,0
+2008-05,George Harrison,2
+2008-05,Grant Lee Buffalo,2
+2008-05,Jeff Buckley,24
+2008-05,Kings Of Leon,1
+2008-05,Levellers,23
+2008-05,Newton Faulkner,1
+2008-05,Nirvana,2
+2008-05,Of Montreal,5
+2008-05,Pearl Jam,100
+2008-05,Pixies,5
+2008-05,Red Hot Chili Peppers,16
+2008-05,Screaming Trees,16
+2008-05,Seth Lakeman,30
+2008-05,Snow Patrol,42
+2008-06,Alter Bridge,3
+2008-06,Audioslave,5
+2008-06,Biffy Clyro,24
+2008-06,Counting Crows,45
+2008-06,Creed,7
+2008-06,Dave Matthews Band,11
+2008-06,George Harrison,7
+2008-06,Grant Lee Buffalo,9
+2008-06,Jeff Buckley,8
+2008-06,Kings Of Leon,8
+2008-06,Levellers,89
+2008-06,Newton Faulkner,6
+2008-06,Nirvana,11
+2008-06,Of Montreal,3
+2008-06,Pearl Jam,78
+2008-06,Pixies,6
+2008-06,Red Hot Chili Peppers,32
+2008-06,Screaming Trees,24
+2008-06,Seth Lakeman,56
+2008-06,Snow Patrol,35
+2008-07,Alter Bridge,4
+2008-07,Audioslave,2
+2008-07,Biffy Clyro,38
+2008-07,Counting Crows,26
+2008-07,Creed,1
+2008-07,Dave Matthews Band,1
+2008-07,George Harrison,2
+2008-07,Grant Lee Buffalo,0
+2008-07,Jeff Buckley,13
+2008-07,Kings Of Leon,3
+2008-07,Levellers,39
+2008-07,Newton Faulkner,0
+2008-07,Nirvana,7
+2008-07,Of Montreal,34
+2008-07,Pearl Jam,70
+2008-07,Pixies,7
+2008-07,Red Hot Chili Peppers,9
+2008-07,Screaming Trees,8
+2008-07,Seth Lakeman,129
+2008-07,Snow Patrol,33
+2008-08,Alter Bridge,0
+2008-08,Audioslave,0
+2008-08,Biffy Clyro,0
+2008-08,Counting Crows,0
+2008-08,Creed,0
+2008-08,Dave Matthews Band,0
+2008-08,George Harrison,0
+2008-08,Grant Lee Buffalo,0
+2008-08,Jeff Buckley,0
+2008-08,Kings Of Leon,0
+2008-08,Levellers,0
+2008-08,Newton Faulkner,0
+2008-08,Nirvana,0
+2008-08,Of Montreal,0
+2008-08,Pearl Jam,0
+2008-08,Pixies,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,Screaming Trees,0
+2008-08,Seth Lakeman,0
+2008-08,Snow Patrol,0
+2008-09,Alter Bridge,0
+2008-09,Audioslave,0
+2008-09,Biffy Clyro,0
+2008-09,Counting Crows,0
+2008-09,Creed,0
+2008-09,Dave Matthews Band,0
+2008-09,George Harrison,0
+2008-09,Grant Lee Buffalo,0
+2008-09,Jeff Buckley,0
+2008-09,Kings Of Leon,0
+2008-09,Levellers,0
+2008-09,Newton Faulkner,0
+2008-09,Nirvana,0
+2008-09,Of Montreal,0
+2008-09,Pearl Jam,0
+2008-09,Pixies,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,Screaming Trees,0
+2008-09,Seth Lakeman,0
+2008-09,Snow Patrol,0
+2008-10,Alter Bridge,0
+2008-10,Audioslave,0
+2008-10,Biffy Clyro,0
+2008-10,Counting Crows,0
+2008-10,Creed,0
+2008-10,Dave Matthews Band,0
+2008-10,George Harrison,0
+2008-10,Grant Lee Buffalo,0
+2008-10,Jeff Buckley,0
+2008-10,Kings Of Leon,0
+2008-10,Levellers,0
+2008-10,Newton Faulkner,0
+2008-10,Nirvana,0
+2008-10,Of Montreal,0
+2008-10,Pearl Jam,0
+2008-10,Pixies,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Screaming Trees,0
+2008-10,Seth Lakeman,0
+2008-10,Snow Patrol,0
+2008-11,Alter Bridge,0
+2008-11,Audioslave,0
+2008-11,Biffy Clyro,0
+2008-11,Counting Crows,0
+2008-11,Creed,0
+2008-11,Dave Matthews Band,0
+2008-11,George Harrison,0
+2008-11,Grant Lee Buffalo,0
+2008-11,Jeff Buckley,0
+2008-11,Kings Of Leon,0
+2008-11,Levellers,0
+2008-11,Newton Faulkner,0
+2008-11,Nirvana,0
+2008-11,Of Montreal,0
+2008-11,Pearl Jam,0
+2008-11,Pixies,0
+2008-11,Red Hot Chili Peppers,0
+2008-11,Screaming Trees,0
+2008-11,Seth Lakeman,0
+2008-11,Snow Patrol,0
+2008-12,Alter Bridge,0
+2008-12,Audioslave,0
+2008-12,Biffy Clyro,0
+2008-12,Counting Crows,1
+2008-12,Creed,0
+2008-12,Dave Matthews Band,0
+2008-12,George Harrison,0
+2008-12,Grant Lee Buffalo,0
+2008-12,Jeff Buckley,0
+2008-12,Kings Of Leon,0
+2008-12,Levellers,0
+2008-12,Newton Faulkner,0
+2008-12,Nirvana,0
+2008-12,Of Montreal,0
+2008-12,Pearl Jam,0
+2008-12,Pixies,0
+2008-12,Red Hot Chili Peppers,0
+2008-12,Screaming Trees,0
+2008-12,Seth Lakeman,1
+2008-12,Snow Patrol,6
+2009-01,Alter Bridge,0
+2009-01,Audioslave,0
+2009-01,Biffy Clyro,0
+2009-01,Counting Crows,0
+2009-01,Creed,0
+2009-01,Dave Matthews Band,0
+2009-01,George Harrison,0
+2009-01,Grant Lee Buffalo,0
+2009-01,Jeff Buckley,0
+2009-01,Kings Of Leon,0
+2009-01,Levellers,0
+2009-01,Newton Faulkner,0
+2009-01,Nirvana,0
+2009-01,Of Montreal,0
+2009-01,Pearl Jam,0
+2009-01,Pixies,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,Screaming Trees,0
+2009-01,Seth Lakeman,0
+2009-01,Snow Patrol,0
+2009-02,Alter Bridge,0
+2009-02,Audioslave,0
+2009-02,Biffy Clyro,0
+2009-02,Counting Crows,0
+2009-02,Creed,0
+2009-02,Dave Matthews Band,0
+2009-02,George Harrison,0
+2009-02,Grant Lee Buffalo,0
+2009-02,Jeff Buckley,0
+2009-02,Kings Of Leon,0
+2009-02,Levellers,0
+2009-02,Newton Faulkner,0
+2009-02,Nirvana,0
+2009-02,Of Montreal,0
+2009-02,Pearl Jam,0
+2009-02,Pixies,0
+2009-02,Red Hot Chili Peppers,0
+2009-02,Screaming Trees,0
+2009-02,Seth Lakeman,0
+2009-02,Snow Patrol,0
+2009-03,Alter Bridge,0
+2009-03,Audioslave,0
+2009-03,Biffy Clyro,0
+2009-03,Counting Crows,0
+2009-03,Creed,0
+2009-03,Dave Matthews Band,0
+2009-03,George Harrison,0
+2009-03,Grant Lee Buffalo,0
+2009-03,Jeff Buckley,0
+2009-03,Kings Of Leon,0
+2009-03,Levellers,0
+2009-03,Newton Faulkner,0
+2009-03,Nirvana,0
+2009-03,Of Montreal,0
+2009-03,Pearl Jam,0
+2009-03,Pixies,0
+2009-03,Red Hot Chili Peppers,0
+2009-03,Screaming Trees,0
+2009-03,Seth Lakeman,0
+2009-03,Snow Patrol,0
+2009-04,Alter Bridge,0
+2009-04,Audioslave,0
+2009-04,Biffy Clyro,1
+2009-04,Counting Crows,0
+2009-04,Creed,0
+2009-04,Dave Matthews Band,0
+2009-04,George Harrison,0
+2009-04,Grant Lee Buffalo,0
+2009-04,Jeff Buckley,0
+2009-04,Kings Of Leon,6
+2009-04,Levellers,0
+2009-04,Newton Faulkner,0
+2009-04,Nirvana,0
+2009-04,Of Montreal,0
+2009-04,Pearl Jam,32
+2009-04,Pixies,0
+2009-04,Red Hot Chili Peppers,3
+2009-04,Screaming Trees,0
+2009-04,Seth Lakeman,0
+2009-04,Snow Patrol,10

@@ -1,0 +1,801 @@
+month,artist,plays
+2006-01,Animal Collective,0
+2006-01,Babyshambles,19
+2006-01,Belle And Sebastian,0
+2006-01,Bob Dylan,0
+2006-01,British Sea Power,1
+2006-01,Cocteau Twins,1
+2006-01,David Bowie,0
+2006-01,Joy Division,5
+2006-01,Modest Mouse,0
+2006-01,Morrissey,0
+2006-01,Pavement,0
+2006-01,Pixies,0
+2006-01,Prince,0
+2006-01,Radiohead,2
+2006-01,Sigur Rós,2
+2006-01,Sonic Youth,3
+2006-01,The Beatles,0
+2006-01,The Cure,0
+2006-01,The Libertines,72
+2006-01,The Smiths,4
+2006-02,Animal Collective,0
+2006-02,Babyshambles,0
+2006-02,Belle And Sebastian,3
+2006-02,Bob Dylan,2
+2006-02,British Sea Power,2
+2006-02,Cocteau Twins,0
+2006-02,David Bowie,0
+2006-02,Joy Division,2
+2006-02,Modest Mouse,1
+2006-02,Morrissey,1
+2006-02,Pavement,0
+2006-02,Pixies,1
+2006-02,Prince,0
+2006-02,Radiohead,2
+2006-02,Sigur Rós,0
+2006-02,Sonic Youth,0
+2006-02,The Beatles,0
+2006-02,The Cure,1
+2006-02,The Libertines,1
+2006-02,The Smiths,0
+2006-03,Animal Collective,0
+2006-03,Babyshambles,2
+2006-03,Belle And Sebastian,1
+2006-03,Bob Dylan,0
+2006-03,British Sea Power,0
+2006-03,Cocteau Twins,0
+2006-03,David Bowie,28
+2006-03,Joy Division,0
+2006-03,Modest Mouse,0
+2006-03,Morrissey,0
+2006-03,Pavement,0
+2006-03,Pixies,0
+2006-03,Prince,0
+2006-03,Radiohead,1
+2006-03,Sigur Rós,1
+2006-03,Sonic Youth,0
+2006-03,The Beatles,3
+2006-03,The Cure,0
+2006-03,The Libertines,2
+2006-03,The Smiths,0
+2006-04,Animal Collective,0
+2006-04,Babyshambles,0
+2006-04,Belle And Sebastian,0
+2006-04,Bob Dylan,0
+2006-04,British Sea Power,0
+2006-04,Cocteau Twins,0
+2006-04,David Bowie,1
+2006-04,Joy Division,1
+2006-04,Modest Mouse,7
+2006-04,Morrissey,0
+2006-04,Pavement,0
+2006-04,Pixies,0
+2006-04,Prince,0
+2006-04,Radiohead,10
+2006-04,Sigur Rós,1
+2006-04,Sonic Youth,16
+2006-04,The Beatles,1
+2006-04,The Cure,0
+2006-04,The Libertines,5
+2006-04,The Smiths,1
+2006-05,Animal Collective,0
+2006-05,Babyshambles,1
+2006-05,Belle And Sebastian,0
+2006-05,Bob Dylan,0
+2006-05,British Sea Power,0
+2006-05,Cocteau Twins,0
+2006-05,David Bowie,0
+2006-05,Joy Division,56
+2006-05,Modest Mouse,0
+2006-05,Morrissey,0
+2006-05,Pavement,3
+2006-05,Pixies,0
+2006-05,Prince,0
+2006-05,Radiohead,33
+2006-05,Sigur Rós,1
+2006-05,Sonic Youth,1
+2006-05,The Beatles,0
+2006-05,The Cure,0
+2006-05,The Libertines,3
+2006-05,The Smiths,0
+2006-06,Animal Collective,2
+2006-06,Babyshambles,16
+2006-06,Belle And Sebastian,5
+2006-06,Bob Dylan,1
+2006-06,British Sea Power,17
+2006-06,Cocteau Twins,7
+2006-06,David Bowie,8
+2006-06,Joy Division,68
+2006-06,Modest Mouse,4
+2006-06,Morrissey,5
+2006-06,Pavement,0
+2006-06,Pixies,2
+2006-06,Prince,0
+2006-06,Radiohead,28
+2006-06,Sigur Rós,2
+2006-06,Sonic Youth,37
+2006-06,The Beatles,60
+2006-06,The Cure,2
+2006-06,The Libertines,12
+2006-06,The Smiths,7
+2006-07,Animal Collective,18
+2006-07,Babyshambles,34
+2006-07,Belle And Sebastian,8
+2006-07,Bob Dylan,10
+2006-07,British Sea Power,36
+2006-07,Cocteau Twins,7
+2006-07,David Bowie,47
+2006-07,Joy Division,77
+2006-07,Modest Mouse,6
+2006-07,Morrissey,4
+2006-07,Pavement,3
+2006-07,Pixies,2
+2006-07,Prince,2
+2006-07,Radiohead,46
+2006-07,Sigur Rós,1
+2006-07,Sonic Youth,47
+2006-07,The Beatles,44
+2006-07,The Cure,2
+2006-07,The Libertines,15
+2006-07,The Smiths,68
+2006-08,Animal Collective,34
+2006-08,Babyshambles,28
+2006-08,Belle And Sebastian,1
+2006-08,Bob Dylan,1
+2006-08,British Sea Power,3
+2006-08,Cocteau Twins,2
+2006-08,David Bowie,2
+2006-08,Joy Division,2
+2006-08,Modest Mouse,27
+2006-08,Morrissey,1
+2006-08,Pavement,1
+2006-08,Pixies,1
+2006-08,Prince,12
+2006-08,Radiohead,90
+2006-08,Sigur Rós,0
+2006-08,Sonic Youth,0
+2006-08,The Beatles,57
+2006-08,The Cure,0
+2006-08,The Libertines,19
+2006-08,The Smiths,87
+2006-09,Animal Collective,94
+2006-09,Babyshambles,21
+2006-09,Belle And Sebastian,0
+2006-09,Bob Dylan,7
+2006-09,British Sea Power,0
+2006-09,Cocteau Twins,3
+2006-09,David Bowie,14
+2006-09,Joy Division,1
+2006-09,Modest Mouse,0
+2006-09,Morrissey,12
+2006-09,Pavement,0
+2006-09,Pixies,1
+2006-09,Prince,0
+2006-09,Radiohead,20
+2006-09,Sigur Rós,0
+2006-09,Sonic Youth,25
+2006-09,The Beatles,19
+2006-09,The Cure,1
+2006-09,The Libertines,0
+2006-09,The Smiths,8
+2006-10,Animal Collective,6
+2006-10,Babyshambles,2
+2006-10,Belle And Sebastian,2
+2006-10,Bob Dylan,0
+2006-10,British Sea Power,0
+2006-10,Cocteau Twins,1
+2006-10,David Bowie,0
+2006-10,Joy Division,0
+2006-10,Modest Mouse,0
+2006-10,Morrissey,0
+2006-10,Pavement,3
+2006-10,Pixies,0
+2006-10,Prince,0
+2006-10,Radiohead,2
+2006-10,Sigur Rós,2
+2006-10,Sonic Youth,0
+2006-10,The Beatles,15
+2006-10,The Cure,6
+2006-10,The Libertines,68
+2006-10,The Smiths,0
+2006-11,Animal Collective,11
+2006-11,Babyshambles,25
+2006-11,Belle And Sebastian,1
+2006-11,Bob Dylan,0
+2006-11,British Sea Power,0
+2006-11,Cocteau Twins,4
+2006-11,David Bowie,4
+2006-11,Joy Division,13
+2006-11,Modest Mouse,15
+2006-11,Morrissey,0
+2006-11,Pavement,0
+2006-11,Pixies,0
+2006-11,Prince,0
+2006-11,Radiohead,2
+2006-11,Sigur Rós,6
+2006-11,Sonic Youth,0
+2006-11,The Beatles,1
+2006-11,The Cure,0
+2006-11,The Libertines,10
+2006-11,The Smiths,0
+2006-12,Animal Collective,3
+2006-12,Babyshambles,3
+2006-12,Belle And Sebastian,0
+2006-12,Bob Dylan,0
+2006-12,British Sea Power,44
+2006-12,Cocteau Twins,13
+2006-12,David Bowie,6
+2006-12,Joy Division,0
+2006-12,Modest Mouse,34
+2006-12,Morrissey,0
+2006-12,Pavement,0
+2006-12,Pixies,1
+2006-12,Prince,0
+2006-12,Radiohead,10
+2006-12,Sigur Rós,2
+2006-12,Sonic Youth,1
+2006-12,The Beatles,0
+2006-12,The Cure,3
+2006-12,The Libertines,14
+2006-12,The Smiths,11
+2007-01,Animal Collective,4
+2007-01,Babyshambles,2
+2007-01,Belle And Sebastian,1
+2007-01,Bob Dylan,3
+2007-01,British Sea Power,2
+2007-01,Cocteau Twins,6
+2007-01,David Bowie,2
+2007-01,Joy Division,25
+2007-01,Modest Mouse,3
+2007-01,Morrissey,1
+2007-01,Pavement,16
+2007-01,Pixies,0
+2007-01,Prince,1
+2007-01,Radiohead,13
+2007-01,Sigur Rós,0
+2007-01,Sonic Youth,19
+2007-01,The Beatles,4
+2007-01,The Cure,1
+2007-01,The Libertines,20
+2007-01,The Smiths,6
+2007-02,Animal Collective,1
+2007-02,Babyshambles,2
+2007-02,Belle And Sebastian,0
+2007-02,Bob Dylan,12
+2007-02,British Sea Power,1
+2007-02,Cocteau Twins,13
+2007-02,David Bowie,8
+2007-02,Joy Division,4
+2007-02,Modest Mouse,36
+2007-02,Morrissey,0
+2007-02,Pavement,19
+2007-02,Pixies,2
+2007-02,Prince,0
+2007-02,Radiohead,10
+2007-02,Sigur Rós,1
+2007-02,Sonic Youth,0
+2007-02,The Beatles,5
+2007-02,The Cure,5
+2007-02,The Libertines,1
+2007-02,The Smiths,10
+2007-03,Animal Collective,4
+2007-03,Babyshambles,4
+2007-03,Belle And Sebastian,2
+2007-03,Bob Dylan,4
+2007-03,British Sea Power,13
+2007-03,Cocteau Twins,20
+2007-03,David Bowie,4
+2007-03,Joy Division,5
+2007-03,Modest Mouse,17
+2007-03,Morrissey,7
+2007-03,Pavement,1
+2007-03,Pixies,0
+2007-03,Prince,0
+2007-03,Radiohead,42
+2007-03,Sigur Rós,0
+2007-03,Sonic Youth,2
+2007-03,The Beatles,15
+2007-03,The Cure,24
+2007-03,The Libertines,4
+2007-03,The Smiths,1
+2007-04,Animal Collective,0
+2007-04,Babyshambles,1
+2007-04,Belle And Sebastian,12
+2007-04,Bob Dylan,14
+2007-04,British Sea Power,0
+2007-04,Cocteau Twins,12
+2007-04,David Bowie,7
+2007-04,Joy Division,9
+2007-04,Modest Mouse,0
+2007-04,Morrissey,0
+2007-04,Pavement,10
+2007-04,Pixies,0
+2007-04,Prince,9
+2007-04,Radiohead,0
+2007-04,Sigur Rós,0
+2007-04,Sonic Youth,0
+2007-04,The Beatles,12
+2007-04,The Cure,0
+2007-04,The Libertines,0
+2007-04,The Smiths,7
+2007-05,Animal Collective,12
+2007-05,Babyshambles,2
+2007-05,Belle And Sebastian,1
+2007-05,Bob Dylan,3
+2007-05,British Sea Power,2
+2007-05,Cocteau Twins,1
+2007-05,David Bowie,1
+2007-05,Joy Division,8
+2007-05,Modest Mouse,28
+2007-05,Morrissey,0
+2007-05,Pavement,1
+2007-05,Pixies,0
+2007-05,Prince,0
+2007-05,Radiohead,5
+2007-05,Sigur Rós,4
+2007-05,Sonic Youth,6
+2007-05,The Beatles,1
+2007-05,The Cure,1
+2007-05,The Libertines,11
+2007-05,The Smiths,3
+2007-06,Animal Collective,1
+2007-06,Babyshambles,2
+2007-06,Belle And Sebastian,8
+2007-06,Bob Dylan,13
+2007-06,British Sea Power,2
+2007-06,Cocteau Twins,4
+2007-06,David Bowie,6
+2007-06,Joy Division,4
+2007-06,Modest Mouse,3
+2007-06,Morrissey,6
+2007-06,Pavement,3
+2007-06,Pixies,1
+2007-06,Prince,14
+2007-06,Radiohead,3
+2007-06,Sigur Rós,0
+2007-06,Sonic Youth,9
+2007-06,The Beatles,8
+2007-06,The Cure,3
+2007-06,The Libertines,5
+2007-06,The Smiths,7
+2007-07,Animal Collective,0
+2007-07,Babyshambles,0
+2007-07,Belle And Sebastian,0
+2007-07,Bob Dylan,0
+2007-07,British Sea Power,0
+2007-07,Cocteau Twins,0
+2007-07,David Bowie,0
+2007-07,Joy Division,0
+2007-07,Modest Mouse,0
+2007-07,Morrissey,0
+2007-07,Pavement,0
+2007-07,Pixies,0
+2007-07,Prince,0
+2007-07,Radiohead,0
+2007-07,Sigur Rós,0
+2007-07,Sonic Youth,0
+2007-07,The Beatles,0
+2007-07,The Cure,0
+2007-07,The Libertines,0
+2007-07,The Smiths,0
+2007-08,Animal Collective,0
+2007-08,Babyshambles,0
+2007-08,Belle And Sebastian,0
+2007-08,Bob Dylan,0
+2007-08,British Sea Power,0
+2007-08,Cocteau Twins,0
+2007-08,David Bowie,0
+2007-08,Joy Division,0
+2007-08,Modest Mouse,0
+2007-08,Morrissey,0
+2007-08,Pavement,0
+2007-08,Pixies,0
+2007-08,Prince,23
+2007-08,Radiohead,0
+2007-08,Sigur Rós,0
+2007-08,Sonic Youth,12
+2007-08,The Beatles,1
+2007-08,The Cure,0
+2007-08,The Libertines,0
+2007-08,The Smiths,0
+2007-09,Animal Collective,0
+2007-09,Babyshambles,3
+2007-09,Belle And Sebastian,0
+2007-09,Bob Dylan,0
+2007-09,British Sea Power,0
+2007-09,Cocteau Twins,0
+2007-09,David Bowie,0
+2007-09,Joy Division,2
+2007-09,Modest Mouse,0
+2007-09,Morrissey,0
+2007-09,Pavement,0
+2007-09,Pixies,0
+2007-09,Prince,33
+2007-09,Radiohead,0
+2007-09,Sigur Rós,0
+2007-09,Sonic Youth,0
+2007-09,The Beatles,0
+2007-09,The Cure,0
+2007-09,The Libertines,0
+2007-09,The Smiths,0
+2007-10,Animal Collective,17
+2007-10,Babyshambles,30
+2007-10,Belle And Sebastian,1
+2007-10,Bob Dylan,1
+2007-10,British Sea Power,4
+2007-10,Cocteau Twins,41
+2007-10,David Bowie,0
+2007-10,Joy Division,1
+2007-10,Modest Mouse,1
+2007-10,Morrissey,1
+2007-10,Pavement,0
+2007-10,Pixies,0
+2007-10,Prince,2
+2007-10,Radiohead,102
+2007-10,Sigur Rós,0
+2007-10,Sonic Youth,7
+2007-10,The Beatles,0
+2007-10,The Cure,0
+2007-10,The Libertines,0
+2007-10,The Smiths,0
+2007-11,Animal Collective,26
+2007-11,Babyshambles,8
+2007-11,Belle And Sebastian,0
+2007-11,Bob Dylan,42
+2007-11,British Sea Power,12
+2007-11,Cocteau Twins,19
+2007-11,David Bowie,84
+2007-11,Joy Division,15
+2007-11,Modest Mouse,10
+2007-11,Morrissey,10
+2007-11,Pavement,29
+2007-11,Pixies,28
+2007-11,Prince,160
+2007-11,Radiohead,7
+2007-11,Sigur Rós,15
+2007-11,Sonic Youth,12
+2007-11,The Beatles,0
+2007-11,The Cure,1
+2007-11,The Libertines,0
+2007-11,The Smiths,115
+2007-12,Animal Collective,4
+2007-12,Babyshambles,0
+2007-12,Belle And Sebastian,1
+2007-12,Bob Dylan,6
+2007-12,British Sea Power,67
+2007-12,Cocteau Twins,0
+2007-12,David Bowie,6
+2007-12,Joy Division,0
+2007-12,Modest Mouse,5
+2007-12,Morrissey,2
+2007-12,Pavement,0
+2007-12,Pixies,0
+2007-12,Prince,44
+2007-12,Radiohead,82
+2007-12,Sigur Rós,0
+2007-12,Sonic Youth,9
+2007-12,The Beatles,0
+2007-12,The Cure,0
+2007-12,The Libertines,4
+2007-12,The Smiths,32
+2008-01,Animal Collective,0
+2008-01,Babyshambles,0
+2008-01,Belle And Sebastian,8
+2008-01,Bob Dylan,2
+2008-01,British Sea Power,11
+2008-01,Cocteau Twins,27
+2008-01,David Bowie,37
+2008-01,Joy Division,11
+2008-01,Modest Mouse,5
+2008-01,Morrissey,88
+2008-01,Pavement,11
+2008-01,Pixies,2
+2008-01,Prince,32
+2008-01,Radiohead,12
+2008-01,Sigur Rós,1
+2008-01,Sonic Youth,1
+2008-01,The Beatles,2
+2008-01,The Cure,20
+2008-01,The Libertines,1
+2008-01,The Smiths,48
+2008-02,Animal Collective,0
+2008-02,Babyshambles,0
+2008-02,Belle And Sebastian,2
+2008-02,Bob Dylan,0
+2008-02,British Sea Power,4
+2008-02,Cocteau Twins,26
+2008-02,David Bowie,8
+2008-02,Joy Division,5
+2008-02,Modest Mouse,7
+2008-02,Morrissey,6
+2008-02,Pavement,2
+2008-02,Pixies,0
+2008-02,Prince,60
+2008-02,Radiohead,15
+2008-02,Sigur Rós,0
+2008-02,Sonic Youth,6
+2008-02,The Beatles,0
+2008-02,The Cure,13
+2008-02,The Libertines,20
+2008-02,The Smiths,8
+2008-03,Animal Collective,6
+2008-03,Babyshambles,0
+2008-03,Belle And Sebastian,0
+2008-03,Bob Dylan,1
+2008-03,British Sea Power,0
+2008-03,Cocteau Twins,33
+2008-03,David Bowie,4
+2008-03,Joy Division,0
+2008-03,Modest Mouse,0
+2008-03,Morrissey,1
+2008-03,Pavement,0
+2008-03,Pixies,0
+2008-03,Prince,175
+2008-03,Radiohead,1
+2008-03,Sigur Rós,0
+2008-03,Sonic Youth,0
+2008-03,The Beatles,1
+2008-03,The Cure,0
+2008-03,The Libertines,0
+2008-03,The Smiths,1
+2008-04,Animal Collective,0
+2008-04,Babyshambles,0
+2008-04,Belle And Sebastian,4
+2008-04,Bob Dylan,0
+2008-04,British Sea Power,0
+2008-04,Cocteau Twins,15
+2008-04,David Bowie,0
+2008-04,Joy Division,0
+2008-04,Modest Mouse,0
+2008-04,Morrissey,4
+2008-04,Pavement,0
+2008-04,Pixies,0
+2008-04,Prince,29
+2008-04,Radiohead,9
+2008-04,Sigur Rós,0
+2008-04,Sonic Youth,0
+2008-04,The Beatles,0
+2008-04,The Cure,0
+2008-04,The Libertines,0
+2008-04,The Smiths,0
+2008-05,Animal Collective,7
+2008-05,Babyshambles,2
+2008-05,Belle And Sebastian,0
+2008-05,Bob Dylan,4
+2008-05,British Sea Power,2
+2008-05,Cocteau Twins,9
+2008-05,David Bowie,15
+2008-05,Joy Division,2
+2008-05,Modest Mouse,3
+2008-05,Morrissey,6
+2008-05,Pavement,3
+2008-05,Pixies,5
+2008-05,Prince,209
+2008-05,Radiohead,12
+2008-05,Sigur Rós,3
+2008-05,Sonic Youth,14
+2008-05,The Beatles,0
+2008-05,The Cure,15
+2008-05,The Libertines,2
+2008-05,The Smiths,38
+2008-06,Animal Collective,0
+2008-06,Babyshambles,0
+2008-06,Belle And Sebastian,0
+2008-06,Bob Dylan,0
+2008-06,British Sea Power,0
+2008-06,Cocteau Twins,0
+2008-06,David Bowie,2
+2008-06,Joy Division,0
+2008-06,Modest Mouse,0
+2008-06,Morrissey,0
+2008-06,Pavement,0
+2008-06,Pixies,0
+2008-06,Prince,11
+2008-06,Radiohead,69
+2008-06,Sigur Rós,6
+2008-06,Sonic Youth,0
+2008-06,The Beatles,0
+2008-06,The Cure,0
+2008-06,The Libertines,0
+2008-06,The Smiths,0
+2008-07,Animal Collective,0
+2008-07,Babyshambles,0
+2008-07,Belle And Sebastian,0
+2008-07,Bob Dylan,0
+2008-07,British Sea Power,0
+2008-07,Cocteau Twins,0
+2008-07,David Bowie,12
+2008-07,Joy Division,0
+2008-07,Modest Mouse,2
+2008-07,Morrissey,0
+2008-07,Pavement,0
+2008-07,Pixies,0
+2008-07,Prince,14
+2008-07,Radiohead,5
+2008-07,Sigur Rós,0
+2008-07,Sonic Youth,0
+2008-07,The Beatles,0
+2008-07,The Cure,1
+2008-07,The Libertines,3
+2008-07,The Smiths,5
+2008-08,Animal Collective,1
+2008-08,Babyshambles,1
+2008-08,Belle And Sebastian,0
+2008-08,Bob Dylan,0
+2008-08,British Sea Power,2
+2008-08,Cocteau Twins,7
+2008-08,David Bowie,4
+2008-08,Joy Division,7
+2008-08,Modest Mouse,0
+2008-08,Morrissey,0
+2008-08,Pavement,0
+2008-08,Pixies,15
+2008-08,Prince,2
+2008-08,Radiohead,0
+2008-08,Sigur Rós,3
+2008-08,Sonic Youth,0
+2008-08,The Beatles,0
+2008-08,The Cure,5
+2008-08,The Libertines,0
+2008-08,The Smiths,4
+2008-09,Animal Collective,1
+2008-09,Babyshambles,5
+2008-09,Belle And Sebastian,0
+2008-09,Bob Dylan,1
+2008-09,British Sea Power,0
+2008-09,Cocteau Twins,3
+2008-09,David Bowie,4
+2008-09,Joy Division,0
+2008-09,Modest Mouse,7
+2008-09,Morrissey,5
+2008-09,Pavement,4
+2008-09,Pixies,6
+2008-09,Prince,4
+2008-09,Radiohead,4
+2008-09,Sigur Rós,1
+2008-09,Sonic Youth,0
+2008-09,The Beatles,0
+2008-09,The Cure,0
+2008-09,The Libertines,3
+2008-09,The Smiths,23
+2008-10,Animal Collective,11
+2008-10,Babyshambles,0
+2008-10,Belle And Sebastian,0
+2008-10,Bob Dylan,48
+2008-10,British Sea Power,7
+2008-10,Cocteau Twins,0
+2008-10,David Bowie,3
+2008-10,Joy Division,5
+2008-10,Modest Mouse,0
+2008-10,Morrissey,8
+2008-10,Pavement,0
+2008-10,Pixies,1
+2008-10,Prince,3
+2008-10,Radiohead,1
+2008-10,Sigur Rós,0
+2008-10,Sonic Youth,0
+2008-10,The Beatles,3
+2008-10,The Cure,1
+2008-10,The Libertines,0
+2008-10,The Smiths,11
+2008-11,Animal Collective,4
+2008-11,Babyshambles,0
+2008-11,Belle And Sebastian,21
+2008-11,Bob Dylan,4
+2008-11,British Sea Power,0
+2008-11,Cocteau Twins,0
+2008-11,David Bowie,9
+2008-11,Joy Division,11
+2008-11,Modest Mouse,0
+2008-11,Morrissey,20
+2008-11,Pavement,5
+2008-11,Pixies,1
+2008-11,Prince,6
+2008-11,Radiohead,12
+2008-11,Sigur Rós,4
+2008-11,Sonic Youth,2
+2008-11,The Beatles,39
+2008-11,The Cure,34
+2008-11,The Libertines,0
+2008-11,The Smiths,24
+2008-12,Animal Collective,5
+2008-12,Babyshambles,1
+2008-12,Belle And Sebastian,0
+2008-12,Bob Dylan,0
+2008-12,British Sea Power,0
+2008-12,Cocteau Twins,0
+2008-12,David Bowie,0
+2008-12,Joy Division,0
+2008-12,Modest Mouse,0
+2008-12,Morrissey,1
+2008-12,Pavement,10
+2008-12,Pixies,0
+2008-12,Prince,0
+2008-12,Radiohead,0
+2008-12,Sigur Rós,1
+2008-12,Sonic Youth,0
+2008-12,The Beatles,9
+2008-12,The Cure,1
+2008-12,The Libertines,1
+2008-12,The Smiths,24
+2009-01,Animal Collective,7
+2009-01,Babyshambles,1
+2009-01,Belle And Sebastian,12
+2009-01,Bob Dylan,0
+2009-01,British Sea Power,0
+2009-01,Cocteau Twins,0
+2009-01,David Bowie,2
+2009-01,Joy Division,0
+2009-01,Modest Mouse,0
+2009-01,Morrissey,1
+2009-01,Pavement,1
+2009-01,Pixies,15
+2009-01,Prince,8
+2009-01,Radiohead,9
+2009-01,Sigur Rós,0
+2009-01,Sonic Youth,1
+2009-01,The Beatles,1
+2009-01,The Cure,10
+2009-01,The Libertines,0
+2009-01,The Smiths,16
+2009-02,Animal Collective,3
+2009-02,Babyshambles,0
+2009-02,Belle And Sebastian,0
+2009-02,Bob Dylan,1
+2009-02,British Sea Power,1
+2009-02,Cocteau Twins,11
+2009-02,David Bowie,0
+2009-02,Joy Division,0
+2009-02,Modest Mouse,0
+2009-02,Morrissey,51
+2009-02,Pavement,47
+2009-02,Pixies,38
+2009-02,Prince,17
+2009-02,Radiohead,0
+2009-02,Sigur Rós,0
+2009-02,Sonic Youth,0
+2009-02,The Beatles,0
+2009-02,The Cure,10
+2009-02,The Libertines,0
+2009-02,The Smiths,7
+2009-03,Animal Collective,5
+2009-03,Babyshambles,3
+2009-03,Belle And Sebastian,0
+2009-03,Bob Dylan,0
+2009-03,British Sea Power,0
+2009-03,Cocteau Twins,0
+2009-03,David Bowie,0
+2009-03,Joy Division,0
+2009-03,Modest Mouse,22
+2009-03,Morrissey,34
+2009-03,Pavement,0
+2009-03,Pixies,12
+2009-03,Prince,37
+2009-03,Radiohead,0
+2009-03,Sigur Rós,0
+2009-03,Sonic Youth,4
+2009-03,The Beatles,4
+2009-03,The Cure,3
+2009-03,The Libertines,0
+2009-03,The Smiths,41
+2009-04,Animal Collective,4
+2009-04,Babyshambles,0
+2009-04,Belle And Sebastian,5
+2009-04,Bob Dylan,0
+2009-04,British Sea Power,0
+2009-04,Cocteau Twins,1
+2009-04,David Bowie,2
+2009-04,Joy Division,2
+2009-04,Modest Mouse,0
+2009-04,Morrissey,18
+2009-04,Pavement,4
+2009-04,Pixies,1
+2009-04,Prince,1
+2009-04,Radiohead,0
+2009-04,Sigur Rós,0
+2009-04,Sonic Youth,20
+2009-04,The Beatles,4
+2009-04,The Cure,0
+2009-04,The Libertines,0
+2009-04,The Smiths,3

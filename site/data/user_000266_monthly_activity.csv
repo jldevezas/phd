@@ -1,0 +1,901 @@
+month,artist,plays
+2005-08,Air,0
+2005-08,Amy Winehouse,0
+2005-08,Cake,0
+2005-08,Chromeo,0
+2005-08,Depeche Mode,0
+2005-08,Elvis Presley,0
+2005-08,Fleetwood Mac,0
+2005-08,Goldfrapp,10
+2005-08,Ian Brown,29
+2005-08,Justin Timberlake,0
+2005-08,Kings Of Convenience,0
+2005-08,Madonna,0
+2005-08,Otis Redding,4
+2005-08,Placebo,0
+2005-08,Portishead,0
+2005-08,Sneaker Pimps,0
+2005-08,Sonic Youth,0
+2005-08,The Beatles,0
+2005-08,The Flaming Lips,0
+2005-08,Turin Brakes,0
+2005-09,Air,0
+2005-09,Amy Winehouse,0
+2005-09,Cake,0
+2005-09,Chromeo,0
+2005-09,Depeche Mode,0
+2005-09,Elvis Presley,0
+2005-09,Fleetwood Mac,0
+2005-09,Goldfrapp,0
+2005-09,Ian Brown,0
+2005-09,Justin Timberlake,0
+2005-09,Kings Of Convenience,0
+2005-09,Madonna,0
+2005-09,Otis Redding,0
+2005-09,Placebo,0
+2005-09,Portishead,0
+2005-09,Sneaker Pimps,0
+2005-09,Sonic Youth,0
+2005-09,The Beatles,0
+2005-09,The Flaming Lips,0
+2005-09,Turin Brakes,0
+2005-10,Air,0
+2005-10,Amy Winehouse,0
+2005-10,Cake,0
+2005-10,Chromeo,0
+2005-10,Depeche Mode,0
+2005-10,Elvis Presley,0
+2005-10,Fleetwood Mac,0
+2005-10,Goldfrapp,0
+2005-10,Ian Brown,0
+2005-10,Justin Timberlake,0
+2005-10,Kings Of Convenience,0
+2005-10,Madonna,0
+2005-10,Otis Redding,0
+2005-10,Placebo,0
+2005-10,Portishead,0
+2005-10,Sneaker Pimps,0
+2005-10,Sonic Youth,0
+2005-10,The Beatles,0
+2005-10,The Flaming Lips,0
+2005-10,Turin Brakes,0
+2005-11,Air,0
+2005-11,Amy Winehouse,0
+2005-11,Cake,0
+2005-11,Chromeo,0
+2005-11,Depeche Mode,0
+2005-11,Elvis Presley,0
+2005-11,Fleetwood Mac,0
+2005-11,Goldfrapp,0
+2005-11,Ian Brown,0
+2005-11,Justin Timberlake,0
+2005-11,Kings Of Convenience,0
+2005-11,Madonna,1
+2005-11,Otis Redding,0
+2005-11,Placebo,0
+2005-11,Portishead,0
+2005-11,Sneaker Pimps,1
+2005-11,Sonic Youth,1
+2005-11,The Beatles,0
+2005-11,The Flaming Lips,2
+2005-11,Turin Brakes,2
+2005-12,Air,0
+2005-12,Amy Winehouse,0
+2005-12,Cake,1
+2005-12,Chromeo,3
+2005-12,Depeche Mode,0
+2005-12,Elvis Presley,34
+2005-12,Fleetwood Mac,0
+2005-12,Goldfrapp,13
+2005-12,Ian Brown,1
+2005-12,Justin Timberlake,0
+2005-12,Kings Of Convenience,2
+2005-12,Madonna,18
+2005-12,Otis Redding,2
+2005-12,Placebo,0
+2005-12,Portishead,0
+2005-12,Sneaker Pimps,2
+2005-12,Sonic Youth,4
+2005-12,The Beatles,1
+2005-12,The Flaming Lips,2
+2005-12,Turin Brakes,0
+2006-01,Air,7
+2006-01,Amy Winehouse,0
+2006-01,Cake,0
+2006-01,Chromeo,0
+2006-01,Depeche Mode,1
+2006-01,Elvis Presley,4
+2006-01,Fleetwood Mac,21
+2006-01,Goldfrapp,0
+2006-01,Ian Brown,0
+2006-01,Justin Timberlake,0
+2006-01,Kings Of Convenience,0
+2006-01,Madonna,6
+2006-01,Otis Redding,8
+2006-01,Placebo,2
+2006-01,Portishead,0
+2006-01,Sneaker Pimps,1
+2006-01,Sonic Youth,0
+2006-01,The Beatles,0
+2006-01,The Flaming Lips,1
+2006-01,Turin Brakes,22
+2006-02,Air,0
+2006-02,Amy Winehouse,0
+2006-02,Cake,1
+2006-02,Chromeo,14
+2006-02,Depeche Mode,4
+2006-02,Elvis Presley,1
+2006-02,Fleetwood Mac,0
+2006-02,Goldfrapp,3
+2006-02,Ian Brown,1
+2006-02,Justin Timberlake,1
+2006-02,Kings Of Convenience,0
+2006-02,Madonna,14
+2006-02,Otis Redding,1
+2006-02,Placebo,8
+2006-02,Portishead,1
+2006-02,Sneaker Pimps,0
+2006-02,Sonic Youth,1
+2006-02,The Beatles,3
+2006-02,The Flaming Lips,0
+2006-02,Turin Brakes,6
+2006-03,Air,1
+2006-03,Amy Winehouse,0
+2006-03,Cake,5
+2006-03,Chromeo,3
+2006-03,Depeche Mode,5
+2006-03,Elvis Presley,4
+2006-03,Fleetwood Mac,3
+2006-03,Goldfrapp,3
+2006-03,Ian Brown,5
+2006-03,Justin Timberlake,1
+2006-03,Kings Of Convenience,1
+2006-03,Madonna,10
+2006-03,Otis Redding,3
+2006-03,Placebo,98
+2006-03,Portishead,1
+2006-03,Sneaker Pimps,2
+2006-03,Sonic Youth,4
+2006-03,The Beatles,1
+2006-03,The Flaming Lips,2
+2006-03,Turin Brakes,38
+2006-04,Air,3
+2006-04,Amy Winehouse,1
+2006-04,Cake,9
+2006-04,Chromeo,11
+2006-04,Depeche Mode,9
+2006-04,Elvis Presley,2
+2006-04,Fleetwood Mac,6
+2006-04,Goldfrapp,3
+2006-04,Ian Brown,6
+2006-04,Justin Timberlake,3
+2006-04,Kings Of Convenience,26
+2006-04,Madonna,10
+2006-04,Otis Redding,11
+2006-04,Placebo,67
+2006-04,Portishead,1
+2006-04,Sneaker Pimps,5
+2006-04,Sonic Youth,5
+2006-04,The Beatles,2
+2006-04,The Flaming Lips,4
+2006-04,Turin Brakes,20
+2006-05,Air,1
+2006-05,Amy Winehouse,0
+2006-05,Cake,0
+2006-05,Chromeo,12
+2006-05,Depeche Mode,3
+2006-05,Elvis Presley,0
+2006-05,Fleetwood Mac,1
+2006-05,Goldfrapp,1
+2006-05,Ian Brown,2
+2006-05,Justin Timberlake,1
+2006-05,Kings Of Convenience,9
+2006-05,Madonna,6
+2006-05,Otis Redding,21
+2006-05,Placebo,1
+2006-05,Portishead,0
+2006-05,Sneaker Pimps,12
+2006-05,Sonic Youth,1
+2006-05,The Beatles,0
+2006-05,The Flaming Lips,0
+2006-05,Turin Brakes,2
+2006-06,Air,3
+2006-06,Amy Winehouse,0
+2006-06,Cake,2
+2006-06,Chromeo,5
+2006-06,Depeche Mode,3
+2006-06,Elvis Presley,0
+2006-06,Fleetwood Mac,2
+2006-06,Goldfrapp,0
+2006-06,Ian Brown,2
+2006-06,Justin Timberlake,5
+2006-06,Kings Of Convenience,8
+2006-06,Madonna,9
+2006-06,Otis Redding,1
+2006-06,Placebo,2
+2006-06,Portishead,0
+2006-06,Sneaker Pimps,1
+2006-06,Sonic Youth,2
+2006-06,The Beatles,4
+2006-06,The Flaming Lips,1
+2006-06,Turin Brakes,4
+2006-07,Air,2
+2006-07,Amy Winehouse,1
+2006-07,Cake,3
+2006-07,Chromeo,2
+2006-07,Depeche Mode,18
+2006-07,Elvis Presley,4
+2006-07,Fleetwood Mac,4
+2006-07,Goldfrapp,0
+2006-07,Ian Brown,1
+2006-07,Justin Timberlake,7
+2006-07,Kings Of Convenience,1
+2006-07,Madonna,3
+2006-07,Otis Redding,3
+2006-07,Placebo,1
+2006-07,Portishead,1
+2006-07,Sneaker Pimps,2
+2006-07,Sonic Youth,2
+2006-07,The Beatles,2
+2006-07,The Flaming Lips,2
+2006-07,Turin Brakes,5
+2006-08,Air,0
+2006-08,Amy Winehouse,0
+2006-08,Cake,2
+2006-08,Chromeo,1
+2006-08,Depeche Mode,3
+2006-08,Elvis Presley,2
+2006-08,Fleetwood Mac,2
+2006-08,Goldfrapp,0
+2006-08,Ian Brown,1
+2006-08,Justin Timberlake,1
+2006-08,Kings Of Convenience,3
+2006-08,Madonna,3
+2006-08,Otis Redding,1
+2006-08,Placebo,1
+2006-08,Portishead,2
+2006-08,Sneaker Pimps,0
+2006-08,Sonic Youth,1
+2006-08,The Beatles,0
+2006-08,The Flaming Lips,1
+2006-08,Turin Brakes,3
+2006-09,Air,0
+2006-09,Amy Winehouse,0
+2006-09,Cake,2
+2006-09,Chromeo,0
+2006-09,Depeche Mode,0
+2006-09,Elvis Presley,4
+2006-09,Fleetwood Mac,1
+2006-09,Goldfrapp,5
+2006-09,Ian Brown,1
+2006-09,Justin Timberlake,52
+2006-09,Kings Of Convenience,1
+2006-09,Madonna,1
+2006-09,Otis Redding,3
+2006-09,Placebo,2
+2006-09,Portishead,1
+2006-09,Sneaker Pimps,2
+2006-09,Sonic Youth,0
+2006-09,The Beatles,3
+2006-09,The Flaming Lips,2
+2006-09,Turin Brakes,2
+2006-10,Air,0
+2006-10,Amy Winehouse,67
+2006-10,Cake,1
+2006-10,Chromeo,1
+2006-10,Depeche Mode,1
+2006-10,Elvis Presley,1
+2006-10,Fleetwood Mac,1
+2006-10,Goldfrapp,1
+2006-10,Ian Brown,0
+2006-10,Justin Timberlake,0
+2006-10,Kings Of Convenience,3
+2006-10,Madonna,2
+2006-10,Otis Redding,2
+2006-10,Placebo,1
+2006-10,Portishead,1
+2006-10,Sneaker Pimps,1
+2006-10,Sonic Youth,1
+2006-10,The Beatles,3
+2006-10,The Flaming Lips,2
+2006-10,Turin Brakes,10
+2006-11,Air,0
+2006-11,Amy Winehouse,3
+2006-11,Cake,1
+2006-11,Chromeo,2
+2006-11,Depeche Mode,1
+2006-11,Elvis Presley,1
+2006-11,Fleetwood Mac,0
+2006-11,Goldfrapp,0
+2006-11,Ian Brown,0
+2006-11,Justin Timberlake,26
+2006-11,Kings Of Convenience,0
+2006-11,Madonna,13
+2006-11,Otis Redding,0
+2006-11,Placebo,0
+2006-11,Portishead,12
+2006-11,Sneaker Pimps,0
+2006-11,Sonic Youth,0
+2006-11,The Beatles,0
+2006-11,The Flaming Lips,1
+2006-11,Turin Brakes,1
+2006-12,Air,1
+2006-12,Amy Winehouse,2
+2006-12,Cake,0
+2006-12,Chromeo,0
+2006-12,Depeche Mode,0
+2006-12,Elvis Presley,4
+2006-12,Fleetwood Mac,1
+2006-12,Goldfrapp,2
+2006-12,Ian Brown,0
+2006-12,Justin Timberlake,1
+2006-12,Kings Of Convenience,1
+2006-12,Madonna,1
+2006-12,Otis Redding,1
+2006-12,Placebo,1
+2006-12,Portishead,0
+2006-12,Sneaker Pimps,1
+2006-12,Sonic Youth,0
+2006-12,The Beatles,1
+2006-12,The Flaming Lips,0
+2006-12,Turin Brakes,1
+2007-01,Air,1
+2007-01,Amy Winehouse,2
+2007-01,Cake,2
+2007-01,Chromeo,0
+2007-01,Depeche Mode,2
+2007-01,Elvis Presley,3
+2007-01,Fleetwood Mac,0
+2007-01,Goldfrapp,1
+2007-01,Ian Brown,2
+2007-01,Justin Timberlake,1
+2007-01,Kings Of Convenience,0
+2007-01,Madonna,3
+2007-01,Otis Redding,0
+2007-01,Placebo,1
+2007-01,Portishead,2
+2007-01,Sneaker Pimps,3
+2007-01,Sonic Youth,0
+2007-01,The Beatles,0
+2007-01,The Flaming Lips,2
+2007-01,Turin Brakes,2
+2007-02,Air,0
+2007-02,Amy Winehouse,3
+2007-02,Cake,0
+2007-02,Chromeo,2
+2007-02,Depeche Mode,0
+2007-02,Elvis Presley,0
+2007-02,Fleetwood Mac,0
+2007-02,Goldfrapp,1
+2007-02,Ian Brown,0
+2007-02,Justin Timberlake,11
+2007-02,Kings Of Convenience,0
+2007-02,Madonna,0
+2007-02,Otis Redding,1
+2007-02,Placebo,0
+2007-02,Portishead,17
+2007-02,Sneaker Pimps,0
+2007-02,Sonic Youth,1
+2007-02,The Beatles,0
+2007-02,The Flaming Lips,0
+2007-02,Turin Brakes,0
+2007-03,Air,1
+2007-03,Amy Winehouse,21
+2007-03,Cake,2
+2007-03,Chromeo,1
+2007-03,Depeche Mode,0
+2007-03,Elvis Presley,3
+2007-03,Fleetwood Mac,1
+2007-03,Goldfrapp,3
+2007-03,Ian Brown,1
+2007-03,Justin Timberlake,0
+2007-03,Kings Of Convenience,1
+2007-03,Madonna,0
+2007-03,Otis Redding,2
+2007-03,Placebo,1
+2007-03,Portishead,2
+2007-03,Sneaker Pimps,1
+2007-03,Sonic Youth,3
+2007-03,The Beatles,0
+2007-03,The Flaming Lips,1
+2007-03,Turin Brakes,1
+2007-04,Air,0
+2007-04,Amy Winehouse,1
+2007-04,Cake,0
+2007-04,Chromeo,1
+2007-04,Depeche Mode,2
+2007-04,Elvis Presley,0
+2007-04,Fleetwood Mac,0
+2007-04,Goldfrapp,0
+2007-04,Ian Brown,0
+2007-04,Justin Timberlake,0
+2007-04,Kings Of Convenience,0
+2007-04,Madonna,4
+2007-04,Otis Redding,0
+2007-04,Placebo,1
+2007-04,Portishead,1
+2007-04,Sneaker Pimps,0
+2007-04,Sonic Youth,0
+2007-04,The Beatles,0
+2007-04,The Flaming Lips,0
+2007-04,Turin Brakes,31
+2007-05,Air,2
+2007-05,Amy Winehouse,0
+2007-05,Cake,0
+2007-05,Chromeo,3
+2007-05,Depeche Mode,2
+2007-05,Elvis Presley,0
+2007-05,Fleetwood Mac,0
+2007-05,Goldfrapp,0
+2007-05,Ian Brown,0
+2007-05,Justin Timberlake,1
+2007-05,Kings Of Convenience,0
+2007-05,Madonna,3
+2007-05,Otis Redding,0
+2007-05,Placebo,0
+2007-05,Portishead,0
+2007-05,Sneaker Pimps,2
+2007-05,Sonic Youth,0
+2007-05,The Beatles,1
+2007-05,The Flaming Lips,0
+2007-05,Turin Brakes,0
+2007-06,Air,0
+2007-06,Amy Winehouse,1
+2007-06,Cake,0
+2007-06,Chromeo,0
+2007-06,Depeche Mode,0
+2007-06,Elvis Presley,2
+2007-06,Fleetwood Mac,0
+2007-06,Goldfrapp,0
+2007-06,Ian Brown,0
+2007-06,Justin Timberlake,0
+2007-06,Kings Of Convenience,0
+2007-06,Madonna,0
+2007-06,Otis Redding,0
+2007-06,Placebo,0
+2007-06,Portishead,0
+2007-06,Sneaker Pimps,0
+2007-06,Sonic Youth,0
+2007-06,The Beatles,1
+2007-06,The Flaming Lips,0
+2007-06,Turin Brakes,0
+2007-07,Air,0
+2007-07,Amy Winehouse,0
+2007-07,Cake,0
+2007-07,Chromeo,0
+2007-07,Depeche Mode,1
+2007-07,Elvis Presley,0
+2007-07,Fleetwood Mac,0
+2007-07,Goldfrapp,35
+2007-07,Ian Brown,0
+2007-07,Justin Timberlake,1
+2007-07,Kings Of Convenience,0
+2007-07,Madonna,1
+2007-07,Otis Redding,0
+2007-07,Placebo,2
+2007-07,Portishead,0
+2007-07,Sneaker Pimps,1
+2007-07,Sonic Youth,0
+2007-07,The Beatles,0
+2007-07,The Flaming Lips,0
+2007-07,Turin Brakes,0
+2007-08,Air,13
+2007-08,Amy Winehouse,2
+2007-08,Cake,1
+2007-08,Chromeo,12
+2007-08,Depeche Mode,0
+2007-08,Elvis Presley,3
+2007-08,Fleetwood Mac,1
+2007-08,Goldfrapp,0
+2007-08,Ian Brown,2
+2007-08,Justin Timberlake,1
+2007-08,Kings Of Convenience,0
+2007-08,Madonna,0
+2007-08,Otis Redding,0
+2007-08,Placebo,1
+2007-08,Portishead,0
+2007-08,Sneaker Pimps,0
+2007-08,Sonic Youth,2
+2007-08,The Beatles,2
+2007-08,The Flaming Lips,1
+2007-08,Turin Brakes,1
+2007-09,Air,1
+2007-09,Amy Winehouse,15
+2007-09,Cake,0
+2007-09,Chromeo,0
+2007-09,Depeche Mode,0
+2007-09,Elvis Presley,0
+2007-09,Fleetwood Mac,22
+2007-09,Goldfrapp,0
+2007-09,Ian Brown,1
+2007-09,Justin Timberlake,0
+2007-09,Kings Of Convenience,0
+2007-09,Madonna,0
+2007-09,Otis Redding,0
+2007-09,Placebo,0
+2007-09,Portishead,0
+2007-09,Sneaker Pimps,0
+2007-09,Sonic Youth,0
+2007-09,The Beatles,0
+2007-09,The Flaming Lips,0
+2007-09,Turin Brakes,65
+2007-10,Air,0
+2007-10,Amy Winehouse,7
+2007-10,Cake,0
+2007-10,Chromeo,0
+2007-10,Depeche Mode,0
+2007-10,Elvis Presley,0
+2007-10,Fleetwood Mac,0
+2007-10,Goldfrapp,0
+2007-10,Ian Brown,0
+2007-10,Justin Timberlake,0
+2007-10,Kings Of Convenience,0
+2007-10,Madonna,1
+2007-10,Otis Redding,0
+2007-10,Placebo,0
+2007-10,Portishead,0
+2007-10,Sneaker Pimps,1
+2007-10,Sonic Youth,0
+2007-10,The Beatles,0
+2007-10,The Flaming Lips,0
+2007-10,Turin Brakes,77
+2007-11,Air,0
+2007-11,Amy Winehouse,4
+2007-11,Cake,0
+2007-11,Chromeo,0
+2007-11,Depeche Mode,0
+2007-11,Elvis Presley,0
+2007-11,Fleetwood Mac,0
+2007-11,Goldfrapp,0
+2007-11,Ian Brown,23
+2007-11,Justin Timberlake,0
+2007-11,Kings Of Convenience,0
+2007-11,Madonna,0
+2007-11,Otis Redding,0
+2007-11,Placebo,0
+2007-11,Portishead,1
+2007-11,Sneaker Pimps,0
+2007-11,Sonic Youth,4
+2007-11,The Beatles,0
+2007-11,The Flaming Lips,0
+2007-11,Turin Brakes,45
+2007-12,Air,0
+2007-12,Amy Winehouse,21
+2007-12,Cake,0
+2007-12,Chromeo,0
+2007-12,Depeche Mode,0
+2007-12,Elvis Presley,2
+2007-12,Fleetwood Mac,0
+2007-12,Goldfrapp,17
+2007-12,Ian Brown,0
+2007-12,Justin Timberlake,0
+2007-12,Kings Of Convenience,0
+2007-12,Madonna,0
+2007-12,Otis Redding,0
+2007-12,Placebo,0
+2007-12,Portishead,1
+2007-12,Sneaker Pimps,0
+2007-12,Sonic Youth,0
+2007-12,The Beatles,48
+2007-12,The Flaming Lips,0
+2007-12,Turin Brakes,0
+2008-01,Air,0
+2008-01,Amy Winehouse,0
+2008-01,Cake,0
+2008-01,Chromeo,0
+2008-01,Depeche Mode,32
+2008-01,Elvis Presley,0
+2008-01,Fleetwood Mac,0
+2008-01,Goldfrapp,1
+2008-01,Ian Brown,0
+2008-01,Justin Timberlake,0
+2008-01,Kings Of Convenience,2
+2008-01,Madonna,0
+2008-01,Otis Redding,0
+2008-01,Placebo,0
+2008-01,Portishead,0
+2008-01,Sneaker Pimps,0
+2008-01,Sonic Youth,1
+2008-01,The Beatles,1
+2008-01,The Flaming Lips,0
+2008-01,Turin Brakes,0
+2008-02,Air,0
+2008-02,Amy Winehouse,0
+2008-02,Cake,1
+2008-02,Chromeo,0
+2008-02,Depeche Mode,0
+2008-02,Elvis Presley,0
+2008-02,Fleetwood Mac,0
+2008-02,Goldfrapp,1
+2008-02,Ian Brown,0
+2008-02,Justin Timberlake,0
+2008-02,Kings Of Convenience,0
+2008-02,Madonna,1
+2008-02,Otis Redding,0
+2008-02,Placebo,0
+2008-02,Portishead,0
+2008-02,Sneaker Pimps,0
+2008-02,Sonic Youth,0
+2008-02,The Beatles,1
+2008-02,The Flaming Lips,0
+2008-02,Turin Brakes,0
+2008-03,Air,0
+2008-03,Amy Winehouse,0
+2008-03,Cake,0
+2008-03,Chromeo,0
+2008-03,Depeche Mode,0
+2008-03,Elvis Presley,0
+2008-03,Fleetwood Mac,0
+2008-03,Goldfrapp,0
+2008-03,Ian Brown,0
+2008-03,Justin Timberlake,0
+2008-03,Kings Of Convenience,0
+2008-03,Madonna,0
+2008-03,Otis Redding,0
+2008-03,Placebo,0
+2008-03,Portishead,0
+2008-03,Sneaker Pimps,0
+2008-03,Sonic Youth,0
+2008-03,The Beatles,0
+2008-03,The Flaming Lips,0
+2008-03,Turin Brakes,0
+2008-04,Air,0
+2008-04,Amy Winehouse,0
+2008-04,Cake,0
+2008-04,Chromeo,0
+2008-04,Depeche Mode,0
+2008-04,Elvis Presley,0
+2008-04,Fleetwood Mac,0
+2008-04,Goldfrapp,0
+2008-04,Ian Brown,0
+2008-04,Justin Timberlake,0
+2008-04,Kings Of Convenience,0
+2008-04,Madonna,0
+2008-04,Otis Redding,0
+2008-04,Placebo,0
+2008-04,Portishead,0
+2008-04,Sneaker Pimps,0
+2008-04,Sonic Youth,0
+2008-04,The Beatles,0
+2008-04,The Flaming Lips,0
+2008-04,Turin Brakes,0
+2008-05,Air,0
+2008-05,Amy Winehouse,0
+2008-05,Cake,0
+2008-05,Chromeo,0
+2008-05,Depeche Mode,0
+2008-05,Elvis Presley,1
+2008-05,Fleetwood Mac,0
+2008-05,Goldfrapp,0
+2008-05,Ian Brown,0
+2008-05,Justin Timberlake,0
+2008-05,Kings Of Convenience,0
+2008-05,Madonna,0
+2008-05,Otis Redding,0
+2008-05,Placebo,0
+2008-05,Portishead,0
+2008-05,Sneaker Pimps,0
+2008-05,Sonic Youth,0
+2008-05,The Beatles,0
+2008-05,The Flaming Lips,0
+2008-05,Turin Brakes,0
+2008-06,Air,1
+2008-06,Amy Winehouse,0
+2008-06,Cake,0
+2008-06,Chromeo,0
+2008-06,Depeche Mode,0
+2008-06,Elvis Presley,1
+2008-06,Fleetwood Mac,1
+2008-06,Goldfrapp,0
+2008-06,Ian Brown,1
+2008-06,Justin Timberlake,0
+2008-06,Kings Of Convenience,0
+2008-06,Madonna,0
+2008-06,Otis Redding,2
+2008-06,Placebo,1
+2008-06,Portishead,0
+2008-06,Sneaker Pimps,0
+2008-06,Sonic Youth,1
+2008-06,The Beatles,0
+2008-06,The Flaming Lips,1
+2008-06,Turin Brakes,1
+2008-07,Air,0
+2008-07,Amy Winehouse,0
+2008-07,Cake,0
+2008-07,Chromeo,0
+2008-07,Depeche Mode,1
+2008-07,Elvis Presley,0
+2008-07,Fleetwood Mac,0
+2008-07,Goldfrapp,0
+2008-07,Ian Brown,1
+2008-07,Justin Timberlake,0
+2008-07,Kings Of Convenience,0
+2008-07,Madonna,1
+2008-07,Otis Redding,0
+2008-07,Placebo,0
+2008-07,Portishead,0
+2008-07,Sneaker Pimps,0
+2008-07,Sonic Youth,0
+2008-07,The Beatles,0
+2008-07,The Flaming Lips,0
+2008-07,Turin Brakes,0
+2008-08,Air,0
+2008-08,Amy Winehouse,0
+2008-08,Cake,0
+2008-08,Chromeo,0
+2008-08,Depeche Mode,0
+2008-08,Elvis Presley,0
+2008-08,Fleetwood Mac,0
+2008-08,Goldfrapp,0
+2008-08,Ian Brown,0
+2008-08,Justin Timberlake,0
+2008-08,Kings Of Convenience,0
+2008-08,Madonna,0
+2008-08,Otis Redding,0
+2008-08,Placebo,0
+2008-08,Portishead,0
+2008-08,Sneaker Pimps,0
+2008-08,Sonic Youth,0
+2008-08,The Beatles,0
+2008-08,The Flaming Lips,0
+2008-08,Turin Brakes,0
+2008-09,Air,0
+2008-09,Amy Winehouse,0
+2008-09,Cake,0
+2008-09,Chromeo,0
+2008-09,Depeche Mode,0
+2008-09,Elvis Presley,0
+2008-09,Fleetwood Mac,0
+2008-09,Goldfrapp,0
+2008-09,Ian Brown,0
+2008-09,Justin Timberlake,0
+2008-09,Kings Of Convenience,0
+2008-09,Madonna,0
+2008-09,Otis Redding,0
+2008-09,Placebo,0
+2008-09,Portishead,0
+2008-09,Sneaker Pimps,0
+2008-09,Sonic Youth,0
+2008-09,The Beatles,0
+2008-09,The Flaming Lips,0
+2008-09,Turin Brakes,0
+2008-10,Air,0
+2008-10,Amy Winehouse,0
+2008-10,Cake,0
+2008-10,Chromeo,0
+2008-10,Depeche Mode,0
+2008-10,Elvis Presley,0
+2008-10,Fleetwood Mac,0
+2008-10,Goldfrapp,0
+2008-10,Ian Brown,0
+2008-10,Justin Timberlake,0
+2008-10,Kings Of Convenience,0
+2008-10,Madonna,0
+2008-10,Otis Redding,0
+2008-10,Placebo,0
+2008-10,Portishead,0
+2008-10,Sneaker Pimps,0
+2008-10,Sonic Youth,0
+2008-10,The Beatles,0
+2008-10,The Flaming Lips,0
+2008-10,Turin Brakes,0
+2008-11,Air,0
+2008-11,Amy Winehouse,0
+2008-11,Cake,0
+2008-11,Chromeo,0
+2008-11,Depeche Mode,0
+2008-11,Elvis Presley,0
+2008-11,Fleetwood Mac,0
+2008-11,Goldfrapp,0
+2008-11,Ian Brown,0
+2008-11,Justin Timberlake,0
+2008-11,Kings Of Convenience,0
+2008-11,Madonna,0
+2008-11,Otis Redding,0
+2008-11,Placebo,0
+2008-11,Portishead,0
+2008-11,Sneaker Pimps,0
+2008-11,Sonic Youth,0
+2008-11,The Beatles,0
+2008-11,The Flaming Lips,0
+2008-11,Turin Brakes,0
+2008-12,Air,1
+2008-12,Amy Winehouse,1
+2008-12,Cake,0
+2008-12,Chromeo,0
+2008-12,Depeche Mode,0
+2008-12,Elvis Presley,0
+2008-12,Fleetwood Mac,0
+2008-12,Goldfrapp,1
+2008-12,Ian Brown,0
+2008-12,Justin Timberlake,0
+2008-12,Kings Of Convenience,2
+2008-12,Madonna,0
+2008-12,Otis Redding,0
+2008-12,Placebo,0
+2008-12,Portishead,1
+2008-12,Sneaker Pimps,0
+2008-12,Sonic Youth,0
+2008-12,The Beatles,0
+2008-12,The Flaming Lips,0
+2008-12,Turin Brakes,0
+2009-01,Air,0
+2009-01,Amy Winehouse,0
+2009-01,Cake,0
+2009-01,Chromeo,0
+2009-01,Depeche Mode,0
+2009-01,Elvis Presley,0
+2009-01,Fleetwood Mac,0
+2009-01,Goldfrapp,0
+2009-01,Ian Brown,0
+2009-01,Justin Timberlake,0
+2009-01,Kings Of Convenience,0
+2009-01,Madonna,0
+2009-01,Otis Redding,0
+2009-01,Placebo,0
+2009-01,Portishead,0
+2009-01,Sneaker Pimps,0
+2009-01,Sonic Youth,0
+2009-01,The Beatles,0
+2009-01,The Flaming Lips,0
+2009-01,Turin Brakes,0
+2009-02,Air,0
+2009-02,Amy Winehouse,0
+2009-02,Cake,0
+2009-02,Chromeo,0
+2009-02,Depeche Mode,0
+2009-02,Elvis Presley,0
+2009-02,Fleetwood Mac,0
+2009-02,Goldfrapp,0
+2009-02,Ian Brown,0
+2009-02,Justin Timberlake,0
+2009-02,Kings Of Convenience,0
+2009-02,Madonna,0
+2009-02,Otis Redding,0
+2009-02,Placebo,0
+2009-02,Portishead,0
+2009-02,Sneaker Pimps,0
+2009-02,Sonic Youth,0
+2009-02,The Beatles,0
+2009-02,The Flaming Lips,0
+2009-02,Turin Brakes,0
+2009-03,Air,0
+2009-03,Amy Winehouse,0
+2009-03,Cake,0
+2009-03,Chromeo,0
+2009-03,Depeche Mode,0
+2009-03,Elvis Presley,0
+2009-03,Fleetwood Mac,0
+2009-03,Goldfrapp,0
+2009-03,Ian Brown,0
+2009-03,Justin Timberlake,0
+2009-03,Kings Of Convenience,0
+2009-03,Madonna,0
+2009-03,Otis Redding,0
+2009-03,Placebo,0
+2009-03,Portishead,0
+2009-03,Sneaker Pimps,0
+2009-03,Sonic Youth,0
+2009-03,The Beatles,0
+2009-03,The Flaming Lips,0
+2009-03,Turin Brakes,0
+2009-04,Air,0
+2009-04,Amy Winehouse,0
+2009-04,Cake,0
+2009-04,Chromeo,0
+2009-04,Depeche Mode,1
+2009-04,Elvis Presley,0
+2009-04,Fleetwood Mac,0
+2009-04,Goldfrapp,0
+2009-04,Ian Brown,0
+2009-04,Justin Timberlake,0
+2009-04,Kings Of Convenience,1
+2009-04,Madonna,1
+2009-04,Otis Redding,0
+2009-04,Placebo,0
+2009-04,Portishead,0
+2009-04,Sneaker Pimps,0
+2009-04,Sonic Youth,0
+2009-04,The Beatles,0
+2009-04,The Flaming Lips,0
+2009-04,Turin Brakes,1

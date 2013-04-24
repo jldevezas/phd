@@ -1,0 +1,441 @@
+month,artist,plays
+2007-07,Aesop Rock,20
+2007-07,Bad Brains,0
+2007-07,Bear Vs. Shark,0
+2007-07,Billy Idol,14
+2007-07,Buck 65,16
+2007-07,Cky,0
+2007-07,Death From Above 1979,5
+2007-07,Devendra Banhart,95
+2007-07,Iamx,75
+2007-07,Kiss,0
+2007-07,Klaus Nomi,51
+2007-07,Mount Sims,131
+2007-07,Noir Désir,20
+2007-07,Patrick Wolf,225
+2007-07,Rancid,0
+2007-07,Reel Big Fish,1
+2007-07,Sex Pistols,8
+2007-07,The Exploited,0
+2007-07,The Horrors,26
+2007-07,Uk Subs,0
+2007-08,Aesop Rock,3
+2007-08,Bad Brains,0
+2007-08,Bear Vs. Shark,0
+2007-08,Billy Idol,6
+2007-08,Buck 65,14
+2007-08,Cky,0
+2007-08,Death From Above 1979,3
+2007-08,Devendra Banhart,22
+2007-08,Iamx,31
+2007-08,Kiss,0
+2007-08,Klaus Nomi,33
+2007-08,Mount Sims,85
+2007-08,Noir Désir,5
+2007-08,Patrick Wolf,150
+2007-08,Rancid,0
+2007-08,Reel Big Fish,3
+2007-08,Sex Pistols,6
+2007-08,The Exploited,0
+2007-08,The Horrors,3
+2007-08,Uk Subs,0
+2007-09,Aesop Rock,6
+2007-09,Bad Brains,20
+2007-09,Bear Vs. Shark,14
+2007-09,Billy Idol,15
+2007-09,Buck 65,23
+2007-09,Cky,4
+2007-09,Death From Above 1979,8
+2007-09,Devendra Banhart,18
+2007-09,Iamx,9
+2007-09,Kiss,0
+2007-09,Klaus Nomi,33
+2007-09,Mount Sims,69
+2007-09,Noir Désir,5
+2007-09,Patrick Wolf,171
+2007-09,Rancid,0
+2007-09,Reel Big Fish,10
+2007-09,Sex Pistols,25
+2007-09,The Exploited,8
+2007-09,The Horrors,19
+2007-09,Uk Subs,0
+2007-10,Aesop Rock,0
+2007-10,Bad Brains,16
+2007-10,Bear Vs. Shark,17
+2007-10,Billy Idol,19
+2007-10,Buck 65,23
+2007-10,Cky,2
+2007-10,Death From Above 1979,18
+2007-10,Devendra Banhart,23
+2007-10,Iamx,13
+2007-10,Kiss,21
+2007-10,Klaus Nomi,20
+2007-10,Mount Sims,49
+2007-10,Noir Désir,7
+2007-10,Patrick Wolf,110
+2007-10,Rancid,0
+2007-10,Reel Big Fish,10
+2007-10,Sex Pistols,22
+2007-10,The Exploited,11
+2007-10,The Horrors,21
+2007-10,Uk Subs,0
+2007-11,Aesop Rock,3
+2007-11,Bad Brains,7
+2007-11,Bear Vs. Shark,10
+2007-11,Billy Idol,21
+2007-11,Buck 65,90
+2007-11,Cky,3
+2007-11,Death From Above 1979,14
+2007-11,Devendra Banhart,24
+2007-11,Iamx,14
+2007-11,Kiss,41
+2007-11,Klaus Nomi,18
+2007-11,Mount Sims,41
+2007-11,Noir Désir,12
+2007-11,Patrick Wolf,105
+2007-11,Rancid,1
+2007-11,Reel Big Fish,6
+2007-11,Sex Pistols,23
+2007-11,The Exploited,6
+2007-11,The Horrors,17
+2007-11,Uk Subs,20
+2007-12,Aesop Rock,8
+2007-12,Bad Brains,7
+2007-12,Bear Vs. Shark,7
+2007-12,Billy Idol,13
+2007-12,Buck 65,59
+2007-12,Cky,7
+2007-12,Death From Above 1979,12
+2007-12,Devendra Banhart,29
+2007-12,Iamx,15
+2007-12,Kiss,20
+2007-12,Klaus Nomi,19
+2007-12,Mount Sims,60
+2007-12,Noir Désir,8
+2007-12,Patrick Wolf,88
+2007-12,Rancid,1
+2007-12,Reel Big Fish,7
+2007-12,Sex Pistols,20
+2007-12,The Exploited,11
+2007-12,The Horrors,24
+2007-12,Uk Subs,10
+2008-01,Aesop Rock,3
+2008-01,Bad Brains,18
+2008-01,Bear Vs. Shark,8
+2008-01,Billy Idol,4
+2008-01,Buck 65,32
+2008-01,Cky,6
+2008-01,Death From Above 1979,8
+2008-01,Devendra Banhart,6
+2008-01,Iamx,7
+2008-01,Kiss,9
+2008-01,Klaus Nomi,12
+2008-01,Mount Sims,22
+2008-01,Noir Désir,6
+2008-01,Patrick Wolf,39
+2008-01,Rancid,1
+2008-01,Reel Big Fish,3
+2008-01,Sex Pistols,8
+2008-01,The Exploited,10
+2008-01,The Horrors,11
+2008-01,Uk Subs,7
+2008-02,Aesop Rock,2
+2008-02,Bad Brains,20
+2008-02,Bear Vs. Shark,6
+2008-02,Billy Idol,4
+2008-02,Buck 65,15
+2008-02,Cky,12
+2008-02,Death From Above 1979,7
+2008-02,Devendra Banhart,27
+2008-02,Iamx,2
+2008-02,Kiss,13
+2008-02,Klaus Nomi,6
+2008-02,Mount Sims,17
+2008-02,Noir Désir,8
+2008-02,Patrick Wolf,12
+2008-02,Rancid,3
+2008-02,Reel Big Fish,9
+2008-02,Sex Pistols,17
+2008-02,The Exploited,7
+2008-02,The Horrors,14
+2008-02,Uk Subs,119
+2008-03,Aesop Rock,0
+2008-03,Bad Brains,19
+2008-03,Bear Vs. Shark,9
+2008-03,Billy Idol,2
+2008-03,Buck 65,4
+2008-03,Cky,3
+2008-03,Death From Above 1979,6
+2008-03,Devendra Banhart,7
+2008-03,Iamx,7
+2008-03,Kiss,5
+2008-03,Klaus Nomi,4
+2008-03,Mount Sims,10
+2008-03,Noir Désir,6
+2008-03,Patrick Wolf,47
+2008-03,Rancid,32
+2008-03,Reel Big Fish,8
+2008-03,Sex Pistols,22
+2008-03,The Exploited,15
+2008-03,The Horrors,10
+2008-03,Uk Subs,54
+2008-04,Aesop Rock,0
+2008-04,Bad Brains,21
+2008-04,Bear Vs. Shark,4
+2008-04,Billy Idol,1
+2008-04,Buck 65,1
+2008-04,Cky,1
+2008-04,Death From Above 1979,5
+2008-04,Devendra Banhart,3
+2008-04,Iamx,1
+2008-04,Kiss,1
+2008-04,Klaus Nomi,3
+2008-04,Mount Sims,4
+2008-04,Noir Désir,2
+2008-04,Patrick Wolf,16
+2008-04,Rancid,4
+2008-04,Reel Big Fish,2
+2008-04,Sex Pistols,11
+2008-04,The Exploited,3
+2008-04,The Horrors,4
+2008-04,Uk Subs,17
+2008-05,Aesop Rock,0
+2008-05,Bad Brains,4
+2008-05,Bear Vs. Shark,4
+2008-05,Billy Idol,2
+2008-05,Buck 65,20
+2008-05,Cky,6
+2008-05,Death From Above 1979,8
+2008-05,Devendra Banhart,18
+2008-05,Iamx,8
+2008-05,Kiss,3
+2008-05,Klaus Nomi,2
+2008-05,Mount Sims,9
+2008-05,Noir Désir,8
+2008-05,Patrick Wolf,28
+2008-05,Rancid,51
+2008-05,Reel Big Fish,5
+2008-05,Sex Pistols,9
+2008-05,The Exploited,5
+2008-05,The Horrors,6
+2008-05,Uk Subs,16
+2008-06,Aesop Rock,1
+2008-06,Bad Brains,6
+2008-06,Bear Vs. Shark,0
+2008-06,Billy Idol,1
+2008-06,Buck 65,11
+2008-06,Cky,1
+2008-06,Death From Above 1979,0
+2008-06,Devendra Banhart,6
+2008-06,Iamx,2
+2008-06,Kiss,3
+2008-06,Klaus Nomi,1
+2008-06,Mount Sims,3
+2008-06,Noir Désir,3
+2008-06,Patrick Wolf,7
+2008-06,Rancid,64
+2008-06,Reel Big Fish,2
+2008-06,Sex Pistols,4
+2008-06,The Exploited,22
+2008-06,The Horrors,4
+2008-06,Uk Subs,4
+2008-07,Aesop Rock,0
+2008-07,Bad Brains,1
+2008-07,Bear Vs. Shark,1
+2008-07,Billy Idol,0
+2008-07,Buck 65,1
+2008-07,Cky,0
+2008-07,Death From Above 1979,0
+2008-07,Devendra Banhart,0
+2008-07,Iamx,0
+2008-07,Kiss,0
+2008-07,Klaus Nomi,0
+2008-07,Mount Sims,1
+2008-07,Noir Désir,0
+2008-07,Patrick Wolf,0
+2008-07,Rancid,1
+2008-07,Reel Big Fish,0
+2008-07,Sex Pistols,0
+2008-07,The Exploited,0
+2008-07,The Horrors,0
+2008-07,Uk Subs,0
+2008-08,Aesop Rock,18
+2008-08,Bad Brains,0
+2008-08,Bear Vs. Shark,1
+2008-08,Billy Idol,1
+2008-08,Buck 65,2
+2008-08,Cky,0
+2008-08,Death From Above 1979,2
+2008-08,Devendra Banhart,1
+2008-08,Iamx,1
+2008-08,Kiss,0
+2008-08,Klaus Nomi,0
+2008-08,Mount Sims,1
+2008-08,Noir Désir,1
+2008-08,Patrick Wolf,0
+2008-08,Rancid,1
+2008-08,Reel Big Fish,1
+2008-08,Sex Pistols,1
+2008-08,The Exploited,2
+2008-08,The Horrors,0
+2008-08,Uk Subs,2
+2008-09,Aesop Rock,4
+2008-09,Bad Brains,1
+2008-09,Bear Vs. Shark,2
+2008-09,Billy Idol,0
+2008-09,Buck 65,0
+2008-09,Cky,0
+2008-09,Death From Above 1979,1
+2008-09,Devendra Banhart,4
+2008-09,Iamx,1
+2008-09,Kiss,3
+2008-09,Klaus Nomi,1
+2008-09,Mount Sims,4
+2008-09,Noir Désir,1
+2008-09,Patrick Wolf,14
+2008-09,Rancid,4
+2008-09,Reel Big Fish,2
+2008-09,Sex Pistols,4
+2008-09,The Exploited,10
+2008-09,The Horrors,4
+2008-09,Uk Subs,4
+2008-10,Aesop Rock,6
+2008-10,Bad Brains,15
+2008-10,Bear Vs. Shark,0
+2008-10,Billy Idol,1
+2008-10,Buck 65,3
+2008-10,Cky,2
+2008-10,Death From Above 1979,2
+2008-10,Devendra Banhart,3
+2008-10,Iamx,3
+2008-10,Kiss,1
+2008-10,Klaus Nomi,2
+2008-10,Mount Sims,8
+2008-10,Noir Désir,5
+2008-10,Patrick Wolf,128
+2008-10,Rancid,6
+2008-10,Reel Big Fish,1
+2008-10,Sex Pistols,0
+2008-10,The Exploited,12
+2008-10,The Horrors,4
+2008-10,Uk Subs,8
+2008-11,Aesop Rock,3
+2008-11,Bad Brains,7
+2008-11,Bear Vs. Shark,4
+2008-11,Billy Idol,4
+2008-11,Buck 65,13
+2008-11,Cky,1
+2008-11,Death From Above 1979,2
+2008-11,Devendra Banhart,2
+2008-11,Iamx,3
+2008-11,Kiss,1
+2008-11,Klaus Nomi,0
+2008-11,Mount Sims,7
+2008-11,Noir Désir,1
+2008-11,Patrick Wolf,7
+2008-11,Rancid,7
+2008-11,Reel Big Fish,0
+2008-11,Sex Pistols,4
+2008-11,The Exploited,9
+2008-11,The Horrors,2
+2008-11,Uk Subs,5
+2008-12,Aesop Rock,9
+2008-12,Bad Brains,18
+2008-12,Bear Vs. Shark,0
+2008-12,Billy Idol,0
+2008-12,Buck 65,0
+2008-12,Cky,1
+2008-12,Death From Above 1979,1
+2008-12,Devendra Banhart,2
+2008-12,Iamx,0
+2008-12,Kiss,2
+2008-12,Klaus Nomi,2
+2008-12,Mount Sims,3
+2008-12,Noir Désir,0
+2008-12,Patrick Wolf,4
+2008-12,Rancid,5
+2008-12,Reel Big Fish,1
+2008-12,Sex Pistols,1
+2008-12,The Exploited,2
+2008-12,The Horrors,1
+2008-12,Uk Subs,1
+2009-01,Aesop Rock,0
+2009-01,Bad Brains,1
+2009-01,Bear Vs. Shark,0
+2009-01,Billy Idol,0
+2009-01,Buck 65,0
+2009-01,Cky,0
+2009-01,Death From Above 1979,0
+2009-01,Devendra Banhart,0
+2009-01,Iamx,0
+2009-01,Kiss,2
+2009-01,Klaus Nomi,0
+2009-01,Mount Sims,2
+2009-01,Noir Désir,0
+2009-01,Patrick Wolf,0
+2009-01,Rancid,0
+2009-01,Reel Big Fish,0
+2009-01,Sex Pistols,0
+2009-01,The Exploited,2
+2009-01,The Horrors,0
+2009-01,Uk Subs,2
+2009-02,Aesop Rock,0
+2009-02,Bad Brains,0
+2009-02,Bear Vs. Shark,0
+2009-02,Billy Idol,0
+2009-02,Buck 65,0
+2009-02,Cky,0
+2009-02,Death From Above 1979,0
+2009-02,Devendra Banhart,0
+2009-02,Iamx,0
+2009-02,Kiss,0
+2009-02,Klaus Nomi,0
+2009-02,Mount Sims,0
+2009-02,Noir Désir,0
+2009-02,Patrick Wolf,0
+2009-02,Rancid,0
+2009-02,Reel Big Fish,0
+2009-02,Sex Pistols,0
+2009-02,The Exploited,0
+2009-02,The Horrors,0
+2009-02,Uk Subs,0
+2009-03,Aesop Rock,15
+2009-03,Bad Brains,28
+2009-03,Bear Vs. Shark,4
+2009-03,Billy Idol,0
+2009-03,Buck 65,2
+2009-03,Cky,1
+2009-03,Death From Above 1979,0
+2009-03,Devendra Banhart,0
+2009-03,Iamx,0
+2009-03,Kiss,12
+2009-03,Klaus Nomi,0
+2009-03,Mount Sims,0
+2009-03,Noir Désir,0
+2009-03,Patrick Wolf,0
+2009-03,Rancid,20
+2009-03,Reel Big Fish,0
+2009-03,Sex Pistols,10
+2009-03,The Exploited,20
+2009-03,The Horrors,0
+2009-03,Uk Subs,11
+2009-04,Aesop Rock,13
+2009-04,Bad Brains,10
+2009-04,Bear Vs. Shark,3
+2009-04,Billy Idol,0
+2009-04,Buck 65,11
+2009-04,Cky,1
+2009-04,Death From Above 1979,0
+2009-04,Devendra Banhart,0
+2009-04,Iamx,0
+2009-04,Kiss,2
+2009-04,Klaus Nomi,0
+2009-04,Mount Sims,0
+2009-04,Noir Désir,0
+2009-04,Patrick Wolf,0
+2009-04,Rancid,2
+2009-04,Reel Big Fish,0
+2009-04,Sex Pistols,4
+2009-04,The Exploited,3
+2009-04,The Horrors,0
+2009-04,Uk Subs,2

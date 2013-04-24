@@ -1,0 +1,761 @@
+month,artist,plays
+2006-03,Aimee Mann,1
+2006-03,Air,4
+2006-03,Arcade Fire,0
+2006-03,Cranes,0
+2006-03,Death Cab For Cutie,0
+2006-03,Delerium,1
+2006-03,Doves,1
+2006-03,Esthero,3
+2006-03,Faithless,1
+2006-03,Feist,1
+2006-03,Goldfrapp,5
+2006-03,Iron & Wine,0
+2006-03,Ivy,0
+2006-03,James,1
+2006-03,Kasabian,1
+2006-03,Lovage,3
+2006-03,Massive Attack,4
+2006-03,Moby,1
+2006-03,Radiohead,1
+2006-03,Thievery Corporation,4
+2006-04,Aimee Mann,14
+2006-04,Air,13
+2006-04,Arcade Fire,2
+2006-04,Cranes,0
+2006-04,Death Cab For Cutie,3
+2006-04,Delerium,5
+2006-04,Doves,13
+2006-04,Esthero,13
+2006-04,Faithless,5
+2006-04,Feist,10
+2006-04,Goldfrapp,16
+2006-04,Iron & Wine,2
+2006-04,Ivy,13
+2006-04,James,11
+2006-04,Kasabian,10
+2006-04,Lovage,1
+2006-04,Massive Attack,5
+2006-04,Moby,6
+2006-04,Radiohead,3
+2006-04,Thievery Corporation,15
+2006-05,Aimee Mann,1
+2006-05,Air,1
+2006-05,Arcade Fire,1
+2006-05,Cranes,0
+2006-05,Death Cab For Cutie,1
+2006-05,Delerium,0
+2006-05,Doves,1
+2006-05,Esthero,1
+2006-05,Faithless,0
+2006-05,Feist,1
+2006-05,Goldfrapp,1
+2006-05,Iron & Wine,1
+2006-05,Ivy,1
+2006-05,James,1
+2006-05,Kasabian,1
+2006-05,Lovage,0
+2006-05,Massive Attack,0
+2006-05,Moby,0
+2006-05,Radiohead,1
+2006-05,Thievery Corporation,1
+2006-06,Aimee Mann,0
+2006-06,Air,0
+2006-06,Arcade Fire,0
+2006-06,Cranes,0
+2006-06,Death Cab For Cutie,0
+2006-06,Delerium,0
+2006-06,Doves,0
+2006-06,Esthero,0
+2006-06,Faithless,0
+2006-06,Feist,0
+2006-06,Goldfrapp,0
+2006-06,Iron & Wine,0
+2006-06,Ivy,0
+2006-06,James,0
+2006-06,Kasabian,0
+2006-06,Lovage,0
+2006-06,Massive Attack,0
+2006-06,Moby,0
+2006-06,Radiohead,0
+2006-06,Thievery Corporation,0
+2006-07,Aimee Mann,0
+2006-07,Air,0
+2006-07,Arcade Fire,0
+2006-07,Cranes,0
+2006-07,Death Cab For Cutie,0
+2006-07,Delerium,0
+2006-07,Doves,0
+2006-07,Esthero,0
+2006-07,Faithless,0
+2006-07,Feist,0
+2006-07,Goldfrapp,0
+2006-07,Iron & Wine,0
+2006-07,Ivy,0
+2006-07,James,0
+2006-07,Kasabian,0
+2006-07,Lovage,0
+2006-07,Massive Attack,0
+2006-07,Moby,0
+2006-07,Radiohead,0
+2006-07,Thievery Corporation,0
+2006-08,Aimee Mann,0
+2006-08,Air,0
+2006-08,Arcade Fire,0
+2006-08,Cranes,0
+2006-08,Death Cab For Cutie,0
+2006-08,Delerium,0
+2006-08,Doves,0
+2006-08,Esthero,0
+2006-08,Faithless,0
+2006-08,Feist,0
+2006-08,Goldfrapp,0
+2006-08,Iron & Wine,0
+2006-08,Ivy,0
+2006-08,James,0
+2006-08,Kasabian,0
+2006-08,Lovage,0
+2006-08,Massive Attack,0
+2006-08,Moby,0
+2006-08,Radiohead,0
+2006-08,Thievery Corporation,0
+2006-09,Aimee Mann,0
+2006-09,Air,0
+2006-09,Arcade Fire,0
+2006-09,Cranes,0
+2006-09,Death Cab For Cutie,0
+2006-09,Delerium,0
+2006-09,Doves,0
+2006-09,Esthero,0
+2006-09,Faithless,0
+2006-09,Feist,0
+2006-09,Goldfrapp,0
+2006-09,Iron & Wine,0
+2006-09,Ivy,0
+2006-09,James,0
+2006-09,Kasabian,0
+2006-09,Lovage,0
+2006-09,Massive Attack,0
+2006-09,Moby,0
+2006-09,Radiohead,0
+2006-09,Thievery Corporation,0
+2006-10,Aimee Mann,0
+2006-10,Air,0
+2006-10,Arcade Fire,0
+2006-10,Cranes,0
+2006-10,Death Cab For Cutie,0
+2006-10,Delerium,0
+2006-10,Doves,0
+2006-10,Esthero,0
+2006-10,Faithless,0
+2006-10,Feist,0
+2006-10,Goldfrapp,0
+2006-10,Iron & Wine,0
+2006-10,Ivy,0
+2006-10,James,0
+2006-10,Kasabian,0
+2006-10,Lovage,0
+2006-10,Massive Attack,0
+2006-10,Moby,0
+2006-10,Radiohead,0
+2006-10,Thievery Corporation,0
+2006-11,Aimee Mann,0
+2006-11,Air,0
+2006-11,Arcade Fire,0
+2006-11,Cranes,0
+2006-11,Death Cab For Cutie,0
+2006-11,Delerium,0
+2006-11,Doves,0
+2006-11,Esthero,0
+2006-11,Faithless,0
+2006-11,Feist,0
+2006-11,Goldfrapp,0
+2006-11,Iron & Wine,0
+2006-11,Ivy,0
+2006-11,James,0
+2006-11,Kasabian,0
+2006-11,Lovage,0
+2006-11,Massive Attack,0
+2006-11,Moby,0
+2006-11,Radiohead,0
+2006-11,Thievery Corporation,0
+2006-12,Aimee Mann,0
+2006-12,Air,0
+2006-12,Arcade Fire,0
+2006-12,Cranes,0
+2006-12,Death Cab For Cutie,0
+2006-12,Delerium,0
+2006-12,Doves,0
+2006-12,Esthero,0
+2006-12,Faithless,0
+2006-12,Feist,0
+2006-12,Goldfrapp,0
+2006-12,Iron & Wine,0
+2006-12,Ivy,0
+2006-12,James,0
+2006-12,Kasabian,0
+2006-12,Lovage,0
+2006-12,Massive Attack,0
+2006-12,Moby,0
+2006-12,Radiohead,0
+2006-12,Thievery Corporation,0
+2007-01,Aimee Mann,0
+2007-01,Air,0
+2007-01,Arcade Fire,0
+2007-01,Cranes,0
+2007-01,Death Cab For Cutie,0
+2007-01,Delerium,0
+2007-01,Doves,0
+2007-01,Esthero,0
+2007-01,Faithless,0
+2007-01,Feist,0
+2007-01,Goldfrapp,0
+2007-01,Iron & Wine,0
+2007-01,Ivy,0
+2007-01,James,0
+2007-01,Kasabian,0
+2007-01,Lovage,0
+2007-01,Massive Attack,0
+2007-01,Moby,0
+2007-01,Radiohead,0
+2007-01,Thievery Corporation,0
+2007-02,Aimee Mann,0
+2007-02,Air,0
+2007-02,Arcade Fire,0
+2007-02,Cranes,0
+2007-02,Death Cab For Cutie,0
+2007-02,Delerium,0
+2007-02,Doves,0
+2007-02,Esthero,0
+2007-02,Faithless,0
+2007-02,Feist,0
+2007-02,Goldfrapp,0
+2007-02,Iron & Wine,0
+2007-02,Ivy,0
+2007-02,James,0
+2007-02,Kasabian,0
+2007-02,Lovage,0
+2007-02,Massive Attack,0
+2007-02,Moby,0
+2007-02,Radiohead,0
+2007-02,Thievery Corporation,0
+2007-03,Aimee Mann,0
+2007-03,Air,0
+2007-03,Arcade Fire,0
+2007-03,Cranes,0
+2007-03,Death Cab For Cutie,0
+2007-03,Delerium,0
+2007-03,Doves,0
+2007-03,Esthero,0
+2007-03,Faithless,0
+2007-03,Feist,0
+2007-03,Goldfrapp,0
+2007-03,Iron & Wine,0
+2007-03,Ivy,0
+2007-03,James,0
+2007-03,Kasabian,0
+2007-03,Lovage,0
+2007-03,Massive Attack,0
+2007-03,Moby,0
+2007-03,Radiohead,0
+2007-03,Thievery Corporation,0
+2007-04,Aimee Mann,0
+2007-04,Air,0
+2007-04,Arcade Fire,0
+2007-04,Cranes,0
+2007-04,Death Cab For Cutie,0
+2007-04,Delerium,0
+2007-04,Doves,0
+2007-04,Esthero,0
+2007-04,Faithless,0
+2007-04,Feist,0
+2007-04,Goldfrapp,0
+2007-04,Iron & Wine,0
+2007-04,Ivy,0
+2007-04,James,0
+2007-04,Kasabian,0
+2007-04,Lovage,0
+2007-04,Massive Attack,0
+2007-04,Moby,0
+2007-04,Radiohead,0
+2007-04,Thievery Corporation,0
+2007-05,Aimee Mann,0
+2007-05,Air,0
+2007-05,Arcade Fire,0
+2007-05,Cranes,0
+2007-05,Death Cab For Cutie,0
+2007-05,Delerium,0
+2007-05,Doves,0
+2007-05,Esthero,0
+2007-05,Faithless,0
+2007-05,Feist,0
+2007-05,Goldfrapp,0
+2007-05,Iron & Wine,0
+2007-05,Ivy,0
+2007-05,James,0
+2007-05,Kasabian,0
+2007-05,Lovage,0
+2007-05,Massive Attack,0
+2007-05,Moby,0
+2007-05,Radiohead,0
+2007-05,Thievery Corporation,0
+2007-06,Aimee Mann,0
+2007-06,Air,0
+2007-06,Arcade Fire,0
+2007-06,Cranes,0
+2007-06,Death Cab For Cutie,0
+2007-06,Delerium,0
+2007-06,Doves,0
+2007-06,Esthero,0
+2007-06,Faithless,0
+2007-06,Feist,0
+2007-06,Goldfrapp,0
+2007-06,Iron & Wine,0
+2007-06,Ivy,0
+2007-06,James,0
+2007-06,Kasabian,0
+2007-06,Lovage,0
+2007-06,Massive Attack,0
+2007-06,Moby,0
+2007-06,Radiohead,0
+2007-06,Thievery Corporation,0
+2007-07,Aimee Mann,0
+2007-07,Air,0
+2007-07,Arcade Fire,0
+2007-07,Cranes,0
+2007-07,Death Cab For Cutie,0
+2007-07,Delerium,0
+2007-07,Doves,0
+2007-07,Esthero,0
+2007-07,Faithless,0
+2007-07,Feist,0
+2007-07,Goldfrapp,0
+2007-07,Iron & Wine,0
+2007-07,Ivy,0
+2007-07,James,0
+2007-07,Kasabian,0
+2007-07,Lovage,0
+2007-07,Massive Attack,0
+2007-07,Moby,0
+2007-07,Radiohead,0
+2007-07,Thievery Corporation,0
+2007-08,Aimee Mann,0
+2007-08,Air,0
+2007-08,Arcade Fire,0
+2007-08,Cranes,0
+2007-08,Death Cab For Cutie,0
+2007-08,Delerium,0
+2007-08,Doves,0
+2007-08,Esthero,0
+2007-08,Faithless,0
+2007-08,Feist,0
+2007-08,Goldfrapp,0
+2007-08,Iron & Wine,0
+2007-08,Ivy,0
+2007-08,James,0
+2007-08,Kasabian,0
+2007-08,Lovage,0
+2007-08,Massive Attack,0
+2007-08,Moby,0
+2007-08,Radiohead,0
+2007-08,Thievery Corporation,0
+2007-09,Aimee Mann,0
+2007-09,Air,0
+2007-09,Arcade Fire,0
+2007-09,Cranes,0
+2007-09,Death Cab For Cutie,0
+2007-09,Delerium,0
+2007-09,Doves,0
+2007-09,Esthero,0
+2007-09,Faithless,0
+2007-09,Feist,0
+2007-09,Goldfrapp,0
+2007-09,Iron & Wine,0
+2007-09,Ivy,0
+2007-09,James,0
+2007-09,Kasabian,0
+2007-09,Lovage,0
+2007-09,Massive Attack,0
+2007-09,Moby,0
+2007-09,Radiohead,0
+2007-09,Thievery Corporation,0
+2007-10,Aimee Mann,0
+2007-10,Air,0
+2007-10,Arcade Fire,0
+2007-10,Cranes,0
+2007-10,Death Cab For Cutie,0
+2007-10,Delerium,0
+2007-10,Doves,0
+2007-10,Esthero,0
+2007-10,Faithless,0
+2007-10,Feist,0
+2007-10,Goldfrapp,0
+2007-10,Iron & Wine,0
+2007-10,Ivy,0
+2007-10,James,0
+2007-10,Kasabian,0
+2007-10,Lovage,0
+2007-10,Massive Attack,0
+2007-10,Moby,0
+2007-10,Radiohead,0
+2007-10,Thievery Corporation,0
+2007-11,Aimee Mann,0
+2007-11,Air,0
+2007-11,Arcade Fire,0
+2007-11,Cranes,0
+2007-11,Death Cab For Cutie,0
+2007-11,Delerium,0
+2007-11,Doves,0
+2007-11,Esthero,0
+2007-11,Faithless,0
+2007-11,Feist,0
+2007-11,Goldfrapp,0
+2007-11,Iron & Wine,0
+2007-11,Ivy,0
+2007-11,James,0
+2007-11,Kasabian,0
+2007-11,Lovage,0
+2007-11,Massive Attack,0
+2007-11,Moby,0
+2007-11,Radiohead,0
+2007-11,Thievery Corporation,0
+2007-12,Aimee Mann,0
+2007-12,Air,0
+2007-12,Arcade Fire,0
+2007-12,Cranes,0
+2007-12,Death Cab For Cutie,0
+2007-12,Delerium,0
+2007-12,Doves,0
+2007-12,Esthero,0
+2007-12,Faithless,0
+2007-12,Feist,0
+2007-12,Goldfrapp,0
+2007-12,Iron & Wine,0
+2007-12,Ivy,0
+2007-12,James,0
+2007-12,Kasabian,0
+2007-12,Lovage,0
+2007-12,Massive Attack,0
+2007-12,Moby,0
+2007-12,Radiohead,0
+2007-12,Thievery Corporation,0
+2008-01,Aimee Mann,0
+2008-01,Air,0
+2008-01,Arcade Fire,0
+2008-01,Cranes,0
+2008-01,Death Cab For Cutie,0
+2008-01,Delerium,0
+2008-01,Doves,0
+2008-01,Esthero,0
+2008-01,Faithless,0
+2008-01,Feist,0
+2008-01,Goldfrapp,0
+2008-01,Iron & Wine,0
+2008-01,Ivy,0
+2008-01,James,0
+2008-01,Kasabian,0
+2008-01,Lovage,0
+2008-01,Massive Attack,0
+2008-01,Moby,0
+2008-01,Radiohead,0
+2008-01,Thievery Corporation,0
+2008-02,Aimee Mann,0
+2008-02,Air,0
+2008-02,Arcade Fire,0
+2008-02,Cranes,0
+2008-02,Death Cab For Cutie,0
+2008-02,Delerium,0
+2008-02,Doves,0
+2008-02,Esthero,0
+2008-02,Faithless,0
+2008-02,Feist,0
+2008-02,Goldfrapp,0
+2008-02,Iron & Wine,0
+2008-02,Ivy,0
+2008-02,James,0
+2008-02,Kasabian,0
+2008-02,Lovage,0
+2008-02,Massive Attack,0
+2008-02,Moby,0
+2008-02,Radiohead,0
+2008-02,Thievery Corporation,0
+2008-03,Aimee Mann,0
+2008-03,Air,0
+2008-03,Arcade Fire,0
+2008-03,Cranes,0
+2008-03,Death Cab For Cutie,0
+2008-03,Delerium,0
+2008-03,Doves,0
+2008-03,Esthero,0
+2008-03,Faithless,0
+2008-03,Feist,0
+2008-03,Goldfrapp,0
+2008-03,Iron & Wine,0
+2008-03,Ivy,0
+2008-03,James,0
+2008-03,Kasabian,0
+2008-03,Lovage,0
+2008-03,Massive Attack,0
+2008-03,Moby,0
+2008-03,Radiohead,0
+2008-03,Thievery Corporation,0
+2008-04,Aimee Mann,0
+2008-04,Air,0
+2008-04,Arcade Fire,0
+2008-04,Cranes,0
+2008-04,Death Cab For Cutie,0
+2008-04,Delerium,0
+2008-04,Doves,0
+2008-04,Esthero,0
+2008-04,Faithless,0
+2008-04,Feist,0
+2008-04,Goldfrapp,0
+2008-04,Iron & Wine,0
+2008-04,Ivy,0
+2008-04,James,0
+2008-04,Kasabian,0
+2008-04,Lovage,0
+2008-04,Massive Attack,0
+2008-04,Moby,0
+2008-04,Radiohead,0
+2008-04,Thievery Corporation,0
+2008-05,Aimee Mann,0
+2008-05,Air,0
+2008-05,Arcade Fire,0
+2008-05,Cranes,0
+2008-05,Death Cab For Cutie,0
+2008-05,Delerium,0
+2008-05,Doves,0
+2008-05,Esthero,0
+2008-05,Faithless,0
+2008-05,Feist,0
+2008-05,Goldfrapp,0
+2008-05,Iron & Wine,0
+2008-05,Ivy,0
+2008-05,James,0
+2008-05,Kasabian,0
+2008-05,Lovage,0
+2008-05,Massive Attack,0
+2008-05,Moby,0
+2008-05,Radiohead,0
+2008-05,Thievery Corporation,0
+2008-06,Aimee Mann,0
+2008-06,Air,0
+2008-06,Arcade Fire,0
+2008-06,Cranes,0
+2008-06,Death Cab For Cutie,0
+2008-06,Delerium,0
+2008-06,Doves,0
+2008-06,Esthero,0
+2008-06,Faithless,0
+2008-06,Feist,0
+2008-06,Goldfrapp,0
+2008-06,Iron & Wine,0
+2008-06,Ivy,0
+2008-06,James,0
+2008-06,Kasabian,0
+2008-06,Lovage,0
+2008-06,Massive Attack,0
+2008-06,Moby,0
+2008-06,Radiohead,0
+2008-06,Thievery Corporation,0
+2008-07,Aimee Mann,0
+2008-07,Air,0
+2008-07,Arcade Fire,0
+2008-07,Cranes,0
+2008-07,Death Cab For Cutie,0
+2008-07,Delerium,0
+2008-07,Doves,0
+2008-07,Esthero,0
+2008-07,Faithless,0
+2008-07,Feist,0
+2008-07,Goldfrapp,0
+2008-07,Iron & Wine,0
+2008-07,Ivy,0
+2008-07,James,0
+2008-07,Kasabian,0
+2008-07,Lovage,0
+2008-07,Massive Attack,0
+2008-07,Moby,0
+2008-07,Radiohead,0
+2008-07,Thievery Corporation,0
+2008-08,Aimee Mann,0
+2008-08,Air,0
+2008-08,Arcade Fire,0
+2008-08,Cranes,0
+2008-08,Death Cab For Cutie,0
+2008-08,Delerium,0
+2008-08,Doves,0
+2008-08,Esthero,0
+2008-08,Faithless,0
+2008-08,Feist,0
+2008-08,Goldfrapp,0
+2008-08,Iron & Wine,0
+2008-08,Ivy,0
+2008-08,James,0
+2008-08,Kasabian,0
+2008-08,Lovage,0
+2008-08,Massive Attack,0
+2008-08,Moby,0
+2008-08,Radiohead,0
+2008-08,Thievery Corporation,0
+2008-09,Aimee Mann,0
+2008-09,Air,0
+2008-09,Arcade Fire,0
+2008-09,Cranes,0
+2008-09,Death Cab For Cutie,0
+2008-09,Delerium,0
+2008-09,Doves,0
+2008-09,Esthero,0
+2008-09,Faithless,0
+2008-09,Feist,0
+2008-09,Goldfrapp,0
+2008-09,Iron & Wine,0
+2008-09,Ivy,0
+2008-09,James,0
+2008-09,Kasabian,0
+2008-09,Lovage,0
+2008-09,Massive Attack,0
+2008-09,Moby,0
+2008-09,Radiohead,0
+2008-09,Thievery Corporation,0
+2008-10,Aimee Mann,0
+2008-10,Air,0
+2008-10,Arcade Fire,0
+2008-10,Cranes,0
+2008-10,Death Cab For Cutie,0
+2008-10,Delerium,0
+2008-10,Doves,0
+2008-10,Esthero,0
+2008-10,Faithless,0
+2008-10,Feist,0
+2008-10,Goldfrapp,0
+2008-10,Iron & Wine,0
+2008-10,Ivy,0
+2008-10,James,0
+2008-10,Kasabian,0
+2008-10,Lovage,0
+2008-10,Massive Attack,0
+2008-10,Moby,0
+2008-10,Radiohead,0
+2008-10,Thievery Corporation,0
+2008-11,Aimee Mann,0
+2008-11,Air,0
+2008-11,Arcade Fire,0
+2008-11,Cranes,0
+2008-11,Death Cab For Cutie,0
+2008-11,Delerium,0
+2008-11,Doves,0
+2008-11,Esthero,0
+2008-11,Faithless,0
+2008-11,Feist,0
+2008-11,Goldfrapp,0
+2008-11,Iron & Wine,0
+2008-11,Ivy,0
+2008-11,James,0
+2008-11,Kasabian,0
+2008-11,Lovage,0
+2008-11,Massive Attack,0
+2008-11,Moby,0
+2008-11,Radiohead,0
+2008-11,Thievery Corporation,0
+2008-12,Aimee Mann,1
+2008-12,Air,0
+2008-12,Arcade Fire,1
+2008-12,Cranes,1
+2008-12,Death Cab For Cutie,3
+2008-12,Delerium,1
+2008-12,Doves,0
+2008-12,Esthero,0
+2008-12,Faithless,3
+2008-12,Feist,3
+2008-12,Goldfrapp,0
+2008-12,Iron & Wine,1
+2008-12,Ivy,1
+2008-12,James,0
+2008-12,Kasabian,0
+2008-12,Lovage,1
+2008-12,Massive Attack,4
+2008-12,Moby,1
+2008-12,Radiohead,4
+2008-12,Thievery Corporation,1
+2009-01,Aimee Mann,3
+2009-01,Air,2
+2009-01,Arcade Fire,5
+2009-01,Cranes,1
+2009-01,Death Cab For Cutie,10
+2009-01,Delerium,3
+2009-01,Doves,1
+2009-01,Esthero,1
+2009-01,Faithless,35
+2009-01,Feist,29
+2009-01,Goldfrapp,1
+2009-01,Iron & Wine,2
+2009-01,Ivy,8
+2009-01,James,1
+2009-01,Kasabian,1
+2009-01,Lovage,1
+2009-01,Massive Attack,6
+2009-01,Moby,18
+2009-01,Radiohead,15
+2009-01,Thievery Corporation,3
+2009-02,Aimee Mann,0
+2009-02,Air,0
+2009-02,Arcade Fire,1
+2009-02,Cranes,1
+2009-02,Death Cab For Cutie,1
+2009-02,Delerium,0
+2009-02,Doves,0
+2009-02,Esthero,0
+2009-02,Faithless,0
+2009-02,Feist,1
+2009-02,Goldfrapp,0
+2009-02,Iron & Wine,0
+2009-02,Ivy,1
+2009-02,James,0
+2009-02,Kasabian,0
+2009-02,Lovage,0
+2009-02,Massive Attack,0
+2009-02,Moby,1
+2009-02,Radiohead,0
+2009-02,Thievery Corporation,0
+2009-03,Aimee Mann,0
+2009-03,Air,0
+2009-03,Arcade Fire,0
+2009-03,Cranes,0
+2009-03,Death Cab For Cutie,0
+2009-03,Delerium,0
+2009-03,Doves,0
+2009-03,Esthero,0
+2009-03,Faithless,0
+2009-03,Feist,0
+2009-03,Goldfrapp,0
+2009-03,Iron & Wine,0
+2009-03,Ivy,0
+2009-03,James,0
+2009-03,Kasabian,0
+2009-03,Lovage,0
+2009-03,Massive Attack,0
+2009-03,Moby,0
+2009-03,Radiohead,0
+2009-03,Thievery Corporation,0
+2009-04,Aimee Mann,1
+2009-04,Air,1
+2009-04,Arcade Fire,0
+2009-04,Cranes,1
+2009-04,Death Cab For Cutie,5
+2009-04,Delerium,0
+2009-04,Doves,0
+2009-04,Esthero,0
+2009-04,Faithless,0
+2009-04,Feist,0
+2009-04,Goldfrapp,0
+2009-04,Iron & Wine,0
+2009-04,Ivy,0
+2009-04,James,0
+2009-04,Kasabian,0
+2009-04,Lovage,0
+2009-04,Massive Attack,0
+2009-04,Moby,0
+2009-04,Radiohead,0
+2009-04,Thievery Corporation,0

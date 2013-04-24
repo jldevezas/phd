@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Adam Green,0
+2006-02,Alkaline Trio,5
+2006-02,Babyshambles,37
+2006-02,Bedouin Soundclash,0
+2006-02,Bell X1,0
+2006-02,Ben Harper,0
+2006-02,Bloc Party,17
+2006-02,Brand New,0
+2006-02,Bright Eyes,0
+2006-02,Coldplay,1
+2006-02,Damien Rice,0
+2006-02,Death Cab For Cutie,1
+2006-02,Jimmy Eat World,0
+2006-02,Kettcar,2
+2006-02,Oasis,0
+2006-02,Snow Patrol,0
+2006-02,The Clash,2
+2006-02,The Kooks,0
+2006-02,The Libertines,41
+2006-02,The Shins,0
+2006-03,Adam Green,0
+2006-03,Alkaline Trio,29
+2006-03,Babyshambles,63
+2006-03,Bedouin Soundclash,0
+2006-03,Bell X1,0
+2006-03,Ben Harper,11
+2006-03,Bloc Party,36
+2006-03,Brand New,6
+2006-03,Bright Eyes,9
+2006-03,Coldplay,14
+2006-03,Damien Rice,0
+2006-03,Death Cab For Cutie,5
+2006-03,Jimmy Eat World,15
+2006-03,Kettcar,10
+2006-03,Oasis,60
+2006-03,Snow Patrol,2
+2006-03,The Clash,7
+2006-03,The Kooks,0
+2006-03,The Libertines,138
+2006-03,The Shins,8
+2006-04,Adam Green,0
+2006-04,Alkaline Trio,11
+2006-04,Babyshambles,117
+2006-04,Bedouin Soundclash,0
+2006-04,Bell X1,0
+2006-04,Ben Harper,11
+2006-04,Bloc Party,30
+2006-04,Brand New,9
+2006-04,Bright Eyes,23
+2006-04,Coldplay,28
+2006-04,Damien Rice,0
+2006-04,Death Cab For Cutie,76
+2006-04,Jimmy Eat World,8
+2006-04,Kettcar,37
+2006-04,Oasis,26
+2006-04,Snow Patrol,50
+2006-04,The Clash,13
+2006-04,The Kooks,44
+2006-04,The Libertines,172
+2006-04,The Shins,7
+2006-05,Adam Green,34
+2006-05,Alkaline Trio,19
+2006-05,Babyshambles,346
+2006-05,Bedouin Soundclash,1
+2006-05,Bell X1,0
+2006-05,Ben Harper,10
+2006-05,Bloc Party,16
+2006-05,Brand New,19
+2006-05,Bright Eyes,9
+2006-05,Coldplay,18
+2006-05,Damien Rice,0
+2006-05,Death Cab For Cutie,53
+2006-05,Jimmy Eat World,6
+2006-05,Kettcar,10
+2006-05,Oasis,4
+2006-05,Snow Patrol,36
+2006-05,The Clash,8
+2006-05,The Kooks,29
+2006-05,The Libertines,293
+2006-05,The Shins,0
+2006-06,Adam Green,21
+2006-06,Alkaline Trio,0
+2006-06,Babyshambles,21
+2006-06,Bedouin Soundclash,1
+2006-06,Bell X1,0
+2006-06,Ben Harper,8
+2006-06,Bloc Party,3
+2006-06,Brand New,4
+2006-06,Bright Eyes,2
+2006-06,Coldplay,0
+2006-06,Damien Rice,0
+2006-06,Death Cab For Cutie,7
+2006-06,Jimmy Eat World,0
+2006-06,Kettcar,0
+2006-06,Oasis,2
+2006-06,Snow Patrol,4
+2006-06,The Clash,1
+2006-06,The Kooks,1
+2006-06,The Libertines,6
+2006-06,The Shins,14
+2006-07,Adam Green,67
+2006-07,Alkaline Trio,0
+2006-07,Babyshambles,171
+2006-07,Bedouin Soundclash,15
+2006-07,Bell X1,4
+2006-07,Ben Harper,38
+2006-07,Bloc Party,39
+2006-07,Brand New,65
+2006-07,Bright Eyes,23
+2006-07,Coldplay,24
+2006-07,Damien Rice,76
+2006-07,Death Cab For Cutie,16
+2006-07,Jimmy Eat World,1
+2006-07,Kettcar,35
+2006-07,Oasis,14
+2006-07,Snow Patrol,12
+2006-07,The Clash,19
+2006-07,The Kooks,146
+2006-07,The Libertines,195
+2006-07,The Shins,0
+2006-08,Adam Green,114
+2006-08,Alkaline Trio,6
+2006-08,Babyshambles,95
+2006-08,Bedouin Soundclash,0
+2006-08,Bell X1,1
+2006-08,Ben Harper,35
+2006-08,Bloc Party,26
+2006-08,Brand New,27
+2006-08,Bright Eyes,0
+2006-08,Coldplay,24
+2006-08,Damien Rice,39
+2006-08,Death Cab For Cutie,46
+2006-08,Jimmy Eat World,8
+2006-08,Kettcar,72
+2006-08,Oasis,11
+2006-08,Snow Patrol,11
+2006-08,The Clash,57
+2006-08,The Kooks,72
+2006-08,The Libertines,363
+2006-08,The Shins,80
+2006-09,Adam Green,53
+2006-09,Alkaline Trio,10
+2006-09,Babyshambles,96
+2006-09,Bedouin Soundclash,31
+2006-09,Bell X1,1
+2006-09,Ben Harper,44
+2006-09,Bloc Party,13
+2006-09,Brand New,20
+2006-09,Bright Eyes,7
+2006-09,Coldplay,18
+2006-09,Damien Rice,32
+2006-09,Death Cab For Cutie,18
+2006-09,Jimmy Eat World,7
+2006-09,Kettcar,47
+2006-09,Oasis,21
+2006-09,Snow Patrol,1
+2006-09,The Clash,1
+2006-09,The Kooks,45
+2006-09,The Libertines,110
+2006-09,The Shins,1
+2006-10,Adam Green,9
+2006-10,Alkaline Trio,9
+2006-10,Babyshambles,82
+2006-10,Bedouin Soundclash,0
+2006-10,Bell X1,2
+2006-10,Ben Harper,32
+2006-10,Bloc Party,8
+2006-10,Brand New,13
+2006-10,Bright Eyes,0
+2006-10,Coldplay,24
+2006-10,Damien Rice,12
+2006-10,Death Cab For Cutie,13
+2006-10,Jimmy Eat World,1
+2006-10,Kettcar,28
+2006-10,Oasis,7
+2006-10,Snow Patrol,4
+2006-10,The Clash,4
+2006-10,The Kooks,53
+2006-10,The Libertines,168
+2006-10,The Shins,56
+2006-11,Adam Green,74
+2006-11,Alkaline Trio,2
+2006-11,Babyshambles,57
+2006-11,Bedouin Soundclash,37
+2006-11,Bell X1,0
+2006-11,Ben Harper,26
+2006-11,Bloc Party,38
+2006-11,Brand New,6
+2006-11,Bright Eyes,11
+2006-11,Coldplay,9
+2006-11,Damien Rice,74
+2006-11,Death Cab For Cutie,22
+2006-11,Jimmy Eat World,15
+2006-11,Kettcar,44
+2006-11,Oasis,43
+2006-11,Snow Patrol,1
+2006-11,The Clash,42
+2006-11,The Kooks,0
+2006-11,The Libertines,51
+2006-11,The Shins,13
+2006-12,Adam Green,26
+2006-12,Alkaline Trio,1
+2006-12,Babyshambles,90
+2006-12,Bedouin Soundclash,21
+2006-12,Bell X1,3
+2006-12,Ben Harper,6
+2006-12,Bloc Party,0
+2006-12,Brand New,9
+2006-12,Bright Eyes,0
+2006-12,Coldplay,13
+2006-12,Damien Rice,74
+2006-12,Death Cab For Cutie,7
+2006-12,Jimmy Eat World,14
+2006-12,Kettcar,15
+2006-12,Oasis,22
+2006-12,Snow Patrol,16
+2006-12,The Clash,15
+2006-12,The Kooks,70
+2006-12,The Libertines,212
+2006-12,The Shins,26
+2007-01,Adam Green,49
+2007-01,Alkaline Trio,9
+2007-01,Babyshambles,60
+2007-01,Bedouin Soundclash,29
+2007-01,Bell X1,0
+2007-01,Ben Harper,34
+2007-01,Bloc Party,45
+2007-01,Brand New,10
+2007-01,Bright Eyes,12
+2007-01,Coldplay,10
+2007-01,Damien Rice,32
+2007-01,Death Cab For Cutie,5
+2007-01,Jimmy Eat World,13
+2007-01,Kettcar,12
+2007-01,Oasis,15
+2007-01,Snow Patrol,0
+2007-01,The Clash,55
+2007-01,The Kooks,18
+2007-01,The Libertines,74
+2007-01,The Shins,9
+2007-02,Adam Green,11
+2007-02,Alkaline Trio,1
+2007-02,Babyshambles,54
+2007-02,Bedouin Soundclash,10
+2007-02,Bell X1,0
+2007-02,Ben Harper,5
+2007-02,Bloc Party,0
+2007-02,Brand New,21
+2007-02,Bright Eyes,3
+2007-02,Coldplay,0
+2007-02,Damien Rice,30
+2007-02,Death Cab For Cutie,10
+2007-02,Jimmy Eat World,8
+2007-02,Kettcar,65
+2007-02,Oasis,5
+2007-02,Snow Patrol,0
+2007-02,The Clash,25
+2007-02,The Kooks,0
+2007-02,The Libertines,87
+2007-02,The Shins,2
+2007-03,Adam Green,17
+2007-03,Alkaline Trio,4
+2007-03,Babyshambles,82
+2007-03,Bedouin Soundclash,13
+2007-03,Bell X1,1
+2007-03,Ben Harper,2
+2007-03,Bloc Party,40
+2007-03,Brand New,0
+2007-03,Bright Eyes,0
+2007-03,Coldplay,1
+2007-03,Damien Rice,13
+2007-03,Death Cab For Cutie,4
+2007-03,Jimmy Eat World,1
+2007-03,Kettcar,26
+2007-03,Oasis,3
+2007-03,Snow Patrol,2
+2007-03,The Clash,24
+2007-03,The Kooks,6
+2007-03,The Libertines,30
+2007-03,The Shins,6
+2007-04,Adam Green,43
+2007-04,Alkaline Trio,3
+2007-04,Babyshambles,10
+2007-04,Bedouin Soundclash,41
+2007-04,Bell X1,2
+2007-04,Ben Harper,38
+2007-04,Bloc Party,69
+2007-04,Brand New,7
+2007-04,Bright Eyes,2
+2007-04,Coldplay,10
+2007-04,Damien Rice,22
+2007-04,Death Cab For Cutie,8
+2007-04,Jimmy Eat World,0
+2007-04,Kettcar,10
+2007-04,Oasis,9
+2007-04,Snow Patrol,1
+2007-04,The Clash,30
+2007-04,The Kooks,34
+2007-04,The Libertines,53
+2007-04,The Shins,34
+2007-05,Adam Green,0
+2007-05,Alkaline Trio,0
+2007-05,Babyshambles,112
+2007-05,Bedouin Soundclash,34
+2007-05,Bell X1,24
+2007-05,Ben Harper,35
+2007-05,Bloc Party,16
+2007-05,Brand New,0
+2007-05,Bright Eyes,0
+2007-05,Coldplay,0
+2007-05,Damien Rice,15
+2007-05,Death Cab For Cutie,1
+2007-05,Jimmy Eat World,0
+2007-05,Kettcar,77
+2007-05,Oasis,7
+2007-05,Snow Patrol,0
+2007-05,The Clash,0
+2007-05,The Kooks,0
+2007-05,The Libertines,0
+2007-05,The Shins,2
+2007-06,Adam Green,0
+2007-06,Alkaline Trio,0
+2007-06,Babyshambles,34
+2007-06,Bedouin Soundclash,13
+2007-06,Bell X1,8
+2007-06,Ben Harper,24
+2007-06,Bloc Party,5
+2007-06,Brand New,0
+2007-06,Bright Eyes,0
+2007-06,Coldplay,0
+2007-06,Damien Rice,6
+2007-06,Death Cab For Cutie,2
+2007-06,Jimmy Eat World,0
+2007-06,Kettcar,9
+2007-06,Oasis,8
+2007-06,Snow Patrol,0
+2007-06,The Clash,0
+2007-06,The Kooks,3
+2007-06,The Libertines,1
+2007-06,The Shins,3
+2007-07,Adam Green,4
+2007-07,Alkaline Trio,4
+2007-07,Babyshambles,0
+2007-07,Bedouin Soundclash,10
+2007-07,Bell X1,14
+2007-07,Ben Harper,15
+2007-07,Bloc Party,0
+2007-07,Brand New,1
+2007-07,Bright Eyes,0
+2007-07,Coldplay,1
+2007-07,Damien Rice,7
+2007-07,Death Cab For Cutie,8
+2007-07,Jimmy Eat World,1
+2007-07,Kettcar,82
+2007-07,Oasis,14
+2007-07,Snow Patrol,5
+2007-07,The Clash,0
+2007-07,The Kooks,0
+2007-07,The Libertines,76
+2007-07,The Shins,1
+2007-08,Adam Green,4
+2007-08,Alkaline Trio,6
+2007-08,Babyshambles,31
+2007-08,Bedouin Soundclash,6
+2007-08,Bell X1,4
+2007-08,Ben Harper,18
+2007-08,Bloc Party,3
+2007-08,Brand New,10
+2007-08,Bright Eyes,0
+2007-08,Coldplay,9
+2007-08,Damien Rice,18
+2007-08,Death Cab For Cutie,5
+2007-08,Jimmy Eat World,2
+2007-08,Kettcar,148
+2007-08,Oasis,1
+2007-08,Snow Patrol,0
+2007-08,The Clash,0
+2007-08,The Kooks,0
+2007-08,The Libertines,33
+2007-08,The Shins,5
+2007-09,Adam Green,2
+2007-09,Alkaline Trio,23
+2007-09,Babyshambles,19
+2007-09,Bedouin Soundclash,2
+2007-09,Bell X1,15
+2007-09,Ben Harper,11
+2007-09,Bloc Party,4
+2007-09,Brand New,4
+2007-09,Bright Eyes,15
+2007-09,Coldplay,6
+2007-09,Damien Rice,19
+2007-09,Death Cab For Cutie,28
+2007-09,Jimmy Eat World,1
+2007-09,Kettcar,45
+2007-09,Oasis,10
+2007-09,Snow Patrol,11
+2007-09,The Clash,0
+2007-09,The Kooks,3
+2007-09,The Libertines,50
+2007-09,The Shins,7
+2007-10,Adam Green,29
+2007-10,Alkaline Trio,8
+2007-10,Babyshambles,22
+2007-10,Bedouin Soundclash,1
+2007-10,Bell X1,56
+2007-10,Ben Harper,29
+2007-10,Bloc Party,52
+2007-10,Brand New,1
+2007-10,Bright Eyes,41
+2007-10,Coldplay,0
+2007-10,Damien Rice,0
+2007-10,Death Cab For Cutie,20
+2007-10,Jimmy Eat World,12
+2007-10,Kettcar,0
+2007-10,Oasis,0
+2007-10,Snow Patrol,41
+2007-10,The Clash,14
+2007-10,The Kooks,20
+2007-10,The Libertines,0
+2007-10,The Shins,2
+2007-11,Adam Green,0
+2007-11,Alkaline Trio,0
+2007-11,Babyshambles,0
+2007-11,Bedouin Soundclash,0
+2007-11,Bell X1,5
+2007-11,Ben Harper,4
+2007-11,Bloc Party,3
+2007-11,Brand New,0
+2007-11,Bright Eyes,7
+2007-11,Coldplay,0
+2007-11,Damien Rice,0
+2007-11,Death Cab For Cutie,33
+2007-11,Jimmy Eat World,3
+2007-11,Kettcar,0
+2007-11,Oasis,0
+2007-11,Snow Patrol,10
+2007-11,The Clash,0
+2007-11,The Kooks,0
+2007-11,The Libertines,0
+2007-11,The Shins,0
+2007-12,Adam Green,0
+2007-12,Alkaline Trio,0
+2007-12,Babyshambles,0
+2007-12,Bedouin Soundclash,0
+2007-12,Bell X1,0
+2007-12,Ben Harper,0
+2007-12,Bloc Party,0
+2007-12,Brand New,0
+2007-12,Bright Eyes,0
+2007-12,Coldplay,0
+2007-12,Damien Rice,0
+2007-12,Death Cab For Cutie,0
+2007-12,Jimmy Eat World,0
+2007-12,Kettcar,0
+2007-12,Oasis,0
+2007-12,Snow Patrol,0
+2007-12,The Clash,0
+2007-12,The Kooks,0
+2007-12,The Libertines,0
+2007-12,The Shins,0
+2008-01,Adam Green,6
+2008-01,Alkaline Trio,1
+2008-01,Babyshambles,5
+2008-01,Bedouin Soundclash,3
+2008-01,Bell X1,23
+2008-01,Ben Harper,7
+2008-01,Bloc Party,0
+2008-01,Brand New,3
+2008-01,Bright Eyes,18
+2008-01,Coldplay,5
+2008-01,Damien Rice,14
+2008-01,Death Cab For Cutie,2
+2008-01,Jimmy Eat World,9
+2008-01,Kettcar,0
+2008-01,Oasis,4
+2008-01,Snow Patrol,8
+2008-01,The Clash,25
+2008-01,The Kooks,0
+2008-01,The Libertines,10
+2008-01,The Shins,1
+2008-02,Adam Green,5
+2008-02,Alkaline Trio,0
+2008-02,Babyshambles,27
+2008-02,Bedouin Soundclash,1
+2008-02,Bell X1,1
+2008-02,Ben Harper,1
+2008-02,Bloc Party,35
+2008-02,Brand New,1
+2008-02,Bright Eyes,2
+2008-02,Coldplay,7
+2008-02,Damien Rice,12
+2008-02,Death Cab For Cutie,3
+2008-02,Jimmy Eat World,1
+2008-02,Kettcar,117
+2008-02,Oasis,4
+2008-02,Snow Patrol,22
+2008-02,The Clash,0
+2008-02,The Kooks,5
+2008-02,The Libertines,30
+2008-02,The Shins,4
+2008-03,Adam Green,14
+2008-03,Alkaline Trio,2
+2008-03,Babyshambles,25
+2008-03,Bedouin Soundclash,0
+2008-03,Bell X1,9
+2008-03,Ben Harper,16
+2008-03,Bloc Party,0
+2008-03,Brand New,1
+2008-03,Bright Eyes,0
+2008-03,Coldplay,2
+2008-03,Damien Rice,22
+2008-03,Death Cab For Cutie,2
+2008-03,Jimmy Eat World,6
+2008-03,Kettcar,7
+2008-03,Oasis,0
+2008-03,Snow Patrol,29
+2008-03,The Clash,43
+2008-03,The Kooks,24
+2008-03,The Libertines,6
+2008-03,The Shins,6
+2008-04,Adam Green,35
+2008-04,Alkaline Trio,3
+2008-04,Babyshambles,2
+2008-04,Bedouin Soundclash,0
+2008-04,Bell X1,15
+2008-04,Ben Harper,25
+2008-04,Bloc Party,3
+2008-04,Brand New,8
+2008-04,Bright Eyes,0
+2008-04,Coldplay,3
+2008-04,Damien Rice,27
+2008-04,Death Cab For Cutie,15
+2008-04,Jimmy Eat World,11
+2008-04,Kettcar,118
+2008-04,Oasis,3
+2008-04,Snow Patrol,4
+2008-04,The Clash,0
+2008-04,The Kooks,224
+2008-04,The Libertines,12
+2008-04,The Shins,2
+2008-05,Adam Green,0
+2008-05,Alkaline Trio,6
+2008-05,Babyshambles,8
+2008-05,Bedouin Soundclash,25
+2008-05,Bell X1,2
+2008-05,Ben Harper,5
+2008-05,Bloc Party,1
+2008-05,Brand New,3
+2008-05,Bright Eyes,48
+2008-05,Coldplay,30
+2008-05,Damien Rice,41
+2008-05,Death Cab For Cutie,68
+2008-05,Jimmy Eat World,15
+2008-05,Kettcar,2
+2008-05,Oasis,28
+2008-05,Snow Patrol,3
+2008-05,The Clash,3
+2008-05,The Kooks,1
+2008-05,The Libertines,44
+2008-05,The Shins,2
+2008-06,Adam Green,16
+2008-06,Alkaline Trio,0
+2008-06,Babyshambles,13
+2008-06,Bedouin Soundclash,25
+2008-06,Bell X1,3
+2008-06,Ben Harper,9
+2008-06,Bloc Party,21
+2008-06,Brand New,4
+2008-06,Bright Eyes,106
+2008-06,Coldplay,37
+2008-06,Damien Rice,26
+2008-06,Death Cab For Cutie,132
+2008-06,Jimmy Eat World,14
+2008-06,Kettcar,50
+2008-06,Oasis,0
+2008-06,Snow Patrol,9
+2008-06,The Clash,0
+2008-06,The Kooks,3
+2008-06,The Libertines,14
+2008-06,The Shins,0
+2008-07,Adam Green,0
+2008-07,Alkaline Trio,44
+2008-07,Babyshambles,0
+2008-07,Bedouin Soundclash,126
+2008-07,Bell X1,21
+2008-07,Ben Harper,18
+2008-07,Bloc Party,1
+2008-07,Brand New,2
+2008-07,Bright Eyes,118
+2008-07,Coldplay,80
+2008-07,Damien Rice,31
+2008-07,Death Cab For Cutie,112
+2008-07,Jimmy Eat World,2
+2008-07,Kettcar,8
+2008-07,Oasis,2
+2008-07,Snow Patrol,5
+2008-07,The Clash,0
+2008-07,The Kooks,6
+2008-07,The Libertines,0
+2008-07,The Shins,0
+2008-08,Adam Green,31
+2008-08,Alkaline Trio,19
+2008-08,Babyshambles,25
+2008-08,Bedouin Soundclash,29
+2008-08,Bell X1,4
+2008-08,Ben Harper,0
+2008-08,Bloc Party,0
+2008-08,Brand New,0
+2008-08,Bright Eyes,108
+2008-08,Coldplay,3
+2008-08,Damien Rice,0
+2008-08,Death Cab For Cutie,24
+2008-08,Jimmy Eat World,0
+2008-08,Kettcar,3
+2008-08,Oasis,0
+2008-08,Snow Patrol,0
+2008-08,The Clash,0
+2008-08,The Kooks,7
+2008-08,The Libertines,0
+2008-08,The Shins,0
+2008-09,Adam Green,0
+2008-09,Alkaline Trio,0
+2008-09,Babyshambles,0
+2008-09,Bedouin Soundclash,39
+2008-09,Bell X1,23
+2008-09,Ben Harper,5
+2008-09,Bloc Party,0
+2008-09,Brand New,0
+2008-09,Bright Eyes,62
+2008-09,Coldplay,4
+2008-09,Damien Rice,7
+2008-09,Death Cab For Cutie,31
+2008-09,Jimmy Eat World,25
+2008-09,Kettcar,0
+2008-09,Oasis,0
+2008-09,Snow Patrol,19
+2008-09,The Clash,21
+2008-09,The Kooks,1
+2008-09,The Libertines,0
+2008-09,The Shins,1
+2008-10,Adam Green,6
+2008-10,Alkaline Trio,0
+2008-10,Babyshambles,0
+2008-10,Bedouin Soundclash,32
+2008-10,Bell X1,0
+2008-10,Ben Harper,0
+2008-10,Bloc Party,20
+2008-10,Brand New,0
+2008-10,Bright Eyes,25
+2008-10,Coldplay,10
+2008-10,Damien Rice,17
+2008-10,Death Cab For Cutie,0
+2008-10,Jimmy Eat World,0
+2008-10,Kettcar,83
+2008-10,Oasis,0
+2008-10,Snow Patrol,2
+2008-10,The Clash,20
+2008-10,The Kooks,52
+2008-10,The Libertines,41
+2008-10,The Shins,32
+2008-11,Adam Green,58
+2008-11,Alkaline Trio,4
+2008-11,Babyshambles,16
+2008-11,Bedouin Soundclash,7
+2008-11,Bell X1,14
+2008-11,Ben Harper,24
+2008-11,Bloc Party,12
+2008-11,Brand New,0
+2008-11,Bright Eyes,15
+2008-11,Coldplay,0
+2008-11,Damien Rice,0
+2008-11,Death Cab For Cutie,1
+2008-11,Jimmy Eat World,0
+2008-11,Kettcar,22
+2008-11,Oasis,0
+2008-11,Snow Patrol,0
+2008-11,The Clash,68
+2008-11,The Kooks,49
+2008-11,The Libertines,57
+2008-11,The Shins,11
+2008-12,Adam Green,0
+2008-12,Alkaline Trio,4
+2008-12,Babyshambles,3
+2008-12,Bedouin Soundclash,6
+2008-12,Bell X1,4
+2008-12,Ben Harper,3
+2008-12,Bloc Party,1
+2008-12,Brand New,0
+2008-12,Bright Eyes,2
+2008-12,Coldplay,1
+2008-12,Damien Rice,2
+2008-12,Death Cab For Cutie,75
+2008-12,Jimmy Eat World,0
+2008-12,Kettcar,24
+2008-12,Oasis,29
+2008-12,Snow Patrol,0
+2008-12,The Clash,59
+2008-12,The Kooks,8
+2008-12,The Libertines,1
+2008-12,The Shins,0
+2009-01,Adam Green,3
+2009-01,Alkaline Trio,24
+2009-01,Babyshambles,0
+2009-01,Bedouin Soundclash,25
+2009-01,Bell X1,7
+2009-01,Ben Harper,0
+2009-01,Bloc Party,0
+2009-01,Brand New,0
+2009-01,Bright Eyes,43
+2009-01,Coldplay,10
+2009-01,Damien Rice,12
+2009-01,Death Cab For Cutie,0
+2009-01,Jimmy Eat World,0
+2009-01,Kettcar,66
+2009-01,Oasis,1
+2009-01,Snow Patrol,1
+2009-01,The Clash,0
+2009-01,The Kooks,0
+2009-01,The Libertines,41
+2009-01,The Shins,0
+2009-02,Adam Green,0
+2009-02,Alkaline Trio,20
+2009-02,Babyshambles,0
+2009-02,Bedouin Soundclash,0
+2009-02,Bell X1,0
+2009-02,Ben Harper,3
+2009-02,Bloc Party,0
+2009-02,Brand New,1
+2009-02,Bright Eyes,10
+2009-02,Coldplay,4
+2009-02,Damien Rice,10
+2009-02,Death Cab For Cutie,0
+2009-02,Jimmy Eat World,0
+2009-02,Kettcar,8
+2009-02,Oasis,0
+2009-02,Snow Patrol,0
+2009-02,The Clash,2
+2009-02,The Kooks,36
+2009-02,The Libertines,2
+2009-02,The Shins,0
+2009-03,Adam Green,0
+2009-03,Alkaline Trio,0
+2009-03,Babyshambles,1
+2009-03,Bedouin Soundclash,0
+2009-03,Bell X1,0
+2009-03,Ben Harper,0
+2009-03,Bloc Party,0
+2009-03,Brand New,0
+2009-03,Bright Eyes,9
+2009-03,Coldplay,4
+2009-03,Damien Rice,16
+2009-03,Death Cab For Cutie,0
+2009-03,Jimmy Eat World,4
+2009-03,Kettcar,0
+2009-03,Oasis,0
+2009-03,Snow Patrol,0
+2009-03,The Clash,2
+2009-03,The Kooks,0
+2009-03,The Libertines,0
+2009-03,The Shins,0
+2009-04,Adam Green,0
+2009-04,Alkaline Trio,1
+2009-04,Babyshambles,0
+2009-04,Bedouin Soundclash,12
+2009-04,Bell X1,0
+2009-04,Ben Harper,0
+2009-04,Bloc Party,0
+2009-04,Brand New,0
+2009-04,Bright Eyes,16
+2009-04,Coldplay,0
+2009-04,Damien Rice,0
+2009-04,Death Cab For Cutie,7
+2009-04,Jimmy Eat World,23
+2009-04,Kettcar,0
+2009-04,Oasis,0
+2009-04,Snow Patrol,1
+2009-04,The Clash,6
+2009-04,The Kooks,18
+2009-04,The Libertines,0
+2009-04,The Shins,0

@@ -1,0 +1,881 @@
+month,artist,plays
+2005-10,Arcade Fire,5
+2005-10,Bloc Party,1
+2005-10,Bon Jovi,0
+2005-10,Carpark North,12
+2005-10,Coldplay,7
+2005-10,Colony 5,0
+2005-10,Fatboy Slim,4
+2005-10,Franz Ferdinand,8
+2005-10,Manu Chao,2
+2005-10,Muse,25
+2005-10,Nightwish,0
+2005-10,Oasis,57
+2005-10,Placebo,7
+2005-10,Rammstein,49
+2005-10,Starsailor,5
+2005-10,System Of A Down,5
+2005-10,The Killers,5
+2005-10,The Knife,0
+2005-10,The Prodigy,3
+2005-10,Yann Tiersen,43
+2005-11,Arcade Fire,0
+2005-11,Bloc Party,1
+2005-11,Bon Jovi,0
+2005-11,Carpark North,0
+2005-11,Coldplay,1
+2005-11,Colony 5,0
+2005-11,Fatboy Slim,0
+2005-11,Franz Ferdinand,1
+2005-11,Manu Chao,0
+2005-11,Muse,1
+2005-11,Nightwish,0
+2005-11,Oasis,0
+2005-11,Placebo,1
+2005-11,Rammstein,1
+2005-11,Starsailor,0
+2005-11,System Of A Down,0
+2005-11,The Killers,0
+2005-11,The Knife,0
+2005-11,The Prodigy,1
+2005-11,Yann Tiersen,3
+2005-12,Arcade Fire,0
+2005-12,Bloc Party,0
+2005-12,Bon Jovi,0
+2005-12,Carpark North,0
+2005-12,Coldplay,1
+2005-12,Colony 5,0
+2005-12,Fatboy Slim,0
+2005-12,Franz Ferdinand,0
+2005-12,Manu Chao,0
+2005-12,Muse,1
+2005-12,Nightwish,0
+2005-12,Oasis,0
+2005-12,Placebo,0
+2005-12,Rammstein,0
+2005-12,Starsailor,0
+2005-12,System Of A Down,0
+2005-12,The Killers,1
+2005-12,The Knife,0
+2005-12,The Prodigy,0
+2005-12,Yann Tiersen,0
+2006-01,Arcade Fire,0
+2006-01,Bloc Party,0
+2006-01,Bon Jovi,0
+2006-01,Carpark North,0
+2006-01,Coldplay,1
+2006-01,Colony 5,0
+2006-01,Fatboy Slim,0
+2006-01,Franz Ferdinand,0
+2006-01,Manu Chao,0
+2006-01,Muse,1
+2006-01,Nightwish,0
+2006-01,Oasis,0
+2006-01,Placebo,0
+2006-01,Rammstein,0
+2006-01,Starsailor,0
+2006-01,System Of A Down,0
+2006-01,The Killers,0
+2006-01,The Knife,0
+2006-01,The Prodigy,1
+2006-01,Yann Tiersen,0
+2006-02,Arcade Fire,5
+2006-02,Bloc Party,0
+2006-02,Bon Jovi,0
+2006-02,Carpark North,5
+2006-02,Coldplay,0
+2006-02,Colony 5,0
+2006-02,Fatboy Slim,0
+2006-02,Franz Ferdinand,0
+2006-02,Manu Chao,0
+2006-02,Muse,0
+2006-02,Nightwish,0
+2006-02,Oasis,0
+2006-02,Placebo,0
+2006-02,Rammstein,0
+2006-02,Starsailor,0
+2006-02,System Of A Down,0
+2006-02,The Killers,5
+2006-02,The Knife,0
+2006-02,The Prodigy,0
+2006-02,Yann Tiersen,0
+2006-03,Arcade Fire,0
+2006-03,Bloc Party,0
+2006-03,Bon Jovi,0
+2006-03,Carpark North,0
+2006-03,Coldplay,0
+2006-03,Colony 5,0
+2006-03,Fatboy Slim,0
+2006-03,Franz Ferdinand,0
+2006-03,Manu Chao,0
+2006-03,Muse,0
+2006-03,Nightwish,0
+2006-03,Oasis,0
+2006-03,Placebo,0
+2006-03,Rammstein,0
+2006-03,Starsailor,0
+2006-03,System Of A Down,0
+2006-03,The Killers,0
+2006-03,The Knife,0
+2006-03,The Prodigy,0
+2006-03,Yann Tiersen,2
+2006-04,Arcade Fire,0
+2006-04,Bloc Party,0
+2006-04,Bon Jovi,0
+2006-04,Carpark North,0
+2006-04,Coldplay,0
+2006-04,Colony 5,0
+2006-04,Fatboy Slim,0
+2006-04,Franz Ferdinand,0
+2006-04,Manu Chao,0
+2006-04,Muse,0
+2006-04,Nightwish,0
+2006-04,Oasis,0
+2006-04,Placebo,0
+2006-04,Rammstein,0
+2006-04,Starsailor,0
+2006-04,System Of A Down,0
+2006-04,The Killers,0
+2006-04,The Knife,0
+2006-04,The Prodigy,0
+2006-04,Yann Tiersen,0
+2006-05,Arcade Fire,0
+2006-05,Bloc Party,1
+2006-05,Bon Jovi,0
+2006-05,Carpark North,0
+2006-05,Coldplay,0
+2006-05,Colony 5,0
+2006-05,Fatboy Slim,0
+2006-05,Franz Ferdinand,0
+2006-05,Manu Chao,0
+2006-05,Muse,1
+2006-05,Nightwish,0
+2006-05,Oasis,1
+2006-05,Placebo,1
+2006-05,Rammstein,1
+2006-05,Starsailor,10
+2006-05,System Of A Down,0
+2006-05,The Killers,0
+2006-05,The Knife,0
+2006-05,The Prodigy,0
+2006-05,Yann Tiersen,0
+2006-06,Arcade Fire,0
+2006-06,Bloc Party,1
+2006-06,Bon Jovi,0
+2006-06,Carpark North,0
+2006-06,Coldplay,0
+2006-06,Colony 5,0
+2006-06,Fatboy Slim,0
+2006-06,Franz Ferdinand,0
+2006-06,Manu Chao,0
+2006-06,Muse,0
+2006-06,Nightwish,0
+2006-06,Oasis,1
+2006-06,Placebo,0
+2006-06,Rammstein,0
+2006-06,Starsailor,0
+2006-06,System Of A Down,1
+2006-06,The Killers,0
+2006-06,The Knife,0
+2006-06,The Prodigy,1
+2006-06,Yann Tiersen,0
+2006-07,Arcade Fire,0
+2006-07,Bloc Party,0
+2006-07,Bon Jovi,0
+2006-07,Carpark North,0
+2006-07,Coldplay,0
+2006-07,Colony 5,0
+2006-07,Fatboy Slim,0
+2006-07,Franz Ferdinand,0
+2006-07,Manu Chao,0
+2006-07,Muse,0
+2006-07,Nightwish,0
+2006-07,Oasis,0
+2006-07,Placebo,1
+2006-07,Rammstein,0
+2006-07,Starsailor,1
+2006-07,System Of A Down,0
+2006-07,The Killers,0
+2006-07,The Knife,0
+2006-07,The Prodigy,0
+2006-07,Yann Tiersen,0
+2006-08,Arcade Fire,0
+2006-08,Bloc Party,0
+2006-08,Bon Jovi,0
+2006-08,Carpark North,0
+2006-08,Coldplay,0
+2006-08,Colony 5,0
+2006-08,Fatboy Slim,0
+2006-08,Franz Ferdinand,0
+2006-08,Manu Chao,1
+2006-08,Muse,25
+2006-08,Nightwish,0
+2006-08,Oasis,0
+2006-08,Placebo,0
+2006-08,Rammstein,0
+2006-08,Starsailor,0
+2006-08,System Of A Down,0
+2006-08,The Killers,0
+2006-08,The Knife,0
+2006-08,The Prodigy,0
+2006-08,Yann Tiersen,0
+2006-09,Arcade Fire,0
+2006-09,Bloc Party,0
+2006-09,Bon Jovi,0
+2006-09,Carpark North,0
+2006-09,Coldplay,0
+2006-09,Colony 5,0
+2006-09,Fatboy Slim,0
+2006-09,Franz Ferdinand,0
+2006-09,Manu Chao,0
+2006-09,Muse,0
+2006-09,Nightwish,0
+2006-09,Oasis,0
+2006-09,Placebo,0
+2006-09,Rammstein,0
+2006-09,Starsailor,0
+2006-09,System Of A Down,0
+2006-09,The Killers,0
+2006-09,The Knife,0
+2006-09,The Prodigy,0
+2006-09,Yann Tiersen,0
+2006-10,Arcade Fire,0
+2006-10,Bloc Party,4
+2006-10,Bon Jovi,0
+2006-10,Carpark North,0
+2006-10,Coldplay,0
+2006-10,Colony 5,0
+2006-10,Fatboy Slim,0
+2006-10,Franz Ferdinand,0
+2006-10,Manu Chao,0
+2006-10,Muse,1
+2006-10,Nightwish,9
+2006-10,Oasis,0
+2006-10,Placebo,3
+2006-10,Rammstein,3
+2006-10,Starsailor,0
+2006-10,System Of A Down,0
+2006-10,The Killers,0
+2006-10,The Knife,0
+2006-10,The Prodigy,0
+2006-10,Yann Tiersen,18
+2006-11,Arcade Fire,1
+2006-11,Bloc Party,9
+2006-11,Bon Jovi,0
+2006-11,Carpark North,1
+2006-11,Coldplay,2
+2006-11,Colony 5,0
+2006-11,Fatboy Slim,1
+2006-11,Franz Ferdinand,3
+2006-11,Manu Chao,0
+2006-11,Muse,9
+2006-11,Nightwish,0
+2006-11,Oasis,1
+2006-11,Placebo,10
+2006-11,Rammstein,8
+2006-11,Starsailor,3
+2006-11,System Of A Down,3
+2006-11,The Killers,0
+2006-11,The Knife,0
+2006-11,The Prodigy,0
+2006-11,Yann Tiersen,13
+2006-12,Arcade Fire,0
+2006-12,Bloc Party,1
+2006-12,Bon Jovi,0
+2006-12,Carpark North,48
+2006-12,Coldplay,0
+2006-12,Colony 5,23
+2006-12,Fatboy Slim,2
+2006-12,Franz Ferdinand,2
+2006-12,Manu Chao,3
+2006-12,Muse,24
+2006-12,Nightwish,0
+2006-12,Oasis,0
+2006-12,Placebo,3
+2006-12,Rammstein,0
+2006-12,Starsailor,1
+2006-12,System Of A Down,0
+2006-12,The Killers,2
+2006-12,The Knife,0
+2006-12,The Prodigy,1
+2006-12,Yann Tiersen,6
+2007-01,Arcade Fire,0
+2007-01,Bloc Party,5
+2007-01,Bon Jovi,0
+2007-01,Carpark North,12
+2007-01,Coldplay,1
+2007-01,Colony 5,6
+2007-01,Fatboy Slim,1
+2007-01,Franz Ferdinand,1
+2007-01,Manu Chao,0
+2007-01,Muse,0
+2007-01,Nightwish,0
+2007-01,Oasis,0
+2007-01,Placebo,8
+2007-01,Rammstein,0
+2007-01,Starsailor,11
+2007-01,System Of A Down,2
+2007-01,The Killers,0
+2007-01,The Knife,0
+2007-01,The Prodigy,0
+2007-01,Yann Tiersen,19
+2007-02,Arcade Fire,41
+2007-02,Bloc Party,0
+2007-02,Bon Jovi,0
+2007-02,Carpark North,1
+2007-02,Coldplay,1
+2007-02,Colony 5,0
+2007-02,Fatboy Slim,0
+2007-02,Franz Ferdinand,0
+2007-02,Manu Chao,0
+2007-02,Muse,33
+2007-02,Nightwish,0
+2007-02,Oasis,0
+2007-02,Placebo,0
+2007-02,Rammstein,0
+2007-02,Starsailor,0
+2007-02,System Of A Down,7
+2007-02,The Killers,0
+2007-02,The Knife,34
+2007-02,The Prodigy,0
+2007-02,Yann Tiersen,10
+2007-03,Arcade Fire,3
+2007-03,Bloc Party,5
+2007-03,Bon Jovi,0
+2007-03,Carpark North,0
+2007-03,Coldplay,0
+2007-03,Colony 5,1
+2007-03,Fatboy Slim,0
+2007-03,Franz Ferdinand,0
+2007-03,Manu Chao,0
+2007-03,Muse,0
+2007-03,Nightwish,0
+2007-03,Oasis,0
+2007-03,Placebo,0
+2007-03,Rammstein,0
+2007-03,Starsailor,0
+2007-03,System Of A Down,0
+2007-03,The Killers,0
+2007-03,The Knife,6
+2007-03,The Prodigy,0
+2007-03,Yann Tiersen,0
+2007-04,Arcade Fire,0
+2007-04,Bloc Party,0
+2007-04,Bon Jovi,0
+2007-04,Carpark North,0
+2007-04,Coldplay,0
+2007-04,Colony 5,0
+2007-04,Fatboy Slim,0
+2007-04,Franz Ferdinand,0
+2007-04,Manu Chao,0
+2007-04,Muse,0
+2007-04,Nightwish,0
+2007-04,Oasis,0
+2007-04,Placebo,0
+2007-04,Rammstein,0
+2007-04,Starsailor,2
+2007-04,System Of A Down,1
+2007-04,The Killers,0
+2007-04,The Knife,2
+2007-04,The Prodigy,0
+2007-04,Yann Tiersen,0
+2007-05,Arcade Fire,0
+2007-05,Bloc Party,0
+2007-05,Bon Jovi,0
+2007-05,Carpark North,0
+2007-05,Coldplay,0
+2007-05,Colony 5,0
+2007-05,Fatboy Slim,0
+2007-05,Franz Ferdinand,0
+2007-05,Manu Chao,0
+2007-05,Muse,0
+2007-05,Nightwish,0
+2007-05,Oasis,0
+2007-05,Placebo,0
+2007-05,Rammstein,0
+2007-05,Starsailor,0
+2007-05,System Of A Down,0
+2007-05,The Killers,0
+2007-05,The Knife,1
+2007-05,The Prodigy,0
+2007-05,Yann Tiersen,0
+2007-06,Arcade Fire,0
+2007-06,Bloc Party,0
+2007-06,Bon Jovi,0
+2007-06,Carpark North,0
+2007-06,Coldplay,0
+2007-06,Colony 5,2
+2007-06,Fatboy Slim,0
+2007-06,Franz Ferdinand,0
+2007-06,Manu Chao,2
+2007-06,Muse,2
+2007-06,Nightwish,0
+2007-06,Oasis,0
+2007-06,Placebo,0
+2007-06,Rammstein,1
+2007-06,Starsailor,3
+2007-06,System Of A Down,0
+2007-06,The Killers,0
+2007-06,The Knife,3
+2007-06,The Prodigy,0
+2007-06,Yann Tiersen,2
+2007-07,Arcade Fire,0
+2007-07,Bloc Party,0
+2007-07,Bon Jovi,0
+2007-07,Carpark North,0
+2007-07,Coldplay,0
+2007-07,Colony 5,0
+2007-07,Fatboy Slim,0
+2007-07,Franz Ferdinand,0
+2007-07,Manu Chao,0
+2007-07,Muse,0
+2007-07,Nightwish,0
+2007-07,Oasis,0
+2007-07,Placebo,0
+2007-07,Rammstein,0
+2007-07,Starsailor,0
+2007-07,System Of A Down,0
+2007-07,The Killers,0
+2007-07,The Knife,0
+2007-07,The Prodigy,0
+2007-07,Yann Tiersen,0
+2007-08,Arcade Fire,0
+2007-08,Bloc Party,1
+2007-08,Bon Jovi,0
+2007-08,Carpark North,30
+2007-08,Coldplay,1
+2007-08,Colony 5,2
+2007-08,Fatboy Slim,0
+2007-08,Franz Ferdinand,1
+2007-08,Manu Chao,50
+2007-08,Muse,67
+2007-08,Nightwish,4
+2007-08,Oasis,21
+2007-08,Placebo,2
+2007-08,Rammstein,3
+2007-08,Starsailor,13
+2007-08,System Of A Down,1
+2007-08,The Killers,0
+2007-08,The Knife,6
+2007-08,The Prodigy,0
+2007-08,Yann Tiersen,0
+2007-09,Arcade Fire,2
+2007-09,Bloc Party,0
+2007-09,Bon Jovi,0
+2007-09,Carpark North,3
+2007-09,Coldplay,1
+2007-09,Colony 5,1
+2007-09,Fatboy Slim,1
+2007-09,Franz Ferdinand,3
+2007-09,Manu Chao,23
+2007-09,Muse,19
+2007-09,Nightwish,19
+2007-09,Oasis,0
+2007-09,Placebo,7
+2007-09,Rammstein,7
+2007-09,Starsailor,1
+2007-09,System Of A Down,2
+2007-09,The Killers,1
+2007-09,The Knife,0
+2007-09,The Prodigy,5
+2007-09,Yann Tiersen,1
+2007-10,Arcade Fire,1
+2007-10,Bloc Party,1
+2007-10,Bon Jovi,0
+2007-10,Carpark North,10
+2007-10,Coldplay,0
+2007-10,Colony 5,0
+2007-10,Fatboy Slim,1
+2007-10,Franz Ferdinand,1
+2007-10,Manu Chao,2
+2007-10,Muse,210
+2007-10,Nightwish,0
+2007-10,Oasis,0
+2007-10,Placebo,0
+2007-10,Rammstein,1
+2007-10,Starsailor,0
+2007-10,System Of A Down,12
+2007-10,The Killers,1
+2007-10,The Knife,1
+2007-10,The Prodigy,0
+2007-10,Yann Tiersen,180
+2007-11,Arcade Fire,3
+2007-11,Bloc Party,0
+2007-11,Bon Jovi,0
+2007-11,Carpark North,1
+2007-11,Coldplay,0
+2007-11,Colony 5,0
+2007-11,Fatboy Slim,1
+2007-11,Franz Ferdinand,1
+2007-11,Manu Chao,1
+2007-11,Muse,45
+2007-11,Nightwish,13
+2007-11,Oasis,0
+2007-11,Placebo,0
+2007-11,Rammstein,1
+2007-11,Starsailor,0
+2007-11,System Of A Down,8
+2007-11,The Killers,1
+2007-11,The Knife,7
+2007-11,The Prodigy,4
+2007-11,Yann Tiersen,0
+2007-12,Arcade Fire,0
+2007-12,Bloc Party,0
+2007-12,Bon Jovi,122
+2007-12,Carpark North,0
+2007-12,Coldplay,0
+2007-12,Colony 5,0
+2007-12,Fatboy Slim,0
+2007-12,Franz Ferdinand,0
+2007-12,Manu Chao,1
+2007-12,Muse,8
+2007-12,Nightwish,1
+2007-12,Oasis,0
+2007-12,Placebo,1
+2007-12,Rammstein,0
+2007-12,Starsailor,0
+2007-12,System Of A Down,0
+2007-12,The Killers,0
+2007-12,The Knife,1
+2007-12,The Prodigy,0
+2007-12,Yann Tiersen,0
+2008-01,Arcade Fire,6
+2008-01,Bloc Party,0
+2008-01,Bon Jovi,60
+2008-01,Carpark North,0
+2008-01,Coldplay,0
+2008-01,Colony 5,2
+2008-01,Fatboy Slim,0
+2008-01,Franz Ferdinand,0
+2008-01,Manu Chao,10
+2008-01,Muse,0
+2008-01,Nightwish,34
+2008-01,Oasis,0
+2008-01,Placebo,2
+2008-01,Rammstein,2
+2008-01,Starsailor,0
+2008-01,System Of A Down,2
+2008-01,The Killers,2
+2008-01,The Knife,2
+2008-01,The Prodigy,4
+2008-01,Yann Tiersen,12
+2008-02,Arcade Fire,0
+2008-02,Bloc Party,0
+2008-02,Bon Jovi,12
+2008-02,Carpark North,0
+2008-02,Coldplay,4
+2008-02,Colony 5,1
+2008-02,Fatboy Slim,0
+2008-02,Franz Ferdinand,0
+2008-02,Manu Chao,3
+2008-02,Muse,8
+2008-02,Nightwish,14
+2008-02,Oasis,0
+2008-02,Placebo,1
+2008-02,Rammstein,7
+2008-02,Starsailor,0
+2008-02,System Of A Down,0
+2008-02,The Killers,0
+2008-02,The Knife,0
+2008-02,The Prodigy,0
+2008-02,Yann Tiersen,0
+2008-03,Arcade Fire,0
+2008-03,Bloc Party,1
+2008-03,Bon Jovi,43
+2008-03,Carpark North,0
+2008-03,Coldplay,0
+2008-03,Colony 5,35
+2008-03,Fatboy Slim,0
+2008-03,Franz Ferdinand,0
+2008-03,Manu Chao,0
+2008-03,Muse,5
+2008-03,Nightwish,5
+2008-03,Oasis,0
+2008-03,Placebo,0
+2008-03,Rammstein,0
+2008-03,Starsailor,1
+2008-03,System Of A Down,0
+2008-03,The Killers,0
+2008-03,The Knife,4
+2008-03,The Prodigy,0
+2008-03,Yann Tiersen,0
+2008-04,Arcade Fire,1
+2008-04,Bloc Party,0
+2008-04,Bon Jovi,32
+2008-04,Carpark North,0
+2008-04,Coldplay,0
+2008-04,Colony 5,24
+2008-04,Fatboy Slim,0
+2008-04,Franz Ferdinand,0
+2008-04,Manu Chao,0
+2008-04,Muse,15
+2008-04,Nightwish,0
+2008-04,Oasis,0
+2008-04,Placebo,0
+2008-04,Rammstein,0
+2008-04,Starsailor,3
+2008-04,System Of A Down,0
+2008-04,The Killers,0
+2008-04,The Knife,2
+2008-04,The Prodigy,0
+2008-04,Yann Tiersen,0
+2008-05,Arcade Fire,0
+2008-05,Bloc Party,1
+2008-05,Bon Jovi,18
+2008-05,Carpark North,0
+2008-05,Coldplay,21
+2008-05,Colony 5,0
+2008-05,Fatboy Slim,0
+2008-05,Franz Ferdinand,0
+2008-05,Manu Chao,21
+2008-05,Muse,67
+2008-05,Nightwish,1
+2008-05,Oasis,1
+2008-05,Placebo,3
+2008-05,Rammstein,12
+2008-05,Starsailor,0
+2008-05,System Of A Down,11
+2008-05,The Killers,0
+2008-05,The Knife,2
+2008-05,The Prodigy,0
+2008-05,Yann Tiersen,0
+2008-06,Arcade Fire,0
+2008-06,Bloc Party,0
+2008-06,Bon Jovi,0
+2008-06,Carpark North,0
+2008-06,Coldplay,57
+2008-06,Colony 5,0
+2008-06,Fatboy Slim,0
+2008-06,Franz Ferdinand,0
+2008-06,Manu Chao,0
+2008-06,Muse,13
+2008-06,Nightwish,2
+2008-06,Oasis,0
+2008-06,Placebo,0
+2008-06,Rammstein,0
+2008-06,Starsailor,0
+2008-06,System Of A Down,0
+2008-06,The Killers,0
+2008-06,The Knife,0
+2008-06,The Prodigy,0
+2008-06,Yann Tiersen,0
+2008-07,Arcade Fire,2
+2008-07,Bloc Party,0
+2008-07,Bon Jovi,0
+2008-07,Carpark North,0
+2008-07,Coldplay,5
+2008-07,Colony 5,1
+2008-07,Fatboy Slim,0
+2008-07,Franz Ferdinand,1
+2008-07,Manu Chao,2
+2008-07,Muse,5
+2008-07,Nightwish,0
+2008-07,Oasis,0
+2008-07,Placebo,0
+2008-07,Rammstein,4
+2008-07,Starsailor,0
+2008-07,System Of A Down,2
+2008-07,The Killers,0
+2008-07,The Knife,0
+2008-07,The Prodigy,0
+2008-07,Yann Tiersen,0
+2008-08,Arcade Fire,0
+2008-08,Bloc Party,0
+2008-08,Bon Jovi,14
+2008-08,Carpark North,0
+2008-08,Coldplay,3
+2008-08,Colony 5,0
+2008-08,Fatboy Slim,1
+2008-08,Franz Ferdinand,0
+2008-08,Manu Chao,2
+2008-08,Muse,2
+2008-08,Nightwish,1
+2008-08,Oasis,0
+2008-08,Placebo,0
+2008-08,Rammstein,0
+2008-08,Starsailor,0
+2008-08,System Of A Down,0
+2008-08,The Killers,1
+2008-08,The Knife,1
+2008-08,The Prodigy,0
+2008-08,Yann Tiersen,2
+2008-09,Arcade Fire,3
+2008-09,Bloc Party,2
+2008-09,Bon Jovi,72
+2008-09,Carpark North,4
+2008-09,Coldplay,14
+2008-09,Colony 5,0
+2008-09,Fatboy Slim,2
+2008-09,Franz Ferdinand,2
+2008-09,Manu Chao,1
+2008-09,Muse,0
+2008-09,Nightwish,2
+2008-09,Oasis,18
+2008-09,Placebo,4
+2008-09,Rammstein,7
+2008-09,Starsailor,1
+2008-09,System Of A Down,1
+2008-09,The Killers,1
+2008-09,The Knife,3
+2008-09,The Prodigy,11
+2008-09,Yann Tiersen,10
+2008-10,Arcade Fire,0
+2008-10,Bloc Party,0
+2008-10,Bon Jovi,32
+2008-10,Carpark North,0
+2008-10,Coldplay,0
+2008-10,Colony 5,0
+2008-10,Fatboy Slim,2
+2008-10,Franz Ferdinand,0
+2008-10,Manu Chao,1
+2008-10,Muse,145
+2008-10,Nightwish,0
+2008-10,Oasis,13
+2008-10,Placebo,0
+2008-10,Rammstein,1
+2008-10,Starsailor,0
+2008-10,System Of A Down,0
+2008-10,The Killers,0
+2008-10,The Knife,1
+2008-10,The Prodigy,1
+2008-10,Yann Tiersen,6
+2008-11,Arcade Fire,7
+2008-11,Bloc Party,0
+2008-11,Bon Jovi,35
+2008-11,Carpark North,0
+2008-11,Coldplay,0
+2008-11,Colony 5,0
+2008-11,Fatboy Slim,2
+2008-11,Franz Ferdinand,0
+2008-11,Manu Chao,0
+2008-11,Muse,82
+2008-11,Nightwish,113
+2008-11,Oasis,14
+2008-11,Placebo,0
+2008-11,Rammstein,2
+2008-11,Starsailor,0
+2008-11,System Of A Down,0
+2008-11,The Killers,0
+2008-11,The Knife,1
+2008-11,The Prodigy,6
+2008-11,Yann Tiersen,4
+2008-12,Arcade Fire,0
+2008-12,Bloc Party,0
+2008-12,Bon Jovi,20
+2008-12,Carpark North,0
+2008-12,Coldplay,0
+2008-12,Colony 5,0
+2008-12,Fatboy Slim,0
+2008-12,Franz Ferdinand,0
+2008-12,Manu Chao,0
+2008-12,Muse,24
+2008-12,Nightwish,146
+2008-12,Oasis,0
+2008-12,Placebo,0
+2008-12,Rammstein,0
+2008-12,Starsailor,0
+2008-12,System Of A Down,0
+2008-12,The Killers,0
+2008-12,The Knife,0
+2008-12,The Prodigy,0
+2008-12,Yann Tiersen,0
+2009-01,Arcade Fire,0
+2009-01,Bloc Party,0
+2009-01,Bon Jovi,0
+2009-01,Carpark North,0
+2009-01,Coldplay,2
+2009-01,Colony 5,0
+2009-01,Fatboy Slim,0
+2009-01,Franz Ferdinand,0
+2009-01,Manu Chao,0
+2009-01,Muse,12
+2009-01,Nightwish,15
+2009-01,Oasis,0
+2009-01,Placebo,0
+2009-01,Rammstein,0
+2009-01,Starsailor,0
+2009-01,System Of A Down,0
+2009-01,The Killers,1
+2009-01,The Knife,0
+2009-01,The Prodigy,0
+2009-01,Yann Tiersen,2
+2009-02,Arcade Fire,1
+2009-02,Bloc Party,2
+2009-02,Bon Jovi,0
+2009-02,Carpark North,0
+2009-02,Coldplay,1
+2009-02,Colony 5,0
+2009-02,Fatboy Slim,0
+2009-02,Franz Ferdinand,0
+2009-02,Manu Chao,0
+2009-02,Muse,1
+2009-02,Nightwish,15
+2009-02,Oasis,8
+2009-02,Placebo,0
+2009-02,Rammstein,0
+2009-02,Starsailor,0
+2009-02,System Of A Down,0
+2009-02,The Killers,0
+2009-02,The Knife,0
+2009-02,The Prodigy,0
+2009-02,Yann Tiersen,0
+2009-03,Arcade Fire,0
+2009-03,Bloc Party,0
+2009-03,Bon Jovi,0
+2009-03,Carpark North,0
+2009-03,Coldplay,0
+2009-03,Colony 5,0
+2009-03,Fatboy Slim,0
+2009-03,Franz Ferdinand,0
+2009-03,Manu Chao,0
+2009-03,Muse,1
+2009-03,Nightwish,0
+2009-03,Oasis,0
+2009-03,Placebo,0
+2009-03,Rammstein,0
+2009-03,Starsailor,0
+2009-03,System Of A Down,0
+2009-03,The Killers,0
+2009-03,The Knife,0
+2009-03,The Prodigy,0
+2009-03,Yann Tiersen,0
+2009-04,Arcade Fire,0
+2009-04,Bloc Party,0
+2009-04,Bon Jovi,0
+2009-04,Carpark North,0
+2009-04,Coldplay,0
+2009-04,Colony 5,0
+2009-04,Fatboy Slim,0
+2009-04,Franz Ferdinand,0
+2009-04,Manu Chao,0
+2009-04,Muse,0
+2009-04,Nightwish,0
+2009-04,Oasis,0
+2009-04,Placebo,0
+2009-04,Rammstein,0
+2009-04,Starsailor,0
+2009-04,System Of A Down,0
+2009-04,The Killers,0
+2009-04,The Knife,0
+2009-04,The Prodigy,0
+2009-04,Yann Tiersen,0
+2009-05,Arcade Fire,0
+2009-05,Bloc Party,0
+2009-05,Bon Jovi,0
+2009-05,Carpark North,0
+2009-05,Coldplay,1
+2009-05,Colony 5,0
+2009-05,Fatboy Slim,0
+2009-05,Franz Ferdinand,0
+2009-05,Manu Chao,0
+2009-05,Muse,0
+2009-05,Nightwish,0
+2009-05,Oasis,1
+2009-05,Placebo,0
+2009-05,Rammstein,0
+2009-05,Starsailor,0
+2009-05,System Of A Down,1
+2009-05,The Killers,0
+2009-05,The Knife,0
+2009-05,The Prodigy,0
+2009-05,Yann Tiersen,0

@@ -1,0 +1,681 @@
+month,artist,plays
+2006-07,Aesop Rock,78
+2006-07,Air,92
+2006-07,Arctic Monkeys,1
+2006-07,At The Drive-In,21
+2006-07,Atmosphere,74
+2006-07,Dj Shadow,58
+2006-07,Explosions In The Sky,0
+2006-07,Ghinzu,115
+2006-07,God Is An Astronaut,34
+2006-07,Mogwai,27
+2006-07,Muse,51
+2006-07,Myslovitz,35
+2006-07,Oasis,0
+2006-07,Portishead,36
+2006-07,Radiohead,200
+2006-07,Red Hot Chili Peppers,36
+2006-07,Rjd2,147
+2006-07,Sage Francis,39
+2006-07,Sneaker Pimps,103
+2006-07,The Cooper Temple Clause,0
+2006-08,Aesop Rock,22
+2006-08,Air,70
+2006-08,Arctic Monkeys,96
+2006-08,At The Drive-In,134
+2006-08,Atmosphere,35
+2006-08,Dj Shadow,24
+2006-08,Explosions In The Sky,0
+2006-08,Ghinzu,340
+2006-08,God Is An Astronaut,217
+2006-08,Mogwai,22
+2006-08,Muse,181
+2006-08,Myslovitz,0
+2006-08,Oasis,8
+2006-08,Portishead,87
+2006-08,Radiohead,252
+2006-08,Red Hot Chili Peppers,86
+2006-08,Rjd2,229
+2006-08,Sage Francis,105
+2006-08,Sneaker Pimps,85
+2006-08,The Cooper Temple Clause,77
+2006-09,Aesop Rock,18
+2006-09,Air,20
+2006-09,Arctic Monkeys,32
+2006-09,At The Drive-In,46
+2006-09,Atmosphere,0
+2006-09,Dj Shadow,0
+2006-09,Explosions In The Sky,0
+2006-09,Ghinzu,78
+2006-09,God Is An Astronaut,109
+2006-09,Mogwai,26
+2006-09,Muse,89
+2006-09,Myslovitz,27
+2006-09,Oasis,8
+2006-09,Portishead,36
+2006-09,Radiohead,253
+2006-09,Red Hot Chili Peppers,136
+2006-09,Rjd2,73
+2006-09,Sage Francis,104
+2006-09,Sneaker Pimps,46
+2006-09,The Cooper Temple Clause,428
+2006-10,Aesop Rock,69
+2006-10,Air,76
+2006-10,Arctic Monkeys,69
+2006-10,At The Drive-In,68
+2006-10,Atmosphere,46
+2006-10,Dj Shadow,40
+2006-10,Explosions In The Sky,28
+2006-10,Ghinzu,66
+2006-10,God Is An Astronaut,70
+2006-10,Mogwai,18
+2006-10,Muse,95
+2006-10,Myslovitz,54
+2006-10,Oasis,0
+2006-10,Portishead,72
+2006-10,Radiohead,95
+2006-10,Red Hot Chili Peppers,42
+2006-10,Rjd2,76
+2006-10,Sage Francis,130
+2006-10,Sneaker Pimps,45
+2006-10,The Cooper Temple Clause,261
+2006-11,Aesop Rock,70
+2006-11,Air,49
+2006-11,Arctic Monkeys,42
+2006-11,At The Drive-In,29
+2006-11,Atmosphere,180
+2006-11,Dj Shadow,36
+2006-11,Explosions In The Sky,93
+2006-11,Ghinzu,12
+2006-11,God Is An Astronaut,20
+2006-11,Mogwai,37
+2006-11,Muse,57
+2006-11,Myslovitz,0
+2006-11,Oasis,0
+2006-11,Portishead,21
+2006-11,Radiohead,115
+2006-11,Red Hot Chili Peppers,41
+2006-11,Rjd2,88
+2006-11,Sage Francis,75
+2006-11,Sneaker Pimps,53
+2006-11,The Cooper Temple Clause,149
+2006-12,Aesop Rock,14
+2006-12,Air,0
+2006-12,Arctic Monkeys,32
+2006-12,At The Drive-In,23
+2006-12,Atmosphere,92
+2006-12,Dj Shadow,7
+2006-12,Explosions In The Sky,14
+2006-12,Ghinzu,23
+2006-12,God Is An Astronaut,50
+2006-12,Mogwai,12
+2006-12,Muse,3
+2006-12,Myslovitz,25
+2006-12,Oasis,16
+2006-12,Portishead,0
+2006-12,Radiohead,79
+2006-12,Red Hot Chili Peppers,68
+2006-12,Rjd2,57
+2006-12,Sage Francis,33
+2006-12,Sneaker Pimps,40
+2006-12,The Cooper Temple Clause,63
+2007-01,Aesop Rock,0
+2007-01,Air,40
+2007-01,Arctic Monkeys,32
+2007-01,At The Drive-In,1
+2007-01,Atmosphere,0
+2007-01,Dj Shadow,0
+2007-01,Explosions In The Sky,7
+2007-01,Ghinzu,12
+2007-01,God Is An Astronaut,39
+2007-01,Mogwai,1
+2007-01,Muse,0
+2007-01,Myslovitz,0
+2007-01,Oasis,0
+2007-01,Portishead,0
+2007-01,Radiohead,9
+2007-01,Red Hot Chili Peppers,0
+2007-01,Rjd2,0
+2007-01,Sage Francis,2
+2007-01,Sneaker Pimps,27
+2007-01,The Cooper Temple Clause,100
+2007-02,Aesop Rock,0
+2007-02,Air,0
+2007-02,Arctic Monkeys,0
+2007-02,At The Drive-In,1
+2007-02,Atmosphere,0
+2007-02,Dj Shadow,0
+2007-02,Explosions In The Sky,30
+2007-02,Ghinzu,18
+2007-02,God Is An Astronaut,2
+2007-02,Mogwai,0
+2007-02,Muse,0
+2007-02,Myslovitz,0
+2007-02,Oasis,1
+2007-02,Portishead,0
+2007-02,Radiohead,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,Rjd2,2
+2007-02,Sage Francis,0
+2007-02,Sneaker Pimps,56
+2007-02,The Cooper Temple Clause,15
+2007-03,Aesop Rock,14
+2007-03,Air,0
+2007-03,Arctic Monkeys,2
+2007-03,At The Drive-In,0
+2007-03,Atmosphere,22
+2007-03,Dj Shadow,10
+2007-03,Explosions In The Sky,32
+2007-03,Ghinzu,23
+2007-03,God Is An Astronaut,32
+2007-03,Mogwai,9
+2007-03,Muse,67
+2007-03,Myslovitz,59
+2007-03,Oasis,1
+2007-03,Portishead,31
+2007-03,Radiohead,82
+2007-03,Red Hot Chili Peppers,96
+2007-03,Rjd2,62
+2007-03,Sage Francis,22
+2007-03,Sneaker Pimps,264
+2007-03,The Cooper Temple Clause,233
+2007-04,Aesop Rock,14
+2007-04,Air,11
+2007-04,Arctic Monkeys,18
+2007-04,At The Drive-In,0
+2007-04,Atmosphere,38
+2007-04,Dj Shadow,19
+2007-04,Explosions In The Sky,27
+2007-04,Ghinzu,36
+2007-04,God Is An Astronaut,40
+2007-04,Mogwai,0
+2007-04,Muse,17
+2007-04,Myslovitz,19
+2007-04,Oasis,0
+2007-04,Portishead,6
+2007-04,Radiohead,13
+2007-04,Red Hot Chili Peppers,30
+2007-04,Rjd2,30
+2007-04,Sage Francis,42
+2007-04,Sneaker Pimps,47
+2007-04,The Cooper Temple Clause,1
+2007-05,Aesop Rock,2
+2007-05,Air,20
+2007-05,Arctic Monkeys,399
+2007-05,At The Drive-In,43
+2007-05,Atmosphere,21
+2007-05,Dj Shadow,128
+2007-05,Explosions In The Sky,80
+2007-05,Ghinzu,22
+2007-05,God Is An Astronaut,10
+2007-05,Mogwai,38
+2007-05,Muse,34
+2007-05,Myslovitz,11
+2007-05,Oasis,3
+2007-05,Portishead,5
+2007-05,Radiohead,2
+2007-05,Red Hot Chili Peppers,17
+2007-05,Rjd2,35
+2007-05,Sage Francis,8
+2007-05,Sneaker Pimps,28
+2007-05,The Cooper Temple Clause,57
+2007-06,Aesop Rock,30
+2007-06,Air,40
+2007-06,Arctic Monkeys,216
+2007-06,At The Drive-In,20
+2007-06,Atmosphere,93
+2007-06,Dj Shadow,272
+2007-06,Explosions In The Sky,81
+2007-06,Ghinzu,1
+2007-06,God Is An Astronaut,0
+2007-06,Mogwai,78
+2007-06,Muse,33
+2007-06,Myslovitz,31
+2007-06,Oasis,15
+2007-06,Portishead,24
+2007-06,Radiohead,25
+2007-06,Red Hot Chili Peppers,0
+2007-06,Rjd2,73
+2007-06,Sage Francis,8
+2007-06,Sneaker Pimps,17
+2007-06,The Cooper Temple Clause,75
+2007-07,Aesop Rock,0
+2007-07,Air,0
+2007-07,Arctic Monkeys,6
+2007-07,At The Drive-In,0
+2007-07,Atmosphere,0
+2007-07,Dj Shadow,0
+2007-07,Explosions In The Sky,10
+2007-07,Ghinzu,0
+2007-07,God Is An Astronaut,0
+2007-07,Mogwai,0
+2007-07,Muse,0
+2007-07,Myslovitz,0
+2007-07,Oasis,2
+2007-07,Portishead,15
+2007-07,Radiohead,11
+2007-07,Red Hot Chili Peppers,0
+2007-07,Rjd2,0
+2007-07,Sage Francis,0
+2007-07,Sneaker Pimps,13
+2007-07,The Cooper Temple Clause,0
+2007-08,Aesop Rock,0
+2007-08,Air,0
+2007-08,Arctic Monkeys,7
+2007-08,At The Drive-In,0
+2007-08,Atmosphere,19
+2007-08,Dj Shadow,47
+2007-08,Explosions In The Sky,18
+2007-08,Ghinzu,17
+2007-08,God Is An Astronaut,10
+2007-08,Mogwai,0
+2007-08,Muse,1
+2007-08,Myslovitz,0
+2007-08,Oasis,0
+2007-08,Portishead,0
+2007-08,Radiohead,40
+2007-08,Red Hot Chili Peppers,3
+2007-08,Rjd2,0
+2007-08,Sage Francis,11
+2007-08,Sneaker Pimps,21
+2007-08,The Cooper Temple Clause,44
+2007-09,Aesop Rock,0
+2007-09,Air,0
+2007-09,Arctic Monkeys,0
+2007-09,At The Drive-In,0
+2007-09,Atmosphere,0
+2007-09,Dj Shadow,0
+2007-09,Explosions In The Sky,0
+2007-09,Ghinzu,0
+2007-09,God Is An Astronaut,0
+2007-09,Mogwai,0
+2007-09,Muse,0
+2007-09,Myslovitz,0
+2007-09,Oasis,0
+2007-09,Portishead,0
+2007-09,Radiohead,0
+2007-09,Red Hot Chili Peppers,0
+2007-09,Rjd2,0
+2007-09,Sage Francis,0
+2007-09,Sneaker Pimps,0
+2007-09,The Cooper Temple Clause,0
+2007-10,Aesop Rock,0
+2007-10,Air,0
+2007-10,Arctic Monkeys,0
+2007-10,At The Drive-In,0
+2007-10,Atmosphere,0
+2007-10,Dj Shadow,0
+2007-10,Explosions In The Sky,0
+2007-10,Ghinzu,0
+2007-10,God Is An Astronaut,0
+2007-10,Mogwai,0
+2007-10,Muse,0
+2007-10,Myslovitz,0
+2007-10,Oasis,0
+2007-10,Portishead,0
+2007-10,Radiohead,0
+2007-10,Red Hot Chili Peppers,0
+2007-10,Rjd2,0
+2007-10,Sage Francis,0
+2007-10,Sneaker Pimps,0
+2007-10,The Cooper Temple Clause,0
+2007-11,Aesop Rock,0
+2007-11,Air,0
+2007-11,Arctic Monkeys,0
+2007-11,At The Drive-In,0
+2007-11,Atmosphere,0
+2007-11,Dj Shadow,0
+2007-11,Explosions In The Sky,0
+2007-11,Ghinzu,0
+2007-11,God Is An Astronaut,0
+2007-11,Mogwai,0
+2007-11,Muse,0
+2007-11,Myslovitz,0
+2007-11,Oasis,0
+2007-11,Portishead,0
+2007-11,Radiohead,0
+2007-11,Red Hot Chili Peppers,0
+2007-11,Rjd2,0
+2007-11,Sage Francis,0
+2007-11,Sneaker Pimps,0
+2007-11,The Cooper Temple Clause,0
+2007-12,Aesop Rock,0
+2007-12,Air,0
+2007-12,Arctic Monkeys,0
+2007-12,At The Drive-In,0
+2007-12,Atmosphere,0
+2007-12,Dj Shadow,0
+2007-12,Explosions In The Sky,0
+2007-12,Ghinzu,0
+2007-12,God Is An Astronaut,0
+2007-12,Mogwai,0
+2007-12,Muse,0
+2007-12,Myslovitz,0
+2007-12,Oasis,0
+2007-12,Portishead,0
+2007-12,Radiohead,0
+2007-12,Red Hot Chili Peppers,0
+2007-12,Rjd2,0
+2007-12,Sage Francis,0
+2007-12,Sneaker Pimps,0
+2007-12,The Cooper Temple Clause,0
+2008-01,Aesop Rock,0
+2008-01,Air,0
+2008-01,Arctic Monkeys,0
+2008-01,At The Drive-In,0
+2008-01,Atmosphere,0
+2008-01,Dj Shadow,0
+2008-01,Explosions In The Sky,0
+2008-01,Ghinzu,0
+2008-01,God Is An Astronaut,0
+2008-01,Mogwai,0
+2008-01,Muse,0
+2008-01,Myslovitz,0
+2008-01,Oasis,0
+2008-01,Portishead,0
+2008-01,Radiohead,0
+2008-01,Red Hot Chili Peppers,0
+2008-01,Rjd2,0
+2008-01,Sage Francis,0
+2008-01,Sneaker Pimps,0
+2008-01,The Cooper Temple Clause,0
+2008-02,Aesop Rock,0
+2008-02,Air,0
+2008-02,Arctic Monkeys,0
+2008-02,At The Drive-In,0
+2008-02,Atmosphere,0
+2008-02,Dj Shadow,0
+2008-02,Explosions In The Sky,0
+2008-02,Ghinzu,0
+2008-02,God Is An Astronaut,0
+2008-02,Mogwai,0
+2008-02,Muse,0
+2008-02,Myslovitz,0
+2008-02,Oasis,0
+2008-02,Portishead,0
+2008-02,Radiohead,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,Rjd2,0
+2008-02,Sage Francis,0
+2008-02,Sneaker Pimps,0
+2008-02,The Cooper Temple Clause,0
+2008-03,Aesop Rock,1
+2008-03,Air,3
+2008-03,Arctic Monkeys,5
+2008-03,At The Drive-In,3
+2008-03,Atmosphere,33
+2008-03,Dj Shadow,53
+2008-03,Explosions In The Sky,17
+2008-03,Ghinzu,5
+2008-03,God Is An Astronaut,0
+2008-03,Mogwai,2
+2008-03,Muse,5
+2008-03,Myslovitz,4
+2008-03,Oasis,5
+2008-03,Portishead,8
+2008-03,Radiohead,68
+2008-03,Red Hot Chili Peppers,7
+2008-03,Rjd2,7
+2008-03,Sage Francis,9
+2008-03,Sneaker Pimps,11
+2008-03,The Cooper Temple Clause,27
+2008-04,Aesop Rock,14
+2008-04,Air,65
+2008-04,Arctic Monkeys,0
+2008-04,At The Drive-In,0
+2008-04,Atmosphere,4
+2008-04,Dj Shadow,111
+2008-04,Explosions In The Sky,0
+2008-04,Ghinzu,66
+2008-04,God Is An Astronaut,33
+2008-04,Mogwai,20
+2008-04,Muse,24
+2008-04,Myslovitz,22
+2008-04,Oasis,31
+2008-04,Portishead,12
+2008-04,Radiohead,442
+2008-04,Red Hot Chili Peppers,126
+2008-04,Rjd2,0
+2008-04,Sage Francis,0
+2008-04,Sneaker Pimps,88
+2008-04,The Cooper Temple Clause,88
+2008-05,Aesop Rock,0
+2008-05,Air,18
+2008-05,Arctic Monkeys,20
+2008-05,At The Drive-In,0
+2008-05,Atmosphere,0
+2008-05,Dj Shadow,47
+2008-05,Explosions In The Sky,117
+2008-05,Ghinzu,24
+2008-05,God Is An Astronaut,13
+2008-05,Mogwai,0
+2008-05,Muse,0
+2008-05,Myslovitz,0
+2008-05,Oasis,11
+2008-05,Portishead,0
+2008-05,Radiohead,116
+2008-05,Red Hot Chili Peppers,31
+2008-05,Rjd2,0
+2008-05,Sage Francis,0
+2008-05,Sneaker Pimps,0
+2008-05,The Cooper Temple Clause,46
+2008-06,Aesop Rock,0
+2008-06,Air,0
+2008-06,Arctic Monkeys,0
+2008-06,At The Drive-In,0
+2008-06,Atmosphere,0
+2008-06,Dj Shadow,0
+2008-06,Explosions In The Sky,32
+2008-06,Ghinzu,0
+2008-06,God Is An Astronaut,0
+2008-06,Mogwai,0
+2008-06,Muse,0
+2008-06,Myslovitz,0
+2008-06,Oasis,0
+2008-06,Portishead,0
+2008-06,Radiohead,0
+2008-06,Red Hot Chili Peppers,0
+2008-06,Rjd2,0
+2008-06,Sage Francis,0
+2008-06,Sneaker Pimps,0
+2008-06,The Cooper Temple Clause,0
+2008-07,Aesop Rock,0
+2008-07,Air,26
+2008-07,Arctic Monkeys,0
+2008-07,At The Drive-In,0
+2008-07,Atmosphere,0
+2008-07,Dj Shadow,0
+2008-07,Explosions In The Sky,0
+2008-07,Ghinzu,0
+2008-07,God Is An Astronaut,0
+2008-07,Mogwai,0
+2008-07,Muse,0
+2008-07,Myslovitz,0
+2008-07,Oasis,0
+2008-07,Portishead,0
+2008-07,Radiohead,0
+2008-07,Red Hot Chili Peppers,0
+2008-07,Rjd2,0
+2008-07,Sage Francis,0
+2008-07,Sneaker Pimps,1
+2008-07,The Cooper Temple Clause,0
+2008-08,Aesop Rock,0
+2008-08,Air,0
+2008-08,Arctic Monkeys,0
+2008-08,At The Drive-In,0
+2008-08,Atmosphere,0
+2008-08,Dj Shadow,0
+2008-08,Explosions In The Sky,0
+2008-08,Ghinzu,0
+2008-08,God Is An Astronaut,0
+2008-08,Mogwai,0
+2008-08,Muse,0
+2008-08,Myslovitz,0
+2008-08,Oasis,0
+2008-08,Portishead,0
+2008-08,Radiohead,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,Rjd2,0
+2008-08,Sage Francis,0
+2008-08,Sneaker Pimps,0
+2008-08,The Cooper Temple Clause,0
+2008-09,Aesop Rock,0
+2008-09,Air,0
+2008-09,Arctic Monkeys,0
+2008-09,At The Drive-In,0
+2008-09,Atmosphere,0
+2008-09,Dj Shadow,0
+2008-09,Explosions In The Sky,0
+2008-09,Ghinzu,0
+2008-09,God Is An Astronaut,0
+2008-09,Mogwai,0
+2008-09,Muse,0
+2008-09,Myslovitz,0
+2008-09,Oasis,0
+2008-09,Portishead,0
+2008-09,Radiohead,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,Rjd2,0
+2008-09,Sage Francis,0
+2008-09,Sneaker Pimps,0
+2008-09,The Cooper Temple Clause,0
+2008-10,Aesop Rock,0
+2008-10,Air,0
+2008-10,Arctic Monkeys,0
+2008-10,At The Drive-In,0
+2008-10,Atmosphere,0
+2008-10,Dj Shadow,0
+2008-10,Explosions In The Sky,0
+2008-10,Ghinzu,0
+2008-10,God Is An Astronaut,0
+2008-10,Mogwai,0
+2008-10,Muse,0
+2008-10,Myslovitz,0
+2008-10,Oasis,0
+2008-10,Portishead,0
+2008-10,Radiohead,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Rjd2,0
+2008-10,Sage Francis,0
+2008-10,Sneaker Pimps,0
+2008-10,The Cooper Temple Clause,0
+2008-11,Aesop Rock,0
+2008-11,Air,0
+2008-11,Arctic Monkeys,0
+2008-11,At The Drive-In,0
+2008-11,Atmosphere,0
+2008-11,Dj Shadow,0
+2008-11,Explosions In The Sky,0
+2008-11,Ghinzu,0
+2008-11,God Is An Astronaut,0
+2008-11,Mogwai,0
+2008-11,Muse,0
+2008-11,Myslovitz,0
+2008-11,Oasis,0
+2008-11,Portishead,0
+2008-11,Radiohead,0
+2008-11,Red Hot Chili Peppers,0
+2008-11,Rjd2,0
+2008-11,Sage Francis,0
+2008-11,Sneaker Pimps,0
+2008-11,The Cooper Temple Clause,0
+2008-12,Aesop Rock,1
+2008-12,Air,9
+2008-12,Arctic Monkeys,16
+2008-12,At The Drive-In,1
+2008-12,Atmosphere,28
+2008-12,Dj Shadow,1
+2008-12,Explosions In The Sky,1
+2008-12,Ghinzu,1
+2008-12,God Is An Astronaut,0
+2008-12,Mogwai,0
+2008-12,Muse,2
+2008-12,Myslovitz,1
+2008-12,Oasis,1
+2008-12,Portishead,0
+2008-12,Radiohead,1
+2008-12,Red Hot Chili Peppers,21
+2008-12,Rjd2,1
+2008-12,Sage Francis,36
+2008-12,Sneaker Pimps,0
+2008-12,The Cooper Temple Clause,25
+2009-01,Aesop Rock,12
+2009-01,Air,109
+2009-01,Arctic Monkeys,23
+2009-01,At The Drive-In,13
+2009-01,Atmosphere,292
+2009-01,Dj Shadow,19
+2009-01,Explosions In The Sky,33
+2009-01,Ghinzu,34
+2009-01,God Is An Astronaut,18
+2009-01,Mogwai,9
+2009-01,Muse,9
+2009-01,Myslovitz,15
+2009-01,Oasis,10
+2009-01,Portishead,6
+2009-01,Radiohead,6
+2009-01,Red Hot Chili Peppers,47
+2009-01,Rjd2,18
+2009-01,Sage Francis,104
+2009-01,Sneaker Pimps,0
+2009-01,The Cooper Temple Clause,24
+2009-02,Aesop Rock,1
+2009-02,Air,6
+2009-02,Arctic Monkeys,12
+2009-02,At The Drive-In,4
+2009-02,Atmosphere,29
+2009-02,Dj Shadow,5
+2009-02,Explosions In The Sky,17
+2009-02,Ghinzu,3
+2009-02,God Is An Astronaut,4
+2009-02,Mogwai,5
+2009-02,Muse,5
+2009-02,Myslovitz,40
+2009-02,Oasis,15
+2009-02,Portishead,3
+2009-02,Radiohead,4
+2009-02,Red Hot Chili Peppers,5
+2009-02,Rjd2,2
+2009-02,Sage Francis,35
+2009-02,Sneaker Pimps,0
+2009-02,The Cooper Temple Clause,7
+2009-03,Aesop Rock,7
+2009-03,Air,0
+2009-03,Arctic Monkeys,0
+2009-03,At The Drive-In,0
+2009-03,Atmosphere,26
+2009-03,Dj Shadow,0
+2009-03,Explosions In The Sky,19
+2009-03,Ghinzu,0
+2009-03,God Is An Astronaut,7
+2009-03,Mogwai,20
+2009-03,Muse,2
+2009-03,Myslovitz,1
+2009-03,Oasis,11
+2009-03,Portishead,3
+2009-03,Radiohead,20
+2009-03,Red Hot Chili Peppers,26
+2009-03,Rjd2,3
+2009-03,Sage Francis,12
+2009-03,Sneaker Pimps,0
+2009-03,The Cooper Temple Clause,0
+2009-04,Aesop Rock,0
+2009-04,Air,1
+2009-04,Arctic Monkeys,7
+2009-04,At The Drive-In,4
+2009-04,Atmosphere,23
+2009-04,Dj Shadow,3
+2009-04,Explosions In The Sky,19
+2009-04,Ghinzu,1
+2009-04,God Is An Astronaut,0
+2009-04,Mogwai,10
+2009-04,Muse,1
+2009-04,Myslovitz,2
+2009-04,Oasis,2
+2009-04,Portishead,1
+2009-04,Radiohead,23
+2009-04,Red Hot Chili Peppers,4
+2009-04,Rjd2,1
+2009-04,Sage Francis,21
+2009-04,Sneaker Pimps,0
+2009-04,The Cooper Temple Clause,3

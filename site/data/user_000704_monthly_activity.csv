@@ -1,0 +1,481 @@
+month,artist,plays
+2007-04,Babyshambles,38
+2007-04,Blackfield,11
+2007-04,Blur,4
+2007-04,Boy Division,0
+2007-04,David Bowie,27
+2007-04,Elastica,0
+2007-04,Gang Of Four,6
+2007-04,Gary Numan,4
+2007-04,Joy Division,6
+2007-04,Kate Bush,2
+2007-04,Nirvana,5
+2007-04,Pixies,4
+2007-04,Placebo,8
+2007-04,Porcupine Tree,5
+2007-04,Siouxsie And The Banshees,5
+2007-04,The Clash,0
+2007-04,The Cure,0
+2007-04,The Libertines,4
+2007-04,The Smiths,5
+2007-04,The Stone Roses,0
+2007-05,Babyshambles,44
+2007-05,Blackfield,11
+2007-05,Blur,11
+2007-05,Boy Division,0
+2007-05,David Bowie,187
+2007-05,Elastica,3
+2007-05,Gang Of Four,145
+2007-05,Gary Numan,28
+2007-05,Joy Division,31
+2007-05,Kate Bush,0
+2007-05,Nirvana,32
+2007-05,Pixies,57
+2007-05,Placebo,12
+2007-05,Porcupine Tree,110
+2007-05,Siouxsie And The Banshees,10
+2007-05,The Clash,9
+2007-05,The Cure,6
+2007-05,The Libertines,54
+2007-05,The Smiths,25
+2007-05,The Stone Roses,11
+2007-06,Babyshambles,27
+2007-06,Blackfield,7
+2007-06,Blur,1
+2007-06,Boy Division,3
+2007-06,David Bowie,240
+2007-06,Elastica,0
+2007-06,Gang Of Four,72
+2007-06,Gary Numan,8
+2007-06,Joy Division,126
+2007-06,Kate Bush,0
+2007-06,Nirvana,0
+2007-06,Pixies,119
+2007-06,Placebo,0
+2007-06,Porcupine Tree,92
+2007-06,Siouxsie And The Banshees,0
+2007-06,The Clash,1
+2007-06,The Cure,58
+2007-06,The Libertines,0
+2007-06,The Smiths,186
+2007-06,The Stone Roses,28
+2007-07,Babyshambles,26
+2007-07,Blackfield,19
+2007-07,Blur,31
+2007-07,Boy Division,0
+2007-07,David Bowie,153
+2007-07,Elastica,2
+2007-07,Gang Of Four,119
+2007-07,Gary Numan,1
+2007-07,Joy Division,0
+2007-07,Kate Bush,0
+2007-07,Nirvana,53
+2007-07,Pixies,0
+2007-07,Placebo,27
+2007-07,Porcupine Tree,14
+2007-07,Siouxsie And The Banshees,41
+2007-07,The Clash,35
+2007-07,The Cure,57
+2007-07,The Libertines,31
+2007-07,The Smiths,147
+2007-07,The Stone Roses,1
+2007-08,Babyshambles,30
+2007-08,Blackfield,14
+2007-08,Blur,1
+2007-08,Boy Division,3
+2007-08,David Bowie,21
+2007-08,Elastica,21
+2007-08,Gang Of Four,81
+2007-08,Gary Numan,1
+2007-08,Joy Division,12
+2007-08,Kate Bush,0
+2007-08,Nirvana,13
+2007-08,Pixies,7
+2007-08,Placebo,47
+2007-08,Porcupine Tree,27
+2007-08,Siouxsie And The Banshees,8
+2007-08,The Clash,0
+2007-08,The Cure,25
+2007-08,The Libertines,11
+2007-08,The Smiths,35
+2007-08,The Stone Roses,1
+2007-09,Babyshambles,20
+2007-09,Blackfield,4
+2007-09,Blur,20
+2007-09,Boy Division,2
+2007-09,David Bowie,48
+2007-09,Elastica,162
+2007-09,Gang Of Four,27
+2007-09,Gary Numan,15
+2007-09,Joy Division,16
+2007-09,Kate Bush,142
+2007-09,Nirvana,25
+2007-09,Pixies,65
+2007-09,Placebo,16
+2007-09,Porcupine Tree,14
+2007-09,Siouxsie And The Banshees,83
+2007-09,The Clash,14
+2007-09,The Cure,37
+2007-09,The Libertines,23
+2007-09,The Smiths,64
+2007-09,The Stone Roses,22
+2007-10,Babyshambles,9
+2007-10,Blackfield,0
+2007-10,Blur,67
+2007-10,Boy Division,1
+2007-10,David Bowie,88
+2007-10,Elastica,40
+2007-10,Gang Of Four,69
+2007-10,Gary Numan,0
+2007-10,Joy Division,36
+2007-10,Kate Bush,39
+2007-10,Nirvana,36
+2007-10,Pixies,6
+2007-10,Placebo,15
+2007-10,Porcupine Tree,4
+2007-10,Siouxsie And The Banshees,25
+2007-10,The Clash,10
+2007-10,The Cure,5
+2007-10,The Libertines,49
+2007-10,The Smiths,36
+2007-10,The Stone Roses,9
+2007-11,Babyshambles,13
+2007-11,Blackfield,9
+2007-11,Blur,40
+2007-11,Boy Division,4
+2007-11,David Bowie,0
+2007-11,Elastica,15
+2007-11,Gang Of Four,0
+2007-11,Gary Numan,2
+2007-11,Joy Division,27
+2007-11,Kate Bush,37
+2007-11,Nirvana,10
+2007-11,Pixies,9
+2007-11,Placebo,2
+2007-11,Porcupine Tree,16
+2007-11,Siouxsie And The Banshees,36
+2007-11,The Clash,10
+2007-11,The Cure,23
+2007-11,The Libertines,30
+2007-11,The Smiths,13
+2007-11,The Stone Roses,0
+2007-12,Babyshambles,4
+2007-12,Blackfield,1
+2007-12,Blur,4
+2007-12,Boy Division,1
+2007-12,David Bowie,170
+2007-12,Elastica,1
+2007-12,Gang Of Four,0
+2007-12,Gary Numan,0
+2007-12,Joy Division,27
+2007-12,Kate Bush,5
+2007-12,Nirvana,23
+2007-12,Pixies,1
+2007-12,Placebo,6
+2007-12,Porcupine Tree,0
+2007-12,Siouxsie And The Banshees,66
+2007-12,The Clash,37
+2007-12,The Cure,0
+2007-12,The Libertines,0
+2007-12,The Smiths,1
+2007-12,The Stone Roses,11
+2008-01,Babyshambles,7
+2008-01,Blackfield,3
+2008-01,Blur,0
+2008-01,Boy Division,1
+2008-01,David Bowie,24
+2008-01,Elastica,0
+2008-01,Gang Of Four,11
+2008-01,Gary Numan,1
+2008-01,Joy Division,8
+2008-01,Kate Bush,22
+2008-01,Nirvana,24
+2008-01,Pixies,7
+2008-01,Placebo,0
+2008-01,Porcupine Tree,6
+2008-01,Siouxsie And The Banshees,7
+2008-01,The Clash,0
+2008-01,The Cure,3
+2008-01,The Libertines,0
+2008-01,The Smiths,19
+2008-01,The Stone Roses,11
+2008-02,Babyshambles,0
+2008-02,Blackfield,0
+2008-02,Blur,0
+2008-02,Boy Division,0
+2008-02,David Bowie,106
+2008-02,Elastica,1
+2008-02,Gang Of Four,48
+2008-02,Gary Numan,0
+2008-02,Joy Division,3
+2008-02,Kate Bush,289
+2008-02,Nirvana,0
+2008-02,Pixies,5
+2008-02,Placebo,6
+2008-02,Porcupine Tree,6
+2008-02,Siouxsie And The Banshees,39
+2008-02,The Clash,0
+2008-02,The Cure,24
+2008-02,The Libertines,1
+2008-02,The Smiths,0
+2008-02,The Stone Roses,7
+2008-03,Babyshambles,36
+2008-03,Blackfield,2
+2008-03,Blur,10
+2008-03,Boy Division,7
+2008-03,David Bowie,203
+2008-03,Elastica,15
+2008-03,Gang Of Four,4
+2008-03,Gary Numan,1
+2008-03,Joy Division,72
+2008-03,Kate Bush,644
+2008-03,Nirvana,54
+2008-03,Pixies,36
+2008-03,Placebo,2
+2008-03,Porcupine Tree,25
+2008-03,Siouxsie And The Banshees,60
+2008-03,The Clash,159
+2008-03,The Cure,3
+2008-03,The Libertines,25
+2008-03,The Smiths,14
+2008-03,The Stone Roses,0
+2008-04,Babyshambles,12
+2008-04,Blackfield,1
+2008-04,Blur,3
+2008-04,Boy Division,4
+2008-04,David Bowie,124
+2008-04,Elastica,6
+2008-04,Gang Of Four,0
+2008-04,Gary Numan,1
+2008-04,Joy Division,57
+2008-04,Kate Bush,54
+2008-04,Nirvana,0
+2008-04,Pixies,3
+2008-04,Placebo,2
+2008-04,Porcupine Tree,71
+2008-04,Siouxsie And The Banshees,51
+2008-04,The Clash,7
+2008-04,The Cure,1
+2008-04,The Libertines,6
+2008-04,The Smiths,61
+2008-04,The Stone Roses,12
+2008-05,Babyshambles,0
+2008-05,Blackfield,0
+2008-05,Blur,0
+2008-05,Boy Division,0
+2008-05,David Bowie,0
+2008-05,Elastica,0
+2008-05,Gang Of Four,0
+2008-05,Gary Numan,0
+2008-05,Joy Division,0
+2008-05,Kate Bush,0
+2008-05,Nirvana,0
+2008-05,Pixies,0
+2008-05,Placebo,0
+2008-05,Porcupine Tree,0
+2008-05,Siouxsie And The Banshees,0
+2008-05,The Clash,0
+2008-05,The Cure,0
+2008-05,The Libertines,0
+2008-05,The Smiths,0
+2008-05,The Stone Roses,0
+2008-06,Babyshambles,19
+2008-06,Blackfield,0
+2008-06,Blur,0
+2008-06,Boy Division,5
+2008-06,David Bowie,31
+2008-06,Elastica,0
+2008-06,Gang Of Four,151
+2008-06,Gary Numan,0
+2008-06,Joy Division,93
+2008-06,Kate Bush,1
+2008-06,Nirvana,0
+2008-06,Pixies,0
+2008-06,Placebo,0
+2008-06,Porcupine Tree,0
+2008-06,Siouxsie And The Banshees,63
+2008-06,The Clash,2
+2008-06,The Cure,0
+2008-06,The Libertines,78
+2008-06,The Smiths,0
+2008-06,The Stone Roses,0
+2008-07,Babyshambles,0
+2008-07,Blackfield,0
+2008-07,Blur,14
+2008-07,Boy Division,4
+2008-07,David Bowie,0
+2008-07,Elastica,0
+2008-07,Gang Of Four,103
+2008-07,Gary Numan,13
+2008-07,Joy Division,91
+2008-07,Kate Bush,0
+2008-07,Nirvana,0
+2008-07,Pixies,0
+2008-07,Placebo,0
+2008-07,Porcupine Tree,10
+2008-07,Siouxsie And The Banshees,0
+2008-07,The Clash,1
+2008-07,The Cure,0
+2008-07,The Libertines,0
+2008-07,The Smiths,0
+2008-07,The Stone Roses,0
+2008-08,Babyshambles,3
+2008-08,Blackfield,9
+2008-08,Blur,0
+2008-08,Boy Division,0
+2008-08,David Bowie,0
+2008-08,Elastica,5
+2008-08,Gang Of Four,45
+2008-08,Gary Numan,1
+2008-08,Joy Division,1
+2008-08,Kate Bush,12
+2008-08,Nirvana,0
+2008-08,Pixies,0
+2008-08,Placebo,0
+2008-08,Porcupine Tree,6
+2008-08,Siouxsie And The Banshees,0
+2008-08,The Clash,0
+2008-08,The Cure,0
+2008-08,The Libertines,0
+2008-08,The Smiths,0
+2008-08,The Stone Roses,0
+2008-09,Babyshambles,3
+2008-09,Blackfield,0
+2008-09,Blur,3
+2008-09,Boy Division,0
+2008-09,David Bowie,0
+2008-09,Elastica,12
+2008-09,Gang Of Four,38
+2008-09,Gary Numan,7
+2008-09,Joy Division,3
+2008-09,Kate Bush,3
+2008-09,Nirvana,10
+2008-09,Pixies,4
+2008-09,Placebo,11
+2008-09,Porcupine Tree,12
+2008-09,Siouxsie And The Banshees,5
+2008-09,The Clash,0
+2008-09,The Cure,0
+2008-09,The Libertines,1
+2008-09,The Smiths,3
+2008-09,The Stone Roses,0
+2008-10,Babyshambles,0
+2008-10,Blackfield,0
+2008-10,Blur,0
+2008-10,Boy Division,0
+2008-10,David Bowie,0
+2008-10,Elastica,0
+2008-10,Gang Of Four,0
+2008-10,Gary Numan,0
+2008-10,Joy Division,0
+2008-10,Kate Bush,0
+2008-10,Nirvana,0
+2008-10,Pixies,0
+2008-10,Placebo,0
+2008-10,Porcupine Tree,0
+2008-10,Siouxsie And The Banshees,0
+2008-10,The Clash,0
+2008-10,The Cure,0
+2008-10,The Libertines,0
+2008-10,The Smiths,0
+2008-10,The Stone Roses,0
+2008-11,Babyshambles,0
+2008-11,Blackfield,0
+2008-11,Blur,0
+2008-11,Boy Division,0
+2008-11,David Bowie,0
+2008-11,Elastica,0
+2008-11,Gang Of Four,0
+2008-11,Gary Numan,0
+2008-11,Joy Division,0
+2008-11,Kate Bush,0
+2008-11,Nirvana,0
+2008-11,Pixies,0
+2008-11,Placebo,0
+2008-11,Porcupine Tree,0
+2008-11,Siouxsie And The Banshees,0
+2008-11,The Clash,0
+2008-11,The Cure,0
+2008-11,The Libertines,0
+2008-11,The Smiths,0
+2008-11,The Stone Roses,0
+2008-12,Babyshambles,0
+2008-12,Blackfield,0
+2008-12,Blur,0
+2008-12,Boy Division,0
+2008-12,David Bowie,0
+2008-12,Elastica,0
+2008-12,Gang Of Four,0
+2008-12,Gary Numan,0
+2008-12,Joy Division,0
+2008-12,Kate Bush,0
+2008-12,Nirvana,0
+2008-12,Pixies,0
+2008-12,Placebo,0
+2008-12,Porcupine Tree,0
+2008-12,Siouxsie And The Banshees,0
+2008-12,The Clash,0
+2008-12,The Cure,0
+2008-12,The Libertines,0
+2008-12,The Smiths,0
+2008-12,The Stone Roses,0
+2009-01,Babyshambles,0
+2009-01,Blackfield,0
+2009-01,Blur,0
+2009-01,Boy Division,0
+2009-01,David Bowie,0
+2009-01,Elastica,1
+2009-01,Gang Of Four,2
+2009-01,Gary Numan,0
+2009-01,Joy Division,0
+2009-01,Kate Bush,23
+2009-01,Nirvana,0
+2009-01,Pixies,0
+2009-01,Placebo,0
+2009-01,Porcupine Tree,0
+2009-01,Siouxsie And The Banshees,0
+2009-01,The Clash,0
+2009-01,The Cure,4
+2009-01,The Libertines,0
+2009-01,The Smiths,0
+2009-01,The Stone Roses,33
+2009-02,Babyshambles,8
+2009-02,Blackfield,0
+2009-02,Blur,0
+2009-02,Boy Division,1
+2009-02,David Bowie,0
+2009-02,Elastica,1
+2009-02,Gang Of Four,1
+2009-02,Gary Numan,1
+2009-02,Joy Division,23
+2009-02,Kate Bush,9
+2009-02,Nirvana,0
+2009-02,Pixies,0
+2009-02,Placebo,0
+2009-02,Porcupine Tree,26
+2009-02,Siouxsie And The Banshees,19
+2009-02,The Clash,88
+2009-02,The Cure,50
+2009-02,The Libertines,0
+2009-02,The Smiths,0
+2009-02,The Stone Roses,47
+2009-03,Babyshambles,0
+2009-03,Blackfield,0
+2009-03,Blur,0
+2009-03,Boy Division,0
+2009-03,David Bowie,0
+2009-03,Elastica,0
+2009-03,Gang Of Four,0
+2009-03,Gary Numan,0
+2009-03,Joy Division,0
+2009-03,Kate Bush,0
+2009-03,Nirvana,0
+2009-03,Pixies,0
+2009-03,Placebo,0
+2009-03,Porcupine Tree,3
+2009-03,Siouxsie And The Banshees,0
+2009-03,The Clash,0
+2009-03,The Cure,0
+2009-03,The Libertines,0
+2009-03,The Smiths,0
+2009-03,The Stone Roses,0

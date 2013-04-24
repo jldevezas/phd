@@ -1,0 +1,521 @@
+month,artist,plays
+2006-11,Air,0
+2006-11,Alice In Chains,0
+2006-11,Antonio Vivaldi,0
+2006-11,Beck,2
+2006-11,Charlie Parker,0
+2006-11,Coldplay,0
+2006-11,Edvard Grieg,0
+2006-11,Ennio Morricone,0
+2006-11,Green Day,0
+2006-11,Gustav Holst,0
+2006-11,Johann Pachelbel,0
+2006-11,John Coltrane,0
+2006-11,Massive Attack,0
+2006-11,Muse,0
+2006-11,Nirvana,0
+2006-11,Radiohead,1
+2006-11,The Doors,0
+2006-11,The Killers,0
+2006-11,The Smashing Pumpkins,0
+2006-11,Wolfgang Amadeus Mozart,0
+2006-12,Air,0
+2006-12,Alice In Chains,1
+2006-12,Antonio Vivaldi,0
+2006-12,Beck,1
+2006-12,Charlie Parker,1
+2006-12,Coldplay,3
+2006-12,Edvard Grieg,0
+2006-12,Ennio Morricone,1
+2006-12,Green Day,4
+2006-12,Gustav Holst,0
+2006-12,Johann Pachelbel,0
+2006-12,John Coltrane,1
+2006-12,Massive Attack,0
+2006-12,Muse,2
+2006-12,Nirvana,3
+2006-12,Radiohead,1
+2006-12,The Doors,1
+2006-12,The Killers,2
+2006-12,The Smashing Pumpkins,2
+2006-12,Wolfgang Amadeus Mozart,0
+2007-01,Air,0
+2007-01,Alice In Chains,1
+2007-01,Antonio Vivaldi,1
+2007-01,Beck,1
+2007-01,Charlie Parker,2
+2007-01,Coldplay,1
+2007-01,Edvard Grieg,0
+2007-01,Ennio Morricone,1
+2007-01,Green Day,1
+2007-01,Gustav Holst,1
+2007-01,Johann Pachelbel,1
+2007-01,John Coltrane,1
+2007-01,Massive Attack,0
+2007-01,Muse,1
+2007-01,Nirvana,1
+2007-01,Radiohead,1
+2007-01,The Doors,1
+2007-01,The Killers,0
+2007-01,The Smashing Pumpkins,1
+2007-01,Wolfgang Amadeus Mozart,0
+2007-02,Air,0
+2007-02,Alice In Chains,0
+2007-02,Antonio Vivaldi,0
+2007-02,Beck,0
+2007-02,Charlie Parker,0
+2007-02,Coldplay,0
+2007-02,Edvard Grieg,0
+2007-02,Ennio Morricone,0
+2007-02,Green Day,0
+2007-02,Gustav Holst,0
+2007-02,Johann Pachelbel,0
+2007-02,John Coltrane,0
+2007-02,Massive Attack,0
+2007-02,Muse,0
+2007-02,Nirvana,0
+2007-02,Radiohead,0
+2007-02,The Doors,0
+2007-02,The Killers,0
+2007-02,The Smashing Pumpkins,0
+2007-02,Wolfgang Amadeus Mozart,0
+2007-03,Air,0
+2007-03,Alice In Chains,1
+2007-03,Antonio Vivaldi,0
+2007-03,Beck,1
+2007-03,Charlie Parker,2
+2007-03,Coldplay,2
+2007-03,Edvard Grieg,0
+2007-03,Ennio Morricone,0
+2007-03,Green Day,2
+2007-03,Gustav Holst,0
+2007-03,Johann Pachelbel,0
+2007-03,John Coltrane,2
+2007-03,Massive Attack,0
+2007-03,Muse,2
+2007-03,Nirvana,2
+2007-03,Radiohead,1
+2007-03,The Doors,1
+2007-03,The Killers,1
+2007-03,The Smashing Pumpkins,1
+2007-03,Wolfgang Amadeus Mozart,0
+2007-04,Air,0
+2007-04,Alice In Chains,0
+2007-04,Antonio Vivaldi,0
+2007-04,Beck,0
+2007-04,Charlie Parker,0
+2007-04,Coldplay,0
+2007-04,Edvard Grieg,0
+2007-04,Ennio Morricone,0
+2007-04,Green Day,0
+2007-04,Gustav Holst,0
+2007-04,Johann Pachelbel,0
+2007-04,John Coltrane,0
+2007-04,Massive Attack,0
+2007-04,Muse,0
+2007-04,Nirvana,0
+2007-04,Radiohead,0
+2007-04,The Doors,0
+2007-04,The Killers,0
+2007-04,The Smashing Pumpkins,0
+2007-04,Wolfgang Amadeus Mozart,0
+2007-05,Air,0
+2007-05,Alice In Chains,0
+2007-05,Antonio Vivaldi,0
+2007-05,Beck,0
+2007-05,Charlie Parker,0
+2007-05,Coldplay,0
+2007-05,Edvard Grieg,0
+2007-05,Ennio Morricone,0
+2007-05,Green Day,0
+2007-05,Gustav Holst,0
+2007-05,Johann Pachelbel,0
+2007-05,John Coltrane,0
+2007-05,Massive Attack,0
+2007-05,Muse,0
+2007-05,Nirvana,0
+2007-05,Radiohead,0
+2007-05,The Doors,0
+2007-05,The Killers,0
+2007-05,The Smashing Pumpkins,0
+2007-05,Wolfgang Amadeus Mozart,0
+2007-06,Air,0
+2007-06,Alice In Chains,0
+2007-06,Antonio Vivaldi,0
+2007-06,Beck,0
+2007-06,Charlie Parker,0
+2007-06,Coldplay,0
+2007-06,Edvard Grieg,0
+2007-06,Ennio Morricone,0
+2007-06,Green Day,0
+2007-06,Gustav Holst,0
+2007-06,Johann Pachelbel,0
+2007-06,John Coltrane,0
+2007-06,Massive Attack,0
+2007-06,Muse,0
+2007-06,Nirvana,0
+2007-06,Radiohead,0
+2007-06,The Doors,0
+2007-06,The Killers,0
+2007-06,The Smashing Pumpkins,0
+2007-06,Wolfgang Amadeus Mozart,0
+2007-07,Air,0
+2007-07,Alice In Chains,0
+2007-07,Antonio Vivaldi,0
+2007-07,Beck,0
+2007-07,Charlie Parker,0
+2007-07,Coldplay,0
+2007-07,Edvard Grieg,0
+2007-07,Ennio Morricone,0
+2007-07,Green Day,0
+2007-07,Gustav Holst,0
+2007-07,Johann Pachelbel,0
+2007-07,John Coltrane,0
+2007-07,Massive Attack,0
+2007-07,Muse,0
+2007-07,Nirvana,0
+2007-07,Radiohead,0
+2007-07,The Doors,0
+2007-07,The Killers,0
+2007-07,The Smashing Pumpkins,0
+2007-07,Wolfgang Amadeus Mozart,0
+2007-08,Air,0
+2007-08,Alice In Chains,0
+2007-08,Antonio Vivaldi,0
+2007-08,Beck,0
+2007-08,Charlie Parker,1
+2007-08,Coldplay,0
+2007-08,Edvard Grieg,0
+2007-08,Ennio Morricone,0
+2007-08,Green Day,0
+2007-08,Gustav Holst,0
+2007-08,Johann Pachelbel,0
+2007-08,John Coltrane,1
+2007-08,Massive Attack,0
+2007-08,Muse,0
+2007-08,Nirvana,0
+2007-08,Radiohead,0
+2007-08,The Doors,0
+2007-08,The Killers,0
+2007-08,The Smashing Pumpkins,0
+2007-08,Wolfgang Amadeus Mozart,0
+2007-09,Air,0
+2007-09,Alice In Chains,0
+2007-09,Antonio Vivaldi,1
+2007-09,Beck,0
+2007-09,Charlie Parker,0
+2007-09,Coldplay,0
+2007-09,Edvard Grieg,1
+2007-09,Ennio Morricone,0
+2007-09,Green Day,0
+2007-09,Gustav Holst,1
+2007-09,Johann Pachelbel,1
+2007-09,John Coltrane,0
+2007-09,Massive Attack,1
+2007-09,Muse,1
+2007-09,Nirvana,0
+2007-09,Radiohead,0
+2007-09,The Doors,0
+2007-09,The Killers,0
+2007-09,The Smashing Pumpkins,0
+2007-09,Wolfgang Amadeus Mozart,1
+2007-10,Air,1
+2007-10,Alice In Chains,0
+2007-10,Antonio Vivaldi,1
+2007-10,Beck,0
+2007-10,Charlie Parker,0
+2007-10,Coldplay,0
+2007-10,Edvard Grieg,1
+2007-10,Ennio Morricone,0
+2007-10,Green Day,1
+2007-10,Gustav Holst,1
+2007-10,Johann Pachelbel,1
+2007-10,John Coltrane,1
+2007-10,Massive Attack,1
+2007-10,Muse,1
+2007-10,Nirvana,1
+2007-10,Radiohead,0
+2007-10,The Doors,1
+2007-10,The Killers,0
+2007-10,The Smashing Pumpkins,0
+2007-10,Wolfgang Amadeus Mozart,43
+2007-11,Air,0
+2007-11,Alice In Chains,0
+2007-11,Antonio Vivaldi,0
+2007-11,Beck,0
+2007-11,Charlie Parker,0
+2007-11,Coldplay,0
+2007-11,Edvard Grieg,0
+2007-11,Ennio Morricone,0
+2007-11,Green Day,0
+2007-11,Gustav Holst,0
+2007-11,Johann Pachelbel,0
+2007-11,John Coltrane,0
+2007-11,Massive Attack,2
+2007-11,Muse,0
+2007-11,Nirvana,0
+2007-11,Radiohead,0
+2007-11,The Doors,0
+2007-11,The Killers,0
+2007-11,The Smashing Pumpkins,0
+2007-11,Wolfgang Amadeus Mozart,0
+2007-12,Air,0
+2007-12,Alice In Chains,0
+2007-12,Antonio Vivaldi,0
+2007-12,Beck,0
+2007-12,Charlie Parker,0
+2007-12,Coldplay,0
+2007-12,Edvard Grieg,0
+2007-12,Ennio Morricone,0
+2007-12,Green Day,0
+2007-12,Gustav Holst,0
+2007-12,Johann Pachelbel,0
+2007-12,John Coltrane,0
+2007-12,Massive Attack,0
+2007-12,Muse,0
+2007-12,Nirvana,0
+2007-12,Radiohead,0
+2007-12,The Doors,0
+2007-12,The Killers,0
+2007-12,The Smashing Pumpkins,0
+2007-12,Wolfgang Amadeus Mozart,0
+2008-01,Air,0
+2008-01,Alice In Chains,0
+2008-01,Antonio Vivaldi,0
+2008-01,Beck,0
+2008-01,Charlie Parker,0
+2008-01,Coldplay,0
+2008-01,Edvard Grieg,0
+2008-01,Ennio Morricone,0
+2008-01,Green Day,0
+2008-01,Gustav Holst,0
+2008-01,Johann Pachelbel,0
+2008-01,John Coltrane,0
+2008-01,Massive Attack,0
+2008-01,Muse,0
+2008-01,Nirvana,0
+2008-01,Radiohead,0
+2008-01,The Doors,0
+2008-01,The Killers,0
+2008-01,The Smashing Pumpkins,0
+2008-01,Wolfgang Amadeus Mozart,0
+2008-02,Air,1
+2008-02,Alice In Chains,0
+2008-02,Antonio Vivaldi,0
+2008-02,Beck,0
+2008-02,Charlie Parker,0
+2008-02,Coldplay,0
+2008-02,Edvard Grieg,0
+2008-02,Ennio Morricone,0
+2008-02,Green Day,0
+2008-02,Gustav Holst,0
+2008-02,Johann Pachelbel,0
+2008-02,John Coltrane,0
+2008-02,Massive Attack,0
+2008-02,Muse,0
+2008-02,Nirvana,0
+2008-02,Radiohead,0
+2008-02,The Doors,0
+2008-02,The Killers,1
+2008-02,The Smashing Pumpkins,0
+2008-02,Wolfgang Amadeus Mozart,0
+2008-03,Air,2
+2008-03,Alice In Chains,0
+2008-03,Antonio Vivaldi,0
+2008-03,Beck,0
+2008-03,Charlie Parker,0
+2008-03,Coldplay,1
+2008-03,Edvard Grieg,0
+2008-03,Ennio Morricone,0
+2008-03,Green Day,0
+2008-03,Gustav Holst,0
+2008-03,Johann Pachelbel,0
+2008-03,John Coltrane,0
+2008-03,Massive Attack,1
+2008-03,Muse,0
+2008-03,Nirvana,0
+2008-03,Radiohead,0
+2008-03,The Doors,0
+2008-03,The Killers,0
+2008-03,The Smashing Pumpkins,0
+2008-03,Wolfgang Amadeus Mozart,0
+2008-04,Air,0
+2008-04,Alice In Chains,0
+2008-04,Antonio Vivaldi,0
+2008-04,Beck,0
+2008-04,Charlie Parker,0
+2008-04,Coldplay,0
+2008-04,Edvard Grieg,0
+2008-04,Ennio Morricone,0
+2008-04,Green Day,1
+2008-04,Gustav Holst,0
+2008-04,Johann Pachelbel,0
+2008-04,John Coltrane,0
+2008-04,Massive Attack,0
+2008-04,Muse,0
+2008-04,Nirvana,1
+2008-04,Radiohead,0
+2008-04,The Doors,0
+2008-04,The Killers,0
+2008-04,The Smashing Pumpkins,1
+2008-04,Wolfgang Amadeus Mozart,0
+2008-05,Air,0
+2008-05,Alice In Chains,0
+2008-05,Antonio Vivaldi,0
+2008-05,Beck,0
+2008-05,Charlie Parker,0
+2008-05,Coldplay,0
+2008-05,Edvard Grieg,0
+2008-05,Ennio Morricone,0
+2008-05,Green Day,0
+2008-05,Gustav Holst,0
+2008-05,Johann Pachelbel,0
+2008-05,John Coltrane,0
+2008-05,Massive Attack,0
+2008-05,Muse,0
+2008-05,Nirvana,0
+2008-05,Radiohead,0
+2008-05,The Doors,0
+2008-05,The Killers,0
+2008-05,The Smashing Pumpkins,0
+2008-05,Wolfgang Amadeus Mozart,0
+2008-06,Air,1
+2008-06,Alice In Chains,0
+2008-06,Antonio Vivaldi,0
+2008-06,Beck,0
+2008-06,Charlie Parker,0
+2008-06,Coldplay,0
+2008-06,Edvard Grieg,0
+2008-06,Ennio Morricone,0
+2008-06,Green Day,0
+2008-06,Gustav Holst,0
+2008-06,Johann Pachelbel,0
+2008-06,John Coltrane,0
+2008-06,Massive Attack,0
+2008-06,Muse,0
+2008-06,Nirvana,0
+2008-06,Radiohead,0
+2008-06,The Doors,0
+2008-06,The Killers,0
+2008-06,The Smashing Pumpkins,0
+2008-06,Wolfgang Amadeus Mozart,0
+2008-07,Air,0
+2008-07,Alice In Chains,0
+2008-07,Antonio Vivaldi,0
+2008-07,Beck,0
+2008-07,Charlie Parker,0
+2008-07,Coldplay,0
+2008-07,Edvard Grieg,0
+2008-07,Ennio Morricone,0
+2008-07,Green Day,0
+2008-07,Gustav Holst,0
+2008-07,Johann Pachelbel,0
+2008-07,John Coltrane,0
+2008-07,Massive Attack,0
+2008-07,Muse,0
+2008-07,Nirvana,0
+2008-07,Radiohead,0
+2008-07,The Doors,0
+2008-07,The Killers,0
+2008-07,The Smashing Pumpkins,0
+2008-07,Wolfgang Amadeus Mozart,0
+2008-08,Air,0
+2008-08,Alice In Chains,0
+2008-08,Antonio Vivaldi,0
+2008-08,Beck,0
+2008-08,Charlie Parker,0
+2008-08,Coldplay,0
+2008-08,Edvard Grieg,0
+2008-08,Ennio Morricone,0
+2008-08,Green Day,0
+2008-08,Gustav Holst,0
+2008-08,Johann Pachelbel,0
+2008-08,John Coltrane,0
+2008-08,Massive Attack,0
+2008-08,Muse,0
+2008-08,Nirvana,0
+2008-08,Radiohead,0
+2008-08,The Doors,0
+2008-08,The Killers,0
+2008-08,The Smashing Pumpkins,0
+2008-08,Wolfgang Amadeus Mozart,0
+2008-09,Air,0
+2008-09,Alice In Chains,0
+2008-09,Antonio Vivaldi,0
+2008-09,Beck,0
+2008-09,Charlie Parker,0
+2008-09,Coldplay,0
+2008-09,Edvard Grieg,0
+2008-09,Ennio Morricone,0
+2008-09,Green Day,0
+2008-09,Gustav Holst,0
+2008-09,Johann Pachelbel,0
+2008-09,John Coltrane,0
+2008-09,Massive Attack,0
+2008-09,Muse,0
+2008-09,Nirvana,0
+2008-09,Radiohead,0
+2008-09,The Doors,0
+2008-09,The Killers,0
+2008-09,The Smashing Pumpkins,0
+2008-09,Wolfgang Amadeus Mozart,0
+2008-10,Air,0
+2008-10,Alice In Chains,0
+2008-10,Antonio Vivaldi,0
+2008-10,Beck,1
+2008-10,Charlie Parker,0
+2008-10,Coldplay,0
+2008-10,Edvard Grieg,2
+2008-10,Ennio Morricone,1
+2008-10,Green Day,0
+2008-10,Gustav Holst,1
+2008-10,Johann Pachelbel,1
+2008-10,John Coltrane,0
+2008-10,Massive Attack,1
+2008-10,Muse,0
+2008-10,Nirvana,0
+2008-10,Radiohead,0
+2008-10,The Doors,0
+2008-10,The Killers,0
+2008-10,The Smashing Pumpkins,0
+2008-10,Wolfgang Amadeus Mozart,1
+2008-11,Air,0
+2008-11,Alice In Chains,1
+2008-11,Antonio Vivaldi,3
+2008-11,Beck,0
+2008-11,Charlie Parker,0
+2008-11,Coldplay,2
+2008-11,Edvard Grieg,1
+2008-11,Ennio Morricone,1
+2008-11,Green Day,0
+2008-11,Gustav Holst,0
+2008-11,Johann Pachelbel,0
+2008-11,John Coltrane,0
+2008-11,Massive Attack,0
+2008-11,Muse,0
+2008-11,Nirvana,1
+2008-11,Radiohead,1
+2008-11,The Doors,1
+2008-11,The Killers,2
+2008-11,The Smashing Pumpkins,1
+2008-11,Wolfgang Amadeus Mozart,2
+2008-12,Air,1
+2008-12,Alice In Chains,0
+2008-12,Antonio Vivaldi,1
+2008-12,Beck,1
+2008-12,Charlie Parker,0
+2008-12,Coldplay,1
+2008-12,Edvard Grieg,1
+2008-12,Ennio Morricone,1
+2008-12,Green Day,0
+2008-12,Gustav Holst,2
+2008-12,Johann Pachelbel,1
+2008-12,John Coltrane,0
+2008-12,Massive Attack,0
+2008-12,Muse,0
+2008-12,Nirvana,0
+2008-12,Radiohead,1
+2008-12,The Doors,0
+2008-12,The Killers,1
+2008-12,The Smashing Pumpkins,0
+2008-12,Wolfgang Amadeus Mozart,5

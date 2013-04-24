@@ -1,0 +1,241 @@
+month,artist,plays
+2008-04,30 Seconds To Mars,12
+2008-04,Blink-182,7
+2008-04,Coldplay,2
+2008-04,Escape The Fate,14
+2008-04,Fall Out Boy,31
+2008-04,Foo Fighters,3
+2008-04,Good Charlotte,34
+2008-04,Hawthorne Heights,25
+2008-04,Jay-Z And Linkin Park,2
+2008-04,Jimmy Eat World,18
+2008-04,Kanye West,0
+2008-04,My Chemical Romance,57
+2008-04,Nelly,2
+2008-04,Silverchair,42
+2008-04,The All-American Rejects,15
+2008-04,The Black Eyed Peas,4
+2008-04,The Offspring,1
+2008-04,The Red Jumpsuit Apparatus,8
+2008-04,The Used,30
+2008-04,Yellowcard,11
+2008-05,30 Seconds To Mars,23
+2008-05,Blink-182,11
+2008-05,Coldplay,6
+2008-05,Escape The Fate,24
+2008-05,Fall Out Boy,62
+2008-05,Foo Fighters,10
+2008-05,Good Charlotte,54
+2008-05,Hawthorne Heights,36
+2008-05,Jay-Z And Linkin Park,1
+2008-05,Jimmy Eat World,32
+2008-05,Kanye West,1
+2008-05,My Chemical Romance,67
+2008-05,Nelly,7
+2008-05,Silverchair,64
+2008-05,The All-American Rejects,39
+2008-05,The Black Eyed Peas,12
+2008-05,The Offspring,7
+2008-05,The Red Jumpsuit Apparatus,20
+2008-05,The Used,57
+2008-05,Yellowcard,6
+2008-06,30 Seconds To Mars,55
+2008-06,Blink-182,8
+2008-06,Coldplay,6
+2008-06,Escape The Fate,41
+2008-06,Fall Out Boy,61
+2008-06,Foo Fighters,11
+2008-06,Good Charlotte,79
+2008-06,Hawthorne Heights,36
+2008-06,Jay-Z And Linkin Park,3
+2008-06,Jimmy Eat World,37
+2008-06,Kanye West,9
+2008-06,My Chemical Romance,77
+2008-06,Nelly,1
+2008-06,Silverchair,82
+2008-06,The All-American Rejects,39
+2008-06,The Black Eyed Peas,4
+2008-06,The Offspring,4
+2008-06,The Red Jumpsuit Apparatus,16
+2008-06,The Used,63
+2008-06,Yellowcard,18
+2008-07,30 Seconds To Mars,23
+2008-07,Blink-182,9
+2008-07,Coldplay,5
+2008-07,Escape The Fate,33
+2008-07,Fall Out Boy,62
+2008-07,Foo Fighters,11
+2008-07,Good Charlotte,59
+2008-07,Hawthorne Heights,42
+2008-07,Jay-Z And Linkin Park,5
+2008-07,Jimmy Eat World,31
+2008-07,Kanye West,7
+2008-07,My Chemical Romance,67
+2008-07,Nelly,4
+2008-07,Silverchair,81
+2008-07,The All-American Rejects,34
+2008-07,The Black Eyed Peas,8
+2008-07,The Offspring,8
+2008-07,The Red Jumpsuit Apparatus,16
+2008-07,The Used,59
+2008-07,Yellowcard,10
+2008-08,30 Seconds To Mars,12
+2008-08,Blink-182,1
+2008-08,Coldplay,1
+2008-08,Escape The Fate,7
+2008-08,Fall Out Boy,12
+2008-08,Foo Fighters,0
+2008-08,Good Charlotte,14
+2008-08,Hawthorne Heights,16
+2008-08,Jay-Z And Linkin Park,1
+2008-08,Jimmy Eat World,3
+2008-08,Kanye West,1
+2008-08,My Chemical Romance,14
+2008-08,Nelly,1
+2008-08,Silverchair,13
+2008-08,The All-American Rejects,8
+2008-08,The Black Eyed Peas,1
+2008-08,The Offspring,3
+2008-08,The Red Jumpsuit Apparatus,3
+2008-08,The Used,7
+2008-08,Yellowcard,3
+2008-09,30 Seconds To Mars,2
+2008-09,Blink-182,0
+2008-09,Coldplay,0
+2008-09,Escape The Fate,2
+2008-09,Fall Out Boy,4
+2008-09,Foo Fighters,1
+2008-09,Good Charlotte,2
+2008-09,Hawthorne Heights,1
+2008-09,Jay-Z And Linkin Park,0
+2008-09,Jimmy Eat World,3
+2008-09,Kanye West,0
+2008-09,My Chemical Romance,5
+2008-09,Nelly,1
+2008-09,Silverchair,5
+2008-09,The All-American Rejects,3
+2008-09,The Black Eyed Peas,2
+2008-09,The Offspring,1
+2008-09,The Red Jumpsuit Apparatus,0
+2008-09,The Used,5
+2008-09,Yellowcard,0
+2008-10,30 Seconds To Mars,0
+2008-10,Blink-182,1
+2008-10,Coldplay,0
+2008-10,Escape The Fate,0
+2008-10,Fall Out Boy,4
+2008-10,Foo Fighters,2
+2008-10,Good Charlotte,5
+2008-10,Hawthorne Heights,0
+2008-10,Jay-Z And Linkin Park,0
+2008-10,Jimmy Eat World,1
+2008-10,Kanye West,0
+2008-10,My Chemical Romance,5
+2008-10,Nelly,1
+2008-10,Silverchair,6
+2008-10,The All-American Rejects,2
+2008-10,The Black Eyed Peas,1
+2008-10,The Offspring,0
+2008-10,The Red Jumpsuit Apparatus,2
+2008-10,The Used,1
+2008-10,Yellowcard,2
+2008-11,30 Seconds To Mars,1
+2008-11,Blink-182,1
+2008-11,Coldplay,1
+2008-11,Escape The Fate,0
+2008-11,Fall Out Boy,2
+2008-11,Foo Fighters,1
+2008-11,Good Charlotte,5
+2008-11,Hawthorne Heights,0
+2008-11,Jay-Z And Linkin Park,1
+2008-11,Jimmy Eat World,2
+2008-11,Kanye West,4
+2008-11,My Chemical Romance,6
+2008-11,Nelly,0
+2008-11,Silverchair,7
+2008-11,The All-American Rejects,0
+2008-11,The Black Eyed Peas,0
+2008-11,The Offspring,1
+2008-11,The Red Jumpsuit Apparatus,1
+2008-11,The Used,2
+2008-11,Yellowcard,0
+2008-12,30 Seconds To Mars,2
+2008-12,Blink-182,0
+2008-12,Coldplay,0
+2008-12,Escape The Fate,3
+2008-12,Fall Out Boy,3
+2008-12,Foo Fighters,0
+2008-12,Good Charlotte,3
+2008-12,Hawthorne Heights,1
+2008-12,Jay-Z And Linkin Park,0
+2008-12,Jimmy Eat World,2
+2008-12,Kanye West,1
+2008-12,My Chemical Romance,3
+2008-12,Nelly,0
+2008-12,Silverchair,5
+2008-12,The All-American Rejects,0
+2008-12,The Black Eyed Peas,0
+2008-12,The Offspring,1
+2008-12,The Red Jumpsuit Apparatus,0
+2008-12,The Used,1
+2008-12,Yellowcard,1
+2009-01,30 Seconds To Mars,1
+2009-01,Blink-182,0
+2009-01,Coldplay,0
+2009-01,Escape The Fate,0
+2009-01,Fall Out Boy,1
+2009-01,Foo Fighters,0
+2009-01,Good Charlotte,1
+2009-01,Hawthorne Heights,3
+2009-01,Jay-Z And Linkin Park,0
+2009-01,Jimmy Eat World,0
+2009-01,Kanye West,0
+2009-01,My Chemical Romance,0
+2009-01,Nelly,1
+2009-01,Silverchair,0
+2009-01,The All-American Rejects,1
+2009-01,The Black Eyed Peas,0
+2009-01,The Offspring,0
+2009-01,The Red Jumpsuit Apparatus,0
+2009-01,The Used,0
+2009-01,Yellowcard,1
+2009-02,30 Seconds To Mars,0
+2009-02,Blink-182,0
+2009-02,Coldplay,1
+2009-02,Escape The Fate,0
+2009-02,Fall Out Boy,3
+2009-02,Foo Fighters,0
+2009-02,Good Charlotte,1
+2009-02,Hawthorne Heights,2
+2009-02,Jay-Z And Linkin Park,1
+2009-02,Jimmy Eat World,2
+2009-02,Kanye West,1
+2009-02,My Chemical Romance,3
+2009-02,Nelly,1
+2009-02,Silverchair,4
+2009-02,The All-American Rejects,0
+2009-02,The Black Eyed Peas,1
+2009-02,The Offspring,1
+2009-02,The Red Jumpsuit Apparatus,1
+2009-02,The Used,1
+2009-02,Yellowcard,1
+2009-03,30 Seconds To Mars,0
+2009-03,Blink-182,0
+2009-03,Coldplay,0
+2009-03,Escape The Fate,0
+2009-03,Fall Out Boy,0
+2009-03,Foo Fighters,0
+2009-03,Good Charlotte,0
+2009-03,Hawthorne Heights,0
+2009-03,Jay-Z And Linkin Park,4
+2009-03,Jimmy Eat World,0
+2009-03,Kanye West,9
+2009-03,My Chemical Romance,0
+2009-03,Nelly,0
+2009-03,Silverchair,0
+2009-03,The All-American Rejects,0
+2009-03,The Black Eyed Peas,0
+2009-03,The Offspring,0
+2009-03,The Red Jumpsuit Apparatus,0
+2009-03,The Used,0
+2009-03,Yellowcard,0

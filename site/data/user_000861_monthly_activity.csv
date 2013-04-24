@@ -1,0 +1,881 @@
+month,artist,plays
+2005-09,Alanis Morissette,2
+2005-09,Alphaville,5
+2005-09,Depeche Mode,7
+2005-09,Front 242,8
+2005-09,Front Line Assembly,4
+2005-09,Genesis,11
+2005-09,Ice Cube,8
+2005-09,Iron Maiden,4
+2005-09,John Williams,0
+2005-09,Judas Priest,2
+2005-09,Kmfdm,2
+2005-09,Marillion,42
+2005-09,Ministry,4
+2005-09,Morrissey,9
+2005-09,Pink Floyd,16
+2005-09,Roger Waters,9
+2005-09,Rush,9
+2005-09,Sarah Brightman,0
+2005-09,Skinny Puppy,4
+2005-09,The Clash,3
+2005-10,Alanis Morissette,10
+2005-10,Alphaville,29
+2005-10,Depeche Mode,15
+2005-10,Front 242,30
+2005-10,Front Line Assembly,11
+2005-10,Genesis,8
+2005-10,Ice Cube,14
+2005-10,Iron Maiden,4
+2005-10,John Williams,14
+2005-10,Judas Priest,25
+2005-10,Kmfdm,4
+2005-10,Marillion,43
+2005-10,Ministry,10
+2005-10,Morrissey,23
+2005-10,Pink Floyd,19
+2005-10,Roger Waters,9
+2005-10,Rush,40
+2005-10,Sarah Brightman,11
+2005-10,Skinny Puppy,21
+2005-10,The Clash,10
+2005-11,Alanis Morissette,19
+2005-11,Alphaville,68
+2005-11,Depeche Mode,21
+2005-11,Front 242,41
+2005-11,Front Line Assembly,16
+2005-11,Genesis,29
+2005-11,Ice Cube,36
+2005-11,Iron Maiden,14
+2005-11,John Williams,8
+2005-11,Judas Priest,26
+2005-11,Kmfdm,3
+2005-11,Marillion,48
+2005-11,Ministry,8
+2005-11,Morrissey,26
+2005-11,Pink Floyd,48
+2005-11,Roger Waters,78
+2005-11,Rush,41
+2005-11,Sarah Brightman,24
+2005-11,Skinny Puppy,25
+2005-11,The Clash,42
+2005-12,Alanis Morissette,10
+2005-12,Alphaville,81
+2005-12,Depeche Mode,11
+2005-12,Front 242,21
+2005-12,Front Line Assembly,14
+2005-12,Genesis,8
+2005-12,Ice Cube,44
+2005-12,Iron Maiden,15
+2005-12,John Williams,9
+2005-12,Judas Priest,22
+2005-12,Kmfdm,9
+2005-12,Marillion,33
+2005-12,Ministry,26
+2005-12,Morrissey,19
+2005-12,Pink Floyd,41
+2005-12,Roger Waters,24
+2005-12,Rush,39
+2005-12,Sarah Brightman,44
+2005-12,Skinny Puppy,12
+2005-12,The Clash,20
+2006-01,Alanis Morissette,8
+2006-01,Alphaville,55
+2006-01,Depeche Mode,10
+2006-01,Front 242,18
+2006-01,Front Line Assembly,8
+2006-01,Genesis,13
+2006-01,Ice Cube,31
+2006-01,Iron Maiden,24
+2006-01,John Williams,25
+2006-01,Judas Priest,3
+2006-01,Kmfdm,6
+2006-01,Marillion,48
+2006-01,Ministry,30
+2006-01,Morrissey,37
+2006-01,Pink Floyd,22
+2006-01,Roger Waters,34
+2006-01,Rush,28
+2006-01,Sarah Brightman,22
+2006-01,Skinny Puppy,14
+2006-01,The Clash,31
+2006-02,Alanis Morissette,35
+2006-02,Alphaville,92
+2006-02,Depeche Mode,17
+2006-02,Front 242,51
+2006-02,Front Line Assembly,27
+2006-02,Genesis,24
+2006-02,Ice Cube,42
+2006-02,Iron Maiden,12
+2006-02,John Williams,9
+2006-02,Judas Priest,27
+2006-02,Kmfdm,13
+2006-02,Marillion,93
+2006-02,Ministry,16
+2006-02,Morrissey,22
+2006-02,Pink Floyd,67
+2006-02,Roger Waters,25
+2006-02,Rush,32
+2006-02,Sarah Brightman,43
+2006-02,Skinny Puppy,30
+2006-02,The Clash,35
+2006-03,Alanis Morissette,8
+2006-03,Alphaville,40
+2006-03,Depeche Mode,35
+2006-03,Front 242,33
+2006-03,Front Line Assembly,15
+2006-03,Genesis,15
+2006-03,Ice Cube,13
+2006-03,Iron Maiden,11
+2006-03,John Williams,14
+2006-03,Judas Priest,32
+2006-03,Kmfdm,8
+2006-03,Marillion,43
+2006-03,Ministry,19
+2006-03,Morrissey,75
+2006-03,Pink Floyd,37
+2006-03,Roger Waters,21
+2006-03,Rush,38
+2006-03,Sarah Brightman,13
+2006-03,Skinny Puppy,52
+2006-03,The Clash,37
+2006-04,Alanis Morissette,6
+2006-04,Alphaville,12
+2006-04,Depeche Mode,6
+2006-04,Front 242,12
+2006-04,Front Line Assembly,16
+2006-04,Genesis,19
+2006-04,Ice Cube,5
+2006-04,Iron Maiden,27
+2006-04,John Williams,7
+2006-04,Judas Priest,56
+2006-04,Kmfdm,16
+2006-04,Marillion,14
+2006-04,Ministry,82
+2006-04,Morrissey,27
+2006-04,Pink Floyd,35
+2006-04,Roger Waters,11
+2006-04,Rush,16
+2006-04,Sarah Brightman,4
+2006-04,Skinny Puppy,35
+2006-04,The Clash,11
+2006-05,Alanis Morissette,21
+2006-05,Alphaville,35
+2006-05,Depeche Mode,37
+2006-05,Front 242,6
+2006-05,Front Line Assembly,7
+2006-05,Genesis,5
+2006-05,Ice Cube,9
+2006-05,Iron Maiden,4
+2006-05,John Williams,62
+2006-05,Judas Priest,23
+2006-05,Kmfdm,3
+2006-05,Marillion,35
+2006-05,Ministry,4
+2006-05,Morrissey,2
+2006-05,Pink Floyd,70
+2006-05,Roger Waters,75
+2006-05,Rush,83
+2006-05,Sarah Brightman,27
+2006-05,Skinny Puppy,24
+2006-05,The Clash,26
+2006-06,Alanis Morissette,26
+2006-06,Alphaville,93
+2006-06,Depeche Mode,17
+2006-06,Front 242,14
+2006-06,Front Line Assembly,35
+2006-06,Genesis,31
+2006-06,Ice Cube,105
+2006-06,Iron Maiden,11
+2006-06,John Williams,32
+2006-06,Judas Priest,15
+2006-06,Kmfdm,9
+2006-06,Marillion,53
+2006-06,Ministry,16
+2006-06,Morrissey,17
+2006-06,Pink Floyd,67
+2006-06,Roger Waters,71
+2006-06,Rush,57
+2006-06,Sarah Brightman,17
+2006-06,Skinny Puppy,16
+2006-06,The Clash,43
+2006-07,Alanis Morissette,117
+2006-07,Alphaville,33
+2006-07,Depeche Mode,25
+2006-07,Front 242,9
+2006-07,Front Line Assembly,10
+2006-07,Genesis,10
+2006-07,Ice Cube,32
+2006-07,Iron Maiden,26
+2006-07,John Williams,53
+2006-07,Judas Priest,6
+2006-07,Kmfdm,6
+2006-07,Marillion,37
+2006-07,Ministry,13
+2006-07,Morrissey,19
+2006-07,Pink Floyd,39
+2006-07,Roger Waters,12
+2006-07,Rush,95
+2006-07,Sarah Brightman,25
+2006-07,Skinny Puppy,13
+2006-07,The Clash,10
+2006-08,Alanis Morissette,54
+2006-08,Alphaville,18
+2006-08,Depeche Mode,20
+2006-08,Front 242,22
+2006-08,Front Line Assembly,15
+2006-08,Genesis,16
+2006-08,Ice Cube,59
+2006-08,Iron Maiden,63
+2006-08,John Williams,9
+2006-08,Judas Priest,28
+2006-08,Kmfdm,28
+2006-08,Marillion,43
+2006-08,Ministry,8
+2006-08,Morrissey,75
+2006-08,Pink Floyd,105
+2006-08,Roger Waters,20
+2006-08,Rush,50
+2006-08,Sarah Brightman,6
+2006-08,Skinny Puppy,26
+2006-08,The Clash,34
+2006-09,Alanis Morissette,33
+2006-09,Alphaville,3
+2006-09,Depeche Mode,13
+2006-09,Front 242,4
+2006-09,Front Line Assembly,4
+2006-09,Genesis,10
+2006-09,Ice Cube,49
+2006-09,Iron Maiden,47
+2006-09,John Williams,4
+2006-09,Judas Priest,10
+2006-09,Kmfdm,3
+2006-09,Marillion,28
+2006-09,Ministry,7
+2006-09,Morrissey,11
+2006-09,Pink Floyd,40
+2006-09,Roger Waters,43
+2006-09,Rush,14
+2006-09,Sarah Brightman,4
+2006-09,Skinny Puppy,32
+2006-09,The Clash,11
+2006-10,Alanis Morissette,18
+2006-10,Alphaville,4
+2006-10,Depeche Mode,6
+2006-10,Front 242,8
+2006-10,Front Line Assembly,3
+2006-10,Genesis,13
+2006-10,Ice Cube,34
+2006-10,Iron Maiden,6
+2006-10,John Williams,3
+2006-10,Judas Priest,4
+2006-10,Kmfdm,3
+2006-10,Marillion,61
+2006-10,Ministry,18
+2006-10,Morrissey,5
+2006-10,Pink Floyd,31
+2006-10,Roger Waters,31
+2006-10,Rush,29
+2006-10,Sarah Brightman,5
+2006-10,Skinny Puppy,41
+2006-10,The Clash,4
+2006-11,Alanis Morissette,3
+2006-11,Alphaville,287
+2006-11,Depeche Mode,11
+2006-11,Front 242,2
+2006-11,Front Line Assembly,4
+2006-11,Genesis,13
+2006-11,Ice Cube,13
+2006-11,Iron Maiden,15
+2006-11,John Williams,4
+2006-11,Judas Priest,5
+2006-11,Kmfdm,1
+2006-11,Marillion,23
+2006-11,Ministry,2
+2006-11,Morrissey,16
+2006-11,Pink Floyd,7
+2006-11,Roger Waters,3
+2006-11,Rush,65
+2006-11,Sarah Brightman,48
+2006-11,Skinny Puppy,14
+2006-11,The Clash,8
+2006-12,Alanis Morissette,167
+2006-12,Alphaville,141
+2006-12,Depeche Mode,5
+2006-12,Front 242,5
+2006-12,Front Line Assembly,9
+2006-12,Genesis,9
+2006-12,Ice Cube,23
+2006-12,Iron Maiden,6
+2006-12,John Williams,5
+2006-12,Judas Priest,6
+2006-12,Kmfdm,1
+2006-12,Marillion,15
+2006-12,Ministry,6
+2006-12,Morrissey,7
+2006-12,Pink Floyd,10
+2006-12,Roger Waters,39
+2006-12,Rush,27
+2006-12,Sarah Brightman,2
+2006-12,Skinny Puppy,109
+2006-12,The Clash,14
+2007-01,Alanis Morissette,41
+2007-01,Alphaville,25
+2007-01,Depeche Mode,16
+2007-01,Front 242,25
+2007-01,Front Line Assembly,13
+2007-01,Genesis,81
+2007-01,Ice Cube,3
+2007-01,Iron Maiden,1
+2007-01,John Williams,1
+2007-01,Judas Priest,1
+2007-01,Kmfdm,1
+2007-01,Marillion,31
+2007-01,Ministry,13
+2007-01,Morrissey,43
+2007-01,Pink Floyd,7
+2007-01,Roger Waters,2
+2007-01,Rush,6
+2007-01,Sarah Brightman,3
+2007-01,Skinny Puppy,34
+2007-01,The Clash,7
+2007-02,Alanis Morissette,30
+2007-02,Alphaville,48
+2007-02,Depeche Mode,5
+2007-02,Front 242,2
+2007-02,Front Line Assembly,14
+2007-02,Genesis,10
+2007-02,Ice Cube,12
+2007-02,Iron Maiden,28
+2007-02,John Williams,6
+2007-02,Judas Priest,0
+2007-02,Kmfdm,60
+2007-02,Marillion,56
+2007-02,Ministry,0
+2007-02,Morrissey,15
+2007-02,Pink Floyd,7
+2007-02,Roger Waters,14
+2007-02,Rush,12
+2007-02,Sarah Brightman,3
+2007-02,Skinny Puppy,2
+2007-02,The Clash,3
+2007-03,Alanis Morissette,2
+2007-03,Alphaville,54
+2007-03,Depeche Mode,63
+2007-03,Front 242,3
+2007-03,Front Line Assembly,7
+2007-03,Genesis,6
+2007-03,Ice Cube,1
+2007-03,Iron Maiden,4
+2007-03,John Williams,6
+2007-03,Judas Priest,0
+2007-03,Kmfdm,2
+2007-03,Marillion,12
+2007-03,Ministry,2
+2007-03,Morrissey,11
+2007-03,Pink Floyd,9
+2007-03,Roger Waters,35
+2007-03,Rush,9
+2007-03,Sarah Brightman,4
+2007-03,Skinny Puppy,22
+2007-03,The Clash,3
+2007-04,Alanis Morissette,1
+2007-04,Alphaville,1
+2007-04,Depeche Mode,3
+2007-04,Front 242,1
+2007-04,Front Line Assembly,17
+2007-04,Genesis,0
+2007-04,Ice Cube,0
+2007-04,Iron Maiden,20
+2007-04,John Williams,14
+2007-04,Judas Priest,0
+2007-04,Kmfdm,19
+2007-04,Marillion,16
+2007-04,Ministry,0
+2007-04,Morrissey,13
+2007-04,Pink Floyd,0
+2007-04,Roger Waters,0
+2007-04,Rush,83
+2007-04,Sarah Brightman,0
+2007-04,Skinny Puppy,6
+2007-04,The Clash,65
+2007-05,Alanis Morissette,3
+2007-05,Alphaville,68
+2007-05,Depeche Mode,2
+2007-05,Front 242,2
+2007-05,Front Line Assembly,6
+2007-05,Genesis,2
+2007-05,Ice Cube,0
+2007-05,Iron Maiden,23
+2007-05,John Williams,72
+2007-05,Judas Priest,36
+2007-05,Kmfdm,1
+2007-05,Marillion,4
+2007-05,Ministry,2
+2007-05,Morrissey,1
+2007-05,Pink Floyd,20
+2007-05,Roger Waters,93
+2007-05,Rush,66
+2007-05,Sarah Brightman,34
+2007-05,Skinny Puppy,37
+2007-05,The Clash,37
+2007-06,Alanis Morissette,1
+2007-06,Alphaville,0
+2007-06,Depeche Mode,0
+2007-06,Front 242,17
+2007-06,Front Line Assembly,24
+2007-06,Genesis,2
+2007-06,Ice Cube,0
+2007-06,Iron Maiden,1
+2007-06,John Williams,39
+2007-06,Judas Priest,55
+2007-06,Kmfdm,1
+2007-06,Marillion,1
+2007-06,Ministry,1
+2007-06,Morrissey,1
+2007-06,Pink Floyd,6
+2007-06,Roger Waters,46
+2007-06,Rush,15
+2007-06,Sarah Brightman,1
+2007-06,Skinny Puppy,26
+2007-06,The Clash,72
+2007-07,Alanis Morissette,0
+2007-07,Alphaville,0
+2007-07,Depeche Mode,25
+2007-07,Front 242,13
+2007-07,Front Line Assembly,13
+2007-07,Genesis,0
+2007-07,Ice Cube,0
+2007-07,Iron Maiden,0
+2007-07,John Williams,10
+2007-07,Judas Priest,9
+2007-07,Kmfdm,3
+2007-07,Marillion,62
+2007-07,Ministry,47
+2007-07,Morrissey,0
+2007-07,Pink Floyd,0
+2007-07,Roger Waters,0
+2007-07,Rush,24
+2007-07,Sarah Brightman,0
+2007-07,Skinny Puppy,4
+2007-07,The Clash,0
+2007-08,Alanis Morissette,0
+2007-08,Alphaville,6
+2007-08,Depeche Mode,4
+2007-08,Front 242,0
+2007-08,Front Line Assembly,1
+2007-08,Genesis,35
+2007-08,Ice Cube,11
+2007-08,Iron Maiden,8
+2007-08,John Williams,4
+2007-08,Judas Priest,6
+2007-08,Kmfdm,1
+2007-08,Marillion,55
+2007-08,Ministry,28
+2007-08,Morrissey,1
+2007-08,Pink Floyd,2
+2007-08,Roger Waters,2
+2007-08,Rush,13
+2007-08,Sarah Brightman,51
+2007-08,Skinny Puppy,3
+2007-08,The Clash,2
+2007-09,Alanis Morissette,2
+2007-09,Alphaville,9
+2007-09,Depeche Mode,5
+2007-09,Front 242,13
+2007-09,Front Line Assembly,9
+2007-09,Genesis,31
+2007-09,Ice Cube,14
+2007-09,Iron Maiden,23
+2007-09,John Williams,5
+2007-09,Judas Priest,1
+2007-09,Kmfdm,8
+2007-09,Marillion,15
+2007-09,Ministry,7
+2007-09,Morrissey,4
+2007-09,Pink Floyd,39
+2007-09,Roger Waters,1
+2007-09,Rush,85
+2007-09,Sarah Brightman,7
+2007-09,Skinny Puppy,6
+2007-09,The Clash,24
+2007-10,Alanis Morissette,0
+2007-10,Alphaville,9
+2007-10,Depeche Mode,22
+2007-10,Front 242,35
+2007-10,Front Line Assembly,11
+2007-10,Genesis,9
+2007-10,Ice Cube,7
+2007-10,Iron Maiden,3
+2007-10,John Williams,5
+2007-10,Judas Priest,7
+2007-10,Kmfdm,7
+2007-10,Marillion,27
+2007-10,Ministry,40
+2007-10,Morrissey,7
+2007-10,Pink Floyd,4
+2007-10,Roger Waters,12
+2007-10,Rush,22
+2007-10,Sarah Brightman,3
+2007-10,Skinny Puppy,38
+2007-10,The Clash,5
+2007-11,Alanis Morissette,0
+2007-11,Alphaville,83
+2007-11,Depeche Mode,3
+2007-11,Front 242,15
+2007-11,Front Line Assembly,4
+2007-11,Genesis,49
+2007-11,Ice Cube,18
+2007-11,Iron Maiden,5
+2007-11,John Williams,4
+2007-11,Judas Priest,2
+2007-11,Kmfdm,0
+2007-11,Marillion,5
+2007-11,Ministry,46
+2007-11,Morrissey,3
+2007-11,Pink Floyd,3
+2007-11,Roger Waters,103
+2007-11,Rush,13
+2007-11,Sarah Brightman,130
+2007-11,Skinny Puppy,5
+2007-11,The Clash,0
+2007-12,Alanis Morissette,8
+2007-12,Alphaville,5
+2007-12,Depeche Mode,21
+2007-12,Front 242,54
+2007-12,Front Line Assembly,1
+2007-12,Genesis,1
+2007-12,Ice Cube,9
+2007-12,Iron Maiden,5
+2007-12,John Williams,12
+2007-12,Judas Priest,4
+2007-12,Kmfdm,1
+2007-12,Marillion,3
+2007-12,Ministry,48
+2007-12,Morrissey,3
+2007-12,Pink Floyd,3
+2007-12,Roger Waters,31
+2007-12,Rush,0
+2007-12,Sarah Brightman,11
+2007-12,Skinny Puppy,2
+2007-12,The Clash,3
+2008-01,Alanis Morissette,4
+2008-01,Alphaville,7
+2008-01,Depeche Mode,14
+2008-01,Front 242,3
+2008-01,Front Line Assembly,4
+2008-01,Genesis,28
+2008-01,Ice Cube,7
+2008-01,Iron Maiden,1
+2008-01,John Williams,13
+2008-01,Judas Priest,1
+2008-01,Kmfdm,3
+2008-01,Marillion,8
+2008-01,Ministry,22
+2008-01,Morrissey,16
+2008-01,Pink Floyd,147
+2008-01,Roger Waters,85
+2008-01,Rush,40
+2008-01,Sarah Brightman,1
+2008-01,Skinny Puppy,15
+2008-01,The Clash,7
+2008-02,Alanis Morissette,2
+2008-02,Alphaville,44
+2008-02,Depeche Mode,2
+2008-02,Front 242,52
+2008-02,Front Line Assembly,3
+2008-02,Genesis,0
+2008-02,Ice Cube,1
+2008-02,Iron Maiden,0
+2008-02,John Williams,2
+2008-02,Judas Priest,1
+2008-02,Kmfdm,0
+2008-02,Marillion,36
+2008-02,Ministry,9
+2008-02,Morrissey,0
+2008-02,Pink Floyd,5
+2008-02,Roger Waters,60
+2008-02,Rush,9
+2008-02,Sarah Brightman,2
+2008-02,Skinny Puppy,24
+2008-02,The Clash,2
+2008-03,Alanis Morissette,10
+2008-03,Alphaville,3
+2008-03,Depeche Mode,7
+2008-03,Front 242,139
+2008-03,Front Line Assembly,0
+2008-03,Genesis,1
+2008-03,Ice Cube,56
+2008-03,Iron Maiden,4
+2008-03,John Williams,4
+2008-03,Judas Priest,20
+2008-03,Kmfdm,31
+2008-03,Marillion,5
+2008-03,Ministry,5
+2008-03,Morrissey,0
+2008-03,Pink Floyd,61
+2008-03,Roger Waters,40
+2008-03,Rush,0
+2008-03,Sarah Brightman,0
+2008-03,Skinny Puppy,8
+2008-03,The Clash,0
+2008-04,Alanis Morissette,1
+2008-04,Alphaville,0
+2008-04,Depeche Mode,1
+2008-04,Front 242,10
+2008-04,Front Line Assembly,0
+2008-04,Genesis,16
+2008-04,Ice Cube,0
+2008-04,Iron Maiden,0
+2008-04,John Williams,0
+2008-04,Judas Priest,1
+2008-04,Kmfdm,41
+2008-04,Marillion,23
+2008-04,Ministry,52
+2008-04,Morrissey,0
+2008-04,Pink Floyd,42
+2008-04,Roger Waters,14
+2008-04,Rush,207
+2008-04,Sarah Brightman,1
+2008-04,Skinny Puppy,0
+2008-04,The Clash,1
+2008-05,Alanis Morissette,16
+2008-05,Alphaville,0
+2008-05,Depeche Mode,3
+2008-05,Front 242,0
+2008-05,Front Line Assembly,0
+2008-05,Genesis,1
+2008-05,Ice Cube,12
+2008-05,Iron Maiden,1
+2008-05,John Williams,27
+2008-05,Judas Priest,14
+2008-05,Kmfdm,4
+2008-05,Marillion,0
+2008-05,Ministry,1
+2008-05,Morrissey,1
+2008-05,Pink Floyd,12
+2008-05,Roger Waters,6
+2008-05,Rush,13
+2008-05,Sarah Brightman,55
+2008-05,Skinny Puppy,0
+2008-05,The Clash,1
+2008-06,Alanis Morissette,75
+2008-06,Alphaville,168
+2008-06,Depeche Mode,1
+2008-06,Front 242,15
+2008-06,Front Line Assembly,15
+2008-06,Genesis,13
+2008-06,Ice Cube,1
+2008-06,Iron Maiden,29
+2008-06,John Williams,170
+2008-06,Judas Priest,3
+2008-06,Kmfdm,4
+2008-06,Marillion,1
+2008-06,Ministry,2
+2008-06,Morrissey,51
+2008-06,Pink Floyd,21
+2008-06,Roger Waters,1
+2008-06,Rush,175
+2008-06,Sarah Brightman,74
+2008-06,Skinny Puppy,11
+2008-06,The Clash,22
+2008-07,Alanis Morissette,76
+2008-07,Alphaville,77
+2008-07,Depeche Mode,21
+2008-07,Front 242,27
+2008-07,Front Line Assembly,27
+2008-07,Genesis,11
+2008-07,Ice Cube,0
+2008-07,Iron Maiden,15
+2008-07,John Williams,68
+2008-07,Judas Priest,97
+2008-07,Kmfdm,1
+2008-07,Marillion,0
+2008-07,Ministry,28
+2008-07,Morrissey,56
+2008-07,Pink Floyd,32
+2008-07,Roger Waters,0
+2008-07,Rush,29
+2008-07,Sarah Brightman,234
+2008-07,Skinny Puppy,2
+2008-07,The Clash,19
+2008-08,Alanis Morissette,2
+2008-08,Alphaville,45
+2008-08,Depeche Mode,6
+2008-08,Front 242,116
+2008-08,Front Line Assembly,0
+2008-08,Genesis,10
+2008-08,Ice Cube,16
+2008-08,Iron Maiden,1
+2008-08,John Williams,69
+2008-08,Judas Priest,52
+2008-08,Kmfdm,1
+2008-08,Marillion,2
+2008-08,Ministry,10
+2008-08,Morrissey,22
+2008-08,Pink Floyd,13
+2008-08,Roger Waters,20
+2008-08,Rush,55
+2008-08,Sarah Brightman,32
+2008-08,Skinny Puppy,24
+2008-08,The Clash,40
+2008-09,Alanis Morissette,10
+2008-09,Alphaville,155
+2008-09,Depeche Mode,0
+2008-09,Front 242,10
+2008-09,Front Line Assembly,1
+2008-09,Genesis,0
+2008-09,Ice Cube,1
+2008-09,Iron Maiden,0
+2008-09,John Williams,8
+2008-09,Judas Priest,0
+2008-09,Kmfdm,0
+2008-09,Marillion,4
+2008-09,Ministry,0
+2008-09,Morrissey,2
+2008-09,Pink Floyd,371
+2008-09,Roger Waters,653
+2008-09,Rush,8
+2008-09,Sarah Brightman,33
+2008-09,Skinny Puppy,0
+2008-09,The Clash,18
+2008-10,Alanis Morissette,2
+2008-10,Alphaville,3
+2008-10,Depeche Mode,3
+2008-10,Front 242,12
+2008-10,Front Line Assembly,5
+2008-10,Genesis,15
+2008-10,Ice Cube,30
+2008-10,Iron Maiden,17
+2008-10,John Williams,8
+2008-10,Judas Priest,12
+2008-10,Kmfdm,1
+2008-10,Marillion,2
+2008-10,Ministry,13
+2008-10,Morrissey,9
+2008-10,Pink Floyd,162
+2008-10,Roger Waters,132
+2008-10,Rush,13
+2008-10,Sarah Brightman,16
+2008-10,Skinny Puppy,5
+2008-10,The Clash,94
+2008-11,Alanis Morissette,18
+2008-11,Alphaville,33
+2008-11,Depeche Mode,21
+2008-11,Front 242,92
+2008-11,Front Line Assembly,0
+2008-11,Genesis,6
+2008-11,Ice Cube,13
+2008-11,Iron Maiden,17
+2008-11,John Williams,10
+2008-11,Judas Priest,12
+2008-11,Kmfdm,45
+2008-11,Marillion,4
+2008-11,Ministry,38
+2008-11,Morrissey,26
+2008-11,Pink Floyd,52
+2008-11,Roger Waters,2
+2008-11,Rush,4
+2008-11,Sarah Brightman,73
+2008-11,Skinny Puppy,6
+2008-11,The Clash,22
+2008-12,Alanis Morissette,2
+2008-12,Alphaville,3
+2008-12,Depeche Mode,22
+2008-12,Front 242,22
+2008-12,Front Line Assembly,21
+2008-12,Genesis,42
+2008-12,Ice Cube,1
+2008-12,Iron Maiden,3
+2008-12,John Williams,14
+2008-12,Judas Priest,15
+2008-12,Kmfdm,35
+2008-12,Marillion,27
+2008-12,Ministry,6
+2008-12,Morrissey,1
+2008-12,Pink Floyd,0
+2008-12,Roger Waters,3
+2008-12,Rush,19
+2008-12,Sarah Brightman,387
+2008-12,Skinny Puppy,8
+2008-12,The Clash,45
+2009-01,Alanis Morissette,1
+2009-01,Alphaville,60
+2009-01,Depeche Mode,39
+2009-01,Front 242,19
+2009-01,Front Line Assembly,58
+2009-01,Genesis,32
+2009-01,Ice Cube,3
+2009-01,Iron Maiden,33
+2009-01,John Williams,13
+2009-01,Judas Priest,6
+2009-01,Kmfdm,11
+2009-01,Marillion,16
+2009-01,Ministry,36
+2009-01,Morrissey,10
+2009-01,Pink Floyd,36
+2009-01,Roger Waters,33
+2009-01,Rush,68
+2009-01,Sarah Brightman,150
+2009-01,Skinny Puppy,12
+2009-01,The Clash,83
+2009-02,Alanis Morissette,19
+2009-02,Alphaville,32
+2009-02,Depeche Mode,11
+2009-02,Front 242,44
+2009-02,Front Line Assembly,33
+2009-02,Genesis,2
+2009-02,Ice Cube,38
+2009-02,Iron Maiden,40
+2009-02,John Williams,19
+2009-02,Judas Priest,23
+2009-02,Kmfdm,9
+2009-02,Marillion,3
+2009-02,Ministry,1
+2009-02,Morrissey,71
+2009-02,Pink Floyd,1
+2009-02,Roger Waters,11
+2009-02,Rush,9
+2009-02,Sarah Brightman,59
+2009-02,Skinny Puppy,51
+2009-02,The Clash,0
+2009-03,Alanis Morissette,3
+2009-03,Alphaville,0
+2009-03,Depeche Mode,3
+2009-03,Front 242,8
+2009-03,Front Line Assembly,2
+2009-03,Genesis,5
+2009-03,Ice Cube,120
+2009-03,Iron Maiden,0
+2009-03,John Williams,1
+2009-03,Judas Priest,0
+2009-03,Kmfdm,27
+2009-03,Marillion,0
+2009-03,Ministry,20
+2009-03,Morrissey,20
+2009-03,Pink Floyd,0
+2009-03,Roger Waters,0
+2009-03,Rush,8
+2009-03,Sarah Brightman,16
+2009-03,Skinny Puppy,1
+2009-03,The Clash,1
+2009-04,Alanis Morissette,0
+2009-04,Alphaville,0
+2009-04,Depeche Mode,42
+2009-04,Front 242,5
+2009-04,Front Line Assembly,0
+2009-04,Genesis,0
+2009-04,Ice Cube,6
+2009-04,Iron Maiden,9
+2009-04,John Williams,0
+2009-04,Judas Priest,0
+2009-04,Kmfdm,3
+2009-04,Marillion,108
+2009-04,Ministry,29
+2009-04,Morrissey,4
+2009-04,Pink Floyd,0
+2009-04,Roger Waters,0
+2009-04,Rush,28
+2009-04,Sarah Brightman,9
+2009-04,Skinny Puppy,0
+2009-04,The Clash,0

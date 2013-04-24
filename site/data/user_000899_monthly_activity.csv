@@ -1,0 +1,881 @@
+month,artist,plays
+2005-10,After Forever,19
+2005-10,Björk,0
+2005-10,Boards Of Canada,16
+2005-10,Delerium,11
+2005-10,Download,18
+2005-10,Faust,0
+2005-10,Hallucinogen,0
+2005-10,Massive Attack,11
+2005-10,Melvins,10
+2005-10,Mogwai,10
+2005-10,Múm,26
+2005-10,Nine Inch Nails,104
+2005-10,Ohgr,32
+2005-10,Ozric Tentacles,0
+2005-10,Sigur Rós,112
+2005-10,Skinny Puppy,132
+2005-10,The Album Leaf,0
+2005-10,The Legendary Pink Dots,194
+2005-10,The Tear Garden,62
+2005-10,Tool,38
+2005-11,After Forever,19
+2005-11,Björk,0
+2005-11,Boards Of Canada,16
+2005-11,Delerium,17
+2005-11,Download,0
+2005-11,Faust,0
+2005-11,Hallucinogen,0
+2005-11,Massive Attack,31
+2005-11,Melvins,30
+2005-11,Mogwai,6
+2005-11,Múm,22
+2005-11,Nine Inch Nails,32
+2005-11,Ohgr,7
+2005-11,Ozric Tentacles,0
+2005-11,Sigur Rós,176
+2005-11,Skinny Puppy,162
+2005-11,The Album Leaf,0
+2005-11,The Legendary Pink Dots,10
+2005-11,The Tear Garden,38
+2005-11,Tool,6
+2005-12,After Forever,2
+2005-12,Björk,0
+2005-12,Boards Of Canada,2
+2005-12,Delerium,2
+2005-12,Download,0
+2005-12,Faust,0
+2005-12,Hallucinogen,1
+2005-12,Massive Attack,0
+2005-12,Melvins,17
+2005-12,Mogwai,0
+2005-12,Múm,0
+2005-12,Nine Inch Nails,2
+2005-12,Ohgr,11
+2005-12,Ozric Tentacles,0
+2005-12,Sigur Rós,87
+2005-12,Skinny Puppy,65
+2005-12,The Album Leaf,0
+2005-12,The Legendary Pink Dots,56
+2005-12,The Tear Garden,13
+2005-12,Tool,0
+2006-01,After Forever,0
+2006-01,Björk,0
+2006-01,Boards Of Canada,0
+2006-01,Delerium,2
+2006-01,Download,0
+2006-01,Faust,0
+2006-01,Hallucinogen,8
+2006-01,Massive Attack,4
+2006-01,Melvins,10
+2006-01,Mogwai,9
+2006-01,Múm,17
+2006-01,Nine Inch Nails,0
+2006-01,Ohgr,2
+2006-01,Ozric Tentacles,0
+2006-01,Sigur Rós,109
+2006-01,Skinny Puppy,29
+2006-01,The Album Leaf,0
+2006-01,The Legendary Pink Dots,22
+2006-01,The Tear Garden,30
+2006-01,Tool,5
+2006-02,After Forever,0
+2006-02,Björk,0
+2006-02,Boards Of Canada,15
+2006-02,Delerium,0
+2006-02,Download,1
+2006-02,Faust,9
+2006-02,Hallucinogen,8
+2006-02,Massive Attack,1
+2006-02,Melvins,0
+2006-02,Mogwai,0
+2006-02,Múm,9
+2006-02,Nine Inch Nails,6
+2006-02,Ohgr,1
+2006-02,Ozric Tentacles,0
+2006-02,Sigur Rós,92
+2006-02,Skinny Puppy,27
+2006-02,The Album Leaf,0
+2006-02,The Legendary Pink Dots,20
+2006-02,The Tear Garden,6
+2006-02,Tool,13
+2006-03,After Forever,0
+2006-03,Björk,0
+2006-03,Boards Of Canada,0
+2006-03,Delerium,0
+2006-03,Download,0
+2006-03,Faust,0
+2006-03,Hallucinogen,1
+2006-03,Massive Attack,8
+2006-03,Melvins,2
+2006-03,Mogwai,0
+2006-03,Múm,0
+2006-03,Nine Inch Nails,37
+2006-03,Ohgr,0
+2006-03,Ozric Tentacles,0
+2006-03,Sigur Rós,87
+2006-03,Skinny Puppy,42
+2006-03,The Album Leaf,0
+2006-03,The Legendary Pink Dots,1
+2006-03,The Tear Garden,0
+2006-03,Tool,12
+2006-04,After Forever,0
+2006-04,Björk,0
+2006-04,Boards Of Canada,0
+2006-04,Delerium,164
+2006-04,Download,0
+2006-04,Faust,0
+2006-04,Hallucinogen,0
+2006-04,Massive Attack,0
+2006-04,Melvins,10
+2006-04,Mogwai,0
+2006-04,Múm,2
+2006-04,Nine Inch Nails,0
+2006-04,Ohgr,0
+2006-04,Ozric Tentacles,0
+2006-04,Sigur Rós,104
+2006-04,Skinny Puppy,39
+2006-04,The Album Leaf,12
+2006-04,The Legendary Pink Dots,1
+2006-04,The Tear Garden,8
+2006-04,Tool,19
+2006-05,After Forever,0
+2006-05,Björk,0
+2006-05,Boards Of Canada,0
+2006-05,Delerium,0
+2006-05,Download,0
+2006-05,Faust,0
+2006-05,Hallucinogen,0
+2006-05,Massive Attack,9
+2006-05,Melvins,15
+2006-05,Mogwai,0
+2006-05,Múm,6
+2006-05,Nine Inch Nails,8
+2006-05,Ohgr,0
+2006-05,Ozric Tentacles,0
+2006-05,Sigur Rós,40
+2006-05,Skinny Puppy,25
+2006-05,The Album Leaf,6
+2006-05,The Legendary Pink Dots,0
+2006-05,The Tear Garden,0
+2006-05,Tool,84
+2006-06,After Forever,15
+2006-06,Björk,0
+2006-06,Boards Of Canada,1
+2006-06,Delerium,16
+2006-06,Download,0
+2006-06,Faust,213
+2006-06,Hallucinogen,0
+2006-06,Massive Attack,11
+2006-06,Melvins,2
+2006-06,Mogwai,0
+2006-06,Múm,1
+2006-06,Nine Inch Nails,4
+2006-06,Ohgr,3
+2006-06,Ozric Tentacles,0
+2006-06,Sigur Rós,104
+2006-06,Skinny Puppy,44
+2006-06,The Album Leaf,10
+2006-06,The Legendary Pink Dots,33
+2006-06,The Tear Garden,12
+2006-06,Tool,12
+2006-07,After Forever,24
+2006-07,Björk,27
+2006-07,Boards Of Canada,0
+2006-07,Delerium,8
+2006-07,Download,0
+2006-07,Faust,19
+2006-07,Hallucinogen,0
+2006-07,Massive Attack,18
+2006-07,Melvins,0
+2006-07,Mogwai,0
+2006-07,Múm,13
+2006-07,Nine Inch Nails,24
+2006-07,Ohgr,0
+2006-07,Ozric Tentacles,0
+2006-07,Sigur Rós,100
+2006-07,Skinny Puppy,63
+2006-07,The Album Leaf,0
+2006-07,The Legendary Pink Dots,11
+2006-07,The Tear Garden,1
+2006-07,Tool,24
+2006-08,After Forever,4
+2006-08,Björk,37
+2006-08,Boards Of Canada,0
+2006-08,Delerium,0
+2006-08,Download,0
+2006-08,Faust,21
+2006-08,Hallucinogen,26
+2006-08,Massive Attack,12
+2006-08,Melvins,14
+2006-08,Mogwai,30
+2006-08,Múm,13
+2006-08,Nine Inch Nails,0
+2006-08,Ohgr,0
+2006-08,Ozric Tentacles,0
+2006-08,Sigur Rós,128
+2006-08,Skinny Puppy,92
+2006-08,The Album Leaf,6
+2006-08,The Legendary Pink Dots,10
+2006-08,The Tear Garden,35
+2006-08,Tool,47
+2006-09,After Forever,17
+2006-09,Björk,24
+2006-09,Boards Of Canada,0
+2006-09,Delerium,1
+2006-09,Download,0
+2006-09,Faust,34
+2006-09,Hallucinogen,9
+2006-09,Massive Attack,8
+2006-09,Melvins,1
+2006-09,Mogwai,2
+2006-09,Múm,3
+2006-09,Nine Inch Nails,19
+2006-09,Ohgr,19
+2006-09,Ozric Tentacles,0
+2006-09,Sigur Rós,95
+2006-09,Skinny Puppy,110
+2006-09,The Album Leaf,5
+2006-09,The Legendary Pink Dots,0
+2006-09,The Tear Garden,27
+2006-09,Tool,49
+2006-10,After Forever,18
+2006-10,Björk,2
+2006-10,Boards Of Canada,9
+2006-10,Delerium,4
+2006-10,Download,0
+2006-10,Faust,16
+2006-10,Hallucinogen,12
+2006-10,Massive Attack,1
+2006-10,Melvins,20
+2006-10,Mogwai,10
+2006-10,Múm,0
+2006-10,Nine Inch Nails,69
+2006-10,Ohgr,5
+2006-10,Ozric Tentacles,8
+2006-10,Sigur Rós,77
+2006-10,Skinny Puppy,53
+2006-10,The Album Leaf,6
+2006-10,The Legendary Pink Dots,20
+2006-10,The Tear Garden,8
+2006-10,Tool,36
+2006-11,After Forever,4
+2006-11,Björk,0
+2006-11,Boards Of Canada,2
+2006-11,Delerium,3
+2006-11,Download,17
+2006-11,Faust,15
+2006-11,Hallucinogen,1
+2006-11,Massive Attack,2
+2006-11,Melvins,41
+2006-11,Mogwai,11
+2006-11,Múm,14
+2006-11,Nine Inch Nails,23
+2006-11,Ohgr,1
+2006-11,Ozric Tentacles,3
+2006-11,Sigur Rós,44
+2006-11,Skinny Puppy,44
+2006-11,The Album Leaf,5
+2006-11,The Legendary Pink Dots,11
+2006-11,The Tear Garden,11
+2006-11,Tool,57
+2006-12,After Forever,4
+2006-12,Björk,20
+2006-12,Boards Of Canada,0
+2006-12,Delerium,9
+2006-12,Download,7
+2006-12,Faust,32
+2006-12,Hallucinogen,5
+2006-12,Massive Attack,1
+2006-12,Melvins,17
+2006-12,Mogwai,14
+2006-12,Múm,4
+2006-12,Nine Inch Nails,43
+2006-12,Ohgr,0
+2006-12,Ozric Tentacles,19
+2006-12,Sigur Rós,57
+2006-12,Skinny Puppy,11
+2006-12,The Album Leaf,8
+2006-12,The Legendary Pink Dots,9
+2006-12,The Tear Garden,34
+2006-12,Tool,68
+2007-01,After Forever,1
+2007-01,Björk,10
+2007-01,Boards Of Canada,5
+2007-01,Delerium,7
+2007-01,Download,1
+2007-01,Faust,72
+2007-01,Hallucinogen,2
+2007-01,Massive Attack,3
+2007-01,Melvins,15
+2007-01,Mogwai,0
+2007-01,Múm,11
+2007-01,Nine Inch Nails,16
+2007-01,Ohgr,1
+2007-01,Ozric Tentacles,8
+2007-01,Sigur Rós,35
+2007-01,Skinny Puppy,61
+2007-01,The Album Leaf,1
+2007-01,The Legendary Pink Dots,10
+2007-01,The Tear Garden,5
+2007-01,Tool,44
+2007-02,After Forever,12
+2007-02,Björk,3
+2007-02,Boards Of Canada,0
+2007-02,Delerium,0
+2007-02,Download,7
+2007-02,Faust,99
+2007-02,Hallucinogen,0
+2007-02,Massive Attack,0
+2007-02,Melvins,1
+2007-02,Mogwai,10
+2007-02,Múm,2
+2007-02,Nine Inch Nails,2
+2007-02,Ohgr,12
+2007-02,Ozric Tentacles,5
+2007-02,Sigur Rós,49
+2007-02,Skinny Puppy,116
+2007-02,The Album Leaf,0
+2007-02,The Legendary Pink Dots,17
+2007-02,The Tear Garden,13
+2007-02,Tool,9
+2007-03,After Forever,0
+2007-03,Björk,6
+2007-03,Boards Of Canada,9
+2007-03,Delerium,0
+2007-03,Download,2
+2007-03,Faust,100
+2007-03,Hallucinogen,8
+2007-03,Massive Attack,15
+2007-03,Melvins,11
+2007-03,Mogwai,2
+2007-03,Múm,14
+2007-03,Nine Inch Nails,34
+2007-03,Ohgr,0
+2007-03,Ozric Tentacles,15
+2007-03,Sigur Rós,42
+2007-03,Skinny Puppy,65
+2007-03,The Album Leaf,10
+2007-03,The Legendary Pink Dots,0
+2007-03,The Tear Garden,19
+2007-03,Tool,28
+2007-04,After Forever,14
+2007-04,Björk,57
+2007-04,Boards Of Canada,9
+2007-04,Delerium,4
+2007-04,Download,16
+2007-04,Faust,89
+2007-04,Hallucinogen,25
+2007-04,Massive Attack,15
+2007-04,Melvins,5
+2007-04,Mogwai,3
+2007-04,Múm,4
+2007-04,Nine Inch Nails,98
+2007-04,Ohgr,6
+2007-04,Ozric Tentacles,37
+2007-04,Sigur Rós,60
+2007-04,Skinny Puppy,53
+2007-04,The Album Leaf,4
+2007-04,The Legendary Pink Dots,1
+2007-04,The Tear Garden,18
+2007-04,Tool,33
+2007-05,After Forever,8
+2007-05,Björk,38
+2007-05,Boards Of Canada,32
+2007-05,Delerium,22
+2007-05,Download,32
+2007-05,Faust,136
+2007-05,Hallucinogen,60
+2007-05,Massive Attack,41
+2007-05,Melvins,58
+2007-05,Mogwai,7
+2007-05,Múm,34
+2007-05,Nine Inch Nails,29
+2007-05,Ohgr,4
+2007-05,Ozric Tentacles,31
+2007-05,Sigur Rós,70
+2007-05,Skinny Puppy,72
+2007-05,The Album Leaf,14
+2007-05,The Legendary Pink Dots,32
+2007-05,The Tear Garden,10
+2007-05,Tool,43
+2007-06,After Forever,0
+2007-06,Björk,33
+2007-06,Boards Of Canada,7
+2007-06,Delerium,0
+2007-06,Download,53
+2007-06,Faust,41
+2007-06,Hallucinogen,36
+2007-06,Massive Attack,10
+2007-06,Melvins,48
+2007-06,Mogwai,0
+2007-06,Múm,6
+2007-06,Nine Inch Nails,33
+2007-06,Ohgr,11
+2007-06,Ozric Tentacles,101
+2007-06,Sigur Rós,48
+2007-06,Skinny Puppy,80
+2007-06,The Album Leaf,3
+2007-06,The Legendary Pink Dots,10
+2007-06,The Tear Garden,0
+2007-06,Tool,58
+2007-07,After Forever,0
+2007-07,Björk,18
+2007-07,Boards Of Canada,1
+2007-07,Delerium,1
+2007-07,Download,24
+2007-07,Faust,103
+2007-07,Hallucinogen,42
+2007-07,Massive Attack,1
+2007-07,Melvins,13
+2007-07,Mogwai,10
+2007-07,Múm,1
+2007-07,Nine Inch Nails,36
+2007-07,Ohgr,0
+2007-07,Ozric Tentacles,40
+2007-07,Sigur Rós,42
+2007-07,Skinny Puppy,164
+2007-07,The Album Leaf,4
+2007-07,The Legendary Pink Dots,0
+2007-07,The Tear Garden,3
+2007-07,Tool,96
+2007-08,After Forever,7
+2007-08,Björk,3
+2007-08,Boards Of Canada,11
+2007-08,Delerium,9
+2007-08,Download,56
+2007-08,Faust,81
+2007-08,Hallucinogen,37
+2007-08,Massive Attack,2
+2007-08,Melvins,8
+2007-08,Mogwai,0
+2007-08,Múm,1
+2007-08,Nine Inch Nails,27
+2007-08,Ohgr,0
+2007-08,Ozric Tentacles,106
+2007-08,Sigur Rós,81
+2007-08,Skinny Puppy,118
+2007-08,The Album Leaf,0
+2007-08,The Legendary Pink Dots,21
+2007-08,The Tear Garden,11
+2007-08,Tool,131
+2007-09,After Forever,13
+2007-09,Björk,10
+2007-09,Boards Of Canada,4
+2007-09,Delerium,5
+2007-09,Download,24
+2007-09,Faust,82
+2007-09,Hallucinogen,35
+2007-09,Massive Attack,2
+2007-09,Melvins,16
+2007-09,Mogwai,1
+2007-09,Múm,13
+2007-09,Nine Inch Nails,34
+2007-09,Ohgr,11
+2007-09,Ozric Tentacles,57
+2007-09,Sigur Rós,85
+2007-09,Skinny Puppy,122
+2007-09,The Album Leaf,2
+2007-09,The Legendary Pink Dots,14
+2007-09,The Tear Garden,17
+2007-09,Tool,57
+2007-10,After Forever,31
+2007-10,Björk,3
+2007-10,Boards Of Canada,8
+2007-10,Delerium,7
+2007-10,Download,31
+2007-10,Faust,70
+2007-10,Hallucinogen,40
+2007-10,Massive Attack,1
+2007-10,Melvins,17
+2007-10,Mogwai,0
+2007-10,Múm,18
+2007-10,Nine Inch Nails,24
+2007-10,Ohgr,0
+2007-10,Ozric Tentacles,67
+2007-10,Sigur Rós,55
+2007-10,Skinny Puppy,83
+2007-10,The Album Leaf,10
+2007-10,The Legendary Pink Dots,23
+2007-10,The Tear Garden,5
+2007-10,Tool,132
+2007-11,After Forever,0
+2007-11,Björk,5
+2007-11,Boards Of Canada,21
+2007-11,Delerium,0
+2007-11,Download,19
+2007-11,Faust,89
+2007-11,Hallucinogen,32
+2007-11,Massive Attack,10
+2007-11,Melvins,16
+2007-11,Mogwai,0
+2007-11,Múm,63
+2007-11,Nine Inch Nails,38
+2007-11,Ohgr,2
+2007-11,Ozric Tentacles,92
+2007-11,Sigur Rós,91
+2007-11,Skinny Puppy,55
+2007-11,The Album Leaf,0
+2007-11,The Legendary Pink Dots,4
+2007-11,The Tear Garden,5
+2007-11,Tool,181
+2007-12,After Forever,7
+2007-12,Björk,22
+2007-12,Boards Of Canada,22
+2007-12,Delerium,7
+2007-12,Download,26
+2007-12,Faust,132
+2007-12,Hallucinogen,28
+2007-12,Massive Attack,5
+2007-12,Melvins,9
+2007-12,Mogwai,2
+2007-12,Múm,42
+2007-12,Nine Inch Nails,51
+2007-12,Ohgr,5
+2007-12,Ozric Tentacles,155
+2007-12,Sigur Rós,87
+2007-12,Skinny Puppy,128
+2007-12,The Album Leaf,15
+2007-12,The Legendary Pink Dots,15
+2007-12,The Tear Garden,6
+2007-12,Tool,199
+2008-01,After Forever,5
+2008-01,Björk,10
+2008-01,Boards Of Canada,10
+2008-01,Delerium,23
+2008-01,Download,2
+2008-01,Faust,85
+2008-01,Hallucinogen,18
+2008-01,Massive Attack,20
+2008-01,Melvins,45
+2008-01,Mogwai,2
+2008-01,Múm,32
+2008-01,Nine Inch Nails,61
+2008-01,Ohgr,4
+2008-01,Ozric Tentacles,159
+2008-01,Sigur Rós,101
+2008-01,Skinny Puppy,122
+2008-01,The Album Leaf,4
+2008-01,The Legendary Pink Dots,29
+2008-01,The Tear Garden,9
+2008-01,Tool,187
+2008-02,After Forever,33
+2008-02,Björk,105
+2008-02,Boards Of Canada,27
+2008-02,Delerium,12
+2008-02,Download,40
+2008-02,Faust,77
+2008-02,Hallucinogen,52
+2008-02,Massive Attack,17
+2008-02,Melvins,16
+2008-02,Mogwai,15
+2008-02,Múm,27
+2008-02,Nine Inch Nails,57
+2008-02,Ohgr,17
+2008-02,Ozric Tentacles,107
+2008-02,Sigur Rós,233
+2008-02,Skinny Puppy,153
+2008-02,The Album Leaf,19
+2008-02,The Legendary Pink Dots,23
+2008-02,The Tear Garden,29
+2008-02,Tool,245
+2008-03,After Forever,12
+2008-03,Björk,14
+2008-03,Boards Of Canada,22
+2008-03,Delerium,23
+2008-03,Download,20
+2008-03,Faust,105
+2008-03,Hallucinogen,62
+2008-03,Massive Attack,24
+2008-03,Melvins,60
+2008-03,Mogwai,5
+2008-03,Múm,36
+2008-03,Nine Inch Nails,94
+2008-03,Ohgr,11
+2008-03,Ozric Tentacles,93
+2008-03,Sigur Rós,95
+2008-03,Skinny Puppy,212
+2008-03,The Album Leaf,11
+2008-03,The Legendary Pink Dots,32
+2008-03,The Tear Garden,12
+2008-03,Tool,186
+2008-04,After Forever,14
+2008-04,Björk,9
+2008-04,Boards Of Canada,6
+2008-04,Delerium,4
+2008-04,Download,24
+2008-04,Faust,75
+2008-04,Hallucinogen,55
+2008-04,Massive Attack,15
+2008-04,Melvins,9
+2008-04,Mogwai,2
+2008-04,Múm,4
+2008-04,Nine Inch Nails,47
+2008-04,Ohgr,2
+2008-04,Ozric Tentacles,85
+2008-04,Sigur Rós,161
+2008-04,Skinny Puppy,112
+2008-04,The Album Leaf,6
+2008-04,The Legendary Pink Dots,6
+2008-04,The Tear Garden,1
+2008-04,Tool,166
+2008-05,After Forever,15
+2008-05,Björk,15
+2008-05,Boards Of Canada,14
+2008-05,Delerium,11
+2008-05,Download,8
+2008-05,Faust,34
+2008-05,Hallucinogen,8
+2008-05,Massive Attack,5
+2008-05,Melvins,38
+2008-05,Mogwai,3
+2008-05,Múm,41
+2008-05,Nine Inch Nails,28
+2008-05,Ohgr,5
+2008-05,Ozric Tentacles,48
+2008-05,Sigur Rós,76
+2008-05,Skinny Puppy,90
+2008-05,The Album Leaf,14
+2008-05,The Legendary Pink Dots,28
+2008-05,The Tear Garden,7
+2008-05,Tool,68
+2008-06,After Forever,0
+2008-06,Björk,6
+2008-06,Boards Of Canada,3
+2008-06,Delerium,0
+2008-06,Download,1
+2008-06,Faust,10
+2008-06,Hallucinogen,12
+2008-06,Massive Attack,9
+2008-06,Melvins,0
+2008-06,Mogwai,0
+2008-06,Múm,15
+2008-06,Nine Inch Nails,2
+2008-06,Ohgr,0
+2008-06,Ozric Tentacles,20
+2008-06,Sigur Rós,105
+2008-06,Skinny Puppy,20
+2008-06,The Album Leaf,0
+2008-06,The Legendary Pink Dots,0
+2008-06,The Tear Garden,0
+2008-06,Tool,68
+2008-07,After Forever,0
+2008-07,Björk,13
+2008-07,Boards Of Canada,2
+2008-07,Delerium,0
+2008-07,Download,7
+2008-07,Faust,16
+2008-07,Hallucinogen,1
+2008-07,Massive Attack,13
+2008-07,Melvins,11
+2008-07,Mogwai,0
+2008-07,Múm,33
+2008-07,Nine Inch Nails,1
+2008-07,Ohgr,2
+2008-07,Ozric Tentacles,14
+2008-07,Sigur Rós,148
+2008-07,Skinny Puppy,9
+2008-07,The Album Leaf,0
+2008-07,The Legendary Pink Dots,1
+2008-07,The Tear Garden,7
+2008-07,Tool,35
+2008-08,After Forever,2
+2008-08,Björk,5
+2008-08,Boards Of Canada,6
+2008-08,Delerium,3
+2008-08,Download,9
+2008-08,Faust,39
+2008-08,Hallucinogen,7
+2008-08,Massive Attack,1
+2008-08,Melvins,14
+2008-08,Mogwai,16
+2008-08,Múm,48
+2008-08,Nine Inch Nails,11
+2008-08,Ohgr,3
+2008-08,Ozric Tentacles,52
+2008-08,Sigur Rós,198
+2008-08,Skinny Puppy,21
+2008-08,The Album Leaf,26
+2008-08,The Legendary Pink Dots,6
+2008-08,The Tear Garden,18
+2008-08,Tool,79
+2008-09,After Forever,2
+2008-09,Björk,29
+2008-09,Boards Of Canada,23
+2008-09,Delerium,0
+2008-09,Download,8
+2008-09,Faust,14
+2008-09,Hallucinogen,17
+2008-09,Massive Attack,5
+2008-09,Melvins,1
+2008-09,Mogwai,5
+2008-09,Múm,66
+2008-09,Nine Inch Nails,4
+2008-09,Ohgr,0
+2008-09,Ozric Tentacles,66
+2008-09,Sigur Rós,81
+2008-09,Skinny Puppy,23
+2008-09,The Album Leaf,3
+2008-09,The Legendary Pink Dots,0
+2008-09,The Tear Garden,1
+2008-09,Tool,49
+2008-10,After Forever,1
+2008-10,Björk,4
+2008-10,Boards Of Canada,6
+2008-10,Delerium,13
+2008-10,Download,1
+2008-10,Faust,6
+2008-10,Hallucinogen,38
+2008-10,Massive Attack,6
+2008-10,Melvins,1
+2008-10,Mogwai,2
+2008-10,Múm,9
+2008-10,Nine Inch Nails,25
+2008-10,Ohgr,5
+2008-10,Ozric Tentacles,29
+2008-10,Sigur Rós,126
+2008-10,Skinny Puppy,34
+2008-10,The Album Leaf,12
+2008-10,The Legendary Pink Dots,15
+2008-10,The Tear Garden,10
+2008-10,Tool,60
+2008-11,After Forever,4
+2008-11,Björk,7
+2008-11,Boards Of Canada,21
+2008-11,Delerium,7
+2008-11,Download,4
+2008-11,Faust,7
+2008-11,Hallucinogen,14
+2008-11,Massive Attack,0
+2008-11,Melvins,2
+2008-11,Mogwai,5
+2008-11,Múm,35
+2008-11,Nine Inch Nails,0
+2008-11,Ohgr,77
+2008-11,Ozric Tentacles,46
+2008-11,Sigur Rós,130
+2008-11,Skinny Puppy,6
+2008-11,The Album Leaf,4
+2008-11,The Legendary Pink Dots,1
+2008-11,The Tear Garden,13
+2008-11,Tool,58
+2008-12,After Forever,1
+2008-12,Björk,10
+2008-12,Boards Of Canada,29
+2008-12,Delerium,13
+2008-12,Download,7
+2008-12,Faust,41
+2008-12,Hallucinogen,25
+2008-12,Massive Attack,11
+2008-12,Melvins,6
+2008-12,Mogwai,10
+2008-12,Múm,78
+2008-12,Nine Inch Nails,18
+2008-12,Ohgr,129
+2008-12,Ozric Tentacles,49
+2008-12,Sigur Rós,139
+2008-12,Skinny Puppy,21
+2008-12,The Album Leaf,12
+2008-12,The Legendary Pink Dots,14
+2008-12,The Tear Garden,9
+2008-12,Tool,78
+2009-01,After Forever,0
+2009-01,Björk,23
+2009-01,Boards Of Canada,11
+2009-01,Delerium,17
+2009-01,Download,15
+2009-01,Faust,69
+2009-01,Hallucinogen,36
+2009-01,Massive Attack,9
+2009-01,Melvins,13
+2009-01,Mogwai,28
+2009-01,Múm,75
+2009-01,Nine Inch Nails,13
+2009-01,Ohgr,102
+2009-01,Ozric Tentacles,93
+2009-01,Sigur Rós,257
+2009-01,Skinny Puppy,35
+2009-01,The Album Leaf,19
+2009-01,The Legendary Pink Dots,2
+2009-01,The Tear Garden,4
+2009-01,Tool,72
+2009-02,After Forever,0
+2009-02,Björk,1
+2009-02,Boards Of Canada,6
+2009-02,Delerium,14
+2009-02,Download,4
+2009-02,Faust,11
+2009-02,Hallucinogen,45
+2009-02,Massive Attack,15
+2009-02,Melvins,0
+2009-02,Mogwai,24
+2009-02,Múm,55
+2009-02,Nine Inch Nails,11
+2009-02,Ohgr,67
+2009-02,Ozric Tentacles,69
+2009-02,Sigur Rós,243
+2009-02,Skinny Puppy,67
+2009-02,The Album Leaf,9
+2009-02,The Legendary Pink Dots,2
+2009-02,The Tear Garden,2
+2009-02,Tool,76
+2009-03,After Forever,8
+2009-03,Björk,25
+2009-03,Boards Of Canada,7
+2009-03,Delerium,6
+2009-03,Download,1
+2009-03,Faust,55
+2009-03,Hallucinogen,24
+2009-03,Massive Attack,1
+2009-03,Melvins,1
+2009-03,Mogwai,2
+2009-03,Múm,43
+2009-03,Nine Inch Nails,1
+2009-03,Ohgr,28
+2009-03,Ozric Tentacles,68
+2009-03,Sigur Rós,457
+2009-03,Skinny Puppy,18
+2009-03,The Album Leaf,20
+2009-03,The Legendary Pink Dots,0
+2009-03,The Tear Garden,0
+2009-03,Tool,37
+2009-04,After Forever,7
+2009-04,Björk,19
+2009-04,Boards Of Canada,0
+2009-04,Delerium,9
+2009-04,Download,1
+2009-04,Faust,11
+2009-04,Hallucinogen,24
+2009-04,Massive Attack,10
+2009-04,Melvins,1
+2009-04,Mogwai,4
+2009-04,Múm,15
+2009-04,Nine Inch Nails,12
+2009-04,Ohgr,3
+2009-04,Ozric Tentacles,22
+2009-04,Sigur Rós,247
+2009-04,Skinny Puppy,5
+2009-04,The Album Leaf,10
+2009-04,The Legendary Pink Dots,0
+2009-04,The Tear Garden,0
+2009-04,Tool,45
+2009-05,After Forever,0
+2009-05,Björk,0
+2009-05,Boards Of Canada,0
+2009-05,Delerium,13
+2009-05,Download,28
+2009-05,Faust,0
+2009-05,Hallucinogen,40
+2009-05,Massive Attack,0
+2009-05,Melvins,0
+2009-05,Mogwai,5
+2009-05,Múm,37
+2009-05,Nine Inch Nails,24
+2009-05,Ohgr,5
+2009-05,Ozric Tentacles,7
+2009-05,Sigur Rós,152
+2009-05,Skinny Puppy,0
+2009-05,The Album Leaf,9
+2009-05,The Legendary Pink Dots,1
+2009-05,The Tear Garden,0
+2009-05,Tool,56

@@ -1,0 +1,481 @@
+month,artist,plays
+2007-05,3 Doors Down,2
+2007-05,Amon Tobin,2
+2007-05,Arcade Fire,1
+2007-05,Björk,4
+2007-05,Bonobo,0
+2007-05,Bugge Wesseltoft,0
+2007-05,Cake,1
+2007-05,Foo Fighters,4
+2007-05,Franz Ferdinand,5
+2007-05,Gotan Project,0
+2007-05,Interpol,1
+2007-05,Lamb,1
+2007-05,Massive Attack,4
+2007-05,Nils Petter Molvær,0
+2007-05,Nirvana,4
+2007-05,Placebo,3
+2007-05,R.E.M.,5
+2007-05,Radiohead,5
+2007-05,Sofa Surfers,0
+2007-05,The Cinematic Orchestra,0
+2007-06,3 Doors Down,1
+2007-06,Amon Tobin,0
+2007-06,Arcade Fire,0
+2007-06,Björk,0
+2007-06,Bonobo,0
+2007-06,Bugge Wesseltoft,0
+2007-06,Cake,0
+2007-06,Foo Fighters,1
+2007-06,Franz Ferdinand,0
+2007-06,Gotan Project,0
+2007-06,Interpol,0
+2007-06,Lamb,0
+2007-06,Massive Attack,0
+2007-06,Nils Petter Molvær,0
+2007-06,Nirvana,1
+2007-06,Placebo,1
+2007-06,R.E.M.,1
+2007-06,Radiohead,1
+2007-06,Sofa Surfers,0
+2007-06,The Cinematic Orchestra,0
+2007-07,3 Doors Down,1
+2007-07,Amon Tobin,0
+2007-07,Arcade Fire,0
+2007-07,Björk,0
+2007-07,Bonobo,0
+2007-07,Bugge Wesseltoft,0
+2007-07,Cake,0
+2007-07,Foo Fighters,1
+2007-07,Franz Ferdinand,0
+2007-07,Gotan Project,0
+2007-07,Interpol,0
+2007-07,Lamb,0
+2007-07,Massive Attack,1
+2007-07,Nils Petter Molvær,0
+2007-07,Nirvana,1
+2007-07,Placebo,1
+2007-07,R.E.M.,1
+2007-07,Radiohead,1
+2007-07,Sofa Surfers,0
+2007-07,The Cinematic Orchestra,0
+2007-08,3 Doors Down,2
+2007-08,Amon Tobin,0
+2007-08,Arcade Fire,4
+2007-08,Björk,7
+2007-08,Bonobo,0
+2007-08,Bugge Wesseltoft,0
+2007-08,Cake,3
+2007-08,Foo Fighters,7
+2007-08,Franz Ferdinand,2
+2007-08,Gotan Project,0
+2007-08,Interpol,2
+2007-08,Lamb,0
+2007-08,Massive Attack,3
+2007-08,Nils Petter Molvær,0
+2007-08,Nirvana,7
+2007-08,Placebo,8
+2007-08,R.E.M.,7
+2007-08,Radiohead,12
+2007-08,Sofa Surfers,0
+2007-08,The Cinematic Orchestra,0
+2007-09,3 Doors Down,2
+2007-09,Amon Tobin,4
+2007-09,Arcade Fire,0
+2007-09,Björk,2
+2007-09,Bonobo,1
+2007-09,Bugge Wesseltoft,0
+2007-09,Cake,3
+2007-09,Foo Fighters,4
+2007-09,Franz Ferdinand,6
+2007-09,Gotan Project,2
+2007-09,Interpol,5
+2007-09,Lamb,11
+2007-09,Massive Attack,13
+2007-09,Nils Petter Molvær,0
+2007-09,Nirvana,2
+2007-09,Placebo,3
+2007-09,R.E.M.,5
+2007-09,Radiohead,9
+2007-09,Sofa Surfers,1
+2007-09,The Cinematic Orchestra,2
+2007-10,3 Doors Down,0
+2007-10,Amon Tobin,1
+2007-10,Arcade Fire,7
+2007-10,Björk,0
+2007-10,Bonobo,0
+2007-10,Bugge Wesseltoft,0
+2007-10,Cake,1
+2007-10,Foo Fighters,0
+2007-10,Franz Ferdinand,3
+2007-10,Gotan Project,0
+2007-10,Interpol,5
+2007-10,Lamb,1
+2007-10,Massive Attack,0
+2007-10,Nils Petter Molvær,0
+2007-10,Nirvana,1
+2007-10,Placebo,0
+2007-10,R.E.M.,0
+2007-10,Radiohead,0
+2007-10,Sofa Surfers,0
+2007-10,The Cinematic Orchestra,0
+2007-11,3 Doors Down,0
+2007-11,Amon Tobin,1
+2007-11,Arcade Fire,1
+2007-11,Björk,0
+2007-11,Bonobo,0
+2007-11,Bugge Wesseltoft,0
+2007-11,Cake,4
+2007-11,Foo Fighters,2
+2007-11,Franz Ferdinand,1
+2007-11,Gotan Project,0
+2007-11,Interpol,1
+2007-11,Lamb,1
+2007-11,Massive Attack,0
+2007-11,Nils Petter Molvær,0
+2007-11,Nirvana,0
+2007-11,Placebo,0
+2007-11,R.E.M.,3
+2007-11,Radiohead,0
+2007-11,Sofa Surfers,10
+2007-11,The Cinematic Orchestra,0
+2007-12,3 Doors Down,0
+2007-12,Amon Tobin,0
+2007-12,Arcade Fire,0
+2007-12,Björk,0
+2007-12,Bonobo,0
+2007-12,Bugge Wesseltoft,0
+2007-12,Cake,0
+2007-12,Foo Fighters,0
+2007-12,Franz Ferdinand,0
+2007-12,Gotan Project,0
+2007-12,Interpol,0
+2007-12,Lamb,0
+2007-12,Massive Attack,0
+2007-12,Nils Petter Molvær,0
+2007-12,Nirvana,0
+2007-12,Placebo,0
+2007-12,R.E.M.,0
+2007-12,Radiohead,0
+2007-12,Sofa Surfers,0
+2007-12,The Cinematic Orchestra,0
+2008-01,3 Doors Down,0
+2008-01,Amon Tobin,0
+2008-01,Arcade Fire,0
+2008-01,Björk,0
+2008-01,Bonobo,0
+2008-01,Bugge Wesseltoft,0
+2008-01,Cake,0
+2008-01,Foo Fighters,0
+2008-01,Franz Ferdinand,0
+2008-01,Gotan Project,0
+2008-01,Interpol,0
+2008-01,Lamb,0
+2008-01,Massive Attack,0
+2008-01,Nils Petter Molvær,0
+2008-01,Nirvana,0
+2008-01,Placebo,0
+2008-01,R.E.M.,0
+2008-01,Radiohead,0
+2008-01,Sofa Surfers,0
+2008-01,The Cinematic Orchestra,0
+2008-02,3 Doors Down,0
+2008-02,Amon Tobin,0
+2008-02,Arcade Fire,0
+2008-02,Björk,0
+2008-02,Bonobo,0
+2008-02,Bugge Wesseltoft,0
+2008-02,Cake,0
+2008-02,Foo Fighters,0
+2008-02,Franz Ferdinand,0
+2008-02,Gotan Project,0
+2008-02,Interpol,0
+2008-02,Lamb,0
+2008-02,Massive Attack,0
+2008-02,Nils Petter Molvær,0
+2008-02,Nirvana,0
+2008-02,Placebo,0
+2008-02,R.E.M.,0
+2008-02,Radiohead,0
+2008-02,Sofa Surfers,0
+2008-02,The Cinematic Orchestra,0
+2008-03,3 Doors Down,0
+2008-03,Amon Tobin,0
+2008-03,Arcade Fire,0
+2008-03,Björk,0
+2008-03,Bonobo,0
+2008-03,Bugge Wesseltoft,0
+2008-03,Cake,0
+2008-03,Foo Fighters,0
+2008-03,Franz Ferdinand,0
+2008-03,Gotan Project,0
+2008-03,Interpol,0
+2008-03,Lamb,0
+2008-03,Massive Attack,0
+2008-03,Nils Petter Molvær,0
+2008-03,Nirvana,0
+2008-03,Placebo,0
+2008-03,R.E.M.,1
+2008-03,Radiohead,0
+2008-03,Sofa Surfers,16
+2008-03,The Cinematic Orchestra,0
+2008-04,3 Doors Down,0
+2008-04,Amon Tobin,0
+2008-04,Arcade Fire,0
+2008-04,Björk,0
+2008-04,Bonobo,0
+2008-04,Bugge Wesseltoft,0
+2008-04,Cake,0
+2008-04,Foo Fighters,0
+2008-04,Franz Ferdinand,0
+2008-04,Gotan Project,0
+2008-04,Interpol,0
+2008-04,Lamb,0
+2008-04,Massive Attack,0
+2008-04,Nils Petter Molvær,0
+2008-04,Nirvana,0
+2008-04,Placebo,0
+2008-04,R.E.M.,0
+2008-04,Radiohead,0
+2008-04,Sofa Surfers,0
+2008-04,The Cinematic Orchestra,0
+2008-05,3 Doors Down,0
+2008-05,Amon Tobin,0
+2008-05,Arcade Fire,0
+2008-05,Björk,0
+2008-05,Bonobo,0
+2008-05,Bugge Wesseltoft,0
+2008-05,Cake,0
+2008-05,Foo Fighters,0
+2008-05,Franz Ferdinand,0
+2008-05,Gotan Project,0
+2008-05,Interpol,0
+2008-05,Lamb,0
+2008-05,Massive Attack,0
+2008-05,Nils Petter Molvær,0
+2008-05,Nirvana,0
+2008-05,Placebo,0
+2008-05,R.E.M.,0
+2008-05,Radiohead,0
+2008-05,Sofa Surfers,0
+2008-05,The Cinematic Orchestra,0
+2008-06,3 Doors Down,0
+2008-06,Amon Tobin,0
+2008-06,Arcade Fire,0
+2008-06,Björk,1
+2008-06,Bonobo,0
+2008-06,Bugge Wesseltoft,2
+2008-06,Cake,0
+2008-06,Foo Fighters,0
+2008-06,Franz Ferdinand,0
+2008-06,Gotan Project,0
+2008-06,Interpol,0
+2008-06,Lamb,0
+2008-06,Massive Attack,0
+2008-06,Nils Petter Molvær,5
+2008-06,Nirvana,0
+2008-06,Placebo,0
+2008-06,R.E.M.,0
+2008-06,Radiohead,0
+2008-06,Sofa Surfers,0
+2008-06,The Cinematic Orchestra,3
+2008-07,3 Doors Down,0
+2008-07,Amon Tobin,0
+2008-07,Arcade Fire,0
+2008-07,Björk,0
+2008-07,Bonobo,0
+2008-07,Bugge Wesseltoft,0
+2008-07,Cake,0
+2008-07,Foo Fighters,0
+2008-07,Franz Ferdinand,0
+2008-07,Gotan Project,0
+2008-07,Interpol,0
+2008-07,Lamb,0
+2008-07,Massive Attack,0
+2008-07,Nils Petter Molvær,0
+2008-07,Nirvana,0
+2008-07,Placebo,0
+2008-07,R.E.M.,0
+2008-07,Radiohead,0
+2008-07,Sofa Surfers,0
+2008-07,The Cinematic Orchestra,0
+2008-08,3 Doors Down,0
+2008-08,Amon Tobin,0
+2008-08,Arcade Fire,0
+2008-08,Björk,0
+2008-08,Bonobo,0
+2008-08,Bugge Wesseltoft,0
+2008-08,Cake,0
+2008-08,Foo Fighters,0
+2008-08,Franz Ferdinand,0
+2008-08,Gotan Project,0
+2008-08,Interpol,0
+2008-08,Lamb,0
+2008-08,Massive Attack,0
+2008-08,Nils Petter Molvær,0
+2008-08,Nirvana,0
+2008-08,Placebo,0
+2008-08,R.E.M.,0
+2008-08,Radiohead,0
+2008-08,Sofa Surfers,0
+2008-08,The Cinematic Orchestra,0
+2008-09,3 Doors Down,1
+2008-09,Amon Tobin,3
+2008-09,Arcade Fire,1
+2008-09,Björk,3
+2008-09,Bonobo,6
+2008-09,Bugge Wesseltoft,16
+2008-09,Cake,2
+2008-09,Foo Fighters,2
+2008-09,Franz Ferdinand,1
+2008-09,Gotan Project,4
+2008-09,Interpol,0
+2008-09,Lamb,0
+2008-09,Massive Attack,14
+2008-09,Nils Petter Molvær,13
+2008-09,Nirvana,0
+2008-09,Placebo,1
+2008-09,R.E.M.,0
+2008-09,Radiohead,4
+2008-09,Sofa Surfers,2
+2008-09,The Cinematic Orchestra,20
+2008-10,3 Doors Down,1
+2008-10,Amon Tobin,1
+2008-10,Arcade Fire,3
+2008-10,Björk,2
+2008-10,Bonobo,13
+2008-10,Bugge Wesseltoft,18
+2008-10,Cake,2
+2008-10,Foo Fighters,2
+2008-10,Franz Ferdinand,2
+2008-10,Gotan Project,7
+2008-10,Interpol,3
+2008-10,Lamb,1
+2008-10,Massive Attack,15
+2008-10,Nils Petter Molvær,10
+2008-10,Nirvana,1
+2008-10,Placebo,2
+2008-10,R.E.M.,1
+2008-10,Radiohead,1
+2008-10,Sofa Surfers,5
+2008-10,The Cinematic Orchestra,12
+2008-11,3 Doors Down,0
+2008-11,Amon Tobin,1
+2008-11,Arcade Fire,2
+2008-11,Björk,5
+2008-11,Bonobo,2
+2008-11,Bugge Wesseltoft,6
+2008-11,Cake,0
+2008-11,Foo Fighters,1
+2008-11,Franz Ferdinand,0
+2008-11,Gotan Project,1
+2008-11,Interpol,1
+2008-11,Lamb,3
+2008-11,Massive Attack,9
+2008-11,Nils Petter Molvær,7
+2008-11,Nirvana,1
+2008-11,Placebo,0
+2008-11,R.E.M.,0
+2008-11,Radiohead,1
+2008-11,Sofa Surfers,2
+2008-11,The Cinematic Orchestra,4
+2008-12,3 Doors Down,0
+2008-12,Amon Tobin,1
+2008-12,Arcade Fire,2
+2008-12,Björk,0
+2008-12,Bonobo,5
+2008-12,Bugge Wesseltoft,1
+2008-12,Cake,1
+2008-12,Foo Fighters,0
+2008-12,Franz Ferdinand,1
+2008-12,Gotan Project,2
+2008-12,Interpol,1
+2008-12,Lamb,3
+2008-12,Massive Attack,10
+2008-12,Nils Petter Molvær,2
+2008-12,Nirvana,1
+2008-12,Placebo,1
+2008-12,R.E.M.,0
+2008-12,Radiohead,0
+2008-12,Sofa Surfers,2
+2008-12,The Cinematic Orchestra,2
+2009-01,3 Doors Down,0
+2009-01,Amon Tobin,2
+2009-01,Arcade Fire,1
+2009-01,Björk,2
+2009-01,Bonobo,3
+2009-01,Bugge Wesseltoft,10
+2009-01,Cake,2
+2009-01,Foo Fighters,0
+2009-01,Franz Ferdinand,1
+2009-01,Gotan Project,4
+2009-01,Interpol,1
+2009-01,Lamb,2
+2009-01,Massive Attack,4
+2009-01,Nils Petter Molvær,7
+2009-01,Nirvana,1
+2009-01,Placebo,0
+2009-01,R.E.M.,0
+2009-01,Radiohead,0
+2009-01,Sofa Surfers,2
+2009-01,The Cinematic Orchestra,4
+2009-02,3 Doors Down,1
+2009-02,Amon Tobin,0
+2009-02,Arcade Fire,1
+2009-02,Björk,0
+2009-02,Bonobo,1
+2009-02,Bugge Wesseltoft,1
+2009-02,Cake,0
+2009-02,Foo Fighters,0
+2009-02,Franz Ferdinand,0
+2009-02,Gotan Project,1
+2009-02,Interpol,0
+2009-02,Lamb,1
+2009-02,Massive Attack,2
+2009-02,Nils Petter Molvær,2
+2009-02,Nirvana,0
+2009-02,Placebo,0
+2009-02,R.E.M.,0
+2009-02,Radiohead,0
+2009-02,Sofa Surfers,2
+2009-02,The Cinematic Orchestra,1
+2009-03,3 Doors Down,0
+2009-03,Amon Tobin,0
+2009-03,Arcade Fire,0
+2009-03,Björk,0
+2009-03,Bonobo,0
+2009-03,Bugge Wesseltoft,0
+2009-03,Cake,0
+2009-03,Foo Fighters,0
+2009-03,Franz Ferdinand,0
+2009-03,Gotan Project,0
+2009-03,Interpol,0
+2009-03,Lamb,0
+2009-03,Massive Attack,0
+2009-03,Nils Petter Molvær,0
+2009-03,Nirvana,0
+2009-03,Placebo,0
+2009-03,R.E.M.,0
+2009-03,Radiohead,0
+2009-03,Sofa Surfers,0
+2009-03,The Cinematic Orchestra,0
+2009-04,3 Doors Down,0
+2009-04,Amon Tobin,0
+2009-04,Arcade Fire,0
+2009-04,Björk,0
+2009-04,Bonobo,1
+2009-04,Bugge Wesseltoft,3
+2009-04,Cake,0
+2009-04,Foo Fighters,0
+2009-04,Franz Ferdinand,0
+2009-04,Gotan Project,2
+2009-04,Interpol,0
+2009-04,Lamb,0
+2009-04,Massive Attack,4
+2009-04,Nils Petter Molvær,4
+2009-04,Nirvana,0
+2009-04,Placebo,0
+2009-04,R.E.M.,0
+2009-04,Radiohead,0
+2009-04,Sofa Surfers,0
+2009-04,The Cinematic Orchestra,3

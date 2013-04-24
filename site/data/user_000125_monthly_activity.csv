@@ -1,0 +1,641 @@
+month,artist,plays
+2006-11,Adam Green,10
+2006-11,Art Brut,0
+2006-11,Beirut,0
+2006-11,Bonde Do Rolê,0
+2006-11,Britney Spears,0
+2006-11,Cansei De Ser Sexy,0
+2006-11,Dirty Pretty Things,0
+2006-11,Final Fantasy,0
+2006-11,Interpol,0
+2006-11,Justice,0
+2006-11,Justin Timberlake,0
+2006-11,Klaxons,0
+2006-11,Lily Allen,0
+2006-11,Metronomy,0
+2006-11,Muse,0
+2006-11,The Kills,0
+2006-11,The Libertines,0
+2006-11,The Strokes,0
+2006-11,We Are Scientists,0
+2006-11,Yeah Yeah Yeahs,0
+2006-12,Adam Green,5
+2006-12,Art Brut,8
+2006-12,Beirut,0
+2006-12,Bonde Do Rolê,0
+2006-12,Britney Spears,0
+2006-12,Cansei De Ser Sexy,0
+2006-12,Dirty Pretty Things,9
+2006-12,Final Fantasy,0
+2006-12,Interpol,0
+2006-12,Justice,0
+2006-12,Justin Timberlake,3
+2006-12,Klaxons,0
+2006-12,Lily Allen,0
+2006-12,Metronomy,10
+2006-12,Muse,15
+2006-12,The Kills,0
+2006-12,The Libertines,29
+2006-12,The Strokes,4
+2006-12,We Are Scientists,38
+2006-12,Yeah Yeah Yeahs,7
+2007-01,Adam Green,4
+2007-01,Art Brut,34
+2007-01,Beirut,0
+2007-01,Bonde Do Rolê,0
+2007-01,Britney Spears,0
+2007-01,Cansei De Ser Sexy,0
+2007-01,Dirty Pretty Things,1
+2007-01,Final Fantasy,61
+2007-01,Interpol,2
+2007-01,Justice,0
+2007-01,Justin Timberlake,44
+2007-01,Klaxons,835
+2007-01,Lily Allen,0
+2007-01,Metronomy,15
+2007-01,Muse,35
+2007-01,The Kills,1
+2007-01,The Libertines,7
+2007-01,The Strokes,5
+2007-01,We Are Scientists,67
+2007-01,Yeah Yeah Yeahs,1
+2007-02,Adam Green,1
+2007-02,Art Brut,4
+2007-02,Beirut,0
+2007-02,Bonde Do Rolê,0
+2007-02,Britney Spears,0
+2007-02,Cansei De Ser Sexy,134
+2007-02,Dirty Pretty Things,21
+2007-02,Final Fantasy,10
+2007-02,Interpol,53
+2007-02,Justice,7
+2007-02,Justin Timberlake,70
+2007-02,Klaxons,776
+2007-02,Lily Allen,0
+2007-02,Metronomy,247
+2007-02,Muse,2
+2007-02,The Kills,1
+2007-02,The Libertines,17
+2007-02,The Strokes,30
+2007-02,We Are Scientists,29
+2007-02,Yeah Yeah Yeahs,0
+2007-03,Adam Green,0
+2007-03,Art Brut,48
+2007-03,Beirut,0
+2007-03,Bonde Do Rolê,13
+2007-03,Britney Spears,0
+2007-03,Cansei De Ser Sexy,313
+2007-03,Dirty Pretty Things,0
+2007-03,Final Fantasy,124
+2007-03,Interpol,0
+2007-03,Justice,7
+2007-03,Justin Timberlake,59
+2007-03,Klaxons,402
+2007-03,Lily Allen,0
+2007-03,Metronomy,136
+2007-03,Muse,35
+2007-03,The Kills,0
+2007-03,The Libertines,1
+2007-03,The Strokes,141
+2007-03,We Are Scientists,36
+2007-03,Yeah Yeah Yeahs,1
+2007-04,Adam Green,2
+2007-04,Art Brut,87
+2007-04,Beirut,0
+2007-04,Bonde Do Rolê,353
+2007-04,Britney Spears,0
+2007-04,Cansei De Ser Sexy,118
+2007-04,Dirty Pretty Things,2
+2007-04,Final Fantasy,1
+2007-04,Interpol,39
+2007-04,Justice,0
+2007-04,Justin Timberlake,11
+2007-04,Klaxons,681
+2007-04,Lily Allen,0
+2007-04,Metronomy,0
+2007-04,Muse,63
+2007-04,The Kills,0
+2007-04,The Libertines,16
+2007-04,The Strokes,115
+2007-04,We Are Scientists,0
+2007-04,Yeah Yeah Yeahs,1
+2007-05,Adam Green,2
+2007-05,Art Brut,86
+2007-05,Beirut,0
+2007-05,Bonde Do Rolê,193
+2007-05,Britney Spears,0
+2007-05,Cansei De Ser Sexy,303
+2007-05,Dirty Pretty Things,0
+2007-05,Final Fantasy,0
+2007-05,Interpol,10
+2007-05,Justice,32
+2007-05,Justin Timberlake,10
+2007-05,Klaxons,835
+2007-05,Lily Allen,3
+2007-05,Metronomy,49
+2007-05,Muse,7
+2007-05,The Kills,0
+2007-05,The Libertines,11
+2007-05,The Strokes,35
+2007-05,We Are Scientists,0
+2007-05,Yeah Yeah Yeahs,0
+2007-06,Adam Green,18
+2007-06,Art Brut,136
+2007-06,Beirut,32
+2007-06,Bonde Do Rolê,159
+2007-06,Britney Spears,0
+2007-06,Cansei De Ser Sexy,457
+2007-06,Dirty Pretty Things,26
+2007-06,Final Fantasy,140
+2007-06,Interpol,147
+2007-06,Justice,48
+2007-06,Justin Timberlake,21
+2007-06,Klaxons,955
+2007-06,Lily Allen,0
+2007-06,Metronomy,13
+2007-06,Muse,8
+2007-06,The Kills,1
+2007-06,The Libertines,3
+2007-06,The Strokes,13
+2007-06,We Are Scientists,7
+2007-06,Yeah Yeah Yeahs,97
+2007-07,Adam Green,38
+2007-07,Art Brut,19
+2007-07,Beirut,5
+2007-07,Bonde Do Rolê,52
+2007-07,Britney Spears,0
+2007-07,Cansei De Ser Sexy,190
+2007-07,Dirty Pretty Things,0
+2007-07,Final Fantasy,100
+2007-07,Interpol,70
+2007-07,Justice,121
+2007-07,Justin Timberlake,1
+2007-07,Klaxons,246
+2007-07,Lily Allen,0
+2007-07,Metronomy,16
+2007-07,Muse,13
+2007-07,The Kills,0
+2007-07,The Libertines,13
+2007-07,The Strokes,25
+2007-07,We Are Scientists,0
+2007-07,Yeah Yeah Yeahs,24
+2007-08,Adam Green,2
+2007-08,Art Brut,16
+2007-08,Beirut,1
+2007-08,Bonde Do Rolê,1
+2007-08,Britney Spears,0
+2007-08,Cansei De Ser Sexy,52
+2007-08,Dirty Pretty Things,0
+2007-08,Final Fantasy,20
+2007-08,Interpol,0
+2007-08,Justice,20
+2007-08,Justin Timberlake,0
+2007-08,Klaxons,63
+2007-08,Lily Allen,73
+2007-08,Metronomy,0
+2007-08,Muse,5
+2007-08,The Kills,8
+2007-08,The Libertines,1
+2007-08,The Strokes,1
+2007-08,We Are Scientists,1
+2007-08,Yeah Yeah Yeahs,0
+2007-09,Adam Green,1
+2007-09,Art Brut,0
+2007-09,Beirut,4
+2007-09,Bonde Do Rolê,21
+2007-09,Britney Spears,5
+2007-09,Cansei De Ser Sexy,63
+2007-09,Dirty Pretty Things,5
+2007-09,Final Fantasy,23
+2007-09,Interpol,8
+2007-09,Justice,17
+2007-09,Justin Timberlake,2
+2007-09,Klaxons,114
+2007-09,Lily Allen,18
+2007-09,Metronomy,0
+2007-09,Muse,2
+2007-09,The Kills,0
+2007-09,The Libertines,3
+2007-09,The Strokes,30
+2007-09,We Are Scientists,1
+2007-09,Yeah Yeah Yeahs,2
+2007-10,Adam Green,0
+2007-10,Art Brut,0
+2007-10,Beirut,241
+2007-10,Bonde Do Rolê,0
+2007-10,Britney Spears,15
+2007-10,Cansei De Ser Sexy,106
+2007-10,Dirty Pretty Things,16
+2007-10,Final Fantasy,6
+2007-10,Interpol,0
+2007-10,Justice,0
+2007-10,Justin Timberlake,0
+2007-10,Klaxons,848
+2007-10,Lily Allen,9
+2007-10,Metronomy,0
+2007-10,Muse,9
+2007-10,The Kills,0
+2007-10,The Libertines,16
+2007-10,The Strokes,0
+2007-10,We Are Scientists,0
+2007-10,Yeah Yeah Yeahs,0
+2007-11,Adam Green,29
+2007-11,Art Brut,6
+2007-11,Beirut,91
+2007-11,Bonde Do Rolê,17
+2007-11,Britney Spears,0
+2007-11,Cansei De Ser Sexy,132
+2007-11,Dirty Pretty Things,11
+2007-11,Final Fantasy,20
+2007-11,Interpol,3
+2007-11,Justice,16
+2007-11,Justin Timberlake,3
+2007-11,Klaxons,281
+2007-11,Lily Allen,0
+2007-11,Metronomy,20
+2007-11,Muse,0
+2007-11,The Kills,2
+2007-11,The Libertines,3
+2007-11,The Strokes,23
+2007-11,We Are Scientists,1
+2007-11,Yeah Yeah Yeahs,7
+2007-12,Adam Green,0
+2007-12,Art Brut,0
+2007-12,Beirut,46
+2007-12,Bonde Do Rolê,33
+2007-12,Britney Spears,0
+2007-12,Cansei De Ser Sexy,50
+2007-12,Dirty Pretty Things,2
+2007-12,Final Fantasy,42
+2007-12,Interpol,10
+2007-12,Justice,30
+2007-12,Justin Timberlake,0
+2007-12,Klaxons,189
+2007-12,Lily Allen,1
+2007-12,Metronomy,24
+2007-12,Muse,1
+2007-12,The Kills,7
+2007-12,The Libertines,25
+2007-12,The Strokes,34
+2007-12,We Are Scientists,1
+2007-12,Yeah Yeah Yeahs,12
+2008-01,Adam Green,113
+2008-01,Art Brut,1
+2008-01,Beirut,40
+2008-01,Bonde Do Rolê,7
+2008-01,Britney Spears,0
+2008-01,Cansei De Ser Sexy,1
+2008-01,Dirty Pretty Things,0
+2008-01,Final Fantasy,32
+2008-01,Interpol,0
+2008-01,Justice,33
+2008-01,Justin Timberlake,1
+2008-01,Klaxons,38
+2008-01,Lily Allen,1
+2008-01,Metronomy,9
+2008-01,Muse,4
+2008-01,The Kills,4
+2008-01,The Libertines,2
+2008-01,The Strokes,29
+2008-01,We Are Scientists,2
+2008-01,Yeah Yeah Yeahs,0
+2008-02,Adam Green,141
+2008-02,Art Brut,0
+2008-02,Beirut,14
+2008-02,Bonde Do Rolê,6
+2008-02,Britney Spears,5
+2008-02,Cansei De Ser Sexy,18
+2008-02,Dirty Pretty Things,0
+2008-02,Final Fantasy,10
+2008-02,Interpol,2
+2008-02,Justice,1
+2008-02,Justin Timberlake,9
+2008-02,Klaxons,168
+2008-02,Lily Allen,0
+2008-02,Metronomy,6
+2008-02,Muse,15
+2008-02,The Kills,154
+2008-02,The Libertines,3
+2008-02,The Strokes,0
+2008-02,We Are Scientists,5
+2008-02,Yeah Yeah Yeahs,19
+2008-03,Adam Green,194
+2008-03,Art Brut,5
+2008-03,Beirut,67
+2008-03,Bonde Do Rolê,35
+2008-03,Britney Spears,27
+2008-03,Cansei De Ser Sexy,7
+2008-03,Dirty Pretty Things,0
+2008-03,Final Fantasy,6
+2008-03,Interpol,12
+2008-03,Justice,3
+2008-03,Justin Timberlake,8
+2008-03,Klaxons,277
+2008-03,Lily Allen,37
+2008-03,Metronomy,12
+2008-03,Muse,1
+2008-03,The Kills,32
+2008-03,The Libertines,1
+2008-03,The Strokes,30
+2008-03,We Are Scientists,26
+2008-03,Yeah Yeah Yeahs,0
+2008-04,Adam Green,18
+2008-04,Art Brut,0
+2008-04,Beirut,0
+2008-04,Bonde Do Rolê,2
+2008-04,Britney Spears,10
+2008-04,Cansei De Ser Sexy,27
+2008-04,Dirty Pretty Things,0
+2008-04,Final Fantasy,1
+2008-04,Interpol,1
+2008-04,Justice,8
+2008-04,Justin Timberlake,9
+2008-04,Klaxons,98
+2008-04,Lily Allen,26
+2008-04,Metronomy,8
+2008-04,Muse,0
+2008-04,The Kills,38
+2008-04,The Libertines,0
+2008-04,The Strokes,1
+2008-04,We Are Scientists,15
+2008-04,Yeah Yeah Yeahs,2
+2008-05,Adam Green,10
+2008-05,Art Brut,0
+2008-05,Beirut,2
+2008-05,Bonde Do Rolê,18
+2008-05,Britney Spears,21
+2008-05,Cansei De Ser Sexy,128
+2008-05,Dirty Pretty Things,13
+2008-05,Final Fantasy,0
+2008-05,Interpol,2
+2008-05,Justice,3
+2008-05,Justin Timberlake,1
+2008-05,Klaxons,18
+2008-05,Lily Allen,39
+2008-05,Metronomy,0
+2008-05,Muse,13
+2008-05,The Kills,10
+2008-05,The Libertines,0
+2008-05,The Strokes,1
+2008-05,We Are Scientists,5
+2008-05,Yeah Yeah Yeahs,2
+2008-06,Adam Green,414
+2008-06,Art Brut,1
+2008-06,Beirut,0
+2008-06,Bonde Do Rolê,1
+2008-06,Britney Spears,4
+2008-06,Cansei De Ser Sexy,59
+2008-06,Dirty Pretty Things,48
+2008-06,Final Fantasy,0
+2008-06,Interpol,1
+2008-06,Justice,4
+2008-06,Justin Timberlake,1
+2008-06,Klaxons,24
+2008-06,Lily Allen,3
+2008-06,Metronomy,8
+2008-06,Muse,3
+2008-06,The Kills,4
+2008-06,The Libertines,2
+2008-06,The Strokes,0
+2008-06,We Are Scientists,1
+2008-06,Yeah Yeah Yeahs,1
+2008-07,Adam Green,79
+2008-07,Art Brut,0
+2008-07,Beirut,1
+2008-07,Bonde Do Rolê,5
+2008-07,Britney Spears,5
+2008-07,Cansei De Ser Sexy,296
+2008-07,Dirty Pretty Things,15
+2008-07,Final Fantasy,0
+2008-07,Interpol,2
+2008-07,Justice,5
+2008-07,Justin Timberlake,0
+2008-07,Klaxons,48
+2008-07,Lily Allen,12
+2008-07,Metronomy,17
+2008-07,Muse,4
+2008-07,The Kills,39
+2008-07,The Libertines,5
+2008-07,The Strokes,0
+2008-07,We Are Scientists,1
+2008-07,Yeah Yeah Yeahs,1
+2008-08,Adam Green,80
+2008-08,Art Brut,0
+2008-08,Beirut,23
+2008-08,Bonde Do Rolê,1
+2008-08,Britney Spears,4
+2008-08,Cansei De Ser Sexy,82
+2008-08,Dirty Pretty Things,12
+2008-08,Final Fantasy,26
+2008-08,Interpol,4
+2008-08,Justice,1
+2008-08,Justin Timberlake,0
+2008-08,Klaxons,82
+2008-08,Lily Allen,80
+2008-08,Metronomy,4
+2008-08,Muse,9
+2008-08,The Kills,68
+2008-08,The Libertines,42
+2008-08,The Strokes,43
+2008-08,We Are Scientists,1
+2008-08,Yeah Yeah Yeahs,2
+2008-09,Adam Green,53
+2008-09,Art Brut,0
+2008-09,Beirut,27
+2008-09,Bonde Do Rolê,4
+2008-09,Britney Spears,13
+2008-09,Cansei De Ser Sexy,66
+2008-09,Dirty Pretty Things,9
+2008-09,Final Fantasy,5
+2008-09,Interpol,14
+2008-09,Justice,9
+2008-09,Justin Timberlake,0
+2008-09,Klaxons,65
+2008-09,Lily Allen,34
+2008-09,Metronomy,0
+2008-09,Muse,5
+2008-09,The Kills,27
+2008-09,The Libertines,1
+2008-09,The Strokes,11
+2008-09,We Are Scientists,2
+2008-09,Yeah Yeah Yeahs,27
+2008-10,Adam Green,112
+2008-10,Art Brut,0
+2008-10,Beirut,0
+2008-10,Bonde Do Rolê,0
+2008-10,Britney Spears,3
+2008-10,Cansei De Ser Sexy,56
+2008-10,Dirty Pretty Things,0
+2008-10,Final Fantasy,12
+2008-10,Interpol,0
+2008-10,Justice,0
+2008-10,Justin Timberlake,0
+2008-10,Klaxons,172
+2008-10,Lily Allen,0
+2008-10,Metronomy,0
+2008-10,Muse,0
+2008-10,The Kills,0
+2008-10,The Libertines,0
+2008-10,The Strokes,12
+2008-10,We Are Scientists,0
+2008-10,Yeah Yeah Yeahs,0
+2008-11,Adam Green,0
+2008-11,Art Brut,1
+2008-11,Beirut,17
+2008-11,Bonde Do Rolê,0
+2008-11,Britney Spears,123
+2008-11,Cansei De Ser Sexy,3
+2008-11,Dirty Pretty Things,0
+2008-11,Final Fantasy,0
+2008-11,Interpol,0
+2008-11,Justice,1
+2008-11,Justin Timberlake,25
+2008-11,Klaxons,20
+2008-11,Lily Allen,9
+2008-11,Metronomy,0
+2008-11,Muse,0
+2008-11,The Kills,2
+2008-11,The Libertines,2
+2008-11,The Strokes,2
+2008-11,We Are Scientists,0
+2008-11,Yeah Yeah Yeahs,12
+2008-12,Adam Green,33
+2008-12,Art Brut,1
+2008-12,Beirut,0
+2008-12,Bonde Do Rolê,0
+2008-12,Britney Spears,51
+2008-12,Cansei De Ser Sexy,3
+2008-12,Dirty Pretty Things,0
+2008-12,Final Fantasy,0
+2008-12,Interpol,9
+2008-12,Justice,1
+2008-12,Justin Timberlake,0
+2008-12,Klaxons,10
+2008-12,Lily Allen,0
+2008-12,Metronomy,8
+2008-12,Muse,12
+2008-12,The Kills,0
+2008-12,The Libertines,1
+2008-12,The Strokes,0
+2008-12,We Are Scientists,0
+2008-12,Yeah Yeah Yeahs,1
+2009-01,Adam Green,38
+2009-01,Art Brut,5
+2009-01,Beirut,38
+2009-01,Bonde Do Rolê,0
+2009-01,Britney Spears,27
+2009-01,Cansei De Ser Sexy,7
+2009-01,Dirty Pretty Things,10
+2009-01,Final Fantasy,0
+2009-01,Interpol,23
+2009-01,Justice,0
+2009-01,Justin Timberlake,0
+2009-01,Klaxons,26
+2009-01,Lily Allen,168
+2009-01,Metronomy,1
+2009-01,Muse,7
+2009-01,The Kills,10
+2009-01,The Libertines,0
+2009-01,The Strokes,10
+2009-01,We Are Scientists,0
+2009-01,Yeah Yeah Yeahs,3
+2009-02,Adam Green,18
+2009-02,Art Brut,0
+2009-02,Beirut,28
+2009-02,Bonde Do Rolê,0
+2009-02,Britney Spears,8
+2009-02,Cansei De Ser Sexy,2
+2009-02,Dirty Pretty Things,0
+2009-02,Final Fantasy,0
+2009-02,Interpol,16
+2009-02,Justice,0
+2009-02,Justin Timberlake,0
+2009-02,Klaxons,32
+2009-02,Lily Allen,24
+2009-02,Metronomy,0
+2009-02,Muse,0
+2009-02,The Kills,2
+2009-02,The Libertines,0
+2009-02,The Strokes,12
+2009-02,We Are Scientists,0
+2009-02,Yeah Yeah Yeahs,168
+2009-03,Adam Green,4
+2009-03,Art Brut,86
+2009-03,Beirut,12
+2009-03,Bonde Do Rolê,0
+2009-03,Britney Spears,35
+2009-03,Cansei De Ser Sexy,4
+2009-03,Dirty Pretty Things,2
+2009-03,Final Fantasy,1
+2009-03,Interpol,9
+2009-03,Justice,0
+2009-03,Justin Timberlake,1
+2009-03,Klaxons,40
+2009-03,Lily Allen,3
+2009-03,Metronomy,0
+2009-03,Muse,0
+2009-03,The Kills,1
+2009-03,The Libertines,18
+2009-03,The Strokes,3
+2009-03,We Are Scientists,3
+2009-03,Yeah Yeah Yeahs,71
+2009-04,Adam Green,109
+2009-04,Art Brut,45
+2009-04,Beirut,11
+2009-04,Bonde Do Rolê,1
+2009-04,Britney Spears,113
+2009-04,Cansei De Ser Sexy,51
+2009-04,Dirty Pretty Things,2
+2009-04,Final Fantasy,6
+2009-04,Interpol,16
+2009-04,Justice,0
+2009-04,Justin Timberlake,0
+2009-04,Klaxons,12
+2009-04,Lily Allen,3
+2009-04,Metronomy,2
+2009-04,Muse,10
+2009-04,The Kills,5
+2009-04,The Libertines,3
+2009-04,The Strokes,4
+2009-04,We Are Scientists,2
+2009-04,Yeah Yeah Yeahs,11
+2009-05,Adam Green,12
+2009-05,Art Brut,0
+2009-05,Beirut,0
+2009-05,Bonde Do Rolê,0
+2009-05,Britney Spears,42
+2009-05,Cansei De Ser Sexy,19
+2009-05,Dirty Pretty Things,1
+2009-05,Final Fantasy,0
+2009-05,Interpol,0
+2009-05,Justice,0
+2009-05,Justin Timberlake,0
+2009-05,Klaxons,0
+2009-05,Lily Allen,0
+2009-05,Metronomy,0
+2009-05,Muse,0
+2009-05,The Kills,2
+2009-05,The Libertines,22
+2009-05,The Strokes,20
+2009-05,We Are Scientists,0
+2009-05,Yeah Yeah Yeahs,0
+2009-06,Adam Green,3
+2009-06,Art Brut,5
+2009-06,Beirut,0
+2009-06,Bonde Do Rolê,0
+2009-06,Britney Spears,6
+2009-06,Cansei De Ser Sexy,1
+2009-06,Dirty Pretty Things,1
+2009-06,Final Fantasy,0
+2009-06,Interpol,0
+2009-06,Justice,0
+2009-06,Justin Timberlake,0
+2009-06,Klaxons,8
+2009-06,Lily Allen,0
+2009-06,Metronomy,0
+2009-06,Muse,0
+2009-06,The Kills,0
+2009-06,The Libertines,0
+2009-06,The Strokes,0
+2009-06,We Are Scientists,0
+2009-06,Yeah Yeah Yeahs,2

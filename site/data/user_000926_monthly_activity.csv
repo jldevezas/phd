@@ -1,0 +1,681 @@
+month,artist,plays
+2006-09,Agalloch,0
+2006-09,Animal Collective,0
+2006-09,Arcade Fire,0
+2006-09,Art Brut,0
+2006-09,Beck,1
+2006-09,Bloc Party,0
+2006-09,Blur,0
+2006-09,Broken Social Scene,0
+2006-09,Clap Your Hands Say Yeah,0
+2006-09,Death Cab For Cutie,0
+2006-09,Interpol,1
+2006-09,Metric,0
+2006-09,Neutral Milk Hotel,0
+2006-09,Radiohead,0
+2006-09,Sonic Youth,0
+2006-09,The Decemberists,0
+2006-09,The New Pornographers,12
+2006-09,Tool,0
+2006-09,We Are Scientists,0
+2006-09,Weezer,0
+2006-10,Agalloch,0
+2006-10,Animal Collective,0
+2006-10,Arcade Fire,1
+2006-10,Art Brut,2
+2006-10,Beck,0
+2006-10,Bloc Party,2
+2006-10,Blur,0
+2006-10,Broken Social Scene,0
+2006-10,Clap Your Hands Say Yeah,2
+2006-10,Death Cab For Cutie,3
+2006-10,Interpol,3
+2006-10,Metric,1
+2006-10,Neutral Milk Hotel,0
+2006-10,Radiohead,2
+2006-10,Sonic Youth,1
+2006-10,The Decemberists,3
+2006-10,The New Pornographers,5
+2006-10,Tool,1
+2006-10,We Are Scientists,1
+2006-10,Weezer,1
+2006-11,Agalloch,0
+2006-11,Animal Collective,2
+2006-11,Arcade Fire,5
+2006-11,Art Brut,36
+2006-11,Beck,1
+2006-11,Bloc Party,2
+2006-11,Blur,0
+2006-11,Broken Social Scene,19
+2006-11,Clap Your Hands Say Yeah,11
+2006-11,Death Cab For Cutie,2
+2006-11,Interpol,1
+2006-11,Metric,0
+2006-11,Neutral Milk Hotel,19
+2006-11,Radiohead,5
+2006-11,Sonic Youth,2
+2006-11,The Decemberists,11
+2006-11,The New Pornographers,0
+2006-11,Tool,0
+2006-11,We Are Scientists,19
+2006-11,Weezer,1
+2006-12,Agalloch,0
+2006-12,Animal Collective,0
+2006-12,Arcade Fire,1
+2006-12,Art Brut,2
+2006-12,Beck,1
+2006-12,Bloc Party,10
+2006-12,Blur,2
+2006-12,Broken Social Scene,8
+2006-12,Clap Your Hands Say Yeah,9
+2006-12,Death Cab For Cutie,1
+2006-12,Interpol,0
+2006-12,Metric,15
+2006-12,Neutral Milk Hotel,4
+2006-12,Radiohead,0
+2006-12,Sonic Youth,0
+2006-12,The Decemberists,11
+2006-12,The New Pornographers,9
+2006-12,Tool,0
+2006-12,We Are Scientists,3
+2006-12,Weezer,0
+2007-01,Agalloch,0
+2007-01,Animal Collective,0
+2007-01,Arcade Fire,0
+2007-01,Art Brut,0
+2007-01,Beck,0
+2007-01,Bloc Party,0
+2007-01,Blur,1
+2007-01,Broken Social Scene,0
+2007-01,Clap Your Hands Say Yeah,2
+2007-01,Death Cab For Cutie,0
+2007-01,Interpol,0
+2007-01,Metric,0
+2007-01,Neutral Milk Hotel,1
+2007-01,Radiohead,0
+2007-01,Sonic Youth,0
+2007-01,The Decemberists,2
+2007-01,The New Pornographers,0
+2007-01,Tool,0
+2007-01,We Are Scientists,0
+2007-01,Weezer,0
+2007-02,Agalloch,0
+2007-02,Animal Collective,0
+2007-02,Arcade Fire,3
+2007-02,Art Brut,0
+2007-02,Beck,2
+2007-02,Bloc Party,1
+2007-02,Blur,0
+2007-02,Broken Social Scene,6
+2007-02,Clap Your Hands Say Yeah,2
+2007-02,Death Cab For Cutie,0
+2007-02,Interpol,0
+2007-02,Metric,1
+2007-02,Neutral Milk Hotel,2
+2007-02,Radiohead,0
+2007-02,Sonic Youth,0
+2007-02,The Decemberists,1
+2007-02,The New Pornographers,1
+2007-02,Tool,4
+2007-02,We Are Scientists,10
+2007-02,Weezer,1
+2007-03,Agalloch,0
+2007-03,Animal Collective,4
+2007-03,Arcade Fire,10
+2007-03,Art Brut,2
+2007-03,Beck,1
+2007-03,Bloc Party,1
+2007-03,Blur,0
+2007-03,Broken Social Scene,1
+2007-03,Clap Your Hands Say Yeah,1
+2007-03,Death Cab For Cutie,0
+2007-03,Interpol,0
+2007-03,Metric,0
+2007-03,Neutral Milk Hotel,1
+2007-03,Radiohead,0
+2007-03,Sonic Youth,1
+2007-03,The Decemberists,1
+2007-03,The New Pornographers,0
+2007-03,Tool,6
+2007-03,We Are Scientists,7
+2007-03,Weezer,0
+2007-04,Agalloch,0
+2007-04,Animal Collective,0
+2007-04,Arcade Fire,0
+2007-04,Art Brut,0
+2007-04,Beck,1
+2007-04,Bloc Party,0
+2007-04,Blur,0
+2007-04,Broken Social Scene,0
+2007-04,Clap Your Hands Say Yeah,1
+2007-04,Death Cab For Cutie,0
+2007-04,Interpol,1
+2007-04,Metric,0
+2007-04,Neutral Milk Hotel,0
+2007-04,Radiohead,0
+2007-04,Sonic Youth,1
+2007-04,The Decemberists,0
+2007-04,The New Pornographers,0
+2007-04,Tool,0
+2007-04,We Are Scientists,9
+2007-04,Weezer,0
+2007-05,Agalloch,0
+2007-05,Animal Collective,0
+2007-05,Arcade Fire,4
+2007-05,Art Brut,0
+2007-05,Beck,0
+2007-05,Bloc Party,5
+2007-05,Blur,1
+2007-05,Broken Social Scene,0
+2007-05,Clap Your Hands Say Yeah,1
+2007-05,Death Cab For Cutie,0
+2007-05,Interpol,2
+2007-05,Metric,2
+2007-05,Neutral Milk Hotel,1
+2007-05,Radiohead,0
+2007-05,Sonic Youth,0
+2007-05,The Decemberists,5
+2007-05,The New Pornographers,4
+2007-05,Tool,3
+2007-05,We Are Scientists,0
+2007-05,Weezer,0
+2007-06,Agalloch,25
+2007-06,Animal Collective,0
+2007-06,Arcade Fire,0
+2007-06,Art Brut,0
+2007-06,Beck,1
+2007-06,Bloc Party,2
+2007-06,Blur,0
+2007-06,Broken Social Scene,6
+2007-06,Clap Your Hands Say Yeah,0
+2007-06,Death Cab For Cutie,0
+2007-06,Interpol,0
+2007-06,Metric,0
+2007-06,Neutral Milk Hotel,0
+2007-06,Radiohead,2
+2007-06,Sonic Youth,0
+2007-06,The Decemberists,0
+2007-06,The New Pornographers,0
+2007-06,Tool,0
+2007-06,We Are Scientists,0
+2007-06,Weezer,0
+2007-07,Agalloch,0
+2007-07,Animal Collective,3
+2007-07,Arcade Fire,0
+2007-07,Art Brut,0
+2007-07,Beck,0
+2007-07,Bloc Party,0
+2007-07,Blur,1
+2007-07,Broken Social Scene,0
+2007-07,Clap Your Hands Say Yeah,2
+2007-07,Death Cab For Cutie,1
+2007-07,Interpol,0
+2007-07,Metric,0
+2007-07,Neutral Milk Hotel,1
+2007-07,Radiohead,0
+2007-07,Sonic Youth,1
+2007-07,The Decemberists,1
+2007-07,The New Pornographers,5
+2007-07,Tool,4
+2007-07,We Are Scientists,1
+2007-07,Weezer,0
+2007-08,Agalloch,4
+2007-08,Animal Collective,9
+2007-08,Arcade Fire,3
+2007-08,Art Brut,26
+2007-08,Beck,0
+2007-08,Bloc Party,0
+2007-08,Blur,0
+2007-08,Broken Social Scene,1
+2007-08,Clap Your Hands Say Yeah,0
+2007-08,Death Cab For Cutie,0
+2007-08,Interpol,29
+2007-08,Metric,0
+2007-08,Neutral Milk Hotel,1
+2007-08,Radiohead,0
+2007-08,Sonic Youth,0
+2007-08,The Decemberists,1
+2007-08,The New Pornographers,0
+2007-08,Tool,1
+2007-08,We Are Scientists,0
+2007-08,Weezer,0
+2007-09,Agalloch,0
+2007-09,Animal Collective,4
+2007-09,Arcade Fire,1
+2007-09,Art Brut,0
+2007-09,Beck,0
+2007-09,Bloc Party,0
+2007-09,Blur,0
+2007-09,Broken Social Scene,1
+2007-09,Clap Your Hands Say Yeah,0
+2007-09,Death Cab For Cutie,0
+2007-09,Interpol,9
+2007-09,Metric,0
+2007-09,Neutral Milk Hotel,1
+2007-09,Radiohead,1
+2007-09,Sonic Youth,1
+2007-09,The Decemberists,1
+2007-09,The New Pornographers,0
+2007-09,Tool,4
+2007-09,We Are Scientists,0
+2007-09,Weezer,0
+2007-10,Agalloch,0
+2007-10,Animal Collective,13
+2007-10,Arcade Fire,0
+2007-10,Art Brut,8
+2007-10,Beck,0
+2007-10,Bloc Party,0
+2007-10,Blur,0
+2007-10,Broken Social Scene,0
+2007-10,Clap Your Hands Say Yeah,0
+2007-10,Death Cab For Cutie,0
+2007-10,Interpol,9
+2007-10,Metric,0
+2007-10,Neutral Milk Hotel,0
+2007-10,Radiohead,0
+2007-10,Sonic Youth,0
+2007-10,The Decemberists,0
+2007-10,The New Pornographers,0
+2007-10,Tool,4
+2007-10,We Are Scientists,0
+2007-10,Weezer,0
+2007-11,Agalloch,0
+2007-11,Animal Collective,9
+2007-11,Arcade Fire,0
+2007-11,Art Brut,12
+2007-11,Beck,0
+2007-11,Bloc Party,0
+2007-11,Blur,0
+2007-11,Broken Social Scene,0
+2007-11,Clap Your Hands Say Yeah,0
+2007-11,Death Cab For Cutie,0
+2007-11,Interpol,0
+2007-11,Metric,0
+2007-11,Neutral Milk Hotel,0
+2007-11,Radiohead,1
+2007-11,Sonic Youth,0
+2007-11,The Decemberists,0
+2007-11,The New Pornographers,0
+2007-11,Tool,0
+2007-11,We Are Scientists,0
+2007-11,Weezer,0
+2007-12,Agalloch,0
+2007-12,Animal Collective,0
+2007-12,Arcade Fire,2
+2007-12,Art Brut,0
+2007-12,Beck,1
+2007-12,Bloc Party,0
+2007-12,Blur,0
+2007-12,Broken Social Scene,1
+2007-12,Clap Your Hands Say Yeah,1
+2007-12,Death Cab For Cutie,1
+2007-12,Interpol,1
+2007-12,Metric,2
+2007-12,Neutral Milk Hotel,0
+2007-12,Radiohead,0
+2007-12,Sonic Youth,0
+2007-12,The Decemberists,2
+2007-12,The New Pornographers,2
+2007-12,Tool,0
+2007-12,We Are Scientists,0
+2007-12,Weezer,0
+2008-01,Agalloch,7
+2008-01,Animal Collective,0
+2008-01,Arcade Fire,0
+2008-01,Art Brut,0
+2008-01,Beck,1
+2008-01,Bloc Party,0
+2008-01,Blur,0
+2008-01,Broken Social Scene,0
+2008-01,Clap Your Hands Say Yeah,0
+2008-01,Death Cab For Cutie,1
+2008-01,Interpol,0
+2008-01,Metric,1
+2008-01,Neutral Milk Hotel,1
+2008-01,Radiohead,0
+2008-01,Sonic Youth,0
+2008-01,The Decemberists,0
+2008-01,The New Pornographers,0
+2008-01,Tool,0
+2008-01,We Are Scientists,1
+2008-01,Weezer,4
+2008-02,Agalloch,10
+2008-02,Animal Collective,0
+2008-02,Arcade Fire,0
+2008-02,Art Brut,0
+2008-02,Beck,0
+2008-02,Bloc Party,0
+2008-02,Blur,0
+2008-02,Broken Social Scene,0
+2008-02,Clap Your Hands Say Yeah,0
+2008-02,Death Cab For Cutie,0
+2008-02,Interpol,0
+2008-02,Metric,0
+2008-02,Neutral Milk Hotel,0
+2008-02,Radiohead,2
+2008-02,Sonic Youth,0
+2008-02,The Decemberists,0
+2008-02,The New Pornographers,0
+2008-02,Tool,0
+2008-02,We Are Scientists,0
+2008-02,Weezer,5
+2008-03,Agalloch,3
+2008-03,Animal Collective,0
+2008-03,Arcade Fire,0
+2008-03,Art Brut,0
+2008-03,Beck,1
+2008-03,Bloc Party,0
+2008-03,Blur,0
+2008-03,Broken Social Scene,2
+2008-03,Clap Your Hands Say Yeah,0
+2008-03,Death Cab For Cutie,1
+2008-03,Interpol,0
+2008-03,Metric,0
+2008-03,Neutral Milk Hotel,0
+2008-03,Radiohead,1
+2008-03,Sonic Youth,2
+2008-03,The Decemberists,0
+2008-03,The New Pornographers,0
+2008-03,Tool,4
+2008-03,We Are Scientists,5
+2008-03,Weezer,0
+2008-04,Agalloch,0
+2008-04,Animal Collective,0
+2008-04,Arcade Fire,0
+2008-04,Art Brut,5
+2008-04,Beck,2
+2008-04,Bloc Party,0
+2008-04,Blur,0
+2008-04,Broken Social Scene,2
+2008-04,Clap Your Hands Say Yeah,0
+2008-04,Death Cab For Cutie,22
+2008-04,Interpol,0
+2008-04,Metric,14
+2008-04,Neutral Milk Hotel,0
+2008-04,Radiohead,1
+2008-04,Sonic Youth,0
+2008-04,The Decemberists,0
+2008-04,The New Pornographers,0
+2008-04,Tool,0
+2008-04,We Are Scientists,0
+2008-04,Weezer,0
+2008-05,Agalloch,0
+2008-05,Animal Collective,0
+2008-05,Arcade Fire,0
+2008-05,Art Brut,0
+2008-05,Beck,0
+2008-05,Bloc Party,6
+2008-05,Blur,0
+2008-05,Broken Social Scene,1
+2008-05,Clap Your Hands Say Yeah,0
+2008-05,Death Cab For Cutie,0
+2008-05,Interpol,0
+2008-05,Metric,5
+2008-05,Neutral Milk Hotel,0
+2008-05,Radiohead,12
+2008-05,Sonic Youth,1
+2008-05,The Decemberists,0
+2008-05,The New Pornographers,11
+2008-05,Tool,1
+2008-05,We Are Scientists,2
+2008-05,Weezer,1
+2008-06,Agalloch,5
+2008-06,Animal Collective,0
+2008-06,Arcade Fire,0
+2008-06,Art Brut,0
+2008-06,Beck,1
+2008-06,Bloc Party,0
+2008-06,Blur,1
+2008-06,Broken Social Scene,1
+2008-06,Clap Your Hands Say Yeah,0
+2008-06,Death Cab For Cutie,12
+2008-06,Interpol,0
+2008-06,Metric,1
+2008-06,Neutral Milk Hotel,0
+2008-06,Radiohead,0
+2008-06,Sonic Youth,1
+2008-06,The Decemberists,0
+2008-06,The New Pornographers,0
+2008-06,Tool,2
+2008-06,We Are Scientists,0
+2008-06,Weezer,0
+2008-07,Agalloch,0
+2008-07,Animal Collective,0
+2008-07,Arcade Fire,0
+2008-07,Art Brut,0
+2008-07,Beck,0
+2008-07,Bloc Party,0
+2008-07,Blur,0
+2008-07,Broken Social Scene,0
+2008-07,Clap Your Hands Say Yeah,0
+2008-07,Death Cab For Cutie,0
+2008-07,Interpol,0
+2008-07,Metric,0
+2008-07,Neutral Milk Hotel,0
+2008-07,Radiohead,0
+2008-07,Sonic Youth,0
+2008-07,The Decemberists,0
+2008-07,The New Pornographers,0
+2008-07,Tool,0
+2008-07,We Are Scientists,0
+2008-07,Weezer,0
+2008-08,Agalloch,2
+2008-08,Animal Collective,11
+2008-08,Arcade Fire,0
+2008-08,Art Brut,0
+2008-08,Beck,0
+2008-08,Bloc Party,0
+2008-08,Blur,8
+2008-08,Broken Social Scene,0
+2008-08,Clap Your Hands Say Yeah,0
+2008-08,Death Cab For Cutie,0
+2008-08,Interpol,0
+2008-08,Metric,10
+2008-08,Neutral Milk Hotel,0
+2008-08,Radiohead,0
+2008-08,Sonic Youth,0
+2008-08,The Decemberists,0
+2008-08,The New Pornographers,1
+2008-08,Tool,0
+2008-08,We Are Scientists,0
+2008-08,Weezer,2
+2008-09,Agalloch,0
+2008-09,Animal Collective,7
+2008-09,Arcade Fire,0
+2008-09,Art Brut,0
+2008-09,Beck,0
+2008-09,Bloc Party,0
+2008-09,Blur,0
+2008-09,Broken Social Scene,0
+2008-09,Clap Your Hands Say Yeah,0
+2008-09,Death Cab For Cutie,0
+2008-09,Interpol,0
+2008-09,Metric,0
+2008-09,Neutral Milk Hotel,0
+2008-09,Radiohead,0
+2008-09,Sonic Youth,0
+2008-09,The Decemberists,0
+2008-09,The New Pornographers,1
+2008-09,Tool,0
+2008-09,We Are Scientists,0
+2008-09,Weezer,0
+2008-10,Agalloch,0
+2008-10,Animal Collective,0
+2008-10,Arcade Fire,2
+2008-10,Art Brut,0
+2008-10,Beck,0
+2008-10,Bloc Party,0
+2008-10,Blur,0
+2008-10,Broken Social Scene,0
+2008-10,Clap Your Hands Say Yeah,0
+2008-10,Death Cab For Cutie,11
+2008-10,Interpol,0
+2008-10,Metric,0
+2008-10,Neutral Milk Hotel,0
+2008-10,Radiohead,0
+2008-10,Sonic Youth,0
+2008-10,The Decemberists,1
+2008-10,The New Pornographers,0
+2008-10,Tool,0
+2008-10,We Are Scientists,0
+2008-10,Weezer,0
+2008-11,Agalloch,0
+2008-11,Animal Collective,0
+2008-11,Arcade Fire,0
+2008-11,Art Brut,0
+2008-11,Beck,0
+2008-11,Bloc Party,0
+2008-11,Blur,2
+2008-11,Broken Social Scene,0
+2008-11,Clap Your Hands Say Yeah,0
+2008-11,Death Cab For Cutie,0
+2008-11,Interpol,0
+2008-11,Metric,0
+2008-11,Neutral Milk Hotel,0
+2008-11,Radiohead,0
+2008-11,Sonic Youth,0
+2008-11,The Decemberists,0
+2008-11,The New Pornographers,1
+2008-11,Tool,0
+2008-11,We Are Scientists,0
+2008-11,Weezer,0
+2008-12,Agalloch,0
+2008-12,Animal Collective,0
+2008-12,Arcade Fire,0
+2008-12,Art Brut,0
+2008-12,Beck,6
+2008-12,Bloc Party,0
+2008-12,Blur,1
+2008-12,Broken Social Scene,0
+2008-12,Clap Your Hands Say Yeah,0
+2008-12,Death Cab For Cutie,0
+2008-12,Interpol,0
+2008-12,Metric,0
+2008-12,Neutral Milk Hotel,2
+2008-12,Radiohead,0
+2008-12,Sonic Youth,0
+2008-12,The Decemberists,1
+2008-12,The New Pornographers,0
+2008-12,Tool,0
+2008-12,We Are Scientists,0
+2008-12,Weezer,27
+2009-01,Agalloch,0
+2009-01,Animal Collective,0
+2009-01,Arcade Fire,0
+2009-01,Art Brut,0
+2009-01,Beck,0
+2009-01,Bloc Party,0
+2009-01,Blur,0
+2009-01,Broken Social Scene,0
+2009-01,Clap Your Hands Say Yeah,0
+2009-01,Death Cab For Cutie,4
+2009-01,Interpol,0
+2009-01,Metric,0
+2009-01,Neutral Milk Hotel,0
+2009-01,Radiohead,0
+2009-01,Sonic Youth,0
+2009-01,The Decemberists,0
+2009-01,The New Pornographers,0
+2009-01,Tool,0
+2009-01,We Are Scientists,0
+2009-01,Weezer,11
+2009-02,Agalloch,0
+2009-02,Animal Collective,0
+2009-02,Arcade Fire,0
+2009-02,Art Brut,0
+2009-02,Beck,0
+2009-02,Bloc Party,0
+2009-02,Blur,0
+2009-02,Broken Social Scene,0
+2009-02,Clap Your Hands Say Yeah,0
+2009-02,Death Cab For Cutie,0
+2009-02,Interpol,0
+2009-02,Metric,0
+2009-02,Neutral Milk Hotel,0
+2009-02,Radiohead,0
+2009-02,Sonic Youth,0
+2009-02,The Decemberists,0
+2009-02,The New Pornographers,0
+2009-02,Tool,0
+2009-02,We Are Scientists,0
+2009-02,Weezer,7
+2009-03,Agalloch,0
+2009-03,Animal Collective,0
+2009-03,Arcade Fire,0
+2009-03,Art Brut,1
+2009-03,Beck,0
+2009-03,Bloc Party,1
+2009-03,Blur,0
+2009-03,Broken Social Scene,0
+2009-03,Clap Your Hands Say Yeah,0
+2009-03,Death Cab For Cutie,1
+2009-03,Interpol,3
+2009-03,Metric,0
+2009-03,Neutral Milk Hotel,0
+2009-03,Radiohead,0
+2009-03,Sonic Youth,0
+2009-03,The Decemberists,0
+2009-03,The New Pornographers,0
+2009-03,Tool,0
+2009-03,We Are Scientists,1
+2009-03,Weezer,23
+2009-04,Agalloch,2
+2009-04,Animal Collective,1
+2009-04,Arcade Fire,0
+2009-04,Art Brut,0
+2009-04,Beck,0
+2009-04,Bloc Party,0
+2009-04,Blur,0
+2009-04,Broken Social Scene,0
+2009-04,Clap Your Hands Say Yeah,0
+2009-04,Death Cab For Cutie,3
+2009-04,Interpol,0
+2009-04,Metric,0
+2009-04,Neutral Milk Hotel,0
+2009-04,Radiohead,6
+2009-04,Sonic Youth,0
+2009-04,The Decemberists,0
+2009-04,The New Pornographers,0
+2009-04,Tool,0
+2009-04,We Are Scientists,0
+2009-04,Weezer,9
+2009-05,Agalloch,0
+2009-05,Animal Collective,0
+2009-05,Arcade Fire,0
+2009-05,Art Brut,0
+2009-05,Beck,0
+2009-05,Bloc Party,0
+2009-05,Blur,0
+2009-05,Broken Social Scene,0
+2009-05,Clap Your Hands Say Yeah,0
+2009-05,Death Cab For Cutie,0
+2009-05,Interpol,8
+2009-05,Metric,0
+2009-05,Neutral Milk Hotel,0
+2009-05,Radiohead,0
+2009-05,Sonic Youth,0
+2009-05,The Decemberists,0
+2009-05,The New Pornographers,0
+2009-05,Tool,6
+2009-05,We Are Scientists,0
+2009-05,Weezer,0
+2009-06,Agalloch,0
+2009-06,Animal Collective,0
+2009-06,Arcade Fire,0
+2009-06,Art Brut,0
+2009-06,Beck,0
+2009-06,Bloc Party,0
+2009-06,Blur,0
+2009-06,Broken Social Scene,0
+2009-06,Clap Your Hands Say Yeah,0
+2009-06,Death Cab For Cutie,0
+2009-06,Interpol,0
+2009-06,Metric,0
+2009-06,Neutral Milk Hotel,0
+2009-06,Radiohead,0
+2009-06,Sonic Youth,0
+2009-06,The Decemberists,0
+2009-06,The New Pornographers,0
+2009-06,Tool,0
+2009-06,We Are Scientists,0
+2009-06,Weezer,22

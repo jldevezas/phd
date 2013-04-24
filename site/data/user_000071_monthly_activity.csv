@@ -1,0 +1,301 @@
+month,artist,plays
+2005-12,Arctic Monkeys,13
+2005-12,Bloc Party,4
+2005-12,Bush,2
+2005-12,Colour Of Fire,3
+2005-12,Franz Ferdinand,6
+2005-12,Gang Of Four,0
+2005-12,Hüsker Dü,5
+2005-12,Interpol,3
+2005-12,Joy Division,3
+2005-12,Maxïmo Park,5
+2005-12,Nirvana,11
+2005-12,Queenadreena,17
+2005-12,Ramones,8
+2005-12,Razorlight,15
+2005-12,Sex Pistols,1
+2005-12,The Bravery,1
+2005-12,The Cure,12
+2005-12,The Damned,1
+2005-12,The Libertines,4
+2005-12,White Rose Movement,0
+2006-01,Arctic Monkeys,22
+2006-01,Bloc Party,22
+2006-01,Bush,2
+2006-01,Colour Of Fire,24
+2006-01,Franz Ferdinand,10
+2006-01,Gang Of Four,7
+2006-01,Hüsker Dü,11
+2006-01,Interpol,16
+2006-01,Joy Division,22
+2006-01,Maxïmo Park,14
+2006-01,Nirvana,28
+2006-01,Queenadreena,8
+2006-01,Ramones,19
+2006-01,Razorlight,23
+2006-01,Sex Pistols,6
+2006-01,The Bravery,18
+2006-01,The Cure,36
+2006-01,The Damned,10
+2006-01,The Libertines,6
+2006-01,White Rose Movement,25
+2006-02,Arctic Monkeys,27
+2006-02,Bloc Party,39
+2006-02,Bush,13
+2006-02,Colour Of Fire,71
+2006-02,Franz Ferdinand,32
+2006-02,Gang Of Four,5
+2006-02,Hüsker Dü,31
+2006-02,Interpol,33
+2006-02,Joy Division,24
+2006-02,Maxïmo Park,19
+2006-02,Nirvana,29
+2006-02,Queenadreena,40
+2006-02,Ramones,15
+2006-02,Razorlight,46
+2006-02,Sex Pistols,9
+2006-02,The Bravery,12
+2006-02,The Cure,59
+2006-02,The Damned,6
+2006-02,The Libertines,9
+2006-02,White Rose Movement,19
+2006-03,Arctic Monkeys,4
+2006-03,Bloc Party,7
+2006-03,Bush,1
+2006-03,Colour Of Fire,15
+2006-03,Franz Ferdinand,4
+2006-03,Gang Of Four,4
+2006-03,Hüsker Dü,9
+2006-03,Interpol,7
+2006-03,Joy Division,9
+2006-03,Maxïmo Park,6
+2006-03,Nirvana,8
+2006-03,Queenadreena,11
+2006-03,Ramones,1
+2006-03,Razorlight,5
+2006-03,Sex Pistols,26
+2006-03,The Bravery,6
+2006-03,The Cure,23
+2006-03,The Damned,2
+2006-03,The Libertines,6
+2006-03,White Rose Movement,5
+2006-04,Arctic Monkeys,4
+2006-04,Bloc Party,1
+2006-04,Bush,2
+2006-04,Colour Of Fire,2
+2006-04,Franz Ferdinand,4
+2006-04,Gang Of Four,2
+2006-04,Hüsker Dü,2
+2006-04,Interpol,4
+2006-04,Joy Division,18
+2006-04,Maxïmo Park,2
+2006-04,Nirvana,11
+2006-04,Queenadreena,0
+2006-04,Ramones,1
+2006-04,Razorlight,1
+2006-04,Sex Pistols,7
+2006-04,The Bravery,1
+2006-04,The Cure,29
+2006-04,The Damned,1
+2006-04,The Libertines,1
+2006-04,White Rose Movement,2
+2006-05,Arctic Monkeys,1
+2006-05,Bloc Party,1
+2006-05,Bush,0
+2006-05,Colour Of Fire,3
+2006-05,Franz Ferdinand,4
+2006-05,Gang Of Four,2
+2006-05,Hüsker Dü,6
+2006-05,Interpol,1
+2006-05,Joy Division,24
+2006-05,Maxïmo Park,1
+2006-05,Nirvana,24
+2006-05,Queenadreena,2
+2006-05,Ramones,1
+2006-05,Razorlight,1
+2006-05,Sex Pistols,8
+2006-05,The Bravery,2
+2006-05,The Cure,8
+2006-05,The Damned,0
+2006-05,The Libertines,2
+2006-05,White Rose Movement,2
+2006-06,Arctic Monkeys,2
+2006-06,Bloc Party,2
+2006-06,Bush,3
+2006-06,Colour Of Fire,1
+2006-06,Franz Ferdinand,0
+2006-06,Gang Of Four,1
+2006-06,Hüsker Dü,24
+2006-06,Interpol,4
+2006-06,Joy Division,50
+2006-06,Maxïmo Park,1
+2006-06,Nirvana,14
+2006-06,Queenadreena,2
+2006-06,Ramones,0
+2006-06,Razorlight,2
+2006-06,Sex Pistols,2
+2006-06,The Bravery,7
+2006-06,The Cure,3
+2006-06,The Damned,1
+2006-06,The Libertines,1
+2006-06,White Rose Movement,1
+2006-07,Arctic Monkeys,0
+2006-07,Bloc Party,8
+2006-07,Bush,0
+2006-07,Colour Of Fire,0
+2006-07,Franz Ferdinand,1
+2006-07,Gang Of Four,1
+2006-07,Hüsker Dü,4
+2006-07,Interpol,4
+2006-07,Joy Division,18
+2006-07,Maxïmo Park,1
+2006-07,Nirvana,1
+2006-07,Queenadreena,0
+2006-07,Ramones,1
+2006-07,Razorlight,8
+2006-07,Sex Pistols,20
+2006-07,The Bravery,2
+2006-07,The Cure,1
+2006-07,The Damned,0
+2006-07,The Libertines,0
+2006-07,White Rose Movement,0
+2006-08,Arctic Monkeys,1
+2006-08,Bloc Party,0
+2006-08,Bush,0
+2006-08,Colour Of Fire,1
+2006-08,Franz Ferdinand,0
+2006-08,Gang Of Four,1
+2006-08,Hüsker Dü,0
+2006-08,Interpol,0
+2006-08,Joy Division,3
+2006-08,Maxïmo Park,0
+2006-08,Nirvana,0
+2006-08,Queenadreena,3
+2006-08,Ramones,0
+2006-08,Razorlight,1
+2006-08,Sex Pistols,0
+2006-08,The Bravery,0
+2006-08,The Cure,0
+2006-08,The Damned,0
+2006-08,The Libertines,0
+2006-08,White Rose Movement,2
+2006-09,Arctic Monkeys,0
+2006-09,Bloc Party,1
+2006-09,Bush,0
+2006-09,Colour Of Fire,0
+2006-09,Franz Ferdinand,0
+2006-09,Gang Of Four,1
+2006-09,Hüsker Dü,1
+2006-09,Interpol,0
+2006-09,Joy Division,1
+2006-09,Maxïmo Park,0
+2006-09,Nirvana,1
+2006-09,Queenadreena,10
+2006-09,Ramones,0
+2006-09,Razorlight,0
+2006-09,Sex Pistols,0
+2006-09,The Bravery,0
+2006-09,The Cure,1
+2006-09,The Damned,0
+2006-09,The Libertines,0
+2006-09,White Rose Movement,0
+2006-10,Arctic Monkeys,0
+2006-10,Bloc Party,2
+2006-10,Bush,1
+2006-10,Colour Of Fire,0
+2006-10,Franz Ferdinand,0
+2006-10,Gang Of Four,0
+2006-10,Hüsker Dü,0
+2006-10,Interpol,1
+2006-10,Joy Division,5
+2006-10,Maxïmo Park,0
+2006-10,Nirvana,1
+2006-10,Queenadreena,1
+2006-10,Ramones,0
+2006-10,Razorlight,0
+2006-10,Sex Pistols,1
+2006-10,The Bravery,1
+2006-10,The Cure,0
+2006-10,The Damned,1
+2006-10,The Libertines,20
+2006-10,White Rose Movement,1
+2006-11,Arctic Monkeys,0
+2006-11,Bloc Party,0
+2006-11,Bush,0
+2006-11,Colour Of Fire,0
+2006-11,Franz Ferdinand,0
+2006-11,Gang Of Four,0
+2006-11,Hüsker Dü,0
+2006-11,Interpol,0
+2006-11,Joy Division,0
+2006-11,Maxïmo Park,0
+2006-11,Nirvana,0
+2006-11,Queenadreena,0
+2006-11,Ramones,0
+2006-11,Razorlight,0
+2006-11,Sex Pistols,0
+2006-11,The Bravery,0
+2006-11,The Cure,0
+2006-11,The Damned,0
+2006-11,The Libertines,0
+2006-11,White Rose Movement,0
+2006-12,Arctic Monkeys,0
+2006-12,Bloc Party,2
+2006-12,Bush,0
+2006-12,Colour Of Fire,0
+2006-12,Franz Ferdinand,3
+2006-12,Gang Of Four,0
+2006-12,Hüsker Dü,0
+2006-12,Interpol,0
+2006-12,Joy Division,2
+2006-12,Maxïmo Park,1
+2006-12,Nirvana,0
+2006-12,Queenadreena,0
+2006-12,Ramones,4
+2006-12,Razorlight,0
+2006-12,Sex Pistols,21
+2006-12,The Bravery,0
+2006-12,The Cure,2
+2006-12,The Damned,1
+2006-12,The Libertines,0
+2006-12,White Rose Movement,3
+2007-01,Arctic Monkeys,0
+2007-01,Bloc Party,0
+2007-01,Bush,1
+2007-01,Colour Of Fire,0
+2007-01,Franz Ferdinand,0
+2007-01,Gang Of Four,0
+2007-01,Hüsker Dü,0
+2007-01,Interpol,0
+2007-01,Joy Division,0
+2007-01,Maxïmo Park,0
+2007-01,Nirvana,0
+2007-01,Queenadreena,0
+2007-01,Ramones,0
+2007-01,Razorlight,0
+2007-01,Sex Pistols,0
+2007-01,The Bravery,0
+2007-01,The Cure,0
+2007-01,The Damned,4
+2007-01,The Libertines,0
+2007-01,White Rose Movement,0
+2007-02,Arctic Monkeys,0
+2007-02,Bloc Party,0
+2007-02,Bush,0
+2007-02,Colour Of Fire,0
+2007-02,Franz Ferdinand,0
+2007-02,Gang Of Four,0
+2007-02,Hüsker Dü,0
+2007-02,Interpol,0
+2007-02,Joy Division,0
+2007-02,Maxïmo Park,0
+2007-02,Nirvana,0
+2007-02,Queenadreena,0
+2007-02,Ramones,0
+2007-02,Razorlight,1
+2007-02,Sex Pistols,0
+2007-02,The Bravery,0
+2007-02,The Cure,0
+2007-02,The Damned,0
+2007-02,The Libertines,7
+2007-02,White Rose Movement,0

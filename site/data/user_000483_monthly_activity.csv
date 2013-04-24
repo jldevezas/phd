@@ -1,0 +1,521 @@
+month,artist,plays
+2007-04,Above The Law,0
+2007-04,Afi,4
+2007-04,Air,0
+2007-04,Architecture In Helsinki,10
+2007-04,Armand Van Helden,0
+2007-04,Bloc Party,0
+2007-04,Chromeo,0
+2007-04,Cradle Of Filth,0
+2007-04,Crystal Castles,0
+2007-04,Daft Punk,0
+2007-04,Digitalism,0
+2007-04,Ghostface Killah,0
+2007-04,Justice,0
+2007-04,Kavinsky,0
+2007-04,Ladytron,0
+2007-04,Lil Wayne,0
+2007-04,Snoop Dogg,0
+2007-04,The Black Ghosts,0
+2007-04,The Notorious B.I.G.,22
+2007-04,Unkle,0
+2007-05,Above The Law,0
+2007-05,Afi,0
+2007-05,Air,0
+2007-05,Architecture In Helsinki,14
+2007-05,Armand Van Helden,0
+2007-05,Bloc Party,1
+2007-05,Chromeo,92
+2007-05,Cradle Of Filth,0
+2007-05,Crystal Castles,6
+2007-05,Daft Punk,12
+2007-05,Digitalism,0
+2007-05,Ghostface Killah,25
+2007-05,Justice,35
+2007-05,Kavinsky,22
+2007-05,Ladytron,0
+2007-05,Lil Wayne,0
+2007-05,Snoop Dogg,0
+2007-05,The Black Ghosts,0
+2007-05,The Notorious B.I.G.,1
+2007-05,Unkle,0
+2007-06,Above The Law,0
+2007-06,Afi,0
+2007-06,Air,3
+2007-06,Architecture In Helsinki,28
+2007-06,Armand Van Helden,0
+2007-06,Bloc Party,1
+2007-06,Chromeo,24
+2007-06,Cradle Of Filth,0
+2007-06,Crystal Castles,3
+2007-06,Daft Punk,4
+2007-06,Digitalism,1
+2007-06,Ghostface Killah,0
+2007-06,Justice,23
+2007-06,Kavinsky,1
+2007-06,Ladytron,2
+2007-06,Lil Wayne,2
+2007-06,Snoop Dogg,0
+2007-06,The Black Ghosts,3
+2007-06,The Notorious B.I.G.,2
+2007-06,Unkle,1
+2007-07,Above The Law,0
+2007-07,Afi,27
+2007-07,Air,17
+2007-07,Architecture In Helsinki,14
+2007-07,Armand Van Helden,0
+2007-07,Bloc Party,2
+2007-07,Chromeo,17
+2007-07,Cradle Of Filth,0
+2007-07,Crystal Castles,52
+2007-07,Daft Punk,25
+2007-07,Digitalism,0
+2007-07,Ghostface Killah,0
+2007-07,Justice,4
+2007-07,Kavinsky,30
+2007-07,Ladytron,4
+2007-07,Lil Wayne,1
+2007-07,Snoop Dogg,0
+2007-07,The Black Ghosts,14
+2007-07,The Notorious B.I.G.,2
+2007-07,Unkle,13
+2007-08,Above The Law,0
+2007-08,Afi,1
+2007-08,Air,0
+2007-08,Architecture In Helsinki,0
+2007-08,Armand Van Helden,0
+2007-08,Bloc Party,0
+2007-08,Chromeo,0
+2007-08,Cradle Of Filth,3
+2007-08,Crystal Castles,5
+2007-08,Daft Punk,4
+2007-08,Digitalism,4
+2007-08,Ghostface Killah,0
+2007-08,Justice,10
+2007-08,Kavinsky,7
+2007-08,Ladytron,1
+2007-08,Lil Wayne,23
+2007-08,Snoop Dogg,0
+2007-08,The Black Ghosts,0
+2007-08,The Notorious B.I.G.,2
+2007-08,Unkle,0
+2007-09,Above The Law,10
+2007-09,Afi,13
+2007-09,Air,1
+2007-09,Architecture In Helsinki,12
+2007-09,Armand Van Helden,0
+2007-09,Bloc Party,16
+2007-09,Chromeo,0
+2007-09,Cradle Of Filth,0
+2007-09,Crystal Castles,18
+2007-09,Daft Punk,2
+2007-09,Digitalism,7
+2007-09,Ghostface Killah,23
+2007-09,Justice,0
+2007-09,Kavinsky,4
+2007-09,Ladytron,22
+2007-09,Lil Wayne,0
+2007-09,Snoop Dogg,0
+2007-09,The Black Ghosts,0
+2007-09,The Notorious B.I.G.,88
+2007-09,Unkle,0
+2007-10,Above The Law,0
+2007-10,Afi,0
+2007-10,Air,0
+2007-10,Architecture In Helsinki,0
+2007-10,Armand Van Helden,5
+2007-10,Bloc Party,1
+2007-10,Chromeo,2
+2007-10,Cradle Of Filth,0
+2007-10,Crystal Castles,2
+2007-10,Daft Punk,31
+2007-10,Digitalism,1
+2007-10,Ghostface Killah,0
+2007-10,Justice,3
+2007-10,Kavinsky,0
+2007-10,Ladytron,3
+2007-10,Lil Wayne,0
+2007-10,Snoop Dogg,0
+2007-10,The Black Ghosts,0
+2007-10,The Notorious B.I.G.,0
+2007-10,Unkle,0
+2007-11,Above The Law,0
+2007-11,Afi,0
+2007-11,Air,0
+2007-11,Architecture In Helsinki,46
+2007-11,Armand Van Helden,0
+2007-11,Bloc Party,8
+2007-11,Chromeo,9
+2007-11,Cradle Of Filth,0
+2007-11,Crystal Castles,4
+2007-11,Daft Punk,6
+2007-11,Digitalism,0
+2007-11,Ghostface Killah,0
+2007-11,Justice,2
+2007-11,Kavinsky,1
+2007-11,Ladytron,1
+2007-11,Lil Wayne,0
+2007-11,Snoop Dogg,19
+2007-11,The Black Ghosts,1
+2007-11,The Notorious B.I.G.,0
+2007-11,Unkle,0
+2007-12,Above The Law,20
+2007-12,Afi,9
+2007-12,Air,0
+2007-12,Architecture In Helsinki,0
+2007-12,Armand Van Helden,0
+2007-12,Bloc Party,5
+2007-12,Chromeo,1
+2007-12,Cradle Of Filth,3
+2007-12,Crystal Castles,1
+2007-12,Daft Punk,73
+2007-12,Digitalism,16
+2007-12,Ghostface Killah,51
+2007-12,Justice,1
+2007-12,Kavinsky,0
+2007-12,Ladytron,0
+2007-12,Lil Wayne,23
+2007-12,Snoop Dogg,0
+2007-12,The Black Ghosts,2
+2007-12,The Notorious B.I.G.,2
+2007-12,Unkle,0
+2008-01,Above The Law,2
+2008-01,Afi,0
+2008-01,Air,3
+2008-01,Architecture In Helsinki,3
+2008-01,Armand Van Helden,0
+2008-01,Bloc Party,5
+2008-01,Chromeo,1
+2008-01,Cradle Of Filth,11
+2008-01,Crystal Castles,1
+2008-01,Daft Punk,1
+2008-01,Digitalism,0
+2008-01,Ghostface Killah,1
+2008-01,Justice,2
+2008-01,Kavinsky,1
+2008-01,Ladytron,1
+2008-01,Lil Wayne,5
+2008-01,Snoop Dogg,20
+2008-01,The Black Ghosts,0
+2008-01,The Notorious B.I.G.,4
+2008-01,Unkle,1
+2008-02,Above The Law,0
+2008-02,Afi,1
+2008-02,Air,0
+2008-02,Architecture In Helsinki,24
+2008-02,Armand Van Helden,78
+2008-02,Bloc Party,2
+2008-02,Chromeo,2
+2008-02,Cradle Of Filth,1
+2008-02,Crystal Castles,53
+2008-02,Daft Punk,0
+2008-02,Digitalism,0
+2008-02,Ghostface Killah,17
+2008-02,Justice,1
+2008-02,Kavinsky,0
+2008-02,Ladytron,0
+2008-02,Lil Wayne,93
+2008-02,Snoop Dogg,0
+2008-02,The Black Ghosts,19
+2008-02,The Notorious B.I.G.,0
+2008-02,Unkle,1
+2008-03,Above The Law,0
+2008-03,Afi,0
+2008-03,Air,0
+2008-03,Architecture In Helsinki,0
+2008-03,Armand Van Helden,35
+2008-03,Bloc Party,0
+2008-03,Chromeo,0
+2008-03,Cradle Of Filth,1
+2008-03,Crystal Castles,3
+2008-03,Daft Punk,3
+2008-03,Digitalism,18
+2008-03,Ghostface Killah,20
+2008-03,Justice,6
+2008-03,Kavinsky,0
+2008-03,Ladytron,39
+2008-03,Lil Wayne,3
+2008-03,Snoop Dogg,4
+2008-03,The Black Ghosts,25
+2008-03,The Notorious B.I.G.,4
+2008-03,Unkle,0
+2008-04,Above The Law,0
+2008-04,Afi,14
+2008-04,Air,1
+2008-04,Architecture In Helsinki,13
+2008-04,Armand Van Helden,0
+2008-04,Bloc Party,0
+2008-04,Chromeo,2
+2008-04,Cradle Of Filth,0
+2008-04,Crystal Castles,41
+2008-04,Daft Punk,0
+2008-04,Digitalism,1
+2008-04,Ghostface Killah,1
+2008-04,Justice,0
+2008-04,Kavinsky,0
+2008-04,Ladytron,36
+2008-04,Lil Wayne,1
+2008-04,Snoop Dogg,1
+2008-04,The Black Ghosts,0
+2008-04,The Notorious B.I.G.,0
+2008-04,Unkle,3
+2008-05,Above The Law,0
+2008-05,Afi,0
+2008-05,Air,0
+2008-05,Architecture In Helsinki,0
+2008-05,Armand Van Helden,2
+2008-05,Bloc Party,0
+2008-05,Chromeo,0
+2008-05,Cradle Of Filth,1
+2008-05,Crystal Castles,0
+2008-05,Daft Punk,3
+2008-05,Digitalism,0
+2008-05,Ghostface Killah,0
+2008-05,Justice,1
+2008-05,Kavinsky,6
+2008-05,Ladytron,24
+2008-05,Lil Wayne,1
+2008-05,Snoop Dogg,1
+2008-05,The Black Ghosts,5
+2008-05,The Notorious B.I.G.,2
+2008-05,Unkle,0
+2008-06,Above The Law,0
+2008-06,Afi,0
+2008-06,Air,0
+2008-06,Architecture In Helsinki,0
+2008-06,Armand Van Helden,0
+2008-06,Bloc Party,1
+2008-06,Chromeo,0
+2008-06,Cradle Of Filth,0
+2008-06,Crystal Castles,0
+2008-06,Daft Punk,0
+2008-06,Digitalism,0
+2008-06,Ghostface Killah,0
+2008-06,Justice,0
+2008-06,Kavinsky,0
+2008-06,Ladytron,0
+2008-06,Lil Wayne,85
+2008-06,Snoop Dogg,2
+2008-06,The Black Ghosts,9
+2008-06,The Notorious B.I.G.,2
+2008-06,Unkle,0
+2008-07,Above The Law,12
+2008-07,Afi,3
+2008-07,Air,2
+2008-07,Architecture In Helsinki,1
+2008-07,Armand Van Helden,1
+2008-07,Bloc Party,1
+2008-07,Chromeo,0
+2008-07,Cradle Of Filth,1
+2008-07,Crystal Castles,0
+2008-07,Daft Punk,2
+2008-07,Digitalism,0
+2008-07,Ghostface Killah,0
+2008-07,Justice,0
+2008-07,Kavinsky,7
+2008-07,Ladytron,0
+2008-07,Lil Wayne,0
+2008-07,Snoop Dogg,0
+2008-07,The Black Ghosts,9
+2008-07,The Notorious B.I.G.,31
+2008-07,Unkle,1
+2008-08,Above The Law,25
+2008-08,Afi,53
+2008-08,Air,1
+2008-08,Architecture In Helsinki,0
+2008-08,Armand Van Helden,0
+2008-08,Bloc Party,0
+2008-08,Chromeo,0
+2008-08,Cradle Of Filth,0
+2008-08,Crystal Castles,0
+2008-08,Daft Punk,0
+2008-08,Digitalism,1
+2008-08,Ghostface Killah,1
+2008-08,Justice,0
+2008-08,Kavinsky,7
+2008-08,Ladytron,0
+2008-08,Lil Wayne,31
+2008-08,Snoop Dogg,34
+2008-08,The Black Ghosts,0
+2008-08,The Notorious B.I.G.,1
+2008-08,Unkle,60
+2008-09,Above The Law,0
+2008-09,Afi,0
+2008-09,Air,0
+2008-09,Architecture In Helsinki,0
+2008-09,Armand Van Helden,1
+2008-09,Bloc Party,0
+2008-09,Chromeo,0
+2008-09,Cradle Of Filth,0
+2008-09,Crystal Castles,1
+2008-09,Daft Punk,0
+2008-09,Digitalism,0
+2008-09,Ghostface Killah,2
+2008-09,Justice,0
+2008-09,Kavinsky,0
+2008-09,Ladytron,0
+2008-09,Lil Wayne,0
+2008-09,Snoop Dogg,3
+2008-09,The Black Ghosts,0
+2008-09,The Notorious B.I.G.,0
+2008-09,Unkle,0
+2008-10,Above The Law,73
+2008-10,Afi,26
+2008-10,Air,0
+2008-10,Architecture In Helsinki,0
+2008-10,Armand Van Helden,0
+2008-10,Bloc Party,0
+2008-10,Chromeo,0
+2008-10,Cradle Of Filth,12
+2008-10,Crystal Castles,1
+2008-10,Daft Punk,0
+2008-10,Digitalism,1
+2008-10,Ghostface Killah,1
+2008-10,Justice,0
+2008-10,Kavinsky,0
+2008-10,Ladytron,0
+2008-10,Lil Wayne,0
+2008-10,Snoop Dogg,0
+2008-10,The Black Ghosts,0
+2008-10,The Notorious B.I.G.,0
+2008-10,Unkle,0
+2008-11,Above The Law,9
+2008-11,Afi,0
+2008-11,Air,0
+2008-11,Architecture In Helsinki,0
+2008-11,Armand Van Helden,0
+2008-11,Bloc Party,1
+2008-11,Chromeo,0
+2008-11,Cradle Of Filth,4
+2008-11,Crystal Castles,0
+2008-11,Daft Punk,1
+2008-11,Digitalism,0
+2008-11,Ghostface Killah,0
+2008-11,Justice,0
+2008-11,Kavinsky,0
+2008-11,Ladytron,0
+2008-11,Lil Wayne,0
+2008-11,Snoop Dogg,0
+2008-11,The Black Ghosts,1
+2008-11,The Notorious B.I.G.,10
+2008-11,Unkle,1
+2008-12,Above The Law,14
+2008-12,Afi,0
+2008-12,Air,0
+2008-12,Architecture In Helsinki,5
+2008-12,Armand Van Helden,1
+2008-12,Bloc Party,2
+2008-12,Chromeo,1
+2008-12,Cradle Of Filth,0
+2008-12,Crystal Castles,0
+2008-12,Daft Punk,0
+2008-12,Digitalism,1
+2008-12,Ghostface Killah,0
+2008-12,Justice,0
+2008-12,Kavinsky,0
+2008-12,Ladytron,0
+2008-12,Lil Wayne,63
+2008-12,Snoop Dogg,0
+2008-12,The Black Ghosts,1
+2008-12,The Notorious B.I.G.,0
+2008-12,Unkle,1
+2009-01,Above The Law,22
+2009-01,Afi,0
+2009-01,Air,0
+2009-01,Architecture In Helsinki,0
+2009-01,Armand Van Helden,0
+2009-01,Bloc Party,0
+2009-01,Chromeo,0
+2009-01,Cradle Of Filth,0
+2009-01,Crystal Castles,1
+2009-01,Daft Punk,0
+2009-01,Digitalism,1
+2009-01,Ghostface Killah,0
+2009-01,Justice,0
+2009-01,Kavinsky,0
+2009-01,Ladytron,4
+2009-01,Lil Wayne,0
+2009-01,Snoop Dogg,0
+2009-01,The Black Ghosts,0
+2009-01,The Notorious B.I.G.,0
+2009-01,Unkle,0
+2009-02,Above The Law,0
+2009-02,Afi,0
+2009-02,Air,0
+2009-02,Architecture In Helsinki,0
+2009-02,Armand Van Helden,1
+2009-02,Bloc Party,0
+2009-02,Chromeo,0
+2009-02,Cradle Of Filth,0
+2009-02,Crystal Castles,2
+2009-02,Daft Punk,1
+2009-02,Digitalism,0
+2009-02,Ghostface Killah,0
+2009-02,Justice,0
+2009-02,Kavinsky,0
+2009-02,Ladytron,4
+2009-02,Lil Wayne,0
+2009-02,Snoop Dogg,0
+2009-02,The Black Ghosts,0
+2009-02,The Notorious B.I.G.,11
+2009-02,Unkle,5
+2009-03,Above The Law,0
+2009-03,Afi,0
+2009-03,Air,23
+2009-03,Architecture In Helsinki,0
+2009-03,Armand Van Helden,0
+2009-03,Bloc Party,0
+2009-03,Chromeo,0
+2009-03,Cradle Of Filth,26
+2009-03,Crystal Castles,2
+2009-03,Daft Punk,0
+2009-03,Digitalism,0
+2009-03,Ghostface Killah,0
+2009-03,Justice,0
+2009-03,Kavinsky,0
+2009-03,Ladytron,2
+2009-03,Lil Wayne,0
+2009-03,Snoop Dogg,4
+2009-03,The Black Ghosts,0
+2009-03,The Notorious B.I.G.,0
+2009-03,Unkle,0
+2009-04,Above The Law,0
+2009-04,Afi,0
+2009-04,Air,1
+2009-04,Architecture In Helsinki,0
+2009-04,Armand Van Helden,10
+2009-04,Bloc Party,0
+2009-04,Chromeo,0
+2009-04,Cradle Of Filth,0
+2009-04,Crystal Castles,0
+2009-04,Daft Punk,0
+2009-04,Digitalism,0
+2009-04,Ghostface Killah,0
+2009-04,Justice,1
+2009-04,Kavinsky,0
+2009-04,Ladytron,0
+2009-04,Lil Wayne,7
+2009-04,Snoop Dogg,1
+2009-04,The Black Ghosts,0
+2009-04,The Notorious B.I.G.,0
+2009-04,Unkle,0
+2009-05,Above The Law,0
+2009-05,Afi,0
+2009-05,Air,0
+2009-05,Architecture In Helsinki,0
+2009-05,Armand Van Helden,0
+2009-05,Bloc Party,0
+2009-05,Chromeo,0
+2009-05,Cradle Of Filth,0
+2009-05,Crystal Castles,0
+2009-05,Daft Punk,0
+2009-05,Digitalism,0
+2009-05,Ghostface Killah,0
+2009-05,Justice,0
+2009-05,Kavinsky,0
+2009-05,Ladytron,0
+2009-05,Lil Wayne,0
+2009-05,Snoop Dogg,0
+2009-05,The Black Ghosts,0
+2009-05,The Notorious B.I.G.,1
+2009-05,Unkle,11

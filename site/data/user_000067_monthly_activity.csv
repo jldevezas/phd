@@ -1,0 +1,1021 @@
+month,artist,plays
+2005-03,Anna Schaad,8
+2005-03,Atb,3
+2005-03,Barenaked Ladies,15
+2005-03,Charles Mingus,7
+2005-03,Coldplay,0
+2005-03,Hawksley Workman,7
+2005-03,Kinnie Starr,0
+2005-03,Matthew Good,4
+2005-03,Matthew Good Band,2
+2005-03,Muse,8
+2005-03,Norah Jones,4
+2005-03,Paul Van Dyk,8
+2005-03,Red Hot Chili Peppers,0
+2005-03,Saint Etienne,3
+2005-03,Santana,16
+2005-03,Stanley Clarke,3
+2005-03,Sting,6
+2005-03,The Killers,0
+2005-03,Vanessa Daou,1
+2005-03,We Are Scientists,1
+2005-04,Anna Schaad,15
+2005-04,Atb,12
+2005-04,Barenaked Ladies,67
+2005-04,Charles Mingus,10
+2005-04,Coldplay,0
+2005-04,Hawksley Workman,13
+2005-04,Kinnie Starr,14
+2005-04,Matthew Good,25
+2005-04,Matthew Good Band,26
+2005-04,Muse,27
+2005-04,Norah Jones,17
+2005-04,Paul Van Dyk,23
+2005-04,Red Hot Chili Peppers,0
+2005-04,Saint Etienne,25
+2005-04,Santana,15
+2005-04,Stanley Clarke,14
+2005-04,Sting,44
+2005-04,The Killers,0
+2005-04,Vanessa Daou,9
+2005-04,We Are Scientists,1
+2005-05,Anna Schaad,0
+2005-05,Atb,0
+2005-05,Barenaked Ladies,26
+2005-05,Charles Mingus,0
+2005-05,Coldplay,0
+2005-05,Hawksley Workman,4
+2005-05,Kinnie Starr,11
+2005-05,Matthew Good,18
+2005-05,Matthew Good Band,0
+2005-05,Muse,26
+2005-05,Norah Jones,13
+2005-05,Paul Van Dyk,6
+2005-05,Red Hot Chili Peppers,15
+2005-05,Saint Etienne,12
+2005-05,Santana,11
+2005-05,Stanley Clarke,2
+2005-05,Sting,31
+2005-05,The Killers,0
+2005-05,Vanessa Daou,0
+2005-05,We Are Scientists,0
+2005-06,Anna Schaad,11
+2005-06,Atb,26
+2005-06,Barenaked Ladies,47
+2005-06,Charles Mingus,0
+2005-06,Coldplay,50
+2005-06,Hawksley Workman,24
+2005-06,Kinnie Starr,0
+2005-06,Matthew Good,74
+2005-06,Matthew Good Band,15
+2005-06,Muse,65
+2005-06,Norah Jones,17
+2005-06,Paul Van Dyk,37
+2005-06,Red Hot Chili Peppers,0
+2005-06,Saint Etienne,43
+2005-06,Santana,0
+2005-06,Stanley Clarke,5
+2005-06,Sting,58
+2005-06,The Killers,47
+2005-06,Vanessa Daou,24
+2005-06,We Are Scientists,0
+2005-07,Anna Schaad,45
+2005-07,Atb,63
+2005-07,Barenaked Ladies,55
+2005-07,Charles Mingus,0
+2005-07,Coldplay,80
+2005-07,Hawksley Workman,47
+2005-07,Kinnie Starr,12
+2005-07,Matthew Good,44
+2005-07,Matthew Good Band,0
+2005-07,Muse,26
+2005-07,Norah Jones,0
+2005-07,Paul Van Dyk,40
+2005-07,Red Hot Chili Peppers,0
+2005-07,Saint Etienne,71
+2005-07,Santana,27
+2005-07,Stanley Clarke,0
+2005-07,Sting,37
+2005-07,The Killers,66
+2005-07,Vanessa Daou,48
+2005-07,We Are Scientists,0
+2005-08,Anna Schaad,18
+2005-08,Atb,6
+2005-08,Barenaked Ladies,28
+2005-08,Charles Mingus,16
+2005-08,Coldplay,22
+2005-08,Hawksley Workman,3
+2005-08,Kinnie Starr,5
+2005-08,Matthew Good,5
+2005-08,Matthew Good Band,11
+2005-08,Muse,27
+2005-08,Norah Jones,25
+2005-08,Paul Van Dyk,24
+2005-08,Red Hot Chili Peppers,7
+2005-08,Saint Etienne,40
+2005-08,Santana,18
+2005-08,Stanley Clarke,5
+2005-08,Sting,24
+2005-08,The Killers,16
+2005-08,Vanessa Daou,4
+2005-08,We Are Scientists,0
+2005-09,Anna Schaad,27
+2005-09,Atb,16
+2005-09,Barenaked Ladies,29
+2005-09,Charles Mingus,3
+2005-09,Coldplay,15
+2005-09,Hawksley Workman,5
+2005-09,Kinnie Starr,8
+2005-09,Matthew Good,8
+2005-09,Matthew Good Band,9
+2005-09,Muse,8
+2005-09,Norah Jones,10
+2005-09,Paul Van Dyk,11
+2005-09,Red Hot Chili Peppers,6
+2005-09,Saint Etienne,11
+2005-09,Santana,15
+2005-09,Stanley Clarke,11
+2005-09,Sting,24
+2005-09,The Killers,5
+2005-09,Vanessa Daou,16
+2005-09,We Are Scientists,1
+2005-10,Anna Schaad,13
+2005-10,Atb,6
+2005-10,Barenaked Ladies,17
+2005-10,Charles Mingus,13
+2005-10,Coldplay,14
+2005-10,Hawksley Workman,8
+2005-10,Kinnie Starr,2
+2005-10,Matthew Good,2
+2005-10,Matthew Good Band,7
+2005-10,Muse,5
+2005-10,Norah Jones,3
+2005-10,Paul Van Dyk,10
+2005-10,Red Hot Chili Peppers,12
+2005-10,Saint Etienne,7
+2005-10,Santana,10
+2005-10,Stanley Clarke,17
+2005-10,Sting,25
+2005-10,The Killers,7
+2005-10,Vanessa Daou,15
+2005-10,We Are Scientists,0
+2005-11,Anna Schaad,16
+2005-11,Atb,17
+2005-11,Barenaked Ladies,32
+2005-11,Charles Mingus,3
+2005-11,Coldplay,18
+2005-11,Hawksley Workman,20
+2005-11,Kinnie Starr,15
+2005-11,Matthew Good,20
+2005-11,Matthew Good Band,7
+2005-11,Muse,23
+2005-11,Norah Jones,12
+2005-11,Paul Van Dyk,39
+2005-11,Red Hot Chili Peppers,8
+2005-11,Saint Etienne,39
+2005-11,Santana,8
+2005-11,Stanley Clarke,10
+2005-11,Sting,26
+2005-11,The Killers,20
+2005-11,Vanessa Daou,46
+2005-11,We Are Scientists,2
+2005-12,Anna Schaad,10
+2005-12,Atb,7
+2005-12,Barenaked Ladies,16
+2005-12,Charles Mingus,8
+2005-12,Coldplay,13
+2005-12,Hawksley Workman,5
+2005-12,Kinnie Starr,9
+2005-12,Matthew Good,8
+2005-12,Matthew Good Band,2
+2005-12,Muse,15
+2005-12,Norah Jones,12
+2005-12,Paul Van Dyk,14
+2005-12,Red Hot Chili Peppers,14
+2005-12,Saint Etienne,16
+2005-12,Santana,6
+2005-12,Stanley Clarke,5
+2005-12,Sting,22
+2005-12,The Killers,3
+2005-12,Vanessa Daou,23
+2005-12,We Are Scientists,1
+2006-01,Anna Schaad,23
+2006-01,Atb,50
+2006-01,Barenaked Ladies,24
+2006-01,Charles Mingus,12
+2006-01,Coldplay,22
+2006-01,Hawksley Workman,6
+2006-01,Kinnie Starr,8
+2006-01,Matthew Good,3
+2006-01,Matthew Good Band,5
+2006-01,Muse,6
+2006-01,Norah Jones,7
+2006-01,Paul Van Dyk,8
+2006-01,Red Hot Chili Peppers,7
+2006-01,Saint Etienne,46
+2006-01,Santana,20
+2006-01,Stanley Clarke,14
+2006-01,Sting,21
+2006-01,The Killers,3
+2006-01,Vanessa Daou,14
+2006-01,We Are Scientists,0
+2006-02,Anna Schaad,92
+2006-02,Atb,33
+2006-02,Barenaked Ladies,28
+2006-02,Charles Mingus,4
+2006-02,Coldplay,78
+2006-02,Hawksley Workman,5
+2006-02,Kinnie Starr,2
+2006-02,Matthew Good,7
+2006-02,Matthew Good Band,1
+2006-02,Muse,29
+2006-02,Norah Jones,46
+2006-02,Paul Van Dyk,25
+2006-02,Red Hot Chili Peppers,5
+2006-02,Saint Etienne,49
+2006-02,Santana,7
+2006-02,Stanley Clarke,4
+2006-02,Sting,19
+2006-02,The Killers,33
+2006-02,Vanessa Daou,16
+2006-02,We Are Scientists,1
+2006-03,Anna Schaad,14
+2006-03,Atb,8
+2006-03,Barenaked Ladies,24
+2006-03,Charles Mingus,5
+2006-03,Coldplay,5
+2006-03,Hawksley Workman,2
+2006-03,Kinnie Starr,0
+2006-03,Matthew Good,0
+2006-03,Matthew Good Band,0
+2006-03,Muse,1
+2006-03,Norah Jones,8
+2006-03,Paul Van Dyk,1
+2006-03,Red Hot Chili Peppers,0
+2006-03,Saint Etienne,0
+2006-03,Santana,1
+2006-03,Stanley Clarke,10
+2006-03,Sting,2
+2006-03,The Killers,5
+2006-03,Vanessa Daou,2
+2006-03,We Are Scientists,1
+2006-04,Anna Schaad,0
+2006-04,Atb,3
+2006-04,Barenaked Ladies,5
+2006-04,Charles Mingus,0
+2006-04,Coldplay,0
+2006-04,Hawksley Workman,1
+2006-04,Kinnie Starr,0
+2006-04,Matthew Good,0
+2006-04,Matthew Good Band,3
+2006-04,Muse,0
+2006-04,Norah Jones,0
+2006-04,Paul Van Dyk,0
+2006-04,Red Hot Chili Peppers,0
+2006-04,Saint Etienne,0
+2006-04,Santana,0
+2006-04,Stanley Clarke,0
+2006-04,Sting,3
+2006-04,The Killers,0
+2006-04,Vanessa Daou,0
+2006-04,We Are Scientists,0
+2006-05,Anna Schaad,0
+2006-05,Atb,0
+2006-05,Barenaked Ladies,5
+2006-05,Charles Mingus,0
+2006-05,Coldplay,0
+2006-05,Hawksley Workman,0
+2006-05,Kinnie Starr,0
+2006-05,Matthew Good,0
+2006-05,Matthew Good Band,0
+2006-05,Muse,0
+2006-05,Norah Jones,0
+2006-05,Paul Van Dyk,0
+2006-05,Red Hot Chili Peppers,0
+2006-05,Saint Etienne,0
+2006-05,Santana,0
+2006-05,Stanley Clarke,0
+2006-05,Sting,0
+2006-05,The Killers,0
+2006-05,Vanessa Daou,0
+2006-05,We Are Scientists,0
+2006-06,Anna Schaad,0
+2006-06,Atb,0
+2006-06,Barenaked Ladies,4
+2006-06,Charles Mingus,0
+2006-06,Coldplay,0
+2006-06,Hawksley Workman,0
+2006-06,Kinnie Starr,0
+2006-06,Matthew Good,0
+2006-06,Matthew Good Band,0
+2006-06,Muse,0
+2006-06,Norah Jones,0
+2006-06,Paul Van Dyk,0
+2006-06,Red Hot Chili Peppers,0
+2006-06,Saint Etienne,0
+2006-06,Santana,0
+2006-06,Stanley Clarke,0
+2006-06,Sting,0
+2006-06,The Killers,0
+2006-06,Vanessa Daou,0
+2006-06,We Are Scientists,0
+2006-07,Anna Schaad,0
+2006-07,Atb,0
+2006-07,Barenaked Ladies,1
+2006-07,Charles Mingus,0
+2006-07,Coldplay,0
+2006-07,Hawksley Workman,0
+2006-07,Kinnie Starr,0
+2006-07,Matthew Good,0
+2006-07,Matthew Good Band,0
+2006-07,Muse,0
+2006-07,Norah Jones,0
+2006-07,Paul Van Dyk,0
+2006-07,Red Hot Chili Peppers,0
+2006-07,Saint Etienne,0
+2006-07,Santana,0
+2006-07,Stanley Clarke,0
+2006-07,Sting,0
+2006-07,The Killers,0
+2006-07,Vanessa Daou,0
+2006-07,We Are Scientists,0
+2006-08,Anna Schaad,11
+2006-08,Atb,4
+2006-08,Barenaked Ladies,18
+2006-08,Charles Mingus,6
+2006-08,Coldplay,7
+2006-08,Hawksley Workman,2
+2006-08,Kinnie Starr,5
+2006-08,Matthew Good,3
+2006-08,Matthew Good Band,7
+2006-08,Muse,2
+2006-08,Norah Jones,4
+2006-08,Paul Van Dyk,6
+2006-08,Red Hot Chili Peppers,3
+2006-08,Saint Etienne,4
+2006-08,Santana,12
+2006-08,Stanley Clarke,8
+2006-08,Sting,21
+2006-08,The Killers,4
+2006-08,Vanessa Daou,13
+2006-08,We Are Scientists,1
+2006-09,Anna Schaad,26
+2006-09,Atb,8
+2006-09,Barenaked Ladies,73
+2006-09,Charles Mingus,3
+2006-09,Coldplay,19
+2006-09,Hawksley Workman,6
+2006-09,Kinnie Starr,6
+2006-09,Matthew Good,9
+2006-09,Matthew Good Band,9
+2006-09,Muse,11
+2006-09,Norah Jones,11
+2006-09,Paul Van Dyk,14
+2006-09,Red Hot Chili Peppers,12
+2006-09,Saint Etienne,11
+2006-09,Santana,10
+2006-09,Stanley Clarke,20
+2006-09,Sting,87
+2006-09,The Killers,22
+2006-09,Vanessa Daou,28
+2006-09,We Are Scientists,0
+2006-10,Anna Schaad,34
+2006-10,Atb,10
+2006-10,Barenaked Ladies,36
+2006-10,Charles Mingus,7
+2006-10,Coldplay,19
+2006-10,Hawksley Workman,9
+2006-10,Kinnie Starr,8
+2006-10,Matthew Good,3
+2006-10,Matthew Good Band,10
+2006-10,Muse,8
+2006-10,Norah Jones,5
+2006-10,Paul Van Dyk,24
+2006-10,Red Hot Chili Peppers,6
+2006-10,Saint Etienne,11
+2006-10,Santana,12
+2006-10,Stanley Clarke,22
+2006-10,Sting,44
+2006-10,The Killers,18
+2006-10,Vanessa Daou,39
+2006-10,We Are Scientists,2
+2006-11,Anna Schaad,8
+2006-11,Atb,2
+2006-11,Barenaked Ladies,2
+2006-11,Charles Mingus,5
+2006-11,Coldplay,0
+2006-11,Hawksley Workman,0
+2006-11,Kinnie Starr,0
+2006-11,Matthew Good,0
+2006-11,Matthew Good Band,2
+2006-11,Muse,0
+2006-11,Norah Jones,0
+2006-11,Paul Van Dyk,2
+2006-11,Red Hot Chili Peppers,0
+2006-11,Saint Etienne,0
+2006-11,Santana,0
+2006-11,Stanley Clarke,2
+2006-11,Sting,7
+2006-11,The Killers,5
+2006-11,Vanessa Daou,0
+2006-11,We Are Scientists,0
+2006-12,Anna Schaad,0
+2006-12,Atb,0
+2006-12,Barenaked Ladies,0
+2006-12,Charles Mingus,0
+2006-12,Coldplay,0
+2006-12,Hawksley Workman,0
+2006-12,Kinnie Starr,0
+2006-12,Matthew Good,0
+2006-12,Matthew Good Band,0
+2006-12,Muse,0
+2006-12,Norah Jones,0
+2006-12,Paul Van Dyk,0
+2006-12,Red Hot Chili Peppers,0
+2006-12,Saint Etienne,0
+2006-12,Santana,0
+2006-12,Stanley Clarke,0
+2006-12,Sting,0
+2006-12,The Killers,0
+2006-12,Vanessa Daou,0
+2006-12,We Are Scientists,0
+2007-01,Anna Schaad,2
+2007-01,Atb,0
+2007-01,Barenaked Ladies,13
+2007-01,Charles Mingus,0
+2007-01,Coldplay,0
+2007-01,Hawksley Workman,0
+2007-01,Kinnie Starr,1
+2007-01,Matthew Good,9
+2007-01,Matthew Good Band,5
+2007-01,Muse,8
+2007-01,Norah Jones,9
+2007-01,Paul Van Dyk,1
+2007-01,Red Hot Chili Peppers,10
+2007-01,Saint Etienne,3
+2007-01,Santana,1
+2007-01,Stanley Clarke,6
+2007-01,Sting,4
+2007-01,The Killers,1
+2007-01,Vanessa Daou,1
+2007-01,We Are Scientists,3
+2007-02,Anna Schaad,13
+2007-02,Atb,0
+2007-02,Barenaked Ladies,0
+2007-02,Charles Mingus,0
+2007-02,Coldplay,0
+2007-02,Hawksley Workman,0
+2007-02,Kinnie Starr,0
+2007-02,Matthew Good,0
+2007-02,Matthew Good Band,0
+2007-02,Muse,0
+2007-02,Norah Jones,0
+2007-02,Paul Van Dyk,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,Saint Etienne,0
+2007-02,Santana,0
+2007-02,Stanley Clarke,0
+2007-02,Sting,0
+2007-02,The Killers,0
+2007-02,Vanessa Daou,0
+2007-02,We Are Scientists,3
+2007-03,Anna Schaad,11
+2007-03,Atb,0
+2007-03,Barenaked Ladies,0
+2007-03,Charles Mingus,0
+2007-03,Coldplay,0
+2007-03,Hawksley Workman,0
+2007-03,Kinnie Starr,0
+2007-03,Matthew Good,0
+2007-03,Matthew Good Band,0
+2007-03,Muse,103
+2007-03,Norah Jones,0
+2007-03,Paul Van Dyk,6
+2007-03,Red Hot Chili Peppers,0
+2007-03,Saint Etienne,92
+2007-03,Santana,0
+2007-03,Stanley Clarke,0
+2007-03,Sting,17
+2007-03,The Killers,0
+2007-03,Vanessa Daou,20
+2007-03,We Are Scientists,1
+2007-04,Anna Schaad,4
+2007-04,Atb,0
+2007-04,Barenaked Ladies,2
+2007-04,Charles Mingus,0
+2007-04,Coldplay,0
+2007-04,Hawksley Workman,0
+2007-04,Kinnie Starr,0
+2007-04,Matthew Good,0
+2007-04,Matthew Good Band,0
+2007-04,Muse,65
+2007-04,Norah Jones,0
+2007-04,Paul Van Dyk,0
+2007-04,Red Hot Chili Peppers,0
+2007-04,Saint Etienne,46
+2007-04,Santana,9
+2007-04,Stanley Clarke,0
+2007-04,Sting,0
+2007-04,The Killers,0
+2007-04,Vanessa Daou,0
+2007-04,We Are Scientists,0
+2007-05,Anna Schaad,6
+2007-05,Atb,96
+2007-05,Barenaked Ladies,67
+2007-05,Charles Mingus,0
+2007-05,Coldplay,22
+2007-05,Hawksley Workman,0
+2007-05,Kinnie Starr,0
+2007-05,Matthew Good,0
+2007-05,Matthew Good Band,8
+2007-05,Muse,23
+2007-05,Norah Jones,0
+2007-05,Paul Van Dyk,26
+2007-05,Red Hot Chili Peppers,0
+2007-05,Saint Etienne,31
+2007-05,Santana,1
+2007-05,Stanley Clarke,1
+2007-05,Sting,0
+2007-05,The Killers,0
+2007-05,Vanessa Daou,78
+2007-05,We Are Scientists,1
+2007-06,Anna Schaad,27
+2007-06,Atb,74
+2007-06,Barenaked Ladies,14
+2007-06,Charles Mingus,3
+2007-06,Coldplay,9
+2007-06,Hawksley Workman,5
+2007-06,Kinnie Starr,7
+2007-06,Matthew Good,2
+2007-06,Matthew Good Band,3
+2007-06,Muse,5
+2007-06,Norah Jones,57
+2007-06,Paul Van Dyk,15
+2007-06,Red Hot Chili Peppers,5
+2007-06,Saint Etienne,30
+2007-06,Santana,8
+2007-06,Stanley Clarke,7
+2007-06,Sting,14
+2007-06,The Killers,2
+2007-06,Vanessa Daou,66
+2007-06,We Are Scientists,29
+2007-07,Anna Schaad,23
+2007-07,Atb,53
+2007-07,Barenaked Ladies,289
+2007-07,Charles Mingus,20
+2007-07,Coldplay,6
+2007-07,Hawksley Workman,9
+2007-07,Kinnie Starr,11
+2007-07,Matthew Good,15
+2007-07,Matthew Good Band,14
+2007-07,Muse,57
+2007-07,Norah Jones,33
+2007-07,Paul Van Dyk,24
+2007-07,Red Hot Chili Peppers,8
+2007-07,Saint Etienne,10
+2007-07,Santana,24
+2007-07,Stanley Clarke,12
+2007-07,Sting,5
+2007-07,The Killers,10
+2007-07,Vanessa Daou,11
+2007-07,We Are Scientists,29
+2007-08,Anna Schaad,8
+2007-08,Atb,34
+2007-08,Barenaked Ladies,31
+2007-08,Charles Mingus,5
+2007-08,Coldplay,1
+2007-08,Hawksley Workman,9
+2007-08,Kinnie Starr,9
+2007-08,Matthew Good,53
+2007-08,Matthew Good Band,13
+2007-08,Muse,19
+2007-08,Norah Jones,22
+2007-08,Paul Van Dyk,24
+2007-08,Red Hot Chili Peppers,6
+2007-08,Saint Etienne,20
+2007-08,Santana,26
+2007-08,Stanley Clarke,13
+2007-08,Sting,58
+2007-08,The Killers,4
+2007-08,Vanessa Daou,27
+2007-08,We Are Scientists,1
+2007-09,Anna Schaad,8
+2007-09,Atb,31
+2007-09,Barenaked Ladies,64
+2007-09,Charles Mingus,11
+2007-09,Coldplay,20
+2007-09,Hawksley Workman,1
+2007-09,Kinnie Starr,9
+2007-09,Matthew Good,12
+2007-09,Matthew Good Band,0
+2007-09,Muse,30
+2007-09,Norah Jones,38
+2007-09,Paul Van Dyk,21
+2007-09,Red Hot Chili Peppers,9
+2007-09,Saint Etienne,49
+2007-09,Santana,18
+2007-09,Stanley Clarke,13
+2007-09,Sting,10
+2007-09,The Killers,6
+2007-09,Vanessa Daou,48
+2007-09,We Are Scientists,3
+2007-10,Anna Schaad,24
+2007-10,Atb,149
+2007-10,Barenaked Ladies,94
+2007-10,Charles Mingus,13
+2007-10,Coldplay,64
+2007-10,Hawksley Workman,1
+2007-10,Kinnie Starr,7
+2007-10,Matthew Good,33
+2007-10,Matthew Good Band,2
+2007-10,Muse,51
+2007-10,Norah Jones,18
+2007-10,Paul Van Dyk,53
+2007-10,Red Hot Chili Peppers,22
+2007-10,Saint Etienne,91
+2007-10,Santana,76
+2007-10,Stanley Clarke,18
+2007-10,Sting,10
+2007-10,The Killers,21
+2007-10,Vanessa Daou,28
+2007-10,We Are Scientists,12
+2007-11,Anna Schaad,74
+2007-11,Atb,112
+2007-11,Barenaked Ladies,64
+2007-11,Charles Mingus,17
+2007-11,Coldplay,50
+2007-11,Hawksley Workman,1
+2007-11,Kinnie Starr,28
+2007-11,Matthew Good,30
+2007-11,Matthew Good Band,9
+2007-11,Muse,48
+2007-11,Norah Jones,35
+2007-11,Paul Van Dyk,61
+2007-11,Red Hot Chili Peppers,6
+2007-11,Saint Etienne,680
+2007-11,Santana,145
+2007-11,Stanley Clarke,29
+2007-11,Sting,18
+2007-11,The Killers,69
+2007-11,Vanessa Daou,293
+2007-11,We Are Scientists,21
+2007-12,Anna Schaad,32
+2007-12,Atb,68
+2007-12,Barenaked Ladies,43
+2007-12,Charles Mingus,12
+2007-12,Coldplay,72
+2007-12,Hawksley Workman,0
+2007-12,Kinnie Starr,14
+2007-12,Matthew Good,18
+2007-12,Matthew Good Band,3
+2007-12,Muse,36
+2007-12,Norah Jones,11
+2007-12,Paul Van Dyk,48
+2007-12,Red Hot Chili Peppers,10
+2007-12,Saint Etienne,54
+2007-12,Santana,32
+2007-12,Stanley Clarke,13
+2007-12,Sting,8
+2007-12,The Killers,73
+2007-12,Vanessa Daou,111
+2007-12,We Are Scientists,14
+2008-01,Anna Schaad,4
+2008-01,Atb,13
+2008-01,Barenaked Ladies,52
+2008-01,Charles Mingus,11
+2008-01,Coldplay,1
+2008-01,Hawksley Workman,0
+2008-01,Kinnie Starr,2
+2008-01,Matthew Good,4
+2008-01,Matthew Good Band,0
+2008-01,Muse,5
+2008-01,Norah Jones,17
+2008-01,Paul Van Dyk,0
+2008-01,Red Hot Chili Peppers,8
+2008-01,Saint Etienne,3
+2008-01,Santana,13
+2008-01,Stanley Clarke,10
+2008-01,Sting,16
+2008-01,The Killers,9
+2008-01,Vanessa Daou,5
+2008-01,We Are Scientists,4
+2008-02,Anna Schaad,6
+2008-02,Atb,19
+2008-02,Barenaked Ladies,19
+2008-02,Charles Mingus,6
+2008-02,Coldplay,5
+2008-02,Hawksley Workman,1
+2008-02,Kinnie Starr,2
+2008-02,Matthew Good,11
+2008-02,Matthew Good Band,1
+2008-02,Muse,15
+2008-02,Norah Jones,7
+2008-02,Paul Van Dyk,11
+2008-02,Red Hot Chili Peppers,9
+2008-02,Saint Etienne,30
+2008-02,Santana,28
+2008-02,Stanley Clarke,9
+2008-02,Sting,2
+2008-02,The Killers,0
+2008-02,Vanessa Daou,23
+2008-02,We Are Scientists,5
+2008-03,Anna Schaad,10
+2008-03,Atb,8
+2008-03,Barenaked Ladies,32
+2008-03,Charles Mingus,7
+2008-03,Coldplay,3
+2008-03,Hawksley Workman,1
+2008-03,Kinnie Starr,1
+2008-03,Matthew Good,2
+2008-03,Matthew Good Band,2
+2008-03,Muse,5
+2008-03,Norah Jones,17
+2008-03,Paul Van Dyk,6
+2008-03,Red Hot Chili Peppers,16
+2008-03,Saint Etienne,8
+2008-03,Santana,20
+2008-03,Stanley Clarke,3
+2008-03,Sting,7
+2008-03,The Killers,2
+2008-03,Vanessa Daou,5
+2008-03,We Are Scientists,5
+2008-04,Anna Schaad,1
+2008-04,Atb,3
+2008-04,Barenaked Ladies,18
+2008-04,Charles Mingus,0
+2008-04,Coldplay,0
+2008-04,Hawksley Workman,0
+2008-04,Kinnie Starr,0
+2008-04,Matthew Good,0
+2008-04,Matthew Good Band,0
+2008-04,Muse,0
+2008-04,Norah Jones,1
+2008-04,Paul Van Dyk,0
+2008-04,Red Hot Chili Peppers,20
+2008-04,Saint Etienne,0
+2008-04,Santana,18
+2008-04,Stanley Clarke,0
+2008-04,Sting,0
+2008-04,The Killers,1
+2008-04,Vanessa Daou,1
+2008-04,We Are Scientists,12
+2008-05,Anna Schaad,8
+2008-05,Atb,51
+2008-05,Barenaked Ladies,50
+2008-05,Charles Mingus,11
+2008-05,Coldplay,9
+2008-05,Hawksley Workman,3
+2008-05,Kinnie Starr,3
+2008-05,Matthew Good,5
+2008-05,Matthew Good Band,8
+2008-05,Muse,34
+2008-05,Norah Jones,6
+2008-05,Paul Van Dyk,4
+2008-05,Red Hot Chili Peppers,19
+2008-05,Saint Etienne,12
+2008-05,Santana,21
+2008-05,Stanley Clarke,6
+2008-05,Sting,2
+2008-05,The Killers,22
+2008-05,Vanessa Daou,19
+2008-05,We Are Scientists,6
+2008-06,Anna Schaad,18
+2008-06,Atb,13
+2008-06,Barenaked Ladies,46
+2008-06,Charles Mingus,4
+2008-06,Coldplay,27
+2008-06,Hawksley Workman,1
+2008-06,Kinnie Starr,2
+2008-06,Matthew Good,3
+2008-06,Matthew Good Band,4
+2008-06,Muse,18
+2008-06,Norah Jones,10
+2008-06,Paul Van Dyk,13
+2008-06,Red Hot Chili Peppers,9
+2008-06,Saint Etienne,14
+2008-06,Santana,45
+2008-06,Stanley Clarke,9
+2008-06,Sting,3
+2008-06,The Killers,6
+2008-06,Vanessa Daou,1
+2008-06,We Are Scientists,2
+2008-07,Anna Schaad,10
+2008-07,Atb,13
+2008-07,Barenaked Ladies,14
+2008-07,Charles Mingus,6
+2008-07,Coldplay,11
+2008-07,Hawksley Workman,0
+2008-07,Kinnie Starr,8
+2008-07,Matthew Good,10
+2008-07,Matthew Good Band,2
+2008-07,Muse,5
+2008-07,Norah Jones,22
+2008-07,Paul Van Dyk,9
+2008-07,Red Hot Chili Peppers,9
+2008-07,Saint Etienne,9
+2008-07,Santana,18
+2008-07,Stanley Clarke,6
+2008-07,Sting,9
+2008-07,The Killers,7
+2008-07,Vanessa Daou,0
+2008-07,We Are Scientists,3
+2008-08,Anna Schaad,23
+2008-08,Atb,22
+2008-08,Barenaked Ladies,10
+2008-08,Charles Mingus,1
+2008-08,Coldplay,45
+2008-08,Hawksley Workman,0
+2008-08,Kinnie Starr,5
+2008-08,Matthew Good,18
+2008-08,Matthew Good Band,2
+2008-08,Muse,10
+2008-08,Norah Jones,5
+2008-08,Paul Van Dyk,12
+2008-08,Red Hot Chili Peppers,20
+2008-08,Saint Etienne,6
+2008-08,Santana,16
+2008-08,Stanley Clarke,23
+2008-08,Sting,10
+2008-08,The Killers,13
+2008-08,Vanessa Daou,0
+2008-08,We Are Scientists,11
+2008-09,Anna Schaad,10
+2008-09,Atb,9
+2008-09,Barenaked Ladies,43
+2008-09,Charles Mingus,7
+2008-09,Coldplay,13
+2008-09,Hawksley Workman,1
+2008-09,Kinnie Starr,4
+2008-09,Matthew Good,7
+2008-09,Matthew Good Band,2
+2008-09,Muse,23
+2008-09,Norah Jones,22
+2008-09,Paul Van Dyk,12
+2008-09,Red Hot Chili Peppers,18
+2008-09,Saint Etienne,6
+2008-09,Santana,24
+2008-09,Stanley Clarke,8
+2008-09,Sting,4
+2008-09,The Killers,26
+2008-09,Vanessa Daou,0
+2008-09,We Are Scientists,12
+2008-10,Anna Schaad,6
+2008-10,Atb,72
+2008-10,Barenaked Ladies,13
+2008-10,Charles Mingus,4
+2008-10,Coldplay,55
+2008-10,Hawksley Workman,1
+2008-10,Kinnie Starr,6
+2008-10,Matthew Good,16
+2008-10,Matthew Good Band,2
+2008-10,Muse,73
+2008-10,Norah Jones,27
+2008-10,Paul Van Dyk,13
+2008-10,Red Hot Chili Peppers,28
+2008-10,Saint Etienne,8
+2008-10,Santana,55
+2008-10,Stanley Clarke,25
+2008-10,Sting,16
+2008-10,The Killers,72
+2008-10,Vanessa Daou,0
+2008-10,We Are Scientists,48
+2008-11,Anna Schaad,80
+2008-11,Atb,95
+2008-11,Barenaked Ladies,5
+2008-11,Charles Mingus,12
+2008-11,Coldplay,33
+2008-11,Hawksley Workman,3
+2008-11,Kinnie Starr,3
+2008-11,Matthew Good,14
+2008-11,Matthew Good Band,3
+2008-11,Muse,28
+2008-11,Norah Jones,8
+2008-11,Paul Van Dyk,1
+2008-11,Red Hot Chili Peppers,14
+2008-11,Saint Etienne,0
+2008-11,Santana,4
+2008-11,Stanley Clarke,17
+2008-11,Sting,5
+2008-11,The Killers,79
+2008-11,Vanessa Daou,0
+2008-11,We Are Scientists,22
+2008-12,Anna Schaad,34
+2008-12,Atb,7
+2008-12,Barenaked Ladies,15
+2008-12,Charles Mingus,20
+2008-12,Coldplay,34
+2008-12,Hawksley Workman,3
+2008-12,Kinnie Starr,2
+2008-12,Matthew Good,25
+2008-12,Matthew Good Band,3
+2008-12,Muse,28
+2008-12,Norah Jones,23
+2008-12,Paul Van Dyk,12
+2008-12,Red Hot Chili Peppers,16
+2008-12,Saint Etienne,9
+2008-12,Santana,12
+2008-12,Stanley Clarke,23
+2008-12,Sting,5
+2008-12,The Killers,52
+2008-12,Vanessa Daou,9
+2008-12,We Are Scientists,16
+2009-01,Anna Schaad,9
+2009-01,Atb,5
+2009-01,Barenaked Ladies,40
+2009-01,Charles Mingus,4
+2009-01,Coldplay,97
+2009-01,Hawksley Workman,4
+2009-01,Kinnie Starr,2
+2009-01,Matthew Good,13
+2009-01,Matthew Good Band,4
+2009-01,Muse,41
+2009-01,Norah Jones,2
+2009-01,Paul Van Dyk,2
+2009-01,Red Hot Chili Peppers,15
+2009-01,Saint Etienne,10
+2009-01,Santana,18
+2009-01,Stanley Clarke,8
+2009-01,Sting,19
+2009-01,The Killers,56
+2009-01,Vanessa Daou,5
+2009-01,We Are Scientists,9
+2009-02,Anna Schaad,71
+2009-02,Atb,8
+2009-02,Barenaked Ladies,22
+2009-02,Charles Mingus,14
+2009-02,Coldplay,45
+2009-02,Hawksley Workman,2
+2009-02,Kinnie Starr,2
+2009-02,Matthew Good,8
+2009-02,Matthew Good Band,3
+2009-02,Muse,36
+2009-02,Norah Jones,15
+2009-02,Paul Van Dyk,1
+2009-02,Red Hot Chili Peppers,7
+2009-02,Saint Etienne,45
+2009-02,Santana,11
+2009-02,Stanley Clarke,26
+2009-02,Sting,11
+2009-02,The Killers,33
+2009-02,Vanessa Daou,14
+2009-02,We Are Scientists,7
+2009-03,Anna Schaad,1
+2009-03,Atb,7
+2009-03,Barenaked Ladies,12
+2009-03,Charles Mingus,2
+2009-03,Coldplay,62
+2009-03,Hawksley Workman,0
+2009-03,Kinnie Starr,2
+2009-03,Matthew Good,8
+2009-03,Matthew Good Band,0
+2009-03,Muse,29
+2009-03,Norah Jones,3
+2009-03,Paul Van Dyk,11
+2009-03,Red Hot Chili Peppers,7
+2009-03,Saint Etienne,3
+2009-03,Santana,2
+2009-03,Stanley Clarke,4
+2009-03,Sting,0
+2009-03,The Killers,39
+2009-03,Vanessa Daou,8
+2009-03,We Are Scientists,13
+2009-04,Anna Schaad,0
+2009-04,Atb,5
+2009-04,Barenaked Ladies,24
+2009-04,Charles Mingus,0
+2009-04,Coldplay,54
+2009-04,Hawksley Workman,3
+2009-04,Kinnie Starr,0
+2009-04,Matthew Good,4
+2009-04,Matthew Good Band,4
+2009-04,Muse,9
+2009-04,Norah Jones,0
+2009-04,Paul Van Dyk,8
+2009-04,Red Hot Chili Peppers,1
+2009-04,Saint Etienne,2
+2009-04,Santana,0
+2009-04,Stanley Clarke,0
+2009-04,Sting,1
+2009-04,The Killers,16
+2009-04,Vanessa Daou,44
+2009-04,We Are Scientists,3
+2009-05,Anna Schaad,0
+2009-05,Atb,0
+2009-05,Barenaked Ladies,0
+2009-05,Charles Mingus,0
+2009-05,Coldplay,0
+2009-05,Hawksley Workman,2
+2009-05,Kinnie Starr,0
+2009-05,Matthew Good,2
+2009-05,Matthew Good Band,1
+2009-05,Muse,0
+2009-05,Norah Jones,0
+2009-05,Paul Van Dyk,0
+2009-05,Red Hot Chili Peppers,0
+2009-05,Saint Etienne,0
+2009-05,Santana,0
+2009-05,Stanley Clarke,0
+2009-05,Sting,0
+2009-05,The Killers,0
+2009-05,Vanessa Daou,13
+2009-05,We Are Scientists,0

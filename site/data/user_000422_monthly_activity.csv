@@ -1,0 +1,561 @@
+month,artist,plays
+2006-12,!!!,0
+2006-12,Albert Hammond, Jr.,0
+2006-12,Arcade Fire,0
+2006-12,Au Revoir Simone,0
+2006-12,Bloc Party,4
+2006-12,Bright Eyes,62
+2006-12,Broder Daniel,15
+2006-12,Chromeo,0
+2006-12,Cocorosie,0
+2006-12,Death Cab For Cutie,32
+2006-12,Håkan Hellström,0
+2006-12,Jens Lekman,4
+2006-12,Kent,139
+2006-12,Kristian Anttila,22
+2006-12,Laakso,3
+2006-12,The Kills,13
+2006-12,The Knife,0
+2006-12,The Shins,0
+2006-12,The Tough Alliance,0
+2006-12,Tunng,4
+2007-01,!!!,6
+2007-01,Albert Hammond, Jr.,0
+2007-01,Arcade Fire,0
+2007-01,Au Revoir Simone,0
+2007-01,Bloc Party,72
+2007-01,Bright Eyes,155
+2007-01,Broder Daniel,0
+2007-01,Chromeo,3
+2007-01,Cocorosie,0
+2007-01,Death Cab For Cutie,0
+2007-01,Håkan Hellström,19
+2007-01,Jens Lekman,0
+2007-01,Kent,5
+2007-01,Kristian Anttila,5
+2007-01,Laakso,0
+2007-01,The Kills,62
+2007-01,The Knife,0
+2007-01,The Shins,63
+2007-01,The Tough Alliance,92
+2007-01,Tunng,3
+2007-02,!!!,6
+2007-02,Albert Hammond, Jr.,15
+2007-02,Arcade Fire,0
+2007-02,Au Revoir Simone,0
+2007-02,Bloc Party,24
+2007-02,Bright Eyes,55
+2007-02,Broder Daniel,0
+2007-02,Chromeo,0
+2007-02,Cocorosie,0
+2007-02,Death Cab For Cutie,4
+2007-02,Håkan Hellström,16
+2007-02,Jens Lekman,0
+2007-02,Kent,9
+2007-02,Kristian Anttila,2
+2007-02,Laakso,0
+2007-02,The Kills,19
+2007-02,The Knife,0
+2007-02,The Shins,16
+2007-02,The Tough Alliance,27
+2007-02,Tunng,0
+2007-03,!!!,5
+2007-03,Albert Hammond, Jr.,43
+2007-03,Arcade Fire,6
+2007-03,Au Revoir Simone,0
+2007-03,Bloc Party,6
+2007-03,Bright Eyes,4
+2007-03,Broder Daniel,0
+2007-03,Chromeo,0
+2007-03,Cocorosie,0
+2007-03,Death Cab For Cutie,0
+2007-03,Håkan Hellström,5
+2007-03,Jens Lekman,1
+2007-03,Kent,0
+2007-03,Kristian Anttila,1
+2007-03,Laakso,0
+2007-03,The Kills,10
+2007-03,The Knife,4
+2007-03,The Shins,2
+2007-03,The Tough Alliance,8
+2007-03,Tunng,3
+2007-04,!!!,1
+2007-04,Albert Hammond, Jr.,7
+2007-04,Arcade Fire,1
+2007-04,Au Revoir Simone,0
+2007-04,Bloc Party,1
+2007-04,Bright Eyes,5
+2007-04,Broder Daniel,0
+2007-04,Chromeo,0
+2007-04,Cocorosie,17
+2007-04,Death Cab For Cutie,0
+2007-04,Håkan Hellström,6
+2007-04,Jens Lekman,1
+2007-04,Kent,1
+2007-04,Kristian Anttila,0
+2007-04,Laakso,2
+2007-04,The Kills,4
+2007-04,The Knife,2
+2007-04,The Shins,8
+2007-04,The Tough Alliance,3
+2007-04,Tunng,0
+2007-05,!!!,2
+2007-05,Albert Hammond, Jr.,8
+2007-05,Arcade Fire,3
+2007-05,Au Revoir Simone,14
+2007-05,Bloc Party,2
+2007-05,Bright Eyes,7
+2007-05,Broder Daniel,0
+2007-05,Chromeo,0
+2007-05,Cocorosie,9
+2007-05,Death Cab For Cutie,1
+2007-05,Håkan Hellström,4
+2007-05,Jens Lekman,2
+2007-05,Kent,0
+2007-05,Kristian Anttila,0
+2007-05,Laakso,0
+2007-05,The Kills,4
+2007-05,The Knife,6
+2007-05,The Shins,6
+2007-05,The Tough Alliance,3
+2007-05,Tunng,0
+2007-06,!!!,0
+2007-06,Albert Hammond, Jr.,1
+2007-06,Arcade Fire,2
+2007-06,Au Revoir Simone,0
+2007-06,Bloc Party,2
+2007-06,Bright Eyes,1
+2007-06,Broder Daniel,0
+2007-06,Chromeo,2
+2007-06,Cocorosie,3
+2007-06,Death Cab For Cutie,0
+2007-06,Håkan Hellström,3
+2007-06,Jens Lekman,0
+2007-06,Kent,0
+2007-06,Kristian Anttila,0
+2007-06,Laakso,0
+2007-06,The Kills,1
+2007-06,The Knife,4
+2007-06,The Shins,0
+2007-06,The Tough Alliance,0
+2007-06,Tunng,0
+2007-07,!!!,0
+2007-07,Albert Hammond, Jr.,0
+2007-07,Arcade Fire,3
+2007-07,Au Revoir Simone,0
+2007-07,Bloc Party,0
+2007-07,Bright Eyes,0
+2007-07,Broder Daniel,0
+2007-07,Chromeo,0
+2007-07,Cocorosie,0
+2007-07,Death Cab For Cutie,0
+2007-07,Håkan Hellström,0
+2007-07,Jens Lekman,0
+2007-07,Kent,0
+2007-07,Kristian Anttila,0
+2007-07,Laakso,0
+2007-07,The Kills,0
+2007-07,The Knife,0
+2007-07,The Shins,0
+2007-07,The Tough Alliance,0
+2007-07,Tunng,0
+2007-08,!!!,1
+2007-08,Albert Hammond, Jr.,1
+2007-08,Arcade Fire,0
+2007-08,Au Revoir Simone,0
+2007-08,Bloc Party,0
+2007-08,Bright Eyes,0
+2007-08,Broder Daniel,0
+2007-08,Chromeo,0
+2007-08,Cocorosie,0
+2007-08,Death Cab For Cutie,0
+2007-08,Håkan Hellström,0
+2007-08,Jens Lekman,0
+2007-08,Kent,0
+2007-08,Kristian Anttila,0
+2007-08,Laakso,0
+2007-08,The Kills,0
+2007-08,The Knife,0
+2007-08,The Shins,1
+2007-08,The Tough Alliance,1
+2007-08,Tunng,0
+2007-09,!!!,0
+2007-09,Albert Hammond, Jr.,0
+2007-09,Arcade Fire,0
+2007-09,Au Revoir Simone,0
+2007-09,Bloc Party,0
+2007-09,Bright Eyes,0
+2007-09,Broder Daniel,0
+2007-09,Chromeo,0
+2007-09,Cocorosie,0
+2007-09,Death Cab For Cutie,0
+2007-09,Håkan Hellström,0
+2007-09,Jens Lekman,0
+2007-09,Kent,0
+2007-09,Kristian Anttila,0
+2007-09,Laakso,0
+2007-09,The Kills,0
+2007-09,The Knife,0
+2007-09,The Shins,0
+2007-09,The Tough Alliance,0
+2007-09,Tunng,0
+2007-10,!!!,0
+2007-10,Albert Hammond, Jr.,0
+2007-10,Arcade Fire,0
+2007-10,Au Revoir Simone,0
+2007-10,Bloc Party,0
+2007-10,Bright Eyes,0
+2007-10,Broder Daniel,0
+2007-10,Chromeo,0
+2007-10,Cocorosie,0
+2007-10,Death Cab For Cutie,0
+2007-10,Håkan Hellström,0
+2007-10,Jens Lekman,0
+2007-10,Kent,0
+2007-10,Kristian Anttila,0
+2007-10,Laakso,0
+2007-10,The Kills,0
+2007-10,The Knife,0
+2007-10,The Shins,0
+2007-10,The Tough Alliance,0
+2007-10,Tunng,0
+2007-11,!!!,5
+2007-11,Albert Hammond, Jr.,21
+2007-11,Arcade Fire,17
+2007-11,Au Revoir Simone,20
+2007-11,Bloc Party,75
+2007-11,Bright Eyes,34
+2007-11,Broder Daniel,32
+2007-11,Chromeo,7
+2007-11,Cocorosie,13
+2007-11,Death Cab For Cutie,0
+2007-11,Håkan Hellström,0
+2007-11,Jens Lekman,24
+2007-11,Kent,102
+2007-11,Kristian Anttila,0
+2007-11,Laakso,0
+2007-11,The Kills,9
+2007-11,The Knife,0
+2007-11,The Shins,47
+2007-11,The Tough Alliance,0
+2007-11,Tunng,31
+2007-12,!!!,3
+2007-12,Albert Hammond, Jr.,5
+2007-12,Arcade Fire,7
+2007-12,Au Revoir Simone,5
+2007-12,Bloc Party,20
+2007-12,Bright Eyes,13
+2007-12,Broder Daniel,4
+2007-12,Chromeo,3
+2007-12,Cocorosie,6
+2007-12,Death Cab For Cutie,0
+2007-12,Håkan Hellström,0
+2007-12,Jens Lekman,3
+2007-12,Kent,21
+2007-12,Kristian Anttila,0
+2007-12,Laakso,0
+2007-12,The Kills,8
+2007-12,The Knife,0
+2007-12,The Shins,8
+2007-12,The Tough Alliance,0
+2007-12,Tunng,6
+2008-01,!!!,4
+2008-01,Albert Hammond, Jr.,5
+2008-01,Arcade Fire,5
+2008-01,Au Revoir Simone,6
+2008-01,Bloc Party,17
+2008-01,Bright Eyes,6
+2008-01,Broder Daniel,33
+2008-01,Chromeo,3
+2008-01,Cocorosie,8
+2008-01,Death Cab For Cutie,0
+2008-01,Håkan Hellström,0
+2008-01,Jens Lekman,28
+2008-01,Kent,33
+2008-01,Kristian Anttila,11
+2008-01,Laakso,0
+2008-01,The Kills,5
+2008-01,The Knife,12
+2008-01,The Shins,17
+2008-01,The Tough Alliance,0
+2008-01,Tunng,1
+2008-02,!!!,0
+2008-02,Albert Hammond, Jr.,6
+2008-02,Arcade Fire,9
+2008-02,Au Revoir Simone,7
+2008-02,Bloc Party,13
+2008-02,Bright Eyes,8
+2008-02,Broder Daniel,31
+2008-02,Chromeo,4
+2008-02,Cocorosie,3
+2008-02,Death Cab For Cutie,9
+2008-02,Håkan Hellström,13
+2008-02,Jens Lekman,14
+2008-02,Kent,35
+2008-02,Kristian Anttila,46
+2008-02,Laakso,12
+2008-02,The Kills,4
+2008-02,The Knife,4
+2008-02,The Shins,11
+2008-02,The Tough Alliance,0
+2008-02,Tunng,2
+2008-03,!!!,0
+2008-03,Albert Hammond, Jr.,1
+2008-03,Arcade Fire,3
+2008-03,Au Revoir Simone,2
+2008-03,Bloc Party,2
+2008-03,Bright Eyes,4
+2008-03,Broder Daniel,2
+2008-03,Chromeo,6
+2008-03,Cocorosie,1
+2008-03,Death Cab For Cutie,8
+2008-03,Håkan Hellström,46
+2008-03,Jens Lekman,5
+2008-03,Kent,11
+2008-03,Kristian Anttila,6
+2008-03,Laakso,2
+2008-03,The Kills,0
+2008-03,The Knife,2
+2008-03,The Shins,3
+2008-03,The Tough Alliance,0
+2008-03,Tunng,1
+2008-04,!!!,3
+2008-04,Albert Hammond, Jr.,4
+2008-04,Arcade Fire,4
+2008-04,Au Revoir Simone,2
+2008-04,Bloc Party,5
+2008-04,Bright Eyes,10
+2008-04,Broder Daniel,7
+2008-04,Chromeo,5
+2008-04,Cocorosie,4
+2008-04,Death Cab For Cutie,7
+2008-04,Håkan Hellström,6
+2008-04,Jens Lekman,5
+2008-04,Kent,9
+2008-04,Kristian Anttila,0
+2008-04,Laakso,1
+2008-04,The Kills,0
+2008-04,The Knife,1
+2008-04,The Shins,1
+2008-04,The Tough Alliance,14
+2008-04,Tunng,2
+2008-05,!!!,4
+2008-05,Albert Hammond, Jr.,2
+2008-05,Arcade Fire,4
+2008-05,Au Revoir Simone,2
+2008-05,Bloc Party,10
+2008-05,Bright Eyes,7
+2008-05,Broder Daniel,4
+2008-05,Chromeo,3
+2008-05,Cocorosie,1
+2008-05,Death Cab For Cutie,8
+2008-05,Håkan Hellström,30
+2008-05,Jens Lekman,6
+2008-05,Kent,18
+2008-05,Kristian Anttila,3
+2008-05,Laakso,3
+2008-05,The Kills,2
+2008-05,The Knife,2
+2008-05,The Shins,2
+2008-05,The Tough Alliance,2
+2008-05,Tunng,5
+2008-06,!!!,1
+2008-06,Albert Hammond, Jr.,0
+2008-06,Arcade Fire,2
+2008-06,Au Revoir Simone,1
+2008-06,Bloc Party,2
+2008-06,Bright Eyes,7
+2008-06,Broder Daniel,4
+2008-06,Chromeo,3
+2008-06,Cocorosie,2
+2008-06,Death Cab For Cutie,3
+2008-06,Håkan Hellström,96
+2008-06,Jens Lekman,3
+2008-06,Kent,30
+2008-06,Kristian Anttila,5
+2008-06,Laakso,3
+2008-06,The Kills,0
+2008-06,The Knife,1
+2008-06,The Shins,3
+2008-06,The Tough Alliance,3
+2008-06,Tunng,0
+2008-07,!!!,0
+2008-07,Albert Hammond, Jr.,2
+2008-07,Arcade Fire,2
+2008-07,Au Revoir Simone,0
+2008-07,Bloc Party,0
+2008-07,Bright Eyes,1
+2008-07,Broder Daniel,1
+2008-07,Chromeo,0
+2008-07,Cocorosie,0
+2008-07,Death Cab For Cutie,1
+2008-07,Håkan Hellström,1
+2008-07,Jens Lekman,0
+2008-07,Kent,4
+2008-07,Kristian Anttila,1
+2008-07,Laakso,2
+2008-07,The Kills,1
+2008-07,The Knife,2
+2008-07,The Shins,2
+2008-07,The Tough Alliance,0
+2008-07,Tunng,1
+2008-08,!!!,0
+2008-08,Albert Hammond, Jr.,0
+2008-08,Arcade Fire,1
+2008-08,Au Revoir Simone,3
+2008-08,Bloc Party,1
+2008-08,Bright Eyes,7
+2008-08,Broder Daniel,3
+2008-08,Chromeo,2
+2008-08,Cocorosie,2
+2008-08,Death Cab For Cutie,1
+2008-08,Håkan Hellström,4
+2008-08,Jens Lekman,2
+2008-08,Kent,15
+2008-08,Kristian Anttila,3
+2008-08,Laakso,3
+2008-08,The Kills,22
+2008-08,The Knife,3
+2008-08,The Shins,0
+2008-08,The Tough Alliance,3
+2008-08,Tunng,1
+2008-09,!!!,0
+2008-09,Albert Hammond, Jr.,0
+2008-09,Arcade Fire,0
+2008-09,Au Revoir Simone,0
+2008-09,Bloc Party,0
+2008-09,Bright Eyes,0
+2008-09,Broder Daniel,0
+2008-09,Chromeo,0
+2008-09,Cocorosie,0
+2008-09,Death Cab For Cutie,0
+2008-09,Håkan Hellström,0
+2008-09,Jens Lekman,0
+2008-09,Kent,0
+2008-09,Kristian Anttila,0
+2008-09,Laakso,0
+2008-09,The Kills,0
+2008-09,The Knife,0
+2008-09,The Shins,0
+2008-09,The Tough Alliance,0
+2008-09,Tunng,0
+2008-10,!!!,0
+2008-10,Albert Hammond, Jr.,0
+2008-10,Arcade Fire,0
+2008-10,Au Revoir Simone,0
+2008-10,Bloc Party,0
+2008-10,Bright Eyes,0
+2008-10,Broder Daniel,0
+2008-10,Chromeo,0
+2008-10,Cocorosie,0
+2008-10,Death Cab For Cutie,0
+2008-10,Håkan Hellström,0
+2008-10,Jens Lekman,0
+2008-10,Kent,0
+2008-10,Kristian Anttila,0
+2008-10,Laakso,0
+2008-10,The Kills,0
+2008-10,The Knife,0
+2008-10,The Shins,0
+2008-10,The Tough Alliance,0
+2008-10,Tunng,0
+2008-11,!!!,0
+2008-11,Albert Hammond, Jr.,0
+2008-11,Arcade Fire,0
+2008-11,Au Revoir Simone,3
+2008-11,Bloc Party,5
+2008-11,Bright Eyes,0
+2008-11,Broder Daniel,2
+2008-11,Chromeo,0
+2008-11,Cocorosie,0
+2008-11,Death Cab For Cutie,0
+2008-11,Håkan Hellström,0
+2008-11,Jens Lekman,1
+2008-11,Kent,3
+2008-11,Kristian Anttila,0
+2008-11,Laakso,3
+2008-11,The Kills,0
+2008-11,The Knife,1
+2008-11,The Shins,0
+2008-11,The Tough Alliance,1
+2008-11,Tunng,0
+2008-12,!!!,7
+2008-12,Albert Hammond, Jr.,6
+2008-12,Arcade Fire,6
+2008-12,Au Revoir Simone,6
+2008-12,Bloc Party,10
+2008-12,Bright Eyes,20
+2008-12,Broder Daniel,18
+2008-12,Chromeo,5
+2008-12,Cocorosie,5
+2008-12,Death Cab For Cutie,8
+2008-12,Håkan Hellström,20
+2008-12,Jens Lekman,1
+2008-12,Kent,31
+2008-12,Kristian Anttila,5
+2008-12,Laakso,16
+2008-12,The Kills,10
+2008-12,The Knife,8
+2008-12,The Shins,9
+2008-12,The Tough Alliance,3
+2008-12,Tunng,1
+2009-01,!!!,2
+2009-01,Albert Hammond, Jr.,2
+2009-01,Arcade Fire,1
+2009-01,Au Revoir Simone,1
+2009-01,Bloc Party,3
+2009-01,Bright Eyes,4
+2009-01,Broder Daniel,5
+2009-01,Chromeo,2
+2009-01,Cocorosie,3
+2009-01,Death Cab For Cutie,2
+2009-01,Håkan Hellström,1
+2009-01,Jens Lekman,8
+2009-01,Kent,7
+2009-01,Kristian Anttila,0
+2009-01,Laakso,4
+2009-01,The Kills,20
+2009-01,The Knife,2
+2009-01,The Shins,3
+2009-01,The Tough Alliance,1
+2009-01,Tunng,1
+2009-02,!!!,0
+2009-02,Albert Hammond, Jr.,0
+2009-02,Arcade Fire,0
+2009-02,Au Revoir Simone,0
+2009-02,Bloc Party,0
+2009-02,Bright Eyes,0
+2009-02,Broder Daniel,0
+2009-02,Chromeo,0
+2009-02,Cocorosie,0
+2009-02,Death Cab For Cutie,0
+2009-02,Håkan Hellström,0
+2009-02,Jens Lekman,0
+2009-02,Kent,0
+2009-02,Kristian Anttila,0
+2009-02,Laakso,0
+2009-02,The Kills,0
+2009-02,The Knife,0
+2009-02,The Shins,0
+2009-02,The Tough Alliance,0
+2009-02,Tunng,0
+2009-03,!!!,0
+2009-03,Albert Hammond, Jr.,0
+2009-03,Arcade Fire,0
+2009-03,Au Revoir Simone,0
+2009-03,Bloc Party,1
+2009-03,Bright Eyes,4
+2009-03,Broder Daniel,1
+2009-03,Chromeo,1
+2009-03,Cocorosie,2
+2009-03,Death Cab For Cutie,1
+2009-03,Håkan Hellström,3
+2009-03,Jens Lekman,3
+2009-03,Kent,3
+2009-03,Kristian Anttila,4
+2009-03,Laakso,1
+2009-03,The Kills,1
+2009-03,The Knife,2
+2009-03,The Shins,2
+2009-03,The Tough Alliance,1
+2009-03,Tunng,1

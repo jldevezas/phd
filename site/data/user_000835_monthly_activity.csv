@@ -1,0 +1,361 @@
+month,artist,plays
+2007-10,*Nsync,15
+2007-10,Alice Cooper,7
+2007-10,Anton Maiden,21
+2007-10,Bob Dylan,37
+2007-10,Cypress Hill,5
+2007-10,Daft Punk,4
+2007-10,Def Leppard,2
+2007-10,Elton John,2
+2007-10,Eric Clapton,8
+2007-10,Faster Pussycat,3
+2007-10,Guns N' Roses,57
+2007-10,Helloween,12
+2007-10,Iron Maiden,32
+2007-10,Judas Priest,5
+2007-10,Lady Sovereign,4
+2007-10,Mötley Crüe,18
+2007-10,New York Dolls,6
+2007-10,Queen,4
+2007-10,Radiohead,6
+2007-10,Ramones,98
+2007-11,*Nsync,29
+2007-11,Alice Cooper,182
+2007-11,Anton Maiden,49
+2007-11,Bob Dylan,81
+2007-11,Cypress Hill,26
+2007-11,Daft Punk,24
+2007-11,Def Leppard,66
+2007-11,Elton John,10
+2007-11,Eric Clapton,15
+2007-11,Faster Pussycat,10
+2007-11,Guns N' Roses,96
+2007-11,Helloween,43
+2007-11,Iron Maiden,116
+2007-11,Judas Priest,25
+2007-11,Lady Sovereign,9
+2007-11,Mötley Crüe,88
+2007-11,New York Dolls,41
+2007-11,Queen,10
+2007-11,Radiohead,16
+2007-11,Ramones,512
+2007-12,*Nsync,37
+2007-12,Alice Cooper,55
+2007-12,Anton Maiden,33
+2007-12,Bob Dylan,51
+2007-12,Cypress Hill,14
+2007-12,Daft Punk,9
+2007-12,Def Leppard,17
+2007-12,Elton John,11
+2007-12,Eric Clapton,10
+2007-12,Faster Pussycat,8
+2007-12,Guns N' Roses,65
+2007-12,Helloween,26
+2007-12,Iron Maiden,75
+2007-12,Judas Priest,41
+2007-12,Lady Sovereign,8
+2007-12,Mötley Crüe,39
+2007-12,New York Dolls,21
+2007-12,Queen,19
+2007-12,Radiohead,22
+2007-12,Ramones,214
+2008-01,*Nsync,108
+2008-01,Alice Cooper,15
+2008-01,Anton Maiden,33
+2008-01,Bob Dylan,44
+2008-01,Cypress Hill,17
+2008-01,Daft Punk,6
+2008-01,Def Leppard,6
+2008-01,Elton John,13
+2008-01,Eric Clapton,6
+2008-01,Faster Pussycat,7
+2008-01,Guns N' Roses,25
+2008-01,Helloween,29
+2008-01,Iron Maiden,68
+2008-01,Judas Priest,23
+2008-01,Lady Sovereign,3
+2008-01,Mötley Crüe,95
+2008-01,New York Dolls,15
+2008-01,Queen,9
+2008-01,Radiohead,7
+2008-01,Ramones,187
+2008-02,*Nsync,47
+2008-02,Alice Cooper,33
+2008-02,Anton Maiden,92
+2008-02,Bob Dylan,33
+2008-02,Cypress Hill,14
+2008-02,Daft Punk,10
+2008-02,Def Leppard,15
+2008-02,Elton John,9
+2008-02,Eric Clapton,7
+2008-02,Faster Pussycat,3
+2008-02,Guns N' Roses,22
+2008-02,Helloween,18
+2008-02,Iron Maiden,113
+2008-02,Judas Priest,27
+2008-02,Lady Sovereign,10
+2008-02,Mötley Crüe,68
+2008-02,New York Dolls,19
+2008-02,Queen,9
+2008-02,Radiohead,18
+2008-02,Ramones,155
+2008-03,*Nsync,48
+2008-03,Alice Cooper,19
+2008-03,Anton Maiden,32
+2008-03,Bob Dylan,70
+2008-03,Cypress Hill,10
+2008-03,Daft Punk,18
+2008-03,Def Leppard,7
+2008-03,Elton John,9
+2008-03,Eric Clapton,10
+2008-03,Faster Pussycat,7
+2008-03,Guns N' Roses,87
+2008-03,Helloween,122
+2008-03,Iron Maiden,60
+2008-03,Judas Priest,14
+2008-03,Lady Sovereign,4
+2008-03,Mötley Crüe,148
+2008-03,New York Dolls,10
+2008-03,Queen,14
+2008-03,Radiohead,7
+2008-03,Ramones,140
+2008-04,*Nsync,17
+2008-04,Alice Cooper,10
+2008-04,Anton Maiden,23
+2008-04,Bob Dylan,19
+2008-04,Cypress Hill,14
+2008-04,Daft Punk,8
+2008-04,Def Leppard,6
+2008-04,Elton John,11
+2008-04,Eric Clapton,7
+2008-04,Faster Pussycat,2
+2008-04,Guns N' Roses,79
+2008-04,Helloween,24
+2008-04,Iron Maiden,43
+2008-04,Judas Priest,171
+2008-04,Lady Sovereign,4
+2008-04,Mötley Crüe,37
+2008-04,New York Dolls,126
+2008-04,Queen,2
+2008-04,Radiohead,5
+2008-04,Ramones,131
+2008-05,*Nsync,14
+2008-05,Alice Cooper,14
+2008-05,Anton Maiden,28
+2008-05,Bob Dylan,70
+2008-05,Cypress Hill,4
+2008-05,Daft Punk,3
+2008-05,Def Leppard,8
+2008-05,Elton John,7
+2008-05,Eric Clapton,7
+2008-05,Faster Pussycat,4
+2008-05,Guns N' Roses,70
+2008-05,Helloween,13
+2008-05,Iron Maiden,32
+2008-05,Judas Priest,149
+2008-05,Lady Sovereign,4
+2008-05,Mötley Crüe,34
+2008-05,New York Dolls,18
+2008-05,Queen,19
+2008-05,Radiohead,3
+2008-05,Ramones,93
+2008-06,*Nsync,11
+2008-06,Alice Cooper,14
+2008-06,Anton Maiden,10
+2008-06,Bob Dylan,21
+2008-06,Cypress Hill,5
+2008-06,Daft Punk,4
+2008-06,Def Leppard,14
+2008-06,Elton John,14
+2008-06,Eric Clapton,15
+2008-06,Faster Pussycat,7
+2008-06,Guns N' Roses,75
+2008-06,Helloween,7
+2008-06,Iron Maiden,38
+2008-06,Judas Priest,51
+2008-06,Lady Sovereign,4
+2008-06,Mötley Crüe,63
+2008-06,New York Dolls,37
+2008-06,Queen,3
+2008-06,Radiohead,5
+2008-06,Ramones,80
+2008-07,*Nsync,66
+2008-07,Alice Cooper,21
+2008-07,Anton Maiden,19
+2008-07,Bob Dylan,36
+2008-07,Cypress Hill,8
+2008-07,Daft Punk,2
+2008-07,Def Leppard,4
+2008-07,Elton John,9
+2008-07,Eric Clapton,2
+2008-07,Faster Pussycat,4
+2008-07,Guns N' Roses,40
+2008-07,Helloween,14
+2008-07,Iron Maiden,26
+2008-07,Judas Priest,18
+2008-07,Lady Sovereign,1
+2008-07,Mötley Crüe,97
+2008-07,New York Dolls,3
+2008-07,Queen,3
+2008-07,Radiohead,7
+2008-07,Ramones,72
+2008-08,*Nsync,21
+2008-08,Alice Cooper,14
+2008-08,Anton Maiden,24
+2008-08,Bob Dylan,25
+2008-08,Cypress Hill,11
+2008-08,Daft Punk,13
+2008-08,Def Leppard,7
+2008-08,Elton John,6
+2008-08,Eric Clapton,3
+2008-08,Faster Pussycat,6
+2008-08,Guns N' Roses,130
+2008-08,Helloween,35
+2008-08,Iron Maiden,50
+2008-08,Judas Priest,17
+2008-08,Lady Sovereign,3
+2008-08,Mötley Crüe,140
+2008-08,New York Dolls,23
+2008-08,Queen,4
+2008-08,Radiohead,8
+2008-08,Ramones,93
+2008-09,*Nsync,21
+2008-09,Alice Cooper,10
+2008-09,Anton Maiden,14
+2008-09,Bob Dylan,26
+2008-09,Cypress Hill,6
+2008-09,Daft Punk,8
+2008-09,Def Leppard,65
+2008-09,Elton John,2
+2008-09,Eric Clapton,7
+2008-09,Faster Pussycat,4
+2008-09,Guns N' Roses,60
+2008-09,Helloween,23
+2008-09,Iron Maiden,31
+2008-09,Judas Priest,215
+2008-09,Lady Sovereign,6
+2008-09,Mötley Crüe,64
+2008-09,New York Dolls,34
+2008-09,Queen,3
+2008-09,Radiohead,7
+2008-09,Ramones,112
+2008-10,*Nsync,24
+2008-10,Alice Cooper,15
+2008-10,Anton Maiden,21
+2008-10,Bob Dylan,11
+2008-10,Cypress Hill,4
+2008-10,Daft Punk,3
+2008-10,Def Leppard,73
+2008-10,Elton John,3
+2008-10,Eric Clapton,9
+2008-10,Faster Pussycat,60
+2008-10,Guns N' Roses,60
+2008-10,Helloween,63
+2008-10,Iron Maiden,36
+2008-10,Judas Priest,41
+2008-10,Lady Sovereign,3
+2008-10,Mötley Crüe,54
+2008-10,New York Dolls,23
+2008-10,Queen,12
+2008-10,Radiohead,6
+2008-10,Ramones,88
+2008-11,*Nsync,21
+2008-11,Alice Cooper,19
+2008-11,Anton Maiden,18
+2008-11,Bob Dylan,18
+2008-11,Cypress Hill,8
+2008-11,Daft Punk,3
+2008-11,Def Leppard,8
+2008-11,Elton John,4
+2008-11,Eric Clapton,8
+2008-11,Faster Pussycat,125
+2008-11,Guns N' Roses,152
+2008-11,Helloween,25
+2008-11,Iron Maiden,31
+2008-11,Judas Priest,15
+2008-11,Lady Sovereign,5
+2008-11,Mötley Crüe,56
+2008-11,New York Dolls,16
+2008-11,Queen,15
+2008-11,Radiohead,4
+2008-11,Ramones,66
+2008-12,*Nsync,3
+2008-12,Alice Cooper,11
+2008-12,Anton Maiden,8
+2008-12,Bob Dylan,10
+2008-12,Cypress Hill,1
+2008-12,Daft Punk,2
+2008-12,Def Leppard,7
+2008-12,Elton John,1
+2008-12,Eric Clapton,2
+2008-12,Faster Pussycat,11
+2008-12,Guns N' Roses,36
+2008-12,Helloween,7
+2008-12,Iron Maiden,7
+2008-12,Judas Priest,7
+2008-12,Lady Sovereign,2
+2008-12,Mötley Crüe,31
+2008-12,New York Dolls,9
+2008-12,Queen,1
+2008-12,Radiohead,2
+2008-12,Ramones,24
+2009-01,*Nsync,4
+2009-01,Alice Cooper,8
+2009-01,Anton Maiden,5
+2009-01,Bob Dylan,12
+2009-01,Cypress Hill,1
+2009-01,Daft Punk,1
+2009-01,Def Leppard,9
+2009-01,Elton John,1
+2009-01,Eric Clapton,2
+2009-01,Faster Pussycat,6
+2009-01,Guns N' Roses,90
+2009-01,Helloween,5
+2009-01,Iron Maiden,9
+2009-01,Judas Priest,7
+2009-01,Lady Sovereign,5
+2009-01,Mötley Crüe,14
+2009-01,New York Dolls,14
+2009-01,Queen,2
+2009-01,Radiohead,1
+2009-01,Ramones,13
+2009-02,*Nsync,3
+2009-02,Alice Cooper,4
+2009-02,Anton Maiden,7
+2009-02,Bob Dylan,7
+2009-02,Cypress Hill,3
+2009-02,Daft Punk,2
+2009-02,Def Leppard,6
+2009-02,Elton John,3
+2009-02,Eric Clapton,2
+2009-02,Faster Pussycat,3
+2009-02,Guns N' Roses,10
+2009-02,Helloween,5
+2009-02,Iron Maiden,6
+2009-02,Judas Priest,4
+2009-02,Lady Sovereign,3
+2009-02,Mötley Crüe,11
+2009-02,New York Dolls,3
+2009-02,Queen,3
+2009-02,Radiohead,3
+2009-02,Ramones,15
+2009-03,*Nsync,1
+2009-03,Alice Cooper,2
+2009-03,Anton Maiden,2
+2009-03,Bob Dylan,1
+2009-03,Cypress Hill,1
+2009-03,Daft Punk,1
+2009-03,Def Leppard,4
+2009-03,Elton John,1
+2009-03,Eric Clapton,1
+2009-03,Faster Pussycat,3
+2009-03,Guns N' Roses,3
+2009-03,Helloween,2
+2009-03,Iron Maiden,6
+2009-03,Judas Priest,3
+2009-03,Lady Sovereign,1
+2009-03,Mötley Crüe,7
+2009-03,New York Dolls,2
+2009-03,Queen,1
+2009-03,Radiohead,1
+2009-03,Ramones,56

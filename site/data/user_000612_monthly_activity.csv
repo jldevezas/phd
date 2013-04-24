@@ -1,0 +1,1041 @@
+month,artist,plays
+2005-03,Amorphis,1
+2005-03,Apocalyptica,1
+2005-03,Cmx,4
+2005-03,Cradle Of Filth,1
+2005-03,Diablo,4
+2005-03,Enigma,2
+2005-03,Finntroll,0
+2005-03,In Flames,5
+2005-03,Iron Maiden,1
+2005-03,Judas Priest,1
+2005-03,Kent,20
+2005-03,Kiss,3
+2005-03,Kotiteollisuus,2
+2005-03,Machinae Supremacy,0
+2005-03,Nightwish,4
+2005-03,Nine Inch Nails,0
+2005-03,Paradise Lost,29
+2005-03,Rammstein,2
+2005-03,Sentenced,2
+2005-03,Soilwork,9
+2005-04,Amorphis,7
+2005-04,Apocalyptica,19
+2005-04,Cmx,24
+2005-04,Cradle Of Filth,11
+2005-04,Diablo,32
+2005-04,Enigma,27
+2005-04,Finntroll,8
+2005-04,In Flames,42
+2005-04,Iron Maiden,11
+2005-04,Judas Priest,1
+2005-04,Kent,41
+2005-04,Kiss,36
+2005-04,Kotiteollisuus,20
+2005-04,Machinae Supremacy,0
+2005-04,Nightwish,22
+2005-04,Nine Inch Nails,0
+2005-04,Paradise Lost,156
+2005-04,Rammstein,18
+2005-04,Sentenced,65
+2005-04,Soilwork,157
+2005-05,Amorphis,6
+2005-05,Apocalyptica,31
+2005-05,Cmx,19
+2005-05,Cradle Of Filth,15
+2005-05,Diablo,21
+2005-05,Enigma,17
+2005-05,Finntroll,5
+2005-05,In Flames,45
+2005-05,Iron Maiden,12
+2005-05,Judas Priest,0
+2005-05,Kent,31
+2005-05,Kiss,26
+2005-05,Kotiteollisuus,30
+2005-05,Machinae Supremacy,249
+2005-05,Nightwish,14
+2005-05,Nine Inch Nails,10
+2005-05,Paradise Lost,102
+2005-05,Rammstein,12
+2005-05,Sentenced,59
+2005-05,Soilwork,77
+2005-06,Amorphis,7
+2005-06,Apocalyptica,18
+2005-06,Cmx,11
+2005-06,Cradle Of Filth,19
+2005-06,Diablo,35
+2005-06,Enigma,32
+2005-06,Finntroll,22
+2005-06,In Flames,32
+2005-06,Iron Maiden,6
+2005-06,Judas Priest,1
+2005-06,Kent,24
+2005-06,Kiss,27
+2005-06,Kotiteollisuus,57
+2005-06,Machinae Supremacy,168
+2005-06,Nightwish,41
+2005-06,Nine Inch Nails,5
+2005-06,Paradise Lost,117
+2005-06,Rammstein,31
+2005-06,Sentenced,32
+2005-06,Soilwork,92
+2005-07,Amorphis,1
+2005-07,Apocalyptica,6
+2005-07,Cmx,7
+2005-07,Cradle Of Filth,5
+2005-07,Diablo,9
+2005-07,Enigma,8
+2005-07,Finntroll,3
+2005-07,In Flames,11
+2005-07,Iron Maiden,7
+2005-07,Judas Priest,4
+2005-07,Kent,8
+2005-07,Kiss,6
+2005-07,Kotiteollisuus,18
+2005-07,Machinae Supremacy,31
+2005-07,Nightwish,16
+2005-07,Nine Inch Nails,3
+2005-07,Paradise Lost,71
+2005-07,Rammstein,9
+2005-07,Sentenced,21
+2005-07,Soilwork,33
+2005-08,Amorphis,6
+2005-08,Apocalyptica,0
+2005-08,Cmx,6
+2005-08,Cradle Of Filth,5
+2005-08,Diablo,1
+2005-08,Enigma,2
+2005-08,Finntroll,1
+2005-08,In Flames,2
+2005-08,Iron Maiden,1
+2005-08,Judas Priest,1
+2005-08,Kent,2
+2005-08,Kiss,1
+2005-08,Kotiteollisuus,5
+2005-08,Machinae Supremacy,85
+2005-08,Nightwish,8
+2005-08,Nine Inch Nails,11
+2005-08,Paradise Lost,21
+2005-08,Rammstein,7
+2005-08,Sentenced,11
+2005-08,Soilwork,4
+2005-09,Amorphis,5
+2005-09,Apocalyptica,7
+2005-09,Cmx,4
+2005-09,Cradle Of Filth,12
+2005-09,Diablo,9
+2005-09,Enigma,4
+2005-09,Finntroll,4
+2005-09,In Flames,13
+2005-09,Iron Maiden,9
+2005-09,Judas Priest,6
+2005-09,Kent,3
+2005-09,Kiss,4
+2005-09,Kotiteollisuus,11
+2005-09,Machinae Supremacy,44
+2005-09,Nightwish,10
+2005-09,Nine Inch Nails,3
+2005-09,Paradise Lost,44
+2005-09,Rammstein,14
+2005-09,Sentenced,33
+2005-09,Soilwork,13
+2005-10,Amorphis,8
+2005-10,Apocalyptica,15
+2005-10,Cmx,5
+2005-10,Cradle Of Filth,13
+2005-10,Diablo,27
+2005-10,Enigma,39
+2005-10,Finntroll,4
+2005-10,In Flames,17
+2005-10,Iron Maiden,9
+2005-10,Judas Priest,14
+2005-10,Kent,11
+2005-10,Kiss,11
+2005-10,Kotiteollisuus,15
+2005-10,Machinae Supremacy,82
+2005-10,Nightwish,12
+2005-10,Nine Inch Nails,5
+2005-10,Paradise Lost,68
+2005-10,Rammstein,41
+2005-10,Sentenced,34
+2005-10,Soilwork,46
+2005-11,Amorphis,3
+2005-11,Apocalyptica,5
+2005-11,Cmx,1
+2005-11,Cradle Of Filth,9
+2005-11,Diablo,26
+2005-11,Enigma,20
+2005-11,Finntroll,10
+2005-11,In Flames,20
+2005-11,Iron Maiden,2
+2005-11,Judas Priest,2
+2005-11,Kent,2
+2005-11,Kiss,7
+2005-11,Kotiteollisuus,5
+2005-11,Machinae Supremacy,63
+2005-11,Nightwish,6
+2005-11,Nine Inch Nails,5
+2005-11,Paradise Lost,121
+2005-11,Rammstein,30
+2005-11,Sentenced,8
+2005-11,Soilwork,16
+2005-12,Amorphis,4
+2005-12,Apocalyptica,5
+2005-12,Cmx,1
+2005-12,Cradle Of Filth,9
+2005-12,Diablo,16
+2005-12,Enigma,30
+2005-12,Finntroll,1
+2005-12,In Flames,11
+2005-12,Iron Maiden,4
+2005-12,Judas Priest,4
+2005-12,Kent,4
+2005-12,Kiss,1
+2005-12,Kotiteollisuus,4
+2005-12,Machinae Supremacy,55
+2005-12,Nightwish,3
+2005-12,Nine Inch Nails,5
+2005-12,Paradise Lost,138
+2005-12,Rammstein,15
+2005-12,Sentenced,6
+2005-12,Soilwork,34
+2006-01,Amorphis,2
+2006-01,Apocalyptica,6
+2006-01,Cmx,1
+2006-01,Cradle Of Filth,5
+2006-01,Diablo,56
+2006-01,Enigma,5
+2006-01,Finntroll,2
+2006-01,In Flames,14
+2006-01,Iron Maiden,5
+2006-01,Judas Priest,6
+2006-01,Kent,1
+2006-01,Kiss,4
+2006-01,Kotiteollisuus,4
+2006-01,Machinae Supremacy,46
+2006-01,Nightwish,4
+2006-01,Nine Inch Nails,6
+2006-01,Paradise Lost,41
+2006-01,Rammstein,26
+2006-01,Sentenced,14
+2006-01,Soilwork,37
+2006-02,Amorphis,3
+2006-02,Apocalyptica,10
+2006-02,Cmx,6
+2006-02,Cradle Of Filth,10
+2006-02,Diablo,41
+2006-02,Enigma,12
+2006-02,Finntroll,3
+2006-02,In Flames,9
+2006-02,Iron Maiden,5
+2006-02,Judas Priest,2
+2006-02,Kent,2
+2006-02,Kiss,3
+2006-02,Kotiteollisuus,2
+2006-02,Machinae Supremacy,23
+2006-02,Nightwish,4
+2006-02,Nine Inch Nails,29
+2006-02,Paradise Lost,72
+2006-02,Rammstein,17
+2006-02,Sentenced,11
+2006-02,Soilwork,38
+2006-03,Amorphis,40
+2006-03,Apocalyptica,6
+2006-03,Cmx,1
+2006-03,Cradle Of Filth,2
+2006-03,Diablo,19
+2006-03,Enigma,2
+2006-03,Finntroll,0
+2006-03,In Flames,4
+2006-03,Iron Maiden,0
+2006-03,Judas Priest,2
+2006-03,Kent,1
+2006-03,Kiss,1
+2006-03,Kotiteollisuus,4
+2006-03,Machinae Supremacy,25
+2006-03,Nightwish,1
+2006-03,Nine Inch Nails,2
+2006-03,Paradise Lost,48
+2006-03,Rammstein,5
+2006-03,Sentenced,30
+2006-03,Soilwork,2
+2006-04,Amorphis,5
+2006-04,Apocalyptica,0
+2006-04,Cmx,3
+2006-04,Cradle Of Filth,0
+2006-04,Diablo,10
+2006-04,Enigma,12
+2006-04,Finntroll,1
+2006-04,In Flames,1
+2006-04,Iron Maiden,0
+2006-04,Judas Priest,1
+2006-04,Kent,2
+2006-04,Kiss,2
+2006-04,Kotiteollisuus,1
+2006-04,Machinae Supremacy,27
+2006-04,Nightwish,0
+2006-04,Nine Inch Nails,1
+2006-04,Paradise Lost,2
+2006-04,Rammstein,0
+2006-04,Sentenced,2
+2006-04,Soilwork,4
+2006-05,Amorphis,12
+2006-05,Apocalyptica,9
+2006-05,Cmx,1
+2006-05,Cradle Of Filth,18
+2006-05,Diablo,12
+2006-05,Enigma,5
+2006-05,Finntroll,2
+2006-05,In Flames,9
+2006-05,Iron Maiden,4
+2006-05,Judas Priest,3
+2006-05,Kent,14
+2006-05,Kiss,1
+2006-05,Kotiteollisuus,7
+2006-05,Machinae Supremacy,65
+2006-05,Nightwish,5
+2006-05,Nine Inch Nails,1
+2006-05,Paradise Lost,13
+2006-05,Rammstein,12
+2006-05,Sentenced,2
+2006-05,Soilwork,2
+2006-06,Amorphis,17
+2006-06,Apocalyptica,10
+2006-06,Cmx,2
+2006-06,Cradle Of Filth,7
+2006-06,Diablo,15
+2006-06,Enigma,5
+2006-06,Finntroll,15
+2006-06,In Flames,9
+2006-06,Iron Maiden,2
+2006-06,Judas Priest,1
+2006-06,Kent,3
+2006-06,Kiss,6
+2006-06,Kotiteollisuus,14
+2006-06,Machinae Supremacy,67
+2006-06,Nightwish,4
+2006-06,Nine Inch Nails,44
+2006-06,Paradise Lost,36
+2006-06,Rammstein,23
+2006-06,Sentenced,37
+2006-06,Soilwork,21
+2006-07,Amorphis,8
+2006-07,Apocalyptica,9
+2006-07,Cmx,8
+2006-07,Cradle Of Filth,12
+2006-07,Diablo,47
+2006-07,Enigma,2
+2006-07,Finntroll,4
+2006-07,In Flames,27
+2006-07,Iron Maiden,7
+2006-07,Judas Priest,1
+2006-07,Kent,2
+2006-07,Kiss,3
+2006-07,Kotiteollisuus,7
+2006-07,Machinae Supremacy,114
+2006-07,Nightwish,3
+2006-07,Nine Inch Nails,10
+2006-07,Paradise Lost,47
+2006-07,Rammstein,20
+2006-07,Sentenced,40
+2006-07,Soilwork,16
+2006-08,Amorphis,3
+2006-08,Apocalyptica,2
+2006-08,Cmx,1
+2006-08,Cradle Of Filth,1
+2006-08,Diablo,1
+2006-08,Enigma,1
+2006-08,Finntroll,0
+2006-08,In Flames,0
+2006-08,Iron Maiden,0
+2006-08,Judas Priest,1
+2006-08,Kent,0
+2006-08,Kiss,1
+2006-08,Kotiteollisuus,0
+2006-08,Machinae Supremacy,28
+2006-08,Nightwish,1
+2006-08,Nine Inch Nails,1
+2006-08,Paradise Lost,2
+2006-08,Rammstein,2
+2006-08,Sentenced,0
+2006-08,Soilwork,6
+2006-09,Amorphis,4
+2006-09,Apocalyptica,14
+2006-09,Cmx,1
+2006-09,Cradle Of Filth,11
+2006-09,Diablo,7
+2006-09,Enigma,16
+2006-09,Finntroll,2
+2006-09,In Flames,12
+2006-09,Iron Maiden,13
+2006-09,Judas Priest,3
+2006-09,Kent,2
+2006-09,Kiss,1
+2006-09,Kotiteollisuus,3
+2006-09,Machinae Supremacy,29
+2006-09,Nightwish,14
+2006-09,Nine Inch Nails,1
+2006-09,Paradise Lost,24
+2006-09,Rammstein,12
+2006-09,Sentenced,5
+2006-09,Soilwork,8
+2006-10,Amorphis,1
+2006-10,Apocalyptica,18
+2006-10,Cmx,1
+2006-10,Cradle Of Filth,8
+2006-10,Diablo,6
+2006-10,Enigma,8
+2006-10,Finntroll,2
+2006-10,In Flames,13
+2006-10,Iron Maiden,5
+2006-10,Judas Priest,1
+2006-10,Kent,2
+2006-10,Kiss,2
+2006-10,Kotiteollisuus,4
+2006-10,Machinae Supremacy,31
+2006-10,Nightwish,6
+2006-10,Nine Inch Nails,2
+2006-10,Paradise Lost,21
+2006-10,Rammstein,16
+2006-10,Sentenced,13
+2006-10,Soilwork,5
+2006-11,Amorphis,10
+2006-11,Apocalyptica,6
+2006-11,Cmx,1
+2006-11,Cradle Of Filth,9
+2006-11,Diablo,11
+2006-11,Enigma,9
+2006-11,Finntroll,2
+2006-11,In Flames,11
+2006-11,Iron Maiden,4
+2006-11,Judas Priest,2
+2006-11,Kent,3
+2006-11,Kiss,3
+2006-11,Kotiteollisuus,7
+2006-11,Machinae Supremacy,31
+2006-11,Nightwish,2
+2006-11,Nine Inch Nails,2
+2006-11,Paradise Lost,14
+2006-11,Rammstein,13
+2006-11,Sentenced,5
+2006-11,Soilwork,3
+2006-12,Amorphis,16
+2006-12,Apocalyptica,12
+2006-12,Cmx,1
+2006-12,Cradle Of Filth,9
+2006-12,Diablo,23
+2006-12,Enigma,17
+2006-12,Finntroll,2
+2006-12,In Flames,13
+2006-12,Iron Maiden,7
+2006-12,Judas Priest,3
+2006-12,Kent,4
+2006-12,Kiss,3
+2006-12,Kotiteollisuus,2
+2006-12,Machinae Supremacy,38
+2006-12,Nightwish,5
+2006-12,Nine Inch Nails,5
+2006-12,Paradise Lost,17
+2006-12,Rammstein,14
+2006-12,Sentenced,11
+2006-12,Soilwork,4
+2007-01,Amorphis,13
+2007-01,Apocalyptica,7
+2007-01,Cmx,0
+2007-01,Cradle Of Filth,15
+2007-01,Diablo,15
+2007-01,Enigma,20
+2007-01,Finntroll,3
+2007-01,In Flames,14
+2007-01,Iron Maiden,10
+2007-01,Judas Priest,1
+2007-01,Kent,10
+2007-01,Kiss,3
+2007-01,Kotiteollisuus,6
+2007-01,Machinae Supremacy,24
+2007-01,Nightwish,9
+2007-01,Nine Inch Nails,6
+2007-01,Paradise Lost,19
+2007-01,Rammstein,27
+2007-01,Sentenced,16
+2007-01,Soilwork,7
+2007-02,Amorphis,18
+2007-02,Apocalyptica,7
+2007-02,Cmx,2
+2007-02,Cradle Of Filth,15
+2007-02,Diablo,28
+2007-02,Enigma,31
+2007-02,Finntroll,6
+2007-02,In Flames,33
+2007-02,Iron Maiden,4
+2007-02,Judas Priest,0
+2007-02,Kent,34
+2007-02,Kiss,1
+2007-02,Kotiteollisuus,9
+2007-02,Machinae Supremacy,62
+2007-02,Nightwish,11
+2007-02,Nine Inch Nails,8
+2007-02,Paradise Lost,22
+2007-02,Rammstein,24
+2007-02,Sentenced,21
+2007-02,Soilwork,8
+2007-03,Amorphis,19
+2007-03,Apocalyptica,9
+2007-03,Cmx,3
+2007-03,Cradle Of Filth,23
+2007-03,Diablo,23
+2007-03,Enigma,17
+2007-03,Finntroll,7
+2007-03,In Flames,45
+2007-03,Iron Maiden,9
+2007-03,Judas Priest,2
+2007-03,Kent,5
+2007-03,Kiss,1
+2007-03,Kotiteollisuus,8
+2007-03,Machinae Supremacy,46
+2007-03,Nightwish,22
+2007-03,Nine Inch Nails,14
+2007-03,Paradise Lost,33
+2007-03,Rammstein,29
+2007-03,Sentenced,24
+2007-03,Soilwork,23
+2007-04,Amorphis,26
+2007-04,Apocalyptica,14
+2007-04,Cmx,3
+2007-04,Cradle Of Filth,26
+2007-04,Diablo,35
+2007-04,Enigma,36
+2007-04,Finntroll,8
+2007-04,In Flames,39
+2007-04,Iron Maiden,17
+2007-04,Judas Priest,3
+2007-04,Kent,9
+2007-04,Kiss,11
+2007-04,Kotiteollisuus,8
+2007-04,Machinae Supremacy,73
+2007-04,Nightwish,28
+2007-04,Nine Inch Nails,45
+2007-04,Paradise Lost,38
+2007-04,Rammstein,41
+2007-04,Sentenced,26
+2007-04,Soilwork,17
+2007-05,Amorphis,33
+2007-05,Apocalyptica,12
+2007-05,Cmx,0
+2007-05,Cradle Of Filth,13
+2007-05,Diablo,26
+2007-05,Enigma,19
+2007-05,Finntroll,9
+2007-05,In Flames,36
+2007-05,Iron Maiden,12
+2007-05,Judas Priest,4
+2007-05,Kent,16
+2007-05,Kiss,3
+2007-05,Kotiteollisuus,6
+2007-05,Machinae Supremacy,66
+2007-05,Nightwish,18
+2007-05,Nine Inch Nails,18
+2007-05,Paradise Lost,31
+2007-05,Rammstein,35
+2007-05,Sentenced,20
+2007-05,Soilwork,11
+2007-06,Amorphis,27
+2007-06,Apocalyptica,13
+2007-06,Cmx,4
+2007-06,Cradle Of Filth,21
+2007-06,Diablo,18
+2007-06,Enigma,6
+2007-06,Finntroll,8
+2007-06,In Flames,18
+2007-06,Iron Maiden,12
+2007-06,Judas Priest,3
+2007-06,Kent,8
+2007-06,Kiss,0
+2007-06,Kotiteollisuus,5
+2007-06,Machinae Supremacy,33
+2007-06,Nightwish,9
+2007-06,Nine Inch Nails,17
+2007-06,Paradise Lost,73
+2007-06,Rammstein,22
+2007-06,Sentenced,21
+2007-06,Soilwork,17
+2007-07,Amorphis,22
+2007-07,Apocalyptica,5
+2007-07,Cmx,1
+2007-07,Cradle Of Filth,5
+2007-07,Diablo,10
+2007-07,Enigma,1
+2007-07,Finntroll,2
+2007-07,In Flames,15
+2007-07,Iron Maiden,4
+2007-07,Judas Priest,3
+2007-07,Kent,14
+2007-07,Kiss,1
+2007-07,Kotiteollisuus,3
+2007-07,Machinae Supremacy,22
+2007-07,Nightwish,7
+2007-07,Nine Inch Nails,9
+2007-07,Paradise Lost,47
+2007-07,Rammstein,8
+2007-07,Sentenced,4
+2007-07,Soilwork,3
+2007-08,Amorphis,26
+2007-08,Apocalyptica,9
+2007-08,Cmx,0
+2007-08,Cradle Of Filth,6
+2007-08,Diablo,8
+2007-08,Enigma,39
+2007-08,Finntroll,5
+2007-08,In Flames,12
+2007-08,Iron Maiden,6
+2007-08,Judas Priest,0
+2007-08,Kent,4
+2007-08,Kiss,0
+2007-08,Kotiteollisuus,3
+2007-08,Machinae Supremacy,11
+2007-08,Nightwish,5
+2007-08,Nine Inch Nails,10
+2007-08,Paradise Lost,129
+2007-08,Rammstein,11
+2007-08,Sentenced,6
+2007-08,Soilwork,1
+2007-09,Amorphis,17
+2007-09,Apocalyptica,7
+2007-09,Cmx,12
+2007-09,Cradle Of Filth,18
+2007-09,Diablo,12
+2007-09,Enigma,31
+2007-09,Finntroll,7
+2007-09,In Flames,11
+2007-09,Iron Maiden,8
+2007-09,Judas Priest,2
+2007-09,Kent,3
+2007-09,Kiss,3
+2007-09,Kotiteollisuus,2
+2007-09,Machinae Supremacy,20
+2007-09,Nightwish,57
+2007-09,Nine Inch Nails,6
+2007-09,Paradise Lost,29
+2007-09,Rammstein,11
+2007-09,Sentenced,9
+2007-09,Soilwork,4
+2007-10,Amorphis,67
+2007-10,Apocalyptica,43
+2007-10,Cmx,56
+2007-10,Cradle Of Filth,34
+2007-10,Diablo,27
+2007-10,Enigma,8
+2007-10,Finntroll,11
+2007-10,In Flames,52
+2007-10,Iron Maiden,18
+2007-10,Judas Priest,2
+2007-10,Kent,51
+2007-10,Kiss,5
+2007-10,Kotiteollisuus,19
+2007-10,Machinae Supremacy,65
+2007-10,Nightwish,176
+2007-10,Nine Inch Nails,47
+2007-10,Paradise Lost,185
+2007-10,Rammstein,151
+2007-10,Sentenced,45
+2007-10,Soilwork,15
+2007-11,Amorphis,72
+2007-11,Apocalyptica,67
+2007-11,Cmx,13
+2007-11,Cradle Of Filth,16
+2007-11,Diablo,16
+2007-11,Enigma,27
+2007-11,Finntroll,12
+2007-11,In Flames,27
+2007-11,Iron Maiden,18
+2007-11,Judas Priest,1
+2007-11,Kent,10
+2007-11,Kiss,4
+2007-11,Kotiteollisuus,12
+2007-11,Machinae Supremacy,69
+2007-11,Nightwish,30
+2007-11,Nine Inch Nails,25
+2007-11,Paradise Lost,154
+2007-11,Rammstein,141
+2007-11,Sentenced,58
+2007-11,Soilwork,24
+2007-12,Amorphis,68
+2007-12,Apocalyptica,68
+2007-12,Cmx,23
+2007-12,Cradle Of Filth,112
+2007-12,Diablo,56
+2007-12,Enigma,37
+2007-12,Finntroll,43
+2007-12,In Flames,95
+2007-12,Iron Maiden,52
+2007-12,Judas Priest,4
+2007-12,Kent,30
+2007-12,Kiss,5
+2007-12,Kotiteollisuus,39
+2007-12,Machinae Supremacy,83
+2007-12,Nightwish,91
+2007-12,Nine Inch Nails,55
+2007-12,Paradise Lost,194
+2007-12,Rammstein,133
+2007-12,Sentenced,85
+2007-12,Soilwork,43
+2008-01,Amorphis,82
+2008-01,Apocalyptica,67
+2008-01,Cmx,50
+2008-01,Cradle Of Filth,108
+2008-01,Diablo,86
+2008-01,Enigma,36
+2008-01,Finntroll,35
+2008-01,In Flames,104
+2008-01,Iron Maiden,48
+2008-01,Judas Priest,6
+2008-01,Kent,47
+2008-01,Kiss,6
+2008-01,Kotiteollisuus,58
+2008-01,Machinae Supremacy,287
+2008-01,Nightwish,122
+2008-01,Nine Inch Nails,103
+2008-01,Paradise Lost,235
+2008-01,Rammstein,137
+2008-01,Sentenced,62
+2008-01,Soilwork,50
+2008-02,Amorphis,50
+2008-02,Apocalyptica,62
+2008-02,Cmx,16
+2008-02,Cradle Of Filth,49
+2008-02,Diablo,45
+2008-02,Enigma,24
+2008-02,Finntroll,19
+2008-02,In Flames,81
+2008-02,Iron Maiden,26
+2008-02,Judas Priest,7
+2008-02,Kent,37
+2008-02,Kiss,6
+2008-02,Kotiteollisuus,33
+2008-02,Machinae Supremacy,183
+2008-02,Nightwish,52
+2008-02,Nine Inch Nails,36
+2008-02,Paradise Lost,115
+2008-02,Rammstein,27
+2008-02,Sentenced,52
+2008-02,Soilwork,38
+2008-03,Amorphis,85
+2008-03,Apocalyptica,44
+2008-03,Cmx,19
+2008-03,Cradle Of Filth,50
+2008-03,Diablo,51
+2008-03,Enigma,130
+2008-03,Finntroll,23
+2008-03,In Flames,158
+2008-03,Iron Maiden,40
+2008-03,Judas Priest,1
+2008-03,Kent,63
+2008-03,Kiss,11
+2008-03,Kotiteollisuus,46
+2008-03,Machinae Supremacy,123
+2008-03,Nightwish,52
+2008-03,Nine Inch Nails,31
+2008-03,Paradise Lost,260
+2008-03,Rammstein,38
+2008-03,Sentenced,53
+2008-03,Soilwork,52
+2008-04,Amorphis,52
+2008-04,Apocalyptica,44
+2008-04,Cmx,25
+2008-04,Cradle Of Filth,50
+2008-04,Diablo,51
+2008-04,Enigma,207
+2008-04,Finntroll,23
+2008-04,In Flames,109
+2008-04,Iron Maiden,29
+2008-04,Judas Priest,4
+2008-04,Kent,26
+2008-04,Kiss,8
+2008-04,Kotiteollisuus,33
+2008-04,Machinae Supremacy,101
+2008-04,Nightwish,51
+2008-04,Nine Inch Nails,54
+2008-04,Paradise Lost,153
+2008-04,Rammstein,33
+2008-04,Sentenced,34
+2008-04,Soilwork,77
+2008-05,Amorphis,53
+2008-05,Apocalyptica,37
+2008-05,Cmx,15
+2008-05,Cradle Of Filth,28
+2008-05,Diablo,109
+2008-05,Enigma,55
+2008-05,Finntroll,6
+2008-05,In Flames,104
+2008-05,Iron Maiden,26
+2008-05,Judas Priest,2
+2008-05,Kent,12
+2008-05,Kiss,5
+2008-05,Kotiteollisuus,23
+2008-05,Machinae Supremacy,44
+2008-05,Nightwish,39
+2008-05,Nine Inch Nails,81
+2008-05,Paradise Lost,124
+2008-05,Rammstein,40
+2008-05,Sentenced,39
+2008-05,Soilwork,52
+2008-06,Amorphis,43
+2008-06,Apocalyptica,22
+2008-06,Cmx,8
+2008-06,Cradle Of Filth,32
+2008-06,Diablo,71
+2008-06,Enigma,55
+2008-06,Finntroll,34
+2008-06,In Flames,181
+2008-06,Iron Maiden,53
+2008-06,Judas Priest,4
+2008-06,Kent,11
+2008-06,Kiss,14
+2008-06,Kotiteollisuus,61
+2008-06,Machinae Supremacy,113
+2008-06,Nightwish,83
+2008-06,Nine Inch Nails,86
+2008-06,Paradise Lost,143
+2008-06,Rammstein,53
+2008-06,Sentenced,52
+2008-06,Soilwork,94
+2008-07,Amorphis,55
+2008-07,Apocalyptica,28
+2008-07,Cmx,10
+2008-07,Cradle Of Filth,26
+2008-07,Diablo,61
+2008-07,Enigma,121
+2008-07,Finntroll,18
+2008-07,In Flames,107
+2008-07,Iron Maiden,23
+2008-07,Judas Priest,3
+2008-07,Kent,45
+2008-07,Kiss,5
+2008-07,Kotiteollisuus,26
+2008-07,Machinae Supremacy,68
+2008-07,Nightwish,35
+2008-07,Nine Inch Nails,59
+2008-07,Paradise Lost,195
+2008-07,Rammstein,33
+2008-07,Sentenced,29
+2008-07,Soilwork,41
+2008-08,Amorphis,60
+2008-08,Apocalyptica,38
+2008-08,Cmx,17
+2008-08,Cradle Of Filth,5
+2008-08,Diablo,73
+2008-08,Enigma,117
+2008-08,Finntroll,32
+2008-08,In Flames,112
+2008-08,Iron Maiden,31
+2008-08,Judas Priest,1
+2008-08,Kent,17
+2008-08,Kiss,8
+2008-08,Kotiteollisuus,33
+2008-08,Machinae Supremacy,93
+2008-08,Nightwish,67
+2008-08,Nine Inch Nails,59
+2008-08,Paradise Lost,228
+2008-08,Rammstein,41
+2008-08,Sentenced,46
+2008-08,Soilwork,45
+2008-09,Amorphis,66
+2008-09,Apocalyptica,32
+2008-09,Cmx,5
+2008-09,Cradle Of Filth,3
+2008-09,Diablo,56
+2008-09,Enigma,107
+2008-09,Finntroll,13
+2008-09,In Flames,64
+2008-09,Iron Maiden,16
+2008-09,Judas Priest,5
+2008-09,Kent,30
+2008-09,Kiss,5
+2008-09,Kotiteollisuus,16
+2008-09,Machinae Supremacy,64
+2008-09,Nightwish,32
+2008-09,Nine Inch Nails,39
+2008-09,Paradise Lost,177
+2008-09,Rammstein,49
+2008-09,Sentenced,20
+2008-09,Soilwork,30
+2008-10,Amorphis,56
+2008-10,Apocalyptica,32
+2008-10,Cmx,14
+2008-10,Cradle Of Filth,40
+2008-10,Diablo,61
+2008-10,Enigma,133
+2008-10,Finntroll,15
+2008-10,In Flames,192
+2008-10,Iron Maiden,25
+2008-10,Judas Priest,5
+2008-10,Kent,25
+2008-10,Kiss,6
+2008-10,Kotiteollisuus,20
+2008-10,Machinae Supremacy,62
+2008-10,Nightwish,49
+2008-10,Nine Inch Nails,55
+2008-10,Paradise Lost,179
+2008-10,Rammstein,29
+2008-10,Sentenced,31
+2008-10,Soilwork,41
+2008-11,Amorphis,52
+2008-11,Apocalyptica,46
+2008-11,Cmx,14
+2008-11,Cradle Of Filth,48
+2008-11,Diablo,94
+2008-11,Enigma,89
+2008-11,Finntroll,18
+2008-11,In Flames,132
+2008-11,Iron Maiden,39
+2008-11,Judas Priest,4
+2008-11,Kent,23
+2008-11,Kiss,10
+2008-11,Kotiteollisuus,29
+2008-11,Machinae Supremacy,153
+2008-11,Nightwish,36
+2008-11,Nine Inch Nails,53
+2008-11,Paradise Lost,232
+2008-11,Rammstein,35
+2008-11,Sentenced,75
+2008-11,Soilwork,43
+2008-12,Amorphis,49
+2008-12,Apocalyptica,21
+2008-12,Cmx,11
+2008-12,Cradle Of Filth,34
+2008-12,Diablo,70
+2008-12,Enigma,82
+2008-12,Finntroll,20
+2008-12,In Flames,108
+2008-12,Iron Maiden,34
+2008-12,Judas Priest,3
+2008-12,Kent,27
+2008-12,Kiss,9
+2008-12,Kotiteollisuus,54
+2008-12,Machinae Supremacy,90
+2008-12,Nightwish,40
+2008-12,Nine Inch Nails,44
+2008-12,Paradise Lost,163
+2008-12,Rammstein,32
+2008-12,Sentenced,32
+2008-12,Soilwork,28
+2009-01,Amorphis,49
+2009-01,Apocalyptica,43
+2009-01,Cmx,14
+2009-01,Cradle Of Filth,47
+2009-01,Diablo,92
+2009-01,Enigma,98
+2009-01,Finntroll,26
+2009-01,In Flames,121
+2009-01,Iron Maiden,29
+2009-01,Judas Priest,7
+2009-01,Kent,25
+2009-01,Kiss,7
+2009-01,Kotiteollisuus,30
+2009-01,Machinae Supremacy,94
+2009-01,Nightwish,35
+2009-01,Nine Inch Nails,67
+2009-01,Paradise Lost,279
+2009-01,Rammstein,40
+2009-01,Sentenced,83
+2009-01,Soilwork,49
+2009-02,Amorphis,70
+2009-02,Apocalyptica,41
+2009-02,Cmx,21
+2009-02,Cradle Of Filth,41
+2009-02,Diablo,73
+2009-02,Enigma,192
+2009-02,Finntroll,28
+2009-02,In Flames,122
+2009-02,Iron Maiden,51
+2009-02,Judas Priest,1
+2009-02,Kent,30
+2009-02,Kiss,5
+2009-02,Kotiteollisuus,25
+2009-02,Machinae Supremacy,109
+2009-02,Nightwish,41
+2009-02,Nine Inch Nails,53
+2009-02,Paradise Lost,209
+2009-02,Rammstein,40
+2009-02,Sentenced,67
+2009-02,Soilwork,46
+2009-03,Amorphis,59
+2009-03,Apocalyptica,50
+2009-03,Cmx,11
+2009-03,Cradle Of Filth,31
+2009-03,Diablo,58
+2009-03,Enigma,167
+2009-03,Finntroll,19
+2009-03,In Flames,113
+2009-03,Iron Maiden,45
+2009-03,Judas Priest,2
+2009-03,Kent,28
+2009-03,Kiss,10
+2009-03,Kotiteollisuus,28
+2009-03,Machinae Supremacy,85
+2009-03,Nightwish,29
+2009-03,Nine Inch Nails,43
+2009-03,Paradise Lost,382
+2009-03,Rammstein,34
+2009-03,Sentenced,70
+2009-03,Soilwork,48
+2009-04,Amorphis,64
+2009-04,Apocalyptica,26
+2009-04,Cmx,21
+2009-04,Cradle Of Filth,95
+2009-04,Diablo,66
+2009-04,Enigma,86
+2009-04,Finntroll,26
+2009-04,In Flames,101
+2009-04,Iron Maiden,32
+2009-04,Judas Priest,3
+2009-04,Kent,15
+2009-04,Kiss,8
+2009-04,Kotiteollisuus,29
+2009-04,Machinae Supremacy,61
+2009-04,Nightwish,36
+2009-04,Nine Inch Nails,108
+2009-04,Paradise Lost,257
+2009-04,Rammstein,20
+2009-04,Sentenced,51
+2009-04,Soilwork,52
+2009-05,Amorphis,63
+2009-05,Apocalyptica,42
+2009-05,Cmx,53
+2009-05,Cradle Of Filth,46
+2009-05,Diablo,53
+2009-05,Enigma,104
+2009-05,Finntroll,17
+2009-05,In Flames,106
+2009-05,Iron Maiden,46
+2009-05,Judas Priest,5
+2009-05,Kent,32
+2009-05,Kiss,16
+2009-05,Kotiteollisuus,52
+2009-05,Machinae Supremacy,130
+2009-05,Nightwish,26
+2009-05,Nine Inch Nails,202
+2009-05,Paradise Lost,198
+2009-05,Rammstein,30
+2009-05,Sentenced,43
+2009-05,Soilwork,90
+2009-06,Amorphis,38
+2009-06,Apocalyptica,9
+2009-06,Cmx,6
+2009-06,Cradle Of Filth,13
+2009-06,Diablo,19
+2009-06,Enigma,17
+2009-06,Finntroll,12
+2009-06,In Flames,51
+2009-06,Iron Maiden,10
+2009-06,Judas Priest,1
+2009-06,Kent,7
+2009-06,Kiss,8
+2009-06,Kotiteollisuus,9
+2009-06,Machinae Supremacy,21
+2009-06,Nightwish,8
+2009-06,Nine Inch Nails,59
+2009-06,Paradise Lost,81
+2009-06,Rammstein,12
+2009-06,Sentenced,27
+2009-06,Soilwork,25

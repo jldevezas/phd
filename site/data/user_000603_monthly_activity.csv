@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Alexisonfire,3
+2006-02,Bell X1,36
+2006-02,Biffy Clyro,24
+2006-02,Bloc Party,77
+2006-02,Coheed And Cambria,17
+2006-02,Coldplay,7
+2006-02,Dashboard Confessional,0
+2006-02,Death Cab For Cutie,1
+2006-02,Fall Out Boy,14
+2006-02,Feeder,2
+2006-02,Fightstar,7
+2006-02,Foo Fighters,0
+2006-02,Funeral For A Friend,0
+2006-02,Jimmy Eat World,20
+2006-02,Minus The Bear,0
+2006-02,My Chemical Romance,1
+2006-02,Placebo,11
+2006-02,Snow Patrol,3
+2006-02,Taking Back Sunday,1
+2006-02,The Kooks,9
+2006-03,Alexisonfire,22
+2006-03,Bell X1,126
+2006-03,Biffy Clyro,61
+2006-03,Bloc Party,339
+2006-03,Coheed And Cambria,16
+2006-03,Coldplay,25
+2006-03,Dashboard Confessional,13
+2006-03,Death Cab For Cutie,115
+2006-03,Fall Out Boy,19
+2006-03,Feeder,36
+2006-03,Fightstar,2
+2006-03,Foo Fighters,33
+2006-03,Funeral For A Friend,46
+2006-03,Jimmy Eat World,29
+2006-03,Minus The Bear,126
+2006-03,My Chemical Romance,11
+2006-03,Placebo,56
+2006-03,Snow Patrol,53
+2006-03,Taking Back Sunday,34
+2006-03,The Kooks,59
+2006-04,Alexisonfire,2
+2006-04,Bell X1,82
+2006-04,Biffy Clyro,69
+2006-04,Bloc Party,176
+2006-04,Coheed And Cambria,16
+2006-04,Coldplay,1
+2006-04,Dashboard Confessional,12
+2006-04,Death Cab For Cutie,1
+2006-04,Fall Out Boy,2
+2006-04,Feeder,72
+2006-04,Fightstar,3
+2006-04,Foo Fighters,16
+2006-04,Funeral For A Friend,32
+2006-04,Jimmy Eat World,40
+2006-04,Minus The Bear,115
+2006-04,My Chemical Romance,5
+2006-04,Placebo,7
+2006-04,Snow Patrol,35
+2006-04,Taking Back Sunday,28
+2006-04,The Kooks,19
+2006-05,Alexisonfire,1
+2006-05,Bell X1,47
+2006-05,Biffy Clyro,39
+2006-05,Bloc Party,395
+2006-05,Coheed And Cambria,23
+2006-05,Coldplay,26
+2006-05,Dashboard Confessional,109
+2006-05,Death Cab For Cutie,23
+2006-05,Fall Out Boy,9
+2006-05,Feeder,18
+2006-05,Fightstar,59
+2006-05,Foo Fighters,12
+2006-05,Funeral For A Friend,71
+2006-05,Jimmy Eat World,5
+2006-05,Minus The Bear,225
+2006-05,My Chemical Romance,40
+2006-05,Placebo,22
+2006-05,Snow Patrol,59
+2006-05,Taking Back Sunday,119
+2006-05,The Kooks,37
+2006-06,Alexisonfire,12
+2006-06,Bell X1,45
+2006-06,Biffy Clyro,1
+2006-06,Bloc Party,107
+2006-06,Coheed And Cambria,1
+2006-06,Coldplay,1
+2006-06,Dashboard Confessional,7
+2006-06,Death Cab For Cutie,19
+2006-06,Fall Out Boy,1
+2006-06,Feeder,3
+2006-06,Fightstar,53
+2006-06,Foo Fighters,40
+2006-06,Funeral For A Friend,56
+2006-06,Jimmy Eat World,13
+2006-06,Minus The Bear,15
+2006-06,My Chemical Romance,4
+2006-06,Placebo,43
+2006-06,Snow Patrol,10
+2006-06,Taking Back Sunday,22
+2006-06,The Kooks,54
+2006-07,Alexisonfire,3
+2006-07,Bell X1,10
+2006-07,Biffy Clyro,5
+2006-07,Bloc Party,82
+2006-07,Coheed And Cambria,8
+2006-07,Coldplay,2
+2006-07,Dashboard Confessional,58
+2006-07,Death Cab For Cutie,78
+2006-07,Fall Out Boy,1
+2006-07,Feeder,2
+2006-07,Fightstar,6
+2006-07,Foo Fighters,12
+2006-07,Funeral For A Friend,1
+2006-07,Jimmy Eat World,38
+2006-07,Minus The Bear,102
+2006-07,My Chemical Romance,4
+2006-07,Placebo,0
+2006-07,Snow Patrol,25
+2006-07,Taking Back Sunday,13
+2006-07,The Kooks,51
+2006-08,Alexisonfire,1
+2006-08,Bell X1,28
+2006-08,Biffy Clyro,48
+2006-08,Bloc Party,294
+2006-08,Coheed And Cambria,8
+2006-08,Coldplay,6
+2006-08,Dashboard Confessional,21
+2006-08,Death Cab For Cutie,81
+2006-08,Fall Out Boy,2
+2006-08,Feeder,4
+2006-08,Fightstar,10
+2006-08,Foo Fighters,3
+2006-08,Funeral For A Friend,8
+2006-08,Jimmy Eat World,39
+2006-08,Minus The Bear,76
+2006-08,My Chemical Romance,6
+2006-08,Placebo,20
+2006-08,Snow Patrol,0
+2006-08,Taking Back Sunday,2
+2006-08,The Kooks,52
+2006-09,Alexisonfire,44
+2006-09,Bell X1,1
+2006-09,Biffy Clyro,5
+2006-09,Bloc Party,5
+2006-09,Coheed And Cambria,9
+2006-09,Coldplay,1
+2006-09,Dashboard Confessional,15
+2006-09,Death Cab For Cutie,137
+2006-09,Fall Out Boy,10
+2006-09,Feeder,1
+2006-09,Fightstar,18
+2006-09,Foo Fighters,8
+2006-09,Funeral For A Friend,7
+2006-09,Jimmy Eat World,41
+2006-09,Minus The Bear,10
+2006-09,My Chemical Romance,14
+2006-09,Placebo,2
+2006-09,Snow Patrol,0
+2006-09,Taking Back Sunday,5
+2006-09,The Kooks,22
+2006-10,Alexisonfire,88
+2006-10,Bell X1,8
+2006-10,Biffy Clyro,1
+2006-10,Bloc Party,5
+2006-10,Coheed And Cambria,8
+2006-10,Coldplay,9
+2006-10,Dashboard Confessional,21
+2006-10,Death Cab For Cutie,7
+2006-10,Fall Out Boy,14
+2006-10,Feeder,91
+2006-10,Fightstar,28
+2006-10,Foo Fighters,7
+2006-10,Funeral For A Friend,22
+2006-10,Jimmy Eat World,18
+2006-10,Minus The Bear,9
+2006-10,My Chemical Romance,62
+2006-10,Placebo,29
+2006-10,Snow Patrol,36
+2006-10,Taking Back Sunday,9
+2006-10,The Kooks,15
+2006-11,Alexisonfire,25
+2006-11,Bell X1,1
+2006-11,Biffy Clyro,14
+2006-11,Bloc Party,52
+2006-11,Coheed And Cambria,1
+2006-11,Coldplay,1
+2006-11,Dashboard Confessional,6
+2006-11,Death Cab For Cutie,5
+2006-11,Fall Out Boy,1
+2006-11,Feeder,2
+2006-11,Fightstar,14
+2006-11,Foo Fighters,3
+2006-11,Funeral For A Friend,11
+2006-11,Jimmy Eat World,22
+2006-11,Minus The Bear,32
+2006-11,My Chemical Romance,7
+2006-11,Placebo,2
+2006-11,Snow Patrol,13
+2006-11,Taking Back Sunday,1
+2006-11,The Kooks,4
+2006-12,Alexisonfire,4
+2006-12,Bell X1,3
+2006-12,Biffy Clyro,2
+2006-12,Bloc Party,169
+2006-12,Coheed And Cambria,0
+2006-12,Coldplay,1
+2006-12,Dashboard Confessional,1
+2006-12,Death Cab For Cutie,11
+2006-12,Fall Out Boy,0
+2006-12,Feeder,2
+2006-12,Fightstar,3
+2006-12,Foo Fighters,7
+2006-12,Funeral For A Friend,8
+2006-12,Jimmy Eat World,0
+2006-12,Minus The Bear,4
+2006-12,My Chemical Romance,4
+2006-12,Placebo,0
+2006-12,Snow Patrol,1
+2006-12,Taking Back Sunday,7
+2006-12,The Kooks,6
+2007-01,Alexisonfire,1
+2007-01,Bell X1,0
+2007-01,Biffy Clyro,13
+2007-01,Bloc Party,2
+2007-01,Coheed And Cambria,2
+2007-01,Coldplay,0
+2007-01,Dashboard Confessional,1
+2007-01,Death Cab For Cutie,0
+2007-01,Fall Out Boy,0
+2007-01,Feeder,0
+2007-01,Fightstar,0
+2007-01,Foo Fighters,19
+2007-01,Funeral For A Friend,0
+2007-01,Jimmy Eat World,0
+2007-01,Minus The Bear,12
+2007-01,My Chemical Romance,12
+2007-01,Placebo,11
+2007-01,Snow Patrol,1
+2007-01,Taking Back Sunday,0
+2007-01,The Kooks,0
+2007-02,Alexisonfire,0
+2007-02,Bell X1,0
+2007-02,Biffy Clyro,0
+2007-02,Bloc Party,0
+2007-02,Coheed And Cambria,0
+2007-02,Coldplay,0
+2007-02,Dashboard Confessional,0
+2007-02,Death Cab For Cutie,0
+2007-02,Fall Out Boy,0
+2007-02,Feeder,0
+2007-02,Fightstar,0
+2007-02,Foo Fighters,0
+2007-02,Funeral For A Friend,0
+2007-02,Jimmy Eat World,0
+2007-02,Minus The Bear,0
+2007-02,My Chemical Romance,0
+2007-02,Placebo,0
+2007-02,Snow Patrol,0
+2007-02,Taking Back Sunday,0
+2007-02,The Kooks,0
+2007-03,Alexisonfire,0
+2007-03,Bell X1,0
+2007-03,Biffy Clyro,0
+2007-03,Bloc Party,0
+2007-03,Coheed And Cambria,0
+2007-03,Coldplay,0
+2007-03,Dashboard Confessional,0
+2007-03,Death Cab For Cutie,0
+2007-03,Fall Out Boy,0
+2007-03,Feeder,0
+2007-03,Fightstar,0
+2007-03,Foo Fighters,0
+2007-03,Funeral For A Friend,0
+2007-03,Jimmy Eat World,0
+2007-03,Minus The Bear,0
+2007-03,My Chemical Romance,0
+2007-03,Placebo,0
+2007-03,Snow Patrol,0
+2007-03,Taking Back Sunday,0
+2007-03,The Kooks,0
+2007-04,Alexisonfire,3
+2007-04,Bell X1,3
+2007-04,Biffy Clyro,1
+2007-04,Bloc Party,12
+2007-04,Coheed And Cambria,3
+2007-04,Coldplay,1
+2007-04,Dashboard Confessional,0
+2007-04,Death Cab For Cutie,0
+2007-04,Fall Out Boy,1
+2007-04,Feeder,1
+2007-04,Fightstar,0
+2007-04,Foo Fighters,0
+2007-04,Funeral For A Friend,1
+2007-04,Jimmy Eat World,3
+2007-04,Minus The Bear,4
+2007-04,My Chemical Romance,0
+2007-04,Placebo,1
+2007-04,Snow Patrol,0
+2007-04,Taking Back Sunday,1
+2007-04,The Kooks,2
+2007-05,Alexisonfire,65
+2007-05,Bell X1,5
+2007-05,Biffy Clyro,10
+2007-05,Bloc Party,61
+2007-05,Coheed And Cambria,8
+2007-05,Coldplay,17
+2007-05,Dashboard Confessional,7
+2007-05,Death Cab For Cutie,27
+2007-05,Fall Out Boy,11
+2007-05,Feeder,25
+2007-05,Fightstar,37
+2007-05,Foo Fighters,14
+2007-05,Funeral For A Friend,14
+2007-05,Jimmy Eat World,33
+2007-05,Minus The Bear,12
+2007-05,My Chemical Romance,11
+2007-05,Placebo,12
+2007-05,Snow Patrol,13
+2007-05,Taking Back Sunday,19
+2007-05,The Kooks,10
+2007-06,Alexisonfire,25
+2007-06,Bell X1,8
+2007-06,Biffy Clyro,64
+2007-06,Bloc Party,74
+2007-06,Coheed And Cambria,8
+2007-06,Coldplay,15
+2007-06,Dashboard Confessional,3
+2007-06,Death Cab For Cutie,16
+2007-06,Fall Out Boy,15
+2007-06,Feeder,17
+2007-06,Fightstar,9
+2007-06,Foo Fighters,26
+2007-06,Funeral For A Friend,38
+2007-06,Jimmy Eat World,35
+2007-06,Minus The Bear,34
+2007-06,My Chemical Romance,11
+2007-06,Placebo,17
+2007-06,Snow Patrol,9
+2007-06,Taking Back Sunday,7
+2007-06,The Kooks,3
+2007-07,Alexisonfire,9
+2007-07,Bell X1,5
+2007-07,Biffy Clyro,37
+2007-07,Bloc Party,48
+2007-07,Coheed And Cambria,7
+2007-07,Coldplay,8
+2007-07,Dashboard Confessional,0
+2007-07,Death Cab For Cutie,25
+2007-07,Fall Out Boy,5
+2007-07,Feeder,10
+2007-07,Fightstar,4
+2007-07,Foo Fighters,14
+2007-07,Funeral For A Friend,11
+2007-07,Jimmy Eat World,22
+2007-07,Minus The Bear,5
+2007-07,My Chemical Romance,5
+2007-07,Placebo,33
+2007-07,Snow Patrol,10
+2007-07,Taking Back Sunday,8
+2007-07,The Kooks,5
+2007-08,Alexisonfire,6
+2007-08,Bell X1,3
+2007-08,Biffy Clyro,20
+2007-08,Bloc Party,29
+2007-08,Coheed And Cambria,4
+2007-08,Coldplay,2
+2007-08,Dashboard Confessional,5
+2007-08,Death Cab For Cutie,11
+2007-08,Fall Out Boy,4
+2007-08,Feeder,6
+2007-08,Fightstar,7
+2007-08,Foo Fighters,2
+2007-08,Funeral For A Friend,7
+2007-08,Jimmy Eat World,28
+2007-08,Minus The Bear,4
+2007-08,My Chemical Romance,2
+2007-08,Placebo,2
+2007-08,Snow Patrol,4
+2007-08,Taking Back Sunday,2
+2007-08,The Kooks,1
+2007-09,Alexisonfire,14
+2007-09,Bell X1,11
+2007-09,Biffy Clyro,9
+2007-09,Bloc Party,61
+2007-09,Coheed And Cambria,23
+2007-09,Coldplay,16
+2007-09,Dashboard Confessional,8
+2007-09,Death Cab For Cutie,45
+2007-09,Fall Out Boy,13
+2007-09,Feeder,10
+2007-09,Fightstar,28
+2007-09,Foo Fighters,19
+2007-09,Funeral For A Friend,13
+2007-09,Jimmy Eat World,85
+2007-09,Minus The Bear,70
+2007-09,My Chemical Romance,11
+2007-09,Placebo,12
+2007-09,Snow Patrol,13
+2007-09,Taking Back Sunday,7
+2007-09,The Kooks,8
+2007-10,Alexisonfire,31
+2007-10,Bell X1,8
+2007-10,Biffy Clyro,10
+2007-10,Bloc Party,66
+2007-10,Coheed And Cambria,18
+2007-10,Coldplay,15
+2007-10,Dashboard Confessional,12
+2007-10,Death Cab For Cutie,46
+2007-10,Fall Out Boy,20
+2007-10,Feeder,15
+2007-10,Fightstar,8
+2007-10,Foo Fighters,19
+2007-10,Funeral For A Friend,7
+2007-10,Jimmy Eat World,152
+2007-10,Minus The Bear,28
+2007-10,My Chemical Romance,12
+2007-10,Placebo,15
+2007-10,Snow Patrol,14
+2007-10,Taking Back Sunday,12
+2007-10,The Kooks,7
+2007-11,Alexisonfire,31
+2007-11,Bell X1,8
+2007-11,Biffy Clyro,6
+2007-11,Bloc Party,71
+2007-11,Coheed And Cambria,12
+2007-11,Coldplay,13
+2007-11,Dashboard Confessional,12
+2007-11,Death Cab For Cutie,23
+2007-11,Fall Out Boy,17
+2007-11,Feeder,26
+2007-11,Fightstar,7
+2007-11,Foo Fighters,16
+2007-11,Funeral For A Friend,18
+2007-11,Jimmy Eat World,41
+2007-11,Minus The Bear,22
+2007-11,My Chemical Romance,8
+2007-11,Placebo,12
+2007-11,Snow Patrol,8
+2007-11,Taking Back Sunday,5
+2007-11,The Kooks,14
+2007-12,Alexisonfire,7
+2007-12,Bell X1,2
+2007-12,Biffy Clyro,4
+2007-12,Bloc Party,44
+2007-12,Coheed And Cambria,4
+2007-12,Coldplay,8
+2007-12,Dashboard Confessional,4
+2007-12,Death Cab For Cutie,25
+2007-12,Fall Out Boy,5
+2007-12,Feeder,4
+2007-12,Fightstar,2
+2007-12,Foo Fighters,7
+2007-12,Funeral For A Friend,7
+2007-12,Jimmy Eat World,18
+2007-12,Minus The Bear,14
+2007-12,My Chemical Romance,6
+2007-12,Placebo,8
+2007-12,Snow Patrol,5
+2007-12,Taking Back Sunday,3
+2007-12,The Kooks,6
+2008-01,Alexisonfire,15
+2008-01,Bell X1,11
+2008-01,Biffy Clyro,12
+2008-01,Bloc Party,72
+2008-01,Coheed And Cambria,13
+2008-01,Coldplay,40
+2008-01,Dashboard Confessional,8
+2008-01,Death Cab For Cutie,103
+2008-01,Fall Out Boy,25
+2008-01,Feeder,17
+2008-01,Fightstar,21
+2008-01,Foo Fighters,24
+2008-01,Funeral For A Friend,12
+2008-01,Jimmy Eat World,95
+2008-01,Minus The Bear,46
+2008-01,My Chemical Romance,9
+2008-01,Placebo,40
+2008-01,Snow Patrol,102
+2008-01,Taking Back Sunday,10
+2008-01,The Kooks,8
+2008-02,Alexisonfire,32
+2008-02,Bell X1,28
+2008-02,Biffy Clyro,30
+2008-02,Bloc Party,208
+2008-02,Coheed And Cambria,26
+2008-02,Coldplay,39
+2008-02,Dashboard Confessional,13
+2008-02,Death Cab For Cutie,107
+2008-02,Fall Out Boy,17
+2008-02,Feeder,23
+2008-02,Fightstar,22
+2008-02,Foo Fighters,30
+2008-02,Funeral For A Friend,20
+2008-02,Jimmy Eat World,95
+2008-02,Minus The Bear,86
+2008-02,My Chemical Romance,9
+2008-02,Placebo,55
+2008-02,Snow Patrol,25
+2008-02,Taking Back Sunday,24
+2008-02,The Kooks,19
+2008-03,Alexisonfire,35
+2008-03,Bell X1,33
+2008-03,Biffy Clyro,48
+2008-03,Bloc Party,249
+2008-03,Coheed And Cambria,45
+2008-03,Coldplay,38
+2008-03,Dashboard Confessional,14
+2008-03,Death Cab For Cutie,86
+2008-03,Fall Out Boy,39
+2008-03,Feeder,38
+2008-03,Fightstar,29
+2008-03,Foo Fighters,45
+2008-03,Funeral For A Friend,24
+2008-03,Jimmy Eat World,153
+2008-03,Minus The Bear,77
+2008-03,My Chemical Romance,12
+2008-03,Placebo,48
+2008-03,Snow Patrol,42
+2008-03,Taking Back Sunday,20
+2008-03,The Kooks,28
+2008-04,Alexisonfire,17
+2008-04,Bell X1,10
+2008-04,Biffy Clyro,6
+2008-04,Bloc Party,63
+2008-04,Coheed And Cambria,10
+2008-04,Coldplay,11
+2008-04,Dashboard Confessional,126
+2008-04,Death Cab For Cutie,16
+2008-04,Fall Out Boy,17
+2008-04,Feeder,13
+2008-04,Fightstar,12
+2008-04,Foo Fighters,10
+2008-04,Funeral For A Friend,6
+2008-04,Jimmy Eat World,29
+2008-04,Minus The Bear,27
+2008-04,My Chemical Romance,6
+2008-04,Placebo,7
+2008-04,Snow Patrol,19
+2008-04,Taking Back Sunday,4
+2008-04,The Kooks,11
+2008-05,Alexisonfire,19
+2008-05,Bell X1,26
+2008-05,Biffy Clyro,20
+2008-05,Bloc Party,137
+2008-05,Coheed And Cambria,26
+2008-05,Coldplay,93
+2008-05,Dashboard Confessional,66
+2008-05,Death Cab For Cutie,391
+2008-05,Fall Out Boy,18
+2008-05,Feeder,57
+2008-05,Fightstar,18
+2008-05,Foo Fighters,43
+2008-05,Funeral For A Friend,14
+2008-05,Jimmy Eat World,128
+2008-05,Minus The Bear,250
+2008-05,My Chemical Romance,15
+2008-05,Placebo,20
+2008-05,Snow Patrol,24
+2008-05,Taking Back Sunday,18
+2008-05,The Kooks,11
+2008-06,Alexisonfire,16
+2008-06,Bell X1,33
+2008-06,Biffy Clyro,15
+2008-06,Bloc Party,94
+2008-06,Coheed And Cambria,19
+2008-06,Coldplay,98
+2008-06,Dashboard Confessional,50
+2008-06,Death Cab For Cutie,106
+2008-06,Fall Out Boy,32
+2008-06,Feeder,16
+2008-06,Fightstar,57
+2008-06,Foo Fighters,25
+2008-06,Funeral For A Friend,13
+2008-06,Jimmy Eat World,102
+2008-06,Minus The Bear,50
+2008-06,My Chemical Romance,13
+2008-06,Placebo,27
+2008-06,Snow Patrol,20
+2008-06,Taking Back Sunday,5
+2008-06,The Kooks,5
+2008-07,Alexisonfire,10
+2008-07,Bell X1,20
+2008-07,Biffy Clyro,12
+2008-07,Bloc Party,112
+2008-07,Coheed And Cambria,15
+2008-07,Coldplay,23
+2008-07,Dashboard Confessional,21
+2008-07,Death Cab For Cutie,214
+2008-07,Fall Out Boy,16
+2008-07,Feeder,40
+2008-07,Fightstar,15
+2008-07,Foo Fighters,16
+2008-07,Funeral For A Friend,14
+2008-07,Jimmy Eat World,36
+2008-07,Minus The Bear,17
+2008-07,My Chemical Romance,11
+2008-07,Placebo,14
+2008-07,Snow Patrol,27
+2008-07,Taking Back Sunday,29
+2008-07,The Kooks,8
+2008-08,Alexisonfire,2
+2008-08,Bell X1,3
+2008-08,Biffy Clyro,12
+2008-08,Bloc Party,104
+2008-08,Coheed And Cambria,6
+2008-08,Coldplay,8
+2008-08,Dashboard Confessional,25
+2008-08,Death Cab For Cutie,180
+2008-08,Fall Out Boy,7
+2008-08,Feeder,43
+2008-08,Fightstar,2
+2008-08,Foo Fighters,8
+2008-08,Funeral For A Friend,5
+2008-08,Jimmy Eat World,7
+2008-08,Minus The Bear,21
+2008-08,My Chemical Romance,4
+2008-08,Placebo,2
+2008-08,Snow Patrol,3
+2008-08,Taking Back Sunday,1
+2008-08,The Kooks,1
+2008-09,Alexisonfire,6
+2008-09,Bell X1,8
+2008-09,Biffy Clyro,44
+2008-09,Bloc Party,67
+2008-09,Coheed And Cambria,6
+2008-09,Coldplay,9
+2008-09,Dashboard Confessional,19
+2008-09,Death Cab For Cutie,35
+2008-09,Fall Out Boy,8
+2008-09,Feeder,22
+2008-09,Fightstar,22
+2008-09,Foo Fighters,10
+2008-09,Funeral For A Friend,5
+2008-09,Jimmy Eat World,21
+2008-09,Minus The Bear,4
+2008-09,My Chemical Romance,8
+2008-09,Placebo,10
+2008-09,Snow Patrol,18
+2008-09,Taking Back Sunday,9
+2008-09,The Kooks,8
+2008-10,Alexisonfire,1
+2008-10,Bell X1,4
+2008-10,Biffy Clyro,12
+2008-10,Bloc Party,75
+2008-10,Coheed And Cambria,7
+2008-10,Coldplay,0
+2008-10,Dashboard Confessional,3
+2008-10,Death Cab For Cutie,1
+2008-10,Fall Out Boy,2
+2008-10,Feeder,3
+2008-10,Fightstar,0
+2008-10,Foo Fighters,3
+2008-10,Funeral For A Friend,0
+2008-10,Jimmy Eat World,5
+2008-10,Minus The Bear,3
+2008-10,My Chemical Romance,1
+2008-10,Placebo,2
+2008-10,Snow Patrol,2
+2008-10,Taking Back Sunday,2
+2008-10,The Kooks,5
+2008-11,Alexisonfire,1
+2008-11,Bell X1,2
+2008-11,Biffy Clyro,3
+2008-11,Bloc Party,35
+2008-11,Coheed And Cambria,1
+2008-11,Coldplay,28
+2008-11,Dashboard Confessional,3
+2008-11,Death Cab For Cutie,10
+2008-11,Fall Out Boy,2
+2008-11,Feeder,7
+2008-11,Fightstar,6
+2008-11,Foo Fighters,0
+2008-11,Funeral For A Friend,10
+2008-11,Jimmy Eat World,1
+2008-11,Minus The Bear,0
+2008-11,My Chemical Romance,0
+2008-11,Placebo,0
+2008-11,Snow Patrol,11
+2008-11,Taking Back Sunday,0
+2008-11,The Kooks,7
+2008-12,Alexisonfire,1
+2008-12,Bell X1,0
+2008-12,Biffy Clyro,1
+2008-12,Bloc Party,15
+2008-12,Coheed And Cambria,1
+2008-12,Coldplay,19
+2008-12,Dashboard Confessional,2
+2008-12,Death Cab For Cutie,0
+2008-12,Fall Out Boy,0
+2008-12,Feeder,1
+2008-12,Fightstar,4
+2008-12,Foo Fighters,1
+2008-12,Funeral For A Friend,6
+2008-12,Jimmy Eat World,0
+2008-12,Minus The Bear,0
+2008-12,My Chemical Romance,1
+2008-12,Placebo,1
+2008-12,Snow Patrol,1
+2008-12,Taking Back Sunday,1
+2008-12,The Kooks,3
+2009-01,Alexisonfire,6
+2009-01,Bell X1,2
+2009-01,Biffy Clyro,2
+2009-01,Bloc Party,7
+2009-01,Coheed And Cambria,1
+2009-01,Coldplay,7
+2009-01,Dashboard Confessional,0
+2009-01,Death Cab For Cutie,8
+2009-01,Fall Out Boy,1
+2009-01,Feeder,2
+2009-01,Fightstar,1
+2009-01,Foo Fighters,1
+2009-01,Funeral For A Friend,2
+2009-01,Jimmy Eat World,5
+2009-01,Minus The Bear,3
+2009-01,My Chemical Romance,1
+2009-01,Placebo,3
+2009-01,Snow Patrol,2
+2009-01,Taking Back Sunday,4
+2009-01,The Kooks,1
+2009-02,Alexisonfire,1
+2009-02,Bell X1,1
+2009-02,Biffy Clyro,4
+2009-02,Bloc Party,18
+2009-02,Coheed And Cambria,3
+2009-02,Coldplay,7
+2009-02,Dashboard Confessional,1
+2009-02,Death Cab For Cutie,38
+2009-02,Fall Out Boy,3
+2009-02,Feeder,1
+2009-02,Fightstar,2
+2009-02,Foo Fighters,2
+2009-02,Funeral For A Friend,6
+2009-02,Jimmy Eat World,5
+2009-02,Minus The Bear,55
+2009-02,My Chemical Romance,1
+2009-02,Placebo,8
+2009-02,Snow Patrol,3
+2009-02,Taking Back Sunday,1
+2009-02,The Kooks,4
+2009-03,Alexisonfire,0
+2009-03,Bell X1,0
+2009-03,Biffy Clyro,2
+2009-03,Bloc Party,13
+2009-03,Coheed And Cambria,0
+2009-03,Coldplay,2
+2009-03,Dashboard Confessional,2
+2009-03,Death Cab For Cutie,1
+2009-03,Fall Out Boy,0
+2009-03,Feeder,2
+2009-03,Fightstar,0
+2009-03,Foo Fighters,0
+2009-03,Funeral For A Friend,2
+2009-03,Jimmy Eat World,7
+2009-03,Minus The Bear,2
+2009-03,My Chemical Romance,0
+2009-03,Placebo,4
+2009-03,Snow Patrol,17
+2009-03,Taking Back Sunday,1
+2009-03,The Kooks,3
+2009-04,Alexisonfire,0
+2009-04,Bell X1,0
+2009-04,Biffy Clyro,1
+2009-04,Bloc Party,0
+2009-04,Coheed And Cambria,0
+2009-04,Coldplay,0
+2009-04,Dashboard Confessional,0
+2009-04,Death Cab For Cutie,1
+2009-04,Fall Out Boy,0
+2009-04,Feeder,0
+2009-04,Fightstar,8
+2009-04,Foo Fighters,0
+2009-04,Funeral For A Friend,0
+2009-04,Jimmy Eat World,0
+2009-04,Minus The Bear,0
+2009-04,My Chemical Romance,0
+2009-04,Placebo,0
+2009-04,Snow Patrol,0
+2009-04,Taking Back Sunday,0
+2009-04,The Kooks,0

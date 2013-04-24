@@ -1,0 +1,641 @@
+month,artist,plays
+2006-11,Belle And Sebastian,17
+2006-11,Broken Social Scene,16
+2006-11,Camera Obscura,0
+2006-11,Cat Power,13
+2006-11,Elliott Smith,15
+2006-11,Emily Haines & The Soft Skeleton,0
+2006-11,Feist,0
+2006-11,Forget Cassettes,0
+2006-11,Jenny Owen Youngs,0
+2006-11,Le Tigre,0
+2006-11,Metric,13
+2006-11,Mirah,21
+2006-11,Pixies,14
+2006-11,Rilo Kiley,0
+2006-11,Sleater-Kinney,0
+2006-11,Sufjan Stevens,37
+2006-11,Tegan And Sara,43
+2006-11,The Sound Explosion,0
+2006-11,The White Stripes,36
+2006-11,Yeah Yeah Yeahs,126
+2006-12,Belle And Sebastian,26
+2006-12,Broken Social Scene,12
+2006-12,Camera Obscura,32
+2006-12,Cat Power,64
+2006-12,Elliott Smith,33
+2006-12,Emily Haines & The Soft Skeleton,18
+2006-12,Feist,6
+2006-12,Forget Cassettes,30
+2006-12,Jenny Owen Youngs,64
+2006-12,Le Tigre,14
+2006-12,Metric,39
+2006-12,Mirah,59
+2006-12,Pixies,30
+2006-12,Rilo Kiley,14
+2006-12,Sleater-Kinney,0
+2006-12,Sufjan Stevens,98
+2006-12,Tegan And Sara,82
+2006-12,The Sound Explosion,19
+2006-12,The White Stripes,55
+2006-12,Yeah Yeah Yeahs,123
+2007-01,Belle And Sebastian,13
+2007-01,Broken Social Scene,10
+2007-01,Camera Obscura,11
+2007-01,Cat Power,38
+2007-01,Elliott Smith,13
+2007-01,Emily Haines & The Soft Skeleton,7
+2007-01,Feist,4
+2007-01,Forget Cassettes,10
+2007-01,Jenny Owen Youngs,19
+2007-01,Le Tigre,4
+2007-01,Metric,8
+2007-01,Mirah,27
+2007-01,Pixies,15
+2007-01,Rilo Kiley,2
+2007-01,Sleater-Kinney,14
+2007-01,Sufjan Stevens,27
+2007-01,Tegan And Sara,37
+2007-01,The Sound Explosion,9
+2007-01,The White Stripes,22
+2007-01,Yeah Yeah Yeahs,73
+2007-02,Belle And Sebastian,19
+2007-02,Broken Social Scene,11
+2007-02,Camera Obscura,7
+2007-02,Cat Power,28
+2007-02,Elliott Smith,8
+2007-02,Emily Haines & The Soft Skeleton,4
+2007-02,Feist,2
+2007-02,Forget Cassettes,6
+2007-02,Jenny Owen Youngs,5
+2007-02,Le Tigre,9
+2007-02,Metric,12
+2007-02,Mirah,15
+2007-02,Pixies,8
+2007-02,Rilo Kiley,3
+2007-02,Sleater-Kinney,22
+2007-02,Sufjan Stevens,34
+2007-02,Tegan And Sara,45
+2007-02,The Sound Explosion,6
+2007-02,The White Stripes,19
+2007-02,Yeah Yeah Yeahs,47
+2007-03,Belle And Sebastian,9
+2007-03,Broken Social Scene,11
+2007-03,Camera Obscura,10
+2007-03,Cat Power,25
+2007-03,Elliott Smith,3
+2007-03,Emily Haines & The Soft Skeleton,1
+2007-03,Feist,6
+2007-03,Forget Cassettes,5
+2007-03,Jenny Owen Youngs,20
+2007-03,Le Tigre,20
+2007-03,Metric,8
+2007-03,Mirah,11
+2007-03,Pixies,21
+2007-03,Rilo Kiley,0
+2007-03,Sleater-Kinney,41
+2007-03,Sufjan Stevens,31
+2007-03,Tegan And Sara,65
+2007-03,The Sound Explosion,3
+2007-03,The White Stripes,21
+2007-03,Yeah Yeah Yeahs,62
+2007-04,Belle And Sebastian,24
+2007-04,Broken Social Scene,18
+2007-04,Camera Obscura,26
+2007-04,Cat Power,53
+2007-04,Elliott Smith,18
+2007-04,Emily Haines & The Soft Skeleton,8
+2007-04,Feist,7
+2007-04,Forget Cassettes,4
+2007-04,Jenny Owen Youngs,31
+2007-04,Le Tigre,14
+2007-04,Metric,20
+2007-04,Mirah,25
+2007-04,Pixies,13
+2007-04,Rilo Kiley,9
+2007-04,Sleater-Kinney,124
+2007-04,Sufjan Stevens,85
+2007-04,Tegan And Sara,73
+2007-04,The Sound Explosion,11
+2007-04,The White Stripes,14
+2007-04,Yeah Yeah Yeahs,77
+2007-05,Belle And Sebastian,24
+2007-05,Broken Social Scene,21
+2007-05,Camera Obscura,34
+2007-05,Cat Power,259
+2007-05,Elliott Smith,25
+2007-05,Emily Haines & The Soft Skeleton,5
+2007-05,Feist,4
+2007-05,Forget Cassettes,3
+2007-05,Jenny Owen Youngs,69
+2007-05,Le Tigre,24
+2007-05,Metric,16
+2007-05,Mirah,22
+2007-05,Pixies,7
+2007-05,Rilo Kiley,21
+2007-05,Sleater-Kinney,296
+2007-05,Sufjan Stevens,68
+2007-05,Tegan And Sara,325
+2007-05,The Sound Explosion,15
+2007-05,The White Stripes,12
+2007-05,Yeah Yeah Yeahs,73
+2007-06,Belle And Sebastian,3
+2007-06,Broken Social Scene,3
+2007-06,Camera Obscura,11
+2007-06,Cat Power,84
+2007-06,Elliott Smith,3
+2007-06,Emily Haines & The Soft Skeleton,9
+2007-06,Feist,8
+2007-06,Forget Cassettes,4
+2007-06,Jenny Owen Youngs,33
+2007-06,Le Tigre,23
+2007-06,Metric,10
+2007-06,Mirah,6
+2007-06,Pixies,4
+2007-06,Rilo Kiley,9
+2007-06,Sleater-Kinney,292
+2007-06,Sufjan Stevens,11
+2007-06,Tegan And Sara,238
+2007-06,The Sound Explosion,4
+2007-06,The White Stripes,14
+2007-06,Yeah Yeah Yeahs,55
+2007-07,Belle And Sebastian,15
+2007-07,Broken Social Scene,19
+2007-07,Camera Obscura,19
+2007-07,Cat Power,135
+2007-07,Elliott Smith,25
+2007-07,Emily Haines & The Soft Skeleton,20
+2007-07,Feist,5
+2007-07,Forget Cassettes,46
+2007-07,Jenny Owen Youngs,47
+2007-07,Le Tigre,46
+2007-07,Metric,15
+2007-07,Mirah,20
+2007-07,Pixies,11
+2007-07,Rilo Kiley,16
+2007-07,Sleater-Kinney,408
+2007-07,Sufjan Stevens,38
+2007-07,Tegan And Sara,298
+2007-07,The Sound Explosion,9
+2007-07,The White Stripes,5
+2007-07,Yeah Yeah Yeahs,93
+2007-08,Belle And Sebastian,13
+2007-08,Broken Social Scene,10
+2007-08,Camera Obscura,14
+2007-08,Cat Power,133
+2007-08,Elliott Smith,118
+2007-08,Emily Haines & The Soft Skeleton,15
+2007-08,Feist,4
+2007-08,Forget Cassettes,14
+2007-08,Jenny Owen Youngs,31
+2007-08,Le Tigre,74
+2007-08,Metric,17
+2007-08,Mirah,12
+2007-08,Pixies,6
+2007-08,Rilo Kiley,13
+2007-08,Sleater-Kinney,458
+2007-08,Sufjan Stevens,25
+2007-08,Tegan And Sara,127
+2007-08,The Sound Explosion,16
+2007-08,The White Stripes,3
+2007-08,Yeah Yeah Yeahs,62
+2007-09,Belle And Sebastian,14
+2007-09,Broken Social Scene,10
+2007-09,Camera Obscura,21
+2007-09,Cat Power,133
+2007-09,Elliott Smith,250
+2007-09,Emily Haines & The Soft Skeleton,2
+2007-09,Feist,4
+2007-09,Forget Cassettes,26
+2007-09,Jenny Owen Youngs,13
+2007-09,Le Tigre,103
+2007-09,Metric,11
+2007-09,Mirah,12
+2007-09,Pixies,13
+2007-09,Rilo Kiley,12
+2007-09,Sleater-Kinney,315
+2007-09,Sufjan Stevens,10
+2007-09,Tegan And Sara,68
+2007-09,The Sound Explosion,3
+2007-09,The White Stripes,2
+2007-09,Yeah Yeah Yeahs,39
+2007-10,Belle And Sebastian,8
+2007-10,Broken Social Scene,5
+2007-10,Camera Obscura,5
+2007-10,Cat Power,73
+2007-10,Elliott Smith,257
+2007-10,Emily Haines & The Soft Skeleton,4
+2007-10,Feist,3
+2007-10,Forget Cassettes,12
+2007-10,Jenny Owen Youngs,3
+2007-10,Le Tigre,76
+2007-10,Metric,7
+2007-10,Mirah,5
+2007-10,Pixies,9
+2007-10,Rilo Kiley,6
+2007-10,Sleater-Kinney,326
+2007-10,Sufjan Stevens,5
+2007-10,Tegan And Sara,36
+2007-10,The Sound Explosion,3
+2007-10,The White Stripes,1
+2007-10,Yeah Yeah Yeahs,18
+2007-11,Belle And Sebastian,2
+2007-11,Broken Social Scene,2
+2007-11,Camera Obscura,5
+2007-11,Cat Power,24
+2007-11,Elliott Smith,72
+2007-11,Emily Haines & The Soft Skeleton,9
+2007-11,Feist,4
+2007-11,Forget Cassettes,12
+2007-11,Jenny Owen Youngs,4
+2007-11,Le Tigre,31
+2007-11,Metric,7
+2007-11,Mirah,4
+2007-11,Pixies,6
+2007-11,Rilo Kiley,2
+2007-11,Sleater-Kinney,121
+2007-11,Sufjan Stevens,5
+2007-11,Tegan And Sara,23
+2007-11,The Sound Explosion,3
+2007-11,The White Stripes,4
+2007-11,Yeah Yeah Yeahs,12
+2007-12,Belle And Sebastian,9
+2007-12,Broken Social Scene,4
+2007-12,Camera Obscura,2
+2007-12,Cat Power,45
+2007-12,Elliott Smith,91
+2007-12,Emily Haines & The Soft Skeleton,5
+2007-12,Feist,3
+2007-12,Forget Cassettes,4
+2007-12,Jenny Owen Youngs,11
+2007-12,Le Tigre,45
+2007-12,Metric,11
+2007-12,Mirah,10
+2007-12,Pixies,11
+2007-12,Rilo Kiley,7
+2007-12,Sleater-Kinney,203
+2007-12,Sufjan Stevens,5
+2007-12,Tegan And Sara,40
+2007-12,The Sound Explosion,7
+2007-12,The White Stripes,13
+2007-12,Yeah Yeah Yeahs,26
+2008-01,Belle And Sebastian,6
+2008-01,Broken Social Scene,5
+2008-01,Camera Obscura,3
+2008-01,Cat Power,53
+2008-01,Elliott Smith,51
+2008-01,Emily Haines & The Soft Skeleton,1
+2008-01,Feist,1
+2008-01,Forget Cassettes,6
+2008-01,Jenny Owen Youngs,4
+2008-01,Le Tigre,21
+2008-01,Metric,15
+2008-01,Mirah,4
+2008-01,Pixies,7
+2008-01,Rilo Kiley,6
+2008-01,Sleater-Kinney,78
+2008-01,Sufjan Stevens,11
+2008-01,Tegan And Sara,11
+2008-01,The Sound Explosion,2
+2008-01,The White Stripes,12
+2008-01,Yeah Yeah Yeahs,20
+2008-02,Belle And Sebastian,10
+2008-02,Broken Social Scene,12
+2008-02,Camera Obscura,0
+2008-02,Cat Power,96
+2008-02,Elliott Smith,137
+2008-02,Emily Haines & The Soft Skeleton,10
+2008-02,Feist,8
+2008-02,Forget Cassettes,9
+2008-02,Jenny Owen Youngs,6
+2008-02,Le Tigre,21
+2008-02,Metric,17
+2008-02,Mirah,13
+2008-02,Pixies,9
+2008-02,Rilo Kiley,7
+2008-02,Sleater-Kinney,99
+2008-02,Sufjan Stevens,12
+2008-02,Tegan And Sara,16
+2008-02,The Sound Explosion,3
+2008-02,The White Stripes,13
+2008-02,Yeah Yeah Yeahs,42
+2008-03,Belle And Sebastian,8
+2008-03,Broken Social Scene,12
+2008-03,Camera Obscura,9
+2008-03,Cat Power,40
+2008-03,Elliott Smith,45
+2008-03,Emily Haines & The Soft Skeleton,7
+2008-03,Feist,4
+2008-03,Forget Cassettes,7
+2008-03,Jenny Owen Youngs,3
+2008-03,Le Tigre,22
+2008-03,Metric,26
+2008-03,Mirah,13
+2008-03,Pixies,3
+2008-03,Rilo Kiley,15
+2008-03,Sleater-Kinney,69
+2008-03,Sufjan Stevens,7
+2008-03,Tegan And Sara,22
+2008-03,The Sound Explosion,3
+2008-03,The White Stripes,8
+2008-03,Yeah Yeah Yeahs,30
+2008-04,Belle And Sebastian,6
+2008-04,Broken Social Scene,8
+2008-04,Camera Obscura,5
+2008-04,Cat Power,92
+2008-04,Elliott Smith,80
+2008-04,Emily Haines & The Soft Skeleton,14
+2008-04,Feist,9
+2008-04,Forget Cassettes,27
+2008-04,Jenny Owen Youngs,9
+2008-04,Le Tigre,27
+2008-04,Metric,95
+2008-04,Mirah,33
+2008-04,Pixies,9
+2008-04,Rilo Kiley,15
+2008-04,Sleater-Kinney,180
+2008-04,Sufjan Stevens,9
+2008-04,Tegan And Sara,99
+2008-04,The Sound Explosion,2
+2008-04,The White Stripes,133
+2008-04,Yeah Yeah Yeahs,34
+2008-05,Belle And Sebastian,7
+2008-05,Broken Social Scene,2
+2008-05,Camera Obscura,8
+2008-05,Cat Power,81
+2008-05,Elliott Smith,140
+2008-05,Emily Haines & The Soft Skeleton,5
+2008-05,Feist,4
+2008-05,Forget Cassettes,15
+2008-05,Jenny Owen Youngs,11
+2008-05,Le Tigre,34
+2008-05,Metric,15
+2008-05,Mirah,7
+2008-05,Pixies,10
+2008-05,Rilo Kiley,6
+2008-05,Sleater-Kinney,103
+2008-05,Sufjan Stevens,4
+2008-05,Tegan And Sara,35
+2008-05,The Sound Explosion,3
+2008-05,The White Stripes,32
+2008-05,Yeah Yeah Yeahs,24
+2008-06,Belle And Sebastian,0
+2008-06,Broken Social Scene,0
+2008-06,Camera Obscura,1
+2008-06,Cat Power,41
+2008-06,Elliott Smith,61
+2008-06,Emily Haines & The Soft Skeleton,4
+2008-06,Feist,5
+2008-06,Forget Cassettes,6
+2008-06,Jenny Owen Youngs,5
+2008-06,Le Tigre,15
+2008-06,Metric,11
+2008-06,Mirah,5
+2008-06,Pixies,4
+2008-06,Rilo Kiley,12
+2008-06,Sleater-Kinney,33
+2008-06,Sufjan Stevens,0
+2008-06,Tegan And Sara,16
+2008-06,The Sound Explosion,2
+2008-06,The White Stripes,8
+2008-06,Yeah Yeah Yeahs,34
+2008-07,Belle And Sebastian,4
+2008-07,Broken Social Scene,3
+2008-07,Camera Obscura,11
+2008-07,Cat Power,40
+2008-07,Elliott Smith,161
+2008-07,Emily Haines & The Soft Skeleton,6
+2008-07,Feist,9
+2008-07,Forget Cassettes,1
+2008-07,Jenny Owen Youngs,7
+2008-07,Le Tigre,17
+2008-07,Metric,17
+2008-07,Mirah,15
+2008-07,Pixies,4
+2008-07,Rilo Kiley,32
+2008-07,Sleater-Kinney,50
+2008-07,Sufjan Stevens,0
+2008-07,Tegan And Sara,25
+2008-07,The Sound Explosion,1
+2008-07,The White Stripes,14
+2008-07,Yeah Yeah Yeahs,22
+2008-08,Belle And Sebastian,4
+2008-08,Broken Social Scene,1
+2008-08,Camera Obscura,3
+2008-08,Cat Power,122
+2008-08,Elliott Smith,109
+2008-08,Emily Haines & The Soft Skeleton,1
+2008-08,Feist,1
+2008-08,Forget Cassettes,4
+2008-08,Jenny Owen Youngs,18
+2008-08,Le Tigre,23
+2008-08,Metric,9
+2008-08,Mirah,2
+2008-08,Pixies,19
+2008-08,Rilo Kiley,4
+2008-08,Sleater-Kinney,117
+2008-08,Sufjan Stevens,0
+2008-08,Tegan And Sara,19
+2008-08,The Sound Explosion,1
+2008-08,The White Stripes,33
+2008-08,Yeah Yeah Yeahs,21
+2008-09,Belle And Sebastian,1
+2008-09,Broken Social Scene,3
+2008-09,Camera Obscura,15
+2008-09,Cat Power,47
+2008-09,Elliott Smith,118
+2008-09,Emily Haines & The Soft Skeleton,4
+2008-09,Feist,8
+2008-09,Forget Cassettes,1
+2008-09,Jenny Owen Youngs,6
+2008-09,Le Tigre,21
+2008-09,Metric,2
+2008-09,Mirah,5
+2008-09,Pixies,20
+2008-09,Rilo Kiley,8
+2008-09,Sleater-Kinney,59
+2008-09,Sufjan Stevens,4
+2008-09,Tegan And Sara,50
+2008-09,The Sound Explosion,1
+2008-09,The White Stripes,34
+2008-09,Yeah Yeah Yeahs,21
+2008-10,Belle And Sebastian,5
+2008-10,Broken Social Scene,0
+2008-10,Camera Obscura,4
+2008-10,Cat Power,17
+2008-10,Elliott Smith,19
+2008-10,Emily Haines & The Soft Skeleton,3
+2008-10,Feist,2
+2008-10,Forget Cassettes,0
+2008-10,Jenny Owen Youngs,4
+2008-10,Le Tigre,7
+2008-10,Metric,5
+2008-10,Mirah,7
+2008-10,Pixies,11
+2008-10,Rilo Kiley,4
+2008-10,Sleater-Kinney,33
+2008-10,Sufjan Stevens,3
+2008-10,Tegan And Sara,21
+2008-10,The Sound Explosion,5
+2008-10,The White Stripes,11
+2008-10,Yeah Yeah Yeahs,16
+2008-11,Belle And Sebastian,4
+2008-11,Broken Social Scene,8
+2008-11,Camera Obscura,6
+2008-11,Cat Power,28
+2008-11,Elliott Smith,32
+2008-11,Emily Haines & The Soft Skeleton,3
+2008-11,Feist,1
+2008-11,Forget Cassettes,4
+2008-11,Jenny Owen Youngs,4
+2008-11,Le Tigre,10
+2008-11,Metric,4
+2008-11,Mirah,4
+2008-11,Pixies,27
+2008-11,Rilo Kiley,6
+2008-11,Sleater-Kinney,31
+2008-11,Sufjan Stevens,6
+2008-11,Tegan And Sara,24
+2008-11,The Sound Explosion,1
+2008-11,The White Stripes,8
+2008-11,Yeah Yeah Yeahs,19
+2008-12,Belle And Sebastian,10
+2008-12,Broken Social Scene,5
+2008-12,Camera Obscura,69
+2008-12,Cat Power,114
+2008-12,Elliott Smith,61
+2008-12,Emily Haines & The Soft Skeleton,9
+2008-12,Feist,3
+2008-12,Forget Cassettes,14
+2008-12,Jenny Owen Youngs,6
+2008-12,Le Tigre,17
+2008-12,Metric,4
+2008-12,Mirah,8
+2008-12,Pixies,19
+2008-12,Rilo Kiley,12
+2008-12,Sleater-Kinney,200
+2008-12,Sufjan Stevens,13
+2008-12,Tegan And Sara,54
+2008-12,The Sound Explosion,1
+2008-12,The White Stripes,7
+2008-12,Yeah Yeah Yeahs,23
+2009-01,Belle And Sebastian,4
+2009-01,Broken Social Scene,4
+2009-01,Camera Obscura,6
+2009-01,Cat Power,70
+2009-01,Elliott Smith,39
+2009-01,Emily Haines & The Soft Skeleton,5
+2009-01,Feist,1
+2009-01,Forget Cassettes,5
+2009-01,Jenny Owen Youngs,6
+2009-01,Le Tigre,6
+2009-01,Metric,6
+2009-01,Mirah,9
+2009-01,Pixies,9
+2009-01,Rilo Kiley,19
+2009-01,Sleater-Kinney,129
+2009-01,Sufjan Stevens,28
+2009-01,Tegan And Sara,18
+2009-01,The Sound Explosion,3
+2009-01,The White Stripes,2
+2009-01,Yeah Yeah Yeahs,14
+2009-02,Belle And Sebastian,1
+2009-02,Broken Social Scene,4
+2009-02,Camera Obscura,6
+2009-02,Cat Power,22
+2009-02,Elliott Smith,27
+2009-02,Emily Haines & The Soft Skeleton,2
+2009-02,Feist,2
+2009-02,Forget Cassettes,7
+2009-02,Jenny Owen Youngs,5
+2009-02,Le Tigre,2
+2009-02,Metric,3
+2009-02,Mirah,1
+2009-02,Pixies,11
+2009-02,Rilo Kiley,2
+2009-02,Sleater-Kinney,50
+2009-02,Sufjan Stevens,23
+2009-02,Tegan And Sara,20
+2009-02,The Sound Explosion,0
+2009-02,The White Stripes,10
+2009-02,Yeah Yeah Yeahs,26
+2009-03,Belle And Sebastian,9
+2009-03,Broken Social Scene,12
+2009-03,Camera Obscura,14
+2009-03,Cat Power,91
+2009-03,Elliott Smith,69
+2009-03,Emily Haines & The Soft Skeleton,8
+2009-03,Feist,5
+2009-03,Forget Cassettes,7
+2009-03,Jenny Owen Youngs,10
+2009-03,Le Tigre,13
+2009-03,Metric,6
+2009-03,Mirah,13
+2009-03,Pixies,15
+2009-03,Rilo Kiley,18
+2009-03,Sleater-Kinney,76
+2009-03,Sufjan Stevens,39
+2009-03,Tegan And Sara,39
+2009-03,The Sound Explosion,4
+2009-03,The White Stripes,7
+2009-03,Yeah Yeah Yeahs,42
+2009-04,Belle And Sebastian,3
+2009-04,Broken Social Scene,5
+2009-04,Camera Obscura,33
+2009-04,Cat Power,41
+2009-04,Elliott Smith,12
+2009-04,Emily Haines & The Soft Skeleton,8
+2009-04,Feist,2
+2009-04,Forget Cassettes,1
+2009-04,Jenny Owen Youngs,2
+2009-04,Le Tigre,4
+2009-04,Metric,0
+2009-04,Mirah,35
+2009-04,Pixies,4
+2009-04,Rilo Kiley,8
+2009-04,Sleater-Kinney,17
+2009-04,Sufjan Stevens,12
+2009-04,Tegan And Sara,7
+2009-04,The Sound Explosion,3
+2009-04,The White Stripes,10
+2009-04,Yeah Yeah Yeahs,35
+2009-05,Belle And Sebastian,23
+2009-05,Broken Social Scene,2
+2009-05,Camera Obscura,141
+2009-05,Cat Power,163
+2009-05,Elliott Smith,8
+2009-05,Emily Haines & The Soft Skeleton,11
+2009-05,Feist,2
+2009-05,Forget Cassettes,1
+2009-05,Jenny Owen Youngs,10
+2009-05,Le Tigre,1
+2009-05,Metric,0
+2009-05,Mirah,68
+2009-05,Pixies,4
+2009-05,Rilo Kiley,8
+2009-05,Sleater-Kinney,16
+2009-05,Sufjan Stevens,3
+2009-05,Tegan And Sara,0
+2009-05,The Sound Explosion,1
+2009-05,The White Stripes,68
+2009-05,Yeah Yeah Yeahs,8
+2009-06,Belle And Sebastian,0
+2009-06,Broken Social Scene,0
+2009-06,Camera Obscura,41
+2009-06,Cat Power,33
+2009-06,Elliott Smith,0
+2009-06,Emily Haines & The Soft Skeleton,1
+2009-06,Feist,1
+2009-06,Forget Cassettes,0
+2009-06,Jenny Owen Youngs,0
+2009-06,Le Tigre,0
+2009-06,Metric,0
+2009-06,Mirah,1
+2009-06,Pixies,19
+2009-06,Rilo Kiley,10
+2009-06,Sleater-Kinney,0
+2009-06,Sufjan Stevens,4
+2009-06,Tegan And Sara,0
+2009-06,The Sound Explosion,0
+2009-06,The White Stripes,1
+2009-06,Yeah Yeah Yeahs,4

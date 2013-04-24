@@ -1,0 +1,741 @@
+month,artist,plays
+2006-03,Alice In Chains,12
+2006-03,Alter Bridge,2
+2006-03,Black Label Society,9
+2006-03,Brides Of Destruction,12
+2006-03,Deftones,2
+2006-03,Devildriver,3
+2006-03,Foo Fighters,4
+2006-03,Guns N' Roses,32
+2006-03,Him,10
+2006-03,Hole,15
+2006-03,In Flames,2
+2006-03,Incubus,51
+2006-03,Killswitch Engage,0
+2006-03,Korn,4
+2006-03,Pantera,24
+2006-03,Sentenced,2
+2006-03,Slipknot,0
+2006-03,Soulfly,30
+2006-03,The Gathering,6
+2006-03,The Smashing Pumpkins,4
+2006-04,Alice In Chains,17
+2006-04,Alter Bridge,8
+2006-04,Black Label Society,32
+2006-04,Brides Of Destruction,10
+2006-04,Deftones,2
+2006-04,Devildriver,3
+2006-04,Foo Fighters,14
+2006-04,Guns N' Roses,44
+2006-04,Him,10
+2006-04,Hole,17
+2006-04,In Flames,3
+2006-04,Incubus,116
+2006-04,Killswitch Engage,0
+2006-04,Korn,17
+2006-04,Pantera,32
+2006-04,Sentenced,124
+2006-04,Slipknot,2
+2006-04,Soulfly,26
+2006-04,The Gathering,15
+2006-04,The Smashing Pumpkins,8
+2006-05,Alice In Chains,11
+2006-05,Alter Bridge,5
+2006-05,Black Label Society,7
+2006-05,Brides Of Destruction,6
+2006-05,Deftones,0
+2006-05,Devildriver,5
+2006-05,Foo Fighters,6
+2006-05,Guns N' Roses,30
+2006-05,Him,2
+2006-05,Hole,7
+2006-05,In Flames,4
+2006-05,Incubus,20
+2006-05,Killswitch Engage,0
+2006-05,Korn,3
+2006-05,Pantera,6
+2006-05,Sentenced,116
+2006-05,Slipknot,0
+2006-05,Soulfly,6
+2006-05,The Gathering,1
+2006-05,The Smashing Pumpkins,2
+2006-06,Alice In Chains,1
+2006-06,Alter Bridge,1
+2006-06,Black Label Society,3
+2006-06,Brides Of Destruction,10
+2006-06,Deftones,0
+2006-06,Devildriver,2
+2006-06,Foo Fighters,2
+2006-06,Guns N' Roses,9
+2006-06,Him,3
+2006-06,Hole,4
+2006-06,In Flames,2
+2006-06,Incubus,21
+2006-06,Killswitch Engage,8
+2006-06,Korn,1
+2006-06,Pantera,5
+2006-06,Sentenced,152
+2006-06,Slipknot,2
+2006-06,Soulfly,6
+2006-06,The Gathering,1
+2006-06,The Smashing Pumpkins,4
+2006-07,Alice In Chains,4
+2006-07,Alter Bridge,4
+2006-07,Black Label Society,24
+2006-07,Brides Of Destruction,10
+2006-07,Deftones,2
+2006-07,Devildriver,3
+2006-07,Foo Fighters,3
+2006-07,Guns N' Roses,13
+2006-07,Him,2
+2006-07,Hole,1
+2006-07,In Flames,1
+2006-07,Incubus,16
+2006-07,Killswitch Engage,20
+2006-07,Korn,10
+2006-07,Pantera,18
+2006-07,Sentenced,66
+2006-07,Slipknot,4
+2006-07,Soulfly,22
+2006-07,The Gathering,6
+2006-07,The Smashing Pumpkins,1
+2006-08,Alice In Chains,10
+2006-08,Alter Bridge,4
+2006-08,Black Label Society,31
+2006-08,Brides Of Destruction,7
+2006-08,Deftones,5
+2006-08,Devildriver,4
+2006-08,Foo Fighters,7
+2006-08,Guns N' Roses,33
+2006-08,Him,5
+2006-08,Hole,5
+2006-08,In Flames,5
+2006-08,Incubus,31
+2006-08,Killswitch Engage,31
+2006-08,Korn,11
+2006-08,Pantera,48
+2006-08,Sentenced,81
+2006-08,Slipknot,9
+2006-08,Soulfly,26
+2006-08,The Gathering,11
+2006-08,The Smashing Pumpkins,3
+2006-09,Alice In Chains,18
+2006-09,Alter Bridge,3
+2006-09,Black Label Society,10
+2006-09,Brides Of Destruction,1
+2006-09,Deftones,1
+2006-09,Devildriver,5
+2006-09,Foo Fighters,3
+2006-09,Guns N' Roses,7
+2006-09,Him,1
+2006-09,Hole,1
+2006-09,In Flames,3
+2006-09,Incubus,11
+2006-09,Killswitch Engage,60
+2006-09,Korn,4
+2006-09,Pantera,10
+2006-09,Sentenced,109
+2006-09,Slipknot,7
+2006-09,Soulfly,11
+2006-09,The Gathering,3
+2006-09,The Smashing Pumpkins,0
+2006-10,Alice In Chains,5
+2006-10,Alter Bridge,2
+2006-10,Black Label Society,21
+2006-10,Brides Of Destruction,4
+2006-10,Deftones,2
+2006-10,Devildriver,12
+2006-10,Foo Fighters,3
+2006-10,Guns N' Roses,11
+2006-10,Him,2
+2006-10,Hole,2
+2006-10,In Flames,24
+2006-10,Incubus,7
+2006-10,Killswitch Engage,22
+2006-10,Korn,3
+2006-10,Pantera,20
+2006-10,Sentenced,77
+2006-10,Slipknot,3
+2006-10,Soulfly,7
+2006-10,The Gathering,6
+2006-10,The Smashing Pumpkins,3
+2006-11,Alice In Chains,15
+2006-11,Alter Bridge,8
+2006-11,Black Label Society,25
+2006-11,Brides Of Destruction,4
+2006-11,Deftones,2
+2006-11,Devildriver,4
+2006-11,Foo Fighters,2
+2006-11,Guns N' Roses,15
+2006-11,Him,4
+2006-11,Hole,5
+2006-11,In Flames,125
+2006-11,Incubus,30
+2006-11,Killswitch Engage,36
+2006-11,Korn,4
+2006-11,Pantera,18
+2006-11,Sentenced,81
+2006-11,Slipknot,4
+2006-11,Soulfly,8
+2006-11,The Gathering,4
+2006-11,The Smashing Pumpkins,3
+2006-12,Alice In Chains,2
+2006-12,Alter Bridge,4
+2006-12,Black Label Society,15
+2006-12,Brides Of Destruction,3
+2006-12,Deftones,3
+2006-12,Devildriver,5
+2006-12,Foo Fighters,3
+2006-12,Guns N' Roses,13
+2006-12,Him,7
+2006-12,Hole,2
+2006-12,In Flames,89
+2006-12,Incubus,45
+2006-12,Killswitch Engage,46
+2006-12,Korn,4
+2006-12,Pantera,18
+2006-12,Sentenced,90
+2006-12,Slipknot,4
+2006-12,Soulfly,12
+2006-12,The Gathering,5
+2006-12,The Smashing Pumpkins,6
+2007-01,Alice In Chains,3
+2007-01,Alter Bridge,4
+2007-01,Black Label Society,19
+2007-01,Brides Of Destruction,1
+2007-01,Deftones,10
+2007-01,Devildriver,2
+2007-01,Foo Fighters,4
+2007-01,Guns N' Roses,8
+2007-01,Him,1
+2007-01,Hole,1
+2007-01,In Flames,36
+2007-01,Incubus,24
+2007-01,Killswitch Engage,23
+2007-01,Korn,4
+2007-01,Pantera,18
+2007-01,Sentenced,49
+2007-01,Slipknot,6
+2007-01,Soulfly,9
+2007-01,The Gathering,3
+2007-01,The Smashing Pumpkins,5
+2007-02,Alice In Chains,4
+2007-02,Alter Bridge,1
+2007-02,Black Label Society,7
+2007-02,Brides Of Destruction,0
+2007-02,Deftones,2
+2007-02,Devildriver,1
+2007-02,Foo Fighters,1
+2007-02,Guns N' Roses,3
+2007-02,Him,0
+2007-02,Hole,1
+2007-02,In Flames,13
+2007-02,Incubus,19
+2007-02,Killswitch Engage,22
+2007-02,Korn,6
+2007-02,Pantera,4
+2007-02,Sentenced,53
+2007-02,Slipknot,2
+2007-02,Soulfly,2
+2007-02,The Gathering,2
+2007-02,The Smashing Pumpkins,1
+2007-03,Alice In Chains,10
+2007-03,Alter Bridge,4
+2007-03,Black Label Society,12
+2007-03,Brides Of Destruction,2
+2007-03,Deftones,7
+2007-03,Devildriver,1
+2007-03,Foo Fighters,4
+2007-03,Guns N' Roses,12
+2007-03,Him,2
+2007-03,Hole,4
+2007-03,In Flames,21
+2007-03,Incubus,52
+2007-03,Killswitch Engage,44
+2007-03,Korn,5
+2007-03,Pantera,12
+2007-03,Sentenced,71
+2007-03,Slipknot,7
+2007-03,Soulfly,9
+2007-03,The Gathering,5
+2007-03,The Smashing Pumpkins,3
+2007-04,Alice In Chains,1
+2007-04,Alter Bridge,0
+2007-04,Black Label Society,7
+2007-04,Brides Of Destruction,2
+2007-04,Deftones,7
+2007-04,Devildriver,4
+2007-04,Foo Fighters,4
+2007-04,Guns N' Roses,13
+2007-04,Him,3
+2007-04,Hole,3
+2007-04,In Flames,18
+2007-04,Incubus,50
+2007-04,Killswitch Engage,26
+2007-04,Korn,3
+2007-04,Pantera,11
+2007-04,Sentenced,51
+2007-04,Slipknot,6
+2007-04,Soulfly,15
+2007-04,The Gathering,4
+2007-04,The Smashing Pumpkins,5
+2007-05,Alice In Chains,2
+2007-05,Alter Bridge,2
+2007-05,Black Label Society,4
+2007-05,Brides Of Destruction,1
+2007-05,Deftones,2
+2007-05,Devildriver,1
+2007-05,Foo Fighters,3
+2007-05,Guns N' Roses,9
+2007-05,Him,2
+2007-05,Hole,3
+2007-05,In Flames,20
+2007-05,Incubus,20
+2007-05,Killswitch Engage,14
+2007-05,Korn,8
+2007-05,Pantera,8
+2007-05,Sentenced,19
+2007-05,Slipknot,3
+2007-05,Soulfly,12
+2007-05,The Gathering,46
+2007-05,The Smashing Pumpkins,1
+2007-06,Alice In Chains,8
+2007-06,Alter Bridge,2
+2007-06,Black Label Society,10
+2007-06,Brides Of Destruction,1
+2007-06,Deftones,1
+2007-06,Devildriver,1
+2007-06,Foo Fighters,0
+2007-06,Guns N' Roses,5
+2007-06,Him,0
+2007-06,Hole,2
+2007-06,In Flames,9
+2007-06,Incubus,12
+2007-06,Killswitch Engage,9
+2007-06,Korn,6
+2007-06,Pantera,4
+2007-06,Sentenced,50
+2007-06,Slipknot,17
+2007-06,Soulfly,5
+2007-06,The Gathering,6
+2007-06,The Smashing Pumpkins,2
+2007-07,Alice In Chains,8
+2007-07,Alter Bridge,3
+2007-07,Black Label Society,18
+2007-07,Brides Of Destruction,5
+2007-07,Deftones,3
+2007-07,Devildriver,3
+2007-07,Foo Fighters,0
+2007-07,Guns N' Roses,23
+2007-07,Him,3
+2007-07,Hole,4
+2007-07,In Flames,21
+2007-07,Incubus,42
+2007-07,Killswitch Engage,15
+2007-07,Korn,5
+2007-07,Pantera,24
+2007-07,Sentenced,38
+2007-07,Slipknot,107
+2007-07,Soulfly,8
+2007-07,The Gathering,16
+2007-07,The Smashing Pumpkins,5
+2007-08,Alice In Chains,7
+2007-08,Alter Bridge,1
+2007-08,Black Label Society,15
+2007-08,Brides Of Destruction,1
+2007-08,Deftones,3
+2007-08,Devildriver,8
+2007-08,Foo Fighters,2
+2007-08,Guns N' Roses,16
+2007-08,Him,6
+2007-08,Hole,4
+2007-08,In Flames,24
+2007-08,Incubus,31
+2007-08,Killswitch Engage,42
+2007-08,Korn,8
+2007-08,Pantera,11
+2007-08,Sentenced,41
+2007-08,Slipknot,11
+2007-08,Soulfly,10
+2007-08,The Gathering,13
+2007-08,The Smashing Pumpkins,3
+2007-09,Alice In Chains,4
+2007-09,Alter Bridge,1
+2007-09,Black Label Society,7
+2007-09,Brides Of Destruction,3
+2007-09,Deftones,1
+2007-09,Devildriver,1
+2007-09,Foo Fighters,3
+2007-09,Guns N' Roses,7
+2007-09,Him,180
+2007-09,Hole,1
+2007-09,In Flames,28
+2007-09,Incubus,17
+2007-09,Killswitch Engage,10
+2007-09,Korn,2
+2007-09,Pantera,5
+2007-09,Sentenced,31
+2007-09,Slipknot,4
+2007-09,Soulfly,5
+2007-09,The Gathering,2
+2007-09,The Smashing Pumpkins,2
+2007-10,Alice In Chains,12
+2007-10,Alter Bridge,4
+2007-10,Black Label Society,11
+2007-10,Brides Of Destruction,1
+2007-10,Deftones,4
+2007-10,Devildriver,3
+2007-10,Foo Fighters,3
+2007-10,Guns N' Roses,9
+2007-10,Him,110
+2007-10,Hole,5
+2007-10,In Flames,31
+2007-10,Incubus,20
+2007-10,Killswitch Engage,12
+2007-10,Korn,4
+2007-10,Pantera,10
+2007-10,Sentenced,24
+2007-10,Slipknot,8
+2007-10,Soulfly,6
+2007-10,The Gathering,5
+2007-10,The Smashing Pumpkins,5
+2007-11,Alice In Chains,14
+2007-11,Alter Bridge,4
+2007-11,Black Label Society,11
+2007-11,Brides Of Destruction,2
+2007-11,Deftones,2
+2007-11,Devildriver,3
+2007-11,Foo Fighters,15
+2007-11,Guns N' Roses,19
+2007-11,Him,106
+2007-11,Hole,2
+2007-11,In Flames,27
+2007-11,Incubus,23
+2007-11,Killswitch Engage,17
+2007-11,Korn,5
+2007-11,Pantera,8
+2007-11,Sentenced,32
+2007-11,Slipknot,12
+2007-11,Soulfly,8
+2007-11,The Gathering,8
+2007-11,The Smashing Pumpkins,7
+2007-12,Alice In Chains,11
+2007-12,Alter Bridge,4
+2007-12,Black Label Society,10
+2007-12,Brides Of Destruction,2
+2007-12,Deftones,1
+2007-12,Devildriver,6
+2007-12,Foo Fighters,11
+2007-12,Guns N' Roses,11
+2007-12,Him,41
+2007-12,Hole,3
+2007-12,In Flames,19
+2007-12,Incubus,25
+2007-12,Killswitch Engage,9
+2007-12,Korn,8
+2007-12,Pantera,6
+2007-12,Sentenced,21
+2007-12,Slipknot,10
+2007-12,Soulfly,6
+2007-12,The Gathering,7
+2007-12,The Smashing Pumpkins,3
+2008-01,Alice In Chains,7
+2008-01,Alter Bridge,21
+2008-01,Black Label Society,6
+2008-01,Brides Of Destruction,1
+2008-01,Deftones,2
+2008-01,Devildriver,1
+2008-01,Foo Fighters,1
+2008-01,Guns N' Roses,3
+2008-01,Him,20
+2008-01,Hole,1
+2008-01,In Flames,58
+2008-01,Incubus,5
+2008-01,Killswitch Engage,5
+2008-01,Korn,1
+2008-01,Pantera,7
+2008-01,Sentenced,25
+2008-01,Slipknot,1
+2008-01,Soulfly,3
+2008-01,The Gathering,0
+2008-01,The Smashing Pumpkins,2
+2008-02,Alice In Chains,7
+2008-02,Alter Bridge,5
+2008-02,Black Label Society,3
+2008-02,Brides Of Destruction,1
+2008-02,Deftones,1
+2008-02,Devildriver,3
+2008-02,Foo Fighters,2
+2008-02,Guns N' Roses,10
+2008-02,Him,16
+2008-02,Hole,2
+2008-02,In Flames,13
+2008-02,Incubus,14
+2008-02,Killswitch Engage,11
+2008-02,Korn,3
+2008-02,Pantera,4
+2008-02,Sentenced,25
+2008-02,Slipknot,2
+2008-02,Soulfly,1
+2008-02,The Gathering,6
+2008-02,The Smashing Pumpkins,4
+2008-03,Alice In Chains,16
+2008-03,Alter Bridge,9
+2008-03,Black Label Society,15
+2008-03,Brides Of Destruction,3
+2008-03,Deftones,3
+2008-03,Devildriver,2
+2008-03,Foo Fighters,6
+2008-03,Guns N' Roses,7
+2008-03,Him,214
+2008-03,Hole,5
+2008-03,In Flames,99
+2008-03,Incubus,36
+2008-03,Killswitch Engage,21
+2008-03,Korn,5
+2008-03,Pantera,16
+2008-03,Sentenced,30
+2008-03,Slipknot,18
+2008-03,Soulfly,5
+2008-03,The Gathering,7
+2008-03,The Smashing Pumpkins,5
+2008-04,Alice In Chains,5
+2008-04,Alter Bridge,6
+2008-04,Black Label Society,10
+2008-04,Brides Of Destruction,2
+2008-04,Deftones,2
+2008-04,Devildriver,1
+2008-04,Foo Fighters,8
+2008-04,Guns N' Roses,10
+2008-04,Him,55
+2008-04,Hole,1
+2008-04,In Flames,153
+2008-04,Incubus,13
+2008-04,Killswitch Engage,11
+2008-04,Korn,7
+2008-04,Pantera,12
+2008-04,Sentenced,19
+2008-04,Slipknot,7
+2008-04,Soulfly,5
+2008-04,The Gathering,3
+2008-04,The Smashing Pumpkins,1
+2008-05,Alice In Chains,0
+2008-05,Alter Bridge,0
+2008-05,Black Label Society,0
+2008-05,Brides Of Destruction,0
+2008-05,Deftones,0
+2008-05,Devildriver,0
+2008-05,Foo Fighters,0
+2008-05,Guns N' Roses,0
+2008-05,Him,0
+2008-05,Hole,0
+2008-05,In Flames,0
+2008-05,Incubus,0
+2008-05,Killswitch Engage,0
+2008-05,Korn,0
+2008-05,Pantera,0
+2008-05,Sentenced,0
+2008-05,Slipknot,0
+2008-05,Soulfly,0
+2008-05,The Gathering,0
+2008-05,The Smashing Pumpkins,0
+2008-06,Alice In Chains,0
+2008-06,Alter Bridge,0
+2008-06,Black Label Society,0
+2008-06,Brides Of Destruction,0
+2008-06,Deftones,0
+2008-06,Devildriver,0
+2008-06,Foo Fighters,0
+2008-06,Guns N' Roses,0
+2008-06,Him,0
+2008-06,Hole,0
+2008-06,In Flames,0
+2008-06,Incubus,0
+2008-06,Killswitch Engage,0
+2008-06,Korn,0
+2008-06,Pantera,0
+2008-06,Sentenced,0
+2008-06,Slipknot,0
+2008-06,Soulfly,0
+2008-06,The Gathering,0
+2008-06,The Smashing Pumpkins,0
+2008-07,Alice In Chains,0
+2008-07,Alter Bridge,0
+2008-07,Black Label Society,0
+2008-07,Brides Of Destruction,0
+2008-07,Deftones,0
+2008-07,Devildriver,0
+2008-07,Foo Fighters,0
+2008-07,Guns N' Roses,0
+2008-07,Him,0
+2008-07,Hole,0
+2008-07,In Flames,0
+2008-07,Incubus,0
+2008-07,Killswitch Engage,0
+2008-07,Korn,0
+2008-07,Pantera,0
+2008-07,Sentenced,0
+2008-07,Slipknot,0
+2008-07,Soulfly,0
+2008-07,The Gathering,0
+2008-07,The Smashing Pumpkins,0
+2008-08,Alice In Chains,0
+2008-08,Alter Bridge,3
+2008-08,Black Label Society,3
+2008-08,Brides Of Destruction,1
+2008-08,Deftones,1
+2008-08,Devildriver,1
+2008-08,Foo Fighters,4
+2008-08,Guns N' Roses,4
+2008-08,Him,26
+2008-08,Hole,1
+2008-08,In Flames,46
+2008-08,Incubus,12
+2008-08,Killswitch Engage,19
+2008-08,Korn,4
+2008-08,Pantera,4
+2008-08,Sentenced,14
+2008-08,Slipknot,47
+2008-08,Soulfly,2
+2008-08,The Gathering,3
+2008-08,The Smashing Pumpkins,0
+2008-09,Alice In Chains,31
+2008-09,Alter Bridge,7
+2008-09,Black Label Society,8
+2008-09,Brides Of Destruction,1
+2008-09,Deftones,3
+2008-09,Devildriver,4
+2008-09,Foo Fighters,5
+2008-09,Guns N' Roses,13
+2008-09,Him,54
+2008-09,Hole,3
+2008-09,In Flames,46
+2008-09,Incubus,48
+2008-09,Killswitch Engage,12
+2008-09,Korn,3
+2008-09,Pantera,5
+2008-09,Sentenced,14
+2008-09,Slipknot,112
+2008-09,Soulfly,3
+2008-09,The Gathering,3
+2008-09,The Smashing Pumpkins,30
+2008-10,Alice In Chains,5
+2008-10,Alter Bridge,5
+2008-10,Black Label Society,5
+2008-10,Brides Of Destruction,3
+2008-10,Deftones,1
+2008-10,Devildriver,3
+2008-10,Foo Fighters,4
+2008-10,Guns N' Roses,0
+2008-10,Him,53
+2008-10,Hole,8
+2008-10,In Flames,67
+2008-10,Incubus,61
+2008-10,Killswitch Engage,19
+2008-10,Korn,0
+2008-10,Pantera,3
+2008-10,Sentenced,15
+2008-10,Slipknot,59
+2008-10,Soulfly,4
+2008-10,The Gathering,10
+2008-10,The Smashing Pumpkins,11
+2008-11,Alice In Chains,4
+2008-11,Alter Bridge,3
+2008-11,Black Label Society,7
+2008-11,Brides Of Destruction,1
+2008-11,Deftones,1
+2008-11,Devildriver,3
+2008-11,Foo Fighters,2
+2008-11,Guns N' Roses,3
+2008-11,Him,21
+2008-11,Hole,5
+2008-11,In Flames,42
+2008-11,Incubus,21
+2008-11,Killswitch Engage,6
+2008-11,Korn,4
+2008-11,Pantera,5
+2008-11,Sentenced,11
+2008-11,Slipknot,33
+2008-11,Soulfly,4
+2008-11,The Gathering,4
+2008-11,The Smashing Pumpkins,6
+2008-12,Alice In Chains,3
+2008-12,Alter Bridge,7
+2008-12,Black Label Society,1
+2008-12,Brides Of Destruction,2
+2008-12,Deftones,1
+2008-12,Devildriver,0
+2008-12,Foo Fighters,2
+2008-12,Guns N' Roses,1
+2008-12,Him,9
+2008-12,Hole,0
+2008-12,In Flames,12
+2008-12,Incubus,15
+2008-12,Killswitch Engage,6
+2008-12,Korn,1
+2008-12,Pantera,1
+2008-12,Sentenced,1
+2008-12,Slipknot,9
+2008-12,Soulfly,1
+2008-12,The Gathering,1
+2008-12,The Smashing Pumpkins,1
+2009-01,Alice In Chains,0
+2009-01,Alter Bridge,2
+2009-01,Black Label Society,2
+2009-01,Brides Of Destruction,1
+2009-01,Deftones,0
+2009-01,Devildriver,1
+2009-01,Foo Fighters,1
+2009-01,Guns N' Roses,1
+2009-01,Him,5
+2009-01,Hole,1
+2009-01,In Flames,29
+2009-01,Incubus,30
+2009-01,Killswitch Engage,3
+2009-01,Korn,1
+2009-01,Pantera,1
+2009-01,Sentenced,3
+2009-01,Slipknot,6
+2009-01,Soulfly,1
+2009-01,The Gathering,1
+2009-01,The Smashing Pumpkins,1
+2009-02,Alice In Chains,0
+2009-02,Alter Bridge,2
+2009-02,Black Label Society,1
+2009-02,Brides Of Destruction,0
+2009-02,Deftones,0
+2009-02,Devildriver,0
+2009-02,Foo Fighters,1
+2009-02,Guns N' Roses,0
+2009-02,Him,2
+2009-02,Hole,0
+2009-02,In Flames,9
+2009-02,Incubus,7
+2009-02,Killswitch Engage,0
+2009-02,Korn,0
+2009-02,Pantera,0
+2009-02,Sentenced,8
+2009-02,Slipknot,1
+2009-02,Soulfly,0
+2009-02,The Gathering,0
+2009-02,The Smashing Pumpkins,1
+2009-03,Alice In Chains,0
+2009-03,Alter Bridge,0
+2009-03,Black Label Society,0
+2009-03,Brides Of Destruction,0
+2009-03,Deftones,0
+2009-03,Devildriver,1
+2009-03,Foo Fighters,0
+2009-03,Guns N' Roses,0
+2009-03,Him,0
+2009-03,Hole,0
+2009-03,In Flames,0
+2009-03,Incubus,0
+2009-03,Killswitch Engage,0
+2009-03,Korn,0
+2009-03,Pantera,0
+2009-03,Sentenced,1
+2009-03,Slipknot,0
+2009-03,Soulfly,0
+2009-03,The Gathering,0
+2009-03,The Smashing Pumpkins,0

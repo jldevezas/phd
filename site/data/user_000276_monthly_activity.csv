@@ -1,0 +1,561 @@
+month,artist,plays
+2007-01,Anouar Brahem,2
+2007-01,Black Rebel Motorcycle Club,132
+2007-01,Blue Mitchell,5
+2007-01,Creedence Clearwater Revisited,0
+2007-01,Eumir Deodato,0
+2007-01,Gyöngyös,0
+2007-01,Hank Williams Iii,0
+2007-01,Hank Williams, Jr.,0
+2007-01,Iggy Pop,229
+2007-01,Johnny Cash,0
+2007-01,Johnny Paycheck,0
+2007-01,Pan Sonic,0
+2007-01,Stonewall Jackson,0
+2007-01,The Dandy Warhols,22
+2007-01,The Doors,14
+2007-01,The Marshall Tucker Band,0
+2007-01,The Rolling Stones,0
+2007-01,The Sisters Of Mercy,0
+2007-01,The Stooges,143
+2007-01,Waylon Jennings,0
+2007-02,Anouar Brahem,0
+2007-02,Black Rebel Motorcycle Club,4
+2007-02,Blue Mitchell,0
+2007-02,Creedence Clearwater Revisited,0
+2007-02,Eumir Deodato,41
+2007-02,Gyöngyös,0
+2007-02,Hank Williams Iii,0
+2007-02,Hank Williams, Jr.,0
+2007-02,Iggy Pop,52
+2007-02,Johnny Cash,0
+2007-02,Johnny Paycheck,0
+2007-02,Pan Sonic,139
+2007-02,Stonewall Jackson,0
+2007-02,The Dandy Warhols,0
+2007-02,The Doors,37
+2007-02,The Marshall Tucker Band,0
+2007-02,The Rolling Stones,0
+2007-02,The Sisters Of Mercy,1
+2007-02,The Stooges,133
+2007-02,Waylon Jennings,0
+2007-03,Anouar Brahem,0
+2007-03,Black Rebel Motorcycle Club,30
+2007-03,Blue Mitchell,4
+2007-03,Creedence Clearwater Revisited,3
+2007-03,Eumir Deodato,58
+2007-03,Gyöngyös,0
+2007-03,Hank Williams Iii,0
+2007-03,Hank Williams, Jr.,0
+2007-03,Iggy Pop,83
+2007-03,Johnny Cash,0
+2007-03,Johnny Paycheck,0
+2007-03,Pan Sonic,106
+2007-03,Stonewall Jackson,0
+2007-03,The Dandy Warhols,1
+2007-03,The Doors,0
+2007-03,The Marshall Tucker Band,0
+2007-03,The Rolling Stones,2
+2007-03,The Sisters Of Mercy,37
+2007-03,The Stooges,48
+2007-03,Waylon Jennings,0
+2007-04,Anouar Brahem,2
+2007-04,Black Rebel Motorcycle Club,21
+2007-04,Blue Mitchell,24
+2007-04,Creedence Clearwater Revisited,12
+2007-04,Eumir Deodato,23
+2007-04,Gyöngyös,0
+2007-04,Hank Williams Iii,0
+2007-04,Hank Williams, Jr.,0
+2007-04,Iggy Pop,13
+2007-04,Johnny Cash,0
+2007-04,Johnny Paycheck,0
+2007-04,Pan Sonic,34
+2007-04,Stonewall Jackson,0
+2007-04,The Dandy Warhols,0
+2007-04,The Doors,2
+2007-04,The Marshall Tucker Band,0
+2007-04,The Rolling Stones,2
+2007-04,The Sisters Of Mercy,6
+2007-04,The Stooges,70
+2007-04,Waylon Jennings,0
+2007-05,Anouar Brahem,2
+2007-05,Black Rebel Motorcycle Club,18
+2007-05,Blue Mitchell,1
+2007-05,Creedence Clearwater Revisited,42
+2007-05,Eumir Deodato,0
+2007-05,Gyöngyös,123
+2007-05,Hank Williams Iii,0
+2007-05,Hank Williams, Jr.,0
+2007-05,Iggy Pop,49
+2007-05,Johnny Cash,0
+2007-05,Johnny Paycheck,0
+2007-05,Pan Sonic,0
+2007-05,Stonewall Jackson,0
+2007-05,The Dandy Warhols,2
+2007-05,The Doors,0
+2007-05,The Marshall Tucker Band,0
+2007-05,The Rolling Stones,8
+2007-05,The Sisters Of Mercy,11
+2007-05,The Stooges,344
+2007-05,Waylon Jennings,0
+2007-06,Anouar Brahem,45
+2007-06,Black Rebel Motorcycle Club,4
+2007-06,Blue Mitchell,1
+2007-06,Creedence Clearwater Revisited,0
+2007-06,Eumir Deodato,6
+2007-06,Gyöngyös,21
+2007-06,Hank Williams Iii,0
+2007-06,Hank Williams, Jr.,1
+2007-06,Iggy Pop,16
+2007-06,Johnny Cash,149
+2007-06,Johnny Paycheck,0
+2007-06,Pan Sonic,88
+2007-06,Stonewall Jackson,0
+2007-06,The Dandy Warhols,2
+2007-06,The Doors,21
+2007-06,The Marshall Tucker Band,0
+2007-06,The Rolling Stones,0
+2007-06,The Sisters Of Mercy,0
+2007-06,The Stooges,130
+2007-06,Waylon Jennings,2
+2007-07,Anouar Brahem,1
+2007-07,Black Rebel Motorcycle Club,0
+2007-07,Blue Mitchell,0
+2007-07,Creedence Clearwater Revisited,0
+2007-07,Eumir Deodato,22
+2007-07,Gyöngyös,2
+2007-07,Hank Williams Iii,0
+2007-07,Hank Williams, Jr.,0
+2007-07,Iggy Pop,100
+2007-07,Johnny Cash,9
+2007-07,Johnny Paycheck,0
+2007-07,Pan Sonic,5
+2007-07,Stonewall Jackson,0
+2007-07,The Dandy Warhols,36
+2007-07,The Doors,2
+2007-07,The Marshall Tucker Band,0
+2007-07,The Rolling Stones,0
+2007-07,The Sisters Of Mercy,5
+2007-07,The Stooges,12
+2007-07,Waylon Jennings,0
+2007-08,Anouar Brahem,1
+2007-08,Black Rebel Motorcycle Club,0
+2007-08,Blue Mitchell,0
+2007-08,Creedence Clearwater Revisited,26
+2007-08,Eumir Deodato,0
+2007-08,Gyöngyös,1
+2007-08,Hank Williams Iii,0
+2007-08,Hank Williams, Jr.,0
+2007-08,Iggy Pop,28
+2007-08,Johnny Cash,47
+2007-08,Johnny Paycheck,0
+2007-08,Pan Sonic,0
+2007-08,Stonewall Jackson,0
+2007-08,The Dandy Warhols,5
+2007-08,The Doors,4
+2007-08,The Marshall Tucker Band,0
+2007-08,The Rolling Stones,0
+2007-08,The Sisters Of Mercy,2
+2007-08,The Stooges,0
+2007-08,Waylon Jennings,0
+2007-09,Anouar Brahem,1
+2007-09,Black Rebel Motorcycle Club,40
+2007-09,Blue Mitchell,0
+2007-09,Creedence Clearwater Revisited,3
+2007-09,Eumir Deodato,0
+2007-09,Gyöngyös,6
+2007-09,Hank Williams Iii,3
+2007-09,Hank Williams, Jr.,69
+2007-09,Iggy Pop,1
+2007-09,Johnny Cash,49
+2007-09,Johnny Paycheck,0
+2007-09,Pan Sonic,0
+2007-09,Stonewall Jackson,170
+2007-09,The Dandy Warhols,3
+2007-09,The Doors,28
+2007-09,The Marshall Tucker Band,0
+2007-09,The Rolling Stones,0
+2007-09,The Sisters Of Mercy,0
+2007-09,The Stooges,11
+2007-09,Waylon Jennings,0
+2007-10,Anouar Brahem,0
+2007-10,Black Rebel Motorcycle Club,2
+2007-10,Blue Mitchell,2
+2007-10,Creedence Clearwater Revisited,0
+2007-10,Eumir Deodato,1
+2007-10,Gyöngyös,0
+2007-10,Hank Williams Iii,1
+2007-10,Hank Williams, Jr.,272
+2007-10,Iggy Pop,0
+2007-10,Johnny Cash,3
+2007-10,Johnny Paycheck,0
+2007-10,Pan Sonic,0
+2007-10,Stonewall Jackson,101
+2007-10,The Dandy Warhols,0
+2007-10,The Doors,0
+2007-10,The Marshall Tucker Band,0
+2007-10,The Rolling Stones,0
+2007-10,The Sisters Of Mercy,3
+2007-10,The Stooges,0
+2007-10,Waylon Jennings,2
+2007-11,Anouar Brahem,0
+2007-11,Black Rebel Motorcycle Club,0
+2007-11,Blue Mitchell,0
+2007-11,Creedence Clearwater Revisited,0
+2007-11,Eumir Deodato,0
+2007-11,Gyöngyös,0
+2007-11,Hank Williams Iii,225
+2007-11,Hank Williams, Jr.,880
+2007-11,Iggy Pop,1
+2007-11,Johnny Cash,1
+2007-11,Johnny Paycheck,0
+2007-11,Pan Sonic,0
+2007-11,Stonewall Jackson,0
+2007-11,The Dandy Warhols,0
+2007-11,The Doors,0
+2007-11,The Marshall Tucker Band,0
+2007-11,The Rolling Stones,0
+2007-11,The Sisters Of Mercy,0
+2007-11,The Stooges,15
+2007-11,Waylon Jennings,0
+2007-12,Anouar Brahem,0
+2007-12,Black Rebel Motorcycle Club,0
+2007-12,Blue Mitchell,0
+2007-12,Creedence Clearwater Revisited,1
+2007-12,Eumir Deodato,0
+2007-12,Gyöngyös,0
+2007-12,Hank Williams Iii,19
+2007-12,Hank Williams, Jr.,564
+2007-12,Iggy Pop,1
+2007-12,Johnny Cash,0
+2007-12,Johnny Paycheck,0
+2007-12,Pan Sonic,76
+2007-12,Stonewall Jackson,0
+2007-12,The Dandy Warhols,0
+2007-12,The Doors,1
+2007-12,The Marshall Tucker Band,0
+2007-12,The Rolling Stones,0
+2007-12,The Sisters Of Mercy,0
+2007-12,The Stooges,0
+2007-12,Waylon Jennings,5
+2008-01,Anouar Brahem,0
+2008-01,Black Rebel Motorcycle Club,0
+2008-01,Blue Mitchell,0
+2008-01,Creedence Clearwater Revisited,0
+2008-01,Eumir Deodato,0
+2008-01,Gyöngyös,0
+2008-01,Hank Williams Iii,5
+2008-01,Hank Williams, Jr.,263
+2008-01,Iggy Pop,0
+2008-01,Johnny Cash,0
+2008-01,Johnny Paycheck,0
+2008-01,Pan Sonic,0
+2008-01,Stonewall Jackson,14
+2008-01,The Dandy Warhols,0
+2008-01,The Doors,0
+2008-01,The Marshall Tucker Band,0
+2008-01,The Rolling Stones,0
+2008-01,The Sisters Of Mercy,0
+2008-01,The Stooges,0
+2008-01,Waylon Jennings,300
+2008-02,Anouar Brahem,0
+2008-02,Black Rebel Motorcycle Club,0
+2008-02,Blue Mitchell,0
+2008-02,Creedence Clearwater Revisited,0
+2008-02,Eumir Deodato,0
+2008-02,Gyöngyös,0
+2008-02,Hank Williams Iii,5
+2008-02,Hank Williams, Jr.,52
+2008-02,Iggy Pop,0
+2008-02,Johnny Cash,0
+2008-02,Johnny Paycheck,78
+2008-02,Pan Sonic,0
+2008-02,Stonewall Jackson,0
+2008-02,The Dandy Warhols,0
+2008-02,The Doors,0
+2008-02,The Marshall Tucker Band,0
+2008-02,The Rolling Stones,0
+2008-02,The Sisters Of Mercy,0
+2008-02,The Stooges,0
+2008-02,Waylon Jennings,23
+2008-03,Anouar Brahem,0
+2008-03,Black Rebel Motorcycle Club,2
+2008-03,Blue Mitchell,0
+2008-03,Creedence Clearwater Revisited,1
+2008-03,Eumir Deodato,0
+2008-03,Gyöngyös,1
+2008-03,Hank Williams Iii,0
+2008-03,Hank Williams, Jr.,85
+2008-03,Iggy Pop,2
+2008-03,Johnny Cash,0
+2008-03,Johnny Paycheck,6
+2008-03,Pan Sonic,0
+2008-03,Stonewall Jackson,0
+2008-03,The Dandy Warhols,0
+2008-03,The Doors,0
+2008-03,The Marshall Tucker Band,0
+2008-03,The Rolling Stones,0
+2008-03,The Sisters Of Mercy,0
+2008-03,The Stooges,0
+2008-03,Waylon Jennings,0
+2008-04,Anouar Brahem,0
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Blue Mitchell,0
+2008-04,Creedence Clearwater Revisited,0
+2008-04,Eumir Deodato,3
+2008-04,Gyöngyös,0
+2008-04,Hank Williams Iii,3
+2008-04,Hank Williams, Jr.,112
+2008-04,Iggy Pop,0
+2008-04,Johnny Cash,0
+2008-04,Johnny Paycheck,1
+2008-04,Pan Sonic,0
+2008-04,Stonewall Jackson,0
+2008-04,The Dandy Warhols,0
+2008-04,The Doors,0
+2008-04,The Marshall Tucker Band,9
+2008-04,The Rolling Stones,0
+2008-04,The Sisters Of Mercy,0
+2008-04,The Stooges,6
+2008-04,Waylon Jennings,3
+2008-05,Anouar Brahem,0
+2008-05,Black Rebel Motorcycle Club,2
+2008-05,Blue Mitchell,1
+2008-05,Creedence Clearwater Revisited,6
+2008-05,Eumir Deodato,2
+2008-05,Gyöngyös,0
+2008-05,Hank Williams Iii,0
+2008-05,Hank Williams, Jr.,73
+2008-05,Iggy Pop,0
+2008-05,Johnny Cash,1
+2008-05,Johnny Paycheck,13
+2008-05,Pan Sonic,0
+2008-05,Stonewall Jackson,37
+2008-05,The Dandy Warhols,0
+2008-05,The Doors,0
+2008-05,The Marshall Tucker Band,114
+2008-05,The Rolling Stones,0
+2008-05,The Sisters Of Mercy,0
+2008-05,The Stooges,0
+2008-05,Waylon Jennings,3
+2008-06,Anouar Brahem,10
+2008-06,Black Rebel Motorcycle Club,0
+2008-06,Blue Mitchell,0
+2008-06,Creedence Clearwater Revisited,0
+2008-06,Eumir Deodato,0
+2008-06,Gyöngyös,0
+2008-06,Hank Williams Iii,0
+2008-06,Hank Williams, Jr.,9
+2008-06,Iggy Pop,0
+2008-06,Johnny Cash,0
+2008-06,Johnny Paycheck,0
+2008-06,Pan Sonic,1
+2008-06,Stonewall Jackson,0
+2008-06,The Dandy Warhols,0
+2008-06,The Doors,1
+2008-06,The Marshall Tucker Band,35
+2008-06,The Rolling Stones,1
+2008-06,The Sisters Of Mercy,0
+2008-06,The Stooges,0
+2008-06,Waylon Jennings,185
+2008-07,Anouar Brahem,0
+2008-07,Black Rebel Motorcycle Club,0
+2008-07,Blue Mitchell,0
+2008-07,Creedence Clearwater Revisited,0
+2008-07,Eumir Deodato,0
+2008-07,Gyöngyös,0
+2008-07,Hank Williams Iii,0
+2008-07,Hank Williams, Jr.,2
+2008-07,Iggy Pop,0
+2008-07,Johnny Cash,0
+2008-07,Johnny Paycheck,12
+2008-07,Pan Sonic,0
+2008-07,Stonewall Jackson,37
+2008-07,The Dandy Warhols,0
+2008-07,The Doors,0
+2008-07,The Marshall Tucker Band,8
+2008-07,The Rolling Stones,0
+2008-07,The Sisters Of Mercy,0
+2008-07,The Stooges,0
+2008-07,Waylon Jennings,56
+2008-08,Anouar Brahem,0
+2008-08,Black Rebel Motorcycle Club,0
+2008-08,Blue Mitchell,1
+2008-08,Creedence Clearwater Revisited,0
+2008-08,Eumir Deodato,2
+2008-08,Gyöngyös,0
+2008-08,Hank Williams Iii,0
+2008-08,Hank Williams, Jr.,2
+2008-08,Iggy Pop,1
+2008-08,Johnny Cash,0
+2008-08,Johnny Paycheck,10
+2008-08,Pan Sonic,0
+2008-08,Stonewall Jackson,9
+2008-08,The Dandy Warhols,0
+2008-08,The Doors,0
+2008-08,The Marshall Tucker Band,7
+2008-08,The Rolling Stones,1
+2008-08,The Sisters Of Mercy,4
+2008-08,The Stooges,0
+2008-08,Waylon Jennings,36
+2008-09,Anouar Brahem,1
+2008-09,Black Rebel Motorcycle Club,0
+2008-09,Blue Mitchell,0
+2008-09,Creedence Clearwater Revisited,0
+2008-09,Eumir Deodato,0
+2008-09,Gyöngyös,0
+2008-09,Hank Williams Iii,0
+2008-09,Hank Williams, Jr.,4
+2008-09,Iggy Pop,0
+2008-09,Johnny Cash,0
+2008-09,Johnny Paycheck,13
+2008-09,Pan Sonic,0
+2008-09,Stonewall Jackson,0
+2008-09,The Dandy Warhols,0
+2008-09,The Doors,0
+2008-09,The Marshall Tucker Band,0
+2008-09,The Rolling Stones,0
+2008-09,The Sisters Of Mercy,0
+2008-09,The Stooges,0
+2008-09,Waylon Jennings,11
+2008-10,Anouar Brahem,0
+2008-10,Black Rebel Motorcycle Club,1
+2008-10,Blue Mitchell,0
+2008-10,Creedence Clearwater Revisited,1
+2008-10,Eumir Deodato,0
+2008-10,Gyöngyös,0
+2008-10,Hank Williams Iii,1
+2008-10,Hank Williams, Jr.,5
+2008-10,Iggy Pop,0
+2008-10,Johnny Cash,0
+2008-10,Johnny Paycheck,0
+2008-10,Pan Sonic,0
+2008-10,Stonewall Jackson,0
+2008-10,The Dandy Warhols,0
+2008-10,The Doors,0
+2008-10,The Marshall Tucker Band,0
+2008-10,The Rolling Stones,3
+2008-10,The Sisters Of Mercy,0
+2008-10,The Stooges,0
+2008-10,Waylon Jennings,97
+2008-11,Anouar Brahem,0
+2008-11,Black Rebel Motorcycle Club,0
+2008-11,Blue Mitchell,0
+2008-11,Creedence Clearwater Revisited,0
+2008-11,Eumir Deodato,0
+2008-11,Gyöngyös,0
+2008-11,Hank Williams Iii,0
+2008-11,Hank Williams, Jr.,3
+2008-11,Iggy Pop,0
+2008-11,Johnny Cash,0
+2008-11,Johnny Paycheck,0
+2008-11,Pan Sonic,0
+2008-11,Stonewall Jackson,0
+2008-11,The Dandy Warhols,6
+2008-11,The Doors,0
+2008-11,The Marshall Tucker Band,0
+2008-11,The Rolling Stones,0
+2008-11,The Sisters Of Mercy,0
+2008-11,The Stooges,0
+2008-11,Waylon Jennings,73
+2008-12,Anouar Brahem,0
+2008-12,Black Rebel Motorcycle Club,7
+2008-12,Blue Mitchell,0
+2008-12,Creedence Clearwater Revisited,0
+2008-12,Eumir Deodato,0
+2008-12,Gyöngyös,0
+2008-12,Hank Williams Iii,0
+2008-12,Hank Williams, Jr.,2
+2008-12,Iggy Pop,0
+2008-12,Johnny Cash,0
+2008-12,Johnny Paycheck,1
+2008-12,Pan Sonic,1
+2008-12,Stonewall Jackson,1
+2008-12,The Dandy Warhols,0
+2008-12,The Doors,0
+2008-12,The Marshall Tucker Band,7
+2008-12,The Rolling Stones,0
+2008-12,The Sisters Of Mercy,0
+2008-12,The Stooges,0
+2008-12,Waylon Jennings,0
+2009-01,Anouar Brahem,0
+2009-01,Black Rebel Motorcycle Club,0
+2009-01,Blue Mitchell,1
+2009-01,Creedence Clearwater Revisited,0
+2009-01,Eumir Deodato,0
+2009-01,Gyöngyös,2
+2009-01,Hank Williams Iii,0
+2009-01,Hank Williams, Jr.,5
+2009-01,Iggy Pop,0
+2009-01,Johnny Cash,0
+2009-01,Johnny Paycheck,0
+2009-01,Pan Sonic,1
+2009-01,Stonewall Jackson,0
+2009-01,The Dandy Warhols,0
+2009-01,The Doors,0
+2009-01,The Marshall Tucker Band,6
+2009-01,The Rolling Stones,0
+2009-01,The Sisters Of Mercy,0
+2009-01,The Stooges,0
+2009-01,Waylon Jennings,4
+2009-02,Anouar Brahem,0
+2009-02,Black Rebel Motorcycle Club,0
+2009-02,Blue Mitchell,0
+2009-02,Creedence Clearwater Revisited,0
+2009-02,Eumir Deodato,0
+2009-02,Gyöngyös,0
+2009-02,Hank Williams Iii,0
+2009-02,Hank Williams, Jr.,1
+2009-02,Iggy Pop,0
+2009-02,Johnny Cash,0
+2009-02,Johnny Paycheck,0
+2009-02,Pan Sonic,0
+2009-02,Stonewall Jackson,0
+2009-02,The Dandy Warhols,0
+2009-02,The Doors,5
+2009-02,The Marshall Tucker Band,2
+2009-02,The Rolling Stones,0
+2009-02,The Sisters Of Mercy,0
+2009-02,The Stooges,0
+2009-02,Waylon Jennings,48
+2009-03,Anouar Brahem,0
+2009-03,Black Rebel Motorcycle Club,0
+2009-03,Blue Mitchell,0
+2009-03,Creedence Clearwater Revisited,0
+2009-03,Eumir Deodato,0
+2009-03,Gyöngyös,10
+2009-03,Hank Williams Iii,0
+2009-03,Hank Williams, Jr.,71
+2009-03,Iggy Pop,0
+2009-03,Johnny Cash,0
+2009-03,Johnny Paycheck,0
+2009-03,Pan Sonic,0
+2009-03,Stonewall Jackson,0
+2009-03,The Dandy Warhols,0
+2009-03,The Doors,0
+2009-03,The Marshall Tucker Band,1
+2009-03,The Rolling Stones,10
+2009-03,The Sisters Of Mercy,0
+2009-03,The Stooges,0
+2009-03,Waylon Jennings,13
+2009-04,Anouar Brahem,0
+2009-04,Black Rebel Motorcycle Club,0
+2009-04,Blue Mitchell,1
+2009-04,Creedence Clearwater Revisited,1
+2009-04,Eumir Deodato,5
+2009-04,Gyöngyös,0
+2009-04,Hank Williams Iii,4
+2009-04,Hank Williams, Jr.,52
+2009-04,Iggy Pop,1
+2009-04,Johnny Cash,2
+2009-04,Johnny Paycheck,0
+2009-04,Pan Sonic,0
+2009-04,Stonewall Jackson,1
+2009-04,The Dandy Warhols,0
+2009-04,The Doors,25
+2009-04,The Marshall Tucker Band,2
+2009-04,The Rolling Stones,33
+2009-04,The Sisters Of Mercy,0
+2009-04,The Stooges,2
+2009-04,Waylon Jennings,1

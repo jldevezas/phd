@@ -1,0 +1,541 @@
+month,artist,plays
+2007-02,Arctic Monkeys,9
+2007-02,Be Your Own Pet,2
+2007-02,Beck,1
+2007-02,Dirty Pretty Things,23
+2007-02,Doctor Dunbars Medicine Band,11
+2007-02,End Of Fashion,18
+2007-02,Franz Ferdinand,85
+2007-02,Johnossi,0
+2007-02,Jonathan Coulton,0
+2007-02,Locksley,30
+2007-02,Mando Diao,125
+2007-02,Mc Chris,0
+2007-02,Metric,15
+2007-02,No-Fi Soul Rebellion,10
+2007-02,Spoon,11
+2007-02,Sugarplum Fairy,24
+2007-02,The Films,30
+2007-02,The Fratellis,30
+2007-02,The Presidents Of The United States Of America,74
+2007-02,The White Stripes,12
+2007-03,Arctic Monkeys,15
+2007-03,Be Your Own Pet,14
+2007-03,Beck,7
+2007-03,Dirty Pretty Things,23
+2007-03,Doctor Dunbars Medicine Band,0
+2007-03,End Of Fashion,11
+2007-03,Franz Ferdinand,0
+2007-03,Johnossi,0
+2007-03,Jonathan Coulton,0
+2007-03,Locksley,10
+2007-03,Mando Diao,13
+2007-03,Mc Chris,0
+2007-03,Metric,10
+2007-03,No-Fi Soul Rebellion,0
+2007-03,Spoon,0
+2007-03,Sugarplum Fairy,18
+2007-03,The Films,10
+2007-03,The Fratellis,21
+2007-03,The Presidents Of The United States Of America,10
+2007-03,The White Stripes,11
+2007-04,Arctic Monkeys,55
+2007-04,Be Your Own Pet,9
+2007-04,Beck,1
+2007-04,Dirty Pretty Things,60
+2007-04,Doctor Dunbars Medicine Band,7
+2007-04,End Of Fashion,40
+2007-04,Franz Ferdinand,21
+2007-04,Johnossi,0
+2007-04,Jonathan Coulton,0
+2007-04,Locksley,37
+2007-04,Mando Diao,271
+2007-04,Mc Chris,1
+2007-04,Metric,40
+2007-04,No-Fi Soul Rebellion,4
+2007-04,Spoon,0
+2007-04,Sugarplum Fairy,70
+2007-04,The Films,42
+2007-04,The Fratellis,80
+2007-04,The Presidents Of The United States Of America,60
+2007-04,The White Stripes,92
+2007-05,Arctic Monkeys,32
+2007-05,Be Your Own Pet,0
+2007-05,Beck,0
+2007-05,Dirty Pretty Things,5
+2007-05,Doctor Dunbars Medicine Band,10
+2007-05,End Of Fashion,5
+2007-05,Franz Ferdinand,18
+2007-05,Johnossi,0
+2007-05,Jonathan Coulton,0
+2007-05,Locksley,2
+2007-05,Mando Diao,2
+2007-05,Mc Chris,125
+2007-05,Metric,2
+2007-05,No-Fi Soul Rebellion,1
+2007-05,Spoon,26
+2007-05,Sugarplum Fairy,7
+2007-05,The Films,34
+2007-05,The Fratellis,2
+2007-05,The Presidents Of The United States Of America,1
+2007-05,The White Stripes,2
+2007-06,Arctic Monkeys,2
+2007-06,Be Your Own Pet,15
+2007-06,Beck,4
+2007-06,Dirty Pretty Things,4
+2007-06,Doctor Dunbars Medicine Band,13
+2007-06,End Of Fashion,6
+2007-06,Franz Ferdinand,3
+2007-06,Johnossi,245
+2007-06,Jonathan Coulton,0
+2007-06,Locksley,1
+2007-06,Mando Diao,11
+2007-06,Mc Chris,55
+2007-06,Metric,0
+2007-06,No-Fi Soul Rebellion,4
+2007-06,Spoon,1
+2007-06,Sugarplum Fairy,0
+2007-06,The Films,1
+2007-06,The Fratellis,19
+2007-06,The Presidents Of The United States Of America,28
+2007-06,The White Stripes,3
+2007-07,Arctic Monkeys,8
+2007-07,Be Your Own Pet,10
+2007-07,Beck,3
+2007-07,Dirty Pretty Things,1
+2007-07,Doctor Dunbars Medicine Band,0
+2007-07,End Of Fashion,9
+2007-07,Franz Ferdinand,16
+2007-07,Johnossi,100
+2007-07,Jonathan Coulton,0
+2007-07,Locksley,11
+2007-07,Mando Diao,32
+2007-07,Mc Chris,2
+2007-07,Metric,12
+2007-07,No-Fi Soul Rebellion,4
+2007-07,Spoon,20
+2007-07,Sugarplum Fairy,9
+2007-07,The Films,8
+2007-07,The Fratellis,22
+2007-07,The Presidents Of The United States Of America,42
+2007-07,The White Stripes,32
+2007-08,Arctic Monkeys,4
+2007-08,Be Your Own Pet,0
+2007-08,Beck,0
+2007-08,Dirty Pretty Things,2
+2007-08,Doctor Dunbars Medicine Band,1
+2007-08,End Of Fashion,1
+2007-08,Franz Ferdinand,1
+2007-08,Johnossi,10
+2007-08,Jonathan Coulton,0
+2007-08,Locksley,0
+2007-08,Mando Diao,8
+2007-08,Mc Chris,0
+2007-08,Metric,0
+2007-08,No-Fi Soul Rebellion,2
+2007-08,Spoon,0
+2007-08,Sugarplum Fairy,0
+2007-08,The Films,1
+2007-08,The Fratellis,18
+2007-08,The Presidents Of The United States Of America,0
+2007-08,The White Stripes,0
+2007-09,Arctic Monkeys,29
+2007-09,Be Your Own Pet,17
+2007-09,Beck,10
+2007-09,Dirty Pretty Things,4
+2007-09,Doctor Dunbars Medicine Band,2
+2007-09,End Of Fashion,8
+2007-09,Franz Ferdinand,46
+2007-09,Johnossi,98
+2007-09,Jonathan Coulton,0
+2007-09,Locksley,17
+2007-09,Mando Diao,26
+2007-09,Mc Chris,105
+2007-09,Metric,43
+2007-09,No-Fi Soul Rebellion,5
+2007-09,Spoon,5
+2007-09,Sugarplum Fairy,13
+2007-09,The Films,7
+2007-09,The Fratellis,31
+2007-09,The Presidents Of The United States Of America,19
+2007-09,The White Stripes,17
+2007-10,Arctic Monkeys,4
+2007-10,Be Your Own Pet,30
+2007-10,Beck,0
+2007-10,Dirty Pretty Things,13
+2007-10,Doctor Dunbars Medicine Band,21
+2007-10,End Of Fashion,14
+2007-10,Franz Ferdinand,0
+2007-10,Johnossi,33
+2007-10,Jonathan Coulton,0
+2007-10,Locksley,4
+2007-10,Mando Diao,40
+2007-10,Mc Chris,3
+2007-10,Metric,16
+2007-10,No-Fi Soul Rebellion,4
+2007-10,Spoon,22
+2007-10,Sugarplum Fairy,8
+2007-10,The Films,5
+2007-10,The Fratellis,45
+2007-10,The Presidents Of The United States Of America,1
+2007-10,The White Stripes,2
+2007-11,Arctic Monkeys,0
+2007-11,Be Your Own Pet,0
+2007-11,Beck,0
+2007-11,Dirty Pretty Things,0
+2007-11,Doctor Dunbars Medicine Band,0
+2007-11,End Of Fashion,0
+2007-11,Franz Ferdinand,0
+2007-11,Johnossi,12
+2007-11,Jonathan Coulton,25
+2007-11,Locksley,0
+2007-11,Mando Diao,0
+2007-11,Mc Chris,1
+2007-11,Metric,0
+2007-11,No-Fi Soul Rebellion,0
+2007-11,Spoon,0
+2007-11,Sugarplum Fairy,0
+2007-11,The Films,0
+2007-11,The Fratellis,0
+2007-11,The Presidents Of The United States Of America,0
+2007-11,The White Stripes,7
+2007-12,Arctic Monkeys,1
+2007-12,Be Your Own Pet,3
+2007-12,Beck,0
+2007-12,Dirty Pretty Things,1
+2007-12,Doctor Dunbars Medicine Band,3
+2007-12,End Of Fashion,3
+2007-12,Franz Ferdinand,5
+2007-12,Johnossi,6
+2007-12,Jonathan Coulton,3
+2007-12,Locksley,1
+2007-12,Mando Diao,8
+2007-12,Mc Chris,2
+2007-12,Metric,2
+2007-12,No-Fi Soul Rebellion,2
+2007-12,Spoon,1
+2007-12,Sugarplum Fairy,6
+2007-12,The Films,2
+2007-12,The Fratellis,7
+2007-12,The Presidents Of The United States Of America,5
+2007-12,The White Stripes,55
+2008-01,Arctic Monkeys,2
+2008-01,Be Your Own Pet,21
+2008-01,Beck,1
+2008-01,Dirty Pretty Things,5
+2008-01,Doctor Dunbars Medicine Band,5
+2008-01,End Of Fashion,5
+2008-01,Franz Ferdinand,22
+2008-01,Johnossi,14
+2008-01,Jonathan Coulton,12
+2008-01,Locksley,4
+2008-01,Mando Diao,31
+2008-01,Mc Chris,15
+2008-01,Metric,13
+2008-01,No-Fi Soul Rebellion,1
+2008-01,Spoon,2
+2008-01,Sugarplum Fairy,6
+2008-01,The Films,5
+2008-01,The Fratellis,15
+2008-01,The Presidents Of The United States Of America,34
+2008-01,The White Stripes,5
+2008-02,Arctic Monkeys,0
+2008-02,Be Your Own Pet,1
+2008-02,Beck,1
+2008-02,Dirty Pretty Things,0
+2008-02,Doctor Dunbars Medicine Band,2
+2008-02,End Of Fashion,0
+2008-02,Franz Ferdinand,3
+2008-02,Johnossi,1
+2008-02,Jonathan Coulton,2
+2008-02,Locksley,1
+2008-02,Mando Diao,22
+2008-02,Mc Chris,10
+2008-02,Metric,0
+2008-02,No-Fi Soul Rebellion,0
+2008-02,Spoon,0
+2008-02,Sugarplum Fairy,0
+2008-02,The Films,0
+2008-02,The Fratellis,2
+2008-02,The Presidents Of The United States Of America,35
+2008-02,The White Stripes,1
+2008-03,Arctic Monkeys,23
+2008-03,Be Your Own Pet,21
+2008-03,Beck,1
+2008-03,Dirty Pretty Things,5
+2008-03,Doctor Dunbars Medicine Band,3
+2008-03,End Of Fashion,1
+2008-03,Franz Ferdinand,9
+2008-03,Johnossi,3
+2008-03,Jonathan Coulton,7
+2008-03,Locksley,2
+2008-03,Mando Diao,7
+2008-03,Mc Chris,9
+2008-03,Metric,1
+2008-03,No-Fi Soul Rebellion,1
+2008-03,Spoon,9
+2008-03,Sugarplum Fairy,2
+2008-03,The Films,13
+2008-03,The Fratellis,7
+2008-03,The Presidents Of The United States Of America,23
+2008-03,The White Stripes,1
+2008-04,Arctic Monkeys,11
+2008-04,Be Your Own Pet,65
+2008-04,Beck,7
+2008-04,Dirty Pretty Things,0
+2008-04,Doctor Dunbars Medicine Band,2
+2008-04,End Of Fashion,0
+2008-04,Franz Ferdinand,0
+2008-04,Johnossi,0
+2008-04,Jonathan Coulton,1
+2008-04,Locksley,0
+2008-04,Mando Diao,3
+2008-04,Mc Chris,0
+2008-04,Metric,1
+2008-04,No-Fi Soul Rebellion,0
+2008-04,Spoon,1
+2008-04,Sugarplum Fairy,0
+2008-04,The Films,0
+2008-04,The Fratellis,3
+2008-04,The Presidents Of The United States Of America,111
+2008-04,The White Stripes,0
+2008-05,Arctic Monkeys,1
+2008-05,Be Your Own Pet,23
+2008-05,Beck,0
+2008-05,Dirty Pretty Things,0
+2008-05,Doctor Dunbars Medicine Band,0
+2008-05,End Of Fashion,0
+2008-05,Franz Ferdinand,0
+2008-05,Johnossi,4
+2008-05,Jonathan Coulton,10
+2008-05,Locksley,1
+2008-05,Mando Diao,0
+2008-05,Mc Chris,2
+2008-05,Metric,0
+2008-05,No-Fi Soul Rebellion,0
+2008-05,Spoon,9
+2008-05,Sugarplum Fairy,0
+2008-05,The Films,0
+2008-05,The Fratellis,3
+2008-05,The Presidents Of The United States Of America,13
+2008-05,The White Stripes,0
+2008-06,Arctic Monkeys,1
+2008-06,Be Your Own Pet,0
+2008-06,Beck,0
+2008-06,Dirty Pretty Things,21
+2008-06,Doctor Dunbars Medicine Band,0
+2008-06,End Of Fashion,2
+2008-06,Franz Ferdinand,0
+2008-06,Johnossi,0
+2008-06,Jonathan Coulton,4
+2008-06,Locksley,0
+2008-06,Mando Diao,0
+2008-06,Mc Chris,0
+2008-06,Metric,0
+2008-06,No-Fi Soul Rebellion,0
+2008-06,Spoon,4
+2008-06,Sugarplum Fairy,3
+2008-06,The Films,0
+2008-06,The Fratellis,0
+2008-06,The Presidents Of The United States Of America,3
+2008-06,The White Stripes,0
+2008-07,Arctic Monkeys,0
+2008-07,Be Your Own Pet,0
+2008-07,Beck,0
+2008-07,Dirty Pretty Things,1
+2008-07,Doctor Dunbars Medicine Band,93
+2008-07,End Of Fashion,0
+2008-07,Franz Ferdinand,29
+2008-07,Johnossi,0
+2008-07,Jonathan Coulton,53
+2008-07,Locksley,0
+2008-07,Mando Diao,8
+2008-07,Mc Chris,0
+2008-07,Metric,0
+2008-07,No-Fi Soul Rebellion,0
+2008-07,Spoon,0
+2008-07,Sugarplum Fairy,0
+2008-07,The Films,1
+2008-07,The Fratellis,1
+2008-07,The Presidents Of The United States Of America,1
+2008-07,The White Stripes,0
+2008-08,Arctic Monkeys,0
+2008-08,Be Your Own Pet,0
+2008-08,Beck,0
+2008-08,Dirty Pretty Things,0
+2008-08,Doctor Dunbars Medicine Band,1
+2008-08,End Of Fashion,0
+2008-08,Franz Ferdinand,3
+2008-08,Johnossi,0
+2008-08,Jonathan Coulton,6
+2008-08,Locksley,0
+2008-08,Mando Diao,0
+2008-08,Mc Chris,0
+2008-08,Metric,0
+2008-08,No-Fi Soul Rebellion,0
+2008-08,Spoon,0
+2008-08,Sugarplum Fairy,0
+2008-08,The Films,0
+2008-08,The Fratellis,0
+2008-08,The Presidents Of The United States Of America,0
+2008-08,The White Stripes,0
+2008-09,Arctic Monkeys,0
+2008-09,Be Your Own Pet,0
+2008-09,Beck,0
+2008-09,Dirty Pretty Things,0
+2008-09,Doctor Dunbars Medicine Band,0
+2008-09,End Of Fashion,0
+2008-09,Franz Ferdinand,0
+2008-09,Johnossi,1
+2008-09,Jonathan Coulton,1
+2008-09,Locksley,2
+2008-09,Mando Diao,1
+2008-09,Mc Chris,0
+2008-09,Metric,1
+2008-09,No-Fi Soul Rebellion,0
+2008-09,Spoon,0
+2008-09,Sugarplum Fairy,0
+2008-09,The Films,0
+2008-09,The Fratellis,1
+2008-09,The Presidents Of The United States Of America,3
+2008-09,The White Stripes,0
+2008-10,Arctic Monkeys,0
+2008-10,Be Your Own Pet,0
+2008-10,Beck,1
+2008-10,Dirty Pretty Things,0
+2008-10,Doctor Dunbars Medicine Band,0
+2008-10,End Of Fashion,0
+2008-10,Franz Ferdinand,0
+2008-10,Johnossi,0
+2008-10,Jonathan Coulton,2
+2008-10,Locksley,0
+2008-10,Mando Diao,0
+2008-10,Mc Chris,0
+2008-10,Metric,1
+2008-10,No-Fi Soul Rebellion,0
+2008-10,Spoon,0
+2008-10,Sugarplum Fairy,0
+2008-10,The Films,0
+2008-10,The Fratellis,0
+2008-10,The Presidents Of The United States Of America,0
+2008-10,The White Stripes,0
+2008-11,Arctic Monkeys,0
+2008-11,Be Your Own Pet,0
+2008-11,Beck,0
+2008-11,Dirty Pretty Things,0
+2008-11,Doctor Dunbars Medicine Band,0
+2008-11,End Of Fashion,0
+2008-11,Franz Ferdinand,0
+2008-11,Johnossi,0
+2008-11,Jonathan Coulton,0
+2008-11,Locksley,0
+2008-11,Mando Diao,0
+2008-11,Mc Chris,0
+2008-11,Metric,0
+2008-11,No-Fi Soul Rebellion,0
+2008-11,Spoon,0
+2008-11,Sugarplum Fairy,0
+2008-11,The Films,0
+2008-11,The Fratellis,0
+2008-11,The Presidents Of The United States Of America,0
+2008-11,The White Stripes,0
+2008-12,Arctic Monkeys,2
+2008-12,Be Your Own Pet,0
+2008-12,Beck,2
+2008-12,Dirty Pretty Things,0
+2008-12,Doctor Dunbars Medicine Band,0
+2008-12,End Of Fashion,2
+2008-12,Franz Ferdinand,0
+2008-12,Johnossi,3
+2008-12,Jonathan Coulton,9
+2008-12,Locksley,2
+2008-12,Mando Diao,8
+2008-12,Mc Chris,0
+2008-12,Metric,14
+2008-12,No-Fi Soul Rebellion,2
+2008-12,Spoon,5
+2008-12,Sugarplum Fairy,1
+2008-12,The Films,2
+2008-12,The Fratellis,3
+2008-12,The Presidents Of The United States Of America,7
+2008-12,The White Stripes,0
+2009-01,Arctic Monkeys,2
+2009-01,Be Your Own Pet,0
+2009-01,Beck,3
+2009-01,Dirty Pretty Things,0
+2009-01,Doctor Dunbars Medicine Band,0
+2009-01,End Of Fashion,3
+2009-01,Franz Ferdinand,35
+2009-01,Johnossi,3
+2009-01,Jonathan Coulton,1
+2009-01,Locksley,2
+2009-01,Mando Diao,3
+2009-01,Mc Chris,0
+2009-01,Metric,2
+2009-01,No-Fi Soul Rebellion,2
+2009-01,Spoon,3
+2009-01,Sugarplum Fairy,1
+2009-01,The Films,5
+2009-01,The Fratellis,5
+2009-01,The Presidents Of The United States Of America,2
+2009-01,The White Stripes,0
+2009-02,Arctic Monkeys,1
+2009-02,Be Your Own Pet,0
+2009-02,Beck,1
+2009-02,Dirty Pretty Things,0
+2009-02,Doctor Dunbars Medicine Band,0
+2009-02,End Of Fashion,1
+2009-02,Franz Ferdinand,45
+2009-02,Johnossi,2
+2009-02,Jonathan Coulton,2
+2009-02,Locksley,1
+2009-02,Mando Diao,81
+2009-02,Mc Chris,0
+2009-02,Metric,4
+2009-02,No-Fi Soul Rebellion,1
+2009-02,Spoon,44
+2009-02,Sugarplum Fairy,1
+2009-02,The Films,2
+2009-02,The Fratellis,4
+2009-02,The Presidents Of The United States Of America,1
+2009-02,The White Stripes,0
+2009-03,Arctic Monkeys,0
+2009-03,Be Your Own Pet,41
+2009-03,Beck,0
+2009-03,Dirty Pretty Things,0
+2009-03,Doctor Dunbars Medicine Band,0
+2009-03,End Of Fashion,0
+2009-03,Franz Ferdinand,0
+2009-03,Johnossi,0
+2009-03,Jonathan Coulton,0
+2009-03,Locksley,0
+2009-03,Mando Diao,5
+2009-03,Mc Chris,0
+2009-03,Metric,5
+2009-03,No-Fi Soul Rebellion,0
+2009-03,Spoon,6
+2009-03,Sugarplum Fairy,0
+2009-03,The Films,0
+2009-03,The Fratellis,0
+2009-03,The Presidents Of The United States Of America,39
+2009-03,The White Stripes,0
+2009-04,Arctic Monkeys,0
+2009-04,Be Your Own Pet,0
+2009-04,Beck,0
+2009-04,Dirty Pretty Things,0
+2009-04,Doctor Dunbars Medicine Band,0
+2009-04,End Of Fashion,0
+2009-04,Franz Ferdinand,11
+2009-04,Johnossi,0
+2009-04,Jonathan Coulton,1
+2009-04,Locksley,0
+2009-04,Mando Diao,0
+2009-04,Mc Chris,0
+2009-04,Metric,0
+2009-04,No-Fi Soul Rebellion,0
+2009-04,Spoon,0
+2009-04,Sugarplum Fairy,0
+2009-04,The Films,0
+2009-04,The Fratellis,0
+2009-04,The Presidents Of The United States Of America,0
+2009-04,The White Stripes,0

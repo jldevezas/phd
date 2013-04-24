@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Abakus,1
+2006-02,Adham Shaikh,4
+2006-02,Aes Dana,1
+2006-02,Asura,1
+2006-02,Banco De Gaia,1
+2006-02,Bluetech,0
+2006-02,Cell,0
+2006-02,Entheogenic,0
+2006-02,Global Communication,1
+2006-02,H.U.V.A. Network,0
+2006-02,Hallucinogen,4
+2006-02,Ishq,0
+2006-02,Kaya Project,0
+2006-02,Omnimotion,0
+2006-02,Ott,6
+2006-02,Phutureprimitive,1
+2006-02,Shpongle,8
+2006-02,Solar Fields,0
+2006-02,Tripswitch,0
+2006-02,Younger Brother,4
+2006-03,Abakus,10
+2006-03,Adham Shaikh,0
+2006-03,Aes Dana,7
+2006-03,Asura,6
+2006-03,Banco De Gaia,0
+2006-03,Bluetech,0
+2006-03,Cell,2
+2006-03,Entheogenic,10
+2006-03,Global Communication,2
+2006-03,H.U.V.A. Network,5
+2006-03,Hallucinogen,11
+2006-03,Ishq,1
+2006-03,Kaya Project,0
+2006-03,Omnimotion,2
+2006-03,Ott,15
+2006-03,Phutureprimitive,3
+2006-03,Shpongle,14
+2006-03,Solar Fields,2
+2006-03,Tripswitch,0
+2006-03,Younger Brother,12
+2006-04,Abakus,17
+2006-04,Adham Shaikh,18
+2006-04,Aes Dana,9
+2006-04,Asura,8
+2006-04,Banco De Gaia,3
+2006-04,Bluetech,2
+2006-04,Cell,3
+2006-04,Entheogenic,22
+2006-04,Global Communication,3
+2006-04,H.U.V.A. Network,2
+2006-04,Hallucinogen,19
+2006-04,Ishq,18
+2006-04,Kaya Project,14
+2006-04,Omnimotion,3
+2006-04,Ott,29
+2006-04,Phutureprimitive,19
+2006-04,Shpongle,25
+2006-04,Solar Fields,3
+2006-04,Tripswitch,5
+2006-04,Younger Brother,10
+2006-05,Abakus,23
+2006-05,Adham Shaikh,10
+2006-05,Aes Dana,8
+2006-05,Asura,1
+2006-05,Banco De Gaia,1
+2006-05,Bluetech,4
+2006-05,Cell,1
+2006-05,Entheogenic,23
+2006-05,Global Communication,0
+2006-05,H.U.V.A. Network,0
+2006-05,Hallucinogen,7
+2006-05,Ishq,6
+2006-05,Kaya Project,15
+2006-05,Omnimotion,0
+2006-05,Ott,29
+2006-05,Phutureprimitive,18
+2006-05,Shpongle,13
+2006-05,Solar Fields,5
+2006-05,Tripswitch,5
+2006-05,Younger Brother,22
+2006-06,Abakus,12
+2006-06,Adham Shaikh,4
+2006-06,Aes Dana,6
+2006-06,Asura,3
+2006-06,Banco De Gaia,3
+2006-06,Bluetech,7
+2006-06,Cell,2
+2006-06,Entheogenic,19
+2006-06,Global Communication,6
+2006-06,H.U.V.A. Network,5
+2006-06,Hallucinogen,15
+2006-06,Ishq,10
+2006-06,Kaya Project,13
+2006-06,Omnimotion,1
+2006-06,Ott,19
+2006-06,Phutureprimitive,9
+2006-06,Shpongle,18
+2006-06,Solar Fields,7
+2006-06,Tripswitch,5
+2006-06,Younger Brother,18
+2006-07,Abakus,10
+2006-07,Adham Shaikh,3
+2006-07,Aes Dana,2
+2006-07,Asura,1
+2006-07,Banco De Gaia,1
+2006-07,Bluetech,3
+2006-07,Cell,2
+2006-07,Entheogenic,13
+2006-07,Global Communication,1
+2006-07,H.U.V.A. Network,7
+2006-07,Hallucinogen,5
+2006-07,Ishq,8
+2006-07,Kaya Project,10
+2006-07,Omnimotion,1
+2006-07,Ott,15
+2006-07,Phutureprimitive,9
+2006-07,Shpongle,5
+2006-07,Solar Fields,9
+2006-07,Tripswitch,7
+2006-07,Younger Brother,10
+2006-08,Abakus,2
+2006-08,Adham Shaikh,2
+2006-08,Aes Dana,3
+2006-08,Asura,2
+2006-08,Banco De Gaia,3
+2006-08,Bluetech,2
+2006-08,Cell,2
+2006-08,Entheogenic,6
+2006-08,Global Communication,0
+2006-08,H.U.V.A. Network,1
+2006-08,Hallucinogen,3
+2006-08,Ishq,3
+2006-08,Kaya Project,3
+2006-08,Omnimotion,1
+2006-08,Ott,6
+2006-08,Phutureprimitive,5
+2006-08,Shpongle,5
+2006-08,Solar Fields,3
+2006-08,Tripswitch,4
+2006-08,Younger Brother,6
+2006-09,Abakus,5
+2006-09,Adham Shaikh,2
+2006-09,Aes Dana,2
+2006-09,Asura,0
+2006-09,Banco De Gaia,0
+2006-09,Bluetech,2
+2006-09,Cell,0
+2006-09,Entheogenic,1
+2006-09,Global Communication,2
+2006-09,H.U.V.A. Network,0
+2006-09,Hallucinogen,3
+2006-09,Ishq,1
+2006-09,Kaya Project,6
+2006-09,Omnimotion,1
+2006-09,Ott,4
+2006-09,Phutureprimitive,1
+2006-09,Shpongle,1
+2006-09,Solar Fields,3
+2006-09,Tripswitch,3
+2006-09,Younger Brother,4
+2006-10,Abakus,4
+2006-10,Adham Shaikh,1
+2006-10,Aes Dana,1
+2006-10,Asura,0
+2006-10,Banco De Gaia,1
+2006-10,Bluetech,2
+2006-10,Cell,0
+2006-10,Entheogenic,7
+2006-10,Global Communication,1
+2006-10,H.U.V.A. Network,1
+2006-10,Hallucinogen,6
+2006-10,Ishq,2
+2006-10,Kaya Project,3
+2006-10,Omnimotion,0
+2006-10,Ott,7
+2006-10,Phutureprimitive,4
+2006-10,Shpongle,3
+2006-10,Solar Fields,0
+2006-10,Tripswitch,3
+2006-10,Younger Brother,7
+2006-11,Abakus,2
+2006-11,Adham Shaikh,7
+2006-11,Aes Dana,1
+2006-11,Asura,0
+2006-11,Banco De Gaia,2
+2006-11,Bluetech,2
+2006-11,Cell,4
+2006-11,Entheogenic,5
+2006-11,Global Communication,0
+2006-11,H.U.V.A. Network,1
+2006-11,Hallucinogen,1
+2006-11,Ishq,7
+2006-11,Kaya Project,1
+2006-11,Omnimotion,8
+2006-11,Ott,5
+2006-11,Phutureprimitive,2
+2006-11,Shpongle,2
+2006-11,Solar Fields,7
+2006-11,Tripswitch,3
+2006-11,Younger Brother,4
+2006-12,Abakus,0
+2006-12,Adham Shaikh,3
+2006-12,Aes Dana,0
+2006-12,Asura,1
+2006-12,Banco De Gaia,0
+2006-12,Bluetech,1
+2006-12,Cell,1
+2006-12,Entheogenic,2
+2006-12,Global Communication,1
+2006-12,H.U.V.A. Network,0
+2006-12,Hallucinogen,1
+2006-12,Ishq,2
+2006-12,Kaya Project,1
+2006-12,Omnimotion,2
+2006-12,Ott,2
+2006-12,Phutureprimitive,1
+2006-12,Shpongle,2
+2006-12,Solar Fields,2
+2006-12,Tripswitch,1
+2006-12,Younger Brother,2
+2007-01,Abakus,1
+2007-01,Adham Shaikh,0
+2007-01,Aes Dana,2
+2007-01,Asura,2
+2007-01,Banco De Gaia,0
+2007-01,Bluetech,0
+2007-01,Cell,1
+2007-01,Entheogenic,0
+2007-01,Global Communication,0
+2007-01,H.U.V.A. Network,1
+2007-01,Hallucinogen,1
+2007-01,Ishq,1
+2007-01,Kaya Project,1
+2007-01,Omnimotion,2
+2007-01,Ott,1
+2007-01,Phutureprimitive,1
+2007-01,Shpongle,2
+2007-01,Solar Fields,1
+2007-01,Tripswitch,1
+2007-01,Younger Brother,1
+2007-02,Abakus,1
+2007-02,Adham Shaikh,3
+2007-02,Aes Dana,0
+2007-02,Asura,0
+2007-02,Banco De Gaia,0
+2007-02,Bluetech,0
+2007-02,Cell,1
+2007-02,Entheogenic,0
+2007-02,Global Communication,1
+2007-02,H.U.V.A. Network,3
+2007-02,Hallucinogen,0
+2007-02,Ishq,4
+2007-02,Kaya Project,1
+2007-02,Omnimotion,1
+2007-02,Ott,1
+2007-02,Phutureprimitive,2
+2007-02,Shpongle,0
+2007-02,Solar Fields,1
+2007-02,Tripswitch,0
+2007-02,Younger Brother,0
+2007-03,Abakus,1
+2007-03,Adham Shaikh,2
+2007-03,Aes Dana,3
+2007-03,Asura,4
+2007-03,Banco De Gaia,1
+2007-03,Bluetech,2
+2007-03,Cell,1
+2007-03,Entheogenic,1
+2007-03,Global Communication,0
+2007-03,H.U.V.A. Network,2
+2007-03,Hallucinogen,1
+2007-03,Ishq,6
+2007-03,Kaya Project,0
+2007-03,Omnimotion,1
+2007-03,Ott,1
+2007-03,Phutureprimitive,0
+2007-03,Shpongle,1
+2007-03,Solar Fields,7
+2007-03,Tripswitch,1
+2007-03,Younger Brother,0
+2007-04,Abakus,1
+2007-04,Adham Shaikh,4
+2007-04,Aes Dana,2
+2007-04,Asura,4
+2007-04,Banco De Gaia,3
+2007-04,Bluetech,3
+2007-04,Cell,3
+2007-04,Entheogenic,2
+2007-04,Global Communication,5
+2007-04,H.U.V.A. Network,3
+2007-04,Hallucinogen,1
+2007-04,Ishq,1
+2007-04,Kaya Project,4
+2007-04,Omnimotion,5
+2007-04,Ott,3
+2007-04,Phutureprimitive,1
+2007-04,Shpongle,4
+2007-04,Solar Fields,3
+2007-04,Tripswitch,1
+2007-04,Younger Brother,2
+2007-05,Abakus,2
+2007-05,Adham Shaikh,1
+2007-05,Aes Dana,1
+2007-05,Asura,3
+2007-05,Banco De Gaia,2
+2007-05,Bluetech,1
+2007-05,Cell,1
+2007-05,Entheogenic,4
+2007-05,Global Communication,1
+2007-05,H.U.V.A. Network,2
+2007-05,Hallucinogen,2
+2007-05,Ishq,1
+2007-05,Kaya Project,2
+2007-05,Omnimotion,1
+2007-05,Ott,4
+2007-05,Phutureprimitive,1
+2007-05,Shpongle,5
+2007-05,Solar Fields,4
+2007-05,Tripswitch,3
+2007-05,Younger Brother,3
+2007-06,Abakus,0
+2007-06,Adham Shaikh,0
+2007-06,Aes Dana,0
+2007-06,Asura,1
+2007-06,Banco De Gaia,1
+2007-06,Bluetech,0
+2007-06,Cell,0
+2007-06,Entheogenic,2
+2007-06,Global Communication,0
+2007-06,H.U.V.A. Network,0
+2007-06,Hallucinogen,0
+2007-06,Ishq,1
+2007-06,Kaya Project,0
+2007-06,Omnimotion,0
+2007-06,Ott,0
+2007-06,Phutureprimitive,0
+2007-06,Shpongle,0
+2007-06,Solar Fields,1
+2007-06,Tripswitch,0
+2007-06,Younger Brother,0
+2007-07,Abakus,7
+2007-07,Adham Shaikh,7
+2007-07,Aes Dana,3
+2007-07,Asura,6
+2007-07,Banco De Gaia,2
+2007-07,Bluetech,3
+2007-07,Cell,5
+2007-07,Entheogenic,11
+2007-07,Global Communication,3
+2007-07,H.U.V.A. Network,4
+2007-07,Hallucinogen,0
+2007-07,Ishq,8
+2007-07,Kaya Project,10
+2007-07,Omnimotion,6
+2007-07,Ott,16
+2007-07,Phutureprimitive,3
+2007-07,Shpongle,4
+2007-07,Solar Fields,8
+2007-07,Tripswitch,4
+2007-07,Younger Brother,6
+2007-08,Abakus,0
+2007-08,Adham Shaikh,1
+2007-08,Aes Dana,2
+2007-08,Asura,1
+2007-08,Banco De Gaia,2
+2007-08,Bluetech,1
+2007-08,Cell,1
+2007-08,Entheogenic,2
+2007-08,Global Communication,1
+2007-08,H.U.V.A. Network,1
+2007-08,Hallucinogen,0
+2007-08,Ishq,1
+2007-08,Kaya Project,0
+2007-08,Omnimotion,1
+2007-08,Ott,3
+2007-08,Phutureprimitive,1
+2007-08,Shpongle,1
+2007-08,Solar Fields,1
+2007-08,Tripswitch,0
+2007-08,Younger Brother,0
+2007-09,Abakus,0
+2007-09,Adham Shaikh,0
+2007-09,Aes Dana,0
+2007-09,Asura,0
+2007-09,Banco De Gaia,0
+2007-09,Bluetech,0
+2007-09,Cell,0
+2007-09,Entheogenic,0
+2007-09,Global Communication,0
+2007-09,H.U.V.A. Network,0
+2007-09,Hallucinogen,0
+2007-09,Ishq,0
+2007-09,Kaya Project,0
+2007-09,Omnimotion,1
+2007-09,Ott,1
+2007-09,Phutureprimitive,0
+2007-09,Shpongle,0
+2007-09,Solar Fields,0
+2007-09,Tripswitch,0
+2007-09,Younger Brother,0
+2007-10,Abakus,0
+2007-10,Adham Shaikh,4
+2007-10,Aes Dana,0
+2007-10,Asura,1
+2007-10,Banco De Gaia,0
+2007-10,Bluetech,0
+2007-10,Cell,0
+2007-10,Entheogenic,0
+2007-10,Global Communication,0
+2007-10,H.U.V.A. Network,1
+2007-10,Hallucinogen,0
+2007-10,Ishq,0
+2007-10,Kaya Project,3
+2007-10,Omnimotion,1
+2007-10,Ott,3
+2007-10,Phutureprimitive,0
+2007-10,Shpongle,0
+2007-10,Solar Fields,0
+2007-10,Tripswitch,3
+2007-10,Younger Brother,0
+2007-11,Abakus,0
+2007-11,Adham Shaikh,0
+2007-11,Aes Dana,0
+2007-11,Asura,0
+2007-11,Banco De Gaia,0
+2007-11,Bluetech,0
+2007-11,Cell,0
+2007-11,Entheogenic,0
+2007-11,Global Communication,1
+2007-11,H.U.V.A. Network,0
+2007-11,Hallucinogen,0
+2007-11,Ishq,0
+2007-11,Kaya Project,0
+2007-11,Omnimotion,0
+2007-11,Ott,1
+2007-11,Phutureprimitive,0
+2007-11,Shpongle,0
+2007-11,Solar Fields,0
+2007-11,Tripswitch,0
+2007-11,Younger Brother,0
+2007-12,Abakus,0
+2007-12,Adham Shaikh,0
+2007-12,Aes Dana,0
+2007-12,Asura,0
+2007-12,Banco De Gaia,0
+2007-12,Bluetech,0
+2007-12,Cell,0
+2007-12,Entheogenic,0
+2007-12,Global Communication,0
+2007-12,H.U.V.A. Network,0
+2007-12,Hallucinogen,0
+2007-12,Ishq,0
+2007-12,Kaya Project,0
+2007-12,Omnimotion,0
+2007-12,Ott,0
+2007-12,Phutureprimitive,0
+2007-12,Shpongle,0
+2007-12,Solar Fields,0
+2007-12,Tripswitch,0
+2007-12,Younger Brother,0
+2008-01,Abakus,6
+2008-01,Adham Shaikh,5
+2008-01,Aes Dana,3
+2008-01,Asura,5
+2008-01,Banco De Gaia,2
+2008-01,Bluetech,2
+2008-01,Cell,4
+2008-01,Entheogenic,8
+2008-01,Global Communication,2
+2008-01,H.U.V.A. Network,6
+2008-01,Hallucinogen,5
+2008-01,Ishq,9
+2008-01,Kaya Project,3
+2008-01,Omnimotion,6
+2008-01,Ott,7
+2008-01,Phutureprimitive,4
+2008-01,Shpongle,5
+2008-01,Solar Fields,8
+2008-01,Tripswitch,5
+2008-01,Younger Brother,6
+2008-02,Abakus,3
+2008-02,Adham Shaikh,15
+2008-02,Aes Dana,5
+2008-02,Asura,8
+2008-02,Banco De Gaia,3
+2008-02,Bluetech,7
+2008-02,Cell,21
+2008-02,Entheogenic,8
+2008-02,Global Communication,6
+2008-02,H.U.V.A. Network,8
+2008-02,Hallucinogen,0
+2008-02,Ishq,21
+2008-02,Kaya Project,10
+2008-02,Omnimotion,12
+2008-02,Ott,7
+2008-02,Phutureprimitive,9
+2008-02,Shpongle,4
+2008-02,Solar Fields,12
+2008-02,Tripswitch,5
+2008-02,Younger Brother,4
+2008-03,Abakus,4
+2008-03,Adham Shaikh,13
+2008-03,Aes Dana,5
+2008-03,Asura,4
+2008-03,Banco De Gaia,7
+2008-03,Bluetech,14
+2008-03,Cell,11
+2008-03,Entheogenic,14
+2008-03,Global Communication,3
+2008-03,H.U.V.A. Network,7
+2008-03,Hallucinogen,10
+2008-03,Ishq,9
+2008-03,Kaya Project,11
+2008-03,Omnimotion,11
+2008-03,Ott,10
+2008-03,Phutureprimitive,5
+2008-03,Shpongle,8
+2008-03,Solar Fields,15
+2008-03,Tripswitch,10
+2008-03,Younger Brother,13
+2008-04,Abakus,3
+2008-04,Adham Shaikh,4
+2008-04,Aes Dana,1
+2008-04,Asura,0
+2008-04,Banco De Gaia,1
+2008-04,Bluetech,3
+2008-04,Cell,5
+2008-04,Entheogenic,4
+2008-04,Global Communication,0
+2008-04,H.U.V.A. Network,3
+2008-04,Hallucinogen,0
+2008-04,Ishq,5
+2008-04,Kaya Project,5
+2008-04,Omnimotion,3
+2008-04,Ott,3
+2008-04,Phutureprimitive,1
+2008-04,Shpongle,2
+2008-04,Solar Fields,4
+2008-04,Tripswitch,5
+2008-04,Younger Brother,4
+2008-05,Abakus,0
+2008-05,Adham Shaikh,0
+2008-05,Aes Dana,0
+2008-05,Asura,0
+2008-05,Banco De Gaia,0
+2008-05,Bluetech,1
+2008-05,Cell,0
+2008-05,Entheogenic,1
+2008-05,Global Communication,0
+2008-05,H.U.V.A. Network,1
+2008-05,Hallucinogen,0
+2008-05,Ishq,1
+2008-05,Kaya Project,1
+2008-05,Omnimotion,0
+2008-05,Ott,0
+2008-05,Phutureprimitive,0
+2008-05,Shpongle,0
+2008-05,Solar Fields,0
+2008-05,Tripswitch,1
+2008-05,Younger Brother,1
+2008-06,Abakus,1
+2008-06,Adham Shaikh,0
+2008-06,Aes Dana,0
+2008-06,Asura,0
+2008-06,Banco De Gaia,1
+2008-06,Bluetech,1
+2008-06,Cell,0
+2008-06,Entheogenic,3
+2008-06,Global Communication,0
+2008-06,H.U.V.A. Network,0
+2008-06,Hallucinogen,1
+2008-06,Ishq,2
+2008-06,Kaya Project,1
+2008-06,Omnimotion,0
+2008-06,Ott,0
+2008-06,Phutureprimitive,2
+2008-06,Shpongle,1
+2008-06,Solar Fields,1
+2008-06,Tripswitch,1
+2008-06,Younger Brother,1
+2008-07,Abakus,25
+2008-07,Adham Shaikh,1
+2008-07,Aes Dana,24
+2008-07,Asura,2
+2008-07,Banco De Gaia,0
+2008-07,Bluetech,0
+2008-07,Cell,2
+2008-07,Entheogenic,3
+2008-07,Global Communication,44
+2008-07,H.U.V.A. Network,0
+2008-07,Hallucinogen,0
+2008-07,Ishq,4
+2008-07,Kaya Project,1
+2008-07,Omnimotion,2
+2008-07,Ott,2
+2008-07,Phutureprimitive,0
+2008-07,Shpongle,0
+2008-07,Solar Fields,3
+2008-07,Tripswitch,2
+2008-07,Younger Brother,2
+2008-08,Abakus,0
+2008-08,Adham Shaikh,8
+2008-08,Aes Dana,29
+2008-08,Asura,8
+2008-08,Banco De Gaia,23
+2008-08,Bluetech,0
+2008-08,Cell,0
+2008-08,Entheogenic,2
+2008-08,Global Communication,0
+2008-08,H.U.V.A. Network,0
+2008-08,Hallucinogen,0
+2008-08,Ishq,10
+2008-08,Kaya Project,7
+2008-08,Omnimotion,0
+2008-08,Ott,20
+2008-08,Phutureprimitive,0
+2008-08,Shpongle,18
+2008-08,Solar Fields,7
+2008-08,Tripswitch,0
+2008-08,Younger Brother,25
+2008-09,Abakus,0
+2008-09,Adham Shaikh,0
+2008-09,Aes Dana,8
+2008-09,Asura,3
+2008-09,Banco De Gaia,35
+2008-09,Bluetech,0
+2008-09,Cell,35
+2008-09,Entheogenic,16
+2008-09,Global Communication,2
+2008-09,H.U.V.A. Network,0
+2008-09,Hallucinogen,28
+2008-09,Ishq,0
+2008-09,Kaya Project,10
+2008-09,Omnimotion,0
+2008-09,Ott,12
+2008-09,Phutureprimitive,0
+2008-09,Shpongle,50
+2008-09,Solar Fields,18
+2008-09,Tripswitch,0
+2008-09,Younger Brother,15
+2008-10,Abakus,0
+2008-10,Adham Shaikh,0
+2008-10,Aes Dana,25
+2008-10,Asura,1
+2008-10,Banco De Gaia,74
+2008-10,Bluetech,0
+2008-10,Cell,3
+2008-10,Entheogenic,0
+2008-10,Global Communication,5
+2008-10,H.U.V.A. Network,0
+2008-10,Hallucinogen,4
+2008-10,Ishq,0
+2008-10,Kaya Project,0
+2008-10,Omnimotion,0
+2008-10,Ott,12
+2008-10,Phutureprimitive,0
+2008-10,Shpongle,27
+2008-10,Solar Fields,33
+2008-10,Tripswitch,0
+2008-10,Younger Brother,22
+2008-11,Abakus,0
+2008-11,Adham Shaikh,0
+2008-11,Aes Dana,21
+2008-11,Asura,1
+2008-11,Banco De Gaia,21
+2008-11,Bluetech,0
+2008-11,Cell,30
+2008-11,Entheogenic,0
+2008-11,Global Communication,10
+2008-11,H.U.V.A. Network,0
+2008-11,Hallucinogen,0
+2008-11,Ishq,0
+2008-11,Kaya Project,0
+2008-11,Omnimotion,0
+2008-11,Ott,8
+2008-11,Phutureprimitive,0
+2008-11,Shpongle,0
+2008-11,Solar Fields,44
+2008-11,Tripswitch,0
+2008-11,Younger Brother,5
+2008-12,Abakus,4
+2008-12,Adham Shaikh,1
+2008-12,Aes Dana,1
+2008-12,Asura,7
+2008-12,Banco De Gaia,1
+2008-12,Bluetech,6
+2008-12,Cell,4
+2008-12,Entheogenic,7
+2008-12,Global Communication,1
+2008-12,H.U.V.A. Network,1
+2008-12,Hallucinogen,4
+2008-12,Ishq,3
+2008-12,Kaya Project,4
+2008-12,Omnimotion,2
+2008-12,Ott,5
+2008-12,Phutureprimitive,3
+2008-12,Shpongle,7
+2008-12,Solar Fields,3
+2008-12,Tripswitch,4
+2008-12,Younger Brother,4
+2009-01,Abakus,0
+2009-01,Adham Shaikh,0
+2009-01,Aes Dana,0
+2009-01,Asura,0
+2009-01,Banco De Gaia,34
+2009-01,Bluetech,0
+2009-01,Cell,0
+2009-01,Entheogenic,1
+2009-01,Global Communication,0
+2009-01,H.U.V.A. Network,0
+2009-01,Hallucinogen,2
+2009-01,Ishq,1
+2009-01,Kaya Project,0
+2009-01,Omnimotion,0
+2009-01,Ott,1
+2009-01,Phutureprimitive,0
+2009-01,Shpongle,2
+2009-01,Solar Fields,0
+2009-01,Tripswitch,1
+2009-01,Younger Brother,1
+2009-02,Abakus,0
+2009-02,Adham Shaikh,0
+2009-02,Aes Dana,0
+2009-02,Asura,0
+2009-02,Banco De Gaia,0
+2009-02,Bluetech,0
+2009-02,Cell,0
+2009-02,Entheogenic,0
+2009-02,Global Communication,0
+2009-02,H.U.V.A. Network,0
+2009-02,Hallucinogen,0
+2009-02,Ishq,0
+2009-02,Kaya Project,0
+2009-02,Omnimotion,0
+2009-02,Ott,0
+2009-02,Phutureprimitive,0
+2009-02,Shpongle,0
+2009-02,Solar Fields,0
+2009-02,Tripswitch,0
+2009-02,Younger Brother,0
+2009-03,Abakus,0
+2009-03,Adham Shaikh,0
+2009-03,Aes Dana,0
+2009-03,Asura,2
+2009-03,Banco De Gaia,14
+2009-03,Bluetech,0
+2009-03,Cell,0
+2009-03,Entheogenic,0
+2009-03,Global Communication,0
+2009-03,H.U.V.A. Network,0
+2009-03,Hallucinogen,3
+2009-03,Ishq,0
+2009-03,Kaya Project,0
+2009-03,Omnimotion,0
+2009-03,Ott,0
+2009-03,Phutureprimitive,0
+2009-03,Shpongle,0
+2009-03,Solar Fields,0
+2009-03,Tripswitch,0
+2009-03,Younger Brother,0
+2009-04,Abakus,0
+2009-04,Adham Shaikh,0
+2009-04,Aes Dana,3
+2009-04,Asura,1
+2009-04,Banco De Gaia,0
+2009-04,Bluetech,7
+2009-04,Cell,4
+2009-04,Entheogenic,2
+2009-04,Global Communication,0
+2009-04,H.U.V.A. Network,2
+2009-04,Hallucinogen,3
+2009-04,Ishq,0
+2009-04,Kaya Project,0
+2009-04,Omnimotion,0
+2009-04,Ott,2
+2009-04,Phutureprimitive,1
+2009-04,Shpongle,1
+2009-04,Solar Fields,5
+2009-04,Tripswitch,1
+2009-04,Younger Brother,1

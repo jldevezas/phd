@@ -1,0 +1,561 @@
+month,artist,plays
+2007-01,Adventure Time,16
+2007-01,Ammoncontact,25
+2007-01,Bonobo,11
+2007-01,Boom Bip,4
+2007-01,Build An Ark,27
+2007-01,Caribou,14
+2007-01,Daedelus,79
+2007-01,Dimlite,17
+2007-01,Dntel,17
+2007-01,Forss,10
+2007-01,Four Tet,3
+2007-01,Lcd Soundsystem,3
+2007-01,Lusine,1
+2007-01,Max Richter,0
+2007-01,Milosh,21
+2007-01,Murcof,26
+2007-01,Prefuse 73,223
+2007-01,Telefon Tel Aviv,45
+2007-01,The Cinematic Orchestra,1
+2007-01,Tm Juke,1
+2007-02,Adventure Time,93
+2007-02,Ammoncontact,90
+2007-02,Bonobo,52
+2007-02,Boom Bip,8
+2007-02,Build An Ark,132
+2007-02,Caribou,64
+2007-02,Daedelus,387
+2007-02,Dimlite,121
+2007-02,Dntel,13
+2007-02,Forss,59
+2007-02,Four Tet,1
+2007-02,Lcd Soundsystem,1
+2007-02,Lusine,24
+2007-02,Max Richter,1
+2007-02,Milosh,4
+2007-02,Murcof,49
+2007-02,Prefuse 73,486
+2007-02,Telefon Tel Aviv,5
+2007-02,The Cinematic Orchestra,2
+2007-02,Tm Juke,3
+2007-03,Adventure Time,129
+2007-03,Ammoncontact,172
+2007-03,Bonobo,137
+2007-03,Boom Bip,12
+2007-03,Build An Ark,243
+2007-03,Caribou,106
+2007-03,Daedelus,547
+2007-03,Dimlite,203
+2007-03,Dntel,16
+2007-03,Forss,96
+2007-03,Four Tet,41
+2007-03,Lcd Soundsystem,2
+2007-03,Lusine,36
+2007-03,Max Richter,31
+2007-03,Milosh,39
+2007-03,Murcof,98
+2007-03,Prefuse 73,735
+2007-03,Telefon Tel Aviv,38
+2007-03,The Cinematic Orchestra,0
+2007-03,Tm Juke,41
+2007-04,Adventure Time,30
+2007-04,Ammoncontact,119
+2007-04,Bonobo,147
+2007-04,Boom Bip,20
+2007-04,Build An Ark,196
+2007-04,Caribou,78
+2007-04,Daedelus,158
+2007-04,Dimlite,166
+2007-04,Dntel,6
+2007-04,Forss,34
+2007-04,Four Tet,87
+2007-04,Lcd Soundsystem,23
+2007-04,Lusine,18
+2007-04,Max Richter,62
+2007-04,Milosh,66
+2007-04,Murcof,72
+2007-04,Prefuse 73,398
+2007-04,Telefon Tel Aviv,62
+2007-04,The Cinematic Orchestra,0
+2007-04,Tm Juke,53
+2007-05,Adventure Time,0
+2007-05,Ammoncontact,40
+2007-05,Bonobo,23
+2007-05,Boom Bip,7
+2007-05,Build An Ark,5
+2007-05,Caribou,15
+2007-05,Daedelus,1
+2007-05,Dimlite,6
+2007-05,Dntel,0
+2007-05,Forss,0
+2007-05,Four Tet,12
+2007-05,Lcd Soundsystem,8
+2007-05,Lusine,13
+2007-05,Max Richter,7
+2007-05,Milosh,5
+2007-05,Murcof,6
+2007-05,Prefuse 73,7
+2007-05,Telefon Tel Aviv,12
+2007-05,The Cinematic Orchestra,23
+2007-05,Tm Juke,15
+2007-06,Adventure Time,16
+2007-06,Ammoncontact,27
+2007-06,Bonobo,43
+2007-06,Boom Bip,12
+2007-06,Build An Ark,8
+2007-06,Caribou,12
+2007-06,Daedelus,32
+2007-06,Dimlite,52
+2007-06,Dntel,2
+2007-06,Forss,7
+2007-06,Four Tet,14
+2007-06,Lcd Soundsystem,4
+2007-06,Lusine,12
+2007-06,Max Richter,0
+2007-06,Milosh,8
+2007-06,Murcof,2
+2007-06,Prefuse 73,9
+2007-06,Telefon Tel Aviv,13
+2007-06,The Cinematic Orchestra,9
+2007-06,Tm Juke,2
+2007-07,Adventure Time,41
+2007-07,Ammoncontact,74
+2007-07,Bonobo,36
+2007-07,Boom Bip,17
+2007-07,Build An Ark,95
+2007-07,Caribou,57
+2007-07,Daedelus,31
+2007-07,Dimlite,121
+2007-07,Dntel,19
+2007-07,Forss,1
+2007-07,Four Tet,78
+2007-07,Lcd Soundsystem,10
+2007-07,Lusine,3
+2007-07,Max Richter,37
+2007-07,Milosh,25
+2007-07,Murcof,31
+2007-07,Prefuse 73,51
+2007-07,Telefon Tel Aviv,37
+2007-07,The Cinematic Orchestra,13
+2007-07,Tm Juke,98
+2007-08,Adventure Time,26
+2007-08,Ammoncontact,186
+2007-08,Bonobo,3
+2007-08,Boom Bip,5
+2007-08,Build An Ark,66
+2007-08,Caribou,7
+2007-08,Daedelus,36
+2007-08,Dimlite,15
+2007-08,Dntel,15
+2007-08,Forss,1
+2007-08,Four Tet,57
+2007-08,Lcd Soundsystem,2
+2007-08,Lusine,5
+2007-08,Max Richter,4
+2007-08,Milosh,6
+2007-08,Murcof,9
+2007-08,Prefuse 73,17
+2007-08,Telefon Tel Aviv,1
+2007-08,The Cinematic Orchestra,17
+2007-08,Tm Juke,4
+2007-09,Adventure Time,4
+2007-09,Ammoncontact,30
+2007-09,Bonobo,5
+2007-09,Boom Bip,6
+2007-09,Build An Ark,8
+2007-09,Caribou,3
+2007-09,Daedelus,11
+2007-09,Dimlite,9
+2007-09,Dntel,2
+2007-09,Forss,3
+2007-09,Four Tet,4
+2007-09,Lcd Soundsystem,1
+2007-09,Lusine,3
+2007-09,Max Richter,2
+2007-09,Milosh,0
+2007-09,Murcof,6
+2007-09,Prefuse 73,33
+2007-09,Telefon Tel Aviv,2
+2007-09,The Cinematic Orchestra,11
+2007-09,Tm Juke,5
+2007-10,Adventure Time,7
+2007-10,Ammoncontact,19
+2007-10,Bonobo,6
+2007-10,Boom Bip,2
+2007-10,Build An Ark,15
+2007-10,Caribou,8
+2007-10,Daedelus,34
+2007-10,Dimlite,46
+2007-10,Dntel,28
+2007-10,Forss,9
+2007-10,Four Tet,3
+2007-10,Lcd Soundsystem,5
+2007-10,Lusine,36
+2007-10,Max Richter,8
+2007-10,Milosh,5
+2007-10,Murcof,18
+2007-10,Prefuse 73,32
+2007-10,Telefon Tel Aviv,3
+2007-10,The Cinematic Orchestra,27
+2007-10,Tm Juke,4
+2007-11,Adventure Time,2
+2007-11,Ammoncontact,9
+2007-11,Bonobo,8
+2007-11,Boom Bip,2
+2007-11,Build An Ark,8
+2007-11,Caribou,8
+2007-11,Daedelus,41
+2007-11,Dimlite,39
+2007-11,Dntel,15
+2007-11,Forss,11
+2007-11,Four Tet,5
+2007-11,Lcd Soundsystem,15
+2007-11,Lusine,14
+2007-11,Max Richter,7
+2007-11,Milosh,6
+2007-11,Murcof,10
+2007-11,Prefuse 73,50
+2007-11,Telefon Tel Aviv,4
+2007-11,The Cinematic Orchestra,10
+2007-11,Tm Juke,6
+2007-12,Adventure Time,1
+2007-12,Ammoncontact,2
+2007-12,Bonobo,2
+2007-12,Boom Bip,1
+2007-12,Build An Ark,9
+2007-12,Caribou,6
+2007-12,Daedelus,4
+2007-12,Dimlite,4
+2007-12,Dntel,9
+2007-12,Forss,1
+2007-12,Four Tet,2
+2007-12,Lcd Soundsystem,6
+2007-12,Lusine,2
+2007-12,Max Richter,1
+2007-12,Milosh,2
+2007-12,Murcof,5
+2007-12,Prefuse 73,19
+2007-12,Telefon Tel Aviv,1
+2007-12,The Cinematic Orchestra,15
+2007-12,Tm Juke,1
+2008-01,Adventure Time,2
+2008-01,Ammoncontact,25
+2008-01,Bonobo,2
+2008-01,Boom Bip,3
+2008-01,Build An Ark,18
+2008-01,Caribou,9
+2008-01,Daedelus,45
+2008-01,Dimlite,3
+2008-01,Dntel,9
+2008-01,Forss,1
+2008-01,Four Tet,3
+2008-01,Lcd Soundsystem,13
+2008-01,Lusine,1
+2008-01,Max Richter,10
+2008-01,Milosh,1
+2008-01,Murcof,3
+2008-01,Prefuse 73,6
+2008-01,Telefon Tel Aviv,4
+2008-01,The Cinematic Orchestra,31
+2008-01,Tm Juke,2
+2008-02,Adventure Time,3
+2008-02,Ammoncontact,3
+2008-02,Bonobo,9
+2008-02,Boom Bip,5
+2008-02,Build An Ark,20
+2008-02,Caribou,6
+2008-02,Daedelus,21
+2008-02,Dimlite,46
+2008-02,Dntel,17
+2008-02,Forss,8
+2008-02,Four Tet,4
+2008-02,Lcd Soundsystem,14
+2008-02,Lusine,7
+2008-02,Max Richter,2
+2008-02,Milosh,14
+2008-02,Murcof,4
+2008-02,Prefuse 73,32
+2008-02,Telefon Tel Aviv,3
+2008-02,The Cinematic Orchestra,12
+2008-02,Tm Juke,2
+2008-03,Adventure Time,46
+2008-03,Ammoncontact,30
+2008-03,Bonobo,6
+2008-03,Boom Bip,2
+2008-03,Build An Ark,11
+2008-03,Caribou,10
+2008-03,Daedelus,31
+2008-03,Dimlite,43
+2008-03,Dntel,72
+2008-03,Forss,11
+2008-03,Four Tet,5
+2008-03,Lcd Soundsystem,6
+2008-03,Lusine,6
+2008-03,Max Richter,4
+2008-03,Milosh,11
+2008-03,Murcof,31
+2008-03,Prefuse 73,29
+2008-03,Telefon Tel Aviv,7
+2008-03,The Cinematic Orchestra,17
+2008-03,Tm Juke,6
+2008-04,Adventure Time,4
+2008-04,Ammoncontact,5
+2008-04,Bonobo,1
+2008-04,Boom Bip,2
+2008-04,Build An Ark,30
+2008-04,Caribou,8
+2008-04,Daedelus,23
+2008-04,Dimlite,40
+2008-04,Dntel,29
+2008-04,Forss,11
+2008-04,Four Tet,4
+2008-04,Lcd Soundsystem,3
+2008-04,Lusine,10
+2008-04,Max Richter,6
+2008-04,Milosh,3
+2008-04,Murcof,5
+2008-04,Prefuse 73,20
+2008-04,Telefon Tel Aviv,3
+2008-04,The Cinematic Orchestra,7
+2008-04,Tm Juke,2
+2008-05,Adventure Time,8
+2008-05,Ammoncontact,3
+2008-05,Bonobo,2
+2008-05,Boom Bip,2
+2008-05,Build An Ark,106
+2008-05,Caribou,6
+2008-05,Daedelus,5
+2008-05,Dimlite,52
+2008-05,Dntel,68
+2008-05,Forss,21
+2008-05,Four Tet,1
+2008-05,Lcd Soundsystem,2
+2008-05,Lusine,62
+2008-05,Max Richter,3
+2008-05,Milosh,2
+2008-05,Murcof,14
+2008-05,Prefuse 73,3
+2008-05,Telefon Tel Aviv,67
+2008-05,The Cinematic Orchestra,9
+2008-05,Tm Juke,5
+2008-06,Adventure Time,18
+2008-06,Ammoncontact,15
+2008-06,Bonobo,1
+2008-06,Boom Bip,3
+2008-06,Build An Ark,34
+2008-06,Caribou,4
+2008-06,Daedelus,13
+2008-06,Dimlite,11
+2008-06,Dntel,6
+2008-06,Forss,0
+2008-06,Four Tet,1
+2008-06,Lcd Soundsystem,3
+2008-06,Lusine,6
+2008-06,Max Richter,2
+2008-06,Milosh,2
+2008-06,Murcof,2
+2008-06,Prefuse 73,51
+2008-06,Telefon Tel Aviv,49
+2008-06,The Cinematic Orchestra,1
+2008-06,Tm Juke,1
+2008-07,Adventure Time,18
+2008-07,Ammoncontact,33
+2008-07,Bonobo,2
+2008-07,Boom Bip,4
+2008-07,Build An Ark,19
+2008-07,Caribou,8
+2008-07,Daedelus,15
+2008-07,Dimlite,38
+2008-07,Dntel,20
+2008-07,Forss,8
+2008-07,Four Tet,4
+2008-07,Lcd Soundsystem,4
+2008-07,Lusine,61
+2008-07,Max Richter,1
+2008-07,Milosh,2
+2008-07,Murcof,6
+2008-07,Prefuse 73,16
+2008-07,Telefon Tel Aviv,22
+2008-07,The Cinematic Orchestra,1
+2008-07,Tm Juke,3
+2008-08,Adventure Time,9
+2008-08,Ammoncontact,12
+2008-08,Bonobo,15
+2008-08,Boom Bip,0
+2008-08,Build An Ark,50
+2008-08,Caribou,23
+2008-08,Daedelus,8
+2008-08,Dimlite,27
+2008-08,Dntel,3
+2008-08,Forss,28
+2008-08,Four Tet,0
+2008-08,Lcd Soundsystem,22
+2008-08,Lusine,100
+2008-08,Max Richter,7
+2008-08,Milosh,2
+2008-08,Murcof,30
+2008-08,Prefuse 73,67
+2008-08,Telefon Tel Aviv,24
+2008-08,The Cinematic Orchestra,21
+2008-08,Tm Juke,6
+2008-09,Adventure Time,25
+2008-09,Ammoncontact,39
+2008-09,Bonobo,22
+2008-09,Boom Bip,2
+2008-09,Build An Ark,77
+2008-09,Caribou,23
+2008-09,Daedelus,35
+2008-09,Dimlite,28
+2008-09,Dntel,20
+2008-09,Forss,37
+2008-09,Four Tet,2
+2008-09,Lcd Soundsystem,11
+2008-09,Lusine,81
+2008-09,Max Richter,33
+2008-09,Milosh,2
+2008-09,Murcof,38
+2008-09,Prefuse 73,234
+2008-09,Telefon Tel Aviv,25
+2008-09,The Cinematic Orchestra,23
+2008-09,Tm Juke,31
+2008-10,Adventure Time,9
+2008-10,Ammoncontact,24
+2008-10,Bonobo,17
+2008-10,Boom Bip,29
+2008-10,Build An Ark,18
+2008-10,Caribou,8
+2008-10,Daedelus,24
+2008-10,Dimlite,36
+2008-10,Dntel,3
+2008-10,Forss,16
+2008-10,Four Tet,27
+2008-10,Lcd Soundsystem,5
+2008-10,Lusine,147
+2008-10,Max Richter,5
+2008-10,Milosh,1
+2008-10,Murcof,56
+2008-10,Prefuse 73,53
+2008-10,Telefon Tel Aviv,43
+2008-10,The Cinematic Orchestra,21
+2008-10,Tm Juke,15
+2008-11,Adventure Time,3
+2008-11,Ammoncontact,5
+2008-11,Bonobo,4
+2008-11,Boom Bip,4
+2008-11,Build An Ark,5
+2008-11,Caribou,0
+2008-11,Daedelus,0
+2008-11,Dimlite,1
+2008-11,Dntel,1
+2008-11,Forss,3
+2008-11,Four Tet,1
+2008-11,Lcd Soundsystem,1
+2008-11,Lusine,6
+2008-11,Max Richter,1
+2008-11,Milosh,13
+2008-11,Murcof,7
+2008-11,Prefuse 73,20
+2008-11,Telefon Tel Aviv,1
+2008-11,The Cinematic Orchestra,6
+2008-11,Tm Juke,2
+2008-12,Adventure Time,1
+2008-12,Ammoncontact,6
+2008-12,Bonobo,6
+2008-12,Boom Bip,16
+2008-12,Build An Ark,6
+2008-12,Caribou,2
+2008-12,Daedelus,2
+2008-12,Dimlite,4
+2008-12,Dntel,11
+2008-12,Forss,7
+2008-12,Four Tet,2
+2008-12,Lcd Soundsystem,1
+2008-12,Lusine,29
+2008-12,Max Richter,1
+2008-12,Milosh,54
+2008-12,Murcof,23
+2008-12,Prefuse 73,60
+2008-12,Telefon Tel Aviv,19
+2008-12,The Cinematic Orchestra,6
+2008-12,Tm Juke,0
+2009-01,Adventure Time,1
+2009-01,Ammoncontact,24
+2009-01,Bonobo,20
+2009-01,Boom Bip,18
+2009-01,Build An Ark,3
+2009-01,Caribou,3
+2009-01,Daedelus,12
+2009-01,Dimlite,3
+2009-01,Dntel,18
+2009-01,Forss,4
+2009-01,Four Tet,3
+2009-01,Lcd Soundsystem,4
+2009-01,Lusine,39
+2009-01,Max Richter,1
+2009-01,Milosh,27
+2009-01,Murcof,15
+2009-01,Prefuse 73,59
+2009-01,Telefon Tel Aviv,93
+2009-01,The Cinematic Orchestra,19
+2009-01,Tm Juke,4
+2009-02,Adventure Time,0
+2009-02,Ammoncontact,2
+2009-02,Bonobo,17
+2009-02,Boom Bip,8
+2009-02,Build An Ark,19
+2009-02,Caribou,0
+2009-02,Daedelus,27
+2009-02,Dimlite,1
+2009-02,Dntel,15
+2009-02,Forss,1
+2009-02,Four Tet,3
+2009-02,Lcd Soundsystem,1
+2009-02,Lusine,36
+2009-02,Max Richter,65
+2009-02,Milosh,24
+2009-02,Murcof,12
+2009-02,Prefuse 73,107
+2009-02,Telefon Tel Aviv,70
+2009-02,The Cinematic Orchestra,30
+2009-02,Tm Juke,0
+2009-03,Adventure Time,0
+2009-03,Ammoncontact,5
+2009-03,Bonobo,2
+2009-03,Boom Bip,12
+2009-03,Build An Ark,3
+2009-03,Caribou,1
+2009-03,Daedelus,4
+2009-03,Dimlite,4
+2009-03,Dntel,55
+2009-03,Forss,3
+2009-03,Four Tet,11
+2009-03,Lcd Soundsystem,1
+2009-03,Lusine,54
+2009-03,Max Richter,18
+2009-03,Milosh,18
+2009-03,Murcof,23
+2009-03,Prefuse 73,177
+2009-03,Telefon Tel Aviv,52
+2009-03,The Cinematic Orchestra,4
+2009-03,Tm Juke,2
+2009-04,Adventure Time,6
+2009-04,Ammoncontact,17
+2009-04,Bonobo,6
+2009-04,Boom Bip,34
+2009-04,Build An Ark,9
+2009-04,Caribou,30
+2009-04,Daedelus,4
+2009-04,Dimlite,7
+2009-04,Dntel,7
+2009-04,Forss,6
+2009-04,Four Tet,22
+2009-04,Lcd Soundsystem,2
+2009-04,Lusine,28
+2009-04,Max Richter,3
+2009-04,Milosh,6
+2009-04,Murcof,3
+2009-04,Prefuse 73,9
+2009-04,Telefon Tel Aviv,2
+2009-04,The Cinematic Orchestra,8
+2009-04,Tm Juke,3

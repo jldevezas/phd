@@ -1,0 +1,981 @@
+month,artist,plays
+2005-06,Amorphis,9
+2005-06,Arch Enemy,8
+2005-06,Bloodhound Gang,0
+2005-06,Cradle Of Filth,7
+2005-06,Dark Tranquillity,0
+2005-06,Dream Evil,5
+2005-06,Ensiferum,5
+2005-06,Fear Factory,61
+2005-06,Him,16
+2005-06,In Flames,17
+2005-06,Korn,17
+2005-06,Lamb Of God,0
+2005-06,Limp Bizkit,5
+2005-06,Moonspell,73
+2005-06,Nine Inch Nails,63
+2005-06,Papa Roach,10
+2005-06,Ruoska,0
+2005-06,Slipknot,12
+2005-06,Strapping Young Lad,0
+2005-06,Type O Negative,125
+2005-07,Amorphis,0
+2005-07,Arch Enemy,4
+2005-07,Bloodhound Gang,2
+2005-07,Cradle Of Filth,3
+2005-07,Dark Tranquillity,0
+2005-07,Dream Evil,11
+2005-07,Ensiferum,6
+2005-07,Fear Factory,31
+2005-07,Him,9
+2005-07,In Flames,12
+2005-07,Korn,5
+2005-07,Lamb Of God,0
+2005-07,Limp Bizkit,1
+2005-07,Moonspell,24
+2005-07,Nine Inch Nails,52
+2005-07,Papa Roach,8
+2005-07,Ruoska,0
+2005-07,Slipknot,26
+2005-07,Strapping Young Lad,0
+2005-07,Type O Negative,135
+2005-08,Amorphis,0
+2005-08,Arch Enemy,12
+2005-08,Bloodhound Gang,62
+2005-08,Cradle Of Filth,5
+2005-08,Dark Tranquillity,0
+2005-08,Dream Evil,16
+2005-08,Ensiferum,8
+2005-08,Fear Factory,215
+2005-08,Him,28
+2005-08,In Flames,15
+2005-08,Korn,16
+2005-08,Lamb Of God,0
+2005-08,Limp Bizkit,4
+2005-08,Moonspell,135
+2005-08,Nine Inch Nails,27
+2005-08,Papa Roach,12
+2005-08,Ruoska,0
+2005-08,Slipknot,8
+2005-08,Strapping Young Lad,0
+2005-08,Type O Negative,350
+2005-09,Amorphis,0
+2005-09,Arch Enemy,7
+2005-09,Bloodhound Gang,41
+2005-09,Cradle Of Filth,0
+2005-09,Dark Tranquillity,0
+2005-09,Dream Evil,6
+2005-09,Ensiferum,83
+2005-09,Fear Factory,24
+2005-09,Him,5
+2005-09,In Flames,4
+2005-09,Korn,3
+2005-09,Lamb Of God,1
+2005-09,Limp Bizkit,2
+2005-09,Moonspell,12
+2005-09,Nine Inch Nails,3
+2005-09,Papa Roach,3
+2005-09,Ruoska,0
+2005-09,Slipknot,4
+2005-09,Strapping Young Lad,0
+2005-09,Type O Negative,17
+2005-10,Amorphis,3
+2005-10,Arch Enemy,5
+2005-10,Bloodhound Gang,3
+2005-10,Cradle Of Filth,0
+2005-10,Dark Tranquillity,1
+2005-10,Dream Evil,4
+2005-10,Ensiferum,1004
+2005-10,Fear Factory,9
+2005-10,Him,0
+2005-10,In Flames,9
+2005-10,Korn,7
+2005-10,Lamb Of God,0
+2005-10,Limp Bizkit,0
+2005-10,Moonspell,4
+2005-10,Nine Inch Nails,3
+2005-10,Papa Roach,3
+2005-10,Ruoska,0
+2005-10,Slipknot,3
+2005-10,Strapping Young Lad,0
+2005-10,Type O Negative,3
+2005-11,Amorphis,4
+2005-11,Arch Enemy,2
+2005-11,Bloodhound Gang,4
+2005-11,Cradle Of Filth,0
+2005-11,Dark Tranquillity,1
+2005-11,Dream Evil,0
+2005-11,Ensiferum,43
+2005-11,Fear Factory,11
+2005-11,Him,33
+2005-11,In Flames,9
+2005-11,Korn,4
+2005-11,Lamb Of God,0
+2005-11,Limp Bizkit,10
+2005-11,Moonspell,20
+2005-11,Nine Inch Nails,1
+2005-11,Papa Roach,2
+2005-11,Ruoska,0
+2005-11,Slipknot,2
+2005-11,Strapping Young Lad,0
+2005-11,Type O Negative,124
+2005-12,Amorphis,82
+2005-12,Arch Enemy,4
+2005-12,Bloodhound Gang,13
+2005-12,Cradle Of Filth,7
+2005-12,Dark Tranquillity,4
+2005-12,Dream Evil,6
+2005-12,Ensiferum,106
+2005-12,Fear Factory,121
+2005-12,Him,7
+2005-12,In Flames,15
+2005-12,Korn,14
+2005-12,Lamb Of God,0
+2005-12,Limp Bizkit,2
+2005-12,Moonspell,20
+2005-12,Nine Inch Nails,8
+2005-12,Papa Roach,3
+2005-12,Ruoska,0
+2005-12,Slipknot,4
+2005-12,Strapping Young Lad,117
+2005-12,Type O Negative,26
+2006-01,Amorphis,6
+2006-01,Arch Enemy,0
+2006-01,Bloodhound Gang,0
+2006-01,Cradle Of Filth,0
+2006-01,Dark Tranquillity,0
+2006-01,Dream Evil,0
+2006-01,Ensiferum,26
+2006-01,Fear Factory,3
+2006-01,Him,2
+2006-01,In Flames,2
+2006-01,Korn,0
+2006-01,Lamb Of God,0
+2006-01,Limp Bizkit,0
+2006-01,Moonspell,7
+2006-01,Nine Inch Nails,0
+2006-01,Papa Roach,0
+2006-01,Ruoska,0
+2006-01,Slipknot,0
+2006-01,Strapping Young Lad,1
+2006-01,Type O Negative,1
+2006-02,Amorphis,14
+2006-02,Arch Enemy,6
+2006-02,Bloodhound Gang,5
+2006-02,Cradle Of Filth,1
+2006-02,Dark Tranquillity,4
+2006-02,Dream Evil,7
+2006-02,Ensiferum,155
+2006-02,Fear Factory,42
+2006-02,Him,244
+2006-02,In Flames,20
+2006-02,Korn,24
+2006-02,Lamb Of God,0
+2006-02,Limp Bizkit,8
+2006-02,Moonspell,34
+2006-02,Nine Inch Nails,33
+2006-02,Papa Roach,2
+2006-02,Ruoska,0
+2006-02,Slipknot,8
+2006-02,Strapping Young Lad,6
+2006-02,Type O Negative,51
+2006-03,Amorphis,30
+2006-03,Arch Enemy,14
+2006-03,Bloodhound Gang,9
+2006-03,Cradle Of Filth,5
+2006-03,Dark Tranquillity,10
+2006-03,Dream Evil,14
+2006-03,Ensiferum,10
+2006-03,Fear Factory,87
+2006-03,Him,30
+2006-03,In Flames,28
+2006-03,Korn,117
+2006-03,Lamb Of God,0
+2006-03,Limp Bizkit,26
+2006-03,Moonspell,55
+2006-03,Nine Inch Nails,12
+2006-03,Papa Roach,4
+2006-03,Ruoska,0
+2006-03,Slipknot,10
+2006-03,Strapping Young Lad,14
+2006-03,Type O Negative,85
+2006-04,Amorphis,114
+2006-04,Arch Enemy,8
+2006-04,Bloodhound Gang,2
+2006-04,Cradle Of Filth,2
+2006-04,Dark Tranquillity,4
+2006-04,Dream Evil,10
+2006-04,Ensiferum,21
+2006-04,Fear Factory,149
+2006-04,Him,14
+2006-04,In Flames,56
+2006-04,Korn,41
+2006-04,Lamb Of God,0
+2006-04,Limp Bizkit,46
+2006-04,Moonspell,40
+2006-04,Nine Inch Nails,19
+2006-04,Papa Roach,4
+2006-04,Ruoska,0
+2006-04,Slipknot,4
+2006-04,Strapping Young Lad,137
+2006-04,Type O Negative,670
+2006-05,Amorphis,12
+2006-05,Arch Enemy,4
+2006-05,Bloodhound Gang,1
+2006-05,Cradle Of Filth,3
+2006-05,Dark Tranquillity,19
+2006-05,Dream Evil,7
+2006-05,Ensiferum,9
+2006-05,Fear Factory,20
+2006-05,Him,7
+2006-05,In Flames,16
+2006-05,Korn,19
+2006-05,Lamb Of God,0
+2006-05,Limp Bizkit,11
+2006-05,Moonspell,37
+2006-05,Nine Inch Nails,6
+2006-05,Papa Roach,1
+2006-05,Ruoska,0
+2006-05,Slipknot,4
+2006-05,Strapping Young Lad,16
+2006-05,Type O Negative,254
+2006-06,Amorphis,2
+2006-06,Arch Enemy,26
+2006-06,Bloodhound Gang,2
+2006-06,Cradle Of Filth,1
+2006-06,Dark Tranquillity,1
+2006-06,Dream Evil,1
+2006-06,Ensiferum,6
+2006-06,Fear Factory,6
+2006-06,Him,17
+2006-06,In Flames,7
+2006-06,Korn,6
+2006-06,Lamb Of God,0
+2006-06,Limp Bizkit,3
+2006-06,Moonspell,5
+2006-06,Nine Inch Nails,3
+2006-06,Papa Roach,1
+2006-06,Ruoska,0
+2006-06,Slipknot,3
+2006-06,Strapping Young Lad,114
+2006-06,Type O Negative,42
+2006-07,Amorphis,3
+2006-07,Arch Enemy,1
+2006-07,Bloodhound Gang,0
+2006-07,Cradle Of Filth,1
+2006-07,Dark Tranquillity,0
+2006-07,Dream Evil,1
+2006-07,Ensiferum,15
+2006-07,Fear Factory,2
+2006-07,Him,1
+2006-07,In Flames,4
+2006-07,Korn,3
+2006-07,Lamb Of God,2
+2006-07,Limp Bizkit,3
+2006-07,Moonspell,2
+2006-07,Nine Inch Nails,3
+2006-07,Papa Roach,1
+2006-07,Ruoska,14
+2006-07,Slipknot,1
+2006-07,Strapping Young Lad,229
+2006-07,Type O Negative,32
+2006-08,Amorphis,2
+2006-08,Arch Enemy,1
+2006-08,Bloodhound Gang,0
+2006-08,Cradle Of Filth,1
+2006-08,Dark Tranquillity,0
+2006-08,Dream Evil,1
+2006-08,Ensiferum,23
+2006-08,Fear Factory,12
+2006-08,Him,2
+2006-08,In Flames,5
+2006-08,Korn,15
+2006-08,Lamb Of God,1
+2006-08,Limp Bizkit,13
+2006-08,Moonspell,10
+2006-08,Nine Inch Nails,2
+2006-08,Papa Roach,0
+2006-08,Ruoska,19
+2006-08,Slipknot,2
+2006-08,Strapping Young Lad,192
+2006-08,Type O Negative,44
+2006-09,Amorphis,0
+2006-09,Arch Enemy,0
+2006-09,Bloodhound Gang,33
+2006-09,Cradle Of Filth,0
+2006-09,Dark Tranquillity,0
+2006-09,Dream Evil,0
+2006-09,Ensiferum,70
+2006-09,Fear Factory,36
+2006-09,Him,0
+2006-09,In Flames,0
+2006-09,Korn,0
+2006-09,Lamb Of God,36
+2006-09,Limp Bizkit,0
+2006-09,Moonspell,125
+2006-09,Nine Inch Nails,0
+2006-09,Papa Roach,28
+2006-09,Ruoska,229
+2006-09,Slipknot,0
+2006-09,Strapping Young Lad,133
+2006-09,Type O Negative,78
+2006-10,Amorphis,0
+2006-10,Arch Enemy,0
+2006-10,Bloodhound Gang,23
+2006-10,Cradle Of Filth,0
+2006-10,Dark Tranquillity,0
+2006-10,Dream Evil,5
+2006-10,Ensiferum,5
+2006-10,Fear Factory,34
+2006-10,Him,0
+2006-10,In Flames,1
+2006-10,Korn,0
+2006-10,Lamb Of God,14
+2006-10,Limp Bizkit,0
+2006-10,Moonspell,56
+2006-10,Nine Inch Nails,0
+2006-10,Papa Roach,4
+2006-10,Ruoska,222
+2006-10,Slipknot,8
+2006-10,Strapping Young Lad,15
+2006-10,Type O Negative,21
+2006-11,Amorphis,0
+2006-11,Arch Enemy,0
+2006-11,Bloodhound Gang,6
+2006-11,Cradle Of Filth,0
+2006-11,Dark Tranquillity,0
+2006-11,Dream Evil,6
+2006-11,Ensiferum,13
+2006-11,Fear Factory,12
+2006-11,Him,0
+2006-11,In Flames,0
+2006-11,Korn,0
+2006-11,Lamb Of God,3
+2006-11,Limp Bizkit,0
+2006-11,Moonspell,6
+2006-11,Nine Inch Nails,0
+2006-11,Papa Roach,2
+2006-11,Ruoska,28
+2006-11,Slipknot,8
+2006-11,Strapping Young Lad,11
+2006-11,Type O Negative,21
+2006-12,Amorphis,0
+2006-12,Arch Enemy,0
+2006-12,Bloodhound Gang,7
+2006-12,Cradle Of Filth,0
+2006-12,Dark Tranquillity,0
+2006-12,Dream Evil,2
+2006-12,Ensiferum,18
+2006-12,Fear Factory,14
+2006-12,Him,0
+2006-12,In Flames,0
+2006-12,Korn,0
+2006-12,Lamb Of God,3
+2006-12,Limp Bizkit,0
+2006-12,Moonspell,5
+2006-12,Nine Inch Nails,0
+2006-12,Papa Roach,1
+2006-12,Ruoska,25
+2006-12,Slipknot,6
+2006-12,Strapping Young Lad,5
+2006-12,Type O Negative,7
+2007-01,Amorphis,0
+2007-01,Arch Enemy,0
+2007-01,Bloodhound Gang,0
+2007-01,Cradle Of Filth,0
+2007-01,Dark Tranquillity,0
+2007-01,Dream Evil,31
+2007-01,Ensiferum,14
+2007-01,Fear Factory,1
+2007-01,Him,0
+2007-01,In Flames,0
+2007-01,Korn,0
+2007-01,Lamb Of God,1
+2007-01,Limp Bizkit,0
+2007-01,Moonspell,2
+2007-01,Nine Inch Nails,0
+2007-01,Papa Roach,0
+2007-01,Ruoska,1
+2007-01,Slipknot,12
+2007-01,Strapping Young Lad,25
+2007-01,Type O Negative,2
+2007-02,Amorphis,0
+2007-02,Arch Enemy,0
+2007-02,Bloodhound Gang,1
+2007-02,Cradle Of Filth,0
+2007-02,Dark Tranquillity,0
+2007-02,Dream Evil,58
+2007-02,Ensiferum,18
+2007-02,Fear Factory,3
+2007-02,Him,0
+2007-02,In Flames,5
+2007-02,Korn,0
+2007-02,Lamb Of God,3
+2007-02,Limp Bizkit,0
+2007-02,Moonspell,2
+2007-02,Nine Inch Nails,0
+2007-02,Papa Roach,0
+2007-02,Ruoska,2
+2007-02,Slipknot,3
+2007-02,Strapping Young Lad,33
+2007-02,Type O Negative,2
+2007-03,Amorphis,0
+2007-03,Arch Enemy,1
+2007-03,Bloodhound Gang,1
+2007-03,Cradle Of Filth,0
+2007-03,Dark Tranquillity,1
+2007-03,Dream Evil,1
+2007-03,Ensiferum,2
+2007-03,Fear Factory,2
+2007-03,Him,0
+2007-03,In Flames,12
+2007-03,Korn,0
+2007-03,Lamb Of God,4
+2007-03,Limp Bizkit,0
+2007-03,Moonspell,4
+2007-03,Nine Inch Nails,1
+2007-03,Papa Roach,3
+2007-03,Ruoska,5
+2007-03,Slipknot,56
+2007-03,Strapping Young Lad,1
+2007-03,Type O Negative,3
+2007-04,Amorphis,0
+2007-04,Arch Enemy,0
+2007-04,Bloodhound Gang,3
+2007-04,Cradle Of Filth,0
+2007-04,Dark Tranquillity,6
+2007-04,Dream Evil,1
+2007-04,Ensiferum,1
+2007-04,Fear Factory,5
+2007-04,Him,0
+2007-04,In Flames,7
+2007-04,Korn,0
+2007-04,Lamb Of God,4
+2007-04,Limp Bizkit,0
+2007-04,Moonspell,5
+2007-04,Nine Inch Nails,7
+2007-04,Papa Roach,7
+2007-04,Ruoska,17
+2007-04,Slipknot,5
+2007-04,Strapping Young Lad,5
+2007-04,Type O Negative,4
+2007-05,Amorphis,0
+2007-05,Arch Enemy,2
+2007-05,Bloodhound Gang,4
+2007-05,Cradle Of Filth,0
+2007-05,Dark Tranquillity,10
+2007-05,Dream Evil,4
+2007-05,Ensiferum,10
+2007-05,Fear Factory,9
+2007-05,Him,2
+2007-05,In Flames,6
+2007-05,Korn,0
+2007-05,Lamb Of God,4
+2007-05,Limp Bizkit,0
+2007-05,Moonspell,8
+2007-05,Nine Inch Nails,3
+2007-05,Papa Roach,1
+2007-05,Ruoska,101
+2007-05,Slipknot,2
+2007-05,Strapping Young Lad,8
+2007-05,Type O Negative,7
+2007-06,Amorphis,297
+2007-06,Arch Enemy,1
+2007-06,Bloodhound Gang,1
+2007-06,Cradle Of Filth,0
+2007-06,Dark Tranquillity,6
+2007-06,Dream Evil,0
+2007-06,Ensiferum,23
+2007-06,Fear Factory,8
+2007-06,Him,2
+2007-06,In Flames,125
+2007-06,Korn,0
+2007-06,Lamb Of God,1
+2007-06,Limp Bizkit,0
+2007-06,Moonspell,3
+2007-06,Nine Inch Nails,2
+2007-06,Papa Roach,1
+2007-06,Ruoska,15
+2007-06,Slipknot,8
+2007-06,Strapping Young Lad,1
+2007-06,Type O Negative,2
+2007-07,Amorphis,74
+2007-07,Arch Enemy,24
+2007-07,Bloodhound Gang,22
+2007-07,Cradle Of Filth,0
+2007-07,Dark Tranquillity,105
+2007-07,Dream Evil,18
+2007-07,Ensiferum,25
+2007-07,Fear Factory,71
+2007-07,Him,1
+2007-07,In Flames,49
+2007-07,Korn,0
+2007-07,Lamb Of God,38
+2007-07,Limp Bizkit,0
+2007-07,Moonspell,40
+2007-07,Nine Inch Nails,47
+2007-07,Papa Roach,45
+2007-07,Ruoska,48
+2007-07,Slipknot,82
+2007-07,Strapping Young Lad,35
+2007-07,Type O Negative,49
+2007-08,Amorphis,9
+2007-08,Arch Enemy,13
+2007-08,Bloodhound Gang,12
+2007-08,Cradle Of Filth,0
+2007-08,Dark Tranquillity,7
+2007-08,Dream Evil,1
+2007-08,Ensiferum,2
+2007-08,Fear Factory,11
+2007-08,Him,0
+2007-08,In Flames,8
+2007-08,Korn,62
+2007-08,Lamb Of God,9
+2007-08,Limp Bizkit,0
+2007-08,Moonspell,6
+2007-08,Nine Inch Nails,3
+2007-08,Papa Roach,0
+2007-08,Ruoska,8
+2007-08,Slipknot,10
+2007-08,Strapping Young Lad,8
+2007-08,Type O Negative,6
+2007-09,Amorphis,1
+2007-09,Arch Enemy,21
+2007-09,Bloodhound Gang,5
+2007-09,Cradle Of Filth,1
+2007-09,Dark Tranquillity,14
+2007-09,Dream Evil,1
+2007-09,Ensiferum,8
+2007-09,Fear Factory,19
+2007-09,Him,1
+2007-09,In Flames,9
+2007-09,Korn,18
+2007-09,Lamb Of God,11
+2007-09,Limp Bizkit,0
+2007-09,Moonspell,12
+2007-09,Nine Inch Nails,12
+2007-09,Papa Roach,8
+2007-09,Ruoska,16
+2007-09,Slipknot,12
+2007-09,Strapping Young Lad,11
+2007-09,Type O Negative,6
+2007-10,Amorphis,1
+2007-10,Arch Enemy,2
+2007-10,Bloodhound Gang,4
+2007-10,Cradle Of Filth,3
+2007-10,Dark Tranquillity,4
+2007-10,Dream Evil,0
+2007-10,Ensiferum,0
+2007-10,Fear Factory,5
+2007-10,Him,0
+2007-10,In Flames,2
+2007-10,Korn,6
+2007-10,Lamb Of God,0
+2007-10,Limp Bizkit,0
+2007-10,Moonspell,3
+2007-10,Nine Inch Nails,2
+2007-10,Papa Roach,2
+2007-10,Ruoska,1
+2007-10,Slipknot,4
+2007-10,Strapping Young Lad,4
+2007-10,Type O Negative,2
+2007-11,Amorphis,3
+2007-11,Arch Enemy,0
+2007-11,Bloodhound Gang,1
+2007-11,Cradle Of Filth,3
+2007-11,Dark Tranquillity,3
+2007-11,Dream Evil,0
+2007-11,Ensiferum,2
+2007-11,Fear Factory,2
+2007-11,Him,0
+2007-11,In Flames,8
+2007-11,Korn,6
+2007-11,Lamb Of God,2
+2007-11,Limp Bizkit,8
+2007-11,Moonspell,2
+2007-11,Nine Inch Nails,6
+2007-11,Papa Roach,15
+2007-11,Ruoska,3
+2007-11,Slipknot,10
+2007-11,Strapping Young Lad,3
+2007-11,Type O Negative,0
+2007-12,Amorphis,5
+2007-12,Arch Enemy,2
+2007-12,Bloodhound Gang,1
+2007-12,Cradle Of Filth,3
+2007-12,Dark Tranquillity,8
+2007-12,Dream Evil,0
+2007-12,Ensiferum,0
+2007-12,Fear Factory,5
+2007-12,Him,3
+2007-12,In Flames,3
+2007-12,Korn,4
+2007-12,Lamb Of God,0
+2007-12,Limp Bizkit,2
+2007-12,Moonspell,4
+2007-12,Nine Inch Nails,3
+2007-12,Papa Roach,7
+2007-12,Ruoska,0
+2007-12,Slipknot,2
+2007-12,Strapping Young Lad,5
+2007-12,Type O Negative,39
+2008-01,Amorphis,0
+2008-01,Arch Enemy,0
+2008-01,Bloodhound Gang,1
+2008-01,Cradle Of Filth,4
+2008-01,Dark Tranquillity,4
+2008-01,Dream Evil,0
+2008-01,Ensiferum,4
+2008-01,Fear Factory,1
+2008-01,Him,3
+2008-01,In Flames,3
+2008-01,Korn,9
+2008-01,Lamb Of God,3
+2008-01,Limp Bizkit,0
+2008-01,Moonspell,3
+2008-01,Nine Inch Nails,0
+2008-01,Papa Roach,2
+2008-01,Ruoska,3
+2008-01,Slipknot,4
+2008-01,Strapping Young Lad,2
+2008-01,Type O Negative,2
+2008-02,Amorphis,0
+2008-02,Arch Enemy,0
+2008-02,Bloodhound Gang,0
+2008-02,Cradle Of Filth,1
+2008-02,Dark Tranquillity,1
+2008-02,Dream Evil,0
+2008-02,Ensiferum,1
+2008-02,Fear Factory,1
+2008-02,Him,0
+2008-02,In Flames,0
+2008-02,Korn,1
+2008-02,Lamb Of God,0
+2008-02,Limp Bizkit,0
+2008-02,Moonspell,0
+2008-02,Nine Inch Nails,0
+2008-02,Papa Roach,1
+2008-02,Ruoska,0
+2008-02,Slipknot,10
+2008-02,Strapping Young Lad,0
+2008-02,Type O Negative,1
+2008-03,Amorphis,0
+2008-03,Arch Enemy,0
+2008-03,Bloodhound Gang,0
+2008-03,Cradle Of Filth,0
+2008-03,Dark Tranquillity,0
+2008-03,Dream Evil,0
+2008-03,Ensiferum,0
+2008-03,Fear Factory,0
+2008-03,Him,0
+2008-03,In Flames,0
+2008-03,Korn,0
+2008-03,Lamb Of God,0
+2008-03,Limp Bizkit,0
+2008-03,Moonspell,0
+2008-03,Nine Inch Nails,0
+2008-03,Papa Roach,0
+2008-03,Ruoska,0
+2008-03,Slipknot,0
+2008-03,Strapping Young Lad,0
+2008-03,Type O Negative,0
+2008-04,Amorphis,0
+2008-04,Arch Enemy,0
+2008-04,Bloodhound Gang,0
+2008-04,Cradle Of Filth,0
+2008-04,Dark Tranquillity,0
+2008-04,Dream Evil,0
+2008-04,Ensiferum,0
+2008-04,Fear Factory,0
+2008-04,Him,0
+2008-04,In Flames,0
+2008-04,Korn,0
+2008-04,Lamb Of God,0
+2008-04,Limp Bizkit,0
+2008-04,Moonspell,0
+2008-04,Nine Inch Nails,0
+2008-04,Papa Roach,0
+2008-04,Ruoska,0
+2008-04,Slipknot,0
+2008-04,Strapping Young Lad,0
+2008-04,Type O Negative,0
+2008-05,Amorphis,0
+2008-05,Arch Enemy,0
+2008-05,Bloodhound Gang,0
+2008-05,Cradle Of Filth,0
+2008-05,Dark Tranquillity,1
+2008-05,Dream Evil,0
+2008-05,Ensiferum,0
+2008-05,Fear Factory,0
+2008-05,Him,0
+2008-05,In Flames,0
+2008-05,Korn,0
+2008-05,Lamb Of God,0
+2008-05,Limp Bizkit,0
+2008-05,Moonspell,0
+2008-05,Nine Inch Nails,0
+2008-05,Papa Roach,0
+2008-05,Ruoska,0
+2008-05,Slipknot,0
+2008-05,Strapping Young Lad,0
+2008-05,Type O Negative,0
+2008-06,Amorphis,0
+2008-06,Arch Enemy,2
+2008-06,Bloodhound Gang,1
+2008-06,Cradle Of Filth,0
+2008-06,Dark Tranquillity,1
+2008-06,Dream Evil,0
+2008-06,Ensiferum,1
+2008-06,Fear Factory,0
+2008-06,Him,0
+2008-06,In Flames,0
+2008-06,Korn,0
+2008-06,Lamb Of God,0
+2008-06,Limp Bizkit,1
+2008-06,Moonspell,1
+2008-06,Nine Inch Nails,1
+2008-06,Papa Roach,1
+2008-06,Ruoska,0
+2008-06,Slipknot,2
+2008-06,Strapping Young Lad,1
+2008-06,Type O Negative,1
+2008-07,Amorphis,1
+2008-07,Arch Enemy,0
+2008-07,Bloodhound Gang,1
+2008-07,Cradle Of Filth,1
+2008-07,Dark Tranquillity,2
+2008-07,Dream Evil,0
+2008-07,Ensiferum,1
+2008-07,Fear Factory,3
+2008-07,Him,1
+2008-07,In Flames,0
+2008-07,Korn,3
+2008-07,Lamb Of God,4
+2008-07,Limp Bizkit,1
+2008-07,Moonspell,1
+2008-07,Nine Inch Nails,1
+2008-07,Papa Roach,1
+2008-07,Ruoska,3
+2008-07,Slipknot,1
+2008-07,Strapping Young Lad,2
+2008-07,Type O Negative,4
+2008-08,Amorphis,1
+2008-08,Arch Enemy,0
+2008-08,Bloodhound Gang,0
+2008-08,Cradle Of Filth,1
+2008-08,Dark Tranquillity,3
+2008-08,Dream Evil,0
+2008-08,Ensiferum,0
+2008-08,Fear Factory,2
+2008-08,Him,0
+2008-08,In Flames,1
+2008-08,Korn,3
+2008-08,Lamb Of God,2
+2008-08,Limp Bizkit,1
+2008-08,Moonspell,0
+2008-08,Nine Inch Nails,1
+2008-08,Papa Roach,0
+2008-08,Ruoska,1
+2008-08,Slipknot,49
+2008-08,Strapping Young Lad,4
+2008-08,Type O Negative,1
+2008-09,Amorphis,1
+2008-09,Arch Enemy,4
+2008-09,Bloodhound Gang,1
+2008-09,Cradle Of Filth,3
+2008-09,Dark Tranquillity,4
+2008-09,Dream Evil,0
+2008-09,Ensiferum,1
+2008-09,Fear Factory,2
+2008-09,Him,1
+2008-09,In Flames,1
+2008-09,Korn,1
+2008-09,Lamb Of God,1
+2008-09,Limp Bizkit,1
+2008-09,Moonspell,2
+2008-09,Nine Inch Nails,5
+2008-09,Papa Roach,1
+2008-09,Ruoska,12
+2008-09,Slipknot,2
+2008-09,Strapping Young Lad,3
+2008-09,Type O Negative,6
+2008-10,Amorphis,0
+2008-10,Arch Enemy,2
+2008-10,Bloodhound Gang,1
+2008-10,Cradle Of Filth,5
+2008-10,Dark Tranquillity,9
+2008-10,Dream Evil,3
+2008-10,Ensiferum,1
+2008-10,Fear Factory,8
+2008-10,Him,5
+2008-10,In Flames,4
+2008-10,Korn,11
+2008-10,Lamb Of God,2
+2008-10,Limp Bizkit,8
+2008-10,Moonspell,3
+2008-10,Nine Inch Nails,2
+2008-10,Papa Roach,16
+2008-10,Ruoska,16
+2008-10,Slipknot,4
+2008-10,Strapping Young Lad,7
+2008-10,Type O Negative,14
+2008-11,Amorphis,0
+2008-11,Arch Enemy,1
+2008-11,Bloodhound Gang,1
+2008-11,Cradle Of Filth,4
+2008-11,Dark Tranquillity,11
+2008-11,Dream Evil,1
+2008-11,Ensiferum,7
+2008-11,Fear Factory,5
+2008-11,Him,3
+2008-11,In Flames,6
+2008-11,Korn,13
+2008-11,Lamb Of God,5
+2008-11,Limp Bizkit,12
+2008-11,Moonspell,4
+2008-11,Nine Inch Nails,8
+2008-11,Papa Roach,3
+2008-11,Ruoska,4
+2008-11,Slipknot,32
+2008-11,Strapping Young Lad,5
+2008-11,Type O Negative,10
+2008-12,Amorphis,2
+2008-12,Arch Enemy,1
+2008-12,Bloodhound Gang,1
+2008-12,Cradle Of Filth,1
+2008-12,Dark Tranquillity,4
+2008-12,Dream Evil,0
+2008-12,Ensiferum,3
+2008-12,Fear Factory,5
+2008-12,Him,5
+2008-12,In Flames,5
+2008-12,Korn,15
+2008-12,Lamb Of God,5
+2008-12,Limp Bizkit,0
+2008-12,Moonspell,1
+2008-12,Nine Inch Nails,3
+2008-12,Papa Roach,0
+2008-12,Ruoska,2
+2008-12,Slipknot,12
+2008-12,Strapping Young Lad,0
+2008-12,Type O Negative,3
+2009-01,Amorphis,5
+2009-01,Arch Enemy,0
+2009-01,Bloodhound Gang,0
+2009-01,Cradle Of Filth,0
+2009-01,Dark Tranquillity,1
+2009-01,Dream Evil,1
+2009-01,Ensiferum,0
+2009-01,Fear Factory,11
+2009-01,Him,0
+2009-01,In Flames,8
+2009-01,Korn,1
+2009-01,Lamb Of God,1
+2009-01,Limp Bizkit,1
+2009-01,Moonspell,1
+2009-01,Nine Inch Nails,1
+2009-01,Papa Roach,0
+2009-01,Ruoska,0
+2009-01,Slipknot,2
+2009-01,Strapping Young Lad,5
+2009-01,Type O Negative,0
+2009-02,Amorphis,0
+2009-02,Arch Enemy,0
+2009-02,Bloodhound Gang,0
+2009-02,Cradle Of Filth,1
+2009-02,Dark Tranquillity,0
+2009-02,Dream Evil,0
+2009-02,Ensiferum,2
+2009-02,Fear Factory,0
+2009-02,Him,0
+2009-02,In Flames,1
+2009-02,Korn,1
+2009-02,Lamb Of God,1
+2009-02,Limp Bizkit,1
+2009-02,Moonspell,0
+2009-02,Nine Inch Nails,1
+2009-02,Papa Roach,0
+2009-02,Ruoska,1
+2009-02,Slipknot,1
+2009-02,Strapping Young Lad,1
+2009-02,Type O Negative,1
+2009-03,Amorphis,0
+2009-03,Arch Enemy,0
+2009-03,Bloodhound Gang,0
+2009-03,Cradle Of Filth,2
+2009-03,Dark Tranquillity,2
+2009-03,Dream Evil,0
+2009-03,Ensiferum,0
+2009-03,Fear Factory,1
+2009-03,Him,0
+2009-03,In Flames,1
+2009-03,Korn,3
+2009-03,Lamb Of God,0
+2009-03,Limp Bizkit,1
+2009-03,Moonspell,2
+2009-03,Nine Inch Nails,1
+2009-03,Papa Roach,11
+2009-03,Ruoska,11
+2009-03,Slipknot,2
+2009-03,Strapping Young Lad,1
+2009-03,Type O Negative,0
+2009-04,Amorphis,0
+2009-04,Arch Enemy,0
+2009-04,Bloodhound Gang,0
+2009-04,Cradle Of Filth,0
+2009-04,Dark Tranquillity,0
+2009-04,Dream Evil,0
+2009-04,Ensiferum,0
+2009-04,Fear Factory,0
+2009-04,Him,0
+2009-04,In Flames,0
+2009-04,Korn,0
+2009-04,Lamb Of God,0
+2009-04,Limp Bizkit,0
+2009-04,Moonspell,0
+2009-04,Nine Inch Nails,1
+2009-04,Papa Roach,0
+2009-04,Ruoska,1
+2009-04,Slipknot,3
+2009-04,Strapping Young Lad,3
+2009-04,Type O Negative,1
+2009-05,Amorphis,6
+2009-05,Arch Enemy,0
+2009-05,Bloodhound Gang,0
+2009-05,Cradle Of Filth,0
+2009-05,Dark Tranquillity,0
+2009-05,Dream Evil,0
+2009-05,Ensiferum,1
+2009-05,Fear Factory,0
+2009-05,Him,0
+2009-05,In Flames,30
+2009-05,Korn,0
+2009-05,Lamb Of God,0
+2009-05,Limp Bizkit,25
+2009-05,Moonspell,8
+2009-05,Nine Inch Nails,6
+2009-05,Papa Roach,0
+2009-05,Ruoska,9
+2009-05,Slipknot,5
+2009-05,Strapping Young Lad,0
+2009-05,Type O Negative,19
+2009-06,Amorphis,0
+2009-06,Arch Enemy,0
+2009-06,Bloodhound Gang,0
+2009-06,Cradle Of Filth,0
+2009-06,Dark Tranquillity,0
+2009-06,Dream Evil,0
+2009-06,Ensiferum,1
+2009-06,Fear Factory,5
+2009-06,Him,2
+2009-06,In Flames,0
+2009-06,Korn,0
+2009-06,Lamb Of God,0
+2009-06,Limp Bizkit,7
+2009-06,Moonspell,2
+2009-06,Nine Inch Nails,0
+2009-06,Papa Roach,0
+2009-06,Ruoska,0
+2009-06,Slipknot,3
+2009-06,Strapping Young Lad,0
+2009-06,Type O Negative,5

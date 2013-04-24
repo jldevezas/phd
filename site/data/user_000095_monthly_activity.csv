@@ -1,0 +1,481 @@
+month,artist,plays
+2007-05,Andrew Lloyd Webber,58
+2007-05,Blind Melon,11
+2007-05,Blue Öyster Cult,14
+2007-05,Bobby Darin,6
+2007-05,Broadcast,3
+2007-05,Camel,27
+2007-05,Cat Stevens,7
+2007-05,David Bowie,1
+2007-05,David Coverdale,2
+2007-05,Deep Purple,27
+2007-05,Dire Straits,22
+2007-05,King Crimson,37
+2007-05,Mark Knopfler,19
+2007-05,Nick Drake,3
+2007-05,Pink Floyd,15
+2007-05,Rainbow,18
+2007-05,Rush,24
+2007-05,Scorpions,47
+2007-05,Simply Red,7
+2007-05,Whitesnake,30
+2007-06,Andrew Lloyd Webber,38
+2007-06,Blind Melon,9
+2007-06,Blue Öyster Cult,29
+2007-06,Bobby Darin,9
+2007-06,Broadcast,4
+2007-06,Camel,35
+2007-06,Cat Stevens,12
+2007-06,David Bowie,4
+2007-06,David Coverdale,10
+2007-06,Deep Purple,46
+2007-06,Dire Straits,22
+2007-06,King Crimson,61
+2007-06,Mark Knopfler,27
+2007-06,Nick Drake,7
+2007-06,Pink Floyd,30
+2007-06,Rainbow,32
+2007-06,Rush,36
+2007-06,Scorpions,50
+2007-06,Simply Red,12
+2007-06,Whitesnake,37
+2007-07,Andrew Lloyd Webber,67
+2007-07,Blind Melon,11
+2007-07,Blue Öyster Cult,32
+2007-07,Bobby Darin,9
+2007-07,Broadcast,7
+2007-07,Camel,66
+2007-07,Cat Stevens,17
+2007-07,David Bowie,5
+2007-07,David Coverdale,7
+2007-07,Deep Purple,48
+2007-07,Dire Straits,23
+2007-07,King Crimson,95
+2007-07,Mark Knopfler,32
+2007-07,Nick Drake,6
+2007-07,Pink Floyd,30
+2007-07,Rainbow,22
+2007-07,Rush,96
+2007-07,Scorpions,61
+2007-07,Simply Red,10
+2007-07,Whitesnake,40
+2007-08,Andrew Lloyd Webber,21
+2007-08,Blind Melon,5
+2007-08,Blue Öyster Cult,15
+2007-08,Bobby Darin,11
+2007-08,Broadcast,4
+2007-08,Camel,32
+2007-08,Cat Stevens,6
+2007-08,David Bowie,2
+2007-08,David Coverdale,6
+2007-08,Deep Purple,31
+2007-08,Dire Straits,14
+2007-08,King Crimson,47
+2007-08,Mark Knopfler,13
+2007-08,Nick Drake,4
+2007-08,Pink Floyd,18
+2007-08,Rainbow,18
+2007-08,Rush,37
+2007-08,Scorpions,36
+2007-08,Simply Red,11
+2007-08,Whitesnake,45
+2007-09,Andrew Lloyd Webber,46
+2007-09,Blind Melon,1
+2007-09,Blue Öyster Cult,14
+2007-09,Bobby Darin,5
+2007-09,Broadcast,4
+2007-09,Camel,28
+2007-09,Cat Stevens,7
+2007-09,David Bowie,1
+2007-09,David Coverdale,72
+2007-09,Deep Purple,34
+2007-09,Dire Straits,7
+2007-09,King Crimson,30
+2007-09,Mark Knopfler,15
+2007-09,Nick Drake,3
+2007-09,Pink Floyd,17
+2007-09,Rainbow,48
+2007-09,Rush,13
+2007-09,Scorpions,35
+2007-09,Simply Red,7
+2007-09,Whitesnake,69
+2007-10,Andrew Lloyd Webber,35
+2007-10,Blind Melon,6
+2007-10,Blue Öyster Cult,26
+2007-10,Bobby Darin,12
+2007-10,Broadcast,7
+2007-10,Camel,39
+2007-10,Cat Stevens,7
+2007-10,David Bowie,3
+2007-10,David Coverdale,12
+2007-10,Deep Purple,42
+2007-10,Dire Straits,22
+2007-10,King Crimson,48
+2007-10,Mark Knopfler,21
+2007-10,Nick Drake,8
+2007-10,Pink Floyd,23
+2007-10,Rainbow,20
+2007-10,Rush,33
+2007-10,Scorpions,46
+2007-10,Simply Red,12
+2007-10,Whitesnake,55
+2007-11,Andrew Lloyd Webber,17
+2007-11,Blind Melon,4
+2007-11,Blue Öyster Cult,11
+2007-11,Bobby Darin,4
+2007-11,Broadcast,1
+2007-11,Camel,152
+2007-11,Cat Stevens,12
+2007-11,David Bowie,1
+2007-11,David Coverdale,2
+2007-11,Deep Purple,41
+2007-11,Dire Straits,6
+2007-11,King Crimson,21
+2007-11,Mark Knopfler,10
+2007-11,Nick Drake,4
+2007-11,Pink Floyd,46
+2007-11,Rainbow,10
+2007-11,Rush,4
+2007-11,Scorpions,21
+2007-11,Simply Red,4
+2007-11,Whitesnake,16
+2007-12,Andrew Lloyd Webber,52
+2007-12,Blind Melon,4
+2007-12,Blue Öyster Cult,12
+2007-12,Bobby Darin,2
+2007-12,Broadcast,2
+2007-12,Camel,28
+2007-12,Cat Stevens,6
+2007-12,David Bowie,18
+2007-12,David Coverdale,6
+2007-12,Deep Purple,16
+2007-12,Dire Straits,11
+2007-12,King Crimson,13
+2007-12,Mark Knopfler,10
+2007-12,Nick Drake,4
+2007-12,Pink Floyd,12
+2007-12,Rainbow,13
+2007-12,Rush,10
+2007-12,Scorpions,24
+2007-12,Simply Red,4
+2007-12,Whitesnake,44
+2008-01,Andrew Lloyd Webber,39
+2008-01,Blind Melon,4
+2008-01,Blue Öyster Cult,13
+2008-01,Bobby Darin,7
+2008-01,Broadcast,13
+2008-01,Camel,61
+2008-01,Cat Stevens,16
+2008-01,David Bowie,0
+2008-01,David Coverdale,4
+2008-01,Deep Purple,34
+2008-01,Dire Straits,15
+2008-01,King Crimson,21
+2008-01,Mark Knopfler,13
+2008-01,Nick Drake,7
+2008-01,Pink Floyd,24
+2008-01,Rainbow,23
+2008-01,Rush,21
+2008-01,Scorpions,38
+2008-01,Simply Red,3
+2008-01,Whitesnake,46
+2008-02,Andrew Lloyd Webber,54
+2008-02,Blind Melon,9
+2008-02,Blue Öyster Cult,9
+2008-02,Bobby Darin,4
+2008-02,Broadcast,3
+2008-02,Camel,28
+2008-02,Cat Stevens,3
+2008-02,David Bowie,2
+2008-02,David Coverdale,9
+2008-02,Deep Purple,23
+2008-02,Dire Straits,10
+2008-02,King Crimson,21
+2008-02,Mark Knopfler,14
+2008-02,Nick Drake,9
+2008-02,Pink Floyd,24
+2008-02,Rainbow,14
+2008-02,Rush,19
+2008-02,Scorpions,37
+2008-02,Simply Red,7
+2008-02,Whitesnake,29
+2008-03,Andrew Lloyd Webber,322
+2008-03,Blind Melon,7
+2008-03,Blue Öyster Cult,15
+2008-03,Bobby Darin,6
+2008-03,Broadcast,3
+2008-03,Camel,15
+2008-03,Cat Stevens,44
+2008-03,David Bowie,1
+2008-03,David Coverdale,2
+2008-03,Deep Purple,22
+2008-03,Dire Straits,57
+2008-03,King Crimson,18
+2008-03,Mark Knopfler,77
+2008-03,Nick Drake,4
+2008-03,Pink Floyd,16
+2008-03,Rainbow,14
+2008-03,Rush,25
+2008-03,Scorpions,21
+2008-03,Simply Red,3
+2008-03,Whitesnake,13
+2008-04,Andrew Lloyd Webber,587
+2008-04,Blind Melon,4
+2008-04,Blue Öyster Cult,27
+2008-04,Bobby Darin,8
+2008-04,Broadcast,4
+2008-04,Camel,42
+2008-04,Cat Stevens,11
+2008-04,David Bowie,130
+2008-04,David Coverdale,7
+2008-04,Deep Purple,44
+2008-04,Dire Straits,11
+2008-04,King Crimson,28
+2008-04,Mark Knopfler,16
+2008-04,Nick Drake,12
+2008-04,Pink Floyd,20
+2008-04,Rainbow,22
+2008-04,Rush,26
+2008-04,Scorpions,28
+2008-04,Simply Red,8
+2008-04,Whitesnake,38
+2008-05,Andrew Lloyd Webber,104
+2008-05,Blind Melon,6
+2008-05,Blue Öyster Cult,37
+2008-05,Bobby Darin,17
+2008-05,Broadcast,6
+2008-05,Camel,37
+2008-05,Cat Stevens,23
+2008-05,David Bowie,15
+2008-05,David Coverdale,5
+2008-05,Deep Purple,59
+2008-05,Dire Straits,32
+2008-05,King Crimson,37
+2008-05,Mark Knopfler,22
+2008-05,Nick Drake,13
+2008-05,Pink Floyd,30
+2008-05,Rainbow,37
+2008-05,Rush,41
+2008-05,Scorpions,40
+2008-05,Simply Red,15
+2008-05,Whitesnake,54
+2008-06,Andrew Lloyd Webber,45
+2008-06,Blind Melon,4
+2008-06,Blue Öyster Cult,25
+2008-06,Bobby Darin,11
+2008-06,Broadcast,5
+2008-06,Camel,29
+2008-06,Cat Stevens,14
+2008-06,David Bowie,11
+2008-06,David Coverdale,3
+2008-06,Deep Purple,40
+2008-06,Dire Straits,20
+2008-06,King Crimson,28
+2008-06,Mark Knopfler,16
+2008-06,Nick Drake,4
+2008-06,Pink Floyd,20
+2008-06,Rainbow,15
+2008-06,Rush,38
+2008-06,Scorpions,30
+2008-06,Simply Red,11
+2008-06,Whitesnake,32
+2008-07,Andrew Lloyd Webber,4
+2008-07,Blind Melon,1
+2008-07,Blue Öyster Cult,2
+2008-07,Bobby Darin,1
+2008-07,Broadcast,1
+2008-07,Camel,4
+2008-07,Cat Stevens,2
+2008-07,David Bowie,3
+2008-07,David Coverdale,2
+2008-07,Deep Purple,7
+2008-07,Dire Straits,5
+2008-07,King Crimson,4
+2008-07,Mark Knopfler,5
+2008-07,Nick Drake,2
+2008-07,Pink Floyd,7
+2008-07,Rainbow,2
+2008-07,Rush,1
+2008-07,Scorpions,6
+2008-07,Simply Red,1
+2008-07,Whitesnake,3
+2008-08,Andrew Lloyd Webber,0
+2008-08,Blind Melon,0
+2008-08,Blue Öyster Cult,1
+2008-08,Bobby Darin,5
+2008-08,Broadcast,1
+2008-08,Camel,2
+2008-08,Cat Stevens,5
+2008-08,David Bowie,1
+2008-08,David Coverdale,0
+2008-08,Deep Purple,3
+2008-08,Dire Straits,3
+2008-08,King Crimson,2
+2008-08,Mark Knopfler,4
+2008-08,Nick Drake,1
+2008-08,Pink Floyd,4
+2008-08,Rainbow,1
+2008-08,Rush,1
+2008-08,Scorpions,5
+2008-08,Simply Red,1
+2008-08,Whitesnake,2
+2008-09,Andrew Lloyd Webber,57
+2008-09,Blind Melon,4
+2008-09,Blue Öyster Cult,23
+2008-09,Bobby Darin,7
+2008-09,Broadcast,5
+2008-09,Camel,32
+2008-09,Cat Stevens,24
+2008-09,David Bowie,12
+2008-09,David Coverdale,10
+2008-09,Deep Purple,52
+2008-09,Dire Straits,49
+2008-09,King Crimson,24
+2008-09,Mark Knopfler,183
+2008-09,Nick Drake,13
+2008-09,Pink Floyd,31
+2008-09,Rainbow,10
+2008-09,Rush,35
+2008-09,Scorpions,53
+2008-09,Simply Red,9
+2008-09,Whitesnake,39
+2008-10,Andrew Lloyd Webber,47
+2008-10,Blind Melon,2
+2008-10,Blue Öyster Cult,22
+2008-10,Bobby Darin,7
+2008-10,Broadcast,0
+2008-10,Camel,31
+2008-10,Cat Stevens,20
+2008-10,David Bowie,2
+2008-10,David Coverdale,3
+2008-10,Deep Purple,38
+2008-10,Dire Straits,12
+2008-10,King Crimson,15
+2008-10,Mark Knopfler,20
+2008-10,Nick Drake,14
+2008-10,Pink Floyd,24
+2008-10,Rainbow,12
+2008-10,Rush,31
+2008-10,Scorpions,41
+2008-10,Simply Red,4
+2008-10,Whitesnake,36
+2008-11,Andrew Lloyd Webber,25
+2008-11,Blind Melon,4
+2008-11,Blue Öyster Cult,18
+2008-11,Bobby Darin,8
+2008-11,Broadcast,4
+2008-11,Camel,9
+2008-11,Cat Stevens,13
+2008-11,David Bowie,7
+2008-11,David Coverdale,2
+2008-11,Deep Purple,28
+2008-11,Dire Straits,9
+2008-11,King Crimson,23
+2008-11,Mark Knopfler,16
+2008-11,Nick Drake,3
+2008-11,Pink Floyd,20
+2008-11,Rainbow,8
+2008-11,Rush,19
+2008-11,Scorpions,22
+2008-11,Simply Red,8
+2008-11,Whitesnake,19
+2008-12,Andrew Lloyd Webber,39
+2008-12,Blind Melon,3
+2008-12,Blue Öyster Cult,24
+2008-12,Bobby Darin,7
+2008-12,Broadcast,5
+2008-12,Camel,129
+2008-12,Cat Stevens,18
+2008-12,David Bowie,10
+2008-12,David Coverdale,6
+2008-12,Deep Purple,33
+2008-12,Dire Straits,95
+2008-12,King Crimson,31
+2008-12,Mark Knopfler,78
+2008-12,Nick Drake,5
+2008-12,Pink Floyd,51
+2008-12,Rainbow,7
+2008-12,Rush,28
+2008-12,Scorpions,36
+2008-12,Simply Red,2
+2008-12,Whitesnake,35
+2009-01,Andrew Lloyd Webber,61
+2009-01,Blind Melon,9
+2009-01,Blue Öyster Cult,14
+2009-01,Bobby Darin,5
+2009-01,Broadcast,8
+2009-01,Camel,61
+2009-01,Cat Stevens,35
+2009-01,David Bowie,12
+2009-01,David Coverdale,16
+2009-01,Deep Purple,34
+2009-01,Dire Straits,29
+2009-01,King Crimson,36
+2009-01,Mark Knopfler,101
+2009-01,Nick Drake,65
+2009-01,Pink Floyd,113
+2009-01,Rainbow,24
+2009-01,Rush,38
+2009-01,Scorpions,43
+2009-01,Simply Red,5
+2009-01,Whitesnake,185
+2009-02,Andrew Lloyd Webber,66
+2009-02,Blind Melon,2
+2009-02,Blue Öyster Cult,34
+2009-02,Bobby Darin,2
+2009-02,Broadcast,7
+2009-02,Camel,116
+2009-02,Cat Stevens,24
+2009-02,David Bowie,17
+2009-02,David Coverdale,26
+2009-02,Deep Purple,56
+2009-02,Dire Straits,16
+2009-02,King Crimson,30
+2009-02,Mark Knopfler,35
+2009-02,Nick Drake,14
+2009-02,Pink Floyd,79
+2009-02,Rainbow,19
+2009-02,Rush,120
+2009-02,Scorpions,58
+2009-02,Simply Red,7
+2009-02,Whitesnake,215
+2009-03,Andrew Lloyd Webber,26
+2009-03,Blind Melon,14
+2009-03,Blue Öyster Cult,56
+2009-03,Bobby Darin,0
+2009-03,Broadcast,3
+2009-03,Camel,89
+2009-03,Cat Stevens,11
+2009-03,David Bowie,19
+2009-03,David Coverdale,69
+2009-03,Deep Purple,62
+2009-03,Dire Straits,27
+2009-03,King Crimson,74
+2009-03,Mark Knopfler,59
+2009-03,Nick Drake,14
+2009-03,Pink Floyd,72
+2009-03,Rainbow,39
+2009-03,Rush,169
+2009-03,Scorpions,103
+2009-03,Simply Red,9
+2009-03,Whitesnake,332
+2009-04,Andrew Lloyd Webber,5
+2009-04,Blind Melon,19
+2009-04,Blue Öyster Cult,108
+2009-04,Bobby Darin,1
+2009-04,Broadcast,17
+2009-04,Camel,107
+2009-04,Cat Stevens,6
+2009-04,David Bowie,32
+2009-04,David Coverdale,31
+2009-04,Deep Purple,119
+2009-04,Dire Straits,61
+2009-04,King Crimson,104
+2009-04,Mark Knopfler,62
+2009-04,Nick Drake,26
+2009-04,Pink Floyd,85
+2009-04,Rainbow,36
+2009-04,Rush,105
+2009-04,Scorpions,148
+2009-04,Simply Red,28
+2009-04,Whitesnake,117

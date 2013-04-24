@@ -1,0 +1,861 @@
+month,artist,plays
+2005-10,And One,0
+2005-10,Aphex Twin,0
+2005-10,Camouflage,32
+2005-10,Cocteau Twins,19
+2005-10,Covenant,0
+2005-10,Daft Punk,0
+2005-10,Deftones,1
+2005-10,Depeche Mode,76
+2005-10,Einstürzende Neubauten,0
+2005-10,Front 242,0
+2005-10,Kraftwerk,43
+2005-10,Los Bunkers,0
+2005-10,Massive Attack,0
+2005-10,Placebo,0
+2005-10,Portishead,9
+2005-10,Röyksopp,0
+2005-10,Shivaree,0
+2005-10,Skinny Puppy,7
+2005-10,The Cure,1
+2005-10,Vnv Nation,0
+2005-11,And One,0
+2005-11,Aphex Twin,0
+2005-11,Camouflage,39
+2005-11,Cocteau Twins,28
+2005-11,Covenant,1
+2005-11,Daft Punk,0
+2005-11,Deftones,0
+2005-11,Depeche Mode,87
+2005-11,Einstürzende Neubauten,44
+2005-11,Front 242,0
+2005-11,Kraftwerk,91
+2005-11,Los Bunkers,0
+2005-11,Massive Attack,57
+2005-11,Placebo,47
+2005-11,Portishead,71
+2005-11,Röyksopp,0
+2005-11,Shivaree,0
+2005-11,Skinny Puppy,20
+2005-11,The Cure,1
+2005-11,Vnv Nation,31
+2005-12,And One,0
+2005-12,Aphex Twin,0
+2005-12,Camouflage,160
+2005-12,Cocteau Twins,0
+2005-12,Covenant,0
+2005-12,Daft Punk,0
+2005-12,Deftones,14
+2005-12,Depeche Mode,138
+2005-12,Einstürzende Neubauten,0
+2005-12,Front 242,103
+2005-12,Kraftwerk,79
+2005-12,Los Bunkers,0
+2005-12,Massive Attack,38
+2005-12,Placebo,23
+2005-12,Portishead,79
+2005-12,Röyksopp,0
+2005-12,Shivaree,0
+2005-12,Skinny Puppy,5
+2005-12,The Cure,0
+2005-12,Vnv Nation,69
+2006-01,And One,0
+2006-01,Aphex Twin,0
+2006-01,Camouflage,38
+2006-01,Cocteau Twins,16
+2006-01,Covenant,0
+2006-01,Daft Punk,0
+2006-01,Deftones,7
+2006-01,Depeche Mode,72
+2006-01,Einstürzende Neubauten,0
+2006-01,Front 242,0
+2006-01,Kraftwerk,39
+2006-01,Los Bunkers,0
+2006-01,Massive Attack,9
+2006-01,Placebo,2
+2006-01,Portishead,23
+2006-01,Röyksopp,0
+2006-01,Shivaree,0
+2006-01,Skinny Puppy,42
+2006-01,The Cure,0
+2006-01,Vnv Nation,40
+2006-02,And One,0
+2006-02,Aphex Twin,0
+2006-02,Camouflage,11
+2006-02,Cocteau Twins,32
+2006-02,Covenant,0
+2006-02,Daft Punk,84
+2006-02,Deftones,1
+2006-02,Depeche Mode,43
+2006-02,Einstürzende Neubauten,0
+2006-02,Front 242,7
+2006-02,Kraftwerk,43
+2006-02,Los Bunkers,0
+2006-02,Massive Attack,13
+2006-02,Placebo,10
+2006-02,Portishead,16
+2006-02,Röyksopp,36
+2006-02,Shivaree,48
+2006-02,Skinny Puppy,54
+2006-02,The Cure,0
+2006-02,Vnv Nation,37
+2006-03,And One,0
+2006-03,Aphex Twin,0
+2006-03,Camouflage,16
+2006-03,Cocteau Twins,0
+2006-03,Covenant,0
+2006-03,Daft Punk,16
+2006-03,Deftones,0
+2006-03,Depeche Mode,74
+2006-03,Einstürzende Neubauten,0
+2006-03,Front 242,29
+2006-03,Kraftwerk,104
+2006-03,Los Bunkers,0
+2006-03,Massive Attack,4
+2006-03,Placebo,8
+2006-03,Portishead,0
+2006-03,Röyksopp,27
+2006-03,Shivaree,8
+2006-03,Skinny Puppy,11
+2006-03,The Cure,20
+2006-03,Vnv Nation,46
+2006-04,And One,27
+2006-04,Aphex Twin,0
+2006-04,Camouflage,8
+2006-04,Cocteau Twins,19
+2006-04,Covenant,1
+2006-04,Daft Punk,32
+2006-04,Deftones,1
+2006-04,Depeche Mode,60
+2006-04,Einstürzende Neubauten,45
+2006-04,Front 242,82
+2006-04,Kraftwerk,8
+2006-04,Los Bunkers,0
+2006-04,Massive Attack,5
+2006-04,Placebo,0
+2006-04,Portishead,25
+2006-04,Röyksopp,50
+2006-04,Shivaree,5
+2006-04,Skinny Puppy,66
+2006-04,The Cure,20
+2006-04,Vnv Nation,15
+2006-05,And One,0
+2006-05,Aphex Twin,0
+2006-05,Camouflage,27
+2006-05,Cocteau Twins,2
+2006-05,Covenant,0
+2006-05,Daft Punk,26
+2006-05,Deftones,0
+2006-05,Depeche Mode,69
+2006-05,Einstürzende Neubauten,14
+2006-05,Front 242,68
+2006-05,Kraftwerk,93
+2006-05,Los Bunkers,0
+2006-05,Massive Attack,20
+2006-05,Placebo,0
+2006-05,Portishead,11
+2006-05,Röyksopp,19
+2006-05,Shivaree,11
+2006-05,Skinny Puppy,49
+2006-05,The Cure,18
+2006-05,Vnv Nation,5
+2006-06,And One,17
+2006-06,Aphex Twin,10
+2006-06,Camouflage,57
+2006-06,Cocteau Twins,10
+2006-06,Covenant,0
+2006-06,Daft Punk,24
+2006-06,Deftones,8
+2006-06,Depeche Mode,104
+2006-06,Einstürzende Neubauten,25
+2006-06,Front 242,0
+2006-06,Kraftwerk,57
+2006-06,Los Bunkers,37
+2006-06,Massive Attack,20
+2006-06,Placebo,35
+2006-06,Portishead,18
+2006-06,Röyksopp,7
+2006-06,Shivaree,13
+2006-06,Skinny Puppy,44
+2006-06,The Cure,10
+2006-06,Vnv Nation,26
+2006-07,And One,0
+2006-07,Aphex Twin,4
+2006-07,Camouflage,3
+2006-07,Cocteau Twins,23
+2006-07,Covenant,0
+2006-07,Daft Punk,1
+2006-07,Deftones,0
+2006-07,Depeche Mode,71
+2006-07,Einstürzende Neubauten,0
+2006-07,Front 242,11
+2006-07,Kraftwerk,8
+2006-07,Los Bunkers,5
+2006-07,Massive Attack,13
+2006-07,Placebo,0
+2006-07,Portishead,0
+2006-07,Röyksopp,56
+2006-07,Shivaree,12
+2006-07,Skinny Puppy,35
+2006-07,The Cure,31
+2006-07,Vnv Nation,117
+2006-08,And One,0
+2006-08,Aphex Twin,16
+2006-08,Camouflage,0
+2006-08,Cocteau Twins,0
+2006-08,Covenant,71
+2006-08,Daft Punk,29
+2006-08,Deftones,0
+2006-08,Depeche Mode,13
+2006-08,Einstürzende Neubauten,0
+2006-08,Front 242,17
+2006-08,Kraftwerk,79
+2006-08,Los Bunkers,3
+2006-08,Massive Attack,0
+2006-08,Placebo,5
+2006-08,Portishead,0
+2006-08,Röyksopp,16
+2006-08,Shivaree,17
+2006-08,Skinny Puppy,17
+2006-08,The Cure,7
+2006-08,Vnv Nation,120
+2006-09,And One,12
+2006-09,Aphex Twin,0
+2006-09,Camouflage,23
+2006-09,Cocteau Twins,0
+2006-09,Covenant,4
+2006-09,Daft Punk,16
+2006-09,Deftones,10
+2006-09,Depeche Mode,58
+2006-09,Einstürzende Neubauten,0
+2006-09,Front 242,0
+2006-09,Kraftwerk,36
+2006-09,Los Bunkers,8
+2006-09,Massive Attack,9
+2006-09,Placebo,0
+2006-09,Portishead,3
+2006-09,Röyksopp,0
+2006-09,Shivaree,18
+2006-09,Skinny Puppy,22
+2006-09,The Cure,24
+2006-09,Vnv Nation,0
+2006-10,And One,13
+2006-10,Aphex Twin,28
+2006-10,Camouflage,56
+2006-10,Cocteau Twins,0
+2006-10,Covenant,7
+2006-10,Daft Punk,15
+2006-10,Deftones,14
+2006-10,Depeche Mode,27
+2006-10,Einstürzende Neubauten,0
+2006-10,Front 242,0
+2006-10,Kraftwerk,0
+2006-10,Los Bunkers,0
+2006-10,Massive Attack,0
+2006-10,Placebo,0
+2006-10,Portishead,35
+2006-10,Röyksopp,21
+2006-10,Shivaree,14
+2006-10,Skinny Puppy,0
+2006-10,The Cure,17
+2006-10,Vnv Nation,19
+2006-11,And One,68
+2006-11,Aphex Twin,0
+2006-11,Camouflage,0
+2006-11,Cocteau Twins,0
+2006-11,Covenant,80
+2006-11,Daft Punk,0
+2006-11,Deftones,0
+2006-11,Depeche Mode,48
+2006-11,Einstürzende Neubauten,8
+2006-11,Front 242,16
+2006-11,Kraftwerk,11
+2006-11,Los Bunkers,9
+2006-11,Massive Attack,28
+2006-11,Placebo,25
+2006-11,Portishead,46
+2006-11,Röyksopp,24
+2006-11,Shivaree,0
+2006-11,Skinny Puppy,69
+2006-11,The Cure,45
+2006-11,Vnv Nation,73
+2006-12,And One,124
+2006-12,Aphex Twin,0
+2006-12,Camouflage,69
+2006-12,Cocteau Twins,0
+2006-12,Covenant,102
+2006-12,Daft Punk,0
+2006-12,Deftones,0
+2006-12,Depeche Mode,84
+2006-12,Einstürzende Neubauten,20
+2006-12,Front 242,60
+2006-12,Kraftwerk,67
+2006-12,Los Bunkers,1
+2006-12,Massive Attack,8
+2006-12,Placebo,1
+2006-12,Portishead,1
+2006-12,Röyksopp,32
+2006-12,Shivaree,8
+2006-12,Skinny Puppy,1
+2006-12,The Cure,56
+2006-12,Vnv Nation,99
+2007-01,And One,46
+2007-01,Aphex Twin,5
+2007-01,Camouflage,62
+2007-01,Cocteau Twins,10
+2007-01,Covenant,54
+2007-01,Daft Punk,9
+2007-01,Deftones,1
+2007-01,Depeche Mode,240
+2007-01,Einstürzende Neubauten,0
+2007-01,Front 242,14
+2007-01,Kraftwerk,3
+2007-01,Los Bunkers,0
+2007-01,Massive Attack,51
+2007-01,Placebo,72
+2007-01,Portishead,36
+2007-01,Röyksopp,0
+2007-01,Shivaree,0
+2007-01,Skinny Puppy,22
+2007-01,The Cure,71
+2007-01,Vnv Nation,44
+2007-02,And One,178
+2007-02,Aphex Twin,13
+2007-02,Camouflage,14
+2007-02,Cocteau Twins,7
+2007-02,Covenant,142
+2007-02,Daft Punk,16
+2007-02,Deftones,5
+2007-02,Depeche Mode,190
+2007-02,Einstürzende Neubauten,19
+2007-02,Front 242,36
+2007-02,Kraftwerk,57
+2007-02,Los Bunkers,21
+2007-02,Massive Attack,0
+2007-02,Placebo,87
+2007-02,Portishead,3
+2007-02,Röyksopp,38
+2007-02,Shivaree,39
+2007-02,Skinny Puppy,0
+2007-02,The Cure,39
+2007-02,Vnv Nation,61
+2007-03,And One,100
+2007-03,Aphex Twin,26
+2007-03,Camouflage,0
+2007-03,Cocteau Twins,5
+2007-03,Covenant,57
+2007-03,Daft Punk,6
+2007-03,Deftones,24
+2007-03,Depeche Mode,162
+2007-03,Einstürzende Neubauten,12
+2007-03,Front 242,6
+2007-03,Kraftwerk,9
+2007-03,Los Bunkers,0
+2007-03,Massive Attack,6
+2007-03,Placebo,71
+2007-03,Portishead,39
+2007-03,Röyksopp,1
+2007-03,Shivaree,6
+2007-03,Skinny Puppy,0
+2007-03,The Cure,23
+2007-03,Vnv Nation,17
+2007-04,And One,77
+2007-04,Aphex Twin,20
+2007-04,Camouflage,53
+2007-04,Cocteau Twins,0
+2007-04,Covenant,37
+2007-04,Daft Punk,0
+2007-04,Deftones,0
+2007-04,Depeche Mode,102
+2007-04,Einstürzende Neubauten,50
+2007-04,Front 242,20
+2007-04,Kraftwerk,41
+2007-04,Los Bunkers,0
+2007-04,Massive Attack,20
+2007-04,Placebo,10
+2007-04,Portishead,12
+2007-04,Röyksopp,12
+2007-04,Shivaree,11
+2007-04,Skinny Puppy,33
+2007-04,The Cure,32
+2007-04,Vnv Nation,32
+2007-05,And One,85
+2007-05,Aphex Twin,47
+2007-05,Camouflage,9
+2007-05,Cocteau Twins,0
+2007-05,Covenant,11
+2007-05,Daft Punk,0
+2007-05,Deftones,0
+2007-05,Depeche Mode,113
+2007-05,Einstürzende Neubauten,54
+2007-05,Front 242,32
+2007-05,Kraftwerk,0
+2007-05,Los Bunkers,16
+2007-05,Massive Attack,10
+2007-05,Placebo,13
+2007-05,Portishead,119
+2007-05,Röyksopp,24
+2007-05,Shivaree,0
+2007-05,Skinny Puppy,65
+2007-05,The Cure,0
+2007-05,Vnv Nation,52
+2007-06,And One,98
+2007-06,Aphex Twin,36
+2007-06,Camouflage,0
+2007-06,Cocteau Twins,5
+2007-06,Covenant,56
+2007-06,Daft Punk,2
+2007-06,Deftones,0
+2007-06,Depeche Mode,118
+2007-06,Einstürzende Neubauten,21
+2007-06,Front 242,3
+2007-06,Kraftwerk,8
+2007-06,Los Bunkers,16
+2007-06,Massive Attack,12
+2007-06,Placebo,27
+2007-06,Portishead,27
+2007-06,Röyksopp,23
+2007-06,Shivaree,25
+2007-06,Skinny Puppy,0
+2007-06,The Cure,8
+2007-06,Vnv Nation,45
+2007-07,And One,138
+2007-07,Aphex Twin,57
+2007-07,Camouflage,25
+2007-07,Cocteau Twins,39
+2007-07,Covenant,12
+2007-07,Daft Punk,14
+2007-07,Deftones,14
+2007-07,Depeche Mode,118
+2007-07,Einstürzende Neubauten,17
+2007-07,Front 242,21
+2007-07,Kraftwerk,87
+2007-07,Los Bunkers,0
+2007-07,Massive Attack,0
+2007-07,Placebo,15
+2007-07,Portishead,46
+2007-07,Röyksopp,13
+2007-07,Shivaree,4
+2007-07,Skinny Puppy,29
+2007-07,The Cure,12
+2007-07,Vnv Nation,33
+2007-08,And One,89
+2007-08,Aphex Twin,25
+2007-08,Camouflage,36
+2007-08,Cocteau Twins,10
+2007-08,Covenant,55
+2007-08,Daft Punk,0
+2007-08,Deftones,0
+2007-08,Depeche Mode,154
+2007-08,Einstürzende Neubauten,4
+2007-08,Front 242,0
+2007-08,Kraftwerk,31
+2007-08,Los Bunkers,2
+2007-08,Massive Attack,4
+2007-08,Placebo,10
+2007-08,Portishead,56
+2007-08,Röyksopp,18
+2007-08,Shivaree,24
+2007-08,Skinny Puppy,0
+2007-08,The Cure,28
+2007-08,Vnv Nation,41
+2007-09,And One,104
+2007-09,Aphex Twin,6
+2007-09,Camouflage,22
+2007-09,Cocteau Twins,10
+2007-09,Covenant,34
+2007-09,Daft Punk,0
+2007-09,Deftones,0
+2007-09,Depeche Mode,47
+2007-09,Einstürzende Neubauten,0
+2007-09,Front 242,23
+2007-09,Kraftwerk,43
+2007-09,Los Bunkers,0
+2007-09,Massive Attack,9
+2007-09,Placebo,0
+2007-09,Portishead,45
+2007-09,Röyksopp,0
+2007-09,Shivaree,0
+2007-09,Skinny Puppy,44
+2007-09,The Cure,13
+2007-09,Vnv Nation,67
+2007-10,And One,170
+2007-10,Aphex Twin,1
+2007-10,Camouflage,28
+2007-10,Cocteau Twins,30
+2007-10,Covenant,32
+2007-10,Daft Punk,14
+2007-10,Deftones,2
+2007-10,Depeche Mode,87
+2007-10,Einstürzende Neubauten,17
+2007-10,Front 242,40
+2007-10,Kraftwerk,49
+2007-10,Los Bunkers,27
+2007-10,Massive Attack,3
+2007-10,Placebo,0
+2007-10,Portishead,12
+2007-10,Röyksopp,0
+2007-10,Shivaree,20
+2007-10,Skinny Puppy,0
+2007-10,The Cure,26
+2007-10,Vnv Nation,37
+2007-11,And One,26
+2007-11,Aphex Twin,0
+2007-11,Camouflage,93
+2007-11,Cocteau Twins,1
+2007-11,Covenant,24
+2007-11,Daft Punk,14
+2007-11,Deftones,0
+2007-11,Depeche Mode,25
+2007-11,Einstürzende Neubauten,21
+2007-11,Front 242,0
+2007-11,Kraftwerk,0
+2007-11,Los Bunkers,59
+2007-11,Massive Attack,0
+2007-11,Placebo,21
+2007-11,Portishead,39
+2007-11,Röyksopp,24
+2007-11,Shivaree,0
+2007-11,Skinny Puppy,0
+2007-11,The Cure,0
+2007-11,Vnv Nation,5
+2007-12,And One,36
+2007-12,Aphex Twin,1
+2007-12,Camouflage,60
+2007-12,Cocteau Twins,2
+2007-12,Covenant,13
+2007-12,Daft Punk,1
+2007-12,Deftones,1
+2007-12,Depeche Mode,128
+2007-12,Einstürzende Neubauten,0
+2007-12,Front 242,1
+2007-12,Kraftwerk,0
+2007-12,Los Bunkers,57
+2007-12,Massive Attack,1
+2007-12,Placebo,15
+2007-12,Portishead,4
+2007-12,Röyksopp,1
+2007-12,Shivaree,0
+2007-12,Skinny Puppy,11
+2007-12,The Cure,5
+2007-12,Vnv Nation,25
+2008-01,And One,87
+2008-01,Aphex Twin,13
+2008-01,Camouflage,23
+2008-01,Cocteau Twins,0
+2008-01,Covenant,30
+2008-01,Daft Punk,9
+2008-01,Deftones,2
+2008-01,Depeche Mode,94
+2008-01,Einstürzende Neubauten,2
+2008-01,Front 242,22
+2008-01,Kraftwerk,0
+2008-01,Los Bunkers,16
+2008-01,Massive Attack,0
+2008-01,Placebo,12
+2008-01,Portishead,8
+2008-01,Röyksopp,11
+2008-01,Shivaree,22
+2008-01,Skinny Puppy,27
+2008-01,The Cure,17
+2008-01,Vnv Nation,30
+2008-02,And One,12
+2008-02,Aphex Twin,0
+2008-02,Camouflage,17
+2008-02,Cocteau Twins,0
+2008-02,Covenant,9
+2008-02,Daft Punk,11
+2008-02,Deftones,13
+2008-02,Depeche Mode,91
+2008-02,Einstürzende Neubauten,0
+2008-02,Front 242,0
+2008-02,Kraftwerk,17
+2008-02,Los Bunkers,134
+2008-02,Massive Attack,19
+2008-02,Placebo,56
+2008-02,Portishead,11
+2008-02,Röyksopp,0
+2008-02,Shivaree,0
+2008-02,Skinny Puppy,29
+2008-02,The Cure,14
+2008-02,Vnv Nation,58
+2008-03,And One,126
+2008-03,Aphex Twin,14
+2008-03,Camouflage,6
+2008-03,Cocteau Twins,0
+2008-03,Covenant,35
+2008-03,Daft Punk,0
+2008-03,Deftones,3
+2008-03,Depeche Mode,101
+2008-03,Einstürzende Neubauten,1
+2008-03,Front 242,0
+2008-03,Kraftwerk,54
+2008-03,Los Bunkers,20
+2008-03,Massive Attack,19
+2008-03,Placebo,11
+2008-03,Portishead,27
+2008-03,Röyksopp,13
+2008-03,Shivaree,27
+2008-03,Skinny Puppy,4
+2008-03,The Cure,1
+2008-03,Vnv Nation,34
+2008-04,And One,32
+2008-04,Aphex Twin,15
+2008-04,Camouflage,18
+2008-04,Cocteau Twins,0
+2008-04,Covenant,10
+2008-04,Daft Punk,3
+2008-04,Deftones,14
+2008-04,Depeche Mode,81
+2008-04,Einstürzende Neubauten,0
+2008-04,Front 242,12
+2008-04,Kraftwerk,0
+2008-04,Los Bunkers,205
+2008-04,Massive Attack,11
+2008-04,Placebo,0
+2008-04,Portishead,24
+2008-04,Röyksopp,16
+2008-04,Shivaree,39
+2008-04,Skinny Puppy,0
+2008-04,The Cure,13
+2008-04,Vnv Nation,22
+2008-05,And One,26
+2008-05,Aphex Twin,49
+2008-05,Camouflage,0
+2008-05,Cocteau Twins,42
+2008-05,Covenant,0
+2008-05,Daft Punk,26
+2008-05,Deftones,28
+2008-05,Depeche Mode,169
+2008-05,Einstürzende Neubauten,0
+2008-05,Front 242,32
+2008-05,Kraftwerk,5
+2008-05,Los Bunkers,108
+2008-05,Massive Attack,10
+2008-05,Placebo,4
+2008-05,Portishead,11
+2008-05,Röyksopp,21
+2008-05,Shivaree,28
+2008-05,Skinny Puppy,0
+2008-05,The Cure,40
+2008-05,Vnv Nation,3
+2008-06,And One,27
+2008-06,Aphex Twin,40
+2008-06,Camouflage,0
+2008-06,Cocteau Twins,1
+2008-06,Covenant,0
+2008-06,Daft Punk,0
+2008-06,Deftones,13
+2008-06,Depeche Mode,43
+2008-06,Einstürzende Neubauten,0
+2008-06,Front 242,12
+2008-06,Kraftwerk,0
+2008-06,Los Bunkers,24
+2008-06,Massive Attack,0
+2008-06,Placebo,0
+2008-06,Portishead,0
+2008-06,Röyksopp,17
+2008-06,Shivaree,0
+2008-06,Skinny Puppy,0
+2008-06,The Cure,2
+2008-06,Vnv Nation,0
+2008-07,And One,20
+2008-07,Aphex Twin,133
+2008-07,Camouflage,4
+2008-07,Cocteau Twins,14
+2008-07,Covenant,7
+2008-07,Daft Punk,7
+2008-07,Deftones,30
+2008-07,Depeche Mode,94
+2008-07,Einstürzende Neubauten,2
+2008-07,Front 242,4
+2008-07,Kraftwerk,35
+2008-07,Los Bunkers,134
+2008-07,Massive Attack,11
+2008-07,Placebo,17
+2008-07,Portishead,15
+2008-07,Röyksopp,14
+2008-07,Shivaree,13
+2008-07,Skinny Puppy,49
+2008-07,The Cure,2
+2008-07,Vnv Nation,1
+2008-08,And One,31
+2008-08,Aphex Twin,30
+2008-08,Camouflage,11
+2008-08,Cocteau Twins,0
+2008-08,Covenant,0
+2008-08,Daft Punk,2
+2008-08,Deftones,1
+2008-08,Depeche Mode,20
+2008-08,Einstürzende Neubauten,2
+2008-08,Front 242,2
+2008-08,Kraftwerk,68
+2008-08,Los Bunkers,130
+2008-08,Massive Attack,7
+2008-08,Placebo,6
+2008-08,Portishead,27
+2008-08,Röyksopp,5
+2008-08,Shivaree,17
+2008-08,Skinny Puppy,15
+2008-08,The Cure,19
+2008-08,Vnv Nation,5
+2008-09,And One,38
+2008-09,Aphex Twin,3
+2008-09,Camouflage,44
+2008-09,Cocteau Twins,1
+2008-09,Covenant,44
+2008-09,Daft Punk,0
+2008-09,Deftones,0
+2008-09,Depeche Mode,144
+2008-09,Einstürzende Neubauten,20
+2008-09,Front 242,28
+2008-09,Kraftwerk,20
+2008-09,Los Bunkers,33
+2008-09,Massive Attack,2
+2008-09,Placebo,35
+2008-09,Portishead,41
+2008-09,Röyksopp,36
+2008-09,Shivaree,25
+2008-09,Skinny Puppy,54
+2008-09,The Cure,0
+2008-09,Vnv Nation,45
+2008-10,And One,17
+2008-10,Aphex Twin,0
+2008-10,Camouflage,0
+2008-10,Cocteau Twins,0
+2008-10,Covenant,12
+2008-10,Daft Punk,2
+2008-10,Deftones,4
+2008-10,Depeche Mode,58
+2008-10,Einstürzende Neubauten,0
+2008-10,Front 242,1
+2008-10,Kraftwerk,34
+2008-10,Los Bunkers,83
+2008-10,Massive Attack,0
+2008-10,Placebo,6
+2008-10,Portishead,0
+2008-10,Röyksopp,3
+2008-10,Shivaree,0
+2008-10,Skinny Puppy,2
+2008-10,The Cure,10
+2008-10,Vnv Nation,0
+2008-11,And One,9
+2008-11,Aphex Twin,15
+2008-11,Camouflage,0
+2008-11,Cocteau Twins,0
+2008-11,Covenant,0
+2008-11,Daft Punk,15
+2008-11,Deftones,4
+2008-11,Depeche Mode,82
+2008-11,Einstürzende Neubauten,1
+2008-11,Front 242,1
+2008-11,Kraftwerk,0
+2008-11,Los Bunkers,106
+2008-11,Massive Attack,0
+2008-11,Placebo,12
+2008-11,Portishead,38
+2008-11,Röyksopp,0
+2008-11,Shivaree,0
+2008-11,Skinny Puppy,0
+2008-11,The Cure,22
+2008-11,Vnv Nation,0
+2008-12,And One,0
+2008-12,Aphex Twin,0
+2008-12,Camouflage,0
+2008-12,Cocteau Twins,0
+2008-12,Covenant,0
+2008-12,Daft Punk,15
+2008-12,Deftones,0
+2008-12,Depeche Mode,22
+2008-12,Einstürzende Neubauten,0
+2008-12,Front 242,0
+2008-12,Kraftwerk,98
+2008-12,Los Bunkers,54
+2008-12,Massive Attack,0
+2008-12,Placebo,12
+2008-12,Portishead,0
+2008-12,Röyksopp,0
+2008-12,Shivaree,14
+2008-12,Skinny Puppy,0
+2008-12,The Cure,0
+2008-12,Vnv Nation,0
+2009-01,And One,6
+2009-01,Aphex Twin,0
+2009-01,Camouflage,0
+2009-01,Cocteau Twins,12
+2009-01,Covenant,0
+2009-01,Daft Punk,7
+2009-01,Deftones,12
+2009-01,Depeche Mode,14
+2009-01,Einstürzende Neubauten,8
+2009-01,Front 242,0
+2009-01,Kraftwerk,1
+2009-01,Los Bunkers,7
+2009-01,Massive Attack,29
+2009-01,Placebo,0
+2009-01,Portishead,5
+2009-01,Röyksopp,7
+2009-01,Shivaree,0
+2009-01,Skinny Puppy,6
+2009-01,The Cure,1
+2009-01,Vnv Nation,0
+2009-02,And One,7
+2009-02,Aphex Twin,10
+2009-02,Camouflage,12
+2009-02,Cocteau Twins,4
+2009-02,Covenant,11
+2009-02,Daft Punk,12
+2009-02,Deftones,8
+2009-02,Depeche Mode,20
+2009-02,Einstürzende Neubauten,4
+2009-02,Front 242,6
+2009-02,Kraftwerk,11
+2009-02,Los Bunkers,24
+2009-02,Massive Attack,15
+2009-02,Placebo,9
+2009-02,Portishead,9
+2009-02,Röyksopp,2
+2009-02,Shivaree,9
+2009-02,Skinny Puppy,9
+2009-02,The Cure,10
+2009-02,Vnv Nation,4
+2009-03,And One,5
+2009-03,Aphex Twin,10
+2009-03,Camouflage,6
+2009-03,Cocteau Twins,2
+2009-03,Covenant,8
+2009-03,Daft Punk,10
+2009-03,Deftones,7
+2009-03,Depeche Mode,12
+2009-03,Einstürzende Neubauten,3
+2009-03,Front 242,3
+2009-03,Kraftwerk,2
+2009-03,Los Bunkers,20
+2009-03,Massive Attack,25
+2009-03,Placebo,6
+2009-03,Portishead,7
+2009-03,Röyksopp,4
+2009-03,Shivaree,4
+2009-03,Skinny Puppy,5
+2009-03,The Cure,15
+2009-03,Vnv Nation,2
+2009-04,And One,3
+2009-04,Aphex Twin,1
+2009-04,Camouflage,7
+2009-04,Cocteau Twins,5
+2009-04,Covenant,9
+2009-04,Daft Punk,18
+2009-04,Deftones,0
+2009-04,Depeche Mode,13
+2009-04,Einstürzende Neubauten,3
+2009-04,Front 242,4
+2009-04,Kraftwerk,7
+2009-04,Los Bunkers,8
+2009-04,Massive Attack,6
+2009-04,Placebo,4
+2009-04,Portishead,7
+2009-04,Röyksopp,5
+2009-04,Shivaree,3
+2009-04,Skinny Puppy,7
+2009-04,The Cure,4
+2009-04,Vnv Nation,5

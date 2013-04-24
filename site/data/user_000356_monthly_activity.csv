@@ -1,0 +1,981 @@
+month,artist,plays
+2005-06,A Perfect Circle,8
+2005-06,Anathema,6
+2005-06,Ayreon,0
+2005-06,Dimmu Borgir,0
+2005-06,Exodus,0
+2005-06,Green Carnation,0
+2005-06,Iron Maiden,4
+2005-06,Joe Satriani,0
+2005-06,Katatonia,0
+2005-06,Megadeth,5
+2005-06,Metallica,1
+2005-06,Nevermore,0
+2005-06,Nightwish,0
+2005-06,Pain,31
+2005-06,Pink Floyd,153
+2005-06,Queensrÿche,0
+2005-06,Şebnem Ferah,0
+2005-06,Soilwork,106
+2005-06,Susperia,1
+2005-06,Tool,1
+2005-07,A Perfect Circle,3
+2005-07,Anathema,0
+2005-07,Ayreon,0
+2005-07,Dimmu Borgir,0
+2005-07,Exodus,0
+2005-07,Green Carnation,0
+2005-07,Iron Maiden,1
+2005-07,Joe Satriani,0
+2005-07,Katatonia,0
+2005-07,Megadeth,1
+2005-07,Metallica,0
+2005-07,Nevermore,0
+2005-07,Nightwish,9
+2005-07,Pain,4
+2005-07,Pink Floyd,29
+2005-07,Queensrÿche,0
+2005-07,Şebnem Ferah,9
+2005-07,Soilwork,2
+2005-07,Susperia,2
+2005-07,Tool,1
+2005-08,A Perfect Circle,0
+2005-08,Anathema,0
+2005-08,Ayreon,0
+2005-08,Dimmu Borgir,1
+2005-08,Exodus,0
+2005-08,Green Carnation,0
+2005-08,Iron Maiden,2
+2005-08,Joe Satriani,0
+2005-08,Katatonia,0
+2005-08,Megadeth,0
+2005-08,Metallica,0
+2005-08,Nevermore,0
+2005-08,Nightwish,0
+2005-08,Pain,4
+2005-08,Pink Floyd,11
+2005-08,Queensrÿche,0
+2005-08,Şebnem Ferah,20
+2005-08,Soilwork,12
+2005-08,Susperia,2
+2005-08,Tool,2
+2005-09,A Perfect Circle,0
+2005-09,Anathema,0
+2005-09,Ayreon,0
+2005-09,Dimmu Borgir,0
+2005-09,Exodus,0
+2005-09,Green Carnation,0
+2005-09,Iron Maiden,0
+2005-09,Joe Satriani,0
+2005-09,Katatonia,0
+2005-09,Megadeth,0
+2005-09,Metallica,0
+2005-09,Nevermore,0
+2005-09,Nightwish,0
+2005-09,Pain,0
+2005-09,Pink Floyd,0
+2005-09,Queensrÿche,0
+2005-09,Şebnem Ferah,0
+2005-09,Soilwork,0
+2005-09,Susperia,0
+2005-09,Tool,0
+2005-10,A Perfect Circle,0
+2005-10,Anathema,0
+2005-10,Ayreon,0
+2005-10,Dimmu Borgir,0
+2005-10,Exodus,0
+2005-10,Green Carnation,0
+2005-10,Iron Maiden,0
+2005-10,Joe Satriani,0
+2005-10,Katatonia,0
+2005-10,Megadeth,0
+2005-10,Metallica,0
+2005-10,Nevermore,0
+2005-10,Nightwish,0
+2005-10,Pain,0
+2005-10,Pink Floyd,0
+2005-10,Queensrÿche,0
+2005-10,Şebnem Ferah,0
+2005-10,Soilwork,0
+2005-10,Susperia,0
+2005-10,Tool,0
+2005-11,A Perfect Circle,0
+2005-11,Anathema,0
+2005-11,Ayreon,0
+2005-11,Dimmu Borgir,0
+2005-11,Exodus,0
+2005-11,Green Carnation,0
+2005-11,Iron Maiden,0
+2005-11,Joe Satriani,0
+2005-11,Katatonia,0
+2005-11,Megadeth,0
+2005-11,Metallica,0
+2005-11,Nevermore,0
+2005-11,Nightwish,0
+2005-11,Pain,0
+2005-11,Pink Floyd,0
+2005-11,Queensrÿche,0
+2005-11,Şebnem Ferah,0
+2005-11,Soilwork,0
+2005-11,Susperia,0
+2005-11,Tool,0
+2005-12,A Perfect Circle,0
+2005-12,Anathema,0
+2005-12,Ayreon,0
+2005-12,Dimmu Borgir,0
+2005-12,Exodus,0
+2005-12,Green Carnation,0
+2005-12,Iron Maiden,0
+2005-12,Joe Satriani,0
+2005-12,Katatonia,0
+2005-12,Megadeth,0
+2005-12,Metallica,0
+2005-12,Nevermore,0
+2005-12,Nightwish,0
+2005-12,Pain,0
+2005-12,Pink Floyd,0
+2005-12,Queensrÿche,0
+2005-12,Şebnem Ferah,0
+2005-12,Soilwork,0
+2005-12,Susperia,0
+2005-12,Tool,0
+2006-01,A Perfect Circle,0
+2006-01,Anathema,0
+2006-01,Ayreon,0
+2006-01,Dimmu Borgir,0
+2006-01,Exodus,0
+2006-01,Green Carnation,0
+2006-01,Iron Maiden,0
+2006-01,Joe Satriani,0
+2006-01,Katatonia,0
+2006-01,Megadeth,0
+2006-01,Metallica,0
+2006-01,Nevermore,0
+2006-01,Nightwish,0
+2006-01,Pain,0
+2006-01,Pink Floyd,0
+2006-01,Queensrÿche,0
+2006-01,Şebnem Ferah,0
+2006-01,Soilwork,0
+2006-01,Susperia,0
+2006-01,Tool,9
+2006-02,A Perfect Circle,1
+2006-02,Anathema,7
+2006-02,Ayreon,0
+2006-02,Dimmu Borgir,0
+2006-02,Exodus,6
+2006-02,Green Carnation,9
+2006-02,Iron Maiden,0
+2006-02,Joe Satriani,0
+2006-02,Katatonia,119
+2006-02,Megadeth,0
+2006-02,Metallica,11
+2006-02,Nevermore,1
+2006-02,Nightwish,0
+2006-02,Pain,0
+2006-02,Pink Floyd,1
+2006-02,Queensrÿche,0
+2006-02,Şebnem Ferah,0
+2006-02,Soilwork,1
+2006-02,Susperia,0
+2006-02,Tool,13
+2006-03,A Perfect Circle,56
+2006-03,Anathema,0
+2006-03,Ayreon,3
+2006-03,Dimmu Borgir,23
+2006-03,Exodus,3
+2006-03,Green Carnation,19
+2006-03,Iron Maiden,0
+2006-03,Joe Satriani,0
+2006-03,Katatonia,4
+2006-03,Megadeth,0
+2006-03,Metallica,0
+2006-03,Nevermore,5
+2006-03,Nightwish,0
+2006-03,Pain,7
+2006-03,Pink Floyd,17
+2006-03,Queensrÿche,0
+2006-03,Şebnem Ferah,0
+2006-03,Soilwork,3
+2006-03,Susperia,5
+2006-03,Tool,23
+2006-04,A Perfect Circle,65
+2006-04,Anathema,49
+2006-04,Ayreon,4
+2006-04,Dimmu Borgir,2
+2006-04,Exodus,0
+2006-04,Green Carnation,1
+2006-04,Iron Maiden,0
+2006-04,Joe Satriani,4
+2006-04,Katatonia,6
+2006-04,Megadeth,1
+2006-04,Metallica,14
+2006-04,Nevermore,0
+2006-04,Nightwish,0
+2006-04,Pain,0
+2006-04,Pink Floyd,5
+2006-04,Queensrÿche,45
+2006-04,Şebnem Ferah,0
+2006-04,Soilwork,1
+2006-04,Susperia,0
+2006-04,Tool,53
+2006-05,A Perfect Circle,8
+2006-05,Anathema,0
+2006-05,Ayreon,20
+2006-05,Dimmu Borgir,0
+2006-05,Exodus,0
+2006-05,Green Carnation,2
+2006-05,Iron Maiden,1
+2006-05,Joe Satriani,12
+2006-05,Katatonia,4
+2006-05,Megadeth,0
+2006-05,Metallica,0
+2006-05,Nevermore,11
+2006-05,Nightwish,0
+2006-05,Pain,0
+2006-05,Pink Floyd,13
+2006-05,Queensrÿche,2
+2006-05,Şebnem Ferah,3
+2006-05,Soilwork,0
+2006-05,Susperia,0
+2006-05,Tool,99
+2006-06,A Perfect Circle,8
+2006-06,Anathema,0
+2006-06,Ayreon,4
+2006-06,Dimmu Borgir,39
+2006-06,Exodus,0
+2006-06,Green Carnation,14
+2006-06,Iron Maiden,0
+2006-06,Joe Satriani,3
+2006-06,Katatonia,6
+2006-06,Megadeth,3
+2006-06,Metallica,0
+2006-06,Nevermore,0
+2006-06,Nightwish,0
+2006-06,Pain,1
+2006-06,Pink Floyd,18
+2006-06,Queensrÿche,2
+2006-06,Şebnem Ferah,0
+2006-06,Soilwork,3
+2006-06,Susperia,1
+2006-06,Tool,9
+2006-07,A Perfect Circle,4
+2006-07,Anathema,0
+2006-07,Ayreon,63
+2006-07,Dimmu Borgir,4
+2006-07,Exodus,0
+2006-07,Green Carnation,19
+2006-07,Iron Maiden,0
+2006-07,Joe Satriani,1
+2006-07,Katatonia,22
+2006-07,Megadeth,0
+2006-07,Metallica,49
+2006-07,Nevermore,69
+2006-07,Nightwish,0
+2006-07,Pain,4
+2006-07,Pink Floyd,1
+2006-07,Queensrÿche,2
+2006-07,Şebnem Ferah,0
+2006-07,Soilwork,2
+2006-07,Susperia,2
+2006-07,Tool,1
+2006-08,A Perfect Circle,2
+2006-08,Anathema,22
+2006-08,Ayreon,1
+2006-08,Dimmu Borgir,2
+2006-08,Exodus,1
+2006-08,Green Carnation,1
+2006-08,Iron Maiden,15
+2006-08,Joe Satriani,10
+2006-08,Katatonia,15
+2006-08,Megadeth,10
+2006-08,Metallica,4
+2006-08,Nevermore,4
+2006-08,Nightwish,13
+2006-08,Pain,3
+2006-08,Pink Floyd,2
+2006-08,Queensrÿche,0
+2006-08,Şebnem Ferah,4
+2006-08,Soilwork,2
+2006-08,Susperia,1
+2006-08,Tool,3
+2006-09,A Perfect Circle,26
+2006-09,Anathema,5
+2006-09,Ayreon,1
+2006-09,Dimmu Borgir,3
+2006-09,Exodus,3
+2006-09,Green Carnation,0
+2006-09,Iron Maiden,5
+2006-09,Joe Satriani,0
+2006-09,Katatonia,26
+2006-09,Megadeth,1
+2006-09,Metallica,0
+2006-09,Nevermore,0
+2006-09,Nightwish,1
+2006-09,Pain,3
+2006-09,Pink Floyd,8
+2006-09,Queensrÿche,0
+2006-09,Şebnem Ferah,8
+2006-09,Soilwork,5
+2006-09,Susperia,0
+2006-09,Tool,1
+2006-10,A Perfect Circle,0
+2006-10,Anathema,12
+2006-10,Ayreon,2
+2006-10,Dimmu Borgir,5
+2006-10,Exodus,2
+2006-10,Green Carnation,2
+2006-10,Iron Maiden,4
+2006-10,Joe Satriani,0
+2006-10,Katatonia,18
+2006-10,Megadeth,0
+2006-10,Metallica,0
+2006-10,Nevermore,1
+2006-10,Nightwish,0
+2006-10,Pain,1
+2006-10,Pink Floyd,0
+2006-10,Queensrÿche,0
+2006-10,Şebnem Ferah,0
+2006-10,Soilwork,6
+2006-10,Susperia,1
+2006-10,Tool,10
+2006-11,A Perfect Circle,3
+2006-11,Anathema,1
+2006-11,Ayreon,0
+2006-11,Dimmu Borgir,2
+2006-11,Exodus,0
+2006-11,Green Carnation,0
+2006-11,Iron Maiden,4
+2006-11,Joe Satriani,0
+2006-11,Katatonia,14
+2006-11,Megadeth,0
+2006-11,Metallica,0
+2006-11,Nevermore,1
+2006-11,Nightwish,3
+2006-11,Pain,3
+2006-11,Pink Floyd,1
+2006-11,Queensrÿche,2
+2006-11,Şebnem Ferah,3
+2006-11,Soilwork,4
+2006-11,Susperia,2
+2006-11,Tool,0
+2006-12,A Perfect Circle,0
+2006-12,Anathema,2
+2006-12,Ayreon,3
+2006-12,Dimmu Borgir,2
+2006-12,Exodus,2
+2006-12,Green Carnation,14
+2006-12,Iron Maiden,2
+2006-12,Joe Satriani,3
+2006-12,Katatonia,1
+2006-12,Megadeth,4
+2006-12,Metallica,1
+2006-12,Nevermore,2
+2006-12,Nightwish,35
+2006-12,Pain,1
+2006-12,Pink Floyd,2
+2006-12,Queensrÿche,2
+2006-12,Şebnem Ferah,0
+2006-12,Soilwork,0
+2006-12,Susperia,0
+2006-12,Tool,2
+2007-01,A Perfect Circle,4
+2007-01,Anathema,0
+2007-01,Ayreon,1
+2007-01,Dimmu Borgir,2
+2007-01,Exodus,0
+2007-01,Green Carnation,11
+2007-01,Iron Maiden,2
+2007-01,Joe Satriani,1
+2007-01,Katatonia,1
+2007-01,Megadeth,4
+2007-01,Metallica,0
+2007-01,Nevermore,9
+2007-01,Nightwish,3
+2007-01,Pain,1
+2007-01,Pink Floyd,19
+2007-01,Queensrÿche,0
+2007-01,Şebnem Ferah,4
+2007-01,Soilwork,4
+2007-01,Susperia,1
+2007-01,Tool,6
+2007-02,A Perfect Circle,3
+2007-02,Anathema,0
+2007-02,Ayreon,0
+2007-02,Dimmu Borgir,0
+2007-02,Exodus,0
+2007-02,Green Carnation,0
+2007-02,Iron Maiden,1
+2007-02,Joe Satriani,0
+2007-02,Katatonia,0
+2007-02,Megadeth,1
+2007-02,Metallica,1
+2007-02,Nevermore,0
+2007-02,Nightwish,0
+2007-02,Pain,0
+2007-02,Pink Floyd,0
+2007-02,Queensrÿche,0
+2007-02,Şebnem Ferah,0
+2007-02,Soilwork,0
+2007-02,Susperia,0
+2007-02,Tool,0
+2007-03,A Perfect Circle,0
+2007-03,Anathema,0
+2007-03,Ayreon,0
+2007-03,Dimmu Borgir,1
+2007-03,Exodus,0
+2007-03,Green Carnation,0
+2007-03,Iron Maiden,0
+2007-03,Joe Satriani,23
+2007-03,Katatonia,19
+2007-03,Megadeth,0
+2007-03,Metallica,2
+2007-03,Nevermore,0
+2007-03,Nightwish,0
+2007-03,Pain,3
+2007-03,Pink Floyd,0
+2007-03,Queensrÿche,0
+2007-03,Şebnem Ferah,0
+2007-03,Soilwork,0
+2007-03,Susperia,166
+2007-03,Tool,51
+2007-04,A Perfect Circle,0
+2007-04,Anathema,4
+2007-04,Ayreon,13
+2007-04,Dimmu Borgir,8
+2007-04,Exodus,0
+2007-04,Green Carnation,0
+2007-04,Iron Maiden,0
+2007-04,Joe Satriani,28
+2007-04,Katatonia,14
+2007-04,Megadeth,6
+2007-04,Metallica,2
+2007-04,Nevermore,14
+2007-04,Nightwish,0
+2007-04,Pain,0
+2007-04,Pink Floyd,0
+2007-04,Queensrÿche,1
+2007-04,Şebnem Ferah,0
+2007-04,Soilwork,0
+2007-04,Susperia,29
+2007-04,Tool,0
+2007-05,A Perfect Circle,0
+2007-05,Anathema,0
+2007-05,Ayreon,0
+2007-05,Dimmu Borgir,0
+2007-05,Exodus,0
+2007-05,Green Carnation,0
+2007-05,Iron Maiden,0
+2007-05,Joe Satriani,19
+2007-05,Katatonia,3
+2007-05,Megadeth,6
+2007-05,Metallica,0
+2007-05,Nevermore,24
+2007-05,Nightwish,3
+2007-05,Pain,3
+2007-05,Pink Floyd,0
+2007-05,Queensrÿche,0
+2007-05,Şebnem Ferah,0
+2007-05,Soilwork,0
+2007-05,Susperia,4
+2007-05,Tool,0
+2007-06,A Perfect Circle,0
+2007-06,Anathema,0
+2007-06,Ayreon,0
+2007-06,Dimmu Borgir,0
+2007-06,Exodus,2
+2007-06,Green Carnation,0
+2007-06,Iron Maiden,0
+2007-06,Joe Satriani,5
+2007-06,Katatonia,10
+2007-06,Megadeth,11
+2007-06,Metallica,0
+2007-06,Nevermore,11
+2007-06,Nightwish,1
+2007-06,Pain,0
+2007-06,Pink Floyd,1
+2007-06,Queensrÿche,0
+2007-06,Şebnem Ferah,0
+2007-06,Soilwork,0
+2007-06,Susperia,11
+2007-06,Tool,0
+2007-07,A Perfect Circle,0
+2007-07,Anathema,0
+2007-07,Ayreon,0
+2007-07,Dimmu Borgir,72
+2007-07,Exodus,8
+2007-07,Green Carnation,0
+2007-07,Iron Maiden,0
+2007-07,Joe Satriani,0
+2007-07,Katatonia,1
+2007-07,Megadeth,0
+2007-07,Metallica,0
+2007-07,Nevermore,0
+2007-07,Nightwish,3
+2007-07,Pain,0
+2007-07,Pink Floyd,31
+2007-07,Queensrÿche,0
+2007-07,Şebnem Ferah,0
+2007-07,Soilwork,0
+2007-07,Susperia,0
+2007-07,Tool,0
+2007-08,A Perfect Circle,0
+2007-08,Anathema,0
+2007-08,Ayreon,4
+2007-08,Dimmu Borgir,33
+2007-08,Exodus,0
+2007-08,Green Carnation,114
+2007-08,Iron Maiden,0
+2007-08,Joe Satriani,0
+2007-08,Katatonia,8
+2007-08,Megadeth,0
+2007-08,Metallica,1
+2007-08,Nevermore,0
+2007-08,Nightwish,4
+2007-08,Pain,0
+2007-08,Pink Floyd,2
+2007-08,Queensrÿche,186
+2007-08,Şebnem Ferah,2
+2007-08,Soilwork,0
+2007-08,Susperia,0
+2007-08,Tool,0
+2007-09,A Perfect Circle,0
+2007-09,Anathema,16
+2007-09,Ayreon,0
+2007-09,Dimmu Borgir,0
+2007-09,Exodus,0
+2007-09,Green Carnation,15
+2007-09,Iron Maiden,0
+2007-09,Joe Satriani,0
+2007-09,Katatonia,0
+2007-09,Megadeth,0
+2007-09,Metallica,0
+2007-09,Nevermore,0
+2007-09,Nightwish,16
+2007-09,Pain,0
+2007-09,Pink Floyd,0
+2007-09,Queensrÿche,135
+2007-09,Şebnem Ferah,53
+2007-09,Soilwork,2
+2007-09,Susperia,0
+2007-09,Tool,105
+2007-10,A Perfect Circle,0
+2007-10,Anathema,15
+2007-10,Ayreon,4
+2007-10,Dimmu Borgir,7
+2007-10,Exodus,129
+2007-10,Green Carnation,0
+2007-10,Iron Maiden,0
+2007-10,Joe Satriani,0
+2007-10,Katatonia,0
+2007-10,Megadeth,0
+2007-10,Metallica,13
+2007-10,Nevermore,54
+2007-10,Nightwish,15
+2007-10,Pain,0
+2007-10,Pink Floyd,0
+2007-10,Queensrÿche,26
+2007-10,Şebnem Ferah,162
+2007-10,Soilwork,1
+2007-10,Susperia,17
+2007-10,Tool,53
+2007-11,A Perfect Circle,0
+2007-11,Anathema,0
+2007-11,Ayreon,5
+2007-11,Dimmu Borgir,13
+2007-11,Exodus,92
+2007-11,Green Carnation,1
+2007-11,Iron Maiden,0
+2007-11,Joe Satriani,15
+2007-11,Katatonia,2
+2007-11,Megadeth,6
+2007-11,Metallica,5
+2007-11,Nevermore,19
+2007-11,Nightwish,0
+2007-11,Pain,21
+2007-11,Pink Floyd,1
+2007-11,Queensrÿche,359
+2007-11,Şebnem Ferah,69
+2007-11,Soilwork,212
+2007-11,Susperia,26
+2007-11,Tool,74
+2007-12,A Perfect Circle,0
+2007-12,Anathema,0
+2007-12,Ayreon,79
+2007-12,Dimmu Borgir,9
+2007-12,Exodus,23
+2007-12,Green Carnation,7
+2007-12,Iron Maiden,0
+2007-12,Joe Satriani,101
+2007-12,Katatonia,5
+2007-12,Megadeth,3
+2007-12,Metallica,5
+2007-12,Nevermore,0
+2007-12,Nightwish,0
+2007-12,Pain,0
+2007-12,Pink Floyd,0
+2007-12,Queensrÿche,249
+2007-12,Şebnem Ferah,97
+2007-12,Soilwork,20
+2007-12,Susperia,0
+2007-12,Tool,3
+2008-01,A Perfect Circle,8
+2008-01,Anathema,3
+2008-01,Ayreon,6
+2008-01,Dimmu Borgir,3
+2008-01,Exodus,14
+2008-01,Green Carnation,7
+2008-01,Iron Maiden,11
+2008-01,Joe Satriani,3
+2008-01,Katatonia,2
+2008-01,Megadeth,7
+2008-01,Metallica,10
+2008-01,Nevermore,21
+2008-01,Nightwish,7
+2008-01,Pain,1
+2008-01,Pink Floyd,14
+2008-01,Queensrÿche,7
+2008-01,Şebnem Ferah,4
+2008-01,Soilwork,4
+2008-01,Susperia,7
+2008-01,Tool,3
+2008-02,A Perfect Circle,5
+2008-02,Anathema,1
+2008-02,Ayreon,71
+2008-02,Dimmu Borgir,3
+2008-02,Exodus,19
+2008-02,Green Carnation,10
+2008-02,Iron Maiden,12
+2008-02,Joe Satriani,1
+2008-02,Katatonia,3
+2008-02,Megadeth,3
+2008-02,Metallica,11
+2008-02,Nevermore,7
+2008-02,Nightwish,10
+2008-02,Pain,2
+2008-02,Pink Floyd,12
+2008-02,Queensrÿche,8
+2008-02,Şebnem Ferah,7
+2008-02,Soilwork,4
+2008-02,Susperia,1
+2008-02,Tool,2
+2008-03,A Perfect Circle,31
+2008-03,Anathema,4
+2008-03,Ayreon,8
+2008-03,Dimmu Borgir,4
+2008-03,Exodus,4
+2008-03,Green Carnation,5
+2008-03,Iron Maiden,12
+2008-03,Joe Satriani,3
+2008-03,Katatonia,16
+2008-03,Megadeth,8
+2008-03,Metallica,63
+2008-03,Nevermore,12
+2008-03,Nightwish,12
+2008-03,Pain,19
+2008-03,Pink Floyd,13
+2008-03,Queensrÿche,9
+2008-03,Şebnem Ferah,10
+2008-03,Soilwork,8
+2008-03,Susperia,7
+2008-03,Tool,28
+2008-04,A Perfect Circle,1
+2008-04,Anathema,0
+2008-04,Ayreon,2
+2008-04,Dimmu Borgir,0
+2008-04,Exodus,0
+2008-04,Green Carnation,0
+2008-04,Iron Maiden,0
+2008-04,Joe Satriani,38
+2008-04,Katatonia,0
+2008-04,Megadeth,0
+2008-04,Metallica,16
+2008-04,Nevermore,0
+2008-04,Nightwish,1
+2008-04,Pain,0
+2008-04,Pink Floyd,0
+2008-04,Queensrÿche,14
+2008-04,Şebnem Ferah,1
+2008-04,Soilwork,0
+2008-04,Susperia,0
+2008-04,Tool,0
+2008-05,A Perfect Circle,0
+2008-05,Anathema,0
+2008-05,Ayreon,0
+2008-05,Dimmu Borgir,0
+2008-05,Exodus,0
+2008-05,Green Carnation,0
+2008-05,Iron Maiden,0
+2008-05,Joe Satriani,0
+2008-05,Katatonia,0
+2008-05,Megadeth,0
+2008-05,Metallica,0
+2008-05,Nevermore,0
+2008-05,Nightwish,0
+2008-05,Pain,0
+2008-05,Pink Floyd,0
+2008-05,Queensrÿche,0
+2008-05,Şebnem Ferah,0
+2008-05,Soilwork,0
+2008-05,Susperia,0
+2008-05,Tool,0
+2008-06,A Perfect Circle,0
+2008-06,Anathema,0
+2008-06,Ayreon,0
+2008-06,Dimmu Borgir,0
+2008-06,Exodus,0
+2008-06,Green Carnation,0
+2008-06,Iron Maiden,0
+2008-06,Joe Satriani,0
+2008-06,Katatonia,0
+2008-06,Megadeth,0
+2008-06,Metallica,0
+2008-06,Nevermore,0
+2008-06,Nightwish,0
+2008-06,Pain,0
+2008-06,Pink Floyd,0
+2008-06,Queensrÿche,0
+2008-06,Şebnem Ferah,0
+2008-06,Soilwork,0
+2008-06,Susperia,0
+2008-06,Tool,0
+2008-07,A Perfect Circle,0
+2008-07,Anathema,0
+2008-07,Ayreon,0
+2008-07,Dimmu Borgir,0
+2008-07,Exodus,0
+2008-07,Green Carnation,0
+2008-07,Iron Maiden,0
+2008-07,Joe Satriani,0
+2008-07,Katatonia,0
+2008-07,Megadeth,0
+2008-07,Metallica,0
+2008-07,Nevermore,0
+2008-07,Nightwish,0
+2008-07,Pain,0
+2008-07,Pink Floyd,0
+2008-07,Queensrÿche,0
+2008-07,Şebnem Ferah,0
+2008-07,Soilwork,0
+2008-07,Susperia,0
+2008-07,Tool,0
+2008-08,A Perfect Circle,0
+2008-08,Anathema,0
+2008-08,Ayreon,0
+2008-08,Dimmu Borgir,0
+2008-08,Exodus,0
+2008-08,Green Carnation,0
+2008-08,Iron Maiden,0
+2008-08,Joe Satriani,0
+2008-08,Katatonia,0
+2008-08,Megadeth,0
+2008-08,Metallica,0
+2008-08,Nevermore,0
+2008-08,Nightwish,0
+2008-08,Pain,0
+2008-08,Pink Floyd,0
+2008-08,Queensrÿche,0
+2008-08,Şebnem Ferah,0
+2008-08,Soilwork,0
+2008-08,Susperia,0
+2008-08,Tool,0
+2008-09,A Perfect Circle,2
+2008-09,Anathema,7
+2008-09,Ayreon,4
+2008-09,Dimmu Borgir,3
+2008-09,Exodus,20
+2008-09,Green Carnation,3
+2008-09,Iron Maiden,10
+2008-09,Joe Satriani,3
+2008-09,Katatonia,2
+2008-09,Megadeth,3
+2008-09,Metallica,0
+2008-09,Nevermore,2
+2008-09,Nightwish,5
+2008-09,Pain,2
+2008-09,Pink Floyd,2
+2008-09,Queensrÿche,3
+2008-09,Şebnem Ferah,2
+2008-09,Soilwork,3
+2008-09,Susperia,1
+2008-09,Tool,7
+2008-10,A Perfect Circle,5
+2008-10,Anathema,18
+2008-10,Ayreon,9
+2008-10,Dimmu Borgir,0
+2008-10,Exodus,28
+2008-10,Green Carnation,6
+2008-10,Iron Maiden,19
+2008-10,Joe Satriani,11
+2008-10,Katatonia,2
+2008-10,Megadeth,2
+2008-10,Metallica,10
+2008-10,Nevermore,83
+2008-10,Nightwish,5
+2008-10,Pain,10
+2008-10,Pink Floyd,2
+2008-10,Queensrÿche,22
+2008-10,Şebnem Ferah,23
+2008-10,Soilwork,3
+2008-10,Susperia,2
+2008-10,Tool,15
+2008-11,A Perfect Circle,0
+2008-11,Anathema,4
+2008-11,Ayreon,4
+2008-11,Dimmu Borgir,3
+2008-11,Exodus,11
+2008-11,Green Carnation,6
+2008-11,Iron Maiden,3
+2008-11,Joe Satriani,0
+2008-11,Katatonia,2
+2008-11,Megadeth,3
+2008-11,Metallica,169
+2008-11,Nevermore,29
+2008-11,Nightwish,4
+2008-11,Pain,15
+2008-11,Pink Floyd,2
+2008-11,Queensrÿche,37
+2008-11,Şebnem Ferah,3
+2008-11,Soilwork,1
+2008-11,Susperia,0
+2008-11,Tool,37
+2008-12,A Perfect Circle,9
+2008-12,Anathema,1
+2008-12,Ayreon,5
+2008-12,Dimmu Borgir,1
+2008-12,Exodus,6
+2008-12,Green Carnation,6
+2008-12,Iron Maiden,10
+2008-12,Joe Satriani,3
+2008-12,Katatonia,3
+2008-12,Megadeth,8
+2008-12,Metallica,34
+2008-12,Nevermore,6
+2008-12,Nightwish,3
+2008-12,Pain,3
+2008-12,Pink Floyd,6
+2008-12,Queensrÿche,7
+2008-12,Şebnem Ferah,4
+2008-12,Soilwork,4
+2008-12,Susperia,10
+2008-12,Tool,14
+2009-01,A Perfect Circle,2
+2009-01,Anathema,6
+2009-01,Ayreon,13
+2009-01,Dimmu Borgir,0
+2009-01,Exodus,3
+2009-01,Green Carnation,2
+2009-01,Iron Maiden,17
+2009-01,Joe Satriani,1
+2009-01,Katatonia,0
+2009-01,Megadeth,1
+2009-01,Metallica,20
+2009-01,Nevermore,3
+2009-01,Nightwish,3
+2009-01,Pain,1
+2009-01,Pink Floyd,4
+2009-01,Queensrÿche,5
+2009-01,Şebnem Ferah,27
+2009-01,Soilwork,2
+2009-01,Susperia,3
+2009-01,Tool,4
+2009-02,A Perfect Circle,0
+2009-02,Anathema,1
+2009-02,Ayreon,2
+2009-02,Dimmu Borgir,0
+2009-02,Exodus,1
+2009-02,Green Carnation,0
+2009-02,Iron Maiden,2
+2009-02,Joe Satriani,0
+2009-02,Katatonia,2
+2009-02,Megadeth,1
+2009-02,Metallica,2
+2009-02,Nevermore,3
+2009-02,Nightwish,1
+2009-02,Pain,1
+2009-02,Pink Floyd,2
+2009-02,Queensrÿche,1
+2009-02,Şebnem Ferah,1
+2009-02,Soilwork,0
+2009-02,Susperia,0
+2009-02,Tool,18
+2009-03,A Perfect Circle,2
+2009-03,Anathema,2
+2009-03,Ayreon,0
+2009-03,Dimmu Borgir,9
+2009-03,Exodus,2
+2009-03,Green Carnation,6
+2009-03,Iron Maiden,1
+2009-03,Joe Satriani,1
+2009-03,Katatonia,4
+2009-03,Megadeth,11
+2009-03,Metallica,18
+2009-03,Nevermore,6
+2009-03,Nightwish,2
+2009-03,Pain,4
+2009-03,Pink Floyd,12
+2009-03,Queensrÿche,5
+2009-03,Şebnem Ferah,6
+2009-03,Soilwork,1
+2009-03,Susperia,8
+2009-03,Tool,43
+2009-04,A Perfect Circle,0
+2009-04,Anathema,1
+2009-04,Ayreon,0
+2009-04,Dimmu Borgir,3
+2009-04,Exodus,2
+2009-04,Green Carnation,8
+2009-04,Iron Maiden,2
+2009-04,Joe Satriani,4
+2009-04,Katatonia,32
+2009-04,Megadeth,2
+2009-04,Metallica,9
+2009-04,Nevermore,1
+2009-04,Nightwish,2
+2009-04,Pain,0
+2009-04,Pink Floyd,3
+2009-04,Queensrÿche,2
+2009-04,Şebnem Ferah,10
+2009-04,Soilwork,0
+2009-04,Susperia,7
+2009-04,Tool,3
+2009-05,A Perfect Circle,1
+2009-05,Anathema,0
+2009-05,Ayreon,0
+2009-05,Dimmu Borgir,0
+2009-05,Exodus,2
+2009-05,Green Carnation,0
+2009-05,Iron Maiden,4
+2009-05,Joe Satriani,0
+2009-05,Katatonia,0
+2009-05,Megadeth,28
+2009-05,Metallica,6
+2009-05,Nevermore,1
+2009-05,Nightwish,3
+2009-05,Pain,0
+2009-05,Pink Floyd,0
+2009-05,Queensrÿche,1
+2009-05,Şebnem Ferah,0
+2009-05,Soilwork,0
+2009-05,Susperia,10
+2009-05,Tool,1
+2009-06,A Perfect Circle,0
+2009-06,Anathema,19
+2009-06,Ayreon,0
+2009-06,Dimmu Borgir,0
+2009-06,Exodus,0
+2009-06,Green Carnation,0
+2009-06,Iron Maiden,0
+2009-06,Joe Satriani,0
+2009-06,Katatonia,1
+2009-06,Megadeth,15
+2009-06,Metallica,5
+2009-06,Nevermore,0
+2009-06,Nightwish,0
+2009-06,Pain,0
+2009-06,Pink Floyd,0
+2009-06,Queensrÿche,0
+2009-06,Şebnem Ferah,0
+2009-06,Soilwork,0
+2009-06,Susperia,15
+2009-06,Tool,0

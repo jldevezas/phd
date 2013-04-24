@@ -1,0 +1,901 @@
+month,artist,plays
+2005-09,Apathy,0
+2005-09,Cage,19
+2005-09,Camel,0
+2005-09,Cream,1
+2005-09,Cunninlynguists,0
+2005-09,Deftones,0
+2005-09,Dire Straits,0
+2005-09,Disturbed,0
+2005-09,In Flames,0
+2005-09,Insane Clown Posse,0
+2005-09,Jedi Mind Tricks,0
+2005-09,Jimi Hendrix,0
+2005-09,Kingston Wall,0
+2005-09,Korn,0
+2005-09,Kottonmouth Kings,63
+2005-09,Metallica,1
+2005-09,Pink Floyd,0
+2005-09,Rush,0
+2005-09,The Beatles,0
+2005-09,Twiztid,43
+2005-10,Apathy,0
+2005-10,Cage,12
+2005-10,Camel,0
+2005-10,Cream,0
+2005-10,Cunninlynguists,0
+2005-10,Deftones,0
+2005-10,Dire Straits,0
+2005-10,Disturbed,24
+2005-10,In Flames,0
+2005-10,Insane Clown Posse,0
+2005-10,Jedi Mind Tricks,0
+2005-10,Jimi Hendrix,0
+2005-10,Kingston Wall,0
+2005-10,Korn,0
+2005-10,Kottonmouth Kings,1
+2005-10,Metallica,0
+2005-10,Pink Floyd,0
+2005-10,Rush,0
+2005-10,The Beatles,0
+2005-10,Twiztid,0
+2005-11,Apathy,27
+2005-11,Cage,51
+2005-11,Camel,0
+2005-11,Cream,0
+2005-11,Cunninlynguists,0
+2005-11,Deftones,1
+2005-11,Dire Straits,0
+2005-11,Disturbed,46
+2005-11,In Flames,0
+2005-11,Insane Clown Posse,152
+2005-11,Jedi Mind Tricks,3
+2005-11,Jimi Hendrix,0
+2005-11,Kingston Wall,0
+2005-11,Korn,16
+2005-11,Kottonmouth Kings,12
+2005-11,Metallica,0
+2005-11,Pink Floyd,0
+2005-11,Rush,0
+2005-11,The Beatles,0
+2005-11,Twiztid,40
+2005-12,Apathy,51
+2005-12,Cage,89
+2005-12,Camel,0
+2005-12,Cream,0
+2005-12,Cunninlynguists,24
+2005-12,Deftones,12
+2005-12,Dire Straits,75
+2005-12,Disturbed,28
+2005-12,In Flames,0
+2005-12,Insane Clown Posse,53
+2005-12,Jedi Mind Tricks,0
+2005-12,Jimi Hendrix,3
+2005-12,Kingston Wall,0
+2005-12,Korn,79
+2005-12,Kottonmouth Kings,34
+2005-12,Metallica,2
+2005-12,Pink Floyd,0
+2005-12,Rush,0
+2005-12,The Beatles,0
+2005-12,Twiztid,20
+2006-01,Apathy,1
+2006-01,Cage,52
+2006-01,Camel,0
+2006-01,Cream,0
+2006-01,Cunninlynguists,56
+2006-01,Deftones,0
+2006-01,Dire Straits,0
+2006-01,Disturbed,0
+2006-01,In Flames,0
+2006-01,Insane Clown Posse,4
+2006-01,Jedi Mind Tricks,0
+2006-01,Jimi Hendrix,1
+2006-01,Kingston Wall,0
+2006-01,Korn,3
+2006-01,Kottonmouth Kings,18
+2006-01,Metallica,0
+2006-01,Pink Floyd,0
+2006-01,Rush,0
+2006-01,The Beatles,0
+2006-01,Twiztid,28
+2006-02,Apathy,25
+2006-02,Cage,84
+2006-02,Camel,0
+2006-02,Cream,0
+2006-02,Cunninlynguists,0
+2006-02,Deftones,13
+2006-02,Dire Straits,1
+2006-02,Disturbed,7
+2006-02,In Flames,0
+2006-02,Insane Clown Posse,0
+2006-02,Jedi Mind Tricks,9
+2006-02,Jimi Hendrix,1
+2006-02,Kingston Wall,0
+2006-02,Korn,1
+2006-02,Kottonmouth Kings,26
+2006-02,Metallica,0
+2006-02,Pink Floyd,1
+2006-02,Rush,0
+2006-02,The Beatles,0
+2006-02,Twiztid,0
+2006-03,Apathy,1
+2006-03,Cage,0
+2006-03,Camel,0
+2006-03,Cream,3
+2006-03,Cunninlynguists,0
+2006-03,Deftones,0
+2006-03,Dire Straits,6
+2006-03,Disturbed,15
+2006-03,In Flames,7
+2006-03,Insane Clown Posse,0
+2006-03,Jedi Mind Tricks,0
+2006-03,Jimi Hendrix,60
+2006-03,Kingston Wall,118
+2006-03,Korn,0
+2006-03,Kottonmouth Kings,0
+2006-03,Metallica,78
+2006-03,Pink Floyd,28
+2006-03,Rush,8
+2006-03,The Beatles,0
+2006-03,Twiztid,0
+2006-04,Apathy,2
+2006-04,Cage,2
+2006-04,Camel,0
+2006-04,Cream,1
+2006-04,Cunninlynguists,0
+2006-04,Deftones,3
+2006-04,Dire Straits,0
+2006-04,Disturbed,3
+2006-04,In Flames,2
+2006-04,Insane Clown Posse,33
+2006-04,Jedi Mind Tricks,0
+2006-04,Jimi Hendrix,9
+2006-04,Kingston Wall,12
+2006-04,Korn,13
+2006-04,Kottonmouth Kings,0
+2006-04,Metallica,22
+2006-04,Pink Floyd,9
+2006-04,Rush,9
+2006-04,The Beatles,0
+2006-04,Twiztid,11
+2006-05,Apathy,30
+2006-05,Cage,2
+2006-05,Camel,0
+2006-05,Cream,0
+2006-05,Cunninlynguists,4
+2006-05,Deftones,1
+2006-05,Dire Straits,0
+2006-05,Disturbed,0
+2006-05,In Flames,0
+2006-05,Insane Clown Posse,0
+2006-05,Jedi Mind Tricks,2
+2006-05,Jimi Hendrix,0
+2006-05,Kingston Wall,0
+2006-05,Korn,2
+2006-05,Kottonmouth Kings,4
+2006-05,Metallica,0
+2006-05,Pink Floyd,0
+2006-05,Rush,0
+2006-05,The Beatles,0
+2006-05,Twiztid,10
+2006-06,Apathy,4
+2006-06,Cage,0
+2006-06,Camel,0
+2006-06,Cream,0
+2006-06,Cunninlynguists,10
+2006-06,Deftones,0
+2006-06,Dire Straits,0
+2006-06,Disturbed,0
+2006-06,In Flames,0
+2006-06,Insane Clown Posse,1
+2006-06,Jedi Mind Tricks,0
+2006-06,Jimi Hendrix,12
+2006-06,Kingston Wall,9
+2006-06,Korn,1
+2006-06,Kottonmouth Kings,26
+2006-06,Metallica,13
+2006-06,Pink Floyd,0
+2006-06,Rush,0
+2006-06,The Beatles,0
+2006-06,Twiztid,0
+2006-07,Apathy,13
+2006-07,Cage,2
+2006-07,Camel,0
+2006-07,Cream,0
+2006-07,Cunninlynguists,6
+2006-07,Deftones,0
+2006-07,Dire Straits,0
+2006-07,Disturbed,0
+2006-07,In Flames,0
+2006-07,Insane Clown Posse,23
+2006-07,Jedi Mind Tricks,1
+2006-07,Jimi Hendrix,0
+2006-07,Kingston Wall,0
+2006-07,Korn,2
+2006-07,Kottonmouth Kings,10
+2006-07,Metallica,1
+2006-07,Pink Floyd,0
+2006-07,Rush,0
+2006-07,The Beatles,0
+2006-07,Twiztid,1
+2006-08,Apathy,0
+2006-08,Cage,3
+2006-08,Camel,0
+2006-08,Cream,0
+2006-08,Cunninlynguists,56
+2006-08,Deftones,2
+2006-08,Dire Straits,3
+2006-08,Disturbed,28
+2006-08,In Flames,0
+2006-08,Insane Clown Posse,0
+2006-08,Jedi Mind Tricks,17
+2006-08,Jimi Hendrix,7
+2006-08,Kingston Wall,0
+2006-08,Korn,17
+2006-08,Kottonmouth Kings,0
+2006-08,Metallica,1
+2006-08,Pink Floyd,0
+2006-08,Rush,1
+2006-08,The Beatles,0
+2006-08,Twiztid,0
+2006-09,Apathy,0
+2006-09,Cage,2
+2006-09,Camel,0
+2006-09,Cream,0
+2006-09,Cunninlynguists,1
+2006-09,Deftones,0
+2006-09,Dire Straits,0
+2006-09,Disturbed,0
+2006-09,In Flames,57
+2006-09,Insane Clown Posse,0
+2006-09,Jedi Mind Tricks,58
+2006-09,Jimi Hendrix,54
+2006-09,Kingston Wall,0
+2006-09,Korn,1
+2006-09,Kottonmouth Kings,0
+2006-09,Metallica,1
+2006-09,Pink Floyd,2
+2006-09,Rush,0
+2006-09,The Beatles,0
+2006-09,Twiztid,5
+2006-10,Apathy,0
+2006-10,Cage,0
+2006-10,Camel,0
+2006-10,Cream,0
+2006-10,Cunninlynguists,2
+2006-10,Deftones,22
+2006-10,Dire Straits,0
+2006-10,Disturbed,0
+2006-10,In Flames,0
+2006-10,Insane Clown Posse,16
+2006-10,Jedi Mind Tricks,2
+2006-10,Jimi Hendrix,0
+2006-10,Kingston Wall,0
+2006-10,Korn,46
+2006-10,Kottonmouth Kings,0
+2006-10,Metallica,0
+2006-10,Pink Floyd,51
+2006-10,Rush,13
+2006-10,The Beatles,0
+2006-10,Twiztid,0
+2006-11,Apathy,0
+2006-11,Cage,2
+2006-11,Camel,0
+2006-11,Cream,0
+2006-11,Cunninlynguists,1
+2006-11,Deftones,21
+2006-11,Dire Straits,4
+2006-11,Disturbed,0
+2006-11,In Flames,1
+2006-11,Insane Clown Posse,0
+2006-11,Jedi Mind Tricks,24
+2006-11,Jimi Hendrix,4
+2006-11,Kingston Wall,69
+2006-11,Korn,0
+2006-11,Kottonmouth Kings,0
+2006-11,Metallica,0
+2006-11,Pink Floyd,1
+2006-11,Rush,25
+2006-11,The Beatles,0
+2006-11,Twiztid,0
+2006-12,Apathy,1
+2006-12,Cage,0
+2006-12,Camel,236
+2006-12,Cream,0
+2006-12,Cunninlynguists,0
+2006-12,Deftones,0
+2006-12,Dire Straits,0
+2006-12,Disturbed,0
+2006-12,In Flames,23
+2006-12,Insane Clown Posse,0
+2006-12,Jedi Mind Tricks,0
+2006-12,Jimi Hendrix,59
+2006-12,Kingston Wall,15
+2006-12,Korn,0
+2006-12,Kottonmouth Kings,0
+2006-12,Metallica,15
+2006-12,Pink Floyd,140
+2006-12,Rush,0
+2006-12,The Beatles,0
+2006-12,Twiztid,2
+2007-01,Apathy,0
+2007-01,Cage,0
+2007-01,Camel,219
+2007-01,Cream,0
+2007-01,Cunninlynguists,0
+2007-01,Deftones,0
+2007-01,Dire Straits,1
+2007-01,Disturbed,0
+2007-01,In Flames,0
+2007-01,Insane Clown Posse,0
+2007-01,Jedi Mind Tricks,0
+2007-01,Jimi Hendrix,16
+2007-01,Kingston Wall,0
+2007-01,Korn,0
+2007-01,Kottonmouth Kings,0
+2007-01,Metallica,0
+2007-01,Pink Floyd,105
+2007-01,Rush,0
+2007-01,The Beatles,0
+2007-01,Twiztid,0
+2007-02,Apathy,0
+2007-02,Cage,0
+2007-02,Camel,20
+2007-02,Cream,16
+2007-02,Cunninlynguists,0
+2007-02,Deftones,0
+2007-02,Dire Straits,41
+2007-02,Disturbed,0
+2007-02,In Flames,1
+2007-02,Insane Clown Posse,0
+2007-02,Jedi Mind Tricks,0
+2007-02,Jimi Hendrix,88
+2007-02,Kingston Wall,40
+2007-02,Korn,0
+2007-02,Kottonmouth Kings,0
+2007-02,Metallica,0
+2007-02,Pink Floyd,33
+2007-02,Rush,2
+2007-02,The Beatles,0
+2007-02,Twiztid,0
+2007-03,Apathy,0
+2007-03,Cage,0
+2007-03,Camel,46
+2007-03,Cream,1
+2007-03,Cunninlynguists,0
+2007-03,Deftones,0
+2007-03,Dire Straits,49
+2007-03,Disturbed,0
+2007-03,In Flames,1
+2007-03,Insane Clown Posse,0
+2007-03,Jedi Mind Tricks,0
+2007-03,Jimi Hendrix,17
+2007-03,Kingston Wall,44
+2007-03,Korn,0
+2007-03,Kottonmouth Kings,0
+2007-03,Metallica,2
+2007-03,Pink Floyd,1
+2007-03,Rush,11
+2007-03,The Beatles,0
+2007-03,Twiztid,0
+2007-04,Apathy,1
+2007-04,Cage,0
+2007-04,Camel,53
+2007-04,Cream,12
+2007-04,Cunninlynguists,0
+2007-04,Deftones,0
+2007-04,Dire Straits,0
+2007-04,Disturbed,0
+2007-04,In Flames,0
+2007-04,Insane Clown Posse,0
+2007-04,Jedi Mind Tricks,0
+2007-04,Jimi Hendrix,1
+2007-04,Kingston Wall,4
+2007-04,Korn,0
+2007-04,Kottonmouth Kings,0
+2007-04,Metallica,0
+2007-04,Pink Floyd,24
+2007-04,Rush,1
+2007-04,The Beatles,3
+2007-04,Twiztid,21
+2007-05,Apathy,0
+2007-05,Cage,0
+2007-05,Camel,30
+2007-05,Cream,25
+2007-05,Cunninlynguists,0
+2007-05,Deftones,0
+2007-05,Dire Straits,0
+2007-05,Disturbed,2
+2007-05,In Flames,2
+2007-05,Insane Clown Posse,0
+2007-05,Jedi Mind Tricks,0
+2007-05,Jimi Hendrix,0
+2007-05,Kingston Wall,0
+2007-05,Korn,0
+2007-05,Kottonmouth Kings,0
+2007-05,Metallica,1
+2007-05,Pink Floyd,8
+2007-05,Rush,32
+2007-05,The Beatles,0
+2007-05,Twiztid,0
+2007-06,Apathy,0
+2007-06,Cage,0
+2007-06,Camel,1
+2007-06,Cream,7
+2007-06,Cunninlynguists,0
+2007-06,Deftones,0
+2007-06,Dire Straits,0
+2007-06,Disturbed,0
+2007-06,In Flames,0
+2007-06,Insane Clown Posse,15
+2007-06,Jedi Mind Tricks,0
+2007-06,Jimi Hendrix,0
+2007-06,Kingston Wall,1
+2007-06,Korn,0
+2007-06,Kottonmouth Kings,0
+2007-06,Metallica,0
+2007-06,Pink Floyd,9
+2007-06,Rush,0
+2007-06,The Beatles,0
+2007-06,Twiztid,0
+2007-07,Apathy,15
+2007-07,Cage,0
+2007-07,Camel,0
+2007-07,Cream,0
+2007-07,Cunninlynguists,1
+2007-07,Deftones,0
+2007-07,Dire Straits,0
+2007-07,Disturbed,0
+2007-07,In Flames,0
+2007-07,Insane Clown Posse,0
+2007-07,Jedi Mind Tricks,0
+2007-07,Jimi Hendrix,0
+2007-07,Kingston Wall,0
+2007-07,Korn,0
+2007-07,Kottonmouth Kings,0
+2007-07,Metallica,0
+2007-07,Pink Floyd,0
+2007-07,Rush,0
+2007-07,The Beatles,0
+2007-07,Twiztid,0
+2007-08,Apathy,0
+2007-08,Cage,0
+2007-08,Camel,0
+2007-08,Cream,0
+2007-08,Cunninlynguists,0
+2007-08,Deftones,0
+2007-08,Dire Straits,0
+2007-08,Disturbed,0
+2007-08,In Flames,0
+2007-08,Insane Clown Posse,0
+2007-08,Jedi Mind Tricks,0
+2007-08,Jimi Hendrix,0
+2007-08,Kingston Wall,0
+2007-08,Korn,0
+2007-08,Kottonmouth Kings,0
+2007-08,Metallica,2
+2007-08,Pink Floyd,0
+2007-08,Rush,0
+2007-08,The Beatles,1
+2007-08,Twiztid,0
+2007-09,Apathy,0
+2007-09,Cage,0
+2007-09,Camel,0
+2007-09,Cream,0
+2007-09,Cunninlynguists,0
+2007-09,Deftones,0
+2007-09,Dire Straits,0
+2007-09,Disturbed,1
+2007-09,In Flames,2
+2007-09,Insane Clown Posse,0
+2007-09,Jedi Mind Tricks,0
+2007-09,Jimi Hendrix,0
+2007-09,Kingston Wall,0
+2007-09,Korn,0
+2007-09,Kottonmouth Kings,0
+2007-09,Metallica,0
+2007-09,Pink Floyd,0
+2007-09,Rush,1
+2007-09,The Beatles,0
+2007-09,Twiztid,0
+2007-10,Apathy,0
+2007-10,Cage,1
+2007-10,Camel,0
+2007-10,Cream,6
+2007-10,Cunninlynguists,1
+2007-10,Deftones,1
+2007-10,Dire Straits,0
+2007-10,Disturbed,0
+2007-10,In Flames,0
+2007-10,Insane Clown Posse,0
+2007-10,Jedi Mind Tricks,0
+2007-10,Jimi Hendrix,0
+2007-10,Kingston Wall,0
+2007-10,Korn,0
+2007-10,Kottonmouth Kings,0
+2007-10,Metallica,0
+2007-10,Pink Floyd,0
+2007-10,Rush,0
+2007-10,The Beatles,0
+2007-10,Twiztid,0
+2007-11,Apathy,0
+2007-11,Cage,0
+2007-11,Camel,0
+2007-11,Cream,1
+2007-11,Cunninlynguists,0
+2007-11,Deftones,0
+2007-11,Dire Straits,0
+2007-11,Disturbed,0
+2007-11,In Flames,0
+2007-11,Insane Clown Posse,0
+2007-11,Jedi Mind Tricks,0
+2007-11,Jimi Hendrix,0
+2007-11,Kingston Wall,0
+2007-11,Korn,0
+2007-11,Kottonmouth Kings,0
+2007-11,Metallica,0
+2007-11,Pink Floyd,0
+2007-11,Rush,0
+2007-11,The Beatles,0
+2007-11,Twiztid,0
+2007-12,Apathy,0
+2007-12,Cage,0
+2007-12,Camel,0
+2007-12,Cream,1
+2007-12,Cunninlynguists,0
+2007-12,Deftones,0
+2007-12,Dire Straits,0
+2007-12,Disturbed,0
+2007-12,In Flames,0
+2007-12,Insane Clown Posse,0
+2007-12,Jedi Mind Tricks,0
+2007-12,Jimi Hendrix,0
+2007-12,Kingston Wall,0
+2007-12,Korn,0
+2007-12,Kottonmouth Kings,0
+2007-12,Metallica,0
+2007-12,Pink Floyd,0
+2007-12,Rush,0
+2007-12,The Beatles,0
+2007-12,Twiztid,0
+2008-01,Apathy,0
+2008-01,Cage,0
+2008-01,Camel,0
+2008-01,Cream,0
+2008-01,Cunninlynguists,0
+2008-01,Deftones,0
+2008-01,Dire Straits,0
+2008-01,Disturbed,0
+2008-01,In Flames,0
+2008-01,Insane Clown Posse,0
+2008-01,Jedi Mind Tricks,0
+2008-01,Jimi Hendrix,0
+2008-01,Kingston Wall,0
+2008-01,Korn,0
+2008-01,Kottonmouth Kings,0
+2008-01,Metallica,0
+2008-01,Pink Floyd,0
+2008-01,Rush,0
+2008-01,The Beatles,0
+2008-01,Twiztid,0
+2008-02,Apathy,0
+2008-02,Cage,0
+2008-02,Camel,0
+2008-02,Cream,0
+2008-02,Cunninlynguists,0
+2008-02,Deftones,0
+2008-02,Dire Straits,0
+2008-02,Disturbed,0
+2008-02,In Flames,0
+2008-02,Insane Clown Posse,0
+2008-02,Jedi Mind Tricks,0
+2008-02,Jimi Hendrix,0
+2008-02,Kingston Wall,0
+2008-02,Korn,0
+2008-02,Kottonmouth Kings,0
+2008-02,Metallica,0
+2008-02,Pink Floyd,0
+2008-02,Rush,0
+2008-02,The Beatles,0
+2008-02,Twiztid,0
+2008-03,Apathy,0
+2008-03,Cage,0
+2008-03,Camel,0
+2008-03,Cream,0
+2008-03,Cunninlynguists,0
+2008-03,Deftones,0
+2008-03,Dire Straits,0
+2008-03,Disturbed,0
+2008-03,In Flames,0
+2008-03,Insane Clown Posse,0
+2008-03,Jedi Mind Tricks,0
+2008-03,Jimi Hendrix,0
+2008-03,Kingston Wall,0
+2008-03,Korn,0
+2008-03,Kottonmouth Kings,0
+2008-03,Metallica,0
+2008-03,Pink Floyd,0
+2008-03,Rush,0
+2008-03,The Beatles,0
+2008-03,Twiztid,0
+2008-04,Apathy,0
+2008-04,Cage,0
+2008-04,Camel,0
+2008-04,Cream,0
+2008-04,Cunninlynguists,0
+2008-04,Deftones,0
+2008-04,Dire Straits,0
+2008-04,Disturbed,0
+2008-04,In Flames,0
+2008-04,Insane Clown Posse,0
+2008-04,Jedi Mind Tricks,0
+2008-04,Jimi Hendrix,0
+2008-04,Kingston Wall,0
+2008-04,Korn,0
+2008-04,Kottonmouth Kings,0
+2008-04,Metallica,0
+2008-04,Pink Floyd,0
+2008-04,Rush,0
+2008-04,The Beatles,0
+2008-04,Twiztid,0
+2008-05,Apathy,0
+2008-05,Cage,0
+2008-05,Camel,0
+2008-05,Cream,0
+2008-05,Cunninlynguists,0
+2008-05,Deftones,0
+2008-05,Dire Straits,0
+2008-05,Disturbed,0
+2008-05,In Flames,0
+2008-05,Insane Clown Posse,0
+2008-05,Jedi Mind Tricks,0
+2008-05,Jimi Hendrix,0
+2008-05,Kingston Wall,0
+2008-05,Korn,0
+2008-05,Kottonmouth Kings,0
+2008-05,Metallica,0
+2008-05,Pink Floyd,0
+2008-05,Rush,0
+2008-05,The Beatles,0
+2008-05,Twiztid,0
+2008-06,Apathy,0
+2008-06,Cage,0
+2008-06,Camel,0
+2008-06,Cream,0
+2008-06,Cunninlynguists,0
+2008-06,Deftones,0
+2008-06,Dire Straits,0
+2008-06,Disturbed,0
+2008-06,In Flames,0
+2008-06,Insane Clown Posse,0
+2008-06,Jedi Mind Tricks,0
+2008-06,Jimi Hendrix,0
+2008-06,Kingston Wall,0
+2008-06,Korn,0
+2008-06,Kottonmouth Kings,0
+2008-06,Metallica,0
+2008-06,Pink Floyd,0
+2008-06,Rush,0
+2008-06,The Beatles,0
+2008-06,Twiztid,0
+2008-07,Apathy,0
+2008-07,Cage,0
+2008-07,Camel,0
+2008-07,Cream,2
+2008-07,Cunninlynguists,0
+2008-07,Deftones,0
+2008-07,Dire Straits,1
+2008-07,Disturbed,0
+2008-07,In Flames,0
+2008-07,Insane Clown Posse,1
+2008-07,Jedi Mind Tricks,0
+2008-07,Jimi Hendrix,0
+2008-07,Kingston Wall,0
+2008-07,Korn,0
+2008-07,Kottonmouth Kings,3
+2008-07,Metallica,0
+2008-07,Pink Floyd,0
+2008-07,Rush,0
+2008-07,The Beatles,2
+2008-07,Twiztid,4
+2008-08,Apathy,0
+2008-08,Cage,1
+2008-08,Camel,0
+2008-08,Cream,12
+2008-08,Cunninlynguists,0
+2008-08,Deftones,0
+2008-08,Dire Straits,17
+2008-08,Disturbed,0
+2008-08,In Flames,0
+2008-08,Insane Clown Posse,3
+2008-08,Jedi Mind Tricks,0
+2008-08,Jimi Hendrix,0
+2008-08,Kingston Wall,0
+2008-08,Korn,0
+2008-08,Kottonmouth Kings,0
+2008-08,Metallica,0
+2008-08,Pink Floyd,0
+2008-08,Rush,0
+2008-08,The Beatles,25
+2008-08,Twiztid,18
+2008-09,Apathy,0
+2008-09,Cage,0
+2008-09,Camel,0
+2008-09,Cream,0
+2008-09,Cunninlynguists,0
+2008-09,Deftones,0
+2008-09,Dire Straits,0
+2008-09,Disturbed,0
+2008-09,In Flames,0
+2008-09,Insane Clown Posse,0
+2008-09,Jedi Mind Tricks,0
+2008-09,Jimi Hendrix,0
+2008-09,Kingston Wall,0
+2008-09,Korn,0
+2008-09,Kottonmouth Kings,0
+2008-09,Metallica,0
+2008-09,Pink Floyd,0
+2008-09,Rush,0
+2008-09,The Beatles,0
+2008-09,Twiztid,0
+2008-10,Apathy,0
+2008-10,Cage,0
+2008-10,Camel,0
+2008-10,Cream,0
+2008-10,Cunninlynguists,0
+2008-10,Deftones,0
+2008-10,Dire Straits,0
+2008-10,Disturbed,0
+2008-10,In Flames,0
+2008-10,Insane Clown Posse,0
+2008-10,Jedi Mind Tricks,0
+2008-10,Jimi Hendrix,0
+2008-10,Kingston Wall,0
+2008-10,Korn,0
+2008-10,Kottonmouth Kings,0
+2008-10,Metallica,0
+2008-10,Pink Floyd,0
+2008-10,Rush,0
+2008-10,The Beatles,0
+2008-10,Twiztid,0
+2008-11,Apathy,0
+2008-11,Cage,0
+2008-11,Camel,2
+2008-11,Cream,0
+2008-11,Cunninlynguists,0
+2008-11,Deftones,0
+2008-11,Dire Straits,0
+2008-11,Disturbed,0
+2008-11,In Flames,0
+2008-11,Insane Clown Posse,0
+2008-11,Jedi Mind Tricks,0
+2008-11,Jimi Hendrix,1
+2008-11,Kingston Wall,0
+2008-11,Korn,0
+2008-11,Kottonmouth Kings,0
+2008-11,Metallica,0
+2008-11,Pink Floyd,45
+2008-11,Rush,1
+2008-11,The Beatles,18
+2008-11,Twiztid,0
+2008-12,Apathy,0
+2008-12,Cage,0
+2008-12,Camel,0
+2008-12,Cream,0
+2008-12,Cunninlynguists,0
+2008-12,Deftones,0
+2008-12,Dire Straits,0
+2008-12,Disturbed,0
+2008-12,In Flames,0
+2008-12,Insane Clown Posse,0
+2008-12,Jedi Mind Tricks,0
+2008-12,Jimi Hendrix,0
+2008-12,Kingston Wall,7
+2008-12,Korn,0
+2008-12,Kottonmouth Kings,0
+2008-12,Metallica,0
+2008-12,Pink Floyd,0
+2008-12,Rush,0
+2008-12,The Beatles,0
+2008-12,Twiztid,0
+2009-01,Apathy,0
+2009-01,Cage,0
+2009-01,Camel,0
+2009-01,Cream,0
+2009-01,Cunninlynguists,0
+2009-01,Deftones,0
+2009-01,Dire Straits,0
+2009-01,Disturbed,0
+2009-01,In Flames,0
+2009-01,Insane Clown Posse,0
+2009-01,Jedi Mind Tricks,0
+2009-01,Jimi Hendrix,0
+2009-01,Kingston Wall,0
+2009-01,Korn,0
+2009-01,Kottonmouth Kings,0
+2009-01,Metallica,0
+2009-01,Pink Floyd,0
+2009-01,Rush,0
+2009-01,The Beatles,14
+2009-01,Twiztid,0
+2009-02,Apathy,0
+2009-02,Cage,0
+2009-02,Camel,0
+2009-02,Cream,0
+2009-02,Cunninlynguists,0
+2009-02,Deftones,0
+2009-02,Dire Straits,0
+2009-02,Disturbed,0
+2009-02,In Flames,0
+2009-02,Insane Clown Posse,0
+2009-02,Jedi Mind Tricks,11
+2009-02,Jimi Hendrix,5
+2009-02,Kingston Wall,0
+2009-02,Korn,0
+2009-02,Kottonmouth Kings,0
+2009-02,Metallica,0
+2009-02,Pink Floyd,0
+2009-02,Rush,0
+2009-02,The Beatles,28
+2009-02,Twiztid,0
+2009-03,Apathy,0
+2009-03,Cage,0
+2009-03,Camel,0
+2009-03,Cream,0
+2009-03,Cunninlynguists,0
+2009-03,Deftones,0
+2009-03,Dire Straits,0
+2009-03,Disturbed,0
+2009-03,In Flames,0
+2009-03,Insane Clown Posse,0
+2009-03,Jedi Mind Tricks,0
+2009-03,Jimi Hendrix,0
+2009-03,Kingston Wall,0
+2009-03,Korn,0
+2009-03,Kottonmouth Kings,0
+2009-03,Metallica,0
+2009-03,Pink Floyd,0
+2009-03,Rush,0
+2009-03,The Beatles,11
+2009-03,Twiztid,2
+2009-04,Apathy,0
+2009-04,Cage,0
+2009-04,Camel,0
+2009-04,Cream,0
+2009-04,Cunninlynguists,0
+2009-04,Deftones,0
+2009-04,Dire Straits,0
+2009-04,Disturbed,0
+2009-04,In Flames,0
+2009-04,Insane Clown Posse,0
+2009-04,Jedi Mind Tricks,0
+2009-04,Jimi Hendrix,0
+2009-04,Kingston Wall,0
+2009-04,Korn,0
+2009-04,Kottonmouth Kings,0
+2009-04,Metallica,0
+2009-04,Pink Floyd,0
+2009-04,Rush,0
+2009-04,The Beatles,12
+2009-04,Twiztid,0
+2009-05,Apathy,0
+2009-05,Cage,0
+2009-05,Camel,36
+2009-05,Cream,0
+2009-05,Cunninlynguists,0
+2009-05,Deftones,0
+2009-05,Dire Straits,0
+2009-05,Disturbed,0
+2009-05,In Flames,0
+2009-05,Insane Clown Posse,0
+2009-05,Jedi Mind Tricks,0
+2009-05,Jimi Hendrix,0
+2009-05,Kingston Wall,0
+2009-05,Korn,0
+2009-05,Kottonmouth Kings,0
+2009-05,Metallica,0
+2009-05,Pink Floyd,0
+2009-05,Rush,0
+2009-05,The Beatles,1
+2009-05,Twiztid,0

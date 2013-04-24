@@ -1,0 +1,401 @@
+month,artist,plays
+2005-10,Aphex Twin,129
+2005-10,Billie Holiday,0
+2005-10,Bright Eyes,137
+2005-10,Butthole Surfers,8
+2005-10,Dinosaur Jr.,2
+2005-10,Echo & The Bunnymen,16
+2005-10,Elliott Smith,23
+2005-10,Fugazi,74
+2005-10,Kanye West,6
+2005-10,My Bloody Valentine,49
+2005-10,Nick Cave & The Bad Seeds,11
+2005-10,Nirvana,47
+2005-10,Pavement,27
+2005-10,Prince,2
+2005-10,Sebadoh,12
+2005-10,Sonic Youth,165
+2005-10,The Breeders,30
+2005-10,The Cure,27
+2005-10,The Fall,2
+2005-10,Thee More Shallows,15
+2005-11,Aphex Twin,21
+2005-11,Billie Holiday,2
+2005-11,Bright Eyes,10
+2005-11,Butthole Surfers,4
+2005-11,Dinosaur Jr.,12
+2005-11,Echo & The Bunnymen,3
+2005-11,Elliott Smith,89
+2005-11,Fugazi,5
+2005-11,Kanye West,4
+2005-11,My Bloody Valentine,9
+2005-11,Nick Cave & The Bad Seeds,12
+2005-11,Nirvana,33
+2005-11,Pavement,6
+2005-11,Prince,22
+2005-11,Sebadoh,15
+2005-11,Sonic Youth,12
+2005-11,The Breeders,19
+2005-11,The Cure,6
+2005-11,The Fall,21
+2005-11,Thee More Shallows,27
+2005-12,Aphex Twin,7
+2005-12,Billie Holiday,59
+2005-12,Bright Eyes,46
+2005-12,Butthole Surfers,10
+2005-12,Dinosaur Jr.,2
+2005-12,Echo & The Bunnymen,2
+2005-12,Elliott Smith,7
+2005-12,Fugazi,32
+2005-12,Kanye West,2
+2005-12,My Bloody Valentine,1
+2005-12,Nick Cave & The Bad Seeds,8
+2005-12,Nirvana,15
+2005-12,Pavement,146
+2005-12,Prince,10
+2005-12,Sebadoh,19
+2005-12,Sonic Youth,165
+2005-12,The Breeders,5
+2005-12,The Cure,20
+2005-12,The Fall,1
+2005-12,Thee More Shallows,12
+2006-01,Aphex Twin,7
+2006-01,Billie Holiday,5
+2006-01,Bright Eyes,6
+2006-01,Butthole Surfers,2
+2006-01,Dinosaur Jr.,2
+2006-01,Echo & The Bunnymen,5
+2006-01,Elliott Smith,1
+2006-01,Fugazi,5
+2006-01,Kanye West,1
+2006-01,My Bloody Valentine,1
+2006-01,Nick Cave & The Bad Seeds,11
+2006-01,Nirvana,20
+2006-01,Pavement,6
+2006-01,Prince,6
+2006-01,Sebadoh,8
+2006-01,Sonic Youth,87
+2006-01,The Breeders,168
+2006-01,The Cure,18
+2006-01,The Fall,1
+2006-01,Thee More Shallows,3
+2006-02,Aphex Twin,7
+2006-02,Billie Holiday,5
+2006-02,Bright Eyes,15
+2006-02,Butthole Surfers,3
+2006-02,Dinosaur Jr.,20
+2006-02,Echo & The Bunnymen,7
+2006-02,Elliott Smith,9
+2006-02,Fugazi,9
+2006-02,Kanye West,4
+2006-02,My Bloody Valentine,1
+2006-02,Nick Cave & The Bad Seeds,9
+2006-02,Nirvana,26
+2006-02,Pavement,12
+2006-02,Prince,57
+2006-02,Sebadoh,8
+2006-02,Sonic Youth,11
+2006-02,The Breeders,8
+2006-02,The Cure,20
+2006-02,The Fall,1
+2006-02,Thee More Shallows,0
+2006-03,Aphex Twin,5
+2006-03,Billie Holiday,3
+2006-03,Bright Eyes,5
+2006-03,Butthole Surfers,1
+2006-03,Dinosaur Jr.,2
+2006-03,Echo & The Bunnymen,2
+2006-03,Elliott Smith,4
+2006-03,Fugazi,1
+2006-03,Kanye West,24
+2006-03,My Bloody Valentine,1
+2006-03,Nick Cave & The Bad Seeds,32
+2006-03,Nirvana,16
+2006-03,Pavement,3
+2006-03,Prince,31
+2006-03,Sebadoh,5
+2006-03,Sonic Youth,27
+2006-03,The Breeders,0
+2006-03,The Cure,26
+2006-03,The Fall,31
+2006-03,Thee More Shallows,10
+2006-04,Aphex Twin,7
+2006-04,Billie Holiday,3
+2006-04,Bright Eyes,2
+2006-04,Butthole Surfers,1
+2006-04,Dinosaur Jr.,2
+2006-04,Echo & The Bunnymen,2
+2006-04,Elliott Smith,2
+2006-04,Fugazi,13
+2006-04,Kanye West,23
+2006-04,My Bloody Valentine,0
+2006-04,Nick Cave & The Bad Seeds,15
+2006-04,Nirvana,7
+2006-04,Pavement,4
+2006-04,Prince,3
+2006-04,Sebadoh,76
+2006-04,Sonic Youth,59
+2006-04,The Breeders,11
+2006-04,The Cure,6
+2006-04,The Fall,1
+2006-04,Thee More Shallows,37
+2006-05,Aphex Twin,2
+2006-05,Billie Holiday,1
+2006-05,Bright Eyes,2
+2006-05,Butthole Surfers,9
+2006-05,Dinosaur Jr.,1
+2006-05,Echo & The Bunnymen,0
+2006-05,Elliott Smith,4
+2006-05,Fugazi,4
+2006-05,Kanye West,20
+2006-05,My Bloody Valentine,2
+2006-05,Nick Cave & The Bad Seeds,3
+2006-05,Nirvana,7
+2006-05,Pavement,29
+2006-05,Prince,1
+2006-05,Sebadoh,3
+2006-05,Sonic Youth,7
+2006-05,The Breeders,2
+2006-05,The Cure,4
+2006-05,The Fall,2
+2006-05,Thee More Shallows,19
+2006-06,Aphex Twin,2
+2006-06,Billie Holiday,4
+2006-06,Bright Eyes,3
+2006-06,Butthole Surfers,2
+2006-06,Dinosaur Jr.,46
+2006-06,Echo & The Bunnymen,1
+2006-06,Elliott Smith,3
+2006-06,Fugazi,18
+2006-06,Kanye West,1
+2006-06,My Bloody Valentine,2
+2006-06,Nick Cave & The Bad Seeds,4
+2006-06,Nirvana,11
+2006-06,Pavement,3
+2006-06,Prince,4
+2006-06,Sebadoh,5
+2006-06,Sonic Youth,26
+2006-06,The Breeders,3
+2006-06,The Cure,35
+2006-06,The Fall,1
+2006-06,Thee More Shallows,3
+2006-07,Aphex Twin,2
+2006-07,Billie Holiday,2
+2006-07,Bright Eyes,1
+2006-07,Butthole Surfers,1
+2006-07,Dinosaur Jr.,1
+2006-07,Echo & The Bunnymen,1
+2006-07,Elliott Smith,3
+2006-07,Fugazi,1
+2006-07,Kanye West,1
+2006-07,My Bloody Valentine,69
+2006-07,Nick Cave & The Bad Seeds,3
+2006-07,Nirvana,3
+2006-07,Pavement,11
+2006-07,Prince,28
+2006-07,Sebadoh,126
+2006-07,Sonic Youth,34
+2006-07,The Breeders,10
+2006-07,The Cure,2
+2006-07,The Fall,3
+2006-07,Thee More Shallows,3
+2006-08,Aphex Twin,2
+2006-08,Billie Holiday,3
+2006-08,Bright Eyes,2
+2006-08,Butthole Surfers,1
+2006-08,Dinosaur Jr.,1
+2006-08,Echo & The Bunnymen,2
+2006-08,Elliott Smith,6
+2006-08,Fugazi,1
+2006-08,Kanye West,0
+2006-08,My Bloody Valentine,10
+2006-08,Nick Cave & The Bad Seeds,2
+2006-08,Nirvana,2
+2006-08,Pavement,6
+2006-08,Prince,12
+2006-08,Sebadoh,3
+2006-08,Sonic Youth,155
+2006-08,The Breeders,38
+2006-08,The Cure,2
+2006-08,The Fall,0
+2006-08,Thee More Shallows,5
+2006-09,Aphex Twin,0
+2006-09,Billie Holiday,6
+2006-09,Bright Eyes,1
+2006-09,Butthole Surfers,13
+2006-09,Dinosaur Jr.,3
+2006-09,Echo & The Bunnymen,0
+2006-09,Elliott Smith,12
+2006-09,Fugazi,1
+2006-09,Kanye West,1
+2006-09,My Bloody Valentine,6
+2006-09,Nick Cave & The Bad Seeds,2
+2006-09,Nirvana,1
+2006-09,Pavement,24
+2006-09,Prince,11
+2006-09,Sebadoh,9
+2006-09,Sonic Youth,71
+2006-09,The Breeders,1
+2006-09,The Cure,7
+2006-09,The Fall,0
+2006-09,Thee More Shallows,5
+2006-10,Aphex Twin,3
+2006-10,Billie Holiday,1
+2006-10,Bright Eyes,0
+2006-10,Butthole Surfers,1
+2006-10,Dinosaur Jr.,0
+2006-10,Echo & The Bunnymen,1
+2006-10,Elliott Smith,0
+2006-10,Fugazi,0
+2006-10,Kanye West,1
+2006-10,My Bloody Valentine,0
+2006-10,Nick Cave & The Bad Seeds,0
+2006-10,Nirvana,2
+2006-10,Pavement,4
+2006-10,Prince,1
+2006-10,Sebadoh,0
+2006-10,Sonic Youth,2
+2006-10,The Breeders,1
+2006-10,The Cure,1
+2006-10,The Fall,6
+2006-10,Thee More Shallows,0
+2006-11,Aphex Twin,0
+2006-11,Billie Holiday,1
+2006-11,Bright Eyes,0
+2006-11,Butthole Surfers,0
+2006-11,Dinosaur Jr.,0
+2006-11,Echo & The Bunnymen,0
+2006-11,Elliott Smith,0
+2006-11,Fugazi,0
+2006-11,Kanye West,0
+2006-11,My Bloody Valentine,0
+2006-11,Nick Cave & The Bad Seeds,0
+2006-11,Nirvana,3
+2006-11,Pavement,0
+2006-11,Prince,0
+2006-11,Sebadoh,0
+2006-11,Sonic Youth,4
+2006-11,The Breeders,0
+2006-11,The Cure,0
+2006-11,The Fall,0
+2006-11,Thee More Shallows,0
+2006-12,Aphex Twin,0
+2006-12,Billie Holiday,0
+2006-12,Bright Eyes,0
+2006-12,Butthole Surfers,0
+2006-12,Dinosaur Jr.,0
+2006-12,Echo & The Bunnymen,0
+2006-12,Elliott Smith,0
+2006-12,Fugazi,0
+2006-12,Kanye West,0
+2006-12,My Bloody Valentine,1
+2006-12,Nick Cave & The Bad Seeds,1
+2006-12,Nirvana,0
+2006-12,Pavement,11
+2006-12,Prince,0
+2006-12,Sebadoh,1
+2006-12,Sonic Youth,0
+2006-12,The Breeders,0
+2006-12,The Cure,0
+2006-12,The Fall,1
+2006-12,Thee More Shallows,0
+2007-01,Aphex Twin,0
+2007-01,Billie Holiday,0
+2007-01,Bright Eyes,0
+2007-01,Butthole Surfers,0
+2007-01,Dinosaur Jr.,0
+2007-01,Echo & The Bunnymen,0
+2007-01,Elliott Smith,0
+2007-01,Fugazi,0
+2007-01,Kanye West,0
+2007-01,My Bloody Valentine,3
+2007-01,Nick Cave & The Bad Seeds,0
+2007-01,Nirvana,0
+2007-01,Pavement,0
+2007-01,Prince,0
+2007-01,Sebadoh,0
+2007-01,Sonic Youth,20
+2007-01,The Breeders,0
+2007-01,The Cure,0
+2007-01,The Fall,0
+2007-01,Thee More Shallows,0
+2007-02,Aphex Twin,0
+2007-02,Billie Holiday,0
+2007-02,Bright Eyes,0
+2007-02,Butthole Surfers,0
+2007-02,Dinosaur Jr.,1
+2007-02,Echo & The Bunnymen,0
+2007-02,Elliott Smith,0
+2007-02,Fugazi,0
+2007-02,Kanye West,0
+2007-02,My Bloody Valentine,0
+2007-02,Nick Cave & The Bad Seeds,0
+2007-02,Nirvana,0
+2007-02,Pavement,0
+2007-02,Prince,0
+2007-02,Sebadoh,0
+2007-02,Sonic Youth,0
+2007-02,The Breeders,0
+2007-02,The Cure,0
+2007-02,The Fall,0
+2007-02,Thee More Shallows,0
+2007-03,Aphex Twin,0
+2007-03,Billie Holiday,0
+2007-03,Bright Eyes,0
+2007-03,Butthole Surfers,0
+2007-03,Dinosaur Jr.,0
+2007-03,Echo & The Bunnymen,0
+2007-03,Elliott Smith,0
+2007-03,Fugazi,0
+2007-03,Kanye West,0
+2007-03,My Bloody Valentine,0
+2007-03,Nick Cave & The Bad Seeds,1
+2007-03,Nirvana,0
+2007-03,Pavement,0
+2007-03,Prince,0
+2007-03,Sebadoh,0
+2007-03,Sonic Youth,0
+2007-03,The Breeders,0
+2007-03,The Cure,0
+2007-03,The Fall,0
+2007-03,Thee More Shallows,0
+2007-04,Aphex Twin,1
+2007-04,Billie Holiday,0
+2007-04,Bright Eyes,1
+2007-04,Butthole Surfers,0
+2007-04,Dinosaur Jr.,0
+2007-04,Echo & The Bunnymen,2
+2007-04,Elliott Smith,2
+2007-04,Fugazi,0
+2007-04,Kanye West,0
+2007-04,My Bloody Valentine,0
+2007-04,Nick Cave & The Bad Seeds,0
+2007-04,Nirvana,0
+2007-04,Pavement,0
+2007-04,Prince,0
+2007-04,Sebadoh,0
+2007-04,Sonic Youth,0
+2007-04,The Breeders,8
+2007-04,The Cure,5
+2007-04,The Fall,2
+2007-04,Thee More Shallows,13
+2007-05,Aphex Twin,0
+2007-05,Billie Holiday,0
+2007-05,Bright Eyes,0
+2007-05,Butthole Surfers,0
+2007-05,Dinosaur Jr.,9
+2007-05,Echo & The Bunnymen,0
+2007-05,Elliott Smith,0
+2007-05,Fugazi,0
+2007-05,Kanye West,0
+2007-05,My Bloody Valentine,0
+2007-05,Nick Cave & The Bad Seeds,0
+2007-05,Nirvana,0
+2007-05,Pavement,0
+2007-05,Prince,0
+2007-05,Sebadoh,0
+2007-05,Sonic Youth,0
+2007-05,The Breeders,0
+2007-05,The Cure,0
+2007-05,The Fall,0
+2007-05,Thee More Shallows,7

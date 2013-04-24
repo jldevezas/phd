@@ -1,0 +1,861 @@
+month,artist,plays
+2005-08,Arcade Fire,6
+2005-08,Architecture In Helsinki,0
+2005-08,Blue Rodeo,0
+2005-08,Bob Dylan,4
+2005-08,Bright Eyes,3
+2005-08,Broken Social Scene,6
+2005-08,Coldplay,6
+2005-08,Feist,1
+2005-08,Jimmy Eat World,0
+2005-08,Led Zeppelin,6
+2005-08,Matthew Good,0
+2005-08,Metric,5
+2005-08,Radiohead,12
+2005-08,Sarah Harmer,5
+2005-08,Sloan,2
+2005-08,Stars,6
+2005-08,The Beatles,6
+2005-08,The Decemberists,4
+2005-08,The Shins,9
+2005-08,The Tragically Hip,4
+2005-09,Arcade Fire,0
+2005-09,Architecture In Helsinki,0
+2005-09,Blue Rodeo,0
+2005-09,Bob Dylan,0
+2005-09,Bright Eyes,0
+2005-09,Broken Social Scene,1
+2005-09,Coldplay,2
+2005-09,Feist,0
+2005-09,Jimmy Eat World,1
+2005-09,Led Zeppelin,0
+2005-09,Matthew Good,0
+2005-09,Metric,0
+2005-09,Radiohead,3
+2005-09,Sarah Harmer,0
+2005-09,Sloan,0
+2005-09,Stars,0
+2005-09,The Beatles,2
+2005-09,The Decemberists,0
+2005-09,The Shins,1
+2005-09,The Tragically Hip,0
+2005-10,Arcade Fire,1
+2005-10,Architecture In Helsinki,0
+2005-10,Blue Rodeo,0
+2005-10,Bob Dylan,0
+2005-10,Bright Eyes,2
+2005-10,Broken Social Scene,2
+2005-10,Coldplay,0
+2005-10,Feist,0
+2005-10,Jimmy Eat World,0
+2005-10,Led Zeppelin,0
+2005-10,Matthew Good,0
+2005-10,Metric,0
+2005-10,Radiohead,0
+2005-10,Sarah Harmer,0
+2005-10,Sloan,0
+2005-10,Stars,0
+2005-10,The Beatles,0
+2005-10,The Decemberists,0
+2005-10,The Shins,0
+2005-10,The Tragically Hip,0
+2005-11,Arcade Fire,0
+2005-11,Architecture In Helsinki,0
+2005-11,Blue Rodeo,0
+2005-11,Bob Dylan,0
+2005-11,Bright Eyes,0
+2005-11,Broken Social Scene,0
+2005-11,Coldplay,0
+2005-11,Feist,0
+2005-11,Jimmy Eat World,0
+2005-11,Led Zeppelin,0
+2005-11,Matthew Good,0
+2005-11,Metric,0
+2005-11,Radiohead,0
+2005-11,Sarah Harmer,0
+2005-11,Sloan,0
+2005-11,Stars,0
+2005-11,The Beatles,0
+2005-11,The Decemberists,0
+2005-11,The Shins,0
+2005-11,The Tragically Hip,0
+2005-12,Arcade Fire,0
+2005-12,Architecture In Helsinki,0
+2005-12,Blue Rodeo,0
+2005-12,Bob Dylan,0
+2005-12,Bright Eyes,0
+2005-12,Broken Social Scene,0
+2005-12,Coldplay,0
+2005-12,Feist,0
+2005-12,Jimmy Eat World,0
+2005-12,Led Zeppelin,0
+2005-12,Matthew Good,0
+2005-12,Metric,0
+2005-12,Radiohead,0
+2005-12,Sarah Harmer,0
+2005-12,Sloan,0
+2005-12,Stars,0
+2005-12,The Beatles,0
+2005-12,The Decemberists,0
+2005-12,The Shins,0
+2005-12,The Tragically Hip,0
+2006-01,Arcade Fire,0
+2006-01,Architecture In Helsinki,0
+2006-01,Blue Rodeo,0
+2006-01,Bob Dylan,0
+2006-01,Bright Eyes,0
+2006-01,Broken Social Scene,0
+2006-01,Coldplay,0
+2006-01,Feist,0
+2006-01,Jimmy Eat World,0
+2006-01,Led Zeppelin,0
+2006-01,Matthew Good,0
+2006-01,Metric,0
+2006-01,Radiohead,0
+2006-01,Sarah Harmer,0
+2006-01,Sloan,0
+2006-01,Stars,0
+2006-01,The Beatles,0
+2006-01,The Decemberists,0
+2006-01,The Shins,0
+2006-01,The Tragically Hip,0
+2006-02,Arcade Fire,0
+2006-02,Architecture In Helsinki,0
+2006-02,Blue Rodeo,0
+2006-02,Bob Dylan,0
+2006-02,Bright Eyes,0
+2006-02,Broken Social Scene,0
+2006-02,Coldplay,0
+2006-02,Feist,0
+2006-02,Jimmy Eat World,0
+2006-02,Led Zeppelin,0
+2006-02,Matthew Good,0
+2006-02,Metric,0
+2006-02,Radiohead,0
+2006-02,Sarah Harmer,0
+2006-02,Sloan,0
+2006-02,Stars,0
+2006-02,The Beatles,0
+2006-02,The Decemberists,0
+2006-02,The Shins,0
+2006-02,The Tragically Hip,0
+2006-03,Arcade Fire,0
+2006-03,Architecture In Helsinki,0
+2006-03,Blue Rodeo,0
+2006-03,Bob Dylan,0
+2006-03,Bright Eyes,0
+2006-03,Broken Social Scene,0
+2006-03,Coldplay,0
+2006-03,Feist,0
+2006-03,Jimmy Eat World,0
+2006-03,Led Zeppelin,0
+2006-03,Matthew Good,0
+2006-03,Metric,0
+2006-03,Radiohead,0
+2006-03,Sarah Harmer,0
+2006-03,Sloan,0
+2006-03,Stars,0
+2006-03,The Beatles,0
+2006-03,The Decemberists,0
+2006-03,The Shins,0
+2006-03,The Tragically Hip,0
+2006-04,Arcade Fire,14
+2006-04,Architecture In Helsinki,6
+2006-04,Blue Rodeo,2
+2006-04,Bob Dylan,5
+2006-04,Bright Eyes,6
+2006-04,Broken Social Scene,8
+2006-04,Coldplay,1
+2006-04,Feist,2
+2006-04,Jimmy Eat World,0
+2006-04,Led Zeppelin,2
+2006-04,Matthew Good,0
+2006-04,Metric,1
+2006-04,Radiohead,3
+2006-04,Sarah Harmer,0
+2006-04,Sloan,5
+2006-04,Stars,8
+2006-04,The Beatles,4
+2006-04,The Decemberists,18
+2006-04,The Shins,13
+2006-04,The Tragically Hip,7
+2006-05,Arcade Fire,19
+2006-05,Architecture In Helsinki,6
+2006-05,Blue Rodeo,9
+2006-05,Bob Dylan,1
+2006-05,Bright Eyes,3
+2006-05,Broken Social Scene,23
+2006-05,Coldplay,12
+2006-05,Feist,5
+2006-05,Jimmy Eat World,4
+2006-05,Led Zeppelin,2
+2006-05,Matthew Good,2
+2006-05,Metric,14
+2006-05,Radiohead,19
+2006-05,Sarah Harmer,9
+2006-05,Sloan,12
+2006-05,Stars,21
+2006-05,The Beatles,11
+2006-05,The Decemberists,18
+2006-05,The Shins,8
+2006-05,The Tragically Hip,12
+2006-06,Arcade Fire,23
+2006-06,Architecture In Helsinki,21
+2006-06,Blue Rodeo,13
+2006-06,Bob Dylan,0
+2006-06,Bright Eyes,0
+2006-06,Broken Social Scene,26
+2006-06,Coldplay,17
+2006-06,Feist,0
+2006-06,Jimmy Eat World,9
+2006-06,Led Zeppelin,9
+2006-06,Matthew Good,5
+2006-06,Metric,26
+2006-06,Radiohead,26
+2006-06,Sarah Harmer,6
+2006-06,Sloan,19
+2006-06,Stars,23
+2006-06,The Beatles,1
+2006-06,The Decemberists,6
+2006-06,The Shins,7
+2006-06,The Tragically Hip,18
+2006-07,Arcade Fire,7
+2006-07,Architecture In Helsinki,6
+2006-07,Blue Rodeo,5
+2006-07,Bob Dylan,3
+2006-07,Bright Eyes,0
+2006-07,Broken Social Scene,6
+2006-07,Coldplay,3
+2006-07,Feist,1
+2006-07,Jimmy Eat World,0
+2006-07,Led Zeppelin,3
+2006-07,Matthew Good,0
+2006-07,Metric,4
+2006-07,Radiohead,5
+2006-07,Sarah Harmer,0
+2006-07,Sloan,5
+2006-07,Stars,8
+2006-07,The Beatles,1
+2006-07,The Decemberists,2
+2006-07,The Shins,0
+2006-07,The Tragically Hip,3
+2006-08,Arcade Fire,0
+2006-08,Architecture In Helsinki,0
+2006-08,Blue Rodeo,0
+2006-08,Bob Dylan,0
+2006-08,Bright Eyes,0
+2006-08,Broken Social Scene,0
+2006-08,Coldplay,0
+2006-08,Feist,0
+2006-08,Jimmy Eat World,0
+2006-08,Led Zeppelin,0
+2006-08,Matthew Good,0
+2006-08,Metric,0
+2006-08,Radiohead,0
+2006-08,Sarah Harmer,0
+2006-08,Sloan,0
+2006-08,Stars,0
+2006-08,The Beatles,0
+2006-08,The Decemberists,0
+2006-08,The Shins,0
+2006-08,The Tragically Hip,0
+2006-09,Arcade Fire,0
+2006-09,Architecture In Helsinki,0
+2006-09,Blue Rodeo,0
+2006-09,Bob Dylan,0
+2006-09,Bright Eyes,0
+2006-09,Broken Social Scene,0
+2006-09,Coldplay,0
+2006-09,Feist,0
+2006-09,Jimmy Eat World,0
+2006-09,Led Zeppelin,0
+2006-09,Matthew Good,0
+2006-09,Metric,0
+2006-09,Radiohead,0
+2006-09,Sarah Harmer,0
+2006-09,Sloan,0
+2006-09,Stars,0
+2006-09,The Beatles,0
+2006-09,The Decemberists,0
+2006-09,The Shins,0
+2006-09,The Tragically Hip,0
+2006-10,Arcade Fire,3
+2006-10,Architecture In Helsinki,11
+2006-10,Blue Rodeo,1
+2006-10,Bob Dylan,4
+2006-10,Bright Eyes,2
+2006-10,Broken Social Scene,6
+2006-10,Coldplay,4
+2006-10,Feist,2
+2006-10,Jimmy Eat World,3
+2006-10,Led Zeppelin,1
+2006-10,Matthew Good,3
+2006-10,Metric,8
+2006-10,Radiohead,9
+2006-10,Sarah Harmer,3
+2006-10,Sloan,6
+2006-10,Stars,6
+2006-10,The Beatles,5
+2006-10,The Decemberists,4
+2006-10,The Shins,4
+2006-10,The Tragically Hip,13
+2006-11,Arcade Fire,0
+2006-11,Architecture In Helsinki,7
+2006-11,Blue Rodeo,2
+2006-11,Bob Dylan,6
+2006-11,Bright Eyes,3
+2006-11,Broken Social Scene,4
+2006-11,Coldplay,7
+2006-11,Feist,10
+2006-11,Jimmy Eat World,4
+2006-11,Led Zeppelin,7
+2006-11,Matthew Good,2
+2006-11,Metric,9
+2006-11,Radiohead,18
+2006-11,Sarah Harmer,6
+2006-11,Sloan,4
+2006-11,Stars,13
+2006-11,The Beatles,11
+2006-11,The Decemberists,2
+2006-11,The Shins,5
+2006-11,The Tragically Hip,46
+2006-12,Arcade Fire,0
+2006-12,Architecture In Helsinki,1
+2006-12,Blue Rodeo,2
+2006-12,Bob Dylan,3
+2006-12,Bright Eyes,0
+2006-12,Broken Social Scene,0
+2006-12,Coldplay,1
+2006-12,Feist,0
+2006-12,Jimmy Eat World,1
+2006-12,Led Zeppelin,0
+2006-12,Matthew Good,1
+2006-12,Metric,1
+2006-12,Radiohead,3
+2006-12,Sarah Harmer,2
+2006-12,Sloan,0
+2006-12,Stars,3
+2006-12,The Beatles,3
+2006-12,The Decemberists,1
+2006-12,The Shins,2
+2006-12,The Tragically Hip,5
+2007-01,Arcade Fire,0
+2007-01,Architecture In Helsinki,0
+2007-01,Blue Rodeo,1
+2007-01,Bob Dylan,1
+2007-01,Bright Eyes,0
+2007-01,Broken Social Scene,0
+2007-01,Coldplay,0
+2007-01,Feist,0
+2007-01,Jimmy Eat World,1
+2007-01,Led Zeppelin,0
+2007-01,Matthew Good,0
+2007-01,Metric,0
+2007-01,Radiohead,0
+2007-01,Sarah Harmer,1
+2007-01,Sloan,1
+2007-01,Stars,0
+2007-01,The Beatles,0
+2007-01,The Decemberists,1
+2007-01,The Shins,0
+2007-01,The Tragically Hip,2
+2007-02,Arcade Fire,0
+2007-02,Architecture In Helsinki,1
+2007-02,Blue Rodeo,0
+2007-02,Bob Dylan,0
+2007-02,Bright Eyes,1
+2007-02,Broken Social Scene,1
+2007-02,Coldplay,0
+2007-02,Feist,0
+2007-02,Jimmy Eat World,0
+2007-02,Led Zeppelin,0
+2007-02,Matthew Good,0
+2007-02,Metric,0
+2007-02,Radiohead,0
+2007-02,Sarah Harmer,0
+2007-02,Sloan,0
+2007-02,Stars,0
+2007-02,The Beatles,0
+2007-02,The Decemberists,3
+2007-02,The Shins,1
+2007-02,The Tragically Hip,14
+2007-03,Arcade Fire,0
+2007-03,Architecture In Helsinki,0
+2007-03,Blue Rodeo,0
+2007-03,Bob Dylan,0
+2007-03,Bright Eyes,0
+2007-03,Broken Social Scene,0
+2007-03,Coldplay,0
+2007-03,Feist,0
+2007-03,Jimmy Eat World,0
+2007-03,Led Zeppelin,0
+2007-03,Matthew Good,0
+2007-03,Metric,0
+2007-03,Radiohead,0
+2007-03,Sarah Harmer,0
+2007-03,Sloan,0
+2007-03,Stars,0
+2007-03,The Beatles,0
+2007-03,The Decemberists,0
+2007-03,The Shins,0
+2007-03,The Tragically Hip,0
+2007-04,Arcade Fire,0
+2007-04,Architecture In Helsinki,0
+2007-04,Blue Rodeo,0
+2007-04,Bob Dylan,0
+2007-04,Bright Eyes,0
+2007-04,Broken Social Scene,0
+2007-04,Coldplay,0
+2007-04,Feist,0
+2007-04,Jimmy Eat World,0
+2007-04,Led Zeppelin,0
+2007-04,Matthew Good,0
+2007-04,Metric,0
+2007-04,Radiohead,0
+2007-04,Sarah Harmer,0
+2007-04,Sloan,0
+2007-04,Stars,0
+2007-04,The Beatles,0
+2007-04,The Decemberists,0
+2007-04,The Shins,0
+2007-04,The Tragically Hip,0
+2007-05,Arcade Fire,0
+2007-05,Architecture In Helsinki,0
+2007-05,Blue Rodeo,0
+2007-05,Bob Dylan,0
+2007-05,Bright Eyes,0
+2007-05,Broken Social Scene,0
+2007-05,Coldplay,0
+2007-05,Feist,0
+2007-05,Jimmy Eat World,0
+2007-05,Led Zeppelin,0
+2007-05,Matthew Good,0
+2007-05,Metric,0
+2007-05,Radiohead,0
+2007-05,Sarah Harmer,0
+2007-05,Sloan,0
+2007-05,Stars,0
+2007-05,The Beatles,0
+2007-05,The Decemberists,0
+2007-05,The Shins,0
+2007-05,The Tragically Hip,0
+2007-06,Arcade Fire,0
+2007-06,Architecture In Helsinki,0
+2007-06,Blue Rodeo,0
+2007-06,Bob Dylan,0
+2007-06,Bright Eyes,0
+2007-06,Broken Social Scene,0
+2007-06,Coldplay,0
+2007-06,Feist,0
+2007-06,Jimmy Eat World,0
+2007-06,Led Zeppelin,0
+2007-06,Matthew Good,0
+2007-06,Metric,0
+2007-06,Radiohead,0
+2007-06,Sarah Harmer,0
+2007-06,Sloan,0
+2007-06,Stars,0
+2007-06,The Beatles,0
+2007-06,The Decemberists,0
+2007-06,The Shins,0
+2007-06,The Tragically Hip,0
+2007-07,Arcade Fire,0
+2007-07,Architecture In Helsinki,0
+2007-07,Blue Rodeo,0
+2007-07,Bob Dylan,0
+2007-07,Bright Eyes,0
+2007-07,Broken Social Scene,0
+2007-07,Coldplay,0
+2007-07,Feist,0
+2007-07,Jimmy Eat World,0
+2007-07,Led Zeppelin,0
+2007-07,Matthew Good,0
+2007-07,Metric,0
+2007-07,Radiohead,0
+2007-07,Sarah Harmer,0
+2007-07,Sloan,0
+2007-07,Stars,0
+2007-07,The Beatles,0
+2007-07,The Decemberists,0
+2007-07,The Shins,0
+2007-07,The Tragically Hip,0
+2007-08,Arcade Fire,0
+2007-08,Architecture In Helsinki,1
+2007-08,Blue Rodeo,1
+2007-08,Bob Dylan,0
+2007-08,Bright Eyes,0
+2007-08,Broken Social Scene,1
+2007-08,Coldplay,0
+2007-08,Feist,0
+2007-08,Jimmy Eat World,0
+2007-08,Led Zeppelin,1
+2007-08,Matthew Good,1
+2007-08,Metric,0
+2007-08,Radiohead,0
+2007-08,Sarah Harmer,0
+2007-08,Sloan,0
+2007-08,Stars,1
+2007-08,The Beatles,0
+2007-08,The Decemberists,0
+2007-08,The Shins,2
+2007-08,The Tragically Hip,0
+2007-09,Arcade Fire,0
+2007-09,Architecture In Helsinki,0
+2007-09,Blue Rodeo,0
+2007-09,Bob Dylan,0
+2007-09,Bright Eyes,0
+2007-09,Broken Social Scene,0
+2007-09,Coldplay,0
+2007-09,Feist,0
+2007-09,Jimmy Eat World,0
+2007-09,Led Zeppelin,0
+2007-09,Matthew Good,0
+2007-09,Metric,0
+2007-09,Radiohead,0
+2007-09,Sarah Harmer,0
+2007-09,Sloan,0
+2007-09,Stars,0
+2007-09,The Beatles,0
+2007-09,The Decemberists,0
+2007-09,The Shins,0
+2007-09,The Tragically Hip,0
+2007-10,Arcade Fire,0
+2007-10,Architecture In Helsinki,0
+2007-10,Blue Rodeo,0
+2007-10,Bob Dylan,0
+2007-10,Bright Eyes,0
+2007-10,Broken Social Scene,0
+2007-10,Coldplay,0
+2007-10,Feist,0
+2007-10,Jimmy Eat World,0
+2007-10,Led Zeppelin,0
+2007-10,Matthew Good,0
+2007-10,Metric,0
+2007-10,Radiohead,0
+2007-10,Sarah Harmer,0
+2007-10,Sloan,0
+2007-10,Stars,0
+2007-10,The Beatles,0
+2007-10,The Decemberists,0
+2007-10,The Shins,0
+2007-10,The Tragically Hip,0
+2007-11,Arcade Fire,0
+2007-11,Architecture In Helsinki,0
+2007-11,Blue Rodeo,0
+2007-11,Bob Dylan,0
+2007-11,Bright Eyes,0
+2007-11,Broken Social Scene,0
+2007-11,Coldplay,0
+2007-11,Feist,0
+2007-11,Jimmy Eat World,0
+2007-11,Led Zeppelin,0
+2007-11,Matthew Good,0
+2007-11,Metric,0
+2007-11,Radiohead,0
+2007-11,Sarah Harmer,0
+2007-11,Sloan,0
+2007-11,Stars,0
+2007-11,The Beatles,0
+2007-11,The Decemberists,0
+2007-11,The Shins,0
+2007-11,The Tragically Hip,0
+2007-12,Arcade Fire,0
+2007-12,Architecture In Helsinki,0
+2007-12,Blue Rodeo,0
+2007-12,Bob Dylan,0
+2007-12,Bright Eyes,0
+2007-12,Broken Social Scene,0
+2007-12,Coldplay,0
+2007-12,Feist,0
+2007-12,Jimmy Eat World,0
+2007-12,Led Zeppelin,0
+2007-12,Matthew Good,0
+2007-12,Metric,0
+2007-12,Radiohead,0
+2007-12,Sarah Harmer,0
+2007-12,Sloan,0
+2007-12,Stars,0
+2007-12,The Beatles,0
+2007-12,The Decemberists,0
+2007-12,The Shins,0
+2007-12,The Tragically Hip,0
+2008-01,Arcade Fire,0
+2008-01,Architecture In Helsinki,0
+2008-01,Blue Rodeo,0
+2008-01,Bob Dylan,0
+2008-01,Bright Eyes,0
+2008-01,Broken Social Scene,0
+2008-01,Coldplay,0
+2008-01,Feist,0
+2008-01,Jimmy Eat World,0
+2008-01,Led Zeppelin,0
+2008-01,Matthew Good,0
+2008-01,Metric,0
+2008-01,Radiohead,0
+2008-01,Sarah Harmer,0
+2008-01,Sloan,0
+2008-01,Stars,0
+2008-01,The Beatles,0
+2008-01,The Decemberists,0
+2008-01,The Shins,0
+2008-01,The Tragically Hip,0
+2008-02,Arcade Fire,0
+2008-02,Architecture In Helsinki,0
+2008-02,Blue Rodeo,0
+2008-02,Bob Dylan,0
+2008-02,Bright Eyes,0
+2008-02,Broken Social Scene,0
+2008-02,Coldplay,0
+2008-02,Feist,0
+2008-02,Jimmy Eat World,0
+2008-02,Led Zeppelin,0
+2008-02,Matthew Good,0
+2008-02,Metric,0
+2008-02,Radiohead,0
+2008-02,Sarah Harmer,0
+2008-02,Sloan,0
+2008-02,Stars,0
+2008-02,The Beatles,0
+2008-02,The Decemberists,0
+2008-02,The Shins,0
+2008-02,The Tragically Hip,0
+2008-03,Arcade Fire,0
+2008-03,Architecture In Helsinki,0
+2008-03,Blue Rodeo,0
+2008-03,Bob Dylan,0
+2008-03,Bright Eyes,0
+2008-03,Broken Social Scene,0
+2008-03,Coldplay,0
+2008-03,Feist,0
+2008-03,Jimmy Eat World,0
+2008-03,Led Zeppelin,0
+2008-03,Matthew Good,0
+2008-03,Metric,0
+2008-03,Radiohead,0
+2008-03,Sarah Harmer,0
+2008-03,Sloan,0
+2008-03,Stars,0
+2008-03,The Beatles,0
+2008-03,The Decemberists,0
+2008-03,The Shins,0
+2008-03,The Tragically Hip,0
+2008-04,Arcade Fire,0
+2008-04,Architecture In Helsinki,0
+2008-04,Blue Rodeo,0
+2008-04,Bob Dylan,0
+2008-04,Bright Eyes,0
+2008-04,Broken Social Scene,0
+2008-04,Coldplay,0
+2008-04,Feist,0
+2008-04,Jimmy Eat World,0
+2008-04,Led Zeppelin,0
+2008-04,Matthew Good,0
+2008-04,Metric,0
+2008-04,Radiohead,0
+2008-04,Sarah Harmer,0
+2008-04,Sloan,0
+2008-04,Stars,0
+2008-04,The Beatles,0
+2008-04,The Decemberists,0
+2008-04,The Shins,0
+2008-04,The Tragically Hip,0
+2008-05,Arcade Fire,0
+2008-05,Architecture In Helsinki,0
+2008-05,Blue Rodeo,0
+2008-05,Bob Dylan,0
+2008-05,Bright Eyes,0
+2008-05,Broken Social Scene,0
+2008-05,Coldplay,0
+2008-05,Feist,0
+2008-05,Jimmy Eat World,0
+2008-05,Led Zeppelin,0
+2008-05,Matthew Good,0
+2008-05,Metric,0
+2008-05,Radiohead,0
+2008-05,Sarah Harmer,0
+2008-05,Sloan,0
+2008-05,Stars,0
+2008-05,The Beatles,0
+2008-05,The Decemberists,0
+2008-05,The Shins,0
+2008-05,The Tragically Hip,0
+2008-06,Arcade Fire,0
+2008-06,Architecture In Helsinki,0
+2008-06,Blue Rodeo,0
+2008-06,Bob Dylan,0
+2008-06,Bright Eyes,0
+2008-06,Broken Social Scene,0
+2008-06,Coldplay,0
+2008-06,Feist,0
+2008-06,Jimmy Eat World,0
+2008-06,Led Zeppelin,0
+2008-06,Matthew Good,0
+2008-06,Metric,0
+2008-06,Radiohead,0
+2008-06,Sarah Harmer,0
+2008-06,Sloan,0
+2008-06,Stars,0
+2008-06,The Beatles,0
+2008-06,The Decemberists,0
+2008-06,The Shins,0
+2008-06,The Tragically Hip,0
+2008-07,Arcade Fire,0
+2008-07,Architecture In Helsinki,0
+2008-07,Blue Rodeo,0
+2008-07,Bob Dylan,0
+2008-07,Bright Eyes,0
+2008-07,Broken Social Scene,0
+2008-07,Coldplay,0
+2008-07,Feist,0
+2008-07,Jimmy Eat World,0
+2008-07,Led Zeppelin,0
+2008-07,Matthew Good,0
+2008-07,Metric,0
+2008-07,Radiohead,0
+2008-07,Sarah Harmer,0
+2008-07,Sloan,0
+2008-07,Stars,0
+2008-07,The Beatles,0
+2008-07,The Decemberists,0
+2008-07,The Shins,0
+2008-07,The Tragically Hip,0
+2008-08,Arcade Fire,0
+2008-08,Architecture In Helsinki,0
+2008-08,Blue Rodeo,0
+2008-08,Bob Dylan,0
+2008-08,Bright Eyes,0
+2008-08,Broken Social Scene,0
+2008-08,Coldplay,0
+2008-08,Feist,0
+2008-08,Jimmy Eat World,0
+2008-08,Led Zeppelin,0
+2008-08,Matthew Good,0
+2008-08,Metric,0
+2008-08,Radiohead,0
+2008-08,Sarah Harmer,0
+2008-08,Sloan,0
+2008-08,Stars,0
+2008-08,The Beatles,0
+2008-08,The Decemberists,0
+2008-08,The Shins,0
+2008-08,The Tragically Hip,0
+2008-09,Arcade Fire,0
+2008-09,Architecture In Helsinki,0
+2008-09,Blue Rodeo,0
+2008-09,Bob Dylan,0
+2008-09,Bright Eyes,0
+2008-09,Broken Social Scene,0
+2008-09,Coldplay,0
+2008-09,Feist,0
+2008-09,Jimmy Eat World,0
+2008-09,Led Zeppelin,0
+2008-09,Matthew Good,0
+2008-09,Metric,0
+2008-09,Radiohead,0
+2008-09,Sarah Harmer,0
+2008-09,Sloan,0
+2008-09,Stars,0
+2008-09,The Beatles,0
+2008-09,The Decemberists,0
+2008-09,The Shins,0
+2008-09,The Tragically Hip,0
+2008-10,Arcade Fire,1
+2008-10,Architecture In Helsinki,4
+2008-10,Blue Rodeo,1
+2008-10,Bob Dylan,3
+2008-10,Bright Eyes,1
+2008-10,Broken Social Scene,6
+2008-10,Coldplay,3
+2008-10,Feist,2
+2008-10,Jimmy Eat World,1
+2008-10,Led Zeppelin,0
+2008-10,Matthew Good,3
+2008-10,Metric,3
+2008-10,Radiohead,2
+2008-10,Sarah Harmer,4
+2008-10,Sloan,2
+2008-10,Stars,6
+2008-10,The Beatles,0
+2008-10,The Decemberists,0
+2008-10,The Shins,2
+2008-10,The Tragically Hip,8
+2008-11,Arcade Fire,1
+2008-11,Architecture In Helsinki,3
+2008-11,Blue Rodeo,2
+2008-11,Bob Dylan,5
+2008-11,Bright Eyes,2
+2008-11,Broken Social Scene,2
+2008-11,Coldplay,3
+2008-11,Feist,1
+2008-11,Jimmy Eat World,0
+2008-11,Led Zeppelin,0
+2008-11,Matthew Good,3
+2008-11,Metric,3
+2008-11,Radiohead,2
+2008-11,Sarah Harmer,3
+2008-11,Sloan,0
+2008-11,Stars,2
+2008-11,The Beatles,0
+2008-11,The Decemberists,0
+2008-11,The Shins,3
+2008-11,The Tragically Hip,5
+2008-12,Arcade Fire,0
+2008-12,Architecture In Helsinki,0
+2008-12,Blue Rodeo,0
+2008-12,Bob Dylan,1
+2008-12,Bright Eyes,0
+2008-12,Broken Social Scene,0
+2008-12,Coldplay,2
+2008-12,Feist,1
+2008-12,Jimmy Eat World,0
+2008-12,Led Zeppelin,0
+2008-12,Matthew Good,1
+2008-12,Metric,0
+2008-12,Radiohead,1
+2008-12,Sarah Harmer,1
+2008-12,Sloan,1
+2008-12,Stars,2
+2008-12,The Beatles,1
+2008-12,The Decemberists,0
+2008-12,The Shins,2
+2008-12,The Tragically Hip,4
+2009-01,Arcade Fire,0
+2009-01,Architecture In Helsinki,0
+2009-01,Blue Rodeo,0
+2009-01,Bob Dylan,0
+2009-01,Bright Eyes,0
+2009-01,Broken Social Scene,0
+2009-01,Coldplay,0
+2009-01,Feist,0
+2009-01,Jimmy Eat World,0
+2009-01,Led Zeppelin,0
+2009-01,Matthew Good,0
+2009-01,Metric,0
+2009-01,Radiohead,0
+2009-01,Sarah Harmer,0
+2009-01,Sloan,1
+2009-01,Stars,0
+2009-01,The Beatles,0
+2009-01,The Decemberists,0
+2009-01,The Shins,1
+2009-01,The Tragically Hip,0
+2009-02,Arcade Fire,0
+2009-02,Architecture In Helsinki,0
+2009-02,Blue Rodeo,0
+2009-02,Bob Dylan,1
+2009-02,Bright Eyes,0
+2009-02,Broken Social Scene,1
+2009-02,Coldplay,1
+2009-02,Feist,0
+2009-02,Jimmy Eat World,1
+2009-02,Led Zeppelin,1
+2009-02,Matthew Good,1
+2009-02,Metric,0
+2009-02,Radiohead,1
+2009-02,Sarah Harmer,1
+2009-02,Sloan,1
+2009-02,Stars,0
+2009-02,The Beatles,2
+2009-02,The Decemberists,0
+2009-02,The Shins,0
+2009-02,The Tragically Hip,0

@@ -1,0 +1,581 @@
+month,artist,plays
+2005-02,!!!,12
+2005-02,Bloc Party,0
+2005-02,Chromeo,1
+2005-02,Daft Punk,2
+2005-02,Death From Above 1979,11
+2005-02,Devin The Dude,0
+2005-02,Diplo,0
+2005-02,Junior Boys,5
+2005-02,Lcd Soundsystem,11
+2005-02,Lil Wayne,0
+2005-02,Mia.,0
+2005-02,Modest Mouse,1
+2005-02,Out Hud,0
+2005-02,Outkast,20
+2005-02,Rjd2,0
+2005-02,Snoop Dogg,0
+2005-02,Spoon,6
+2005-02,The Rapture,0
+2005-02,The Strokes,11
+2005-02,Thunderbirds Are Now!,0
+2005-03,!!!,5
+2005-03,Bloc Party,5
+2005-03,Chromeo,0
+2005-03,Daft Punk,0
+2005-03,Death From Above 1979,0
+2005-03,Devin The Dude,0
+2005-03,Diplo,0
+2005-03,Junior Boys,2
+2005-03,Lcd Soundsystem,1
+2005-03,Lil Wayne,0
+2005-03,Mia.,2
+2005-03,Modest Mouse,16
+2005-03,Out Hud,0
+2005-03,Outkast,1
+2005-03,Rjd2,0
+2005-03,Snoop Dogg,3
+2005-03,Spoon,2
+2005-03,The Rapture,3
+2005-03,The Strokes,0
+2005-03,Thunderbirds Are Now!,2
+2005-04,!!!,2
+2005-04,Bloc Party,6
+2005-04,Chromeo,1
+2005-04,Daft Punk,0
+2005-04,Death From Above 1979,23
+2005-04,Devin The Dude,0
+2005-04,Diplo,0
+2005-04,Junior Boys,0
+2005-04,Lcd Soundsystem,2
+2005-04,Lil Wayne,0
+2005-04,Mia.,1
+2005-04,Modest Mouse,86
+2005-04,Out Hud,45
+2005-04,Outkast,4
+2005-04,Rjd2,3
+2005-04,Snoop Dogg,1
+2005-04,Spoon,9
+2005-04,The Rapture,1
+2005-04,The Strokes,0
+2005-04,Thunderbirds Are Now!,58
+2005-05,!!!,5
+2005-05,Bloc Party,0
+2005-05,Chromeo,6
+2005-05,Daft Punk,3
+2005-05,Death From Above 1979,0
+2005-05,Devin The Dude,0
+2005-05,Diplo,0
+2005-05,Junior Boys,1
+2005-05,Lcd Soundsystem,1
+2005-05,Lil Wayne,0
+2005-05,Mia.,0
+2005-05,Modest Mouse,55
+2005-05,Out Hud,3
+2005-05,Outkast,0
+2005-05,Rjd2,4
+2005-05,Snoop Dogg,4
+2005-05,Spoon,12
+2005-05,The Rapture,6
+2005-05,The Strokes,0
+2005-05,Thunderbirds Are Now!,19
+2005-06,!!!,7
+2005-06,Bloc Party,0
+2005-06,Chromeo,0
+2005-06,Daft Punk,4
+2005-06,Death From Above 1979,0
+2005-06,Devin The Dude,11
+2005-06,Diplo,10
+2005-06,Junior Boys,0
+2005-06,Lcd Soundsystem,1
+2005-06,Lil Wayne,0
+2005-06,Mia.,0
+2005-06,Modest Mouse,2
+2005-06,Out Hud,1
+2005-06,Outkast,0
+2005-06,Rjd2,0
+2005-06,Snoop Dogg,0
+2005-06,Spoon,1
+2005-06,The Rapture,9
+2005-06,The Strokes,0
+2005-06,Thunderbirds Are Now!,12
+2005-07,!!!,8
+2005-07,Bloc Party,0
+2005-07,Chromeo,0
+2005-07,Daft Punk,2
+2005-07,Death From Above 1979,0
+2005-07,Devin The Dude,22
+2005-07,Diplo,15
+2005-07,Junior Boys,3
+2005-07,Lcd Soundsystem,3
+2005-07,Lil Wayne,0
+2005-07,Mia.,3
+2005-07,Modest Mouse,3
+2005-07,Out Hud,0
+2005-07,Outkast,10
+2005-07,Rjd2,4
+2005-07,Snoop Dogg,2
+2005-07,Spoon,16
+2005-07,The Rapture,17
+2005-07,The Strokes,0
+2005-07,Thunderbirds Are Now!,3
+2005-08,!!!,0
+2005-08,Bloc Party,5
+2005-08,Chromeo,0
+2005-08,Daft Punk,1
+2005-08,Death From Above 1979,5
+2005-08,Devin The Dude,0
+2005-08,Diplo,4
+2005-08,Junior Boys,11
+2005-08,Lcd Soundsystem,0
+2005-08,Lil Wayne,0
+2005-08,Mia.,1
+2005-08,Modest Mouse,13
+2005-08,Out Hud,9
+2005-08,Outkast,0
+2005-08,Rjd2,0
+2005-08,Snoop Dogg,0
+2005-08,Spoon,0
+2005-08,The Rapture,2
+2005-08,The Strokes,11
+2005-08,Thunderbirds Are Now!,6
+2005-09,!!!,7
+2005-09,Bloc Party,0
+2005-09,Chromeo,0
+2005-09,Daft Punk,0
+2005-09,Death From Above 1979,0
+2005-09,Devin The Dude,10
+2005-09,Diplo,14
+2005-09,Junior Boys,1
+2005-09,Lcd Soundsystem,2
+2005-09,Lil Wayne,0
+2005-09,Mia.,3
+2005-09,Modest Mouse,0
+2005-09,Out Hud,1
+2005-09,Outkast,0
+2005-09,Rjd2,0
+2005-09,Snoop Dogg,0
+2005-09,Spoon,21
+2005-09,The Rapture,26
+2005-09,The Strokes,10
+2005-09,Thunderbirds Are Now!,5
+2005-10,!!!,2
+2005-10,Bloc Party,16
+2005-10,Chromeo,1
+2005-10,Daft Punk,1
+2005-10,Death From Above 1979,6
+2005-10,Devin The Dude,1
+2005-10,Diplo,6
+2005-10,Junior Boys,0
+2005-10,Lcd Soundsystem,6
+2005-10,Lil Wayne,0
+2005-10,Mia.,0
+2005-10,Modest Mouse,21
+2005-10,Out Hud,29
+2005-10,Outkast,7
+2005-10,Rjd2,1
+2005-10,Snoop Dogg,0
+2005-10,Spoon,11
+2005-10,The Rapture,10
+2005-10,The Strokes,25
+2005-10,Thunderbirds Are Now!,17
+2005-11,!!!,1
+2005-11,Bloc Party,1
+2005-11,Chromeo,0
+2005-11,Daft Punk,19
+2005-11,Death From Above 1979,6
+2005-11,Devin The Dude,5
+2005-11,Diplo,0
+2005-11,Junior Boys,19
+2005-11,Lcd Soundsystem,0
+2005-11,Lil Wayne,3
+2005-11,Mia.,1
+2005-11,Modest Mouse,1
+2005-11,Out Hud,0
+2005-11,Outkast,10
+2005-11,Rjd2,1
+2005-11,Snoop Dogg,0
+2005-11,Spoon,3
+2005-11,The Rapture,2
+2005-11,The Strokes,21
+2005-11,Thunderbirds Are Now!,3
+2005-12,!!!,4
+2005-12,Bloc Party,2
+2005-12,Chromeo,0
+2005-12,Daft Punk,5
+2005-12,Death From Above 1979,62
+2005-12,Devin The Dude,1
+2005-12,Diplo,19
+2005-12,Junior Boys,2
+2005-12,Lcd Soundsystem,16
+2005-12,Lil Wayne,2
+2005-12,Mia.,0
+2005-12,Modest Mouse,1
+2005-12,Out Hud,1
+2005-12,Outkast,22
+2005-12,Rjd2,5
+2005-12,Snoop Dogg,0
+2005-12,Spoon,3
+2005-12,The Rapture,6
+2005-12,The Strokes,7
+2005-12,Thunderbirds Are Now!,2
+2006-01,!!!,0
+2006-01,Bloc Party,4
+2006-01,Chromeo,0
+2006-01,Daft Punk,2
+2006-01,Death From Above 1979,2
+2006-01,Devin The Dude,0
+2006-01,Diplo,4
+2006-01,Junior Boys,2
+2006-01,Lcd Soundsystem,2
+2006-01,Lil Wayne,8
+2006-01,Mia.,1
+2006-01,Modest Mouse,0
+2006-01,Out Hud,5
+2006-01,Outkast,13
+2006-01,Rjd2,0
+2006-01,Snoop Dogg,0
+2006-01,Spoon,0
+2006-01,The Rapture,6
+2006-01,The Strokes,22
+2006-01,Thunderbirds Are Now!,0
+2006-02,!!!,0
+2006-02,Bloc Party,6
+2006-02,Chromeo,3
+2006-02,Daft Punk,3
+2006-02,Death From Above 1979,0
+2006-02,Devin The Dude,0
+2006-02,Diplo,1
+2006-02,Junior Boys,0
+2006-02,Lcd Soundsystem,0
+2006-02,Lil Wayne,4
+2006-02,Mia.,0
+2006-02,Modest Mouse,0
+2006-02,Out Hud,5
+2006-02,Outkast,1
+2006-02,Rjd2,0
+2006-02,Snoop Dogg,0
+2006-02,Spoon,0
+2006-02,The Rapture,0
+2006-02,The Strokes,0
+2006-02,Thunderbirds Are Now!,0
+2006-03,!!!,1
+2006-03,Bloc Party,2
+2006-03,Chromeo,0
+2006-03,Daft Punk,1
+2006-03,Death From Above 1979,0
+2006-03,Devin The Dude,1
+2006-03,Diplo,0
+2006-03,Junior Boys,0
+2006-03,Lcd Soundsystem,0
+2006-03,Lil Wayne,0
+2006-03,Mia.,2
+2006-03,Modest Mouse,4
+2006-03,Out Hud,0
+2006-03,Outkast,1
+2006-03,Rjd2,0
+2006-03,Snoop Dogg,1
+2006-03,Spoon,0
+2006-03,The Rapture,0
+2006-03,The Strokes,1
+2006-03,Thunderbirds Are Now!,1
+2006-04,!!!,0
+2006-04,Bloc Party,0
+2006-04,Chromeo,12
+2006-04,Daft Punk,1
+2006-04,Death From Above 1979,2
+2006-04,Devin The Dude,4
+2006-04,Diplo,0
+2006-04,Junior Boys,0
+2006-04,Lcd Soundsystem,0
+2006-04,Lil Wayne,0
+2006-04,Mia.,0
+2006-04,Modest Mouse,0
+2006-04,Out Hud,0
+2006-04,Outkast,4
+2006-04,Rjd2,4
+2006-04,Snoop Dogg,0
+2006-04,Spoon,0
+2006-04,The Rapture,4
+2006-04,The Strokes,1
+2006-04,Thunderbirds Are Now!,0
+2006-05,!!!,0
+2006-05,Bloc Party,1
+2006-05,Chromeo,1
+2006-05,Daft Punk,0
+2006-05,Death From Above 1979,3
+2006-05,Devin The Dude,0
+2006-05,Diplo,0
+2006-05,Junior Boys,0
+2006-05,Lcd Soundsystem,3
+2006-05,Lil Wayne,0
+2006-05,Mia.,0
+2006-05,Modest Mouse,0
+2006-05,Out Hud,0
+2006-05,Outkast,2
+2006-05,Rjd2,3
+2006-05,Snoop Dogg,0
+2006-05,Spoon,0
+2006-05,The Rapture,2
+2006-05,The Strokes,1
+2006-05,Thunderbirds Are Now!,1
+2006-06,!!!,0
+2006-06,Bloc Party,1
+2006-06,Chromeo,2
+2006-06,Daft Punk,0
+2006-06,Death From Above 1979,0
+2006-06,Devin The Dude,0
+2006-06,Diplo,0
+2006-06,Junior Boys,10
+2006-06,Lcd Soundsystem,6
+2006-06,Lil Wayne,0
+2006-06,Mia.,0
+2006-06,Modest Mouse,0
+2006-06,Out Hud,0
+2006-06,Outkast,0
+2006-06,Rjd2,4
+2006-06,Snoop Dogg,0
+2006-06,Spoon,0
+2006-06,The Rapture,7
+2006-06,The Strokes,0
+2006-06,Thunderbirds Are Now!,0
+2006-07,!!!,0
+2006-07,Bloc Party,2
+2006-07,Chromeo,0
+2006-07,Daft Punk,0
+2006-07,Death From Above 1979,0
+2006-07,Devin The Dude,0
+2006-07,Diplo,0
+2006-07,Junior Boys,0
+2006-07,Lcd Soundsystem,0
+2006-07,Lil Wayne,0
+2006-07,Mia.,1
+2006-07,Modest Mouse,0
+2006-07,Out Hud,0
+2006-07,Outkast,0
+2006-07,Rjd2,0
+2006-07,Snoop Dogg,0
+2006-07,Spoon,0
+2006-07,The Rapture,1
+2006-07,The Strokes,0
+2006-07,Thunderbirds Are Now!,0
+2006-08,!!!,0
+2006-08,Bloc Party,0
+2006-08,Chromeo,0
+2006-08,Daft Punk,0
+2006-08,Death From Above 1979,0
+2006-08,Devin The Dude,0
+2006-08,Diplo,3
+2006-08,Junior Boys,0
+2006-08,Lcd Soundsystem,0
+2006-08,Lil Wayne,0
+2006-08,Mia.,0
+2006-08,Modest Mouse,0
+2006-08,Out Hud,0
+2006-08,Outkast,6
+2006-08,Rjd2,0
+2006-08,Snoop Dogg,0
+2006-08,Spoon,0
+2006-08,The Rapture,5
+2006-08,The Strokes,0
+2006-08,Thunderbirds Are Now!,0
+2006-09,!!!,0
+2006-09,Bloc Party,1
+2006-09,Chromeo,0
+2006-09,Daft Punk,0
+2006-09,Death From Above 1979,0
+2006-09,Devin The Dude,0
+2006-09,Diplo,5
+2006-09,Junior Boys,4
+2006-09,Lcd Soundsystem,0
+2006-09,Lil Wayne,4
+2006-09,Mia.,0
+2006-09,Modest Mouse,0
+2006-09,Out Hud,7
+2006-09,Outkast,0
+2006-09,Rjd2,0
+2006-09,Snoop Dogg,0
+2006-09,Spoon,0
+2006-09,The Rapture,11
+2006-09,The Strokes,0
+2006-09,Thunderbirds Are Now!,0
+2006-10,!!!,0
+2006-10,Bloc Party,2
+2006-10,Chromeo,1
+2006-10,Daft Punk,0
+2006-10,Death From Above 1979,0
+2006-10,Devin The Dude,3
+2006-10,Diplo,1
+2006-10,Junior Boys,2
+2006-10,Lcd Soundsystem,0
+2006-10,Lil Wayne,0
+2006-10,Mia.,0
+2006-10,Modest Mouse,0
+2006-10,Out Hud,2
+2006-10,Outkast,2
+2006-10,Rjd2,1
+2006-10,Snoop Dogg,1
+2006-10,Spoon,0
+2006-10,The Rapture,3
+2006-10,The Strokes,0
+2006-10,Thunderbirds Are Now!,0
+2006-11,!!!,0
+2006-11,Bloc Party,0
+2006-11,Chromeo,4
+2006-11,Daft Punk,0
+2006-11,Death From Above 1979,2
+2006-11,Devin The Dude,3
+2006-11,Diplo,0
+2006-11,Junior Boys,1
+2006-11,Lcd Soundsystem,1
+2006-11,Lil Wayne,3
+2006-11,Mia.,0
+2006-11,Modest Mouse,25
+2006-11,Out Hud,3
+2006-11,Outkast,0
+2006-11,Rjd2,1
+2006-11,Snoop Dogg,2
+2006-11,Spoon,0
+2006-11,The Rapture,5
+2006-11,The Strokes,2
+2006-11,Thunderbirds Are Now!,2
+2006-12,!!!,4
+2006-12,Bloc Party,1
+2006-12,Chromeo,5
+2006-12,Daft Punk,6
+2006-12,Death From Above 1979,1
+2006-12,Devin The Dude,1
+2006-12,Diplo,0
+2006-12,Junior Boys,5
+2006-12,Lcd Soundsystem,10
+2006-12,Lil Wayne,26
+2006-12,Mia.,1
+2006-12,Modest Mouse,38
+2006-12,Out Hud,1
+2006-12,Outkast,1
+2006-12,Rjd2,1
+2006-12,Snoop Dogg,0
+2006-12,Spoon,3
+2006-12,The Rapture,0
+2006-12,The Strokes,2
+2006-12,Thunderbirds Are Now!,0
+2007-01,!!!,0
+2007-01,Bloc Party,4
+2007-01,Chromeo,1
+2007-01,Daft Punk,3
+2007-01,Death From Above 1979,2
+2007-01,Devin The Dude,5
+2007-01,Diplo,0
+2007-01,Junior Boys,1
+2007-01,Lcd Soundsystem,4
+2007-01,Lil Wayne,81
+2007-01,Mia.,0
+2007-01,Modest Mouse,0
+2007-01,Out Hud,0
+2007-01,Outkast,0
+2007-01,Rjd2,0
+2007-01,Snoop Dogg,1
+2007-01,Spoon,2
+2007-01,The Rapture,5
+2007-01,The Strokes,1
+2007-01,Thunderbirds Are Now!,0
+2007-02,!!!,0
+2007-02,Bloc Party,0
+2007-02,Chromeo,1
+2007-02,Daft Punk,1
+2007-02,Death From Above 1979,0
+2007-02,Devin The Dude,2
+2007-02,Diplo,0
+2007-02,Junior Boys,0
+2007-02,Lcd Soundsystem,3
+2007-02,Lil Wayne,46
+2007-02,Mia.,0
+2007-02,Modest Mouse,0
+2007-02,Out Hud,4
+2007-02,Outkast,0
+2007-02,Rjd2,0
+2007-02,Snoop Dogg,1
+2007-02,Spoon,0
+2007-02,The Rapture,0
+2007-02,The Strokes,0
+2007-02,Thunderbirds Are Now!,0
+2007-03,!!!,7
+2007-03,Bloc Party,0
+2007-03,Chromeo,0
+2007-03,Daft Punk,1
+2007-03,Death From Above 1979,0
+2007-03,Devin The Dude,12
+2007-03,Diplo,0
+2007-03,Junior Boys,0
+2007-03,Lcd Soundsystem,1
+2007-03,Lil Wayne,9
+2007-03,Mia.,0
+2007-03,Modest Mouse,1
+2007-03,Out Hud,0
+2007-03,Outkast,0
+2007-03,Rjd2,3
+2007-03,Snoop Dogg,1
+2007-03,Spoon,0
+2007-03,The Rapture,0
+2007-03,The Strokes,0
+2007-03,Thunderbirds Are Now!,0
+2007-04,!!!,0
+2007-04,Bloc Party,0
+2007-04,Chromeo,0
+2007-04,Daft Punk,0
+2007-04,Death From Above 1979,0
+2007-04,Devin The Dude,6
+2007-04,Diplo,0
+2007-04,Junior Boys,0
+2007-04,Lcd Soundsystem,0
+2007-04,Lil Wayne,142
+2007-04,Mia.,2
+2007-04,Modest Mouse,0
+2007-04,Out Hud,0
+2007-04,Outkast,0
+2007-04,Rjd2,0
+2007-04,Snoop Dogg,1
+2007-04,Spoon,0
+2007-04,The Rapture,0
+2007-04,The Strokes,0
+2007-04,Thunderbirds Are Now!,0
+2007-05,!!!,0
+2007-05,Bloc Party,0
+2007-05,Chromeo,0
+2007-05,Daft Punk,0
+2007-05,Death From Above 1979,0
+2007-05,Devin The Dude,1
+2007-05,Diplo,3
+2007-05,Junior Boys,0
+2007-05,Lcd Soundsystem,0
+2007-05,Lil Wayne,15
+2007-05,Mia.,1
+2007-05,Modest Mouse,0
+2007-05,Out Hud,0
+2007-05,Outkast,0
+2007-05,Rjd2,0
+2007-05,Snoop Dogg,0
+2007-05,Spoon,0
+2007-05,The Rapture,0
+2007-05,The Strokes,0
+2007-05,Thunderbirds Are Now!,0
+2007-06,!!!,0
+2007-06,Bloc Party,0
+2007-06,Chromeo,0
+2007-06,Daft Punk,0
+2007-06,Death From Above 1979,0
+2007-06,Devin The Dude,3
+2007-06,Diplo,0
+2007-06,Junior Boys,0
+2007-06,Lcd Soundsystem,0
+2007-06,Lil Wayne,5
+2007-06,Mia.,0
+2007-06,Modest Mouse,0
+2007-06,Out Hud,0
+2007-06,Outkast,0
+2007-06,Rjd2,0
+2007-06,Snoop Dogg,1
+2007-06,Spoon,0
+2007-06,The Rapture,0
+2007-06,The Strokes,0
+2007-06,Thunderbirds Are Now!,0

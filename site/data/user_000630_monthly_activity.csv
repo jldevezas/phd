@@ -1,0 +1,521 @@
+month,artist,plays
+2005-06,7 Seconds,19
+2005-06,All Bets Off,0
+2005-06,American Nightmare,13
+2005-06,Bad Brains,0
+2005-06,Black Flag,11
+2005-06,Blink-182,56
+2005-06,Blood For Blood,148
+2005-06,Ceremony,0
+2005-06,Descendents,0
+2005-06,Infest,1
+2005-06,Jawbreaker,0
+2005-06,Kill Your Idols,0
+2005-06,Killing The Dream,0
+2005-06,Life Long Tragedy,14
+2005-06,Misfits,1
+2005-06,Saves The Day,23
+2005-06,Set It Straight,0
+2005-06,Sheer Terror,0
+2005-06,The Movielife,0
+2005-06,Tragedy,0
+2005-07,7 Seconds,41
+2005-07,All Bets Off,0
+2005-07,American Nightmare,11
+2005-07,Bad Brains,17
+2005-07,Black Flag,0
+2005-07,Blink-182,41
+2005-07,Blood For Blood,142
+2005-07,Ceremony,5
+2005-07,Descendents,28
+2005-07,Infest,92
+2005-07,Jawbreaker,103
+2005-07,Kill Your Idols,0
+2005-07,Killing The Dream,14
+2005-07,Life Long Tragedy,2
+2005-07,Misfits,10
+2005-07,Saves The Day,8
+2005-07,Set It Straight,83
+2005-07,Sheer Terror,3
+2005-07,The Movielife,15
+2005-07,Tragedy,0
+2005-08,7 Seconds,44
+2005-08,All Bets Off,0
+2005-08,American Nightmare,5
+2005-08,Bad Brains,15
+2005-08,Black Flag,23
+2005-08,Blink-182,44
+2005-08,Blood For Blood,69
+2005-08,Ceremony,0
+2005-08,Descendents,398
+2005-08,Infest,162
+2005-08,Jawbreaker,35
+2005-08,Kill Your Idols,23
+2005-08,Killing The Dream,8
+2005-08,Life Long Tragedy,77
+2005-08,Misfits,263
+2005-08,Saves The Day,91
+2005-08,Set It Straight,5
+2005-08,Sheer Terror,84
+2005-08,The Movielife,20
+2005-08,Tragedy,17
+2005-09,7 Seconds,6
+2005-09,All Bets Off,0
+2005-09,American Nightmare,2
+2005-09,Bad Brains,12
+2005-09,Black Flag,70
+2005-09,Blink-182,2
+2005-09,Blood For Blood,171
+2005-09,Ceremony,5
+2005-09,Descendents,142
+2005-09,Infest,135
+2005-09,Jawbreaker,23
+2005-09,Kill Your Idols,21
+2005-09,Killing The Dream,13
+2005-09,Life Long Tragedy,10
+2005-09,Misfits,165
+2005-09,Saves The Day,56
+2005-09,Set It Straight,7
+2005-09,Sheer Terror,331
+2005-09,The Movielife,0
+2005-09,Tragedy,133
+2005-10,7 Seconds,19
+2005-10,All Bets Off,0
+2005-10,American Nightmare,1
+2005-10,Bad Brains,262
+2005-10,Black Flag,74
+2005-10,Blink-182,18
+2005-10,Blood For Blood,143
+2005-10,Ceremony,5
+2005-10,Descendents,29
+2005-10,Infest,18
+2005-10,Jawbreaker,20
+2005-10,Kill Your Idols,14
+2005-10,Killing The Dream,188
+2005-10,Life Long Tragedy,0
+2005-10,Misfits,101
+2005-10,Saves The Day,9
+2005-10,Set It Straight,13
+2005-10,Sheer Terror,94
+2005-10,The Movielife,33
+2005-10,Tragedy,3
+2005-11,7 Seconds,9
+2005-11,All Bets Off,16
+2005-11,American Nightmare,0
+2005-11,Bad Brains,7
+2005-11,Black Flag,1
+2005-11,Blink-182,1
+2005-11,Blood For Blood,44
+2005-11,Ceremony,0
+2005-11,Descendents,89
+2005-11,Infest,65
+2005-11,Jawbreaker,16
+2005-11,Kill Your Idols,6
+2005-11,Killing The Dream,39
+2005-11,Life Long Tragedy,3
+2005-11,Misfits,37
+2005-11,Saves The Day,3
+2005-11,Set It Straight,7
+2005-11,Sheer Terror,45
+2005-11,The Movielife,18
+2005-11,Tragedy,0
+2005-12,7 Seconds,84
+2005-12,All Bets Off,2
+2005-12,American Nightmare,48
+2005-12,Bad Brains,128
+2005-12,Black Flag,18
+2005-12,Blink-182,24
+2005-12,Blood For Blood,106
+2005-12,Ceremony,56
+2005-12,Descendents,189
+2005-12,Infest,222
+2005-12,Jawbreaker,35
+2005-12,Kill Your Idols,1
+2005-12,Killing The Dream,33
+2005-12,Life Long Tragedy,17
+2005-12,Misfits,29
+2005-12,Saves The Day,48
+2005-12,Set It Straight,1
+2005-12,Sheer Terror,102
+2005-12,The Movielife,3
+2005-12,Tragedy,11
+2006-01,7 Seconds,106
+2006-01,All Bets Off,106
+2006-01,American Nightmare,29
+2006-01,Bad Brains,104
+2006-01,Black Flag,116
+2006-01,Blink-182,6
+2006-01,Blood For Blood,177
+2006-01,Ceremony,99
+2006-01,Descendents,37
+2006-01,Infest,113
+2006-01,Jawbreaker,5
+2006-01,Kill Your Idols,0
+2006-01,Killing The Dream,5
+2006-01,Life Long Tragedy,1
+2006-01,Misfits,26
+2006-01,Saves The Day,273
+2006-01,Set It Straight,1
+2006-01,Sheer Terror,14
+2006-01,The Movielife,10
+2006-01,Tragedy,1
+2006-02,7 Seconds,14
+2006-02,All Bets Off,18
+2006-02,American Nightmare,7
+2006-02,Bad Brains,63
+2006-02,Black Flag,23
+2006-02,Blink-182,65
+2006-02,Blood For Blood,27
+2006-02,Ceremony,31
+2006-02,Descendents,15
+2006-02,Infest,48
+2006-02,Jawbreaker,1
+2006-02,Kill Your Idols,4
+2006-02,Killing The Dream,12
+2006-02,Life Long Tragedy,9
+2006-02,Misfits,13
+2006-02,Saves The Day,40
+2006-02,Set It Straight,1
+2006-02,Sheer Terror,20
+2006-02,The Movielife,33
+2006-02,Tragedy,8
+2006-03,7 Seconds,46
+2006-03,All Bets Off,4
+2006-03,American Nightmare,20
+2006-03,Bad Brains,53
+2006-03,Black Flag,1
+2006-03,Blink-182,0
+2006-03,Blood For Blood,19
+2006-03,Ceremony,32
+2006-03,Descendents,23
+2006-03,Infest,43
+2006-03,Jawbreaker,21
+2006-03,Kill Your Idols,36
+2006-03,Killing The Dream,80
+2006-03,Life Long Tragedy,1
+2006-03,Misfits,48
+2006-03,Saves The Day,6
+2006-03,Set It Straight,4
+2006-03,Sheer Terror,3
+2006-03,The Movielife,4
+2006-03,Tragedy,2
+2006-04,7 Seconds,2
+2006-04,All Bets Off,4
+2006-04,American Nightmare,20
+2006-04,Bad Brains,36
+2006-04,Black Flag,28
+2006-04,Blink-182,66
+2006-04,Blood For Blood,8
+2006-04,Ceremony,28
+2006-04,Descendents,4
+2006-04,Infest,92
+2006-04,Jawbreaker,83
+2006-04,Kill Your Idols,33
+2006-04,Killing The Dream,16
+2006-04,Life Long Tragedy,7
+2006-04,Misfits,6
+2006-04,Saves The Day,3
+2006-04,Set It Straight,1
+2006-04,Sheer Terror,14
+2006-04,The Movielife,10
+2006-04,Tragedy,0
+2006-05,7 Seconds,6
+2006-05,All Bets Off,1
+2006-05,American Nightmare,8
+2006-05,Bad Brains,12
+2006-05,Black Flag,10
+2006-05,Blink-182,25
+2006-05,Blood For Blood,85
+2006-05,Ceremony,11
+2006-05,Descendents,25
+2006-05,Infest,49
+2006-05,Jawbreaker,21
+2006-05,Kill Your Idols,29
+2006-05,Killing The Dream,5
+2006-05,Life Long Tragedy,8
+2006-05,Misfits,17
+2006-05,Saves The Day,16
+2006-05,Set It Straight,0
+2006-05,Sheer Terror,31
+2006-05,The Movielife,34
+2006-05,Tragedy,172
+2006-06,7 Seconds,3
+2006-06,All Bets Off,0
+2006-06,American Nightmare,32
+2006-06,Bad Brains,2
+2006-06,Black Flag,13
+2006-06,Blink-182,2
+2006-06,Blood For Blood,66
+2006-06,Ceremony,103
+2006-06,Descendents,29
+2006-06,Infest,39
+2006-06,Jawbreaker,204
+2006-06,Kill Your Idols,8
+2006-06,Killing The Dream,4
+2006-06,Life Long Tragedy,0
+2006-06,Misfits,7
+2006-06,Saves The Day,5
+2006-06,Set It Straight,0
+2006-06,Sheer Terror,84
+2006-06,The Movielife,4
+2006-06,Tragedy,296
+2006-07,7 Seconds,0
+2006-07,All Bets Off,14
+2006-07,American Nightmare,38
+2006-07,Bad Brains,24
+2006-07,Black Flag,15
+2006-07,Blink-182,9
+2006-07,Blood For Blood,11
+2006-07,Ceremony,25
+2006-07,Descendents,41
+2006-07,Infest,0
+2006-07,Jawbreaker,42
+2006-07,Kill Your Idols,64
+2006-07,Killing The Dream,54
+2006-07,Life Long Tragedy,3
+2006-07,Misfits,14
+2006-07,Saves The Day,2
+2006-07,Set It Straight,13
+2006-07,Sheer Terror,11
+2006-07,The Movielife,2
+2006-07,Tragedy,77
+2006-08,7 Seconds,11
+2006-08,All Bets Off,17
+2006-08,American Nightmare,33
+2006-08,Bad Brains,31
+2006-08,Black Flag,0
+2006-08,Blink-182,35
+2006-08,Blood For Blood,7
+2006-08,Ceremony,15
+2006-08,Descendents,0
+2006-08,Infest,33
+2006-08,Jawbreaker,3
+2006-08,Kill Your Idols,0
+2006-08,Killing The Dream,5
+2006-08,Life Long Tragedy,1
+2006-08,Misfits,16
+2006-08,Saves The Day,9
+2006-08,Set It Straight,51
+2006-08,Sheer Terror,3
+2006-08,The Movielife,4
+2006-08,Tragedy,26
+2006-09,7 Seconds,14
+2006-09,All Bets Off,90
+2006-09,American Nightmare,21
+2006-09,Bad Brains,1
+2006-09,Black Flag,33
+2006-09,Blink-182,52
+2006-09,Blood For Blood,22
+2006-09,Ceremony,42
+2006-09,Descendents,17
+2006-09,Infest,37
+2006-09,Jawbreaker,39
+2006-09,Kill Your Idols,74
+2006-09,Killing The Dream,29
+2006-09,Life Long Tragedy,7
+2006-09,Misfits,67
+2006-09,Saves The Day,6
+2006-09,Set It Straight,41
+2006-09,Sheer Terror,61
+2006-09,The Movielife,5
+2006-09,Tragedy,188
+2006-10,7 Seconds,17
+2006-10,All Bets Off,13
+2006-10,American Nightmare,59
+2006-10,Bad Brains,6
+2006-10,Black Flag,0
+2006-10,Blink-182,1
+2006-10,Blood For Blood,34
+2006-10,Ceremony,3
+2006-10,Descendents,0
+2006-10,Infest,3
+2006-10,Jawbreaker,0
+2006-10,Kill Your Idols,22
+2006-10,Killing The Dream,11
+2006-10,Life Long Tragedy,5
+2006-10,Misfits,5
+2006-10,Saves The Day,41
+2006-10,Set It Straight,19
+2006-10,Sheer Terror,23
+2006-10,The Movielife,0
+2006-10,Tragedy,57
+2006-11,7 Seconds,0
+2006-11,All Bets Off,0
+2006-11,American Nightmare,0
+2006-11,Bad Brains,0
+2006-11,Black Flag,0
+2006-11,Blink-182,0
+2006-11,Blood For Blood,0
+2006-11,Ceremony,0
+2006-11,Descendents,0
+2006-11,Infest,0
+2006-11,Jawbreaker,0
+2006-11,Kill Your Idols,0
+2006-11,Killing The Dream,0
+2006-11,Life Long Tragedy,0
+2006-11,Misfits,0
+2006-11,Saves The Day,0
+2006-11,Set It Straight,0
+2006-11,Sheer Terror,0
+2006-11,The Movielife,0
+2006-11,Tragedy,0
+2006-12,7 Seconds,2
+2006-12,All Bets Off,3
+2006-12,American Nightmare,4
+2006-12,Bad Brains,0
+2006-12,Black Flag,1
+2006-12,Blink-182,0
+2006-12,Blood For Blood,12
+2006-12,Ceremony,4
+2006-12,Descendents,39
+2006-12,Infest,0
+2006-12,Jawbreaker,21
+2006-12,Kill Your Idols,73
+2006-12,Killing The Dream,10
+2006-12,Life Long Tragedy,1
+2006-12,Misfits,8
+2006-12,Saves The Day,1
+2006-12,Set It Straight,2
+2006-12,Sheer Terror,12
+2006-12,The Movielife,1
+2006-12,Tragedy,11
+2007-01,7 Seconds,7
+2007-01,All Bets Off,13
+2007-01,American Nightmare,0
+2007-01,Bad Brains,0
+2007-01,Black Flag,13
+2007-01,Blink-182,2
+2007-01,Blood For Blood,0
+2007-01,Ceremony,17
+2007-01,Descendents,1
+2007-01,Infest,0
+2007-01,Jawbreaker,6
+2007-01,Kill Your Idols,25
+2007-01,Killing The Dream,15
+2007-01,Life Long Tragedy,0
+2007-01,Misfits,0
+2007-01,Saves The Day,21
+2007-01,Set It Straight,9
+2007-01,Sheer Terror,0
+2007-01,The Movielife,0
+2007-01,Tragedy,11
+2007-02,7 Seconds,0
+2007-02,All Bets Off,9
+2007-02,American Nightmare,2
+2007-02,Bad Brains,0
+2007-02,Black Flag,8
+2007-02,Blink-182,1
+2007-02,Blood For Blood,6
+2007-02,Ceremony,21
+2007-02,Descendents,11
+2007-02,Infest,11
+2007-02,Jawbreaker,0
+2007-02,Kill Your Idols,4
+2007-02,Killing The Dream,10
+2007-02,Life Long Tragedy,0
+2007-02,Misfits,1
+2007-02,Saves The Day,12
+2007-02,Set It Straight,53
+2007-02,Sheer Terror,0
+2007-02,The Movielife,4
+2007-02,Tragedy,0
+2007-03,7 Seconds,0
+2007-03,All Bets Off,5
+2007-03,American Nightmare,3
+2007-03,Bad Brains,0
+2007-03,Black Flag,36
+2007-03,Blink-182,5
+2007-03,Blood For Blood,0
+2007-03,Ceremony,16
+2007-03,Descendents,7
+2007-03,Infest,0
+2007-03,Jawbreaker,0
+2007-03,Kill Your Idols,0
+2007-03,Killing The Dream,4
+2007-03,Life Long Tragedy,5
+2007-03,Misfits,0
+2007-03,Saves The Day,0
+2007-03,Set It Straight,0
+2007-03,Sheer Terror,8
+2007-03,The Movielife,0
+2007-03,Tragedy,0
+2007-04,7 Seconds,1
+2007-04,All Bets Off,11
+2007-04,American Nightmare,12
+2007-04,Bad Brains,14
+2007-04,Black Flag,22
+2007-04,Blink-182,2
+2007-04,Blood For Blood,9
+2007-04,Ceremony,6
+2007-04,Descendents,2
+2007-04,Infest,16
+2007-04,Jawbreaker,7
+2007-04,Kill Your Idols,25
+2007-04,Killing The Dream,8
+2007-04,Life Long Tragedy,7
+2007-04,Misfits,1
+2007-04,Saves The Day,14
+2007-04,Set It Straight,12
+2007-04,Sheer Terror,5
+2007-04,The Movielife,11
+2007-04,Tragedy,26
+2007-05,7 Seconds,0
+2007-05,All Bets Off,11
+2007-05,American Nightmare,7
+2007-05,Bad Brains,0
+2007-05,Black Flag,0
+2007-05,Blink-182,2
+2007-05,Blood For Blood,8
+2007-05,Ceremony,0
+2007-05,Descendents,2
+2007-05,Infest,0
+2007-05,Jawbreaker,0
+2007-05,Kill Your Idols,28
+2007-05,Killing The Dream,33
+2007-05,Life Long Tragedy,2
+2007-05,Misfits,0
+2007-05,Saves The Day,13
+2007-05,Set It Straight,2
+2007-05,Sheer Terror,12
+2007-05,The Movielife,6
+2007-05,Tragedy,4
+2007-06,7 Seconds,1
+2007-06,All Bets Off,5
+2007-06,American Nightmare,14
+2007-06,Bad Brains,40
+2007-06,Black Flag,3
+2007-06,Blink-182,0
+2007-06,Blood For Blood,0
+2007-06,Ceremony,33
+2007-06,Descendents,1
+2007-06,Infest,11
+2007-06,Jawbreaker,6
+2007-06,Kill Your Idols,11
+2007-06,Killing The Dream,11
+2007-06,Life Long Tragedy,9
+2007-06,Misfits,0
+2007-06,Saves The Day,6
+2007-06,Set It Straight,10
+2007-06,Sheer Terror,21
+2007-06,The Movielife,2
+2007-06,Tragedy,43
+2007-07,7 Seconds,3
+2007-07,All Bets Off,5
+2007-07,American Nightmare,1
+2007-07,Bad Brains,11
+2007-07,Black Flag,8
+2007-07,Blink-182,6
+2007-07,Blood For Blood,1
+2007-07,Ceremony,34
+2007-07,Descendents,0
+2007-07,Infest,0
+2007-07,Jawbreaker,14
+2007-07,Kill Your Idols,15
+2007-07,Killing The Dream,9
+2007-07,Life Long Tragedy,1
+2007-07,Misfits,0
+2007-07,Saves The Day,3
+2007-07,Set It Straight,0
+2007-07,Sheer Terror,46
+2007-07,The Movielife,2
+2007-07,Tragedy,11

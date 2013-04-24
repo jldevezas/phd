@@ -2,137 +2,219 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Community-Driven Music Discovery</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>
+			community-driven music discovery
+		</title>
 		<meta name="description" content="">
-		<meta name="author" content="">
-
-		<!-- Le styles -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<style>
-			body {
-				padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+		<meta name="author" content="phd, visualization, devezas, music, discovery">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<!--link rel="shortcut icon" href="http://ink.local/assets/img/ink-favicon.ico">
+		<link rel="apple-touch-icon-precomposed" href="../img/touch-icon.57.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/touch-icon.72.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/touch-icon.114.png">
+		<link rel="apple-touch-startup-image" href="../img/splash.320x460.png"
+		media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
+		<link rel="apple-touch-startup-image" href="../img/splash.768x1004.png"
+		media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+		<link rel="apple-touch-startup-image" href="../img/splash.1024x748.png"
+		media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)"-->
+		<link rel="stylesheet" type="text/css" href="css/ink-min.css">
+		<link rel="stylesheet" type="text/css" href="css/select2.css">
+		<link rel="stylesheet" type="text/css" href="css/jld.css">
+		<!--[if lte IE 7 ]>
+		<link rel="stylesheet" href="css/ink-ie7-min.css" type="text/css" media="screen"
+		title="no title" charset="utf-8">
+		<![endif]-->
+		<style type="text/css">
+			html, body {
+				height: 100%;
+				background: #f0f0f0;
+			}
+			.wrap {
+				min-height: 100%;
+				height: auto !important;
+				height: 100%;
+				margin: 0 auto -80px;
+				overflow: auto;
+			}
+			.push, footer { height: 80px; margin-top: 0; }
+			footer { background: rgba(10,10,10,0.95); border: 0; line-height: 80px; margin-top: 0 !important; }
+			footer * { line-height: inherit; }
+			footer p { margin-top: 0; }
+			footer .ink-navigation ul.menu.horizontal li { margin-right: 2em; line-height: inherit; }
+			footer .ink-navigation ul.menu.horizontal li a {
+				padding: 0;
+				color: white;
+				text-decoration: underline;
+			}
+			footer p {
+				color: white;
+			}
+			footer .ink-navigation ul.menu.horizontal li a:hover {
+				color: #c91111;
+			}
+			.top-menu {
+				background: #000;
+			}
+			.cta {
+				font-size: 1.8em;
+				margin-left: 0;
 			}
 		</style>
-		<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-		<link href="css/select2.css" rel="stylesheet">
-		<link href="css/jld.css" rel="stylesheet">
-
-		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-		<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-		<![endif]-->
-
-		<!-- Fav and touch icons -->
-		<!--link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
-		<link rel="shortcut icon" href="ico/favicon.png"-->
 	</head>
 
 	<body>
+		<div class="wrap">
+			<div class="top-menu">
+				<nav class="ink-navigation ink-grid">
+					<ul class="menu horizontal black flat">
+						<li><a href="#about-me-and-my-phd">about me and my phd</a></li>
+						<li><a href="#visualizing-listening-behavior">visualizing listening behavior</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="ink-grid vspace">
+				<div class="column-group">
+					<div class="large-100 medium-100 small-100">
+						<h1>community-driven music discovery</h1>
+						
+						<section id="about-me-and-my-phd">
+							<h2>about me and my phd</h2>
 
-		<div class="navbar navbar-inverse navbar-fixed-top">
-			<div class="navbar-inner">
-				<div class="container">
-					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="brand" href="#">Community-Driven Music Discovery</a>
-					<div class="nav-collapse collapse">
-						<ul class="nav">
-							<li class="active"><a href="#">Home</a></li>
-							<li><a href="#visualizing-listening-behavior">Visualizing Listening Behavior</a></li>
-						</ul>
-					</div><!--/.nav-collapse -->
+							<p>My name is José Devezas and I'm a PhD student at the Department of Computer Science
+								of the Faculty of Sciences of the University of Porto. I am researching methodologies to
+								improve music discovery, specially as a group activity, by taking into account the information
+								given by the communities and social ties of the individuals that make the group.</p>
+
+							<p>In here, you will find any algorithms, tools or visualizations that I develop as part of
+								my PhD project.</p>
+						</section>
+
+						<section id="visualizing-listening-behavior">
+							<h2>visualizing listening behavior</h2>
+
+							<p>Explore listening behavior by selecting a user:</p>
+
+							<div id="control">
+								<select id="user-select"></select>&nbsp;
+								<button id="button-previous" class="ink-button info">Previous</button>
+								<button id="button-next" class="ink-button info">Next</button>
+								<span id="user-country"></span>&nbsp;
+								<span id="user-age"></span>
+							</div>
+
+							<h3>streamgraph for the user's top 20 averall artists</h3>
+							<div id="stream-tooltip"></div>
+							<div id="stream-graph"></div>
+
+							<h3>monthly play count for <span id="artist-name">most frequently listened artist</span><h3>
+							<div id="artist-tooltip"></div>
+							<div id="artist-chart"></div>
+						</section>
+
+						<script src="js/jquery-1.9.1.min.js"></script>
+						<script src="js/select2.min.js"></script>
+						<script src="js/d3.v3.min.js"></script>
+						<script src="js/jld.js"></script>
+						<script>
+							var vis = null;
+							var opt = {
+								streamgraph: "#stream-graph",
+								streamtooltip: "#stream-tooltip",
+								artistchart: "#artist-chart",
+								artisttooltip: "#artist-tooltip",
+								artistname: "#artist-name"
+							};
+
+							d3.tsv("data/userid-profile.tsv", function(data) {
+								var $drop = $("#user-select");
+
+								data.forEach(function(row) {
+									var $optGroup = $drop.find("optgroup[label='" + row.country + "']");
+
+									if ($optGroup.length == 0) {
+										$optGroup = $("<optgroup>").attr("label", row.country);
+										$drop.append($optGroup);
+									}
+									
+									$optGroup.append($("<option>")
+										.val(row.id)
+										.attr("data-country", row.country)
+										.attr("data-age", row.age)
+										.text(row.id));
+								});
+
+								$drop.select2({
+									width: 300,
+									matcher: function(term, text, opt) {
+										if (!isNaN(parseFloat(term)) && isFinite(term))
+											return opt.attr("data-age") == term;
+
+										var termUpper = term.toUpperCase();
+										return text.toUpperCase().indexOf(termUpper)>=0
+											|| opt.attr("data-country").toUpperCase().indexOf(termUpper) >= 0;
+									}
+								}).on("change", function(e) {
+									var $selected = $("#user-select").find("option[value='" + $(this).val() + "']");
+									var country = $selected.attr("data-country");
+									var age = $selected.attr("data-age");
+
+									if (country != "")
+										$("#user-country").html("<strong>from:</strong> " + country);
+									else
+										$("#user-country").html("");
+										
+									if (age != "")
+										$("#user-age").html("<strong>age:</strong> " + age);
+									else
+										$("#user-age").html("");
+									
+									if (vis != null) vis.clear();
+
+									d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {
+										vis = new JldVisualization(data, opt);
+										vis.listeningBehaviorStreamGraph();
+										vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
+									});
+
+									var selectedIndex = $("#user-select").prop("selectedIndex");
+									if ((selectedIndex+1) >= $("#user-select").find("option").length)
+										$("#button-next").prop("disabled", true);
+									if ((selectedIndex-1) <= 0)
+										$("#button-previous").prop("disabled", true);
+								});
+
+								$("#user-select").val("user_000001").change();
+
+								$("#button-previous")
+									.on("click", function() {
+										var selectedIndex = $("#user-select").prop("selectedIndex");
+										$("#user-select").prop("selectedIndex", selectedIndex-1).change();
+										$("#button-next").prop("disabled", false);
+									});
+									
+								$("#button-next")
+									.on("click", function() {
+										var selectedIndex = $("#user-select").prop("selectedIndex");
+										$("#user-select").prop("selectedIndex", selectedIndex+1).change();
+										$("#button-previous").prop("disabled", false);
+									});
+							});
+						</script>
+					</div>
 				</div>
 			</div>
+			<div class="push"></div>
 		</div>
-
-		<div class="container">
-
-			<h1>About me and my PhD</h1>
-
-			<p>My name is José Devezas and I'm a PhD student at the Department of Computer Science of the Faculty of Sciences of the University of Porto. I am researching methodologies to improve music discovery, specially as a group activity, by taking into account the information given by the communities and social ties of the individuals that make the group.</p>
-
-			<p>In here, you will find any algorithms, tools or visualizations that I develop as part of my PhD project.</p>
-
-			<section id="visualizing-listening-behavior">
-				<h1>Visualizing Listening Behavior</h1>
-
-				Explore listening behavior by selecting a user:
-
-				<select id="user-select">
-					<optgroup label="Japan">
-						<option value="user_000001">User 1</option>
-					</optgroup>
-					<optgroup label="United States">
-						<option value="user_000003">User 3</option>
-					</optgroup>
-					<optgroup label="Poland">
-						<option value="user_000010">User 10</option>
-					</optgroup>
-				</select>
-				
-				<h2>Streamgraph for the User's Top 20 Overall Artists</h2>
-				<div id="stream-tooltip"></div>
-				<div id="stream-graph"></div>
-
-				<h2>Monthly Play Count for <span id="artist-name">Most Frequently Listened Artist</span><h2>
-				<div id="artist-tooltip"></div>
-				<div id="artist-chart"></div>
-			</section>
-		</div> <!-- /container -->
-
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="js/jquery-1.9.1.min.js"></script>
-		<script src="js/select2.min.js"></script>
-		<script src="js/d3.v3.min.js"></script>
-		<script src="js/jld.js"></script>
-		<script>
-			var vis = null;
-			var opt = {
-				streamgraph: "#stream-graph",
-				streamtooltip: "#stream-tooltip",
-				artistchart: "#artist-chart",
-				artisttooltip: "#artist-tooltip",
-				artistname: "#artist-name"
-			};
-
-			$("#user-select").select2({
-				width: 200
-			}).on("change", function(e) {
-				if (vis != null) vis.clear();
-
-				d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {
-					vis = new JldVisualization(data, opt);
-					vis.listeningBehaviorStreamGraph();
-					vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
-				});
-			});
-
-			d3.csv("data/user_000001_monthly_activity.csv", function(data) {
-				vis = new JldVisualization(data, opt);
-				vis.listeningBehaviorStreamGraph();
-				vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
-			});
-		</script>
-		<!--script src="js/bootstrap-transition.js"></script>
-		<script src="js/bootstrap-alert.js"></script>
-		<script src="js/bootstrap-modal.js"></script>
-		<script src="js/bootstrap-dropdown.js"></script>
-		<script src="js/bootstrap-scrollspy.js"></script>
-		<script src="js/bootstrap-tab.js"></script>
-		<script src="js/bootstrap-tooltip.js"></script>
-		<script src="js/bootstrap-popover.js"></script>
-		<script src="js/bootstrap-button.js"></script>
-		<script src="js/bootstrap-collapse.js"></script>
-		<script src="js/bootstrap-carousel.js"></script>
-		<script src="js/bootstrap-typeahead.js"></script-->
+		<footer>
+		<div class="ink-grid">
+			<p class="push-left small-100">Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto &amp; Laboratório SAPO/U.Porto</p>
+			<p class="push-right small-100">&copy; 2013 José Devezas</p>
+		</div>
+		</footer>
 	</body>
+
 </html>

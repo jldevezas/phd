@@ -1,0 +1,301 @@
+month,artist,plays
+2007-07,Alanis Morissette,0
+2007-07,Babasónicos,1
+2007-07,Björk,0
+2007-07,Black Rebel Motorcycle Club,0
+2007-07,Cat Power,0
+2007-07,Coldplay,70
+2007-07,Foo Fighters,0
+2007-07,Garbage,0
+2007-07,Incubus,0
+2007-07,Interpol,0
+2007-07,Kasabian,0
+2007-07,Kings Of Leon,0
+2007-07,Kinky,0
+2007-07,Los Bunkers,3
+2007-07,Muse,0
+2007-07,Nine Inch Nails,0
+2007-07,Oasis,18
+2007-07,Pearl Jam,0
+2007-07,The Strokes,0
+2007-07,Travis,0
+2007-08,Alanis Morissette,1
+2007-08,Babasónicos,1
+2007-08,Björk,24
+2007-08,Black Rebel Motorcycle Club,117
+2007-08,Cat Power,3
+2007-08,Coldplay,91
+2007-08,Foo Fighters,0
+2007-08,Garbage,71
+2007-08,Incubus,0
+2007-08,Interpol,118
+2007-08,Kasabian,1
+2007-08,Kings Of Leon,0
+2007-08,Kinky,1
+2007-08,Los Bunkers,13
+2007-08,Muse,3
+2007-08,Nine Inch Nails,56
+2007-08,Oasis,34
+2007-08,Pearl Jam,43
+2007-08,The Strokes,15
+2007-08,Travis,43
+2007-09,Alanis Morissette,18
+2007-09,Babasónicos,0
+2007-09,Björk,0
+2007-09,Black Rebel Motorcycle Club,60
+2007-09,Cat Power,12
+2007-09,Coldplay,0
+2007-09,Foo Fighters,1
+2007-09,Garbage,10
+2007-09,Incubus,10
+2007-09,Interpol,82
+2007-09,Kasabian,14
+2007-09,Kings Of Leon,0
+2007-09,Kinky,1
+2007-09,Los Bunkers,9
+2007-09,Muse,29
+2007-09,Nine Inch Nails,17
+2007-09,Oasis,0
+2007-09,Pearl Jam,1
+2007-09,The Strokes,15
+2007-09,Travis,35
+2007-10,Alanis Morissette,0
+2007-10,Babasónicos,0
+2007-10,Björk,0
+2007-10,Black Rebel Motorcycle Club,0
+2007-10,Cat Power,0
+2007-10,Coldplay,0
+2007-10,Foo Fighters,0
+2007-10,Garbage,0
+2007-10,Incubus,0
+2007-10,Interpol,0
+2007-10,Kasabian,0
+2007-10,Kings Of Leon,0
+2007-10,Kinky,0
+2007-10,Los Bunkers,0
+2007-10,Muse,0
+2007-10,Nine Inch Nails,0
+2007-10,Oasis,0
+2007-10,Pearl Jam,0
+2007-10,The Strokes,0
+2007-10,Travis,0
+2007-11,Alanis Morissette,0
+2007-11,Babasónicos,0
+2007-11,Björk,0
+2007-11,Black Rebel Motorcycle Club,0
+2007-11,Cat Power,0
+2007-11,Coldplay,0
+2007-11,Foo Fighters,0
+2007-11,Garbage,0
+2007-11,Incubus,0
+2007-11,Interpol,0
+2007-11,Kasabian,0
+2007-11,Kings Of Leon,0
+2007-11,Kinky,0
+2007-11,Los Bunkers,0
+2007-11,Muse,0
+2007-11,Nine Inch Nails,0
+2007-11,Oasis,12
+2007-11,Pearl Jam,1
+2007-11,The Strokes,0
+2007-11,Travis,0
+2007-12,Alanis Morissette,0
+2007-12,Babasónicos,0
+2007-12,Björk,0
+2007-12,Black Rebel Motorcycle Club,0
+2007-12,Cat Power,0
+2007-12,Coldplay,0
+2007-12,Foo Fighters,0
+2007-12,Garbage,0
+2007-12,Incubus,0
+2007-12,Interpol,0
+2007-12,Kasabian,0
+2007-12,Kings Of Leon,0
+2007-12,Kinky,0
+2007-12,Los Bunkers,0
+2007-12,Muse,0
+2007-12,Nine Inch Nails,0
+2007-12,Oasis,0
+2007-12,Pearl Jam,0
+2007-12,The Strokes,0
+2007-12,Travis,0
+2008-01,Alanis Morissette,0
+2008-01,Babasónicos,0
+2008-01,Björk,0
+2008-01,Black Rebel Motorcycle Club,0
+2008-01,Cat Power,0
+2008-01,Coldplay,0
+2008-01,Foo Fighters,0
+2008-01,Garbage,0
+2008-01,Incubus,0
+2008-01,Interpol,0
+2008-01,Kasabian,0
+2008-01,Kings Of Leon,0
+2008-01,Kinky,0
+2008-01,Los Bunkers,0
+2008-01,Muse,0
+2008-01,Nine Inch Nails,0
+2008-01,Oasis,0
+2008-01,Pearl Jam,0
+2008-01,The Strokes,0
+2008-01,Travis,0
+2008-02,Alanis Morissette,0
+2008-02,Babasónicos,0
+2008-02,Björk,0
+2008-02,Black Rebel Motorcycle Club,0
+2008-02,Cat Power,0
+2008-02,Coldplay,0
+2008-02,Foo Fighters,0
+2008-02,Garbage,0
+2008-02,Incubus,0
+2008-02,Interpol,0
+2008-02,Kasabian,0
+2008-02,Kings Of Leon,0
+2008-02,Kinky,0
+2008-02,Los Bunkers,0
+2008-02,Muse,0
+2008-02,Nine Inch Nails,0
+2008-02,Oasis,0
+2008-02,Pearl Jam,0
+2008-02,The Strokes,0
+2008-02,Travis,0
+2008-03,Alanis Morissette,5
+2008-03,Babasónicos,2
+2008-03,Björk,41
+2008-03,Black Rebel Motorcycle Club,3
+2008-03,Cat Power,2
+2008-03,Coldplay,42
+2008-03,Foo Fighters,8
+2008-03,Garbage,3
+2008-03,Incubus,4
+2008-03,Interpol,5
+2008-03,Kasabian,4
+2008-03,Kings Of Leon,3
+2008-03,Kinky,3
+2008-03,Los Bunkers,1
+2008-03,Muse,68
+2008-03,Nine Inch Nails,4
+2008-03,Oasis,20
+2008-03,Pearl Jam,6
+2008-03,The Strokes,3
+2008-03,Travis,34
+2008-04,Alanis Morissette,1
+2008-04,Babasónicos,1
+2008-04,Björk,4
+2008-04,Black Rebel Motorcycle Club,4
+2008-04,Cat Power,2
+2008-04,Coldplay,4
+2008-04,Foo Fighters,1
+2008-04,Garbage,5
+2008-04,Incubus,7
+2008-04,Interpol,5
+2008-04,Kasabian,1
+2008-04,Kings Of Leon,1
+2008-04,Kinky,2
+2008-04,Los Bunkers,4
+2008-04,Muse,9
+2008-04,Nine Inch Nails,2
+2008-04,Oasis,6
+2008-04,Pearl Jam,13
+2008-04,The Strokes,7
+2008-04,Travis,7
+2008-05,Alanis Morissette,0
+2008-05,Babasónicos,0
+2008-05,Björk,1
+2008-05,Black Rebel Motorcycle Club,2
+2008-05,Cat Power,0
+2008-05,Coldplay,7
+2008-05,Foo Fighters,1
+2008-05,Garbage,6
+2008-05,Incubus,0
+2008-05,Interpol,0
+2008-05,Kasabian,2
+2008-05,Kings Of Leon,1
+2008-05,Kinky,1
+2008-05,Los Bunkers,0
+2008-05,Muse,0
+2008-05,Nine Inch Nails,0
+2008-05,Oasis,0
+2008-05,Pearl Jam,1
+2008-05,The Strokes,1
+2008-05,Travis,0
+2008-06,Alanis Morissette,0
+2008-06,Babasónicos,0
+2008-06,Björk,0
+2008-06,Black Rebel Motorcycle Club,0
+2008-06,Cat Power,0
+2008-06,Coldplay,0
+2008-06,Foo Fighters,0
+2008-06,Garbage,0
+2008-06,Incubus,0
+2008-06,Interpol,0
+2008-06,Kasabian,0
+2008-06,Kings Of Leon,0
+2008-06,Kinky,0
+2008-06,Los Bunkers,0
+2008-06,Muse,0
+2008-06,Nine Inch Nails,0
+2008-06,Oasis,0
+2008-06,Pearl Jam,0
+2008-06,The Strokes,0
+2008-06,Travis,0
+2008-07,Alanis Morissette,2
+2008-07,Babasónicos,0
+2008-07,Björk,0
+2008-07,Black Rebel Motorcycle Club,27
+2008-07,Cat Power,1
+2008-07,Coldplay,7
+2008-07,Foo Fighters,1
+2008-07,Garbage,1
+2008-07,Incubus,1
+2008-07,Interpol,11
+2008-07,Kasabian,6
+2008-07,Kings Of Leon,5
+2008-07,Kinky,0
+2008-07,Los Bunkers,0
+2008-07,Muse,5
+2008-07,Nine Inch Nails,0
+2008-07,Oasis,7
+2008-07,Pearl Jam,1
+2008-07,The Strokes,7
+2008-07,Travis,4
+2008-08,Alanis Morissette,2
+2008-08,Babasónicos,1
+2008-08,Björk,25
+2008-08,Black Rebel Motorcycle Club,32
+2008-08,Cat Power,3
+2008-08,Coldplay,2
+2008-08,Foo Fighters,3
+2008-08,Garbage,6
+2008-08,Incubus,2
+2008-08,Interpol,61
+2008-08,Kasabian,17
+2008-08,Kings Of Leon,5
+2008-08,Kinky,2
+2008-08,Los Bunkers,6
+2008-08,Muse,33
+2008-08,Nine Inch Nails,2
+2008-08,Oasis,2
+2008-08,Pearl Jam,2
+2008-08,The Strokes,11
+2008-08,Travis,4
+2008-09,Alanis Morissette,3
+2008-09,Babasónicos,1
+2008-09,Björk,4
+2008-09,Black Rebel Motorcycle Club,33
+2008-09,Cat Power,6
+2008-09,Coldplay,22
+2008-09,Foo Fighters,21
+2008-09,Garbage,54
+2008-09,Incubus,1
+2008-09,Interpol,2
+2008-09,Kasabian,0
+2008-09,Kings Of Leon,1
+2008-09,Kinky,0
+2008-09,Los Bunkers,2
+2008-09,Muse,65
+2008-09,Nine Inch Nails,13
+2008-09,Oasis,3
+2008-09,Pearl Jam,0
+2008-09,The Strokes,3
+2008-09,Travis,2

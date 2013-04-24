@@ -1,0 +1,561 @@
+month,artist,plays
+2007-02,99 Posse,0
+2007-02,Afterhours,0
+2007-02,Amari,0
+2007-02,Arctic Monkeys,12
+2007-02,Bloc Party,0
+2007-02,Franz Ferdinand,0
+2007-02,Linea 77,0
+2007-02,Mika,0
+2007-02,Motel Connection,0
+2007-02,Muse,0
+2007-02,Pendulum,1
+2007-02,Queens Of The Stone Age,0
+2007-02,Radiohead,0
+2007-02,Sigur Rós,2
+2007-02,Subsonica,0
+2007-02,Sud Sound System,0
+2007-02,The Kooks,2
+2007-02,Tiromancino,0
+2007-02,Tre Allegri Ragazzi Morti,0
+2007-02,Verdena,1
+2007-03,99 Posse,0
+2007-03,Afterhours,0
+2007-03,Amari,0
+2007-03,Arctic Monkeys,0
+2007-03,Bloc Party,0
+2007-03,Franz Ferdinand,0
+2007-03,Linea 77,0
+2007-03,Mika,0
+2007-03,Motel Connection,0
+2007-03,Muse,0
+2007-03,Pendulum,0
+2007-03,Queens Of The Stone Age,0
+2007-03,Radiohead,0
+2007-03,Sigur Rós,2
+2007-03,Subsonica,0
+2007-03,Sud Sound System,0
+2007-03,The Kooks,0
+2007-03,Tiromancino,0
+2007-03,Tre Allegri Ragazzi Morti,0
+2007-03,Verdena,0
+2007-04,99 Posse,0
+2007-04,Afterhours,1
+2007-04,Amari,0
+2007-04,Arctic Monkeys,1
+2007-04,Bloc Party,1
+2007-04,Franz Ferdinand,0
+2007-04,Linea 77,0
+2007-04,Mika,1
+2007-04,Motel Connection,0
+2007-04,Muse,0
+2007-04,Pendulum,0
+2007-04,Queens Of The Stone Age,0
+2007-04,Radiohead,0
+2007-04,Sigur Rós,0
+2007-04,Subsonica,1
+2007-04,Sud Sound System,0
+2007-04,The Kooks,0
+2007-04,Tiromancino,0
+2007-04,Tre Allegri Ragazzi Morti,0
+2007-04,Verdena,0
+2007-05,99 Posse,1
+2007-05,Afterhours,0
+2007-05,Amari,13
+2007-05,Arctic Monkeys,17
+2007-05,Bloc Party,7
+2007-05,Franz Ferdinand,5
+2007-05,Linea 77,6
+2007-05,Mika,3
+2007-05,Motel Connection,14
+2007-05,Muse,4
+2007-05,Pendulum,4
+2007-05,Queens Of The Stone Age,0
+2007-05,Radiohead,4
+2007-05,Sigur Rós,1
+2007-05,Subsonica,9
+2007-05,Sud Sound System,2
+2007-05,The Kooks,3
+2007-05,Tiromancino,3
+2007-05,Tre Allegri Ragazzi Morti,15
+2007-05,Verdena,5
+2007-06,99 Posse,6
+2007-06,Afterhours,0
+2007-06,Amari,7
+2007-06,Arctic Monkeys,21
+2007-06,Bloc Party,23
+2007-06,Franz Ferdinand,8
+2007-06,Linea 77,9
+2007-06,Mika,6
+2007-06,Motel Connection,17
+2007-06,Muse,13
+2007-06,Pendulum,6
+2007-06,Queens Of The Stone Age,6
+2007-06,Radiohead,85
+2007-06,Sigur Rós,6
+2007-06,Subsonica,20
+2007-06,Sud Sound System,9
+2007-06,The Kooks,5
+2007-06,Tiromancino,5
+2007-06,Tre Allegri Ragazzi Morti,4
+2007-06,Verdena,44
+2007-07,99 Posse,6
+2007-07,Afterhours,0
+2007-07,Amari,100
+2007-07,Arctic Monkeys,20
+2007-07,Bloc Party,12
+2007-07,Franz Ferdinand,8
+2007-07,Linea 77,13
+2007-07,Mika,6
+2007-07,Motel Connection,13
+2007-07,Muse,15
+2007-07,Pendulum,5
+2007-07,Queens Of The Stone Age,13
+2007-07,Radiohead,48
+2007-07,Sigur Rós,5
+2007-07,Subsonica,22
+2007-07,Sud Sound System,4
+2007-07,The Kooks,7
+2007-07,Tiromancino,1
+2007-07,Tre Allegri Ragazzi Morti,7
+2007-07,Verdena,20
+2007-08,99 Posse,6
+2007-08,Afterhours,0
+2007-08,Amari,55
+2007-08,Arctic Monkeys,23
+2007-08,Bloc Party,19
+2007-08,Franz Ferdinand,11
+2007-08,Linea 77,1
+2007-08,Mika,5
+2007-08,Motel Connection,1
+2007-08,Muse,0
+2007-08,Pendulum,5
+2007-08,Queens Of The Stone Age,8
+2007-08,Radiohead,54
+2007-08,Sigur Rós,1
+2007-08,Subsonica,0
+2007-08,Sud Sound System,9
+2007-08,The Kooks,5
+2007-08,Tiromancino,5
+2007-08,Tre Allegri Ragazzi Morti,16
+2007-08,Verdena,30
+2007-09,99 Posse,5
+2007-09,Afterhours,0
+2007-09,Amari,47
+2007-09,Arctic Monkeys,20
+2007-09,Bloc Party,17
+2007-09,Franz Ferdinand,13
+2007-09,Linea 77,5
+2007-09,Mika,5
+2007-09,Motel Connection,11
+2007-09,Muse,24
+2007-09,Pendulum,8
+2007-09,Queens Of The Stone Age,8
+2007-09,Radiohead,56
+2007-09,Sigur Rós,4
+2007-09,Subsonica,14
+2007-09,Sud Sound System,2
+2007-09,The Kooks,18
+2007-09,Tiromancino,1
+2007-09,Tre Allegri Ragazzi Morti,19
+2007-09,Verdena,7
+2007-10,99 Posse,4
+2007-10,Afterhours,13
+2007-10,Amari,38
+2007-10,Arctic Monkeys,14
+2007-10,Bloc Party,19
+2007-10,Franz Ferdinand,14
+2007-10,Linea 77,3
+2007-10,Mika,3
+2007-10,Motel Connection,27
+2007-10,Muse,22
+2007-10,Pendulum,6
+2007-10,Queens Of The Stone Age,2
+2007-10,Radiohead,20
+2007-10,Sigur Rós,6
+2007-10,Subsonica,8
+2007-10,Sud Sound System,4
+2007-10,The Kooks,4
+2007-10,Tiromancino,4
+2007-10,Tre Allegri Ragazzi Morti,8
+2007-10,Verdena,17
+2007-11,99 Posse,3
+2007-11,Afterhours,20
+2007-11,Amari,80
+2007-11,Arctic Monkeys,14
+2007-11,Bloc Party,20
+2007-11,Franz Ferdinand,9
+2007-11,Linea 77,3
+2007-11,Mika,12
+2007-11,Motel Connection,21
+2007-11,Muse,59
+2007-11,Pendulum,7
+2007-11,Queens Of The Stone Age,0
+2007-11,Radiohead,60
+2007-11,Sigur Rós,9
+2007-11,Subsonica,3
+2007-11,Sud Sound System,3
+2007-11,The Kooks,5
+2007-11,Tiromancino,1
+2007-11,Tre Allegri Ragazzi Morti,17
+2007-11,Verdena,27
+2007-12,99 Posse,2
+2007-12,Afterhours,4
+2007-12,Amari,59
+2007-12,Arctic Monkeys,8
+2007-12,Bloc Party,10
+2007-12,Franz Ferdinand,13
+2007-12,Linea 77,0
+2007-12,Mika,4
+2007-12,Motel Connection,8
+2007-12,Muse,29
+2007-12,Pendulum,5
+2007-12,Queens Of The Stone Age,3
+2007-12,Radiohead,9
+2007-12,Sigur Rós,1
+2007-12,Subsonica,56
+2007-12,Sud Sound System,1
+2007-12,The Kooks,4
+2007-12,Tiromancino,1
+2007-12,Tre Allegri Ragazzi Morti,6
+2007-12,Verdena,12
+2008-01,99 Posse,12
+2008-01,Afterhours,16
+2008-01,Amari,24
+2008-01,Arctic Monkeys,10
+2008-01,Bloc Party,11
+2008-01,Franz Ferdinand,12
+2008-01,Linea 77,8
+2008-01,Mika,3
+2008-01,Motel Connection,30
+2008-01,Muse,33
+2008-01,Pendulum,10
+2008-01,Queens Of The Stone Age,10
+2008-01,Radiohead,22
+2008-01,Sigur Rós,4
+2008-01,Subsonica,48
+2008-01,Sud Sound System,7
+2008-01,The Kooks,5
+2008-01,Tiromancino,3
+2008-01,Tre Allegri Ragazzi Morti,13
+2008-01,Verdena,25
+2008-02,99 Posse,4
+2008-02,Afterhours,10
+2008-02,Amari,29
+2008-02,Arctic Monkeys,12
+2008-02,Bloc Party,7
+2008-02,Franz Ferdinand,11
+2008-02,Linea 77,12
+2008-02,Mika,5
+2008-02,Motel Connection,20
+2008-02,Muse,44
+2008-02,Pendulum,5
+2008-02,Queens Of The Stone Age,4
+2008-02,Radiohead,10
+2008-02,Sigur Rós,11
+2008-02,Subsonica,16
+2008-02,Sud Sound System,8
+2008-02,The Kooks,5
+2008-02,Tiromancino,4
+2008-02,Tre Allegri Ragazzi Morti,5
+2008-02,Verdena,41
+2008-03,99 Posse,2
+2008-03,Afterhours,7
+2008-03,Amari,14
+2008-03,Arctic Monkeys,4
+2008-03,Bloc Party,6
+2008-03,Franz Ferdinand,7
+2008-03,Linea 77,6
+2008-03,Mika,6
+2008-03,Motel Connection,7
+2008-03,Muse,9
+2008-03,Pendulum,1
+2008-03,Queens Of The Stone Age,5
+2008-03,Radiohead,6
+2008-03,Sigur Rós,1
+2008-03,Subsonica,7
+2008-03,Sud Sound System,1
+2008-03,The Kooks,2
+2008-03,Tiromancino,8
+2008-03,Tre Allegri Ragazzi Morti,5
+2008-03,Verdena,15
+2008-04,99 Posse,4
+2008-04,Afterhours,10
+2008-04,Amari,14
+2008-04,Arctic Monkeys,7
+2008-04,Bloc Party,2
+2008-04,Franz Ferdinand,8
+2008-04,Linea 77,12
+2008-04,Mika,3
+2008-04,Motel Connection,8
+2008-04,Muse,11
+2008-04,Pendulum,1
+2008-04,Queens Of The Stone Age,2
+2008-04,Radiohead,12
+2008-04,Sigur Rós,2
+2008-04,Subsonica,24
+2008-04,Sud Sound System,2
+2008-04,The Kooks,6
+2008-04,Tiromancino,6
+2008-04,Tre Allegri Ragazzi Morti,20
+2008-04,Verdena,16
+2008-05,99 Posse,4
+2008-05,Afterhours,33
+2008-05,Amari,12
+2008-05,Arctic Monkeys,6
+2008-05,Bloc Party,6
+2008-05,Franz Ferdinand,3
+2008-05,Linea 77,2
+2008-05,Mika,1
+2008-05,Motel Connection,6
+2008-05,Muse,8
+2008-05,Pendulum,0
+2008-05,Queens Of The Stone Age,2
+2008-05,Radiohead,6
+2008-05,Sigur Rós,0
+2008-05,Subsonica,7
+2008-05,Sud Sound System,2
+2008-05,The Kooks,0
+2008-05,Tiromancino,4
+2008-05,Tre Allegri Ragazzi Morti,6
+2008-05,Verdena,4
+2008-06,99 Posse,2
+2008-06,Afterhours,16
+2008-06,Amari,22
+2008-06,Arctic Monkeys,3
+2008-06,Bloc Party,2
+2008-06,Franz Ferdinand,5
+2008-06,Linea 77,2
+2008-06,Mika,2
+2008-06,Motel Connection,2
+2008-06,Muse,6
+2008-06,Pendulum,4
+2008-06,Queens Of The Stone Age,3
+2008-06,Radiohead,7
+2008-06,Sigur Rós,1
+2008-06,Subsonica,6
+2008-06,Sud Sound System,1
+2008-06,The Kooks,7
+2008-06,Tiromancino,2
+2008-06,Tre Allegri Ragazzi Morti,5
+2008-06,Verdena,4
+2008-07,99 Posse,2
+2008-07,Afterhours,5
+2008-07,Amari,3
+2008-07,Arctic Monkeys,2
+2008-07,Bloc Party,2
+2008-07,Franz Ferdinand,6
+2008-07,Linea 77,1
+2008-07,Mika,1
+2008-07,Motel Connection,5
+2008-07,Muse,11
+2008-07,Pendulum,2
+2008-07,Queens Of The Stone Age,2
+2008-07,Radiohead,35
+2008-07,Sigur Rós,1
+2008-07,Subsonica,8
+2008-07,Sud Sound System,2
+2008-07,The Kooks,7
+2008-07,Tiromancino,2
+2008-07,Tre Allegri Ragazzi Morti,5
+2008-07,Verdena,8
+2008-08,99 Posse,2
+2008-08,Afterhours,6
+2008-08,Amari,14
+2008-08,Arctic Monkeys,0
+2008-08,Bloc Party,10
+2008-08,Franz Ferdinand,1
+2008-08,Linea 77,1
+2008-08,Mika,1
+2008-08,Motel Connection,2
+2008-08,Muse,9
+2008-08,Pendulum,2
+2008-08,Queens Of The Stone Age,2
+2008-08,Radiohead,9
+2008-08,Sigur Rós,0
+2008-08,Subsonica,3
+2008-08,Sud Sound System,1
+2008-08,The Kooks,1
+2008-08,Tiromancino,8
+2008-08,Tre Allegri Ragazzi Morti,3
+2008-08,Verdena,4
+2008-09,99 Posse,1
+2008-09,Afterhours,13
+2008-09,Amari,27
+2008-09,Arctic Monkeys,6
+2008-09,Bloc Party,20
+2008-09,Franz Ferdinand,4
+2008-09,Linea 77,6
+2008-09,Mika,6
+2008-09,Motel Connection,8
+2008-09,Muse,11
+2008-09,Pendulum,3
+2008-09,Queens Of The Stone Age,11
+2008-09,Radiohead,27
+2008-09,Sigur Rós,3
+2008-09,Subsonica,13
+2008-09,Sud Sound System,2
+2008-09,The Kooks,2
+2008-09,Tiromancino,4
+2008-09,Tre Allegri Ragazzi Morti,36
+2008-09,Verdena,12
+2008-10,99 Posse,1
+2008-10,Afterhours,11
+2008-10,Amari,14
+2008-10,Arctic Monkeys,10
+2008-10,Bloc Party,14
+2008-10,Franz Ferdinand,7
+2008-10,Linea 77,11
+2008-10,Mika,2
+2008-10,Motel Connection,10
+2008-10,Muse,6
+2008-10,Pendulum,1
+2008-10,Queens Of The Stone Age,3
+2008-10,Radiohead,9
+2008-10,Sigur Rós,5
+2008-10,Subsonica,7
+2008-10,Sud Sound System,2
+2008-10,The Kooks,2
+2008-10,Tiromancino,2
+2008-10,Tre Allegri Ragazzi Morti,6
+2008-10,Verdena,7
+2008-11,99 Posse,2
+2008-11,Afterhours,5
+2008-11,Amari,14
+2008-11,Arctic Monkeys,5
+2008-11,Bloc Party,7
+2008-11,Franz Ferdinand,5
+2008-11,Linea 77,7
+2008-11,Mika,3
+2008-11,Motel Connection,5
+2008-11,Muse,12
+2008-11,Pendulum,2
+2008-11,Queens Of The Stone Age,3
+2008-11,Radiohead,11
+2008-11,Sigur Rós,1
+2008-11,Subsonica,11
+2008-11,Sud Sound System,3
+2008-11,The Kooks,1
+2008-11,Tiromancino,6
+2008-11,Tre Allegri Ragazzi Morti,10
+2008-11,Verdena,8
+2008-12,99 Posse,1
+2008-12,Afterhours,7
+2008-12,Amari,21
+2008-12,Arctic Monkeys,4
+2008-12,Bloc Party,4
+2008-12,Franz Ferdinand,12
+2008-12,Linea 77,8
+2008-12,Mika,3
+2008-12,Motel Connection,3
+2008-12,Muse,6
+2008-12,Pendulum,2
+2008-12,Queens Of The Stone Age,1
+2008-12,Radiohead,6
+2008-12,Sigur Rós,4
+2008-12,Subsonica,15
+2008-12,Sud Sound System,2
+2008-12,The Kooks,3
+2008-12,Tiromancino,2
+2008-12,Tre Allegri Ragazzi Morti,12
+2008-12,Verdena,4
+2009-01,99 Posse,0
+2009-01,Afterhours,2
+2009-01,Amari,5
+2009-01,Arctic Monkeys,2
+2009-01,Bloc Party,2
+2009-01,Franz Ferdinand,3
+2009-01,Linea 77,1
+2009-01,Mika,1
+2009-01,Motel Connection,1
+2009-01,Muse,5
+2009-01,Pendulum,0
+2009-01,Queens Of The Stone Age,2
+2009-01,Radiohead,1
+2009-01,Sigur Rós,0
+2009-01,Subsonica,2
+2009-01,Sud Sound System,0
+2009-01,The Kooks,1
+2009-01,Tiromancino,1
+2009-01,Tre Allegri Ragazzi Morti,4
+2009-01,Verdena,0
+2009-02,99 Posse,1
+2009-02,Afterhours,2
+2009-02,Amari,11
+2009-02,Arctic Monkeys,0
+2009-02,Bloc Party,0
+2009-02,Franz Ferdinand,1
+2009-02,Linea 77,2
+2009-02,Mika,0
+2009-02,Motel Connection,1
+2009-02,Muse,1
+2009-02,Pendulum,0
+2009-02,Queens Of The Stone Age,1
+2009-02,Radiohead,1
+2009-02,Sigur Rós,0
+2009-02,Subsonica,2
+2009-02,Sud Sound System,0
+2009-02,The Kooks,1
+2009-02,Tiromancino,1
+2009-02,Tre Allegri Ragazzi Morti,3
+2009-02,Verdena,5
+2009-03,99 Posse,2
+2009-03,Afterhours,1
+2009-03,Amari,1
+2009-03,Arctic Monkeys,0
+2009-03,Bloc Party,0
+2009-03,Franz Ferdinand,1
+2009-03,Linea 77,1
+2009-03,Mika,0
+2009-03,Motel Connection,1
+2009-03,Muse,1
+2009-03,Pendulum,0
+2009-03,Queens Of The Stone Age,1
+2009-03,Radiohead,0
+2009-03,Sigur Rós,1
+2009-03,Subsonica,0
+2009-03,Sud Sound System,0
+2009-03,The Kooks,0
+2009-03,Tiromancino,0
+2009-03,Tre Allegri Ragazzi Morti,1
+2009-03,Verdena,1
+2009-04,99 Posse,2
+2009-04,Afterhours,5
+2009-04,Amari,6
+2009-04,Arctic Monkeys,0
+2009-04,Bloc Party,2
+2009-04,Franz Ferdinand,15
+2009-04,Linea 77,0
+2009-04,Mika,2
+2009-04,Motel Connection,2
+2009-04,Muse,4
+2009-04,Pendulum,1
+2009-04,Queens Of The Stone Age,0
+2009-04,Radiohead,1
+2009-04,Sigur Rós,0
+2009-04,Subsonica,4
+2009-04,Sud Sound System,1
+2009-04,The Kooks,0
+2009-04,Tiromancino,2
+2009-04,Tre Allegri Ragazzi Morti,4
+2009-04,Verdena,4
+2009-05,99 Posse,0
+2009-05,Afterhours,4
+2009-05,Amari,0
+2009-05,Arctic Monkeys,0
+2009-05,Bloc Party,0
+2009-05,Franz Ferdinand,0
+2009-05,Linea 77,2
+2009-05,Mika,0
+2009-05,Motel Connection,1
+2009-05,Muse,0
+2009-05,Pendulum,0
+2009-05,Queens Of The Stone Age,0
+2009-05,Radiohead,2
+2009-05,Sigur Rós,1
+2009-05,Subsonica,0
+2009-05,Sud Sound System,0
+2009-05,The Kooks,0
+2009-05,Tiromancino,0
+2009-05,Tre Allegri Ragazzi Morti,0
+2009-05,Verdena,0

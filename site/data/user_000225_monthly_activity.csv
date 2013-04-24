@@ -1,0 +1,481 @@
+month,artist,plays
+2007-04,A-Ha,0
+2007-04,Air,0
+2007-04,Björk,0
+2007-04,Boy Division,0
+2007-04,Camouflage,0
+2007-04,Coldplay,0
+2007-04,Dave Gahan,1
+2007-04,Depeche Mode,7
+2007-04,Eurythmics,0
+2007-04,Feist,2
+2007-04,Incubus,0
+2007-04,Joy Division,0
+2007-04,Martin L. Gore,0
+2007-04,Massive Attack,3
+2007-04,Recoil,0
+2007-04,Red Hot Chili Peppers,0
+2007-04,Röyksopp,0
+2007-04,Sigur Rós,2
+2007-04,The Cure,0
+2007-04,Tori Amos,0
+2007-05,A-Ha,12
+2007-05,Air,0
+2007-05,Björk,1
+2007-05,Boy Division,0
+2007-05,Camouflage,0
+2007-05,Coldplay,27
+2007-05,Dave Gahan,46
+2007-05,Depeche Mode,418
+2007-05,Eurythmics,0
+2007-05,Feist,3
+2007-05,Incubus,12
+2007-05,Joy Division,0
+2007-05,Martin L. Gore,120
+2007-05,Massive Attack,57
+2007-05,Recoil,0
+2007-05,Red Hot Chili Peppers,3
+2007-05,Röyksopp,2
+2007-05,Sigur Rós,4
+2007-05,The Cure,0
+2007-05,Tori Amos,2
+2007-06,A-Ha,0
+2007-06,Air,0
+2007-06,Björk,0
+2007-06,Boy Division,0
+2007-06,Camouflage,0
+2007-06,Coldplay,27
+2007-06,Dave Gahan,5
+2007-06,Depeche Mode,234
+2007-06,Eurythmics,0
+2007-06,Feist,0
+2007-06,Incubus,2
+2007-06,Joy Division,0
+2007-06,Martin L. Gore,161
+2007-06,Massive Attack,8
+2007-06,Recoil,0
+2007-06,Red Hot Chili Peppers,1
+2007-06,Röyksopp,3
+2007-06,Sigur Rós,0
+2007-06,The Cure,0
+2007-06,Tori Amos,0
+2007-07,A-Ha,1
+2007-07,Air,0
+2007-07,Björk,2
+2007-07,Boy Division,0
+2007-07,Camouflage,0
+2007-07,Coldplay,0
+2007-07,Dave Gahan,1
+2007-07,Depeche Mode,233
+2007-07,Eurythmics,0
+2007-07,Feist,2
+2007-07,Incubus,2
+2007-07,Joy Division,0
+2007-07,Martin L. Gore,58
+2007-07,Massive Attack,18
+2007-07,Recoil,0
+2007-07,Red Hot Chili Peppers,7
+2007-07,Röyksopp,0
+2007-07,Sigur Rós,0
+2007-07,The Cure,0
+2007-07,Tori Amos,0
+2007-08,A-Ha,4
+2007-08,Air,0
+2007-08,Björk,14
+2007-08,Boy Division,2
+2007-08,Camouflage,28
+2007-08,Coldplay,57
+2007-08,Dave Gahan,23
+2007-08,Depeche Mode,161
+2007-08,Eurythmics,0
+2007-08,Feist,0
+2007-08,Incubus,0
+2007-08,Joy Division,1
+2007-08,Martin L. Gore,83
+2007-08,Massive Attack,0
+2007-08,Recoil,0
+2007-08,Red Hot Chili Peppers,6
+2007-08,Röyksopp,0
+2007-08,Sigur Rós,1
+2007-08,The Cure,0
+2007-08,Tori Amos,0
+2007-09,A-Ha,0
+2007-09,Air,0
+2007-09,Björk,8
+2007-09,Boy Division,0
+2007-09,Camouflage,12
+2007-09,Coldplay,35
+2007-09,Dave Gahan,42
+2007-09,Depeche Mode,111
+2007-09,Eurythmics,0
+2007-09,Feist,3
+2007-09,Incubus,0
+2007-09,Joy Division,0
+2007-09,Martin L. Gore,22
+2007-09,Massive Attack,11
+2007-09,Recoil,0
+2007-09,Red Hot Chili Peppers,0
+2007-09,Röyksopp,0
+2007-09,Sigur Rós,0
+2007-09,The Cure,0
+2007-09,Tori Amos,0
+2007-10,A-Ha,0
+2007-10,Air,0
+2007-10,Björk,2
+2007-10,Boy Division,0
+2007-10,Camouflage,0
+2007-10,Coldplay,0
+2007-10,Dave Gahan,56
+2007-10,Depeche Mode,86
+2007-10,Eurythmics,0
+2007-10,Feist,5
+2007-10,Incubus,0
+2007-10,Joy Division,0
+2007-10,Martin L. Gore,22
+2007-10,Massive Attack,0
+2007-10,Recoil,0
+2007-10,Red Hot Chili Peppers,1
+2007-10,Röyksopp,0
+2007-10,Sigur Rós,18
+2007-10,The Cure,0
+2007-10,Tori Amos,0
+2007-11,A-Ha,0
+2007-11,Air,0
+2007-11,Björk,9
+2007-11,Boy Division,0
+2007-11,Camouflage,0
+2007-11,Coldplay,6
+2007-11,Dave Gahan,4
+2007-11,Depeche Mode,23
+2007-11,Eurythmics,0
+2007-11,Feist,0
+2007-11,Incubus,0
+2007-11,Joy Division,0
+2007-11,Martin L. Gore,21
+2007-11,Massive Attack,0
+2007-11,Recoil,0
+2007-11,Red Hot Chili Peppers,0
+2007-11,Röyksopp,0
+2007-11,Sigur Rós,3
+2007-11,The Cure,0
+2007-11,Tori Amos,0
+2007-12,A-Ha,3
+2007-12,Air,0
+2007-12,Björk,2
+2007-12,Boy Division,0
+2007-12,Camouflage,0
+2007-12,Coldplay,0
+2007-12,Dave Gahan,0
+2007-12,Depeche Mode,74
+2007-12,Eurythmics,0
+2007-12,Feist,0
+2007-12,Incubus,4
+2007-12,Joy Division,0
+2007-12,Martin L. Gore,45
+2007-12,Massive Attack,4
+2007-12,Recoil,0
+2007-12,Red Hot Chili Peppers,1
+2007-12,Röyksopp,1
+2007-12,Sigur Rós,2
+2007-12,The Cure,0
+2007-12,Tori Amos,0
+2008-01,A-Ha,0
+2008-01,Air,0
+2008-01,Björk,0
+2008-01,Boy Division,0
+2008-01,Camouflage,0
+2008-01,Coldplay,0
+2008-01,Dave Gahan,0
+2008-01,Depeche Mode,69
+2008-01,Eurythmics,0
+2008-01,Feist,0
+2008-01,Incubus,0
+2008-01,Joy Division,0
+2008-01,Martin L. Gore,0
+2008-01,Massive Attack,0
+2008-01,Recoil,0
+2008-01,Red Hot Chili Peppers,0
+2008-01,Röyksopp,3
+2008-01,Sigur Rós,0
+2008-01,The Cure,0
+2008-01,Tori Amos,0
+2008-02,A-Ha,0
+2008-02,Air,0
+2008-02,Björk,0
+2008-02,Boy Division,1
+2008-02,Camouflage,0
+2008-02,Coldplay,0
+2008-02,Dave Gahan,8
+2008-02,Depeche Mode,69
+2008-02,Eurythmics,0
+2008-02,Feist,0
+2008-02,Incubus,0
+2008-02,Joy Division,6
+2008-02,Martin L. Gore,16
+2008-02,Massive Attack,0
+2008-02,Recoil,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,Röyksopp,0
+2008-02,Sigur Rós,1
+2008-02,The Cure,0
+2008-02,Tori Amos,0
+2008-03,A-Ha,0
+2008-03,Air,0
+2008-03,Björk,0
+2008-03,Boy Division,0
+2008-03,Camouflage,0
+2008-03,Coldplay,0
+2008-03,Dave Gahan,0
+2008-03,Depeche Mode,1
+2008-03,Eurythmics,0
+2008-03,Feist,0
+2008-03,Incubus,0
+2008-03,Joy Division,0
+2008-03,Martin L. Gore,0
+2008-03,Massive Attack,0
+2008-03,Recoil,0
+2008-03,Red Hot Chili Peppers,0
+2008-03,Röyksopp,0
+2008-03,Sigur Rós,0
+2008-03,The Cure,0
+2008-03,Tori Amos,0
+2008-04,A-Ha,0
+2008-04,Air,0
+2008-04,Björk,0
+2008-04,Boy Division,0
+2008-04,Camouflage,0
+2008-04,Coldplay,0
+2008-04,Dave Gahan,0
+2008-04,Depeche Mode,8
+2008-04,Eurythmics,0
+2008-04,Feist,0
+2008-04,Incubus,0
+2008-04,Joy Division,1
+2008-04,Martin L. Gore,1
+2008-04,Massive Attack,0
+2008-04,Recoil,6
+2008-04,Red Hot Chili Peppers,0
+2008-04,Röyksopp,0
+2008-04,Sigur Rós,0
+2008-04,The Cure,9
+2008-04,Tori Amos,3
+2008-05,A-Ha,1
+2008-05,Air,0
+2008-05,Björk,1
+2008-05,Boy Division,0
+2008-05,Camouflage,4
+2008-05,Coldplay,1
+2008-05,Dave Gahan,0
+2008-05,Depeche Mode,35
+2008-05,Eurythmics,3
+2008-05,Feist,2
+2008-05,Incubus,1
+2008-05,Joy Division,0
+2008-05,Martin L. Gore,6
+2008-05,Massive Attack,10
+2008-05,Recoil,10
+2008-05,Red Hot Chili Peppers,0
+2008-05,Röyksopp,0
+2008-05,Sigur Rós,0
+2008-05,The Cure,9
+2008-05,Tori Amos,5
+2008-06,A-Ha,0
+2008-06,Air,0
+2008-06,Björk,0
+2008-06,Boy Division,2
+2008-06,Camouflage,2
+2008-06,Coldplay,0
+2008-06,Dave Gahan,0
+2008-06,Depeche Mode,79
+2008-06,Eurythmics,4
+2008-06,Feist,0
+2008-06,Incubus,0
+2008-06,Joy Division,6
+2008-06,Martin L. Gore,2
+2008-06,Massive Attack,0
+2008-06,Recoil,30
+2008-06,Red Hot Chili Peppers,0
+2008-06,Röyksopp,0
+2008-06,Sigur Rós,0
+2008-06,The Cure,3
+2008-06,Tori Amos,2
+2008-07,A-Ha,3
+2008-07,Air,34
+2008-07,Björk,25
+2008-07,Boy Division,3
+2008-07,Camouflage,2
+2008-07,Coldplay,33
+2008-07,Dave Gahan,0
+2008-07,Depeche Mode,260
+2008-07,Eurythmics,6
+2008-07,Feist,0
+2008-07,Incubus,1
+2008-07,Joy Division,7
+2008-07,Martin L. Gore,4
+2008-07,Massive Attack,24
+2008-07,Recoil,29
+2008-07,Red Hot Chili Peppers,0
+2008-07,Röyksopp,1
+2008-07,Sigur Rós,0
+2008-07,The Cure,20
+2008-07,Tori Amos,2
+2008-08,A-Ha,0
+2008-08,Air,16
+2008-08,Björk,5
+2008-08,Boy Division,3
+2008-08,Camouflage,1
+2008-08,Coldplay,14
+2008-08,Dave Gahan,0
+2008-08,Depeche Mode,254
+2008-08,Eurythmics,2
+2008-08,Feist,0
+2008-08,Incubus,0
+2008-08,Joy Division,7
+2008-08,Martin L. Gore,1
+2008-08,Massive Attack,2
+2008-08,Recoil,25
+2008-08,Red Hot Chili Peppers,0
+2008-08,Röyksopp,0
+2008-08,Sigur Rós,12
+2008-08,The Cure,0
+2008-08,Tori Amos,0
+2008-09,A-Ha,0
+2008-09,Air,0
+2008-09,Björk,0
+2008-09,Boy Division,0
+2008-09,Camouflage,0
+2008-09,Coldplay,0
+2008-09,Dave Gahan,0
+2008-09,Depeche Mode,0
+2008-09,Eurythmics,0
+2008-09,Feist,0
+2008-09,Incubus,0
+2008-09,Joy Division,0
+2008-09,Martin L. Gore,0
+2008-09,Massive Attack,0
+2008-09,Recoil,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,Röyksopp,0
+2008-09,Sigur Rós,0
+2008-09,The Cure,0
+2008-09,Tori Amos,0
+2008-10,A-Ha,0
+2008-10,Air,0
+2008-10,Björk,0
+2008-10,Boy Division,0
+2008-10,Camouflage,0
+2008-10,Coldplay,0
+2008-10,Dave Gahan,0
+2008-10,Depeche Mode,0
+2008-10,Eurythmics,0
+2008-10,Feist,0
+2008-10,Incubus,0
+2008-10,Joy Division,0
+2008-10,Martin L. Gore,0
+2008-10,Massive Attack,0
+2008-10,Recoil,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Röyksopp,0
+2008-10,Sigur Rós,0
+2008-10,The Cure,0
+2008-10,Tori Amos,0
+2008-11,A-Ha,0
+2008-11,Air,0
+2008-11,Björk,0
+2008-11,Boy Division,0
+2008-11,Camouflage,0
+2008-11,Coldplay,0
+2008-11,Dave Gahan,0
+2008-11,Depeche Mode,0
+2008-11,Eurythmics,0
+2008-11,Feist,0
+2008-11,Incubus,0
+2008-11,Joy Division,0
+2008-11,Martin L. Gore,0
+2008-11,Massive Attack,0
+2008-11,Recoil,0
+2008-11,Red Hot Chili Peppers,0
+2008-11,Röyksopp,0
+2008-11,Sigur Rós,0
+2008-11,The Cure,0
+2008-11,Tori Amos,0
+2008-12,A-Ha,0
+2008-12,Air,11
+2008-12,Björk,3
+2008-12,Boy Division,0
+2008-12,Camouflage,0
+2008-12,Coldplay,0
+2008-12,Dave Gahan,0
+2008-12,Depeche Mode,70
+2008-12,Eurythmics,2
+2008-12,Feist,0
+2008-12,Incubus,0
+2008-12,Joy Division,2
+2008-12,Martin L. Gore,1
+2008-12,Massive Attack,6
+2008-12,Recoil,13
+2008-12,Red Hot Chili Peppers,0
+2008-12,Röyksopp,0
+2008-12,Sigur Rós,1
+2008-12,The Cure,67
+2008-12,Tori Amos,6
+2009-01,A-Ha,0
+2009-01,Air,0
+2009-01,Björk,8
+2009-01,Boy Division,2
+2009-01,Camouflage,0
+2009-01,Coldplay,23
+2009-01,Dave Gahan,0
+2009-01,Depeche Mode,31
+2009-01,Eurythmics,4
+2009-01,Feist,0
+2009-01,Incubus,1
+2009-01,Joy Division,2
+2009-01,Martin L. Gore,0
+2009-01,Massive Attack,0
+2009-01,Recoil,1
+2009-01,Red Hot Chili Peppers,0
+2009-01,Röyksopp,0
+2009-01,Sigur Rós,4
+2009-01,The Cure,62
+2009-01,Tori Amos,0
+2009-02,A-Ha,0
+2009-02,Air,21
+2009-02,Björk,0
+2009-02,Boy Division,0
+2009-02,Camouflage,0
+2009-02,Coldplay,17
+2009-02,Dave Gahan,0
+2009-02,Depeche Mode,37
+2009-02,Eurythmics,0
+2009-02,Feist,0
+2009-02,Incubus,1
+2009-02,Joy Division,3
+2009-02,Martin L. Gore,0
+2009-02,Massive Attack,6
+2009-02,Recoil,1
+2009-02,Red Hot Chili Peppers,0
+2009-02,Röyksopp,3
+2009-02,Sigur Rós,0
+2009-02,The Cure,0
+2009-02,Tori Amos,5
+2009-03,A-Ha,0
+2009-03,Air,22
+2009-03,Björk,0
+2009-03,Boy Division,2
+2009-03,Camouflage,0
+2009-03,Coldplay,0
+2009-03,Dave Gahan,0
+2009-03,Depeche Mode,47
+2009-03,Eurythmics,0
+2009-03,Feist,0
+2009-03,Incubus,0
+2009-03,Joy Division,0
+2009-03,Martin L. Gore,0
+2009-03,Massive Attack,3
+2009-03,Recoil,0
+2009-03,Red Hot Chili Peppers,0
+2009-03,Röyksopp,4
+2009-03,Sigur Rós,0
+2009-03,The Cure,1
+2009-03,Tori Amos,0

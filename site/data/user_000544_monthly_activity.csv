@@ -1,0 +1,701 @@
+month,artist,plays
+2006-07,Air,11
+2006-07,Beck,15
+2006-07,Belle And Sebastian,5
+2006-07,Beth Orton,17
+2006-07,Coldplay,1
+2006-07,Death Cab For Cutie,4
+2006-07,Deltron 3030,5
+2006-07,Doves,7
+2006-07,Eels,29
+2006-07,Esthero,4
+2006-07,Feist,5
+2006-07,Gnarls Barkley,2
+2006-07,Imogen Heap,4
+2006-07,Jeff Buckley,6
+2006-07,Kate Havnevik,1
+2006-07,Maritime,5
+2006-07,Matisyahu,3
+2006-07,Metric,4
+2006-07,Mike Doughty,9
+2006-07,Morcheeba,9
+2006-08,Air,51
+2006-08,Beck,31
+2006-08,Belle And Sebastian,57
+2006-08,Beth Orton,68
+2006-08,Coldplay,6
+2006-08,Death Cab For Cutie,29
+2006-08,Deltron 3030,8
+2006-08,Doves,31
+2006-08,Eels,125
+2006-08,Esthero,7
+2006-08,Feist,49
+2006-08,Gnarls Barkley,38
+2006-08,Imogen Heap,150
+2006-08,Jeff Buckley,12
+2006-08,Kate Havnevik,18
+2006-08,Maritime,35
+2006-08,Matisyahu,14
+2006-08,Metric,18
+2006-08,Mike Doughty,33
+2006-08,Morcheeba,39
+2006-09,Air,12
+2006-09,Beck,16
+2006-09,Belle And Sebastian,28
+2006-09,Beth Orton,11
+2006-09,Coldplay,2
+2006-09,Death Cab For Cutie,2
+2006-09,Deltron 3030,2
+2006-09,Doves,8
+2006-09,Eels,32
+2006-09,Esthero,6
+2006-09,Feist,4
+2006-09,Gnarls Barkley,4
+2006-09,Imogen Heap,11
+2006-09,Jeff Buckley,13
+2006-09,Kate Havnevik,4
+2006-09,Maritime,19
+2006-09,Matisyahu,6
+2006-09,Metric,7
+2006-09,Mike Doughty,12
+2006-09,Morcheeba,11
+2006-10,Air,16
+2006-10,Beck,16
+2006-10,Belle And Sebastian,45
+2006-10,Beth Orton,53
+2006-10,Coldplay,5
+2006-10,Death Cab For Cutie,17
+2006-10,Deltron 3030,6
+2006-10,Doves,12
+2006-10,Eels,67
+2006-10,Esthero,3
+2006-10,Feist,25
+2006-10,Gnarls Barkley,30
+2006-10,Imogen Heap,41
+2006-10,Jeff Buckley,11
+2006-10,Kate Havnevik,19
+2006-10,Maritime,24
+2006-10,Matisyahu,4
+2006-10,Metric,8
+2006-10,Mike Doughty,12
+2006-10,Morcheeba,12
+2006-11,Air,10
+2006-11,Beck,27
+2006-11,Belle And Sebastian,21
+2006-11,Beth Orton,17
+2006-11,Coldplay,2
+2006-11,Death Cab For Cutie,5
+2006-11,Deltron 3030,2
+2006-11,Doves,8
+2006-11,Eels,32
+2006-11,Esthero,3
+2006-11,Feist,7
+2006-11,Gnarls Barkley,7
+2006-11,Imogen Heap,12
+2006-11,Jeff Buckley,10
+2006-11,Kate Havnevik,2
+2006-11,Maritime,8
+2006-11,Matisyahu,2
+2006-11,Metric,6
+2006-11,Mike Doughty,5
+2006-11,Morcheeba,13
+2006-12,Air,8
+2006-12,Beck,13
+2006-12,Belle And Sebastian,16
+2006-12,Beth Orton,18
+2006-12,Coldplay,8
+2006-12,Death Cab For Cutie,8
+2006-12,Deltron 3030,4
+2006-12,Doves,7
+2006-12,Eels,30
+2006-12,Esthero,2
+2006-12,Feist,9
+2006-12,Gnarls Barkley,8
+2006-12,Imogen Heap,15
+2006-12,Jeff Buckley,12
+2006-12,Kate Havnevik,9
+2006-12,Maritime,6
+2006-12,Matisyahu,3
+2006-12,Metric,10
+2006-12,Mike Doughty,11
+2006-12,Morcheeba,7
+2007-01,Air,57
+2007-01,Beck,138
+2007-01,Belle And Sebastian,188
+2007-01,Beth Orton,104
+2007-01,Coldplay,54
+2007-01,Death Cab For Cutie,72
+2007-01,Deltron 3030,11
+2007-01,Doves,47
+2007-01,Eels,234
+2007-01,Esthero,23
+2007-01,Feist,49
+2007-01,Gnarls Barkley,49
+2007-01,Imogen Heap,99
+2007-01,Jeff Buckley,52
+2007-01,Kate Havnevik,34
+2007-01,Maritime,49
+2007-01,Matisyahu,41
+2007-01,Metric,59
+2007-01,Mike Doughty,47
+2007-01,Morcheeba,52
+2007-02,Air,60
+2007-02,Beck,99
+2007-02,Belle And Sebastian,144
+2007-02,Beth Orton,86
+2007-02,Coldplay,54
+2007-02,Death Cab For Cutie,73
+2007-02,Deltron 3030,15
+2007-02,Doves,32
+2007-02,Eels,153
+2007-02,Esthero,6
+2007-02,Feist,65
+2007-02,Gnarls Barkley,47
+2007-02,Imogen Heap,37
+2007-02,Jeff Buckley,44
+2007-02,Kate Havnevik,24
+2007-02,Maritime,35
+2007-02,Matisyahu,27
+2007-02,Metric,83
+2007-02,Mike Doughty,35
+2007-02,Morcheeba,56
+2007-03,Air,67
+2007-03,Beck,82
+2007-03,Belle And Sebastian,117
+2007-03,Beth Orton,93
+2007-03,Coldplay,30
+2007-03,Death Cab For Cutie,62
+2007-03,Deltron 3030,17
+2007-03,Doves,39
+2007-03,Eels,174
+2007-03,Esthero,21
+2007-03,Feist,39
+2007-03,Gnarls Barkley,30
+2007-03,Imogen Heap,100
+2007-03,Jeff Buckley,26
+2007-03,Kate Havnevik,27
+2007-03,Maritime,24
+2007-03,Matisyahu,28
+2007-03,Metric,54
+2007-03,Mike Doughty,39
+2007-03,Morcheeba,72
+2007-04,Air,77
+2007-04,Beck,83
+2007-04,Belle And Sebastian,93
+2007-04,Beth Orton,62
+2007-04,Coldplay,16
+2007-04,Death Cab For Cutie,47
+2007-04,Deltron 3030,14
+2007-04,Doves,37
+2007-04,Eels,178
+2007-04,Esthero,19
+2007-04,Feist,24
+2007-04,Gnarls Barkley,20
+2007-04,Imogen Heap,23
+2007-04,Jeff Buckley,21
+2007-04,Kate Havnevik,18
+2007-04,Maritime,36
+2007-04,Matisyahu,31
+2007-04,Metric,45
+2007-04,Mike Doughty,49
+2007-04,Morcheeba,74
+2007-05,Air,26
+2007-05,Beck,19
+2007-05,Belle And Sebastian,29
+2007-05,Beth Orton,29
+2007-05,Coldplay,9
+2007-05,Death Cab For Cutie,15
+2007-05,Deltron 3030,5
+2007-05,Doves,20
+2007-05,Eels,57
+2007-05,Esthero,4
+2007-05,Feist,17
+2007-05,Gnarls Barkley,2
+2007-05,Imogen Heap,8
+2007-05,Jeff Buckley,6
+2007-05,Kate Havnevik,3
+2007-05,Maritime,9
+2007-05,Matisyahu,13
+2007-05,Metric,18
+2007-05,Mike Doughty,14
+2007-05,Morcheeba,24
+2007-06,Air,3
+2007-06,Beck,2
+2007-06,Belle And Sebastian,3
+2007-06,Beth Orton,2
+2007-06,Coldplay,1
+2007-06,Death Cab For Cutie,1
+2007-06,Deltron 3030,1
+2007-06,Doves,4
+2007-06,Eels,6
+2007-06,Esthero,1
+2007-06,Feist,1
+2007-06,Gnarls Barkley,2
+2007-06,Imogen Heap,4
+2007-06,Jeff Buckley,1
+2007-06,Kate Havnevik,1
+2007-06,Maritime,1
+2007-06,Matisyahu,1
+2007-06,Metric,1
+2007-06,Mike Doughty,2
+2007-06,Morcheeba,3
+2007-07,Air,0
+2007-07,Beck,0
+2007-07,Belle And Sebastian,0
+2007-07,Beth Orton,0
+2007-07,Coldplay,0
+2007-07,Death Cab For Cutie,0
+2007-07,Deltron 3030,0
+2007-07,Doves,0
+2007-07,Eels,0
+2007-07,Esthero,0
+2007-07,Feist,0
+2007-07,Gnarls Barkley,0
+2007-07,Imogen Heap,0
+2007-07,Jeff Buckley,0
+2007-07,Kate Havnevik,0
+2007-07,Maritime,0
+2007-07,Matisyahu,0
+2007-07,Metric,0
+2007-07,Mike Doughty,0
+2007-07,Morcheeba,0
+2007-08,Air,0
+2007-08,Beck,0
+2007-08,Belle And Sebastian,0
+2007-08,Beth Orton,0
+2007-08,Coldplay,0
+2007-08,Death Cab For Cutie,0
+2007-08,Deltron 3030,0
+2007-08,Doves,0
+2007-08,Eels,0
+2007-08,Esthero,0
+2007-08,Feist,0
+2007-08,Gnarls Barkley,0
+2007-08,Imogen Heap,0
+2007-08,Jeff Buckley,0
+2007-08,Kate Havnevik,0
+2007-08,Maritime,0
+2007-08,Matisyahu,0
+2007-08,Metric,0
+2007-08,Mike Doughty,0
+2007-08,Morcheeba,0
+2007-09,Air,0
+2007-09,Beck,0
+2007-09,Belle And Sebastian,0
+2007-09,Beth Orton,0
+2007-09,Coldplay,0
+2007-09,Death Cab For Cutie,0
+2007-09,Deltron 3030,0
+2007-09,Doves,0
+2007-09,Eels,0
+2007-09,Esthero,0
+2007-09,Feist,0
+2007-09,Gnarls Barkley,0
+2007-09,Imogen Heap,0
+2007-09,Jeff Buckley,0
+2007-09,Kate Havnevik,0
+2007-09,Maritime,0
+2007-09,Matisyahu,0
+2007-09,Metric,0
+2007-09,Mike Doughty,0
+2007-09,Morcheeba,0
+2007-10,Air,4
+2007-10,Beck,8
+2007-10,Belle And Sebastian,11
+2007-10,Beth Orton,9
+2007-10,Coldplay,1
+2007-10,Death Cab For Cutie,6
+2007-10,Deltron 3030,1
+2007-10,Doves,5
+2007-10,Eels,18
+2007-10,Esthero,2
+2007-10,Feist,6
+2007-10,Gnarls Barkley,3
+2007-10,Imogen Heap,3
+2007-10,Jeff Buckley,2
+2007-10,Kate Havnevik,4
+2007-10,Maritime,2
+2007-10,Matisyahu,1
+2007-10,Metric,6
+2007-10,Mike Doughty,2
+2007-10,Morcheeba,13
+2007-11,Air,32
+2007-11,Beck,48
+2007-11,Belle And Sebastian,35
+2007-11,Beth Orton,38
+2007-11,Coldplay,6
+2007-11,Death Cab For Cutie,30
+2007-11,Deltron 3030,9
+2007-11,Doves,21
+2007-11,Eels,271
+2007-11,Esthero,12
+2007-11,Feist,24
+2007-11,Gnarls Barkley,9
+2007-11,Imogen Heap,21
+2007-11,Jeff Buckley,8
+2007-11,Kate Havnevik,8
+2007-11,Maritime,21
+2007-11,Matisyahu,12
+2007-11,Metric,18
+2007-11,Mike Doughty,22
+2007-11,Morcheeba,35
+2007-12,Air,30
+2007-12,Beck,25
+2007-12,Belle And Sebastian,22
+2007-12,Beth Orton,22
+2007-12,Coldplay,6
+2007-12,Death Cab For Cutie,11
+2007-12,Deltron 3030,4
+2007-12,Doves,17
+2007-12,Eels,53
+2007-12,Esthero,5
+2007-12,Feist,16
+2007-12,Gnarls Barkley,8
+2007-12,Imogen Heap,17
+2007-12,Jeff Buckley,9
+2007-12,Kate Havnevik,9
+2007-12,Maritime,19
+2007-12,Matisyahu,8
+2007-12,Metric,14
+2007-12,Mike Doughty,20
+2007-12,Morcheeba,30
+2008-01,Air,38
+2008-01,Beck,54
+2008-01,Belle And Sebastian,61
+2008-01,Beth Orton,38
+2008-01,Coldplay,9
+2008-01,Death Cab For Cutie,21
+2008-01,Deltron 3030,7
+2008-01,Doves,24
+2008-01,Eels,68
+2008-01,Esthero,4
+2008-01,Feist,29
+2008-01,Gnarls Barkley,10
+2008-01,Imogen Heap,19
+2008-01,Jeff Buckley,28
+2008-01,Kate Havnevik,13
+2008-01,Maritime,20
+2008-01,Matisyahu,23
+2008-01,Metric,21
+2008-01,Mike Doughty,21
+2008-01,Morcheeba,32
+2008-02,Air,11
+2008-02,Beck,19
+2008-02,Belle And Sebastian,22
+2008-02,Beth Orton,15
+2008-02,Coldplay,5
+2008-02,Death Cab For Cutie,10
+2008-02,Deltron 3030,1
+2008-02,Doves,14
+2008-02,Eels,25
+2008-02,Esthero,9
+2008-02,Feist,9
+2008-02,Gnarls Barkley,7
+2008-02,Imogen Heap,2
+2008-02,Jeff Buckley,13
+2008-02,Kate Havnevik,1
+2008-02,Maritime,8
+2008-02,Matisyahu,13
+2008-02,Metric,8
+2008-02,Mike Doughty,8
+2008-02,Morcheeba,21
+2008-03,Air,39
+2008-03,Beck,52
+2008-03,Belle And Sebastian,60
+2008-03,Beth Orton,35
+2008-03,Coldplay,14
+2008-03,Death Cab For Cutie,18
+2008-03,Deltron 3030,10
+2008-03,Doves,27
+2008-03,Eels,70
+2008-03,Esthero,12
+2008-03,Feist,21
+2008-03,Gnarls Barkley,29
+2008-03,Imogen Heap,14
+2008-03,Jeff Buckley,25
+2008-03,Kate Havnevik,12
+2008-03,Maritime,18
+2008-03,Matisyahu,16
+2008-03,Metric,25
+2008-03,Mike Doughty,16
+2008-03,Morcheeba,40
+2008-04,Air,58
+2008-04,Beck,61
+2008-04,Belle And Sebastian,85
+2008-04,Beth Orton,69
+2008-04,Coldplay,7
+2008-04,Death Cab For Cutie,24
+2008-04,Deltron 3030,15
+2008-04,Doves,40
+2008-04,Eels,89
+2008-04,Esthero,14
+2008-04,Feist,33
+2008-04,Gnarls Barkley,31
+2008-04,Imogen Heap,16
+2008-04,Jeff Buckley,37
+2008-04,Kate Havnevik,17
+2008-04,Maritime,28
+2008-04,Matisyahu,22
+2008-04,Metric,25
+2008-04,Mike Doughty,22
+2008-04,Morcheeba,42
+2008-05,Air,31
+2008-05,Beck,44
+2008-05,Belle And Sebastian,70
+2008-05,Beth Orton,36
+2008-05,Coldplay,5
+2008-05,Death Cab For Cutie,19
+2008-05,Deltron 3030,11
+2008-05,Doves,31
+2008-05,Eels,72
+2008-05,Esthero,8
+2008-05,Feist,19
+2008-05,Gnarls Barkley,12
+2008-05,Imogen Heap,21
+2008-05,Jeff Buckley,25
+2008-05,Kate Havnevik,9
+2008-05,Maritime,14
+2008-05,Matisyahu,11
+2008-05,Metric,18
+2008-05,Mike Doughty,21
+2008-05,Morcheeba,21
+2008-06,Air,25
+2008-06,Beck,45
+2008-06,Belle And Sebastian,46
+2008-06,Beth Orton,31
+2008-06,Coldplay,6
+2008-06,Death Cab For Cutie,27
+2008-06,Deltron 3030,4
+2008-06,Doves,14
+2008-06,Eels,39
+2008-06,Esthero,3
+2008-06,Feist,17
+2008-06,Gnarls Barkley,11
+2008-06,Imogen Heap,31
+2008-06,Jeff Buckley,15
+2008-06,Kate Havnevik,6
+2008-06,Maritime,8
+2008-06,Matisyahu,12
+2008-06,Metric,11
+2008-06,Mike Doughty,8
+2008-06,Morcheeba,23
+2008-07,Air,35
+2008-07,Beck,42
+2008-07,Belle And Sebastian,65
+2008-07,Beth Orton,31
+2008-07,Coldplay,115
+2008-07,Death Cab For Cutie,30
+2008-07,Deltron 3030,3
+2008-07,Doves,25
+2008-07,Eels,73
+2008-07,Esthero,11
+2008-07,Feist,24
+2008-07,Gnarls Barkley,30
+2008-07,Imogen Heap,32
+2008-07,Jeff Buckley,24
+2008-07,Kate Havnevik,13
+2008-07,Maritime,15
+2008-07,Matisyahu,19
+2008-07,Metric,20
+2008-07,Mike Doughty,19
+2008-07,Morcheeba,39
+2008-08,Air,8
+2008-08,Beck,8
+2008-08,Belle And Sebastian,15
+2008-08,Beth Orton,5
+2008-08,Coldplay,1
+2008-08,Death Cab For Cutie,6
+2008-08,Deltron 3030,1
+2008-08,Doves,5
+2008-08,Eels,13
+2008-08,Esthero,2
+2008-08,Feist,6
+2008-08,Gnarls Barkley,10
+2008-08,Imogen Heap,4
+2008-08,Jeff Buckley,3
+2008-08,Kate Havnevik,1
+2008-08,Maritime,5
+2008-08,Matisyahu,4
+2008-08,Metric,2
+2008-08,Mike Doughty,1
+2008-08,Morcheeba,7
+2008-09,Air,26
+2008-09,Beck,30
+2008-09,Belle And Sebastian,56
+2008-09,Beth Orton,28
+2008-09,Coldplay,12
+2008-09,Death Cab For Cutie,16
+2008-09,Deltron 3030,9
+2008-09,Doves,22
+2008-09,Eels,51
+2008-09,Esthero,11
+2008-09,Feist,12
+2008-09,Gnarls Barkley,34
+2008-09,Imogen Heap,24
+2008-09,Jeff Buckley,13
+2008-09,Kate Havnevik,10
+2008-09,Maritime,13
+2008-09,Matisyahu,9
+2008-09,Metric,22
+2008-09,Mike Doughty,9
+2008-09,Morcheeba,25
+2008-10,Air,37
+2008-10,Beck,36
+2008-10,Belle And Sebastian,71
+2008-10,Beth Orton,39
+2008-10,Coldplay,10
+2008-10,Death Cab For Cutie,19
+2008-10,Deltron 3030,9
+2008-10,Doves,14
+2008-10,Eels,72
+2008-10,Esthero,15
+2008-10,Feist,21
+2008-10,Gnarls Barkley,50
+2008-10,Imogen Heap,34
+2008-10,Jeff Buckley,17
+2008-10,Kate Havnevik,5
+2008-10,Maritime,11
+2008-10,Matisyahu,131
+2008-10,Metric,23
+2008-10,Mike Doughty,17
+2008-10,Morcheeba,27
+2008-11,Air,28
+2008-11,Beck,29
+2008-11,Belle And Sebastian,54
+2008-11,Beth Orton,18
+2008-11,Coldplay,8
+2008-11,Death Cab For Cutie,24
+2008-11,Deltron 3030,3
+2008-11,Doves,22
+2008-11,Eels,58
+2008-11,Esthero,10
+2008-11,Feist,23
+2008-11,Gnarls Barkley,37
+2008-11,Imogen Heap,46
+2008-11,Jeff Buckley,20
+2008-11,Kate Havnevik,26
+2008-11,Maritime,12
+2008-11,Matisyahu,22
+2008-11,Metric,16
+2008-11,Mike Doughty,23
+2008-11,Morcheeba,29
+2008-12,Air,11
+2008-12,Beck,13
+2008-12,Belle And Sebastian,12
+2008-12,Beth Orton,6
+2008-12,Coldplay,4
+2008-12,Death Cab For Cutie,27
+2008-12,Deltron 3030,3
+2008-12,Doves,6
+2008-12,Eels,25
+2008-12,Esthero,3
+2008-12,Feist,4
+2008-12,Gnarls Barkley,6
+2008-12,Imogen Heap,16
+2008-12,Jeff Buckley,3
+2008-12,Kate Havnevik,9
+2008-12,Maritime,1
+2008-12,Matisyahu,6
+2008-12,Metric,5
+2008-12,Mike Doughty,3
+2008-12,Morcheeba,7
+2009-01,Air,31
+2009-01,Beck,63
+2009-01,Belle And Sebastian,103
+2009-01,Beth Orton,73
+2009-01,Coldplay,44
+2009-01,Death Cab For Cutie,18
+2009-01,Deltron 3030,5
+2009-01,Doves,8
+2009-01,Eels,63
+2009-01,Esthero,5
+2009-01,Feist,27
+2009-01,Gnarls Barkley,47
+2009-01,Imogen Heap,69
+2009-01,Jeff Buckley,13
+2009-01,Kate Havnevik,15
+2009-01,Maritime,9
+2009-01,Matisyahu,11
+2009-01,Metric,16
+2009-01,Mike Doughty,13
+2009-01,Morcheeba,12
+2009-02,Air,24
+2009-02,Beck,35
+2009-02,Belle And Sebastian,183
+2009-02,Beth Orton,21
+2009-02,Coldplay,11
+2009-02,Death Cab For Cutie,17
+2009-02,Deltron 3030,6
+2009-02,Doves,18
+2009-02,Eels,68
+2009-02,Esthero,4
+2009-02,Feist,22
+2009-02,Gnarls Barkley,18
+2009-02,Imogen Heap,22
+2009-02,Jeff Buckley,10
+2009-02,Kate Havnevik,11
+2009-02,Maritime,21
+2009-02,Matisyahu,12
+2009-02,Metric,18
+2009-02,Mike Doughty,15
+2009-02,Morcheeba,40
+2009-03,Air,37
+2009-03,Beck,37
+2009-03,Belle And Sebastian,53
+2009-03,Beth Orton,29
+2009-03,Coldplay,19
+2009-03,Death Cab For Cutie,17
+2009-03,Deltron 3030,1
+2009-03,Doves,15
+2009-03,Eels,59
+2009-03,Esthero,7
+2009-03,Feist,26
+2009-03,Gnarls Barkley,15
+2009-03,Imogen Heap,52
+2009-03,Jeff Buckley,14
+2009-03,Kate Havnevik,31
+2009-03,Maritime,14
+2009-03,Matisyahu,51
+2009-03,Metric,20
+2009-03,Mike Doughty,20
+2009-03,Morcheeba,30
+2009-04,Air,33
+2009-04,Beck,36
+2009-04,Belle And Sebastian,62
+2009-04,Beth Orton,34
+2009-04,Coldplay,20
+2009-04,Death Cab For Cutie,20
+2009-04,Deltron 3030,9
+2009-04,Doves,24
+2009-04,Eels,88
+2009-04,Esthero,6
+2009-04,Feist,19
+2009-04,Gnarls Barkley,16
+2009-04,Imogen Heap,66
+2009-04,Jeff Buckley,23
+2009-04,Kate Havnevik,16
+2009-04,Maritime,20
+2009-04,Matisyahu,19
+2009-04,Metric,15
+2009-04,Mike Doughty,10
+2009-04,Morcheeba,34
+2009-05,Air,4
+2009-05,Beck,4
+2009-05,Belle And Sebastian,7
+2009-05,Beth Orton,2
+2009-05,Coldplay,3
+2009-05,Death Cab For Cutie,5
+2009-05,Deltron 3030,2
+2009-05,Doves,1
+2009-05,Eels,8
+2009-05,Esthero,2
+2009-05,Feist,3
+2009-05,Gnarls Barkley,3
+2009-05,Imogen Heap,2
+2009-05,Jeff Buckley,2
+2009-05,Kate Havnevik,2
+2009-05,Maritime,2
+2009-05,Matisyahu,1
+2009-05,Metric,2
+2009-05,Mike Doughty,3
+2009-05,Morcheeba,3

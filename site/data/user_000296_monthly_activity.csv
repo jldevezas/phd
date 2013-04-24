@@ -1,0 +1,601 @@
+month,artist,plays
+2006-12,Above & Beyond,2
+2006-12,Andain,2
+2006-12,Armand Van Helden,0
+2006-12,Armin Van Buuren,2
+2006-12,Atb,4
+2006-12,Blank & Jones,2
+2006-12,Bt,0
+2006-12,Chicane,2
+2006-12,David Guetta,0
+2006-12,Deep Dish,2
+2006-12,Ferry Corsten,2
+2006-12,Fragma,2
+2006-12,Ian Van Dahl,2
+2006-12,Iio,3
+2006-12,Jakatta,4
+2006-12,Kyau & Albert,1
+2006-12,Paul Oakenfold,3
+2006-12,Paul Van Dyk,3
+2006-12,Rank 1,1
+2006-12,System F,0
+2007-01,Above & Beyond,10
+2007-01,Andain,12
+2007-01,Armand Van Helden,3
+2007-01,Armin Van Buuren,8
+2007-01,Atb,10
+2007-01,Blank & Jones,11
+2007-01,Bt,2
+2007-01,Chicane,6
+2007-01,David Guetta,2
+2007-01,Deep Dish,5
+2007-01,Ferry Corsten,7
+2007-01,Fragma,5
+2007-01,Ian Van Dahl,3
+2007-01,Iio,10
+2007-01,Jakatta,2
+2007-01,Kyau & Albert,4
+2007-01,Paul Oakenfold,5
+2007-01,Paul Van Dyk,35
+2007-01,Rank 1,3
+2007-01,System F,5
+2007-02,Above & Beyond,10
+2007-02,Andain,2
+2007-02,Armand Van Helden,9
+2007-02,Armin Van Buuren,15
+2007-02,Atb,30
+2007-02,Blank & Jones,12
+2007-02,Bt,9
+2007-02,Chicane,26
+2007-02,David Guetta,9
+2007-02,Deep Dish,8
+2007-02,Ferry Corsten,11
+2007-02,Fragma,9
+2007-02,Ian Van Dahl,11
+2007-02,Iio,6
+2007-02,Jakatta,2
+2007-02,Kyau & Albert,8
+2007-02,Paul Oakenfold,8
+2007-02,Paul Van Dyk,11
+2007-02,Rank 1,12
+2007-02,System F,8
+2007-03,Above & Beyond,22
+2007-03,Andain,13
+2007-03,Armand Van Helden,14
+2007-03,Armin Van Buuren,29
+2007-03,Atb,19
+2007-03,Blank & Jones,16
+2007-03,Bt,13
+2007-03,Chicane,40
+2007-03,David Guetta,15
+2007-03,Deep Dish,18
+2007-03,Ferry Corsten,103
+2007-03,Fragma,7
+2007-03,Ian Van Dahl,15
+2007-03,Iio,18
+2007-03,Jakatta,7
+2007-03,Kyau & Albert,13
+2007-03,Paul Oakenfold,10
+2007-03,Paul Van Dyk,30
+2007-03,Rank 1,26
+2007-03,System F,11
+2007-04,Above & Beyond,21
+2007-04,Andain,13
+2007-04,Armand Van Helden,46
+2007-04,Armin Van Buuren,20
+2007-04,Atb,7
+2007-04,Blank & Jones,17
+2007-04,Bt,4
+2007-04,Chicane,9
+2007-04,David Guetta,11
+2007-04,Deep Dish,13
+2007-04,Ferry Corsten,117
+2007-04,Fragma,3
+2007-04,Ian Van Dahl,8
+2007-04,Iio,3
+2007-04,Jakatta,1
+2007-04,Kyau & Albert,8
+2007-04,Paul Oakenfold,8
+2007-04,Paul Van Dyk,33
+2007-04,Rank 1,12
+2007-04,System F,14
+2007-05,Above & Beyond,7
+2007-05,Andain,4
+2007-05,Armand Van Helden,107
+2007-05,Armin Van Buuren,29
+2007-05,Atb,13
+2007-05,Blank & Jones,7
+2007-05,Bt,6
+2007-05,Chicane,7
+2007-05,David Guetta,22
+2007-05,Deep Dish,8
+2007-05,Ferry Corsten,72
+2007-05,Fragma,4
+2007-05,Ian Van Dahl,8
+2007-05,Iio,12
+2007-05,Jakatta,1
+2007-05,Kyau & Albert,2
+2007-05,Paul Oakenfold,6
+2007-05,Paul Van Dyk,8
+2007-05,Rank 1,6
+2007-05,System F,7
+2007-06,Above & Beyond,1
+2007-06,Andain,4
+2007-06,Armand Van Helden,41
+2007-06,Armin Van Buuren,9
+2007-06,Atb,3
+2007-06,Blank & Jones,1
+2007-06,Bt,4
+2007-06,Chicane,21
+2007-06,David Guetta,1
+2007-06,Deep Dish,2
+2007-06,Ferry Corsten,56
+2007-06,Fragma,3
+2007-06,Ian Van Dahl,2
+2007-06,Iio,1
+2007-06,Jakatta,3
+2007-06,Kyau & Albert,1
+2007-06,Paul Oakenfold,5
+2007-06,Paul Van Dyk,6
+2007-06,Rank 1,1
+2007-06,System F,4
+2007-07,Above & Beyond,5
+2007-07,Andain,2
+2007-07,Armand Van Helden,2
+2007-07,Armin Van Buuren,25
+2007-07,Atb,5
+2007-07,Blank & Jones,7
+2007-07,Bt,7
+2007-07,Chicane,17
+2007-07,David Guetta,5
+2007-07,Deep Dish,4
+2007-07,Ferry Corsten,134
+2007-07,Fragma,5
+2007-07,Ian Van Dahl,5
+2007-07,Iio,3
+2007-07,Jakatta,2
+2007-07,Kyau & Albert,1
+2007-07,Paul Oakenfold,3
+2007-07,Paul Van Dyk,9
+2007-07,Rank 1,2
+2007-07,System F,3
+2007-08,Above & Beyond,2
+2007-08,Andain,4
+2007-08,Armand Van Helden,2
+2007-08,Armin Van Buuren,3
+2007-08,Atb,8
+2007-08,Blank & Jones,3
+2007-08,Bt,2
+2007-08,Chicane,14
+2007-08,David Guetta,4
+2007-08,Deep Dish,5
+2007-08,Ferry Corsten,5
+2007-08,Fragma,2
+2007-08,Ian Van Dahl,1
+2007-08,Iio,4
+2007-08,Jakatta,3
+2007-08,Kyau & Albert,5
+2007-08,Paul Oakenfold,2
+2007-08,Paul Van Dyk,91
+2007-08,Rank 1,0
+2007-08,System F,4
+2007-09,Above & Beyond,1
+2007-09,Andain,0
+2007-09,Armand Van Helden,1
+2007-09,Armin Van Buuren,2
+2007-09,Atb,2
+2007-09,Blank & Jones,1
+2007-09,Bt,0
+2007-09,Chicane,1
+2007-09,David Guetta,2
+2007-09,Deep Dish,0
+2007-09,Ferry Corsten,1
+2007-09,Fragma,1
+2007-09,Ian Van Dahl,0
+2007-09,Iio,0
+2007-09,Jakatta,0
+2007-09,Kyau & Albert,5
+2007-09,Paul Oakenfold,0
+2007-09,Paul Van Dyk,24
+2007-09,Rank 1,2
+2007-09,System F,0
+2007-10,Above & Beyond,9
+2007-10,Andain,1
+2007-10,Armand Van Helden,10
+2007-10,Armin Van Buuren,30
+2007-10,Atb,2
+2007-10,Blank & Jones,4
+2007-10,Bt,18
+2007-10,Chicane,7
+2007-10,David Guetta,15
+2007-10,Deep Dish,13
+2007-10,Ferry Corsten,26
+2007-10,Fragma,1
+2007-10,Ian Van Dahl,2
+2007-10,Iio,2
+2007-10,Jakatta,1
+2007-10,Kyau & Albert,12
+2007-10,Paul Oakenfold,10
+2007-10,Paul Van Dyk,42
+2007-10,Rank 1,12
+2007-10,System F,2
+2007-11,Above & Beyond,0
+2007-11,Andain,0
+2007-11,Armand Van Helden,7
+2007-11,Armin Van Buuren,4
+2007-11,Atb,5
+2007-11,Blank & Jones,1
+2007-11,Bt,2
+2007-11,Chicane,2
+2007-11,David Guetta,17
+2007-11,Deep Dish,8
+2007-11,Ferry Corsten,54
+2007-11,Fragma,2
+2007-11,Ian Van Dahl,4
+2007-11,Iio,4
+2007-11,Jakatta,3
+2007-11,Kyau & Albert,1
+2007-11,Paul Oakenfold,4
+2007-11,Paul Van Dyk,75
+2007-11,Rank 1,3
+2007-11,System F,5
+2007-12,Above & Beyond,2
+2007-12,Andain,0
+2007-12,Armand Van Helden,0
+2007-12,Armin Van Buuren,17
+2007-12,Atb,2
+2007-12,Blank & Jones,0
+2007-12,Bt,1
+2007-12,Chicane,4
+2007-12,David Guetta,5
+2007-12,Deep Dish,1
+2007-12,Ferry Corsten,22
+2007-12,Fragma,2
+2007-12,Ian Van Dahl,5
+2007-12,Iio,0
+2007-12,Jakatta,0
+2007-12,Kyau & Albert,1
+2007-12,Paul Oakenfold,0
+2007-12,Paul Van Dyk,71
+2007-12,Rank 1,2
+2007-12,System F,2
+2008-01,Above & Beyond,4
+2008-01,Andain,1
+2008-01,Armand Van Helden,14
+2008-01,Armin Van Buuren,25
+2008-01,Atb,1
+2008-01,Blank & Jones,0
+2008-01,Bt,1
+2008-01,Chicane,2
+2008-01,David Guetta,1
+2008-01,Deep Dish,2
+2008-01,Ferry Corsten,44
+2008-01,Fragma,1
+2008-01,Ian Van Dahl,1
+2008-01,Iio,0
+2008-01,Jakatta,0
+2008-01,Kyau & Albert,1
+2008-01,Paul Oakenfold,1
+2008-01,Paul Van Dyk,69
+2008-01,Rank 1,4
+2008-01,System F,7
+2008-02,Above & Beyond,5
+2008-02,Andain,1
+2008-02,Armand Van Helden,20
+2008-02,Armin Van Buuren,31
+2008-02,Atb,3
+2008-02,Blank & Jones,0
+2008-02,Bt,1
+2008-02,Chicane,2
+2008-02,David Guetta,16
+2008-02,Deep Dish,6
+2008-02,Ferry Corsten,25
+2008-02,Fragma,0
+2008-02,Ian Van Dahl,2
+2008-02,Iio,1
+2008-02,Jakatta,2
+2008-02,Kyau & Albert,0
+2008-02,Paul Oakenfold,1
+2008-02,Paul Van Dyk,86
+2008-02,Rank 1,2
+2008-02,System F,2
+2008-03,Above & Beyond,14
+2008-03,Andain,3
+2008-03,Armand Van Helden,3
+2008-03,Armin Van Buuren,13
+2008-03,Atb,7
+2008-03,Blank & Jones,4
+2008-03,Bt,8
+2008-03,Chicane,3
+2008-03,David Guetta,1
+2008-03,Deep Dish,2
+2008-03,Ferry Corsten,6
+2008-03,Fragma,0
+2008-03,Ian Van Dahl,7
+2008-03,Iio,0
+2008-03,Jakatta,0
+2008-03,Kyau & Albert,10
+2008-03,Paul Oakenfold,3
+2008-03,Paul Van Dyk,92
+2008-03,Rank 1,7
+2008-03,System F,4
+2008-04,Above & Beyond,2
+2008-04,Andain,1
+2008-04,Armand Van Helden,4
+2008-04,Armin Van Buuren,15
+2008-04,Atb,2
+2008-04,Blank & Jones,3
+2008-04,Bt,1
+2008-04,Chicane,2
+2008-04,David Guetta,4
+2008-04,Deep Dish,4
+2008-04,Ferry Corsten,4
+2008-04,Fragma,1
+2008-04,Ian Van Dahl,2
+2008-04,Iio,1
+2008-04,Jakatta,1
+2008-04,Kyau & Albert,4
+2008-04,Paul Oakenfold,5
+2008-04,Paul Van Dyk,32
+2008-04,Rank 1,4
+2008-04,System F,2
+2008-05,Above & Beyond,0
+2008-05,Andain,1
+2008-05,Armand Van Helden,4
+2008-05,Armin Van Buuren,13
+2008-05,Atb,0
+2008-05,Blank & Jones,0
+2008-05,Bt,0
+2008-05,Chicane,0
+2008-05,David Guetta,3
+2008-05,Deep Dish,0
+2008-05,Ferry Corsten,0
+2008-05,Fragma,0
+2008-05,Ian Van Dahl,1
+2008-05,Iio,1
+2008-05,Jakatta,1
+2008-05,Kyau & Albert,0
+2008-05,Paul Oakenfold,2
+2008-05,Paul Van Dyk,64
+2008-05,Rank 1,0
+2008-05,System F,2
+2008-06,Above & Beyond,1
+2008-06,Andain,3
+2008-06,Armand Van Helden,13
+2008-06,Armin Van Buuren,5
+2008-06,Atb,0
+2008-06,Blank & Jones,3
+2008-06,Bt,11
+2008-06,Chicane,13
+2008-06,David Guetta,20
+2008-06,Deep Dish,12
+2008-06,Ferry Corsten,16
+2008-06,Fragma,3
+2008-06,Ian Van Dahl,1
+2008-06,Iio,0
+2008-06,Jakatta,37
+2008-06,Kyau & Albert,4
+2008-06,Paul Oakenfold,12
+2008-06,Paul Van Dyk,29
+2008-06,Rank 1,8
+2008-06,System F,4
+2008-07,Above & Beyond,2
+2008-07,Andain,3
+2008-07,Armand Van Helden,6
+2008-07,Armin Van Buuren,14
+2008-07,Atb,1
+2008-07,Blank & Jones,1
+2008-07,Bt,50
+2008-07,Chicane,14
+2008-07,David Guetta,56
+2008-07,Deep Dish,40
+2008-07,Ferry Corsten,7
+2008-07,Fragma,4
+2008-07,Ian Van Dahl,2
+2008-07,Iio,2
+2008-07,Jakatta,3
+2008-07,Kyau & Albert,2
+2008-07,Paul Oakenfold,1
+2008-07,Paul Van Dyk,69
+2008-07,Rank 1,4
+2008-07,System F,3
+2008-08,Above & Beyond,0
+2008-08,Andain,1
+2008-08,Armand Van Helden,98
+2008-08,Armin Van Buuren,3
+2008-08,Atb,0
+2008-08,Blank & Jones,4
+2008-08,Bt,20
+2008-08,Chicane,4
+2008-08,David Guetta,35
+2008-08,Deep Dish,7
+2008-08,Ferry Corsten,9
+2008-08,Fragma,0
+2008-08,Ian Van Dahl,4
+2008-08,Iio,4
+2008-08,Jakatta,20
+2008-08,Kyau & Albert,1
+2008-08,Paul Oakenfold,1
+2008-08,Paul Van Dyk,18
+2008-08,Rank 1,1
+2008-08,System F,1
+2008-09,Above & Beyond,0
+2008-09,Andain,0
+2008-09,Armand Van Helden,29
+2008-09,Armin Van Buuren,1
+2008-09,Atb,0
+2008-09,Blank & Jones,1
+2008-09,Bt,3
+2008-09,Chicane,0
+2008-09,David Guetta,2
+2008-09,Deep Dish,2
+2008-09,Ferry Corsten,2
+2008-09,Fragma,1
+2008-09,Ian Van Dahl,1
+2008-09,Iio,1
+2008-09,Jakatta,0
+2008-09,Kyau & Albert,1
+2008-09,Paul Oakenfold,0
+2008-09,Paul Van Dyk,4
+2008-09,Rank 1,0
+2008-09,System F,0
+2008-10,Above & Beyond,0
+2008-10,Andain,0
+2008-10,Armand Van Helden,0
+2008-10,Armin Van Buuren,4
+2008-10,Atb,0
+2008-10,Blank & Jones,0
+2008-10,Bt,14
+2008-10,Chicane,1
+2008-10,David Guetta,26
+2008-10,Deep Dish,1
+2008-10,Ferry Corsten,0
+2008-10,Fragma,0
+2008-10,Ian Van Dahl,0
+2008-10,Iio,1
+2008-10,Jakatta,7
+2008-10,Kyau & Albert,0
+2008-10,Paul Oakenfold,0
+2008-10,Paul Van Dyk,83
+2008-10,Rank 1,1
+2008-10,System F,0
+2008-11,Above & Beyond,0
+2008-11,Andain,0
+2008-11,Armand Van Helden,67
+2008-11,Armin Van Buuren,0
+2008-11,Atb,27
+2008-11,Blank & Jones,5
+2008-11,Bt,0
+2008-11,Chicane,14
+2008-11,David Guetta,8
+2008-11,Deep Dish,0
+2008-11,Ferry Corsten,11
+2008-11,Fragma,0
+2008-11,Ian Van Dahl,0
+2008-11,Iio,1
+2008-11,Jakatta,2
+2008-11,Kyau & Albert,0
+2008-11,Paul Oakenfold,0
+2008-11,Paul Van Dyk,40
+2008-11,Rank 1,0
+2008-11,System F,0
+2008-12,Above & Beyond,1
+2008-12,Andain,0
+2008-12,Armand Van Helden,8
+2008-12,Armin Van Buuren,2
+2008-12,Atb,0
+2008-12,Blank & Jones,1
+2008-12,Bt,2
+2008-12,Chicane,3
+2008-12,David Guetta,3
+2008-12,Deep Dish,0
+2008-12,Ferry Corsten,0
+2008-12,Fragma,0
+2008-12,Ian Van Dahl,0
+2008-12,Iio,5
+2008-12,Jakatta,1
+2008-12,Kyau & Albert,0
+2008-12,Paul Oakenfold,0
+2008-12,Paul Van Dyk,11
+2008-12,Rank 1,0
+2008-12,System F,0
+2009-01,Above & Beyond,9
+2009-01,Andain,2
+2009-01,Armand Van Helden,3
+2009-01,Armin Van Buuren,1
+2009-01,Atb,1
+2009-01,Blank & Jones,3
+2009-01,Bt,7
+2009-01,Chicane,41
+2009-01,David Guetta,1
+2009-01,Deep Dish,1
+2009-01,Ferry Corsten,9
+2009-01,Fragma,1
+2009-01,Ian Van Dahl,1
+2009-01,Iio,2
+2009-01,Jakatta,4
+2009-01,Kyau & Albert,4
+2009-01,Paul Oakenfold,1
+2009-01,Paul Van Dyk,39
+2009-01,Rank 1,1
+2009-01,System F,2
+2009-02,Above & Beyond,3
+2009-02,Andain,9
+2009-02,Armand Van Helden,0
+2009-02,Armin Van Buuren,65
+2009-02,Atb,2
+2009-02,Blank & Jones,3
+2009-02,Bt,1
+2009-02,Chicane,0
+2009-02,David Guetta,2
+2009-02,Deep Dish,0
+2009-02,Ferry Corsten,1
+2009-02,Fragma,1
+2009-02,Ian Van Dahl,12
+2009-02,Iio,0
+2009-02,Jakatta,0
+2009-02,Kyau & Albert,0
+2009-02,Paul Oakenfold,0
+2009-02,Paul Van Dyk,1
+2009-02,Rank 1,0
+2009-02,System F,0
+2009-03,Above & Beyond,0
+2009-03,Andain,0
+2009-03,Armand Van Helden,6
+2009-03,Armin Van Buuren,1
+2009-03,Atb,0
+2009-03,Blank & Jones,0
+2009-03,Bt,0
+2009-03,Chicane,0
+2009-03,David Guetta,21
+2009-03,Deep Dish,0
+2009-03,Ferry Corsten,0
+2009-03,Fragma,0
+2009-03,Ian Van Dahl,0
+2009-03,Iio,0
+2009-03,Jakatta,0
+2009-03,Kyau & Albert,1
+2009-03,Paul Oakenfold,0
+2009-03,Paul Van Dyk,17
+2009-03,Rank 1,0
+2009-03,System F,1
+2009-04,Above & Beyond,0
+2009-04,Andain,3
+2009-04,Armand Van Helden,0
+2009-04,Armin Van Buuren,12
+2009-04,Atb,0
+2009-04,Blank & Jones,1
+2009-04,Bt,8
+2009-04,Chicane,8
+2009-04,David Guetta,1
+2009-04,Deep Dish,0
+2009-04,Ferry Corsten,1
+2009-04,Fragma,0
+2009-04,Ian Van Dahl,2
+2009-04,Iio,1
+2009-04,Jakatta,3
+2009-04,Kyau & Albert,1
+2009-04,Paul Oakenfold,1
+2009-04,Paul Van Dyk,2
+2009-04,Rank 1,0
+2009-04,System F,1
+2009-05,Above & Beyond,0
+2009-05,Andain,0
+2009-05,Armand Van Helden,0
+2009-05,Armin Van Buuren,0
+2009-05,Atb,0
+2009-05,Blank & Jones,0
+2009-05,Bt,7
+2009-05,Chicane,0
+2009-05,David Guetta,0
+2009-05,Deep Dish,0
+2009-05,Ferry Corsten,0
+2009-05,Fragma,0
+2009-05,Ian Van Dahl,0
+2009-05,Iio,0
+2009-05,Jakatta,0
+2009-05,Kyau & Albert,0
+2009-05,Paul Oakenfold,0
+2009-05,Paul Van Dyk,0
+2009-05,Rank 1,0
+2009-05,System F,0

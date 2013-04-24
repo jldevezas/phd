@@ -1,0 +1,441 @@
+month,artist,plays
+2007-07,30 Seconds To Mars,0
+2007-07,Apocalyptica,0
+2007-07,Coma,1
+2007-07,Godsmack,3
+2007-07,Happysad,7
+2007-07,Hey,5
+2007-07,Hunter,1
+2007-07,Kult,5
+2007-07,Lacuna Coil,1
+2007-07,Lao Che,8
+2007-07,Marek Grechuta,0
+2007-07,Myslovitz,2
+2007-07,Nightwish,0
+2007-07,Opeth,3
+2007-07,Pidżama Porno,2
+2007-07,Pink Floyd,2
+2007-07,Riverside,6
+2007-07,Siddharta,3
+2007-07,Strachy Na Lachy,1
+2007-07,System Of A Down,3
+2007-08,30 Seconds To Mars,8
+2007-08,Apocalyptica,4
+2007-08,Coma,29
+2007-08,Godsmack,3
+2007-08,Happysad,8
+2007-08,Hey,15
+2007-08,Hunter,2
+2007-08,Kult,9
+2007-08,Lacuna Coil,2
+2007-08,Lao Che,56
+2007-08,Marek Grechuta,4
+2007-08,Myslovitz,5
+2007-08,Nightwish,3
+2007-08,Opeth,22
+2007-08,Pidżama Porno,8
+2007-08,Pink Floyd,8
+2007-08,Riverside,14
+2007-08,Siddharta,4
+2007-08,Strachy Na Lachy,6
+2007-08,System Of A Down,3
+2007-09,30 Seconds To Mars,7
+2007-09,Apocalyptica,4
+2007-09,Coma,6
+2007-09,Godsmack,7
+2007-09,Happysad,5
+2007-09,Hey,14
+2007-09,Hunter,4
+2007-09,Kult,7
+2007-09,Lacuna Coil,7
+2007-09,Lao Che,17
+2007-09,Marek Grechuta,6
+2007-09,Myslovitz,8
+2007-09,Nightwish,8
+2007-09,Opeth,21
+2007-09,Pidżama Porno,11
+2007-09,Pink Floyd,3
+2007-09,Riverside,5
+2007-09,Siddharta,10
+2007-09,Strachy Na Lachy,3
+2007-09,System Of A Down,14
+2007-10,30 Seconds To Mars,8
+2007-10,Apocalyptica,5
+2007-10,Coma,21
+2007-10,Godsmack,3
+2007-10,Happysad,3
+2007-10,Hey,6
+2007-10,Hunter,4
+2007-10,Kult,6
+2007-10,Lacuna Coil,6
+2007-10,Lao Che,11
+2007-10,Marek Grechuta,3
+2007-10,Myslovitz,2
+2007-10,Nightwish,24
+2007-10,Opeth,29
+2007-10,Pidżama Porno,8
+2007-10,Pink Floyd,7
+2007-10,Riverside,59
+2007-10,Siddharta,2
+2007-10,Strachy Na Lachy,5
+2007-10,System Of A Down,9
+2007-11,30 Seconds To Mars,5
+2007-11,Apocalyptica,0
+2007-11,Coma,8
+2007-11,Godsmack,4
+2007-11,Happysad,7
+2007-11,Hey,5
+2007-11,Hunter,5
+2007-11,Kult,9
+2007-11,Lacuna Coil,3
+2007-11,Lao Che,12
+2007-11,Marek Grechuta,2
+2007-11,Myslovitz,8
+2007-11,Nightwish,5
+2007-11,Opeth,10
+2007-11,Pidżama Porno,9
+2007-11,Pink Floyd,6
+2007-11,Riverside,16
+2007-11,Siddharta,1
+2007-11,Strachy Na Lachy,6
+2007-11,System Of A Down,11
+2007-12,30 Seconds To Mars,0
+2007-12,Apocalyptica,0
+2007-12,Coma,1
+2007-12,Godsmack,2
+2007-12,Happysad,4
+2007-12,Hey,8
+2007-12,Hunter,2
+2007-12,Kult,5
+2007-12,Lacuna Coil,3
+2007-12,Lao Che,10
+2007-12,Marek Grechuta,2
+2007-12,Myslovitz,5
+2007-12,Nightwish,1
+2007-12,Opeth,22
+2007-12,Pidżama Porno,4
+2007-12,Pink Floyd,4
+2007-12,Riverside,7
+2007-12,Siddharta,1
+2007-12,Strachy Na Lachy,3
+2007-12,System Of A Down,2
+2008-01,30 Seconds To Mars,4
+2008-01,Apocalyptica,3
+2008-01,Coma,6
+2008-01,Godsmack,2
+2008-01,Happysad,8
+2008-01,Hey,13
+2008-01,Hunter,4
+2008-01,Kult,16
+2008-01,Lacuna Coil,9
+2008-01,Lao Che,7
+2008-01,Marek Grechuta,6
+2008-01,Myslovitz,6
+2008-01,Nightwish,3
+2008-01,Opeth,14
+2008-01,Pidżama Porno,5
+2008-01,Pink Floyd,7
+2008-01,Riverside,31
+2008-01,Siddharta,2
+2008-01,Strachy Na Lachy,9
+2008-01,System Of A Down,11
+2008-02,30 Seconds To Mars,1
+2008-02,Apocalyptica,5
+2008-02,Coma,1
+2008-02,Godsmack,0
+2008-02,Happysad,22
+2008-02,Hey,1
+2008-02,Hunter,0
+2008-02,Kult,2
+2008-02,Lacuna Coil,0
+2008-02,Lao Che,26
+2008-02,Marek Grechuta,2
+2008-02,Myslovitz,2
+2008-02,Nightwish,2
+2008-02,Opeth,2
+2008-02,Pidżama Porno,1
+2008-02,Pink Floyd,4
+2008-02,Riverside,10
+2008-02,Siddharta,1
+2008-02,Strachy Na Lachy,1
+2008-02,System Of A Down,2
+2008-03,30 Seconds To Mars,3
+2008-03,Apocalyptica,8
+2008-03,Coma,16
+2008-03,Godsmack,10
+2008-03,Happysad,23
+2008-03,Hey,6
+2008-03,Hunter,10
+2008-03,Kult,7
+2008-03,Lacuna Coil,3
+2008-03,Lao Che,135
+2008-03,Marek Grechuta,1
+2008-03,Myslovitz,5
+2008-03,Nightwish,10
+2008-03,Opeth,43
+2008-03,Pidżama Porno,6
+2008-03,Pink Floyd,4
+2008-03,Riverside,11
+2008-03,Siddharta,32
+2008-03,Strachy Na Lachy,4
+2008-03,System Of A Down,2
+2008-04,30 Seconds To Mars,6
+2008-04,Apocalyptica,16
+2008-04,Coma,14
+2008-04,Godsmack,3
+2008-04,Happysad,40
+2008-04,Hey,2
+2008-04,Hunter,19
+2008-04,Kult,5
+2008-04,Lacuna Coil,2
+2008-04,Lao Che,29
+2008-04,Marek Grechuta,0
+2008-04,Myslovitz,5
+2008-04,Nightwish,4
+2008-04,Opeth,59
+2008-04,Pidżama Porno,4
+2008-04,Pink Floyd,3
+2008-04,Riverside,47
+2008-04,Siddharta,15
+2008-04,Strachy Na Lachy,4
+2008-04,System Of A Down,1
+2008-05,30 Seconds To Mars,3
+2008-05,Apocalyptica,16
+2008-05,Coma,16
+2008-05,Godsmack,2
+2008-05,Happysad,22
+2008-05,Hey,11
+2008-05,Hunter,5
+2008-05,Kult,19
+2008-05,Lacuna Coil,4
+2008-05,Lao Che,14
+2008-05,Marek Grechuta,6
+2008-05,Myslovitz,11
+2008-05,Nightwish,7
+2008-05,Opeth,15
+2008-05,Pidżama Porno,11
+2008-05,Pink Floyd,3
+2008-05,Riverside,10
+2008-05,Siddharta,5
+2008-05,Strachy Na Lachy,24
+2008-05,System Of A Down,5
+2008-06,30 Seconds To Mars,6
+2008-06,Apocalyptica,21
+2008-06,Coma,19
+2008-06,Godsmack,4
+2008-06,Happysad,23
+2008-06,Hey,23
+2008-06,Hunter,14
+2008-06,Kult,13
+2008-06,Lacuna Coil,12
+2008-06,Lao Che,44
+2008-06,Marek Grechuta,11
+2008-06,Myslovitz,10
+2008-06,Nightwish,11
+2008-06,Opeth,52
+2008-06,Pidżama Porno,21
+2008-06,Pink Floyd,15
+2008-06,Riverside,27
+2008-06,Siddharta,11
+2008-06,Strachy Na Lachy,25
+2008-06,System Of A Down,5
+2008-07,30 Seconds To Mars,1
+2008-07,Apocalyptica,28
+2008-07,Coma,2
+2008-07,Godsmack,0
+2008-07,Happysad,1
+2008-07,Hey,3
+2008-07,Hunter,0
+2008-07,Kult,0
+2008-07,Lacuna Coil,0
+2008-07,Lao Che,2
+2008-07,Marek Grechuta,1
+2008-07,Myslovitz,0
+2008-07,Nightwish,2
+2008-07,Opeth,1
+2008-07,Pidżama Porno,0
+2008-07,Pink Floyd,0
+2008-07,Riverside,4
+2008-07,Siddharta,1
+2008-07,Strachy Na Lachy,3
+2008-07,System Of A Down,2
+2008-08,30 Seconds To Mars,0
+2008-08,Apocalyptica,1
+2008-08,Coma,1
+2008-08,Godsmack,1
+2008-08,Happysad,3
+2008-08,Hey,11
+2008-08,Hunter,1
+2008-08,Kult,5
+2008-08,Lacuna Coil,2
+2008-08,Lao Che,7
+2008-08,Marek Grechuta,2
+2008-08,Myslovitz,1
+2008-08,Nightwish,0
+2008-08,Opeth,6
+2008-08,Pidżama Porno,1
+2008-08,Pink Floyd,0
+2008-08,Riverside,3
+2008-08,Siddharta,1
+2008-08,Strachy Na Lachy,2
+2008-08,System Of A Down,0
+2008-09,30 Seconds To Mars,1
+2008-09,Apocalyptica,7
+2008-09,Coma,0
+2008-09,Godsmack,2
+2008-09,Happysad,0
+2008-09,Hey,2
+2008-09,Hunter,0
+2008-09,Kult,3
+2008-09,Lacuna Coil,0
+2008-09,Lao Che,2
+2008-09,Marek Grechuta,0
+2008-09,Myslovitz,2
+2008-09,Nightwish,1
+2008-09,Opeth,35
+2008-09,Pidżama Porno,0
+2008-09,Pink Floyd,5
+2008-09,Riverside,9
+2008-09,Siddharta,10
+2008-09,Strachy Na Lachy,0
+2008-09,System Of A Down,1
+2008-10,30 Seconds To Mars,6
+2008-10,Apocalyptica,8
+2008-10,Coma,21
+2008-10,Godsmack,2
+2008-10,Happysad,11
+2008-10,Hey,8
+2008-10,Hunter,10
+2008-10,Kult,6
+2008-10,Lacuna Coil,3
+2008-10,Lao Che,15
+2008-10,Marek Grechuta,20
+2008-10,Myslovitz,3
+2008-10,Nightwish,8
+2008-10,Opeth,26
+2008-10,Pidżama Porno,3
+2008-10,Pink Floyd,7
+2008-10,Riverside,19
+2008-10,Siddharta,21
+2008-10,Strachy Na Lachy,7
+2008-10,System Of A Down,5
+2008-11,30 Seconds To Mars,4
+2008-11,Apocalyptica,6
+2008-11,Coma,171
+2008-11,Godsmack,2
+2008-11,Happysad,4
+2008-11,Hey,5
+2008-11,Hunter,7
+2008-11,Kult,4
+2008-11,Lacuna Coil,9
+2008-11,Lao Che,60
+2008-11,Marek Grechuta,5
+2008-11,Myslovitz,0
+2008-11,Nightwish,4
+2008-11,Opeth,67
+2008-11,Pidżama Porno,1
+2008-11,Pink Floyd,6
+2008-11,Riverside,15
+2008-11,Siddharta,8
+2008-11,Strachy Na Lachy,6
+2008-11,System Of A Down,5
+2008-12,30 Seconds To Mars,2
+2008-12,Apocalyptica,7
+2008-12,Coma,61
+2008-12,Godsmack,1
+2008-12,Happysad,17
+2008-12,Hey,4
+2008-12,Hunter,10
+2008-12,Kult,6
+2008-12,Lacuna Coil,7
+2008-12,Lao Che,20
+2008-12,Marek Grechuta,4
+2008-12,Myslovitz,1
+2008-12,Nightwish,4
+2008-12,Opeth,49
+2008-12,Pidżama Porno,8
+2008-12,Pink Floyd,7
+2008-12,Riverside,25
+2008-12,Siddharta,14
+2008-12,Strachy Na Lachy,16
+2008-12,System Of A Down,11
+2009-01,30 Seconds To Mars,4
+2009-01,Apocalyptica,6
+2009-01,Coma,8
+2009-01,Godsmack,3
+2009-01,Happysad,7
+2009-01,Hey,9
+2009-01,Hunter,12
+2009-01,Kult,11
+2009-01,Lacuna Coil,9
+2009-01,Lao Che,28
+2009-01,Marek Grechuta,11
+2009-01,Myslovitz,2
+2009-01,Nightwish,3
+2009-01,Opeth,37
+2009-01,Pidżama Porno,3
+2009-01,Pink Floyd,8
+2009-01,Riverside,20
+2009-01,Siddharta,17
+2009-01,Strachy Na Lachy,8
+2009-01,System Of A Down,14
+2009-02,30 Seconds To Mars,3
+2009-02,Apocalyptica,4
+2009-02,Coma,6
+2009-02,Godsmack,3
+2009-02,Happysad,2
+2009-02,Hey,7
+2009-02,Hunter,2
+2009-02,Kult,1
+2009-02,Lacuna Coil,8
+2009-02,Lao Che,15
+2009-02,Marek Grechuta,3
+2009-02,Myslovitz,0
+2009-02,Nightwish,2
+2009-02,Opeth,36
+2009-02,Pidżama Porno,3
+2009-02,Pink Floyd,3
+2009-02,Riverside,14
+2009-02,Siddharta,4
+2009-02,Strachy Na Lachy,6
+2009-02,System Of A Down,12
+2009-03,30 Seconds To Mars,1
+2009-03,Apocalyptica,6
+2009-03,Coma,6
+2009-03,Godsmack,1
+2009-03,Happysad,1
+2009-03,Hey,12
+2009-03,Hunter,14
+2009-03,Kult,7
+2009-03,Lacuna Coil,0
+2009-03,Lao Che,20
+2009-03,Marek Grechuta,0
+2009-03,Myslovitz,1
+2009-03,Nightwish,1
+2009-03,Opeth,107
+2009-03,Pidżama Porno,2
+2009-03,Pink Floyd,7
+2009-03,Riverside,14
+2009-03,Siddharta,5
+2009-03,Strachy Na Lachy,6
+2009-03,System Of A Down,12
+2009-04,30 Seconds To Mars,1
+2009-04,Apocalyptica,8
+2009-04,Coma,15
+2009-04,Godsmack,1
+2009-04,Happysad,2
+2009-04,Hey,4
+2009-04,Hunter,24
+2009-04,Kult,16
+2009-04,Lacuna Coil,5
+2009-04,Lao Che,14
+2009-04,Marek Grechuta,1
+2009-04,Myslovitz,1
+2009-04,Nightwish,3
+2009-04,Opeth,32
+2009-04,Pidżama Porno,3
+2009-04,Pink Floyd,4
+2009-04,Riverside,74
+2009-04,Siddharta,4
+2009-04,Strachy Na Lachy,5
+2009-04,System Of A Down,8

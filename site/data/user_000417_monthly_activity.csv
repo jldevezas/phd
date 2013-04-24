@@ -1,0 +1,241 @@
+month,artist,plays
+2006-05,David Bowie,94
+2006-05,Dread Zeppelin,23
+2006-05,Jimi Hendrix,75
+2006-05,Johnny Cash,99
+2006-05,Led Zeppelin Jam,40
+2006-05,Lez Zeppelin,60
+2006-05,Lynyrd Skynyrd,75
+2006-05,Meat Loaf,1
+2006-05,Metallica,6
+2006-05,Motörhead,143
+2006-05,Ozzy Osbourne,61
+2006-05,Pink Floyd,211
+2006-05,Rainbow,3
+2006-05,Ramones,16
+2006-05,Tenacious D,107
+2006-05,The Beatles,85
+2006-05,The Rolling Stones,2
+2006-05,The Who,22
+2006-05,Thin Lizzy,28
+2006-05,U2,14
+2006-06,David Bowie,1
+2006-06,Dread Zeppelin,3
+2006-06,Jimi Hendrix,1
+2006-06,Johnny Cash,1
+2006-06,Led Zeppelin Jam,1
+2006-06,Lez Zeppelin,3
+2006-06,Lynyrd Skynyrd,17
+2006-06,Meat Loaf,11
+2006-06,Metallica,7
+2006-06,Motörhead,22
+2006-06,Ozzy Osbourne,6
+2006-06,Pink Floyd,33
+2006-06,Rainbow,0
+2006-06,Ramones,22
+2006-06,Tenacious D,5
+2006-06,The Beatles,27
+2006-06,The Rolling Stones,34
+2006-06,The Who,1
+2006-06,Thin Lizzy,1
+2006-06,U2,1
+2006-07,David Bowie,28
+2006-07,Dread Zeppelin,14
+2006-07,Jimi Hendrix,1
+2006-07,Johnny Cash,68
+2006-07,Led Zeppelin Jam,7
+2006-07,Lez Zeppelin,12
+2006-07,Lynyrd Skynyrd,10
+2006-07,Meat Loaf,3
+2006-07,Metallica,2
+2006-07,Motörhead,22
+2006-07,Ozzy Osbourne,3
+2006-07,Pink Floyd,143
+2006-07,Rainbow,4
+2006-07,Ramones,47
+2006-07,Tenacious D,8
+2006-07,The Beatles,3
+2006-07,The Rolling Stones,82
+2006-07,The Who,15
+2006-07,Thin Lizzy,1
+2006-07,U2,4
+2006-08,David Bowie,55
+2006-08,Dread Zeppelin,17
+2006-08,Jimi Hendrix,6
+2006-08,Johnny Cash,85
+2006-08,Led Zeppelin Jam,6
+2006-08,Lez Zeppelin,12
+2006-08,Lynyrd Skynyrd,28
+2006-08,Meat Loaf,5
+2006-08,Metallica,8
+2006-08,Motörhead,3
+2006-08,Ozzy Osbourne,2
+2006-08,Pink Floyd,75
+2006-08,Rainbow,6
+2006-08,Ramones,85
+2006-08,Tenacious D,5
+2006-08,The Beatles,355
+2006-08,The Rolling Stones,147
+2006-08,The Who,19
+2006-08,Thin Lizzy,4
+2006-08,U2,3
+2006-09,David Bowie,33
+2006-09,Dread Zeppelin,12
+2006-09,Jimi Hendrix,16
+2006-09,Johnny Cash,111
+2006-09,Led Zeppelin Jam,4
+2006-09,Lez Zeppelin,7
+2006-09,Lynyrd Skynyrd,48
+2006-09,Meat Loaf,8
+2006-09,Metallica,2
+2006-09,Motörhead,4
+2006-09,Ozzy Osbourne,3
+2006-09,Pink Floyd,106
+2006-09,Rainbow,5
+2006-09,Ramones,98
+2006-09,Tenacious D,20
+2006-09,The Beatles,1
+2006-09,The Rolling Stones,68
+2006-09,The Who,12
+2006-09,Thin Lizzy,4
+2006-09,U2,12
+2006-10,David Bowie,20
+2006-10,Dread Zeppelin,4
+2006-10,Jimi Hendrix,9
+2006-10,Johnny Cash,40
+2006-10,Led Zeppelin Jam,4
+2006-10,Lez Zeppelin,5
+2006-10,Lynyrd Skynyrd,1
+2006-10,Meat Loaf,1
+2006-10,Metallica,1
+2006-10,Motörhead,16
+2006-10,Ozzy Osbourne,3
+2006-10,Pink Floyd,215
+2006-10,Rainbow,11
+2006-10,Ramones,71
+2006-10,Tenacious D,30
+2006-10,The Beatles,9
+2006-10,The Rolling Stones,32
+2006-10,The Who,15
+2006-10,Thin Lizzy,3
+2006-10,U2,6
+2006-11,David Bowie,20
+2006-11,Dread Zeppelin,8
+2006-11,Jimi Hendrix,8
+2006-11,Johnny Cash,30
+2006-11,Led Zeppelin Jam,6
+2006-11,Lez Zeppelin,7
+2006-11,Lynyrd Skynyrd,7
+2006-11,Meat Loaf,2
+2006-11,Metallica,2
+2006-11,Motörhead,23
+2006-11,Ozzy Osbourne,13
+2006-11,Pink Floyd,131
+2006-11,Rainbow,1
+2006-11,Ramones,11
+2006-11,Tenacious D,66
+2006-11,The Beatles,30
+2006-11,The Rolling Stones,0
+2006-11,The Who,14
+2006-11,Thin Lizzy,1
+2006-11,U2,7
+2006-12,David Bowie,11
+2006-12,Dread Zeppelin,9
+2006-12,Jimi Hendrix,0
+2006-12,Johnny Cash,14
+2006-12,Led Zeppelin Jam,6
+2006-12,Lez Zeppelin,5
+2006-12,Lynyrd Skynyrd,6
+2006-12,Meat Loaf,1
+2006-12,Metallica,1
+2006-12,Motörhead,4
+2006-12,Ozzy Osbourne,1
+2006-12,Pink Floyd,27
+2006-12,Rainbow,2
+2006-12,Ramones,19
+2006-12,Tenacious D,76
+2006-12,The Beatles,0
+2006-12,The Rolling Stones,4
+2006-12,The Who,15
+2006-12,Thin Lizzy,8
+2006-12,U2,9
+2007-01,David Bowie,0
+2007-01,Dread Zeppelin,0
+2007-01,Jimi Hendrix,0
+2007-01,Johnny Cash,0
+2007-01,Led Zeppelin Jam,0
+2007-01,Lez Zeppelin,0
+2007-01,Lynyrd Skynyrd,0
+2007-01,Meat Loaf,0
+2007-01,Metallica,0
+2007-01,Motörhead,0
+2007-01,Ozzy Osbourne,0
+2007-01,Pink Floyd,0
+2007-01,Rainbow,0
+2007-01,Ramones,0
+2007-01,Tenacious D,0
+2007-01,The Beatles,0
+2007-01,The Rolling Stones,0
+2007-01,The Who,0
+2007-01,Thin Lizzy,0
+2007-01,U2,0
+2007-02,David Bowie,0
+2007-02,Dread Zeppelin,0
+2007-02,Jimi Hendrix,1
+2007-02,Johnny Cash,0
+2007-02,Led Zeppelin Jam,0
+2007-02,Lez Zeppelin,0
+2007-02,Lynyrd Skynyrd,0
+2007-02,Meat Loaf,0
+2007-02,Metallica,4
+2007-02,Motörhead,0
+2007-02,Ozzy Osbourne,3
+2007-02,Pink Floyd,31
+2007-02,Rainbow,1
+2007-02,Ramones,0
+2007-02,Tenacious D,0
+2007-02,The Beatles,1
+2007-02,The Rolling Stones,0
+2007-02,The Who,3
+2007-02,Thin Lizzy,0
+2007-02,U2,0
+2007-03,David Bowie,0
+2007-03,Dread Zeppelin,0
+2007-03,Jimi Hendrix,0
+2007-03,Johnny Cash,0
+2007-03,Led Zeppelin Jam,0
+2007-03,Lez Zeppelin,0
+2007-03,Lynyrd Skynyrd,0
+2007-03,Meat Loaf,0
+2007-03,Metallica,0
+2007-03,Motörhead,0
+2007-03,Ozzy Osbourne,0
+2007-03,Pink Floyd,0
+2007-03,Rainbow,0
+2007-03,Ramones,0
+2007-03,Tenacious D,0
+2007-03,The Beatles,0
+2007-03,The Rolling Stones,0
+2007-03,The Who,0
+2007-03,Thin Lizzy,0
+2007-03,U2,0
+2007-04,David Bowie,0
+2007-04,Dread Zeppelin,0
+2007-04,Jimi Hendrix,0
+2007-04,Johnny Cash,0
+2007-04,Led Zeppelin Jam,0
+2007-04,Lez Zeppelin,0
+2007-04,Lynyrd Skynyrd,0
+2007-04,Meat Loaf,0
+2007-04,Metallica,0
+2007-04,Motörhead,0
+2007-04,Ozzy Osbourne,0
+2007-04,Pink Floyd,0
+2007-04,Rainbow,0
+2007-04,Ramones,0
+2007-04,Tenacious D,0
+2007-04,The Beatles,0
+2007-04,The Rolling Stones,17
+2007-04,The Who,0
+2007-04,Thin Lizzy,0
+2007-04,U2,0

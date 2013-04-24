@@ -1,0 +1,661 @@
+month,artist,plays
+2006-06,Alice In Chains,26
+2006-06,Arctic Monkeys,0
+2006-06,Black Label Society,17
+2006-06,Corrosion Of Conformity,1
+2006-06,Damageplan,0
+2006-06,Dog Fashion Disco,0
+2006-06,Faith No More,22
+2006-06,Guns N' Roses,7
+2006-06,Jeff Buckley,3
+2006-06,Johnny Cash,6
+2006-06,Melvins,2
+2006-06,Mr. Bungle,8
+2006-06,Ozzy Osbourne,9
+2006-06,Peeping Tom,0
+2006-06,Red Hot Chili Peppers,2
+2006-06,The Clash,8
+2006-06,The Cure,1
+2006-06,The Offspring,5
+2006-06,The Smiths,0
+2006-06,The Stone Roses,1
+2006-07,Alice In Chains,5
+2006-07,Arctic Monkeys,0
+2006-07,Black Label Society,9
+2006-07,Corrosion Of Conformity,15
+2006-07,Damageplan,0
+2006-07,Dog Fashion Disco,0
+2006-07,Faith No More,4
+2006-07,Guns N' Roses,2
+2006-07,Jeff Buckley,14
+2006-07,Johnny Cash,3
+2006-07,Melvins,3
+2006-07,Mr. Bungle,2
+2006-07,Ozzy Osbourne,6
+2006-07,Peeping Tom,0
+2006-07,Red Hot Chili Peppers,1
+2006-07,The Clash,4
+2006-07,The Cure,1
+2006-07,The Offspring,4
+2006-07,The Smiths,0
+2006-07,The Stone Roses,0
+2006-08,Alice In Chains,1
+2006-08,Arctic Monkeys,0
+2006-08,Black Label Society,10
+2006-08,Corrosion Of Conformity,23
+2006-08,Damageplan,0
+2006-08,Dog Fashion Disco,0
+2006-08,Faith No More,7
+2006-08,Guns N' Roses,0
+2006-08,Jeff Buckley,24
+2006-08,Johnny Cash,4
+2006-08,Melvins,1
+2006-08,Mr. Bungle,6
+2006-08,Ozzy Osbourne,5
+2006-08,Peeping Tom,0
+2006-08,Red Hot Chili Peppers,1
+2006-08,The Clash,4
+2006-08,The Cure,1
+2006-08,The Offspring,4
+2006-08,The Smiths,0
+2006-08,The Stone Roses,0
+2006-09,Alice In Chains,2
+2006-09,Arctic Monkeys,0
+2006-09,Black Label Society,40
+2006-09,Corrosion Of Conformity,13
+2006-09,Damageplan,11
+2006-09,Dog Fashion Disco,0
+2006-09,Faith No More,21
+2006-09,Guns N' Roses,10
+2006-09,Jeff Buckley,0
+2006-09,Johnny Cash,0
+2006-09,Melvins,1
+2006-09,Mr. Bungle,29
+2006-09,Ozzy Osbourne,5
+2006-09,Peeping Tom,0
+2006-09,Red Hot Chili Peppers,0
+2006-09,The Clash,0
+2006-09,The Cure,0
+2006-09,The Offspring,1
+2006-09,The Smiths,0
+2006-09,The Stone Roses,0
+2006-10,Alice In Chains,1
+2006-10,Arctic Monkeys,0
+2006-10,Black Label Society,29
+2006-10,Corrosion Of Conformity,20
+2006-10,Damageplan,3
+2006-10,Dog Fashion Disco,0
+2006-10,Faith No More,20
+2006-10,Guns N' Roses,8
+2006-10,Jeff Buckley,0
+2006-10,Johnny Cash,0
+2006-10,Melvins,1
+2006-10,Mr. Bungle,16
+2006-10,Ozzy Osbourne,2
+2006-10,Peeping Tom,0
+2006-10,Red Hot Chili Peppers,0
+2006-10,The Clash,1
+2006-10,The Cure,1
+2006-10,The Offspring,0
+2006-10,The Smiths,0
+2006-10,The Stone Roses,0
+2006-11,Alice In Chains,0
+2006-11,Arctic Monkeys,0
+2006-11,Black Label Society,0
+2006-11,Corrosion Of Conformity,0
+2006-11,Damageplan,0
+2006-11,Dog Fashion Disco,0
+2006-11,Faith No More,0
+2006-11,Guns N' Roses,0
+2006-11,Jeff Buckley,0
+2006-11,Johnny Cash,0
+2006-11,Melvins,0
+2006-11,Mr. Bungle,0
+2006-11,Ozzy Osbourne,0
+2006-11,Peeping Tom,0
+2006-11,Red Hot Chili Peppers,0
+2006-11,The Clash,0
+2006-11,The Cure,0
+2006-11,The Offspring,0
+2006-11,The Smiths,0
+2006-11,The Stone Roses,0
+2006-12,Alice In Chains,0
+2006-12,Arctic Monkeys,0
+2006-12,Black Label Society,0
+2006-12,Corrosion Of Conformity,0
+2006-12,Damageplan,0
+2006-12,Dog Fashion Disco,0
+2006-12,Faith No More,0
+2006-12,Guns N' Roses,0
+2006-12,Jeff Buckley,0
+2006-12,Johnny Cash,0
+2006-12,Melvins,0
+2006-12,Mr. Bungle,0
+2006-12,Ozzy Osbourne,0
+2006-12,Peeping Tom,0
+2006-12,Red Hot Chili Peppers,0
+2006-12,The Clash,0
+2006-12,The Cure,0
+2006-12,The Offspring,0
+2006-12,The Smiths,0
+2006-12,The Stone Roses,0
+2007-01,Alice In Chains,0
+2007-01,Arctic Monkeys,0
+2007-01,Black Label Society,0
+2007-01,Corrosion Of Conformity,0
+2007-01,Damageplan,0
+2007-01,Dog Fashion Disco,0
+2007-01,Faith No More,0
+2007-01,Guns N' Roses,0
+2007-01,Jeff Buckley,0
+2007-01,Johnny Cash,0
+2007-01,Melvins,0
+2007-01,Mr. Bungle,0
+2007-01,Ozzy Osbourne,0
+2007-01,Peeping Tom,0
+2007-01,Red Hot Chili Peppers,0
+2007-01,The Clash,0
+2007-01,The Cure,0
+2007-01,The Offspring,0
+2007-01,The Smiths,0
+2007-01,The Stone Roses,0
+2007-02,Alice In Chains,0
+2007-02,Arctic Monkeys,0
+2007-02,Black Label Society,0
+2007-02,Corrosion Of Conformity,0
+2007-02,Damageplan,0
+2007-02,Dog Fashion Disco,0
+2007-02,Faith No More,0
+2007-02,Guns N' Roses,0
+2007-02,Jeff Buckley,0
+2007-02,Johnny Cash,0
+2007-02,Melvins,0
+2007-02,Mr. Bungle,0
+2007-02,Ozzy Osbourne,0
+2007-02,Peeping Tom,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,The Clash,0
+2007-02,The Cure,0
+2007-02,The Offspring,0
+2007-02,The Smiths,0
+2007-02,The Stone Roses,0
+2007-03,Alice In Chains,0
+2007-03,Arctic Monkeys,0
+2007-03,Black Label Society,0
+2007-03,Corrosion Of Conformity,0
+2007-03,Damageplan,0
+2007-03,Dog Fashion Disco,0
+2007-03,Faith No More,0
+2007-03,Guns N' Roses,0
+2007-03,Jeff Buckley,0
+2007-03,Johnny Cash,0
+2007-03,Melvins,0
+2007-03,Mr. Bungle,0
+2007-03,Ozzy Osbourne,0
+2007-03,Peeping Tom,0
+2007-03,Red Hot Chili Peppers,0
+2007-03,The Clash,0
+2007-03,The Cure,0
+2007-03,The Offspring,0
+2007-03,The Smiths,0
+2007-03,The Stone Roses,0
+2007-04,Alice In Chains,0
+2007-04,Arctic Monkeys,0
+2007-04,Black Label Society,0
+2007-04,Corrosion Of Conformity,0
+2007-04,Damageplan,0
+2007-04,Dog Fashion Disco,0
+2007-04,Faith No More,0
+2007-04,Guns N' Roses,0
+2007-04,Jeff Buckley,0
+2007-04,Johnny Cash,0
+2007-04,Melvins,0
+2007-04,Mr. Bungle,0
+2007-04,Ozzy Osbourne,0
+2007-04,Peeping Tom,0
+2007-04,Red Hot Chili Peppers,0
+2007-04,The Clash,0
+2007-04,The Cure,0
+2007-04,The Offspring,0
+2007-04,The Smiths,0
+2007-04,The Stone Roses,0
+2007-05,Alice In Chains,0
+2007-05,Arctic Monkeys,0
+2007-05,Black Label Society,0
+2007-05,Corrosion Of Conformity,0
+2007-05,Damageplan,0
+2007-05,Dog Fashion Disco,0
+2007-05,Faith No More,0
+2007-05,Guns N' Roses,0
+2007-05,Jeff Buckley,0
+2007-05,Johnny Cash,0
+2007-05,Melvins,0
+2007-05,Mr. Bungle,0
+2007-05,Ozzy Osbourne,0
+2007-05,Peeping Tom,0
+2007-05,Red Hot Chili Peppers,0
+2007-05,The Clash,0
+2007-05,The Cure,0
+2007-05,The Offspring,0
+2007-05,The Smiths,0
+2007-05,The Stone Roses,0
+2007-06,Alice In Chains,0
+2007-06,Arctic Monkeys,0
+2007-06,Black Label Society,0
+2007-06,Corrosion Of Conformity,0
+2007-06,Damageplan,0
+2007-06,Dog Fashion Disco,0
+2007-06,Faith No More,0
+2007-06,Guns N' Roses,0
+2007-06,Jeff Buckley,0
+2007-06,Johnny Cash,0
+2007-06,Melvins,0
+2007-06,Mr. Bungle,0
+2007-06,Ozzy Osbourne,0
+2007-06,Peeping Tom,0
+2007-06,Red Hot Chili Peppers,0
+2007-06,The Clash,0
+2007-06,The Cure,0
+2007-06,The Offspring,0
+2007-06,The Smiths,0
+2007-06,The Stone Roses,0
+2007-07,Alice In Chains,0
+2007-07,Arctic Monkeys,0
+2007-07,Black Label Society,0
+2007-07,Corrosion Of Conformity,0
+2007-07,Damageplan,0
+2007-07,Dog Fashion Disco,0
+2007-07,Faith No More,0
+2007-07,Guns N' Roses,0
+2007-07,Jeff Buckley,0
+2007-07,Johnny Cash,0
+2007-07,Melvins,0
+2007-07,Mr. Bungle,0
+2007-07,Ozzy Osbourne,0
+2007-07,Peeping Tom,0
+2007-07,Red Hot Chili Peppers,0
+2007-07,The Clash,0
+2007-07,The Cure,0
+2007-07,The Offspring,0
+2007-07,The Smiths,0
+2007-07,The Stone Roses,0
+2007-08,Alice In Chains,0
+2007-08,Arctic Monkeys,0
+2007-08,Black Label Society,0
+2007-08,Corrosion Of Conformity,0
+2007-08,Damageplan,0
+2007-08,Dog Fashion Disco,0
+2007-08,Faith No More,0
+2007-08,Guns N' Roses,0
+2007-08,Jeff Buckley,0
+2007-08,Johnny Cash,0
+2007-08,Melvins,0
+2007-08,Mr. Bungle,0
+2007-08,Ozzy Osbourne,0
+2007-08,Peeping Tom,0
+2007-08,Red Hot Chili Peppers,0
+2007-08,The Clash,0
+2007-08,The Cure,0
+2007-08,The Offspring,0
+2007-08,The Smiths,0
+2007-08,The Stone Roses,0
+2007-09,Alice In Chains,0
+2007-09,Arctic Monkeys,0
+2007-09,Black Label Society,0
+2007-09,Corrosion Of Conformity,0
+2007-09,Damageplan,0
+2007-09,Dog Fashion Disco,0
+2007-09,Faith No More,0
+2007-09,Guns N' Roses,0
+2007-09,Jeff Buckley,0
+2007-09,Johnny Cash,0
+2007-09,Melvins,0
+2007-09,Mr. Bungle,0
+2007-09,Ozzy Osbourne,0
+2007-09,Peeping Tom,0
+2007-09,Red Hot Chili Peppers,0
+2007-09,The Clash,0
+2007-09,The Cure,0
+2007-09,The Offspring,0
+2007-09,The Smiths,0
+2007-09,The Stone Roses,0
+2007-10,Alice In Chains,0
+2007-10,Arctic Monkeys,0
+2007-10,Black Label Society,0
+2007-10,Corrosion Of Conformity,0
+2007-10,Damageplan,0
+2007-10,Dog Fashion Disco,0
+2007-10,Faith No More,0
+2007-10,Guns N' Roses,0
+2007-10,Jeff Buckley,0
+2007-10,Johnny Cash,0
+2007-10,Melvins,0
+2007-10,Mr. Bungle,0
+2007-10,Ozzy Osbourne,0
+2007-10,Peeping Tom,0
+2007-10,Red Hot Chili Peppers,0
+2007-10,The Clash,0
+2007-10,The Cure,0
+2007-10,The Offspring,0
+2007-10,The Smiths,0
+2007-10,The Stone Roses,0
+2007-11,Alice In Chains,0
+2007-11,Arctic Monkeys,0
+2007-11,Black Label Society,0
+2007-11,Corrosion Of Conformity,0
+2007-11,Damageplan,0
+2007-11,Dog Fashion Disco,0
+2007-11,Faith No More,0
+2007-11,Guns N' Roses,0
+2007-11,Jeff Buckley,0
+2007-11,Johnny Cash,0
+2007-11,Melvins,0
+2007-11,Mr. Bungle,0
+2007-11,Ozzy Osbourne,0
+2007-11,Peeping Tom,0
+2007-11,Red Hot Chili Peppers,0
+2007-11,The Clash,0
+2007-11,The Cure,0
+2007-11,The Offspring,0
+2007-11,The Smiths,0
+2007-11,The Stone Roses,0
+2007-12,Alice In Chains,0
+2007-12,Arctic Monkeys,0
+2007-12,Black Label Society,0
+2007-12,Corrosion Of Conformity,0
+2007-12,Damageplan,0
+2007-12,Dog Fashion Disco,0
+2007-12,Faith No More,0
+2007-12,Guns N' Roses,0
+2007-12,Jeff Buckley,0
+2007-12,Johnny Cash,0
+2007-12,Melvins,0
+2007-12,Mr. Bungle,0
+2007-12,Ozzy Osbourne,0
+2007-12,Peeping Tom,0
+2007-12,Red Hot Chili Peppers,0
+2007-12,The Clash,0
+2007-12,The Cure,0
+2007-12,The Offspring,0
+2007-12,The Smiths,0
+2007-12,The Stone Roses,0
+2008-01,Alice In Chains,1
+2008-01,Arctic Monkeys,0
+2008-01,Black Label Society,1
+2008-01,Corrosion Of Conformity,4
+2008-01,Damageplan,3
+2008-01,Dog Fashion Disco,6
+2008-01,Faith No More,3
+2008-01,Guns N' Roses,0
+2008-01,Jeff Buckley,0
+2008-01,Johnny Cash,1
+2008-01,Melvins,1
+2008-01,Mr. Bungle,9
+2008-01,Ozzy Osbourne,1
+2008-01,Peeping Tom,4
+2008-01,Red Hot Chili Peppers,0
+2008-01,The Clash,4
+2008-01,The Cure,3
+2008-01,The Offspring,1
+2008-01,The Smiths,3
+2008-01,The Stone Roses,3
+2008-02,Alice In Chains,1
+2008-02,Arctic Monkeys,2
+2008-02,Black Label Society,0
+2008-02,Corrosion Of Conformity,1
+2008-02,Damageplan,0
+2008-02,Dog Fashion Disco,3
+2008-02,Faith No More,2
+2008-02,Guns N' Roses,2
+2008-02,Jeff Buckley,5
+2008-02,Johnny Cash,4
+2008-02,Melvins,1
+2008-02,Mr. Bungle,4
+2008-02,Ozzy Osbourne,3
+2008-02,Peeping Tom,15
+2008-02,Red Hot Chili Peppers,1
+2008-02,The Clash,4
+2008-02,The Cure,1
+2008-02,The Offspring,1
+2008-02,The Smiths,4
+2008-02,The Stone Roses,5
+2008-03,Alice In Chains,0
+2008-03,Arctic Monkeys,4
+2008-03,Black Label Society,1
+2008-03,Corrosion Of Conformity,2
+2008-03,Damageplan,1
+2008-03,Dog Fashion Disco,1
+2008-03,Faith No More,4
+2008-03,Guns N' Roses,1
+2008-03,Jeff Buckley,1
+2008-03,Johnny Cash,1
+2008-03,Melvins,0
+2008-03,Mr. Bungle,1
+2008-03,Ozzy Osbourne,1
+2008-03,Peeping Tom,8
+2008-03,Red Hot Chili Peppers,2
+2008-03,The Clash,4
+2008-03,The Cure,3
+2008-03,The Offspring,0
+2008-03,The Smiths,3
+2008-03,The Stone Roses,4
+2008-04,Alice In Chains,0
+2008-04,Arctic Monkeys,6
+2008-04,Black Label Society,1
+2008-04,Corrosion Of Conformity,2
+2008-04,Damageplan,1
+2008-04,Dog Fashion Disco,1
+2008-04,Faith No More,2
+2008-04,Guns N' Roses,1
+2008-04,Jeff Buckley,1
+2008-04,Johnny Cash,0
+2008-04,Melvins,0
+2008-04,Mr. Bungle,5
+2008-04,Ozzy Osbourne,1
+2008-04,Peeping Tom,4
+2008-04,Red Hot Chili Peppers,2
+2008-04,The Clash,0
+2008-04,The Cure,1
+2008-04,The Offspring,0
+2008-04,The Smiths,3
+2008-04,The Stone Roses,3
+2008-05,Alice In Chains,0
+2008-05,Arctic Monkeys,7
+2008-05,Black Label Society,0
+2008-05,Corrosion Of Conformity,0
+2008-05,Damageplan,0
+2008-05,Dog Fashion Disco,1
+2008-05,Faith No More,5
+2008-05,Guns N' Roses,0
+2008-05,Jeff Buckley,1
+2008-05,Johnny Cash,0
+2008-05,Melvins,0
+2008-05,Mr. Bungle,3
+2008-05,Ozzy Osbourne,0
+2008-05,Peeping Tom,3
+2008-05,Red Hot Chili Peppers,0
+2008-05,The Clash,0
+2008-05,The Cure,2
+2008-05,The Offspring,0
+2008-05,The Smiths,9
+2008-05,The Stone Roses,5
+2008-06,Alice In Chains,0
+2008-06,Arctic Monkeys,0
+2008-06,Black Label Society,0
+2008-06,Corrosion Of Conformity,0
+2008-06,Damageplan,0
+2008-06,Dog Fashion Disco,0
+2008-06,Faith No More,0
+2008-06,Guns N' Roses,0
+2008-06,Jeff Buckley,0
+2008-06,Johnny Cash,0
+2008-06,Melvins,0
+2008-06,Mr. Bungle,0
+2008-06,Ozzy Osbourne,0
+2008-06,Peeping Tom,1
+2008-06,Red Hot Chili Peppers,0
+2008-06,The Clash,0
+2008-06,The Cure,0
+2008-06,The Offspring,0
+2008-06,The Smiths,0
+2008-06,The Stone Roses,0
+2008-07,Alice In Chains,1
+2008-07,Arctic Monkeys,0
+2008-07,Black Label Society,0
+2008-07,Corrosion Of Conformity,0
+2008-07,Damageplan,0
+2008-07,Dog Fashion Disco,1
+2008-07,Faith No More,3
+2008-07,Guns N' Roses,0
+2008-07,Jeff Buckley,0
+2008-07,Johnny Cash,0
+2008-07,Melvins,0
+2008-07,Mr. Bungle,15
+2008-07,Ozzy Osbourne,0
+2008-07,Peeping Tom,7
+2008-07,Red Hot Chili Peppers,0
+2008-07,The Clash,0
+2008-07,The Cure,0
+2008-07,The Offspring,0
+2008-07,The Smiths,0
+2008-07,The Stone Roses,0
+2008-08,Alice In Chains,1
+2008-08,Arctic Monkeys,1
+2008-08,Black Label Society,4
+2008-08,Corrosion Of Conformity,1
+2008-08,Damageplan,2
+2008-08,Dog Fashion Disco,0
+2008-08,Faith No More,10
+2008-08,Guns N' Roses,0
+2008-08,Jeff Buckley,1
+2008-08,Johnny Cash,0
+2008-08,Melvins,0
+2008-08,Mr. Bungle,41
+2008-08,Ozzy Osbourne,0
+2008-08,Peeping Tom,13
+2008-08,Red Hot Chili Peppers,0
+2008-08,The Clash,0
+2008-08,The Cure,0
+2008-08,The Offspring,0
+2008-08,The Smiths,3
+2008-08,The Stone Roses,2
+2008-09,Alice In Chains,0
+2008-09,Arctic Monkeys,0
+2008-09,Black Label Society,0
+2008-09,Corrosion Of Conformity,0
+2008-09,Damageplan,0
+2008-09,Dog Fashion Disco,0
+2008-09,Faith No More,0
+2008-09,Guns N' Roses,0
+2008-09,Jeff Buckley,0
+2008-09,Johnny Cash,0
+2008-09,Melvins,0
+2008-09,Mr. Bungle,0
+2008-09,Ozzy Osbourne,0
+2008-09,Peeping Tom,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,The Clash,0
+2008-09,The Cure,0
+2008-09,The Offspring,0
+2008-09,The Smiths,0
+2008-09,The Stone Roses,0
+2008-10,Alice In Chains,0
+2008-10,Arctic Monkeys,0
+2008-10,Black Label Society,0
+2008-10,Corrosion Of Conformity,0
+2008-10,Damageplan,0
+2008-10,Dog Fashion Disco,0
+2008-10,Faith No More,0
+2008-10,Guns N' Roses,0
+2008-10,Jeff Buckley,0
+2008-10,Johnny Cash,0
+2008-10,Melvins,0
+2008-10,Mr. Bungle,0
+2008-10,Ozzy Osbourne,0
+2008-10,Peeping Tom,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,The Clash,0
+2008-10,The Cure,0
+2008-10,The Offspring,0
+2008-10,The Smiths,0
+2008-10,The Stone Roses,0
+2008-11,Alice In Chains,0
+2008-11,Arctic Monkeys,0
+2008-11,Black Label Society,0
+2008-11,Corrosion Of Conformity,0
+2008-11,Damageplan,0
+2008-11,Dog Fashion Disco,0
+2008-11,Faith No More,0
+2008-11,Guns N' Roses,0
+2008-11,Jeff Buckley,0
+2008-11,Johnny Cash,0
+2008-11,Melvins,0
+2008-11,Mr. Bungle,0
+2008-11,Ozzy Osbourne,0
+2008-11,Peeping Tom,0
+2008-11,Red Hot Chili Peppers,0
+2008-11,The Clash,0
+2008-11,The Cure,0
+2008-11,The Offspring,0
+2008-11,The Smiths,0
+2008-11,The Stone Roses,0
+2008-12,Alice In Chains,0
+2008-12,Arctic Monkeys,0
+2008-12,Black Label Society,0
+2008-12,Corrosion Of Conformity,0
+2008-12,Damageplan,0
+2008-12,Dog Fashion Disco,0
+2008-12,Faith No More,0
+2008-12,Guns N' Roses,0
+2008-12,Jeff Buckley,0
+2008-12,Johnny Cash,0
+2008-12,Melvins,0
+2008-12,Mr. Bungle,0
+2008-12,Ozzy Osbourne,0
+2008-12,Peeping Tom,0
+2008-12,Red Hot Chili Peppers,0
+2008-12,The Clash,0
+2008-12,The Cure,0
+2008-12,The Offspring,0
+2008-12,The Smiths,0
+2008-12,The Stone Roses,0
+2009-01,Alice In Chains,0
+2009-01,Arctic Monkeys,0
+2009-01,Black Label Society,0
+2009-01,Corrosion Of Conformity,0
+2009-01,Damageplan,0
+2009-01,Dog Fashion Disco,0
+2009-01,Faith No More,0
+2009-01,Guns N' Roses,0
+2009-01,Jeff Buckley,1
+2009-01,Johnny Cash,0
+2009-01,Melvins,0
+2009-01,Mr. Bungle,1
+2009-01,Ozzy Osbourne,1
+2009-01,Peeping Tom,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,The Clash,0
+2009-01,The Cure,0
+2009-01,The Offspring,0
+2009-01,The Smiths,0
+2009-01,The Stone Roses,0
+2009-02,Alice In Chains,1
+2009-02,Arctic Monkeys,2
+2009-02,Black Label Society,0
+2009-02,Corrosion Of Conformity,0
+2009-02,Damageplan,0
+2009-02,Dog Fashion Disco,0
+2009-02,Faith No More,7
+2009-02,Guns N' Roses,0
+2009-02,Jeff Buckley,1
+2009-02,Johnny Cash,0
+2009-02,Melvins,0
+2009-02,Mr. Bungle,2
+2009-02,Ozzy Osbourne,1
+2009-02,Peeping Tom,3
+2009-02,Red Hot Chili Peppers,0
+2009-02,The Clash,0
+2009-02,The Cure,0
+2009-02,The Offspring,0
+2009-02,The Smiths,2
+2009-02,The Stone Roses,0

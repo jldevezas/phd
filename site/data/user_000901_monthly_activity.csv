@@ -1,0 +1,721 @@
+month,artist,plays
+2006-05,Aerosmith,1
+2006-05,Cake,9
+2006-05,Carla Bruni,0
+2006-05,Cat Power,1
+2006-05,Diana Krall,133
+2006-05,Dido,7
+2006-05,Dread Zeppelin,0
+2006-05,Emilíana Torrini,13
+2006-05,Feist,11
+2006-05,Garbage,171
+2006-05,Goldfrapp,9
+2006-05,Hole,4
+2006-05,Keren Ann,0
+2006-05,Led Zeppelin,0
+2006-05,Morcheeba,4
+2006-05,Nina Simone,0
+2006-05,Pj Harvey,9
+2006-05,The Rolling Stones,0
+2006-05,Thievery Corporation,1
+2006-05,Yeah Yeah Yeahs,0
+2006-06,Aerosmith,0
+2006-06,Cake,37
+2006-06,Carla Bruni,0
+2006-06,Cat Power,0
+2006-06,Diana Krall,0
+2006-06,Dido,13
+2006-06,Dread Zeppelin,0
+2006-06,Emilíana Torrini,0
+2006-06,Feist,5
+2006-06,Garbage,50
+2006-06,Goldfrapp,6
+2006-06,Hole,0
+2006-06,Keren Ann,0
+2006-06,Led Zeppelin,0
+2006-06,Morcheeba,0
+2006-06,Nina Simone,0
+2006-06,Pj Harvey,0
+2006-06,The Rolling Stones,0
+2006-06,Thievery Corporation,0
+2006-06,Yeah Yeah Yeahs,0
+2006-07,Aerosmith,3
+2006-07,Cake,3
+2006-07,Carla Bruni,0
+2006-07,Cat Power,0
+2006-07,Diana Krall,1
+2006-07,Dido,3
+2006-07,Dread Zeppelin,5
+2006-07,Emilíana Torrini,0
+2006-07,Feist,0
+2006-07,Garbage,22
+2006-07,Goldfrapp,0
+2006-07,Hole,39
+2006-07,Keren Ann,0
+2006-07,Led Zeppelin,4
+2006-07,Morcheeba,3
+2006-07,Nina Simone,0
+2006-07,Pj Harvey,0
+2006-07,The Rolling Stones,8
+2006-07,Thievery Corporation,0
+2006-07,Yeah Yeah Yeahs,0
+2006-08,Aerosmith,12
+2006-08,Cake,8
+2006-08,Carla Bruni,12
+2006-08,Cat Power,1
+2006-08,Diana Krall,1
+2006-08,Dido,3
+2006-08,Dread Zeppelin,30
+2006-08,Emilíana Torrini,2
+2006-08,Feist,5
+2006-08,Garbage,2
+2006-08,Goldfrapp,3
+2006-08,Hole,5
+2006-08,Keren Ann,12
+2006-08,Led Zeppelin,39
+2006-08,Morcheeba,0
+2006-08,Nina Simone,1
+2006-08,Pj Harvey,41
+2006-08,The Rolling Stones,54
+2006-08,Thievery Corporation,0
+2006-08,Yeah Yeah Yeahs,2
+2006-09,Aerosmith,18
+2006-09,Cake,12
+2006-09,Carla Bruni,0
+2006-09,Cat Power,0
+2006-09,Diana Krall,4
+2006-09,Dido,6
+2006-09,Dread Zeppelin,0
+2006-09,Emilíana Torrini,2
+2006-09,Feist,3
+2006-09,Garbage,56
+2006-09,Goldfrapp,2
+2006-09,Hole,9
+2006-09,Keren Ann,11
+2006-09,Led Zeppelin,5
+2006-09,Morcheeba,3
+2006-09,Nina Simone,1
+2006-09,Pj Harvey,17
+2006-09,The Rolling Stones,13
+2006-09,Thievery Corporation,2
+2006-09,Yeah Yeah Yeahs,0
+2006-10,Aerosmith,7
+2006-10,Cake,8
+2006-10,Carla Bruni,14
+2006-10,Cat Power,1
+2006-10,Diana Krall,16
+2006-10,Dido,7
+2006-10,Dread Zeppelin,3
+2006-10,Emilíana Torrini,0
+2006-10,Feist,12
+2006-10,Garbage,5
+2006-10,Goldfrapp,0
+2006-10,Hole,7
+2006-10,Keren Ann,4
+2006-10,Led Zeppelin,3
+2006-10,Morcheeba,4
+2006-10,Nina Simone,1
+2006-10,Pj Harvey,8
+2006-10,The Rolling Stones,12
+2006-10,Thievery Corporation,0
+2006-10,Yeah Yeah Yeahs,14
+2006-11,Aerosmith,49
+2006-11,Cake,1
+2006-11,Carla Bruni,12
+2006-11,Cat Power,12
+2006-11,Diana Krall,7
+2006-11,Dido,2
+2006-11,Dread Zeppelin,0
+2006-11,Emilíana Torrini,3
+2006-11,Feist,0
+2006-11,Garbage,6
+2006-11,Goldfrapp,1
+2006-11,Hole,35
+2006-11,Keren Ann,0
+2006-11,Led Zeppelin,8
+2006-11,Morcheeba,3
+2006-11,Nina Simone,1
+2006-11,Pj Harvey,41
+2006-11,The Rolling Stones,5
+2006-11,Thievery Corporation,1
+2006-11,Yeah Yeah Yeahs,2
+2006-12,Aerosmith,7
+2006-12,Cake,18
+2006-12,Carla Bruni,7
+2006-12,Cat Power,13
+2006-12,Diana Krall,1
+2006-12,Dido,18
+2006-12,Dread Zeppelin,10
+2006-12,Emilíana Torrini,19
+2006-12,Feist,0
+2006-12,Garbage,37
+2006-12,Goldfrapp,1
+2006-12,Hole,55
+2006-12,Keren Ann,1
+2006-12,Led Zeppelin,18
+2006-12,Morcheeba,8
+2006-12,Nina Simone,10
+2006-12,Pj Harvey,18
+2006-12,The Rolling Stones,23
+2006-12,Thievery Corporation,1
+2006-12,Yeah Yeah Yeahs,3
+2007-01,Aerosmith,27
+2007-01,Cake,44
+2007-01,Carla Bruni,25
+2007-01,Cat Power,2
+2007-01,Diana Krall,14
+2007-01,Dido,1
+2007-01,Dread Zeppelin,7
+2007-01,Emilíana Torrini,2
+2007-01,Feist,2
+2007-01,Garbage,15
+2007-01,Goldfrapp,0
+2007-01,Hole,20
+2007-01,Keren Ann,19
+2007-01,Led Zeppelin,4
+2007-01,Morcheeba,1
+2007-01,Nina Simone,2
+2007-01,Pj Harvey,37
+2007-01,The Rolling Stones,7
+2007-01,Thievery Corporation,28
+2007-01,Yeah Yeah Yeahs,4
+2007-02,Aerosmith,13
+2007-02,Cake,1
+2007-02,Carla Bruni,25
+2007-02,Cat Power,19
+2007-02,Diana Krall,0
+2007-02,Dido,0
+2007-02,Dread Zeppelin,13
+2007-02,Emilíana Torrini,0
+2007-02,Feist,3
+2007-02,Garbage,0
+2007-02,Goldfrapp,2
+2007-02,Hole,6
+2007-02,Keren Ann,2
+2007-02,Led Zeppelin,14
+2007-02,Morcheeba,0
+2007-02,Nina Simone,27
+2007-02,Pj Harvey,21
+2007-02,The Rolling Stones,4
+2007-02,Thievery Corporation,1
+2007-02,Yeah Yeah Yeahs,3
+2007-03,Aerosmith,1
+2007-03,Cake,6
+2007-03,Carla Bruni,15
+2007-03,Cat Power,2
+2007-03,Diana Krall,4
+2007-03,Dido,2
+2007-03,Dread Zeppelin,1
+2007-03,Emilíana Torrini,11
+2007-03,Feist,7
+2007-03,Garbage,3
+2007-03,Goldfrapp,0
+2007-03,Hole,4
+2007-03,Keren Ann,1
+2007-03,Led Zeppelin,4
+2007-03,Morcheeba,0
+2007-03,Nina Simone,3
+2007-03,Pj Harvey,2
+2007-03,The Rolling Stones,7
+2007-03,Thievery Corporation,7
+2007-03,Yeah Yeah Yeahs,7
+2007-04,Aerosmith,0
+2007-04,Cake,0
+2007-04,Carla Bruni,0
+2007-04,Cat Power,0
+2007-04,Diana Krall,0
+2007-04,Dido,0
+2007-04,Dread Zeppelin,0
+2007-04,Emilíana Torrini,0
+2007-04,Feist,0
+2007-04,Garbage,0
+2007-04,Goldfrapp,0
+2007-04,Hole,0
+2007-04,Keren Ann,0
+2007-04,Led Zeppelin,0
+2007-04,Morcheeba,1
+2007-04,Nina Simone,0
+2007-04,Pj Harvey,0
+2007-04,The Rolling Stones,0
+2007-04,Thievery Corporation,0
+2007-04,Yeah Yeah Yeahs,0
+2007-05,Aerosmith,19
+2007-05,Cake,14
+2007-05,Carla Bruni,38
+2007-05,Cat Power,12
+2007-05,Diana Krall,7
+2007-05,Dido,1
+2007-05,Dread Zeppelin,3
+2007-05,Emilíana Torrini,11
+2007-05,Feist,0
+2007-05,Garbage,0
+2007-05,Goldfrapp,10
+2007-05,Hole,8
+2007-05,Keren Ann,0
+2007-05,Led Zeppelin,2
+2007-05,Morcheeba,20
+2007-05,Nina Simone,2
+2007-05,Pj Harvey,15
+2007-05,The Rolling Stones,2
+2007-05,Thievery Corporation,3
+2007-05,Yeah Yeah Yeahs,5
+2007-06,Aerosmith,5
+2007-06,Cake,1
+2007-06,Carla Bruni,2
+2007-06,Cat Power,4
+2007-06,Diana Krall,10
+2007-06,Dido,1
+2007-06,Dread Zeppelin,5
+2007-06,Emilíana Torrini,2
+2007-06,Feist,6
+2007-06,Garbage,5
+2007-06,Goldfrapp,0
+2007-06,Hole,7
+2007-06,Keren Ann,12
+2007-06,Led Zeppelin,7
+2007-06,Morcheeba,3
+2007-06,Nina Simone,25
+2007-06,Pj Harvey,4
+2007-06,The Rolling Stones,7
+2007-06,Thievery Corporation,11
+2007-06,Yeah Yeah Yeahs,3
+2007-07,Aerosmith,4
+2007-07,Cake,2
+2007-07,Carla Bruni,1
+2007-07,Cat Power,15
+2007-07,Diana Krall,10
+2007-07,Dido,11
+2007-07,Dread Zeppelin,9
+2007-07,Emilíana Torrini,4
+2007-07,Feist,3
+2007-07,Garbage,1
+2007-07,Goldfrapp,0
+2007-07,Hole,23
+2007-07,Keren Ann,21
+2007-07,Led Zeppelin,8
+2007-07,Morcheeba,1
+2007-07,Nina Simone,5
+2007-07,Pj Harvey,5
+2007-07,The Rolling Stones,6
+2007-07,Thievery Corporation,1
+2007-07,Yeah Yeah Yeahs,7
+2007-08,Aerosmith,1
+2007-08,Cake,7
+2007-08,Carla Bruni,27
+2007-08,Cat Power,23
+2007-08,Diana Krall,7
+2007-08,Dido,1
+2007-08,Dread Zeppelin,2
+2007-08,Emilíana Torrini,11
+2007-08,Feist,33
+2007-08,Garbage,0
+2007-08,Goldfrapp,7
+2007-08,Hole,0
+2007-08,Keren Ann,80
+2007-08,Led Zeppelin,1
+2007-08,Morcheeba,1
+2007-08,Nina Simone,61
+2007-08,Pj Harvey,21
+2007-08,The Rolling Stones,3
+2007-08,Thievery Corporation,19
+2007-08,Yeah Yeah Yeahs,12
+2007-09,Aerosmith,0
+2007-09,Cake,7
+2007-09,Carla Bruni,30
+2007-09,Cat Power,8
+2007-09,Diana Krall,5
+2007-09,Dido,2
+2007-09,Dread Zeppelin,62
+2007-09,Emilíana Torrini,3
+2007-09,Feist,3
+2007-09,Garbage,36
+2007-09,Goldfrapp,60
+2007-09,Hole,2
+2007-09,Keren Ann,53
+2007-09,Led Zeppelin,78
+2007-09,Morcheeba,1
+2007-09,Nina Simone,16
+2007-09,Pj Harvey,23
+2007-09,The Rolling Stones,66
+2007-09,Thievery Corporation,1
+2007-09,Yeah Yeah Yeahs,4
+2007-10,Aerosmith,7
+2007-10,Cake,15
+2007-10,Carla Bruni,1
+2007-10,Cat Power,18
+2007-10,Diana Krall,11
+2007-10,Dido,0
+2007-10,Dread Zeppelin,25
+2007-10,Emilíana Torrini,13
+2007-10,Feist,2
+2007-10,Garbage,0
+2007-10,Goldfrapp,36
+2007-10,Hole,2
+2007-10,Keren Ann,150
+2007-10,Led Zeppelin,21
+2007-10,Morcheeba,0
+2007-10,Nina Simone,5
+2007-10,Pj Harvey,0
+2007-10,The Rolling Stones,23
+2007-10,Thievery Corporation,60
+2007-10,Yeah Yeah Yeahs,24
+2007-11,Aerosmith,10
+2007-11,Cake,18
+2007-11,Carla Bruni,20
+2007-11,Cat Power,11
+2007-11,Diana Krall,11
+2007-11,Dido,0
+2007-11,Dread Zeppelin,4
+2007-11,Emilíana Torrini,11
+2007-11,Feist,43
+2007-11,Garbage,23
+2007-11,Goldfrapp,11
+2007-11,Hole,0
+2007-11,Keren Ann,68
+2007-11,Led Zeppelin,1
+2007-11,Morcheeba,49
+2007-11,Nina Simone,0
+2007-11,Pj Harvey,34
+2007-11,The Rolling Stones,16
+2007-11,Thievery Corporation,2
+2007-11,Yeah Yeah Yeahs,1
+2007-12,Aerosmith,1
+2007-12,Cake,5
+2007-12,Carla Bruni,3
+2007-12,Cat Power,0
+2007-12,Diana Krall,0
+2007-12,Dido,0
+2007-12,Dread Zeppelin,0
+2007-12,Emilíana Torrini,12
+2007-12,Feist,20
+2007-12,Garbage,18
+2007-12,Goldfrapp,12
+2007-12,Hole,1
+2007-12,Keren Ann,22
+2007-12,Led Zeppelin,1
+2007-12,Morcheeba,2
+2007-12,Nina Simone,0
+2007-12,Pj Harvey,14
+2007-12,The Rolling Stones,2
+2007-12,Thievery Corporation,1
+2007-12,Yeah Yeah Yeahs,2
+2008-01,Aerosmith,15
+2008-01,Cake,15
+2008-01,Carla Bruni,18
+2008-01,Cat Power,19
+2008-01,Diana Krall,10
+2008-01,Dido,1
+2008-01,Dread Zeppelin,2
+2008-01,Emilíana Torrini,15
+2008-01,Feist,56
+2008-01,Garbage,10
+2008-01,Goldfrapp,29
+2008-01,Hole,3
+2008-01,Keren Ann,8
+2008-01,Led Zeppelin,1
+2008-01,Morcheeba,2
+2008-01,Nina Simone,28
+2008-01,Pj Harvey,0
+2008-01,The Rolling Stones,14
+2008-01,Thievery Corporation,0
+2008-01,Yeah Yeah Yeahs,2
+2008-02,Aerosmith,2
+2008-02,Cake,34
+2008-02,Carla Bruni,2
+2008-02,Cat Power,10
+2008-02,Diana Krall,0
+2008-02,Dido,17
+2008-02,Dread Zeppelin,1
+2008-02,Emilíana Torrini,0
+2008-02,Feist,36
+2008-02,Garbage,12
+2008-02,Goldfrapp,43
+2008-02,Hole,24
+2008-02,Keren Ann,26
+2008-02,Led Zeppelin,1
+2008-02,Morcheeba,47
+2008-02,Nina Simone,22
+2008-02,Pj Harvey,2
+2008-02,The Rolling Stones,12
+2008-02,Thievery Corporation,15
+2008-02,Yeah Yeah Yeahs,17
+2008-03,Aerosmith,6
+2008-03,Cake,38
+2008-03,Carla Bruni,0
+2008-03,Cat Power,11
+2008-03,Diana Krall,10
+2008-03,Dido,18
+2008-03,Dread Zeppelin,3
+2008-03,Emilíana Torrini,0
+2008-03,Feist,2
+2008-03,Garbage,45
+2008-03,Goldfrapp,42
+2008-03,Hole,10
+2008-03,Keren Ann,0
+2008-03,Led Zeppelin,8
+2008-03,Morcheeba,0
+2008-03,Nina Simone,10
+2008-03,Pj Harvey,10
+2008-03,The Rolling Stones,1
+2008-03,Thievery Corporation,0
+2008-03,Yeah Yeah Yeahs,0
+2008-04,Aerosmith,12
+2008-04,Cake,12
+2008-04,Carla Bruni,11
+2008-04,Cat Power,1
+2008-04,Diana Krall,0
+2008-04,Dido,0
+2008-04,Dread Zeppelin,0
+2008-04,Emilíana Torrini,2
+2008-04,Feist,13
+2008-04,Garbage,26
+2008-04,Goldfrapp,10
+2008-04,Hole,2
+2008-04,Keren Ann,14
+2008-04,Led Zeppelin,0
+2008-04,Morcheeba,14
+2008-04,Nina Simone,1
+2008-04,Pj Harvey,2
+2008-04,The Rolling Stones,0
+2008-04,Thievery Corporation,1
+2008-04,Yeah Yeah Yeahs,5
+2008-05,Aerosmith,1
+2008-05,Cake,5
+2008-05,Carla Bruni,2
+2008-05,Cat Power,24
+2008-05,Diana Krall,14
+2008-05,Dido,11
+2008-05,Dread Zeppelin,9
+2008-05,Emilíana Torrini,10
+2008-05,Feist,30
+2008-05,Garbage,0
+2008-05,Goldfrapp,16
+2008-05,Hole,6
+2008-05,Keren Ann,14
+2008-05,Led Zeppelin,9
+2008-05,Morcheeba,11
+2008-05,Nina Simone,1
+2008-05,Pj Harvey,0
+2008-05,The Rolling Stones,5
+2008-05,Thievery Corporation,7
+2008-05,Yeah Yeah Yeahs,1
+2008-06,Aerosmith,24
+2008-06,Cake,24
+2008-06,Carla Bruni,0
+2008-06,Cat Power,3
+2008-06,Diana Krall,0
+2008-06,Dido,0
+2008-06,Dread Zeppelin,9
+2008-06,Emilíana Torrini,0
+2008-06,Feist,52
+2008-06,Garbage,43
+2008-06,Goldfrapp,16
+2008-06,Hole,10
+2008-06,Keren Ann,17
+2008-06,Led Zeppelin,7
+2008-06,Morcheeba,0
+2008-06,Nina Simone,0
+2008-06,Pj Harvey,8
+2008-06,The Rolling Stones,0
+2008-06,Thievery Corporation,7
+2008-06,Yeah Yeah Yeahs,8
+2008-07,Aerosmith,17
+2008-07,Cake,2
+2008-07,Carla Bruni,17
+2008-07,Cat Power,2
+2008-07,Diana Krall,2
+2008-07,Dido,14
+2008-07,Dread Zeppelin,4
+2008-07,Emilíana Torrini,2
+2008-07,Feist,2
+2008-07,Garbage,0
+2008-07,Goldfrapp,2
+2008-07,Hole,14
+2008-07,Keren Ann,2
+2008-07,Led Zeppelin,2
+2008-07,Morcheeba,30
+2008-07,Nina Simone,1
+2008-07,Pj Harvey,8
+2008-07,The Rolling Stones,8
+2008-07,Thievery Corporation,1
+2008-07,Yeah Yeah Yeahs,0
+2008-08,Aerosmith,0
+2008-08,Cake,1
+2008-08,Carla Bruni,7
+2008-08,Cat Power,2
+2008-08,Diana Krall,0
+2008-08,Dido,1
+2008-08,Dread Zeppelin,1
+2008-08,Emilíana Torrini,0
+2008-08,Feist,7
+2008-08,Garbage,1
+2008-08,Goldfrapp,1
+2008-08,Hole,8
+2008-08,Keren Ann,1
+2008-08,Led Zeppelin,2
+2008-08,Morcheeba,0
+2008-08,Nina Simone,0
+2008-08,Pj Harvey,1
+2008-08,The Rolling Stones,11
+2008-08,Thievery Corporation,0
+2008-08,Yeah Yeah Yeahs,2
+2008-09,Aerosmith,1
+2008-09,Cake,0
+2008-09,Carla Bruni,0
+2008-09,Cat Power,0
+2008-09,Diana Krall,0
+2008-09,Dido,1
+2008-09,Dread Zeppelin,0
+2008-09,Emilíana Torrini,1
+2008-09,Feist,4
+2008-09,Garbage,0
+2008-09,Goldfrapp,4
+2008-09,Hole,6
+2008-09,Keren Ann,2
+2008-09,Led Zeppelin,1
+2008-09,Morcheeba,2
+2008-09,Nina Simone,1
+2008-09,Pj Harvey,1
+2008-09,The Rolling Stones,1
+2008-09,Thievery Corporation,1
+2008-09,Yeah Yeah Yeahs,1
+2008-10,Aerosmith,0
+2008-10,Cake,0
+2008-10,Carla Bruni,0
+2008-10,Cat Power,0
+2008-10,Diana Krall,0
+2008-10,Dido,1
+2008-10,Dread Zeppelin,0
+2008-10,Emilíana Torrini,12
+2008-10,Feist,0
+2008-10,Garbage,0
+2008-10,Goldfrapp,0
+2008-10,Hole,2
+2008-10,Keren Ann,1
+2008-10,Led Zeppelin,0
+2008-10,Morcheeba,0
+2008-10,Nina Simone,0
+2008-10,Pj Harvey,0
+2008-10,The Rolling Stones,0
+2008-10,Thievery Corporation,13
+2008-10,Yeah Yeah Yeahs,0
+2008-11,Aerosmith,1
+2008-11,Cake,3
+2008-11,Carla Bruni,2
+2008-11,Cat Power,4
+2008-11,Diana Krall,2
+2008-11,Dido,15
+2008-11,Dread Zeppelin,12
+2008-11,Emilíana Torrini,1
+2008-11,Feist,30
+2008-11,Garbage,1
+2008-11,Goldfrapp,1
+2008-11,Hole,1
+2008-11,Keren Ann,4
+2008-11,Led Zeppelin,6
+2008-11,Morcheeba,2
+2008-11,Nina Simone,4
+2008-11,Pj Harvey,3
+2008-11,The Rolling Stones,4
+2008-11,Thievery Corporation,2
+2008-11,Yeah Yeah Yeahs,3
+2008-12,Aerosmith,0
+2008-12,Cake,0
+2008-12,Carla Bruni,0
+2008-12,Cat Power,0
+2008-12,Diana Krall,1
+2008-12,Dido,1
+2008-12,Dread Zeppelin,3
+2008-12,Emilíana Torrini,2
+2008-12,Feist,22
+2008-12,Garbage,0
+2008-12,Goldfrapp,1
+2008-12,Hole,0
+2008-12,Keren Ann,40
+2008-12,Led Zeppelin,1
+2008-12,Morcheeba,7
+2008-12,Nina Simone,0
+2008-12,Pj Harvey,6
+2008-12,The Rolling Stones,0
+2008-12,Thievery Corporation,2
+2008-12,Yeah Yeah Yeahs,0
+2009-01,Aerosmith,0
+2009-01,Cake,0
+2009-01,Carla Bruni,11
+2009-01,Cat Power,2
+2009-01,Diana Krall,1
+2009-01,Dido,0
+2009-01,Dread Zeppelin,1
+2009-01,Emilíana Torrini,0
+2009-01,Feist,58
+2009-01,Garbage,1
+2009-01,Goldfrapp,10
+2009-01,Hole,0
+2009-01,Keren Ann,20
+2009-01,Led Zeppelin,1
+2009-01,Morcheeba,1
+2009-01,Nina Simone,1
+2009-01,Pj Harvey,26
+2009-01,The Rolling Stones,2
+2009-01,Thievery Corporation,0
+2009-01,Yeah Yeah Yeahs,1
+2009-02,Aerosmith,0
+2009-02,Cake,2
+2009-02,Carla Bruni,0
+2009-02,Cat Power,2
+2009-02,Diana Krall,9
+2009-02,Dido,0
+2009-02,Dread Zeppelin,0
+2009-02,Emilíana Torrini,0
+2009-02,Feist,0
+2009-02,Garbage,0
+2009-02,Goldfrapp,1
+2009-02,Hole,0
+2009-02,Keren Ann,2
+2009-02,Led Zeppelin,0
+2009-02,Morcheeba,2
+2009-02,Nina Simone,0
+2009-02,Pj Harvey,0
+2009-02,The Rolling Stones,0
+2009-02,Thievery Corporation,0
+2009-02,Yeah Yeah Yeahs,0
+2009-03,Aerosmith,0
+2009-03,Cake,0
+2009-03,Carla Bruni,0
+2009-03,Cat Power,0
+2009-03,Diana Krall,12
+2009-03,Dido,0
+2009-03,Dread Zeppelin,0
+2009-03,Emilíana Torrini,0
+2009-03,Feist,1
+2009-03,Garbage,0
+2009-03,Goldfrapp,0
+2009-03,Hole,0
+2009-03,Keren Ann,1
+2009-03,Led Zeppelin,0
+2009-03,Morcheeba,1
+2009-03,Nina Simone,0
+2009-03,Pj Harvey,0
+2009-03,The Rolling Stones,0
+2009-03,Thievery Corporation,0
+2009-03,Yeah Yeah Yeahs,10
+2009-04,Aerosmith,0
+2009-04,Cake,0
+2009-04,Carla Bruni,0
+2009-04,Cat Power,1
+2009-04,Diana Krall,24
+2009-04,Dido,1
+2009-04,Dread Zeppelin,0
+2009-04,Emilíana Torrini,0
+2009-04,Feist,18
+2009-04,Garbage,0
+2009-04,Goldfrapp,0
+2009-04,Hole,0
+2009-04,Keren Ann,1
+2009-04,Led Zeppelin,1
+2009-04,Morcheeba,0
+2009-04,Nina Simone,1
+2009-04,Pj Harvey,3
+2009-04,The Rolling Stones,0
+2009-04,Thievery Corporation,2
+2009-04,Yeah Yeah Yeahs,18

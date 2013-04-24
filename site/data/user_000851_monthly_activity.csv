@@ -1,0 +1,801 @@
+month,artist,plays
+2006-02,Air,3
+2006-02,Arcade Fire,27
+2006-02,Bloc Party,22
+2006-02,Broken Social Scene,5
+2006-02,Depeche Mode,15
+2006-02,Fluke,9
+2006-02,Grandaddy,26
+2006-02,Interpol,20
+2006-02,Joy Division,0
+2006-02,Mercury Rev,22
+2006-02,New Order,13
+2006-02,Orbital,25
+2006-02,Pulp,12
+2006-02,Spiritualized,22
+2006-02,The Chemical Brothers,20
+2006-02,The Decemberists,3
+2006-02,The Flaming Lips,28
+2006-02,The Shins,24
+2006-02,The Smiths,14
+2006-02,Underworld,14
+2006-03,Air,0
+2006-03,Arcade Fire,56
+2006-03,Bloc Party,53
+2006-03,Broken Social Scene,17
+2006-03,Depeche Mode,53
+2006-03,Fluke,28
+2006-03,Grandaddy,61
+2006-03,Interpol,32
+2006-03,Joy Division,6
+2006-03,Mercury Rev,49
+2006-03,New Order,59
+2006-03,Orbital,63
+2006-03,Pulp,33
+2006-03,Spiritualized,30
+2006-03,The Chemical Brothers,60
+2006-03,The Decemberists,17
+2006-03,The Flaming Lips,54
+2006-03,The Shins,44
+2006-03,The Smiths,57
+2006-03,Underworld,47
+2006-04,Air,3
+2006-04,Arcade Fire,80
+2006-04,Bloc Party,37
+2006-04,Broken Social Scene,13
+2006-04,Depeche Mode,93
+2006-04,Fluke,59
+2006-04,Grandaddy,74
+2006-04,Interpol,14
+2006-04,Joy Division,0
+2006-04,Mercury Rev,85
+2006-04,New Order,104
+2006-04,Orbital,120
+2006-04,Pulp,68
+2006-04,Spiritualized,13
+2006-04,The Chemical Brothers,115
+2006-04,The Decemberists,60
+2006-04,The Flaming Lips,95
+2006-04,The Shins,25
+2006-04,The Smiths,68
+2006-04,Underworld,46
+2006-05,Air,1
+2006-05,Arcade Fire,63
+2006-05,Bloc Party,38
+2006-05,Broken Social Scene,19
+2006-05,Depeche Mode,85
+2006-05,Fluke,58
+2006-05,Grandaddy,59
+2006-05,Interpol,21
+2006-05,Joy Division,5
+2006-05,Mercury Rev,71
+2006-05,New Order,84
+2006-05,Orbital,89
+2006-05,Pulp,56
+2006-05,Spiritualized,11
+2006-05,The Chemical Brothers,87
+2006-05,The Decemberists,48
+2006-05,The Flaming Lips,76
+2006-05,The Shins,25
+2006-05,The Smiths,47
+2006-05,Underworld,48
+2006-06,Air,2
+2006-06,Arcade Fire,44
+2006-06,Bloc Party,27
+2006-06,Broken Social Scene,7
+2006-06,Depeche Mode,42
+2006-06,Fluke,33
+2006-06,Grandaddy,43
+2006-06,Interpol,15
+2006-06,Joy Division,1
+2006-06,Mercury Rev,47
+2006-06,New Order,50
+2006-06,Orbital,53
+2006-06,Pulp,49
+2006-06,Spiritualized,24
+2006-06,The Chemical Brothers,51
+2006-06,The Decemberists,35
+2006-06,The Flaming Lips,50
+2006-06,The Shins,15
+2006-06,The Smiths,27
+2006-06,Underworld,27
+2006-07,Air,3
+2006-07,Arcade Fire,39
+2006-07,Bloc Party,22
+2006-07,Broken Social Scene,4
+2006-07,Depeche Mode,35
+2006-07,Fluke,21
+2006-07,Grandaddy,42
+2006-07,Interpol,18
+2006-07,Joy Division,4
+2006-07,Mercury Rev,40
+2006-07,New Order,35
+2006-07,Orbital,39
+2006-07,Pulp,32
+2006-07,Spiritualized,9
+2006-07,The Chemical Brothers,40
+2006-07,The Decemberists,20
+2006-07,The Flaming Lips,45
+2006-07,The Shins,18
+2006-07,The Smiths,22
+2006-07,Underworld,25
+2006-08,Air,1
+2006-08,Arcade Fire,15
+2006-08,Bloc Party,8
+2006-08,Broken Social Scene,3
+2006-08,Depeche Mode,14
+2006-08,Fluke,10
+2006-08,Grandaddy,14
+2006-08,Interpol,6
+2006-08,Joy Division,2
+2006-08,Mercury Rev,14
+2006-08,New Order,15
+2006-08,Orbital,13
+2006-08,Pulp,11
+2006-08,Spiritualized,5
+2006-08,The Chemical Brothers,13
+2006-08,The Decemberists,12
+2006-08,The Flaming Lips,12
+2006-08,The Shins,10
+2006-08,The Smiths,16
+2006-08,Underworld,11
+2006-09,Air,2
+2006-09,Arcade Fire,7
+2006-09,Bloc Party,5
+2006-09,Broken Social Scene,3
+2006-09,Depeche Mode,10
+2006-09,Fluke,5
+2006-09,Grandaddy,8
+2006-09,Interpol,5
+2006-09,Joy Division,1
+2006-09,Mercury Rev,8
+2006-09,New Order,9
+2006-09,Orbital,8
+2006-09,Pulp,7
+2006-09,Spiritualized,3
+2006-09,The Chemical Brothers,8
+2006-09,The Decemberists,6
+2006-09,The Flaming Lips,8
+2006-09,The Shins,4
+2006-09,The Smiths,8
+2006-09,Underworld,5
+2006-10,Air,5
+2006-10,Arcade Fire,4
+2006-10,Bloc Party,2
+2006-10,Broken Social Scene,1
+2006-10,Depeche Mode,11
+2006-10,Fluke,6
+2006-10,Grandaddy,3
+2006-10,Interpol,2
+2006-10,Joy Division,1
+2006-10,Mercury Rev,3
+2006-10,New Order,12
+2006-10,Orbital,9
+2006-10,Pulp,8
+2006-10,Spiritualized,2
+2006-10,The Chemical Brothers,6
+2006-10,The Decemberists,7
+2006-10,The Flaming Lips,7
+2006-10,The Shins,2
+2006-10,The Smiths,7
+2006-10,Underworld,9
+2006-11,Air,1
+2006-11,Arcade Fire,7
+2006-11,Bloc Party,5
+2006-11,Broken Social Scene,5
+2006-11,Depeche Mode,8
+2006-11,Fluke,2
+2006-11,Grandaddy,6
+2006-11,Interpol,5
+2006-11,Joy Division,1
+2006-11,Mercury Rev,7
+2006-11,New Order,9
+2006-11,Orbital,6
+2006-11,Pulp,6
+2006-11,Spiritualized,4
+2006-11,The Chemical Brothers,7
+2006-11,The Decemberists,4
+2006-11,The Flaming Lips,8
+2006-11,The Shins,4
+2006-11,The Smiths,9
+2006-11,Underworld,7
+2006-12,Air,5
+2006-12,Arcade Fire,7
+2006-12,Bloc Party,4
+2006-12,Broken Social Scene,5
+2006-12,Depeche Mode,11
+2006-12,Fluke,6
+2006-12,Grandaddy,12
+2006-12,Interpol,1
+2006-12,Joy Division,5
+2006-12,Mercury Rev,10
+2006-12,New Order,11
+2006-12,Orbital,13
+2006-12,Pulp,9
+2006-12,Spiritualized,2
+2006-12,The Chemical Brothers,12
+2006-12,The Decemberists,9
+2006-12,The Flaming Lips,12
+2006-12,The Shins,7
+2006-12,The Smiths,8
+2006-12,Underworld,9
+2007-01,Air,1
+2007-01,Arcade Fire,10
+2007-01,Bloc Party,11
+2007-01,Broken Social Scene,3
+2007-01,Depeche Mode,12
+2007-01,Fluke,7
+2007-01,Grandaddy,15
+2007-01,Interpol,10
+2007-01,Joy Division,1
+2007-01,Mercury Rev,14
+2007-01,New Order,12
+2007-01,Orbital,13
+2007-01,Pulp,14
+2007-01,Spiritualized,7
+2007-01,The Chemical Brothers,16
+2007-01,The Decemberists,8
+2007-01,The Flaming Lips,16
+2007-01,The Shins,7
+2007-01,The Smiths,12
+2007-01,Underworld,10
+2007-02,Air,2
+2007-02,Arcade Fire,1
+2007-02,Bloc Party,2
+2007-02,Broken Social Scene,1
+2007-02,Depeche Mode,4
+2007-02,Fluke,1
+2007-02,Grandaddy,0
+2007-02,Interpol,1
+2007-02,Joy Division,0
+2007-02,Mercury Rev,3
+2007-02,New Order,1
+2007-02,Orbital,4
+2007-02,Pulp,1
+2007-02,Spiritualized,0
+2007-02,The Chemical Brothers,4
+2007-02,The Decemberists,2
+2007-02,The Flaming Lips,4
+2007-02,The Shins,0
+2007-02,The Smiths,1
+2007-02,Underworld,2
+2007-03,Air,1
+2007-03,Arcade Fire,1
+2007-03,Bloc Party,1
+2007-03,Broken Social Scene,1
+2007-03,Depeche Mode,2
+2007-03,Fluke,1
+2007-03,Grandaddy,0
+2007-03,Interpol,1
+2007-03,Joy Division,0
+2007-03,Mercury Rev,2
+2007-03,New Order,1
+2007-03,Orbital,3
+2007-03,Pulp,0
+2007-03,Spiritualized,0
+2007-03,The Chemical Brothers,2
+2007-03,The Decemberists,0
+2007-03,The Flaming Lips,1
+2007-03,The Shins,2
+2007-03,The Smiths,2
+2007-03,Underworld,0
+2007-04,Air,0
+2007-04,Arcade Fire,1
+2007-04,Bloc Party,0
+2007-04,Broken Social Scene,0
+2007-04,Depeche Mode,0
+2007-04,Fluke,0
+2007-04,Grandaddy,0
+2007-04,Interpol,0
+2007-04,Joy Division,0
+2007-04,Mercury Rev,0
+2007-04,New Order,1
+2007-04,Orbital,0
+2007-04,Pulp,0
+2007-04,Spiritualized,0
+2007-04,The Chemical Brothers,0
+2007-04,The Decemberists,1
+2007-04,The Flaming Lips,0
+2007-04,The Shins,1
+2007-04,The Smiths,0
+2007-04,Underworld,1
+2007-05,Air,0
+2007-05,Arcade Fire,0
+2007-05,Bloc Party,1
+2007-05,Broken Social Scene,0
+2007-05,Depeche Mode,1
+2007-05,Fluke,0
+2007-05,Grandaddy,0
+2007-05,Interpol,2
+2007-05,Joy Division,2
+2007-05,Mercury Rev,0
+2007-05,New Order,0
+2007-05,Orbital,0
+2007-05,Pulp,1
+2007-05,Spiritualized,1
+2007-05,The Chemical Brothers,1
+2007-05,The Decemberists,0
+2007-05,The Flaming Lips,0
+2007-05,The Shins,0
+2007-05,The Smiths,2
+2007-05,Underworld,1
+2007-06,Air,0
+2007-06,Arcade Fire,1
+2007-06,Bloc Party,1
+2007-06,Broken Social Scene,1
+2007-06,Depeche Mode,0
+2007-06,Fluke,0
+2007-06,Grandaddy,1
+2007-06,Interpol,1
+2007-06,Joy Division,0
+2007-06,Mercury Rev,0
+2007-06,New Order,0
+2007-06,Orbital,0
+2007-06,Pulp,0
+2007-06,Spiritualized,0
+2007-06,The Chemical Brothers,0
+2007-06,The Decemberists,0
+2007-06,The Flaming Lips,1
+2007-06,The Shins,1
+2007-06,The Smiths,1
+2007-06,Underworld,0
+2007-07,Air,0
+2007-07,Arcade Fire,3
+2007-07,Bloc Party,0
+2007-07,Broken Social Scene,1
+2007-07,Depeche Mode,0
+2007-07,Fluke,0
+2007-07,Grandaddy,1
+2007-07,Interpol,2
+2007-07,Joy Division,1
+2007-07,Mercury Rev,1
+2007-07,New Order,0
+2007-07,Orbital,1
+2007-07,Pulp,1
+2007-07,Spiritualized,0
+2007-07,The Chemical Brothers,2
+2007-07,The Decemberists,1
+2007-07,The Flaming Lips,3
+2007-07,The Shins,1
+2007-07,The Smiths,1
+2007-07,Underworld,0
+2007-08,Air,1
+2007-08,Arcade Fire,3
+2007-08,Bloc Party,2
+2007-08,Broken Social Scene,0
+2007-08,Depeche Mode,0
+2007-08,Fluke,0
+2007-08,Grandaddy,0
+2007-08,Interpol,2
+2007-08,Joy Division,1
+2007-08,Mercury Rev,0
+2007-08,New Order,1
+2007-08,Orbital,0
+2007-08,Pulp,1
+2007-08,Spiritualized,0
+2007-08,The Chemical Brothers,0
+2007-08,The Decemberists,0
+2007-08,The Flaming Lips,1
+2007-08,The Shins,0
+2007-08,The Smiths,1
+2007-08,Underworld,0
+2007-09,Air,1
+2007-09,Arcade Fire,2
+2007-09,Bloc Party,1
+2007-09,Broken Social Scene,2
+2007-09,Depeche Mode,1
+2007-09,Fluke,1
+2007-09,Grandaddy,0
+2007-09,Interpol,2
+2007-09,Joy Division,2
+2007-09,Mercury Rev,0
+2007-09,New Order,1
+2007-09,Orbital,2
+2007-09,Pulp,0
+2007-09,Spiritualized,0
+2007-09,The Chemical Brothers,2
+2007-09,The Decemberists,0
+2007-09,The Flaming Lips,0
+2007-09,The Shins,1
+2007-09,The Smiths,1
+2007-09,Underworld,4
+2007-10,Air,1
+2007-10,Arcade Fire,1
+2007-10,Bloc Party,0
+2007-10,Broken Social Scene,0
+2007-10,Depeche Mode,2
+2007-10,Fluke,1
+2007-10,Grandaddy,1
+2007-10,Interpol,1
+2007-10,Joy Division,1
+2007-10,Mercury Rev,1
+2007-10,New Order,1
+2007-10,Orbital,2
+2007-10,Pulp,0
+2007-10,Spiritualized,0
+2007-10,The Chemical Brothers,1
+2007-10,The Decemberists,1
+2007-10,The Flaming Lips,2
+2007-10,The Shins,0
+2007-10,The Smiths,0
+2007-10,Underworld,0
+2007-11,Air,1
+2007-11,Arcade Fire,1
+2007-11,Bloc Party,0
+2007-11,Broken Social Scene,0
+2007-11,Depeche Mode,0
+2007-11,Fluke,0
+2007-11,Grandaddy,0
+2007-11,Interpol,0
+2007-11,Joy Division,0
+2007-11,Mercury Rev,0
+2007-11,New Order,0
+2007-11,Orbital,0
+2007-11,Pulp,1
+2007-11,Spiritualized,0
+2007-11,The Chemical Brothers,0
+2007-11,The Decemberists,0
+2007-11,The Flaming Lips,0
+2007-11,The Shins,0
+2007-11,The Smiths,1
+2007-11,Underworld,0
+2007-12,Air,0
+2007-12,Arcade Fire,0
+2007-12,Bloc Party,0
+2007-12,Broken Social Scene,0
+2007-12,Depeche Mode,0
+2007-12,Fluke,0
+2007-12,Grandaddy,0
+2007-12,Interpol,0
+2007-12,Joy Division,0
+2007-12,Mercury Rev,0
+2007-12,New Order,0
+2007-12,Orbital,0
+2007-12,Pulp,0
+2007-12,Spiritualized,0
+2007-12,The Chemical Brothers,0
+2007-12,The Decemberists,0
+2007-12,The Flaming Lips,0
+2007-12,The Shins,0
+2007-12,The Smiths,0
+2007-12,Underworld,0
+2008-01,Air,0
+2008-01,Arcade Fire,0
+2008-01,Bloc Party,0
+2008-01,Broken Social Scene,0
+2008-01,Depeche Mode,0
+2008-01,Fluke,0
+2008-01,Grandaddy,0
+2008-01,Interpol,0
+2008-01,Joy Division,0
+2008-01,Mercury Rev,0
+2008-01,New Order,0
+2008-01,Orbital,0
+2008-01,Pulp,0
+2008-01,Spiritualized,0
+2008-01,The Chemical Brothers,0
+2008-01,The Decemberists,0
+2008-01,The Flaming Lips,0
+2008-01,The Shins,0
+2008-01,The Smiths,0
+2008-01,Underworld,0
+2008-02,Air,0
+2008-02,Arcade Fire,0
+2008-02,Bloc Party,0
+2008-02,Broken Social Scene,0
+2008-02,Depeche Mode,0
+2008-02,Fluke,0
+2008-02,Grandaddy,0
+2008-02,Interpol,0
+2008-02,Joy Division,0
+2008-02,Mercury Rev,0
+2008-02,New Order,0
+2008-02,Orbital,0
+2008-02,Pulp,0
+2008-02,Spiritualized,0
+2008-02,The Chemical Brothers,0
+2008-02,The Decemberists,0
+2008-02,The Flaming Lips,0
+2008-02,The Shins,0
+2008-02,The Smiths,0
+2008-02,Underworld,0
+2008-03,Air,0
+2008-03,Arcade Fire,0
+2008-03,Bloc Party,0
+2008-03,Broken Social Scene,0
+2008-03,Depeche Mode,0
+2008-03,Fluke,0
+2008-03,Grandaddy,0
+2008-03,Interpol,0
+2008-03,Joy Division,0
+2008-03,Mercury Rev,0
+2008-03,New Order,0
+2008-03,Orbital,0
+2008-03,Pulp,0
+2008-03,Spiritualized,0
+2008-03,The Chemical Brothers,0
+2008-03,The Decemberists,0
+2008-03,The Flaming Lips,0
+2008-03,The Shins,0
+2008-03,The Smiths,0
+2008-03,Underworld,0
+2008-04,Air,0
+2008-04,Arcade Fire,0
+2008-04,Bloc Party,0
+2008-04,Broken Social Scene,0
+2008-04,Depeche Mode,0
+2008-04,Fluke,0
+2008-04,Grandaddy,0
+2008-04,Interpol,0
+2008-04,Joy Division,0
+2008-04,Mercury Rev,0
+2008-04,New Order,0
+2008-04,Orbital,0
+2008-04,Pulp,0
+2008-04,Spiritualized,0
+2008-04,The Chemical Brothers,0
+2008-04,The Decemberists,0
+2008-04,The Flaming Lips,0
+2008-04,The Shins,0
+2008-04,The Smiths,0
+2008-04,Underworld,0
+2008-05,Air,0
+2008-05,Arcade Fire,0
+2008-05,Bloc Party,0
+2008-05,Broken Social Scene,0
+2008-05,Depeche Mode,0
+2008-05,Fluke,0
+2008-05,Grandaddy,0
+2008-05,Interpol,0
+2008-05,Joy Division,1
+2008-05,Mercury Rev,0
+2008-05,New Order,0
+2008-05,Orbital,0
+2008-05,Pulp,0
+2008-05,Spiritualized,0
+2008-05,The Chemical Brothers,0
+2008-05,The Decemberists,0
+2008-05,The Flaming Lips,0
+2008-05,The Shins,0
+2008-05,The Smiths,0
+2008-05,Underworld,0
+2008-06,Air,0
+2008-06,Arcade Fire,0
+2008-06,Bloc Party,0
+2008-06,Broken Social Scene,0
+2008-06,Depeche Mode,0
+2008-06,Fluke,0
+2008-06,Grandaddy,0
+2008-06,Interpol,0
+2008-06,Joy Division,0
+2008-06,Mercury Rev,0
+2008-06,New Order,0
+2008-06,Orbital,0
+2008-06,Pulp,0
+2008-06,Spiritualized,0
+2008-06,The Chemical Brothers,0
+2008-06,The Decemberists,0
+2008-06,The Flaming Lips,0
+2008-06,The Shins,0
+2008-06,The Smiths,0
+2008-06,Underworld,0
+2008-07,Air,0
+2008-07,Arcade Fire,0
+2008-07,Bloc Party,0
+2008-07,Broken Social Scene,0
+2008-07,Depeche Mode,0
+2008-07,Fluke,0
+2008-07,Grandaddy,0
+2008-07,Interpol,0
+2008-07,Joy Division,0
+2008-07,Mercury Rev,0
+2008-07,New Order,0
+2008-07,Orbital,0
+2008-07,Pulp,0
+2008-07,Spiritualized,0
+2008-07,The Chemical Brothers,0
+2008-07,The Decemberists,0
+2008-07,The Flaming Lips,0
+2008-07,The Shins,0
+2008-07,The Smiths,0
+2008-07,Underworld,0
+2008-08,Air,0
+2008-08,Arcade Fire,0
+2008-08,Bloc Party,0
+2008-08,Broken Social Scene,0
+2008-08,Depeche Mode,0
+2008-08,Fluke,0
+2008-08,Grandaddy,1
+2008-08,Interpol,0
+2008-08,Joy Division,0
+2008-08,Mercury Rev,0
+2008-08,New Order,0
+2008-08,Orbital,0
+2008-08,Pulp,0
+2008-08,Spiritualized,0
+2008-08,The Chemical Brothers,0
+2008-08,The Decemberists,0
+2008-08,The Flaming Lips,0
+2008-08,The Shins,0
+2008-08,The Smiths,0
+2008-08,Underworld,0
+2008-09,Air,0
+2008-09,Arcade Fire,0
+2008-09,Bloc Party,0
+2008-09,Broken Social Scene,0
+2008-09,Depeche Mode,0
+2008-09,Fluke,0
+2008-09,Grandaddy,0
+2008-09,Interpol,0
+2008-09,Joy Division,0
+2008-09,Mercury Rev,0
+2008-09,New Order,0
+2008-09,Orbital,0
+2008-09,Pulp,0
+2008-09,Spiritualized,0
+2008-09,The Chemical Brothers,0
+2008-09,The Decemberists,0
+2008-09,The Flaming Lips,0
+2008-09,The Shins,0
+2008-09,The Smiths,0
+2008-09,Underworld,0
+2008-10,Air,1
+2008-10,Arcade Fire,0
+2008-10,Bloc Party,0
+2008-10,Broken Social Scene,0
+2008-10,Depeche Mode,1
+2008-10,Fluke,0
+2008-10,Grandaddy,0
+2008-10,Interpol,0
+2008-10,Joy Division,0
+2008-10,Mercury Rev,0
+2008-10,New Order,0
+2008-10,Orbital,0
+2008-10,Pulp,0
+2008-10,Spiritualized,0
+2008-10,The Chemical Brothers,1
+2008-10,The Decemberists,0
+2008-10,The Flaming Lips,0
+2008-10,The Shins,0
+2008-10,The Smiths,0
+2008-10,Underworld,0
+2008-11,Air,0
+2008-11,Arcade Fire,0
+2008-11,Bloc Party,0
+2008-11,Broken Social Scene,0
+2008-11,Depeche Mode,0
+2008-11,Fluke,0
+2008-11,Grandaddy,0
+2008-11,Interpol,0
+2008-11,Joy Division,0
+2008-11,Mercury Rev,0
+2008-11,New Order,0
+2008-11,Orbital,0
+2008-11,Pulp,0
+2008-11,Spiritualized,0
+2008-11,The Chemical Brothers,0
+2008-11,The Decemberists,0
+2008-11,The Flaming Lips,0
+2008-11,The Shins,0
+2008-11,The Smiths,0
+2008-11,Underworld,0
+2008-12,Air,2
+2008-12,Arcade Fire,1
+2008-12,Bloc Party,0
+2008-12,Broken Social Scene,0
+2008-12,Depeche Mode,1
+2008-12,Fluke,3
+2008-12,Grandaddy,2
+2008-12,Interpol,1
+2008-12,Joy Division,1
+2008-12,Mercury Rev,0
+2008-12,New Order,2
+2008-12,Orbital,1
+2008-12,Pulp,2
+2008-12,Spiritualized,5
+2008-12,The Chemical Brothers,3
+2008-12,The Decemberists,1
+2008-12,The Flaming Lips,1
+2008-12,The Shins,2
+2008-12,The Smiths,0
+2008-12,Underworld,1
+2009-01,Air,0
+2009-01,Arcade Fire,2
+2009-01,Bloc Party,1
+2009-01,Broken Social Scene,3
+2009-01,Depeche Mode,1
+2009-01,Fluke,2
+2009-01,Grandaddy,3
+2009-01,Interpol,2
+2009-01,Joy Division,0
+2009-01,Mercury Rev,0
+2009-01,New Order,0
+2009-01,Orbital,2
+2009-01,Pulp,1
+2009-01,Spiritualized,1
+2009-01,The Chemical Brothers,3
+2009-01,The Decemberists,1
+2009-01,The Flaming Lips,2
+2009-01,The Shins,4
+2009-01,The Smiths,0
+2009-01,Underworld,3
+2009-02,Air,0
+2009-02,Arcade Fire,3
+2009-02,Bloc Party,2
+2009-02,Broken Social Scene,3
+2009-02,Depeche Mode,0
+2009-02,Fluke,0
+2009-02,Grandaddy,4
+2009-02,Interpol,2
+2009-02,Joy Division,1
+2009-02,Mercury Rev,4
+2009-02,New Order,1
+2009-02,Orbital,1
+2009-02,Pulp,0
+2009-02,Spiritualized,2
+2009-02,The Chemical Brothers,0
+2009-02,The Decemberists,2
+2009-02,The Flaming Lips,7
+2009-02,The Shins,0
+2009-02,The Smiths,1
+2009-02,Underworld,0
+2009-03,Air,0
+2009-03,Arcade Fire,0
+2009-03,Bloc Party,0
+2009-03,Broken Social Scene,0
+2009-03,Depeche Mode,1
+2009-03,Fluke,1
+2009-03,Grandaddy,10
+2009-03,Interpol,0
+2009-03,Joy Division,2
+2009-03,Mercury Rev,16
+2009-03,New Order,3
+2009-03,Orbital,1
+2009-03,Pulp,0
+2009-03,Spiritualized,9
+2009-03,The Chemical Brothers,0
+2009-03,The Decemberists,0
+2009-03,The Flaming Lips,10
+2009-03,The Shins,0
+2009-03,The Smiths,1
+2009-03,Underworld,0
+2009-04,Air,0
+2009-04,Arcade Fire,2
+2009-04,Bloc Party,1
+2009-04,Broken Social Scene,0
+2009-04,Depeche Mode,0
+2009-04,Fluke,1
+2009-04,Grandaddy,4
+2009-04,Interpol,3
+2009-04,Joy Division,0
+2009-04,Mercury Rev,14
+2009-04,New Order,0
+2009-04,Orbital,1
+2009-04,Pulp,0
+2009-04,Spiritualized,3
+2009-04,The Chemical Brothers,1
+2009-04,The Decemberists,1
+2009-04,The Flaming Lips,6
+2009-04,The Shins,2
+2009-04,The Smiths,0
+2009-04,Underworld,1
+2009-05,Air,0
+2009-05,Arcade Fire,0
+2009-05,Bloc Party,0
+2009-05,Broken Social Scene,0
+2009-05,Depeche Mode,0
+2009-05,Fluke,0
+2009-05,Grandaddy,1
+2009-05,Interpol,0
+2009-05,Joy Division,0
+2009-05,Mercury Rev,0
+2009-05,New Order,0
+2009-05,Orbital,0
+2009-05,Pulp,0
+2009-05,Spiritualized,1
+2009-05,The Chemical Brothers,0
+2009-05,The Decemberists,0
+2009-05,The Flaming Lips,1
+2009-05,The Shins,0
+2009-05,The Smiths,0
+2009-05,Underworld,0

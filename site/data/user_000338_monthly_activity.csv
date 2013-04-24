@@ -1,0 +1,981 @@
+month,artist,plays
+2005-04,Agathodaimon,22
+2005-04,Anathema,0
+2005-04,Battlelore,0
+2005-04,Beseech,0
+2005-04,Darkwell,0
+2005-04,Dido,0
+2005-04,Draconian,0
+2005-04,Him,0
+2005-04,Kwan,0
+2005-04,Leaves' Eyes,158
+2005-04,Loreena Mckennitt,115
+2005-04,Moonlight,13
+2005-04,Mortal Love,0
+2005-04,My Dying Bride,161
+2005-04,Negative,0
+2005-04,Opeth,1
+2005-04,Poets Of The Fall,0
+2005-04,Rammstein,0
+2005-04,Riverside,0
+2005-04,Within Temptation,0
+2005-05,Agathodaimon,64
+2005-05,Anathema,7
+2005-05,Battlelore,2
+2005-05,Beseech,0
+2005-05,Darkwell,0
+2005-05,Dido,0
+2005-05,Draconian,0
+2005-05,Him,0
+2005-05,Kwan,0
+2005-05,Leaves' Eyes,172
+2005-05,Loreena Mckennitt,30
+2005-05,Moonlight,0
+2005-05,Mortal Love,101
+2005-05,My Dying Bride,105
+2005-05,Negative,0
+2005-05,Opeth,96
+2005-05,Poets Of The Fall,0
+2005-05,Rammstein,0
+2005-05,Riverside,0
+2005-05,Within Temptation,120
+2005-06,Agathodaimon,13
+2005-06,Anathema,0
+2005-06,Battlelore,428
+2005-06,Beseech,0
+2005-06,Darkwell,0
+2005-06,Dido,0
+2005-06,Draconian,270
+2005-06,Him,0
+2005-06,Kwan,0
+2005-06,Leaves' Eyes,50
+2005-06,Loreena Mckennitt,21
+2005-06,Moonlight,0
+2005-06,Mortal Love,16
+2005-06,My Dying Bride,17
+2005-06,Negative,0
+2005-06,Opeth,18
+2005-06,Poets Of The Fall,0
+2005-06,Rammstein,14
+2005-06,Riverside,0
+2005-06,Within Temptation,0
+2005-07,Agathodaimon,0
+2005-07,Anathema,0
+2005-07,Battlelore,139
+2005-07,Beseech,0
+2005-07,Darkwell,0
+2005-07,Dido,0
+2005-07,Draconian,108
+2005-07,Him,0
+2005-07,Kwan,0
+2005-07,Leaves' Eyes,10
+2005-07,Loreena Mckennitt,74
+2005-07,Moonlight,39
+2005-07,Mortal Love,29
+2005-07,My Dying Bride,31
+2005-07,Negative,0
+2005-07,Opeth,5
+2005-07,Poets Of The Fall,0
+2005-07,Rammstein,0
+2005-07,Riverside,0
+2005-07,Within Temptation,0
+2005-08,Agathodaimon,2
+2005-08,Anathema,29
+2005-08,Battlelore,33
+2005-08,Beseech,0
+2005-08,Darkwell,18
+2005-08,Dido,0
+2005-08,Draconian,108
+2005-08,Him,30
+2005-08,Kwan,0
+2005-08,Leaves' Eyes,0
+2005-08,Loreena Mckennitt,40
+2005-08,Moonlight,125
+2005-08,Mortal Love,7
+2005-08,My Dying Bride,0
+2005-08,Negative,0
+2005-08,Opeth,15
+2005-08,Poets Of The Fall,0
+2005-08,Rammstein,0
+2005-08,Riverside,0
+2005-08,Within Temptation,4
+2005-09,Agathodaimon,0
+2005-09,Anathema,0
+2005-09,Battlelore,0
+2005-09,Beseech,0
+2005-09,Darkwell,0
+2005-09,Dido,0
+2005-09,Draconian,0
+2005-09,Him,0
+2005-09,Kwan,0
+2005-09,Leaves' Eyes,0
+2005-09,Loreena Mckennitt,0
+2005-09,Moonlight,0
+2005-09,Mortal Love,0
+2005-09,My Dying Bride,0
+2005-09,Negative,0
+2005-09,Opeth,0
+2005-09,Poets Of The Fall,0
+2005-09,Rammstein,0
+2005-09,Riverside,0
+2005-09,Within Temptation,0
+2005-10,Agathodaimon,9
+2005-10,Anathema,1
+2005-10,Battlelore,16
+2005-10,Beseech,10
+2005-10,Darkwell,0
+2005-10,Dido,272
+2005-10,Draconian,141
+2005-10,Him,0
+2005-10,Kwan,0
+2005-10,Leaves' Eyes,21
+2005-10,Loreena Mckennitt,0
+2005-10,Moonlight,0
+2005-10,Mortal Love,0
+2005-10,My Dying Bride,0
+2005-10,Negative,0
+2005-10,Opeth,60
+2005-10,Poets Of The Fall,0
+2005-10,Rammstein,0
+2005-10,Riverside,0
+2005-10,Within Temptation,0
+2005-11,Agathodaimon,14
+2005-11,Anathema,39
+2005-11,Battlelore,0
+2005-11,Beseech,0
+2005-11,Darkwell,0
+2005-11,Dido,0
+2005-11,Draconian,44
+2005-11,Him,98
+2005-11,Kwan,0
+2005-11,Leaves' Eyes,7
+2005-11,Loreena Mckennitt,0
+2005-11,Moonlight,13
+2005-11,Mortal Love,86
+2005-11,My Dying Bride,83
+2005-11,Negative,0
+2005-11,Opeth,70
+2005-11,Poets Of The Fall,0
+2005-11,Rammstein,227
+2005-11,Riverside,0
+2005-11,Within Temptation,10
+2005-12,Agathodaimon,9
+2005-12,Anathema,30
+2005-12,Battlelore,10
+2005-12,Beseech,9
+2005-12,Darkwell,0
+2005-12,Dido,30
+2005-12,Draconian,46
+2005-12,Him,18
+2005-12,Kwan,0
+2005-12,Leaves' Eyes,29
+2005-12,Loreena Mckennitt,9
+2005-12,Moonlight,2
+2005-12,Mortal Love,9
+2005-12,My Dying Bride,10
+2005-12,Negative,0
+2005-12,Opeth,16
+2005-12,Poets Of The Fall,0
+2005-12,Rammstein,79
+2005-12,Riverside,0
+2005-12,Within Temptation,0
+2006-01,Agathodaimon,0
+2006-01,Anathema,17
+2006-01,Battlelore,29
+2006-01,Beseech,0
+2006-01,Darkwell,0
+2006-01,Dido,9
+2006-01,Draconian,1
+2006-01,Him,0
+2006-01,Kwan,0
+2006-01,Leaves' Eyes,19
+2006-01,Loreena Mckennitt,0
+2006-01,Moonlight,0
+2006-01,Mortal Love,16
+2006-01,My Dying Bride,0
+2006-01,Negative,0
+2006-01,Opeth,9
+2006-01,Poets Of The Fall,0
+2006-01,Rammstein,11
+2006-01,Riverside,35
+2006-01,Within Temptation,0
+2006-02,Agathodaimon,4
+2006-02,Anathema,4
+2006-02,Battlelore,10
+2006-02,Beseech,0
+2006-02,Darkwell,0
+2006-02,Dido,0
+2006-02,Draconian,8
+2006-02,Him,0
+2006-02,Kwan,0
+2006-02,Leaves' Eyes,24
+2006-02,Loreena Mckennitt,0
+2006-02,Moonlight,10
+2006-02,Mortal Love,16
+2006-02,My Dying Bride,25
+2006-02,Negative,0
+2006-02,Opeth,8
+2006-02,Poets Of The Fall,0
+2006-02,Rammstein,11
+2006-02,Riverside,259
+2006-02,Within Temptation,0
+2006-03,Agathodaimon,0
+2006-03,Anathema,13
+2006-03,Battlelore,24
+2006-03,Beseech,0
+2006-03,Darkwell,0
+2006-03,Dido,13
+2006-03,Draconian,19
+2006-03,Him,0
+2006-03,Kwan,0
+2006-03,Leaves' Eyes,50
+2006-03,Loreena Mckennitt,0
+2006-03,Moonlight,10
+2006-03,Mortal Love,24
+2006-03,My Dying Bride,80
+2006-03,Negative,0
+2006-03,Opeth,12
+2006-03,Poets Of The Fall,0
+2006-03,Rammstein,64
+2006-03,Riverside,102
+2006-03,Within Temptation,0
+2006-04,Agathodaimon,0
+2006-04,Anathema,0
+2006-04,Battlelore,0
+2006-04,Beseech,0
+2006-04,Darkwell,0
+2006-04,Dido,12
+2006-04,Draconian,0
+2006-04,Him,10
+2006-04,Kwan,0
+2006-04,Leaves' Eyes,0
+2006-04,Loreena Mckennitt,18
+2006-04,Moonlight,22
+2006-04,Mortal Love,0
+2006-04,My Dying Bride,0
+2006-04,Negative,0
+2006-04,Opeth,31
+2006-04,Poets Of The Fall,0
+2006-04,Rammstein,32
+2006-04,Riverside,116
+2006-04,Within Temptation,0
+2006-05,Agathodaimon,6
+2006-05,Anathema,43
+2006-05,Battlelore,52
+2006-05,Beseech,0
+2006-05,Darkwell,0
+2006-05,Dido,17
+2006-05,Draconian,82
+2006-05,Him,10
+2006-05,Kwan,0
+2006-05,Leaves' Eyes,1
+2006-05,Loreena Mckennitt,0
+2006-05,Moonlight,2
+2006-05,Mortal Love,16
+2006-05,My Dying Bride,9
+2006-05,Negative,0
+2006-05,Opeth,1
+2006-05,Poets Of The Fall,0
+2006-05,Rammstein,10
+2006-05,Riverside,53
+2006-05,Within Temptation,20
+2006-06,Agathodaimon,3
+2006-06,Anathema,8
+2006-06,Battlelore,0
+2006-06,Beseech,0
+2006-06,Darkwell,0
+2006-06,Dido,0
+2006-06,Draconian,6
+2006-06,Him,1
+2006-06,Kwan,0
+2006-06,Leaves' Eyes,0
+2006-06,Loreena Mckennitt,25
+2006-06,Moonlight,6
+2006-06,Mortal Love,5
+2006-06,My Dying Bride,16
+2006-06,Negative,0
+2006-06,Opeth,0
+2006-06,Poets Of The Fall,0
+2006-06,Rammstein,15
+2006-06,Riverside,6
+2006-06,Within Temptation,0
+2006-07,Agathodaimon,0
+2006-07,Anathema,0
+2006-07,Battlelore,0
+2006-07,Beseech,0
+2006-07,Darkwell,0
+2006-07,Dido,0
+2006-07,Draconian,0
+2006-07,Him,0
+2006-07,Kwan,0
+2006-07,Leaves' Eyes,0
+2006-07,Loreena Mckennitt,0
+2006-07,Moonlight,0
+2006-07,Mortal Love,0
+2006-07,My Dying Bride,0
+2006-07,Negative,0
+2006-07,Opeth,0
+2006-07,Poets Of The Fall,0
+2006-07,Rammstein,0
+2006-07,Riverside,0
+2006-07,Within Temptation,0
+2006-08,Agathodaimon,0
+2006-08,Anathema,0
+2006-08,Battlelore,0
+2006-08,Beseech,0
+2006-08,Darkwell,0
+2006-08,Dido,35
+2006-08,Draconian,0
+2006-08,Him,0
+2006-08,Kwan,0
+2006-08,Leaves' Eyes,0
+2006-08,Loreena Mckennitt,1
+2006-08,Moonlight,0
+2006-08,Mortal Love,0
+2006-08,My Dying Bride,0
+2006-08,Negative,0
+2006-08,Opeth,0
+2006-08,Poets Of The Fall,8
+2006-08,Rammstein,38
+2006-08,Riverside,13
+2006-08,Within Temptation,0
+2006-09,Agathodaimon,2
+2006-09,Anathema,4
+2006-09,Battlelore,11
+2006-09,Beseech,13
+2006-09,Darkwell,113
+2006-09,Dido,0
+2006-09,Draconian,7
+2006-09,Him,1
+2006-09,Kwan,5
+2006-09,Leaves' Eyes,0
+2006-09,Loreena Mckennitt,0
+2006-09,Moonlight,0
+2006-09,Mortal Love,1
+2006-09,My Dying Bride,2
+2006-09,Negative,341
+2006-09,Opeth,0
+2006-09,Poets Of The Fall,158
+2006-09,Rammstein,28
+2006-09,Riverside,14
+2006-09,Within Temptation,0
+2006-10,Agathodaimon,1
+2006-10,Anathema,0
+2006-10,Battlelore,0
+2006-10,Beseech,95
+2006-10,Darkwell,11
+2006-10,Dido,4
+2006-10,Draconian,32
+2006-10,Him,0
+2006-10,Kwan,3
+2006-10,Leaves' Eyes,19
+2006-10,Loreena Mckennitt,58
+2006-10,Moonlight,2
+2006-10,Mortal Love,37
+2006-10,My Dying Bride,0
+2006-10,Negative,78
+2006-10,Opeth,16
+2006-10,Poets Of The Fall,3
+2006-10,Rammstein,0
+2006-10,Riverside,43
+2006-10,Within Temptation,20
+2006-11,Agathodaimon,4
+2006-11,Anathema,0
+2006-11,Battlelore,0
+2006-11,Beseech,17
+2006-11,Darkwell,173
+2006-11,Dido,21
+2006-11,Draconian,2
+2006-11,Him,5
+2006-11,Kwan,0
+2006-11,Leaves' Eyes,20
+2006-11,Loreena Mckennitt,69
+2006-11,Moonlight,46
+2006-11,Mortal Love,44
+2006-11,My Dying Bride,0
+2006-11,Negative,43
+2006-11,Opeth,0
+2006-11,Poets Of The Fall,60
+2006-11,Rammstein,1
+2006-11,Riverside,42
+2006-11,Within Temptation,15
+2006-12,Agathodaimon,1
+2006-12,Anathema,1
+2006-12,Battlelore,22
+2006-12,Beseech,13
+2006-12,Darkwell,184
+2006-12,Dido,42
+2006-12,Draconian,0
+2006-12,Him,44
+2006-12,Kwan,1
+2006-12,Leaves' Eyes,43
+2006-12,Loreena Mckennitt,0
+2006-12,Moonlight,0
+2006-12,Mortal Love,0
+2006-12,My Dying Bride,5
+2006-12,Negative,188
+2006-12,Opeth,0
+2006-12,Poets Of The Fall,81
+2006-12,Rammstein,0
+2006-12,Riverside,6
+2006-12,Within Temptation,0
+2007-01,Agathodaimon,6
+2007-01,Anathema,49
+2007-01,Battlelore,1
+2007-01,Beseech,36
+2007-01,Darkwell,111
+2007-01,Dido,14
+2007-01,Draconian,17
+2007-01,Him,2
+2007-01,Kwan,0
+2007-01,Leaves' Eyes,2
+2007-01,Loreena Mckennitt,6
+2007-01,Moonlight,0
+2007-01,Mortal Love,65
+2007-01,My Dying Bride,17
+2007-01,Negative,107
+2007-01,Opeth,6
+2007-01,Poets Of The Fall,62
+2007-01,Rammstein,0
+2007-01,Riverside,6
+2007-01,Within Temptation,3
+2007-02,Agathodaimon,11
+2007-02,Anathema,13
+2007-02,Battlelore,8
+2007-02,Beseech,38
+2007-02,Darkwell,33
+2007-02,Dido,3
+2007-02,Draconian,12
+2007-02,Him,1
+2007-02,Kwan,0
+2007-02,Leaves' Eyes,17
+2007-02,Loreena Mckennitt,3
+2007-02,Moonlight,19
+2007-02,Mortal Love,39
+2007-02,My Dying Bride,17
+2007-02,Negative,18
+2007-02,Opeth,0
+2007-02,Poets Of The Fall,0
+2007-02,Rammstein,3
+2007-02,Riverside,3
+2007-02,Within Temptation,7
+2007-03,Agathodaimon,15
+2007-03,Anathema,13
+2007-03,Battlelore,57
+2007-03,Beseech,194
+2007-03,Darkwell,31
+2007-03,Dido,2
+2007-03,Draconian,12
+2007-03,Him,42
+2007-03,Kwan,22
+2007-03,Leaves' Eyes,4
+2007-03,Loreena Mckennitt,5
+2007-03,Moonlight,10
+2007-03,Mortal Love,6
+2007-03,My Dying Bride,39
+2007-03,Negative,25
+2007-03,Opeth,0
+2007-03,Poets Of The Fall,0
+2007-03,Rammstein,36
+2007-03,Riverside,2
+2007-03,Within Temptation,5
+2007-04,Agathodaimon,0
+2007-04,Anathema,0
+2007-04,Battlelore,0
+2007-04,Beseech,59
+2007-04,Darkwell,8
+2007-04,Dido,22
+2007-04,Draconian,0
+2007-04,Him,138
+2007-04,Kwan,43
+2007-04,Leaves' Eyes,0
+2007-04,Loreena Mckennitt,0
+2007-04,Moonlight,0
+2007-04,Mortal Love,84
+2007-04,My Dying Bride,0
+2007-04,Negative,54
+2007-04,Opeth,0
+2007-04,Poets Of The Fall,169
+2007-04,Rammstein,0
+2007-04,Riverside,5
+2007-04,Within Temptation,6
+2007-05,Agathodaimon,0
+2007-05,Anathema,0
+2007-05,Battlelore,0
+2007-05,Beseech,0
+2007-05,Darkwell,0
+2007-05,Dido,10
+2007-05,Draconian,0
+2007-05,Him,15
+2007-05,Kwan,19
+2007-05,Leaves' Eyes,0
+2007-05,Loreena Mckennitt,6
+2007-05,Moonlight,0
+2007-05,Mortal Love,0
+2007-05,My Dying Bride,0
+2007-05,Negative,0
+2007-05,Opeth,0
+2007-05,Poets Of The Fall,0
+2007-05,Rammstein,12
+2007-05,Riverside,9
+2007-05,Within Temptation,6
+2007-06,Agathodaimon,0
+2007-06,Anathema,0
+2007-06,Battlelore,0
+2007-06,Beseech,61
+2007-06,Darkwell,0
+2007-06,Dido,30
+2007-06,Draconian,9
+2007-06,Him,12
+2007-06,Kwan,118
+2007-06,Leaves' Eyes,0
+2007-06,Loreena Mckennitt,0
+2007-06,Moonlight,2
+2007-06,Mortal Love,10
+2007-06,My Dying Bride,0
+2007-06,Negative,2
+2007-06,Opeth,8
+2007-06,Poets Of The Fall,31
+2007-06,Rammstein,0
+2007-06,Riverside,0
+2007-06,Within Temptation,27
+2007-07,Agathodaimon,0
+2007-07,Anathema,0
+2007-07,Battlelore,0
+2007-07,Beseech,0
+2007-07,Darkwell,0
+2007-07,Dido,0
+2007-07,Draconian,6
+2007-07,Him,0
+2007-07,Kwan,0
+2007-07,Leaves' Eyes,0
+2007-07,Loreena Mckennitt,0
+2007-07,Moonlight,0
+2007-07,Mortal Love,0
+2007-07,My Dying Bride,0
+2007-07,Negative,0
+2007-07,Opeth,0
+2007-07,Poets Of The Fall,0
+2007-07,Rammstein,0
+2007-07,Riverside,0
+2007-07,Within Temptation,0
+2007-08,Agathodaimon,0
+2007-08,Anathema,0
+2007-08,Battlelore,0
+2007-08,Beseech,0
+2007-08,Darkwell,0
+2007-08,Dido,0
+2007-08,Draconian,0
+2007-08,Him,0
+2007-08,Kwan,2
+2007-08,Leaves' Eyes,0
+2007-08,Loreena Mckennitt,0
+2007-08,Moonlight,0
+2007-08,Mortal Love,0
+2007-08,My Dying Bride,0
+2007-08,Negative,0
+2007-08,Opeth,0
+2007-08,Poets Of The Fall,7
+2007-08,Rammstein,0
+2007-08,Riverside,0
+2007-08,Within Temptation,3
+2007-09,Agathodaimon,0
+2007-09,Anathema,0
+2007-09,Battlelore,13
+2007-09,Beseech,0
+2007-09,Darkwell,0
+2007-09,Dido,0
+2007-09,Draconian,0
+2007-09,Him,0
+2007-09,Kwan,9
+2007-09,Leaves' Eyes,0
+2007-09,Loreena Mckennitt,0
+2007-09,Moonlight,0
+2007-09,Mortal Love,1
+2007-09,My Dying Bride,0
+2007-09,Negative,2
+2007-09,Opeth,0
+2007-09,Poets Of The Fall,13
+2007-09,Rammstein,0
+2007-09,Riverside,0
+2007-09,Within Temptation,0
+2007-10,Agathodaimon,0
+2007-10,Anathema,0
+2007-10,Battlelore,0
+2007-10,Beseech,0
+2007-10,Darkwell,0
+2007-10,Dido,1
+2007-10,Draconian,0
+2007-10,Him,3
+2007-10,Kwan,13
+2007-10,Leaves' Eyes,0
+2007-10,Loreena Mckennitt,0
+2007-10,Moonlight,0
+2007-10,Mortal Love,0
+2007-10,My Dying Bride,0
+2007-10,Negative,0
+2007-10,Opeth,0
+2007-10,Poets Of The Fall,8
+2007-10,Rammstein,0
+2007-10,Riverside,0
+2007-10,Within Temptation,1
+2007-11,Agathodaimon,0
+2007-11,Anathema,0
+2007-11,Battlelore,26
+2007-11,Beseech,0
+2007-11,Darkwell,0
+2007-11,Dido,2
+2007-11,Draconian,0
+2007-11,Him,0
+2007-11,Kwan,13
+2007-11,Leaves' Eyes,28
+2007-11,Loreena Mckennitt,0
+2007-11,Moonlight,0
+2007-11,Mortal Love,16
+2007-11,My Dying Bride,3
+2007-11,Negative,0
+2007-11,Opeth,0
+2007-11,Poets Of The Fall,19
+2007-11,Rammstein,0
+2007-11,Riverside,7
+2007-11,Within Temptation,4
+2007-12,Agathodaimon,0
+2007-12,Anathema,0
+2007-12,Battlelore,0
+2007-12,Beseech,44
+2007-12,Darkwell,26
+2007-12,Dido,0
+2007-12,Draconian,0
+2007-12,Him,103
+2007-12,Kwan,0
+2007-12,Leaves' Eyes,0
+2007-12,Loreena Mckennitt,0
+2007-12,Moonlight,7
+2007-12,Mortal Love,0
+2007-12,My Dying Bride,1
+2007-12,Negative,0
+2007-12,Opeth,0
+2007-12,Poets Of The Fall,59
+2007-12,Rammstein,0
+2007-12,Riverside,0
+2007-12,Within Temptation,0
+2008-01,Agathodaimon,0
+2008-01,Anathema,0
+2008-01,Battlelore,0
+2008-01,Beseech,98
+2008-01,Darkwell,61
+2008-01,Dido,0
+2008-01,Draconian,9
+2008-01,Him,0
+2008-01,Kwan,0
+2008-01,Leaves' Eyes,0
+2008-01,Loreena Mckennitt,0
+2008-01,Moonlight,11
+2008-01,Mortal Love,0
+2008-01,My Dying Bride,0
+2008-01,Negative,0
+2008-01,Opeth,0
+2008-01,Poets Of The Fall,33
+2008-01,Rammstein,0
+2008-01,Riverside,0
+2008-01,Within Temptation,0
+2008-02,Agathodaimon,1
+2008-02,Anathema,0
+2008-02,Battlelore,0
+2008-02,Beseech,10
+2008-02,Darkwell,22
+2008-02,Dido,0
+2008-02,Draconian,0
+2008-02,Him,2
+2008-02,Kwan,3
+2008-02,Leaves' Eyes,0
+2008-02,Loreena Mckennitt,0
+2008-02,Moonlight,0
+2008-02,Mortal Love,0
+2008-02,My Dying Bride,2
+2008-02,Negative,32
+2008-02,Opeth,0
+2008-02,Poets Of The Fall,1
+2008-02,Rammstein,6
+2008-02,Riverside,0
+2008-02,Within Temptation,0
+2008-03,Agathodaimon,0
+2008-03,Anathema,0
+2008-03,Battlelore,1
+2008-03,Beseech,0
+2008-03,Darkwell,17
+2008-03,Dido,0
+2008-03,Draconian,0
+2008-03,Him,168
+2008-03,Kwan,0
+2008-03,Leaves' Eyes,0
+2008-03,Loreena Mckennitt,8
+2008-03,Moonlight,10
+2008-03,Mortal Love,0
+2008-03,My Dying Bride,0
+2008-03,Negative,23
+2008-03,Opeth,8
+2008-03,Poets Of The Fall,4
+2008-03,Rammstein,0
+2008-03,Riverside,0
+2008-03,Within Temptation,0
+2008-04,Agathodaimon,0
+2008-04,Anathema,0
+2008-04,Battlelore,3
+2008-04,Beseech,0
+2008-04,Darkwell,0
+2008-04,Dido,17
+2008-04,Draconian,0
+2008-04,Him,0
+2008-04,Kwan,0
+2008-04,Leaves' Eyes,0
+2008-04,Loreena Mckennitt,0
+2008-04,Moonlight,0
+2008-04,Mortal Love,0
+2008-04,My Dying Bride,0
+2008-04,Negative,0
+2008-04,Opeth,8
+2008-04,Poets Of The Fall,0
+2008-04,Rammstein,0
+2008-04,Riverside,8
+2008-04,Within Temptation,11
+2008-05,Agathodaimon,0
+2008-05,Anathema,17
+2008-05,Battlelore,0
+2008-05,Beseech,18
+2008-05,Darkwell,2
+2008-05,Dido,0
+2008-05,Draconian,0
+2008-05,Him,0
+2008-05,Kwan,8
+2008-05,Leaves' Eyes,0
+2008-05,Loreena Mckennitt,0
+2008-05,Moonlight,0
+2008-05,Mortal Love,0
+2008-05,My Dying Bride,6
+2008-05,Negative,5
+2008-05,Opeth,0
+2008-05,Poets Of The Fall,9
+2008-05,Rammstein,0
+2008-05,Riverside,0
+2008-05,Within Temptation,0
+2008-06,Agathodaimon,5
+2008-06,Anathema,0
+2008-06,Battlelore,16
+2008-06,Beseech,6
+2008-06,Darkwell,13
+2008-06,Dido,0
+2008-06,Draconian,1
+2008-06,Him,200
+2008-06,Kwan,1
+2008-06,Leaves' Eyes,0
+2008-06,Loreena Mckennitt,0
+2008-06,Moonlight,0
+2008-06,Mortal Love,0
+2008-06,My Dying Bride,7
+2008-06,Negative,36
+2008-06,Opeth,0
+2008-06,Poets Of The Fall,1
+2008-06,Rammstein,0
+2008-06,Riverside,1
+2008-06,Within Temptation,0
+2008-07,Agathodaimon,0
+2008-07,Anathema,0
+2008-07,Battlelore,0
+2008-07,Beseech,0
+2008-07,Darkwell,0
+2008-07,Dido,0
+2008-07,Draconian,0
+2008-07,Him,41
+2008-07,Kwan,28
+2008-07,Leaves' Eyes,0
+2008-07,Loreena Mckennitt,0
+2008-07,Moonlight,0
+2008-07,Mortal Love,0
+2008-07,My Dying Bride,0
+2008-07,Negative,62
+2008-07,Opeth,0
+2008-07,Poets Of The Fall,12
+2008-07,Rammstein,0
+2008-07,Riverside,11
+2008-07,Within Temptation,0
+2008-08,Agathodaimon,0
+2008-08,Anathema,0
+2008-08,Battlelore,0
+2008-08,Beseech,0
+2008-08,Darkwell,0
+2008-08,Dido,0
+2008-08,Draconian,0
+2008-08,Him,1
+2008-08,Kwan,3
+2008-08,Leaves' Eyes,0
+2008-08,Loreena Mckennitt,0
+2008-08,Moonlight,0
+2008-08,Mortal Love,0
+2008-08,My Dying Bride,0
+2008-08,Negative,1
+2008-08,Opeth,0
+2008-08,Poets Of The Fall,0
+2008-08,Rammstein,0
+2008-08,Riverside,0
+2008-08,Within Temptation,0
+2008-09,Agathodaimon,6
+2008-09,Anathema,6
+2008-09,Battlelore,4
+2008-09,Beseech,2
+2008-09,Darkwell,4
+2008-09,Dido,2
+2008-09,Draconian,1
+2008-09,Him,3
+2008-09,Kwan,4
+2008-09,Leaves' Eyes,1
+2008-09,Loreena Mckennitt,32
+2008-09,Moonlight,0
+2008-09,Mortal Love,6
+2008-09,My Dying Bride,2
+2008-09,Negative,0
+2008-09,Opeth,0
+2008-09,Poets Of The Fall,3
+2008-09,Rammstein,1
+2008-09,Riverside,2
+2008-09,Within Temptation,1
+2008-10,Agathodaimon,0
+2008-10,Anathema,1
+2008-10,Battlelore,1
+2008-10,Beseech,1
+2008-10,Darkwell,2
+2008-10,Dido,2
+2008-10,Draconian,0
+2008-10,Him,13
+2008-10,Kwan,4
+2008-10,Leaves' Eyes,0
+2008-10,Loreena Mckennitt,45
+2008-10,Moonlight,0
+2008-10,Mortal Love,2
+2008-10,My Dying Bride,2
+2008-10,Negative,41
+2008-10,Opeth,0
+2008-10,Poets Of The Fall,154
+2008-10,Rammstein,3
+2008-10,Riverside,1
+2008-10,Within Temptation,3
+2008-11,Agathodaimon,0
+2008-11,Anathema,0
+2008-11,Battlelore,0
+2008-11,Beseech,0
+2008-11,Darkwell,1
+2008-11,Dido,1
+2008-11,Draconian,0
+2008-11,Him,75
+2008-11,Kwan,0
+2008-11,Leaves' Eyes,0
+2008-11,Loreena Mckennitt,0
+2008-11,Moonlight,0
+2008-11,Mortal Love,0
+2008-11,My Dying Bride,0
+2008-11,Negative,35
+2008-11,Opeth,0
+2008-11,Poets Of The Fall,0
+2008-11,Rammstein,0
+2008-11,Riverside,0
+2008-11,Within Temptation,0
+2008-12,Agathodaimon,1
+2008-12,Anathema,1
+2008-12,Battlelore,0
+2008-12,Beseech,0
+2008-12,Darkwell,0
+2008-12,Dido,0
+2008-12,Draconian,0
+2008-12,Him,0
+2008-12,Kwan,0
+2008-12,Leaves' Eyes,0
+2008-12,Loreena Mckennitt,9
+2008-12,Moonlight,5
+2008-12,Mortal Love,0
+2008-12,My Dying Bride,7
+2008-12,Negative,0
+2008-12,Opeth,0
+2008-12,Poets Of The Fall,0
+2008-12,Rammstein,0
+2008-12,Riverside,0
+2008-12,Within Temptation,0
+2009-01,Agathodaimon,0
+2009-01,Anathema,13
+2009-01,Battlelore,0
+2009-01,Beseech,17
+2009-01,Darkwell,6
+2009-01,Dido,0
+2009-01,Draconian,0
+2009-01,Him,0
+2009-01,Kwan,0
+2009-01,Leaves' Eyes,0
+2009-01,Loreena Mckennitt,0
+2009-01,Moonlight,19
+2009-01,Mortal Love,43
+2009-01,My Dying Bride,0
+2009-01,Negative,0
+2009-01,Opeth,0
+2009-01,Poets Of The Fall,0
+2009-01,Rammstein,0
+2009-01,Riverside,6
+2009-01,Within Temptation,20
+2009-02,Agathodaimon,0
+2009-02,Anathema,0
+2009-02,Battlelore,0
+2009-02,Beseech,0
+2009-02,Darkwell,0
+2009-02,Dido,0
+2009-02,Draconian,0
+2009-02,Him,0
+2009-02,Kwan,0
+2009-02,Leaves' Eyes,0
+2009-02,Loreena Mckennitt,0
+2009-02,Moonlight,0
+2009-02,Mortal Love,0
+2009-02,My Dying Bride,0
+2009-02,Negative,8
+2009-02,Opeth,0
+2009-02,Poets Of The Fall,0
+2009-02,Rammstein,0
+2009-02,Riverside,0
+2009-02,Within Temptation,0
+2009-03,Agathodaimon,0
+2009-03,Anathema,0
+2009-03,Battlelore,14
+2009-03,Beseech,0
+2009-03,Darkwell,0
+2009-03,Dido,0
+2009-03,Draconian,0
+2009-03,Him,14
+2009-03,Kwan,15
+2009-03,Leaves' Eyes,0
+2009-03,Loreena Mckennitt,0
+2009-03,Moonlight,0
+2009-03,Mortal Love,0
+2009-03,My Dying Bride,0
+2009-03,Negative,12
+2009-03,Opeth,0
+2009-03,Poets Of The Fall,11
+2009-03,Rammstein,0
+2009-03,Riverside,16
+2009-03,Within Temptation,0
+2009-04,Agathodaimon,0
+2009-04,Anathema,0
+2009-04,Battlelore,0
+2009-04,Beseech,0
+2009-04,Darkwell,18
+2009-04,Dido,1
+2009-04,Draconian,0
+2009-04,Him,2
+2009-04,Kwan,0
+2009-04,Leaves' Eyes,19
+2009-04,Loreena Mckennitt,0
+2009-04,Moonlight,0
+2009-04,Mortal Love,20
+2009-04,My Dying Bride,0
+2009-04,Negative,0
+2009-04,Opeth,0
+2009-04,Poets Of The Fall,98
+2009-04,Rammstein,0
+2009-04,Riverside,15
+2009-04,Within Temptation,0

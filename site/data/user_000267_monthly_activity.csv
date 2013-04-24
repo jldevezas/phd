@@ -1,0 +1,821 @@
+month,artist,plays
+2005-11,Black Rebel Motorcycle Club,0
+2005-11,Blondie,0
+2005-11,Bob Dylan,1
+2005-11,David Bowie,0
+2005-11,Enrique Bunbury,0
+2005-11,Héroes Del Silencio,0
+2005-11,Los Piratas,0
+2005-11,Los Planetas,1
+2005-11,My Bloody Valentine,0
+2005-11,Placebo,0
+2005-11,Pulp,0
+2005-11,Radiohead,0
+2005-11,The Beatles,0
+2005-11,The Cure,0
+2005-11,The Killers,0
+2005-11,The Smashing Pumpkins,0
+2005-11,The Strokes,0
+2005-11,The Verve,0
+2005-11,The Who,0
+2005-11,Yeah Yeah Yeahs,0
+2005-12,Black Rebel Motorcycle Club,1
+2005-12,Blondie,0
+2005-12,Bob Dylan,0
+2005-12,David Bowie,0
+2005-12,Enrique Bunbury,0
+2005-12,Héroes Del Silencio,0
+2005-12,Los Piratas,0
+2005-12,Los Planetas,0
+2005-12,My Bloody Valentine,0
+2005-12,Placebo,0
+2005-12,Pulp,1
+2005-12,Radiohead,0
+2005-12,The Beatles,0
+2005-12,The Cure,1
+2005-12,The Killers,0
+2005-12,The Smashing Pumpkins,0
+2005-12,The Strokes,1
+2005-12,The Verve,0
+2005-12,The Who,0
+2005-12,Yeah Yeah Yeahs,0
+2006-01,Black Rebel Motorcycle Club,0
+2006-01,Blondie,0
+2006-01,Bob Dylan,0
+2006-01,David Bowie,0
+2006-01,Enrique Bunbury,0
+2006-01,Héroes Del Silencio,0
+2006-01,Los Piratas,0
+2006-01,Los Planetas,0
+2006-01,My Bloody Valentine,0
+2006-01,Placebo,0
+2006-01,Pulp,0
+2006-01,Radiohead,0
+2006-01,The Beatles,0
+2006-01,The Cure,0
+2006-01,The Killers,0
+2006-01,The Smashing Pumpkins,0
+2006-01,The Strokes,0
+2006-01,The Verve,0
+2006-01,The Who,0
+2006-01,Yeah Yeah Yeahs,0
+2006-02,Black Rebel Motorcycle Club,0
+2006-02,Blondie,0
+2006-02,Bob Dylan,0
+2006-02,David Bowie,0
+2006-02,Enrique Bunbury,0
+2006-02,Héroes Del Silencio,0
+2006-02,Los Piratas,0
+2006-02,Los Planetas,0
+2006-02,My Bloody Valentine,0
+2006-02,Placebo,0
+2006-02,Pulp,0
+2006-02,Radiohead,0
+2006-02,The Beatles,0
+2006-02,The Cure,0
+2006-02,The Killers,0
+2006-02,The Smashing Pumpkins,0
+2006-02,The Strokes,0
+2006-02,The Verve,0
+2006-02,The Who,0
+2006-02,Yeah Yeah Yeahs,0
+2006-03,Black Rebel Motorcycle Club,0
+2006-03,Blondie,0
+2006-03,Bob Dylan,0
+2006-03,David Bowie,0
+2006-03,Enrique Bunbury,0
+2006-03,Héroes Del Silencio,0
+2006-03,Los Piratas,0
+2006-03,Los Planetas,0
+2006-03,My Bloody Valentine,0
+2006-03,Placebo,0
+2006-03,Pulp,0
+2006-03,Radiohead,0
+2006-03,The Beatles,0
+2006-03,The Cure,0
+2006-03,The Killers,0
+2006-03,The Smashing Pumpkins,0
+2006-03,The Strokes,0
+2006-03,The Verve,0
+2006-03,The Who,0
+2006-03,Yeah Yeah Yeahs,0
+2006-04,Black Rebel Motorcycle Club,0
+2006-04,Blondie,0
+2006-04,Bob Dylan,0
+2006-04,David Bowie,0
+2006-04,Enrique Bunbury,0
+2006-04,Héroes Del Silencio,0
+2006-04,Los Piratas,0
+2006-04,Los Planetas,0
+2006-04,My Bloody Valentine,0
+2006-04,Placebo,0
+2006-04,Pulp,0
+2006-04,Radiohead,0
+2006-04,The Beatles,0
+2006-04,The Cure,0
+2006-04,The Killers,0
+2006-04,The Smashing Pumpkins,0
+2006-04,The Strokes,0
+2006-04,The Verve,0
+2006-04,The Who,0
+2006-04,Yeah Yeah Yeahs,0
+2006-05,Black Rebel Motorcycle Club,0
+2006-05,Blondie,0
+2006-05,Bob Dylan,0
+2006-05,David Bowie,0
+2006-05,Enrique Bunbury,0
+2006-05,Héroes Del Silencio,0
+2006-05,Los Piratas,0
+2006-05,Los Planetas,0
+2006-05,My Bloody Valentine,1
+2006-05,Placebo,1
+2006-05,Pulp,1
+2006-05,Radiohead,1
+2006-05,The Beatles,1
+2006-05,The Cure,0
+2006-05,The Killers,0
+2006-05,The Smashing Pumpkins,1
+2006-05,The Strokes,0
+2006-05,The Verve,1
+2006-05,The Who,0
+2006-05,Yeah Yeah Yeahs,0
+2006-06,Black Rebel Motorcycle Club,0
+2006-06,Blondie,0
+2006-06,Bob Dylan,0
+2006-06,David Bowie,0
+2006-06,Enrique Bunbury,0
+2006-06,Héroes Del Silencio,0
+2006-06,Los Piratas,2
+2006-06,Los Planetas,2
+2006-06,My Bloody Valentine,1
+2006-06,Placebo,0
+2006-06,Pulp,0
+2006-06,Radiohead,3
+2006-06,The Beatles,1
+2006-06,The Cure,0
+2006-06,The Killers,0
+2006-06,The Smashing Pumpkins,0
+2006-06,The Strokes,0
+2006-06,The Verve,0
+2006-06,The Who,0
+2006-06,Yeah Yeah Yeahs,0
+2006-07,Black Rebel Motorcycle Club,5
+2006-07,Blondie,8
+2006-07,Bob Dylan,1
+2006-07,David Bowie,10
+2006-07,Enrique Bunbury,1
+2006-07,Héroes Del Silencio,50
+2006-07,Los Piratas,1
+2006-07,Los Planetas,5
+2006-07,My Bloody Valentine,25
+2006-07,Placebo,5
+2006-07,Pulp,3
+2006-07,Radiohead,47
+2006-07,The Beatles,3
+2006-07,The Cure,16
+2006-07,The Killers,2
+2006-07,The Smashing Pumpkins,85
+2006-07,The Strokes,6
+2006-07,The Verve,2
+2006-07,The Who,1
+2006-07,Yeah Yeah Yeahs,9
+2006-08,Black Rebel Motorcycle Club,53
+2006-08,Blondie,2
+2006-08,Bob Dylan,25
+2006-08,David Bowie,79
+2006-08,Enrique Bunbury,1
+2006-08,Héroes Del Silencio,1
+2006-08,Los Piratas,2
+2006-08,Los Planetas,31
+2006-08,My Bloody Valentine,4
+2006-08,Placebo,68
+2006-08,Pulp,4
+2006-08,Radiohead,2
+2006-08,The Beatles,3
+2006-08,The Cure,2
+2006-08,The Killers,1
+2006-08,The Smashing Pumpkins,0
+2006-08,The Strokes,2
+2006-08,The Verve,2
+2006-08,The Who,1
+2006-08,Yeah Yeah Yeahs,11
+2006-09,Black Rebel Motorcycle Club,60
+2006-09,Blondie,2
+2006-09,Bob Dylan,18
+2006-09,David Bowie,29
+2006-09,Enrique Bunbury,0
+2006-09,Héroes Del Silencio,0
+2006-09,Los Piratas,2
+2006-09,Los Planetas,7
+2006-09,My Bloody Valentine,13
+2006-09,Placebo,16
+2006-09,Pulp,1
+2006-09,Radiohead,25
+2006-09,The Beatles,1
+2006-09,The Cure,9
+2006-09,The Killers,29
+2006-09,The Smashing Pumpkins,3
+2006-09,The Strokes,1
+2006-09,The Verve,0
+2006-09,The Who,0
+2006-09,Yeah Yeah Yeahs,0
+2006-10,Black Rebel Motorcycle Club,53
+2006-10,Blondie,0
+2006-10,Bob Dylan,7
+2006-10,David Bowie,23
+2006-10,Enrique Bunbury,4
+2006-10,Héroes Del Silencio,122
+2006-10,Los Piratas,74
+2006-10,Los Planetas,20
+2006-10,My Bloody Valentine,2
+2006-10,Placebo,35
+2006-10,Pulp,3
+2006-10,Radiohead,48
+2006-10,The Beatles,11
+2006-10,The Cure,55
+2006-10,The Killers,0
+2006-10,The Smashing Pumpkins,2
+2006-10,The Strokes,1
+2006-10,The Verve,4
+2006-10,The Who,22
+2006-10,Yeah Yeah Yeahs,3
+2006-11,Black Rebel Motorcycle Club,147
+2006-11,Blondie,2
+2006-11,Bob Dylan,0
+2006-11,David Bowie,6
+2006-11,Enrique Bunbury,0
+2006-11,Héroes Del Silencio,0
+2006-11,Los Piratas,64
+2006-11,Los Planetas,2
+2006-11,My Bloody Valentine,0
+2006-11,Placebo,13
+2006-11,Pulp,126
+2006-11,Radiohead,85
+2006-11,The Beatles,15
+2006-11,The Cure,0
+2006-11,The Killers,0
+2006-11,The Smashing Pumpkins,0
+2006-11,The Strokes,6
+2006-11,The Verve,0
+2006-11,The Who,59
+2006-11,Yeah Yeah Yeahs,2
+2006-12,Black Rebel Motorcycle Club,46
+2006-12,Blondie,0
+2006-12,Bob Dylan,12
+2006-12,David Bowie,24
+2006-12,Enrique Bunbury,3
+2006-12,Héroes Del Silencio,0
+2006-12,Los Piratas,0
+2006-12,Los Planetas,4
+2006-12,My Bloody Valentine,2
+2006-12,Placebo,81
+2006-12,Pulp,24
+2006-12,Radiohead,97
+2006-12,The Beatles,39
+2006-12,The Cure,0
+2006-12,The Killers,0
+2006-12,The Smashing Pumpkins,0
+2006-12,The Strokes,0
+2006-12,The Verve,31
+2006-12,The Who,4
+2006-12,Yeah Yeah Yeahs,0
+2007-01,Black Rebel Motorcycle Club,66
+2007-01,Blondie,42
+2007-01,Bob Dylan,7
+2007-01,David Bowie,0
+2007-01,Enrique Bunbury,21
+2007-01,Héroes Del Silencio,50
+2007-01,Los Piratas,7
+2007-01,Los Planetas,322
+2007-01,My Bloody Valentine,1
+2007-01,Placebo,230
+2007-01,Pulp,5
+2007-01,Radiohead,11
+2007-01,The Beatles,44
+2007-01,The Cure,32
+2007-01,The Killers,0
+2007-01,The Smashing Pumpkins,0
+2007-01,The Strokes,195
+2007-01,The Verve,22
+2007-01,The Who,32
+2007-01,Yeah Yeah Yeahs,8
+2007-02,Black Rebel Motorcycle Club,50
+2007-02,Blondie,2
+2007-02,Bob Dylan,4
+2007-02,David Bowie,0
+2007-02,Enrique Bunbury,1
+2007-02,Héroes Del Silencio,49
+2007-02,Los Piratas,0
+2007-02,Los Planetas,68
+2007-02,My Bloody Valentine,0
+2007-02,Placebo,41
+2007-02,Pulp,3
+2007-02,Radiohead,25
+2007-02,The Beatles,8
+2007-02,The Cure,35
+2007-02,The Killers,2
+2007-02,The Smashing Pumpkins,0
+2007-02,The Strokes,119
+2007-02,The Verve,2
+2007-02,The Who,16
+2007-02,Yeah Yeah Yeahs,93
+2007-03,Black Rebel Motorcycle Club,129
+2007-03,Blondie,0
+2007-03,Bob Dylan,0
+2007-03,David Bowie,98
+2007-03,Enrique Bunbury,3
+2007-03,Héroes Del Silencio,85
+2007-03,Los Piratas,1
+2007-03,Los Planetas,26
+2007-03,My Bloody Valentine,0
+2007-03,Placebo,15
+2007-03,Pulp,10
+2007-03,Radiohead,0
+2007-03,The Beatles,22
+2007-03,The Cure,12
+2007-03,The Killers,1
+2007-03,The Smashing Pumpkins,0
+2007-03,The Strokes,2
+2007-03,The Verve,4
+2007-03,The Who,7
+2007-03,Yeah Yeah Yeahs,3
+2007-04,Black Rebel Motorcycle Club,5
+2007-04,Blondie,0
+2007-04,Bob Dylan,1
+2007-04,David Bowie,0
+2007-04,Enrique Bunbury,0
+2007-04,Héroes Del Silencio,0
+2007-04,Los Piratas,0
+2007-04,Los Planetas,26
+2007-04,My Bloody Valentine,1
+2007-04,Placebo,0
+2007-04,Pulp,4
+2007-04,Radiohead,0
+2007-04,The Beatles,0
+2007-04,The Cure,1
+2007-04,The Killers,0
+2007-04,The Smashing Pumpkins,2
+2007-04,The Strokes,0
+2007-04,The Verve,0
+2007-04,The Who,0
+2007-04,Yeah Yeah Yeahs,0
+2007-05,Black Rebel Motorcycle Club,7
+2007-05,Blondie,0
+2007-05,Bob Dylan,12
+2007-05,David Bowie,0
+2007-05,Enrique Bunbury,0
+2007-05,Héroes Del Silencio,0
+2007-05,Los Piratas,17
+2007-05,Los Planetas,27
+2007-05,My Bloody Valentine,6
+2007-05,Placebo,0
+2007-05,Pulp,2
+2007-05,Radiohead,1
+2007-05,The Beatles,0
+2007-05,The Cure,1
+2007-05,The Killers,0
+2007-05,The Smashing Pumpkins,1
+2007-05,The Strokes,0
+2007-05,The Verve,2
+2007-05,The Who,0
+2007-05,Yeah Yeah Yeahs,0
+2007-06,Black Rebel Motorcycle Club,1
+2007-06,Blondie,0
+2007-06,Bob Dylan,0
+2007-06,David Bowie,0
+2007-06,Enrique Bunbury,0
+2007-06,Héroes Del Silencio,0
+2007-06,Los Piratas,0
+2007-06,Los Planetas,0
+2007-06,My Bloody Valentine,0
+2007-06,Placebo,1
+2007-06,Pulp,0
+2007-06,Radiohead,0
+2007-06,The Beatles,0
+2007-06,The Cure,0
+2007-06,The Killers,0
+2007-06,The Smashing Pumpkins,6
+2007-06,The Strokes,0
+2007-06,The Verve,0
+2007-06,The Who,0
+2007-06,Yeah Yeah Yeahs,0
+2007-07,Black Rebel Motorcycle Club,2
+2007-07,Blondie,0
+2007-07,Bob Dylan,1
+2007-07,David Bowie,0
+2007-07,Enrique Bunbury,0
+2007-07,Héroes Del Silencio,0
+2007-07,Los Piratas,1
+2007-07,Los Planetas,0
+2007-07,My Bloody Valentine,0
+2007-07,Placebo,0
+2007-07,Pulp,1
+2007-07,Radiohead,5
+2007-07,The Beatles,0
+2007-07,The Cure,3
+2007-07,The Killers,0
+2007-07,The Smashing Pumpkins,6
+2007-07,The Strokes,0
+2007-07,The Verve,0
+2007-07,The Who,0
+2007-07,Yeah Yeah Yeahs,0
+2007-08,Black Rebel Motorcycle Club,0
+2007-08,Blondie,0
+2007-08,Bob Dylan,0
+2007-08,David Bowie,0
+2007-08,Enrique Bunbury,0
+2007-08,Héroes Del Silencio,1
+2007-08,Los Piratas,0
+2007-08,Los Planetas,0
+2007-08,My Bloody Valentine,0
+2007-08,Placebo,0
+2007-08,Pulp,0
+2007-08,Radiohead,0
+2007-08,The Beatles,0
+2007-08,The Cure,0
+2007-08,The Killers,0
+2007-08,The Smashing Pumpkins,0
+2007-08,The Strokes,0
+2007-08,The Verve,0
+2007-08,The Who,0
+2007-08,Yeah Yeah Yeahs,0
+2007-09,Black Rebel Motorcycle Club,0
+2007-09,Blondie,0
+2007-09,Bob Dylan,0
+2007-09,David Bowie,0
+2007-09,Enrique Bunbury,0
+2007-09,Héroes Del Silencio,0
+2007-09,Los Piratas,0
+2007-09,Los Planetas,0
+2007-09,My Bloody Valentine,0
+2007-09,Placebo,0
+2007-09,Pulp,0
+2007-09,Radiohead,0
+2007-09,The Beatles,0
+2007-09,The Cure,0
+2007-09,The Killers,0
+2007-09,The Smashing Pumpkins,0
+2007-09,The Strokes,0
+2007-09,The Verve,0
+2007-09,The Who,0
+2007-09,Yeah Yeah Yeahs,0
+2007-10,Black Rebel Motorcycle Club,0
+2007-10,Blondie,0
+2007-10,Bob Dylan,0
+2007-10,David Bowie,0
+2007-10,Enrique Bunbury,0
+2007-10,Héroes Del Silencio,0
+2007-10,Los Piratas,0
+2007-10,Los Planetas,0
+2007-10,My Bloody Valentine,0
+2007-10,Placebo,0
+2007-10,Pulp,0
+2007-10,Radiohead,0
+2007-10,The Beatles,0
+2007-10,The Cure,0
+2007-10,The Killers,0
+2007-10,The Smashing Pumpkins,0
+2007-10,The Strokes,0
+2007-10,The Verve,0
+2007-10,The Who,0
+2007-10,Yeah Yeah Yeahs,0
+2007-11,Black Rebel Motorcycle Club,0
+2007-11,Blondie,0
+2007-11,Bob Dylan,0
+2007-11,David Bowie,0
+2007-11,Enrique Bunbury,0
+2007-11,Héroes Del Silencio,0
+2007-11,Los Piratas,0
+2007-11,Los Planetas,0
+2007-11,My Bloody Valentine,0
+2007-11,Placebo,0
+2007-11,Pulp,0
+2007-11,Radiohead,0
+2007-11,The Beatles,0
+2007-11,The Cure,0
+2007-11,The Killers,0
+2007-11,The Smashing Pumpkins,0
+2007-11,The Strokes,0
+2007-11,The Verve,0
+2007-11,The Who,0
+2007-11,Yeah Yeah Yeahs,0
+2007-12,Black Rebel Motorcycle Club,3
+2007-12,Blondie,0
+2007-12,Bob Dylan,1
+2007-12,David Bowie,0
+2007-12,Enrique Bunbury,1
+2007-12,Héroes Del Silencio,0
+2007-12,Los Piratas,0
+2007-12,Los Planetas,1
+2007-12,My Bloody Valentine,0
+2007-12,Placebo,0
+2007-12,Pulp,0
+2007-12,Radiohead,1
+2007-12,The Beatles,0
+2007-12,The Cure,1
+2007-12,The Killers,4
+2007-12,The Smashing Pumpkins,0
+2007-12,The Strokes,1
+2007-12,The Verve,0
+2007-12,The Who,0
+2007-12,Yeah Yeah Yeahs,0
+2008-01,Black Rebel Motorcycle Club,0
+2008-01,Blondie,0
+2008-01,Bob Dylan,0
+2008-01,David Bowie,0
+2008-01,Enrique Bunbury,0
+2008-01,Héroes Del Silencio,0
+2008-01,Los Piratas,0
+2008-01,Los Planetas,0
+2008-01,My Bloody Valentine,0
+2008-01,Placebo,0
+2008-01,Pulp,0
+2008-01,Radiohead,0
+2008-01,The Beatles,0
+2008-01,The Cure,0
+2008-01,The Killers,0
+2008-01,The Smashing Pumpkins,0
+2008-01,The Strokes,0
+2008-01,The Verve,0
+2008-01,The Who,0
+2008-01,Yeah Yeah Yeahs,0
+2008-02,Black Rebel Motorcycle Club,0
+2008-02,Blondie,0
+2008-02,Bob Dylan,0
+2008-02,David Bowie,0
+2008-02,Enrique Bunbury,0
+2008-02,Héroes Del Silencio,0
+2008-02,Los Piratas,0
+2008-02,Los Planetas,0
+2008-02,My Bloody Valentine,0
+2008-02,Placebo,0
+2008-02,Pulp,0
+2008-02,Radiohead,0
+2008-02,The Beatles,0
+2008-02,The Cure,0
+2008-02,The Killers,0
+2008-02,The Smashing Pumpkins,0
+2008-02,The Strokes,0
+2008-02,The Verve,0
+2008-02,The Who,0
+2008-02,Yeah Yeah Yeahs,0
+2008-03,Black Rebel Motorcycle Club,0
+2008-03,Blondie,0
+2008-03,Bob Dylan,0
+2008-03,David Bowie,0
+2008-03,Enrique Bunbury,0
+2008-03,Héroes Del Silencio,0
+2008-03,Los Piratas,0
+2008-03,Los Planetas,0
+2008-03,My Bloody Valentine,0
+2008-03,Placebo,0
+2008-03,Pulp,0
+2008-03,Radiohead,0
+2008-03,The Beatles,0
+2008-03,The Cure,0
+2008-03,The Killers,0
+2008-03,The Smashing Pumpkins,0
+2008-03,The Strokes,0
+2008-03,The Verve,0
+2008-03,The Who,0
+2008-03,Yeah Yeah Yeahs,0
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Blondie,0
+2008-04,Bob Dylan,0
+2008-04,David Bowie,0
+2008-04,Enrique Bunbury,0
+2008-04,Héroes Del Silencio,0
+2008-04,Los Piratas,0
+2008-04,Los Planetas,0
+2008-04,My Bloody Valentine,0
+2008-04,Placebo,0
+2008-04,Pulp,0
+2008-04,Radiohead,0
+2008-04,The Beatles,0
+2008-04,The Cure,0
+2008-04,The Killers,0
+2008-04,The Smashing Pumpkins,0
+2008-04,The Strokes,0
+2008-04,The Verve,0
+2008-04,The Who,0
+2008-04,Yeah Yeah Yeahs,0
+2008-05,Black Rebel Motorcycle Club,0
+2008-05,Blondie,0
+2008-05,Bob Dylan,0
+2008-05,David Bowie,0
+2008-05,Enrique Bunbury,0
+2008-05,Héroes Del Silencio,0
+2008-05,Los Piratas,0
+2008-05,Los Planetas,0
+2008-05,My Bloody Valentine,0
+2008-05,Placebo,0
+2008-05,Pulp,0
+2008-05,Radiohead,0
+2008-05,The Beatles,0
+2008-05,The Cure,0
+2008-05,The Killers,0
+2008-05,The Smashing Pumpkins,0
+2008-05,The Strokes,0
+2008-05,The Verve,0
+2008-05,The Who,0
+2008-05,Yeah Yeah Yeahs,0
+2008-06,Black Rebel Motorcycle Club,0
+2008-06,Blondie,0
+2008-06,Bob Dylan,0
+2008-06,David Bowie,0
+2008-06,Enrique Bunbury,0
+2008-06,Héroes Del Silencio,0
+2008-06,Los Piratas,0
+2008-06,Los Planetas,0
+2008-06,My Bloody Valentine,0
+2008-06,Placebo,0
+2008-06,Pulp,0
+2008-06,Radiohead,0
+2008-06,The Beatles,0
+2008-06,The Cure,0
+2008-06,The Killers,0
+2008-06,The Smashing Pumpkins,0
+2008-06,The Strokes,0
+2008-06,The Verve,0
+2008-06,The Who,0
+2008-06,Yeah Yeah Yeahs,0
+2008-07,Black Rebel Motorcycle Club,0
+2008-07,Blondie,0
+2008-07,Bob Dylan,0
+2008-07,David Bowie,0
+2008-07,Enrique Bunbury,0
+2008-07,Héroes Del Silencio,0
+2008-07,Los Piratas,0
+2008-07,Los Planetas,0
+2008-07,My Bloody Valentine,0
+2008-07,Placebo,0
+2008-07,Pulp,0
+2008-07,Radiohead,0
+2008-07,The Beatles,0
+2008-07,The Cure,0
+2008-07,The Killers,0
+2008-07,The Smashing Pumpkins,0
+2008-07,The Strokes,0
+2008-07,The Verve,0
+2008-07,The Who,0
+2008-07,Yeah Yeah Yeahs,0
+2008-08,Black Rebel Motorcycle Club,0
+2008-08,Blondie,0
+2008-08,Bob Dylan,0
+2008-08,David Bowie,0
+2008-08,Enrique Bunbury,0
+2008-08,Héroes Del Silencio,0
+2008-08,Los Piratas,0
+2008-08,Los Planetas,0
+2008-08,My Bloody Valentine,0
+2008-08,Placebo,0
+2008-08,Pulp,0
+2008-08,Radiohead,0
+2008-08,The Beatles,0
+2008-08,The Cure,0
+2008-08,The Killers,0
+2008-08,The Smashing Pumpkins,0
+2008-08,The Strokes,0
+2008-08,The Verve,0
+2008-08,The Who,0
+2008-08,Yeah Yeah Yeahs,0
+2008-09,Black Rebel Motorcycle Club,0
+2008-09,Blondie,0
+2008-09,Bob Dylan,0
+2008-09,David Bowie,0
+2008-09,Enrique Bunbury,0
+2008-09,Héroes Del Silencio,0
+2008-09,Los Piratas,0
+2008-09,Los Planetas,0
+2008-09,My Bloody Valentine,0
+2008-09,Placebo,0
+2008-09,Pulp,0
+2008-09,Radiohead,0
+2008-09,The Beatles,0
+2008-09,The Cure,0
+2008-09,The Killers,0
+2008-09,The Smashing Pumpkins,0
+2008-09,The Strokes,0
+2008-09,The Verve,0
+2008-09,The Who,0
+2008-09,Yeah Yeah Yeahs,0
+2008-10,Black Rebel Motorcycle Club,0
+2008-10,Blondie,0
+2008-10,Bob Dylan,0
+2008-10,David Bowie,0
+2008-10,Enrique Bunbury,0
+2008-10,Héroes Del Silencio,0
+2008-10,Los Piratas,0
+2008-10,Los Planetas,0
+2008-10,My Bloody Valentine,0
+2008-10,Placebo,0
+2008-10,Pulp,0
+2008-10,Radiohead,0
+2008-10,The Beatles,0
+2008-10,The Cure,0
+2008-10,The Killers,0
+2008-10,The Smashing Pumpkins,0
+2008-10,The Strokes,0
+2008-10,The Verve,0
+2008-10,The Who,0
+2008-10,Yeah Yeah Yeahs,0
+2008-11,Black Rebel Motorcycle Club,2
+2008-11,Blondie,2
+2008-11,Bob Dylan,3
+2008-11,David Bowie,0
+2008-11,Enrique Bunbury,1
+2008-11,Héroes Del Silencio,0
+2008-11,Los Piratas,2
+2008-11,Los Planetas,0
+2008-11,My Bloody Valentine,0
+2008-11,Placebo,0
+2008-11,Pulp,0
+2008-11,Radiohead,0
+2008-11,The Beatles,0
+2008-11,The Cure,0
+2008-11,The Killers,5
+2008-11,The Smashing Pumpkins,0
+2008-11,The Strokes,0
+2008-11,The Verve,0
+2008-11,The Who,0
+2008-11,Yeah Yeah Yeahs,1
+2008-12,Black Rebel Motorcycle Club,5
+2008-12,Blondie,1
+2008-12,Bob Dylan,0
+2008-12,David Bowie,1
+2008-12,Enrique Bunbury,1
+2008-12,Héroes Del Silencio,2
+2008-12,Los Piratas,1
+2008-12,Los Planetas,8
+2008-12,My Bloody Valentine,2
+2008-12,Placebo,9
+2008-12,Pulp,0
+2008-12,Radiohead,2
+2008-12,The Beatles,1
+2008-12,The Cure,2
+2008-12,The Killers,1
+2008-12,The Smashing Pumpkins,2
+2008-12,The Strokes,0
+2008-12,The Verve,0
+2008-12,The Who,2
+2008-12,Yeah Yeah Yeahs,0
+2009-01,Black Rebel Motorcycle Club,26
+2009-01,Blondie,0
+2009-01,Bob Dylan,1
+2009-01,David Bowie,4
+2009-01,Enrique Bunbury,1
+2009-01,Héroes Del Silencio,2
+2009-01,Los Piratas,1
+2009-01,Los Planetas,34
+2009-01,My Bloody Valentine,2
+2009-01,Placebo,3
+2009-01,Pulp,0
+2009-01,Radiohead,4
+2009-01,The Beatles,0
+2009-01,The Cure,0
+2009-01,The Killers,1
+2009-01,The Smashing Pumpkins,6
+2009-01,The Strokes,1
+2009-01,The Verve,1
+2009-01,The Who,0
+2009-01,Yeah Yeah Yeahs,1
+2009-02,Black Rebel Motorcycle Club,13
+2009-02,Blondie,3
+2009-02,Bob Dylan,2
+2009-02,David Bowie,5
+2009-02,Enrique Bunbury,0
+2009-02,Héroes Del Silencio,7
+2009-02,Los Piratas,2
+2009-02,Los Planetas,5
+2009-02,My Bloody Valentine,3
+2009-02,Placebo,4
+2009-02,Pulp,0
+2009-02,Radiohead,2
+2009-02,The Beatles,1
+2009-02,The Cure,1
+2009-02,The Killers,6
+2009-02,The Smashing Pumpkins,3
+2009-02,The Strokes,6
+2009-02,The Verve,2
+2009-02,The Who,5
+2009-02,Yeah Yeah Yeahs,6
+2009-03,Black Rebel Motorcycle Club,10
+2009-03,Blondie,1
+2009-03,Bob Dylan,0
+2009-03,David Bowie,9
+2009-03,Enrique Bunbury,3
+2009-03,Héroes Del Silencio,5
+2009-03,Los Piratas,0
+2009-03,Los Planetas,53
+2009-03,My Bloody Valentine,0
+2009-03,Placebo,0
+2009-03,Pulp,0
+2009-03,Radiohead,3
+2009-03,The Beatles,1
+2009-03,The Cure,0
+2009-03,The Killers,1
+2009-03,The Smashing Pumpkins,0
+2009-03,The Strokes,1
+2009-03,The Verve,1
+2009-03,The Who,1
+2009-03,Yeah Yeah Yeahs,1

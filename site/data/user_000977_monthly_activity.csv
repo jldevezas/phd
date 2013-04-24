@@ -1,0 +1,761 @@
+month,artist,plays
+2006-03,Air,1
+2006-03,Arctic Monkeys,84
+2006-03,Athlete,46
+2006-03,Babyshambles,3
+2006-03,Bloc Party,51
+2006-03,Coldplay,6
+2006-03,Get Cape. Wear Cape. Fly,0
+2006-03,Hard-Fi,10
+2006-03,Kasabian,3
+2006-03,Kings Of Leon,14
+2006-03,Klaxons,0
+2006-03,Limp Bizkit,0
+2006-03,Oasis,46
+2006-03,Red Hot Chili Peppers,6
+2006-03,Snow Patrol,7
+2006-03,Stereophonics,14
+2006-03,The Automatic,0
+2006-03,The Kooks,6
+2006-03,The Ordinary Boys,6
+2006-03,The Zutons,4
+2006-04,Air,3
+2006-04,Arctic Monkeys,52
+2006-04,Athlete,19
+2006-04,Babyshambles,3
+2006-04,Bloc Party,15
+2006-04,Coldplay,0
+2006-04,Get Cape. Wear Cape. Fly,0
+2006-04,Hard-Fi,12
+2006-04,Kasabian,1
+2006-04,Kings Of Leon,0
+2006-04,Klaxons,0
+2006-04,Limp Bizkit,0
+2006-04,Oasis,6
+2006-04,Red Hot Chili Peppers,5
+2006-04,Snow Patrol,0
+2006-04,Stereophonics,0
+2006-04,The Automatic,0
+2006-04,The Kooks,1
+2006-04,The Ordinary Boys,1
+2006-04,The Zutons,10
+2006-05,Air,0
+2006-05,Arctic Monkeys,17
+2006-05,Athlete,0
+2006-05,Babyshambles,5
+2006-05,Bloc Party,0
+2006-05,Coldplay,1
+2006-05,Get Cape. Wear Cape. Fly,0
+2006-05,Hard-Fi,0
+2006-05,Kasabian,5
+2006-05,Kings Of Leon,0
+2006-05,Klaxons,0
+2006-05,Limp Bizkit,0
+2006-05,Oasis,8
+2006-05,Red Hot Chili Peppers,12
+2006-05,Snow Patrol,21
+2006-05,Stereophonics,13
+2006-05,The Automatic,3
+2006-05,The Kooks,1
+2006-05,The Ordinary Boys,12
+2006-05,The Zutons,15
+2006-06,Air,0
+2006-06,Arctic Monkeys,29
+2006-06,Athlete,41
+2006-06,Babyshambles,2
+2006-06,Bloc Party,0
+2006-06,Coldplay,0
+2006-06,Get Cape. Wear Cape. Fly,0
+2006-06,Hard-Fi,24
+2006-06,Kasabian,21
+2006-06,Kings Of Leon,0
+2006-06,Klaxons,0
+2006-06,Limp Bizkit,0
+2006-06,Oasis,28
+2006-06,Red Hot Chili Peppers,4
+2006-06,Snow Patrol,0
+2006-06,Stereophonics,4
+2006-06,The Automatic,108
+2006-06,The Kooks,6
+2006-06,The Ordinary Boys,5
+2006-06,The Zutons,6
+2006-07,Air,0
+2006-07,Arctic Monkeys,27
+2006-07,Athlete,0
+2006-07,Babyshambles,13
+2006-07,Bloc Party,13
+2006-07,Coldplay,0
+2006-07,Get Cape. Wear Cape. Fly,0
+2006-07,Hard-Fi,1
+2006-07,Kasabian,0
+2006-07,Kings Of Leon,0
+2006-07,Klaxons,0
+2006-07,Limp Bizkit,2
+2006-07,Oasis,7
+2006-07,Red Hot Chili Peppers,0
+2006-07,Snow Patrol,13
+2006-07,Stereophonics,0
+2006-07,The Automatic,16
+2006-07,The Kooks,27
+2006-07,The Ordinary Boys,1
+2006-07,The Zutons,25
+2006-08,Air,0
+2006-08,Arctic Monkeys,17
+2006-08,Athlete,18
+2006-08,Babyshambles,7
+2006-08,Bloc Party,0
+2006-08,Coldplay,1
+2006-08,Get Cape. Wear Cape. Fly,0
+2006-08,Hard-Fi,3
+2006-08,Kasabian,10
+2006-08,Kings Of Leon,0
+2006-08,Klaxons,0
+2006-08,Limp Bizkit,0
+2006-08,Oasis,16
+2006-08,Red Hot Chili Peppers,1
+2006-08,Snow Patrol,0
+2006-08,Stereophonics,1
+2006-08,The Automatic,84
+2006-08,The Kooks,25
+2006-08,The Ordinary Boys,10
+2006-08,The Zutons,2
+2006-09,Air,0
+2006-09,Arctic Monkeys,3
+2006-09,Athlete,3
+2006-09,Babyshambles,1
+2006-09,Bloc Party,0
+2006-09,Coldplay,0
+2006-09,Get Cape. Wear Cape. Fly,28
+2006-09,Hard-Fi,0
+2006-09,Kasabian,4
+2006-09,Kings Of Leon,0
+2006-09,Klaxons,0
+2006-09,Limp Bizkit,0
+2006-09,Oasis,8
+2006-09,Red Hot Chili Peppers,0
+2006-09,Snow Patrol,0
+2006-09,Stereophonics,0
+2006-09,The Automatic,28
+2006-09,The Kooks,0
+2006-09,The Ordinary Boys,0
+2006-09,The Zutons,2
+2006-10,Air,2
+2006-10,Arctic Monkeys,14
+2006-10,Athlete,2
+2006-10,Babyshambles,0
+2006-10,Bloc Party,2
+2006-10,Coldplay,0
+2006-10,Get Cape. Wear Cape. Fly,33
+2006-10,Hard-Fi,0
+2006-10,Kasabian,0
+2006-10,Kings Of Leon,1
+2006-10,Klaxons,0
+2006-10,Limp Bizkit,1
+2006-10,Oasis,13
+2006-10,Red Hot Chili Peppers,4
+2006-10,Snow Patrol,2
+2006-10,Stereophonics,3
+2006-10,The Automatic,3
+2006-10,The Kooks,1
+2006-10,The Ordinary Boys,1
+2006-10,The Zutons,1
+2006-11,Air,1
+2006-11,Arctic Monkeys,19
+2006-11,Athlete,2
+2006-11,Babyshambles,0
+2006-11,Bloc Party,3
+2006-11,Coldplay,0
+2006-11,Get Cape. Wear Cape. Fly,3
+2006-11,Hard-Fi,0
+2006-11,Kasabian,4
+2006-11,Kings Of Leon,1
+2006-11,Klaxons,0
+2006-11,Limp Bizkit,2
+2006-11,Oasis,36
+2006-11,Red Hot Chili Peppers,2
+2006-11,Snow Patrol,2
+2006-11,Stereophonics,6
+2006-11,The Automatic,3
+2006-11,The Kooks,2
+2006-11,The Ordinary Boys,88
+2006-11,The Zutons,1
+2006-12,Air,11
+2006-12,Arctic Monkeys,37
+2006-12,Athlete,17
+2006-12,Babyshambles,16
+2006-12,Bloc Party,29
+2006-12,Coldplay,2
+2006-12,Get Cape. Wear Cape. Fly,48
+2006-12,Hard-Fi,0
+2006-12,Kasabian,18
+2006-12,Kings Of Leon,1
+2006-12,Klaxons,5
+2006-12,Limp Bizkit,1
+2006-12,Oasis,11
+2006-12,Red Hot Chili Peppers,4
+2006-12,Snow Patrol,0
+2006-12,Stereophonics,1
+2006-12,The Automatic,0
+2006-12,The Kooks,1
+2006-12,The Ordinary Boys,7
+2006-12,The Zutons,4
+2007-01,Air,1
+2007-01,Arctic Monkeys,2
+2007-01,Athlete,8
+2007-01,Babyshambles,0
+2007-01,Bloc Party,4
+2007-01,Coldplay,2
+2007-01,Get Cape. Wear Cape. Fly,2
+2007-01,Hard-Fi,1
+2007-01,Kasabian,2
+2007-01,Kings Of Leon,0
+2007-01,Klaxons,21
+2007-01,Limp Bizkit,1
+2007-01,Oasis,14
+2007-01,Red Hot Chili Peppers,7
+2007-01,Snow Patrol,2
+2007-01,Stereophonics,1
+2007-01,The Automatic,15
+2007-01,The Kooks,1
+2007-01,The Ordinary Boys,4
+2007-01,The Zutons,1
+2007-02,Air,0
+2007-02,Arctic Monkeys,18
+2007-02,Athlete,12
+2007-02,Babyshambles,3
+2007-02,Bloc Party,56
+2007-02,Coldplay,0
+2007-02,Get Cape. Wear Cape. Fly,34
+2007-02,Hard-Fi,1
+2007-02,Kasabian,0
+2007-02,Kings Of Leon,0
+2007-02,Klaxons,75
+2007-02,Limp Bizkit,3
+2007-02,Oasis,22
+2007-02,Red Hot Chili Peppers,1
+2007-02,Snow Patrol,0
+2007-02,Stereophonics,0
+2007-02,The Automatic,2
+2007-02,The Kooks,5
+2007-02,The Ordinary Boys,3
+2007-02,The Zutons,3
+2007-03,Air,0
+2007-03,Arctic Monkeys,20
+2007-03,Athlete,2
+2007-03,Babyshambles,0
+2007-03,Bloc Party,21
+2007-03,Coldplay,0
+2007-03,Get Cape. Wear Cape. Fly,44
+2007-03,Hard-Fi,0
+2007-03,Kasabian,0
+2007-03,Kings Of Leon,0
+2007-03,Klaxons,46
+2007-03,Limp Bizkit,0
+2007-03,Oasis,1
+2007-03,Red Hot Chili Peppers,0
+2007-03,Snow Patrol,2
+2007-03,Stereophonics,0
+2007-03,The Automatic,0
+2007-03,The Kooks,11
+2007-03,The Ordinary Boys,0
+2007-03,The Zutons,0
+2007-04,Air,0
+2007-04,Arctic Monkeys,109
+2007-04,Athlete,9
+2007-04,Babyshambles,3
+2007-04,Bloc Party,33
+2007-04,Coldplay,2
+2007-04,Get Cape. Wear Cape. Fly,52
+2007-04,Hard-Fi,0
+2007-04,Kasabian,0
+2007-04,Kings Of Leon,0
+2007-04,Klaxons,37
+2007-04,Limp Bizkit,0
+2007-04,Oasis,33
+2007-04,Red Hot Chili Peppers,1
+2007-04,Snow Patrol,0
+2007-04,Stereophonics,1
+2007-04,The Automatic,0
+2007-04,The Kooks,0
+2007-04,The Ordinary Boys,3
+2007-04,The Zutons,0
+2007-05,Air,4
+2007-05,Arctic Monkeys,58
+2007-05,Athlete,4
+2007-05,Babyshambles,0
+2007-05,Bloc Party,12
+2007-05,Coldplay,0
+2007-05,Get Cape. Wear Cape. Fly,13
+2007-05,Hard-Fi,0
+2007-05,Kasabian,1
+2007-05,Kings Of Leon,21
+2007-05,Klaxons,2
+2007-05,Limp Bizkit,1
+2007-05,Oasis,1
+2007-05,Red Hot Chili Peppers,1
+2007-05,Snow Patrol,1
+2007-05,Stereophonics,0
+2007-05,The Automatic,0
+2007-05,The Kooks,0
+2007-05,The Ordinary Boys,0
+2007-05,The Zutons,0
+2007-06,Air,9
+2007-06,Arctic Monkeys,30
+2007-06,Athlete,17
+2007-06,Babyshambles,5
+2007-06,Bloc Party,7
+2007-06,Coldplay,1
+2007-06,Get Cape. Wear Cape. Fly,50
+2007-06,Hard-Fi,0
+2007-06,Kasabian,6
+2007-06,Kings Of Leon,1
+2007-06,Klaxons,0
+2007-06,Limp Bizkit,3
+2007-06,Oasis,5
+2007-06,Red Hot Chili Peppers,2
+2007-06,Snow Patrol,1
+2007-06,Stereophonics,0
+2007-06,The Automatic,0
+2007-06,The Kooks,1
+2007-06,The Ordinary Boys,0
+2007-06,The Zutons,1
+2007-07,Air,0
+2007-07,Arctic Monkeys,38
+2007-07,Athlete,1
+2007-07,Babyshambles,0
+2007-07,Bloc Party,0
+2007-07,Coldplay,1
+2007-07,Get Cape. Wear Cape. Fly,21
+2007-07,Hard-Fi,0
+2007-07,Kasabian,0
+2007-07,Kings Of Leon,0
+2007-07,Klaxons,0
+2007-07,Limp Bizkit,0
+2007-07,Oasis,1
+2007-07,Red Hot Chili Peppers,0
+2007-07,Snow Patrol,0
+2007-07,Stereophonics,0
+2007-07,The Automatic,0
+2007-07,The Kooks,0
+2007-07,The Ordinary Boys,11
+2007-07,The Zutons,0
+2007-08,Air,0
+2007-08,Arctic Monkeys,18
+2007-08,Athlete,15
+2007-08,Babyshambles,4
+2007-08,Bloc Party,1
+2007-08,Coldplay,0
+2007-08,Get Cape. Wear Cape. Fly,0
+2007-08,Hard-Fi,2
+2007-08,Kasabian,0
+2007-08,Kings Of Leon,1
+2007-08,Klaxons,0
+2007-08,Limp Bizkit,0
+2007-08,Oasis,1
+2007-08,Red Hot Chili Peppers,0
+2007-08,Snow Patrol,0
+2007-08,Stereophonics,0
+2007-08,The Automatic,0
+2007-08,The Kooks,0
+2007-08,The Ordinary Boys,6
+2007-08,The Zutons,0
+2007-09,Air,0
+2007-09,Arctic Monkeys,13
+2007-09,Athlete,23
+2007-09,Babyshambles,12
+2007-09,Bloc Party,5
+2007-09,Coldplay,1
+2007-09,Get Cape. Wear Cape. Fly,9
+2007-09,Hard-Fi,11
+2007-09,Kasabian,1
+2007-09,Kings Of Leon,1
+2007-09,Klaxons,15
+2007-09,Limp Bizkit,1
+2007-09,Oasis,4
+2007-09,Red Hot Chili Peppers,2
+2007-09,Snow Patrol,2
+2007-09,Stereophonics,2
+2007-09,The Automatic,0
+2007-09,The Kooks,3
+2007-09,The Ordinary Boys,2
+2007-09,The Zutons,1
+2007-10,Air,2
+2007-10,Arctic Monkeys,48
+2007-10,Athlete,11
+2007-10,Babyshambles,1
+2007-10,Bloc Party,2
+2007-10,Coldplay,1
+2007-10,Get Cape. Wear Cape. Fly,6
+2007-10,Hard-Fi,4
+2007-10,Kasabian,0
+2007-10,Kings Of Leon,0
+2007-10,Klaxons,1
+2007-10,Limp Bizkit,1
+2007-10,Oasis,11
+2007-10,Red Hot Chili Peppers,3
+2007-10,Snow Patrol,1
+2007-10,Stereophonics,1
+2007-10,The Automatic,0
+2007-10,The Kooks,0
+2007-10,The Ordinary Boys,1
+2007-10,The Zutons,0
+2007-11,Air,0
+2007-11,Arctic Monkeys,21
+2007-11,Athlete,15
+2007-11,Babyshambles,20
+2007-11,Bloc Party,38
+2007-11,Coldplay,0
+2007-11,Get Cape. Wear Cape. Fly,1
+2007-11,Hard-Fi,0
+2007-11,Kasabian,0
+2007-11,Kings Of Leon,3
+2007-11,Klaxons,2
+2007-11,Limp Bizkit,0
+2007-11,Oasis,0
+2007-11,Red Hot Chili Peppers,0
+2007-11,Snow Patrol,0
+2007-11,Stereophonics,0
+2007-11,The Automatic,0
+2007-11,The Kooks,0
+2007-11,The Ordinary Boys,0
+2007-11,The Zutons,0
+2007-12,Air,1
+2007-12,Arctic Monkeys,1
+2007-12,Athlete,8
+2007-12,Babyshambles,0
+2007-12,Bloc Party,23
+2007-12,Coldplay,2
+2007-12,Get Cape. Wear Cape. Fly,25
+2007-12,Hard-Fi,24
+2007-12,Kasabian,0
+2007-12,Kings Of Leon,0
+2007-12,Klaxons,0
+2007-12,Limp Bizkit,0
+2007-12,Oasis,17
+2007-12,Red Hot Chili Peppers,7
+2007-12,Snow Patrol,0
+2007-12,Stereophonics,0
+2007-12,The Automatic,0
+2007-12,The Kooks,0
+2007-12,The Ordinary Boys,1
+2007-12,The Zutons,0
+2008-01,Air,5
+2008-01,Arctic Monkeys,0
+2008-01,Athlete,0
+2008-01,Babyshambles,0
+2008-01,Bloc Party,21
+2008-01,Coldplay,0
+2008-01,Get Cape. Wear Cape. Fly,22
+2008-01,Hard-Fi,0
+2008-01,Kasabian,0
+2008-01,Kings Of Leon,0
+2008-01,Klaxons,0
+2008-01,Limp Bizkit,0
+2008-01,Oasis,7
+2008-01,Red Hot Chili Peppers,0
+2008-01,Snow Patrol,0
+2008-01,Stereophonics,0
+2008-01,The Automatic,0
+2008-01,The Kooks,0
+2008-01,The Ordinary Boys,0
+2008-01,The Zutons,0
+2008-02,Air,0
+2008-02,Arctic Monkeys,6
+2008-02,Athlete,1
+2008-02,Babyshambles,0
+2008-02,Bloc Party,7
+2008-02,Coldplay,0
+2008-02,Get Cape. Wear Cape. Fly,45
+2008-02,Hard-Fi,0
+2008-02,Kasabian,0
+2008-02,Kings Of Leon,0
+2008-02,Klaxons,0
+2008-02,Limp Bizkit,0
+2008-02,Oasis,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,Snow Patrol,1
+2008-02,Stereophonics,0
+2008-02,The Automatic,0
+2008-02,The Kooks,0
+2008-02,The Ordinary Boys,0
+2008-02,The Zutons,0
+2008-03,Air,11
+2008-03,Arctic Monkeys,30
+2008-03,Athlete,0
+2008-03,Babyshambles,0
+2008-03,Bloc Party,2
+2008-03,Coldplay,0
+2008-03,Get Cape. Wear Cape. Fly,56
+2008-03,Hard-Fi,0
+2008-03,Kasabian,0
+2008-03,Kings Of Leon,0
+2008-03,Klaxons,0
+2008-03,Limp Bizkit,0
+2008-03,Oasis,0
+2008-03,Red Hot Chili Peppers,0
+2008-03,Snow Patrol,0
+2008-03,Stereophonics,0
+2008-03,The Automatic,0
+2008-03,The Kooks,2
+2008-03,The Ordinary Boys,0
+2008-03,The Zutons,0
+2008-04,Air,1
+2008-04,Arctic Monkeys,1
+2008-04,Athlete,1
+2008-04,Babyshambles,0
+2008-04,Bloc Party,3
+2008-04,Coldplay,1
+2008-04,Get Cape. Wear Cape. Fly,56
+2008-04,Hard-Fi,0
+2008-04,Kasabian,0
+2008-04,Kings Of Leon,1
+2008-04,Klaxons,0
+2008-04,Limp Bizkit,1
+2008-04,Oasis,10
+2008-04,Red Hot Chili Peppers,6
+2008-04,Snow Patrol,1
+2008-04,Stereophonics,1
+2008-04,The Automatic,0
+2008-04,The Kooks,4
+2008-04,The Ordinary Boys,5
+2008-04,The Zutons,0
+2008-05,Air,0
+2008-05,Arctic Monkeys,25
+2008-05,Athlete,1
+2008-05,Babyshambles,0
+2008-05,Bloc Party,1
+2008-05,Coldplay,3
+2008-05,Get Cape. Wear Cape. Fly,13
+2008-05,Hard-Fi,0
+2008-05,Kasabian,0
+2008-05,Kings Of Leon,0
+2008-05,Klaxons,0
+2008-05,Limp Bizkit,0
+2008-05,Oasis,0
+2008-05,Red Hot Chili Peppers,1
+2008-05,Snow Patrol,0
+2008-05,Stereophonics,0
+2008-05,The Automatic,0
+2008-05,The Kooks,9
+2008-05,The Ordinary Boys,0
+2008-05,The Zutons,0
+2008-06,Air,0
+2008-06,Arctic Monkeys,38
+2008-06,Athlete,1
+2008-06,Babyshambles,2
+2008-06,Bloc Party,5
+2008-06,Coldplay,3
+2008-06,Get Cape. Wear Cape. Fly,3
+2008-06,Hard-Fi,0
+2008-06,Kasabian,0
+2008-06,Kings Of Leon,2
+2008-06,Klaxons,2
+2008-06,Limp Bizkit,3
+2008-06,Oasis,8
+2008-06,Red Hot Chili Peppers,1
+2008-06,Snow Patrol,1
+2008-06,Stereophonics,1
+2008-06,The Automatic,1
+2008-06,The Kooks,17
+2008-06,The Ordinary Boys,0
+2008-06,The Zutons,3
+2008-07,Air,0
+2008-07,Arctic Monkeys,1
+2008-07,Athlete,6
+2008-07,Babyshambles,0
+2008-07,Bloc Party,2
+2008-07,Coldplay,1
+2008-07,Get Cape. Wear Cape. Fly,0
+2008-07,Hard-Fi,0
+2008-07,Kasabian,0
+2008-07,Kings Of Leon,0
+2008-07,Klaxons,0
+2008-07,Limp Bizkit,3
+2008-07,Oasis,8
+2008-07,Red Hot Chili Peppers,1
+2008-07,Snow Patrol,1
+2008-07,Stereophonics,0
+2008-07,The Automatic,0
+2008-07,The Kooks,0
+2008-07,The Ordinary Boys,0
+2008-07,The Zutons,1
+2008-08,Air,0
+2008-08,Arctic Monkeys,0
+2008-08,Athlete,0
+2008-08,Babyshambles,0
+2008-08,Bloc Party,75
+2008-08,Coldplay,8
+2008-08,Get Cape. Wear Cape. Fly,0
+2008-08,Hard-Fi,0
+2008-08,Kasabian,0
+2008-08,Kings Of Leon,0
+2008-08,Klaxons,9
+2008-08,Limp Bizkit,0
+2008-08,Oasis,18
+2008-08,Red Hot Chili Peppers,5
+2008-08,Snow Patrol,0
+2008-08,Stereophonics,0
+2008-08,The Automatic,0
+2008-08,The Kooks,0
+2008-08,The Ordinary Boys,0
+2008-08,The Zutons,0
+2008-09,Air,0
+2008-09,Arctic Monkeys,6
+2008-09,Athlete,5
+2008-09,Babyshambles,1
+2008-09,Bloc Party,42
+2008-09,Coldplay,1
+2008-09,Get Cape. Wear Cape. Fly,2
+2008-09,Hard-Fi,5
+2008-09,Kasabian,7
+2008-09,Kings Of Leon,6
+2008-09,Klaxons,2
+2008-09,Limp Bizkit,0
+2008-09,Oasis,23
+2008-09,Red Hot Chili Peppers,1
+2008-09,Snow Patrol,3
+2008-09,Stereophonics,1
+2008-09,The Automatic,2
+2008-09,The Kooks,3
+2008-09,The Ordinary Boys,0
+2008-09,The Zutons,1
+2008-10,Air,0
+2008-10,Arctic Monkeys,2
+2008-10,Athlete,2
+2008-10,Babyshambles,0
+2008-10,Bloc Party,15
+2008-10,Coldplay,0
+2008-10,Get Cape. Wear Cape. Fly,0
+2008-10,Hard-Fi,0
+2008-10,Kasabian,2
+2008-10,Kings Of Leon,14
+2008-10,Klaxons,0
+2008-10,Limp Bizkit,0
+2008-10,Oasis,16
+2008-10,Red Hot Chili Peppers,0
+2008-10,Snow Patrol,0
+2008-10,Stereophonics,0
+2008-10,The Automatic,3
+2008-10,The Kooks,1
+2008-10,The Ordinary Boys,2
+2008-10,The Zutons,2
+2008-11,Air,0
+2008-11,Arctic Monkeys,0
+2008-11,Athlete,0
+2008-11,Babyshambles,0
+2008-11,Bloc Party,5
+2008-11,Coldplay,0
+2008-11,Get Cape. Wear Cape. Fly,19
+2008-11,Hard-Fi,0
+2008-11,Kasabian,0
+2008-11,Kings Of Leon,1
+2008-11,Klaxons,0
+2008-11,Limp Bizkit,0
+2008-11,Oasis,34
+2008-11,Red Hot Chili Peppers,0
+2008-11,Snow Patrol,0
+2008-11,Stereophonics,0
+2008-11,The Automatic,0
+2008-11,The Kooks,0
+2008-11,The Ordinary Boys,0
+2008-11,The Zutons,4
+2008-12,Air,0
+2008-12,Arctic Monkeys,0
+2008-12,Athlete,18
+2008-12,Babyshambles,0
+2008-12,Bloc Party,30
+2008-12,Coldplay,1
+2008-12,Get Cape. Wear Cape. Fly,0
+2008-12,Hard-Fi,2
+2008-12,Kasabian,0
+2008-12,Kings Of Leon,2
+2008-12,Klaxons,0
+2008-12,Limp Bizkit,0
+2008-12,Oasis,31
+2008-12,Red Hot Chili Peppers,0
+2008-12,Snow Patrol,2
+2008-12,Stereophonics,0
+2008-12,The Automatic,4
+2008-12,The Kooks,0
+2008-12,The Ordinary Boys,0
+2008-12,The Zutons,0
+2009-01,Air,9
+2009-01,Arctic Monkeys,0
+2009-01,Athlete,0
+2009-01,Babyshambles,0
+2009-01,Bloc Party,20
+2009-01,Coldplay,0
+2009-01,Get Cape. Wear Cape. Fly,1
+2009-01,Hard-Fi,0
+2009-01,Kasabian,0
+2009-01,Kings Of Leon,0
+2009-01,Klaxons,0
+2009-01,Limp Bizkit,0
+2009-01,Oasis,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,Snow Patrol,0
+2009-01,Stereophonics,0
+2009-01,The Automatic,0
+2009-01,The Kooks,0
+2009-01,The Ordinary Boys,0
+2009-01,The Zutons,0
+2009-02,Air,0
+2009-02,Arctic Monkeys,0
+2009-02,Athlete,0
+2009-02,Babyshambles,0
+2009-02,Bloc Party,0
+2009-02,Coldplay,0
+2009-02,Get Cape. Wear Cape. Fly,46
+2009-02,Hard-Fi,0
+2009-02,Kasabian,0
+2009-02,Kings Of Leon,0
+2009-02,Klaxons,1
+2009-02,Limp Bizkit,0
+2009-02,Oasis,4
+2009-02,Red Hot Chili Peppers,0
+2009-02,Snow Patrol,0
+2009-02,Stereophonics,0
+2009-02,The Automatic,1
+2009-02,The Kooks,1
+2009-02,The Ordinary Boys,0
+2009-02,The Zutons,0
+2009-03,Air,0
+2009-03,Arctic Monkeys,1
+2009-03,Athlete,0
+2009-03,Babyshambles,0
+2009-03,Bloc Party,1
+2009-03,Coldplay,1
+2009-03,Get Cape. Wear Cape. Fly,23
+2009-03,Hard-Fi,0
+2009-03,Kasabian,0
+2009-03,Kings Of Leon,1
+2009-03,Klaxons,52
+2009-03,Limp Bizkit,0
+2009-03,Oasis,2
+2009-03,Red Hot Chili Peppers,1
+2009-03,Snow Patrol,0
+2009-03,Stereophonics,0
+2009-03,The Automatic,0
+2009-03,The Kooks,0
+2009-03,The Ordinary Boys,0
+2009-03,The Zutons,0
+2009-04,Air,0
+2009-04,Arctic Monkeys,0
+2009-04,Athlete,0
+2009-04,Babyshambles,0
+2009-04,Bloc Party,1
+2009-04,Coldplay,1
+2009-04,Get Cape. Wear Cape. Fly,0
+2009-04,Hard-Fi,0
+2009-04,Kasabian,4
+2009-04,Kings Of Leon,0
+2009-04,Klaxons,0
+2009-04,Limp Bizkit,0
+2009-04,Oasis,0
+2009-04,Red Hot Chili Peppers,0
+2009-04,Snow Patrol,0
+2009-04,Stereophonics,0
+2009-04,The Automatic,0
+2009-04,The Kooks,0
+2009-04,The Ordinary Boys,0
+2009-04,The Zutons,0

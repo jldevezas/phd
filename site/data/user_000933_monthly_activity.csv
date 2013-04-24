@@ -1,0 +1,661 @@
+month,artist,plays
+2006-08,Acid Casuals,0
+2006-08,Alex Smoke,1
+2006-08,Alif Tree,0
+2006-08,Bent,0
+2006-08,Dominik Eulberg,0
+2006-08,Gabriel Ananda,0
+2006-08,Gnarls Barkley,0
+2006-08,Gui Boratto,0
+2006-08,Jussi-Pekka,0
+2006-08,Lunar,0
+2006-08,Markus Masuhr,0
+2006-08,Matthew Dear,1
+2006-08,Micatone,0
+2006-08,Michael Mayer,2
+2006-08,Miles Davis,0
+2006-08,Moloko,0
+2006-08,Parov Stelar,0
+2006-08,Paul Kalkbrenner,0
+2006-08,Robert Babicz,0
+2006-08,Skeewiff,0
+2006-09,Acid Casuals,0
+2006-09,Alex Smoke,0
+2006-09,Alif Tree,0
+2006-09,Bent,0
+2006-09,Dominik Eulberg,0
+2006-09,Gabriel Ananda,0
+2006-09,Gnarls Barkley,0
+2006-09,Gui Boratto,0
+2006-09,Jussi-Pekka,0
+2006-09,Lunar,0
+2006-09,Markus Masuhr,0
+2006-09,Matthew Dear,0
+2006-09,Micatone,0
+2006-09,Michael Mayer,0
+2006-09,Miles Davis,0
+2006-09,Moloko,0
+2006-09,Parov Stelar,0
+2006-09,Paul Kalkbrenner,0
+2006-09,Robert Babicz,0
+2006-09,Skeewiff,0
+2006-10,Acid Casuals,0
+2006-10,Alex Smoke,0
+2006-10,Alif Tree,0
+2006-10,Bent,0
+2006-10,Dominik Eulberg,1
+2006-10,Gabriel Ananda,1
+2006-10,Gnarls Barkley,0
+2006-10,Gui Boratto,0
+2006-10,Jussi-Pekka,0
+2006-10,Lunar,0
+2006-10,Markus Masuhr,0
+2006-10,Matthew Dear,0
+2006-10,Micatone,0
+2006-10,Michael Mayer,0
+2006-10,Miles Davis,0
+2006-10,Moloko,0
+2006-10,Parov Stelar,0
+2006-10,Paul Kalkbrenner,0
+2006-10,Robert Babicz,0
+2006-10,Skeewiff,0
+2006-11,Acid Casuals,0
+2006-11,Alex Smoke,7
+2006-11,Alif Tree,18
+2006-11,Bent,1
+2006-11,Dominik Eulberg,14
+2006-11,Gabriel Ananda,3
+2006-11,Gnarls Barkley,0
+2006-11,Gui Boratto,1
+2006-11,Jussi-Pekka,36
+2006-11,Lunar,0
+2006-11,Markus Masuhr,1
+2006-11,Matthew Dear,0
+2006-11,Micatone,0
+2006-11,Michael Mayer,17
+2006-11,Miles Davis,48
+2006-11,Moloko,0
+2006-11,Parov Stelar,1
+2006-11,Paul Kalkbrenner,6
+2006-11,Robert Babicz,12
+2006-11,Skeewiff,0
+2006-12,Acid Casuals,0
+2006-12,Alex Smoke,0
+2006-12,Alif Tree,0
+2006-12,Bent,55
+2006-12,Dominik Eulberg,5
+2006-12,Gabriel Ananda,11
+2006-12,Gnarls Barkley,8
+2006-12,Gui Boratto,3
+2006-12,Jussi-Pekka,24
+2006-12,Lunar,0
+2006-12,Markus Masuhr,14
+2006-12,Matthew Dear,0
+2006-12,Micatone,0
+2006-12,Michael Mayer,29
+2006-12,Miles Davis,57
+2006-12,Moloko,3
+2006-12,Parov Stelar,0
+2006-12,Paul Kalkbrenner,1
+2006-12,Robert Babicz,2
+2006-12,Skeewiff,0
+2007-01,Acid Casuals,59
+2007-01,Alex Smoke,0
+2007-01,Alif Tree,3
+2007-01,Bent,0
+2007-01,Dominik Eulberg,5
+2007-01,Gabriel Ananda,4
+2007-01,Gnarls Barkley,3
+2007-01,Gui Boratto,0
+2007-01,Jussi-Pekka,31
+2007-01,Lunar,40
+2007-01,Markus Masuhr,4
+2007-01,Matthew Dear,0
+2007-01,Micatone,0
+2007-01,Michael Mayer,12
+2007-01,Miles Davis,3
+2007-01,Moloko,1
+2007-01,Parov Stelar,0
+2007-01,Paul Kalkbrenner,1
+2007-01,Robert Babicz,0
+2007-01,Skeewiff,80
+2007-02,Acid Casuals,20
+2007-02,Alex Smoke,1
+2007-02,Alif Tree,0
+2007-02,Bent,15
+2007-02,Dominik Eulberg,4
+2007-02,Gabriel Ananda,2
+2007-02,Gnarls Barkley,1
+2007-02,Gui Boratto,0
+2007-02,Jussi-Pekka,11
+2007-02,Lunar,10
+2007-02,Markus Masuhr,6
+2007-02,Matthew Dear,0
+2007-02,Micatone,0
+2007-02,Michael Mayer,0
+2007-02,Miles Davis,0
+2007-02,Moloko,0
+2007-02,Parov Stelar,0
+2007-02,Paul Kalkbrenner,0
+2007-02,Robert Babicz,0
+2007-02,Skeewiff,13
+2007-03,Acid Casuals,19
+2007-03,Alex Smoke,0
+2007-03,Alif Tree,0
+2007-03,Bent,1
+2007-03,Dominik Eulberg,14
+2007-03,Gabriel Ananda,1
+2007-03,Gnarls Barkley,1
+2007-03,Gui Boratto,18
+2007-03,Jussi-Pekka,0
+2007-03,Lunar,1
+2007-03,Markus Masuhr,10
+2007-03,Matthew Dear,0
+2007-03,Micatone,0
+2007-03,Michael Mayer,3
+2007-03,Miles Davis,4
+2007-03,Moloko,0
+2007-03,Parov Stelar,0
+2007-03,Paul Kalkbrenner,1
+2007-03,Robert Babicz,0
+2007-03,Skeewiff,1
+2007-04,Acid Casuals,55
+2007-04,Alex Smoke,0
+2007-04,Alif Tree,0
+2007-04,Bent,56
+2007-04,Dominik Eulberg,0
+2007-04,Gabriel Ananda,0
+2007-04,Gnarls Barkley,4
+2007-04,Gui Boratto,1
+2007-04,Jussi-Pekka,0
+2007-04,Lunar,0
+2007-04,Markus Masuhr,3
+2007-04,Matthew Dear,0
+2007-04,Micatone,0
+2007-04,Michael Mayer,0
+2007-04,Miles Davis,20
+2007-04,Moloko,0
+2007-04,Parov Stelar,0
+2007-04,Paul Kalkbrenner,0
+2007-04,Robert Babicz,0
+2007-04,Skeewiff,55
+2007-05,Acid Casuals,12
+2007-05,Alex Smoke,1
+2007-05,Alif Tree,0
+2007-05,Bent,17
+2007-05,Dominik Eulberg,1
+2007-05,Gabriel Ananda,0
+2007-05,Gnarls Barkley,1
+2007-05,Gui Boratto,15
+2007-05,Jussi-Pekka,0
+2007-05,Lunar,1
+2007-05,Markus Masuhr,1
+2007-05,Matthew Dear,0
+2007-05,Micatone,0
+2007-05,Michael Mayer,1
+2007-05,Miles Davis,0
+2007-05,Moloko,0
+2007-05,Parov Stelar,0
+2007-05,Paul Kalkbrenner,1
+2007-05,Robert Babicz,0
+2007-05,Skeewiff,7
+2007-06,Acid Casuals,1
+2007-06,Alex Smoke,2
+2007-06,Alif Tree,0
+2007-06,Bent,11
+2007-06,Dominik Eulberg,24
+2007-06,Gabriel Ananda,2
+2007-06,Gnarls Barkley,0
+2007-06,Gui Boratto,4
+2007-06,Jussi-Pekka,0
+2007-06,Lunar,1
+2007-06,Markus Masuhr,1
+2007-06,Matthew Dear,39
+2007-06,Micatone,0
+2007-06,Michael Mayer,0
+2007-06,Miles Davis,33
+2007-06,Moloko,0
+2007-06,Parov Stelar,0
+2007-06,Paul Kalkbrenner,0
+2007-06,Robert Babicz,16
+2007-06,Skeewiff,0
+2007-07,Acid Casuals,4
+2007-07,Alex Smoke,0
+2007-07,Alif Tree,0
+2007-07,Bent,15
+2007-07,Dominik Eulberg,0
+2007-07,Gabriel Ananda,1
+2007-07,Gnarls Barkley,0
+2007-07,Gui Boratto,1
+2007-07,Jussi-Pekka,1
+2007-07,Lunar,3
+2007-07,Markus Masuhr,0
+2007-07,Matthew Dear,2
+2007-07,Micatone,0
+2007-07,Michael Mayer,2
+2007-07,Miles Davis,0
+2007-07,Moloko,0
+2007-07,Parov Stelar,0
+2007-07,Paul Kalkbrenner,0
+2007-07,Robert Babicz,0
+2007-07,Skeewiff,5
+2007-08,Acid Casuals,0
+2007-08,Alex Smoke,0
+2007-08,Alif Tree,0
+2007-08,Bent,0
+2007-08,Dominik Eulberg,0
+2007-08,Gabriel Ananda,3
+2007-08,Gnarls Barkley,0
+2007-08,Gui Boratto,0
+2007-08,Jussi-Pekka,1
+2007-08,Lunar,1
+2007-08,Markus Masuhr,0
+2007-08,Matthew Dear,0
+2007-08,Micatone,0
+2007-08,Michael Mayer,0
+2007-08,Miles Davis,0
+2007-08,Moloko,0
+2007-08,Parov Stelar,0
+2007-08,Paul Kalkbrenner,0
+2007-08,Robert Babicz,0
+2007-08,Skeewiff,0
+2007-09,Acid Casuals,0
+2007-09,Alex Smoke,0
+2007-09,Alif Tree,0
+2007-09,Bent,0
+2007-09,Dominik Eulberg,0
+2007-09,Gabriel Ananda,0
+2007-09,Gnarls Barkley,0
+2007-09,Gui Boratto,0
+2007-09,Jussi-Pekka,0
+2007-09,Lunar,0
+2007-09,Markus Masuhr,0
+2007-09,Matthew Dear,0
+2007-09,Micatone,0
+2007-09,Michael Mayer,0
+2007-09,Miles Davis,0
+2007-09,Moloko,0
+2007-09,Parov Stelar,0
+2007-09,Paul Kalkbrenner,0
+2007-09,Robert Babicz,0
+2007-09,Skeewiff,0
+2007-10,Acid Casuals,0
+2007-10,Alex Smoke,2
+2007-10,Alif Tree,0
+2007-10,Bent,0
+2007-10,Dominik Eulberg,1
+2007-10,Gabriel Ananda,1
+2007-10,Gnarls Barkley,0
+2007-10,Gui Boratto,1
+2007-10,Jussi-Pekka,0
+2007-10,Lunar,0
+2007-10,Markus Masuhr,0
+2007-10,Matthew Dear,0
+2007-10,Micatone,0
+2007-10,Michael Mayer,0
+2007-10,Miles Davis,0
+2007-10,Moloko,0
+2007-10,Parov Stelar,0
+2007-10,Paul Kalkbrenner,1
+2007-10,Robert Babicz,0
+2007-10,Skeewiff,0
+2007-11,Acid Casuals,0
+2007-11,Alex Smoke,0
+2007-11,Alif Tree,0
+2007-11,Bent,0
+2007-11,Dominik Eulberg,0
+2007-11,Gabriel Ananda,0
+2007-11,Gnarls Barkley,1
+2007-11,Gui Boratto,0
+2007-11,Jussi-Pekka,0
+2007-11,Lunar,0
+2007-11,Markus Masuhr,0
+2007-11,Matthew Dear,0
+2007-11,Micatone,0
+2007-11,Michael Mayer,0
+2007-11,Miles Davis,0
+2007-11,Moloko,0
+2007-11,Parov Stelar,0
+2007-11,Paul Kalkbrenner,0
+2007-11,Robert Babicz,0
+2007-11,Skeewiff,0
+2007-12,Acid Casuals,0
+2007-12,Alex Smoke,0
+2007-12,Alif Tree,0
+2007-12,Bent,0
+2007-12,Dominik Eulberg,0
+2007-12,Gabriel Ananda,0
+2007-12,Gnarls Barkley,0
+2007-12,Gui Boratto,0
+2007-12,Jussi-Pekka,0
+2007-12,Lunar,0
+2007-12,Markus Masuhr,0
+2007-12,Matthew Dear,0
+2007-12,Micatone,0
+2007-12,Michael Mayer,0
+2007-12,Miles Davis,0
+2007-12,Moloko,0
+2007-12,Parov Stelar,0
+2007-12,Paul Kalkbrenner,0
+2007-12,Robert Babicz,0
+2007-12,Skeewiff,0
+2008-01,Acid Casuals,0
+2008-01,Alex Smoke,0
+2008-01,Alif Tree,0
+2008-01,Bent,0
+2008-01,Dominik Eulberg,0
+2008-01,Gabriel Ananda,0
+2008-01,Gnarls Barkley,0
+2008-01,Gui Boratto,0
+2008-01,Jussi-Pekka,0
+2008-01,Lunar,0
+2008-01,Markus Masuhr,0
+2008-01,Matthew Dear,0
+2008-01,Micatone,0
+2008-01,Michael Mayer,0
+2008-01,Miles Davis,0
+2008-01,Moloko,0
+2008-01,Parov Stelar,0
+2008-01,Paul Kalkbrenner,0
+2008-01,Robert Babicz,0
+2008-01,Skeewiff,0
+2008-02,Acid Casuals,0
+2008-02,Alex Smoke,0
+2008-02,Alif Tree,0
+2008-02,Bent,0
+2008-02,Dominik Eulberg,0
+2008-02,Gabriel Ananda,0
+2008-02,Gnarls Barkley,0
+2008-02,Gui Boratto,0
+2008-02,Jussi-Pekka,0
+2008-02,Lunar,0
+2008-02,Markus Masuhr,0
+2008-02,Matthew Dear,0
+2008-02,Micatone,0
+2008-02,Michael Mayer,0
+2008-02,Miles Davis,0
+2008-02,Moloko,0
+2008-02,Parov Stelar,0
+2008-02,Paul Kalkbrenner,0
+2008-02,Robert Babicz,0
+2008-02,Skeewiff,0
+2008-03,Acid Casuals,0
+2008-03,Alex Smoke,0
+2008-03,Alif Tree,0
+2008-03,Bent,0
+2008-03,Dominik Eulberg,0
+2008-03,Gabriel Ananda,0
+2008-03,Gnarls Barkley,0
+2008-03,Gui Boratto,0
+2008-03,Jussi-Pekka,0
+2008-03,Lunar,0
+2008-03,Markus Masuhr,0
+2008-03,Matthew Dear,0
+2008-03,Micatone,0
+2008-03,Michael Mayer,0
+2008-03,Miles Davis,0
+2008-03,Moloko,0
+2008-03,Parov Stelar,0
+2008-03,Paul Kalkbrenner,0
+2008-03,Robert Babicz,0
+2008-03,Skeewiff,0
+2008-04,Acid Casuals,0
+2008-04,Alex Smoke,0
+2008-04,Alif Tree,0
+2008-04,Bent,0
+2008-04,Dominik Eulberg,0
+2008-04,Gabriel Ananda,0
+2008-04,Gnarls Barkley,0
+2008-04,Gui Boratto,0
+2008-04,Jussi-Pekka,0
+2008-04,Lunar,0
+2008-04,Markus Masuhr,0
+2008-04,Matthew Dear,0
+2008-04,Micatone,0
+2008-04,Michael Mayer,0
+2008-04,Miles Davis,0
+2008-04,Moloko,0
+2008-04,Parov Stelar,0
+2008-04,Paul Kalkbrenner,0
+2008-04,Robert Babicz,0
+2008-04,Skeewiff,0
+2008-05,Acid Casuals,0
+2008-05,Alex Smoke,0
+2008-05,Alif Tree,0
+2008-05,Bent,0
+2008-05,Dominik Eulberg,0
+2008-05,Gabriel Ananda,0
+2008-05,Gnarls Barkley,0
+2008-05,Gui Boratto,0
+2008-05,Jussi-Pekka,0
+2008-05,Lunar,0
+2008-05,Markus Masuhr,0
+2008-05,Matthew Dear,0
+2008-05,Micatone,0
+2008-05,Michael Mayer,0
+2008-05,Miles Davis,0
+2008-05,Moloko,0
+2008-05,Parov Stelar,0
+2008-05,Paul Kalkbrenner,0
+2008-05,Robert Babicz,0
+2008-05,Skeewiff,0
+2008-06,Acid Casuals,0
+2008-06,Alex Smoke,0
+2008-06,Alif Tree,0
+2008-06,Bent,0
+2008-06,Dominik Eulberg,0
+2008-06,Gabriel Ananda,0
+2008-06,Gnarls Barkley,0
+2008-06,Gui Boratto,0
+2008-06,Jussi-Pekka,0
+2008-06,Lunar,0
+2008-06,Markus Masuhr,0
+2008-06,Matthew Dear,0
+2008-06,Micatone,0
+2008-06,Michael Mayer,0
+2008-06,Miles Davis,0
+2008-06,Moloko,0
+2008-06,Parov Stelar,0
+2008-06,Paul Kalkbrenner,0
+2008-06,Robert Babicz,0
+2008-06,Skeewiff,0
+2008-07,Acid Casuals,0
+2008-07,Alex Smoke,0
+2008-07,Alif Tree,0
+2008-07,Bent,0
+2008-07,Dominik Eulberg,0
+2008-07,Gabriel Ananda,0
+2008-07,Gnarls Barkley,0
+2008-07,Gui Boratto,0
+2008-07,Jussi-Pekka,0
+2008-07,Lunar,0
+2008-07,Markus Masuhr,0
+2008-07,Matthew Dear,0
+2008-07,Micatone,0
+2008-07,Michael Mayer,0
+2008-07,Miles Davis,0
+2008-07,Moloko,0
+2008-07,Parov Stelar,0
+2008-07,Paul Kalkbrenner,0
+2008-07,Robert Babicz,0
+2008-07,Skeewiff,0
+2008-08,Acid Casuals,0
+2008-08,Alex Smoke,0
+2008-08,Alif Tree,0
+2008-08,Bent,0
+2008-08,Dominik Eulberg,0
+2008-08,Gabriel Ananda,0
+2008-08,Gnarls Barkley,0
+2008-08,Gui Boratto,0
+2008-08,Jussi-Pekka,0
+2008-08,Lunar,0
+2008-08,Markus Masuhr,0
+2008-08,Matthew Dear,0
+2008-08,Micatone,0
+2008-08,Michael Mayer,0
+2008-08,Miles Davis,0
+2008-08,Moloko,0
+2008-08,Parov Stelar,2
+2008-08,Paul Kalkbrenner,0
+2008-08,Robert Babicz,0
+2008-08,Skeewiff,0
+2008-09,Acid Casuals,0
+2008-09,Alex Smoke,0
+2008-09,Alif Tree,1
+2008-09,Bent,2
+2008-09,Dominik Eulberg,3
+2008-09,Gabriel Ananda,2
+2008-09,Gnarls Barkley,0
+2008-09,Gui Boratto,1
+2008-09,Jussi-Pekka,0
+2008-09,Lunar,1
+2008-09,Markus Masuhr,0
+2008-09,Matthew Dear,1
+2008-09,Micatone,1
+2008-09,Michael Mayer,0
+2008-09,Miles Davis,2
+2008-09,Moloko,2
+2008-09,Parov Stelar,1
+2008-09,Paul Kalkbrenner,1
+2008-09,Robert Babicz,2
+2008-09,Skeewiff,0
+2008-10,Acid Casuals,0
+2008-10,Alex Smoke,2
+2008-10,Alif Tree,1
+2008-10,Bent,1
+2008-10,Dominik Eulberg,2
+2008-10,Gabriel Ananda,0
+2008-10,Gnarls Barkley,0
+2008-10,Gui Boratto,0
+2008-10,Jussi-Pekka,0
+2008-10,Lunar,1
+2008-10,Markus Masuhr,0
+2008-10,Matthew Dear,2
+2008-10,Micatone,4
+2008-10,Michael Mayer,1
+2008-10,Miles Davis,2
+2008-10,Moloko,1
+2008-10,Parov Stelar,5
+2008-10,Paul Kalkbrenner,2
+2008-10,Robert Babicz,2
+2008-10,Skeewiff,0
+2008-11,Acid Casuals,0
+2008-11,Alex Smoke,1
+2008-11,Alif Tree,1
+2008-11,Bent,1
+2008-11,Dominik Eulberg,0
+2008-11,Gabriel Ananda,1
+2008-11,Gnarls Barkley,0
+2008-11,Gui Boratto,0
+2008-11,Jussi-Pekka,0
+2008-11,Lunar,1
+2008-11,Markus Masuhr,0
+2008-11,Matthew Dear,2
+2008-11,Micatone,1
+2008-11,Michael Mayer,0
+2008-11,Miles Davis,0
+2008-11,Moloko,1
+2008-11,Parov Stelar,2
+2008-11,Paul Kalkbrenner,1
+2008-11,Robert Babicz,1
+2008-11,Skeewiff,0
+2008-12,Acid Casuals,10
+2008-12,Alex Smoke,0
+2008-12,Alif Tree,1
+2008-12,Bent,6
+2008-12,Dominik Eulberg,1
+2008-12,Gabriel Ananda,0
+2008-12,Gnarls Barkley,1
+2008-12,Gui Boratto,1
+2008-12,Jussi-Pekka,4
+2008-12,Lunar,3
+2008-12,Markus Masuhr,0
+2008-12,Matthew Dear,1
+2008-12,Micatone,66
+2008-12,Michael Mayer,1
+2008-12,Miles Davis,0
+2008-12,Moloko,0
+2008-12,Parov Stelar,17
+2008-12,Paul Kalkbrenner,0
+2008-12,Robert Babicz,1
+2008-12,Skeewiff,18
+2009-01,Acid Casuals,3
+2009-01,Alex Smoke,0
+2009-01,Alif Tree,0
+2009-01,Bent,1
+2009-01,Dominik Eulberg,0
+2009-01,Gabriel Ananda,0
+2009-01,Gnarls Barkley,0
+2009-01,Gui Boratto,0
+2009-01,Jussi-Pekka,0
+2009-01,Lunar,0
+2009-01,Markus Masuhr,0
+2009-01,Matthew Dear,0
+2009-01,Micatone,61
+2009-01,Michael Mayer,0
+2009-01,Miles Davis,0
+2009-01,Moloko,0
+2009-01,Parov Stelar,27
+2009-01,Paul Kalkbrenner,0
+2009-01,Robert Babicz,1
+2009-01,Skeewiff,0
+2009-02,Acid Casuals,1
+2009-02,Alex Smoke,0
+2009-02,Alif Tree,8
+2009-02,Bent,3
+2009-02,Dominik Eulberg,0
+2009-02,Gabriel Ananda,0
+2009-02,Gnarls Barkley,0
+2009-02,Gui Boratto,0
+2009-02,Jussi-Pekka,0
+2009-02,Lunar,0
+2009-02,Markus Masuhr,0
+2009-02,Matthew Dear,2
+2009-02,Micatone,48
+2009-02,Michael Mayer,0
+2009-02,Miles Davis,2
+2009-02,Moloko,6
+2009-02,Parov Stelar,16
+2009-02,Paul Kalkbrenner,0
+2009-02,Robert Babicz,0
+2009-02,Skeewiff,1
+2009-03,Acid Casuals,0
+2009-03,Alex Smoke,0
+2009-03,Alif Tree,2
+2009-03,Bent,1
+2009-03,Dominik Eulberg,0
+2009-03,Gabriel Ananda,0
+2009-03,Gnarls Barkley,0
+2009-03,Gui Boratto,0
+2009-03,Jussi-Pekka,7
+2009-03,Lunar,0
+2009-03,Markus Masuhr,0
+2009-03,Matthew Dear,0
+2009-03,Micatone,38
+2009-03,Michael Mayer,0
+2009-03,Miles Davis,1
+2009-03,Moloko,1
+2009-03,Parov Stelar,4
+2009-03,Paul Kalkbrenner,0
+2009-03,Robert Babicz,0
+2009-03,Skeewiff,0
+2009-04,Acid Casuals,0
+2009-04,Alex Smoke,0
+2009-04,Alif Tree,0
+2009-04,Bent,0
+2009-04,Dominik Eulberg,0
+2009-04,Gabriel Ananda,0
+2009-04,Gnarls Barkley,0
+2009-04,Gui Boratto,0
+2009-04,Jussi-Pekka,0
+2009-04,Lunar,0
+2009-04,Markus Masuhr,0
+2009-04,Matthew Dear,0
+2009-04,Micatone,54
+2009-04,Michael Mayer,0
+2009-04,Miles Davis,0
+2009-04,Moloko,1
+2009-04,Parov Stelar,1
+2009-04,Paul Kalkbrenner,0
+2009-04,Robert Babicz,0
+2009-04,Skeewiff,1

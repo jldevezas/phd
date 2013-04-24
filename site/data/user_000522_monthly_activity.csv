@@ -1,0 +1,861 @@
+month,artist,plays
+2005-11,Alanis Morissette,34
+2005-11,Ani Difranco,3
+2005-11,Bel Canto,548
+2005-11,Bell Canto,1
+2005-11,Bertine Zetlitz,3
+2005-11,Beth Orton,0
+2005-11,Cocteau Twins,158
+2005-11,Elusive,114
+2005-11,Enya,91
+2005-11,Evanescence,36
+2005-11,Faith And The Muse,18
+2005-11,Gåte,42
+2005-11,Happy Rhodes,0
+2005-11,Heidi Marie Vestrheim,13
+2005-11,Loreena Mckennitt,18
+2005-11,Madonna,0
+2005-11,Natacha Atlas,24
+2005-11,Nightwish,7
+2005-11,Tegan And Sara,20
+2005-11,Tori Amos,306
+2005-12,Alanis Morissette,21
+2005-12,Ani Difranco,35
+2005-12,Bel Canto,483
+2005-12,Bell Canto,6
+2005-12,Bertine Zetlitz,29
+2005-12,Beth Orton,0
+2005-12,Cocteau Twins,85
+2005-12,Elusive,69
+2005-12,Enya,68
+2005-12,Evanescence,20
+2005-12,Faith And The Muse,21
+2005-12,Gåte,51
+2005-12,Happy Rhodes,0
+2005-12,Heidi Marie Vestrheim,64
+2005-12,Loreena Mckennitt,36
+2005-12,Madonna,2
+2005-12,Natacha Atlas,24
+2005-12,Nightwish,20
+2005-12,Tegan And Sara,44
+2005-12,Tori Amos,262
+2006-01,Alanis Morissette,74
+2006-01,Ani Difranco,25
+2006-01,Bel Canto,466
+2006-01,Bell Canto,5
+2006-01,Bertine Zetlitz,58
+2006-01,Beth Orton,0
+2006-01,Cocteau Twins,5
+2006-01,Elusive,2
+2006-01,Enya,179
+2006-01,Evanescence,45
+2006-01,Faith And The Muse,95
+2006-01,Gåte,59
+2006-01,Happy Rhodes,0
+2006-01,Heidi Marie Vestrheim,36
+2006-01,Loreena Mckennitt,20
+2006-01,Madonna,46
+2006-01,Natacha Atlas,25
+2006-01,Nightwish,1
+2006-01,Tegan And Sara,107
+2006-01,Tori Amos,312
+2006-02,Alanis Morissette,16
+2006-02,Ani Difranco,24
+2006-02,Bel Canto,242
+2006-02,Bell Canto,0
+2006-02,Bertine Zetlitz,2
+2006-02,Beth Orton,80
+2006-02,Cocteau Twins,4
+2006-02,Elusive,3
+2006-02,Enya,40
+2006-02,Evanescence,12
+2006-02,Faith And The Muse,8
+2006-02,Gåte,0
+2006-02,Happy Rhodes,0
+2006-02,Heidi Marie Vestrheim,46
+2006-02,Loreena Mckennitt,20
+2006-02,Madonna,45
+2006-02,Natacha Atlas,7
+2006-02,Nightwish,20
+2006-02,Tegan And Sara,21
+2006-02,Tori Amos,301
+2006-03,Alanis Morissette,71
+2006-03,Ani Difranco,5
+2006-03,Bel Canto,380
+2006-03,Bell Canto,4
+2006-03,Bertine Zetlitz,0
+2006-03,Beth Orton,58
+2006-03,Cocteau Twins,3
+2006-03,Elusive,81
+2006-03,Enya,58
+2006-03,Evanescence,149
+2006-03,Faith And The Muse,6
+2006-03,Gåte,21
+2006-03,Happy Rhodes,0
+2006-03,Heidi Marie Vestrheim,37
+2006-03,Loreena Mckennitt,26
+2006-03,Madonna,16
+2006-03,Natacha Atlas,32
+2006-03,Nightwish,9
+2006-03,Tegan And Sara,23
+2006-03,Tori Amos,262
+2006-04,Alanis Morissette,16
+2006-04,Ani Difranco,21
+2006-04,Bel Canto,61
+2006-04,Bell Canto,0
+2006-04,Bertine Zetlitz,70
+2006-04,Beth Orton,66
+2006-04,Cocteau Twins,0
+2006-04,Elusive,110
+2006-04,Enya,131
+2006-04,Evanescence,33
+2006-04,Faith And The Muse,76
+2006-04,Gåte,29
+2006-04,Happy Rhodes,0
+2006-04,Heidi Marie Vestrheim,15
+2006-04,Loreena Mckennitt,9
+2006-04,Madonna,25
+2006-04,Natacha Atlas,11
+2006-04,Nightwish,0
+2006-04,Tegan And Sara,0
+2006-04,Tori Amos,26
+2006-05,Alanis Morissette,2
+2006-05,Ani Difranco,3
+2006-05,Bel Canto,230
+2006-05,Bell Canto,2
+2006-05,Bertine Zetlitz,26
+2006-05,Beth Orton,50
+2006-05,Cocteau Twins,2
+2006-05,Elusive,47
+2006-05,Enya,54
+2006-05,Evanescence,2
+2006-05,Faith And The Muse,2
+2006-05,Gåte,12
+2006-05,Happy Rhodes,0
+2006-05,Heidi Marie Vestrheim,3
+2006-05,Loreena Mckennitt,0
+2006-05,Madonna,2
+2006-05,Natacha Atlas,2
+2006-05,Nightwish,1
+2006-05,Tegan And Sara,2
+2006-05,Tori Amos,181
+2006-06,Alanis Morissette,47
+2006-06,Ani Difranco,1
+2006-06,Bel Canto,110
+2006-06,Bell Canto,0
+2006-06,Bertine Zetlitz,65
+2006-06,Beth Orton,40
+2006-06,Cocteau Twins,14
+2006-06,Elusive,59
+2006-06,Enya,43
+2006-06,Evanescence,2
+2006-06,Faith And The Muse,14
+2006-06,Gåte,0
+2006-06,Happy Rhodes,113
+2006-06,Heidi Marie Vestrheim,12
+2006-06,Loreena Mckennitt,2
+2006-06,Madonna,0
+2006-06,Natacha Atlas,3
+2006-06,Nightwish,20
+2006-06,Tegan And Sara,10
+2006-06,Tori Amos,65
+2006-07,Alanis Morissette,15
+2006-07,Ani Difranco,1
+2006-07,Bel Canto,73
+2006-07,Bell Canto,0
+2006-07,Bertine Zetlitz,10
+2006-07,Beth Orton,0
+2006-07,Cocteau Twins,0
+2006-07,Elusive,0
+2006-07,Enya,0
+2006-07,Evanescence,11
+2006-07,Faith And The Muse,0
+2006-07,Gåte,0
+2006-07,Happy Rhodes,55
+2006-07,Heidi Marie Vestrheim,33
+2006-07,Loreena Mckennitt,0
+2006-07,Madonna,0
+2006-07,Natacha Atlas,0
+2006-07,Nightwish,0
+2006-07,Tegan And Sara,0
+2006-07,Tori Amos,18
+2006-08,Alanis Morissette,43
+2006-08,Ani Difranco,0
+2006-08,Bel Canto,372
+2006-08,Bell Canto,3
+2006-08,Bertine Zetlitz,0
+2006-08,Beth Orton,22
+2006-08,Cocteau Twins,1
+2006-08,Elusive,0
+2006-08,Enya,33
+2006-08,Evanescence,69
+2006-08,Faith And The Muse,7
+2006-08,Gåte,11
+2006-08,Happy Rhodes,146
+2006-08,Heidi Marie Vestrheim,12
+2006-08,Loreena Mckennitt,20
+2006-08,Madonna,0
+2006-08,Natacha Atlas,2
+2006-08,Nightwish,0
+2006-08,Tegan And Sara,0
+2006-08,Tori Amos,216
+2006-09,Alanis Morissette,110
+2006-09,Ani Difranco,41
+2006-09,Bel Canto,502
+2006-09,Bell Canto,18
+2006-09,Bertine Zetlitz,10
+2006-09,Beth Orton,33
+2006-09,Cocteau Twins,0
+2006-09,Elusive,4
+2006-09,Enya,12
+2006-09,Evanescence,0
+2006-09,Faith And The Muse,0
+2006-09,Gåte,9
+2006-09,Happy Rhodes,45
+2006-09,Heidi Marie Vestrheim,11
+2006-09,Loreena Mckennitt,0
+2006-09,Madonna,13
+2006-09,Natacha Atlas,22
+2006-09,Nightwish,0
+2006-09,Tegan And Sara,19
+2006-09,Tori Amos,443
+2006-10,Alanis Morissette,1
+2006-10,Ani Difranco,6
+2006-10,Bel Canto,529
+2006-10,Bell Canto,9
+2006-10,Bertine Zetlitz,13
+2006-10,Beth Orton,34
+2006-10,Cocteau Twins,12
+2006-10,Elusive,2
+2006-10,Enya,54
+2006-10,Evanescence,396
+2006-10,Faith And The Muse,2
+2006-10,Gåte,41
+2006-10,Happy Rhodes,13
+2006-10,Heidi Marie Vestrheim,33
+2006-10,Loreena Mckennitt,4
+2006-10,Madonna,1
+2006-10,Natacha Atlas,21
+2006-10,Nightwish,1
+2006-10,Tegan And Sara,0
+2006-10,Tori Amos,342
+2006-11,Alanis Morissette,47
+2006-11,Ani Difranco,0
+2006-11,Bel Canto,695
+2006-11,Bell Canto,22
+2006-11,Bertine Zetlitz,81
+2006-11,Beth Orton,72
+2006-11,Cocteau Twins,57
+2006-11,Elusive,5
+2006-11,Enya,15
+2006-11,Evanescence,51
+2006-11,Faith And The Muse,6
+2006-11,Gåte,62
+2006-11,Happy Rhodes,64
+2006-11,Heidi Marie Vestrheim,130
+2006-11,Loreena Mckennitt,1
+2006-11,Madonna,2
+2006-11,Natacha Atlas,3
+2006-11,Nightwish,72
+2006-11,Tegan And Sara,21
+2006-11,Tori Amos,250
+2006-12,Alanis Morissette,0
+2006-12,Ani Difranco,0
+2006-12,Bel Canto,172
+2006-12,Bell Canto,8
+2006-12,Bertine Zetlitz,2
+2006-12,Beth Orton,0
+2006-12,Cocteau Twins,20
+2006-12,Elusive,0
+2006-12,Enya,1
+2006-12,Evanescence,0
+2006-12,Faith And The Muse,7
+2006-12,Gåte,10
+2006-12,Happy Rhodes,14
+2006-12,Heidi Marie Vestrheim,21
+2006-12,Loreena Mckennitt,1
+2006-12,Madonna,3
+2006-12,Natacha Atlas,6
+2006-12,Nightwish,0
+2006-12,Tegan And Sara,18
+2006-12,Tori Amos,2
+2007-01,Alanis Morissette,0
+2007-01,Ani Difranco,1
+2007-01,Bel Canto,218
+2007-01,Bell Canto,6
+2007-01,Bertine Zetlitz,3
+2007-01,Beth Orton,28
+2007-01,Cocteau Twins,0
+2007-01,Elusive,0
+2007-01,Enya,0
+2007-01,Evanescence,0
+2007-01,Faith And The Muse,0
+2007-01,Gåte,0
+2007-01,Happy Rhodes,0
+2007-01,Heidi Marie Vestrheim,173
+2007-01,Loreena Mckennitt,0
+2007-01,Madonna,0
+2007-01,Natacha Atlas,8
+2007-01,Nightwish,0
+2007-01,Tegan And Sara,0
+2007-01,Tori Amos,12
+2007-02,Alanis Morissette,19
+2007-02,Ani Difranco,0
+2007-02,Bel Canto,120
+2007-02,Bell Canto,2
+2007-02,Bertine Zetlitz,10
+2007-02,Beth Orton,0
+2007-02,Cocteau Twins,20
+2007-02,Elusive,0
+2007-02,Enya,51
+2007-02,Evanescence,3
+2007-02,Faith And The Muse,20
+2007-02,Gåte,2
+2007-02,Happy Rhodes,99
+2007-02,Heidi Marie Vestrheim,120
+2007-02,Loreena Mckennitt,0
+2007-02,Madonna,0
+2007-02,Natacha Atlas,14
+2007-02,Nightwish,0
+2007-02,Tegan And Sara,0
+2007-02,Tori Amos,212
+2007-03,Alanis Morissette,0
+2007-03,Ani Difranco,0
+2007-03,Bel Canto,135
+2007-03,Bell Canto,2
+2007-03,Bertine Zetlitz,2
+2007-03,Beth Orton,13
+2007-03,Cocteau Twins,55
+2007-03,Elusive,37
+2007-03,Enya,210
+2007-03,Evanescence,56
+2007-03,Faith And The Muse,3
+2007-03,Gåte,38
+2007-03,Happy Rhodes,150
+2007-03,Heidi Marie Vestrheim,21
+2007-03,Loreena Mckennitt,27
+2007-03,Madonna,12
+2007-03,Natacha Atlas,50
+2007-03,Nightwish,0
+2007-03,Tegan And Sara,0
+2007-03,Tori Amos,174
+2007-04,Alanis Morissette,9
+2007-04,Ani Difranco,0
+2007-04,Bel Canto,233
+2007-04,Bell Canto,5
+2007-04,Bertine Zetlitz,0
+2007-04,Beth Orton,0
+2007-04,Cocteau Twins,20
+2007-04,Elusive,0
+2007-04,Enya,39
+2007-04,Evanescence,5
+2007-04,Faith And The Muse,15
+2007-04,Gåte,10
+2007-04,Happy Rhodes,34
+2007-04,Heidi Marie Vestrheim,42
+2007-04,Loreena Mckennitt,28
+2007-04,Madonna,2
+2007-04,Natacha Atlas,0
+2007-04,Nightwish,0
+2007-04,Tegan And Sara,22
+2007-04,Tori Amos,140
+2007-05,Alanis Morissette,3
+2007-05,Ani Difranco,18
+2007-05,Bel Canto,66
+2007-05,Bell Canto,1
+2007-05,Bertine Zetlitz,2
+2007-05,Beth Orton,0
+2007-05,Cocteau Twins,106
+2007-05,Elusive,28
+2007-05,Enya,54
+2007-05,Evanescence,0
+2007-05,Faith And The Muse,28
+2007-05,Gåte,12
+2007-05,Happy Rhodes,40
+2007-05,Heidi Marie Vestrheim,73
+2007-05,Loreena Mckennitt,35
+2007-05,Madonna,0
+2007-05,Natacha Atlas,0
+2007-05,Nightwish,0
+2007-05,Tegan And Sara,0
+2007-05,Tori Amos,249
+2007-06,Alanis Morissette,20
+2007-06,Ani Difranco,60
+2007-06,Bel Canto,11
+2007-06,Bell Canto,0
+2007-06,Bertine Zetlitz,0
+2007-06,Beth Orton,0
+2007-06,Cocteau Twins,0
+2007-06,Elusive,0
+2007-06,Enya,12
+2007-06,Evanescence,0
+2007-06,Faith And The Muse,0
+2007-06,Gåte,12
+2007-06,Happy Rhodes,0
+2007-06,Heidi Marie Vestrheim,0
+2007-06,Loreena Mckennitt,0
+2007-06,Madonna,0
+2007-06,Natacha Atlas,0
+2007-06,Nightwish,0
+2007-06,Tegan And Sara,0
+2007-06,Tori Amos,166
+2007-07,Alanis Morissette,0
+2007-07,Ani Difranco,67
+2007-07,Bel Canto,188
+2007-07,Bell Canto,0
+2007-07,Bertine Zetlitz,0
+2007-07,Beth Orton,0
+2007-07,Cocteau Twins,82
+2007-07,Elusive,0
+2007-07,Enya,0
+2007-07,Evanescence,0
+2007-07,Faith And The Muse,0
+2007-07,Gåte,0
+2007-07,Happy Rhodes,0
+2007-07,Heidi Marie Vestrheim,0
+2007-07,Loreena Mckennitt,0
+2007-07,Madonna,0
+2007-07,Natacha Atlas,0
+2007-07,Nightwish,0
+2007-07,Tegan And Sara,89
+2007-07,Tori Amos,96
+2007-08,Alanis Morissette,0
+2007-08,Ani Difranco,23
+2007-08,Bel Canto,36
+2007-08,Bell Canto,4
+2007-08,Bertine Zetlitz,0
+2007-08,Beth Orton,0
+2007-08,Cocteau Twins,157
+2007-08,Elusive,311
+2007-08,Enya,0
+2007-08,Evanescence,0
+2007-08,Faith And The Muse,0
+2007-08,Gåte,0
+2007-08,Happy Rhodes,0
+2007-08,Heidi Marie Vestrheim,0
+2007-08,Loreena Mckennitt,0
+2007-08,Madonna,0
+2007-08,Natacha Atlas,0
+2007-08,Nightwish,16
+2007-08,Tegan And Sara,98
+2007-08,Tori Amos,15
+2007-09,Alanis Morissette,0
+2007-09,Ani Difranco,0
+2007-09,Bel Canto,0
+2007-09,Bell Canto,0
+2007-09,Bertine Zetlitz,0
+2007-09,Beth Orton,0
+2007-09,Cocteau Twins,16
+2007-09,Elusive,80
+2007-09,Enya,0
+2007-09,Evanescence,0
+2007-09,Faith And The Muse,0
+2007-09,Gåte,0
+2007-09,Happy Rhodes,0
+2007-09,Heidi Marie Vestrheim,0
+2007-09,Loreena Mckennitt,82
+2007-09,Madonna,67
+2007-09,Natacha Atlas,0
+2007-09,Nightwish,3
+2007-09,Tegan And Sara,40
+2007-09,Tori Amos,11
+2007-10,Alanis Morissette,39
+2007-10,Ani Difranco,0
+2007-10,Bel Canto,10
+2007-10,Bell Canto,0
+2007-10,Bertine Zetlitz,30
+2007-10,Beth Orton,0
+2007-10,Cocteau Twins,9
+2007-10,Elusive,0
+2007-10,Enya,0
+2007-10,Evanescence,106
+2007-10,Faith And The Muse,0
+2007-10,Gåte,0
+2007-10,Happy Rhodes,123
+2007-10,Heidi Marie Vestrheim,0
+2007-10,Loreena Mckennitt,0
+2007-10,Madonna,85
+2007-10,Natacha Atlas,0
+2007-10,Nightwish,159
+2007-10,Tegan And Sara,27
+2007-10,Tori Amos,4
+2007-11,Alanis Morissette,0
+2007-11,Ani Difranco,0
+2007-11,Bel Canto,258
+2007-11,Bell Canto,0
+2007-11,Bertine Zetlitz,273
+2007-11,Beth Orton,0
+2007-11,Cocteau Twins,107
+2007-11,Elusive,0
+2007-11,Enya,0
+2007-11,Evanescence,109
+2007-11,Faith And The Muse,0
+2007-11,Gåte,0
+2007-11,Happy Rhodes,72
+2007-11,Heidi Marie Vestrheim,0
+2007-11,Loreena Mckennitt,0
+2007-11,Madonna,87
+2007-11,Natacha Atlas,0
+2007-11,Nightwish,434
+2007-11,Tegan And Sara,9
+2007-11,Tori Amos,774
+2007-12,Alanis Morissette,0
+2007-12,Ani Difranco,0
+2007-12,Bel Canto,0
+2007-12,Bell Canto,0
+2007-12,Bertine Zetlitz,0
+2007-12,Beth Orton,0
+2007-12,Cocteau Twins,1
+2007-12,Elusive,0
+2007-12,Enya,0
+2007-12,Evanescence,0
+2007-12,Faith And The Muse,0
+2007-12,Gåte,0
+2007-12,Happy Rhodes,12
+2007-12,Heidi Marie Vestrheim,0
+2007-12,Loreena Mckennitt,0
+2007-12,Madonna,57
+2007-12,Natacha Atlas,0
+2007-12,Nightwish,133
+2007-12,Tegan And Sara,1
+2007-12,Tori Amos,62
+2008-01,Alanis Morissette,0
+2008-01,Ani Difranco,0
+2008-01,Bel Canto,0
+2008-01,Bell Canto,0
+2008-01,Bertine Zetlitz,0
+2008-01,Beth Orton,0
+2008-01,Cocteau Twins,38
+2008-01,Elusive,0
+2008-01,Enya,0
+2008-01,Evanescence,0
+2008-01,Faith And The Muse,0
+2008-01,Gåte,0
+2008-01,Happy Rhodes,0
+2008-01,Heidi Marie Vestrheim,0
+2008-01,Loreena Mckennitt,0
+2008-01,Madonna,0
+2008-01,Natacha Atlas,0
+2008-01,Nightwish,0
+2008-01,Tegan And Sara,0
+2008-01,Tori Amos,0
+2008-02,Alanis Morissette,0
+2008-02,Ani Difranco,0
+2008-02,Bel Canto,0
+2008-02,Bell Canto,0
+2008-02,Bertine Zetlitz,0
+2008-02,Beth Orton,0
+2008-02,Cocteau Twins,0
+2008-02,Elusive,0
+2008-02,Enya,0
+2008-02,Evanescence,4
+2008-02,Faith And The Muse,0
+2008-02,Gåte,0
+2008-02,Happy Rhodes,1
+2008-02,Heidi Marie Vestrheim,0
+2008-02,Loreena Mckennitt,0
+2008-02,Madonna,25
+2008-02,Natacha Atlas,0
+2008-02,Nightwish,5
+2008-02,Tegan And Sara,3
+2008-02,Tori Amos,4
+2008-03,Alanis Morissette,0
+2008-03,Ani Difranco,0
+2008-03,Bel Canto,0
+2008-03,Bell Canto,0
+2008-03,Bertine Zetlitz,0
+2008-03,Beth Orton,0
+2008-03,Cocteau Twins,4
+2008-03,Elusive,0
+2008-03,Enya,0
+2008-03,Evanescence,24
+2008-03,Faith And The Muse,0
+2008-03,Gåte,0
+2008-03,Happy Rhodes,10
+2008-03,Heidi Marie Vestrheim,0
+2008-03,Loreena Mckennitt,0
+2008-03,Madonna,38
+2008-03,Natacha Atlas,0
+2008-03,Nightwish,10
+2008-03,Tegan And Sara,0
+2008-03,Tori Amos,36
+2008-04,Alanis Morissette,0
+2008-04,Ani Difranco,0
+2008-04,Bel Canto,0
+2008-04,Bell Canto,0
+2008-04,Bertine Zetlitz,0
+2008-04,Beth Orton,10
+2008-04,Cocteau Twins,0
+2008-04,Elusive,0
+2008-04,Enya,0
+2008-04,Evanescence,48
+2008-04,Faith And The Muse,0
+2008-04,Gåte,0
+2008-04,Happy Rhodes,0
+2008-04,Heidi Marie Vestrheim,0
+2008-04,Loreena Mckennitt,0
+2008-04,Madonna,86
+2008-04,Natacha Atlas,0
+2008-04,Nightwish,8
+2008-04,Tegan And Sara,0
+2008-04,Tori Amos,0
+2008-05,Alanis Morissette,0
+2008-05,Ani Difranco,0
+2008-05,Bel Canto,0
+2008-05,Bell Canto,0
+2008-05,Bertine Zetlitz,0
+2008-05,Beth Orton,0
+2008-05,Cocteau Twins,0
+2008-05,Elusive,0
+2008-05,Enya,0
+2008-05,Evanescence,0
+2008-05,Faith And The Muse,0
+2008-05,Gåte,0
+2008-05,Happy Rhodes,0
+2008-05,Heidi Marie Vestrheim,0
+2008-05,Loreena Mckennitt,39
+2008-05,Madonna,13
+2008-05,Natacha Atlas,0
+2008-05,Nightwish,0
+2008-05,Tegan And Sara,0
+2008-05,Tori Amos,0
+2008-06,Alanis Morissette,0
+2008-06,Ani Difranco,0
+2008-06,Bel Canto,0
+2008-06,Bell Canto,0
+2008-06,Bertine Zetlitz,0
+2008-06,Beth Orton,0
+2008-06,Cocteau Twins,10
+2008-06,Elusive,0
+2008-06,Enya,0
+2008-06,Evanescence,0
+2008-06,Faith And The Muse,0
+2008-06,Gåte,0
+2008-06,Happy Rhodes,0
+2008-06,Heidi Marie Vestrheim,0
+2008-06,Loreena Mckennitt,0
+2008-06,Madonna,16
+2008-06,Natacha Atlas,0
+2008-06,Nightwish,0
+2008-06,Tegan And Sara,0
+2008-06,Tori Amos,0
+2008-07,Alanis Morissette,0
+2008-07,Ani Difranco,0
+2008-07,Bel Canto,0
+2008-07,Bell Canto,0
+2008-07,Bertine Zetlitz,0
+2008-07,Beth Orton,0
+2008-07,Cocteau Twins,0
+2008-07,Elusive,0
+2008-07,Enya,0
+2008-07,Evanescence,15
+2008-07,Faith And The Muse,0
+2008-07,Gåte,0
+2008-07,Happy Rhodes,6
+2008-07,Heidi Marie Vestrheim,0
+2008-07,Loreena Mckennitt,8
+2008-07,Madonna,0
+2008-07,Natacha Atlas,0
+2008-07,Nightwish,0
+2008-07,Tegan And Sara,0
+2008-07,Tori Amos,29
+2008-08,Alanis Morissette,0
+2008-08,Ani Difranco,0
+2008-08,Bel Canto,0
+2008-08,Bell Canto,0
+2008-08,Bertine Zetlitz,0
+2008-08,Beth Orton,125
+2008-08,Cocteau Twins,11
+2008-08,Elusive,0
+2008-08,Enya,0
+2008-08,Evanescence,0
+2008-08,Faith And The Muse,0
+2008-08,Gåte,0
+2008-08,Happy Rhodes,19
+2008-08,Heidi Marie Vestrheim,0
+2008-08,Loreena Mckennitt,136
+2008-08,Madonna,8
+2008-08,Natacha Atlas,0
+2008-08,Nightwish,0
+2008-08,Tegan And Sara,3
+2008-08,Tori Amos,85
+2008-09,Alanis Morissette,0
+2008-09,Ani Difranco,0
+2008-09,Bel Canto,0
+2008-09,Bell Canto,0
+2008-09,Bertine Zetlitz,0
+2008-09,Beth Orton,0
+2008-09,Cocteau Twins,0
+2008-09,Elusive,0
+2008-09,Enya,0
+2008-09,Evanescence,0
+2008-09,Faith And The Muse,0
+2008-09,Gåte,0
+2008-09,Happy Rhodes,0
+2008-09,Heidi Marie Vestrheim,0
+2008-09,Loreena Mckennitt,109
+2008-09,Madonna,0
+2008-09,Natacha Atlas,0
+2008-09,Nightwish,0
+2008-09,Tegan And Sara,0
+2008-09,Tori Amos,10
+2008-10,Alanis Morissette,0
+2008-10,Ani Difranco,0
+2008-10,Bel Canto,0
+2008-10,Bell Canto,0
+2008-10,Bertine Zetlitz,0
+2008-10,Beth Orton,0
+2008-10,Cocteau Twins,0
+2008-10,Elusive,0
+2008-10,Enya,0
+2008-10,Evanescence,0
+2008-10,Faith And The Muse,0
+2008-10,Gåte,0
+2008-10,Happy Rhodes,0
+2008-10,Heidi Marie Vestrheim,0
+2008-10,Loreena Mckennitt,20
+2008-10,Madonna,0
+2008-10,Natacha Atlas,0
+2008-10,Nightwish,0
+2008-10,Tegan And Sara,0
+2008-10,Tori Amos,0
+2008-11,Alanis Morissette,0
+2008-11,Ani Difranco,0
+2008-11,Bel Canto,33
+2008-11,Bell Canto,0
+2008-11,Bertine Zetlitz,104
+2008-11,Beth Orton,13
+2008-11,Cocteau Twins,27
+2008-11,Elusive,0
+2008-11,Enya,0
+2008-11,Evanescence,2
+2008-11,Faith And The Muse,0
+2008-11,Gåte,0
+2008-11,Happy Rhodes,10
+2008-11,Heidi Marie Vestrheim,0
+2008-11,Loreena Mckennitt,319
+2008-11,Madonna,8
+2008-11,Natacha Atlas,0
+2008-11,Nightwish,0
+2008-11,Tegan And Sara,1
+2008-11,Tori Amos,49
+2008-12,Alanis Morissette,0
+2008-12,Ani Difranco,0
+2008-12,Bel Canto,0
+2008-12,Bell Canto,0
+2008-12,Bertine Zetlitz,43
+2008-12,Beth Orton,19
+2008-12,Cocteau Twins,13
+2008-12,Elusive,0
+2008-12,Enya,0
+2008-12,Evanescence,27
+2008-12,Faith And The Muse,0
+2008-12,Gåte,0
+2008-12,Happy Rhodes,1
+2008-12,Heidi Marie Vestrheim,0
+2008-12,Loreena Mckennitt,78
+2008-12,Madonna,9
+2008-12,Natacha Atlas,0
+2008-12,Nightwish,0
+2008-12,Tegan And Sara,0
+2008-12,Tori Amos,25
+2009-01,Alanis Morissette,0
+2009-01,Ani Difranco,0
+2009-01,Bel Canto,213
+2009-01,Bell Canto,8
+2009-01,Bertine Zetlitz,22
+2009-01,Beth Orton,53
+2009-01,Cocteau Twins,0
+2009-01,Elusive,7
+2009-01,Enya,0
+2009-01,Evanescence,29
+2009-01,Faith And The Muse,0
+2009-01,Gåte,0
+2009-01,Happy Rhodes,9
+2009-01,Heidi Marie Vestrheim,0
+2009-01,Loreena Mckennitt,85
+2009-01,Madonna,15
+2009-01,Natacha Atlas,0
+2009-01,Nightwish,0
+2009-01,Tegan And Sara,0
+2009-01,Tori Amos,69
+2009-02,Alanis Morissette,0
+2009-02,Ani Difranco,0
+2009-02,Bel Canto,43
+2009-02,Bell Canto,2
+2009-02,Bertine Zetlitz,0
+2009-02,Beth Orton,109
+2009-02,Cocteau Twins,10
+2009-02,Elusive,0
+2009-02,Enya,0
+2009-02,Evanescence,19
+2009-02,Faith And The Muse,0
+2009-02,Gåte,0
+2009-02,Happy Rhodes,1
+2009-02,Heidi Marie Vestrheim,0
+2009-02,Loreena Mckennitt,61
+2009-02,Madonna,34
+2009-02,Natacha Atlas,25
+2009-02,Nightwish,0
+2009-02,Tegan And Sara,2
+2009-02,Tori Amos,3
+2009-03,Alanis Morissette,0
+2009-03,Ani Difranco,0
+2009-03,Bel Canto,66
+2009-03,Bell Canto,2
+2009-03,Bertine Zetlitz,48
+2009-03,Beth Orton,0
+2009-03,Cocteau Twins,19
+2009-03,Elusive,8
+2009-03,Enya,0
+2009-03,Evanescence,0
+2009-03,Faith And The Muse,0
+2009-03,Gåte,0
+2009-03,Happy Rhodes,33
+2009-03,Heidi Marie Vestrheim,0
+2009-03,Loreena Mckennitt,93
+2009-03,Madonna,15
+2009-03,Natacha Atlas,0
+2009-03,Nightwish,0
+2009-03,Tegan And Sara,9
+2009-03,Tori Amos,19
+2009-04,Alanis Morissette,0
+2009-04,Ani Difranco,0
+2009-04,Bel Canto,15
+2009-04,Bell Canto,1
+2009-04,Bertine Zetlitz,5
+2009-04,Beth Orton,11
+2009-04,Cocteau Twins,1
+2009-04,Elusive,0
+2009-04,Enya,0
+2009-04,Evanescence,0
+2009-04,Faith And The Muse,0
+2009-04,Gåte,0
+2009-04,Happy Rhodes,0
+2009-04,Heidi Marie Vestrheim,0
+2009-04,Loreena Mckennitt,0
+2009-04,Madonna,0
+2009-04,Natacha Atlas,0
+2009-04,Nightwish,0
+2009-04,Tegan And Sara,0
+2009-04,Tori Amos,55
+2009-05,Alanis Morissette,0
+2009-05,Ani Difranco,0
+2009-05,Bel Canto,6
+2009-05,Bell Canto,0
+2009-05,Bertine Zetlitz,0
+2009-05,Beth Orton,34
+2009-05,Cocteau Twins,0
+2009-05,Elusive,0
+2009-05,Enya,0
+2009-05,Evanescence,0
+2009-05,Faith And The Muse,0
+2009-05,Gåte,0
+2009-05,Happy Rhodes,0
+2009-05,Heidi Marie Vestrheim,0
+2009-05,Loreena Mckennitt,0
+2009-05,Madonna,0
+2009-05,Natacha Atlas,0
+2009-05,Nightwish,0
+2009-05,Tegan And Sara,2
+2009-05,Tori Amos,0

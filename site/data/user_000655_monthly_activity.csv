@@ -1,0 +1,401 @@
+month,artist,plays
+2006-10,Céline Dion,0
+2006-10,Coldplay,3
+2006-10,Counting Crows,2
+2006-10,David Arkenstone,0
+2006-10,Elton John,0
+2006-10,Ennio Morricone,0
+2006-10,Enya,0
+2006-10,Everything But The Girl,2
+2006-10,Hans Zimmer,0
+2006-10,Harry Gregson-Williams,0
+2006-10,Henry Mancini,0
+2006-10,Jewel,1
+2006-10,Kronos Quartet,0
+2006-10,Philip Glass,0
+2006-10,Queen,0
+2006-10,R.E.M.,1
+2006-10,Sarah Mclachlan,0
+2006-10,The Cardigans,1
+2006-10,Tori Amos,0
+2006-10,Vangelis,1
+2006-11,Céline Dion,1
+2006-11,Coldplay,1
+2006-11,Counting Crows,0
+2006-11,David Arkenstone,0
+2006-11,Elton John,2
+2006-11,Ennio Morricone,0
+2006-11,Enya,3
+2006-11,Everything But The Girl,2
+2006-11,Hans Zimmer,0
+2006-11,Harry Gregson-Williams,0
+2006-11,Henry Mancini,0
+2006-11,Jewel,3
+2006-11,Kronos Quartet,0
+2006-11,Philip Glass,0
+2006-11,Queen,1
+2006-11,R.E.M.,3
+2006-11,Sarah Mclachlan,3
+2006-11,The Cardigans,3
+2006-11,Tori Amos,3
+2006-11,Vangelis,0
+2006-12,Céline Dion,0
+2006-12,Coldplay,0
+2006-12,Counting Crows,0
+2006-12,David Arkenstone,0
+2006-12,Elton John,0
+2006-12,Ennio Morricone,0
+2006-12,Enya,0
+2006-12,Everything But The Girl,0
+2006-12,Hans Zimmer,0
+2006-12,Harry Gregson-Williams,0
+2006-12,Henry Mancini,0
+2006-12,Jewel,0
+2006-12,Kronos Quartet,0
+2006-12,Philip Glass,0
+2006-12,Queen,0
+2006-12,R.E.M.,0
+2006-12,Sarah Mclachlan,0
+2006-12,The Cardigans,0
+2006-12,Tori Amos,0
+2006-12,Vangelis,0
+2007-01,Céline Dion,0
+2007-01,Coldplay,0
+2007-01,Counting Crows,0
+2007-01,David Arkenstone,0
+2007-01,Elton John,0
+2007-01,Ennio Morricone,0
+2007-01,Enya,0
+2007-01,Everything But The Girl,0
+2007-01,Hans Zimmer,0
+2007-01,Harry Gregson-Williams,0
+2007-01,Henry Mancini,0
+2007-01,Jewel,0
+2007-01,Kronos Quartet,0
+2007-01,Philip Glass,0
+2007-01,Queen,0
+2007-01,R.E.M.,0
+2007-01,Sarah Mclachlan,0
+2007-01,The Cardigans,0
+2007-01,Tori Amos,0
+2007-01,Vangelis,0
+2007-02,Céline Dion,0
+2007-02,Coldplay,0
+2007-02,Counting Crows,0
+2007-02,David Arkenstone,0
+2007-02,Elton John,0
+2007-02,Ennio Morricone,0
+2007-02,Enya,0
+2007-02,Everything But The Girl,0
+2007-02,Hans Zimmer,0
+2007-02,Harry Gregson-Williams,0
+2007-02,Henry Mancini,0
+2007-02,Jewel,0
+2007-02,Kronos Quartet,0
+2007-02,Philip Glass,0
+2007-02,Queen,0
+2007-02,R.E.M.,0
+2007-02,Sarah Mclachlan,0
+2007-02,The Cardigans,0
+2007-02,Tori Amos,0
+2007-02,Vangelis,0
+2007-03,Céline Dion,0
+2007-03,Coldplay,0
+2007-03,Counting Crows,0
+2007-03,David Arkenstone,0
+2007-03,Elton John,0
+2007-03,Ennio Morricone,0
+2007-03,Enya,0
+2007-03,Everything But The Girl,0
+2007-03,Hans Zimmer,0
+2007-03,Harry Gregson-Williams,0
+2007-03,Henry Mancini,0
+2007-03,Jewel,0
+2007-03,Kronos Quartet,0
+2007-03,Philip Glass,0
+2007-03,Queen,0
+2007-03,R.E.M.,0
+2007-03,Sarah Mclachlan,0
+2007-03,The Cardigans,0
+2007-03,Tori Amos,0
+2007-03,Vangelis,0
+2007-04,Céline Dion,0
+2007-04,Coldplay,0
+2007-04,Counting Crows,0
+2007-04,David Arkenstone,0
+2007-04,Elton John,0
+2007-04,Ennio Morricone,0
+2007-04,Enya,0
+2007-04,Everything But The Girl,0
+2007-04,Hans Zimmer,0
+2007-04,Harry Gregson-Williams,0
+2007-04,Henry Mancini,0
+2007-04,Jewel,0
+2007-04,Kronos Quartet,0
+2007-04,Philip Glass,0
+2007-04,Queen,0
+2007-04,R.E.M.,0
+2007-04,Sarah Mclachlan,0
+2007-04,The Cardigans,0
+2007-04,Tori Amos,0
+2007-04,Vangelis,0
+2007-05,Céline Dion,4
+2007-05,Coldplay,2
+2007-05,Counting Crows,1
+2007-05,David Arkenstone,0
+2007-05,Elton John,7
+2007-05,Ennio Morricone,0
+2007-05,Enya,3
+2007-05,Everything But The Girl,1
+2007-05,Hans Zimmer,0
+2007-05,Harry Gregson-Williams,0
+2007-05,Henry Mancini,0
+2007-05,Jewel,3
+2007-05,Kronos Quartet,0
+2007-05,Philip Glass,0
+2007-05,Queen,1
+2007-05,R.E.M.,3
+2007-05,Sarah Mclachlan,10
+2007-05,The Cardigans,3
+2007-05,Tori Amos,4
+2007-05,Vangelis,0
+2007-06,Céline Dion,1
+2007-06,Coldplay,4
+2007-06,Counting Crows,1
+2007-06,David Arkenstone,0
+2007-06,Elton John,1
+2007-06,Ennio Morricone,0
+2007-06,Enya,2
+2007-06,Everything But The Girl,1
+2007-06,Hans Zimmer,0
+2007-06,Harry Gregson-Williams,0
+2007-06,Henry Mancini,0
+2007-06,Jewel,2
+2007-06,Kronos Quartet,1
+2007-06,Philip Glass,2
+2007-06,Queen,2
+2007-06,R.E.M.,1
+2007-06,Sarah Mclachlan,1
+2007-06,The Cardigans,4
+2007-06,Tori Amos,2
+2007-06,Vangelis,0
+2007-07,Céline Dion,0
+2007-07,Coldplay,2
+2007-07,Counting Crows,1
+2007-07,David Arkenstone,2
+2007-07,Elton John,3
+2007-07,Ennio Morricone,2
+2007-07,Enya,3
+2007-07,Everything But The Girl,0
+2007-07,Hans Zimmer,0
+2007-07,Harry Gregson-Williams,0
+2007-07,Henry Mancini,1
+2007-07,Jewel,0
+2007-07,Kronos Quartet,1
+2007-07,Philip Glass,0
+2007-07,Queen,1
+2007-07,R.E.M.,3
+2007-07,Sarah Mclachlan,1
+2007-07,The Cardigans,4
+2007-07,Tori Amos,1
+2007-07,Vangelis,2
+2007-08,Céline Dion,0
+2007-08,Coldplay,0
+2007-08,Counting Crows,0
+2007-08,David Arkenstone,0
+2007-08,Elton John,0
+2007-08,Ennio Morricone,0
+2007-08,Enya,0
+2007-08,Everything But The Girl,0
+2007-08,Hans Zimmer,0
+2007-08,Harry Gregson-Williams,0
+2007-08,Henry Mancini,0
+2007-08,Jewel,0
+2007-08,Kronos Quartet,0
+2007-08,Philip Glass,0
+2007-08,Queen,0
+2007-08,R.E.M.,0
+2007-08,Sarah Mclachlan,0
+2007-08,The Cardigans,0
+2007-08,Tori Amos,0
+2007-08,Vangelis,0
+2007-09,Céline Dion,0
+2007-09,Coldplay,0
+2007-09,Counting Crows,0
+2007-09,David Arkenstone,0
+2007-09,Elton John,0
+2007-09,Ennio Morricone,0
+2007-09,Enya,0
+2007-09,Everything But The Girl,0
+2007-09,Hans Zimmer,0
+2007-09,Harry Gregson-Williams,0
+2007-09,Henry Mancini,0
+2007-09,Jewel,0
+2007-09,Kronos Quartet,0
+2007-09,Philip Glass,0
+2007-09,Queen,0
+2007-09,R.E.M.,0
+2007-09,Sarah Mclachlan,0
+2007-09,The Cardigans,0
+2007-09,Tori Amos,0
+2007-09,Vangelis,0
+2007-10,Céline Dion,0
+2007-10,Coldplay,0
+2007-10,Counting Crows,0
+2007-10,David Arkenstone,0
+2007-10,Elton John,0
+2007-10,Ennio Morricone,0
+2007-10,Enya,0
+2007-10,Everything But The Girl,0
+2007-10,Hans Zimmer,0
+2007-10,Harry Gregson-Williams,0
+2007-10,Henry Mancini,0
+2007-10,Jewel,0
+2007-10,Kronos Quartet,0
+2007-10,Philip Glass,0
+2007-10,Queen,0
+2007-10,R.E.M.,0
+2007-10,Sarah Mclachlan,0
+2007-10,The Cardigans,0
+2007-10,Tori Amos,0
+2007-10,Vangelis,0
+2007-11,Céline Dion,0
+2007-11,Coldplay,0
+2007-11,Counting Crows,0
+2007-11,David Arkenstone,1
+2007-11,Elton John,3
+2007-11,Ennio Morricone,2
+2007-11,Enya,0
+2007-11,Everything But The Girl,0
+2007-11,Hans Zimmer,4
+2007-11,Harry Gregson-Williams,3
+2007-11,Henry Mancini,2
+2007-11,Jewel,0
+2007-11,Kronos Quartet,0
+2007-11,Philip Glass,2
+2007-11,Queen,1
+2007-11,R.E.M.,0
+2007-11,Sarah Mclachlan,0
+2007-11,The Cardigans,0
+2007-11,Tori Amos,0
+2007-11,Vangelis,2
+2007-12,Céline Dion,1
+2007-12,Coldplay,1
+2007-12,Counting Crows,1
+2007-12,David Arkenstone,1
+2007-12,Elton John,2
+2007-12,Ennio Morricone,1
+2007-12,Enya,2
+2007-12,Everything But The Girl,1
+2007-12,Hans Zimmer,3
+2007-12,Harry Gregson-Williams,1
+2007-12,Henry Mancini,2
+2007-12,Jewel,10
+2007-12,Kronos Quartet,1
+2007-12,Philip Glass,1
+2007-12,Queen,1
+2007-12,R.E.M.,2
+2007-12,Sarah Mclachlan,6
+2007-12,The Cardigans,3
+2007-12,Tori Amos,2
+2007-12,Vangelis,0
+2008-01,Céline Dion,1
+2008-01,Coldplay,0
+2008-01,Counting Crows,1
+2008-01,David Arkenstone,0
+2008-01,Elton John,2
+2008-01,Ennio Morricone,3
+2008-01,Enya,3
+2008-01,Everything But The Girl,1
+2008-01,Hans Zimmer,31
+2008-01,Harry Gregson-Williams,29
+2008-01,Henry Mancini,7
+2008-01,Jewel,1
+2008-01,Kronos Quartet,1
+2008-01,Philip Glass,4
+2008-01,Queen,2
+2008-01,R.E.M.,1
+2008-01,Sarah Mclachlan,3
+2008-01,The Cardigans,3
+2008-01,Tori Amos,4
+2008-01,Vangelis,3
+2008-02,Céline Dion,0
+2008-02,Coldplay,0
+2008-02,Counting Crows,1
+2008-02,David Arkenstone,1
+2008-02,Elton John,0
+2008-02,Ennio Morricone,26
+2008-02,Enya,0
+2008-02,Everything But The Girl,0
+2008-02,Hans Zimmer,45
+2008-02,Harry Gregson-Williams,40
+2008-02,Henry Mancini,9
+2008-02,Jewel,0
+2008-02,Kronos Quartet,2
+2008-02,Philip Glass,7
+2008-02,Queen,0
+2008-02,R.E.M.,0
+2008-02,Sarah Mclachlan,0
+2008-02,The Cardigans,0
+2008-02,Tori Amos,0
+2008-02,Vangelis,14
+2008-03,Céline Dion,1
+2008-03,Coldplay,1
+2008-03,Counting Crows,0
+2008-03,David Arkenstone,1
+2008-03,Elton John,0
+2008-03,Ennio Morricone,14
+2008-03,Enya,1
+2008-03,Everything But The Girl,0
+2008-03,Hans Zimmer,23
+2008-03,Harry Gregson-Williams,13
+2008-03,Henry Mancini,2
+2008-03,Jewel,0
+2008-03,Kronos Quartet,2
+2008-03,Philip Glass,8
+2008-03,Queen,0
+2008-03,R.E.M.,0
+2008-03,Sarah Mclachlan,1
+2008-03,The Cardigans,0
+2008-03,Tori Amos,0
+2008-03,Vangelis,1
+2008-04,Céline Dion,1
+2008-04,Coldplay,0
+2008-04,Counting Crows,0
+2008-04,David Arkenstone,4
+2008-04,Elton John,2
+2008-04,Ennio Morricone,6
+2008-04,Enya,7
+2008-04,Everything But The Girl,1
+2008-04,Hans Zimmer,10
+2008-04,Harry Gregson-Williams,11
+2008-04,Henry Mancini,1
+2008-04,Jewel,1
+2008-04,Kronos Quartet,1
+2008-04,Philip Glass,2
+2008-04,Queen,0
+2008-04,R.E.M.,0
+2008-04,Sarah Mclachlan,0
+2008-04,The Cardigans,0
+2008-04,Tori Amos,1
+2008-04,Vangelis,3
+2008-05,Céline Dion,0
+2008-05,Coldplay,0
+2008-05,Counting Crows,0
+2008-05,David Arkenstone,1
+2008-05,Elton John,0
+2008-05,Ennio Morricone,0
+2008-05,Enya,2
+2008-05,Everything But The Girl,0
+2008-05,Hans Zimmer,1
+2008-05,Harry Gregson-Williams,1
+2008-05,Henry Mancini,0
+2008-05,Jewel,0
+2008-05,Kronos Quartet,0
+2008-05,Philip Glass,0
+2008-05,Queen,0
+2008-05,R.E.M.,0
+2008-05,Sarah Mclachlan,0
+2008-05,The Cardigans,0
+2008-05,Tori Amos,0
+2008-05,Vangelis,0

@@ -1,0 +1,621 @@
+month,artist,plays
+2005-12,Against Me!,1
+2005-12,Alkaline Trio,8
+2005-12,Black Rebel Motorcycle Club,22
+2005-12,Damien Rice,14
+2005-12,Devil Doll,1
+2005-12,Jack Johnson,32
+2005-12,Jenny Lewis With The Watson Twins,0
+2005-12,Latterman,15
+2005-12,Metric,0
+2005-12,Muse,1
+2005-12,Onelinedrawing,0
+2005-12,Panic At The Disco,12
+2005-12,Queen,0
+2005-12,Rilo Kiley,31
+2005-12,Ryan Adams,1
+2005-12,Smoking Popes,0
+2005-12,Sufjan Stevens,61
+2005-12,Tegan And Sara,2
+2005-12,The Ataris,0
+2005-12,We Are Scientists,2
+2006-01,Against Me!,32
+2006-01,Alkaline Trio,6
+2006-01,Black Rebel Motorcycle Club,4
+2006-01,Damien Rice,2
+2006-01,Devil Doll,18
+2006-01,Jack Johnson,25
+2006-01,Jenny Lewis With The Watson Twins,23
+2006-01,Latterman,47
+2006-01,Metric,32
+2006-01,Muse,1
+2006-01,Onelinedrawing,0
+2006-01,Panic At The Disco,31
+2006-01,Queen,0
+2006-01,Rilo Kiley,67
+2006-01,Ryan Adams,20
+2006-01,Smoking Popes,2
+2006-01,Sufjan Stevens,81
+2006-01,Tegan And Sara,77
+2006-01,The Ataris,3
+2006-01,We Are Scientists,37
+2006-02,Against Me!,63
+2006-02,Alkaline Trio,0
+2006-02,Black Rebel Motorcycle Club,0
+2006-02,Damien Rice,0
+2006-02,Devil Doll,3
+2006-02,Jack Johnson,174
+2006-02,Jenny Lewis With The Watson Twins,136
+2006-02,Latterman,16
+2006-02,Metric,63
+2006-02,Muse,0
+2006-02,Onelinedrawing,34
+2006-02,Panic At The Disco,67
+2006-02,Queen,3
+2006-02,Rilo Kiley,32
+2006-02,Ryan Adams,1
+2006-02,Smoking Popes,182
+2006-02,Sufjan Stevens,47
+2006-02,Tegan And Sara,0
+2006-02,The Ataris,0
+2006-02,We Are Scientists,43
+2006-03,Against Me!,82
+2006-03,Alkaline Trio,49
+2006-03,Black Rebel Motorcycle Club,99
+2006-03,Damien Rice,1
+2006-03,Devil Doll,51
+2006-03,Jack Johnson,113
+2006-03,Jenny Lewis With The Watson Twins,56
+2006-03,Latterman,32
+2006-03,Metric,60
+2006-03,Muse,0
+2006-03,Onelinedrawing,23
+2006-03,Panic At The Disco,148
+2006-03,Queen,15
+2006-03,Rilo Kiley,38
+2006-03,Ryan Adams,1
+2006-03,Smoking Popes,270
+2006-03,Sufjan Stevens,25
+2006-03,Tegan And Sara,99
+2006-03,The Ataris,20
+2006-03,We Are Scientists,35
+2006-04,Against Me!,27
+2006-04,Alkaline Trio,1
+2006-04,Black Rebel Motorcycle Club,46
+2006-04,Damien Rice,1
+2006-04,Devil Doll,4
+2006-04,Jack Johnson,199
+2006-04,Jenny Lewis With The Watson Twins,12
+2006-04,Latterman,0
+2006-04,Metric,5
+2006-04,Muse,0
+2006-04,Onelinedrawing,39
+2006-04,Panic At The Disco,15
+2006-04,Queen,18
+2006-04,Rilo Kiley,5
+2006-04,Ryan Adams,2
+2006-04,Smoking Popes,1
+2006-04,Sufjan Stevens,0
+2006-04,Tegan And Sara,1
+2006-04,The Ataris,2
+2006-04,We Are Scientists,5
+2006-05,Against Me!,36
+2006-05,Alkaline Trio,9
+2006-05,Black Rebel Motorcycle Club,286
+2006-05,Damien Rice,10
+2006-05,Devil Doll,10
+2006-05,Jack Johnson,51
+2006-05,Jenny Lewis With The Watson Twins,14
+2006-05,Latterman,2
+2006-05,Metric,135
+2006-05,Muse,4
+2006-05,Onelinedrawing,2
+2006-05,Panic At The Disco,29
+2006-05,Queen,0
+2006-05,Rilo Kiley,3
+2006-05,Ryan Adams,6
+2006-05,Smoking Popes,149
+2006-05,Sufjan Stevens,2
+2006-05,Tegan And Sara,4
+2006-05,The Ataris,215
+2006-05,We Are Scientists,1
+2006-06,Against Me!,20
+2006-06,Alkaline Trio,9
+2006-06,Black Rebel Motorcycle Club,5
+2006-06,Damien Rice,13
+2006-06,Devil Doll,1
+2006-06,Jack Johnson,2
+2006-06,Jenny Lewis With The Watson Twins,0
+2006-06,Latterman,1
+2006-06,Metric,1
+2006-06,Muse,1
+2006-06,Onelinedrawing,3
+2006-06,Panic At The Disco,115
+2006-06,Queen,1
+2006-06,Rilo Kiley,3
+2006-06,Ryan Adams,2
+2006-06,Smoking Popes,6
+2006-06,Sufjan Stevens,2
+2006-06,Tegan And Sara,3
+2006-06,The Ataris,4
+2006-06,We Are Scientists,36
+2006-07,Against Me!,6
+2006-07,Alkaline Trio,0
+2006-07,Black Rebel Motorcycle Club,4
+2006-07,Damien Rice,0
+2006-07,Devil Doll,33
+2006-07,Jack Johnson,1
+2006-07,Jenny Lewis With The Watson Twins,2
+2006-07,Latterman,25
+2006-07,Metric,113
+2006-07,Muse,1
+2006-07,Onelinedrawing,0
+2006-07,Panic At The Disco,43
+2006-07,Queen,1
+2006-07,Rilo Kiley,3
+2006-07,Ryan Adams,0
+2006-07,Smoking Popes,2
+2006-07,Sufjan Stevens,1
+2006-07,Tegan And Sara,4
+2006-07,The Ataris,0
+2006-07,We Are Scientists,1
+2006-08,Against Me!,46
+2006-08,Alkaline Trio,2
+2006-08,Black Rebel Motorcycle Club,48
+2006-08,Damien Rice,0
+2006-08,Devil Doll,0
+2006-08,Jack Johnson,0
+2006-08,Jenny Lewis With The Watson Twins,13
+2006-08,Latterman,13
+2006-08,Metric,12
+2006-08,Muse,0
+2006-08,Onelinedrawing,95
+2006-08,Panic At The Disco,32
+2006-08,Queen,0
+2006-08,Rilo Kiley,12
+2006-08,Ryan Adams,3
+2006-08,Smoking Popes,0
+2006-08,Sufjan Stevens,47
+2006-08,Tegan And Sara,12
+2006-08,The Ataris,0
+2006-08,We Are Scientists,12
+2006-09,Against Me!,0
+2006-09,Alkaline Trio,4
+2006-09,Black Rebel Motorcycle Club,0
+2006-09,Damien Rice,0
+2006-09,Devil Doll,0
+2006-09,Jack Johnson,0
+2006-09,Jenny Lewis With The Watson Twins,0
+2006-09,Latterman,0
+2006-09,Metric,0
+2006-09,Muse,32
+2006-09,Onelinedrawing,1
+2006-09,Panic At The Disco,22
+2006-09,Queen,0
+2006-09,Rilo Kiley,1
+2006-09,Ryan Adams,0
+2006-09,Smoking Popes,0
+2006-09,Sufjan Stevens,1
+2006-09,Tegan And Sara,2
+2006-09,The Ataris,1
+2006-09,We Are Scientists,0
+2006-10,Against Me!,1
+2006-10,Alkaline Trio,2
+2006-10,Black Rebel Motorcycle Club,0
+2006-10,Damien Rice,1
+2006-10,Devil Doll,0
+2006-10,Jack Johnson,18
+2006-10,Jenny Lewis With The Watson Twins,1
+2006-10,Latterman,0
+2006-10,Metric,0
+2006-10,Muse,1
+2006-10,Onelinedrawing,1
+2006-10,Panic At The Disco,0
+2006-10,Queen,0
+2006-10,Rilo Kiley,4
+2006-10,Ryan Adams,0
+2006-10,Smoking Popes,1
+2006-10,Sufjan Stevens,0
+2006-10,Tegan And Sara,2
+2006-10,The Ataris,1
+2006-10,We Are Scientists,0
+2006-11,Against Me!,0
+2006-11,Alkaline Trio,0
+2006-11,Black Rebel Motorcycle Club,0
+2006-11,Damien Rice,66
+2006-11,Devil Doll,0
+2006-11,Jack Johnson,0
+2006-11,Jenny Lewis With The Watson Twins,0
+2006-11,Latterman,0
+2006-11,Metric,0
+2006-11,Muse,0
+2006-11,Onelinedrawing,0
+2006-11,Panic At The Disco,0
+2006-11,Queen,3
+2006-11,Rilo Kiley,0
+2006-11,Ryan Adams,1
+2006-11,Smoking Popes,0
+2006-11,Sufjan Stevens,0
+2006-11,Tegan And Sara,0
+2006-11,The Ataris,0
+2006-11,We Are Scientists,0
+2006-12,Against Me!,0
+2006-12,Alkaline Trio,0
+2006-12,Black Rebel Motorcycle Club,1
+2006-12,Damien Rice,0
+2006-12,Devil Doll,1
+2006-12,Jack Johnson,1
+2006-12,Jenny Lewis With The Watson Twins,0
+2006-12,Latterman,1
+2006-12,Metric,1
+2006-12,Muse,1
+2006-12,Onelinedrawing,1
+2006-12,Panic At The Disco,1
+2006-12,Queen,1
+2006-12,Rilo Kiley,1
+2006-12,Ryan Adams,1
+2006-12,Smoking Popes,1
+2006-12,Sufjan Stevens,0
+2006-12,Tegan And Sara,0
+2006-12,The Ataris,1
+2006-12,We Are Scientists,0
+2007-01,Against Me!,4
+2007-01,Alkaline Trio,0
+2007-01,Black Rebel Motorcycle Club,0
+2007-01,Damien Rice,1
+2007-01,Devil Doll,0
+2007-01,Jack Johnson,0
+2007-01,Jenny Lewis With The Watson Twins,1
+2007-01,Latterman,0
+2007-01,Metric,0
+2007-01,Muse,2
+2007-01,Onelinedrawing,0
+2007-01,Panic At The Disco,2
+2007-01,Queen,0
+2007-01,Rilo Kiley,13
+2007-01,Ryan Adams,1
+2007-01,Smoking Popes,0
+2007-01,Sufjan Stevens,2
+2007-01,Tegan And Sara,29
+2007-01,The Ataris,5
+2007-01,We Are Scientists,2
+2007-02,Against Me!,0
+2007-02,Alkaline Trio,0
+2007-02,Black Rebel Motorcycle Club,0
+2007-02,Damien Rice,0
+2007-02,Devil Doll,0
+2007-02,Jack Johnson,0
+2007-02,Jenny Lewis With The Watson Twins,0
+2007-02,Latterman,0
+2007-02,Metric,0
+2007-02,Muse,0
+2007-02,Onelinedrawing,0
+2007-02,Panic At The Disco,0
+2007-02,Queen,0
+2007-02,Rilo Kiley,0
+2007-02,Ryan Adams,0
+2007-02,Smoking Popes,0
+2007-02,Sufjan Stevens,0
+2007-02,Tegan And Sara,0
+2007-02,The Ataris,0
+2007-02,We Are Scientists,0
+2007-03,Against Me!,0
+2007-03,Alkaline Trio,0
+2007-03,Black Rebel Motorcycle Club,0
+2007-03,Damien Rice,0
+2007-03,Devil Doll,0
+2007-03,Jack Johnson,0
+2007-03,Jenny Lewis With The Watson Twins,0
+2007-03,Latterman,0
+2007-03,Metric,0
+2007-03,Muse,0
+2007-03,Onelinedrawing,0
+2007-03,Panic At The Disco,0
+2007-03,Queen,0
+2007-03,Rilo Kiley,0
+2007-03,Ryan Adams,0
+2007-03,Smoking Popes,0
+2007-03,Sufjan Stevens,0
+2007-03,Tegan And Sara,0
+2007-03,The Ataris,0
+2007-03,We Are Scientists,0
+2007-04,Against Me!,0
+2007-04,Alkaline Trio,0
+2007-04,Black Rebel Motorcycle Club,0
+2007-04,Damien Rice,0
+2007-04,Devil Doll,0
+2007-04,Jack Johnson,0
+2007-04,Jenny Lewis With The Watson Twins,0
+2007-04,Latterman,0
+2007-04,Metric,0
+2007-04,Muse,0
+2007-04,Onelinedrawing,0
+2007-04,Panic At The Disco,0
+2007-04,Queen,0
+2007-04,Rilo Kiley,0
+2007-04,Ryan Adams,0
+2007-04,Smoking Popes,0
+2007-04,Sufjan Stevens,0
+2007-04,Tegan And Sara,0
+2007-04,The Ataris,0
+2007-04,We Are Scientists,0
+2007-05,Against Me!,0
+2007-05,Alkaline Trio,0
+2007-05,Black Rebel Motorcycle Club,0
+2007-05,Damien Rice,0
+2007-05,Devil Doll,0
+2007-05,Jack Johnson,0
+2007-05,Jenny Lewis With The Watson Twins,0
+2007-05,Latterman,0
+2007-05,Metric,0
+2007-05,Muse,0
+2007-05,Onelinedrawing,0
+2007-05,Panic At The Disco,0
+2007-05,Queen,0
+2007-05,Rilo Kiley,0
+2007-05,Ryan Adams,0
+2007-05,Smoking Popes,0
+2007-05,Sufjan Stevens,0
+2007-05,Tegan And Sara,0
+2007-05,The Ataris,0
+2007-05,We Are Scientists,0
+2007-06,Against Me!,0
+2007-06,Alkaline Trio,0
+2007-06,Black Rebel Motorcycle Club,0
+2007-06,Damien Rice,0
+2007-06,Devil Doll,0
+2007-06,Jack Johnson,0
+2007-06,Jenny Lewis With The Watson Twins,0
+2007-06,Latterman,0
+2007-06,Metric,0
+2007-06,Muse,0
+2007-06,Onelinedrawing,0
+2007-06,Panic At The Disco,0
+2007-06,Queen,0
+2007-06,Rilo Kiley,0
+2007-06,Ryan Adams,0
+2007-06,Smoking Popes,0
+2007-06,Sufjan Stevens,0
+2007-06,Tegan And Sara,0
+2007-06,The Ataris,0
+2007-06,We Are Scientists,0
+2007-07,Against Me!,0
+2007-07,Alkaline Trio,0
+2007-07,Black Rebel Motorcycle Club,0
+2007-07,Damien Rice,0
+2007-07,Devil Doll,0
+2007-07,Jack Johnson,0
+2007-07,Jenny Lewis With The Watson Twins,0
+2007-07,Latterman,0
+2007-07,Metric,0
+2007-07,Muse,0
+2007-07,Onelinedrawing,0
+2007-07,Panic At The Disco,0
+2007-07,Queen,0
+2007-07,Rilo Kiley,0
+2007-07,Ryan Adams,0
+2007-07,Smoking Popes,0
+2007-07,Sufjan Stevens,0
+2007-07,Tegan And Sara,0
+2007-07,The Ataris,0
+2007-07,We Are Scientists,0
+2007-08,Against Me!,0
+2007-08,Alkaline Trio,0
+2007-08,Black Rebel Motorcycle Club,0
+2007-08,Damien Rice,0
+2007-08,Devil Doll,0
+2007-08,Jack Johnson,0
+2007-08,Jenny Lewis With The Watson Twins,0
+2007-08,Latterman,0
+2007-08,Metric,0
+2007-08,Muse,0
+2007-08,Onelinedrawing,0
+2007-08,Panic At The Disco,0
+2007-08,Queen,0
+2007-08,Rilo Kiley,0
+2007-08,Ryan Adams,0
+2007-08,Smoking Popes,0
+2007-08,Sufjan Stevens,0
+2007-08,Tegan And Sara,0
+2007-08,The Ataris,0
+2007-08,We Are Scientists,0
+2007-09,Against Me!,0
+2007-09,Alkaline Trio,0
+2007-09,Black Rebel Motorcycle Club,0
+2007-09,Damien Rice,0
+2007-09,Devil Doll,0
+2007-09,Jack Johnson,0
+2007-09,Jenny Lewis With The Watson Twins,0
+2007-09,Latterman,0
+2007-09,Metric,0
+2007-09,Muse,0
+2007-09,Onelinedrawing,0
+2007-09,Panic At The Disco,0
+2007-09,Queen,0
+2007-09,Rilo Kiley,0
+2007-09,Ryan Adams,0
+2007-09,Smoking Popes,0
+2007-09,Sufjan Stevens,0
+2007-09,Tegan And Sara,0
+2007-09,The Ataris,0
+2007-09,We Are Scientists,0
+2007-10,Against Me!,0
+2007-10,Alkaline Trio,0
+2007-10,Black Rebel Motorcycle Club,0
+2007-10,Damien Rice,0
+2007-10,Devil Doll,0
+2007-10,Jack Johnson,0
+2007-10,Jenny Lewis With The Watson Twins,0
+2007-10,Latterman,0
+2007-10,Metric,0
+2007-10,Muse,0
+2007-10,Onelinedrawing,0
+2007-10,Panic At The Disco,0
+2007-10,Queen,0
+2007-10,Rilo Kiley,0
+2007-10,Ryan Adams,0
+2007-10,Smoking Popes,0
+2007-10,Sufjan Stevens,0
+2007-10,Tegan And Sara,0
+2007-10,The Ataris,0
+2007-10,We Are Scientists,0
+2007-11,Against Me!,0
+2007-11,Alkaline Trio,0
+2007-11,Black Rebel Motorcycle Club,0
+2007-11,Damien Rice,0
+2007-11,Devil Doll,0
+2007-11,Jack Johnson,0
+2007-11,Jenny Lewis With The Watson Twins,0
+2007-11,Latterman,0
+2007-11,Metric,0
+2007-11,Muse,0
+2007-11,Onelinedrawing,0
+2007-11,Panic At The Disco,0
+2007-11,Queen,0
+2007-11,Rilo Kiley,0
+2007-11,Ryan Adams,0
+2007-11,Smoking Popes,0
+2007-11,Sufjan Stevens,0
+2007-11,Tegan And Sara,0
+2007-11,The Ataris,0
+2007-11,We Are Scientists,0
+2007-12,Against Me!,0
+2007-12,Alkaline Trio,0
+2007-12,Black Rebel Motorcycle Club,0
+2007-12,Damien Rice,0
+2007-12,Devil Doll,0
+2007-12,Jack Johnson,0
+2007-12,Jenny Lewis With The Watson Twins,0
+2007-12,Latterman,0
+2007-12,Metric,0
+2007-12,Muse,0
+2007-12,Onelinedrawing,0
+2007-12,Panic At The Disco,0
+2007-12,Queen,0
+2007-12,Rilo Kiley,0
+2007-12,Ryan Adams,0
+2007-12,Smoking Popes,0
+2007-12,Sufjan Stevens,0
+2007-12,Tegan And Sara,0
+2007-12,The Ataris,0
+2007-12,We Are Scientists,0
+2008-01,Against Me!,0
+2008-01,Alkaline Trio,0
+2008-01,Black Rebel Motorcycle Club,0
+2008-01,Damien Rice,0
+2008-01,Devil Doll,0
+2008-01,Jack Johnson,0
+2008-01,Jenny Lewis With The Watson Twins,0
+2008-01,Latterman,0
+2008-01,Metric,0
+2008-01,Muse,0
+2008-01,Onelinedrawing,0
+2008-01,Panic At The Disco,0
+2008-01,Queen,0
+2008-01,Rilo Kiley,0
+2008-01,Ryan Adams,0
+2008-01,Smoking Popes,0
+2008-01,Sufjan Stevens,0
+2008-01,Tegan And Sara,0
+2008-01,The Ataris,0
+2008-01,We Are Scientists,0
+2008-02,Against Me!,0
+2008-02,Alkaline Trio,0
+2008-02,Black Rebel Motorcycle Club,0
+2008-02,Damien Rice,0
+2008-02,Devil Doll,0
+2008-02,Jack Johnson,0
+2008-02,Jenny Lewis With The Watson Twins,0
+2008-02,Latterman,0
+2008-02,Metric,0
+2008-02,Muse,0
+2008-02,Onelinedrawing,0
+2008-02,Panic At The Disco,0
+2008-02,Queen,0
+2008-02,Rilo Kiley,0
+2008-02,Ryan Adams,0
+2008-02,Smoking Popes,0
+2008-02,Sufjan Stevens,0
+2008-02,Tegan And Sara,0
+2008-02,The Ataris,0
+2008-02,We Are Scientists,0
+2008-03,Against Me!,0
+2008-03,Alkaline Trio,0
+2008-03,Black Rebel Motorcycle Club,0
+2008-03,Damien Rice,0
+2008-03,Devil Doll,0
+2008-03,Jack Johnson,0
+2008-03,Jenny Lewis With The Watson Twins,0
+2008-03,Latterman,0
+2008-03,Metric,0
+2008-03,Muse,0
+2008-03,Onelinedrawing,0
+2008-03,Panic At The Disco,0
+2008-03,Queen,0
+2008-03,Rilo Kiley,0
+2008-03,Ryan Adams,0
+2008-03,Smoking Popes,0
+2008-03,Sufjan Stevens,0
+2008-03,Tegan And Sara,0
+2008-03,The Ataris,0
+2008-03,We Are Scientists,0
+2008-04,Against Me!,0
+2008-04,Alkaline Trio,0
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Damien Rice,0
+2008-04,Devil Doll,0
+2008-04,Jack Johnson,0
+2008-04,Jenny Lewis With The Watson Twins,0
+2008-04,Latterman,0
+2008-04,Metric,0
+2008-04,Muse,0
+2008-04,Onelinedrawing,0
+2008-04,Panic At The Disco,0
+2008-04,Queen,0
+2008-04,Rilo Kiley,0
+2008-04,Ryan Adams,0
+2008-04,Smoking Popes,0
+2008-04,Sufjan Stevens,0
+2008-04,Tegan And Sara,0
+2008-04,The Ataris,0
+2008-04,We Are Scientists,0
+2008-05,Against Me!,0
+2008-05,Alkaline Trio,0
+2008-05,Black Rebel Motorcycle Club,0
+2008-05,Damien Rice,0
+2008-05,Devil Doll,0
+2008-05,Jack Johnson,0
+2008-05,Jenny Lewis With The Watson Twins,0
+2008-05,Latterman,0
+2008-05,Metric,0
+2008-05,Muse,0
+2008-05,Onelinedrawing,0
+2008-05,Panic At The Disco,0
+2008-05,Queen,1
+2008-05,Rilo Kiley,0
+2008-05,Ryan Adams,0
+2008-05,Smoking Popes,0
+2008-05,Sufjan Stevens,0
+2008-05,Tegan And Sara,0
+2008-05,The Ataris,0
+2008-05,We Are Scientists,0
+2008-06,Against Me!,0
+2008-06,Alkaline Trio,0
+2008-06,Black Rebel Motorcycle Club,0
+2008-06,Damien Rice,0
+2008-06,Devil Doll,0
+2008-06,Jack Johnson,0
+2008-06,Jenny Lewis With The Watson Twins,0
+2008-06,Latterman,0
+2008-06,Metric,0
+2008-06,Muse,0
+2008-06,Onelinedrawing,0
+2008-06,Panic At The Disco,0
+2008-06,Queen,1
+2008-06,Rilo Kiley,0
+2008-06,Ryan Adams,0
+2008-06,Smoking Popes,0
+2008-06,Sufjan Stevens,0
+2008-06,Tegan And Sara,0
+2008-06,The Ataris,0
+2008-06,We Are Scientists,0

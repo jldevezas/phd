@@ -1,0 +1,241 @@
+month,artist,plays
+2007-01,Ac/Dc,5
+2007-01,Accept,2
+2007-01,Anton Maiden,5
+2007-01,Black Label Society,2
+2007-01,Black Sabbath,14
+2007-01,Blind Guardian,7
+2007-01,Guns N' Roses,3
+2007-01,In Flames,24
+2007-01,Iron Maiden,5
+2007-01,Judas Priest,5
+2007-01,Megadeth,2
+2007-01,Metallica,28
+2007-01,Mötley Crüe,12
+2007-01,Motörhead,7
+2007-01,Nightwish,1
+2007-01,Ozzy Osbourne,3
+2007-01,Pantera,4
+2007-01,Porcupine Tree,13
+2007-01,Slayer,33
+2007-01,Warlock,5
+2007-02,Ac/Dc,11
+2007-02,Accept,0
+2007-02,Anton Maiden,5
+2007-02,Black Label Society,1
+2007-02,Black Sabbath,5
+2007-02,Blind Guardian,3
+2007-02,Guns N' Roses,22
+2007-02,In Flames,19
+2007-02,Iron Maiden,6
+2007-02,Judas Priest,16
+2007-02,Megadeth,2
+2007-02,Metallica,19
+2007-02,Mötley Crüe,12
+2007-02,Motörhead,35
+2007-02,Nightwish,1
+2007-02,Ozzy Osbourne,0
+2007-02,Pantera,12
+2007-02,Porcupine Tree,32
+2007-02,Slayer,29
+2007-02,Warlock,3
+2007-03,Ac/Dc,21
+2007-03,Accept,3
+2007-03,Anton Maiden,5
+2007-03,Black Label Society,1
+2007-03,Black Sabbath,4
+2007-03,Blind Guardian,26
+2007-03,Guns N' Roses,26
+2007-03,In Flames,13
+2007-03,Iron Maiden,6
+2007-03,Judas Priest,8
+2007-03,Megadeth,1
+2007-03,Metallica,9
+2007-03,Mötley Crüe,7
+2007-03,Motörhead,5
+2007-03,Nightwish,2
+2007-03,Ozzy Osbourne,1
+2007-03,Pantera,9
+2007-03,Porcupine Tree,7
+2007-03,Slayer,56
+2007-03,Warlock,2
+2007-04,Ac/Dc,6
+2007-04,Accept,0
+2007-04,Anton Maiden,16
+2007-04,Black Label Society,4
+2007-04,Black Sabbath,17
+2007-04,Blind Guardian,17
+2007-04,Guns N' Roses,2
+2007-04,In Flames,34
+2007-04,Iron Maiden,23
+2007-04,Judas Priest,24
+2007-04,Megadeth,31
+2007-04,Metallica,3
+2007-04,Mötley Crüe,7
+2007-04,Motörhead,15
+2007-04,Nightwish,4
+2007-04,Ozzy Osbourne,7
+2007-04,Pantera,5
+2007-04,Porcupine Tree,28
+2007-04,Slayer,54
+2007-04,Warlock,2
+2007-05,Ac/Dc,22
+2007-05,Accept,1
+2007-05,Anton Maiden,5
+2007-05,Black Label Society,3
+2007-05,Black Sabbath,2
+2007-05,Blind Guardian,30
+2007-05,Guns N' Roses,4
+2007-05,In Flames,33
+2007-05,Iron Maiden,4
+2007-05,Judas Priest,11
+2007-05,Megadeth,1
+2007-05,Metallica,2
+2007-05,Mötley Crüe,4
+2007-05,Motörhead,8
+2007-05,Nightwish,5
+2007-05,Ozzy Osbourne,43
+2007-05,Pantera,67
+2007-05,Porcupine Tree,57
+2007-05,Slayer,86
+2007-05,Warlock,1
+2007-06,Ac/Dc,32
+2007-06,Accept,2
+2007-06,Anton Maiden,24
+2007-06,Black Label Society,3
+2007-06,Black Sabbath,6
+2007-06,Blind Guardian,4
+2007-06,Guns N' Roses,5
+2007-06,In Flames,4
+2007-06,Iron Maiden,34
+2007-06,Judas Priest,6
+2007-06,Megadeth,1
+2007-06,Metallica,17
+2007-06,Mötley Crüe,1
+2007-06,Motörhead,45
+2007-06,Nightwish,0
+2007-06,Ozzy Osbourne,1
+2007-06,Pantera,37
+2007-06,Porcupine Tree,4
+2007-06,Slayer,14
+2007-06,Warlock,3
+2007-07,Ac/Dc,4
+2007-07,Accept,2
+2007-07,Anton Maiden,1
+2007-07,Black Label Society,1
+2007-07,Black Sabbath,2
+2007-07,Blind Guardian,17
+2007-07,Guns N' Roses,25
+2007-07,In Flames,3
+2007-07,Iron Maiden,3
+2007-07,Judas Priest,0
+2007-07,Megadeth,2
+2007-07,Metallica,2
+2007-07,Mötley Crüe,0
+2007-07,Motörhead,2
+2007-07,Nightwish,10
+2007-07,Ozzy Osbourne,0
+2007-07,Pantera,4
+2007-07,Porcupine Tree,3
+2007-07,Slayer,6
+2007-07,Warlock,1
+2007-08,Ac/Dc,1
+2007-08,Accept,1
+2007-08,Anton Maiden,0
+2007-08,Black Label Society,25
+2007-08,Black Sabbath,0
+2007-08,Blind Guardian,1
+2007-08,Guns N' Roses,3
+2007-08,In Flames,1
+2007-08,Iron Maiden,0
+2007-08,Judas Priest,8
+2007-08,Megadeth,2
+2007-08,Metallica,8
+2007-08,Mötley Crüe,28
+2007-08,Motörhead,3
+2007-08,Nightwish,3
+2007-08,Ozzy Osbourne,1
+2007-08,Pantera,14
+2007-08,Porcupine Tree,2
+2007-08,Slayer,3
+2007-08,Warlock,1
+2007-09,Ac/Dc,14
+2007-09,Accept,3
+2007-09,Anton Maiden,5
+2007-09,Black Label Society,2
+2007-09,Black Sabbath,5
+2007-09,Blind Guardian,4
+2007-09,Guns N' Roses,6
+2007-09,In Flames,5
+2007-09,Iron Maiden,3
+2007-09,Judas Priest,5
+2007-09,Megadeth,8
+2007-09,Metallica,8
+2007-09,Mötley Crüe,8
+2007-09,Motörhead,14
+2007-09,Nightwish,5
+2007-09,Ozzy Osbourne,10
+2007-09,Pantera,12
+2007-09,Porcupine Tree,6
+2007-09,Slayer,24
+2007-09,Warlock,3
+2007-10,Ac/Dc,0
+2007-10,Accept,1
+2007-10,Anton Maiden,0
+2007-10,Black Label Society,0
+2007-10,Black Sabbath,1
+2007-10,Blind Guardian,1
+2007-10,Guns N' Roses,1
+2007-10,In Flames,0
+2007-10,Iron Maiden,2
+2007-10,Judas Priest,1
+2007-10,Megadeth,0
+2007-10,Metallica,2
+2007-10,Mötley Crüe,2
+2007-10,Motörhead,2
+2007-10,Nightwish,1
+2007-10,Ozzy Osbourne,7
+2007-10,Pantera,3
+2007-10,Porcupine Tree,0
+2007-10,Slayer,20
+2007-10,Warlock,1
+2007-11,Ac/Dc,0
+2007-11,Accept,0
+2007-11,Anton Maiden,0
+2007-11,Black Label Society,5
+2007-11,Black Sabbath,0
+2007-11,Blind Guardian,0
+2007-11,Guns N' Roses,0
+2007-11,In Flames,0
+2007-11,Iron Maiden,0
+2007-11,Judas Priest,1
+2007-11,Megadeth,0
+2007-11,Metallica,0
+2007-11,Mötley Crüe,0
+2007-11,Motörhead,19
+2007-11,Nightwish,1
+2007-11,Ozzy Osbourne,1
+2007-11,Pantera,0
+2007-11,Porcupine Tree,0
+2007-11,Slayer,0
+2007-11,Warlock,0
+2007-12,Ac/Dc,0
+2007-12,Accept,1
+2007-12,Anton Maiden,1
+2007-12,Black Label Society,4
+2007-12,Black Sabbath,0
+2007-12,Blind Guardian,0
+2007-12,Guns N' Roses,0
+2007-12,In Flames,1
+2007-12,Iron Maiden,1
+2007-12,Judas Priest,4
+2007-12,Megadeth,1
+2007-12,Metallica,0
+2007-12,Mötley Crüe,1
+2007-12,Motörhead,0
+2007-12,Nightwish,1
+2007-12,Ozzy Osbourne,1
+2007-12,Pantera,0
+2007-12,Porcupine Tree,16
+2007-12,Slayer,1
+2007-12,Warlock,0

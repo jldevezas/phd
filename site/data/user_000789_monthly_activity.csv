@@ -1,0 +1,1001 @@
+month,artist,plays
+2005-03,Air,0
+2005-03,Bauhaus,0
+2005-03,Beck,0
+2005-03,Black Rebel Motorcycle Club,0
+2005-03,Blur,0
+2005-03,Curve,0
+2005-03,Depeche Mode,0
+2005-03,Franz Ferdinand,0
+2005-03,Garbage,7
+2005-03,Girls Aloud,0
+2005-03,Goldfrapp,1
+2005-03,Kasabian,0
+2005-03,Kylie Minogue,1
+2005-03,Muse,1
+2005-03,Nine Inch Nails,0
+2005-03,Primal Scream,0
+2005-03,Radiohead,1
+2005-03,The Knife,0
+2005-03,The Vines,0
+2005-03,Yeah Yeah Yeahs,1
+2005-04,Air,0
+2005-04,Bauhaus,0
+2005-04,Beck,0
+2005-04,Black Rebel Motorcycle Club,0
+2005-04,Blur,0
+2005-04,Curve,1
+2005-04,Depeche Mode,0
+2005-04,Franz Ferdinand,0
+2005-04,Garbage,78
+2005-04,Girls Aloud,0
+2005-04,Goldfrapp,1
+2005-04,Kasabian,0
+2005-04,Kylie Minogue,3
+2005-04,Muse,6
+2005-04,Nine Inch Nails,0
+2005-04,Primal Scream,0
+2005-04,Radiohead,3
+2005-04,The Knife,0
+2005-04,The Vines,2
+2005-04,Yeah Yeah Yeahs,1
+2005-05,Air,0
+2005-05,Bauhaus,0
+2005-05,Beck,0
+2005-05,Black Rebel Motorcycle Club,0
+2005-05,Blur,0
+2005-05,Curve,0
+2005-05,Depeche Mode,0
+2005-05,Franz Ferdinand,1
+2005-05,Garbage,37
+2005-05,Girls Aloud,0
+2005-05,Goldfrapp,0
+2005-05,Kasabian,0
+2005-05,Kylie Minogue,0
+2005-05,Muse,0
+2005-05,Nine Inch Nails,0
+2005-05,Primal Scream,0
+2005-05,Radiohead,0
+2005-05,The Knife,0
+2005-05,The Vines,1
+2005-05,Yeah Yeah Yeahs,0
+2005-06,Air,0
+2005-06,Bauhaus,0
+2005-06,Beck,0
+2005-06,Black Rebel Motorcycle Club,0
+2005-06,Blur,0
+2005-06,Curve,0
+2005-06,Depeche Mode,0
+2005-06,Franz Ferdinand,0
+2005-06,Garbage,16
+2005-06,Girls Aloud,0
+2005-06,Goldfrapp,1
+2005-06,Kasabian,0
+2005-06,Kylie Minogue,7
+2005-06,Muse,4
+2005-06,Nine Inch Nails,16
+2005-06,Primal Scream,0
+2005-06,Radiohead,5
+2005-06,The Knife,0
+2005-06,The Vines,0
+2005-06,Yeah Yeah Yeahs,1
+2005-07,Air,0
+2005-07,Bauhaus,0
+2005-07,Beck,0
+2005-07,Black Rebel Motorcycle Club,0
+2005-07,Blur,0
+2005-07,Curve,4
+2005-07,Depeche Mode,0
+2005-07,Franz Ferdinand,0
+2005-07,Garbage,46
+2005-07,Girls Aloud,0
+2005-07,Goldfrapp,0
+2005-07,Kasabian,0
+2005-07,Kylie Minogue,15
+2005-07,Muse,5
+2005-07,Nine Inch Nails,11
+2005-07,Primal Scream,0
+2005-07,Radiohead,14
+2005-07,The Knife,0
+2005-07,The Vines,1
+2005-07,Yeah Yeah Yeahs,0
+2005-08,Air,0
+2005-08,Bauhaus,0
+2005-08,Beck,0
+2005-08,Black Rebel Motorcycle Club,0
+2005-08,Blur,0
+2005-08,Curve,10
+2005-08,Depeche Mode,0
+2005-08,Franz Ferdinand,0
+2005-08,Garbage,4
+2005-08,Girls Aloud,0
+2005-08,Goldfrapp,0
+2005-08,Kasabian,3
+2005-08,Kylie Minogue,0
+2005-08,Muse,8
+2005-08,Nine Inch Nails,11
+2005-08,Primal Scream,0
+2005-08,Radiohead,0
+2005-08,The Knife,0
+2005-08,The Vines,0
+2005-08,Yeah Yeah Yeahs,0
+2005-09,Air,0
+2005-09,Bauhaus,0
+2005-09,Beck,0
+2005-09,Black Rebel Motorcycle Club,0
+2005-09,Blur,0
+2005-09,Curve,0
+2005-09,Depeche Mode,0
+2005-09,Franz Ferdinand,2
+2005-09,Garbage,24
+2005-09,Girls Aloud,0
+2005-09,Goldfrapp,0
+2005-09,Kasabian,0
+2005-09,Kylie Minogue,2
+2005-09,Muse,0
+2005-09,Nine Inch Nails,2
+2005-09,Primal Scream,0
+2005-09,Radiohead,1
+2005-09,The Knife,0
+2005-09,The Vines,0
+2005-09,Yeah Yeah Yeahs,0
+2005-10,Air,0
+2005-10,Bauhaus,0
+2005-10,Beck,1
+2005-10,Black Rebel Motorcycle Club,0
+2005-10,Blur,0
+2005-10,Curve,0
+2005-10,Depeche Mode,0
+2005-10,Franz Ferdinand,1
+2005-10,Garbage,0
+2005-10,Girls Aloud,0
+2005-10,Goldfrapp,0
+2005-10,Kasabian,0
+2005-10,Kylie Minogue,0
+2005-10,Muse,0
+2005-10,Nine Inch Nails,0
+2005-10,Primal Scream,0
+2005-10,Radiohead,0
+2005-10,The Knife,0
+2005-10,The Vines,0
+2005-10,Yeah Yeah Yeahs,0
+2005-11,Air,0
+2005-11,Bauhaus,0
+2005-11,Beck,0
+2005-11,Black Rebel Motorcycle Club,0
+2005-11,Blur,0
+2005-11,Curve,0
+2005-11,Depeche Mode,0
+2005-11,Franz Ferdinand,0
+2005-11,Garbage,0
+2005-11,Girls Aloud,0
+2005-11,Goldfrapp,0
+2005-11,Kasabian,0
+2005-11,Kylie Minogue,0
+2005-11,Muse,0
+2005-11,Nine Inch Nails,0
+2005-11,Primal Scream,0
+2005-11,Radiohead,0
+2005-11,The Knife,0
+2005-11,The Vines,0
+2005-11,Yeah Yeah Yeahs,0
+2005-12,Air,0
+2005-12,Bauhaus,0
+2005-12,Beck,0
+2005-12,Black Rebel Motorcycle Club,0
+2005-12,Blur,0
+2005-12,Curve,0
+2005-12,Depeche Mode,0
+2005-12,Franz Ferdinand,0
+2005-12,Garbage,0
+2005-12,Girls Aloud,0
+2005-12,Goldfrapp,0
+2005-12,Kasabian,0
+2005-12,Kylie Minogue,0
+2005-12,Muse,0
+2005-12,Nine Inch Nails,0
+2005-12,Primal Scream,0
+2005-12,Radiohead,0
+2005-12,The Knife,0
+2005-12,The Vines,0
+2005-12,Yeah Yeah Yeahs,0
+2006-01,Air,0
+2006-01,Bauhaus,0
+2006-01,Beck,0
+2006-01,Black Rebel Motorcycle Club,0
+2006-01,Blur,0
+2006-01,Curve,0
+2006-01,Depeche Mode,0
+2006-01,Franz Ferdinand,0
+2006-01,Garbage,0
+2006-01,Girls Aloud,0
+2006-01,Goldfrapp,0
+2006-01,Kasabian,0
+2006-01,Kylie Minogue,7
+2006-01,Muse,0
+2006-01,Nine Inch Nails,0
+2006-01,Primal Scream,0
+2006-01,Radiohead,0
+2006-01,The Knife,0
+2006-01,The Vines,0
+2006-01,Yeah Yeah Yeahs,0
+2006-02,Air,0
+2006-02,Bauhaus,0
+2006-02,Beck,15
+2006-02,Black Rebel Motorcycle Club,0
+2006-02,Blur,1
+2006-02,Curve,0
+2006-02,Depeche Mode,0
+2006-02,Franz Ferdinand,0
+2006-02,Garbage,0
+2006-02,Girls Aloud,0
+2006-02,Goldfrapp,0
+2006-02,Kasabian,1
+2006-02,Kylie Minogue,0
+2006-02,Muse,0
+2006-02,Nine Inch Nails,1
+2006-02,Primal Scream,0
+2006-02,Radiohead,18
+2006-02,The Knife,0
+2006-02,The Vines,0
+2006-02,Yeah Yeah Yeahs,9
+2006-03,Air,0
+2006-03,Bauhaus,0
+2006-03,Beck,4
+2006-03,Black Rebel Motorcycle Club,0
+2006-03,Blur,1
+2006-03,Curve,12
+2006-03,Depeche Mode,41
+2006-03,Franz Ferdinand,24
+2006-03,Garbage,9
+2006-03,Girls Aloud,3
+2006-03,Goldfrapp,125
+2006-03,Kasabian,7
+2006-03,Kylie Minogue,20
+2006-03,Muse,15
+2006-03,Nine Inch Nails,1
+2006-03,Primal Scream,0
+2006-03,Radiohead,4
+2006-03,The Knife,8
+2006-03,The Vines,35
+2006-03,Yeah Yeah Yeahs,1
+2006-04,Air,4
+2006-04,Bauhaus,0
+2006-04,Beck,0
+2006-04,Black Rebel Motorcycle Club,0
+2006-04,Blur,0
+2006-04,Curve,0
+2006-04,Depeche Mode,48
+2006-04,Franz Ferdinand,105
+2006-04,Garbage,1
+2006-04,Girls Aloud,0
+2006-04,Goldfrapp,12
+2006-04,Kasabian,1
+2006-04,Kylie Minogue,6
+2006-04,Muse,0
+2006-04,Nine Inch Nails,101
+2006-04,Primal Scream,34
+2006-04,Radiohead,6
+2006-04,The Knife,0
+2006-04,The Vines,125
+2006-04,Yeah Yeah Yeahs,133
+2006-05,Air,9
+2006-05,Bauhaus,0
+2006-05,Beck,1
+2006-05,Black Rebel Motorcycle Club,0
+2006-05,Blur,0
+2006-05,Curve,0
+2006-05,Depeche Mode,24
+2006-05,Franz Ferdinand,10
+2006-05,Garbage,3
+2006-05,Girls Aloud,2
+2006-05,Goldfrapp,132
+2006-05,Kasabian,1
+2006-05,Kylie Minogue,7
+2006-05,Muse,23
+2006-05,Nine Inch Nails,3
+2006-05,Primal Scream,18
+2006-05,Radiohead,63
+2006-05,The Knife,1
+2006-05,The Vines,12
+2006-05,Yeah Yeah Yeahs,32
+2006-06,Air,7
+2006-06,Bauhaus,55
+2006-06,Beck,10
+2006-06,Black Rebel Motorcycle Club,0
+2006-06,Blur,89
+2006-06,Curve,0
+2006-06,Depeche Mode,66
+2006-06,Franz Ferdinand,49
+2006-06,Garbage,9
+2006-06,Girls Aloud,1
+2006-06,Goldfrapp,67
+2006-06,Kasabian,3
+2006-06,Kylie Minogue,56
+2006-06,Muse,25
+2006-06,Nine Inch Nails,44
+2006-06,Primal Scream,3
+2006-06,Radiohead,19
+2006-06,The Knife,2
+2006-06,The Vines,10
+2006-06,Yeah Yeah Yeahs,23
+2006-07,Air,3
+2006-07,Bauhaus,0
+2006-07,Beck,1
+2006-07,Black Rebel Motorcycle Club,0
+2006-07,Blur,21
+2006-07,Curve,0
+2006-07,Depeche Mode,1
+2006-07,Franz Ferdinand,21
+2006-07,Garbage,13
+2006-07,Girls Aloud,0
+2006-07,Goldfrapp,28
+2006-07,Kasabian,101
+2006-07,Kylie Minogue,3
+2006-07,Muse,82
+2006-07,Nine Inch Nails,0
+2006-07,Primal Scream,0
+2006-07,Radiohead,5
+2006-07,The Knife,0
+2006-07,The Vines,5
+2006-07,Yeah Yeah Yeahs,159
+2006-08,Air,121
+2006-08,Bauhaus,394
+2006-08,Beck,7
+2006-08,Black Rebel Motorcycle Club,11
+2006-08,Blur,16
+2006-08,Curve,0
+2006-08,Depeche Mode,0
+2006-08,Franz Ferdinand,111
+2006-08,Garbage,13
+2006-08,Girls Aloud,0
+2006-08,Goldfrapp,14
+2006-08,Kasabian,47
+2006-08,Kylie Minogue,5
+2006-08,Muse,0
+2006-08,Nine Inch Nails,0
+2006-08,Primal Scream,61
+2006-08,Radiohead,0
+2006-08,The Knife,22
+2006-08,The Vines,0
+2006-08,Yeah Yeah Yeahs,28
+2006-09,Air,79
+2006-09,Bauhaus,169
+2006-09,Beck,6
+2006-09,Black Rebel Motorcycle Club,34
+2006-09,Blur,70
+2006-09,Curve,24
+2006-09,Depeche Mode,181
+2006-09,Franz Ferdinand,27
+2006-09,Garbage,97
+2006-09,Girls Aloud,0
+2006-09,Goldfrapp,250
+2006-09,Kasabian,134
+2006-09,Kylie Minogue,0
+2006-09,Muse,30
+2006-09,Nine Inch Nails,0
+2006-09,Primal Scream,135
+2006-09,Radiohead,0
+2006-09,The Knife,68
+2006-09,The Vines,16
+2006-09,Yeah Yeah Yeahs,0
+2006-10,Air,26
+2006-10,Bauhaus,41
+2006-10,Beck,0
+2006-10,Black Rebel Motorcycle Club,48
+2006-10,Blur,39
+2006-10,Curve,56
+2006-10,Depeche Mode,25
+2006-10,Franz Ferdinand,13
+2006-10,Garbage,2
+2006-10,Girls Aloud,21
+2006-10,Goldfrapp,21
+2006-10,Kasabian,16
+2006-10,Kylie Minogue,0
+2006-10,Muse,16
+2006-10,Nine Inch Nails,0
+2006-10,Primal Scream,33
+2006-10,Radiohead,83
+2006-10,The Knife,3
+2006-10,The Vines,0
+2006-10,Yeah Yeah Yeahs,26
+2006-11,Air,51
+2006-11,Bauhaus,25
+2006-11,Beck,7
+2006-11,Black Rebel Motorcycle Club,27
+2006-11,Blur,98
+2006-11,Curve,23
+2006-11,Depeche Mode,58
+2006-11,Franz Ferdinand,14
+2006-11,Garbage,6
+2006-11,Girls Aloud,314
+2006-11,Goldfrapp,58
+2006-11,Kasabian,15
+2006-11,Kylie Minogue,24
+2006-11,Muse,2
+2006-11,Nine Inch Nails,0
+2006-11,Primal Scream,34
+2006-11,Radiohead,18
+2006-11,The Knife,2
+2006-11,The Vines,0
+2006-11,Yeah Yeah Yeahs,0
+2006-12,Air,1
+2006-12,Bauhaus,64
+2006-12,Beck,1
+2006-12,Black Rebel Motorcycle Club,30
+2006-12,Blur,0
+2006-12,Curve,0
+2006-12,Depeche Mode,0
+2006-12,Franz Ferdinand,0
+2006-12,Garbage,75
+2006-12,Girls Aloud,65
+2006-12,Goldfrapp,11
+2006-12,Kasabian,12
+2006-12,Kylie Minogue,2
+2006-12,Muse,42
+2006-12,Nine Inch Nails,3
+2006-12,Primal Scream,22
+2006-12,Radiohead,12
+2006-12,The Knife,13
+2006-12,The Vines,2
+2006-12,Yeah Yeah Yeahs,4
+2007-01,Air,53
+2007-01,Bauhaus,17
+2007-01,Beck,0
+2007-01,Black Rebel Motorcycle Club,47
+2007-01,Blur,1
+2007-01,Curve,1
+2007-01,Depeche Mode,0
+2007-01,Franz Ferdinand,4
+2007-01,Garbage,15
+2007-01,Girls Aloud,19
+2007-01,Goldfrapp,0
+2007-01,Kasabian,19
+2007-01,Kylie Minogue,17
+2007-01,Muse,25
+2007-01,Nine Inch Nails,0
+2007-01,Primal Scream,32
+2007-01,Radiohead,16
+2007-01,The Knife,46
+2007-01,The Vines,0
+2007-01,Yeah Yeah Yeahs,0
+2007-02,Air,1
+2007-02,Bauhaus,1
+2007-02,Beck,0
+2007-02,Black Rebel Motorcycle Club,24
+2007-02,Blur,0
+2007-02,Curve,0
+2007-02,Depeche Mode,24
+2007-02,Franz Ferdinand,13
+2007-02,Garbage,0
+2007-02,Girls Aloud,120
+2007-02,Goldfrapp,18
+2007-02,Kasabian,33
+2007-02,Kylie Minogue,46
+2007-02,Muse,28
+2007-02,Nine Inch Nails,38
+2007-02,Primal Scream,20
+2007-02,Radiohead,0
+2007-02,The Knife,28
+2007-02,The Vines,0
+2007-02,Yeah Yeah Yeahs,20
+2007-03,Air,2
+2007-03,Bauhaus,2
+2007-03,Beck,0
+2007-03,Black Rebel Motorcycle Club,4
+2007-03,Blur,0
+2007-03,Curve,1
+2007-03,Depeche Mode,0
+2007-03,Franz Ferdinand,0
+2007-03,Garbage,0
+2007-03,Girls Aloud,10
+2007-03,Goldfrapp,0
+2007-03,Kasabian,0
+2007-03,Kylie Minogue,26
+2007-03,Muse,0
+2007-03,Nine Inch Nails,1
+2007-03,Primal Scream,0
+2007-03,Radiohead,0
+2007-03,The Knife,3
+2007-03,The Vines,1
+2007-03,Yeah Yeah Yeahs,1
+2007-04,Air,3
+2007-04,Bauhaus,2
+2007-04,Beck,0
+2007-04,Black Rebel Motorcycle Club,17
+2007-04,Blur,110
+2007-04,Curve,1
+2007-04,Depeche Mode,0
+2007-04,Franz Ferdinand,17
+2007-04,Garbage,1
+2007-04,Girls Aloud,100
+2007-04,Goldfrapp,0
+2007-04,Kasabian,46
+2007-04,Kylie Minogue,21
+2007-04,Muse,19
+2007-04,Nine Inch Nails,37
+2007-04,Primal Scream,21
+2007-04,Radiohead,0
+2007-04,The Knife,3
+2007-04,The Vines,1
+2007-04,Yeah Yeah Yeahs,1
+2007-05,Air,10
+2007-05,Bauhaus,0
+2007-05,Beck,0
+2007-05,Black Rebel Motorcycle Club,25
+2007-05,Blur,34
+2007-05,Curve,0
+2007-05,Depeche Mode,1
+2007-05,Franz Ferdinand,0
+2007-05,Garbage,19
+2007-05,Girls Aloud,30
+2007-05,Goldfrapp,0
+2007-05,Kasabian,3
+2007-05,Kylie Minogue,11
+2007-05,Muse,0
+2007-05,Nine Inch Nails,0
+2007-05,Primal Scream,1
+2007-05,Radiohead,1
+2007-05,The Knife,0
+2007-05,The Vines,0
+2007-05,Yeah Yeah Yeahs,2
+2007-06,Air,1
+2007-06,Bauhaus,0
+2007-06,Beck,15
+2007-06,Black Rebel Motorcycle Club,29
+2007-06,Blur,2
+2007-06,Curve,0
+2007-06,Depeche Mode,1
+2007-06,Franz Ferdinand,1
+2007-06,Garbage,8
+2007-06,Girls Aloud,9
+2007-06,Goldfrapp,1
+2007-06,Kasabian,0
+2007-06,Kylie Minogue,3
+2007-06,Muse,1
+2007-06,Nine Inch Nails,1
+2007-06,Primal Scream,0
+2007-06,Radiohead,2
+2007-06,The Knife,1
+2007-06,The Vines,0
+2007-06,Yeah Yeah Yeahs,2
+2007-07,Air,0
+2007-07,Bauhaus,0
+2007-07,Beck,0
+2007-07,Black Rebel Motorcycle Club,0
+2007-07,Blur,0
+2007-07,Curve,0
+2007-07,Depeche Mode,0
+2007-07,Franz Ferdinand,0
+2007-07,Garbage,12
+2007-07,Girls Aloud,31
+2007-07,Goldfrapp,0
+2007-07,Kasabian,0
+2007-07,Kylie Minogue,0
+2007-07,Muse,0
+2007-07,Nine Inch Nails,0
+2007-07,Primal Scream,0
+2007-07,Radiohead,0
+2007-07,The Knife,0
+2007-07,The Vines,0
+2007-07,Yeah Yeah Yeahs,11
+2007-08,Air,0
+2007-08,Bauhaus,15
+2007-08,Beck,0
+2007-08,Black Rebel Motorcycle Club,2
+2007-08,Blur,0
+2007-08,Curve,0
+2007-08,Depeche Mode,0
+2007-08,Franz Ferdinand,0
+2007-08,Garbage,37
+2007-08,Girls Aloud,20
+2007-08,Goldfrapp,0
+2007-08,Kasabian,0
+2007-08,Kylie Minogue,0
+2007-08,Muse,11
+2007-08,Nine Inch Nails,0
+2007-08,Primal Scream,0
+2007-08,Radiohead,0
+2007-08,The Knife,0
+2007-08,The Vines,0
+2007-08,Yeah Yeah Yeahs,5
+2007-09,Air,1
+2007-09,Bauhaus,1
+2007-09,Beck,0
+2007-09,Black Rebel Motorcycle Club,5
+2007-09,Blur,5
+2007-09,Curve,1
+2007-09,Depeche Mode,0
+2007-09,Franz Ferdinand,5
+2007-09,Garbage,1
+2007-09,Girls Aloud,40
+2007-09,Goldfrapp,0
+2007-09,Kasabian,1
+2007-09,Kylie Minogue,3
+2007-09,Muse,2
+2007-09,Nine Inch Nails,0
+2007-09,Primal Scream,28
+2007-09,Radiohead,1
+2007-09,The Knife,2
+2007-09,The Vines,0
+2007-09,Yeah Yeah Yeahs,0
+2007-10,Air,0
+2007-10,Bauhaus,0
+2007-10,Beck,1
+2007-10,Black Rebel Motorcycle Club,14
+2007-10,Blur,0
+2007-10,Curve,0
+2007-10,Depeche Mode,0
+2007-10,Franz Ferdinand,2
+2007-10,Garbage,0
+2007-10,Girls Aloud,27
+2007-10,Goldfrapp,0
+2007-10,Kasabian,1
+2007-10,Kylie Minogue,29
+2007-10,Muse,0
+2007-10,Nine Inch Nails,0
+2007-10,Primal Scream,7
+2007-10,Radiohead,44
+2007-10,The Knife,0
+2007-10,The Vines,1
+2007-10,Yeah Yeah Yeahs,0
+2007-11,Air,3
+2007-11,Bauhaus,0
+2007-11,Beck,4
+2007-11,Black Rebel Motorcycle Club,4
+2007-11,Blur,2
+2007-11,Curve,0
+2007-11,Depeche Mode,1
+2007-11,Franz Ferdinand,1
+2007-11,Garbage,6
+2007-11,Girls Aloud,191
+2007-11,Goldfrapp,14
+2007-11,Kasabian,15
+2007-11,Kylie Minogue,40
+2007-11,Muse,0
+2007-11,Nine Inch Nails,71
+2007-11,Primal Scream,0
+2007-11,Radiohead,18
+2007-11,The Knife,0
+2007-11,The Vines,0
+2007-11,Yeah Yeah Yeahs,4
+2007-12,Air,25
+2007-12,Bauhaus,9
+2007-12,Beck,3
+2007-12,Black Rebel Motorcycle Club,2
+2007-12,Blur,2
+2007-12,Curve,0
+2007-12,Depeche Mode,3
+2007-12,Franz Ferdinand,0
+2007-12,Garbage,6
+2007-12,Girls Aloud,136
+2007-12,Goldfrapp,27
+2007-12,Kasabian,7
+2007-12,Kylie Minogue,51
+2007-12,Muse,2
+2007-12,Nine Inch Nails,0
+2007-12,Primal Scream,0
+2007-12,Radiohead,2
+2007-12,The Knife,2
+2007-12,The Vines,0
+2007-12,Yeah Yeah Yeahs,1
+2008-01,Air,1
+2008-01,Bauhaus,91
+2008-01,Beck,1
+2008-01,Black Rebel Motorcycle Club,2
+2008-01,Blur,0
+2008-01,Curve,0
+2008-01,Depeche Mode,1
+2008-01,Franz Ferdinand,5
+2008-01,Garbage,2
+2008-01,Girls Aloud,0
+2008-01,Goldfrapp,1
+2008-01,Kasabian,1
+2008-01,Kylie Minogue,0
+2008-01,Muse,0
+2008-01,Nine Inch Nails,0
+2008-01,Primal Scream,0
+2008-01,Radiohead,11
+2008-01,The Knife,0
+2008-01,The Vines,0
+2008-01,Yeah Yeah Yeahs,0
+2008-02,Air,0
+2008-02,Bauhaus,9
+2008-02,Beck,0
+2008-02,Black Rebel Motorcycle Club,0
+2008-02,Blur,0
+2008-02,Curve,0
+2008-02,Depeche Mode,1
+2008-02,Franz Ferdinand,0
+2008-02,Garbage,0
+2008-02,Girls Aloud,12
+2008-02,Goldfrapp,10
+2008-02,Kasabian,0
+2008-02,Kylie Minogue,4
+2008-02,Muse,0
+2008-02,Nine Inch Nails,0
+2008-02,Primal Scream,0
+2008-02,Radiohead,9
+2008-02,The Knife,0
+2008-02,The Vines,0
+2008-02,Yeah Yeah Yeahs,0
+2008-03,Air,0
+2008-03,Bauhaus,45
+2008-03,Beck,0
+2008-03,Black Rebel Motorcycle Club,0
+2008-03,Blur,0
+2008-03,Curve,28
+2008-03,Depeche Mode,0
+2008-03,Franz Ferdinand,0
+2008-03,Garbage,0
+2008-03,Girls Aloud,28
+2008-03,Goldfrapp,1
+2008-03,Kasabian,0
+2008-03,Kylie Minogue,18
+2008-03,Muse,0
+2008-03,Nine Inch Nails,0
+2008-03,Primal Scream,0
+2008-03,Radiohead,0
+2008-03,The Knife,0
+2008-03,The Vines,0
+2008-03,Yeah Yeah Yeahs,1
+2008-04,Air,0
+2008-04,Bauhaus,16
+2008-04,Beck,1
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Blur,1
+2008-04,Curve,5
+2008-04,Depeche Mode,12
+2008-04,Franz Ferdinand,0
+2008-04,Garbage,36
+2008-04,Girls Aloud,4
+2008-04,Goldfrapp,0
+2008-04,Kasabian,2
+2008-04,Kylie Minogue,31
+2008-04,Muse,0
+2008-04,Nine Inch Nails,6
+2008-04,Primal Scream,1
+2008-04,Radiohead,4
+2008-04,The Knife,0
+2008-04,The Vines,1
+2008-04,Yeah Yeah Yeahs,1
+2008-05,Air,1
+2008-05,Bauhaus,2
+2008-05,Beck,0
+2008-05,Black Rebel Motorcycle Club,1
+2008-05,Blur,3
+2008-05,Curve,5
+2008-05,Depeche Mode,1
+2008-05,Franz Ferdinand,2
+2008-05,Garbage,1
+2008-05,Girls Aloud,2
+2008-05,Goldfrapp,0
+2008-05,Kasabian,0
+2008-05,Kylie Minogue,6
+2008-05,Muse,0
+2008-05,Nine Inch Nails,13
+2008-05,Primal Scream,0
+2008-05,Radiohead,0
+2008-05,The Knife,0
+2008-05,The Vines,2
+2008-05,Yeah Yeah Yeahs,0
+2008-06,Air,6
+2008-06,Bauhaus,5
+2008-06,Beck,2
+2008-06,Black Rebel Motorcycle Club,5
+2008-06,Blur,5
+2008-06,Curve,3
+2008-06,Depeche Mode,7
+2008-06,Franz Ferdinand,5
+2008-06,Garbage,6
+2008-06,Girls Aloud,182
+2008-06,Goldfrapp,7
+2008-06,Kasabian,8
+2008-06,Kylie Minogue,18
+2008-06,Muse,1
+2008-06,Nine Inch Nails,13
+2008-06,Primal Scream,5
+2008-06,Radiohead,0
+2008-06,The Knife,5
+2008-06,The Vines,8
+2008-06,Yeah Yeah Yeahs,0
+2008-07,Air,3
+2008-07,Bauhaus,4
+2008-07,Beck,51
+2008-07,Black Rebel Motorcycle Club,13
+2008-07,Blur,6
+2008-07,Curve,1
+2008-07,Depeche Mode,5
+2008-07,Franz Ferdinand,5
+2008-07,Garbage,3
+2008-07,Girls Aloud,66
+2008-07,Goldfrapp,6
+2008-07,Kasabian,8
+2008-07,Kylie Minogue,11
+2008-07,Muse,6
+2008-07,Nine Inch Nails,16
+2008-07,Primal Scream,3
+2008-07,Radiohead,11
+2008-07,The Knife,11
+2008-07,The Vines,18
+2008-07,Yeah Yeah Yeahs,3
+2008-08,Air,10
+2008-08,Bauhaus,3
+2008-08,Beck,7
+2008-08,Black Rebel Motorcycle Club,16
+2008-08,Blur,1
+2008-08,Curve,0
+2008-08,Depeche Mode,7
+2008-08,Franz Ferdinand,8
+2008-08,Garbage,3
+2008-08,Girls Aloud,42
+2008-08,Goldfrapp,1
+2008-08,Kasabian,6
+2008-08,Kylie Minogue,9
+2008-08,Muse,3
+2008-08,Nine Inch Nails,4
+2008-08,Primal Scream,41
+2008-08,Radiohead,4
+2008-08,The Knife,3
+2008-08,The Vines,1
+2008-08,Yeah Yeah Yeahs,0
+2008-09,Air,7
+2008-09,Bauhaus,7
+2008-09,Beck,6
+2008-09,Black Rebel Motorcycle Club,2
+2008-09,Blur,3
+2008-09,Curve,4
+2008-09,Depeche Mode,2
+2008-09,Franz Ferdinand,7
+2008-09,Garbage,5
+2008-09,Girls Aloud,34
+2008-09,Goldfrapp,1
+2008-09,Kasabian,4
+2008-09,Kylie Minogue,3
+2008-09,Muse,2
+2008-09,Nine Inch Nails,5
+2008-09,Primal Scream,17
+2008-09,Radiohead,3
+2008-09,The Knife,4
+2008-09,The Vines,3
+2008-09,Yeah Yeah Yeahs,1
+2008-10,Air,1
+2008-10,Bauhaus,6
+2008-10,Beck,4
+2008-10,Black Rebel Motorcycle Club,3
+2008-10,Blur,16
+2008-10,Curve,1
+2008-10,Depeche Mode,10
+2008-10,Franz Ferdinand,31
+2008-10,Garbage,21
+2008-10,Girls Aloud,178
+2008-10,Goldfrapp,2
+2008-10,Kasabian,18
+2008-10,Kylie Minogue,2
+2008-10,Muse,8
+2008-10,Nine Inch Nails,4
+2008-10,Primal Scream,9
+2008-10,Radiohead,1
+2008-10,The Knife,1
+2008-10,The Vines,5
+2008-10,Yeah Yeah Yeahs,2
+2008-11,Air,1
+2008-11,Bauhaus,41
+2008-11,Beck,2
+2008-11,Black Rebel Motorcycle Club,2
+2008-11,Blur,0
+2008-11,Curve,55
+2008-11,Depeche Mode,22
+2008-11,Franz Ferdinand,15
+2008-11,Garbage,8
+2008-11,Girls Aloud,89
+2008-11,Goldfrapp,3
+2008-11,Kasabian,12
+2008-11,Kylie Minogue,1
+2008-11,Muse,0
+2008-11,Nine Inch Nails,37
+2008-11,Primal Scream,9
+2008-11,Radiohead,0
+2008-11,The Knife,6
+2008-11,The Vines,5
+2008-11,Yeah Yeah Yeahs,3
+2008-12,Air,0
+2008-12,Bauhaus,7
+2008-12,Beck,1
+2008-12,Black Rebel Motorcycle Club,2
+2008-12,Blur,35
+2008-12,Curve,5
+2008-12,Depeche Mode,1
+2008-12,Franz Ferdinand,5
+2008-12,Garbage,15
+2008-12,Girls Aloud,44
+2008-12,Goldfrapp,2
+2008-12,Kasabian,5
+2008-12,Kylie Minogue,0
+2008-12,Muse,1
+2008-12,Nine Inch Nails,15
+2008-12,Primal Scream,6
+2008-12,Radiohead,2
+2008-12,The Knife,1
+2008-12,The Vines,3
+2008-12,Yeah Yeah Yeahs,0
+2009-01,Air,1
+2009-01,Bauhaus,2
+2009-01,Beck,8
+2009-01,Black Rebel Motorcycle Club,4
+2009-01,Blur,10
+2009-01,Curve,58
+2009-01,Depeche Mode,5
+2009-01,Franz Ferdinand,144
+2009-01,Garbage,8
+2009-01,Girls Aloud,62
+2009-01,Goldfrapp,4
+2009-01,Kasabian,14
+2009-01,Kylie Minogue,0
+2009-01,Muse,2
+2009-01,Nine Inch Nails,6
+2009-01,Primal Scream,14
+2009-01,Radiohead,0
+2009-01,The Knife,8
+2009-01,The Vines,6
+2009-01,Yeah Yeah Yeahs,2
+2009-02,Air,3
+2009-02,Bauhaus,4
+2009-02,Beck,3
+2009-02,Black Rebel Motorcycle Club,2
+2009-02,Blur,9
+2009-02,Curve,6
+2009-02,Depeche Mode,18
+2009-02,Franz Ferdinand,22
+2009-02,Garbage,0
+2009-02,Girls Aloud,109
+2009-02,Goldfrapp,0
+2009-02,Kasabian,21
+2009-02,Kylie Minogue,1
+2009-02,Muse,1
+2009-02,Nine Inch Nails,35
+2009-02,Primal Scream,47
+2009-02,Radiohead,38
+2009-02,The Knife,3
+2009-02,The Vines,3
+2009-02,Yeah Yeah Yeahs,62
+2009-03,Air,1
+2009-03,Bauhaus,2
+2009-03,Beck,2
+2009-03,Black Rebel Motorcycle Club,1
+2009-03,Blur,1
+2009-03,Curve,7
+2009-03,Depeche Mode,2
+2009-03,Franz Ferdinand,3
+2009-03,Garbage,80
+2009-03,Girls Aloud,35
+2009-03,Goldfrapp,0
+2009-03,Kasabian,12
+2009-03,Kylie Minogue,1
+2009-03,Muse,5
+2009-03,Nine Inch Nails,15
+2009-03,Primal Scream,4
+2009-03,Radiohead,7
+2009-03,The Knife,2
+2009-03,The Vines,3
+2009-03,Yeah Yeah Yeahs,32
+2009-04,Air,2
+2009-04,Bauhaus,1
+2009-04,Beck,3
+2009-04,Black Rebel Motorcycle Club,1
+2009-04,Blur,1
+2009-04,Curve,6
+2009-04,Depeche Mode,10
+2009-04,Franz Ferdinand,6
+2009-04,Garbage,0
+2009-04,Girls Aloud,14
+2009-04,Goldfrapp,0
+2009-04,Kasabian,17
+2009-04,Kylie Minogue,2
+2009-04,Muse,2
+2009-04,Nine Inch Nails,5
+2009-04,Primal Scream,2
+2009-04,Radiohead,0
+2009-04,The Knife,9
+2009-04,The Vines,4
+2009-04,Yeah Yeah Yeahs,4

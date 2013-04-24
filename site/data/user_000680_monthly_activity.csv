@@ -1,0 +1,621 @@
+month,artist,plays
+2006-10,16 Horsepower,50
+2006-10,Andrew Bird,0
+2006-10,Band Of Horses,5
+2006-10,Bonnie 'Prince' Billy,15
+2006-10,Cat Power,1
+2006-10,Centro-Matic,4
+2006-10,Chris Bathgate,23
+2006-10,Damien Jurado,10
+2006-10,Don Mcmillan,19
+2006-10,Hank Williams,0
+2006-10,Jason Molina,12
+2006-10,Magnolia Electric Co.,2
+2006-10,My Morning Jacket,5
+2006-10,Patty Griffin,9
+2006-10,Pleasant Grove,25
+2006-10,Son Volt,0
+2006-10,Songs: Ohia,15
+2006-10,The Be Good Tanyas,5
+2006-10,Tori Amos,16
+2006-10,Townes Van Zandt,2
+2006-11,16 Horsepower,45
+2006-11,Andrew Bird,1
+2006-11,Band Of Horses,29
+2006-11,Bonnie 'Prince' Billy,278
+2006-11,Cat Power,14
+2006-11,Centro-Matic,25
+2006-11,Chris Bathgate,87
+2006-11,Damien Jurado,116
+2006-11,Don Mcmillan,216
+2006-11,Hank Williams,46
+2006-11,Jason Molina,62
+2006-11,Magnolia Electric Co.,174
+2006-11,My Morning Jacket,13
+2006-11,Patty Griffin,27
+2006-11,Pleasant Grove,116
+2006-11,Son Volt,1
+2006-11,Songs: Ohia,81
+2006-11,The Be Good Tanyas,28
+2006-11,Tori Amos,77
+2006-11,Townes Van Zandt,147
+2006-12,16 Horsepower,97
+2006-12,Andrew Bird,0
+2006-12,Band Of Horses,110
+2006-12,Bonnie 'Prince' Billy,391
+2006-12,Cat Power,27
+2006-12,Centro-Matic,38
+2006-12,Chris Bathgate,119
+2006-12,Damien Jurado,87
+2006-12,Don Mcmillan,81
+2006-12,Hank Williams,18
+2006-12,Jason Molina,145
+2006-12,Magnolia Electric Co.,65
+2006-12,My Morning Jacket,38
+2006-12,Patty Griffin,38
+2006-12,Pleasant Grove,139
+2006-12,Son Volt,1
+2006-12,Songs: Ohia,186
+2006-12,The Be Good Tanyas,17
+2006-12,Tori Amos,27
+2006-12,Townes Van Zandt,195
+2007-01,16 Horsepower,14
+2007-01,Andrew Bird,25
+2007-01,Band Of Horses,173
+2007-01,Bonnie 'Prince' Billy,6
+2007-01,Cat Power,10
+2007-01,Centro-Matic,11
+2007-01,Chris Bathgate,99
+2007-01,Damien Jurado,132
+2007-01,Don Mcmillan,49
+2007-01,Hank Williams,18
+2007-01,Jason Molina,137
+2007-01,Magnolia Electric Co.,56
+2007-01,My Morning Jacket,6
+2007-01,Patty Griffin,21
+2007-01,Pleasant Grove,64
+2007-01,Son Volt,2
+2007-01,Songs: Ohia,96
+2007-01,The Be Good Tanyas,16
+2007-01,Tori Amos,94
+2007-01,Townes Van Zandt,137
+2007-02,16 Horsepower,8
+2007-02,Andrew Bird,42
+2007-02,Band Of Horses,51
+2007-02,Bonnie 'Prince' Billy,56
+2007-02,Cat Power,7
+2007-02,Centro-Matic,25
+2007-02,Chris Bathgate,31
+2007-02,Damien Jurado,116
+2007-02,Don Mcmillan,14
+2007-02,Hank Williams,0
+2007-02,Jason Molina,44
+2007-02,Magnolia Electric Co.,26
+2007-02,My Morning Jacket,1
+2007-02,Patty Griffin,24
+2007-02,Pleasant Grove,77
+2007-02,Son Volt,1
+2007-02,Songs: Ohia,82
+2007-02,The Be Good Tanyas,27
+2007-02,Tori Amos,14
+2007-02,Townes Van Zandt,60
+2007-03,16 Horsepower,33
+2007-03,Andrew Bird,41
+2007-03,Band Of Horses,16
+2007-03,Bonnie 'Prince' Billy,40
+2007-03,Cat Power,1
+2007-03,Centro-Matic,37
+2007-03,Chris Bathgate,82
+2007-03,Damien Jurado,105
+2007-03,Don Mcmillan,14
+2007-03,Hank Williams,9
+2007-03,Jason Molina,94
+2007-03,Magnolia Electric Co.,20
+2007-03,My Morning Jacket,53
+2007-03,Patty Griffin,53
+2007-03,Pleasant Grove,60
+2007-03,Son Volt,12
+2007-03,Songs: Ohia,91
+2007-03,The Be Good Tanyas,54
+2007-03,Tori Amos,26
+2007-03,Townes Van Zandt,89
+2007-04,16 Horsepower,23
+2007-04,Andrew Bird,7
+2007-04,Band Of Horses,20
+2007-04,Bonnie 'Prince' Billy,19
+2007-04,Cat Power,26
+2007-04,Centro-Matic,0
+2007-04,Chris Bathgate,39
+2007-04,Damien Jurado,109
+2007-04,Don Mcmillan,15
+2007-04,Hank Williams,27
+2007-04,Jason Molina,64
+2007-04,Magnolia Electric Co.,46
+2007-04,My Morning Jacket,9
+2007-04,Patty Griffin,56
+2007-04,Pleasant Grove,31
+2007-04,Son Volt,0
+2007-04,Songs: Ohia,14
+2007-04,The Be Good Tanyas,17
+2007-04,Tori Amos,35
+2007-04,Townes Van Zandt,54
+2007-05,16 Horsepower,15
+2007-05,Andrew Bird,34
+2007-05,Band Of Horses,6
+2007-05,Bonnie 'Prince' Billy,25
+2007-05,Cat Power,21
+2007-05,Centro-Matic,97
+2007-05,Chris Bathgate,15
+2007-05,Damien Jurado,46
+2007-05,Don Mcmillan,4
+2007-05,Hank Williams,11
+2007-05,Jason Molina,31
+2007-05,Magnolia Electric Co.,9
+2007-05,My Morning Jacket,0
+2007-05,Patty Griffin,4
+2007-05,Pleasant Grove,32
+2007-05,Son Volt,137
+2007-05,Songs: Ohia,24
+2007-05,The Be Good Tanyas,3
+2007-05,Tori Amos,6
+2007-05,Townes Van Zandt,24
+2007-06,16 Horsepower,50
+2007-06,Andrew Bird,1
+2007-06,Band Of Horses,19
+2007-06,Bonnie 'Prince' Billy,12
+2007-06,Cat Power,1
+2007-06,Centro-Matic,121
+2007-06,Chris Bathgate,18
+2007-06,Damien Jurado,16
+2007-06,Don Mcmillan,2
+2007-06,Hank Williams,2
+2007-06,Jason Molina,47
+2007-06,Magnolia Electric Co.,91
+2007-06,My Morning Jacket,3
+2007-06,Patty Griffin,21
+2007-06,Pleasant Grove,20
+2007-06,Son Volt,268
+2007-06,Songs: Ohia,273
+2007-06,The Be Good Tanyas,4
+2007-06,Tori Amos,3
+2007-06,Townes Van Zandt,3
+2007-07,16 Horsepower,1
+2007-07,Andrew Bird,12
+2007-07,Band Of Horses,1
+2007-07,Bonnie 'Prince' Billy,31
+2007-07,Cat Power,5
+2007-07,Centro-Matic,25
+2007-07,Chris Bathgate,3
+2007-07,Damien Jurado,3
+2007-07,Don Mcmillan,0
+2007-07,Hank Williams,3
+2007-07,Jason Molina,2
+2007-07,Magnolia Electric Co.,4
+2007-07,My Morning Jacket,32
+2007-07,Patty Griffin,0
+2007-07,Pleasant Grove,0
+2007-07,Son Volt,0
+2007-07,Songs: Ohia,0
+2007-07,The Be Good Tanyas,4
+2007-07,Tori Amos,1
+2007-07,Townes Van Zandt,1
+2007-08,16 Horsepower,34
+2007-08,Andrew Bird,57
+2007-08,Band Of Horses,4
+2007-08,Bonnie 'Prince' Billy,11
+2007-08,Cat Power,3
+2007-08,Centro-Matic,57
+2007-08,Chris Bathgate,4
+2007-08,Damien Jurado,10
+2007-08,Don Mcmillan,1
+2007-08,Hank Williams,2
+2007-08,Jason Molina,46
+2007-08,Magnolia Electric Co.,152
+2007-08,My Morning Jacket,3
+2007-08,Patty Griffin,5
+2007-08,Pleasant Grove,32
+2007-08,Son Volt,51
+2007-08,Songs: Ohia,60
+2007-08,The Be Good Tanyas,2
+2007-08,Tori Amos,24
+2007-08,Townes Van Zandt,2
+2007-09,16 Horsepower,4
+2007-09,Andrew Bird,6
+2007-09,Band Of Horses,4
+2007-09,Bonnie 'Prince' Billy,18
+2007-09,Cat Power,4
+2007-09,Centro-Matic,18
+2007-09,Chris Bathgate,5
+2007-09,Damien Jurado,26
+2007-09,Don Mcmillan,0
+2007-09,Hank Williams,12
+2007-09,Jason Molina,6
+2007-09,Magnolia Electric Co.,46
+2007-09,My Morning Jacket,3
+2007-09,Patty Griffin,24
+2007-09,Pleasant Grove,41
+2007-09,Son Volt,12
+2007-09,Songs: Ohia,51
+2007-09,The Be Good Tanyas,3
+2007-09,Tori Amos,3
+2007-09,Townes Van Zandt,74
+2007-10,16 Horsepower,1
+2007-10,Andrew Bird,1
+2007-10,Band Of Horses,1
+2007-10,Bonnie 'Prince' Billy,38
+2007-10,Cat Power,29
+2007-10,Centro-Matic,9
+2007-10,Chris Bathgate,1
+2007-10,Damien Jurado,1
+2007-10,Don Mcmillan,0
+2007-10,Hank Williams,24
+2007-10,Jason Molina,0
+2007-10,Magnolia Electric Co.,12
+2007-10,My Morning Jacket,0
+2007-10,Patty Griffin,18
+2007-10,Pleasant Grove,18
+2007-10,Son Volt,63
+2007-10,Songs: Ohia,16
+2007-10,The Be Good Tanyas,17
+2007-10,Tori Amos,1
+2007-10,Townes Van Zandt,83
+2007-11,16 Horsepower,4
+2007-11,Andrew Bird,3
+2007-11,Band Of Horses,9
+2007-11,Bonnie 'Prince' Billy,27
+2007-11,Cat Power,2
+2007-11,Centro-Matic,0
+2007-11,Chris Bathgate,4
+2007-11,Damien Jurado,6
+2007-11,Don Mcmillan,3
+2007-11,Hank Williams,3
+2007-11,Jason Molina,27
+2007-11,Magnolia Electric Co.,10
+2007-11,My Morning Jacket,0
+2007-11,Patty Griffin,7
+2007-11,Pleasant Grove,1
+2007-11,Son Volt,5
+2007-11,Songs: Ohia,11
+2007-11,The Be Good Tanyas,2
+2007-11,Tori Amos,2
+2007-11,Townes Van Zandt,12
+2007-12,16 Horsepower,1
+2007-12,Andrew Bird,1
+2007-12,Band Of Horses,0
+2007-12,Bonnie 'Prince' Billy,24
+2007-12,Cat Power,1
+2007-12,Centro-Matic,0
+2007-12,Chris Bathgate,41
+2007-12,Damien Jurado,27
+2007-12,Don Mcmillan,2
+2007-12,Hank Williams,1
+2007-12,Jason Molina,0
+2007-12,Magnolia Electric Co.,19
+2007-12,My Morning Jacket,2
+2007-12,Patty Griffin,1
+2007-12,Pleasant Grove,2
+2007-12,Son Volt,0
+2007-12,Songs: Ohia,5
+2007-12,The Be Good Tanyas,0
+2007-12,Tori Amos,3
+2007-12,Townes Van Zandt,7
+2008-01,16 Horsepower,26
+2008-01,Andrew Bird,15
+2008-01,Band Of Horses,23
+2008-01,Bonnie 'Prince' Billy,61
+2008-01,Cat Power,44
+2008-01,Centro-Matic,5
+2008-01,Chris Bathgate,22
+2008-01,Damien Jurado,5
+2008-01,Don Mcmillan,2
+2008-01,Hank Williams,0
+2008-01,Jason Molina,7
+2008-01,Magnolia Electric Co.,15
+2008-01,My Morning Jacket,0
+2008-01,Patty Griffin,5
+2008-01,Pleasant Grove,30
+2008-01,Son Volt,14
+2008-01,Songs: Ohia,21
+2008-01,The Be Good Tanyas,5
+2008-01,Tori Amos,1
+2008-01,Townes Van Zandt,2
+2008-02,16 Horsepower,1
+2008-02,Andrew Bird,24
+2008-02,Band Of Horses,0
+2008-02,Bonnie 'Prince' Billy,34
+2008-02,Cat Power,14
+2008-02,Centro-Matic,2
+2008-02,Chris Bathgate,0
+2008-02,Damien Jurado,0
+2008-02,Don Mcmillan,4
+2008-02,Hank Williams,0
+2008-02,Jason Molina,1
+2008-02,Magnolia Electric Co.,0
+2008-02,My Morning Jacket,1
+2008-02,Patty Griffin,3
+2008-02,Pleasant Grove,1
+2008-02,Son Volt,22
+2008-02,Songs: Ohia,3
+2008-02,The Be Good Tanyas,1
+2008-02,Tori Amos,6
+2008-02,Townes Van Zandt,0
+2008-03,16 Horsepower,9
+2008-03,Andrew Bird,4
+2008-03,Band Of Horses,32
+2008-03,Bonnie 'Prince' Billy,43
+2008-03,Cat Power,11
+2008-03,Centro-Matic,68
+2008-03,Chris Bathgate,2
+2008-03,Damien Jurado,27
+2008-03,Don Mcmillan,4
+2008-03,Hank Williams,4
+2008-03,Jason Molina,28
+2008-03,Magnolia Electric Co.,3
+2008-03,My Morning Jacket,18
+2008-03,Patty Griffin,1
+2008-03,Pleasant Grove,14
+2008-03,Son Volt,1
+2008-03,Songs: Ohia,21
+2008-03,The Be Good Tanyas,1
+2008-03,Tori Amos,1
+2008-03,Townes Van Zandt,19
+2008-04,16 Horsepower,0
+2008-04,Andrew Bird,1
+2008-04,Band Of Horses,10
+2008-04,Bonnie 'Prince' Billy,11
+2008-04,Cat Power,11
+2008-04,Centro-Matic,75
+2008-04,Chris Bathgate,3
+2008-04,Damien Jurado,1
+2008-04,Don Mcmillan,27
+2008-04,Hank Williams,4
+2008-04,Jason Molina,2
+2008-04,Magnolia Electric Co.,5
+2008-04,My Morning Jacket,4
+2008-04,Patty Griffin,5
+2008-04,Pleasant Grove,1
+2008-04,Son Volt,44
+2008-04,Songs: Ohia,5
+2008-04,The Be Good Tanyas,2
+2008-04,Tori Amos,3
+2008-04,Townes Van Zandt,226
+2008-05,16 Horsepower,34
+2008-05,Andrew Bird,10
+2008-05,Band Of Horses,12
+2008-05,Bonnie 'Prince' Billy,91
+2008-05,Cat Power,4
+2008-05,Centro-Matic,61
+2008-05,Chris Bathgate,14
+2008-05,Damien Jurado,66
+2008-05,Don Mcmillan,2
+2008-05,Hank Williams,22
+2008-05,Jason Molina,47
+2008-05,Magnolia Electric Co.,46
+2008-05,My Morning Jacket,4
+2008-05,Patty Griffin,13
+2008-05,Pleasant Grove,37
+2008-05,Son Volt,45
+2008-05,Songs: Ohia,49
+2008-05,The Be Good Tanyas,23
+2008-05,Tori Amos,13
+2008-05,Townes Van Zandt,74
+2008-06,16 Horsepower,22
+2008-06,Andrew Bird,0
+2008-06,Band Of Horses,1
+2008-06,Bonnie 'Prince' Billy,12
+2008-06,Cat Power,2
+2008-06,Centro-Matic,3
+2008-06,Chris Bathgate,2
+2008-06,Damien Jurado,0
+2008-06,Don Mcmillan,1
+2008-06,Hank Williams,0
+2008-06,Jason Molina,21
+2008-06,Magnolia Electric Co.,29
+2008-06,My Morning Jacket,1
+2008-06,Patty Griffin,4
+2008-06,Pleasant Grove,5
+2008-06,Son Volt,2
+2008-06,Songs: Ohia,26
+2008-06,The Be Good Tanyas,6
+2008-06,Tori Amos,3
+2008-06,Townes Van Zandt,34
+2008-07,16 Horsepower,7
+2008-07,Andrew Bird,3
+2008-07,Band Of Horses,34
+2008-07,Bonnie 'Prince' Billy,165
+2008-07,Cat Power,1
+2008-07,Centro-Matic,36
+2008-07,Chris Bathgate,8
+2008-07,Damien Jurado,44
+2008-07,Don Mcmillan,2
+2008-07,Hank Williams,2
+2008-07,Jason Molina,6
+2008-07,Magnolia Electric Co.,58
+2008-07,My Morning Jacket,17
+2008-07,Patty Griffin,18
+2008-07,Pleasant Grove,28
+2008-07,Son Volt,7
+2008-07,Songs: Ohia,46
+2008-07,The Be Good Tanyas,6
+2008-07,Tori Amos,23
+2008-07,Townes Van Zandt,14
+2008-08,16 Horsepower,5
+2008-08,Andrew Bird,5
+2008-08,Band Of Horses,1
+2008-08,Bonnie 'Prince' Billy,113
+2008-08,Cat Power,1
+2008-08,Centro-Matic,23
+2008-08,Chris Bathgate,5
+2008-08,Damien Jurado,20
+2008-08,Don Mcmillan,1
+2008-08,Hank Williams,10
+2008-08,Jason Molina,21
+2008-08,Magnolia Electric Co.,68
+2008-08,My Morning Jacket,7
+2008-08,Patty Griffin,10
+2008-08,Pleasant Grove,40
+2008-08,Son Volt,6
+2008-08,Songs: Ohia,17
+2008-08,The Be Good Tanyas,10
+2008-08,Tori Amos,30
+2008-08,Townes Van Zandt,120
+2008-09,16 Horsepower,0
+2008-09,Andrew Bird,0
+2008-09,Band Of Horses,0
+2008-09,Bonnie 'Prince' Billy,39
+2008-09,Cat Power,0
+2008-09,Centro-Matic,0
+2008-09,Chris Bathgate,0
+2008-09,Damien Jurado,21
+2008-09,Don Mcmillan,0
+2008-09,Hank Williams,0
+2008-09,Jason Molina,2
+2008-09,Magnolia Electric Co.,49
+2008-09,My Morning Jacket,1
+2008-09,Patty Griffin,1
+2008-09,Pleasant Grove,64
+2008-09,Son Volt,25
+2008-09,Songs: Ohia,66
+2008-09,The Be Good Tanyas,24
+2008-09,Tori Amos,1
+2008-09,Townes Van Zandt,333
+2008-10,16 Horsepower,33
+2008-10,Andrew Bird,2
+2008-10,Band Of Horses,7
+2008-10,Bonnie 'Prince' Billy,28
+2008-10,Cat Power,20
+2008-10,Centro-Matic,316
+2008-10,Chris Bathgate,1
+2008-10,Damien Jurado,112
+2008-10,Don Mcmillan,8
+2008-10,Hank Williams,5
+2008-10,Jason Molina,30
+2008-10,Magnolia Electric Co.,38
+2008-10,My Morning Jacket,10
+2008-10,Patty Griffin,51
+2008-10,Pleasant Grove,36
+2008-10,Son Volt,2
+2008-10,Songs: Ohia,25
+2008-10,The Be Good Tanyas,39
+2008-10,Tori Amos,37
+2008-10,Townes Van Zandt,176
+2008-11,16 Horsepower,10
+2008-11,Andrew Bird,23
+2008-11,Band Of Horses,38
+2008-11,Bonnie 'Prince' Billy,5
+2008-11,Cat Power,10
+2008-11,Centro-Matic,14
+2008-11,Chris Bathgate,13
+2008-11,Damien Jurado,46
+2008-11,Don Mcmillan,1
+2008-11,Hank Williams,12
+2008-11,Jason Molina,2
+2008-11,Magnolia Electric Co.,65
+2008-11,My Morning Jacket,53
+2008-11,Patty Griffin,3
+2008-11,Pleasant Grove,4
+2008-11,Son Volt,1
+2008-11,Songs: Ohia,8
+2008-11,The Be Good Tanyas,4
+2008-11,Tori Amos,4
+2008-11,Townes Van Zandt,338
+2008-12,16 Horsepower,0
+2008-12,Andrew Bird,0
+2008-12,Band Of Horses,15
+2008-12,Bonnie 'Prince' Billy,66
+2008-12,Cat Power,0
+2008-12,Centro-Matic,1
+2008-12,Chris Bathgate,0
+2008-12,Damien Jurado,3
+2008-12,Don Mcmillan,0
+2008-12,Hank Williams,53
+2008-12,Jason Molina,25
+2008-12,Magnolia Electric Co.,4
+2008-12,My Morning Jacket,14
+2008-12,Patty Griffin,0
+2008-12,Pleasant Grove,5
+2008-12,Son Volt,8
+2008-12,Songs: Ohia,0
+2008-12,The Be Good Tanyas,1
+2008-12,Tori Amos,2
+2008-12,Townes Van Zandt,167
+2009-01,16 Horsepower,15
+2009-01,Andrew Bird,21
+2009-01,Band Of Horses,32
+2009-01,Bonnie 'Prince' Billy,25
+2009-01,Cat Power,0
+2009-01,Centro-Matic,27
+2009-01,Chris Bathgate,1
+2009-01,Damien Jurado,50
+2009-01,Don Mcmillan,0
+2009-01,Hank Williams,19
+2009-01,Jason Molina,39
+2009-01,Magnolia Electric Co.,33
+2009-01,My Morning Jacket,1
+2009-01,Patty Griffin,4
+2009-01,Pleasant Grove,30
+2009-01,Son Volt,8
+2009-01,Songs: Ohia,34
+2009-01,The Be Good Tanyas,0
+2009-01,Tori Amos,42
+2009-01,Townes Van Zandt,29
+2009-02,16 Horsepower,22
+2009-02,Andrew Bird,20
+2009-02,Band Of Horses,4
+2009-02,Bonnie 'Prince' Billy,6
+2009-02,Cat Power,2
+2009-02,Centro-Matic,21
+2009-02,Chris Bathgate,0
+2009-02,Damien Jurado,17
+2009-02,Don Mcmillan,16
+2009-02,Hank Williams,6
+2009-02,Jason Molina,7
+2009-02,Magnolia Electric Co.,5
+2009-02,My Morning Jacket,2
+2009-02,Patty Griffin,30
+2009-02,Pleasant Grove,1
+2009-02,Son Volt,23
+2009-02,Songs: Ohia,34
+2009-02,The Be Good Tanyas,2
+2009-02,Tori Amos,2
+2009-02,Townes Van Zandt,1
+2009-03,16 Horsepower,19
+2009-03,Andrew Bird,3
+2009-03,Band Of Horses,2
+2009-03,Bonnie 'Prince' Billy,6
+2009-03,Cat Power,1
+2009-03,Centro-Matic,28
+2009-03,Chris Bathgate,10
+2009-03,Damien Jurado,21
+2009-03,Don Mcmillan,32
+2009-03,Hank Williams,5
+2009-03,Jason Molina,2
+2009-03,Magnolia Electric Co.,13
+2009-03,My Morning Jacket,17
+2009-03,Patty Griffin,16
+2009-03,Pleasant Grove,1
+2009-03,Son Volt,40
+2009-03,Songs: Ohia,0
+2009-03,The Be Good Tanyas,3
+2009-03,Tori Amos,2
+2009-03,Townes Van Zandt,22
+2009-04,16 Horsepower,17
+2009-04,Andrew Bird,21
+2009-04,Band Of Horses,2
+2009-04,Bonnie 'Prince' Billy,34
+2009-04,Cat Power,2
+2009-04,Centro-Matic,36
+2009-04,Chris Bathgate,9
+2009-04,Damien Jurado,23
+2009-04,Don Mcmillan,2
+2009-04,Hank Williams,16
+2009-04,Jason Molina,1
+2009-04,Magnolia Electric Co.,4
+2009-04,My Morning Jacket,9
+2009-04,Patty Griffin,5
+2009-04,Pleasant Grove,12
+2009-04,Son Volt,141
+2009-04,Songs: Ohia,3
+2009-04,The Be Good Tanyas,17
+2009-04,Tori Amos,1
+2009-04,Townes Van Zandt,55

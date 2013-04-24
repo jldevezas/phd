@@ -1,0 +1,701 @@
+month,artist,plays
+2006-05,[Unknown],21
+2006-05,Aaliyah,0
+2006-05,Amos Lee,0
+2006-05,Anastacia,1
+2006-05,Bennie K,14
+2006-05,Boa,23
+2006-05,Christina Aguilera,1
+2006-05,Core Of Soul,1
+2006-05,Crystal Kay,26
+2006-05,Gackt,13
+2006-05,Heartsdales,0
+2006-05,Hyde,7
+2006-05,Kokia,4
+2006-05,Utada,22
+2006-05,倖田來未,9
+2006-05,坂本真綾,7
+2006-05,坂本龍一,0
+2006-05,宇多田ヒカル,72
+2006-05,林明日香,5
+2006-05,鬼束ちひろ,41
+2006-06,[Unknown],19
+2006-06,Aaliyah,0
+2006-06,Amos Lee,0
+2006-06,Anastacia,1
+2006-06,Bennie K,1
+2006-06,Boa,0
+2006-06,Christina Aguilera,0
+2006-06,Core Of Soul,1
+2006-06,Crystal Kay,1
+2006-06,Gackt,0
+2006-06,Heartsdales,1
+2006-06,Hyde,0
+2006-06,Kokia,1
+2006-06,Utada,2
+2006-06,倖田來未,0
+2006-06,坂本真綾,1
+2006-06,坂本龍一,1
+2006-06,宇多田ヒカル,85
+2006-06,林明日香,0
+2006-06,鬼束ちひろ,3
+2006-07,[Unknown],6
+2006-07,Aaliyah,0
+2006-07,Amos Lee,0
+2006-07,Anastacia,0
+2006-07,Bennie K,0
+2006-07,Boa,2
+2006-07,Christina Aguilera,0
+2006-07,Core Of Soul,0
+2006-07,Crystal Kay,0
+2006-07,Gackt,1
+2006-07,Heartsdales,0
+2006-07,Hyde,0
+2006-07,Kokia,0
+2006-07,Utada,0
+2006-07,倖田來未,0
+2006-07,坂本真綾,0
+2006-07,坂本龍一,38
+2006-07,宇多田ヒカル,47
+2006-07,林明日香,1
+2006-07,鬼束ちひろ,0
+2006-08,[Unknown],0
+2006-08,Aaliyah,1
+2006-08,Amos Lee,0
+2006-08,Anastacia,0
+2006-08,Bennie K,2
+2006-08,Boa,1
+2006-08,Christina Aguilera,0
+2006-08,Core Of Soul,0
+2006-08,Crystal Kay,1
+2006-08,Gackt,1
+2006-08,Heartsdales,1
+2006-08,Hyde,1
+2006-08,Kokia,0
+2006-08,Utada,0
+2006-08,倖田來未,0
+2006-08,坂本真綾,0
+2006-08,坂本龍一,0
+2006-08,宇多田ヒカル,1
+2006-08,林明日香,0
+2006-08,鬼束ちひろ,3
+2006-09,[Unknown],10
+2006-09,Aaliyah,0
+2006-09,Amos Lee,0
+2006-09,Anastacia,0
+2006-09,Bennie K,1
+2006-09,Boa,1
+2006-09,Christina Aguilera,0
+2006-09,Core Of Soul,0
+2006-09,Crystal Kay,1
+2006-09,Gackt,0
+2006-09,Heartsdales,0
+2006-09,Hyde,0
+2006-09,Kokia,0
+2006-09,Utada,0
+2006-09,倖田來未,1
+2006-09,坂本真綾,0
+2006-09,坂本龍一,0
+2006-09,宇多田ヒカル,3
+2006-09,林明日香,0
+2006-09,鬼束ちひろ,2
+2006-10,[Unknown],0
+2006-10,Aaliyah,0
+2006-10,Amos Lee,0
+2006-10,Anastacia,0
+2006-10,Bennie K,2
+2006-10,Boa,2
+2006-10,Christina Aguilera,0
+2006-10,Core Of Soul,0
+2006-10,Crystal Kay,3
+2006-10,Gackt,0
+2006-10,Heartsdales,1
+2006-10,Hyde,0
+2006-10,Kokia,0
+2006-10,Utada,2
+2006-10,倖田來未,1
+2006-10,坂本真綾,0
+2006-10,坂本龍一,0
+2006-10,宇多田ヒカル,8
+2006-10,林明日香,1
+2006-10,鬼束ちひろ,1
+2006-11,[Unknown],14
+2006-11,Aaliyah,0
+2006-11,Amos Lee,0
+2006-11,Anastacia,0
+2006-11,Bennie K,0
+2006-11,Boa,0
+2006-11,Christina Aguilera,0
+2006-11,Core Of Soul,0
+2006-11,Crystal Kay,0
+2006-11,Gackt,0
+2006-11,Heartsdales,0
+2006-11,Hyde,0
+2006-11,Kokia,0
+2006-11,Utada,0
+2006-11,倖田來未,0
+2006-11,坂本真綾,0
+2006-11,坂本龍一,0
+2006-11,宇多田ヒカル,5
+2006-11,林明日香,0
+2006-11,鬼束ちひろ,0
+2006-12,[Unknown],0
+2006-12,Aaliyah,0
+2006-12,Amos Lee,0
+2006-12,Anastacia,0
+2006-12,Bennie K,0
+2006-12,Boa,4
+2006-12,Christina Aguilera,3
+2006-12,Core Of Soul,0
+2006-12,Crystal Kay,1
+2006-12,Gackt,0
+2006-12,Heartsdales,0
+2006-12,Hyde,0
+2006-12,Kokia,0
+2006-12,Utada,1
+2006-12,倖田來未,0
+2006-12,坂本真綾,0
+2006-12,坂本龍一,0
+2006-12,宇多田ヒカル,2
+2006-12,林明日香,0
+2006-12,鬼束ちひろ,0
+2007-01,[Unknown],0
+2007-01,Aaliyah,0
+2007-01,Amos Lee,0
+2007-01,Anastacia,0
+2007-01,Bennie K,0
+2007-01,Boa,0
+2007-01,Christina Aguilera,0
+2007-01,Core Of Soul,0
+2007-01,Crystal Kay,0
+2007-01,Gackt,0
+2007-01,Heartsdales,0
+2007-01,Hyde,0
+2007-01,Kokia,0
+2007-01,Utada,0
+2007-01,倖田來未,0
+2007-01,坂本真綾,0
+2007-01,坂本龍一,0
+2007-01,宇多田ヒカル,0
+2007-01,林明日香,0
+2007-01,鬼束ちひろ,0
+2007-02,[Unknown],0
+2007-02,Aaliyah,0
+2007-02,Amos Lee,0
+2007-02,Anastacia,0
+2007-02,Bennie K,0
+2007-02,Boa,0
+2007-02,Christina Aguilera,0
+2007-02,Core Of Soul,0
+2007-02,Crystal Kay,0
+2007-02,Gackt,0
+2007-02,Heartsdales,0
+2007-02,Hyde,0
+2007-02,Kokia,0
+2007-02,Utada,0
+2007-02,倖田來未,0
+2007-02,坂本真綾,0
+2007-02,坂本龍一,0
+2007-02,宇多田ヒカル,0
+2007-02,林明日香,0
+2007-02,鬼束ちひろ,0
+2007-03,[Unknown],0
+2007-03,Aaliyah,0
+2007-03,Amos Lee,0
+2007-03,Anastacia,0
+2007-03,Bennie K,1
+2007-03,Boa,1
+2007-03,Christina Aguilera,0
+2007-03,Core Of Soul,0
+2007-03,Crystal Kay,1
+2007-03,Gackt,0
+2007-03,Heartsdales,0
+2007-03,Hyde,1
+2007-03,Kokia,1
+2007-03,Utada,0
+2007-03,倖田來未,0
+2007-03,坂本真綾,0
+2007-03,坂本龍一,0
+2007-03,宇多田ヒカル,0
+2007-03,林明日香,0
+2007-03,鬼束ちひろ,0
+2007-04,[Unknown],0
+2007-04,Aaliyah,0
+2007-04,Amos Lee,0
+2007-04,Anastacia,0
+2007-04,Bennie K,0
+2007-04,Boa,0
+2007-04,Christina Aguilera,0
+2007-04,Core Of Soul,0
+2007-04,Crystal Kay,0
+2007-04,Gackt,0
+2007-04,Heartsdales,0
+2007-04,Hyde,0
+2007-04,Kokia,0
+2007-04,Utada,0
+2007-04,倖田來未,0
+2007-04,坂本真綾,0
+2007-04,坂本龍一,0
+2007-04,宇多田ヒカル,0
+2007-04,林明日香,0
+2007-04,鬼束ちひろ,0
+2007-05,[Unknown],0
+2007-05,Aaliyah,0
+2007-05,Amos Lee,0
+2007-05,Anastacia,0
+2007-05,Bennie K,0
+2007-05,Boa,0
+2007-05,Christina Aguilera,0
+2007-05,Core Of Soul,0
+2007-05,Crystal Kay,0
+2007-05,Gackt,0
+2007-05,Heartsdales,0
+2007-05,Hyde,0
+2007-05,Kokia,0
+2007-05,Utada,0
+2007-05,倖田來未,0
+2007-05,坂本真綾,0
+2007-05,坂本龍一,0
+2007-05,宇多田ヒカル,0
+2007-05,林明日香,0
+2007-05,鬼束ちひろ,0
+2007-06,[Unknown],0
+2007-06,Aaliyah,0
+2007-06,Amos Lee,0
+2007-06,Anastacia,0
+2007-06,Bennie K,0
+2007-06,Boa,0
+2007-06,Christina Aguilera,0
+2007-06,Core Of Soul,0
+2007-06,Crystal Kay,0
+2007-06,Gackt,0
+2007-06,Heartsdales,0
+2007-06,Hyde,0
+2007-06,Kokia,0
+2007-06,Utada,0
+2007-06,倖田來未,0
+2007-06,坂本真綾,0
+2007-06,坂本龍一,0
+2007-06,宇多田ヒカル,0
+2007-06,林明日香,0
+2007-06,鬼束ちひろ,0
+2007-07,[Unknown],0
+2007-07,Aaliyah,0
+2007-07,Amos Lee,0
+2007-07,Anastacia,0
+2007-07,Bennie K,0
+2007-07,Boa,0
+2007-07,Christina Aguilera,0
+2007-07,Core Of Soul,0
+2007-07,Crystal Kay,0
+2007-07,Gackt,0
+2007-07,Heartsdales,0
+2007-07,Hyde,0
+2007-07,Kokia,0
+2007-07,Utada,0
+2007-07,倖田來未,0
+2007-07,坂本真綾,0
+2007-07,坂本龍一,0
+2007-07,宇多田ヒカル,0
+2007-07,林明日香,0
+2007-07,鬼束ちひろ,0
+2007-08,[Unknown],0
+2007-08,Aaliyah,0
+2007-08,Amos Lee,0
+2007-08,Anastacia,0
+2007-08,Bennie K,0
+2007-08,Boa,0
+2007-08,Christina Aguilera,0
+2007-08,Core Of Soul,0
+2007-08,Crystal Kay,0
+2007-08,Gackt,0
+2007-08,Heartsdales,0
+2007-08,Hyde,0
+2007-08,Kokia,0
+2007-08,Utada,0
+2007-08,倖田來未,0
+2007-08,坂本真綾,0
+2007-08,坂本龍一,0
+2007-08,宇多田ヒカル,0
+2007-08,林明日香,0
+2007-08,鬼束ちひろ,0
+2007-09,[Unknown],0
+2007-09,Aaliyah,0
+2007-09,Amos Lee,0
+2007-09,Anastacia,0
+2007-09,Bennie K,0
+2007-09,Boa,0
+2007-09,Christina Aguilera,0
+2007-09,Core Of Soul,0
+2007-09,Crystal Kay,0
+2007-09,Gackt,0
+2007-09,Heartsdales,0
+2007-09,Hyde,0
+2007-09,Kokia,0
+2007-09,Utada,0
+2007-09,倖田來未,0
+2007-09,坂本真綾,0
+2007-09,坂本龍一,0
+2007-09,宇多田ヒカル,0
+2007-09,林明日香,0
+2007-09,鬼束ちひろ,0
+2007-10,[Unknown],0
+2007-10,Aaliyah,0
+2007-10,Amos Lee,0
+2007-10,Anastacia,0
+2007-10,Bennie K,0
+2007-10,Boa,0
+2007-10,Christina Aguilera,0
+2007-10,Core Of Soul,0
+2007-10,Crystal Kay,0
+2007-10,Gackt,0
+2007-10,Heartsdales,0
+2007-10,Hyde,0
+2007-10,Kokia,0
+2007-10,Utada,0
+2007-10,倖田來未,0
+2007-10,坂本真綾,0
+2007-10,坂本龍一,0
+2007-10,宇多田ヒカル,0
+2007-10,林明日香,0
+2007-10,鬼束ちひろ,0
+2007-11,[Unknown],0
+2007-11,Aaliyah,0
+2007-11,Amos Lee,0
+2007-11,Anastacia,0
+2007-11,Bennie K,0
+2007-11,Boa,0
+2007-11,Christina Aguilera,0
+2007-11,Core Of Soul,0
+2007-11,Crystal Kay,0
+2007-11,Gackt,0
+2007-11,Heartsdales,0
+2007-11,Hyde,0
+2007-11,Kokia,0
+2007-11,Utada,0
+2007-11,倖田來未,0
+2007-11,坂本真綾,0
+2007-11,坂本龍一,0
+2007-11,宇多田ヒカル,0
+2007-11,林明日香,0
+2007-11,鬼束ちひろ,0
+2007-12,[Unknown],0
+2007-12,Aaliyah,0
+2007-12,Amos Lee,0
+2007-12,Anastacia,0
+2007-12,Bennie K,0
+2007-12,Boa,0
+2007-12,Christina Aguilera,0
+2007-12,Core Of Soul,0
+2007-12,Crystal Kay,0
+2007-12,Gackt,0
+2007-12,Heartsdales,0
+2007-12,Hyde,0
+2007-12,Kokia,0
+2007-12,Utada,0
+2007-12,倖田來未,0
+2007-12,坂本真綾,0
+2007-12,坂本龍一,0
+2007-12,宇多田ヒカル,0
+2007-12,林明日香,0
+2007-12,鬼束ちひろ,0
+2008-01,[Unknown],0
+2008-01,Aaliyah,0
+2008-01,Amos Lee,0
+2008-01,Anastacia,0
+2008-01,Bennie K,0
+2008-01,Boa,0
+2008-01,Christina Aguilera,0
+2008-01,Core Of Soul,0
+2008-01,Crystal Kay,0
+2008-01,Gackt,0
+2008-01,Heartsdales,0
+2008-01,Hyde,0
+2008-01,Kokia,0
+2008-01,Utada,0
+2008-01,倖田來未,0
+2008-01,坂本真綾,0
+2008-01,坂本龍一,0
+2008-01,宇多田ヒカル,0
+2008-01,林明日香,0
+2008-01,鬼束ちひろ,0
+2008-02,[Unknown],0
+2008-02,Aaliyah,0
+2008-02,Amos Lee,0
+2008-02,Anastacia,0
+2008-02,Bennie K,0
+2008-02,Boa,0
+2008-02,Christina Aguilera,0
+2008-02,Core Of Soul,0
+2008-02,Crystal Kay,0
+2008-02,Gackt,0
+2008-02,Heartsdales,0
+2008-02,Hyde,0
+2008-02,Kokia,0
+2008-02,Utada,0
+2008-02,倖田來未,0
+2008-02,坂本真綾,0
+2008-02,坂本龍一,0
+2008-02,宇多田ヒカル,0
+2008-02,林明日香,0
+2008-02,鬼束ちひろ,0
+2008-03,[Unknown],0
+2008-03,Aaliyah,0
+2008-03,Amos Lee,0
+2008-03,Anastacia,0
+2008-03,Bennie K,0
+2008-03,Boa,0
+2008-03,Christina Aguilera,0
+2008-03,Core Of Soul,0
+2008-03,Crystal Kay,0
+2008-03,Gackt,0
+2008-03,Heartsdales,0
+2008-03,Hyde,0
+2008-03,Kokia,0
+2008-03,Utada,0
+2008-03,倖田來未,0
+2008-03,坂本真綾,0
+2008-03,坂本龍一,0
+2008-03,宇多田ヒカル,0
+2008-03,林明日香,0
+2008-03,鬼束ちひろ,0
+2008-04,[Unknown],0
+2008-04,Aaliyah,0
+2008-04,Amos Lee,0
+2008-04,Anastacia,0
+2008-04,Bennie K,0
+2008-04,Boa,0
+2008-04,Christina Aguilera,0
+2008-04,Core Of Soul,0
+2008-04,Crystal Kay,0
+2008-04,Gackt,0
+2008-04,Heartsdales,0
+2008-04,Hyde,0
+2008-04,Kokia,0
+2008-04,Utada,0
+2008-04,倖田來未,0
+2008-04,坂本真綾,0
+2008-04,坂本龍一,0
+2008-04,宇多田ヒカル,0
+2008-04,林明日香,0
+2008-04,鬼束ちひろ,0
+2008-05,[Unknown],0
+2008-05,Aaliyah,1
+2008-05,Amos Lee,0
+2008-05,Anastacia,0
+2008-05,Bennie K,0
+2008-05,Boa,0
+2008-05,Christina Aguilera,0
+2008-05,Core Of Soul,0
+2008-05,Crystal Kay,0
+2008-05,Gackt,0
+2008-05,Heartsdales,0
+2008-05,Hyde,0
+2008-05,Kokia,0
+2008-05,Utada,0
+2008-05,倖田來未,1
+2008-05,坂本真綾,1
+2008-05,坂本龍一,1
+2008-05,宇多田ヒカル,1
+2008-05,林明日香,0
+2008-05,鬼束ちひろ,2
+2008-06,[Unknown],0
+2008-06,Aaliyah,0
+2008-06,Amos Lee,0
+2008-06,Anastacia,0
+2008-06,Bennie K,0
+2008-06,Boa,0
+2008-06,Christina Aguilera,0
+2008-06,Core Of Soul,0
+2008-06,Crystal Kay,0
+2008-06,Gackt,0
+2008-06,Heartsdales,0
+2008-06,Hyde,0
+2008-06,Kokia,0
+2008-06,Utada,0
+2008-06,倖田來未,0
+2008-06,坂本真綾,0
+2008-06,坂本龍一,0
+2008-06,宇多田ヒカル,0
+2008-06,林明日香,0
+2008-06,鬼束ちひろ,0
+2008-07,[Unknown],0
+2008-07,Aaliyah,0
+2008-07,Amos Lee,0
+2008-07,Anastacia,0
+2008-07,Bennie K,0
+2008-07,Boa,0
+2008-07,Christina Aguilera,0
+2008-07,Core Of Soul,0
+2008-07,Crystal Kay,0
+2008-07,Gackt,0
+2008-07,Heartsdales,0
+2008-07,Hyde,0
+2008-07,Kokia,0
+2008-07,Utada,0
+2008-07,倖田來未,0
+2008-07,坂本真綾,0
+2008-07,坂本龍一,0
+2008-07,宇多田ヒカル,0
+2008-07,林明日香,0
+2008-07,鬼束ちひろ,0
+2008-08,[Unknown],0
+2008-08,Aaliyah,0
+2008-08,Amos Lee,0
+2008-08,Anastacia,0
+2008-08,Bennie K,0
+2008-08,Boa,0
+2008-08,Christina Aguilera,0
+2008-08,Core Of Soul,0
+2008-08,Crystal Kay,0
+2008-08,Gackt,0
+2008-08,Heartsdales,0
+2008-08,Hyde,0
+2008-08,Kokia,0
+2008-08,Utada,0
+2008-08,倖田來未,0
+2008-08,坂本真綾,0
+2008-08,坂本龍一,0
+2008-08,宇多田ヒカル,0
+2008-08,林明日香,0
+2008-08,鬼束ちひろ,0
+2008-09,[Unknown],0
+2008-09,Aaliyah,0
+2008-09,Amos Lee,0
+2008-09,Anastacia,0
+2008-09,Bennie K,0
+2008-09,Boa,0
+2008-09,Christina Aguilera,0
+2008-09,Core Of Soul,0
+2008-09,Crystal Kay,0
+2008-09,Gackt,0
+2008-09,Heartsdales,0
+2008-09,Hyde,0
+2008-09,Kokia,0
+2008-09,Utada,0
+2008-09,倖田來未,0
+2008-09,坂本真綾,0
+2008-09,坂本龍一,0
+2008-09,宇多田ヒカル,0
+2008-09,林明日香,0
+2008-09,鬼束ちひろ,0
+2008-10,[Unknown],0
+2008-10,Aaliyah,0
+2008-10,Amos Lee,0
+2008-10,Anastacia,0
+2008-10,Bennie K,0
+2008-10,Boa,0
+2008-10,Christina Aguilera,0
+2008-10,Core Of Soul,0
+2008-10,Crystal Kay,0
+2008-10,Gackt,0
+2008-10,Heartsdales,0
+2008-10,Hyde,0
+2008-10,Kokia,0
+2008-10,Utada,0
+2008-10,倖田來未,0
+2008-10,坂本真綾,0
+2008-10,坂本龍一,0
+2008-10,宇多田ヒカル,0
+2008-10,林明日香,0
+2008-10,鬼束ちひろ,0
+2008-11,[Unknown],0
+2008-11,Aaliyah,0
+2008-11,Amos Lee,0
+2008-11,Anastacia,0
+2008-11,Bennie K,0
+2008-11,Boa,0
+2008-11,Christina Aguilera,0
+2008-11,Core Of Soul,0
+2008-11,Crystal Kay,0
+2008-11,Gackt,0
+2008-11,Heartsdales,0
+2008-11,Hyde,0
+2008-11,Kokia,0
+2008-11,Utada,0
+2008-11,倖田來未,0
+2008-11,坂本真綾,0
+2008-11,坂本龍一,0
+2008-11,宇多田ヒカル,0
+2008-11,林明日香,0
+2008-11,鬼束ちひろ,0
+2008-12,[Unknown],0
+2008-12,Aaliyah,0
+2008-12,Amos Lee,0
+2008-12,Anastacia,0
+2008-12,Bennie K,0
+2008-12,Boa,0
+2008-12,Christina Aguilera,0
+2008-12,Core Of Soul,0
+2008-12,Crystal Kay,0
+2008-12,Gackt,0
+2008-12,Heartsdales,0
+2008-12,Hyde,0
+2008-12,Kokia,0
+2008-12,Utada,0
+2008-12,倖田來未,0
+2008-12,坂本真綾,0
+2008-12,坂本龍一,0
+2008-12,宇多田ヒカル,0
+2008-12,林明日香,0
+2008-12,鬼束ちひろ,0
+2009-01,[Unknown],0
+2009-01,Aaliyah,0
+2009-01,Amos Lee,0
+2009-01,Anastacia,0
+2009-01,Bennie K,0
+2009-01,Boa,0
+2009-01,Christina Aguilera,0
+2009-01,Core Of Soul,0
+2009-01,Crystal Kay,1
+2009-01,Gackt,0
+2009-01,Heartsdales,0
+2009-01,Hyde,0
+2009-01,Kokia,0
+2009-01,Utada,3
+2009-01,倖田來未,0
+2009-01,坂本真綾,0
+2009-01,坂本龍一,0
+2009-01,宇多田ヒカル,6
+2009-01,林明日香,1
+2009-01,鬼束ちひろ,0
+2009-02,[Unknown],0
+2009-02,Aaliyah,0
+2009-02,Amos Lee,10
+2009-02,Anastacia,0
+2009-02,Bennie K,0
+2009-02,Boa,0
+2009-02,Christina Aguilera,0
+2009-02,Core Of Soul,0
+2009-02,Crystal Kay,0
+2009-02,Gackt,0
+2009-02,Heartsdales,0
+2009-02,Hyde,0
+2009-02,Kokia,0
+2009-02,Utada,0
+2009-02,倖田來未,0
+2009-02,坂本真綾,0
+2009-02,坂本龍一,0
+2009-02,宇多田ヒカル,0
+2009-02,林明日香,0
+2009-02,鬼束ちひろ,0
+2009-03,[Unknown],0
+2009-03,Aaliyah,0
+2009-03,Amos Lee,1
+2009-03,Anastacia,0
+2009-03,Bennie K,0
+2009-03,Boa,0
+2009-03,Christina Aguilera,0
+2009-03,Core Of Soul,0
+2009-03,Crystal Kay,1
+2009-03,Gackt,0
+2009-03,Heartsdales,0
+2009-03,Hyde,0
+2009-03,Kokia,0
+2009-03,Utada,0
+2009-03,倖田來未,0
+2009-03,坂本真綾,0
+2009-03,坂本龍一,0
+2009-03,宇多田ヒカル,2
+2009-03,林明日香,0
+2009-03,鬼束ちひろ,0

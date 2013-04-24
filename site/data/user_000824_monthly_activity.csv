@@ -1,0 +1,621 @@
+month,artist,plays
+2006-10,65Daysofstatic,0
+2006-10,Biffy Clyro,0
+2006-10,Blue Gum Ears,0
+2006-10,Boards Of Canada,12
+2006-10,Bright Eyes,1
+2006-10,Damien Rice,0
+2006-10,Death Cab For Cutie,0
+2006-10,Fightstar,0
+2006-10,Finch,0
+2006-10,Foo Fighters,0
+2006-10,Fort Minor,0
+2006-10,Frank Turner,0
+2006-10,Jack Johnson,0
+2006-10,Less Than Jake,0
+2006-10,Nirvana,0
+2006-10,Radiohead,2
+2006-10,Red Hot Chili Peppers,0
+2006-10,Roddy Woomble,0
+2006-10,Sucioperro,0
+2006-10,Sum 41,0
+2006-11,65Daysofstatic,0
+2006-11,Biffy Clyro,0
+2006-11,Blue Gum Ears,0
+2006-11,Boards Of Canada,11
+2006-11,Bright Eyes,2
+2006-11,Damien Rice,9
+2006-11,Death Cab For Cutie,9
+2006-11,Fightstar,0
+2006-11,Finch,0
+2006-11,Foo Fighters,0
+2006-11,Fort Minor,0
+2006-11,Frank Turner,0
+2006-11,Jack Johnson,3
+2006-11,Less Than Jake,0
+2006-11,Nirvana,2
+2006-11,Radiohead,7
+2006-11,Red Hot Chili Peppers,0
+2006-11,Roddy Woomble,0
+2006-11,Sucioperro,0
+2006-11,Sum 41,0
+2006-12,65Daysofstatic,7
+2006-12,Biffy Clyro,0
+2006-12,Blue Gum Ears,0
+2006-12,Boards Of Canada,20
+2006-12,Bright Eyes,14
+2006-12,Damien Rice,8
+2006-12,Death Cab For Cutie,20
+2006-12,Fightstar,0
+2006-12,Finch,0
+2006-12,Foo Fighters,0
+2006-12,Fort Minor,0
+2006-12,Frank Turner,0
+2006-12,Jack Johnson,12
+2006-12,Less Than Jake,0
+2006-12,Nirvana,1
+2006-12,Radiohead,12
+2006-12,Red Hot Chili Peppers,2
+2006-12,Roddy Woomble,0
+2006-12,Sucioperro,0
+2006-12,Sum 41,0
+2007-01,65Daysofstatic,41
+2007-01,Biffy Clyro,0
+2007-01,Blue Gum Ears,0
+2007-01,Boards Of Canada,0
+2007-01,Bright Eyes,0
+2007-01,Damien Rice,1
+2007-01,Death Cab For Cutie,24
+2007-01,Fightstar,0
+2007-01,Finch,0
+2007-01,Foo Fighters,26
+2007-01,Fort Minor,0
+2007-01,Frank Turner,0
+2007-01,Jack Johnson,0
+2007-01,Less Than Jake,0
+2007-01,Nirvana,0
+2007-01,Radiohead,1
+2007-01,Red Hot Chili Peppers,8
+2007-01,Roddy Woomble,0
+2007-01,Sucioperro,0
+2007-01,Sum 41,0
+2007-02,65Daysofstatic,0
+2007-02,Biffy Clyro,0
+2007-02,Blue Gum Ears,0
+2007-02,Boards Of Canada,0
+2007-02,Bright Eyes,0
+2007-02,Damien Rice,0
+2007-02,Death Cab For Cutie,0
+2007-02,Fightstar,0
+2007-02,Finch,0
+2007-02,Foo Fighters,0
+2007-02,Fort Minor,0
+2007-02,Frank Turner,0
+2007-02,Jack Johnson,0
+2007-02,Less Than Jake,0
+2007-02,Nirvana,0
+2007-02,Radiohead,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,Roddy Woomble,0
+2007-02,Sucioperro,0
+2007-02,Sum 41,0
+2007-03,65Daysofstatic,0
+2007-03,Biffy Clyro,90
+2007-03,Blue Gum Ears,0
+2007-03,Boards Of Canada,0
+2007-03,Bright Eyes,0
+2007-03,Damien Rice,1
+2007-03,Death Cab For Cutie,0
+2007-03,Fightstar,0
+2007-03,Finch,14
+2007-03,Foo Fighters,3
+2007-03,Fort Minor,0
+2007-03,Frank Turner,0
+2007-03,Jack Johnson,60
+2007-03,Less Than Jake,0
+2007-03,Nirvana,6
+2007-03,Radiohead,0
+2007-03,Red Hot Chili Peppers,2
+2007-03,Roddy Woomble,0
+2007-03,Sucioperro,0
+2007-03,Sum 41,5
+2007-04,65Daysofstatic,0
+2007-04,Biffy Clyro,96
+2007-04,Blue Gum Ears,0
+2007-04,Boards Of Canada,7
+2007-04,Bright Eyes,1
+2007-04,Damien Rice,0
+2007-04,Death Cab For Cutie,4
+2007-04,Fightstar,0
+2007-04,Finch,16
+2007-04,Foo Fighters,6
+2007-04,Fort Minor,0
+2007-04,Frank Turner,0
+2007-04,Jack Johnson,0
+2007-04,Less Than Jake,0
+2007-04,Nirvana,1
+2007-04,Radiohead,2
+2007-04,Red Hot Chili Peppers,10
+2007-04,Roddy Woomble,6
+2007-04,Sucioperro,0
+2007-04,Sum 41,0
+2007-05,65Daysofstatic,29
+2007-05,Biffy Clyro,87
+2007-05,Blue Gum Ears,0
+2007-05,Boards Of Canada,6
+2007-05,Bright Eyes,1
+2007-05,Damien Rice,1
+2007-05,Death Cab For Cutie,37
+2007-05,Fightstar,0
+2007-05,Finch,3
+2007-05,Foo Fighters,0
+2007-05,Fort Minor,1
+2007-05,Frank Turner,0
+2007-05,Jack Johnson,2
+2007-05,Less Than Jake,0
+2007-05,Nirvana,1
+2007-05,Radiohead,18
+2007-05,Red Hot Chili Peppers,1
+2007-05,Roddy Woomble,3
+2007-05,Sucioperro,0
+2007-05,Sum 41,0
+2007-06,65Daysofstatic,0
+2007-06,Biffy Clyro,58
+2007-06,Blue Gum Ears,0
+2007-06,Boards Of Canada,9
+2007-06,Bright Eyes,127
+2007-06,Damien Rice,0
+2007-06,Death Cab For Cutie,59
+2007-06,Fightstar,0
+2007-06,Finch,3
+2007-06,Foo Fighters,13
+2007-06,Fort Minor,5
+2007-06,Frank Turner,39
+2007-06,Jack Johnson,1
+2007-06,Less Than Jake,0
+2007-06,Nirvana,4
+2007-06,Radiohead,0
+2007-06,Red Hot Chili Peppers,4
+2007-06,Roddy Woomble,0
+2007-06,Sucioperro,0
+2007-06,Sum 41,8
+2007-07,65Daysofstatic,0
+2007-07,Biffy Clyro,1
+2007-07,Blue Gum Ears,0
+2007-07,Boards Of Canada,0
+2007-07,Bright Eyes,2
+2007-07,Damien Rice,36
+2007-07,Death Cab For Cutie,0
+2007-07,Fightstar,0
+2007-07,Finch,0
+2007-07,Foo Fighters,0
+2007-07,Fort Minor,0
+2007-07,Frank Turner,0
+2007-07,Jack Johnson,0
+2007-07,Less Than Jake,0
+2007-07,Nirvana,1
+2007-07,Radiohead,0
+2007-07,Red Hot Chili Peppers,0
+2007-07,Roddy Woomble,0
+2007-07,Sucioperro,0
+2007-07,Sum 41,1
+2007-08,65Daysofstatic,0
+2007-08,Biffy Clyro,17
+2007-08,Blue Gum Ears,0
+2007-08,Boards Of Canada,0
+2007-08,Bright Eyes,98
+2007-08,Damien Rice,67
+2007-08,Death Cab For Cutie,0
+2007-08,Fightstar,0
+2007-08,Finch,1
+2007-08,Foo Fighters,2
+2007-08,Fort Minor,71
+2007-08,Frank Turner,0
+2007-08,Jack Johnson,2
+2007-08,Less Than Jake,0
+2007-08,Nirvana,0
+2007-08,Radiohead,0
+2007-08,Red Hot Chili Peppers,0
+2007-08,Roddy Woomble,0
+2007-08,Sucioperro,0
+2007-08,Sum 41,1
+2007-09,65Daysofstatic,0
+2007-09,Biffy Clyro,32
+2007-09,Blue Gum Ears,77
+2007-09,Boards Of Canada,0
+2007-09,Bright Eyes,3
+2007-09,Damien Rice,89
+2007-09,Death Cab For Cutie,36
+2007-09,Fightstar,0
+2007-09,Finch,7
+2007-09,Foo Fighters,54
+2007-09,Fort Minor,0
+2007-09,Frank Turner,0
+2007-09,Jack Johnson,0
+2007-09,Less Than Jake,0
+2007-09,Nirvana,0
+2007-09,Radiohead,0
+2007-09,Red Hot Chili Peppers,1
+2007-09,Roddy Woomble,12
+2007-09,Sucioperro,0
+2007-09,Sum 41,1
+2007-10,65Daysofstatic,0
+2007-10,Biffy Clyro,161
+2007-10,Blue Gum Ears,7
+2007-10,Boards Of Canada,0
+2007-10,Bright Eyes,2
+2007-10,Damien Rice,3
+2007-10,Death Cab For Cutie,1
+2007-10,Fightstar,25
+2007-10,Finch,19
+2007-10,Foo Fighters,24
+2007-10,Fort Minor,2
+2007-10,Frank Turner,7
+2007-10,Jack Johnson,7
+2007-10,Less Than Jake,15
+2007-10,Nirvana,1
+2007-10,Radiohead,0
+2007-10,Red Hot Chili Peppers,60
+2007-10,Roddy Woomble,7
+2007-10,Sucioperro,0
+2007-10,Sum 41,6
+2007-11,65Daysofstatic,0
+2007-11,Biffy Clyro,390
+2007-11,Blue Gum Ears,13
+2007-11,Boards Of Canada,0
+2007-11,Bright Eyes,0
+2007-11,Damien Rice,0
+2007-11,Death Cab For Cutie,0
+2007-11,Fightstar,0
+2007-11,Finch,1
+2007-11,Foo Fighters,6
+2007-11,Fort Minor,0
+2007-11,Frank Turner,3
+2007-11,Jack Johnson,17
+2007-11,Less Than Jake,59
+2007-11,Nirvana,2
+2007-11,Radiohead,0
+2007-11,Red Hot Chili Peppers,9
+2007-11,Roddy Woomble,15
+2007-11,Sucioperro,0
+2007-11,Sum 41,14
+2007-12,65Daysofstatic,0
+2007-12,Biffy Clyro,15
+2007-12,Blue Gum Ears,94
+2007-12,Boards Of Canada,0
+2007-12,Bright Eyes,6
+2007-12,Damien Rice,0
+2007-12,Death Cab For Cutie,0
+2007-12,Fightstar,73
+2007-12,Finch,15
+2007-12,Foo Fighters,1
+2007-12,Fort Minor,0
+2007-12,Frank Turner,0
+2007-12,Jack Johnson,0
+2007-12,Less Than Jake,203
+2007-12,Nirvana,9
+2007-12,Radiohead,0
+2007-12,Red Hot Chili Peppers,4
+2007-12,Roddy Woomble,0
+2007-12,Sucioperro,0
+2007-12,Sum 41,3
+2008-01,65Daysofstatic,46
+2008-01,Biffy Clyro,248
+2008-01,Blue Gum Ears,1
+2008-01,Boards Of Canada,3
+2008-01,Bright Eyes,6
+2008-01,Damien Rice,0
+2008-01,Death Cab For Cutie,0
+2008-01,Fightstar,19
+2008-01,Finch,0
+2008-01,Foo Fighters,0
+2008-01,Fort Minor,5
+2008-01,Frank Turner,0
+2008-01,Jack Johnson,0
+2008-01,Less Than Jake,17
+2008-01,Nirvana,3
+2008-01,Radiohead,0
+2008-01,Red Hot Chili Peppers,1
+2008-01,Roddy Woomble,55
+2008-01,Sucioperro,198
+2008-01,Sum 41,1
+2008-02,65Daysofstatic,1
+2008-02,Biffy Clyro,119
+2008-02,Blue Gum Ears,2
+2008-02,Boards Of Canada,2
+2008-02,Bright Eyes,0
+2008-02,Damien Rice,3
+2008-02,Death Cab For Cutie,0
+2008-02,Fightstar,49
+2008-02,Finch,5
+2008-02,Foo Fighters,2
+2008-02,Fort Minor,0
+2008-02,Frank Turner,0
+2008-02,Jack Johnson,0
+2008-02,Less Than Jake,62
+2008-02,Nirvana,0
+2008-02,Radiohead,1
+2008-02,Red Hot Chili Peppers,16
+2008-02,Roddy Woomble,11
+2008-02,Sucioperro,58
+2008-02,Sum 41,0
+2008-03,65Daysofstatic,0
+2008-03,Biffy Clyro,1
+2008-03,Blue Gum Ears,0
+2008-03,Boards Of Canada,0
+2008-03,Bright Eyes,1
+2008-03,Damien Rice,0
+2008-03,Death Cab For Cutie,1
+2008-03,Fightstar,38
+2008-03,Finch,1
+2008-03,Foo Fighters,24
+2008-03,Fort Minor,1
+2008-03,Frank Turner,0
+2008-03,Jack Johnson,2
+2008-03,Less Than Jake,24
+2008-03,Nirvana,1
+2008-03,Radiohead,0
+2008-03,Red Hot Chili Peppers,6
+2008-03,Roddy Woomble,2
+2008-03,Sucioperro,15
+2008-03,Sum 41,0
+2008-04,65Daysofstatic,34
+2008-04,Biffy Clyro,18
+2008-04,Blue Gum Ears,26
+2008-04,Boards Of Canada,0
+2008-04,Bright Eyes,0
+2008-04,Damien Rice,0
+2008-04,Death Cab For Cutie,3
+2008-04,Fightstar,30
+2008-04,Finch,0
+2008-04,Foo Fighters,0
+2008-04,Fort Minor,0
+2008-04,Frank Turner,0
+2008-04,Jack Johnson,81
+2008-04,Less Than Jake,28
+2008-04,Nirvana,0
+2008-04,Radiohead,0
+2008-04,Red Hot Chili Peppers,0
+2008-04,Roddy Woomble,5
+2008-04,Sucioperro,39
+2008-04,Sum 41,31
+2008-05,65Daysofstatic,1
+2008-05,Biffy Clyro,54
+2008-05,Blue Gum Ears,4
+2008-05,Boards Of Canada,0
+2008-05,Bright Eyes,0
+2008-05,Damien Rice,0
+2008-05,Death Cab For Cutie,2
+2008-05,Fightstar,49
+2008-05,Finch,15
+2008-05,Foo Fighters,2
+2008-05,Fort Minor,0
+2008-05,Frank Turner,33
+2008-05,Jack Johnson,0
+2008-05,Less Than Jake,3
+2008-05,Nirvana,0
+2008-05,Radiohead,3
+2008-05,Red Hot Chili Peppers,4
+2008-05,Roddy Woomble,1
+2008-05,Sucioperro,15
+2008-05,Sum 41,0
+2008-06,65Daysofstatic,1
+2008-06,Biffy Clyro,0
+2008-06,Blue Gum Ears,0
+2008-06,Boards Of Canada,0
+2008-06,Bright Eyes,0
+2008-06,Damien Rice,0
+2008-06,Death Cab For Cutie,0
+2008-06,Fightstar,21
+2008-06,Finch,5
+2008-06,Foo Fighters,1
+2008-06,Fort Minor,0
+2008-06,Frank Turner,18
+2008-06,Jack Johnson,0
+2008-06,Less Than Jake,0
+2008-06,Nirvana,0
+2008-06,Radiohead,1
+2008-06,Red Hot Chili Peppers,0
+2008-06,Roddy Woomble,0
+2008-06,Sucioperro,2
+2008-06,Sum 41,2
+2008-07,65Daysofstatic,0
+2008-07,Biffy Clyro,44
+2008-07,Blue Gum Ears,9
+2008-07,Boards Of Canada,0
+2008-07,Bright Eyes,0
+2008-07,Damien Rice,4
+2008-07,Death Cab For Cutie,72
+2008-07,Fightstar,1
+2008-07,Finch,1
+2008-07,Foo Fighters,3
+2008-07,Fort Minor,33
+2008-07,Frank Turner,35
+2008-07,Jack Johnson,0
+2008-07,Less Than Jake,78
+2008-07,Nirvana,20
+2008-07,Radiohead,0
+2008-07,Red Hot Chili Peppers,10
+2008-07,Roddy Woomble,0
+2008-07,Sucioperro,16
+2008-07,Sum 41,1
+2008-08,65Daysofstatic,111
+2008-08,Biffy Clyro,14
+2008-08,Blue Gum Ears,49
+2008-08,Boards Of Canada,211
+2008-08,Bright Eyes,2
+2008-08,Damien Rice,1
+2008-08,Death Cab For Cutie,0
+2008-08,Fightstar,35
+2008-08,Finch,0
+2008-08,Foo Fighters,13
+2008-08,Fort Minor,32
+2008-08,Frank Turner,11
+2008-08,Jack Johnson,43
+2008-08,Less Than Jake,166
+2008-08,Nirvana,27
+2008-08,Radiohead,39
+2008-08,Red Hot Chili Peppers,14
+2008-08,Roddy Woomble,5
+2008-08,Sucioperro,4
+2008-08,Sum 41,0
+2008-09,65Daysofstatic,85
+2008-09,Biffy Clyro,87
+2008-09,Blue Gum Ears,1
+2008-09,Boards Of Canada,146
+2008-09,Bright Eyes,0
+2008-09,Damien Rice,0
+2008-09,Death Cab For Cutie,0
+2008-09,Fightstar,0
+2008-09,Finch,0
+2008-09,Foo Fighters,0
+2008-09,Fort Minor,22
+2008-09,Frank Turner,11
+2008-09,Jack Johnson,291
+2008-09,Less Than Jake,198
+2008-09,Nirvana,0
+2008-09,Radiohead,33
+2008-09,Red Hot Chili Peppers,15
+2008-09,Roddy Woomble,13
+2008-09,Sucioperro,26
+2008-09,Sum 41,0
+2008-10,65Daysofstatic,10
+2008-10,Biffy Clyro,323
+2008-10,Blue Gum Ears,28
+2008-10,Boards Of Canada,0
+2008-10,Bright Eyes,0
+2008-10,Damien Rice,0
+2008-10,Death Cab For Cutie,5
+2008-10,Fightstar,15
+2008-10,Finch,18
+2008-10,Foo Fighters,1
+2008-10,Fort Minor,6
+2008-10,Frank Turner,72
+2008-10,Jack Johnson,10
+2008-10,Less Than Jake,18
+2008-10,Nirvana,58
+2008-10,Radiohead,0
+2008-10,Red Hot Chili Peppers,33
+2008-10,Roddy Woomble,8
+2008-10,Sucioperro,30
+2008-10,Sum 41,0
+2008-11,65Daysofstatic,0
+2008-11,Biffy Clyro,16
+2008-11,Blue Gum Ears,1
+2008-11,Boards Of Canada,9
+2008-11,Bright Eyes,0
+2008-11,Damien Rice,1
+2008-11,Death Cab For Cutie,0
+2008-11,Fightstar,29
+2008-11,Finch,0
+2008-11,Foo Fighters,0
+2008-11,Fort Minor,3
+2008-11,Frank Turner,37
+2008-11,Jack Johnson,0
+2008-11,Less Than Jake,107
+2008-11,Nirvana,47
+2008-11,Radiohead,0
+2008-11,Red Hot Chili Peppers,8
+2008-11,Roddy Woomble,0
+2008-11,Sucioperro,3
+2008-11,Sum 41,0
+2008-12,65Daysofstatic,19
+2008-12,Biffy Clyro,113
+2008-12,Blue Gum Ears,5
+2008-12,Boards Of Canada,20
+2008-12,Bright Eyes,0
+2008-12,Damien Rice,4
+2008-12,Death Cab For Cutie,8
+2008-12,Fightstar,40
+2008-12,Finch,0
+2008-12,Foo Fighters,0
+2008-12,Fort Minor,28
+2008-12,Frank Turner,42
+2008-12,Jack Johnson,48
+2008-12,Less Than Jake,24
+2008-12,Nirvana,11
+2008-12,Radiohead,16
+2008-12,Red Hot Chili Peppers,26
+2008-12,Roddy Woomble,0
+2008-12,Sucioperro,5
+2008-12,Sum 41,0
+2009-01,65Daysofstatic,5
+2009-01,Biffy Clyro,40
+2009-01,Blue Gum Ears,7
+2009-01,Boards Of Canada,1
+2009-01,Bright Eyes,0
+2009-01,Damien Rice,0
+2009-01,Death Cab For Cutie,3
+2009-01,Fightstar,7
+2009-01,Finch,2
+2009-01,Foo Fighters,4
+2009-01,Fort Minor,7
+2009-01,Frank Turner,15
+2009-01,Jack Johnson,3
+2009-01,Less Than Jake,1
+2009-01,Nirvana,16
+2009-01,Radiohead,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,Roddy Woomble,2
+2009-01,Sucioperro,21
+2009-01,Sum 41,2
+2009-02,65Daysofstatic,0
+2009-02,Biffy Clyro,107
+2009-02,Blue Gum Ears,0
+2009-02,Boards Of Canada,0
+2009-02,Bright Eyes,0
+2009-02,Damien Rice,0
+2009-02,Death Cab For Cutie,0
+2009-02,Fightstar,0
+2009-02,Finch,0
+2009-02,Foo Fighters,0
+2009-02,Fort Minor,0
+2009-02,Frank Turner,0
+2009-02,Jack Johnson,13
+2009-02,Less Than Jake,0
+2009-02,Nirvana,0
+2009-02,Radiohead,0
+2009-02,Red Hot Chili Peppers,0
+2009-02,Roddy Woomble,0
+2009-02,Sucioperro,0
+2009-02,Sum 41,0
+2009-03,65Daysofstatic,0
+2009-03,Biffy Clyro,0
+2009-03,Blue Gum Ears,0
+2009-03,Boards Of Canada,0
+2009-03,Bright Eyes,0
+2009-03,Damien Rice,0
+2009-03,Death Cab For Cutie,0
+2009-03,Fightstar,0
+2009-03,Finch,0
+2009-03,Foo Fighters,0
+2009-03,Fort Minor,0
+2009-03,Frank Turner,0
+2009-03,Jack Johnson,0
+2009-03,Less Than Jake,0
+2009-03,Nirvana,0
+2009-03,Radiohead,0
+2009-03,Red Hot Chili Peppers,0
+2009-03,Roddy Woomble,0
+2009-03,Sucioperro,0
+2009-03,Sum 41,0
+2009-04,65Daysofstatic,20
+2009-04,Biffy Clyro,15
+2009-04,Blue Gum Ears,0
+2009-04,Boards Of Canada,0
+2009-04,Bright Eyes,0
+2009-04,Damien Rice,0
+2009-04,Death Cab For Cutie,0
+2009-04,Fightstar,83
+2009-04,Finch,2
+2009-04,Foo Fighters,0
+2009-04,Fort Minor,0
+2009-04,Frank Turner,13
+2009-04,Jack Johnson,52
+2009-04,Less Than Jake,11
+2009-04,Nirvana,0
+2009-04,Radiohead,1
+2009-04,Red Hot Chili Peppers,0
+2009-04,Roddy Woomble,0
+2009-04,Sucioperro,69
+2009-04,Sum 41,0

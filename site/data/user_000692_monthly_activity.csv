@@ -1,0 +1,581 @@
+month,artist,plays
+2007-01,:Of The Wand & The Moon:,0
+2007-01,A Perfect Circle,1
+2007-01,Agalloch,4
+2007-01,Anathema,1
+2007-01,Antimatter,1
+2007-01,Frédéric Chopin,25
+2007-01,Graveworm,1
+2007-01,Incubus,1
+2007-01,K'S Choice,1
+2007-01,Mandalay,2
+2007-01,Nightwish,0
+2007-01,Paradise Lost,1
+2007-01,Placebo,2
+2007-01,T.A.T.U.,1
+2007-01,The Gathering,24
+2007-01,The White Stripes,2
+2007-01,Therion,1
+2007-01,Tool,2
+2007-01,Tracy Chapman,1
+2007-01,U2,1
+2007-02,:Of The Wand & The Moon:,1
+2007-02,A Perfect Circle,43
+2007-02,Agalloch,24
+2007-02,Anathema,144
+2007-02,Antimatter,2
+2007-02,Frédéric Chopin,13
+2007-02,Graveworm,2
+2007-02,Incubus,11
+2007-02,K'S Choice,6
+2007-02,Mandalay,21
+2007-02,Nightwish,39
+2007-02,Paradise Lost,20
+2007-02,Placebo,28
+2007-02,T.A.T.U.,14
+2007-02,The Gathering,116
+2007-02,The White Stripes,11
+2007-02,Therion,6
+2007-02,Tool,13
+2007-02,Tracy Chapman,46
+2007-02,U2,29
+2007-03,:Of The Wand & The Moon:,33
+2007-03,A Perfect Circle,26
+2007-03,Agalloch,0
+2007-03,Anathema,63
+2007-03,Antimatter,1
+2007-03,Frédéric Chopin,16
+2007-03,Graveworm,3
+2007-03,Incubus,74
+2007-03,K'S Choice,10
+2007-03,Mandalay,22
+2007-03,Nightwish,22
+2007-03,Paradise Lost,16
+2007-03,Placebo,106
+2007-03,T.A.T.U.,54
+2007-03,The Gathering,94
+2007-03,The White Stripes,9
+2007-03,Therion,4
+2007-03,Tool,2
+2007-03,Tracy Chapman,8
+2007-03,U2,45
+2007-04,:Of The Wand & The Moon:,4
+2007-04,A Perfect Circle,34
+2007-04,Agalloch,46
+2007-04,Anathema,63
+2007-04,Antimatter,26
+2007-04,Frédéric Chopin,15
+2007-04,Graveworm,8
+2007-04,Incubus,608
+2007-04,K'S Choice,12
+2007-04,Mandalay,8
+2007-04,Nightwish,16
+2007-04,Paradise Lost,26
+2007-04,Placebo,31
+2007-04,T.A.T.U.,23
+2007-04,The Gathering,90
+2007-04,The White Stripes,7
+2007-04,Therion,1
+2007-04,Tool,4
+2007-04,Tracy Chapman,5
+2007-04,U2,14
+2007-05,:Of The Wand & The Moon:,2
+2007-05,A Perfect Circle,7
+2007-05,Agalloch,4
+2007-05,Anathema,49
+2007-05,Antimatter,14
+2007-05,Frédéric Chopin,9
+2007-05,Graveworm,12
+2007-05,Incubus,67
+2007-05,K'S Choice,1
+2007-05,Mandalay,6
+2007-05,Nightwish,12
+2007-05,Paradise Lost,10
+2007-05,Placebo,26
+2007-05,T.A.T.U.,8
+2007-05,The Gathering,352
+2007-05,The White Stripes,4
+2007-05,Therion,5
+2007-05,Tool,1
+2007-05,Tracy Chapman,5
+2007-05,U2,5
+2007-06,:Of The Wand & The Moon:,6
+2007-06,A Perfect Circle,18
+2007-06,Agalloch,5
+2007-06,Anathema,211
+2007-06,Antimatter,21
+2007-06,Frédéric Chopin,3
+2007-06,Graveworm,4
+2007-06,Incubus,55
+2007-06,K'S Choice,4
+2007-06,Mandalay,7
+2007-06,Nightwish,23
+2007-06,Paradise Lost,18
+2007-06,Placebo,48
+2007-06,T.A.T.U.,51
+2007-06,The Gathering,168
+2007-06,The White Stripes,8
+2007-06,Therion,38
+2007-06,Tool,3
+2007-06,Tracy Chapman,10
+2007-06,U2,16
+2007-07,:Of The Wand & The Moon:,4
+2007-07,A Perfect Circle,46
+2007-07,Agalloch,7
+2007-07,Anathema,92
+2007-07,Antimatter,10
+2007-07,Frédéric Chopin,5
+2007-07,Graveworm,9
+2007-07,Incubus,35
+2007-07,K'S Choice,7
+2007-07,Mandalay,11
+2007-07,Nightwish,14
+2007-07,Paradise Lost,18
+2007-07,Placebo,20
+2007-07,T.A.T.U.,15
+2007-07,The Gathering,206
+2007-07,The White Stripes,7
+2007-07,Therion,29
+2007-07,Tool,4
+2007-07,Tracy Chapman,8
+2007-07,U2,5
+2007-08,:Of The Wand & The Moon:,12
+2007-08,A Perfect Circle,10
+2007-08,Agalloch,12
+2007-08,Anathema,24
+2007-08,Antimatter,13
+2007-08,Frédéric Chopin,3
+2007-08,Graveworm,2
+2007-08,Incubus,26
+2007-08,K'S Choice,5
+2007-08,Mandalay,6
+2007-08,Nightwish,16
+2007-08,Paradise Lost,16
+2007-08,Placebo,33
+2007-08,T.A.T.U.,6
+2007-08,The Gathering,82
+2007-08,The White Stripes,4
+2007-08,Therion,25
+2007-08,Tool,3
+2007-08,Tracy Chapman,2
+2007-08,U2,6
+2007-09,:Of The Wand & The Moon:,17
+2007-09,A Perfect Circle,8
+2007-09,Agalloch,8
+2007-09,Anathema,40
+2007-09,Antimatter,14
+2007-09,Frédéric Chopin,3
+2007-09,Graveworm,4
+2007-09,Incubus,26
+2007-09,K'S Choice,9
+2007-09,Mandalay,10
+2007-09,Nightwish,14
+2007-09,Paradise Lost,36
+2007-09,Placebo,27
+2007-09,T.A.T.U.,37
+2007-09,The Gathering,204
+2007-09,The White Stripes,11
+2007-09,Therion,17
+2007-09,Tool,2
+2007-09,Tracy Chapman,4
+2007-09,U2,16
+2007-10,:Of The Wand & The Moon:,28
+2007-10,A Perfect Circle,6
+2007-10,Agalloch,8
+2007-10,Anathema,28
+2007-10,Antimatter,22
+2007-10,Frédéric Chopin,3
+2007-10,Graveworm,1
+2007-10,Incubus,35
+2007-10,K'S Choice,10
+2007-10,Mandalay,8
+2007-10,Nightwish,22
+2007-10,Paradise Lost,23
+2007-10,Placebo,29
+2007-10,T.A.T.U.,4
+2007-10,The Gathering,146
+2007-10,The White Stripes,10
+2007-10,Therion,10
+2007-10,Tool,7
+2007-10,Tracy Chapman,4
+2007-10,U2,55
+2007-11,:Of The Wand & The Moon:,7
+2007-11,A Perfect Circle,15
+2007-11,Agalloch,11
+2007-11,Anathema,38
+2007-11,Antimatter,17
+2007-11,Frédéric Chopin,5
+2007-11,Graveworm,3
+2007-11,Incubus,46
+2007-11,K'S Choice,17
+2007-11,Mandalay,9
+2007-11,Nightwish,27
+2007-11,Paradise Lost,34
+2007-11,Placebo,48
+2007-11,T.A.T.U.,11
+2007-11,The Gathering,305
+2007-11,The White Stripes,7
+2007-11,Therion,13
+2007-11,Tool,5
+2007-11,Tracy Chapman,7
+2007-11,U2,14
+2007-12,:Of The Wand & The Moon:,6
+2007-12,A Perfect Circle,23
+2007-12,Agalloch,2
+2007-12,Anathema,18
+2007-12,Antimatter,8
+2007-12,Frédéric Chopin,6
+2007-12,Graveworm,7
+2007-12,Incubus,23
+2007-12,K'S Choice,5
+2007-12,Mandalay,4
+2007-12,Nightwish,485
+2007-12,Paradise Lost,29
+2007-12,Placebo,29
+2007-12,T.A.T.U.,3
+2007-12,The Gathering,43
+2007-12,The White Stripes,4
+2007-12,Therion,7
+2007-12,Tool,17
+2007-12,Tracy Chapman,7
+2007-12,U2,14
+2008-01,:Of The Wand & The Moon:,7
+2008-01,A Perfect Circle,18
+2008-01,Agalloch,6
+2008-01,Anathema,47
+2008-01,Antimatter,11
+2008-01,Frédéric Chopin,5
+2008-01,Graveworm,5
+2008-01,Incubus,37
+2008-01,K'S Choice,8
+2008-01,Mandalay,10
+2008-01,Nightwish,330
+2008-01,Paradise Lost,85
+2008-01,Placebo,24
+2008-01,T.A.T.U.,6
+2008-01,The Gathering,118
+2008-01,The White Stripes,6
+2008-01,Therion,27
+2008-01,Tool,19
+2008-01,Tracy Chapman,4
+2008-01,U2,29
+2008-02,:Of The Wand & The Moon:,5
+2008-02,A Perfect Circle,28
+2008-02,Agalloch,3
+2008-02,Anathema,27
+2008-02,Antimatter,15
+2008-02,Frédéric Chopin,17
+2008-02,Graveworm,9
+2008-02,Incubus,85
+2008-02,K'S Choice,12
+2008-02,Mandalay,10
+2008-02,Nightwish,31
+2008-02,Paradise Lost,46
+2008-02,Placebo,42
+2008-02,T.A.T.U.,18
+2008-02,The Gathering,42
+2008-02,The White Stripes,11
+2008-02,Therion,18
+2008-02,Tool,24
+2008-02,Tracy Chapman,11
+2008-02,U2,27
+2008-03,:Of The Wand & The Moon:,5
+2008-03,A Perfect Circle,17
+2008-03,Agalloch,5
+2008-03,Anathema,26
+2008-03,Antimatter,5
+2008-03,Frédéric Chopin,4
+2008-03,Graveworm,9
+2008-03,Incubus,30
+2008-03,K'S Choice,6
+2008-03,Mandalay,4
+2008-03,Nightwish,13
+2008-03,Paradise Lost,24
+2008-03,Placebo,31
+2008-03,T.A.T.U.,13
+2008-03,The Gathering,161
+2008-03,The White Stripes,11
+2008-03,Therion,18
+2008-03,Tool,8
+2008-03,Tracy Chapman,3
+2008-03,U2,31
+2008-04,:Of The Wand & The Moon:,53
+2008-04,A Perfect Circle,18
+2008-04,Agalloch,10
+2008-04,Anathema,24
+2008-04,Antimatter,16
+2008-04,Frédéric Chopin,94
+2008-04,Graveworm,7
+2008-04,Incubus,25
+2008-04,K'S Choice,11
+2008-04,Mandalay,7
+2008-04,Nightwish,22
+2008-04,Paradise Lost,23
+2008-04,Placebo,47
+2008-04,T.A.T.U.,8
+2008-04,The Gathering,43
+2008-04,The White Stripes,5
+2008-04,Therion,30
+2008-04,Tool,15
+2008-04,Tracy Chapman,8
+2008-04,U2,41
+2008-05,:Of The Wand & The Moon:,13
+2008-05,A Perfect Circle,13
+2008-05,Agalloch,6
+2008-05,Anathema,19
+2008-05,Antimatter,10
+2008-05,Frédéric Chopin,4
+2008-05,Graveworm,4
+2008-05,Incubus,39
+2008-05,K'S Choice,14
+2008-05,Mandalay,7
+2008-05,Nightwish,19
+2008-05,Paradise Lost,26
+2008-05,Placebo,44
+2008-05,T.A.T.U.,6
+2008-05,The Gathering,37
+2008-05,The White Stripes,16
+2008-05,Therion,15
+2008-05,Tool,15
+2008-05,Tracy Chapman,2
+2008-05,U2,27
+2008-06,:Of The Wand & The Moon:,12
+2008-06,A Perfect Circle,9
+2008-06,Agalloch,5
+2008-06,Anathema,27
+2008-06,Antimatter,15
+2008-06,Frédéric Chopin,11
+2008-06,Graveworm,8
+2008-06,Incubus,26
+2008-06,K'S Choice,11
+2008-06,Mandalay,9
+2008-06,Nightwish,27
+2008-06,Paradise Lost,27
+2008-06,Placebo,44
+2008-06,T.A.T.U.,11
+2008-06,The Gathering,48
+2008-06,The White Stripes,15
+2008-06,Therion,27
+2008-06,Tool,16
+2008-06,Tracy Chapman,2
+2008-06,U2,37
+2008-07,:Of The Wand & The Moon:,42
+2008-07,A Perfect Circle,1
+2008-07,Agalloch,3
+2008-07,Anathema,2
+2008-07,Antimatter,2
+2008-07,Frédéric Chopin,1
+2008-07,Graveworm,2
+2008-07,Incubus,1
+2008-07,K'S Choice,1
+2008-07,Mandalay,1
+2008-07,Nightwish,5
+2008-07,Paradise Lost,2
+2008-07,Placebo,3
+2008-07,T.A.T.U.,1
+2008-07,The Gathering,5
+2008-07,The White Stripes,1
+2008-07,Therion,5
+2008-07,Tool,3
+2008-07,Tracy Chapman,2
+2008-07,U2,4
+2008-08,:Of The Wand & The Moon:,41
+2008-08,A Perfect Circle,35
+2008-08,Agalloch,8
+2008-08,Anathema,35
+2008-08,Antimatter,18
+2008-08,Frédéric Chopin,9
+2008-08,Graveworm,10
+2008-08,Incubus,25
+2008-08,K'S Choice,15
+2008-08,Mandalay,23
+2008-08,Nightwish,21
+2008-08,Paradise Lost,37
+2008-08,Placebo,44
+2008-08,T.A.T.U.,10
+2008-08,The Gathering,40
+2008-08,The White Stripes,7
+2008-08,Therion,28
+2008-08,Tool,10
+2008-08,Tracy Chapman,10
+2008-08,U2,28
+2008-09,:Of The Wand & The Moon:,12
+2008-09,A Perfect Circle,11
+2008-09,Agalloch,4
+2008-09,Anathema,48
+2008-09,Antimatter,36
+2008-09,Frédéric Chopin,7
+2008-09,Graveworm,8
+2008-09,Incubus,16
+2008-09,K'S Choice,10
+2008-09,Mandalay,7
+2008-09,Nightwish,17
+2008-09,Paradise Lost,23
+2008-09,Placebo,27
+2008-09,T.A.T.U.,10
+2008-09,The Gathering,137
+2008-09,The White Stripes,10
+2008-09,Therion,27
+2008-09,Tool,8
+2008-09,Tracy Chapman,8
+2008-09,U2,30
+2008-10,:Of The Wand & The Moon:,6
+2008-10,A Perfect Circle,9
+2008-10,Agalloch,1
+2008-10,Anathema,29
+2008-10,Antimatter,53
+2008-10,Frédéric Chopin,3
+2008-10,Graveworm,4
+2008-10,Incubus,25
+2008-10,K'S Choice,3
+2008-10,Mandalay,4
+2008-10,Nightwish,7
+2008-10,Paradise Lost,12
+2008-10,Placebo,32
+2008-10,T.A.T.U.,4
+2008-10,The Gathering,17
+2008-10,The White Stripes,7
+2008-10,Therion,7
+2008-10,Tool,4
+2008-10,Tracy Chapman,1
+2008-10,U2,17
+2008-11,:Of The Wand & The Moon:,4
+2008-11,A Perfect Circle,15
+2008-11,Agalloch,3
+2008-11,Anathema,38
+2008-11,Antimatter,13
+2008-11,Frédéric Chopin,84
+2008-11,Graveworm,4
+2008-11,Incubus,6
+2008-11,K'S Choice,8
+2008-11,Mandalay,5
+2008-11,Nightwish,14
+2008-11,Paradise Lost,15
+2008-11,Placebo,15
+2008-11,T.A.T.U.,14
+2008-11,The Gathering,37
+2008-11,The White Stripes,3
+2008-11,Therion,8
+2008-11,Tool,12
+2008-11,Tracy Chapman,3
+2008-11,U2,19
+2008-12,:Of The Wand & The Moon:,9
+2008-12,A Perfect Circle,13
+2008-12,Agalloch,5
+2008-12,Anathema,32
+2008-12,Antimatter,13
+2008-12,Frédéric Chopin,5
+2008-12,Graveworm,9
+2008-12,Incubus,28
+2008-12,K'S Choice,9
+2008-12,Mandalay,6
+2008-12,Nightwish,25
+2008-12,Paradise Lost,23
+2008-12,Placebo,37
+2008-12,T.A.T.U.,19
+2008-12,The Gathering,44
+2008-12,The White Stripes,7
+2008-12,Therion,16
+2008-12,Tool,7
+2008-12,Tracy Chapman,4
+2008-12,U2,36
+2009-01,:Of The Wand & The Moon:,14
+2009-01,A Perfect Circle,17
+2009-01,Agalloch,4
+2009-01,Anathema,31
+2009-01,Antimatter,15
+2009-01,Frédéric Chopin,145
+2009-01,Graveworm,4
+2009-01,Incubus,32
+2009-01,K'S Choice,19
+2009-01,Mandalay,12
+2009-01,Nightwish,23
+2009-01,Paradise Lost,11
+2009-01,Placebo,46
+2009-01,T.A.T.U.,10
+2009-01,The Gathering,55
+2009-01,The White Stripes,11
+2009-01,Therion,14
+2009-01,Tool,14
+2009-01,Tracy Chapman,5
+2009-01,U2,30
+2009-02,:Of The Wand & The Moon:,30
+2009-02,A Perfect Circle,15
+2009-02,Agalloch,4
+2009-02,Anathema,25
+2009-02,Antimatter,14
+2009-02,Frédéric Chopin,6
+2009-02,Graveworm,6
+2009-02,Incubus,20
+2009-02,K'S Choice,8
+2009-02,Mandalay,9
+2009-02,Nightwish,30
+2009-02,Paradise Lost,29
+2009-02,Placebo,36
+2009-02,T.A.T.U.,17
+2009-02,The Gathering,213
+2009-02,The White Stripes,8
+2009-02,Therion,18
+2009-02,Tool,13
+2009-02,Tracy Chapman,6
+2009-02,U2,35
+2009-03,:Of The Wand & The Moon:,5
+2009-03,A Perfect Circle,8
+2009-03,Agalloch,4
+2009-03,Anathema,49
+2009-03,Antimatter,12
+2009-03,Frédéric Chopin,6
+2009-03,Graveworm,4
+2009-03,Incubus,24
+2009-03,K'S Choice,7
+2009-03,Mandalay,9
+2009-03,Nightwish,22
+2009-03,Paradise Lost,34
+2009-03,Placebo,22
+2009-03,T.A.T.U.,5
+2009-03,The Gathering,114
+2009-03,The White Stripes,4
+2009-03,Therion,25
+2009-03,Tool,6
+2009-03,Tracy Chapman,8
+2009-03,U2,23
+2009-04,:Of The Wand & The Moon:,65
+2009-04,A Perfect Circle,9
+2009-04,Agalloch,2
+2009-04,Anathema,21
+2009-04,Antimatter,18
+2009-04,Frédéric Chopin,28
+2009-04,Graveworm,11
+2009-04,Incubus,6
+2009-04,K'S Choice,2
+2009-04,Mandalay,2
+2009-04,Nightwish,4
+2009-04,Paradise Lost,25
+2009-04,Placebo,59
+2009-04,T.A.T.U.,19
+2009-04,The Gathering,220
+2009-04,The White Stripes,1
+2009-04,Therion,12
+2009-04,Tool,5
+2009-04,Tracy Chapman,11
+2009-04,U2,28
+2009-05,:Of The Wand & The Moon:,0
+2009-05,A Perfect Circle,0
+2009-05,Agalloch,0
+2009-05,Anathema,0
+2009-05,Antimatter,0
+2009-05,Frédéric Chopin,0
+2009-05,Graveworm,0
+2009-05,Incubus,0
+2009-05,K'S Choice,0
+2009-05,Mandalay,0
+2009-05,Nightwish,1
+2009-05,Paradise Lost,0
+2009-05,Placebo,1
+2009-05,T.A.T.U.,0
+2009-05,The Gathering,1
+2009-05,The White Stripes,0
+2009-05,Therion,1
+2009-05,Tool,0
+2009-05,Tracy Chapman,0
+2009-05,U2,0

@@ -1,0 +1,901 @@
+month,artist,plays
+2005-08,Ac/Dc,0
+2005-08,Aerosmith,0
+2005-08,Antonio Vivaldi,0
+2005-08,Coldplay,1
+2005-08,Deep Purple,0
+2005-08,Edvard Grieg,0
+2005-08,Guns N' Roses,0
+2005-08,Jimi Hendrix,0
+2005-08,Joe Satriani,0
+2005-08,Johann Sebastian Bach,0
+2005-08,Ludwig Van Beethoven,0
+2005-08,Luna Amară,0
+2005-08,Metallica,50
+2005-08,Nirvana,0
+2005-08,Pantera,0
+2005-08,Pink Floyd,0
+2005-08,Queen,0
+2005-08,Red Hot Chili Peppers,9
+2005-08,Van Halen,0
+2005-08,Wolfgang Amadeus Mozart,0
+2005-09,Ac/Dc,0
+2005-09,Aerosmith,19
+2005-09,Antonio Vivaldi,0
+2005-09,Coldplay,9
+2005-09,Deep Purple,0
+2005-09,Edvard Grieg,0
+2005-09,Guns N' Roses,10
+2005-09,Jimi Hendrix,0
+2005-09,Joe Satriani,0
+2005-09,Johann Sebastian Bach,0
+2005-09,Ludwig Van Beethoven,0
+2005-09,Luna Amară,0
+2005-09,Metallica,64
+2005-09,Nirvana,7
+2005-09,Pantera,0
+2005-09,Pink Floyd,0
+2005-09,Queen,0
+2005-09,Red Hot Chili Peppers,12
+2005-09,Van Halen,0
+2005-09,Wolfgang Amadeus Mozart,0
+2005-10,Ac/Dc,0
+2005-10,Aerosmith,5
+2005-10,Antonio Vivaldi,0
+2005-10,Coldplay,0
+2005-10,Deep Purple,0
+2005-10,Edvard Grieg,0
+2005-10,Guns N' Roses,0
+2005-10,Jimi Hendrix,0
+2005-10,Joe Satriani,0
+2005-10,Johann Sebastian Bach,0
+2005-10,Ludwig Van Beethoven,0
+2005-10,Luna Amară,0
+2005-10,Metallica,3
+2005-10,Nirvana,0
+2005-10,Pantera,0
+2005-10,Pink Floyd,0
+2005-10,Queen,0
+2005-10,Red Hot Chili Peppers,1
+2005-10,Van Halen,0
+2005-10,Wolfgang Amadeus Mozart,0
+2005-11,Ac/Dc,0
+2005-11,Aerosmith,22
+2005-11,Antonio Vivaldi,0
+2005-11,Coldplay,0
+2005-11,Deep Purple,0
+2005-11,Edvard Grieg,0
+2005-11,Guns N' Roses,21
+2005-11,Jimi Hendrix,0
+2005-11,Joe Satriani,0
+2005-11,Johann Sebastian Bach,0
+2005-11,Ludwig Van Beethoven,0
+2005-11,Luna Amară,0
+2005-11,Metallica,0
+2005-11,Nirvana,0
+2005-11,Pantera,0
+2005-11,Pink Floyd,0
+2005-11,Queen,0
+2005-11,Red Hot Chili Peppers,0
+2005-11,Van Halen,0
+2005-11,Wolfgang Amadeus Mozart,0
+2005-12,Ac/Dc,0
+2005-12,Aerosmith,0
+2005-12,Antonio Vivaldi,0
+2005-12,Coldplay,0
+2005-12,Deep Purple,0
+2005-12,Edvard Grieg,0
+2005-12,Guns N' Roses,3
+2005-12,Jimi Hendrix,0
+2005-12,Joe Satriani,0
+2005-12,Johann Sebastian Bach,0
+2005-12,Ludwig Van Beethoven,0
+2005-12,Luna Amară,0
+2005-12,Metallica,0
+2005-12,Nirvana,15
+2005-12,Pantera,0
+2005-12,Pink Floyd,0
+2005-12,Queen,0
+2005-12,Red Hot Chili Peppers,0
+2005-12,Van Halen,0
+2005-12,Wolfgang Amadeus Mozart,0
+2006-01,Ac/Dc,0
+2006-01,Aerosmith,4
+2006-01,Antonio Vivaldi,0
+2006-01,Coldplay,0
+2006-01,Deep Purple,14
+2006-01,Edvard Grieg,0
+2006-01,Guns N' Roses,49
+2006-01,Jimi Hendrix,6
+2006-01,Joe Satriani,0
+2006-01,Johann Sebastian Bach,0
+2006-01,Ludwig Van Beethoven,2
+2006-01,Luna Amară,0
+2006-01,Metallica,5
+2006-01,Nirvana,0
+2006-01,Pantera,0
+2006-01,Pink Floyd,68
+2006-01,Queen,0
+2006-01,Red Hot Chili Peppers,6
+2006-01,Van Halen,0
+2006-01,Wolfgang Amadeus Mozart,1
+2006-02,Ac/Dc,0
+2006-02,Aerosmith,6
+2006-02,Antonio Vivaldi,0
+2006-02,Coldplay,39
+2006-02,Deep Purple,9
+2006-02,Edvard Grieg,0
+2006-02,Guns N' Roses,39
+2006-02,Jimi Hendrix,3
+2006-02,Joe Satriani,76
+2006-02,Johann Sebastian Bach,0
+2006-02,Ludwig Van Beethoven,0
+2006-02,Luna Amară,0
+2006-02,Metallica,30
+2006-02,Nirvana,0
+2006-02,Pantera,3
+2006-02,Pink Floyd,23
+2006-02,Queen,0
+2006-02,Red Hot Chili Peppers,21
+2006-02,Van Halen,0
+2006-02,Wolfgang Amadeus Mozart,0
+2006-03,Ac/Dc,0
+2006-03,Aerosmith,8
+2006-03,Antonio Vivaldi,43
+2006-03,Coldplay,91
+2006-03,Deep Purple,2
+2006-03,Edvard Grieg,16
+2006-03,Guns N' Roses,40
+2006-03,Jimi Hendrix,6
+2006-03,Joe Satriani,6
+2006-03,Johann Sebastian Bach,18
+2006-03,Ludwig Van Beethoven,17
+2006-03,Luna Amară,29
+2006-03,Metallica,20
+2006-03,Nirvana,5
+2006-03,Pantera,10
+2006-03,Pink Floyd,49
+2006-03,Queen,1
+2006-03,Red Hot Chili Peppers,98
+2006-03,Van Halen,3
+2006-03,Wolfgang Amadeus Mozart,13
+2006-04,Ac/Dc,0
+2006-04,Aerosmith,0
+2006-04,Antonio Vivaldi,44
+2006-04,Coldplay,145
+2006-04,Deep Purple,2
+2006-04,Edvard Grieg,1
+2006-04,Guns N' Roses,14
+2006-04,Jimi Hendrix,7
+2006-04,Joe Satriani,3
+2006-04,Johann Sebastian Bach,2
+2006-04,Ludwig Van Beethoven,4
+2006-04,Luna Amară,13
+2006-04,Metallica,5
+2006-04,Nirvana,0
+2006-04,Pantera,3
+2006-04,Pink Floyd,44
+2006-04,Queen,1
+2006-04,Red Hot Chili Peppers,58
+2006-04,Van Halen,1
+2006-04,Wolfgang Amadeus Mozart,1
+2006-05,Ac/Dc,1
+2006-05,Aerosmith,8
+2006-05,Antonio Vivaldi,50
+2006-05,Coldplay,0
+2006-05,Deep Purple,2
+2006-05,Edvard Grieg,0
+2006-05,Guns N' Roses,8
+2006-05,Jimi Hendrix,7
+2006-05,Joe Satriani,3
+2006-05,Johann Sebastian Bach,3
+2006-05,Ludwig Van Beethoven,3
+2006-05,Luna Amară,0
+2006-05,Metallica,46
+2006-05,Nirvana,6
+2006-05,Pantera,5
+2006-05,Pink Floyd,41
+2006-05,Queen,2
+2006-05,Red Hot Chili Peppers,168
+2006-05,Van Halen,1
+2006-05,Wolfgang Amadeus Mozart,0
+2006-06,Ac/Dc,0
+2006-06,Aerosmith,0
+2006-06,Antonio Vivaldi,22
+2006-06,Coldplay,35
+2006-06,Deep Purple,0
+2006-06,Edvard Grieg,11
+2006-06,Guns N' Roses,5
+2006-06,Jimi Hendrix,1
+2006-06,Joe Satriani,4
+2006-06,Johann Sebastian Bach,5
+2006-06,Ludwig Van Beethoven,6
+2006-06,Luna Amară,2
+2006-06,Metallica,18
+2006-06,Nirvana,23
+2006-06,Pantera,9
+2006-06,Pink Floyd,40
+2006-06,Queen,0
+2006-06,Red Hot Chili Peppers,1
+2006-06,Van Halen,1
+2006-06,Wolfgang Amadeus Mozart,3
+2006-07,Ac/Dc,1
+2006-07,Aerosmith,3
+2006-07,Antonio Vivaldi,77
+2006-07,Coldplay,24
+2006-07,Deep Purple,1
+2006-07,Edvard Grieg,3
+2006-07,Guns N' Roses,29
+2006-07,Jimi Hendrix,6
+2006-07,Joe Satriani,9
+2006-07,Johann Sebastian Bach,0
+2006-07,Ludwig Van Beethoven,0
+2006-07,Luna Amară,0
+2006-07,Metallica,20
+2006-07,Nirvana,19
+2006-07,Pantera,1
+2006-07,Pink Floyd,21
+2006-07,Queen,246
+2006-07,Red Hot Chili Peppers,48
+2006-07,Van Halen,4
+2006-07,Wolfgang Amadeus Mozart,2
+2006-08,Ac/Dc,8
+2006-08,Aerosmith,1
+2006-08,Antonio Vivaldi,0
+2006-08,Coldplay,14
+2006-08,Deep Purple,2
+2006-08,Edvard Grieg,0
+2006-08,Guns N' Roses,16
+2006-08,Jimi Hendrix,13
+2006-08,Joe Satriani,19
+2006-08,Johann Sebastian Bach,0
+2006-08,Ludwig Van Beethoven,0
+2006-08,Luna Amară,11
+2006-08,Metallica,37
+2006-08,Nirvana,42
+2006-08,Pantera,8
+2006-08,Pink Floyd,26
+2006-08,Queen,58
+2006-08,Red Hot Chili Peppers,233
+2006-08,Van Halen,4
+2006-08,Wolfgang Amadeus Mozart,1
+2006-09,Ac/Dc,15
+2006-09,Aerosmith,5
+2006-09,Antonio Vivaldi,17
+2006-09,Coldplay,5
+2006-09,Deep Purple,4
+2006-09,Edvard Grieg,11
+2006-09,Guns N' Roses,6
+2006-09,Jimi Hendrix,11
+2006-09,Joe Satriani,29
+2006-09,Johann Sebastian Bach,1
+2006-09,Ludwig Van Beethoven,0
+2006-09,Luna Amară,1
+2006-09,Metallica,84
+2006-09,Nirvana,4
+2006-09,Pantera,13
+2006-09,Pink Floyd,67
+2006-09,Queen,137
+2006-09,Red Hot Chili Peppers,27
+2006-09,Van Halen,1
+2006-09,Wolfgang Amadeus Mozart,2
+2006-10,Ac/Dc,13
+2006-10,Aerosmith,1
+2006-10,Antonio Vivaldi,49
+2006-10,Coldplay,27
+2006-10,Deep Purple,5
+2006-10,Edvard Grieg,10
+2006-10,Guns N' Roses,7
+2006-10,Jimi Hendrix,11
+2006-10,Joe Satriani,6
+2006-10,Johann Sebastian Bach,0
+2006-10,Ludwig Van Beethoven,0
+2006-10,Luna Amară,1
+2006-10,Metallica,62
+2006-10,Nirvana,2
+2006-10,Pantera,16
+2006-10,Pink Floyd,49
+2006-10,Queen,380
+2006-10,Red Hot Chili Peppers,43
+2006-10,Van Halen,7
+2006-10,Wolfgang Amadeus Mozart,2
+2006-11,Ac/Dc,3
+2006-11,Aerosmith,0
+2006-11,Antonio Vivaldi,39
+2006-11,Coldplay,0
+2006-11,Deep Purple,1
+2006-11,Edvard Grieg,10
+2006-11,Guns N' Roses,13
+2006-11,Jimi Hendrix,6
+2006-11,Joe Satriani,5
+2006-11,Johann Sebastian Bach,2
+2006-11,Ludwig Van Beethoven,1
+2006-11,Luna Amară,0
+2006-11,Metallica,95
+2006-11,Nirvana,4
+2006-11,Pantera,6
+2006-11,Pink Floyd,74
+2006-11,Queen,163
+2006-11,Red Hot Chili Peppers,89
+2006-11,Van Halen,1
+2006-11,Wolfgang Amadeus Mozart,9
+2006-12,Ac/Dc,6
+2006-12,Aerosmith,0
+2006-12,Antonio Vivaldi,32
+2006-12,Coldplay,13
+2006-12,Deep Purple,1
+2006-12,Edvard Grieg,11
+2006-12,Guns N' Roses,3
+2006-12,Jimi Hendrix,0
+2006-12,Joe Satriani,1
+2006-12,Johann Sebastian Bach,0
+2006-12,Ludwig Van Beethoven,0
+2006-12,Luna Amară,0
+2006-12,Metallica,13
+2006-12,Nirvana,1
+2006-12,Pantera,15
+2006-12,Pink Floyd,33
+2006-12,Queen,59
+2006-12,Red Hot Chili Peppers,89
+2006-12,Van Halen,10
+2006-12,Wolfgang Amadeus Mozart,2
+2007-01,Ac/Dc,0
+2007-01,Aerosmith,2
+2007-01,Antonio Vivaldi,23
+2007-01,Coldplay,0
+2007-01,Deep Purple,2
+2007-01,Edvard Grieg,6
+2007-01,Guns N' Roses,25
+2007-01,Jimi Hendrix,9
+2007-01,Joe Satriani,3
+2007-01,Johann Sebastian Bach,1
+2007-01,Ludwig Van Beethoven,2
+2007-01,Luna Amară,10
+2007-01,Metallica,16
+2007-01,Nirvana,2
+2007-01,Pantera,3
+2007-01,Pink Floyd,16
+2007-01,Queen,209
+2007-01,Red Hot Chili Peppers,54
+2007-01,Van Halen,2
+2007-01,Wolfgang Amadeus Mozart,6
+2007-02,Ac/Dc,0
+2007-02,Aerosmith,0
+2007-02,Antonio Vivaldi,0
+2007-02,Coldplay,66
+2007-02,Deep Purple,1
+2007-02,Edvard Grieg,0
+2007-02,Guns N' Roses,39
+2007-02,Jimi Hendrix,3
+2007-02,Joe Satriani,26
+2007-02,Johann Sebastian Bach,0
+2007-02,Ludwig Van Beethoven,1
+2007-02,Luna Amară,3
+2007-02,Metallica,35
+2007-02,Nirvana,2
+2007-02,Pantera,3
+2007-02,Pink Floyd,40
+2007-02,Queen,5
+2007-02,Red Hot Chili Peppers,8
+2007-02,Van Halen,1
+2007-02,Wolfgang Amadeus Mozart,0
+2007-03,Ac/Dc,7
+2007-03,Aerosmith,2
+2007-03,Antonio Vivaldi,0
+2007-03,Coldplay,96
+2007-03,Deep Purple,12
+2007-03,Edvard Grieg,1
+2007-03,Guns N' Roses,38
+2007-03,Jimi Hendrix,0
+2007-03,Joe Satriani,1
+2007-03,Johann Sebastian Bach,1
+2007-03,Ludwig Van Beethoven,1
+2007-03,Luna Amară,8
+2007-03,Metallica,148
+2007-03,Nirvana,1
+2007-03,Pantera,22
+2007-03,Pink Floyd,27
+2007-03,Queen,16
+2007-03,Red Hot Chili Peppers,48
+2007-03,Van Halen,11
+2007-03,Wolfgang Amadeus Mozart,2
+2007-04,Ac/Dc,2
+2007-04,Aerosmith,0
+2007-04,Antonio Vivaldi,0
+2007-04,Coldplay,75
+2007-04,Deep Purple,9
+2007-04,Edvard Grieg,1
+2007-04,Guns N' Roses,40
+2007-04,Jimi Hendrix,0
+2007-04,Joe Satriani,3
+2007-04,Johann Sebastian Bach,1
+2007-04,Ludwig Van Beethoven,1
+2007-04,Luna Amară,1
+2007-04,Metallica,64
+2007-04,Nirvana,1
+2007-04,Pantera,1
+2007-04,Pink Floyd,38
+2007-04,Queen,6
+2007-04,Red Hot Chili Peppers,168
+2007-04,Van Halen,0
+2007-04,Wolfgang Amadeus Mozart,2
+2007-05,Ac/Dc,3
+2007-05,Aerosmith,17
+2007-05,Antonio Vivaldi,4
+2007-05,Coldplay,41
+2007-05,Deep Purple,0
+2007-05,Edvard Grieg,11
+2007-05,Guns N' Roses,0
+2007-05,Jimi Hendrix,12
+2007-05,Joe Satriani,9
+2007-05,Johann Sebastian Bach,1
+2007-05,Ludwig Van Beethoven,43
+2007-05,Luna Amară,171
+2007-05,Metallica,54
+2007-05,Nirvana,2
+2007-05,Pantera,13
+2007-05,Pink Floyd,99
+2007-05,Queen,1
+2007-05,Red Hot Chili Peppers,5
+2007-05,Van Halen,0
+2007-05,Wolfgang Amadeus Mozart,0
+2007-06,Ac/Dc,0
+2007-06,Aerosmith,0
+2007-06,Antonio Vivaldi,0
+2007-06,Coldplay,22
+2007-06,Deep Purple,0
+2007-06,Edvard Grieg,1
+2007-06,Guns N' Roses,74
+2007-06,Jimi Hendrix,6
+2007-06,Joe Satriani,19
+2007-06,Johann Sebastian Bach,0
+2007-06,Ludwig Van Beethoven,5
+2007-06,Luna Amară,59
+2007-06,Metallica,40
+2007-06,Nirvana,6
+2007-06,Pantera,14
+2007-06,Pink Floyd,108
+2007-06,Queen,12
+2007-06,Red Hot Chili Peppers,32
+2007-06,Van Halen,1
+2007-06,Wolfgang Amadeus Mozart,19
+2007-07,Ac/Dc,16
+2007-07,Aerosmith,4
+2007-07,Antonio Vivaldi,2
+2007-07,Coldplay,11
+2007-07,Deep Purple,0
+2007-07,Edvard Grieg,1
+2007-07,Guns N' Roses,51
+2007-07,Jimi Hendrix,1
+2007-07,Joe Satriani,10
+2007-07,Johann Sebastian Bach,1
+2007-07,Ludwig Van Beethoven,0
+2007-07,Luna Amară,2
+2007-07,Metallica,87
+2007-07,Nirvana,1
+2007-07,Pantera,2
+2007-07,Pink Floyd,55
+2007-07,Queen,62
+2007-07,Red Hot Chili Peppers,0
+2007-07,Van Halen,2
+2007-07,Wolfgang Amadeus Mozart,0
+2007-08,Ac/Dc,39
+2007-08,Aerosmith,12
+2007-08,Antonio Vivaldi,0
+2007-08,Coldplay,23
+2007-08,Deep Purple,10
+2007-08,Edvard Grieg,1
+2007-08,Guns N' Roses,32
+2007-08,Jimi Hendrix,3
+2007-08,Joe Satriani,3
+2007-08,Johann Sebastian Bach,0
+2007-08,Ludwig Van Beethoven,1
+2007-08,Luna Amară,26
+2007-08,Metallica,20
+2007-08,Nirvana,6
+2007-08,Pantera,5
+2007-08,Pink Floyd,25
+2007-08,Queen,55
+2007-08,Red Hot Chili Peppers,8
+2007-08,Van Halen,1
+2007-08,Wolfgang Amadeus Mozart,0
+2007-09,Ac/Dc,1
+2007-09,Aerosmith,46
+2007-09,Antonio Vivaldi,0
+2007-09,Coldplay,33
+2007-09,Deep Purple,1
+2007-09,Edvard Grieg,0
+2007-09,Guns N' Roses,5
+2007-09,Jimi Hendrix,9
+2007-09,Joe Satriani,3
+2007-09,Johann Sebastian Bach,0
+2007-09,Ludwig Van Beethoven,0
+2007-09,Luna Amară,0
+2007-09,Metallica,78
+2007-09,Nirvana,1
+2007-09,Pantera,3
+2007-09,Pink Floyd,19
+2007-09,Queen,5
+2007-09,Red Hot Chili Peppers,2
+2007-09,Van Halen,0
+2007-09,Wolfgang Amadeus Mozart,0
+2007-10,Ac/Dc,0
+2007-10,Aerosmith,14
+2007-10,Antonio Vivaldi,2
+2007-10,Coldplay,0
+2007-10,Deep Purple,2
+2007-10,Edvard Grieg,1
+2007-10,Guns N' Roses,0
+2007-10,Jimi Hendrix,2
+2007-10,Joe Satriani,0
+2007-10,Johann Sebastian Bach,3
+2007-10,Ludwig Van Beethoven,4
+2007-10,Luna Amară,34
+2007-10,Metallica,39
+2007-10,Nirvana,4
+2007-10,Pantera,1
+2007-10,Pink Floyd,151
+2007-10,Queen,47
+2007-10,Red Hot Chili Peppers,1
+2007-10,Van Halen,2
+2007-10,Wolfgang Amadeus Mozart,3
+2007-11,Ac/Dc,0
+2007-11,Aerosmith,0
+2007-11,Antonio Vivaldi,1
+2007-11,Coldplay,3
+2007-11,Deep Purple,0
+2007-11,Edvard Grieg,1
+2007-11,Guns N' Roses,0
+2007-11,Jimi Hendrix,1
+2007-11,Joe Satriani,0
+2007-11,Johann Sebastian Bach,6
+2007-11,Ludwig Van Beethoven,4
+2007-11,Luna Amară,0
+2007-11,Metallica,38
+2007-11,Nirvana,0
+2007-11,Pantera,0
+2007-11,Pink Floyd,346
+2007-11,Queen,161
+2007-11,Red Hot Chili Peppers,0
+2007-11,Van Halen,0
+2007-11,Wolfgang Amadeus Mozart,5
+2007-12,Ac/Dc,0
+2007-12,Aerosmith,1
+2007-12,Antonio Vivaldi,0
+2007-12,Coldplay,101
+2007-12,Deep Purple,1
+2007-12,Edvard Grieg,0
+2007-12,Guns N' Roses,13
+2007-12,Jimi Hendrix,1
+2007-12,Joe Satriani,0
+2007-12,Johann Sebastian Bach,1
+2007-12,Ludwig Van Beethoven,0
+2007-12,Luna Amară,11
+2007-12,Metallica,53
+2007-12,Nirvana,0
+2007-12,Pantera,21
+2007-12,Pink Floyd,64
+2007-12,Queen,37
+2007-12,Red Hot Chili Peppers,1
+2007-12,Van Halen,0
+2007-12,Wolfgang Amadeus Mozart,0
+2008-01,Ac/Dc,0
+2008-01,Aerosmith,0
+2008-01,Antonio Vivaldi,0
+2008-01,Coldplay,0
+2008-01,Deep Purple,0
+2008-01,Edvard Grieg,0
+2008-01,Guns N' Roses,37
+2008-01,Jimi Hendrix,5
+2008-01,Joe Satriani,0
+2008-01,Johann Sebastian Bach,0
+2008-01,Ludwig Van Beethoven,0
+2008-01,Luna Amară,0
+2008-01,Metallica,20
+2008-01,Nirvana,1
+2008-01,Pantera,4
+2008-01,Pink Floyd,225
+2008-01,Queen,33
+2008-01,Red Hot Chili Peppers,0
+2008-01,Van Halen,0
+2008-01,Wolfgang Amadeus Mozart,0
+2008-02,Ac/Dc,8
+2008-02,Aerosmith,1
+2008-02,Antonio Vivaldi,0
+2008-02,Coldplay,23
+2008-02,Deep Purple,1
+2008-02,Edvard Grieg,0
+2008-02,Guns N' Roses,15
+2008-02,Jimi Hendrix,1
+2008-02,Joe Satriani,0
+2008-02,Johann Sebastian Bach,2
+2008-02,Ludwig Van Beethoven,0
+2008-02,Luna Amară,42
+2008-02,Metallica,16
+2008-02,Nirvana,0
+2008-02,Pantera,2
+2008-02,Pink Floyd,93
+2008-02,Queen,21
+2008-02,Red Hot Chili Peppers,0
+2008-02,Van Halen,2
+2008-02,Wolfgang Amadeus Mozart,0
+2008-03,Ac/Dc,0
+2008-03,Aerosmith,19
+2008-03,Antonio Vivaldi,0
+2008-03,Coldplay,3
+2008-03,Deep Purple,13
+2008-03,Edvard Grieg,0
+2008-03,Guns N' Roses,15
+2008-03,Jimi Hendrix,0
+2008-03,Joe Satriani,0
+2008-03,Johann Sebastian Bach,0
+2008-03,Ludwig Van Beethoven,0
+2008-03,Luna Amară,54
+2008-03,Metallica,56
+2008-03,Nirvana,0
+2008-03,Pantera,0
+2008-03,Pink Floyd,67
+2008-03,Queen,5
+2008-03,Red Hot Chili Peppers,2
+2008-03,Van Halen,3
+2008-03,Wolfgang Amadeus Mozart,0
+2008-04,Ac/Dc,4
+2008-04,Aerosmith,0
+2008-04,Antonio Vivaldi,5
+2008-04,Coldplay,114
+2008-04,Deep Purple,7
+2008-04,Edvard Grieg,4
+2008-04,Guns N' Roses,0
+2008-04,Jimi Hendrix,0
+2008-04,Joe Satriani,0
+2008-04,Johann Sebastian Bach,20
+2008-04,Ludwig Van Beethoven,24
+2008-04,Luna Amară,16
+2008-04,Metallica,34
+2008-04,Nirvana,0
+2008-04,Pantera,0
+2008-04,Pink Floyd,21
+2008-04,Queen,117
+2008-04,Red Hot Chili Peppers,22
+2008-04,Van Halen,0
+2008-04,Wolfgang Amadeus Mozart,23
+2008-05,Ac/Dc,1
+2008-05,Aerosmith,0
+2008-05,Antonio Vivaldi,1
+2008-05,Coldplay,0
+2008-05,Deep Purple,0
+2008-05,Edvard Grieg,1
+2008-05,Guns N' Roses,0
+2008-05,Jimi Hendrix,0
+2008-05,Joe Satriani,0
+2008-05,Johann Sebastian Bach,4
+2008-05,Ludwig Van Beethoven,2
+2008-05,Luna Amară,0
+2008-05,Metallica,3
+2008-05,Nirvana,0
+2008-05,Pantera,0
+2008-05,Pink Floyd,2
+2008-05,Queen,60
+2008-05,Red Hot Chili Peppers,0
+2008-05,Van Halen,0
+2008-05,Wolfgang Amadeus Mozart,5
+2008-06,Ac/Dc,1
+2008-06,Aerosmith,2
+2008-06,Antonio Vivaldi,0
+2008-06,Coldplay,0
+2008-06,Deep Purple,1
+2008-06,Edvard Grieg,1
+2008-06,Guns N' Roses,3
+2008-06,Jimi Hendrix,0
+2008-06,Joe Satriani,0
+2008-06,Johann Sebastian Bach,1
+2008-06,Ludwig Van Beethoven,3
+2008-06,Luna Amară,0
+2008-06,Metallica,9
+2008-06,Nirvana,1
+2008-06,Pantera,2
+2008-06,Pink Floyd,86
+2008-06,Queen,1
+2008-06,Red Hot Chili Peppers,13
+2008-06,Van Halen,3
+2008-06,Wolfgang Amadeus Mozart,2
+2008-07,Ac/Dc,0
+2008-07,Aerosmith,0
+2008-07,Antonio Vivaldi,5
+2008-07,Coldplay,0
+2008-07,Deep Purple,0
+2008-07,Edvard Grieg,0
+2008-07,Guns N' Roses,4
+2008-07,Jimi Hendrix,0
+2008-07,Joe Satriani,0
+2008-07,Johann Sebastian Bach,10
+2008-07,Ludwig Van Beethoven,12
+2008-07,Luna Amară,0
+2008-07,Metallica,39
+2008-07,Nirvana,0
+2008-07,Pantera,9
+2008-07,Pink Floyd,42
+2008-07,Queen,3
+2008-07,Red Hot Chili Peppers,0
+2008-07,Van Halen,1
+2008-07,Wolfgang Amadeus Mozart,23
+2008-08,Ac/Dc,5
+2008-08,Aerosmith,0
+2008-08,Antonio Vivaldi,2
+2008-08,Coldplay,0
+2008-08,Deep Purple,0
+2008-08,Edvard Grieg,1
+2008-08,Guns N' Roses,0
+2008-08,Jimi Hendrix,0
+2008-08,Joe Satriani,0
+2008-08,Johann Sebastian Bach,8
+2008-08,Ludwig Van Beethoven,8
+2008-08,Luna Amară,0
+2008-08,Metallica,19
+2008-08,Nirvana,0
+2008-08,Pantera,2
+2008-08,Pink Floyd,14
+2008-08,Queen,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,Van Halen,0
+2008-08,Wolfgang Amadeus Mozart,5
+2008-09,Ac/Dc,10
+2008-09,Aerosmith,2
+2008-09,Antonio Vivaldi,0
+2008-09,Coldplay,0
+2008-09,Deep Purple,5
+2008-09,Edvard Grieg,0
+2008-09,Guns N' Roses,0
+2008-09,Jimi Hendrix,82
+2008-09,Joe Satriani,0
+2008-09,Johann Sebastian Bach,0
+2008-09,Ludwig Van Beethoven,1
+2008-09,Luna Amară,0
+2008-09,Metallica,8
+2008-09,Nirvana,0
+2008-09,Pantera,0
+2008-09,Pink Floyd,61
+2008-09,Queen,47
+2008-09,Red Hot Chili Peppers,17
+2008-09,Van Halen,0
+2008-09,Wolfgang Amadeus Mozart,0
+2008-10,Ac/Dc,2
+2008-10,Aerosmith,0
+2008-10,Antonio Vivaldi,2
+2008-10,Coldplay,121
+2008-10,Deep Purple,3
+2008-10,Edvard Grieg,0
+2008-10,Guns N' Roses,6
+2008-10,Jimi Hendrix,64
+2008-10,Joe Satriani,3
+2008-10,Johann Sebastian Bach,12
+2008-10,Ludwig Van Beethoven,2
+2008-10,Luna Amară,0
+2008-10,Metallica,4
+2008-10,Nirvana,5
+2008-10,Pantera,1
+2008-10,Pink Floyd,74
+2008-10,Queen,34
+2008-10,Red Hot Chili Peppers,15
+2008-10,Van Halen,4
+2008-10,Wolfgang Amadeus Mozart,3
+2008-11,Ac/Dc,1
+2008-11,Aerosmith,0
+2008-11,Antonio Vivaldi,3
+2008-11,Coldplay,82
+2008-11,Deep Purple,1
+2008-11,Edvard Grieg,1
+2008-11,Guns N' Roses,26
+2008-11,Jimi Hendrix,13
+2008-11,Joe Satriani,3
+2008-11,Johann Sebastian Bach,23
+2008-11,Ludwig Van Beethoven,40
+2008-11,Luna Amară,6
+2008-11,Metallica,2
+2008-11,Nirvana,0
+2008-11,Pantera,0
+2008-11,Pink Floyd,40
+2008-11,Queen,55
+2008-11,Red Hot Chili Peppers,10
+2008-11,Van Halen,0
+2008-11,Wolfgang Amadeus Mozart,5
+2008-12,Ac/Dc,0
+2008-12,Aerosmith,2
+2008-12,Antonio Vivaldi,6
+2008-12,Coldplay,0
+2008-12,Deep Purple,3
+2008-12,Edvard Grieg,1
+2008-12,Guns N' Roses,19
+2008-12,Jimi Hendrix,14
+2008-12,Joe Satriani,2
+2008-12,Johann Sebastian Bach,8
+2008-12,Ludwig Van Beethoven,5
+2008-12,Luna Amară,21
+2008-12,Metallica,5
+2008-12,Nirvana,0
+2008-12,Pantera,0
+2008-12,Pink Floyd,14
+2008-12,Queen,25
+2008-12,Red Hot Chili Peppers,5
+2008-12,Van Halen,1
+2008-12,Wolfgang Amadeus Mozart,5
+2009-01,Ac/Dc,0
+2009-01,Aerosmith,6
+2009-01,Antonio Vivaldi,2
+2009-01,Coldplay,4
+2009-01,Deep Purple,6
+2009-01,Edvard Grieg,0
+2009-01,Guns N' Roses,10
+2009-01,Jimi Hendrix,13
+2009-01,Joe Satriani,0
+2009-01,Johann Sebastian Bach,5
+2009-01,Ludwig Van Beethoven,1
+2009-01,Luna Amară,67
+2009-01,Metallica,13
+2009-01,Nirvana,1
+2009-01,Pantera,1
+2009-01,Pink Floyd,14
+2009-01,Queen,30
+2009-01,Red Hot Chili Peppers,2
+2009-01,Van Halen,1
+2009-01,Wolfgang Amadeus Mozart,3
+2009-02,Ac/Dc,5
+2009-02,Aerosmith,0
+2009-02,Antonio Vivaldi,0
+2009-02,Coldplay,6
+2009-02,Deep Purple,0
+2009-02,Edvard Grieg,1
+2009-02,Guns N' Roses,1
+2009-02,Jimi Hendrix,0
+2009-02,Joe Satriani,0
+2009-02,Johann Sebastian Bach,4
+2009-02,Ludwig Van Beethoven,2
+2009-02,Luna Amară,1
+2009-02,Metallica,8
+2009-02,Nirvana,0
+2009-02,Pantera,0
+2009-02,Pink Floyd,35
+2009-02,Queen,1
+2009-02,Red Hot Chili Peppers,0
+2009-02,Van Halen,0
+2009-02,Wolfgang Amadeus Mozart,2
+2009-03,Ac/Dc,4
+2009-03,Aerosmith,0
+2009-03,Antonio Vivaldi,1
+2009-03,Coldplay,2
+2009-03,Deep Purple,1
+2009-03,Edvard Grieg,1
+2009-03,Guns N' Roses,2
+2009-03,Jimi Hendrix,1
+2009-03,Joe Satriani,0
+2009-03,Johann Sebastian Bach,6
+2009-03,Ludwig Van Beethoven,9
+2009-03,Luna Amară,0
+2009-03,Metallica,1
+2009-03,Nirvana,0
+2009-03,Pantera,0
+2009-03,Pink Floyd,16
+2009-03,Queen,35
+2009-03,Red Hot Chili Peppers,0
+2009-03,Van Halen,0
+2009-03,Wolfgang Amadeus Mozart,10
+2009-04,Ac/Dc,10
+2009-04,Aerosmith,0
+2009-04,Antonio Vivaldi,5
+2009-04,Coldplay,0
+2009-04,Deep Purple,0
+2009-04,Edvard Grieg,2
+2009-04,Guns N' Roses,0
+2009-04,Jimi Hendrix,0
+2009-04,Joe Satriani,0
+2009-04,Johann Sebastian Bach,11
+2009-04,Ludwig Van Beethoven,9
+2009-04,Luna Amară,0
+2009-04,Metallica,0
+2009-04,Nirvana,0
+2009-04,Pantera,0
+2009-04,Pink Floyd,0
+2009-04,Queen,0
+2009-04,Red Hot Chili Peppers,0
+2009-04,Van Halen,0
+2009-04,Wolfgang Amadeus Mozart,4

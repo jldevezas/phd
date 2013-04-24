@@ -1,0 +1,601 @@
+month,artist,plays
+2006-11,Air,0
+2006-11,Amy Winehouse,0
+2006-11,Bebi Dol,33
+2006-11,Claude Challe,0
+2006-11,Claude Challe & Friends,0
+2006-11,Cosmos,0
+2006-11,Daedelus,3
+2006-11,Gotan Project,96
+2006-11,Il Divo,14
+2006-11,Jem,0
+2006-11,Kylie Minogue,1
+2006-11,Ladytron,43
+2006-11,Lamb,7
+2006-11,Luomo,6
+2006-11,M83,37
+2006-11,Madonna,10
+2006-11,Mariza,1
+2006-11,Röyksopp,6
+2006-11,The Killers,43
+2006-11,The Pussycat Dolls,0
+2006-12,Air,39
+2006-12,Amy Winehouse,0
+2006-12,Bebi Dol,3
+2006-12,Claude Challe,0
+2006-12,Claude Challe & Friends,0
+2006-12,Cosmos,0
+2006-12,Daedelus,0
+2006-12,Gotan Project,42
+2006-12,Il Divo,4
+2006-12,Jem,0
+2006-12,Kylie Minogue,0
+2006-12,Ladytron,12
+2006-12,Lamb,4
+2006-12,Luomo,9
+2006-12,M83,16
+2006-12,Madonna,3
+2006-12,Mariza,11
+2006-12,Röyksopp,30
+2006-12,The Killers,20
+2006-12,The Pussycat Dolls,4
+2007-01,Air,20
+2007-01,Amy Winehouse,0
+2007-01,Bebi Dol,3
+2007-01,Claude Challe,1
+2007-01,Claude Challe & Friends,11
+2007-01,Cosmos,1
+2007-01,Daedelus,16
+2007-01,Gotan Project,64
+2007-01,Il Divo,0
+2007-01,Jem,36
+2007-01,Kylie Minogue,6
+2007-01,Ladytron,2
+2007-01,Lamb,41
+2007-01,Luomo,0
+2007-01,M83,2
+2007-01,Madonna,6
+2007-01,Mariza,19
+2007-01,Röyksopp,6
+2007-01,The Killers,55
+2007-01,The Pussycat Dolls,4
+2007-02,Air,1
+2007-02,Amy Winehouse,13
+2007-02,Bebi Dol,1
+2007-02,Claude Challe,1
+2007-02,Claude Challe & Friends,16
+2007-02,Cosmos,1
+2007-02,Daedelus,0
+2007-02,Gotan Project,6
+2007-02,Il Divo,12
+2007-02,Jem,8
+2007-02,Kylie Minogue,7
+2007-02,Ladytron,3
+2007-02,Lamb,34
+2007-02,Luomo,26
+2007-02,M83,15
+2007-02,Madonna,3
+2007-02,Mariza,13
+2007-02,Röyksopp,5
+2007-02,The Killers,17
+2007-02,The Pussycat Dolls,2
+2007-03,Air,5
+2007-03,Amy Winehouse,2
+2007-03,Bebi Dol,1
+2007-03,Claude Challe,1
+2007-03,Claude Challe & Friends,26
+2007-03,Cosmos,3
+2007-03,Daedelus,5
+2007-03,Gotan Project,2
+2007-03,Il Divo,14
+2007-03,Jem,2
+2007-03,Kylie Minogue,2
+2007-03,Ladytron,2
+2007-03,Lamb,16
+2007-03,Luomo,1
+2007-03,M83,3
+2007-03,Madonna,3
+2007-03,Mariza,17
+2007-03,Röyksopp,9
+2007-03,The Killers,7
+2007-03,The Pussycat Dolls,4
+2007-04,Air,15
+2007-04,Amy Winehouse,88
+2007-04,Bebi Dol,0
+2007-04,Claude Challe,0
+2007-04,Claude Challe & Friends,0
+2007-04,Cosmos,0
+2007-04,Daedelus,3
+2007-04,Gotan Project,4
+2007-04,Il Divo,2
+2007-04,Jem,4
+2007-04,Kylie Minogue,1
+2007-04,Ladytron,0
+2007-04,Lamb,1
+2007-04,Luomo,21
+2007-04,M83,0
+2007-04,Madonna,0
+2007-04,Mariza,1
+2007-04,Röyksopp,3
+2007-04,The Killers,8
+2007-04,The Pussycat Dolls,1
+2007-05,Air,50
+2007-05,Amy Winehouse,1
+2007-05,Bebi Dol,0
+2007-05,Claude Challe,0
+2007-05,Claude Challe & Friends,2
+2007-05,Cosmos,0
+2007-05,Daedelus,1
+2007-05,Gotan Project,2
+2007-05,Il Divo,0
+2007-05,Jem,0
+2007-05,Kylie Minogue,0
+2007-05,Ladytron,0
+2007-05,Lamb,1
+2007-05,Luomo,1
+2007-05,M83,0
+2007-05,Madonna,0
+2007-05,Mariza,0
+2007-05,Röyksopp,1
+2007-05,The Killers,0
+2007-05,The Pussycat Dolls,1
+2007-06,Air,0
+2007-06,Amy Winehouse,0
+2007-06,Bebi Dol,0
+2007-06,Claude Challe,0
+2007-06,Claude Challe & Friends,0
+2007-06,Cosmos,0
+2007-06,Daedelus,0
+2007-06,Gotan Project,0
+2007-06,Il Divo,0
+2007-06,Jem,0
+2007-06,Kylie Minogue,0
+2007-06,Ladytron,0
+2007-06,Lamb,0
+2007-06,Luomo,0
+2007-06,M83,0
+2007-06,Madonna,0
+2007-06,Mariza,0
+2007-06,Röyksopp,0
+2007-06,The Killers,0
+2007-06,The Pussycat Dolls,0
+2007-07,Air,0
+2007-07,Amy Winehouse,0
+2007-07,Bebi Dol,0
+2007-07,Claude Challe,0
+2007-07,Claude Challe & Friends,0
+2007-07,Cosmos,0
+2007-07,Daedelus,0
+2007-07,Gotan Project,0
+2007-07,Il Divo,0
+2007-07,Jem,0
+2007-07,Kylie Minogue,0
+2007-07,Ladytron,0
+2007-07,Lamb,0
+2007-07,Luomo,0
+2007-07,M83,0
+2007-07,Madonna,0
+2007-07,Mariza,0
+2007-07,Röyksopp,0
+2007-07,The Killers,0
+2007-07,The Pussycat Dolls,0
+2007-08,Air,0
+2007-08,Amy Winehouse,0
+2007-08,Bebi Dol,0
+2007-08,Claude Challe,0
+2007-08,Claude Challe & Friends,0
+2007-08,Cosmos,0
+2007-08,Daedelus,0
+2007-08,Gotan Project,0
+2007-08,Il Divo,0
+2007-08,Jem,0
+2007-08,Kylie Minogue,0
+2007-08,Ladytron,0
+2007-08,Lamb,0
+2007-08,Luomo,0
+2007-08,M83,0
+2007-08,Madonna,0
+2007-08,Mariza,0
+2007-08,Röyksopp,0
+2007-08,The Killers,0
+2007-08,The Pussycat Dolls,0
+2007-09,Air,0
+2007-09,Amy Winehouse,0
+2007-09,Bebi Dol,0
+2007-09,Claude Challe,0
+2007-09,Claude Challe & Friends,0
+2007-09,Cosmos,0
+2007-09,Daedelus,0
+2007-09,Gotan Project,0
+2007-09,Il Divo,0
+2007-09,Jem,0
+2007-09,Kylie Minogue,0
+2007-09,Ladytron,0
+2007-09,Lamb,0
+2007-09,Luomo,0
+2007-09,M83,0
+2007-09,Madonna,0
+2007-09,Mariza,0
+2007-09,Röyksopp,0
+2007-09,The Killers,0
+2007-09,The Pussycat Dolls,0
+2007-10,Air,0
+2007-10,Amy Winehouse,0
+2007-10,Bebi Dol,0
+2007-10,Claude Challe,0
+2007-10,Claude Challe & Friends,0
+2007-10,Cosmos,0
+2007-10,Daedelus,0
+2007-10,Gotan Project,0
+2007-10,Il Divo,0
+2007-10,Jem,0
+2007-10,Kylie Minogue,0
+2007-10,Ladytron,0
+2007-10,Lamb,0
+2007-10,Luomo,0
+2007-10,M83,0
+2007-10,Madonna,0
+2007-10,Mariza,0
+2007-10,Röyksopp,0
+2007-10,The Killers,0
+2007-10,The Pussycat Dolls,0
+2007-11,Air,0
+2007-11,Amy Winehouse,0
+2007-11,Bebi Dol,0
+2007-11,Claude Challe,0
+2007-11,Claude Challe & Friends,0
+2007-11,Cosmos,0
+2007-11,Daedelus,0
+2007-11,Gotan Project,0
+2007-11,Il Divo,0
+2007-11,Jem,0
+2007-11,Kylie Minogue,0
+2007-11,Ladytron,0
+2007-11,Lamb,0
+2007-11,Luomo,0
+2007-11,M83,0
+2007-11,Madonna,0
+2007-11,Mariza,0
+2007-11,Röyksopp,0
+2007-11,The Killers,0
+2007-11,The Pussycat Dolls,0
+2007-12,Air,0
+2007-12,Amy Winehouse,1
+2007-12,Bebi Dol,0
+2007-12,Claude Challe,0
+2007-12,Claude Challe & Friends,0
+2007-12,Cosmos,0
+2007-12,Daedelus,0
+2007-12,Gotan Project,0
+2007-12,Il Divo,0
+2007-12,Jem,0
+2007-12,Kylie Minogue,129
+2007-12,Ladytron,0
+2007-12,Lamb,0
+2007-12,Luomo,2
+2007-12,M83,0
+2007-12,Madonna,0
+2007-12,Mariza,0
+2007-12,Röyksopp,0
+2007-12,The Killers,1
+2007-12,The Pussycat Dolls,0
+2008-01,Air,0
+2008-01,Amy Winehouse,0
+2008-01,Bebi Dol,0
+2008-01,Claude Challe,0
+2008-01,Claude Challe & Friends,0
+2008-01,Cosmos,0
+2008-01,Daedelus,0
+2008-01,Gotan Project,0
+2008-01,Il Divo,0
+2008-01,Jem,0
+2008-01,Kylie Minogue,0
+2008-01,Ladytron,0
+2008-01,Lamb,0
+2008-01,Luomo,0
+2008-01,M83,0
+2008-01,Madonna,0
+2008-01,Mariza,0
+2008-01,Röyksopp,0
+2008-01,The Killers,0
+2008-01,The Pussycat Dolls,0
+2008-02,Air,0
+2008-02,Amy Winehouse,0
+2008-02,Bebi Dol,0
+2008-02,Claude Challe,0
+2008-02,Claude Challe & Friends,0
+2008-02,Cosmos,0
+2008-02,Daedelus,0
+2008-02,Gotan Project,0
+2008-02,Il Divo,0
+2008-02,Jem,0
+2008-02,Kylie Minogue,0
+2008-02,Ladytron,0
+2008-02,Lamb,0
+2008-02,Luomo,0
+2008-02,M83,0
+2008-02,Madonna,0
+2008-02,Mariza,0
+2008-02,Röyksopp,0
+2008-02,The Killers,0
+2008-02,The Pussycat Dolls,0
+2008-03,Air,0
+2008-03,Amy Winehouse,0
+2008-03,Bebi Dol,0
+2008-03,Claude Challe,0
+2008-03,Claude Challe & Friends,0
+2008-03,Cosmos,0
+2008-03,Daedelus,0
+2008-03,Gotan Project,0
+2008-03,Il Divo,0
+2008-03,Jem,0
+2008-03,Kylie Minogue,0
+2008-03,Ladytron,0
+2008-03,Lamb,0
+2008-03,Luomo,0
+2008-03,M83,0
+2008-03,Madonna,0
+2008-03,Mariza,0
+2008-03,Röyksopp,0
+2008-03,The Killers,0
+2008-03,The Pussycat Dolls,0
+2008-04,Air,0
+2008-04,Amy Winehouse,0
+2008-04,Bebi Dol,0
+2008-04,Claude Challe,0
+2008-04,Claude Challe & Friends,0
+2008-04,Cosmos,0
+2008-04,Daedelus,0
+2008-04,Gotan Project,0
+2008-04,Il Divo,0
+2008-04,Jem,0
+2008-04,Kylie Minogue,0
+2008-04,Ladytron,0
+2008-04,Lamb,0
+2008-04,Luomo,0
+2008-04,M83,0
+2008-04,Madonna,0
+2008-04,Mariza,0
+2008-04,Röyksopp,0
+2008-04,The Killers,0
+2008-04,The Pussycat Dolls,0
+2008-05,Air,0
+2008-05,Amy Winehouse,0
+2008-05,Bebi Dol,0
+2008-05,Claude Challe,0
+2008-05,Claude Challe & Friends,0
+2008-05,Cosmos,1
+2008-05,Daedelus,0
+2008-05,Gotan Project,0
+2008-05,Il Divo,0
+2008-05,Jem,1
+2008-05,Kylie Minogue,0
+2008-05,Ladytron,0
+2008-05,Lamb,30
+2008-05,Luomo,0
+2008-05,M83,0
+2008-05,Madonna,0
+2008-05,Mariza,0
+2008-05,Röyksopp,0
+2008-05,The Killers,0
+2008-05,The Pussycat Dolls,0
+2008-06,Air,0
+2008-06,Amy Winehouse,0
+2008-06,Bebi Dol,0
+2008-06,Claude Challe,0
+2008-06,Claude Challe & Friends,0
+2008-06,Cosmos,0
+2008-06,Daedelus,0
+2008-06,Gotan Project,0
+2008-06,Il Divo,0
+2008-06,Jem,0
+2008-06,Kylie Minogue,0
+2008-06,Ladytron,0
+2008-06,Lamb,0
+2008-06,Luomo,0
+2008-06,M83,0
+2008-06,Madonna,0
+2008-06,Mariza,0
+2008-06,Röyksopp,0
+2008-06,The Killers,0
+2008-06,The Pussycat Dolls,0
+2008-07,Air,0
+2008-07,Amy Winehouse,0
+2008-07,Bebi Dol,0
+2008-07,Claude Challe,0
+2008-07,Claude Challe & Friends,0
+2008-07,Cosmos,0
+2008-07,Daedelus,0
+2008-07,Gotan Project,0
+2008-07,Il Divo,0
+2008-07,Jem,0
+2008-07,Kylie Minogue,0
+2008-07,Ladytron,0
+2008-07,Lamb,0
+2008-07,Luomo,0
+2008-07,M83,0
+2008-07,Madonna,0
+2008-07,Mariza,0
+2008-07,Röyksopp,0
+2008-07,The Killers,0
+2008-07,The Pussycat Dolls,0
+2008-08,Air,0
+2008-08,Amy Winehouse,0
+2008-08,Bebi Dol,0
+2008-08,Claude Challe,0
+2008-08,Claude Challe & Friends,0
+2008-08,Cosmos,0
+2008-08,Daedelus,0
+2008-08,Gotan Project,0
+2008-08,Il Divo,0
+2008-08,Jem,0
+2008-08,Kylie Minogue,0
+2008-08,Ladytron,0
+2008-08,Lamb,0
+2008-08,Luomo,0
+2008-08,M83,0
+2008-08,Madonna,0
+2008-08,Mariza,0
+2008-08,Röyksopp,0
+2008-08,The Killers,0
+2008-08,The Pussycat Dolls,0
+2008-09,Air,0
+2008-09,Amy Winehouse,0
+2008-09,Bebi Dol,0
+2008-09,Claude Challe,0
+2008-09,Claude Challe & Friends,0
+2008-09,Cosmos,0
+2008-09,Daedelus,0
+2008-09,Gotan Project,0
+2008-09,Il Divo,0
+2008-09,Jem,0
+2008-09,Kylie Minogue,0
+2008-09,Ladytron,0
+2008-09,Lamb,0
+2008-09,Luomo,0
+2008-09,M83,0
+2008-09,Madonna,0
+2008-09,Mariza,0
+2008-09,Röyksopp,0
+2008-09,The Killers,0
+2008-09,The Pussycat Dolls,0
+2008-10,Air,0
+2008-10,Amy Winehouse,0
+2008-10,Bebi Dol,0
+2008-10,Claude Challe,0
+2008-10,Claude Challe & Friends,0
+2008-10,Cosmos,0
+2008-10,Daedelus,0
+2008-10,Gotan Project,0
+2008-10,Il Divo,0
+2008-10,Jem,0
+2008-10,Kylie Minogue,0
+2008-10,Ladytron,0
+2008-10,Lamb,0
+2008-10,Luomo,0
+2008-10,M83,0
+2008-10,Madonna,0
+2008-10,Mariza,0
+2008-10,Röyksopp,0
+2008-10,The Killers,0
+2008-10,The Pussycat Dolls,0
+2008-11,Air,0
+2008-11,Amy Winehouse,0
+2008-11,Bebi Dol,0
+2008-11,Claude Challe,0
+2008-11,Claude Challe & Friends,0
+2008-11,Cosmos,0
+2008-11,Daedelus,0
+2008-11,Gotan Project,0
+2008-11,Il Divo,0
+2008-11,Jem,0
+2008-11,Kylie Minogue,0
+2008-11,Ladytron,0
+2008-11,Lamb,0
+2008-11,Luomo,0
+2008-11,M83,0
+2008-11,Madonna,0
+2008-11,Mariza,0
+2008-11,Röyksopp,0
+2008-11,The Killers,0
+2008-11,The Pussycat Dolls,0
+2008-12,Air,0
+2008-12,Amy Winehouse,0
+2008-12,Bebi Dol,6
+2008-12,Claude Challe,4
+2008-12,Claude Challe & Friends,45
+2008-12,Cosmos,12
+2008-12,Daedelus,46
+2008-12,Gotan Project,22
+2008-12,Il Divo,28
+2008-12,Jem,9
+2008-12,Kylie Minogue,281
+2008-12,Ladytron,26
+2008-12,Lamb,293
+2008-12,Luomo,35
+2008-12,M83,44
+2008-12,Madonna,33
+2008-12,Mariza,4
+2008-12,Röyksopp,33
+2008-12,The Killers,16
+2008-12,The Pussycat Dolls,2
+2009-01,Air,0
+2009-01,Amy Winehouse,19
+2009-01,Bebi Dol,2
+2009-01,Claude Challe,3
+2009-01,Claude Challe & Friends,52
+2009-01,Cosmos,7
+2009-01,Daedelus,48
+2009-01,Gotan Project,36
+2009-01,Il Divo,58
+2009-01,Jem,33
+2009-01,Kylie Minogue,261
+2009-01,Ladytron,15
+2009-01,Lamb,147
+2009-01,Luomo,13
+2009-01,M83,15
+2009-01,Madonna,22
+2009-01,Mariza,3
+2009-01,Röyksopp,32
+2009-01,The Killers,47
+2009-01,The Pussycat Dolls,3
+2009-02,Air,52
+2009-02,Amy Winehouse,2
+2009-02,Bebi Dol,8
+2009-02,Claude Challe,3
+2009-02,Claude Challe & Friends,31
+2009-02,Cosmos,6
+2009-02,Daedelus,23
+2009-02,Gotan Project,17
+2009-02,Il Divo,13
+2009-02,Jem,2
+2009-02,Kylie Minogue,278
+2009-02,Ladytron,13
+2009-02,Lamb,210
+2009-02,Luomo,30
+2009-02,M83,51
+2009-02,Madonna,260
+2009-02,Mariza,14
+2009-02,Röyksopp,59
+2009-02,The Killers,15
+2009-02,The Pussycat Dolls,0
+2009-03,Air,0
+2009-03,Amy Winehouse,0
+2009-03,Bebi Dol,0
+2009-03,Claude Challe,1
+2009-03,Claude Challe & Friends,9
+2009-03,Cosmos,0
+2009-03,Daedelus,16
+2009-03,Gotan Project,25
+2009-03,Il Divo,0
+2009-03,Jem,0
+2009-03,Kylie Minogue,0
+2009-03,Ladytron,0
+2009-03,Lamb,0
+2009-03,Luomo,2
+2009-03,M83,0
+2009-03,Madonna,3
+2009-03,Mariza,0
+2009-03,Röyksopp,108
+2009-03,The Killers,0
+2009-03,The Pussycat Dolls,0
+2009-04,Air,0
+2009-04,Amy Winehouse,0
+2009-04,Bebi Dol,0
+2009-04,Claude Challe,0
+2009-04,Claude Challe & Friends,0
+2009-04,Cosmos,0
+2009-04,Daedelus,0
+2009-04,Gotan Project,0
+2009-04,Il Divo,0
+2009-04,Jem,0
+2009-04,Kylie Minogue,0
+2009-04,Ladytron,0
+2009-04,Lamb,0
+2009-04,Luomo,0
+2009-04,M83,0
+2009-04,Madonna,0
+2009-04,Mariza,0
+2009-04,Röyksopp,26
+2009-04,The Killers,0
+2009-04,The Pussycat Dolls,0

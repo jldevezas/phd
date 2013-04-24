@@ -1,0 +1,561 @@
+month,artist,plays
+2007-01,Adam Green,0
+2007-01,Blonde Redhead,16
+2007-01,Cat Power,7
+2007-01,Cocorosie,5
+2007-01,Franz Ferdinand,456
+2007-01,Gogol Bordello,333
+2007-01,I Am Kloot,17
+2007-01,Interpol,0
+2007-01,Muse,2
+2007-01,Nirvana,7
+2007-01,Nouvelle Vague,0
+2007-01,Pixies,12
+2007-01,Placebo,8
+2007-01,Sons And Daughters,8
+2007-01,The Beatles,9
+2007-01,The Decemberists,35
+2007-01,The Rolling Stones,6
+2007-01,The Velvet Underground,0
+2007-01,The White Stripes,5
+2007-01,Yeah Yeah Yeahs,9
+2007-02,Adam Green,839
+2007-02,Blonde Redhead,14
+2007-02,Cat Power,15
+2007-02,Cocorosie,40
+2007-02,Franz Ferdinand,58
+2007-02,Gogol Bordello,331
+2007-02,I Am Kloot,13
+2007-02,Interpol,0
+2007-02,Muse,5
+2007-02,Nirvana,6
+2007-02,Nouvelle Vague,0
+2007-02,Pixies,15
+2007-02,Placebo,9
+2007-02,Sons And Daughters,14
+2007-02,The Beatles,12
+2007-02,The Decemberists,151
+2007-02,The Rolling Stones,12
+2007-02,The Velvet Underground,0
+2007-02,The White Stripes,7
+2007-02,Yeah Yeah Yeahs,17
+2007-03,Adam Green,59
+2007-03,Blonde Redhead,14
+2007-03,Cat Power,54
+2007-03,Cocorosie,304
+2007-03,Franz Ferdinand,9
+2007-03,Gogol Bordello,13
+2007-03,I Am Kloot,7
+2007-03,Interpol,0
+2007-03,Muse,5
+2007-03,Nirvana,5
+2007-03,Nouvelle Vague,0
+2007-03,Pixies,76
+2007-03,Placebo,28
+2007-03,Sons And Daughters,10
+2007-03,The Beatles,145
+2007-03,The Decemberists,54
+2007-03,The Rolling Stones,13
+2007-03,The Velvet Underground,88
+2007-03,The White Stripes,6
+2007-03,Yeah Yeah Yeahs,24
+2007-04,Adam Green,2
+2007-04,Blonde Redhead,0
+2007-04,Cat Power,0
+2007-04,Cocorosie,64
+2007-04,Franz Ferdinand,212
+2007-04,Gogol Bordello,0
+2007-04,I Am Kloot,0
+2007-04,Interpol,0
+2007-04,Muse,11
+2007-04,Nirvana,0
+2007-04,Nouvelle Vague,0
+2007-04,Pixies,5
+2007-04,Placebo,259
+2007-04,Sons And Daughters,0
+2007-04,The Beatles,194
+2007-04,The Decemberists,1
+2007-04,The Rolling Stones,478
+2007-04,The Velvet Underground,96
+2007-04,The White Stripes,0
+2007-04,Yeah Yeah Yeahs,0
+2007-05,Adam Green,0
+2007-05,Blonde Redhead,0
+2007-05,Cat Power,0
+2007-05,Cocorosie,0
+2007-05,Franz Ferdinand,0
+2007-05,Gogol Bordello,0
+2007-05,I Am Kloot,0
+2007-05,Interpol,0
+2007-05,Muse,22
+2007-05,Nirvana,0
+2007-05,Nouvelle Vague,0
+2007-05,Pixies,0
+2007-05,Placebo,469
+2007-05,Sons And Daughters,0
+2007-05,The Beatles,485
+2007-05,The Decemberists,25
+2007-05,The Rolling Stones,218
+2007-05,The Velvet Underground,3
+2007-05,The White Stripes,0
+2007-05,Yeah Yeah Yeahs,40
+2007-06,Adam Green,0
+2007-06,Blonde Redhead,171
+2007-06,Cat Power,37
+2007-06,Cocorosie,32
+2007-06,Franz Ferdinand,9
+2007-06,Gogol Bordello,15
+2007-06,I Am Kloot,0
+2007-06,Interpol,544
+2007-06,Muse,0
+2007-06,Nirvana,0
+2007-06,Nouvelle Vague,60
+2007-06,Pixies,78
+2007-06,Placebo,0
+2007-06,Sons And Daughters,0
+2007-06,The Beatles,389
+2007-06,The Decemberists,1
+2007-06,The Rolling Stones,82
+2007-06,The Velvet Underground,4
+2007-06,The White Stripes,0
+2007-06,Yeah Yeah Yeahs,55
+2007-07,Adam Green,0
+2007-07,Blonde Redhead,260
+2007-07,Cat Power,23
+2007-07,Cocorosie,8
+2007-07,Franz Ferdinand,185
+2007-07,Gogol Bordello,1
+2007-07,I Am Kloot,1
+2007-07,Interpol,50
+2007-07,Muse,40
+2007-07,Nirvana,0
+2007-07,Nouvelle Vague,1
+2007-07,Pixies,115
+2007-07,Placebo,57
+2007-07,Sons And Daughters,0
+2007-07,The Beatles,164
+2007-07,The Decemberists,1
+2007-07,The Rolling Stones,4
+2007-07,The Velvet Underground,0
+2007-07,The White Stripes,2
+2007-07,Yeah Yeah Yeahs,42
+2007-08,Adam Green,1
+2007-08,Blonde Redhead,43
+2007-08,Cat Power,1
+2007-08,Cocorosie,14
+2007-08,Franz Ferdinand,1
+2007-08,Gogol Bordello,1
+2007-08,I Am Kloot,1
+2007-08,Interpol,119
+2007-08,Muse,8
+2007-08,Nirvana,0
+2007-08,Nouvelle Vague,1
+2007-08,Pixies,0
+2007-08,Placebo,17
+2007-08,Sons And Daughters,1
+2007-08,The Beatles,0
+2007-08,The Decemberists,1
+2007-08,The Rolling Stones,0
+2007-08,The Velvet Underground,0
+2007-08,The White Stripes,1
+2007-08,Yeah Yeah Yeahs,22
+2007-09,Adam Green,75
+2007-09,Blonde Redhead,31
+2007-09,Cat Power,36
+2007-09,Cocorosie,27
+2007-09,Franz Ferdinand,19
+2007-09,Gogol Bordello,97
+2007-09,I Am Kloot,10
+2007-09,Interpol,33
+2007-09,Muse,11
+2007-09,Nirvana,13
+2007-09,Nouvelle Vague,8
+2007-09,Pixies,34
+2007-09,Placebo,57
+2007-09,Sons And Daughters,28
+2007-09,The Beatles,27
+2007-09,The Decemberists,26
+2007-09,The Rolling Stones,35
+2007-09,The Velvet Underground,7
+2007-09,The White Stripes,15
+2007-09,Yeah Yeah Yeahs,49
+2007-10,Adam Green,11
+2007-10,Blonde Redhead,5
+2007-10,Cat Power,104
+2007-10,Cocorosie,104
+2007-10,Franz Ferdinand,47
+2007-10,Gogol Bordello,5
+2007-10,I Am Kloot,2
+2007-10,Interpol,108
+2007-10,Muse,579
+2007-10,Nirvana,4
+2007-10,Nouvelle Vague,5
+2007-10,Pixies,5
+2007-10,Placebo,93
+2007-10,Sons And Daughters,4
+2007-10,The Beatles,6
+2007-10,The Decemberists,3
+2007-10,The Rolling Stones,7
+2007-10,The Velvet Underground,7
+2007-10,The White Stripes,4
+2007-10,Yeah Yeah Yeahs,7
+2007-11,Adam Green,5
+2007-11,Blonde Redhead,6
+2007-11,Cat Power,2
+2007-11,Cocorosie,5
+2007-11,Franz Ferdinand,3
+2007-11,Gogol Bordello,9
+2007-11,I Am Kloot,1
+2007-11,Interpol,268
+2007-11,Muse,11
+2007-11,Nirvana,2
+2007-11,Nouvelle Vague,3
+2007-11,Pixies,15
+2007-11,Placebo,246
+2007-11,Sons And Daughters,2
+2007-11,The Beatles,70
+2007-11,The Decemberists,4
+2007-11,The Rolling Stones,36
+2007-11,The Velvet Underground,6
+2007-11,The White Stripes,3
+2007-11,Yeah Yeah Yeahs,28
+2007-12,Adam Green,0
+2007-12,Blonde Redhead,0
+2007-12,Cat Power,0
+2007-12,Cocorosie,1
+2007-12,Franz Ferdinand,15
+2007-12,Gogol Bordello,4
+2007-12,I Am Kloot,1
+2007-12,Interpol,10
+2007-12,Muse,3
+2007-12,Nirvana,1
+2007-12,Nouvelle Vague,0
+2007-12,Pixies,0
+2007-12,Placebo,143
+2007-12,Sons And Daughters,0
+2007-12,The Beatles,394
+2007-12,The Decemberists,0
+2007-12,The Rolling Stones,24
+2007-12,The Velvet Underground,0
+2007-12,The White Stripes,0
+2007-12,Yeah Yeah Yeahs,15
+2008-01,Adam Green,57
+2008-01,Blonde Redhead,3
+2008-01,Cat Power,12
+2008-01,Cocorosie,1
+2008-01,Franz Ferdinand,1
+2008-01,Gogol Bordello,32
+2008-01,I Am Kloot,241
+2008-01,Interpol,74
+2008-01,Muse,4
+2008-01,Nirvana,9
+2008-01,Nouvelle Vague,7
+2008-01,Pixies,6
+2008-01,Placebo,24
+2008-01,Sons And Daughters,2
+2008-01,The Beatles,76
+2008-01,The Decemberists,17
+2008-01,The Rolling Stones,28
+2008-01,The Velvet Underground,5
+2008-01,The White Stripes,7
+2008-01,Yeah Yeah Yeahs,6
+2008-02,Adam Green,106
+2008-02,Blonde Redhead,9
+2008-02,Cat Power,1
+2008-02,Cocorosie,3
+2008-02,Franz Ferdinand,0
+2008-02,Gogol Bordello,14
+2008-02,I Am Kloot,9
+2008-02,Interpol,14
+2008-02,Muse,6
+2008-02,Nirvana,3
+2008-02,Nouvelle Vague,1
+2008-02,Pixies,4
+2008-02,Placebo,32
+2008-02,Sons And Daughters,2
+2008-02,The Beatles,91
+2008-02,The Decemberists,2
+2008-02,The Rolling Stones,6
+2008-02,The Velvet Underground,10
+2008-02,The White Stripes,4
+2008-02,Yeah Yeah Yeahs,3
+2008-03,Adam Green,59
+2008-03,Blonde Redhead,2
+2008-03,Cat Power,1
+2008-03,Cocorosie,1
+2008-03,Franz Ferdinand,2
+2008-03,Gogol Bordello,2
+2008-03,I Am Kloot,81
+2008-03,Interpol,1
+2008-03,Muse,3
+2008-03,Nirvana,3
+2008-03,Nouvelle Vague,169
+2008-03,Pixies,21
+2008-03,Placebo,2
+2008-03,Sons And Daughters,194
+2008-03,The Beatles,28
+2008-03,The Decemberists,0
+2008-03,The Rolling Stones,26
+2008-03,The Velvet Underground,4
+2008-03,The White Stripes,3
+2008-03,Yeah Yeah Yeahs,6
+2008-04,Adam Green,2
+2008-04,Blonde Redhead,2
+2008-04,Cat Power,0
+2008-04,Cocorosie,10
+2008-04,Franz Ferdinand,11
+2008-04,Gogol Bordello,2
+2008-04,I Am Kloot,355
+2008-04,Interpol,1
+2008-04,Muse,1
+2008-04,Nirvana,2
+2008-04,Nouvelle Vague,233
+2008-04,Pixies,23
+2008-04,Placebo,3
+2008-04,Sons And Daughters,25
+2008-04,The Beatles,13
+2008-04,The Decemberists,4
+2008-04,The Rolling Stones,11
+2008-04,The Velvet Underground,4
+2008-04,The White Stripes,2
+2008-04,Yeah Yeah Yeahs,66
+2008-05,Adam Green,2
+2008-05,Blonde Redhead,3
+2008-05,Cat Power,3
+2008-05,Cocorosie,43
+2008-05,Franz Ferdinand,25
+2008-05,Gogol Bordello,46
+2008-05,I Am Kloot,35
+2008-05,Interpol,1
+2008-05,Muse,6
+2008-05,Nirvana,4
+2008-05,Nouvelle Vague,2
+2008-05,Pixies,5
+2008-05,Placebo,3
+2008-05,Sons And Daughters,38
+2008-05,The Beatles,402
+2008-05,The Decemberists,3
+2008-05,The Rolling Stones,58
+2008-05,The Velvet Underground,10
+2008-05,The White Stripes,1
+2008-05,Yeah Yeah Yeahs,4
+2008-06,Adam Green,3
+2008-06,Blonde Redhead,3
+2008-06,Cat Power,1
+2008-06,Cocorosie,123
+2008-06,Franz Ferdinand,1
+2008-06,Gogol Bordello,317
+2008-06,I Am Kloot,30
+2008-06,Interpol,5
+2008-06,Muse,3
+2008-06,Nirvana,1
+2008-06,Nouvelle Vague,45
+2008-06,Pixies,0
+2008-06,Placebo,6
+2008-06,Sons And Daughters,23
+2008-06,The Beatles,447
+2008-06,The Decemberists,4
+2008-06,The Rolling Stones,65
+2008-06,The Velvet Underground,5
+2008-06,The White Stripes,6
+2008-06,Yeah Yeah Yeahs,25
+2008-07,Adam Green,3
+2008-07,Blonde Redhead,6
+2008-07,Cat Power,4
+2008-07,Cocorosie,40
+2008-07,Franz Ferdinand,3
+2008-07,Gogol Bordello,147
+2008-07,I Am Kloot,50
+2008-07,Interpol,49
+2008-07,Muse,16
+2008-07,Nirvana,2
+2008-07,Nouvelle Vague,27
+2008-07,Pixies,5
+2008-07,Placebo,59
+2008-07,Sons And Daughters,15
+2008-07,The Beatles,134
+2008-07,The Decemberists,8
+2008-07,The Rolling Stones,15
+2008-07,The Velvet Underground,4
+2008-07,The White Stripes,1
+2008-07,Yeah Yeah Yeahs,71
+2008-08,Adam Green,211
+2008-08,Blonde Redhead,38
+2008-08,Cat Power,17
+2008-08,Cocorosie,60
+2008-08,Franz Ferdinand,33
+2008-08,Gogol Bordello,2
+2008-08,I Am Kloot,6
+2008-08,Interpol,8
+2008-08,Muse,3
+2008-08,Nirvana,6
+2008-08,Nouvelle Vague,5
+2008-08,Pixies,7
+2008-08,Placebo,14
+2008-08,Sons And Daughters,0
+2008-08,The Beatles,36
+2008-08,The Decemberists,5
+2008-08,The Rolling Stones,89
+2008-08,The Velvet Underground,3
+2008-08,The White Stripes,1
+2008-08,Yeah Yeah Yeahs,61
+2008-09,Adam Green,14
+2008-09,Blonde Redhead,10
+2008-09,Cat Power,0
+2008-09,Cocorosie,11
+2008-09,Franz Ferdinand,61
+2008-09,Gogol Bordello,161
+2008-09,I Am Kloot,5
+2008-09,Interpol,49
+2008-09,Muse,6
+2008-09,Nirvana,5
+2008-09,Nouvelle Vague,20
+2008-09,Pixies,14
+2008-09,Placebo,5
+2008-09,Sons And Daughters,67
+2008-09,The Beatles,194
+2008-09,The Decemberists,2
+2008-09,The Rolling Stones,72
+2008-09,The Velvet Underground,12
+2008-09,The White Stripes,8
+2008-09,Yeah Yeah Yeahs,2
+2008-10,Adam Green,82
+2008-10,Blonde Redhead,14
+2008-10,Cat Power,56
+2008-10,Cocorosie,88
+2008-10,Franz Ferdinand,68
+2008-10,Gogol Bordello,8
+2008-10,I Am Kloot,6
+2008-10,Interpol,65
+2008-10,Muse,17
+2008-10,Nirvana,11
+2008-10,Nouvelle Vague,7
+2008-10,Pixies,13
+2008-10,Placebo,45
+2008-10,Sons And Daughters,8
+2008-10,The Beatles,101
+2008-10,The Decemberists,10
+2008-10,The Rolling Stones,213
+2008-10,The Velvet Underground,76
+2008-10,The White Stripes,8
+2008-10,Yeah Yeah Yeahs,10
+2008-11,Adam Green,3
+2008-11,Blonde Redhead,13
+2008-11,Cat Power,26
+2008-11,Cocorosie,22
+2008-11,Franz Ferdinand,15
+2008-11,Gogol Bordello,23
+2008-11,I Am Kloot,2
+2008-11,Interpol,143
+2008-11,Muse,10
+2008-11,Nirvana,9
+2008-11,Nouvelle Vague,16
+2008-11,Pixies,16
+2008-11,Placebo,23
+2008-11,Sons And Daughters,14
+2008-11,The Beatles,43
+2008-11,The Decemberists,45
+2008-11,The Rolling Stones,106
+2008-11,The Velvet Underground,198
+2008-11,The White Stripes,13
+2008-11,Yeah Yeah Yeahs,26
+2008-12,Adam Green,5
+2008-12,Blonde Redhead,25
+2008-12,Cat Power,24
+2008-12,Cocorosie,37
+2008-12,Franz Ferdinand,49
+2008-12,Gogol Bordello,31
+2008-12,I Am Kloot,1
+2008-12,Interpol,90
+2008-12,Muse,7
+2008-12,Nirvana,4
+2008-12,Nouvelle Vague,118
+2008-12,Pixies,70
+2008-12,Placebo,6
+2008-12,Sons And Daughters,26
+2008-12,The Beatles,117
+2008-12,The Decemberists,117
+2008-12,The Rolling Stones,80
+2008-12,The Velvet Underground,80
+2008-12,The White Stripes,5
+2008-12,Yeah Yeah Yeahs,45
+2009-01,Adam Green,592
+2009-01,Blonde Redhead,1
+2009-01,Cat Power,4
+2009-01,Cocorosie,13
+2009-01,Franz Ferdinand,119
+2009-01,Gogol Bordello,61
+2009-01,I Am Kloot,104
+2009-01,Interpol,42
+2009-01,Muse,1
+2009-01,Nirvana,1
+2009-01,Nouvelle Vague,81
+2009-01,Pixies,34
+2009-01,Placebo,170
+2009-01,Sons And Daughters,35
+2009-01,The Beatles,144
+2009-01,The Decemberists,45
+2009-01,The Rolling Stones,159
+2009-01,The Velvet Underground,37
+2009-01,The White Stripes,3
+2009-01,Yeah Yeah Yeahs,12
+2009-02,Adam Green,37
+2009-02,Blonde Redhead,3
+2009-02,Cat Power,0
+2009-02,Cocorosie,1
+2009-02,Franz Ferdinand,766
+2009-02,Gogol Bordello,34
+2009-02,I Am Kloot,3
+2009-02,Interpol,38
+2009-02,Muse,0
+2009-02,Nirvana,2
+2009-02,Nouvelle Vague,130
+2009-02,Pixies,7
+2009-02,Placebo,169
+2009-02,Sons And Daughters,36
+2009-02,The Beatles,20
+2009-02,The Decemberists,13
+2009-02,The Rolling Stones,185
+2009-02,The Velvet Underground,9
+2009-02,The White Stripes,3
+2009-02,Yeah Yeah Yeahs,24
+2009-03,Adam Green,149
+2009-03,Blonde Redhead,5
+2009-03,Cat Power,6
+2009-03,Cocorosie,6
+2009-03,Franz Ferdinand,35
+2009-03,Gogol Bordello,26
+2009-03,I Am Kloot,4
+2009-03,Interpol,10
+2009-03,Muse,8
+2009-03,Nirvana,8
+2009-03,Nouvelle Vague,15
+2009-03,Pixies,10
+2009-03,Placebo,101
+2009-03,Sons And Daughters,20
+2009-03,The Beatles,34
+2009-03,The Decemberists,57
+2009-03,The Rolling Stones,89
+2009-03,The Velvet Underground,25
+2009-03,The White Stripes,6
+2009-03,Yeah Yeah Yeahs,925
+2009-04,Adam Green,27
+2009-04,Blonde Redhead,0
+2009-04,Cat Power,1
+2009-04,Cocorosie,0
+2009-04,Franz Ferdinand,211
+2009-04,Gogol Bordello,16
+2009-04,I Am Kloot,2
+2009-04,Interpol,2
+2009-04,Muse,3
+2009-04,Nirvana,1
+2009-04,Nouvelle Vague,3
+2009-04,Pixies,0
+2009-04,Placebo,23
+2009-04,Sons And Daughters,18
+2009-04,The Beatles,18
+2009-04,The Decemberists,275
+2009-04,The Rolling Stones,64
+2009-04,The Velvet Underground,1
+2009-04,The White Stripes,2
+2009-04,Yeah Yeah Yeahs,289

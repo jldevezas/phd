@@ -1,0 +1,381 @@
+month,artist,plays
+2007-12,3 Doors Down,2
+2007-12,311,23
+2007-12,Afi,105
+2007-12,American Hi-Fi,20
+2007-12,Arctic Monkeys,19
+2007-12,At The Drive-In,18
+2007-12,Avril Lavigne,27
+2007-12,Gondwana,21
+2007-12,Hoobastank,3
+2007-12,Limp Bizkit,36
+2007-12,Linkin Park,45
+2007-12,My Chemical Romance,14
+2007-12,No Doubt,23
+2007-12,P.O.D.,35
+2007-12,Papa Roach,16
+2007-12,Rage Against The Machine,26
+2007-12,Slipknot,33
+2007-12,Sum 41,31
+2007-12,System Of A Down,28
+2007-12,The Offspring,21
+2008-01,3 Doors Down,7
+2008-01,311,26
+2008-01,Afi,74
+2008-01,American Hi-Fi,16
+2008-01,Arctic Monkeys,15
+2008-01,At The Drive-In,31
+2008-01,Avril Lavigne,30
+2008-01,Gondwana,35
+2008-01,Hoobastank,58
+2008-01,Limp Bizkit,41
+2008-01,Linkin Park,53
+2008-01,My Chemical Romance,16
+2008-01,No Doubt,29
+2008-01,P.O.D.,29
+2008-01,Papa Roach,42
+2008-01,Rage Against The Machine,21
+2008-01,Slipknot,24
+2008-01,Sum 41,38
+2008-01,System Of A Down,44
+2008-01,The Offspring,34
+2008-02,3 Doors Down,7
+2008-02,311,33
+2008-02,Afi,57
+2008-02,American Hi-Fi,6
+2008-02,Arctic Monkeys,5
+2008-02,At The Drive-In,16
+2008-02,Avril Lavigne,26
+2008-02,Gondwana,20
+2008-02,Hoobastank,24
+2008-02,Limp Bizkit,37
+2008-02,Linkin Park,35
+2008-02,My Chemical Romance,18
+2008-02,No Doubt,9
+2008-02,P.O.D.,21
+2008-02,Papa Roach,37
+2008-02,Rage Against The Machine,17
+2008-02,Slipknot,29
+2008-02,Sum 41,40
+2008-02,System Of A Down,23
+2008-02,The Offspring,28
+2008-03,3 Doors Down,4
+2008-03,311,49
+2008-03,Afi,82
+2008-03,American Hi-Fi,19
+2008-03,Arctic Monkeys,17
+2008-03,At The Drive-In,47
+2008-03,Avril Lavigne,41
+2008-03,Gondwana,62
+2008-03,Hoobastank,33
+2008-03,Limp Bizkit,60
+2008-03,Linkin Park,77
+2008-03,My Chemical Romance,26
+2008-03,No Doubt,33
+2008-03,P.O.D.,46
+2008-03,Papa Roach,55
+2008-03,Rage Against The Machine,25
+2008-03,Slipknot,45
+2008-03,Sum 41,62
+2008-03,System Of A Down,44
+2008-03,The Offspring,45
+2008-04,3 Doors Down,0
+2008-04,311,7
+2008-04,Afi,12
+2008-04,American Hi-Fi,2
+2008-04,Arctic Monkeys,0
+2008-04,At The Drive-In,4
+2008-04,Avril Lavigne,1
+2008-04,Gondwana,4
+2008-04,Hoobastank,0
+2008-04,Limp Bizkit,6
+2008-04,Linkin Park,5
+2008-04,My Chemical Romance,1
+2008-04,No Doubt,3
+2008-04,P.O.D.,2
+2008-04,Papa Roach,2
+2008-04,Rage Against The Machine,1
+2008-04,Slipknot,4
+2008-04,Sum 41,12
+2008-04,System Of A Down,10
+2008-04,The Offspring,2
+2008-05,3 Doors Down,3
+2008-05,311,5
+2008-05,Afi,13
+2008-05,American Hi-Fi,2
+2008-05,Arctic Monkeys,3
+2008-05,At The Drive-In,3
+2008-05,Avril Lavigne,4
+2008-05,Gondwana,6
+2008-05,Hoobastank,5
+2008-05,Limp Bizkit,10
+2008-05,Linkin Park,7
+2008-05,My Chemical Romance,6
+2008-05,No Doubt,6
+2008-05,P.O.D.,9
+2008-05,Papa Roach,12
+2008-05,Rage Against The Machine,4
+2008-05,Slipknot,7
+2008-05,Sum 41,11
+2008-05,System Of A Down,7
+2008-05,The Offspring,10
+2008-06,3 Doors Down,5
+2008-06,311,36
+2008-06,Afi,93
+2008-06,American Hi-Fi,14
+2008-06,Arctic Monkeys,11
+2008-06,At The Drive-In,34
+2008-06,Avril Lavigne,39
+2008-06,Gondwana,55
+2008-06,Hoobastank,27
+2008-06,Limp Bizkit,51
+2008-06,Linkin Park,68
+2008-06,My Chemical Romance,17
+2008-06,No Doubt,27
+2008-06,P.O.D.,33
+2008-06,Papa Roach,41
+2008-06,Rage Against The Machine,23
+2008-06,Slipknot,49
+2008-06,Sum 41,53
+2008-06,System Of A Down,42
+2008-06,The Offspring,27
+2008-07,3 Doors Down,1
+2008-07,311,24
+2008-07,Afi,45
+2008-07,American Hi-Fi,27
+2008-07,Arctic Monkeys,18
+2008-07,At The Drive-In,22
+2008-07,Avril Lavigne,22
+2008-07,Gondwana,28
+2008-07,Hoobastank,10
+2008-07,Limp Bizkit,33
+2008-07,Linkin Park,37
+2008-07,My Chemical Romance,66
+2008-07,No Doubt,19
+2008-07,P.O.D.,26
+2008-07,Papa Roach,21
+2008-07,Rage Against The Machine,16
+2008-07,Slipknot,32
+2008-07,Sum 41,29
+2008-07,System Of A Down,161
+2008-07,The Offspring,23
+2008-08,3 Doors Down,3
+2008-08,311,20
+2008-08,Afi,31
+2008-08,American Hi-Fi,5
+2008-08,Arctic Monkeys,3
+2008-08,At The Drive-In,10
+2008-08,Avril Lavigne,9
+2008-08,Gondwana,15
+2008-08,Hoobastank,7
+2008-08,Limp Bizkit,78
+2008-08,Linkin Park,24
+2008-08,My Chemical Romance,10
+2008-08,No Doubt,9
+2008-08,P.O.D.,6
+2008-08,Papa Roach,13
+2008-08,Rage Against The Machine,4
+2008-08,Slipknot,14
+2008-08,Sum 41,13
+2008-08,System Of A Down,24
+2008-08,The Offspring,17
+2008-09,3 Doors Down,1
+2008-09,311,1
+2008-09,Afi,3
+2008-09,American Hi-Fi,1
+2008-09,Arctic Monkeys,1
+2008-09,At The Drive-In,2
+2008-09,Avril Lavigne,2
+2008-09,Gondwana,2
+2008-09,Hoobastank,1
+2008-09,Limp Bizkit,51
+2008-09,Linkin Park,3
+2008-09,My Chemical Romance,3
+2008-09,No Doubt,1
+2008-09,P.O.D.,1
+2008-09,Papa Roach,1
+2008-09,Rage Against The Machine,1
+2008-09,Slipknot,3
+2008-09,Sum 41,22
+2008-09,System Of A Down,66
+2008-09,The Offspring,1
+2008-10,3 Doors Down,0
+2008-10,311,0
+2008-10,Afi,0
+2008-10,American Hi-Fi,0
+2008-10,Arctic Monkeys,0
+2008-10,At The Drive-In,0
+2008-10,Avril Lavigne,0
+2008-10,Gondwana,0
+2008-10,Hoobastank,0
+2008-10,Limp Bizkit,0
+2008-10,Linkin Park,0
+2008-10,My Chemical Romance,0
+2008-10,No Doubt,0
+2008-10,P.O.D.,0
+2008-10,Papa Roach,0
+2008-10,Rage Against The Machine,0
+2008-10,Slipknot,0
+2008-10,Sum 41,0
+2008-10,System Of A Down,0
+2008-10,The Offspring,0
+2008-11,3 Doors Down,1
+2008-11,311,0
+2008-11,Afi,1
+2008-11,American Hi-Fi,0
+2008-11,Arctic Monkeys,1
+2008-11,At The Drive-In,1
+2008-11,Avril Lavigne,1
+2008-11,Gondwana,3
+2008-11,Hoobastank,0
+2008-11,Limp Bizkit,3
+2008-11,Linkin Park,15
+2008-11,My Chemical Romance,0
+2008-11,No Doubt,1
+2008-11,P.O.D.,1
+2008-11,Papa Roach,1
+2008-11,Rage Against The Machine,0
+2008-11,Slipknot,1
+2008-11,Sum 41,1
+2008-11,System Of A Down,1
+2008-11,The Offspring,0
+2008-12,3 Doors Down,2
+2008-12,311,1
+2008-12,Afi,5
+2008-12,American Hi-Fi,1
+2008-12,Arctic Monkeys,1
+2008-12,At The Drive-In,0
+2008-12,Avril Lavigne,1
+2008-12,Gondwana,1
+2008-12,Hoobastank,2
+2008-12,Limp Bizkit,4
+2008-12,Linkin Park,4
+2008-12,My Chemical Romance,1
+2008-12,No Doubt,0
+2008-12,P.O.D.,1
+2008-12,Papa Roach,1
+2008-12,Rage Against The Machine,1
+2008-12,Slipknot,0
+2008-12,Sum 41,1
+2008-12,System Of A Down,1
+2008-12,The Offspring,1
+2009-01,3 Doors Down,0
+2009-01,311,0
+2009-01,Afi,3
+2009-01,American Hi-Fi,0
+2009-01,Arctic Monkeys,1
+2009-01,At The Drive-In,2
+2009-01,Avril Lavigne,0
+2009-01,Gondwana,1
+2009-01,Hoobastank,1
+2009-01,Limp Bizkit,0
+2009-01,Linkin Park,20
+2009-01,My Chemical Romance,0
+2009-01,No Doubt,1
+2009-01,P.O.D.,0
+2009-01,Papa Roach,1
+2009-01,Rage Against The Machine,0
+2009-01,Slipknot,0
+2009-01,Sum 41,0
+2009-01,System Of A Down,1
+2009-01,The Offspring,0
+2009-02,3 Doors Down,2
+2009-02,311,4
+2009-02,Afi,3
+2009-02,American Hi-Fi,1
+2009-02,Arctic Monkeys,3
+2009-02,At The Drive-In,10
+2009-02,Avril Lavigne,6
+2009-02,Gondwana,6
+2009-02,Hoobastank,2
+2009-02,Limp Bizkit,100
+2009-02,Linkin Park,4
+2009-02,My Chemical Romance,3
+2009-02,No Doubt,14
+2009-02,P.O.D.,1
+2009-02,Papa Roach,2
+2009-02,Rage Against The Machine,1
+2009-02,Slipknot,7
+2009-02,Sum 41,8
+2009-02,System Of A Down,6
+2009-02,The Offspring,3
+2009-03,3 Doors Down,0
+2009-03,311,0
+2009-03,Afi,0
+2009-03,American Hi-Fi,0
+2009-03,Arctic Monkeys,0
+2009-03,At The Drive-In,0
+2009-03,Avril Lavigne,0
+2009-03,Gondwana,1
+2009-03,Hoobastank,2
+2009-03,Limp Bizkit,0
+2009-03,Linkin Park,0
+2009-03,My Chemical Romance,1
+2009-03,No Doubt,0
+2009-03,P.O.D.,60
+2009-03,Papa Roach,0
+2009-03,Rage Against The Machine,2
+2009-03,Slipknot,1
+2009-03,Sum 41,1
+2009-03,System Of A Down,0
+2009-03,The Offspring,1
+2009-04,3 Doors Down,1
+2009-04,311,2
+2009-04,Afi,10
+2009-04,American Hi-Fi,1
+2009-04,Arctic Monkeys,1
+2009-04,At The Drive-In,1
+2009-04,Avril Lavigne,1
+2009-04,Gondwana,1
+2009-04,Hoobastank,3
+2009-04,Limp Bizkit,7
+2009-04,Linkin Park,1
+2009-04,My Chemical Romance,1
+2009-04,No Doubt,15
+2009-04,P.O.D.,2
+2009-04,Papa Roach,0
+2009-04,Rage Against The Machine,3
+2009-04,Slipknot,2
+2009-04,Sum 41,6
+2009-04,System Of A Down,12
+2009-04,The Offspring,1
+2009-05,3 Doors Down,1
+2009-05,311,5
+2009-05,Afi,24
+2009-05,American Hi-Fi,4
+2009-05,Arctic Monkeys,3
+2009-05,At The Drive-In,6
+2009-05,Avril Lavigne,7
+2009-05,Gondwana,12
+2009-05,Hoobastank,6
+2009-05,Limp Bizkit,14
+2009-05,Linkin Park,19
+2009-05,My Chemical Romance,21
+2009-05,No Doubt,2
+2009-05,P.O.D.,11
+2009-05,Papa Roach,18
+2009-05,Rage Against The Machine,5
+2009-05,Slipknot,22
+2009-05,Sum 41,11
+2009-05,System Of A Down,16
+2009-05,The Offspring,14
+2009-06,3 Doors Down,1
+2009-06,311,2
+2009-06,Afi,11
+2009-06,American Hi-Fi,1
+2009-06,Arctic Monkeys,4
+2009-06,At The Drive-In,4
+2009-06,Avril Lavigne,3
+2009-06,Gondwana,3
+2009-06,Hoobastank,3
+2009-06,Limp Bizkit,7
+2009-06,Linkin Park,8
+2009-06,My Chemical Romance,3
+2009-06,No Doubt,7
+2009-06,P.O.D.,4
+2009-06,Papa Roach,2
+2009-06,Rage Against The Machine,2
+2009-06,Slipknot,3
+2009-06,Sum 41,6
+2009-06,System Of A Down,5
+2009-06,The Offspring,2

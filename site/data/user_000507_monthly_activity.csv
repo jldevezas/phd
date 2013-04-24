@@ -1,0 +1,701 @@
+month,artist,plays
+2006-08,Anton Maiden,32
+2006-08,Arch Enemy,0
+2006-08,Bathory,0
+2006-08,Black Sabbath,1
+2006-08,Blind Guardian,0
+2006-08,Bruce Dickinson,0
+2006-08,Enrico Ruggeri,2
+2006-08,Gamma Ray,90
+2006-08,Helloween,0
+2006-08,Iron Maiden,28
+2006-08,Judas Priest,11
+2006-08,Metallica,0
+2006-08,Misfits,3
+2006-08,Motörhead,2
+2006-08,Muse,0
+2006-08,Negazione,1
+2006-08,Nerorgasmo,5
+2006-08,Porcupine Tree,14
+2006-08,Symphony X,28
+2006-08,Virgin Steele,10
+2006-09,Anton Maiden,0
+2006-09,Arch Enemy,0
+2006-09,Bathory,3
+2006-09,Black Sabbath,18
+2006-09,Blind Guardian,1
+2006-09,Bruce Dickinson,49
+2006-09,Enrico Ruggeri,0
+2006-09,Gamma Ray,91
+2006-09,Helloween,35
+2006-09,Iron Maiden,20
+2006-09,Judas Priest,1
+2006-09,Metallica,3
+2006-09,Misfits,0
+2006-09,Motörhead,0
+2006-09,Muse,0
+2006-09,Negazione,12
+2006-09,Nerorgasmo,24
+2006-09,Porcupine Tree,125
+2006-09,Symphony X,45
+2006-09,Virgin Steele,12
+2006-10,Anton Maiden,0
+2006-10,Arch Enemy,0
+2006-10,Bathory,2
+2006-10,Black Sabbath,3
+2006-10,Blind Guardian,48
+2006-10,Bruce Dickinson,11
+2006-10,Enrico Ruggeri,8
+2006-10,Gamma Ray,71
+2006-10,Helloween,5
+2006-10,Iron Maiden,8
+2006-10,Judas Priest,0
+2006-10,Metallica,0
+2006-10,Misfits,25
+2006-10,Motörhead,0
+2006-10,Muse,7
+2006-10,Negazione,54
+2006-10,Nerorgasmo,24
+2006-10,Porcupine Tree,0
+2006-10,Symphony X,0
+2006-10,Virgin Steele,10
+2006-11,Anton Maiden,2
+2006-11,Arch Enemy,0
+2006-11,Bathory,0
+2006-11,Black Sabbath,0
+2006-11,Blind Guardian,23
+2006-11,Bruce Dickinson,25
+2006-11,Enrico Ruggeri,61
+2006-11,Gamma Ray,198
+2006-11,Helloween,38
+2006-11,Iron Maiden,8
+2006-11,Judas Priest,1
+2006-11,Metallica,9
+2006-11,Misfits,4
+2006-11,Motörhead,3
+2006-11,Muse,53
+2006-11,Negazione,62
+2006-11,Nerorgasmo,0
+2006-11,Porcupine Tree,27
+2006-11,Symphony X,0
+2006-11,Virgin Steele,0
+2006-12,Anton Maiden,1
+2006-12,Arch Enemy,0
+2006-12,Bathory,0
+2006-12,Black Sabbath,1
+2006-12,Blind Guardian,5
+2006-12,Bruce Dickinson,1
+2006-12,Enrico Ruggeri,0
+2006-12,Gamma Ray,8
+2006-12,Helloween,2
+2006-12,Iron Maiden,0
+2006-12,Judas Priest,1
+2006-12,Metallica,4
+2006-12,Misfits,16
+2006-12,Motörhead,1
+2006-12,Muse,62
+2006-12,Negazione,6
+2006-12,Nerorgasmo,0
+2006-12,Porcupine Tree,2
+2006-12,Symphony X,65
+2006-12,Virgin Steele,79
+2007-01,Anton Maiden,29
+2007-01,Arch Enemy,1
+2007-01,Bathory,14
+2007-01,Black Sabbath,0
+2007-01,Blind Guardian,18
+2007-01,Bruce Dickinson,0
+2007-01,Enrico Ruggeri,8
+2007-01,Gamma Ray,40
+2007-01,Helloween,42
+2007-01,Iron Maiden,12
+2007-01,Judas Priest,27
+2007-01,Metallica,0
+2007-01,Misfits,83
+2007-01,Motörhead,0
+2007-01,Muse,0
+2007-01,Negazione,47
+2007-01,Nerorgasmo,2
+2007-01,Porcupine Tree,15
+2007-01,Symphony X,3
+2007-01,Virgin Steele,10
+2007-02,Anton Maiden,0
+2007-02,Arch Enemy,5
+2007-02,Bathory,0
+2007-02,Black Sabbath,3
+2007-02,Blind Guardian,0
+2007-02,Bruce Dickinson,17
+2007-02,Enrico Ruggeri,4
+2007-02,Gamma Ray,0
+2007-02,Helloween,0
+2007-02,Iron Maiden,0
+2007-02,Judas Priest,0
+2007-02,Metallica,0
+2007-02,Misfits,70
+2007-02,Motörhead,42
+2007-02,Muse,6
+2007-02,Negazione,16
+2007-02,Nerorgasmo,21
+2007-02,Porcupine Tree,18
+2007-02,Symphony X,36
+2007-02,Virgin Steele,0
+2007-03,Anton Maiden,0
+2007-03,Arch Enemy,2
+2007-03,Bathory,0
+2007-03,Black Sabbath,1
+2007-03,Blind Guardian,3
+2007-03,Bruce Dickinson,4
+2007-03,Enrico Ruggeri,0
+2007-03,Gamma Ray,2
+2007-03,Helloween,0
+2007-03,Iron Maiden,2
+2007-03,Judas Priest,1
+2007-03,Metallica,1
+2007-03,Misfits,35
+2007-03,Motörhead,0
+2007-03,Muse,2
+2007-03,Negazione,5
+2007-03,Nerorgasmo,0
+2007-03,Porcupine Tree,1
+2007-03,Symphony X,1
+2007-03,Virgin Steele,0
+2007-04,Anton Maiden,18
+2007-04,Arch Enemy,3
+2007-04,Bathory,2
+2007-04,Black Sabbath,1
+2007-04,Blind Guardian,0
+2007-04,Bruce Dickinson,22
+2007-04,Enrico Ruggeri,0
+2007-04,Gamma Ray,0
+2007-04,Helloween,19
+2007-04,Iron Maiden,9
+2007-04,Judas Priest,16
+2007-04,Metallica,0
+2007-04,Misfits,292
+2007-04,Motörhead,0
+2007-04,Muse,0
+2007-04,Negazione,36
+2007-04,Nerorgasmo,16
+2007-04,Porcupine Tree,9
+2007-04,Symphony X,5
+2007-04,Virgin Steele,23
+2007-05,Anton Maiden,5
+2007-05,Arch Enemy,30
+2007-05,Bathory,126
+2007-05,Black Sabbath,0
+2007-05,Blind Guardian,1
+2007-05,Bruce Dickinson,9
+2007-05,Enrico Ruggeri,23
+2007-05,Gamma Ray,0
+2007-05,Helloween,0
+2007-05,Iron Maiden,1
+2007-05,Judas Priest,0
+2007-05,Metallica,0
+2007-05,Misfits,83
+2007-05,Motörhead,3
+2007-05,Muse,1
+2007-05,Negazione,32
+2007-05,Nerorgasmo,0
+2007-05,Porcupine Tree,4
+2007-05,Symphony X,0
+2007-05,Virgin Steele,0
+2007-06,Anton Maiden,8
+2007-06,Arch Enemy,3
+2007-06,Bathory,4
+2007-06,Black Sabbath,55
+2007-06,Blind Guardian,11
+2007-06,Bruce Dickinson,11
+2007-06,Enrico Ruggeri,0
+2007-06,Gamma Ray,19
+2007-06,Helloween,10
+2007-06,Iron Maiden,19
+2007-06,Judas Priest,13
+2007-06,Metallica,7
+2007-06,Misfits,21
+2007-06,Motörhead,0
+2007-06,Muse,0
+2007-06,Negazione,0
+2007-06,Nerorgasmo,1
+2007-06,Porcupine Tree,4
+2007-06,Symphony X,15
+2007-06,Virgin Steele,3
+2007-07,Anton Maiden,0
+2007-07,Arch Enemy,0
+2007-07,Bathory,0
+2007-07,Black Sabbath,0
+2007-07,Blind Guardian,3
+2007-07,Bruce Dickinson,6
+2007-07,Enrico Ruggeri,1
+2007-07,Gamma Ray,20
+2007-07,Helloween,2
+2007-07,Iron Maiden,6
+2007-07,Judas Priest,49
+2007-07,Metallica,19
+2007-07,Misfits,12
+2007-07,Motörhead,2
+2007-07,Muse,0
+2007-07,Negazione,1
+2007-07,Nerorgasmo,0
+2007-07,Porcupine Tree,1
+2007-07,Symphony X,0
+2007-07,Virgin Steele,1
+2007-08,Anton Maiden,0
+2007-08,Arch Enemy,0
+2007-08,Bathory,0
+2007-08,Black Sabbath,1
+2007-08,Blind Guardian,44
+2007-08,Bruce Dickinson,0
+2007-08,Enrico Ruggeri,0
+2007-08,Gamma Ray,0
+2007-08,Helloween,0
+2007-08,Iron Maiden,4
+2007-08,Judas Priest,19
+2007-08,Metallica,12
+2007-08,Misfits,4
+2007-08,Motörhead,0
+2007-08,Muse,0
+2007-08,Negazione,0
+2007-08,Nerorgasmo,15
+2007-08,Porcupine Tree,0
+2007-08,Symphony X,1
+2007-08,Virgin Steele,0
+2007-09,Anton Maiden,0
+2007-09,Arch Enemy,0
+2007-09,Bathory,2
+2007-09,Black Sabbath,0
+2007-09,Blind Guardian,0
+2007-09,Bruce Dickinson,0
+2007-09,Enrico Ruggeri,3
+2007-09,Gamma Ray,0
+2007-09,Helloween,0
+2007-09,Iron Maiden,0
+2007-09,Judas Priest,8
+2007-09,Metallica,0
+2007-09,Misfits,0
+2007-09,Motörhead,15
+2007-09,Muse,1
+2007-09,Negazione,10
+2007-09,Nerorgasmo,21
+2007-09,Porcupine Tree,0
+2007-09,Symphony X,15
+2007-09,Virgin Steele,0
+2007-10,Anton Maiden,14
+2007-10,Arch Enemy,22
+2007-10,Bathory,10
+2007-10,Black Sabbath,0
+2007-10,Blind Guardian,10
+2007-10,Bruce Dickinson,4
+2007-10,Enrico Ruggeri,0
+2007-10,Gamma Ray,76
+2007-10,Helloween,11
+2007-10,Iron Maiden,18
+2007-10,Judas Priest,1
+2007-10,Metallica,1
+2007-10,Misfits,74
+2007-10,Motörhead,11
+2007-10,Muse,5
+2007-10,Negazione,0
+2007-10,Nerorgasmo,2
+2007-10,Porcupine Tree,20
+2007-10,Symphony X,5
+2007-10,Virgin Steele,0
+2007-11,Anton Maiden,3
+2007-11,Arch Enemy,2
+2007-11,Bathory,2
+2007-11,Black Sabbath,0
+2007-11,Blind Guardian,2
+2007-11,Bruce Dickinson,0
+2007-11,Enrico Ruggeri,0
+2007-11,Gamma Ray,25
+2007-11,Helloween,26
+2007-11,Iron Maiden,2
+2007-11,Judas Priest,27
+2007-11,Metallica,0
+2007-11,Misfits,12
+2007-11,Motörhead,0
+2007-11,Muse,4
+2007-11,Negazione,2
+2007-11,Nerorgasmo,16
+2007-11,Porcupine Tree,95
+2007-11,Symphony X,0
+2007-11,Virgin Steele,66
+2007-12,Anton Maiden,1
+2007-12,Arch Enemy,4
+2007-12,Bathory,8
+2007-12,Black Sabbath,0
+2007-12,Blind Guardian,238
+2007-12,Bruce Dickinson,18
+2007-12,Enrico Ruggeri,0
+2007-12,Gamma Ray,1
+2007-12,Helloween,10
+2007-12,Iron Maiden,0
+2007-12,Judas Priest,7
+2007-12,Metallica,9
+2007-12,Misfits,168
+2007-12,Motörhead,1
+2007-12,Muse,9
+2007-12,Negazione,4
+2007-12,Nerorgasmo,4
+2007-12,Porcupine Tree,0
+2007-12,Symphony X,0
+2007-12,Virgin Steele,0
+2008-01,Anton Maiden,15
+2008-01,Arch Enemy,5
+2008-01,Bathory,11
+2008-01,Black Sabbath,0
+2008-01,Blind Guardian,62
+2008-01,Bruce Dickinson,1
+2008-01,Enrico Ruggeri,6
+2008-01,Gamma Ray,0
+2008-01,Helloween,2
+2008-01,Iron Maiden,24
+2008-01,Judas Priest,16
+2008-01,Metallica,9
+2008-01,Misfits,68
+2008-01,Motörhead,30
+2008-01,Muse,10
+2008-01,Negazione,0
+2008-01,Nerorgasmo,7
+2008-01,Porcupine Tree,95
+2008-01,Symphony X,30
+2008-01,Virgin Steele,127
+2008-02,Anton Maiden,11
+2008-02,Arch Enemy,0
+2008-02,Bathory,7
+2008-02,Black Sabbath,0
+2008-02,Blind Guardian,18
+2008-02,Bruce Dickinson,2
+2008-02,Enrico Ruggeri,13
+2008-02,Gamma Ray,1
+2008-02,Helloween,18
+2008-02,Iron Maiden,3
+2008-02,Judas Priest,0
+2008-02,Metallica,0
+2008-02,Misfits,189
+2008-02,Motörhead,0
+2008-02,Muse,23
+2008-02,Negazione,4
+2008-02,Nerorgasmo,7
+2008-02,Porcupine Tree,0
+2008-02,Symphony X,3
+2008-02,Virgin Steele,35
+2008-03,Anton Maiden,1
+2008-03,Arch Enemy,0
+2008-03,Bathory,3
+2008-03,Black Sabbath,0
+2008-03,Blind Guardian,12
+2008-03,Bruce Dickinson,0
+2008-03,Enrico Ruggeri,0
+2008-03,Gamma Ray,9
+2008-03,Helloween,0
+2008-03,Iron Maiden,31
+2008-03,Judas Priest,141
+2008-03,Metallica,1
+2008-03,Misfits,97
+2008-03,Motörhead,0
+2008-03,Muse,0
+2008-03,Negazione,18
+2008-03,Nerorgasmo,0
+2008-03,Porcupine Tree,31
+2008-03,Symphony X,0
+2008-03,Virgin Steele,0
+2008-04,Anton Maiden,0
+2008-04,Arch Enemy,0
+2008-04,Bathory,42
+2008-04,Black Sabbath,36
+2008-04,Blind Guardian,125
+2008-04,Bruce Dickinson,0
+2008-04,Enrico Ruggeri,0
+2008-04,Gamma Ray,6
+2008-04,Helloween,0
+2008-04,Iron Maiden,5
+2008-04,Judas Priest,23
+2008-04,Metallica,11
+2008-04,Misfits,280
+2008-04,Motörhead,4
+2008-04,Muse,1
+2008-04,Negazione,0
+2008-04,Nerorgasmo,7
+2008-04,Porcupine Tree,0
+2008-04,Symphony X,47
+2008-04,Virgin Steele,3
+2008-05,Anton Maiden,7
+2008-05,Arch Enemy,0
+2008-05,Bathory,14
+2008-05,Black Sabbath,0
+2008-05,Blind Guardian,0
+2008-05,Bruce Dickinson,23
+2008-05,Enrico Ruggeri,25
+2008-05,Gamma Ray,31
+2008-05,Helloween,41
+2008-05,Iron Maiden,5
+2008-05,Judas Priest,26
+2008-05,Metallica,6
+2008-05,Misfits,66
+2008-05,Motörhead,53
+2008-05,Muse,0
+2008-05,Negazione,1
+2008-05,Nerorgasmo,3
+2008-05,Porcupine Tree,0
+2008-05,Symphony X,0
+2008-05,Virgin Steele,5
+2008-06,Anton Maiden,3
+2008-06,Arch Enemy,0
+2008-06,Bathory,30
+2008-06,Black Sabbath,0
+2008-06,Blind Guardian,114
+2008-06,Bruce Dickinson,39
+2008-06,Enrico Ruggeri,0
+2008-06,Gamma Ray,102
+2008-06,Helloween,13
+2008-06,Iron Maiden,2
+2008-06,Judas Priest,24
+2008-06,Metallica,20
+2008-06,Misfits,71
+2008-06,Motörhead,25
+2008-06,Muse,12
+2008-06,Negazione,0
+2008-06,Nerorgasmo,0
+2008-06,Porcupine Tree,41
+2008-06,Symphony X,28
+2008-06,Virgin Steele,0
+2008-07,Anton Maiden,0
+2008-07,Arch Enemy,0
+2008-07,Bathory,0
+2008-07,Black Sabbath,0
+2008-07,Blind Guardian,0
+2008-07,Bruce Dickinson,0
+2008-07,Enrico Ruggeri,0
+2008-07,Gamma Ray,50
+2008-07,Helloween,0
+2008-07,Iron Maiden,0
+2008-07,Judas Priest,0
+2008-07,Metallica,0
+2008-07,Misfits,0
+2008-07,Motörhead,0
+2008-07,Muse,5
+2008-07,Negazione,0
+2008-07,Nerorgasmo,0
+2008-07,Porcupine Tree,15
+2008-07,Symphony X,41
+2008-07,Virgin Steele,0
+2008-08,Anton Maiden,0
+2008-08,Arch Enemy,0
+2008-08,Bathory,0
+2008-08,Black Sabbath,13
+2008-08,Blind Guardian,0
+2008-08,Bruce Dickinson,0
+2008-08,Enrico Ruggeri,0
+2008-08,Gamma Ray,0
+2008-08,Helloween,0
+2008-08,Iron Maiden,2
+2008-08,Judas Priest,1
+2008-08,Metallica,9
+2008-08,Misfits,0
+2008-08,Motörhead,0
+2008-08,Muse,0
+2008-08,Negazione,0
+2008-08,Nerorgasmo,0
+2008-08,Porcupine Tree,0
+2008-08,Symphony X,0
+2008-08,Virgin Steele,2
+2008-09,Anton Maiden,30
+2008-09,Arch Enemy,22
+2008-09,Bathory,0
+2008-09,Black Sabbath,0
+2008-09,Blind Guardian,0
+2008-09,Bruce Dickinson,0
+2008-09,Enrico Ruggeri,1
+2008-09,Gamma Ray,0
+2008-09,Helloween,0
+2008-09,Iron Maiden,23
+2008-09,Judas Priest,10
+2008-09,Metallica,105
+2008-09,Misfits,0
+2008-09,Motörhead,1
+2008-09,Muse,11
+2008-09,Negazione,1
+2008-09,Nerorgasmo,0
+2008-09,Porcupine Tree,5
+2008-09,Symphony X,2
+2008-09,Virgin Steele,0
+2008-10,Anton Maiden,6
+2008-10,Arch Enemy,3
+2008-10,Bathory,0
+2008-10,Black Sabbath,0
+2008-10,Blind Guardian,0
+2008-10,Bruce Dickinson,0
+2008-10,Enrico Ruggeri,8
+2008-10,Gamma Ray,1
+2008-10,Helloween,0
+2008-10,Iron Maiden,0
+2008-10,Judas Priest,10
+2008-10,Metallica,0
+2008-10,Misfits,23
+2008-10,Motörhead,0
+2008-10,Muse,5
+2008-10,Negazione,0
+2008-10,Nerorgasmo,0
+2008-10,Porcupine Tree,9
+2008-10,Symphony X,0
+2008-10,Virgin Steele,0
+2008-11,Anton Maiden,0
+2008-11,Arch Enemy,0
+2008-11,Bathory,0
+2008-11,Black Sabbath,0
+2008-11,Blind Guardian,13
+2008-11,Bruce Dickinson,0
+2008-11,Enrico Ruggeri,0
+2008-11,Gamma Ray,0
+2008-11,Helloween,0
+2008-11,Iron Maiden,0
+2008-11,Judas Priest,0
+2008-11,Metallica,0
+2008-11,Misfits,0
+2008-11,Motörhead,4
+2008-11,Muse,11
+2008-11,Negazione,0
+2008-11,Nerorgasmo,0
+2008-11,Porcupine Tree,28
+2008-11,Symphony X,2
+2008-11,Virgin Steele,0
+2008-12,Anton Maiden,0
+2008-12,Arch Enemy,0
+2008-12,Bathory,0
+2008-12,Black Sabbath,2
+2008-12,Blind Guardian,4
+2008-12,Bruce Dickinson,0
+2008-12,Enrico Ruggeri,0
+2008-12,Gamma Ray,0
+2008-12,Helloween,10
+2008-12,Iron Maiden,0
+2008-12,Judas Priest,0
+2008-12,Metallica,0
+2008-12,Misfits,0
+2008-12,Motörhead,60
+2008-12,Muse,8
+2008-12,Negazione,0
+2008-12,Nerorgasmo,0
+2008-12,Porcupine Tree,22
+2008-12,Symphony X,23
+2008-12,Virgin Steele,0
+2009-01,Anton Maiden,11
+2009-01,Arch Enemy,0
+2009-01,Bathory,23
+2009-01,Black Sabbath,25
+2009-01,Blind Guardian,0
+2009-01,Bruce Dickinson,0
+2009-01,Enrico Ruggeri,0
+2009-01,Gamma Ray,0
+2009-01,Helloween,27
+2009-01,Iron Maiden,4
+2009-01,Judas Priest,32
+2009-01,Metallica,44
+2009-01,Misfits,23
+2009-01,Motörhead,0
+2009-01,Muse,29
+2009-01,Negazione,0
+2009-01,Nerorgasmo,12
+2009-01,Porcupine Tree,10
+2009-01,Symphony X,249
+2009-01,Virgin Steele,62
+2009-02,Anton Maiden,0
+2009-02,Arch Enemy,0
+2009-02,Bathory,0
+2009-02,Black Sabbath,0
+2009-02,Blind Guardian,60
+2009-02,Bruce Dickinson,0
+2009-02,Enrico Ruggeri,0
+2009-02,Gamma Ray,0
+2009-02,Helloween,4
+2009-02,Iron Maiden,0
+2009-02,Judas Priest,0
+2009-02,Metallica,0
+2009-02,Misfits,0
+2009-02,Motörhead,0
+2009-02,Muse,0
+2009-02,Negazione,0
+2009-02,Nerorgasmo,0
+2009-02,Porcupine Tree,0
+2009-02,Symphony X,1
+2009-02,Virgin Steele,11
+2009-03,Anton Maiden,4
+2009-03,Arch Enemy,3
+2009-03,Bathory,0
+2009-03,Black Sabbath,3
+2009-03,Blind Guardian,16
+2009-03,Bruce Dickinson,0
+2009-03,Enrico Ruggeri,2
+2009-03,Gamma Ray,0
+2009-03,Helloween,6
+2009-03,Iron Maiden,4
+2009-03,Judas Priest,2
+2009-03,Metallica,0
+2009-03,Misfits,20
+2009-03,Motörhead,6
+2009-03,Muse,0
+2009-03,Negazione,0
+2009-03,Nerorgasmo,0
+2009-03,Porcupine Tree,2
+2009-03,Symphony X,9
+2009-03,Virgin Steele,12
+2009-04,Anton Maiden,0
+2009-04,Arch Enemy,1
+2009-04,Bathory,0
+2009-04,Black Sabbath,25
+2009-04,Blind Guardian,0
+2009-04,Bruce Dickinson,1
+2009-04,Enrico Ruggeri,1
+2009-04,Gamma Ray,0
+2009-04,Helloween,0
+2009-04,Iron Maiden,0
+2009-04,Judas Priest,0
+2009-04,Metallica,0
+2009-04,Misfits,74
+2009-04,Motörhead,0
+2009-04,Muse,0
+2009-04,Negazione,5
+2009-04,Nerorgasmo,0
+2009-04,Porcupine Tree,0
+2009-04,Symphony X,0
+2009-04,Virgin Steele,1
+2009-05,Anton Maiden,0
+2009-05,Arch Enemy,14
+2009-05,Bathory,0
+2009-05,Black Sabbath,0
+2009-05,Blind Guardian,0
+2009-05,Bruce Dickinson,0
+2009-05,Enrico Ruggeri,0
+2009-05,Gamma Ray,0
+2009-05,Helloween,0
+2009-05,Iron Maiden,0
+2009-05,Judas Priest,0
+2009-05,Metallica,0
+2009-05,Misfits,81
+2009-05,Motörhead,0
+2009-05,Muse,0
+2009-05,Negazione,0
+2009-05,Nerorgasmo,0
+2009-05,Porcupine Tree,9
+2009-05,Symphony X,0
+2009-05,Virgin Steele,0
+2009-06,Anton Maiden,3
+2009-06,Arch Enemy,0
+2009-06,Bathory,0
+2009-06,Black Sabbath,4
+2009-06,Blind Guardian,4
+2009-06,Bruce Dickinson,0
+2009-06,Enrico Ruggeri,64
+2009-06,Gamma Ray,31
+2009-06,Helloween,2
+2009-06,Iron Maiden,1
+2009-06,Judas Priest,1
+2009-06,Metallica,0
+2009-06,Misfits,15
+2009-06,Motörhead,13
+2009-06,Muse,0
+2009-06,Negazione,0
+2009-06,Nerorgasmo,0
+2009-06,Porcupine Tree,3
+2009-06,Symphony X,1
+2009-06,Virgin Steele,0

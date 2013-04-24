@@ -1,0 +1,501 @@
+month,artist,plays
+2007-05,Ac/Dc,0
+2007-05,Air,6
+2007-05,Black Sabbath,0
+2007-05,Creed,2
+2007-05,Dream Theater,0
+2007-05,Eagles,0
+2007-05,Enigma,0
+2007-05,Harry Nilsson,0
+2007-05,Jimi Hendrix,0
+2007-05,Linkin Park,6
+2007-05,Lucky Ali,0
+2007-05,Massive Attack,2
+2007-05,Metallica,0
+2007-05,Moby,0
+2007-05,Muse,0
+2007-05,Pink Floyd,13
+2007-05,The Doors,0
+2007-05,The Prodigy,0
+2007-05,The Rolling Stones,0
+2007-05,Zero 7,0
+2007-06,Ac/Dc,0
+2007-06,Air,7
+2007-06,Black Sabbath,0
+2007-06,Creed,0
+2007-06,Dream Theater,0
+2007-06,Eagles,0
+2007-06,Enigma,0
+2007-06,Harry Nilsson,2
+2007-06,Jimi Hendrix,0
+2007-06,Linkin Park,0
+2007-06,Lucky Ali,0
+2007-06,Massive Attack,2
+2007-06,Metallica,2
+2007-06,Moby,2
+2007-06,Muse,0
+2007-06,Pink Floyd,10
+2007-06,The Doors,7
+2007-06,The Prodigy,1
+2007-06,The Rolling Stones,0
+2007-06,Zero 7,1
+2007-07,Ac/Dc,0
+2007-07,Air,0
+2007-07,Black Sabbath,1
+2007-07,Creed,0
+2007-07,Dream Theater,1
+2007-07,Eagles,3
+2007-07,Enigma,1
+2007-07,Harry Nilsson,1
+2007-07,Jimi Hendrix,0
+2007-07,Linkin Park,75
+2007-07,Lucky Ali,0
+2007-07,Massive Attack,3
+2007-07,Metallica,0
+2007-07,Moby,10
+2007-07,Muse,0
+2007-07,Pink Floyd,94
+2007-07,The Doors,31
+2007-07,The Prodigy,1
+2007-07,The Rolling Stones,3
+2007-07,Zero 7,1
+2007-08,Ac/Dc,0
+2007-08,Air,0
+2007-08,Black Sabbath,0
+2007-08,Creed,0
+2007-08,Dream Theater,7
+2007-08,Eagles,4
+2007-08,Enigma,0
+2007-08,Harry Nilsson,0
+2007-08,Jimi Hendrix,0
+2007-08,Linkin Park,130
+2007-08,Lucky Ali,6
+2007-08,Massive Attack,0
+2007-08,Metallica,13
+2007-08,Moby,2
+2007-08,Muse,0
+2007-08,Pink Floyd,196
+2007-08,The Doors,29
+2007-08,The Prodigy,0
+2007-08,The Rolling Stones,3
+2007-08,Zero 7,0
+2007-09,Ac/Dc,1
+2007-09,Air,2
+2007-09,Black Sabbath,0
+2007-09,Creed,0
+2007-09,Dream Theater,1
+2007-09,Eagles,2
+2007-09,Enigma,25
+2007-09,Harry Nilsson,0
+2007-09,Jimi Hendrix,0
+2007-09,Linkin Park,84
+2007-09,Lucky Ali,10
+2007-09,Massive Attack,1
+2007-09,Metallica,15
+2007-09,Moby,3
+2007-09,Muse,0
+2007-09,Pink Floyd,99
+2007-09,The Doors,13
+2007-09,The Prodigy,22
+2007-09,The Rolling Stones,4
+2007-09,Zero 7,0
+2007-10,Ac/Dc,1
+2007-10,Air,0
+2007-10,Black Sabbath,3
+2007-10,Creed,1
+2007-10,Dream Theater,3
+2007-10,Eagles,2
+2007-10,Enigma,28
+2007-10,Harry Nilsson,1
+2007-10,Jimi Hendrix,24
+2007-10,Linkin Park,90
+2007-10,Lucky Ali,2
+2007-10,Massive Attack,0
+2007-10,Metallica,43
+2007-10,Moby,0
+2007-10,Muse,0
+2007-10,Pink Floyd,68
+2007-10,The Doors,14
+2007-10,The Prodigy,14
+2007-10,The Rolling Stones,3
+2007-10,Zero 7,1
+2007-11,Ac/Dc,9
+2007-11,Air,5
+2007-11,Black Sabbath,11
+2007-11,Creed,4
+2007-11,Dream Theater,5
+2007-11,Eagles,2
+2007-11,Enigma,6
+2007-11,Harry Nilsson,0
+2007-11,Jimi Hendrix,33
+2007-11,Linkin Park,17
+2007-11,Lucky Ali,0
+2007-11,Massive Attack,3
+2007-11,Metallica,22
+2007-11,Moby,1
+2007-11,Muse,5
+2007-11,Pink Floyd,32
+2007-11,The Doors,4
+2007-11,The Prodigy,1
+2007-11,The Rolling Stones,1
+2007-11,Zero 7,0
+2007-12,Ac/Dc,3
+2007-12,Air,7
+2007-12,Black Sabbath,6
+2007-12,Creed,1
+2007-12,Dream Theater,1
+2007-12,Eagles,0
+2007-12,Enigma,0
+2007-12,Harry Nilsson,0
+2007-12,Jimi Hendrix,7
+2007-12,Linkin Park,12
+2007-12,Lucky Ali,0
+2007-12,Massive Attack,1
+2007-12,Metallica,9
+2007-12,Moby,0
+2007-12,Muse,4
+2007-12,Pink Floyd,34
+2007-12,The Doors,11
+2007-12,The Prodigy,0
+2007-12,The Rolling Stones,2
+2007-12,Zero 7,4
+2008-01,Ac/Dc,2
+2008-01,Air,4
+2008-01,Black Sabbath,4
+2008-01,Creed,1
+2008-01,Dream Theater,1
+2008-01,Eagles,1
+2008-01,Enigma,2
+2008-01,Harry Nilsson,0
+2008-01,Jimi Hendrix,2
+2008-01,Linkin Park,52
+2008-01,Lucky Ali,2
+2008-01,Massive Attack,5
+2008-01,Metallica,3
+2008-01,Moby,2
+2008-01,Muse,69
+2008-01,Pink Floyd,40
+2008-01,The Doors,19
+2008-01,The Prodigy,2
+2008-01,The Rolling Stones,3
+2008-01,Zero 7,3
+2008-02,Ac/Dc,6
+2008-02,Air,8
+2008-02,Black Sabbath,7
+2008-02,Creed,4
+2008-02,Dream Theater,1
+2008-02,Eagles,1
+2008-02,Enigma,8
+2008-02,Harry Nilsson,1
+2008-02,Jimi Hendrix,8
+2008-02,Linkin Park,55
+2008-02,Lucky Ali,0
+2008-02,Massive Attack,3
+2008-02,Metallica,16
+2008-02,Moby,1
+2008-02,Muse,18
+2008-02,Pink Floyd,35
+2008-02,The Doors,18
+2008-02,The Prodigy,32
+2008-02,The Rolling Stones,3
+2008-02,Zero 7,4
+2008-03,Ac/Dc,18
+2008-03,Air,7
+2008-03,Black Sabbath,9
+2008-03,Creed,1
+2008-03,Dream Theater,2
+2008-03,Eagles,0
+2008-03,Enigma,12
+2008-03,Harry Nilsson,2
+2008-03,Jimi Hendrix,7
+2008-03,Linkin Park,19
+2008-03,Lucky Ali,2
+2008-03,Massive Attack,2
+2008-03,Metallica,12
+2008-03,Moby,7
+2008-03,Muse,13
+2008-03,Pink Floyd,20
+2008-03,The Doors,8
+2008-03,The Prodigy,44
+2008-03,The Rolling Stones,2
+2008-03,Zero 7,1
+2008-04,Ac/Dc,6
+2008-04,Air,1
+2008-04,Black Sabbath,3
+2008-04,Creed,2
+2008-04,Dream Theater,2
+2008-04,Eagles,2
+2008-04,Enigma,7
+2008-04,Harry Nilsson,2
+2008-04,Jimi Hendrix,9
+2008-04,Linkin Park,19
+2008-04,Lucky Ali,4
+2008-04,Massive Attack,1
+2008-04,Metallica,30
+2008-04,Moby,5
+2008-04,Muse,2
+2008-04,Pink Floyd,173
+2008-04,The Doors,4
+2008-04,The Prodigy,7
+2008-04,The Rolling Stones,4
+2008-04,Zero 7,3
+2008-05,Ac/Dc,9
+2008-05,Air,2
+2008-05,Black Sabbath,6
+2008-05,Creed,2
+2008-05,Dream Theater,4
+2008-05,Eagles,1
+2008-05,Enigma,16
+2008-05,Harry Nilsson,2
+2008-05,Jimi Hendrix,4
+2008-05,Linkin Park,12
+2008-05,Lucky Ali,1
+2008-05,Massive Attack,1
+2008-05,Metallica,14
+2008-05,Moby,7
+2008-05,Muse,22
+2008-05,Pink Floyd,46
+2008-05,The Doors,25
+2008-05,The Prodigy,19
+2008-05,The Rolling Stones,2
+2008-05,Zero 7,7
+2008-06,Ac/Dc,11
+2008-06,Air,3
+2008-06,Black Sabbath,4
+2008-06,Creed,1
+2008-06,Dream Theater,0
+2008-06,Eagles,2
+2008-06,Enigma,5
+2008-06,Harry Nilsson,2
+2008-06,Jimi Hendrix,5
+2008-06,Linkin Park,9
+2008-06,Lucky Ali,4
+2008-06,Massive Attack,1
+2008-06,Metallica,9
+2008-06,Moby,9
+2008-06,Muse,20
+2008-06,Pink Floyd,65
+2008-06,The Doors,14
+2008-06,The Prodigy,21
+2008-06,The Rolling Stones,2
+2008-06,Zero 7,7
+2008-07,Ac/Dc,4
+2008-07,Air,0
+2008-07,Black Sabbath,1
+2008-07,Creed,1
+2008-07,Dream Theater,0
+2008-07,Eagles,2
+2008-07,Enigma,4
+2008-07,Harry Nilsson,0
+2008-07,Jimi Hendrix,8
+2008-07,Linkin Park,6
+2008-07,Lucky Ali,0
+2008-07,Massive Attack,0
+2008-07,Metallica,5
+2008-07,Moby,4
+2008-07,Muse,1
+2008-07,Pink Floyd,12
+2008-07,The Doors,0
+2008-07,The Prodigy,25
+2008-07,The Rolling Stones,1
+2008-07,Zero 7,2
+2008-08,Ac/Dc,0
+2008-08,Air,0
+2008-08,Black Sabbath,3
+2008-08,Creed,0
+2008-08,Dream Theater,1
+2008-08,Eagles,1
+2008-08,Enigma,0
+2008-08,Harry Nilsson,0
+2008-08,Jimi Hendrix,3
+2008-08,Linkin Park,1
+2008-08,Lucky Ali,1
+2008-08,Massive Attack,4
+2008-08,Metallica,1
+2008-08,Moby,3
+2008-08,Muse,1
+2008-08,Pink Floyd,69
+2008-08,The Doors,28
+2008-08,The Prodigy,0
+2008-08,The Rolling Stones,6
+2008-08,Zero 7,0
+2008-09,Ac/Dc,6
+2008-09,Air,0
+2008-09,Black Sabbath,7
+2008-09,Creed,0
+2008-09,Dream Theater,6
+2008-09,Eagles,0
+2008-09,Enigma,0
+2008-09,Harry Nilsson,0
+2008-09,Jimi Hendrix,14
+2008-09,Linkin Park,0
+2008-09,Lucky Ali,0
+2008-09,Massive Attack,3
+2008-09,Metallica,4
+2008-09,Moby,0
+2008-09,Muse,0
+2008-09,Pink Floyd,103
+2008-09,The Doors,70
+2008-09,The Prodigy,11
+2008-09,The Rolling Stones,30
+2008-09,Zero 7,0
+2008-10,Ac/Dc,0
+2008-10,Air,5
+2008-10,Black Sabbath,7
+2008-10,Creed,2
+2008-10,Dream Theater,4
+2008-10,Eagles,0
+2008-10,Enigma,60
+2008-10,Harry Nilsson,1
+2008-10,Jimi Hendrix,9
+2008-10,Linkin Park,57
+2008-10,Lucky Ali,8
+2008-10,Massive Attack,7
+2008-10,Metallica,8
+2008-10,Moby,15
+2008-10,Muse,7
+2008-10,Pink Floyd,290
+2008-10,The Doors,37
+2008-10,The Prodigy,0
+2008-10,The Rolling Stones,37
+2008-10,Zero 7,8
+2008-11,Ac/Dc,0
+2008-11,Air,2
+2008-11,Black Sabbath,9
+2008-11,Creed,0
+2008-11,Dream Theater,0
+2008-11,Eagles,0
+2008-11,Enigma,43
+2008-11,Harry Nilsson,3
+2008-11,Jimi Hendrix,9
+2008-11,Linkin Park,84
+2008-11,Lucky Ali,7
+2008-11,Massive Attack,0
+2008-11,Metallica,6
+2008-11,Moby,7
+2008-11,Muse,12
+2008-11,Pink Floyd,182
+2008-11,The Doors,28
+2008-11,The Prodigy,0
+2008-11,The Rolling Stones,12
+2008-11,Zero 7,6
+2008-12,Ac/Dc,7
+2008-12,Air,0
+2008-12,Black Sabbath,0
+2008-12,Creed,0
+2008-12,Dream Theater,0
+2008-12,Eagles,0
+2008-12,Enigma,14
+2008-12,Harry Nilsson,1
+2008-12,Jimi Hendrix,0
+2008-12,Linkin Park,37
+2008-12,Lucky Ali,9
+2008-12,Massive Attack,4
+2008-12,Metallica,1
+2008-12,Moby,1
+2008-12,Muse,9
+2008-12,Pink Floyd,76
+2008-12,The Doors,1
+2008-12,The Prodigy,0
+2008-12,The Rolling Stones,1
+2008-12,Zero 7,3
+2009-01,Ac/Dc,0
+2009-01,Air,5
+2009-01,Black Sabbath,0
+2009-01,Creed,6
+2009-01,Dream Theater,6
+2009-01,Eagles,2
+2009-01,Enigma,7
+2009-01,Harry Nilsson,4
+2009-01,Jimi Hendrix,1
+2009-01,Linkin Park,39
+2009-01,Lucky Ali,3
+2009-01,Massive Attack,9
+2009-01,Metallica,8
+2009-01,Moby,19
+2009-01,Muse,0
+2009-01,Pink Floyd,10
+2009-01,The Doors,10
+2009-01,The Prodigy,3
+2009-01,The Rolling Stones,1
+2009-01,Zero 7,5
+2009-02,Ac/Dc,0
+2009-02,Air,3
+2009-02,Black Sabbath,1
+2009-02,Creed,1
+2009-02,Dream Theater,2
+2009-02,Eagles,2
+2009-02,Enigma,23
+2009-02,Harry Nilsson,1
+2009-02,Jimi Hendrix,1
+2009-02,Linkin Park,40
+2009-02,Lucky Ali,10
+2009-02,Massive Attack,10
+2009-02,Metallica,4
+2009-02,Moby,9
+2009-02,Muse,3
+2009-02,Pink Floyd,30
+2009-02,The Doors,0
+2009-02,The Prodigy,15
+2009-02,The Rolling Stones,2
+2009-02,Zero 7,5
+2009-03,Ac/Dc,3
+2009-03,Air,0
+2009-03,Black Sabbath,1
+2009-03,Creed,1
+2009-03,Dream Theater,0
+2009-03,Eagles,1
+2009-03,Enigma,3
+2009-03,Harry Nilsson,2
+2009-03,Jimi Hendrix,2
+2009-03,Linkin Park,7
+2009-03,Lucky Ali,1
+2009-03,Massive Attack,6
+2009-03,Metallica,5
+2009-03,Moby,2
+2009-03,Muse,0
+2009-03,Pink Floyd,6
+2009-03,The Doors,0
+2009-03,The Prodigy,4
+2009-03,The Rolling Stones,0
+2009-03,Zero 7,7
+2009-04,Ac/Dc,3
+2009-04,Air,4
+2009-04,Black Sabbath,4
+2009-04,Creed,0
+2009-04,Dream Theater,0
+2009-04,Eagles,0
+2009-04,Enigma,0
+2009-04,Harry Nilsson,1
+2009-04,Jimi Hendrix,0
+2009-04,Linkin Park,0
+2009-04,Lucky Ali,2
+2009-04,Massive Attack,11
+2009-04,Metallica,5
+2009-04,Moby,8
+2009-04,Muse,0
+2009-04,Pink Floyd,9
+2009-04,The Doors,0
+2009-04,The Prodigy,4
+2009-04,The Rolling Stones,0
+2009-04,Zero 7,5
+2009-05,Ac/Dc,0
+2009-05,Air,2
+2009-05,Black Sabbath,0
+2009-05,Creed,0
+2009-05,Dream Theater,0
+2009-05,Eagles,0
+2009-05,Enigma,0
+2009-05,Harry Nilsson,0
+2009-05,Jimi Hendrix,0
+2009-05,Linkin Park,0
+2009-05,Lucky Ali,0
+2009-05,Massive Attack,7
+2009-05,Metallica,0
+2009-05,Moby,1
+2009-05,Muse,0
+2009-05,Pink Floyd,0
+2009-05,The Doors,0
+2009-05,The Prodigy,0
+2009-05,The Rolling Stones,0
+2009-05,Zero 7,4

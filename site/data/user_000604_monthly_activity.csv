@@ -1,0 +1,701 @@
+month,artist,plays
+2006-08,Cky,34
+2006-08,Clutch,198
+2006-08,Daft Punk,50
+2006-08,Death From Above 1979,83
+2006-08,Foreign Objects,8
+2006-08,Him,57
+2006-08,In Flames,53
+2006-08,Joe Satriani,124
+2006-08,Killswitch Engage,36
+2006-08,Kmfdm,112
+2006-08,Korn,83
+2006-08,Marilyn Manson,23
+2006-08,Megadeth,109
+2006-08,Metallica,34
+2006-08,Mstrkrft,33
+2006-08,Nine Inch Nails,174
+2006-08,Oil,19
+2006-08,Rammstein,43
+2006-08,System Of A Down,35
+2006-08,The Prodigy,36
+2006-09,Cky,35
+2006-09,Clutch,392
+2006-09,Daft Punk,68
+2006-09,Death From Above 1979,85
+2006-09,Foreign Objects,21
+2006-09,Him,13
+2006-09,In Flames,156
+2006-09,Joe Satriani,203
+2006-09,Killswitch Engage,47
+2006-09,Kmfdm,60
+2006-09,Korn,6
+2006-09,Marilyn Manson,2
+2006-09,Megadeth,9
+2006-09,Metallica,15
+2006-09,Mstrkrft,40
+2006-09,Nine Inch Nails,55
+2006-09,Oil,9
+2006-09,Rammstein,1
+2006-09,System Of A Down,19
+2006-09,The Prodigy,21
+2006-10,Cky,125
+2006-10,Clutch,466
+2006-10,Daft Punk,67
+2006-10,Death From Above 1979,168
+2006-10,Foreign Objects,45
+2006-10,Him,63
+2006-10,In Flames,54
+2006-10,Joe Satriani,33
+2006-10,Killswitch Engage,40
+2006-10,Kmfdm,92
+2006-10,Korn,16
+2006-10,Marilyn Manson,9
+2006-10,Megadeth,138
+2006-10,Metallica,153
+2006-10,Mstrkrft,19
+2006-10,Nine Inch Nails,139
+2006-10,Oil,36
+2006-10,Rammstein,44
+2006-10,System Of A Down,17
+2006-10,The Prodigy,25
+2006-11,Cky,73
+2006-11,Clutch,145
+2006-11,Daft Punk,62
+2006-11,Death From Above 1979,97
+2006-11,Foreign Objects,22
+2006-11,Him,35
+2006-11,In Flames,4
+2006-11,Joe Satriani,276
+2006-11,Killswitch Engage,21
+2006-11,Kmfdm,112
+2006-11,Korn,0
+2006-11,Marilyn Manson,0
+2006-11,Megadeth,2
+2006-11,Metallica,108
+2006-11,Mstrkrft,6
+2006-11,Nine Inch Nails,151
+2006-11,Oil,20
+2006-11,Rammstein,94
+2006-11,System Of A Down,68
+2006-11,The Prodigy,25
+2006-12,Cky,45
+2006-12,Clutch,108
+2006-12,Daft Punk,90
+2006-12,Death From Above 1979,38
+2006-12,Foreign Objects,5
+2006-12,Him,25
+2006-12,In Flames,0
+2006-12,Joe Satriani,158
+2006-12,Killswitch Engage,19
+2006-12,Kmfdm,139
+2006-12,Korn,1
+2006-12,Marilyn Manson,50
+2006-12,Megadeth,24
+2006-12,Metallica,64
+2006-12,Mstrkrft,10
+2006-12,Nine Inch Nails,116
+2006-12,Oil,9
+2006-12,Rammstein,42
+2006-12,System Of A Down,14
+2006-12,The Prodigy,17
+2007-01,Cky,41
+2007-01,Clutch,135
+2007-01,Daft Punk,20
+2007-01,Death From Above 1979,20
+2007-01,Foreign Objects,15
+2007-01,Him,9
+2007-01,In Flames,0
+2007-01,Joe Satriani,133
+2007-01,Killswitch Engage,38
+2007-01,Kmfdm,64
+2007-01,Korn,0
+2007-01,Marilyn Manson,1
+2007-01,Megadeth,4
+2007-01,Metallica,74
+2007-01,Mstrkrft,8
+2007-01,Nine Inch Nails,229
+2007-01,Oil,6
+2007-01,Rammstein,74
+2007-01,System Of A Down,10
+2007-01,The Prodigy,12
+2007-02,Cky,21
+2007-02,Clutch,22
+2007-02,Daft Punk,8
+2007-02,Death From Above 1979,49
+2007-02,Foreign Objects,3
+2007-02,Him,66
+2007-02,In Flames,0
+2007-02,Joe Satriani,175
+2007-02,Killswitch Engage,7
+2007-02,Kmfdm,34
+2007-02,Korn,0
+2007-02,Marilyn Manson,1
+2007-02,Megadeth,5
+2007-02,Metallica,11
+2007-02,Mstrkrft,1
+2007-02,Nine Inch Nails,543
+2007-02,Oil,7
+2007-02,Rammstein,32
+2007-02,System Of A Down,7
+2007-02,The Prodigy,47
+2007-03,Cky,16
+2007-03,Clutch,130
+2007-03,Daft Punk,26
+2007-03,Death From Above 1979,16
+2007-03,Foreign Objects,3
+2007-03,Him,21
+2007-03,In Flames,5
+2007-03,Joe Satriani,39
+2007-03,Killswitch Engage,18
+2007-03,Kmfdm,45
+2007-03,Korn,37
+2007-03,Marilyn Manson,1
+2007-03,Megadeth,13
+2007-03,Metallica,70
+2007-03,Mstrkrft,3
+2007-03,Nine Inch Nails,334
+2007-03,Oil,6
+2007-03,Rammstein,30
+2007-03,System Of A Down,18
+2007-03,The Prodigy,10
+2007-04,Cky,2
+2007-04,Clutch,137
+2007-04,Daft Punk,6
+2007-04,Death From Above 1979,8
+2007-04,Foreign Objects,2
+2007-04,Him,0
+2007-04,In Flames,18
+2007-04,Joe Satriani,7
+2007-04,Killswitch Engage,1
+2007-04,Kmfdm,29
+2007-04,Korn,3
+2007-04,Marilyn Manson,5
+2007-04,Megadeth,3
+2007-04,Metallica,16
+2007-04,Mstrkrft,1
+2007-04,Nine Inch Nails,405
+2007-04,Oil,0
+2007-04,Rammstein,0
+2007-04,System Of A Down,0
+2007-04,The Prodigy,0
+2007-05,Cky,34
+2007-05,Clutch,29
+2007-05,Daft Punk,0
+2007-05,Death From Above 1979,9
+2007-05,Foreign Objects,0
+2007-05,Him,0
+2007-05,In Flames,1
+2007-05,Joe Satriani,23
+2007-05,Killswitch Engage,0
+2007-05,Kmfdm,0
+2007-05,Korn,2
+2007-05,Marilyn Manson,0
+2007-05,Megadeth,0
+2007-05,Metallica,1
+2007-05,Mstrkrft,0
+2007-05,Nine Inch Nails,131
+2007-05,Oil,0
+2007-05,Rammstein,1
+2007-05,System Of A Down,0
+2007-05,The Prodigy,0
+2007-06,Cky,32
+2007-06,Clutch,53
+2007-06,Daft Punk,50
+2007-06,Death From Above 1979,43
+2007-06,Foreign Objects,0
+2007-06,Him,0
+2007-06,In Flames,0
+2007-06,Joe Satriani,34
+2007-06,Killswitch Engage,7
+2007-06,Kmfdm,50
+2007-06,Korn,14
+2007-06,Marilyn Manson,3
+2007-06,Megadeth,0
+2007-06,Metallica,0
+2007-06,Mstrkrft,1
+2007-06,Nine Inch Nails,12
+2007-06,Oil,0
+2007-06,Rammstein,1
+2007-06,System Of A Down,1
+2007-06,The Prodigy,12
+2007-07,Cky,0
+2007-07,Clutch,35
+2007-07,Daft Punk,2
+2007-07,Death From Above 1979,11
+2007-07,Foreign Objects,0
+2007-07,Him,1
+2007-07,In Flames,0
+2007-07,Joe Satriani,0
+2007-07,Killswitch Engage,0
+2007-07,Kmfdm,10
+2007-07,Korn,0
+2007-07,Marilyn Manson,0
+2007-07,Megadeth,0
+2007-07,Metallica,0
+2007-07,Mstrkrft,0
+2007-07,Nine Inch Nails,9
+2007-07,Oil,13
+2007-07,Rammstein,0
+2007-07,System Of A Down,2
+2007-07,The Prodigy,0
+2007-08,Cky,28
+2007-08,Clutch,60
+2007-08,Daft Punk,0
+2007-08,Death From Above 1979,18
+2007-08,Foreign Objects,11
+2007-08,Him,0
+2007-08,In Flames,1
+2007-08,Joe Satriani,117
+2007-08,Killswitch Engage,0
+2007-08,Kmfdm,14
+2007-08,Korn,2
+2007-08,Marilyn Manson,0
+2007-08,Megadeth,0
+2007-08,Metallica,23
+2007-08,Mstrkrft,23
+2007-08,Nine Inch Nails,12
+2007-08,Oil,5
+2007-08,Rammstein,1
+2007-08,System Of A Down,0
+2007-08,The Prodigy,1
+2007-09,Cky,24
+2007-09,Clutch,20
+2007-09,Daft Punk,40
+2007-09,Death From Above 1979,0
+2007-09,Foreign Objects,0
+2007-09,Him,3
+2007-09,In Flames,7
+2007-09,Joe Satriani,87
+2007-09,Killswitch Engage,0
+2007-09,Kmfdm,16
+2007-09,Korn,0
+2007-09,Marilyn Manson,0
+2007-09,Megadeth,0
+2007-09,Metallica,0
+2007-09,Mstrkrft,8
+2007-09,Nine Inch Nails,0
+2007-09,Oil,0
+2007-09,Rammstein,0
+2007-09,System Of A Down,0
+2007-09,The Prodigy,0
+2007-10,Cky,32
+2007-10,Clutch,28
+2007-10,Daft Punk,12
+2007-10,Death From Above 1979,3
+2007-10,Foreign Objects,92
+2007-10,Him,0
+2007-10,In Flames,2
+2007-10,Joe Satriani,81
+2007-10,Killswitch Engage,18
+2007-10,Kmfdm,49
+2007-10,Korn,2
+2007-10,Marilyn Manson,2
+2007-10,Megadeth,1
+2007-10,Metallica,12
+2007-10,Mstrkrft,3
+2007-10,Nine Inch Nails,12
+2007-10,Oil,19
+2007-10,Rammstein,1
+2007-10,System Of A Down,2
+2007-10,The Prodigy,4
+2007-11,Cky,3
+2007-11,Clutch,18
+2007-11,Daft Punk,4
+2007-11,Death From Above 1979,4
+2007-11,Foreign Objects,72
+2007-11,Him,11
+2007-11,In Flames,2
+2007-11,Joe Satriani,2
+2007-11,Killswitch Engage,28
+2007-11,Kmfdm,43
+2007-11,Korn,1
+2007-11,Marilyn Manson,0
+2007-11,Megadeth,1
+2007-11,Metallica,7
+2007-11,Mstrkrft,3
+2007-11,Nine Inch Nails,88
+2007-11,Oil,62
+2007-11,Rammstein,3
+2007-11,System Of A Down,0
+2007-11,The Prodigy,2
+2007-12,Cky,12
+2007-12,Clutch,17
+2007-12,Daft Punk,0
+2007-12,Death From Above 1979,13
+2007-12,Foreign Objects,9
+2007-12,Him,0
+2007-12,In Flames,22
+2007-12,Joe Satriani,50
+2007-12,Killswitch Engage,15
+2007-12,Kmfdm,21
+2007-12,Korn,0
+2007-12,Marilyn Manson,0
+2007-12,Megadeth,0
+2007-12,Metallica,0
+2007-12,Mstrkrft,5
+2007-12,Nine Inch Nails,50
+2007-12,Oil,1
+2007-12,Rammstein,4
+2007-12,System Of A Down,0
+2007-12,The Prodigy,10
+2008-01,Cky,22
+2008-01,Clutch,8
+2008-01,Daft Punk,23
+2008-01,Death From Above 1979,22
+2008-01,Foreign Objects,17
+2008-01,Him,5
+2008-01,In Flames,0
+2008-01,Joe Satriani,39
+2008-01,Killswitch Engage,10
+2008-01,Kmfdm,42
+2008-01,Korn,17
+2008-01,Marilyn Manson,0
+2008-01,Megadeth,0
+2008-01,Metallica,6
+2008-01,Mstrkrft,3
+2008-01,Nine Inch Nails,70
+2008-01,Oil,9
+2008-01,Rammstein,9
+2008-01,System Of A Down,13
+2008-01,The Prodigy,0
+2008-02,Cky,24
+2008-02,Clutch,87
+2008-02,Daft Punk,57
+2008-02,Death From Above 1979,68
+2008-02,Foreign Objects,24
+2008-02,Him,21
+2008-02,In Flames,9
+2008-02,Joe Satriani,26
+2008-02,Killswitch Engage,31
+2008-02,Kmfdm,70
+2008-02,Korn,40
+2008-02,Marilyn Manson,46
+2008-02,Megadeth,0
+2008-02,Metallica,30
+2008-02,Mstrkrft,8
+2008-02,Nine Inch Nails,77
+2008-02,Oil,8
+2008-02,Rammstein,0
+2008-02,System Of A Down,10
+2008-02,The Prodigy,48
+2008-03,Cky,15
+2008-03,Clutch,31
+2008-03,Daft Punk,16
+2008-03,Death From Above 1979,11
+2008-03,Foreign Objects,3
+2008-03,Him,2
+2008-03,In Flames,9
+2008-03,Joe Satriani,9
+2008-03,Killswitch Engage,20
+2008-03,Kmfdm,31
+2008-03,Korn,23
+2008-03,Marilyn Manson,16
+2008-03,Megadeth,0
+2008-03,Metallica,15
+2008-03,Mstrkrft,0
+2008-03,Nine Inch Nails,365
+2008-03,Oil,4
+2008-03,Rammstein,0
+2008-03,System Of A Down,3
+2008-03,The Prodigy,7
+2008-04,Cky,23
+2008-04,Clutch,1
+2008-04,Daft Punk,38
+2008-04,Death From Above 1979,37
+2008-04,Foreign Objects,10
+2008-04,Him,39
+2008-04,In Flames,5
+2008-04,Joe Satriani,71
+2008-04,Killswitch Engage,41
+2008-04,Kmfdm,103
+2008-04,Korn,81
+2008-04,Marilyn Manson,55
+2008-04,Megadeth,4
+2008-04,Metallica,0
+2008-04,Mstrkrft,11
+2008-04,Nine Inch Nails,86
+2008-04,Oil,13
+2008-04,Rammstein,0
+2008-04,System Of A Down,9
+2008-04,The Prodigy,26
+2008-05,Cky,4
+2008-05,Clutch,0
+2008-05,Daft Punk,7
+2008-05,Death From Above 1979,5
+2008-05,Foreign Objects,3
+2008-05,Him,10
+2008-05,In Flames,1
+2008-05,Joe Satriani,46
+2008-05,Killswitch Engage,10
+2008-05,Kmfdm,21
+2008-05,Korn,20
+2008-05,Marilyn Manson,13
+2008-05,Megadeth,2
+2008-05,Metallica,0
+2008-05,Mstrkrft,8
+2008-05,Nine Inch Nails,55
+2008-05,Oil,3
+2008-05,Rammstein,0
+2008-05,System Of A Down,1
+2008-05,The Prodigy,3
+2008-06,Cky,24
+2008-06,Clutch,5
+2008-06,Daft Punk,17
+2008-06,Death From Above 1979,14
+2008-06,Foreign Objects,16
+2008-06,Him,3
+2008-06,In Flames,3
+2008-06,Joe Satriani,84
+2008-06,Killswitch Engage,12
+2008-06,Kmfdm,26
+2008-06,Korn,18
+2008-06,Marilyn Manson,21
+2008-06,Megadeth,0
+2008-06,Metallica,8
+2008-06,Mstrkrft,0
+2008-06,Nine Inch Nails,21
+2008-06,Oil,10
+2008-06,Rammstein,0
+2008-06,System Of A Down,11
+2008-06,The Prodigy,17
+2008-07,Cky,6
+2008-07,Clutch,25
+2008-07,Daft Punk,5
+2008-07,Death From Above 1979,20
+2008-07,Foreign Objects,73
+2008-07,Him,1
+2008-07,In Flames,3
+2008-07,Joe Satriani,36
+2008-07,Killswitch Engage,0
+2008-07,Kmfdm,42
+2008-07,Korn,0
+2008-07,Marilyn Manson,41
+2008-07,Megadeth,17
+2008-07,Metallica,0
+2008-07,Mstrkrft,0
+2008-07,Nine Inch Nails,59
+2008-07,Oil,14
+2008-07,Rammstein,20
+2008-07,System Of A Down,9
+2008-07,The Prodigy,0
+2008-08,Cky,12
+2008-08,Clutch,3
+2008-08,Daft Punk,0
+2008-08,Death From Above 1979,1
+2008-08,Foreign Objects,16
+2008-08,Him,0
+2008-08,In Flames,19
+2008-08,Joe Satriani,252
+2008-08,Killswitch Engage,0
+2008-08,Kmfdm,6
+2008-08,Korn,16
+2008-08,Marilyn Manson,1
+2008-08,Megadeth,1
+2008-08,Metallica,9
+2008-08,Mstrkrft,0
+2008-08,Nine Inch Nails,9
+2008-08,Oil,1
+2008-08,Rammstein,1
+2008-08,System Of A Down,2
+2008-08,The Prodigy,1
+2008-09,Cky,0
+2008-09,Clutch,10
+2008-09,Daft Punk,1
+2008-09,Death From Above 1979,0
+2008-09,Foreign Objects,0
+2008-09,Him,0
+2008-09,In Flames,0
+2008-09,Joe Satriani,4
+2008-09,Killswitch Engage,0
+2008-09,Kmfdm,14
+2008-09,Korn,0
+2008-09,Marilyn Manson,1
+2008-09,Megadeth,1
+2008-09,Metallica,75
+2008-09,Mstrkrft,6
+2008-09,Nine Inch Nails,3
+2008-09,Oil,0
+2008-09,Rammstein,0
+2008-09,System Of A Down,0
+2008-09,The Prodigy,8
+2008-10,Cky,0
+2008-10,Clutch,209
+2008-10,Daft Punk,0
+2008-10,Death From Above 1979,17
+2008-10,Foreign Objects,34
+2008-10,Him,16
+2008-10,In Flames,0
+2008-10,Joe Satriani,29
+2008-10,Killswitch Engage,5
+2008-10,Kmfdm,1
+2008-10,Korn,82
+2008-10,Marilyn Manson,0
+2008-10,Megadeth,1
+2008-10,Metallica,4
+2008-10,Mstrkrft,0
+2008-10,Nine Inch Nails,9
+2008-10,Oil,2
+2008-10,Rammstein,1
+2008-10,System Of A Down,0
+2008-10,The Prodigy,0
+2008-11,Cky,1
+2008-11,Clutch,25
+2008-11,Daft Punk,59
+2008-11,Death From Above 1979,105
+2008-11,Foreign Objects,11
+2008-11,Him,3
+2008-11,In Flames,0
+2008-11,Joe Satriani,0
+2008-11,Killswitch Engage,8
+2008-11,Kmfdm,3
+2008-11,Korn,6
+2008-11,Marilyn Manson,0
+2008-11,Megadeth,0
+2008-11,Metallica,22
+2008-11,Mstrkrft,4
+2008-11,Nine Inch Nails,2
+2008-11,Oil,0
+2008-11,Rammstein,0
+2008-11,System Of A Down,0
+2008-11,The Prodigy,0
+2008-12,Cky,142
+2008-12,Clutch,102
+2008-12,Daft Punk,18
+2008-12,Death From Above 1979,63
+2008-12,Foreign Objects,0
+2008-12,Him,0
+2008-12,In Flames,0
+2008-12,Joe Satriani,1
+2008-12,Killswitch Engage,1
+2008-12,Kmfdm,1
+2008-12,Korn,26
+2008-12,Marilyn Manson,0
+2008-12,Megadeth,0
+2008-12,Metallica,27
+2008-12,Mstrkrft,2
+2008-12,Nine Inch Nails,75
+2008-12,Oil,0
+2008-12,Rammstein,0
+2008-12,System Of A Down,0
+2008-12,The Prodigy,0
+2009-01,Cky,53
+2009-01,Clutch,72
+2009-01,Daft Punk,1
+2009-01,Death From Above 1979,210
+2009-01,Foreign Objects,0
+2009-01,Him,0
+2009-01,In Flames,3
+2009-01,Joe Satriani,24
+2009-01,Killswitch Engage,1
+2009-01,Kmfdm,1
+2009-01,Korn,15
+2009-01,Marilyn Manson,2
+2009-01,Megadeth,3
+2009-01,Metallica,135
+2009-01,Mstrkrft,12
+2009-01,Nine Inch Nails,2
+2009-01,Oil,0
+2009-01,Rammstein,4
+2009-01,System Of A Down,3
+2009-01,The Prodigy,0
+2009-02,Cky,100
+2009-02,Clutch,1
+2009-02,Daft Punk,0
+2009-02,Death From Above 1979,11
+2009-02,Foreign Objects,24
+2009-02,Him,1
+2009-02,In Flames,9
+2009-02,Joe Satriani,12
+2009-02,Killswitch Engage,12
+2009-02,Kmfdm,0
+2009-02,Korn,3
+2009-02,Marilyn Manson,6
+2009-02,Megadeth,10
+2009-02,Metallica,15
+2009-02,Mstrkrft,12
+2009-02,Nine Inch Nails,46
+2009-02,Oil,0
+2009-02,Rammstein,7
+2009-02,System Of A Down,12
+2009-02,The Prodigy,9
+2009-03,Cky,8
+2009-03,Clutch,0
+2009-03,Daft Punk,0
+2009-03,Death From Above 1979,0
+2009-03,Foreign Objects,0
+2009-03,Him,0
+2009-03,In Flames,3
+2009-03,Joe Satriani,0
+2009-03,Killswitch Engage,6
+2009-03,Kmfdm,0
+2009-03,Korn,2
+2009-03,Marilyn Manson,2
+2009-03,Megadeth,3
+2009-03,Metallica,1
+2009-03,Mstrkrft,7
+2009-03,Nine Inch Nails,3
+2009-03,Oil,0
+2009-03,Rammstein,4
+2009-03,System Of A Down,4
+2009-03,The Prodigy,0
+2009-04,Cky,4
+2009-04,Clutch,206
+2009-04,Daft Punk,0
+2009-04,Death From Above 1979,8
+2009-04,Foreign Objects,0
+2009-04,Him,0
+2009-04,In Flames,0
+2009-04,Joe Satriani,1
+2009-04,Killswitch Engage,0
+2009-04,Kmfdm,6
+2009-04,Korn,0
+2009-04,Marilyn Manson,1
+2009-04,Megadeth,1
+2009-04,Metallica,2
+2009-04,Mstrkrft,0
+2009-04,Nine Inch Nails,7
+2009-04,Oil,0
+2009-04,Rammstein,1
+2009-04,System Of A Down,0
+2009-04,The Prodigy,0
+2009-05,Cky,19
+2009-05,Clutch,19
+2009-05,Daft Punk,4
+2009-05,Death From Above 1979,7
+2009-05,Foreign Objects,21
+2009-05,Him,6
+2009-05,In Flames,9
+2009-05,Joe Satriani,5
+2009-05,Killswitch Engage,0
+2009-05,Kmfdm,11
+2009-05,Korn,12
+2009-05,Marilyn Manson,0
+2009-05,Megadeth,2
+2009-05,Metallica,12
+2009-05,Mstrkrft,1
+2009-05,Nine Inch Nails,60
+2009-05,Oil,4
+2009-05,Rammstein,5
+2009-05,System Of A Down,5
+2009-05,The Prodigy,7
+2009-06,Cky,0
+2009-06,Clutch,0
+2009-06,Daft Punk,0
+2009-06,Death From Above 1979,0
+2009-06,Foreign Objects,1
+2009-06,Him,0
+2009-06,In Flames,0
+2009-06,Joe Satriani,0
+2009-06,Killswitch Engage,0
+2009-06,Kmfdm,0
+2009-06,Korn,12
+2009-06,Marilyn Manson,1
+2009-06,Megadeth,0
+2009-06,Metallica,0
+2009-06,Mstrkrft,0
+2009-06,Nine Inch Nails,0
+2009-06,Oil,0
+2009-06,Rammstein,0
+2009-06,System Of A Down,0
+2009-06,The Prodigy,0

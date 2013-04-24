@@ -1,0 +1,741 @@
+month,artist,plays
+2006-03,Amy Winehouse,0
+2006-03,Georgie Fame,6
+2006-03,Lulu,0
+2006-03,Ocean Colour Scene,27
+2006-03,Paul Weller,21
+2006-03,Rinaldi Sings,159
+2006-03,Shades Of Blue,0
+2006-03,Shel Naylor,0
+2006-03,Small Faces,223
+2006-03,Squire,3
+2006-03,The Action,2
+2006-03,The Animals,6
+2006-03,The Beatles,90
+2006-03,The Creation,51
+2006-03,The Jam,86
+2006-03,The Kinks,44
+2006-03,The Spencer Davis Group,7
+2006-03,The Style Council,4
+2006-03,The Supremes,2
+2006-03,The Who,98
+2006-04,Amy Winehouse,0
+2006-04,Georgie Fame,58
+2006-04,Lulu,0
+2006-04,Ocean Colour Scene,14
+2006-04,Paul Weller,66
+2006-04,Rinaldi Sings,90
+2006-04,Shades Of Blue,0
+2006-04,Shel Naylor,0
+2006-04,Small Faces,75
+2006-04,Squire,2
+2006-04,The Action,28
+2006-04,The Animals,0
+2006-04,The Beatles,11
+2006-04,The Creation,16
+2006-04,The Jam,117
+2006-04,The Kinks,59
+2006-04,The Spencer Davis Group,46
+2006-04,The Style Council,11
+2006-04,The Supremes,1
+2006-04,The Who,128
+2006-05,Amy Winehouse,0
+2006-05,Georgie Fame,46
+2006-05,Lulu,2
+2006-05,Ocean Colour Scene,13
+2006-05,Paul Weller,23
+2006-05,Rinaldi Sings,49
+2006-05,Shades Of Blue,0
+2006-05,Shel Naylor,4
+2006-05,Small Faces,109
+2006-05,Squire,9
+2006-05,The Action,39
+2006-05,The Animals,9
+2006-05,The Beatles,10
+2006-05,The Creation,27
+2006-05,The Jam,53
+2006-05,The Kinks,14
+2006-05,The Spencer Davis Group,19
+2006-05,The Style Council,84
+2006-05,The Supremes,1
+2006-05,The Who,38
+2006-06,Amy Winehouse,0
+2006-06,Georgie Fame,25
+2006-06,Lulu,3
+2006-06,Ocean Colour Scene,14
+2006-06,Paul Weller,12
+2006-06,Rinaldi Sings,18
+2006-06,Shades Of Blue,0
+2006-06,Shel Naylor,7
+2006-06,Small Faces,95
+2006-06,Squire,10
+2006-06,The Action,33
+2006-06,The Animals,9
+2006-06,The Beatles,33
+2006-06,The Creation,29
+2006-06,The Jam,12
+2006-06,The Kinks,8
+2006-06,The Spencer Davis Group,10
+2006-06,The Style Council,25
+2006-06,The Supremes,0
+2006-06,The Who,27
+2006-07,Amy Winehouse,0
+2006-07,Georgie Fame,2
+2006-07,Lulu,2
+2006-07,Ocean Colour Scene,70
+2006-07,Paul Weller,33
+2006-07,Rinaldi Sings,1
+2006-07,Shades Of Blue,5
+2006-07,Shel Naylor,0
+2006-07,Small Faces,6
+2006-07,Squire,1
+2006-07,The Action,0
+2006-07,The Animals,6
+2006-07,The Beatles,7
+2006-07,The Creation,0
+2006-07,The Jam,29
+2006-07,The Kinks,20
+2006-07,The Spencer Davis Group,2
+2006-07,The Style Council,0
+2006-07,The Supremes,37
+2006-07,The Who,8
+2006-08,Amy Winehouse,0
+2006-08,Georgie Fame,0
+2006-08,Lulu,0
+2006-08,Ocean Colour Scene,1
+2006-08,Paul Weller,15
+2006-08,Rinaldi Sings,20
+2006-08,Shades Of Blue,2
+2006-08,Shel Naylor,0
+2006-08,Small Faces,0
+2006-08,Squire,5
+2006-08,The Action,0
+2006-08,The Animals,3
+2006-08,The Beatles,0
+2006-08,The Creation,1
+2006-08,The Jam,44
+2006-08,The Kinks,4
+2006-08,The Spencer Davis Group,0
+2006-08,The Style Council,0
+2006-08,The Supremes,1
+2006-08,The Who,26
+2006-09,Amy Winehouse,0
+2006-09,Georgie Fame,1
+2006-09,Lulu,1
+2006-09,Ocean Colour Scene,5
+2006-09,Paul Weller,41
+2006-09,Rinaldi Sings,0
+2006-09,Shades Of Blue,1
+2006-09,Shel Naylor,1
+2006-09,Small Faces,88
+2006-09,Squire,11
+2006-09,The Action,6
+2006-09,The Animals,2
+2006-09,The Beatles,258
+2006-09,The Creation,7
+2006-09,The Jam,4
+2006-09,The Kinks,2
+2006-09,The Spencer Davis Group,2
+2006-09,The Style Council,1
+2006-09,The Supremes,25
+2006-09,The Who,58
+2006-10,Amy Winehouse,10
+2006-10,Georgie Fame,17
+2006-10,Lulu,1
+2006-10,Ocean Colour Scene,0
+2006-10,Paul Weller,0
+2006-10,Rinaldi Sings,6
+2006-10,Shades Of Blue,1
+2006-10,Shel Naylor,1
+2006-10,Small Faces,50
+2006-10,Squire,8
+2006-10,The Action,0
+2006-10,The Animals,10
+2006-10,The Beatles,208
+2006-10,The Creation,0
+2006-10,The Jam,71
+2006-10,The Kinks,5
+2006-10,The Spencer Davis Group,0
+2006-10,The Style Council,1
+2006-10,The Supremes,11
+2006-10,The Who,31
+2006-11,Amy Winehouse,3
+2006-11,Georgie Fame,8
+2006-11,Lulu,0
+2006-11,Ocean Colour Scene,44
+2006-11,Paul Weller,1
+2006-11,Rinaldi Sings,0
+2006-11,Shades Of Blue,2
+2006-11,Shel Naylor,2
+2006-11,Small Faces,1
+2006-11,Squire,0
+2006-11,The Action,2
+2006-11,The Animals,0
+2006-11,The Beatles,21
+2006-11,The Creation,0
+2006-11,The Jam,0
+2006-11,The Kinks,31
+2006-11,The Spencer Davis Group,5
+2006-11,The Style Council,0
+2006-11,The Supremes,1
+2006-11,The Who,0
+2006-12,Amy Winehouse,40
+2006-12,Georgie Fame,1
+2006-12,Lulu,4
+2006-12,Ocean Colour Scene,1
+2006-12,Paul Weller,0
+2006-12,Rinaldi Sings,13
+2006-12,Shades Of Blue,0
+2006-12,Shel Naylor,0
+2006-12,Small Faces,13
+2006-12,Squire,9
+2006-12,The Action,0
+2006-12,The Animals,0
+2006-12,The Beatles,49
+2006-12,The Creation,14
+2006-12,The Jam,1
+2006-12,The Kinks,14
+2006-12,The Spencer Davis Group,0
+2006-12,The Style Council,0
+2006-12,The Supremes,10
+2006-12,The Who,15
+2007-01,Amy Winehouse,42
+2007-01,Georgie Fame,6
+2007-01,Lulu,1
+2007-01,Ocean Colour Scene,0
+2007-01,Paul Weller,0
+2007-01,Rinaldi Sings,1
+2007-01,Shades Of Blue,2
+2007-01,Shel Naylor,1
+2007-01,Small Faces,52
+2007-01,Squire,8
+2007-01,The Action,1
+2007-01,The Animals,1
+2007-01,The Beatles,1
+2007-01,The Creation,0
+2007-01,The Jam,39
+2007-01,The Kinks,1
+2007-01,The Spencer Davis Group,3
+2007-01,The Style Council,28
+2007-01,The Supremes,1
+2007-01,The Who,0
+2007-02,Amy Winehouse,20
+2007-02,Georgie Fame,0
+2007-02,Lulu,0
+2007-02,Ocean Colour Scene,15
+2007-02,Paul Weller,0
+2007-02,Rinaldi Sings,10
+2007-02,Shades Of Blue,0
+2007-02,Shel Naylor,4
+2007-02,Small Faces,2
+2007-02,Squire,0
+2007-02,The Action,0
+2007-02,The Animals,10
+2007-02,The Beatles,1
+2007-02,The Creation,0
+2007-02,The Jam,0
+2007-02,The Kinks,0
+2007-02,The Spencer Davis Group,6
+2007-02,The Style Council,0
+2007-02,The Supremes,8
+2007-02,The Who,20
+2007-03,Amy Winehouse,21
+2007-03,Georgie Fame,22
+2007-03,Lulu,0
+2007-03,Ocean Colour Scene,41
+2007-03,Paul Weller,15
+2007-03,Rinaldi Sings,48
+2007-03,Shades Of Blue,1
+2007-03,Shel Naylor,1
+2007-03,Small Faces,8
+2007-03,Squire,9
+2007-03,The Action,10
+2007-03,The Animals,0
+2007-03,The Beatles,8
+2007-03,The Creation,1
+2007-03,The Jam,0
+2007-03,The Kinks,19
+2007-03,The Spencer Davis Group,1
+2007-03,The Style Council,38
+2007-03,The Supremes,1
+2007-03,The Who,0
+2007-04,Amy Winehouse,21
+2007-04,Georgie Fame,0
+2007-04,Lulu,0
+2007-04,Ocean Colour Scene,35
+2007-04,Paul Weller,11
+2007-04,Rinaldi Sings,12
+2007-04,Shades Of Blue,0
+2007-04,Shel Naylor,1
+2007-04,Small Faces,0
+2007-04,Squire,0
+2007-04,The Action,0
+2007-04,The Animals,2
+2007-04,The Beatles,16
+2007-04,The Creation,22
+2007-04,The Jam,16
+2007-04,The Kinks,1
+2007-04,The Spencer Davis Group,0
+2007-04,The Style Council,1
+2007-04,The Supremes,0
+2007-04,The Who,0
+2007-05,Amy Winehouse,0
+2007-05,Georgie Fame,0
+2007-05,Lulu,0
+2007-05,Ocean Colour Scene,38
+2007-05,Paul Weller,31
+2007-05,Rinaldi Sings,0
+2007-05,Shades Of Blue,1
+2007-05,Shel Naylor,0
+2007-05,Small Faces,61
+2007-05,Squire,0
+2007-05,The Action,0
+2007-05,The Animals,4
+2007-05,The Beatles,0
+2007-05,The Creation,0
+2007-05,The Jam,10
+2007-05,The Kinks,0
+2007-05,The Spencer Davis Group,0
+2007-05,The Style Council,0
+2007-05,The Supremes,0
+2007-05,The Who,0
+2007-06,Amy Winehouse,0
+2007-06,Georgie Fame,0
+2007-06,Lulu,0
+2007-06,Ocean Colour Scene,1
+2007-06,Paul Weller,0
+2007-06,Rinaldi Sings,0
+2007-06,Shades Of Blue,0
+2007-06,Shel Naylor,0
+2007-06,Small Faces,1
+2007-06,Squire,2
+2007-06,The Action,0
+2007-06,The Animals,0
+2007-06,The Beatles,0
+2007-06,The Creation,0
+2007-06,The Jam,1
+2007-06,The Kinks,0
+2007-06,The Spencer Davis Group,0
+2007-06,The Style Council,0
+2007-06,The Supremes,0
+2007-06,The Who,1
+2007-07,Amy Winehouse,0
+2007-07,Georgie Fame,0
+2007-07,Lulu,0
+2007-07,Ocean Colour Scene,0
+2007-07,Paul Weller,0
+2007-07,Rinaldi Sings,0
+2007-07,Shades Of Blue,0
+2007-07,Shel Naylor,0
+2007-07,Small Faces,0
+2007-07,Squire,0
+2007-07,The Action,0
+2007-07,The Animals,0
+2007-07,The Beatles,0
+2007-07,The Creation,0
+2007-07,The Jam,0
+2007-07,The Kinks,0
+2007-07,The Spencer Davis Group,0
+2007-07,The Style Council,0
+2007-07,The Supremes,0
+2007-07,The Who,0
+2007-08,Amy Winehouse,0
+2007-08,Georgie Fame,19
+2007-08,Lulu,2
+2007-08,Ocean Colour Scene,0
+2007-08,Paul Weller,1
+2007-08,Rinaldi Sings,15
+2007-08,Shades Of Blue,0
+2007-08,Shel Naylor,0
+2007-08,Small Faces,32
+2007-08,Squire,0
+2007-08,The Action,1
+2007-08,The Animals,3
+2007-08,The Beatles,29
+2007-08,The Creation,1
+2007-08,The Jam,27
+2007-08,The Kinks,11
+2007-08,The Spencer Davis Group,16
+2007-08,The Style Council,0
+2007-08,The Supremes,1
+2007-08,The Who,1
+2007-09,Amy Winehouse,16
+2007-09,Georgie Fame,8
+2007-09,Lulu,2
+2007-09,Ocean Colour Scene,0
+2007-09,Paul Weller,34
+2007-09,Rinaldi Sings,12
+2007-09,Shades Of Blue,0
+2007-09,Shel Naylor,0
+2007-09,Small Faces,6
+2007-09,Squire,266
+2007-09,The Action,0
+2007-09,The Animals,0
+2007-09,The Beatles,48
+2007-09,The Creation,1
+2007-09,The Jam,3
+2007-09,The Kinks,7
+2007-09,The Spencer Davis Group,2
+2007-09,The Style Council,1
+2007-09,The Supremes,2
+2007-09,The Who,2
+2007-10,Amy Winehouse,9
+2007-10,Georgie Fame,0
+2007-10,Lulu,1
+2007-10,Ocean Colour Scene,52
+2007-10,Paul Weller,11
+2007-10,Rinaldi Sings,16
+2007-10,Shades Of Blue,1
+2007-10,Shel Naylor,1
+2007-10,Small Faces,63
+2007-10,Squire,45
+2007-10,The Action,1
+2007-10,The Animals,1
+2007-10,The Beatles,20
+2007-10,The Creation,23
+2007-10,The Jam,17
+2007-10,The Kinks,3
+2007-10,The Spencer Davis Group,1
+2007-10,The Style Council,4
+2007-10,The Supremes,0
+2007-10,The Who,26
+2007-11,Amy Winehouse,4
+2007-11,Georgie Fame,8
+2007-11,Lulu,1
+2007-11,Ocean Colour Scene,29
+2007-11,Paul Weller,0
+2007-11,Rinaldi Sings,0
+2007-11,Shades Of Blue,0
+2007-11,Shel Naylor,1
+2007-11,Small Faces,0
+2007-11,Squire,76
+2007-11,The Action,3
+2007-11,The Animals,7
+2007-11,The Beatles,0
+2007-11,The Creation,0
+2007-11,The Jam,17
+2007-11,The Kinks,11
+2007-11,The Spencer Davis Group,0
+2007-11,The Style Council,0
+2007-11,The Supremes,14
+2007-11,The Who,19
+2007-12,Amy Winehouse,0
+2007-12,Georgie Fame,0
+2007-12,Lulu,0
+2007-12,Ocean Colour Scene,0
+2007-12,Paul Weller,0
+2007-12,Rinaldi Sings,0
+2007-12,Shades Of Blue,0
+2007-12,Shel Naylor,0
+2007-12,Small Faces,0
+2007-12,Squire,7
+2007-12,The Action,0
+2007-12,The Animals,0
+2007-12,The Beatles,0
+2007-12,The Creation,0
+2007-12,The Jam,0
+2007-12,The Kinks,0
+2007-12,The Spencer Davis Group,0
+2007-12,The Style Council,0
+2007-12,The Supremes,0
+2007-12,The Who,47
+2008-01,Amy Winehouse,1
+2008-01,Georgie Fame,0
+2008-01,Lulu,0
+2008-01,Ocean Colour Scene,0
+2008-01,Paul Weller,0
+2008-01,Rinaldi Sings,5
+2008-01,Shades Of Blue,0
+2008-01,Shel Naylor,0
+2008-01,Small Faces,89
+2008-01,Squire,22
+2008-01,The Action,0
+2008-01,The Animals,0
+2008-01,The Beatles,93
+2008-01,The Creation,0
+2008-01,The Jam,9
+2008-01,The Kinks,0
+2008-01,The Spencer Davis Group,0
+2008-01,The Style Council,0
+2008-01,The Supremes,8
+2008-01,The Who,0
+2008-02,Amy Winehouse,0
+2008-02,Georgie Fame,0
+2008-02,Lulu,0
+2008-02,Ocean Colour Scene,0
+2008-02,Paul Weller,0
+2008-02,Rinaldi Sings,0
+2008-02,Shades Of Blue,0
+2008-02,Shel Naylor,0
+2008-02,Small Faces,0
+2008-02,Squire,0
+2008-02,The Action,0
+2008-02,The Animals,0
+2008-02,The Beatles,0
+2008-02,The Creation,0
+2008-02,The Jam,0
+2008-02,The Kinks,0
+2008-02,The Spencer Davis Group,0
+2008-02,The Style Council,0
+2008-02,The Supremes,0
+2008-02,The Who,0
+2008-03,Amy Winehouse,0
+2008-03,Georgie Fame,0
+2008-03,Lulu,0
+2008-03,Ocean Colour Scene,0
+2008-03,Paul Weller,0
+2008-03,Rinaldi Sings,0
+2008-03,Shades Of Blue,0
+2008-03,Shel Naylor,0
+2008-03,Small Faces,0
+2008-03,Squire,0
+2008-03,The Action,0
+2008-03,The Animals,0
+2008-03,The Beatles,0
+2008-03,The Creation,0
+2008-03,The Jam,0
+2008-03,The Kinks,0
+2008-03,The Spencer Davis Group,0
+2008-03,The Style Council,0
+2008-03,The Supremes,0
+2008-03,The Who,0
+2008-04,Amy Winehouse,2
+2008-04,Georgie Fame,0
+2008-04,Lulu,2
+2008-04,Ocean Colour Scene,0
+2008-04,Paul Weller,18
+2008-04,Rinaldi Sings,22
+2008-04,Shades Of Blue,0
+2008-04,Shel Naylor,1
+2008-04,Small Faces,1
+2008-04,Squire,35
+2008-04,The Action,0
+2008-04,The Animals,0
+2008-04,The Beatles,0
+2008-04,The Creation,0
+2008-04,The Jam,1
+2008-04,The Kinks,24
+2008-04,The Spencer Davis Group,0
+2008-04,The Style Council,18
+2008-04,The Supremes,16
+2008-04,The Who,0
+2008-05,Amy Winehouse,9
+2008-05,Georgie Fame,0
+2008-05,Lulu,0
+2008-05,Ocean Colour Scene,14
+2008-05,Paul Weller,27
+2008-05,Rinaldi Sings,1
+2008-05,Shades Of Blue,4
+2008-05,Shel Naylor,1
+2008-05,Small Faces,30
+2008-05,Squire,7
+2008-05,The Action,3
+2008-05,The Animals,0
+2008-05,The Beatles,51
+2008-05,The Creation,0
+2008-05,The Jam,23
+2008-05,The Kinks,2
+2008-05,The Spencer Davis Group,0
+2008-05,The Style Council,10
+2008-05,The Supremes,4
+2008-05,The Who,12
+2008-06,Amy Winehouse,89
+2008-06,Georgie Fame,11
+2008-06,Lulu,0
+2008-06,Ocean Colour Scene,17
+2008-06,Paul Weller,75
+2008-06,Rinaldi Sings,19
+2008-06,Shades Of Blue,3
+2008-06,Shel Naylor,0
+2008-06,Small Faces,121
+2008-06,Squire,8
+2008-06,The Action,2
+2008-06,The Animals,17
+2008-06,The Beatles,65
+2008-06,The Creation,2
+2008-06,The Jam,22
+2008-06,The Kinks,2
+2008-06,The Spencer Davis Group,11
+2008-06,The Style Council,1
+2008-06,The Supremes,0
+2008-06,The Who,3
+2008-07,Amy Winehouse,0
+2008-07,Georgie Fame,21
+2008-07,Lulu,2
+2008-07,Ocean Colour Scene,14
+2008-07,Paul Weller,16
+2008-07,Rinaldi Sings,25
+2008-07,Shades Of Blue,6
+2008-07,Shel Naylor,1
+2008-07,Small Faces,98
+2008-07,Squire,23
+2008-07,The Action,1
+2008-07,The Animals,10
+2008-07,The Beatles,14
+2008-07,The Creation,1
+2008-07,The Jam,85
+2008-07,The Kinks,12
+2008-07,The Spencer Davis Group,0
+2008-07,The Style Council,5
+2008-07,The Supremes,0
+2008-07,The Who,58
+2008-08,Amy Winehouse,1
+2008-08,Georgie Fame,10
+2008-08,Lulu,4
+2008-08,Ocean Colour Scene,20
+2008-08,Paul Weller,22
+2008-08,Rinaldi Sings,0
+2008-08,Shades Of Blue,2
+2008-08,Shel Naylor,4
+2008-08,Small Faces,236
+2008-08,Squire,49
+2008-08,The Action,0
+2008-08,The Animals,1
+2008-08,The Beatles,8
+2008-08,The Creation,1
+2008-08,The Jam,20
+2008-08,The Kinks,0
+2008-08,The Spencer Davis Group,1
+2008-08,The Style Council,0
+2008-08,The Supremes,0
+2008-08,The Who,122
+2008-09,Amy Winehouse,0
+2008-09,Georgie Fame,5
+2008-09,Lulu,2
+2008-09,Ocean Colour Scene,0
+2008-09,Paul Weller,9
+2008-09,Rinaldi Sings,12
+2008-09,Shades Of Blue,2
+2008-09,Shel Naylor,1
+2008-09,Small Faces,9
+2008-09,Squire,40
+2008-09,The Action,12
+2008-09,The Animals,11
+2008-09,The Beatles,44
+2008-09,The Creation,4
+2008-09,The Jam,0
+2008-09,The Kinks,2
+2008-09,The Spencer Davis Group,2
+2008-09,The Style Council,3
+2008-09,The Supremes,2
+2008-09,The Who,2
+2008-10,Amy Winehouse,11
+2008-10,Georgie Fame,3
+2008-10,Lulu,1
+2008-10,Ocean Colour Scene,2
+2008-10,Paul Weller,23
+2008-10,Rinaldi Sings,0
+2008-10,Shades Of Blue,1
+2008-10,Shel Naylor,1
+2008-10,Small Faces,119
+2008-10,Squire,11
+2008-10,The Action,1
+2008-10,The Animals,1
+2008-10,The Beatles,3
+2008-10,The Creation,1
+2008-10,The Jam,1
+2008-10,The Kinks,2
+2008-10,The Spencer Davis Group,16
+2008-10,The Style Council,4
+2008-10,The Supremes,1
+2008-10,The Who,0
+2008-11,Amy Winehouse,0
+2008-11,Georgie Fame,2
+2008-11,Lulu,1
+2008-11,Ocean Colour Scene,0
+2008-11,Paul Weller,0
+2008-11,Rinaldi Sings,0
+2008-11,Shades Of Blue,1
+2008-11,Shel Naylor,0
+2008-11,Small Faces,49
+2008-11,Squire,0
+2008-11,The Action,1
+2008-11,The Animals,0
+2008-11,The Beatles,0
+2008-11,The Creation,8
+2008-11,The Jam,30
+2008-11,The Kinks,0
+2008-11,The Spencer Davis Group,0
+2008-11,The Style Council,0
+2008-11,The Supremes,0
+2008-11,The Who,11
+2008-12,Amy Winehouse,2
+2008-12,Georgie Fame,1
+2008-12,Lulu,0
+2008-12,Ocean Colour Scene,6
+2008-12,Paul Weller,9
+2008-12,Rinaldi Sings,0
+2008-12,Shades Of Blue,1
+2008-12,Shel Naylor,0
+2008-12,Small Faces,105
+2008-12,Squire,0
+2008-12,The Action,1
+2008-12,The Animals,0
+2008-12,The Beatles,2
+2008-12,The Creation,1
+2008-12,The Jam,0
+2008-12,The Kinks,0
+2008-12,The Spencer Davis Group,0
+2008-12,The Style Council,2
+2008-12,The Supremes,0
+2008-12,The Who,1
+2009-01,Amy Winehouse,0
+2009-01,Georgie Fame,13
+2009-01,Lulu,2
+2009-01,Ocean Colour Scene,0
+2009-01,Paul Weller,0
+2009-01,Rinaldi Sings,1
+2009-01,Shades Of Blue,1
+2009-01,Shel Naylor,1
+2009-01,Small Faces,48
+2009-01,Squire,14
+2009-01,The Action,2
+2009-01,The Animals,19
+2009-01,The Beatles,26
+2009-01,The Creation,1
+2009-01,The Jam,2
+2009-01,The Kinks,3
+2009-01,The Spencer Davis Group,10
+2009-01,The Style Council,0
+2009-01,The Supremes,0
+2009-01,The Who,19
+2009-02,Amy Winehouse,35
+2009-02,Georgie Fame,4
+2009-02,Lulu,1
+2009-02,Ocean Colour Scene,8
+2009-02,Paul Weller,12
+2009-02,Rinaldi Sings,12
+2009-02,Shades Of Blue,1
+2009-02,Shel Naylor,1
+2009-02,Small Faces,97
+2009-02,Squire,14
+2009-02,The Action,2
+2009-02,The Animals,2
+2009-02,The Beatles,17
+2009-02,The Creation,1
+2009-02,The Jam,8
+2009-02,The Kinks,1
+2009-02,The Spencer Davis Group,1
+2009-02,The Style Council,4
+2009-02,The Supremes,16
+2009-02,The Who,3
+2009-03,Amy Winehouse,3
+2009-03,Georgie Fame,6
+2009-03,Lulu,1
+2009-03,Ocean Colour Scene,0
+2009-03,Paul Weller,78
+2009-03,Rinaldi Sings,2
+2009-03,Shades Of Blue,3
+2009-03,Shel Naylor,2
+2009-03,Small Faces,174
+2009-03,Squire,37
+2009-03,The Action,2
+2009-03,The Animals,3
+2009-03,The Beatles,15
+2009-03,The Creation,3
+2009-03,The Jam,7
+2009-03,The Kinks,2
+2009-03,The Spencer Davis Group,3
+2009-03,The Style Council,16
+2009-03,The Supremes,14
+2009-03,The Who,3

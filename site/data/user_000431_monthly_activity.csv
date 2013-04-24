@@ -1,0 +1,661 @@
+month,artist,plays
+2006-08,Akurat,3
+2006-08,Children Of Bodom,8
+2006-08,Closterkeller,2
+2006-08,Cradle Of Filth,1
+2006-08,Dead Can Dance,5
+2006-08,Gorillaz,3
+2006-08,In Flames,2
+2006-08,Iron Maiden,3
+2006-08,Kazik,4
+2006-08,Korn,7
+2006-08,Kult,1
+2006-08,Limp Bizkit,2
+2006-08,Marilyn Manson,5
+2006-08,Metallica,1
+2006-08,Moby,4
+2006-08,Nightwish,5
+2006-08,Nine Inch Nails,5
+2006-08,Nirvana,3
+2006-08,Pearl Jam,3
+2006-08,Pidżama Porno,4
+2006-09,Akurat,2
+2006-09,Children Of Bodom,31
+2006-09,Closterkeller,15
+2006-09,Cradle Of Filth,8
+2006-09,Dead Can Dance,11
+2006-09,Gorillaz,4
+2006-09,In Flames,12
+2006-09,Iron Maiden,17
+2006-09,Kazik,8
+2006-09,Korn,17
+2006-09,Kult,17
+2006-09,Limp Bizkit,14
+2006-09,Marilyn Manson,24
+2006-09,Metallica,12
+2006-09,Moby,3
+2006-09,Nightwish,12
+2006-09,Nine Inch Nails,44
+2006-09,Nirvana,16
+2006-09,Pearl Jam,27
+2006-09,Pidżama Porno,12
+2006-10,Akurat,19
+2006-10,Children Of Bodom,12
+2006-10,Closterkeller,12
+2006-10,Cradle Of Filth,12
+2006-10,Dead Can Dance,8
+2006-10,Gorillaz,2
+2006-10,In Flames,25
+2006-10,Iron Maiden,6
+2006-10,Kazik,15
+2006-10,Korn,10
+2006-10,Kult,19
+2006-10,Limp Bizkit,9
+2006-10,Marilyn Manson,14
+2006-10,Metallica,2
+2006-10,Moby,6
+2006-10,Nightwish,10
+2006-10,Nine Inch Nails,20
+2006-10,Nirvana,13
+2006-10,Pearl Jam,20
+2006-10,Pidżama Porno,8
+2006-11,Akurat,2
+2006-11,Children Of Bodom,4
+2006-11,Closterkeller,4
+2006-11,Cradle Of Filth,4
+2006-11,Dead Can Dance,2
+2006-11,Gorillaz,2
+2006-11,In Flames,22
+2006-11,Iron Maiden,3
+2006-11,Kazik,4
+2006-11,Korn,4
+2006-11,Kult,7
+2006-11,Limp Bizkit,5
+2006-11,Marilyn Manson,5
+2006-11,Metallica,1
+2006-11,Moby,2
+2006-11,Nightwish,6
+2006-11,Nine Inch Nails,7
+2006-11,Nirvana,6
+2006-11,Pearl Jam,10
+2006-11,Pidżama Porno,1
+2006-12,Akurat,16
+2006-12,Children Of Bodom,21
+2006-12,Closterkeller,15
+2006-12,Cradle Of Filth,23
+2006-12,Dead Can Dance,12
+2006-12,Gorillaz,11
+2006-12,In Flames,58
+2006-12,Iron Maiden,19
+2006-12,Kazik,37
+2006-12,Korn,31
+2006-12,Kult,71
+2006-12,Limp Bizkit,21
+2006-12,Marilyn Manson,28
+2006-12,Metallica,13
+2006-12,Moby,10
+2006-12,Nightwish,26
+2006-12,Nine Inch Nails,68
+2006-12,Nirvana,37
+2006-12,Pearl Jam,35
+2006-12,Pidżama Porno,33
+2007-01,Akurat,59
+2007-01,Children Of Bodom,33
+2007-01,Closterkeller,26
+2007-01,Cradle Of Filth,10
+2007-01,Dead Can Dance,13
+2007-01,Gorillaz,28
+2007-01,In Flames,78
+2007-01,Iron Maiden,14
+2007-01,Kazik,33
+2007-01,Korn,29
+2007-01,Kult,107
+2007-01,Limp Bizkit,26
+2007-01,Marilyn Manson,61
+2007-01,Metallica,67
+2007-01,Moby,22
+2007-01,Nightwish,31
+2007-01,Nine Inch Nails,79
+2007-01,Nirvana,32
+2007-01,Pearl Jam,44
+2007-01,Pidżama Porno,13
+2007-02,Akurat,12
+2007-02,Children Of Bodom,11
+2007-02,Closterkeller,21
+2007-02,Cradle Of Filth,16
+2007-02,Dead Can Dance,13
+2007-02,Gorillaz,17
+2007-02,In Flames,38
+2007-02,Iron Maiden,17
+2007-02,Kazik,27
+2007-02,Korn,25
+2007-02,Kult,60
+2007-02,Limp Bizkit,14
+2007-02,Marilyn Manson,28
+2007-02,Metallica,20
+2007-02,Moby,8
+2007-02,Nightwish,13
+2007-02,Nine Inch Nails,67
+2007-02,Nirvana,17
+2007-02,Pearl Jam,35
+2007-02,Pidżama Porno,7
+2007-03,Akurat,16
+2007-03,Children Of Bodom,16
+2007-03,Closterkeller,25
+2007-03,Cradle Of Filth,15
+2007-03,Dead Can Dance,22
+2007-03,Gorillaz,22
+2007-03,In Flames,150
+2007-03,Iron Maiden,23
+2007-03,Kazik,49
+2007-03,Korn,41
+2007-03,Kult,96
+2007-03,Limp Bizkit,22
+2007-03,Marilyn Manson,59
+2007-03,Metallica,28
+2007-03,Moby,9
+2007-03,Nightwish,42
+2007-03,Nine Inch Nails,101
+2007-03,Nirvana,29
+2007-03,Pearl Jam,58
+2007-03,Pidżama Porno,19
+2007-04,Akurat,11
+2007-04,Children Of Bodom,13
+2007-04,Closterkeller,17
+2007-04,Cradle Of Filth,17
+2007-04,Dead Can Dance,19
+2007-04,Gorillaz,8
+2007-04,In Flames,25
+2007-04,Iron Maiden,11
+2007-04,Kazik,45
+2007-04,Korn,22
+2007-04,Kult,58
+2007-04,Limp Bizkit,18
+2007-04,Marilyn Manson,31
+2007-04,Metallica,20
+2007-04,Moby,9
+2007-04,Nightwish,22
+2007-04,Nine Inch Nails,66
+2007-04,Nirvana,21
+2007-04,Pearl Jam,34
+2007-04,Pidżama Porno,13
+2007-05,Akurat,36
+2007-05,Children Of Bodom,6
+2007-05,Closterkeller,11
+2007-05,Cradle Of Filth,7
+2007-05,Dead Can Dance,7
+2007-05,Gorillaz,7
+2007-05,In Flames,30
+2007-05,Iron Maiden,6
+2007-05,Kazik,15
+2007-05,Korn,12
+2007-05,Kult,25
+2007-05,Limp Bizkit,9
+2007-05,Marilyn Manson,19
+2007-05,Metallica,35
+2007-05,Moby,6
+2007-05,Nightwish,11
+2007-05,Nine Inch Nails,36
+2007-05,Nirvana,4
+2007-05,Pearl Jam,42
+2007-05,Pidżama Porno,14
+2007-06,Akurat,4
+2007-06,Children Of Bodom,1
+2007-06,Closterkeller,5
+2007-06,Cradle Of Filth,2
+2007-06,Dead Can Dance,1
+2007-06,Gorillaz,1
+2007-06,In Flames,9
+2007-06,Iron Maiden,2
+2007-06,Kazik,9
+2007-06,Korn,7
+2007-06,Kult,11
+2007-06,Limp Bizkit,5
+2007-06,Marilyn Manson,19
+2007-06,Metallica,11
+2007-06,Moby,1
+2007-06,Nightwish,2
+2007-06,Nine Inch Nails,19
+2007-06,Nirvana,2
+2007-06,Pearl Jam,99
+2007-06,Pidżama Porno,7
+2007-07,Akurat,13
+2007-07,Children Of Bodom,26
+2007-07,Closterkeller,19
+2007-07,Cradle Of Filth,15
+2007-07,Dead Can Dance,14
+2007-07,Gorillaz,21
+2007-07,In Flames,30
+2007-07,Iron Maiden,12
+2007-07,Kazik,39
+2007-07,Korn,33
+2007-07,Kult,76
+2007-07,Limp Bizkit,31
+2007-07,Marilyn Manson,50
+2007-07,Metallica,85
+2007-07,Moby,10
+2007-07,Nightwish,16
+2007-07,Nine Inch Nails,117
+2007-07,Nirvana,20
+2007-07,Pearl Jam,56
+2007-07,Pidżama Porno,22
+2007-08,Akurat,10
+2007-08,Children Of Bodom,11
+2007-08,Closterkeller,10
+2007-08,Cradle Of Filth,18
+2007-08,Dead Can Dance,17
+2007-08,Gorillaz,17
+2007-08,In Flames,31
+2007-08,Iron Maiden,9
+2007-08,Kazik,38
+2007-08,Korn,16
+2007-08,Kult,56
+2007-08,Limp Bizkit,15
+2007-08,Marilyn Manson,28
+2007-08,Metallica,84
+2007-08,Moby,18
+2007-08,Nightwish,18
+2007-08,Nine Inch Nails,49
+2007-08,Nirvana,19
+2007-08,Pearl Jam,43
+2007-08,Pidżama Porno,12
+2007-09,Akurat,12
+2007-09,Children Of Bodom,23
+2007-09,Closterkeller,26
+2007-09,Cradle Of Filth,32
+2007-09,Dead Can Dance,23
+2007-09,Gorillaz,24
+2007-09,In Flames,50
+2007-09,Iron Maiden,18
+2007-09,Kazik,53
+2007-09,Korn,35
+2007-09,Kult,86
+2007-09,Limp Bizkit,38
+2007-09,Marilyn Manson,46
+2007-09,Metallica,134
+2007-09,Moby,15
+2007-09,Nightwish,41
+2007-09,Nine Inch Nails,89
+2007-09,Nirvana,44
+2007-09,Pearl Jam,53
+2007-09,Pidżama Porno,15
+2007-10,Akurat,8
+2007-10,Children Of Bodom,17
+2007-10,Closterkeller,8
+2007-10,Cradle Of Filth,14
+2007-10,Dead Can Dance,11
+2007-10,Gorillaz,10
+2007-10,In Flames,19
+2007-10,Iron Maiden,10
+2007-10,Kazik,21
+2007-10,Korn,9
+2007-10,Kult,49
+2007-10,Limp Bizkit,13
+2007-10,Marilyn Manson,21
+2007-10,Metallica,66
+2007-10,Moby,8
+2007-10,Nightwish,18
+2007-10,Nine Inch Nails,52
+2007-10,Nirvana,32
+2007-10,Pearl Jam,38
+2007-10,Pidżama Porno,8
+2007-11,Akurat,5
+2007-11,Children Of Bodom,6
+2007-11,Closterkeller,8
+2007-11,Cradle Of Filth,10
+2007-11,Dead Can Dance,13
+2007-11,Gorillaz,10
+2007-11,In Flames,16
+2007-11,Iron Maiden,6
+2007-11,Kazik,22
+2007-11,Korn,13
+2007-11,Kult,34
+2007-11,Limp Bizkit,11
+2007-11,Marilyn Manson,30
+2007-11,Metallica,57
+2007-11,Moby,5
+2007-11,Nightwish,18
+2007-11,Nine Inch Nails,40
+2007-11,Nirvana,16
+2007-11,Pearl Jam,38
+2007-11,Pidżama Porno,6
+2007-12,Akurat,13
+2007-12,Children Of Bodom,25
+2007-12,Closterkeller,18
+2007-12,Cradle Of Filth,17
+2007-12,Dead Can Dance,21
+2007-12,Gorillaz,19
+2007-12,In Flames,30
+2007-12,Iron Maiden,16
+2007-12,Kazik,49
+2007-12,Korn,27
+2007-12,Kult,73
+2007-12,Limp Bizkit,22
+2007-12,Marilyn Manson,75
+2007-12,Metallica,92
+2007-12,Moby,8
+2007-12,Nightwish,27
+2007-12,Nine Inch Nails,71
+2007-12,Nirvana,23
+2007-12,Pearl Jam,47
+2007-12,Pidżama Porno,18
+2008-01,Akurat,16
+2008-01,Children Of Bodom,38
+2008-01,Closterkeller,26
+2008-01,Cradle Of Filth,29
+2008-01,Dead Can Dance,29
+2008-01,Gorillaz,33
+2008-01,In Flames,58
+2008-01,Iron Maiden,27
+2008-01,Kazik,71
+2008-01,Korn,57
+2008-01,Kult,118
+2008-01,Limp Bizkit,43
+2008-01,Marilyn Manson,65
+2008-01,Metallica,183
+2008-01,Moby,27
+2008-01,Nightwish,49
+2008-01,Nine Inch Nails,116
+2008-01,Nirvana,56
+2008-01,Pearl Jam,79
+2008-01,Pidżama Porno,18
+2008-02,Akurat,16
+2008-02,Children Of Bodom,36
+2008-02,Closterkeller,28
+2008-02,Cradle Of Filth,27
+2008-02,Dead Can Dance,27
+2008-02,Gorillaz,22
+2008-02,In Flames,87
+2008-02,Iron Maiden,40
+2008-02,Kazik,46
+2008-02,Korn,36
+2008-02,Kult,93
+2008-02,Limp Bizkit,47
+2008-02,Marilyn Manson,54
+2008-02,Metallica,173
+2008-02,Moby,14
+2008-02,Nightwish,37
+2008-02,Nine Inch Nails,120
+2008-02,Nirvana,44
+2008-02,Pearl Jam,99
+2008-02,Pidżama Porno,22
+2008-03,Akurat,33
+2008-03,Children Of Bodom,41
+2008-03,Closterkeller,25
+2008-03,Cradle Of Filth,23
+2008-03,Dead Can Dance,29
+2008-03,Gorillaz,28
+2008-03,In Flames,55
+2008-03,Iron Maiden,36
+2008-03,Kazik,58
+2008-03,Korn,47
+2008-03,Kult,110
+2008-03,Limp Bizkit,45
+2008-03,Marilyn Manson,60
+2008-03,Metallica,139
+2008-03,Moby,26
+2008-03,Nightwish,39
+2008-03,Nine Inch Nails,141
+2008-03,Nirvana,57
+2008-03,Pearl Jam,76
+2008-03,Pidżama Porno,25
+2008-04,Akurat,16
+2008-04,Children Of Bodom,41
+2008-04,Closterkeller,39
+2008-04,Cradle Of Filth,33
+2008-04,Dead Can Dance,27
+2008-04,Gorillaz,34
+2008-04,In Flames,60
+2008-04,Iron Maiden,32
+2008-04,Kazik,55
+2008-04,Korn,45
+2008-04,Kult,120
+2008-04,Limp Bizkit,46
+2008-04,Marilyn Manson,58
+2008-04,Metallica,176
+2008-04,Moby,20
+2008-04,Nightwish,34
+2008-04,Nine Inch Nails,480
+2008-04,Nirvana,52
+2008-04,Pearl Jam,90
+2008-04,Pidżama Porno,17
+2008-05,Akurat,16
+2008-05,Children Of Bodom,30
+2008-05,Closterkeller,17
+2008-05,Cradle Of Filth,23
+2008-05,Dead Can Dance,28
+2008-05,Gorillaz,26
+2008-05,In Flames,41
+2008-05,Iron Maiden,25
+2008-05,Kazik,57
+2008-05,Korn,51
+2008-05,Kult,99
+2008-05,Limp Bizkit,36
+2008-05,Marilyn Manson,53
+2008-05,Metallica,142
+2008-05,Moby,19
+2008-05,Nightwish,43
+2008-05,Nine Inch Nails,288
+2008-05,Nirvana,40
+2008-05,Pearl Jam,61
+2008-05,Pidżama Porno,26
+2008-06,Akurat,25
+2008-06,Children Of Bodom,30
+2008-06,Closterkeller,21
+2008-06,Cradle Of Filth,31
+2008-06,Dead Can Dance,31
+2008-06,Gorillaz,35
+2008-06,In Flames,51
+2008-06,Iron Maiden,23
+2008-06,Kazik,56
+2008-06,Korn,39
+2008-06,Kult,117
+2008-06,Limp Bizkit,49
+2008-06,Marilyn Manson,51
+2008-06,Metallica,149
+2008-06,Moby,26
+2008-06,Nightwish,37
+2008-06,Nine Inch Nails,148
+2008-06,Nirvana,46
+2008-06,Pearl Jam,72
+2008-06,Pidżama Porno,18
+2008-07,Akurat,20
+2008-07,Children Of Bodom,22
+2008-07,Closterkeller,21
+2008-07,Cradle Of Filth,22
+2008-07,Dead Can Dance,21
+2008-07,Gorillaz,23
+2008-07,In Flames,35
+2008-07,Iron Maiden,21
+2008-07,Kazik,44
+2008-07,Korn,32
+2008-07,Kult,89
+2008-07,Limp Bizkit,28
+2008-07,Marilyn Manson,29
+2008-07,Metallica,103
+2008-07,Moby,21
+2008-07,Nightwish,29
+2008-07,Nine Inch Nails,200
+2008-07,Nirvana,31
+2008-07,Pearl Jam,62
+2008-07,Pidżama Porno,18
+2008-08,Akurat,19
+2008-08,Children Of Bodom,32
+2008-08,Closterkeller,34
+2008-08,Cradle Of Filth,20
+2008-08,Dead Can Dance,34
+2008-08,Gorillaz,32
+2008-08,In Flames,34
+2008-08,Iron Maiden,29
+2008-08,Kazik,68
+2008-08,Korn,45
+2008-08,Kult,103
+2008-08,Limp Bizkit,39
+2008-08,Marilyn Manson,38
+2008-08,Metallica,125
+2008-08,Moby,17
+2008-08,Nightwish,42
+2008-08,Nine Inch Nails,155
+2008-08,Nirvana,47
+2008-08,Pearl Jam,67
+2008-08,Pidżama Porno,15
+2008-09,Akurat,17
+2008-09,Children Of Bodom,24
+2008-09,Closterkeller,18
+2008-09,Cradle Of Filth,19
+2008-09,Dead Can Dance,13
+2008-09,Gorillaz,16
+2008-09,In Flames,22
+2008-09,Iron Maiden,12
+2008-09,Kazik,44
+2008-09,Korn,19
+2008-09,Kult,68
+2008-09,Limp Bizkit,22
+2008-09,Marilyn Manson,33
+2008-09,Metallica,89
+2008-09,Moby,12
+2008-09,Nightwish,26
+2008-09,Nine Inch Nails,80
+2008-09,Nirvana,28
+2008-09,Pearl Jam,46
+2008-09,Pidżama Porno,12
+2008-10,Akurat,7
+2008-10,Children Of Bodom,21
+2008-10,Closterkeller,27
+2008-10,Cradle Of Filth,27
+2008-10,Dead Can Dance,30
+2008-10,Gorillaz,30
+2008-10,In Flames,44
+2008-10,Iron Maiden,22
+2008-10,Kazik,49
+2008-10,Korn,24
+2008-10,Kult,83
+2008-10,Limp Bizkit,36
+2008-10,Marilyn Manson,50
+2008-10,Metallica,106
+2008-10,Moby,9
+2008-10,Nightwish,37
+2008-10,Nine Inch Nails,145
+2008-10,Nirvana,34
+2008-10,Pearl Jam,54
+2008-10,Pidżama Porno,18
+2008-11,Akurat,24
+2008-11,Children Of Bodom,31
+2008-11,Closterkeller,27
+2008-11,Cradle Of Filth,18
+2008-11,Dead Can Dance,25
+2008-11,Gorillaz,34
+2008-11,In Flames,47
+2008-11,Iron Maiden,23
+2008-11,Kazik,64
+2008-11,Korn,32
+2008-11,Kult,119
+2008-11,Limp Bizkit,35
+2008-11,Marilyn Manson,148
+2008-11,Metallica,148
+2008-11,Moby,21
+2008-11,Nightwish,45
+2008-11,Nine Inch Nails,156
+2008-11,Nirvana,46
+2008-11,Pearl Jam,79
+2008-11,Pidżama Porno,31
+2008-12,Akurat,19
+2008-12,Children Of Bodom,17
+2008-12,Closterkeller,18
+2008-12,Cradle Of Filth,14
+2008-12,Dead Can Dance,15
+2008-12,Gorillaz,13
+2008-12,In Flames,27
+2008-12,Iron Maiden,8
+2008-12,Kazik,24
+2008-12,Korn,13
+2008-12,Kult,49
+2008-12,Limp Bizkit,13
+2008-12,Marilyn Manson,39
+2008-12,Metallica,67
+2008-12,Moby,16
+2008-12,Nightwish,21
+2008-12,Nine Inch Nails,55
+2008-12,Nirvana,24
+2008-12,Pearl Jam,29
+2008-12,Pidżama Porno,20
+2009-01,Akurat,15
+2009-01,Children Of Bodom,18
+2009-01,Closterkeller,21
+2009-01,Cradle Of Filth,23
+2009-01,Dead Can Dance,18
+2009-01,Gorillaz,14
+2009-01,In Flames,26
+2009-01,Iron Maiden,16
+2009-01,Kazik,46
+2009-01,Korn,27
+2009-01,Kult,65
+2009-01,Limp Bizkit,16
+2009-01,Marilyn Manson,43
+2009-01,Metallica,75
+2009-01,Moby,14
+2009-01,Nightwish,26
+2009-01,Nine Inch Nails,109
+2009-01,Nirvana,27
+2009-01,Pearl Jam,36
+2009-01,Pidżama Porno,11
+2009-02,Akurat,8
+2009-02,Children Of Bodom,23
+2009-02,Closterkeller,17
+2009-02,Cradle Of Filth,8
+2009-02,Dead Can Dance,14
+2009-02,Gorillaz,20
+2009-02,In Flames,14
+2009-02,Iron Maiden,8
+2009-02,Kazik,30
+2009-02,Korn,15
+2009-02,Kult,48
+2009-02,Limp Bizkit,18
+2009-02,Marilyn Manson,28
+2009-02,Metallica,80
+2009-02,Moby,8
+2009-02,Nightwish,14
+2009-02,Nine Inch Nails,130
+2009-02,Nirvana,25
+2009-02,Pearl Jam,32
+2009-02,Pidżama Porno,19
+2009-03,Akurat,23
+2009-03,Children Of Bodom,21
+2009-03,Closterkeller,25
+2009-03,Cradle Of Filth,17
+2009-03,Dead Can Dance,17
+2009-03,Gorillaz,29
+2009-03,In Flames,39
+2009-03,Iron Maiden,18
+2009-03,Kazik,38
+2009-03,Korn,37
+2009-03,Kult,104
+2009-03,Limp Bizkit,24
+2009-03,Marilyn Manson,54
+2009-03,Metallica,115
+2009-03,Moby,20
+2009-03,Nightwish,27
+2009-03,Nine Inch Nails,136
+2009-03,Nirvana,43
+2009-03,Pearl Jam,47
+2009-03,Pidżama Porno,18
+2009-04,Akurat,11
+2009-04,Children Of Bodom,18
+2009-04,Closterkeller,16
+2009-04,Cradle Of Filth,14
+2009-04,Dead Can Dance,21
+2009-04,Gorillaz,17
+2009-04,In Flames,27
+2009-04,Iron Maiden,11
+2009-04,Kazik,23
+2009-04,Korn,22
+2009-04,Kult,69
+2009-04,Limp Bizkit,17
+2009-04,Marilyn Manson,40
+2009-04,Metallica,68
+2009-04,Moby,9
+2009-04,Nightwish,28
+2009-04,Nine Inch Nails,104
+2009-04,Nirvana,20
+2009-04,Pearl Jam,50
+2009-04,Pidżama Porno,11

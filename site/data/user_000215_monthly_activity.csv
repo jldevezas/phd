@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Architecture In Helsinki,0
+2006-02,Arctic Monkeys,24
+2006-02,Bloc Party,12
+2006-02,Coldplay,1
+2006-02,Editors,0
+2006-02,Hard-Fi,4
+2006-02,Kaiser Chiefs,0
+2006-02,Klaxons,0
+2006-02,Lily Allen,0
+2006-02,The Cribs,3
+2006-02,The Futureheads,4
+2006-02,The Killers,3
+2006-02,The Kooks,0
+2006-02,The Presets,0
+2006-02,The Rakes,0
+2006-02,The Strokes,2
+2006-02,The View,0
+2006-02,The Wombats,0
+2006-02,We Are Scientists,3
+2006-02,Youth Group,5
+2006-03,Architecture In Helsinki,16
+2006-03,Arctic Monkeys,43
+2006-03,Bloc Party,9
+2006-03,Coldplay,19
+2006-03,Editors,12
+2006-03,Hard-Fi,21
+2006-03,Kaiser Chiefs,19
+2006-03,Klaxons,0
+2006-03,Lily Allen,0
+2006-03,The Cribs,10
+2006-03,The Futureheads,65
+2006-03,The Killers,11
+2006-03,The Kooks,0
+2006-03,The Presets,0
+2006-03,The Rakes,2
+2006-03,The Strokes,26
+2006-03,The View,0
+2006-03,The Wombats,0
+2006-03,We Are Scientists,4
+2006-03,Youth Group,34
+2006-04,Architecture In Helsinki,47
+2006-04,Arctic Monkeys,85
+2006-04,Bloc Party,9
+2006-04,Coldplay,8
+2006-04,Editors,1
+2006-04,Hard-Fi,2
+2006-04,Kaiser Chiefs,3
+2006-04,Klaxons,0
+2006-04,Lily Allen,0
+2006-04,The Cribs,4
+2006-04,The Futureheads,6
+2006-04,The Killers,18
+2006-04,The Kooks,44
+2006-04,The Presets,1
+2006-04,The Rakes,6
+2006-04,The Strokes,3
+2006-04,The View,0
+2006-04,The Wombats,0
+2006-04,We Are Scientists,3
+2006-04,Youth Group,17
+2006-05,Architecture In Helsinki,13
+2006-05,Arctic Monkeys,31
+2006-05,Bloc Party,1
+2006-05,Coldplay,5
+2006-05,Editors,2
+2006-05,Hard-Fi,1
+2006-05,Kaiser Chiefs,5
+2006-05,Klaxons,0
+2006-05,Lily Allen,0
+2006-05,The Cribs,1
+2006-05,The Futureheads,0
+2006-05,The Killers,22
+2006-05,The Kooks,89
+2006-05,The Presets,0
+2006-05,The Rakes,6
+2006-05,The Strokes,1
+2006-05,The View,0
+2006-05,The Wombats,0
+2006-05,We Are Scientists,1
+2006-05,Youth Group,22
+2006-06,Architecture In Helsinki,35
+2006-06,Arctic Monkeys,62
+2006-06,Bloc Party,3
+2006-06,Coldplay,4
+2006-06,Editors,3
+2006-06,Hard-Fi,2
+2006-06,Kaiser Chiefs,1
+2006-06,Klaxons,0
+2006-06,Lily Allen,0
+2006-06,The Cribs,0
+2006-06,The Futureheads,3
+2006-06,The Killers,2
+2006-06,The Kooks,90
+2006-06,The Presets,0
+2006-06,The Rakes,4
+2006-06,The Strokes,1
+2006-06,The View,0
+2006-06,The Wombats,0
+2006-06,We Are Scientists,1
+2006-06,Youth Group,5
+2006-07,Architecture In Helsinki,16
+2006-07,Arctic Monkeys,31
+2006-07,Bloc Party,13
+2006-07,Coldplay,29
+2006-07,Editors,2
+2006-07,Hard-Fi,4
+2006-07,Kaiser Chiefs,2
+2006-07,Klaxons,0
+2006-07,Lily Allen,0
+2006-07,The Cribs,0
+2006-07,The Futureheads,3
+2006-07,The Killers,11
+2006-07,The Kooks,27
+2006-07,The Presets,0
+2006-07,The Rakes,3
+2006-07,The Strokes,6
+2006-07,The View,0
+2006-07,The Wombats,0
+2006-07,We Are Scientists,0
+2006-07,Youth Group,58
+2006-08,Architecture In Helsinki,0
+2006-08,Arctic Monkeys,28
+2006-08,Bloc Party,12
+2006-08,Coldplay,14
+2006-08,Editors,6
+2006-08,Hard-Fi,4
+2006-08,Kaiser Chiefs,0
+2006-08,Klaxons,0
+2006-08,Lily Allen,22
+2006-08,The Cribs,0
+2006-08,The Futureheads,0
+2006-08,The Killers,13
+2006-08,The Kooks,23
+2006-08,The Presets,1
+2006-08,The Rakes,3
+2006-08,The Strokes,11
+2006-08,The View,0
+2006-08,The Wombats,0
+2006-08,We Are Scientists,0
+2006-08,Youth Group,10
+2006-09,Architecture In Helsinki,5
+2006-09,Arctic Monkeys,11
+2006-09,Bloc Party,13
+2006-09,Coldplay,12
+2006-09,Editors,0
+2006-09,Hard-Fi,9
+2006-09,Kaiser Chiefs,3
+2006-09,Klaxons,0
+2006-09,Lily Allen,12
+2006-09,The Cribs,0
+2006-09,The Futureheads,10
+2006-09,The Killers,9
+2006-09,The Kooks,52
+2006-09,The Presets,0
+2006-09,The Rakes,0
+2006-09,The Strokes,5
+2006-09,The View,0
+2006-09,The Wombats,0
+2006-09,We Are Scientists,0
+2006-09,Youth Group,15
+2006-10,Architecture In Helsinki,5
+2006-10,Arctic Monkeys,100
+2006-10,Bloc Party,15
+2006-10,Coldplay,13
+2006-10,Editors,2
+2006-10,Hard-Fi,7
+2006-10,Kaiser Chiefs,28
+2006-10,Klaxons,0
+2006-10,Lily Allen,52
+2006-10,The Cribs,0
+2006-10,The Futureheads,8
+2006-10,The Killers,17
+2006-10,The Kooks,44
+2006-10,The Presets,0
+2006-10,The Rakes,2
+2006-10,The Strokes,2
+2006-10,The View,0
+2006-10,The Wombats,0
+2006-10,We Are Scientists,0
+2006-10,Youth Group,28
+2006-11,Architecture In Helsinki,3
+2006-11,Arctic Monkeys,121
+2006-11,Bloc Party,47
+2006-11,Coldplay,1
+2006-11,Editors,40
+2006-11,Hard-Fi,34
+2006-11,Kaiser Chiefs,1
+2006-11,Klaxons,37
+2006-11,Lily Allen,22
+2006-11,The Cribs,5
+2006-11,The Futureheads,9
+2006-11,The Killers,35
+2006-11,The Kooks,45
+2006-11,The Presets,0
+2006-11,The Rakes,2
+2006-11,The Strokes,7
+2006-11,The View,0
+2006-11,The Wombats,0
+2006-11,We Are Scientists,19
+2006-11,Youth Group,3
+2006-12,Architecture In Helsinki,10
+2006-12,Arctic Monkeys,57
+2006-12,Bloc Party,30
+2006-12,Coldplay,5
+2006-12,Editors,17
+2006-12,Hard-Fi,43
+2006-12,Kaiser Chiefs,1
+2006-12,Klaxons,14
+2006-12,Lily Allen,23
+2006-12,The Cribs,0
+2006-12,The Futureheads,4
+2006-12,The Killers,22
+2006-12,The Kooks,21
+2006-12,The Presets,0
+2006-12,The Rakes,11
+2006-12,The Strokes,8
+2006-12,The View,4
+2006-12,The Wombats,0
+2006-12,We Are Scientists,9
+2006-12,Youth Group,8
+2007-01,Architecture In Helsinki,4
+2007-01,Arctic Monkeys,41
+2007-01,Bloc Party,77
+2007-01,Coldplay,5
+2007-01,Editors,16
+2007-01,Hard-Fi,12
+2007-01,Kaiser Chiefs,27
+2007-01,Klaxons,53
+2007-01,Lily Allen,14
+2007-01,The Cribs,1
+2007-01,The Futureheads,4
+2007-01,The Killers,2
+2007-01,The Kooks,38
+2007-01,The Presets,1
+2007-01,The Rakes,16
+2007-01,The Strokes,19
+2007-01,The View,23
+2007-01,The Wombats,0
+2007-01,We Are Scientists,5
+2007-01,Youth Group,12
+2007-02,Architecture In Helsinki,1
+2007-02,Arctic Monkeys,44
+2007-02,Bloc Party,30
+2007-02,Coldplay,7
+2007-02,Editors,16
+2007-02,Hard-Fi,10
+2007-02,Kaiser Chiefs,47
+2007-02,Klaxons,137
+2007-02,Lily Allen,10
+2007-02,The Cribs,0
+2007-02,The Futureheads,4
+2007-02,The Killers,24
+2007-02,The Kooks,34
+2007-02,The Presets,8
+2007-02,The Rakes,2
+2007-02,The Strokes,1
+2007-02,The View,17
+2007-02,The Wombats,0
+2007-02,We Are Scientists,0
+2007-02,Youth Group,0
+2007-03,Architecture In Helsinki,1
+2007-03,Arctic Monkeys,46
+2007-03,Bloc Party,18
+2007-03,Coldplay,7
+2007-03,Editors,16
+2007-03,Hard-Fi,3
+2007-03,Kaiser Chiefs,42
+2007-03,Klaxons,57
+2007-03,Lily Allen,9
+2007-03,The Cribs,3
+2007-03,The Futureheads,6
+2007-03,The Killers,19
+2007-03,The Kooks,4
+2007-03,The Presets,2
+2007-03,The Rakes,49
+2007-03,The Strokes,31
+2007-03,The View,26
+2007-03,The Wombats,0
+2007-03,We Are Scientists,14
+2007-03,Youth Group,5
+2007-04,Architecture In Helsinki,0
+2007-04,Arctic Monkeys,245
+2007-04,Bloc Party,35
+2007-04,Coldplay,0
+2007-04,Editors,1
+2007-04,Hard-Fi,1
+2007-04,Kaiser Chiefs,24
+2007-04,Klaxons,25
+2007-04,Lily Allen,3
+2007-04,The Cribs,0
+2007-04,The Futureheads,4
+2007-04,The Killers,4
+2007-04,The Kooks,0
+2007-04,The Presets,9
+2007-04,The Rakes,19
+2007-04,The Strokes,4
+2007-04,The View,5
+2007-04,The Wombats,2
+2007-04,We Are Scientists,0
+2007-04,Youth Group,1
+2007-05,Architecture In Helsinki,29
+2007-05,Arctic Monkeys,100
+2007-05,Bloc Party,10
+2007-05,Coldplay,0
+2007-05,Editors,73
+2007-05,Hard-Fi,0
+2007-05,Kaiser Chiefs,16
+2007-05,Klaxons,27
+2007-05,Lily Allen,0
+2007-05,The Cribs,43
+2007-05,The Futureheads,0
+2007-05,The Killers,0
+2007-05,The Kooks,0
+2007-05,The Presets,1
+2007-05,The Rakes,1
+2007-05,The Strokes,0
+2007-05,The View,2
+2007-05,The Wombats,148
+2007-05,We Are Scientists,0
+2007-05,Youth Group,0
+2007-06,Architecture In Helsinki,12
+2007-06,Arctic Monkeys,114
+2007-06,Bloc Party,7
+2007-06,Coldplay,1
+2007-06,Editors,34
+2007-06,Hard-Fi,0
+2007-06,Kaiser Chiefs,3
+2007-06,Klaxons,20
+2007-06,Lily Allen,8
+2007-06,The Cribs,16
+2007-06,The Futureheads,0
+2007-06,The Killers,0
+2007-06,The Kooks,0
+2007-06,The Presets,0
+2007-06,The Rakes,2
+2007-06,The Strokes,0
+2007-06,The View,1
+2007-06,The Wombats,31
+2007-06,We Are Scientists,6
+2007-06,Youth Group,0
+2007-07,Architecture In Helsinki,8
+2007-07,Arctic Monkeys,47
+2007-07,Bloc Party,44
+2007-07,Coldplay,0
+2007-07,Editors,21
+2007-07,Hard-Fi,9
+2007-07,Kaiser Chiefs,7
+2007-07,Klaxons,31
+2007-07,Lily Allen,0
+2007-07,The Cribs,13
+2007-07,The Futureheads,0
+2007-07,The Killers,0
+2007-07,The Kooks,0
+2007-07,The Presets,0
+2007-07,The Rakes,25
+2007-07,The Strokes,0
+2007-07,The View,4
+2007-07,The Wombats,1
+2007-07,We Are Scientists,0
+2007-07,Youth Group,6
+2007-08,Architecture In Helsinki,3
+2007-08,Arctic Monkeys,75
+2007-08,Bloc Party,60
+2007-08,Coldplay,0
+2007-08,Editors,26
+2007-08,Hard-Fi,24
+2007-08,Kaiser Chiefs,0
+2007-08,Klaxons,10
+2007-08,Lily Allen,4
+2007-08,The Cribs,10
+2007-08,The Futureheads,0
+2007-08,The Killers,0
+2007-08,The Kooks,0
+2007-08,The Presets,0
+2007-08,The Rakes,6
+2007-08,The Strokes,0
+2007-08,The View,0
+2007-08,The Wombats,26
+2007-08,We Are Scientists,0
+2007-08,Youth Group,0
+2007-09,Architecture In Helsinki,3
+2007-09,Arctic Monkeys,43
+2007-09,Bloc Party,42
+2007-09,Coldplay,0
+2007-09,Editors,5
+2007-09,Hard-Fi,52
+2007-09,Kaiser Chiefs,1
+2007-09,Klaxons,31
+2007-09,Lily Allen,0
+2007-09,The Cribs,9
+2007-09,The Futureheads,1
+2007-09,The Killers,1
+2007-09,The Kooks,3
+2007-09,The Presets,0
+2007-09,The Rakes,11
+2007-09,The Strokes,1
+2007-09,The View,0
+2007-09,The Wombats,18
+2007-09,We Are Scientists,5
+2007-09,Youth Group,35
+2007-10,Architecture In Helsinki,8
+2007-10,Arctic Monkeys,63
+2007-10,Bloc Party,32
+2007-10,Coldplay,11
+2007-10,Editors,1
+2007-10,Hard-Fi,39
+2007-10,Kaiser Chiefs,1
+2007-10,Klaxons,15
+2007-10,Lily Allen,4
+2007-10,The Cribs,22
+2007-10,The Futureheads,0
+2007-10,The Killers,2
+2007-10,The Kooks,2
+2007-10,The Presets,0
+2007-10,The Rakes,5
+2007-10,The Strokes,0
+2007-10,The View,6
+2007-10,The Wombats,92
+2007-10,We Are Scientists,0
+2007-10,Youth Group,0
+2007-11,Architecture In Helsinki,23
+2007-11,Arctic Monkeys,55
+2007-11,Bloc Party,29
+2007-11,Coldplay,0
+2007-11,Editors,8
+2007-11,Hard-Fi,19
+2007-11,Kaiser Chiefs,0
+2007-11,Klaxons,27
+2007-11,Lily Allen,0
+2007-11,The Cribs,1
+2007-11,The Futureheads,1
+2007-11,The Killers,19
+2007-11,The Kooks,0
+2007-11,The Presets,0
+2007-11,The Rakes,7
+2007-11,The Strokes,1
+2007-11,The View,6
+2007-11,The Wombats,75
+2007-11,We Are Scientists,0
+2007-11,Youth Group,5
+2007-12,Architecture In Helsinki,17
+2007-12,Arctic Monkeys,65
+2007-12,Bloc Party,10
+2007-12,Coldplay,0
+2007-12,Editors,30
+2007-12,Hard-Fi,19
+2007-12,Kaiser Chiefs,1
+2007-12,Klaxons,61
+2007-12,Lily Allen,0
+2007-12,The Cribs,62
+2007-12,The Futureheads,0
+2007-12,The Killers,8
+2007-12,The Kooks,9
+2007-12,The Presets,14
+2007-12,The Rakes,13
+2007-12,The Strokes,0
+2007-12,The View,1
+2007-12,The Wombats,117
+2007-12,We Are Scientists,0
+2007-12,Youth Group,0
+2008-01,Architecture In Helsinki,0
+2008-01,Arctic Monkeys,38
+2008-01,Bloc Party,38
+2008-01,Coldplay,0
+2008-01,Editors,7
+2008-01,Hard-Fi,12
+2008-01,Kaiser Chiefs,0
+2008-01,Klaxons,5
+2008-01,Lily Allen,6
+2008-01,The Cribs,12
+2008-01,The Futureheads,18
+2008-01,The Killers,9
+2008-01,The Kooks,0
+2008-01,The Presets,2
+2008-01,The Rakes,12
+2008-01,The Strokes,0
+2008-01,The View,3
+2008-01,The Wombats,25
+2008-01,We Are Scientists,11
+2008-01,Youth Group,0
+2008-02,Architecture In Helsinki,0
+2008-02,Arctic Monkeys,3
+2008-02,Bloc Party,1
+2008-02,Coldplay,0
+2008-02,Editors,0
+2008-02,Hard-Fi,0
+2008-02,Kaiser Chiefs,14
+2008-02,Klaxons,0
+2008-02,Lily Allen,0
+2008-02,The Cribs,7
+2008-02,The Futureheads,18
+2008-02,The Killers,0
+2008-02,The Kooks,16
+2008-02,The Presets,0
+2008-02,The Rakes,0
+2008-02,The Strokes,16
+2008-02,The View,0
+2008-02,The Wombats,18
+2008-02,We Are Scientists,36
+2008-02,Youth Group,7
+2008-03,Architecture In Helsinki,0
+2008-03,Arctic Monkeys,0
+2008-03,Bloc Party,14
+2008-03,Coldplay,0
+2008-03,Editors,0
+2008-03,Hard-Fi,3
+2008-03,Kaiser Chiefs,1
+2008-03,Klaxons,0
+2008-03,Lily Allen,0
+2008-03,The Cribs,5
+2008-03,The Futureheads,1
+2008-03,The Killers,0
+2008-03,The Kooks,57
+2008-03,The Presets,15
+2008-03,The Rakes,0
+2008-03,The Strokes,4
+2008-03,The View,3
+2008-03,The Wombats,1
+2008-03,We Are Scientists,90
+2008-03,Youth Group,0
+2008-04,Architecture In Helsinki,2
+2008-04,Arctic Monkeys,0
+2008-04,Bloc Party,0
+2008-04,Coldplay,4
+2008-04,Editors,0
+2008-04,Hard-Fi,0
+2008-04,Kaiser Chiefs,0
+2008-04,Klaxons,0
+2008-04,Lily Allen,10
+2008-04,The Cribs,0
+2008-04,The Futureheads,27
+2008-04,The Killers,0
+2008-04,The Kooks,32
+2008-04,The Presets,84
+2008-04,The Rakes,0
+2008-04,The Strokes,0
+2008-04,The View,0
+2008-04,The Wombats,2
+2008-04,We Are Scientists,24
+2008-04,Youth Group,3
+2008-05,Architecture In Helsinki,5
+2008-05,Arctic Monkeys,0
+2008-05,Bloc Party,1
+2008-05,Coldplay,14
+2008-05,Editors,0
+2008-05,Hard-Fi,0
+2008-05,Kaiser Chiefs,0
+2008-05,Klaxons,0
+2008-05,Lily Allen,2
+2008-05,The Cribs,0
+2008-05,The Futureheads,0
+2008-05,The Killers,0
+2008-05,The Kooks,9
+2008-05,The Presets,27
+2008-05,The Rakes,0
+2008-05,The Strokes,0
+2008-05,The View,0
+2008-05,The Wombats,3
+2008-05,We Are Scientists,26
+2008-05,Youth Group,0
+2008-06,Architecture In Helsinki,0
+2008-06,Arctic Monkeys,14
+2008-06,Bloc Party,13
+2008-06,Coldplay,60
+2008-06,Editors,11
+2008-06,Hard-Fi,0
+2008-06,Kaiser Chiefs,0
+2008-06,Klaxons,1
+2008-06,Lily Allen,2
+2008-06,The Cribs,0
+2008-06,The Futureheads,15
+2008-06,The Killers,0
+2008-06,The Kooks,13
+2008-06,The Presets,69
+2008-06,The Rakes,5
+2008-06,The Strokes,0
+2008-06,The View,0
+2008-06,The Wombats,8
+2008-06,We Are Scientists,16
+2008-06,Youth Group,0
+2008-07,Architecture In Helsinki,1
+2008-07,Arctic Monkeys,9
+2008-07,Bloc Party,16
+2008-07,Coldplay,22
+2008-07,Editors,1
+2008-07,Hard-Fi,0
+2008-07,Kaiser Chiefs,0
+2008-07,Klaxons,0
+2008-07,Lily Allen,21
+2008-07,The Cribs,1
+2008-07,The Futureheads,1
+2008-07,The Killers,0
+2008-07,The Kooks,33
+2008-07,The Presets,16
+2008-07,The Rakes,0
+2008-07,The Strokes,0
+2008-07,The View,0
+2008-07,The Wombats,10
+2008-07,We Are Scientists,29
+2008-07,Youth Group,32
+2008-08,Architecture In Helsinki,0
+2008-08,Arctic Monkeys,0
+2008-08,Bloc Party,68
+2008-08,Coldplay,15
+2008-08,Editors,7
+2008-08,Hard-Fi,0
+2008-08,Kaiser Chiefs,4
+2008-08,Klaxons,0
+2008-08,Lily Allen,0
+2008-08,The Cribs,9
+2008-08,The Futureheads,0
+2008-08,The Killers,0
+2008-08,The Kooks,11
+2008-08,The Presets,22
+2008-08,The Rakes,0
+2008-08,The Strokes,0
+2008-08,The View,0
+2008-08,The Wombats,17
+2008-08,We Are Scientists,21
+2008-08,Youth Group,8
+2008-09,Architecture In Helsinki,0
+2008-09,Arctic Monkeys,28
+2008-09,Bloc Party,35
+2008-09,Coldplay,4
+2008-09,Editors,0
+2008-09,Hard-Fi,0
+2008-09,Kaiser Chiefs,22
+2008-09,Klaxons,11
+2008-09,Lily Allen,0
+2008-09,The Cribs,1
+2008-09,The Futureheads,1
+2008-09,The Killers,6
+2008-09,The Kooks,16
+2008-09,The Presets,28
+2008-09,The Rakes,0
+2008-09,The Strokes,0
+2008-09,The View,1
+2008-09,The Wombats,4
+2008-09,We Are Scientists,6
+2008-09,Youth Group,11
+2008-10,Architecture In Helsinki,0
+2008-10,Arctic Monkeys,20
+2008-10,Bloc Party,36
+2008-10,Coldplay,16
+2008-10,Editors,0
+2008-10,Hard-Fi,0
+2008-10,Kaiser Chiefs,32
+2008-10,Klaxons,3
+2008-10,Lily Allen,9
+2008-10,The Cribs,3
+2008-10,The Futureheads,0
+2008-10,The Killers,12
+2008-10,The Kooks,0
+2008-10,The Presets,25
+2008-10,The Rakes,0
+2008-10,The Strokes,0
+2008-10,The View,3
+2008-10,The Wombats,1
+2008-10,We Are Scientists,0
+2008-10,Youth Group,0
+2008-11,Architecture In Helsinki,0
+2008-11,Arctic Monkeys,12
+2008-11,Bloc Party,55
+2008-11,Coldplay,26
+2008-11,Editors,0
+2008-11,Hard-Fi,0
+2008-11,Kaiser Chiefs,16
+2008-11,Klaxons,3
+2008-11,Lily Allen,7
+2008-11,The Cribs,9
+2008-11,The Futureheads,1
+2008-11,The Killers,32
+2008-11,The Kooks,16
+2008-11,The Presets,0
+2008-11,The Rakes,0
+2008-11,The Strokes,10
+2008-11,The View,3
+2008-11,The Wombats,8
+2008-11,We Are Scientists,11
+2008-11,Youth Group,7
+2008-12,Architecture In Helsinki,0
+2008-12,Arctic Monkeys,0
+2008-12,Bloc Party,36
+2008-12,Coldplay,6
+2008-12,Editors,0
+2008-12,Hard-Fi,0
+2008-12,Kaiser Chiefs,0
+2008-12,Klaxons,0
+2008-12,Lily Allen,20
+2008-12,The Cribs,0
+2008-12,The Futureheads,1
+2008-12,The Killers,12
+2008-12,The Kooks,12
+2008-12,The Presets,24
+2008-12,The Rakes,0
+2008-12,The Strokes,0
+2008-12,The View,4
+2008-12,The Wombats,3
+2008-12,We Are Scientists,13
+2008-12,Youth Group,7
+2009-01,Architecture In Helsinki,5
+2009-01,Arctic Monkeys,48
+2009-01,Bloc Party,11
+2009-01,Coldplay,0
+2009-01,Editors,8
+2009-01,Hard-Fi,1
+2009-01,Kaiser Chiefs,7
+2009-01,Klaxons,2
+2009-01,Lily Allen,17
+2009-01,The Cribs,0
+2009-01,The Futureheads,0
+2009-01,The Killers,0
+2009-01,The Kooks,0
+2009-01,The Presets,34
+2009-01,The Rakes,0
+2009-01,The Strokes,0
+2009-01,The View,30
+2009-01,The Wombats,13
+2009-01,We Are Scientists,0
+2009-01,Youth Group,0
+2009-02,Architecture In Helsinki,0
+2009-02,Arctic Monkeys,26
+2009-02,Bloc Party,0
+2009-02,Coldplay,3
+2009-02,Editors,12
+2009-02,Hard-Fi,13
+2009-02,Kaiser Chiefs,36
+2009-02,Klaxons,2
+2009-02,Lily Allen,75
+2009-02,The Cribs,0
+2009-02,The Futureheads,1
+2009-02,The Killers,0
+2009-02,The Kooks,0
+2009-02,The Presets,10
+2009-02,The Rakes,47
+2009-02,The Strokes,15
+2009-02,The View,10
+2009-02,The Wombats,0
+2009-02,We Are Scientists,0
+2009-02,Youth Group,0
+2009-03,Architecture In Helsinki,3
+2009-03,Arctic Monkeys,4
+2009-03,Bloc Party,5
+2009-03,Coldplay,0
+2009-03,Editors,0
+2009-03,Hard-Fi,0
+2009-03,Kaiser Chiefs,14
+2009-03,Klaxons,4
+2009-03,Lily Allen,31
+2009-03,The Cribs,1
+2009-03,The Futureheads,0
+2009-03,The Killers,0
+2009-03,The Kooks,0
+2009-03,The Presets,15
+2009-03,The Rakes,26
+2009-03,The Strokes,1
+2009-03,The View,8
+2009-03,The Wombats,2
+2009-03,We Are Scientists,0
+2009-03,Youth Group,0
+2009-04,Architecture In Helsinki,0
+2009-04,Arctic Monkeys,0
+2009-04,Bloc Party,20
+2009-04,Coldplay,0
+2009-04,Editors,0
+2009-04,Hard-Fi,0
+2009-04,Kaiser Chiefs,12
+2009-04,Klaxons,8
+2009-04,Lily Allen,15
+2009-04,The Cribs,0
+2009-04,The Futureheads,2
+2009-04,The Killers,0
+2009-04,The Kooks,0
+2009-04,The Presets,0
+2009-04,The Rakes,8
+2009-04,The Strokes,0
+2009-04,The View,9
+2009-04,The Wombats,0
+2009-04,We Are Scientists,0
+2009-04,Youth Group,0

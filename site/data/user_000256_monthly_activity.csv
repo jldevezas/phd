@@ -1,0 +1,581 @@
+month,artist,plays
+2007-01,...And You Will Know Us By The Trail Of Dead,20
+2007-01,Air,1
+2007-01,Aphex Twin,0
+2007-01,Björk,7
+2007-01,Boards Of Canada,7
+2007-01,Clap Your Hands Say Yeah,12
+2007-01,Cocorosie,0
+2007-01,Cursive,0
+2007-01,Frank Black,22
+2007-01,Gentle Giant,14
+2007-01,Hella,0
+2007-01,Joanna Newsom,0
+2007-01,King Crimson,23
+2007-01,Man Or Astro-Man?,0
+2007-01,Modest Mouse,11
+2007-01,Pixies,18
+2007-01,Queens Of The Stone Age,26
+2007-01,Radiohead,0
+2007-01,The Desert Sessions,13
+2007-01,The Mars Volta,0
+2007-02,...And You Will Know Us By The Trail Of Dead,28
+2007-02,Air,0
+2007-02,Aphex Twin,0
+2007-02,Björk,22
+2007-02,Boards Of Canada,218
+2007-02,Clap Your Hands Say Yeah,23
+2007-02,Cocorosie,1
+2007-02,Cursive,20
+2007-02,Frank Black,47
+2007-02,Gentle Giant,0
+2007-02,Hella,2
+2007-02,Joanna Newsom,125
+2007-02,King Crimson,63
+2007-02,Man Or Astro-Man?,0
+2007-02,Modest Mouse,97
+2007-02,Pixies,46
+2007-02,Queens Of The Stone Age,39
+2007-02,Radiohead,1
+2007-02,The Desert Sessions,42
+2007-02,The Mars Volta,4
+2007-03,...And You Will Know Us By The Trail Of Dead,0
+2007-03,Air,25
+2007-03,Aphex Twin,0
+2007-03,Björk,28
+2007-03,Boards Of Canada,610
+2007-03,Clap Your Hands Say Yeah,9
+2007-03,Cocorosie,0
+2007-03,Cursive,29
+2007-03,Frank Black,29
+2007-03,Gentle Giant,17
+2007-03,Hella,173
+2007-03,Joanna Newsom,53
+2007-03,King Crimson,136
+2007-03,Man Or Astro-Man?,67
+2007-03,Modest Mouse,161
+2007-03,Pixies,56
+2007-03,Queens Of The Stone Age,12
+2007-03,Radiohead,8
+2007-03,The Desert Sessions,12
+2007-03,The Mars Volta,47
+2007-04,...And You Will Know Us By The Trail Of Dead,0
+2007-04,Air,14
+2007-04,Aphex Twin,0
+2007-04,Björk,1
+2007-04,Boards Of Canada,236
+2007-04,Clap Your Hands Say Yeah,2
+2007-04,Cocorosie,2
+2007-04,Cursive,0
+2007-04,Frank Black,22
+2007-04,Gentle Giant,22
+2007-04,Hella,181
+2007-04,Joanna Newsom,28
+2007-04,King Crimson,25
+2007-04,Man Or Astro-Man?,0
+2007-04,Modest Mouse,0
+2007-04,Pixies,0
+2007-04,Queens Of The Stone Age,0
+2007-04,Radiohead,2
+2007-04,The Desert Sessions,28
+2007-04,The Mars Volta,24
+2007-05,...And You Will Know Us By The Trail Of Dead,7
+2007-05,Air,2
+2007-05,Aphex Twin,80
+2007-05,Björk,4
+2007-05,Boards Of Canada,313
+2007-05,Clap Your Hands Say Yeah,1
+2007-05,Cocorosie,1
+2007-05,Cursive,16
+2007-05,Frank Black,0
+2007-05,Gentle Giant,12
+2007-05,Hella,6
+2007-05,Joanna Newsom,1
+2007-05,King Crimson,12
+2007-05,Man Or Astro-Man?,28
+2007-05,Modest Mouse,371
+2007-05,Pixies,3
+2007-05,Queens Of The Stone Age,5
+2007-05,Radiohead,3
+2007-05,The Desert Sessions,0
+2007-05,The Mars Volta,2
+2007-06,...And You Will Know Us By The Trail Of Dead,0
+2007-06,Air,8
+2007-06,Aphex Twin,0
+2007-06,Björk,0
+2007-06,Boards Of Canada,109
+2007-06,Clap Your Hands Say Yeah,0
+2007-06,Cocorosie,0
+2007-06,Cursive,0
+2007-06,Frank Black,2
+2007-06,Gentle Giant,0
+2007-06,Hella,103
+2007-06,Joanna Newsom,0
+2007-06,King Crimson,137
+2007-06,Man Or Astro-Man?,20
+2007-06,Modest Mouse,43
+2007-06,Pixies,87
+2007-06,Queens Of The Stone Age,39
+2007-06,Radiohead,0
+2007-06,The Desert Sessions,21
+2007-06,The Mars Volta,0
+2007-07,...And You Will Know Us By The Trail Of Dead,0
+2007-07,Air,5
+2007-07,Aphex Twin,0
+2007-07,Björk,0
+2007-07,Boards Of Canada,2
+2007-07,Clap Your Hands Say Yeah,0
+2007-07,Cocorosie,294
+2007-07,Cursive,0
+2007-07,Frank Black,0
+2007-07,Gentle Giant,0
+2007-07,Hella,0
+2007-07,Joanna Newsom,16
+2007-07,King Crimson,52
+2007-07,Man Or Astro-Man?,0
+2007-07,Modest Mouse,0
+2007-07,Pixies,2
+2007-07,Queens Of The Stone Age,0
+2007-07,Radiohead,28
+2007-07,The Desert Sessions,8
+2007-07,The Mars Volta,0
+2007-08,...And You Will Know Us By The Trail Of Dead,19
+2007-08,Air,0
+2007-08,Aphex Twin,12
+2007-08,Björk,0
+2007-08,Boards Of Canada,155
+2007-08,Clap Your Hands Say Yeah,27
+2007-08,Cocorosie,99
+2007-08,Cursive,28
+2007-08,Frank Black,0
+2007-08,Gentle Giant,37
+2007-08,Hella,16
+2007-08,Joanna Newsom,16
+2007-08,King Crimson,19
+2007-08,Man Or Astro-Man?,71
+2007-08,Modest Mouse,0
+2007-08,Pixies,2
+2007-08,Queens Of The Stone Age,30
+2007-08,Radiohead,0
+2007-08,The Desert Sessions,2
+2007-08,The Mars Volta,0
+2007-09,...And You Will Know Us By The Trail Of Dead,0
+2007-09,Air,5
+2007-09,Aphex Twin,71
+2007-09,Björk,2
+2007-09,Boards Of Canada,99
+2007-09,Clap Your Hands Say Yeah,1
+2007-09,Cocorosie,58
+2007-09,Cursive,0
+2007-09,Frank Black,24
+2007-09,Gentle Giant,0
+2007-09,Hella,10
+2007-09,Joanna Newsom,27
+2007-09,King Crimson,58
+2007-09,Man Or Astro-Man?,180
+2007-09,Modest Mouse,57
+2007-09,Pixies,12
+2007-09,Queens Of The Stone Age,0
+2007-09,Radiohead,0
+2007-09,The Desert Sessions,5
+2007-09,The Mars Volta,5
+2007-10,...And You Will Know Us By The Trail Of Dead,19
+2007-10,Air,12
+2007-10,Aphex Twin,79
+2007-10,Björk,29
+2007-10,Boards Of Canada,56
+2007-10,Clap Your Hands Say Yeah,0
+2007-10,Cocorosie,44
+2007-10,Cursive,32
+2007-10,Frank Black,0
+2007-10,Gentle Giant,53
+2007-10,Hella,2
+2007-10,Joanna Newsom,12
+2007-10,King Crimson,77
+2007-10,Man Or Astro-Man?,784
+2007-10,Modest Mouse,140
+2007-10,Pixies,0
+2007-10,Queens Of The Stone Age,115
+2007-10,Radiohead,34
+2007-10,The Desert Sessions,0
+2007-10,The Mars Volta,104
+2007-11,...And You Will Know Us By The Trail Of Dead,12
+2007-11,Air,11
+2007-11,Aphex Twin,11
+2007-11,Björk,54
+2007-11,Boards Of Canada,217
+2007-11,Clap Your Hands Say Yeah,12
+2007-11,Cocorosie,0
+2007-11,Cursive,0
+2007-11,Frank Black,46
+2007-11,Gentle Giant,0
+2007-11,Hella,32
+2007-11,Joanna Newsom,17
+2007-11,King Crimson,100
+2007-11,Man Or Astro-Man?,436
+2007-11,Modest Mouse,46
+2007-11,Pixies,57
+2007-11,Queens Of The Stone Age,60
+2007-11,Radiohead,2
+2007-11,The Desert Sessions,2
+2007-11,The Mars Volta,8
+2007-12,...And You Will Know Us By The Trail Of Dead,1
+2007-12,Air,0
+2007-12,Aphex Twin,0
+2007-12,Björk,0
+2007-12,Boards Of Canada,3
+2007-12,Clap Your Hands Say Yeah,3
+2007-12,Cocorosie,0
+2007-12,Cursive,0
+2007-12,Frank Black,30
+2007-12,Gentle Giant,0
+2007-12,Hella,0
+2007-12,Joanna Newsom,13
+2007-12,King Crimson,0
+2007-12,Man Or Astro-Man?,30
+2007-12,Modest Mouse,0
+2007-12,Pixies,0
+2007-12,Queens Of The Stone Age,12
+2007-12,Radiohead,0
+2007-12,The Desert Sessions,2
+2007-12,The Mars Volta,0
+2008-01,...And You Will Know Us By The Trail Of Dead,0
+2008-01,Air,0
+2008-01,Aphex Twin,0
+2008-01,Björk,0
+2008-01,Boards Of Canada,0
+2008-01,Clap Your Hands Say Yeah,0
+2008-01,Cocorosie,0
+2008-01,Cursive,0
+2008-01,Frank Black,0
+2008-01,Gentle Giant,0
+2008-01,Hella,0
+2008-01,Joanna Newsom,0
+2008-01,King Crimson,0
+2008-01,Man Or Astro-Man?,0
+2008-01,Modest Mouse,0
+2008-01,Pixies,0
+2008-01,Queens Of The Stone Age,0
+2008-01,Radiohead,0
+2008-01,The Desert Sessions,0
+2008-01,The Mars Volta,0
+2008-02,...And You Will Know Us By The Trail Of Dead,0
+2008-02,Air,0
+2008-02,Aphex Twin,0
+2008-02,Björk,0
+2008-02,Boards Of Canada,0
+2008-02,Clap Your Hands Say Yeah,0
+2008-02,Cocorosie,0
+2008-02,Cursive,0
+2008-02,Frank Black,0
+2008-02,Gentle Giant,0
+2008-02,Hella,0
+2008-02,Joanna Newsom,0
+2008-02,King Crimson,0
+2008-02,Man Or Astro-Man?,0
+2008-02,Modest Mouse,0
+2008-02,Pixies,0
+2008-02,Queens Of The Stone Age,0
+2008-02,Radiohead,0
+2008-02,The Desert Sessions,0
+2008-02,The Mars Volta,0
+2008-03,...And You Will Know Us By The Trail Of Dead,0
+2008-03,Air,0
+2008-03,Aphex Twin,0
+2008-03,Björk,0
+2008-03,Boards Of Canada,0
+2008-03,Clap Your Hands Say Yeah,0
+2008-03,Cocorosie,0
+2008-03,Cursive,0
+2008-03,Frank Black,0
+2008-03,Gentle Giant,0
+2008-03,Hella,0
+2008-03,Joanna Newsom,0
+2008-03,King Crimson,0
+2008-03,Man Or Astro-Man?,0
+2008-03,Modest Mouse,0
+2008-03,Pixies,0
+2008-03,Queens Of The Stone Age,0
+2008-03,Radiohead,0
+2008-03,The Desert Sessions,0
+2008-03,The Mars Volta,0
+2008-04,...And You Will Know Us By The Trail Of Dead,0
+2008-04,Air,0
+2008-04,Aphex Twin,0
+2008-04,Björk,0
+2008-04,Boards Of Canada,0
+2008-04,Clap Your Hands Say Yeah,0
+2008-04,Cocorosie,0
+2008-04,Cursive,0
+2008-04,Frank Black,0
+2008-04,Gentle Giant,0
+2008-04,Hella,0
+2008-04,Joanna Newsom,0
+2008-04,King Crimson,0
+2008-04,Man Or Astro-Man?,0
+2008-04,Modest Mouse,0
+2008-04,Pixies,0
+2008-04,Queens Of The Stone Age,0
+2008-04,Radiohead,0
+2008-04,The Desert Sessions,0
+2008-04,The Mars Volta,0
+2008-05,...And You Will Know Us By The Trail Of Dead,0
+2008-05,Air,0
+2008-05,Aphex Twin,0
+2008-05,Björk,0
+2008-05,Boards Of Canada,0
+2008-05,Clap Your Hands Say Yeah,0
+2008-05,Cocorosie,0
+2008-05,Cursive,0
+2008-05,Frank Black,0
+2008-05,Gentle Giant,0
+2008-05,Hella,0
+2008-05,Joanna Newsom,0
+2008-05,King Crimson,0
+2008-05,Man Or Astro-Man?,0
+2008-05,Modest Mouse,0
+2008-05,Pixies,0
+2008-05,Queens Of The Stone Age,0
+2008-05,Radiohead,0
+2008-05,The Desert Sessions,0
+2008-05,The Mars Volta,0
+2008-06,...And You Will Know Us By The Trail Of Dead,0
+2008-06,Air,0
+2008-06,Aphex Twin,0
+2008-06,Björk,0
+2008-06,Boards Of Canada,0
+2008-06,Clap Your Hands Say Yeah,0
+2008-06,Cocorosie,0
+2008-06,Cursive,0
+2008-06,Frank Black,0
+2008-06,Gentle Giant,0
+2008-06,Hella,0
+2008-06,Joanna Newsom,0
+2008-06,King Crimson,0
+2008-06,Man Or Astro-Man?,0
+2008-06,Modest Mouse,0
+2008-06,Pixies,0
+2008-06,Queens Of The Stone Age,0
+2008-06,Radiohead,0
+2008-06,The Desert Sessions,0
+2008-06,The Mars Volta,0
+2008-07,...And You Will Know Us By The Trail Of Dead,0
+2008-07,Air,0
+2008-07,Aphex Twin,0
+2008-07,Björk,0
+2008-07,Boards Of Canada,0
+2008-07,Clap Your Hands Say Yeah,0
+2008-07,Cocorosie,0
+2008-07,Cursive,0
+2008-07,Frank Black,0
+2008-07,Gentle Giant,0
+2008-07,Hella,0
+2008-07,Joanna Newsom,0
+2008-07,King Crimson,0
+2008-07,Man Or Astro-Man?,0
+2008-07,Modest Mouse,0
+2008-07,Pixies,0
+2008-07,Queens Of The Stone Age,0
+2008-07,Radiohead,0
+2008-07,The Desert Sessions,0
+2008-07,The Mars Volta,0
+2008-08,...And You Will Know Us By The Trail Of Dead,0
+2008-08,Air,0
+2008-08,Aphex Twin,0
+2008-08,Björk,0
+2008-08,Boards Of Canada,0
+2008-08,Clap Your Hands Say Yeah,0
+2008-08,Cocorosie,0
+2008-08,Cursive,0
+2008-08,Frank Black,0
+2008-08,Gentle Giant,0
+2008-08,Hella,0
+2008-08,Joanna Newsom,0
+2008-08,King Crimson,0
+2008-08,Man Or Astro-Man?,0
+2008-08,Modest Mouse,0
+2008-08,Pixies,0
+2008-08,Queens Of The Stone Age,0
+2008-08,Radiohead,0
+2008-08,The Desert Sessions,0
+2008-08,The Mars Volta,0
+2008-09,...And You Will Know Us By The Trail Of Dead,0
+2008-09,Air,0
+2008-09,Aphex Twin,0
+2008-09,Björk,0
+2008-09,Boards Of Canada,0
+2008-09,Clap Your Hands Say Yeah,0
+2008-09,Cocorosie,0
+2008-09,Cursive,0
+2008-09,Frank Black,0
+2008-09,Gentle Giant,0
+2008-09,Hella,0
+2008-09,Joanna Newsom,0
+2008-09,King Crimson,0
+2008-09,Man Or Astro-Man?,0
+2008-09,Modest Mouse,0
+2008-09,Pixies,0
+2008-09,Queens Of The Stone Age,0
+2008-09,Radiohead,0
+2008-09,The Desert Sessions,0
+2008-09,The Mars Volta,0
+2008-10,...And You Will Know Us By The Trail Of Dead,0
+2008-10,Air,19
+2008-10,Aphex Twin,0
+2008-10,Björk,2
+2008-10,Boards Of Canada,0
+2008-10,Clap Your Hands Say Yeah,0
+2008-10,Cocorosie,24
+2008-10,Cursive,0
+2008-10,Frank Black,9
+2008-10,Gentle Giant,4
+2008-10,Hella,0
+2008-10,Joanna Newsom,0
+2008-10,King Crimson,0
+2008-10,Man Or Astro-Man?,31
+2008-10,Modest Mouse,71
+2008-10,Pixies,19
+2008-10,Queens Of The Stone Age,0
+2008-10,Radiohead,0
+2008-10,The Desert Sessions,51
+2008-10,The Mars Volta,51
+2008-11,...And You Will Know Us By The Trail Of Dead,1
+2008-11,Air,0
+2008-11,Aphex Twin,0
+2008-11,Björk,8
+2008-11,Boards Of Canada,29
+2008-11,Clap Your Hands Say Yeah,1
+2008-11,Cocorosie,7
+2008-11,Cursive,0
+2008-11,Frank Black,0
+2008-11,Gentle Giant,0
+2008-11,Hella,3
+2008-11,Joanna Newsom,0
+2008-11,King Crimson,0
+2008-11,Man Or Astro-Man?,6
+2008-11,Modest Mouse,202
+2008-11,Pixies,13
+2008-11,Queens Of The Stone Age,89
+2008-11,Radiohead,2
+2008-11,The Desert Sessions,8
+2008-11,The Mars Volta,18
+2008-12,...And You Will Know Us By The Trail Of Dead,10
+2008-12,Air,4
+2008-12,Aphex Twin,79
+2008-12,Björk,3
+2008-12,Boards Of Canada,23
+2008-12,Clap Your Hands Say Yeah,0
+2008-12,Cocorosie,1
+2008-12,Cursive,5
+2008-12,Frank Black,0
+2008-12,Gentle Giant,83
+2008-12,Hella,94
+2008-12,Joanna Newsom,38
+2008-12,King Crimson,0
+2008-12,Man Or Astro-Man?,55
+2008-12,Modest Mouse,69
+2008-12,Pixies,47
+2008-12,Queens Of The Stone Age,170
+2008-12,Radiohead,19
+2008-12,The Desert Sessions,12
+2008-12,The Mars Volta,2
+2009-01,...And You Will Know Us By The Trail Of Dead,0
+2009-01,Air,8
+2009-01,Aphex Twin,20
+2009-01,Björk,8
+2009-01,Boards Of Canada,92
+2009-01,Clap Your Hands Say Yeah,0
+2009-01,Cocorosie,8
+2009-01,Cursive,12
+2009-01,Frank Black,38
+2009-01,Gentle Giant,10
+2009-01,Hella,0
+2009-01,Joanna Newsom,0
+2009-01,King Crimson,42
+2009-01,Man Or Astro-Man?,81
+2009-01,Modest Mouse,75
+2009-01,Pixies,4
+2009-01,Queens Of The Stone Age,0
+2009-01,Radiohead,0
+2009-01,The Desert Sessions,0
+2009-01,The Mars Volta,21
+2009-02,...And You Will Know Us By The Trail Of Dead,0
+2009-02,Air,0
+2009-02,Aphex Twin,3
+2009-02,Björk,0
+2009-02,Boards Of Canada,58
+2009-02,Clap Your Hands Say Yeah,0
+2009-02,Cocorosie,36
+2009-02,Cursive,9
+2009-02,Frank Black,0
+2009-02,Gentle Giant,0
+2009-02,Hella,32
+2009-02,Joanna Newsom,0
+2009-02,King Crimson,16
+2009-02,Man Or Astro-Man?,0
+2009-02,Modest Mouse,43
+2009-02,Pixies,0
+2009-02,Queens Of The Stone Age,0
+2009-02,Radiohead,0
+2009-02,The Desert Sessions,43
+2009-02,The Mars Volta,29
+2009-03,...And You Will Know Us By The Trail Of Dead,0
+2009-03,Air,0
+2009-03,Aphex Twin,0
+2009-03,Björk,0
+2009-03,Boards Of Canada,0
+2009-03,Clap Your Hands Say Yeah,0
+2009-03,Cocorosie,0
+2009-03,Cursive,0
+2009-03,Frank Black,0
+2009-03,Gentle Giant,0
+2009-03,Hella,0
+2009-03,Joanna Newsom,0
+2009-03,King Crimson,0
+2009-03,Man Or Astro-Man?,0
+2009-03,Modest Mouse,0
+2009-03,Pixies,0
+2009-03,Queens Of The Stone Age,0
+2009-03,Radiohead,0
+2009-03,The Desert Sessions,0
+2009-03,The Mars Volta,0
+2009-04,...And You Will Know Us By The Trail Of Dead,0
+2009-04,Air,0
+2009-04,Aphex Twin,1
+2009-04,Björk,0
+2009-04,Boards Of Canada,0
+2009-04,Clap Your Hands Say Yeah,0
+2009-04,Cocorosie,0
+2009-04,Cursive,7
+2009-04,Frank Black,0
+2009-04,Gentle Giant,0
+2009-04,Hella,0
+2009-04,Joanna Newsom,0
+2009-04,King Crimson,0
+2009-04,Man Or Astro-Man?,0
+2009-04,Modest Mouse,0
+2009-04,Pixies,0
+2009-04,Queens Of The Stone Age,0
+2009-04,Radiohead,0
+2009-04,The Desert Sessions,0
+2009-04,The Mars Volta,0
+2009-05,...And You Will Know Us By The Trail Of Dead,0
+2009-05,Air,0
+2009-05,Aphex Twin,0
+2009-05,Björk,0
+2009-05,Boards Of Canada,0
+2009-05,Clap Your Hands Say Yeah,0
+2009-05,Cocorosie,0
+2009-05,Cursive,0
+2009-05,Frank Black,0
+2009-05,Gentle Giant,0
+2009-05,Hella,0
+2009-05,Joanna Newsom,0
+2009-05,King Crimson,0
+2009-05,Man Or Astro-Man?,0
+2009-05,Modest Mouse,0
+2009-05,Pixies,19
+2009-05,Queens Of The Stone Age,0
+2009-05,Radiohead,0
+2009-05,The Desert Sessions,0
+2009-05,The Mars Volta,0

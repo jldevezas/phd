@@ -1,0 +1,781 @@
+month,artist,plays
+2006-04,A Perfect Circle,17
+2006-04,A Silver Mt. Zion,58
+2006-04,Alice In Chains,1
+2006-04,Blur,1
+2006-04,Boris,0
+2006-04,Bright Eyes,6
+2006-04,Coil,5
+2006-04,Current 93,30
+2006-04,Eels,8
+2006-04,Elliott Smith,7
+2006-04,Interpol,1
+2006-04,Lapko,81
+2006-04,My Dying Bride,20
+2006-04,Peaches,3
+2006-04,Placebo,6
+2006-04,Radiohead,2
+2006-04,Risto,30
+2006-04,Swans,66
+2006-04,Tool,107
+2006-04,Xiu Xiu,0
+2006-05,A Perfect Circle,1
+2006-05,A Silver Mt. Zion,3
+2006-05,Alice In Chains,0
+2006-05,Blur,1
+2006-05,Boris,0
+2006-05,Bright Eyes,3
+2006-05,Coil,10
+2006-05,Current 93,3
+2006-05,Eels,439
+2006-05,Elliott Smith,125
+2006-05,Interpol,0
+2006-05,Lapko,2
+2006-05,My Dying Bride,0
+2006-05,Peaches,2
+2006-05,Placebo,3
+2006-05,Radiohead,1
+2006-05,Risto,104
+2006-05,Swans,17
+2006-05,Tool,222
+2006-05,Xiu Xiu,53
+2006-06,A Perfect Circle,39
+2006-06,A Silver Mt. Zion,3
+2006-06,Alice In Chains,0
+2006-06,Blur,0
+2006-06,Boris,0
+2006-06,Bright Eyes,5
+2006-06,Coil,59
+2006-06,Current 93,0
+2006-06,Eels,10
+2006-06,Elliott Smith,10
+2006-06,Interpol,0
+2006-06,Lapko,0
+2006-06,My Dying Bride,0
+2006-06,Peaches,0
+2006-06,Placebo,0
+2006-06,Radiohead,3
+2006-06,Risto,9
+2006-06,Swans,1
+2006-06,Tool,24
+2006-06,Xiu Xiu,68
+2006-07,A Perfect Circle,12
+2006-07,A Silver Mt. Zion,7
+2006-07,Alice In Chains,1
+2006-07,Blur,1
+2006-07,Boris,0
+2006-07,Bright Eyes,6
+2006-07,Coil,11
+2006-07,Current 93,2
+2006-07,Eels,46
+2006-07,Elliott Smith,38
+2006-07,Interpol,1
+2006-07,Lapko,5
+2006-07,My Dying Bride,19
+2006-07,Peaches,6
+2006-07,Placebo,20
+2006-07,Radiohead,5
+2006-07,Risto,9
+2006-07,Swans,24
+2006-07,Tool,522
+2006-07,Xiu Xiu,14
+2006-08,A Perfect Circle,5
+2006-08,A Silver Mt. Zion,2
+2006-08,Alice In Chains,0
+2006-08,Blur,0
+2006-08,Boris,0
+2006-08,Bright Eyes,7
+2006-08,Coil,7
+2006-08,Current 93,2
+2006-08,Eels,16
+2006-08,Elliott Smith,28
+2006-08,Interpol,0
+2006-08,Lapko,5
+2006-08,My Dying Bride,6
+2006-08,Peaches,3
+2006-08,Placebo,2
+2006-08,Radiohead,4
+2006-08,Risto,47
+2006-08,Swans,8
+2006-08,Tool,19
+2006-08,Xiu Xiu,2
+2006-09,A Perfect Circle,0
+2006-09,A Silver Mt. Zion,0
+2006-09,Alice In Chains,0
+2006-09,Blur,0
+2006-09,Boris,0
+2006-09,Bright Eyes,0
+2006-09,Coil,0
+2006-09,Current 93,0
+2006-09,Eels,0
+2006-09,Elliott Smith,0
+2006-09,Interpol,1
+2006-09,Lapko,0
+2006-09,My Dying Bride,0
+2006-09,Peaches,0
+2006-09,Placebo,0
+2006-09,Radiohead,0
+2006-09,Risto,0
+2006-09,Swans,0
+2006-09,Tool,0
+2006-09,Xiu Xiu,0
+2006-10,A Perfect Circle,0
+2006-10,A Silver Mt. Zion,0
+2006-10,Alice In Chains,0
+2006-10,Blur,0
+2006-10,Boris,0
+2006-10,Bright Eyes,0
+2006-10,Coil,1
+2006-10,Current 93,0
+2006-10,Eels,0
+2006-10,Elliott Smith,22
+2006-10,Interpol,0
+2006-10,Lapko,44
+2006-10,My Dying Bride,0
+2006-10,Peaches,0
+2006-10,Placebo,0
+2006-10,Radiohead,0
+2006-10,Risto,54
+2006-10,Swans,0
+2006-10,Tool,0
+2006-10,Xiu Xiu,10
+2006-11,A Perfect Circle,15
+2006-11,A Silver Mt. Zion,2
+2006-11,Alice In Chains,5
+2006-11,Blur,2
+2006-11,Boris,1
+2006-11,Bright Eyes,4
+2006-11,Coil,13
+2006-11,Current 93,3
+2006-11,Eels,0
+2006-11,Elliott Smith,0
+2006-11,Interpol,1
+2006-11,Lapko,2
+2006-11,My Dying Bride,5
+2006-11,Peaches,0
+2006-11,Placebo,42
+2006-11,Radiohead,3
+2006-11,Risto,0
+2006-11,Swans,3
+2006-11,Tool,22
+2006-11,Xiu Xiu,5
+2006-12,A Perfect Circle,4
+2006-12,A Silver Mt. Zion,0
+2006-12,Alice In Chains,0
+2006-12,Blur,2
+2006-12,Boris,18
+2006-12,Bright Eyes,5
+2006-12,Coil,45
+2006-12,Current 93,0
+2006-12,Eels,2
+2006-12,Elliott Smith,0
+2006-12,Interpol,3
+2006-12,Lapko,23
+2006-12,My Dying Bride,0
+2006-12,Peaches,0
+2006-12,Placebo,14
+2006-12,Radiohead,84
+2006-12,Risto,0
+2006-12,Swans,1
+2006-12,Tool,11
+2006-12,Xiu Xiu,2
+2007-01,A Perfect Circle,3
+2007-01,A Silver Mt. Zion,24
+2007-01,Alice In Chains,0
+2007-01,Blur,0
+2007-01,Boris,11
+2007-01,Bright Eyes,0
+2007-01,Coil,0
+2007-01,Current 93,0
+2007-01,Eels,0
+2007-01,Elliott Smith,0
+2007-01,Interpol,2
+2007-01,Lapko,0
+2007-01,My Dying Bride,3
+2007-01,Peaches,0
+2007-01,Placebo,0
+2007-01,Radiohead,13
+2007-01,Risto,6
+2007-01,Swans,0
+2007-01,Tool,0
+2007-01,Xiu Xiu,6
+2007-02,A Perfect Circle,0
+2007-02,A Silver Mt. Zion,4
+2007-02,Alice In Chains,0
+2007-02,Blur,0
+2007-02,Boris,0
+2007-02,Bright Eyes,0
+2007-02,Coil,1
+2007-02,Current 93,9
+2007-02,Eels,13
+2007-02,Elliott Smith,0
+2007-02,Interpol,0
+2007-02,Lapko,1
+2007-02,My Dying Bride,0
+2007-02,Peaches,0
+2007-02,Placebo,5
+2007-02,Radiohead,1
+2007-02,Risto,62
+2007-02,Swans,0
+2007-02,Tool,0
+2007-02,Xiu Xiu,1
+2007-03,A Perfect Circle,1
+2007-03,A Silver Mt. Zion,2
+2007-03,Alice In Chains,0
+2007-03,Blur,0
+2007-03,Boris,0
+2007-03,Bright Eyes,50
+2007-03,Coil,12
+2007-03,Current 93,0
+2007-03,Eels,0
+2007-03,Elliott Smith,2
+2007-03,Interpol,2
+2007-03,Lapko,0
+2007-03,My Dying Bride,6
+2007-03,Peaches,0
+2007-03,Placebo,5
+2007-03,Radiohead,4
+2007-03,Risto,7
+2007-03,Swans,1
+2007-03,Tool,3
+2007-03,Xiu Xiu,3
+2007-04,A Perfect Circle,0
+2007-04,A Silver Mt. Zion,0
+2007-04,Alice In Chains,0
+2007-04,Blur,0
+2007-04,Boris,0
+2007-04,Bright Eyes,0
+2007-04,Coil,5
+2007-04,Current 93,0
+2007-04,Eels,0
+2007-04,Elliott Smith,0
+2007-04,Interpol,0
+2007-04,Lapko,0
+2007-04,My Dying Bride,0
+2007-04,Peaches,0
+2007-04,Placebo,0
+2007-04,Radiohead,0
+2007-04,Risto,0
+2007-04,Swans,0
+2007-04,Tool,0
+2007-04,Xiu Xiu,0
+2007-05,A Perfect Circle,0
+2007-05,A Silver Mt. Zion,0
+2007-05,Alice In Chains,0
+2007-05,Blur,0
+2007-05,Boris,1
+2007-05,Bright Eyes,2
+2007-05,Coil,0
+2007-05,Current 93,0
+2007-05,Eels,1
+2007-05,Elliott Smith,3
+2007-05,Interpol,11
+2007-05,Lapko,26
+2007-05,My Dying Bride,0
+2007-05,Peaches,0
+2007-05,Placebo,2
+2007-05,Radiohead,1
+2007-05,Risto,0
+2007-05,Swans,0
+2007-05,Tool,0
+2007-05,Xiu Xiu,6
+2007-06,A Perfect Circle,0
+2007-06,A Silver Mt. Zion,0
+2007-06,Alice In Chains,0
+2007-06,Blur,0
+2007-06,Boris,0
+2007-06,Bright Eyes,0
+2007-06,Coil,0
+2007-06,Current 93,0
+2007-06,Eels,0
+2007-06,Elliott Smith,0
+2007-06,Interpol,0
+2007-06,Lapko,0
+2007-06,My Dying Bride,0
+2007-06,Peaches,0
+2007-06,Placebo,0
+2007-06,Radiohead,0
+2007-06,Risto,0
+2007-06,Swans,0
+2007-06,Tool,0
+2007-06,Xiu Xiu,9
+2007-07,A Perfect Circle,0
+2007-07,A Silver Mt. Zion,0
+2007-07,Alice In Chains,0
+2007-07,Blur,0
+2007-07,Boris,0
+2007-07,Bright Eyes,1
+2007-07,Coil,0
+2007-07,Current 93,0
+2007-07,Eels,0
+2007-07,Elliott Smith,0
+2007-07,Interpol,31
+2007-07,Lapko,7
+2007-07,My Dying Bride,0
+2007-07,Peaches,41
+2007-07,Placebo,0
+2007-07,Radiohead,0
+2007-07,Risto,0
+2007-07,Swans,0
+2007-07,Tool,0
+2007-07,Xiu Xiu,28
+2007-08,A Perfect Circle,0
+2007-08,A Silver Mt. Zion,0
+2007-08,Alice In Chains,0
+2007-08,Blur,0
+2007-08,Boris,0
+2007-08,Bright Eyes,0
+2007-08,Coil,0
+2007-08,Current 93,0
+2007-08,Eels,0
+2007-08,Elliott Smith,0
+2007-08,Interpol,44
+2007-08,Lapko,0
+2007-08,My Dying Bride,0
+2007-08,Peaches,9
+2007-08,Placebo,0
+2007-08,Radiohead,0
+2007-08,Risto,0
+2007-08,Swans,0
+2007-08,Tool,0
+2007-08,Xiu Xiu,0
+2007-09,A Perfect Circle,0
+2007-09,A Silver Mt. Zion,0
+2007-09,Alice In Chains,1
+2007-09,Blur,0
+2007-09,Boris,36
+2007-09,Bright Eyes,0
+2007-09,Coil,1
+2007-09,Current 93,0
+2007-09,Eels,0
+2007-09,Elliott Smith,0
+2007-09,Interpol,0
+2007-09,Lapko,0
+2007-09,My Dying Bride,0
+2007-09,Peaches,0
+2007-09,Placebo,0
+2007-09,Radiohead,0
+2007-09,Risto,0
+2007-09,Swans,0
+2007-09,Tool,2
+2007-09,Xiu Xiu,157
+2007-10,A Perfect Circle,0
+2007-10,A Silver Mt. Zion,0
+2007-10,Alice In Chains,0
+2007-10,Blur,0
+2007-10,Boris,0
+2007-10,Bright Eyes,0
+2007-10,Coil,0
+2007-10,Current 93,0
+2007-10,Eels,0
+2007-10,Elliott Smith,0
+2007-10,Interpol,0
+2007-10,Lapko,0
+2007-10,My Dying Bride,0
+2007-10,Peaches,0
+2007-10,Placebo,0
+2007-10,Radiohead,0
+2007-10,Risto,0
+2007-10,Swans,0
+2007-10,Tool,0
+2007-10,Xiu Xiu,0
+2007-11,A Perfect Circle,0
+2007-11,A Silver Mt. Zion,0
+2007-11,Alice In Chains,0
+2007-11,Blur,0
+2007-11,Boris,14
+2007-11,Bright Eyes,0
+2007-11,Coil,1
+2007-11,Current 93,0
+2007-11,Eels,0
+2007-11,Elliott Smith,0
+2007-11,Interpol,3
+2007-11,Lapko,0
+2007-11,My Dying Bride,0
+2007-11,Peaches,0
+2007-11,Placebo,0
+2007-11,Radiohead,23
+2007-11,Risto,0
+2007-11,Swans,0
+2007-11,Tool,0
+2007-11,Xiu Xiu,9
+2007-12,A Perfect Circle,0
+2007-12,A Silver Mt. Zion,0
+2007-12,Alice In Chains,10
+2007-12,Blur,0
+2007-12,Boris,1
+2007-12,Bright Eyes,18
+2007-12,Coil,0
+2007-12,Current 93,0
+2007-12,Eels,0
+2007-12,Elliott Smith,0
+2007-12,Interpol,20
+2007-12,Lapko,0
+2007-12,My Dying Bride,0
+2007-12,Peaches,13
+2007-12,Placebo,2
+2007-12,Radiohead,0
+2007-12,Risto,0
+2007-12,Swans,0
+2007-12,Tool,2
+2007-12,Xiu Xiu,22
+2008-01,A Perfect Circle,0
+2008-01,A Silver Mt. Zion,7
+2008-01,Alice In Chains,1
+2008-01,Blur,1
+2008-01,Boris,4
+2008-01,Bright Eyes,19
+2008-01,Coil,23
+2008-01,Current 93,6
+2008-01,Eels,0
+2008-01,Elliott Smith,0
+2008-01,Interpol,9
+2008-01,Lapko,0
+2008-01,My Dying Bride,1
+2008-01,Peaches,13
+2008-01,Placebo,2
+2008-01,Radiohead,34
+2008-01,Risto,0
+2008-01,Swans,2
+2008-01,Tool,17
+2008-01,Xiu Xiu,74
+2008-02,A Perfect Circle,0
+2008-02,A Silver Mt. Zion,0
+2008-02,Alice In Chains,7
+2008-02,Blur,0
+2008-02,Boris,0
+2008-02,Bright Eyes,0
+2008-02,Coil,1
+2008-02,Current 93,0
+2008-02,Eels,0
+2008-02,Elliott Smith,0
+2008-02,Interpol,15
+2008-02,Lapko,0
+2008-02,My Dying Bride,0
+2008-02,Peaches,0
+2008-02,Placebo,0
+2008-02,Radiohead,2
+2008-02,Risto,0
+2008-02,Swans,0
+2008-02,Tool,0
+2008-02,Xiu Xiu,0
+2008-03,A Perfect Circle,0
+2008-03,A Silver Mt. Zion,5
+2008-03,Alice In Chains,0
+2008-03,Blur,0
+2008-03,Boris,0
+2008-03,Bright Eyes,0
+2008-03,Coil,0
+2008-03,Current 93,0
+2008-03,Eels,0
+2008-03,Elliott Smith,0
+2008-03,Interpol,0
+2008-03,Lapko,0
+2008-03,My Dying Bride,0
+2008-03,Peaches,0
+2008-03,Placebo,0
+2008-03,Radiohead,0
+2008-03,Risto,0
+2008-03,Swans,0
+2008-03,Tool,0
+2008-03,Xiu Xiu,0
+2008-04,A Perfect Circle,0
+2008-04,A Silver Mt. Zion,0
+2008-04,Alice In Chains,0
+2008-04,Blur,0
+2008-04,Boris,0
+2008-04,Bright Eyes,0
+2008-04,Coil,9
+2008-04,Current 93,0
+2008-04,Eels,0
+2008-04,Elliott Smith,0
+2008-04,Interpol,0
+2008-04,Lapko,0
+2008-04,My Dying Bride,0
+2008-04,Peaches,0
+2008-04,Placebo,0
+2008-04,Radiohead,0
+2008-04,Risto,0
+2008-04,Swans,0
+2008-04,Tool,0
+2008-04,Xiu Xiu,9
+2008-05,A Perfect Circle,0
+2008-05,A Silver Mt. Zion,0
+2008-05,Alice In Chains,0
+2008-05,Blur,0
+2008-05,Boris,0
+2008-05,Bright Eyes,0
+2008-05,Coil,0
+2008-05,Current 93,0
+2008-05,Eels,0
+2008-05,Elliott Smith,0
+2008-05,Interpol,0
+2008-05,Lapko,0
+2008-05,My Dying Bride,0
+2008-05,Peaches,0
+2008-05,Placebo,0
+2008-05,Radiohead,0
+2008-05,Risto,0
+2008-05,Swans,0
+2008-05,Tool,0
+2008-05,Xiu Xiu,0
+2008-06,A Perfect Circle,0
+2008-06,A Silver Mt. Zion,0
+2008-06,Alice In Chains,0
+2008-06,Blur,0
+2008-06,Boris,0
+2008-06,Bright Eyes,0
+2008-06,Coil,0
+2008-06,Current 93,0
+2008-06,Eels,0
+2008-06,Elliott Smith,0
+2008-06,Interpol,0
+2008-06,Lapko,0
+2008-06,My Dying Bride,0
+2008-06,Peaches,0
+2008-06,Placebo,0
+2008-06,Radiohead,0
+2008-06,Risto,0
+2008-06,Swans,0
+2008-06,Tool,0
+2008-06,Xiu Xiu,0
+2008-07,A Perfect Circle,0
+2008-07,A Silver Mt. Zion,0
+2008-07,Alice In Chains,0
+2008-07,Blur,0
+2008-07,Boris,0
+2008-07,Bright Eyes,0
+2008-07,Coil,0
+2008-07,Current 93,0
+2008-07,Eels,0
+2008-07,Elliott Smith,0
+2008-07,Interpol,0
+2008-07,Lapko,0
+2008-07,My Dying Bride,0
+2008-07,Peaches,0
+2008-07,Placebo,0
+2008-07,Radiohead,0
+2008-07,Risto,0
+2008-07,Swans,0
+2008-07,Tool,0
+2008-07,Xiu Xiu,0
+2008-08,A Perfect Circle,0
+2008-08,A Silver Mt. Zion,0
+2008-08,Alice In Chains,0
+2008-08,Blur,0
+2008-08,Boris,0
+2008-08,Bright Eyes,0
+2008-08,Coil,0
+2008-08,Current 93,0
+2008-08,Eels,0
+2008-08,Elliott Smith,0
+2008-08,Interpol,0
+2008-08,Lapko,0
+2008-08,My Dying Bride,0
+2008-08,Peaches,0
+2008-08,Placebo,0
+2008-08,Radiohead,0
+2008-08,Risto,0
+2008-08,Swans,0
+2008-08,Tool,0
+2008-08,Xiu Xiu,0
+2008-09,A Perfect Circle,0
+2008-09,A Silver Mt. Zion,0
+2008-09,Alice In Chains,0
+2008-09,Blur,0
+2008-09,Boris,0
+2008-09,Bright Eyes,0
+2008-09,Coil,0
+2008-09,Current 93,0
+2008-09,Eels,0
+2008-09,Elliott Smith,0
+2008-09,Interpol,0
+2008-09,Lapko,0
+2008-09,My Dying Bride,0
+2008-09,Peaches,0
+2008-09,Placebo,0
+2008-09,Radiohead,0
+2008-09,Risto,0
+2008-09,Swans,0
+2008-09,Tool,0
+2008-09,Xiu Xiu,0
+2008-10,A Perfect Circle,0
+2008-10,A Silver Mt. Zion,2
+2008-10,Alice In Chains,0
+2008-10,Blur,0
+2008-10,Boris,1
+2008-10,Bright Eyes,0
+2008-10,Coil,0
+2008-10,Current 93,0
+2008-10,Eels,0
+2008-10,Elliott Smith,0
+2008-10,Interpol,0
+2008-10,Lapko,0
+2008-10,My Dying Bride,0
+2008-10,Peaches,0
+2008-10,Placebo,0
+2008-10,Radiohead,0
+2008-10,Risto,0
+2008-10,Swans,0
+2008-10,Tool,0
+2008-10,Xiu Xiu,0
+2008-11,A Perfect Circle,0
+2008-11,A Silver Mt. Zion,0
+2008-11,Alice In Chains,0
+2008-11,Blur,0
+2008-11,Boris,0
+2008-11,Bright Eyes,0
+2008-11,Coil,0
+2008-11,Current 93,0
+2008-11,Eels,0
+2008-11,Elliott Smith,0
+2008-11,Interpol,0
+2008-11,Lapko,0
+2008-11,My Dying Bride,0
+2008-11,Peaches,0
+2008-11,Placebo,0
+2008-11,Radiohead,0
+2008-11,Risto,0
+2008-11,Swans,0
+2008-11,Tool,0
+2008-11,Xiu Xiu,1
+2008-12,A Perfect Circle,0
+2008-12,A Silver Mt. Zion,0
+2008-12,Alice In Chains,0
+2008-12,Blur,0
+2008-12,Boris,0
+2008-12,Bright Eyes,0
+2008-12,Coil,0
+2008-12,Current 93,0
+2008-12,Eels,0
+2008-12,Elliott Smith,0
+2008-12,Interpol,0
+2008-12,Lapko,0
+2008-12,My Dying Bride,0
+2008-12,Peaches,0
+2008-12,Placebo,0
+2008-12,Radiohead,0
+2008-12,Risto,0
+2008-12,Swans,0
+2008-12,Tool,0
+2008-12,Xiu Xiu,0
+2009-01,A Perfect Circle,3
+2009-01,A Silver Mt. Zion,2
+2009-01,Alice In Chains,6
+2009-01,Blur,3
+2009-01,Boris,3
+2009-01,Bright Eyes,1
+2009-01,Coil,9
+2009-01,Current 93,0
+2009-01,Eels,4
+2009-01,Elliott Smith,1
+2009-01,Interpol,5
+2009-01,Lapko,3
+2009-01,My Dying Bride,22
+2009-01,Peaches,0
+2009-01,Placebo,2
+2009-01,Radiohead,7
+2009-01,Risto,0
+2009-01,Swans,1
+2009-01,Tool,10
+2009-01,Xiu Xiu,7
+2009-02,A Perfect Circle,6
+2009-02,A Silver Mt. Zion,8
+2009-02,Alice In Chains,6
+2009-02,Blur,4
+2009-02,Boris,3
+2009-02,Bright Eyes,4
+2009-02,Coil,16
+2009-02,Current 93,6
+2009-02,Eels,16
+2009-02,Elliott Smith,7
+2009-02,Interpol,21
+2009-02,Lapko,18
+2009-02,My Dying Bride,11
+2009-02,Peaches,0
+2009-02,Placebo,11
+2009-02,Radiohead,12
+2009-02,Risto,0
+2009-02,Swans,1
+2009-02,Tool,19
+2009-02,Xiu Xiu,17
+2009-03,A Perfect Circle,2
+2009-03,A Silver Mt. Zion,3
+2009-03,Alice In Chains,4
+2009-03,Blur,1
+2009-03,Boris,0
+2009-03,Bright Eyes,3
+2009-03,Coil,1
+2009-03,Current 93,2
+2009-03,Eels,23
+2009-03,Elliott Smith,1
+2009-03,Interpol,2
+2009-03,Lapko,6
+2009-03,My Dying Bride,9
+2009-03,Peaches,17
+2009-03,Placebo,3
+2009-03,Radiohead,4
+2009-03,Risto,0
+2009-03,Swans,1
+2009-03,Tool,7
+2009-03,Xiu Xiu,3
+2009-04,A Perfect Circle,0
+2009-04,A Silver Mt. Zion,0
+2009-04,Alice In Chains,1
+2009-04,Blur,3
+2009-04,Boris,0
+2009-04,Bright Eyes,3
+2009-04,Coil,0
+2009-04,Current 93,0
+2009-04,Eels,0
+2009-04,Elliott Smith,7
+2009-04,Interpol,3
+2009-04,Lapko,0
+2009-04,My Dying Bride,12
+2009-04,Peaches,29
+2009-04,Placebo,4
+2009-04,Radiohead,0
+2009-04,Risto,8
+2009-04,Swans,0
+2009-04,Tool,0
+2009-04,Xiu Xiu,0
+2009-05,A Perfect Circle,6
+2009-05,A Silver Mt. Zion,0
+2009-05,Alice In Chains,0
+2009-05,Blur,6
+2009-05,Boris,0
+2009-05,Bright Eyes,29
+2009-05,Coil,0
+2009-05,Current 93,4
+2009-05,Eels,20
+2009-05,Elliott Smith,15
+2009-05,Interpol,46
+2009-05,Lapko,0
+2009-05,My Dying Bride,2
+2009-05,Peaches,10
+2009-05,Placebo,11
+2009-05,Radiohead,2
+2009-05,Risto,10
+2009-05,Swans,5
+2009-05,Tool,0
+2009-05,Xiu Xiu,0
+2009-06,A Perfect Circle,6
+2009-06,A Silver Mt. Zion,0
+2009-06,Alice In Chains,0
+2009-06,Blur,2
+2009-06,Boris,0
+2009-06,Bright Eyes,11
+2009-06,Coil,0
+2009-06,Current 93,4
+2009-06,Eels,14
+2009-06,Elliott Smith,11
+2009-06,Interpol,5
+2009-06,Lapko,0
+2009-06,My Dying Bride,5
+2009-06,Peaches,4
+2009-06,Placebo,15
+2009-06,Radiohead,5
+2009-06,Risto,6
+2009-06,Swans,13
+2009-06,Tool,0
+2009-06,Xiu Xiu,0

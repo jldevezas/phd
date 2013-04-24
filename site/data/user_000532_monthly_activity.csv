@@ -1,0 +1,621 @@
+month,artist,plays
+2006-12,Ac/Dc,515
+2006-12,Aerosmith,7
+2006-12,Billy Idol,19
+2006-12,Bruce Springsteen,58
+2006-12,George Thorogood,9
+2006-12,George Thorogood & The Destroyers,44
+2006-12,Guy Clark,151
+2006-12,Ilse Delange,6
+2006-12,Jimmy Page & The Black Crowes,144
+2006-12,John Fogerty,23
+2006-12,John Hiatt,273
+2006-12,Johnny Cash,7
+2006-12,Lucinda Williams,41
+2006-12,Metallica,11
+2006-12,Paul Simon,10
+2006-12,Pearl Jam,339
+2006-12,Pink Floyd,319
+2006-12,The Black Crowes,13
+2006-12,U2,19
+2006-12,Wolfmother,133
+2007-01,Ac/Dc,199
+2007-01,Aerosmith,3
+2007-01,Billy Idol,8
+2007-01,Bruce Springsteen,112
+2007-01,George Thorogood,2
+2007-01,George Thorogood & The Destroyers,14
+2007-01,Guy Clark,164
+2007-01,Ilse Delange,4
+2007-01,Jimmy Page & The Black Crowes,29
+2007-01,John Fogerty,14
+2007-01,John Hiatt,35
+2007-01,Johnny Cash,17
+2007-01,Lucinda Williams,14
+2007-01,Metallica,4
+2007-01,Paul Simon,3
+2007-01,Pearl Jam,343
+2007-01,Pink Floyd,82
+2007-01,The Black Crowes,6
+2007-01,U2,9
+2007-01,Wolfmother,24
+2007-02,Ac/Dc,0
+2007-02,Aerosmith,0
+2007-02,Billy Idol,0
+2007-02,Bruce Springsteen,0
+2007-02,George Thorogood,0
+2007-02,George Thorogood & The Destroyers,0
+2007-02,Guy Clark,0
+2007-02,Ilse Delange,0
+2007-02,Jimmy Page & The Black Crowes,0
+2007-02,John Fogerty,0
+2007-02,John Hiatt,0
+2007-02,Johnny Cash,0
+2007-02,Lucinda Williams,0
+2007-02,Metallica,0
+2007-02,Paul Simon,0
+2007-02,Pearl Jam,0
+2007-02,Pink Floyd,0
+2007-02,The Black Crowes,0
+2007-02,U2,0
+2007-02,Wolfmother,0
+2007-03,Ac/Dc,0
+2007-03,Aerosmith,0
+2007-03,Billy Idol,0
+2007-03,Bruce Springsteen,1
+2007-03,George Thorogood,0
+2007-03,George Thorogood & The Destroyers,0
+2007-03,Guy Clark,0
+2007-03,Ilse Delange,0
+2007-03,Jimmy Page & The Black Crowes,0
+2007-03,John Fogerty,0
+2007-03,John Hiatt,0
+2007-03,Johnny Cash,0
+2007-03,Lucinda Williams,1
+2007-03,Metallica,0
+2007-03,Paul Simon,0
+2007-03,Pearl Jam,0
+2007-03,Pink Floyd,0
+2007-03,The Black Crowes,0
+2007-03,U2,1
+2007-03,Wolfmother,0
+2007-04,Ac/Dc,0
+2007-04,Aerosmith,0
+2007-04,Billy Idol,0
+2007-04,Bruce Springsteen,0
+2007-04,George Thorogood,0
+2007-04,George Thorogood & The Destroyers,0
+2007-04,Guy Clark,0
+2007-04,Ilse Delange,0
+2007-04,Jimmy Page & The Black Crowes,0
+2007-04,John Fogerty,0
+2007-04,John Hiatt,0
+2007-04,Johnny Cash,0
+2007-04,Lucinda Williams,0
+2007-04,Metallica,0
+2007-04,Paul Simon,0
+2007-04,Pearl Jam,0
+2007-04,Pink Floyd,0
+2007-04,The Black Crowes,0
+2007-04,U2,0
+2007-04,Wolfmother,0
+2007-05,Ac/Dc,0
+2007-05,Aerosmith,0
+2007-05,Billy Idol,0
+2007-05,Bruce Springsteen,0
+2007-05,George Thorogood,0
+2007-05,George Thorogood & The Destroyers,0
+2007-05,Guy Clark,0
+2007-05,Ilse Delange,0
+2007-05,Jimmy Page & The Black Crowes,0
+2007-05,John Fogerty,0
+2007-05,John Hiatt,0
+2007-05,Johnny Cash,0
+2007-05,Lucinda Williams,0
+2007-05,Metallica,0
+2007-05,Paul Simon,0
+2007-05,Pearl Jam,0
+2007-05,Pink Floyd,0
+2007-05,The Black Crowes,0
+2007-05,U2,0
+2007-05,Wolfmother,0
+2007-06,Ac/Dc,0
+2007-06,Aerosmith,0
+2007-06,Billy Idol,0
+2007-06,Bruce Springsteen,0
+2007-06,George Thorogood,0
+2007-06,George Thorogood & The Destroyers,0
+2007-06,Guy Clark,0
+2007-06,Ilse Delange,0
+2007-06,Jimmy Page & The Black Crowes,0
+2007-06,John Fogerty,0
+2007-06,John Hiatt,0
+2007-06,Johnny Cash,0
+2007-06,Lucinda Williams,0
+2007-06,Metallica,0
+2007-06,Paul Simon,0
+2007-06,Pearl Jam,0
+2007-06,Pink Floyd,0
+2007-06,The Black Crowes,0
+2007-06,U2,0
+2007-06,Wolfmother,0
+2007-07,Ac/Dc,0
+2007-07,Aerosmith,0
+2007-07,Billy Idol,0
+2007-07,Bruce Springsteen,0
+2007-07,George Thorogood,0
+2007-07,George Thorogood & The Destroyers,0
+2007-07,Guy Clark,0
+2007-07,Ilse Delange,0
+2007-07,Jimmy Page & The Black Crowes,0
+2007-07,John Fogerty,0
+2007-07,John Hiatt,0
+2007-07,Johnny Cash,0
+2007-07,Lucinda Williams,0
+2007-07,Metallica,0
+2007-07,Paul Simon,0
+2007-07,Pearl Jam,0
+2007-07,Pink Floyd,0
+2007-07,The Black Crowes,0
+2007-07,U2,0
+2007-07,Wolfmother,0
+2007-08,Ac/Dc,0
+2007-08,Aerosmith,0
+2007-08,Billy Idol,0
+2007-08,Bruce Springsteen,0
+2007-08,George Thorogood,0
+2007-08,George Thorogood & The Destroyers,0
+2007-08,Guy Clark,0
+2007-08,Ilse Delange,0
+2007-08,Jimmy Page & The Black Crowes,0
+2007-08,John Fogerty,0
+2007-08,John Hiatt,0
+2007-08,Johnny Cash,0
+2007-08,Lucinda Williams,0
+2007-08,Metallica,0
+2007-08,Paul Simon,0
+2007-08,Pearl Jam,0
+2007-08,Pink Floyd,0
+2007-08,The Black Crowes,0
+2007-08,U2,0
+2007-08,Wolfmother,0
+2007-09,Ac/Dc,0
+2007-09,Aerosmith,0
+2007-09,Billy Idol,0
+2007-09,Bruce Springsteen,0
+2007-09,George Thorogood,0
+2007-09,George Thorogood & The Destroyers,0
+2007-09,Guy Clark,0
+2007-09,Ilse Delange,0
+2007-09,Jimmy Page & The Black Crowes,0
+2007-09,John Fogerty,0
+2007-09,John Hiatt,0
+2007-09,Johnny Cash,0
+2007-09,Lucinda Williams,0
+2007-09,Metallica,0
+2007-09,Paul Simon,0
+2007-09,Pearl Jam,0
+2007-09,Pink Floyd,0
+2007-09,The Black Crowes,0
+2007-09,U2,0
+2007-09,Wolfmother,0
+2007-10,Ac/Dc,0
+2007-10,Aerosmith,0
+2007-10,Billy Idol,0
+2007-10,Bruce Springsteen,0
+2007-10,George Thorogood,0
+2007-10,George Thorogood & The Destroyers,0
+2007-10,Guy Clark,0
+2007-10,Ilse Delange,0
+2007-10,Jimmy Page & The Black Crowes,0
+2007-10,John Fogerty,0
+2007-10,John Hiatt,0
+2007-10,Johnny Cash,0
+2007-10,Lucinda Williams,0
+2007-10,Metallica,0
+2007-10,Paul Simon,0
+2007-10,Pearl Jam,0
+2007-10,Pink Floyd,0
+2007-10,The Black Crowes,0
+2007-10,U2,0
+2007-10,Wolfmother,0
+2007-11,Ac/Dc,0
+2007-11,Aerosmith,0
+2007-11,Billy Idol,0
+2007-11,Bruce Springsteen,0
+2007-11,George Thorogood,0
+2007-11,George Thorogood & The Destroyers,0
+2007-11,Guy Clark,0
+2007-11,Ilse Delange,0
+2007-11,Jimmy Page & The Black Crowes,0
+2007-11,John Fogerty,0
+2007-11,John Hiatt,0
+2007-11,Johnny Cash,0
+2007-11,Lucinda Williams,0
+2007-11,Metallica,0
+2007-11,Paul Simon,0
+2007-11,Pearl Jam,0
+2007-11,Pink Floyd,0
+2007-11,The Black Crowes,0
+2007-11,U2,0
+2007-11,Wolfmother,0
+2007-12,Ac/Dc,0
+2007-12,Aerosmith,0
+2007-12,Billy Idol,0
+2007-12,Bruce Springsteen,0
+2007-12,George Thorogood,0
+2007-12,George Thorogood & The Destroyers,0
+2007-12,Guy Clark,0
+2007-12,Ilse Delange,0
+2007-12,Jimmy Page & The Black Crowes,0
+2007-12,John Fogerty,0
+2007-12,John Hiatt,0
+2007-12,Johnny Cash,0
+2007-12,Lucinda Williams,0
+2007-12,Metallica,0
+2007-12,Paul Simon,0
+2007-12,Pearl Jam,0
+2007-12,Pink Floyd,0
+2007-12,The Black Crowes,0
+2007-12,U2,0
+2007-12,Wolfmother,0
+2008-01,Ac/Dc,0
+2008-01,Aerosmith,0
+2008-01,Billy Idol,0
+2008-01,Bruce Springsteen,0
+2008-01,George Thorogood,0
+2008-01,George Thorogood & The Destroyers,0
+2008-01,Guy Clark,0
+2008-01,Ilse Delange,0
+2008-01,Jimmy Page & The Black Crowes,0
+2008-01,John Fogerty,0
+2008-01,John Hiatt,0
+2008-01,Johnny Cash,0
+2008-01,Lucinda Williams,0
+2008-01,Metallica,0
+2008-01,Paul Simon,0
+2008-01,Pearl Jam,0
+2008-01,Pink Floyd,0
+2008-01,The Black Crowes,0
+2008-01,U2,0
+2008-01,Wolfmother,0
+2008-02,Ac/Dc,0
+2008-02,Aerosmith,0
+2008-02,Billy Idol,0
+2008-02,Bruce Springsteen,0
+2008-02,George Thorogood,0
+2008-02,George Thorogood & The Destroyers,0
+2008-02,Guy Clark,0
+2008-02,Ilse Delange,0
+2008-02,Jimmy Page & The Black Crowes,0
+2008-02,John Fogerty,0
+2008-02,John Hiatt,0
+2008-02,Johnny Cash,0
+2008-02,Lucinda Williams,0
+2008-02,Metallica,0
+2008-02,Paul Simon,0
+2008-02,Pearl Jam,0
+2008-02,Pink Floyd,0
+2008-02,The Black Crowes,0
+2008-02,U2,0
+2008-02,Wolfmother,0
+2008-03,Ac/Dc,0
+2008-03,Aerosmith,0
+2008-03,Billy Idol,0
+2008-03,Bruce Springsteen,0
+2008-03,George Thorogood,0
+2008-03,George Thorogood & The Destroyers,0
+2008-03,Guy Clark,0
+2008-03,Ilse Delange,0
+2008-03,Jimmy Page & The Black Crowes,0
+2008-03,John Fogerty,0
+2008-03,John Hiatt,0
+2008-03,Johnny Cash,0
+2008-03,Lucinda Williams,0
+2008-03,Metallica,0
+2008-03,Paul Simon,0
+2008-03,Pearl Jam,0
+2008-03,Pink Floyd,0
+2008-03,The Black Crowes,0
+2008-03,U2,0
+2008-03,Wolfmother,0
+2008-04,Ac/Dc,0
+2008-04,Aerosmith,0
+2008-04,Billy Idol,0
+2008-04,Bruce Springsteen,0
+2008-04,George Thorogood,0
+2008-04,George Thorogood & The Destroyers,0
+2008-04,Guy Clark,0
+2008-04,Ilse Delange,0
+2008-04,Jimmy Page & The Black Crowes,0
+2008-04,John Fogerty,0
+2008-04,John Hiatt,0
+2008-04,Johnny Cash,0
+2008-04,Lucinda Williams,0
+2008-04,Metallica,0
+2008-04,Paul Simon,0
+2008-04,Pearl Jam,0
+2008-04,Pink Floyd,0
+2008-04,The Black Crowes,0
+2008-04,U2,0
+2008-04,Wolfmother,0
+2008-05,Ac/Dc,0
+2008-05,Aerosmith,0
+2008-05,Billy Idol,0
+2008-05,Bruce Springsteen,0
+2008-05,George Thorogood,0
+2008-05,George Thorogood & The Destroyers,0
+2008-05,Guy Clark,0
+2008-05,Ilse Delange,0
+2008-05,Jimmy Page & The Black Crowes,0
+2008-05,John Fogerty,0
+2008-05,John Hiatt,0
+2008-05,Johnny Cash,0
+2008-05,Lucinda Williams,0
+2008-05,Metallica,0
+2008-05,Paul Simon,0
+2008-05,Pearl Jam,0
+2008-05,Pink Floyd,0
+2008-05,The Black Crowes,0
+2008-05,U2,0
+2008-05,Wolfmother,0
+2008-06,Ac/Dc,0
+2008-06,Aerosmith,0
+2008-06,Billy Idol,0
+2008-06,Bruce Springsteen,0
+2008-06,George Thorogood,0
+2008-06,George Thorogood & The Destroyers,0
+2008-06,Guy Clark,0
+2008-06,Ilse Delange,0
+2008-06,Jimmy Page & The Black Crowes,0
+2008-06,John Fogerty,0
+2008-06,John Hiatt,0
+2008-06,Johnny Cash,0
+2008-06,Lucinda Williams,0
+2008-06,Metallica,0
+2008-06,Paul Simon,0
+2008-06,Pearl Jam,0
+2008-06,Pink Floyd,0
+2008-06,The Black Crowes,0
+2008-06,U2,0
+2008-06,Wolfmother,0
+2008-07,Ac/Dc,0
+2008-07,Aerosmith,0
+2008-07,Billy Idol,0
+2008-07,Bruce Springsteen,0
+2008-07,George Thorogood,0
+2008-07,George Thorogood & The Destroyers,0
+2008-07,Guy Clark,0
+2008-07,Ilse Delange,0
+2008-07,Jimmy Page & The Black Crowes,0
+2008-07,John Fogerty,0
+2008-07,John Hiatt,0
+2008-07,Johnny Cash,0
+2008-07,Lucinda Williams,0
+2008-07,Metallica,0
+2008-07,Paul Simon,0
+2008-07,Pearl Jam,0
+2008-07,Pink Floyd,0
+2008-07,The Black Crowes,0
+2008-07,U2,0
+2008-07,Wolfmother,0
+2008-08,Ac/Dc,0
+2008-08,Aerosmith,0
+2008-08,Billy Idol,0
+2008-08,Bruce Springsteen,0
+2008-08,George Thorogood,0
+2008-08,George Thorogood & The Destroyers,0
+2008-08,Guy Clark,0
+2008-08,Ilse Delange,0
+2008-08,Jimmy Page & The Black Crowes,0
+2008-08,John Fogerty,0
+2008-08,John Hiatt,0
+2008-08,Johnny Cash,0
+2008-08,Lucinda Williams,0
+2008-08,Metallica,0
+2008-08,Paul Simon,0
+2008-08,Pearl Jam,0
+2008-08,Pink Floyd,0
+2008-08,The Black Crowes,0
+2008-08,U2,0
+2008-08,Wolfmother,0
+2008-09,Ac/Dc,0
+2008-09,Aerosmith,0
+2008-09,Billy Idol,0
+2008-09,Bruce Springsteen,0
+2008-09,George Thorogood,0
+2008-09,George Thorogood & The Destroyers,0
+2008-09,Guy Clark,0
+2008-09,Ilse Delange,0
+2008-09,Jimmy Page & The Black Crowes,0
+2008-09,John Fogerty,0
+2008-09,John Hiatt,0
+2008-09,Johnny Cash,0
+2008-09,Lucinda Williams,0
+2008-09,Metallica,0
+2008-09,Paul Simon,0
+2008-09,Pearl Jam,0
+2008-09,Pink Floyd,0
+2008-09,The Black Crowes,0
+2008-09,U2,0
+2008-09,Wolfmother,0
+2008-10,Ac/Dc,0
+2008-10,Aerosmith,0
+2008-10,Billy Idol,0
+2008-10,Bruce Springsteen,0
+2008-10,George Thorogood,0
+2008-10,George Thorogood & The Destroyers,0
+2008-10,Guy Clark,0
+2008-10,Ilse Delange,0
+2008-10,Jimmy Page & The Black Crowes,0
+2008-10,John Fogerty,0
+2008-10,John Hiatt,0
+2008-10,Johnny Cash,0
+2008-10,Lucinda Williams,0
+2008-10,Metallica,0
+2008-10,Paul Simon,0
+2008-10,Pearl Jam,0
+2008-10,Pink Floyd,0
+2008-10,The Black Crowes,0
+2008-10,U2,0
+2008-10,Wolfmother,0
+2008-11,Ac/Dc,0
+2008-11,Aerosmith,0
+2008-11,Billy Idol,0
+2008-11,Bruce Springsteen,0
+2008-11,George Thorogood,0
+2008-11,George Thorogood & The Destroyers,0
+2008-11,Guy Clark,0
+2008-11,Ilse Delange,0
+2008-11,Jimmy Page & The Black Crowes,0
+2008-11,John Fogerty,0
+2008-11,John Hiatt,0
+2008-11,Johnny Cash,0
+2008-11,Lucinda Williams,0
+2008-11,Metallica,0
+2008-11,Paul Simon,0
+2008-11,Pearl Jam,0
+2008-11,Pink Floyd,0
+2008-11,The Black Crowes,0
+2008-11,U2,0
+2008-11,Wolfmother,0
+2008-12,Ac/Dc,461
+2008-12,Aerosmith,1
+2008-12,Billy Idol,4
+2008-12,Bruce Springsteen,51
+2008-12,George Thorogood,3
+2008-12,George Thorogood & The Destroyers,13
+2008-12,Guy Clark,31
+2008-12,Ilse Delange,4
+2008-12,Jimmy Page & The Black Crowes,80
+2008-12,John Fogerty,19
+2008-12,John Hiatt,32
+2008-12,Johnny Cash,41
+2008-12,Lucinda Williams,18
+2008-12,Metallica,76
+2008-12,Paul Simon,0
+2008-12,Pearl Jam,30
+2008-12,Pink Floyd,2
+2008-12,The Black Crowes,53
+2008-12,U2,1
+2008-12,Wolfmother,25
+2009-01,Ac/Dc,887
+2009-01,Aerosmith,33
+2009-01,Billy Idol,3
+2009-01,Bruce Springsteen,146
+2009-01,George Thorogood,17
+2009-01,George Thorogood & The Destroyers,53
+2009-01,Guy Clark,328
+2009-01,Ilse Delange,2
+2009-01,Jimmy Page & The Black Crowes,76
+2009-01,John Fogerty,65
+2009-01,John Hiatt,205
+2009-01,Johnny Cash,11
+2009-01,Lucinda Williams,143
+2009-01,Metallica,269
+2009-01,Paul Simon,147
+2009-01,Pearl Jam,61
+2009-01,Pink Floyd,81
+2009-01,The Black Crowes,212
+2009-01,U2,2
+2009-01,Wolfmother,64
+2009-02,Ac/Dc,69
+2009-02,Aerosmith,12
+2009-02,Billy Idol,0
+2009-02,Bruce Springsteen,37
+2009-02,George Thorogood,4
+2009-02,George Thorogood & The Destroyers,10
+2009-02,Guy Clark,190
+2009-02,Ilse Delange,11
+2009-02,Jimmy Page & The Black Crowes,2
+2009-02,John Fogerty,24
+2009-02,John Hiatt,39
+2009-02,Johnny Cash,1
+2009-02,Lucinda Williams,61
+2009-02,Metallica,64
+2009-02,Paul Simon,85
+2009-02,Pearl Jam,27
+2009-02,Pink Floyd,1
+2009-02,The Black Crowes,33
+2009-02,U2,54
+2009-02,Wolfmother,33
+2009-03,Ac/Dc,386
+2009-03,Aerosmith,50
+2009-03,Billy Idol,1
+2009-03,Bruce Springsteen,0
+2009-03,George Thorogood,4
+2009-03,George Thorogood & The Destroyers,3
+2009-03,Guy Clark,244
+2009-03,Ilse Delange,2
+2009-03,Jimmy Page & The Black Crowes,34
+2009-03,John Fogerty,18
+2009-03,John Hiatt,116
+2009-03,Johnny Cash,13
+2009-03,Lucinda Williams,10
+2009-03,Metallica,29
+2009-03,Paul Simon,40
+2009-03,Pearl Jam,52
+2009-03,Pink Floyd,0
+2009-03,The Black Crowes,40
+2009-03,U2,113
+2009-03,Wolfmother,13
+2009-04,Ac/Dc,353
+2009-04,Aerosmith,0
+2009-04,Billy Idol,2
+2009-04,Bruce Springsteen,204
+2009-04,George Thorogood,12
+2009-04,George Thorogood & The Destroyers,22
+2009-04,Guy Clark,298
+2009-04,Ilse Delange,1
+2009-04,Jimmy Page & The Black Crowes,3
+2009-04,John Fogerty,16
+2009-04,John Hiatt,75
+2009-04,Johnny Cash,0
+2009-04,Lucinda Williams,78
+2009-04,Metallica,68
+2009-04,Paul Simon,123
+2009-04,Pearl Jam,241
+2009-04,Pink Floyd,13
+2009-04,The Black Crowes,128
+2009-04,U2,59
+2009-04,Wolfmother,50
+2009-05,Ac/Dc,2420
+2009-05,Aerosmith,33
+2009-05,Billy Idol,1
+2009-05,Bruce Springsteen,240
+2009-05,George Thorogood,16
+2009-05,George Thorogood & The Destroyers,33
+2009-05,Guy Clark,151
+2009-05,Ilse Delange,3
+2009-05,Jimmy Page & The Black Crowes,24
+2009-05,John Fogerty,41
+2009-05,John Hiatt,475
+2009-05,Johnny Cash,12
+2009-05,Lucinda Williams,55
+2009-05,Metallica,62
+2009-05,Paul Simon,12
+2009-05,Pearl Jam,183
+2009-05,Pink Floyd,238
+2009-05,The Black Crowes,140
+2009-05,U2,11
+2009-05,Wolfmother,49
+2009-06,Ac/Dc,250
+2009-06,Aerosmith,40
+2009-06,Billy Idol,3
+2009-06,Bruce Springsteen,183
+2009-06,George Thorogood,0
+2009-06,George Thorogood & The Destroyers,0
+2009-06,Guy Clark,254
+2009-06,Ilse Delange,0
+2009-06,Jimmy Page & The Black Crowes,18
+2009-06,John Fogerty,60
+2009-06,John Hiatt,73
+2009-06,Johnny Cash,265
+2009-06,Lucinda Williams,23
+2009-06,Metallica,94
+2009-06,Paul Simon,29
+2009-06,Pearl Jam,114
+2009-06,Pink Floyd,364
+2009-06,The Black Crowes,320
+2009-06,U2,6
+2009-06,Wolfmother,53

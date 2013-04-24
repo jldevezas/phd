@@ -1,0 +1,341 @@
+month,artist,plays
+2008-01,Baba Zula,1
+2008-01,Burhan Öçal,1
+2008-01,Camille Saint-Saëns,1
+2008-01,Erkan Oğur,2
+2008-01,Felix Mendelssohn,1
+2008-01,Frédéric Chopin,1
+2008-01,Georg Friedrich Händel,1
+2008-01,Georges Bizet,1
+2008-01,Göksel Baktagir,2
+2008-01,Jean Sibelius,1
+2008-01,Johannes Brahms,2
+2008-01,Johnny Cash,1
+2008-01,Ludwig Van Beethoven,1
+2008-01,Mercan Dede,2
+2008-01,Robert Schumann,1
+2008-01,Sezen Aksu,0
+2008-01,Wolfgang Amadeus Mozart,4
+2008-01,Пётр Ильич Чайковский,2
+2008-01,Сергей Васильевич Рахманинов,3
+2008-01,Сергей Сергеевич Прокофьев,6
+2008-02,Baba Zula,3
+2008-02,Burhan Öçal,1
+2008-02,Camille Saint-Saëns,0
+2008-02,Erkan Oğur,2
+2008-02,Felix Mendelssohn,0
+2008-02,Frédéric Chopin,0
+2008-02,Georg Friedrich Händel,0
+2008-02,Georges Bizet,0
+2008-02,Göksel Baktagir,2
+2008-02,Jean Sibelius,0
+2008-02,Johannes Brahms,0
+2008-02,Johnny Cash,1
+2008-02,Ludwig Van Beethoven,0
+2008-02,Mercan Dede,1
+2008-02,Robert Schumann,0
+2008-02,Sezen Aksu,2
+2008-02,Wolfgang Amadeus Mozart,0
+2008-02,Пётр Ильич Чайковский,0
+2008-02,Сергей Васильевич Рахманинов,0
+2008-02,Сергей Сергеевич Прокофьев,0
+2008-03,Baba Zula,5
+2008-03,Burhan Öçal,1
+2008-03,Camille Saint-Saëns,2
+2008-03,Erkan Oğur,5
+2008-03,Felix Mendelssohn,3
+2008-03,Frédéric Chopin,1
+2008-03,Georg Friedrich Händel,2
+2008-03,Georges Bizet,1
+2008-03,Göksel Baktagir,7
+2008-03,Jean Sibelius,1
+2008-03,Johannes Brahms,4
+2008-03,Johnny Cash,3
+2008-03,Ludwig Van Beethoven,2
+2008-03,Mercan Dede,10
+2008-03,Robert Schumann,1
+2008-03,Sezen Aksu,9
+2008-03,Wolfgang Amadeus Mozart,4
+2008-03,Пётр Ильич Чайковский,1
+2008-03,Сергей Васильевич Рахманинов,2
+2008-03,Сергей Сергеевич Прокофьев,1
+2008-04,Baba Zula,0
+2008-04,Burhan Öçal,0
+2008-04,Camille Saint-Saëns,1
+2008-04,Erkan Oğur,2
+2008-04,Felix Mendelssohn,1
+2008-04,Frédéric Chopin,0
+2008-04,Georg Friedrich Händel,1
+2008-04,Georges Bizet,1
+2008-04,Göksel Baktagir,3
+2008-04,Jean Sibelius,0
+2008-04,Johannes Brahms,0
+2008-04,Johnny Cash,3
+2008-04,Ludwig Van Beethoven,1
+2008-04,Mercan Dede,3
+2008-04,Robert Schumann,0
+2008-04,Sezen Aksu,3
+2008-04,Wolfgang Amadeus Mozart,1
+2008-04,Пётр Ильич Чайковский,0
+2008-04,Сергей Васильевич Рахманинов,0
+2008-04,Сергей Сергеевич Прокофьев,0
+2008-05,Baba Zula,6
+2008-05,Burhan Öçal,0
+2008-05,Camille Saint-Saëns,10
+2008-05,Erkan Oğur,3
+2008-05,Felix Mendelssohn,7
+2008-05,Frédéric Chopin,10
+2008-05,Georg Friedrich Händel,10
+2008-05,Georges Bizet,6
+2008-05,Göksel Baktagir,1
+2008-05,Jean Sibelius,6
+2008-05,Johannes Brahms,11
+2008-05,Johnny Cash,1
+2008-05,Ludwig Van Beethoven,11
+2008-05,Mercan Dede,4
+2008-05,Robert Schumann,8
+2008-05,Sezen Aksu,3
+2008-05,Wolfgang Amadeus Mozart,7
+2008-05,Пётр Ильич Чайковский,12
+2008-05,Сергей Васильевич Рахманинов,12
+2008-05,Сергей Сергеевич Прокофьев,10
+2008-06,Baba Zula,0
+2008-06,Burhan Öçal,0
+2008-06,Camille Saint-Saëns,9
+2008-06,Erkan Oğur,2
+2008-06,Felix Mendelssohn,8
+2008-06,Frédéric Chopin,5
+2008-06,Georg Friedrich Händel,11
+2008-06,Georges Bizet,4
+2008-06,Göksel Baktagir,0
+2008-06,Jean Sibelius,6
+2008-06,Johannes Brahms,9
+2008-06,Johnny Cash,1
+2008-06,Ludwig Van Beethoven,8
+2008-06,Mercan Dede,0
+2008-06,Robert Schumann,5
+2008-06,Sezen Aksu,3
+2008-06,Wolfgang Amadeus Mozart,12
+2008-06,Пётр Ильич Чайковский,8
+2008-06,Сергей Васильевич Рахманинов,4
+2008-06,Сергей Сергеевич Прокофьев,4
+2008-07,Baba Zula,1
+2008-07,Burhan Öçal,2
+2008-07,Camille Saint-Saëns,2
+2008-07,Erkan Oğur,3
+2008-07,Felix Mendelssohn,4
+2008-07,Frédéric Chopin,1
+2008-07,Georg Friedrich Händel,1
+2008-07,Georges Bizet,6
+2008-07,Göksel Baktagir,2
+2008-07,Jean Sibelius,3
+2008-07,Johannes Brahms,3
+2008-07,Johnny Cash,0
+2008-07,Ludwig Van Beethoven,1
+2008-07,Mercan Dede,2
+2008-07,Robert Schumann,3
+2008-07,Sezen Aksu,1
+2008-07,Wolfgang Amadeus Mozart,2
+2008-07,Пётр Ильич Чайковский,2
+2008-07,Сергей Васильевич Рахманинов,3
+2008-07,Сергей Сергеевич Прокофьев,1
+2008-08,Baba Zula,4
+2008-08,Burhan Öçal,4
+2008-08,Camille Saint-Saëns,2
+2008-08,Erkan Oğur,5
+2008-08,Felix Mendelssohn,2
+2008-08,Frédéric Chopin,1
+2008-08,Georg Friedrich Händel,1
+2008-08,Georges Bizet,1
+2008-08,Göksel Baktagir,6
+2008-08,Jean Sibelius,3
+2008-08,Johannes Brahms,1
+2008-08,Johnny Cash,1
+2008-08,Ludwig Van Beethoven,2
+2008-08,Mercan Dede,1
+2008-08,Robert Schumann,1
+2008-08,Sezen Aksu,2
+2008-08,Wolfgang Amadeus Mozart,5
+2008-08,Пётр Ильич Чайковский,6
+2008-08,Сергей Васильевич Рахманинов,6
+2008-08,Сергей Сергеевич Прокофьев,3
+2008-09,Baba Zula,3
+2008-09,Burhan Öçal,1
+2008-09,Camille Saint-Saëns,4
+2008-09,Erkan Oğur,1
+2008-09,Felix Mendelssohn,3
+2008-09,Frédéric Chopin,2
+2008-09,Georg Friedrich Händel,2
+2008-09,Georges Bizet,3
+2008-09,Göksel Baktagir,2
+2008-09,Jean Sibelius,2
+2008-09,Johannes Brahms,3
+2008-09,Johnny Cash,3
+2008-09,Ludwig Van Beethoven,2
+2008-09,Mercan Dede,0
+2008-09,Robert Schumann,0
+2008-09,Sezen Aksu,2
+2008-09,Wolfgang Amadeus Mozart,1
+2008-09,Пётр Ильич Чайковский,2
+2008-09,Сергей Васильевич Рахманинов,3
+2008-09,Сергей Сергеевич Прокофьев,2
+2008-10,Baba Zula,1
+2008-10,Burhan Öçal,0
+2008-10,Camille Saint-Saëns,1
+2008-10,Erkan Oğur,0
+2008-10,Felix Mendelssohn,3
+2008-10,Frédéric Chopin,4
+2008-10,Georg Friedrich Händel,2
+2008-10,Georges Bizet,2
+2008-10,Göksel Baktagir,3
+2008-10,Jean Sibelius,1
+2008-10,Johannes Brahms,4
+2008-10,Johnny Cash,3
+2008-10,Ludwig Van Beethoven,1
+2008-10,Mercan Dede,1
+2008-10,Robert Schumann,2
+2008-10,Sezen Aksu,0
+2008-10,Wolfgang Amadeus Mozart,2
+2008-10,Пётр Ильич Чайковский,2
+2008-10,Сергей Васильевич Рахманинов,1
+2008-10,Сергей Сергеевич Прокофьев,2
+2008-11,Baba Zula,1
+2008-11,Burhan Öçal,1
+2008-11,Camille Saint-Saëns,1
+2008-11,Erkan Oğur,4
+2008-11,Felix Mendelssohn,3
+2008-11,Frédéric Chopin,3
+2008-11,Georg Friedrich Händel,5
+2008-11,Georges Bizet,2
+2008-11,Göksel Baktagir,3
+2008-11,Jean Sibelius,2
+2008-11,Johannes Brahms,2
+2008-11,Johnny Cash,0
+2008-11,Ludwig Van Beethoven,3
+2008-11,Mercan Dede,2
+2008-11,Robert Schumann,2
+2008-11,Sezen Aksu,2
+2008-11,Wolfgang Amadeus Mozart,1
+2008-11,Пётр Ильич Чайковский,2
+2008-11,Сергей Васильевич Рахманинов,1
+2008-11,Сергей Сергеевич Прокофьев,2
+2008-12,Baba Zula,4
+2008-12,Burhan Öçal,5
+2008-12,Camille Saint-Saëns,1
+2008-12,Erkan Oğur,0
+2008-12,Felix Mendelssohn,2
+2008-12,Frédéric Chopin,2
+2008-12,Georg Friedrich Händel,4
+2008-12,Georges Bizet,3
+2008-12,Göksel Baktagir,5
+2008-12,Jean Sibelius,1
+2008-12,Johannes Brahms,2
+2008-12,Johnny Cash,1
+2008-12,Ludwig Van Beethoven,1
+2008-12,Mercan Dede,2
+2008-12,Robert Schumann,4
+2008-12,Sezen Aksu,2
+2008-12,Wolfgang Amadeus Mozart,0
+2008-12,Пётр Ильич Чайковский,1
+2008-12,Сергей Васильевич Рахманинов,4
+2008-12,Сергей Сергеевич Прокофьев,4
+2009-01,Baba Zula,4
+2009-01,Burhan Öçal,9
+2009-01,Camille Saint-Saëns,6
+2009-01,Erkan Oğur,2
+2009-01,Felix Mendelssohn,2
+2009-01,Frédéric Chopin,5
+2009-01,Georg Friedrich Händel,6
+2009-01,Georges Bizet,3
+2009-01,Göksel Baktagir,9
+2009-01,Jean Sibelius,4
+2009-01,Johannes Brahms,7
+2009-01,Johnny Cash,5
+2009-01,Ludwig Van Beethoven,7
+2009-01,Mercan Dede,5
+2009-01,Robert Schumann,4
+2009-01,Sezen Aksu,3
+2009-01,Wolfgang Amadeus Mozart,4
+2009-01,Пётр Ильич Чайковский,7
+2009-01,Сергей Васильевич Рахманинов,8
+2009-01,Сергей Сергеевич Прокофьев,5
+2009-02,Baba Zula,1
+2009-02,Burhan Öçal,6
+2009-02,Camille Saint-Saëns,3
+2009-02,Erkan Oğur,1
+2009-02,Felix Mendelssohn,1
+2009-02,Frédéric Chopin,3
+2009-02,Georg Friedrich Händel,2
+2009-02,Georges Bizet,1
+2009-02,Göksel Baktagir,4
+2009-02,Jean Sibelius,3
+2009-02,Johannes Brahms,3
+2009-02,Johnny Cash,1
+2009-02,Ludwig Van Beethoven,3
+2009-02,Mercan Dede,7
+2009-02,Robert Schumann,1
+2009-02,Sezen Aksu,3
+2009-02,Wolfgang Amadeus Mozart,1
+2009-02,Пётр Ильич Чайковский,5
+2009-02,Сергей Васильевич Рахманинов,4
+2009-02,Сергей Сергеевич Прокофьев,3
+2009-03,Baba Zula,6
+2009-03,Burhan Öçal,8
+2009-03,Camille Saint-Saëns,1
+2009-03,Erkan Oğur,5
+2009-03,Felix Mendelssohn,2
+2009-03,Frédéric Chopin,7
+2009-03,Georg Friedrich Händel,1
+2009-03,Georges Bizet,0
+2009-03,Göksel Baktagir,4
+2009-03,Jean Sibelius,2
+2009-03,Johannes Brahms,4
+2009-03,Johnny Cash,2
+2009-03,Ludwig Van Beethoven,3
+2009-03,Mercan Dede,7
+2009-03,Robert Schumann,3
+2009-03,Sezen Aksu,4
+2009-03,Wolfgang Amadeus Mozart,3
+2009-03,Пётр Ильич Чайковский,5
+2009-03,Сергей Васильевич Рахманинов,4
+2009-03,Сергей Сергеевич Прокофьев,3
+2009-04,Baba Zula,12
+2009-04,Burhan Öçal,7
+2009-04,Camille Saint-Saëns,3
+2009-04,Erkan Oğur,6
+2009-04,Felix Mendelssohn,4
+2009-04,Frédéric Chopin,6
+2009-04,Georg Friedrich Händel,2
+2009-04,Georges Bizet,1
+2009-04,Göksel Baktagir,6
+2009-04,Jean Sibelius,3
+2009-04,Johannes Brahms,6
+2009-04,Johnny Cash,2
+2009-04,Ludwig Van Beethoven,0
+2009-04,Mercan Dede,17
+2009-04,Robert Schumann,6
+2009-04,Sezen Aksu,8
+2009-04,Wolfgang Amadeus Mozart,1
+2009-04,Пётр Ильич Чайковский,3
+2009-04,Сергей Васильевич Рахманинов,11
+2009-04,Сергей Сергеевич Прокофьев,5
+2009-05,Baba Zula,1
+2009-05,Burhan Öçal,1
+2009-05,Camille Saint-Saëns,0
+2009-05,Erkan Oğur,0
+2009-05,Felix Mendelssohn,0
+2009-05,Frédéric Chopin,1
+2009-05,Georg Friedrich Händel,0
+2009-05,Georges Bizet,0
+2009-05,Göksel Baktagir,0
+2009-05,Jean Sibelius,0
+2009-05,Johannes Brahms,2
+2009-05,Johnny Cash,1
+2009-05,Ludwig Van Beethoven,0
+2009-05,Mercan Dede,0
+2009-05,Robert Schumann,2
+2009-05,Sezen Aksu,0
+2009-05,Wolfgang Amadeus Mozart,0
+2009-05,Пётр Ильич Чайковский,0
+2009-05,Сергей Васильевич Рахманинов,2
+2009-05,Сергей Сергеевич Прокофьев,0

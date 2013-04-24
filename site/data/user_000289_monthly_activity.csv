@@ -1,0 +1,441 @@
+month,artist,plays
+2007-08,A*Teens,0
+2007-08,A1,3
+2007-08,Avril Lavigne,6
+2007-08,Backstreet Boys,5
+2007-08,Darren Hayes,16
+2007-08,Gareth Gates,4
+2007-08,Gwen Stefani,5
+2007-08,Kylie Minogue,2
+2007-08,Linkin Park,31
+2007-08,M2M,4
+2007-08,Madonna,3
+2007-08,Maroon 5,3
+2007-08,Michael Jackson,2
+2007-08,Per Gessle,10
+2007-08,Rihanna,0
+2007-08,Roxette,66
+2007-08,Savage Garden,8
+2007-08,The Black Eyed Peas,3
+2007-08,Westlife,1
+2007-08,Will Young,0
+2007-09,A*Teens,1
+2007-09,A1,1
+2007-09,Avril Lavigne,4
+2007-09,Backstreet Boys,4
+2007-09,Darren Hayes,13
+2007-09,Gareth Gates,1
+2007-09,Gwen Stefani,5
+2007-09,Kylie Minogue,6
+2007-09,Linkin Park,19
+2007-09,M2M,4
+2007-09,Madonna,2
+2007-09,Maroon 5,5
+2007-09,Michael Jackson,1
+2007-09,Per Gessle,5
+2007-09,Rihanna,4
+2007-09,Roxette,99
+2007-09,Savage Garden,13
+2007-09,The Black Eyed Peas,3
+2007-09,Westlife,5
+2007-09,Will Young,3
+2007-10,A*Teens,1
+2007-10,A1,5
+2007-10,Avril Lavigne,18
+2007-10,Backstreet Boys,16
+2007-10,Darren Hayes,28
+2007-10,Gareth Gates,9
+2007-10,Gwen Stefani,14
+2007-10,Kylie Minogue,1
+2007-10,Linkin Park,93
+2007-10,M2M,2
+2007-10,Madonna,19
+2007-10,Maroon 5,8
+2007-10,Michael Jackson,4
+2007-10,Per Gessle,8
+2007-10,Rihanna,6
+2007-10,Roxette,171
+2007-10,Savage Garden,36
+2007-10,The Black Eyed Peas,13
+2007-10,Westlife,5
+2007-10,Will Young,6
+2007-11,A*Teens,3
+2007-11,A1,5
+2007-11,Avril Lavigne,16
+2007-11,Backstreet Boys,20
+2007-11,Darren Hayes,22
+2007-11,Gareth Gates,6
+2007-11,Gwen Stefani,11
+2007-11,Kylie Minogue,2
+2007-11,Linkin Park,140
+2007-11,M2M,7
+2007-11,Madonna,33
+2007-11,Maroon 5,12
+2007-11,Michael Jackson,11
+2007-11,Per Gessle,15
+2007-11,Rihanna,2
+2007-11,Roxette,212
+2007-11,Savage Garden,7
+2007-11,The Black Eyed Peas,5
+2007-11,Westlife,5
+2007-11,Will Young,1
+2007-12,A*Teens,16
+2007-12,A1,6
+2007-12,Avril Lavigne,11
+2007-12,Backstreet Boys,11
+2007-12,Darren Hayes,8
+2007-12,Gareth Gates,3
+2007-12,Gwen Stefani,4
+2007-12,Kylie Minogue,5
+2007-12,Linkin Park,58
+2007-12,M2M,7
+2007-12,Madonna,11
+2007-12,Maroon 5,4
+2007-12,Michael Jackson,2
+2007-12,Per Gessle,14
+2007-12,Rihanna,2
+2007-12,Roxette,179
+2007-12,Savage Garden,10
+2007-12,The Black Eyed Peas,3
+2007-12,Westlife,7
+2007-12,Will Young,16
+2008-01,A*Teens,4
+2008-01,A1,1
+2008-01,Avril Lavigne,6
+2008-01,Backstreet Boys,4
+2008-01,Darren Hayes,65
+2008-01,Gareth Gates,2
+2008-01,Gwen Stefani,3
+2008-01,Kylie Minogue,1
+2008-01,Linkin Park,23
+2008-01,M2M,5
+2008-01,Madonna,0
+2008-01,Maroon 5,2
+2008-01,Michael Jackson,4
+2008-01,Per Gessle,3
+2008-01,Rihanna,1
+2008-01,Roxette,171
+2008-01,Savage Garden,9
+2008-01,The Black Eyed Peas,1
+2008-01,Westlife,3
+2008-01,Will Young,2
+2008-02,A*Teens,2
+2008-02,A1,0
+2008-02,Avril Lavigne,0
+2008-02,Backstreet Boys,9
+2008-02,Darren Hayes,28
+2008-02,Gareth Gates,0
+2008-02,Gwen Stefani,0
+2008-02,Kylie Minogue,1
+2008-02,Linkin Park,2
+2008-02,M2M,0
+2008-02,Madonna,2
+2008-02,Maroon 5,1
+2008-02,Michael Jackson,1
+2008-02,Per Gessle,3
+2008-02,Rihanna,1
+2008-02,Roxette,62
+2008-02,Savage Garden,0
+2008-02,The Black Eyed Peas,1
+2008-02,Westlife,3
+2008-02,Will Young,1
+2008-03,A*Teens,4
+2008-03,A1,6
+2008-03,Avril Lavigne,5
+2008-03,Backstreet Boys,26
+2008-03,Darren Hayes,55
+2008-03,Gareth Gates,1
+2008-03,Gwen Stefani,5
+2008-03,Kylie Minogue,7
+2008-03,Linkin Park,99
+2008-03,M2M,2
+2008-03,Madonna,19
+2008-03,Maroon 5,3
+2008-03,Michael Jackson,11
+2008-03,Per Gessle,4
+2008-03,Rihanna,4
+2008-03,Roxette,104
+2008-03,Savage Garden,8
+2008-03,The Black Eyed Peas,3
+2008-03,Westlife,7
+2008-03,Will Young,8
+2008-04,A*Teens,3
+2008-04,A1,2
+2008-04,Avril Lavigne,7
+2008-04,Backstreet Boys,15
+2008-04,Darren Hayes,42
+2008-04,Gareth Gates,2
+2008-04,Gwen Stefani,8
+2008-04,Kylie Minogue,28
+2008-04,Linkin Park,34
+2008-04,M2M,2
+2008-04,Madonna,7
+2008-04,Maroon 5,4
+2008-04,Michael Jackson,13
+2008-04,Per Gessle,10
+2008-04,Rihanna,5
+2008-04,Roxette,83
+2008-04,Savage Garden,12
+2008-04,The Black Eyed Peas,2
+2008-04,Westlife,15
+2008-04,Will Young,5
+2008-05,A*Teens,5
+2008-05,A1,3
+2008-05,Avril Lavigne,2
+2008-05,Backstreet Boys,7
+2008-05,Darren Hayes,27
+2008-05,Gareth Gates,2
+2008-05,Gwen Stefani,6
+2008-05,Kylie Minogue,5
+2008-05,Linkin Park,54
+2008-05,M2M,5
+2008-05,Madonna,12
+2008-05,Maroon 5,4
+2008-05,Michael Jackson,5
+2008-05,Per Gessle,7
+2008-05,Rihanna,4
+2008-05,Roxette,55
+2008-05,Savage Garden,28
+2008-05,The Black Eyed Peas,1
+2008-05,Westlife,26
+2008-05,Will Young,3
+2008-06,A*Teens,2
+2008-06,A1,1
+2008-06,Avril Lavigne,2
+2008-06,Backstreet Boys,9
+2008-06,Darren Hayes,14
+2008-06,Gareth Gates,3
+2008-06,Gwen Stefani,4
+2008-06,Kylie Minogue,3
+2008-06,Linkin Park,8
+2008-06,M2M,2
+2008-06,Madonna,4
+2008-06,Maroon 5,14
+2008-06,Michael Jackson,3
+2008-06,Per Gessle,2
+2008-06,Rihanna,1
+2008-06,Roxette,25
+2008-06,Savage Garden,16
+2008-06,The Black Eyed Peas,0
+2008-06,Westlife,11
+2008-06,Will Young,4
+2008-07,A*Teens,0
+2008-07,A1,0
+2008-07,Avril Lavigne,0
+2008-07,Backstreet Boys,0
+2008-07,Darren Hayes,2
+2008-07,Gareth Gates,1
+2008-07,Gwen Stefani,2
+2008-07,Kylie Minogue,0
+2008-07,Linkin Park,19
+2008-07,M2M,0
+2008-07,Madonna,0
+2008-07,Maroon 5,1
+2008-07,Michael Jackson,0
+2008-07,Per Gessle,0
+2008-07,Rihanna,0
+2008-07,Roxette,6
+2008-07,Savage Garden,3
+2008-07,The Black Eyed Peas,0
+2008-07,Westlife,4
+2008-07,Will Young,0
+2008-08,A*Teens,6
+2008-08,A1,3
+2008-08,Avril Lavigne,3
+2008-08,Backstreet Boys,10
+2008-08,Darren Hayes,39
+2008-08,Gareth Gates,7
+2008-08,Gwen Stefani,1
+2008-08,Kylie Minogue,2
+2008-08,Linkin Park,57
+2008-08,M2M,2
+2008-08,Madonna,9
+2008-08,Maroon 5,2
+2008-08,Michael Jackson,4
+2008-08,Per Gessle,4
+2008-08,Rihanna,8
+2008-08,Roxette,68
+2008-08,Savage Garden,6
+2008-08,The Black Eyed Peas,2
+2008-08,Westlife,9
+2008-08,Will Young,8
+2008-09,A*Teens,2
+2008-09,A1,1
+2008-09,Avril Lavigne,1
+2008-09,Backstreet Boys,5
+2008-09,Darren Hayes,5
+2008-09,Gareth Gates,0
+2008-09,Gwen Stefani,1
+2008-09,Kylie Minogue,1
+2008-09,Linkin Park,20
+2008-09,M2M,1
+2008-09,Madonna,1
+2008-09,Maroon 5,0
+2008-09,Michael Jackson,1
+2008-09,Per Gessle,3
+2008-09,Rihanna,1
+2008-09,Roxette,14
+2008-09,Savage Garden,3
+2008-09,The Black Eyed Peas,1
+2008-09,Westlife,1
+2008-09,Will Young,1
+2008-10,A*Teens,5
+2008-10,A1,3
+2008-10,Avril Lavigne,3
+2008-10,Backstreet Boys,18
+2008-10,Darren Hayes,20
+2008-10,Gareth Gates,6
+2008-10,Gwen Stefani,4
+2008-10,Kylie Minogue,2
+2008-10,Linkin Park,44
+2008-10,M2M,5
+2008-10,Madonna,6
+2008-10,Maroon 5,1
+2008-10,Michael Jackson,4
+2008-10,Per Gessle,3
+2008-10,Rihanna,4
+2008-10,Roxette,89
+2008-10,Savage Garden,6
+2008-10,The Black Eyed Peas,8
+2008-10,Westlife,6
+2008-10,Will Young,5
+2008-11,A*Teens,7
+2008-11,A1,2
+2008-11,Avril Lavigne,5
+2008-11,Backstreet Boys,12
+2008-11,Darren Hayes,24
+2008-11,Gareth Gates,3
+2008-11,Gwen Stefani,7
+2008-11,Kylie Minogue,16
+2008-11,Linkin Park,71
+2008-11,M2M,4
+2008-11,Madonna,12
+2008-11,Maroon 5,0
+2008-11,Michael Jackson,2
+2008-11,Per Gessle,36
+2008-11,Rihanna,1
+2008-11,Roxette,317
+2008-11,Savage Garden,18
+2008-11,The Black Eyed Peas,4
+2008-11,Westlife,5
+2008-11,Will Young,7
+2008-12,A*Teens,9
+2008-12,A1,0
+2008-12,Avril Lavigne,5
+2008-12,Backstreet Boys,0
+2008-12,Darren Hayes,14
+2008-12,Gareth Gates,1
+2008-12,Gwen Stefani,4
+2008-12,Kylie Minogue,1
+2008-12,Linkin Park,6
+2008-12,M2M,3
+2008-12,Madonna,1
+2008-12,Maroon 5,1
+2008-12,Michael Jackson,1
+2008-12,Per Gessle,4
+2008-12,Rihanna,2
+2008-12,Roxette,80
+2008-12,Savage Garden,3
+2008-12,The Black Eyed Peas,1
+2008-12,Westlife,1
+2008-12,Will Young,4
+2009-01,A*Teens,4
+2009-01,A1,5
+2009-01,Avril Lavigne,8
+2009-01,Backstreet Boys,17
+2009-01,Darren Hayes,53
+2009-01,Gareth Gates,7
+2009-01,Gwen Stefani,4
+2009-01,Kylie Minogue,1
+2009-01,Linkin Park,25
+2009-01,M2M,8
+2009-01,Madonna,32
+2009-01,Maroon 5,8
+2009-01,Michael Jackson,5
+2009-01,Per Gessle,15
+2009-01,Rihanna,11
+2009-01,Roxette,119
+2009-01,Savage Garden,14
+2009-01,The Black Eyed Peas,6
+2009-01,Westlife,16
+2009-01,Will Young,4
+2009-02,A*Teens,0
+2009-02,A1,1
+2009-02,Avril Lavigne,2
+2009-02,Backstreet Boys,1
+2009-02,Darren Hayes,12
+2009-02,Gareth Gates,1
+2009-02,Gwen Stefani,1
+2009-02,Kylie Minogue,1
+2009-02,Linkin Park,9
+2009-02,M2M,4
+2009-02,Madonna,4
+2009-02,Maroon 5,1
+2009-02,Michael Jackson,0
+2009-02,Per Gessle,11
+2009-02,Rihanna,1
+2009-02,Roxette,78
+2009-02,Savage Garden,10
+2009-02,The Black Eyed Peas,2
+2009-02,Westlife,1
+2009-02,Will Young,9
+2009-03,A*Teens,2
+2009-03,A1,2
+2009-03,Avril Lavigne,3
+2009-03,Backstreet Boys,21
+2009-03,Darren Hayes,14
+2009-03,Gareth Gates,3
+2009-03,Gwen Stefani,1
+2009-03,Kylie Minogue,2
+2009-03,Linkin Park,22
+2009-03,M2M,3
+2009-03,Madonna,23
+2009-03,Maroon 5,2
+2009-03,Michael Jackson,3
+2009-03,Per Gessle,54
+2009-03,Rihanna,5
+2009-03,Roxette,393
+2009-03,Savage Garden,8
+2009-03,The Black Eyed Peas,1
+2009-03,Westlife,8
+2009-03,Will Young,37
+2009-04,A*Teens,7
+2009-04,A1,8
+2009-04,Avril Lavigne,21
+2009-04,Backstreet Boys,19
+2009-04,Darren Hayes,67
+2009-04,Gareth Gates,14
+2009-04,Gwen Stefani,6
+2009-04,Kylie Minogue,9
+2009-04,Linkin Park,35
+2009-04,M2M,11
+2009-04,Madonna,34
+2009-04,Maroon 5,13
+2009-04,Michael Jackson,15
+2009-04,Per Gessle,287
+2009-04,Rihanna,13
+2009-04,Roxette,245
+2009-04,Savage Garden,31
+2009-04,The Black Eyed Peas,10
+2009-04,Westlife,20
+2009-04,Will Young,18
+2009-05,A*Teens,2
+2009-05,A1,2
+2009-05,Avril Lavigne,5
+2009-05,Backstreet Boys,1
+2009-05,Darren Hayes,4
+2009-05,Gareth Gates,1
+2009-05,Gwen Stefani,0
+2009-05,Kylie Minogue,1
+2009-05,Linkin Park,3
+2009-05,M2M,2
+2009-05,Madonna,2
+2009-05,Maroon 5,1
+2009-05,Michael Jackson,5
+2009-05,Per Gessle,12
+2009-05,Rihanna,3
+2009-05,Roxette,14
+2009-05,Savage Garden,0
+2009-05,The Black Eyed Peas,1
+2009-05,Westlife,3
+2009-05,Will Young,4

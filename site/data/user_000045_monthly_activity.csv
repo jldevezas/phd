@@ -1,0 +1,681 @@
+month,artist,plays
+2006-07,Ace Of Base,7
+2006-07,Akira,14
+2006-07,Bbs Paranoicos,2
+2006-07,Blink-182,3
+2006-07,Blue System,34
+2006-07,Bond,1
+2006-07,Cypress Hill,1
+2006-07,Dream Theater,9
+2006-07,Emil Bulls,1
+2006-07,Enya,4
+2006-07,Eros Ramazzotti,1
+2006-07,Europe,2
+2006-07,Evergrey,14
+2006-07,Helloween,20
+2006-07,Linkin Park,20
+2006-07,Modern Talking,38
+2006-07,Morrissey,5
+2006-07,Pet Shop Boys,1
+2006-07,Scorpions,2
+2006-07,To/Die/For,14
+2006-08,Ace Of Base,0
+2006-08,Akira,0
+2006-08,Bbs Paranoicos,0
+2006-08,Blink-182,0
+2006-08,Blue System,3
+2006-08,Bond,0
+2006-08,Cypress Hill,0
+2006-08,Dream Theater,0
+2006-08,Emil Bulls,0
+2006-08,Enya,0
+2006-08,Eros Ramazzotti,0
+2006-08,Europe,0
+2006-08,Evergrey,0
+2006-08,Helloween,0
+2006-08,Linkin Park,0
+2006-08,Modern Talking,2
+2006-08,Morrissey,0
+2006-08,Pet Shop Boys,3
+2006-08,Scorpions,1
+2006-08,To/Die/For,0
+2006-09,Ace Of Base,0
+2006-09,Akira,0
+2006-09,Bbs Paranoicos,0
+2006-09,Blink-182,0
+2006-09,Blue System,0
+2006-09,Bond,0
+2006-09,Cypress Hill,0
+2006-09,Dream Theater,0
+2006-09,Emil Bulls,0
+2006-09,Enya,0
+2006-09,Eros Ramazzotti,0
+2006-09,Europe,0
+2006-09,Evergrey,0
+2006-09,Helloween,0
+2006-09,Linkin Park,0
+2006-09,Modern Talking,0
+2006-09,Morrissey,0
+2006-09,Pet Shop Boys,0
+2006-09,Scorpions,0
+2006-09,To/Die/For,0
+2006-10,Ace Of Base,0
+2006-10,Akira,0
+2006-10,Bbs Paranoicos,0
+2006-10,Blink-182,0
+2006-10,Blue System,0
+2006-10,Bond,0
+2006-10,Cypress Hill,0
+2006-10,Dream Theater,0
+2006-10,Emil Bulls,0
+2006-10,Enya,0
+2006-10,Eros Ramazzotti,0
+2006-10,Europe,0
+2006-10,Evergrey,0
+2006-10,Helloween,0
+2006-10,Linkin Park,0
+2006-10,Modern Talking,0
+2006-10,Morrissey,0
+2006-10,Pet Shop Boys,0
+2006-10,Scorpions,0
+2006-10,To/Die/For,0
+2006-11,Ace Of Base,4
+2006-11,Akira,6
+2006-11,Bbs Paranoicos,2
+2006-11,Blink-182,3
+2006-11,Blue System,0
+2006-11,Bond,1
+2006-11,Cypress Hill,1
+2006-11,Dream Theater,1
+2006-11,Emil Bulls,1
+2006-11,Enya,1
+2006-11,Eros Ramazzotti,1
+2006-11,Europe,0
+2006-11,Evergrey,13
+2006-11,Helloween,6
+2006-11,Linkin Park,3
+2006-11,Modern Talking,8
+2006-11,Morrissey,1
+2006-11,Pet Shop Boys,1
+2006-11,Scorpions,1
+2006-11,To/Die/For,5
+2006-12,Ace Of Base,4
+2006-12,Akira,0
+2006-12,Bbs Paranoicos,0
+2006-12,Blink-182,0
+2006-12,Blue System,0
+2006-12,Bond,0
+2006-12,Cypress Hill,0
+2006-12,Dream Theater,0
+2006-12,Emil Bulls,0
+2006-12,Enya,0
+2006-12,Eros Ramazzotti,0
+2006-12,Europe,0
+2006-12,Evergrey,4
+2006-12,Helloween,1
+2006-12,Linkin Park,1
+2006-12,Modern Talking,0
+2006-12,Morrissey,2
+2006-12,Pet Shop Boys,0
+2006-12,Scorpions,0
+2006-12,To/Die/For,2
+2007-01,Ace Of Base,0
+2007-01,Akira,0
+2007-01,Bbs Paranoicos,0
+2007-01,Blink-182,0
+2007-01,Blue System,0
+2007-01,Bond,0
+2007-01,Cypress Hill,0
+2007-01,Dream Theater,0
+2007-01,Emil Bulls,0
+2007-01,Enya,0
+2007-01,Eros Ramazzotti,0
+2007-01,Europe,0
+2007-01,Evergrey,0
+2007-01,Helloween,0
+2007-01,Linkin Park,0
+2007-01,Modern Talking,0
+2007-01,Morrissey,0
+2007-01,Pet Shop Boys,0
+2007-01,Scorpions,0
+2007-01,To/Die/For,0
+2007-02,Ace Of Base,0
+2007-02,Akira,0
+2007-02,Bbs Paranoicos,0
+2007-02,Blink-182,0
+2007-02,Blue System,0
+2007-02,Bond,0
+2007-02,Cypress Hill,0
+2007-02,Dream Theater,0
+2007-02,Emil Bulls,0
+2007-02,Enya,0
+2007-02,Eros Ramazzotti,0
+2007-02,Europe,0
+2007-02,Evergrey,0
+2007-02,Helloween,0
+2007-02,Linkin Park,0
+2007-02,Modern Talking,0
+2007-02,Morrissey,0
+2007-02,Pet Shop Boys,0
+2007-02,Scorpions,0
+2007-02,To/Die/For,0
+2007-03,Ace Of Base,0
+2007-03,Akira,0
+2007-03,Bbs Paranoicos,0
+2007-03,Blink-182,0
+2007-03,Blue System,0
+2007-03,Bond,0
+2007-03,Cypress Hill,0
+2007-03,Dream Theater,0
+2007-03,Emil Bulls,0
+2007-03,Enya,0
+2007-03,Eros Ramazzotti,0
+2007-03,Europe,0
+2007-03,Evergrey,0
+2007-03,Helloween,0
+2007-03,Linkin Park,0
+2007-03,Modern Talking,0
+2007-03,Morrissey,0
+2007-03,Pet Shop Boys,0
+2007-03,Scorpions,0
+2007-03,To/Die/For,0
+2007-04,Ace Of Base,0
+2007-04,Akira,0
+2007-04,Bbs Paranoicos,0
+2007-04,Blink-182,0
+2007-04,Blue System,0
+2007-04,Bond,0
+2007-04,Cypress Hill,0
+2007-04,Dream Theater,0
+2007-04,Emil Bulls,0
+2007-04,Enya,0
+2007-04,Eros Ramazzotti,0
+2007-04,Europe,0
+2007-04,Evergrey,0
+2007-04,Helloween,0
+2007-04,Linkin Park,0
+2007-04,Modern Talking,0
+2007-04,Morrissey,0
+2007-04,Pet Shop Boys,0
+2007-04,Scorpions,0
+2007-04,To/Die/For,0
+2007-05,Ace Of Base,0
+2007-05,Akira,0
+2007-05,Bbs Paranoicos,0
+2007-05,Blink-182,0
+2007-05,Blue System,0
+2007-05,Bond,0
+2007-05,Cypress Hill,0
+2007-05,Dream Theater,0
+2007-05,Emil Bulls,0
+2007-05,Enya,0
+2007-05,Eros Ramazzotti,0
+2007-05,Europe,0
+2007-05,Evergrey,0
+2007-05,Helloween,0
+2007-05,Linkin Park,0
+2007-05,Modern Talking,0
+2007-05,Morrissey,0
+2007-05,Pet Shop Boys,0
+2007-05,Scorpions,0
+2007-05,To/Die/For,0
+2007-06,Ace Of Base,0
+2007-06,Akira,0
+2007-06,Bbs Paranoicos,0
+2007-06,Blink-182,0
+2007-06,Blue System,0
+2007-06,Bond,0
+2007-06,Cypress Hill,0
+2007-06,Dream Theater,0
+2007-06,Emil Bulls,0
+2007-06,Enya,0
+2007-06,Eros Ramazzotti,0
+2007-06,Europe,0
+2007-06,Evergrey,0
+2007-06,Helloween,0
+2007-06,Linkin Park,0
+2007-06,Modern Talking,0
+2007-06,Morrissey,0
+2007-06,Pet Shop Boys,0
+2007-06,Scorpions,0
+2007-06,To/Die/For,0
+2007-07,Ace Of Base,0
+2007-07,Akira,0
+2007-07,Bbs Paranoicos,0
+2007-07,Blink-182,0
+2007-07,Blue System,0
+2007-07,Bond,0
+2007-07,Cypress Hill,0
+2007-07,Dream Theater,0
+2007-07,Emil Bulls,0
+2007-07,Enya,0
+2007-07,Eros Ramazzotti,0
+2007-07,Europe,0
+2007-07,Evergrey,0
+2007-07,Helloween,0
+2007-07,Linkin Park,0
+2007-07,Modern Talking,0
+2007-07,Morrissey,0
+2007-07,Pet Shop Boys,0
+2007-07,Scorpions,0
+2007-07,To/Die/For,0
+2007-08,Ace Of Base,0
+2007-08,Akira,0
+2007-08,Bbs Paranoicos,0
+2007-08,Blink-182,0
+2007-08,Blue System,0
+2007-08,Bond,0
+2007-08,Cypress Hill,0
+2007-08,Dream Theater,0
+2007-08,Emil Bulls,0
+2007-08,Enya,0
+2007-08,Eros Ramazzotti,0
+2007-08,Europe,0
+2007-08,Evergrey,0
+2007-08,Helloween,0
+2007-08,Linkin Park,0
+2007-08,Modern Talking,0
+2007-08,Morrissey,0
+2007-08,Pet Shop Boys,0
+2007-08,Scorpions,0
+2007-08,To/Die/For,0
+2007-09,Ace Of Base,0
+2007-09,Akira,0
+2007-09,Bbs Paranoicos,0
+2007-09,Blink-182,0
+2007-09,Blue System,0
+2007-09,Bond,0
+2007-09,Cypress Hill,0
+2007-09,Dream Theater,0
+2007-09,Emil Bulls,0
+2007-09,Enya,0
+2007-09,Eros Ramazzotti,0
+2007-09,Europe,0
+2007-09,Evergrey,0
+2007-09,Helloween,0
+2007-09,Linkin Park,0
+2007-09,Modern Talking,0
+2007-09,Morrissey,0
+2007-09,Pet Shop Boys,0
+2007-09,Scorpions,0
+2007-09,To/Die/For,0
+2007-10,Ace Of Base,0
+2007-10,Akira,0
+2007-10,Bbs Paranoicos,0
+2007-10,Blink-182,0
+2007-10,Blue System,0
+2007-10,Bond,0
+2007-10,Cypress Hill,0
+2007-10,Dream Theater,0
+2007-10,Emil Bulls,0
+2007-10,Enya,0
+2007-10,Eros Ramazzotti,0
+2007-10,Europe,0
+2007-10,Evergrey,0
+2007-10,Helloween,0
+2007-10,Linkin Park,0
+2007-10,Modern Talking,0
+2007-10,Morrissey,0
+2007-10,Pet Shop Boys,0
+2007-10,Scorpions,0
+2007-10,To/Die/For,0
+2007-11,Ace Of Base,0
+2007-11,Akira,0
+2007-11,Bbs Paranoicos,0
+2007-11,Blink-182,0
+2007-11,Blue System,0
+2007-11,Bond,0
+2007-11,Cypress Hill,0
+2007-11,Dream Theater,0
+2007-11,Emil Bulls,0
+2007-11,Enya,0
+2007-11,Eros Ramazzotti,0
+2007-11,Europe,0
+2007-11,Evergrey,0
+2007-11,Helloween,0
+2007-11,Linkin Park,0
+2007-11,Modern Talking,0
+2007-11,Morrissey,0
+2007-11,Pet Shop Boys,0
+2007-11,Scorpions,0
+2007-11,To/Die/For,0
+2007-12,Ace Of Base,0
+2007-12,Akira,0
+2007-12,Bbs Paranoicos,0
+2007-12,Blink-182,0
+2007-12,Blue System,0
+2007-12,Bond,0
+2007-12,Cypress Hill,0
+2007-12,Dream Theater,0
+2007-12,Emil Bulls,0
+2007-12,Enya,0
+2007-12,Eros Ramazzotti,0
+2007-12,Europe,0
+2007-12,Evergrey,0
+2007-12,Helloween,0
+2007-12,Linkin Park,0
+2007-12,Modern Talking,0
+2007-12,Morrissey,0
+2007-12,Pet Shop Boys,0
+2007-12,Scorpions,0
+2007-12,To/Die/For,0
+2008-01,Ace Of Base,0
+2008-01,Akira,0
+2008-01,Bbs Paranoicos,0
+2008-01,Blink-182,0
+2008-01,Blue System,0
+2008-01,Bond,0
+2008-01,Cypress Hill,0
+2008-01,Dream Theater,0
+2008-01,Emil Bulls,0
+2008-01,Enya,0
+2008-01,Eros Ramazzotti,0
+2008-01,Europe,0
+2008-01,Evergrey,0
+2008-01,Helloween,0
+2008-01,Linkin Park,0
+2008-01,Modern Talking,0
+2008-01,Morrissey,0
+2008-01,Pet Shop Boys,0
+2008-01,Scorpions,0
+2008-01,To/Die/For,0
+2008-02,Ace Of Base,0
+2008-02,Akira,0
+2008-02,Bbs Paranoicos,0
+2008-02,Blink-182,0
+2008-02,Blue System,0
+2008-02,Bond,0
+2008-02,Cypress Hill,0
+2008-02,Dream Theater,0
+2008-02,Emil Bulls,0
+2008-02,Enya,0
+2008-02,Eros Ramazzotti,0
+2008-02,Europe,0
+2008-02,Evergrey,0
+2008-02,Helloween,0
+2008-02,Linkin Park,0
+2008-02,Modern Talking,0
+2008-02,Morrissey,0
+2008-02,Pet Shop Boys,0
+2008-02,Scorpions,0
+2008-02,To/Die/For,0
+2008-03,Ace Of Base,0
+2008-03,Akira,0
+2008-03,Bbs Paranoicos,0
+2008-03,Blink-182,0
+2008-03,Blue System,0
+2008-03,Bond,0
+2008-03,Cypress Hill,0
+2008-03,Dream Theater,0
+2008-03,Emil Bulls,0
+2008-03,Enya,0
+2008-03,Eros Ramazzotti,0
+2008-03,Europe,0
+2008-03,Evergrey,0
+2008-03,Helloween,0
+2008-03,Linkin Park,0
+2008-03,Modern Talking,0
+2008-03,Morrissey,0
+2008-03,Pet Shop Boys,0
+2008-03,Scorpions,0
+2008-03,To/Die/For,0
+2008-04,Ace Of Base,0
+2008-04,Akira,0
+2008-04,Bbs Paranoicos,0
+2008-04,Blink-182,0
+2008-04,Blue System,0
+2008-04,Bond,0
+2008-04,Cypress Hill,0
+2008-04,Dream Theater,0
+2008-04,Emil Bulls,0
+2008-04,Enya,0
+2008-04,Eros Ramazzotti,0
+2008-04,Europe,0
+2008-04,Evergrey,0
+2008-04,Helloween,0
+2008-04,Linkin Park,0
+2008-04,Modern Talking,0
+2008-04,Morrissey,0
+2008-04,Pet Shop Boys,0
+2008-04,Scorpions,0
+2008-04,To/Die/For,0
+2008-05,Ace Of Base,0
+2008-05,Akira,0
+2008-05,Bbs Paranoicos,0
+2008-05,Blink-182,0
+2008-05,Blue System,0
+2008-05,Bond,0
+2008-05,Cypress Hill,0
+2008-05,Dream Theater,0
+2008-05,Emil Bulls,0
+2008-05,Enya,0
+2008-05,Eros Ramazzotti,0
+2008-05,Europe,0
+2008-05,Evergrey,0
+2008-05,Helloween,0
+2008-05,Linkin Park,0
+2008-05,Modern Talking,0
+2008-05,Morrissey,0
+2008-05,Pet Shop Boys,0
+2008-05,Scorpions,0
+2008-05,To/Die/For,0
+2008-06,Ace Of Base,0
+2008-06,Akira,0
+2008-06,Bbs Paranoicos,0
+2008-06,Blink-182,0
+2008-06,Blue System,0
+2008-06,Bond,0
+2008-06,Cypress Hill,0
+2008-06,Dream Theater,0
+2008-06,Emil Bulls,0
+2008-06,Enya,0
+2008-06,Eros Ramazzotti,0
+2008-06,Europe,0
+2008-06,Evergrey,0
+2008-06,Helloween,0
+2008-06,Linkin Park,0
+2008-06,Modern Talking,0
+2008-06,Morrissey,0
+2008-06,Pet Shop Boys,0
+2008-06,Scorpions,0
+2008-06,To/Die/For,0
+2008-07,Ace Of Base,0
+2008-07,Akira,0
+2008-07,Bbs Paranoicos,0
+2008-07,Blink-182,0
+2008-07,Blue System,0
+2008-07,Bond,0
+2008-07,Cypress Hill,0
+2008-07,Dream Theater,0
+2008-07,Emil Bulls,0
+2008-07,Enya,0
+2008-07,Eros Ramazzotti,0
+2008-07,Europe,0
+2008-07,Evergrey,0
+2008-07,Helloween,0
+2008-07,Linkin Park,0
+2008-07,Modern Talking,0
+2008-07,Morrissey,0
+2008-07,Pet Shop Boys,0
+2008-07,Scorpions,0
+2008-07,To/Die/For,0
+2008-08,Ace Of Base,0
+2008-08,Akira,0
+2008-08,Bbs Paranoicos,0
+2008-08,Blink-182,0
+2008-08,Blue System,0
+2008-08,Bond,0
+2008-08,Cypress Hill,0
+2008-08,Dream Theater,0
+2008-08,Emil Bulls,0
+2008-08,Enya,0
+2008-08,Eros Ramazzotti,0
+2008-08,Europe,0
+2008-08,Evergrey,0
+2008-08,Helloween,0
+2008-08,Linkin Park,0
+2008-08,Modern Talking,0
+2008-08,Morrissey,0
+2008-08,Pet Shop Boys,0
+2008-08,Scorpions,0
+2008-08,To/Die/For,0
+2008-09,Ace Of Base,0
+2008-09,Akira,0
+2008-09,Bbs Paranoicos,0
+2008-09,Blink-182,0
+2008-09,Blue System,0
+2008-09,Bond,0
+2008-09,Cypress Hill,0
+2008-09,Dream Theater,0
+2008-09,Emil Bulls,0
+2008-09,Enya,0
+2008-09,Eros Ramazzotti,0
+2008-09,Europe,0
+2008-09,Evergrey,0
+2008-09,Helloween,0
+2008-09,Linkin Park,0
+2008-09,Modern Talking,0
+2008-09,Morrissey,0
+2008-09,Pet Shop Boys,0
+2008-09,Scorpions,0
+2008-09,To/Die/For,0
+2008-10,Ace Of Base,0
+2008-10,Akira,0
+2008-10,Bbs Paranoicos,0
+2008-10,Blink-182,0
+2008-10,Blue System,0
+2008-10,Bond,0
+2008-10,Cypress Hill,0
+2008-10,Dream Theater,0
+2008-10,Emil Bulls,0
+2008-10,Enya,0
+2008-10,Eros Ramazzotti,0
+2008-10,Europe,0
+2008-10,Evergrey,0
+2008-10,Helloween,0
+2008-10,Linkin Park,0
+2008-10,Modern Talking,0
+2008-10,Morrissey,0
+2008-10,Pet Shop Boys,0
+2008-10,Scorpions,0
+2008-10,To/Die/For,0
+2008-11,Ace Of Base,0
+2008-11,Akira,0
+2008-11,Bbs Paranoicos,0
+2008-11,Blink-182,0
+2008-11,Blue System,0
+2008-11,Bond,0
+2008-11,Cypress Hill,0
+2008-11,Dream Theater,0
+2008-11,Emil Bulls,0
+2008-11,Enya,0
+2008-11,Eros Ramazzotti,0
+2008-11,Europe,0
+2008-11,Evergrey,0
+2008-11,Helloween,0
+2008-11,Linkin Park,0
+2008-11,Modern Talking,0
+2008-11,Morrissey,0
+2008-11,Pet Shop Boys,0
+2008-11,Scorpions,0
+2008-11,To/Die/For,0
+2008-12,Ace Of Base,0
+2008-12,Akira,0
+2008-12,Bbs Paranoicos,0
+2008-12,Blink-182,0
+2008-12,Blue System,0
+2008-12,Bond,0
+2008-12,Cypress Hill,0
+2008-12,Dream Theater,0
+2008-12,Emil Bulls,0
+2008-12,Enya,0
+2008-12,Eros Ramazzotti,0
+2008-12,Europe,0
+2008-12,Evergrey,0
+2008-12,Helloween,0
+2008-12,Linkin Park,0
+2008-12,Modern Talking,0
+2008-12,Morrissey,0
+2008-12,Pet Shop Boys,0
+2008-12,Scorpions,0
+2008-12,To/Die/For,0
+2009-01,Ace Of Base,0
+2009-01,Akira,0
+2009-01,Bbs Paranoicos,0
+2009-01,Blink-182,0
+2009-01,Blue System,0
+2009-01,Bond,0
+2009-01,Cypress Hill,0
+2009-01,Dream Theater,0
+2009-01,Emil Bulls,0
+2009-01,Enya,0
+2009-01,Eros Ramazzotti,0
+2009-01,Europe,0
+2009-01,Evergrey,0
+2009-01,Helloween,0
+2009-01,Linkin Park,0
+2009-01,Modern Talking,0
+2009-01,Morrissey,0
+2009-01,Pet Shop Boys,0
+2009-01,Scorpions,0
+2009-01,To/Die/For,0
+2009-02,Ace Of Base,0
+2009-02,Akira,0
+2009-02,Bbs Paranoicos,0
+2009-02,Blink-182,0
+2009-02,Blue System,0
+2009-02,Bond,0
+2009-02,Cypress Hill,0
+2009-02,Dream Theater,0
+2009-02,Emil Bulls,0
+2009-02,Enya,0
+2009-02,Eros Ramazzotti,0
+2009-02,Europe,0
+2009-02,Evergrey,0
+2009-02,Helloween,0
+2009-02,Linkin Park,0
+2009-02,Modern Talking,0
+2009-02,Morrissey,0
+2009-02,Pet Shop Boys,0
+2009-02,Scorpions,0
+2009-02,To/Die/For,0
+2009-03,Ace Of Base,0
+2009-03,Akira,0
+2009-03,Bbs Paranoicos,0
+2009-03,Blink-182,0
+2009-03,Blue System,0
+2009-03,Bond,0
+2009-03,Cypress Hill,0
+2009-03,Dream Theater,0
+2009-03,Emil Bulls,0
+2009-03,Enya,0
+2009-03,Eros Ramazzotti,0
+2009-03,Europe,0
+2009-03,Evergrey,0
+2009-03,Helloween,0
+2009-03,Linkin Park,0
+2009-03,Modern Talking,0
+2009-03,Morrissey,0
+2009-03,Pet Shop Boys,0
+2009-03,Scorpions,0
+2009-03,To/Die/For,0
+2009-04,Ace Of Base,0
+2009-04,Akira,0
+2009-04,Bbs Paranoicos,0
+2009-04,Blink-182,0
+2009-04,Blue System,0
+2009-04,Bond,0
+2009-04,Cypress Hill,0
+2009-04,Dream Theater,0
+2009-04,Emil Bulls,0
+2009-04,Enya,0
+2009-04,Eros Ramazzotti,0
+2009-04,Europe,1
+2009-04,Evergrey,0
+2009-04,Helloween,0
+2009-04,Linkin Park,0
+2009-04,Modern Talking,0
+2009-04,Morrissey,0
+2009-04,Pet Shop Boys,0
+2009-04,Scorpions,0
+2009-04,To/Die/For,0

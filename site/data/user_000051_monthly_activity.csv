@@ -1,0 +1,381 @@
+month,artist,plays
+2007-11,Amy Winehouse,0
+2007-11,Arctic Monkeys,35
+2007-11,Bloc Party,0
+2007-11,Cat Power,0
+2007-11,Franz Ferdinand,0
+2007-11,Garbage,0
+2007-11,Hot Chip,1
+2007-11,Interpol,9
+2007-11,Justin Timberlake,0
+2007-11,Keane,0
+2007-11,Kt Tunstall,2
+2007-11,Madonna,0
+2007-11,Oasis,0
+2007-11,Paolo Nutini,0
+2007-11,Pj Harvey,0
+2007-11,Rachael Yamagata,0
+2007-11,Sarah Blasko,8
+2007-11,The Killers,27
+2007-11,The Kooks,0
+2007-11,We Are Scientists,4
+2007-12,Amy Winehouse,81
+2007-12,Arctic Monkeys,143
+2007-12,Bloc Party,25
+2007-12,Cat Power,32
+2007-12,Franz Ferdinand,25
+2007-12,Garbage,6
+2007-12,Hot Chip,3
+2007-12,Interpol,23
+2007-12,Justin Timberlake,1
+2007-12,Keane,40
+2007-12,Kt Tunstall,69
+2007-12,Madonna,0
+2007-12,Oasis,36
+2007-12,Paolo Nutini,7
+2007-12,Pj Harvey,8
+2007-12,Rachael Yamagata,20
+2007-12,Sarah Blasko,42
+2007-12,The Killers,24
+2007-12,The Kooks,15
+2007-12,We Are Scientists,13
+2008-01,Amy Winehouse,13
+2008-01,Arctic Monkeys,50
+2008-01,Bloc Party,1
+2008-01,Cat Power,25
+2008-01,Franz Ferdinand,25
+2008-01,Garbage,24
+2008-01,Hot Chip,4
+2008-01,Interpol,52
+2008-01,Justin Timberlake,2
+2008-01,Keane,2
+2008-01,Kt Tunstall,41
+2008-01,Madonna,1
+2008-01,Oasis,28
+2008-01,Paolo Nutini,5
+2008-01,Pj Harvey,11
+2008-01,Rachael Yamagata,75
+2008-01,Sarah Blasko,48
+2008-01,The Killers,21
+2008-01,The Kooks,1
+2008-01,We Are Scientists,1
+2008-02,Amy Winehouse,11
+2008-02,Arctic Monkeys,18
+2008-02,Bloc Party,41
+2008-02,Cat Power,7
+2008-02,Franz Ferdinand,0
+2008-02,Garbage,0
+2008-02,Hot Chip,6
+2008-02,Interpol,38
+2008-02,Justin Timberlake,2
+2008-02,Keane,0
+2008-02,Kt Tunstall,32
+2008-02,Madonna,1
+2008-02,Oasis,0
+2008-02,Paolo Nutini,21
+2008-02,Pj Harvey,2
+2008-02,Rachael Yamagata,7
+2008-02,Sarah Blasko,64
+2008-02,The Killers,1
+2008-02,The Kooks,2
+2008-02,We Are Scientists,8
+2008-03,Amy Winehouse,15
+2008-03,Arctic Monkeys,60
+2008-03,Bloc Party,95
+2008-03,Cat Power,4
+2008-03,Franz Ferdinand,21
+2008-03,Garbage,9
+2008-03,Hot Chip,16
+2008-03,Interpol,74
+2008-03,Justin Timberlake,1
+2008-03,Keane,2
+2008-03,Kt Tunstall,31
+2008-03,Madonna,2
+2008-03,Oasis,6
+2008-03,Paolo Nutini,1
+2008-03,Pj Harvey,5
+2008-03,Rachael Yamagata,1
+2008-03,Sarah Blasko,29
+2008-03,The Killers,33
+2008-03,The Kooks,62
+2008-03,We Are Scientists,39
+2008-04,Amy Winehouse,21
+2008-04,Arctic Monkeys,80
+2008-04,Bloc Party,5
+2008-04,Cat Power,117
+2008-04,Franz Ferdinand,20
+2008-04,Garbage,8
+2008-04,Hot Chip,7
+2008-04,Interpol,92
+2008-04,Justin Timberlake,19
+2008-04,Keane,14
+2008-04,Kt Tunstall,24
+2008-04,Madonna,44
+2008-04,Oasis,4
+2008-04,Paolo Nutini,74
+2008-04,Pj Harvey,2
+2008-04,Rachael Yamagata,22
+2008-04,Sarah Blasko,41
+2008-04,The Killers,18
+2008-04,The Kooks,162
+2008-04,We Are Scientists,0
+2008-05,Amy Winehouse,7
+2008-05,Arctic Monkeys,16
+2008-05,Bloc Party,1
+2008-05,Cat Power,31
+2008-05,Franz Ferdinand,8
+2008-05,Garbage,0
+2008-05,Hot Chip,6
+2008-05,Interpol,3
+2008-05,Justin Timberlake,2
+2008-05,Keane,5
+2008-05,Kt Tunstall,6
+2008-05,Madonna,13
+2008-05,Oasis,0
+2008-05,Paolo Nutini,10
+2008-05,Pj Harvey,15
+2008-05,Rachael Yamagata,4
+2008-05,Sarah Blasko,1
+2008-05,The Killers,0
+2008-05,The Kooks,49
+2008-05,We Are Scientists,0
+2008-06,Amy Winehouse,0
+2008-06,Arctic Monkeys,35
+2008-06,Bloc Party,42
+2008-06,Cat Power,14
+2008-06,Franz Ferdinand,2
+2008-06,Garbage,1
+2008-06,Hot Chip,1
+2008-06,Interpol,26
+2008-06,Justin Timberlake,2
+2008-06,Keane,1
+2008-06,Kt Tunstall,10
+2008-06,Madonna,18
+2008-06,Oasis,1
+2008-06,Paolo Nutini,1
+2008-06,Pj Harvey,1
+2008-06,Rachael Yamagata,0
+2008-06,Sarah Blasko,0
+2008-06,The Killers,8
+2008-06,The Kooks,22
+2008-06,We Are Scientists,12
+2008-07,Amy Winehouse,0
+2008-07,Arctic Monkeys,4
+2008-07,Bloc Party,4
+2008-07,Cat Power,21
+2008-07,Franz Ferdinand,17
+2008-07,Garbage,18
+2008-07,Hot Chip,1
+2008-07,Interpol,8
+2008-07,Justin Timberlake,4
+2008-07,Keane,17
+2008-07,Kt Tunstall,30
+2008-07,Madonna,23
+2008-07,Oasis,6
+2008-07,Paolo Nutini,11
+2008-07,Pj Harvey,1
+2008-07,Rachael Yamagata,22
+2008-07,Sarah Blasko,6
+2008-07,The Killers,15
+2008-07,The Kooks,3
+2008-07,We Are Scientists,13
+2008-08,Amy Winehouse,0
+2008-08,Arctic Monkeys,2
+2008-08,Bloc Party,0
+2008-08,Cat Power,0
+2008-08,Franz Ferdinand,6
+2008-08,Garbage,8
+2008-08,Hot Chip,0
+2008-08,Interpol,1
+2008-08,Justin Timberlake,0
+2008-08,Keane,5
+2008-08,Kt Tunstall,0
+2008-08,Madonna,4
+2008-08,Oasis,0
+2008-08,Paolo Nutini,0
+2008-08,Pj Harvey,0
+2008-08,Rachael Yamagata,1
+2008-08,Sarah Blasko,0
+2008-08,The Killers,0
+2008-08,The Kooks,1
+2008-08,We Are Scientists,2
+2008-09,Amy Winehouse,12
+2008-09,Arctic Monkeys,28
+2008-09,Bloc Party,12
+2008-09,Cat Power,24
+2008-09,Franz Ferdinand,5
+2008-09,Garbage,23
+2008-09,Hot Chip,21
+2008-09,Interpol,5
+2008-09,Justin Timberlake,1
+2008-09,Keane,17
+2008-09,Kt Tunstall,33
+2008-09,Madonna,8
+2008-09,Oasis,24
+2008-09,Paolo Nutini,10
+2008-09,Pj Harvey,2
+2008-09,Rachael Yamagata,11
+2008-09,Sarah Blasko,1
+2008-09,The Killers,15
+2008-09,The Kooks,42
+2008-09,We Are Scientists,3
+2008-10,Amy Winehouse,12
+2008-10,Arctic Monkeys,34
+2008-10,Bloc Party,152
+2008-10,Cat Power,0
+2008-10,Franz Ferdinand,18
+2008-10,Garbage,33
+2008-10,Hot Chip,10
+2008-10,Interpol,43
+2008-10,Justin Timberlake,5
+2008-10,Keane,26
+2008-10,Kt Tunstall,192
+2008-10,Madonna,5
+2008-10,Oasis,40
+2008-10,Paolo Nutini,5
+2008-10,Pj Harvey,22
+2008-10,Rachael Yamagata,28
+2008-10,Sarah Blasko,4
+2008-10,The Killers,13
+2008-10,The Kooks,41
+2008-10,We Are Scientists,1
+2008-11,Amy Winehouse,0
+2008-11,Arctic Monkeys,25
+2008-11,Bloc Party,90
+2008-11,Cat Power,2
+2008-11,Franz Ferdinand,0
+2008-11,Garbage,0
+2008-11,Hot Chip,0
+2008-11,Interpol,7
+2008-11,Justin Timberlake,2
+2008-11,Keane,18
+2008-11,Kt Tunstall,26
+2008-11,Madonna,1
+2008-11,Oasis,14
+2008-11,Paolo Nutini,34
+2008-11,Pj Harvey,1
+2008-11,Rachael Yamagata,5
+2008-11,Sarah Blasko,18
+2008-11,The Killers,18
+2008-11,The Kooks,12
+2008-11,We Are Scientists,4
+2008-12,Amy Winehouse,0
+2008-12,Arctic Monkeys,0
+2008-12,Bloc Party,0
+2008-12,Cat Power,0
+2008-12,Franz Ferdinand,0
+2008-12,Garbage,0
+2008-12,Hot Chip,0
+2008-12,Interpol,0
+2008-12,Justin Timberlake,0
+2008-12,Keane,0
+2008-12,Kt Tunstall,0
+2008-12,Madonna,0
+2008-12,Oasis,0
+2008-12,Paolo Nutini,0
+2008-12,Pj Harvey,0
+2008-12,Rachael Yamagata,0
+2008-12,Sarah Blasko,0
+2008-12,The Killers,0
+2008-12,The Kooks,0
+2008-12,We Are Scientists,0
+2009-01,Amy Winehouse,0
+2009-01,Arctic Monkeys,0
+2009-01,Bloc Party,0
+2009-01,Cat Power,0
+2009-01,Franz Ferdinand,0
+2009-01,Garbage,0
+2009-01,Hot Chip,0
+2009-01,Interpol,0
+2009-01,Justin Timberlake,0
+2009-01,Keane,0
+2009-01,Kt Tunstall,0
+2009-01,Madonna,0
+2009-01,Oasis,0
+2009-01,Paolo Nutini,0
+2009-01,Pj Harvey,0
+2009-01,Rachael Yamagata,0
+2009-01,Sarah Blasko,0
+2009-01,The Killers,0
+2009-01,The Kooks,0
+2009-01,We Are Scientists,0
+2009-02,Amy Winehouse,2
+2009-02,Arctic Monkeys,0
+2009-02,Bloc Party,0
+2009-02,Cat Power,21
+2009-02,Franz Ferdinand,0
+2009-02,Garbage,16
+2009-02,Hot Chip,0
+2009-02,Interpol,21
+2009-02,Justin Timberlake,0
+2009-02,Keane,0
+2009-02,Kt Tunstall,0
+2009-02,Madonna,0
+2009-02,Oasis,5
+2009-02,Paolo Nutini,0
+2009-02,Pj Harvey,0
+2009-02,Rachael Yamagata,0
+2009-02,Sarah Blasko,0
+2009-02,The Killers,0
+2009-02,The Kooks,0
+2009-02,We Are Scientists,0
+2009-03,Amy Winehouse,10
+2009-03,Arctic Monkeys,4
+2009-03,Bloc Party,4
+2009-03,Cat Power,1
+2009-03,Franz Ferdinand,10
+2009-03,Garbage,1
+2009-03,Hot Chip,0
+2009-03,Interpol,6
+2009-03,Justin Timberlake,0
+2009-03,Keane,80
+2009-03,Kt Tunstall,10
+2009-03,Madonna,1
+2009-03,Oasis,12
+2009-03,Paolo Nutini,1
+2009-03,Pj Harvey,0
+2009-03,Rachael Yamagata,1
+2009-03,Sarah Blasko,11
+2009-03,The Killers,0
+2009-03,The Kooks,10
+2009-03,We Are Scientists,0
+2009-04,Amy Winehouse,0
+2009-04,Arctic Monkeys,18
+2009-04,Bloc Party,1
+2009-04,Cat Power,0
+2009-04,Franz Ferdinand,0
+2009-04,Garbage,0
+2009-04,Hot Chip,0
+2009-04,Interpol,10
+2009-04,Justin Timberlake,0
+2009-04,Keane,0
+2009-04,Kt Tunstall,0
+2009-04,Madonna,0
+2009-04,Oasis,8
+2009-04,Paolo Nutini,0
+2009-04,Pj Harvey,0
+2009-04,Rachael Yamagata,0
+2009-04,Sarah Blasko,2
+2009-04,The Killers,0
+2009-04,The Kooks,0
+2009-04,We Are Scientists,0
+2009-05,Amy Winehouse,0
+2009-05,Arctic Monkeys,0
+2009-05,Bloc Party,0
+2009-05,Cat Power,10
+2009-05,Franz Ferdinand,0
+2009-05,Garbage,0
+2009-05,Hot Chip,0
+2009-05,Interpol,0
+2009-05,Justin Timberlake,0
+2009-05,Keane,0
+2009-05,Kt Tunstall,0
+2009-05,Madonna,0
+2009-05,Oasis,0
+2009-05,Paolo Nutini,0
+2009-05,Pj Harvey,0
+2009-05,Rachael Yamagata,0
+2009-05,Sarah Blasko,0
+2009-05,The Killers,0
+2009-05,The Kooks,0
+2009-05,We Are Scientists,0

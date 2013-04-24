@@ -1,0 +1,981 @@
+month,artist,plays
+2005-06,Backyard Babies,7
+2005-06,Bywar,0
+2005-06,Cannibal Corpse,0
+2005-06,Carcass,0
+2005-06,D.R.I.,0
+2005-06,Destruction,0
+2005-06,Dfc,0
+2005-06,Dorsal Atlântica,0
+2005-06,Dxdxox,0
+2005-06,Exodus,0
+2005-06,Hypocrisy,0
+2005-06,Iron Maiden,0
+2005-06,Kreator,0
+2005-06,Megadeth,0
+2005-06,Metallica,0
+2005-06,Motörhead,0
+2005-06,Ratos De Porão,0
+2005-06,Slayer,0
+2005-06,Tankard,0
+2005-06,Violator,0
+2005-07,Backyard Babies,1
+2005-07,Bywar,0
+2005-07,Cannibal Corpse,2
+2005-07,Carcass,13
+2005-07,D.R.I.,0
+2005-07,Destruction,11
+2005-07,Dfc,0
+2005-07,Dorsal Atlântica,0
+2005-07,Dxdxox,0
+2005-07,Exodus,2
+2005-07,Hypocrisy,42
+2005-07,Iron Maiden,24
+2005-07,Kreator,5
+2005-07,Megadeth,2
+2005-07,Metallica,10
+2005-07,Motörhead,0
+2005-07,Ratos De Porão,9
+2005-07,Slayer,1
+2005-07,Tankard,0
+2005-07,Violator,0
+2005-08,Backyard Babies,8
+2005-08,Bywar,0
+2005-08,Cannibal Corpse,25
+2005-08,Carcass,16
+2005-08,D.R.I.,0
+2005-08,Destruction,0
+2005-08,Dfc,3
+2005-08,Dorsal Atlântica,0
+2005-08,Dxdxox,0
+2005-08,Exodus,7
+2005-08,Hypocrisy,36
+2005-08,Iron Maiden,32
+2005-08,Kreator,7
+2005-08,Megadeth,15
+2005-08,Metallica,25
+2005-08,Motörhead,1
+2005-08,Ratos De Porão,0
+2005-08,Slayer,19
+2005-08,Tankard,0
+2005-08,Violator,0
+2005-09,Backyard Babies,9
+2005-09,Bywar,0
+2005-09,Cannibal Corpse,53
+2005-09,Carcass,1
+2005-09,D.R.I.,0
+2005-09,Destruction,16
+2005-09,Dfc,11
+2005-09,Dorsal Atlântica,0
+2005-09,Dxdxox,0
+2005-09,Exodus,0
+2005-09,Hypocrisy,13
+2005-09,Iron Maiden,0
+2005-09,Kreator,18
+2005-09,Megadeth,18
+2005-09,Metallica,9
+2005-09,Motörhead,15
+2005-09,Ratos De Porão,11
+2005-09,Slayer,64
+2005-09,Tankard,0
+2005-09,Violator,0
+2005-10,Backyard Babies,2
+2005-10,Bywar,0
+2005-10,Cannibal Corpse,23
+2005-10,Carcass,8
+2005-10,D.R.I.,0
+2005-10,Destruction,18
+2005-10,Dfc,118
+2005-10,Dorsal Atlântica,0
+2005-10,Dxdxox,0
+2005-10,Exodus,9
+2005-10,Hypocrisy,20
+2005-10,Iron Maiden,3
+2005-10,Kreator,139
+2005-10,Megadeth,27
+2005-10,Metallica,8
+2005-10,Motörhead,28
+2005-10,Ratos De Porão,0
+2005-10,Slayer,10
+2005-10,Tankard,11
+2005-10,Violator,0
+2005-11,Backyard Babies,4
+2005-11,Bywar,0
+2005-11,Cannibal Corpse,21
+2005-11,Carcass,9
+2005-11,D.R.I.,4
+2005-11,Destruction,0
+2005-11,Dfc,62
+2005-11,Dorsal Atlântica,7
+2005-11,Dxdxox,0
+2005-11,Exodus,5
+2005-11,Hypocrisy,2
+2005-11,Iron Maiden,7
+2005-11,Kreator,32
+2005-11,Megadeth,4
+2005-11,Metallica,6
+2005-11,Motörhead,0
+2005-11,Ratos De Porão,7
+2005-11,Slayer,43
+2005-11,Tankard,7
+2005-11,Violator,0
+2005-12,Backyard Babies,7
+2005-12,Bywar,0
+2005-12,Cannibal Corpse,28
+2005-12,Carcass,17
+2005-12,D.R.I.,0
+2005-12,Destruction,0
+2005-12,Dfc,0
+2005-12,Dorsal Atlântica,20
+2005-12,Dxdxox,0
+2005-12,Exodus,0
+2005-12,Hypocrisy,0
+2005-12,Iron Maiden,8
+2005-12,Kreator,93
+2005-12,Megadeth,27
+2005-12,Metallica,0
+2005-12,Motörhead,0
+2005-12,Ratos De Porão,0
+2005-12,Slayer,62
+2005-12,Tankard,0
+2005-12,Violator,0
+2006-01,Backyard Babies,2
+2006-01,Bywar,0
+2006-01,Cannibal Corpse,0
+2006-01,Carcass,0
+2006-01,D.R.I.,0
+2006-01,Destruction,0
+2006-01,Dfc,15
+2006-01,Dorsal Atlântica,0
+2006-01,Dxdxox,0
+2006-01,Exodus,0
+2006-01,Hypocrisy,36
+2006-01,Iron Maiden,0
+2006-01,Kreator,20
+2006-01,Megadeth,0
+2006-01,Metallica,0
+2006-01,Motörhead,0
+2006-01,Ratos De Porão,0
+2006-01,Slayer,0
+2006-01,Tankard,0
+2006-01,Violator,0
+2006-02,Backyard Babies,0
+2006-02,Bywar,0
+2006-02,Cannibal Corpse,0
+2006-02,Carcass,0
+2006-02,D.R.I.,0
+2006-02,Destruction,0
+2006-02,Dfc,0
+2006-02,Dorsal Atlântica,0
+2006-02,Dxdxox,0
+2006-02,Exodus,0
+2006-02,Hypocrisy,0
+2006-02,Iron Maiden,0
+2006-02,Kreator,0
+2006-02,Megadeth,0
+2006-02,Metallica,0
+2006-02,Motörhead,0
+2006-02,Ratos De Porão,0
+2006-02,Slayer,0
+2006-02,Tankard,0
+2006-02,Violator,0
+2006-03,Backyard Babies,0
+2006-03,Bywar,0
+2006-03,Cannibal Corpse,11
+2006-03,Carcass,0
+2006-03,D.R.I.,0
+2006-03,Destruction,0
+2006-03,Dfc,1
+2006-03,Dorsal Atlântica,0
+2006-03,Dxdxox,3
+2006-03,Exodus,0
+2006-03,Hypocrisy,11
+2006-03,Iron Maiden,0
+2006-03,Kreator,0
+2006-03,Megadeth,0
+2006-03,Metallica,0
+2006-03,Motörhead,0
+2006-03,Ratos De Porão,0
+2006-03,Slayer,5
+2006-03,Tankard,0
+2006-03,Violator,0
+2006-04,Backyard Babies,0
+2006-04,Bywar,0
+2006-04,Cannibal Corpse,74
+2006-04,Carcass,113
+2006-04,D.R.I.,66
+2006-04,Destruction,7
+2006-04,Dfc,60
+2006-04,Dorsal Atlântica,3
+2006-04,Dxdxox,6
+2006-04,Exodus,0
+2006-04,Hypocrisy,35
+2006-04,Iron Maiden,16
+2006-04,Kreator,51
+2006-04,Megadeth,7
+2006-04,Metallica,0
+2006-04,Motörhead,22
+2006-04,Ratos De Porão,11
+2006-04,Slayer,17
+2006-04,Tankard,0
+2006-04,Violator,0
+2006-05,Backyard Babies,0
+2006-05,Bywar,0
+2006-05,Cannibal Corpse,33
+2006-05,Carcass,87
+2006-05,D.R.I.,0
+2006-05,Destruction,33
+2006-05,Dfc,39
+2006-05,Dorsal Atlântica,0
+2006-05,Dxdxox,15
+2006-05,Exodus,0
+2006-05,Hypocrisy,0
+2006-05,Iron Maiden,7
+2006-05,Kreator,174
+2006-05,Megadeth,9
+2006-05,Metallica,57
+2006-05,Motörhead,0
+2006-05,Ratos De Porão,10
+2006-05,Slayer,16
+2006-05,Tankard,0
+2006-05,Violator,0
+2006-06,Backyard Babies,0
+2006-06,Bywar,0
+2006-06,Cannibal Corpse,0
+2006-06,Carcass,65
+2006-06,D.R.I.,6
+2006-06,Destruction,56
+2006-06,Dfc,11
+2006-06,Dorsal Atlântica,0
+2006-06,Dxdxox,2
+2006-06,Exodus,0
+2006-06,Hypocrisy,14
+2006-06,Iron Maiden,5
+2006-06,Kreator,19
+2006-06,Megadeth,28
+2006-06,Metallica,2
+2006-06,Motörhead,16
+2006-06,Ratos De Porão,0
+2006-06,Slayer,4
+2006-06,Tankard,0
+2006-06,Violator,0
+2006-07,Backyard Babies,0
+2006-07,Bywar,0
+2006-07,Cannibal Corpse,4
+2006-07,Carcass,0
+2006-07,D.R.I.,0
+2006-07,Destruction,0
+2006-07,Dfc,0
+2006-07,Dorsal Atlântica,0
+2006-07,Dxdxox,0
+2006-07,Exodus,0
+2006-07,Hypocrisy,5
+2006-07,Iron Maiden,0
+2006-07,Kreator,0
+2006-07,Megadeth,12
+2006-07,Metallica,0
+2006-07,Motörhead,0
+2006-07,Ratos De Porão,0
+2006-07,Slayer,5
+2006-07,Tankard,12
+2006-07,Violator,0
+2006-08,Backyard Babies,0
+2006-08,Bywar,39
+2006-08,Cannibal Corpse,11
+2006-08,Carcass,43
+2006-08,D.R.I.,20
+2006-08,Destruction,2
+2006-08,Dfc,1
+2006-08,Dorsal Atlântica,9
+2006-08,Dxdxox,5
+2006-08,Exodus,0
+2006-08,Hypocrisy,102
+2006-08,Iron Maiden,76
+2006-08,Kreator,21
+2006-08,Megadeth,17
+2006-08,Metallica,1
+2006-08,Motörhead,0
+2006-08,Ratos De Porão,0
+2006-08,Slayer,247
+2006-08,Tankard,60
+2006-08,Violator,20
+2006-09,Backyard Babies,0
+2006-09,Bywar,0
+2006-09,Cannibal Corpse,16
+2006-09,Carcass,21
+2006-09,D.R.I.,2
+2006-09,Destruction,0
+2006-09,Dfc,4
+2006-09,Dorsal Atlântica,0
+2006-09,Dxdxox,2
+2006-09,Exodus,0
+2006-09,Hypocrisy,98
+2006-09,Iron Maiden,67
+2006-09,Kreator,49
+2006-09,Megadeth,9
+2006-09,Metallica,2
+2006-09,Motörhead,0
+2006-09,Ratos De Porão,0
+2006-09,Slayer,127
+2006-09,Tankard,10
+2006-09,Violator,1
+2006-10,Backyard Babies,0
+2006-10,Bywar,3
+2006-10,Cannibal Corpse,5
+2006-10,Carcass,2
+2006-10,D.R.I.,0
+2006-10,Destruction,0
+2006-10,Dfc,0
+2006-10,Dorsal Atlântica,0
+2006-10,Dxdxox,7
+2006-10,Exodus,12
+2006-10,Hypocrisy,29
+2006-10,Iron Maiden,1
+2006-10,Kreator,32
+2006-10,Megadeth,0
+2006-10,Metallica,0
+2006-10,Motörhead,14
+2006-10,Ratos De Porão,0
+2006-10,Slayer,0
+2006-10,Tankard,0
+2006-10,Violator,6
+2006-11,Backyard Babies,0
+2006-11,Bywar,6
+2006-11,Cannibal Corpse,22
+2006-11,Carcass,13
+2006-11,D.R.I.,14
+2006-11,Destruction,0
+2006-11,Dfc,4
+2006-11,Dorsal Atlântica,41
+2006-11,Dxdxox,5
+2006-11,Exodus,0
+2006-11,Hypocrisy,96
+2006-11,Iron Maiden,26
+2006-11,Kreator,16
+2006-11,Megadeth,0
+2006-11,Metallica,13
+2006-11,Motörhead,0
+2006-11,Ratos De Porão,28
+2006-11,Slayer,28
+2006-11,Tankard,26
+2006-11,Violator,23
+2006-12,Backyard Babies,2
+2006-12,Bywar,0
+2006-12,Cannibal Corpse,36
+2006-12,Carcass,20
+2006-12,D.R.I.,4
+2006-12,Destruction,0
+2006-12,Dfc,7
+2006-12,Dorsal Atlântica,0
+2006-12,Dxdxox,0
+2006-12,Exodus,2
+2006-12,Hypocrisy,13
+2006-12,Iron Maiden,0
+2006-12,Kreator,0
+2006-12,Megadeth,18
+2006-12,Metallica,5
+2006-12,Motörhead,0
+2006-12,Ratos De Porão,0
+2006-12,Slayer,17
+2006-12,Tankard,23
+2006-12,Violator,0
+2007-01,Backyard Babies,3
+2007-01,Bywar,18
+2007-01,Cannibal Corpse,36
+2007-01,Carcass,26
+2007-01,D.R.I.,0
+2007-01,Destruction,12
+2007-01,Dfc,10
+2007-01,Dorsal Atlântica,17
+2007-01,Dxdxox,2
+2007-01,Exodus,0
+2007-01,Hypocrisy,40
+2007-01,Iron Maiden,9
+2007-01,Kreator,27
+2007-01,Megadeth,0
+2007-01,Metallica,0
+2007-01,Motörhead,85
+2007-01,Ratos De Porão,24
+2007-01,Slayer,25
+2007-01,Tankard,0
+2007-01,Violator,1
+2007-02,Backyard Babies,1
+2007-02,Bywar,0
+2007-02,Cannibal Corpse,0
+2007-02,Carcass,3
+2007-02,D.R.I.,0
+2007-02,Destruction,6
+2007-02,Dfc,0
+2007-02,Dorsal Atlântica,2
+2007-02,Dxdxox,0
+2007-02,Exodus,0
+2007-02,Hypocrisy,13
+2007-02,Iron Maiden,11
+2007-02,Kreator,13
+2007-02,Megadeth,44
+2007-02,Metallica,0
+2007-02,Motörhead,35
+2007-02,Ratos De Porão,0
+2007-02,Slayer,0
+2007-02,Tankard,22
+2007-02,Violator,0
+2007-03,Backyard Babies,3
+2007-03,Bywar,0
+2007-03,Cannibal Corpse,29
+2007-03,Carcass,18
+2007-03,D.R.I.,3
+2007-03,Destruction,46
+2007-03,Dfc,4
+2007-03,Dorsal Atlântica,196
+2007-03,Dxdxox,0
+2007-03,Exodus,10
+2007-03,Hypocrisy,70
+2007-03,Iron Maiden,5
+2007-03,Kreator,50
+2007-03,Megadeth,2
+2007-03,Metallica,61
+2007-03,Motörhead,19
+2007-03,Ratos De Porão,10
+2007-03,Slayer,15
+2007-03,Tankard,30
+2007-03,Violator,25
+2007-04,Backyard Babies,0
+2007-04,Bywar,89
+2007-04,Cannibal Corpse,19
+2007-04,Carcass,30
+2007-04,D.R.I.,4
+2007-04,Destruction,0
+2007-04,Dfc,0
+2007-04,Dorsal Atlântica,94
+2007-04,Dxdxox,7
+2007-04,Exodus,3
+2007-04,Hypocrisy,29
+2007-04,Iron Maiden,20
+2007-04,Kreator,38
+2007-04,Megadeth,19
+2007-04,Metallica,23
+2007-04,Motörhead,5
+2007-04,Ratos De Porão,0
+2007-04,Slayer,35
+2007-04,Tankard,7
+2007-04,Violator,8
+2007-05,Backyard Babies,0
+2007-05,Bywar,29
+2007-05,Cannibal Corpse,3
+2007-05,Carcass,0
+2007-05,D.R.I.,17
+2007-05,Destruction,10
+2007-05,Dfc,0
+2007-05,Dorsal Atlântica,20
+2007-05,Dxdxox,3
+2007-05,Exodus,7
+2007-05,Hypocrisy,4
+2007-05,Iron Maiden,0
+2007-05,Kreator,15
+2007-05,Megadeth,4
+2007-05,Metallica,0
+2007-05,Motörhead,34
+2007-05,Ratos De Porão,0
+2007-05,Slayer,13
+2007-05,Tankard,3
+2007-05,Violator,11
+2007-06,Backyard Babies,0
+2007-06,Bywar,19
+2007-06,Cannibal Corpse,0
+2007-06,Carcass,1
+2007-06,D.R.I.,0
+2007-06,Destruction,0
+2007-06,Dfc,0
+2007-06,Dorsal Atlântica,14
+2007-06,Dxdxox,0
+2007-06,Exodus,0
+2007-06,Hypocrisy,1
+2007-06,Iron Maiden,4
+2007-06,Kreator,0
+2007-06,Megadeth,0
+2007-06,Metallica,0
+2007-06,Motörhead,0
+2007-06,Ratos De Porão,10
+2007-06,Slayer,0
+2007-06,Tankard,4
+2007-06,Violator,8
+2007-07,Backyard Babies,0
+2007-07,Bywar,0
+2007-07,Cannibal Corpse,0
+2007-07,Carcass,0
+2007-07,D.R.I.,0
+2007-07,Destruction,0
+2007-07,Dfc,0
+2007-07,Dorsal Atlântica,0
+2007-07,Dxdxox,0
+2007-07,Exodus,0
+2007-07,Hypocrisy,0
+2007-07,Iron Maiden,0
+2007-07,Kreator,0
+2007-07,Megadeth,0
+2007-07,Metallica,0
+2007-07,Motörhead,0
+2007-07,Ratos De Porão,0
+2007-07,Slayer,0
+2007-07,Tankard,0
+2007-07,Violator,0
+2007-08,Backyard Babies,0
+2007-08,Bywar,24
+2007-08,Cannibal Corpse,53
+2007-08,Carcass,34
+2007-08,D.R.I.,4
+2007-08,Destruction,9
+2007-08,Dfc,0
+2007-08,Dorsal Atlântica,8
+2007-08,Dxdxox,0
+2007-08,Exodus,0
+2007-08,Hypocrisy,19
+2007-08,Iron Maiden,0
+2007-08,Kreator,47
+2007-08,Megadeth,10
+2007-08,Metallica,13
+2007-08,Motörhead,0
+2007-08,Ratos De Porão,15
+2007-08,Slayer,20
+2007-08,Tankard,47
+2007-08,Violator,112
+2007-09,Backyard Babies,1
+2007-09,Bywar,20
+2007-09,Cannibal Corpse,11
+2007-09,Carcass,26
+2007-09,D.R.I.,33
+2007-09,Destruction,7
+2007-09,Dfc,7
+2007-09,Dorsal Atlântica,3
+2007-09,Dxdxox,6
+2007-09,Exodus,0
+2007-09,Hypocrisy,16
+2007-09,Iron Maiden,14
+2007-09,Kreator,54
+2007-09,Megadeth,20
+2007-09,Metallica,8
+2007-09,Motörhead,0
+2007-09,Ratos De Porão,51
+2007-09,Slayer,0
+2007-09,Tankard,0
+2007-09,Violator,15
+2007-10,Backyard Babies,28
+2007-10,Bywar,6
+2007-10,Cannibal Corpse,18
+2007-10,Carcass,12
+2007-10,D.R.I.,43
+2007-10,Destruction,9
+2007-10,Dfc,0
+2007-10,Dorsal Atlântica,13
+2007-10,Dxdxox,3
+2007-10,Exodus,17
+2007-10,Hypocrisy,5
+2007-10,Iron Maiden,1
+2007-10,Kreator,54
+2007-10,Megadeth,25
+2007-10,Metallica,18
+2007-10,Motörhead,38
+2007-10,Ratos De Porão,1
+2007-10,Slayer,9
+2007-10,Tankard,21
+2007-10,Violator,97
+2007-11,Backyard Babies,7
+2007-11,Bywar,4
+2007-11,Cannibal Corpse,24
+2007-11,Carcass,28
+2007-11,D.R.I.,24
+2007-11,Destruction,1
+2007-11,Dfc,11
+2007-11,Dorsal Atlântica,2
+2007-11,Dxdxox,16
+2007-11,Exodus,20
+2007-11,Hypocrisy,0
+2007-11,Iron Maiden,7
+2007-11,Kreator,5
+2007-11,Megadeth,0
+2007-11,Metallica,0
+2007-11,Motörhead,18
+2007-11,Ratos De Porão,28
+2007-11,Slayer,94
+2007-11,Tankard,8
+2007-11,Violator,117
+2007-12,Backyard Babies,0
+2007-12,Bywar,1
+2007-12,Cannibal Corpse,0
+2007-12,Carcass,0
+2007-12,D.R.I.,10
+2007-12,Destruction,0
+2007-12,Dfc,0
+2007-12,Dorsal Atlântica,0
+2007-12,Dxdxox,0
+2007-12,Exodus,10
+2007-12,Hypocrisy,0
+2007-12,Iron Maiden,0
+2007-12,Kreator,0
+2007-12,Megadeth,0
+2007-12,Metallica,1
+2007-12,Motörhead,0
+2007-12,Ratos De Porão,15
+2007-12,Slayer,14
+2007-12,Tankard,0
+2007-12,Violator,37
+2008-01,Backyard Babies,0
+2008-01,Bywar,10
+2008-01,Cannibal Corpse,4
+2008-01,Carcass,9
+2008-01,D.R.I.,0
+2008-01,Destruction,0
+2008-01,Dfc,0
+2008-01,Dorsal Atlântica,0
+2008-01,Dxdxox,2
+2008-01,Exodus,0
+2008-01,Hypocrisy,0
+2008-01,Iron Maiden,0
+2008-01,Kreator,0
+2008-01,Megadeth,0
+2008-01,Metallica,0
+2008-01,Motörhead,0
+2008-01,Ratos De Porão,0
+2008-01,Slayer,0
+2008-01,Tankard,0
+2008-01,Violator,0
+2008-02,Backyard Babies,0
+2008-02,Bywar,1
+2008-02,Cannibal Corpse,1
+2008-02,Carcass,2
+2008-02,D.R.I.,1
+2008-02,Destruction,10
+2008-02,Dfc,11
+2008-02,Dorsal Atlântica,7
+2008-02,Dxdxox,1
+2008-02,Exodus,4
+2008-02,Hypocrisy,1
+2008-02,Iron Maiden,1
+2008-02,Kreator,55
+2008-02,Megadeth,1
+2008-02,Metallica,0
+2008-02,Motörhead,0
+2008-02,Ratos De Porão,9
+2008-02,Slayer,9
+2008-02,Tankard,4
+2008-02,Violator,0
+2008-03,Backyard Babies,0
+2008-03,Bywar,24
+2008-03,Cannibal Corpse,79
+2008-03,Carcass,5
+2008-03,D.R.I.,8
+2008-03,Destruction,12
+2008-03,Dfc,61
+2008-03,Dorsal Atlântica,6
+2008-03,Dxdxox,0
+2008-03,Exodus,37
+2008-03,Hypocrisy,14
+2008-03,Iron Maiden,13
+2008-03,Kreator,10
+2008-03,Megadeth,0
+2008-03,Metallica,10
+2008-03,Motörhead,1
+2008-03,Ratos De Porão,0
+2008-03,Slayer,62
+2008-03,Tankard,9
+2008-03,Violator,45
+2008-04,Backyard Babies,0
+2008-04,Bywar,5
+2008-04,Cannibal Corpse,7
+2008-04,Carcass,11
+2008-04,D.R.I.,40
+2008-04,Destruction,27
+2008-04,Dfc,0
+2008-04,Dorsal Atlântica,31
+2008-04,Dxdxox,0
+2008-04,Exodus,59
+2008-04,Hypocrisy,0
+2008-04,Iron Maiden,0
+2008-04,Kreator,52
+2008-04,Megadeth,0
+2008-04,Metallica,7
+2008-04,Motörhead,51
+2008-04,Ratos De Porão,21
+2008-04,Slayer,96
+2008-04,Tankard,77
+2008-04,Violator,35
+2008-05,Backyard Babies,0
+2008-05,Bywar,27
+2008-05,Cannibal Corpse,0
+2008-05,Carcass,0
+2008-05,D.R.I.,8
+2008-05,Destruction,38
+2008-05,Dfc,0
+2008-05,Dorsal Atlântica,6
+2008-05,Dxdxox,0
+2008-05,Exodus,2
+2008-05,Hypocrisy,6
+2008-05,Iron Maiden,0
+2008-05,Kreator,7
+2008-05,Megadeth,55
+2008-05,Metallica,3
+2008-05,Motörhead,5
+2008-05,Ratos De Porão,12
+2008-05,Slayer,7
+2008-05,Tankard,0
+2008-05,Violator,0
+2008-06,Backyard Babies,23
+2008-06,Bywar,2
+2008-06,Cannibal Corpse,3
+2008-06,Carcass,14
+2008-06,D.R.I.,27
+2008-06,Destruction,0
+2008-06,Dfc,0
+2008-06,Dorsal Atlântica,1
+2008-06,Dxdxox,0
+2008-06,Exodus,11
+2008-06,Hypocrisy,3
+2008-06,Iron Maiden,16
+2008-06,Kreator,12
+2008-06,Megadeth,0
+2008-06,Metallica,10
+2008-06,Motörhead,3
+2008-06,Ratos De Porão,10
+2008-06,Slayer,0
+2008-06,Tankard,12
+2008-06,Violator,0
+2008-07,Backyard Babies,0
+2008-07,Bywar,1
+2008-07,Cannibal Corpse,0
+2008-07,Carcass,2
+2008-07,D.R.I.,1
+2008-07,Destruction,0
+2008-07,Dfc,0
+2008-07,Dorsal Atlântica,0
+2008-07,Dxdxox,0
+2008-07,Exodus,0
+2008-07,Hypocrisy,0
+2008-07,Iron Maiden,0
+2008-07,Kreator,0
+2008-07,Megadeth,0
+2008-07,Metallica,0
+2008-07,Motörhead,0
+2008-07,Ratos De Porão,0
+2008-07,Slayer,0
+2008-07,Tankard,0
+2008-07,Violator,0
+2008-08,Backyard Babies,48
+2008-08,Bywar,4
+2008-08,Cannibal Corpse,28
+2008-08,Carcass,17
+2008-08,D.R.I.,62
+2008-08,Destruction,1
+2008-08,Dfc,15
+2008-08,Dorsal Atlântica,2
+2008-08,Dxdxox,9
+2008-08,Exodus,12
+2008-08,Hypocrisy,7
+2008-08,Iron Maiden,15
+2008-08,Kreator,14
+2008-08,Megadeth,11
+2008-08,Metallica,19
+2008-08,Motörhead,3
+2008-08,Ratos De Porão,55
+2008-08,Slayer,22
+2008-08,Tankard,3
+2008-08,Violator,13
+2008-09,Backyard Babies,70
+2008-09,Bywar,8
+2008-09,Cannibal Corpse,3
+2008-09,Carcass,11
+2008-09,D.R.I.,29
+2008-09,Destruction,48
+2008-09,Dfc,56
+2008-09,Dorsal Atlântica,21
+2008-09,Dxdxox,121
+2008-09,Exodus,40
+2008-09,Hypocrisy,2
+2008-09,Iron Maiden,4
+2008-09,Kreator,14
+2008-09,Megadeth,8
+2008-09,Metallica,169
+2008-09,Motörhead,76
+2008-09,Ratos De Porão,53
+2008-09,Slayer,2
+2008-09,Tankard,27
+2008-09,Violator,30
+2008-10,Backyard Babies,27
+2008-10,Bywar,4
+2008-10,Cannibal Corpse,11
+2008-10,Carcass,11
+2008-10,D.R.I.,11
+2008-10,Destruction,16
+2008-10,Dfc,0
+2008-10,Dorsal Atlântica,24
+2008-10,Dxdxox,32
+2008-10,Exodus,57
+2008-10,Hypocrisy,0
+2008-10,Iron Maiden,41
+2008-10,Kreator,14
+2008-10,Megadeth,26
+2008-10,Metallica,3
+2008-10,Motörhead,24
+2008-10,Ratos De Porão,47
+2008-10,Slayer,15
+2008-10,Tankard,28
+2008-10,Violator,2
+2008-11,Backyard Babies,206
+2008-11,Bywar,45
+2008-11,Cannibal Corpse,0
+2008-11,Carcass,7
+2008-11,D.R.I.,3
+2008-11,Destruction,19
+2008-11,Dfc,8
+2008-11,Dorsal Atlântica,10
+2008-11,Dxdxox,8
+2008-11,Exodus,51
+2008-11,Hypocrisy,13
+2008-11,Iron Maiden,0
+2008-11,Kreator,29
+2008-11,Megadeth,0
+2008-11,Metallica,19
+2008-11,Motörhead,0
+2008-11,Ratos De Porão,55
+2008-11,Slayer,17
+2008-11,Tankard,34
+2008-11,Violator,10
+2008-12,Backyard Babies,46
+2008-12,Bywar,20
+2008-12,Cannibal Corpse,6
+2008-12,Carcass,0
+2008-12,D.R.I.,0
+2008-12,Destruction,9
+2008-12,Dfc,53
+2008-12,Dorsal Atlântica,2
+2008-12,Dxdxox,12
+2008-12,Exodus,35
+2008-12,Hypocrisy,0
+2008-12,Iron Maiden,1
+2008-12,Kreator,26
+2008-12,Megadeth,22
+2008-12,Metallica,17
+2008-12,Motörhead,15
+2008-12,Ratos De Porão,31
+2008-12,Slayer,11
+2008-12,Tankard,0
+2008-12,Violator,1
+2009-01,Backyard Babies,11
+2009-01,Bywar,9
+2009-01,Cannibal Corpse,5
+2009-01,Carcass,3
+2009-01,D.R.I.,5
+2009-01,Destruction,6
+2009-01,Dfc,3
+2009-01,Dorsal Atlântica,3
+2009-01,Dxdxox,19
+2009-01,Exodus,0
+2009-01,Hypocrisy,0
+2009-01,Iron Maiden,6
+2009-01,Kreator,10
+2009-01,Megadeth,0
+2009-01,Metallica,0
+2009-01,Motörhead,55
+2009-01,Ratos De Porão,3
+2009-01,Slayer,0
+2009-01,Tankard,0
+2009-01,Violator,1
+2009-02,Backyard Babies,9
+2009-02,Bywar,16
+2009-02,Cannibal Corpse,0
+2009-02,Carcass,0
+2009-02,D.R.I.,70
+2009-02,Destruction,0
+2009-02,Dfc,0
+2009-02,Dorsal Atlântica,0
+2009-02,Dxdxox,1
+2009-02,Exodus,10
+2009-02,Hypocrisy,3
+2009-02,Iron Maiden,31
+2009-02,Kreator,22
+2009-02,Megadeth,0
+2009-02,Metallica,3
+2009-02,Motörhead,3
+2009-02,Ratos De Porão,10
+2009-02,Slayer,19
+2009-02,Tankard,9
+2009-02,Violator,1
+2009-03,Backyard Babies,19
+2009-03,Bywar,17
+2009-03,Cannibal Corpse,14
+2009-03,Carcass,14
+2009-03,D.R.I.,37
+2009-03,Destruction,0
+2009-03,Dfc,7
+2009-03,Dorsal Atlântica,9
+2009-03,Dxdxox,43
+2009-03,Exodus,0
+2009-03,Hypocrisy,3
+2009-03,Iron Maiden,38
+2009-03,Kreator,2
+2009-03,Megadeth,0
+2009-03,Metallica,5
+2009-03,Motörhead,18
+2009-03,Ratos De Porão,24
+2009-03,Slayer,26
+2009-03,Tankard,2
+2009-03,Violator,1
+2009-04,Backyard Babies,19
+2009-04,Bywar,40
+2009-04,Cannibal Corpse,12
+2009-04,Carcass,15
+2009-04,D.R.I.,0
+2009-04,Destruction,2
+2009-04,Dfc,4
+2009-04,Dorsal Atlântica,0
+2009-04,Dxdxox,13
+2009-04,Exodus,37
+2009-04,Hypocrisy,21
+2009-04,Iron Maiden,35
+2009-04,Kreator,5
+2009-04,Megadeth,0
+2009-04,Metallica,33
+2009-04,Motörhead,87
+2009-04,Ratos De Porão,12
+2009-04,Slayer,62
+2009-04,Tankard,0
+2009-04,Violator,0
+2009-05,Backyard Babies,56
+2009-05,Bywar,11
+2009-05,Cannibal Corpse,3
+2009-05,Carcass,8
+2009-05,D.R.I.,24
+2009-05,Destruction,22
+2009-05,Dfc,0
+2009-05,Dorsal Atlântica,7
+2009-05,Dxdxox,7
+2009-05,Exodus,21
+2009-05,Hypocrisy,0
+2009-05,Iron Maiden,7
+2009-05,Kreator,14
+2009-05,Megadeth,0
+2009-05,Metallica,4
+2009-05,Motörhead,10
+2009-05,Ratos De Porão,0
+2009-05,Slayer,21
+2009-05,Tankard,2
+2009-05,Violator,12
+2009-06,Backyard Babies,15
+2009-06,Bywar,11
+2009-06,Cannibal Corpse,9
+2009-06,Carcass,0
+2009-06,D.R.I.,88
+2009-06,Destruction,1
+2009-06,Dfc,0
+2009-06,Dorsal Atlântica,0
+2009-06,Dxdxox,0
+2009-06,Exodus,8
+2009-06,Hypocrisy,2
+2009-06,Iron Maiden,0
+2009-06,Kreator,11
+2009-06,Megadeth,0
+2009-06,Metallica,0
+2009-06,Motörhead,3
+2009-06,Ratos De Porão,0
+2009-06,Slayer,5
+2009-06,Tankard,0
+2009-06,Violator,1

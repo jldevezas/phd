@@ -1,0 +1,881 @@
+month,artist,plays
+2005-11,Arcade Fire,4
+2005-11,Band Of Horses,0
+2005-11,Belle And Sebastian,4
+2005-11,Bloc Party,1
+2005-11,Built To Spill,0
+2005-11,Coldplay,1
+2005-11,Damien Rice,10
+2005-11,Death Cab For Cutie,22
+2005-11,Explosions In The Sky,5
+2005-11,Los Planetas,0
+2005-11,Mando Diao,2
+2005-11,Matt Pond Pa,7
+2005-11,Modest Mouse,0
+2005-11,My Morning Jacket,20
+2005-11,Sr. Chinarro,0
+2005-11,The Appleseed Cast,0
+2005-11,The Killers,3
+2005-11,The Magic Numbers,0
+2005-11,Two Gallants,0
+2005-11,Wilco,1
+2005-12,Arcade Fire,3
+2005-12,Band Of Horses,0
+2005-12,Belle And Sebastian,7
+2005-12,Bloc Party,1
+2005-12,Built To Spill,0
+2005-12,Coldplay,10
+2005-12,Damien Rice,56
+2005-12,Death Cab For Cutie,12
+2005-12,Explosions In The Sky,116
+2005-12,Los Planetas,6
+2005-12,Mando Diao,2
+2005-12,Matt Pond Pa,138
+2005-12,Modest Mouse,1
+2005-12,My Morning Jacket,31
+2005-12,Sr. Chinarro,0
+2005-12,The Appleseed Cast,0
+2005-12,The Killers,0
+2005-12,The Magic Numbers,0
+2005-12,Two Gallants,0
+2005-12,Wilco,1
+2006-01,Arcade Fire,6
+2006-01,Band Of Horses,0
+2006-01,Belle And Sebastian,16
+2006-01,Bloc Party,12
+2006-01,Built To Spill,0
+2006-01,Coldplay,1
+2006-01,Damien Rice,13
+2006-01,Death Cab For Cutie,8
+2006-01,Explosions In The Sky,15
+2006-01,Los Planetas,16
+2006-01,Mando Diao,5
+2006-01,Matt Pond Pa,11
+2006-01,Modest Mouse,0
+2006-01,My Morning Jacket,19
+2006-01,Sr. Chinarro,0
+2006-01,The Appleseed Cast,4
+2006-01,The Killers,0
+2006-01,The Magic Numbers,0
+2006-01,Two Gallants,0
+2006-01,Wilco,1
+2006-02,Arcade Fire,0
+2006-02,Band Of Horses,0
+2006-02,Belle And Sebastian,3
+2006-02,Bloc Party,3
+2006-02,Built To Spill,0
+2006-02,Coldplay,0
+2006-02,Damien Rice,3
+2006-02,Death Cab For Cutie,9
+2006-02,Explosions In The Sky,3
+2006-02,Los Planetas,23
+2006-02,Mando Diao,3
+2006-02,Matt Pond Pa,2
+2006-02,Modest Mouse,0
+2006-02,My Morning Jacket,5
+2006-02,Sr. Chinarro,0
+2006-02,The Appleseed Cast,0
+2006-02,The Killers,0
+2006-02,The Magic Numbers,7
+2006-02,Two Gallants,0
+2006-02,Wilco,43
+2006-03,Arcade Fire,0
+2006-03,Band Of Horses,0
+2006-03,Belle And Sebastian,18
+2006-03,Bloc Party,0
+2006-03,Built To Spill,0
+2006-03,Coldplay,2
+2006-03,Damien Rice,3
+2006-03,Death Cab For Cutie,0
+2006-03,Explosions In The Sky,17
+2006-03,Los Planetas,14
+2006-03,Mando Diao,3
+2006-03,Matt Pond Pa,13
+2006-03,Modest Mouse,0
+2006-03,My Morning Jacket,39
+2006-03,Sr. Chinarro,2
+2006-03,The Appleseed Cast,1
+2006-03,The Killers,0
+2006-03,The Magic Numbers,1
+2006-03,Two Gallants,0
+2006-03,Wilco,0
+2006-04,Arcade Fire,0
+2006-04,Band Of Horses,0
+2006-04,Belle And Sebastian,0
+2006-04,Bloc Party,0
+2006-04,Built To Spill,0
+2006-04,Coldplay,0
+2006-04,Damien Rice,1
+2006-04,Death Cab For Cutie,0
+2006-04,Explosions In The Sky,1
+2006-04,Los Planetas,15
+2006-04,Mando Diao,0
+2006-04,Matt Pond Pa,7
+2006-04,Modest Mouse,0
+2006-04,My Morning Jacket,0
+2006-04,Sr. Chinarro,0
+2006-04,The Appleseed Cast,0
+2006-04,The Killers,0
+2006-04,The Magic Numbers,0
+2006-04,Two Gallants,0
+2006-04,Wilco,0
+2006-05,Arcade Fire,0
+2006-05,Band Of Horses,0
+2006-05,Belle And Sebastian,0
+2006-05,Bloc Party,0
+2006-05,Built To Spill,0
+2006-05,Coldplay,0
+2006-05,Damien Rice,0
+2006-05,Death Cab For Cutie,0
+2006-05,Explosions In The Sky,0
+2006-05,Los Planetas,0
+2006-05,Mando Diao,0
+2006-05,Matt Pond Pa,0
+2006-05,Modest Mouse,0
+2006-05,My Morning Jacket,0
+2006-05,Sr. Chinarro,0
+2006-05,The Appleseed Cast,0
+2006-05,The Killers,0
+2006-05,The Magic Numbers,0
+2006-05,Two Gallants,0
+2006-05,Wilco,0
+2006-06,Arcade Fire,0
+2006-06,Band Of Horses,0
+2006-06,Belle And Sebastian,0
+2006-06,Bloc Party,0
+2006-06,Built To Spill,0
+2006-06,Coldplay,0
+2006-06,Damien Rice,0
+2006-06,Death Cab For Cutie,0
+2006-06,Explosions In The Sky,0
+2006-06,Los Planetas,0
+2006-06,Mando Diao,0
+2006-06,Matt Pond Pa,0
+2006-06,Modest Mouse,0
+2006-06,My Morning Jacket,0
+2006-06,Sr. Chinarro,0
+2006-06,The Appleseed Cast,0
+2006-06,The Killers,0
+2006-06,The Magic Numbers,0
+2006-06,Two Gallants,0
+2006-06,Wilco,0
+2006-07,Arcade Fire,0
+2006-07,Band Of Horses,0
+2006-07,Belle And Sebastian,44
+2006-07,Bloc Party,0
+2006-07,Built To Spill,1
+2006-07,Coldplay,0
+2006-07,Damien Rice,2
+2006-07,Death Cab For Cutie,0
+2006-07,Explosions In The Sky,35
+2006-07,Los Planetas,0
+2006-07,Mando Diao,47
+2006-07,Matt Pond Pa,14
+2006-07,Modest Mouse,0
+2006-07,My Morning Jacket,3
+2006-07,Sr. Chinarro,0
+2006-07,The Appleseed Cast,44
+2006-07,The Killers,0
+2006-07,The Magic Numbers,0
+2006-07,Two Gallants,0
+2006-07,Wilco,8
+2006-08,Arcade Fire,0
+2006-08,Band Of Horses,0
+2006-08,Belle And Sebastian,3
+2006-08,Bloc Party,0
+2006-08,Built To Spill,23
+2006-08,Coldplay,1
+2006-08,Damien Rice,3
+2006-08,Death Cab For Cutie,10
+2006-08,Explosions In The Sky,0
+2006-08,Los Planetas,14
+2006-08,Mando Diao,0
+2006-08,Matt Pond Pa,89
+2006-08,Modest Mouse,0
+2006-08,My Morning Jacket,38
+2006-08,Sr. Chinarro,2
+2006-08,The Appleseed Cast,21
+2006-08,The Killers,0
+2006-08,The Magic Numbers,80
+2006-08,Two Gallants,25
+2006-08,Wilco,0
+2006-09,Arcade Fire,0
+2006-09,Band Of Horses,0
+2006-09,Belle And Sebastian,1
+2006-09,Bloc Party,0
+2006-09,Built To Spill,5
+2006-09,Coldplay,3
+2006-09,Damien Rice,0
+2006-09,Death Cab For Cutie,39
+2006-09,Explosions In The Sky,2
+2006-09,Los Planetas,0
+2006-09,Mando Diao,0
+2006-09,Matt Pond Pa,63
+2006-09,Modest Mouse,0
+2006-09,My Morning Jacket,146
+2006-09,Sr. Chinarro,0
+2006-09,The Appleseed Cast,0
+2006-09,The Killers,0
+2006-09,The Magic Numbers,1
+2006-09,Two Gallants,4
+2006-09,Wilco,0
+2006-10,Arcade Fire,0
+2006-10,Band Of Horses,0
+2006-10,Belle And Sebastian,15
+2006-10,Bloc Party,0
+2006-10,Built To Spill,21
+2006-10,Coldplay,5
+2006-10,Damien Rice,0
+2006-10,Death Cab For Cutie,56
+2006-10,Explosions In The Sky,0
+2006-10,Los Planetas,0
+2006-10,Mando Diao,89
+2006-10,Matt Pond Pa,18
+2006-10,Modest Mouse,0
+2006-10,My Morning Jacket,25
+2006-10,Sr. Chinarro,1
+2006-10,The Appleseed Cast,7
+2006-10,The Killers,0
+2006-10,The Magic Numbers,68
+2006-10,Two Gallants,10
+2006-10,Wilco,29
+2006-11,Arcade Fire,0
+2006-11,Band Of Horses,0
+2006-11,Belle And Sebastian,15
+2006-11,Bloc Party,0
+2006-11,Built To Spill,10
+2006-11,Coldplay,0
+2006-11,Damien Rice,156
+2006-11,Death Cab For Cutie,14
+2006-11,Explosions In The Sky,0
+2006-11,Los Planetas,41
+2006-11,Mando Diao,24
+2006-11,Matt Pond Pa,80
+2006-11,Modest Mouse,22
+2006-11,My Morning Jacket,7
+2006-11,Sr. Chinarro,0
+2006-11,The Appleseed Cast,14
+2006-11,The Killers,7
+2006-11,The Magic Numbers,68
+2006-11,Two Gallants,0
+2006-11,Wilco,66
+2006-12,Arcade Fire,0
+2006-12,Band Of Horses,235
+2006-12,Belle And Sebastian,2
+2006-12,Bloc Party,18
+2006-12,Built To Spill,24
+2006-12,Coldplay,0
+2006-12,Damien Rice,19
+2006-12,Death Cab For Cutie,0
+2006-12,Explosions In The Sky,0
+2006-12,Los Planetas,2
+2006-12,Mando Diao,29
+2006-12,Matt Pond Pa,21
+2006-12,Modest Mouse,20
+2006-12,My Morning Jacket,32
+2006-12,Sr. Chinarro,0
+2006-12,The Appleseed Cast,12
+2006-12,The Killers,36
+2006-12,The Magic Numbers,13
+2006-12,Two Gallants,13
+2006-12,Wilco,19
+2007-01,Arcade Fire,12
+2007-01,Band Of Horses,68
+2007-01,Belle And Sebastian,27
+2007-01,Bloc Party,13
+2007-01,Built To Spill,42
+2007-01,Coldplay,11
+2007-01,Damien Rice,15
+2007-01,Death Cab For Cutie,0
+2007-01,Explosions In The Sky,20
+2007-01,Los Planetas,16
+2007-01,Mando Diao,3
+2007-01,Matt Pond Pa,1
+2007-01,Modest Mouse,0
+2007-01,My Morning Jacket,4
+2007-01,Sr. Chinarro,29
+2007-01,The Appleseed Cast,3
+2007-01,The Killers,0
+2007-01,The Magic Numbers,2
+2007-01,Two Gallants,0
+2007-01,Wilco,1
+2007-02,Arcade Fire,167
+2007-02,Band Of Horses,58
+2007-02,Belle And Sebastian,5
+2007-02,Bloc Party,0
+2007-02,Built To Spill,41
+2007-02,Coldplay,0
+2007-02,Damien Rice,1
+2007-02,Death Cab For Cutie,1
+2007-02,Explosions In The Sky,20
+2007-02,Los Planetas,0
+2007-02,Mando Diao,0
+2007-02,Matt Pond Pa,1
+2007-02,Modest Mouse,172
+2007-02,My Morning Jacket,2
+2007-02,Sr. Chinarro,0
+2007-02,The Appleseed Cast,4
+2007-02,The Killers,1
+2007-02,The Magic Numbers,2
+2007-02,Two Gallants,0
+2007-02,Wilco,0
+2007-03,Arcade Fire,22
+2007-03,Band Of Horses,1
+2007-03,Belle And Sebastian,0
+2007-03,Bloc Party,15
+2007-03,Built To Spill,10
+2007-03,Coldplay,0
+2007-03,Damien Rice,0
+2007-03,Death Cab For Cutie,0
+2007-03,Explosions In The Sky,6
+2007-03,Los Planetas,0
+2007-03,Mando Diao,1
+2007-03,Matt Pond Pa,0
+2007-03,Modest Mouse,44
+2007-03,My Morning Jacket,0
+2007-03,Sr. Chinarro,23
+2007-03,The Appleseed Cast,0
+2007-03,The Killers,0
+2007-03,The Magic Numbers,0
+2007-03,Two Gallants,0
+2007-03,Wilco,0
+2007-04,Arcade Fire,0
+2007-04,Band Of Horses,0
+2007-04,Belle And Sebastian,0
+2007-04,Bloc Party,0
+2007-04,Built To Spill,2
+2007-04,Coldplay,0
+2007-04,Damien Rice,0
+2007-04,Death Cab For Cutie,0
+2007-04,Explosions In The Sky,1
+2007-04,Los Planetas,0
+2007-04,Mando Diao,7
+2007-04,Matt Pond Pa,0
+2007-04,Modest Mouse,1
+2007-04,My Morning Jacket,0
+2007-04,Sr. Chinarro,7
+2007-04,The Appleseed Cast,1
+2007-04,The Killers,2
+2007-04,The Magic Numbers,0
+2007-04,Two Gallants,0
+2007-04,Wilco,20
+2007-05,Arcade Fire,0
+2007-05,Band Of Horses,2
+2007-05,Belle And Sebastian,2
+2007-05,Bloc Party,11
+2007-05,Built To Spill,4
+2007-05,Coldplay,1
+2007-05,Damien Rice,2
+2007-05,Death Cab For Cutie,0
+2007-05,Explosions In The Sky,6
+2007-05,Los Planetas,1
+2007-05,Mando Diao,2
+2007-05,Matt Pond Pa,20
+2007-05,Modest Mouse,23
+2007-05,My Morning Jacket,0
+2007-05,Sr. Chinarro,5
+2007-05,The Appleseed Cast,2
+2007-05,The Killers,2
+2007-05,The Magic Numbers,0
+2007-05,Two Gallants,0
+2007-05,Wilco,70
+2007-06,Arcade Fire,12
+2007-06,Band Of Horses,0
+2007-06,Belle And Sebastian,0
+2007-06,Bloc Party,19
+2007-06,Built To Spill,0
+2007-06,Coldplay,1
+2007-06,Damien Rice,0
+2007-06,Death Cab For Cutie,0
+2007-06,Explosions In The Sky,44
+2007-06,Los Planetas,65
+2007-06,Mando Diao,0
+2007-06,Matt Pond Pa,4
+2007-06,Modest Mouse,77
+2007-06,My Morning Jacket,0
+2007-06,Sr. Chinarro,0
+2007-06,The Appleseed Cast,1
+2007-06,The Killers,0
+2007-06,The Magic Numbers,0
+2007-06,Two Gallants,0
+2007-06,Wilco,15
+2007-07,Arcade Fire,8
+2007-07,Band Of Horses,4
+2007-07,Belle And Sebastian,0
+2007-07,Bloc Party,10
+2007-07,Built To Spill,0
+2007-07,Coldplay,2
+2007-07,Damien Rice,3
+2007-07,Death Cab For Cutie,4
+2007-07,Explosions In The Sky,4
+2007-07,Los Planetas,14
+2007-07,Mando Diao,3
+2007-07,Matt Pond Pa,22
+2007-07,Modest Mouse,3
+2007-07,My Morning Jacket,0
+2007-07,Sr. Chinarro,6
+2007-07,The Appleseed Cast,0
+2007-07,The Killers,1
+2007-07,The Magic Numbers,8
+2007-07,Two Gallants,0
+2007-07,Wilco,85
+2007-08,Arcade Fire,3
+2007-08,Band Of Horses,0
+2007-08,Belle And Sebastian,1
+2007-08,Bloc Party,1
+2007-08,Built To Spill,0
+2007-08,Coldplay,1
+2007-08,Damien Rice,0
+2007-08,Death Cab For Cutie,11
+2007-08,Explosions In The Sky,6
+2007-08,Los Planetas,15
+2007-08,Mando Diao,1
+2007-08,Matt Pond Pa,0
+2007-08,Modest Mouse,2
+2007-08,My Morning Jacket,0
+2007-08,Sr. Chinarro,13
+2007-08,The Appleseed Cast,0
+2007-08,The Killers,0
+2007-08,The Magic Numbers,0
+2007-08,Two Gallants,0
+2007-08,Wilco,15
+2007-09,Arcade Fire,5
+2007-09,Band Of Horses,103
+2007-09,Belle And Sebastian,0
+2007-09,Bloc Party,1
+2007-09,Built To Spill,8
+2007-09,Coldplay,12
+2007-09,Damien Rice,0
+2007-09,Death Cab For Cutie,0
+2007-09,Explosions In The Sky,1
+2007-09,Los Planetas,23
+2007-09,Mando Diao,1
+2007-09,Matt Pond Pa,8
+2007-09,Modest Mouse,4
+2007-09,My Morning Jacket,0
+2007-09,Sr. Chinarro,12
+2007-09,The Appleseed Cast,0
+2007-09,The Killers,0
+2007-09,The Magic Numbers,0
+2007-09,Two Gallants,1
+2007-09,Wilco,7
+2007-10,Arcade Fire,0
+2007-10,Band Of Horses,64
+2007-10,Belle And Sebastian,0
+2007-10,Bloc Party,0
+2007-10,Built To Spill,0
+2007-10,Coldplay,0
+2007-10,Damien Rice,0
+2007-10,Death Cab For Cutie,0
+2007-10,Explosions In The Sky,8
+2007-10,Los Planetas,0
+2007-10,Mando Diao,0
+2007-10,Matt Pond Pa,153
+2007-10,Modest Mouse,0
+2007-10,My Morning Jacket,0
+2007-10,Sr. Chinarro,0
+2007-10,The Appleseed Cast,0
+2007-10,The Killers,1
+2007-10,The Magic Numbers,4
+2007-10,Two Gallants,5
+2007-10,Wilco,33
+2007-11,Arcade Fire,1
+2007-11,Band Of Horses,29
+2007-11,Belle And Sebastian,0
+2007-11,Bloc Party,11
+2007-11,Built To Spill,0
+2007-11,Coldplay,0
+2007-11,Damien Rice,0
+2007-11,Death Cab For Cutie,0
+2007-11,Explosions In The Sky,18
+2007-11,Los Planetas,0
+2007-11,Mando Diao,0
+2007-11,Matt Pond Pa,24
+2007-11,Modest Mouse,0
+2007-11,My Morning Jacket,0
+2007-11,Sr. Chinarro,0
+2007-11,The Appleseed Cast,0
+2007-11,The Killers,0
+2007-11,The Magic Numbers,0
+2007-11,Two Gallants,82
+2007-11,Wilco,0
+2007-12,Arcade Fire,0
+2007-12,Band Of Horses,3
+2007-12,Belle And Sebastian,0
+2007-12,Bloc Party,0
+2007-12,Built To Spill,0
+2007-12,Coldplay,0
+2007-12,Damien Rice,0
+2007-12,Death Cab For Cutie,0
+2007-12,Explosions In The Sky,0
+2007-12,Los Planetas,0
+2007-12,Mando Diao,0
+2007-12,Matt Pond Pa,25
+2007-12,Modest Mouse,12
+2007-12,My Morning Jacket,0
+2007-12,Sr. Chinarro,8
+2007-12,The Appleseed Cast,0
+2007-12,The Killers,0
+2007-12,The Magic Numbers,0
+2007-12,Two Gallants,102
+2007-12,Wilco,0
+2008-01,Arcade Fire,0
+2008-01,Band Of Horses,0
+2008-01,Belle And Sebastian,0
+2008-01,Bloc Party,0
+2008-01,Built To Spill,0
+2008-01,Coldplay,0
+2008-01,Damien Rice,0
+2008-01,Death Cab For Cutie,0
+2008-01,Explosions In The Sky,11
+2008-01,Los Planetas,0
+2008-01,Mando Diao,66
+2008-01,Matt Pond Pa,0
+2008-01,Modest Mouse,0
+2008-01,My Morning Jacket,0
+2008-01,Sr. Chinarro,2
+2008-01,The Appleseed Cast,0
+2008-01,The Killers,0
+2008-01,The Magic Numbers,0
+2008-01,Two Gallants,0
+2008-01,Wilco,0
+2008-02,Arcade Fire,0
+2008-02,Band Of Horses,0
+2008-02,Belle And Sebastian,0
+2008-02,Bloc Party,7
+2008-02,Built To Spill,0
+2008-02,Coldplay,0
+2008-02,Damien Rice,0
+2008-02,Death Cab For Cutie,0
+2008-02,Explosions In The Sky,0
+2008-02,Los Planetas,0
+2008-02,Mando Diao,5
+2008-02,Matt Pond Pa,0
+2008-02,Modest Mouse,0
+2008-02,My Morning Jacket,0
+2008-02,Sr. Chinarro,12
+2008-02,The Appleseed Cast,0
+2008-02,The Killers,2
+2008-02,The Magic Numbers,0
+2008-02,Two Gallants,11
+2008-02,Wilco,0
+2008-03,Arcade Fire,2
+2008-03,Band Of Horses,2
+2008-03,Belle And Sebastian,0
+2008-03,Bloc Party,2
+2008-03,Built To Spill,0
+2008-03,Coldplay,0
+2008-03,Damien Rice,0
+2008-03,Death Cab For Cutie,0
+2008-03,Explosions In The Sky,5
+2008-03,Los Planetas,0
+2008-03,Mando Diao,0
+2008-03,Matt Pond Pa,7
+2008-03,Modest Mouse,1
+2008-03,My Morning Jacket,0
+2008-03,Sr. Chinarro,0
+2008-03,The Appleseed Cast,0
+2008-03,The Killers,3
+2008-03,The Magic Numbers,4
+2008-03,Two Gallants,10
+2008-03,Wilco,3
+2008-04,Arcade Fire,0
+2008-04,Band Of Horses,1
+2008-04,Belle And Sebastian,0
+2008-04,Bloc Party,1
+2008-04,Built To Spill,1
+2008-04,Coldplay,3
+2008-04,Damien Rice,1
+2008-04,Death Cab For Cutie,1
+2008-04,Explosions In The Sky,0
+2008-04,Los Planetas,0
+2008-04,Mando Diao,0
+2008-04,Matt Pond Pa,1
+2008-04,Modest Mouse,1
+2008-04,My Morning Jacket,0
+2008-04,Sr. Chinarro,42
+2008-04,The Appleseed Cast,0
+2008-04,The Killers,2
+2008-04,The Magic Numbers,1
+2008-04,Two Gallants,8
+2008-04,Wilco,0
+2008-05,Arcade Fire,0
+2008-05,Band Of Horses,0
+2008-05,Belle And Sebastian,0
+2008-05,Bloc Party,0
+2008-05,Built To Spill,4
+2008-05,Coldplay,0
+2008-05,Damien Rice,0
+2008-05,Death Cab For Cutie,3
+2008-05,Explosions In The Sky,8
+2008-05,Los Planetas,0
+2008-05,Mando Diao,0
+2008-05,Matt Pond Pa,0
+2008-05,Modest Mouse,1
+2008-05,My Morning Jacket,28
+2008-05,Sr. Chinarro,0
+2008-05,The Appleseed Cast,0
+2008-05,The Killers,0
+2008-05,The Magic Numbers,0
+2008-05,Two Gallants,4
+2008-05,Wilco,0
+2008-06,Arcade Fire,0
+2008-06,Band Of Horses,0
+2008-06,Belle And Sebastian,2
+2008-06,Bloc Party,2
+2008-06,Built To Spill,2
+2008-06,Coldplay,0
+2008-06,Damien Rice,0
+2008-06,Death Cab For Cutie,40
+2008-06,Explosions In The Sky,10
+2008-06,Los Planetas,2
+2008-06,Mando Diao,0
+2008-06,Matt Pond Pa,0
+2008-06,Modest Mouse,2
+2008-06,My Morning Jacket,3
+2008-06,Sr. Chinarro,3
+2008-06,The Appleseed Cast,0
+2008-06,The Killers,2
+2008-06,The Magic Numbers,0
+2008-06,Two Gallants,15
+2008-06,Wilco,2
+2008-07,Arcade Fire,1
+2008-07,Band Of Horses,0
+2008-07,Belle And Sebastian,0
+2008-07,Bloc Party,0
+2008-07,Built To Spill,0
+2008-07,Coldplay,16
+2008-07,Damien Rice,0
+2008-07,Death Cab For Cutie,1
+2008-07,Explosions In The Sky,1
+2008-07,Los Planetas,0
+2008-07,Mando Diao,0
+2008-07,Matt Pond Pa,4
+2008-07,Modest Mouse,0
+2008-07,My Morning Jacket,0
+2008-07,Sr. Chinarro,0
+2008-07,The Appleseed Cast,0
+2008-07,The Killers,0
+2008-07,The Magic Numbers,5
+2008-07,Two Gallants,2
+2008-07,Wilco,0
+2008-08,Arcade Fire,3
+2008-08,Band Of Horses,0
+2008-08,Belle And Sebastian,0
+2008-08,Bloc Party,0
+2008-08,Built To Spill,0
+2008-08,Coldplay,1
+2008-08,Damien Rice,0
+2008-08,Death Cab For Cutie,1
+2008-08,Explosions In The Sky,0
+2008-08,Los Planetas,0
+2008-08,Mando Diao,0
+2008-08,Matt Pond Pa,0
+2008-08,Modest Mouse,3
+2008-08,My Morning Jacket,1
+2008-08,Sr. Chinarro,14
+2008-08,The Appleseed Cast,0
+2008-08,The Killers,3
+2008-08,The Magic Numbers,0
+2008-08,Two Gallants,2
+2008-08,Wilco,0
+2008-09,Arcade Fire,0
+2008-09,Band Of Horses,0
+2008-09,Belle And Sebastian,0
+2008-09,Bloc Party,0
+2008-09,Built To Spill,0
+2008-09,Coldplay,0
+2008-09,Damien Rice,0
+2008-09,Death Cab For Cutie,1
+2008-09,Explosions In The Sky,0
+2008-09,Los Planetas,0
+2008-09,Mando Diao,0
+2008-09,Matt Pond Pa,0
+2008-09,Modest Mouse,0
+2008-09,My Morning Jacket,0
+2008-09,Sr. Chinarro,0
+2008-09,The Appleseed Cast,0
+2008-09,The Killers,0
+2008-09,The Magic Numbers,0
+2008-09,Two Gallants,0
+2008-09,Wilco,0
+2008-10,Arcade Fire,0
+2008-10,Band Of Horses,0
+2008-10,Belle And Sebastian,0
+2008-10,Bloc Party,0
+2008-10,Built To Spill,0
+2008-10,Coldplay,0
+2008-10,Damien Rice,0
+2008-10,Death Cab For Cutie,1
+2008-10,Explosions In The Sky,0
+2008-10,Los Planetas,0
+2008-10,Mando Diao,0
+2008-10,Matt Pond Pa,0
+2008-10,Modest Mouse,0
+2008-10,My Morning Jacket,0
+2008-10,Sr. Chinarro,0
+2008-10,The Appleseed Cast,0
+2008-10,The Killers,0
+2008-10,The Magic Numbers,0
+2008-10,Two Gallants,0
+2008-10,Wilco,0
+2008-11,Arcade Fire,0
+2008-11,Band Of Horses,0
+2008-11,Belle And Sebastian,0
+2008-11,Bloc Party,12
+2008-11,Built To Spill,1
+2008-11,Coldplay,1
+2008-11,Damien Rice,2
+2008-11,Death Cab For Cutie,0
+2008-11,Explosions In The Sky,5
+2008-11,Los Planetas,11
+2008-11,Mando Diao,0
+2008-11,Matt Pond Pa,20
+2008-11,Modest Mouse,0
+2008-11,My Morning Jacket,9
+2008-11,Sr. Chinarro,8
+2008-11,The Appleseed Cast,4
+2008-11,The Killers,92
+2008-11,The Magic Numbers,1
+2008-11,Two Gallants,8
+2008-11,Wilco,17
+2008-12,Arcade Fire,13
+2008-12,Band Of Horses,0
+2008-12,Belle And Sebastian,0
+2008-12,Bloc Party,6
+2008-12,Built To Spill,0
+2008-12,Coldplay,0
+2008-12,Damien Rice,0
+2008-12,Death Cab For Cutie,13
+2008-12,Explosions In The Sky,8
+2008-12,Los Planetas,42
+2008-12,Mando Diao,6
+2008-12,Matt Pond Pa,38
+2008-12,Modest Mouse,0
+2008-12,My Morning Jacket,1
+2008-12,Sr. Chinarro,8
+2008-12,The Appleseed Cast,48
+2008-12,The Killers,41
+2008-12,The Magic Numbers,0
+2008-12,Two Gallants,6
+2008-12,Wilco,0
+2009-01,Arcade Fire,0
+2009-01,Band Of Horses,0
+2009-01,Belle And Sebastian,63
+2009-01,Bloc Party,2
+2009-01,Built To Spill,0
+2009-01,Coldplay,1
+2009-01,Damien Rice,0
+2009-01,Death Cab For Cutie,3
+2009-01,Explosions In The Sky,0
+2009-01,Los Planetas,0
+2009-01,Mando Diao,0
+2009-01,Matt Pond Pa,17
+2009-01,Modest Mouse,0
+2009-01,My Morning Jacket,49
+2009-01,Sr. Chinarro,11
+2009-01,The Appleseed Cast,0
+2009-01,The Killers,2
+2009-01,The Magic Numbers,0
+2009-01,Two Gallants,0
+2009-01,Wilco,42
+2009-02,Arcade Fire,0
+2009-02,Band Of Horses,6
+2009-02,Belle And Sebastian,39
+2009-02,Bloc Party,0
+2009-02,Built To Spill,0
+2009-02,Coldplay,0
+2009-02,Damien Rice,0
+2009-02,Death Cab For Cutie,0
+2009-02,Explosions In The Sky,0
+2009-02,Los Planetas,0
+2009-02,Mando Diao,0
+2009-02,Matt Pond Pa,3
+2009-02,Modest Mouse,0
+2009-02,My Morning Jacket,0
+2009-02,Sr. Chinarro,0
+2009-02,The Appleseed Cast,0
+2009-02,The Killers,0
+2009-02,The Magic Numbers,0
+2009-02,Two Gallants,0
+2009-02,Wilco,4
+2009-03,Arcade Fire,0
+2009-03,Band Of Horses,16
+2009-03,Belle And Sebastian,26
+2009-03,Bloc Party,1
+2009-03,Built To Spill,1
+2009-03,Coldplay,0
+2009-03,Damien Rice,0
+2009-03,Death Cab For Cutie,0
+2009-03,Explosions In The Sky,0
+2009-03,Los Planetas,0
+2009-03,Mando Diao,0
+2009-03,Matt Pond Pa,0
+2009-03,Modest Mouse,0
+2009-03,My Morning Jacket,1
+2009-03,Sr. Chinarro,0
+2009-03,The Appleseed Cast,0
+2009-03,The Killers,0
+2009-03,The Magic Numbers,0
+2009-03,Two Gallants,0
+2009-03,Wilco,0
+2009-04,Arcade Fire,0
+2009-04,Band Of Horses,22
+2009-04,Belle And Sebastian,0
+2009-04,Bloc Party,3
+2009-04,Built To Spill,0
+2009-04,Coldplay,0
+2009-04,Damien Rice,2
+2009-04,Death Cab For Cutie,0
+2009-04,Explosions In The Sky,0
+2009-04,Los Planetas,0
+2009-04,Mando Diao,66
+2009-04,Matt Pond Pa,49
+2009-04,Modest Mouse,0
+2009-04,My Morning Jacket,0
+2009-04,Sr. Chinarro,4
+2009-04,The Appleseed Cast,1
+2009-04,The Killers,0
+2009-04,The Magic Numbers,0
+2009-04,Two Gallants,0
+2009-04,Wilco,0
+2009-05,Arcade Fire,0
+2009-05,Band Of Horses,1
+2009-05,Belle And Sebastian,22
+2009-05,Bloc Party,0
+2009-05,Built To Spill,0
+2009-05,Coldplay,0
+2009-05,Damien Rice,0
+2009-05,Death Cab For Cutie,0
+2009-05,Explosions In The Sky,25
+2009-05,Los Planetas,0
+2009-05,Mando Diao,36
+2009-05,Matt Pond Pa,6
+2009-05,Modest Mouse,2
+2009-05,My Morning Jacket,1
+2009-05,Sr. Chinarro,0
+2009-05,The Appleseed Cast,8
+2009-05,The Killers,0
+2009-05,The Magic Numbers,12
+2009-05,Two Gallants,0
+2009-05,Wilco,112
+2009-06,Arcade Fire,0
+2009-06,Band Of Horses,0
+2009-06,Belle And Sebastian,0
+2009-06,Bloc Party,0
+2009-06,Built To Spill,0
+2009-06,Coldplay,0
+2009-06,Damien Rice,0
+2009-06,Death Cab For Cutie,0
+2009-06,Explosions In The Sky,1
+2009-06,Los Planetas,0
+2009-06,Mando Diao,0
+2009-06,Matt Pond Pa,1
+2009-06,Modest Mouse,0
+2009-06,My Morning Jacket,0
+2009-06,Sr. Chinarro,0
+2009-06,The Appleseed Cast,0
+2009-06,The Killers,13
+2009-06,The Magic Numbers,0
+2009-06,Two Gallants,0
+2009-06,Wilco,1

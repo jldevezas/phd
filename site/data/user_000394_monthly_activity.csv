@@ -1,0 +1,721 @@
+month,artist,plays
+2006-06,A-Ha,3
+2006-06,Aimee Mann,2
+2006-06,Ben Folds Five,8
+2006-06,Chemistry Set,18
+2006-06,Counting Crows,12
+2006-06,Duran Duran,6
+2006-06,Indigo Girls,12
+2006-06,Inxs,3
+2006-06,Kate Bush,6
+2006-06,Nick Drake,3
+2006-06,Old 97'S,10
+2006-06,Pleasant Grove,1
+2006-06,R.E.M.,3
+2006-06,Radiohead,5
+2006-06,Salim Nourallah,1
+2006-06,Sorta,1
+2006-06,The Beatles,8
+2006-06,The Deathray Davies,9
+2006-06,The Innocence Mission,0
+2006-06,U2,5
+2006-07,A-Ha,6
+2006-07,Aimee Mann,14
+2006-07,Ben Folds Five,21
+2006-07,Chemistry Set,51
+2006-07,Counting Crows,30
+2006-07,Duran Duran,14
+2006-07,Indigo Girls,28
+2006-07,Inxs,14
+2006-07,Kate Bush,7
+2006-07,Nick Drake,18
+2006-07,Old 97'S,25
+2006-07,Pleasant Grove,8
+2006-07,R.E.M.,30
+2006-07,Radiohead,38
+2006-07,Salim Nourallah,28
+2006-07,Sorta,18
+2006-07,The Beatles,36
+2006-07,The Deathray Davies,16
+2006-07,The Innocence Mission,3
+2006-07,U2,41
+2006-08,A-Ha,18
+2006-08,Aimee Mann,22
+2006-08,Ben Folds Five,13
+2006-08,Chemistry Set,64
+2006-08,Counting Crows,28
+2006-08,Duran Duran,10
+2006-08,Indigo Girls,15
+2006-08,Inxs,33
+2006-08,Kate Bush,3
+2006-08,Nick Drake,16
+2006-08,Old 97'S,35
+2006-08,Pleasant Grove,16
+2006-08,R.E.M.,26
+2006-08,Radiohead,20
+2006-08,Salim Nourallah,15
+2006-08,Sorta,16
+2006-08,The Beatles,43
+2006-08,The Deathray Davies,25
+2006-08,The Innocence Mission,8
+2006-08,U2,47
+2006-09,A-Ha,5
+2006-09,Aimee Mann,62
+2006-09,Ben Folds Five,3
+2006-09,Chemistry Set,14
+2006-09,Counting Crows,25
+2006-09,Duran Duran,7
+2006-09,Indigo Girls,9
+2006-09,Inxs,14
+2006-09,Kate Bush,8
+2006-09,Nick Drake,16
+2006-09,Old 97'S,23
+2006-09,Pleasant Grove,15
+2006-09,R.E.M.,12
+2006-09,Radiohead,11
+2006-09,Salim Nourallah,16
+2006-09,Sorta,76
+2006-09,The Beatles,17
+2006-09,The Deathray Davies,1
+2006-09,The Innocence Mission,5
+2006-09,U2,18
+2006-10,A-Ha,1
+2006-10,Aimee Mann,19
+2006-10,Ben Folds Five,5
+2006-10,Chemistry Set,11
+2006-10,Counting Crows,30
+2006-10,Duran Duran,4
+2006-10,Indigo Girls,13
+2006-10,Inxs,10
+2006-10,Kate Bush,5
+2006-10,Nick Drake,13
+2006-10,Old 97'S,19
+2006-10,Pleasant Grove,16
+2006-10,R.E.M.,7
+2006-10,Radiohead,10
+2006-10,Salim Nourallah,15
+2006-10,Sorta,69
+2006-10,The Beatles,6
+2006-10,The Deathray Davies,1
+2006-10,The Innocence Mission,6
+2006-10,U2,24
+2006-11,A-Ha,13
+2006-11,Aimee Mann,29
+2006-11,Ben Folds Five,15
+2006-11,Chemistry Set,10
+2006-11,Counting Crows,30
+2006-11,Duran Duran,8
+2006-11,Indigo Girls,12
+2006-11,Inxs,5
+2006-11,Kate Bush,2
+2006-11,Nick Drake,21
+2006-11,Old 97'S,26
+2006-11,Pleasant Grove,9
+2006-11,R.E.M.,16
+2006-11,Radiohead,13
+2006-11,Salim Nourallah,19
+2006-11,Sorta,51
+2006-11,The Beatles,22
+2006-11,The Deathray Davies,8
+2006-11,The Innocence Mission,3
+2006-11,U2,24
+2006-12,A-Ha,47
+2006-12,Aimee Mann,26
+2006-12,Ben Folds Five,9
+2006-12,Chemistry Set,17
+2006-12,Counting Crows,19
+2006-12,Duran Duran,17
+2006-12,Indigo Girls,10
+2006-12,Inxs,28
+2006-12,Kate Bush,9
+2006-12,Nick Drake,22
+2006-12,Old 97'S,32
+2006-12,Pleasant Grove,15
+2006-12,R.E.M.,21
+2006-12,Radiohead,32
+2006-12,Salim Nourallah,14
+2006-12,Sorta,27
+2006-12,The Beatles,23
+2006-12,The Deathray Davies,34
+2006-12,The Innocence Mission,8
+2006-12,U2,36
+2007-01,A-Ha,29
+2007-01,Aimee Mann,12
+2007-01,Ben Folds Five,6
+2007-01,Chemistry Set,10
+2007-01,Counting Crows,24
+2007-01,Duran Duran,12
+2007-01,Indigo Girls,22
+2007-01,Inxs,29
+2007-01,Kate Bush,12
+2007-01,Nick Drake,32
+2007-01,Old 97'S,30
+2007-01,Pleasant Grove,11
+2007-01,R.E.M.,81
+2007-01,Radiohead,11
+2007-01,Salim Nourallah,6
+2007-01,Sorta,37
+2007-01,The Beatles,15
+2007-01,The Deathray Davies,35
+2007-01,The Innocence Mission,17
+2007-01,U2,60
+2007-02,A-Ha,24
+2007-02,Aimee Mann,20
+2007-02,Ben Folds Five,4
+2007-02,Chemistry Set,16
+2007-02,Counting Crows,14
+2007-02,Duran Duran,20
+2007-02,Indigo Girls,20
+2007-02,Inxs,7
+2007-02,Kate Bush,14
+2007-02,Nick Drake,11
+2007-02,Old 97'S,20
+2007-02,Pleasant Grove,1
+2007-02,R.E.M.,15
+2007-02,Radiohead,17
+2007-02,Salim Nourallah,20
+2007-02,Sorta,23
+2007-02,The Beatles,8
+2007-02,The Deathray Davies,13
+2007-02,The Innocence Mission,44
+2007-02,U2,37
+2007-03,A-Ha,16
+2007-03,Aimee Mann,3
+2007-03,Ben Folds Five,3
+2007-03,Chemistry Set,9
+2007-03,Counting Crows,3
+2007-03,Duran Duran,13
+2007-03,Indigo Girls,22
+2007-03,Inxs,12
+2007-03,Kate Bush,5
+2007-03,Nick Drake,27
+2007-03,Old 97'S,33
+2007-03,Pleasant Grove,2
+2007-03,R.E.M.,13
+2007-03,Radiohead,12
+2007-03,Salim Nourallah,2
+2007-03,Sorta,12
+2007-03,The Beatles,6
+2007-03,The Deathray Davies,8
+2007-03,The Innocence Mission,16
+2007-03,U2,18
+2007-04,A-Ha,18
+2007-04,Aimee Mann,30
+2007-04,Ben Folds Five,10
+2007-04,Chemistry Set,13
+2007-04,Counting Crows,15
+2007-04,Duran Duran,11
+2007-04,Indigo Girls,23
+2007-04,Inxs,25
+2007-04,Kate Bush,15
+2007-04,Nick Drake,46
+2007-04,Old 97'S,26
+2007-04,Pleasant Grove,6
+2007-04,R.E.M.,31
+2007-04,Radiohead,21
+2007-04,Salim Nourallah,7
+2007-04,Sorta,24
+2007-04,The Beatles,20
+2007-04,The Deathray Davies,13
+2007-04,The Innocence Mission,22
+2007-04,U2,32
+2007-05,A-Ha,25
+2007-05,Aimee Mann,21
+2007-05,Ben Folds Five,8
+2007-05,Chemistry Set,7
+2007-05,Counting Crows,9
+2007-05,Duran Duran,14
+2007-05,Indigo Girls,41
+2007-05,Inxs,29
+2007-05,Kate Bush,11
+2007-05,Nick Drake,31
+2007-05,Old 97'S,29
+2007-05,Pleasant Grove,15
+2007-05,R.E.M.,32
+2007-05,Radiohead,16
+2007-05,Salim Nourallah,6
+2007-05,Sorta,31
+2007-05,The Beatles,57
+2007-05,The Deathray Davies,24
+2007-05,The Innocence Mission,12
+2007-05,U2,32
+2007-06,A-Ha,81
+2007-06,Aimee Mann,15
+2007-06,Ben Folds Five,13
+2007-06,Chemistry Set,11
+2007-06,Counting Crows,19
+2007-06,Duran Duran,22
+2007-06,Indigo Girls,53
+2007-06,Inxs,26
+2007-06,Kate Bush,12
+2007-06,Nick Drake,28
+2007-06,Old 97'S,24
+2007-06,Pleasant Grove,14
+2007-06,R.E.M.,20
+2007-06,Radiohead,15
+2007-06,Salim Nourallah,18
+2007-06,Sorta,24
+2007-06,The Beatles,25
+2007-06,The Deathray Davies,11
+2007-06,The Innocence Mission,11
+2007-06,U2,35
+2007-07,A-Ha,25
+2007-07,Aimee Mann,23
+2007-07,Ben Folds Five,10
+2007-07,Chemistry Set,13
+2007-07,Counting Crows,12
+2007-07,Duran Duran,13
+2007-07,Indigo Girls,24
+2007-07,Inxs,24
+2007-07,Kate Bush,8
+2007-07,Nick Drake,23
+2007-07,Old 97'S,34
+2007-07,Pleasant Grove,13
+2007-07,R.E.M.,13
+2007-07,Radiohead,16
+2007-07,Salim Nourallah,17
+2007-07,Sorta,13
+2007-07,The Beatles,17
+2007-07,The Deathray Davies,12
+2007-07,The Innocence Mission,8
+2007-07,U2,32
+2007-08,A-Ha,21
+2007-08,Aimee Mann,11
+2007-08,Ben Folds Five,5
+2007-08,Chemistry Set,29
+2007-08,Counting Crows,12
+2007-08,Duran Duran,9
+2007-08,Indigo Girls,13
+2007-08,Inxs,30
+2007-08,Kate Bush,9
+2007-08,Nick Drake,20
+2007-08,Old 97'S,32
+2007-08,Pleasant Grove,10
+2007-08,R.E.M.,16
+2007-08,Radiohead,11
+2007-08,Salim Nourallah,72
+2007-08,Sorta,19
+2007-08,The Beatles,17
+2007-08,The Deathray Davies,15
+2007-08,The Innocence Mission,7
+2007-08,U2,18
+2007-09,A-Ha,14
+2007-09,Aimee Mann,7
+2007-09,Ben Folds Five,2
+2007-09,Chemistry Set,4
+2007-09,Counting Crows,7
+2007-09,Duran Duran,1
+2007-09,Indigo Girls,7
+2007-09,Inxs,9
+2007-09,Kate Bush,2
+2007-09,Nick Drake,8
+2007-09,Old 97'S,13
+2007-09,Pleasant Grove,3
+2007-09,R.E.M.,8
+2007-09,Radiohead,9
+2007-09,Salim Nourallah,15
+2007-09,Sorta,28
+2007-09,The Beatles,5
+2007-09,The Deathray Davies,7
+2007-09,The Innocence Mission,4
+2007-09,U2,4
+2007-10,A-Ha,17
+2007-10,Aimee Mann,8
+2007-10,Ben Folds Five,4
+2007-10,Chemistry Set,4
+2007-10,Counting Crows,16
+2007-10,Duran Duran,4
+2007-10,Indigo Girls,13
+2007-10,Inxs,8
+2007-10,Kate Bush,5
+2007-10,Nick Drake,20
+2007-10,Old 97'S,6
+2007-10,Pleasant Grove,15
+2007-10,R.E.M.,10
+2007-10,Radiohead,14
+2007-10,Salim Nourallah,12
+2007-10,Sorta,22
+2007-10,The Beatles,6
+2007-10,The Deathray Davies,5
+2007-10,The Innocence Mission,28
+2007-10,U2,10
+2007-11,A-Ha,23
+2007-11,Aimee Mann,18
+2007-11,Ben Folds Five,5
+2007-11,Chemistry Set,9
+2007-11,Counting Crows,20
+2007-11,Duran Duran,12
+2007-11,Indigo Girls,30
+2007-11,Inxs,30
+2007-11,Kate Bush,10
+2007-11,Nick Drake,19
+2007-11,Old 97'S,30
+2007-11,Pleasant Grove,23
+2007-11,R.E.M.,24
+2007-11,Radiohead,16
+2007-11,Salim Nourallah,23
+2007-11,Sorta,25
+2007-11,The Beatles,13
+2007-11,The Deathray Davies,11
+2007-11,The Innocence Mission,14
+2007-11,U2,14
+2007-12,A-Ha,13
+2007-12,Aimee Mann,21
+2007-12,Ben Folds Five,3
+2007-12,Chemistry Set,7
+2007-12,Counting Crows,7
+2007-12,Duran Duran,11
+2007-12,Indigo Girls,15
+2007-12,Inxs,11
+2007-12,Kate Bush,7
+2007-12,Nick Drake,15
+2007-12,Old 97'S,22
+2007-12,Pleasant Grove,7
+2007-12,R.E.M.,22
+2007-12,Radiohead,17
+2007-12,Salim Nourallah,19
+2007-12,Sorta,14
+2007-12,The Beatles,16
+2007-12,The Deathray Davies,13
+2007-12,The Innocence Mission,3
+2007-12,U2,12
+2008-01,A-Ha,15
+2008-01,Aimee Mann,100
+2008-01,Ben Folds Five,1
+2008-01,Chemistry Set,9
+2008-01,Counting Crows,7
+2008-01,Duran Duran,10
+2008-01,Indigo Girls,15
+2008-01,Inxs,9
+2008-01,Kate Bush,7
+2008-01,Nick Drake,37
+2008-01,Old 97'S,27
+2008-01,Pleasant Grove,4
+2008-01,R.E.M.,15
+2008-01,Radiohead,9
+2008-01,Salim Nourallah,13
+2008-01,Sorta,13
+2008-01,The Beatles,9
+2008-01,The Deathray Davies,11
+2008-01,The Innocence Mission,19
+2008-01,U2,14
+2008-02,A-Ha,18
+2008-02,Aimee Mann,46
+2008-02,Ben Folds Five,2
+2008-02,Chemistry Set,6
+2008-02,Counting Crows,15
+2008-02,Duran Duran,11
+2008-02,Indigo Girls,21
+2008-02,Inxs,14
+2008-02,Kate Bush,10
+2008-02,Nick Drake,22
+2008-02,Old 97'S,13
+2008-02,Pleasant Grove,6
+2008-02,R.E.M.,11
+2008-02,Radiohead,9
+2008-02,Salim Nourallah,10
+2008-02,Sorta,4
+2008-02,The Beatles,10
+2008-02,The Deathray Davies,11
+2008-02,The Innocence Mission,11
+2008-02,U2,21
+2008-03,A-Ha,5
+2008-03,Aimee Mann,17
+2008-03,Ben Folds Five,1
+2008-03,Chemistry Set,5
+2008-03,Counting Crows,6
+2008-03,Duran Duran,8
+2008-03,Indigo Girls,8
+2008-03,Inxs,4
+2008-03,Kate Bush,9
+2008-03,Nick Drake,17
+2008-03,Old 97'S,6
+2008-03,Pleasant Grove,8
+2008-03,R.E.M.,7
+2008-03,Radiohead,6
+2008-03,Salim Nourallah,6
+2008-03,Sorta,7
+2008-03,The Beatles,2
+2008-03,The Deathray Davies,7
+2008-03,The Innocence Mission,6
+2008-03,U2,7
+2008-04,A-Ha,4
+2008-04,Aimee Mann,4
+2008-04,Ben Folds Five,2
+2008-04,Chemistry Set,7
+2008-04,Counting Crows,2
+2008-04,Duran Duran,3
+2008-04,Indigo Girls,5
+2008-04,Inxs,6
+2008-04,Kate Bush,2
+2008-04,Nick Drake,6
+2008-04,Old 97'S,7
+2008-04,Pleasant Grove,3
+2008-04,R.E.M.,6
+2008-04,Radiohead,3
+2008-04,Salim Nourallah,8
+2008-04,Sorta,3
+2008-04,The Beatles,1
+2008-04,The Deathray Davies,7
+2008-04,The Innocence Mission,4
+2008-04,U2,15
+2008-05,A-Ha,1
+2008-05,Aimee Mann,1
+2008-05,Ben Folds Five,1
+2008-05,Chemistry Set,0
+2008-05,Counting Crows,1
+2008-05,Duran Duran,1
+2008-05,Indigo Girls,0
+2008-05,Inxs,0
+2008-05,Kate Bush,2
+2008-05,Nick Drake,0
+2008-05,Old 97'S,1
+2008-05,Pleasant Grove,0
+2008-05,R.E.M.,0
+2008-05,Radiohead,1
+2008-05,Salim Nourallah,1
+2008-05,Sorta,0
+2008-05,The Beatles,1
+2008-05,The Deathray Davies,1
+2008-05,The Innocence Mission,1
+2008-05,U2,2
+2008-06,A-Ha,11
+2008-06,Aimee Mann,6
+2008-06,Ben Folds Five,3
+2008-06,Chemistry Set,1
+2008-06,Counting Crows,6
+2008-06,Duran Duran,5
+2008-06,Indigo Girls,4
+2008-06,Inxs,44
+2008-06,Kate Bush,1
+2008-06,Nick Drake,17
+2008-06,Old 97'S,3
+2008-06,Pleasant Grove,2
+2008-06,R.E.M.,10
+2008-06,Radiohead,4
+2008-06,Salim Nourallah,0
+2008-06,Sorta,3
+2008-06,The Beatles,4
+2008-06,The Deathray Davies,5
+2008-06,The Innocence Mission,8
+2008-06,U2,42
+2008-07,A-Ha,37
+2008-07,Aimee Mann,24
+2008-07,Ben Folds Five,9
+2008-07,Chemistry Set,8
+2008-07,Counting Crows,20
+2008-07,Duran Duran,16
+2008-07,Indigo Girls,25
+2008-07,Inxs,25
+2008-07,Kate Bush,13
+2008-07,Nick Drake,34
+2008-07,Old 97'S,19
+2008-07,Pleasant Grove,6
+2008-07,R.E.M.,26
+2008-07,Radiohead,7
+2008-07,Salim Nourallah,19
+2008-07,Sorta,12
+2008-07,The Beatles,18
+2008-07,The Deathray Davies,15
+2008-07,The Innocence Mission,18
+2008-07,U2,40
+2008-08,A-Ha,13
+2008-08,Aimee Mann,16
+2008-08,Ben Folds Five,7
+2008-08,Chemistry Set,5
+2008-08,Counting Crows,52
+2008-08,Duran Duran,9
+2008-08,Indigo Girls,19
+2008-08,Inxs,16
+2008-08,Kate Bush,5
+2008-08,Nick Drake,10
+2008-08,Old 97'S,22
+2008-08,Pleasant Grove,10
+2008-08,R.E.M.,16
+2008-08,Radiohead,7
+2008-08,Salim Nourallah,11
+2008-08,Sorta,10
+2008-08,The Beatles,10
+2008-08,The Deathray Davies,12
+2008-08,The Innocence Mission,13
+2008-08,U2,25
+2008-09,A-Ha,7
+2008-09,Aimee Mann,5
+2008-09,Ben Folds Five,2
+2008-09,Chemistry Set,2
+2008-09,Counting Crows,11
+2008-09,Duran Duran,2
+2008-09,Indigo Girls,5
+2008-09,Inxs,6
+2008-09,Kate Bush,1
+2008-09,Nick Drake,4
+2008-09,Old 97'S,4
+2008-09,Pleasant Grove,3
+2008-09,R.E.M.,7
+2008-09,Radiohead,4
+2008-09,Salim Nourallah,7
+2008-09,Sorta,1
+2008-09,The Beatles,4
+2008-09,The Deathray Davies,5
+2008-09,The Innocence Mission,4
+2008-09,U2,16
+2008-10,A-Ha,0
+2008-10,Aimee Mann,0
+2008-10,Ben Folds Five,0
+2008-10,Chemistry Set,0
+2008-10,Counting Crows,0
+2008-10,Duran Duran,0
+2008-10,Indigo Girls,0
+2008-10,Inxs,0
+2008-10,Kate Bush,0
+2008-10,Nick Drake,0
+2008-10,Old 97'S,0
+2008-10,Pleasant Grove,0
+2008-10,R.E.M.,0
+2008-10,Radiohead,0
+2008-10,Salim Nourallah,0
+2008-10,Sorta,0
+2008-10,The Beatles,0
+2008-10,The Deathray Davies,0
+2008-10,The Innocence Mission,0
+2008-10,U2,0
+2008-11,A-Ha,0
+2008-11,Aimee Mann,0
+2008-11,Ben Folds Five,0
+2008-11,Chemistry Set,0
+2008-11,Counting Crows,0
+2008-11,Duran Duran,0
+2008-11,Indigo Girls,0
+2008-11,Inxs,0
+2008-11,Kate Bush,0
+2008-11,Nick Drake,0
+2008-11,Old 97'S,0
+2008-11,Pleasant Grove,0
+2008-11,R.E.M.,0
+2008-11,Radiohead,0
+2008-11,Salim Nourallah,0
+2008-11,Sorta,0
+2008-11,The Beatles,0
+2008-11,The Deathray Davies,0
+2008-11,The Innocence Mission,0
+2008-11,U2,0
+2008-12,A-Ha,5
+2008-12,Aimee Mann,4
+2008-12,Ben Folds Five,0
+2008-12,Chemistry Set,1
+2008-12,Counting Crows,4
+2008-12,Duran Duran,1
+2008-12,Indigo Girls,2
+2008-12,Inxs,5
+2008-12,Kate Bush,2
+2008-12,Nick Drake,13
+2008-12,Old 97'S,1
+2008-12,Pleasant Grove,2
+2008-12,R.E.M.,4
+2008-12,Radiohead,3
+2008-12,Salim Nourallah,1
+2008-12,Sorta,2
+2008-12,The Beatles,0
+2008-12,The Deathray Davies,1
+2008-12,The Innocence Mission,1
+2008-12,U2,9
+2009-01,A-Ha,0
+2009-01,Aimee Mann,0
+2009-01,Ben Folds Five,0
+2009-01,Chemistry Set,0
+2009-01,Counting Crows,0
+2009-01,Duran Duran,0
+2009-01,Indigo Girls,0
+2009-01,Inxs,0
+2009-01,Kate Bush,0
+2009-01,Nick Drake,0
+2009-01,Old 97'S,0
+2009-01,Pleasant Grove,0
+2009-01,R.E.M.,0
+2009-01,Radiohead,0
+2009-01,Salim Nourallah,0
+2009-01,Sorta,0
+2009-01,The Beatles,0
+2009-01,The Deathray Davies,0
+2009-01,The Innocence Mission,0
+2009-01,U2,0
+2009-02,A-Ha,0
+2009-02,Aimee Mann,0
+2009-02,Ben Folds Five,0
+2009-02,Chemistry Set,0
+2009-02,Counting Crows,0
+2009-02,Duran Duran,0
+2009-02,Indigo Girls,0
+2009-02,Inxs,0
+2009-02,Kate Bush,0
+2009-02,Nick Drake,0
+2009-02,Old 97'S,0
+2009-02,Pleasant Grove,0
+2009-02,R.E.M.,0
+2009-02,Radiohead,0
+2009-02,Salim Nourallah,0
+2009-02,Sorta,0
+2009-02,The Beatles,0
+2009-02,The Deathray Davies,0
+2009-02,The Innocence Mission,0
+2009-02,U2,0
+2009-03,A-Ha,1
+2009-03,Aimee Mann,13
+2009-03,Ben Folds Five,0
+2009-03,Chemistry Set,0
+2009-03,Counting Crows,0
+2009-03,Duran Duran,0
+2009-03,Indigo Girls,0
+2009-03,Inxs,1
+2009-03,Kate Bush,0
+2009-03,Nick Drake,1
+2009-03,Old 97'S,1
+2009-03,Pleasant Grove,1
+2009-03,R.E.M.,2
+2009-03,Radiohead,0
+2009-03,Salim Nourallah,1
+2009-03,Sorta,4
+2009-03,The Beatles,2
+2009-03,The Deathray Davies,0
+2009-03,The Innocence Mission,0
+2009-03,U2,0
+2009-04,A-Ha,9
+2009-04,Aimee Mann,6
+2009-04,Ben Folds Five,2
+2009-04,Chemistry Set,1
+2009-04,Counting Crows,8
+2009-04,Duran Duran,1
+2009-04,Indigo Girls,7
+2009-04,Inxs,8
+2009-04,Kate Bush,3
+2009-04,Nick Drake,8
+2009-04,Old 97'S,6
+2009-04,Pleasant Grove,2
+2009-04,R.E.M.,13
+2009-04,Radiohead,8
+2009-04,Salim Nourallah,8
+2009-04,Sorta,5
+2009-04,The Beatles,4
+2009-04,The Deathray Davies,5
+2009-04,The Innocence Mission,7
+2009-04,U2,5
+2009-05,A-Ha,0
+2009-05,Aimee Mann,0
+2009-05,Ben Folds Five,0
+2009-05,Chemistry Set,0
+2009-05,Counting Crows,0
+2009-05,Duran Duran,0
+2009-05,Indigo Girls,0
+2009-05,Inxs,0
+2009-05,Kate Bush,0
+2009-05,Nick Drake,1
+2009-05,Old 97'S,1
+2009-05,Pleasant Grove,1
+2009-05,R.E.M.,0
+2009-05,Radiohead,0
+2009-05,Salim Nourallah,0
+2009-05,Sorta,16
+2009-05,The Beatles,0
+2009-05,The Deathray Davies,0
+2009-05,The Innocence Mission,1
+2009-05,U2,0

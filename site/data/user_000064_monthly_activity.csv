@@ -1,0 +1,821 @@
+month,artist,plays
+2005-12,Ben Folds,0
+2005-12,Charta 77,1
+2005-12,Death Cab For Cutie,0
+2005-12,Dia Psalma,3
+2005-12,Ebba Grön,1
+2005-12,Flogging Molly,0
+2005-12,Hovet,1
+2005-12,Imperiet,1
+2005-12,Lars Winnerbäck,3
+2005-12,Lok,0
+2005-12,Rammstein,16
+2005-12,Ramones,0
+2005-12,Red Hot Chili Peppers,0
+2005-12,Staffan Hellstrand,15
+2005-12,Sten & Stalin,2
+2005-12,Thåström,2
+2005-12,The Beatles,5
+2005-12,The Cardigans,0
+2005-12,Van Morrison,1
+2005-12,Yellowcard,0
+2006-01,Ben Folds,0
+2006-01,Charta 77,48
+2006-01,Death Cab For Cutie,44
+2006-01,Dia Psalma,86
+2006-01,Ebba Grön,25
+2006-01,Flogging Molly,4
+2006-01,Hovet,44
+2006-01,Imperiet,4
+2006-01,Lars Winnerbäck,63
+2006-01,Lok,0
+2006-01,Rammstein,115
+2006-01,Ramones,0
+2006-01,Red Hot Chili Peppers,0
+2006-01,Staffan Hellstrand,76
+2006-01,Sten & Stalin,39
+2006-01,Thåström,40
+2006-01,The Beatles,48
+2006-01,The Cardigans,0
+2006-01,Van Morrison,2
+2006-01,Yellowcard,16
+2006-02,Ben Folds,0
+2006-02,Charta 77,53
+2006-02,Death Cab For Cutie,24
+2006-02,Dia Psalma,113
+2006-02,Ebba Grön,36
+2006-02,Flogging Molly,1
+2006-02,Hovet,24
+2006-02,Imperiet,2
+2006-02,Lars Winnerbäck,47
+2006-02,Lok,54
+2006-02,Rammstein,240
+2006-02,Ramones,0
+2006-02,Red Hot Chili Peppers,0
+2006-02,Staffan Hellstrand,60
+2006-02,Sten & Stalin,39
+2006-02,Thåström,78
+2006-02,The Beatles,43
+2006-02,The Cardigans,0
+2006-02,Van Morrison,2
+2006-02,Yellowcard,16
+2006-03,Ben Folds,4
+2006-03,Charta 77,23
+2006-03,Death Cab For Cutie,35
+2006-03,Dia Psalma,29
+2006-03,Ebba Grön,22
+2006-03,Flogging Molly,0
+2006-03,Hovet,22
+2006-03,Imperiet,2
+2006-03,Lars Winnerbäck,26
+2006-03,Lok,18
+2006-03,Rammstein,74
+2006-03,Ramones,0
+2006-03,Red Hot Chili Peppers,0
+2006-03,Staffan Hellstrand,82
+2006-03,Sten & Stalin,16
+2006-03,Thåström,99
+2006-03,The Beatles,23
+2006-03,The Cardigans,17
+2006-03,Van Morrison,5
+2006-03,Yellowcard,15
+2006-04,Ben Folds,6
+2006-04,Charta 77,29
+2006-04,Death Cab For Cutie,28
+2006-04,Dia Psalma,19
+2006-04,Ebba Grön,10
+2006-04,Flogging Molly,4
+2006-04,Hovet,10
+2006-04,Imperiet,45
+2006-04,Lars Winnerbäck,5
+2006-04,Lok,24
+2006-04,Rammstein,42
+2006-04,Ramones,1
+2006-04,Red Hot Chili Peppers,0
+2006-04,Staffan Hellstrand,36
+2006-04,Sten & Stalin,11
+2006-04,Thåström,61
+2006-04,The Beatles,17
+2006-04,The Cardigans,38
+2006-04,Van Morrison,2
+2006-04,Yellowcard,20
+2006-05,Ben Folds,0
+2006-05,Charta 77,10
+2006-05,Death Cab For Cutie,7
+2006-05,Dia Psalma,4
+2006-05,Ebba Grön,5
+2006-05,Flogging Molly,35
+2006-05,Hovet,12
+2006-05,Imperiet,29
+2006-05,Lars Winnerbäck,10
+2006-05,Lok,4
+2006-05,Rammstein,67
+2006-05,Ramones,7
+2006-05,Red Hot Chili Peppers,11
+2006-05,Staffan Hellstrand,14
+2006-05,Sten & Stalin,7
+2006-05,Thåström,71
+2006-05,The Beatles,5
+2006-05,The Cardigans,36
+2006-05,Van Morrison,0
+2006-05,Yellowcard,16
+2006-06,Ben Folds,1
+2006-06,Charta 77,11
+2006-06,Death Cab For Cutie,1
+2006-06,Dia Psalma,9
+2006-06,Ebba Grön,6
+2006-06,Flogging Molly,20
+2006-06,Hovet,3
+2006-06,Imperiet,43
+2006-06,Lars Winnerbäck,6
+2006-06,Lok,5
+2006-06,Rammstein,32
+2006-06,Ramones,16
+2006-06,Red Hot Chili Peppers,12
+2006-06,Staffan Hellstrand,19
+2006-06,Sten & Stalin,10
+2006-06,Thåström,112
+2006-06,The Beatles,4
+2006-06,The Cardigans,13
+2006-06,Van Morrison,36
+2006-06,Yellowcard,5
+2006-07,Ben Folds,2
+2006-07,Charta 77,4
+2006-07,Death Cab For Cutie,3
+2006-07,Dia Psalma,20
+2006-07,Ebba Grön,7
+2006-07,Flogging Molly,19
+2006-07,Hovet,5
+2006-07,Imperiet,8
+2006-07,Lars Winnerbäck,9
+2006-07,Lok,6
+2006-07,Rammstein,25
+2006-07,Ramones,14
+2006-07,Red Hot Chili Peppers,15
+2006-07,Staffan Hellstrand,10
+2006-07,Sten & Stalin,4
+2006-07,Thåström,27
+2006-07,The Beatles,8
+2006-07,The Cardigans,14
+2006-07,Van Morrison,14
+2006-07,Yellowcard,12
+2006-08,Ben Folds,22
+2006-08,Charta 77,3
+2006-08,Death Cab For Cutie,2
+2006-08,Dia Psalma,7
+2006-08,Ebba Grön,3
+2006-08,Flogging Molly,10
+2006-08,Hovet,2
+2006-08,Imperiet,8
+2006-08,Lars Winnerbäck,5
+2006-08,Lok,2
+2006-08,Rammstein,18
+2006-08,Ramones,12
+2006-08,Red Hot Chili Peppers,9
+2006-08,Staffan Hellstrand,15
+2006-08,Sten & Stalin,5
+2006-08,Thåström,19
+2006-08,The Beatles,8
+2006-08,The Cardigans,7
+2006-08,Van Morrison,18
+2006-08,Yellowcard,10
+2006-09,Ben Folds,12
+2006-09,Charta 77,9
+2006-09,Death Cab For Cutie,5
+2006-09,Dia Psalma,5
+2006-09,Ebba Grön,1
+2006-09,Flogging Molly,11
+2006-09,Hovet,1
+2006-09,Imperiet,7
+2006-09,Lars Winnerbäck,6
+2006-09,Lok,3
+2006-09,Rammstein,18
+2006-09,Ramones,2
+2006-09,Red Hot Chili Peppers,8
+2006-09,Staffan Hellstrand,12
+2006-09,Sten & Stalin,4
+2006-09,Thåström,21
+2006-09,The Beatles,5
+2006-09,The Cardigans,5
+2006-09,Van Morrison,7
+2006-09,Yellowcard,5
+2006-10,Ben Folds,31
+2006-10,Charta 77,3
+2006-10,Death Cab For Cutie,13
+2006-10,Dia Psalma,9
+2006-10,Ebba Grön,7
+2006-10,Flogging Molly,10
+2006-10,Hovet,4
+2006-10,Imperiet,7
+2006-10,Lars Winnerbäck,7
+2006-10,Lok,7
+2006-10,Rammstein,41
+2006-10,Ramones,13
+2006-10,Red Hot Chili Peppers,3
+2006-10,Staffan Hellstrand,14
+2006-10,Sten & Stalin,5
+2006-10,Thåström,24
+2006-10,The Beatles,6
+2006-10,The Cardigans,8
+2006-10,Van Morrison,9
+2006-10,Yellowcard,10
+2006-11,Ben Folds,35
+2006-11,Charta 77,26
+2006-11,Death Cab For Cutie,19
+2006-11,Dia Psalma,9
+2006-11,Ebba Grön,15
+2006-11,Flogging Molly,16
+2006-11,Hovet,12
+2006-11,Imperiet,32
+2006-11,Lars Winnerbäck,20
+2006-11,Lok,8
+2006-11,Rammstein,42
+2006-11,Ramones,13
+2006-11,Red Hot Chili Peppers,9
+2006-11,Staffan Hellstrand,24
+2006-11,Sten & Stalin,15
+2006-11,Thåström,88
+2006-11,The Beatles,20
+2006-11,The Cardigans,19
+2006-11,Van Morrison,15
+2006-11,Yellowcard,37
+2006-12,Ben Folds,10
+2006-12,Charta 77,4
+2006-12,Death Cab For Cutie,3
+2006-12,Dia Psalma,3
+2006-12,Ebba Grön,7
+2006-12,Flogging Molly,3
+2006-12,Hovet,5
+2006-12,Imperiet,7
+2006-12,Lars Winnerbäck,4
+2006-12,Lok,5
+2006-12,Rammstein,18
+2006-12,Ramones,6
+2006-12,Red Hot Chili Peppers,2
+2006-12,Staffan Hellstrand,12
+2006-12,Sten & Stalin,8
+2006-12,Thåström,26
+2006-12,The Beatles,5
+2006-12,The Cardigans,10
+2006-12,Van Morrison,3
+2006-12,Yellowcard,15
+2007-01,Ben Folds,11
+2007-01,Charta 77,8
+2007-01,Death Cab For Cutie,18
+2007-01,Dia Psalma,4
+2007-01,Ebba Grön,8
+2007-01,Flogging Molly,15
+2007-01,Hovet,13
+2007-01,Imperiet,18
+2007-01,Lars Winnerbäck,11
+2007-01,Lok,6
+2007-01,Rammstein,21
+2007-01,Ramones,9
+2007-01,Red Hot Chili Peppers,4
+2007-01,Staffan Hellstrand,27
+2007-01,Sten & Stalin,4
+2007-01,Thåström,37
+2007-01,The Beatles,19
+2007-01,The Cardigans,13
+2007-01,Van Morrison,5
+2007-01,Yellowcard,19
+2007-02,Ben Folds,3
+2007-02,Charta 77,12
+2007-02,Death Cab For Cutie,25
+2007-02,Dia Psalma,7
+2007-02,Ebba Grön,7
+2007-02,Flogging Molly,14
+2007-02,Hovet,7
+2007-02,Imperiet,19
+2007-02,Lars Winnerbäck,5
+2007-02,Lok,12
+2007-02,Rammstein,35
+2007-02,Ramones,16
+2007-02,Red Hot Chili Peppers,12
+2007-02,Staffan Hellstrand,31
+2007-02,Sten & Stalin,5
+2007-02,Thåström,61
+2007-02,The Beatles,14
+2007-02,The Cardigans,12
+2007-02,Van Morrison,5
+2007-02,Yellowcard,20
+2007-03,Ben Folds,15
+2007-03,Charta 77,9
+2007-03,Death Cab For Cutie,8
+2007-03,Dia Psalma,26
+2007-03,Ebba Grön,9
+2007-03,Flogging Molly,18
+2007-03,Hovet,4
+2007-03,Imperiet,14
+2007-03,Lars Winnerbäck,3
+2007-03,Lok,3
+2007-03,Rammstein,24
+2007-03,Ramones,13
+2007-03,Red Hot Chili Peppers,13
+2007-03,Staffan Hellstrand,15
+2007-03,Sten & Stalin,3
+2007-03,Thåström,29
+2007-03,The Beatles,23
+2007-03,The Cardigans,6
+2007-03,Van Morrison,22
+2007-03,Yellowcard,10
+2007-04,Ben Folds,10
+2007-04,Charta 77,11
+2007-04,Death Cab For Cutie,12
+2007-04,Dia Psalma,4
+2007-04,Ebba Grön,6
+2007-04,Flogging Molly,12
+2007-04,Hovet,2
+2007-04,Imperiet,13
+2007-04,Lars Winnerbäck,1
+2007-04,Lok,3
+2007-04,Rammstein,9
+2007-04,Ramones,7
+2007-04,Red Hot Chili Peppers,11
+2007-04,Staffan Hellstrand,10
+2007-04,Sten & Stalin,3
+2007-04,Thåström,18
+2007-04,The Beatles,11
+2007-04,The Cardigans,2
+2007-04,Van Morrison,13
+2007-04,Yellowcard,7
+2007-05,Ben Folds,4
+2007-05,Charta 77,2
+2007-05,Death Cab For Cutie,2
+2007-05,Dia Psalma,2
+2007-05,Ebba Grön,3
+2007-05,Flogging Molly,5
+2007-05,Hovet,1
+2007-05,Imperiet,6
+2007-05,Lars Winnerbäck,0
+2007-05,Lok,2
+2007-05,Rammstein,3
+2007-05,Ramones,1
+2007-05,Red Hot Chili Peppers,3
+2007-05,Staffan Hellstrand,1
+2007-05,Sten & Stalin,3
+2007-05,Thåström,11
+2007-05,The Beatles,7
+2007-05,The Cardigans,0
+2007-05,Van Morrison,0
+2007-05,Yellowcard,1
+2007-06,Ben Folds,17
+2007-06,Charta 77,10
+2007-06,Death Cab For Cutie,8
+2007-06,Dia Psalma,8
+2007-06,Ebba Grön,7
+2007-06,Flogging Molly,6
+2007-06,Hovet,5
+2007-06,Imperiet,21
+2007-06,Lars Winnerbäck,0
+2007-06,Lok,5
+2007-06,Rammstein,16
+2007-06,Ramones,6
+2007-06,Red Hot Chili Peppers,1
+2007-06,Staffan Hellstrand,10
+2007-06,Sten & Stalin,6
+2007-06,Thåström,43
+2007-06,The Beatles,15
+2007-06,The Cardigans,0
+2007-06,Van Morrison,19
+2007-06,Yellowcard,16
+2007-07,Ben Folds,15
+2007-07,Charta 77,17
+2007-07,Death Cab For Cutie,17
+2007-07,Dia Psalma,20
+2007-07,Ebba Grön,15
+2007-07,Flogging Molly,22
+2007-07,Hovet,6
+2007-07,Imperiet,23
+2007-07,Lars Winnerbäck,0
+2007-07,Lok,10
+2007-07,Rammstein,43
+2007-07,Ramones,21
+2007-07,Red Hot Chili Peppers,4
+2007-07,Staffan Hellstrand,29
+2007-07,Sten & Stalin,8
+2007-07,Thåström,51
+2007-07,The Beatles,19
+2007-07,The Cardigans,0
+2007-07,Van Morrison,18
+2007-07,Yellowcard,17
+2007-08,Ben Folds,14
+2007-08,Charta 77,13
+2007-08,Death Cab For Cutie,13
+2007-08,Dia Psalma,6
+2007-08,Ebba Grön,7
+2007-08,Flogging Molly,17
+2007-08,Hovet,7
+2007-08,Imperiet,27
+2007-08,Lars Winnerbäck,3
+2007-08,Lok,7
+2007-08,Rammstein,33
+2007-08,Ramones,14
+2007-08,Red Hot Chili Peppers,3
+2007-08,Staffan Hellstrand,20
+2007-08,Sten & Stalin,7
+2007-08,Thåström,35
+2007-08,The Beatles,16
+2007-08,The Cardigans,71
+2007-08,Van Morrison,12
+2007-08,Yellowcard,36
+2007-09,Ben Folds,24
+2007-09,Charta 77,17
+2007-09,Death Cab For Cutie,18
+2007-09,Dia Psalma,7
+2007-09,Ebba Grön,20
+2007-09,Flogging Molly,41
+2007-09,Hovet,3
+2007-09,Imperiet,23
+2007-09,Lars Winnerbäck,17
+2007-09,Lok,6
+2007-09,Rammstein,21
+2007-09,Ramones,19
+2007-09,Red Hot Chili Peppers,26
+2007-09,Staffan Hellstrand,19
+2007-09,Sten & Stalin,10
+2007-09,Thåström,52
+2007-09,The Beatles,34
+2007-09,The Cardigans,48
+2007-09,Van Morrison,39
+2007-09,Yellowcard,24
+2007-10,Ben Folds,4
+2007-10,Charta 77,3
+2007-10,Death Cab For Cutie,9
+2007-10,Dia Psalma,20
+2007-10,Ebba Grön,12
+2007-10,Flogging Molly,15
+2007-10,Hovet,14
+2007-10,Imperiet,13
+2007-10,Lars Winnerbäck,32
+2007-10,Lok,1
+2007-10,Rammstein,14
+2007-10,Ramones,14
+2007-10,Red Hot Chili Peppers,13
+2007-10,Staffan Hellstrand,35
+2007-10,Sten & Stalin,2
+2007-10,Thåström,11
+2007-10,The Beatles,16
+2007-10,The Cardigans,13
+2007-10,Van Morrison,23
+2007-10,Yellowcard,8
+2007-11,Ben Folds,6
+2007-11,Charta 77,1
+2007-11,Death Cab For Cutie,3
+2007-11,Dia Psalma,8
+2007-11,Ebba Grön,1
+2007-11,Flogging Molly,8
+2007-11,Hovet,6
+2007-11,Imperiet,4
+2007-11,Lars Winnerbäck,17
+2007-11,Lok,0
+2007-11,Rammstein,9
+2007-11,Ramones,3
+2007-11,Red Hot Chili Peppers,4
+2007-11,Staffan Hellstrand,4
+2007-11,Sten & Stalin,1
+2007-11,Thåström,7
+2007-11,The Beatles,5
+2007-11,The Cardigans,5
+2007-11,Van Morrison,2
+2007-11,Yellowcard,6
+2007-12,Ben Folds,7
+2007-12,Charta 77,3
+2007-12,Death Cab For Cutie,4
+2007-12,Dia Psalma,7
+2007-12,Ebba Grön,5
+2007-12,Flogging Molly,0
+2007-12,Hovet,1
+2007-12,Imperiet,0
+2007-12,Lars Winnerbäck,7
+2007-12,Lok,0
+2007-12,Rammstein,13
+2007-12,Ramones,2
+2007-12,Red Hot Chili Peppers,4
+2007-12,Staffan Hellstrand,0
+2007-12,Sten & Stalin,1
+2007-12,Thåström,18
+2007-12,The Beatles,5
+2007-12,The Cardigans,6
+2007-12,Van Morrison,2
+2007-12,Yellowcard,8
+2008-01,Ben Folds,16
+2008-01,Charta 77,12
+2008-01,Death Cab For Cutie,14
+2008-01,Dia Psalma,7
+2008-01,Ebba Grön,18
+2008-01,Flogging Molly,4
+2008-01,Hovet,12
+2008-01,Imperiet,9
+2008-01,Lars Winnerbäck,26
+2008-01,Lok,15
+2008-01,Rammstein,27
+2008-01,Ramones,15
+2008-01,Red Hot Chili Peppers,3
+2008-01,Staffan Hellstrand,16
+2008-01,Sten & Stalin,7
+2008-01,Thåström,32
+2008-01,The Beatles,16
+2008-01,The Cardigans,22
+2008-01,Van Morrison,11
+2008-01,Yellowcard,4
+2008-02,Ben Folds,6
+2008-02,Charta 77,7
+2008-02,Death Cab For Cutie,1
+2008-02,Dia Psalma,7
+2008-02,Ebba Grön,14
+2008-02,Flogging Molly,46
+2008-02,Hovet,5
+2008-02,Imperiet,29
+2008-02,Lars Winnerbäck,71
+2008-02,Lok,5
+2008-02,Rammstein,8
+2008-02,Ramones,17
+2008-02,Red Hot Chili Peppers,33
+2008-02,Staffan Hellstrand,30
+2008-02,Sten & Stalin,7
+2008-02,Thåström,46
+2008-02,The Beatles,36
+2008-02,The Cardigans,47
+2008-02,Van Morrison,40
+2008-02,Yellowcard,14
+2008-03,Ben Folds,27
+2008-03,Charta 77,16
+2008-03,Death Cab For Cutie,2
+2008-03,Dia Psalma,7
+2008-03,Ebba Grön,6
+2008-03,Flogging Molly,37
+2008-03,Hovet,10
+2008-03,Imperiet,20
+2008-03,Lars Winnerbäck,57
+2008-03,Lok,15
+2008-03,Rammstein,18
+2008-03,Ramones,17
+2008-03,Red Hot Chili Peppers,21
+2008-03,Staffan Hellstrand,52
+2008-03,Sten & Stalin,36
+2008-03,Thåström,129
+2008-03,The Beatles,47
+2008-03,The Cardigans,49
+2008-03,Van Morrison,45
+2008-03,Yellowcard,23
+2008-04,Ben Folds,23
+2008-04,Charta 77,25
+2008-04,Death Cab For Cutie,5
+2008-04,Dia Psalma,6
+2008-04,Ebba Grön,8
+2008-04,Flogging Molly,22
+2008-04,Hovet,7
+2008-04,Imperiet,17
+2008-04,Lars Winnerbäck,28
+2008-04,Lok,1
+2008-04,Rammstein,14
+2008-04,Ramones,18
+2008-04,Red Hot Chili Peppers,26
+2008-04,Staffan Hellstrand,33
+2008-04,Sten & Stalin,9
+2008-04,Thåström,47
+2008-04,The Beatles,17
+2008-04,The Cardigans,36
+2008-04,Van Morrison,40
+2008-04,Yellowcard,5
+2008-05,Ben Folds,25
+2008-05,Charta 77,25
+2008-05,Death Cab For Cutie,18
+2008-05,Dia Psalma,13
+2008-05,Ebba Grön,34
+2008-05,Flogging Molly,27
+2008-05,Hovet,10
+2008-05,Imperiet,23
+2008-05,Lars Winnerbäck,81
+2008-05,Lok,8
+2008-05,Rammstein,28
+2008-05,Ramones,27
+2008-05,Red Hot Chili Peppers,30
+2008-05,Staffan Hellstrand,38
+2008-05,Sten & Stalin,16
+2008-05,Thåström,102
+2008-05,The Beatles,24
+2008-05,The Cardigans,45
+2008-05,Van Morrison,53
+2008-05,Yellowcard,43
+2008-06,Ben Folds,0
+2008-06,Charta 77,0
+2008-06,Death Cab For Cutie,0
+2008-06,Dia Psalma,0
+2008-06,Ebba Grön,0
+2008-06,Flogging Molly,1
+2008-06,Hovet,0
+2008-06,Imperiet,1
+2008-06,Lars Winnerbäck,0
+2008-06,Lok,0
+2008-06,Rammstein,0
+2008-06,Ramones,0
+2008-06,Red Hot Chili Peppers,1
+2008-06,Staffan Hellstrand,1
+2008-06,Sten & Stalin,0
+2008-06,Thåström,2
+2008-06,The Beatles,0
+2008-06,The Cardigans,0
+2008-06,Van Morrison,1
+2008-06,Yellowcard,0
+2008-07,Ben Folds,3
+2008-07,Charta 77,1
+2008-07,Death Cab For Cutie,1
+2008-07,Dia Psalma,2
+2008-07,Ebba Grön,1
+2008-07,Flogging Molly,2
+2008-07,Hovet,1
+2008-07,Imperiet,1
+2008-07,Lars Winnerbäck,4
+2008-07,Lok,1
+2008-07,Rammstein,4
+2008-07,Ramones,0
+2008-07,Red Hot Chili Peppers,4
+2008-07,Staffan Hellstrand,4
+2008-07,Sten & Stalin,3
+2008-07,Thåström,8
+2008-07,The Beatles,1
+2008-07,The Cardigans,1
+2008-07,Van Morrison,5
+2008-07,Yellowcard,1
+2008-08,Ben Folds,2
+2008-08,Charta 77,7
+2008-08,Death Cab For Cutie,4
+2008-08,Dia Psalma,2
+2008-08,Ebba Grön,3
+2008-08,Flogging Molly,1
+2008-08,Hovet,3
+2008-08,Imperiet,5
+2008-08,Lars Winnerbäck,7
+2008-08,Lok,0
+2008-08,Rammstein,4
+2008-08,Ramones,5
+2008-08,Red Hot Chili Peppers,7
+2008-08,Staffan Hellstrand,3
+2008-08,Sten & Stalin,3
+2008-08,Thåström,11
+2008-08,The Beatles,3
+2008-08,The Cardigans,5
+2008-08,Van Morrison,6
+2008-08,Yellowcard,5
+2008-09,Ben Folds,5
+2008-09,Charta 77,14
+2008-09,Death Cab For Cutie,4
+2008-09,Dia Psalma,7
+2008-09,Ebba Grön,12
+2008-09,Flogging Molly,15
+2008-09,Hovet,7
+2008-09,Imperiet,16
+2008-09,Lars Winnerbäck,16
+2008-09,Lok,2
+2008-09,Rammstein,16
+2008-09,Ramones,13
+2008-09,Red Hot Chili Peppers,9
+2008-09,Staffan Hellstrand,7
+2008-09,Sten & Stalin,8
+2008-09,Thåström,37
+2008-09,The Beatles,6
+2008-09,The Cardigans,23
+2008-09,Van Morrison,23
+2008-09,Yellowcard,30
+2008-10,Ben Folds,8
+2008-10,Charta 77,7
+2008-10,Death Cab For Cutie,2
+2008-10,Dia Psalma,6
+2008-10,Ebba Grön,6
+2008-10,Flogging Molly,15
+2008-10,Hovet,2
+2008-10,Imperiet,4
+2008-10,Lars Winnerbäck,5
+2008-10,Lok,3
+2008-10,Rammstein,6
+2008-10,Ramones,9
+2008-10,Red Hot Chili Peppers,6
+2008-10,Staffan Hellstrand,9
+2008-10,Sten & Stalin,6
+2008-10,Thåström,29
+2008-10,The Beatles,3
+2008-10,The Cardigans,1
+2008-10,Van Morrison,23
+2008-10,Yellowcard,19
+2008-11,Ben Folds,19
+2008-11,Charta 77,8
+2008-11,Death Cab For Cutie,11
+2008-11,Dia Psalma,8
+2008-11,Ebba Grön,19
+2008-11,Flogging Molly,34
+2008-11,Hovet,3
+2008-11,Imperiet,14
+2008-11,Lars Winnerbäck,20
+2008-11,Lok,3
+2008-11,Rammstein,15
+2008-11,Ramones,4
+2008-11,Red Hot Chili Peppers,19
+2008-11,Staffan Hellstrand,56
+2008-11,Sten & Stalin,2
+2008-11,Thåström,15
+2008-11,The Beatles,15
+2008-11,The Cardigans,4
+2008-11,Van Morrison,37
+2008-11,Yellowcard,29
+2008-12,Ben Folds,6
+2008-12,Charta 77,2
+2008-12,Death Cab For Cutie,0
+2008-12,Dia Psalma,17
+2008-12,Ebba Grön,5
+2008-12,Flogging Molly,8
+2008-12,Hovet,1
+2008-12,Imperiet,2
+2008-12,Lars Winnerbäck,6
+2008-12,Lok,3
+2008-12,Rammstein,17
+2008-12,Ramones,3
+2008-12,Red Hot Chili Peppers,2
+2008-12,Staffan Hellstrand,17
+2008-12,Sten & Stalin,3
+2008-12,Thåström,14
+2008-12,The Beatles,8
+2008-12,The Cardigans,1
+2008-12,Van Morrison,25
+2008-12,Yellowcard,7
+2009-01,Ben Folds,1
+2009-01,Charta 77,0
+2009-01,Death Cab For Cutie,15
+2009-01,Dia Psalma,0
+2009-01,Ebba Grön,3
+2009-01,Flogging Molly,46
+2009-01,Hovet,0
+2009-01,Imperiet,7
+2009-01,Lars Winnerbäck,8
+2009-01,Lok,46
+2009-01,Rammstein,53
+2009-01,Ramones,1
+2009-01,Red Hot Chili Peppers,0
+2009-01,Staffan Hellstrand,1
+2009-01,Sten & Stalin,0
+2009-01,Thåström,113
+2009-01,The Beatles,0
+2009-01,The Cardigans,1
+2009-01,Van Morrison,1
+2009-01,Yellowcard,0
+2009-02,Ben Folds,74
+2009-02,Charta 77,2
+2009-02,Death Cab For Cutie,19
+2009-02,Dia Psalma,0
+2009-02,Ebba Grön,68
+2009-02,Flogging Molly,5
+2009-02,Hovet,0
+2009-02,Imperiet,30
+2009-02,Lars Winnerbäck,5
+2009-02,Lok,6
+2009-02,Rammstein,14
+2009-02,Ramones,10
+2009-02,Red Hot Chili Peppers,0
+2009-02,Staffan Hellstrand,54
+2009-02,Sten & Stalin,0
+2009-02,Thåström,56
+2009-02,The Beatles,0
+2009-02,The Cardigans,43
+2009-02,Van Morrison,5
+2009-02,Yellowcard,35
+2009-03,Ben Folds,124
+2009-03,Charta 77,7
+2009-03,Death Cab For Cutie,20
+2009-03,Dia Psalma,0
+2009-03,Ebba Grön,1
+2009-03,Flogging Molly,25
+2009-03,Hovet,0
+2009-03,Imperiet,1
+2009-03,Lars Winnerbäck,0
+2009-03,Lok,0
+2009-03,Rammstein,0
+2009-03,Ramones,2
+2009-03,Red Hot Chili Peppers,0
+2009-03,Staffan Hellstrand,2
+2009-03,Sten & Stalin,0
+2009-03,Thåström,385
+2009-03,The Beatles,0
+2009-03,The Cardigans,0
+2009-03,Van Morrison,0
+2009-03,Yellowcard,0
+2009-04,Ben Folds,5
+2009-04,Charta 77,1
+2009-04,Death Cab For Cutie,3
+2009-04,Dia Psalma,13
+2009-04,Ebba Grön,9
+2009-04,Flogging Molly,2
+2009-04,Hovet,0
+2009-04,Imperiet,2
+2009-04,Lars Winnerbäck,5
+2009-04,Lok,0
+2009-04,Rammstein,3
+2009-04,Ramones,3
+2009-04,Red Hot Chili Peppers,0
+2009-04,Staffan Hellstrand,6
+2009-04,Sten & Stalin,0
+2009-04,Thåström,3
+2009-04,The Beatles,0
+2009-04,The Cardigans,3
+2009-04,Van Morrison,0
+2009-04,Yellowcard,1

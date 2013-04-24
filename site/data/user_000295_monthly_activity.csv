@@ -1,0 +1,321 @@
+month,artist,plays
+2008-01,Ben Harper,0
+2008-01,Bob Dylan,1
+2008-01,Bob Marley & The Wailers,0
+2008-01,Boy Division,1
+2008-01,Cccp,4
+2008-01,David Bowie,7
+2008-01,Franz Ferdinand,0
+2008-01,Fugees,3
+2008-01,Gogol Bordello,9
+2008-01,Joe Strummer & The Mescaleros,21
+2008-01,Joy Division,5
+2008-01,Led Zeppelin,1
+2008-01,Manu Chao,0
+2008-01,Muse,2
+2008-01,Pj Harvey,0
+2008-01,Queens Of The Stone Age,3
+2008-01,Radiohead,8
+2008-01,Sublime,1
+2008-01,The Clash,14
+2008-01,Toots & The Maytals,0
+2008-02,Ben Harper,3
+2008-02,Bob Dylan,17
+2008-02,Bob Marley & The Wailers,30
+2008-02,Boy Division,5
+2008-02,Cccp,4
+2008-02,David Bowie,12
+2008-02,Franz Ferdinand,5
+2008-02,Fugees,9
+2008-02,Gogol Bordello,20
+2008-02,Joe Strummer & The Mescaleros,4
+2008-02,Joy Division,24
+2008-02,Led Zeppelin,1
+2008-02,Manu Chao,1
+2008-02,Muse,2
+2008-02,Pj Harvey,21
+2008-02,Queens Of The Stone Age,30
+2008-02,Radiohead,31
+2008-02,Sublime,28
+2008-02,The Clash,8
+2008-02,Toots & The Maytals,0
+2008-03,Ben Harper,33
+2008-03,Bob Dylan,48
+2008-03,Bob Marley & The Wailers,46
+2008-03,Boy Division,4
+2008-03,Cccp,0
+2008-03,David Bowie,3
+2008-03,Franz Ferdinand,1
+2008-03,Fugees,1
+2008-03,Gogol Bordello,39
+2008-03,Joe Strummer & The Mescaleros,36
+2008-03,Joy Division,32
+2008-03,Led Zeppelin,4
+2008-03,Manu Chao,28
+2008-03,Muse,60
+2008-03,Pj Harvey,13
+2008-03,Queens Of The Stone Age,0
+2008-03,Radiohead,30
+2008-03,Sublime,0
+2008-03,The Clash,13
+2008-03,Toots & The Maytals,0
+2008-04,Ben Harper,9
+2008-04,Bob Dylan,8
+2008-04,Bob Marley & The Wailers,14
+2008-04,Boy Division,0
+2008-04,Cccp,0
+2008-04,David Bowie,1
+2008-04,Franz Ferdinand,0
+2008-04,Fugees,0
+2008-04,Gogol Bordello,42
+2008-04,Joe Strummer & The Mescaleros,0
+2008-04,Joy Division,1
+2008-04,Led Zeppelin,0
+2008-04,Manu Chao,0
+2008-04,Muse,17
+2008-04,Pj Harvey,3
+2008-04,Queens Of The Stone Age,0
+2008-04,Radiohead,0
+2008-04,Sublime,6
+2008-04,The Clash,1
+2008-04,Toots & The Maytals,86
+2008-05,Ben Harper,1
+2008-05,Bob Dylan,4
+2008-05,Bob Marley & The Wailers,8
+2008-05,Boy Division,2
+2008-05,Cccp,0
+2008-05,David Bowie,2
+2008-05,Franz Ferdinand,0
+2008-05,Fugees,0
+2008-05,Gogol Bordello,0
+2008-05,Joe Strummer & The Mescaleros,3
+2008-05,Joy Division,11
+2008-05,Led Zeppelin,1
+2008-05,Manu Chao,3
+2008-05,Muse,6
+2008-05,Pj Harvey,1
+2008-05,Queens Of The Stone Age,25
+2008-05,Radiohead,33
+2008-05,Sublime,53
+2008-05,The Clash,1
+2008-05,Toots & The Maytals,32
+2008-06,Ben Harper,17
+2008-06,Bob Dylan,5
+2008-06,Bob Marley & The Wailers,1
+2008-06,Boy Division,0
+2008-06,Cccp,3
+2008-06,David Bowie,0
+2008-06,Franz Ferdinand,1
+2008-06,Fugees,0
+2008-06,Gogol Bordello,0
+2008-06,Joe Strummer & The Mescaleros,0
+2008-06,Joy Division,1
+2008-06,Led Zeppelin,0
+2008-06,Manu Chao,31
+2008-06,Muse,14
+2008-06,Pj Harvey,2
+2008-06,Queens Of The Stone Age,18
+2008-06,Radiohead,39
+2008-06,Sublime,36
+2008-06,The Clash,5
+2008-06,Toots & The Maytals,17
+2008-07,Ben Harper,25
+2008-07,Bob Dylan,0
+2008-07,Bob Marley & The Wailers,0
+2008-07,Boy Division,0
+2008-07,Cccp,9
+2008-07,David Bowie,0
+2008-07,Franz Ferdinand,0
+2008-07,Fugees,0
+2008-07,Gogol Bordello,10
+2008-07,Joe Strummer & The Mescaleros,0
+2008-07,Joy Division,0
+2008-07,Led Zeppelin,0
+2008-07,Manu Chao,38
+2008-07,Muse,0
+2008-07,Pj Harvey,0
+2008-07,Queens Of The Stone Age,1
+2008-07,Radiohead,12
+2008-07,Sublime,5
+2008-07,The Clash,10
+2008-07,Toots & The Maytals,9
+2008-08,Ben Harper,0
+2008-08,Bob Dylan,0
+2008-08,Bob Marley & The Wailers,0
+2008-08,Boy Division,0
+2008-08,Cccp,0
+2008-08,David Bowie,0
+2008-08,Franz Ferdinand,0
+2008-08,Fugees,0
+2008-08,Gogol Bordello,0
+2008-08,Joe Strummer & The Mescaleros,0
+2008-08,Joy Division,0
+2008-08,Led Zeppelin,0
+2008-08,Manu Chao,0
+2008-08,Muse,0
+2008-08,Pj Harvey,0
+2008-08,Queens Of The Stone Age,0
+2008-08,Radiohead,0
+2008-08,Sublime,0
+2008-08,The Clash,0
+2008-08,Toots & The Maytals,0
+2008-09,Ben Harper,14
+2008-09,Bob Dylan,2
+2008-09,Bob Marley & The Wailers,12
+2008-09,Boy Division,2
+2008-09,Cccp,2
+2008-09,David Bowie,0
+2008-09,Franz Ferdinand,2
+2008-09,Fugees,6
+2008-09,Gogol Bordello,31
+2008-09,Joe Strummer & The Mescaleros,22
+2008-09,Joy Division,16
+2008-09,Led Zeppelin,12
+2008-09,Manu Chao,1
+2008-09,Muse,6
+2008-09,Pj Harvey,1
+2008-09,Queens Of The Stone Age,4
+2008-09,Radiohead,0
+2008-09,Sublime,17
+2008-09,The Clash,2
+2008-09,Toots & The Maytals,23
+2008-10,Ben Harper,0
+2008-10,Bob Dylan,0
+2008-10,Bob Marley & The Wailers,13
+2008-10,Boy Division,1
+2008-10,Cccp,1
+2008-10,David Bowie,3
+2008-10,Franz Ferdinand,1
+2008-10,Fugees,1
+2008-10,Gogol Bordello,3
+2008-10,Joe Strummer & The Mescaleros,3
+2008-10,Joy Division,1
+2008-10,Led Zeppelin,0
+2008-10,Manu Chao,6
+2008-10,Muse,0
+2008-10,Pj Harvey,0
+2008-10,Queens Of The Stone Age,1
+2008-10,Radiohead,7
+2008-10,Sublime,0
+2008-10,The Clash,1
+2008-10,Toots & The Maytals,2
+2008-11,Ben Harper,1
+2008-11,Bob Dylan,2
+2008-11,Bob Marley & The Wailers,3
+2008-11,Boy Division,0
+2008-11,Cccp,3
+2008-11,David Bowie,2
+2008-11,Franz Ferdinand,2
+2008-11,Fugees,0
+2008-11,Gogol Bordello,1
+2008-11,Joe Strummer & The Mescaleros,22
+2008-11,Joy Division,1
+2008-11,Led Zeppelin,0
+2008-11,Manu Chao,4
+2008-11,Muse,1
+2008-11,Pj Harvey,1
+2008-11,Queens Of The Stone Age,1
+2008-11,Radiohead,2
+2008-11,Sublime,2
+2008-11,The Clash,2
+2008-11,Toots & The Maytals,20
+2008-12,Ben Harper,25
+2008-12,Bob Dylan,3
+2008-12,Bob Marley & The Wailers,4
+2008-12,Boy Division,0
+2008-12,Cccp,3
+2008-12,David Bowie,1
+2008-12,Franz Ferdinand,2
+2008-12,Fugees,0
+2008-12,Gogol Bordello,49
+2008-12,Joe Strummer & The Mescaleros,4
+2008-12,Joy Division,0
+2008-12,Led Zeppelin,0
+2008-12,Manu Chao,0
+2008-12,Muse,0
+2008-12,Pj Harvey,6
+2008-12,Queens Of The Stone Age,0
+2008-12,Radiohead,12
+2008-12,Sublime,0
+2008-12,The Clash,4
+2008-12,Toots & The Maytals,0
+2009-01,Ben Harper,1
+2009-01,Bob Dylan,0
+2009-01,Bob Marley & The Wailers,3
+2009-01,Boy Division,4
+2009-01,Cccp,1
+2009-01,David Bowie,6
+2009-01,Franz Ferdinand,1
+2009-01,Fugees,4
+2009-01,Gogol Bordello,0
+2009-01,Joe Strummer & The Mescaleros,16
+2009-01,Joy Division,16
+2009-01,Led Zeppelin,1
+2009-01,Manu Chao,17
+2009-01,Muse,1
+2009-01,Pj Harvey,2
+2009-01,Queens Of The Stone Age,5
+2009-01,Radiohead,12
+2009-01,Sublime,2
+2009-01,The Clash,3
+2009-01,Toots & The Maytals,1
+2009-02,Ben Harper,4
+2009-02,Bob Dylan,5
+2009-02,Bob Marley & The Wailers,6
+2009-02,Boy Division,5
+2009-02,Cccp,0
+2009-02,David Bowie,3
+2009-02,Franz Ferdinand,2
+2009-02,Fugees,3
+2009-02,Gogol Bordello,8
+2009-02,Joe Strummer & The Mescaleros,17
+2009-02,Joy Division,4
+2009-02,Led Zeppelin,1
+2009-02,Manu Chao,5
+2009-02,Muse,1
+2009-02,Pj Harvey,3
+2009-02,Queens Of The Stone Age,4
+2009-02,Radiohead,4
+2009-02,Sublime,5
+2009-02,The Clash,8
+2009-02,Toots & The Maytals,23
+2009-03,Ben Harper,0
+2009-03,Bob Dylan,0
+2009-03,Bob Marley & The Wailers,0
+2009-03,Boy Division,0
+2009-03,Cccp,0
+2009-03,David Bowie,0
+2009-03,Franz Ferdinand,0
+2009-03,Fugees,4
+2009-03,Gogol Bordello,0
+2009-03,Joe Strummer & The Mescaleros,8
+2009-03,Joy Division,0
+2009-03,Led Zeppelin,3
+2009-03,Manu Chao,0
+2009-03,Muse,0
+2009-03,Pj Harvey,0
+2009-03,Queens Of The Stone Age,1
+2009-03,Radiohead,0
+2009-03,Sublime,0
+2009-03,The Clash,0
+2009-03,Toots & The Maytals,38
+2009-04,Ben Harper,0
+2009-04,Bob Dylan,23
+2009-04,Bob Marley & The Wailers,0
+2009-04,Boy Division,4
+2009-04,Cccp,0
+2009-04,David Bowie,0
+2009-04,Franz Ferdinand,0
+2009-04,Fugees,4
+2009-04,Gogol Bordello,0
+2009-04,Joe Strummer & The Mescaleros,15
+2009-04,Joy Division,25
+2009-04,Led Zeppelin,5
+2009-04,Manu Chao,0
+2009-04,Muse,0
+2009-04,Pj Harvey,0
+2009-04,Queens Of The Stone Age,11
+2009-04,Radiohead,0
+2009-04,Sublime,0
+2009-04,The Clash,0
+2009-04,Toots & The Maytals,5

@@ -1,0 +1,981 @@
+month,artist,plays
+2005-04,3 Colours Red,0
+2005-04,Alanis Morissette,0
+2005-04,Aretha Franklin,0
+2005-04,Backyard Babies,0
+2005-04,Bob Dylan,0
+2005-04,Chuck Berry,0
+2005-04,Diamond Dogs,0
+2005-04,Eric Clapton,0
+2005-04,Georg Friedrich Händel,0
+2005-04,Ginger,0
+2005-04,Hanoi Rocks,0
+2005-04,The Black Crowes,0
+2005-04,The Dogs D'Amour,0
+2005-04,The Hellacopters,0
+2005-04,The Quireboys,0
+2005-04,The Rolling Stones,0
+2005-04,The Wildhearts,2
+2005-04,Tyla,0
+2005-04,U2,0
+2005-04,Weezer,0
+2005-05,3 Colours Red,0
+2005-05,Alanis Morissette,0
+2005-05,Aretha Franklin,0
+2005-05,Backyard Babies,0
+2005-05,Bob Dylan,0
+2005-05,Chuck Berry,1
+2005-05,Diamond Dogs,0
+2005-05,Eric Clapton,0
+2005-05,Georg Friedrich Händel,0
+2005-05,Ginger,0
+2005-05,Hanoi Rocks,0
+2005-05,The Black Crowes,0
+2005-05,The Dogs D'Amour,0
+2005-05,The Hellacopters,0
+2005-05,The Quireboys,0
+2005-05,The Rolling Stones,0
+2005-05,The Wildhearts,0
+2005-05,Tyla,0
+2005-05,U2,0
+2005-05,Weezer,0
+2005-06,3 Colours Red,0
+2005-06,Alanis Morissette,3
+2005-06,Aretha Franklin,0
+2005-06,Backyard Babies,0
+2005-06,Bob Dylan,0
+2005-06,Chuck Berry,3
+2005-06,Diamond Dogs,0
+2005-06,Eric Clapton,0
+2005-06,Georg Friedrich Händel,0
+2005-06,Ginger,0
+2005-06,Hanoi Rocks,0
+2005-06,The Black Crowes,0
+2005-06,The Dogs D'Amour,0
+2005-06,The Hellacopters,0
+2005-06,The Quireboys,0
+2005-06,The Rolling Stones,1
+2005-06,The Wildhearts,0
+2005-06,Tyla,0
+2005-06,U2,11
+2005-06,Weezer,0
+2005-07,3 Colours Red,0
+2005-07,Alanis Morissette,1
+2005-07,Aretha Franklin,1
+2005-07,Backyard Babies,0
+2005-07,Bob Dylan,1
+2005-07,Chuck Berry,1
+2005-07,Diamond Dogs,0
+2005-07,Eric Clapton,1
+2005-07,Georg Friedrich Händel,0
+2005-07,Ginger,0
+2005-07,Hanoi Rocks,0
+2005-07,The Black Crowes,1
+2005-07,The Dogs D'Amour,10
+2005-07,The Hellacopters,0
+2005-07,The Quireboys,0
+2005-07,The Rolling Stones,1
+2005-07,The Wildhearts,0
+2005-07,Tyla,0
+2005-07,U2,39
+2005-07,Weezer,1
+2005-08,3 Colours Red,2
+2005-08,Alanis Morissette,0
+2005-08,Aretha Franklin,0
+2005-08,Backyard Babies,0
+2005-08,Bob Dylan,0
+2005-08,Chuck Berry,0
+2005-08,Diamond Dogs,0
+2005-08,Eric Clapton,0
+2005-08,Georg Friedrich Händel,0
+2005-08,Ginger,0
+2005-08,Hanoi Rocks,1
+2005-08,The Black Crowes,0
+2005-08,The Dogs D'Amour,23
+2005-08,The Hellacopters,0
+2005-08,The Quireboys,1
+2005-08,The Rolling Stones,0
+2005-08,The Wildhearts,2
+2005-08,Tyla,0
+2005-08,U2,11
+2005-08,Weezer,0
+2005-09,3 Colours Red,0
+2005-09,Alanis Morissette,0
+2005-09,Aretha Franklin,0
+2005-09,Backyard Babies,0
+2005-09,Bob Dylan,0
+2005-09,Chuck Berry,0
+2005-09,Diamond Dogs,0
+2005-09,Eric Clapton,1
+2005-09,Georg Friedrich Händel,0
+2005-09,Ginger,0
+2005-09,Hanoi Rocks,0
+2005-09,The Black Crowes,0
+2005-09,The Dogs D'Amour,17
+2005-09,The Hellacopters,0
+2005-09,The Quireboys,0
+2005-09,The Rolling Stones,0
+2005-09,The Wildhearts,0
+2005-09,Tyla,0
+2005-09,U2,0
+2005-09,Weezer,0
+2005-10,3 Colours Red,0
+2005-10,Alanis Morissette,0
+2005-10,Aretha Franklin,0
+2005-10,Backyard Babies,0
+2005-10,Bob Dylan,0
+2005-10,Chuck Berry,0
+2005-10,Diamond Dogs,0
+2005-10,Eric Clapton,0
+2005-10,Georg Friedrich Händel,0
+2005-10,Ginger,0
+2005-10,Hanoi Rocks,0
+2005-10,The Black Crowes,0
+2005-10,The Dogs D'Amour,0
+2005-10,The Hellacopters,0
+2005-10,The Quireboys,0
+2005-10,The Rolling Stones,0
+2005-10,The Wildhearts,0
+2005-10,Tyla,0
+2005-10,U2,0
+2005-10,Weezer,0
+2005-11,3 Colours Red,0
+2005-11,Alanis Morissette,0
+2005-11,Aretha Franklin,0
+2005-11,Backyard Babies,0
+2005-11,Bob Dylan,0
+2005-11,Chuck Berry,0
+2005-11,Diamond Dogs,0
+2005-11,Eric Clapton,0
+2005-11,Georg Friedrich Händel,0
+2005-11,Ginger,0
+2005-11,Hanoi Rocks,0
+2005-11,The Black Crowes,0
+2005-11,The Dogs D'Amour,0
+2005-11,The Hellacopters,0
+2005-11,The Quireboys,0
+2005-11,The Rolling Stones,2
+2005-11,The Wildhearts,0
+2005-11,Tyla,0
+2005-11,U2,0
+2005-11,Weezer,0
+2005-12,3 Colours Red,0
+2005-12,Alanis Morissette,0
+2005-12,Aretha Franklin,0
+2005-12,Backyard Babies,0
+2005-12,Bob Dylan,0
+2005-12,Chuck Berry,0
+2005-12,Diamond Dogs,0
+2005-12,Eric Clapton,0
+2005-12,Georg Friedrich Händel,0
+2005-12,Ginger,0
+2005-12,Hanoi Rocks,0
+2005-12,The Black Crowes,0
+2005-12,The Dogs D'Amour,0
+2005-12,The Hellacopters,0
+2005-12,The Quireboys,0
+2005-12,The Rolling Stones,0
+2005-12,The Wildhearts,0
+2005-12,Tyla,0
+2005-12,U2,0
+2005-12,Weezer,0
+2006-01,3 Colours Red,0
+2006-01,Alanis Morissette,0
+2006-01,Aretha Franklin,0
+2006-01,Backyard Babies,0
+2006-01,Bob Dylan,0
+2006-01,Chuck Berry,0
+2006-01,Diamond Dogs,0
+2006-01,Eric Clapton,0
+2006-01,Georg Friedrich Händel,0
+2006-01,Ginger,0
+2006-01,Hanoi Rocks,0
+2006-01,The Black Crowes,0
+2006-01,The Dogs D'Amour,0
+2006-01,The Hellacopters,0
+2006-01,The Quireboys,0
+2006-01,The Rolling Stones,0
+2006-01,The Wildhearts,0
+2006-01,Tyla,0
+2006-01,U2,1
+2006-01,Weezer,0
+2006-02,3 Colours Red,0
+2006-02,Alanis Morissette,0
+2006-02,Aretha Franklin,0
+2006-02,Backyard Babies,0
+2006-02,Bob Dylan,0
+2006-02,Chuck Berry,0
+2006-02,Diamond Dogs,0
+2006-02,Eric Clapton,0
+2006-02,Georg Friedrich Händel,0
+2006-02,Ginger,0
+2006-02,Hanoi Rocks,0
+2006-02,The Black Crowes,0
+2006-02,The Dogs D'Amour,0
+2006-02,The Hellacopters,0
+2006-02,The Quireboys,0
+2006-02,The Rolling Stones,0
+2006-02,The Wildhearts,0
+2006-02,Tyla,0
+2006-02,U2,0
+2006-02,Weezer,0
+2006-03,3 Colours Red,0
+2006-03,Alanis Morissette,0
+2006-03,Aretha Franklin,0
+2006-03,Backyard Babies,0
+2006-03,Bob Dylan,0
+2006-03,Chuck Berry,0
+2006-03,Diamond Dogs,0
+2006-03,Eric Clapton,0
+2006-03,Georg Friedrich Händel,0
+2006-03,Ginger,0
+2006-03,Hanoi Rocks,0
+2006-03,The Black Crowes,0
+2006-03,The Dogs D'Amour,4
+2006-03,The Hellacopters,0
+2006-03,The Quireboys,0
+2006-03,The Rolling Stones,0
+2006-03,The Wildhearts,0
+2006-03,Tyla,0
+2006-03,U2,0
+2006-03,Weezer,0
+2006-04,3 Colours Red,0
+2006-04,Alanis Morissette,0
+2006-04,Aretha Franklin,0
+2006-04,Backyard Babies,0
+2006-04,Bob Dylan,0
+2006-04,Chuck Berry,0
+2006-04,Diamond Dogs,0
+2006-04,Eric Clapton,0
+2006-04,Georg Friedrich Händel,0
+2006-04,Ginger,0
+2006-04,Hanoi Rocks,0
+2006-04,The Black Crowes,0
+2006-04,The Dogs D'Amour,1
+2006-04,The Hellacopters,0
+2006-04,The Quireboys,0
+2006-04,The Rolling Stones,1
+2006-04,The Wildhearts,0
+2006-04,Tyla,0
+2006-04,U2,0
+2006-04,Weezer,2
+2006-05,3 Colours Red,0
+2006-05,Alanis Morissette,0
+2006-05,Aretha Franklin,0
+2006-05,Backyard Babies,0
+2006-05,Bob Dylan,0
+2006-05,Chuck Berry,0
+2006-05,Diamond Dogs,0
+2006-05,Eric Clapton,1
+2006-05,Georg Friedrich Händel,0
+2006-05,Ginger,0
+2006-05,Hanoi Rocks,0
+2006-05,The Black Crowes,0
+2006-05,The Dogs D'Amour,4
+2006-05,The Hellacopters,0
+2006-05,The Quireboys,0
+2006-05,The Rolling Stones,2
+2006-05,The Wildhearts,0
+2006-05,Tyla,0
+2006-05,U2,0
+2006-05,Weezer,0
+2006-06,3 Colours Red,0
+2006-06,Alanis Morissette,0
+2006-06,Aretha Franklin,0
+2006-06,Backyard Babies,0
+2006-06,Bob Dylan,0
+2006-06,Chuck Berry,0
+2006-06,Diamond Dogs,0
+2006-06,Eric Clapton,0
+2006-06,Georg Friedrich Händel,0
+2006-06,Ginger,0
+2006-06,Hanoi Rocks,0
+2006-06,The Black Crowes,0
+2006-06,The Dogs D'Amour,0
+2006-06,The Hellacopters,0
+2006-06,The Quireboys,0
+2006-06,The Rolling Stones,0
+2006-06,The Wildhearts,0
+2006-06,Tyla,0
+2006-06,U2,0
+2006-06,Weezer,0
+2006-07,3 Colours Red,0
+2006-07,Alanis Morissette,0
+2006-07,Aretha Franklin,0
+2006-07,Backyard Babies,1
+2006-07,Bob Dylan,0
+2006-07,Chuck Berry,0
+2006-07,Diamond Dogs,0
+2006-07,Eric Clapton,0
+2006-07,Georg Friedrich Händel,0
+2006-07,Ginger,0
+2006-07,Hanoi Rocks,1
+2006-07,The Black Crowes,0
+2006-07,The Dogs D'Amour,4
+2006-07,The Hellacopters,0
+2006-07,The Quireboys,1
+2006-07,The Rolling Stones,0
+2006-07,The Wildhearts,1
+2006-07,Tyla,0
+2006-07,U2,0
+2006-07,Weezer,0
+2006-08,3 Colours Red,1
+2006-08,Alanis Morissette,1
+2006-08,Aretha Franklin,0
+2006-08,Backyard Babies,1
+2006-08,Bob Dylan,1
+2006-08,Chuck Berry,0
+2006-08,Diamond Dogs,0
+2006-08,Eric Clapton,1
+2006-08,Georg Friedrich Händel,1
+2006-08,Ginger,0
+2006-08,Hanoi Rocks,1
+2006-08,The Black Crowes,1
+2006-08,The Dogs D'Amour,2
+2006-08,The Hellacopters,0
+2006-08,The Quireboys,0
+2006-08,The Rolling Stones,1
+2006-08,The Wildhearts,1
+2006-08,Tyla,0
+2006-08,U2,13
+2006-08,Weezer,1
+2006-09,3 Colours Red,0
+2006-09,Alanis Morissette,0
+2006-09,Aretha Franklin,0
+2006-09,Backyard Babies,0
+2006-09,Bob Dylan,5
+2006-09,Chuck Berry,0
+2006-09,Diamond Dogs,0
+2006-09,Eric Clapton,0
+2006-09,Georg Friedrich Händel,0
+2006-09,Ginger,0
+2006-09,Hanoi Rocks,0
+2006-09,The Black Crowes,14
+2006-09,The Dogs D'Amour,36
+2006-09,The Hellacopters,0
+2006-09,The Quireboys,0
+2006-09,The Rolling Stones,0
+2006-09,The Wildhearts,0
+2006-09,Tyla,0
+2006-09,U2,0
+2006-09,Weezer,0
+2006-10,3 Colours Red,0
+2006-10,Alanis Morissette,0
+2006-10,Aretha Franklin,0
+2006-10,Backyard Babies,0
+2006-10,Bob Dylan,1
+2006-10,Chuck Berry,0
+2006-10,Diamond Dogs,0
+2006-10,Eric Clapton,0
+2006-10,Georg Friedrich Händel,0
+2006-10,Ginger,0
+2006-10,Hanoi Rocks,0
+2006-10,The Black Crowes,0
+2006-10,The Dogs D'Amour,0
+2006-10,The Hellacopters,0
+2006-10,The Quireboys,0
+2006-10,The Rolling Stones,0
+2006-10,The Wildhearts,0
+2006-10,Tyla,0
+2006-10,U2,0
+2006-10,Weezer,0
+2006-11,3 Colours Red,0
+2006-11,Alanis Morissette,1
+2006-11,Aretha Franklin,0
+2006-11,Backyard Babies,0
+2006-11,Bob Dylan,1
+2006-11,Chuck Berry,0
+2006-11,Diamond Dogs,0
+2006-11,Eric Clapton,0
+2006-11,Georg Friedrich Händel,1
+2006-11,Ginger,0
+2006-11,Hanoi Rocks,0
+2006-11,The Black Crowes,6
+2006-11,The Dogs D'Amour,36
+2006-11,The Hellacopters,0
+2006-11,The Quireboys,0
+2006-11,The Rolling Stones,0
+2006-11,The Wildhearts,0
+2006-11,Tyla,0
+2006-11,U2,0
+2006-11,Weezer,0
+2006-12,3 Colours Red,0
+2006-12,Alanis Morissette,0
+2006-12,Aretha Franklin,0
+2006-12,Backyard Babies,0
+2006-12,Bob Dylan,0
+2006-12,Chuck Berry,0
+2006-12,Diamond Dogs,0
+2006-12,Eric Clapton,0
+2006-12,Georg Friedrich Händel,0
+2006-12,Ginger,0
+2006-12,Hanoi Rocks,0
+2006-12,The Black Crowes,0
+2006-12,The Dogs D'Amour,0
+2006-12,The Hellacopters,0
+2006-12,The Quireboys,0
+2006-12,The Rolling Stones,0
+2006-12,The Wildhearts,0
+2006-12,Tyla,0
+2006-12,U2,0
+2006-12,Weezer,0
+2007-01,3 Colours Red,0
+2007-01,Alanis Morissette,0
+2007-01,Aretha Franklin,0
+2007-01,Backyard Babies,0
+2007-01,Bob Dylan,0
+2007-01,Chuck Berry,0
+2007-01,Diamond Dogs,0
+2007-01,Eric Clapton,0
+2007-01,Georg Friedrich Händel,0
+2007-01,Ginger,0
+2007-01,Hanoi Rocks,0
+2007-01,The Black Crowes,0
+2007-01,The Dogs D'Amour,0
+2007-01,The Hellacopters,0
+2007-01,The Quireboys,0
+2007-01,The Rolling Stones,0
+2007-01,The Wildhearts,0
+2007-01,Tyla,0
+2007-01,U2,0
+2007-01,Weezer,0
+2007-02,3 Colours Red,0
+2007-02,Alanis Morissette,0
+2007-02,Aretha Franklin,0
+2007-02,Backyard Babies,0
+2007-02,Bob Dylan,0
+2007-02,Chuck Berry,0
+2007-02,Diamond Dogs,0
+2007-02,Eric Clapton,0
+2007-02,Georg Friedrich Händel,0
+2007-02,Ginger,0
+2007-02,Hanoi Rocks,0
+2007-02,The Black Crowes,0
+2007-02,The Dogs D'Amour,0
+2007-02,The Hellacopters,0
+2007-02,The Quireboys,0
+2007-02,The Rolling Stones,2
+2007-02,The Wildhearts,0
+2007-02,Tyla,0
+2007-02,U2,1
+2007-02,Weezer,0
+2007-03,3 Colours Red,0
+2007-03,Alanis Morissette,0
+2007-03,Aretha Franklin,0
+2007-03,Backyard Babies,0
+2007-03,Bob Dylan,0
+2007-03,Chuck Berry,0
+2007-03,Diamond Dogs,0
+2007-03,Eric Clapton,0
+2007-03,Georg Friedrich Händel,0
+2007-03,Ginger,0
+2007-03,Hanoi Rocks,0
+2007-03,The Black Crowes,0
+2007-03,The Dogs D'Amour,0
+2007-03,The Hellacopters,0
+2007-03,The Quireboys,0
+2007-03,The Rolling Stones,0
+2007-03,The Wildhearts,0
+2007-03,Tyla,0
+2007-03,U2,0
+2007-03,Weezer,0
+2007-04,3 Colours Red,0
+2007-04,Alanis Morissette,0
+2007-04,Aretha Franklin,0
+2007-04,Backyard Babies,0
+2007-04,Bob Dylan,0
+2007-04,Chuck Berry,0
+2007-04,Diamond Dogs,0
+2007-04,Eric Clapton,0
+2007-04,Georg Friedrich Händel,0
+2007-04,Ginger,0
+2007-04,Hanoi Rocks,0
+2007-04,The Black Crowes,0
+2007-04,The Dogs D'Amour,0
+2007-04,The Hellacopters,0
+2007-04,The Quireboys,0
+2007-04,The Rolling Stones,0
+2007-04,The Wildhearts,0
+2007-04,Tyla,0
+2007-04,U2,0
+2007-04,Weezer,0
+2007-05,3 Colours Red,0
+2007-05,Alanis Morissette,0
+2007-05,Aretha Franklin,0
+2007-05,Backyard Babies,0
+2007-05,Bob Dylan,0
+2007-05,Chuck Berry,0
+2007-05,Diamond Dogs,0
+2007-05,Eric Clapton,0
+2007-05,Georg Friedrich Händel,0
+2007-05,Ginger,0
+2007-05,Hanoi Rocks,1
+2007-05,The Black Crowes,0
+2007-05,The Dogs D'Amour,4
+2007-05,The Hellacopters,0
+2007-05,The Quireboys,2
+2007-05,The Rolling Stones,0
+2007-05,The Wildhearts,0
+2007-05,Tyla,0
+2007-05,U2,0
+2007-05,Weezer,0
+2007-06,3 Colours Red,0
+2007-06,Alanis Morissette,0
+2007-06,Aretha Franklin,0
+2007-06,Backyard Babies,0
+2007-06,Bob Dylan,0
+2007-06,Chuck Berry,0
+2007-06,Diamond Dogs,0
+2007-06,Eric Clapton,0
+2007-06,Georg Friedrich Händel,0
+2007-06,Ginger,0
+2007-06,Hanoi Rocks,0
+2007-06,The Black Crowes,0
+2007-06,The Dogs D'Amour,0
+2007-06,The Hellacopters,0
+2007-06,The Quireboys,0
+2007-06,The Rolling Stones,0
+2007-06,The Wildhearts,0
+2007-06,Tyla,0
+2007-06,U2,0
+2007-06,Weezer,0
+2007-07,3 Colours Red,0
+2007-07,Alanis Morissette,0
+2007-07,Aretha Franklin,0
+2007-07,Backyard Babies,0
+2007-07,Bob Dylan,0
+2007-07,Chuck Berry,0
+2007-07,Diamond Dogs,0
+2007-07,Eric Clapton,0
+2007-07,Georg Friedrich Händel,1
+2007-07,Ginger,0
+2007-07,Hanoi Rocks,0
+2007-07,The Black Crowes,0
+2007-07,The Dogs D'Amour,0
+2007-07,The Hellacopters,0
+2007-07,The Quireboys,0
+2007-07,The Rolling Stones,0
+2007-07,The Wildhearts,0
+2007-07,Tyla,0
+2007-07,U2,0
+2007-07,Weezer,1
+2007-08,3 Colours Red,0
+2007-08,Alanis Morissette,0
+2007-08,Aretha Franklin,0
+2007-08,Backyard Babies,0
+2007-08,Bob Dylan,0
+2007-08,Chuck Berry,0
+2007-08,Diamond Dogs,0
+2007-08,Eric Clapton,0
+2007-08,Georg Friedrich Händel,0
+2007-08,Ginger,0
+2007-08,Hanoi Rocks,0
+2007-08,The Black Crowes,0
+2007-08,The Dogs D'Amour,0
+2007-08,The Hellacopters,0
+2007-08,The Quireboys,0
+2007-08,The Rolling Stones,0
+2007-08,The Wildhearts,0
+2007-08,Tyla,0
+2007-08,U2,0
+2007-08,Weezer,0
+2007-09,3 Colours Red,1
+2007-09,Alanis Morissette,0
+2007-09,Aretha Franklin,0
+2007-09,Backyard Babies,1
+2007-09,Bob Dylan,0
+2007-09,Chuck Berry,0
+2007-09,Diamond Dogs,2
+2007-09,Eric Clapton,0
+2007-09,Georg Friedrich Händel,0
+2007-09,Ginger,1
+2007-09,Hanoi Rocks,0
+2007-09,The Black Crowes,0
+2007-09,The Dogs D'Amour,1
+2007-09,The Hellacopters,1
+2007-09,The Quireboys,1
+2007-09,The Rolling Stones,0
+2007-09,The Wildhearts,0
+2007-09,Tyla,1
+2007-09,U2,0
+2007-09,Weezer,0
+2007-10,3 Colours Red,2
+2007-10,Alanis Morissette,0
+2007-10,Aretha Franklin,0
+2007-10,Backyard Babies,0
+2007-10,Bob Dylan,0
+2007-10,Chuck Berry,0
+2007-10,Diamond Dogs,0
+2007-10,Eric Clapton,0
+2007-10,Georg Friedrich Händel,0
+2007-10,Ginger,1
+2007-10,Hanoi Rocks,0
+2007-10,The Black Crowes,2
+2007-10,The Dogs D'Amour,1
+2007-10,The Hellacopters,0
+2007-10,The Quireboys,0
+2007-10,The Rolling Stones,0
+2007-10,The Wildhearts,0
+2007-10,Tyla,0
+2007-10,U2,0
+2007-10,Weezer,0
+2007-11,3 Colours Red,0
+2007-11,Alanis Morissette,0
+2007-11,Aretha Franklin,0
+2007-11,Backyard Babies,0
+2007-11,Bob Dylan,0
+2007-11,Chuck Berry,0
+2007-11,Diamond Dogs,0
+2007-11,Eric Clapton,0
+2007-11,Georg Friedrich Händel,0
+2007-11,Ginger,0
+2007-11,Hanoi Rocks,0
+2007-11,The Black Crowes,0
+2007-11,The Dogs D'Amour,0
+2007-11,The Hellacopters,0
+2007-11,The Quireboys,0
+2007-11,The Rolling Stones,0
+2007-11,The Wildhearts,0
+2007-11,Tyla,17
+2007-11,U2,0
+2007-11,Weezer,0
+2007-12,3 Colours Red,0
+2007-12,Alanis Morissette,0
+2007-12,Aretha Franklin,0
+2007-12,Backyard Babies,0
+2007-12,Bob Dylan,0
+2007-12,Chuck Berry,0
+2007-12,Diamond Dogs,0
+2007-12,Eric Clapton,0
+2007-12,Georg Friedrich Händel,0
+2007-12,Ginger,0
+2007-12,Hanoi Rocks,0
+2007-12,The Black Crowes,0
+2007-12,The Dogs D'Amour,0
+2007-12,The Hellacopters,0
+2007-12,The Quireboys,0
+2007-12,The Rolling Stones,0
+2007-12,The Wildhearts,0
+2007-12,Tyla,0
+2007-12,U2,0
+2007-12,Weezer,0
+2008-01,3 Colours Red,2
+2008-01,Alanis Morissette,0
+2008-01,Aretha Franklin,1
+2008-01,Backyard Babies,1
+2008-01,Bob Dylan,0
+2008-01,Chuck Berry,0
+2008-01,Diamond Dogs,0
+2008-01,Eric Clapton,0
+2008-01,Georg Friedrich Händel,1
+2008-01,Ginger,1
+2008-01,Hanoi Rocks,0
+2008-01,The Black Crowes,0
+2008-01,The Dogs D'Amour,1
+2008-01,The Hellacopters,0
+2008-01,The Quireboys,0
+2008-01,The Rolling Stones,0
+2008-01,The Wildhearts,2
+2008-01,Tyla,0
+2008-01,U2,0
+2008-01,Weezer,0
+2008-02,3 Colours Red,0
+2008-02,Alanis Morissette,1
+2008-02,Aretha Franklin,1
+2008-02,Backyard Babies,2
+2008-02,Bob Dylan,0
+2008-02,Chuck Berry,0
+2008-02,Diamond Dogs,0
+2008-02,Eric Clapton,0
+2008-02,Georg Friedrich Händel,0
+2008-02,Ginger,1
+2008-02,Hanoi Rocks,0
+2008-02,The Black Crowes,1
+2008-02,The Dogs D'Amour,2
+2008-02,The Hellacopters,1
+2008-02,The Quireboys,2
+2008-02,The Rolling Stones,1
+2008-02,The Wildhearts,1
+2008-02,Tyla,2
+2008-02,U2,1
+2008-02,Weezer,1
+2008-03,3 Colours Red,1
+2008-03,Alanis Morissette,0
+2008-03,Aretha Franklin,0
+2008-03,Backyard Babies,1
+2008-03,Bob Dylan,0
+2008-03,Chuck Berry,0
+2008-03,Diamond Dogs,0
+2008-03,Eric Clapton,0
+2008-03,Georg Friedrich Händel,0
+2008-03,Ginger,2
+2008-03,Hanoi Rocks,0
+2008-03,The Black Crowes,19
+2008-03,The Dogs D'Amour,37
+2008-03,The Hellacopters,0
+2008-03,The Quireboys,2
+2008-03,The Rolling Stones,0
+2008-03,The Wildhearts,1
+2008-03,Tyla,15
+2008-03,U2,0
+2008-03,Weezer,0
+2008-04,3 Colours Red,0
+2008-04,Alanis Morissette,0
+2008-04,Aretha Franklin,0
+2008-04,Backyard Babies,0
+2008-04,Bob Dylan,0
+2008-04,Chuck Berry,0
+2008-04,Diamond Dogs,0
+2008-04,Eric Clapton,0
+2008-04,Georg Friedrich Händel,0
+2008-04,Ginger,0
+2008-04,Hanoi Rocks,0
+2008-04,The Black Crowes,23
+2008-04,The Dogs D'Amour,22
+2008-04,The Hellacopters,0
+2008-04,The Quireboys,0
+2008-04,The Rolling Stones,0
+2008-04,The Wildhearts,0
+2008-04,Tyla,5
+2008-04,U2,0
+2008-04,Weezer,0
+2008-05,3 Colours Red,0
+2008-05,Alanis Morissette,2
+2008-05,Aretha Franklin,0
+2008-05,Backyard Babies,1
+2008-05,Bob Dylan,2
+2008-05,Chuck Berry,2
+2008-05,Diamond Dogs,1
+2008-05,Eric Clapton,2
+2008-05,Georg Friedrich Händel,6
+2008-05,Ginger,2
+2008-05,Hanoi Rocks,2
+2008-05,The Black Crowes,1
+2008-05,The Dogs D'Amour,12
+2008-05,The Hellacopters,1
+2008-05,The Quireboys,1
+2008-05,The Rolling Stones,1
+2008-05,The Wildhearts,1
+2008-05,Tyla,28
+2008-05,U2,0
+2008-05,Weezer,1
+2008-06,3 Colours Red,1
+2008-06,Alanis Morissette,18
+2008-06,Aretha Franklin,4
+2008-06,Backyard Babies,2
+2008-06,Bob Dylan,0
+2008-06,Chuck Berry,1
+2008-06,Diamond Dogs,2
+2008-06,Eric Clapton,2
+2008-06,Georg Friedrich Händel,2
+2008-06,Ginger,2
+2008-06,Hanoi Rocks,2
+2008-06,The Black Crowes,13
+2008-06,The Dogs D'Amour,20
+2008-06,The Hellacopters,1
+2008-06,The Quireboys,2
+2008-06,The Rolling Stones,1
+2008-06,The Wildhearts,2
+2008-06,Tyla,3
+2008-06,U2,2
+2008-06,Weezer,0
+2008-07,3 Colours Red,1
+2008-07,Alanis Morissette,3
+2008-07,Aretha Franklin,0
+2008-07,Backyard Babies,36
+2008-07,Bob Dylan,2
+2008-07,Chuck Berry,1
+2008-07,Diamond Dogs,4
+2008-07,Eric Clapton,2
+2008-07,Georg Friedrich Händel,1
+2008-07,Ginger,5
+2008-07,Hanoi Rocks,1
+2008-07,The Black Crowes,1
+2008-07,The Dogs D'Amour,19
+2008-07,The Hellacopters,4
+2008-07,The Quireboys,5
+2008-07,The Rolling Stones,7
+2008-07,The Wildhearts,2
+2008-07,Tyla,28
+2008-07,U2,1
+2008-07,Weezer,2
+2008-08,3 Colours Red,0
+2008-08,Alanis Morissette,0
+2008-08,Aretha Franklin,2
+2008-08,Backyard Babies,12
+2008-08,Bob Dylan,0
+2008-08,Chuck Berry,1
+2008-08,Diamond Dogs,0
+2008-08,Eric Clapton,0
+2008-08,Georg Friedrich Händel,0
+2008-08,Ginger,0
+2008-08,Hanoi Rocks,0
+2008-08,The Black Crowes,0
+2008-08,The Dogs D'Amour,23
+2008-08,The Hellacopters,0
+2008-08,The Quireboys,7
+2008-08,The Rolling Stones,0
+2008-08,The Wildhearts,0
+2008-08,Tyla,1
+2008-08,U2,1
+2008-08,Weezer,0
+2008-09,3 Colours Red,2
+2008-09,Alanis Morissette,0
+2008-09,Aretha Franklin,2
+2008-09,Backyard Babies,18
+2008-09,Bob Dylan,0
+2008-09,Chuck Berry,0
+2008-09,Diamond Dogs,2
+2008-09,Eric Clapton,0
+2008-09,Georg Friedrich Händel,0
+2008-09,Ginger,3
+2008-09,Hanoi Rocks,0
+2008-09,The Black Crowes,2
+2008-09,The Dogs D'Amour,26
+2008-09,The Hellacopters,1
+2008-09,The Quireboys,2
+2008-09,The Rolling Stones,0
+2008-09,The Wildhearts,0
+2008-09,Tyla,30
+2008-09,U2,0
+2008-09,Weezer,1
+2008-10,3 Colours Red,1
+2008-10,Alanis Morissette,0
+2008-10,Aretha Franklin,0
+2008-10,Backyard Babies,13
+2008-10,Bob Dylan,3
+2008-10,Chuck Berry,2
+2008-10,Diamond Dogs,8
+2008-10,Eric Clapton,1
+2008-10,Georg Friedrich Händel,3
+2008-10,Ginger,1
+2008-10,Hanoi Rocks,0
+2008-10,The Black Crowes,17
+2008-10,The Dogs D'Amour,71
+2008-10,The Hellacopters,2
+2008-10,The Quireboys,0
+2008-10,The Rolling Stones,4
+2008-10,The Wildhearts,1
+2008-10,Tyla,0
+2008-10,U2,0
+2008-10,Weezer,1
+2008-11,3 Colours Red,0
+2008-11,Alanis Morissette,0
+2008-11,Aretha Franklin,0
+2008-11,Backyard Babies,13
+2008-11,Bob Dylan,0
+2008-11,Chuck Berry,0
+2008-11,Diamond Dogs,11
+2008-11,Eric Clapton,0
+2008-11,Georg Friedrich Händel,0
+2008-11,Ginger,0
+2008-11,Hanoi Rocks,1
+2008-11,The Black Crowes,8
+2008-11,The Dogs D'Amour,0
+2008-11,The Hellacopters,2
+2008-11,The Quireboys,0
+2008-11,The Rolling Stones,0
+2008-11,The Wildhearts,0
+2008-11,Tyla,53
+2008-11,U2,0
+2008-11,Weezer,0
+2008-12,3 Colours Red,0
+2008-12,Alanis Morissette,0
+2008-12,Aretha Franklin,1
+2008-12,Backyard Babies,0
+2008-12,Bob Dylan,0
+2008-12,Chuck Berry,0
+2008-12,Diamond Dogs,0
+2008-12,Eric Clapton,0
+2008-12,Georg Friedrich Händel,0
+2008-12,Ginger,0
+2008-12,Hanoi Rocks,0
+2008-12,The Black Crowes,0
+2008-12,The Dogs D'Amour,0
+2008-12,The Hellacopters,0
+2008-12,The Quireboys,7
+2008-12,The Rolling Stones,0
+2008-12,The Wildhearts,0
+2008-12,Tyla,69
+2008-12,U2,3
+2008-12,Weezer,0
+2009-01,3 Colours Red,0
+2009-01,Alanis Morissette,0
+2009-01,Aretha Franklin,0
+2009-01,Backyard Babies,26
+2009-01,Bob Dylan,0
+2009-01,Chuck Berry,0
+2009-01,Diamond Dogs,1
+2009-01,Eric Clapton,0
+2009-01,Georg Friedrich Händel,0
+2009-01,Ginger,0
+2009-01,Hanoi Rocks,0
+2009-01,The Black Crowes,0
+2009-01,The Dogs D'Amour,0
+2009-01,The Hellacopters,0
+2009-01,The Quireboys,0
+2009-01,The Rolling Stones,0
+2009-01,The Wildhearts,0
+2009-01,Tyla,3
+2009-01,U2,0
+2009-01,Weezer,0
+2009-02,3 Colours Red,0
+2009-02,Alanis Morissette,1
+2009-02,Aretha Franklin,0
+2009-02,Backyard Babies,8
+2009-02,Bob Dylan,0
+2009-02,Chuck Berry,0
+2009-02,Diamond Dogs,0
+2009-02,Eric Clapton,0
+2009-02,Georg Friedrich Händel,0
+2009-02,Ginger,0
+2009-02,Hanoi Rocks,0
+2009-02,The Black Crowes,0
+2009-02,The Dogs D'Amour,0
+2009-02,The Hellacopters,0
+2009-02,The Quireboys,3
+2009-02,The Rolling Stones,17
+2009-02,The Wildhearts,0
+2009-02,Tyla,0
+2009-02,U2,22
+2009-02,Weezer,0
+2009-03,3 Colours Red,0
+2009-03,Alanis Morissette,0
+2009-03,Aretha Franklin,1
+2009-03,Backyard Babies,8
+2009-03,Bob Dylan,0
+2009-03,Chuck Berry,0
+2009-03,Diamond Dogs,0
+2009-03,Eric Clapton,0
+2009-03,Georg Friedrich Händel,0
+2009-03,Ginger,0
+2009-03,Hanoi Rocks,0
+2009-03,The Black Crowes,1
+2009-03,The Dogs D'Amour,0
+2009-03,The Hellacopters,0
+2009-03,The Quireboys,1
+2009-03,The Rolling Stones,21
+2009-03,The Wildhearts,6
+2009-03,Tyla,1
+2009-03,U2,25
+2009-03,Weezer,0
+2009-04,3 Colours Red,0
+2009-04,Alanis Morissette,0
+2009-04,Aretha Franklin,0
+2009-04,Backyard Babies,11
+2009-04,Bob Dylan,0
+2009-04,Chuck Berry,0
+2009-04,Diamond Dogs,2
+2009-04,Eric Clapton,0
+2009-04,Georg Friedrich Händel,0
+2009-04,Ginger,0
+2009-04,Hanoi Rocks,0
+2009-04,The Black Crowes,0
+2009-04,The Dogs D'Amour,32
+2009-04,The Hellacopters,2
+2009-04,The Quireboys,0
+2009-04,The Rolling Stones,1
+2009-04,The Wildhearts,0
+2009-04,Tyla,3
+2009-04,U2,22
+2009-04,Weezer,0

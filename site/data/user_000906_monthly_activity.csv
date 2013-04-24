@@ -1,0 +1,801 @@
+month,artist,plays
+2006-01,Arctic Monkeys,261
+2006-01,Babyshambles,1
+2006-01,Beatsteaks,0
+2006-01,Dread Zeppelin,1
+2006-01,Fatboy Slim,8
+2006-01,Keane,0
+2006-01,Led Zeppelin,17
+2006-01,Led Zeppelin Jam,11
+2006-01,Lez Zeppelin,30
+2006-01,Mando Diao,149
+2006-01,Maxïmo Park,22
+2006-01,Rage Against The Machine,1
+2006-01,The Doors,0
+2006-01,The Kinks,442
+2006-01,The Rifles,0
+2006-01,The Rolling Stones,0
+2006-01,The Strokes,207
+2006-01,The Subways,41
+2006-01,The Who,167
+2006-01,The Yardbirds,0
+2006-02,Arctic Monkeys,36
+2006-02,Babyshambles,0
+2006-02,Beatsteaks,0
+2006-02,Dread Zeppelin,0
+2006-02,Fatboy Slim,4
+2006-02,Keane,0
+2006-02,Led Zeppelin,0
+2006-02,Led Zeppelin Jam,4
+2006-02,Lez Zeppelin,0
+2006-02,Mando Diao,1453
+2006-02,Maxïmo Park,0
+2006-02,Rage Against The Machine,0
+2006-02,The Doors,0
+2006-02,The Kinks,505
+2006-02,The Rifles,0
+2006-02,The Rolling Stones,0
+2006-02,The Strokes,0
+2006-02,The Subways,0
+2006-02,The Who,11
+2006-02,The Yardbirds,0
+2006-03,Arctic Monkeys,101
+2006-03,Babyshambles,0
+2006-03,Beatsteaks,0
+2006-03,Dread Zeppelin,31
+2006-03,Fatboy Slim,1
+2006-03,Keane,0
+2006-03,Led Zeppelin,72
+2006-03,Led Zeppelin Jam,15
+2006-03,Lez Zeppelin,129
+2006-03,Mando Diao,406
+2006-03,Maxïmo Park,0
+2006-03,Rage Against The Machine,11
+2006-03,The Doors,21
+2006-03,The Kinks,272
+2006-03,The Rifles,0
+2006-03,The Rolling Stones,0
+2006-03,The Strokes,320
+2006-03,The Subways,48
+2006-03,The Who,239
+2006-03,The Yardbirds,0
+2006-04,Arctic Monkeys,0
+2006-04,Babyshambles,0
+2006-04,Beatsteaks,0
+2006-04,Dread Zeppelin,0
+2006-04,Fatboy Slim,0
+2006-04,Keane,0
+2006-04,Led Zeppelin,0
+2006-04,Led Zeppelin Jam,0
+2006-04,Lez Zeppelin,4
+2006-04,Mando Diao,322
+2006-04,Maxïmo Park,0
+2006-04,Rage Against The Machine,49
+2006-04,The Doors,27
+2006-04,The Kinks,224
+2006-04,The Rifles,0
+2006-04,The Rolling Stones,0
+2006-04,The Strokes,7
+2006-04,The Subways,28
+2006-04,The Who,165
+2006-04,The Yardbirds,0
+2006-05,Arctic Monkeys,42
+2006-05,Babyshambles,0
+2006-05,Beatsteaks,0
+2006-05,Dread Zeppelin,105
+2006-05,Fatboy Slim,21
+2006-05,Keane,0
+2006-05,Led Zeppelin,119
+2006-05,Led Zeppelin Jam,50
+2006-05,Lez Zeppelin,43
+2006-05,Mando Diao,604
+2006-05,Maxïmo Park,19
+2006-05,Rage Against The Machine,5
+2006-05,The Doors,5
+2006-05,The Kinks,67
+2006-05,The Rifles,0
+2006-05,The Rolling Stones,0
+2006-05,The Strokes,5
+2006-05,The Subways,0
+2006-05,The Who,33
+2006-05,The Yardbirds,0
+2006-06,Arctic Monkeys,43
+2006-06,Babyshambles,0
+2006-06,Beatsteaks,0
+2006-06,Dread Zeppelin,10
+2006-06,Fatboy Slim,0
+2006-06,Keane,0
+2006-06,Led Zeppelin,100
+2006-06,Led Zeppelin Jam,0
+2006-06,Lez Zeppelin,117
+2006-06,Mando Diao,146
+2006-06,Maxïmo Park,66
+2006-06,Rage Against The Machine,2
+2006-06,The Doors,0
+2006-06,The Kinks,20
+2006-06,The Rifles,0
+2006-06,The Rolling Stones,0
+2006-06,The Strokes,0
+2006-06,The Subways,0
+2006-06,The Who,75
+2006-06,The Yardbirds,0
+2006-07,Arctic Monkeys,0
+2006-07,Babyshambles,0
+2006-07,Beatsteaks,0
+2006-07,Dread Zeppelin,55
+2006-07,Fatboy Slim,18
+2006-07,Keane,44
+2006-07,Led Zeppelin,129
+2006-07,Led Zeppelin Jam,24
+2006-07,Lez Zeppelin,12
+2006-07,Mando Diao,264
+2006-07,Maxïmo Park,8
+2006-07,Rage Against The Machine,2
+2006-07,The Doors,2
+2006-07,The Kinks,19
+2006-07,The Rifles,144
+2006-07,The Rolling Stones,1
+2006-07,The Strokes,0
+2006-07,The Subways,0
+2006-07,The Who,5
+2006-07,The Yardbirds,133
+2006-08,Arctic Monkeys,0
+2006-08,Babyshambles,0
+2006-08,Beatsteaks,0
+2006-08,Dread Zeppelin,2
+2006-08,Fatboy Slim,0
+2006-08,Keane,0
+2006-08,Led Zeppelin,84
+2006-08,Led Zeppelin Jam,2
+2006-08,Lez Zeppelin,0
+2006-08,Mando Diao,1030
+2006-08,Maxïmo Park,0
+2006-08,Rage Against The Machine,0
+2006-08,The Doors,0
+2006-08,The Kinks,10
+2006-08,The Rifles,240
+2006-08,The Rolling Stones,0
+2006-08,The Strokes,11
+2006-08,The Subways,0
+2006-08,The Who,3
+2006-08,The Yardbirds,27
+2006-09,Arctic Monkeys,0
+2006-09,Babyshambles,0
+2006-09,Beatsteaks,0
+2006-09,Dread Zeppelin,17
+2006-09,Fatboy Slim,0
+2006-09,Keane,0
+2006-09,Led Zeppelin,140
+2006-09,Led Zeppelin Jam,15
+2006-09,Lez Zeppelin,26
+2006-09,Mando Diao,434
+2006-09,Maxïmo Park,0
+2006-09,Rage Against The Machine,2
+2006-09,The Doors,0
+2006-09,The Kinks,52
+2006-09,The Rifles,0
+2006-09,The Rolling Stones,0
+2006-09,The Strokes,0
+2006-09,The Subways,0
+2006-09,The Who,21
+2006-09,The Yardbirds,9
+2006-10,Arctic Monkeys,0
+2006-10,Babyshambles,0
+2006-10,Beatsteaks,0
+2006-10,Dread Zeppelin,79
+2006-10,Fatboy Slim,2
+2006-10,Keane,0
+2006-10,Led Zeppelin,118
+2006-10,Led Zeppelin Jam,36
+2006-10,Lez Zeppelin,25
+2006-10,Mando Diao,56
+2006-10,Maxïmo Park,0
+2006-10,Rage Against The Machine,0
+2006-10,The Doors,236
+2006-10,The Kinks,26
+2006-10,The Rifles,52
+2006-10,The Rolling Stones,0
+2006-10,The Strokes,0
+2006-10,The Subways,102
+2006-10,The Who,21
+2006-10,The Yardbirds,12
+2006-11,Arctic Monkeys,0
+2006-11,Babyshambles,0
+2006-11,Beatsteaks,0
+2006-11,Dread Zeppelin,0
+2006-11,Fatboy Slim,1
+2006-11,Keane,0
+2006-11,Led Zeppelin,46
+2006-11,Led Zeppelin Jam,0
+2006-11,Lez Zeppelin,0
+2006-11,Mando Diao,182
+2006-11,Maxïmo Park,7
+2006-11,Rage Against The Machine,0
+2006-11,The Doors,9
+2006-11,The Kinks,47
+2006-11,The Rifles,0
+2006-11,The Rolling Stones,4
+2006-11,The Strokes,0
+2006-11,The Subways,0
+2006-11,The Who,0
+2006-11,The Yardbirds,2
+2006-12,Arctic Monkeys,0
+2006-12,Babyshambles,0
+2006-12,Beatsteaks,0
+2006-12,Dread Zeppelin,50
+2006-12,Fatboy Slim,0
+2006-12,Keane,0
+2006-12,Led Zeppelin,19
+2006-12,Led Zeppelin Jam,1
+2006-12,Lez Zeppelin,0
+2006-12,Mando Diao,124
+2006-12,Maxïmo Park,0
+2006-12,Rage Against The Machine,1
+2006-12,The Doors,38
+2006-12,The Kinks,18
+2006-12,The Rifles,5
+2006-12,The Rolling Stones,0
+2006-12,The Strokes,33
+2006-12,The Subways,0
+2006-12,The Who,47
+2006-12,The Yardbirds,0
+2007-01,Arctic Monkeys,113
+2007-01,Babyshambles,0
+2007-01,Beatsteaks,0
+2007-01,Dread Zeppelin,68
+2007-01,Fatboy Slim,0
+2007-01,Keane,0
+2007-01,Led Zeppelin,3
+2007-01,Led Zeppelin Jam,1
+2007-01,Lez Zeppelin,2
+2007-01,Mando Diao,169
+2007-01,Maxïmo Park,0
+2007-01,Rage Against The Machine,0
+2007-01,The Doors,21
+2007-01,The Kinks,17
+2007-01,The Rifles,17
+2007-01,The Rolling Stones,0
+2007-01,The Strokes,80
+2007-01,The Subways,0
+2007-01,The Who,65
+2007-01,The Yardbirds,0
+2007-02,Arctic Monkeys,0
+2007-02,Babyshambles,0
+2007-02,Beatsteaks,0
+2007-02,Dread Zeppelin,46
+2007-02,Fatboy Slim,0
+2007-02,Keane,0
+2007-02,Led Zeppelin,78
+2007-02,Led Zeppelin Jam,5
+2007-02,Lez Zeppelin,4
+2007-02,Mando Diao,276
+2007-02,Maxïmo Park,0
+2007-02,Rage Against The Machine,0
+2007-02,The Doors,5
+2007-02,The Kinks,12
+2007-02,The Rifles,48
+2007-02,The Rolling Stones,2
+2007-02,The Strokes,0
+2007-02,The Subways,0
+2007-02,The Who,3
+2007-02,The Yardbirds,0
+2007-03,Arctic Monkeys,1
+2007-03,Babyshambles,0
+2007-03,Beatsteaks,0
+2007-03,Dread Zeppelin,34
+2007-03,Fatboy Slim,52
+2007-03,Keane,0
+2007-03,Led Zeppelin,67
+2007-03,Led Zeppelin Jam,24
+2007-03,Lez Zeppelin,23
+2007-03,Mando Diao,86
+2007-03,Maxïmo Park,1
+2007-03,Rage Against The Machine,9
+2007-03,The Doors,140
+2007-03,The Kinks,29
+2007-03,The Rifles,0
+2007-03,The Rolling Stones,0
+2007-03,The Strokes,0
+2007-03,The Subways,2
+2007-03,The Who,2
+2007-03,The Yardbirds,2
+2007-04,Arctic Monkeys,0
+2007-04,Babyshambles,0
+2007-04,Beatsteaks,0
+2007-04,Dread Zeppelin,1
+2007-04,Fatboy Slim,0
+2007-04,Keane,0
+2007-04,Led Zeppelin,41
+2007-04,Led Zeppelin Jam,8
+2007-04,Lez Zeppelin,61
+2007-04,Mando Diao,85
+2007-04,Maxïmo Park,46
+2007-04,Rage Against The Machine,4
+2007-04,The Doors,29
+2007-04,The Kinks,0
+2007-04,The Rifles,51
+2007-04,The Rolling Stones,0
+2007-04,The Strokes,5
+2007-04,The Subways,8
+2007-04,The Who,72
+2007-04,The Yardbirds,0
+2007-05,Arctic Monkeys,1
+2007-05,Babyshambles,21
+2007-05,Beatsteaks,0
+2007-05,Dread Zeppelin,34
+2007-05,Fatboy Slim,5
+2007-05,Keane,33
+2007-05,Led Zeppelin,106
+2007-05,Led Zeppelin Jam,7
+2007-05,Lez Zeppelin,10
+2007-05,Mando Diao,178
+2007-05,Maxïmo Park,111
+2007-05,Rage Against The Machine,12
+2007-05,The Doors,2
+2007-05,The Kinks,20
+2007-05,The Rifles,0
+2007-05,The Rolling Stones,5
+2007-05,The Strokes,5
+2007-05,The Subways,2
+2007-05,The Who,10
+2007-05,The Yardbirds,0
+2007-06,Arctic Monkeys,74
+2007-06,Babyshambles,2
+2007-06,Beatsteaks,1
+2007-06,Dread Zeppelin,56
+2007-06,Fatboy Slim,0
+2007-06,Keane,5
+2007-06,Led Zeppelin,36
+2007-06,Led Zeppelin Jam,9
+2007-06,Lez Zeppelin,3
+2007-06,Mando Diao,127
+2007-06,Maxïmo Park,7
+2007-06,Rage Against The Machine,13
+2007-06,The Doors,13
+2007-06,The Kinks,22
+2007-06,The Rifles,0
+2007-06,The Rolling Stones,9
+2007-06,The Strokes,7
+2007-06,The Subways,22
+2007-06,The Who,2
+2007-06,The Yardbirds,0
+2007-07,Arctic Monkeys,30
+2007-07,Babyshambles,0
+2007-07,Beatsteaks,46
+2007-07,Dread Zeppelin,5
+2007-07,Fatboy Slim,0
+2007-07,Keane,0
+2007-07,Led Zeppelin,3
+2007-07,Led Zeppelin Jam,0
+2007-07,Lez Zeppelin,0
+2007-07,Mando Diao,133
+2007-07,Maxïmo Park,34
+2007-07,Rage Against The Machine,5
+2007-07,The Doors,0
+2007-07,The Kinks,38
+2007-07,The Rifles,2
+2007-07,The Rolling Stones,1
+2007-07,The Strokes,3
+2007-07,The Subways,3
+2007-07,The Who,27
+2007-07,The Yardbirds,4
+2007-08,Arctic Monkeys,24
+2007-08,Babyshambles,12
+2007-08,Beatsteaks,53
+2007-08,Dread Zeppelin,18
+2007-08,Fatboy Slim,0
+2007-08,Keane,0
+2007-08,Led Zeppelin,7
+2007-08,Led Zeppelin Jam,1
+2007-08,Lez Zeppelin,10
+2007-08,Mando Diao,52
+2007-08,Maxïmo Park,6
+2007-08,Rage Against The Machine,2
+2007-08,The Doors,18
+2007-08,The Kinks,5
+2007-08,The Rifles,61
+2007-08,The Rolling Stones,0
+2007-08,The Strokes,5
+2007-08,The Subways,0
+2007-08,The Who,15
+2007-08,The Yardbirds,19
+2007-09,Arctic Monkeys,0
+2007-09,Babyshambles,0
+2007-09,Beatsteaks,1
+2007-09,Dread Zeppelin,0
+2007-09,Fatboy Slim,0
+2007-09,Keane,0
+2007-09,Led Zeppelin,0
+2007-09,Led Zeppelin Jam,0
+2007-09,Lez Zeppelin,0
+2007-09,Mando Diao,314
+2007-09,Maxïmo Park,5
+2007-09,Rage Against The Machine,0
+2007-09,The Doors,51
+2007-09,The Kinks,0
+2007-09,The Rifles,9
+2007-09,The Rolling Stones,0
+2007-09,The Strokes,0
+2007-09,The Subways,0
+2007-09,The Who,2
+2007-09,The Yardbirds,56
+2007-10,Arctic Monkeys,0
+2007-10,Babyshambles,0
+2007-10,Beatsteaks,0
+2007-10,Dread Zeppelin,0
+2007-10,Fatboy Slim,0
+2007-10,Keane,0
+2007-10,Led Zeppelin,4
+2007-10,Led Zeppelin Jam,0
+2007-10,Lez Zeppelin,0
+2007-10,Mando Diao,254
+2007-10,Maxïmo Park,4
+2007-10,Rage Against The Machine,0
+2007-10,The Doors,0
+2007-10,The Kinks,44
+2007-10,The Rifles,2
+2007-10,The Rolling Stones,0
+2007-10,The Strokes,0
+2007-10,The Subways,0
+2007-10,The Who,1
+2007-10,The Yardbirds,19
+2007-11,Arctic Monkeys,10
+2007-11,Babyshambles,24
+2007-11,Beatsteaks,109
+2007-11,Dread Zeppelin,0
+2007-11,Fatboy Slim,3
+2007-11,Keane,0
+2007-11,Led Zeppelin,0
+2007-11,Led Zeppelin Jam,4
+2007-11,Lez Zeppelin,13
+2007-11,Mando Diao,96
+2007-11,Maxïmo Park,0
+2007-11,Rage Against The Machine,0
+2007-11,The Doors,0
+2007-11,The Kinks,26
+2007-11,The Rifles,0
+2007-11,The Rolling Stones,0
+2007-11,The Strokes,23
+2007-11,The Subways,4
+2007-11,The Who,20
+2007-11,The Yardbirds,2
+2007-12,Arctic Monkeys,8
+2007-12,Babyshambles,38
+2007-12,Beatsteaks,9
+2007-12,Dread Zeppelin,31
+2007-12,Fatboy Slim,0
+2007-12,Keane,0
+2007-12,Led Zeppelin,10
+2007-12,Led Zeppelin Jam,20
+2007-12,Lez Zeppelin,2
+2007-12,Mando Diao,0
+2007-12,Maxïmo Park,2
+2007-12,Rage Against The Machine,0
+2007-12,The Doors,0
+2007-12,The Kinks,3
+2007-12,The Rifles,0
+2007-12,The Rolling Stones,3
+2007-12,The Strokes,0
+2007-12,The Subways,0
+2007-12,The Who,10
+2007-12,The Yardbirds,0
+2008-01,Arctic Monkeys,246
+2008-01,Babyshambles,2
+2008-01,Beatsteaks,69
+2008-01,Dread Zeppelin,35
+2008-01,Fatboy Slim,4
+2008-01,Keane,0
+2008-01,Led Zeppelin,19
+2008-01,Led Zeppelin Jam,11
+2008-01,Lez Zeppelin,6
+2008-01,Mando Diao,140
+2008-01,Maxïmo Park,27
+2008-01,Rage Against The Machine,7
+2008-01,The Doors,6
+2008-01,The Kinks,88
+2008-01,The Rifles,12
+2008-01,The Rolling Stones,36
+2008-01,The Strokes,0
+2008-01,The Subways,1
+2008-01,The Who,11
+2008-01,The Yardbirds,1
+2008-02,Arctic Monkeys,178
+2008-02,Babyshambles,4
+2008-02,Beatsteaks,3
+2008-02,Dread Zeppelin,18
+2008-02,Fatboy Slim,0
+2008-02,Keane,37
+2008-02,Led Zeppelin,11
+2008-02,Led Zeppelin Jam,0
+2008-02,Lez Zeppelin,0
+2008-02,Mando Diao,110
+2008-02,Maxïmo Park,0
+2008-02,Rage Against The Machine,0
+2008-02,The Doors,50
+2008-02,The Kinks,1
+2008-02,The Rifles,28
+2008-02,The Rolling Stones,0
+2008-02,The Strokes,10
+2008-02,The Subways,3
+2008-02,The Who,26
+2008-02,The Yardbirds,0
+2008-03,Arctic Monkeys,24
+2008-03,Babyshambles,0
+2008-03,Beatsteaks,89
+2008-03,Dread Zeppelin,1
+2008-03,Fatboy Slim,0
+2008-03,Keane,35
+2008-03,Led Zeppelin,9
+2008-03,Led Zeppelin Jam,0
+2008-03,Lez Zeppelin,0
+2008-03,Mando Diao,227
+2008-03,Maxïmo Park,9
+2008-03,Rage Against The Machine,1
+2008-03,The Doors,4
+2008-03,The Kinks,15
+2008-03,The Rifles,9
+2008-03,The Rolling Stones,14
+2008-03,The Strokes,0
+2008-03,The Subways,0
+2008-03,The Who,6
+2008-03,The Yardbirds,0
+2008-04,Arctic Monkeys,7
+2008-04,Babyshambles,4
+2008-04,Beatsteaks,31
+2008-04,Dread Zeppelin,36
+2008-04,Fatboy Slim,1
+2008-04,Keane,9
+2008-04,Led Zeppelin,14
+2008-04,Led Zeppelin Jam,0
+2008-04,Lez Zeppelin,0
+2008-04,Mando Diao,368
+2008-04,Maxïmo Park,1
+2008-04,Rage Against The Machine,0
+2008-04,The Doors,5
+2008-04,The Kinks,33
+2008-04,The Rifles,0
+2008-04,The Rolling Stones,3
+2008-04,The Strokes,1
+2008-04,The Subways,1
+2008-04,The Who,3
+2008-04,The Yardbirds,4
+2008-05,Arctic Monkeys,1
+2008-05,Babyshambles,6
+2008-05,Beatsteaks,122
+2008-05,Dread Zeppelin,18
+2008-05,Fatboy Slim,0
+2008-05,Keane,3
+2008-05,Led Zeppelin,29
+2008-05,Led Zeppelin Jam,6
+2008-05,Lez Zeppelin,4
+2008-05,Mando Diao,21
+2008-05,Maxïmo Park,0
+2008-05,Rage Against The Machine,1
+2008-05,The Doors,5
+2008-05,The Kinks,20
+2008-05,The Rifles,0
+2008-05,The Rolling Stones,4
+2008-05,The Strokes,0
+2008-05,The Subways,0
+2008-05,The Who,6
+2008-05,The Yardbirds,0
+2008-06,Arctic Monkeys,0
+2008-06,Babyshambles,0
+2008-06,Beatsteaks,7
+2008-06,Dread Zeppelin,0
+2008-06,Fatboy Slim,0
+2008-06,Keane,13
+2008-06,Led Zeppelin,2
+2008-06,Led Zeppelin Jam,0
+2008-06,Lez Zeppelin,0
+2008-06,Mando Diao,18
+2008-06,Maxïmo Park,23
+2008-06,Rage Against The Machine,37
+2008-06,The Doors,20
+2008-06,The Kinks,97
+2008-06,The Rifles,55
+2008-06,The Rolling Stones,0
+2008-06,The Strokes,0
+2008-06,The Subways,0
+2008-06,The Who,11
+2008-06,The Yardbirds,0
+2008-07,Arctic Monkeys,0
+2008-07,Babyshambles,2
+2008-07,Beatsteaks,0
+2008-07,Dread Zeppelin,17
+2008-07,Fatboy Slim,0
+2008-07,Keane,2
+2008-07,Led Zeppelin,55
+2008-07,Led Zeppelin Jam,12
+2008-07,Lez Zeppelin,7
+2008-07,Mando Diao,145
+2008-07,Maxïmo Park,35
+2008-07,Rage Against The Machine,0
+2008-07,The Doors,99
+2008-07,The Kinks,0
+2008-07,The Rifles,0
+2008-07,The Rolling Stones,0
+2008-07,The Strokes,0
+2008-07,The Subways,0
+2008-07,The Who,22
+2008-07,The Yardbirds,9
+2008-08,Arctic Monkeys,41
+2008-08,Babyshambles,0
+2008-08,Beatsteaks,0
+2008-08,Dread Zeppelin,1
+2008-08,Fatboy Slim,0
+2008-08,Keane,13
+2008-08,Led Zeppelin,3
+2008-08,Led Zeppelin Jam,1
+2008-08,Lez Zeppelin,0
+2008-08,Mando Diao,1
+2008-08,Maxïmo Park,0
+2008-08,Rage Against The Machine,18
+2008-08,The Doors,20
+2008-08,The Kinks,3
+2008-08,The Rifles,0
+2008-08,The Rolling Stones,0
+2008-08,The Strokes,3
+2008-08,The Subways,4
+2008-08,The Who,0
+2008-08,The Yardbirds,0
+2008-09,Arctic Monkeys,0
+2008-09,Babyshambles,0
+2008-09,Beatsteaks,9
+2008-09,Dread Zeppelin,0
+2008-09,Fatboy Slim,6
+2008-09,Keane,3
+2008-09,Led Zeppelin,10
+2008-09,Led Zeppelin Jam,0
+2008-09,Lez Zeppelin,0
+2008-09,Mando Diao,35
+2008-09,Maxïmo Park,0
+2008-09,Rage Against The Machine,0
+2008-09,The Doors,0
+2008-09,The Kinks,43
+2008-09,The Rifles,0
+2008-09,The Rolling Stones,0
+2008-09,The Strokes,0
+2008-09,The Subways,0
+2008-09,The Who,1
+2008-09,The Yardbirds,0
+2008-10,Arctic Monkeys,0
+2008-10,Babyshambles,0
+2008-10,Beatsteaks,0
+2008-10,Dread Zeppelin,0
+2008-10,Fatboy Slim,0
+2008-10,Keane,0
+2008-10,Led Zeppelin,0
+2008-10,Led Zeppelin Jam,0
+2008-10,Lez Zeppelin,0
+2008-10,Mando Diao,2
+2008-10,Maxïmo Park,0
+2008-10,Rage Against The Machine,1
+2008-10,The Doors,10
+2008-10,The Kinks,0
+2008-10,The Rifles,0
+2008-10,The Rolling Stones,0
+2008-10,The Strokes,0
+2008-10,The Subways,0
+2008-10,The Who,0
+2008-10,The Yardbirds,0
+2008-11,Arctic Monkeys,0
+2008-11,Babyshambles,0
+2008-11,Beatsteaks,0
+2008-11,Dread Zeppelin,0
+2008-11,Fatboy Slim,0
+2008-11,Keane,0
+2008-11,Led Zeppelin,0
+2008-11,Led Zeppelin Jam,0
+2008-11,Lez Zeppelin,0
+2008-11,Mando Diao,4
+2008-11,Maxïmo Park,0
+2008-11,Rage Against The Machine,0
+2008-11,The Doors,0
+2008-11,The Kinks,5
+2008-11,The Rifles,4
+2008-11,The Rolling Stones,2
+2008-11,The Strokes,0
+2008-11,The Subways,0
+2008-11,The Who,0
+2008-11,The Yardbirds,0
+2008-12,Arctic Monkeys,0
+2008-12,Babyshambles,0
+2008-12,Beatsteaks,4
+2008-12,Dread Zeppelin,0
+2008-12,Fatboy Slim,0
+2008-12,Keane,0
+2008-12,Led Zeppelin,0
+2008-12,Led Zeppelin Jam,0
+2008-12,Lez Zeppelin,0
+2008-12,Mando Diao,31
+2008-12,Maxïmo Park,0
+2008-12,Rage Against The Machine,0
+2008-12,The Doors,0
+2008-12,The Kinks,2
+2008-12,The Rifles,0
+2008-12,The Rolling Stones,0
+2008-12,The Strokes,0
+2008-12,The Subways,0
+2008-12,The Who,0
+2008-12,The Yardbirds,0
+2009-01,Arctic Monkeys,0
+2009-01,Babyshambles,0
+2009-01,Beatsteaks,4
+2009-01,Dread Zeppelin,0
+2009-01,Fatboy Slim,0
+2009-01,Keane,1
+2009-01,Led Zeppelin,0
+2009-01,Led Zeppelin Jam,0
+2009-01,Lez Zeppelin,0
+2009-01,Mando Diao,21
+2009-01,Maxïmo Park,0
+2009-01,Rage Against The Machine,0
+2009-01,The Doors,0
+2009-01,The Kinks,0
+2009-01,The Rifles,1
+2009-01,The Rolling Stones,0
+2009-01,The Strokes,2
+2009-01,The Subways,0
+2009-01,The Who,0
+2009-01,The Yardbirds,0
+2009-02,Arctic Monkeys,0
+2009-02,Babyshambles,4
+2009-02,Beatsteaks,0
+2009-02,Dread Zeppelin,0
+2009-02,Fatboy Slim,0
+2009-02,Keane,3
+2009-02,Led Zeppelin,0
+2009-02,Led Zeppelin Jam,0
+2009-02,Lez Zeppelin,0
+2009-02,Mando Diao,90
+2009-02,Maxïmo Park,8
+2009-02,Rage Against The Machine,0
+2009-02,The Doors,5
+2009-02,The Kinks,0
+2009-02,The Rifles,0
+2009-02,The Rolling Stones,2
+2009-02,The Strokes,28
+2009-02,The Subways,0
+2009-02,The Who,0
+2009-02,The Yardbirds,0
+2009-03,Arctic Monkeys,0
+2009-03,Babyshambles,0
+2009-03,Beatsteaks,2
+2009-03,Dread Zeppelin,0
+2009-03,Fatboy Slim,0
+2009-03,Keane,0
+2009-03,Led Zeppelin,12
+2009-03,Led Zeppelin Jam,0
+2009-03,Lez Zeppelin,0
+2009-03,Mando Diao,31
+2009-03,Maxïmo Park,11
+2009-03,Rage Against The Machine,0
+2009-03,The Doors,5
+2009-03,The Kinks,4
+2009-03,The Rifles,0
+2009-03,The Rolling Stones,0
+2009-03,The Strokes,0
+2009-03,The Subways,0
+2009-03,The Who,1
+2009-03,The Yardbirds,0
+2009-04,Arctic Monkeys,0
+2009-04,Babyshambles,6
+2009-04,Beatsteaks,0
+2009-04,Dread Zeppelin,1
+2009-04,Fatboy Slim,0
+2009-04,Keane,0
+2009-04,Led Zeppelin,0
+2009-04,Led Zeppelin Jam,0
+2009-04,Lez Zeppelin,0
+2009-04,Mando Diao,34
+2009-04,Maxïmo Park,0
+2009-04,Rage Against The Machine,8
+2009-04,The Doors,0
+2009-04,The Kinks,1
+2009-04,The Rifles,30
+2009-04,The Rolling Stones,4
+2009-04,The Strokes,0
+2009-04,The Subways,0
+2009-04,The Who,0
+2009-04,The Yardbirds,0

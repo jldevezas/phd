@@ -1,0 +1,701 @@
+month,artist,plays
+2006-08,Alejandro Sanz,4
+2006-08,Avril Lavigne,9
+2006-08,Belanova,16
+2006-08,Belinda,4
+2006-08,Beyoncé,5
+2006-08,Christina Aguilera,27
+2006-08,Depeche Mode,18
+2006-08,Fergie,7
+2006-08,Gloria Trevi,5
+2006-08,Gwen Stefani,4
+2006-08,Ha-Ash,17
+2006-08,James Blunt,8
+2006-08,La Oreja De Van Gogh,13
+2006-08,La Quinta Estación,17
+2006-08,Nelly Furtado,15
+2006-08,Paulina Rubio,7
+2006-08,Shakira,73
+2006-08,Snow Patrol,30
+2006-08,Thalía,18
+2006-08,The Black Eyed Peas,41
+2006-09,Alejandro Sanz,9
+2006-09,Avril Lavigne,4
+2006-09,Belanova,29
+2006-09,Belinda,6
+2006-09,Beyoncé,1
+2006-09,Christina Aguilera,39
+2006-09,Depeche Mode,14
+2006-09,Fergie,20
+2006-09,Gloria Trevi,3
+2006-09,Gwen Stefani,8
+2006-09,Ha-Ash,20
+2006-09,James Blunt,13
+2006-09,La Oreja De Van Gogh,23
+2006-09,La Quinta Estación,16
+2006-09,Nelly Furtado,19
+2006-09,Paulina Rubio,18
+2006-09,Shakira,132
+2006-09,Snow Patrol,44
+2006-09,Thalía,10
+2006-09,The Black Eyed Peas,43
+2006-10,Alejandro Sanz,14
+2006-10,Avril Lavigne,6
+2006-10,Belanova,34
+2006-10,Belinda,4
+2006-10,Beyoncé,4
+2006-10,Christina Aguilera,68
+2006-10,Depeche Mode,12
+2006-10,Fergie,38
+2006-10,Gloria Trevi,5
+2006-10,Gwen Stefani,7
+2006-10,Ha-Ash,19
+2006-10,James Blunt,19
+2006-10,La Oreja De Van Gogh,14
+2006-10,La Quinta Estación,18
+2006-10,Nelly Furtado,26
+2006-10,Paulina Rubio,21
+2006-10,Shakira,117
+2006-10,Snow Patrol,37
+2006-10,Thalía,10
+2006-10,The Black Eyed Peas,49
+2006-11,Alejandro Sanz,16
+2006-11,Avril Lavigne,2
+2006-11,Belanova,29
+2006-11,Belinda,7
+2006-11,Beyoncé,1
+2006-11,Christina Aguilera,72
+2006-11,Depeche Mode,15
+2006-11,Fergie,51
+2006-11,Gloria Trevi,3
+2006-11,Gwen Stefani,10
+2006-11,Ha-Ash,10
+2006-11,James Blunt,14
+2006-11,La Oreja De Van Gogh,10
+2006-11,La Quinta Estación,12
+2006-11,Nelly Furtado,23
+2006-11,Paulina Rubio,17
+2006-11,Shakira,64
+2006-11,Snow Patrol,41
+2006-11,Thalía,6
+2006-11,The Black Eyed Peas,21
+2006-12,Alejandro Sanz,5
+2006-12,Avril Lavigne,6
+2006-12,Belanova,24
+2006-12,Belinda,2
+2006-12,Beyoncé,9
+2006-12,Christina Aguilera,48
+2006-12,Depeche Mode,4
+2006-12,Fergie,35
+2006-12,Gloria Trevi,1
+2006-12,Gwen Stefani,15
+2006-12,Ha-Ash,4
+2006-12,James Blunt,7
+2006-12,La Oreja De Van Gogh,18
+2006-12,La Quinta Estación,18
+2006-12,Nelly Furtado,21
+2006-12,Paulina Rubio,6
+2006-12,Shakira,74
+2006-12,Snow Patrol,33
+2006-12,Thalía,9
+2006-12,The Black Eyed Peas,29
+2007-01,Alejandro Sanz,12
+2007-01,Avril Lavigne,4
+2007-01,Belanova,33
+2007-01,Belinda,2
+2007-01,Beyoncé,14
+2007-01,Christina Aguilera,48
+2007-01,Depeche Mode,14
+2007-01,Fergie,28
+2007-01,Gloria Trevi,4
+2007-01,Gwen Stefani,33
+2007-01,Ha-Ash,10
+2007-01,James Blunt,10
+2007-01,La Oreja De Van Gogh,25
+2007-01,La Quinta Estación,22
+2007-01,Nelly Furtado,29
+2007-01,Paulina Rubio,8
+2007-01,Shakira,63
+2007-01,Snow Patrol,51
+2007-01,Thalía,3
+2007-01,The Black Eyed Peas,24
+2007-02,Alejandro Sanz,21
+2007-02,Avril Lavigne,11
+2007-02,Belanova,31
+2007-02,Belinda,4
+2007-02,Beyoncé,3
+2007-02,Christina Aguilera,47
+2007-02,Depeche Mode,7
+2007-02,Fergie,37
+2007-02,Gloria Trevi,2
+2007-02,Gwen Stefani,38
+2007-02,Ha-Ash,8
+2007-02,James Blunt,2
+2007-02,La Oreja De Van Gogh,26
+2007-02,La Quinta Estación,13
+2007-02,Nelly Furtado,32
+2007-02,Paulina Rubio,16
+2007-02,Shakira,72
+2007-02,Snow Patrol,66
+2007-02,Thalía,6
+2007-02,The Black Eyed Peas,25
+2007-03,Alejandro Sanz,4
+2007-03,Avril Lavigne,24
+2007-03,Belanova,19
+2007-03,Belinda,25
+2007-03,Beyoncé,29
+2007-03,Christina Aguilera,49
+2007-03,Depeche Mode,8
+2007-03,Fergie,28
+2007-03,Gloria Trevi,3
+2007-03,Gwen Stefani,21
+2007-03,Ha-Ash,16
+2007-03,James Blunt,10
+2007-03,La Oreja De Van Gogh,9
+2007-03,La Quinta Estación,3
+2007-03,Nelly Furtado,29
+2007-03,Paulina Rubio,8
+2007-03,Shakira,72
+2007-03,Snow Patrol,62
+2007-03,Thalía,5
+2007-03,The Black Eyed Peas,20
+2007-04,Alejandro Sanz,3
+2007-04,Avril Lavigne,22
+2007-04,Belanova,3
+2007-04,Belinda,28
+2007-04,Beyoncé,27
+2007-04,Christina Aguilera,41
+2007-04,Depeche Mode,11
+2007-04,Fergie,33
+2007-04,Gloria Trevi,4
+2007-04,Gwen Stefani,9
+2007-04,Ha-Ash,7
+2007-04,James Blunt,1
+2007-04,La Oreja De Van Gogh,6
+2007-04,La Quinta Estación,7
+2007-04,Nelly Furtado,19
+2007-04,Paulina Rubio,4
+2007-04,Shakira,61
+2007-04,Snow Patrol,45
+2007-04,Thalía,8
+2007-04,The Black Eyed Peas,19
+2007-05,Alejandro Sanz,6
+2007-05,Avril Lavigne,18
+2007-05,Belanova,10
+2007-05,Belinda,29
+2007-05,Beyoncé,18
+2007-05,Christina Aguilera,39
+2007-05,Depeche Mode,17
+2007-05,Fergie,36
+2007-05,Gloria Trevi,11
+2007-05,Gwen Stefani,26
+2007-05,Ha-Ash,14
+2007-05,James Blunt,7
+2007-05,La Oreja De Van Gogh,7
+2007-05,La Quinta Estación,3
+2007-05,Nelly Furtado,31
+2007-05,Paulina Rubio,8
+2007-05,Shakira,82
+2007-05,Snow Patrol,58
+2007-05,Thalía,6
+2007-05,The Black Eyed Peas,25
+2007-06,Alejandro Sanz,5
+2007-06,Avril Lavigne,15
+2007-06,Belanova,4
+2007-06,Belinda,11
+2007-06,Beyoncé,7
+2007-06,Christina Aguilera,18
+2007-06,Depeche Mode,2
+2007-06,Fergie,34
+2007-06,Gloria Trevi,3
+2007-06,Gwen Stefani,17
+2007-06,Ha-Ash,4
+2007-06,James Blunt,4
+2007-06,La Oreja De Van Gogh,4
+2007-06,La Quinta Estación,16
+2007-06,Nelly Furtado,10
+2007-06,Paulina Rubio,24
+2007-06,Shakira,53
+2007-06,Snow Patrol,51
+2007-06,Thalía,6
+2007-06,The Black Eyed Peas,15
+2007-07,Alejandro Sanz,7
+2007-07,Avril Lavigne,23
+2007-07,Belanova,5
+2007-07,Belinda,2
+2007-07,Beyoncé,4
+2007-07,Christina Aguilera,13
+2007-07,Depeche Mode,2
+2007-07,Fergie,22
+2007-07,Gloria Trevi,1
+2007-07,Gwen Stefani,14
+2007-07,Ha-Ash,4
+2007-07,James Blunt,5
+2007-07,La Oreja De Van Gogh,5
+2007-07,La Quinta Estación,17
+2007-07,Nelly Furtado,10
+2007-07,Paulina Rubio,5
+2007-07,Shakira,37
+2007-07,Snow Patrol,27
+2007-07,Thalía,3
+2007-07,The Black Eyed Peas,12
+2007-08,Alejandro Sanz,7
+2007-08,Avril Lavigne,21
+2007-08,Belanova,7
+2007-08,Belinda,4
+2007-08,Beyoncé,5
+2007-08,Christina Aguilera,18
+2007-08,Depeche Mode,9
+2007-08,Fergie,24
+2007-08,Gloria Trevi,7
+2007-08,Gwen Stefani,4
+2007-08,Ha-Ash,12
+2007-08,James Blunt,27
+2007-08,La Oreja De Van Gogh,7
+2007-08,La Quinta Estación,22
+2007-08,Nelly Furtado,11
+2007-08,Paulina Rubio,5
+2007-08,Shakira,41
+2007-08,Snow Patrol,28
+2007-08,Thalía,7
+2007-08,The Black Eyed Peas,23
+2007-09,Alejandro Sanz,1
+2007-09,Avril Lavigne,22
+2007-09,Belanova,33
+2007-09,Belinda,1
+2007-09,Beyoncé,5
+2007-09,Christina Aguilera,15
+2007-09,Depeche Mode,6
+2007-09,Fergie,11
+2007-09,Gloria Trevi,3
+2007-09,Gwen Stefani,6
+2007-09,Ha-Ash,8
+2007-09,James Blunt,43
+2007-09,La Oreja De Van Gogh,2
+2007-09,La Quinta Estación,12
+2007-09,Nelly Furtado,4
+2007-09,Paulina Rubio,1
+2007-09,Shakira,35
+2007-09,Snow Patrol,14
+2007-09,Thalía,3
+2007-09,The Black Eyed Peas,7
+2007-10,Alejandro Sanz,3
+2007-10,Avril Lavigne,34
+2007-10,Belanova,41
+2007-10,Belinda,1
+2007-10,Beyoncé,7
+2007-10,Christina Aguilera,17
+2007-10,Depeche Mode,8
+2007-10,Fergie,22
+2007-10,Gloria Trevi,5
+2007-10,Gwen Stefani,3
+2007-10,Ha-Ash,5
+2007-10,James Blunt,31
+2007-10,La Oreja De Van Gogh,4
+2007-10,La Quinta Estación,8
+2007-10,Nelly Furtado,3
+2007-10,Paulina Rubio,8
+2007-10,Shakira,31
+2007-10,Snow Patrol,13
+2007-10,Thalía,2
+2007-10,The Black Eyed Peas,18
+2007-11,Alejandro Sanz,1
+2007-11,Avril Lavigne,24
+2007-11,Belanova,32
+2007-11,Belinda,6
+2007-11,Beyoncé,3
+2007-11,Christina Aguilera,22
+2007-11,Depeche Mode,11
+2007-11,Fergie,26
+2007-11,Gloria Trevi,6
+2007-11,Gwen Stefani,11
+2007-11,Ha-Ash,6
+2007-11,James Blunt,35
+2007-11,La Oreja De Van Gogh,6
+2007-11,La Quinta Estación,1
+2007-11,Nelly Furtado,4
+2007-11,Paulina Rubio,4
+2007-11,Shakira,28
+2007-11,Snow Patrol,18
+2007-11,Thalía,5
+2007-11,The Black Eyed Peas,6
+2007-12,Alejandro Sanz,3
+2007-12,Avril Lavigne,19
+2007-12,Belanova,23
+2007-12,Belinda,4
+2007-12,Beyoncé,5
+2007-12,Christina Aguilera,23
+2007-12,Depeche Mode,7
+2007-12,Fergie,27
+2007-12,Gloria Trevi,3
+2007-12,Gwen Stefani,18
+2007-12,Ha-Ash,6
+2007-12,James Blunt,30
+2007-12,La Oreja De Van Gogh,6
+2007-12,La Quinta Estación,5
+2007-12,Nelly Furtado,7
+2007-12,Paulina Rubio,3
+2007-12,Shakira,38
+2007-12,Snow Patrol,22
+2007-12,Thalía,6
+2007-12,The Black Eyed Peas,12
+2008-01,Alejandro Sanz,6
+2008-01,Avril Lavigne,4
+2008-01,Belanova,29
+2008-01,Belinda,3
+2008-01,Beyoncé,2
+2008-01,Christina Aguilera,27
+2008-01,Depeche Mode,8
+2008-01,Fergie,8
+2008-01,Gloria Trevi,3
+2008-01,Gwen Stefani,7
+2008-01,Ha-Ash,6
+2008-01,James Blunt,17
+2008-01,La Oreja De Van Gogh,8
+2008-01,La Quinta Estación,4
+2008-01,Nelly Furtado,5
+2008-01,Paulina Rubio,3
+2008-01,Shakira,34
+2008-01,Snow Patrol,16
+2008-01,Thalía,6
+2008-01,The Black Eyed Peas,6
+2008-02,Alejandro Sanz,4
+2008-02,Avril Lavigne,2
+2008-02,Belanova,31
+2008-02,Belinda,1
+2008-02,Beyoncé,4
+2008-02,Christina Aguilera,11
+2008-02,Depeche Mode,4
+2008-02,Fergie,1
+2008-02,Gloria Trevi,2
+2008-02,Gwen Stefani,2
+2008-02,Ha-Ash,2
+2008-02,James Blunt,14
+2008-02,La Oreja De Van Gogh,4
+2008-02,La Quinta Estación,6
+2008-02,Nelly Furtado,5
+2008-02,Paulina Rubio,3
+2008-02,Shakira,21
+2008-02,Snow Patrol,11
+2008-02,Thalía,4
+2008-02,The Black Eyed Peas,11
+2008-03,Alejandro Sanz,1
+2008-03,Avril Lavigne,3
+2008-03,Belanova,19
+2008-03,Belinda,4
+2008-03,Beyoncé,0
+2008-03,Christina Aguilera,12
+2008-03,Depeche Mode,5
+2008-03,Fergie,4
+2008-03,Gloria Trevi,1
+2008-03,Gwen Stefani,1
+2008-03,Ha-Ash,5
+2008-03,James Blunt,15
+2008-03,La Oreja De Van Gogh,4
+2008-03,La Quinta Estación,14
+2008-03,Nelly Furtado,3
+2008-03,Paulina Rubio,1
+2008-03,Shakira,17
+2008-03,Snow Patrol,12
+2008-03,Thalía,1
+2008-03,The Black Eyed Peas,4
+2008-04,Alejandro Sanz,4
+2008-04,Avril Lavigne,19
+2008-04,Belanova,24
+2008-04,Belinda,2
+2008-04,Beyoncé,5
+2008-04,Christina Aguilera,14
+2008-04,Depeche Mode,7
+2008-04,Fergie,4
+2008-04,Gloria Trevi,11
+2008-04,Gwen Stefani,2
+2008-04,Ha-Ash,5
+2008-04,James Blunt,7
+2008-04,La Oreja De Van Gogh,5
+2008-04,La Quinta Estación,16
+2008-04,Nelly Furtado,2
+2008-04,Paulina Rubio,4
+2008-04,Shakira,25
+2008-04,Snow Patrol,13
+2008-04,Thalía,3
+2008-04,The Black Eyed Peas,9
+2008-05,Alejandro Sanz,3
+2008-05,Avril Lavigne,15
+2008-05,Belanova,14
+2008-05,Belinda,1
+2008-05,Beyoncé,3
+2008-05,Christina Aguilera,13
+2008-05,Depeche Mode,10
+2008-05,Fergie,7
+2008-05,Gloria Trevi,22
+2008-05,Gwen Stefani,3
+2008-05,Ha-Ash,11
+2008-05,James Blunt,8
+2008-05,La Oreja De Van Gogh,5
+2008-05,La Quinta Estación,5
+2008-05,Nelly Furtado,4
+2008-05,Paulina Rubio,3
+2008-05,Shakira,40
+2008-05,Snow Patrol,13
+2008-05,Thalía,2
+2008-05,The Black Eyed Peas,13
+2008-06,Alejandro Sanz,9
+2008-06,Avril Lavigne,3
+2008-06,Belanova,6
+2008-06,Belinda,2
+2008-06,Beyoncé,7
+2008-06,Christina Aguilera,9
+2008-06,Depeche Mode,6
+2008-06,Fergie,3
+2008-06,Gloria Trevi,16
+2008-06,Gwen Stefani,3
+2008-06,Ha-Ash,13
+2008-06,James Blunt,3
+2008-06,La Oreja De Van Gogh,5
+2008-06,La Quinta Estación,3
+2008-06,Nelly Furtado,3
+2008-06,Paulina Rubio,6
+2008-06,Shakira,23
+2008-06,Snow Patrol,9
+2008-06,Thalía,8
+2008-06,The Black Eyed Peas,7
+2008-07,Alejandro Sanz,5
+2008-07,Avril Lavigne,7
+2008-07,Belanova,22
+2008-07,Belinda,5
+2008-07,Beyoncé,10
+2008-07,Christina Aguilera,17
+2008-07,Depeche Mode,12
+2008-07,Fergie,18
+2008-07,Gloria Trevi,18
+2008-07,Gwen Stefani,9
+2008-07,Ha-Ash,49
+2008-07,James Blunt,7
+2008-07,La Oreja De Van Gogh,8
+2008-07,La Quinta Estación,9
+2008-07,Nelly Furtado,10
+2008-07,Paulina Rubio,8
+2008-07,Shakira,65
+2008-07,Snow Patrol,37
+2008-07,Thalía,22
+2008-07,The Black Eyed Peas,15
+2008-08,Alejandro Sanz,3
+2008-08,Avril Lavigne,6
+2008-08,Belanova,24
+2008-08,Belinda,4
+2008-08,Beyoncé,4
+2008-08,Christina Aguilera,20
+2008-08,Depeche Mode,15
+2008-08,Fergie,6
+2008-08,Gloria Trevi,9
+2008-08,Gwen Stefani,4
+2008-08,Ha-Ash,41
+2008-08,James Blunt,3
+2008-08,La Oreja De Van Gogh,27
+2008-08,La Quinta Estación,14
+2008-08,Nelly Furtado,4
+2008-08,Paulina Rubio,16
+2008-08,Shakira,58
+2008-08,Snow Patrol,27
+2008-08,Thalía,17
+2008-08,The Black Eyed Peas,74
+2008-09,Alejandro Sanz,0
+2008-09,Avril Lavigne,13
+2008-09,Belanova,24
+2008-09,Belinda,9
+2008-09,Beyoncé,4
+2008-09,Christina Aguilera,49
+2008-09,Depeche Mode,12
+2008-09,Fergie,17
+2008-09,Gloria Trevi,15
+2008-09,Gwen Stefani,13
+2008-09,Ha-Ash,44
+2008-09,James Blunt,5
+2008-09,La Oreja De Van Gogh,24
+2008-09,La Quinta Estación,2
+2008-09,Nelly Furtado,11
+2008-09,Paulina Rubio,7
+2008-09,Shakira,56
+2008-09,Snow Patrol,47
+2008-09,Thalía,9
+2008-09,The Black Eyed Peas,39
+2008-10,Alejandro Sanz,5
+2008-10,Avril Lavigne,30
+2008-10,Belanova,28
+2008-10,Belinda,6
+2008-10,Beyoncé,22
+2008-10,Christina Aguilera,45
+2008-10,Depeche Mode,36
+2008-10,Fergie,10
+2008-10,Gloria Trevi,12
+2008-10,Gwen Stefani,6
+2008-10,Ha-Ash,35
+2008-10,James Blunt,19
+2008-10,La Oreja De Van Gogh,25
+2008-10,La Quinta Estación,17
+2008-10,Nelly Furtado,24
+2008-10,Paulina Rubio,8
+2008-10,Shakira,53
+2008-10,Snow Patrol,46
+2008-10,Thalía,19
+2008-10,The Black Eyed Peas,36
+2008-11,Alejandro Sanz,8
+2008-11,Avril Lavigne,15
+2008-11,Belanova,29
+2008-11,Belinda,7
+2008-11,Beyoncé,28
+2008-11,Christina Aguilera,35
+2008-11,Depeche Mode,22
+2008-11,Fergie,6
+2008-11,Gloria Trevi,12
+2008-11,Gwen Stefani,8
+2008-11,Ha-Ash,25
+2008-11,James Blunt,21
+2008-11,La Oreja De Van Gogh,15
+2008-11,La Quinta Estación,7
+2008-11,Nelly Furtado,6
+2008-11,Paulina Rubio,11
+2008-11,Shakira,39
+2008-11,Snow Patrol,41
+2008-11,Thalía,13
+2008-11,The Black Eyed Peas,28
+2008-12,Alejandro Sanz,8
+2008-12,Avril Lavigne,10
+2008-12,Belanova,28
+2008-12,Belinda,6
+2008-12,Beyoncé,38
+2008-12,Christina Aguilera,20
+2008-12,Depeche Mode,11
+2008-12,Fergie,8
+2008-12,Gloria Trevi,12
+2008-12,Gwen Stefani,5
+2008-12,Ha-Ash,33
+2008-12,James Blunt,8
+2008-12,La Oreja De Van Gogh,21
+2008-12,La Quinta Estación,4
+2008-12,Nelly Furtado,6
+2008-12,Paulina Rubio,6
+2008-12,Shakira,33
+2008-12,Snow Patrol,43
+2008-12,Thalía,6
+2008-12,The Black Eyed Peas,14
+2009-01,Alejandro Sanz,4
+2009-01,Avril Lavigne,12
+2009-01,Belanova,23
+2009-01,Belinda,6
+2009-01,Beyoncé,49
+2009-01,Christina Aguilera,25
+2009-01,Depeche Mode,12
+2009-01,Fergie,8
+2009-01,Gloria Trevi,11
+2009-01,Gwen Stefani,12
+2009-01,Ha-Ash,35
+2009-01,James Blunt,7
+2009-01,La Oreja De Van Gogh,40
+2009-01,La Quinta Estación,11
+2009-01,Nelly Furtado,8
+2009-01,Paulina Rubio,10
+2009-01,Shakira,45
+2009-01,Snow Patrol,44
+2009-01,Thalía,11
+2009-01,The Black Eyed Peas,24
+2009-02,Alejandro Sanz,2
+2009-02,Avril Lavigne,8
+2009-02,Belanova,4
+2009-02,Belinda,9
+2009-02,Beyoncé,29
+2009-02,Christina Aguilera,14
+2009-02,Depeche Mode,17
+2009-02,Fergie,10
+2009-02,Gloria Trevi,7
+2009-02,Gwen Stefani,8
+2009-02,Ha-Ash,16
+2009-02,James Blunt,6
+2009-02,La Oreja De Van Gogh,40
+2009-02,La Quinta Estación,20
+2009-02,Nelly Furtado,10
+2009-02,Paulina Rubio,10
+2009-02,Shakira,23
+2009-02,Snow Patrol,27
+2009-02,Thalía,8
+2009-02,The Black Eyed Peas,13
+2009-03,Alejandro Sanz,4
+2009-03,Avril Lavigne,9
+2009-03,Belanova,15
+2009-03,Belinda,5
+2009-03,Beyoncé,7
+2009-03,Christina Aguilera,26
+2009-03,Depeche Mode,28
+2009-03,Fergie,6
+2009-03,Gloria Trevi,29
+2009-03,Gwen Stefani,9
+2009-03,Ha-Ash,15
+2009-03,James Blunt,7
+2009-03,La Oreja De Van Gogh,29
+2009-03,La Quinta Estación,32
+2009-03,Nelly Furtado,8
+2009-03,Paulina Rubio,11
+2009-03,Shakira,35
+2009-03,Snow Patrol,26
+2009-03,Thalía,6
+2009-03,The Black Eyed Peas,15
+2009-04,Alejandro Sanz,4
+2009-04,Avril Lavigne,6
+2009-04,Belanova,7
+2009-04,Belinda,3
+2009-04,Beyoncé,7
+2009-04,Christina Aguilera,12
+2009-04,Depeche Mode,40
+2009-04,Fergie,3
+2009-04,Gloria Trevi,25
+2009-04,Gwen Stefani,3
+2009-04,Ha-Ash,6
+2009-04,James Blunt,3
+2009-04,La Oreja De Van Gogh,14
+2009-04,La Quinta Estación,20
+2009-04,Nelly Furtado,7
+2009-04,Paulina Rubio,6
+2009-04,Shakira,20
+2009-04,Snow Patrol,14
+2009-04,Thalía,9
+2009-04,The Black Eyed Peas,22
+2009-05,Alejandro Sanz,5
+2009-05,Avril Lavigne,4
+2009-05,Belanova,9
+2009-05,Belinda,3
+2009-05,Beyoncé,3
+2009-05,Christina Aguilera,8
+2009-05,Depeche Mode,47
+2009-05,Fergie,11
+2009-05,Gloria Trevi,12
+2009-05,Gwen Stefani,4
+2009-05,Ha-Ash,13
+2009-05,James Blunt,7
+2009-05,La Oreja De Van Gogh,3
+2009-05,La Quinta Estación,1
+2009-05,Nelly Furtado,2
+2009-05,Paulina Rubio,17
+2009-05,Shakira,34
+2009-05,Snow Patrol,32
+2009-05,Thalía,9
+2009-05,The Black Eyed Peas,37
+2009-06,Alejandro Sanz,5
+2009-06,Avril Lavigne,1
+2009-06,Belanova,3
+2009-06,Belinda,1
+2009-06,Beyoncé,1
+2009-06,Christina Aguilera,6
+2009-06,Depeche Mode,7
+2009-06,Fergie,1
+2009-06,Gloria Trevi,1
+2009-06,Gwen Stefani,1
+2009-06,Ha-Ash,5
+2009-06,James Blunt,1
+2009-06,La Oreja De Van Gogh,4
+2009-06,La Quinta Estación,2
+2009-06,Nelly Furtado,3
+2009-06,Paulina Rubio,5
+2009-06,Shakira,10
+2009-06,Snow Patrol,4
+2009-06,Thalía,2
+2009-06,The Black Eyed Peas,49

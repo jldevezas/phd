@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Ac/Dc,0
+2006-02,Avail,0
+2006-02,Bad Brains,5
+2006-02,Black Sabbath,1
+2006-02,Cannibal Corpse,0
+2006-02,Carcass,4
+2006-02,Crowbar,0
+2006-02,Dozer,0
+2006-02,Fugazi,0
+2006-02,Hammerfall,1
+2006-02,Into Another,0
+2006-02,Isis,5
+2006-02,Kyuss,4
+2006-02,Lair Of The Minotaur,0
+2006-02,Manowar,0
+2006-02,Mastodon,6
+2006-02,Metallica,5
+2006-02,Morbid Angel,10
+2006-02,Neurosis,9
+2006-02,Quicksand,0
+2006-03,Ac/Dc,17
+2006-03,Avail,0
+2006-03,Bad Brains,0
+2006-03,Black Sabbath,61
+2006-03,Cannibal Corpse,14
+2006-03,Carcass,2
+2006-03,Crowbar,54
+2006-03,Dozer,45
+2006-03,Fugazi,1
+2006-03,Hammerfall,1
+2006-03,Into Another,0
+2006-03,Isis,1
+2006-03,Kyuss,50
+2006-03,Lair Of The Minotaur,6
+2006-03,Manowar,2
+2006-03,Mastodon,0
+2006-03,Metallica,0
+2006-03,Morbid Angel,0
+2006-03,Neurosis,4
+2006-03,Quicksand,1
+2006-04,Ac/Dc,5
+2006-04,Avail,17
+2006-04,Bad Brains,0
+2006-04,Black Sabbath,3
+2006-04,Cannibal Corpse,19
+2006-04,Carcass,16
+2006-04,Crowbar,1
+2006-04,Dozer,0
+2006-04,Fugazi,1
+2006-04,Hammerfall,1
+2006-04,Into Another,0
+2006-04,Isis,2
+2006-04,Kyuss,0
+2006-04,Lair Of The Minotaur,3
+2006-04,Manowar,0
+2006-04,Mastodon,0
+2006-04,Metallica,63
+2006-04,Morbid Angel,6
+2006-04,Neurosis,3
+2006-04,Quicksand,20
+2006-05,Ac/Dc,0
+2006-05,Avail,21
+2006-05,Bad Brains,1
+2006-05,Black Sabbath,9
+2006-05,Cannibal Corpse,0
+2006-05,Carcass,1
+2006-05,Crowbar,0
+2006-05,Dozer,1
+2006-05,Fugazi,2
+2006-05,Hammerfall,0
+2006-05,Into Another,1
+2006-05,Isis,5
+2006-05,Kyuss,2
+2006-05,Lair Of The Minotaur,40
+2006-05,Manowar,8
+2006-05,Mastodon,3
+2006-05,Metallica,0
+2006-05,Morbid Angel,13
+2006-05,Neurosis,0
+2006-05,Quicksand,22
+2006-06,Ac/Dc,1
+2006-06,Avail,0
+2006-06,Bad Brains,26
+2006-06,Black Sabbath,3
+2006-06,Cannibal Corpse,0
+2006-06,Carcass,1
+2006-06,Crowbar,1
+2006-06,Dozer,3
+2006-06,Fugazi,2
+2006-06,Hammerfall,1
+2006-06,Into Another,1
+2006-06,Isis,4
+2006-06,Kyuss,2
+2006-06,Lair Of The Minotaur,1
+2006-06,Manowar,12
+2006-06,Mastodon,0
+2006-06,Metallica,5
+2006-06,Morbid Angel,16
+2006-06,Neurosis,0
+2006-06,Quicksand,1
+2006-07,Ac/Dc,14
+2006-07,Avail,2
+2006-07,Bad Brains,16
+2006-07,Black Sabbath,5
+2006-07,Cannibal Corpse,31
+2006-07,Carcass,10
+2006-07,Crowbar,0
+2006-07,Dozer,6
+2006-07,Fugazi,4
+2006-07,Hammerfall,1
+2006-07,Into Another,2
+2006-07,Isis,0
+2006-07,Kyuss,3
+2006-07,Lair Of The Minotaur,1
+2006-07,Manowar,2
+2006-07,Mastodon,24
+2006-07,Metallica,3
+2006-07,Morbid Angel,1
+2006-07,Neurosis,1
+2006-07,Quicksand,2
+2006-08,Ac/Dc,17
+2006-08,Avail,3
+2006-08,Bad Brains,4
+2006-08,Black Sabbath,5
+2006-08,Cannibal Corpse,5
+2006-08,Carcass,0
+2006-08,Crowbar,6
+2006-08,Dozer,4
+2006-08,Fugazi,10
+2006-08,Hammerfall,5
+2006-08,Into Another,4
+2006-08,Isis,23
+2006-08,Kyuss,3
+2006-08,Lair Of The Minotaur,1
+2006-08,Manowar,5
+2006-08,Mastodon,13
+2006-08,Metallica,8
+2006-08,Morbid Angel,0
+2006-08,Neurosis,0
+2006-08,Quicksand,5
+2006-09,Ac/Dc,1
+2006-09,Avail,2
+2006-09,Bad Brains,1
+2006-09,Black Sabbath,1
+2006-09,Cannibal Corpse,1
+2006-09,Carcass,0
+2006-09,Crowbar,1
+2006-09,Dozer,0
+2006-09,Fugazi,7
+2006-09,Hammerfall,1
+2006-09,Into Another,3
+2006-09,Isis,11
+2006-09,Kyuss,1
+2006-09,Lair Of The Minotaur,1
+2006-09,Manowar,2
+2006-09,Mastodon,49
+2006-09,Metallica,0
+2006-09,Morbid Angel,1
+2006-09,Neurosis,2
+2006-09,Quicksand,2
+2006-10,Ac/Dc,3
+2006-10,Avail,1
+2006-10,Bad Brains,2
+2006-10,Black Sabbath,2
+2006-10,Cannibal Corpse,3
+2006-10,Carcass,0
+2006-10,Crowbar,3
+2006-10,Dozer,11
+2006-10,Fugazi,2
+2006-10,Hammerfall,12
+2006-10,Into Another,2
+2006-10,Isis,1
+2006-10,Kyuss,0
+2006-10,Lair Of The Minotaur,2
+2006-10,Manowar,1
+2006-10,Mastodon,7
+2006-10,Metallica,1
+2006-10,Morbid Angel,1
+2006-10,Neurosis,4
+2006-10,Quicksand,2
+2006-11,Ac/Dc,4
+2006-11,Avail,3
+2006-11,Bad Brains,5
+2006-11,Black Sabbath,21
+2006-11,Cannibal Corpse,5
+2006-11,Carcass,4
+2006-11,Crowbar,50
+2006-11,Dozer,20
+2006-11,Fugazi,12
+2006-11,Hammerfall,6
+2006-11,Into Another,3
+2006-11,Isis,5
+2006-11,Kyuss,30
+2006-11,Lair Of The Minotaur,0
+2006-11,Manowar,38
+2006-11,Mastodon,7
+2006-11,Metallica,7
+2006-11,Morbid Angel,2
+2006-11,Neurosis,4
+2006-11,Quicksand,2
+2006-12,Ac/Dc,2
+2006-12,Avail,8
+2006-12,Bad Brains,6
+2006-12,Black Sabbath,26
+2006-12,Cannibal Corpse,2
+2006-12,Carcass,1
+2006-12,Crowbar,3
+2006-12,Dozer,8
+2006-12,Fugazi,9
+2006-12,Hammerfall,7
+2006-12,Into Another,13
+2006-12,Isis,3
+2006-12,Kyuss,19
+2006-12,Lair Of The Minotaur,0
+2006-12,Manowar,7
+2006-12,Mastodon,6
+2006-12,Metallica,7
+2006-12,Morbid Angel,0
+2006-12,Neurosis,2
+2006-12,Quicksand,4
+2007-01,Ac/Dc,1
+2007-01,Avail,3
+2007-01,Bad Brains,5
+2007-01,Black Sabbath,5
+2007-01,Cannibal Corpse,3
+2007-01,Carcass,3
+2007-01,Crowbar,12
+2007-01,Dozer,4
+2007-01,Fugazi,0
+2007-01,Hammerfall,14
+2007-01,Into Another,1
+2007-01,Isis,18
+2007-01,Kyuss,8
+2007-01,Lair Of The Minotaur,3
+2007-01,Manowar,7
+2007-01,Mastodon,1
+2007-01,Metallica,7
+2007-01,Morbid Angel,4
+2007-01,Neurosis,2
+2007-01,Quicksand,7
+2007-02,Ac/Dc,2
+2007-02,Avail,5
+2007-02,Bad Brains,1
+2007-02,Black Sabbath,9
+2007-02,Cannibal Corpse,17
+2007-02,Carcass,2
+2007-02,Crowbar,6
+2007-02,Dozer,6
+2007-02,Fugazi,1
+2007-02,Hammerfall,1
+2007-02,Into Another,2
+2007-02,Isis,4
+2007-02,Kyuss,4
+2007-02,Lair Of The Minotaur,2
+2007-02,Manowar,3
+2007-02,Mastodon,3
+2007-02,Metallica,3
+2007-02,Morbid Angel,2
+2007-02,Neurosis,2
+2007-02,Quicksand,1
+2007-03,Ac/Dc,4
+2007-03,Avail,3
+2007-03,Bad Brains,5
+2007-03,Black Sabbath,10
+2007-03,Cannibal Corpse,25
+2007-03,Carcass,3
+2007-03,Crowbar,7
+2007-03,Dozer,9
+2007-03,Fugazi,5
+2007-03,Hammerfall,2
+2007-03,Into Another,8
+2007-03,Isis,4
+2007-03,Kyuss,15
+2007-03,Lair Of The Minotaur,3
+2007-03,Manowar,51
+2007-03,Mastodon,6
+2007-03,Metallica,16
+2007-03,Morbid Angel,5
+2007-03,Neurosis,7
+2007-03,Quicksand,0
+2007-04,Ac/Dc,5
+2007-04,Avail,4
+2007-04,Bad Brains,3
+2007-04,Black Sabbath,6
+2007-04,Cannibal Corpse,5
+2007-04,Carcass,7
+2007-04,Crowbar,2
+2007-04,Dozer,11
+2007-04,Fugazi,15
+2007-04,Hammerfall,0
+2007-04,Into Another,9
+2007-04,Isis,3
+2007-04,Kyuss,4
+2007-04,Lair Of The Minotaur,2
+2007-04,Manowar,10
+2007-04,Mastodon,2
+2007-04,Metallica,9
+2007-04,Morbid Angel,5
+2007-04,Neurosis,5
+2007-04,Quicksand,5
+2007-05,Ac/Dc,3
+2007-05,Avail,5
+2007-05,Bad Brains,8
+2007-05,Black Sabbath,4
+2007-05,Cannibal Corpse,24
+2007-05,Carcass,1
+2007-05,Crowbar,1
+2007-05,Dozer,4
+2007-05,Fugazi,6
+2007-05,Hammerfall,1
+2007-05,Into Another,3
+2007-05,Isis,2
+2007-05,Kyuss,8
+2007-05,Lair Of The Minotaur,5
+2007-05,Manowar,3
+2007-05,Mastodon,3
+2007-05,Metallica,4
+2007-05,Morbid Angel,4
+2007-05,Neurosis,3
+2007-05,Quicksand,4
+2007-06,Ac/Dc,3
+2007-06,Avail,6
+2007-06,Bad Brains,7
+2007-06,Black Sabbath,21
+2007-06,Cannibal Corpse,11
+2007-06,Carcass,2
+2007-06,Crowbar,6
+2007-06,Dozer,9
+2007-06,Fugazi,5
+2007-06,Hammerfall,3
+2007-06,Into Another,7
+2007-06,Isis,0
+2007-06,Kyuss,6
+2007-06,Lair Of The Minotaur,1
+2007-06,Manowar,10
+2007-06,Mastodon,2
+2007-06,Metallica,3
+2007-06,Morbid Angel,1
+2007-06,Neurosis,1
+2007-06,Quicksand,5
+2007-07,Ac/Dc,3
+2007-07,Avail,6
+2007-07,Bad Brains,21
+2007-07,Black Sabbath,7
+2007-07,Cannibal Corpse,7
+2007-07,Carcass,4
+2007-07,Crowbar,9
+2007-07,Dozer,5
+2007-07,Fugazi,2
+2007-07,Hammerfall,1
+2007-07,Into Another,4
+2007-07,Isis,3
+2007-07,Kyuss,11
+2007-07,Lair Of The Minotaur,2
+2007-07,Manowar,2
+2007-07,Mastodon,4
+2007-07,Metallica,10
+2007-07,Morbid Angel,5
+2007-07,Neurosis,3
+2007-07,Quicksand,2
+2007-08,Ac/Dc,4
+2007-08,Avail,6
+2007-08,Bad Brains,11
+2007-08,Black Sabbath,11
+2007-08,Cannibal Corpse,8
+2007-08,Carcass,12
+2007-08,Crowbar,14
+2007-08,Dozer,11
+2007-08,Fugazi,9
+2007-08,Hammerfall,2
+2007-08,Into Another,6
+2007-08,Isis,3
+2007-08,Kyuss,6
+2007-08,Lair Of The Minotaur,1
+2007-08,Manowar,8
+2007-08,Mastodon,7
+2007-08,Metallica,7
+2007-08,Morbid Angel,10
+2007-08,Neurosis,3
+2007-08,Quicksand,4
+2007-09,Ac/Dc,6
+2007-09,Avail,4
+2007-09,Bad Brains,10
+2007-09,Black Sabbath,13
+2007-09,Cannibal Corpse,21
+2007-09,Carcass,13
+2007-09,Crowbar,15
+2007-09,Dozer,7
+2007-09,Fugazi,9
+2007-09,Hammerfall,4
+2007-09,Into Another,6
+2007-09,Isis,3
+2007-09,Kyuss,7
+2007-09,Lair Of The Minotaur,3
+2007-09,Manowar,13
+2007-09,Mastodon,10
+2007-09,Metallica,19
+2007-09,Morbid Angel,16
+2007-09,Neurosis,6
+2007-09,Quicksand,10
+2007-10,Ac/Dc,3
+2007-10,Avail,6
+2007-10,Bad Brains,4
+2007-10,Black Sabbath,5
+2007-10,Cannibal Corpse,9
+2007-10,Carcass,2
+2007-10,Crowbar,2
+2007-10,Dozer,6
+2007-10,Fugazi,3
+2007-10,Hammerfall,1
+2007-10,Into Another,5
+2007-10,Isis,1
+2007-10,Kyuss,15
+2007-10,Lair Of The Minotaur,1
+2007-10,Manowar,14
+2007-10,Mastodon,5
+2007-10,Metallica,6
+2007-10,Morbid Angel,7
+2007-10,Neurosis,3
+2007-10,Quicksand,4
+2007-11,Ac/Dc,0
+2007-11,Avail,2
+2007-11,Bad Brains,3
+2007-11,Black Sabbath,4
+2007-11,Cannibal Corpse,5
+2007-11,Carcass,5
+2007-11,Crowbar,1
+2007-11,Dozer,6
+2007-11,Fugazi,4
+2007-11,Hammerfall,2
+2007-11,Into Another,3
+2007-11,Isis,2
+2007-11,Kyuss,3
+2007-11,Lair Of The Minotaur,2
+2007-11,Manowar,3
+2007-11,Mastodon,5
+2007-11,Metallica,1
+2007-11,Morbid Angel,14
+2007-11,Neurosis,2
+2007-11,Quicksand,4
+2007-12,Ac/Dc,5
+2007-12,Avail,2
+2007-12,Bad Brains,1
+2007-12,Black Sabbath,6
+2007-12,Cannibal Corpse,9
+2007-12,Carcass,16
+2007-12,Crowbar,16
+2007-12,Dozer,12
+2007-12,Fugazi,10
+2007-12,Hammerfall,4
+2007-12,Into Another,7
+2007-12,Isis,2
+2007-12,Kyuss,5
+2007-12,Lair Of The Minotaur,1
+2007-12,Manowar,5
+2007-12,Mastodon,7
+2007-12,Metallica,6
+2007-12,Morbid Angel,8
+2007-12,Neurosis,3
+2007-12,Quicksand,6
+2008-01,Ac/Dc,20
+2008-01,Avail,2
+2008-01,Bad Brains,3
+2008-01,Black Sabbath,7
+2008-01,Cannibal Corpse,6
+2008-01,Carcass,7
+2008-01,Crowbar,4
+2008-01,Dozer,9
+2008-01,Fugazi,6
+2008-01,Hammerfall,2
+2008-01,Into Another,5
+2008-01,Isis,5
+2008-01,Kyuss,3
+2008-01,Lair Of The Minotaur,5
+2008-01,Manowar,3
+2008-01,Mastodon,7
+2008-01,Metallica,5
+2008-01,Morbid Angel,11
+2008-01,Neurosis,14
+2008-01,Quicksand,4
+2008-02,Ac/Dc,5
+2008-02,Avail,5
+2008-02,Bad Brains,5
+2008-02,Black Sabbath,7
+2008-02,Cannibal Corpse,16
+2008-02,Carcass,14
+2008-02,Crowbar,3
+2008-02,Dozer,7
+2008-02,Fugazi,9
+2008-02,Hammerfall,2
+2008-02,Into Another,5
+2008-02,Isis,1
+2008-02,Kyuss,10
+2008-02,Lair Of The Minotaur,1
+2008-02,Manowar,7
+2008-02,Mastodon,6
+2008-02,Metallica,12
+2008-02,Morbid Angel,8
+2008-02,Neurosis,5
+2008-02,Quicksand,3
+2008-03,Ac/Dc,7
+2008-03,Avail,1
+2008-03,Bad Brains,5
+2008-03,Black Sabbath,7
+2008-03,Cannibal Corpse,10
+2008-03,Carcass,7
+2008-03,Crowbar,4
+2008-03,Dozer,5
+2008-03,Fugazi,8
+2008-03,Hammerfall,2
+2008-03,Into Another,6
+2008-03,Isis,7
+2008-03,Kyuss,7
+2008-03,Lair Of The Minotaur,9
+2008-03,Manowar,4
+2008-03,Mastodon,6
+2008-03,Metallica,12
+2008-03,Morbid Angel,4
+2008-03,Neurosis,5
+2008-03,Quicksand,3
+2008-04,Ac/Dc,3
+2008-04,Avail,3
+2008-04,Bad Brains,2
+2008-04,Black Sabbath,6
+2008-04,Cannibal Corpse,6
+2008-04,Carcass,9
+2008-04,Crowbar,8
+2008-04,Dozer,16
+2008-04,Fugazi,2
+2008-04,Hammerfall,1
+2008-04,Into Another,2
+2008-04,Isis,1
+2008-04,Kyuss,4
+2008-04,Lair Of The Minotaur,20
+2008-04,Manowar,4
+2008-04,Mastodon,4
+2008-04,Metallica,12
+2008-04,Morbid Angel,5
+2008-04,Neurosis,6
+2008-04,Quicksand,4
+2008-05,Ac/Dc,4
+2008-05,Avail,6
+2008-05,Bad Brains,3
+2008-05,Black Sabbath,10
+2008-05,Cannibal Corpse,13
+2008-05,Carcass,6
+2008-05,Crowbar,4
+2008-05,Dozer,9
+2008-05,Fugazi,10
+2008-05,Hammerfall,2
+2008-05,Into Another,4
+2008-05,Isis,2
+2008-05,Kyuss,16
+2008-05,Lair Of The Minotaur,9
+2008-05,Manowar,10
+2008-05,Mastodon,3
+2008-05,Metallica,14
+2008-05,Morbid Angel,7
+2008-05,Neurosis,4
+2008-05,Quicksand,6
+2008-06,Ac/Dc,2
+2008-06,Avail,4
+2008-06,Bad Brains,3
+2008-06,Black Sabbath,5
+2008-06,Cannibal Corpse,7
+2008-06,Carcass,6
+2008-06,Crowbar,5
+2008-06,Dozer,5
+2008-06,Fugazi,3
+2008-06,Hammerfall,1
+2008-06,Into Another,4
+2008-06,Isis,1
+2008-06,Kyuss,7
+2008-06,Lair Of The Minotaur,7
+2008-06,Manowar,0
+2008-06,Mastodon,3
+2008-06,Metallica,1
+2008-06,Morbid Angel,9
+2008-06,Neurosis,3
+2008-06,Quicksand,2
+2008-07,Ac/Dc,14
+2008-07,Avail,4
+2008-07,Bad Brains,3
+2008-07,Black Sabbath,11
+2008-07,Cannibal Corpse,7
+2008-07,Carcass,7
+2008-07,Crowbar,8
+2008-07,Dozer,10
+2008-07,Fugazi,3
+2008-07,Hammerfall,2
+2008-07,Into Another,2
+2008-07,Isis,7
+2008-07,Kyuss,1
+2008-07,Lair Of The Minotaur,4
+2008-07,Manowar,3
+2008-07,Mastodon,7
+2008-07,Metallica,4
+2008-07,Morbid Angel,6
+2008-07,Neurosis,2
+2008-07,Quicksand,6
+2008-08,Ac/Dc,6
+2008-08,Avail,3
+2008-08,Bad Brains,3
+2008-08,Black Sabbath,5
+2008-08,Cannibal Corpse,10
+2008-08,Carcass,6
+2008-08,Crowbar,5
+2008-08,Dozer,7
+2008-08,Fugazi,4
+2008-08,Hammerfall,1
+2008-08,Into Another,2
+2008-08,Isis,2
+2008-08,Kyuss,12
+2008-08,Lair Of The Minotaur,3
+2008-08,Manowar,2
+2008-08,Mastodon,4
+2008-08,Metallica,10
+2008-08,Morbid Angel,13
+2008-08,Neurosis,9
+2008-08,Quicksand,7
+2008-09,Ac/Dc,3
+2008-09,Avail,4
+2008-09,Bad Brains,5
+2008-09,Black Sabbath,7
+2008-09,Cannibal Corpse,4
+2008-09,Carcass,21
+2008-09,Crowbar,7
+2008-09,Dozer,6
+2008-09,Fugazi,2
+2008-09,Hammerfall,2
+2008-09,Into Another,5
+2008-09,Isis,1
+2008-09,Kyuss,8
+2008-09,Lair Of The Minotaur,1
+2008-09,Manowar,2
+2008-09,Mastodon,6
+2008-09,Metallica,16
+2008-09,Morbid Angel,8
+2008-09,Neurosis,4
+2008-09,Quicksand,1
+2008-10,Ac/Dc,6
+2008-10,Avail,6
+2008-10,Bad Brains,6
+2008-10,Black Sabbath,9
+2008-10,Cannibal Corpse,13
+2008-10,Carcass,4
+2008-10,Crowbar,2
+2008-10,Dozer,2
+2008-10,Fugazi,3
+2008-10,Hammerfall,3
+2008-10,Into Another,7
+2008-10,Isis,3
+2008-10,Kyuss,12
+2008-10,Lair Of The Minotaur,5
+2008-10,Manowar,3
+2008-10,Mastodon,6
+2008-10,Metallica,8
+2008-10,Morbid Angel,4
+2008-10,Neurosis,9
+2008-10,Quicksand,4
+2008-11,Ac/Dc,5
+2008-11,Avail,3
+2008-11,Bad Brains,1
+2008-11,Black Sabbath,8
+2008-11,Cannibal Corpse,5
+2008-11,Carcass,7
+2008-11,Crowbar,3
+2008-11,Dozer,3
+2008-11,Fugazi,3
+2008-11,Hammerfall,4
+2008-11,Into Another,3
+2008-11,Isis,4
+2008-11,Kyuss,7
+2008-11,Lair Of The Minotaur,5
+2008-11,Manowar,2
+2008-11,Mastodon,6
+2008-11,Metallica,6
+2008-11,Morbid Angel,8
+2008-11,Neurosis,7
+2008-11,Quicksand,3
+2008-12,Ac/Dc,25
+2008-12,Avail,1
+2008-12,Bad Brains,3
+2008-12,Black Sabbath,13
+2008-12,Cannibal Corpse,12
+2008-12,Carcass,8
+2008-12,Crowbar,4
+2008-12,Dozer,7
+2008-12,Fugazi,2
+2008-12,Hammerfall,2
+2008-12,Into Another,5
+2008-12,Isis,4
+2008-12,Kyuss,10
+2008-12,Lair Of The Minotaur,5
+2008-12,Manowar,3
+2008-12,Mastodon,8
+2008-12,Metallica,4
+2008-12,Morbid Angel,3
+2008-12,Neurosis,6
+2008-12,Quicksand,2
+2009-01,Ac/Dc,8
+2009-01,Avail,3
+2009-01,Bad Brains,2
+2009-01,Black Sabbath,5
+2009-01,Cannibal Corpse,6
+2009-01,Carcass,8
+2009-01,Crowbar,5
+2009-01,Dozer,39
+2009-01,Fugazi,3
+2009-01,Hammerfall,2
+2009-01,Into Another,4
+2009-01,Isis,6
+2009-01,Kyuss,7
+2009-01,Lair Of The Minotaur,2
+2009-01,Manowar,3
+2009-01,Mastodon,7
+2009-01,Metallica,4
+2009-01,Morbid Angel,9
+2009-01,Neurosis,6
+2009-01,Quicksand,3
+2009-02,Ac/Dc,8
+2009-02,Avail,6
+2009-02,Bad Brains,3
+2009-02,Black Sabbath,6
+2009-02,Cannibal Corpse,9
+2009-02,Carcass,3
+2009-02,Crowbar,5
+2009-02,Dozer,9
+2009-02,Fugazi,4
+2009-02,Hammerfall,1
+2009-02,Into Another,3
+2009-02,Isis,4
+2009-02,Kyuss,10
+2009-02,Lair Of The Minotaur,1
+2009-02,Manowar,2
+2009-02,Mastodon,3
+2009-02,Metallica,21
+2009-02,Morbid Angel,8
+2009-02,Neurosis,2
+2009-02,Quicksand,1
+2009-03,Ac/Dc,8
+2009-03,Avail,3
+2009-03,Bad Brains,2
+2009-03,Black Sabbath,4
+2009-03,Cannibal Corpse,32
+2009-03,Carcass,6
+2009-03,Crowbar,5
+2009-03,Dozer,8
+2009-03,Fugazi,2
+2009-03,Hammerfall,2
+2009-03,Into Another,4
+2009-03,Isis,16
+2009-03,Kyuss,5
+2009-03,Lair Of The Minotaur,3
+2009-03,Manowar,1
+2009-03,Mastodon,35
+2009-03,Metallica,10
+2009-03,Morbid Angel,9
+2009-03,Neurosis,2
+2009-03,Quicksand,5
+2009-04,Ac/Dc,3
+2009-04,Avail,2
+2009-04,Bad Brains,1
+2009-04,Black Sabbath,7
+2009-04,Cannibal Corpse,3
+2009-04,Carcass,3
+2009-04,Crowbar,4
+2009-04,Dozer,4
+2009-04,Fugazi,2
+2009-04,Hammerfall,1
+2009-04,Into Another,2
+2009-04,Isis,5
+2009-04,Kyuss,11
+2009-04,Lair Of The Minotaur,1
+2009-04,Manowar,2
+2009-04,Mastodon,9
+2009-04,Metallica,14
+2009-04,Morbid Angel,3
+2009-04,Neurosis,3
+2009-04,Quicksand,3

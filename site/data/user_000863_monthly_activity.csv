@@ -1,0 +1,981 @@
+month,artist,plays
+2005-03,Amon Tobin,0
+2005-03,Boards Of Canada,0
+2005-03,Bonobo,0
+2005-03,Cat Power,0
+2005-03,Curtis Mayfield,1
+2005-03,Elliott Smith,1
+2005-03,Feist,0
+2005-03,Fila Brazillia,0
+2005-03,Gorillaz,0
+2005-03,Joni Mitchell,1
+2005-03,Kruder & Dorfmeister,0
+2005-03,Lamb,0
+2005-03,Leonard Cohen,2
+2005-03,Lucinda Williams,0
+2005-03,Massive Attack,0
+2005-03,Morcheeba,0
+2005-03,Pj Harvey,0
+2005-03,Portishead,0
+2005-03,Tricky,0
+2005-03,Zero 7,0
+2005-04,Amon Tobin,0
+2005-04,Boards Of Canada,0
+2005-04,Bonobo,0
+2005-04,Cat Power,0
+2005-04,Curtis Mayfield,0
+2005-04,Elliott Smith,0
+2005-04,Feist,0
+2005-04,Fila Brazillia,0
+2005-04,Gorillaz,0
+2005-04,Joni Mitchell,0
+2005-04,Kruder & Dorfmeister,0
+2005-04,Lamb,0
+2005-04,Leonard Cohen,0
+2005-04,Lucinda Williams,0
+2005-04,Massive Attack,0
+2005-04,Morcheeba,0
+2005-04,Pj Harvey,0
+2005-04,Portishead,0
+2005-04,Tricky,0
+2005-04,Zero 7,0
+2005-05,Amon Tobin,0
+2005-05,Boards Of Canada,0
+2005-05,Bonobo,0
+2005-05,Cat Power,0
+2005-05,Curtis Mayfield,0
+2005-05,Elliott Smith,0
+2005-05,Feist,0
+2005-05,Fila Brazillia,0
+2005-05,Gorillaz,0
+2005-05,Joni Mitchell,0
+2005-05,Kruder & Dorfmeister,1
+2005-05,Lamb,1
+2005-05,Leonard Cohen,0
+2005-05,Lucinda Williams,0
+2005-05,Massive Attack,0
+2005-05,Morcheeba,0
+2005-05,Pj Harvey,0
+2005-05,Portishead,0
+2005-05,Tricky,0
+2005-05,Zero 7,0
+2005-06,Amon Tobin,0
+2005-06,Boards Of Canada,0
+2005-06,Bonobo,0
+2005-06,Cat Power,0
+2005-06,Curtis Mayfield,0
+2005-06,Elliott Smith,0
+2005-06,Feist,0
+2005-06,Fila Brazillia,0
+2005-06,Gorillaz,0
+2005-06,Joni Mitchell,0
+2005-06,Kruder & Dorfmeister,0
+2005-06,Lamb,0
+2005-06,Leonard Cohen,0
+2005-06,Lucinda Williams,0
+2005-06,Massive Attack,0
+2005-06,Morcheeba,0
+2005-06,Pj Harvey,0
+2005-06,Portishead,0
+2005-06,Tricky,0
+2005-06,Zero 7,0
+2005-07,Amon Tobin,0
+2005-07,Boards Of Canada,0
+2005-07,Bonobo,0
+2005-07,Cat Power,0
+2005-07,Curtis Mayfield,0
+2005-07,Elliott Smith,0
+2005-07,Feist,0
+2005-07,Fila Brazillia,0
+2005-07,Gorillaz,0
+2005-07,Joni Mitchell,0
+2005-07,Kruder & Dorfmeister,0
+2005-07,Lamb,0
+2005-07,Leonard Cohen,0
+2005-07,Lucinda Williams,0
+2005-07,Massive Attack,0
+2005-07,Morcheeba,0
+2005-07,Pj Harvey,0
+2005-07,Portishead,0
+2005-07,Tricky,0
+2005-07,Zero 7,0
+2005-08,Amon Tobin,0
+2005-08,Boards Of Canada,0
+2005-08,Bonobo,0
+2005-08,Cat Power,0
+2005-08,Curtis Mayfield,0
+2005-08,Elliott Smith,0
+2005-08,Feist,0
+2005-08,Fila Brazillia,0
+2005-08,Gorillaz,0
+2005-08,Joni Mitchell,0
+2005-08,Kruder & Dorfmeister,0
+2005-08,Lamb,0
+2005-08,Leonard Cohen,0
+2005-08,Lucinda Williams,0
+2005-08,Massive Attack,0
+2005-08,Morcheeba,0
+2005-08,Pj Harvey,0
+2005-08,Portishead,0
+2005-08,Tricky,0
+2005-08,Zero 7,0
+2005-09,Amon Tobin,0
+2005-09,Boards Of Canada,0
+2005-09,Bonobo,0
+2005-09,Cat Power,0
+2005-09,Curtis Mayfield,0
+2005-09,Elliott Smith,0
+2005-09,Feist,0
+2005-09,Fila Brazillia,0
+2005-09,Gorillaz,0
+2005-09,Joni Mitchell,0
+2005-09,Kruder & Dorfmeister,0
+2005-09,Lamb,0
+2005-09,Leonard Cohen,0
+2005-09,Lucinda Williams,0
+2005-09,Massive Attack,0
+2005-09,Morcheeba,0
+2005-09,Pj Harvey,0
+2005-09,Portishead,0
+2005-09,Tricky,0
+2005-09,Zero 7,0
+2005-10,Amon Tobin,0
+2005-10,Boards Of Canada,0
+2005-10,Bonobo,0
+2005-10,Cat Power,0
+2005-10,Curtis Mayfield,0
+2005-10,Elliott Smith,0
+2005-10,Feist,0
+2005-10,Fila Brazillia,0
+2005-10,Gorillaz,0
+2005-10,Joni Mitchell,0
+2005-10,Kruder & Dorfmeister,0
+2005-10,Lamb,0
+2005-10,Leonard Cohen,0
+2005-10,Lucinda Williams,0
+2005-10,Massive Attack,0
+2005-10,Morcheeba,0
+2005-10,Pj Harvey,0
+2005-10,Portishead,0
+2005-10,Tricky,0
+2005-10,Zero 7,0
+2005-11,Amon Tobin,0
+2005-11,Boards Of Canada,0
+2005-11,Bonobo,0
+2005-11,Cat Power,0
+2005-11,Curtis Mayfield,0
+2005-11,Elliott Smith,0
+2005-11,Feist,0
+2005-11,Fila Brazillia,0
+2005-11,Gorillaz,0
+2005-11,Joni Mitchell,0
+2005-11,Kruder & Dorfmeister,0
+2005-11,Lamb,0
+2005-11,Leonard Cohen,0
+2005-11,Lucinda Williams,0
+2005-11,Massive Attack,0
+2005-11,Morcheeba,0
+2005-11,Pj Harvey,0
+2005-11,Portishead,0
+2005-11,Tricky,0
+2005-11,Zero 7,0
+2005-12,Amon Tobin,0
+2005-12,Boards Of Canada,0
+2005-12,Bonobo,0
+2005-12,Cat Power,0
+2005-12,Curtis Mayfield,0
+2005-12,Elliott Smith,0
+2005-12,Feist,0
+2005-12,Fila Brazillia,0
+2005-12,Gorillaz,0
+2005-12,Joni Mitchell,0
+2005-12,Kruder & Dorfmeister,0
+2005-12,Lamb,0
+2005-12,Leonard Cohen,0
+2005-12,Lucinda Williams,0
+2005-12,Massive Attack,0
+2005-12,Morcheeba,0
+2005-12,Pj Harvey,0
+2005-12,Portishead,0
+2005-12,Tricky,0
+2005-12,Zero 7,0
+2006-01,Amon Tobin,1
+2006-01,Boards Of Canada,1
+2006-01,Bonobo,0
+2006-01,Cat Power,0
+2006-01,Curtis Mayfield,1
+2006-01,Elliott Smith,0
+2006-01,Feist,1
+2006-01,Fila Brazillia,1
+2006-01,Gorillaz,0
+2006-01,Joni Mitchell,0
+2006-01,Kruder & Dorfmeister,0
+2006-01,Lamb,1
+2006-01,Leonard Cohen,0
+2006-01,Lucinda Williams,1
+2006-01,Massive Attack,1
+2006-01,Morcheeba,0
+2006-01,Pj Harvey,0
+2006-01,Portishead,1
+2006-01,Tricky,1
+2006-01,Zero 7,1
+2006-02,Amon Tobin,0
+2006-02,Boards Of Canada,0
+2006-02,Bonobo,0
+2006-02,Cat Power,0
+2006-02,Curtis Mayfield,0
+2006-02,Elliott Smith,0
+2006-02,Feist,0
+2006-02,Fila Brazillia,0
+2006-02,Gorillaz,0
+2006-02,Joni Mitchell,0
+2006-02,Kruder & Dorfmeister,0
+2006-02,Lamb,0
+2006-02,Leonard Cohen,0
+2006-02,Lucinda Williams,0
+2006-02,Massive Attack,0
+2006-02,Morcheeba,0
+2006-02,Pj Harvey,0
+2006-02,Portishead,0
+2006-02,Tricky,0
+2006-02,Zero 7,0
+2006-03,Amon Tobin,5
+2006-03,Boards Of Canada,2
+2006-03,Bonobo,5
+2006-03,Cat Power,2
+2006-03,Curtis Mayfield,1
+2006-03,Elliott Smith,1
+2006-03,Feist,0
+2006-03,Fila Brazillia,4
+2006-03,Gorillaz,3
+2006-03,Joni Mitchell,1
+2006-03,Kruder & Dorfmeister,2
+2006-03,Lamb,5
+2006-03,Leonard Cohen,1
+2006-03,Lucinda Williams,0
+2006-03,Massive Attack,5
+2006-03,Morcheeba,5
+2006-03,Pj Harvey,3
+2006-03,Portishead,5
+2006-03,Tricky,4
+2006-03,Zero 7,5
+2006-04,Amon Tobin,1
+2006-04,Boards Of Canada,1
+2006-04,Bonobo,0
+2006-04,Cat Power,1
+2006-04,Curtis Mayfield,0
+2006-04,Elliott Smith,0
+2006-04,Feist,0
+2006-04,Fila Brazillia,1
+2006-04,Gorillaz,1
+2006-04,Joni Mitchell,0
+2006-04,Kruder & Dorfmeister,1
+2006-04,Lamb,0
+2006-04,Leonard Cohen,1
+2006-04,Lucinda Williams,1
+2006-04,Massive Attack,0
+2006-04,Morcheeba,1
+2006-04,Pj Harvey,1
+2006-04,Portishead,0
+2006-04,Tricky,1
+2006-04,Zero 7,1
+2006-05,Amon Tobin,4
+2006-05,Boards Of Canada,4
+2006-05,Bonobo,4
+2006-05,Cat Power,5
+2006-05,Curtis Mayfield,5
+2006-05,Elliott Smith,5
+2006-05,Feist,4
+2006-05,Fila Brazillia,4
+2006-05,Gorillaz,3
+2006-05,Joni Mitchell,5
+2006-05,Kruder & Dorfmeister,5
+2006-05,Lamb,3
+2006-05,Leonard Cohen,5
+2006-05,Lucinda Williams,4
+2006-05,Massive Attack,4
+2006-05,Morcheeba,4
+2006-05,Pj Harvey,5
+2006-05,Portishead,3
+2006-05,Tricky,5
+2006-05,Zero 7,5
+2006-06,Amon Tobin,1
+2006-06,Boards Of Canada,1
+2006-06,Bonobo,0
+2006-06,Cat Power,0
+2006-06,Curtis Mayfield,1
+2006-06,Elliott Smith,1
+2006-06,Feist,0
+2006-06,Fila Brazillia,1
+2006-06,Gorillaz,1
+2006-06,Joni Mitchell,1
+2006-06,Kruder & Dorfmeister,0
+2006-06,Lamb,0
+2006-06,Leonard Cohen,1
+2006-06,Lucinda Williams,0
+2006-06,Massive Attack,1
+2006-06,Morcheeba,1
+2006-06,Pj Harvey,1
+2006-06,Portishead,1
+2006-06,Tricky,1
+2006-06,Zero 7,1
+2006-07,Amon Tobin,6
+2006-07,Boards Of Canada,6
+2006-07,Bonobo,5
+2006-07,Cat Power,11
+2006-07,Curtis Mayfield,6
+2006-07,Elliott Smith,7
+2006-07,Feist,5
+2006-07,Fila Brazillia,6
+2006-07,Gorillaz,5
+2006-07,Joni Mitchell,6
+2006-07,Kruder & Dorfmeister,6
+2006-07,Lamb,6
+2006-07,Leonard Cohen,8
+2006-07,Lucinda Williams,8
+2006-07,Massive Attack,7
+2006-07,Morcheeba,8
+2006-07,Pj Harvey,8
+2006-07,Portishead,6
+2006-07,Tricky,8
+2006-07,Zero 7,8
+2006-08,Amon Tobin,0
+2006-08,Boards Of Canada,0
+2006-08,Bonobo,2
+2006-08,Cat Power,1
+2006-08,Curtis Mayfield,0
+2006-08,Elliott Smith,0
+2006-08,Feist,1
+2006-08,Fila Brazillia,0
+2006-08,Gorillaz,2
+2006-08,Joni Mitchell,0
+2006-08,Kruder & Dorfmeister,0
+2006-08,Lamb,2
+2006-08,Leonard Cohen,2
+2006-08,Lucinda Williams,2
+2006-08,Massive Attack,1
+2006-08,Morcheeba,1
+2006-08,Pj Harvey,0
+2006-08,Portishead,2
+2006-08,Tricky,0
+2006-08,Zero 7,0
+2006-09,Amon Tobin,0
+2006-09,Boards Of Canada,0
+2006-09,Bonobo,0
+2006-09,Cat Power,0
+2006-09,Curtis Mayfield,0
+2006-09,Elliott Smith,0
+2006-09,Feist,0
+2006-09,Fila Brazillia,0
+2006-09,Gorillaz,0
+2006-09,Joni Mitchell,0
+2006-09,Kruder & Dorfmeister,0
+2006-09,Lamb,0
+2006-09,Leonard Cohen,0
+2006-09,Lucinda Williams,0
+2006-09,Massive Attack,0
+2006-09,Morcheeba,0
+2006-09,Pj Harvey,0
+2006-09,Portishead,0
+2006-09,Tricky,0
+2006-09,Zero 7,0
+2006-10,Amon Tobin,0
+2006-10,Boards Of Canada,0
+2006-10,Bonobo,0
+2006-10,Cat Power,0
+2006-10,Curtis Mayfield,0
+2006-10,Elliott Smith,0
+2006-10,Feist,0
+2006-10,Fila Brazillia,0
+2006-10,Gorillaz,0
+2006-10,Joni Mitchell,0
+2006-10,Kruder & Dorfmeister,0
+2006-10,Lamb,0
+2006-10,Leonard Cohen,0
+2006-10,Lucinda Williams,0
+2006-10,Massive Attack,0
+2006-10,Morcheeba,0
+2006-10,Pj Harvey,0
+2006-10,Portishead,0
+2006-10,Tricky,0
+2006-10,Zero 7,0
+2006-11,Amon Tobin,0
+2006-11,Boards Of Canada,0
+2006-11,Bonobo,0
+2006-11,Cat Power,0
+2006-11,Curtis Mayfield,0
+2006-11,Elliott Smith,0
+2006-11,Feist,0
+2006-11,Fila Brazillia,0
+2006-11,Gorillaz,0
+2006-11,Joni Mitchell,0
+2006-11,Kruder & Dorfmeister,0
+2006-11,Lamb,0
+2006-11,Leonard Cohen,0
+2006-11,Lucinda Williams,0
+2006-11,Massive Attack,0
+2006-11,Morcheeba,0
+2006-11,Pj Harvey,0
+2006-11,Portishead,0
+2006-11,Tricky,0
+2006-11,Zero 7,0
+2006-12,Amon Tobin,0
+2006-12,Boards Of Canada,0
+2006-12,Bonobo,0
+2006-12,Cat Power,0
+2006-12,Curtis Mayfield,0
+2006-12,Elliott Smith,0
+2006-12,Feist,0
+2006-12,Fila Brazillia,0
+2006-12,Gorillaz,0
+2006-12,Joni Mitchell,0
+2006-12,Kruder & Dorfmeister,0
+2006-12,Lamb,0
+2006-12,Leonard Cohen,0
+2006-12,Lucinda Williams,0
+2006-12,Massive Attack,0
+2006-12,Morcheeba,0
+2006-12,Pj Harvey,0
+2006-12,Portishead,0
+2006-12,Tricky,0
+2006-12,Zero 7,0
+2007-01,Amon Tobin,0
+2007-01,Boards Of Canada,0
+2007-01,Bonobo,0
+2007-01,Cat Power,0
+2007-01,Curtis Mayfield,0
+2007-01,Elliott Smith,0
+2007-01,Feist,0
+2007-01,Fila Brazillia,0
+2007-01,Gorillaz,0
+2007-01,Joni Mitchell,0
+2007-01,Kruder & Dorfmeister,0
+2007-01,Lamb,0
+2007-01,Leonard Cohen,0
+2007-01,Lucinda Williams,0
+2007-01,Massive Attack,0
+2007-01,Morcheeba,0
+2007-01,Pj Harvey,0
+2007-01,Portishead,0
+2007-01,Tricky,0
+2007-01,Zero 7,0
+2007-02,Amon Tobin,0
+2007-02,Boards Of Canada,0
+2007-02,Bonobo,0
+2007-02,Cat Power,0
+2007-02,Curtis Mayfield,0
+2007-02,Elliott Smith,0
+2007-02,Feist,0
+2007-02,Fila Brazillia,0
+2007-02,Gorillaz,0
+2007-02,Joni Mitchell,0
+2007-02,Kruder & Dorfmeister,0
+2007-02,Lamb,0
+2007-02,Leonard Cohen,0
+2007-02,Lucinda Williams,0
+2007-02,Massive Attack,0
+2007-02,Morcheeba,0
+2007-02,Pj Harvey,0
+2007-02,Portishead,0
+2007-02,Tricky,0
+2007-02,Zero 7,0
+2007-03,Amon Tobin,0
+2007-03,Boards Of Canada,0
+2007-03,Bonobo,0
+2007-03,Cat Power,0
+2007-03,Curtis Mayfield,0
+2007-03,Elliott Smith,0
+2007-03,Feist,0
+2007-03,Fila Brazillia,0
+2007-03,Gorillaz,0
+2007-03,Joni Mitchell,0
+2007-03,Kruder & Dorfmeister,0
+2007-03,Lamb,0
+2007-03,Leonard Cohen,0
+2007-03,Lucinda Williams,0
+2007-03,Massive Attack,0
+2007-03,Morcheeba,0
+2007-03,Pj Harvey,0
+2007-03,Portishead,0
+2007-03,Tricky,0
+2007-03,Zero 7,0
+2007-04,Amon Tobin,0
+2007-04,Boards Of Canada,0
+2007-04,Bonobo,0
+2007-04,Cat Power,0
+2007-04,Curtis Mayfield,0
+2007-04,Elliott Smith,0
+2007-04,Feist,0
+2007-04,Fila Brazillia,0
+2007-04,Gorillaz,0
+2007-04,Joni Mitchell,0
+2007-04,Kruder & Dorfmeister,0
+2007-04,Lamb,0
+2007-04,Leonard Cohen,0
+2007-04,Lucinda Williams,0
+2007-04,Massive Attack,0
+2007-04,Morcheeba,0
+2007-04,Pj Harvey,0
+2007-04,Portishead,0
+2007-04,Tricky,0
+2007-04,Zero 7,0
+2007-05,Amon Tobin,0
+2007-05,Boards Of Canada,0
+2007-05,Bonobo,0
+2007-05,Cat Power,0
+2007-05,Curtis Mayfield,0
+2007-05,Elliott Smith,0
+2007-05,Feist,0
+2007-05,Fila Brazillia,0
+2007-05,Gorillaz,0
+2007-05,Joni Mitchell,0
+2007-05,Kruder & Dorfmeister,0
+2007-05,Lamb,0
+2007-05,Leonard Cohen,0
+2007-05,Lucinda Williams,0
+2007-05,Massive Attack,0
+2007-05,Morcheeba,0
+2007-05,Pj Harvey,0
+2007-05,Portishead,0
+2007-05,Tricky,0
+2007-05,Zero 7,0
+2007-06,Amon Tobin,0
+2007-06,Boards Of Canada,0
+2007-06,Bonobo,0
+2007-06,Cat Power,0
+2007-06,Curtis Mayfield,0
+2007-06,Elliott Smith,0
+2007-06,Feist,0
+2007-06,Fila Brazillia,0
+2007-06,Gorillaz,0
+2007-06,Joni Mitchell,0
+2007-06,Kruder & Dorfmeister,0
+2007-06,Lamb,0
+2007-06,Leonard Cohen,0
+2007-06,Lucinda Williams,0
+2007-06,Massive Attack,0
+2007-06,Morcheeba,0
+2007-06,Pj Harvey,0
+2007-06,Portishead,0
+2007-06,Tricky,0
+2007-06,Zero 7,0
+2007-07,Amon Tobin,0
+2007-07,Boards Of Canada,0
+2007-07,Bonobo,0
+2007-07,Cat Power,0
+2007-07,Curtis Mayfield,0
+2007-07,Elliott Smith,0
+2007-07,Feist,0
+2007-07,Fila Brazillia,0
+2007-07,Gorillaz,0
+2007-07,Joni Mitchell,0
+2007-07,Kruder & Dorfmeister,0
+2007-07,Lamb,0
+2007-07,Leonard Cohen,0
+2007-07,Lucinda Williams,0
+2007-07,Massive Attack,0
+2007-07,Morcheeba,0
+2007-07,Pj Harvey,0
+2007-07,Portishead,0
+2007-07,Tricky,0
+2007-07,Zero 7,0
+2007-08,Amon Tobin,0
+2007-08,Boards Of Canada,0
+2007-08,Bonobo,0
+2007-08,Cat Power,0
+2007-08,Curtis Mayfield,0
+2007-08,Elliott Smith,0
+2007-08,Feist,0
+2007-08,Fila Brazillia,0
+2007-08,Gorillaz,0
+2007-08,Joni Mitchell,0
+2007-08,Kruder & Dorfmeister,0
+2007-08,Lamb,0
+2007-08,Leonard Cohen,0
+2007-08,Lucinda Williams,0
+2007-08,Massive Attack,0
+2007-08,Morcheeba,0
+2007-08,Pj Harvey,0
+2007-08,Portishead,0
+2007-08,Tricky,0
+2007-08,Zero 7,0
+2007-09,Amon Tobin,0
+2007-09,Boards Of Canada,0
+2007-09,Bonobo,0
+2007-09,Cat Power,1
+2007-09,Curtis Mayfield,0
+2007-09,Elliott Smith,1
+2007-09,Feist,0
+2007-09,Fila Brazillia,0
+2007-09,Gorillaz,0
+2007-09,Joni Mitchell,0
+2007-09,Kruder & Dorfmeister,0
+2007-09,Lamb,0
+2007-09,Leonard Cohen,0
+2007-09,Lucinda Williams,0
+2007-09,Massive Attack,0
+2007-09,Morcheeba,0
+2007-09,Pj Harvey,0
+2007-09,Portishead,0
+2007-09,Tricky,0
+2007-09,Zero 7,0
+2007-10,Amon Tobin,0
+2007-10,Boards Of Canada,0
+2007-10,Bonobo,0
+2007-10,Cat Power,0
+2007-10,Curtis Mayfield,0
+2007-10,Elliott Smith,0
+2007-10,Feist,0
+2007-10,Fila Brazillia,0
+2007-10,Gorillaz,0
+2007-10,Joni Mitchell,0
+2007-10,Kruder & Dorfmeister,0
+2007-10,Lamb,0
+2007-10,Leonard Cohen,0
+2007-10,Lucinda Williams,0
+2007-10,Massive Attack,0
+2007-10,Morcheeba,0
+2007-10,Pj Harvey,0
+2007-10,Portishead,0
+2007-10,Tricky,0
+2007-10,Zero 7,0
+2007-11,Amon Tobin,1
+2007-11,Boards Of Canada,1
+2007-11,Bonobo,0
+2007-11,Cat Power,0
+2007-11,Curtis Mayfield,0
+2007-11,Elliott Smith,0
+2007-11,Feist,0
+2007-11,Fila Brazillia,0
+2007-11,Gorillaz,0
+2007-11,Joni Mitchell,0
+2007-11,Kruder & Dorfmeister,0
+2007-11,Lamb,1
+2007-11,Leonard Cohen,0
+2007-11,Lucinda Williams,0
+2007-11,Massive Attack,1
+2007-11,Morcheeba,0
+2007-11,Pj Harvey,1
+2007-11,Portishead,1
+2007-11,Tricky,1
+2007-11,Zero 7,1
+2007-12,Amon Tobin,0
+2007-12,Boards Of Canada,0
+2007-12,Bonobo,0
+2007-12,Cat Power,1
+2007-12,Curtis Mayfield,0
+2007-12,Elliott Smith,0
+2007-12,Feist,0
+2007-12,Fila Brazillia,0
+2007-12,Gorillaz,0
+2007-12,Joni Mitchell,1
+2007-12,Kruder & Dorfmeister,0
+2007-12,Lamb,0
+2007-12,Leonard Cohen,0
+2007-12,Lucinda Williams,0
+2007-12,Massive Attack,0
+2007-12,Morcheeba,0
+2007-12,Pj Harvey,0
+2007-12,Portishead,0
+2007-12,Tricky,0
+2007-12,Zero 7,0
+2008-01,Amon Tobin,0
+2008-01,Boards Of Canada,0
+2008-01,Bonobo,0
+2008-01,Cat Power,0
+2008-01,Curtis Mayfield,0
+2008-01,Elliott Smith,0
+2008-01,Feist,0
+2008-01,Fila Brazillia,0
+2008-01,Gorillaz,0
+2008-01,Joni Mitchell,0
+2008-01,Kruder & Dorfmeister,0
+2008-01,Lamb,0
+2008-01,Leonard Cohen,0
+2008-01,Lucinda Williams,0
+2008-01,Massive Attack,0
+2008-01,Morcheeba,0
+2008-01,Pj Harvey,0
+2008-01,Portishead,0
+2008-01,Tricky,0
+2008-01,Zero 7,0
+2008-02,Amon Tobin,0
+2008-02,Boards Of Canada,0
+2008-02,Bonobo,0
+2008-02,Cat Power,0
+2008-02,Curtis Mayfield,0
+2008-02,Elliott Smith,0
+2008-02,Feist,0
+2008-02,Fila Brazillia,0
+2008-02,Gorillaz,0
+2008-02,Joni Mitchell,0
+2008-02,Kruder & Dorfmeister,0
+2008-02,Lamb,0
+2008-02,Leonard Cohen,0
+2008-02,Lucinda Williams,0
+2008-02,Massive Attack,0
+2008-02,Morcheeba,0
+2008-02,Pj Harvey,0
+2008-02,Portishead,0
+2008-02,Tricky,0
+2008-02,Zero 7,0
+2008-03,Amon Tobin,0
+2008-03,Boards Of Canada,0
+2008-03,Bonobo,0
+2008-03,Cat Power,0
+2008-03,Curtis Mayfield,0
+2008-03,Elliott Smith,0
+2008-03,Feist,0
+2008-03,Fila Brazillia,0
+2008-03,Gorillaz,0
+2008-03,Joni Mitchell,0
+2008-03,Kruder & Dorfmeister,0
+2008-03,Lamb,0
+2008-03,Leonard Cohen,0
+2008-03,Lucinda Williams,0
+2008-03,Massive Attack,0
+2008-03,Morcheeba,0
+2008-03,Pj Harvey,0
+2008-03,Portishead,0
+2008-03,Tricky,0
+2008-03,Zero 7,0
+2008-04,Amon Tobin,0
+2008-04,Boards Of Canada,0
+2008-04,Bonobo,0
+2008-04,Cat Power,0
+2008-04,Curtis Mayfield,0
+2008-04,Elliott Smith,0
+2008-04,Feist,2
+2008-04,Fila Brazillia,0
+2008-04,Gorillaz,0
+2008-04,Joni Mitchell,0
+2008-04,Kruder & Dorfmeister,0
+2008-04,Lamb,0
+2008-04,Leonard Cohen,0
+2008-04,Lucinda Williams,0
+2008-04,Massive Attack,0
+2008-04,Morcheeba,0
+2008-04,Pj Harvey,0
+2008-04,Portishead,0
+2008-04,Tricky,0
+2008-04,Zero 7,0
+2008-05,Amon Tobin,0
+2008-05,Boards Of Canada,0
+2008-05,Bonobo,0
+2008-05,Cat Power,1
+2008-05,Curtis Mayfield,0
+2008-05,Elliott Smith,0
+2008-05,Feist,1
+2008-05,Fila Brazillia,0
+2008-05,Gorillaz,0
+2008-05,Joni Mitchell,0
+2008-05,Kruder & Dorfmeister,0
+2008-05,Lamb,0
+2008-05,Leonard Cohen,0
+2008-05,Lucinda Williams,0
+2008-05,Massive Attack,0
+2008-05,Morcheeba,0
+2008-05,Pj Harvey,0
+2008-05,Portishead,0
+2008-05,Tricky,0
+2008-05,Zero 7,0
+2008-06,Amon Tobin,0
+2008-06,Boards Of Canada,0
+2008-06,Bonobo,0
+2008-06,Cat Power,0
+2008-06,Curtis Mayfield,0
+2008-06,Elliott Smith,0
+2008-06,Feist,0
+2008-06,Fila Brazillia,0
+2008-06,Gorillaz,0
+2008-06,Joni Mitchell,0
+2008-06,Kruder & Dorfmeister,0
+2008-06,Lamb,0
+2008-06,Leonard Cohen,0
+2008-06,Lucinda Williams,0
+2008-06,Massive Attack,0
+2008-06,Morcheeba,0
+2008-06,Pj Harvey,0
+2008-06,Portishead,0
+2008-06,Tricky,0
+2008-06,Zero 7,0
+2008-07,Amon Tobin,0
+2008-07,Boards Of Canada,0
+2008-07,Bonobo,1
+2008-07,Cat Power,1
+2008-07,Curtis Mayfield,0
+2008-07,Elliott Smith,0
+2008-07,Feist,1
+2008-07,Fila Brazillia,0
+2008-07,Gorillaz,0
+2008-07,Joni Mitchell,0
+2008-07,Kruder & Dorfmeister,0
+2008-07,Lamb,0
+2008-07,Leonard Cohen,0
+2008-07,Lucinda Williams,0
+2008-07,Massive Attack,0
+2008-07,Morcheeba,0
+2008-07,Pj Harvey,0
+2008-07,Portishead,0
+2008-07,Tricky,0
+2008-07,Zero 7,1
+2008-08,Amon Tobin,0
+2008-08,Boards Of Canada,0
+2008-08,Bonobo,0
+2008-08,Cat Power,0
+2008-08,Curtis Mayfield,0
+2008-08,Elliott Smith,0
+2008-08,Feist,0
+2008-08,Fila Brazillia,0
+2008-08,Gorillaz,0
+2008-08,Joni Mitchell,0
+2008-08,Kruder & Dorfmeister,0
+2008-08,Lamb,0
+2008-08,Leonard Cohen,0
+2008-08,Lucinda Williams,0
+2008-08,Massive Attack,0
+2008-08,Morcheeba,0
+2008-08,Pj Harvey,0
+2008-08,Portishead,0
+2008-08,Tricky,0
+2008-08,Zero 7,0
+2008-09,Amon Tobin,0
+2008-09,Boards Of Canada,0
+2008-09,Bonobo,0
+2008-09,Cat Power,0
+2008-09,Curtis Mayfield,0
+2008-09,Elliott Smith,0
+2008-09,Feist,0
+2008-09,Fila Brazillia,0
+2008-09,Gorillaz,0
+2008-09,Joni Mitchell,0
+2008-09,Kruder & Dorfmeister,0
+2008-09,Lamb,0
+2008-09,Leonard Cohen,0
+2008-09,Lucinda Williams,0
+2008-09,Massive Attack,0
+2008-09,Morcheeba,0
+2008-09,Pj Harvey,0
+2008-09,Portishead,0
+2008-09,Tricky,0
+2008-09,Zero 7,0
+2008-10,Amon Tobin,0
+2008-10,Boards Of Canada,0
+2008-10,Bonobo,0
+2008-10,Cat Power,0
+2008-10,Curtis Mayfield,0
+2008-10,Elliott Smith,0
+2008-10,Feist,0
+2008-10,Fila Brazillia,0
+2008-10,Gorillaz,0
+2008-10,Joni Mitchell,0
+2008-10,Kruder & Dorfmeister,0
+2008-10,Lamb,0
+2008-10,Leonard Cohen,0
+2008-10,Lucinda Williams,0
+2008-10,Massive Attack,0
+2008-10,Morcheeba,0
+2008-10,Pj Harvey,0
+2008-10,Portishead,0
+2008-10,Tricky,0
+2008-10,Zero 7,0
+2008-11,Amon Tobin,0
+2008-11,Boards Of Canada,0
+2008-11,Bonobo,0
+2008-11,Cat Power,0
+2008-11,Curtis Mayfield,0
+2008-11,Elliott Smith,0
+2008-11,Feist,0
+2008-11,Fila Brazillia,0
+2008-11,Gorillaz,0
+2008-11,Joni Mitchell,0
+2008-11,Kruder & Dorfmeister,0
+2008-11,Lamb,0
+2008-11,Leonard Cohen,0
+2008-11,Lucinda Williams,0
+2008-11,Massive Attack,0
+2008-11,Morcheeba,0
+2008-11,Pj Harvey,0
+2008-11,Portishead,0
+2008-11,Tricky,0
+2008-11,Zero 7,0
+2008-12,Amon Tobin,1
+2008-12,Boards Of Canada,0
+2008-12,Bonobo,1
+2008-12,Cat Power,2
+2008-12,Curtis Mayfield,0
+2008-12,Elliott Smith,1
+2008-12,Feist,1
+2008-12,Fila Brazillia,1
+2008-12,Gorillaz,0
+2008-12,Joni Mitchell,0
+2008-12,Kruder & Dorfmeister,1
+2008-12,Lamb,3
+2008-12,Leonard Cohen,0
+2008-12,Lucinda Williams,0
+2008-12,Massive Attack,3
+2008-12,Morcheeba,1
+2008-12,Pj Harvey,2
+2008-12,Portishead,0
+2008-12,Tricky,2
+2008-12,Zero 7,1
+2009-01,Amon Tobin,1
+2009-01,Boards Of Canada,1
+2009-01,Bonobo,3
+2009-01,Cat Power,1
+2009-01,Curtis Mayfield,1
+2009-01,Elliott Smith,2
+2009-01,Feist,1
+2009-01,Fila Brazillia,0
+2009-01,Gorillaz,1
+2009-01,Joni Mitchell,1
+2009-01,Kruder & Dorfmeister,1
+2009-01,Lamb,2
+2009-01,Leonard Cohen,1
+2009-01,Lucinda Williams,1
+2009-01,Massive Attack,1
+2009-01,Morcheeba,0
+2009-01,Pj Harvey,2
+2009-01,Portishead,1
+2009-01,Tricky,1
+2009-01,Zero 7,4
+2009-02,Amon Tobin,0
+2009-02,Boards Of Canada,0
+2009-02,Bonobo,0
+2009-02,Cat Power,0
+2009-02,Curtis Mayfield,0
+2009-02,Elliott Smith,0
+2009-02,Feist,0
+2009-02,Fila Brazillia,0
+2009-02,Gorillaz,0
+2009-02,Joni Mitchell,0
+2009-02,Kruder & Dorfmeister,0
+2009-02,Lamb,0
+2009-02,Leonard Cohen,0
+2009-02,Lucinda Williams,0
+2009-02,Massive Attack,0
+2009-02,Morcheeba,0
+2009-02,Pj Harvey,0
+2009-02,Portishead,0
+2009-02,Tricky,0
+2009-02,Zero 7,0
+2009-03,Amon Tobin,0
+2009-03,Boards Of Canada,0
+2009-03,Bonobo,0
+2009-03,Cat Power,0
+2009-03,Curtis Mayfield,0
+2009-03,Elliott Smith,0
+2009-03,Feist,0
+2009-03,Fila Brazillia,0
+2009-03,Gorillaz,0
+2009-03,Joni Mitchell,0
+2009-03,Kruder & Dorfmeister,0
+2009-03,Lamb,0
+2009-03,Leonard Cohen,0
+2009-03,Lucinda Williams,2
+2009-03,Massive Attack,0
+2009-03,Morcheeba,0
+2009-03,Pj Harvey,0
+2009-03,Portishead,0
+2009-03,Tricky,0
+2009-03,Zero 7,0

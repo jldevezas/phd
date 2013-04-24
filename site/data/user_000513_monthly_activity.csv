@@ -1,0 +1,801 @@
+month,artist,plays
+2005-02,Beck,0
+2005-02,Belle And Sebastian,0
+2005-02,Black Rebel Motorcycle Club,0
+2005-02,Bloc Party,0
+2005-02,Doves,1
+2005-02,Elliott Smith,1
+2005-02,Interpol,0
+2005-02,Joy Division,0
+2005-02,Mogwai,1
+2005-02,My Bloody Valentine,1
+2005-02,New Order,1
+2005-02,Oasis,1
+2005-02,Pavement,2
+2005-02,Pixies,0
+2005-02,Radiohead,2
+2005-02,The Futureheads,0
+2005-02,The Go! Team,0
+2005-02,The Killers,0
+2005-02,The Smiths,1
+2005-02,The Stone Roses,0
+2005-03,Beck,2
+2005-03,Belle And Sebastian,3
+2005-03,Black Rebel Motorcycle Club,1
+2005-03,Bloc Party,7
+2005-03,Doves,2
+2005-03,Elliott Smith,5
+2005-03,Interpol,2
+2005-03,Joy Division,5
+2005-03,Mogwai,8
+2005-03,My Bloody Valentine,2
+2005-03,New Order,3
+2005-03,Oasis,1
+2005-03,Pavement,8
+2005-03,Pixies,6
+2005-03,Radiohead,15
+2005-03,The Futureheads,0
+2005-03,The Go! Team,1
+2005-03,The Killers,11
+2005-03,The Smiths,6
+2005-03,The Stone Roses,6
+2005-04,Beck,2
+2005-04,Belle And Sebastian,1
+2005-04,Black Rebel Motorcycle Club,2
+2005-04,Bloc Party,1
+2005-04,Doves,0
+2005-04,Elliott Smith,3
+2005-04,Interpol,3
+2005-04,Joy Division,3
+2005-04,Mogwai,4
+2005-04,My Bloody Valentine,6
+2005-04,New Order,1
+2005-04,Oasis,1
+2005-04,Pavement,2
+2005-04,Pixies,5
+2005-04,Radiohead,6
+2005-04,The Futureheads,0
+2005-04,The Go! Team,1
+2005-04,The Killers,1
+2005-04,The Smiths,3
+2005-04,The Stone Roses,5
+2005-05,Beck,1
+2005-05,Belle And Sebastian,11
+2005-05,Black Rebel Motorcycle Club,4
+2005-05,Bloc Party,4
+2005-05,Doves,1
+2005-05,Elliott Smith,21
+2005-05,Interpol,8
+2005-05,Joy Division,3
+2005-05,Mogwai,6
+2005-05,My Bloody Valentine,15
+2005-05,New Order,3
+2005-05,Oasis,15
+2005-05,Pavement,10
+2005-05,Pixies,3
+2005-05,Radiohead,19
+2005-05,The Futureheads,2
+2005-05,The Go! Team,2
+2005-05,The Killers,1
+2005-05,The Smiths,6
+2005-05,The Stone Roses,4
+2005-06,Beck,0
+2005-06,Belle And Sebastian,0
+2005-06,Black Rebel Motorcycle Club,1
+2005-06,Bloc Party,0
+2005-06,Doves,0
+2005-06,Elliott Smith,0
+2005-06,Interpol,0
+2005-06,Joy Division,0
+2005-06,Mogwai,0
+2005-06,My Bloody Valentine,1
+2005-06,New Order,0
+2005-06,Oasis,0
+2005-06,Pavement,0
+2005-06,Pixies,2
+2005-06,Radiohead,1
+2005-06,The Futureheads,0
+2005-06,The Go! Team,1
+2005-06,The Killers,0
+2005-06,The Smiths,0
+2005-06,The Stone Roses,0
+2005-07,Beck,0
+2005-07,Belle And Sebastian,0
+2005-07,Black Rebel Motorcycle Club,0
+2005-07,Bloc Party,0
+2005-07,Doves,1
+2005-07,Elliott Smith,0
+2005-07,Interpol,0
+2005-07,Joy Division,0
+2005-07,Mogwai,0
+2005-07,My Bloody Valentine,1
+2005-07,New Order,0
+2005-07,Oasis,0
+2005-07,Pavement,0
+2005-07,Pixies,1
+2005-07,Radiohead,0
+2005-07,The Futureheads,0
+2005-07,The Go! Team,1
+2005-07,The Killers,0
+2005-07,The Smiths,0
+2005-07,The Stone Roses,0
+2005-08,Beck,2
+2005-08,Belle And Sebastian,1
+2005-08,Black Rebel Motorcycle Club,0
+2005-08,Bloc Party,2
+2005-08,Doves,2
+2005-08,Elliott Smith,1
+2005-08,Interpol,1
+2005-08,Joy Division,2
+2005-08,Mogwai,1
+2005-08,My Bloody Valentine,0
+2005-08,New Order,0
+2005-08,Oasis,0
+2005-08,Pavement,1
+2005-08,Pixies,4
+2005-08,Radiohead,0
+2005-08,The Futureheads,4
+2005-08,The Go! Team,3
+2005-08,The Killers,0
+2005-08,The Smiths,0
+2005-08,The Stone Roses,0
+2005-09,Beck,0
+2005-09,Belle And Sebastian,0
+2005-09,Black Rebel Motorcycle Club,1
+2005-09,Bloc Party,0
+2005-09,Doves,0
+2005-09,Elliott Smith,0
+2005-09,Interpol,0
+2005-09,Joy Division,0
+2005-09,Mogwai,1
+2005-09,My Bloody Valentine,0
+2005-09,New Order,0
+2005-09,Oasis,0
+2005-09,Pavement,1
+2005-09,Pixies,0
+2005-09,Radiohead,0
+2005-09,The Futureheads,0
+2005-09,The Go! Team,0
+2005-09,The Killers,0
+2005-09,The Smiths,1
+2005-09,The Stone Roses,0
+2005-10,Beck,0
+2005-10,Belle And Sebastian,5
+2005-10,Black Rebel Motorcycle Club,2
+2005-10,Bloc Party,5
+2005-10,Doves,4
+2005-10,Elliott Smith,0
+2005-10,Interpol,1
+2005-10,Joy Division,3
+2005-10,Mogwai,3
+2005-10,My Bloody Valentine,3
+2005-10,New Order,3
+2005-10,Oasis,0
+2005-10,Pavement,3
+2005-10,Pixies,2
+2005-10,Radiohead,0
+2005-10,The Futureheads,0
+2005-10,The Go! Team,0
+2005-10,The Killers,0
+2005-10,The Smiths,1
+2005-10,The Stone Roses,1
+2005-11,Beck,0
+2005-11,Belle And Sebastian,0
+2005-11,Black Rebel Motorcycle Club,2
+2005-11,Bloc Party,1
+2005-11,Doves,0
+2005-11,Elliott Smith,1
+2005-11,Interpol,0
+2005-11,Joy Division,0
+2005-11,Mogwai,2
+2005-11,My Bloody Valentine,1
+2005-11,New Order,0
+2005-11,Oasis,0
+2005-11,Pavement,1
+2005-11,Pixies,0
+2005-11,Radiohead,1
+2005-11,The Futureheads,0
+2005-11,The Go! Team,1
+2005-11,The Killers,0
+2005-11,The Smiths,0
+2005-11,The Stone Roses,0
+2005-12,Beck,1
+2005-12,Belle And Sebastian,0
+2005-12,Black Rebel Motorcycle Club,1
+2005-12,Bloc Party,0
+2005-12,Doves,0
+2005-12,Elliott Smith,0
+2005-12,Interpol,0
+2005-12,Joy Division,0
+2005-12,Mogwai,1
+2005-12,My Bloody Valentine,0
+2005-12,New Order,1
+2005-12,Oasis,0
+2005-12,Pavement,1
+2005-12,Pixies,0
+2005-12,Radiohead,0
+2005-12,The Futureheads,0
+2005-12,The Go! Team,0
+2005-12,The Killers,0
+2005-12,The Smiths,0
+2005-12,The Stone Roses,0
+2006-01,Beck,0
+2006-01,Belle And Sebastian,0
+2006-01,Black Rebel Motorcycle Club,0
+2006-01,Bloc Party,13
+2006-01,Doves,0
+2006-01,Elliott Smith,0
+2006-01,Interpol,14
+2006-01,Joy Division,0
+2006-01,Mogwai,0
+2006-01,My Bloody Valentine,0
+2006-01,New Order,0
+2006-01,Oasis,14
+2006-01,Pavement,0
+2006-01,Pixies,0
+2006-01,Radiohead,1
+2006-01,The Futureheads,14
+2006-01,The Go! Team,0
+2006-01,The Killers,15
+2006-01,The Smiths,14
+2006-01,The Stone Roses,0
+2006-02,Beck,0
+2006-02,Belle And Sebastian,0
+2006-02,Black Rebel Motorcycle Club,0
+2006-02,Bloc Party,0
+2006-02,Doves,0
+2006-02,Elliott Smith,0
+2006-02,Interpol,0
+2006-02,Joy Division,0
+2006-02,Mogwai,0
+2006-02,My Bloody Valentine,0
+2006-02,New Order,0
+2006-02,Oasis,0
+2006-02,Pavement,0
+2006-02,Pixies,1
+2006-02,Radiohead,0
+2006-02,The Futureheads,0
+2006-02,The Go! Team,0
+2006-02,The Killers,0
+2006-02,The Smiths,0
+2006-02,The Stone Roses,0
+2006-03,Beck,0
+2006-03,Belle And Sebastian,1
+2006-03,Black Rebel Motorcycle Club,1
+2006-03,Bloc Party,2
+2006-03,Doves,0
+2006-03,Elliott Smith,0
+2006-03,Interpol,1
+2006-03,Joy Division,0
+2006-03,Mogwai,1
+2006-03,My Bloody Valentine,0
+2006-03,New Order,0
+2006-03,Oasis,1
+2006-03,Pavement,0
+2006-03,Pixies,1
+2006-03,Radiohead,2
+2006-03,The Futureheads,1
+2006-03,The Go! Team,0
+2006-03,The Killers,2
+2006-03,The Smiths,1
+2006-03,The Stone Roses,1
+2006-04,Beck,1
+2006-04,Belle And Sebastian,0
+2006-04,Black Rebel Motorcycle Club,0
+2006-04,Bloc Party,1
+2006-04,Doves,0
+2006-04,Elliott Smith,0
+2006-04,Interpol,2
+2006-04,Joy Division,1
+2006-04,Mogwai,0
+2006-04,My Bloody Valentine,0
+2006-04,New Order,1
+2006-04,Oasis,1
+2006-04,Pavement,1
+2006-04,Pixies,1
+2006-04,Radiohead,1
+2006-04,The Futureheads,0
+2006-04,The Go! Team,0
+2006-04,The Killers,1
+2006-04,The Smiths,1
+2006-04,The Stone Roses,0
+2006-05,Beck,1
+2006-05,Belle And Sebastian,0
+2006-05,Black Rebel Motorcycle Club,1
+2006-05,Bloc Party,1
+2006-05,Doves,1
+2006-05,Elliott Smith,1
+2006-05,Interpol,0
+2006-05,Joy Division,0
+2006-05,Mogwai,1
+2006-05,My Bloody Valentine,1
+2006-05,New Order,2
+2006-05,Oasis,1
+2006-05,Pavement,0
+2006-05,Pixies,1
+2006-05,Radiohead,1
+2006-05,The Futureheads,1
+2006-05,The Go! Team,1
+2006-05,The Killers,1
+2006-05,The Smiths,1
+2006-05,The Stone Roses,1
+2006-06,Beck,1
+2006-06,Belle And Sebastian,2
+2006-06,Black Rebel Motorcycle Club,1
+2006-06,Bloc Party,1
+2006-06,Doves,1
+2006-06,Elliott Smith,3
+2006-06,Interpol,2
+2006-06,Joy Division,2
+2006-06,Mogwai,0
+2006-06,My Bloody Valentine,0
+2006-06,New Order,1
+2006-06,Oasis,1
+2006-06,Pavement,0
+2006-06,Pixies,1
+2006-06,Radiohead,1
+2006-06,The Futureheads,2
+2006-06,The Go! Team,0
+2006-06,The Killers,2
+2006-06,The Smiths,2
+2006-06,The Stone Roses,2
+2006-07,Beck,3
+2006-07,Belle And Sebastian,1
+2006-07,Black Rebel Motorcycle Club,4
+2006-07,Bloc Party,2
+2006-07,Doves,4
+2006-07,Elliott Smith,2
+2006-07,Interpol,3
+2006-07,Joy Division,4
+2006-07,Mogwai,3
+2006-07,My Bloody Valentine,4
+2006-07,New Order,5
+2006-07,Oasis,2
+2006-07,Pavement,2
+2006-07,Pixies,3
+2006-07,Radiohead,3
+2006-07,The Futureheads,1
+2006-07,The Go! Team,2
+2006-07,The Killers,1
+2006-07,The Smiths,4
+2006-07,The Stone Roses,4
+2006-08,Beck,0
+2006-08,Belle And Sebastian,1
+2006-08,Black Rebel Motorcycle Club,2
+2006-08,Bloc Party,2
+2006-08,Doves,3
+2006-08,Elliott Smith,0
+2006-08,Interpol,3
+2006-08,Joy Division,1
+2006-08,Mogwai,0
+2006-08,My Bloody Valentine,1
+2006-08,New Order,1
+2006-08,Oasis,1
+2006-08,Pavement,1
+2006-08,Pixies,1
+2006-08,Radiohead,1
+2006-08,The Futureheads,4
+2006-08,The Go! Team,1
+2006-08,The Killers,1
+2006-08,The Smiths,1
+2006-08,The Stone Roses,1
+2006-09,Beck,2
+2006-09,Belle And Sebastian,0
+2006-09,Black Rebel Motorcycle Club,1
+2006-09,Bloc Party,1
+2006-09,Doves,2
+2006-09,Elliott Smith,0
+2006-09,Interpol,0
+2006-09,Joy Division,2
+2006-09,Mogwai,0
+2006-09,My Bloody Valentine,1
+2006-09,New Order,0
+2006-09,Oasis,0
+2006-09,Pavement,0
+2006-09,Pixies,0
+2006-09,Radiohead,1
+2006-09,The Futureheads,2
+2006-09,The Go! Team,1
+2006-09,The Killers,1
+2006-09,The Smiths,1
+2006-09,The Stone Roses,1
+2006-10,Beck,6
+2006-10,Belle And Sebastian,6
+2006-10,Black Rebel Motorcycle Club,5
+2006-10,Bloc Party,9
+2006-10,Doves,7
+2006-10,Elliott Smith,1
+2006-10,Interpol,7
+2006-10,Joy Division,6
+2006-10,Mogwai,2
+2006-10,My Bloody Valentine,1
+2006-10,New Order,3
+2006-10,Oasis,5
+2006-10,Pavement,4
+2006-10,Pixies,5
+2006-10,Radiohead,7
+2006-10,The Futureheads,8
+2006-10,The Go! Team,4
+2006-10,The Killers,4
+2006-10,The Smiths,10
+2006-10,The Stone Roses,3
+2006-11,Beck,5
+2006-11,Belle And Sebastian,5
+2006-11,Black Rebel Motorcycle Club,1
+2006-11,Bloc Party,3
+2006-11,Doves,1
+2006-11,Elliott Smith,4
+2006-11,Interpol,6
+2006-11,Joy Division,1
+2006-11,Mogwai,3
+2006-11,My Bloody Valentine,2
+2006-11,New Order,1
+2006-11,Oasis,2
+2006-11,Pavement,1
+2006-11,Pixies,2
+2006-11,Radiohead,5
+2006-11,The Futureheads,2
+2006-11,The Go! Team,3
+2006-11,The Killers,2
+2006-11,The Smiths,1
+2006-11,The Stone Roses,0
+2006-12,Beck,2
+2006-12,Belle And Sebastian,1
+2006-12,Black Rebel Motorcycle Club,0
+2006-12,Bloc Party,2
+2006-12,Doves,0
+2006-12,Elliott Smith,1
+2006-12,Interpol,1
+2006-12,Joy Division,1
+2006-12,Mogwai,0
+2006-12,My Bloody Valentine,0
+2006-12,New Order,1
+2006-12,Oasis,1
+2006-12,Pavement,1
+2006-12,Pixies,2
+2006-12,Radiohead,0
+2006-12,The Futureheads,1
+2006-12,The Go! Team,2
+2006-12,The Killers,1
+2006-12,The Smiths,1
+2006-12,The Stone Roses,1
+2007-01,Beck,0
+2007-01,Belle And Sebastian,1
+2007-01,Black Rebel Motorcycle Club,0
+2007-01,Bloc Party,1
+2007-01,Doves,0
+2007-01,Elliott Smith,1
+2007-01,Interpol,0
+2007-01,Joy Division,0
+2007-01,Mogwai,0
+2007-01,My Bloody Valentine,0
+2007-01,New Order,0
+2007-01,Oasis,1
+2007-01,Pavement,0
+2007-01,Pixies,0
+2007-01,Radiohead,0
+2007-01,The Futureheads,1
+2007-01,The Go! Team,0
+2007-01,The Killers,1
+2007-01,The Smiths,1
+2007-01,The Stone Roses,1
+2007-02,Beck,0
+2007-02,Belle And Sebastian,0
+2007-02,Black Rebel Motorcycle Club,0
+2007-02,Bloc Party,0
+2007-02,Doves,0
+2007-02,Elliott Smith,0
+2007-02,Interpol,0
+2007-02,Joy Division,0
+2007-02,Mogwai,0
+2007-02,My Bloody Valentine,0
+2007-02,New Order,0
+2007-02,Oasis,0
+2007-02,Pavement,0
+2007-02,Pixies,0
+2007-02,Radiohead,0
+2007-02,The Futureheads,0
+2007-02,The Go! Team,0
+2007-02,The Killers,0
+2007-02,The Smiths,0
+2007-02,The Stone Roses,0
+2007-03,Beck,0
+2007-03,Belle And Sebastian,0
+2007-03,Black Rebel Motorcycle Club,0
+2007-03,Bloc Party,0
+2007-03,Doves,0
+2007-03,Elliott Smith,0
+2007-03,Interpol,0
+2007-03,Joy Division,0
+2007-03,Mogwai,0
+2007-03,My Bloody Valentine,0
+2007-03,New Order,0
+2007-03,Oasis,0
+2007-03,Pavement,0
+2007-03,Pixies,0
+2007-03,Radiohead,0
+2007-03,The Futureheads,0
+2007-03,The Go! Team,0
+2007-03,The Killers,0
+2007-03,The Smiths,0
+2007-03,The Stone Roses,0
+2007-04,Beck,0
+2007-04,Belle And Sebastian,0
+2007-04,Black Rebel Motorcycle Club,0
+2007-04,Bloc Party,0
+2007-04,Doves,0
+2007-04,Elliott Smith,0
+2007-04,Interpol,0
+2007-04,Joy Division,0
+2007-04,Mogwai,0
+2007-04,My Bloody Valentine,0
+2007-04,New Order,0
+2007-04,Oasis,0
+2007-04,Pavement,0
+2007-04,Pixies,0
+2007-04,Radiohead,0
+2007-04,The Futureheads,0
+2007-04,The Go! Team,0
+2007-04,The Killers,0
+2007-04,The Smiths,0
+2007-04,The Stone Roses,0
+2007-05,Beck,0
+2007-05,Belle And Sebastian,0
+2007-05,Black Rebel Motorcycle Club,0
+2007-05,Bloc Party,0
+2007-05,Doves,0
+2007-05,Elliott Smith,0
+2007-05,Interpol,0
+2007-05,Joy Division,0
+2007-05,Mogwai,0
+2007-05,My Bloody Valentine,0
+2007-05,New Order,0
+2007-05,Oasis,0
+2007-05,Pavement,0
+2007-05,Pixies,0
+2007-05,Radiohead,0
+2007-05,The Futureheads,0
+2007-05,The Go! Team,0
+2007-05,The Killers,0
+2007-05,The Smiths,0
+2007-05,The Stone Roses,0
+2007-06,Beck,0
+2007-06,Belle And Sebastian,1
+2007-06,Black Rebel Motorcycle Club,0
+2007-06,Bloc Party,1
+2007-06,Doves,0
+2007-06,Elliott Smith,0
+2007-06,Interpol,0
+2007-06,Joy Division,0
+2007-06,Mogwai,0
+2007-06,My Bloody Valentine,0
+2007-06,New Order,0
+2007-06,Oasis,0
+2007-06,Pavement,0
+2007-06,Pixies,0
+2007-06,Radiohead,0
+2007-06,The Futureheads,0
+2007-06,The Go! Team,1
+2007-06,The Killers,0
+2007-06,The Smiths,0
+2007-06,The Stone Roses,0
+2007-07,Beck,0
+2007-07,Belle And Sebastian,0
+2007-07,Black Rebel Motorcycle Club,0
+2007-07,Bloc Party,0
+2007-07,Doves,0
+2007-07,Elliott Smith,0
+2007-07,Interpol,0
+2007-07,Joy Division,0
+2007-07,Mogwai,0
+2007-07,My Bloody Valentine,0
+2007-07,New Order,0
+2007-07,Oasis,0
+2007-07,Pavement,0
+2007-07,Pixies,0
+2007-07,Radiohead,0
+2007-07,The Futureheads,0
+2007-07,The Go! Team,0
+2007-07,The Killers,0
+2007-07,The Smiths,0
+2007-07,The Stone Roses,0
+2007-08,Beck,0
+2007-08,Belle And Sebastian,0
+2007-08,Black Rebel Motorcycle Club,0
+2007-08,Bloc Party,0
+2007-08,Doves,0
+2007-08,Elliott Smith,0
+2007-08,Interpol,0
+2007-08,Joy Division,0
+2007-08,Mogwai,0
+2007-08,My Bloody Valentine,0
+2007-08,New Order,0
+2007-08,Oasis,0
+2007-08,Pavement,0
+2007-08,Pixies,0
+2007-08,Radiohead,0
+2007-08,The Futureheads,0
+2007-08,The Go! Team,0
+2007-08,The Killers,0
+2007-08,The Smiths,0
+2007-08,The Stone Roses,0
+2007-09,Beck,0
+2007-09,Belle And Sebastian,0
+2007-09,Black Rebel Motorcycle Club,0
+2007-09,Bloc Party,0
+2007-09,Doves,0
+2007-09,Elliott Smith,0
+2007-09,Interpol,0
+2007-09,Joy Division,0
+2007-09,Mogwai,0
+2007-09,My Bloody Valentine,0
+2007-09,New Order,0
+2007-09,Oasis,0
+2007-09,Pavement,0
+2007-09,Pixies,0
+2007-09,Radiohead,0
+2007-09,The Futureheads,0
+2007-09,The Go! Team,0
+2007-09,The Killers,0
+2007-09,The Smiths,0
+2007-09,The Stone Roses,0
+2007-10,Beck,0
+2007-10,Belle And Sebastian,0
+2007-10,Black Rebel Motorcycle Club,0
+2007-10,Bloc Party,0
+2007-10,Doves,0
+2007-10,Elliott Smith,0
+2007-10,Interpol,0
+2007-10,Joy Division,0
+2007-10,Mogwai,0
+2007-10,My Bloody Valentine,0
+2007-10,New Order,0
+2007-10,Oasis,0
+2007-10,Pavement,0
+2007-10,Pixies,0
+2007-10,Radiohead,0
+2007-10,The Futureheads,0
+2007-10,The Go! Team,0
+2007-10,The Killers,0
+2007-10,The Smiths,0
+2007-10,The Stone Roses,0
+2007-11,Beck,0
+2007-11,Belle And Sebastian,0
+2007-11,Black Rebel Motorcycle Club,0
+2007-11,Bloc Party,0
+2007-11,Doves,0
+2007-11,Elliott Smith,0
+2007-11,Interpol,0
+2007-11,Joy Division,0
+2007-11,Mogwai,0
+2007-11,My Bloody Valentine,0
+2007-11,New Order,0
+2007-11,Oasis,0
+2007-11,Pavement,0
+2007-11,Pixies,0
+2007-11,Radiohead,0
+2007-11,The Futureheads,0
+2007-11,The Go! Team,0
+2007-11,The Killers,0
+2007-11,The Smiths,0
+2007-11,The Stone Roses,0
+2007-12,Beck,0
+2007-12,Belle And Sebastian,0
+2007-12,Black Rebel Motorcycle Club,0
+2007-12,Bloc Party,0
+2007-12,Doves,0
+2007-12,Elliott Smith,0
+2007-12,Interpol,0
+2007-12,Joy Division,0
+2007-12,Mogwai,0
+2007-12,My Bloody Valentine,0
+2007-12,New Order,0
+2007-12,Oasis,0
+2007-12,Pavement,0
+2007-12,Pixies,0
+2007-12,Radiohead,0
+2007-12,The Futureheads,0
+2007-12,The Go! Team,0
+2007-12,The Killers,0
+2007-12,The Smiths,0
+2007-12,The Stone Roses,0
+2008-01,Beck,0
+2008-01,Belle And Sebastian,0
+2008-01,Black Rebel Motorcycle Club,0
+2008-01,Bloc Party,0
+2008-01,Doves,0
+2008-01,Elliott Smith,0
+2008-01,Interpol,0
+2008-01,Joy Division,0
+2008-01,Mogwai,0
+2008-01,My Bloody Valentine,0
+2008-01,New Order,0
+2008-01,Oasis,0
+2008-01,Pavement,0
+2008-01,Pixies,0
+2008-01,Radiohead,0
+2008-01,The Futureheads,0
+2008-01,The Go! Team,0
+2008-01,The Killers,0
+2008-01,The Smiths,0
+2008-01,The Stone Roses,0
+2008-02,Beck,0
+2008-02,Belle And Sebastian,0
+2008-02,Black Rebel Motorcycle Club,0
+2008-02,Bloc Party,0
+2008-02,Doves,0
+2008-02,Elliott Smith,0
+2008-02,Interpol,0
+2008-02,Joy Division,0
+2008-02,Mogwai,0
+2008-02,My Bloody Valentine,0
+2008-02,New Order,0
+2008-02,Oasis,0
+2008-02,Pavement,0
+2008-02,Pixies,0
+2008-02,Radiohead,0
+2008-02,The Futureheads,0
+2008-02,The Go! Team,0
+2008-02,The Killers,0
+2008-02,The Smiths,0
+2008-02,The Stone Roses,0
+2008-03,Beck,0
+2008-03,Belle And Sebastian,0
+2008-03,Black Rebel Motorcycle Club,0
+2008-03,Bloc Party,1
+2008-03,Doves,0
+2008-03,Elliott Smith,0
+2008-03,Interpol,0
+2008-03,Joy Division,0
+2008-03,Mogwai,0
+2008-03,My Bloody Valentine,0
+2008-03,New Order,0
+2008-03,Oasis,0
+2008-03,Pavement,0
+2008-03,Pixies,0
+2008-03,Radiohead,0
+2008-03,The Futureheads,1
+2008-03,The Go! Team,0
+2008-03,The Killers,0
+2008-03,The Smiths,0
+2008-03,The Stone Roses,0
+2008-04,Beck,0
+2008-04,Belle And Sebastian,0
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Bloc Party,0
+2008-04,Doves,0
+2008-04,Elliott Smith,0
+2008-04,Interpol,0
+2008-04,Joy Division,0
+2008-04,Mogwai,0
+2008-04,My Bloody Valentine,0
+2008-04,New Order,0
+2008-04,Oasis,0
+2008-04,Pavement,0
+2008-04,Pixies,0
+2008-04,Radiohead,0
+2008-04,The Futureheads,0
+2008-04,The Go! Team,0
+2008-04,The Killers,0
+2008-04,The Smiths,0
+2008-04,The Stone Roses,0
+2008-05,Beck,0
+2008-05,Belle And Sebastian,0
+2008-05,Black Rebel Motorcycle Club,0
+2008-05,Bloc Party,0
+2008-05,Doves,0
+2008-05,Elliott Smith,1
+2008-05,Interpol,0
+2008-05,Joy Division,0
+2008-05,Mogwai,0
+2008-05,My Bloody Valentine,0
+2008-05,New Order,0
+2008-05,Oasis,0
+2008-05,Pavement,0
+2008-05,Pixies,0
+2008-05,Radiohead,0
+2008-05,The Futureheads,0
+2008-05,The Go! Team,0
+2008-05,The Killers,0
+2008-05,The Smiths,0
+2008-05,The Stone Roses,0

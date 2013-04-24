@@ -1,0 +1,601 @@
+month,artist,plays
+2007-01,[Unknown],28
+2007-01,Anthrax,64
+2007-01,At The Gates,37
+2007-01,Death,22
+2007-01,Destruction,59
+2007-01,Dismember,54
+2007-01,Entombed,81
+2007-01,Grave,18
+2007-01,Judas Priest,18
+2007-01,Kreator,52
+2007-01,Megadeth,74
+2007-01,Metallica,93
+2007-01,Morbid Angel,23
+2007-01,Motörhead,38
+2007-01,Obituary,16
+2007-01,Slayer,129
+2007-01,Sodom,157
+2007-01,Testament,111
+2007-01,Unleashed,50
+2007-01,Vader,33
+2007-02,[Unknown],26
+2007-02,Anthrax,60
+2007-02,At The Gates,28
+2007-02,Death,24
+2007-02,Destruction,70
+2007-02,Dismember,50
+2007-02,Entombed,51
+2007-02,Grave,17
+2007-02,Judas Priest,13
+2007-02,Kreator,47
+2007-02,Megadeth,79
+2007-02,Metallica,103
+2007-02,Morbid Angel,19
+2007-02,Motörhead,28
+2007-02,Obituary,15
+2007-02,Slayer,107
+2007-02,Sodom,156
+2007-02,Testament,129
+2007-02,Unleashed,28
+2007-02,Vader,18
+2007-03,[Unknown],14
+2007-03,Anthrax,46
+2007-03,At The Gates,3
+2007-03,Death,30
+2007-03,Destruction,88
+2007-03,Dismember,78
+2007-03,Entombed,24
+2007-03,Grave,35
+2007-03,Judas Priest,9
+2007-03,Kreator,57
+2007-03,Megadeth,36
+2007-03,Metallica,54
+2007-03,Morbid Angel,0
+2007-03,Motörhead,28
+2007-03,Obituary,46
+2007-03,Slayer,68
+2007-03,Sodom,60
+2007-03,Testament,57
+2007-03,Unleashed,59
+2007-03,Vader,1
+2007-04,[Unknown],27
+2007-04,Anthrax,23
+2007-04,At The Gates,34
+2007-04,Death,17
+2007-04,Destruction,53
+2007-04,Dismember,54
+2007-04,Entombed,19
+2007-04,Grave,18
+2007-04,Judas Priest,15
+2007-04,Kreator,32
+2007-04,Megadeth,37
+2007-04,Metallica,49
+2007-04,Morbid Angel,13
+2007-04,Motörhead,23
+2007-04,Obituary,52
+2007-04,Slayer,76
+2007-04,Sodom,58
+2007-04,Testament,38
+2007-04,Unleashed,20
+2007-04,Vader,15
+2007-05,[Unknown],42
+2007-05,Anthrax,18
+2007-05,At The Gates,8
+2007-05,Death,7
+2007-05,Destruction,42
+2007-05,Dismember,13
+2007-05,Entombed,4
+2007-05,Grave,1
+2007-05,Judas Priest,8
+2007-05,Kreator,27
+2007-05,Megadeth,25
+2007-05,Metallica,42
+2007-05,Morbid Angel,5
+2007-05,Motörhead,16
+2007-05,Obituary,9
+2007-05,Slayer,37
+2007-05,Sodom,42
+2007-05,Testament,24
+2007-05,Unleashed,0
+2007-05,Vader,3
+2007-06,[Unknown],6
+2007-06,Anthrax,1
+2007-06,At The Gates,1
+2007-06,Death,1
+2007-06,Destruction,1
+2007-06,Dismember,2
+2007-06,Entombed,0
+2007-06,Grave,5
+2007-06,Judas Priest,5
+2007-06,Kreator,2
+2007-06,Megadeth,0
+2007-06,Metallica,6
+2007-06,Morbid Angel,0
+2007-06,Motörhead,4
+2007-06,Obituary,2
+2007-06,Slayer,3
+2007-06,Sodom,0
+2007-06,Testament,1
+2007-06,Unleashed,0
+2007-06,Vader,0
+2007-07,[Unknown],5
+2007-07,Anthrax,3
+2007-07,At The Gates,2
+2007-07,Death,2
+2007-07,Destruction,3
+2007-07,Dismember,2
+2007-07,Entombed,5
+2007-07,Grave,0
+2007-07,Judas Priest,0
+2007-07,Kreator,2
+2007-07,Megadeth,5
+2007-07,Metallica,2
+2007-07,Morbid Angel,1
+2007-07,Motörhead,15
+2007-07,Obituary,6
+2007-07,Slayer,5
+2007-07,Sodom,10
+2007-07,Testament,5
+2007-07,Unleashed,0
+2007-07,Vader,1
+2007-08,[Unknown],8
+2007-08,Anthrax,10
+2007-08,At The Gates,1
+2007-08,Death,2
+2007-08,Destruction,9
+2007-08,Dismember,3
+2007-08,Entombed,40
+2007-08,Grave,1
+2007-08,Judas Priest,1
+2007-08,Kreator,12
+2007-08,Megadeth,34
+2007-08,Metallica,16
+2007-08,Morbid Angel,2
+2007-08,Motörhead,8
+2007-08,Obituary,15
+2007-08,Slayer,12
+2007-08,Sodom,33
+2007-08,Testament,10
+2007-08,Unleashed,3
+2007-08,Vader,2
+2007-09,[Unknown],0
+2007-09,Anthrax,0
+2007-09,At The Gates,2
+2007-09,Death,0
+2007-09,Destruction,0
+2007-09,Dismember,0
+2007-09,Entombed,0
+2007-09,Grave,0
+2007-09,Judas Priest,1
+2007-09,Kreator,0
+2007-09,Megadeth,0
+2007-09,Metallica,1
+2007-09,Morbid Angel,0
+2007-09,Motörhead,5
+2007-09,Obituary,0
+2007-09,Slayer,0
+2007-09,Sodom,0
+2007-09,Testament,0
+2007-09,Unleashed,0
+2007-09,Vader,0
+2007-10,[Unknown],14
+2007-10,Anthrax,0
+2007-10,At The Gates,0
+2007-10,Death,0
+2007-10,Destruction,0
+2007-10,Dismember,0
+2007-10,Entombed,0
+2007-10,Grave,0
+2007-10,Judas Priest,2
+2007-10,Kreator,0
+2007-10,Megadeth,1
+2007-10,Metallica,0
+2007-10,Morbid Angel,0
+2007-10,Motörhead,0
+2007-10,Obituary,0
+2007-10,Slayer,2
+2007-10,Sodom,1
+2007-10,Testament,0
+2007-10,Unleashed,0
+2007-10,Vader,0
+2007-11,[Unknown],1
+2007-11,Anthrax,1
+2007-11,At The Gates,1
+2007-11,Death,1
+2007-11,Destruction,1
+2007-11,Dismember,6
+2007-11,Entombed,11
+2007-11,Grave,1
+2007-11,Judas Priest,3
+2007-11,Kreator,0
+2007-11,Megadeth,7
+2007-11,Metallica,2
+2007-11,Morbid Angel,0
+2007-11,Motörhead,2
+2007-11,Obituary,3
+2007-11,Slayer,1
+2007-11,Sodom,0
+2007-11,Testament,0
+2007-11,Unleashed,2
+2007-11,Vader,2
+2007-12,[Unknown],6
+2007-12,Anthrax,2
+2007-12,At The Gates,3
+2007-12,Death,0
+2007-12,Destruction,0
+2007-12,Dismember,8
+2007-12,Entombed,4
+2007-12,Grave,2
+2007-12,Judas Priest,0
+2007-12,Kreator,0
+2007-12,Megadeth,0
+2007-12,Metallica,0
+2007-12,Morbid Angel,2
+2007-12,Motörhead,4
+2007-12,Obituary,2
+2007-12,Slayer,0
+2007-12,Sodom,0
+2007-12,Testament,0
+2007-12,Unleashed,7
+2007-12,Vader,2
+2008-01,[Unknown],5
+2008-01,Anthrax,2
+2008-01,At The Gates,0
+2008-01,Death,0
+2008-01,Destruction,1
+2008-01,Dismember,0
+2008-01,Entombed,0
+2008-01,Grave,0
+2008-01,Judas Priest,7
+2008-01,Kreator,0
+2008-01,Megadeth,0
+2008-01,Metallica,0
+2008-01,Morbid Angel,0
+2008-01,Motörhead,2
+2008-01,Obituary,1
+2008-01,Slayer,1
+2008-01,Sodom,4
+2008-01,Testament,1
+2008-01,Unleashed,0
+2008-01,Vader,0
+2008-02,[Unknown],0
+2008-02,Anthrax,0
+2008-02,At The Gates,0
+2008-02,Death,0
+2008-02,Destruction,0
+2008-02,Dismember,0
+2008-02,Entombed,0
+2008-02,Grave,0
+2008-02,Judas Priest,0
+2008-02,Kreator,0
+2008-02,Megadeth,0
+2008-02,Metallica,0
+2008-02,Morbid Angel,0
+2008-02,Motörhead,0
+2008-02,Obituary,0
+2008-02,Slayer,0
+2008-02,Sodom,1
+2008-02,Testament,1
+2008-02,Unleashed,0
+2008-02,Vader,0
+2008-03,[Unknown],0
+2008-03,Anthrax,0
+2008-03,At The Gates,0
+2008-03,Death,0
+2008-03,Destruction,0
+2008-03,Dismember,0
+2008-03,Entombed,0
+2008-03,Grave,0
+2008-03,Judas Priest,0
+2008-03,Kreator,0
+2008-03,Megadeth,0
+2008-03,Metallica,0
+2008-03,Morbid Angel,0
+2008-03,Motörhead,0
+2008-03,Obituary,0
+2008-03,Slayer,0
+2008-03,Sodom,0
+2008-03,Testament,0
+2008-03,Unleashed,0
+2008-03,Vader,0
+2008-04,[Unknown],0
+2008-04,Anthrax,0
+2008-04,At The Gates,0
+2008-04,Death,0
+2008-04,Destruction,0
+2008-04,Dismember,0
+2008-04,Entombed,0
+2008-04,Grave,0
+2008-04,Judas Priest,0
+2008-04,Kreator,0
+2008-04,Megadeth,0
+2008-04,Metallica,0
+2008-04,Morbid Angel,0
+2008-04,Motörhead,0
+2008-04,Obituary,0
+2008-04,Slayer,0
+2008-04,Sodom,0
+2008-04,Testament,0
+2008-04,Unleashed,0
+2008-04,Vader,0
+2008-05,[Unknown],0
+2008-05,Anthrax,0
+2008-05,At The Gates,0
+2008-05,Death,0
+2008-05,Destruction,0
+2008-05,Dismember,0
+2008-05,Entombed,0
+2008-05,Grave,0
+2008-05,Judas Priest,0
+2008-05,Kreator,0
+2008-05,Megadeth,0
+2008-05,Metallica,0
+2008-05,Morbid Angel,0
+2008-05,Motörhead,0
+2008-05,Obituary,0
+2008-05,Slayer,0
+2008-05,Sodom,0
+2008-05,Testament,0
+2008-05,Unleashed,0
+2008-05,Vader,0
+2008-06,[Unknown],0
+2008-06,Anthrax,0
+2008-06,At The Gates,0
+2008-06,Death,0
+2008-06,Destruction,0
+2008-06,Dismember,0
+2008-06,Entombed,0
+2008-06,Grave,0
+2008-06,Judas Priest,0
+2008-06,Kreator,0
+2008-06,Megadeth,0
+2008-06,Metallica,0
+2008-06,Morbid Angel,0
+2008-06,Motörhead,0
+2008-06,Obituary,0
+2008-06,Slayer,0
+2008-06,Sodom,0
+2008-06,Testament,0
+2008-06,Unleashed,0
+2008-06,Vader,0
+2008-07,[Unknown],0
+2008-07,Anthrax,0
+2008-07,At The Gates,0
+2008-07,Death,0
+2008-07,Destruction,0
+2008-07,Dismember,0
+2008-07,Entombed,0
+2008-07,Grave,0
+2008-07,Judas Priest,0
+2008-07,Kreator,0
+2008-07,Megadeth,0
+2008-07,Metallica,0
+2008-07,Morbid Angel,0
+2008-07,Motörhead,0
+2008-07,Obituary,0
+2008-07,Slayer,0
+2008-07,Sodom,0
+2008-07,Testament,0
+2008-07,Unleashed,0
+2008-07,Vader,0
+2008-08,[Unknown],11
+2008-08,Anthrax,0
+2008-08,At The Gates,29
+2008-08,Death,15
+2008-08,Destruction,0
+2008-08,Dismember,68
+2008-08,Entombed,68
+2008-08,Grave,15
+2008-08,Judas Priest,0
+2008-08,Kreator,0
+2008-08,Megadeth,0
+2008-08,Metallica,0
+2008-08,Morbid Angel,50
+2008-08,Motörhead,0
+2008-08,Obituary,37
+2008-08,Slayer,0
+2008-08,Sodom,0
+2008-08,Testament,2
+2008-08,Unleashed,47
+2008-08,Vader,43
+2008-09,[Unknown],1
+2008-09,Anthrax,1
+2008-09,At The Gates,6
+2008-09,Death,3
+2008-09,Destruction,0
+2008-09,Dismember,20
+2008-09,Entombed,14
+2008-09,Grave,10
+2008-09,Judas Priest,0
+2008-09,Kreator,0
+2008-09,Megadeth,1
+2008-09,Metallica,2
+2008-09,Morbid Angel,26
+2008-09,Motörhead,0
+2008-09,Obituary,10
+2008-09,Slayer,1
+2008-09,Sodom,1
+2008-09,Testament,9
+2008-09,Unleashed,16
+2008-09,Vader,13
+2008-10,[Unknown],10
+2008-10,Anthrax,0
+2008-10,At The Gates,20
+2008-10,Death,8
+2008-10,Destruction,1
+2008-10,Dismember,68
+2008-10,Entombed,54
+2008-10,Grave,25
+2008-10,Judas Priest,7
+2008-10,Kreator,2
+2008-10,Megadeth,0
+2008-10,Metallica,0
+2008-10,Morbid Angel,44
+2008-10,Motörhead,0
+2008-10,Obituary,36
+2008-10,Slayer,1
+2008-10,Sodom,0
+2008-10,Testament,2
+2008-10,Unleashed,35
+2008-10,Vader,29
+2008-11,[Unknown],2
+2008-11,Anthrax,0
+2008-11,At The Gates,2
+2008-11,Death,0
+2008-11,Destruction,0
+2008-11,Dismember,2
+2008-11,Entombed,2
+2008-11,Grave,2
+2008-11,Judas Priest,28
+2008-11,Kreator,33
+2008-11,Megadeth,0
+2008-11,Metallica,2
+2008-11,Morbid Angel,1
+2008-11,Motörhead,52
+2008-11,Obituary,1
+2008-11,Slayer,0
+2008-11,Sodom,0
+2008-11,Testament,0
+2008-11,Unleashed,2
+2008-11,Vader,2
+2008-12,[Unknown],1
+2008-12,Anthrax,0
+2008-12,At The Gates,0
+2008-12,Death,0
+2008-12,Destruction,1
+2008-12,Dismember,6
+2008-12,Entombed,0
+2008-12,Grave,0
+2008-12,Judas Priest,17
+2008-12,Kreator,36
+2008-12,Megadeth,0
+2008-12,Metallica,2
+2008-12,Morbid Angel,49
+2008-12,Motörhead,8
+2008-12,Obituary,0
+2008-12,Slayer,0
+2008-12,Sodom,3
+2008-12,Testament,0
+2008-12,Unleashed,0
+2008-12,Vader,0
+2009-01,[Unknown],0
+2009-01,Anthrax,0
+2009-01,At The Gates,0
+2009-01,Death,0
+2009-01,Destruction,0
+2009-01,Dismember,0
+2009-01,Entombed,0
+2009-01,Grave,0
+2009-01,Judas Priest,5
+2009-01,Kreator,16
+2009-01,Megadeth,0
+2009-01,Metallica,0
+2009-01,Morbid Angel,0
+2009-01,Motörhead,0
+2009-01,Obituary,0
+2009-01,Slayer,0
+2009-01,Sodom,13
+2009-01,Testament,0
+2009-01,Unleashed,0
+2009-01,Vader,0
+2009-02,[Unknown],0
+2009-02,Anthrax,2
+2009-02,At The Gates,0
+2009-02,Death,0
+2009-02,Destruction,1
+2009-02,Dismember,0
+2009-02,Entombed,0
+2009-02,Grave,0
+2009-02,Judas Priest,4
+2009-02,Kreator,5
+2009-02,Megadeth,1
+2009-02,Metallica,4
+2009-02,Morbid Angel,0
+2009-02,Motörhead,2
+2009-02,Obituary,0
+2009-02,Slayer,4
+2009-02,Sodom,20
+2009-02,Testament,6
+2009-02,Unleashed,0
+2009-02,Vader,0
+2009-03,[Unknown],1
+2009-03,Anthrax,3
+2009-03,At The Gates,0
+2009-03,Death,1
+2009-03,Destruction,6
+2009-03,Dismember,0
+2009-03,Entombed,0
+2009-03,Grave,1
+2009-03,Judas Priest,0
+2009-03,Kreator,11
+2009-03,Megadeth,2
+2009-03,Metallica,5
+2009-03,Morbid Angel,4
+2009-03,Motörhead,0
+2009-03,Obituary,20
+2009-03,Slayer,5
+2009-03,Sodom,10
+2009-03,Testament,4
+2009-03,Unleashed,1
+2009-03,Vader,0
+2009-04,[Unknown],0
+2009-04,Anthrax,0
+2009-04,At The Gates,1
+2009-04,Death,0
+2009-04,Destruction,25
+2009-04,Dismember,2
+2009-04,Entombed,4
+2009-04,Grave,1
+2009-04,Judas Priest,0
+2009-04,Kreator,6
+2009-04,Megadeth,2
+2009-04,Metallica,1
+2009-04,Morbid Angel,1
+2009-04,Motörhead,0
+2009-04,Obituary,1
+2009-04,Slayer,1
+2009-04,Sodom,23
+2009-04,Testament,1
+2009-04,Unleashed,1
+2009-04,Vader,0
+2009-05,[Unknown],0
+2009-05,Anthrax,0
+2009-05,At The Gates,1
+2009-05,Death,0
+2009-05,Destruction,6
+2009-05,Dismember,6
+2009-05,Entombed,1
+2009-05,Grave,2
+2009-05,Judas Priest,0
+2009-05,Kreator,0
+2009-05,Megadeth,0
+2009-05,Metallica,0
+2009-05,Morbid Angel,2
+2009-05,Motörhead,0
+2009-05,Obituary,1
+2009-05,Slayer,0
+2009-05,Sodom,0
+2009-05,Testament,0
+2009-05,Unleashed,3
+2009-05,Vader,1
+2009-06,[Unknown],1
+2009-06,Anthrax,0
+2009-06,At The Gates,0
+2009-06,Death,0
+2009-06,Destruction,0
+2009-06,Dismember,0
+2009-06,Entombed,0
+2009-06,Grave,0
+2009-06,Judas Priest,0
+2009-06,Kreator,15
+2009-06,Megadeth,1
+2009-06,Metallica,1
+2009-06,Morbid Angel,0
+2009-06,Motörhead,0
+2009-06,Obituary,0
+2009-06,Slayer,0
+2009-06,Sodom,9
+2009-06,Testament,1
+2009-06,Unleashed,0
+2009-06,Vader,0

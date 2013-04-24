@@ -1,0 +1,801 @@
+month,artist,plays
+2006-01,Attwenger,0
+2006-01,Bebel Gilberto,1
+2006-01,Bonobo,0
+2006-01,Brazilian Girls,0
+2006-01,Cirque Du Soleil,0
+2006-01,Everything But The Girl,0
+2006-01,Goldfrapp,1
+2006-01,Gotan Project,0
+2006-01,Groove Armada,1
+2006-01,Hallucinogen,4
+2006-01,Infected Mushroom,7
+2006-01,Massive Attack,0
+2006-01,Miss Kittin & The Hacker,0
+2006-01,Ott,5
+2006-01,Portishead,0
+2006-01,Radiohead,0
+2006-01,Shpongle,21
+2006-01,The Knife,0
+2006-01,Tiga,1
+2006-01,Younger Brother,5
+2006-02,Attwenger,0
+2006-02,Bebel Gilberto,0
+2006-02,Bonobo,1
+2006-02,Brazilian Girls,0
+2006-02,Cirque Du Soleil,0
+2006-02,Everything But The Girl,0
+2006-02,Goldfrapp,0
+2006-02,Gotan Project,0
+2006-02,Groove Armada,0
+2006-02,Hallucinogen,3
+2006-02,Infected Mushroom,0
+2006-02,Massive Attack,1
+2006-02,Miss Kittin & The Hacker,2
+2006-02,Ott,2
+2006-02,Portishead,1
+2006-02,Radiohead,2
+2006-02,Shpongle,4
+2006-02,The Knife,0
+2006-02,Tiga,1
+2006-02,Younger Brother,3
+2006-03,Attwenger,0
+2006-03,Bebel Gilberto,0
+2006-03,Bonobo,0
+2006-03,Brazilian Girls,0
+2006-03,Cirque Du Soleil,0
+2006-03,Everything But The Girl,0
+2006-03,Goldfrapp,0
+2006-03,Gotan Project,0
+2006-03,Groove Armada,0
+2006-03,Hallucinogen,1
+2006-03,Infected Mushroom,0
+2006-03,Massive Attack,0
+2006-03,Miss Kittin & The Hacker,1
+2006-03,Ott,2
+2006-03,Portishead,0
+2006-03,Radiohead,0
+2006-03,Shpongle,2
+2006-03,The Knife,0
+2006-03,Tiga,1
+2006-03,Younger Brother,1
+2006-04,Attwenger,0
+2006-04,Bebel Gilberto,1
+2006-04,Bonobo,0
+2006-04,Brazilian Girls,0
+2006-04,Cirque Du Soleil,0
+2006-04,Everything But The Girl,1
+2006-04,Goldfrapp,0
+2006-04,Gotan Project,1
+2006-04,Groove Armada,1
+2006-04,Hallucinogen,2
+2006-04,Infected Mushroom,0
+2006-04,Massive Attack,1
+2006-04,Miss Kittin & The Hacker,1
+2006-04,Ott,2
+2006-04,Portishead,1
+2006-04,Radiohead,0
+2006-04,Shpongle,1
+2006-04,The Knife,0
+2006-04,Tiga,3
+2006-04,Younger Brother,1
+2006-05,Attwenger,0
+2006-05,Bebel Gilberto,0
+2006-05,Bonobo,0
+2006-05,Brazilian Girls,0
+2006-05,Cirque Du Soleil,0
+2006-05,Everything But The Girl,1
+2006-05,Goldfrapp,1
+2006-05,Gotan Project,0
+2006-05,Groove Armada,1
+2006-05,Hallucinogen,0
+2006-05,Infected Mushroom,1
+2006-05,Massive Attack,0
+2006-05,Miss Kittin & The Hacker,0
+2006-05,Ott,0
+2006-05,Portishead,0
+2006-05,Radiohead,1
+2006-05,Shpongle,0
+2006-05,The Knife,0
+2006-05,Tiga,0
+2006-05,Younger Brother,1
+2006-06,Attwenger,1
+2006-06,Bebel Gilberto,0
+2006-06,Bonobo,0
+2006-06,Brazilian Girls,0
+2006-06,Cirque Du Soleil,0
+2006-06,Everything But The Girl,1
+2006-06,Goldfrapp,0
+2006-06,Gotan Project,0
+2006-06,Groove Armada,0
+2006-06,Hallucinogen,1
+2006-06,Infected Mushroom,1
+2006-06,Massive Attack,0
+2006-06,Miss Kittin & The Hacker,0
+2006-06,Ott,0
+2006-06,Portishead,0
+2006-06,Radiohead,0
+2006-06,Shpongle,1
+2006-06,The Knife,0
+2006-06,Tiga,0
+2006-06,Younger Brother,0
+2006-07,Attwenger,1
+2006-07,Bebel Gilberto,1
+2006-07,Bonobo,1
+2006-07,Brazilian Girls,0
+2006-07,Cirque Du Soleil,0
+2006-07,Everything But The Girl,1
+2006-07,Goldfrapp,0
+2006-07,Gotan Project,3
+2006-07,Groove Armada,2
+2006-07,Hallucinogen,0
+2006-07,Infected Mushroom,0
+2006-07,Massive Attack,2
+2006-07,Miss Kittin & The Hacker,1
+2006-07,Ott,0
+2006-07,Portishead,1
+2006-07,Radiohead,1
+2006-07,Shpongle,0
+2006-07,The Knife,0
+2006-07,Tiga,1
+2006-07,Younger Brother,0
+2006-08,Attwenger,0
+2006-08,Bebel Gilberto,1
+2006-08,Bonobo,0
+2006-08,Brazilian Girls,0
+2006-08,Cirque Du Soleil,0
+2006-08,Everything But The Girl,0
+2006-08,Goldfrapp,0
+2006-08,Gotan Project,0
+2006-08,Groove Armada,0
+2006-08,Hallucinogen,0
+2006-08,Infected Mushroom,0
+2006-08,Massive Attack,0
+2006-08,Miss Kittin & The Hacker,0
+2006-08,Ott,0
+2006-08,Portishead,0
+2006-08,Radiohead,0
+2006-08,Shpongle,0
+2006-08,The Knife,0
+2006-08,Tiga,0
+2006-08,Younger Brother,0
+2006-09,Attwenger,0
+2006-09,Bebel Gilberto,0
+2006-09,Bonobo,0
+2006-09,Brazilian Girls,0
+2006-09,Cirque Du Soleil,0
+2006-09,Everything But The Girl,0
+2006-09,Goldfrapp,0
+2006-09,Gotan Project,0
+2006-09,Groove Armada,0
+2006-09,Hallucinogen,0
+2006-09,Infected Mushroom,0
+2006-09,Massive Attack,0
+2006-09,Miss Kittin & The Hacker,1
+2006-09,Ott,0
+2006-09,Portishead,0
+2006-09,Radiohead,0
+2006-09,Shpongle,0
+2006-09,The Knife,0
+2006-09,Tiga,1
+2006-09,Younger Brother,0
+2006-10,Attwenger,1
+2006-10,Bebel Gilberto,0
+2006-10,Bonobo,0
+2006-10,Brazilian Girls,0
+2006-10,Cirque Du Soleil,0
+2006-10,Everything But The Girl,0
+2006-10,Goldfrapp,0
+2006-10,Gotan Project,0
+2006-10,Groove Armada,0
+2006-10,Hallucinogen,1
+2006-10,Infected Mushroom,0
+2006-10,Massive Attack,0
+2006-10,Miss Kittin & The Hacker,0
+2006-10,Ott,0
+2006-10,Portishead,0
+2006-10,Radiohead,0
+2006-10,Shpongle,0
+2006-10,The Knife,0
+2006-10,Tiga,0
+2006-10,Younger Brother,0
+2006-11,Attwenger,0
+2006-11,Bebel Gilberto,1
+2006-11,Bonobo,1
+2006-11,Brazilian Girls,0
+2006-11,Cirque Du Soleil,0
+2006-11,Everything But The Girl,0
+2006-11,Goldfrapp,0
+2006-11,Gotan Project,0
+2006-11,Groove Armada,0
+2006-11,Hallucinogen,0
+2006-11,Infected Mushroom,0
+2006-11,Massive Attack,1
+2006-11,Miss Kittin & The Hacker,2
+2006-11,Ott,0
+2006-11,Portishead,1
+2006-11,Radiohead,0
+2006-11,Shpongle,1
+2006-11,The Knife,0
+2006-11,Tiga,1
+2006-11,Younger Brother,1
+2006-12,Attwenger,0
+2006-12,Bebel Gilberto,1
+2006-12,Bonobo,0
+2006-12,Brazilian Girls,0
+2006-12,Cirque Du Soleil,0
+2006-12,Everything But The Girl,0
+2006-12,Goldfrapp,0
+2006-12,Gotan Project,0
+2006-12,Groove Armada,0
+2006-12,Hallucinogen,0
+2006-12,Infected Mushroom,0
+2006-12,Massive Attack,0
+2006-12,Miss Kittin & The Hacker,0
+2006-12,Ott,0
+2006-12,Portishead,0
+2006-12,Radiohead,0
+2006-12,Shpongle,1
+2006-12,The Knife,0
+2006-12,Tiga,0
+2006-12,Younger Brother,1
+2007-01,Attwenger,0
+2007-01,Bebel Gilberto,0
+2007-01,Bonobo,1
+2007-01,Brazilian Girls,0
+2007-01,Cirque Du Soleil,0
+2007-01,Everything But The Girl,1
+2007-01,Goldfrapp,1
+2007-01,Gotan Project,0
+2007-01,Groove Armada,1
+2007-01,Hallucinogen,0
+2007-01,Infected Mushroom,0
+2007-01,Massive Attack,1
+2007-01,Miss Kittin & The Hacker,0
+2007-01,Ott,0
+2007-01,Portishead,0
+2007-01,Radiohead,0
+2007-01,Shpongle,0
+2007-01,The Knife,0
+2007-01,Tiga,0
+2007-01,Younger Brother,0
+2007-02,Attwenger,0
+2007-02,Bebel Gilberto,0
+2007-02,Bonobo,0
+2007-02,Brazilian Girls,0
+2007-02,Cirque Du Soleil,0
+2007-02,Everything But The Girl,0
+2007-02,Goldfrapp,0
+2007-02,Gotan Project,0
+2007-02,Groove Armada,0
+2007-02,Hallucinogen,0
+2007-02,Infected Mushroom,0
+2007-02,Massive Attack,0
+2007-02,Miss Kittin & The Hacker,0
+2007-02,Ott,0
+2007-02,Portishead,0
+2007-02,Radiohead,0
+2007-02,Shpongle,0
+2007-02,The Knife,0
+2007-02,Tiga,0
+2007-02,Younger Brother,0
+2007-03,Attwenger,0
+2007-03,Bebel Gilberto,5
+2007-03,Bonobo,0
+2007-03,Brazilian Girls,2
+2007-03,Cirque Du Soleil,0
+2007-03,Everything But The Girl,1
+2007-03,Goldfrapp,1
+2007-03,Gotan Project,14
+2007-03,Groove Armada,1
+2007-03,Hallucinogen,0
+2007-03,Infected Mushroom,0
+2007-03,Massive Attack,1
+2007-03,Miss Kittin & The Hacker,0
+2007-03,Ott,1
+2007-03,Portishead,2
+2007-03,Radiohead,1
+2007-03,Shpongle,0
+2007-03,The Knife,1
+2007-03,Tiga,0
+2007-03,Younger Brother,0
+2007-04,Attwenger,0
+2007-04,Bebel Gilberto,14
+2007-04,Bonobo,6
+2007-04,Brazilian Girls,6
+2007-04,Cirque Du Soleil,0
+2007-04,Everything But The Girl,5
+2007-04,Goldfrapp,4
+2007-04,Gotan Project,59
+2007-04,Groove Armada,6
+2007-04,Hallucinogen,1
+2007-04,Infected Mushroom,3
+2007-04,Massive Attack,9
+2007-04,Miss Kittin & The Hacker,0
+2007-04,Ott,4
+2007-04,Portishead,5
+2007-04,Radiohead,9
+2007-04,Shpongle,140
+2007-04,The Knife,0
+2007-04,Tiga,0
+2007-04,Younger Brother,2
+2007-05,Attwenger,0
+2007-05,Bebel Gilberto,7
+2007-05,Bonobo,7
+2007-05,Brazilian Girls,1
+2007-05,Cirque Du Soleil,0
+2007-05,Everything But The Girl,3
+2007-05,Goldfrapp,6
+2007-05,Gotan Project,44
+2007-05,Groove Armada,7
+2007-05,Hallucinogen,0
+2007-05,Infected Mushroom,1
+2007-05,Massive Attack,6
+2007-05,Miss Kittin & The Hacker,10
+2007-05,Ott,37
+2007-05,Portishead,7
+2007-05,Radiohead,6
+2007-05,Shpongle,40
+2007-05,The Knife,1
+2007-05,Tiga,3
+2007-05,Younger Brother,0
+2007-06,Attwenger,36
+2007-06,Bebel Gilberto,1
+2007-06,Bonobo,1
+2007-06,Brazilian Girls,37
+2007-06,Cirque Du Soleil,11
+2007-06,Everything But The Girl,5
+2007-06,Goldfrapp,3
+2007-06,Gotan Project,14
+2007-06,Groove Armada,8
+2007-06,Hallucinogen,0
+2007-06,Infected Mushroom,0
+2007-06,Massive Attack,12
+2007-06,Miss Kittin & The Hacker,8
+2007-06,Ott,26
+2007-06,Portishead,10
+2007-06,Radiohead,12
+2007-06,Shpongle,81
+2007-06,The Knife,11
+2007-06,Tiga,6
+2007-06,Younger Brother,0
+2007-07,Attwenger,20
+2007-07,Bebel Gilberto,2
+2007-07,Bonobo,4
+2007-07,Brazilian Girls,49
+2007-07,Cirque Du Soleil,20
+2007-07,Everything But The Girl,2
+2007-07,Goldfrapp,2
+2007-07,Gotan Project,13
+2007-07,Groove Armada,2
+2007-07,Hallucinogen,3
+2007-07,Infected Mushroom,3
+2007-07,Massive Attack,1
+2007-07,Miss Kittin & The Hacker,2
+2007-07,Ott,29
+2007-07,Portishead,1
+2007-07,Radiohead,10
+2007-07,Shpongle,37
+2007-07,The Knife,0
+2007-07,Tiga,0
+2007-07,Younger Brother,2
+2007-08,Attwenger,0
+2007-08,Bebel Gilberto,0
+2007-08,Bonobo,0
+2007-08,Brazilian Girls,0
+2007-08,Cirque Du Soleil,0
+2007-08,Everything But The Girl,1
+2007-08,Goldfrapp,1
+2007-08,Gotan Project,2
+2007-08,Groove Armada,2
+2007-08,Hallucinogen,0
+2007-08,Infected Mushroom,1
+2007-08,Massive Attack,2
+2007-08,Miss Kittin & The Hacker,1
+2007-08,Ott,0
+2007-08,Portishead,0
+2007-08,Radiohead,0
+2007-08,Shpongle,1
+2007-08,The Knife,5
+2007-08,Tiga,3
+2007-08,Younger Brother,0
+2007-09,Attwenger,0
+2007-09,Bebel Gilberto,0
+2007-09,Bonobo,0
+2007-09,Brazilian Girls,15
+2007-09,Cirque Du Soleil,0
+2007-09,Everything But The Girl,1
+2007-09,Goldfrapp,2
+2007-09,Gotan Project,4
+2007-09,Groove Armada,2
+2007-09,Hallucinogen,1
+2007-09,Infected Mushroom,0
+2007-09,Massive Attack,6
+2007-09,Miss Kittin & The Hacker,0
+2007-09,Ott,3
+2007-09,Portishead,1
+2007-09,Radiohead,1
+2007-09,Shpongle,10
+2007-09,The Knife,4
+2007-09,Tiga,2
+2007-09,Younger Brother,0
+2007-10,Attwenger,30
+2007-10,Bebel Gilberto,0
+2007-10,Bonobo,0
+2007-10,Brazilian Girls,69
+2007-10,Cirque Du Soleil,18
+2007-10,Everything But The Girl,0
+2007-10,Goldfrapp,0
+2007-10,Gotan Project,0
+2007-10,Groove Armada,0
+2007-10,Hallucinogen,0
+2007-10,Infected Mushroom,0
+2007-10,Massive Attack,0
+2007-10,Miss Kittin & The Hacker,0
+2007-10,Ott,12
+2007-10,Portishead,0
+2007-10,Radiohead,3
+2007-10,Shpongle,120
+2007-10,The Knife,1
+2007-10,Tiga,0
+2007-10,Younger Brother,0
+2007-11,Attwenger,24
+2007-11,Bebel Gilberto,0
+2007-11,Bonobo,0
+2007-11,Brazilian Girls,1
+2007-11,Cirque Du Soleil,19
+2007-11,Everything But The Girl,0
+2007-11,Goldfrapp,4
+2007-11,Gotan Project,54
+2007-11,Groove Armada,0
+2007-11,Hallucinogen,0
+2007-11,Infected Mushroom,2
+2007-11,Massive Attack,1
+2007-11,Miss Kittin & The Hacker,1
+2007-11,Ott,34
+2007-11,Portishead,15
+2007-11,Radiohead,2
+2007-11,Shpongle,7
+2007-11,The Knife,52
+2007-11,Tiga,0
+2007-11,Younger Brother,0
+2007-12,Attwenger,8
+2007-12,Bebel Gilberto,2
+2007-12,Bonobo,0
+2007-12,Brazilian Girls,8
+2007-12,Cirque Du Soleil,24
+2007-12,Everything But The Girl,0
+2007-12,Goldfrapp,4
+2007-12,Gotan Project,0
+2007-12,Groove Armada,0
+2007-12,Hallucinogen,0
+2007-12,Infected Mushroom,10
+2007-12,Massive Attack,0
+2007-12,Miss Kittin & The Hacker,2
+2007-12,Ott,4
+2007-12,Portishead,4
+2007-12,Radiohead,11
+2007-12,Shpongle,18
+2007-12,The Knife,10
+2007-12,Tiga,1
+2007-12,Younger Brother,0
+2008-01,Attwenger,0
+2008-01,Bebel Gilberto,0
+2008-01,Bonobo,8
+2008-01,Brazilian Girls,0
+2008-01,Cirque Du Soleil,0
+2008-01,Everything But The Girl,0
+2008-01,Goldfrapp,0
+2008-01,Gotan Project,0
+2008-01,Groove Armada,0
+2008-01,Hallucinogen,3
+2008-01,Infected Mushroom,15
+2008-01,Massive Attack,0
+2008-01,Miss Kittin & The Hacker,0
+2008-01,Ott,13
+2008-01,Portishead,0
+2008-01,Radiohead,3
+2008-01,Shpongle,7
+2008-01,The Knife,4
+2008-01,Tiga,0
+2008-01,Younger Brother,1
+2008-02,Attwenger,1
+2008-02,Bebel Gilberto,0
+2008-02,Bonobo,26
+2008-02,Brazilian Girls,11
+2008-02,Cirque Du Soleil,15
+2008-02,Everything But The Girl,0
+2008-02,Goldfrapp,2
+2008-02,Gotan Project,0
+2008-02,Groove Armada,0
+2008-02,Hallucinogen,0
+2008-02,Infected Mushroom,16
+2008-02,Massive Attack,0
+2008-02,Miss Kittin & The Hacker,0
+2008-02,Ott,2
+2008-02,Portishead,3
+2008-02,Radiohead,0
+2008-02,Shpongle,2
+2008-02,The Knife,3
+2008-02,Tiga,2
+2008-02,Younger Brother,2
+2008-03,Attwenger,1
+2008-03,Bebel Gilberto,1
+2008-03,Bonobo,19
+2008-03,Brazilian Girls,0
+2008-03,Cirque Du Soleil,5
+2008-03,Everything But The Girl,0
+2008-03,Goldfrapp,2
+2008-03,Gotan Project,7
+2008-03,Groove Armada,0
+2008-03,Hallucinogen,0
+2008-03,Infected Mushroom,6
+2008-03,Massive Attack,2
+2008-03,Miss Kittin & The Hacker,0
+2008-03,Ott,3
+2008-03,Portishead,0
+2008-03,Radiohead,1
+2008-03,Shpongle,2
+2008-03,The Knife,0
+2008-03,Tiga,0
+2008-03,Younger Brother,1
+2008-04,Attwenger,0
+2008-04,Bebel Gilberto,0
+2008-04,Bonobo,0
+2008-04,Brazilian Girls,2
+2008-04,Cirque Du Soleil,2
+2008-04,Everything But The Girl,0
+2008-04,Goldfrapp,1
+2008-04,Gotan Project,0
+2008-04,Groove Armada,0
+2008-04,Hallucinogen,2
+2008-04,Infected Mushroom,4
+2008-04,Massive Attack,3
+2008-04,Miss Kittin & The Hacker,2
+2008-04,Ott,0
+2008-04,Portishead,1
+2008-04,Radiohead,0
+2008-04,Shpongle,11
+2008-04,The Knife,0
+2008-04,Tiga,0
+2008-04,Younger Brother,0
+2008-05,Attwenger,2
+2008-05,Bebel Gilberto,0
+2008-05,Bonobo,0
+2008-05,Brazilian Girls,1
+2008-05,Cirque Du Soleil,2
+2008-05,Everything But The Girl,0
+2008-05,Goldfrapp,0
+2008-05,Gotan Project,2
+2008-05,Groove Armada,0
+2008-05,Hallucinogen,1
+2008-05,Infected Mushroom,4
+2008-05,Massive Attack,0
+2008-05,Miss Kittin & The Hacker,1
+2008-05,Ott,1
+2008-05,Portishead,0
+2008-05,Radiohead,0
+2008-05,Shpongle,16
+2008-05,The Knife,1
+2008-05,Tiga,0
+2008-05,Younger Brother,9
+2008-06,Attwenger,10
+2008-06,Bebel Gilberto,0
+2008-06,Bonobo,26
+2008-06,Brazilian Girls,5
+2008-06,Cirque Du Soleil,1
+2008-06,Everything But The Girl,0
+2008-06,Goldfrapp,0
+2008-06,Gotan Project,0
+2008-06,Groove Armada,0
+2008-06,Hallucinogen,0
+2008-06,Infected Mushroom,5
+2008-06,Massive Attack,0
+2008-06,Miss Kittin & The Hacker,0
+2008-06,Ott,4
+2008-06,Portishead,1
+2008-06,Radiohead,3
+2008-06,Shpongle,7
+2008-06,The Knife,1
+2008-06,Tiga,5
+2008-06,Younger Brother,0
+2008-07,Attwenger,13
+2008-07,Bebel Gilberto,0
+2008-07,Bonobo,16
+2008-07,Brazilian Girls,0
+2008-07,Cirque Du Soleil,2
+2008-07,Everything But The Girl,0
+2008-07,Goldfrapp,0
+2008-07,Gotan Project,8
+2008-07,Groove Armada,0
+2008-07,Hallucinogen,9
+2008-07,Infected Mushroom,8
+2008-07,Massive Attack,0
+2008-07,Miss Kittin & The Hacker,0
+2008-07,Ott,0
+2008-07,Portishead,0
+2008-07,Radiohead,0
+2008-07,Shpongle,36
+2008-07,The Knife,0
+2008-07,Tiga,1
+2008-07,Younger Brother,3
+2008-08,Attwenger,0
+2008-08,Bebel Gilberto,0
+2008-08,Bonobo,14
+2008-08,Brazilian Girls,0
+2008-08,Cirque Du Soleil,0
+2008-08,Everything But The Girl,0
+2008-08,Goldfrapp,0
+2008-08,Gotan Project,1
+2008-08,Groove Armada,0
+2008-08,Hallucinogen,2
+2008-08,Infected Mushroom,2
+2008-08,Massive Attack,0
+2008-08,Miss Kittin & The Hacker,0
+2008-08,Ott,2
+2008-08,Portishead,0
+2008-08,Radiohead,0
+2008-08,Shpongle,35
+2008-08,The Knife,0
+2008-08,Tiga,0
+2008-08,Younger Brother,5
+2008-09,Attwenger,0
+2008-09,Bebel Gilberto,0
+2008-09,Bonobo,0
+2008-09,Brazilian Girls,0
+2008-09,Cirque Du Soleil,0
+2008-09,Everything But The Girl,0
+2008-09,Goldfrapp,0
+2008-09,Gotan Project,0
+2008-09,Groove Armada,0
+2008-09,Hallucinogen,1
+2008-09,Infected Mushroom,0
+2008-09,Massive Attack,0
+2008-09,Miss Kittin & The Hacker,0
+2008-09,Ott,0
+2008-09,Portishead,0
+2008-09,Radiohead,0
+2008-09,Shpongle,2
+2008-09,The Knife,0
+2008-09,Tiga,0
+2008-09,Younger Brother,2
+2008-10,Attwenger,0
+2008-10,Bebel Gilberto,0
+2008-10,Bonobo,0
+2008-10,Brazilian Girls,0
+2008-10,Cirque Du Soleil,0
+2008-10,Everything But The Girl,0
+2008-10,Goldfrapp,0
+2008-10,Gotan Project,0
+2008-10,Groove Armada,0
+2008-10,Hallucinogen,0
+2008-10,Infected Mushroom,0
+2008-10,Massive Attack,0
+2008-10,Miss Kittin & The Hacker,0
+2008-10,Ott,0
+2008-10,Portishead,0
+2008-10,Radiohead,0
+2008-10,Shpongle,0
+2008-10,The Knife,2
+2008-10,Tiga,0
+2008-10,Younger Brother,0
+2008-11,Attwenger,0
+2008-11,Bebel Gilberto,0
+2008-11,Bonobo,0
+2008-11,Brazilian Girls,0
+2008-11,Cirque Du Soleil,0
+2008-11,Everything But The Girl,0
+2008-11,Goldfrapp,0
+2008-11,Gotan Project,0
+2008-11,Groove Armada,0
+2008-11,Hallucinogen,0
+2008-11,Infected Mushroom,0
+2008-11,Massive Attack,0
+2008-11,Miss Kittin & The Hacker,0
+2008-11,Ott,0
+2008-11,Portishead,0
+2008-11,Radiohead,0
+2008-11,Shpongle,0
+2008-11,The Knife,0
+2008-11,Tiga,0
+2008-11,Younger Brother,0
+2008-12,Attwenger,0
+2008-12,Bebel Gilberto,0
+2008-12,Bonobo,0
+2008-12,Brazilian Girls,0
+2008-12,Cirque Du Soleil,2
+2008-12,Everything But The Girl,0
+2008-12,Goldfrapp,0
+2008-12,Gotan Project,3
+2008-12,Groove Armada,0
+2008-12,Hallucinogen,0
+2008-12,Infected Mushroom,0
+2008-12,Massive Attack,0
+2008-12,Miss Kittin & The Hacker,0
+2008-12,Ott,1
+2008-12,Portishead,0
+2008-12,Radiohead,0
+2008-12,Shpongle,0
+2008-12,The Knife,6
+2008-12,Tiga,0
+2008-12,Younger Brother,0
+2009-01,Attwenger,0
+2009-01,Bebel Gilberto,0
+2009-01,Bonobo,0
+2009-01,Brazilian Girls,0
+2009-01,Cirque Du Soleil,0
+2009-01,Everything But The Girl,0
+2009-01,Goldfrapp,0
+2009-01,Gotan Project,0
+2009-01,Groove Armada,0
+2009-01,Hallucinogen,0
+2009-01,Infected Mushroom,0
+2009-01,Massive Attack,0
+2009-01,Miss Kittin & The Hacker,0
+2009-01,Ott,0
+2009-01,Portishead,0
+2009-01,Radiohead,0
+2009-01,Shpongle,0
+2009-01,The Knife,0
+2009-01,Tiga,0
+2009-01,Younger Brother,0
+2009-02,Attwenger,0
+2009-02,Bebel Gilberto,0
+2009-02,Bonobo,1
+2009-02,Brazilian Girls,0
+2009-02,Cirque Du Soleil,0
+2009-02,Everything But The Girl,0
+2009-02,Goldfrapp,0
+2009-02,Gotan Project,4
+2009-02,Groove Armada,0
+2009-02,Hallucinogen,0
+2009-02,Infected Mushroom,0
+2009-02,Massive Attack,0
+2009-02,Miss Kittin & The Hacker,0
+2009-02,Ott,0
+2009-02,Portishead,0
+2009-02,Radiohead,2
+2009-02,Shpongle,0
+2009-02,The Knife,2
+2009-02,Tiga,0
+2009-02,Younger Brother,0
+2009-03,Attwenger,15
+2009-03,Bebel Gilberto,0
+2009-03,Bonobo,11
+2009-03,Brazilian Girls,0
+2009-03,Cirque Du Soleil,0
+2009-03,Everything But The Girl,0
+2009-03,Goldfrapp,0
+2009-03,Gotan Project,0
+2009-03,Groove Armada,0
+2009-03,Hallucinogen,0
+2009-03,Infected Mushroom,0
+2009-03,Massive Attack,0
+2009-03,Miss Kittin & The Hacker,0
+2009-03,Ott,0
+2009-03,Portishead,0
+2009-03,Radiohead,0
+2009-03,Shpongle,0
+2009-03,The Knife,0
+2009-03,Tiga,0
+2009-03,Younger Brother,2
+2009-04,Attwenger,0
+2009-04,Bebel Gilberto,0
+2009-04,Bonobo,20
+2009-04,Brazilian Girls,0
+2009-04,Cirque Du Soleil,0
+2009-04,Everything But The Girl,0
+2009-04,Goldfrapp,0
+2009-04,Gotan Project,0
+2009-04,Groove Armada,0
+2009-04,Hallucinogen,3
+2009-04,Infected Mushroom,0
+2009-04,Massive Attack,0
+2009-04,Miss Kittin & The Hacker,0
+2009-04,Ott,1
+2009-04,Portishead,0
+2009-04,Radiohead,0
+2009-04,Shpongle,0
+2009-04,The Knife,1
+2009-04,Tiga,0
+2009-04,Younger Brother,0

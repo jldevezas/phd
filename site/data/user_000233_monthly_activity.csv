@@ -1,0 +1,961 @@
+month,artist,plays
+2005-07,Amber,7
+2005-07,Annie Lennox,0
+2005-07,Armand Van Helden,1
+2005-07,Britney Spears,2
+2005-07,Cher,0
+2005-07,Christina Aguilera,2
+2005-07,Dana International,0
+2005-07,Deborah Cox,4
+2005-07,Donna Summer,3
+2005-07,Eurythmics,1
+2005-07,Gloria Estefan,1
+2005-07,Janet Jackson,6
+2005-07,Kelly Clarkson,5
+2005-07,Kristine W,2
+2005-07,Kylie Minogue,5
+2005-07,Madonna,26
+2005-07,Mariah Carey,26
+2005-07,P!Nk,3
+2005-07,Rihanna,0
+2005-07,Whitney Houston,1
+2005-08,Amber,10
+2005-08,Annie Lennox,2
+2005-08,Armand Van Helden,9
+2005-08,Britney Spears,42
+2005-08,Cher,2
+2005-08,Christina Aguilera,9
+2005-08,Dana International,0
+2005-08,Deborah Cox,23
+2005-08,Donna Summer,7
+2005-08,Eurythmics,4
+2005-08,Gloria Estefan,4
+2005-08,Janet Jackson,9
+2005-08,Kelly Clarkson,14
+2005-08,Kristine W,14
+2005-08,Kylie Minogue,12
+2005-08,Madonna,50
+2005-08,Mariah Carey,45
+2005-08,P!Nk,2
+2005-08,Rihanna,3
+2005-08,Whitney Houston,3
+2005-09,Amber,4
+2005-09,Annie Lennox,6
+2005-09,Armand Van Helden,4
+2005-09,Britney Spears,40
+2005-09,Cher,3
+2005-09,Christina Aguilera,2
+2005-09,Dana International,0
+2005-09,Deborah Cox,32
+2005-09,Donna Summer,9
+2005-09,Eurythmics,22
+2005-09,Gloria Estefan,6
+2005-09,Janet Jackson,15
+2005-09,Kelly Clarkson,11
+2005-09,Kristine W,1
+2005-09,Kylie Minogue,5
+2005-09,Madonna,148
+2005-09,Mariah Carey,36
+2005-09,P!Nk,0
+2005-09,Rihanna,2
+2005-09,Whitney Houston,3
+2005-10,Amber,5
+2005-10,Annie Lennox,17
+2005-10,Armand Van Helden,5
+2005-10,Britney Spears,36
+2005-10,Cher,4
+2005-10,Christina Aguilera,4
+2005-10,Dana International,24
+2005-10,Deborah Cox,33
+2005-10,Donna Summer,27
+2005-10,Eurythmics,29
+2005-10,Gloria Estefan,9
+2005-10,Janet Jackson,7
+2005-10,Kelly Clarkson,14
+2005-10,Kristine W,6
+2005-10,Kylie Minogue,10
+2005-10,Madonna,175
+2005-10,Mariah Carey,37
+2005-10,P!Nk,1
+2005-10,Rihanna,1
+2005-10,Whitney Houston,8
+2005-11,Amber,20
+2005-11,Annie Lennox,3
+2005-11,Armand Van Helden,0
+2005-11,Britney Spears,33
+2005-11,Cher,1
+2005-11,Christina Aguilera,2
+2005-11,Dana International,10
+2005-11,Deborah Cox,52
+2005-11,Donna Summer,10
+2005-11,Eurythmics,7
+2005-11,Gloria Estefan,9
+2005-11,Janet Jackson,12
+2005-11,Kelly Clarkson,7
+2005-11,Kristine W,25
+2005-11,Kylie Minogue,4
+2005-11,Madonna,263
+2005-11,Mariah Carey,136
+2005-11,P!Nk,2
+2005-11,Rihanna,2
+2005-11,Whitney Houston,7
+2005-12,Amber,10
+2005-12,Annie Lennox,13
+2005-12,Armand Van Helden,3
+2005-12,Britney Spears,26
+2005-12,Cher,10
+2005-12,Christina Aguilera,1
+2005-12,Dana International,20
+2005-12,Deborah Cox,18
+2005-12,Donna Summer,16
+2005-12,Eurythmics,19
+2005-12,Gloria Estefan,3
+2005-12,Janet Jackson,20
+2005-12,Kelly Clarkson,11
+2005-12,Kristine W,18
+2005-12,Kylie Minogue,3
+2005-12,Madonna,94
+2005-12,Mariah Carey,37
+2005-12,P!Nk,3
+2005-12,Rihanna,2
+2005-12,Whitney Houston,7
+2006-01,Amber,11
+2006-01,Annie Lennox,4
+2006-01,Armand Van Helden,3
+2006-01,Britney Spears,15
+2006-01,Cher,1
+2006-01,Christina Aguilera,0
+2006-01,Dana International,4
+2006-01,Deborah Cox,11
+2006-01,Donna Summer,17
+2006-01,Eurythmics,7
+2006-01,Gloria Estefan,2
+2006-01,Janet Jackson,3
+2006-01,Kelly Clarkson,5
+2006-01,Kristine W,13
+2006-01,Kylie Minogue,3
+2006-01,Madonna,294
+2006-01,Mariah Carey,154
+2006-01,P!Nk,1
+2006-01,Rihanna,2
+2006-01,Whitney Houston,1
+2006-02,Amber,6
+2006-02,Annie Lennox,4
+2006-02,Armand Van Helden,1
+2006-02,Britney Spears,21
+2006-02,Cher,5
+2006-02,Christina Aguilera,4
+2006-02,Dana International,9
+2006-02,Deborah Cox,12
+2006-02,Donna Summer,12
+2006-02,Eurythmics,7
+2006-02,Gloria Estefan,6
+2006-02,Janet Jackson,3
+2006-02,Kelly Clarkson,34
+2006-02,Kristine W,10
+2006-02,Kylie Minogue,17
+2006-02,Madonna,119
+2006-02,Mariah Carey,34
+2006-02,P!Nk,26
+2006-02,Rihanna,6
+2006-02,Whitney Houston,4
+2006-03,Amber,10
+2006-03,Annie Lennox,4
+2006-03,Armand Van Helden,2
+2006-03,Britney Spears,15
+2006-03,Cher,3
+2006-03,Christina Aguilera,9
+2006-03,Dana International,5
+2006-03,Deborah Cox,5
+2006-03,Donna Summer,7
+2006-03,Eurythmics,5
+2006-03,Gloria Estefan,4
+2006-03,Janet Jackson,0
+2006-03,Kelly Clarkson,50
+2006-03,Kristine W,5
+2006-03,Kylie Minogue,3
+2006-03,Madonna,97
+2006-03,Mariah Carey,33
+2006-03,P!Nk,4
+2006-03,Rihanna,20
+2006-03,Whitney Houston,4
+2006-04,Amber,1
+2006-04,Annie Lennox,4
+2006-04,Armand Van Helden,4
+2006-04,Britney Spears,14
+2006-04,Cher,4
+2006-04,Christina Aguilera,1
+2006-04,Dana International,1
+2006-04,Deborah Cox,6
+2006-04,Donna Summer,9
+2006-04,Eurythmics,5
+2006-04,Gloria Estefan,3
+2006-04,Janet Jackson,5
+2006-04,Kelly Clarkson,8
+2006-04,Kristine W,4
+2006-04,Kylie Minogue,5
+2006-04,Madonna,75
+2006-04,Mariah Carey,23
+2006-04,P!Nk,5
+2006-04,Rihanna,7
+2006-04,Whitney Houston,18
+2006-05,Amber,1
+2006-05,Annie Lennox,3
+2006-05,Armand Van Helden,5
+2006-05,Britney Spears,0
+2006-05,Cher,0
+2006-05,Christina Aguilera,0
+2006-05,Dana International,2
+2006-05,Deborah Cox,0
+2006-05,Donna Summer,2
+2006-05,Eurythmics,2
+2006-05,Gloria Estefan,3
+2006-05,Janet Jackson,6
+2006-05,Kelly Clarkson,6
+2006-05,Kristine W,0
+2006-05,Kylie Minogue,38
+2006-05,Madonna,75
+2006-05,Mariah Carey,32
+2006-05,P!Nk,13
+2006-05,Rihanna,14
+2006-05,Whitney Houston,7
+2006-06,Amber,7
+2006-06,Annie Lennox,3
+2006-06,Armand Van Helden,5
+2006-06,Britney Spears,16
+2006-06,Cher,7
+2006-06,Christina Aguilera,49
+2006-06,Dana International,4
+2006-06,Deborah Cox,9
+2006-06,Donna Summer,16
+2006-06,Eurythmics,3
+2006-06,Gloria Estefan,2
+2006-06,Janet Jackson,14
+2006-06,Kelly Clarkson,4
+2006-06,Kristine W,15
+2006-06,Kylie Minogue,6
+2006-06,Madonna,114
+2006-06,Mariah Carey,56
+2006-06,P!Nk,5
+2006-06,Rihanna,23
+2006-06,Whitney Houston,14
+2006-07,Amber,2
+2006-07,Annie Lennox,3
+2006-07,Armand Van Helden,0
+2006-07,Britney Spears,13
+2006-07,Cher,2
+2006-07,Christina Aguilera,20
+2006-07,Dana International,10
+2006-07,Deborah Cox,4
+2006-07,Donna Summer,5
+2006-07,Eurythmics,0
+2006-07,Gloria Estefan,0
+2006-07,Janet Jackson,7
+2006-07,Kelly Clarkson,4
+2006-07,Kristine W,11
+2006-07,Kylie Minogue,5
+2006-07,Madonna,93
+2006-07,Mariah Carey,23
+2006-07,P!Nk,2
+2006-07,Rihanna,4
+2006-07,Whitney Houston,4
+2006-08,Amber,4
+2006-08,Annie Lennox,3
+2006-08,Armand Van Helden,1
+2006-08,Britney Spears,6
+2006-08,Cher,10
+2006-08,Christina Aguilera,43
+2006-08,Dana International,9
+2006-08,Deborah Cox,7
+2006-08,Donna Summer,14
+2006-08,Eurythmics,3
+2006-08,Gloria Estefan,6
+2006-08,Janet Jackson,8
+2006-08,Kelly Clarkson,2
+2006-08,Kristine W,15
+2006-08,Kylie Minogue,4
+2006-08,Madonna,72
+2006-08,Mariah Carey,25
+2006-08,P!Nk,9
+2006-08,Rihanna,4
+2006-08,Whitney Houston,4
+2006-09,Amber,3
+2006-09,Annie Lennox,1
+2006-09,Armand Van Helden,1
+2006-09,Britney Spears,11
+2006-09,Cher,2
+2006-09,Christina Aguilera,11
+2006-09,Dana International,2
+2006-09,Deborah Cox,4
+2006-09,Donna Summer,3
+2006-09,Eurythmics,9
+2006-09,Gloria Estefan,7
+2006-09,Janet Jackson,7
+2006-09,Kelly Clarkson,2
+2006-09,Kristine W,8
+2006-09,Kylie Minogue,2
+2006-09,Madonna,88
+2006-09,Mariah Carey,16
+2006-09,P!Nk,1
+2006-09,Rihanna,2
+2006-09,Whitney Houston,2
+2006-10,Amber,17
+2006-10,Annie Lennox,4
+2006-10,Armand Van Helden,4
+2006-10,Britney Spears,20
+2006-10,Cher,5
+2006-10,Christina Aguilera,47
+2006-10,Dana International,3
+2006-10,Deborah Cox,11
+2006-10,Donna Summer,6
+2006-10,Eurythmics,29
+2006-10,Gloria Estefan,4
+2006-10,Janet Jackson,15
+2006-10,Kelly Clarkson,13
+2006-10,Kristine W,14
+2006-10,Kylie Minogue,1
+2006-10,Madonna,110
+2006-10,Mariah Carey,44
+2006-10,P!Nk,4
+2006-10,Rihanna,17
+2006-10,Whitney Houston,9
+2006-11,Amber,32
+2006-11,Annie Lennox,11
+2006-11,Armand Van Helden,8
+2006-11,Britney Spears,45
+2006-11,Cher,10
+2006-11,Christina Aguilera,105
+2006-11,Dana International,11
+2006-11,Deborah Cox,53
+2006-11,Donna Summer,30
+2006-11,Eurythmics,12
+2006-11,Gloria Estefan,55
+2006-11,Janet Jackson,23
+2006-11,Kelly Clarkson,39
+2006-11,Kristine W,46
+2006-11,Kylie Minogue,15
+2006-11,Madonna,368
+2006-11,Mariah Carey,142
+2006-11,P!Nk,16
+2006-11,Rihanna,17
+2006-11,Whitney Houston,38
+2006-12,Amber,45
+2006-12,Annie Lennox,12
+2006-12,Armand Van Helden,15
+2006-12,Britney Spears,70
+2006-12,Cher,13
+2006-12,Christina Aguilera,104
+2006-12,Dana International,144
+2006-12,Deborah Cox,51
+2006-12,Donna Summer,34
+2006-12,Eurythmics,66
+2006-12,Gloria Estefan,34
+2006-12,Janet Jackson,24
+2006-12,Kelly Clarkson,66
+2006-12,Kristine W,89
+2006-12,Kylie Minogue,41
+2006-12,Madonna,319
+2006-12,Mariah Carey,220
+2006-12,P!Nk,39
+2006-12,Rihanna,24
+2006-12,Whitney Houston,35
+2007-01,Amber,20
+2007-01,Annie Lennox,3
+2007-01,Armand Van Helden,13
+2007-01,Britney Spears,46
+2007-01,Cher,3
+2007-01,Christina Aguilera,76
+2007-01,Dana International,29
+2007-01,Deborah Cox,23
+2007-01,Donna Summer,14
+2007-01,Eurythmics,7
+2007-01,Gloria Estefan,47
+2007-01,Janet Jackson,23
+2007-01,Kelly Clarkson,23
+2007-01,Kristine W,22
+2007-01,Kylie Minogue,21
+2007-01,Madonna,374
+2007-01,Mariah Carey,96
+2007-01,P!Nk,24
+2007-01,Rihanna,16
+2007-01,Whitney Houston,24
+2007-02,Amber,71
+2007-02,Annie Lennox,11
+2007-02,Armand Van Helden,20
+2007-02,Britney Spears,142
+2007-02,Cher,5
+2007-02,Christina Aguilera,67
+2007-02,Dana International,5
+2007-02,Deborah Cox,43
+2007-02,Donna Summer,34
+2007-02,Eurythmics,13
+2007-02,Gloria Estefan,36
+2007-02,Janet Jackson,46
+2007-02,Kelly Clarkson,49
+2007-02,Kristine W,30
+2007-02,Kylie Minogue,22
+2007-02,Madonna,248
+2007-02,Mariah Carey,133
+2007-02,P!Nk,27
+2007-02,Rihanna,24
+2007-02,Whitney Houston,36
+2007-03,Amber,58
+2007-03,Annie Lennox,8
+2007-03,Armand Van Helden,14
+2007-03,Britney Spears,143
+2007-03,Cher,9
+2007-03,Christina Aguilera,184
+2007-03,Dana International,10
+2007-03,Deborah Cox,52
+2007-03,Donna Summer,32
+2007-03,Eurythmics,20
+2007-03,Gloria Estefan,38
+2007-03,Janet Jackson,29
+2007-03,Kelly Clarkson,45
+2007-03,Kristine W,33
+2007-03,Kylie Minogue,40
+2007-03,Madonna,426
+2007-03,Mariah Carey,131
+2007-03,P!Nk,54
+2007-03,Rihanna,28
+2007-03,Whitney Houston,36
+2007-04,Amber,55
+2007-04,Annie Lennox,9
+2007-04,Armand Van Helden,42
+2007-04,Britney Spears,151
+2007-04,Cher,9
+2007-04,Christina Aguilera,161
+2007-04,Dana International,28
+2007-04,Deborah Cox,60
+2007-04,Donna Summer,43
+2007-04,Eurythmics,15
+2007-04,Gloria Estefan,46
+2007-04,Janet Jackson,41
+2007-04,Kelly Clarkson,87
+2007-04,Kristine W,32
+2007-04,Kylie Minogue,39
+2007-04,Madonna,416
+2007-04,Mariah Carey,196
+2007-04,P!Nk,60
+2007-04,Rihanna,63
+2007-04,Whitney Houston,64
+2007-05,Amber,16
+2007-05,Annie Lennox,3
+2007-05,Armand Van Helden,9
+2007-05,Britney Spears,64
+2007-05,Cher,17
+2007-05,Christina Aguilera,29
+2007-05,Dana International,4
+2007-05,Deborah Cox,35
+2007-05,Donna Summer,17
+2007-05,Eurythmics,6
+2007-05,Gloria Estefan,17
+2007-05,Janet Jackson,23
+2007-05,Kelly Clarkson,28
+2007-05,Kristine W,15
+2007-05,Kylie Minogue,20
+2007-05,Madonna,118
+2007-05,Mariah Carey,42
+2007-05,P!Nk,11
+2007-05,Rihanna,29
+2007-05,Whitney Houston,30
+2007-06,Amber,7
+2007-06,Annie Lennox,4
+2007-06,Armand Van Helden,0
+2007-06,Britney Spears,9
+2007-06,Cher,1
+2007-06,Christina Aguilera,21
+2007-06,Dana International,9
+2007-06,Deborah Cox,17
+2007-06,Donna Summer,2
+2007-06,Eurythmics,24
+2007-06,Gloria Estefan,31
+2007-06,Janet Jackson,12
+2007-06,Kelly Clarkson,19
+2007-06,Kristine W,4
+2007-06,Kylie Minogue,2
+2007-06,Madonna,91
+2007-06,Mariah Carey,40
+2007-06,P!Nk,9
+2007-06,Rihanna,40
+2007-06,Whitney Houston,10
+2007-07,Amber,7
+2007-07,Annie Lennox,4
+2007-07,Armand Van Helden,6
+2007-07,Britney Spears,26
+2007-07,Cher,9
+2007-07,Christina Aguilera,12
+2007-07,Dana International,0
+2007-07,Deborah Cox,23
+2007-07,Donna Summer,1
+2007-07,Eurythmics,5
+2007-07,Gloria Estefan,5
+2007-07,Janet Jackson,3
+2007-07,Kelly Clarkson,3
+2007-07,Kristine W,3
+2007-07,Kylie Minogue,8
+2007-07,Madonna,82
+2007-07,Mariah Carey,26
+2007-07,P!Nk,19
+2007-07,Rihanna,47
+2007-07,Whitney Houston,26
+2007-08,Amber,2
+2007-08,Annie Lennox,7
+2007-08,Armand Van Helden,1
+2007-08,Britney Spears,13
+2007-08,Cher,6
+2007-08,Christina Aguilera,30
+2007-08,Dana International,16
+2007-08,Deborah Cox,6
+2007-08,Donna Summer,9
+2007-08,Eurythmics,3
+2007-08,Gloria Estefan,16
+2007-08,Janet Jackson,21
+2007-08,Kelly Clarkson,3
+2007-08,Kristine W,9
+2007-08,Kylie Minogue,16
+2007-08,Madonna,127
+2007-08,Mariah Carey,9
+2007-08,P!Nk,4
+2007-08,Rihanna,13
+2007-08,Whitney Houston,12
+2007-09,Amber,2
+2007-09,Annie Lennox,9
+2007-09,Armand Van Helden,3
+2007-09,Britney Spears,33
+2007-09,Cher,5
+2007-09,Christina Aguilera,27
+2007-09,Dana International,11
+2007-09,Deborah Cox,13
+2007-09,Donna Summer,2
+2007-09,Eurythmics,3
+2007-09,Gloria Estefan,7
+2007-09,Janet Jackson,9
+2007-09,Kelly Clarkson,12
+2007-09,Kristine W,6
+2007-09,Kylie Minogue,5
+2007-09,Madonna,66
+2007-09,Mariah Carey,15
+2007-09,P!Nk,4
+2007-09,Rihanna,9
+2007-09,Whitney Houston,13
+2007-10,Amber,13
+2007-10,Annie Lennox,17
+2007-10,Armand Van Helden,4
+2007-10,Britney Spears,49
+2007-10,Cher,9
+2007-10,Christina Aguilera,15
+2007-10,Dana International,8
+2007-10,Deborah Cox,21
+2007-10,Donna Summer,5
+2007-10,Eurythmics,16
+2007-10,Gloria Estefan,23
+2007-10,Janet Jackson,11
+2007-10,Kelly Clarkson,7
+2007-10,Kristine W,8
+2007-10,Kylie Minogue,43
+2007-10,Madonna,82
+2007-10,Mariah Carey,19
+2007-10,P!Nk,8
+2007-10,Rihanna,17
+2007-10,Whitney Houston,5
+2007-11,Amber,9
+2007-11,Annie Lennox,12
+2007-11,Armand Van Helden,7
+2007-11,Britney Spears,47
+2007-11,Cher,7
+2007-11,Christina Aguilera,12
+2007-11,Dana International,9
+2007-11,Deborah Cox,8
+2007-11,Donna Summer,4
+2007-11,Eurythmics,5
+2007-11,Gloria Estefan,5
+2007-11,Janet Jackson,13
+2007-11,Kelly Clarkson,11
+2007-11,Kristine W,4
+2007-11,Kylie Minogue,7
+2007-11,Madonna,53
+2007-11,Mariah Carey,17
+2007-11,P!Nk,3
+2007-11,Rihanna,15
+2007-11,Whitney Houston,8
+2007-12,Amber,5
+2007-12,Annie Lennox,11
+2007-12,Armand Van Helden,6
+2007-12,Britney Spears,43
+2007-12,Cher,4
+2007-12,Christina Aguilera,12
+2007-12,Dana International,8
+2007-12,Deborah Cox,5
+2007-12,Donna Summer,4
+2007-12,Eurythmics,1
+2007-12,Gloria Estefan,5
+2007-12,Janet Jackson,26
+2007-12,Kelly Clarkson,13
+2007-12,Kristine W,26
+2007-12,Kylie Minogue,6
+2007-12,Madonna,51
+2007-12,Mariah Carey,20
+2007-12,P!Nk,16
+2007-12,Rihanna,16
+2007-12,Whitney Houston,3
+2008-01,Amber,6
+2008-01,Annie Lennox,0
+2008-01,Armand Van Helden,6
+2008-01,Britney Spears,26
+2008-01,Cher,6
+2008-01,Christina Aguilera,4
+2008-01,Dana International,6
+2008-01,Deborah Cox,9
+2008-01,Donna Summer,3
+2008-01,Eurythmics,4
+2008-01,Gloria Estefan,5
+2008-01,Janet Jackson,32
+2008-01,Kelly Clarkson,8
+2008-01,Kristine W,14
+2008-01,Kylie Minogue,25
+2008-01,Madonna,27
+2008-01,Mariah Carey,19
+2008-01,P!Nk,3
+2008-01,Rihanna,9
+2008-01,Whitney Houston,7
+2008-02,Amber,4
+2008-02,Annie Lennox,2
+2008-02,Armand Van Helden,5
+2008-02,Britney Spears,18
+2008-02,Cher,8
+2008-02,Christina Aguilera,5
+2008-02,Dana International,4
+2008-02,Deborah Cox,10
+2008-02,Donna Summer,9
+2008-02,Eurythmics,0
+2008-02,Gloria Estefan,5
+2008-02,Janet Jackson,7
+2008-02,Kelly Clarkson,3
+2008-02,Kristine W,3
+2008-02,Kylie Minogue,21
+2008-02,Madonna,31
+2008-02,Mariah Carey,21
+2008-02,P!Nk,2
+2008-02,Rihanna,6
+2008-02,Whitney Houston,7
+2008-03,Amber,4
+2008-03,Annie Lennox,16
+2008-03,Armand Van Helden,9
+2008-03,Britney Spears,27
+2008-03,Cher,22
+2008-03,Christina Aguilera,6
+2008-03,Dana International,6
+2008-03,Deborah Cox,1
+2008-03,Donna Summer,19
+2008-03,Eurythmics,0
+2008-03,Gloria Estefan,0
+2008-03,Janet Jackson,8
+2008-03,Kelly Clarkson,6
+2008-03,Kristine W,15
+2008-03,Kylie Minogue,4
+2008-03,Madonna,59
+2008-03,Mariah Carey,28
+2008-03,P!Nk,2
+2008-03,Rihanna,17
+2008-03,Whitney Houston,4
+2008-04,Amber,1
+2008-04,Annie Lennox,9
+2008-04,Armand Van Helden,6
+2008-04,Britney Spears,21
+2008-04,Cher,2
+2008-04,Christina Aguilera,11
+2008-04,Dana International,16
+2008-04,Deborah Cox,9
+2008-04,Donna Summer,14
+2008-04,Eurythmics,1
+2008-04,Gloria Estefan,2
+2008-04,Janet Jackson,6
+2008-04,Kelly Clarkson,4
+2008-04,Kristine W,7
+2008-04,Kylie Minogue,7
+2008-04,Madonna,124
+2008-04,Mariah Carey,62
+2008-04,P!Nk,1
+2008-04,Rihanna,6
+2008-04,Whitney Houston,0
+2008-05,Amber,5
+2008-05,Annie Lennox,13
+2008-05,Armand Van Helden,8
+2008-05,Britney Spears,15
+2008-05,Cher,14
+2008-05,Christina Aguilera,9
+2008-05,Dana International,6
+2008-05,Deborah Cox,6
+2008-05,Donna Summer,54
+2008-05,Eurythmics,5
+2008-05,Gloria Estefan,2
+2008-05,Janet Jackson,30
+2008-05,Kelly Clarkson,3
+2008-05,Kristine W,7
+2008-05,Kylie Minogue,8
+2008-05,Madonna,169
+2008-05,Mariah Carey,31
+2008-05,P!Nk,2
+2008-05,Rihanna,15
+2008-05,Whitney Houston,9
+2008-06,Amber,2
+2008-06,Annie Lennox,4
+2008-06,Armand Van Helden,2
+2008-06,Britney Spears,7
+2008-06,Cher,15
+2008-06,Christina Aguilera,13
+2008-06,Dana International,40
+2008-06,Deborah Cox,22
+2008-06,Donna Summer,26
+2008-06,Eurythmics,5
+2008-06,Gloria Estefan,3
+2008-06,Janet Jackson,3
+2008-06,Kelly Clarkson,3
+2008-06,Kristine W,9
+2008-06,Kylie Minogue,18
+2008-06,Madonna,185
+2008-06,Mariah Carey,30
+2008-06,P!Nk,4
+2008-06,Rihanna,10
+2008-06,Whitney Houston,6
+2008-07,Amber,8
+2008-07,Annie Lennox,9
+2008-07,Armand Van Helden,2
+2008-07,Britney Spears,29
+2008-07,Cher,11
+2008-07,Christina Aguilera,14
+2008-07,Dana International,26
+2008-07,Deborah Cox,8
+2008-07,Donna Summer,18
+2008-07,Eurythmics,7
+2008-07,Gloria Estefan,3
+2008-07,Janet Jackson,30
+2008-07,Kelly Clarkson,3
+2008-07,Kristine W,7
+2008-07,Kylie Minogue,8
+2008-07,Madonna,69
+2008-07,Mariah Carey,40
+2008-07,P!Nk,5
+2008-07,Rihanna,6
+2008-07,Whitney Houston,7
+2008-08,Amber,15
+2008-08,Annie Lennox,5
+2008-08,Armand Van Helden,4
+2008-08,Britney Spears,6
+2008-08,Cher,5
+2008-08,Christina Aguilera,12
+2008-08,Dana International,31
+2008-08,Deborah Cox,9
+2008-08,Donna Summer,31
+2008-08,Eurythmics,1
+2008-08,Gloria Estefan,5
+2008-08,Janet Jackson,11
+2008-08,Kelly Clarkson,4
+2008-08,Kristine W,5
+2008-08,Kylie Minogue,10
+2008-08,Madonna,59
+2008-08,Mariah Carey,37
+2008-08,P!Nk,16
+2008-08,Rihanna,9
+2008-08,Whitney Houston,4
+2008-09,Amber,21
+2008-09,Annie Lennox,2
+2008-09,Armand Van Helden,7
+2008-09,Britney Spears,14
+2008-09,Cher,11
+2008-09,Christina Aguilera,17
+2008-09,Dana International,11
+2008-09,Deborah Cox,12
+2008-09,Donna Summer,11
+2008-09,Eurythmics,2
+2008-09,Gloria Estefan,12
+2008-09,Janet Jackson,10
+2008-09,Kelly Clarkson,2
+2008-09,Kristine W,11
+2008-09,Kylie Minogue,10
+2008-09,Madonna,52
+2008-09,Mariah Carey,22
+2008-09,P!Nk,11
+2008-09,Rihanna,10
+2008-09,Whitney Houston,7
+2008-10,Amber,4
+2008-10,Annie Lennox,0
+2008-10,Armand Van Helden,25
+2008-10,Britney Spears,5
+2008-10,Cher,4
+2008-10,Christina Aguilera,12
+2008-10,Dana International,11
+2008-10,Deborah Cox,9
+2008-10,Donna Summer,7
+2008-10,Eurythmics,2
+2008-10,Gloria Estefan,0
+2008-10,Janet Jackson,9
+2008-10,Kelly Clarkson,1
+2008-10,Kristine W,2
+2008-10,Kylie Minogue,9
+2008-10,Madonna,46
+2008-10,Mariah Carey,14
+2008-10,P!Nk,20
+2008-10,Rihanna,17
+2008-10,Whitney Houston,5
+2008-11,Amber,1
+2008-11,Annie Lennox,6
+2008-11,Armand Van Helden,5
+2008-11,Britney Spears,22
+2008-11,Cher,5
+2008-11,Christina Aguilera,27
+2008-11,Dana International,34
+2008-11,Deborah Cox,18
+2008-11,Donna Summer,10
+2008-11,Eurythmics,0
+2008-11,Gloria Estefan,1
+2008-11,Janet Jackson,9
+2008-11,Kelly Clarkson,6
+2008-11,Kristine W,15
+2008-11,Kylie Minogue,3
+2008-11,Madonna,47
+2008-11,Mariah Carey,25
+2008-11,P!Nk,3
+2008-11,Rihanna,2
+2008-11,Whitney Houston,1
+2008-12,Amber,5
+2008-12,Annie Lennox,10
+2008-12,Armand Van Helden,1
+2008-12,Britney Spears,46
+2008-12,Cher,10
+2008-12,Christina Aguilera,11
+2008-12,Dana International,26
+2008-12,Deborah Cox,9
+2008-12,Donna Summer,19
+2008-12,Eurythmics,9
+2008-12,Gloria Estefan,18
+2008-12,Janet Jackson,10
+2008-12,Kelly Clarkson,3
+2008-12,Kristine W,14
+2008-12,Kylie Minogue,8
+2008-12,Madonna,71
+2008-12,Mariah Carey,51
+2008-12,P!Nk,16
+2008-12,Rihanna,5
+2008-12,Whitney Houston,6
+2009-01,Amber,6
+2009-01,Annie Lennox,12
+2009-01,Armand Van Helden,1
+2009-01,Britney Spears,35
+2009-01,Cher,1
+2009-01,Christina Aguilera,8
+2009-01,Dana International,5
+2009-01,Deborah Cox,52
+2009-01,Donna Summer,16
+2009-01,Eurythmics,3
+2009-01,Gloria Estefan,20
+2009-01,Janet Jackson,45
+2009-01,Kelly Clarkson,23
+2009-01,Kristine W,4
+2009-01,Kylie Minogue,10
+2009-01,Madonna,32
+2009-01,Mariah Carey,22
+2009-01,P!Nk,8
+2009-01,Rihanna,5
+2009-01,Whitney Houston,4
+2009-02,Amber,14
+2009-02,Annie Lennox,9
+2009-02,Armand Van Helden,1
+2009-02,Britney Spears,7
+2009-02,Cher,26
+2009-02,Christina Aguilera,2
+2009-02,Dana International,16
+2009-02,Deborah Cox,35
+2009-02,Donna Summer,0
+2009-02,Eurythmics,6
+2009-02,Gloria Estefan,124
+2009-02,Janet Jackson,0
+2009-02,Kelly Clarkson,17
+2009-02,Kristine W,18
+2009-02,Kylie Minogue,15
+2009-02,Madonna,25
+2009-02,Mariah Carey,30
+2009-02,P!Nk,7
+2009-02,Rihanna,4
+2009-02,Whitney Houston,3
+2009-03,Amber,1
+2009-03,Annie Lennox,3
+2009-03,Armand Van Helden,1
+2009-03,Britney Spears,17
+2009-03,Cher,7
+2009-03,Christina Aguilera,10
+2009-03,Dana International,2
+2009-03,Deborah Cox,15
+2009-03,Donna Summer,3
+2009-03,Eurythmics,16
+2009-03,Gloria Estefan,20
+2009-03,Janet Jackson,1
+2009-03,Kelly Clarkson,29
+2009-03,Kristine W,1
+2009-03,Kylie Minogue,7
+2009-03,Madonna,24
+2009-03,Mariah Carey,20
+2009-03,P!Nk,15
+2009-03,Rihanna,18
+2009-03,Whitney Houston,6
+2009-04,Amber,3
+2009-04,Annie Lennox,11
+2009-04,Armand Van Helden,3
+2009-04,Britney Spears,14
+2009-04,Cher,6
+2009-04,Christina Aguilera,3
+2009-04,Dana International,3
+2009-04,Deborah Cox,13
+2009-04,Donna Summer,40
+2009-04,Eurythmics,27
+2009-04,Gloria Estefan,1
+2009-04,Janet Jackson,8
+2009-04,Kelly Clarkson,16
+2009-04,Kristine W,6
+2009-04,Kylie Minogue,3
+2009-04,Madonna,56
+2009-04,Mariah Carey,21
+2009-04,P!Nk,0
+2009-04,Rihanna,6
+2009-04,Whitney Houston,31
+2009-05,Amber,12
+2009-05,Annie Lennox,0
+2009-05,Armand Van Helden,0
+2009-05,Britney Spears,24
+2009-05,Cher,10
+2009-05,Christina Aguilera,11
+2009-05,Dana International,23
+2009-05,Deborah Cox,11
+2009-05,Donna Summer,18
+2009-05,Eurythmics,7
+2009-05,Gloria Estefan,2
+2009-05,Janet Jackson,11
+2009-05,Kelly Clarkson,8
+2009-05,Kristine W,100
+2009-05,Kylie Minogue,13
+2009-05,Madonna,30
+2009-05,Mariah Carey,30
+2009-05,P!Nk,2
+2009-05,Rihanna,7
+2009-05,Whitney Houston,5
+2009-06,Amber,0
+2009-06,Annie Lennox,1
+2009-06,Armand Van Helden,7
+2009-06,Britney Spears,1
+2009-06,Cher,4
+2009-06,Christina Aguilera,1
+2009-06,Dana International,1
+2009-06,Deborah Cox,6
+2009-06,Donna Summer,21
+2009-06,Eurythmics,3
+2009-06,Gloria Estefan,5
+2009-06,Janet Jackson,4
+2009-06,Kelly Clarkson,5
+2009-06,Kristine W,17
+2009-06,Kylie Minogue,12
+2009-06,Madonna,18
+2009-06,Mariah Carey,70
+2009-06,P!Nk,4
+2009-06,Rihanna,16
+2009-06,Whitney Houston,44

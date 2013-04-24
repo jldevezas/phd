@@ -1,0 +1,741 @@
+month,artist,plays
+2006-04,Arcade Fire,0
+2006-04,Belle And Sebastian,0
+2006-04,Bloc Party,1
+2006-04,Bright Eyes,0
+2006-04,Coldplay,0
+2006-04,David Bowie,0
+2006-04,Death Cab For Cutie,0
+2006-04,Elliott Smith,1
+2006-04,Feist,0
+2006-04,Hot Chip,0
+2006-04,José González,0
+2006-04,Kings Of Convenience,0
+2006-04,Nick Drake,1
+2006-04,Phoenix,0
+2006-04,Radiohead,1
+2006-04,Sufjan Stevens,0
+2006-04,Tegan And Sara,0
+2006-04,The Beatles,0
+2006-04,The Notwist,0
+2006-04,The Shins,1
+2006-05,Arcade Fire,39
+2006-05,Belle And Sebastian,2
+2006-05,Bloc Party,35
+2006-05,Bright Eyes,2
+2006-05,Coldplay,12
+2006-05,David Bowie,2
+2006-05,Death Cab For Cutie,18
+2006-05,Elliott Smith,32
+2006-05,Feist,0
+2006-05,Hot Chip,66
+2006-05,José González,1
+2006-05,Kings Of Convenience,17
+2006-05,Nick Drake,54
+2006-05,Phoenix,7
+2006-05,Radiohead,8
+2006-05,Sufjan Stevens,42
+2006-05,Tegan And Sara,4
+2006-05,The Beatles,20
+2006-05,The Notwist,11
+2006-05,The Shins,4
+2006-06,Arcade Fire,23
+2006-06,Belle And Sebastian,0
+2006-06,Bloc Party,19
+2006-06,Bright Eyes,15
+2006-06,Coldplay,6
+2006-06,David Bowie,0
+2006-06,Death Cab For Cutie,5
+2006-06,Elliott Smith,72
+2006-06,Feist,0
+2006-06,Hot Chip,35
+2006-06,José González,0
+2006-06,Kings Of Convenience,19
+2006-06,Nick Drake,13
+2006-06,Phoenix,3
+2006-06,Radiohead,3
+2006-06,Sufjan Stevens,34
+2006-06,Tegan And Sara,0
+2006-06,The Beatles,5
+2006-06,The Notwist,0
+2006-06,The Shins,8
+2006-07,Arcade Fire,1
+2006-07,Belle And Sebastian,25
+2006-07,Bloc Party,26
+2006-07,Bright Eyes,4
+2006-07,Coldplay,5
+2006-07,David Bowie,1
+2006-07,Death Cab For Cutie,16
+2006-07,Elliott Smith,18
+2006-07,Feist,1
+2006-07,Hot Chip,2
+2006-07,José González,23
+2006-07,Kings Of Convenience,10
+2006-07,Nick Drake,2
+2006-07,Phoenix,37
+2006-07,Radiohead,11
+2006-07,Sufjan Stevens,2
+2006-07,Tegan And Sara,1
+2006-07,The Beatles,2
+2006-07,The Notwist,3
+2006-07,The Shins,5
+2006-08,Arcade Fire,12
+2006-08,Belle And Sebastian,8
+2006-08,Bloc Party,41
+2006-08,Bright Eyes,4
+2006-08,Coldplay,15
+2006-08,David Bowie,3
+2006-08,Death Cab For Cutie,14
+2006-08,Elliott Smith,20
+2006-08,Feist,0
+2006-08,Hot Chip,9
+2006-08,José González,35
+2006-08,Kings Of Convenience,12
+2006-08,Nick Drake,2
+2006-08,Phoenix,18
+2006-08,Radiohead,13
+2006-08,Sufjan Stevens,47
+2006-08,Tegan And Sara,4
+2006-08,The Beatles,4
+2006-08,The Notwist,2
+2006-08,The Shins,9
+2006-09,Arcade Fire,1
+2006-09,Belle And Sebastian,1
+2006-09,Bloc Party,5
+2006-09,Bright Eyes,0
+2006-09,Coldplay,11
+2006-09,David Bowie,1
+2006-09,Death Cab For Cutie,0
+2006-09,Elliott Smith,3
+2006-09,Feist,0
+2006-09,Hot Chip,8
+2006-09,José González,1
+2006-09,Kings Of Convenience,11
+2006-09,Nick Drake,5
+2006-09,Phoenix,2
+2006-09,Radiohead,0
+2006-09,Sufjan Stevens,16
+2006-09,Tegan And Sara,1
+2006-09,The Beatles,5
+2006-09,The Notwist,4
+2006-09,The Shins,0
+2006-10,Arcade Fire,1
+2006-10,Belle And Sebastian,6
+2006-10,Bloc Party,0
+2006-10,Bright Eyes,1
+2006-10,Coldplay,8
+2006-10,David Bowie,1
+2006-10,Death Cab For Cutie,2
+2006-10,Elliott Smith,0
+2006-10,Feist,1
+2006-10,Hot Chip,3
+2006-10,José González,6
+2006-10,Kings Of Convenience,3
+2006-10,Nick Drake,4
+2006-10,Phoenix,13
+2006-10,Radiohead,1
+2006-10,Sufjan Stevens,3
+2006-10,Tegan And Sara,32
+2006-10,The Beatles,3
+2006-10,The Notwist,3
+2006-10,The Shins,0
+2006-11,Arcade Fire,34
+2006-11,Belle And Sebastian,6
+2006-11,Bloc Party,18
+2006-11,Bright Eyes,27
+2006-11,Coldplay,6
+2006-11,David Bowie,0
+2006-11,Death Cab For Cutie,41
+2006-11,Elliott Smith,2
+2006-11,Feist,22
+2006-11,Hot Chip,6
+2006-11,José González,4
+2006-11,Kings Of Convenience,9
+2006-11,Nick Drake,14
+2006-11,Phoenix,12
+2006-11,Radiohead,2
+2006-11,Sufjan Stevens,30
+2006-11,Tegan And Sara,23
+2006-11,The Beatles,6
+2006-11,The Notwist,4
+2006-11,The Shins,4
+2006-12,Arcade Fire,24
+2006-12,Belle And Sebastian,3
+2006-12,Bloc Party,18
+2006-12,Bright Eyes,14
+2006-12,Coldplay,5
+2006-12,David Bowie,13
+2006-12,Death Cab For Cutie,4
+2006-12,Elliott Smith,1
+2006-12,Feist,2
+2006-12,Hot Chip,14
+2006-12,José González,7
+2006-12,Kings Of Convenience,13
+2006-12,Nick Drake,1
+2006-12,Phoenix,11
+2006-12,Radiohead,3
+2006-12,Sufjan Stevens,10
+2006-12,Tegan And Sara,2
+2006-12,The Beatles,1
+2006-12,The Notwist,18
+2006-12,The Shins,1
+2007-01,Arcade Fire,30
+2007-01,Belle And Sebastian,1
+2007-01,Bloc Party,13
+2007-01,Bright Eyes,3
+2007-01,Coldplay,1
+2007-01,David Bowie,0
+2007-01,Death Cab For Cutie,4
+2007-01,Elliott Smith,4
+2007-01,Feist,5
+2007-01,Hot Chip,16
+2007-01,José González,13
+2007-01,Kings Of Convenience,2
+2007-01,Nick Drake,2
+2007-01,Phoenix,2
+2007-01,Radiohead,1
+2007-01,Sufjan Stevens,14
+2007-01,Tegan And Sara,4
+2007-01,The Beatles,39
+2007-01,The Notwist,5
+2007-01,The Shins,32
+2007-02,Arcade Fire,22
+2007-02,Belle And Sebastian,2
+2007-02,Bloc Party,5
+2007-02,Bright Eyes,9
+2007-02,Coldplay,1
+2007-02,David Bowie,1
+2007-02,Death Cab For Cutie,2
+2007-02,Elliott Smith,8
+2007-02,Feist,2
+2007-02,Hot Chip,11
+2007-02,José González,25
+2007-02,Kings Of Convenience,12
+2007-02,Nick Drake,1
+2007-02,Phoenix,0
+2007-02,Radiohead,0
+2007-02,Sufjan Stevens,6
+2007-02,Tegan And Sara,21
+2007-02,The Beatles,3
+2007-02,The Notwist,11
+2007-02,The Shins,17
+2007-03,Arcade Fire,21
+2007-03,Belle And Sebastian,1
+2007-03,Bloc Party,12
+2007-03,Bright Eyes,1
+2007-03,Coldplay,1
+2007-03,David Bowie,11
+2007-03,Death Cab For Cutie,4
+2007-03,Elliott Smith,1
+2007-03,Feist,3
+2007-03,Hot Chip,14
+2007-03,José González,3
+2007-03,Kings Of Convenience,3
+2007-03,Nick Drake,1
+2007-03,Phoenix,14
+2007-03,Radiohead,0
+2007-03,Sufjan Stevens,0
+2007-03,Tegan And Sara,6
+2007-03,The Beatles,6
+2007-03,The Notwist,5
+2007-03,The Shins,6
+2007-04,Arcade Fire,10
+2007-04,Belle And Sebastian,1
+2007-04,Bloc Party,2
+2007-04,Bright Eyes,7
+2007-04,Coldplay,1
+2007-04,David Bowie,15
+2007-04,Death Cab For Cutie,5
+2007-04,Elliott Smith,1
+2007-04,Feist,7
+2007-04,Hot Chip,1
+2007-04,José González,0
+2007-04,Kings Of Convenience,1
+2007-04,Nick Drake,0
+2007-04,Phoenix,2
+2007-04,Radiohead,0
+2007-04,Sufjan Stevens,0
+2007-04,Tegan And Sara,2
+2007-04,The Beatles,2
+2007-04,The Notwist,0
+2007-04,The Shins,3
+2007-05,Arcade Fire,9
+2007-05,Belle And Sebastian,0
+2007-05,Bloc Party,0
+2007-05,Bright Eyes,19
+2007-05,Coldplay,0
+2007-05,David Bowie,1
+2007-05,Death Cab For Cutie,1
+2007-05,Elliott Smith,1
+2007-05,Feist,0
+2007-05,Hot Chip,3
+2007-05,José González,1
+2007-05,Kings Of Convenience,3
+2007-05,Nick Drake,1
+2007-05,Phoenix,2
+2007-05,Radiohead,0
+2007-05,Sufjan Stevens,1
+2007-05,Tegan And Sara,1
+2007-05,The Beatles,3
+2007-05,The Notwist,1
+2007-05,The Shins,0
+2007-06,Arcade Fire,0
+2007-06,Belle And Sebastian,0
+2007-06,Bloc Party,1
+2007-06,Bright Eyes,0
+2007-06,Coldplay,1
+2007-06,David Bowie,0
+2007-06,Death Cab For Cutie,1
+2007-06,Elliott Smith,0
+2007-06,Feist,0
+2007-06,Hot Chip,0
+2007-06,José González,0
+2007-06,Kings Of Convenience,1
+2007-06,Nick Drake,0
+2007-06,Phoenix,0
+2007-06,Radiohead,0
+2007-06,Sufjan Stevens,0
+2007-06,Tegan And Sara,1
+2007-06,The Beatles,0
+2007-06,The Notwist,0
+2007-06,The Shins,0
+2007-07,Arcade Fire,11
+2007-07,Belle And Sebastian,0
+2007-07,Bloc Party,3
+2007-07,Bright Eyes,0
+2007-07,Coldplay,5
+2007-07,David Bowie,0
+2007-07,Death Cab For Cutie,3
+2007-07,Elliott Smith,4
+2007-07,Feist,0
+2007-07,Hot Chip,8
+2007-07,José González,1
+2007-07,Kings Of Convenience,0
+2007-07,Nick Drake,1
+2007-07,Phoenix,0
+2007-07,Radiohead,1
+2007-07,Sufjan Stevens,1
+2007-07,Tegan And Sara,0
+2007-07,The Beatles,35
+2007-07,The Notwist,0
+2007-07,The Shins,0
+2007-08,Arcade Fire,0
+2007-08,Belle And Sebastian,0
+2007-08,Bloc Party,0
+2007-08,Bright Eyes,0
+2007-08,Coldplay,0
+2007-08,David Bowie,0
+2007-08,Death Cab For Cutie,0
+2007-08,Elliott Smith,0
+2007-08,Feist,0
+2007-08,Hot Chip,0
+2007-08,José González,0
+2007-08,Kings Of Convenience,0
+2007-08,Nick Drake,0
+2007-08,Phoenix,0
+2007-08,Radiohead,0
+2007-08,Sufjan Stevens,0
+2007-08,Tegan And Sara,1
+2007-08,The Beatles,0
+2007-08,The Notwist,0
+2007-08,The Shins,0
+2007-09,Arcade Fire,0
+2007-09,Belle And Sebastian,0
+2007-09,Bloc Party,2
+2007-09,Bright Eyes,0
+2007-09,Coldplay,0
+2007-09,David Bowie,0
+2007-09,Death Cab For Cutie,0
+2007-09,Elliott Smith,0
+2007-09,Feist,6
+2007-09,Hot Chip,0
+2007-09,José González,0
+2007-09,Kings Of Convenience,0
+2007-09,Nick Drake,0
+2007-09,Phoenix,0
+2007-09,Radiohead,0
+2007-09,Sufjan Stevens,0
+2007-09,Tegan And Sara,0
+2007-09,The Beatles,0
+2007-09,The Notwist,0
+2007-09,The Shins,0
+2007-10,Arcade Fire,29
+2007-10,Belle And Sebastian,0
+2007-10,Bloc Party,1
+2007-10,Bright Eyes,1
+2007-10,Coldplay,1
+2007-10,David Bowie,5
+2007-10,Death Cab For Cutie,8
+2007-10,Elliott Smith,3
+2007-10,Feist,18
+2007-10,Hot Chip,1
+2007-10,José González,33
+2007-10,Kings Of Convenience,5
+2007-10,Nick Drake,1
+2007-10,Phoenix,0
+2007-10,Radiohead,41
+2007-10,Sufjan Stevens,2
+2007-10,Tegan And Sara,1
+2007-10,The Beatles,12
+2007-10,The Notwist,1
+2007-10,The Shins,0
+2007-11,Arcade Fire,64
+2007-11,Belle And Sebastian,3
+2007-11,Bloc Party,2
+2007-11,Bright Eyes,2
+2007-11,Coldplay,6
+2007-11,David Bowie,0
+2007-11,Death Cab For Cutie,0
+2007-11,Elliott Smith,6
+2007-11,Feist,3
+2007-11,Hot Chip,1
+2007-11,José González,38
+2007-11,Kings Of Convenience,11
+2007-11,Nick Drake,0
+2007-11,Phoenix,3
+2007-11,Radiohead,1
+2007-11,Sufjan Stevens,21
+2007-11,Tegan And Sara,0
+2007-11,The Beatles,0
+2007-11,The Notwist,0
+2007-11,The Shins,2
+2007-12,Arcade Fire,6
+2007-12,Belle And Sebastian,20
+2007-12,Bloc Party,3
+2007-12,Bright Eyes,0
+2007-12,Coldplay,0
+2007-12,David Bowie,3
+2007-12,Death Cab For Cutie,0
+2007-12,Elliott Smith,0
+2007-12,Feist,6
+2007-12,Hot Chip,5
+2007-12,José González,1
+2007-12,Kings Of Convenience,14
+2007-12,Nick Drake,0
+2007-12,Phoenix,1
+2007-12,Radiohead,5
+2007-12,Sufjan Stevens,1
+2007-12,Tegan And Sara,0
+2007-12,The Beatles,41
+2007-12,The Notwist,0
+2007-12,The Shins,13
+2008-01,Arcade Fire,0
+2008-01,Belle And Sebastian,0
+2008-01,Bloc Party,0
+2008-01,Bright Eyes,0
+2008-01,Coldplay,0
+2008-01,David Bowie,0
+2008-01,Death Cab For Cutie,0
+2008-01,Elliott Smith,9
+2008-01,Feist,14
+2008-01,Hot Chip,4
+2008-01,José González,0
+2008-01,Kings Of Convenience,0
+2008-01,Nick Drake,0
+2008-01,Phoenix,0
+2008-01,Radiohead,0
+2008-01,Sufjan Stevens,0
+2008-01,Tegan And Sara,0
+2008-01,The Beatles,0
+2008-01,The Notwist,0
+2008-01,The Shins,0
+2008-02,Arcade Fire,0
+2008-02,Belle And Sebastian,2
+2008-02,Bloc Party,1
+2008-02,Bright Eyes,0
+2008-02,Coldplay,1
+2008-02,David Bowie,0
+2008-02,Death Cab For Cutie,0
+2008-02,Elliott Smith,0
+2008-02,Feist,0
+2008-02,Hot Chip,3
+2008-02,José González,0
+2008-02,Kings Of Convenience,1
+2008-02,Nick Drake,0
+2008-02,Phoenix,0
+2008-02,Radiohead,1
+2008-02,Sufjan Stevens,0
+2008-02,Tegan And Sara,0
+2008-02,The Beatles,0
+2008-02,The Notwist,0
+2008-02,The Shins,1
+2008-03,Arcade Fire,0
+2008-03,Belle And Sebastian,0
+2008-03,Bloc Party,0
+2008-03,Bright Eyes,1
+2008-03,Coldplay,0
+2008-03,David Bowie,0
+2008-03,Death Cab For Cutie,1
+2008-03,Elliott Smith,1
+2008-03,Feist,1
+2008-03,Hot Chip,1
+2008-03,José González,0
+2008-03,Kings Of Convenience,0
+2008-03,Nick Drake,0
+2008-03,Phoenix,2
+2008-03,Radiohead,11
+2008-03,Sufjan Stevens,0
+2008-03,Tegan And Sara,0
+2008-03,The Beatles,0
+2008-03,The Notwist,0
+2008-03,The Shins,0
+2008-04,Arcade Fire,3
+2008-04,Belle And Sebastian,0
+2008-04,Bloc Party,1
+2008-04,Bright Eyes,0
+2008-04,Coldplay,0
+2008-04,David Bowie,0
+2008-04,Death Cab For Cutie,3
+2008-04,Elliott Smith,1
+2008-04,Feist,2
+2008-04,Hot Chip,1
+2008-04,José González,3
+2008-04,Kings Of Convenience,3
+2008-04,Nick Drake,0
+2008-04,Phoenix,0
+2008-04,Radiohead,1
+2008-04,Sufjan Stevens,0
+2008-04,Tegan And Sara,0
+2008-04,The Beatles,0
+2008-04,The Notwist,8
+2008-04,The Shins,0
+2008-05,Arcade Fire,6
+2008-05,Belle And Sebastian,5
+2008-05,Bloc Party,7
+2008-05,Bright Eyes,1
+2008-05,Coldplay,2
+2008-05,David Bowie,0
+2008-05,Death Cab For Cutie,3
+2008-05,Elliott Smith,1
+2008-05,Feist,21
+2008-05,Hot Chip,0
+2008-05,José González,2
+2008-05,Kings Of Convenience,7
+2008-05,Nick Drake,22
+2008-05,Phoenix,2
+2008-05,Radiohead,15
+2008-05,Sufjan Stevens,4
+2008-05,Tegan And Sara,3
+2008-05,The Beatles,2
+2008-05,The Notwist,45
+2008-05,The Shins,12
+2008-06,Arcade Fire,2
+2008-06,Belle And Sebastian,1
+2008-06,Bloc Party,0
+2008-06,Bright Eyes,1
+2008-06,Coldplay,0
+2008-06,David Bowie,5
+2008-06,Death Cab For Cutie,2
+2008-06,Elliott Smith,1
+2008-06,Feist,6
+2008-06,Hot Chip,6
+2008-06,José González,11
+2008-06,Kings Of Convenience,0
+2008-06,Nick Drake,0
+2008-06,Phoenix,0
+2008-06,Radiohead,12
+2008-06,Sufjan Stevens,1
+2008-06,Tegan And Sara,1
+2008-06,The Beatles,1
+2008-06,The Notwist,4
+2008-06,The Shins,0
+2008-07,Arcade Fire,0
+2008-07,Belle And Sebastian,23
+2008-07,Bloc Party,5
+2008-07,Bright Eyes,3
+2008-07,Coldplay,1
+2008-07,David Bowie,1
+2008-07,Death Cab For Cutie,3
+2008-07,Elliott Smith,16
+2008-07,Feist,3
+2008-07,Hot Chip,1
+2008-07,José González,0
+2008-07,Kings Of Convenience,0
+2008-07,Nick Drake,6
+2008-07,Phoenix,2
+2008-07,Radiohead,0
+2008-07,Sufjan Stevens,2
+2008-07,Tegan And Sara,10
+2008-07,The Beatles,3
+2008-07,The Notwist,1
+2008-07,The Shins,1
+2008-08,Arcade Fire,0
+2008-08,Belle And Sebastian,2
+2008-08,Bloc Party,20
+2008-08,Bright Eyes,1
+2008-08,Coldplay,0
+2008-08,David Bowie,1
+2008-08,Death Cab For Cutie,22
+2008-08,Elliott Smith,0
+2008-08,Feist,2
+2008-08,Hot Chip,0
+2008-08,José González,3
+2008-08,Kings Of Convenience,1
+2008-08,Nick Drake,0
+2008-08,Phoenix,2
+2008-08,Radiohead,0
+2008-08,Sufjan Stevens,4
+2008-08,Tegan And Sara,0
+2008-08,The Beatles,2
+2008-08,The Notwist,9
+2008-08,The Shins,0
+2008-09,Arcade Fire,1
+2008-09,Belle And Sebastian,7
+2008-09,Bloc Party,5
+2008-09,Bright Eyes,0
+2008-09,Coldplay,2
+2008-09,David Bowie,1
+2008-09,Death Cab For Cutie,1
+2008-09,Elliott Smith,4
+2008-09,Feist,0
+2008-09,Hot Chip,4
+2008-09,José González,1
+2008-09,Kings Of Convenience,3
+2008-09,Nick Drake,2
+2008-09,Phoenix,4
+2008-09,Radiohead,20
+2008-09,Sufjan Stevens,2
+2008-09,Tegan And Sara,1
+2008-09,The Beatles,14
+2008-09,The Notwist,9
+2008-09,The Shins,2
+2008-10,Arcade Fire,5
+2008-10,Belle And Sebastian,3
+2008-10,Bloc Party,12
+2008-10,Bright Eyes,5
+2008-10,Coldplay,2
+2008-10,David Bowie,3
+2008-10,Death Cab For Cutie,6
+2008-10,Elliott Smith,15
+2008-10,Feist,7
+2008-10,Hot Chip,8
+2008-10,José González,3
+2008-10,Kings Of Convenience,7
+2008-10,Nick Drake,8
+2008-10,Phoenix,5
+2008-10,Radiohead,11
+2008-10,Sufjan Stevens,14
+2008-10,Tegan And Sara,2
+2008-10,The Beatles,3
+2008-10,The Notwist,15
+2008-10,The Shins,2
+2008-11,Arcade Fire,20
+2008-11,Belle And Sebastian,23
+2008-11,Bloc Party,3
+2008-11,Bright Eyes,2
+2008-11,Coldplay,0
+2008-11,David Bowie,2
+2008-11,Death Cab For Cutie,0
+2008-11,Elliott Smith,3
+2008-11,Feist,1
+2008-11,Hot Chip,0
+2008-11,José González,2
+2008-11,Kings Of Convenience,0
+2008-11,Nick Drake,2
+2008-11,Phoenix,0
+2008-11,Radiohead,1
+2008-11,Sufjan Stevens,4
+2008-11,Tegan And Sara,0
+2008-11,The Beatles,13
+2008-11,The Notwist,5
+2008-11,The Shins,1
+2008-12,Arcade Fire,4
+2008-12,Belle And Sebastian,0
+2008-12,Bloc Party,0
+2008-12,Bright Eyes,2
+2008-12,Coldplay,0
+2008-12,David Bowie,6
+2008-12,Death Cab For Cutie,30
+2008-12,Elliott Smith,56
+2008-12,Feist,4
+2008-12,Hot Chip,0
+2008-12,José González,3
+2008-12,Kings Of Convenience,15
+2008-12,Nick Drake,1
+2008-12,Phoenix,10
+2008-12,Radiohead,12
+2008-12,Sufjan Stevens,15
+2008-12,Tegan And Sara,1
+2008-12,The Beatles,0
+2008-12,The Notwist,13
+2008-12,The Shins,1
+2009-01,Arcade Fire,1
+2009-01,Belle And Sebastian,0
+2009-01,Bloc Party,0
+2009-01,Bright Eyes,0
+2009-01,Coldplay,0
+2009-01,David Bowie,0
+2009-01,Death Cab For Cutie,0
+2009-01,Elliott Smith,1
+2009-01,Feist,1
+2009-01,Hot Chip,0
+2009-01,José González,0
+2009-01,Kings Of Convenience,0
+2009-01,Nick Drake,0
+2009-01,Phoenix,0
+2009-01,Radiohead,0
+2009-01,Sufjan Stevens,0
+2009-01,Tegan And Sara,0
+2009-01,The Beatles,0
+2009-01,The Notwist,2
+2009-01,The Shins,0
+2009-02,Arcade Fire,1
+2009-02,Belle And Sebastian,1
+2009-02,Bloc Party,0
+2009-02,Bright Eyes,1
+2009-02,Coldplay,0
+2009-02,David Bowie,1
+2009-02,Death Cab For Cutie,3
+2009-02,Elliott Smith,4
+2009-02,Feist,1
+2009-02,Hot Chip,0
+2009-02,José González,2
+2009-02,Kings Of Convenience,1
+2009-02,Nick Drake,2
+2009-02,Phoenix,0
+2009-02,Radiohead,2
+2009-02,Sufjan Stevens,1
+2009-02,Tegan And Sara,0
+2009-02,The Beatles,0
+2009-02,The Notwist,0
+2009-02,The Shins,1
+2009-03,Arcade Fire,2
+2009-03,Belle And Sebastian,0
+2009-03,Bloc Party,3
+2009-03,Bright Eyes,2
+2009-03,Coldplay,0
+2009-03,David Bowie,14
+2009-03,Death Cab For Cutie,2
+2009-03,Elliott Smith,7
+2009-03,Feist,1
+2009-03,Hot Chip,0
+2009-03,José González,1
+2009-03,Kings Of Convenience,0
+2009-03,Nick Drake,4
+2009-03,Phoenix,0
+2009-03,Radiohead,0
+2009-03,Sufjan Stevens,2
+2009-03,Tegan And Sara,0
+2009-03,The Beatles,1
+2009-03,The Notwist,1
+2009-03,The Shins,1
+2009-04,Arcade Fire,0
+2009-04,Belle And Sebastian,0
+2009-04,Bloc Party,1
+2009-04,Bright Eyes,0
+2009-04,Coldplay,1
+2009-04,David Bowie,25
+2009-04,Death Cab For Cutie,11
+2009-04,Elliott Smith,7
+2009-04,Feist,0
+2009-04,Hot Chip,0
+2009-04,José González,4
+2009-04,Kings Of Convenience,3
+2009-04,Nick Drake,0
+2009-04,Phoenix,2
+2009-04,Radiohead,3
+2009-04,Sufjan Stevens,0
+2009-04,Tegan And Sara,1
+2009-04,The Beatles,8
+2009-04,The Notwist,1
+2009-04,The Shins,2

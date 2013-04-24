@@ -1,0 +1,721 @@
+month,artist,plays
+2006-05,Belle And Sebastian,0
+2006-05,David Bowie,0
+2006-05,Echo & The Bunnymen,0
+2006-05,Hüsker Dü,3
+2006-05,Kyuss,0
+2006-05,Leonard Cohen,3
+2006-05,Love Battery,0
+2006-05,Marillion,0
+2006-05,Mark Knopfler,0
+2006-05,Mojave 3,0
+2006-05,Morphine,0
+2006-05,Nick Cave & The Bad Seeds,0
+2006-05,Pavement,0
+2006-05,Pixies,1
+2006-05,Soft Cell,0
+2006-05,The Doors,0
+2006-05,The Jesus And Mary Chain,0
+2006-05,The Smiths,0
+2006-05,U2,0
+2006-05,Yo La Tengo,0
+2006-06,Belle And Sebastian,0
+2006-06,David Bowie,0
+2006-06,Echo & The Bunnymen,0
+2006-06,Hüsker Dü,19
+2006-06,Kyuss,11
+2006-06,Leonard Cohen,2
+2006-06,Love Battery,18
+2006-06,Marillion,0
+2006-06,Mark Knopfler,0
+2006-06,Mojave 3,0
+2006-06,Morphine,0
+2006-06,Nick Cave & The Bad Seeds,0
+2006-06,Pavement,20
+2006-06,Pixies,1
+2006-06,Soft Cell,0
+2006-06,The Doors,2
+2006-06,The Jesus And Mary Chain,0
+2006-06,The Smiths,0
+2006-06,U2,0
+2006-06,Yo La Tengo,0
+2006-07,Belle And Sebastian,0
+2006-07,David Bowie,1
+2006-07,Echo & The Bunnymen,0
+2006-07,Hüsker Dü,9
+2006-07,Kyuss,23
+2006-07,Leonard Cohen,1
+2006-07,Love Battery,1
+2006-07,Marillion,0
+2006-07,Mark Knopfler,0
+2006-07,Mojave 3,0
+2006-07,Morphine,0
+2006-07,Nick Cave & The Bad Seeds,0
+2006-07,Pavement,2
+2006-07,Pixies,22
+2006-07,Soft Cell,0
+2006-07,The Doors,3
+2006-07,The Jesus And Mary Chain,5
+2006-07,The Smiths,0
+2006-07,U2,0
+2006-07,Yo La Tengo,0
+2006-08,Belle And Sebastian,1
+2006-08,David Bowie,0
+2006-08,Echo & The Bunnymen,27
+2006-08,Hüsker Dü,6
+2006-08,Kyuss,4
+2006-08,Leonard Cohen,9
+2006-08,Love Battery,10
+2006-08,Marillion,0
+2006-08,Mark Knopfler,0
+2006-08,Mojave 3,0
+2006-08,Morphine,1
+2006-08,Nick Cave & The Bad Seeds,0
+2006-08,Pavement,2
+2006-08,Pixies,27
+2006-08,Soft Cell,27
+2006-08,The Doors,4
+2006-08,The Jesus And Mary Chain,5
+2006-08,The Smiths,40
+2006-08,U2,0
+2006-08,Yo La Tengo,10
+2006-09,Belle And Sebastian,0
+2006-09,David Bowie,10
+2006-09,Echo & The Bunnymen,10
+2006-09,Hüsker Dü,3
+2006-09,Kyuss,5
+2006-09,Leonard Cohen,5
+2006-09,Love Battery,0
+2006-09,Marillion,15
+2006-09,Mark Knopfler,0
+2006-09,Mojave 3,18
+2006-09,Morphine,23
+2006-09,Nick Cave & The Bad Seeds,0
+2006-09,Pavement,1
+2006-09,Pixies,5
+2006-09,Soft Cell,3
+2006-09,The Doors,7
+2006-09,The Jesus And Mary Chain,2
+2006-09,The Smiths,27
+2006-09,U2,1
+2006-09,Yo La Tengo,0
+2006-10,Belle And Sebastian,0
+2006-10,David Bowie,0
+2006-10,Echo & The Bunnymen,0
+2006-10,Hüsker Dü,1
+2006-10,Kyuss,1
+2006-10,Leonard Cohen,1
+2006-10,Love Battery,0
+2006-10,Marillion,5
+2006-10,Mark Knopfler,0
+2006-10,Mojave 3,4
+2006-10,Morphine,28
+2006-10,Nick Cave & The Bad Seeds,0
+2006-10,Pavement,0
+2006-10,Pixies,0
+2006-10,Soft Cell,1
+2006-10,The Doors,0
+2006-10,The Jesus And Mary Chain,17
+2006-10,The Smiths,0
+2006-10,U2,0
+2006-10,Yo La Tengo,9
+2006-11,Belle And Sebastian,0
+2006-11,David Bowie,0
+2006-11,Echo & The Bunnymen,0
+2006-11,Hüsker Dü,0
+2006-11,Kyuss,0
+2006-11,Leonard Cohen,0
+2006-11,Love Battery,0
+2006-11,Marillion,2
+2006-11,Mark Knopfler,1
+2006-11,Mojave 3,1
+2006-11,Morphine,0
+2006-11,Nick Cave & The Bad Seeds,0
+2006-11,Pavement,0
+2006-11,Pixies,0
+2006-11,Soft Cell,0
+2006-11,The Doors,0
+2006-11,The Jesus And Mary Chain,5
+2006-11,The Smiths,0
+2006-11,U2,1
+2006-11,Yo La Tengo,0
+2006-12,Belle And Sebastian,0
+2006-12,David Bowie,1
+2006-12,Echo & The Bunnymen,13
+2006-12,Hüsker Dü,5
+2006-12,Kyuss,1
+2006-12,Leonard Cohen,0
+2006-12,Love Battery,0
+2006-12,Marillion,17
+2006-12,Mark Knopfler,1
+2006-12,Mojave 3,2
+2006-12,Morphine,12
+2006-12,Nick Cave & The Bad Seeds,0
+2006-12,Pavement,2
+2006-12,Pixies,2
+2006-12,Soft Cell,0
+2006-12,The Doors,0
+2006-12,The Jesus And Mary Chain,1
+2006-12,The Smiths,11
+2006-12,U2,0
+2006-12,Yo La Tengo,0
+2007-01,Belle And Sebastian,1
+2007-01,David Bowie,2
+2007-01,Echo & The Bunnymen,2
+2007-01,Hüsker Dü,14
+2007-01,Kyuss,0
+2007-01,Leonard Cohen,0
+2007-01,Love Battery,1
+2007-01,Marillion,0
+2007-01,Mark Knopfler,1
+2007-01,Mojave 3,0
+2007-01,Morphine,1
+2007-01,Nick Cave & The Bad Seeds,0
+2007-01,Pavement,5
+2007-01,Pixies,1
+2007-01,Soft Cell,0
+2007-01,The Doors,2
+2007-01,The Jesus And Mary Chain,2
+2007-01,The Smiths,2
+2007-01,U2,2
+2007-01,Yo La Tengo,0
+2007-02,Belle And Sebastian,0
+2007-02,David Bowie,0
+2007-02,Echo & The Bunnymen,5
+2007-02,Hüsker Dü,0
+2007-02,Kyuss,0
+2007-02,Leonard Cohen,1
+2007-02,Love Battery,0
+2007-02,Marillion,0
+2007-02,Mark Knopfler,0
+2007-02,Mojave 3,0
+2007-02,Morphine,1
+2007-02,Nick Cave & The Bad Seeds,0
+2007-02,Pavement,1
+2007-02,Pixies,1
+2007-02,Soft Cell,0
+2007-02,The Doors,0
+2007-02,The Jesus And Mary Chain,1
+2007-02,The Smiths,3
+2007-02,U2,0
+2007-02,Yo La Tengo,0
+2007-03,Belle And Sebastian,0
+2007-03,David Bowie,0
+2007-03,Echo & The Bunnymen,0
+2007-03,Hüsker Dü,0
+2007-03,Kyuss,1
+2007-03,Leonard Cohen,0
+2007-03,Love Battery,0
+2007-03,Marillion,0
+2007-03,Mark Knopfler,0
+2007-03,Mojave 3,1
+2007-03,Morphine,0
+2007-03,Nick Cave & The Bad Seeds,0
+2007-03,Pavement,15
+2007-03,Pixies,1
+2007-03,Soft Cell,0
+2007-03,The Doors,0
+2007-03,The Jesus And Mary Chain,13
+2007-03,The Smiths,1
+2007-03,U2,0
+2007-03,Yo La Tengo,1
+2007-04,Belle And Sebastian,1
+2007-04,David Bowie,0
+2007-04,Echo & The Bunnymen,1
+2007-04,Hüsker Dü,0
+2007-04,Kyuss,0
+2007-04,Leonard Cohen,0
+2007-04,Love Battery,0
+2007-04,Marillion,0
+2007-04,Mark Knopfler,0
+2007-04,Mojave 3,0
+2007-04,Morphine,3
+2007-04,Nick Cave & The Bad Seeds,4
+2007-04,Pavement,0
+2007-04,Pixies,0
+2007-04,Soft Cell,0
+2007-04,The Doors,0
+2007-04,The Jesus And Mary Chain,0
+2007-04,The Smiths,0
+2007-04,U2,0
+2007-04,Yo La Tengo,0
+2007-05,Belle And Sebastian,0
+2007-05,David Bowie,0
+2007-05,Echo & The Bunnymen,0
+2007-05,Hüsker Dü,1
+2007-05,Kyuss,0
+2007-05,Leonard Cohen,0
+2007-05,Love Battery,0
+2007-05,Marillion,0
+2007-05,Mark Knopfler,0
+2007-05,Mojave 3,0
+2007-05,Morphine,0
+2007-05,Nick Cave & The Bad Seeds,1
+2007-05,Pavement,0
+2007-05,Pixies,0
+2007-05,Soft Cell,0
+2007-05,The Doors,0
+2007-05,The Jesus And Mary Chain,2
+2007-05,The Smiths,0
+2007-05,U2,0
+2007-05,Yo La Tengo,0
+2007-06,Belle And Sebastian,0
+2007-06,David Bowie,0
+2007-06,Echo & The Bunnymen,0
+2007-06,Hüsker Dü,0
+2007-06,Kyuss,0
+2007-06,Leonard Cohen,0
+2007-06,Love Battery,0
+2007-06,Marillion,0
+2007-06,Mark Knopfler,0
+2007-06,Mojave 3,0
+2007-06,Morphine,0
+2007-06,Nick Cave & The Bad Seeds,0
+2007-06,Pavement,0
+2007-06,Pixies,0
+2007-06,Soft Cell,4
+2007-06,The Doors,0
+2007-06,The Jesus And Mary Chain,0
+2007-06,The Smiths,1
+2007-06,U2,0
+2007-06,Yo La Tengo,0
+2007-07,Belle And Sebastian,0
+2007-07,David Bowie,0
+2007-07,Echo & The Bunnymen,1
+2007-07,Hüsker Dü,3
+2007-07,Kyuss,2
+2007-07,Leonard Cohen,2
+2007-07,Love Battery,1
+2007-07,Marillion,1
+2007-07,Mark Knopfler,1
+2007-07,Mojave 3,1
+2007-07,Morphine,3
+2007-07,Nick Cave & The Bad Seeds,1
+2007-07,Pavement,1
+2007-07,Pixies,0
+2007-07,Soft Cell,3
+2007-07,The Doors,2
+2007-07,The Jesus And Mary Chain,1
+2007-07,The Smiths,6
+2007-07,U2,0
+2007-07,Yo La Tengo,0
+2007-08,Belle And Sebastian,0
+2007-08,David Bowie,2
+2007-08,Echo & The Bunnymen,2
+2007-08,Hüsker Dü,0
+2007-08,Kyuss,0
+2007-08,Leonard Cohen,0
+2007-08,Love Battery,0
+2007-08,Marillion,1
+2007-08,Mark Knopfler,2
+2007-08,Mojave 3,2
+2007-08,Morphine,0
+2007-08,Nick Cave & The Bad Seeds,0
+2007-08,Pavement,0
+2007-08,Pixies,0
+2007-08,Soft Cell,0
+2007-08,The Doors,2
+2007-08,The Jesus And Mary Chain,1
+2007-08,The Smiths,8
+2007-08,U2,1
+2007-08,Yo La Tengo,14
+2007-09,Belle And Sebastian,0
+2007-09,David Bowie,0
+2007-09,Echo & The Bunnymen,0
+2007-09,Hüsker Dü,0
+2007-09,Kyuss,2
+2007-09,Leonard Cohen,0
+2007-09,Love Battery,0
+2007-09,Marillion,0
+2007-09,Mark Knopfler,0
+2007-09,Mojave 3,0
+2007-09,Morphine,0
+2007-09,Nick Cave & The Bad Seeds,0
+2007-09,Pavement,0
+2007-09,Pixies,0
+2007-09,Soft Cell,0
+2007-09,The Doors,0
+2007-09,The Jesus And Mary Chain,4
+2007-09,The Smiths,0
+2007-09,U2,46
+2007-09,Yo La Tengo,1
+2007-10,Belle And Sebastian,1
+2007-10,David Bowie,0
+2007-10,Echo & The Bunnymen,0
+2007-10,Hüsker Dü,0
+2007-10,Kyuss,2
+2007-10,Leonard Cohen,0
+2007-10,Love Battery,1
+2007-10,Marillion,0
+2007-10,Mark Knopfler,0
+2007-10,Mojave 3,1
+2007-10,Morphine,0
+2007-10,Nick Cave & The Bad Seeds,0
+2007-10,Pavement,0
+2007-10,Pixies,0
+2007-10,Soft Cell,0
+2007-10,The Doors,3
+2007-10,The Jesus And Mary Chain,1
+2007-10,The Smiths,0
+2007-10,U2,9
+2007-10,Yo La Tengo,0
+2007-11,Belle And Sebastian,0
+2007-11,David Bowie,0
+2007-11,Echo & The Bunnymen,0
+2007-11,Hüsker Dü,0
+2007-11,Kyuss,0
+2007-11,Leonard Cohen,0
+2007-11,Love Battery,0
+2007-11,Marillion,0
+2007-11,Mark Knopfler,0
+2007-11,Mojave 3,1
+2007-11,Morphine,0
+2007-11,Nick Cave & The Bad Seeds,0
+2007-11,Pavement,0
+2007-11,Pixies,0
+2007-11,Soft Cell,0
+2007-11,The Doors,0
+2007-11,The Jesus And Mary Chain,0
+2007-11,The Smiths,0
+2007-11,U2,0
+2007-11,Yo La Tengo,0
+2007-12,Belle And Sebastian,0
+2007-12,David Bowie,0
+2007-12,Echo & The Bunnymen,1
+2007-12,Hüsker Dü,3
+2007-12,Kyuss,1
+2007-12,Leonard Cohen,0
+2007-12,Love Battery,0
+2007-12,Marillion,0
+2007-12,Mark Knopfler,0
+2007-12,Mojave 3,0
+2007-12,Morphine,2
+2007-12,Nick Cave & The Bad Seeds,0
+2007-12,Pavement,0
+2007-12,Pixies,0
+2007-12,Soft Cell,6
+2007-12,The Doors,1
+2007-12,The Jesus And Mary Chain,1
+2007-12,The Smiths,0
+2007-12,U2,0
+2007-12,Yo La Tengo,0
+2008-01,Belle And Sebastian,41
+2008-01,David Bowie,0
+2008-01,Echo & The Bunnymen,0
+2008-01,Hüsker Dü,0
+2008-01,Kyuss,1
+2008-01,Leonard Cohen,0
+2008-01,Love Battery,0
+2008-01,Marillion,1
+2008-01,Mark Knopfler,0
+2008-01,Mojave 3,0
+2008-01,Morphine,0
+2008-01,Nick Cave & The Bad Seeds,0
+2008-01,Pavement,0
+2008-01,Pixies,0
+2008-01,Soft Cell,2
+2008-01,The Doors,2
+2008-01,The Jesus And Mary Chain,0
+2008-01,The Smiths,3
+2008-01,U2,3
+2008-01,Yo La Tengo,9
+2008-02,Belle And Sebastian,2
+2008-02,David Bowie,3
+2008-02,Echo & The Bunnymen,0
+2008-02,Hüsker Dü,0
+2008-02,Kyuss,0
+2008-02,Leonard Cohen,0
+2008-02,Love Battery,2
+2008-02,Marillion,0
+2008-02,Mark Knopfler,0
+2008-02,Mojave 3,0
+2008-02,Morphine,1
+2008-02,Nick Cave & The Bad Seeds,1
+2008-02,Pavement,0
+2008-02,Pixies,0
+2008-02,Soft Cell,0
+2008-02,The Doors,0
+2008-02,The Jesus And Mary Chain,1
+2008-02,The Smiths,0
+2008-02,U2,4
+2008-02,Yo La Tengo,10
+2008-03,Belle And Sebastian,8
+2008-03,David Bowie,0
+2008-03,Echo & The Bunnymen,0
+2008-03,Hüsker Dü,0
+2008-03,Kyuss,0
+2008-03,Leonard Cohen,0
+2008-03,Love Battery,0
+2008-03,Marillion,0
+2008-03,Mark Knopfler,21
+2008-03,Mojave 3,0
+2008-03,Morphine,0
+2008-03,Nick Cave & The Bad Seeds,0
+2008-03,Pavement,0
+2008-03,Pixies,0
+2008-03,Soft Cell,0
+2008-03,The Doors,0
+2008-03,The Jesus And Mary Chain,0
+2008-03,The Smiths,0
+2008-03,U2,0
+2008-03,Yo La Tengo,0
+2008-04,Belle And Sebastian,3
+2008-04,David Bowie,0
+2008-04,Echo & The Bunnymen,1
+2008-04,Hüsker Dü,0
+2008-04,Kyuss,0
+2008-04,Leonard Cohen,0
+2008-04,Love Battery,0
+2008-04,Marillion,0
+2008-04,Mark Knopfler,1
+2008-04,Mojave 3,0
+2008-04,Morphine,0
+2008-04,Nick Cave & The Bad Seeds,0
+2008-04,Pavement,0
+2008-04,Pixies,2
+2008-04,Soft Cell,0
+2008-04,The Doors,1
+2008-04,The Jesus And Mary Chain,1
+2008-04,The Smiths,3
+2008-04,U2,1
+2008-04,Yo La Tengo,0
+2008-05,Belle And Sebastian,0
+2008-05,David Bowie,0
+2008-05,Echo & The Bunnymen,0
+2008-05,Hüsker Dü,0
+2008-05,Kyuss,13
+2008-05,Leonard Cohen,0
+2008-05,Love Battery,0
+2008-05,Marillion,0
+2008-05,Mark Knopfler,6
+2008-05,Mojave 3,0
+2008-05,Morphine,0
+2008-05,Nick Cave & The Bad Seeds,0
+2008-05,Pavement,0
+2008-05,Pixies,0
+2008-05,Soft Cell,0
+2008-05,The Doors,0
+2008-05,The Jesus And Mary Chain,0
+2008-05,The Smiths,0
+2008-05,U2,0
+2008-05,Yo La Tengo,0
+2008-06,Belle And Sebastian,0
+2008-06,David Bowie,0
+2008-06,Echo & The Bunnymen,0
+2008-06,Hüsker Dü,0
+2008-06,Kyuss,0
+2008-06,Leonard Cohen,0
+2008-06,Love Battery,0
+2008-06,Marillion,0
+2008-06,Mark Knopfler,0
+2008-06,Mojave 3,0
+2008-06,Morphine,0
+2008-06,Nick Cave & The Bad Seeds,0
+2008-06,Pavement,0
+2008-06,Pixies,0
+2008-06,Soft Cell,0
+2008-06,The Doors,0
+2008-06,The Jesus And Mary Chain,0
+2008-06,The Smiths,1
+2008-06,U2,0
+2008-06,Yo La Tengo,0
+2008-07,Belle And Sebastian,0
+2008-07,David Bowie,0
+2008-07,Echo & The Bunnymen,0
+2008-07,Hüsker Dü,0
+2008-07,Kyuss,0
+2008-07,Leonard Cohen,0
+2008-07,Love Battery,0
+2008-07,Marillion,1
+2008-07,Mark Knopfler,0
+2008-07,Mojave 3,0
+2008-07,Morphine,0
+2008-07,Nick Cave & The Bad Seeds,0
+2008-07,Pavement,0
+2008-07,Pixies,0
+2008-07,Soft Cell,0
+2008-07,The Doors,0
+2008-07,The Jesus And Mary Chain,0
+2008-07,The Smiths,1
+2008-07,U2,0
+2008-07,Yo La Tengo,0
+2008-08,Belle And Sebastian,0
+2008-08,David Bowie,0
+2008-08,Echo & The Bunnymen,0
+2008-08,Hüsker Dü,0
+2008-08,Kyuss,0
+2008-08,Leonard Cohen,0
+2008-08,Love Battery,1
+2008-08,Marillion,0
+2008-08,Mark Knopfler,0
+2008-08,Mojave 3,0
+2008-08,Morphine,0
+2008-08,Nick Cave & The Bad Seeds,1
+2008-08,Pavement,0
+2008-08,Pixies,0
+2008-08,Soft Cell,0
+2008-08,The Doors,0
+2008-08,The Jesus And Mary Chain,1
+2008-08,The Smiths,0
+2008-08,U2,1
+2008-08,Yo La Tengo,0
+2008-09,Belle And Sebastian,0
+2008-09,David Bowie,1
+2008-09,Echo & The Bunnymen,0
+2008-09,Hüsker Dü,0
+2008-09,Kyuss,0
+2008-09,Leonard Cohen,0
+2008-09,Love Battery,0
+2008-09,Marillion,0
+2008-09,Mark Knopfler,0
+2008-09,Mojave 3,0
+2008-09,Morphine,0
+2008-09,Nick Cave & The Bad Seeds,0
+2008-09,Pavement,0
+2008-09,Pixies,0
+2008-09,Soft Cell,0
+2008-09,The Doors,0
+2008-09,The Jesus And Mary Chain,0
+2008-09,The Smiths,0
+2008-09,U2,0
+2008-09,Yo La Tengo,0
+2008-10,Belle And Sebastian,0
+2008-10,David Bowie,1
+2008-10,Echo & The Bunnymen,0
+2008-10,Hüsker Dü,0
+2008-10,Kyuss,0
+2008-10,Leonard Cohen,0
+2008-10,Love Battery,0
+2008-10,Marillion,0
+2008-10,Mark Knopfler,0
+2008-10,Mojave 3,0
+2008-10,Morphine,0
+2008-10,Nick Cave & The Bad Seeds,0
+2008-10,Pavement,0
+2008-10,Pixies,0
+2008-10,Soft Cell,1
+2008-10,The Doors,0
+2008-10,The Jesus And Mary Chain,0
+2008-10,The Smiths,0
+2008-10,U2,0
+2008-10,Yo La Tengo,4
+2008-11,Belle And Sebastian,0
+2008-11,David Bowie,0
+2008-11,Echo & The Bunnymen,0
+2008-11,Hüsker Dü,0
+2008-11,Kyuss,0
+2008-11,Leonard Cohen,0
+2008-11,Love Battery,0
+2008-11,Marillion,0
+2008-11,Mark Knopfler,0
+2008-11,Mojave 3,0
+2008-11,Morphine,0
+2008-11,Nick Cave & The Bad Seeds,0
+2008-11,Pavement,0
+2008-11,Pixies,0
+2008-11,Soft Cell,0
+2008-11,The Doors,1
+2008-11,The Jesus And Mary Chain,0
+2008-11,The Smiths,0
+2008-11,U2,2
+2008-11,Yo La Tengo,0
+2008-12,Belle And Sebastian,0
+2008-12,David Bowie,0
+2008-12,Echo & The Bunnymen,0
+2008-12,Hüsker Dü,2
+2008-12,Kyuss,1
+2008-12,Leonard Cohen,0
+2008-12,Love Battery,0
+2008-12,Marillion,0
+2008-12,Mark Knopfler,0
+2008-12,Mojave 3,0
+2008-12,Morphine,0
+2008-12,Nick Cave & The Bad Seeds,9
+2008-12,Pavement,0
+2008-12,Pixies,0
+2008-12,Soft Cell,0
+2008-12,The Doors,0
+2008-12,The Jesus And Mary Chain,0
+2008-12,The Smiths,1
+2008-12,U2,0
+2008-12,Yo La Tengo,0
+2009-01,Belle And Sebastian,0
+2009-01,David Bowie,0
+2009-01,Echo & The Bunnymen,0
+2009-01,Hüsker Dü,0
+2009-01,Kyuss,0
+2009-01,Leonard Cohen,0
+2009-01,Love Battery,0
+2009-01,Marillion,0
+2009-01,Mark Knopfler,0
+2009-01,Mojave 3,0
+2009-01,Morphine,0
+2009-01,Nick Cave & The Bad Seeds,0
+2009-01,Pavement,0
+2009-01,Pixies,0
+2009-01,Soft Cell,0
+2009-01,The Doors,0
+2009-01,The Jesus And Mary Chain,0
+2009-01,The Smiths,0
+2009-01,U2,0
+2009-01,Yo La Tengo,0
+2009-02,Belle And Sebastian,0
+2009-02,David Bowie,0
+2009-02,Echo & The Bunnymen,0
+2009-02,Hüsker Dü,0
+2009-02,Kyuss,0
+2009-02,Leonard Cohen,0
+2009-02,Love Battery,0
+2009-02,Marillion,0
+2009-02,Mark Knopfler,0
+2009-02,Mojave 3,0
+2009-02,Morphine,0
+2009-02,Nick Cave & The Bad Seeds,0
+2009-02,Pavement,0
+2009-02,Pixies,0
+2009-02,Soft Cell,0
+2009-02,The Doors,0
+2009-02,The Jesus And Mary Chain,0
+2009-02,The Smiths,0
+2009-02,U2,0
+2009-02,Yo La Tengo,0
+2009-03,Belle And Sebastian,6
+2009-03,David Bowie,0
+2009-03,Echo & The Bunnymen,0
+2009-03,Hüsker Dü,0
+2009-03,Kyuss,0
+2009-03,Leonard Cohen,0
+2009-03,Love Battery,0
+2009-03,Marillion,0
+2009-03,Mark Knopfler,0
+2009-03,Mojave 3,0
+2009-03,Morphine,0
+2009-03,Nick Cave & The Bad Seeds,1
+2009-03,Pavement,0
+2009-03,Pixies,0
+2009-03,Soft Cell,1
+2009-03,The Doors,0
+2009-03,The Jesus And Mary Chain,1
+2009-03,The Smiths,0
+2009-03,U2,0
+2009-03,Yo La Tengo,1
+2009-04,Belle And Sebastian,0
+2009-04,David Bowie,0
+2009-04,Echo & The Bunnymen,0
+2009-04,Hüsker Dü,0
+2009-04,Kyuss,0
+2009-04,Leonard Cohen,0
+2009-04,Love Battery,0
+2009-04,Marillion,0
+2009-04,Mark Knopfler,0
+2009-04,Mojave 3,0
+2009-04,Morphine,0
+2009-04,Nick Cave & The Bad Seeds,3
+2009-04,Pavement,0
+2009-04,Pixies,0
+2009-04,Soft Cell,1
+2009-04,The Doors,0
+2009-04,The Jesus And Mary Chain,0
+2009-04,The Smiths,0
+2009-04,U2,0
+2009-04,Yo La Tengo,0

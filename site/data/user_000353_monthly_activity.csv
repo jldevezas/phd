@@ -1,0 +1,781 @@
+month,artist,plays
+2006-03,Agressiva 69,0
+2006-03,Anima Damnata,0
+2006-03,Ayreon,26
+2006-03,Björn Rosenström,0
+2006-03,Burzum,0
+2006-03,Darkthrone,0
+2006-03,Emperor,0
+2006-03,Enslaved,0
+2006-03,Equilibrium,0
+2006-03,Frontside,0
+2006-03,Gorgoroth,0
+2006-03,Honor,0
+2006-03,In Flames,113
+2006-03,Kriegsmaschine,0
+2006-03,Machine Head,32
+2006-03,Novembre,0
+2006-03,Satyricon,6
+2006-03,The Cooper Temple Clause,0
+2006-03,Tower,0
+2006-03,Zyklon,0
+2006-04,Agressiva 69,0
+2006-04,Anima Damnata,0
+2006-04,Ayreon,5
+2006-04,Björn Rosenström,0
+2006-04,Burzum,0
+2006-04,Darkthrone,0
+2006-04,Emperor,0
+2006-04,Enslaved,0
+2006-04,Equilibrium,0
+2006-04,Frontside,0
+2006-04,Gorgoroth,0
+2006-04,Honor,0
+2006-04,In Flames,49
+2006-04,Kriegsmaschine,0
+2006-04,Machine Head,0
+2006-04,Novembre,0
+2006-04,Satyricon,0
+2006-04,The Cooper Temple Clause,0
+2006-04,Tower,0
+2006-04,Zyklon,0
+2006-05,Agressiva 69,12
+2006-05,Anima Damnata,0
+2006-05,Ayreon,0
+2006-05,Björn Rosenström,0
+2006-05,Burzum,0
+2006-05,Darkthrone,0
+2006-05,Emperor,0
+2006-05,Enslaved,0
+2006-05,Equilibrium,48
+2006-05,Frontside,6
+2006-05,Gorgoroth,0
+2006-05,Honor,0
+2006-05,In Flames,106
+2006-05,Kriegsmaschine,0
+2006-05,Machine Head,35
+2006-05,Novembre,0
+2006-05,Satyricon,29
+2006-05,The Cooper Temple Clause,12
+2006-05,Tower,0
+2006-05,Zyklon,0
+2006-06,Agressiva 69,0
+2006-06,Anima Damnata,0
+2006-06,Ayreon,18
+2006-06,Björn Rosenström,0
+2006-06,Burzum,0
+2006-06,Darkthrone,10
+2006-06,Emperor,0
+2006-06,Enslaved,0
+2006-06,Equilibrium,98
+2006-06,Frontside,0
+2006-06,Gorgoroth,92
+2006-06,Honor,0
+2006-06,In Flames,555
+2006-06,Kriegsmaschine,0
+2006-06,Machine Head,0
+2006-06,Novembre,0
+2006-06,Satyricon,34
+2006-06,The Cooper Temple Clause,48
+2006-06,Tower,0
+2006-06,Zyklon,0
+2006-07,Agressiva 69,0
+2006-07,Anima Damnata,0
+2006-07,Ayreon,0
+2006-07,Björn Rosenström,0
+2006-07,Burzum,9
+2006-07,Darkthrone,0
+2006-07,Emperor,0
+2006-07,Enslaved,0
+2006-07,Equilibrium,75
+2006-07,Frontside,11
+2006-07,Gorgoroth,24
+2006-07,Honor,0
+2006-07,In Flames,661
+2006-07,Kriegsmaschine,0
+2006-07,Machine Head,9
+2006-07,Novembre,45
+2006-07,Satyricon,37
+2006-07,The Cooper Temple Clause,20
+2006-07,Tower,0
+2006-07,Zyklon,0
+2006-08,Agressiva 69,0
+2006-08,Anima Damnata,0
+2006-08,Ayreon,0
+2006-08,Björn Rosenström,0
+2006-08,Burzum,10
+2006-08,Darkthrone,32
+2006-08,Emperor,14
+2006-08,Enslaved,62
+2006-08,Equilibrium,13
+2006-08,Frontside,0
+2006-08,Gorgoroth,62
+2006-08,Honor,0
+2006-08,In Flames,223
+2006-08,Kriegsmaschine,0
+2006-08,Machine Head,0
+2006-08,Novembre,7
+2006-08,Satyricon,31
+2006-08,The Cooper Temple Clause,0
+2006-08,Tower,0
+2006-08,Zyklon,0
+2006-09,Agressiva 69,0
+2006-09,Anima Damnata,23
+2006-09,Ayreon,0
+2006-09,Björn Rosenström,0
+2006-09,Burzum,0
+2006-09,Darkthrone,100
+2006-09,Emperor,6
+2006-09,Enslaved,30
+2006-09,Equilibrium,0
+2006-09,Frontside,0
+2006-09,Gorgoroth,102
+2006-09,Honor,0
+2006-09,In Flames,202
+2006-09,Kriegsmaschine,0
+2006-09,Machine Head,0
+2006-09,Novembre,23
+2006-09,Satyricon,39
+2006-09,The Cooper Temple Clause,0
+2006-09,Tower,0
+2006-09,Zyklon,0
+2006-10,Agressiva 69,0
+2006-10,Anima Damnata,0
+2006-10,Ayreon,0
+2006-10,Björn Rosenström,0
+2006-10,Burzum,0
+2006-10,Darkthrone,637
+2006-10,Emperor,0
+2006-10,Enslaved,9
+2006-10,Equilibrium,0
+2006-10,Frontside,0
+2006-10,Gorgoroth,56
+2006-10,Honor,0
+2006-10,In Flames,100
+2006-10,Kriegsmaschine,0
+2006-10,Machine Head,0
+2006-10,Novembre,0
+2006-10,Satyricon,151
+2006-10,The Cooper Temple Clause,0
+2006-10,Tower,0
+2006-10,Zyklon,0
+2006-11,Agressiva 69,0
+2006-11,Anima Damnata,2
+2006-11,Ayreon,0
+2006-11,Björn Rosenström,0
+2006-11,Burzum,12
+2006-11,Darkthrone,870
+2006-11,Emperor,9
+2006-11,Enslaved,0
+2006-11,Equilibrium,5
+2006-11,Frontside,3
+2006-11,Gorgoroth,27
+2006-11,Honor,0
+2006-11,In Flames,30
+2006-11,Kriegsmaschine,0
+2006-11,Machine Head,0
+2006-11,Novembre,0
+2006-11,Satyricon,16
+2006-11,The Cooper Temple Clause,3
+2006-11,Tower,0
+2006-11,Zyklon,0
+2006-12,Agressiva 69,0
+2006-12,Anima Damnata,0
+2006-12,Ayreon,0
+2006-12,Björn Rosenström,0
+2006-12,Burzum,6
+2006-12,Darkthrone,651
+2006-12,Emperor,11
+2006-12,Enslaved,20
+2006-12,Equilibrium,0
+2006-12,Frontside,50
+2006-12,Gorgoroth,35
+2006-12,Honor,0
+2006-12,In Flames,21
+2006-12,Kriegsmaschine,0
+2006-12,Machine Head,0
+2006-12,Novembre,3
+2006-12,Satyricon,0
+2006-12,The Cooper Temple Clause,0
+2006-12,Tower,11
+2006-12,Zyklon,0
+2007-01,Agressiva 69,0
+2007-01,Anima Damnata,0
+2007-01,Ayreon,0
+2007-01,Björn Rosenström,0
+2007-01,Burzum,18
+2007-01,Darkthrone,618
+2007-01,Emperor,7
+2007-01,Enslaved,9
+2007-01,Equilibrium,25
+2007-01,Frontside,12
+2007-01,Gorgoroth,28
+2007-01,Honor,0
+2007-01,In Flames,51
+2007-01,Kriegsmaschine,0
+2007-01,Machine Head,0
+2007-01,Novembre,2
+2007-01,Satyricon,0
+2007-01,The Cooper Temple Clause,0
+2007-01,Tower,1
+2007-01,Zyklon,0
+2007-02,Agressiva 69,0
+2007-02,Anima Damnata,22
+2007-02,Ayreon,0
+2007-02,Björn Rosenström,0
+2007-02,Burzum,6
+2007-02,Darkthrone,342
+2007-02,Emperor,0
+2007-02,Enslaved,39
+2007-02,Equilibrium,0
+2007-02,Frontside,0
+2007-02,Gorgoroth,19
+2007-02,Honor,0
+2007-02,In Flames,32
+2007-02,Kriegsmaschine,0
+2007-02,Machine Head,0
+2007-02,Novembre,0
+2007-02,Satyricon,0
+2007-02,The Cooper Temple Clause,113
+2007-02,Tower,0
+2007-02,Zyklon,0
+2007-03,Agressiva 69,0
+2007-03,Anima Damnata,0
+2007-03,Ayreon,0
+2007-03,Björn Rosenström,1
+2007-03,Burzum,0
+2007-03,Darkthrone,262
+2007-03,Emperor,0
+2007-03,Enslaved,56
+2007-03,Equilibrium,46
+2007-03,Frontside,0
+2007-03,Gorgoroth,0
+2007-03,Honor,0
+2007-03,In Flames,0
+2007-03,Kriegsmaschine,0
+2007-03,Machine Head,0
+2007-03,Novembre,0
+2007-03,Satyricon,0
+2007-03,The Cooper Temple Clause,60
+2007-03,Tower,1
+2007-03,Zyklon,0
+2007-04,Agressiva 69,0
+2007-04,Anima Damnata,0
+2007-04,Ayreon,0
+2007-04,Björn Rosenström,1
+2007-04,Burzum,0
+2007-04,Darkthrone,268
+2007-04,Emperor,0
+2007-04,Enslaved,42
+2007-04,Equilibrium,2
+2007-04,Frontside,0
+2007-04,Gorgoroth,0
+2007-04,Honor,0
+2007-04,In Flames,6
+2007-04,Kriegsmaschine,13
+2007-04,Machine Head,0
+2007-04,Novembre,0
+2007-04,Satyricon,0
+2007-04,The Cooper Temple Clause,0
+2007-04,Tower,4
+2007-04,Zyklon,0
+2007-05,Agressiva 69,0
+2007-05,Anima Damnata,0
+2007-05,Ayreon,40
+2007-05,Björn Rosenström,0
+2007-05,Burzum,0
+2007-05,Darkthrone,257
+2007-05,Emperor,0
+2007-05,Enslaved,31
+2007-05,Equilibrium,31
+2007-05,Frontside,0
+2007-05,Gorgoroth,0
+2007-05,Honor,0
+2007-05,In Flames,0
+2007-05,Kriegsmaschine,0
+2007-05,Machine Head,0
+2007-05,Novembre,0
+2007-05,Satyricon,0
+2007-05,The Cooper Temple Clause,25
+2007-05,Tower,0
+2007-05,Zyklon,10
+2007-06,Agressiva 69,0
+2007-06,Anima Damnata,46
+2007-06,Ayreon,35
+2007-06,Björn Rosenström,1
+2007-06,Burzum,0
+2007-06,Darkthrone,108
+2007-06,Emperor,0
+2007-06,Enslaved,12
+2007-06,Equilibrium,13
+2007-06,Frontside,0
+2007-06,Gorgoroth,0
+2007-06,Honor,0
+2007-06,In Flames,8
+2007-06,Kriegsmaschine,0
+2007-06,Machine Head,0
+2007-06,Novembre,16
+2007-06,Satyricon,0
+2007-06,The Cooper Temple Clause,0
+2007-06,Tower,0
+2007-06,Zyklon,12
+2007-07,Agressiva 69,0
+2007-07,Anima Damnata,0
+2007-07,Ayreon,0
+2007-07,Björn Rosenström,1
+2007-07,Burzum,0
+2007-07,Darkthrone,73
+2007-07,Emperor,0
+2007-07,Enslaved,51
+2007-07,Equilibrium,0
+2007-07,Frontside,0
+2007-07,Gorgoroth,31
+2007-07,Honor,0
+2007-07,In Flames,0
+2007-07,Kriegsmaschine,0
+2007-07,Machine Head,11
+2007-07,Novembre,0
+2007-07,Satyricon,0
+2007-07,The Cooper Temple Clause,0
+2007-07,Tower,0
+2007-07,Zyklon,15
+2007-08,Agressiva 69,0
+2007-08,Anima Damnata,0
+2007-08,Ayreon,0
+2007-08,Björn Rosenström,0
+2007-08,Burzum,0
+2007-08,Darkthrone,91
+2007-08,Emperor,0
+2007-08,Enslaved,23
+2007-08,Equilibrium,3
+2007-08,Frontside,0
+2007-08,Gorgoroth,57
+2007-08,Honor,0
+2007-08,In Flames,11
+2007-08,Kriegsmaschine,124
+2007-08,Machine Head,0
+2007-08,Novembre,0
+2007-08,Satyricon,0
+2007-08,The Cooper Temple Clause,10
+2007-08,Tower,0
+2007-08,Zyklon,69
+2007-09,Agressiva 69,0
+2007-09,Anima Damnata,0
+2007-09,Ayreon,109
+2007-09,Björn Rosenström,0
+2007-09,Burzum,0
+2007-09,Darkthrone,0
+2007-09,Emperor,0
+2007-09,Enslaved,1
+2007-09,Equilibrium,0
+2007-09,Frontside,0
+2007-09,Gorgoroth,0
+2007-09,Honor,0
+2007-09,In Flames,0
+2007-09,Kriegsmaschine,6
+2007-09,Machine Head,0
+2007-09,Novembre,0
+2007-09,Satyricon,0
+2007-09,The Cooper Temple Clause,0
+2007-09,Tower,0
+2007-09,Zyklon,0
+2007-10,Agressiva 69,0
+2007-10,Anima Damnata,0
+2007-10,Ayreon,6
+2007-10,Björn Rosenström,0
+2007-10,Burzum,0
+2007-10,Darkthrone,75
+2007-10,Emperor,0
+2007-10,Enslaved,0
+2007-10,Equilibrium,0
+2007-10,Frontside,0
+2007-10,Gorgoroth,0
+2007-10,Honor,0
+2007-10,In Flames,13
+2007-10,Kriegsmaschine,23
+2007-10,Machine Head,0
+2007-10,Novembre,0
+2007-10,Satyricon,0
+2007-10,The Cooper Temple Clause,29
+2007-10,Tower,0
+2007-10,Zyklon,34
+2007-11,Agressiva 69,0
+2007-11,Anima Damnata,0
+2007-11,Ayreon,0
+2007-11,Björn Rosenström,0
+2007-11,Burzum,0
+2007-11,Darkthrone,5
+2007-11,Emperor,0
+2007-11,Enslaved,0
+2007-11,Equilibrium,0
+2007-11,Frontside,0
+2007-11,Gorgoroth,0
+2007-11,Honor,0
+2007-11,In Flames,0
+2007-11,Kriegsmaschine,14
+2007-11,Machine Head,0
+2007-11,Novembre,0
+2007-11,Satyricon,25
+2007-11,The Cooper Temple Clause,0
+2007-11,Tower,0
+2007-11,Zyklon,0
+2007-12,Agressiva 69,0
+2007-12,Anima Damnata,0
+2007-12,Ayreon,20
+2007-12,Björn Rosenström,0
+2007-12,Burzum,0
+2007-12,Darkthrone,35
+2007-12,Emperor,0
+2007-12,Enslaved,0
+2007-12,Equilibrium,0
+2007-12,Frontside,0
+2007-12,Gorgoroth,0
+2007-12,Honor,0
+2007-12,In Flames,0
+2007-12,Kriegsmaschine,22
+2007-12,Machine Head,0
+2007-12,Novembre,0
+2007-12,Satyricon,0
+2007-12,The Cooper Temple Clause,0
+2007-12,Tower,0
+2007-12,Zyklon,54
+2008-01,Agressiva 69,0
+2008-01,Anima Damnata,0
+2008-01,Ayreon,0
+2008-01,Björn Rosenström,0
+2008-01,Burzum,0
+2008-01,Darkthrone,26
+2008-01,Emperor,0
+2008-01,Enslaved,58
+2008-01,Equilibrium,0
+2008-01,Frontside,0
+2008-01,Gorgoroth,0
+2008-01,Honor,0
+2008-01,In Flames,0
+2008-01,Kriegsmaschine,0
+2008-01,Machine Head,0
+2008-01,Novembre,0
+2008-01,Satyricon,2
+2008-01,The Cooper Temple Clause,20
+2008-01,Tower,0
+2008-01,Zyklon,14
+2008-02,Agressiva 69,0
+2008-02,Anima Damnata,0
+2008-02,Ayreon,0
+2008-02,Björn Rosenström,0
+2008-02,Burzum,0
+2008-02,Darkthrone,18
+2008-02,Emperor,0
+2008-02,Enslaved,17
+2008-02,Equilibrium,0
+2008-02,Frontside,0
+2008-02,Gorgoroth,0
+2008-02,Honor,0
+2008-02,In Flames,0
+2008-02,Kriegsmaschine,0
+2008-02,Machine Head,0
+2008-02,Novembre,0
+2008-02,Satyricon,0
+2008-02,The Cooper Temple Clause,8
+2008-02,Tower,0
+2008-02,Zyklon,0
+2008-03,Agressiva 69,170
+2008-03,Anima Damnata,0
+2008-03,Ayreon,0
+2008-03,Björn Rosenström,1
+2008-03,Burzum,0
+2008-03,Darkthrone,183
+2008-03,Emperor,0
+2008-03,Enslaved,0
+2008-03,Equilibrium,0
+2008-03,Frontside,0
+2008-03,Gorgoroth,0
+2008-03,Honor,0
+2008-03,In Flames,0
+2008-03,Kriegsmaschine,22
+2008-03,Machine Head,0
+2008-03,Novembre,0
+2008-03,Satyricon,0
+2008-03,The Cooper Temple Clause,1
+2008-03,Tower,1
+2008-03,Zyklon,0
+2008-04,Agressiva 69,34
+2008-04,Anima Damnata,0
+2008-04,Ayreon,0
+2008-04,Björn Rosenström,0
+2008-04,Burzum,0
+2008-04,Darkthrone,0
+2008-04,Emperor,0
+2008-04,Enslaved,0
+2008-04,Equilibrium,0
+2008-04,Frontside,0
+2008-04,Gorgoroth,0
+2008-04,Honor,12
+2008-04,In Flames,0
+2008-04,Kriegsmaschine,15
+2008-04,Machine Head,0
+2008-04,Novembre,0
+2008-04,Satyricon,0
+2008-04,The Cooper Temple Clause,0
+2008-04,Tower,0
+2008-04,Zyklon,0
+2008-05,Agressiva 69,38
+2008-05,Anima Damnata,0
+2008-05,Ayreon,0
+2008-05,Björn Rosenström,0
+2008-05,Burzum,0
+2008-05,Darkthrone,38
+2008-05,Emperor,0
+2008-05,Enslaved,0
+2008-05,Equilibrium,0
+2008-05,Frontside,0
+2008-05,Gorgoroth,0
+2008-05,Honor,42
+2008-05,In Flames,0
+2008-05,Kriegsmaschine,52
+2008-05,Machine Head,0
+2008-05,Novembre,0
+2008-05,Satyricon,0
+2008-05,The Cooper Temple Clause,0
+2008-05,Tower,0
+2008-05,Zyklon,0
+2008-06,Agressiva 69,13
+2008-06,Anima Damnata,0
+2008-06,Ayreon,0
+2008-06,Björn Rosenström,1
+2008-06,Burzum,0
+2008-06,Darkthrone,25
+2008-06,Emperor,0
+2008-06,Enslaved,0
+2008-06,Equilibrium,0
+2008-06,Frontside,0
+2008-06,Gorgoroth,0
+2008-06,Honor,7
+2008-06,In Flames,0
+2008-06,Kriegsmaschine,4
+2008-06,Machine Head,0
+2008-06,Novembre,0
+2008-06,Satyricon,0
+2008-06,The Cooper Temple Clause,0
+2008-06,Tower,0
+2008-06,Zyklon,0
+2008-07,Agressiva 69,0
+2008-07,Anima Damnata,0
+2008-07,Ayreon,0
+2008-07,Björn Rosenström,0
+2008-07,Burzum,0
+2008-07,Darkthrone,58
+2008-07,Emperor,0
+2008-07,Enslaved,13
+2008-07,Equilibrium,0
+2008-07,Frontside,0
+2008-07,Gorgoroth,0
+2008-07,Honor,10
+2008-07,In Flames,0
+2008-07,Kriegsmaschine,8
+2008-07,Machine Head,0
+2008-07,Novembre,0
+2008-07,Satyricon,0
+2008-07,The Cooper Temple Clause,18
+2008-07,Tower,0
+2008-07,Zyklon,0
+2008-08,Agressiva 69,0
+2008-08,Anima Damnata,0
+2008-08,Ayreon,0
+2008-08,Björn Rosenström,0
+2008-08,Burzum,0
+2008-08,Darkthrone,0
+2008-08,Emperor,0
+2008-08,Enslaved,0
+2008-08,Equilibrium,0
+2008-08,Frontside,0
+2008-08,Gorgoroth,0
+2008-08,Honor,0
+2008-08,In Flames,0
+2008-08,Kriegsmaschine,0
+2008-08,Machine Head,0
+2008-08,Novembre,0
+2008-08,Satyricon,0
+2008-08,The Cooper Temple Clause,0
+2008-08,Tower,0
+2008-08,Zyklon,0
+2008-09,Agressiva 69,0
+2008-09,Anima Damnata,0
+2008-09,Ayreon,0
+2008-09,Björn Rosenström,0
+2008-09,Burzum,0
+2008-09,Darkthrone,4
+2008-09,Emperor,0
+2008-09,Enslaved,0
+2008-09,Equilibrium,0
+2008-09,Frontside,0
+2008-09,Gorgoroth,0
+2008-09,Honor,8
+2008-09,In Flames,0
+2008-09,Kriegsmaschine,9
+2008-09,Machine Head,0
+2008-09,Novembre,0
+2008-09,Satyricon,0
+2008-09,The Cooper Temple Clause,0
+2008-09,Tower,0
+2008-09,Zyklon,0
+2008-10,Agressiva 69,0
+2008-10,Anima Damnata,0
+2008-10,Ayreon,0
+2008-10,Björn Rosenström,0
+2008-10,Burzum,0
+2008-10,Darkthrone,8
+2008-10,Emperor,0
+2008-10,Enslaved,0
+2008-10,Equilibrium,0
+2008-10,Frontside,0
+2008-10,Gorgoroth,0
+2008-10,Honor,0
+2008-10,In Flames,0
+2008-10,Kriegsmaschine,0
+2008-10,Machine Head,0
+2008-10,Novembre,0
+2008-10,Satyricon,0
+2008-10,The Cooper Temple Clause,0
+2008-10,Tower,0
+2008-10,Zyklon,0
+2008-11,Agressiva 69,0
+2008-11,Anima Damnata,0
+2008-11,Ayreon,0
+2008-11,Björn Rosenström,0
+2008-11,Burzum,0
+2008-11,Darkthrone,0
+2008-11,Emperor,0
+2008-11,Enslaved,0
+2008-11,Equilibrium,0
+2008-11,Frontside,0
+2008-11,Gorgoroth,0
+2008-11,Honor,10
+2008-11,In Flames,0
+2008-11,Kriegsmaschine,8
+2008-11,Machine Head,0
+2008-11,Novembre,0
+2008-11,Satyricon,0
+2008-11,The Cooper Temple Clause,0
+2008-11,Tower,0
+2008-11,Zyklon,0
+2008-12,Agressiva 69,0
+2008-12,Anima Damnata,0
+2008-12,Ayreon,0
+2008-12,Björn Rosenström,0
+2008-12,Burzum,0
+2008-12,Darkthrone,0
+2008-12,Emperor,0
+2008-12,Enslaved,0
+2008-12,Equilibrium,0
+2008-12,Frontside,0
+2008-12,Gorgoroth,0
+2008-12,Honor,0
+2008-12,In Flames,0
+2008-12,Kriegsmaschine,0
+2008-12,Machine Head,0
+2008-12,Novembre,0
+2008-12,Satyricon,0
+2008-12,The Cooper Temple Clause,0
+2008-12,Tower,0
+2008-12,Zyklon,0
+2009-01,Agressiva 69,0
+2009-01,Anima Damnata,0
+2009-01,Ayreon,0
+2009-01,Björn Rosenström,0
+2009-01,Burzum,0
+2009-01,Darkthrone,0
+2009-01,Emperor,0
+2009-01,Enslaved,0
+2009-01,Equilibrium,0
+2009-01,Frontside,0
+2009-01,Gorgoroth,0
+2009-01,Honor,0
+2009-01,In Flames,0
+2009-01,Kriegsmaschine,0
+2009-01,Machine Head,0
+2009-01,Novembre,0
+2009-01,Satyricon,0
+2009-01,The Cooper Temple Clause,0
+2009-01,Tower,0
+2009-01,Zyklon,0
+2009-02,Agressiva 69,0
+2009-02,Anima Damnata,0
+2009-02,Ayreon,0
+2009-02,Björn Rosenström,0
+2009-02,Burzum,0
+2009-02,Darkthrone,0
+2009-02,Emperor,0
+2009-02,Enslaved,0
+2009-02,Equilibrium,0
+2009-02,Frontside,0
+2009-02,Gorgoroth,0
+2009-02,Honor,10
+2009-02,In Flames,0
+2009-02,Kriegsmaschine,35
+2009-02,Machine Head,0
+2009-02,Novembre,0
+2009-02,Satyricon,0
+2009-02,The Cooper Temple Clause,0
+2009-02,Tower,0
+2009-02,Zyklon,0
+2009-03,Agressiva 69,0
+2009-03,Anima Damnata,0
+2009-03,Ayreon,0
+2009-03,Björn Rosenström,0
+2009-03,Burzum,0
+2009-03,Darkthrone,0
+2009-03,Emperor,0
+2009-03,Enslaved,0
+2009-03,Equilibrium,0
+2009-03,Frontside,0
+2009-03,Gorgoroth,0
+2009-03,Honor,0
+2009-03,In Flames,0
+2009-03,Kriegsmaschine,0
+2009-03,Machine Head,0
+2009-03,Novembre,0
+2009-03,Satyricon,0
+2009-03,The Cooper Temple Clause,0
+2009-03,Tower,0
+2009-03,Zyklon,0
+2009-04,Agressiva 69,0
+2009-04,Anima Damnata,0
+2009-04,Ayreon,0
+2009-04,Björn Rosenström,0
+2009-04,Burzum,0
+2009-04,Darkthrone,0
+2009-04,Emperor,0
+2009-04,Enslaved,0
+2009-04,Equilibrium,0
+2009-04,Frontside,0
+2009-04,Gorgoroth,0
+2009-04,Honor,0
+2009-04,In Flames,0
+2009-04,Kriegsmaschine,0
+2009-04,Machine Head,0
+2009-04,Novembre,0
+2009-04,Satyricon,0
+2009-04,The Cooper Temple Clause,0
+2009-04,Tower,0
+2009-04,Zyklon,0
+2009-05,Agressiva 69,0
+2009-05,Anima Damnata,0
+2009-05,Ayreon,20
+2009-05,Björn Rosenström,0
+2009-05,Burzum,0
+2009-05,Darkthrone,0
+2009-05,Emperor,0
+2009-05,Enslaved,0
+2009-05,Equilibrium,0
+2009-05,Frontside,0
+2009-05,Gorgoroth,0
+2009-05,Honor,0
+2009-05,In Flames,0
+2009-05,Kriegsmaschine,0
+2009-05,Machine Head,0
+2009-05,Novembre,0
+2009-05,Satyricon,0
+2009-05,The Cooper Temple Clause,0
+2009-05,Tower,0
+2009-05,Zyklon,0

@@ -1,0 +1,481 @@
+month,artist,plays
+2007-06,Air,1
+2007-06,Band Of Horses,2
+2007-06,David Bowie,4
+2007-06,David Gray,4
+2007-06,Depeche Mode,0
+2007-06,George Michael,0
+2007-06,Ghostland Observatory,0
+2007-06,Guns N' Roses,1
+2007-06,Hole,31
+2007-06,Johnny Cash,0
+2007-06,Kings Of Leon,0
+2007-06,Moby,6
+2007-06,Neil Diamond,0
+2007-06,New Order,21
+2007-06,Pearl Jam,0
+2007-06,The Killers,11
+2007-06,The Lightning Seeds,2
+2007-06,The Smashing Pumpkins,6
+2007-06,U2,2
+2007-06,Van Halen,2
+2007-07,Air,3
+2007-07,Band Of Horses,4
+2007-07,David Bowie,8
+2007-07,David Gray,4
+2007-07,Depeche Mode,0
+2007-07,George Michael,4
+2007-07,Ghostland Observatory,0
+2007-07,Guns N' Roses,3
+2007-07,Hole,5
+2007-07,Johnny Cash,16
+2007-07,Kings Of Leon,0
+2007-07,Moby,5
+2007-07,Neil Diamond,0
+2007-07,New Order,3
+2007-07,Pearl Jam,6
+2007-07,The Killers,54
+2007-07,The Lightning Seeds,4
+2007-07,The Smashing Pumpkins,18
+2007-07,U2,2
+2007-07,Van Halen,5
+2007-08,Air,10
+2007-08,Band Of Horses,3
+2007-08,David Bowie,0
+2007-08,David Gray,7
+2007-08,Depeche Mode,1
+2007-08,George Michael,1
+2007-08,Ghostland Observatory,0
+2007-08,Guns N' Roses,4
+2007-08,Hole,4
+2007-08,Johnny Cash,25
+2007-08,Kings Of Leon,0
+2007-08,Moby,8
+2007-08,Neil Diamond,0
+2007-08,New Order,20
+2007-08,Pearl Jam,2
+2007-08,The Killers,49
+2007-08,The Lightning Seeds,1
+2007-08,The Smashing Pumpkins,4
+2007-08,U2,6
+2007-08,Van Halen,7
+2007-09,Air,4
+2007-09,Band Of Horses,11
+2007-09,David Bowie,8
+2007-09,David Gray,7
+2007-09,Depeche Mode,7
+2007-09,George Michael,11
+2007-09,Ghostland Observatory,9
+2007-09,Guns N' Roses,12
+2007-09,Hole,11
+2007-09,Johnny Cash,23
+2007-09,Kings Of Leon,3
+2007-09,Moby,2
+2007-09,Neil Diamond,4
+2007-09,New Order,27
+2007-09,Pearl Jam,11
+2007-09,The Killers,37
+2007-09,The Lightning Seeds,25
+2007-09,The Smashing Pumpkins,12
+2007-09,U2,5
+2007-09,Van Halen,9
+2007-10,Air,4
+2007-10,Band Of Horses,5
+2007-10,David Bowie,5
+2007-10,David Gray,22
+2007-10,Depeche Mode,7
+2007-10,George Michael,4
+2007-10,Ghostland Observatory,28
+2007-10,Guns N' Roses,4
+2007-10,Hole,12
+2007-10,Johnny Cash,27
+2007-10,Kings Of Leon,20
+2007-10,Moby,23
+2007-10,Neil Diamond,11
+2007-10,New Order,30
+2007-10,Pearl Jam,5
+2007-10,The Killers,12
+2007-10,The Lightning Seeds,6
+2007-10,The Smashing Pumpkins,6
+2007-10,U2,0
+2007-10,Van Halen,6
+2007-11,Air,7
+2007-11,Band Of Horses,3
+2007-11,David Bowie,14
+2007-11,David Gray,16
+2007-11,Depeche Mode,6
+2007-11,George Michael,3
+2007-11,Ghostland Observatory,6
+2007-11,Guns N' Roses,22
+2007-11,Hole,7
+2007-11,Johnny Cash,23
+2007-11,Kings Of Leon,30
+2007-11,Moby,32
+2007-11,Neil Diamond,28
+2007-11,New Order,31
+2007-11,Pearl Jam,4
+2007-11,The Killers,65
+2007-11,The Lightning Seeds,6
+2007-11,The Smashing Pumpkins,5
+2007-11,U2,1
+2007-11,Van Halen,5
+2007-12,Air,5
+2007-12,Band Of Horses,13
+2007-12,David Bowie,9
+2007-12,David Gray,19
+2007-12,Depeche Mode,8
+2007-12,George Michael,9
+2007-12,Ghostland Observatory,29
+2007-12,Guns N' Roses,20
+2007-12,Hole,7
+2007-12,Johnny Cash,3
+2007-12,Kings Of Leon,11
+2007-12,Moby,9
+2007-12,Neil Diamond,4
+2007-12,New Order,8
+2007-12,Pearl Jam,9
+2007-12,The Killers,55
+2007-12,The Lightning Seeds,2
+2007-12,The Smashing Pumpkins,8
+2007-12,U2,12
+2007-12,Van Halen,8
+2008-01,Air,11
+2008-01,Band Of Horses,11
+2008-01,David Bowie,12
+2008-01,David Gray,0
+2008-01,Depeche Mode,7
+2008-01,George Michael,7
+2008-01,Ghostland Observatory,20
+2008-01,Guns N' Roses,5
+2008-01,Hole,6
+2008-01,Johnny Cash,11
+2008-01,Kings Of Leon,6
+2008-01,Moby,8
+2008-01,Neil Diamond,12
+2008-01,New Order,7
+2008-01,Pearl Jam,11
+2008-01,The Killers,30
+2008-01,The Lightning Seeds,4
+2008-01,The Smashing Pumpkins,0
+2008-01,U2,10
+2008-01,Van Halen,6
+2008-02,Air,3
+2008-02,Band Of Horses,2
+2008-02,David Bowie,11
+2008-02,David Gray,8
+2008-02,Depeche Mode,5
+2008-02,George Michael,10
+2008-02,Ghostland Observatory,3
+2008-02,Guns N' Roses,3
+2008-02,Hole,4
+2008-02,Johnny Cash,2
+2008-02,Kings Of Leon,2
+2008-02,Moby,2
+2008-02,Neil Diamond,17
+2008-02,New Order,18
+2008-02,Pearl Jam,2
+2008-02,The Killers,7
+2008-02,The Lightning Seeds,1
+2008-02,The Smashing Pumpkins,5
+2008-02,U2,23
+2008-02,Van Halen,5
+2008-03,Air,7
+2008-03,Band Of Horses,11
+2008-03,David Bowie,10
+2008-03,David Gray,5
+2008-03,Depeche Mode,10
+2008-03,George Michael,9
+2008-03,Ghostland Observatory,13
+2008-03,Guns N' Roses,4
+2008-03,Hole,5
+2008-03,Johnny Cash,11
+2008-03,Kings Of Leon,92
+2008-03,Moby,30
+2008-03,Neil Diamond,26
+2008-03,New Order,13
+2008-03,Pearl Jam,8
+2008-03,The Killers,47
+2008-03,The Lightning Seeds,5
+2008-03,The Smashing Pumpkins,5
+2008-03,U2,10
+2008-03,Van Halen,8
+2008-04,Air,0
+2008-04,Band Of Horses,0
+2008-04,David Bowie,1
+2008-04,David Gray,0
+2008-04,Depeche Mode,0
+2008-04,George Michael,0
+2008-04,Ghostland Observatory,40
+2008-04,Guns N' Roses,12
+2008-04,Hole,12
+2008-04,Johnny Cash,3
+2008-04,Kings Of Leon,41
+2008-04,Moby,0
+2008-04,Neil Diamond,4
+2008-04,New Order,0
+2008-04,Pearl Jam,0
+2008-04,The Killers,68
+2008-04,The Lightning Seeds,0
+2008-04,The Smashing Pumpkins,0
+2008-04,U2,0
+2008-04,Van Halen,0
+2008-05,Air,5
+2008-05,Band Of Horses,1
+2008-05,David Bowie,19
+2008-05,David Gray,17
+2008-05,Depeche Mode,1
+2008-05,George Michael,2
+2008-05,Ghostland Observatory,21
+2008-05,Guns N' Roses,42
+2008-05,Hole,14
+2008-05,Johnny Cash,38
+2008-05,Kings Of Leon,43
+2008-05,Moby,20
+2008-05,Neil Diamond,15
+2008-05,New Order,21
+2008-05,Pearl Jam,1
+2008-05,The Killers,2
+2008-05,The Lightning Seeds,4
+2008-05,The Smashing Pumpkins,2
+2008-05,U2,2
+2008-05,Van Halen,1
+2008-06,Air,0
+2008-06,Band Of Horses,2
+2008-06,David Bowie,20
+2008-06,David Gray,1
+2008-06,Depeche Mode,3
+2008-06,George Michael,2
+2008-06,Ghostland Observatory,31
+2008-06,Guns N' Roses,38
+2008-06,Hole,14
+2008-06,Johnny Cash,14
+2008-06,Kings Of Leon,36
+2008-06,Moby,2
+2008-06,Neil Diamond,18
+2008-06,New Order,36
+2008-06,Pearl Jam,2
+2008-06,The Killers,4
+2008-06,The Lightning Seeds,4
+2008-06,The Smashing Pumpkins,2
+2008-06,U2,4
+2008-06,Van Halen,1
+2008-07,Air,2
+2008-07,Band Of Horses,2
+2008-07,David Bowie,21
+2008-07,David Gray,13
+2008-07,Depeche Mode,5
+2008-07,George Michael,4
+2008-07,Ghostland Observatory,27
+2008-07,Guns N' Roses,4
+2008-07,Hole,2
+2008-07,Johnny Cash,4
+2008-07,Kings Of Leon,5
+2008-07,Moby,2
+2008-07,Neil Diamond,3
+2008-07,New Order,4
+2008-07,Pearl Jam,3
+2008-07,The Killers,4
+2008-07,The Lightning Seeds,3
+2008-07,The Smashing Pumpkins,2
+2008-07,U2,2
+2008-07,Van Halen,1
+2008-08,Air,1
+2008-08,Band Of Horses,1
+2008-08,David Bowie,20
+2008-08,David Gray,15
+2008-08,Depeche Mode,2
+2008-08,George Michael,1
+2008-08,Ghostland Observatory,18
+2008-08,Guns N' Roses,0
+2008-08,Hole,1
+2008-08,Johnny Cash,2
+2008-08,Kings Of Leon,2
+2008-08,Moby,2
+2008-08,Neil Diamond,1
+2008-08,New Order,1
+2008-08,Pearl Jam,1
+2008-08,The Killers,17
+2008-08,The Lightning Seeds,1
+2008-08,The Smashing Pumpkins,1
+2008-08,U2,0
+2008-08,Van Halen,1
+2008-09,Air,0
+2008-09,Band Of Horses,0
+2008-09,David Bowie,2
+2008-09,David Gray,2
+2008-09,Depeche Mode,1
+2008-09,George Michael,2
+2008-09,Ghostland Observatory,1
+2008-09,Guns N' Roses,2
+2008-09,Hole,1
+2008-09,Johnny Cash,3
+2008-09,Kings Of Leon,1
+2008-09,Moby,2
+2008-09,Neil Diamond,1
+2008-09,New Order,2
+2008-09,Pearl Jam,2
+2008-09,The Killers,5
+2008-09,The Lightning Seeds,0
+2008-09,The Smashing Pumpkins,2
+2008-09,U2,0
+2008-09,Van Halen,1
+2008-10,Air,0
+2008-10,Band Of Horses,0
+2008-10,David Bowie,0
+2008-10,David Gray,0
+2008-10,Depeche Mode,1
+2008-10,George Michael,0
+2008-10,Ghostland Observatory,1
+2008-10,Guns N' Roses,0
+2008-10,Hole,0
+2008-10,Johnny Cash,12
+2008-10,Kings Of Leon,23
+2008-10,Moby,0
+2008-10,Neil Diamond,0
+2008-10,New Order,1
+2008-10,Pearl Jam,1
+2008-10,The Killers,32
+2008-10,The Lightning Seeds,1
+2008-10,The Smashing Pumpkins,0
+2008-10,U2,10
+2008-10,Van Halen,1
+2008-11,Air,0
+2008-11,Band Of Horses,0
+2008-11,David Bowie,0
+2008-11,David Gray,0
+2008-11,Depeche Mode,0
+2008-11,George Michael,0
+2008-11,Ghostland Observatory,1
+2008-11,Guns N' Roses,2
+2008-11,Hole,1
+2008-11,Johnny Cash,2
+2008-11,Kings Of Leon,1
+2008-11,Moby,1
+2008-11,Neil Diamond,1
+2008-11,New Order,0
+2008-11,Pearl Jam,1
+2008-11,The Killers,1
+2008-11,The Lightning Seeds,0
+2008-11,The Smashing Pumpkins,0
+2008-11,U2,1
+2008-11,Van Halen,0
+2008-12,Air,1
+2008-12,Band Of Horses,1
+2008-12,David Bowie,3
+2008-12,David Gray,2
+2008-12,Depeche Mode,4
+2008-12,George Michael,0
+2008-12,Ghostland Observatory,1
+2008-12,Guns N' Roses,4
+2008-12,Hole,4
+2008-12,Johnny Cash,5
+2008-12,Kings Of Leon,6
+2008-12,Moby,1
+2008-12,Neil Diamond,3
+2008-12,New Order,0
+2008-12,Pearl Jam,4
+2008-12,The Killers,4
+2008-12,The Lightning Seeds,0
+2008-12,The Smashing Pumpkins,3
+2008-12,U2,5
+2008-12,Van Halen,0
+2009-01,Air,0
+2009-01,Band Of Horses,0
+2009-01,David Bowie,0
+2009-01,David Gray,0
+2009-01,Depeche Mode,1
+2009-01,George Michael,1
+2009-01,Ghostland Observatory,0
+2009-01,Guns N' Roses,2
+2009-01,Hole,0
+2009-01,Johnny Cash,1
+2009-01,Kings Of Leon,0
+2009-01,Moby,0
+2009-01,Neil Diamond,1
+2009-01,New Order,0
+2009-01,Pearl Jam,0
+2009-01,The Killers,0
+2009-01,The Lightning Seeds,0
+2009-01,The Smashing Pumpkins,1
+2009-01,U2,1
+2009-01,Van Halen,0
+2009-02,Air,3
+2009-02,Band Of Horses,2
+2009-02,David Bowie,2
+2009-02,David Gray,2
+2009-02,Depeche Mode,0
+2009-02,George Michael,1
+2009-02,Ghostland Observatory,3
+2009-02,Guns N' Roses,3
+2009-02,Hole,3
+2009-02,Johnny Cash,6
+2009-02,Kings Of Leon,4
+2009-02,Moby,0
+2009-02,Neil Diamond,3
+2009-02,New Order,2
+2009-02,Pearl Jam,3
+2009-02,The Killers,7
+2009-02,The Lightning Seeds,1
+2009-02,The Smashing Pumpkins,3
+2009-02,U2,2
+2009-02,Van Halen,3
+2009-03,Air,4
+2009-03,Band Of Horses,5
+2009-03,David Bowie,5
+2009-03,David Gray,6
+2009-03,Depeche Mode,2
+2009-03,George Michael,1
+2009-03,Ghostland Observatory,5
+2009-03,Guns N' Roses,10
+2009-03,Hole,8
+2009-03,Johnny Cash,9
+2009-03,Kings Of Leon,8
+2009-03,Moby,5
+2009-03,Neil Diamond,8
+2009-03,New Order,4
+2009-03,Pearl Jam,7
+2009-03,The Killers,14
+2009-03,The Lightning Seeds,3
+2009-03,The Smashing Pumpkins,4
+2009-03,U2,8
+2009-03,Van Halen,5
+2009-04,Air,4
+2009-04,Band Of Horses,3
+2009-04,David Bowie,5
+2009-04,David Gray,5
+2009-04,Depeche Mode,1
+2009-04,George Michael,1
+2009-04,Ghostland Observatory,3
+2009-04,Guns N' Roses,3
+2009-04,Hole,2
+2009-04,Johnny Cash,4
+2009-04,Kings Of Leon,2
+2009-04,Moby,2
+2009-04,Neil Diamond,6
+2009-04,New Order,3
+2009-04,Pearl Jam,3
+2009-04,The Killers,5
+2009-04,The Lightning Seeds,1
+2009-04,The Smashing Pumpkins,2
+2009-04,U2,3
+2009-04,Van Halen,3
+2009-05,Air,1
+2009-05,Band Of Horses,0
+2009-05,David Bowie,0
+2009-05,David Gray,0
+2009-05,Depeche Mode,0
+2009-05,George Michael,0
+2009-05,Ghostland Observatory,0
+2009-05,Guns N' Roses,0
+2009-05,Hole,1
+2009-05,Johnny Cash,0
+2009-05,Kings Of Leon,0
+2009-05,Moby,0
+2009-05,Neil Diamond,0
+2009-05,New Order,0
+2009-05,Pearl Jam,0
+2009-05,The Killers,0
+2009-05,The Lightning Seeds,1
+2009-05,The Smashing Pumpkins,0
+2009-05,U2,1
+2009-05,Van Halen,0

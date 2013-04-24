@@ -1,0 +1,561 @@
+month,artist,plays
+2007-02,Alabama Thunderpussy,0
+2007-02,Bill Monroe,0
+2007-02,Black Flag,15
+2007-02,Black Oak Arkansas,0
+2007-02,Carl Perkins,0
+2007-02,Dave Dudley,0
+2007-02,Down,0
+2007-02,George Jones,0
+2007-02,Hank Williams,0
+2007-02,Hank Williams Iii,0
+2007-02,Hank Williams, Jr.,0
+2007-02,Jerry Lee Lewis,0
+2007-02,Johnny Cash,0
+2007-02,Johnny Paycheck,0
+2007-02,Messer Chups,13
+2007-02,Pete Seeger,0
+2007-02,The Clash,14
+2007-02,The Highwaymen,0
+2007-02,Waylon Jennings,0
+2007-02,Willie Nelson,0
+2007-03,Alabama Thunderpussy,0
+2007-03,Bill Monroe,0
+2007-03,Black Flag,28
+2007-03,Black Oak Arkansas,0
+2007-03,Carl Perkins,0
+2007-03,Dave Dudley,0
+2007-03,Down,0
+2007-03,George Jones,0
+2007-03,Hank Williams,0
+2007-03,Hank Williams Iii,0
+2007-03,Hank Williams, Jr.,0
+2007-03,Jerry Lee Lewis,0
+2007-03,Johnny Cash,26
+2007-03,Johnny Paycheck,0
+2007-03,Messer Chups,0
+2007-03,Pete Seeger,0
+2007-03,The Clash,0
+2007-03,The Highwaymen,0
+2007-03,Waylon Jennings,0
+2007-03,Willie Nelson,0
+2007-04,Alabama Thunderpussy,30
+2007-04,Bill Monroe,2
+2007-04,Black Flag,0
+2007-04,Black Oak Arkansas,0
+2007-04,Carl Perkins,6
+2007-04,Dave Dudley,2
+2007-04,Down,15
+2007-04,George Jones,1
+2007-04,Hank Williams,0
+2007-04,Hank Williams Iii,0
+2007-04,Hank Williams, Jr.,0
+2007-04,Jerry Lee Lewis,29
+2007-04,Johnny Cash,103
+2007-04,Johnny Paycheck,4
+2007-04,Messer Chups,0
+2007-04,Pete Seeger,0
+2007-04,The Clash,0
+2007-04,The Highwaymen,0
+2007-04,Waylon Jennings,1
+2007-04,Willie Nelson,2
+2007-05,Alabama Thunderpussy,118
+2007-05,Bill Monroe,1
+2007-05,Black Flag,6
+2007-05,Black Oak Arkansas,0
+2007-05,Carl Perkins,52
+2007-05,Dave Dudley,1
+2007-05,Down,84
+2007-05,George Jones,2
+2007-05,Hank Williams,1
+2007-05,Hank Williams Iii,1
+2007-05,Hank Williams, Jr.,0
+2007-05,Jerry Lee Lewis,0
+2007-05,Johnny Cash,300
+2007-05,Johnny Paycheck,2
+2007-05,Messer Chups,30
+2007-05,Pete Seeger,0
+2007-05,The Clash,18
+2007-05,The Highwaymen,0
+2007-05,Waylon Jennings,2
+2007-05,Willie Nelson,2
+2007-06,Alabama Thunderpussy,74
+2007-06,Bill Monroe,0
+2007-06,Black Flag,8
+2007-06,Black Oak Arkansas,0
+2007-06,Carl Perkins,4
+2007-06,Dave Dudley,0
+2007-06,Down,93
+2007-06,George Jones,0
+2007-06,Hank Williams,0
+2007-06,Hank Williams Iii,0
+2007-06,Hank Williams, Jr.,0
+2007-06,Jerry Lee Lewis,0
+2007-06,Johnny Cash,22
+2007-06,Johnny Paycheck,0
+2007-06,Messer Chups,0
+2007-06,Pete Seeger,0
+2007-06,The Clash,0
+2007-06,The Highwaymen,0
+2007-06,Waylon Jennings,0
+2007-06,Willie Nelson,0
+2007-07,Alabama Thunderpussy,10
+2007-07,Bill Monroe,78
+2007-07,Black Flag,14
+2007-07,Black Oak Arkansas,0
+2007-07,Carl Perkins,9
+2007-07,Dave Dudley,15
+2007-07,Down,17
+2007-07,George Jones,3
+2007-07,Hank Williams,9
+2007-07,Hank Williams Iii,7
+2007-07,Hank Williams, Jr.,13
+2007-07,Jerry Lee Lewis,0
+2007-07,Johnny Cash,47
+2007-07,Johnny Paycheck,36
+2007-07,Messer Chups,5
+2007-07,Pete Seeger,1
+2007-07,The Clash,0
+2007-07,The Highwaymen,5
+2007-07,Waylon Jennings,7
+2007-07,Willie Nelson,40
+2007-08,Alabama Thunderpussy,0
+2007-08,Bill Monroe,68
+2007-08,Black Flag,0
+2007-08,Black Oak Arkansas,0
+2007-08,Carl Perkins,50
+2007-08,Dave Dudley,4
+2007-08,Down,0
+2007-08,George Jones,19
+2007-08,Hank Williams,2
+2007-08,Hank Williams Iii,0
+2007-08,Hank Williams, Jr.,2
+2007-08,Jerry Lee Lewis,20
+2007-08,Johnny Cash,56
+2007-08,Johnny Paycheck,11
+2007-08,Messer Chups,0
+2007-08,Pete Seeger,0
+2007-08,The Clash,0
+2007-08,The Highwaymen,11
+2007-08,Waylon Jennings,39
+2007-08,Willie Nelson,55
+2007-09,Alabama Thunderpussy,2
+2007-09,Bill Monroe,64
+2007-09,Black Flag,0
+2007-09,Black Oak Arkansas,0
+2007-09,Carl Perkins,22
+2007-09,Dave Dudley,2
+2007-09,Down,0
+2007-09,George Jones,3
+2007-09,Hank Williams,7
+2007-09,Hank Williams Iii,3
+2007-09,Hank Williams, Jr.,13
+2007-09,Jerry Lee Lewis,33
+2007-09,Johnny Cash,140
+2007-09,Johnny Paycheck,3
+2007-09,Messer Chups,0
+2007-09,Pete Seeger,0
+2007-09,The Clash,65
+2007-09,The Highwaymen,10
+2007-09,Waylon Jennings,29
+2007-09,Willie Nelson,80
+2007-10,Alabama Thunderpussy,0
+2007-10,Bill Monroe,34
+2007-10,Black Flag,11
+2007-10,Black Oak Arkansas,0
+2007-10,Carl Perkins,7
+2007-10,Dave Dudley,1
+2007-10,Down,4
+2007-10,George Jones,1
+2007-10,Hank Williams,0
+2007-10,Hank Williams Iii,1
+2007-10,Hank Williams, Jr.,1
+2007-10,Jerry Lee Lewis,1
+2007-10,Johnny Cash,6
+2007-10,Johnny Paycheck,1
+2007-10,Messer Chups,0
+2007-10,Pete Seeger,0
+2007-10,The Clash,22
+2007-10,The Highwaymen,0
+2007-10,Waylon Jennings,1
+2007-10,Willie Nelson,4
+2007-11,Alabama Thunderpussy,0
+2007-11,Bill Monroe,27
+2007-11,Black Flag,18
+2007-11,Black Oak Arkansas,0
+2007-11,Carl Perkins,5
+2007-11,Dave Dudley,0
+2007-11,Down,0
+2007-11,George Jones,1
+2007-11,Hank Williams,0
+2007-11,Hank Williams Iii,0
+2007-11,Hank Williams, Jr.,0
+2007-11,Jerry Lee Lewis,0
+2007-11,Johnny Cash,0
+2007-11,Johnny Paycheck,0
+2007-11,Messer Chups,0
+2007-11,Pete Seeger,75
+2007-11,The Clash,89
+2007-11,The Highwaymen,0
+2007-11,Waylon Jennings,2
+2007-11,Willie Nelson,1
+2007-12,Alabama Thunderpussy,55
+2007-12,Bill Monroe,0
+2007-12,Black Flag,1
+2007-12,Black Oak Arkansas,0
+2007-12,Carl Perkins,2
+2007-12,Dave Dudley,0
+2007-12,Down,13
+2007-12,George Jones,2
+2007-12,Hank Williams,0
+2007-12,Hank Williams Iii,0
+2007-12,Hank Williams, Jr.,0
+2007-12,Jerry Lee Lewis,0
+2007-12,Johnny Cash,0
+2007-12,Johnny Paycheck,0
+2007-12,Messer Chups,13
+2007-12,Pete Seeger,13
+2007-12,The Clash,97
+2007-12,The Highwaymen,0
+2007-12,Waylon Jennings,2
+2007-12,Willie Nelson,99
+2008-01,Alabama Thunderpussy,0
+2008-01,Bill Monroe,17
+2008-01,Black Flag,2
+2008-01,Black Oak Arkansas,9
+2008-01,Carl Perkins,0
+2008-01,Dave Dudley,0
+2008-01,Down,26
+2008-01,George Jones,0
+2008-01,Hank Williams,0
+2008-01,Hank Williams Iii,0
+2008-01,Hank Williams, Jr.,0
+2008-01,Jerry Lee Lewis,0
+2008-01,Johnny Cash,32
+2008-01,Johnny Paycheck,0
+2008-01,Messer Chups,31
+2008-01,Pete Seeger,0
+2008-01,The Clash,0
+2008-01,The Highwaymen,10
+2008-01,Waylon Jennings,0
+2008-01,Willie Nelson,34
+2008-02,Alabama Thunderpussy,0
+2008-02,Bill Monroe,0
+2008-02,Black Flag,0
+2008-02,Black Oak Arkansas,39
+2008-02,Carl Perkins,0
+2008-02,Dave Dudley,0
+2008-02,Down,13
+2008-02,George Jones,0
+2008-02,Hank Williams,0
+2008-02,Hank Williams Iii,0
+2008-02,Hank Williams, Jr.,0
+2008-02,Jerry Lee Lewis,0
+2008-02,Johnny Cash,0
+2008-02,Johnny Paycheck,0
+2008-02,Messer Chups,35
+2008-02,Pete Seeger,16
+2008-02,The Clash,7
+2008-02,The Highwaymen,0
+2008-02,Waylon Jennings,0
+2008-02,Willie Nelson,9
+2008-03,Alabama Thunderpussy,69
+2008-03,Bill Monroe,0
+2008-03,Black Flag,28
+2008-03,Black Oak Arkansas,76
+2008-03,Carl Perkins,0
+2008-03,Dave Dudley,0
+2008-03,Down,0
+2008-03,George Jones,0
+2008-03,Hank Williams,0
+2008-03,Hank Williams Iii,0
+2008-03,Hank Williams, Jr.,0
+2008-03,Jerry Lee Lewis,0
+2008-03,Johnny Cash,0
+2008-03,Johnny Paycheck,0
+2008-03,Messer Chups,1
+2008-03,Pete Seeger,1
+2008-03,The Clash,15
+2008-03,The Highwaymen,0
+2008-03,Waylon Jennings,0
+2008-03,Willie Nelson,14
+2008-04,Alabama Thunderpussy,98
+2008-04,Bill Monroe,21
+2008-04,Black Flag,23
+2008-04,Black Oak Arkansas,23
+2008-04,Carl Perkins,2
+2008-04,Dave Dudley,2
+2008-04,Down,29
+2008-04,George Jones,21
+2008-04,Hank Williams,82
+2008-04,Hank Williams Iii,49
+2008-04,Hank Williams, Jr.,57
+2008-04,Jerry Lee Lewis,3
+2008-04,Johnny Cash,106
+2008-04,Johnny Paycheck,2
+2008-04,Messer Chups,14
+2008-04,Pete Seeger,5
+2008-04,The Clash,1
+2008-04,The Highwaymen,10
+2008-04,Waylon Jennings,55
+2008-04,Willie Nelson,84
+2008-05,Alabama Thunderpussy,17
+2008-05,Bill Monroe,15
+2008-05,Black Flag,10
+2008-05,Black Oak Arkansas,17
+2008-05,Carl Perkins,1
+2008-05,Dave Dudley,52
+2008-05,Down,15
+2008-05,George Jones,0
+2008-05,Hank Williams,27
+2008-05,Hank Williams Iii,47
+2008-05,Hank Williams, Jr.,17
+2008-05,Jerry Lee Lewis,5
+2008-05,Johnny Cash,83
+2008-05,Johnny Paycheck,0
+2008-05,Messer Chups,0
+2008-05,Pete Seeger,16
+2008-05,The Clash,41
+2008-05,The Highwaymen,17
+2008-05,Waylon Jennings,44
+2008-05,Willie Nelson,0
+2008-06,Alabama Thunderpussy,0
+2008-06,Bill Monroe,2
+2008-06,Black Flag,11
+2008-06,Black Oak Arkansas,1
+2008-06,Carl Perkins,0
+2008-06,Dave Dudley,32
+2008-06,Down,0
+2008-06,George Jones,3
+2008-06,Hank Williams,57
+2008-06,Hank Williams Iii,90
+2008-06,Hank Williams, Jr.,16
+2008-06,Jerry Lee Lewis,1
+2008-06,Johnny Cash,5
+2008-06,Johnny Paycheck,0
+2008-06,Messer Chups,0
+2008-06,Pete Seeger,41
+2008-06,The Clash,30
+2008-06,The Highwaymen,3
+2008-06,Waylon Jennings,1
+2008-06,Willie Nelson,1
+2008-07,Alabama Thunderpussy,0
+2008-07,Bill Monroe,32
+2008-07,Black Flag,0
+2008-07,Black Oak Arkansas,32
+2008-07,Carl Perkins,18
+2008-07,Dave Dudley,10
+2008-07,Down,0
+2008-07,George Jones,17
+2008-07,Hank Williams,51
+2008-07,Hank Williams Iii,146
+2008-07,Hank Williams, Jr.,59
+2008-07,Jerry Lee Lewis,0
+2008-07,Johnny Cash,35
+2008-07,Johnny Paycheck,10
+2008-07,Messer Chups,15
+2008-07,Pete Seeger,20
+2008-07,The Clash,103
+2008-07,The Highwaymen,41
+2008-07,Waylon Jennings,28
+2008-07,Willie Nelson,12
+2008-08,Alabama Thunderpussy,29
+2008-08,Bill Monroe,16
+2008-08,Black Flag,0
+2008-08,Black Oak Arkansas,22
+2008-08,Carl Perkins,0
+2008-08,Dave Dudley,26
+2008-08,Down,15
+2008-08,George Jones,20
+2008-08,Hank Williams,100
+2008-08,Hank Williams Iii,73
+2008-08,Hank Williams, Jr.,72
+2008-08,Jerry Lee Lewis,6
+2008-08,Johnny Cash,1
+2008-08,Johnny Paycheck,10
+2008-08,Messer Chups,19
+2008-08,Pete Seeger,123
+2008-08,The Clash,24
+2008-08,The Highwaymen,40
+2008-08,Waylon Jennings,43
+2008-08,Willie Nelson,64
+2008-09,Alabama Thunderpussy,0
+2008-09,Bill Monroe,0
+2008-09,Black Flag,0
+2008-09,Black Oak Arkansas,0
+2008-09,Carl Perkins,0
+2008-09,Dave Dudley,1
+2008-09,Down,0
+2008-09,George Jones,53
+2008-09,Hank Williams,73
+2008-09,Hank Williams Iii,237
+2008-09,Hank Williams, Jr.,26
+2008-09,Jerry Lee Lewis,0
+2008-09,Johnny Cash,28
+2008-09,Johnny Paycheck,13
+2008-09,Messer Chups,1
+2008-09,Pete Seeger,0
+2008-09,The Clash,0
+2008-09,The Highwaymen,36
+2008-09,Waylon Jennings,6
+2008-09,Willie Nelson,5
+2008-10,Alabama Thunderpussy,0
+2008-10,Bill Monroe,0
+2008-10,Black Flag,0
+2008-10,Black Oak Arkansas,26
+2008-10,Carl Perkins,18
+2008-10,Dave Dudley,0
+2008-10,Down,0
+2008-10,George Jones,0
+2008-10,Hank Williams,109
+2008-10,Hank Williams Iii,180
+2008-10,Hank Williams, Jr.,137
+2008-10,Jerry Lee Lewis,19
+2008-10,Johnny Cash,24
+2008-10,Johnny Paycheck,24
+2008-10,Messer Chups,19
+2008-10,Pete Seeger,0
+2008-10,The Clash,0
+2008-10,The Highwaymen,0
+2008-10,Waylon Jennings,9
+2008-10,Willie Nelson,0
+2008-11,Alabama Thunderpussy,28
+2008-11,Bill Monroe,4
+2008-11,Black Flag,0
+2008-11,Black Oak Arkansas,2
+2008-11,Carl Perkins,3
+2008-11,Dave Dudley,1
+2008-11,Down,26
+2008-11,George Jones,4
+2008-11,Hank Williams,101
+2008-11,Hank Williams Iii,150
+2008-11,Hank Williams, Jr.,60
+2008-11,Jerry Lee Lewis,3
+2008-11,Johnny Cash,36
+2008-11,Johnny Paycheck,0
+2008-11,Messer Chups,0
+2008-11,Pete Seeger,1
+2008-11,The Clash,0
+2008-11,The Highwaymen,17
+2008-11,Waylon Jennings,36
+2008-11,Willie Nelson,1
+2008-12,Alabama Thunderpussy,11
+2008-12,Bill Monroe,1
+2008-12,Black Flag,0
+2008-12,Black Oak Arkansas,0
+2008-12,Carl Perkins,6
+2008-12,Dave Dudley,0
+2008-12,Down,0
+2008-12,George Jones,1
+2008-12,Hank Williams,77
+2008-12,Hank Williams Iii,101
+2008-12,Hank Williams, Jr.,140
+2008-12,Jerry Lee Lewis,0
+2008-12,Johnny Cash,39
+2008-12,Johnny Paycheck,0
+2008-12,Messer Chups,17
+2008-12,Pete Seeger,17
+2008-12,The Clash,1
+2008-12,The Highwaymen,1
+2008-12,Waylon Jennings,2
+2008-12,Willie Nelson,1
+2009-01,Alabama Thunderpussy,0
+2009-01,Bill Monroe,0
+2009-01,Black Flag,0
+2009-01,Black Oak Arkansas,53
+2009-01,Carl Perkins,0
+2009-01,Dave Dudley,2
+2009-01,Down,0
+2009-01,George Jones,0
+2009-01,Hank Williams,116
+2009-01,Hank Williams Iii,102
+2009-01,Hank Williams, Jr.,41
+2009-01,Jerry Lee Lewis,9
+2009-01,Johnny Cash,19
+2009-01,Johnny Paycheck,32
+2009-01,Messer Chups,0
+2009-01,Pete Seeger,0
+2009-01,The Clash,0
+2009-01,The Highwaymen,18
+2009-01,Waylon Jennings,11
+2009-01,Willie Nelson,1
+2009-02,Alabama Thunderpussy,0
+2009-02,Bill Monroe,17
+2009-02,Black Flag,0
+2009-02,Black Oak Arkansas,21
+2009-02,Carl Perkins,2
+2009-02,Dave Dudley,0
+2009-02,Down,0
+2009-02,George Jones,21
+2009-02,Hank Williams,218
+2009-02,Hank Williams Iii,57
+2009-02,Hank Williams, Jr.,146
+2009-02,Jerry Lee Lewis,2
+2009-02,Johnny Cash,79
+2009-02,Johnny Paycheck,32
+2009-02,Messer Chups,0
+2009-02,Pete Seeger,0
+2009-02,The Clash,0
+2009-02,The Highwaymen,1
+2009-02,Waylon Jennings,24
+2009-02,Willie Nelson,13
+2009-03,Alabama Thunderpussy,0
+2009-03,Bill Monroe,2
+2009-03,Black Flag,0
+2009-03,Black Oak Arkansas,0
+2009-03,Carl Perkins,0
+2009-03,Dave Dudley,8
+2009-03,Down,0
+2009-03,George Jones,93
+2009-03,Hank Williams,193
+2009-03,Hank Williams Iii,217
+2009-03,Hank Williams, Jr.,74
+2009-03,Jerry Lee Lewis,30
+2009-03,Johnny Cash,73
+2009-03,Johnny Paycheck,4
+2009-03,Messer Chups,8
+2009-03,Pete Seeger,0
+2009-03,The Clash,0
+2009-03,The Highwaymen,6
+2009-03,Waylon Jennings,12
+2009-03,Willie Nelson,1
+2009-04,Alabama Thunderpussy,1
+2009-04,Bill Monroe,0
+2009-04,Black Flag,0
+2009-04,Black Oak Arkansas,18
+2009-04,Carl Perkins,0
+2009-04,Dave Dudley,15
+2009-04,Down,1
+2009-04,George Jones,2
+2009-04,Hank Williams,15
+2009-04,Hank Williams Iii,17
+2009-04,Hank Williams, Jr.,6
+2009-04,Jerry Lee Lewis,2
+2009-04,Johnny Cash,32
+2009-04,Johnny Paycheck,1
+2009-04,Messer Chups,15
+2009-04,Pete Seeger,0
+2009-04,The Clash,0
+2009-04,The Highwaymen,1
+2009-04,Waylon Jennings,0
+2009-04,Willie Nelson,0
+2009-05,Alabama Thunderpussy,0
+2009-05,Bill Monroe,0
+2009-05,Black Flag,0
+2009-05,Black Oak Arkansas,0
+2009-05,Carl Perkins,0
+2009-05,Dave Dudley,0
+2009-05,Down,0
+2009-05,George Jones,0
+2009-05,Hank Williams,0
+2009-05,Hank Williams Iii,9
+2009-05,Hank Williams, Jr.,0
+2009-05,Jerry Lee Lewis,0
+2009-05,Johnny Cash,168
+2009-05,Johnny Paycheck,10
+2009-05,Messer Chups,0
+2009-05,Pete Seeger,17
+2009-05,The Clash,0
+2009-05,The Highwaymen,0
+2009-05,Waylon Jennings,1
+2009-05,Willie Nelson,0

@@ -1,0 +1,381 @@
+month,artist,plays
+2007-10,Alice In Chains,0
+2007-10,Apparat,0
+2007-10,Arcade Fire,0
+2007-10,Beirut,135
+2007-10,Björk,1
+2007-10,Bloc Party,0
+2007-10,Blonde Redhead,0
+2007-10,Bruce Springsteen,0
+2007-10,Concrete Blonde,0
+2007-10,Dave Gahan,0
+2007-10,Einstürzende Neubauten,0
+2007-10,Feist,8
+2007-10,My Brightest Diamond,0
+2007-10,Nine Inch Nails,0
+2007-10,Patrick Wolf,4
+2007-10,Patti Smith,1106
+2007-10,Pj Harvey,514
+2007-10,Radiohead,176
+2007-10,Riverside,32
+2007-10,The National,52
+2007-11,Alice In Chains,1
+2007-11,Apparat,41
+2007-11,Arcade Fire,21
+2007-11,Beirut,32
+2007-11,Björk,0
+2007-11,Bloc Party,1
+2007-11,Blonde Redhead,10
+2007-11,Bruce Springsteen,10
+2007-11,Concrete Blonde,1
+2007-11,Dave Gahan,192
+2007-11,Einstürzende Neubauten,24
+2007-11,Feist,1
+2007-11,My Brightest Diamond,0
+2007-11,Nine Inch Nails,350
+2007-11,Patrick Wolf,0
+2007-11,Patti Smith,0
+2007-11,Pj Harvey,155
+2007-11,Radiohead,0
+2007-11,Riverside,64
+2007-11,The National,41
+2007-12,Alice In Chains,1
+2007-12,Apparat,104
+2007-12,Arcade Fire,7
+2007-12,Beirut,1
+2007-12,Björk,0
+2007-12,Bloc Party,1
+2007-12,Blonde Redhead,1
+2007-12,Bruce Springsteen,11
+2007-12,Concrete Blonde,119
+2007-12,Dave Gahan,74
+2007-12,Einstürzende Neubauten,0
+2007-12,Feist,14
+2007-12,My Brightest Diamond,5
+2007-12,Nine Inch Nails,96
+2007-12,Patrick Wolf,7
+2007-12,Patti Smith,1
+2007-12,Pj Harvey,339
+2007-12,Radiohead,0
+2007-12,Riverside,0
+2007-12,The National,129
+2008-01,Alice In Chains,0
+2008-01,Apparat,59
+2008-01,Arcade Fire,4
+2008-01,Beirut,27
+2008-01,Björk,1
+2008-01,Bloc Party,9
+2008-01,Blonde Redhead,7
+2008-01,Bruce Springsteen,25
+2008-01,Concrete Blonde,0
+2008-01,Dave Gahan,68
+2008-01,Einstürzende Neubauten,87
+2008-01,Feist,13
+2008-01,My Brightest Diamond,0
+2008-01,Nine Inch Nails,22
+2008-01,Patrick Wolf,7
+2008-01,Patti Smith,0
+2008-01,Pj Harvey,15
+2008-01,Radiohead,6
+2008-01,Riverside,36
+2008-01,The National,3
+2008-02,Alice In Chains,0
+2008-02,Apparat,1
+2008-02,Arcade Fire,0
+2008-02,Beirut,1
+2008-02,Björk,0
+2008-02,Bloc Party,1
+2008-02,Blonde Redhead,3
+2008-02,Bruce Springsteen,1
+2008-02,Concrete Blonde,7
+2008-02,Dave Gahan,129
+2008-02,Einstürzende Neubauten,9
+2008-02,Feist,7
+2008-02,My Brightest Diamond,6
+2008-02,Nine Inch Nails,0
+2008-02,Patrick Wolf,1
+2008-02,Patti Smith,0
+2008-02,Pj Harvey,4
+2008-02,Radiohead,9
+2008-02,Riverside,2
+2008-02,The National,2
+2008-03,Alice In Chains,63
+2008-03,Apparat,91
+2008-03,Arcade Fire,3
+2008-03,Beirut,2
+2008-03,Björk,0
+2008-03,Bloc Party,0
+2008-03,Blonde Redhead,1
+2008-03,Bruce Springsteen,31
+2008-03,Concrete Blonde,0
+2008-03,Dave Gahan,40
+2008-03,Einstürzende Neubauten,4
+2008-03,Feist,1
+2008-03,My Brightest Diamond,13
+2008-03,Nine Inch Nails,39
+2008-03,Patrick Wolf,7
+2008-03,Patti Smith,6
+2008-03,Pj Harvey,46
+2008-03,Radiohead,35
+2008-03,Riverside,131
+2008-03,The National,0
+2008-04,Alice In Chains,0
+2008-04,Apparat,75
+2008-04,Arcade Fire,2
+2008-04,Beirut,0
+2008-04,Björk,55
+2008-04,Bloc Party,1
+2008-04,Blonde Redhead,0
+2008-04,Bruce Springsteen,6
+2008-04,Concrete Blonde,0
+2008-04,Dave Gahan,1
+2008-04,Einstürzende Neubauten,0
+2008-04,Feist,1
+2008-04,My Brightest Diamond,0
+2008-04,Nine Inch Nails,19
+2008-04,Patrick Wolf,3
+2008-04,Patti Smith,2
+2008-04,Pj Harvey,13
+2008-04,Radiohead,5
+2008-04,Riverside,1
+2008-04,The National,0
+2008-05,Alice In Chains,0
+2008-05,Apparat,64
+2008-05,Arcade Fire,0
+2008-05,Beirut,0
+2008-05,Björk,0
+2008-05,Bloc Party,0
+2008-05,Blonde Redhead,0
+2008-05,Bruce Springsteen,0
+2008-05,Concrete Blonde,120
+2008-05,Dave Gahan,0
+2008-05,Einstürzende Neubauten,0
+2008-05,Feist,0
+2008-05,My Brightest Diamond,0
+2008-05,Nine Inch Nails,124
+2008-05,Patrick Wolf,0
+2008-05,Patti Smith,0
+2008-05,Pj Harvey,110
+2008-05,Radiohead,0
+2008-05,Riverside,204
+2008-05,The National,4
+2008-06,Alice In Chains,5
+2008-06,Apparat,20
+2008-06,Arcade Fire,0
+2008-06,Beirut,13
+2008-06,Björk,0
+2008-06,Bloc Party,1
+2008-06,Blonde Redhead,0
+2008-06,Bruce Springsteen,75
+2008-06,Concrete Blonde,22
+2008-06,Dave Gahan,33
+2008-06,Einstürzende Neubauten,294
+2008-06,Feist,0
+2008-06,My Brightest Diamond,155
+2008-06,Nine Inch Nails,0
+2008-06,Patrick Wolf,0
+2008-06,Patti Smith,0
+2008-06,Pj Harvey,0
+2008-06,Radiohead,0
+2008-06,Riverside,0
+2008-06,The National,19
+2008-07,Alice In Chains,0
+2008-07,Apparat,0
+2008-07,Arcade Fire,0
+2008-07,Beirut,0
+2008-07,Björk,0
+2008-07,Bloc Party,0
+2008-07,Blonde Redhead,0
+2008-07,Bruce Springsteen,0
+2008-07,Concrete Blonde,0
+2008-07,Dave Gahan,0
+2008-07,Einstürzende Neubauten,37
+2008-07,Feist,0
+2008-07,My Brightest Diamond,22
+2008-07,Nine Inch Nails,0
+2008-07,Patrick Wolf,0
+2008-07,Patti Smith,0
+2008-07,Pj Harvey,0
+2008-07,Radiohead,0
+2008-07,Riverside,0
+2008-07,The National,0
+2008-08,Alice In Chains,11
+2008-08,Apparat,1
+2008-08,Arcade Fire,0
+2008-08,Beirut,0
+2008-08,Björk,0
+2008-08,Bloc Party,0
+2008-08,Blonde Redhead,0
+2008-08,Bruce Springsteen,0
+2008-08,Concrete Blonde,0
+2008-08,Dave Gahan,9
+2008-08,Einstürzende Neubauten,0
+2008-08,Feist,0
+2008-08,My Brightest Diamond,0
+2008-08,Nine Inch Nails,62
+2008-08,Patrick Wolf,0
+2008-08,Patti Smith,13
+2008-08,Pj Harvey,121
+2008-08,Radiohead,0
+2008-08,Riverside,0
+2008-08,The National,0
+2008-09,Alice In Chains,11
+2008-09,Apparat,182
+2008-09,Arcade Fire,0
+2008-09,Beirut,0
+2008-09,Björk,5
+2008-09,Bloc Party,0
+2008-09,Blonde Redhead,23
+2008-09,Bruce Springsteen,26
+2008-09,Concrete Blonde,85
+2008-09,Dave Gahan,0
+2008-09,Einstürzende Neubauten,0
+2008-09,Feist,16
+2008-09,My Brightest Diamond,205
+2008-09,Nine Inch Nails,0
+2008-09,Patrick Wolf,0
+2008-09,Patti Smith,0
+2008-09,Pj Harvey,8
+2008-09,Radiohead,0
+2008-09,Riverside,133
+2008-09,The National,1
+2008-10,Alice In Chains,0
+2008-10,Apparat,8
+2008-10,Arcade Fire,5
+2008-10,Beirut,4
+2008-10,Björk,1
+2008-10,Bloc Party,6
+2008-10,Blonde Redhead,4
+2008-10,Bruce Springsteen,5
+2008-10,Concrete Blonde,1
+2008-10,Dave Gahan,146
+2008-10,Einstürzende Neubauten,3
+2008-10,Feist,9
+2008-10,My Brightest Diamond,181
+2008-10,Nine Inch Nails,62
+2008-10,Patrick Wolf,5
+2008-10,Patti Smith,49
+2008-10,Pj Harvey,132
+2008-10,Radiohead,17
+2008-10,Riverside,3
+2008-10,The National,7
+2008-11,Alice In Chains,11
+2008-11,Apparat,51
+2008-11,Arcade Fire,1
+2008-11,Beirut,1
+2008-11,Björk,2
+2008-11,Bloc Party,0
+2008-11,Blonde Redhead,0
+2008-11,Bruce Springsteen,0
+2008-11,Concrete Blonde,2
+2008-11,Dave Gahan,18
+2008-11,Einstürzende Neubauten,0
+2008-11,Feist,0
+2008-11,My Brightest Diamond,728
+2008-11,Nine Inch Nails,58
+2008-11,Patrick Wolf,1
+2008-11,Patti Smith,5
+2008-11,Pj Harvey,284
+2008-11,Radiohead,1
+2008-11,Riverside,1
+2008-11,The National,0
+2008-12,Alice In Chains,0
+2008-12,Apparat,27
+2008-12,Arcade Fire,1
+2008-12,Beirut,0
+2008-12,Björk,141
+2008-12,Bloc Party,1
+2008-12,Blonde Redhead,3
+2008-12,Bruce Springsteen,2
+2008-12,Concrete Blonde,0
+2008-12,Dave Gahan,0
+2008-12,Einstürzende Neubauten,44
+2008-12,Feist,0
+2008-12,My Brightest Diamond,48
+2008-12,Nine Inch Nails,51
+2008-12,Patrick Wolf,2
+2008-12,Patti Smith,2
+2008-12,Pj Harvey,1
+2008-12,Radiohead,219
+2008-12,Riverside,2
+2008-12,The National,3
+2009-01,Alice In Chains,0
+2009-01,Apparat,0
+2009-01,Arcade Fire,0
+2009-01,Beirut,0
+2009-01,Björk,12
+2009-01,Bloc Party,0
+2009-01,Blonde Redhead,0
+2009-01,Bruce Springsteen,0
+2009-01,Concrete Blonde,0
+2009-01,Dave Gahan,15
+2009-01,Einstürzende Neubauten,0
+2009-01,Feist,0
+2009-01,My Brightest Diamond,58
+2009-01,Nine Inch Nails,41
+2009-01,Patrick Wolf,0
+2009-01,Patti Smith,0
+2009-01,Pj Harvey,0
+2009-01,Radiohead,24
+2009-01,Riverside,0
+2009-01,The National,0
+2009-02,Alice In Chains,90
+2009-02,Apparat,104
+2009-02,Arcade Fire,4
+2009-02,Beirut,5
+2009-02,Björk,4
+2009-02,Bloc Party,2
+2009-02,Blonde Redhead,1
+2009-02,Bruce Springsteen,1
+2009-02,Concrete Blonde,13
+2009-02,Dave Gahan,21
+2009-02,Einstürzende Neubauten,33
+2009-02,Feist,2
+2009-02,My Brightest Diamond,36
+2009-02,Nine Inch Nails,9
+2009-02,Patrick Wolf,37
+2009-02,Patti Smith,5
+2009-02,Pj Harvey,33
+2009-02,Radiohead,24
+2009-02,Riverside,15
+2009-02,The National,115
+2009-03,Alice In Chains,9
+2009-03,Apparat,9
+2009-03,Arcade Fire,1
+2009-03,Beirut,3
+2009-03,Björk,2
+2009-03,Bloc Party,27
+2009-03,Blonde Redhead,1
+2009-03,Bruce Springsteen,0
+2009-03,Concrete Blonde,1
+2009-03,Dave Gahan,2
+2009-03,Einstürzende Neubauten,1
+2009-03,Feist,39
+2009-03,My Brightest Diamond,138
+2009-03,Nine Inch Nails,86
+2009-03,Patrick Wolf,1
+2009-03,Patti Smith,1
+2009-03,Pj Harvey,1
+2009-03,Radiohead,117
+2009-03,Riverside,0
+2009-03,The National,2
+2009-04,Alice In Chains,9
+2009-04,Apparat,2
+2009-04,Arcade Fire,0
+2009-04,Beirut,0
+2009-04,Björk,4
+2009-04,Bloc Party,1
+2009-04,Blonde Redhead,0
+2009-04,Bruce Springsteen,0
+2009-04,Concrete Blonde,4
+2009-04,Dave Gahan,3
+2009-04,Einstürzende Neubauten,3
+2009-04,Feist,6
+2009-04,My Brightest Diamond,62
+2009-04,Nine Inch Nails,6
+2009-04,Patrick Wolf,7
+2009-04,Patti Smith,3
+2009-04,Pj Harvey,3
+2009-04,Radiohead,1
+2009-04,Riverside,0
+2009-04,The National,3

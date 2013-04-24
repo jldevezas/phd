@@ -1,0 +1,181 @@
+month,artist,plays
+2008-09,Anton Maiden,0
+2008-09,Coheed And Cambria,0
+2008-09,Creed,0
+2008-09,Creedence Clearwater Revisited,31
+2008-09,Creedence Clearwater Revival,14
+2008-09,Dark Angel,0
+2008-09,Dream Theater,0
+2008-09,Exciter,0
+2008-09,Exodus,0
+2008-09,Flotsam And Jetsam,0
+2008-09,Foo Fighters,0
+2008-09,Green Day,0
+2008-09,Guns N' Roses,0
+2008-09,Heathen,18
+2008-09,Iron Maiden,0
+2008-09,Judas Priest,0
+2008-09,Metallica,19
+2008-09,Muse,0
+2008-09,Pink Floyd,0
+2008-09,Sacred Reich,0
+2008-10,Anton Maiden,14
+2008-10,Coheed And Cambria,1
+2008-10,Creed,1
+2008-10,Creedence Clearwater Revisited,65
+2008-10,Creedence Clearwater Revival,31
+2008-10,Dark Angel,1
+2008-10,Dream Theater,8
+2008-10,Exciter,17
+2008-10,Exodus,41
+2008-10,Flotsam And Jetsam,17
+2008-10,Foo Fighters,2
+2008-10,Green Day,12
+2008-10,Guns N' Roses,7
+2008-10,Heathen,3
+2008-10,Iron Maiden,22
+2008-10,Judas Priest,20
+2008-10,Metallica,143
+2008-10,Muse,1
+2008-10,Pink Floyd,68
+2008-10,Sacred Reich,5
+2008-11,Anton Maiden,38
+2008-11,Coheed And Cambria,4
+2008-11,Creed,1
+2008-11,Creedence Clearwater Revisited,20
+2008-11,Creedence Clearwater Revival,11
+2008-11,Dark Angel,61
+2008-11,Dream Theater,2
+2008-11,Exciter,4
+2008-11,Exodus,32
+2008-11,Flotsam And Jetsam,10
+2008-11,Foo Fighters,0
+2008-11,Green Day,6
+2008-11,Guns N' Roses,3
+2008-11,Heathen,23
+2008-11,Iron Maiden,63
+2008-11,Judas Priest,40
+2008-11,Metallica,59
+2008-11,Muse,46
+2008-11,Pink Floyd,73
+2008-11,Sacred Reich,3
+2008-12,Anton Maiden,5
+2008-12,Coheed And Cambria,10
+2008-12,Creed,7
+2008-12,Creedence Clearwater Revisited,15
+2008-12,Creedence Clearwater Revival,9
+2008-12,Dark Angel,10
+2008-12,Dream Theater,8
+2008-12,Exciter,1
+2008-12,Exodus,2
+2008-12,Flotsam And Jetsam,0
+2008-12,Foo Fighters,3
+2008-12,Green Day,1
+2008-12,Guns N' Roses,2
+2008-12,Heathen,18
+2008-12,Iron Maiden,12
+2008-12,Judas Priest,1
+2008-12,Metallica,34
+2008-12,Muse,0
+2008-12,Pink Floyd,123
+2008-12,Sacred Reich,1
+2009-01,Anton Maiden,0
+2009-01,Coheed And Cambria,0
+2009-01,Creed,0
+2009-01,Creedence Clearwater Revisited,12
+2009-01,Creedence Clearwater Revival,9
+2009-01,Dark Angel,7
+2009-01,Dream Theater,0
+2009-01,Exciter,1
+2009-01,Exodus,1
+2009-01,Flotsam And Jetsam,1
+2009-01,Foo Fighters,0
+2009-01,Green Day,0
+2009-01,Guns N' Roses,11
+2009-01,Heathen,31
+2009-01,Iron Maiden,2
+2009-01,Judas Priest,11
+2009-01,Metallica,92
+2009-01,Muse,29
+2009-01,Pink Floyd,29
+2009-01,Sacred Reich,1
+2009-02,Anton Maiden,18
+2009-02,Coheed And Cambria,2
+2009-02,Creed,1
+2009-02,Creedence Clearwater Revisited,14
+2009-02,Creedence Clearwater Revival,6
+2009-02,Dark Angel,4
+2009-02,Dream Theater,2
+2009-02,Exciter,2
+2009-02,Exodus,3
+2009-02,Flotsam And Jetsam,6
+2009-02,Foo Fighters,1
+2009-02,Green Day,3
+2009-02,Guns N' Roses,7
+2009-02,Heathen,7
+2009-02,Iron Maiden,19
+2009-02,Judas Priest,38
+2009-02,Metallica,106
+2009-02,Muse,17
+2009-02,Pink Floyd,25
+2009-02,Sacred Reich,28
+2009-03,Anton Maiden,4
+2009-03,Coheed And Cambria,1
+2009-03,Creed,0
+2009-03,Creedence Clearwater Revisited,0
+2009-03,Creedence Clearwater Revival,0
+2009-03,Dark Angel,0
+2009-03,Dream Theater,8
+2009-03,Exciter,1
+2009-03,Exodus,2
+2009-03,Flotsam And Jetsam,2
+2009-03,Foo Fighters,7
+2009-03,Green Day,3
+2009-03,Guns N' Roses,10
+2009-03,Heathen,0
+2009-03,Iron Maiden,10
+2009-03,Judas Priest,44
+2009-03,Metallica,111
+2009-03,Muse,4
+2009-03,Pink Floyd,25
+2009-03,Sacred Reich,2
+2009-04,Anton Maiden,7
+2009-04,Coheed And Cambria,2
+2009-04,Creed,2
+2009-04,Creedence Clearwater Revisited,0
+2009-04,Creedence Clearwater Revival,0
+2009-04,Dark Angel,3
+2009-04,Dream Theater,4
+2009-04,Exciter,4
+2009-04,Exodus,2
+2009-04,Flotsam And Jetsam,3
+2009-04,Foo Fighters,6
+2009-04,Green Day,2
+2009-04,Guns N' Roses,25
+2009-04,Heathen,5
+2009-04,Iron Maiden,11
+2009-04,Judas Priest,45
+2009-04,Metallica,58
+2009-04,Muse,2
+2009-04,Pink Floyd,1
+2009-04,Sacred Reich,3
+2009-05,Anton Maiden,2
+2009-05,Coheed And Cambria,0
+2009-05,Creed,6
+2009-05,Creedence Clearwater Revisited,15
+2009-05,Creedence Clearwater Revival,7
+2009-05,Dark Angel,5
+2009-05,Dream Theater,0
+2009-05,Exciter,0
+2009-05,Exodus,0
+2009-05,Flotsam And Jetsam,0
+2009-05,Foo Fighters,4
+2009-05,Green Day,0
+2009-05,Guns N' Roses,0
+2009-05,Heathen,10
+2009-05,Iron Maiden,0
+2009-05,Judas Priest,12
+2009-05,Metallica,0
+2009-05,Muse,2
+2009-05,Pink Floyd,0
+2009-05,Sacred Reich,0

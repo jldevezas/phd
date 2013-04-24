@@ -1,0 +1,881 @@
+month,artist,plays
+2005-07,Air,0
+2005-07,Arcade Fire,1
+2005-07,Beck,0
+2005-07,Belle And Sebastian,0
+2005-07,Bright Eyes,0
+2005-07,Broken Social Scene,0
+2005-07,Death Cab For Cutie,0
+2005-07,Elliott Smith,0
+2005-07,Interpol,0
+2005-07,Iron & Wine,0
+2005-07,Lcd Soundsystem,0
+2005-07,Massive Attack,0
+2005-07,Neutral Milk Hotel,0
+2005-07,Radiohead,1
+2005-07,Spoon,0
+2005-07,The Decemberists,0
+2005-07,The Flaming Lips,0
+2005-07,The Shins,0
+2005-07,Wilco,0
+2005-07,Yo La Tengo,0
+2005-08,Air,6
+2005-08,Arcade Fire,21
+2005-08,Beck,14
+2005-08,Belle And Sebastian,17
+2005-08,Bright Eyes,10
+2005-08,Broken Social Scene,4
+2005-08,Death Cab For Cutie,11
+2005-08,Elliott Smith,13
+2005-08,Interpol,6
+2005-08,Iron & Wine,6
+2005-08,Lcd Soundsystem,1
+2005-08,Massive Attack,3
+2005-08,Neutral Milk Hotel,24
+2005-08,Radiohead,24
+2005-08,Spoon,12
+2005-08,The Decemberists,24
+2005-08,The Flaming Lips,28
+2005-08,The Shins,24
+2005-08,Wilco,21
+2005-08,Yo La Tengo,13
+2005-09,Air,1
+2005-09,Arcade Fire,1
+2005-09,Beck,1
+2005-09,Belle And Sebastian,1
+2005-09,Bright Eyes,1
+2005-09,Broken Social Scene,1
+2005-09,Death Cab For Cutie,0
+2005-09,Elliott Smith,1
+2005-09,Interpol,2
+2005-09,Iron & Wine,1
+2005-09,Lcd Soundsystem,1
+2005-09,Massive Attack,1
+2005-09,Neutral Milk Hotel,1
+2005-09,Radiohead,1
+2005-09,Spoon,1
+2005-09,The Decemberists,1
+2005-09,The Flaming Lips,1
+2005-09,The Shins,1
+2005-09,Wilco,1
+2005-09,Yo La Tengo,1
+2005-10,Air,0
+2005-10,Arcade Fire,0
+2005-10,Beck,0
+2005-10,Belle And Sebastian,0
+2005-10,Bright Eyes,0
+2005-10,Broken Social Scene,0
+2005-10,Death Cab For Cutie,0
+2005-10,Elliott Smith,0
+2005-10,Interpol,0
+2005-10,Iron & Wine,0
+2005-10,Lcd Soundsystem,0
+2005-10,Massive Attack,0
+2005-10,Neutral Milk Hotel,0
+2005-10,Radiohead,0
+2005-10,Spoon,0
+2005-10,The Decemberists,0
+2005-10,The Flaming Lips,0
+2005-10,The Shins,0
+2005-10,Wilco,0
+2005-10,Yo La Tengo,0
+2005-11,Air,0
+2005-11,Arcade Fire,0
+2005-11,Beck,0
+2005-11,Belle And Sebastian,0
+2005-11,Bright Eyes,0
+2005-11,Broken Social Scene,0
+2005-11,Death Cab For Cutie,0
+2005-11,Elliott Smith,0
+2005-11,Interpol,0
+2005-11,Iron & Wine,0
+2005-11,Lcd Soundsystem,0
+2005-11,Massive Attack,0
+2005-11,Neutral Milk Hotel,0
+2005-11,Radiohead,0
+2005-11,Spoon,0
+2005-11,The Decemberists,0
+2005-11,The Flaming Lips,0
+2005-11,The Shins,0
+2005-11,Wilco,0
+2005-11,Yo La Tengo,0
+2005-12,Air,0
+2005-12,Arcade Fire,14
+2005-12,Beck,14
+2005-12,Belle And Sebastian,14
+2005-12,Bright Eyes,13
+2005-12,Broken Social Scene,0
+2005-12,Death Cab For Cutie,0
+2005-12,Elliott Smith,14
+2005-12,Interpol,0
+2005-12,Iron & Wine,14
+2005-12,Lcd Soundsystem,0
+2005-12,Massive Attack,0
+2005-12,Neutral Milk Hotel,13
+2005-12,Radiohead,14
+2005-12,Spoon,0
+2005-12,The Decemberists,14
+2005-12,The Flaming Lips,14
+2005-12,The Shins,14
+2005-12,Wilco,14
+2005-12,Yo La Tengo,0
+2006-01,Air,5
+2006-01,Arcade Fire,75
+2006-01,Beck,54
+2006-01,Belle And Sebastian,79
+2006-01,Bright Eyes,43
+2006-01,Broken Social Scene,42
+2006-01,Death Cab For Cutie,2
+2006-01,Elliott Smith,78
+2006-01,Interpol,3
+2006-01,Iron & Wine,77
+2006-01,Lcd Soundsystem,5
+2006-01,Massive Attack,5
+2006-01,Neutral Milk Hotel,75
+2006-01,Radiohead,78
+2006-01,Spoon,6
+2006-01,The Decemberists,75
+2006-01,The Flaming Lips,79
+2006-01,The Shins,78
+2006-01,Wilco,78
+2006-01,Yo La Tengo,20
+2006-02,Air,1
+2006-02,Arcade Fire,0
+2006-02,Beck,3
+2006-02,Belle And Sebastian,11
+2006-02,Bright Eyes,2
+2006-02,Broken Social Scene,0
+2006-02,Death Cab For Cutie,1
+2006-02,Elliott Smith,2
+2006-02,Interpol,1
+2006-02,Iron & Wine,1
+2006-02,Lcd Soundsystem,2
+2006-02,Massive Attack,1
+2006-02,Neutral Milk Hotel,1
+2006-02,Radiohead,1
+2006-02,Spoon,1
+2006-02,The Decemberists,1
+2006-02,The Flaming Lips,1
+2006-02,The Shins,1
+2006-02,Wilco,2
+2006-02,Yo La Tengo,1
+2006-03,Air,0
+2006-03,Arcade Fire,0
+2006-03,Beck,0
+2006-03,Belle And Sebastian,0
+2006-03,Bright Eyes,0
+2006-03,Broken Social Scene,0
+2006-03,Death Cab For Cutie,0
+2006-03,Elliott Smith,0
+2006-03,Interpol,0
+2006-03,Iron & Wine,0
+2006-03,Lcd Soundsystem,0
+2006-03,Massive Attack,0
+2006-03,Neutral Milk Hotel,0
+2006-03,Radiohead,0
+2006-03,Spoon,0
+2006-03,The Decemberists,0
+2006-03,The Flaming Lips,0
+2006-03,The Shins,0
+2006-03,Wilco,0
+2006-03,Yo La Tengo,0
+2006-04,Air,95
+2006-04,Arcade Fire,56
+2006-04,Beck,0
+2006-04,Belle And Sebastian,0
+2006-04,Bright Eyes,1
+2006-04,Broken Social Scene,23
+2006-04,Death Cab For Cutie,24
+2006-04,Elliott Smith,0
+2006-04,Interpol,0
+2006-04,Iron & Wine,1
+2006-04,Lcd Soundsystem,0
+2006-04,Massive Attack,47
+2006-04,Neutral Milk Hotel,34
+2006-04,Radiohead,0
+2006-04,Spoon,23
+2006-04,The Decemberists,34
+2006-04,The Flaming Lips,1
+2006-04,The Shins,22
+2006-04,Wilco,0
+2006-04,Yo La Tengo,1
+2006-05,Air,0
+2006-05,Arcade Fire,0
+2006-05,Beck,0
+2006-05,Belle And Sebastian,0
+2006-05,Bright Eyes,0
+2006-05,Broken Social Scene,0
+2006-05,Death Cab For Cutie,0
+2006-05,Elliott Smith,0
+2006-05,Interpol,0
+2006-05,Iron & Wine,0
+2006-05,Lcd Soundsystem,0
+2006-05,Massive Attack,0
+2006-05,Neutral Milk Hotel,0
+2006-05,Radiohead,0
+2006-05,Spoon,0
+2006-05,The Decemberists,0
+2006-05,The Flaming Lips,0
+2006-05,The Shins,0
+2006-05,Wilco,0
+2006-05,Yo La Tengo,0
+2006-06,Air,0
+2006-06,Arcade Fire,0
+2006-06,Beck,0
+2006-06,Belle And Sebastian,0
+2006-06,Bright Eyes,0
+2006-06,Broken Social Scene,0
+2006-06,Death Cab For Cutie,0
+2006-06,Elliott Smith,0
+2006-06,Interpol,0
+2006-06,Iron & Wine,0
+2006-06,Lcd Soundsystem,0
+2006-06,Massive Attack,0
+2006-06,Neutral Milk Hotel,0
+2006-06,Radiohead,0
+2006-06,Spoon,0
+2006-06,The Decemberists,0
+2006-06,The Flaming Lips,0
+2006-06,The Shins,0
+2006-06,Wilco,0
+2006-06,Yo La Tengo,0
+2006-07,Air,13
+2006-07,Arcade Fire,66
+2006-07,Beck,26
+2006-07,Belle And Sebastian,29
+2006-07,Bright Eyes,21
+2006-07,Broken Social Scene,30
+2006-07,Death Cab For Cutie,19
+2006-07,Elliott Smith,11
+2006-07,Interpol,42
+2006-07,Iron & Wine,12
+2006-07,Lcd Soundsystem,60
+2006-07,Massive Attack,7
+2006-07,Neutral Milk Hotel,16
+2006-07,Radiohead,34
+2006-07,Spoon,22
+2006-07,The Decemberists,21
+2006-07,The Flaming Lips,11
+2006-07,The Shins,8
+2006-07,Wilco,18
+2006-07,Yo La Tengo,18
+2006-08,Air,22
+2006-08,Arcade Fire,23
+2006-08,Beck,48
+2006-08,Belle And Sebastian,40
+2006-08,Bright Eyes,28
+2006-08,Broken Social Scene,34
+2006-08,Death Cab For Cutie,29
+2006-08,Elliott Smith,17
+2006-08,Interpol,26
+2006-08,Iron & Wine,18
+2006-08,Lcd Soundsystem,3
+2006-08,Massive Attack,12
+2006-08,Neutral Milk Hotel,28
+2006-08,Radiohead,51
+2006-08,Spoon,20
+2006-08,The Decemberists,32
+2006-08,The Flaming Lips,24
+2006-08,The Shins,25
+2006-08,Wilco,30
+2006-08,Yo La Tengo,27
+2006-09,Air,19
+2006-09,Arcade Fire,24
+2006-09,Beck,39
+2006-09,Belle And Sebastian,40
+2006-09,Bright Eyes,29
+2006-09,Broken Social Scene,37
+2006-09,Death Cab For Cutie,36
+2006-09,Elliott Smith,28
+2006-09,Interpol,27
+2006-09,Iron & Wine,26
+2006-09,Lcd Soundsystem,5
+2006-09,Massive Attack,13
+2006-09,Neutral Milk Hotel,35
+2006-09,Radiohead,50
+2006-09,Spoon,21
+2006-09,The Decemberists,30
+2006-09,The Flaming Lips,28
+2006-09,The Shins,29
+2006-09,Wilco,26
+2006-09,Yo La Tengo,27
+2006-10,Air,35
+2006-10,Arcade Fire,32
+2006-10,Beck,51
+2006-10,Belle And Sebastian,53
+2006-10,Bright Eyes,47
+2006-10,Broken Social Scene,49
+2006-10,Death Cab For Cutie,42
+2006-10,Elliott Smith,35
+2006-10,Interpol,38
+2006-10,Iron & Wine,37
+2006-10,Lcd Soundsystem,16
+2006-10,Massive Attack,9
+2006-10,Neutral Milk Hotel,33
+2006-10,Radiohead,49
+2006-10,Spoon,36
+2006-10,The Decemberists,44
+2006-10,The Flaming Lips,40
+2006-10,The Shins,33
+2006-10,Wilco,42
+2006-10,Yo La Tengo,43
+2006-11,Air,19
+2006-11,Arcade Fire,15
+2006-11,Beck,28
+2006-11,Belle And Sebastian,22
+2006-11,Bright Eyes,14
+2006-11,Broken Social Scene,19
+2006-11,Death Cab For Cutie,22
+2006-11,Elliott Smith,26
+2006-11,Interpol,17
+2006-11,Iron & Wine,10
+2006-11,Lcd Soundsystem,7
+2006-11,Massive Attack,14
+2006-11,Neutral Milk Hotel,13
+2006-11,Radiohead,24
+2006-11,Spoon,15
+2006-11,The Decemberists,13
+2006-11,The Flaming Lips,16
+2006-11,The Shins,21
+2006-11,Wilco,14
+2006-11,Yo La Tengo,13
+2006-12,Air,23
+2006-12,Arcade Fire,8
+2006-12,Beck,12
+2006-12,Belle And Sebastian,8
+2006-12,Bright Eyes,5
+2006-12,Broken Social Scene,19
+2006-12,Death Cab For Cutie,6
+2006-12,Elliott Smith,12
+2006-12,Interpol,8
+2006-12,Iron & Wine,9
+2006-12,Lcd Soundsystem,4
+2006-12,Massive Attack,12
+2006-12,Neutral Milk Hotel,8
+2006-12,Radiohead,15
+2006-12,Spoon,10
+2006-12,The Decemberists,10
+2006-12,The Flaming Lips,9
+2006-12,The Shins,13
+2006-12,Wilco,10
+2006-12,Yo La Tengo,7
+2007-01,Air,4
+2007-01,Arcade Fire,4
+2007-01,Beck,3
+2007-01,Belle And Sebastian,2
+2007-01,Bright Eyes,1
+2007-01,Broken Social Scene,3
+2007-01,Death Cab For Cutie,2
+2007-01,Elliott Smith,3
+2007-01,Interpol,5
+2007-01,Iron & Wine,6
+2007-01,Lcd Soundsystem,2
+2007-01,Massive Attack,2
+2007-01,Neutral Milk Hotel,6
+2007-01,Radiohead,7
+2007-01,Spoon,2
+2007-01,The Decemberists,4
+2007-01,The Flaming Lips,6
+2007-01,The Shins,4
+2007-01,Wilco,8
+2007-01,Yo La Tengo,3
+2007-02,Air,3
+2007-02,Arcade Fire,3
+2007-02,Beck,3
+2007-02,Belle And Sebastian,3
+2007-02,Bright Eyes,3
+2007-02,Broken Social Scene,1
+2007-02,Death Cab For Cutie,2
+2007-02,Elliott Smith,3
+2007-02,Interpol,4
+2007-02,Iron & Wine,2
+2007-02,Lcd Soundsystem,2
+2007-02,Massive Attack,1
+2007-02,Neutral Milk Hotel,2
+2007-02,Radiohead,3
+2007-02,Spoon,3
+2007-02,The Decemberists,2
+2007-02,The Flaming Lips,4
+2007-02,The Shins,2
+2007-02,Wilco,1
+2007-02,Yo La Tengo,1
+2007-03,Air,6
+2007-03,Arcade Fire,9
+2007-03,Beck,10
+2007-03,Belle And Sebastian,8
+2007-03,Bright Eyes,5
+2007-03,Broken Social Scene,7
+2007-03,Death Cab For Cutie,6
+2007-03,Elliott Smith,2
+2007-03,Interpol,9
+2007-03,Iron & Wine,6
+2007-03,Lcd Soundsystem,7
+2007-03,Massive Attack,10
+2007-03,Neutral Milk Hotel,9
+2007-03,Radiohead,10
+2007-03,Spoon,0
+2007-03,The Decemberists,7
+2007-03,The Flaming Lips,7
+2007-03,The Shins,8
+2007-03,Wilco,3
+2007-03,Yo La Tengo,5
+2007-04,Air,14
+2007-04,Arcade Fire,10
+2007-04,Beck,8
+2007-04,Belle And Sebastian,12
+2007-04,Bright Eyes,8
+2007-04,Broken Social Scene,11
+2007-04,Death Cab For Cutie,6
+2007-04,Elliott Smith,3
+2007-04,Interpol,10
+2007-04,Iron & Wine,6
+2007-04,Lcd Soundsystem,6
+2007-04,Massive Attack,10
+2007-04,Neutral Milk Hotel,6
+2007-04,Radiohead,16
+2007-04,Spoon,1
+2007-04,The Decemberists,14
+2007-04,The Flaming Lips,9
+2007-04,The Shins,17
+2007-04,Wilco,3
+2007-04,Yo La Tengo,8
+2007-05,Air,1
+2007-05,Arcade Fire,7
+2007-05,Beck,3
+2007-05,Belle And Sebastian,4
+2007-05,Bright Eyes,4
+2007-05,Broken Social Scene,4
+2007-05,Death Cab For Cutie,2
+2007-05,Elliott Smith,1
+2007-05,Interpol,4
+2007-05,Iron & Wine,6
+2007-05,Lcd Soundsystem,1
+2007-05,Massive Attack,3
+2007-05,Neutral Milk Hotel,4
+2007-05,Radiohead,7
+2007-05,Spoon,4
+2007-05,The Decemberists,6
+2007-05,The Flaming Lips,3
+2007-05,The Shins,18
+2007-05,Wilco,1
+2007-05,Yo La Tengo,7
+2007-06,Air,0
+2007-06,Arcade Fire,2
+2007-06,Beck,2
+2007-06,Belle And Sebastian,3
+2007-06,Bright Eyes,1
+2007-06,Broken Social Scene,0
+2007-06,Death Cab For Cutie,1
+2007-06,Elliott Smith,1
+2007-06,Interpol,2
+2007-06,Iron & Wine,1
+2007-06,Lcd Soundsystem,1
+2007-06,Massive Attack,0
+2007-06,Neutral Milk Hotel,3
+2007-06,Radiohead,2
+2007-06,Spoon,1
+2007-06,The Decemberists,1
+2007-06,The Flaming Lips,2
+2007-06,The Shins,1
+2007-06,Wilco,2
+2007-06,Yo La Tengo,1
+2007-07,Air,0
+2007-07,Arcade Fire,0
+2007-07,Beck,0
+2007-07,Belle And Sebastian,0
+2007-07,Bright Eyes,0
+2007-07,Broken Social Scene,0
+2007-07,Death Cab For Cutie,0
+2007-07,Elliott Smith,0
+2007-07,Interpol,0
+2007-07,Iron & Wine,0
+2007-07,Lcd Soundsystem,0
+2007-07,Massive Attack,0
+2007-07,Neutral Milk Hotel,1
+2007-07,Radiohead,0
+2007-07,Spoon,0
+2007-07,The Decemberists,0
+2007-07,The Flaming Lips,0
+2007-07,The Shins,0
+2007-07,Wilco,0
+2007-07,Yo La Tengo,0
+2007-08,Air,0
+2007-08,Arcade Fire,0
+2007-08,Beck,0
+2007-08,Belle And Sebastian,0
+2007-08,Bright Eyes,0
+2007-08,Broken Social Scene,0
+2007-08,Death Cab For Cutie,0
+2007-08,Elliott Smith,0
+2007-08,Interpol,0
+2007-08,Iron & Wine,0
+2007-08,Lcd Soundsystem,0
+2007-08,Massive Attack,0
+2007-08,Neutral Milk Hotel,0
+2007-08,Radiohead,0
+2007-08,Spoon,0
+2007-08,The Decemberists,0
+2007-08,The Flaming Lips,0
+2007-08,The Shins,0
+2007-08,Wilco,0
+2007-08,Yo La Tengo,0
+2007-09,Air,3
+2007-09,Arcade Fire,22
+2007-09,Beck,4
+2007-09,Belle And Sebastian,11
+2007-09,Bright Eyes,6
+2007-09,Broken Social Scene,5
+2007-09,Death Cab For Cutie,4
+2007-09,Elliott Smith,5
+2007-09,Interpol,16
+2007-09,Iron & Wine,1
+2007-09,Lcd Soundsystem,16
+2007-09,Massive Attack,3
+2007-09,Neutral Milk Hotel,6
+2007-09,Radiohead,4
+2007-09,Spoon,10
+2007-09,The Decemberists,19
+2007-09,The Flaming Lips,4
+2007-09,The Shins,18
+2007-09,Wilco,5
+2007-09,Yo La Tengo,10
+2007-10,Air,8
+2007-10,Arcade Fire,9
+2007-10,Beck,5
+2007-10,Belle And Sebastian,6
+2007-10,Bright Eyes,3
+2007-10,Broken Social Scene,3
+2007-10,Death Cab For Cutie,3
+2007-10,Elliott Smith,2
+2007-10,Interpol,3
+2007-10,Iron & Wine,3
+2007-10,Lcd Soundsystem,1
+2007-10,Massive Attack,8
+2007-10,Neutral Milk Hotel,10
+2007-10,Radiohead,4
+2007-10,Spoon,4
+2007-10,The Decemberists,9
+2007-10,The Flaming Lips,4
+2007-10,The Shins,5
+2007-10,Wilco,3
+2007-10,Yo La Tengo,8
+2007-11,Air,1
+2007-11,Arcade Fire,3
+2007-11,Beck,1
+2007-11,Belle And Sebastian,1
+2007-11,Bright Eyes,2
+2007-11,Broken Social Scene,2
+2007-11,Death Cab For Cutie,1
+2007-11,Elliott Smith,2
+2007-11,Interpol,4
+2007-11,Iron & Wine,1
+2007-11,Lcd Soundsystem,1
+2007-11,Massive Attack,2
+2007-11,Neutral Milk Hotel,3
+2007-11,Radiohead,0
+2007-11,Spoon,3
+2007-11,The Decemberists,3
+2007-11,The Flaming Lips,1
+2007-11,The Shins,3
+2007-11,Wilco,3
+2007-11,Yo La Tengo,3
+2007-12,Air,0
+2007-12,Arcade Fire,2
+2007-12,Beck,0
+2007-12,Belle And Sebastian,1
+2007-12,Bright Eyes,1
+2007-12,Broken Social Scene,2
+2007-12,Death Cab For Cutie,1
+2007-12,Elliott Smith,1
+2007-12,Interpol,3
+2007-12,Iron & Wine,2
+2007-12,Lcd Soundsystem,1
+2007-12,Massive Attack,0
+2007-12,Neutral Milk Hotel,1
+2007-12,Radiohead,1
+2007-12,Spoon,0
+2007-12,The Decemberists,2
+2007-12,The Flaming Lips,1
+2007-12,The Shins,1
+2007-12,Wilco,1
+2007-12,Yo La Tengo,1
+2008-01,Air,2
+2008-01,Arcade Fire,8
+2008-01,Beck,3
+2008-01,Belle And Sebastian,3
+2008-01,Bright Eyes,4
+2008-01,Broken Social Scene,3
+2008-01,Death Cab For Cutie,5
+2008-01,Elliott Smith,3
+2008-01,Interpol,4
+2008-01,Iron & Wine,1
+2008-01,Lcd Soundsystem,1
+2008-01,Massive Attack,1
+2008-01,Neutral Milk Hotel,1
+2008-01,Radiohead,4
+2008-01,Spoon,5
+2008-01,The Decemberists,1
+2008-01,The Flaming Lips,5
+2008-01,The Shins,13
+2008-01,Wilco,1
+2008-01,Yo La Tengo,5
+2008-02,Air,5
+2008-02,Arcade Fire,2
+2008-02,Beck,0
+2008-02,Belle And Sebastian,0
+2008-02,Bright Eyes,1
+2008-02,Broken Social Scene,2
+2008-02,Death Cab For Cutie,2
+2008-02,Elliott Smith,1
+2008-02,Interpol,1
+2008-02,Iron & Wine,1
+2008-02,Lcd Soundsystem,1
+2008-02,Massive Attack,3
+2008-02,Neutral Milk Hotel,2
+2008-02,Radiohead,1
+2008-02,Spoon,2
+2008-02,The Decemberists,0
+2008-02,The Flaming Lips,1
+2008-02,The Shins,1
+2008-02,Wilco,2
+2008-02,Yo La Tengo,1
+2008-03,Air,1
+2008-03,Arcade Fire,3
+2008-03,Beck,4
+2008-03,Belle And Sebastian,1
+2008-03,Bright Eyes,0
+2008-03,Broken Social Scene,5
+2008-03,Death Cab For Cutie,4
+2008-03,Elliott Smith,3
+2008-03,Interpol,0
+2008-03,Iron & Wine,2
+2008-03,Lcd Soundsystem,1
+2008-03,Massive Attack,1
+2008-03,Neutral Milk Hotel,1
+2008-03,Radiohead,1
+2008-03,Spoon,2
+2008-03,The Decemberists,2
+2008-03,The Flaming Lips,2
+2008-03,The Shins,1
+2008-03,Wilco,2
+2008-03,Yo La Tengo,3
+2008-04,Air,1
+2008-04,Arcade Fire,1
+2008-04,Beck,1
+2008-04,Belle And Sebastian,1
+2008-04,Bright Eyes,0
+2008-04,Broken Social Scene,0
+2008-04,Death Cab For Cutie,0
+2008-04,Elliott Smith,1
+2008-04,Interpol,0
+2008-04,Iron & Wine,2
+2008-04,Lcd Soundsystem,0
+2008-04,Massive Attack,1
+2008-04,Neutral Milk Hotel,2
+2008-04,Radiohead,0
+2008-04,Spoon,0
+2008-04,The Decemberists,0
+2008-04,The Flaming Lips,0
+2008-04,The Shins,0
+2008-04,Wilco,6
+2008-04,Yo La Tengo,0
+2008-05,Air,1
+2008-05,Arcade Fire,0
+2008-05,Beck,0
+2008-05,Belle And Sebastian,0
+2008-05,Bright Eyes,0
+2008-05,Broken Social Scene,0
+2008-05,Death Cab For Cutie,0
+2008-05,Elliott Smith,0
+2008-05,Interpol,0
+2008-05,Iron & Wine,0
+2008-05,Lcd Soundsystem,0
+2008-05,Massive Attack,6
+2008-05,Neutral Milk Hotel,0
+2008-05,Radiohead,0
+2008-05,Spoon,0
+2008-05,The Decemberists,0
+2008-05,The Flaming Lips,0
+2008-05,The Shins,0
+2008-05,Wilco,0
+2008-05,Yo La Tengo,0
+2008-06,Air,0
+2008-06,Arcade Fire,1
+2008-06,Beck,1
+2008-06,Belle And Sebastian,1
+2008-06,Bright Eyes,1
+2008-06,Broken Social Scene,1
+2008-06,Death Cab For Cutie,2
+2008-06,Elliott Smith,2
+2008-06,Interpol,1
+2008-06,Iron & Wine,1
+2008-06,Lcd Soundsystem,3
+2008-06,Massive Attack,2
+2008-06,Neutral Milk Hotel,2
+2008-06,Radiohead,1
+2008-06,Spoon,2
+2008-06,The Decemberists,2
+2008-06,The Flaming Lips,1
+2008-06,The Shins,1
+2008-06,Wilco,0
+2008-06,Yo La Tengo,0
+2008-07,Air,0
+2008-07,Arcade Fire,1
+2008-07,Beck,0
+2008-07,Belle And Sebastian,0
+2008-07,Bright Eyes,0
+2008-07,Broken Social Scene,0
+2008-07,Death Cab For Cutie,0
+2008-07,Elliott Smith,0
+2008-07,Interpol,0
+2008-07,Iron & Wine,0
+2008-07,Lcd Soundsystem,0
+2008-07,Massive Attack,0
+2008-07,Neutral Milk Hotel,0
+2008-07,Radiohead,0
+2008-07,Spoon,0
+2008-07,The Decemberists,0
+2008-07,The Flaming Lips,0
+2008-07,The Shins,0
+2008-07,Wilco,0
+2008-07,Yo La Tengo,1
+2008-08,Air,0
+2008-08,Arcade Fire,0
+2008-08,Beck,0
+2008-08,Belle And Sebastian,2
+2008-08,Bright Eyes,0
+2008-08,Broken Social Scene,2
+2008-08,Death Cab For Cutie,1
+2008-08,Elliott Smith,2
+2008-08,Interpol,0
+2008-08,Iron & Wine,2
+2008-08,Lcd Soundsystem,1
+2008-08,Massive Attack,0
+2008-08,Neutral Milk Hotel,2
+2008-08,Radiohead,0
+2008-08,Spoon,1
+2008-08,The Decemberists,0
+2008-08,The Flaming Lips,1
+2008-08,The Shins,1
+2008-08,Wilco,1
+2008-08,Yo La Tengo,1
+2008-09,Air,6
+2008-09,Arcade Fire,0
+2008-09,Beck,0
+2008-09,Belle And Sebastian,3
+2008-09,Bright Eyes,1
+2008-09,Broken Social Scene,0
+2008-09,Death Cab For Cutie,0
+2008-09,Elliott Smith,2
+2008-09,Interpol,3
+2008-09,Iron & Wine,1
+2008-09,Lcd Soundsystem,0
+2008-09,Massive Attack,0
+2008-09,Neutral Milk Hotel,2
+2008-09,Radiohead,0
+2008-09,Spoon,1
+2008-09,The Decemberists,2
+2008-09,The Flaming Lips,0
+2008-09,The Shins,1
+2008-09,Wilco,1
+2008-09,Yo La Tengo,1
+2008-10,Air,8
+2008-10,Arcade Fire,7
+2008-10,Beck,8
+2008-10,Belle And Sebastian,0
+2008-10,Bright Eyes,0
+2008-10,Broken Social Scene,2
+2008-10,Death Cab For Cutie,3
+2008-10,Elliott Smith,1
+2008-10,Interpol,3
+2008-10,Iron & Wine,0
+2008-10,Lcd Soundsystem,1
+2008-10,Massive Attack,1
+2008-10,Neutral Milk Hotel,0
+2008-10,Radiohead,12
+2008-10,Spoon,4
+2008-10,The Decemberists,3
+2008-10,The Flaming Lips,4
+2008-10,The Shins,4
+2008-10,Wilco,0
+2008-10,Yo La Tengo,0
+2008-11,Air,0
+2008-11,Arcade Fire,2
+2008-11,Beck,1
+2008-11,Belle And Sebastian,0
+2008-11,Bright Eyes,0
+2008-11,Broken Social Scene,2
+2008-11,Death Cab For Cutie,2
+2008-11,Elliott Smith,0
+2008-11,Interpol,1
+2008-11,Iron & Wine,0
+2008-11,Lcd Soundsystem,0
+2008-11,Massive Attack,0
+2008-11,Neutral Milk Hotel,0
+2008-11,Radiohead,2
+2008-11,Spoon,1
+2008-11,The Decemberists,1
+2008-11,The Flaming Lips,1
+2008-11,The Shins,0
+2008-11,Wilco,0
+2008-11,Yo La Tengo,0
+2008-12,Air,0
+2008-12,Arcade Fire,0
+2008-12,Beck,0
+2008-12,Belle And Sebastian,0
+2008-12,Bright Eyes,0
+2008-12,Broken Social Scene,0
+2008-12,Death Cab For Cutie,0
+2008-12,Elliott Smith,0
+2008-12,Interpol,0
+2008-12,Iron & Wine,0
+2008-12,Lcd Soundsystem,0
+2008-12,Massive Attack,0
+2008-12,Neutral Milk Hotel,0
+2008-12,Radiohead,0
+2008-12,Spoon,0
+2008-12,The Decemberists,0
+2008-12,The Flaming Lips,0
+2008-12,The Shins,0
+2008-12,Wilco,0
+2008-12,Yo La Tengo,0
+2009-01,Air,0
+2009-01,Arcade Fire,0
+2009-01,Beck,0
+2009-01,Belle And Sebastian,0
+2009-01,Bright Eyes,0
+2009-01,Broken Social Scene,0
+2009-01,Death Cab For Cutie,0
+2009-01,Elliott Smith,0
+2009-01,Interpol,0
+2009-01,Iron & Wine,0
+2009-01,Lcd Soundsystem,0
+2009-01,Massive Attack,0
+2009-01,Neutral Milk Hotel,0
+2009-01,Radiohead,0
+2009-01,Spoon,0
+2009-01,The Decemberists,0
+2009-01,The Flaming Lips,0
+2009-01,The Shins,0
+2009-01,Wilco,0
+2009-01,Yo La Tengo,0
+2009-02,Air,0
+2009-02,Arcade Fire,0
+2009-02,Beck,0
+2009-02,Belle And Sebastian,0
+2009-02,Bright Eyes,0
+2009-02,Broken Social Scene,0
+2009-02,Death Cab For Cutie,0
+2009-02,Elliott Smith,0
+2009-02,Interpol,0
+2009-02,Iron & Wine,2
+2009-02,Lcd Soundsystem,0
+2009-02,Massive Attack,0
+2009-02,Neutral Milk Hotel,1
+2009-02,Radiohead,0
+2009-02,Spoon,0
+2009-02,The Decemberists,0
+2009-02,The Flaming Lips,0
+2009-02,The Shins,0
+2009-02,Wilco,0
+2009-02,Yo La Tengo,0

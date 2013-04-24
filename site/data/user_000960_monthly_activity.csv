@@ -1,0 +1,481 @@
+month,artist,plays
+2007-07,Arcade Fire,0
+2007-07,Band Of Horses,0
+2007-07,Beck,0
+2007-07,Bright Eyes,0
+2007-07,Broken Social Scene,0
+2007-07,Death Cab For Cutie,43
+2007-07,In Flames,77
+2007-07,Interpol,0
+2007-07,Menomena,0
+2007-07,Metric,0
+2007-07,Minus The Bear,73
+2007-07,Modest Mouse,0
+2007-07,Sonic Youth,0
+2007-07,Sufjan Stevens,0
+2007-07,Ted Leo And The Pharmacists,0
+2007-07,The Postal Service,433
+2007-07,The Shins,0
+2007-07,The Strokes,2
+2007-07,Yeah Yeah Yeahs,0
+2007-07,Yo La Tengo,1
+2007-08,Arcade Fire,0
+2007-08,Band Of Horses,0
+2007-08,Beck,0
+2007-08,Bright Eyes,0
+2007-08,Broken Social Scene,0
+2007-08,Death Cab For Cutie,413
+2007-08,In Flames,88
+2007-08,Interpol,0
+2007-08,Menomena,0
+2007-08,Metric,0
+2007-08,Minus The Bear,324
+2007-08,Modest Mouse,0
+2007-08,Sonic Youth,83
+2007-08,Sufjan Stevens,0
+2007-08,Ted Leo And The Pharmacists,0
+2007-08,The Postal Service,151
+2007-08,The Shins,114
+2007-08,The Strokes,45
+2007-08,Yeah Yeah Yeahs,0
+2007-08,Yo La Tengo,0
+2007-09,Arcade Fire,10
+2007-09,Band Of Horses,0
+2007-09,Beck,28
+2007-09,Bright Eyes,0
+2007-09,Broken Social Scene,24
+2007-09,Death Cab For Cutie,155
+2007-09,In Flames,15
+2007-09,Interpol,0
+2007-09,Menomena,0
+2007-09,Metric,0
+2007-09,Minus The Bear,90
+2007-09,Modest Mouse,24
+2007-09,Sonic Youth,110
+2007-09,Sufjan Stevens,30
+2007-09,Ted Leo And The Pharmacists,0
+2007-09,The Postal Service,70
+2007-09,The Shins,175
+2007-09,The Strokes,35
+2007-09,Yeah Yeah Yeahs,0
+2007-09,Yo La Tengo,28
+2007-10,Arcade Fire,27
+2007-10,Band Of Horses,26
+2007-10,Beck,51
+2007-10,Bright Eyes,87
+2007-10,Broken Social Scene,153
+2007-10,Death Cab For Cutie,135
+2007-10,In Flames,63
+2007-10,Interpol,2
+2007-10,Menomena,3
+2007-10,Metric,4
+2007-10,Minus The Bear,86
+2007-10,Modest Mouse,87
+2007-10,Sonic Youth,91
+2007-10,Sufjan Stevens,86
+2007-10,Ted Leo And The Pharmacists,1
+2007-10,The Postal Service,90
+2007-10,The Shins,121
+2007-10,The Strokes,28
+2007-10,Yeah Yeah Yeahs,1
+2007-10,Yo La Tengo,88
+2007-11,Arcade Fire,15
+2007-11,Band Of Horses,53
+2007-11,Beck,30
+2007-11,Bright Eyes,51
+2007-11,Broken Social Scene,115
+2007-11,Death Cab For Cutie,68
+2007-11,In Flames,53
+2007-11,Interpol,142
+2007-11,Menomena,49
+2007-11,Metric,139
+2007-11,Minus The Bear,190
+2007-11,Modest Mouse,109
+2007-11,Sonic Youth,146
+2007-11,Sufjan Stevens,117
+2007-11,Ted Leo And The Pharmacists,40
+2007-11,The Postal Service,52
+2007-11,The Shins,87
+2007-11,The Strokes,11
+2007-11,Yeah Yeah Yeahs,27
+2007-11,Yo La Tengo,64
+2007-12,Arcade Fire,16
+2007-12,Band Of Horses,56
+2007-12,Beck,36
+2007-12,Bright Eyes,106
+2007-12,Broken Social Scene,125
+2007-12,Death Cab For Cutie,47
+2007-12,In Flames,54
+2007-12,Interpol,48
+2007-12,Menomena,40
+2007-12,Metric,42
+2007-12,Minus The Bear,45
+2007-12,Modest Mouse,50
+2007-12,Sonic Youth,63
+2007-12,Sufjan Stevens,39
+2007-12,Ted Leo And The Pharmacists,35
+2007-12,The Postal Service,36
+2007-12,The Shins,68
+2007-12,The Strokes,18
+2007-12,Yeah Yeah Yeahs,38
+2007-12,Yo La Tengo,41
+2008-01,Arcade Fire,8
+2008-01,Band Of Horses,24
+2008-01,Beck,22
+2008-01,Bright Eyes,73
+2008-01,Broken Social Scene,94
+2008-01,Death Cab For Cutie,37
+2008-01,In Flames,8
+2008-01,Interpol,21
+2008-01,Menomena,28
+2008-01,Metric,23
+2008-01,Minus The Bear,23
+2008-01,Modest Mouse,27
+2008-01,Sonic Youth,81
+2008-01,Sufjan Stevens,18
+2008-01,Ted Leo And The Pharmacists,20
+2008-01,The Postal Service,41
+2008-01,The Shins,42
+2008-01,The Strokes,5
+2008-01,Yeah Yeah Yeahs,25
+2008-01,Yo La Tengo,20
+2008-02,Arcade Fire,6
+2008-02,Band Of Horses,25
+2008-02,Beck,17
+2008-02,Bright Eyes,55
+2008-02,Broken Social Scene,88
+2008-02,Death Cab For Cutie,38
+2008-02,In Flames,8
+2008-02,Interpol,32
+2008-02,Menomena,15
+2008-02,Metric,23
+2008-02,Minus The Bear,46
+2008-02,Modest Mouse,22
+2008-02,Sonic Youth,70
+2008-02,Sufjan Stevens,8
+2008-02,Ted Leo And The Pharmacists,8
+2008-02,The Postal Service,37
+2008-02,The Shins,34
+2008-02,The Strokes,10
+2008-02,Yeah Yeah Yeahs,22
+2008-02,Yo La Tengo,17
+2008-03,Arcade Fire,7
+2008-03,Band Of Horses,6
+2008-03,Beck,18
+2008-03,Bright Eyes,39
+2008-03,Broken Social Scene,38
+2008-03,Death Cab For Cutie,27
+2008-03,In Flames,7
+2008-03,Interpol,15
+2008-03,Menomena,10
+2008-03,Metric,11
+2008-03,Minus The Bear,15
+2008-03,Modest Mouse,16
+2008-03,Sonic Youth,53
+2008-03,Sufjan Stevens,11
+2008-03,Ted Leo And The Pharmacists,11
+2008-03,The Postal Service,31
+2008-03,The Shins,20
+2008-03,The Strokes,4
+2008-03,Yeah Yeah Yeahs,13
+2008-03,Yo La Tengo,10
+2008-04,Arcade Fire,1
+2008-04,Band Of Horses,3
+2008-04,Beck,4
+2008-04,Bright Eyes,0
+2008-04,Broken Social Scene,67
+2008-04,Death Cab For Cutie,1
+2008-04,In Flames,6
+2008-04,Interpol,1
+2008-04,Menomena,0
+2008-04,Metric,0
+2008-04,Minus The Bear,3
+2008-04,Modest Mouse,0
+2008-04,Sonic Youth,2
+2008-04,Sufjan Stevens,1
+2008-04,Ted Leo And The Pharmacists,0
+2008-04,The Postal Service,2
+2008-04,The Shins,21
+2008-04,The Strokes,0
+2008-04,Yeah Yeah Yeahs,2
+2008-04,Yo La Tengo,0
+2008-05,Arcade Fire,5
+2008-05,Band Of Horses,5
+2008-05,Beck,81
+2008-05,Bright Eyes,3
+2008-05,Broken Social Scene,114
+2008-05,Death Cab For Cutie,98
+2008-05,In Flames,16
+2008-05,Interpol,9
+2008-05,Menomena,1
+2008-05,Metric,3
+2008-05,Minus The Bear,8
+2008-05,Modest Mouse,0
+2008-05,Sonic Youth,71
+2008-05,Sufjan Stevens,2
+2008-05,Ted Leo And The Pharmacists,3
+2008-05,The Postal Service,2
+2008-05,The Shins,29
+2008-05,The Strokes,0
+2008-05,Yeah Yeah Yeahs,40
+2008-05,Yo La Tengo,2
+2008-06,Arcade Fire,11
+2008-06,Band Of Horses,19
+2008-06,Beck,184
+2008-06,Bright Eyes,1
+2008-06,Broken Social Scene,81
+2008-06,Death Cab For Cutie,105
+2008-06,In Flames,8
+2008-06,Interpol,7
+2008-06,Menomena,2
+2008-06,Metric,1
+2008-06,Minus The Bear,2
+2008-06,Modest Mouse,1
+2008-06,Sonic Youth,10
+2008-06,Sufjan Stevens,0
+2008-06,Ted Leo And The Pharmacists,4
+2008-06,The Postal Service,91
+2008-06,The Shins,13
+2008-06,The Strokes,0
+2008-06,Yeah Yeah Yeahs,7
+2008-06,Yo La Tengo,6
+2008-07,Arcade Fire,96
+2008-07,Band Of Horses,6
+2008-07,Beck,232
+2008-07,Bright Eyes,1
+2008-07,Broken Social Scene,53
+2008-07,Death Cab For Cutie,147
+2008-07,In Flames,25
+2008-07,Interpol,4
+2008-07,Menomena,0
+2008-07,Metric,1
+2008-07,Minus The Bear,103
+2008-07,Modest Mouse,6
+2008-07,Sonic Youth,13
+2008-07,Sufjan Stevens,12
+2008-07,Ted Leo And The Pharmacists,0
+2008-07,The Postal Service,79
+2008-07,The Shins,128
+2008-07,The Strokes,7
+2008-07,Yeah Yeah Yeahs,3
+2008-07,Yo La Tengo,2
+2008-08,Arcade Fire,47
+2008-08,Band Of Horses,0
+2008-08,Beck,106
+2008-08,Bright Eyes,0
+2008-08,Broken Social Scene,59
+2008-08,Death Cab For Cutie,206
+2008-08,In Flames,8
+2008-08,Interpol,0
+2008-08,Menomena,0
+2008-08,Metric,0
+2008-08,Minus The Bear,37
+2008-08,Modest Mouse,1
+2008-08,Sonic Youth,10
+2008-08,Sufjan Stevens,1
+2008-08,Ted Leo And The Pharmacists,0
+2008-08,The Postal Service,169
+2008-08,The Shins,99
+2008-08,The Strokes,6
+2008-08,Yeah Yeah Yeahs,0
+2008-08,Yo La Tengo,0
+2008-09,Arcade Fire,0
+2008-09,Band Of Horses,0
+2008-09,Beck,6
+2008-09,Bright Eyes,0
+2008-09,Broken Social Scene,21
+2008-09,Death Cab For Cutie,9
+2008-09,In Flames,4
+2008-09,Interpol,0
+2008-09,Menomena,2
+2008-09,Metric,0
+2008-09,Minus The Bear,11
+2008-09,Modest Mouse,0
+2008-09,Sonic Youth,0
+2008-09,Sufjan Stevens,0
+2008-09,Ted Leo And The Pharmacists,0
+2008-09,The Postal Service,49
+2008-09,The Shins,1
+2008-09,The Strokes,0
+2008-09,Yeah Yeah Yeahs,1
+2008-09,Yo La Tengo,15
+2008-10,Arcade Fire,36
+2008-10,Band Of Horses,12
+2008-10,Beck,0
+2008-10,Bright Eyes,50
+2008-10,Broken Social Scene,79
+2008-10,Death Cab For Cutie,9
+2008-10,In Flames,0
+2008-10,Interpol,0
+2008-10,Menomena,2
+2008-10,Metric,19
+2008-10,Minus The Bear,9
+2008-10,Modest Mouse,0
+2008-10,Sonic Youth,0
+2008-10,Sufjan Stevens,25
+2008-10,Ted Leo And The Pharmacists,10
+2008-10,The Postal Service,39
+2008-10,The Shins,26
+2008-10,The Strokes,4
+2008-10,Yeah Yeah Yeahs,0
+2008-10,Yo La Tengo,139
+2008-11,Arcade Fire,95
+2008-11,Band Of Horses,30
+2008-11,Beck,9
+2008-11,Bright Eyes,110
+2008-11,Broken Social Scene,205
+2008-11,Death Cab For Cutie,66
+2008-11,In Flames,0
+2008-11,Interpol,2
+2008-11,Menomena,12
+2008-11,Metric,42
+2008-11,Minus The Bear,0
+2008-11,Modest Mouse,13
+2008-11,Sonic Youth,0
+2008-11,Sufjan Stevens,78
+2008-11,Ted Leo And The Pharmacists,34
+2008-11,The Postal Service,124
+2008-11,The Shins,53
+2008-11,The Strokes,9
+2008-11,Yeah Yeah Yeahs,0
+2008-11,Yo La Tengo,238
+2008-12,Arcade Fire,124
+2008-12,Band Of Horses,1
+2008-12,Beck,11
+2008-12,Bright Eyes,7
+2008-12,Broken Social Scene,11
+2008-12,Death Cab For Cutie,73
+2008-12,In Flames,0
+2008-12,Interpol,3
+2008-12,Menomena,4
+2008-12,Metric,2
+2008-12,Minus The Bear,5
+2008-12,Modest Mouse,2
+2008-12,Sonic Youth,0
+2008-12,Sufjan Stevens,2
+2008-12,Ted Leo And The Pharmacists,5
+2008-12,The Postal Service,6
+2008-12,The Shins,9
+2008-12,The Strokes,3
+2008-12,Yeah Yeah Yeahs,0
+2008-12,Yo La Tengo,14
+2009-01,Arcade Fire,0
+2009-01,Band Of Horses,0
+2009-01,Beck,5
+2009-01,Bright Eyes,5
+2009-01,Broken Social Scene,7
+2009-01,Death Cab For Cutie,5
+2009-01,In Flames,1
+2009-01,Interpol,0
+2009-01,Menomena,0
+2009-01,Metric,2
+2009-01,Minus The Bear,3
+2009-01,Modest Mouse,4
+2009-01,Sonic Youth,10
+2009-01,Sufjan Stevens,1
+2009-01,Ted Leo And The Pharmacists,3
+2009-01,The Postal Service,4
+2009-01,The Shins,2
+2009-01,The Strokes,0
+2009-01,Yeah Yeah Yeahs,3
+2009-01,Yo La Tengo,3
+2009-02,Arcade Fire,0
+2009-02,Band Of Horses,17
+2009-02,Beck,37
+2009-02,Bright Eyes,69
+2009-02,Broken Social Scene,176
+2009-02,Death Cab For Cutie,162
+2009-02,In Flames,15
+2009-02,Interpol,27
+2009-02,Menomena,13
+2009-02,Metric,32
+2009-02,Minus The Bear,40
+2009-02,Modest Mouse,23
+2009-02,Sonic Youth,89
+2009-02,Sufjan Stevens,37
+2009-02,Ted Leo And The Pharmacists,20
+2009-02,The Postal Service,24
+2009-02,The Shins,26
+2009-02,The Strokes,6
+2009-02,Yeah Yeah Yeahs,21
+2009-02,Yo La Tengo,138
+2009-03,Arcade Fire,135
+2009-03,Band Of Horses,2
+2009-03,Beck,9
+2009-03,Bright Eyes,27
+2009-03,Broken Social Scene,56
+2009-03,Death Cab For Cutie,56
+2009-03,In Flames,9
+2009-03,Interpol,4
+2009-03,Menomena,3
+2009-03,Metric,11
+2009-03,Minus The Bear,12
+2009-03,Modest Mouse,6
+2009-03,Sonic Youth,32
+2009-03,Sufjan Stevens,5
+2009-03,Ted Leo And The Pharmacists,4
+2009-03,The Postal Service,4
+2009-03,The Shins,12
+2009-03,The Strokes,3
+2009-03,Yeah Yeah Yeahs,9
+2009-03,Yo La Tengo,44
+2009-04,Arcade Fire,1
+2009-04,Band Of Horses,20
+2009-04,Beck,75
+2009-04,Bright Eyes,91
+2009-04,Broken Social Scene,115
+2009-04,Death Cab For Cutie,149
+2009-04,In Flames,8
+2009-04,Interpol,32
+2009-04,Menomena,14
+2009-04,Metric,30
+2009-04,Minus The Bear,17
+2009-04,Modest Mouse,25
+2009-04,Sonic Youth,102
+2009-04,Sufjan Stevens,29
+2009-04,Ted Leo And The Pharmacists,21
+2009-04,The Postal Service,54
+2009-04,The Shins,45
+2009-04,The Strokes,4
+2009-04,Yeah Yeah Yeahs,23
+2009-04,Yo La Tengo,147
+2009-05,Arcade Fire,1
+2009-05,Band Of Horses,6
+2009-05,Beck,134
+2009-05,Bright Eyes,36
+2009-05,Broken Social Scene,20
+2009-05,Death Cab For Cutie,318
+2009-05,In Flames,0
+2009-05,Interpol,14
+2009-05,Menomena,8
+2009-05,Metric,17
+2009-05,Minus The Bear,7
+2009-05,Modest Mouse,9
+2009-05,Sonic Youth,49
+2009-05,Sufjan Stevens,18
+2009-05,Ted Leo And The Pharmacists,14
+2009-05,The Postal Service,37
+2009-05,The Shins,20
+2009-05,The Strokes,6
+2009-05,Yeah Yeah Yeahs,11
+2009-05,Yo La Tengo,82
+2009-06,Arcade Fire,0
+2009-06,Band Of Horses,10
+2009-06,Beck,93
+2009-06,Bright Eyes,48
+2009-06,Broken Social Scene,24
+2009-06,Death Cab For Cutie,110
+2009-06,In Flames,0
+2009-06,Interpol,12
+2009-06,Menomena,6
+2009-06,Metric,15
+2009-06,Minus The Bear,19
+2009-06,Modest Mouse,12
+2009-06,Sonic Youth,41
+2009-06,Sufjan Stevens,16
+2009-06,Ted Leo And The Pharmacists,11
+2009-06,The Postal Service,16
+2009-06,The Shins,22
+2009-06,The Strokes,2
+2009-06,Yeah Yeah Yeahs,6
+2009-06,Yo La Tengo,87

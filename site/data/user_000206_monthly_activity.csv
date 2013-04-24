@@ -1,0 +1,841 @@
+month,artist,plays
+2005-11,A Perfect Circle,0
+2005-11,Blur,1
+2005-11,Cold,0
+2005-11,Creed,0
+2005-11,Dark Tranquillity,0
+2005-11,Dredg,0
+2005-11,Gojira,0
+2005-11,Gorefest,8
+2005-11,Green Carnation,0
+2005-11,Guano Apes,0
+2005-11,Hatesphere,0
+2005-11,In Flames,0
+2005-11,Isis,0
+2005-11,Manic Street Preachers,0
+2005-11,Massive Attack,0
+2005-11,Paradise Lost,0
+2005-11,Shinedown,0
+2005-11,The Goo Goo Dolls,0
+2005-11,The Tea Party,0
+2005-11,The Wallflowers,0
+2005-12,A Perfect Circle,12
+2005-12,Blur,29
+2005-12,Cold,0
+2005-12,Creed,1
+2005-12,Dark Tranquillity,39
+2005-12,Dredg,0
+2005-12,Gojira,0
+2005-12,Gorefest,245
+2005-12,Green Carnation,0
+2005-12,Guano Apes,52
+2005-12,Hatesphere,0
+2005-12,In Flames,66
+2005-12,Isis,0
+2005-12,Manic Street Preachers,19
+2005-12,Massive Attack,3
+2005-12,Paradise Lost,4
+2005-12,Shinedown,2
+2005-12,The Goo Goo Dolls,1
+2005-12,The Tea Party,1
+2005-12,The Wallflowers,1
+2006-01,A Perfect Circle,20
+2006-01,Blur,29
+2006-01,Cold,0
+2006-01,Creed,0
+2006-01,Dark Tranquillity,5
+2006-01,Dredg,0
+2006-01,Gojira,0
+2006-01,Gorefest,69
+2006-01,Green Carnation,0
+2006-01,Guano Apes,27
+2006-01,Hatesphere,0
+2006-01,In Flames,128
+2006-01,Isis,0
+2006-01,Manic Street Preachers,37
+2006-01,Massive Attack,73
+2006-01,Paradise Lost,15
+2006-01,Shinedown,3
+2006-01,The Goo Goo Dolls,17
+2006-01,The Tea Party,2
+2006-01,The Wallflowers,21
+2006-02,A Perfect Circle,64
+2006-02,Blur,19
+2006-02,Cold,0
+2006-02,Creed,0
+2006-02,Dark Tranquillity,13
+2006-02,Dredg,0
+2006-02,Gojira,0
+2006-02,Gorefest,67
+2006-02,Green Carnation,0
+2006-02,Guano Apes,11
+2006-02,Hatesphere,0
+2006-02,In Flames,36
+2006-02,Isis,0
+2006-02,Manic Street Preachers,11
+2006-02,Massive Attack,64
+2006-02,Paradise Lost,53
+2006-02,Shinedown,1
+2006-02,The Goo Goo Dolls,16
+2006-02,The Tea Party,2
+2006-02,The Wallflowers,14
+2006-03,A Perfect Circle,46
+2006-03,Blur,13
+2006-03,Cold,0
+2006-03,Creed,0
+2006-03,Dark Tranquillity,31
+2006-03,Dredg,49
+2006-03,Gojira,5
+2006-03,Gorefest,5
+2006-03,Green Carnation,0
+2006-03,Guano Apes,12
+2006-03,Hatesphere,12
+2006-03,In Flames,13
+2006-03,Isis,0
+2006-03,Manic Street Preachers,7
+2006-03,Massive Attack,19
+2006-03,Paradise Lost,12
+2006-03,Shinedown,0
+2006-03,The Goo Goo Dolls,8
+2006-03,The Tea Party,0
+2006-03,The Wallflowers,6
+2006-04,A Perfect Circle,60
+2006-04,Blur,11
+2006-04,Cold,0
+2006-04,Creed,0
+2006-04,Dark Tranquillity,26
+2006-04,Dredg,27
+2006-04,Gojira,393
+2006-04,Gorefest,42
+2006-04,Green Carnation,0
+2006-04,Guano Apes,2
+2006-04,Hatesphere,52
+2006-04,In Flames,11
+2006-04,Isis,0
+2006-04,Manic Street Preachers,8
+2006-04,Massive Attack,0
+2006-04,Paradise Lost,3
+2006-04,Shinedown,0
+2006-04,The Goo Goo Dolls,8
+2006-04,The Tea Party,11
+2006-04,The Wallflowers,0
+2006-05,A Perfect Circle,73
+2006-05,Blur,2
+2006-05,Cold,0
+2006-05,Creed,0
+2006-05,Dark Tranquillity,7
+2006-05,Dredg,124
+2006-05,Gojira,193
+2006-05,Gorefest,76
+2006-05,Green Carnation,22
+2006-05,Guano Apes,0
+2006-05,Hatesphere,14
+2006-05,In Flames,11
+2006-05,Isis,0
+2006-05,Manic Street Preachers,2
+2006-05,Massive Attack,4
+2006-05,Paradise Lost,80
+2006-05,Shinedown,5
+2006-05,The Goo Goo Dolls,1
+2006-05,The Tea Party,26
+2006-05,The Wallflowers,1
+2006-06,A Perfect Circle,17
+2006-06,Blur,1
+2006-06,Cold,0
+2006-06,Creed,5
+2006-06,Dark Tranquillity,0
+2006-06,Dredg,349
+2006-06,Gojira,116
+2006-06,Gorefest,189
+2006-06,Green Carnation,57
+2006-06,Guano Apes,0
+2006-06,Hatesphere,0
+2006-06,In Flames,4
+2006-06,Isis,3
+2006-06,Manic Street Preachers,0
+2006-06,Massive Attack,0
+2006-06,Paradise Lost,200
+2006-06,Shinedown,2
+2006-06,The Goo Goo Dolls,11
+2006-06,The Tea Party,234
+2006-06,The Wallflowers,0
+2006-07,A Perfect Circle,13
+2006-07,Blur,2
+2006-07,Cold,0
+2006-07,Creed,0
+2006-07,Dark Tranquillity,3
+2006-07,Dredg,282
+2006-07,Gojira,224
+2006-07,Gorefest,91
+2006-07,Green Carnation,56
+2006-07,Guano Apes,7
+2006-07,Hatesphere,8
+2006-07,In Flames,8
+2006-07,Isis,0
+2006-07,Manic Street Preachers,7
+2006-07,Massive Attack,2
+2006-07,Paradise Lost,154
+2006-07,Shinedown,0
+2006-07,The Goo Goo Dolls,3
+2006-07,The Tea Party,77
+2006-07,The Wallflowers,0
+2006-08,A Perfect Circle,4
+2006-08,Blur,3
+2006-08,Cold,0
+2006-08,Creed,0
+2006-08,Dark Tranquillity,1
+2006-08,Dredg,33
+2006-08,Gojira,59
+2006-08,Gorefest,132
+2006-08,Green Carnation,51
+2006-08,Guano Apes,34
+2006-08,Hatesphere,0
+2006-08,In Flames,12
+2006-08,Isis,3
+2006-08,Manic Street Preachers,2
+2006-08,Massive Attack,0
+2006-08,Paradise Lost,42
+2006-08,Shinedown,28
+2006-08,The Goo Goo Dolls,0
+2006-08,The Tea Party,28
+2006-08,The Wallflowers,0
+2006-09,A Perfect Circle,0
+2006-09,Blur,5
+2006-09,Cold,0
+2006-09,Creed,0
+2006-09,Dark Tranquillity,1
+2006-09,Dredg,101
+2006-09,Gojira,52
+2006-09,Gorefest,25
+2006-09,Green Carnation,148
+2006-09,Guano Apes,3
+2006-09,Hatesphere,0
+2006-09,In Flames,0
+2006-09,Isis,0
+2006-09,Manic Street Preachers,3
+2006-09,Massive Attack,0
+2006-09,Paradise Lost,93
+2006-09,Shinedown,0
+2006-09,The Goo Goo Dolls,2
+2006-09,The Tea Party,75
+2006-09,The Wallflowers,0
+2006-10,A Perfect Circle,34
+2006-10,Blur,4
+2006-10,Cold,0
+2006-10,Creed,0
+2006-10,Dark Tranquillity,31
+2006-10,Dredg,107
+2006-10,Gojira,30
+2006-10,Gorefest,36
+2006-10,Green Carnation,29
+2006-10,Guano Apes,4
+2006-10,Hatesphere,12
+2006-10,In Flames,16
+2006-10,Isis,10
+2006-10,Manic Street Preachers,3
+2006-10,Massive Attack,6
+2006-10,Paradise Lost,5
+2006-10,Shinedown,5
+2006-10,The Goo Goo Dolls,6
+2006-10,The Tea Party,193
+2006-10,The Wallflowers,6
+2006-11,A Perfect Circle,23
+2006-11,Blur,5
+2006-11,Cold,0
+2006-11,Creed,1
+2006-11,Dark Tranquillity,4
+2006-11,Dredg,58
+2006-11,Gojira,13
+2006-11,Gorefest,31
+2006-11,Green Carnation,63
+2006-11,Guano Apes,0
+2006-11,Hatesphere,13
+2006-11,In Flames,0
+2006-11,Isis,9
+2006-11,Manic Street Preachers,3
+2006-11,Massive Attack,54
+2006-11,Paradise Lost,10
+2006-11,Shinedown,4
+2006-11,The Goo Goo Dolls,6
+2006-11,The Tea Party,55
+2006-11,The Wallflowers,7
+2006-12,A Perfect Circle,5
+2006-12,Blur,10
+2006-12,Cold,39
+2006-12,Creed,2
+2006-12,Dark Tranquillity,55
+2006-12,Dredg,34
+2006-12,Gojira,11
+2006-12,Gorefest,0
+2006-12,Green Carnation,27
+2006-12,Guano Apes,3
+2006-12,Hatesphere,3
+2006-12,In Flames,2
+2006-12,Isis,22
+2006-12,Manic Street Preachers,6
+2006-12,Massive Attack,0
+2006-12,Paradise Lost,2
+2006-12,Shinedown,7
+2006-12,The Goo Goo Dolls,5
+2006-12,The Tea Party,7
+2006-12,The Wallflowers,32
+2007-01,A Perfect Circle,23
+2007-01,Blur,2
+2007-01,Cold,4
+2007-01,Creed,10
+2007-01,Dark Tranquillity,0
+2007-01,Dredg,17
+2007-01,Gojira,12
+2007-01,Gorefest,0
+2007-01,Green Carnation,85
+2007-01,Guano Apes,40
+2007-01,Hatesphere,0
+2007-01,In Flames,0
+2007-01,Isis,3
+2007-01,Manic Street Preachers,2
+2007-01,Massive Attack,2
+2007-01,Paradise Lost,0
+2007-01,Shinedown,3
+2007-01,The Goo Goo Dolls,5
+2007-01,The Tea Party,10
+2007-01,The Wallflowers,10
+2007-02,A Perfect Circle,12
+2007-02,Blur,4
+2007-02,Cold,1
+2007-02,Creed,92
+2007-02,Dark Tranquillity,0
+2007-02,Dredg,12
+2007-02,Gojira,73
+2007-02,Gorefest,0
+2007-02,Green Carnation,13
+2007-02,Guano Apes,4
+2007-02,Hatesphere,0
+2007-02,In Flames,0
+2007-02,Isis,0
+2007-02,Manic Street Preachers,3
+2007-02,Massive Attack,9
+2007-02,Paradise Lost,32
+2007-02,Shinedown,2
+2007-02,The Goo Goo Dolls,0
+2007-02,The Tea Party,24
+2007-02,The Wallflowers,7
+2007-03,A Perfect Circle,6
+2007-03,Blur,0
+2007-03,Cold,5
+2007-03,Creed,30
+2007-03,Dark Tranquillity,0
+2007-03,Dredg,4
+2007-03,Gojira,16
+2007-03,Gorefest,117
+2007-03,Green Carnation,19
+2007-03,Guano Apes,11
+2007-03,Hatesphere,21
+2007-03,In Flames,41
+2007-03,Isis,1
+2007-03,Manic Street Preachers,1
+2007-03,Massive Attack,1
+2007-03,Paradise Lost,52
+2007-03,Shinedown,0
+2007-03,The Goo Goo Dolls,0
+2007-03,The Tea Party,2
+2007-03,The Wallflowers,1
+2007-04,A Perfect Circle,22
+2007-04,Blur,0
+2007-04,Cold,4
+2007-04,Creed,12
+2007-04,Dark Tranquillity,1
+2007-04,Dredg,11
+2007-04,Gojira,76
+2007-04,Gorefest,0
+2007-04,Green Carnation,31
+2007-04,Guano Apes,2
+2007-04,Hatesphere,9
+2007-04,In Flames,4
+2007-04,Isis,2
+2007-04,Manic Street Preachers,0
+2007-04,Massive Attack,13
+2007-04,Paradise Lost,147
+2007-04,Shinedown,5
+2007-04,The Goo Goo Dolls,0
+2007-04,The Tea Party,1
+2007-04,The Wallflowers,3
+2007-05,A Perfect Circle,2
+2007-05,Blur,0
+2007-05,Cold,0
+2007-05,Creed,0
+2007-05,Dark Tranquillity,0
+2007-05,Dredg,2
+2007-05,Gojira,0
+2007-05,Gorefest,0
+2007-05,Green Carnation,0
+2007-05,Guano Apes,2
+2007-05,Hatesphere,0
+2007-05,In Flames,1
+2007-05,Isis,0
+2007-05,Manic Street Preachers,0
+2007-05,Massive Attack,0
+2007-05,Paradise Lost,0
+2007-05,Shinedown,0
+2007-05,The Goo Goo Dolls,0
+2007-05,The Tea Party,0
+2007-05,The Wallflowers,0
+2007-06,A Perfect Circle,0
+2007-06,Blur,0
+2007-06,Cold,0
+2007-06,Creed,0
+2007-06,Dark Tranquillity,0
+2007-06,Dredg,0
+2007-06,Gojira,0
+2007-06,Gorefest,0
+2007-06,Green Carnation,0
+2007-06,Guano Apes,0
+2007-06,Hatesphere,0
+2007-06,In Flames,0
+2007-06,Isis,0
+2007-06,Manic Street Preachers,0
+2007-06,Massive Attack,0
+2007-06,Paradise Lost,0
+2007-06,Shinedown,0
+2007-06,The Goo Goo Dolls,0
+2007-06,The Tea Party,0
+2007-06,The Wallflowers,0
+2007-07,A Perfect Circle,0
+2007-07,Blur,0
+2007-07,Cold,1
+2007-07,Creed,10
+2007-07,Dark Tranquillity,1
+2007-07,Dredg,0
+2007-07,Gojira,2
+2007-07,Gorefest,0
+2007-07,Green Carnation,0
+2007-07,Guano Apes,0
+2007-07,Hatesphere,0
+2007-07,In Flames,1
+2007-07,Isis,1
+2007-07,Manic Street Preachers,0
+2007-07,Massive Attack,0
+2007-07,Paradise Lost,0
+2007-07,Shinedown,2
+2007-07,The Goo Goo Dolls,0
+2007-07,The Tea Party,15
+2007-07,The Wallflowers,2
+2007-08,A Perfect Circle,8
+2007-08,Blur,1
+2007-08,Cold,1
+2007-08,Creed,1
+2007-08,Dark Tranquillity,0
+2007-08,Dredg,11
+2007-08,Gojira,8
+2007-08,Gorefest,4
+2007-08,Green Carnation,0
+2007-08,Guano Apes,0
+2007-08,Hatesphere,1
+2007-08,In Flames,0
+2007-08,Isis,2
+2007-08,Manic Street Preachers,0
+2007-08,Massive Attack,0
+2007-08,Paradise Lost,0
+2007-08,Shinedown,3
+2007-08,The Goo Goo Dolls,2
+2007-08,The Tea Party,114
+2007-08,The Wallflowers,1
+2007-09,A Perfect Circle,0
+2007-09,Blur,0
+2007-09,Cold,0
+2007-09,Creed,0
+2007-09,Dark Tranquillity,0
+2007-09,Dredg,0
+2007-09,Gojira,0
+2007-09,Gorefest,0
+2007-09,Green Carnation,0
+2007-09,Guano Apes,0
+2007-09,Hatesphere,0
+2007-09,In Flames,0
+2007-09,Isis,0
+2007-09,Manic Street Preachers,0
+2007-09,Massive Attack,0
+2007-09,Paradise Lost,0
+2007-09,Shinedown,0
+2007-09,The Goo Goo Dolls,0
+2007-09,The Tea Party,0
+2007-09,The Wallflowers,0
+2007-10,A Perfect Circle,3
+2007-10,Blur,0
+2007-10,Cold,4
+2007-10,Creed,2
+2007-10,Dark Tranquillity,2
+2007-10,Dredg,7
+2007-10,Gojira,7
+2007-10,Gorefest,3
+2007-10,Green Carnation,1
+2007-10,Guano Apes,1
+2007-10,Hatesphere,3
+2007-10,In Flames,5
+2007-10,Isis,1
+2007-10,Manic Street Preachers,1
+2007-10,Massive Attack,2
+2007-10,Paradise Lost,6
+2007-10,Shinedown,1
+2007-10,The Goo Goo Dolls,6
+2007-10,The Tea Party,0
+2007-10,The Wallflowers,3
+2007-11,A Perfect Circle,4
+2007-11,Blur,0
+2007-11,Cold,1
+2007-11,Creed,3
+2007-11,Dark Tranquillity,0
+2007-11,Dredg,3
+2007-11,Gojira,5
+2007-11,Gorefest,4
+2007-11,Green Carnation,0
+2007-11,Guano Apes,1
+2007-11,Hatesphere,7
+2007-11,In Flames,2
+2007-11,Isis,1
+2007-11,Manic Street Preachers,0
+2007-11,Massive Attack,0
+2007-11,Paradise Lost,5
+2007-11,Shinedown,3
+2007-11,The Goo Goo Dolls,2
+2007-11,The Tea Party,0
+2007-11,The Wallflowers,1
+2007-12,A Perfect Circle,11
+2007-12,Blur,0
+2007-12,Cold,3
+2007-12,Creed,4
+2007-12,Dark Tranquillity,2
+2007-12,Dredg,13
+2007-12,Gojira,22
+2007-12,Gorefest,1
+2007-12,Green Carnation,1
+2007-12,Guano Apes,1
+2007-12,Hatesphere,2
+2007-12,In Flames,0
+2007-12,Isis,3
+2007-12,Manic Street Preachers,2
+2007-12,Massive Attack,2
+2007-12,Paradise Lost,2
+2007-12,Shinedown,5
+2007-12,The Goo Goo Dolls,3
+2007-12,The Tea Party,23
+2007-12,The Wallflowers,1
+2008-01,A Perfect Circle,3
+2008-01,Blur,5
+2008-01,Cold,25
+2008-01,Creed,9
+2008-01,Dark Tranquillity,3
+2008-01,Dredg,29
+2008-01,Gojira,10
+2008-01,Gorefest,6
+2008-01,Green Carnation,5
+2008-01,Guano Apes,1
+2008-01,Hatesphere,1
+2008-01,In Flames,2
+2008-01,Isis,2
+2008-01,Manic Street Preachers,20
+2008-01,Massive Attack,4
+2008-01,Paradise Lost,37
+2008-01,Shinedown,30
+2008-01,The Goo Goo Dolls,5
+2008-01,The Tea Party,0
+2008-01,The Wallflowers,1
+2008-02,A Perfect Circle,4
+2008-02,Blur,1
+2008-02,Cold,3
+2008-02,Creed,2
+2008-02,Dark Tranquillity,3
+2008-02,Dredg,5
+2008-02,Gojira,4
+2008-02,Gorefest,8
+2008-02,Green Carnation,0
+2008-02,Guano Apes,2
+2008-02,Hatesphere,3
+2008-02,In Flames,1
+2008-02,Isis,1
+2008-02,Manic Street Preachers,5
+2008-02,Massive Attack,4
+2008-02,Paradise Lost,4
+2008-02,Shinedown,1
+2008-02,The Goo Goo Dolls,3
+2008-02,The Tea Party,0
+2008-02,The Wallflowers,2
+2008-03,A Perfect Circle,4
+2008-03,Blur,1
+2008-03,Cold,4
+2008-03,Creed,4
+2008-03,Dark Tranquillity,3
+2008-03,Dredg,11
+2008-03,Gojira,4
+2008-03,Gorefest,5
+2008-03,Green Carnation,4
+2008-03,Guano Apes,1
+2008-03,Hatesphere,8
+2008-03,In Flames,2
+2008-03,Isis,2
+2008-03,Manic Street Preachers,4
+2008-03,Massive Attack,2
+2008-03,Paradise Lost,12
+2008-03,Shinedown,0
+2008-03,The Goo Goo Dolls,2
+2008-03,The Tea Party,0
+2008-03,The Wallflowers,1
+2008-04,A Perfect Circle,2
+2008-04,Blur,2
+2008-04,Cold,2
+2008-04,Creed,7
+2008-04,Dark Tranquillity,1
+2008-04,Dredg,11
+2008-04,Gojira,6
+2008-04,Gorefest,2
+2008-04,Green Carnation,2
+2008-04,Guano Apes,0
+2008-04,Hatesphere,0
+2008-04,In Flames,0
+2008-04,Isis,1
+2008-04,Manic Street Preachers,5
+2008-04,Massive Attack,1
+2008-04,Paradise Lost,15
+2008-04,Shinedown,1
+2008-04,The Goo Goo Dolls,1
+2008-04,The Tea Party,0
+2008-04,The Wallflowers,1
+2008-05,A Perfect Circle,3
+2008-05,Blur,0
+2008-05,Cold,3
+2008-05,Creed,3
+2008-05,Dark Tranquillity,0
+2008-05,Dredg,2
+2008-05,Gojira,2
+2008-05,Gorefest,3
+2008-05,Green Carnation,2
+2008-05,Guano Apes,3
+2008-05,Hatesphere,4
+2008-05,In Flames,1
+2008-05,Isis,1
+2008-05,Manic Street Preachers,1
+2008-05,Massive Attack,4
+2008-05,Paradise Lost,4
+2008-05,Shinedown,3
+2008-05,The Goo Goo Dolls,2
+2008-05,The Tea Party,0
+2008-05,The Wallflowers,1
+2008-06,A Perfect Circle,3
+2008-06,Blur,1
+2008-06,Cold,3
+2008-06,Creed,7
+2008-06,Dark Tranquillity,2
+2008-06,Dredg,9
+2008-06,Gojira,11
+2008-06,Gorefest,1
+2008-06,Green Carnation,2
+2008-06,Guano Apes,0
+2008-06,Hatesphere,3
+2008-06,In Flames,0
+2008-06,Isis,0
+2008-06,Manic Street Preachers,4
+2008-06,Massive Attack,10
+2008-06,Paradise Lost,9
+2008-06,Shinedown,0
+2008-06,The Goo Goo Dolls,1
+2008-06,The Tea Party,4
+2008-06,The Wallflowers,2
+2008-07,A Perfect Circle,0
+2008-07,Blur,0
+2008-07,Cold,1
+2008-07,Creed,0
+2008-07,Dark Tranquillity,0
+2008-07,Dredg,1
+2008-07,Gojira,2
+2008-07,Gorefest,7
+2008-07,Green Carnation,0
+2008-07,Guano Apes,1
+2008-07,Hatesphere,17
+2008-07,In Flames,0
+2008-07,Isis,1
+2008-07,Manic Street Preachers,1
+2008-07,Massive Attack,1
+2008-07,Paradise Lost,0
+2008-07,Shinedown,2
+2008-07,The Goo Goo Dolls,0
+2008-07,The Tea Party,21
+2008-07,The Wallflowers,0
+2008-08,A Perfect Circle,0
+2008-08,Blur,0
+2008-08,Cold,2
+2008-08,Creed,0
+2008-08,Dark Tranquillity,0
+2008-08,Dredg,35
+2008-08,Gojira,0
+2008-08,Gorefest,19
+2008-08,Green Carnation,0
+2008-08,Guano Apes,0
+2008-08,Hatesphere,0
+2008-08,In Flames,0
+2008-08,Isis,0
+2008-08,Manic Street Preachers,0
+2008-08,Massive Attack,0
+2008-08,Paradise Lost,9
+2008-08,Shinedown,6
+2008-08,The Goo Goo Dolls,0
+2008-08,The Tea Party,0
+2008-08,The Wallflowers,0
+2008-09,A Perfect Circle,0
+2008-09,Blur,0
+2008-09,Cold,3
+2008-09,Creed,0
+2008-09,Dark Tranquillity,19
+2008-09,Dredg,0
+2008-09,Gojira,38
+2008-09,Gorefest,9
+2008-09,Green Carnation,0
+2008-09,Guano Apes,0
+2008-09,Hatesphere,0
+2008-09,In Flames,0
+2008-09,Isis,1
+2008-09,Manic Street Preachers,36
+2008-09,Massive Attack,0
+2008-09,Paradise Lost,0
+2008-09,Shinedown,3
+2008-09,The Goo Goo Dolls,0
+2008-09,The Tea Party,0
+2008-09,The Wallflowers,2
+2008-10,A Perfect Circle,8
+2008-10,Blur,0
+2008-10,Cold,1
+2008-10,Creed,5
+2008-10,Dark Tranquillity,6
+2008-10,Dredg,8
+2008-10,Gojira,2
+2008-10,Gorefest,0
+2008-10,Green Carnation,6
+2008-10,Guano Apes,5
+2008-10,Hatesphere,2
+2008-10,In Flames,3
+2008-10,Isis,1
+2008-10,Manic Street Preachers,5
+2008-10,Massive Attack,6
+2008-10,Paradise Lost,8
+2008-10,Shinedown,0
+2008-10,The Goo Goo Dolls,1
+2008-10,The Tea Party,0
+2008-10,The Wallflowers,2
+2008-11,A Perfect Circle,10
+2008-11,Blur,1
+2008-11,Cold,2
+2008-11,Creed,10
+2008-11,Dark Tranquillity,14
+2008-11,Dredg,19
+2008-11,Gojira,1
+2008-11,Gorefest,0
+2008-11,Green Carnation,10
+2008-11,Guano Apes,8
+2008-11,Hatesphere,14
+2008-11,In Flames,7
+2008-11,Isis,6
+2008-11,Manic Street Preachers,11
+2008-11,Massive Attack,11
+2008-11,Paradise Lost,10
+2008-11,Shinedown,0
+2008-11,The Goo Goo Dolls,1
+2008-11,The Tea Party,0
+2008-11,The Wallflowers,2
+2008-12,A Perfect Circle,3
+2008-12,Blur,2
+2008-12,Cold,2
+2008-12,Creed,6
+2008-12,Dark Tranquillity,3
+2008-12,Dredg,8
+2008-12,Gojira,5
+2008-12,Gorefest,0
+2008-12,Green Carnation,3
+2008-12,Guano Apes,2
+2008-12,Hatesphere,3
+2008-12,In Flames,2
+2008-12,Isis,1
+2008-12,Manic Street Preachers,25
+2008-12,Massive Attack,4
+2008-12,Paradise Lost,5
+2008-12,Shinedown,37
+2008-12,The Goo Goo Dolls,3
+2008-12,The Tea Party,29
+2008-12,The Wallflowers,4
+2009-01,A Perfect Circle,7
+2009-01,Blur,1
+2009-01,Cold,0
+2009-01,Creed,4
+2009-01,Dark Tranquillity,2
+2009-01,Dredg,9
+2009-01,Gojira,4
+2009-01,Gorefest,0
+2009-01,Green Carnation,3
+2009-01,Guano Apes,2
+2009-01,Hatesphere,4
+2009-01,In Flames,3
+2009-01,Isis,4
+2009-01,Manic Street Preachers,3
+2009-01,Massive Attack,3
+2009-01,Paradise Lost,5
+2009-01,Shinedown,0
+2009-01,The Goo Goo Dolls,0
+2009-01,The Tea Party,0
+2009-01,The Wallflowers,2
+2009-02,A Perfect Circle,0
+2009-02,Blur,2
+2009-02,Cold,1
+2009-02,Creed,1
+2009-02,Dark Tranquillity,0
+2009-02,Dredg,0
+2009-02,Gojira,0
+2009-02,Gorefest,0
+2009-02,Green Carnation,0
+2009-02,Guano Apes,0
+2009-02,Hatesphere,1
+2009-02,In Flames,0
+2009-02,Isis,0
+2009-02,Manic Street Preachers,4
+2009-02,Massive Attack,0
+2009-02,Paradise Lost,0
+2009-02,Shinedown,0
+2009-02,The Goo Goo Dolls,1
+2009-02,The Tea Party,1
+2009-02,The Wallflowers,1
+2009-03,A Perfect Circle,0
+2009-03,Blur,0
+2009-03,Cold,1
+2009-03,Creed,0
+2009-03,Dark Tranquillity,0
+2009-03,Dredg,1
+2009-03,Gojira,40
+2009-03,Gorefest,0
+2009-03,Green Carnation,1
+2009-03,Guano Apes,0
+2009-03,Hatesphere,0
+2009-03,In Flames,0
+2009-03,Isis,0
+2009-03,Manic Street Preachers,0
+2009-03,Massive Attack,1
+2009-03,Paradise Lost,0
+2009-03,Shinedown,0
+2009-03,The Goo Goo Dolls,0
+2009-03,The Tea Party,1
+2009-03,The Wallflowers,1
+2009-04,A Perfect Circle,0
+2009-04,Blur,0
+2009-04,Cold,1
+2009-04,Creed,1
+2009-04,Dark Tranquillity,0
+2009-04,Dredg,1
+2009-04,Gojira,0
+2009-04,Gorefest,0
+2009-04,Green Carnation,0
+2009-04,Guano Apes,0
+2009-04,Hatesphere,0
+2009-04,In Flames,0
+2009-04,Isis,0
+2009-04,Manic Street Preachers,3
+2009-04,Massive Attack,1
+2009-04,Paradise Lost,0
+2009-04,Shinedown,0
+2009-04,The Goo Goo Dolls,0
+2009-04,The Tea Party,3
+2009-04,The Wallflowers,2

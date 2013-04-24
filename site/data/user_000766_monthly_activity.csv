@@ -1,0 +1,581 @@
+month,artist,plays
+2006-09,Air,2
+2006-09,Bad Religion,0
+2006-09,Beck,0
+2006-09,Bloc Party,0
+2006-09,Coldplay,1
+2006-09,Death Cab For Cutie,1
+2006-09,Depeche Mode,0
+2006-09,Kaizers Orchestra,0
+2006-09,Madrugada,0
+2006-09,Muse,2
+2006-09,Placebo,1
+2006-09,Portishead,0
+2006-09,R.E.M.,0
+2006-09,Radiohead,2
+2006-09,Ralph Myerz And The Jack Herren Band,1
+2006-09,Röyksopp,1
+2006-09,System Of A Down,7
+2006-09,The Cure,1
+2006-09,The Smashing Pumpkins,0
+2006-09,Thievery Corporation,1
+2006-10,Air,30
+2006-10,Bad Religion,35
+2006-10,Beck,1
+2006-10,Bloc Party,1
+2006-10,Coldplay,70
+2006-10,Death Cab For Cutie,12
+2006-10,Depeche Mode,16
+2006-10,Kaizers Orchestra,7
+2006-10,Madrugada,19
+2006-10,Muse,43
+2006-10,Placebo,63
+2006-10,Portishead,2
+2006-10,R.E.M.,5
+2006-10,Radiohead,3
+2006-10,Ralph Myerz And The Jack Herren Band,48
+2006-10,Röyksopp,104
+2006-10,System Of A Down,14
+2006-10,The Cure,16
+2006-10,The Smashing Pumpkins,1
+2006-10,Thievery Corporation,1
+2006-11,Air,35
+2006-11,Bad Religion,33
+2006-11,Beck,0
+2006-11,Bloc Party,0
+2006-11,Coldplay,81
+2006-11,Death Cab For Cutie,19
+2006-11,Depeche Mode,26
+2006-11,Kaizers Orchestra,25
+2006-11,Madrugada,56
+2006-11,Muse,151
+2006-11,Placebo,56
+2006-11,Portishead,16
+2006-11,R.E.M.,51
+2006-11,Radiohead,3
+2006-11,Ralph Myerz And The Jack Herren Band,105
+2006-11,Röyksopp,105
+2006-11,System Of A Down,14
+2006-11,The Cure,27
+2006-11,The Smashing Pumpkins,29
+2006-11,Thievery Corporation,0
+2006-12,Air,40
+2006-12,Bad Religion,44
+2006-12,Beck,0
+2006-12,Bloc Party,0
+2006-12,Coldplay,0
+2006-12,Death Cab For Cutie,0
+2006-12,Depeche Mode,0
+2006-12,Kaizers Orchestra,78
+2006-12,Madrugada,2
+2006-12,Muse,0
+2006-12,Placebo,21
+2006-12,Portishead,0
+2006-12,R.E.M.,0
+2006-12,Radiohead,0
+2006-12,Ralph Myerz And The Jack Herren Band,74
+2006-12,Röyksopp,0
+2006-12,System Of A Down,28
+2006-12,The Cure,0
+2006-12,The Smashing Pumpkins,0
+2006-12,Thievery Corporation,0
+2007-01,Air,100
+2007-01,Bad Religion,32
+2007-01,Beck,96
+2007-01,Bloc Party,0
+2007-01,Coldplay,1
+2007-01,Death Cab For Cutie,11
+2007-01,Depeche Mode,18
+2007-01,Kaizers Orchestra,8
+2007-01,Madrugada,0
+2007-01,Muse,59
+2007-01,Placebo,27
+2007-01,Portishead,30
+2007-01,R.E.M.,14
+2007-01,Radiohead,0
+2007-01,Ralph Myerz And The Jack Herren Band,0
+2007-01,Röyksopp,0
+2007-01,System Of A Down,0
+2007-01,The Cure,0
+2007-01,The Smashing Pumpkins,115
+2007-01,Thievery Corporation,18
+2007-02,Air,7
+2007-02,Bad Religion,86
+2007-02,Beck,41
+2007-02,Bloc Party,37
+2007-02,Coldplay,16
+2007-02,Death Cab For Cutie,10
+2007-02,Depeche Mode,84
+2007-02,Kaizers Orchestra,0
+2007-02,Madrugada,25
+2007-02,Muse,16
+2007-02,Placebo,264
+2007-02,Portishead,4
+2007-02,R.E.M.,122
+2007-02,Radiohead,80
+2007-02,Ralph Myerz And The Jack Herren Band,10
+2007-02,Röyksopp,5
+2007-02,System Of A Down,67
+2007-02,The Cure,5
+2007-02,The Smashing Pumpkins,221
+2007-02,Thievery Corporation,134
+2007-03,Air,0
+2007-03,Bad Religion,2
+2007-03,Beck,37
+2007-03,Bloc Party,19
+2007-03,Coldplay,0
+2007-03,Death Cab For Cutie,17
+2007-03,Depeche Mode,1
+2007-03,Kaizers Orchestra,8
+2007-03,Madrugada,4
+2007-03,Muse,13
+2007-03,Placebo,214
+2007-03,Portishead,12
+2007-03,R.E.M.,0
+2007-03,Radiohead,10
+2007-03,Ralph Myerz And The Jack Herren Band,3
+2007-03,Röyksopp,8
+2007-03,System Of A Down,18
+2007-03,The Cure,2
+2007-03,The Smashing Pumpkins,12
+2007-03,Thievery Corporation,17
+2007-04,Air,5
+2007-04,Bad Religion,0
+2007-04,Beck,3
+2007-04,Bloc Party,1
+2007-04,Coldplay,3
+2007-04,Death Cab For Cutie,1
+2007-04,Depeche Mode,5
+2007-04,Kaizers Orchestra,2
+2007-04,Madrugada,1
+2007-04,Muse,7
+2007-04,Placebo,136
+2007-04,Portishead,3
+2007-04,R.E.M.,11
+2007-04,Radiohead,3
+2007-04,Ralph Myerz And The Jack Herren Band,19
+2007-04,Röyksopp,11
+2007-04,System Of A Down,17
+2007-04,The Cure,5
+2007-04,The Smashing Pumpkins,61
+2007-04,Thievery Corporation,4
+2007-05,Air,1
+2007-05,Bad Religion,0
+2007-05,Beck,7
+2007-05,Bloc Party,13
+2007-05,Coldplay,14
+2007-05,Death Cab For Cutie,0
+2007-05,Depeche Mode,32
+2007-05,Kaizers Orchestra,0
+2007-05,Madrugada,0
+2007-05,Muse,2
+2007-05,Placebo,184
+2007-05,Portishead,16
+2007-05,R.E.M.,28
+2007-05,Radiohead,1
+2007-05,Ralph Myerz And The Jack Herren Band,4
+2007-05,Röyksopp,82
+2007-05,System Of A Down,15
+2007-05,The Cure,33
+2007-05,The Smashing Pumpkins,43
+2007-05,Thievery Corporation,1
+2007-06,Air,3
+2007-06,Bad Religion,2
+2007-06,Beck,70
+2007-06,Bloc Party,1
+2007-06,Coldplay,3
+2007-06,Death Cab For Cutie,3
+2007-06,Depeche Mode,3
+2007-06,Kaizers Orchestra,2
+2007-06,Madrugada,1
+2007-06,Muse,5
+2007-06,Placebo,17
+2007-06,Portishead,1
+2007-06,R.E.M.,3
+2007-06,Radiohead,2
+2007-06,Ralph Myerz And The Jack Herren Band,1
+2007-06,Röyksopp,2
+2007-06,System Of A Down,4
+2007-06,The Cure,0
+2007-06,The Smashing Pumpkins,45
+2007-06,Thievery Corporation,1
+2007-07,Air,1
+2007-07,Bad Religion,0
+2007-07,Beck,69
+2007-07,Bloc Party,0
+2007-07,Coldplay,1
+2007-07,Death Cab For Cutie,1
+2007-07,Depeche Mode,0
+2007-07,Kaizers Orchestra,1
+2007-07,Madrugada,9
+2007-07,Muse,0
+2007-07,Placebo,43
+2007-07,Portishead,1
+2007-07,R.E.M.,2
+2007-07,Radiohead,0
+2007-07,Ralph Myerz And The Jack Herren Band,1
+2007-07,Röyksopp,0
+2007-07,System Of A Down,4
+2007-07,The Cure,0
+2007-07,The Smashing Pumpkins,13
+2007-07,Thievery Corporation,0
+2007-08,Air,0
+2007-08,Bad Religion,0
+2007-08,Beck,57
+2007-08,Bloc Party,0
+2007-08,Coldplay,0
+2007-08,Death Cab For Cutie,0
+2007-08,Depeche Mode,17
+2007-08,Kaizers Orchestra,0
+2007-08,Madrugada,3
+2007-08,Muse,0
+2007-08,Placebo,3
+2007-08,Portishead,0
+2007-08,R.E.M.,0
+2007-08,Radiohead,0
+2007-08,Ralph Myerz And The Jack Herren Band,1
+2007-08,Röyksopp,0
+2007-08,System Of A Down,0
+2007-08,The Cure,0
+2007-08,The Smashing Pumpkins,0
+2007-08,Thievery Corporation,0
+2007-09,Air,0
+2007-09,Bad Religion,0
+2007-09,Beck,48
+2007-09,Bloc Party,0
+2007-09,Coldplay,35
+2007-09,Death Cab For Cutie,0
+2007-09,Depeche Mode,0
+2007-09,Kaizers Orchestra,0
+2007-09,Madrugada,5
+2007-09,Muse,0
+2007-09,Placebo,18
+2007-09,Portishead,0
+2007-09,R.E.M.,0
+2007-09,Radiohead,0
+2007-09,Ralph Myerz And The Jack Herren Band,27
+2007-09,Röyksopp,0
+2007-09,System Of A Down,8
+2007-09,The Cure,0
+2007-09,The Smashing Pumpkins,18
+2007-09,Thievery Corporation,8
+2007-10,Air,0
+2007-10,Bad Religion,0
+2007-10,Beck,0
+2007-10,Bloc Party,0
+2007-10,Coldplay,0
+2007-10,Death Cab For Cutie,0
+2007-10,Depeche Mode,0
+2007-10,Kaizers Orchestra,0
+2007-10,Madrugada,0
+2007-10,Muse,0
+2007-10,Placebo,0
+2007-10,Portishead,0
+2007-10,R.E.M.,0
+2007-10,Radiohead,0
+2007-10,Ralph Myerz And The Jack Herren Band,0
+2007-10,Röyksopp,0
+2007-10,System Of A Down,0
+2007-10,The Cure,0
+2007-10,The Smashing Pumpkins,0
+2007-10,Thievery Corporation,0
+2007-11,Air,0
+2007-11,Bad Religion,0
+2007-11,Beck,0
+2007-11,Bloc Party,0
+2007-11,Coldplay,0
+2007-11,Death Cab For Cutie,0
+2007-11,Depeche Mode,0
+2007-11,Kaizers Orchestra,0
+2007-11,Madrugada,0
+2007-11,Muse,0
+2007-11,Placebo,13
+2007-11,Portishead,0
+2007-11,R.E.M.,0
+2007-11,Radiohead,0
+2007-11,Ralph Myerz And The Jack Herren Band,0
+2007-11,Röyksopp,22
+2007-11,System Of A Down,0
+2007-11,The Cure,0
+2007-11,The Smashing Pumpkins,0
+2007-11,Thievery Corporation,0
+2007-12,Air,0
+2007-12,Bad Religion,34
+2007-12,Beck,12
+2007-12,Bloc Party,0
+2007-12,Coldplay,0
+2007-12,Death Cab For Cutie,0
+2007-12,Depeche Mode,38
+2007-12,Kaizers Orchestra,0
+2007-12,Madrugada,0
+2007-12,Muse,0
+2007-12,Placebo,17
+2007-12,Portishead,0
+2007-12,R.E.M.,33
+2007-12,Radiohead,0
+2007-12,Ralph Myerz And The Jack Herren Band,0
+2007-12,Röyksopp,0
+2007-12,System Of A Down,0
+2007-12,The Cure,0
+2007-12,The Smashing Pumpkins,10
+2007-12,Thievery Corporation,0
+2008-01,Air,0
+2008-01,Bad Religion,4
+2008-01,Beck,35
+2008-01,Bloc Party,0
+2008-01,Coldplay,5
+2008-01,Death Cab For Cutie,0
+2008-01,Depeche Mode,0
+2008-01,Kaizers Orchestra,1
+2008-01,Madrugada,88
+2008-01,Muse,0
+2008-01,Placebo,42
+2008-01,Portishead,0
+2008-01,R.E.M.,0
+2008-01,Radiohead,17
+2008-01,Ralph Myerz And The Jack Herren Band,0
+2008-01,Röyksopp,0
+2008-01,System Of A Down,0
+2008-01,The Cure,8
+2008-01,The Smashing Pumpkins,42
+2008-01,Thievery Corporation,0
+2008-02,Air,0
+2008-02,Bad Religion,0
+2008-02,Beck,8
+2008-02,Bloc Party,0
+2008-02,Coldplay,0
+2008-02,Death Cab For Cutie,0
+2008-02,Depeche Mode,0
+2008-02,Kaizers Orchestra,0
+2008-02,Madrugada,0
+2008-02,Muse,0
+2008-02,Placebo,4
+2008-02,Portishead,11
+2008-02,R.E.M.,0
+2008-02,Radiohead,0
+2008-02,Ralph Myerz And The Jack Herren Band,2
+2008-02,Röyksopp,7
+2008-02,System Of A Down,0
+2008-02,The Cure,0
+2008-02,The Smashing Pumpkins,5
+2008-02,Thievery Corporation,0
+2008-03,Air,0
+2008-03,Bad Religion,0
+2008-03,Beck,0
+2008-03,Bloc Party,0
+2008-03,Coldplay,0
+2008-03,Death Cab For Cutie,0
+2008-03,Depeche Mode,0
+2008-03,Kaizers Orchestra,3
+2008-03,Madrugada,2
+2008-03,Muse,0
+2008-03,Placebo,0
+2008-03,Portishead,0
+2008-03,R.E.M.,0
+2008-03,Radiohead,0
+2008-03,Ralph Myerz And The Jack Herren Band,0
+2008-03,Röyksopp,0
+2008-03,System Of A Down,0
+2008-03,The Cure,0
+2008-03,The Smashing Pumpkins,0
+2008-03,Thievery Corporation,0
+2008-04,Air,0
+2008-04,Bad Religion,0
+2008-04,Beck,1
+2008-04,Bloc Party,1
+2008-04,Coldplay,0
+2008-04,Death Cab For Cutie,0
+2008-04,Depeche Mode,0
+2008-04,Kaizers Orchestra,0
+2008-04,Madrugada,0
+2008-04,Muse,0
+2008-04,Placebo,2
+2008-04,Portishead,0
+2008-04,R.E.M.,1
+2008-04,Radiohead,1
+2008-04,Ralph Myerz And The Jack Herren Band,0
+2008-04,Röyksopp,2
+2008-04,System Of A Down,0
+2008-04,The Cure,1
+2008-04,The Smashing Pumpkins,1
+2008-04,Thievery Corporation,0
+2008-05,Air,0
+2008-05,Bad Religion,0
+2008-05,Beck,1
+2008-05,Bloc Party,2
+2008-05,Coldplay,1
+2008-05,Death Cab For Cutie,0
+2008-05,Depeche Mode,1
+2008-05,Kaizers Orchestra,0
+2008-05,Madrugada,0
+2008-05,Muse,4
+2008-05,Placebo,14
+2008-05,Portishead,0
+2008-05,R.E.M.,1
+2008-05,Radiohead,5
+2008-05,Ralph Myerz And The Jack Herren Band,0
+2008-05,Röyksopp,0
+2008-05,System Of A Down,6
+2008-05,The Cure,4
+2008-05,The Smashing Pumpkins,7
+2008-05,Thievery Corporation,0
+2008-06,Air,0
+2008-06,Bad Religion,0
+2008-06,Beck,0
+2008-06,Bloc Party,0
+2008-06,Coldplay,0
+2008-06,Death Cab For Cutie,0
+2008-06,Depeche Mode,0
+2008-06,Kaizers Orchestra,0
+2008-06,Madrugada,0
+2008-06,Muse,0
+2008-06,Placebo,0
+2008-06,Portishead,0
+2008-06,R.E.M.,0
+2008-06,Radiohead,0
+2008-06,Ralph Myerz And The Jack Herren Band,0
+2008-06,Röyksopp,0
+2008-06,System Of A Down,0
+2008-06,The Cure,0
+2008-06,The Smashing Pumpkins,0
+2008-06,Thievery Corporation,0
+2008-07,Air,0
+2008-07,Bad Religion,0
+2008-07,Beck,0
+2008-07,Bloc Party,1
+2008-07,Coldplay,0
+2008-07,Death Cab For Cutie,0
+2008-07,Depeche Mode,3
+2008-07,Kaizers Orchestra,0
+2008-07,Madrugada,9
+2008-07,Muse,0
+2008-07,Placebo,5
+2008-07,Portishead,0
+2008-07,R.E.M.,1
+2008-07,Radiohead,3
+2008-07,Ralph Myerz And The Jack Herren Band,0
+2008-07,Röyksopp,0
+2008-07,System Of A Down,1
+2008-07,The Cure,2
+2008-07,The Smashing Pumpkins,7
+2008-07,Thievery Corporation,0
+2008-08,Air,0
+2008-08,Bad Religion,0
+2008-08,Beck,0
+2008-08,Bloc Party,0
+2008-08,Coldplay,0
+2008-08,Death Cab For Cutie,0
+2008-08,Depeche Mode,0
+2008-08,Kaizers Orchestra,0
+2008-08,Madrugada,1
+2008-08,Muse,0
+2008-08,Placebo,0
+2008-08,Portishead,0
+2008-08,R.E.M.,0
+2008-08,Radiohead,0
+2008-08,Ralph Myerz And The Jack Herren Band,0
+2008-08,Röyksopp,0
+2008-08,System Of A Down,0
+2008-08,The Cure,0
+2008-08,The Smashing Pumpkins,1
+2008-08,Thievery Corporation,1
+2008-09,Air,0
+2008-09,Bad Religion,1
+2008-09,Beck,0
+2008-09,Bloc Party,0
+2008-09,Coldplay,0
+2008-09,Death Cab For Cutie,0
+2008-09,Depeche Mode,0
+2008-09,Kaizers Orchestra,0
+2008-09,Madrugada,1
+2008-09,Muse,0
+2008-09,Placebo,0
+2008-09,Portishead,0
+2008-09,R.E.M.,0
+2008-09,Radiohead,0
+2008-09,Ralph Myerz And The Jack Herren Band,0
+2008-09,Röyksopp,0
+2008-09,System Of A Down,0
+2008-09,The Cure,0
+2008-09,The Smashing Pumpkins,1
+2008-09,Thievery Corporation,0
+2008-10,Air,0
+2008-10,Bad Religion,0
+2008-10,Beck,0
+2008-10,Bloc Party,0
+2008-10,Coldplay,5
+2008-10,Death Cab For Cutie,0
+2008-10,Depeche Mode,0
+2008-10,Kaizers Orchestra,0
+2008-10,Madrugada,3
+2008-10,Muse,0
+2008-10,Placebo,0
+2008-10,Portishead,0
+2008-10,R.E.M.,0
+2008-10,Radiohead,0
+2008-10,Ralph Myerz And The Jack Herren Band,0
+2008-10,Röyksopp,0
+2008-10,System Of A Down,0
+2008-10,The Cure,0
+2008-10,The Smashing Pumpkins,0
+2008-10,Thievery Corporation,0
+2008-11,Air,0
+2008-11,Bad Religion,0
+2008-11,Beck,0
+2008-11,Bloc Party,0
+2008-11,Coldplay,2
+2008-11,Death Cab For Cutie,0
+2008-11,Depeche Mode,0
+2008-11,Kaizers Orchestra,0
+2008-11,Madrugada,0
+2008-11,Muse,0
+2008-11,Placebo,0
+2008-11,Portishead,0
+2008-11,R.E.M.,0
+2008-11,Radiohead,0
+2008-11,Ralph Myerz And The Jack Herren Band,0
+2008-11,Röyksopp,0
+2008-11,System Of A Down,0
+2008-11,The Cure,0
+2008-11,The Smashing Pumpkins,0
+2008-11,Thievery Corporation,0
+2008-12,Air,0
+2008-12,Bad Religion,0
+2008-12,Beck,0
+2008-12,Bloc Party,0
+2008-12,Coldplay,0
+2008-12,Death Cab For Cutie,0
+2008-12,Depeche Mode,0
+2008-12,Kaizers Orchestra,0
+2008-12,Madrugada,0
+2008-12,Muse,0
+2008-12,Placebo,0
+2008-12,Portishead,0
+2008-12,R.E.M.,0
+2008-12,Radiohead,0
+2008-12,Ralph Myerz And The Jack Herren Band,0
+2008-12,Röyksopp,0
+2008-12,System Of A Down,0
+2008-12,The Cure,0
+2008-12,The Smashing Pumpkins,0
+2008-12,Thievery Corporation,0
+2009-01,Air,0
+2009-01,Bad Religion,0
+2009-01,Beck,0
+2009-01,Bloc Party,0
+2009-01,Coldplay,0
+2009-01,Death Cab For Cutie,0
+2009-01,Depeche Mode,0
+2009-01,Kaizers Orchestra,0
+2009-01,Madrugada,0
+2009-01,Muse,0
+2009-01,Placebo,5
+2009-01,Portishead,0
+2009-01,R.E.M.,0
+2009-01,Radiohead,0
+2009-01,Ralph Myerz And The Jack Herren Band,0
+2009-01,Röyksopp,0
+2009-01,System Of A Down,0
+2009-01,The Cure,0
+2009-01,The Smashing Pumpkins,0
+2009-01,Thievery Corporation,0

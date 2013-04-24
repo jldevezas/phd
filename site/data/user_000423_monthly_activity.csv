@@ -1,0 +1,721 @@
+month,artist,plays
+2006-06,Arctic Monkeys,72
+2006-06,Basement Jaxx,0
+2006-06,Beck,0
+2006-06,Ben Harper,384
+2006-06,Blue Man Group,0
+2006-06,Cassius,0
+2006-06,Coldplay,8
+2006-06,David Gray,90
+2006-06,Hard-Fi,54
+2006-06,Jack Johnson,27
+2006-06,Jamiroquai,9
+2006-06,Mando Diao,0
+2006-06,Matt Costa,101
+2006-06,Moby,20
+2006-06,Phil Collins,7
+2006-06,R.E.M.,9
+2006-06,Red Hot Chili Peppers,99
+2006-06,The Beatles,3
+2006-06,The Kooks,0
+2006-06,U2,17
+2006-07,Arctic Monkeys,1
+2006-07,Basement Jaxx,0
+2006-07,Beck,0
+2006-07,Ben Harper,4
+2006-07,Blue Man Group,228
+2006-07,Cassius,0
+2006-07,Coldplay,0
+2006-07,David Gray,1
+2006-07,Hard-Fi,1
+2006-07,Jack Johnson,4
+2006-07,Jamiroquai,55
+2006-07,Mando Diao,0
+2006-07,Matt Costa,2
+2006-07,Moby,5
+2006-07,Phil Collins,2
+2006-07,R.E.M.,1
+2006-07,Red Hot Chili Peppers,24
+2006-07,The Beatles,1
+2006-07,The Kooks,0
+2006-07,U2,2
+2006-08,Arctic Monkeys,8
+2006-08,Basement Jaxx,1
+2006-08,Beck,0
+2006-08,Ben Harper,18
+2006-08,Blue Man Group,1286
+2006-08,Cassius,0
+2006-08,Coldplay,5
+2006-08,David Gray,223
+2006-08,Hard-Fi,8
+2006-08,Jack Johnson,16
+2006-08,Jamiroquai,136
+2006-08,Mando Diao,0
+2006-08,Matt Costa,0
+2006-08,Moby,16
+2006-08,Phil Collins,2
+2006-08,R.E.M.,0
+2006-08,Red Hot Chili Peppers,14
+2006-08,The Beatles,0
+2006-08,The Kooks,0
+2006-08,U2,1
+2006-09,Arctic Monkeys,0
+2006-09,Basement Jaxx,0
+2006-09,Beck,0
+2006-09,Ben Harper,7
+2006-09,Blue Man Group,69
+2006-09,Cassius,0
+2006-09,Coldplay,1
+2006-09,David Gray,149
+2006-09,Hard-Fi,1
+2006-09,Jack Johnson,1
+2006-09,Jamiroquai,76
+2006-09,Mando Diao,0
+2006-09,Matt Costa,1
+2006-09,Moby,85
+2006-09,Phil Collins,1
+2006-09,R.E.M.,1
+2006-09,Red Hot Chili Peppers,7
+2006-09,The Beatles,6
+2006-09,The Kooks,0
+2006-09,U2,4
+2006-10,Arctic Monkeys,0
+2006-10,Basement Jaxx,74
+2006-10,Beck,75
+2006-10,Ben Harper,43
+2006-10,Blue Man Group,5
+2006-10,Cassius,0
+2006-10,Coldplay,12
+2006-10,David Gray,6
+2006-10,Hard-Fi,1
+2006-10,Jack Johnson,3
+2006-10,Jamiroquai,56
+2006-10,Mando Diao,82
+2006-10,Matt Costa,6
+2006-10,Moby,9
+2006-10,Phil Collins,0
+2006-10,R.E.M.,119
+2006-10,Red Hot Chili Peppers,13
+2006-10,The Beatles,0
+2006-10,The Kooks,0
+2006-10,U2,1
+2006-11,Arctic Monkeys,17
+2006-11,Basement Jaxx,7
+2006-11,Beck,46
+2006-11,Ben Harper,20
+2006-11,Blue Man Group,14
+2006-11,Cassius,58
+2006-11,Coldplay,372
+2006-11,David Gray,159
+2006-11,Hard-Fi,2
+2006-11,Jack Johnson,10
+2006-11,Jamiroquai,52
+2006-11,Mando Diao,149
+2006-11,Matt Costa,21
+2006-11,Moby,44
+2006-11,Phil Collins,0
+2006-11,R.E.M.,33
+2006-11,Red Hot Chili Peppers,46
+2006-11,The Beatles,1
+2006-11,The Kooks,0
+2006-11,U2,5
+2006-12,Arctic Monkeys,71
+2006-12,Basement Jaxx,25
+2006-12,Beck,37
+2006-12,Ben Harper,11
+2006-12,Blue Man Group,121
+2006-12,Cassius,97
+2006-12,Coldplay,105
+2006-12,David Gray,273
+2006-12,Hard-Fi,6
+2006-12,Jack Johnson,33
+2006-12,Jamiroquai,24
+2006-12,Mando Diao,23
+2006-12,Matt Costa,64
+2006-12,Moby,97
+2006-12,Phil Collins,2
+2006-12,R.E.M.,98
+2006-12,Red Hot Chili Peppers,21
+2006-12,The Beatles,4
+2006-12,The Kooks,0
+2006-12,U2,5
+2007-01,Arctic Monkeys,30
+2007-01,Basement Jaxx,92
+2007-01,Beck,13
+2007-01,Ben Harper,2
+2007-01,Blue Man Group,62
+2007-01,Cassius,17
+2007-01,Coldplay,21
+2007-01,David Gray,43
+2007-01,Hard-Fi,2
+2007-01,Jack Johnson,3
+2007-01,Jamiroquai,4
+2007-01,Mando Diao,32
+2007-01,Matt Costa,0
+2007-01,Moby,2
+2007-01,Phil Collins,0
+2007-01,R.E.M.,19
+2007-01,Red Hot Chili Peppers,12
+2007-01,The Beatles,0
+2007-01,The Kooks,20
+2007-01,U2,2
+2007-02,Arctic Monkeys,22
+2007-02,Basement Jaxx,0
+2007-02,Beck,48
+2007-02,Ben Harper,0
+2007-02,Blue Man Group,0
+2007-02,Cassius,23
+2007-02,Coldplay,1
+2007-02,David Gray,0
+2007-02,Hard-Fi,13
+2007-02,Jack Johnson,0
+2007-02,Jamiroquai,0
+2007-02,Mando Diao,2
+2007-02,Matt Costa,0
+2007-02,Moby,13
+2007-02,Phil Collins,0
+2007-02,R.E.M.,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,The Beatles,2
+2007-02,The Kooks,149
+2007-02,U2,5
+2007-03,Arctic Monkeys,0
+2007-03,Basement Jaxx,0
+2007-03,Beck,4
+2007-03,Ben Harper,0
+2007-03,Blue Man Group,0
+2007-03,Cassius,24
+2007-03,Coldplay,17
+2007-03,David Gray,0
+2007-03,Hard-Fi,0
+2007-03,Jack Johnson,61
+2007-03,Jamiroquai,0
+2007-03,Mando Diao,0
+2007-03,Matt Costa,15
+2007-03,Moby,0
+2007-03,Phil Collins,0
+2007-03,R.E.M.,61
+2007-03,Red Hot Chili Peppers,0
+2007-03,The Beatles,25
+2007-03,The Kooks,8
+2007-03,U2,0
+2007-04,Arctic Monkeys,15
+2007-04,Basement Jaxx,1
+2007-04,Beck,28
+2007-04,Ben Harper,2
+2007-04,Blue Man Group,2
+2007-04,Cassius,4
+2007-04,Coldplay,2
+2007-04,David Gray,11
+2007-04,Hard-Fi,4
+2007-04,Jack Johnson,5
+2007-04,Jamiroquai,1
+2007-04,Mando Diao,3
+2007-04,Matt Costa,4
+2007-04,Moby,15
+2007-04,Phil Collins,85
+2007-04,R.E.M.,1
+2007-04,Red Hot Chili Peppers,36
+2007-04,The Beatles,0
+2007-04,The Kooks,7
+2007-04,U2,1
+2007-05,Arctic Monkeys,13
+2007-05,Basement Jaxx,0
+2007-05,Beck,27
+2007-05,Ben Harper,2
+2007-05,Blue Man Group,5
+2007-05,Cassius,10
+2007-05,Coldplay,10
+2007-05,David Gray,97
+2007-05,Hard-Fi,3
+2007-05,Jack Johnson,1
+2007-05,Jamiroquai,6
+2007-05,Mando Diao,39
+2007-05,Matt Costa,1
+2007-05,Moby,37
+2007-05,Phil Collins,3
+2007-05,R.E.M.,1
+2007-05,Red Hot Chili Peppers,1
+2007-05,The Beatles,0
+2007-05,The Kooks,5
+2007-05,U2,1
+2007-06,Arctic Monkeys,3
+2007-06,Basement Jaxx,15
+2007-06,Beck,27
+2007-06,Ben Harper,12
+2007-06,Blue Man Group,13
+2007-06,Cassius,6
+2007-06,Coldplay,53
+2007-06,David Gray,4
+2007-06,Hard-Fi,3
+2007-06,Jack Johnson,3
+2007-06,Jamiroquai,4
+2007-06,Mando Diao,0
+2007-06,Matt Costa,2
+2007-06,Moby,4
+2007-06,Phil Collins,2
+2007-06,R.E.M.,28
+2007-06,Red Hot Chili Peppers,15
+2007-06,The Beatles,36
+2007-06,The Kooks,16
+2007-06,U2,56
+2007-07,Arctic Monkeys,0
+2007-07,Basement Jaxx,1
+2007-07,Beck,1
+2007-07,Ben Harper,29
+2007-07,Blue Man Group,18
+2007-07,Cassius,2
+2007-07,Coldplay,57
+2007-07,David Gray,12
+2007-07,Hard-Fi,1
+2007-07,Jack Johnson,5
+2007-07,Jamiroquai,13
+2007-07,Mando Diao,87
+2007-07,Matt Costa,0
+2007-07,Moby,6
+2007-07,Phil Collins,0
+2007-07,R.E.M.,7
+2007-07,Red Hot Chili Peppers,6
+2007-07,The Beatles,0
+2007-07,The Kooks,26
+2007-07,U2,7
+2007-08,Arctic Monkeys,7
+2007-08,Basement Jaxx,4
+2007-08,Beck,72
+2007-08,Ben Harper,3
+2007-08,Blue Man Group,12
+2007-08,Cassius,3
+2007-08,Coldplay,2
+2007-08,David Gray,19
+2007-08,Hard-Fi,73
+2007-08,Jack Johnson,5
+2007-08,Jamiroquai,4
+2007-08,Mando Diao,119
+2007-08,Matt Costa,0
+2007-08,Moby,4
+2007-08,Phil Collins,0
+2007-08,R.E.M.,3
+2007-08,Red Hot Chili Peppers,6
+2007-08,The Beatles,3
+2007-08,The Kooks,2
+2007-08,U2,2
+2007-09,Arctic Monkeys,18
+2007-09,Basement Jaxx,16
+2007-09,Beck,47
+2007-09,Ben Harper,0
+2007-09,Blue Man Group,3
+2007-09,Cassius,1
+2007-09,Coldplay,17
+2007-09,David Gray,47
+2007-09,Hard-Fi,41
+2007-09,Jack Johnson,60
+2007-09,Jamiroquai,13
+2007-09,Mando Diao,61
+2007-09,Matt Costa,14
+2007-09,Moby,7
+2007-09,Phil Collins,8
+2007-09,R.E.M.,33
+2007-09,Red Hot Chili Peppers,9
+2007-09,The Beatles,1
+2007-09,The Kooks,46
+2007-09,U2,0
+2007-10,Arctic Monkeys,8
+2007-10,Basement Jaxx,16
+2007-10,Beck,16
+2007-10,Ben Harper,4
+2007-10,Blue Man Group,47
+2007-10,Cassius,6
+2007-10,Coldplay,16
+2007-10,David Gray,1
+2007-10,Hard-Fi,19
+2007-10,Jack Johnson,12
+2007-10,Jamiroquai,30
+2007-10,Mando Diao,50
+2007-10,Matt Costa,2
+2007-10,Moby,2
+2007-10,Phil Collins,1
+2007-10,R.E.M.,16
+2007-10,Red Hot Chili Peppers,16
+2007-10,The Beatles,30
+2007-10,The Kooks,23
+2007-10,U2,7
+2007-11,Arctic Monkeys,7
+2007-11,Basement Jaxx,19
+2007-11,Beck,14
+2007-11,Ben Harper,26
+2007-11,Blue Man Group,7
+2007-11,Cassius,23
+2007-11,Coldplay,17
+2007-11,David Gray,5
+2007-11,Hard-Fi,2
+2007-11,Jack Johnson,4
+2007-11,Jamiroquai,2
+2007-11,Mando Diao,84
+2007-11,Matt Costa,29
+2007-11,Moby,35
+2007-11,Phil Collins,8
+2007-11,R.E.M.,0
+2007-11,Red Hot Chili Peppers,34
+2007-11,The Beatles,13
+2007-11,The Kooks,4
+2007-11,U2,22
+2007-12,Arctic Monkeys,18
+2007-12,Basement Jaxx,20
+2007-12,Beck,52
+2007-12,Ben Harper,20
+2007-12,Blue Man Group,1
+2007-12,Cassius,9
+2007-12,Coldplay,1
+2007-12,David Gray,1
+2007-12,Hard-Fi,10
+2007-12,Jack Johnson,13
+2007-12,Jamiroquai,15
+2007-12,Mando Diao,72
+2007-12,Matt Costa,0
+2007-12,Moby,9
+2007-12,Phil Collins,0
+2007-12,R.E.M.,3
+2007-12,Red Hot Chili Peppers,2
+2007-12,The Beatles,8
+2007-12,The Kooks,9
+2007-12,U2,3
+2008-01,Arctic Monkeys,0
+2008-01,Basement Jaxx,4
+2008-01,Beck,148
+2008-01,Ben Harper,31
+2008-01,Blue Man Group,8
+2008-01,Cassius,15
+2008-01,Coldplay,23
+2008-01,David Gray,13
+2008-01,Hard-Fi,5
+2008-01,Jack Johnson,40
+2008-01,Jamiroquai,1
+2008-01,Mando Diao,12
+2008-01,Matt Costa,0
+2008-01,Moby,64
+2008-01,Phil Collins,1
+2008-01,R.E.M.,5
+2008-01,Red Hot Chili Peppers,30
+2008-01,The Beatles,32
+2008-01,The Kooks,16
+2008-01,U2,3
+2008-02,Arctic Monkeys,0
+2008-02,Basement Jaxx,0
+2008-02,Beck,0
+2008-02,Ben Harper,1
+2008-02,Blue Man Group,0
+2008-02,Cassius,0
+2008-02,Coldplay,0
+2008-02,David Gray,0
+2008-02,Hard-Fi,0
+2008-02,Jack Johnson,11
+2008-02,Jamiroquai,0
+2008-02,Mando Diao,0
+2008-02,Matt Costa,0
+2008-02,Moby,0
+2008-02,Phil Collins,0
+2008-02,R.E.M.,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,The Beatles,0
+2008-02,The Kooks,1
+2008-02,U2,0
+2008-03,Arctic Monkeys,0
+2008-03,Basement Jaxx,21
+2008-03,Beck,12
+2008-03,Ben Harper,2
+2008-03,Blue Man Group,0
+2008-03,Cassius,1
+2008-03,Coldplay,3
+2008-03,David Gray,1
+2008-03,Hard-Fi,7
+2008-03,Jack Johnson,0
+2008-03,Jamiroquai,0
+2008-03,Mando Diao,0
+2008-03,Matt Costa,1
+2008-03,Moby,28
+2008-03,Phil Collins,0
+2008-03,R.E.M.,1
+2008-03,Red Hot Chili Peppers,1
+2008-03,The Beatles,8
+2008-03,The Kooks,11
+2008-03,U2,0
+2008-04,Arctic Monkeys,4
+2008-04,Basement Jaxx,3
+2008-04,Beck,6
+2008-04,Ben Harper,17
+2008-04,Blue Man Group,0
+2008-04,Cassius,1
+2008-04,Coldplay,1
+2008-04,David Gray,6
+2008-04,Hard-Fi,0
+2008-04,Jack Johnson,17
+2008-04,Jamiroquai,2
+2008-04,Mando Diao,5
+2008-04,Matt Costa,15
+2008-04,Moby,23
+2008-04,Phil Collins,9
+2008-04,R.E.M.,3
+2008-04,Red Hot Chili Peppers,33
+2008-04,The Beatles,4
+2008-04,The Kooks,5
+2008-04,U2,2
+2008-05,Arctic Monkeys,3
+2008-05,Basement Jaxx,1
+2008-05,Beck,1
+2008-05,Ben Harper,5
+2008-05,Blue Man Group,1
+2008-05,Cassius,11
+2008-05,Coldplay,31
+2008-05,David Gray,3
+2008-05,Hard-Fi,0
+2008-05,Jack Johnson,126
+2008-05,Jamiroquai,5
+2008-05,Mando Diao,1
+2008-05,Matt Costa,20
+2008-05,Moby,19
+2008-05,Phil Collins,0
+2008-05,R.E.M.,13
+2008-05,Red Hot Chili Peppers,16
+2008-05,The Beatles,2
+2008-05,The Kooks,1
+2008-05,U2,8
+2008-06,Arctic Monkeys,1
+2008-06,Basement Jaxx,2
+2008-06,Beck,53
+2008-06,Ben Harper,9
+2008-06,Blue Man Group,2
+2008-06,Cassius,0
+2008-06,Coldplay,69
+2008-06,David Gray,11
+2008-06,Hard-Fi,0
+2008-06,Jack Johnson,115
+2008-06,Jamiroquai,6
+2008-06,Mando Diao,27
+2008-06,Matt Costa,88
+2008-06,Moby,6
+2008-06,Phil Collins,0
+2008-06,R.E.M.,9
+2008-06,Red Hot Chili Peppers,0
+2008-06,The Beatles,2
+2008-06,The Kooks,0
+2008-06,U2,3
+2008-07,Arctic Monkeys,0
+2008-07,Basement Jaxx,20
+2008-07,Beck,118
+2008-07,Ben Harper,10
+2008-07,Blue Man Group,2
+2008-07,Cassius,2
+2008-07,Coldplay,42
+2008-07,David Gray,9
+2008-07,Hard-Fi,7
+2008-07,Jack Johnson,3
+2008-07,Jamiroquai,10
+2008-07,Mando Diao,61
+2008-07,Matt Costa,72
+2008-07,Moby,6
+2008-07,Phil Collins,1
+2008-07,R.E.M.,9
+2008-07,Red Hot Chili Peppers,9
+2008-07,The Beatles,26
+2008-07,The Kooks,0
+2008-07,U2,12
+2008-08,Arctic Monkeys,14
+2008-08,Basement Jaxx,1
+2008-08,Beck,10
+2008-08,Ben Harper,16
+2008-08,Blue Man Group,1
+2008-08,Cassius,4
+2008-08,Coldplay,30
+2008-08,David Gray,1
+2008-08,Hard-Fi,5
+2008-08,Jack Johnson,33
+2008-08,Jamiroquai,12
+2008-08,Mando Diao,14
+2008-08,Matt Costa,20
+2008-08,Moby,28
+2008-08,Phil Collins,2
+2008-08,R.E.M.,9
+2008-08,Red Hot Chili Peppers,2
+2008-08,The Beatles,1
+2008-08,The Kooks,0
+2008-08,U2,2
+2008-09,Arctic Monkeys,0
+2008-09,Basement Jaxx,0
+2008-09,Beck,0
+2008-09,Ben Harper,4
+2008-09,Blue Man Group,1
+2008-09,Cassius,0
+2008-09,Coldplay,94
+2008-09,David Gray,12
+2008-09,Hard-Fi,0
+2008-09,Jack Johnson,45
+2008-09,Jamiroquai,0
+2008-09,Mando Diao,4
+2008-09,Matt Costa,70
+2008-09,Moby,0
+2008-09,Phil Collins,1
+2008-09,R.E.M.,2
+2008-09,Red Hot Chili Peppers,9
+2008-09,The Beatles,0
+2008-09,The Kooks,2
+2008-09,U2,0
+2008-10,Arctic Monkeys,0
+2008-10,Basement Jaxx,0
+2008-10,Beck,0
+2008-10,Ben Harper,2
+2008-10,Blue Man Group,0
+2008-10,Cassius,1
+2008-10,Coldplay,51
+2008-10,David Gray,1
+2008-10,Hard-Fi,2
+2008-10,Jack Johnson,33
+2008-10,Jamiroquai,0
+2008-10,Mando Diao,0
+2008-10,Matt Costa,77
+2008-10,Moby,1
+2008-10,Phil Collins,3
+2008-10,R.E.M.,2
+2008-10,Red Hot Chili Peppers,1
+2008-10,The Beatles,0
+2008-10,The Kooks,0
+2008-10,U2,1
+2008-11,Arctic Monkeys,0
+2008-11,Basement Jaxx,0
+2008-11,Beck,3
+2008-11,Ben Harper,2
+2008-11,Blue Man Group,0
+2008-11,Cassius,18
+2008-11,Coldplay,51
+2008-11,David Gray,3
+2008-11,Hard-Fi,0
+2008-11,Jack Johnson,6
+2008-11,Jamiroquai,0
+2008-11,Mando Diao,0
+2008-11,Matt Costa,20
+2008-11,Moby,2
+2008-11,Phil Collins,0
+2008-11,R.E.M.,11
+2008-11,Red Hot Chili Peppers,0
+2008-11,The Beatles,0
+2008-11,The Kooks,2
+2008-11,U2,0
+2008-12,Arctic Monkeys,1
+2008-12,Basement Jaxx,0
+2008-12,Beck,4
+2008-12,Ben Harper,3
+2008-12,Blue Man Group,0
+2008-12,Cassius,3
+2008-12,Coldplay,4
+2008-12,David Gray,10
+2008-12,Hard-Fi,1
+2008-12,Jack Johnson,65
+2008-12,Jamiroquai,34
+2008-12,Mando Diao,0
+2008-12,Matt Costa,37
+2008-12,Moby,15
+2008-12,Phil Collins,1
+2008-12,R.E.M.,0
+2008-12,Red Hot Chili Peppers,0
+2008-12,The Beatles,0
+2008-12,The Kooks,0
+2008-12,U2,0
+2009-01,Arctic Monkeys,0
+2009-01,Basement Jaxx,38
+2009-01,Beck,3
+2009-01,Ben Harper,13
+2009-01,Blue Man Group,7
+2009-01,Cassius,1
+2009-01,Coldplay,6
+2009-01,David Gray,1
+2009-01,Hard-Fi,0
+2009-01,Jack Johnson,19
+2009-01,Jamiroquai,25
+2009-01,Mando Diao,8
+2009-01,Matt Costa,34
+2009-01,Moby,2
+2009-01,Phil Collins,29
+2009-01,R.E.M.,5
+2009-01,Red Hot Chili Peppers,1
+2009-01,The Beatles,0
+2009-01,The Kooks,2
+2009-01,U2,22
+2009-02,Arctic Monkeys,0
+2009-02,Basement Jaxx,2
+2009-02,Beck,0
+2009-02,Ben Harper,0
+2009-02,Blue Man Group,19
+2009-02,Cassius,0
+2009-02,Coldplay,42
+2009-02,David Gray,0
+2009-02,Hard-Fi,1
+2009-02,Jack Johnson,36
+2009-02,Jamiroquai,0
+2009-02,Mando Diao,0
+2009-02,Matt Costa,23
+2009-02,Moby,19
+2009-02,Phil Collins,0
+2009-02,R.E.M.,0
+2009-02,Red Hot Chili Peppers,3
+2009-02,The Beatles,10
+2009-02,The Kooks,0
+2009-02,U2,0
+2009-03,Arctic Monkeys,0
+2009-03,Basement Jaxx,0
+2009-03,Beck,0
+2009-03,Ben Harper,4
+2009-03,Blue Man Group,1
+2009-03,Cassius,7
+2009-03,Coldplay,80
+2009-03,David Gray,5
+2009-03,Hard-Fi,5
+2009-03,Jack Johnson,116
+2009-03,Jamiroquai,0
+2009-03,Mando Diao,2
+2009-03,Matt Costa,33
+2009-03,Moby,0
+2009-03,Phil Collins,5
+2009-03,R.E.M.,5
+2009-03,Red Hot Chili Peppers,4
+2009-03,The Beatles,2
+2009-03,The Kooks,0
+2009-03,U2,0
+2009-04,Arctic Monkeys,0
+2009-04,Basement Jaxx,0
+2009-04,Beck,0
+2009-04,Ben Harper,3
+2009-04,Blue Man Group,5
+2009-04,Cassius,2
+2009-04,Coldplay,49
+2009-04,David Gray,0
+2009-04,Hard-Fi,0
+2009-04,Jack Johnson,0
+2009-04,Jamiroquai,6
+2009-04,Mando Diao,0
+2009-04,Matt Costa,32
+2009-04,Moby,0
+2009-04,Phil Collins,17
+2009-04,R.E.M.,0
+2009-04,Red Hot Chili Peppers,34
+2009-04,The Beatles,2
+2009-04,The Kooks,15
+2009-04,U2,5
+2009-05,Arctic Monkeys,0
+2009-05,Basement Jaxx,0
+2009-05,Beck,0
+2009-05,Ben Harper,0
+2009-05,Blue Man Group,0
+2009-05,Cassius,0
+2009-05,Coldplay,0
+2009-05,David Gray,0
+2009-05,Hard-Fi,0
+2009-05,Jack Johnson,0
+2009-05,Jamiroquai,0
+2009-05,Mando Diao,0
+2009-05,Matt Costa,0
+2009-05,Moby,0
+2009-05,Phil Collins,13
+2009-05,R.E.M.,0
+2009-05,Red Hot Chili Peppers,0
+2009-05,The Beatles,0
+2009-05,The Kooks,0
+2009-05,U2,0

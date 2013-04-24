@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,3 Doors Down,2
+2006-02,A Perfect Circle,37
+2006-02,Anathema,74
+2006-02,Audioslave,2
+2006-02,Barenaked Ladies,118
+2006-02,Bush,1
+2006-02,Coldplay,10
+2006-02,Death Cab For Cutie,1
+2006-02,Deftones,0
+2006-02,Finger Eleven,13
+2006-02,Foo Fighters,5
+2006-02,Incubus,48
+2006-02,Iron & Wine,0
+2006-02,Jimmy Eat World,2
+2006-02,Kettcar,14
+2006-02,Loreena Mckennitt,6
+2006-02,Placebo,14
+2006-02,R.E.M.,3
+2006-02,Staind,6
+2006-02,The Smashing Pumpkins,11
+2006-03,3 Doors Down,5
+2006-03,A Perfect Circle,3
+2006-03,Anathema,0
+2006-03,Audioslave,1
+2006-03,Barenaked Ladies,8
+2006-03,Bush,0
+2006-03,Coldplay,9
+2006-03,Death Cab For Cutie,7
+2006-03,Deftones,0
+2006-03,Finger Eleven,0
+2006-03,Foo Fighters,4
+2006-03,Incubus,6
+2006-03,Iron & Wine,1
+2006-03,Jimmy Eat World,7
+2006-03,Kettcar,4
+2006-03,Loreena Mckennitt,0
+2006-03,Placebo,3
+2006-03,R.E.M.,5
+2006-03,Staind,1
+2006-03,The Smashing Pumpkins,5
+2006-04,3 Doors Down,3
+2006-04,A Perfect Circle,1
+2006-04,Anathema,0
+2006-04,Audioslave,4
+2006-04,Barenaked Ladies,3
+2006-04,Bush,0
+2006-04,Coldplay,7
+2006-04,Death Cab For Cutie,2
+2006-04,Deftones,3
+2006-04,Finger Eleven,0
+2006-04,Foo Fighters,3
+2006-04,Incubus,5
+2006-04,Iron & Wine,1
+2006-04,Jimmy Eat World,5
+2006-04,Kettcar,11
+2006-04,Loreena Mckennitt,0
+2006-04,Placebo,4
+2006-04,R.E.M.,4
+2006-04,Staind,2
+2006-04,The Smashing Pumpkins,3
+2006-05,3 Doors Down,1
+2006-05,A Perfect Circle,116
+2006-05,Anathema,14
+2006-05,Audioslave,28
+2006-05,Barenaked Ladies,3
+2006-05,Bush,21
+2006-05,Coldplay,24
+2006-05,Death Cab For Cutie,2
+2006-05,Deftones,25
+2006-05,Finger Eleven,8
+2006-05,Foo Fighters,27
+2006-05,Incubus,35
+2006-05,Iron & Wine,0
+2006-05,Jimmy Eat World,4
+2006-05,Kettcar,23
+2006-05,Loreena Mckennitt,5
+2006-05,Placebo,4
+2006-05,R.E.M.,5
+2006-05,Staind,13
+2006-05,The Smashing Pumpkins,27
+2006-06,3 Doors Down,6
+2006-06,A Perfect Circle,24
+2006-06,Anathema,4
+2006-06,Audioslave,15
+2006-06,Barenaked Ladies,18
+2006-06,Bush,0
+2006-06,Coldplay,8
+2006-06,Death Cab For Cutie,5
+2006-06,Deftones,16
+2006-06,Finger Eleven,11
+2006-06,Foo Fighters,15
+2006-06,Incubus,25
+2006-06,Iron & Wine,1
+2006-06,Jimmy Eat World,22
+2006-06,Kettcar,73
+2006-06,Loreena Mckennitt,1
+2006-06,Placebo,6
+2006-06,R.E.M.,8
+2006-06,Staind,3
+2006-06,The Smashing Pumpkins,5
+2006-07,3 Doors Down,0
+2006-07,A Perfect Circle,5
+2006-07,Anathema,53
+2006-07,Audioslave,0
+2006-07,Barenaked Ladies,24
+2006-07,Bush,0
+2006-07,Coldplay,1
+2006-07,Death Cab For Cutie,0
+2006-07,Deftones,4
+2006-07,Finger Eleven,24
+2006-07,Foo Fighters,0
+2006-07,Incubus,0
+2006-07,Iron & Wine,0
+2006-07,Jimmy Eat World,11
+2006-07,Kettcar,71
+2006-07,Loreena Mckennitt,0
+2006-07,Placebo,10
+2006-07,R.E.M.,316
+2006-07,Staind,0
+2006-07,The Smashing Pumpkins,0
+2006-08,3 Doors Down,2
+2006-08,A Perfect Circle,22
+2006-08,Anathema,27
+2006-08,Audioslave,7
+2006-08,Barenaked Ladies,9
+2006-08,Bush,3
+2006-08,Coldplay,14
+2006-08,Death Cab For Cutie,10
+2006-08,Deftones,7
+2006-08,Finger Eleven,8
+2006-08,Foo Fighters,5
+2006-08,Incubus,6
+2006-08,Iron & Wine,4
+2006-08,Jimmy Eat World,7
+2006-08,Kettcar,6
+2006-08,Loreena Mckennitt,0
+2006-08,Placebo,0
+2006-08,R.E.M.,66
+2006-08,Staind,6
+2006-08,The Smashing Pumpkins,6
+2006-09,3 Doors Down,5
+2006-09,A Perfect Circle,120
+2006-09,Anathema,8
+2006-09,Audioslave,8
+2006-09,Barenaked Ladies,4
+2006-09,Bush,1
+2006-09,Coldplay,10
+2006-09,Death Cab For Cutie,7
+2006-09,Deftones,8
+2006-09,Finger Eleven,4
+2006-09,Foo Fighters,7
+2006-09,Incubus,14
+2006-09,Iron & Wine,2
+2006-09,Jimmy Eat World,2
+2006-09,Kettcar,4
+2006-09,Loreena Mckennitt,3
+2006-09,Placebo,1
+2006-09,R.E.M.,5
+2006-09,Staind,1
+2006-09,The Smashing Pumpkins,3
+2006-10,3 Doors Down,11
+2006-10,A Perfect Circle,243
+2006-10,Anathema,1
+2006-10,Audioslave,9
+2006-10,Barenaked Ladies,2
+2006-10,Bush,0
+2006-10,Coldplay,17
+2006-10,Death Cab For Cutie,13
+2006-10,Deftones,15
+2006-10,Finger Eleven,13
+2006-10,Foo Fighters,16
+2006-10,Incubus,102
+2006-10,Iron & Wine,4
+2006-10,Jimmy Eat World,3
+2006-10,Kettcar,26
+2006-10,Loreena Mckennitt,3
+2006-10,Placebo,186
+2006-10,R.E.M.,3
+2006-10,Staind,12
+2006-10,The Smashing Pumpkins,6
+2006-11,3 Doors Down,4
+2006-11,A Perfect Circle,22
+2006-11,Anathema,30
+2006-11,Audioslave,0
+2006-11,Barenaked Ladies,4
+2006-11,Bush,0
+2006-11,Coldplay,17
+2006-11,Death Cab For Cutie,10
+2006-11,Deftones,10
+2006-11,Finger Eleven,9
+2006-11,Foo Fighters,7
+2006-11,Incubus,8
+2006-11,Iron & Wine,10
+2006-11,Jimmy Eat World,2
+2006-11,Kettcar,74
+2006-11,Loreena Mckennitt,0
+2006-11,Placebo,4
+2006-11,R.E.M.,4
+2006-11,Staind,7
+2006-11,The Smashing Pumpkins,5
+2006-12,3 Doors Down,2
+2006-12,A Perfect Circle,84
+2006-12,Anathema,102
+2006-12,Audioslave,2
+2006-12,Barenaked Ladies,21
+2006-12,Bush,1
+2006-12,Coldplay,69
+2006-12,Death Cab For Cutie,6
+2006-12,Deftones,11
+2006-12,Finger Eleven,22
+2006-12,Foo Fighters,3
+2006-12,Incubus,11
+2006-12,Iron & Wine,3
+2006-12,Jimmy Eat World,16
+2006-12,Kettcar,61
+2006-12,Loreena Mckennitt,3
+2006-12,Placebo,1
+2006-12,R.E.M.,8
+2006-12,Staind,3
+2006-12,The Smashing Pumpkins,3
+2007-01,3 Doors Down,0
+2007-01,A Perfect Circle,106
+2007-01,Anathema,119
+2007-01,Audioslave,0
+2007-01,Barenaked Ladies,8
+2007-01,Bush,3
+2007-01,Coldplay,2
+2007-01,Death Cab For Cutie,5
+2007-01,Deftones,4
+2007-01,Finger Eleven,6
+2007-01,Foo Fighters,0
+2007-01,Incubus,74
+2007-01,Iron & Wine,2
+2007-01,Jimmy Eat World,11
+2007-01,Kettcar,96
+2007-01,Loreena Mckennitt,1
+2007-01,Placebo,70
+2007-01,R.E.M.,3
+2007-01,Staind,2
+2007-01,The Smashing Pumpkins,1
+2007-02,3 Doors Down,0
+2007-02,A Perfect Circle,83
+2007-02,Anathema,32
+2007-02,Audioslave,0
+2007-02,Barenaked Ladies,38
+2007-02,Bush,0
+2007-02,Coldplay,0
+2007-02,Death Cab For Cutie,0
+2007-02,Deftones,0
+2007-02,Finger Eleven,0
+2007-02,Foo Fighters,0
+2007-02,Incubus,0
+2007-02,Iron & Wine,0
+2007-02,Jimmy Eat World,0
+2007-02,Kettcar,63
+2007-02,Loreena Mckennitt,0
+2007-02,Placebo,28
+2007-02,R.E.M.,0
+2007-02,Staind,0
+2007-02,The Smashing Pumpkins,0
+2007-03,3 Doors Down,1
+2007-03,A Perfect Circle,29
+2007-03,Anathema,95
+2007-03,Audioslave,1
+2007-03,Barenaked Ladies,4
+2007-03,Bush,1
+2007-03,Coldplay,1
+2007-03,Death Cab For Cutie,0
+2007-03,Deftones,4
+2007-03,Finger Eleven,4
+2007-03,Foo Fighters,1
+2007-03,Incubus,0
+2007-03,Iron & Wine,0
+2007-03,Jimmy Eat World,5
+2007-03,Kettcar,54
+2007-03,Loreena Mckennitt,0
+2007-03,Placebo,79
+2007-03,R.E.M.,2
+2007-03,Staind,9
+2007-03,The Smashing Pumpkins,40
+2007-04,3 Doors Down,0
+2007-04,A Perfect Circle,53
+2007-04,Anathema,74
+2007-04,Audioslave,0
+2007-04,Barenaked Ladies,0
+2007-04,Bush,0
+2007-04,Coldplay,0
+2007-04,Death Cab For Cutie,0
+2007-04,Deftones,0
+2007-04,Finger Eleven,0
+2007-04,Foo Fighters,0
+2007-04,Incubus,302
+2007-04,Iron & Wine,0
+2007-04,Jimmy Eat World,0
+2007-04,Kettcar,57
+2007-04,Loreena Mckennitt,0
+2007-04,Placebo,0
+2007-04,R.E.M.,0
+2007-04,Staind,0
+2007-04,The Smashing Pumpkins,21
+2007-05,3 Doors Down,0
+2007-05,A Perfect Circle,25
+2007-05,Anathema,5
+2007-05,Audioslave,1
+2007-05,Barenaked Ladies,0
+2007-05,Bush,0
+2007-05,Coldplay,0
+2007-05,Death Cab For Cutie,6
+2007-05,Deftones,1
+2007-05,Finger Eleven,0
+2007-05,Foo Fighters,2
+2007-05,Incubus,1
+2007-05,Iron & Wine,3
+2007-05,Jimmy Eat World,0
+2007-05,Kettcar,4
+2007-05,Loreena Mckennitt,0
+2007-05,Placebo,1
+2007-05,R.E.M.,0
+2007-05,Staind,1
+2007-05,The Smashing Pumpkins,1
+2007-06,3 Doors Down,1
+2007-06,A Perfect Circle,84
+2007-06,Anathema,155
+2007-06,Audioslave,1
+2007-06,Barenaked Ladies,26
+2007-06,Bush,1
+2007-06,Coldplay,4
+2007-06,Death Cab For Cutie,8
+2007-06,Deftones,1
+2007-06,Finger Eleven,0
+2007-06,Foo Fighters,1
+2007-06,Incubus,1
+2007-06,Iron & Wine,2
+2007-06,Jimmy Eat World,0
+2007-06,Kettcar,0
+2007-06,Loreena Mckennitt,1
+2007-06,Placebo,1
+2007-06,R.E.M.,1
+2007-06,Staind,1
+2007-06,The Smashing Pumpkins,1
+2007-07,3 Doors Down,2
+2007-07,A Perfect Circle,257
+2007-07,Anathema,90
+2007-07,Audioslave,3
+2007-07,Barenaked Ladies,38
+2007-07,Bush,2
+2007-07,Coldplay,3
+2007-07,Death Cab For Cutie,0
+2007-07,Deftones,3
+2007-07,Finger Eleven,1
+2007-07,Foo Fighters,2
+2007-07,Incubus,23
+2007-07,Iron & Wine,0
+2007-07,Jimmy Eat World,3
+2007-07,Kettcar,0
+2007-07,Loreena Mckennitt,1
+2007-07,Placebo,72
+2007-07,R.E.M.,3
+2007-07,Staind,65
+2007-07,The Smashing Pumpkins,3
+2007-08,3 Doors Down,4
+2007-08,A Perfect Circle,43
+2007-08,Anathema,23
+2007-08,Audioslave,7
+2007-08,Barenaked Ladies,2
+2007-08,Bush,8
+2007-08,Coldplay,7
+2007-08,Death Cab For Cutie,0
+2007-08,Deftones,7
+2007-08,Finger Eleven,6
+2007-08,Foo Fighters,12
+2007-08,Incubus,81
+2007-08,Iron & Wine,0
+2007-08,Jimmy Eat World,15
+2007-08,Kettcar,0
+2007-08,Loreena Mckennitt,0
+2007-08,Placebo,8
+2007-08,R.E.M.,3
+2007-08,Staind,7
+2007-08,The Smashing Pumpkins,15
+2007-09,3 Doors Down,3
+2007-09,A Perfect Circle,2
+2007-09,Anathema,9
+2007-09,Audioslave,2
+2007-09,Barenaked Ladies,0
+2007-09,Bush,2
+2007-09,Coldplay,1
+2007-09,Death Cab For Cutie,0
+2007-09,Deftones,2
+2007-09,Finger Eleven,0
+2007-09,Foo Fighters,4
+2007-09,Incubus,7
+2007-09,Iron & Wine,0
+2007-09,Jimmy Eat World,25
+2007-09,Kettcar,0
+2007-09,Loreena Mckennitt,1
+2007-09,Placebo,2
+2007-09,R.E.M.,2
+2007-09,Staind,2
+2007-09,The Smashing Pumpkins,2
+2007-10,3 Doors Down,4
+2007-10,A Perfect Circle,8
+2007-10,Anathema,4
+2007-10,Audioslave,19
+2007-10,Barenaked Ladies,1
+2007-10,Bush,3
+2007-10,Coldplay,8
+2007-10,Death Cab For Cutie,5
+2007-10,Deftones,3
+2007-10,Finger Eleven,3
+2007-10,Foo Fighters,24
+2007-10,Incubus,27
+2007-10,Iron & Wine,3
+2007-10,Jimmy Eat World,27
+2007-10,Kettcar,4
+2007-10,Loreena Mckennitt,18
+2007-10,Placebo,8
+2007-10,R.E.M.,9
+2007-10,Staind,8
+2007-10,The Smashing Pumpkins,23
+2007-11,3 Doors Down,3
+2007-11,A Perfect Circle,2
+2007-11,Anathema,5
+2007-11,Audioslave,3
+2007-11,Barenaked Ladies,5
+2007-11,Bush,2
+2007-11,Coldplay,0
+2007-11,Death Cab For Cutie,0
+2007-11,Deftones,3
+2007-11,Finger Eleven,2
+2007-11,Foo Fighters,3
+2007-11,Incubus,13
+2007-11,Iron & Wine,1
+2007-11,Jimmy Eat World,3
+2007-11,Kettcar,1
+2007-11,Loreena Mckennitt,2
+2007-11,Placebo,2
+2007-11,R.E.M.,5
+2007-11,Staind,2
+2007-11,The Smashing Pumpkins,5
+2007-12,3 Doors Down,2
+2007-12,A Perfect Circle,13
+2007-12,Anathema,1
+2007-12,Audioslave,10
+2007-12,Barenaked Ladies,0
+2007-12,Bush,2
+2007-12,Coldplay,0
+2007-12,Death Cab For Cutie,3
+2007-12,Deftones,10
+2007-12,Finger Eleven,1
+2007-12,Foo Fighters,7
+2007-12,Incubus,10
+2007-12,Iron & Wine,1
+2007-12,Jimmy Eat World,8
+2007-12,Kettcar,0
+2007-12,Loreena Mckennitt,3
+2007-12,Placebo,2
+2007-12,R.E.M.,0
+2007-12,Staind,3
+2007-12,The Smashing Pumpkins,5
+2008-01,3 Doors Down,0
+2008-01,A Perfect Circle,12
+2008-01,Anathema,6
+2008-01,Audioslave,0
+2008-01,Barenaked Ladies,0
+2008-01,Bush,6
+2008-01,Coldplay,12
+2008-01,Death Cab For Cutie,9
+2008-01,Deftones,0
+2008-01,Finger Eleven,5
+2008-01,Foo Fighters,7
+2008-01,Incubus,12
+2008-01,Iron & Wine,11
+2008-01,Jimmy Eat World,11
+2008-01,Kettcar,11
+2008-01,Loreena Mckennitt,9
+2008-01,Placebo,7
+2008-01,R.E.M.,4
+2008-01,Staind,7
+2008-01,The Smashing Pumpkins,4
+2008-02,3 Doors Down,1
+2008-02,A Perfect Circle,39
+2008-02,Anathema,35
+2008-02,Audioslave,2
+2008-02,Barenaked Ladies,3
+2008-02,Bush,10
+2008-02,Coldplay,17
+2008-02,Death Cab For Cutie,15
+2008-02,Deftones,2
+2008-02,Finger Eleven,8
+2008-02,Foo Fighters,12
+2008-02,Incubus,18
+2008-02,Iron & Wine,14
+2008-02,Jimmy Eat World,17
+2008-02,Kettcar,11
+2008-02,Loreena Mckennitt,14
+2008-02,Placebo,10
+2008-02,R.E.M.,15
+2008-02,Staind,13
+2008-02,The Smashing Pumpkins,10
+2008-03,3 Doors Down,0
+2008-03,A Perfect Circle,43
+2008-03,Anathema,25
+2008-03,Audioslave,0
+2008-03,Barenaked Ladies,15
+2008-03,Bush,13
+2008-03,Coldplay,24
+2008-03,Death Cab For Cutie,24
+2008-03,Deftones,0
+2008-03,Finger Eleven,14
+2008-03,Foo Fighters,13
+2008-03,Incubus,26
+2008-03,Iron & Wine,24
+2008-03,Jimmy Eat World,25
+2008-03,Kettcar,22
+2008-03,Loreena Mckennitt,21
+2008-03,Placebo,13
+2008-03,R.E.M.,24
+2008-03,Staind,21
+2008-03,The Smashing Pumpkins,7
+2008-04,3 Doors Down,2
+2008-04,A Perfect Circle,19
+2008-04,Anathema,30
+2008-04,Audioslave,7
+2008-04,Barenaked Ladies,21
+2008-04,Bush,6
+2008-04,Coldplay,19
+2008-04,Death Cab For Cutie,16
+2008-04,Deftones,25
+2008-04,Finger Eleven,10
+2008-04,Foo Fighters,12
+2008-04,Incubus,19
+2008-04,Iron & Wine,20
+2008-04,Jimmy Eat World,19
+2008-04,Kettcar,33
+2008-04,Loreena Mckennitt,13
+2008-04,Placebo,8
+2008-04,R.E.M.,10
+2008-04,Staind,17
+2008-04,The Smashing Pumpkins,10
+2008-05,3 Doors Down,0
+2008-05,A Perfect Circle,128
+2008-05,Anathema,47
+2008-05,Audioslave,17
+2008-05,Barenaked Ladies,28
+2008-05,Bush,2
+2008-05,Coldplay,22
+2008-05,Death Cab For Cutie,24
+2008-05,Deftones,9
+2008-05,Finger Eleven,23
+2008-05,Foo Fighters,18
+2008-05,Incubus,35
+2008-05,Iron & Wine,43
+2008-05,Jimmy Eat World,33
+2008-05,Kettcar,7
+2008-05,Loreena Mckennitt,8
+2008-05,Placebo,8
+2008-05,R.E.M.,20
+2008-05,Staind,32
+2008-05,The Smashing Pumpkins,28
+2008-06,3 Doors Down,2
+2008-06,A Perfect Circle,10
+2008-06,Anathema,4
+2008-06,Audioslave,14
+2008-06,Barenaked Ladies,12
+2008-06,Bush,0
+2008-06,Coldplay,52
+2008-06,Death Cab For Cutie,47
+2008-06,Deftones,1
+2008-06,Finger Eleven,22
+2008-06,Foo Fighters,6
+2008-06,Incubus,23
+2008-06,Iron & Wine,41
+2008-06,Jimmy Eat World,48
+2008-06,Kettcar,1
+2008-06,Loreena Mckennitt,2
+2008-06,Placebo,0
+2008-06,R.E.M.,128
+2008-06,Staind,1
+2008-06,The Smashing Pumpkins,9
+2008-07,3 Doors Down,2
+2008-07,A Perfect Circle,9
+2008-07,Anathema,0
+2008-07,Audioslave,9
+2008-07,Barenaked Ladies,0
+2008-07,Bush,1
+2008-07,Coldplay,11
+2008-07,Death Cab For Cutie,27
+2008-07,Deftones,1
+2008-07,Finger Eleven,2
+2008-07,Foo Fighters,18
+2008-07,Incubus,17
+2008-07,Iron & Wine,23
+2008-07,Jimmy Eat World,21
+2008-07,Kettcar,0
+2008-07,Loreena Mckennitt,0
+2008-07,Placebo,0
+2008-07,R.E.M.,0
+2008-07,Staind,0
+2008-07,The Smashing Pumpkins,1
+2008-08,3 Doors Down,1
+2008-08,A Perfect Circle,14
+2008-08,Anathema,2
+2008-08,Audioslave,5
+2008-08,Barenaked Ladies,11
+2008-08,Bush,1
+2008-08,Coldplay,0
+2008-08,Death Cab For Cutie,14
+2008-08,Deftones,2
+2008-08,Finger Eleven,0
+2008-08,Foo Fighters,13
+2008-08,Incubus,20
+2008-08,Iron & Wine,17
+2008-08,Jimmy Eat World,13
+2008-08,Kettcar,0
+2008-08,Loreena Mckennitt,6
+2008-08,Placebo,2
+2008-08,R.E.M.,1
+2008-08,Staind,1
+2008-08,The Smashing Pumpkins,0
+2008-09,3 Doors Down,1
+2008-09,A Perfect Circle,3
+2008-09,Anathema,0
+2008-09,Audioslave,3
+2008-09,Barenaked Ladies,1
+2008-09,Bush,1
+2008-09,Coldplay,4
+2008-09,Death Cab For Cutie,10
+2008-09,Deftones,2
+2008-09,Finger Eleven,2
+2008-09,Foo Fighters,4
+2008-09,Incubus,8
+2008-09,Iron & Wine,10
+2008-09,Jimmy Eat World,6
+2008-09,Kettcar,3
+2008-09,Loreena Mckennitt,6
+2008-09,Placebo,0
+2008-09,R.E.M.,0
+2008-09,Staind,2
+2008-09,The Smashing Pumpkins,0
+2008-10,3 Doors Down,0
+2008-10,A Perfect Circle,5
+2008-10,Anathema,5
+2008-10,Audioslave,0
+2008-10,Barenaked Ladies,5
+2008-10,Bush,2
+2008-10,Coldplay,10
+2008-10,Death Cab For Cutie,13
+2008-10,Deftones,0
+2008-10,Finger Eleven,0
+2008-10,Foo Fighters,4
+2008-10,Incubus,12
+2008-10,Iron & Wine,12
+2008-10,Jimmy Eat World,8
+2008-10,Kettcar,7
+2008-10,Loreena Mckennitt,3
+2008-10,Placebo,0
+2008-10,R.E.M.,0
+2008-10,Staind,0
+2008-10,The Smashing Pumpkins,0
+2008-11,3 Doors Down,4
+2008-11,A Perfect Circle,8
+2008-11,Anathema,4
+2008-11,Audioslave,9
+2008-11,Barenaked Ladies,5
+2008-11,Bush,2
+2008-11,Coldplay,5
+2008-11,Death Cab For Cutie,4
+2008-11,Deftones,6
+2008-11,Finger Eleven,4
+2008-11,Foo Fighters,8
+2008-11,Incubus,60
+2008-11,Iron & Wine,4
+2008-11,Jimmy Eat World,9
+2008-11,Kettcar,0
+2008-11,Loreena Mckennitt,8
+2008-11,Placebo,1
+2008-11,R.E.M.,0
+2008-11,Staind,2
+2008-11,The Smashing Pumpkins,3
+2008-12,3 Doors Down,0
+2008-12,A Perfect Circle,8
+2008-12,Anathema,4
+2008-12,Audioslave,2
+2008-12,Barenaked Ladies,1
+2008-12,Bush,1
+2008-12,Coldplay,3
+2008-12,Death Cab For Cutie,0
+2008-12,Deftones,2
+2008-12,Finger Eleven,0
+2008-12,Foo Fighters,2
+2008-12,Incubus,6
+2008-12,Iron & Wine,0
+2008-12,Jimmy Eat World,3
+2008-12,Kettcar,0
+2008-12,Loreena Mckennitt,6
+2008-12,Placebo,1
+2008-12,R.E.M.,0
+2008-12,Staind,2
+2008-12,The Smashing Pumpkins,0
+2009-01,3 Doors Down,9
+2009-01,A Perfect Circle,6
+2009-01,Anathema,6
+2009-01,Audioslave,0
+2009-01,Barenaked Ladies,3
+2009-01,Bush,0
+2009-01,Coldplay,5
+2009-01,Death Cab For Cutie,5
+2009-01,Deftones,1
+2009-01,Finger Eleven,2
+2009-01,Foo Fighters,3
+2009-01,Incubus,10
+2009-01,Iron & Wine,5
+2009-01,Jimmy Eat World,4
+2009-01,Kettcar,19
+2009-01,Loreena Mckennitt,2
+2009-01,Placebo,0
+2009-01,R.E.M.,0
+2009-01,Staind,1
+2009-01,The Smashing Pumpkins,0
+2009-02,3 Doors Down,2
+2009-02,A Perfect Circle,9
+2009-02,Anathema,4
+2009-02,Audioslave,5
+2009-02,Barenaked Ladies,6
+2009-02,Bush,0
+2009-02,Coldplay,20
+2009-02,Death Cab For Cutie,4
+2009-02,Deftones,1
+2009-02,Finger Eleven,1
+2009-02,Foo Fighters,10
+2009-02,Incubus,15
+2009-02,Iron & Wine,4
+2009-02,Jimmy Eat World,14
+2009-02,Kettcar,0
+2009-02,Loreena Mckennitt,15
+2009-02,Placebo,17
+2009-02,R.E.M.,12
+2009-02,Staind,3
+2009-02,The Smashing Pumpkins,9
+2009-03,3 Doors Down,8
+2009-03,A Perfect Circle,17
+2009-03,Anathema,7
+2009-03,Audioslave,2
+2009-03,Barenaked Ladies,22
+2009-03,Bush,3
+2009-03,Coldplay,18
+2009-03,Death Cab For Cutie,15
+2009-03,Deftones,0
+2009-03,Finger Eleven,5
+2009-03,Foo Fighters,4
+2009-03,Incubus,17
+2009-03,Iron & Wine,25
+2009-03,Jimmy Eat World,9
+2009-03,Kettcar,0
+2009-03,Loreena Mckennitt,7
+2009-03,Placebo,6
+2009-03,R.E.M.,14
+2009-03,Staind,10
+2009-03,The Smashing Pumpkins,0
+2009-04,3 Doors Down,2
+2009-04,A Perfect Circle,3
+2009-04,Anathema,7
+2009-04,Audioslave,1
+2009-04,Barenaked Ladies,8
+2009-04,Bush,1
+2009-04,Coldplay,3
+2009-04,Death Cab For Cutie,7
+2009-04,Deftones,0
+2009-04,Finger Eleven,0
+2009-04,Foo Fighters,0
+2009-04,Incubus,5
+2009-04,Iron & Wine,9
+2009-04,Jimmy Eat World,3
+2009-04,Kettcar,0
+2009-04,Loreena Mckennitt,0
+2009-04,Placebo,1
+2009-04,R.E.M.,0
+2009-04,Staind,0
+2009-04,The Smashing Pumpkins,0

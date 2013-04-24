@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Alicia Keys,2
+2006-02,Avril Lavigne,1
+2006-02,Christina Aguilera,0
+2006-02,Coldplay,6
+2006-02,Craig David,4
+2006-02,Foo Fighters,2
+2006-02,George Harrison,1
+2006-02,Jet,1
+2006-02,John Lennon,5
+2006-02,Looptroop,4
+2006-02,Maria Mena,0
+2006-02,Mew,0
+2006-02,Nelly Furtado,8
+2006-02,Oasis,3
+2006-02,P!Nk,0
+2006-02,Paul Mccartney,6
+2006-02,Paul Mccartney & Wings,5
+2006-02,Promoe,2
+2006-02,The Beatles,10
+2006-02,The Black Eyed Peas,2
+2006-03,Alicia Keys,3
+2006-03,Avril Lavigne,14
+2006-03,Christina Aguilera,4
+2006-03,Coldplay,33
+2006-03,Craig David,1
+2006-03,Foo Fighters,13
+2006-03,George Harrison,25
+2006-03,Jet,9
+2006-03,John Lennon,35
+2006-03,Looptroop,21
+2006-03,Maria Mena,0
+2006-03,Mew,0
+2006-03,Nelly Furtado,27
+2006-03,Oasis,29
+2006-03,P!Nk,15
+2006-03,Paul Mccartney,52
+2006-03,Paul Mccartney & Wings,24
+2006-03,Promoe,8
+2006-03,The Beatles,78
+2006-03,The Black Eyed Peas,20
+2006-04,Alicia Keys,5
+2006-04,Avril Lavigne,11
+2006-04,Christina Aguilera,6
+2006-04,Coldplay,45
+2006-04,Craig David,28
+2006-04,Foo Fighters,9
+2006-04,George Harrison,3
+2006-04,Jet,4
+2006-04,John Lennon,6
+2006-04,Looptroop,31
+2006-04,Maria Mena,0
+2006-04,Mew,5
+2006-04,Nelly Furtado,7
+2006-04,Oasis,14
+2006-04,P!Nk,0
+2006-04,Paul Mccartney,5
+2006-04,Paul Mccartney & Wings,6
+2006-04,Promoe,26
+2006-04,The Beatles,65
+2006-04,The Black Eyed Peas,6
+2006-05,Alicia Keys,2
+2006-05,Avril Lavigne,7
+2006-05,Christina Aguilera,9
+2006-05,Coldplay,27
+2006-05,Craig David,25
+2006-05,Foo Fighters,3
+2006-05,George Harrison,8
+2006-05,Jet,9
+2006-05,John Lennon,11
+2006-05,Looptroop,35
+2006-05,Maria Mena,0
+2006-05,Mew,8
+2006-05,Nelly Furtado,12
+2006-05,Oasis,16
+2006-05,P!Nk,3
+2006-05,Paul Mccartney,19
+2006-05,Paul Mccartney & Wings,10
+2006-05,Promoe,29
+2006-05,The Beatles,58
+2006-05,The Black Eyed Peas,6
+2006-06,Alicia Keys,3
+2006-06,Avril Lavigne,11
+2006-06,Christina Aguilera,2
+2006-06,Coldplay,28
+2006-06,Craig David,32
+2006-06,Foo Fighters,4
+2006-06,George Harrison,4
+2006-06,Jet,17
+2006-06,John Lennon,18
+2006-06,Looptroop,26
+2006-06,Maria Mena,63
+2006-06,Mew,15
+2006-06,Nelly Furtado,34
+2006-06,Oasis,12
+2006-06,P!Nk,11
+2006-06,Paul Mccartney,6
+2006-06,Paul Mccartney & Wings,6
+2006-06,Promoe,14
+2006-06,The Beatles,161
+2006-06,The Black Eyed Peas,22
+2006-07,Alicia Keys,7
+2006-07,Avril Lavigne,4
+2006-07,Christina Aguilera,0
+2006-07,Coldplay,8
+2006-07,Craig David,1
+2006-07,Foo Fighters,1
+2006-07,George Harrison,0
+2006-07,Jet,0
+2006-07,John Lennon,2
+2006-07,Looptroop,44
+2006-07,Maria Mena,51
+2006-07,Mew,18
+2006-07,Nelly Furtado,14
+2006-07,Oasis,3
+2006-07,P!Nk,4
+2006-07,Paul Mccartney,1
+2006-07,Paul Mccartney & Wings,0
+2006-07,Promoe,5
+2006-07,The Beatles,62
+2006-07,The Black Eyed Peas,4
+2006-08,Alicia Keys,1
+2006-08,Avril Lavigne,0
+2006-08,Christina Aguilera,0
+2006-08,Coldplay,1
+2006-08,Craig David,0
+2006-08,Foo Fighters,0
+2006-08,George Harrison,0
+2006-08,Jet,0
+2006-08,John Lennon,1
+2006-08,Looptroop,0
+2006-08,Maria Mena,1
+2006-08,Mew,6
+2006-08,Nelly Furtado,4
+2006-08,Oasis,1
+2006-08,P!Nk,6
+2006-08,Paul Mccartney,0
+2006-08,Paul Mccartney & Wings,21
+2006-08,Promoe,6
+2006-08,The Beatles,1
+2006-08,The Black Eyed Peas,3
+2006-09,Alicia Keys,5
+2006-09,Avril Lavigne,0
+2006-09,Christina Aguilera,0
+2006-09,Coldplay,4
+2006-09,Craig David,4
+2006-09,Foo Fighters,0
+2006-09,George Harrison,0
+2006-09,Jet,0
+2006-09,John Lennon,0
+2006-09,Looptroop,71
+2006-09,Maria Mena,53
+2006-09,Mew,8
+2006-09,Nelly Furtado,14
+2006-09,Oasis,0
+2006-09,P!Nk,3
+2006-09,Paul Mccartney,9
+2006-09,Paul Mccartney & Wings,0
+2006-09,Promoe,6
+2006-09,The Beatles,0
+2006-09,The Black Eyed Peas,0
+2006-10,Alicia Keys,1
+2006-10,Avril Lavigne,0
+2006-10,Christina Aguilera,0
+2006-10,Coldplay,2
+2006-10,Craig David,2
+2006-10,Foo Fighters,0
+2006-10,George Harrison,0
+2006-10,Jet,0
+2006-10,John Lennon,0
+2006-10,Looptroop,7
+2006-10,Maria Mena,6
+2006-10,Mew,8
+2006-10,Nelly Furtado,15
+2006-10,Oasis,0
+2006-10,P!Nk,40
+2006-10,Paul Mccartney,1
+2006-10,Paul Mccartney & Wings,0
+2006-10,Promoe,3
+2006-10,The Beatles,1
+2006-10,The Black Eyed Peas,11
+2006-11,Alicia Keys,0
+2006-11,Avril Lavigne,0
+2006-11,Christina Aguilera,28
+2006-11,Coldplay,2
+2006-11,Craig David,0
+2006-11,Foo Fighters,0
+2006-11,George Harrison,0
+2006-11,Jet,0
+2006-11,John Lennon,0
+2006-11,Looptroop,0
+2006-11,Maria Mena,36
+2006-11,Mew,0
+2006-11,Nelly Furtado,0
+2006-11,Oasis,0
+2006-11,P!Nk,25
+2006-11,Paul Mccartney,1
+2006-11,Paul Mccartney & Wings,0
+2006-11,Promoe,0
+2006-11,The Beatles,3
+2006-11,The Black Eyed Peas,0
+2006-12,Alicia Keys,1
+2006-12,Avril Lavigne,7
+2006-12,Christina Aguilera,41
+2006-12,Coldplay,10
+2006-12,Craig David,14
+2006-12,Foo Fighters,5
+2006-12,George Harrison,8
+2006-12,Jet,7
+2006-12,John Lennon,11
+2006-12,Looptroop,22
+2006-12,Maria Mena,7
+2006-12,Mew,10
+2006-12,Nelly Furtado,19
+2006-12,Oasis,22
+2006-12,P!Nk,33
+2006-12,Paul Mccartney,13
+2006-12,Paul Mccartney & Wings,5
+2006-12,Promoe,3
+2006-12,The Beatles,180
+2006-12,The Black Eyed Peas,2
+2007-01,Alicia Keys,1
+2007-01,Avril Lavigne,2
+2007-01,Christina Aguilera,0
+2007-01,Coldplay,6
+2007-01,Craig David,2
+2007-01,Foo Fighters,0
+2007-01,George Harrison,5
+2007-01,Jet,1
+2007-01,John Lennon,4
+2007-01,Looptroop,2
+2007-01,Maria Mena,2
+2007-01,Mew,0
+2007-01,Nelly Furtado,2
+2007-01,Oasis,2
+2007-01,P!Nk,0
+2007-01,Paul Mccartney,3
+2007-01,Paul Mccartney & Wings,3
+2007-01,Promoe,0
+2007-01,The Beatles,6
+2007-01,The Black Eyed Peas,1
+2007-02,Alicia Keys,2
+2007-02,Avril Lavigne,6
+2007-02,Christina Aguilera,4
+2007-02,Coldplay,5
+2007-02,Craig David,6
+2007-02,Foo Fighters,1
+2007-02,George Harrison,4
+2007-02,Jet,20
+2007-02,John Lennon,26
+2007-02,Looptroop,35
+2007-02,Maria Mena,0
+2007-02,Mew,2
+2007-02,Nelly Furtado,18
+2007-02,Oasis,6
+2007-02,P!Nk,14
+2007-02,Paul Mccartney,7
+2007-02,Paul Mccartney & Wings,0
+2007-02,Promoe,4
+2007-02,The Beatles,39
+2007-02,The Black Eyed Peas,4
+2007-03,Alicia Keys,2
+2007-03,Avril Lavigne,4
+2007-03,Christina Aguilera,1
+2007-03,Coldplay,5
+2007-03,Craig David,4
+2007-03,Foo Fighters,4
+2007-03,George Harrison,3
+2007-03,Jet,3
+2007-03,John Lennon,2
+2007-03,Looptroop,13
+2007-03,Maria Mena,0
+2007-03,Mew,1
+2007-03,Nelly Furtado,4
+2007-03,Oasis,6
+2007-03,P!Nk,2
+2007-03,Paul Mccartney,5
+2007-03,Paul Mccartney & Wings,1
+2007-03,Promoe,1
+2007-03,The Beatles,2
+2007-03,The Black Eyed Peas,2
+2007-04,Alicia Keys,0
+2007-04,Avril Lavigne,6
+2007-04,Christina Aguilera,20
+2007-04,Coldplay,6
+2007-04,Craig David,6
+2007-04,Foo Fighters,6
+2007-04,George Harrison,2
+2007-04,Jet,5
+2007-04,John Lennon,5
+2007-04,Looptroop,7
+2007-04,Maria Mena,0
+2007-04,Mew,2
+2007-04,Nelly Furtado,9
+2007-04,Oasis,3
+2007-04,P!Nk,3
+2007-04,Paul Mccartney,6
+2007-04,Paul Mccartney & Wings,0
+2007-04,Promoe,1
+2007-04,The Beatles,26
+2007-04,The Black Eyed Peas,3
+2007-05,Alicia Keys,0
+2007-05,Avril Lavigne,0
+2007-05,Christina Aguilera,0
+2007-05,Coldplay,0
+2007-05,Craig David,0
+2007-05,Foo Fighters,0
+2007-05,George Harrison,0
+2007-05,Jet,0
+2007-05,John Lennon,0
+2007-05,Looptroop,0
+2007-05,Maria Mena,0
+2007-05,Mew,0
+2007-05,Nelly Furtado,11
+2007-05,Oasis,0
+2007-05,P!Nk,0
+2007-05,Paul Mccartney,0
+2007-05,Paul Mccartney & Wings,0
+2007-05,Promoe,0
+2007-05,The Beatles,0
+2007-05,The Black Eyed Peas,0
+2007-06,Alicia Keys,0
+2007-06,Avril Lavigne,21
+2007-06,Christina Aguilera,0
+2007-06,Coldplay,0
+2007-06,Craig David,0
+2007-06,Foo Fighters,0
+2007-06,George Harrison,0
+2007-06,Jet,13
+2007-06,John Lennon,0
+2007-06,Looptroop,0
+2007-06,Maria Mena,0
+2007-06,Mew,0
+2007-06,Nelly Furtado,10
+2007-06,Oasis,0
+2007-06,P!Nk,0
+2007-06,Paul Mccartney,0
+2007-06,Paul Mccartney & Wings,0
+2007-06,Promoe,0
+2007-06,The Beatles,26
+2007-06,The Black Eyed Peas,0
+2007-07,Alicia Keys,1
+2007-07,Avril Lavigne,0
+2007-07,Christina Aguilera,1
+2007-07,Coldplay,3
+2007-07,Craig David,19
+2007-07,Foo Fighters,2
+2007-07,George Harrison,4
+2007-07,Jet,2
+2007-07,John Lennon,8
+2007-07,Looptroop,32
+2007-07,Maria Mena,1
+2007-07,Mew,0
+2007-07,Nelly Furtado,6
+2007-07,Oasis,4
+2007-07,P!Nk,1
+2007-07,Paul Mccartney,3
+2007-07,Paul Mccartney & Wings,4
+2007-07,Promoe,2
+2007-07,The Beatles,40
+2007-07,The Black Eyed Peas,3
+2007-08,Alicia Keys,0
+2007-08,Avril Lavigne,1
+2007-08,Christina Aguilera,7
+2007-08,Coldplay,2
+2007-08,Craig David,1
+2007-08,Foo Fighters,1
+2007-08,George Harrison,2
+2007-08,Jet,2
+2007-08,John Lennon,2
+2007-08,Looptroop,5
+2007-08,Maria Mena,2
+2007-08,Mew,1
+2007-08,Nelly Furtado,4
+2007-08,Oasis,0
+2007-08,P!Nk,1
+2007-08,Paul Mccartney,0
+2007-08,Paul Mccartney & Wings,1
+2007-08,Promoe,2
+2007-08,The Beatles,5
+2007-08,The Black Eyed Peas,0
+2007-09,Alicia Keys,0
+2007-09,Avril Lavigne,3
+2007-09,Christina Aguilera,0
+2007-09,Coldplay,1
+2007-09,Craig David,0
+2007-09,Foo Fighters,1
+2007-09,George Harrison,0
+2007-09,Jet,1
+2007-09,John Lennon,3
+2007-09,Looptroop,1
+2007-09,Maria Mena,0
+2007-09,Mew,3
+2007-09,Nelly Furtado,4
+2007-09,Oasis,1
+2007-09,P!Nk,0
+2007-09,Paul Mccartney,1
+2007-09,Paul Mccartney & Wings,1
+2007-09,Promoe,1
+2007-09,The Beatles,33
+2007-09,The Black Eyed Peas,1
+2007-10,Alicia Keys,1
+2007-10,Avril Lavigne,4
+2007-10,Christina Aguilera,1
+2007-10,Coldplay,5
+2007-10,Craig David,1
+2007-10,Foo Fighters,2
+2007-10,George Harrison,3
+2007-10,Jet,3
+2007-10,John Lennon,8
+2007-10,Looptroop,5
+2007-10,Maria Mena,8
+2007-10,Mew,4
+2007-10,Nelly Furtado,8
+2007-10,Oasis,4
+2007-10,P!Nk,1
+2007-10,Paul Mccartney,9
+2007-10,Paul Mccartney & Wings,3
+2007-10,Promoe,1
+2007-10,The Beatles,13
+2007-10,The Black Eyed Peas,1
+2007-11,Alicia Keys,2
+2007-11,Avril Lavigne,1
+2007-11,Christina Aguilera,2
+2007-11,Coldplay,4
+2007-11,Craig David,3
+2007-11,Foo Fighters,3
+2007-11,George Harrison,6
+2007-11,Jet,1
+2007-11,John Lennon,5
+2007-11,Looptroop,1
+2007-11,Maria Mena,0
+2007-11,Mew,2
+2007-11,Nelly Furtado,2
+2007-11,Oasis,4
+2007-11,P!Nk,0
+2007-11,Paul Mccartney,3
+2007-11,Paul Mccartney & Wings,3
+2007-11,Promoe,0
+2007-11,The Beatles,5
+2007-11,The Black Eyed Peas,0
+2007-12,Alicia Keys,1
+2007-12,Avril Lavigne,1
+2007-12,Christina Aguilera,3
+2007-12,Coldplay,5
+2007-12,Craig David,0
+2007-12,Foo Fighters,3
+2007-12,George Harrison,44
+2007-12,Jet,18
+2007-12,John Lennon,12
+2007-12,Looptroop,0
+2007-12,Maria Mena,0
+2007-12,Mew,1
+2007-12,Nelly Furtado,16
+2007-12,Oasis,4
+2007-12,P!Nk,0
+2007-12,Paul Mccartney,9
+2007-12,Paul Mccartney & Wings,6
+2007-12,Promoe,0
+2007-12,The Beatles,11
+2007-12,The Black Eyed Peas,2
+2008-01,Alicia Keys,0
+2008-01,Avril Lavigne,5
+2008-01,Christina Aguilera,0
+2008-01,Coldplay,7
+2008-01,Craig David,4
+2008-01,Foo Fighters,3
+2008-01,George Harrison,12
+2008-01,Jet,4
+2008-01,John Lennon,16
+2008-01,Looptroop,9
+2008-01,Maria Mena,23
+2008-01,Mew,0
+2008-01,Nelly Furtado,12
+2008-01,Oasis,8
+2008-01,P!Nk,2
+2008-01,Paul Mccartney,15
+2008-01,Paul Mccartney & Wings,10
+2008-01,Promoe,4
+2008-01,The Beatles,20
+2008-01,The Black Eyed Peas,3
+2008-02,Alicia Keys,0
+2008-02,Avril Lavigne,1
+2008-02,Christina Aguilera,0
+2008-02,Coldplay,2
+2008-02,Craig David,0
+2008-02,Foo Fighters,1
+2008-02,George Harrison,4
+2008-02,Jet,1
+2008-02,John Lennon,5
+2008-02,Looptroop,1
+2008-02,Maria Mena,1
+2008-02,Mew,0
+2008-02,Nelly Furtado,1
+2008-02,Oasis,2
+2008-02,P!Nk,0
+2008-02,Paul Mccartney,4
+2008-02,Paul Mccartney & Wings,4
+2008-02,Promoe,0
+2008-02,The Beatles,5
+2008-02,The Black Eyed Peas,1
+2008-03,Alicia Keys,1
+2008-03,Avril Lavigne,0
+2008-03,Christina Aguilera,1
+2008-03,Coldplay,1
+2008-03,Craig David,1
+2008-03,Foo Fighters,0
+2008-03,George Harrison,3
+2008-03,Jet,2
+2008-03,John Lennon,3
+2008-03,Looptroop,0
+2008-03,Maria Mena,1
+2008-03,Mew,2
+2008-03,Nelly Furtado,2
+2008-03,Oasis,1
+2008-03,P!Nk,0
+2008-03,Paul Mccartney,2
+2008-03,Paul Mccartney & Wings,2
+2008-03,Promoe,1
+2008-03,The Beatles,3
+2008-03,The Black Eyed Peas,0
+2008-04,Alicia Keys,1
+2008-04,Avril Lavigne,1
+2008-04,Christina Aguilera,0
+2008-04,Coldplay,8
+2008-04,Craig David,0
+2008-04,Foo Fighters,0
+2008-04,George Harrison,1
+2008-04,Jet,0
+2008-04,John Lennon,1
+2008-04,Looptroop,5
+2008-04,Maria Mena,0
+2008-04,Mew,0
+2008-04,Nelly Furtado,0
+2008-04,Oasis,0
+2008-04,P!Nk,1
+2008-04,Paul Mccartney,1
+2008-04,Paul Mccartney & Wings,1
+2008-04,Promoe,0
+2008-04,The Beatles,12
+2008-04,The Black Eyed Peas,0
+2008-05,Alicia Keys,0
+2008-05,Avril Lavigne,0
+2008-05,Christina Aguilera,0
+2008-05,Coldplay,0
+2008-05,Craig David,0
+2008-05,Foo Fighters,0
+2008-05,George Harrison,0
+2008-05,Jet,0
+2008-05,John Lennon,0
+2008-05,Looptroop,0
+2008-05,Maria Mena,0
+2008-05,Mew,0
+2008-05,Nelly Furtado,0
+2008-05,Oasis,0
+2008-05,P!Nk,0
+2008-05,Paul Mccartney,0
+2008-05,Paul Mccartney & Wings,0
+2008-05,Promoe,0
+2008-05,The Beatles,0
+2008-05,The Black Eyed Peas,0
+2008-06,Alicia Keys,0
+2008-06,Avril Lavigne,0
+2008-06,Christina Aguilera,0
+2008-06,Coldplay,0
+2008-06,Craig David,0
+2008-06,Foo Fighters,0
+2008-06,George Harrison,1
+2008-06,Jet,0
+2008-06,John Lennon,0
+2008-06,Looptroop,0
+2008-06,Maria Mena,1
+2008-06,Mew,0
+2008-06,Nelly Furtado,1
+2008-06,Oasis,1
+2008-06,P!Nk,0
+2008-06,Paul Mccartney,1
+2008-06,Paul Mccartney & Wings,0
+2008-06,Promoe,0
+2008-06,The Beatles,1
+2008-06,The Black Eyed Peas,0
+2008-07,Alicia Keys,1
+2008-07,Avril Lavigne,5
+2008-07,Christina Aguilera,2
+2008-07,Coldplay,1
+2008-07,Craig David,2
+2008-07,Foo Fighters,2
+2008-07,George Harrison,6
+2008-07,Jet,1
+2008-07,John Lennon,6
+2008-07,Looptroop,3
+2008-07,Maria Mena,1
+2008-07,Mew,1
+2008-07,Nelly Furtado,3
+2008-07,Oasis,1
+2008-07,P!Nk,1
+2008-07,Paul Mccartney,5
+2008-07,Paul Mccartney & Wings,6
+2008-07,Promoe,1
+2008-07,The Beatles,5
+2008-07,The Black Eyed Peas,0
+2008-08,Alicia Keys,1
+2008-08,Avril Lavigne,3
+2008-08,Christina Aguilera,1
+2008-08,Coldplay,0
+2008-08,Craig David,4
+2008-08,Foo Fighters,0
+2008-08,George Harrison,4
+2008-08,Jet,3
+2008-08,John Lennon,4
+2008-08,Looptroop,3
+2008-08,Maria Mena,4
+2008-08,Mew,2
+2008-08,Nelly Furtado,4
+2008-08,Oasis,2
+2008-08,P!Nk,4
+2008-08,Paul Mccartney,7
+2008-08,Paul Mccartney & Wings,7
+2008-08,Promoe,3
+2008-08,The Beatles,0
+2008-08,The Black Eyed Peas,1
+2008-09,Alicia Keys,1
+2008-09,Avril Lavigne,0
+2008-09,Christina Aguilera,2
+2008-09,Coldplay,2
+2008-09,Craig David,0
+2008-09,Foo Fighters,0
+2008-09,George Harrison,1
+2008-09,Jet,1
+2008-09,John Lennon,2
+2008-09,Looptroop,1
+2008-09,Maria Mena,2
+2008-09,Mew,1
+2008-09,Nelly Furtado,3
+2008-09,Oasis,0
+2008-09,P!Nk,1
+2008-09,Paul Mccartney,0
+2008-09,Paul Mccartney & Wings,0
+2008-09,Promoe,0
+2008-09,The Beatles,0
+2008-09,The Black Eyed Peas,1
+2008-10,Alicia Keys,0
+2008-10,Avril Lavigne,7
+2008-10,Christina Aguilera,5
+2008-10,Coldplay,3
+2008-10,Craig David,11
+2008-10,Foo Fighters,1
+2008-10,George Harrison,5
+2008-10,Jet,3
+2008-10,John Lennon,7
+2008-10,Looptroop,4
+2008-10,Maria Mena,1
+2008-10,Mew,4
+2008-10,Nelly Furtado,4
+2008-10,Oasis,4
+2008-10,P!Nk,3
+2008-10,Paul Mccartney,6
+2008-10,Paul Mccartney & Wings,5
+2008-10,Promoe,3
+2008-10,The Beatles,0
+2008-10,The Black Eyed Peas,1
+2008-11,Alicia Keys,1
+2008-11,Avril Lavigne,2
+2008-11,Christina Aguilera,1
+2008-11,Coldplay,2
+2008-11,Craig David,0
+2008-11,Foo Fighters,2
+2008-11,George Harrison,3
+2008-11,Jet,2
+2008-11,John Lennon,4
+2008-11,Looptroop,1
+2008-11,Maria Mena,2
+2008-11,Mew,2
+2008-11,Nelly Furtado,3
+2008-11,Oasis,10
+2008-11,P!Nk,1
+2008-11,Paul Mccartney,2
+2008-11,Paul Mccartney & Wings,1
+2008-11,Promoe,0
+2008-11,The Beatles,0
+2008-11,The Black Eyed Peas,2
+2008-12,Alicia Keys,1
+2008-12,Avril Lavigne,0
+2008-12,Christina Aguilera,1
+2008-12,Coldplay,1
+2008-12,Craig David,1
+2008-12,Foo Fighters,1
+2008-12,George Harrison,1
+2008-12,Jet,0
+2008-12,John Lennon,2
+2008-12,Looptroop,0
+2008-12,Maria Mena,0
+2008-12,Mew,0
+2008-12,Nelly Furtado,0
+2008-12,Oasis,0
+2008-12,P!Nk,0
+2008-12,Paul Mccartney,1
+2008-12,Paul Mccartney & Wings,1
+2008-12,Promoe,0
+2008-12,The Beatles,0
+2008-12,The Black Eyed Peas,0
+2009-01,Alicia Keys,0
+2009-01,Avril Lavigne,1
+2009-01,Christina Aguilera,0
+2009-01,Coldplay,0
+2009-01,Craig David,0
+2009-01,Foo Fighters,0
+2009-01,George Harrison,0
+2009-01,Jet,1
+2009-01,John Lennon,0
+2009-01,Looptroop,0
+2009-01,Maria Mena,2
+2009-01,Mew,0
+2009-01,Nelly Furtado,0
+2009-01,Oasis,1
+2009-01,P!Nk,0
+2009-01,Paul Mccartney,0
+2009-01,Paul Mccartney & Wings,0
+2009-01,Promoe,0
+2009-01,The Beatles,0
+2009-01,The Black Eyed Peas,0
+2009-02,Alicia Keys,0
+2009-02,Avril Lavigne,0
+2009-02,Christina Aguilera,1
+2009-02,Coldplay,1
+2009-02,Craig David,0
+2009-02,Foo Fighters,0
+2009-02,George Harrison,3
+2009-02,Jet,1
+2009-02,John Lennon,2
+2009-02,Looptroop,1
+2009-02,Maria Mena,1
+2009-02,Mew,1
+2009-02,Nelly Furtado,1
+2009-02,Oasis,1
+2009-02,P!Nk,0
+2009-02,Paul Mccartney,3
+2009-02,Paul Mccartney & Wings,2
+2009-02,Promoe,1
+2009-02,The Beatles,0
+2009-02,The Black Eyed Peas,1
+2009-03,Alicia Keys,1
+2009-03,Avril Lavigne,2
+2009-03,Christina Aguilera,1
+2009-03,Coldplay,2
+2009-03,Craig David,3
+2009-03,Foo Fighters,2
+2009-03,George Harrison,2
+2009-03,Jet,0
+2009-03,John Lennon,1
+2009-03,Looptroop,2
+2009-03,Maria Mena,1
+2009-03,Mew,1
+2009-03,Nelly Furtado,2
+2009-03,Oasis,4
+2009-03,P!Nk,1
+2009-03,Paul Mccartney,3
+2009-03,Paul Mccartney & Wings,1
+2009-03,Promoe,0
+2009-03,The Beatles,0
+2009-03,The Black Eyed Peas,0
+2009-04,Alicia Keys,0
+2009-04,Avril Lavigne,0
+2009-04,Christina Aguilera,0
+2009-04,Coldplay,0
+2009-04,Craig David,0
+2009-04,Foo Fighters,0
+2009-04,George Harrison,0
+2009-04,Jet,0
+2009-04,John Lennon,0
+2009-04,Looptroop,0
+2009-04,Maria Mena,0
+2009-04,Mew,0
+2009-04,Nelly Furtado,0
+2009-04,Oasis,0
+2009-04,P!Nk,1
+2009-04,Paul Mccartney,0
+2009-04,Paul Mccartney & Wings,0
+2009-04,Promoe,0
+2009-04,The Beatles,0
+2009-04,The Black Eyed Peas,0

@@ -1,0 +1,861 @@
+month,artist,plays
+2005-09,Amy Winehouse,0
+2005-09,Björk,4
+2005-09,Blink-182,4
+2005-09,Britney Spears,0
+2005-09,Calogero,2
+2005-09,Coldplay,1
+2005-09,Damien Rice,0
+2005-09,Dashboard Confessional,0
+2005-09,Édith Piaf,0
+2005-09,Franz Ferdinand,0
+2005-09,Gripin,0
+2005-09,James Blunt,0
+2005-09,Judas Priest,0
+2005-09,Kasabian,0
+2005-09,Lenny Kravitz,6
+2005-09,Muse,5
+2005-09,Nina Simone,0
+2005-09,Placebo,30
+2005-09,The Cure,36
+2005-09,Tori Amos,6
+2005-10,Amy Winehouse,0
+2005-10,Björk,0
+2005-10,Blink-182,0
+2005-10,Britney Spears,0
+2005-10,Calogero,0
+2005-10,Coldplay,4
+2005-10,Damien Rice,2
+2005-10,Dashboard Confessional,11
+2005-10,Édith Piaf,0
+2005-10,Franz Ferdinand,0
+2005-10,Gripin,0
+2005-10,James Blunt,13
+2005-10,Judas Priest,11
+2005-10,Kasabian,6
+2005-10,Lenny Kravitz,1
+2005-10,Muse,1
+2005-10,Nina Simone,0
+2005-10,Placebo,5
+2005-10,The Cure,4
+2005-10,Tori Amos,3
+2005-11,Amy Winehouse,0
+2005-11,Björk,5
+2005-11,Blink-182,9
+2005-11,Britney Spears,0
+2005-11,Calogero,1
+2005-11,Coldplay,9
+2005-11,Damien Rice,0
+2005-11,Dashboard Confessional,25
+2005-11,Édith Piaf,0
+2005-11,Franz Ferdinand,0
+2005-11,Gripin,11
+2005-11,James Blunt,5
+2005-11,Judas Priest,10
+2005-11,Kasabian,5
+2005-11,Lenny Kravitz,3
+2005-11,Muse,12
+2005-11,Nina Simone,0
+2005-11,Placebo,13
+2005-11,The Cure,15
+2005-11,Tori Amos,2
+2005-12,Amy Winehouse,0
+2005-12,Björk,1
+2005-12,Blink-182,1
+2005-12,Britney Spears,0
+2005-12,Calogero,9
+2005-12,Coldplay,0
+2005-12,Damien Rice,40
+2005-12,Dashboard Confessional,0
+2005-12,Édith Piaf,6
+2005-12,Franz Ferdinand,0
+2005-12,Gripin,5
+2005-12,James Blunt,22
+2005-12,Judas Priest,2
+2005-12,Kasabian,0
+2005-12,Lenny Kravitz,0
+2005-12,Muse,2
+2005-12,Nina Simone,0
+2005-12,Placebo,3
+2005-12,The Cure,2
+2005-12,Tori Amos,9
+2006-01,Amy Winehouse,0
+2006-01,Björk,1
+2006-01,Blink-182,2
+2006-01,Britney Spears,0
+2006-01,Calogero,0
+2006-01,Coldplay,1
+2006-01,Damien Rice,0
+2006-01,Dashboard Confessional,0
+2006-01,Édith Piaf,0
+2006-01,Franz Ferdinand,43
+2006-01,Gripin,7
+2006-01,James Blunt,0
+2006-01,Judas Priest,1
+2006-01,Kasabian,52
+2006-01,Lenny Kravitz,0
+2006-01,Muse,1
+2006-01,Nina Simone,0
+2006-01,Placebo,3
+2006-01,The Cure,3
+2006-01,Tori Amos,13
+2006-02,Amy Winehouse,0
+2006-02,Björk,0
+2006-02,Blink-182,0
+2006-02,Britney Spears,0
+2006-02,Calogero,0
+2006-02,Coldplay,0
+2006-02,Damien Rice,0
+2006-02,Dashboard Confessional,0
+2006-02,Édith Piaf,0
+2006-02,Franz Ferdinand,2
+2006-02,Gripin,0
+2006-02,James Blunt,0
+2006-02,Judas Priest,0
+2006-02,Kasabian,2
+2006-02,Lenny Kravitz,0
+2006-02,Muse,0
+2006-02,Nina Simone,0
+2006-02,Placebo,0
+2006-02,The Cure,0
+2006-02,Tori Amos,0
+2006-03,Amy Winehouse,0
+2006-03,Björk,0
+2006-03,Blink-182,0
+2006-03,Britney Spears,0
+2006-03,Calogero,0
+2006-03,Coldplay,0
+2006-03,Damien Rice,0
+2006-03,Dashboard Confessional,0
+2006-03,Édith Piaf,0
+2006-03,Franz Ferdinand,0
+2006-03,Gripin,0
+2006-03,James Blunt,0
+2006-03,Judas Priest,0
+2006-03,Kasabian,0
+2006-03,Lenny Kravitz,0
+2006-03,Muse,0
+2006-03,Nina Simone,0
+2006-03,Placebo,0
+2006-03,The Cure,0
+2006-03,Tori Amos,0
+2006-04,Amy Winehouse,0
+2006-04,Björk,0
+2006-04,Blink-182,0
+2006-04,Britney Spears,0
+2006-04,Calogero,0
+2006-04,Coldplay,0
+2006-04,Damien Rice,0
+2006-04,Dashboard Confessional,0
+2006-04,Édith Piaf,0
+2006-04,Franz Ferdinand,0
+2006-04,Gripin,0
+2006-04,James Blunt,0
+2006-04,Judas Priest,0
+2006-04,Kasabian,0
+2006-04,Lenny Kravitz,0
+2006-04,Muse,0
+2006-04,Nina Simone,0
+2006-04,Placebo,0
+2006-04,The Cure,0
+2006-04,Tori Amos,0
+2006-05,Amy Winehouse,0
+2006-05,Björk,0
+2006-05,Blink-182,0
+2006-05,Britney Spears,0
+2006-05,Calogero,0
+2006-05,Coldplay,0
+2006-05,Damien Rice,0
+2006-05,Dashboard Confessional,0
+2006-05,Édith Piaf,0
+2006-05,Franz Ferdinand,0
+2006-05,Gripin,0
+2006-05,James Blunt,0
+2006-05,Judas Priest,0
+2006-05,Kasabian,0
+2006-05,Lenny Kravitz,0
+2006-05,Muse,0
+2006-05,Nina Simone,0
+2006-05,Placebo,11
+2006-05,The Cure,0
+2006-05,Tori Amos,0
+2006-06,Amy Winehouse,0
+2006-06,Björk,0
+2006-06,Blink-182,0
+2006-06,Britney Spears,0
+2006-06,Calogero,0
+2006-06,Coldplay,0
+2006-06,Damien Rice,0
+2006-06,Dashboard Confessional,0
+2006-06,Édith Piaf,0
+2006-06,Franz Ferdinand,0
+2006-06,Gripin,0
+2006-06,James Blunt,0
+2006-06,Judas Priest,0
+2006-06,Kasabian,0
+2006-06,Lenny Kravitz,0
+2006-06,Muse,0
+2006-06,Nina Simone,0
+2006-06,Placebo,14
+2006-06,The Cure,0
+2006-06,Tori Amos,0
+2006-07,Amy Winehouse,0
+2006-07,Björk,0
+2006-07,Blink-182,0
+2006-07,Britney Spears,0
+2006-07,Calogero,0
+2006-07,Coldplay,0
+2006-07,Damien Rice,0
+2006-07,Dashboard Confessional,0
+2006-07,Édith Piaf,0
+2006-07,Franz Ferdinand,0
+2006-07,Gripin,0
+2006-07,James Blunt,0
+2006-07,Judas Priest,0
+2006-07,Kasabian,0
+2006-07,Lenny Kravitz,0
+2006-07,Muse,0
+2006-07,Nina Simone,0
+2006-07,Placebo,0
+2006-07,The Cure,0
+2006-07,Tori Amos,0
+2006-08,Amy Winehouse,0
+2006-08,Björk,0
+2006-08,Blink-182,0
+2006-08,Britney Spears,0
+2006-08,Calogero,0
+2006-08,Coldplay,0
+2006-08,Damien Rice,0
+2006-08,Dashboard Confessional,0
+2006-08,Édith Piaf,0
+2006-08,Franz Ferdinand,0
+2006-08,Gripin,0
+2006-08,James Blunt,0
+2006-08,Judas Priest,0
+2006-08,Kasabian,0
+2006-08,Lenny Kravitz,0
+2006-08,Muse,0
+2006-08,Nina Simone,0
+2006-08,Placebo,0
+2006-08,The Cure,0
+2006-08,Tori Amos,0
+2006-09,Amy Winehouse,0
+2006-09,Björk,0
+2006-09,Blink-182,0
+2006-09,Britney Spears,0
+2006-09,Calogero,0
+2006-09,Coldplay,0
+2006-09,Damien Rice,0
+2006-09,Dashboard Confessional,0
+2006-09,Édith Piaf,0
+2006-09,Franz Ferdinand,0
+2006-09,Gripin,0
+2006-09,James Blunt,0
+2006-09,Judas Priest,0
+2006-09,Kasabian,0
+2006-09,Lenny Kravitz,0
+2006-09,Muse,0
+2006-09,Nina Simone,0
+2006-09,Placebo,0
+2006-09,The Cure,0
+2006-09,Tori Amos,0
+2006-10,Amy Winehouse,0
+2006-10,Björk,0
+2006-10,Blink-182,0
+2006-10,Britney Spears,0
+2006-10,Calogero,0
+2006-10,Coldplay,0
+2006-10,Damien Rice,0
+2006-10,Dashboard Confessional,0
+2006-10,Édith Piaf,0
+2006-10,Franz Ferdinand,0
+2006-10,Gripin,0
+2006-10,James Blunt,0
+2006-10,Judas Priest,0
+2006-10,Kasabian,0
+2006-10,Lenny Kravitz,0
+2006-10,Muse,0
+2006-10,Nina Simone,0
+2006-10,Placebo,0
+2006-10,The Cure,0
+2006-10,Tori Amos,0
+2006-11,Amy Winehouse,0
+2006-11,Björk,0
+2006-11,Blink-182,0
+2006-11,Britney Spears,0
+2006-11,Calogero,0
+2006-11,Coldplay,0
+2006-11,Damien Rice,0
+2006-11,Dashboard Confessional,0
+2006-11,Édith Piaf,0
+2006-11,Franz Ferdinand,0
+2006-11,Gripin,0
+2006-11,James Blunt,0
+2006-11,Judas Priest,0
+2006-11,Kasabian,0
+2006-11,Lenny Kravitz,0
+2006-11,Muse,0
+2006-11,Nina Simone,0
+2006-11,Placebo,0
+2006-11,The Cure,0
+2006-11,Tori Amos,0
+2006-12,Amy Winehouse,0
+2006-12,Björk,0
+2006-12,Blink-182,0
+2006-12,Britney Spears,0
+2006-12,Calogero,0
+2006-12,Coldplay,0
+2006-12,Damien Rice,0
+2006-12,Dashboard Confessional,0
+2006-12,Édith Piaf,0
+2006-12,Franz Ferdinand,0
+2006-12,Gripin,0
+2006-12,James Blunt,0
+2006-12,Judas Priest,0
+2006-12,Kasabian,0
+2006-12,Lenny Kravitz,0
+2006-12,Muse,0
+2006-12,Nina Simone,0
+2006-12,Placebo,0
+2006-12,The Cure,0
+2006-12,Tori Amos,0
+2007-01,Amy Winehouse,0
+2007-01,Björk,0
+2007-01,Blink-182,0
+2007-01,Britney Spears,0
+2007-01,Calogero,0
+2007-01,Coldplay,0
+2007-01,Damien Rice,0
+2007-01,Dashboard Confessional,0
+2007-01,Édith Piaf,0
+2007-01,Franz Ferdinand,0
+2007-01,Gripin,0
+2007-01,James Blunt,0
+2007-01,Judas Priest,0
+2007-01,Kasabian,0
+2007-01,Lenny Kravitz,0
+2007-01,Muse,0
+2007-01,Nina Simone,0
+2007-01,Placebo,0
+2007-01,The Cure,0
+2007-01,Tori Amos,0
+2007-02,Amy Winehouse,0
+2007-02,Björk,0
+2007-02,Blink-182,0
+2007-02,Britney Spears,0
+2007-02,Calogero,0
+2007-02,Coldplay,0
+2007-02,Damien Rice,0
+2007-02,Dashboard Confessional,0
+2007-02,Édith Piaf,0
+2007-02,Franz Ferdinand,0
+2007-02,Gripin,0
+2007-02,James Blunt,0
+2007-02,Judas Priest,0
+2007-02,Kasabian,0
+2007-02,Lenny Kravitz,0
+2007-02,Muse,0
+2007-02,Nina Simone,7
+2007-02,Placebo,0
+2007-02,The Cure,0
+2007-02,Tori Amos,0
+2007-03,Amy Winehouse,0
+2007-03,Björk,0
+2007-03,Blink-182,0
+2007-03,Britney Spears,0
+2007-03,Calogero,0
+2007-03,Coldplay,0
+2007-03,Damien Rice,0
+2007-03,Dashboard Confessional,1
+2007-03,Édith Piaf,0
+2007-03,Franz Ferdinand,0
+2007-03,Gripin,0
+2007-03,James Blunt,0
+2007-03,Judas Priest,0
+2007-03,Kasabian,0
+2007-03,Lenny Kravitz,0
+2007-03,Muse,0
+2007-03,Nina Simone,0
+2007-03,Placebo,0
+2007-03,The Cure,0
+2007-03,Tori Amos,0
+2007-04,Amy Winehouse,0
+2007-04,Björk,0
+2007-04,Blink-182,0
+2007-04,Britney Spears,0
+2007-04,Calogero,0
+2007-04,Coldplay,0
+2007-04,Damien Rice,0
+2007-04,Dashboard Confessional,0
+2007-04,Édith Piaf,0
+2007-04,Franz Ferdinand,0
+2007-04,Gripin,0
+2007-04,James Blunt,0
+2007-04,Judas Priest,0
+2007-04,Kasabian,0
+2007-04,Lenny Kravitz,0
+2007-04,Muse,0
+2007-04,Nina Simone,0
+2007-04,Placebo,0
+2007-04,The Cure,0
+2007-04,Tori Amos,0
+2007-05,Amy Winehouse,0
+2007-05,Björk,0
+2007-05,Blink-182,0
+2007-05,Britney Spears,0
+2007-05,Calogero,0
+2007-05,Coldplay,0
+2007-05,Damien Rice,0
+2007-05,Dashboard Confessional,0
+2007-05,Édith Piaf,0
+2007-05,Franz Ferdinand,0
+2007-05,Gripin,0
+2007-05,James Blunt,0
+2007-05,Judas Priest,0
+2007-05,Kasabian,0
+2007-05,Lenny Kravitz,0
+2007-05,Muse,0
+2007-05,Nina Simone,0
+2007-05,Placebo,0
+2007-05,The Cure,0
+2007-05,Tori Amos,0
+2007-06,Amy Winehouse,0
+2007-06,Björk,3
+2007-06,Blink-182,38
+2007-06,Britney Spears,0
+2007-06,Calogero,0
+2007-06,Coldplay,0
+2007-06,Damien Rice,0
+2007-06,Dashboard Confessional,8
+2007-06,Édith Piaf,0
+2007-06,Franz Ferdinand,0
+2007-06,Gripin,0
+2007-06,James Blunt,0
+2007-06,Judas Priest,0
+2007-06,Kasabian,0
+2007-06,Lenny Kravitz,0
+2007-06,Muse,0
+2007-06,Nina Simone,0
+2007-06,Placebo,0
+2007-06,The Cure,0
+2007-06,Tori Amos,0
+2007-07,Amy Winehouse,0
+2007-07,Björk,0
+2007-07,Blink-182,0
+2007-07,Britney Spears,0
+2007-07,Calogero,0
+2007-07,Coldplay,0
+2007-07,Damien Rice,0
+2007-07,Dashboard Confessional,0
+2007-07,Édith Piaf,0
+2007-07,Franz Ferdinand,0
+2007-07,Gripin,3
+2007-07,James Blunt,0
+2007-07,Judas Priest,0
+2007-07,Kasabian,0
+2007-07,Lenny Kravitz,0
+2007-07,Muse,0
+2007-07,Nina Simone,30
+2007-07,Placebo,25
+2007-07,The Cure,0
+2007-07,Tori Amos,0
+2007-08,Amy Winehouse,0
+2007-08,Björk,0
+2007-08,Blink-182,0
+2007-08,Britney Spears,0
+2007-08,Calogero,0
+2007-08,Coldplay,0
+2007-08,Damien Rice,0
+2007-08,Dashboard Confessional,0
+2007-08,Édith Piaf,0
+2007-08,Franz Ferdinand,0
+2007-08,Gripin,0
+2007-08,James Blunt,0
+2007-08,Judas Priest,0
+2007-08,Kasabian,0
+2007-08,Lenny Kravitz,0
+2007-08,Muse,0
+2007-08,Nina Simone,0
+2007-08,Placebo,0
+2007-08,The Cure,0
+2007-08,Tori Amos,0
+2007-09,Amy Winehouse,0
+2007-09,Björk,0
+2007-09,Blink-182,0
+2007-09,Britney Spears,0
+2007-09,Calogero,0
+2007-09,Coldplay,0
+2007-09,Damien Rice,5
+2007-09,Dashboard Confessional,0
+2007-09,Édith Piaf,0
+2007-09,Franz Ferdinand,0
+2007-09,Gripin,0
+2007-09,James Blunt,0
+2007-09,Judas Priest,0
+2007-09,Kasabian,0
+2007-09,Lenny Kravitz,0
+2007-09,Muse,0
+2007-09,Nina Simone,0
+2007-09,Placebo,0
+2007-09,The Cure,0
+2007-09,Tori Amos,0
+2007-10,Amy Winehouse,2
+2007-10,Björk,0
+2007-10,Blink-182,0
+2007-10,Britney Spears,0
+2007-10,Calogero,0
+2007-10,Coldplay,0
+2007-10,Damien Rice,0
+2007-10,Dashboard Confessional,0
+2007-10,Édith Piaf,0
+2007-10,Franz Ferdinand,0
+2007-10,Gripin,0
+2007-10,James Blunt,0
+2007-10,Judas Priest,0
+2007-10,Kasabian,0
+2007-10,Lenny Kravitz,0
+2007-10,Muse,0
+2007-10,Nina Simone,0
+2007-10,Placebo,0
+2007-10,The Cure,0
+2007-10,Tori Amos,0
+2007-11,Amy Winehouse,6
+2007-11,Björk,0
+2007-11,Blink-182,0
+2007-11,Britney Spears,0
+2007-11,Calogero,0
+2007-11,Coldplay,0
+2007-11,Damien Rice,0
+2007-11,Dashboard Confessional,0
+2007-11,Édith Piaf,10
+2007-11,Franz Ferdinand,2
+2007-11,Gripin,14
+2007-11,James Blunt,5
+2007-11,Judas Priest,0
+2007-11,Kasabian,0
+2007-11,Lenny Kravitz,0
+2007-11,Muse,0
+2007-11,Nina Simone,0
+2007-11,Placebo,2
+2007-11,The Cure,0
+2007-11,Tori Amos,2
+2007-12,Amy Winehouse,0
+2007-12,Björk,0
+2007-12,Blink-182,0
+2007-12,Britney Spears,0
+2007-12,Calogero,0
+2007-12,Coldplay,0
+2007-12,Damien Rice,20
+2007-12,Dashboard Confessional,0
+2007-12,Édith Piaf,0
+2007-12,Franz Ferdinand,0
+2007-12,Gripin,0
+2007-12,James Blunt,0
+2007-12,Judas Priest,0
+2007-12,Kasabian,0
+2007-12,Lenny Kravitz,0
+2007-12,Muse,0
+2007-12,Nina Simone,36
+2007-12,Placebo,15
+2007-12,The Cure,0
+2007-12,Tori Amos,0
+2008-01,Amy Winehouse,0
+2008-01,Björk,0
+2008-01,Blink-182,0
+2008-01,Britney Spears,0
+2008-01,Calogero,0
+2008-01,Coldplay,0
+2008-01,Damien Rice,0
+2008-01,Dashboard Confessional,0
+2008-01,Édith Piaf,0
+2008-01,Franz Ferdinand,0
+2008-01,Gripin,0
+2008-01,James Blunt,0
+2008-01,Judas Priest,0
+2008-01,Kasabian,0
+2008-01,Lenny Kravitz,0
+2008-01,Muse,0
+2008-01,Nina Simone,0
+2008-01,Placebo,0
+2008-01,The Cure,0
+2008-01,Tori Amos,0
+2008-02,Amy Winehouse,6
+2008-02,Björk,0
+2008-02,Blink-182,0
+2008-02,Britney Spears,1
+2008-02,Calogero,0
+2008-02,Coldplay,1
+2008-02,Damien Rice,0
+2008-02,Dashboard Confessional,0
+2008-02,Édith Piaf,0
+2008-02,Franz Ferdinand,0
+2008-02,Gripin,0
+2008-02,James Blunt,1
+2008-02,Judas Priest,0
+2008-02,Kasabian,0
+2008-02,Lenny Kravitz,0
+2008-02,Muse,0
+2008-02,Nina Simone,0
+2008-02,Placebo,2
+2008-02,The Cure,0
+2008-02,Tori Amos,0
+2008-03,Amy Winehouse,0
+2008-03,Björk,0
+2008-03,Blink-182,0
+2008-03,Britney Spears,0
+2008-03,Calogero,0
+2008-03,Coldplay,0
+2008-03,Damien Rice,0
+2008-03,Dashboard Confessional,0
+2008-03,Édith Piaf,0
+2008-03,Franz Ferdinand,0
+2008-03,Gripin,0
+2008-03,James Blunt,0
+2008-03,Judas Priest,0
+2008-03,Kasabian,0
+2008-03,Lenny Kravitz,0
+2008-03,Muse,0
+2008-03,Nina Simone,0
+2008-03,Placebo,0
+2008-03,The Cure,0
+2008-03,Tori Amos,0
+2008-04,Amy Winehouse,0
+2008-04,Björk,0
+2008-04,Blink-182,0
+2008-04,Britney Spears,0
+2008-04,Calogero,0
+2008-04,Coldplay,0
+2008-04,Damien Rice,2
+2008-04,Dashboard Confessional,0
+2008-04,Édith Piaf,0
+2008-04,Franz Ferdinand,0
+2008-04,Gripin,0
+2008-04,James Blunt,0
+2008-04,Judas Priest,0
+2008-04,Kasabian,0
+2008-04,Lenny Kravitz,0
+2008-04,Muse,0
+2008-04,Nina Simone,0
+2008-04,Placebo,0
+2008-04,The Cure,0
+2008-04,Tori Amos,0
+2008-05,Amy Winehouse,0
+2008-05,Björk,0
+2008-05,Blink-182,0
+2008-05,Britney Spears,0
+2008-05,Calogero,0
+2008-05,Coldplay,0
+2008-05,Damien Rice,0
+2008-05,Dashboard Confessional,0
+2008-05,Édith Piaf,0
+2008-05,Franz Ferdinand,0
+2008-05,Gripin,0
+2008-05,James Blunt,0
+2008-05,Judas Priest,0
+2008-05,Kasabian,0
+2008-05,Lenny Kravitz,26
+2008-05,Muse,0
+2008-05,Nina Simone,0
+2008-05,Placebo,0
+2008-05,The Cure,0
+2008-05,Tori Amos,0
+2008-06,Amy Winehouse,0
+2008-06,Björk,0
+2008-06,Blink-182,0
+2008-06,Britney Spears,0
+2008-06,Calogero,0
+2008-06,Coldplay,0
+2008-06,Damien Rice,0
+2008-06,Dashboard Confessional,0
+2008-06,Édith Piaf,0
+2008-06,Franz Ferdinand,0
+2008-06,Gripin,0
+2008-06,James Blunt,0
+2008-06,Judas Priest,0
+2008-06,Kasabian,0
+2008-06,Lenny Kravitz,0
+2008-06,Muse,0
+2008-06,Nina Simone,0
+2008-06,Placebo,0
+2008-06,The Cure,0
+2008-06,Tori Amos,0
+2008-07,Amy Winehouse,0
+2008-07,Björk,0
+2008-07,Blink-182,0
+2008-07,Britney Spears,0
+2008-07,Calogero,0
+2008-07,Coldplay,0
+2008-07,Damien Rice,0
+2008-07,Dashboard Confessional,0
+2008-07,Édith Piaf,0
+2008-07,Franz Ferdinand,0
+2008-07,Gripin,0
+2008-07,James Blunt,0
+2008-07,Judas Priest,0
+2008-07,Kasabian,0
+2008-07,Lenny Kravitz,0
+2008-07,Muse,0
+2008-07,Nina Simone,0
+2008-07,Placebo,0
+2008-07,The Cure,0
+2008-07,Tori Amos,0
+2008-08,Amy Winehouse,1
+2008-08,Björk,0
+2008-08,Blink-182,0
+2008-08,Britney Spears,0
+2008-08,Calogero,0
+2008-08,Coldplay,0
+2008-08,Damien Rice,0
+2008-08,Dashboard Confessional,0
+2008-08,Édith Piaf,0
+2008-08,Franz Ferdinand,1
+2008-08,Gripin,0
+2008-08,James Blunt,0
+2008-08,Judas Priest,0
+2008-08,Kasabian,1
+2008-08,Lenny Kravitz,1
+2008-08,Muse,0
+2008-08,Nina Simone,0
+2008-08,Placebo,2
+2008-08,The Cure,0
+2008-08,Tori Amos,1
+2008-09,Amy Winehouse,3
+2008-09,Björk,0
+2008-09,Blink-182,0
+2008-09,Britney Spears,1
+2008-09,Calogero,2
+2008-09,Coldplay,1
+2008-09,Damien Rice,0
+2008-09,Dashboard Confessional,0
+2008-09,Édith Piaf,9
+2008-09,Franz Ferdinand,1
+2008-09,Gripin,1
+2008-09,James Blunt,0
+2008-09,Judas Priest,1
+2008-09,Kasabian,0
+2008-09,Lenny Kravitz,0
+2008-09,Muse,2
+2008-09,Nina Simone,1
+2008-09,Placebo,4
+2008-09,The Cure,1
+2008-09,Tori Amos,0
+2008-10,Amy Winehouse,0
+2008-10,Björk,0
+2008-10,Blink-182,0
+2008-10,Britney Spears,1
+2008-10,Calogero,0
+2008-10,Coldplay,0
+2008-10,Damien Rice,0
+2008-10,Dashboard Confessional,0
+2008-10,Édith Piaf,0
+2008-10,Franz Ferdinand,0
+2008-10,Gripin,0
+2008-10,James Blunt,0
+2008-10,Judas Priest,0
+2008-10,Kasabian,0
+2008-10,Lenny Kravitz,0
+2008-10,Muse,0
+2008-10,Nina Simone,0
+2008-10,Placebo,0
+2008-10,The Cure,0
+2008-10,Tori Amos,0
+2008-11,Amy Winehouse,0
+2008-11,Björk,0
+2008-11,Blink-182,0
+2008-11,Britney Spears,1
+2008-11,Calogero,0
+2008-11,Coldplay,0
+2008-11,Damien Rice,0
+2008-11,Dashboard Confessional,0
+2008-11,Édith Piaf,0
+2008-11,Franz Ferdinand,0
+2008-11,Gripin,0
+2008-11,James Blunt,0
+2008-11,Judas Priest,0
+2008-11,Kasabian,0
+2008-11,Lenny Kravitz,0
+2008-11,Muse,0
+2008-11,Nina Simone,0
+2008-11,Placebo,0
+2008-11,The Cure,0
+2008-11,Tori Amos,0
+2008-12,Amy Winehouse,0
+2008-12,Björk,0
+2008-12,Blink-182,0
+2008-12,Britney Spears,0
+2008-12,Calogero,3
+2008-12,Coldplay,0
+2008-12,Damien Rice,5
+2008-12,Dashboard Confessional,10
+2008-12,Édith Piaf,41
+2008-12,Franz Ferdinand,0
+2008-12,Gripin,7
+2008-12,James Blunt,0
+2008-12,Judas Priest,0
+2008-12,Kasabian,0
+2008-12,Lenny Kravitz,24
+2008-12,Muse,0
+2008-12,Nina Simone,1
+2008-12,Placebo,70
+2008-12,The Cure,0
+2008-12,Tori Amos,0
+2009-01,Amy Winehouse,0
+2009-01,Björk,0
+2009-01,Blink-182,0
+2009-01,Britney Spears,16
+2009-01,Calogero,38
+2009-01,Coldplay,0
+2009-01,Damien Rice,12
+2009-01,Dashboard Confessional,0
+2009-01,Édith Piaf,3
+2009-01,Franz Ferdinand,0
+2009-01,Gripin,0
+2009-01,James Blunt,1
+2009-01,Judas Priest,0
+2009-01,Kasabian,0
+2009-01,Lenny Kravitz,0
+2009-01,Muse,0
+2009-01,Nina Simone,33
+2009-01,Placebo,0
+2009-01,The Cure,14
+2009-01,Tori Amos,0
+2009-02,Amy Winehouse,0
+2009-02,Björk,0
+2009-02,Blink-182,0
+2009-02,Britney Spears,0
+2009-02,Calogero,0
+2009-02,Coldplay,0
+2009-02,Damien Rice,0
+2009-02,Dashboard Confessional,0
+2009-02,Édith Piaf,0
+2009-02,Franz Ferdinand,0
+2009-02,Gripin,0
+2009-02,James Blunt,0
+2009-02,Judas Priest,0
+2009-02,Kasabian,0
+2009-02,Lenny Kravitz,0
+2009-02,Muse,0
+2009-02,Nina Simone,0
+2009-02,Placebo,0
+2009-02,The Cure,0
+2009-02,Tori Amos,0
+2009-03,Amy Winehouse,0
+2009-03,Björk,0
+2009-03,Blink-182,0
+2009-03,Britney Spears,0
+2009-03,Calogero,0
+2009-03,Coldplay,0
+2009-03,Damien Rice,0
+2009-03,Dashboard Confessional,1
+2009-03,Édith Piaf,0
+2009-03,Franz Ferdinand,0
+2009-03,Gripin,0
+2009-03,James Blunt,0
+2009-03,Judas Priest,0
+2009-03,Kasabian,0
+2009-03,Lenny Kravitz,0
+2009-03,Muse,0
+2009-03,Nina Simone,0
+2009-03,Placebo,0
+2009-03,The Cure,0
+2009-03,Tori Amos,0

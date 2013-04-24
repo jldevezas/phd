@@ -1,0 +1,661 @@
+month,artist,plays
+2006-08,!!!,0
+2006-08,Arcade Fire,0
+2006-08,Architecture In Helsinki,0
+2006-08,Be Your Own Pet,0
+2006-08,Belle And Sebastian,16
+2006-08,Bloc Party,0
+2006-08,Camera Obscura,0
+2006-08,Cansei De Ser Sexy,0
+2006-08,Clap Your Hands Say Yeah,7
+2006-08,Death Cab For Cutie,0
+2006-08,Elliott Smith,0
+2006-08,Graham Coxon,0
+2006-08,Helen Love,0
+2006-08,Her Space Holiday,0
+2006-08,Kings Of Convenience,0
+2006-08,Le Tigre,0
+2006-08,Mates Of State,0
+2006-08,Tegan And Sara,0
+2006-08,The Shins,0
+2006-08,You Say Party! We Say Die!,11
+2006-09,!!!,23
+2006-09,Arcade Fire,102
+2006-09,Architecture In Helsinki,48
+2006-09,Be Your Own Pet,16
+2006-09,Belle And Sebastian,300
+2006-09,Bloc Party,2
+2006-09,Camera Obscura,43
+2006-09,Cansei De Ser Sexy,34
+2006-09,Clap Your Hands Say Yeah,4
+2006-09,Death Cab For Cutie,25
+2006-09,Elliott Smith,89
+2006-09,Graham Coxon,2
+2006-09,Helen Love,4
+2006-09,Her Space Holiday,25
+2006-09,Kings Of Convenience,34
+2006-09,Le Tigre,7
+2006-09,Mates Of State,3
+2006-09,Tegan And Sara,7
+2006-09,The Shins,195
+2006-09,You Say Party! We Say Die!,93
+2006-10,!!!,1
+2006-10,Arcade Fire,17
+2006-10,Architecture In Helsinki,4
+2006-10,Be Your Own Pet,17
+2006-10,Belle And Sebastian,3
+2006-10,Bloc Party,28
+2006-10,Camera Obscura,25
+2006-10,Cansei De Ser Sexy,1
+2006-10,Clap Your Hands Say Yeah,2
+2006-10,Death Cab For Cutie,0
+2006-10,Elliott Smith,3
+2006-10,Graham Coxon,4
+2006-10,Helen Love,11
+2006-10,Her Space Holiday,1
+2006-10,Kings Of Convenience,20
+2006-10,Le Tigre,1
+2006-10,Mates Of State,1
+2006-10,Tegan And Sara,199
+2006-10,The Shins,1
+2006-10,You Say Party! We Say Die!,1
+2006-11,!!!,13
+2006-11,Arcade Fire,19
+2006-11,Architecture In Helsinki,3
+2006-11,Be Your Own Pet,20
+2006-11,Belle And Sebastian,139
+2006-11,Bloc Party,14
+2006-11,Camera Obscura,27
+2006-11,Cansei De Ser Sexy,24
+2006-11,Clap Your Hands Say Yeah,7
+2006-11,Death Cab For Cutie,4
+2006-11,Elliott Smith,5
+2006-11,Graham Coxon,8
+2006-11,Helen Love,9
+2006-11,Her Space Holiday,19
+2006-11,Kings Of Convenience,9
+2006-11,Le Tigre,7
+2006-11,Mates Of State,23
+2006-11,Tegan And Sara,14
+2006-11,The Shins,17
+2006-11,You Say Party! We Say Die!,13
+2006-12,!!!,0
+2006-12,Arcade Fire,0
+2006-12,Architecture In Helsinki,2
+2006-12,Be Your Own Pet,0
+2006-12,Belle And Sebastian,40
+2006-12,Bloc Party,2
+2006-12,Camera Obscura,7
+2006-12,Cansei De Ser Sexy,3
+2006-12,Clap Your Hands Say Yeah,1
+2006-12,Death Cab For Cutie,0
+2006-12,Elliott Smith,0
+2006-12,Graham Coxon,3
+2006-12,Helen Love,2
+2006-12,Her Space Holiday,2
+2006-12,Kings Of Convenience,2
+2006-12,Le Tigre,5
+2006-12,Mates Of State,1
+2006-12,Tegan And Sara,3
+2006-12,The Shins,47
+2006-12,You Say Party! We Say Die!,1
+2007-01,!!!,5
+2007-01,Arcade Fire,4
+2007-01,Architecture In Helsinki,16
+2007-01,Be Your Own Pet,3
+2007-01,Belle And Sebastian,120
+2007-01,Bloc Party,6
+2007-01,Camera Obscura,14
+2007-01,Cansei De Ser Sexy,84
+2007-01,Clap Your Hands Say Yeah,3
+2007-01,Death Cab For Cutie,2
+2007-01,Elliott Smith,1
+2007-01,Graham Coxon,3
+2007-01,Helen Love,9
+2007-01,Her Space Holiday,5
+2007-01,Kings Of Convenience,7
+2007-01,Le Tigre,6
+2007-01,Mates Of State,5
+2007-01,Tegan And Sara,7
+2007-01,The Shins,33
+2007-01,You Say Party! We Say Die!,2
+2007-02,!!!,4
+2007-02,Arcade Fire,6
+2007-02,Architecture In Helsinki,8
+2007-02,Be Your Own Pet,2
+2007-02,Belle And Sebastian,56
+2007-02,Bloc Party,15
+2007-02,Camera Obscura,10
+2007-02,Cansei De Ser Sexy,9
+2007-02,Clap Your Hands Say Yeah,3
+2007-02,Death Cab For Cutie,4
+2007-02,Elliott Smith,26
+2007-02,Graham Coxon,12
+2007-02,Helen Love,7
+2007-02,Her Space Holiday,7
+2007-02,Kings Of Convenience,11
+2007-02,Le Tigre,3
+2007-02,Mates Of State,6
+2007-02,Tegan And Sara,19
+2007-02,The Shins,2
+2007-02,You Say Party! We Say Die!,18
+2007-03,!!!,2
+2007-03,Arcade Fire,4
+2007-03,Architecture In Helsinki,7
+2007-03,Be Your Own Pet,3
+2007-03,Belle And Sebastian,43
+2007-03,Bloc Party,100
+2007-03,Camera Obscura,4
+2007-03,Cansei De Ser Sexy,10
+2007-03,Clap Your Hands Say Yeah,4
+2007-03,Death Cab For Cutie,4
+2007-03,Elliott Smith,4
+2007-03,Graham Coxon,4
+2007-03,Helen Love,5
+2007-03,Her Space Holiday,5
+2007-03,Kings Of Convenience,4
+2007-03,Le Tigre,1
+2007-03,Mates Of State,3
+2007-03,Tegan And Sara,10
+2007-03,The Shins,234
+2007-03,You Say Party! We Say Die!,9
+2007-04,!!!,45
+2007-04,Arcade Fire,35
+2007-04,Architecture In Helsinki,10
+2007-04,Be Your Own Pet,24
+2007-04,Belle And Sebastian,21
+2007-04,Bloc Party,11
+2007-04,Camera Obscura,27
+2007-04,Cansei De Ser Sexy,7
+2007-04,Clap Your Hands Say Yeah,3
+2007-04,Death Cab For Cutie,6
+2007-04,Elliott Smith,3
+2007-04,Graham Coxon,11
+2007-04,Helen Love,14
+2007-04,Her Space Holiday,5
+2007-04,Kings Of Convenience,6
+2007-04,Le Tigre,7
+2007-04,Mates Of State,12
+2007-04,Tegan And Sara,7
+2007-04,The Shins,68
+2007-04,You Say Party! We Say Die!,2
+2007-05,!!!,0
+2007-05,Arcade Fire,0
+2007-05,Architecture In Helsinki,0
+2007-05,Be Your Own Pet,0
+2007-05,Belle And Sebastian,40
+2007-05,Bloc Party,0
+2007-05,Camera Obscura,0
+2007-05,Cansei De Ser Sexy,0
+2007-05,Clap Your Hands Say Yeah,0
+2007-05,Death Cab For Cutie,0
+2007-05,Elliott Smith,0
+2007-05,Graham Coxon,0
+2007-05,Helen Love,0
+2007-05,Her Space Holiday,0
+2007-05,Kings Of Convenience,0
+2007-05,Le Tigre,0
+2007-05,Mates Of State,0
+2007-05,Tegan And Sara,0
+2007-05,The Shins,33
+2007-05,You Say Party! We Say Die!,0
+2007-06,!!!,7
+2007-06,Arcade Fire,0
+2007-06,Architecture In Helsinki,0
+2007-06,Be Your Own Pet,0
+2007-06,Belle And Sebastian,22
+2007-06,Bloc Party,1
+2007-06,Camera Obscura,0
+2007-06,Cansei De Ser Sexy,0
+2007-06,Clap Your Hands Say Yeah,0
+2007-06,Death Cab For Cutie,0
+2007-06,Elliott Smith,0
+2007-06,Graham Coxon,1
+2007-06,Helen Love,0
+2007-06,Her Space Holiday,1
+2007-06,Kings Of Convenience,0
+2007-06,Le Tigre,0
+2007-06,Mates Of State,1
+2007-06,Tegan And Sara,0
+2007-06,The Shins,6
+2007-06,You Say Party! We Say Die!,0
+2007-07,!!!,0
+2007-07,Arcade Fire,0
+2007-07,Architecture In Helsinki,18
+2007-07,Be Your Own Pet,8
+2007-07,Belle And Sebastian,49
+2007-07,Bloc Party,0
+2007-07,Camera Obscura,0
+2007-07,Cansei De Ser Sexy,0
+2007-07,Clap Your Hands Say Yeah,0
+2007-07,Death Cab For Cutie,0
+2007-07,Elliott Smith,0
+2007-07,Graham Coxon,0
+2007-07,Helen Love,0
+2007-07,Her Space Holiday,0
+2007-07,Kings Of Convenience,0
+2007-07,Le Tigre,3
+2007-07,Mates Of State,0
+2007-07,Tegan And Sara,0
+2007-07,The Shins,0
+2007-07,You Say Party! We Say Die!,0
+2007-08,!!!,0
+2007-08,Arcade Fire,0
+2007-08,Architecture In Helsinki,0
+2007-08,Be Your Own Pet,0
+2007-08,Belle And Sebastian,0
+2007-08,Bloc Party,0
+2007-08,Camera Obscura,0
+2007-08,Cansei De Ser Sexy,0
+2007-08,Clap Your Hands Say Yeah,0
+2007-08,Death Cab For Cutie,0
+2007-08,Elliott Smith,0
+2007-08,Graham Coxon,0
+2007-08,Helen Love,0
+2007-08,Her Space Holiday,0
+2007-08,Kings Of Convenience,0
+2007-08,Le Tigre,0
+2007-08,Mates Of State,0
+2007-08,Tegan And Sara,12
+2007-08,The Shins,0
+2007-08,You Say Party! We Say Die!,0
+2007-09,!!!,0
+2007-09,Arcade Fire,0
+2007-09,Architecture In Helsinki,6
+2007-09,Be Your Own Pet,0
+2007-09,Belle And Sebastian,0
+2007-09,Bloc Party,0
+2007-09,Camera Obscura,0
+2007-09,Cansei De Ser Sexy,0
+2007-09,Clap Your Hands Say Yeah,0
+2007-09,Death Cab For Cutie,0
+2007-09,Elliott Smith,0
+2007-09,Graham Coxon,0
+2007-09,Helen Love,0
+2007-09,Her Space Holiday,0
+2007-09,Kings Of Convenience,0
+2007-09,Le Tigre,0
+2007-09,Mates Of State,0
+2007-09,Tegan And Sara,0
+2007-09,The Shins,0
+2007-09,You Say Party! We Say Die!,0
+2007-10,!!!,4
+2007-10,Arcade Fire,4
+2007-10,Architecture In Helsinki,3
+2007-10,Be Your Own Pet,1
+2007-10,Belle And Sebastian,0
+2007-10,Bloc Party,0
+2007-10,Camera Obscura,1
+2007-10,Cansei De Ser Sexy,0
+2007-10,Clap Your Hands Say Yeah,0
+2007-10,Death Cab For Cutie,4
+2007-10,Elliott Smith,1
+2007-10,Graham Coxon,1
+2007-10,Helen Love,0
+2007-10,Her Space Holiday,0
+2007-10,Kings Of Convenience,1
+2007-10,Le Tigre,0
+2007-10,Mates Of State,0
+2007-10,Tegan And Sara,0
+2007-10,The Shins,0
+2007-10,You Say Party! We Say Die!,0
+2007-11,!!!,0
+2007-11,Arcade Fire,1
+2007-11,Architecture In Helsinki,1
+2007-11,Be Your Own Pet,1
+2007-11,Belle And Sebastian,3
+2007-11,Bloc Party,5
+2007-11,Camera Obscura,2
+2007-11,Cansei De Ser Sexy,2
+2007-11,Clap Your Hands Say Yeah,1
+2007-11,Death Cab For Cutie,5
+2007-11,Elliott Smith,4
+2007-11,Graham Coxon,3
+2007-11,Helen Love,5
+2007-11,Her Space Holiday,1
+2007-11,Kings Of Convenience,2
+2007-11,Le Tigre,4
+2007-11,Mates Of State,2
+2007-11,Tegan And Sara,3
+2007-11,The Shins,1
+2007-11,You Say Party! We Say Die!,0
+2007-12,!!!,0
+2007-12,Arcade Fire,0
+2007-12,Architecture In Helsinki,0
+2007-12,Be Your Own Pet,0
+2007-12,Belle And Sebastian,0
+2007-12,Bloc Party,0
+2007-12,Camera Obscura,0
+2007-12,Cansei De Ser Sexy,0
+2007-12,Clap Your Hands Say Yeah,0
+2007-12,Death Cab For Cutie,0
+2007-12,Elliott Smith,0
+2007-12,Graham Coxon,0
+2007-12,Helen Love,0
+2007-12,Her Space Holiday,0
+2007-12,Kings Of Convenience,0
+2007-12,Le Tigre,0
+2007-12,Mates Of State,0
+2007-12,Tegan And Sara,0
+2007-12,The Shins,32
+2007-12,You Say Party! We Say Die!,0
+2008-01,!!!,4
+2008-01,Arcade Fire,1
+2008-01,Architecture In Helsinki,12
+2008-01,Be Your Own Pet,0
+2008-01,Belle And Sebastian,7
+2008-01,Bloc Party,1
+2008-01,Camera Obscura,2
+2008-01,Cansei De Ser Sexy,0
+2008-01,Clap Your Hands Say Yeah,1
+2008-01,Death Cab For Cutie,1
+2008-01,Elliott Smith,1
+2008-01,Graham Coxon,0
+2008-01,Helen Love,1
+2008-01,Her Space Holiday,1
+2008-01,Kings Of Convenience,1
+2008-01,Le Tigre,4
+2008-01,Mates Of State,1
+2008-01,Tegan And Sara,3
+2008-01,The Shins,2
+2008-01,You Say Party! We Say Die!,1
+2008-02,!!!,1
+2008-02,Arcade Fire,2
+2008-02,Architecture In Helsinki,2
+2008-02,Be Your Own Pet,0
+2008-02,Belle And Sebastian,4
+2008-02,Bloc Party,1
+2008-02,Camera Obscura,0
+2008-02,Cansei De Ser Sexy,1
+2008-02,Clap Your Hands Say Yeah,1
+2008-02,Death Cab For Cutie,3
+2008-02,Elliott Smith,0
+2008-02,Graham Coxon,1
+2008-02,Helen Love,1
+2008-02,Her Space Holiday,0
+2008-02,Kings Of Convenience,3
+2008-02,Le Tigre,2
+2008-02,Mates Of State,0
+2008-02,Tegan And Sara,2
+2008-02,The Shins,0
+2008-02,You Say Party! We Say Die!,0
+2008-03,!!!,2
+2008-03,Arcade Fire,4
+2008-03,Architecture In Helsinki,0
+2008-03,Be Your Own Pet,0
+2008-03,Belle And Sebastian,6
+2008-03,Bloc Party,0
+2008-03,Camera Obscura,0
+2008-03,Cansei De Ser Sexy,0
+2008-03,Clap Your Hands Say Yeah,1
+2008-03,Death Cab For Cutie,0
+2008-03,Elliott Smith,3
+2008-03,Graham Coxon,1
+2008-03,Helen Love,2
+2008-03,Her Space Holiday,2
+2008-03,Kings Of Convenience,3
+2008-03,Le Tigre,3
+2008-03,Mates Of State,1
+2008-03,Tegan And Sara,0
+2008-03,The Shins,32
+2008-03,You Say Party! We Say Die!,8
+2008-04,!!!,1
+2008-04,Arcade Fire,1
+2008-04,Architecture In Helsinki,0
+2008-04,Be Your Own Pet,17
+2008-04,Belle And Sebastian,6
+2008-04,Bloc Party,0
+2008-04,Camera Obscura,0
+2008-04,Cansei De Ser Sexy,1
+2008-04,Clap Your Hands Say Yeah,0
+2008-04,Death Cab For Cutie,3
+2008-04,Elliott Smith,2
+2008-04,Graham Coxon,4
+2008-04,Helen Love,3
+2008-04,Her Space Holiday,0
+2008-04,Kings Of Convenience,2
+2008-04,Le Tigre,0
+2008-04,Mates Of State,1
+2008-04,Tegan And Sara,2
+2008-04,The Shins,27
+2008-04,You Say Party! We Say Die!,0
+2008-05,!!!,0
+2008-05,Arcade Fire,1
+2008-05,Architecture In Helsinki,1
+2008-05,Be Your Own Pet,1
+2008-05,Belle And Sebastian,0
+2008-05,Bloc Party,0
+2008-05,Camera Obscura,0
+2008-05,Cansei De Ser Sexy,0
+2008-05,Clap Your Hands Say Yeah,0
+2008-05,Death Cab For Cutie,0
+2008-05,Elliott Smith,0
+2008-05,Graham Coxon,0
+2008-05,Helen Love,0
+2008-05,Her Space Holiday,0
+2008-05,Kings Of Convenience,0
+2008-05,Le Tigre,0
+2008-05,Mates Of State,0
+2008-05,Tegan And Sara,0
+2008-05,The Shins,0
+2008-05,You Say Party! We Say Die!,0
+2008-06,!!!,0
+2008-06,Arcade Fire,0
+2008-06,Architecture In Helsinki,1
+2008-06,Be Your Own Pet,0
+2008-06,Belle And Sebastian,0
+2008-06,Bloc Party,2
+2008-06,Camera Obscura,1
+2008-06,Cansei De Ser Sexy,0
+2008-06,Clap Your Hands Say Yeah,0
+2008-06,Death Cab For Cutie,3
+2008-06,Elliott Smith,0
+2008-06,Graham Coxon,1
+2008-06,Helen Love,0
+2008-06,Her Space Holiday,0
+2008-06,Kings Of Convenience,0
+2008-06,Le Tigre,2
+2008-06,Mates Of State,0
+2008-06,Tegan And Sara,0
+2008-06,The Shins,32
+2008-06,You Say Party! We Say Die!,1
+2008-07,!!!,0
+2008-07,Arcade Fire,0
+2008-07,Architecture In Helsinki,0
+2008-07,Be Your Own Pet,0
+2008-07,Belle And Sebastian,0
+2008-07,Bloc Party,0
+2008-07,Camera Obscura,0
+2008-07,Cansei De Ser Sexy,0
+2008-07,Clap Your Hands Say Yeah,0
+2008-07,Death Cab For Cutie,0
+2008-07,Elliott Smith,0
+2008-07,Graham Coxon,0
+2008-07,Helen Love,0
+2008-07,Her Space Holiday,0
+2008-07,Kings Of Convenience,0
+2008-07,Le Tigre,0
+2008-07,Mates Of State,0
+2008-07,Tegan And Sara,0
+2008-07,The Shins,0
+2008-07,You Say Party! We Say Die!,0
+2008-08,!!!,0
+2008-08,Arcade Fire,0
+2008-08,Architecture In Helsinki,0
+2008-08,Be Your Own Pet,0
+2008-08,Belle And Sebastian,0
+2008-08,Bloc Party,0
+2008-08,Camera Obscura,0
+2008-08,Cansei De Ser Sexy,0
+2008-08,Clap Your Hands Say Yeah,0
+2008-08,Death Cab For Cutie,0
+2008-08,Elliott Smith,0
+2008-08,Graham Coxon,0
+2008-08,Helen Love,0
+2008-08,Her Space Holiday,0
+2008-08,Kings Of Convenience,0
+2008-08,Le Tigre,0
+2008-08,Mates Of State,0
+2008-08,Tegan And Sara,0
+2008-08,The Shins,0
+2008-08,You Say Party! We Say Die!,0
+2008-09,!!!,0
+2008-09,Arcade Fire,0
+2008-09,Architecture In Helsinki,0
+2008-09,Be Your Own Pet,0
+2008-09,Belle And Sebastian,0
+2008-09,Bloc Party,14
+2008-09,Camera Obscura,0
+2008-09,Cansei De Ser Sexy,15
+2008-09,Clap Your Hands Say Yeah,0
+2008-09,Death Cab For Cutie,0
+2008-09,Elliott Smith,0
+2008-09,Graham Coxon,0
+2008-09,Helen Love,0
+2008-09,Her Space Holiday,0
+2008-09,Kings Of Convenience,0
+2008-09,Le Tigre,0
+2008-09,Mates Of State,0
+2008-09,Tegan And Sara,0
+2008-09,The Shins,0
+2008-09,You Say Party! We Say Die!,0
+2008-10,!!!,0
+2008-10,Arcade Fire,0
+2008-10,Architecture In Helsinki,0
+2008-10,Be Your Own Pet,0
+2008-10,Belle And Sebastian,0
+2008-10,Bloc Party,0
+2008-10,Camera Obscura,0
+2008-10,Cansei De Ser Sexy,0
+2008-10,Clap Your Hands Say Yeah,0
+2008-10,Death Cab For Cutie,0
+2008-10,Elliott Smith,0
+2008-10,Graham Coxon,0
+2008-10,Helen Love,0
+2008-10,Her Space Holiday,0
+2008-10,Kings Of Convenience,0
+2008-10,Le Tigre,0
+2008-10,Mates Of State,0
+2008-10,Tegan And Sara,0
+2008-10,The Shins,0
+2008-10,You Say Party! We Say Die!,0
+2008-11,!!!,0
+2008-11,Arcade Fire,0
+2008-11,Architecture In Helsinki,0
+2008-11,Be Your Own Pet,0
+2008-11,Belle And Sebastian,0
+2008-11,Bloc Party,0
+2008-11,Camera Obscura,0
+2008-11,Cansei De Ser Sexy,0
+2008-11,Clap Your Hands Say Yeah,0
+2008-11,Death Cab For Cutie,0
+2008-11,Elliott Smith,0
+2008-11,Graham Coxon,0
+2008-11,Helen Love,0
+2008-11,Her Space Holiday,0
+2008-11,Kings Of Convenience,0
+2008-11,Le Tigre,0
+2008-11,Mates Of State,0
+2008-11,Tegan And Sara,0
+2008-11,The Shins,0
+2008-11,You Say Party! We Say Die!,0
+2008-12,!!!,0
+2008-12,Arcade Fire,0
+2008-12,Architecture In Helsinki,0
+2008-12,Be Your Own Pet,0
+2008-12,Belle And Sebastian,0
+2008-12,Bloc Party,0
+2008-12,Camera Obscura,0
+2008-12,Cansei De Ser Sexy,0
+2008-12,Clap Your Hands Say Yeah,0
+2008-12,Death Cab For Cutie,0
+2008-12,Elliott Smith,0
+2008-12,Graham Coxon,0
+2008-12,Helen Love,0
+2008-12,Her Space Holiday,0
+2008-12,Kings Of Convenience,0
+2008-12,Le Tigre,0
+2008-12,Mates Of State,0
+2008-12,Tegan And Sara,0
+2008-12,The Shins,0
+2008-12,You Say Party! We Say Die!,0
+2009-01,!!!,0
+2009-01,Arcade Fire,0
+2009-01,Architecture In Helsinki,0
+2009-01,Be Your Own Pet,0
+2009-01,Belle And Sebastian,0
+2009-01,Bloc Party,0
+2009-01,Camera Obscura,0
+2009-01,Cansei De Ser Sexy,0
+2009-01,Clap Your Hands Say Yeah,0
+2009-01,Death Cab For Cutie,0
+2009-01,Elliott Smith,0
+2009-01,Graham Coxon,0
+2009-01,Helen Love,0
+2009-01,Her Space Holiday,0
+2009-01,Kings Of Convenience,0
+2009-01,Le Tigre,0
+2009-01,Mates Of State,0
+2009-01,Tegan And Sara,0
+2009-01,The Shins,0
+2009-01,You Say Party! We Say Die!,0
+2009-02,!!!,0
+2009-02,Arcade Fire,0
+2009-02,Architecture In Helsinki,3
+2009-02,Be Your Own Pet,0
+2009-02,Belle And Sebastian,0
+2009-02,Bloc Party,0
+2009-02,Camera Obscura,0
+2009-02,Cansei De Ser Sexy,0
+2009-02,Clap Your Hands Say Yeah,1
+2009-02,Death Cab For Cutie,0
+2009-02,Elliott Smith,0
+2009-02,Graham Coxon,0
+2009-02,Helen Love,0
+2009-02,Her Space Holiday,1
+2009-02,Kings Of Convenience,0
+2009-02,Le Tigre,0
+2009-02,Mates Of State,0
+2009-02,Tegan And Sara,0
+2009-02,The Shins,1
+2009-02,You Say Party! We Say Die!,1
+2009-03,!!!,1
+2009-03,Arcade Fire,2
+2009-03,Architecture In Helsinki,0
+2009-03,Be Your Own Pet,1
+2009-03,Belle And Sebastian,5
+2009-03,Bloc Party,1
+2009-03,Camera Obscura,0
+2009-03,Cansei De Ser Sexy,1
+2009-03,Clap Your Hands Say Yeah,0
+2009-03,Death Cab For Cutie,0
+2009-03,Elliott Smith,13
+2009-03,Graham Coxon,1
+2009-03,Helen Love,0
+2009-03,Her Space Holiday,1
+2009-03,Kings Of Convenience,0
+2009-03,Le Tigre,0
+2009-03,Mates Of State,1
+2009-03,Tegan And Sara,1
+2009-03,The Shins,1
+2009-03,You Say Party! We Say Die!,0
+2009-04,!!!,0
+2009-04,Arcade Fire,0
+2009-04,Architecture In Helsinki,1
+2009-04,Be Your Own Pet,1
+2009-04,Belle And Sebastian,2
+2009-04,Bloc Party,0
+2009-04,Camera Obscura,7
+2009-04,Cansei De Ser Sexy,0
+2009-04,Clap Your Hands Say Yeah,0
+2009-04,Death Cab For Cutie,2
+2009-04,Elliott Smith,1
+2009-04,Graham Coxon,0
+2009-04,Helen Love,0
+2009-04,Her Space Holiday,0
+2009-04,Kings Of Convenience,0
+2009-04,Le Tigre,0
+2009-04,Mates Of State,0
+2009-04,Tegan And Sara,0
+2009-04,The Shins,0
+2009-04,You Say Party! We Say Die!,1

@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Arcade Fire,13
+2006-02,Black Rebel Motorcycle Club,2
+2006-02,Dj Shadow,23
+2006-02,Doves,1
+2006-02,Editors,0
+2006-02,Elbow,37
+2006-02,Fatboy Slim,0
+2006-02,Gomez,21
+2006-02,Grandaddy,68
+2006-02,I Love You But I'Ve Chosen Darkness,0
+2006-02,Interpol,2
+2006-02,Radiohead,18
+2006-02,Sasha,2
+2006-02,Secret Machines,9
+2006-02,Silversun Pickups,0
+2006-02,Sonic Youth,7
+2006-02,Teenage Fanclub,2
+2006-02,The Chemical Brothers,10
+2006-02,The Jesus And Mary Chain,1
+2006-02,The Verve,12
+2006-03,Arcade Fire,0
+2006-03,Black Rebel Motorcycle Club,0
+2006-03,Dj Shadow,0
+2006-03,Doves,27
+2006-03,Editors,0
+2006-03,Elbow,103
+2006-03,Fatboy Slim,0
+2006-03,Gomez,13
+2006-03,Grandaddy,45
+2006-03,I Love You But I'Ve Chosen Darkness,0
+2006-03,Interpol,9
+2006-03,Radiohead,11
+2006-03,Sasha,32
+2006-03,Secret Machines,140
+2006-03,Silversun Pickups,0
+2006-03,Sonic Youth,0
+2006-03,Teenage Fanclub,0
+2006-03,The Chemical Brothers,0
+2006-03,The Jesus And Mary Chain,1
+2006-03,The Verve,0
+2006-04,Arcade Fire,0
+2006-04,Black Rebel Motorcycle Club,0
+2006-04,Dj Shadow,0
+2006-04,Doves,0
+2006-04,Editors,2
+2006-04,Elbow,80
+2006-04,Fatboy Slim,0
+2006-04,Gomez,235
+2006-04,Grandaddy,57
+2006-04,I Love You But I'Ve Chosen Darkness,0
+2006-04,Interpol,24
+2006-04,Radiohead,0
+2006-04,Sasha,154
+2006-04,Secret Machines,137
+2006-04,Silversun Pickups,0
+2006-04,Sonic Youth,100
+2006-04,Teenage Fanclub,0
+2006-04,The Chemical Brothers,0
+2006-04,The Jesus And Mary Chain,17
+2006-04,The Verve,65
+2006-05,Arcade Fire,0
+2006-05,Black Rebel Motorcycle Club,0
+2006-05,Dj Shadow,1
+2006-05,Doves,11
+2006-05,Editors,379
+2006-05,Elbow,23
+2006-05,Fatboy Slim,49
+2006-05,Gomez,203
+2006-05,Grandaddy,0
+2006-05,I Love You But I'Ve Chosen Darkness,255
+2006-05,Interpol,10
+2006-05,Radiohead,275
+2006-05,Sasha,83
+2006-05,Secret Machines,40
+2006-05,Silversun Pickups,0
+2006-05,Sonic Youth,38
+2006-05,Teenage Fanclub,0
+2006-05,The Chemical Brothers,5
+2006-05,The Jesus And Mary Chain,1
+2006-05,The Verve,0
+2006-06,Arcade Fire,0
+2006-06,Black Rebel Motorcycle Club,0
+2006-06,Dj Shadow,0
+2006-06,Doves,27
+2006-06,Editors,21
+2006-06,Elbow,83
+2006-06,Fatboy Slim,0
+2006-06,Gomez,229
+2006-06,Grandaddy,47
+2006-06,I Love You But I'Ve Chosen Darkness,243
+2006-06,Interpol,34
+2006-06,Radiohead,97
+2006-06,Sasha,139
+2006-06,Secret Machines,57
+2006-06,Silversun Pickups,0
+2006-06,Sonic Youth,68
+2006-06,Teenage Fanclub,0
+2006-06,The Chemical Brothers,0
+2006-06,The Jesus And Mary Chain,101
+2006-06,The Verve,0
+2006-07,Arcade Fire,0
+2006-07,Black Rebel Motorcycle Club,0
+2006-07,Dj Shadow,15
+2006-07,Doves,0
+2006-07,Editors,106
+2006-07,Elbow,162
+2006-07,Fatboy Slim,7
+2006-07,Gomez,84
+2006-07,Grandaddy,13
+2006-07,I Love You But I'Ve Chosen Darkness,129
+2006-07,Interpol,59
+2006-07,Radiohead,93
+2006-07,Sasha,73
+2006-07,Secret Machines,20
+2006-07,Silversun Pickups,0
+2006-07,Sonic Youth,253
+2006-07,Teenage Fanclub,0
+2006-07,The Chemical Brothers,4
+2006-07,The Jesus And Mary Chain,2
+2006-07,The Verve,0
+2006-08,Arcade Fire,0
+2006-08,Black Rebel Motorcycle Club,0
+2006-08,Dj Shadow,24
+2006-08,Doves,0
+2006-08,Editors,36
+2006-08,Elbow,0
+2006-08,Fatboy Slim,0
+2006-08,Gomez,26
+2006-08,Grandaddy,0
+2006-08,I Love You But I'Ve Chosen Darkness,108
+2006-08,Interpol,0
+2006-08,Radiohead,6
+2006-08,Sasha,19
+2006-08,Secret Machines,21
+2006-08,Silversun Pickups,0
+2006-08,Sonic Youth,145
+2006-08,Teenage Fanclub,0
+2006-08,The Chemical Brothers,0
+2006-08,The Jesus And Mary Chain,5
+2006-08,The Verve,1
+2006-09,Arcade Fire,0
+2006-09,Black Rebel Motorcycle Club,0
+2006-09,Dj Shadow,45
+2006-09,Doves,58
+2006-09,Editors,20
+2006-09,Elbow,53
+2006-09,Fatboy Slim,0
+2006-09,Gomez,45
+2006-09,Grandaddy,0
+2006-09,I Love You But I'Ve Chosen Darkness,70
+2006-09,Interpol,26
+2006-09,Radiohead,6
+2006-09,Sasha,39
+2006-09,Secret Machines,0
+2006-09,Silversun Pickups,0
+2006-09,Sonic Youth,184
+2006-09,Teenage Fanclub,0
+2006-09,The Chemical Brothers,0
+2006-09,The Jesus And Mary Chain,27
+2006-09,The Verve,1
+2006-10,Arcade Fire,36
+2006-10,Black Rebel Motorcycle Club,0
+2006-10,Dj Shadow,0
+2006-10,Doves,0
+2006-10,Editors,0
+2006-10,Elbow,0
+2006-10,Fatboy Slim,0
+2006-10,Gomez,13
+2006-10,Grandaddy,0
+2006-10,I Love You But I'Ve Chosen Darkness,0
+2006-10,Interpol,0
+2006-10,Radiohead,0
+2006-10,Sasha,0
+2006-10,Secret Machines,41
+2006-10,Silversun Pickups,0
+2006-10,Sonic Youth,0
+2006-10,Teenage Fanclub,0
+2006-10,The Chemical Brothers,0
+2006-10,The Jesus And Mary Chain,0
+2006-10,The Verve,0
+2006-11,Arcade Fire,0
+2006-11,Black Rebel Motorcycle Club,0
+2006-11,Dj Shadow,0
+2006-11,Doves,0
+2006-11,Editors,0
+2006-11,Elbow,0
+2006-11,Fatboy Slim,0
+2006-11,Gomez,0
+2006-11,Grandaddy,0
+2006-11,I Love You But I'Ve Chosen Darkness,0
+2006-11,Interpol,0
+2006-11,Radiohead,0
+2006-11,Sasha,0
+2006-11,Secret Machines,0
+2006-11,Silversun Pickups,0
+2006-11,Sonic Youth,0
+2006-11,Teenage Fanclub,0
+2006-11,The Chemical Brothers,0
+2006-11,The Jesus And Mary Chain,0
+2006-11,The Verve,0
+2006-12,Arcade Fire,24
+2006-12,Black Rebel Motorcycle Club,0
+2006-12,Dj Shadow,8
+2006-12,Doves,0
+2006-12,Editors,0
+2006-12,Elbow,43
+2006-12,Fatboy Slim,0
+2006-12,Gomez,0
+2006-12,Grandaddy,15
+2006-12,I Love You But I'Ve Chosen Darkness,0
+2006-12,Interpol,0
+2006-12,Radiohead,0
+2006-12,Sasha,162
+2006-12,Secret Machines,0
+2006-12,Silversun Pickups,8
+2006-12,Sonic Youth,0
+2006-12,Teenage Fanclub,1
+2006-12,The Chemical Brothers,0
+2006-12,The Jesus And Mary Chain,16
+2006-12,The Verve,0
+2007-01,Arcade Fire,0
+2007-01,Black Rebel Motorcycle Club,0
+2007-01,Dj Shadow,39
+2007-01,Doves,22
+2007-01,Editors,52
+2007-01,Elbow,77
+2007-01,Fatboy Slim,17
+2007-01,Gomez,30
+2007-01,Grandaddy,30
+2007-01,I Love You But I'Ve Chosen Darkness,0
+2007-01,Interpol,0
+2007-01,Radiohead,0
+2007-01,Sasha,1311
+2007-01,Secret Machines,0
+2007-01,Silversun Pickups,6
+2007-01,Sonic Youth,0
+2007-01,Teenage Fanclub,0
+2007-01,The Chemical Brothers,0
+2007-01,The Jesus And Mary Chain,36
+2007-01,The Verve,0
+2007-02,Arcade Fire,4
+2007-02,Black Rebel Motorcycle Club,3
+2007-02,Dj Shadow,4
+2007-02,Doves,0
+2007-02,Editors,3
+2007-02,Elbow,3
+2007-02,Fatboy Slim,0
+2007-02,Gomez,34
+2007-02,Grandaddy,2
+2007-02,I Love You But I'Ve Chosen Darkness,61
+2007-02,Interpol,0
+2007-02,Radiohead,13
+2007-02,Sasha,205
+2007-02,Secret Machines,0
+2007-02,Silversun Pickups,30
+2007-02,Sonic Youth,18
+2007-02,Teenage Fanclub,0
+2007-02,The Chemical Brothers,2
+2007-02,The Jesus And Mary Chain,0
+2007-02,The Verve,918
+2007-03,Arcade Fire,0
+2007-03,Black Rebel Motorcycle Club,0
+2007-03,Dj Shadow,0
+2007-03,Doves,0
+2007-03,Editors,0
+2007-03,Elbow,0
+2007-03,Fatboy Slim,0
+2007-03,Gomez,0
+2007-03,Grandaddy,0
+2007-03,I Love You But I'Ve Chosen Darkness,0
+2007-03,Interpol,0
+2007-03,Radiohead,0
+2007-03,Sasha,0
+2007-03,Secret Machines,0
+2007-03,Silversun Pickups,0
+2007-03,Sonic Youth,0
+2007-03,Teenage Fanclub,0
+2007-03,The Chemical Brothers,0
+2007-03,The Jesus And Mary Chain,0
+2007-03,The Verve,0
+2007-04,Arcade Fire,0
+2007-04,Black Rebel Motorcycle Club,0
+2007-04,Dj Shadow,14
+2007-04,Doves,0
+2007-04,Editors,0
+2007-04,Elbow,0
+2007-04,Fatboy Slim,49
+2007-04,Gomez,9
+2007-04,Grandaddy,0
+2007-04,I Love You But I'Ve Chosen Darkness,0
+2007-04,Interpol,0
+2007-04,Radiohead,0
+2007-04,Sasha,0
+2007-04,Secret Machines,0
+2007-04,Silversun Pickups,20
+2007-04,Sonic Youth,0
+2007-04,Teenage Fanclub,0
+2007-04,The Chemical Brothers,11
+2007-04,The Jesus And Mary Chain,0
+2007-04,The Verve,0
+2007-05,Arcade Fire,17
+2007-05,Black Rebel Motorcycle Club,0
+2007-05,Dj Shadow,0
+2007-05,Doves,1
+2007-05,Editors,0
+2007-05,Elbow,3
+2007-05,Fatboy Slim,43
+2007-05,Gomez,63
+2007-05,Grandaddy,4
+2007-05,I Love You But I'Ve Chosen Darkness,0
+2007-05,Interpol,92
+2007-05,Radiohead,8
+2007-05,Sasha,0
+2007-05,Secret Machines,0
+2007-05,Silversun Pickups,94
+2007-05,Sonic Youth,3
+2007-05,Teenage Fanclub,7
+2007-05,The Chemical Brothers,2
+2007-05,The Jesus And Mary Chain,59
+2007-05,The Verve,6
+2007-06,Arcade Fire,62
+2007-06,Black Rebel Motorcycle Club,0
+2007-06,Dj Shadow,18
+2007-06,Doves,26
+2007-06,Editors,0
+2007-06,Elbow,0
+2007-06,Fatboy Slim,0
+2007-06,Gomez,0
+2007-06,Grandaddy,0
+2007-06,I Love You But I'Ve Chosen Darkness,0
+2007-06,Interpol,0
+2007-06,Radiohead,0
+2007-06,Sasha,0
+2007-06,Secret Machines,0
+2007-06,Silversun Pickups,120
+2007-06,Sonic Youth,141
+2007-06,Teenage Fanclub,21
+2007-06,The Chemical Brothers,1
+2007-06,The Jesus And Mary Chain,0
+2007-06,The Verve,0
+2007-07,Arcade Fire,0
+2007-07,Black Rebel Motorcycle Club,0
+2007-07,Dj Shadow,1
+2007-07,Doves,7
+2007-07,Editors,1
+2007-07,Elbow,0
+2007-07,Fatboy Slim,0
+2007-07,Gomez,0
+2007-07,Grandaddy,0
+2007-07,I Love You But I'Ve Chosen Darkness,0
+2007-07,Interpol,1
+2007-07,Radiohead,2
+2007-07,Sasha,0
+2007-07,Secret Machines,26
+2007-07,Silversun Pickups,70
+2007-07,Sonic Youth,2
+2007-07,Teenage Fanclub,2
+2007-07,The Chemical Brothers,21
+2007-07,The Jesus And Mary Chain,1
+2007-07,The Verve,1
+2007-08,Arcade Fire,0
+2007-08,Black Rebel Motorcycle Club,0
+2007-08,Dj Shadow,0
+2007-08,Doves,0
+2007-08,Editors,0
+2007-08,Elbow,0
+2007-08,Fatboy Slim,0
+2007-08,Gomez,0
+2007-08,Grandaddy,0
+2007-08,I Love You But I'Ve Chosen Darkness,0
+2007-08,Interpol,0
+2007-08,Radiohead,168
+2007-08,Sasha,97
+2007-08,Secret Machines,47
+2007-08,Silversun Pickups,0
+2007-08,Sonic Youth,0
+2007-08,Teenage Fanclub,0
+2007-08,The Chemical Brothers,1
+2007-08,The Jesus And Mary Chain,0
+2007-08,The Verve,0
+2007-09,Arcade Fire,0
+2007-09,Black Rebel Motorcycle Club,26
+2007-09,Dj Shadow,0
+2007-09,Doves,0
+2007-09,Editors,83
+2007-09,Elbow,0
+2007-09,Fatboy Slim,17
+2007-09,Gomez,0
+2007-09,Grandaddy,0
+2007-09,I Love You But I'Ve Chosen Darkness,53
+2007-09,Interpol,80
+2007-09,Radiohead,0
+2007-09,Sasha,0
+2007-09,Secret Machines,0
+2007-09,Silversun Pickups,87
+2007-09,Sonic Youth,0
+2007-09,Teenage Fanclub,0
+2007-09,The Chemical Brothers,41
+2007-09,The Jesus And Mary Chain,0
+2007-09,The Verve,1
+2007-10,Arcade Fire,10
+2007-10,Black Rebel Motorcycle Club,91
+2007-10,Dj Shadow,13
+2007-10,Doves,0
+2007-10,Editors,77
+2007-10,Elbow,0
+2007-10,Fatboy Slim,0
+2007-10,Gomez,15
+2007-10,Grandaddy,14
+2007-10,I Love You But I'Ve Chosen Darkness,11
+2007-10,Interpol,141
+2007-10,Radiohead,182
+2007-10,Sasha,0
+2007-10,Secret Machines,0
+2007-10,Silversun Pickups,112
+2007-10,Sonic Youth,13
+2007-10,Teenage Fanclub,3
+2007-10,The Chemical Brothers,60
+2007-10,The Jesus And Mary Chain,0
+2007-10,The Verve,5
+2007-11,Arcade Fire,0
+2007-11,Black Rebel Motorcycle Club,0
+2007-11,Dj Shadow,0
+2007-11,Doves,0
+2007-11,Editors,0
+2007-11,Elbow,0
+2007-11,Fatboy Slim,0
+2007-11,Gomez,0
+2007-11,Grandaddy,0
+2007-11,I Love You But I'Ve Chosen Darkness,0
+2007-11,Interpol,0
+2007-11,Radiohead,0
+2007-11,Sasha,0
+2007-11,Secret Machines,33
+2007-11,Silversun Pickups,0
+2007-11,Sonic Youth,0
+2007-11,Teenage Fanclub,0
+2007-11,The Chemical Brothers,0
+2007-11,The Jesus And Mary Chain,0
+2007-11,The Verve,39
+2007-12,Arcade Fire,10
+2007-12,Black Rebel Motorcycle Club,0
+2007-12,Dj Shadow,0
+2007-12,Doves,0
+2007-12,Editors,11
+2007-12,Elbow,0
+2007-12,Fatboy Slim,0
+2007-12,Gomez,0
+2007-12,Grandaddy,0
+2007-12,I Love You But I'Ve Chosen Darkness,13
+2007-12,Interpol,3
+2007-12,Radiohead,0
+2007-12,Sasha,34
+2007-12,Secret Machines,0
+2007-12,Silversun Pickups,1
+2007-12,Sonic Youth,0
+2007-12,Teenage Fanclub,0
+2007-12,The Chemical Brothers,3
+2007-12,The Jesus And Mary Chain,0
+2007-12,The Verve,38
+2008-01,Arcade Fire,32
+2008-01,Black Rebel Motorcycle Club,14
+2008-01,Dj Shadow,2
+2008-01,Doves,2
+2008-01,Editors,3
+2008-01,Elbow,1
+2008-01,Fatboy Slim,1
+2008-01,Gomez,2
+2008-01,Grandaddy,15
+2008-01,I Love You But I'Ve Chosen Darkness,13
+2008-01,Interpol,35
+2008-01,Radiohead,6
+2008-01,Sasha,1
+2008-01,Secret Machines,1
+2008-01,Silversun Pickups,2
+2008-01,Sonic Youth,5
+2008-01,Teenage Fanclub,1
+2008-01,The Chemical Brothers,0
+2008-01,The Jesus And Mary Chain,2
+2008-01,The Verve,5
+2008-02,Arcade Fire,0
+2008-02,Black Rebel Motorcycle Club,3
+2008-02,Dj Shadow,2
+2008-02,Doves,5
+2008-02,Editors,1
+2008-02,Elbow,1
+2008-02,Fatboy Slim,10
+2008-02,Gomez,0
+2008-02,Grandaddy,0
+2008-02,I Love You But I'Ve Chosen Darkness,2
+2008-02,Interpol,3
+2008-02,Radiohead,4
+2008-02,Sasha,0
+2008-02,Secret Machines,0
+2008-02,Silversun Pickups,4
+2008-02,Sonic Youth,1
+2008-02,Teenage Fanclub,3
+2008-02,The Chemical Brothers,1
+2008-02,The Jesus And Mary Chain,4
+2008-02,The Verve,1
+2008-03,Arcade Fire,0
+2008-03,Black Rebel Motorcycle Club,3
+2008-03,Dj Shadow,0
+2008-03,Doves,1
+2008-03,Editors,0
+2008-03,Elbow,5
+2008-03,Fatboy Slim,0
+2008-03,Gomez,53
+2008-03,Grandaddy,45
+2008-03,I Love You But I'Ve Chosen Darkness,13
+2008-03,Interpol,31
+2008-03,Radiohead,0
+2008-03,Sasha,0
+2008-03,Secret Machines,39
+2008-03,Silversun Pickups,2
+2008-03,Sonic Youth,0
+2008-03,Teenage Fanclub,1
+2008-03,The Chemical Brothers,0
+2008-03,The Jesus And Mary Chain,15
+2008-03,The Verve,0
+2008-04,Arcade Fire,0
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Dj Shadow,0
+2008-04,Doves,0
+2008-04,Editors,0
+2008-04,Elbow,28
+2008-04,Fatboy Slim,0
+2008-04,Gomez,0
+2008-04,Grandaddy,0
+2008-04,I Love You But I'Ve Chosen Darkness,0
+2008-04,Interpol,0
+2008-04,Radiohead,0
+2008-04,Sasha,0
+2008-04,Secret Machines,0
+2008-04,Silversun Pickups,0
+2008-04,Sonic Youth,66
+2008-04,Teenage Fanclub,0
+2008-04,The Chemical Brothers,0
+2008-04,The Jesus And Mary Chain,0
+2008-04,The Verve,0
+2008-05,Arcade Fire,0
+2008-05,Black Rebel Motorcycle Club,0
+2008-05,Dj Shadow,0
+2008-05,Doves,0
+2008-05,Editors,11
+2008-05,Elbow,55
+2008-05,Fatboy Slim,0
+2008-05,Gomez,0
+2008-05,Grandaddy,0
+2008-05,I Love You But I'Ve Chosen Darkness,0
+2008-05,Interpol,0
+2008-05,Radiohead,0
+2008-05,Sasha,0
+2008-05,Secret Machines,0
+2008-05,Silversun Pickups,0
+2008-05,Sonic Youth,0
+2008-05,Teenage Fanclub,0
+2008-05,The Chemical Brothers,0
+2008-05,The Jesus And Mary Chain,0
+2008-05,The Verve,1
+2008-06,Arcade Fire,0
+2008-06,Black Rebel Motorcycle Club,37
+2008-06,Dj Shadow,0
+2008-06,Doves,0
+2008-06,Editors,0
+2008-06,Elbow,79
+2008-06,Fatboy Slim,0
+2008-06,Gomez,0
+2008-06,Grandaddy,0
+2008-06,I Love You But I'Ve Chosen Darkness,0
+2008-06,Interpol,0
+2008-06,Radiohead,0
+2008-06,Sasha,0
+2008-06,Secret Machines,0
+2008-06,Silversun Pickups,0
+2008-06,Sonic Youth,0
+2008-06,Teenage Fanclub,0
+2008-06,The Chemical Brothers,0
+2008-06,The Jesus And Mary Chain,0
+2008-06,The Verve,38
+2008-07,Arcade Fire,22
+2008-07,Black Rebel Motorcycle Club,17
+2008-07,Dj Shadow,7
+2008-07,Doves,20
+2008-07,Editors,5
+2008-07,Elbow,15
+2008-07,Fatboy Slim,1
+2008-07,Gomez,15
+2008-07,Grandaddy,2
+2008-07,I Love You But I'Ve Chosen Darkness,0
+2008-07,Interpol,0
+2008-07,Radiohead,122
+2008-07,Sasha,11
+2008-07,Secret Machines,8
+2008-07,Silversun Pickups,0
+2008-07,Sonic Youth,23
+2008-07,Teenage Fanclub,4
+2008-07,The Chemical Brothers,3
+2008-07,The Jesus And Mary Chain,9
+2008-07,The Verve,35
+2008-08,Arcade Fire,1
+2008-08,Black Rebel Motorcycle Club,4
+2008-08,Dj Shadow,2
+2008-08,Doves,5
+2008-08,Editors,3
+2008-08,Elbow,15
+2008-08,Fatboy Slim,0
+2008-08,Gomez,5
+2008-08,Grandaddy,1
+2008-08,I Love You But I'Ve Chosen Darkness,0
+2008-08,Interpol,0
+2008-08,Radiohead,51
+2008-08,Sasha,5
+2008-08,Secret Machines,0
+2008-08,Silversun Pickups,0
+2008-08,Sonic Youth,7
+2008-08,Teenage Fanclub,1
+2008-08,The Chemical Brothers,0
+2008-08,The Jesus And Mary Chain,1
+2008-08,The Verve,157
+2008-09,Arcade Fire,0
+2008-09,Black Rebel Motorcycle Club,2
+2008-09,Dj Shadow,0
+2008-09,Doves,3
+2008-09,Editors,0
+2008-09,Elbow,17
+2008-09,Fatboy Slim,4
+2008-09,Gomez,5
+2008-09,Grandaddy,1
+2008-09,I Love You But I'Ve Chosen Darkness,0
+2008-09,Interpol,77
+2008-09,Radiohead,0
+2008-09,Sasha,4
+2008-09,Secret Machines,20
+2008-09,Silversun Pickups,0
+2008-09,Sonic Youth,33
+2008-09,Teenage Fanclub,1
+2008-09,The Chemical Brothers,0
+2008-09,The Jesus And Mary Chain,0
+2008-09,The Verve,97
+2008-10,Arcade Fire,28
+2008-10,Black Rebel Motorcycle Club,18
+2008-10,Dj Shadow,0
+2008-10,Doves,0
+2008-10,Editors,0
+2008-10,Elbow,34
+2008-10,Fatboy Slim,3
+2008-10,Gomez,0
+2008-10,Grandaddy,0
+2008-10,I Love You But I'Ve Chosen Darkness,0
+2008-10,Interpol,0
+2008-10,Radiohead,29
+2008-10,Sasha,0
+2008-10,Secret Machines,0
+2008-10,Silversun Pickups,0
+2008-10,Sonic Youth,0
+2008-10,Teenage Fanclub,0
+2008-10,The Chemical Brothers,0
+2008-10,The Jesus And Mary Chain,0
+2008-10,The Verve,29
+2008-11,Arcade Fire,84
+2008-11,Black Rebel Motorcycle Club,1
+2008-11,Dj Shadow,0
+2008-11,Doves,0
+2008-11,Editors,0
+2008-11,Elbow,175
+2008-11,Fatboy Slim,1
+2008-11,Gomez,0
+2008-11,Grandaddy,0
+2008-11,I Love You But I'Ve Chosen Darkness,0
+2008-11,Interpol,0
+2008-11,Radiohead,0
+2008-11,Sasha,0
+2008-11,Secret Machines,0
+2008-11,Silversun Pickups,0
+2008-11,Sonic Youth,0
+2008-11,Teenage Fanclub,0
+2008-11,The Chemical Brothers,0
+2008-11,The Jesus And Mary Chain,0
+2008-11,The Verve,19
+2008-12,Arcade Fire,21
+2008-12,Black Rebel Motorcycle Club,0
+2008-12,Dj Shadow,0
+2008-12,Doves,9
+2008-12,Editors,1
+2008-12,Elbow,32
+2008-12,Fatboy Slim,3
+2008-12,Gomez,0
+2008-12,Grandaddy,0
+2008-12,I Love You But I'Ve Chosen Darkness,0
+2008-12,Interpol,17
+2008-12,Radiohead,0
+2008-12,Sasha,0
+2008-12,Secret Machines,0
+2008-12,Silversun Pickups,3
+2008-12,Sonic Youth,0
+2008-12,Teenage Fanclub,0
+2008-12,The Chemical Brothers,0
+2008-12,The Jesus And Mary Chain,0
+2008-12,The Verve,45
+2009-01,Arcade Fire,0
+2009-01,Black Rebel Motorcycle Club,0
+2009-01,Dj Shadow,0
+2009-01,Doves,18
+2009-01,Editors,0
+2009-01,Elbow,95
+2009-01,Fatboy Slim,5
+2009-01,Gomez,0
+2009-01,Grandaddy,0
+2009-01,I Love You But I'Ve Chosen Darkness,12
+2009-01,Interpol,0
+2009-01,Radiohead,0
+2009-01,Sasha,0
+2009-01,Secret Machines,0
+2009-01,Silversun Pickups,0
+2009-01,Sonic Youth,0
+2009-01,Teenage Fanclub,0
+2009-01,The Chemical Brothers,0
+2009-01,The Jesus And Mary Chain,0
+2009-01,The Verve,99
+2009-02,Arcade Fire,1
+2009-02,Black Rebel Motorcycle Club,1
+2009-02,Dj Shadow,0
+2009-02,Doves,17
+2009-02,Editors,3
+2009-02,Elbow,122
+2009-02,Fatboy Slim,0
+2009-02,Gomez,0
+2009-02,Grandaddy,0
+2009-02,I Love You But I'Ve Chosen Darkness,3
+2009-02,Interpol,3
+2009-02,Radiohead,0
+2009-02,Sasha,0
+2009-02,Secret Machines,0
+2009-02,Silversun Pickups,0
+2009-02,Sonic Youth,0
+2009-02,Teenage Fanclub,4
+2009-02,The Chemical Brothers,1
+2009-02,The Jesus And Mary Chain,0
+2009-02,The Verve,0
+2009-03,Arcade Fire,0
+2009-03,Black Rebel Motorcycle Club,0
+2009-03,Dj Shadow,0
+2009-03,Doves,83
+2009-03,Editors,3
+2009-03,Elbow,80
+2009-03,Fatboy Slim,4
+2009-03,Gomez,9
+2009-03,Grandaddy,0
+2009-03,I Love You But I'Ve Chosen Darkness,6
+2009-03,Interpol,3
+2009-03,Radiohead,0
+2009-03,Sasha,0
+2009-03,Secret Machines,0
+2009-03,Silversun Pickups,71
+2009-03,Sonic Youth,0
+2009-03,Teenage Fanclub,2
+2009-03,The Chemical Brothers,24
+2009-03,The Jesus And Mary Chain,0
+2009-03,The Verve,0
+2009-04,Arcade Fire,0
+2009-04,Black Rebel Motorcycle Club,56
+2009-04,Dj Shadow,0
+2009-04,Doves,152
+2009-04,Editors,1
+2009-04,Elbow,0
+2009-04,Fatboy Slim,0
+2009-04,Gomez,0
+2009-04,Grandaddy,0
+2009-04,I Love You But I'Ve Chosen Darkness,1
+2009-04,Interpol,1
+2009-04,Radiohead,0
+2009-04,Sasha,0
+2009-04,Secret Machines,0
+2009-04,Silversun Pickups,154
+2009-04,Sonic Youth,0
+2009-04,Teenage Fanclub,2
+2009-04,The Chemical Brothers,0
+2009-04,The Jesus And Mary Chain,0
+2009-04,The Verve,0

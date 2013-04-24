@@ -1,0 +1,461 @@
+month,artist,plays
+2007-07,Arcade Fire,21
+2007-07,Blonde Redhead,0
+2007-07,Boards Of Canada,17
+2007-07,Broken Social Scene,16
+2007-07,Death Cab For Cutie,0
+2007-07,Fujiya & Miyagi,10
+2007-07,Interpol,56
+2007-07,Jimmy Eat World,0
+2007-07,M83,0
+2007-07,Mew,14
+2007-07,Muse,0
+2007-07,Of Montreal,16
+2007-07,Pink Floyd,20
+2007-07,Placebo,32
+2007-07,Porcupine Tree,39
+2007-07,Sigur Rós,12
+2007-07,Stars,0
+2007-07,The Flaming Lips,12
+2007-07,The Format,0
+2007-07,The Smashing Pumpkins,0
+2007-08,Arcade Fire,23
+2007-08,Blonde Redhead,21
+2007-08,Boards Of Canada,21
+2007-08,Broken Social Scene,87
+2007-08,Death Cab For Cutie,38
+2007-08,Fujiya & Miyagi,8
+2007-08,Interpol,25
+2007-08,Jimmy Eat World,8
+2007-08,M83,0
+2007-08,Mew,28
+2007-08,Muse,14
+2007-08,Of Montreal,42
+2007-08,Pink Floyd,22
+2007-08,Placebo,46
+2007-08,Porcupine Tree,61
+2007-08,Sigur Rós,24
+2007-08,Stars,25
+2007-08,The Flaming Lips,27
+2007-08,The Format,1
+2007-08,The Smashing Pumpkins,45
+2007-09,Arcade Fire,10
+2007-09,Blonde Redhead,36
+2007-09,Boards Of Canada,36
+2007-09,Broken Social Scene,9
+2007-09,Death Cab For Cutie,9
+2007-09,Fujiya & Miyagi,2
+2007-09,Interpol,11
+2007-09,Jimmy Eat World,19
+2007-09,M83,0
+2007-09,Mew,47
+2007-09,Muse,1
+2007-09,Of Montreal,17
+2007-09,Pink Floyd,17
+2007-09,Placebo,25
+2007-09,Porcupine Tree,21
+2007-09,Sigur Rós,0
+2007-09,Stars,4
+2007-09,The Flaming Lips,3
+2007-09,The Format,8
+2007-09,The Smashing Pumpkins,21
+2007-10,Arcade Fire,12
+2007-10,Blonde Redhead,5
+2007-10,Boards Of Canada,3
+2007-10,Broken Social Scene,1
+2007-10,Death Cab For Cutie,3
+2007-10,Fujiya & Miyagi,1
+2007-10,Interpol,1
+2007-10,Jimmy Eat World,48
+2007-10,M83,30
+2007-10,Mew,32
+2007-10,Muse,1
+2007-10,Of Montreal,1
+2007-10,Pink Floyd,2
+2007-10,Placebo,10
+2007-10,Porcupine Tree,12
+2007-10,Sigur Rós,12
+2007-10,Stars,0
+2007-10,The Flaming Lips,10
+2007-10,The Format,2
+2007-10,The Smashing Pumpkins,0
+2007-11,Arcade Fire,31
+2007-11,Blonde Redhead,28
+2007-11,Boards Of Canada,11
+2007-11,Broken Social Scene,16
+2007-11,Death Cab For Cutie,16
+2007-11,Fujiya & Miyagi,6
+2007-11,Interpol,17
+2007-11,Jimmy Eat World,111
+2007-11,M83,31
+2007-11,Mew,40
+2007-11,Muse,10
+2007-11,Of Montreal,5
+2007-11,Pink Floyd,4
+2007-11,Placebo,23
+2007-11,Porcupine Tree,39
+2007-11,Sigur Rós,1
+2007-11,Stars,1
+2007-11,The Flaming Lips,17
+2007-11,The Format,2
+2007-11,The Smashing Pumpkins,24
+2007-12,Arcade Fire,12
+2007-12,Blonde Redhead,10
+2007-12,Boards Of Canada,23
+2007-12,Broken Social Scene,11
+2007-12,Death Cab For Cutie,8
+2007-12,Fujiya & Miyagi,2
+2007-12,Interpol,14
+2007-12,Jimmy Eat World,37
+2007-12,M83,26
+2007-12,Mew,15
+2007-12,Muse,13
+2007-12,Of Montreal,3
+2007-12,Pink Floyd,4
+2007-12,Placebo,12
+2007-12,Porcupine Tree,45
+2007-12,Sigur Rós,7
+2007-12,Stars,2
+2007-12,The Flaming Lips,13
+2007-12,The Format,13
+2007-12,The Smashing Pumpkins,24
+2008-01,Arcade Fire,20
+2008-01,Blonde Redhead,4
+2008-01,Boards Of Canada,1
+2008-01,Broken Social Scene,4
+2008-01,Death Cab For Cutie,11
+2008-01,Fujiya & Miyagi,2
+2008-01,Interpol,25
+2008-01,Jimmy Eat World,25
+2008-01,M83,4
+2008-01,Mew,11
+2008-01,Muse,9
+2008-01,Of Montreal,4
+2008-01,Pink Floyd,3
+2008-01,Placebo,18
+2008-01,Porcupine Tree,13
+2008-01,Sigur Rós,12
+2008-01,Stars,67
+2008-01,The Flaming Lips,5
+2008-01,The Format,20
+2008-01,The Smashing Pumpkins,19
+2008-02,Arcade Fire,16
+2008-02,Blonde Redhead,7
+2008-02,Boards Of Canada,5
+2008-02,Broken Social Scene,28
+2008-02,Death Cab For Cutie,35
+2008-02,Fujiya & Miyagi,2
+2008-02,Interpol,18
+2008-02,Jimmy Eat World,47
+2008-02,M83,6
+2008-02,Mew,11
+2008-02,Muse,20
+2008-02,Of Montreal,5
+2008-02,Pink Floyd,16
+2008-02,Placebo,22
+2008-02,Porcupine Tree,41
+2008-02,Sigur Rós,12
+2008-02,Stars,35
+2008-02,The Flaming Lips,10
+2008-02,The Format,27
+2008-02,The Smashing Pumpkins,22
+2008-03,Arcade Fire,19
+2008-03,Blonde Redhead,6
+2008-03,Boards Of Canada,16
+2008-03,Broken Social Scene,10
+2008-03,Death Cab For Cutie,20
+2008-03,Fujiya & Miyagi,3
+2008-03,Interpol,11
+2008-03,Jimmy Eat World,40
+2008-03,M83,12
+2008-03,Mew,23
+2008-03,Muse,22
+2008-03,Of Montreal,20
+2008-03,Pink Floyd,12
+2008-03,Placebo,42
+2008-03,Porcupine Tree,36
+2008-03,Sigur Rós,8
+2008-03,Stars,16
+2008-03,The Flaming Lips,26
+2008-03,The Format,38
+2008-03,The Smashing Pumpkins,27
+2008-04,Arcade Fire,17
+2008-04,Blonde Redhead,12
+2008-04,Boards Of Canada,3
+2008-04,Broken Social Scene,15
+2008-04,Death Cab For Cutie,41
+2008-04,Fujiya & Miyagi,4
+2008-04,Interpol,20
+2008-04,Jimmy Eat World,29
+2008-04,M83,27
+2008-04,Mew,28
+2008-04,Muse,14
+2008-04,Of Montreal,3
+2008-04,Pink Floyd,4
+2008-04,Placebo,33
+2008-04,Porcupine Tree,42
+2008-04,Sigur Rós,2
+2008-04,Stars,7
+2008-04,The Flaming Lips,6
+2008-04,The Format,14
+2008-04,The Smashing Pumpkins,29
+2008-05,Arcade Fire,2
+2008-05,Blonde Redhead,11
+2008-05,Boards Of Canada,13
+2008-05,Broken Social Scene,50
+2008-05,Death Cab For Cutie,72
+2008-05,Fujiya & Miyagi,2
+2008-05,Interpol,21
+2008-05,Jimmy Eat World,21
+2008-05,M83,43
+2008-05,Mew,14
+2008-05,Muse,38
+2008-05,Of Montreal,4
+2008-05,Pink Floyd,11
+2008-05,Placebo,46
+2008-05,Porcupine Tree,48
+2008-05,Sigur Rós,32
+2008-05,Stars,20
+2008-05,The Flaming Lips,10
+2008-05,The Format,17
+2008-05,The Smashing Pumpkins,10
+2008-06,Arcade Fire,0
+2008-06,Blonde Redhead,10
+2008-06,Boards Of Canada,19
+2008-06,Broken Social Scene,24
+2008-06,Death Cab For Cutie,60
+2008-06,Fujiya & Miyagi,5
+2008-06,Interpol,20
+2008-06,Jimmy Eat World,29
+2008-06,M83,62
+2008-06,Mew,18
+2008-06,Muse,11
+2008-06,Of Montreal,4
+2008-06,Pink Floyd,3
+2008-06,Placebo,22
+2008-06,Porcupine Tree,33
+2008-06,Sigur Rós,63
+2008-06,Stars,7
+2008-06,The Flaming Lips,6
+2008-06,The Format,31
+2008-06,The Smashing Pumpkins,24
+2008-07,Arcade Fire,3
+2008-07,Blonde Redhead,18
+2008-07,Boards Of Canada,42
+2008-07,Broken Social Scene,12
+2008-07,Death Cab For Cutie,36
+2008-07,Fujiya & Miyagi,8
+2008-07,Interpol,4
+2008-07,Jimmy Eat World,19
+2008-07,M83,46
+2008-07,Mew,18
+2008-07,Muse,20
+2008-07,Of Montreal,4
+2008-07,Pink Floyd,14
+2008-07,Placebo,11
+2008-07,Porcupine Tree,40
+2008-07,Sigur Rós,12
+2008-07,Stars,5
+2008-07,The Flaming Lips,26
+2008-07,The Format,9
+2008-07,The Smashing Pumpkins,11
+2008-08,Arcade Fire,3
+2008-08,Blonde Redhead,13
+2008-08,Boards Of Canada,4
+2008-08,Broken Social Scene,19
+2008-08,Death Cab For Cutie,7
+2008-08,Fujiya & Miyagi,1
+2008-08,Interpol,1
+2008-08,Jimmy Eat World,20
+2008-08,M83,19
+2008-08,Mew,19
+2008-08,Muse,31
+2008-08,Of Montreal,1
+2008-08,Pink Floyd,0
+2008-08,Placebo,17
+2008-08,Porcupine Tree,26
+2008-08,Sigur Rós,3
+2008-08,Stars,3
+2008-08,The Flaming Lips,6
+2008-08,The Format,1
+2008-08,The Smashing Pumpkins,12
+2008-09,Arcade Fire,5
+2008-09,Blonde Redhead,0
+2008-09,Boards Of Canada,4
+2008-09,Broken Social Scene,15
+2008-09,Death Cab For Cutie,27
+2008-09,Fujiya & Miyagi,3
+2008-09,Interpol,8
+2008-09,Jimmy Eat World,48
+2008-09,M83,20
+2008-09,Mew,9
+2008-09,Muse,26
+2008-09,Of Montreal,2
+2008-09,Pink Floyd,10
+2008-09,Placebo,9
+2008-09,Porcupine Tree,12
+2008-09,Sigur Rós,40
+2008-09,Stars,7
+2008-09,The Flaming Lips,11
+2008-09,The Format,9
+2008-09,The Smashing Pumpkins,14
+2008-10,Arcade Fire,1
+2008-10,Blonde Redhead,1
+2008-10,Boards Of Canada,2
+2008-10,Broken Social Scene,2
+2008-10,Death Cab For Cutie,32
+2008-10,Fujiya & Miyagi,0
+2008-10,Interpol,3
+2008-10,Jimmy Eat World,12
+2008-10,M83,5
+2008-10,Mew,3
+2008-10,Muse,10
+2008-10,Of Montreal,1
+2008-10,Pink Floyd,4
+2008-10,Placebo,4
+2008-10,Porcupine Tree,17
+2008-10,Sigur Rós,15
+2008-10,Stars,3
+2008-10,The Flaming Lips,5
+2008-10,The Format,4
+2008-10,The Smashing Pumpkins,5
+2008-11,Arcade Fire,4
+2008-11,Blonde Redhead,1
+2008-11,Boards Of Canada,7
+2008-11,Broken Social Scene,10
+2008-11,Death Cab For Cutie,38
+2008-11,Fujiya & Miyagi,1
+2008-11,Interpol,7
+2008-11,Jimmy Eat World,26
+2008-11,M83,17
+2008-11,Mew,22
+2008-11,Muse,40
+2008-11,Of Montreal,5
+2008-11,Pink Floyd,4
+2008-11,Placebo,16
+2008-11,Porcupine Tree,24
+2008-11,Sigur Rós,9
+2008-11,Stars,5
+2008-11,The Flaming Lips,4
+2008-11,The Format,8
+2008-11,The Smashing Pumpkins,19
+2008-12,Arcade Fire,20
+2008-12,Blonde Redhead,6
+2008-12,Boards Of Canada,4
+2008-12,Broken Social Scene,21
+2008-12,Death Cab For Cutie,57
+2008-12,Fujiya & Miyagi,4
+2008-12,Interpol,18
+2008-12,Jimmy Eat World,32
+2008-12,M83,17
+2008-12,Mew,14
+2008-12,Muse,49
+2008-12,Of Montreal,3
+2008-12,Pink Floyd,11
+2008-12,Placebo,23
+2008-12,Porcupine Tree,20
+2008-12,Sigur Rós,28
+2008-12,Stars,9
+2008-12,The Flaming Lips,11
+2008-12,The Format,8
+2008-12,The Smashing Pumpkins,14
+2009-01,Arcade Fire,1
+2009-01,Blonde Redhead,1
+2009-01,Boards Of Canada,12
+2009-01,Broken Social Scene,9
+2009-01,Death Cab For Cutie,9
+2009-01,Fujiya & Miyagi,5
+2009-01,Interpol,1
+2009-01,Jimmy Eat World,6
+2009-01,M83,8
+2009-01,Mew,1
+2009-01,Muse,11
+2009-01,Of Montreal,0
+2009-01,Pink Floyd,0
+2009-01,Placebo,39
+2009-01,Porcupine Tree,9
+2009-01,Sigur Rós,1
+2009-01,Stars,3
+2009-01,The Flaming Lips,1
+2009-01,The Format,2
+2009-01,The Smashing Pumpkins,7
+2009-02,Arcade Fire,0
+2009-02,Blonde Redhead,1
+2009-02,Boards Of Canada,1
+2009-02,Broken Social Scene,2
+2009-02,Death Cab For Cutie,10
+2009-02,Fujiya & Miyagi,2
+2009-02,Interpol,1
+2009-02,Jimmy Eat World,14
+2009-02,M83,2
+2009-02,Mew,1
+2009-02,Muse,4
+2009-02,Of Montreal,0
+2009-02,Pink Floyd,1
+2009-02,Placebo,63
+2009-02,Porcupine Tree,14
+2009-02,Sigur Rós,9
+2009-02,Stars,3
+2009-02,The Flaming Lips,11
+2009-02,The Format,1
+2009-02,The Smashing Pumpkins,4
+2009-03,Arcade Fire,6
+2009-03,Blonde Redhead,7
+2009-03,Boards Of Canada,2
+2009-03,Broken Social Scene,2
+2009-03,Death Cab For Cutie,6
+2009-03,Fujiya & Miyagi,3
+2009-03,Interpol,2
+2009-03,Jimmy Eat World,18
+2009-03,M83,20
+2009-03,Mew,1
+2009-03,Muse,14
+2009-03,Of Montreal,2
+2009-03,Pink Floyd,1
+2009-03,Placebo,33
+2009-03,Porcupine Tree,8
+2009-03,Sigur Rós,8
+2009-03,Stars,14
+2009-03,The Flaming Lips,5
+2009-03,The Format,4
+2009-03,The Smashing Pumpkins,2
+2009-04,Arcade Fire,4
+2009-04,Blonde Redhead,3
+2009-04,Boards Of Canada,3
+2009-04,Broken Social Scene,24
+2009-04,Death Cab For Cutie,11
+2009-04,Fujiya & Miyagi,2
+2009-04,Interpol,3
+2009-04,Jimmy Eat World,21
+2009-04,M83,19
+2009-04,Mew,7
+2009-04,Muse,10
+2009-04,Of Montreal,1
+2009-04,Pink Floyd,3
+2009-04,Placebo,30
+2009-04,Porcupine Tree,13
+2009-04,Sigur Rós,15
+2009-04,Stars,4
+2009-04,The Flaming Lips,3
+2009-04,The Format,3
+2009-04,The Smashing Pumpkins,16
+2009-05,Arcade Fire,0
+2009-05,Blonde Redhead,1
+2009-05,Boards Of Canada,1
+2009-05,Broken Social Scene,1
+2009-05,Death Cab For Cutie,3
+2009-05,Fujiya & Miyagi,1
+2009-05,Interpol,1
+2009-05,Jimmy Eat World,8
+2009-05,M83,2
+2009-05,Mew,0
+2009-05,Muse,1
+2009-05,Of Montreal,1
+2009-05,Pink Floyd,2
+2009-05,Placebo,4
+2009-05,Porcupine Tree,6
+2009-05,Sigur Rós,3
+2009-05,Stars,1
+2009-05,The Flaming Lips,0
+2009-05,The Format,0
+2009-05,The Smashing Pumpkins,3

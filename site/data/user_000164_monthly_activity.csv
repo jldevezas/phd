@@ -1,0 +1,521 @@
+month,artist,plays
+2006-06,Arcade Fire,1
+2006-06,Beck,1
+2006-06,Belle And Sebastian,1
+2006-06,Bob Dylan,0
+2006-06,David Bowie,0
+2006-06,Devendra Banhart,1
+2006-06,Islands,1
+2006-06,Ladytron,1
+2006-06,Lcd Soundsystem,2
+2006-06,My Bloody Valentine,1
+2006-06,Neil Young,0
+2006-06,Pavement,1
+2006-06,Simon & Garfunkel,0
+2006-06,Talking Heads,0
+2006-06,The Byrds,0
+2006-06,The Go! Team,2
+2006-06,The Kinks,0
+2006-06,The Rolling Stones,1
+2006-06,The Velvet Underground,1
+2006-06,The White Stripes,1
+2006-07,Arcade Fire,3
+2006-07,Beck,4
+2006-07,Belle And Sebastian,3
+2006-07,Bob Dylan,1
+2006-07,David Bowie,3
+2006-07,Devendra Banhart,2
+2006-07,Islands,1
+2006-07,Ladytron,2
+2006-07,Lcd Soundsystem,3
+2006-07,My Bloody Valentine,2
+2006-07,Neil Young,2
+2006-07,Pavement,1
+2006-07,Simon & Garfunkel,1
+2006-07,Talking Heads,3
+2006-07,The Byrds,2
+2006-07,The Go! Team,3
+2006-07,The Kinks,2
+2006-07,The Rolling Stones,1
+2006-07,The Velvet Underground,5
+2006-07,The White Stripes,2
+2006-08,Arcade Fire,0
+2006-08,Beck,1
+2006-08,Belle And Sebastian,0
+2006-08,Bob Dylan,1
+2006-08,David Bowie,0
+2006-08,Devendra Banhart,1
+2006-08,Islands,0
+2006-08,Ladytron,0
+2006-08,Lcd Soundsystem,0
+2006-08,My Bloody Valentine,0
+2006-08,Neil Young,1
+2006-08,Pavement,0
+2006-08,Simon & Garfunkel,1
+2006-08,Talking Heads,0
+2006-08,The Byrds,0
+2006-08,The Go! Team,0
+2006-08,The Kinks,0
+2006-08,The Rolling Stones,0
+2006-08,The Velvet Underground,1
+2006-08,The White Stripes,0
+2006-09,Arcade Fire,0
+2006-09,Beck,0
+2006-09,Belle And Sebastian,0
+2006-09,Bob Dylan,0
+2006-09,David Bowie,0
+2006-09,Devendra Banhart,0
+2006-09,Islands,0
+2006-09,Ladytron,0
+2006-09,Lcd Soundsystem,0
+2006-09,My Bloody Valentine,0
+2006-09,Neil Young,0
+2006-09,Pavement,0
+2006-09,Simon & Garfunkel,0
+2006-09,Talking Heads,0
+2006-09,The Byrds,0
+2006-09,The Go! Team,0
+2006-09,The Kinks,0
+2006-09,The Rolling Stones,0
+2006-09,The Velvet Underground,0
+2006-09,The White Stripes,0
+2006-10,Arcade Fire,0
+2006-10,Beck,0
+2006-10,Belle And Sebastian,1
+2006-10,Bob Dylan,1
+2006-10,David Bowie,1
+2006-10,Devendra Banhart,2
+2006-10,Islands,0
+2006-10,Ladytron,1
+2006-10,Lcd Soundsystem,1
+2006-10,My Bloody Valentine,1
+2006-10,Neil Young,1
+2006-10,Pavement,1
+2006-10,Simon & Garfunkel,0
+2006-10,Talking Heads,1
+2006-10,The Byrds,1
+2006-10,The Go! Team,0
+2006-10,The Kinks,1
+2006-10,The Rolling Stones,0
+2006-10,The Velvet Underground,2
+2006-10,The White Stripes,1
+2006-11,Arcade Fire,1
+2006-11,Beck,0
+2006-11,Belle And Sebastian,1
+2006-11,Bob Dylan,1
+2006-11,David Bowie,1
+2006-11,Devendra Banhart,1
+2006-11,Islands,1
+2006-11,Ladytron,0
+2006-11,Lcd Soundsystem,0
+2006-11,My Bloody Valentine,0
+2006-11,Neil Young,0
+2006-11,Pavement,1
+2006-11,Simon & Garfunkel,1
+2006-11,Talking Heads,0
+2006-11,The Byrds,1
+2006-11,The Go! Team,1
+2006-11,The Kinks,1
+2006-11,The Rolling Stones,1
+2006-11,The Velvet Underground,0
+2006-11,The White Stripes,0
+2006-12,Arcade Fire,0
+2006-12,Beck,0
+2006-12,Belle And Sebastian,0
+2006-12,Bob Dylan,0
+2006-12,David Bowie,0
+2006-12,Devendra Banhart,0
+2006-12,Islands,0
+2006-12,Ladytron,0
+2006-12,Lcd Soundsystem,0
+2006-12,My Bloody Valentine,0
+2006-12,Neil Young,0
+2006-12,Pavement,0
+2006-12,Simon & Garfunkel,0
+2006-12,Talking Heads,0
+2006-12,The Byrds,0
+2006-12,The Go! Team,0
+2006-12,The Kinks,0
+2006-12,The Rolling Stones,0
+2006-12,The Velvet Underground,0
+2006-12,The White Stripes,0
+2007-01,Arcade Fire,0
+2007-01,Beck,0
+2007-01,Belle And Sebastian,0
+2007-01,Bob Dylan,0
+2007-01,David Bowie,1
+2007-01,Devendra Banhart,0
+2007-01,Islands,0
+2007-01,Ladytron,0
+2007-01,Lcd Soundsystem,0
+2007-01,My Bloody Valentine,0
+2007-01,Neil Young,0
+2007-01,Pavement,0
+2007-01,Simon & Garfunkel,0
+2007-01,Talking Heads,0
+2007-01,The Byrds,0
+2007-01,The Go! Team,0
+2007-01,The Kinks,0
+2007-01,The Rolling Stones,0
+2007-01,The Velvet Underground,0
+2007-01,The White Stripes,0
+2007-02,Arcade Fire,0
+2007-02,Beck,0
+2007-02,Belle And Sebastian,0
+2007-02,Bob Dylan,1
+2007-02,David Bowie,0
+2007-02,Devendra Banhart,0
+2007-02,Islands,0
+2007-02,Ladytron,1
+2007-02,Lcd Soundsystem,1
+2007-02,My Bloody Valentine,1
+2007-02,Neil Young,1
+2007-02,Pavement,0
+2007-02,Simon & Garfunkel,0
+2007-02,Talking Heads,1
+2007-02,The Byrds,0
+2007-02,The Go! Team,0
+2007-02,The Kinks,0
+2007-02,The Rolling Stones,0
+2007-02,The Velvet Underground,1
+2007-02,The White Stripes,1
+2007-03,Arcade Fire,0
+2007-03,Beck,0
+2007-03,Belle And Sebastian,0
+2007-03,Bob Dylan,0
+2007-03,David Bowie,0
+2007-03,Devendra Banhart,0
+2007-03,Islands,0
+2007-03,Ladytron,0
+2007-03,Lcd Soundsystem,0
+2007-03,My Bloody Valentine,0
+2007-03,Neil Young,0
+2007-03,Pavement,0
+2007-03,Simon & Garfunkel,0
+2007-03,Talking Heads,0
+2007-03,The Byrds,0
+2007-03,The Go! Team,0
+2007-03,The Kinks,0
+2007-03,The Rolling Stones,0
+2007-03,The Velvet Underground,0
+2007-03,The White Stripes,0
+2007-04,Arcade Fire,1
+2007-04,Beck,1
+2007-04,Belle And Sebastian,0
+2007-04,Bob Dylan,0
+2007-04,David Bowie,0
+2007-04,Devendra Banhart,0
+2007-04,Islands,1
+2007-04,Ladytron,1
+2007-04,Lcd Soundsystem,1
+2007-04,My Bloody Valentine,0
+2007-04,Neil Young,0
+2007-04,Pavement,0
+2007-04,Simon & Garfunkel,0
+2007-04,Talking Heads,0
+2007-04,The Byrds,0
+2007-04,The Go! Team,1
+2007-04,The Kinks,0
+2007-04,The Rolling Stones,0
+2007-04,The Velvet Underground,0
+2007-04,The White Stripes,0
+2007-05,Arcade Fire,0
+2007-05,Beck,0
+2007-05,Belle And Sebastian,0
+2007-05,Bob Dylan,0
+2007-05,David Bowie,0
+2007-05,Devendra Banhart,0
+2007-05,Islands,0
+2007-05,Ladytron,0
+2007-05,Lcd Soundsystem,0
+2007-05,My Bloody Valentine,0
+2007-05,Neil Young,0
+2007-05,Pavement,0
+2007-05,Simon & Garfunkel,0
+2007-05,Talking Heads,0
+2007-05,The Byrds,0
+2007-05,The Go! Team,0
+2007-05,The Kinks,0
+2007-05,The Rolling Stones,0
+2007-05,The Velvet Underground,0
+2007-05,The White Stripes,0
+2007-06,Arcade Fire,0
+2007-06,Beck,0
+2007-06,Belle And Sebastian,0
+2007-06,Bob Dylan,2
+2007-06,David Bowie,0
+2007-06,Devendra Banhart,0
+2007-06,Islands,0
+2007-06,Ladytron,0
+2007-06,Lcd Soundsystem,0
+2007-06,My Bloody Valentine,0
+2007-06,Neil Young,1
+2007-06,Pavement,0
+2007-06,Simon & Garfunkel,1
+2007-06,Talking Heads,1
+2007-06,The Byrds,0
+2007-06,The Go! Team,0
+2007-06,The Kinks,2
+2007-06,The Rolling Stones,1
+2007-06,The Velvet Underground,2
+2007-06,The White Stripes,0
+2007-07,Arcade Fire,0
+2007-07,Beck,0
+2007-07,Belle And Sebastian,0
+2007-07,Bob Dylan,0
+2007-07,David Bowie,0
+2007-07,Devendra Banhart,0
+2007-07,Islands,0
+2007-07,Ladytron,0
+2007-07,Lcd Soundsystem,0
+2007-07,My Bloody Valentine,0
+2007-07,Neil Young,0
+2007-07,Pavement,0
+2007-07,Simon & Garfunkel,0
+2007-07,Talking Heads,0
+2007-07,The Byrds,0
+2007-07,The Go! Team,0
+2007-07,The Kinks,0
+2007-07,The Rolling Stones,0
+2007-07,The Velvet Underground,0
+2007-07,The White Stripes,0
+2007-08,Arcade Fire,0
+2007-08,Beck,0
+2007-08,Belle And Sebastian,0
+2007-08,Bob Dylan,0
+2007-08,David Bowie,0
+2007-08,Devendra Banhart,0
+2007-08,Islands,0
+2007-08,Ladytron,0
+2007-08,Lcd Soundsystem,0
+2007-08,My Bloody Valentine,0
+2007-08,Neil Young,0
+2007-08,Pavement,0
+2007-08,Simon & Garfunkel,0
+2007-08,Talking Heads,0
+2007-08,The Byrds,0
+2007-08,The Go! Team,0
+2007-08,The Kinks,0
+2007-08,The Rolling Stones,0
+2007-08,The Velvet Underground,0
+2007-08,The White Stripes,0
+2007-09,Arcade Fire,0
+2007-09,Beck,0
+2007-09,Belle And Sebastian,0
+2007-09,Bob Dylan,0
+2007-09,David Bowie,0
+2007-09,Devendra Banhart,0
+2007-09,Islands,0
+2007-09,Ladytron,0
+2007-09,Lcd Soundsystem,0
+2007-09,My Bloody Valentine,0
+2007-09,Neil Young,0
+2007-09,Pavement,0
+2007-09,Simon & Garfunkel,0
+2007-09,Talking Heads,0
+2007-09,The Byrds,0
+2007-09,The Go! Team,0
+2007-09,The Kinks,0
+2007-09,The Rolling Stones,0
+2007-09,The Velvet Underground,0
+2007-09,The White Stripes,0
+2007-10,Arcade Fire,0
+2007-10,Beck,0
+2007-10,Belle And Sebastian,0
+2007-10,Bob Dylan,0
+2007-10,David Bowie,0
+2007-10,Devendra Banhart,0
+2007-10,Islands,0
+2007-10,Ladytron,0
+2007-10,Lcd Soundsystem,0
+2007-10,My Bloody Valentine,0
+2007-10,Neil Young,0
+2007-10,Pavement,0
+2007-10,Simon & Garfunkel,0
+2007-10,Talking Heads,0
+2007-10,The Byrds,0
+2007-10,The Go! Team,0
+2007-10,The Kinks,0
+2007-10,The Rolling Stones,0
+2007-10,The Velvet Underground,0
+2007-10,The White Stripes,0
+2007-11,Arcade Fire,0
+2007-11,Beck,0
+2007-11,Belle And Sebastian,0
+2007-11,Bob Dylan,0
+2007-11,David Bowie,0
+2007-11,Devendra Banhart,0
+2007-11,Islands,0
+2007-11,Ladytron,0
+2007-11,Lcd Soundsystem,0
+2007-11,My Bloody Valentine,0
+2007-11,Neil Young,0
+2007-11,Pavement,0
+2007-11,Simon & Garfunkel,0
+2007-11,Talking Heads,0
+2007-11,The Byrds,0
+2007-11,The Go! Team,0
+2007-11,The Kinks,0
+2007-11,The Rolling Stones,0
+2007-11,The Velvet Underground,0
+2007-11,The White Stripes,0
+2007-12,Arcade Fire,0
+2007-12,Beck,0
+2007-12,Belle And Sebastian,0
+2007-12,Bob Dylan,0
+2007-12,David Bowie,0
+2007-12,Devendra Banhart,0
+2007-12,Islands,0
+2007-12,Ladytron,0
+2007-12,Lcd Soundsystem,0
+2007-12,My Bloody Valentine,0
+2007-12,Neil Young,0
+2007-12,Pavement,0
+2007-12,Simon & Garfunkel,0
+2007-12,Talking Heads,0
+2007-12,The Byrds,0
+2007-12,The Go! Team,0
+2007-12,The Kinks,0
+2007-12,The Rolling Stones,0
+2007-12,The Velvet Underground,0
+2007-12,The White Stripes,0
+2008-01,Arcade Fire,0
+2008-01,Beck,0
+2008-01,Belle And Sebastian,0
+2008-01,Bob Dylan,0
+2008-01,David Bowie,0
+2008-01,Devendra Banhart,0
+2008-01,Islands,0
+2008-01,Ladytron,0
+2008-01,Lcd Soundsystem,0
+2008-01,My Bloody Valentine,0
+2008-01,Neil Young,0
+2008-01,Pavement,0
+2008-01,Simon & Garfunkel,0
+2008-01,Talking Heads,0
+2008-01,The Byrds,0
+2008-01,The Go! Team,0
+2008-01,The Kinks,0
+2008-01,The Rolling Stones,0
+2008-01,The Velvet Underground,0
+2008-01,The White Stripes,0
+2008-02,Arcade Fire,0
+2008-02,Beck,0
+2008-02,Belle And Sebastian,0
+2008-02,Bob Dylan,0
+2008-02,David Bowie,0
+2008-02,Devendra Banhart,0
+2008-02,Islands,0
+2008-02,Ladytron,0
+2008-02,Lcd Soundsystem,0
+2008-02,My Bloody Valentine,0
+2008-02,Neil Young,0
+2008-02,Pavement,0
+2008-02,Simon & Garfunkel,0
+2008-02,Talking Heads,0
+2008-02,The Byrds,0
+2008-02,The Go! Team,0
+2008-02,The Kinks,0
+2008-02,The Rolling Stones,0
+2008-02,The Velvet Underground,0
+2008-02,The White Stripes,0
+2008-03,Arcade Fire,0
+2008-03,Beck,0
+2008-03,Belle And Sebastian,0
+2008-03,Bob Dylan,0
+2008-03,David Bowie,0
+2008-03,Devendra Banhart,0
+2008-03,Islands,0
+2008-03,Ladytron,0
+2008-03,Lcd Soundsystem,0
+2008-03,My Bloody Valentine,0
+2008-03,Neil Young,0
+2008-03,Pavement,0
+2008-03,Simon & Garfunkel,0
+2008-03,Talking Heads,0
+2008-03,The Byrds,0
+2008-03,The Go! Team,0
+2008-03,The Kinks,0
+2008-03,The Rolling Stones,0
+2008-03,The Velvet Underground,0
+2008-03,The White Stripes,0
+2008-04,Arcade Fire,0
+2008-04,Beck,0
+2008-04,Belle And Sebastian,0
+2008-04,Bob Dylan,0
+2008-04,David Bowie,0
+2008-04,Devendra Banhart,0
+2008-04,Islands,0
+2008-04,Ladytron,0
+2008-04,Lcd Soundsystem,0
+2008-04,My Bloody Valentine,0
+2008-04,Neil Young,0
+2008-04,Pavement,0
+2008-04,Simon & Garfunkel,0
+2008-04,Talking Heads,0
+2008-04,The Byrds,0
+2008-04,The Go! Team,0
+2008-04,The Kinks,0
+2008-04,The Rolling Stones,0
+2008-04,The Velvet Underground,0
+2008-04,The White Stripes,0
+2008-05,Arcade Fire,0
+2008-05,Beck,0
+2008-05,Belle And Sebastian,0
+2008-05,Bob Dylan,0
+2008-05,David Bowie,0
+2008-05,Devendra Banhart,0
+2008-05,Islands,0
+2008-05,Ladytron,0
+2008-05,Lcd Soundsystem,0
+2008-05,My Bloody Valentine,0
+2008-05,Neil Young,0
+2008-05,Pavement,0
+2008-05,Simon & Garfunkel,0
+2008-05,Talking Heads,0
+2008-05,The Byrds,0
+2008-05,The Go! Team,0
+2008-05,The Kinks,0
+2008-05,The Rolling Stones,0
+2008-05,The Velvet Underground,0
+2008-05,The White Stripes,0
+2008-06,Arcade Fire,0
+2008-06,Beck,0
+2008-06,Belle And Sebastian,0
+2008-06,Bob Dylan,0
+2008-06,David Bowie,0
+2008-06,Devendra Banhart,0
+2008-06,Islands,0
+2008-06,Ladytron,0
+2008-06,Lcd Soundsystem,0
+2008-06,My Bloody Valentine,0
+2008-06,Neil Young,0
+2008-06,Pavement,0
+2008-06,Simon & Garfunkel,0
+2008-06,Talking Heads,0
+2008-06,The Byrds,0
+2008-06,The Go! Team,0
+2008-06,The Kinks,0
+2008-06,The Rolling Stones,0
+2008-06,The Velvet Underground,0
+2008-06,The White Stripes,0
+2008-07,Arcade Fire,0
+2008-07,Beck,0
+2008-07,Belle And Sebastian,0
+2008-07,Bob Dylan,0
+2008-07,David Bowie,0
+2008-07,Devendra Banhart,0
+2008-07,Islands,0
+2008-07,Ladytron,0
+2008-07,Lcd Soundsystem,0
+2008-07,My Bloody Valentine,0
+2008-07,Neil Young,0
+2008-07,Pavement,0
+2008-07,Simon & Garfunkel,0
+2008-07,Talking Heads,0
+2008-07,The Byrds,1
+2008-07,The Go! Team,0
+2008-07,The Kinks,0
+2008-07,The Rolling Stones,0
+2008-07,The Velvet Underground,0
+2008-07,The White Stripes,0

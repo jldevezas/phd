@@ -1,0 +1,421 @@
+month,artist,plays
+2007-09,Aaaardvarks,0
+2007-09,Alias & Tarsier,0
+2007-09,Bob Dylan,0
+2007-09,Boy Omega,0
+2007-09,Brian Stoltz,0
+2007-09,Caitlin Mcewan,0
+2007-09,Cloud Cult,0
+2007-09,Death Cab For Cutie,45
+2007-09,Feist,0
+2007-09,Fleetwood Mac,0
+2007-09,Jack Johnson,28
+2007-09,Michael Ford,0
+2007-09,Placebo,0
+2007-09,Sebadoh,0
+2007-09,Seldom Herd,0
+2007-09,Tegan And Sara,0
+2007-09,The Heath Sisters,0
+2007-09,The Shins,6
+2007-09,The Smashing Pumpkins,0
+2007-09,The White Stripes,0
+2007-10,Aaaardvarks,0
+2007-10,Alias & Tarsier,0
+2007-10,Bob Dylan,0
+2007-10,Boy Omega,0
+2007-10,Brian Stoltz,0
+2007-10,Caitlin Mcewan,0
+2007-10,Cloud Cult,0
+2007-10,Death Cab For Cutie,10
+2007-10,Feist,0
+2007-10,Fleetwood Mac,13
+2007-10,Jack Johnson,16
+2007-10,Michael Ford,0
+2007-10,Placebo,0
+2007-10,Sebadoh,0
+2007-10,Seldom Herd,0
+2007-10,Tegan And Sara,0
+2007-10,The Heath Sisters,0
+2007-10,The Shins,0
+2007-10,The Smashing Pumpkins,0
+2007-10,The White Stripes,0
+2007-11,Aaaardvarks,1
+2007-11,Alias & Tarsier,0
+2007-11,Bob Dylan,0
+2007-11,Boy Omega,0
+2007-11,Brian Stoltz,1
+2007-11,Caitlin Mcewan,1
+2007-11,Cloud Cult,6
+2007-11,Death Cab For Cutie,1
+2007-11,Feist,6
+2007-11,Fleetwood Mac,9
+2007-11,Jack Johnson,29
+2007-11,Michael Ford,3
+2007-11,Placebo,0
+2007-11,Sebadoh,1
+2007-11,Seldom Herd,0
+2007-11,Tegan And Sara,1
+2007-11,The Heath Sisters,4
+2007-11,The Shins,12
+2007-11,The Smashing Pumpkins,0
+2007-11,The White Stripes,0
+2007-12,Aaaardvarks,1
+2007-12,Alias & Tarsier,0
+2007-12,Bob Dylan,0
+2007-12,Boy Omega,9
+2007-12,Brian Stoltz,1
+2007-12,Caitlin Mcewan,1
+2007-12,Cloud Cult,3
+2007-12,Death Cab For Cutie,9
+2007-12,Feist,11
+2007-12,Fleetwood Mac,0
+2007-12,Jack Johnson,0
+2007-12,Michael Ford,1
+2007-12,Placebo,88
+2007-12,Sebadoh,0
+2007-12,Seldom Herd,1
+2007-12,Tegan And Sara,51
+2007-12,The Heath Sisters,1
+2007-12,The Shins,27
+2007-12,The Smashing Pumpkins,14
+2007-12,The White Stripes,0
+2008-01,Aaaardvarks,0
+2008-01,Alias & Tarsier,11
+2008-01,Bob Dylan,7
+2008-01,Boy Omega,16
+2008-01,Brian Stoltz,0
+2008-01,Caitlin Mcewan,0
+2008-01,Cloud Cult,0
+2008-01,Death Cab For Cutie,0
+2008-01,Feist,1
+2008-01,Fleetwood Mac,12
+2008-01,Jack Johnson,0
+2008-01,Michael Ford,0
+2008-01,Placebo,29
+2008-01,Sebadoh,2
+2008-01,Seldom Herd,0
+2008-01,Tegan And Sara,100
+2008-01,The Heath Sisters,0
+2008-01,The Shins,62
+2008-01,The Smashing Pumpkins,263
+2008-01,The White Stripes,103
+2008-02,Aaaardvarks,0
+2008-02,Alias & Tarsier,11
+2008-02,Bob Dylan,0
+2008-02,Boy Omega,10
+2008-02,Brian Stoltz,0
+2008-02,Caitlin Mcewan,0
+2008-02,Cloud Cult,0
+2008-02,Death Cab For Cutie,0
+2008-02,Feist,6
+2008-02,Fleetwood Mac,0
+2008-02,Jack Johnson,74
+2008-02,Michael Ford,0
+2008-02,Placebo,2
+2008-02,Sebadoh,0
+2008-02,Seldom Herd,0
+2008-02,Tegan And Sara,12
+2008-02,The Heath Sisters,0
+2008-02,The Shins,27
+2008-02,The Smashing Pumpkins,2
+2008-02,The White Stripes,103
+2008-03,Aaaardvarks,1
+2008-03,Alias & Tarsier,1
+2008-03,Bob Dylan,2
+2008-03,Boy Omega,4
+2008-03,Brian Stoltz,1
+2008-03,Caitlin Mcewan,1
+2008-03,Cloud Cult,114
+2008-03,Death Cab For Cutie,1
+2008-03,Feist,0
+2008-03,Fleetwood Mac,1
+2008-03,Jack Johnson,35
+2008-03,Michael Ford,2
+2008-03,Placebo,12
+2008-03,Sebadoh,28
+2008-03,Seldom Herd,1
+2008-03,Tegan And Sara,20
+2008-03,The Heath Sisters,1
+2008-03,The Shins,0
+2008-03,The Smashing Pumpkins,2
+2008-03,The White Stripes,1
+2008-04,Aaaardvarks,0
+2008-04,Alias & Tarsier,10
+2008-04,Bob Dylan,7
+2008-04,Boy Omega,3
+2008-04,Brian Stoltz,0
+2008-04,Caitlin Mcewan,0
+2008-04,Cloud Cult,10
+2008-04,Death Cab For Cutie,1
+2008-04,Feist,0
+2008-04,Fleetwood Mac,0
+2008-04,Jack Johnson,20
+2008-04,Michael Ford,0
+2008-04,Placebo,0
+2008-04,Sebadoh,36
+2008-04,Seldom Herd,0
+2008-04,Tegan And Sara,0
+2008-04,The Heath Sisters,0
+2008-04,The Shins,19
+2008-04,The Smashing Pumpkins,0
+2008-04,The White Stripes,0
+2008-05,Aaaardvarks,0
+2008-05,Alias & Tarsier,0
+2008-05,Bob Dylan,0
+2008-05,Boy Omega,0
+2008-05,Brian Stoltz,0
+2008-05,Caitlin Mcewan,0
+2008-05,Cloud Cult,0
+2008-05,Death Cab For Cutie,0
+2008-05,Feist,0
+2008-05,Fleetwood Mac,0
+2008-05,Jack Johnson,52
+2008-05,Michael Ford,1
+2008-05,Placebo,0
+2008-05,Sebadoh,1
+2008-05,Seldom Herd,1
+2008-05,Tegan And Sara,4
+2008-05,The Heath Sisters,1
+2008-05,The Shins,1
+2008-05,The Smashing Pumpkins,10
+2008-05,The White Stripes,1
+2008-06,Aaaardvarks,0
+2008-06,Alias & Tarsier,0
+2008-06,Bob Dylan,0
+2008-06,Boy Omega,0
+2008-06,Brian Stoltz,0
+2008-06,Caitlin Mcewan,0
+2008-06,Cloud Cult,22
+2008-06,Death Cab For Cutie,0
+2008-06,Feist,0
+2008-06,Fleetwood Mac,0
+2008-06,Jack Johnson,10
+2008-06,Michael Ford,0
+2008-06,Placebo,0
+2008-06,Sebadoh,9
+2008-06,Seldom Herd,0
+2008-06,Tegan And Sara,0
+2008-06,The Heath Sisters,0
+2008-06,The Shins,0
+2008-06,The Smashing Pumpkins,0
+2008-06,The White Stripes,0
+2008-07,Aaaardvarks,1
+2008-07,Alias & Tarsier,0
+2008-07,Bob Dylan,0
+2008-07,Boy Omega,0
+2008-07,Brian Stoltz,1
+2008-07,Caitlin Mcewan,1
+2008-07,Cloud Cult,0
+2008-07,Death Cab For Cutie,0
+2008-07,Feist,0
+2008-07,Fleetwood Mac,0
+2008-07,Jack Johnson,0
+2008-07,Michael Ford,0
+2008-07,Placebo,0
+2008-07,Sebadoh,0
+2008-07,Seldom Herd,1
+2008-07,Tegan And Sara,0
+2008-07,The Heath Sisters,1
+2008-07,The Shins,0
+2008-07,The Smashing Pumpkins,0
+2008-07,The White Stripes,0
+2008-08,Aaaardvarks,0
+2008-08,Alias & Tarsier,0
+2008-08,Bob Dylan,0
+2008-08,Boy Omega,0
+2008-08,Brian Stoltz,0
+2008-08,Caitlin Mcewan,0
+2008-08,Cloud Cult,0
+2008-08,Death Cab For Cutie,0
+2008-08,Feist,0
+2008-08,Fleetwood Mac,0
+2008-08,Jack Johnson,0
+2008-08,Michael Ford,0
+2008-08,Placebo,0
+2008-08,Sebadoh,0
+2008-08,Seldom Herd,0
+2008-08,Tegan And Sara,0
+2008-08,The Heath Sisters,0
+2008-08,The Shins,0
+2008-08,The Smashing Pumpkins,0
+2008-08,The White Stripes,0
+2008-09,Aaaardvarks,0
+2008-09,Alias & Tarsier,0
+2008-09,Bob Dylan,0
+2008-09,Boy Omega,0
+2008-09,Brian Stoltz,0
+2008-09,Caitlin Mcewan,0
+2008-09,Cloud Cult,0
+2008-09,Death Cab For Cutie,0
+2008-09,Feist,0
+2008-09,Fleetwood Mac,0
+2008-09,Jack Johnson,0
+2008-09,Michael Ford,0
+2008-09,Placebo,0
+2008-09,Sebadoh,0
+2008-09,Seldom Herd,0
+2008-09,Tegan And Sara,0
+2008-09,The Heath Sisters,0
+2008-09,The Shins,0
+2008-09,The Smashing Pumpkins,0
+2008-09,The White Stripes,0
+2008-10,Aaaardvarks,0
+2008-10,Alias & Tarsier,0
+2008-10,Bob Dylan,1
+2008-10,Boy Omega,0
+2008-10,Brian Stoltz,0
+2008-10,Caitlin Mcewan,0
+2008-10,Cloud Cult,0
+2008-10,Death Cab For Cutie,0
+2008-10,Feist,0
+2008-10,Fleetwood Mac,0
+2008-10,Jack Johnson,17
+2008-10,Michael Ford,0
+2008-10,Placebo,0
+2008-10,Sebadoh,0
+2008-10,Seldom Herd,0
+2008-10,Tegan And Sara,0
+2008-10,The Heath Sisters,0
+2008-10,The Shins,0
+2008-10,The Smashing Pumpkins,0
+2008-10,The White Stripes,0
+2008-11,Aaaardvarks,0
+2008-11,Alias & Tarsier,0
+2008-11,Bob Dylan,0
+2008-11,Boy Omega,0
+2008-11,Brian Stoltz,0
+2008-11,Caitlin Mcewan,0
+2008-11,Cloud Cult,0
+2008-11,Death Cab For Cutie,0
+2008-11,Feist,0
+2008-11,Fleetwood Mac,0
+2008-11,Jack Johnson,141
+2008-11,Michael Ford,0
+2008-11,Placebo,0
+2008-11,Sebadoh,0
+2008-11,Seldom Herd,0
+2008-11,Tegan And Sara,0
+2008-11,The Heath Sisters,0
+2008-11,The Shins,0
+2008-11,The Smashing Pumpkins,0
+2008-11,The White Stripes,0
+2008-12,Aaaardvarks,0
+2008-12,Alias & Tarsier,0
+2008-12,Bob Dylan,0
+2008-12,Boy Omega,0
+2008-12,Brian Stoltz,0
+2008-12,Caitlin Mcewan,0
+2008-12,Cloud Cult,0
+2008-12,Death Cab For Cutie,0
+2008-12,Feist,0
+2008-12,Fleetwood Mac,0
+2008-12,Jack Johnson,0
+2008-12,Michael Ford,0
+2008-12,Placebo,0
+2008-12,Sebadoh,0
+2008-12,Seldom Herd,0
+2008-12,Tegan And Sara,0
+2008-12,The Heath Sisters,0
+2008-12,The Shins,0
+2008-12,The Smashing Pumpkins,0
+2008-12,The White Stripes,0
+2009-01,Aaaardvarks,0
+2009-01,Alias & Tarsier,0
+2009-01,Bob Dylan,0
+2009-01,Boy Omega,0
+2009-01,Brian Stoltz,0
+2009-01,Caitlin Mcewan,0
+2009-01,Cloud Cult,0
+2009-01,Death Cab For Cutie,0
+2009-01,Feist,0
+2009-01,Fleetwood Mac,0
+2009-01,Jack Johnson,10
+2009-01,Michael Ford,0
+2009-01,Placebo,0
+2009-01,Sebadoh,0
+2009-01,Seldom Herd,0
+2009-01,Tegan And Sara,0
+2009-01,The Heath Sisters,0
+2009-01,The Shins,0
+2009-01,The Smashing Pumpkins,0
+2009-01,The White Stripes,0
+2009-02,Aaaardvarks,0
+2009-02,Alias & Tarsier,0
+2009-02,Bob Dylan,0
+2009-02,Boy Omega,0
+2009-02,Brian Stoltz,0
+2009-02,Caitlin Mcewan,0
+2009-02,Cloud Cult,0
+2009-02,Death Cab For Cutie,0
+2009-02,Feist,0
+2009-02,Fleetwood Mac,0
+2009-02,Jack Johnson,0
+2009-02,Michael Ford,0
+2009-02,Placebo,0
+2009-02,Sebadoh,0
+2009-02,Seldom Herd,0
+2009-02,Tegan And Sara,0
+2009-02,The Heath Sisters,0
+2009-02,The Shins,0
+2009-02,The Smashing Pumpkins,0
+2009-02,The White Stripes,0
+2009-03,Aaaardvarks,0
+2009-03,Alias & Tarsier,0
+2009-03,Bob Dylan,0
+2009-03,Boy Omega,0
+2009-03,Brian Stoltz,0
+2009-03,Caitlin Mcewan,0
+2009-03,Cloud Cult,0
+2009-03,Death Cab For Cutie,0
+2009-03,Feist,0
+2009-03,Fleetwood Mac,0
+2009-03,Jack Johnson,13
+2009-03,Michael Ford,0
+2009-03,Placebo,0
+2009-03,Sebadoh,0
+2009-03,Seldom Herd,0
+2009-03,Tegan And Sara,0
+2009-03,The Heath Sisters,0
+2009-03,The Shins,0
+2009-03,The Smashing Pumpkins,0
+2009-03,The White Stripes,0
+2009-04,Aaaardvarks,0
+2009-04,Alias & Tarsier,0
+2009-04,Bob Dylan,0
+2009-04,Boy Omega,0
+2009-04,Brian Stoltz,0
+2009-04,Caitlin Mcewan,0
+2009-04,Cloud Cult,0
+2009-04,Death Cab For Cutie,0
+2009-04,Feist,0
+2009-04,Fleetwood Mac,0
+2009-04,Jack Johnson,0
+2009-04,Michael Ford,0
+2009-04,Placebo,0
+2009-04,Sebadoh,0
+2009-04,Seldom Herd,0
+2009-04,Tegan And Sara,0
+2009-04,The Heath Sisters,0
+2009-04,The Shins,0
+2009-04,The Smashing Pumpkins,0
+2009-04,The White Stripes,0
+2009-05,Aaaardvarks,0
+2009-05,Alias & Tarsier,0
+2009-05,Bob Dylan,0
+2009-05,Boy Omega,0
+2009-05,Brian Stoltz,0
+2009-05,Caitlin Mcewan,0
+2009-05,Cloud Cult,0
+2009-05,Death Cab For Cutie,0
+2009-05,Feist,0
+2009-05,Fleetwood Mac,0
+2009-05,Jack Johnson,40
+2009-05,Michael Ford,0
+2009-05,Placebo,0
+2009-05,Sebadoh,0
+2009-05,Seldom Herd,0
+2009-05,Tegan And Sara,0
+2009-05,The Heath Sisters,0
+2009-05,The Shins,0
+2009-05,The Smashing Pumpkins,0
+2009-05,The White Stripes,0

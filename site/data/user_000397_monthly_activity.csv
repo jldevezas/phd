@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Animal Collective,10
+2006-02,Aphex Twin,0
+2006-02,Boards Of Canada,0
+2006-02,Broken Social Scene,0
+2006-02,Can,0
+2006-02,Caribou,0
+2006-02,Clap Your Hands Say Yeah,15
+2006-02,Deerhoof,16
+2006-02,Dinosaur Jr.,10
+2006-02,Guided By Voices,4
+2006-02,Neutral Milk Hotel,5
+2006-02,Pavement,2
+2006-02,Pixies,0
+2006-02,Sonic Youth,1
+2006-02,Spoon,3
+2006-02,The New Pornographers,2
+2006-02,The Unicorns,1
+2006-02,The White Stripes,0
+2006-02,Why?,0
+2006-02,Wilco,16
+2006-03,Animal Collective,18
+2006-03,Aphex Twin,0
+2006-03,Boards Of Canada,0
+2006-03,Broken Social Scene,20
+2006-03,Can,0
+2006-03,Caribou,0
+2006-03,Clap Your Hands Say Yeah,3
+2006-03,Deerhoof,7
+2006-03,Dinosaur Jr.,11
+2006-03,Guided By Voices,9
+2006-03,Neutral Milk Hotel,4
+2006-03,Pavement,7
+2006-03,Pixies,5
+2006-03,Sonic Youth,3
+2006-03,Spoon,5
+2006-03,The New Pornographers,6
+2006-03,The Unicorns,0
+2006-03,The White Stripes,0
+2006-03,Why?,0
+2006-03,Wilco,23
+2006-04,Animal Collective,18
+2006-04,Aphex Twin,7
+2006-04,Boards Of Canada,23
+2006-04,Broken Social Scene,5
+2006-04,Can,0
+2006-04,Caribou,0
+2006-04,Clap Your Hands Say Yeah,8
+2006-04,Deerhoof,15
+2006-04,Dinosaur Jr.,7
+2006-04,Guided By Voices,26
+2006-04,Neutral Milk Hotel,3
+2006-04,Pavement,21
+2006-04,Pixies,12
+2006-04,Sonic Youth,1
+2006-04,Spoon,4
+2006-04,The New Pornographers,3
+2006-04,The Unicorns,10
+2006-04,The White Stripes,22
+2006-04,Why?,0
+2006-04,Wilco,6
+2006-05,Animal Collective,17
+2006-05,Aphex Twin,22
+2006-05,Boards Of Canada,17
+2006-05,Broken Social Scene,36
+2006-05,Can,12
+2006-05,Caribou,0
+2006-05,Clap Your Hands Say Yeah,13
+2006-05,Deerhoof,11
+2006-05,Dinosaur Jr.,21
+2006-05,Guided By Voices,46
+2006-05,Neutral Milk Hotel,12
+2006-05,Pavement,9
+2006-05,Pixies,38
+2006-05,Sonic Youth,26
+2006-05,Spoon,0
+2006-05,The New Pornographers,0
+2006-05,The Unicorns,4
+2006-05,The White Stripes,10
+2006-05,Why?,0
+2006-05,Wilco,18
+2006-06,Animal Collective,22
+2006-06,Aphex Twin,13
+2006-06,Boards Of Canada,35
+2006-06,Broken Social Scene,10
+2006-06,Can,0
+2006-06,Caribou,0
+2006-06,Clap Your Hands Say Yeah,1
+2006-06,Deerhoof,1
+2006-06,Dinosaur Jr.,4
+2006-06,Guided By Voices,7
+2006-06,Neutral Milk Hotel,0
+2006-06,Pavement,15
+2006-06,Pixies,23
+2006-06,Sonic Youth,1
+2006-06,Spoon,7
+2006-06,The New Pornographers,1
+2006-06,The Unicorns,23
+2006-06,The White Stripes,34
+2006-06,Why?,0
+2006-06,Wilco,39
+2006-07,Animal Collective,37
+2006-07,Aphex Twin,13
+2006-07,Boards Of Canada,7
+2006-07,Broken Social Scene,11
+2006-07,Can,0
+2006-07,Caribou,0
+2006-07,Clap Your Hands Say Yeah,22
+2006-07,Deerhoof,20
+2006-07,Dinosaur Jr.,1
+2006-07,Guided By Voices,0
+2006-07,Neutral Milk Hotel,18
+2006-07,Pavement,0
+2006-07,Pixies,14
+2006-07,Sonic Youth,33
+2006-07,Spoon,0
+2006-07,The New Pornographers,0
+2006-07,The Unicorns,8
+2006-07,The White Stripes,17
+2006-07,Why?,0
+2006-07,Wilco,31
+2006-08,Animal Collective,29
+2006-08,Aphex Twin,1
+2006-08,Boards Of Canada,2
+2006-08,Broken Social Scene,12
+2006-08,Can,1
+2006-08,Caribou,0
+2006-08,Clap Your Hands Say Yeah,1
+2006-08,Deerhoof,2
+2006-08,Dinosaur Jr.,5
+2006-08,Guided By Voices,4
+2006-08,Neutral Milk Hotel,33
+2006-08,Pavement,49
+2006-08,Pixies,0
+2006-08,Sonic Youth,28
+2006-08,Spoon,6
+2006-08,The New Pornographers,3
+2006-08,The Unicorns,14
+2006-08,The White Stripes,43
+2006-08,Why?,0
+2006-08,Wilco,16
+2006-09,Animal Collective,9
+2006-09,Aphex Twin,0
+2006-09,Boards Of Canada,15
+2006-09,Broken Social Scene,46
+2006-09,Can,0
+2006-09,Caribou,0
+2006-09,Clap Your Hands Say Yeah,19
+2006-09,Deerhoof,21
+2006-09,Dinosaur Jr.,28
+2006-09,Guided By Voices,8
+2006-09,Neutral Milk Hotel,13
+2006-09,Pavement,9
+2006-09,Pixies,0
+2006-09,Sonic Youth,12
+2006-09,Spoon,1
+2006-09,The New Pornographers,0
+2006-09,The Unicorns,10
+2006-09,The White Stripes,36
+2006-09,Why?,0
+2006-09,Wilco,4
+2006-10,Animal Collective,19
+2006-10,Aphex Twin,65
+2006-10,Boards Of Canada,7
+2006-10,Broken Social Scene,14
+2006-10,Can,7
+2006-10,Caribou,0
+2006-10,Clap Your Hands Say Yeah,18
+2006-10,Deerhoof,1
+2006-10,Dinosaur Jr.,13
+2006-10,Guided By Voices,5
+2006-10,Neutral Milk Hotel,3
+2006-10,Pavement,0
+2006-10,Pixies,17
+2006-10,Sonic Youth,12
+2006-10,Spoon,0
+2006-10,The New Pornographers,0
+2006-10,The Unicorns,25
+2006-10,The White Stripes,16
+2006-10,Why?,0
+2006-10,Wilco,26
+2006-11,Animal Collective,40
+2006-11,Aphex Twin,28
+2006-11,Boards Of Canada,15
+2006-11,Broken Social Scene,46
+2006-11,Can,7
+2006-11,Caribou,0
+2006-11,Clap Your Hands Say Yeah,0
+2006-11,Deerhoof,0
+2006-11,Dinosaur Jr.,60
+2006-11,Guided By Voices,43
+2006-11,Neutral Milk Hotel,23
+2006-11,Pavement,3
+2006-11,Pixies,45
+2006-11,Sonic Youth,22
+2006-11,Spoon,7
+2006-11,The New Pornographers,0
+2006-11,The Unicorns,7
+2006-11,The White Stripes,14
+2006-11,Why?,0
+2006-11,Wilco,15
+2006-12,Animal Collective,30
+2006-12,Aphex Twin,0
+2006-12,Boards Of Canada,15
+2006-12,Broken Social Scene,30
+2006-12,Can,0
+2006-12,Caribou,0
+2006-12,Clap Your Hands Say Yeah,0
+2006-12,Deerhoof,12
+2006-12,Dinosaur Jr.,5
+2006-12,Guided By Voices,0
+2006-12,Neutral Milk Hotel,0
+2006-12,Pavement,5
+2006-12,Pixies,5
+2006-12,Sonic Youth,11
+2006-12,Spoon,0
+2006-12,The New Pornographers,0
+2006-12,The Unicorns,0
+2006-12,The White Stripes,0
+2006-12,Why?,0
+2006-12,Wilco,8
+2007-01,Animal Collective,9
+2007-01,Aphex Twin,20
+2007-01,Boards Of Canada,2
+2007-01,Broken Social Scene,0
+2007-01,Can,0
+2007-01,Caribou,10
+2007-01,Clap Your Hands Say Yeah,10
+2007-01,Deerhoof,0
+2007-01,Dinosaur Jr.,0
+2007-01,Guided By Voices,0
+2007-01,Neutral Milk Hotel,1
+2007-01,Pavement,0
+2007-01,Pixies,0
+2007-01,Sonic Youth,0
+2007-01,Spoon,0
+2007-01,The New Pornographers,0
+2007-01,The Unicorns,0
+2007-01,The White Stripes,0
+2007-01,Why?,0
+2007-01,Wilco,1
+2007-02,Animal Collective,51
+2007-02,Aphex Twin,11
+2007-02,Boards Of Canada,16
+2007-02,Broken Social Scene,9
+2007-02,Can,0
+2007-02,Caribou,1
+2007-02,Clap Your Hands Say Yeah,1
+2007-02,Deerhoof,42
+2007-02,Dinosaur Jr.,1
+2007-02,Guided By Voices,3
+2007-02,Neutral Milk Hotel,0
+2007-02,Pavement,0
+2007-02,Pixies,1
+2007-02,Sonic Youth,0
+2007-02,Spoon,0
+2007-02,The New Pornographers,0
+2007-02,The Unicorns,10
+2007-02,The White Stripes,0
+2007-02,Why?,0
+2007-02,Wilco,1
+2007-03,Animal Collective,44
+2007-03,Aphex Twin,7
+2007-03,Boards Of Canada,0
+2007-03,Broken Social Scene,0
+2007-03,Can,7
+2007-03,Caribou,0
+2007-03,Clap Your Hands Say Yeah,4
+2007-03,Deerhoof,33
+2007-03,Dinosaur Jr.,1
+2007-03,Guided By Voices,0
+2007-03,Neutral Milk Hotel,0
+2007-03,Pavement,0
+2007-03,Pixies,0
+2007-03,Sonic Youth,3
+2007-03,Spoon,0
+2007-03,The New Pornographers,0
+2007-03,The Unicorns,3
+2007-03,The White Stripes,0
+2007-03,Why?,0
+2007-03,Wilco,0
+2007-04,Animal Collective,2
+2007-04,Aphex Twin,0
+2007-04,Boards Of Canada,0
+2007-04,Broken Social Scene,0
+2007-04,Can,11
+2007-04,Caribou,10
+2007-04,Clap Your Hands Say Yeah,0
+2007-04,Deerhoof,0
+2007-04,Dinosaur Jr.,0
+2007-04,Guided By Voices,21
+2007-04,Neutral Milk Hotel,0
+2007-04,Pavement,0
+2007-04,Pixies,0
+2007-04,Sonic Youth,7
+2007-04,Spoon,0
+2007-04,The New Pornographers,0
+2007-04,The Unicorns,0
+2007-04,The White Stripes,0
+2007-04,Why?,0
+2007-04,Wilco,0
+2007-05,Animal Collective,11
+2007-05,Aphex Twin,6
+2007-05,Boards Of Canada,0
+2007-05,Broken Social Scene,0
+2007-05,Can,0
+2007-05,Caribou,2
+2007-05,Clap Your Hands Say Yeah,0
+2007-05,Deerhoof,0
+2007-05,Dinosaur Jr.,2
+2007-05,Guided By Voices,0
+2007-05,Neutral Milk Hotel,7
+2007-05,Pavement,4
+2007-05,Pixies,0
+2007-05,Sonic Youth,0
+2007-05,Spoon,0
+2007-05,The New Pornographers,0
+2007-05,The Unicorns,0
+2007-05,The White Stripes,0
+2007-05,Why?,0
+2007-05,Wilco,0
+2007-06,Animal Collective,49
+2007-06,Aphex Twin,0
+2007-06,Boards Of Canada,0
+2007-06,Broken Social Scene,2
+2007-06,Can,0
+2007-06,Caribou,9
+2007-06,Clap Your Hands Say Yeah,0
+2007-06,Deerhoof,0
+2007-06,Dinosaur Jr.,0
+2007-06,Guided By Voices,0
+2007-06,Neutral Milk Hotel,0
+2007-06,Pavement,0
+2007-06,Pixies,0
+2007-06,Sonic Youth,0
+2007-06,Spoon,0
+2007-06,The New Pornographers,2
+2007-06,The Unicorns,0
+2007-06,The White Stripes,0
+2007-06,Why?,0
+2007-06,Wilco,0
+2007-07,Animal Collective,72
+2007-07,Aphex Twin,23
+2007-07,Boards Of Canada,1
+2007-07,Broken Social Scene,7
+2007-07,Can,0
+2007-07,Caribou,0
+2007-07,Clap Your Hands Say Yeah,0
+2007-07,Deerhoof,0
+2007-07,Dinosaur Jr.,11
+2007-07,Guided By Voices,1
+2007-07,Neutral Milk Hotel,1
+2007-07,Pavement,14
+2007-07,Pixies,0
+2007-07,Sonic Youth,0
+2007-07,Spoon,0
+2007-07,The New Pornographers,0
+2007-07,The Unicorns,2
+2007-07,The White Stripes,0
+2007-07,Why?,12
+2007-07,Wilco,1
+2007-08,Animal Collective,22
+2007-08,Aphex Twin,0
+2007-08,Boards Of Canada,0
+2007-08,Broken Social Scene,18
+2007-08,Can,10
+2007-08,Caribou,2
+2007-08,Clap Your Hands Say Yeah,3
+2007-08,Deerhoof,0
+2007-08,Dinosaur Jr.,0
+2007-08,Guided By Voices,0
+2007-08,Neutral Milk Hotel,1
+2007-08,Pavement,0
+2007-08,Pixies,2
+2007-08,Sonic Youth,25
+2007-08,Spoon,3
+2007-08,The New Pornographers,2
+2007-08,The Unicorns,2
+2007-08,The White Stripes,2
+2007-08,Why?,0
+2007-08,Wilco,1
+2007-09,Animal Collective,6
+2007-09,Aphex Twin,0
+2007-09,Boards Of Canada,0
+2007-09,Broken Social Scene,0
+2007-09,Can,0
+2007-09,Caribou,0
+2007-09,Clap Your Hands Say Yeah,0
+2007-09,Deerhoof,0
+2007-09,Dinosaur Jr.,0
+2007-09,Guided By Voices,0
+2007-09,Neutral Milk Hotel,0
+2007-09,Pavement,0
+2007-09,Pixies,0
+2007-09,Sonic Youth,0
+2007-09,Spoon,1
+2007-09,The New Pornographers,0
+2007-09,The Unicorns,0
+2007-09,The White Stripes,0
+2007-09,Why?,0
+2007-09,Wilco,0
+2007-10,Animal Collective,8
+2007-10,Aphex Twin,0
+2007-10,Boards Of Canada,0
+2007-10,Broken Social Scene,0
+2007-10,Can,0
+2007-10,Caribou,0
+2007-10,Clap Your Hands Say Yeah,0
+2007-10,Deerhoof,0
+2007-10,Dinosaur Jr.,0
+2007-10,Guided By Voices,0
+2007-10,Neutral Milk Hotel,0
+2007-10,Pavement,0
+2007-10,Pixies,0
+2007-10,Sonic Youth,0
+2007-10,Spoon,0
+2007-10,The New Pornographers,0
+2007-10,The Unicorns,0
+2007-10,The White Stripes,0
+2007-10,Why?,0
+2007-10,Wilco,0
+2007-11,Animal Collective,23
+2007-11,Aphex Twin,0
+2007-11,Boards Of Canada,0
+2007-11,Broken Social Scene,0
+2007-11,Can,0
+2007-11,Caribou,0
+2007-11,Clap Your Hands Say Yeah,0
+2007-11,Deerhoof,0
+2007-11,Dinosaur Jr.,11
+2007-11,Guided By Voices,0
+2007-11,Neutral Milk Hotel,0
+2007-11,Pavement,0
+2007-11,Pixies,0
+2007-11,Sonic Youth,8
+2007-11,Spoon,10
+2007-11,The New Pornographers,0
+2007-11,The Unicorns,0
+2007-11,The White Stripes,0
+2007-11,Why?,0
+2007-11,Wilco,1
+2007-12,Animal Collective,10
+2007-12,Aphex Twin,1
+2007-12,Boards Of Canada,18
+2007-12,Broken Social Scene,2
+2007-12,Can,8
+2007-12,Caribou,1
+2007-12,Clap Your Hands Say Yeah,0
+2007-12,Deerhoof,0
+2007-12,Dinosaur Jr.,1
+2007-12,Guided By Voices,2
+2007-12,Neutral Milk Hotel,4
+2007-12,Pavement,0
+2007-12,Pixies,0
+2007-12,Sonic Youth,0
+2007-12,Spoon,0
+2007-12,The New Pornographers,2
+2007-12,The Unicorns,0
+2007-12,The White Stripes,4
+2007-12,Why?,1
+2007-12,Wilco,0
+2008-01,Animal Collective,2
+2008-01,Aphex Twin,7
+2008-01,Boards Of Canada,0
+2008-01,Broken Social Scene,0
+2008-01,Can,0
+2008-01,Caribou,10
+2008-01,Clap Your Hands Say Yeah,0
+2008-01,Deerhoof,0
+2008-01,Dinosaur Jr.,11
+2008-01,Guided By Voices,0
+2008-01,Neutral Milk Hotel,0
+2008-01,Pavement,6
+2008-01,Pixies,0
+2008-01,Sonic Youth,0
+2008-01,Spoon,1
+2008-01,The New Pornographers,1
+2008-01,The Unicorns,0
+2008-01,The White Stripes,0
+2008-01,Why?,15
+2008-01,Wilco,1
+2008-02,Animal Collective,6
+2008-02,Aphex Twin,0
+2008-02,Boards Of Canada,0
+2008-02,Broken Social Scene,0
+2008-02,Can,4
+2008-02,Caribou,0
+2008-02,Clap Your Hands Say Yeah,0
+2008-02,Deerhoof,1
+2008-02,Dinosaur Jr.,1
+2008-02,Guided By Voices,0
+2008-02,Neutral Milk Hotel,0
+2008-02,Pavement,0
+2008-02,Pixies,0
+2008-02,Sonic Youth,0
+2008-02,Spoon,1
+2008-02,The New Pornographers,26
+2008-02,The Unicorns,0
+2008-02,The White Stripes,0
+2008-02,Why?,14
+2008-02,Wilco,3
+2008-03,Animal Collective,13
+2008-03,Aphex Twin,0
+2008-03,Boards Of Canada,0
+2008-03,Broken Social Scene,11
+2008-03,Can,0
+2008-03,Caribou,20
+2008-03,Clap Your Hands Say Yeah,0
+2008-03,Deerhoof,1
+2008-03,Dinosaur Jr.,0
+2008-03,Guided By Voices,0
+2008-03,Neutral Milk Hotel,0
+2008-03,Pavement,8
+2008-03,Pixies,1
+2008-03,Sonic Youth,0
+2008-03,Spoon,11
+2008-03,The New Pornographers,4
+2008-03,The Unicorns,0
+2008-03,The White Stripes,3
+2008-03,Why?,31
+2008-03,Wilco,0
+2008-04,Animal Collective,0
+2008-04,Aphex Twin,0
+2008-04,Boards Of Canada,0
+2008-04,Broken Social Scene,0
+2008-04,Can,0
+2008-04,Caribou,1
+2008-04,Clap Your Hands Say Yeah,0
+2008-04,Deerhoof,0
+2008-04,Dinosaur Jr.,0
+2008-04,Guided By Voices,0
+2008-04,Neutral Milk Hotel,0
+2008-04,Pavement,0
+2008-04,Pixies,0
+2008-04,Sonic Youth,0
+2008-04,Spoon,0
+2008-04,The New Pornographers,1
+2008-04,The Unicorns,0
+2008-04,The White Stripes,0
+2008-04,Why?,2
+2008-04,Wilco,0
+2008-05,Animal Collective,15
+2008-05,Aphex Twin,0
+2008-05,Boards Of Canada,0
+2008-05,Broken Social Scene,0
+2008-05,Can,0
+2008-05,Caribou,0
+2008-05,Clap Your Hands Say Yeah,0
+2008-05,Deerhoof,0
+2008-05,Dinosaur Jr.,6
+2008-05,Guided By Voices,0
+2008-05,Neutral Milk Hotel,0
+2008-05,Pavement,0
+2008-05,Pixies,0
+2008-05,Sonic Youth,0
+2008-05,Spoon,0
+2008-05,The New Pornographers,6
+2008-05,The Unicorns,0
+2008-05,The White Stripes,0
+2008-05,Why?,24
+2008-05,Wilco,0
+2008-06,Animal Collective,5
+2008-06,Aphex Twin,0
+2008-06,Boards Of Canada,2
+2008-06,Broken Social Scene,1
+2008-06,Can,1
+2008-06,Caribou,0
+2008-06,Clap Your Hands Say Yeah,0
+2008-06,Deerhoof,2
+2008-06,Dinosaur Jr.,0
+2008-06,Guided By Voices,0
+2008-06,Neutral Milk Hotel,0
+2008-06,Pavement,0
+2008-06,Pixies,1
+2008-06,Sonic Youth,4
+2008-06,Spoon,1
+2008-06,The New Pornographers,2
+2008-06,The Unicorns,0
+2008-06,The White Stripes,2
+2008-06,Why?,1
+2008-06,Wilco,1
+2008-07,Animal Collective,15
+2008-07,Aphex Twin,1
+2008-07,Boards Of Canada,1
+2008-07,Broken Social Scene,0
+2008-07,Can,2
+2008-07,Caribou,0
+2008-07,Clap Your Hands Say Yeah,1
+2008-07,Deerhoof,1
+2008-07,Dinosaur Jr.,1
+2008-07,Guided By Voices,0
+2008-07,Neutral Milk Hotel,0
+2008-07,Pavement,0
+2008-07,Pixies,0
+2008-07,Sonic Youth,1
+2008-07,Spoon,1
+2008-07,The New Pornographers,0
+2008-07,The Unicorns,0
+2008-07,The White Stripes,1
+2008-07,Why?,14
+2008-07,Wilco,0
+2008-08,Animal Collective,0
+2008-08,Aphex Twin,15
+2008-08,Boards Of Canada,0
+2008-08,Broken Social Scene,0
+2008-08,Can,0
+2008-08,Caribou,0
+2008-08,Clap Your Hands Say Yeah,0
+2008-08,Deerhoof,10
+2008-08,Dinosaur Jr.,1
+2008-08,Guided By Voices,0
+2008-08,Neutral Milk Hotel,0
+2008-08,Pavement,0
+2008-08,Pixies,0
+2008-08,Sonic Youth,0
+2008-08,Spoon,1
+2008-08,The New Pornographers,11
+2008-08,The Unicorns,0
+2008-08,The White Stripes,0
+2008-08,Why?,4
+2008-08,Wilco,0
+2008-09,Animal Collective,0
+2008-09,Aphex Twin,2
+2008-09,Boards Of Canada,0
+2008-09,Broken Social Scene,0
+2008-09,Can,0
+2008-09,Caribou,0
+2008-09,Clap Your Hands Say Yeah,0
+2008-09,Deerhoof,0
+2008-09,Dinosaur Jr.,0
+2008-09,Guided By Voices,0
+2008-09,Neutral Milk Hotel,0
+2008-09,Pavement,0
+2008-09,Pixies,0
+2008-09,Sonic Youth,0
+2008-09,Spoon,0
+2008-09,The New Pornographers,0
+2008-09,The Unicorns,0
+2008-09,The White Stripes,0
+2008-09,Why?,30
+2008-09,Wilco,0
+2008-10,Animal Collective,4
+2008-10,Aphex Twin,4
+2008-10,Boards Of Canada,7
+2008-10,Broken Social Scene,2
+2008-10,Can,26
+2008-10,Caribou,1
+2008-10,Clap Your Hands Say Yeah,0
+2008-10,Deerhoof,0
+2008-10,Dinosaur Jr.,0
+2008-10,Guided By Voices,0
+2008-10,Neutral Milk Hotel,0
+2008-10,Pavement,0
+2008-10,Pixies,2
+2008-10,Sonic Youth,2
+2008-10,Spoon,0
+2008-10,The New Pornographers,0
+2008-10,The Unicorns,0
+2008-10,The White Stripes,0
+2008-10,Why?,15
+2008-10,Wilco,2
+2008-11,Animal Collective,1
+2008-11,Aphex Twin,2
+2008-11,Boards Of Canada,1
+2008-11,Broken Social Scene,0
+2008-11,Can,1
+2008-11,Caribou,1
+2008-11,Clap Your Hands Say Yeah,0
+2008-11,Deerhoof,2
+2008-11,Dinosaur Jr.,0
+2008-11,Guided By Voices,0
+2008-11,Neutral Milk Hotel,0
+2008-11,Pavement,0
+2008-11,Pixies,0
+2008-11,Sonic Youth,0
+2008-11,Spoon,0
+2008-11,The New Pornographers,0
+2008-11,The Unicorns,9
+2008-11,The White Stripes,0
+2008-11,Why?,2
+2008-11,Wilco,0
+2008-12,Animal Collective,36
+2008-12,Aphex Twin,0
+2008-12,Boards Of Canada,0
+2008-12,Broken Social Scene,8
+2008-12,Can,22
+2008-12,Caribou,1
+2008-12,Clap Your Hands Say Yeah,2
+2008-12,Deerhoof,6
+2008-12,Dinosaur Jr.,2
+2008-12,Guided By Voices,15
+2008-12,Neutral Milk Hotel,4
+2008-12,Pavement,12
+2008-12,Pixies,0
+2008-12,Sonic Youth,1
+2008-12,Spoon,0
+2008-12,The New Pornographers,1
+2008-12,The Unicorns,0
+2008-12,The White Stripes,0
+2008-12,Why?,1
+2008-12,Wilco,1
+2009-01,Animal Collective,49
+2009-01,Aphex Twin,36
+2009-01,Boards Of Canada,27
+2009-01,Broken Social Scene,14
+2009-01,Can,28
+2009-01,Caribou,19
+2009-01,Clap Your Hands Say Yeah,17
+2009-01,Deerhoof,3
+2009-01,Dinosaur Jr.,38
+2009-01,Guided By Voices,36
+2009-01,Neutral Milk Hotel,24
+2009-01,Pavement,17
+2009-01,Pixies,37
+2009-01,Sonic Youth,15
+2009-01,Spoon,2
+2009-01,The New Pornographers,3
+2009-01,The Unicorns,3
+2009-01,The White Stripes,2
+2009-01,Why?,28
+2009-01,Wilco,7
+2009-02,Animal Collective,64
+2009-02,Aphex Twin,27
+2009-02,Boards Of Canada,1
+2009-02,Broken Social Scene,14
+2009-02,Can,0
+2009-02,Caribou,4
+2009-02,Clap Your Hands Say Yeah,2
+2009-02,Deerhoof,2
+2009-02,Dinosaur Jr.,0
+2009-02,Guided By Voices,0
+2009-02,Neutral Milk Hotel,5
+2009-02,Pavement,5
+2009-02,Pixies,2
+2009-02,Sonic Youth,1
+2009-02,Spoon,0
+2009-02,The New Pornographers,0
+2009-02,The Unicorns,1
+2009-02,The White Stripes,1
+2009-02,Why?,3
+2009-02,Wilco,2
+2009-03,Animal Collective,38
+2009-03,Aphex Twin,0
+2009-03,Boards Of Canada,1
+2009-03,Broken Social Scene,3
+2009-03,Can,11
+2009-03,Caribou,18
+2009-03,Clap Your Hands Say Yeah,0
+2009-03,Deerhoof,2
+2009-03,Dinosaur Jr.,0
+2009-03,Guided By Voices,1
+2009-03,Neutral Milk Hotel,5
+2009-03,Pavement,3
+2009-03,Pixies,1
+2009-03,Sonic Youth,0
+2009-03,Spoon,0
+2009-03,The New Pornographers,0
+2009-03,The Unicorns,1
+2009-03,The White Stripes,4
+2009-03,Why?,6
+2009-03,Wilco,1
+2009-04,Animal Collective,52
+2009-04,Aphex Twin,52
+2009-04,Boards Of Canada,0
+2009-04,Broken Social Scene,30
+2009-04,Can,0
+2009-04,Caribou,0
+2009-04,Clap Your Hands Say Yeah,0
+2009-04,Deerhoof,0
+2009-04,Dinosaur Jr.,0
+2009-04,Guided By Voices,0
+2009-04,Neutral Milk Hotel,0
+2009-04,Pavement,2
+2009-04,Pixies,1
+2009-04,Sonic Youth,24
+2009-04,Spoon,0
+2009-04,The New Pornographers,0
+2009-04,The Unicorns,0
+2009-04,The White Stripes,2
+2009-04,Why?,13
+2009-04,Wilco,0

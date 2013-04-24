@@ -1,0 +1,561 @@
+month,artist,plays
+2005-12,Ajattara,2
+2005-12,Amon Amarth,2
+2005-12,Amorphis,3
+2005-12,Apocalyptica,2
+2005-12,Azaghal,0
+2005-12,Carpathian Forest,0
+2005-12,Catamenia,0
+2005-12,Celtic Frost,0
+2005-12,Darkthrone,2
+2005-12,Deicide,0
+2005-12,Dimmu Borgir,3
+2005-12,Emperor,3
+2005-12,Ensiferum,0
+2005-12,Gorgoroth,2
+2005-12,In Flames,4
+2005-12,Kalmah,0
+2005-12,Marduk,0
+2005-12,Naglfar,0
+2005-12,Pantera,2
+2005-12,Sentenced,1
+2006-01,Ajattara,0
+2006-01,Amon Amarth,0
+2006-01,Amorphis,0
+2006-01,Apocalyptica,0
+2006-01,Azaghal,0
+2006-01,Carpathian Forest,1
+2006-01,Catamenia,0
+2006-01,Celtic Frost,0
+2006-01,Darkthrone,0
+2006-01,Deicide,0
+2006-01,Dimmu Borgir,1
+2006-01,Emperor,0
+2006-01,Ensiferum,0
+2006-01,Gorgoroth,0
+2006-01,In Flames,0
+2006-01,Kalmah,0
+2006-01,Marduk,1
+2006-01,Naglfar,0
+2006-01,Pantera,1
+2006-01,Sentenced,0
+2006-02,Ajattara,2
+2006-02,Amon Amarth,9
+2006-02,Amorphis,2
+2006-02,Apocalyptica,1
+2006-02,Azaghal,0
+2006-02,Carpathian Forest,4
+2006-02,Catamenia,0
+2006-02,Celtic Frost,1
+2006-02,Darkthrone,0
+2006-02,Deicide,10
+2006-02,Dimmu Borgir,3
+2006-02,Emperor,7
+2006-02,Ensiferum,1
+2006-02,Gorgoroth,6
+2006-02,In Flames,0
+2006-02,Kalmah,2
+2006-02,Marduk,6
+2006-02,Naglfar,7
+2006-02,Pantera,2
+2006-02,Sentenced,0
+2006-03,Ajattara,1
+2006-03,Amon Amarth,1
+2006-03,Amorphis,0
+2006-03,Apocalyptica,0
+2006-03,Azaghal,0
+2006-03,Carpathian Forest,1
+2006-03,Catamenia,0
+2006-03,Celtic Frost,0
+2006-03,Darkthrone,1
+2006-03,Deicide,1
+2006-03,Dimmu Borgir,0
+2006-03,Emperor,1
+2006-03,Ensiferum,0
+2006-03,Gorgoroth,0
+2006-03,In Flames,0
+2006-03,Kalmah,0
+2006-03,Marduk,2
+2006-03,Naglfar,1
+2006-03,Pantera,0
+2006-03,Sentenced,0
+2006-04,Ajattara,3
+2006-04,Amon Amarth,0
+2006-04,Amorphis,0
+2006-04,Apocalyptica,0
+2006-04,Azaghal,0
+2006-04,Carpathian Forest,3
+2006-04,Catamenia,0
+2006-04,Celtic Frost,0
+2006-04,Darkthrone,1
+2006-04,Deicide,3
+2006-04,Dimmu Borgir,1
+2006-04,Emperor,2
+2006-04,Ensiferum,0
+2006-04,Gorgoroth,1
+2006-04,In Flames,0
+2006-04,Kalmah,0
+2006-04,Marduk,6
+2006-04,Naglfar,3
+2006-04,Pantera,0
+2006-04,Sentenced,0
+2006-05,Ajattara,0
+2006-05,Amon Amarth,0
+2006-05,Amorphis,0
+2006-05,Apocalyptica,0
+2006-05,Azaghal,0
+2006-05,Carpathian Forest,0
+2006-05,Catamenia,0
+2006-05,Celtic Frost,0
+2006-05,Darkthrone,1
+2006-05,Deicide,0
+2006-05,Dimmu Borgir,0
+2006-05,Emperor,0
+2006-05,Ensiferum,0
+2006-05,Gorgoroth,1
+2006-05,In Flames,0
+2006-05,Kalmah,0
+2006-05,Marduk,0
+2006-05,Naglfar,0
+2006-05,Pantera,0
+2006-05,Sentenced,0
+2006-06,Ajattara,0
+2006-06,Amon Amarth,0
+2006-06,Amorphis,0
+2006-06,Apocalyptica,0
+2006-06,Azaghal,0
+2006-06,Carpathian Forest,0
+2006-06,Catamenia,0
+2006-06,Celtic Frost,0
+2006-06,Darkthrone,0
+2006-06,Deicide,0
+2006-06,Dimmu Borgir,0
+2006-06,Emperor,0
+2006-06,Ensiferum,0
+2006-06,Gorgoroth,1
+2006-06,In Flames,0
+2006-06,Kalmah,0
+2006-06,Marduk,1
+2006-06,Naglfar,0
+2006-06,Pantera,0
+2006-06,Sentenced,0
+2006-07,Ajattara,0
+2006-07,Amon Amarth,1
+2006-07,Amorphis,1
+2006-07,Apocalyptica,0
+2006-07,Azaghal,0
+2006-07,Carpathian Forest,1
+2006-07,Catamenia,0
+2006-07,Celtic Frost,1
+2006-07,Darkthrone,0
+2006-07,Deicide,0
+2006-07,Dimmu Borgir,0
+2006-07,Emperor,1
+2006-07,Ensiferum,0
+2006-07,Gorgoroth,0
+2006-07,In Flames,0
+2006-07,Kalmah,0
+2006-07,Marduk,1
+2006-07,Naglfar,0
+2006-07,Pantera,0
+2006-07,Sentenced,0
+2006-08,Ajattara,1
+2006-08,Amon Amarth,1
+2006-08,Amorphis,0
+2006-08,Apocalyptica,0
+2006-08,Azaghal,0
+2006-08,Carpathian Forest,1
+2006-08,Catamenia,0
+2006-08,Celtic Frost,0
+2006-08,Darkthrone,0
+2006-08,Deicide,1
+2006-08,Dimmu Borgir,0
+2006-08,Emperor,2
+2006-08,Ensiferum,0
+2006-08,Gorgoroth,2
+2006-08,In Flames,0
+2006-08,Kalmah,0
+2006-08,Marduk,2
+2006-08,Naglfar,1
+2006-08,Pantera,0
+2006-08,Sentenced,1
+2006-09,Ajattara,1
+2006-09,Amon Amarth,2
+2006-09,Amorphis,0
+2006-09,Apocalyptica,4
+2006-09,Azaghal,0
+2006-09,Carpathian Forest,6
+2006-09,Catamenia,0
+2006-09,Celtic Frost,1
+2006-09,Darkthrone,3
+2006-09,Deicide,3
+2006-09,Dimmu Borgir,2
+2006-09,Emperor,6
+2006-09,Ensiferum,2
+2006-09,Gorgoroth,3
+2006-09,In Flames,3
+2006-09,Kalmah,8
+2006-09,Marduk,2
+2006-09,Naglfar,3
+2006-09,Pantera,2
+2006-09,Sentenced,1
+2006-10,Ajattara,14
+2006-10,Amon Amarth,2
+2006-10,Amorphis,1
+2006-10,Apocalyptica,1
+2006-10,Azaghal,0
+2006-10,Carpathian Forest,0
+2006-10,Catamenia,1
+2006-10,Celtic Frost,14
+2006-10,Darkthrone,0
+2006-10,Deicide,3
+2006-10,Dimmu Borgir,1
+2006-10,Emperor,0
+2006-10,Ensiferum,0
+2006-10,Gorgoroth,3
+2006-10,In Flames,0
+2006-10,Kalmah,5
+2006-10,Marduk,13
+2006-10,Naglfar,0
+2006-10,Pantera,0
+2006-10,Sentenced,19
+2006-11,Ajattara,90
+2006-11,Amon Amarth,20
+2006-11,Amorphis,3
+2006-11,Apocalyptica,0
+2006-11,Azaghal,8
+2006-11,Carpathian Forest,23
+2006-11,Catamenia,21
+2006-11,Celtic Frost,10
+2006-11,Darkthrone,0
+2006-11,Deicide,18
+2006-11,Dimmu Borgir,2
+2006-11,Emperor,0
+2006-11,Ensiferum,5
+2006-11,Gorgoroth,15
+2006-11,In Flames,20
+2006-11,Kalmah,17
+2006-11,Marduk,12
+2006-11,Naglfar,0
+2006-11,Pantera,0
+2006-11,Sentenced,2
+2006-12,Ajattara,15
+2006-12,Amon Amarth,5
+2006-12,Amorphis,0
+2006-12,Apocalyptica,0
+2006-12,Azaghal,0
+2006-12,Carpathian Forest,28
+2006-12,Catamenia,38
+2006-12,Celtic Frost,42
+2006-12,Darkthrone,3
+2006-12,Deicide,25
+2006-12,Dimmu Borgir,19
+2006-12,Emperor,3
+2006-12,Ensiferum,53
+2006-12,Gorgoroth,0
+2006-12,In Flames,14
+2006-12,Kalmah,3
+2006-12,Marduk,8
+2006-12,Naglfar,0
+2006-12,Pantera,0
+2006-12,Sentenced,0
+2007-01,Ajattara,9
+2007-01,Amon Amarth,37
+2007-01,Amorphis,1
+2007-01,Apocalyptica,1
+2007-01,Azaghal,4
+2007-01,Carpathian Forest,11
+2007-01,Catamenia,241
+2007-01,Celtic Frost,69
+2007-01,Darkthrone,9
+2007-01,Deicide,0
+2007-01,Dimmu Borgir,64
+2007-01,Emperor,0
+2007-01,Ensiferum,7
+2007-01,Gorgoroth,1
+2007-01,In Flames,0
+2007-01,Kalmah,25
+2007-01,Marduk,17
+2007-01,Naglfar,0
+2007-01,Pantera,0
+2007-01,Sentenced,0
+2007-02,Ajattara,0
+2007-02,Amon Amarth,7
+2007-02,Amorphis,0
+2007-02,Apocalyptica,0
+2007-02,Azaghal,0
+2007-02,Carpathian Forest,0
+2007-02,Catamenia,14
+2007-02,Celtic Frost,10
+2007-02,Darkthrone,9
+2007-02,Deicide,4
+2007-02,Dimmu Borgir,22
+2007-02,Emperor,0
+2007-02,Ensiferum,0
+2007-02,Gorgoroth,0
+2007-02,In Flames,10
+2007-02,Kalmah,26
+2007-02,Marduk,9
+2007-02,Naglfar,0
+2007-02,Pantera,0
+2007-02,Sentenced,12
+2007-03,Ajattara,0
+2007-03,Amon Amarth,12
+2007-03,Amorphis,1
+2007-03,Apocalyptica,0
+2007-03,Azaghal,5
+2007-03,Carpathian Forest,0
+2007-03,Catamenia,56
+2007-03,Celtic Frost,0
+2007-03,Darkthrone,14
+2007-03,Deicide,1
+2007-03,Dimmu Borgir,12
+2007-03,Emperor,5
+2007-03,Ensiferum,17
+2007-03,Gorgoroth,0
+2007-03,In Flames,0
+2007-03,Kalmah,2
+2007-03,Marduk,4
+2007-03,Naglfar,6
+2007-03,Pantera,29
+2007-03,Sentenced,2
+2007-04,Ajattara,30
+2007-04,Amon Amarth,0
+2007-04,Amorphis,0
+2007-04,Apocalyptica,0
+2007-04,Azaghal,9
+2007-04,Carpathian Forest,9
+2007-04,Catamenia,24
+2007-04,Celtic Frost,2
+2007-04,Darkthrone,0
+2007-04,Deicide,0
+2007-04,Dimmu Borgir,6
+2007-04,Emperor,0
+2007-04,Ensiferum,51
+2007-04,Gorgoroth,0
+2007-04,In Flames,112
+2007-04,Kalmah,3
+2007-04,Marduk,13
+2007-04,Naglfar,0
+2007-04,Pantera,25
+2007-04,Sentenced,20
+2007-05,Ajattara,11
+2007-05,Amon Amarth,0
+2007-05,Amorphis,11
+2007-05,Apocalyptica,0
+2007-05,Azaghal,6
+2007-05,Carpathian Forest,6
+2007-05,Catamenia,54
+2007-05,Celtic Frost,3
+2007-05,Darkthrone,0
+2007-05,Deicide,0
+2007-05,Dimmu Borgir,3
+2007-05,Emperor,24
+2007-05,Ensiferum,69
+2007-05,Gorgoroth,0
+2007-05,In Flames,4
+2007-05,Kalmah,9
+2007-05,Marduk,0
+2007-05,Naglfar,0
+2007-05,Pantera,76
+2007-05,Sentenced,1
+2007-06,Ajattara,0
+2007-06,Amon Amarth,0
+2007-06,Amorphis,1
+2007-06,Apocalyptica,0
+2007-06,Azaghal,1
+2007-06,Carpathian Forest,29
+2007-06,Catamenia,0
+2007-06,Celtic Frost,2
+2007-06,Darkthrone,2
+2007-06,Deicide,22
+2007-06,Dimmu Borgir,4
+2007-06,Emperor,6
+2007-06,Ensiferum,12
+2007-06,Gorgoroth,0
+2007-06,In Flames,0
+2007-06,Kalmah,0
+2007-06,Marduk,0
+2007-06,Naglfar,0
+2007-06,Pantera,55
+2007-06,Sentenced,0
+2007-07,Ajattara,0
+2007-07,Amon Amarth,3
+2007-07,Amorphis,4
+2007-07,Apocalyptica,2
+2007-07,Azaghal,8
+2007-07,Carpathian Forest,0
+2007-07,Catamenia,0
+2007-07,Celtic Frost,0
+2007-07,Darkthrone,0
+2007-07,Deicide,0
+2007-07,Dimmu Borgir,0
+2007-07,Emperor,7
+2007-07,Ensiferum,0
+2007-07,Gorgoroth,0
+2007-07,In Flames,1
+2007-07,Kalmah,0
+2007-07,Marduk,3
+2007-07,Naglfar,0
+2007-07,Pantera,0
+2007-07,Sentenced,2
+2007-08,Ajattara,2
+2007-08,Amon Amarth,0
+2007-08,Amorphis,0
+2007-08,Apocalyptica,104
+2007-08,Azaghal,43
+2007-08,Carpathian Forest,32
+2007-08,Catamenia,5
+2007-08,Celtic Frost,17
+2007-08,Darkthrone,26
+2007-08,Deicide,12
+2007-08,Dimmu Borgir,0
+2007-08,Emperor,9
+2007-08,Ensiferum,0
+2007-08,Gorgoroth,11
+2007-08,In Flames,1
+2007-08,Kalmah,0
+2007-08,Marduk,4
+2007-08,Naglfar,3
+2007-08,Pantera,15
+2007-08,Sentenced,1
+2007-09,Ajattara,0
+2007-09,Amon Amarth,0
+2007-09,Amorphis,1
+2007-09,Apocalyptica,34
+2007-09,Azaghal,102
+2007-09,Carpathian Forest,25
+2007-09,Catamenia,1
+2007-09,Celtic Frost,0
+2007-09,Darkthrone,4
+2007-09,Deicide,0
+2007-09,Dimmu Borgir,0
+2007-09,Emperor,1
+2007-09,Ensiferum,16
+2007-09,Gorgoroth,0
+2007-09,In Flames,3
+2007-09,Kalmah,2
+2007-09,Marduk,14
+2007-09,Naglfar,13
+2007-09,Pantera,19
+2007-09,Sentenced,5
+2007-10,Ajattara,41
+2007-10,Amon Amarth,2
+2007-10,Amorphis,7
+2007-10,Apocalyptica,32
+2007-10,Azaghal,24
+2007-10,Carpathian Forest,12
+2007-10,Catamenia,6
+2007-10,Celtic Frost,13
+2007-10,Darkthrone,0
+2007-10,Deicide,1
+2007-10,Dimmu Borgir,0
+2007-10,Emperor,10
+2007-10,Ensiferum,2
+2007-10,Gorgoroth,2
+2007-10,In Flames,0
+2007-10,Kalmah,1
+2007-10,Marduk,2
+2007-10,Naglfar,13
+2007-10,Pantera,5
+2007-10,Sentenced,0
+2007-11,Ajattara,1
+2007-11,Amon Amarth,0
+2007-11,Amorphis,2
+2007-11,Apocalyptica,11
+2007-11,Azaghal,10
+2007-11,Carpathian Forest,0
+2007-11,Catamenia,0
+2007-11,Celtic Frost,0
+2007-11,Darkthrone,0
+2007-11,Deicide,0
+2007-11,Dimmu Borgir,1
+2007-11,Emperor,0
+2007-11,Ensiferum,6
+2007-11,Gorgoroth,0
+2007-11,In Flames,11
+2007-11,Kalmah,0
+2007-11,Marduk,0
+2007-11,Naglfar,2
+2007-11,Pantera,0
+2007-11,Sentenced,15
+2007-12,Ajattara,2
+2007-12,Amon Amarth,0
+2007-12,Amorphis,0
+2007-12,Apocalyptica,2
+2007-12,Azaghal,2
+2007-12,Carpathian Forest,6
+2007-12,Catamenia,0
+2007-12,Celtic Frost,0
+2007-12,Darkthrone,0
+2007-12,Deicide,0
+2007-12,Dimmu Borgir,0
+2007-12,Emperor,0
+2007-12,Ensiferum,4
+2007-12,Gorgoroth,0
+2007-12,In Flames,1
+2007-12,Kalmah,0
+2007-12,Marduk,0
+2007-12,Naglfar,2
+2007-12,Pantera,0
+2007-12,Sentenced,0
+2008-01,Ajattara,0
+2008-01,Amon Amarth,0
+2008-01,Amorphis,5
+2008-01,Apocalyptica,0
+2008-01,Azaghal,3
+2008-01,Carpathian Forest,0
+2008-01,Catamenia,0
+2008-01,Celtic Frost,0
+2008-01,Darkthrone,0
+2008-01,Deicide,0
+2008-01,Dimmu Borgir,0
+2008-01,Emperor,0
+2008-01,Ensiferum,0
+2008-01,Gorgoroth,0
+2008-01,In Flames,0
+2008-01,Kalmah,0
+2008-01,Marduk,0
+2008-01,Naglfar,0
+2008-01,Pantera,0
+2008-01,Sentenced,0
+2008-02,Ajattara,0
+2008-02,Amon Amarth,0
+2008-02,Amorphis,0
+2008-02,Apocalyptica,0
+2008-02,Azaghal,8
+2008-02,Carpathian Forest,0
+2008-02,Catamenia,3
+2008-02,Celtic Frost,8
+2008-02,Darkthrone,0
+2008-02,Deicide,0
+2008-02,Dimmu Borgir,1
+2008-02,Emperor,0
+2008-02,Ensiferum,1
+2008-02,Gorgoroth,0
+2008-02,In Flames,0
+2008-02,Kalmah,0
+2008-02,Marduk,0
+2008-02,Naglfar,1
+2008-02,Pantera,1
+2008-02,Sentenced,4
+2008-03,Ajattara,0
+2008-03,Amon Amarth,0
+2008-03,Amorphis,7
+2008-03,Apocalyptica,5
+2008-03,Azaghal,7
+2008-03,Carpathian Forest,0
+2008-03,Catamenia,0
+2008-03,Celtic Frost,0
+2008-03,Darkthrone,0
+2008-03,Deicide,0
+2008-03,Dimmu Borgir,7
+2008-03,Emperor,0
+2008-03,Ensiferum,0
+2008-03,Gorgoroth,0
+2008-03,In Flames,4
+2008-03,Kalmah,0
+2008-03,Marduk,0
+2008-03,Naglfar,0
+2008-03,Pantera,1
+2008-03,Sentenced,1

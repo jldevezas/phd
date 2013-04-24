@@ -1,0 +1,341 @@
+month,artist,plays
+2007-07,*Nsync,14
+2007-07,2Gether,7
+2007-07,Aerosmith,14
+2007-07,Al Green,11
+2007-07,Alice In Chains,8
+2007-07,Backstreet Boys,6
+2007-07,Bad Religion,2
+2007-07,Big Brother & The Holding Company,7
+2007-07,David Bowie,8
+2007-07,Dr. Dre,84
+2007-07,Him,71
+2007-07,Mindless Self Indulgence,21
+2007-07,Nirvana,23
+2007-07,Pink Floyd,459
+2007-07,Syd Barrett,379
+2007-07,The 69 Eyes,19
+2007-07,The Beatles,341
+2007-07,The Jimi Hendrix Experience,110
+2007-07,The Mamas & The Papas,11
+2007-07,Three 6 Mafia,54
+2007-08,*Nsync,20
+2007-08,2Gether,16
+2007-08,Aerosmith,17
+2007-08,Al Green,8
+2007-08,Alice In Chains,4
+2007-08,Backstreet Boys,12
+2007-08,Bad Religion,4
+2007-08,Big Brother & The Holding Company,7
+2007-08,David Bowie,19
+2007-08,Dr. Dre,15
+2007-08,Him,29
+2007-08,Mindless Self Indulgence,65
+2007-08,Nirvana,60
+2007-08,Pink Floyd,219
+2007-08,Syd Barrett,347
+2007-08,The 69 Eyes,52
+2007-08,The Beatles,54
+2007-08,The Jimi Hendrix Experience,37
+2007-08,The Mamas & The Papas,22
+2007-08,Three 6 Mafia,47
+2007-09,*Nsync,5
+2007-09,2Gether,2
+2007-09,Aerosmith,4
+2007-09,Al Green,7
+2007-09,Alice In Chains,4
+2007-09,Backstreet Boys,8
+2007-09,Bad Religion,6
+2007-09,Big Brother & The Holding Company,13
+2007-09,David Bowie,6
+2007-09,Dr. Dre,10
+2007-09,Him,3
+2007-09,Mindless Self Indulgence,8
+2007-09,Nirvana,16
+2007-09,Pink Floyd,57
+2007-09,Syd Barrett,20
+2007-09,The 69 Eyes,13
+2007-09,The Beatles,37
+2007-09,The Jimi Hendrix Experience,20
+2007-09,The Mamas & The Papas,7
+2007-09,Three 6 Mafia,19
+2007-10,*Nsync,4
+2007-10,2Gether,1
+2007-10,Aerosmith,1
+2007-10,Al Green,4
+2007-10,Alice In Chains,1
+2007-10,Backstreet Boys,1
+2007-10,Bad Religion,0
+2007-10,Big Brother & The Holding Company,4
+2007-10,David Bowie,3
+2007-10,Dr. Dre,2
+2007-10,Him,3
+2007-10,Mindless Self Indulgence,4
+2007-10,Nirvana,4
+2007-10,Pink Floyd,18
+2007-10,Syd Barrett,14
+2007-10,The 69 Eyes,11
+2007-10,The Beatles,19
+2007-10,The Jimi Hendrix Experience,2
+2007-10,The Mamas & The Papas,4
+2007-10,Three 6 Mafia,5
+2007-11,*Nsync,7
+2007-11,2Gether,4
+2007-11,Aerosmith,2
+2007-11,Al Green,5
+2007-11,Alice In Chains,3
+2007-11,Backstreet Boys,4
+2007-11,Bad Religion,6
+2007-11,Big Brother & The Holding Company,2
+2007-11,David Bowie,6
+2007-11,Dr. Dre,2
+2007-11,Him,13
+2007-11,Mindless Self Indulgence,8
+2007-11,Nirvana,10
+2007-11,Pink Floyd,7
+2007-11,Syd Barrett,38
+2007-11,The 69 Eyes,11
+2007-11,The Beatles,27
+2007-11,The Jimi Hendrix Experience,6
+2007-11,The Mamas & The Papas,5
+2007-11,Three 6 Mafia,9
+2007-12,*Nsync,1
+2007-12,2Gether,1
+2007-12,Aerosmith,0
+2007-12,Al Green,0
+2007-12,Alice In Chains,0
+2007-12,Backstreet Boys,0
+2007-12,Bad Religion,1
+2007-12,Big Brother & The Holding Company,1
+2007-12,David Bowie,1
+2007-12,Dr. Dre,1
+2007-12,Him,1
+2007-12,Mindless Self Indulgence,7
+2007-12,Nirvana,1
+2007-12,Pink Floyd,1
+2007-12,Syd Barrett,0
+2007-12,The 69 Eyes,1
+2007-12,The Beatles,2
+2007-12,The Jimi Hendrix Experience,1
+2007-12,The Mamas & The Papas,1
+2007-12,Three 6 Mafia,1
+2008-01,*Nsync,3
+2008-01,2Gether,1
+2008-01,Aerosmith,2
+2008-01,Al Green,3
+2008-01,Alice In Chains,3
+2008-01,Backstreet Boys,1
+2008-01,Bad Religion,2
+2008-01,Big Brother & The Holding Company,2
+2008-01,David Bowie,5
+2008-01,Dr. Dre,2
+2008-01,Him,1
+2008-01,Mindless Self Indulgence,5
+2008-01,Nirvana,7
+2008-01,Pink Floyd,16
+2008-01,Syd Barrett,1
+2008-01,The 69 Eyes,10
+2008-01,The Beatles,11
+2008-01,The Jimi Hendrix Experience,7
+2008-01,The Mamas & The Papas,6
+2008-01,Three 6 Mafia,5
+2008-02,*Nsync,8
+2008-02,2Gether,4
+2008-02,Aerosmith,35
+2008-02,Al Green,26
+2008-02,Alice In Chains,1
+2008-02,Backstreet Boys,3
+2008-02,Bad Religion,7
+2008-02,Big Brother & The Holding Company,7
+2008-02,David Bowie,4
+2008-02,Dr. Dre,4
+2008-02,Him,10
+2008-02,Mindless Self Indulgence,17
+2008-02,Nirvana,17
+2008-02,Pink Floyd,18
+2008-02,Syd Barrett,7
+2008-02,The 69 Eyes,67
+2008-02,The Beatles,61
+2008-02,The Jimi Hendrix Experience,10
+2008-02,The Mamas & The Papas,12
+2008-02,Three 6 Mafia,10
+2008-03,*Nsync,7
+2008-03,2Gether,2
+2008-03,Aerosmith,4
+2008-03,Al Green,6
+2008-03,Alice In Chains,1
+2008-03,Backstreet Boys,6
+2008-03,Bad Religion,5
+2008-03,Big Brother & The Holding Company,2
+2008-03,David Bowie,7
+2008-03,Dr. Dre,6
+2008-03,Him,7
+2008-03,Mindless Self Indulgence,45
+2008-03,Nirvana,18
+2008-03,Pink Floyd,21
+2008-03,Syd Barrett,10
+2008-03,The 69 Eyes,12
+2008-03,The Beatles,38
+2008-03,The Jimi Hendrix Experience,2
+2008-03,The Mamas & The Papas,14
+2008-03,Three 6 Mafia,11
+2008-04,*Nsync,0
+2008-04,2Gether,0
+2008-04,Aerosmith,1
+2008-04,Al Green,0
+2008-04,Alice In Chains,1
+2008-04,Backstreet Boys,0
+2008-04,Bad Religion,1
+2008-04,Big Brother & The Holding Company,1
+2008-04,David Bowie,0
+2008-04,Dr. Dre,0
+2008-04,Him,0
+2008-04,Mindless Self Indulgence,0
+2008-04,Nirvana,1
+2008-04,Pink Floyd,7
+2008-04,Syd Barrett,0
+2008-04,The 69 Eyes,1
+2008-04,The Beatles,0
+2008-04,The Jimi Hendrix Experience,0
+2008-04,The Mamas & The Papas,0
+2008-04,Three 6 Mafia,1
+2008-05,*Nsync,1
+2008-05,2Gether,0
+2008-05,Aerosmith,0
+2008-05,Al Green,2
+2008-05,Alice In Chains,0
+2008-05,Backstreet Boys,2
+2008-05,Bad Religion,0
+2008-05,Big Brother & The Holding Company,1
+2008-05,David Bowie,1
+2008-05,Dr. Dre,1
+2008-05,Him,0
+2008-05,Mindless Self Indulgence,7
+2008-05,Nirvana,1
+2008-05,Pink Floyd,4
+2008-05,Syd Barrett,2
+2008-05,The 69 Eyes,2
+2008-05,The Beatles,22
+2008-05,The Jimi Hendrix Experience,4
+2008-05,The Mamas & The Papas,1
+2008-05,Three 6 Mafia,0
+2008-06,*Nsync,2
+2008-06,2Gether,2
+2008-06,Aerosmith,3
+2008-06,Al Green,5
+2008-06,Alice In Chains,2
+2008-06,Backstreet Boys,3
+2008-06,Bad Religion,4
+2008-06,Big Brother & The Holding Company,6
+2008-06,David Bowie,4
+2008-06,Dr. Dre,4
+2008-06,Him,1
+2008-06,Mindless Self Indulgence,2
+2008-06,Nirvana,4
+2008-06,Pink Floyd,6
+2008-06,Syd Barrett,7
+2008-06,The 69 Eyes,7
+2008-06,The Beatles,7
+2008-06,The Jimi Hendrix Experience,4
+2008-06,The Mamas & The Papas,3
+2008-06,Three 6 Mafia,3
+2008-07,*Nsync,0
+2008-07,2Gether,0
+2008-07,Aerosmith,1
+2008-07,Al Green,0
+2008-07,Alice In Chains,1
+2008-07,Backstreet Boys,0
+2008-07,Bad Religion,0
+2008-07,Big Brother & The Holding Company,0
+2008-07,David Bowie,0
+2008-07,Dr. Dre,0
+2008-07,Him,0
+2008-07,Mindless Self Indulgence,0
+2008-07,Nirvana,4
+2008-07,Pink Floyd,0
+2008-07,Syd Barrett,0
+2008-07,The 69 Eyes,0
+2008-07,The Beatles,0
+2008-07,The Jimi Hendrix Experience,0
+2008-07,The Mamas & The Papas,0
+2008-07,Three 6 Mafia,0
+2008-08,*Nsync,0
+2008-08,2Gether,0
+2008-08,Aerosmith,0
+2008-08,Al Green,0
+2008-08,Alice In Chains,0
+2008-08,Backstreet Boys,0
+2008-08,Bad Religion,0
+2008-08,Big Brother & The Holding Company,0
+2008-08,David Bowie,0
+2008-08,Dr. Dre,0
+2008-08,Him,0
+2008-08,Mindless Self Indulgence,0
+2008-08,Nirvana,0
+2008-08,Pink Floyd,0
+2008-08,Syd Barrett,0
+2008-08,The 69 Eyes,0
+2008-08,The Beatles,0
+2008-08,The Jimi Hendrix Experience,0
+2008-08,The Mamas & The Papas,0
+2008-08,Three 6 Mafia,0
+2008-09,*Nsync,0
+2008-09,2Gether,0
+2008-09,Aerosmith,0
+2008-09,Al Green,0
+2008-09,Alice In Chains,0
+2008-09,Backstreet Boys,0
+2008-09,Bad Religion,0
+2008-09,Big Brother & The Holding Company,0
+2008-09,David Bowie,0
+2008-09,Dr. Dre,0
+2008-09,Him,0
+2008-09,Mindless Self Indulgence,0
+2008-09,Nirvana,0
+2008-09,Pink Floyd,0
+2008-09,Syd Barrett,0
+2008-09,The 69 Eyes,0
+2008-09,The Beatles,0
+2008-09,The Jimi Hendrix Experience,0
+2008-09,The Mamas & The Papas,0
+2008-09,Three 6 Mafia,0
+2008-10,*Nsync,0
+2008-10,2Gether,0
+2008-10,Aerosmith,0
+2008-10,Al Green,0
+2008-10,Alice In Chains,0
+2008-10,Backstreet Boys,0
+2008-10,Bad Religion,0
+2008-10,Big Brother & The Holding Company,0
+2008-10,David Bowie,0
+2008-10,Dr. Dre,0
+2008-10,Him,0
+2008-10,Mindless Self Indulgence,0
+2008-10,Nirvana,0
+2008-10,Pink Floyd,0
+2008-10,Syd Barrett,0
+2008-10,The 69 Eyes,0
+2008-10,The Beatles,0
+2008-10,The Jimi Hendrix Experience,0
+2008-10,The Mamas & The Papas,0
+2008-10,Three 6 Mafia,0
+2008-11,*Nsync,0
+2008-11,2Gether,0
+2008-11,Aerosmith,0
+2008-11,Al Green,0
+2008-11,Alice In Chains,0
+2008-11,Backstreet Boys,0
+2008-11,Bad Religion,0
+2008-11,Big Brother & The Holding Company,0
+2008-11,David Bowie,0
+2008-11,Dr. Dre,0
+2008-11,Him,13
+2008-11,Mindless Self Indulgence,0
+2008-11,Nirvana,0
+2008-11,Pink Floyd,0
+2008-11,Syd Barrett,2
+2008-11,The 69 Eyes,0
+2008-11,The Beatles,0
+2008-11,The Jimi Hendrix Experience,0
+2008-11,The Mamas & The Papas,0
+2008-11,Three 6 Mafia,0

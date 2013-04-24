@@ -1,0 +1,641 @@
+month,artist,plays
+2006-10,Beck,39
+2006-10,Black Rebel Motorcycle Club,85
+2006-10,Boy Division,12
+2006-10,British Sea Power,0
+2006-10,David Bowie,1
+2006-10,Echo & The Bunnymen,25
+2006-10,Interpol,41
+2006-10,Joy Division,367
+2006-10,Magazine,53
+2006-10,Muse,13
+2006-10,Oasis,0
+2006-10,Radiohead,22
+2006-10,Sigur Rós,0
+2006-10,The Charlatans,48
+2006-10,The Flaming Lips,6
+2006-10,The Jam,0
+2006-10,The Jesus And Mary Chain,46
+2006-10,The Smashing Pumpkins,0
+2006-10,The Smiths,1
+2006-10,The Walkmen,14
+2006-11,Beck,16
+2006-11,Black Rebel Motorcycle Club,4
+2006-11,Boy Division,16
+2006-11,British Sea Power,0
+2006-11,David Bowie,0
+2006-11,Echo & The Bunnymen,2
+2006-11,Interpol,4
+2006-11,Joy Division,433
+2006-11,Magazine,58
+2006-11,Muse,74
+2006-11,Oasis,1
+2006-11,Radiohead,32
+2006-11,Sigur Rós,0
+2006-11,The Charlatans,42
+2006-11,The Flaming Lips,0
+2006-11,The Jam,0
+2006-11,The Jesus And Mary Chain,38
+2006-11,The Smashing Pumpkins,20
+2006-11,The Smiths,33
+2006-11,The Walkmen,44
+2006-12,Beck,0
+2006-12,Black Rebel Motorcycle Club,16
+2006-12,Boy Division,14
+2006-12,British Sea Power,0
+2006-12,David Bowie,115
+2006-12,Echo & The Bunnymen,3
+2006-12,Interpol,66
+2006-12,Joy Division,345
+2006-12,Magazine,45
+2006-12,Muse,28
+2006-12,Oasis,6
+2006-12,Radiohead,42
+2006-12,Sigur Rós,43
+2006-12,The Charlatans,7
+2006-12,The Flaming Lips,6
+2006-12,The Jam,0
+2006-12,The Jesus And Mary Chain,40
+2006-12,The Smashing Pumpkins,0
+2006-12,The Smiths,0
+2006-12,The Walkmen,16
+2007-01,Beck,0
+2007-01,Black Rebel Motorcycle Club,12
+2007-01,Boy Division,11
+2007-01,British Sea Power,0
+2007-01,David Bowie,138
+2007-01,Echo & The Bunnymen,8
+2007-01,Interpol,10
+2007-01,Joy Division,261
+2007-01,Magazine,16
+2007-01,Muse,102
+2007-01,Oasis,0
+2007-01,Radiohead,14
+2007-01,Sigur Rós,234
+2007-01,The Charlatans,0
+2007-01,The Flaming Lips,2
+2007-01,The Jam,53
+2007-01,The Jesus And Mary Chain,3
+2007-01,The Smashing Pumpkins,101
+2007-01,The Smiths,0
+2007-01,The Walkmen,0
+2007-02,Beck,71
+2007-02,Black Rebel Motorcycle Club,17
+2007-02,Boy Division,4
+2007-02,British Sea Power,0
+2007-02,David Bowie,12
+2007-02,Echo & The Bunnymen,0
+2007-02,Interpol,12
+2007-02,Joy Division,141
+2007-02,Magazine,4
+2007-02,Muse,69
+2007-02,Oasis,1
+2007-02,Radiohead,3
+2007-02,Sigur Rós,83
+2007-02,The Charlatans,6
+2007-02,The Flaming Lips,70
+2007-02,The Jam,0
+2007-02,The Jesus And Mary Chain,0
+2007-02,The Smashing Pumpkins,9
+2007-02,The Smiths,0
+2007-02,The Walkmen,8
+2007-03,Beck,11
+2007-03,Black Rebel Motorcycle Club,32
+2007-03,Boy Division,6
+2007-03,British Sea Power,0
+2007-03,David Bowie,7
+2007-03,Echo & The Bunnymen,0
+2007-03,Interpol,4
+2007-03,Joy Division,199
+2007-03,Magazine,15
+2007-03,Muse,20
+2007-03,Oasis,3
+2007-03,Radiohead,1
+2007-03,Sigur Rós,18
+2007-03,The Charlatans,1
+2007-03,The Flaming Lips,6
+2007-03,The Jam,2
+2007-03,The Jesus And Mary Chain,36
+2007-03,The Smashing Pumpkins,33
+2007-03,The Smiths,0
+2007-03,The Walkmen,35
+2007-04,Beck,8
+2007-04,Black Rebel Motorcycle Club,84
+2007-04,Boy Division,5
+2007-04,British Sea Power,0
+2007-04,David Bowie,1
+2007-04,Echo & The Bunnymen,15
+2007-04,Interpol,9
+2007-04,Joy Division,191
+2007-04,Magazine,9
+2007-04,Muse,26
+2007-04,Oasis,0
+2007-04,Radiohead,1
+2007-04,Sigur Rós,22
+2007-04,The Charlatans,5
+2007-04,The Flaming Lips,6
+2007-04,The Jam,0
+2007-04,The Jesus And Mary Chain,26
+2007-04,The Smashing Pumpkins,8
+2007-04,The Smiths,0
+2007-04,The Walkmen,0
+2007-05,Beck,13
+2007-05,Black Rebel Motorcycle Club,13
+2007-05,Boy Division,5
+2007-05,British Sea Power,1
+2007-05,David Bowie,0
+2007-05,Echo & The Bunnymen,1
+2007-05,Interpol,7
+2007-05,Joy Division,189
+2007-05,Magazine,1
+2007-05,Muse,13
+2007-05,Oasis,1
+2007-05,Radiohead,0
+2007-05,Sigur Rós,16
+2007-05,The Charlatans,1
+2007-05,The Flaming Lips,0
+2007-05,The Jam,0
+2007-05,The Jesus And Mary Chain,0
+2007-05,The Smashing Pumpkins,9
+2007-05,The Smiths,1
+2007-05,The Walkmen,41
+2007-06,Beck,1
+2007-06,Black Rebel Motorcycle Club,6
+2007-06,Boy Division,3
+2007-06,British Sea Power,0
+2007-06,David Bowie,0
+2007-06,Echo & The Bunnymen,1
+2007-06,Interpol,65
+2007-06,Joy Division,160
+2007-06,Magazine,0
+2007-06,Muse,0
+2007-06,Oasis,39
+2007-06,Radiohead,1
+2007-06,Sigur Rós,30
+2007-06,The Charlatans,0
+2007-06,The Flaming Lips,0
+2007-06,The Jam,0
+2007-06,The Jesus And Mary Chain,11
+2007-06,The Smashing Pumpkins,6
+2007-06,The Smiths,0
+2007-06,The Walkmen,0
+2007-07,Beck,1
+2007-07,Black Rebel Motorcycle Club,6
+2007-07,Boy Division,7
+2007-07,British Sea Power,3
+2007-07,David Bowie,0
+2007-07,Echo & The Bunnymen,2
+2007-07,Interpol,51
+2007-07,Joy Division,226
+2007-07,Magazine,39
+2007-07,Muse,5
+2007-07,Oasis,6
+2007-07,Radiohead,3
+2007-07,Sigur Rós,43
+2007-07,The Charlatans,1
+2007-07,The Flaming Lips,2
+2007-07,The Jam,0
+2007-07,The Jesus And Mary Chain,1
+2007-07,The Smashing Pumpkins,182
+2007-07,The Smiths,1
+2007-07,The Walkmen,1
+2007-08,Beck,2
+2007-08,Black Rebel Motorcycle Club,0
+2007-08,Boy Division,0
+2007-08,British Sea Power,15
+2007-08,David Bowie,1
+2007-08,Echo & The Bunnymen,0
+2007-08,Interpol,11
+2007-08,Joy Division,40
+2007-08,Magazine,2
+2007-08,Muse,0
+2007-08,Oasis,8
+2007-08,Radiohead,15
+2007-08,Sigur Rós,7
+2007-08,The Charlatans,28
+2007-08,The Flaming Lips,2
+2007-08,The Jam,26
+2007-08,The Jesus And Mary Chain,5
+2007-08,The Smashing Pumpkins,7
+2007-08,The Smiths,9
+2007-08,The Walkmen,3
+2007-09,Beck,5
+2007-09,Black Rebel Motorcycle Club,1
+2007-09,Boy Division,3
+2007-09,British Sea Power,15
+2007-09,David Bowie,0
+2007-09,Echo & The Bunnymen,0
+2007-09,Interpol,43
+2007-09,Joy Division,62
+2007-09,Magazine,21
+2007-09,Muse,1
+2007-09,Oasis,12
+2007-09,Radiohead,12
+2007-09,Sigur Rós,19
+2007-09,The Charlatans,2
+2007-09,The Flaming Lips,1
+2007-09,The Jam,40
+2007-09,The Jesus And Mary Chain,0
+2007-09,The Smashing Pumpkins,1
+2007-09,The Smiths,3
+2007-09,The Walkmen,0
+2007-10,Beck,1
+2007-10,Black Rebel Motorcycle Club,47
+2007-10,Boy Division,4
+2007-10,British Sea Power,9
+2007-10,David Bowie,0
+2007-10,Echo & The Bunnymen,2
+2007-10,Interpol,39
+2007-10,Joy Division,94
+2007-10,Magazine,75
+2007-10,Muse,9
+2007-10,Oasis,1
+2007-10,Radiohead,161
+2007-10,Sigur Rós,0
+2007-10,The Charlatans,0
+2007-10,The Flaming Lips,0
+2007-10,The Jam,1
+2007-10,The Jesus And Mary Chain,11
+2007-10,The Smashing Pumpkins,2
+2007-10,The Smiths,3
+2007-10,The Walkmen,0
+2007-11,Beck,0
+2007-11,Black Rebel Motorcycle Club,8
+2007-11,Boy Division,5
+2007-11,British Sea Power,1
+2007-11,David Bowie,50
+2007-11,Echo & The Bunnymen,7
+2007-11,Interpol,1
+2007-11,Joy Division,141
+2007-11,Magazine,33
+2007-11,Muse,6
+2007-11,Oasis,0
+2007-11,Radiohead,117
+2007-11,Sigur Rós,14
+2007-11,The Charlatans,13
+2007-11,The Flaming Lips,0
+2007-11,The Jam,161
+2007-11,The Jesus And Mary Chain,19
+2007-11,The Smashing Pumpkins,17
+2007-11,The Smiths,0
+2007-11,The Walkmen,1
+2007-12,Beck,1
+2007-12,Black Rebel Motorcycle Club,0
+2007-12,Boy Division,2
+2007-12,British Sea Power,1
+2007-12,David Bowie,15
+2007-12,Echo & The Bunnymen,0
+2007-12,Interpol,1
+2007-12,Joy Division,98
+2007-12,Magazine,0
+2007-12,Muse,0
+2007-12,Oasis,0
+2007-12,Radiohead,11
+2007-12,Sigur Rós,0
+2007-12,The Charlatans,0
+2007-12,The Flaming Lips,0
+2007-12,The Jam,2
+2007-12,The Jesus And Mary Chain,0
+2007-12,The Smashing Pumpkins,0
+2007-12,The Smiths,0
+2007-12,The Walkmen,0
+2008-01,Beck,0
+2008-01,Black Rebel Motorcycle Club,0
+2008-01,Boy Division,1
+2008-01,British Sea Power,111
+2008-01,David Bowie,0
+2008-01,Echo & The Bunnymen,0
+2008-01,Interpol,0
+2008-01,Joy Division,34
+2008-01,Magazine,0
+2008-01,Muse,0
+2008-01,Oasis,0
+2008-01,Radiohead,1
+2008-01,Sigur Rós,5
+2008-01,The Charlatans,0
+2008-01,The Flaming Lips,0
+2008-01,The Jam,0
+2008-01,The Jesus And Mary Chain,0
+2008-01,The Smashing Pumpkins,13
+2008-01,The Smiths,1
+2008-01,The Walkmen,0
+2008-02,Beck,0
+2008-02,Black Rebel Motorcycle Club,11
+2008-02,Boy Division,0
+2008-02,British Sea Power,35
+2008-02,David Bowie,0
+2008-02,Echo & The Bunnymen,1
+2008-02,Interpol,0
+2008-02,Joy Division,22
+2008-02,Magazine,0
+2008-02,Muse,0
+2008-02,Oasis,0
+2008-02,Radiohead,14
+2008-02,Sigur Rós,0
+2008-02,The Charlatans,11
+2008-02,The Flaming Lips,0
+2008-02,The Jam,1
+2008-02,The Jesus And Mary Chain,18
+2008-02,The Smashing Pumpkins,0
+2008-02,The Smiths,0
+2008-02,The Walkmen,0
+2008-03,Beck,0
+2008-03,Black Rebel Motorcycle Club,30
+2008-03,Boy Division,1
+2008-03,British Sea Power,0
+2008-03,David Bowie,13
+2008-03,Echo & The Bunnymen,1
+2008-03,Interpol,0
+2008-03,Joy Division,48
+2008-03,Magazine,1
+2008-03,Muse,0
+2008-03,Oasis,0
+2008-03,Radiohead,0
+2008-03,Sigur Rós,16
+2008-03,The Charlatans,0
+2008-03,The Flaming Lips,0
+2008-03,The Jam,27
+2008-03,The Jesus And Mary Chain,8
+2008-03,The Smashing Pumpkins,0
+2008-03,The Smiths,0
+2008-03,The Walkmen,0
+2008-04,Beck,0
+2008-04,Black Rebel Motorcycle Club,0
+2008-04,Boy Division,0
+2008-04,British Sea Power,0
+2008-04,David Bowie,0
+2008-04,Echo & The Bunnymen,5
+2008-04,Interpol,0
+2008-04,Joy Division,0
+2008-04,Magazine,0
+2008-04,Muse,0
+2008-04,Oasis,0
+2008-04,Radiohead,0
+2008-04,Sigur Rós,0
+2008-04,The Charlatans,0
+2008-04,The Flaming Lips,0
+2008-04,The Jam,7
+2008-04,The Jesus And Mary Chain,0
+2008-04,The Smashing Pumpkins,0
+2008-04,The Smiths,0
+2008-04,The Walkmen,0
+2008-05,Beck,0
+2008-05,Black Rebel Motorcycle Club,0
+2008-05,Boy Division,0
+2008-05,British Sea Power,0
+2008-05,David Bowie,0
+2008-05,Echo & The Bunnymen,0
+2008-05,Interpol,0
+2008-05,Joy Division,0
+2008-05,Magazine,1
+2008-05,Muse,0
+2008-05,Oasis,0
+2008-05,Radiohead,0
+2008-05,Sigur Rós,0
+2008-05,The Charlatans,0
+2008-05,The Flaming Lips,0
+2008-05,The Jam,18
+2008-05,The Jesus And Mary Chain,0
+2008-05,The Smashing Pumpkins,0
+2008-05,The Smiths,10
+2008-05,The Walkmen,0
+2008-06,Beck,0
+2008-06,Black Rebel Motorcycle Club,0
+2008-06,Boy Division,0
+2008-06,British Sea Power,0
+2008-06,David Bowie,0
+2008-06,Echo & The Bunnymen,0
+2008-06,Interpol,0
+2008-06,Joy Division,0
+2008-06,Magazine,0
+2008-06,Muse,0
+2008-06,Oasis,7
+2008-06,Radiohead,0
+2008-06,Sigur Rós,2
+2008-06,The Charlatans,0
+2008-06,The Flaming Lips,0
+2008-06,The Jam,11
+2008-06,The Jesus And Mary Chain,0
+2008-06,The Smashing Pumpkins,0
+2008-06,The Smiths,51
+2008-06,The Walkmen,0
+2008-07,Beck,0
+2008-07,Black Rebel Motorcycle Club,0
+2008-07,Boy Division,0
+2008-07,British Sea Power,0
+2008-07,David Bowie,0
+2008-07,Echo & The Bunnymen,0
+2008-07,Interpol,0
+2008-07,Joy Division,8
+2008-07,Magazine,0
+2008-07,Muse,12
+2008-07,Oasis,0
+2008-07,Radiohead,0
+2008-07,Sigur Rós,0
+2008-07,The Charlatans,0
+2008-07,The Flaming Lips,0
+2008-07,The Jam,4
+2008-07,The Jesus And Mary Chain,0
+2008-07,The Smashing Pumpkins,0
+2008-07,The Smiths,4
+2008-07,The Walkmen,0
+2008-08,Beck,0
+2008-08,Black Rebel Motorcycle Club,0
+2008-08,Boy Division,0
+2008-08,British Sea Power,0
+2008-08,David Bowie,1
+2008-08,Echo & The Bunnymen,0
+2008-08,Interpol,0
+2008-08,Joy Division,0
+2008-08,Magazine,0
+2008-08,Muse,0
+2008-08,Oasis,10
+2008-08,Radiohead,0
+2008-08,Sigur Rós,0
+2008-08,The Charlatans,0
+2008-08,The Flaming Lips,0
+2008-08,The Jam,0
+2008-08,The Jesus And Mary Chain,40
+2008-08,The Smashing Pumpkins,0
+2008-08,The Smiths,1
+2008-08,The Walkmen,14
+2008-09,Beck,0
+2008-09,Black Rebel Motorcycle Club,0
+2008-09,Boy Division,0
+2008-09,British Sea Power,0
+2008-09,David Bowie,0
+2008-09,Echo & The Bunnymen,0
+2008-09,Interpol,0
+2008-09,Joy Division,0
+2008-09,Magazine,0
+2008-09,Muse,0
+2008-09,Oasis,0
+2008-09,Radiohead,0
+2008-09,Sigur Rós,0
+2008-09,The Charlatans,0
+2008-09,The Flaming Lips,0
+2008-09,The Jam,0
+2008-09,The Jesus And Mary Chain,0
+2008-09,The Smashing Pumpkins,0
+2008-09,The Smiths,0
+2008-09,The Walkmen,0
+2008-10,Beck,0
+2008-10,Black Rebel Motorcycle Club,0
+2008-10,Boy Division,0
+2008-10,British Sea Power,0
+2008-10,David Bowie,56
+2008-10,Echo & The Bunnymen,0
+2008-10,Interpol,0
+2008-10,Joy Division,0
+2008-10,Magazine,0
+2008-10,Muse,0
+2008-10,Oasis,31
+2008-10,Radiohead,0
+2008-10,Sigur Rós,3
+2008-10,The Charlatans,0
+2008-10,The Flaming Lips,0
+2008-10,The Jam,0
+2008-10,The Jesus And Mary Chain,0
+2008-10,The Smashing Pumpkins,43
+2008-10,The Smiths,0
+2008-10,The Walkmen,0
+2008-11,Beck,0
+2008-11,Black Rebel Motorcycle Club,0
+2008-11,Boy Division,0
+2008-11,British Sea Power,0
+2008-11,David Bowie,88
+2008-11,Echo & The Bunnymen,0
+2008-11,Interpol,0
+2008-11,Joy Division,0
+2008-11,Magazine,0
+2008-11,Muse,0
+2008-11,Oasis,26
+2008-11,Radiohead,0
+2008-11,Sigur Rós,0
+2008-11,The Charlatans,0
+2008-11,The Flaming Lips,0
+2008-11,The Jam,24
+2008-11,The Jesus And Mary Chain,0
+2008-11,The Smashing Pumpkins,0
+2008-11,The Smiths,10
+2008-11,The Walkmen,0
+2008-12,Beck,0
+2008-12,Black Rebel Motorcycle Club,0
+2008-12,Boy Division,0
+2008-12,British Sea Power,0
+2008-12,David Bowie,0
+2008-12,Echo & The Bunnymen,0
+2008-12,Interpol,0
+2008-12,Joy Division,0
+2008-12,Magazine,0
+2008-12,Muse,0
+2008-12,Oasis,0
+2008-12,Radiohead,0
+2008-12,Sigur Rós,0
+2008-12,The Charlatans,0
+2008-12,The Flaming Lips,0
+2008-12,The Jam,78
+2008-12,The Jesus And Mary Chain,0
+2008-12,The Smashing Pumpkins,0
+2008-12,The Smiths,8
+2008-12,The Walkmen,0
+2009-01,Beck,0
+2009-01,Black Rebel Motorcycle Club,0
+2009-01,Boy Division,0
+2009-01,British Sea Power,0
+2009-01,David Bowie,0
+2009-01,Echo & The Bunnymen,0
+2009-01,Interpol,0
+2009-01,Joy Division,0
+2009-01,Magazine,0
+2009-01,Muse,0
+2009-01,Oasis,0
+2009-01,Radiohead,0
+2009-01,Sigur Rós,2
+2009-01,The Charlatans,0
+2009-01,The Flaming Lips,1
+2009-01,The Jam,0
+2009-01,The Jesus And Mary Chain,0
+2009-01,The Smashing Pumpkins,0
+2009-01,The Smiths,0
+2009-01,The Walkmen,23
+2009-02,Beck,0
+2009-02,Black Rebel Motorcycle Club,32
+2009-02,Boy Division,0
+2009-02,British Sea Power,0
+2009-02,David Bowie,17
+2009-02,Echo & The Bunnymen,0
+2009-02,Interpol,0
+2009-02,Joy Division,0
+2009-02,Magazine,0
+2009-02,Muse,0
+2009-02,Oasis,0
+2009-02,Radiohead,0
+2009-02,Sigur Rós,0
+2009-02,The Charlatans,0
+2009-02,The Flaming Lips,0
+2009-02,The Jam,0
+2009-02,The Jesus And Mary Chain,0
+2009-02,The Smashing Pumpkins,0
+2009-02,The Smiths,0
+2009-02,The Walkmen,2
+2009-03,Beck,0
+2009-03,Black Rebel Motorcycle Club,0
+2009-03,Boy Division,0
+2009-03,British Sea Power,24
+2009-03,David Bowie,82
+2009-03,Echo & The Bunnymen,0
+2009-03,Interpol,0
+2009-03,Joy Division,0
+2009-03,Magazine,0
+2009-03,Muse,0
+2009-03,Oasis,0
+2009-03,Radiohead,0
+2009-03,Sigur Rós,0
+2009-03,The Charlatans,0
+2009-03,The Flaming Lips,33
+2009-03,The Jam,26
+2009-03,The Jesus And Mary Chain,0
+2009-03,The Smashing Pumpkins,0
+2009-03,The Smiths,0
+2009-03,The Walkmen,0
+2009-04,Beck,0
+2009-04,Black Rebel Motorcycle Club,14
+2009-04,Boy Division,1
+2009-04,British Sea Power,16
+2009-04,David Bowie,28
+2009-04,Echo & The Bunnymen,0
+2009-04,Interpol,0
+2009-04,Joy Division,58
+2009-04,Magazine,0
+2009-04,Muse,0
+2009-04,Oasis,0
+2009-04,Radiohead,0
+2009-04,Sigur Rós,0
+2009-04,The Charlatans,0
+2009-04,The Flaming Lips,26
+2009-04,The Jam,0
+2009-04,The Jesus And Mary Chain,0
+2009-04,The Smashing Pumpkins,0
+2009-04,The Smiths,0
+2009-04,The Walkmen,0
+2009-05,Beck,0
+2009-05,Black Rebel Motorcycle Club,0
+2009-05,Boy Division,0
+2009-05,British Sea Power,2
+2009-05,David Bowie,5
+2009-05,Echo & The Bunnymen,0
+2009-05,Interpol,0
+2009-05,Joy Division,1
+2009-05,Magazine,0
+2009-05,Muse,0
+2009-05,Oasis,0
+2009-05,Radiohead,0
+2009-05,Sigur Rós,0
+2009-05,The Charlatans,0
+2009-05,The Flaming Lips,2
+2009-05,The Jam,0
+2009-05,The Jesus And Mary Chain,0
+2009-05,The Smashing Pumpkins,0
+2009-05,The Smiths,0
+2009-05,The Walkmen,0

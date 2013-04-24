@@ -1,0 +1,481 @@
+month,artist,plays
+2007-06,3 Feet Smaller,2
+2007-06,Akcent,9
+2007-06,Atb,3
+2007-06,Benny Benassi,12
+2007-06,Bon Jovi,1
+2007-06,Christina Aguilera,5
+2007-06,Evanescence,6
+2007-06,Faithless,13
+2007-06,Fly Project,9
+2007-06,Kalwi & Remi,12
+2007-06,Madonna,3
+2007-06,Nappy Hardcore,0
+2007-06,Nelly Furtado,5
+2007-06,Red Hot Chili Peppers,19
+2007-06,Robbie Williams,72
+2007-06,Scooter,346
+2007-06,The Black Eyed Peas,10
+2007-06,The Chemical Brothers,5
+2007-06,The Underdog Project,7
+2007-06,The White Stripes,9
+2007-07,3 Feet Smaller,3
+2007-07,Akcent,5
+2007-07,Atb,4
+2007-07,Benny Benassi,4
+2007-07,Bon Jovi,3
+2007-07,Christina Aguilera,3
+2007-07,Evanescence,1
+2007-07,Faithless,6
+2007-07,Fly Project,6
+2007-07,Kalwi & Remi,0
+2007-07,Madonna,2
+2007-07,Nappy Hardcore,27
+2007-07,Nelly Furtado,5
+2007-07,Red Hot Chili Peppers,3
+2007-07,Robbie Williams,70
+2007-07,Scooter,401
+2007-07,The Black Eyed Peas,12
+2007-07,The Chemical Brothers,1
+2007-07,The Underdog Project,4
+2007-07,The White Stripes,7
+2007-08,3 Feet Smaller,1
+2007-08,Akcent,2
+2007-08,Atb,0
+2007-08,Benny Benassi,2
+2007-08,Bon Jovi,1
+2007-08,Christina Aguilera,3
+2007-08,Evanescence,4
+2007-08,Faithless,5
+2007-08,Fly Project,6
+2007-08,Kalwi & Remi,1
+2007-08,Madonna,2
+2007-08,Nappy Hardcore,4
+2007-08,Nelly Furtado,4
+2007-08,Red Hot Chili Peppers,2
+2007-08,Robbie Williams,44
+2007-08,Scooter,202
+2007-08,The Black Eyed Peas,8
+2007-08,The Chemical Brothers,5
+2007-08,The Underdog Project,4
+2007-08,The White Stripes,5
+2007-09,3 Feet Smaller,1
+2007-09,Akcent,1
+2007-09,Atb,1
+2007-09,Benny Benassi,3
+2007-09,Bon Jovi,0
+2007-09,Christina Aguilera,0
+2007-09,Evanescence,0
+2007-09,Faithless,3
+2007-09,Fly Project,3
+2007-09,Kalwi & Remi,0
+2007-09,Madonna,2
+2007-09,Nappy Hardcore,3
+2007-09,Nelly Furtado,1
+2007-09,Red Hot Chili Peppers,4
+2007-09,Robbie Williams,18
+2007-09,Scooter,50
+2007-09,The Black Eyed Peas,2
+2007-09,The Chemical Brothers,10
+2007-09,The Underdog Project,2
+2007-09,The White Stripes,4
+2007-10,3 Feet Smaller,0
+2007-10,Akcent,1
+2007-10,Atb,1
+2007-10,Benny Benassi,2
+2007-10,Bon Jovi,1
+2007-10,Christina Aguilera,0
+2007-10,Evanescence,3
+2007-10,Faithless,2
+2007-10,Fly Project,6
+2007-10,Kalwi & Remi,0
+2007-10,Madonna,1
+2007-10,Nappy Hardcore,1
+2007-10,Nelly Furtado,3
+2007-10,Red Hot Chili Peppers,0
+2007-10,Robbie Williams,12
+2007-10,Scooter,34
+2007-10,The Black Eyed Peas,1
+2007-10,The Chemical Brothers,1
+2007-10,The Underdog Project,1
+2007-10,The White Stripes,0
+2007-11,3 Feet Smaller,0
+2007-11,Akcent,4
+2007-11,Atb,1
+2007-11,Benny Benassi,7
+2007-11,Bon Jovi,4
+2007-11,Christina Aguilera,7
+2007-11,Evanescence,3
+2007-11,Faithless,7
+2007-11,Fly Project,2
+2007-11,Kalwi & Remi,1
+2007-11,Madonna,1
+2007-11,Nappy Hardcore,6
+2007-11,Nelly Furtado,4
+2007-11,Red Hot Chili Peppers,2
+2007-11,Robbie Williams,43
+2007-11,Scooter,116
+2007-11,The Black Eyed Peas,6
+2007-11,The Chemical Brothers,0
+2007-11,The Underdog Project,3
+2007-11,The White Stripes,2
+2007-12,3 Feet Smaller,0
+2007-12,Akcent,2
+2007-12,Atb,1
+2007-12,Benny Benassi,2
+2007-12,Bon Jovi,1
+2007-12,Christina Aguilera,1
+2007-12,Evanescence,1
+2007-12,Faithless,0
+2007-12,Fly Project,1
+2007-12,Kalwi & Remi,2
+2007-12,Madonna,2
+2007-12,Nappy Hardcore,3
+2007-12,Nelly Furtado,3
+2007-12,Red Hot Chili Peppers,2
+2007-12,Robbie Williams,19
+2007-12,Scooter,93
+2007-12,The Black Eyed Peas,1
+2007-12,The Chemical Brothers,0
+2007-12,The Underdog Project,0
+2007-12,The White Stripes,1
+2008-01,3 Feet Smaller,36
+2008-01,Akcent,4
+2008-01,Atb,1
+2008-01,Benny Benassi,2
+2008-01,Bon Jovi,1
+2008-01,Christina Aguilera,0
+2008-01,Evanescence,1
+2008-01,Faithless,4
+2008-01,Fly Project,5
+2008-01,Kalwi & Remi,2
+2008-01,Madonna,1
+2008-01,Nappy Hardcore,3
+2008-01,Nelly Furtado,3
+2008-01,Red Hot Chili Peppers,2
+2008-01,Robbie Williams,21
+2008-01,Scooter,94
+2008-01,The Black Eyed Peas,4
+2008-01,The Chemical Brothers,1
+2008-01,The Underdog Project,1
+2008-01,The White Stripes,1
+2008-02,3 Feet Smaller,11
+2008-02,Akcent,0
+2008-02,Atb,1
+2008-02,Benny Benassi,2
+2008-02,Bon Jovi,1
+2008-02,Christina Aguilera,0
+2008-02,Evanescence,1
+2008-02,Faithless,4
+2008-02,Fly Project,0
+2008-02,Kalwi & Remi,1
+2008-02,Madonna,6
+2008-02,Nappy Hardcore,2
+2008-02,Nelly Furtado,3
+2008-02,Red Hot Chili Peppers,2
+2008-02,Robbie Williams,19
+2008-02,Scooter,39
+2008-02,The Black Eyed Peas,4
+2008-02,The Chemical Brothers,2
+2008-02,The Underdog Project,3
+2008-02,The White Stripes,1
+2008-03,3 Feet Smaller,2
+2008-03,Akcent,2
+2008-03,Atb,1
+2008-03,Benny Benassi,1
+2008-03,Bon Jovi,1
+2008-03,Christina Aguilera,5
+2008-03,Evanescence,0
+2008-03,Faithless,1
+2008-03,Fly Project,5
+2008-03,Kalwi & Remi,2
+2008-03,Madonna,2
+2008-03,Nappy Hardcore,2
+2008-03,Nelly Furtado,5
+2008-03,Red Hot Chili Peppers,2
+2008-03,Robbie Williams,53
+2008-03,Scooter,168
+2008-03,The Black Eyed Peas,4
+2008-03,The Chemical Brothers,2
+2008-03,The Underdog Project,1
+2008-03,The White Stripes,0
+2008-04,3 Feet Smaller,1
+2008-04,Akcent,1
+2008-04,Atb,2
+2008-04,Benny Benassi,4
+2008-04,Bon Jovi,2
+2008-04,Christina Aguilera,8
+2008-04,Evanescence,2
+2008-04,Faithless,4
+2008-04,Fly Project,5
+2008-04,Kalwi & Remi,1
+2008-04,Madonna,3
+2008-04,Nappy Hardcore,5
+2008-04,Nelly Furtado,4
+2008-04,Red Hot Chili Peppers,6
+2008-04,Robbie Williams,113
+2008-04,Scooter,438
+2008-04,The Black Eyed Peas,10
+2008-04,The Chemical Brothers,1
+2008-04,The Underdog Project,2
+2008-04,The White Stripes,1
+2008-05,3 Feet Smaller,4
+2008-05,Akcent,4
+2008-05,Atb,17
+2008-05,Benny Benassi,4
+2008-05,Bon Jovi,3
+2008-05,Christina Aguilera,4
+2008-05,Evanescence,1
+2008-05,Faithless,2
+2008-05,Fly Project,6
+2008-05,Kalwi & Remi,1
+2008-05,Madonna,1
+2008-05,Nappy Hardcore,0
+2008-05,Nelly Furtado,1
+2008-05,Red Hot Chili Peppers,2
+2008-05,Robbie Williams,62
+2008-05,Scooter,87
+2008-05,The Black Eyed Peas,9
+2008-05,The Chemical Brothers,2
+2008-05,The Underdog Project,1
+2008-05,The White Stripes,1
+2008-06,3 Feet Smaller,1
+2008-06,Akcent,0
+2008-06,Atb,0
+2008-06,Benny Benassi,0
+2008-06,Bon Jovi,0
+2008-06,Christina Aguilera,0
+2008-06,Evanescence,2
+2008-06,Faithless,1
+2008-06,Fly Project,0
+2008-06,Kalwi & Remi,0
+2008-06,Madonna,0
+2008-06,Nappy Hardcore,0
+2008-06,Nelly Furtado,0
+2008-06,Red Hot Chili Peppers,0
+2008-06,Robbie Williams,6
+2008-06,Scooter,412
+2008-06,The Black Eyed Peas,0
+2008-06,The Chemical Brothers,0
+2008-06,The Underdog Project,1
+2008-06,The White Stripes,0
+2008-07,3 Feet Smaller,1
+2008-07,Akcent,0
+2008-07,Atb,1
+2008-07,Benny Benassi,1
+2008-07,Bon Jovi,0
+2008-07,Christina Aguilera,1
+2008-07,Evanescence,0
+2008-07,Faithless,0
+2008-07,Fly Project,0
+2008-07,Kalwi & Remi,0
+2008-07,Madonna,2
+2008-07,Nappy Hardcore,1
+2008-07,Nelly Furtado,1
+2008-07,Red Hot Chili Peppers,0
+2008-07,Robbie Williams,13
+2008-07,Scooter,54
+2008-07,The Black Eyed Peas,2
+2008-07,The Chemical Brothers,0
+2008-07,The Underdog Project,0
+2008-07,The White Stripes,0
+2008-08,3 Feet Smaller,1
+2008-08,Akcent,0
+2008-08,Atb,0
+2008-08,Benny Benassi,0
+2008-08,Bon Jovi,0
+2008-08,Christina Aguilera,4
+2008-08,Evanescence,1
+2008-08,Faithless,0
+2008-08,Fly Project,2
+2008-08,Kalwi & Remi,2
+2008-08,Madonna,1
+2008-08,Nappy Hardcore,0
+2008-08,Nelly Furtado,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,Robbie Williams,18
+2008-08,Scooter,156
+2008-08,The Black Eyed Peas,0
+2008-08,The Chemical Brothers,2
+2008-08,The Underdog Project,0
+2008-08,The White Stripes,0
+2008-09,3 Feet Smaller,5
+2008-09,Akcent,4
+2008-09,Atb,5
+2008-09,Benny Benassi,3
+2008-09,Bon Jovi,2
+2008-09,Christina Aguilera,8
+2008-09,Evanescence,4
+2008-09,Faithless,5
+2008-09,Fly Project,5
+2008-09,Kalwi & Remi,8
+2008-09,Madonna,3
+2008-09,Nappy Hardcore,20
+2008-09,Nelly Furtado,5
+2008-09,Red Hot Chili Peppers,6
+2008-09,Robbie Williams,109
+2008-09,Scooter,222
+2008-09,The Black Eyed Peas,5
+2008-09,The Chemical Brothers,5
+2008-09,The Underdog Project,1
+2008-09,The White Stripes,1
+2008-10,3 Feet Smaller,1
+2008-10,Akcent,0
+2008-10,Atb,0
+2008-10,Benny Benassi,2
+2008-10,Bon Jovi,1
+2008-10,Christina Aguilera,1
+2008-10,Evanescence,1
+2008-10,Faithless,0
+2008-10,Fly Project,2
+2008-10,Kalwi & Remi,1
+2008-10,Madonna,1
+2008-10,Nappy Hardcore,2
+2008-10,Nelly Furtado,0
+2008-10,Red Hot Chili Peppers,2
+2008-10,Robbie Williams,27
+2008-10,Scooter,36
+2008-10,The Black Eyed Peas,2
+2008-10,The Chemical Brothers,1
+2008-10,The Underdog Project,1
+2008-10,The White Stripes,1
+2008-11,3 Feet Smaller,3
+2008-11,Akcent,3
+2008-11,Atb,1
+2008-11,Benny Benassi,1
+2008-11,Bon Jovi,3
+2008-11,Christina Aguilera,7
+2008-11,Evanescence,0
+2008-11,Faithless,2
+2008-11,Fly Project,3
+2008-11,Kalwi & Remi,6
+2008-11,Madonna,6
+2008-11,Nappy Hardcore,10
+2008-11,Nelly Furtado,2
+2008-11,Red Hot Chili Peppers,3
+2008-11,Robbie Williams,75
+2008-11,Scooter,435
+2008-11,The Black Eyed Peas,3
+2008-11,The Chemical Brothers,4
+2008-11,The Underdog Project,4
+2008-11,The White Stripes,4
+2008-12,3 Feet Smaller,2
+2008-12,Akcent,1
+2008-12,Atb,1
+2008-12,Benny Benassi,1
+2008-12,Bon Jovi,1
+2008-12,Christina Aguilera,3
+2008-12,Evanescence,3
+2008-12,Faithless,3
+2008-12,Fly Project,0
+2008-12,Kalwi & Remi,2
+2008-12,Madonna,4
+2008-12,Nappy Hardcore,5
+2008-12,Nelly Furtado,2
+2008-12,Red Hot Chili Peppers,4
+2008-12,Robbie Williams,51
+2008-12,Scooter,74
+2008-12,The Black Eyed Peas,4
+2008-12,The Chemical Brothers,4
+2008-12,The Underdog Project,1
+2008-12,The White Stripes,1
+2009-01,3 Feet Smaller,5
+2009-01,Akcent,1
+2009-01,Atb,2
+2009-01,Benny Benassi,4
+2009-01,Bon Jovi,1
+2009-01,Christina Aguilera,9
+2009-01,Evanescence,4
+2009-01,Faithless,1
+2009-01,Fly Project,6
+2009-01,Kalwi & Remi,3
+2009-01,Madonna,5
+2009-01,Nappy Hardcore,7
+2009-01,Nelly Furtado,4
+2009-01,Red Hot Chili Peppers,6
+2009-01,Robbie Williams,201
+2009-01,Scooter,150
+2009-01,The Black Eyed Peas,2
+2009-01,The Chemical Brothers,4
+2009-01,The Underdog Project,1
+2009-01,The White Stripes,5
+2009-02,3 Feet Smaller,3
+2009-02,Akcent,1
+2009-02,Atb,6
+2009-02,Benny Benassi,5
+2009-02,Bon Jovi,2
+2009-02,Christina Aguilera,6
+2009-02,Evanescence,3
+2009-02,Faithless,3
+2009-02,Fly Project,3
+2009-02,Kalwi & Remi,2
+2009-02,Madonna,6
+2009-02,Nappy Hardcore,3
+2009-02,Nelly Furtado,1
+2009-02,Red Hot Chili Peppers,3
+2009-02,Robbie Williams,91
+2009-02,Scooter,486
+2009-02,The Black Eyed Peas,4
+2009-02,The Chemical Brothers,11
+2009-02,The Underdog Project,4
+2009-02,The White Stripes,4
+2009-03,3 Feet Smaller,19
+2009-03,Akcent,2
+2009-03,Atb,8
+2009-03,Benny Benassi,10
+2009-03,Bon Jovi,5
+2009-03,Christina Aguilera,11
+2009-03,Evanescence,3
+2009-03,Faithless,4
+2009-03,Fly Project,6
+2009-03,Kalwi & Remi,4
+2009-03,Madonna,11
+2009-03,Nappy Hardcore,7
+2009-03,Nelly Furtado,5
+2009-03,Red Hot Chili Peppers,11
+2009-03,Robbie Williams,132
+2009-03,Scooter,196
+2009-03,The Black Eyed Peas,9
+2009-03,The Chemical Brothers,4
+2009-03,The Underdog Project,1
+2009-03,The White Stripes,3
+2009-04,3 Feet Smaller,6
+2009-04,Akcent,1
+2009-04,Atb,6
+2009-04,Benny Benassi,4
+2009-04,Bon Jovi,3
+2009-04,Christina Aguilera,14
+2009-04,Evanescence,4
+2009-04,Faithless,2
+2009-04,Fly Project,6
+2009-04,Kalwi & Remi,2
+2009-04,Madonna,10
+2009-04,Nappy Hardcore,6
+2009-04,Nelly Furtado,8
+2009-04,Red Hot Chili Peppers,14
+2009-04,Robbie Williams,173
+2009-04,Scooter,259
+2009-04,The Black Eyed Peas,6
+2009-04,The Chemical Brothers,5
+2009-04,The Underdog Project,6
+2009-04,The White Stripes,4
+2009-05,3 Feet Smaller,1
+2009-05,Akcent,2
+2009-05,Atb,3
+2009-05,Benny Benassi,5
+2009-05,Bon Jovi,1
+2009-05,Christina Aguilera,4
+2009-05,Evanescence,1
+2009-05,Faithless,1
+2009-05,Fly Project,3
+2009-05,Kalwi & Remi,1
+2009-05,Madonna,4
+2009-05,Nappy Hardcore,2
+2009-05,Nelly Furtado,2
+2009-05,Red Hot Chili Peppers,2
+2009-05,Robbie Williams,68
+2009-05,Scooter,98
+2009-05,The Black Eyed Peas,3
+2009-05,The Chemical Brothers,1
+2009-05,The Underdog Project,1
+2009-05,The White Stripes,2

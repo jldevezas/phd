@@ -1,0 +1,901 @@
+month,artist,plays
+2005-08,Arctic Monkeys,0
+2005-08,Coldplay,0
+2005-08,Delays,2
+2005-08,Foo Fighters,3
+2005-08,Franz Ferdinand,11
+2005-08,Interpol,4
+2005-08,Inxs,0
+2005-08,Kaiser Chiefs,0
+2005-08,Linkin Park,0
+2005-08,Modest Mouse,0
+2005-08,New Order,0
+2005-08,Placebo,0
+2005-08,Radiohead,0
+2005-08,Snow Patrol,4
+2005-08,The Beatles,0
+2005-08,The Cure,0
+2005-08,The Goo Goo Dolls,0
+2005-08,The Killers,3
+2005-08,The Strokes,4
+2005-08,U2,1
+2005-09,Arctic Monkeys,0
+2005-09,Coldplay,1
+2005-09,Delays,0
+2005-09,Foo Fighters,2
+2005-09,Franz Ferdinand,8
+2005-09,Interpol,3
+2005-09,Inxs,1
+2005-09,Kaiser Chiefs,1
+2005-09,Linkin Park,1
+2005-09,Modest Mouse,0
+2005-09,New Order,0
+2005-09,Placebo,2
+2005-09,Radiohead,1
+2005-09,Snow Patrol,0
+2005-09,The Beatles,0
+2005-09,The Cure,1
+2005-09,The Goo Goo Dolls,1
+2005-09,The Killers,3
+2005-09,The Strokes,3
+2005-09,U2,1
+2005-10,Arctic Monkeys,0
+2005-10,Coldplay,0
+2005-10,Delays,9
+2005-10,Foo Fighters,10
+2005-10,Franz Ferdinand,53
+2005-10,Interpol,9
+2005-10,Inxs,0
+2005-10,Kaiser Chiefs,0
+2005-10,Linkin Park,16
+2005-10,Modest Mouse,0
+2005-10,New Order,1
+2005-10,Placebo,0
+2005-10,Radiohead,1
+2005-10,Snow Patrol,2
+2005-10,The Beatles,3
+2005-10,The Cure,1
+2005-10,The Goo Goo Dolls,1
+2005-10,The Killers,5
+2005-10,The Strokes,32
+2005-10,U2,6
+2005-11,Arctic Monkeys,0
+2005-11,Coldplay,0
+2005-11,Delays,3
+2005-11,Foo Fighters,1
+2005-11,Franz Ferdinand,1
+2005-11,Interpol,2
+2005-11,Inxs,0
+2005-11,Kaiser Chiefs,0
+2005-11,Linkin Park,1
+2005-11,Modest Mouse,0
+2005-11,New Order,0
+2005-11,Placebo,0
+2005-11,Radiohead,0
+2005-11,Snow Patrol,0
+2005-11,The Beatles,0
+2005-11,The Cure,0
+2005-11,The Goo Goo Dolls,1
+2005-11,The Killers,0
+2005-11,The Strokes,7
+2005-11,U2,0
+2005-12,Arctic Monkeys,0
+2005-12,Coldplay,0
+2005-12,Delays,0
+2005-12,Foo Fighters,1
+2005-12,Franz Ferdinand,1
+2005-12,Interpol,0
+2005-12,Inxs,1
+2005-12,Kaiser Chiefs,0
+2005-12,Linkin Park,0
+2005-12,Modest Mouse,0
+2005-12,New Order,0
+2005-12,Placebo,0
+2005-12,Radiohead,0
+2005-12,Snow Patrol,0
+2005-12,The Beatles,0
+2005-12,The Cure,0
+2005-12,The Goo Goo Dolls,1
+2005-12,The Killers,1
+2005-12,The Strokes,4
+2005-12,U2,0
+2006-01,Arctic Monkeys,0
+2006-01,Coldplay,0
+2006-01,Delays,0
+2006-01,Foo Fighters,0
+2006-01,Franz Ferdinand,0
+2006-01,Interpol,0
+2006-01,Inxs,1
+2006-01,Kaiser Chiefs,0
+2006-01,Linkin Park,0
+2006-01,Modest Mouse,0
+2006-01,New Order,0
+2006-01,Placebo,0
+2006-01,Radiohead,1
+2006-01,Snow Patrol,0
+2006-01,The Beatles,0
+2006-01,The Cure,0
+2006-01,The Goo Goo Dolls,0
+2006-01,The Killers,0
+2006-01,The Strokes,0
+2006-01,U2,0
+2006-02,Arctic Monkeys,0
+2006-02,Coldplay,0
+2006-02,Delays,0
+2006-02,Foo Fighters,0
+2006-02,Franz Ferdinand,0
+2006-02,Interpol,0
+2006-02,Inxs,0
+2006-02,Kaiser Chiefs,0
+2006-02,Linkin Park,0
+2006-02,Modest Mouse,0
+2006-02,New Order,0
+2006-02,Placebo,0
+2006-02,Radiohead,0
+2006-02,Snow Patrol,0
+2006-02,The Beatles,0
+2006-02,The Cure,0
+2006-02,The Goo Goo Dolls,0
+2006-02,The Killers,0
+2006-02,The Strokes,0
+2006-02,U2,0
+2006-03,Arctic Monkeys,0
+2006-03,Coldplay,0
+2006-03,Delays,3
+2006-03,Foo Fighters,0
+2006-03,Franz Ferdinand,8
+2006-03,Interpol,11
+2006-03,Inxs,21
+2006-03,Kaiser Chiefs,0
+2006-03,Linkin Park,0
+2006-03,Modest Mouse,2
+2006-03,New Order,0
+2006-03,Placebo,0
+2006-03,Radiohead,0
+2006-03,Snow Patrol,5
+2006-03,The Beatles,0
+2006-03,The Cure,1
+2006-03,The Goo Goo Dolls,0
+2006-03,The Killers,9
+2006-03,The Strokes,0
+2006-03,U2,0
+2006-04,Arctic Monkeys,14
+2006-04,Coldplay,1
+2006-04,Delays,0
+2006-04,Foo Fighters,0
+2006-04,Franz Ferdinand,2
+2006-04,Interpol,0
+2006-04,Inxs,0
+2006-04,Kaiser Chiefs,12
+2006-04,Linkin Park,0
+2006-04,Modest Mouse,9
+2006-04,New Order,0
+2006-04,Placebo,0
+2006-04,Radiohead,0
+2006-04,Snow Patrol,0
+2006-04,The Beatles,0
+2006-04,The Cure,1
+2006-04,The Goo Goo Dolls,0
+2006-04,The Killers,0
+2006-04,The Strokes,4
+2006-04,U2,1
+2006-05,Arctic Monkeys,0
+2006-05,Coldplay,0
+2006-05,Delays,0
+2006-05,Foo Fighters,0
+2006-05,Franz Ferdinand,0
+2006-05,Interpol,0
+2006-05,Inxs,0
+2006-05,Kaiser Chiefs,0
+2006-05,Linkin Park,0
+2006-05,Modest Mouse,0
+2006-05,New Order,0
+2006-05,Placebo,0
+2006-05,Radiohead,0
+2006-05,Snow Patrol,0
+2006-05,The Beatles,0
+2006-05,The Cure,0
+2006-05,The Goo Goo Dolls,0
+2006-05,The Killers,0
+2006-05,The Strokes,0
+2006-05,U2,0
+2006-06,Arctic Monkeys,3
+2006-06,Coldplay,7
+2006-06,Delays,8
+2006-06,Foo Fighters,2
+2006-06,Franz Ferdinand,11
+2006-06,Interpol,6
+2006-06,Inxs,5
+2006-06,Kaiser Chiefs,6
+2006-06,Linkin Park,0
+2006-06,Modest Mouse,5
+2006-06,New Order,1
+2006-06,Placebo,0
+2006-06,Radiohead,16
+2006-06,Snow Patrol,18
+2006-06,The Beatles,16
+2006-06,The Cure,2
+2006-06,The Goo Goo Dolls,2
+2006-06,The Killers,8
+2006-06,The Strokes,5
+2006-06,U2,11
+2006-07,Arctic Monkeys,10
+2006-07,Coldplay,5
+2006-07,Delays,4
+2006-07,Foo Fighters,3
+2006-07,Franz Ferdinand,1
+2006-07,Interpol,1
+2006-07,Inxs,4
+2006-07,Kaiser Chiefs,2
+2006-07,Linkin Park,1
+2006-07,Modest Mouse,3
+2006-07,New Order,1
+2006-07,Placebo,1
+2006-07,Radiohead,1
+2006-07,Snow Patrol,5
+2006-07,The Beatles,16
+2006-07,The Cure,2
+2006-07,The Goo Goo Dolls,2
+2006-07,The Killers,2
+2006-07,The Strokes,3
+2006-07,U2,11
+2006-08,Arctic Monkeys,9
+2006-08,Coldplay,3
+2006-08,Delays,2
+2006-08,Foo Fighters,2
+2006-08,Franz Ferdinand,5
+2006-08,Interpol,0
+2006-08,Inxs,10
+2006-08,Kaiser Chiefs,2
+2006-08,Linkin Park,0
+2006-08,Modest Mouse,1
+2006-08,New Order,0
+2006-08,Placebo,0
+2006-08,Radiohead,0
+2006-08,Snow Patrol,5
+2006-08,The Beatles,8
+2006-08,The Cure,2
+2006-08,The Goo Goo Dolls,1
+2006-08,The Killers,1
+2006-08,The Strokes,2
+2006-08,U2,10
+2006-09,Arctic Monkeys,4
+2006-09,Coldplay,8
+2006-09,Delays,2
+2006-09,Foo Fighters,5
+2006-09,Franz Ferdinand,3
+2006-09,Interpol,3
+2006-09,Inxs,6
+2006-09,Kaiser Chiefs,1
+2006-09,Linkin Park,2
+2006-09,Modest Mouse,4
+2006-09,New Order,2
+2006-09,Placebo,3
+2006-09,Radiohead,9
+2006-09,Snow Patrol,6
+2006-09,The Beatles,10
+2006-09,The Cure,4
+2006-09,The Goo Goo Dolls,3
+2006-09,The Killers,3
+2006-09,The Strokes,3
+2006-09,U2,9
+2006-10,Arctic Monkeys,4
+2006-10,Coldplay,2
+2006-10,Delays,0
+2006-10,Foo Fighters,0
+2006-10,Franz Ferdinand,3
+2006-10,Interpol,4
+2006-10,Inxs,4
+2006-10,Kaiser Chiefs,1
+2006-10,Linkin Park,1
+2006-10,Modest Mouse,2
+2006-10,New Order,0
+2006-10,Placebo,0
+2006-10,Radiohead,2
+2006-10,Snow Patrol,2
+2006-10,The Beatles,1
+2006-10,The Cure,3
+2006-10,The Goo Goo Dolls,1
+2006-10,The Killers,16
+2006-10,The Strokes,1
+2006-10,U2,3
+2006-11,Arctic Monkeys,3
+2006-11,Coldplay,5
+2006-11,Delays,1
+2006-11,Foo Fighters,0
+2006-11,Franz Ferdinand,1
+2006-11,Interpol,1
+2006-11,Inxs,2
+2006-11,Kaiser Chiefs,1
+2006-11,Linkin Park,1
+2006-11,Modest Mouse,3
+2006-11,New Order,0
+2006-11,Placebo,1
+2006-11,Radiohead,2
+2006-11,Snow Patrol,6
+2006-11,The Beatles,5
+2006-11,The Cure,0
+2006-11,The Goo Goo Dolls,1
+2006-11,The Killers,2
+2006-11,The Strokes,1
+2006-11,U2,4
+2006-12,Arctic Monkeys,0
+2006-12,Coldplay,2
+2006-12,Delays,3
+2006-12,Foo Fighters,0
+2006-12,Franz Ferdinand,2
+2006-12,Interpol,3
+2006-12,Inxs,0
+2006-12,Kaiser Chiefs,1
+2006-12,Linkin Park,2
+2006-12,Modest Mouse,1
+2006-12,New Order,0
+2006-12,Placebo,1
+2006-12,Radiohead,0
+2006-12,Snow Patrol,4
+2006-12,The Beatles,1
+2006-12,The Cure,2
+2006-12,The Goo Goo Dolls,0
+2006-12,The Killers,2
+2006-12,The Strokes,0
+2006-12,U2,0
+2007-01,Arctic Monkeys,1
+2007-01,Coldplay,2
+2007-01,Delays,0
+2007-01,Foo Fighters,1
+2007-01,Franz Ferdinand,1
+2007-01,Interpol,1
+2007-01,Inxs,2
+2007-01,Kaiser Chiefs,3
+2007-01,Linkin Park,0
+2007-01,Modest Mouse,1
+2007-01,New Order,0
+2007-01,Placebo,2
+2007-01,Radiohead,1
+2007-01,Snow Patrol,0
+2007-01,The Beatles,0
+2007-01,The Cure,1
+2007-01,The Goo Goo Dolls,0
+2007-01,The Killers,1
+2007-01,The Strokes,0
+2007-01,U2,3
+2007-02,Arctic Monkeys,1
+2007-02,Coldplay,1
+2007-02,Delays,0
+2007-02,Foo Fighters,3
+2007-02,Franz Ferdinand,2
+2007-02,Interpol,80
+2007-02,Inxs,591
+2007-02,Kaiser Chiefs,2
+2007-02,Linkin Park,1
+2007-02,Modest Mouse,1
+2007-02,New Order,0
+2007-02,Placebo,2
+2007-02,Radiohead,1
+2007-02,Snow Patrol,0
+2007-02,The Beatles,0
+2007-02,The Cure,1
+2007-02,The Goo Goo Dolls,222
+2007-02,The Killers,1
+2007-02,The Strokes,1
+2007-02,U2,1
+2007-03,Arctic Monkeys,1
+2007-03,Coldplay,0
+2007-03,Delays,0
+2007-03,Foo Fighters,3
+2007-03,Franz Ferdinand,2
+2007-03,Interpol,0
+2007-03,Inxs,60
+2007-03,Kaiser Chiefs,0
+2007-03,Linkin Park,1
+2007-03,Modest Mouse,1
+2007-03,New Order,0
+2007-03,Placebo,4
+2007-03,Radiohead,2
+2007-03,Snow Patrol,1
+2007-03,The Beatles,0
+2007-03,The Cure,1
+2007-03,The Goo Goo Dolls,2
+2007-03,The Killers,0
+2007-03,The Strokes,2
+2007-03,U2,1
+2007-04,Arctic Monkeys,2
+2007-04,Coldplay,1
+2007-04,Delays,0
+2007-04,Foo Fighters,1
+2007-04,Franz Ferdinand,2
+2007-04,Interpol,0
+2007-04,Inxs,16
+2007-04,Kaiser Chiefs,0
+2007-04,Linkin Park,0
+2007-04,Modest Mouse,1
+2007-04,New Order,0
+2007-04,Placebo,1
+2007-04,Radiohead,0
+2007-04,Snow Patrol,2
+2007-04,The Beatles,0
+2007-04,The Cure,0
+2007-04,The Goo Goo Dolls,0
+2007-04,The Killers,1
+2007-04,The Strokes,0
+2007-04,U2,0
+2007-05,Arctic Monkeys,6
+2007-05,Coldplay,2
+2007-05,Delays,0
+2007-05,Foo Fighters,3
+2007-05,Franz Ferdinand,5
+2007-05,Interpol,1
+2007-05,Inxs,0
+2007-05,Kaiser Chiefs,1
+2007-05,Linkin Park,0
+2007-05,Modest Mouse,2
+2007-05,New Order,0
+2007-05,Placebo,2
+2007-05,Radiohead,0
+2007-05,Snow Patrol,5
+2007-05,The Beatles,0
+2007-05,The Cure,0
+2007-05,The Goo Goo Dolls,0
+2007-05,The Killers,8
+2007-05,The Strokes,0
+2007-05,U2,0
+2007-06,Arctic Monkeys,23
+2007-06,Coldplay,0
+2007-06,Delays,0
+2007-06,Foo Fighters,210
+2007-06,Franz Ferdinand,1
+2007-06,Interpol,1
+2007-06,Inxs,0
+2007-06,Kaiser Chiefs,15
+2007-06,Linkin Park,6
+2007-06,Modest Mouse,0
+2007-06,New Order,3
+2007-06,Placebo,2
+2007-06,Radiohead,0
+2007-06,Snow Patrol,20
+2007-06,The Beatles,0
+2007-06,The Cure,1
+2007-06,The Goo Goo Dolls,9
+2007-06,The Killers,2
+2007-06,The Strokes,0
+2007-06,U2,0
+2007-07,Arctic Monkeys,0
+2007-07,Coldplay,0
+2007-07,Delays,8
+2007-07,Foo Fighters,9
+2007-07,Franz Ferdinand,0
+2007-07,Interpol,15
+2007-07,Inxs,0
+2007-07,Kaiser Chiefs,70
+2007-07,Linkin Park,13
+2007-07,Modest Mouse,0
+2007-07,New Order,2
+2007-07,Placebo,1
+2007-07,Radiohead,0
+2007-07,Snow Patrol,0
+2007-07,The Beatles,1
+2007-07,The Cure,0
+2007-07,The Goo Goo Dolls,6
+2007-07,The Killers,6
+2007-07,The Strokes,4
+2007-07,U2,1
+2007-08,Arctic Monkeys,1
+2007-08,Coldplay,1
+2007-08,Delays,1
+2007-08,Foo Fighters,0
+2007-08,Franz Ferdinand,0
+2007-08,Interpol,0
+2007-08,Inxs,0
+2007-08,Kaiser Chiefs,1
+2007-08,Linkin Park,3
+2007-08,Modest Mouse,0
+2007-08,New Order,161
+2007-08,Placebo,1
+2007-08,Radiohead,0
+2007-08,Snow Patrol,0
+2007-08,The Beatles,3
+2007-08,The Cure,0
+2007-08,The Goo Goo Dolls,0
+2007-08,The Killers,4
+2007-08,The Strokes,0
+2007-08,U2,1
+2007-09,Arctic Monkeys,0
+2007-09,Coldplay,0
+2007-09,Delays,1
+2007-09,Foo Fighters,0
+2007-09,Franz Ferdinand,1
+2007-09,Interpol,2
+2007-09,Inxs,0
+2007-09,Kaiser Chiefs,0
+2007-09,Linkin Park,0
+2007-09,Modest Mouse,1
+2007-09,New Order,125
+2007-09,Placebo,0
+2007-09,Radiohead,1
+2007-09,Snow Patrol,0
+2007-09,The Beatles,0
+2007-09,The Cure,2
+2007-09,The Goo Goo Dolls,0
+2007-09,The Killers,0
+2007-09,The Strokes,1
+2007-09,U2,0
+2007-10,Arctic Monkeys,15
+2007-10,Coldplay,21
+2007-10,Delays,63
+2007-10,Foo Fighters,3
+2007-10,Franz Ferdinand,19
+2007-10,Interpol,4
+2007-10,Inxs,0
+2007-10,Kaiser Chiefs,18
+2007-10,Linkin Park,8
+2007-10,Modest Mouse,7
+2007-10,New Order,0
+2007-10,Placebo,3
+2007-10,Radiohead,4
+2007-10,Snow Patrol,20
+2007-10,The Beatles,0
+2007-10,The Cure,0
+2007-10,The Goo Goo Dolls,4
+2007-10,The Killers,30
+2007-10,The Strokes,20
+2007-10,U2,0
+2007-11,Arctic Monkeys,0
+2007-11,Coldplay,1
+2007-11,Delays,9
+2007-11,Foo Fighters,1
+2007-11,Franz Ferdinand,0
+2007-11,Interpol,0
+2007-11,Inxs,1
+2007-11,Kaiser Chiefs,2
+2007-11,Linkin Park,0
+2007-11,Modest Mouse,0
+2007-11,New Order,2
+2007-11,Placebo,0
+2007-11,Radiohead,0
+2007-11,Snow Patrol,0
+2007-11,The Beatles,0
+2007-11,The Cure,1
+2007-11,The Goo Goo Dolls,0
+2007-11,The Killers,29
+2007-11,The Strokes,0
+2007-11,U2,0
+2007-12,Arctic Monkeys,0
+2007-12,Coldplay,0
+2007-12,Delays,4
+2007-12,Foo Fighters,8
+2007-12,Franz Ferdinand,0
+2007-12,Interpol,1
+2007-12,Inxs,0
+2007-12,Kaiser Chiefs,24
+2007-12,Linkin Park,3
+2007-12,Modest Mouse,0
+2007-12,New Order,110
+2007-12,Placebo,1
+2007-12,Radiohead,0
+2007-12,Snow Patrol,23
+2007-12,The Beatles,1
+2007-12,The Cure,1
+2007-12,The Goo Goo Dolls,6
+2007-12,The Killers,108
+2007-12,The Strokes,6
+2007-12,U2,5
+2008-01,Arctic Monkeys,0
+2008-01,Coldplay,0
+2008-01,Delays,17
+2008-01,Foo Fighters,2
+2008-01,Franz Ferdinand,0
+2008-01,Interpol,0
+2008-01,Inxs,0
+2008-01,Kaiser Chiefs,0
+2008-01,Linkin Park,2
+2008-01,Modest Mouse,0
+2008-01,New Order,58
+2008-01,Placebo,0
+2008-01,Radiohead,1
+2008-01,Snow Patrol,0
+2008-01,The Beatles,3
+2008-01,The Cure,0
+2008-01,The Goo Goo Dolls,1
+2008-01,The Killers,8
+2008-01,The Strokes,0
+2008-01,U2,0
+2008-02,Arctic Monkeys,0
+2008-02,Coldplay,0
+2008-02,Delays,0
+2008-02,Foo Fighters,12
+2008-02,Franz Ferdinand,0
+2008-02,Interpol,0
+2008-02,Inxs,5
+2008-02,Kaiser Chiefs,17
+2008-02,Linkin Park,19
+2008-02,Modest Mouse,0
+2008-02,New Order,6
+2008-02,Placebo,1
+2008-02,Radiohead,0
+2008-02,Snow Patrol,33
+2008-02,The Beatles,31
+2008-02,The Cure,0
+2008-02,The Goo Goo Dolls,0
+2008-02,The Killers,18
+2008-02,The Strokes,1
+2008-02,U2,2
+2008-03,Arctic Monkeys,2
+2008-03,Coldplay,0
+2008-03,Delays,0
+2008-03,Foo Fighters,3
+2008-03,Franz Ferdinand,0
+2008-03,Interpol,0
+2008-03,Inxs,0
+2008-03,Kaiser Chiefs,4
+2008-03,Linkin Park,0
+2008-03,Modest Mouse,1
+2008-03,New Order,12
+2008-03,Placebo,3
+2008-03,Radiohead,4
+2008-03,Snow Patrol,8
+2008-03,The Beatles,15
+2008-03,The Cure,0
+2008-03,The Goo Goo Dolls,1
+2008-03,The Killers,2
+2008-03,The Strokes,4
+2008-03,U2,2
+2008-04,Arctic Monkeys,0
+2008-04,Coldplay,0
+2008-04,Delays,3
+2008-04,Foo Fighters,0
+2008-04,Franz Ferdinand,0
+2008-04,Interpol,0
+2008-04,Inxs,0
+2008-04,Kaiser Chiefs,1
+2008-04,Linkin Park,0
+2008-04,Modest Mouse,0
+2008-04,New Order,1
+2008-04,Placebo,1
+2008-04,Radiohead,4
+2008-04,Snow Patrol,47
+2008-04,The Beatles,17
+2008-04,The Cure,0
+2008-04,The Goo Goo Dolls,2
+2008-04,The Killers,0
+2008-04,The Strokes,0
+2008-04,U2,0
+2008-05,Arctic Monkeys,224
+2008-05,Coldplay,0
+2008-05,Delays,100
+2008-05,Foo Fighters,2
+2008-05,Franz Ferdinand,3
+2008-05,Interpol,3
+2008-05,Inxs,0
+2008-05,Kaiser Chiefs,4
+2008-05,Linkin Park,1
+2008-05,Modest Mouse,5
+2008-05,New Order,1
+2008-05,Placebo,1
+2008-05,Radiohead,6
+2008-05,Snow Patrol,4
+2008-05,The Beatles,418
+2008-05,The Cure,0
+2008-05,The Goo Goo Dolls,0
+2008-05,The Killers,4
+2008-05,The Strokes,2
+2008-05,U2,0
+2008-06,Arctic Monkeys,4
+2008-06,Coldplay,1
+2008-06,Delays,134
+2008-06,Foo Fighters,2
+2008-06,Franz Ferdinand,0
+2008-06,Interpol,1
+2008-06,Inxs,1
+2008-06,Kaiser Chiefs,0
+2008-06,Linkin Park,0
+2008-06,Modest Mouse,1
+2008-06,New Order,1
+2008-06,Placebo,2
+2008-06,Radiohead,1
+2008-06,Snow Patrol,4
+2008-06,The Beatles,1
+2008-06,The Cure,1
+2008-06,The Goo Goo Dolls,0
+2008-06,The Killers,0
+2008-06,The Strokes,0
+2008-06,U2,0
+2008-07,Arctic Monkeys,6
+2008-07,Coldplay,9
+2008-07,Delays,3
+2008-07,Foo Fighters,0
+2008-07,Franz Ferdinand,12
+2008-07,Interpol,6
+2008-07,Inxs,0
+2008-07,Kaiser Chiefs,6
+2008-07,Linkin Park,0
+2008-07,Modest Mouse,16
+2008-07,New Order,0
+2008-07,Placebo,0
+2008-07,Radiohead,31
+2008-07,Snow Patrol,13
+2008-07,The Beatles,2
+2008-07,The Cure,3
+2008-07,The Goo Goo Dolls,0
+2008-07,The Killers,11
+2008-07,The Strokes,0
+2008-07,U2,0
+2008-08,Arctic Monkeys,23
+2008-08,Coldplay,0
+2008-08,Delays,4
+2008-08,Foo Fighters,9
+2008-08,Franz Ferdinand,4
+2008-08,Interpol,12
+2008-08,Inxs,9
+2008-08,Kaiser Chiefs,10
+2008-08,Linkin Park,5
+2008-08,Modest Mouse,3
+2008-08,New Order,16
+2008-08,Placebo,4
+2008-08,Radiohead,5
+2008-08,Snow Patrol,21
+2008-08,The Beatles,110
+2008-08,The Cure,0
+2008-08,The Goo Goo Dolls,3
+2008-08,The Killers,13
+2008-08,The Strokes,5
+2008-08,U2,1
+2008-09,Arctic Monkeys,9
+2008-09,Coldplay,12
+2008-09,Delays,26
+2008-09,Foo Fighters,21
+2008-09,Franz Ferdinand,8
+2008-09,Interpol,15
+2008-09,Inxs,40
+2008-09,Kaiser Chiefs,12
+2008-09,Linkin Park,23
+2008-09,Modest Mouse,1
+2008-09,New Order,17
+2008-09,Placebo,13
+2008-09,Radiohead,17
+2008-09,Snow Patrol,25
+2008-09,The Beatles,69
+2008-09,The Cure,8
+2008-09,The Goo Goo Dolls,16
+2008-09,The Killers,12
+2008-09,The Strokes,4
+2008-09,U2,17
+2008-10,Arctic Monkeys,5
+2008-10,Coldplay,26
+2008-10,Delays,1
+2008-10,Foo Fighters,27
+2008-10,Franz Ferdinand,3
+2008-10,Interpol,3
+2008-10,Inxs,7
+2008-10,Kaiser Chiefs,46
+2008-10,Linkin Park,1
+2008-10,Modest Mouse,2
+2008-10,New Order,1
+2008-10,Placebo,2
+2008-10,Radiohead,3
+2008-10,Snow Patrol,16
+2008-10,The Beatles,19
+2008-10,The Cure,3
+2008-10,The Goo Goo Dolls,2
+2008-10,The Killers,13
+2008-10,The Strokes,1
+2008-10,U2,9
+2008-11,Arctic Monkeys,0
+2008-11,Coldplay,8
+2008-11,Delays,0
+2008-11,Foo Fighters,1
+2008-11,Franz Ferdinand,0
+2008-11,Interpol,2
+2008-11,Inxs,4
+2008-11,Kaiser Chiefs,1
+2008-11,Linkin Park,4
+2008-11,Modest Mouse,0
+2008-11,New Order,4
+2008-11,Placebo,5
+2008-11,Radiohead,10
+2008-11,Snow Patrol,3
+2008-11,The Beatles,8
+2008-11,The Cure,1
+2008-11,The Goo Goo Dolls,1
+2008-11,The Killers,27
+2008-11,The Strokes,1
+2008-11,U2,5
+2008-12,Arctic Monkeys,0
+2008-12,Coldplay,0
+2008-12,Delays,0
+2008-12,Foo Fighters,0
+2008-12,Franz Ferdinand,0
+2008-12,Interpol,1
+2008-12,Inxs,2
+2008-12,Kaiser Chiefs,0
+2008-12,Linkin Park,0
+2008-12,Modest Mouse,0
+2008-12,New Order,2
+2008-12,Placebo,0
+2008-12,Radiohead,1
+2008-12,Snow Patrol,1
+2008-12,The Beatles,0
+2008-12,The Cure,0
+2008-12,The Goo Goo Dolls,0
+2008-12,The Killers,0
+2008-12,The Strokes,0
+2008-12,U2,1
+2009-01,Arctic Monkeys,1
+2009-01,Coldplay,4
+2009-01,Delays,3
+2009-01,Foo Fighters,2
+2009-01,Franz Ferdinand,2
+2009-01,Interpol,6
+2009-01,Inxs,7
+2009-01,Kaiser Chiefs,4
+2009-01,Linkin Park,2
+2009-01,Modest Mouse,2
+2009-01,New Order,7
+2009-01,Placebo,2
+2009-01,Radiohead,2
+2009-01,Snow Patrol,5
+2009-01,The Beatles,10
+2009-01,The Cure,8
+2009-01,The Goo Goo Dolls,3
+2009-01,The Killers,2
+2009-01,The Strokes,0
+2009-01,U2,2
+2009-02,Arctic Monkeys,2
+2009-02,Coldplay,5
+2009-02,Delays,2
+2009-02,Foo Fighters,1
+2009-02,Franz Ferdinand,6
+2009-02,Interpol,3
+2009-02,Inxs,7
+2009-02,Kaiser Chiefs,1
+2009-02,Linkin Park,4
+2009-02,Modest Mouse,1
+2009-02,New Order,7
+2009-02,Placebo,2
+2009-02,Radiohead,5
+2009-02,Snow Patrol,19
+2009-02,The Beatles,23
+2009-02,The Cure,14
+2009-02,The Goo Goo Dolls,12
+2009-02,The Killers,10
+2009-02,The Strokes,3
+2009-02,U2,5
+2009-03,Arctic Monkeys,2
+2009-03,Coldplay,2
+2009-03,Delays,0
+2009-03,Foo Fighters,1
+2009-03,Franz Ferdinand,0
+2009-03,Interpol,0
+2009-03,Inxs,0
+2009-03,Kaiser Chiefs,1
+2009-03,Linkin Park,0
+2009-03,Modest Mouse,0
+2009-03,New Order,1
+2009-03,Placebo,0
+2009-03,Radiohead,1
+2009-03,Snow Patrol,26
+2009-03,The Beatles,9
+2009-03,The Cure,1
+2009-03,The Goo Goo Dolls,1
+2009-03,The Killers,12
+2009-03,The Strokes,2
+2009-03,U2,3
+2009-04,Arctic Monkeys,2
+2009-04,Coldplay,6
+2009-04,Delays,2
+2009-04,Foo Fighters,4
+2009-04,Franz Ferdinand,12
+2009-04,Interpol,1
+2009-04,Inxs,6
+2009-04,Kaiser Chiefs,6
+2009-04,Linkin Park,4
+2009-04,Modest Mouse,1
+2009-04,New Order,8
+2009-04,Placebo,3
+2009-04,Radiohead,6
+2009-04,Snow Patrol,4
+2009-04,The Beatles,19
+2009-04,The Cure,8
+2009-04,The Goo Goo Dolls,4
+2009-04,The Killers,9
+2009-04,The Strokes,1
+2009-04,U2,5

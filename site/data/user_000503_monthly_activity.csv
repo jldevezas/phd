@@ -1,0 +1,841 @@
+month,artist,plays
+2005-12,Arab Strap,0
+2005-12,Björk,0
+2005-12,Boy Omega,0
+2005-12,Bright Eyes,15
+2005-12,Damien Rice,0
+2005-12,Death From Above 1979,1
+2005-12,Eels,0
+2005-12,Elbow,2
+2005-12,Foo Fighters,9
+2005-12,Iamx,0
+2005-12,Incubus,12
+2005-12,Kasabian,0
+2005-12,Kettcar,2
+2005-12,Nine Inch Nails,0
+2005-12,Pearl Jam,0
+2005-12,Pj Harvey,0
+2005-12,Placebo,68
+2005-12,Radiohead,0
+2005-12,The Cooper Temple Clause,0
+2005-12,The Frames,0
+2006-01,Arab Strap,0
+2006-01,Björk,1
+2006-01,Boy Omega,0
+2006-01,Bright Eyes,176
+2006-01,Damien Rice,0
+2006-01,Death From Above 1979,35
+2006-01,Eels,9
+2006-01,Elbow,3
+2006-01,Foo Fighters,31
+2006-01,Iamx,0
+2006-01,Incubus,40
+2006-01,Kasabian,0
+2006-01,Kettcar,2
+2006-01,Nine Inch Nails,1
+2006-01,Pearl Jam,0
+2006-01,Pj Harvey,1
+2006-01,Placebo,646
+2006-01,Radiohead,27
+2006-01,The Cooper Temple Clause,0
+2006-01,The Frames,0
+2006-02,Arab Strap,0
+2006-02,Björk,0
+2006-02,Boy Omega,0
+2006-02,Bright Eyes,25
+2006-02,Damien Rice,0
+2006-02,Death From Above 1979,0
+2006-02,Eels,6
+2006-02,Elbow,0
+2006-02,Foo Fighters,0
+2006-02,Iamx,0
+2006-02,Incubus,5
+2006-02,Kasabian,0
+2006-02,Kettcar,3
+2006-02,Nine Inch Nails,0
+2006-02,Pearl Jam,0
+2006-02,Pj Harvey,0
+2006-02,Placebo,131
+2006-02,Radiohead,14
+2006-02,The Cooper Temple Clause,0
+2006-02,The Frames,0
+2006-03,Arab Strap,0
+2006-03,Björk,0
+2006-03,Boy Omega,0
+2006-03,Bright Eyes,160
+2006-03,Damien Rice,0
+2006-03,Death From Above 1979,0
+2006-03,Eels,47
+2006-03,Elbow,0
+2006-03,Foo Fighters,0
+2006-03,Iamx,8
+2006-03,Incubus,1
+2006-03,Kasabian,0
+2006-03,Kettcar,38
+2006-03,Nine Inch Nails,0
+2006-03,Pearl Jam,0
+2006-03,Pj Harvey,0
+2006-03,Placebo,256
+2006-03,Radiohead,69
+2006-03,The Cooper Temple Clause,0
+2006-03,The Frames,0
+2006-04,Arab Strap,0
+2006-04,Björk,0
+2006-04,Boy Omega,0
+2006-04,Bright Eyes,25
+2006-04,Damien Rice,0
+2006-04,Death From Above 1979,0
+2006-04,Eels,9
+2006-04,Elbow,10
+2006-04,Foo Fighters,0
+2006-04,Iamx,5
+2006-04,Incubus,0
+2006-04,Kasabian,0
+2006-04,Kettcar,18
+2006-04,Nine Inch Nails,0
+2006-04,Pearl Jam,0
+2006-04,Pj Harvey,1
+2006-04,Placebo,1589
+2006-04,Radiohead,1
+2006-04,The Cooper Temple Clause,0
+2006-04,The Frames,0
+2006-05,Arab Strap,0
+2006-05,Björk,0
+2006-05,Boy Omega,0
+2006-05,Bright Eyes,43
+2006-05,Damien Rice,0
+2006-05,Death From Above 1979,1
+2006-05,Eels,0
+2006-05,Elbow,70
+2006-05,Foo Fighters,13
+2006-05,Iamx,48
+2006-05,Incubus,21
+2006-05,Kasabian,0
+2006-05,Kettcar,52
+2006-05,Nine Inch Nails,8
+2006-05,Pearl Jam,2
+2006-05,Pj Harvey,24
+2006-05,Placebo,109
+2006-05,Radiohead,66
+2006-05,The Cooper Temple Clause,51
+2006-05,The Frames,0
+2006-06,Arab Strap,0
+2006-06,Björk,100
+2006-06,Boy Omega,0
+2006-06,Bright Eyes,70
+2006-06,Damien Rice,0
+2006-06,Death From Above 1979,0
+2006-06,Eels,7
+2006-06,Elbow,27
+2006-06,Foo Fighters,24
+2006-06,Iamx,353
+2006-06,Incubus,10
+2006-06,Kasabian,35
+2006-06,Kettcar,18
+2006-06,Nine Inch Nails,6
+2006-06,Pearl Jam,0
+2006-06,Pj Harvey,124
+2006-06,Placebo,87
+2006-06,Radiohead,7
+2006-06,The Cooper Temple Clause,54
+2006-06,The Frames,0
+2006-07,Arab Strap,0
+2006-07,Björk,5
+2006-07,Boy Omega,0
+2006-07,Bright Eyes,82
+2006-07,Damien Rice,0
+2006-07,Death From Above 1979,3
+2006-07,Eels,1
+2006-07,Elbow,13
+2006-07,Foo Fighters,2
+2006-07,Iamx,108
+2006-07,Incubus,1
+2006-07,Kasabian,1
+2006-07,Kettcar,0
+2006-07,Nine Inch Nails,15
+2006-07,Pearl Jam,6
+2006-07,Pj Harvey,57
+2006-07,Placebo,56
+2006-07,Radiohead,0
+2006-07,The Cooper Temple Clause,37
+2006-07,The Frames,7
+2006-08,Arab Strap,0
+2006-08,Björk,1
+2006-08,Boy Omega,195
+2006-08,Bright Eyes,11
+2006-08,Damien Rice,0
+2006-08,Death From Above 1979,6
+2006-08,Eels,5
+2006-08,Elbow,6
+2006-08,Foo Fighters,2
+2006-08,Iamx,223
+2006-08,Incubus,0
+2006-08,Kasabian,1
+2006-08,Kettcar,14
+2006-08,Nine Inch Nails,0
+2006-08,Pearl Jam,0
+2006-08,Pj Harvey,0
+2006-08,Placebo,146
+2006-08,Radiohead,1
+2006-08,The Cooper Temple Clause,39
+2006-08,The Frames,1
+2006-09,Arab Strap,0
+2006-09,Björk,0
+2006-09,Boy Omega,10
+2006-09,Bright Eyes,2
+2006-09,Damien Rice,0
+2006-09,Death From Above 1979,10
+2006-09,Eels,0
+2006-09,Elbow,2
+2006-09,Foo Fighters,0
+2006-09,Iamx,28
+2006-09,Incubus,6
+2006-09,Kasabian,38
+2006-09,Kettcar,32
+2006-09,Nine Inch Nails,1
+2006-09,Pearl Jam,0
+2006-09,Pj Harvey,4
+2006-09,Placebo,0
+2006-09,Radiohead,8
+2006-09,The Cooper Temple Clause,0
+2006-09,The Frames,31
+2006-10,Arab Strap,0
+2006-10,Björk,0
+2006-10,Boy Omega,51
+2006-10,Bright Eyes,7
+2006-10,Damien Rice,0
+2006-10,Death From Above 1979,7
+2006-10,Eels,0
+2006-10,Elbow,5
+2006-10,Foo Fighters,1
+2006-10,Iamx,20
+2006-10,Incubus,16
+2006-10,Kasabian,17
+2006-10,Kettcar,18
+2006-10,Nine Inch Nails,8
+2006-10,Pearl Jam,102
+2006-10,Pj Harvey,0
+2006-10,Placebo,11
+2006-10,Radiohead,5
+2006-10,The Cooper Temple Clause,17
+2006-10,The Frames,16
+2006-11,Arab Strap,0
+2006-11,Björk,0
+2006-11,Boy Omega,15
+2006-11,Bright Eyes,0
+2006-11,Damien Rice,0
+2006-11,Death From Above 1979,18
+2006-11,Eels,0
+2006-11,Elbow,3
+2006-11,Foo Fighters,0
+2006-11,Iamx,69
+2006-11,Incubus,29
+2006-11,Kasabian,12
+2006-11,Kettcar,87
+2006-11,Nine Inch Nails,0
+2006-11,Pearl Jam,72
+2006-11,Pj Harvey,0
+2006-11,Placebo,2
+2006-11,Radiohead,13
+2006-11,The Cooper Temple Clause,126
+2006-11,The Frames,9
+2006-12,Arab Strap,83
+2006-12,Björk,5
+2006-12,Boy Omega,9
+2006-12,Bright Eyes,5
+2006-12,Damien Rice,0
+2006-12,Death From Above 1979,0
+2006-12,Eels,0
+2006-12,Elbow,0
+2006-12,Foo Fighters,0
+2006-12,Iamx,174
+2006-12,Incubus,19
+2006-12,Kasabian,8
+2006-12,Kettcar,108
+2006-12,Nine Inch Nails,16
+2006-12,Pearl Jam,36
+2006-12,Pj Harvey,0
+2006-12,Placebo,2
+2006-12,Radiohead,1
+2006-12,The Cooper Temple Clause,411
+2006-12,The Frames,66
+2007-01,Arab Strap,8
+2007-01,Björk,0
+2007-01,Boy Omega,0
+2007-01,Bright Eyes,1
+2007-01,Damien Rice,0
+2007-01,Death From Above 1979,1
+2007-01,Eels,0
+2007-01,Elbow,0
+2007-01,Foo Fighters,0
+2007-01,Iamx,5
+2007-01,Incubus,0
+2007-01,Kasabian,2
+2007-01,Kettcar,13
+2007-01,Nine Inch Nails,63
+2007-01,Pearl Jam,108
+2007-01,Pj Harvey,0
+2007-01,Placebo,17
+2007-01,Radiohead,0
+2007-01,The Cooper Temple Clause,174
+2007-01,The Frames,0
+2007-02,Arab Strap,72
+2007-02,Björk,7
+2007-02,Boy Omega,40
+2007-02,Bright Eyes,24
+2007-02,Damien Rice,4
+2007-02,Death From Above 1979,0
+2007-02,Eels,38
+2007-02,Elbow,29
+2007-02,Foo Fighters,18
+2007-02,Iamx,0
+2007-02,Incubus,14
+2007-02,Kasabian,1
+2007-02,Kettcar,1
+2007-02,Nine Inch Nails,1
+2007-02,Pearl Jam,21
+2007-02,Pj Harvey,19
+2007-02,Placebo,87
+2007-02,Radiohead,0
+2007-02,The Cooper Temple Clause,9
+2007-02,The Frames,61
+2007-03,Arab Strap,44
+2007-03,Björk,12
+2007-03,Boy Omega,9
+2007-03,Bright Eyes,4
+2007-03,Damien Rice,0
+2007-03,Death From Above 1979,0
+2007-03,Eels,8
+2007-03,Elbow,27
+2007-03,Foo Fighters,2
+2007-03,Iamx,14
+2007-03,Incubus,0
+2007-03,Kasabian,0
+2007-03,Kettcar,7
+2007-03,Nine Inch Nails,13
+2007-03,Pearl Jam,18
+2007-03,Pj Harvey,9
+2007-03,Placebo,2
+2007-03,Radiohead,14
+2007-03,The Cooper Temple Clause,64
+2007-03,The Frames,96
+2007-04,Arab Strap,42
+2007-04,Björk,27
+2007-04,Boy Omega,5
+2007-04,Bright Eyes,6
+2007-04,Damien Rice,0
+2007-04,Death From Above 1979,0
+2007-04,Eels,8
+2007-04,Elbow,23
+2007-04,Foo Fighters,12
+2007-04,Iamx,5
+2007-04,Incubus,0
+2007-04,Kasabian,0
+2007-04,Kettcar,33
+2007-04,Nine Inch Nails,28
+2007-04,Pearl Jam,0
+2007-04,Pj Harvey,32
+2007-04,Placebo,7
+2007-04,Radiohead,3
+2007-04,The Cooper Temple Clause,140
+2007-04,The Frames,82
+2007-05,Arab Strap,33
+2007-05,Björk,20
+2007-05,Boy Omega,11
+2007-05,Bright Eyes,13
+2007-05,Damien Rice,0
+2007-05,Death From Above 1979,3
+2007-05,Eels,3
+2007-05,Elbow,46
+2007-05,Foo Fighters,5
+2007-05,Iamx,7
+2007-05,Incubus,2
+2007-05,Kasabian,0
+2007-05,Kettcar,27
+2007-05,Nine Inch Nails,43
+2007-05,Pearl Jam,60
+2007-05,Pj Harvey,22
+2007-05,Placebo,2
+2007-05,Radiohead,3
+2007-05,The Cooper Temple Clause,11
+2007-05,The Frames,48
+2007-06,Arab Strap,0
+2007-06,Björk,7
+2007-06,Boy Omega,3
+2007-06,Bright Eyes,49
+2007-06,Damien Rice,13
+2007-06,Death From Above 1979,4
+2007-06,Eels,0
+2007-06,Elbow,0
+2007-06,Foo Fighters,1
+2007-06,Iamx,29
+2007-06,Incubus,38
+2007-06,Kasabian,0
+2007-06,Kettcar,17
+2007-06,Nine Inch Nails,32
+2007-06,Pearl Jam,278
+2007-06,Pj Harvey,2
+2007-06,Placebo,9
+2007-06,Radiohead,0
+2007-06,The Cooper Temple Clause,7
+2007-06,The Frames,3
+2007-07,Arab Strap,42
+2007-07,Björk,31
+2007-07,Boy Omega,19
+2007-07,Bright Eyes,23
+2007-07,Damien Rice,4
+2007-07,Death From Above 1979,10
+2007-07,Eels,1
+2007-07,Elbow,3
+2007-07,Foo Fighters,1
+2007-07,Iamx,15
+2007-07,Incubus,19
+2007-07,Kasabian,0
+2007-07,Kettcar,0
+2007-07,Nine Inch Nails,264
+2007-07,Pearl Jam,306
+2007-07,Pj Harvey,0
+2007-07,Placebo,2
+2007-07,Radiohead,6
+2007-07,The Cooper Temple Clause,172
+2007-07,The Frames,104
+2007-08,Arab Strap,30
+2007-08,Björk,5
+2007-08,Boy Omega,0
+2007-08,Bright Eyes,4
+2007-08,Damien Rice,1
+2007-08,Death From Above 1979,7
+2007-08,Eels,1
+2007-08,Elbow,0
+2007-08,Foo Fighters,0
+2007-08,Iamx,4
+2007-08,Incubus,7
+2007-08,Kasabian,0
+2007-08,Kettcar,1
+2007-08,Nine Inch Nails,144
+2007-08,Pearl Jam,225
+2007-08,Pj Harvey,0
+2007-08,Placebo,46
+2007-08,Radiohead,0
+2007-08,The Cooper Temple Clause,33
+2007-08,The Frames,82
+2007-09,Arab Strap,0
+2007-09,Björk,8
+2007-09,Boy Omega,18
+2007-09,Bright Eyes,20
+2007-09,Damien Rice,1
+2007-09,Death From Above 1979,6
+2007-09,Eels,0
+2007-09,Elbow,7
+2007-09,Foo Fighters,14
+2007-09,Iamx,45
+2007-09,Incubus,1
+2007-09,Kasabian,0
+2007-09,Kettcar,0
+2007-09,Nine Inch Nails,42
+2007-09,Pearl Jam,55
+2007-09,Pj Harvey,47
+2007-09,Placebo,0
+2007-09,Radiohead,0
+2007-09,The Cooper Temple Clause,24
+2007-09,The Frames,353
+2007-10,Arab Strap,54
+2007-10,Björk,27
+2007-10,Boy Omega,2
+2007-10,Bright Eyes,4
+2007-10,Damien Rice,27
+2007-10,Death From Above 1979,21
+2007-10,Eels,0
+2007-10,Elbow,0
+2007-10,Foo Fighters,9
+2007-10,Iamx,85
+2007-10,Incubus,9
+2007-10,Kasabian,0
+2007-10,Kettcar,0
+2007-10,Nine Inch Nails,50
+2007-10,Pearl Jam,101
+2007-10,Pj Harvey,1
+2007-10,Placebo,6
+2007-10,Radiohead,140
+2007-10,The Cooper Temple Clause,101
+2007-10,The Frames,137
+2007-11,Arab Strap,1
+2007-11,Björk,17
+2007-11,Boy Omega,6
+2007-11,Bright Eyes,9
+2007-11,Damien Rice,19
+2007-11,Death From Above 1979,3
+2007-11,Eels,1
+2007-11,Elbow,0
+2007-11,Foo Fighters,20
+2007-11,Iamx,0
+2007-11,Incubus,1
+2007-11,Kasabian,2
+2007-11,Kettcar,1
+2007-11,Nine Inch Nails,81
+2007-11,Pearl Jam,88
+2007-11,Pj Harvey,1
+2007-11,Placebo,0
+2007-11,Radiohead,51
+2007-11,The Cooper Temple Clause,66
+2007-11,The Frames,142
+2007-12,Arab Strap,3
+2007-12,Björk,0
+2007-12,Boy Omega,1
+2007-12,Bright Eyes,7
+2007-12,Damien Rice,2
+2007-12,Death From Above 1979,12
+2007-12,Eels,0
+2007-12,Elbow,20
+2007-12,Foo Fighters,1
+2007-12,Iamx,6
+2007-12,Incubus,0
+2007-12,Kasabian,2
+2007-12,Kettcar,0
+2007-12,Nine Inch Nails,61
+2007-12,Pearl Jam,193
+2007-12,Pj Harvey,0
+2007-12,Placebo,0
+2007-12,Radiohead,162
+2007-12,The Cooper Temple Clause,9
+2007-12,The Frames,344
+2008-01,Arab Strap,0
+2008-01,Björk,1
+2008-01,Boy Omega,19
+2008-01,Bright Eyes,0
+2008-01,Damien Rice,7
+2008-01,Death From Above 1979,0
+2008-01,Eels,1
+2008-01,Elbow,35
+2008-01,Foo Fighters,1
+2008-01,Iamx,0
+2008-01,Incubus,6
+2008-01,Kasabian,13
+2008-01,Kettcar,0
+2008-01,Nine Inch Nails,45
+2008-01,Pearl Jam,125
+2008-01,Pj Harvey,0
+2008-01,Placebo,0
+2008-01,Radiohead,34
+2008-01,The Cooper Temple Clause,133
+2008-01,The Frames,259
+2008-02,Arab Strap,71
+2008-02,Björk,29
+2008-02,Boy Omega,18
+2008-02,Bright Eyes,5
+2008-02,Damien Rice,59
+2008-02,Death From Above 1979,4
+2008-02,Eels,2
+2008-02,Elbow,57
+2008-02,Foo Fighters,2
+2008-02,Iamx,16
+2008-02,Incubus,2
+2008-02,Kasabian,0
+2008-02,Kettcar,0
+2008-02,Nine Inch Nails,47
+2008-02,Pearl Jam,118
+2008-02,Pj Harvey,3
+2008-02,Placebo,0
+2008-02,Radiohead,32
+2008-02,The Cooper Temple Clause,63
+2008-02,The Frames,84
+2008-03,Arab Strap,11
+2008-03,Björk,35
+2008-03,Boy Omega,10
+2008-03,Bright Eyes,0
+2008-03,Damien Rice,40
+2008-03,Death From Above 1979,0
+2008-03,Eels,4
+2008-03,Elbow,18
+2008-03,Foo Fighters,2
+2008-03,Iamx,0
+2008-03,Incubus,0
+2008-03,Kasabian,0
+2008-03,Kettcar,5
+2008-03,Nine Inch Nails,830
+2008-03,Pearl Jam,270
+2008-03,Pj Harvey,1
+2008-03,Placebo,1
+2008-03,Radiohead,37
+2008-03,The Cooper Temple Clause,266
+2008-03,The Frames,68
+2008-04,Arab Strap,21
+2008-04,Björk,1
+2008-04,Boy Omega,7
+2008-04,Bright Eyes,0
+2008-04,Damien Rice,14
+2008-04,Death From Above 1979,4
+2008-04,Eels,0
+2008-04,Elbow,82
+2008-04,Foo Fighters,0
+2008-04,Iamx,71
+2008-04,Incubus,0
+2008-04,Kasabian,1
+2008-04,Kettcar,17
+2008-04,Nine Inch Nails,1056
+2008-04,Pearl Jam,30
+2008-04,Pj Harvey,0
+2008-04,Placebo,0
+2008-04,Radiohead,1
+2008-04,The Cooper Temple Clause,327
+2008-04,The Frames,24
+2008-05,Arab Strap,1
+2008-05,Björk,2
+2008-05,Boy Omega,3
+2008-05,Bright Eyes,0
+2008-05,Damien Rice,10
+2008-05,Death From Above 1979,0
+2008-05,Eels,0
+2008-05,Elbow,16
+2008-05,Foo Fighters,1
+2008-05,Iamx,0
+2008-05,Incubus,0
+2008-05,Kasabian,0
+2008-05,Kettcar,1
+2008-05,Nine Inch Nails,292
+2008-05,Pearl Jam,102
+2008-05,Pj Harvey,0
+2008-05,Placebo,0
+2008-05,Radiohead,10
+2008-05,The Cooper Temple Clause,114
+2008-05,The Frames,14
+2008-06,Arab Strap,2
+2008-06,Björk,0
+2008-06,Boy Omega,0
+2008-06,Bright Eyes,0
+2008-06,Damien Rice,13
+2008-06,Death From Above 1979,4
+2008-06,Eels,0
+2008-06,Elbow,15
+2008-06,Foo Fighters,0
+2008-06,Iamx,2
+2008-06,Incubus,0
+2008-06,Kasabian,0
+2008-06,Kettcar,0
+2008-06,Nine Inch Nails,209
+2008-06,Pearl Jam,69
+2008-06,Pj Harvey,12
+2008-06,Placebo,0
+2008-06,Radiohead,12
+2008-06,The Cooper Temple Clause,4
+2008-06,The Frames,33
+2008-07,Arab Strap,1
+2008-07,Björk,1
+2008-07,Boy Omega,1
+2008-07,Bright Eyes,0
+2008-07,Damien Rice,3
+2008-07,Death From Above 1979,0
+2008-07,Eels,0
+2008-07,Elbow,9
+2008-07,Foo Fighters,0
+2008-07,Iamx,0
+2008-07,Incubus,0
+2008-07,Kasabian,0
+2008-07,Kettcar,1
+2008-07,Nine Inch Nails,133
+2008-07,Pearl Jam,13
+2008-07,Pj Harvey,8
+2008-07,Placebo,0
+2008-07,Radiohead,0
+2008-07,The Cooper Temple Clause,36
+2008-07,The Frames,1
+2008-08,Arab Strap,1
+2008-08,Björk,1
+2008-08,Boy Omega,1
+2008-08,Bright Eyes,57
+2008-08,Damien Rice,2
+2008-08,Death From Above 1979,0
+2008-08,Eels,0
+2008-08,Elbow,36
+2008-08,Foo Fighters,0
+2008-08,Iamx,0
+2008-08,Incubus,8
+2008-08,Kasabian,4
+2008-08,Kettcar,11
+2008-08,Nine Inch Nails,137
+2008-08,Pearl Jam,3
+2008-08,Pj Harvey,1
+2008-08,Placebo,0
+2008-08,Radiohead,0
+2008-08,The Cooper Temple Clause,38
+2008-08,The Frames,89
+2008-09,Arab Strap,0
+2008-09,Björk,0
+2008-09,Boy Omega,0
+2008-09,Bright Eyes,1
+2008-09,Damien Rice,0
+2008-09,Death From Above 1979,0
+2008-09,Eels,1
+2008-09,Elbow,65
+2008-09,Foo Fighters,0
+2008-09,Iamx,4
+2008-09,Incubus,0
+2008-09,Kasabian,0
+2008-09,Kettcar,0
+2008-09,Nine Inch Nails,102
+2008-09,Pearl Jam,0
+2008-09,Pj Harvey,0
+2008-09,Placebo,0
+2008-09,Radiohead,0
+2008-09,The Cooper Temple Clause,0
+2008-09,The Frames,1
+2008-10,Arab Strap,1
+2008-10,Björk,1
+2008-10,Boy Omega,5
+2008-10,Bright Eyes,1
+2008-10,Damien Rice,6
+2008-10,Death From Above 1979,0
+2008-10,Eels,6
+2008-10,Elbow,5
+2008-10,Foo Fighters,2
+2008-10,Iamx,0
+2008-10,Incubus,0
+2008-10,Kasabian,6
+2008-10,Kettcar,0
+2008-10,Nine Inch Nails,135
+2008-10,Pearl Jam,0
+2008-10,Pj Harvey,6
+2008-10,Placebo,0
+2008-10,Radiohead,0
+2008-10,The Cooper Temple Clause,8
+2008-10,The Frames,0
+2008-11,Arab Strap,19
+2008-11,Björk,0
+2008-11,Boy Omega,27
+2008-11,Bright Eyes,22
+2008-11,Damien Rice,1
+2008-11,Death From Above 1979,0
+2008-11,Eels,20
+2008-11,Elbow,73
+2008-11,Foo Fighters,0
+2008-11,Iamx,1
+2008-11,Incubus,8
+2008-11,Kasabian,13
+2008-11,Kettcar,53
+2008-11,Nine Inch Nails,75
+2008-11,Pearl Jam,0
+2008-11,Pj Harvey,8
+2008-11,Placebo,23
+2008-11,Radiohead,0
+2008-11,The Cooper Temple Clause,13
+2008-11,The Frames,37
+2008-12,Arab Strap,3
+2008-12,Björk,0
+2008-12,Boy Omega,0
+2008-12,Bright Eyes,39
+2008-12,Damien Rice,0
+2008-12,Death From Above 1979,0
+2008-12,Eels,3
+2008-12,Elbow,9
+2008-12,Foo Fighters,1
+2008-12,Iamx,0
+2008-12,Incubus,2
+2008-12,Kasabian,3
+2008-12,Kettcar,4
+2008-12,Nine Inch Nails,35
+2008-12,Pearl Jam,0
+2008-12,Pj Harvey,54
+2008-12,Placebo,1
+2008-12,Radiohead,0
+2008-12,The Cooper Temple Clause,8
+2008-12,The Frames,4
+2009-01,Arab Strap,0
+2009-01,Björk,5
+2009-01,Boy Omega,0
+2009-01,Bright Eyes,15
+2009-01,Damien Rice,16
+2009-01,Death From Above 1979,0
+2009-01,Eels,13
+2009-01,Elbow,46
+2009-01,Foo Fighters,6
+2009-01,Iamx,0
+2009-01,Incubus,0
+2009-01,Kasabian,1
+2009-01,Kettcar,0
+2009-01,Nine Inch Nails,1498
+2009-01,Pearl Jam,70
+2009-01,Pj Harvey,1
+2009-01,Placebo,1
+2009-01,Radiohead,0
+2009-01,The Cooper Temple Clause,24
+2009-01,The Frames,7
+2009-02,Arab Strap,0
+2009-02,Björk,16
+2009-02,Boy Omega,0
+2009-02,Bright Eyes,1
+2009-02,Damien Rice,16
+2009-02,Death From Above 1979,13
+2009-02,Eels,1
+2009-02,Elbow,87
+2009-02,Foo Fighters,2
+2009-02,Iamx,4
+2009-02,Incubus,0
+2009-02,Kasabian,0
+2009-02,Kettcar,1
+2009-02,Nine Inch Nails,785
+2009-02,Pearl Jam,42
+2009-02,Pj Harvey,6
+2009-02,Placebo,1
+2009-02,Radiohead,0
+2009-02,The Cooper Temple Clause,29
+2009-02,The Frames,3
+2009-03,Arab Strap,0
+2009-03,Björk,1
+2009-03,Boy Omega,2
+2009-03,Bright Eyes,0
+2009-03,Damien Rice,1
+2009-03,Death From Above 1979,0
+2009-03,Eels,0
+2009-03,Elbow,245
+2009-03,Foo Fighters,0
+2009-03,Iamx,48
+2009-03,Incubus,0
+2009-03,Kasabian,3
+2009-03,Kettcar,0
+2009-03,Nine Inch Nails,27
+2009-03,Pearl Jam,12
+2009-03,Pj Harvey,1
+2009-03,Placebo,12
+2009-03,Radiohead,0
+2009-03,The Cooper Temple Clause,14
+2009-03,The Frames,0
+2009-04,Arab Strap,2
+2009-04,Björk,0
+2009-04,Boy Omega,2
+2009-04,Bright Eyes,0
+2009-04,Damien Rice,0
+2009-04,Death From Above 1979,0
+2009-04,Eels,0
+2009-04,Elbow,9
+2009-04,Foo Fighters,0
+2009-04,Iamx,103
+2009-04,Incubus,6
+2009-04,Kasabian,8
+2009-04,Kettcar,2
+2009-04,Nine Inch Nails,42
+2009-04,Pearl Jam,0
+2009-04,Pj Harvey,1
+2009-04,Placebo,1
+2009-04,Radiohead,0
+2009-04,The Cooper Temple Clause,134
+2009-04,The Frames,4
+2009-05,Arab Strap,0
+2009-05,Björk,0
+2009-05,Boy Omega,0
+2009-05,Bright Eyes,0
+2009-05,Damien Rice,0
+2009-05,Death From Above 1979,0
+2009-05,Eels,0
+2009-05,Elbow,0
+2009-05,Foo Fighters,0
+2009-05,Iamx,0
+2009-05,Incubus,0
+2009-05,Kasabian,0
+2009-05,Kettcar,0
+2009-05,Nine Inch Nails,6
+2009-05,Pearl Jam,1
+2009-05,Pj Harvey,0
+2009-05,Placebo,1
+2009-05,Radiohead,0
+2009-05,The Cooper Temple Clause,0
+2009-05,The Frames,1

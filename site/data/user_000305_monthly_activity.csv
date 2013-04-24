@@ -1,0 +1,681 @@
+month,artist,plays
+2006-04,Agalloch,0
+2006-04,America,0
+2006-04,Black Lips,0
+2006-04,Bob Dylan,0
+2006-04,Bruce Springsteen,0
+2006-04,Clint Mansell,0
+2006-04,Cream,0
+2006-04,Creedence Clearwater Revisited,0
+2006-04,Finntroll,0
+2006-04,Guns N' Roses,6
+2006-04,In Flames,3
+2006-04,Manu Chao,0
+2006-04,Opeth,14
+2006-04,Porcupine Tree,0
+2006-04,Radiohead,0
+2006-04,Red Hot Chili Peppers,18
+2006-04,The Libertines,0
+2006-04,The Rolling Stones,0
+2006-04,The White Stripes,0
+2006-04,Tool,0
+2006-05,Agalloch,0
+2006-05,America,0
+2006-05,Black Lips,0
+2006-05,Bob Dylan,0
+2006-05,Bruce Springsteen,0
+2006-05,Clint Mansell,0
+2006-05,Cream,0
+2006-05,Creedence Clearwater Revisited,0
+2006-05,Finntroll,0
+2006-05,Guns N' Roses,6
+2006-05,In Flames,66
+2006-05,Manu Chao,0
+2006-05,Opeth,98
+2006-05,Porcupine Tree,1
+2006-05,Radiohead,0
+2006-05,Red Hot Chili Peppers,18
+2006-05,The Libertines,0
+2006-05,The Rolling Stones,0
+2006-05,The White Stripes,0
+2006-05,Tool,26
+2006-06,Agalloch,9
+2006-06,America,0
+2006-06,Black Lips,0
+2006-06,Bob Dylan,0
+2006-06,Bruce Springsteen,0
+2006-06,Clint Mansell,0
+2006-06,Cream,0
+2006-06,Creedence Clearwater Revisited,0
+2006-06,Finntroll,0
+2006-06,Guns N' Roses,2
+2006-06,In Flames,43
+2006-06,Manu Chao,0
+2006-06,Opeth,25
+2006-06,Porcupine Tree,0
+2006-06,Radiohead,0
+2006-06,Red Hot Chili Peppers,9
+2006-06,The Libertines,0
+2006-06,The Rolling Stones,11
+2006-06,The White Stripes,0
+2006-06,Tool,6
+2006-07,Agalloch,2
+2006-07,America,0
+2006-07,Black Lips,0
+2006-07,Bob Dylan,0
+2006-07,Bruce Springsteen,0
+2006-07,Clint Mansell,0
+2006-07,Cream,0
+2006-07,Creedence Clearwater Revisited,0
+2006-07,Finntroll,0
+2006-07,Guns N' Roses,0
+2006-07,In Flames,1
+2006-07,Manu Chao,0
+2006-07,Opeth,2
+2006-07,Porcupine Tree,85
+2006-07,Radiohead,0
+2006-07,Red Hot Chili Peppers,0
+2006-07,The Libertines,0
+2006-07,The Rolling Stones,10
+2006-07,The White Stripes,0
+2006-07,Tool,0
+2006-08,Agalloch,24
+2006-08,America,0
+2006-08,Black Lips,0
+2006-08,Bob Dylan,0
+2006-08,Bruce Springsteen,0
+2006-08,Clint Mansell,0
+2006-08,Cream,0
+2006-08,Creedence Clearwater Revisited,0
+2006-08,Finntroll,140
+2006-08,Guns N' Roses,1
+2006-08,In Flames,0
+2006-08,Manu Chao,0
+2006-08,Opeth,2
+2006-08,Porcupine Tree,4
+2006-08,Radiohead,0
+2006-08,Red Hot Chili Peppers,0
+2006-08,The Libertines,0
+2006-08,The Rolling Stones,3
+2006-08,The White Stripes,0
+2006-08,Tool,2
+2006-09,Agalloch,20
+2006-09,America,0
+2006-09,Black Lips,0
+2006-09,Bob Dylan,0
+2006-09,Bruce Springsteen,0
+2006-09,Clint Mansell,12
+2006-09,Cream,0
+2006-09,Creedence Clearwater Revisited,0
+2006-09,Finntroll,25
+2006-09,Guns N' Roses,0
+2006-09,In Flames,16
+2006-09,Manu Chao,0
+2006-09,Opeth,105
+2006-09,Porcupine Tree,21
+2006-09,Radiohead,0
+2006-09,Red Hot Chili Peppers,0
+2006-09,The Libertines,0
+2006-09,The Rolling Stones,2
+2006-09,The White Stripes,0
+2006-09,Tool,5
+2006-10,Agalloch,10
+2006-10,America,0
+2006-10,Black Lips,0
+2006-10,Bob Dylan,0
+2006-10,Bruce Springsteen,0
+2006-10,Clint Mansell,4
+2006-10,Cream,0
+2006-10,Creedence Clearwater Revisited,7
+2006-10,Finntroll,78
+2006-10,Guns N' Roses,0
+2006-10,In Flames,2
+2006-10,Manu Chao,0
+2006-10,Opeth,49
+2006-10,Porcupine Tree,9
+2006-10,Radiohead,0
+2006-10,Red Hot Chili Peppers,0
+2006-10,The Libertines,0
+2006-10,The Rolling Stones,5
+2006-10,The White Stripes,0
+2006-10,Tool,4
+2006-11,Agalloch,11
+2006-11,America,0
+2006-11,Black Lips,0
+2006-11,Bob Dylan,0
+2006-11,Bruce Springsteen,0
+2006-11,Clint Mansell,0
+2006-11,Cream,0
+2006-11,Creedence Clearwater Revisited,0
+2006-11,Finntroll,6
+2006-11,Guns N' Roses,0
+2006-11,In Flames,2
+2006-11,Manu Chao,0
+2006-11,Opeth,7
+2006-11,Porcupine Tree,5
+2006-11,Radiohead,0
+2006-11,Red Hot Chili Peppers,0
+2006-11,The Libertines,0
+2006-11,The Rolling Stones,5
+2006-11,The White Stripes,0
+2006-11,Tool,6
+2006-12,Agalloch,5
+2006-12,America,0
+2006-12,Black Lips,0
+2006-12,Bob Dylan,0
+2006-12,Bruce Springsteen,0
+2006-12,Clint Mansell,1
+2006-12,Cream,0
+2006-12,Creedence Clearwater Revisited,0
+2006-12,Finntroll,2
+2006-12,Guns N' Roses,0
+2006-12,In Flames,0
+2006-12,Manu Chao,0
+2006-12,Opeth,5
+2006-12,Porcupine Tree,0
+2006-12,Radiohead,0
+2006-12,Red Hot Chili Peppers,0
+2006-12,The Libertines,0
+2006-12,The Rolling Stones,1
+2006-12,The White Stripes,0
+2006-12,Tool,1
+2007-01,Agalloch,13
+2007-01,America,0
+2007-01,Black Lips,0
+2007-01,Bob Dylan,0
+2007-01,Bruce Springsteen,0
+2007-01,Clint Mansell,0
+2007-01,Cream,0
+2007-01,Creedence Clearwater Revisited,0
+2007-01,Finntroll,1
+2007-01,Guns N' Roses,0
+2007-01,In Flames,0
+2007-01,Manu Chao,0
+2007-01,Opeth,3
+2007-01,Porcupine Tree,0
+2007-01,Radiohead,0
+2007-01,Red Hot Chili Peppers,0
+2007-01,The Libertines,0
+2007-01,The Rolling Stones,3
+2007-01,The White Stripes,0
+2007-01,Tool,0
+2007-02,Agalloch,30
+2007-02,America,0
+2007-02,Black Lips,0
+2007-02,Bob Dylan,0
+2007-02,Bruce Springsteen,0
+2007-02,Clint Mansell,1
+2007-02,Cream,0
+2007-02,Creedence Clearwater Revisited,0
+2007-02,Finntroll,0
+2007-02,Guns N' Roses,0
+2007-02,In Flames,3
+2007-02,Manu Chao,0
+2007-02,Opeth,4
+2007-02,Porcupine Tree,0
+2007-02,Radiohead,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,The Libertines,0
+2007-02,The Rolling Stones,0
+2007-02,The White Stripes,0
+2007-02,Tool,0
+2007-03,Agalloch,0
+2007-03,America,0
+2007-03,Black Lips,0
+2007-03,Bob Dylan,71
+2007-03,Bruce Springsteen,0
+2007-03,Clint Mansell,0
+2007-03,Cream,0
+2007-03,Creedence Clearwater Revisited,7
+2007-03,Finntroll,0
+2007-03,Guns N' Roses,1
+2007-03,In Flames,0
+2007-03,Manu Chao,0
+2007-03,Opeth,0
+2007-03,Porcupine Tree,0
+2007-03,Radiohead,0
+2007-03,Red Hot Chili Peppers,0
+2007-03,The Libertines,0
+2007-03,The Rolling Stones,5
+2007-03,The White Stripes,1
+2007-03,Tool,0
+2007-04,Agalloch,0
+2007-04,America,0
+2007-04,Black Lips,0
+2007-04,Bob Dylan,206
+2007-04,Bruce Springsteen,1
+2007-04,Clint Mansell,1
+2007-04,Cream,0
+2007-04,Creedence Clearwater Revisited,9
+2007-04,Finntroll,0
+2007-04,Guns N' Roses,0
+2007-04,In Flames,0
+2007-04,Manu Chao,0
+2007-04,Opeth,3
+2007-04,Porcupine Tree,3
+2007-04,Radiohead,0
+2007-04,Red Hot Chili Peppers,0
+2007-04,The Libertines,0
+2007-04,The Rolling Stones,38
+2007-04,The White Stripes,1
+2007-04,Tool,0
+2007-05,Agalloch,0
+2007-05,America,0
+2007-05,Black Lips,0
+2007-05,Bob Dylan,9
+2007-05,Bruce Springsteen,0
+2007-05,Clint Mansell,0
+2007-05,Cream,0
+2007-05,Creedence Clearwater Revisited,15
+2007-05,Finntroll,0
+2007-05,Guns N' Roses,0
+2007-05,In Flames,0
+2007-05,Manu Chao,0
+2007-05,Opeth,62
+2007-05,Porcupine Tree,26
+2007-05,Radiohead,0
+2007-05,Red Hot Chili Peppers,0
+2007-05,The Libertines,0
+2007-05,The Rolling Stones,7
+2007-05,The White Stripes,2
+2007-05,Tool,0
+2007-06,Agalloch,0
+2007-06,America,0
+2007-06,Black Lips,0
+2007-06,Bob Dylan,6
+2007-06,Bruce Springsteen,1
+2007-06,Clint Mansell,0
+2007-06,Cream,0
+2007-06,Creedence Clearwater Revisited,5
+2007-06,Finntroll,4
+2007-06,Guns N' Roses,0
+2007-06,In Flames,5
+2007-06,Manu Chao,0
+2007-06,Opeth,30
+2007-06,Porcupine Tree,191
+2007-06,Radiohead,0
+2007-06,Red Hot Chili Peppers,6
+2007-06,The Libertines,0
+2007-06,The Rolling Stones,1
+2007-06,The White Stripes,1
+2007-06,Tool,1
+2007-07,Agalloch,0
+2007-07,America,4
+2007-07,Black Lips,0
+2007-07,Bob Dylan,26
+2007-07,Bruce Springsteen,12
+2007-07,Clint Mansell,0
+2007-07,Cream,14
+2007-07,Creedence Clearwater Revisited,1
+2007-07,Finntroll,4
+2007-07,Guns N' Roses,0
+2007-07,In Flames,34
+2007-07,Manu Chao,0
+2007-07,Opeth,6
+2007-07,Porcupine Tree,5
+2007-07,Radiohead,0
+2007-07,Red Hot Chili Peppers,46
+2007-07,The Libertines,0
+2007-07,The Rolling Stones,7
+2007-07,The White Stripes,19
+2007-07,Tool,4
+2007-08,Agalloch,0
+2007-08,America,4
+2007-08,Black Lips,0
+2007-08,Bob Dylan,6
+2007-08,Bruce Springsteen,1
+2007-08,Clint Mansell,1
+2007-08,Cream,3
+2007-08,Creedence Clearwater Revisited,1
+2007-08,Finntroll,2
+2007-08,Guns N' Roses,0
+2007-08,In Flames,11
+2007-08,Manu Chao,0
+2007-08,Opeth,0
+2007-08,Porcupine Tree,2
+2007-08,Radiohead,0
+2007-08,Red Hot Chili Peppers,4
+2007-08,The Libertines,0
+2007-08,The Rolling Stones,0
+2007-08,The White Stripes,1
+2007-08,Tool,2
+2007-09,Agalloch,0
+2007-09,America,1
+2007-09,Black Lips,0
+2007-09,Bob Dylan,18
+2007-09,Bruce Springsteen,0
+2007-09,Clint Mansell,1
+2007-09,Cream,5
+2007-09,Creedence Clearwater Revisited,2
+2007-09,Finntroll,0
+2007-09,Guns N' Roses,0
+2007-09,In Flames,10
+2007-09,Manu Chao,7
+2007-09,Opeth,6
+2007-09,Porcupine Tree,6
+2007-09,Radiohead,0
+2007-09,Red Hot Chili Peppers,4
+2007-09,The Libertines,0
+2007-09,The Rolling Stones,0
+2007-09,The White Stripes,1
+2007-09,Tool,7
+2007-10,Agalloch,0
+2007-10,America,0
+2007-10,Black Lips,111
+2007-10,Bob Dylan,36
+2007-10,Bruce Springsteen,0
+2007-10,Clint Mansell,0
+2007-10,Cream,1
+2007-10,Creedence Clearwater Revisited,0
+2007-10,Finntroll,0
+2007-10,Guns N' Roses,0
+2007-10,In Flames,4
+2007-10,Manu Chao,3
+2007-10,Opeth,0
+2007-10,Porcupine Tree,1
+2007-10,Radiohead,0
+2007-10,Red Hot Chili Peppers,2
+2007-10,The Libertines,10
+2007-10,The Rolling Stones,0
+2007-10,The White Stripes,0
+2007-10,Tool,0
+2007-11,Agalloch,0
+2007-11,America,1
+2007-11,Black Lips,11
+2007-11,Bob Dylan,46
+2007-11,Bruce Springsteen,3
+2007-11,Clint Mansell,1
+2007-11,Cream,1
+2007-11,Creedence Clearwater Revisited,0
+2007-11,Finntroll,1
+2007-11,Guns N' Roses,0
+2007-11,In Flames,2
+2007-11,Manu Chao,4
+2007-11,Opeth,2
+2007-11,Porcupine Tree,5
+2007-11,Radiohead,24
+2007-11,Red Hot Chili Peppers,1
+2007-11,The Libertines,26
+2007-11,The Rolling Stones,0
+2007-11,The White Stripes,0
+2007-11,Tool,0
+2007-12,Agalloch,0
+2007-12,America,0
+2007-12,Black Lips,5
+2007-12,Bob Dylan,20
+2007-12,Bruce Springsteen,20
+2007-12,Clint Mansell,1
+2007-12,Cream,0
+2007-12,Creedence Clearwater Revisited,2
+2007-12,Finntroll,3
+2007-12,Guns N' Roses,0
+2007-12,In Flames,0
+2007-12,Manu Chao,0
+2007-12,Opeth,2
+2007-12,Porcupine Tree,3
+2007-12,Radiohead,58
+2007-12,Red Hot Chili Peppers,1
+2007-12,The Libertines,22
+2007-12,The Rolling Stones,0
+2007-12,The White Stripes,0
+2007-12,Tool,0
+2008-01,Agalloch,0
+2008-01,America,0
+2008-01,Black Lips,1
+2008-01,Bob Dylan,23
+2008-01,Bruce Springsteen,3
+2008-01,Clint Mansell,0
+2008-01,Cream,0
+2008-01,Creedence Clearwater Revisited,0
+2008-01,Finntroll,0
+2008-01,Guns N' Roses,0
+2008-01,In Flames,0
+2008-01,Manu Chao,0
+2008-01,Opeth,0
+2008-01,Porcupine Tree,0
+2008-01,Radiohead,7
+2008-01,Red Hot Chili Peppers,0
+2008-01,The Libertines,3
+2008-01,The Rolling Stones,0
+2008-01,The White Stripes,0
+2008-01,Tool,0
+2008-02,Agalloch,0
+2008-02,America,0
+2008-02,Black Lips,0
+2008-02,Bob Dylan,6
+2008-02,Bruce Springsteen,2
+2008-02,Clint Mansell,0
+2008-02,Cream,0
+2008-02,Creedence Clearwater Revisited,1
+2008-02,Finntroll,0
+2008-02,Guns N' Roses,1
+2008-02,In Flames,0
+2008-02,Manu Chao,0
+2008-02,Opeth,0
+2008-02,Porcupine Tree,0
+2008-02,Radiohead,1
+2008-02,Red Hot Chili Peppers,1
+2008-02,The Libertines,3
+2008-02,The Rolling Stones,0
+2008-02,The White Stripes,0
+2008-02,Tool,0
+2008-03,Agalloch,0
+2008-03,America,0
+2008-03,Black Lips,0
+2008-03,Bob Dylan,4
+2008-03,Bruce Springsteen,0
+2008-03,Clint Mansell,0
+2008-03,Cream,0
+2008-03,Creedence Clearwater Revisited,0
+2008-03,Finntroll,0
+2008-03,Guns N' Roses,0
+2008-03,In Flames,0
+2008-03,Manu Chao,0
+2008-03,Opeth,0
+2008-03,Porcupine Tree,0
+2008-03,Radiohead,2
+2008-03,Red Hot Chili Peppers,2
+2008-03,The Libertines,0
+2008-03,The Rolling Stones,0
+2008-03,The White Stripes,0
+2008-03,Tool,0
+2008-04,Agalloch,0
+2008-04,America,2
+2008-04,Black Lips,1
+2008-04,Bob Dylan,3
+2008-04,Bruce Springsteen,2
+2008-04,Clint Mansell,0
+2008-04,Cream,0
+2008-04,Creedence Clearwater Revisited,4
+2008-04,Finntroll,1
+2008-04,Guns N' Roses,4
+2008-04,In Flames,0
+2008-04,Manu Chao,0
+2008-04,Opeth,0
+2008-04,Porcupine Tree,1
+2008-04,Radiohead,0
+2008-04,Red Hot Chili Peppers,2
+2008-04,The Libertines,0
+2008-04,The Rolling Stones,0
+2008-04,The White Stripes,1
+2008-04,Tool,0
+2008-05,Agalloch,0
+2008-05,America,0
+2008-05,Black Lips,0
+2008-05,Bob Dylan,0
+2008-05,Bruce Springsteen,0
+2008-05,Clint Mansell,0
+2008-05,Cream,0
+2008-05,Creedence Clearwater Revisited,0
+2008-05,Finntroll,0
+2008-05,Guns N' Roses,0
+2008-05,In Flames,0
+2008-05,Manu Chao,0
+2008-05,Opeth,0
+2008-05,Porcupine Tree,0
+2008-05,Radiohead,0
+2008-05,Red Hot Chili Peppers,0
+2008-05,The Libertines,0
+2008-05,The Rolling Stones,0
+2008-05,The White Stripes,0
+2008-05,Tool,0
+2008-06,Agalloch,0
+2008-06,America,0
+2008-06,Black Lips,0
+2008-06,Bob Dylan,18
+2008-06,Bruce Springsteen,1
+2008-06,Clint Mansell,1
+2008-06,Cream,1
+2008-06,Creedence Clearwater Revisited,1
+2008-06,Finntroll,0
+2008-06,Guns N' Roses,2
+2008-06,In Flames,0
+2008-06,Manu Chao,2
+2008-06,Opeth,0
+2008-06,Porcupine Tree,0
+2008-06,Radiohead,1
+2008-06,Red Hot Chili Peppers,0
+2008-06,The Libertines,1
+2008-06,The Rolling Stones,0
+2008-06,The White Stripes,0
+2008-06,Tool,0
+2008-07,Agalloch,0
+2008-07,America,0
+2008-07,Black Lips,0
+2008-07,Bob Dylan,35
+2008-07,Bruce Springsteen,0
+2008-07,Clint Mansell,0
+2008-07,Cream,1
+2008-07,Creedence Clearwater Revisited,0
+2008-07,Finntroll,0
+2008-07,Guns N' Roses,0
+2008-07,In Flames,0
+2008-07,Manu Chao,1
+2008-07,Opeth,0
+2008-07,Porcupine Tree,0
+2008-07,Radiohead,0
+2008-07,Red Hot Chili Peppers,0
+2008-07,The Libertines,1
+2008-07,The Rolling Stones,0
+2008-07,The White Stripes,0
+2008-07,Tool,0
+2008-08,Agalloch,0
+2008-08,America,0
+2008-08,Black Lips,13
+2008-08,Bob Dylan,51
+2008-08,Bruce Springsteen,2
+2008-08,Clint Mansell,1
+2008-08,Cream,1
+2008-08,Creedence Clearwater Revisited,0
+2008-08,Finntroll,0
+2008-08,Guns N' Roses,3
+2008-08,In Flames,0
+2008-08,Manu Chao,1
+2008-08,Opeth,0
+2008-08,Porcupine Tree,0
+2008-08,Radiohead,1
+2008-08,Red Hot Chili Peppers,0
+2008-08,The Libertines,2
+2008-08,The Rolling Stones,0
+2008-08,The White Stripes,0
+2008-08,Tool,0
+2008-09,Agalloch,0
+2008-09,America,1
+2008-09,Black Lips,0
+2008-09,Bob Dylan,9
+2008-09,Bruce Springsteen,0
+2008-09,Clint Mansell,0
+2008-09,Cream,0
+2008-09,Creedence Clearwater Revisited,0
+2008-09,Finntroll,0
+2008-09,Guns N' Roses,0
+2008-09,In Flames,0
+2008-09,Manu Chao,0
+2008-09,Opeth,0
+2008-09,Porcupine Tree,1
+2008-09,Radiohead,0
+2008-09,Red Hot Chili Peppers,1
+2008-09,The Libertines,0
+2008-09,The Rolling Stones,0
+2008-09,The White Stripes,0
+2008-09,Tool,0
+2008-10,Agalloch,0
+2008-10,America,0
+2008-10,Black Lips,8
+2008-10,Bob Dylan,7
+2008-10,Bruce Springsteen,0
+2008-10,Clint Mansell,0
+2008-10,Cream,0
+2008-10,Creedence Clearwater Revisited,0
+2008-10,Finntroll,1
+2008-10,Guns N' Roses,0
+2008-10,In Flames,0
+2008-10,Manu Chao,1
+2008-10,Opeth,0
+2008-10,Porcupine Tree,0
+2008-10,Radiohead,17
+2008-10,Red Hot Chili Peppers,0
+2008-10,The Libertines,0
+2008-10,The Rolling Stones,0
+2008-10,The White Stripes,0
+2008-10,Tool,0
+2008-11,Agalloch,0
+2008-11,America,0
+2008-11,Black Lips,7
+2008-11,Bob Dylan,8
+2008-11,Bruce Springsteen,0
+2008-11,Clint Mansell,0
+2008-11,Cream,0
+2008-11,Creedence Clearwater Revisited,0
+2008-11,Finntroll,0
+2008-11,Guns N' Roses,0
+2008-11,In Flames,0
+2008-11,Manu Chao,0
+2008-11,Opeth,8
+2008-11,Porcupine Tree,0
+2008-11,Radiohead,10
+2008-11,Red Hot Chili Peppers,0
+2008-11,The Libertines,0
+2008-11,The Rolling Stones,0
+2008-11,The White Stripes,0
+2008-11,Tool,0
+2008-12,Agalloch,0
+2008-12,America,0
+2008-12,Black Lips,2
+2008-12,Bob Dylan,5
+2008-12,Bruce Springsteen,0
+2008-12,Clint Mansell,0
+2008-12,Cream,0
+2008-12,Creedence Clearwater Revisited,0
+2008-12,Finntroll,0
+2008-12,Guns N' Roses,0
+2008-12,In Flames,0
+2008-12,Manu Chao,0
+2008-12,Opeth,2
+2008-12,Porcupine Tree,0
+2008-12,Radiohead,1
+2008-12,Red Hot Chili Peppers,0
+2008-12,The Libertines,0
+2008-12,The Rolling Stones,0
+2008-12,The White Stripes,0
+2008-12,Tool,0
+2009-01,Agalloch,0
+2009-01,America,1
+2009-01,Black Lips,0
+2009-01,Bob Dylan,0
+2009-01,Bruce Springsteen,0
+2009-01,Clint Mansell,0
+2009-01,Cream,0
+2009-01,Creedence Clearwater Revisited,0
+2009-01,Finntroll,2
+2009-01,Guns N' Roses,0
+2009-01,In Flames,0
+2009-01,Manu Chao,1
+2009-01,Opeth,0
+2009-01,Porcupine Tree,0
+2009-01,Radiohead,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,The Libertines,0
+2009-01,The Rolling Stones,0
+2009-01,The White Stripes,0
+2009-01,Tool,0

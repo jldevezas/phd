@@ -1,0 +1,501 @@
+month,artist,plays
+2007-06,Alice Cooper,37
+2007-06,Backyard Babies,58
+2007-06,Children Of Bodom,70
+2007-06,Gemini Five,56
+2007-06,Hanoi Rocks,89
+2007-06,Him,68
+2007-06,Kotiteollisuus,82
+2007-06,L.A. Guns,63
+2007-06,Misfits,40
+2007-06,Motörhead,59
+2007-06,Poisonblack,84
+2007-06,Scorpions,51
+2007-06,Seraphim Shock,31
+2007-06,Smack,45
+2007-06,The 69 Eyes,618
+2007-06,The Cramps,43
+2007-06,The Doors,29
+2007-06,The Sisters Of Mercy,55
+2007-06,Two Witches,6
+2007-06,Type O Negative,44
+2007-07,Alice Cooper,41
+2007-07,Backyard Babies,61
+2007-07,Children Of Bodom,58
+2007-07,Gemini Five,52
+2007-07,Hanoi Rocks,149
+2007-07,Him,65
+2007-07,Kotiteollisuus,109
+2007-07,L.A. Guns,49
+2007-07,Misfits,36
+2007-07,Motörhead,50
+2007-07,Poisonblack,55
+2007-07,Scorpions,71
+2007-07,Seraphim Shock,40
+2007-07,Smack,33
+2007-07,The 69 Eyes,1061
+2007-07,The Cramps,47
+2007-07,The Doors,19
+2007-07,The Sisters Of Mercy,43
+2007-07,Two Witches,2
+2007-07,Type O Negative,63
+2007-08,Alice Cooper,110
+2007-08,Backyard Babies,63
+2007-08,Children Of Bodom,86
+2007-08,Gemini Five,207
+2007-08,Hanoi Rocks,58
+2007-08,Him,166
+2007-08,Kotiteollisuus,304
+2007-08,L.A. Guns,175
+2007-08,Misfits,23
+2007-08,Motörhead,20
+2007-08,Poisonblack,32
+2007-08,Scorpions,44
+2007-08,Seraphim Shock,64
+2007-08,Smack,44
+2007-08,The 69 Eyes,1082
+2007-08,The Cramps,49
+2007-08,The Doors,8
+2007-08,The Sisters Of Mercy,62
+2007-08,Two Witches,11
+2007-08,Type O Negative,48
+2007-09,Alice Cooper,71
+2007-09,Backyard Babies,11
+2007-09,Children Of Bodom,26
+2007-09,Gemini Five,120
+2007-09,Hanoi Rocks,56
+2007-09,Him,111
+2007-09,Kotiteollisuus,30
+2007-09,L.A. Guns,87
+2007-09,Misfits,18
+2007-09,Motörhead,33
+2007-09,Poisonblack,9
+2007-09,Scorpions,15
+2007-09,Seraphim Shock,46
+2007-09,Smack,22
+2007-09,The 69 Eyes,1581
+2007-09,The Cramps,37
+2007-09,The Doors,23
+2007-09,The Sisters Of Mercy,32
+2007-09,Two Witches,2
+2007-09,Type O Negative,23
+2007-10,Alice Cooper,30
+2007-10,Backyard Babies,54
+2007-10,Children Of Bodom,62
+2007-10,Gemini Five,92
+2007-10,Hanoi Rocks,49
+2007-10,Him,205
+2007-10,Kotiteollisuus,104
+2007-10,L.A. Guns,34
+2007-10,Misfits,14
+2007-10,Motörhead,23
+2007-10,Poisonblack,81
+2007-10,Scorpions,34
+2007-10,Seraphim Shock,22
+2007-10,Smack,20
+2007-10,The 69 Eyes,373
+2007-10,The Cramps,25
+2007-10,The Doors,16
+2007-10,The Sisters Of Mercy,43
+2007-10,Two Witches,4
+2007-10,Type O Negative,48
+2007-11,Alice Cooper,27
+2007-11,Backyard Babies,50
+2007-11,Children Of Bodom,42
+2007-11,Gemini Five,49
+2007-11,Hanoi Rocks,60
+2007-11,Him,122
+2007-11,Kotiteollisuus,34
+2007-11,L.A. Guns,22
+2007-11,Misfits,18
+2007-11,Motörhead,24
+2007-11,Poisonblack,51
+2007-11,Scorpions,8
+2007-11,Seraphim Shock,73
+2007-11,Smack,11
+2007-11,The 69 Eyes,574
+2007-11,The Cramps,27
+2007-11,The Doors,6
+2007-11,The Sisters Of Mercy,38
+2007-11,Two Witches,4
+2007-11,Type O Negative,44
+2007-12,Alice Cooper,19
+2007-12,Backyard Babies,44
+2007-12,Children Of Bodom,39
+2007-12,Gemini Five,41
+2007-12,Hanoi Rocks,38
+2007-12,Him,32
+2007-12,Kotiteollisuus,232
+2007-12,L.A. Guns,2
+2007-12,Misfits,5
+2007-12,Motörhead,3
+2007-12,Poisonblack,30
+2007-12,Scorpions,3
+2007-12,Seraphim Shock,14
+2007-12,Smack,4
+2007-12,The 69 Eyes,327
+2007-12,The Cramps,17
+2007-12,The Doors,7
+2007-12,The Sisters Of Mercy,18
+2007-12,Two Witches,2
+2007-12,Type O Negative,1
+2008-01,Alice Cooper,7
+2008-01,Backyard Babies,12
+2008-01,Children Of Bodom,10
+2008-01,Gemini Five,13
+2008-01,Hanoi Rocks,19
+2008-01,Him,56
+2008-01,Kotiteollisuus,333
+2008-01,L.A. Guns,6
+2008-01,Misfits,11
+2008-01,Motörhead,6
+2008-01,Poisonblack,10
+2008-01,Scorpions,8
+2008-01,Seraphim Shock,51
+2008-01,Smack,6
+2008-01,The 69 Eyes,393
+2008-01,The Cramps,11
+2008-01,The Doors,8
+2008-01,The Sisters Of Mercy,44
+2008-01,Two Witches,2
+2008-01,Type O Negative,49
+2008-02,Alice Cooper,13
+2008-02,Backyard Babies,26
+2008-02,Children Of Bodom,26
+2008-02,Gemini Five,10
+2008-02,Hanoi Rocks,11
+2008-02,Him,19
+2008-02,Kotiteollisuus,94
+2008-02,L.A. Guns,4
+2008-02,Misfits,16
+2008-02,Motörhead,6
+2008-02,Poisonblack,17
+2008-02,Scorpions,9
+2008-02,Seraphim Shock,30
+2008-02,Smack,4
+2008-02,The 69 Eyes,521
+2008-02,The Cramps,3
+2008-02,The Doors,9
+2008-02,The Sisters Of Mercy,11
+2008-02,Two Witches,3
+2008-02,Type O Negative,32
+2008-03,Alice Cooper,16
+2008-03,Backyard Babies,8
+2008-03,Children Of Bodom,26
+2008-03,Gemini Five,13
+2008-03,Hanoi Rocks,34
+2008-03,Him,24
+2008-03,Kotiteollisuus,111
+2008-03,L.A. Guns,6
+2008-03,Misfits,9
+2008-03,Motörhead,12
+2008-03,Poisonblack,20
+2008-03,Scorpions,15
+2008-03,Seraphim Shock,17
+2008-03,Smack,7
+2008-03,The 69 Eyes,376
+2008-03,The Cramps,8
+2008-03,The Doors,14
+2008-03,The Sisters Of Mercy,10
+2008-03,Two Witches,1
+2008-03,Type O Negative,20
+2008-04,Alice Cooper,15
+2008-04,Backyard Babies,0
+2008-04,Children Of Bodom,31
+2008-04,Gemini Five,2
+2008-04,Hanoi Rocks,3
+2008-04,Him,10
+2008-04,Kotiteollisuus,10
+2008-04,L.A. Guns,2
+2008-04,Misfits,2
+2008-04,Motörhead,3
+2008-04,Poisonblack,7
+2008-04,Scorpions,1
+2008-04,Seraphim Shock,3
+2008-04,Smack,1
+2008-04,The 69 Eyes,30
+2008-04,The Cramps,0
+2008-04,The Doors,3
+2008-04,The Sisters Of Mercy,3
+2008-04,Two Witches,1
+2008-04,Type O Negative,2
+2008-05,Alice Cooper,0
+2008-05,Backyard Babies,9
+2008-05,Children Of Bodom,8
+2008-05,Gemini Five,15
+2008-05,Hanoi Rocks,2
+2008-05,Him,32
+2008-05,Kotiteollisuus,14
+2008-05,L.A. Guns,0
+2008-05,Misfits,0
+2008-05,Motörhead,0
+2008-05,Poisonblack,94
+2008-05,Scorpions,0
+2008-05,Seraphim Shock,0
+2008-05,Smack,0
+2008-05,The 69 Eyes,192
+2008-05,The Cramps,0
+2008-05,The Doors,0
+2008-05,The Sisters Of Mercy,11
+2008-05,Two Witches,0
+2008-05,Type O Negative,0
+2008-06,Alice Cooper,0
+2008-06,Backyard Babies,17
+2008-06,Children Of Bodom,7
+2008-06,Gemini Five,36
+2008-06,Hanoi Rocks,3
+2008-06,Him,43
+2008-06,Kotiteollisuus,3
+2008-06,L.A. Guns,0
+2008-06,Misfits,6
+2008-06,Motörhead,5
+2008-06,Poisonblack,27
+2008-06,Scorpions,1
+2008-06,Seraphim Shock,40
+2008-06,Smack,6
+2008-06,The 69 Eyes,124
+2008-06,The Cramps,1
+2008-06,The Doors,4
+2008-06,The Sisters Of Mercy,30
+2008-06,Two Witches,0
+2008-06,Type O Negative,10
+2008-07,Alice Cooper,41
+2008-07,Backyard Babies,47
+2008-07,Children Of Bodom,21
+2008-07,Gemini Five,14
+2008-07,Hanoi Rocks,7
+2008-07,Him,90
+2008-07,Kotiteollisuus,10
+2008-07,L.A. Guns,9
+2008-07,Misfits,32
+2008-07,Motörhead,26
+2008-07,Poisonblack,27
+2008-07,Scorpions,12
+2008-07,Seraphim Shock,30
+2008-07,Smack,19
+2008-07,The 69 Eyes,212
+2008-07,The Cramps,9
+2008-07,The Doors,21
+2008-07,The Sisters Of Mercy,33
+2008-07,Two Witches,2
+2008-07,Type O Negative,53
+2008-08,Alice Cooper,14
+2008-08,Backyard Babies,18
+2008-08,Children Of Bodom,75
+2008-08,Gemini Five,22
+2008-08,Hanoi Rocks,8
+2008-08,Him,86
+2008-08,Kotiteollisuus,70
+2008-08,L.A. Guns,8
+2008-08,Misfits,31
+2008-08,Motörhead,36
+2008-08,Poisonblack,35
+2008-08,Scorpions,6
+2008-08,Seraphim Shock,65
+2008-08,Smack,15
+2008-08,The 69 Eyes,218
+2008-08,The Cramps,33
+2008-08,The Doors,54
+2008-08,The Sisters Of Mercy,56
+2008-08,Two Witches,7
+2008-08,Type O Negative,114
+2008-09,Alice Cooper,37
+2008-09,Backyard Babies,42
+2008-09,Children Of Bodom,95
+2008-09,Gemini Five,39
+2008-09,Hanoi Rocks,30
+2008-09,Him,103
+2008-09,Kotiteollisuus,168
+2008-09,L.A. Guns,10
+2008-09,Misfits,31
+2008-09,Motörhead,23
+2008-09,Poisonblack,26
+2008-09,Scorpions,8
+2008-09,Seraphim Shock,20
+2008-09,Smack,23
+2008-09,The 69 Eyes,240
+2008-09,The Cramps,56
+2008-09,The Doors,27
+2008-09,The Sisters Of Mercy,31
+2008-09,Two Witches,3
+2008-09,Type O Negative,112
+2008-10,Alice Cooper,19
+2008-10,Backyard Babies,26
+2008-10,Children Of Bodom,78
+2008-10,Gemini Five,26
+2008-10,Hanoi Rocks,22
+2008-10,Him,69
+2008-10,Kotiteollisuus,124
+2008-10,L.A. Guns,10
+2008-10,Misfits,33
+2008-10,Motörhead,23
+2008-10,Poisonblack,24
+2008-10,Scorpions,14
+2008-10,Seraphim Shock,20
+2008-10,Smack,15
+2008-10,The 69 Eyes,188
+2008-10,The Cramps,34
+2008-10,The Doors,14
+2008-10,The Sisters Of Mercy,45
+2008-10,Two Witches,14
+2008-10,Type O Negative,72
+2008-11,Alice Cooper,53
+2008-11,Backyard Babies,35
+2008-11,Children Of Bodom,82
+2008-11,Gemini Five,55
+2008-11,Hanoi Rocks,43
+2008-11,Him,84
+2008-11,Kotiteollisuus,17
+2008-11,L.A. Guns,28
+2008-11,Misfits,36
+2008-11,Motörhead,55
+2008-11,Poisonblack,50
+2008-11,Scorpions,19
+2008-11,Seraphim Shock,22
+2008-11,Smack,29
+2008-11,The 69 Eyes,925
+2008-11,The Cramps,56
+2008-11,The Doors,28
+2008-11,The Sisters Of Mercy,33
+2008-11,Two Witches,4
+2008-11,Type O Negative,54
+2008-12,Alice Cooper,24
+2008-12,Backyard Babies,33
+2008-12,Children Of Bodom,52
+2008-12,Gemini Five,26
+2008-12,Hanoi Rocks,28
+2008-12,Him,52
+2008-12,Kotiteollisuus,66
+2008-12,L.A. Guns,12
+2008-12,Misfits,15
+2008-12,Motörhead,30
+2008-12,Poisonblack,31
+2008-12,Scorpions,19
+2008-12,Seraphim Shock,9
+2008-12,Smack,17
+2008-12,The 69 Eyes,400
+2008-12,The Cramps,9
+2008-12,The Doors,13
+2008-12,The Sisters Of Mercy,9
+2008-12,Two Witches,3
+2008-12,Type O Negative,28
+2009-01,Alice Cooper,43
+2009-01,Backyard Babies,40
+2009-01,Children Of Bodom,56
+2009-01,Gemini Five,45
+2009-01,Hanoi Rocks,31
+2009-01,Him,71
+2009-01,Kotiteollisuus,238
+2009-01,L.A. Guns,20
+2009-01,Misfits,36
+2009-01,Motörhead,32
+2009-01,Poisonblack,45
+2009-01,Scorpions,15
+2009-01,Seraphim Shock,86
+2009-01,Smack,20
+2009-01,The 69 Eyes,340
+2009-01,The Cramps,18
+2009-01,The Doors,58
+2009-01,The Sisters Of Mercy,19
+2009-01,Two Witches,4
+2009-01,Type O Negative,45
+2009-02,Alice Cooper,45
+2009-02,Backyard Babies,34
+2009-02,Children Of Bodom,56
+2009-02,Gemini Five,39
+2009-02,Hanoi Rocks,22
+2009-02,Him,66
+2009-02,Kotiteollisuus,93
+2009-02,L.A. Guns,24
+2009-02,Misfits,28
+2009-02,Motörhead,35
+2009-02,Poisonblack,43
+2009-02,Scorpions,26
+2009-02,Seraphim Shock,17
+2009-02,Smack,16
+2009-02,The 69 Eyes,323
+2009-02,The Cramps,9
+2009-02,The Doors,46
+2009-02,The Sisters Of Mercy,21
+2009-02,Two Witches,2
+2009-02,Type O Negative,57
+2009-03,Alice Cooper,18
+2009-03,Backyard Babies,25
+2009-03,Children Of Bodom,39
+2009-03,Gemini Five,26
+2009-03,Hanoi Rocks,66
+2009-03,Him,35
+2009-03,Kotiteollisuus,65
+2009-03,L.A. Guns,12
+2009-03,Misfits,24
+2009-03,Motörhead,16
+2009-03,Poisonblack,36
+2009-03,Scorpions,20
+2009-03,Seraphim Shock,13
+2009-03,Smack,19
+2009-03,The 69 Eyes,207
+2009-03,The Cramps,11
+2009-03,The Doors,13
+2009-03,The Sisters Of Mercy,11
+2009-03,Two Witches,2
+2009-03,Type O Negative,24
+2009-04,Alice Cooper,41
+2009-04,Backyard Babies,21
+2009-04,Children Of Bodom,31
+2009-04,Gemini Five,22
+2009-04,Hanoi Rocks,24
+2009-04,Him,55
+2009-04,Kotiteollisuus,88
+2009-04,L.A. Guns,16
+2009-04,Misfits,18
+2009-04,Motörhead,17
+2009-04,Poisonblack,29
+2009-04,Scorpions,13
+2009-04,Seraphim Shock,32
+2009-04,Smack,11
+2009-04,The 69 Eyes,229
+2009-04,The Cramps,11
+2009-04,The Doors,8
+2009-04,The Sisters Of Mercy,27
+2009-04,Two Witches,2
+2009-04,Type O Negative,182
+2009-05,Alice Cooper,18
+2009-05,Backyard Babies,18
+2009-05,Children Of Bodom,70
+2009-05,Gemini Five,33
+2009-05,Hanoi Rocks,18
+2009-05,Him,53
+2009-05,Kotiteollisuus,49
+2009-05,L.A. Guns,13
+2009-05,Misfits,18
+2009-05,Motörhead,13
+2009-05,Poisonblack,19
+2009-05,Scorpions,7
+2009-05,Seraphim Shock,10
+2009-05,Smack,12
+2009-05,The 69 Eyes,234
+2009-05,The Cramps,3
+2009-05,The Doors,9
+2009-05,The Sisters Of Mercy,5
+2009-05,Two Witches,2
+2009-05,Type O Negative,15
+2009-06,Alice Cooper,8
+2009-06,Backyard Babies,8
+2009-06,Children Of Bodom,17
+2009-06,Gemini Five,11
+2009-06,Hanoi Rocks,4
+2009-06,Him,23
+2009-06,Kotiteollisuus,30
+2009-06,L.A. Guns,1
+2009-06,Misfits,8
+2009-06,Motörhead,7
+2009-06,Poisonblack,8
+2009-06,Scorpions,2
+2009-06,Seraphim Shock,9
+2009-06,Smack,6
+2009-06,The 69 Eyes,88
+2009-06,The Cramps,1
+2009-06,The Doors,2
+2009-06,The Sisters Of Mercy,2
+2009-06,Two Witches,1
+2009-06,Type O Negative,15

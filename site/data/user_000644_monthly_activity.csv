@@ -1,0 +1,401 @@
+month,artist,plays
+2005-10,Azure Ray,3
+2005-10,Brand New,9
+2005-10,Bright Eyes,51
+2005-10,Circa Survive,1
+2005-10,Cursive,8
+2005-10,Dashboard Confessional,2
+2005-10,Death Cab For Cutie,10
+2005-10,Desaparecidos,3
+2005-10,Elliott Smith,12
+2005-10,Further Seems Forever,4
+2005-10,Interpol,3
+2005-10,Neutral Milk Hotel,3
+2005-10,Neva Dinova,3
+2005-10,Radiohead,7
+2005-10,Rilo Kiley,8
+2005-10,Straylight Run,4
+2005-10,Taking Back Sunday,2
+2005-10,The Cure,0
+2005-10,The Decemberists,10
+2005-10,Tilly And The Wall,10
+2005-11,Azure Ray,10
+2005-11,Brand New,7
+2005-11,Bright Eyes,10
+2005-11,Circa Survive,2
+2005-11,Cursive,11
+2005-11,Dashboard Confessional,1
+2005-11,Death Cab For Cutie,2
+2005-11,Desaparecidos,6
+2005-11,Elliott Smith,12
+2005-11,Further Seems Forever,1
+2005-11,Interpol,7
+2005-11,Neutral Milk Hotel,7
+2005-11,Neva Dinova,3
+2005-11,Radiohead,6
+2005-11,Rilo Kiley,3
+2005-11,Straylight Run,1
+2005-11,Taking Back Sunday,1
+2005-11,The Cure,2
+2005-11,The Decemberists,4
+2005-11,Tilly And The Wall,2
+2005-12,Azure Ray,4
+2005-12,Brand New,3
+2005-12,Bright Eyes,90
+2005-12,Circa Survive,0
+2005-12,Cursive,5
+2005-12,Dashboard Confessional,0
+2005-12,Death Cab For Cutie,5
+2005-12,Desaparecidos,1
+2005-12,Elliott Smith,7
+2005-12,Further Seems Forever,2
+2005-12,Interpol,2
+2005-12,Neutral Milk Hotel,4
+2005-12,Neva Dinova,1
+2005-12,Radiohead,4
+2005-12,Rilo Kiley,2
+2005-12,Straylight Run,1
+2005-12,Taking Back Sunday,5
+2005-12,The Cure,1
+2005-12,The Decemberists,3
+2005-12,Tilly And The Wall,18
+2006-01,Azure Ray,4
+2006-01,Brand New,5
+2006-01,Bright Eyes,15
+2006-01,Circa Survive,0
+2006-01,Cursive,0
+2006-01,Dashboard Confessional,0
+2006-01,Death Cab For Cutie,3
+2006-01,Desaparecidos,0
+2006-01,Elliott Smith,1
+2006-01,Further Seems Forever,1
+2006-01,Interpol,1
+2006-01,Neutral Milk Hotel,0
+2006-01,Neva Dinova,1
+2006-01,Radiohead,0
+2006-01,Rilo Kiley,1
+2006-01,Straylight Run,3
+2006-01,Taking Back Sunday,8
+2006-01,The Cure,52
+2006-01,The Decemberists,0
+2006-01,Tilly And The Wall,6
+2006-02,Azure Ray,39
+2006-02,Brand New,59
+2006-02,Bright Eyes,332
+2006-02,Circa Survive,2
+2006-02,Cursive,11
+2006-02,Dashboard Confessional,18
+2006-02,Death Cab For Cutie,43
+2006-02,Desaparecidos,6
+2006-02,Elliott Smith,51
+2006-02,Further Seems Forever,36
+2006-02,Interpol,8
+2006-02,Neutral Milk Hotel,88
+2006-02,Neva Dinova,40
+2006-02,Radiohead,2
+2006-02,Rilo Kiley,21
+2006-02,Straylight Run,8
+2006-02,Taking Back Sunday,14
+2006-02,The Cure,150
+2006-02,The Decemberists,79
+2006-02,Tilly And The Wall,43
+2006-03,Azure Ray,13
+2006-03,Brand New,32
+2006-03,Bright Eyes,238
+2006-03,Circa Survive,1
+2006-03,Cursive,60
+2006-03,Dashboard Confessional,12
+2006-03,Death Cab For Cutie,9
+2006-03,Desaparecidos,218
+2006-03,Elliott Smith,118
+2006-03,Further Seems Forever,1
+2006-03,Interpol,9
+2006-03,Neutral Milk Hotel,53
+2006-03,Neva Dinova,14
+2006-03,Radiohead,35
+2006-03,Rilo Kiley,8
+2006-03,Straylight Run,1
+2006-03,Taking Back Sunday,10
+2006-03,The Cure,47
+2006-03,The Decemberists,23
+2006-03,Tilly And The Wall,11
+2006-04,Azure Ray,0
+2006-04,Brand New,4
+2006-04,Bright Eyes,85
+2006-04,Circa Survive,11
+2006-04,Cursive,10
+2006-04,Dashboard Confessional,16
+2006-04,Death Cab For Cutie,1
+2006-04,Desaparecidos,24
+2006-04,Elliott Smith,18
+2006-04,Further Seems Forever,0
+2006-04,Interpol,19
+2006-04,Neutral Milk Hotel,75
+2006-04,Neva Dinova,0
+2006-04,Radiohead,31
+2006-04,Rilo Kiley,0
+2006-04,Straylight Run,4
+2006-04,Taking Back Sunday,7
+2006-04,The Cure,0
+2006-04,The Decemberists,1
+2006-04,Tilly And The Wall,3
+2006-05,Azure Ray,0
+2006-05,Brand New,2
+2006-05,Bright Eyes,68
+2006-05,Circa Survive,2
+2006-05,Cursive,4
+2006-05,Dashboard Confessional,2
+2006-05,Death Cab For Cutie,1
+2006-05,Desaparecidos,17
+2006-05,Elliott Smith,18
+2006-05,Further Seems Forever,1
+2006-05,Interpol,9
+2006-05,Neutral Milk Hotel,41
+2006-05,Neva Dinova,1
+2006-05,Radiohead,11
+2006-05,Rilo Kiley,2
+2006-05,Straylight Run,1
+2006-05,Taking Back Sunday,4
+2006-05,The Cure,0
+2006-05,The Decemberists,3
+2006-05,Tilly And The Wall,0
+2006-06,Azure Ray,1
+2006-06,Brand New,8
+2006-06,Bright Eyes,31
+2006-06,Circa Survive,6
+2006-06,Cursive,3
+2006-06,Dashboard Confessional,1
+2006-06,Death Cab For Cutie,1
+2006-06,Desaparecidos,0
+2006-06,Elliott Smith,0
+2006-06,Further Seems Forever,1
+2006-06,Interpol,0
+2006-06,Neutral Milk Hotel,7
+2006-06,Neva Dinova,3
+2006-06,Radiohead,2
+2006-06,Rilo Kiley,1
+2006-06,Straylight Run,2
+2006-06,Taking Back Sunday,3
+2006-06,The Cure,0
+2006-06,The Decemberists,14
+2006-06,Tilly And The Wall,6
+2006-07,Azure Ray,0
+2006-07,Brand New,0
+2006-07,Bright Eyes,0
+2006-07,Circa Survive,0
+2006-07,Cursive,0
+2006-07,Dashboard Confessional,0
+2006-07,Death Cab For Cutie,0
+2006-07,Desaparecidos,0
+2006-07,Elliott Smith,0
+2006-07,Further Seems Forever,0
+2006-07,Interpol,0
+2006-07,Neutral Milk Hotel,0
+2006-07,Neva Dinova,0
+2006-07,Radiohead,0
+2006-07,Rilo Kiley,0
+2006-07,Straylight Run,0
+2006-07,Taking Back Sunday,0
+2006-07,The Cure,0
+2006-07,The Decemberists,0
+2006-07,Tilly And The Wall,0
+2006-08,Azure Ray,0
+2006-08,Brand New,2
+2006-08,Bright Eyes,0
+2006-08,Circa Survive,2
+2006-08,Cursive,0
+2006-08,Dashboard Confessional,2
+2006-08,Death Cab For Cutie,3
+2006-08,Desaparecidos,0
+2006-08,Elliott Smith,0
+2006-08,Further Seems Forever,1
+2006-08,Interpol,0
+2006-08,Neutral Milk Hotel,1
+2006-08,Neva Dinova,0
+2006-08,Radiohead,0
+2006-08,Rilo Kiley,0
+2006-08,Straylight Run,1
+2006-08,Taking Back Sunday,1
+2006-08,The Cure,0
+2006-08,The Decemberists,0
+2006-08,Tilly And The Wall,0
+2006-09,Azure Ray,0
+2006-09,Brand New,0
+2006-09,Bright Eyes,0
+2006-09,Circa Survive,0
+2006-09,Cursive,0
+2006-09,Dashboard Confessional,0
+2006-09,Death Cab For Cutie,1
+2006-09,Desaparecidos,0
+2006-09,Elliott Smith,1
+2006-09,Further Seems Forever,0
+2006-09,Interpol,0
+2006-09,Neutral Milk Hotel,0
+2006-09,Neva Dinova,0
+2006-09,Radiohead,1
+2006-09,Rilo Kiley,0
+2006-09,Straylight Run,0
+2006-09,Taking Back Sunday,0
+2006-09,The Cure,0
+2006-09,The Decemberists,0
+2006-09,Tilly And The Wall,0
+2006-10,Azure Ray,0
+2006-10,Brand New,0
+2006-10,Bright Eyes,0
+2006-10,Circa Survive,0
+2006-10,Cursive,1
+2006-10,Dashboard Confessional,0
+2006-10,Death Cab For Cutie,0
+2006-10,Desaparecidos,1
+2006-10,Elliott Smith,0
+2006-10,Further Seems Forever,0
+2006-10,Interpol,0
+2006-10,Neutral Milk Hotel,0
+2006-10,Neva Dinova,0
+2006-10,Radiohead,0
+2006-10,Rilo Kiley,0
+2006-10,Straylight Run,0
+2006-10,Taking Back Sunday,0
+2006-10,The Cure,0
+2006-10,The Decemberists,0
+2006-10,Tilly And The Wall,0
+2006-11,Azure Ray,0
+2006-11,Brand New,0
+2006-11,Bright Eyes,0
+2006-11,Circa Survive,0
+2006-11,Cursive,0
+2006-11,Dashboard Confessional,0
+2006-11,Death Cab For Cutie,0
+2006-11,Desaparecidos,0
+2006-11,Elliott Smith,0
+2006-11,Further Seems Forever,0
+2006-11,Interpol,0
+2006-11,Neutral Milk Hotel,0
+2006-11,Neva Dinova,0
+2006-11,Radiohead,0
+2006-11,Rilo Kiley,0
+2006-11,Straylight Run,0
+2006-11,Taking Back Sunday,0
+2006-11,The Cure,0
+2006-11,The Decemberists,0
+2006-11,Tilly And The Wall,0
+2006-12,Azure Ray,0
+2006-12,Brand New,0
+2006-12,Bright Eyes,0
+2006-12,Circa Survive,0
+2006-12,Cursive,0
+2006-12,Dashboard Confessional,0
+2006-12,Death Cab For Cutie,0
+2006-12,Desaparecidos,0
+2006-12,Elliott Smith,0
+2006-12,Further Seems Forever,0
+2006-12,Interpol,0
+2006-12,Neutral Milk Hotel,0
+2006-12,Neva Dinova,0
+2006-12,Radiohead,0
+2006-12,Rilo Kiley,0
+2006-12,Straylight Run,0
+2006-12,Taking Back Sunday,0
+2006-12,The Cure,0
+2006-12,The Decemberists,0
+2006-12,Tilly And The Wall,0
+2007-01,Azure Ray,0
+2007-01,Brand New,0
+2007-01,Bright Eyes,0
+2007-01,Circa Survive,0
+2007-01,Cursive,0
+2007-01,Dashboard Confessional,0
+2007-01,Death Cab For Cutie,0
+2007-01,Desaparecidos,0
+2007-01,Elliott Smith,0
+2007-01,Further Seems Forever,0
+2007-01,Interpol,0
+2007-01,Neutral Milk Hotel,0
+2007-01,Neva Dinova,0
+2007-01,Radiohead,0
+2007-01,Rilo Kiley,0
+2007-01,Straylight Run,0
+2007-01,Taking Back Sunday,0
+2007-01,The Cure,0
+2007-01,The Decemberists,0
+2007-01,Tilly And The Wall,0
+2007-02,Azure Ray,46
+2007-02,Brand New,6
+2007-02,Bright Eyes,42
+2007-02,Circa Survive,0
+2007-02,Cursive,16
+2007-02,Dashboard Confessional,0
+2007-02,Death Cab For Cutie,14
+2007-02,Desaparecidos,0
+2007-02,Elliott Smith,1
+2007-02,Further Seems Forever,0
+2007-02,Interpol,0
+2007-02,Neutral Milk Hotel,10
+2007-02,Neva Dinova,0
+2007-02,Radiohead,3
+2007-02,Rilo Kiley,5
+2007-02,Straylight Run,0
+2007-02,Taking Back Sunday,0
+2007-02,The Cure,28
+2007-02,The Decemberists,11
+2007-02,Tilly And The Wall,0
+2007-03,Azure Ray,6
+2007-03,Brand New,12
+2007-03,Bright Eyes,22
+2007-03,Circa Survive,0
+2007-03,Cursive,2
+2007-03,Dashboard Confessional,0
+2007-03,Death Cab For Cutie,1
+2007-03,Desaparecidos,0
+2007-03,Elliott Smith,0
+2007-03,Further Seems Forever,1
+2007-03,Interpol,0
+2007-03,Neutral Milk Hotel,3
+2007-03,Neva Dinova,0
+2007-03,Radiohead,1
+2007-03,Rilo Kiley,4
+2007-03,Straylight Run,0
+2007-03,Taking Back Sunday,1
+2007-03,The Cure,2
+2007-03,The Decemberists,7
+2007-03,Tilly And The Wall,13
+2007-04,Azure Ray,0
+2007-04,Brand New,3
+2007-04,Bright Eyes,2
+2007-04,Circa Survive,0
+2007-04,Cursive,19
+2007-04,Dashboard Confessional,0
+2007-04,Death Cab For Cutie,0
+2007-04,Desaparecidos,0
+2007-04,Elliott Smith,0
+2007-04,Further Seems Forever,0
+2007-04,Interpol,0
+2007-04,Neutral Milk Hotel,1
+2007-04,Neva Dinova,4
+2007-04,Radiohead,0
+2007-04,Rilo Kiley,2
+2007-04,Straylight Run,0
+2007-04,Taking Back Sunday,2
+2007-04,The Cure,3
+2007-04,The Decemberists,1
+2007-04,Tilly And The Wall,0
+2007-05,Azure Ray,0
+2007-05,Brand New,5
+2007-05,Bright Eyes,21
+2007-05,Circa Survive,0
+2007-05,Cursive,0
+2007-05,Dashboard Confessional,0
+2007-05,Death Cab For Cutie,0
+2007-05,Desaparecidos,0
+2007-05,Elliott Smith,0
+2007-05,Further Seems Forever,0
+2007-05,Interpol,0
+2007-05,Neutral Milk Hotel,19
+2007-05,Neva Dinova,2
+2007-05,Radiohead,2
+2007-05,Rilo Kiley,4
+2007-05,Straylight Run,0
+2007-05,Taking Back Sunday,0
+2007-05,The Cure,4
+2007-05,The Decemberists,2
+2007-05,Tilly And The Wall,0

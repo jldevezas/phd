@@ -1,0 +1,841 @@
+month,artist,plays
+2005-04,Afi,77
+2005-04,Al Green,1
+2005-04,Annie,1
+2005-04,Ashlee Simpson,6
+2005-04,Björk,1
+2005-04,Blitz,0
+2005-04,Daft Punk,1
+2005-04,Electric Light Orchestra Part Ii,5
+2005-04,Elliott Smith,0
+2005-04,Elvis Presley,21
+2005-04,Fall Out Boy,11
+2005-04,Good Charlotte,1
+2005-04,Gwen Stefani,1
+2005-04,Jim Jacobs & Warren Casey,2
+2005-04,Madball,0
+2005-04,Queen,1
+2005-04,Shakira,0
+2005-04,Spoon,0
+2005-04,The Beach Boys,7
+2005-04,The Five Stairsteps,0
+2005-05,Afi,15
+2005-05,Al Green,1
+2005-05,Annie,1
+2005-05,Ashlee Simpson,0
+2005-05,Björk,0
+2005-05,Blitz,20
+2005-05,Daft Punk,0
+2005-05,Electric Light Orchestra Part Ii,4
+2005-05,Elliott Smith,72
+2005-05,Elvis Presley,19
+2005-05,Fall Out Boy,10
+2005-05,Good Charlotte,18
+2005-05,Gwen Stefani,0
+2005-05,Jim Jacobs & Warren Casey,3
+2005-05,Madball,0
+2005-05,Queen,1
+2005-05,Shakira,0
+2005-05,Spoon,0
+2005-05,The Beach Boys,2
+2005-05,The Five Stairsteps,0
+2005-06,Afi,81
+2005-06,Al Green,1
+2005-06,Annie,1
+2005-06,Ashlee Simpson,4
+2005-06,Björk,2
+2005-06,Blitz,13
+2005-06,Daft Punk,3
+2005-06,Electric Light Orchestra Part Ii,17
+2005-06,Elliott Smith,2
+2005-06,Elvis Presley,14
+2005-06,Fall Out Boy,20
+2005-06,Good Charlotte,34
+2005-06,Gwen Stefani,0
+2005-06,Jim Jacobs & Warren Casey,0
+2005-06,Madball,3
+2005-06,Queen,23
+2005-06,Shakira,0
+2005-06,Spoon,4
+2005-06,The Beach Boys,5
+2005-06,The Five Stairsteps,0
+2005-07,Afi,11
+2005-07,Al Green,1
+2005-07,Annie,0
+2005-07,Ashlee Simpson,1
+2005-07,Björk,1
+2005-07,Blitz,4
+2005-07,Daft Punk,1
+2005-07,Electric Light Orchestra Part Ii,7
+2005-07,Elliott Smith,7
+2005-07,Elvis Presley,6
+2005-07,Fall Out Boy,0
+2005-07,Good Charlotte,3
+2005-07,Gwen Stefani,3
+2005-07,Jim Jacobs & Warren Casey,1
+2005-07,Madball,0
+2005-07,Queen,2
+2005-07,Shakira,0
+2005-07,Spoon,0
+2005-07,The Beach Boys,0
+2005-07,The Five Stairsteps,0
+2005-08,Afi,18
+2005-08,Al Green,16
+2005-08,Annie,39
+2005-08,Ashlee Simpson,0
+2005-08,Björk,0
+2005-08,Blitz,1
+2005-08,Daft Punk,5
+2005-08,Electric Light Orchestra Part Ii,1
+2005-08,Elliott Smith,23
+2005-08,Elvis Presley,6
+2005-08,Fall Out Boy,9
+2005-08,Good Charlotte,2
+2005-08,Gwen Stefani,0
+2005-08,Jim Jacobs & Warren Casey,3
+2005-08,Madball,21
+2005-08,Queen,0
+2005-08,Shakira,0
+2005-08,Spoon,4
+2005-08,The Beach Boys,1
+2005-08,The Five Stairsteps,0
+2005-09,Afi,16
+2005-09,Al Green,1
+2005-09,Annie,13
+2005-09,Ashlee Simpson,0
+2005-09,Björk,0
+2005-09,Blitz,2
+2005-09,Daft Punk,10
+2005-09,Electric Light Orchestra Part Ii,1
+2005-09,Elliott Smith,0
+2005-09,Elvis Presley,8
+2005-09,Fall Out Boy,2
+2005-09,Good Charlotte,8
+2005-09,Gwen Stefani,4
+2005-09,Jim Jacobs & Warren Casey,3
+2005-09,Madball,8
+2005-09,Queen,0
+2005-09,Shakira,0
+2005-09,Spoon,2
+2005-09,The Beach Boys,0
+2005-09,The Five Stairsteps,0
+2005-10,Afi,67
+2005-10,Al Green,1
+2005-10,Annie,5
+2005-10,Ashlee Simpson,17
+2005-10,Björk,15
+2005-10,Blitz,27
+2005-10,Daft Punk,11
+2005-10,Electric Light Orchestra Part Ii,2
+2005-10,Elliott Smith,1
+2005-10,Elvis Presley,0
+2005-10,Fall Out Boy,2
+2005-10,Good Charlotte,0
+2005-10,Gwen Stefani,15
+2005-10,Jim Jacobs & Warren Casey,0
+2005-10,Madball,5
+2005-10,Queen,15
+2005-10,Shakira,0
+2005-10,Spoon,0
+2005-10,The Beach Boys,0
+2005-10,The Five Stairsteps,0
+2005-11,Afi,17
+2005-11,Al Green,0
+2005-11,Annie,1
+2005-11,Ashlee Simpson,5
+2005-11,Björk,2
+2005-11,Blitz,0
+2005-11,Daft Punk,28
+2005-11,Electric Light Orchestra Part Ii,4
+2005-11,Elliott Smith,10
+2005-11,Elvis Presley,0
+2005-11,Fall Out Boy,0
+2005-11,Good Charlotte,0
+2005-11,Gwen Stefani,1
+2005-11,Jim Jacobs & Warren Casey,1
+2005-11,Madball,17
+2005-11,Queen,1
+2005-11,Shakira,0
+2005-11,Spoon,1
+2005-11,The Beach Boys,0
+2005-11,The Five Stairsteps,0
+2005-12,Afi,13
+2005-12,Al Green,10
+2005-12,Annie,1
+2005-12,Ashlee Simpson,3
+2005-12,Björk,8
+2005-12,Blitz,0
+2005-12,Daft Punk,5
+2005-12,Electric Light Orchestra Part Ii,1
+2005-12,Elliott Smith,0
+2005-12,Elvis Presley,1
+2005-12,Fall Out Boy,2
+2005-12,Good Charlotte,1
+2005-12,Gwen Stefani,0
+2005-12,Jim Jacobs & Warren Casey,0
+2005-12,Madball,0
+2005-12,Queen,1
+2005-12,Shakira,0
+2005-12,Spoon,2
+2005-12,The Beach Boys,1
+2005-12,The Five Stairsteps,0
+2006-01,Afi,6
+2006-01,Al Green,0
+2006-01,Annie,12
+2006-01,Ashlee Simpson,6
+2006-01,Björk,2
+2006-01,Blitz,1
+2006-01,Daft Punk,4
+2006-01,Electric Light Orchestra Part Ii,0
+2006-01,Elliott Smith,28
+2006-01,Elvis Presley,2
+2006-01,Fall Out Boy,9
+2006-01,Good Charlotte,9
+2006-01,Gwen Stefani,1
+2006-01,Jim Jacobs & Warren Casey,1
+2006-01,Madball,7
+2006-01,Queen,3
+2006-01,Shakira,5
+2006-01,Spoon,0
+2006-01,The Beach Boys,0
+2006-01,The Five Stairsteps,0
+2006-02,Afi,0
+2006-02,Al Green,0
+2006-02,Annie,9
+2006-02,Ashlee Simpson,1
+2006-02,Björk,0
+2006-02,Blitz,3
+2006-02,Daft Punk,1
+2006-02,Electric Light Orchestra Part Ii,1
+2006-02,Elliott Smith,42
+2006-02,Elvis Presley,0
+2006-02,Fall Out Boy,0
+2006-02,Good Charlotte,7
+2006-02,Gwen Stefani,11
+2006-02,Jim Jacobs & Warren Casey,0
+2006-02,Madball,5
+2006-02,Queen,20
+2006-02,Shakira,10
+2006-02,Spoon,0
+2006-02,The Beach Boys,66
+2006-02,The Five Stairsteps,0
+2006-03,Afi,41
+2006-03,Al Green,0
+2006-03,Annie,1
+2006-03,Ashlee Simpson,0
+2006-03,Björk,4
+2006-03,Blitz,0
+2006-03,Daft Punk,0
+2006-03,Electric Light Orchestra Part Ii,0
+2006-03,Elliott Smith,8
+2006-03,Elvis Presley,0
+2006-03,Fall Out Boy,13
+2006-03,Good Charlotte,2
+2006-03,Gwen Stefani,1
+2006-03,Jim Jacobs & Warren Casey,3
+2006-03,Madball,3
+2006-03,Queen,0
+2006-03,Shakira,9
+2006-03,Spoon,0
+2006-03,The Beach Boys,31
+2006-03,The Five Stairsteps,7
+2006-04,Afi,36
+2006-04,Al Green,8
+2006-04,Annie,0
+2006-04,Ashlee Simpson,1
+2006-04,Björk,0
+2006-04,Blitz,15
+2006-04,Daft Punk,2
+2006-04,Electric Light Orchestra Part Ii,0
+2006-04,Elliott Smith,1
+2006-04,Elvis Presley,0
+2006-04,Fall Out Boy,4
+2006-04,Good Charlotte,0
+2006-04,Gwen Stefani,0
+2006-04,Jim Jacobs & Warren Casey,2
+2006-04,Madball,14
+2006-04,Queen,2
+2006-04,Shakira,0
+2006-04,Spoon,7
+2006-04,The Beach Boys,12
+2006-04,The Five Stairsteps,1
+2006-05,Afi,14
+2006-05,Al Green,0
+2006-05,Annie,0
+2006-05,Ashlee Simpson,3
+2006-05,Björk,0
+2006-05,Blitz,0
+2006-05,Daft Punk,0
+2006-05,Electric Light Orchestra Part Ii,0
+2006-05,Elliott Smith,0
+2006-05,Elvis Presley,0
+2006-05,Fall Out Boy,0
+2006-05,Good Charlotte,0
+2006-05,Gwen Stefani,0
+2006-05,Jim Jacobs & Warren Casey,0
+2006-05,Madball,0
+2006-05,Queen,0
+2006-05,Shakira,3
+2006-05,Spoon,48
+2006-05,The Beach Boys,0
+2006-05,The Five Stairsteps,2
+2006-06,Afi,2
+2006-06,Al Green,0
+2006-06,Annie,2
+2006-06,Ashlee Simpson,0
+2006-06,Björk,1
+2006-06,Blitz,1
+2006-06,Daft Punk,4
+2006-06,Electric Light Orchestra Part Ii,1
+2006-06,Elliott Smith,72
+2006-06,Elvis Presley,30
+2006-06,Fall Out Boy,16
+2006-06,Good Charlotte,30
+2006-06,Gwen Stefani,10
+2006-06,Jim Jacobs & Warren Casey,45
+2006-06,Madball,29
+2006-06,Queen,1
+2006-06,Shakira,0
+2006-06,Spoon,6
+2006-06,The Beach Boys,39
+2006-06,The Five Stairsteps,1
+2006-07,Afi,0
+2006-07,Al Green,2
+2006-07,Annie,0
+2006-07,Ashlee Simpson,0
+2006-07,Björk,0
+2006-07,Blitz,0
+2006-07,Daft Punk,0
+2006-07,Electric Light Orchestra Part Ii,0
+2006-07,Elliott Smith,1
+2006-07,Elvis Presley,0
+2006-07,Fall Out Boy,0
+2006-07,Good Charlotte,0
+2006-07,Gwen Stefani,0
+2006-07,Jim Jacobs & Warren Casey,0
+2006-07,Madball,0
+2006-07,Queen,0
+2006-07,Shakira,1
+2006-07,Spoon,0
+2006-07,The Beach Boys,0
+2006-07,The Five Stairsteps,1
+2006-08,Afi,0
+2006-08,Al Green,0
+2006-08,Annie,0
+2006-08,Ashlee Simpson,0
+2006-08,Björk,0
+2006-08,Blitz,0
+2006-08,Daft Punk,1
+2006-08,Electric Light Orchestra Part Ii,0
+2006-08,Elliott Smith,0
+2006-08,Elvis Presley,0
+2006-08,Fall Out Boy,0
+2006-08,Good Charlotte,0
+2006-08,Gwen Stefani,3
+2006-08,Jim Jacobs & Warren Casey,7
+2006-08,Madball,0
+2006-08,Queen,0
+2006-08,Shakira,0
+2006-08,Spoon,13
+2006-08,The Beach Boys,0
+2006-08,The Five Stairsteps,2
+2006-09,Afi,0
+2006-09,Al Green,0
+2006-09,Annie,0
+2006-09,Ashlee Simpson,0
+2006-09,Björk,0
+2006-09,Blitz,0
+2006-09,Daft Punk,0
+2006-09,Electric Light Orchestra Part Ii,0
+2006-09,Elliott Smith,0
+2006-09,Elvis Presley,0
+2006-09,Fall Out Boy,0
+2006-09,Good Charlotte,0
+2006-09,Gwen Stefani,0
+2006-09,Jim Jacobs & Warren Casey,0
+2006-09,Madball,0
+2006-09,Queen,0
+2006-09,Shakira,0
+2006-09,Spoon,0
+2006-09,The Beach Boys,1
+2006-09,The Five Stairsteps,0
+2006-10,Afi,0
+2006-10,Al Green,0
+2006-10,Annie,0
+2006-10,Ashlee Simpson,0
+2006-10,Björk,0
+2006-10,Blitz,0
+2006-10,Daft Punk,0
+2006-10,Electric Light Orchestra Part Ii,0
+2006-10,Elliott Smith,0
+2006-10,Elvis Presley,0
+2006-10,Fall Out Boy,0
+2006-10,Good Charlotte,0
+2006-10,Gwen Stefani,0
+2006-10,Jim Jacobs & Warren Casey,0
+2006-10,Madball,0
+2006-10,Queen,0
+2006-10,Shakira,0
+2006-10,Spoon,2
+2006-10,The Beach Boys,0
+2006-10,The Five Stairsteps,1
+2006-11,Afi,0
+2006-11,Al Green,0
+2006-11,Annie,0
+2006-11,Ashlee Simpson,0
+2006-11,Björk,0
+2006-11,Blitz,0
+2006-11,Daft Punk,34
+2006-11,Electric Light Orchestra Part Ii,1
+2006-11,Elliott Smith,0
+2006-11,Elvis Presley,0
+2006-11,Fall Out Boy,0
+2006-11,Good Charlotte,0
+2006-11,Gwen Stefani,1
+2006-11,Jim Jacobs & Warren Casey,0
+2006-11,Madball,0
+2006-11,Queen,0
+2006-11,Shakira,3
+2006-11,Spoon,7
+2006-11,The Beach Boys,2
+2006-11,The Five Stairsteps,4
+2006-12,Afi,0
+2006-12,Al Green,0
+2006-12,Annie,0
+2006-12,Ashlee Simpson,0
+2006-12,Björk,0
+2006-12,Blitz,0
+2006-12,Daft Punk,0
+2006-12,Electric Light Orchestra Part Ii,0
+2006-12,Elliott Smith,0
+2006-12,Elvis Presley,0
+2006-12,Fall Out Boy,0
+2006-12,Good Charlotte,0
+2006-12,Gwen Stefani,1
+2006-12,Jim Jacobs & Warren Casey,0
+2006-12,Madball,0
+2006-12,Queen,0
+2006-12,Shakira,1
+2006-12,Spoon,2
+2006-12,The Beach Boys,0
+2006-12,The Five Stairsteps,1
+2007-01,Afi,4
+2007-01,Al Green,1
+2007-01,Annie,0
+2007-01,Ashlee Simpson,0
+2007-01,Björk,1
+2007-01,Blitz,0
+2007-01,Daft Punk,0
+2007-01,Electric Light Orchestra Part Ii,0
+2007-01,Elliott Smith,0
+2007-01,Elvis Presley,3
+2007-01,Fall Out Boy,0
+2007-01,Good Charlotte,0
+2007-01,Gwen Stefani,0
+2007-01,Jim Jacobs & Warren Casey,1
+2007-01,Madball,0
+2007-01,Queen,0
+2007-01,Shakira,2
+2007-01,Spoon,0
+2007-01,The Beach Boys,14
+2007-01,The Five Stairsteps,1
+2007-02,Afi,0
+2007-02,Al Green,0
+2007-02,Annie,0
+2007-02,Ashlee Simpson,0
+2007-02,Björk,0
+2007-02,Blitz,0
+2007-02,Daft Punk,0
+2007-02,Electric Light Orchestra Part Ii,0
+2007-02,Elliott Smith,0
+2007-02,Elvis Presley,0
+2007-02,Fall Out Boy,0
+2007-02,Good Charlotte,0
+2007-02,Gwen Stefani,0
+2007-02,Jim Jacobs & Warren Casey,0
+2007-02,Madball,0
+2007-02,Queen,0
+2007-02,Shakira,0
+2007-02,Spoon,0
+2007-02,The Beach Boys,0
+2007-02,The Five Stairsteps,0
+2007-03,Afi,0
+2007-03,Al Green,0
+2007-03,Annie,0
+2007-03,Ashlee Simpson,0
+2007-03,Björk,0
+2007-03,Blitz,0
+2007-03,Daft Punk,0
+2007-03,Electric Light Orchestra Part Ii,0
+2007-03,Elliott Smith,0
+2007-03,Elvis Presley,0
+2007-03,Fall Out Boy,0
+2007-03,Good Charlotte,0
+2007-03,Gwen Stefani,0
+2007-03,Jim Jacobs & Warren Casey,0
+2007-03,Madball,0
+2007-03,Queen,0
+2007-03,Shakira,0
+2007-03,Spoon,0
+2007-03,The Beach Boys,0
+2007-03,The Five Stairsteps,0
+2007-04,Afi,0
+2007-04,Al Green,0
+2007-04,Annie,0
+2007-04,Ashlee Simpson,0
+2007-04,Björk,0
+2007-04,Blitz,0
+2007-04,Daft Punk,0
+2007-04,Electric Light Orchestra Part Ii,0
+2007-04,Elliott Smith,0
+2007-04,Elvis Presley,0
+2007-04,Fall Out Boy,0
+2007-04,Good Charlotte,0
+2007-04,Gwen Stefani,0
+2007-04,Jim Jacobs & Warren Casey,0
+2007-04,Madball,0
+2007-04,Queen,0
+2007-04,Shakira,0
+2007-04,Spoon,0
+2007-04,The Beach Boys,0
+2007-04,The Five Stairsteps,0
+2007-05,Afi,0
+2007-05,Al Green,0
+2007-05,Annie,0
+2007-05,Ashlee Simpson,0
+2007-05,Björk,0
+2007-05,Blitz,0
+2007-05,Daft Punk,0
+2007-05,Electric Light Orchestra Part Ii,0
+2007-05,Elliott Smith,0
+2007-05,Elvis Presley,0
+2007-05,Fall Out Boy,0
+2007-05,Good Charlotte,0
+2007-05,Gwen Stefani,0
+2007-05,Jim Jacobs & Warren Casey,0
+2007-05,Madball,0
+2007-05,Queen,0
+2007-05,Shakira,0
+2007-05,Spoon,4
+2007-05,The Beach Boys,0
+2007-05,The Five Stairsteps,0
+2007-06,Afi,0
+2007-06,Al Green,0
+2007-06,Annie,0
+2007-06,Ashlee Simpson,0
+2007-06,Björk,0
+2007-06,Blitz,0
+2007-06,Daft Punk,0
+2007-06,Electric Light Orchestra Part Ii,0
+2007-06,Elliott Smith,0
+2007-06,Elvis Presley,0
+2007-06,Fall Out Boy,0
+2007-06,Good Charlotte,0
+2007-06,Gwen Stefani,0
+2007-06,Jim Jacobs & Warren Casey,0
+2007-06,Madball,0
+2007-06,Queen,0
+2007-06,Shakira,0
+2007-06,Spoon,0
+2007-06,The Beach Boys,0
+2007-06,The Five Stairsteps,0
+2007-07,Afi,18
+2007-07,Al Green,0
+2007-07,Annie,0
+2007-07,Ashlee Simpson,0
+2007-07,Björk,11
+2007-07,Blitz,0
+2007-07,Daft Punk,0
+2007-07,Electric Light Orchestra Part Ii,0
+2007-07,Elliott Smith,0
+2007-07,Elvis Presley,1
+2007-07,Fall Out Boy,0
+2007-07,Good Charlotte,0
+2007-07,Gwen Stefani,0
+2007-07,Jim Jacobs & Warren Casey,0
+2007-07,Madball,0
+2007-07,Queen,0
+2007-07,Shakira,0
+2007-07,Spoon,0
+2007-07,The Beach Boys,86
+2007-07,The Five Stairsteps,0
+2007-08,Afi,0
+2007-08,Al Green,0
+2007-08,Annie,0
+2007-08,Ashlee Simpson,0
+2007-08,Björk,0
+2007-08,Blitz,0
+2007-08,Daft Punk,0
+2007-08,Electric Light Orchestra Part Ii,0
+2007-08,Elliott Smith,0
+2007-08,Elvis Presley,0
+2007-08,Fall Out Boy,0
+2007-08,Good Charlotte,0
+2007-08,Gwen Stefani,0
+2007-08,Jim Jacobs & Warren Casey,0
+2007-08,Madball,0
+2007-08,Queen,0
+2007-08,Shakira,0
+2007-08,Spoon,0
+2007-08,The Beach Boys,0
+2007-08,The Five Stairsteps,0
+2007-09,Afi,0
+2007-09,Al Green,0
+2007-09,Annie,0
+2007-09,Ashlee Simpson,0
+2007-09,Björk,0
+2007-09,Blitz,0
+2007-09,Daft Punk,0
+2007-09,Electric Light Orchestra Part Ii,0
+2007-09,Elliott Smith,0
+2007-09,Elvis Presley,0
+2007-09,Fall Out Boy,0
+2007-09,Good Charlotte,0
+2007-09,Gwen Stefani,0
+2007-09,Jim Jacobs & Warren Casey,0
+2007-09,Madball,0
+2007-09,Queen,0
+2007-09,Shakira,0
+2007-09,Spoon,0
+2007-09,The Beach Boys,0
+2007-09,The Five Stairsteps,0
+2007-10,Afi,0
+2007-10,Al Green,0
+2007-10,Annie,0
+2007-10,Ashlee Simpson,0
+2007-10,Björk,0
+2007-10,Blitz,0
+2007-10,Daft Punk,0
+2007-10,Electric Light Orchestra Part Ii,0
+2007-10,Elliott Smith,0
+2007-10,Elvis Presley,0
+2007-10,Fall Out Boy,0
+2007-10,Good Charlotte,0
+2007-10,Gwen Stefani,0
+2007-10,Jim Jacobs & Warren Casey,0
+2007-10,Madball,0
+2007-10,Queen,0
+2007-10,Shakira,1
+2007-10,Spoon,0
+2007-10,The Beach Boys,0
+2007-10,The Five Stairsteps,1
+2007-11,Afi,0
+2007-11,Al Green,0
+2007-11,Annie,0
+2007-11,Ashlee Simpson,0
+2007-11,Björk,0
+2007-11,Blitz,0
+2007-11,Daft Punk,0
+2007-11,Electric Light Orchestra Part Ii,0
+2007-11,Elliott Smith,0
+2007-11,Elvis Presley,0
+2007-11,Fall Out Boy,0
+2007-11,Good Charlotte,0
+2007-11,Gwen Stefani,0
+2007-11,Jim Jacobs & Warren Casey,0
+2007-11,Madball,0
+2007-11,Queen,0
+2007-11,Shakira,0
+2007-11,Spoon,0
+2007-11,The Beach Boys,0
+2007-11,The Five Stairsteps,0
+2007-12,Afi,0
+2007-12,Al Green,0
+2007-12,Annie,0
+2007-12,Ashlee Simpson,0
+2007-12,Björk,0
+2007-12,Blitz,0
+2007-12,Daft Punk,0
+2007-12,Electric Light Orchestra Part Ii,0
+2007-12,Elliott Smith,0
+2007-12,Elvis Presley,0
+2007-12,Fall Out Boy,0
+2007-12,Good Charlotte,0
+2007-12,Gwen Stefani,0
+2007-12,Jim Jacobs & Warren Casey,0
+2007-12,Madball,0
+2007-12,Queen,0
+2007-12,Shakira,1
+2007-12,Spoon,0
+2007-12,The Beach Boys,0
+2007-12,The Five Stairsteps,1
+2008-01,Afi,0
+2008-01,Al Green,0
+2008-01,Annie,0
+2008-01,Ashlee Simpson,0
+2008-01,Björk,0
+2008-01,Blitz,0
+2008-01,Daft Punk,0
+2008-01,Electric Light Orchestra Part Ii,0
+2008-01,Elliott Smith,0
+2008-01,Elvis Presley,0
+2008-01,Fall Out Boy,0
+2008-01,Good Charlotte,0
+2008-01,Gwen Stefani,0
+2008-01,Jim Jacobs & Warren Casey,0
+2008-01,Madball,0
+2008-01,Queen,0
+2008-01,Shakira,0
+2008-01,Spoon,0
+2008-01,The Beach Boys,0
+2008-01,The Five Stairsteps,0
+2008-02,Afi,0
+2008-02,Al Green,0
+2008-02,Annie,0
+2008-02,Ashlee Simpson,0
+2008-02,Björk,0
+2008-02,Blitz,0
+2008-02,Daft Punk,0
+2008-02,Electric Light Orchestra Part Ii,0
+2008-02,Elliott Smith,0
+2008-02,Elvis Presley,0
+2008-02,Fall Out Boy,0
+2008-02,Good Charlotte,0
+2008-02,Gwen Stefani,0
+2008-02,Jim Jacobs & Warren Casey,0
+2008-02,Madball,0
+2008-02,Queen,0
+2008-02,Shakira,0
+2008-02,Spoon,0
+2008-02,The Beach Boys,0
+2008-02,The Five Stairsteps,0
+2008-03,Afi,0
+2008-03,Al Green,0
+2008-03,Annie,0
+2008-03,Ashlee Simpson,0
+2008-03,Björk,0
+2008-03,Blitz,0
+2008-03,Daft Punk,0
+2008-03,Electric Light Orchestra Part Ii,0
+2008-03,Elliott Smith,0
+2008-03,Elvis Presley,0
+2008-03,Fall Out Boy,0
+2008-03,Good Charlotte,0
+2008-03,Gwen Stefani,0
+2008-03,Jim Jacobs & Warren Casey,0
+2008-03,Madball,0
+2008-03,Queen,0
+2008-03,Shakira,1
+2008-03,Spoon,15
+2008-03,The Beach Boys,0
+2008-03,The Five Stairsteps,0
+2008-04,Afi,0
+2008-04,Al Green,0
+2008-04,Annie,0
+2008-04,Ashlee Simpson,0
+2008-04,Björk,0
+2008-04,Blitz,0
+2008-04,Daft Punk,0
+2008-04,Electric Light Orchestra Part Ii,0
+2008-04,Elliott Smith,0
+2008-04,Elvis Presley,0
+2008-04,Fall Out Boy,0
+2008-04,Good Charlotte,0
+2008-04,Gwen Stefani,0
+2008-04,Jim Jacobs & Warren Casey,0
+2008-04,Madball,0
+2008-04,Queen,0
+2008-04,Shakira,0
+2008-04,Spoon,0
+2008-04,The Beach Boys,0
+2008-04,The Five Stairsteps,0
+2008-05,Afi,0
+2008-05,Al Green,0
+2008-05,Annie,0
+2008-05,Ashlee Simpson,0
+2008-05,Björk,0
+2008-05,Blitz,1
+2008-05,Daft Punk,0
+2008-05,Electric Light Orchestra Part Ii,0
+2008-05,Elliott Smith,0
+2008-05,Elvis Presley,0
+2008-05,Fall Out Boy,0
+2008-05,Good Charlotte,0
+2008-05,Gwen Stefani,0
+2008-05,Jim Jacobs & Warren Casey,0
+2008-05,Madball,0
+2008-05,Queen,0
+2008-05,Shakira,1
+2008-05,Spoon,0
+2008-05,The Beach Boys,0
+2008-05,The Five Stairsteps,1
+2008-06,Afi,4
+2008-06,Al Green,1
+2008-06,Annie,0
+2008-06,Ashlee Simpson,0
+2008-06,Björk,0
+2008-06,Blitz,3
+2008-06,Daft Punk,2
+2008-06,Electric Light Orchestra Part Ii,0
+2008-06,Elliott Smith,2
+2008-06,Elvis Presley,0
+2008-06,Fall Out Boy,0
+2008-06,Good Charlotte,0
+2008-06,Gwen Stefani,0
+2008-06,Jim Jacobs & Warren Casey,2
+2008-06,Madball,1
+2008-06,Queen,1
+2008-06,Shakira,0
+2008-06,Spoon,0
+2008-06,The Beach Boys,4
+2008-06,The Five Stairsteps,0
+2008-07,Afi,0
+2008-07,Al Green,0
+2008-07,Annie,0
+2008-07,Ashlee Simpson,0
+2008-07,Björk,0
+2008-07,Blitz,0
+2008-07,Daft Punk,0
+2008-07,Electric Light Orchestra Part Ii,0
+2008-07,Elliott Smith,0
+2008-07,Elvis Presley,0
+2008-07,Fall Out Boy,0
+2008-07,Good Charlotte,0
+2008-07,Gwen Stefani,0
+2008-07,Jim Jacobs & Warren Casey,0
+2008-07,Madball,0
+2008-07,Queen,0
+2008-07,Shakira,0
+2008-07,Spoon,0
+2008-07,The Beach Boys,0
+2008-07,The Five Stairsteps,0
+2008-08,Afi,0
+2008-08,Al Green,0
+2008-08,Annie,0
+2008-08,Ashlee Simpson,0
+2008-08,Björk,0
+2008-08,Blitz,0
+2008-08,Daft Punk,0
+2008-08,Electric Light Orchestra Part Ii,0
+2008-08,Elliott Smith,0
+2008-08,Elvis Presley,0
+2008-08,Fall Out Boy,0
+2008-08,Good Charlotte,0
+2008-08,Gwen Stefani,0
+2008-08,Jim Jacobs & Warren Casey,0
+2008-08,Madball,0
+2008-08,Queen,0
+2008-08,Shakira,0
+2008-08,Spoon,0
+2008-08,The Beach Boys,0
+2008-08,The Five Stairsteps,0
+2008-09,Afi,1
+2008-09,Al Green,1
+2008-09,Annie,1
+2008-09,Ashlee Simpson,1
+2008-09,Björk,0
+2008-09,Blitz,0
+2008-09,Daft Punk,0
+2008-09,Electric Light Orchestra Part Ii,0
+2008-09,Elliott Smith,0
+2008-09,Elvis Presley,0
+2008-09,Fall Out Boy,0
+2008-09,Good Charlotte,0
+2008-09,Gwen Stefani,0
+2008-09,Jim Jacobs & Warren Casey,0
+2008-09,Madball,0
+2008-09,Queen,0
+2008-09,Shakira,0
+2008-09,Spoon,2
+2008-09,The Beach Boys,0
+2008-09,The Five Stairsteps,0

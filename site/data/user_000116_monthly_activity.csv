@@ -1,0 +1,581 @@
+month,artist,plays
+2006-12,Björk,0
+2006-12,Coldplay,6
+2006-12,David Bowie,5
+2006-12,Depeche Mode,2
+2006-12,Guano Apes,5
+2006-12,Hooverphonic,5
+2006-12,Janis Joplin,8
+2006-12,Marilyn Manson,6
+2006-12,Muse,16
+2006-12,Nirvana,16
+2006-12,Oasis,3
+2006-12,P!Nk,2
+2006-12,Pj Harvey,19
+2006-12,Placebo,62
+2006-12,Radiohead,3
+2006-12,Red Hot Chili Peppers,6
+2006-12,The Cure,5
+2006-12,The Killers,2
+2006-12,The Smashing Pumpkins,6
+2006-12,Yeah Yeah Yeahs,5
+2007-01,Björk,1
+2007-01,Coldplay,1
+2007-01,David Bowie,1
+2007-01,Depeche Mode,1
+2007-01,Guano Apes,1
+2007-01,Hooverphonic,4
+2007-01,Janis Joplin,4
+2007-01,Marilyn Manson,15
+2007-01,Muse,10
+2007-01,Nirvana,15
+2007-01,Oasis,0
+2007-01,P!Nk,12
+2007-01,Pj Harvey,1
+2007-01,Placebo,124
+2007-01,Radiohead,0
+2007-01,Red Hot Chili Peppers,0
+2007-01,The Cure,18
+2007-01,The Killers,0
+2007-01,The Smashing Pumpkins,0
+2007-01,Yeah Yeah Yeahs,9
+2007-02,Björk,0
+2007-02,Coldplay,0
+2007-02,David Bowie,0
+2007-02,Depeche Mode,0
+2007-02,Guano Apes,1
+2007-02,Hooverphonic,4
+2007-02,Janis Joplin,11
+2007-02,Marilyn Manson,2
+2007-02,Muse,10
+2007-02,Nirvana,5
+2007-02,Oasis,1
+2007-02,P!Nk,57
+2007-02,Pj Harvey,0
+2007-02,Placebo,46
+2007-02,Radiohead,3
+2007-02,Red Hot Chili Peppers,11
+2007-02,The Cure,15
+2007-02,The Killers,15
+2007-02,The Smashing Pumpkins,10
+2007-02,Yeah Yeah Yeahs,1
+2007-03,Björk,0
+2007-03,Coldplay,2
+2007-03,David Bowie,2
+2007-03,Depeche Mode,1
+2007-03,Guano Apes,0
+2007-03,Hooverphonic,0
+2007-03,Janis Joplin,3
+2007-03,Marilyn Manson,1
+2007-03,Muse,4
+2007-03,Nirvana,0
+2007-03,Oasis,2
+2007-03,P!Nk,0
+2007-03,Pj Harvey,2
+2007-03,Placebo,1
+2007-03,Radiohead,1
+2007-03,Red Hot Chili Peppers,0
+2007-03,The Cure,0
+2007-03,The Killers,1
+2007-03,The Smashing Pumpkins,1
+2007-03,Yeah Yeah Yeahs,0
+2007-04,Björk,0
+2007-04,Coldplay,0
+2007-04,David Bowie,2
+2007-04,Depeche Mode,0
+2007-04,Guano Apes,14
+2007-04,Hooverphonic,0
+2007-04,Janis Joplin,8
+2007-04,Marilyn Manson,1
+2007-04,Muse,24
+2007-04,Nirvana,10
+2007-04,Oasis,2
+2007-04,P!Nk,6
+2007-04,Pj Harvey,3
+2007-04,Placebo,4
+2007-04,Radiohead,0
+2007-04,Red Hot Chili Peppers,4
+2007-04,The Cure,14
+2007-04,The Killers,2
+2007-04,The Smashing Pumpkins,0
+2007-04,Yeah Yeah Yeahs,1
+2007-05,Björk,0
+2007-05,Coldplay,0
+2007-05,David Bowie,0
+2007-05,Depeche Mode,0
+2007-05,Guano Apes,12
+2007-05,Hooverphonic,0
+2007-05,Janis Joplin,1
+2007-05,Marilyn Manson,20
+2007-05,Muse,0
+2007-05,Nirvana,1
+2007-05,Oasis,0
+2007-05,P!Nk,1
+2007-05,Pj Harvey,11
+2007-05,Placebo,0
+2007-05,Radiohead,0
+2007-05,Red Hot Chili Peppers,0
+2007-05,The Cure,8
+2007-05,The Killers,0
+2007-05,The Smashing Pumpkins,0
+2007-05,Yeah Yeah Yeahs,0
+2007-06,Björk,17
+2007-06,Coldplay,4
+2007-06,David Bowie,27
+2007-06,Depeche Mode,2
+2007-06,Guano Apes,1
+2007-06,Hooverphonic,5
+2007-06,Janis Joplin,21
+2007-06,Marilyn Manson,11
+2007-06,Muse,12
+2007-06,Nirvana,1
+2007-06,Oasis,3
+2007-06,P!Nk,0
+2007-06,Pj Harvey,8
+2007-06,Placebo,118
+2007-06,Radiohead,18
+2007-06,Red Hot Chili Peppers,1
+2007-06,The Cure,3
+2007-06,The Killers,15
+2007-06,The Smashing Pumpkins,41
+2007-06,Yeah Yeah Yeahs,2
+2007-07,Björk,8
+2007-07,Coldplay,14
+2007-07,David Bowie,0
+2007-07,Depeche Mode,17
+2007-07,Guano Apes,0
+2007-07,Hooverphonic,13
+2007-07,Janis Joplin,123
+2007-07,Marilyn Manson,12
+2007-07,Muse,0
+2007-07,Nirvana,77
+2007-07,Oasis,0
+2007-07,P!Nk,11
+2007-07,Pj Harvey,22
+2007-07,Placebo,62
+2007-07,Radiohead,0
+2007-07,Red Hot Chili Peppers,16
+2007-07,The Cure,13
+2007-07,The Killers,11
+2007-07,The Smashing Pumpkins,28
+2007-07,Yeah Yeah Yeahs,1
+2007-08,Björk,0
+2007-08,Coldplay,0
+2007-08,David Bowie,0
+2007-08,Depeche Mode,0
+2007-08,Guano Apes,0
+2007-08,Hooverphonic,0
+2007-08,Janis Joplin,0
+2007-08,Marilyn Manson,0
+2007-08,Muse,0
+2007-08,Nirvana,0
+2007-08,Oasis,0
+2007-08,P!Nk,0
+2007-08,Pj Harvey,0
+2007-08,Placebo,0
+2007-08,Radiohead,0
+2007-08,Red Hot Chili Peppers,0
+2007-08,The Cure,0
+2007-08,The Killers,0
+2007-08,The Smashing Pumpkins,0
+2007-08,Yeah Yeah Yeahs,0
+2007-09,Björk,0
+2007-09,Coldplay,0
+2007-09,David Bowie,0
+2007-09,Depeche Mode,0
+2007-09,Guano Apes,0
+2007-09,Hooverphonic,0
+2007-09,Janis Joplin,0
+2007-09,Marilyn Manson,0
+2007-09,Muse,0
+2007-09,Nirvana,0
+2007-09,Oasis,0
+2007-09,P!Nk,0
+2007-09,Pj Harvey,0
+2007-09,Placebo,0
+2007-09,Radiohead,0
+2007-09,Red Hot Chili Peppers,0
+2007-09,The Cure,0
+2007-09,The Killers,0
+2007-09,The Smashing Pumpkins,0
+2007-09,Yeah Yeah Yeahs,0
+2007-10,Björk,0
+2007-10,Coldplay,0
+2007-10,David Bowie,0
+2007-10,Depeche Mode,0
+2007-10,Guano Apes,0
+2007-10,Hooverphonic,0
+2007-10,Janis Joplin,0
+2007-10,Marilyn Manson,0
+2007-10,Muse,0
+2007-10,Nirvana,0
+2007-10,Oasis,0
+2007-10,P!Nk,0
+2007-10,Pj Harvey,0
+2007-10,Placebo,0
+2007-10,Radiohead,0
+2007-10,Red Hot Chili Peppers,0
+2007-10,The Cure,0
+2007-10,The Killers,0
+2007-10,The Smashing Pumpkins,0
+2007-10,Yeah Yeah Yeahs,0
+2007-11,Björk,0
+2007-11,Coldplay,0
+2007-11,David Bowie,0
+2007-11,Depeche Mode,0
+2007-11,Guano Apes,0
+2007-11,Hooverphonic,0
+2007-11,Janis Joplin,0
+2007-11,Marilyn Manson,0
+2007-11,Muse,0
+2007-11,Nirvana,0
+2007-11,Oasis,0
+2007-11,P!Nk,0
+2007-11,Pj Harvey,0
+2007-11,Placebo,0
+2007-11,Radiohead,0
+2007-11,Red Hot Chili Peppers,0
+2007-11,The Cure,0
+2007-11,The Killers,0
+2007-11,The Smashing Pumpkins,0
+2007-11,Yeah Yeah Yeahs,0
+2007-12,Björk,0
+2007-12,Coldplay,0
+2007-12,David Bowie,0
+2007-12,Depeche Mode,0
+2007-12,Guano Apes,0
+2007-12,Hooverphonic,0
+2007-12,Janis Joplin,0
+2007-12,Marilyn Manson,0
+2007-12,Muse,0
+2007-12,Nirvana,0
+2007-12,Oasis,0
+2007-12,P!Nk,0
+2007-12,Pj Harvey,0
+2007-12,Placebo,0
+2007-12,Radiohead,0
+2007-12,Red Hot Chili Peppers,0
+2007-12,The Cure,0
+2007-12,The Killers,0
+2007-12,The Smashing Pumpkins,0
+2007-12,Yeah Yeah Yeahs,0
+2008-01,Björk,0
+2008-01,Coldplay,0
+2008-01,David Bowie,0
+2008-01,Depeche Mode,0
+2008-01,Guano Apes,0
+2008-01,Hooverphonic,0
+2008-01,Janis Joplin,0
+2008-01,Marilyn Manson,0
+2008-01,Muse,0
+2008-01,Nirvana,0
+2008-01,Oasis,0
+2008-01,P!Nk,0
+2008-01,Pj Harvey,0
+2008-01,Placebo,0
+2008-01,Radiohead,0
+2008-01,Red Hot Chili Peppers,0
+2008-01,The Cure,0
+2008-01,The Killers,0
+2008-01,The Smashing Pumpkins,0
+2008-01,Yeah Yeah Yeahs,0
+2008-02,Björk,0
+2008-02,Coldplay,0
+2008-02,David Bowie,0
+2008-02,Depeche Mode,0
+2008-02,Guano Apes,0
+2008-02,Hooverphonic,0
+2008-02,Janis Joplin,0
+2008-02,Marilyn Manson,0
+2008-02,Muse,0
+2008-02,Nirvana,0
+2008-02,Oasis,0
+2008-02,P!Nk,0
+2008-02,Pj Harvey,0
+2008-02,Placebo,0
+2008-02,Radiohead,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,The Cure,0
+2008-02,The Killers,0
+2008-02,The Smashing Pumpkins,0
+2008-02,Yeah Yeah Yeahs,0
+2008-03,Björk,1
+2008-03,Coldplay,14
+2008-03,David Bowie,1
+2008-03,Depeche Mode,15
+2008-03,Guano Apes,0
+2008-03,Hooverphonic,14
+2008-03,Janis Joplin,0
+2008-03,Marilyn Manson,0
+2008-03,Muse,1
+2008-03,Nirvana,0
+2008-03,Oasis,1
+2008-03,P!Nk,0
+2008-03,Pj Harvey,0
+2008-03,Placebo,102
+2008-03,Radiohead,1
+2008-03,Red Hot Chili Peppers,0
+2008-03,The Cure,0
+2008-03,The Killers,0
+2008-03,The Smashing Pumpkins,0
+2008-03,Yeah Yeah Yeahs,12
+2008-04,Björk,1
+2008-04,Coldplay,5
+2008-04,David Bowie,1
+2008-04,Depeche Mode,4
+2008-04,Guano Apes,0
+2008-04,Hooverphonic,0
+2008-04,Janis Joplin,30
+2008-04,Marilyn Manson,12
+2008-04,Muse,7
+2008-04,Nirvana,1
+2008-04,Oasis,1
+2008-04,P!Nk,25
+2008-04,Pj Harvey,4
+2008-04,Placebo,5
+2008-04,Radiohead,6
+2008-04,Red Hot Chili Peppers,1
+2008-04,The Cure,8
+2008-04,The Killers,4
+2008-04,The Smashing Pumpkins,10
+2008-04,Yeah Yeah Yeahs,0
+2008-05,Björk,1
+2008-05,Coldplay,2
+2008-05,David Bowie,0
+2008-05,Depeche Mode,0
+2008-05,Guano Apes,1
+2008-05,Hooverphonic,0
+2008-05,Janis Joplin,0
+2008-05,Marilyn Manson,1
+2008-05,Muse,3
+2008-05,Nirvana,1
+2008-05,Oasis,0
+2008-05,P!Nk,0
+2008-05,Pj Harvey,1
+2008-05,Placebo,4
+2008-05,Radiohead,0
+2008-05,Red Hot Chili Peppers,2
+2008-05,The Cure,0
+2008-05,The Killers,2
+2008-05,The Smashing Pumpkins,1
+2008-05,Yeah Yeah Yeahs,1
+2008-06,Björk,0
+2008-06,Coldplay,1
+2008-06,David Bowie,0
+2008-06,Depeche Mode,0
+2008-06,Guano Apes,1
+2008-06,Hooverphonic,0
+2008-06,Janis Joplin,0
+2008-06,Marilyn Manson,0
+2008-06,Muse,1
+2008-06,Nirvana,1
+2008-06,Oasis,1
+2008-06,P!Nk,0
+2008-06,Pj Harvey,0
+2008-06,Placebo,1
+2008-06,Radiohead,1
+2008-06,Red Hot Chili Peppers,0
+2008-06,The Cure,0
+2008-06,The Killers,1
+2008-06,The Smashing Pumpkins,1
+2008-06,Yeah Yeah Yeahs,0
+2008-07,Björk,0
+2008-07,Coldplay,0
+2008-07,David Bowie,0
+2008-07,Depeche Mode,0
+2008-07,Guano Apes,0
+2008-07,Hooverphonic,0
+2008-07,Janis Joplin,0
+2008-07,Marilyn Manson,0
+2008-07,Muse,0
+2008-07,Nirvana,0
+2008-07,Oasis,0
+2008-07,P!Nk,0
+2008-07,Pj Harvey,0
+2008-07,Placebo,0
+2008-07,Radiohead,0
+2008-07,Red Hot Chili Peppers,0
+2008-07,The Cure,0
+2008-07,The Killers,0
+2008-07,The Smashing Pumpkins,0
+2008-07,Yeah Yeah Yeahs,0
+2008-08,Björk,0
+2008-08,Coldplay,0
+2008-08,David Bowie,0
+2008-08,Depeche Mode,0
+2008-08,Guano Apes,0
+2008-08,Hooverphonic,0
+2008-08,Janis Joplin,0
+2008-08,Marilyn Manson,0
+2008-08,Muse,0
+2008-08,Nirvana,0
+2008-08,Oasis,0
+2008-08,P!Nk,0
+2008-08,Pj Harvey,0
+2008-08,Placebo,0
+2008-08,Radiohead,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,The Cure,0
+2008-08,The Killers,0
+2008-08,The Smashing Pumpkins,0
+2008-08,Yeah Yeah Yeahs,0
+2008-09,Björk,1
+2008-09,Coldplay,3
+2008-09,David Bowie,1
+2008-09,Depeche Mode,1
+2008-09,Guano Apes,4
+2008-09,Hooverphonic,3
+2008-09,Janis Joplin,4
+2008-09,Marilyn Manson,6
+2008-09,Muse,4
+2008-09,Nirvana,4
+2008-09,Oasis,2
+2008-09,P!Nk,1
+2008-09,Pj Harvey,2
+2008-09,Placebo,7
+2008-09,Radiohead,4
+2008-09,Red Hot Chili Peppers,1
+2008-09,The Cure,3
+2008-09,The Killers,2
+2008-09,The Smashing Pumpkins,4
+2008-09,Yeah Yeah Yeahs,3
+2008-10,Björk,2
+2008-10,Coldplay,22
+2008-10,David Bowie,18
+2008-10,Depeche Mode,8
+2008-10,Guano Apes,6
+2008-10,Hooverphonic,8
+2008-10,Janis Joplin,16
+2008-10,Marilyn Manson,8
+2008-10,Muse,8
+2008-10,Nirvana,10
+2008-10,Oasis,9
+2008-10,P!Nk,2
+2008-10,Pj Harvey,15
+2008-10,Placebo,35
+2008-10,Radiohead,13
+2008-10,Red Hot Chili Peppers,2
+2008-10,The Cure,18
+2008-10,The Killers,20
+2008-10,The Smashing Pumpkins,10
+2008-10,Yeah Yeah Yeahs,13
+2008-11,Björk,35
+2008-11,Coldplay,13
+2008-11,David Bowie,1
+2008-11,Depeche Mode,30
+2008-11,Guano Apes,1
+2008-11,Hooverphonic,8
+2008-11,Janis Joplin,165
+2008-11,Marilyn Manson,2
+2008-11,Muse,442
+2008-11,Nirvana,6
+2008-11,Oasis,6
+2008-11,P!Nk,15
+2008-11,Pj Harvey,1
+2008-11,Placebo,308
+2008-11,Radiohead,12
+2008-11,Red Hot Chili Peppers,1
+2008-11,The Cure,3
+2008-11,The Killers,4
+2008-11,The Smashing Pumpkins,5
+2008-11,Yeah Yeah Yeahs,0
+2008-12,Björk,0
+2008-12,Coldplay,0
+2008-12,David Bowie,0
+2008-12,Depeche Mode,0
+2008-12,Guano Apes,0
+2008-12,Hooverphonic,0
+2008-12,Janis Joplin,0
+2008-12,Marilyn Manson,0
+2008-12,Muse,0
+2008-12,Nirvana,0
+2008-12,Oasis,0
+2008-12,P!Nk,0
+2008-12,Pj Harvey,0
+2008-12,Placebo,0
+2008-12,Radiohead,0
+2008-12,Red Hot Chili Peppers,0
+2008-12,The Cure,0
+2008-12,The Killers,0
+2008-12,The Smashing Pumpkins,0
+2008-12,Yeah Yeah Yeahs,0
+2009-01,Björk,0
+2009-01,Coldplay,0
+2009-01,David Bowie,0
+2009-01,Depeche Mode,0
+2009-01,Guano Apes,0
+2009-01,Hooverphonic,0
+2009-01,Janis Joplin,0
+2009-01,Marilyn Manson,0
+2009-01,Muse,0
+2009-01,Nirvana,0
+2009-01,Oasis,0
+2009-01,P!Nk,0
+2009-01,Pj Harvey,0
+2009-01,Placebo,0
+2009-01,Radiohead,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,The Cure,0
+2009-01,The Killers,0
+2009-01,The Smashing Pumpkins,0
+2009-01,Yeah Yeah Yeahs,0
+2009-02,Björk,1
+2009-02,Coldplay,1
+2009-02,David Bowie,1
+2009-02,Depeche Mode,1
+2009-02,Guano Apes,0
+2009-02,Hooverphonic,1
+2009-02,Janis Joplin,2
+2009-02,Marilyn Manson,0
+2009-02,Muse,1
+2009-02,Nirvana,1
+2009-02,Oasis,0
+2009-02,P!Nk,0
+2009-02,Pj Harvey,0
+2009-02,Placebo,1
+2009-02,Radiohead,0
+2009-02,Red Hot Chili Peppers,1
+2009-02,The Cure,2
+2009-02,The Killers,0
+2009-02,The Smashing Pumpkins,0
+2009-02,Yeah Yeah Yeahs,0
+2009-03,Björk,2
+2009-03,Coldplay,16
+2009-03,David Bowie,7
+2009-03,Depeche Mode,6
+2009-03,Guano Apes,3
+2009-03,Hooverphonic,5
+2009-03,Janis Joplin,22
+2009-03,Marilyn Manson,12
+2009-03,Muse,19
+2009-03,Nirvana,7
+2009-03,Oasis,6
+2009-03,P!Nk,5
+2009-03,Pj Harvey,22
+2009-03,Placebo,52
+2009-03,Radiohead,21
+2009-03,Red Hot Chili Peppers,3
+2009-03,The Cure,18
+2009-03,The Killers,19
+2009-03,The Smashing Pumpkins,24
+2009-03,Yeah Yeah Yeahs,22
+2009-04,Björk,2
+2009-04,Coldplay,0
+2009-04,David Bowie,0
+2009-04,Depeche Mode,4
+2009-04,Guano Apes,0
+2009-04,Hooverphonic,1
+2009-04,Janis Joplin,40
+2009-04,Marilyn Manson,0
+2009-04,Muse,0
+2009-04,Nirvana,0
+2009-04,Oasis,0
+2009-04,P!Nk,8
+2009-04,Pj Harvey,0
+2009-04,Placebo,3
+2009-04,Radiohead,1
+2009-04,Red Hot Chili Peppers,0
+2009-04,The Cure,0
+2009-04,The Killers,0
+2009-04,The Smashing Pumpkins,0
+2009-04,Yeah Yeah Yeahs,1

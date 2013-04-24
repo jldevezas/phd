@@ -1,0 +1,821 @@
+month,artist,plays
+2005-12,Air,36
+2005-12,Alexandre Desplat,23
+2005-12,Aphex Twin,11
+2005-12,Björk,41
+2005-12,Broadcast,51
+2005-12,Broken Social Scene,12
+2005-12,Can,2
+2005-12,Cocteau Twins,22
+2005-12,Death In Vegas,0
+2005-12,Jon Brion,3
+2005-12,Kevin Shields,2
+2005-12,Ladytron,108
+2005-12,Michael Andrews,3
+2005-12,Mirah,32
+2005-12,My Bloody Valentine,0
+2005-12,Patrick Wolf,17
+2005-12,Philip Glass,1
+2005-12,Sigur Rós,25
+2005-12,The Russian Futurists,25
+2005-12,Vashti Bunyan,1
+2006-01,Air,89
+2006-01,Alexandre Desplat,49
+2006-01,Aphex Twin,30
+2006-01,Björk,116
+2006-01,Broadcast,180
+2006-01,Broken Social Scene,67
+2006-01,Can,10
+2006-01,Cocteau Twins,159
+2006-01,Death In Vegas,1
+2006-01,Jon Brion,46
+2006-01,Kevin Shields,14
+2006-01,Ladytron,146
+2006-01,Michael Andrews,10
+2006-01,Mirah,181
+2006-01,My Bloody Valentine,3
+2006-01,Patrick Wolf,123
+2006-01,Philip Glass,90
+2006-01,Sigur Rós,51
+2006-01,The Russian Futurists,86
+2006-01,Vashti Bunyan,3
+2006-02,Air,41
+2006-02,Alexandre Desplat,19
+2006-02,Aphex Twin,9
+2006-02,Björk,29
+2006-02,Broadcast,85
+2006-02,Broken Social Scene,22
+2006-02,Can,7
+2006-02,Cocteau Twins,100
+2006-02,Death In Vegas,134
+2006-02,Jon Brion,14
+2006-02,Kevin Shields,5
+2006-02,Ladytron,39
+2006-02,Michael Andrews,13
+2006-02,Mirah,57
+2006-02,My Bloody Valentine,49
+2006-02,Patrick Wolf,69
+2006-02,Philip Glass,94
+2006-02,Sigur Rós,22
+2006-02,The Russian Futurists,40
+2006-02,Vashti Bunyan,3
+2006-03,Air,71
+2006-03,Alexandre Desplat,52
+2006-03,Aphex Twin,27
+2006-03,Björk,52
+2006-03,Broadcast,102
+2006-03,Broken Social Scene,26
+2006-03,Can,15
+2006-03,Cocteau Twins,93
+2006-03,Death In Vegas,40
+2006-03,Jon Brion,34
+2006-03,Kevin Shields,15
+2006-03,Ladytron,64
+2006-03,Michael Andrews,36
+2006-03,Mirah,114
+2006-03,My Bloody Valentine,36
+2006-03,Patrick Wolf,90
+2006-03,Philip Glass,108
+2006-03,Sigur Rós,106
+2006-03,The Russian Futurists,45
+2006-03,Vashti Bunyan,17
+2006-04,Air,54
+2006-04,Alexandre Desplat,25
+2006-04,Aphex Twin,26
+2006-04,Björk,57
+2006-04,Broadcast,361
+2006-04,Broken Social Scene,42
+2006-04,Can,12
+2006-04,Cocteau Twins,148
+2006-04,Death In Vegas,56
+2006-04,Jon Brion,22
+2006-04,Kevin Shields,18
+2006-04,Ladytron,74
+2006-04,Michael Andrews,26
+2006-04,Mirah,82
+2006-04,My Bloody Valentine,45
+2006-04,Patrick Wolf,51
+2006-04,Philip Glass,87
+2006-04,Sigur Rós,42
+2006-04,The Russian Futurists,64
+2006-04,Vashti Bunyan,11
+2006-05,Air,42
+2006-05,Alexandre Desplat,14
+2006-05,Aphex Twin,67
+2006-05,Björk,52
+2006-05,Broadcast,261
+2006-05,Broken Social Scene,11
+2006-05,Can,5
+2006-05,Cocteau Twins,42
+2006-05,Death In Vegas,21
+2006-05,Jon Brion,19
+2006-05,Kevin Shields,7
+2006-05,Ladytron,25
+2006-05,Michael Andrews,9
+2006-05,Mirah,15
+2006-05,My Bloody Valentine,4
+2006-05,Patrick Wolf,37
+2006-05,Philip Glass,21
+2006-05,Sigur Rós,33
+2006-05,The Russian Futurists,19
+2006-05,Vashti Bunyan,0
+2006-06,Air,63
+2006-06,Alexandre Desplat,20
+2006-06,Aphex Twin,30
+2006-06,Björk,78
+2006-06,Broadcast,209
+2006-06,Broken Social Scene,17
+2006-06,Can,22
+2006-06,Cocteau Twins,52
+2006-06,Death In Vegas,21
+2006-06,Jon Brion,16
+2006-06,Kevin Shields,10
+2006-06,Ladytron,30
+2006-06,Michael Andrews,8
+2006-06,Mirah,40
+2006-06,My Bloody Valentine,11
+2006-06,Patrick Wolf,40
+2006-06,Philip Glass,34
+2006-06,Sigur Rós,26
+2006-06,The Russian Futurists,30
+2006-06,Vashti Bunyan,7
+2006-07,Air,67
+2006-07,Alexandre Desplat,23
+2006-07,Aphex Twin,28
+2006-07,Björk,91
+2006-07,Broadcast,194
+2006-07,Broken Social Scene,17
+2006-07,Can,16
+2006-07,Cocteau Twins,48
+2006-07,Death In Vegas,33
+2006-07,Jon Brion,15
+2006-07,Kevin Shields,10
+2006-07,Ladytron,22
+2006-07,Michael Andrews,10
+2006-07,Mirah,34
+2006-07,My Bloody Valentine,7
+2006-07,Patrick Wolf,25
+2006-07,Philip Glass,66
+2006-07,Sigur Rós,40
+2006-07,The Russian Futurists,27
+2006-07,Vashti Bunyan,7
+2006-08,Air,33
+2006-08,Alexandre Desplat,49
+2006-08,Aphex Twin,33
+2006-08,Björk,39
+2006-08,Broadcast,101
+2006-08,Broken Social Scene,15
+2006-08,Can,9
+2006-08,Cocteau Twins,33
+2006-08,Death In Vegas,23
+2006-08,Jon Brion,12
+2006-08,Kevin Shields,9
+2006-08,Ladytron,26
+2006-08,Michael Andrews,29
+2006-08,Mirah,25
+2006-08,My Bloody Valentine,4
+2006-08,Patrick Wolf,24
+2006-08,Philip Glass,29
+2006-08,Sigur Rós,20
+2006-08,The Russian Futurists,28
+2006-08,Vashti Bunyan,3
+2006-09,Air,22
+2006-09,Alexandre Desplat,15
+2006-09,Aphex Twin,27
+2006-09,Björk,49
+2006-09,Broadcast,131
+2006-09,Broken Social Scene,21
+2006-09,Can,6
+2006-09,Cocteau Twins,53
+2006-09,Death In Vegas,14
+2006-09,Jon Brion,18
+2006-09,Kevin Shields,16
+2006-09,Ladytron,37
+2006-09,Michael Andrews,36
+2006-09,Mirah,38
+2006-09,My Bloody Valentine,4
+2006-09,Patrick Wolf,33
+2006-09,Philip Glass,17
+2006-09,Sigur Rós,22
+2006-09,The Russian Futurists,31
+2006-09,Vashti Bunyan,5
+2006-10,Air,58
+2006-10,Alexandre Desplat,44
+2006-10,Aphex Twin,34
+2006-10,Björk,26
+2006-10,Broadcast,176
+2006-10,Broken Social Scene,16
+2006-10,Can,5
+2006-10,Cocteau Twins,56
+2006-10,Death In Vegas,18
+2006-10,Jon Brion,28
+2006-10,Kevin Shields,17
+2006-10,Ladytron,32
+2006-10,Michael Andrews,20
+2006-10,Mirah,46
+2006-10,My Bloody Valentine,25
+2006-10,Patrick Wolf,25
+2006-10,Philip Glass,133
+2006-10,Sigur Rós,24
+2006-10,The Russian Futurists,42
+2006-10,Vashti Bunyan,6
+2006-11,Air,42
+2006-11,Alexandre Desplat,21
+2006-11,Aphex Twin,35
+2006-11,Björk,28
+2006-11,Broadcast,132
+2006-11,Broken Social Scene,14
+2006-11,Can,8
+2006-11,Cocteau Twins,67
+2006-11,Death In Vegas,30
+2006-11,Jon Brion,20
+2006-11,Kevin Shields,14
+2006-11,Ladytron,37
+2006-11,Michael Andrews,17
+2006-11,Mirah,39
+2006-11,My Bloody Valentine,28
+2006-11,Patrick Wolf,25
+2006-11,Philip Glass,168
+2006-11,Sigur Rós,35
+2006-11,The Russian Futurists,29
+2006-11,Vashti Bunyan,5
+2006-12,Air,39
+2006-12,Alexandre Desplat,30
+2006-12,Aphex Twin,40
+2006-12,Björk,31
+2006-12,Broadcast,234
+2006-12,Broken Social Scene,12
+2006-12,Can,13
+2006-12,Cocteau Twins,25
+2006-12,Death In Vegas,19
+2006-12,Jon Brion,18
+2006-12,Kevin Shields,14
+2006-12,Ladytron,41
+2006-12,Michael Andrews,23
+2006-12,Mirah,29
+2006-12,My Bloody Valentine,14
+2006-12,Patrick Wolf,17
+2006-12,Philip Glass,47
+2006-12,Sigur Rós,21
+2006-12,The Russian Futurists,35
+2006-12,Vashti Bunyan,2
+2007-01,Air,47
+2007-01,Alexandre Desplat,52
+2007-01,Aphex Twin,32
+2007-01,Björk,16
+2007-01,Broadcast,156
+2007-01,Broken Social Scene,9
+2007-01,Can,15
+2007-01,Cocteau Twins,34
+2007-01,Death In Vegas,14
+2007-01,Jon Brion,28
+2007-01,Kevin Shields,23
+2007-01,Ladytron,44
+2007-01,Michael Andrews,44
+2007-01,Mirah,44
+2007-01,My Bloody Valentine,11
+2007-01,Patrick Wolf,26
+2007-01,Philip Glass,59
+2007-01,Sigur Rós,11
+2007-01,The Russian Futurists,35
+2007-01,Vashti Bunyan,4
+2007-02,Air,23
+2007-02,Alexandre Desplat,31
+2007-02,Aphex Twin,31
+2007-02,Björk,26
+2007-02,Broadcast,62
+2007-02,Broken Social Scene,6
+2007-02,Can,10
+2007-02,Cocteau Twins,20
+2007-02,Death In Vegas,10
+2007-02,Jon Brion,8
+2007-02,Kevin Shields,10
+2007-02,Ladytron,15
+2007-02,Michael Andrews,5
+2007-02,Mirah,21
+2007-02,My Bloody Valentine,8
+2007-02,Patrick Wolf,9
+2007-02,Philip Glass,24
+2007-02,Sigur Rós,20
+2007-02,The Russian Futurists,18
+2007-02,Vashti Bunyan,3
+2007-03,Air,40
+2007-03,Alexandre Desplat,78
+2007-03,Aphex Twin,24
+2007-03,Björk,25
+2007-03,Broadcast,96
+2007-03,Broken Social Scene,16
+2007-03,Can,8
+2007-03,Cocteau Twins,59
+2007-03,Death In Vegas,20
+2007-03,Jon Brion,24
+2007-03,Kevin Shields,19
+2007-03,Ladytron,31
+2007-03,Michael Andrews,23
+2007-03,Mirah,43
+2007-03,My Bloody Valentine,11
+2007-03,Patrick Wolf,87
+2007-03,Philip Glass,37
+2007-03,Sigur Rós,31
+2007-03,The Russian Futurists,35
+2007-03,Vashti Bunyan,7
+2007-04,Air,38
+2007-04,Alexandre Desplat,43
+2007-04,Aphex Twin,32
+2007-04,Björk,16
+2007-04,Broadcast,132
+2007-04,Broken Social Scene,14
+2007-04,Can,10
+2007-04,Cocteau Twins,26
+2007-04,Death In Vegas,7
+2007-04,Jon Brion,19
+2007-04,Kevin Shields,24
+2007-04,Ladytron,19
+2007-04,Michael Andrews,39
+2007-04,Mirah,56
+2007-04,My Bloody Valentine,12
+2007-04,Patrick Wolf,63
+2007-04,Philip Glass,90
+2007-04,Sigur Rós,16
+2007-04,The Russian Futurists,22
+2007-04,Vashti Bunyan,9
+2007-05,Air,6
+2007-05,Alexandre Desplat,3
+2007-05,Aphex Twin,2
+2007-05,Björk,30
+2007-05,Broadcast,59
+2007-05,Broken Social Scene,7
+2007-05,Can,2
+2007-05,Cocteau Twins,5
+2007-05,Death In Vegas,1
+2007-05,Jon Brion,3
+2007-05,Kevin Shields,5
+2007-05,Ladytron,4
+2007-05,Michael Andrews,3
+2007-05,Mirah,3
+2007-05,My Bloody Valentine,2
+2007-05,Patrick Wolf,3
+2007-05,Philip Glass,2
+2007-05,Sigur Rós,3
+2007-05,The Russian Futurists,3
+2007-05,Vashti Bunyan,1
+2007-06,Air,12
+2007-06,Alexandre Desplat,5
+2007-06,Aphex Twin,34
+2007-06,Björk,18
+2007-06,Broadcast,75
+2007-06,Broken Social Scene,6
+2007-06,Can,2
+2007-06,Cocteau Twins,13
+2007-06,Death In Vegas,4
+2007-06,Jon Brion,2
+2007-06,Kevin Shields,2
+2007-06,Ladytron,3
+2007-06,Michael Andrews,1
+2007-06,Mirah,2
+2007-06,My Bloody Valentine,4
+2007-06,Patrick Wolf,2
+2007-06,Philip Glass,1
+2007-06,Sigur Rós,8
+2007-06,The Russian Futurists,4
+2007-06,Vashti Bunyan,1
+2007-07,Air,8
+2007-07,Alexandre Desplat,3
+2007-07,Aphex Twin,5
+2007-07,Björk,8
+2007-07,Broadcast,37
+2007-07,Broken Social Scene,5
+2007-07,Can,1
+2007-07,Cocteau Twins,9
+2007-07,Death In Vegas,3
+2007-07,Jon Brion,3
+2007-07,Kevin Shields,1
+2007-07,Ladytron,1
+2007-07,Michael Andrews,1
+2007-07,Mirah,7
+2007-07,My Bloody Valentine,32
+2007-07,Patrick Wolf,4
+2007-07,Philip Glass,2
+2007-07,Sigur Rós,30
+2007-07,The Russian Futurists,11
+2007-07,Vashti Bunyan,1
+2007-08,Air,11
+2007-08,Alexandre Desplat,8
+2007-08,Aphex Twin,10
+2007-08,Björk,26
+2007-08,Broadcast,31
+2007-08,Broken Social Scene,4
+2007-08,Can,3
+2007-08,Cocteau Twins,11
+2007-08,Death In Vegas,4
+2007-08,Jon Brion,6
+2007-08,Kevin Shields,1
+2007-08,Ladytron,7
+2007-08,Michael Andrews,4
+2007-08,Mirah,8
+2007-08,My Bloody Valentine,7
+2007-08,Patrick Wolf,13
+2007-08,Philip Glass,7
+2007-08,Sigur Rós,31
+2007-08,The Russian Futurists,10
+2007-08,Vashti Bunyan,1
+2007-09,Air,8
+2007-09,Alexandre Desplat,13
+2007-09,Aphex Twin,17
+2007-09,Björk,2
+2007-09,Broadcast,163
+2007-09,Broken Social Scene,12
+2007-09,Can,45
+2007-09,Cocteau Twins,44
+2007-09,Death In Vegas,18
+2007-09,Jon Brion,12
+2007-09,Kevin Shields,7
+2007-09,Ladytron,15
+2007-09,Michael Andrews,13
+2007-09,Mirah,10
+2007-09,My Bloody Valentine,8
+2007-09,Patrick Wolf,38
+2007-09,Philip Glass,54
+2007-09,Sigur Rós,4
+2007-09,The Russian Futurists,3
+2007-09,Vashti Bunyan,9
+2007-10,Air,7
+2007-10,Alexandre Desplat,38
+2007-10,Aphex Twin,33
+2007-10,Björk,2
+2007-10,Broadcast,39
+2007-10,Broken Social Scene,11
+2007-10,Can,6
+2007-10,Cocteau Twins,11
+2007-10,Death In Vegas,2
+2007-10,Jon Brion,10
+2007-10,Kevin Shields,5
+2007-10,Ladytron,3
+2007-10,Michael Andrews,11
+2007-10,Mirah,6
+2007-10,My Bloody Valentine,3
+2007-10,Patrick Wolf,10
+2007-10,Philip Glass,40
+2007-10,Sigur Rós,1
+2007-10,The Russian Futurists,8
+2007-10,Vashti Bunyan,1
+2007-11,Air,4
+2007-11,Alexandre Desplat,5
+2007-11,Aphex Twin,12
+2007-11,Björk,3
+2007-11,Broadcast,58
+2007-11,Broken Social Scene,4
+2007-11,Can,9
+2007-11,Cocteau Twins,8
+2007-11,Death In Vegas,3
+2007-11,Jon Brion,5
+2007-11,Kevin Shields,4
+2007-11,Ladytron,3
+2007-11,Michael Andrews,7
+2007-11,Mirah,4
+2007-11,My Bloody Valentine,28
+2007-11,Patrick Wolf,10
+2007-11,Philip Glass,22
+2007-11,Sigur Rós,4
+2007-11,The Russian Futurists,2
+2007-11,Vashti Bunyan,1
+2007-12,Air,1
+2007-12,Alexandre Desplat,7
+2007-12,Aphex Twin,4
+2007-12,Björk,2
+2007-12,Broadcast,2
+2007-12,Broken Social Scene,0
+2007-12,Can,0
+2007-12,Cocteau Twins,3
+2007-12,Death In Vegas,0
+2007-12,Jon Brion,3
+2007-12,Kevin Shields,5
+2007-12,Ladytron,0
+2007-12,Michael Andrews,4
+2007-12,Mirah,2
+2007-12,My Bloody Valentine,1
+2007-12,Patrick Wolf,1
+2007-12,Philip Glass,22
+2007-12,Sigur Rós,1
+2007-12,The Russian Futurists,1
+2007-12,Vashti Bunyan,1
+2008-01,Air,1
+2008-01,Alexandre Desplat,2
+2008-01,Aphex Twin,2
+2008-01,Björk,2
+2008-01,Broadcast,8
+2008-01,Broken Social Scene,1
+2008-01,Can,1
+2008-01,Cocteau Twins,1
+2008-01,Death In Vegas,0
+2008-01,Jon Brion,1
+2008-01,Kevin Shields,3
+2008-01,Ladytron,0
+2008-01,Michael Andrews,0
+2008-01,Mirah,19
+2008-01,My Bloody Valentine,1
+2008-01,Patrick Wolf,1
+2008-01,Philip Glass,0
+2008-01,Sigur Rós,1
+2008-01,The Russian Futurists,0
+2008-01,Vashti Bunyan,1
+2008-02,Air,2
+2008-02,Alexandre Desplat,12
+2008-02,Aphex Twin,1
+2008-02,Björk,0
+2008-02,Broadcast,9
+2008-02,Broken Social Scene,1
+2008-02,Can,0
+2008-02,Cocteau Twins,2
+2008-02,Death In Vegas,0
+2008-02,Jon Brion,21
+2008-02,Kevin Shields,4
+2008-02,Ladytron,0
+2008-02,Michael Andrews,7
+2008-02,Mirah,1
+2008-02,My Bloody Valentine,0
+2008-02,Patrick Wolf,3
+2008-02,Philip Glass,24
+2008-02,Sigur Rós,1
+2008-02,The Russian Futurists,2
+2008-02,Vashti Bunyan,0
+2008-03,Air,3
+2008-03,Alexandre Desplat,5
+2008-03,Aphex Twin,1
+2008-03,Björk,1
+2008-03,Broadcast,28
+2008-03,Broken Social Scene,5
+2008-03,Can,4
+2008-03,Cocteau Twins,5
+2008-03,Death In Vegas,5
+2008-03,Jon Brion,3
+2008-03,Kevin Shields,3
+2008-03,Ladytron,5
+2008-03,Michael Andrews,1
+2008-03,Mirah,3
+2008-03,My Bloody Valentine,1
+2008-03,Patrick Wolf,6
+2008-03,Philip Glass,1
+2008-03,Sigur Rós,0
+2008-03,The Russian Futurists,2
+2008-03,Vashti Bunyan,1
+2008-04,Air,8
+2008-04,Alexandre Desplat,3
+2008-04,Aphex Twin,4
+2008-04,Björk,9
+2008-04,Broadcast,13
+2008-04,Broken Social Scene,8
+2008-04,Can,3
+2008-04,Cocteau Twins,9
+2008-04,Death In Vegas,13
+2008-04,Jon Brion,11
+2008-04,Kevin Shields,1
+2008-04,Ladytron,12
+2008-04,Michael Andrews,6
+2008-04,Mirah,4
+2008-04,My Bloody Valentine,5
+2008-04,Patrick Wolf,13
+2008-04,Philip Glass,5
+2008-04,Sigur Rós,8
+2008-04,The Russian Futurists,11
+2008-04,Vashti Bunyan,1
+2008-05,Air,2
+2008-05,Alexandre Desplat,16
+2008-05,Aphex Twin,0
+2008-05,Björk,1
+2008-05,Broadcast,7
+2008-05,Broken Social Scene,1
+2008-05,Can,0
+2008-05,Cocteau Twins,8
+2008-05,Death In Vegas,1
+2008-05,Jon Brion,0
+2008-05,Kevin Shields,0
+2008-05,Ladytron,6
+2008-05,Michael Andrews,1
+2008-05,Mirah,1
+2008-05,My Bloody Valentine,1
+2008-05,Patrick Wolf,2
+2008-05,Philip Glass,1
+2008-05,Sigur Rós,2
+2008-05,The Russian Futurists,11
+2008-05,Vashti Bunyan,0
+2008-06,Air,3
+2008-06,Alexandre Desplat,1
+2008-06,Aphex Twin,1
+2008-06,Björk,1
+2008-06,Broadcast,27
+2008-06,Broken Social Scene,1
+2008-06,Can,2
+2008-06,Cocteau Twins,1
+2008-06,Death In Vegas,2
+2008-06,Jon Brion,0
+2008-06,Kevin Shields,0
+2008-06,Ladytron,18
+2008-06,Michael Andrews,0
+2008-06,Mirah,0
+2008-06,My Bloody Valentine,1
+2008-06,Patrick Wolf,3
+2008-06,Philip Glass,2
+2008-06,Sigur Rós,6
+2008-06,The Russian Futurists,0
+2008-06,Vashti Bunyan,0
+2008-07,Air,0
+2008-07,Alexandre Desplat,0
+2008-07,Aphex Twin,0
+2008-07,Björk,0
+2008-07,Broadcast,0
+2008-07,Broken Social Scene,0
+2008-07,Can,0
+2008-07,Cocteau Twins,0
+2008-07,Death In Vegas,0
+2008-07,Jon Brion,0
+2008-07,Kevin Shields,0
+2008-07,Ladytron,1
+2008-07,Michael Andrews,0
+2008-07,Mirah,0
+2008-07,My Bloody Valentine,0
+2008-07,Patrick Wolf,0
+2008-07,Philip Glass,0
+2008-07,Sigur Rós,0
+2008-07,The Russian Futurists,0
+2008-07,Vashti Bunyan,0
+2008-08,Air,0
+2008-08,Alexandre Desplat,0
+2008-08,Aphex Twin,0
+2008-08,Björk,0
+2008-08,Broadcast,2
+2008-08,Broken Social Scene,0
+2008-08,Can,0
+2008-08,Cocteau Twins,0
+2008-08,Death In Vegas,1
+2008-08,Jon Brion,1
+2008-08,Kevin Shields,0
+2008-08,Ladytron,1
+2008-08,Michael Andrews,1
+2008-08,Mirah,0
+2008-08,My Bloody Valentine,0
+2008-08,Patrick Wolf,2
+2008-08,Philip Glass,2
+2008-08,Sigur Rós,0
+2008-08,The Russian Futurists,0
+2008-08,Vashti Bunyan,1
+2008-09,Air,1
+2008-09,Alexandre Desplat,6
+2008-09,Aphex Twin,4
+2008-09,Björk,6
+2008-09,Broadcast,4
+2008-09,Broken Social Scene,1
+2008-09,Can,3
+2008-09,Cocteau Twins,1
+2008-09,Death In Vegas,3
+2008-09,Jon Brion,3
+2008-09,Kevin Shields,2
+2008-09,Ladytron,3
+2008-09,Michael Andrews,15
+2008-09,Mirah,2
+2008-09,My Bloody Valentine,0
+2008-09,Patrick Wolf,5
+2008-09,Philip Glass,11
+2008-09,Sigur Rós,3
+2008-09,The Russian Futurists,2
+2008-09,Vashti Bunyan,2
+2008-10,Air,0
+2008-10,Alexandre Desplat,0
+2008-10,Aphex Twin,0
+2008-10,Björk,0
+2008-10,Broadcast,0
+2008-10,Broken Social Scene,0
+2008-10,Can,0
+2008-10,Cocteau Twins,0
+2008-10,Death In Vegas,0
+2008-10,Jon Brion,0
+2008-10,Kevin Shields,0
+2008-10,Ladytron,0
+2008-10,Michael Andrews,0
+2008-10,Mirah,0
+2008-10,My Bloody Valentine,0
+2008-10,Patrick Wolf,0
+2008-10,Philip Glass,0
+2008-10,Sigur Rós,0
+2008-10,The Russian Futurists,0
+2008-10,Vashti Bunyan,0
+2008-11,Air,0
+2008-11,Alexandre Desplat,0
+2008-11,Aphex Twin,0
+2008-11,Björk,0
+2008-11,Broadcast,0
+2008-11,Broken Social Scene,0
+2008-11,Can,0
+2008-11,Cocteau Twins,0
+2008-11,Death In Vegas,0
+2008-11,Jon Brion,0
+2008-11,Kevin Shields,0
+2008-11,Ladytron,0
+2008-11,Michael Andrews,0
+2008-11,Mirah,0
+2008-11,My Bloody Valentine,0
+2008-11,Patrick Wolf,0
+2008-11,Philip Glass,0
+2008-11,Sigur Rós,0
+2008-11,The Russian Futurists,0
+2008-11,Vashti Bunyan,0
+2008-12,Air,0
+2008-12,Alexandre Desplat,0
+2008-12,Aphex Twin,0
+2008-12,Björk,0
+2008-12,Broadcast,0
+2008-12,Broken Social Scene,0
+2008-12,Can,0
+2008-12,Cocteau Twins,0
+2008-12,Death In Vegas,0
+2008-12,Jon Brion,0
+2008-12,Kevin Shields,0
+2008-12,Ladytron,0
+2008-12,Michael Andrews,0
+2008-12,Mirah,0
+2008-12,My Bloody Valentine,0
+2008-12,Patrick Wolf,0
+2008-12,Philip Glass,0
+2008-12,Sigur Rós,0
+2008-12,The Russian Futurists,0
+2008-12,Vashti Bunyan,0
+2009-01,Air,0
+2009-01,Alexandre Desplat,0
+2009-01,Aphex Twin,0
+2009-01,Björk,0
+2009-01,Broadcast,4
+2009-01,Broken Social Scene,0
+2009-01,Can,1
+2009-01,Cocteau Twins,0
+2009-01,Death In Vegas,0
+2009-01,Jon Brion,0
+2009-01,Kevin Shields,0
+2009-01,Ladytron,1
+2009-01,Michael Andrews,0
+2009-01,Mirah,0
+2009-01,My Bloody Valentine,1
+2009-01,Patrick Wolf,1
+2009-01,Philip Glass,0
+2009-01,Sigur Rós,0
+2009-01,The Russian Futurists,0
+2009-01,Vashti Bunyan,0
+2009-02,Air,0
+2009-02,Alexandre Desplat,1
+2009-02,Aphex Twin,0
+2009-02,Björk,0
+2009-02,Broadcast,0
+2009-02,Broken Social Scene,0
+2009-02,Can,0
+2009-02,Cocteau Twins,1
+2009-02,Death In Vegas,0
+2009-02,Jon Brion,0
+2009-02,Kevin Shields,0
+2009-02,Ladytron,0
+2009-02,Michael Andrews,0
+2009-02,Mirah,0
+2009-02,My Bloody Valentine,0
+2009-02,Patrick Wolf,1
+2009-02,Philip Glass,0
+2009-02,Sigur Rós,0
+2009-02,The Russian Futurists,2
+2009-02,Vashti Bunyan,0
+2009-03,Air,1
+2009-03,Alexandre Desplat,2
+2009-03,Aphex Twin,6
+2009-03,Björk,4
+2009-03,Broadcast,18
+2009-03,Broken Social Scene,1
+2009-03,Can,3
+2009-03,Cocteau Twins,6
+2009-03,Death In Vegas,2
+2009-03,Jon Brion,3
+2009-03,Kevin Shields,2
+2009-03,Ladytron,4
+2009-03,Michael Andrews,2
+2009-03,Mirah,2
+2009-03,My Bloody Valentine,4
+2009-03,Patrick Wolf,4
+2009-03,Philip Glass,0
+2009-03,Sigur Rós,5
+2009-03,The Russian Futurists,6
+2009-03,Vashti Bunyan,1
+2009-04,Air,0
+2009-04,Alexandre Desplat,0
+2009-04,Aphex Twin,1
+2009-04,Björk,0
+2009-04,Broadcast,2
+2009-04,Broken Social Scene,0
+2009-04,Can,0
+2009-04,Cocteau Twins,2
+2009-04,Death In Vegas,0
+2009-04,Jon Brion,0
+2009-04,Kevin Shields,0
+2009-04,Ladytron,1
+2009-04,Michael Andrews,0
+2009-04,Mirah,0
+2009-04,My Bloody Valentine,1
+2009-04,Patrick Wolf,0
+2009-04,Philip Glass,0
+2009-04,Sigur Rós,0
+2009-04,The Russian Futurists,1
+2009-04,Vashti Bunyan,0

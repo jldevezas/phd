@@ -1,0 +1,861 @@
+month,artist,plays
+2005-10,Arcade Fire,4
+2005-10,Arctic Monkeys,0
+2005-10,Ash,8
+2005-10,Belle And Sebastian,3
+2005-10,Blur,8
+2005-10,Coldplay,10
+2005-10,Embrace,4
+2005-10,Feeder,9
+2005-10,Jon Secada,12
+2005-10,Kaiser Chiefs,7
+2005-10,Keane,13
+2005-10,Madonna,4
+2005-10,Muse,1
+2005-10,Pulp,5
+2005-10,Razorlight,3
+2005-10,Snow Patrol,3
+2005-10,Supergrass,13
+2005-10,The Killers,9
+2005-10,Travis,21
+2005-10,U2,6
+2005-11,Arcade Fire,7
+2005-11,Arctic Monkeys,5
+2005-11,Ash,3
+2005-11,Belle And Sebastian,1
+2005-11,Blur,14
+2005-11,Coldplay,31
+2005-11,Embrace,2
+2005-11,Feeder,12
+2005-11,Jon Secada,48
+2005-11,Kaiser Chiefs,16
+2005-11,Keane,25
+2005-11,Madonna,8
+2005-11,Muse,13
+2005-11,Pulp,7
+2005-11,Razorlight,3
+2005-11,Snow Patrol,11
+2005-11,Supergrass,4
+2005-11,The Killers,8
+2005-11,Travis,34
+2005-11,U2,15
+2005-12,Arcade Fire,38
+2005-12,Arctic Monkeys,25
+2005-12,Ash,34
+2005-12,Belle And Sebastian,0
+2005-12,Blur,72
+2005-12,Coldplay,169
+2005-12,Embrace,35
+2005-12,Feeder,32
+2005-12,Jon Secada,153
+2005-12,Kaiser Chiefs,70
+2005-12,Keane,79
+2005-12,Madonna,40
+2005-12,Muse,23
+2005-12,Pulp,40
+2005-12,Razorlight,43
+2005-12,Snow Patrol,69
+2005-12,Supergrass,58
+2005-12,The Killers,56
+2005-12,Travis,123
+2005-12,U2,76
+2006-01,Arcade Fire,28
+2006-01,Arctic Monkeys,74
+2006-01,Ash,13
+2006-01,Belle And Sebastian,7
+2006-01,Blur,29
+2006-01,Coldplay,110
+2006-01,Embrace,20
+2006-01,Feeder,11
+2006-01,Jon Secada,82
+2006-01,Kaiser Chiefs,60
+2006-01,Keane,41
+2006-01,Madonna,17
+2006-01,Muse,7
+2006-01,Pulp,23
+2006-01,Razorlight,19
+2006-01,Snow Patrol,38
+2006-01,Supergrass,32
+2006-01,The Killers,24
+2006-01,Travis,82
+2006-01,U2,40
+2006-02,Arcade Fire,12
+2006-02,Arctic Monkeys,40
+2006-02,Ash,78
+2006-02,Belle And Sebastian,8
+2006-02,Blur,36
+2006-02,Coldplay,150
+2006-02,Embrace,29
+2006-02,Feeder,29
+2006-02,Jon Secada,128
+2006-02,Kaiser Chiefs,38
+2006-02,Keane,67
+2006-02,Madonna,27
+2006-02,Muse,4
+2006-02,Pulp,11
+2006-02,Razorlight,15
+2006-02,Snow Patrol,52
+2006-02,Supergrass,32
+2006-02,The Killers,20
+2006-02,Travis,175
+2006-02,U2,73
+2006-03,Arcade Fire,15
+2006-03,Arctic Monkeys,28
+2006-03,Ash,25
+2006-03,Belle And Sebastian,10
+2006-03,Blur,36
+2006-03,Coldplay,123
+2006-03,Embrace,32
+2006-03,Feeder,31
+2006-03,Jon Secada,74
+2006-03,Kaiser Chiefs,19
+2006-03,Keane,30
+2006-03,Madonna,23
+2006-03,Muse,3
+2006-03,Pulp,7
+2006-03,Razorlight,18
+2006-03,Snow Patrol,158
+2006-03,Supergrass,34
+2006-03,The Killers,7
+2006-03,Travis,175
+2006-03,U2,47
+2006-04,Arcade Fire,4
+2006-04,Arctic Monkeys,21
+2006-04,Ash,21
+2006-04,Belle And Sebastian,8
+2006-04,Blur,19
+2006-04,Coldplay,58
+2006-04,Embrace,45
+2006-04,Feeder,11
+2006-04,Jon Secada,49
+2006-04,Kaiser Chiefs,23
+2006-04,Keane,64
+2006-04,Madonna,18
+2006-04,Muse,17
+2006-04,Pulp,21
+2006-04,Razorlight,20
+2006-04,Snow Patrol,77
+2006-04,Supergrass,21
+2006-04,The Killers,18
+2006-04,Travis,80
+2006-04,U2,21
+2006-05,Arcade Fire,15
+2006-05,Arctic Monkeys,48
+2006-05,Ash,13
+2006-05,Belle And Sebastian,7
+2006-05,Blur,18
+2006-05,Coldplay,59
+2006-05,Embrace,47
+2006-05,Feeder,22
+2006-05,Jon Secada,51
+2006-05,Kaiser Chiefs,22
+2006-05,Keane,53
+2006-05,Madonna,18
+2006-05,Muse,35
+2006-05,Pulp,13
+2006-05,Razorlight,30
+2006-05,Snow Patrol,95
+2006-05,Supergrass,13
+2006-05,The Killers,12
+2006-05,Travis,98
+2006-05,U2,11
+2006-06,Arcade Fire,10
+2006-06,Arctic Monkeys,14
+2006-06,Ash,17
+2006-06,Belle And Sebastian,10
+2006-06,Blur,23
+2006-06,Coldplay,56
+2006-06,Embrace,42
+2006-06,Feeder,42
+2006-06,Jon Secada,58
+2006-06,Kaiser Chiefs,19
+2006-06,Keane,83
+2006-06,Madonna,18
+2006-06,Muse,14
+2006-06,Pulp,5
+2006-06,Razorlight,25
+2006-06,Snow Patrol,49
+2006-06,Supergrass,15
+2006-06,The Killers,17
+2006-06,Travis,84
+2006-06,U2,20
+2006-07,Arcade Fire,22
+2006-07,Arctic Monkeys,35
+2006-07,Ash,15
+2006-07,Belle And Sebastian,7
+2006-07,Blur,21
+2006-07,Coldplay,108
+2006-07,Embrace,26
+2006-07,Feeder,35
+2006-07,Jon Secada,52
+2006-07,Kaiser Chiefs,25
+2006-07,Keane,59
+2006-07,Madonna,33
+2006-07,Muse,27
+2006-07,Pulp,19
+2006-07,Razorlight,129
+2006-07,Snow Patrol,60
+2006-07,Supergrass,30
+2006-07,The Killers,46
+2006-07,Travis,183
+2006-07,U2,27
+2006-08,Arcade Fire,4
+2006-08,Arctic Monkeys,24
+2006-08,Ash,9
+2006-08,Belle And Sebastian,1
+2006-08,Blur,8
+2006-08,Coldplay,18
+2006-08,Embrace,8
+2006-08,Feeder,17
+2006-08,Jon Secada,13
+2006-08,Kaiser Chiefs,6
+2006-08,Keane,22
+2006-08,Madonna,11
+2006-08,Muse,9
+2006-08,Pulp,19
+2006-08,Razorlight,19
+2006-08,Snow Patrol,37
+2006-08,Supergrass,13
+2006-08,The Killers,8
+2006-08,Travis,42
+2006-08,U2,3
+2006-09,Arcade Fire,13
+2006-09,Arctic Monkeys,26
+2006-09,Ash,13
+2006-09,Belle And Sebastian,2
+2006-09,Blur,15
+2006-09,Coldplay,50
+2006-09,Embrace,12
+2006-09,Feeder,13
+2006-09,Jon Secada,56
+2006-09,Kaiser Chiefs,17
+2006-09,Keane,45
+2006-09,Madonna,9
+2006-09,Muse,20
+2006-09,Pulp,13
+2006-09,Razorlight,45
+2006-09,Snow Patrol,23
+2006-09,Supergrass,14
+2006-09,The Killers,25
+2006-09,Travis,78
+2006-09,U2,11
+2006-10,Arcade Fire,7
+2006-10,Arctic Monkeys,28
+2006-10,Ash,76
+2006-10,Belle And Sebastian,5
+2006-10,Blur,53
+2006-10,Coldplay,70
+2006-10,Embrace,47
+2006-10,Feeder,43
+2006-10,Jon Secada,113
+2006-10,Kaiser Chiefs,28
+2006-10,Keane,74
+2006-10,Madonna,7
+2006-10,Muse,20
+2006-10,Pulp,25
+2006-10,Razorlight,56
+2006-10,Snow Patrol,89
+2006-10,Supergrass,45
+2006-10,The Killers,67
+2006-10,Travis,107
+2006-10,U2,72
+2006-11,Arcade Fire,0
+2006-11,Arctic Monkeys,0
+2006-11,Ash,0
+2006-11,Belle And Sebastian,0
+2006-11,Blur,0
+2006-11,Coldplay,0
+2006-11,Embrace,0
+2006-11,Feeder,0
+2006-11,Jon Secada,0
+2006-11,Kaiser Chiefs,0
+2006-11,Keane,0
+2006-11,Madonna,0
+2006-11,Muse,0
+2006-11,Pulp,0
+2006-11,Razorlight,0
+2006-11,Snow Patrol,0
+2006-11,Supergrass,0
+2006-11,The Killers,0
+2006-11,Travis,0
+2006-11,U2,0
+2006-12,Arcade Fire,0
+2006-12,Arctic Monkeys,0
+2006-12,Ash,0
+2006-12,Belle And Sebastian,0
+2006-12,Blur,0
+2006-12,Coldplay,0
+2006-12,Embrace,0
+2006-12,Feeder,0
+2006-12,Jon Secada,0
+2006-12,Kaiser Chiefs,0
+2006-12,Keane,0
+2006-12,Madonna,0
+2006-12,Muse,0
+2006-12,Pulp,0
+2006-12,Razorlight,0
+2006-12,Snow Patrol,0
+2006-12,Supergrass,0
+2006-12,The Killers,0
+2006-12,Travis,0
+2006-12,U2,0
+2007-01,Arcade Fire,0
+2007-01,Arctic Monkeys,1
+2007-01,Ash,0
+2007-01,Belle And Sebastian,1
+2007-01,Blur,1
+2007-01,Coldplay,1
+2007-01,Embrace,1
+2007-01,Feeder,1
+2007-01,Jon Secada,2
+2007-01,Kaiser Chiefs,1
+2007-01,Keane,2
+2007-01,Madonna,1
+2007-01,Muse,1
+2007-01,Pulp,2
+2007-01,Razorlight,2
+2007-01,Snow Patrol,4
+2007-01,Supergrass,1
+2007-01,The Killers,5
+2007-01,Travis,32
+2007-01,U2,1
+2007-02,Arcade Fire,7
+2007-02,Arctic Monkeys,10
+2007-02,Ash,6
+2007-02,Belle And Sebastian,4
+2007-02,Blur,11
+2007-02,Coldplay,16
+2007-02,Embrace,4
+2007-02,Feeder,3
+2007-02,Jon Secada,9
+2007-02,Kaiser Chiefs,24
+2007-02,Keane,11
+2007-02,Madonna,5
+2007-02,Muse,5
+2007-02,Pulp,7
+2007-02,Razorlight,40
+2007-02,Snow Patrol,12
+2007-02,Supergrass,7
+2007-02,The Killers,47
+2007-02,Travis,235
+2007-02,U2,27
+2007-03,Arcade Fire,20
+2007-03,Arctic Monkeys,9
+2007-03,Ash,49
+2007-03,Belle And Sebastian,5
+2007-03,Blur,10
+2007-03,Coldplay,34
+2007-03,Embrace,4
+2007-03,Feeder,16
+2007-03,Jon Secada,29
+2007-03,Kaiser Chiefs,62
+2007-03,Keane,33
+2007-03,Madonna,6
+2007-03,Muse,6
+2007-03,Pulp,6
+2007-03,Razorlight,12
+2007-03,Snow Patrol,39
+2007-03,Supergrass,8
+2007-03,The Killers,27
+2007-03,Travis,513
+2007-03,U2,17
+2007-04,Arcade Fire,21
+2007-04,Arctic Monkeys,35
+2007-04,Ash,12
+2007-04,Belle And Sebastian,1
+2007-04,Blur,6
+2007-04,Coldplay,17
+2007-04,Embrace,7
+2007-04,Feeder,4
+2007-04,Jon Secada,9
+2007-04,Kaiser Chiefs,28
+2007-04,Keane,14
+2007-04,Madonna,3
+2007-04,Muse,6
+2007-04,Pulp,5
+2007-04,Razorlight,12
+2007-04,Snow Patrol,22
+2007-04,Supergrass,9
+2007-04,The Killers,26
+2007-04,Travis,361
+2007-04,U2,8
+2007-05,Arcade Fire,48
+2007-05,Arctic Monkeys,35
+2007-05,Ash,11
+2007-05,Belle And Sebastian,6
+2007-05,Blur,21
+2007-05,Coldplay,76
+2007-05,Embrace,19
+2007-05,Feeder,16
+2007-05,Jon Secada,74
+2007-05,Kaiser Chiefs,40
+2007-05,Keane,55
+2007-05,Madonna,11
+2007-05,Muse,14
+2007-05,Pulp,10
+2007-05,Razorlight,23
+2007-05,Snow Patrol,30
+2007-05,Supergrass,21
+2007-05,The Killers,35
+2007-05,Travis,576
+2007-05,U2,30
+2007-06,Arcade Fire,12
+2007-06,Arctic Monkeys,18
+2007-06,Ash,32
+2007-06,Belle And Sebastian,3
+2007-06,Blur,24
+2007-06,Coldplay,42
+2007-06,Embrace,15
+2007-06,Feeder,57
+2007-06,Jon Secada,39
+2007-06,Kaiser Chiefs,63
+2007-06,Keane,48
+2007-06,Madonna,7
+2007-06,Muse,5
+2007-06,Pulp,6
+2007-06,Razorlight,57
+2007-06,Snow Patrol,42
+2007-06,Supergrass,13
+2007-06,The Killers,25
+2007-06,Travis,277
+2007-06,U2,30
+2007-07,Arcade Fire,31
+2007-07,Arctic Monkeys,36
+2007-07,Ash,55
+2007-07,Belle And Sebastian,8
+2007-07,Blur,16
+2007-07,Coldplay,47
+2007-07,Embrace,17
+2007-07,Feeder,51
+2007-07,Jon Secada,35
+2007-07,Kaiser Chiefs,54
+2007-07,Keane,42
+2007-07,Madonna,14
+2007-07,Muse,15
+2007-07,Pulp,8
+2007-07,Razorlight,35
+2007-07,Snow Patrol,47
+2007-07,Supergrass,22
+2007-07,The Killers,32
+2007-07,Travis,234
+2007-07,U2,53
+2007-08,Arcade Fire,35
+2007-08,Arctic Monkeys,22
+2007-08,Ash,61
+2007-08,Belle And Sebastian,6
+2007-08,Blur,17
+2007-08,Coldplay,81
+2007-08,Embrace,8
+2007-08,Feeder,52
+2007-08,Jon Secada,54
+2007-08,Kaiser Chiefs,40
+2007-08,Keane,35
+2007-08,Madonna,3
+2007-08,Muse,11
+2007-08,Pulp,23
+2007-08,Razorlight,55
+2007-08,Snow Patrol,39
+2007-08,Supergrass,26
+2007-08,The Killers,38
+2007-08,Travis,180
+2007-08,U2,25
+2007-09,Arcade Fire,11
+2007-09,Arctic Monkeys,10
+2007-09,Ash,8
+2007-09,Belle And Sebastian,4
+2007-09,Blur,13
+2007-09,Coldplay,47
+2007-09,Embrace,9
+2007-09,Feeder,17
+2007-09,Jon Secada,36
+2007-09,Kaiser Chiefs,23
+2007-09,Keane,25
+2007-09,Madonna,10
+2007-09,Muse,9
+2007-09,Pulp,14
+2007-09,Razorlight,23
+2007-09,Snow Patrol,34
+2007-09,Supergrass,23
+2007-09,The Killers,22
+2007-09,Travis,198
+2007-09,U2,18
+2007-10,Arcade Fire,46
+2007-10,Arctic Monkeys,26
+2007-10,Ash,19
+2007-10,Belle And Sebastian,6
+2007-10,Blur,16
+2007-10,Coldplay,68
+2007-10,Embrace,10
+2007-10,Feeder,18
+2007-10,Jon Secada,145
+2007-10,Kaiser Chiefs,55
+2007-10,Keane,65
+2007-10,Madonna,10
+2007-10,Muse,14
+2007-10,Pulp,18
+2007-10,Razorlight,33
+2007-10,Snow Patrol,38
+2007-10,Supergrass,17
+2007-10,The Killers,70
+2007-10,Travis,196
+2007-10,U2,21
+2007-11,Arcade Fire,23
+2007-11,Arctic Monkeys,19
+2007-11,Ash,32
+2007-11,Belle And Sebastian,4
+2007-11,Blur,14
+2007-11,Coldplay,60
+2007-11,Embrace,14
+2007-11,Feeder,48
+2007-11,Jon Secada,35
+2007-11,Kaiser Chiefs,44
+2007-11,Keane,44
+2007-11,Madonna,5
+2007-11,Muse,18
+2007-11,Pulp,20
+2007-11,Razorlight,17
+2007-11,Snow Patrol,38
+2007-11,Supergrass,17
+2007-11,The Killers,65
+2007-11,Travis,153
+2007-11,U2,15
+2007-12,Arcade Fire,6
+2007-12,Arctic Monkeys,11
+2007-12,Ash,13
+2007-12,Belle And Sebastian,6
+2007-12,Blur,10
+2007-12,Coldplay,33
+2007-12,Embrace,10
+2007-12,Feeder,17
+2007-12,Jon Secada,46
+2007-12,Kaiser Chiefs,23
+2007-12,Keane,18
+2007-12,Madonna,3
+2007-12,Muse,11
+2007-12,Pulp,16
+2007-12,Razorlight,12
+2007-12,Snow Patrol,21
+2007-12,Supergrass,11
+2007-12,The Killers,49
+2007-12,Travis,78
+2007-12,U2,15
+2008-01,Arcade Fire,11
+2008-01,Arctic Monkeys,19
+2008-01,Ash,14
+2008-01,Belle And Sebastian,2
+2008-01,Blur,9
+2008-01,Coldplay,46
+2008-01,Embrace,17
+2008-01,Feeder,15
+2008-01,Jon Secada,26
+2008-01,Kaiser Chiefs,36
+2008-01,Keane,35
+2008-01,Madonna,8
+2008-01,Muse,11
+2008-01,Pulp,22
+2008-01,Razorlight,23
+2008-01,Snow Patrol,31
+2008-01,Supergrass,19
+2008-01,The Killers,103
+2008-01,Travis,156
+2008-01,U2,15
+2008-02,Arcade Fire,12
+2008-02,Arctic Monkeys,41
+2008-02,Ash,32
+2008-02,Belle And Sebastian,1
+2008-02,Blur,38
+2008-02,Coldplay,45
+2008-02,Embrace,26
+2008-02,Feeder,24
+2008-02,Jon Secada,41
+2008-02,Kaiser Chiefs,42
+2008-02,Keane,36
+2008-02,Madonna,6
+2008-02,Muse,12
+2008-02,Pulp,22
+2008-02,Razorlight,29
+2008-02,Snow Patrol,41
+2008-02,Supergrass,45
+2008-02,The Killers,40
+2008-02,Travis,278
+2008-02,U2,61
+2008-03,Arcade Fire,4
+2008-03,Arctic Monkeys,7
+2008-03,Ash,21
+2008-03,Belle And Sebastian,1
+2008-03,Blur,18
+2008-03,Coldplay,58
+2008-03,Embrace,10
+2008-03,Feeder,29
+2008-03,Jon Secada,8
+2008-03,Kaiser Chiefs,33
+2008-03,Keane,38
+2008-03,Madonna,4
+2008-03,Muse,10
+2008-03,Pulp,9
+2008-03,Razorlight,21
+2008-03,Snow Patrol,32
+2008-03,Supergrass,34
+2008-03,The Killers,23
+2008-03,Travis,88
+2008-03,U2,33
+2008-04,Arcade Fire,4
+2008-04,Arctic Monkeys,10
+2008-04,Ash,2
+2008-04,Belle And Sebastian,4
+2008-04,Blur,10
+2008-04,Coldplay,54
+2008-04,Embrace,8
+2008-04,Feeder,12
+2008-04,Jon Secada,6
+2008-04,Kaiser Chiefs,17
+2008-04,Keane,19
+2008-04,Madonna,7
+2008-04,Muse,10
+2008-04,Pulp,10
+2008-04,Razorlight,14
+2008-04,Snow Patrol,12
+2008-04,Supergrass,55
+2008-04,The Killers,24
+2008-04,Travis,48
+2008-04,U2,19
+2008-05,Arcade Fire,6
+2008-05,Arctic Monkeys,4
+2008-05,Ash,19
+2008-05,Belle And Sebastian,7
+2008-05,Blur,13
+2008-05,Coldplay,140
+2008-05,Embrace,21
+2008-05,Feeder,31
+2008-05,Jon Secada,12
+2008-05,Kaiser Chiefs,23
+2008-05,Keane,28
+2008-05,Madonna,18
+2008-05,Muse,11
+2008-05,Pulp,15
+2008-05,Razorlight,21
+2008-05,Snow Patrol,22
+2008-05,Supergrass,44
+2008-05,The Killers,27
+2008-05,Travis,184
+2008-05,U2,25
+2008-06,Arcade Fire,20
+2008-06,Arctic Monkeys,25
+2008-06,Ash,74
+2008-06,Belle And Sebastian,11
+2008-06,Blur,30
+2008-06,Coldplay,328
+2008-06,Embrace,39
+2008-06,Feeder,86
+2008-06,Jon Secada,134
+2008-06,Kaiser Chiefs,79
+2008-06,Keane,72
+2008-06,Madonna,27
+2008-06,Muse,16
+2008-06,Pulp,32
+2008-06,Razorlight,66
+2008-06,Snow Patrol,61
+2008-06,Supergrass,82
+2008-06,The Killers,78
+2008-06,Travis,331
+2008-06,U2,44
+2008-07,Arcade Fire,5
+2008-07,Arctic Monkeys,11
+2008-07,Ash,16
+2008-07,Belle And Sebastian,5
+2008-07,Blur,15
+2008-07,Coldplay,84
+2008-07,Embrace,12
+2008-07,Feeder,32
+2008-07,Jon Secada,28
+2008-07,Kaiser Chiefs,24
+2008-07,Keane,41
+2008-07,Madonna,16
+2008-07,Muse,12
+2008-07,Pulp,14
+2008-07,Razorlight,18
+2008-07,Snow Patrol,25
+2008-07,Supergrass,33
+2008-07,The Killers,26
+2008-07,Travis,146
+2008-07,U2,18
+2008-08,Arcade Fire,10
+2008-08,Arctic Monkeys,15
+2008-08,Ash,26
+2008-08,Belle And Sebastian,12
+2008-08,Blur,35
+2008-08,Coldplay,295
+2008-08,Embrace,28
+2008-08,Feeder,133
+2008-08,Jon Secada,16
+2008-08,Kaiser Chiefs,106
+2008-08,Keane,115
+2008-08,Madonna,18
+2008-08,Muse,52
+2008-08,Pulp,22
+2008-08,Razorlight,48
+2008-08,Snow Patrol,56
+2008-08,Supergrass,74
+2008-08,The Killers,97
+2008-08,Travis,399
+2008-08,U2,49
+2008-09,Arcade Fire,25
+2008-09,Arctic Monkeys,28
+2008-09,Ash,64
+2008-09,Belle And Sebastian,17
+2008-09,Blur,114
+2008-09,Coldplay,385
+2008-09,Embrace,73
+2008-09,Feeder,156
+2008-09,Jon Secada,56
+2008-09,Kaiser Chiefs,140
+2008-09,Keane,218
+2008-09,Madonna,33
+2008-09,Muse,62
+2008-09,Pulp,56
+2008-09,Razorlight,133
+2008-09,Snow Patrol,133
+2008-09,Supergrass,121
+2008-09,The Killers,151
+2008-09,Travis,619
+2008-09,U2,165
+2008-10,Arcade Fire,16
+2008-10,Arctic Monkeys,16
+2008-10,Ash,47
+2008-10,Belle And Sebastian,12
+2008-10,Blur,34
+2008-10,Coldplay,318
+2008-10,Embrace,35
+2008-10,Feeder,76
+2008-10,Jon Secada,27
+2008-10,Kaiser Chiefs,325
+2008-10,Keane,302
+2008-10,Madonna,20
+2008-10,Muse,24
+2008-10,Pulp,21
+2008-10,Razorlight,86
+2008-10,Snow Patrol,143
+2008-10,Supergrass,73
+2008-10,The Killers,150
+2008-10,Travis,667
+2008-10,U2,77
+2008-11,Arcade Fire,24
+2008-11,Arctic Monkeys,36
+2008-11,Ash,44
+2008-11,Belle And Sebastian,11
+2008-11,Blur,35
+2008-11,Coldplay,384
+2008-11,Embrace,47
+2008-11,Feeder,82
+2008-11,Jon Secada,52
+2008-11,Kaiser Chiefs,334
+2008-11,Keane,305
+2008-11,Madonna,32
+2008-11,Muse,34
+2008-11,Pulp,46
+2008-11,Razorlight,267
+2008-11,Snow Patrol,288
+2008-11,Supergrass,93
+2008-11,The Killers,235
+2008-11,Travis,444
+2008-11,U2,107
+2008-12,Arcade Fire,19
+2008-12,Arctic Monkeys,35
+2008-12,Ash,26
+2008-12,Belle And Sebastian,12
+2008-12,Blur,102
+2008-12,Coldplay,540
+2008-12,Embrace,40
+2008-12,Feeder,43
+2008-12,Jon Secada,68
+2008-12,Kaiser Chiefs,225
+2008-12,Keane,245
+2008-12,Madonna,41
+2008-12,Muse,20
+2008-12,Pulp,55
+2008-12,Razorlight,165
+2008-12,Snow Patrol,226
+2008-12,Supergrass,47
+2008-12,The Killers,238
+2008-12,Travis,400
+2008-12,U2,67
+2009-01,Arcade Fire,28
+2009-01,Arctic Monkeys,26
+2009-01,Ash,28
+2009-01,Belle And Sebastian,6
+2009-01,Blur,72
+2009-01,Coldplay,367
+2009-01,Embrace,43
+2009-01,Feeder,33
+2009-01,Jon Secada,92
+2009-01,Kaiser Chiefs,190
+2009-01,Keane,338
+2009-01,Madonna,44
+2009-01,Muse,45
+2009-01,Pulp,81
+2009-01,Razorlight,141
+2009-01,Snow Patrol,246
+2009-01,Supergrass,60
+2009-01,The Killers,248
+2009-01,Travis,448
+2009-01,U2,87
+2009-02,Arcade Fire,16
+2009-02,Arctic Monkeys,27
+2009-02,Ash,29
+2009-02,Belle And Sebastian,2
+2009-02,Blur,53
+2009-02,Coldplay,250
+2009-02,Embrace,26
+2009-02,Feeder,33
+2009-02,Jon Secada,51
+2009-02,Kaiser Chiefs,123
+2009-02,Keane,357
+2009-02,Madonna,38
+2009-02,Muse,36
+2009-02,Pulp,46
+2009-02,Razorlight,106
+2009-02,Snow Patrol,189
+2009-02,Supergrass,32
+2009-02,The Killers,141
+2009-02,Travis,330
+2009-02,U2,82
+2009-03,Arcade Fire,18
+2009-03,Arctic Monkeys,55
+2009-03,Ash,51
+2009-03,Belle And Sebastian,26
+2009-03,Blur,41
+2009-03,Coldplay,313
+2009-03,Embrace,51
+2009-03,Feeder,79
+2009-03,Jon Secada,51
+2009-03,Kaiser Chiefs,177
+2009-03,Keane,272
+2009-03,Madonna,31
+2009-03,Muse,64
+2009-03,Pulp,60
+2009-03,Razorlight,145
+2009-03,Snow Patrol,418
+2009-03,Supergrass,52
+2009-03,The Killers,198
+2009-03,Travis,405
+2009-03,U2,198
+2009-04,Arcade Fire,23
+2009-04,Arctic Monkeys,95
+2009-04,Ash,63
+2009-04,Belle And Sebastian,22
+2009-04,Blur,57
+2009-04,Coldplay,273
+2009-04,Embrace,57
+2009-04,Feeder,56
+2009-04,Jon Secada,113
+2009-04,Kaiser Chiefs,180
+2009-04,Keane,211
+2009-04,Madonna,24
+2009-04,Muse,61
+2009-04,Pulp,59
+2009-04,Razorlight,99
+2009-04,Snow Patrol,224
+2009-04,Supergrass,71
+2009-04,The Killers,161
+2009-04,Travis,396
+2009-04,U2,136

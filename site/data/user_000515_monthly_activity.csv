@@ -1,0 +1,401 @@
+month,artist,plays
+2007-09,Anne Clark,1
+2007-09,Anthony Rother,1
+2007-09,Apparat,1
+2007-09,Arovane,74
+2007-09,Autechre,6
+2007-09,Christian Kleine,17
+2007-09,Depeche Mode,19
+2007-09,Dictaphone,34
+2007-09,Esem,0
+2007-09,Fear Factory,5
+2007-09,Lackluster,3
+2007-09,Marsen Jules,38
+2007-09,Max Richter,8
+2007-09,Miwon,1
+2007-09,Nine Inch Nails,15
+2007-09,Röyksopp,5
+2007-09,Scsi-9,31
+2007-09,The Prodigy,6
+2007-09,Ulrich Schnauss,10
+2007-09,Venetian Snares,29
+2007-10,Anne Clark,1
+2007-10,Anthony Rother,27
+2007-10,Apparat,2
+2007-10,Arovane,56
+2007-10,Autechre,5
+2007-10,Christian Kleine,29
+2007-10,Depeche Mode,7
+2007-10,Dictaphone,70
+2007-10,Esem,0
+2007-10,Fear Factory,63
+2007-10,Lackluster,1
+2007-10,Marsen Jules,50
+2007-10,Max Richter,17
+2007-10,Miwon,1
+2007-10,Nine Inch Nails,7
+2007-10,Röyksopp,4
+2007-10,Scsi-9,8
+2007-10,The Prodigy,31
+2007-10,Ulrich Schnauss,20
+2007-10,Venetian Snares,35
+2007-11,Anne Clark,3
+2007-11,Anthony Rother,1
+2007-11,Apparat,11
+2007-11,Arovane,11
+2007-11,Autechre,1
+2007-11,Christian Kleine,7
+2007-11,Depeche Mode,11
+2007-11,Dictaphone,19
+2007-11,Esem,3
+2007-11,Fear Factory,58
+2007-11,Lackluster,11
+2007-11,Marsen Jules,20
+2007-11,Max Richter,3
+2007-11,Miwon,7
+2007-11,Nine Inch Nails,9
+2007-11,Röyksopp,25
+2007-11,Scsi-9,5
+2007-11,The Prodigy,26
+2007-11,Ulrich Schnauss,9
+2007-11,Venetian Snares,4
+2007-12,Anne Clark,2
+2007-12,Anthony Rother,4
+2007-12,Apparat,10
+2007-12,Arovane,26
+2007-12,Autechre,4
+2007-12,Christian Kleine,3
+2007-12,Depeche Mode,6
+2007-12,Dictaphone,7
+2007-12,Esem,0
+2007-12,Fear Factory,9
+2007-12,Lackluster,6
+2007-12,Marsen Jules,4
+2007-12,Max Richter,4
+2007-12,Miwon,2
+2007-12,Nine Inch Nails,254
+2007-12,Röyksopp,32
+2007-12,Scsi-9,1
+2007-12,The Prodigy,38
+2007-12,Ulrich Schnauss,2
+2007-12,Venetian Snares,2
+2008-01,Anne Clark,4
+2008-01,Anthony Rother,26
+2008-01,Apparat,5
+2008-01,Arovane,43
+2008-01,Autechre,2
+2008-01,Christian Kleine,12
+2008-01,Depeche Mode,4
+2008-01,Dictaphone,21
+2008-01,Esem,3
+2008-01,Fear Factory,12
+2008-01,Lackluster,225
+2008-01,Marsen Jules,12
+2008-01,Max Richter,4
+2008-01,Miwon,0
+2008-01,Nine Inch Nails,5
+2008-01,Röyksopp,44
+2008-01,Scsi-9,17
+2008-01,The Prodigy,62
+2008-01,Ulrich Schnauss,6
+2008-01,Venetian Snares,50
+2008-02,Anne Clark,0
+2008-02,Anthony Rother,33
+2008-02,Apparat,0
+2008-02,Arovane,11
+2008-02,Autechre,99
+2008-02,Christian Kleine,4
+2008-02,Depeche Mode,0
+2008-02,Dictaphone,9
+2008-02,Esem,0
+2008-02,Fear Factory,0
+2008-02,Lackluster,116
+2008-02,Marsen Jules,6
+2008-02,Max Richter,226
+2008-02,Miwon,0
+2008-02,Nine Inch Nails,0
+2008-02,Röyksopp,15
+2008-02,Scsi-9,2
+2008-02,The Prodigy,15
+2008-02,Ulrich Schnauss,4
+2008-02,Venetian Snares,0
+2008-03,Anne Clark,0
+2008-03,Anthony Rother,24
+2008-03,Apparat,5
+2008-03,Arovane,27
+2008-03,Autechre,357
+2008-03,Christian Kleine,0
+2008-03,Depeche Mode,0
+2008-03,Dictaphone,1
+2008-03,Esem,368
+2008-03,Fear Factory,0
+2008-03,Lackluster,249
+2008-03,Marsen Jules,1
+2008-03,Max Richter,0
+2008-03,Miwon,0
+2008-03,Nine Inch Nails,1192
+2008-03,Röyksopp,1
+2008-03,Scsi-9,442
+2008-03,The Prodigy,4
+2008-03,Ulrich Schnauss,0
+2008-03,Venetian Snares,48
+2008-04,Anne Clark,566
+2008-04,Anthony Rother,0
+2008-04,Apparat,34
+2008-04,Arovane,2
+2008-04,Autechre,111
+2008-04,Christian Kleine,1
+2008-04,Depeche Mode,0
+2008-04,Dictaphone,2
+2008-04,Esem,68
+2008-04,Fear Factory,35
+2008-04,Lackluster,93
+2008-04,Marsen Jules,1
+2008-04,Max Richter,111
+2008-04,Miwon,4
+2008-04,Nine Inch Nails,158
+2008-04,Röyksopp,0
+2008-04,Scsi-9,21
+2008-04,The Prodigy,13
+2008-04,Ulrich Schnauss,0
+2008-04,Venetian Snares,25
+2008-05,Anne Clark,3
+2008-05,Anthony Rother,1
+2008-05,Apparat,1
+2008-05,Arovane,38
+2008-05,Autechre,205
+2008-05,Christian Kleine,36
+2008-05,Depeche Mode,1
+2008-05,Dictaphone,81
+2008-05,Esem,87
+2008-05,Fear Factory,113
+2008-05,Lackluster,117
+2008-05,Marsen Jules,75
+2008-05,Max Richter,136
+2008-05,Miwon,48
+2008-05,Nine Inch Nails,708
+2008-05,Röyksopp,9
+2008-05,Scsi-9,379
+2008-05,The Prodigy,16
+2008-05,Ulrich Schnauss,7
+2008-05,Venetian Snares,7
+2008-06,Anne Clark,0
+2008-06,Anthony Rother,0
+2008-06,Apparat,0
+2008-06,Arovane,34
+2008-06,Autechre,84
+2008-06,Christian Kleine,9
+2008-06,Depeche Mode,0
+2008-06,Dictaphone,68
+2008-06,Esem,42
+2008-06,Fear Factory,0
+2008-06,Lackluster,222
+2008-06,Marsen Jules,62
+2008-06,Max Richter,15
+2008-06,Miwon,5
+2008-06,Nine Inch Nails,152
+2008-06,Röyksopp,0
+2008-06,Scsi-9,36
+2008-06,The Prodigy,9
+2008-06,Ulrich Schnauss,13
+2008-06,Venetian Snares,6
+2008-07,Anne Clark,0
+2008-07,Anthony Rother,0
+2008-07,Apparat,26
+2008-07,Arovane,0
+2008-07,Autechre,0
+2008-07,Christian Kleine,0
+2008-07,Depeche Mode,1
+2008-07,Dictaphone,0
+2008-07,Esem,1
+2008-07,Fear Factory,0
+2008-07,Lackluster,8
+2008-07,Marsen Jules,2
+2008-07,Max Richter,0
+2008-07,Miwon,0
+2008-07,Nine Inch Nails,52
+2008-07,Röyksopp,0
+2008-07,Scsi-9,57
+2008-07,The Prodigy,0
+2008-07,Ulrich Schnauss,2
+2008-07,Venetian Snares,0
+2008-08,Anne Clark,4
+2008-08,Anthony Rother,0
+2008-08,Apparat,206
+2008-08,Arovane,151
+2008-08,Autechre,5
+2008-08,Christian Kleine,19
+2008-08,Depeche Mode,2
+2008-08,Dictaphone,36
+2008-08,Esem,13
+2008-08,Fear Factory,0
+2008-08,Lackluster,39
+2008-08,Marsen Jules,31
+2008-08,Max Richter,82
+2008-08,Miwon,36
+2008-08,Nine Inch Nails,8
+2008-08,Röyksopp,1
+2008-08,Scsi-9,100
+2008-08,The Prodigy,4
+2008-08,Ulrich Schnauss,9
+2008-08,Venetian Snares,12
+2008-09,Anne Clark,57
+2008-09,Anthony Rother,11
+2008-09,Apparat,98
+2008-09,Arovane,92
+2008-09,Autechre,0
+2008-09,Christian Kleine,2
+2008-09,Depeche Mode,0
+2008-09,Dictaphone,40
+2008-09,Esem,62
+2008-09,Fear Factory,99
+2008-09,Lackluster,3
+2008-09,Marsen Jules,16
+2008-09,Max Richter,83
+2008-09,Miwon,1
+2008-09,Nine Inch Nails,2
+2008-09,Röyksopp,0
+2008-09,Scsi-9,16
+2008-09,The Prodigy,287
+2008-09,Ulrich Schnauss,2
+2008-09,Venetian Snares,0
+2008-10,Anne Clark,0
+2008-10,Anthony Rother,23
+2008-10,Apparat,0
+2008-10,Arovane,1
+2008-10,Autechre,0
+2008-10,Christian Kleine,0
+2008-10,Depeche Mode,0
+2008-10,Dictaphone,0
+2008-10,Esem,0
+2008-10,Fear Factory,37
+2008-10,Lackluster,0
+2008-10,Marsen Jules,0
+2008-10,Max Richter,71
+2008-10,Miwon,0
+2008-10,Nine Inch Nails,1064
+2008-10,Röyksopp,2
+2008-10,Scsi-9,0
+2008-10,The Prodigy,0
+2008-10,Ulrich Schnauss,1
+2008-10,Venetian Snares,2
+2008-11,Anne Clark,19
+2008-11,Anthony Rother,6
+2008-11,Apparat,104
+2008-11,Arovane,2
+2008-11,Autechre,5
+2008-11,Christian Kleine,1
+2008-11,Depeche Mode,1
+2008-11,Dictaphone,0
+2008-11,Esem,35
+2008-11,Fear Factory,1
+2008-11,Lackluster,2
+2008-11,Marsen Jules,0
+2008-11,Max Richter,0
+2008-11,Miwon,4
+2008-11,Nine Inch Nails,153
+2008-11,Röyksopp,21
+2008-11,Scsi-9,9
+2008-11,The Prodigy,36
+2008-11,Ulrich Schnauss,6
+2008-11,Venetian Snares,1
+2008-12,Anne Clark,0
+2008-12,Anthony Rother,0
+2008-12,Apparat,3
+2008-12,Arovane,0
+2008-12,Autechre,3
+2008-12,Christian Kleine,0
+2008-12,Depeche Mode,0
+2008-12,Dictaphone,0
+2008-12,Esem,7
+2008-12,Fear Factory,0
+2008-12,Lackluster,15
+2008-12,Marsen Jules,8
+2008-12,Max Richter,40
+2008-12,Miwon,16
+2008-12,Nine Inch Nails,11
+2008-12,Röyksopp,0
+2008-12,Scsi-9,0
+2008-12,The Prodigy,8
+2008-12,Ulrich Schnauss,22
+2008-12,Venetian Snares,4
+2009-01,Anne Clark,1
+2009-01,Anthony Rother,1
+2009-01,Apparat,0
+2009-01,Arovane,0
+2009-01,Autechre,0
+2009-01,Christian Kleine,0
+2009-01,Depeche Mode,3
+2009-01,Dictaphone,0
+2009-01,Esem,4
+2009-01,Fear Factory,1
+2009-01,Lackluster,14
+2009-01,Marsen Jules,4
+2009-01,Max Richter,0
+2009-01,Miwon,7
+2009-01,Nine Inch Nails,5
+2009-01,Röyksopp,0
+2009-01,Scsi-9,0
+2009-01,The Prodigy,1
+2009-01,Ulrich Schnauss,10
+2009-01,Venetian Snares,0
+2009-02,Anne Clark,4
+2009-02,Anthony Rother,1
+2009-02,Apparat,118
+2009-02,Arovane,1
+2009-02,Autechre,2
+2009-02,Christian Kleine,1
+2009-02,Depeche Mode,16
+2009-02,Dictaphone,1
+2009-02,Esem,1
+2009-02,Fear Factory,2
+2009-02,Lackluster,2
+2009-02,Marsen Jules,1
+2009-02,Max Richter,0
+2009-02,Miwon,3
+2009-02,Nine Inch Nails,4
+2009-02,Röyksopp,4
+2009-02,Scsi-9,2
+2009-02,The Prodigy,3
+2009-02,Ulrich Schnauss,0
+2009-02,Venetian Snares,3
+2009-03,Anne Clark,1
+2009-03,Anthony Rother,0
+2009-03,Apparat,0
+2009-03,Arovane,0
+2009-03,Autechre,1
+2009-03,Christian Kleine,2
+2009-03,Depeche Mode,2
+2009-03,Dictaphone,0
+2009-03,Esem,0
+2009-03,Fear Factory,1
+2009-03,Lackluster,0
+2009-03,Marsen Jules,2
+2009-03,Max Richter,1
+2009-03,Miwon,0
+2009-03,Nine Inch Nails,3
+2009-03,Röyksopp,35
+2009-03,Scsi-9,0
+2009-03,The Prodigy,52
+2009-03,Ulrich Schnauss,0
+2009-03,Venetian Snares,0
+2009-04,Anne Clark,0
+2009-04,Anthony Rother,0
+2009-04,Apparat,0
+2009-04,Arovane,0
+2009-04,Autechre,0
+2009-04,Christian Kleine,0
+2009-04,Depeche Mode,368
+2009-04,Dictaphone,0
+2009-04,Esem,0
+2009-04,Fear Factory,0
+2009-04,Lackluster,0
+2009-04,Marsen Jules,0
+2009-04,Max Richter,0
+2009-04,Miwon,0
+2009-04,Nine Inch Nails,0
+2009-04,Röyksopp,46
+2009-04,Scsi-9,0
+2009-04,The Prodigy,0
+2009-04,Ulrich Schnauss,0
+2009-04,Venetian Snares,0

@@ -1,0 +1,621 @@
+month,artist,plays
+2006-11,Bob Dylan,0
+2006-11,Colony 5,0
+2006-11,Dragonland,0
+2006-11,Foo Fighters,0
+2006-11,Gary Moore,0
+2006-11,James Brown,0
+2006-11,Johnny Cash,0
+2006-11,Lily Allen,0
+2006-11,Mew,0
+2006-11,Monster Magnet,0
+2006-11,Pet Shop Boys,0
+2006-11,Placebo,0
+2006-11,Red Hot Chili Peppers,0
+2006-11,Stereophonics,0
+2006-11,The Hellacopters,0
+2006-11,The Killers,0
+2006-11,The Knife,0
+2006-11,The Sounds,0
+2006-11,Tosca,0
+2006-11,Vnv Nation,1
+2006-12,Bob Dylan,0
+2006-12,Colony 5,0
+2006-12,Dragonland,0
+2006-12,Foo Fighters,0
+2006-12,Gary Moore,0
+2006-12,James Brown,0
+2006-12,Johnny Cash,0
+2006-12,Lily Allen,0
+2006-12,Mew,0
+2006-12,Monster Magnet,0
+2006-12,Pet Shop Boys,0
+2006-12,Placebo,0
+2006-12,Red Hot Chili Peppers,0
+2006-12,Stereophonics,0
+2006-12,The Hellacopters,0
+2006-12,The Killers,0
+2006-12,The Knife,0
+2006-12,The Sounds,0
+2006-12,Tosca,0
+2006-12,Vnv Nation,0
+2007-01,Bob Dylan,0
+2007-01,Colony 5,0
+2007-01,Dragonland,0
+2007-01,Foo Fighters,0
+2007-01,Gary Moore,0
+2007-01,James Brown,0
+2007-01,Johnny Cash,0
+2007-01,Lily Allen,0
+2007-01,Mew,0
+2007-01,Monster Magnet,0
+2007-01,Pet Shop Boys,0
+2007-01,Placebo,0
+2007-01,Red Hot Chili Peppers,0
+2007-01,Stereophonics,0
+2007-01,The Hellacopters,0
+2007-01,The Killers,0
+2007-01,The Knife,0
+2007-01,The Sounds,0
+2007-01,Tosca,0
+2007-01,Vnv Nation,0
+2007-02,Bob Dylan,0
+2007-02,Colony 5,0
+2007-02,Dragonland,0
+2007-02,Foo Fighters,0
+2007-02,Gary Moore,0
+2007-02,James Brown,0
+2007-02,Johnny Cash,0
+2007-02,Lily Allen,0
+2007-02,Mew,0
+2007-02,Monster Magnet,0
+2007-02,Pet Shop Boys,0
+2007-02,Placebo,0
+2007-02,Red Hot Chili Peppers,0
+2007-02,Stereophonics,0
+2007-02,The Hellacopters,0
+2007-02,The Killers,0
+2007-02,The Knife,0
+2007-02,The Sounds,0
+2007-02,Tosca,0
+2007-02,Vnv Nation,0
+2007-03,Bob Dylan,0
+2007-03,Colony 5,0
+2007-03,Dragonland,0
+2007-03,Foo Fighters,0
+2007-03,Gary Moore,0
+2007-03,James Brown,0
+2007-03,Johnny Cash,0
+2007-03,Lily Allen,0
+2007-03,Mew,0
+2007-03,Monster Magnet,0
+2007-03,Pet Shop Boys,0
+2007-03,Placebo,0
+2007-03,Red Hot Chili Peppers,0
+2007-03,Stereophonics,0
+2007-03,The Hellacopters,0
+2007-03,The Killers,0
+2007-03,The Knife,0
+2007-03,The Sounds,0
+2007-03,Tosca,0
+2007-03,Vnv Nation,0
+2007-04,Bob Dylan,0
+2007-04,Colony 5,0
+2007-04,Dragonland,0
+2007-04,Foo Fighters,0
+2007-04,Gary Moore,0
+2007-04,James Brown,0
+2007-04,Johnny Cash,0
+2007-04,Lily Allen,0
+2007-04,Mew,0
+2007-04,Monster Magnet,0
+2007-04,Pet Shop Boys,0
+2007-04,Placebo,0
+2007-04,Red Hot Chili Peppers,0
+2007-04,Stereophonics,0
+2007-04,The Hellacopters,0
+2007-04,The Killers,0
+2007-04,The Knife,0
+2007-04,The Sounds,0
+2007-04,Tosca,0
+2007-04,Vnv Nation,0
+2007-05,Bob Dylan,0
+2007-05,Colony 5,0
+2007-05,Dragonland,0
+2007-05,Foo Fighters,0
+2007-05,Gary Moore,0
+2007-05,James Brown,0
+2007-05,Johnny Cash,0
+2007-05,Lily Allen,0
+2007-05,Mew,0
+2007-05,Monster Magnet,0
+2007-05,Pet Shop Boys,0
+2007-05,Placebo,0
+2007-05,Red Hot Chili Peppers,0
+2007-05,Stereophonics,0
+2007-05,The Hellacopters,0
+2007-05,The Killers,0
+2007-05,The Knife,0
+2007-05,The Sounds,0
+2007-05,Tosca,0
+2007-05,Vnv Nation,0
+2007-06,Bob Dylan,2
+2007-06,Colony 5,29
+2007-06,Dragonland,1
+2007-06,Foo Fighters,4
+2007-06,Gary Moore,3
+2007-06,James Brown,0
+2007-06,Johnny Cash,1
+2007-06,Lily Allen,1
+2007-06,Mew,1
+2007-06,Monster Magnet,2
+2007-06,Pet Shop Boys,5
+2007-06,Placebo,9
+2007-06,Red Hot Chili Peppers,3
+2007-06,Stereophonics,3
+2007-06,The Hellacopters,4
+2007-06,The Killers,5
+2007-06,The Knife,4
+2007-06,The Sounds,4
+2007-06,Tosca,0
+2007-06,Vnv Nation,6
+2007-07,Bob Dylan,0
+2007-07,Colony 5,0
+2007-07,Dragonland,0
+2007-07,Foo Fighters,1
+2007-07,Gary Moore,1
+2007-07,James Brown,0
+2007-07,Johnny Cash,2
+2007-07,Lily Allen,0
+2007-07,Mew,0
+2007-07,Monster Magnet,0
+2007-07,Pet Shop Boys,0
+2007-07,Placebo,0
+2007-07,Red Hot Chili Peppers,0
+2007-07,Stereophonics,0
+2007-07,The Hellacopters,6
+2007-07,The Killers,0
+2007-07,The Knife,3
+2007-07,The Sounds,6
+2007-07,Tosca,1
+2007-07,Vnv Nation,0
+2007-08,Bob Dylan,2
+2007-08,Colony 5,9
+2007-08,Dragonland,1
+2007-08,Foo Fighters,46
+2007-08,Gary Moore,1
+2007-08,James Brown,3
+2007-08,Johnny Cash,3
+2007-08,Lily Allen,1
+2007-08,Mew,3
+2007-08,Monster Magnet,12
+2007-08,Pet Shop Boys,19
+2007-08,Placebo,6
+2007-08,Red Hot Chili Peppers,46
+2007-08,Stereophonics,12
+2007-08,The Hellacopters,12
+2007-08,The Killers,6
+2007-08,The Knife,272
+2007-08,The Sounds,6
+2007-08,Tosca,1
+2007-08,Vnv Nation,4
+2007-09,Bob Dylan,0
+2007-09,Colony 5,4
+2007-09,Dragonland,1
+2007-09,Foo Fighters,40
+2007-09,Gary Moore,1
+2007-09,James Brown,0
+2007-09,Johnny Cash,0
+2007-09,Lily Allen,1
+2007-09,Mew,1
+2007-09,Monster Magnet,7
+2007-09,Pet Shop Boys,1
+2007-09,Placebo,12
+2007-09,Red Hot Chili Peppers,19
+2007-09,Stereophonics,9
+2007-09,The Hellacopters,5
+2007-09,The Killers,9
+2007-09,The Knife,1
+2007-09,The Sounds,12
+2007-09,Tosca,2
+2007-09,Vnv Nation,8
+2007-10,Bob Dylan,2
+2007-10,Colony 5,19
+2007-10,Dragonland,18
+2007-10,Foo Fighters,82
+2007-10,Gary Moore,0
+2007-10,James Brown,0
+2007-10,Johnny Cash,1
+2007-10,Lily Allen,1
+2007-10,Mew,0
+2007-10,Monster Magnet,0
+2007-10,Pet Shop Boys,3
+2007-10,Placebo,3
+2007-10,Red Hot Chili Peppers,23
+2007-10,Stereophonics,26
+2007-10,The Hellacopters,5
+2007-10,The Killers,0
+2007-10,The Knife,0
+2007-10,The Sounds,24
+2007-10,Tosca,2
+2007-10,Vnv Nation,17
+2007-11,Bob Dylan,1
+2007-11,Colony 5,0
+2007-11,Dragonland,0
+2007-11,Foo Fighters,0
+2007-11,Gary Moore,0
+2007-11,James Brown,0
+2007-11,Johnny Cash,0
+2007-11,Lily Allen,0
+2007-11,Mew,0
+2007-11,Monster Magnet,0
+2007-11,Pet Shop Boys,3
+2007-11,Placebo,0
+2007-11,Red Hot Chili Peppers,1
+2007-11,Stereophonics,0
+2007-11,The Hellacopters,0
+2007-11,The Killers,2
+2007-11,The Knife,0
+2007-11,The Sounds,5
+2007-11,Tosca,0
+2007-11,Vnv Nation,9
+2007-12,Bob Dylan,0
+2007-12,Colony 5,0
+2007-12,Dragonland,0
+2007-12,Foo Fighters,0
+2007-12,Gary Moore,0
+2007-12,James Brown,0
+2007-12,Johnny Cash,0
+2007-12,Lily Allen,0
+2007-12,Mew,0
+2007-12,Monster Magnet,0
+2007-12,Pet Shop Boys,0
+2007-12,Placebo,0
+2007-12,Red Hot Chili Peppers,0
+2007-12,Stereophonics,0
+2007-12,The Hellacopters,0
+2007-12,The Killers,0
+2007-12,The Knife,0
+2007-12,The Sounds,0
+2007-12,Tosca,0
+2007-12,Vnv Nation,0
+2008-01,Bob Dylan,0
+2008-01,Colony 5,0
+2008-01,Dragonland,0
+2008-01,Foo Fighters,0
+2008-01,Gary Moore,0
+2008-01,James Brown,0
+2008-01,Johnny Cash,0
+2008-01,Lily Allen,0
+2008-01,Mew,0
+2008-01,Monster Magnet,0
+2008-01,Pet Shop Boys,0
+2008-01,Placebo,0
+2008-01,Red Hot Chili Peppers,0
+2008-01,Stereophonics,0
+2008-01,The Hellacopters,0
+2008-01,The Killers,0
+2008-01,The Knife,0
+2008-01,The Sounds,0
+2008-01,Tosca,0
+2008-01,Vnv Nation,0
+2008-02,Bob Dylan,0
+2008-02,Colony 5,0
+2008-02,Dragonland,0
+2008-02,Foo Fighters,0
+2008-02,Gary Moore,0
+2008-02,James Brown,0
+2008-02,Johnny Cash,0
+2008-02,Lily Allen,0
+2008-02,Mew,0
+2008-02,Monster Magnet,0
+2008-02,Pet Shop Boys,0
+2008-02,Placebo,0
+2008-02,Red Hot Chili Peppers,0
+2008-02,Stereophonics,0
+2008-02,The Hellacopters,0
+2008-02,The Killers,0
+2008-02,The Knife,0
+2008-02,The Sounds,0
+2008-02,Tosca,0
+2008-02,Vnv Nation,0
+2008-03,Bob Dylan,0
+2008-03,Colony 5,0
+2008-03,Dragonland,0
+2008-03,Foo Fighters,0
+2008-03,Gary Moore,0
+2008-03,James Brown,0
+2008-03,Johnny Cash,0
+2008-03,Lily Allen,0
+2008-03,Mew,1
+2008-03,Monster Magnet,13
+2008-03,Pet Shop Boys,0
+2008-03,Placebo,0
+2008-03,Red Hot Chili Peppers,0
+2008-03,Stereophonics,0
+2008-03,The Hellacopters,0
+2008-03,The Killers,0
+2008-03,The Knife,0
+2008-03,The Sounds,0
+2008-03,Tosca,0
+2008-03,Vnv Nation,3
+2008-04,Bob Dylan,0
+2008-04,Colony 5,0
+2008-04,Dragonland,0
+2008-04,Foo Fighters,0
+2008-04,Gary Moore,0
+2008-04,James Brown,0
+2008-04,Johnny Cash,0
+2008-04,Lily Allen,0
+2008-04,Mew,3
+2008-04,Monster Magnet,0
+2008-04,Pet Shop Boys,0
+2008-04,Placebo,0
+2008-04,Red Hot Chili Peppers,0
+2008-04,Stereophonics,0
+2008-04,The Hellacopters,0
+2008-04,The Killers,0
+2008-04,The Knife,0
+2008-04,The Sounds,0
+2008-04,Tosca,0
+2008-04,Vnv Nation,0
+2008-05,Bob Dylan,0
+2008-05,Colony 5,0
+2008-05,Dragonland,0
+2008-05,Foo Fighters,0
+2008-05,Gary Moore,0
+2008-05,James Brown,0
+2008-05,Johnny Cash,0
+2008-05,Lily Allen,0
+2008-05,Mew,0
+2008-05,Monster Magnet,0
+2008-05,Pet Shop Boys,0
+2008-05,Placebo,0
+2008-05,Red Hot Chili Peppers,0
+2008-05,Stereophonics,0
+2008-05,The Hellacopters,0
+2008-05,The Killers,0
+2008-05,The Knife,0
+2008-05,The Sounds,0
+2008-05,Tosca,0
+2008-05,Vnv Nation,0
+2008-06,Bob Dylan,0
+2008-06,Colony 5,0
+2008-06,Dragonland,0
+2008-06,Foo Fighters,0
+2008-06,Gary Moore,0
+2008-06,James Brown,0
+2008-06,Johnny Cash,0
+2008-06,Lily Allen,0
+2008-06,Mew,0
+2008-06,Monster Magnet,0
+2008-06,Pet Shop Boys,0
+2008-06,Placebo,0
+2008-06,Red Hot Chili Peppers,0
+2008-06,Stereophonics,0
+2008-06,The Hellacopters,0
+2008-06,The Killers,0
+2008-06,The Knife,0
+2008-06,The Sounds,0
+2008-06,Tosca,0
+2008-06,Vnv Nation,0
+2008-07,Bob Dylan,0
+2008-07,Colony 5,0
+2008-07,Dragonland,0
+2008-07,Foo Fighters,0
+2008-07,Gary Moore,0
+2008-07,James Brown,0
+2008-07,Johnny Cash,0
+2008-07,Lily Allen,0
+2008-07,Mew,0
+2008-07,Monster Magnet,0
+2008-07,Pet Shop Boys,0
+2008-07,Placebo,0
+2008-07,Red Hot Chili Peppers,0
+2008-07,Stereophonics,0
+2008-07,The Hellacopters,0
+2008-07,The Killers,0
+2008-07,The Knife,0
+2008-07,The Sounds,0
+2008-07,Tosca,0
+2008-07,Vnv Nation,0
+2008-08,Bob Dylan,0
+2008-08,Colony 5,0
+2008-08,Dragonland,0
+2008-08,Foo Fighters,0
+2008-08,Gary Moore,0
+2008-08,James Brown,0
+2008-08,Johnny Cash,0
+2008-08,Lily Allen,0
+2008-08,Mew,0
+2008-08,Monster Magnet,0
+2008-08,Pet Shop Boys,0
+2008-08,Placebo,0
+2008-08,Red Hot Chili Peppers,0
+2008-08,Stereophonics,0
+2008-08,The Hellacopters,0
+2008-08,The Killers,0
+2008-08,The Knife,0
+2008-08,The Sounds,0
+2008-08,Tosca,0
+2008-08,Vnv Nation,0
+2008-09,Bob Dylan,0
+2008-09,Colony 5,0
+2008-09,Dragonland,0
+2008-09,Foo Fighters,0
+2008-09,Gary Moore,0
+2008-09,James Brown,0
+2008-09,Johnny Cash,0
+2008-09,Lily Allen,0
+2008-09,Mew,0
+2008-09,Monster Magnet,0
+2008-09,Pet Shop Boys,0
+2008-09,Placebo,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,Stereophonics,0
+2008-09,The Hellacopters,0
+2008-09,The Killers,0
+2008-09,The Knife,0
+2008-09,The Sounds,0
+2008-09,Tosca,0
+2008-09,Vnv Nation,0
+2008-10,Bob Dylan,0
+2008-10,Colony 5,0
+2008-10,Dragonland,0
+2008-10,Foo Fighters,0
+2008-10,Gary Moore,0
+2008-10,James Brown,0
+2008-10,Johnny Cash,0
+2008-10,Lily Allen,0
+2008-10,Mew,0
+2008-10,Monster Magnet,0
+2008-10,Pet Shop Boys,0
+2008-10,Placebo,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Stereophonics,0
+2008-10,The Hellacopters,0
+2008-10,The Killers,0
+2008-10,The Knife,0
+2008-10,The Sounds,0
+2008-10,Tosca,0
+2008-10,Vnv Nation,0
+2008-11,Bob Dylan,0
+2008-11,Colony 5,0
+2008-11,Dragonland,0
+2008-11,Foo Fighters,0
+2008-11,Gary Moore,0
+2008-11,James Brown,0
+2008-11,Johnny Cash,0
+2008-11,Lily Allen,0
+2008-11,Mew,0
+2008-11,Monster Magnet,0
+2008-11,Pet Shop Boys,0
+2008-11,Placebo,0
+2008-11,Red Hot Chili Peppers,0
+2008-11,Stereophonics,0
+2008-11,The Hellacopters,0
+2008-11,The Killers,0
+2008-11,The Knife,0
+2008-11,The Sounds,0
+2008-11,Tosca,0
+2008-11,Vnv Nation,0
+2008-12,Bob Dylan,0
+2008-12,Colony 5,0
+2008-12,Dragonland,0
+2008-12,Foo Fighters,0
+2008-12,Gary Moore,0
+2008-12,James Brown,1
+2008-12,Johnny Cash,0
+2008-12,Lily Allen,0
+2008-12,Mew,0
+2008-12,Monster Magnet,0
+2008-12,Pet Shop Boys,0
+2008-12,Placebo,0
+2008-12,Red Hot Chili Peppers,0
+2008-12,Stereophonics,0
+2008-12,The Hellacopters,0
+2008-12,The Killers,0
+2008-12,The Knife,0
+2008-12,The Sounds,0
+2008-12,Tosca,0
+2008-12,Vnv Nation,0
+2009-01,Bob Dylan,0
+2009-01,Colony 5,1
+2009-01,Dragonland,0
+2009-01,Foo Fighters,0
+2009-01,Gary Moore,0
+2009-01,James Brown,0
+2009-01,Johnny Cash,0
+2009-01,Lily Allen,0
+2009-01,Mew,0
+2009-01,Monster Magnet,0
+2009-01,Pet Shop Boys,0
+2009-01,Placebo,0
+2009-01,Red Hot Chili Peppers,0
+2009-01,Stereophonics,0
+2009-01,The Hellacopters,0
+2009-01,The Killers,0
+2009-01,The Knife,0
+2009-01,The Sounds,0
+2009-01,Tosca,1
+2009-01,Vnv Nation,0
+2009-02,Bob Dylan,0
+2009-02,Colony 5,0
+2009-02,Dragonland,0
+2009-02,Foo Fighters,0
+2009-02,Gary Moore,0
+2009-02,James Brown,0
+2009-02,Johnny Cash,0
+2009-02,Lily Allen,0
+2009-02,Mew,0
+2009-02,Monster Magnet,0
+2009-02,Pet Shop Boys,0
+2009-02,Placebo,0
+2009-02,Red Hot Chili Peppers,0
+2009-02,Stereophonics,0
+2009-02,The Hellacopters,0
+2009-02,The Killers,0
+2009-02,The Knife,0
+2009-02,The Sounds,0
+2009-02,Tosca,0
+2009-02,Vnv Nation,0
+2009-03,Bob Dylan,0
+2009-03,Colony 5,0
+2009-03,Dragonland,0
+2009-03,Foo Fighters,0
+2009-03,Gary Moore,0
+2009-03,James Brown,0
+2009-03,Johnny Cash,0
+2009-03,Lily Allen,0
+2009-03,Mew,0
+2009-03,Monster Magnet,0
+2009-03,Pet Shop Boys,0
+2009-03,Placebo,0
+2009-03,Red Hot Chili Peppers,0
+2009-03,Stereophonics,0
+2009-03,The Hellacopters,0
+2009-03,The Killers,0
+2009-03,The Knife,0
+2009-03,The Sounds,0
+2009-03,Tosca,0
+2009-03,Vnv Nation,0
+2009-04,Bob Dylan,0
+2009-04,Colony 5,0
+2009-04,Dragonland,0
+2009-04,Foo Fighters,0
+2009-04,Gary Moore,0
+2009-04,James Brown,1
+2009-04,Johnny Cash,0
+2009-04,Lily Allen,0
+2009-04,Mew,0
+2009-04,Monster Magnet,0
+2009-04,Pet Shop Boys,0
+2009-04,Placebo,0
+2009-04,Red Hot Chili Peppers,0
+2009-04,Stereophonics,0
+2009-04,The Hellacopters,0
+2009-04,The Killers,0
+2009-04,The Knife,0
+2009-04,The Sounds,0
+2009-04,Tosca,0
+2009-04,Vnv Nation,0
+2009-05,Bob Dylan,0
+2009-05,Colony 5,0
+2009-05,Dragonland,0
+2009-05,Foo Fighters,12
+2009-05,Gary Moore,0
+2009-05,James Brown,1
+2009-05,Johnny Cash,0
+2009-05,Lily Allen,0
+2009-05,Mew,0
+2009-05,Monster Magnet,0
+2009-05,Pet Shop Boys,0
+2009-05,Placebo,0
+2009-05,Red Hot Chili Peppers,3
+2009-05,Stereophonics,0
+2009-05,The Hellacopters,0
+2009-05,The Killers,0
+2009-05,The Knife,0
+2009-05,The Sounds,0
+2009-05,Tosca,0
+2009-05,Vnv Nation,0

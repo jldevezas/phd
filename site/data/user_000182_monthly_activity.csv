@@ -1,0 +1,941 @@
+month,artist,plays
+2005-08,After Forever,4
+2005-08,Amon Amarth,20
+2005-08,Apocalyptica,16
+2005-08,Arch Enemy,0
+2005-08,Blind Guardian,0
+2005-08,Children Of Bodom,2
+2005-08,Dark Tranquillity,0
+2005-08,Ensiferum,0
+2005-08,Epica,7
+2005-08,Finntroll,3
+2005-08,Iced Earth,0
+2005-08,In Flames,5
+2005-08,Kamelot,11
+2005-08,Korpiklaani,2
+2005-08,Lacuna Coil,1
+2005-08,Metallica,9
+2005-08,Nightwish,3
+2005-08,Norther,1
+2005-08,Suidakra,0
+2005-08,ᛏᛣᚱ,0
+2005-09,After Forever,6
+2005-09,Amon Amarth,6
+2005-09,Apocalyptica,16
+2005-09,Arch Enemy,1
+2005-09,Blind Guardian,0
+2005-09,Children Of Bodom,4
+2005-09,Dark Tranquillity,1
+2005-09,Ensiferum,0
+2005-09,Epica,3
+2005-09,Finntroll,2
+2005-09,Iced Earth,0
+2005-09,In Flames,26
+2005-09,Kamelot,8
+2005-09,Korpiklaani,3
+2005-09,Lacuna Coil,4
+2005-09,Metallica,4
+2005-09,Nightwish,8
+2005-09,Norther,6
+2005-09,Suidakra,0
+2005-09,ᛏᛣᚱ,0
+2005-10,After Forever,10
+2005-10,Amon Amarth,6
+2005-10,Apocalyptica,9
+2005-10,Arch Enemy,5
+2005-10,Blind Guardian,7
+2005-10,Children Of Bodom,12
+2005-10,Dark Tranquillity,5
+2005-10,Ensiferum,1
+2005-10,Epica,3
+2005-10,Finntroll,7
+2005-10,Iced Earth,5
+2005-10,In Flames,7
+2005-10,Kamelot,7
+2005-10,Korpiklaani,3
+2005-10,Lacuna Coil,5
+2005-10,Metallica,20
+2005-10,Nightwish,7
+2005-10,Norther,2
+2005-10,Suidakra,1
+2005-10,ᛏᛣᚱ,0
+2005-11,After Forever,1
+2005-11,Amon Amarth,5
+2005-11,Apocalyptica,10
+2005-11,Arch Enemy,4
+2005-11,Blind Guardian,3
+2005-11,Children Of Bodom,4
+2005-11,Dark Tranquillity,5
+2005-11,Ensiferum,2
+2005-11,Epica,1
+2005-11,Finntroll,4
+2005-11,Iced Earth,1
+2005-11,In Flames,6
+2005-11,Kamelot,1
+2005-11,Korpiklaani,1
+2005-11,Lacuna Coil,3
+2005-11,Metallica,3
+2005-11,Nightwish,6
+2005-11,Norther,0
+2005-11,Suidakra,0
+2005-11,ᛏᛣᚱ,0
+2005-12,After Forever,1
+2005-12,Amon Amarth,8
+2005-12,Apocalyptica,8
+2005-12,Arch Enemy,0
+2005-12,Blind Guardian,1
+2005-12,Children Of Bodom,16
+2005-12,Dark Tranquillity,4
+2005-12,Ensiferum,1
+2005-12,Epica,0
+2005-12,Finntroll,0
+2005-12,Iced Earth,3
+2005-12,In Flames,13
+2005-12,Kamelot,2
+2005-12,Korpiklaani,0
+2005-12,Lacuna Coil,2
+2005-12,Metallica,2
+2005-12,Nightwish,4
+2005-12,Norther,1
+2005-12,Suidakra,0
+2005-12,ᛏᛣᚱ,0
+2006-01,After Forever,7
+2006-01,Amon Amarth,7
+2006-01,Apocalyptica,2
+2006-01,Arch Enemy,0
+2006-01,Blind Guardian,2
+2006-01,Children Of Bodom,2
+2006-01,Dark Tranquillity,2
+2006-01,Ensiferum,0
+2006-01,Epica,1
+2006-01,Finntroll,1
+2006-01,Iced Earth,1
+2006-01,In Flames,18
+2006-01,Kamelot,20
+2006-01,Korpiklaani,1
+2006-01,Lacuna Coil,2
+2006-01,Metallica,3
+2006-01,Nightwish,44
+2006-01,Norther,5
+2006-01,Suidakra,0
+2006-01,ᛏᛣᚱ,0
+2006-02,After Forever,17
+2006-02,Amon Amarth,10
+2006-02,Apocalyptica,2
+2006-02,Arch Enemy,5
+2006-02,Blind Guardian,1
+2006-02,Children Of Bodom,3
+2006-02,Dark Tranquillity,4
+2006-02,Ensiferum,0
+2006-02,Epica,3
+2006-02,Finntroll,0
+2006-02,Iced Earth,0
+2006-02,In Flames,25
+2006-02,Kamelot,61
+2006-02,Korpiklaani,1
+2006-02,Lacuna Coil,2
+2006-02,Metallica,3
+2006-02,Nightwish,36
+2006-02,Norther,3
+2006-02,Suidakra,9
+2006-02,ᛏᛣᚱ,0
+2006-03,After Forever,1
+2006-03,Amon Amarth,4
+2006-03,Apocalyptica,0
+2006-03,Arch Enemy,4
+2006-03,Blind Guardian,11
+2006-03,Children Of Bodom,42
+2006-03,Dark Tranquillity,18
+2006-03,Ensiferum,1
+2006-03,Epica,2
+2006-03,Finntroll,8
+2006-03,Iced Earth,9
+2006-03,In Flames,32
+2006-03,Kamelot,28
+2006-03,Korpiklaani,0
+2006-03,Lacuna Coil,1
+2006-03,Metallica,0
+2006-03,Nightwish,22
+2006-03,Norther,0
+2006-03,Suidakra,7
+2006-03,ᛏᛣᚱ,2
+2006-04,After Forever,10
+2006-04,Amon Amarth,3
+2006-04,Apocalyptica,0
+2006-04,Arch Enemy,13
+2006-04,Blind Guardian,8
+2006-04,Children Of Bodom,49
+2006-04,Dark Tranquillity,13
+2006-04,Ensiferum,36
+2006-04,Epica,6
+2006-04,Finntroll,31
+2006-04,Iced Earth,5
+2006-04,In Flames,62
+2006-04,Kamelot,12
+2006-04,Korpiklaani,0
+2006-04,Lacuna Coil,0
+2006-04,Metallica,1
+2006-04,Nightwish,11
+2006-04,Norther,0
+2006-04,Suidakra,1
+2006-04,ᛏᛣᚱ,4
+2006-05,After Forever,1
+2006-05,Amon Amarth,43
+2006-05,Apocalyptica,1
+2006-05,Arch Enemy,27
+2006-05,Blind Guardian,2
+2006-05,Children Of Bodom,14
+2006-05,Dark Tranquillity,4
+2006-05,Ensiferum,11
+2006-05,Epica,0
+2006-05,Finntroll,19
+2006-05,Iced Earth,1
+2006-05,In Flames,18
+2006-05,Kamelot,18
+2006-05,Korpiklaani,2
+2006-05,Lacuna Coil,1
+2006-05,Metallica,5
+2006-05,Nightwish,14
+2006-05,Norther,0
+2006-05,Suidakra,0
+2006-05,ᛏᛣᚱ,1
+2006-06,After Forever,3
+2006-06,Amon Amarth,0
+2006-06,Apocalyptica,0
+2006-06,Arch Enemy,41
+2006-06,Blind Guardian,0
+2006-06,Children Of Bodom,61
+2006-06,Dark Tranquillity,53
+2006-06,Ensiferum,12
+2006-06,Epica,0
+2006-06,Finntroll,0
+2006-06,Iced Earth,8
+2006-06,In Flames,32
+2006-06,Kamelot,6
+2006-06,Korpiklaani,2
+2006-06,Lacuna Coil,8
+2006-06,Metallica,3
+2006-06,Nightwish,12
+2006-06,Norther,0
+2006-06,Suidakra,0
+2006-06,ᛏᛣᚱ,0
+2006-07,After Forever,39
+2006-07,Amon Amarth,18
+2006-07,Apocalyptica,1
+2006-07,Arch Enemy,10
+2006-07,Blind Guardian,4
+2006-07,Children Of Bodom,31
+2006-07,Dark Tranquillity,41
+2006-07,Ensiferum,4
+2006-07,Epica,26
+2006-07,Finntroll,10
+2006-07,Iced Earth,3
+2006-07,In Flames,10
+2006-07,Kamelot,0
+2006-07,Korpiklaani,5
+2006-07,Lacuna Coil,35
+2006-07,Metallica,0
+2006-07,Nightwish,0
+2006-07,Norther,0
+2006-07,Suidakra,4
+2006-07,ᛏᛣᚱ,0
+2006-08,After Forever,6
+2006-08,Amon Amarth,8
+2006-08,Apocalyptica,3
+2006-08,Arch Enemy,47
+2006-08,Blind Guardian,0
+2006-08,Children Of Bodom,75
+2006-08,Dark Tranquillity,40
+2006-08,Ensiferum,0
+2006-08,Epica,9
+2006-08,Finntroll,20
+2006-08,Iced Earth,3
+2006-08,In Flames,99
+2006-08,Kamelot,0
+2006-08,Korpiklaani,7
+2006-08,Lacuna Coil,0
+2006-08,Metallica,0
+2006-08,Nightwish,0
+2006-08,Norther,9
+2006-08,Suidakra,0
+2006-08,ᛏᛣᚱ,1
+2006-09,After Forever,13
+2006-09,Amon Amarth,39
+2006-09,Apocalyptica,0
+2006-09,Arch Enemy,61
+2006-09,Blind Guardian,58
+2006-09,Children Of Bodom,63
+2006-09,Dark Tranquillity,35
+2006-09,Ensiferum,5
+2006-09,Epica,2
+2006-09,Finntroll,3
+2006-09,Iced Earth,24
+2006-09,In Flames,50
+2006-09,Kamelot,27
+2006-09,Korpiklaani,42
+2006-09,Lacuna Coil,17
+2006-09,Metallica,26
+2006-09,Nightwish,4
+2006-09,Norther,10
+2006-09,Suidakra,31
+2006-09,ᛏᛣᚱ,5
+2006-10,After Forever,0
+2006-10,Amon Amarth,26
+2006-10,Apocalyptica,0
+2006-10,Arch Enemy,11
+2006-10,Blind Guardian,4
+2006-10,Children Of Bodom,24
+2006-10,Dark Tranquillity,42
+2006-10,Ensiferum,2
+2006-10,Epica,14
+2006-10,Finntroll,72
+2006-10,Iced Earth,4
+2006-10,In Flames,37
+2006-10,Kamelot,5
+2006-10,Korpiklaani,103
+2006-10,Lacuna Coil,0
+2006-10,Metallica,25
+2006-10,Nightwish,9
+2006-10,Norther,17
+2006-10,Suidakra,4
+2006-10,ᛏᛣᚱ,21
+2006-11,After Forever,0
+2006-11,Amon Amarth,18
+2006-11,Apocalyptica,1
+2006-11,Arch Enemy,23
+2006-11,Blind Guardian,1
+2006-11,Children Of Bodom,21
+2006-11,Dark Tranquillity,77
+2006-11,Ensiferum,0
+2006-11,Epica,1
+2006-11,Finntroll,16
+2006-11,Iced Earth,5
+2006-11,In Flames,24
+2006-11,Kamelot,0
+2006-11,Korpiklaani,1
+2006-11,Lacuna Coil,0
+2006-11,Metallica,0
+2006-11,Nightwish,0
+2006-11,Norther,16
+2006-11,Suidakra,13
+2006-11,ᛏᛣᚱ,6
+2006-12,After Forever,0
+2006-12,Amon Amarth,12
+2006-12,Apocalyptica,0
+2006-12,Arch Enemy,25
+2006-12,Blind Guardian,0
+2006-12,Children Of Bodom,7
+2006-12,Dark Tranquillity,19
+2006-12,Ensiferum,15
+2006-12,Epica,0
+2006-12,Finntroll,34
+2006-12,Iced Earth,5
+2006-12,In Flames,22
+2006-12,Kamelot,7
+2006-12,Korpiklaani,7
+2006-12,Lacuna Coil,0
+2006-12,Metallica,12
+2006-12,Nightwish,2
+2006-12,Norther,20
+2006-12,Suidakra,8
+2006-12,ᛏᛣᚱ,0
+2007-01,After Forever,0
+2007-01,Amon Amarth,25
+2007-01,Apocalyptica,2
+2007-01,Arch Enemy,32
+2007-01,Blind Guardian,13
+2007-01,Children Of Bodom,21
+2007-01,Dark Tranquillity,1
+2007-01,Ensiferum,2
+2007-01,Epica,0
+2007-01,Finntroll,2
+2007-01,Iced Earth,4
+2007-01,In Flames,42
+2007-01,Kamelot,1
+2007-01,Korpiklaani,13
+2007-01,Lacuna Coil,0
+2007-01,Metallica,7
+2007-01,Nightwish,1
+2007-01,Norther,3
+2007-01,Suidakra,8
+2007-01,ᛏᛣᚱ,0
+2007-02,After Forever,33
+2007-02,Amon Amarth,30
+2007-02,Apocalyptica,6
+2007-02,Arch Enemy,8
+2007-02,Blind Guardian,22
+2007-02,Children Of Bodom,23
+2007-02,Dark Tranquillity,111
+2007-02,Ensiferum,35
+2007-02,Epica,0
+2007-02,Finntroll,27
+2007-02,Iced Earth,3
+2007-02,In Flames,81
+2007-02,Kamelot,1
+2007-02,Korpiklaani,22
+2007-02,Lacuna Coil,15
+2007-02,Metallica,11
+2007-02,Nightwish,0
+2007-02,Norther,95
+2007-02,Suidakra,3
+2007-02,ᛏᛣᚱ,12
+2007-03,After Forever,55
+2007-03,Amon Amarth,38
+2007-03,Apocalyptica,8
+2007-03,Arch Enemy,7
+2007-03,Blind Guardian,0
+2007-03,Children Of Bodom,7
+2007-03,Dark Tranquillity,101
+2007-03,Ensiferum,12
+2007-03,Epica,19
+2007-03,Finntroll,35
+2007-03,Iced Earth,0
+2007-03,In Flames,83
+2007-03,Kamelot,16
+2007-03,Korpiklaani,9
+2007-03,Lacuna Coil,1
+2007-03,Metallica,3
+2007-03,Nightwish,1
+2007-03,Norther,11
+2007-03,Suidakra,19
+2007-03,ᛏᛣᚱ,3
+2007-04,After Forever,28
+2007-04,Amon Amarth,42
+2007-04,Apocalyptica,0
+2007-04,Arch Enemy,9
+2007-04,Blind Guardian,0
+2007-04,Children Of Bodom,16
+2007-04,Dark Tranquillity,53
+2007-04,Ensiferum,1
+2007-04,Epica,7
+2007-04,Finntroll,41
+2007-04,Iced Earth,0
+2007-04,In Flames,27
+2007-04,Kamelot,47
+2007-04,Korpiklaani,0
+2007-04,Lacuna Coil,5
+2007-04,Metallica,12
+2007-04,Nightwish,5
+2007-04,Norther,23
+2007-04,Suidakra,17
+2007-04,ᛏᛣᚱ,0
+2007-05,After Forever,3
+2007-05,Amon Amarth,22
+2007-05,Apocalyptica,4
+2007-05,Arch Enemy,5
+2007-05,Blind Guardian,0
+2007-05,Children Of Bodom,27
+2007-05,Dark Tranquillity,42
+2007-05,Ensiferum,8
+2007-05,Epica,12
+2007-05,Finntroll,33
+2007-05,Iced Earth,1
+2007-05,In Flames,20
+2007-05,Kamelot,2
+2007-05,Korpiklaani,94
+2007-05,Lacuna Coil,2
+2007-05,Metallica,3
+2007-05,Nightwish,8
+2007-05,Norther,14
+2007-05,Suidakra,19
+2007-05,ᛏᛣᚱ,8
+2007-06,After Forever,2
+2007-06,Amon Amarth,52
+2007-06,Apocalyptica,3
+2007-06,Arch Enemy,1
+2007-06,Blind Guardian,5
+2007-06,Children Of Bodom,1
+2007-06,Dark Tranquillity,20
+2007-06,Ensiferum,2
+2007-06,Epica,4
+2007-06,Finntroll,10
+2007-06,Iced Earth,0
+2007-06,In Flames,40
+2007-06,Kamelot,9
+2007-06,Korpiklaani,31
+2007-06,Lacuna Coil,16
+2007-06,Metallica,38
+2007-06,Nightwish,1
+2007-06,Norther,4
+2007-06,Suidakra,1
+2007-06,ᛏᛣᚱ,0
+2007-07,After Forever,0
+2007-07,Amon Amarth,33
+2007-07,Apocalyptica,1
+2007-07,Arch Enemy,0
+2007-07,Blind Guardian,0
+2007-07,Children Of Bodom,4
+2007-07,Dark Tranquillity,1
+2007-07,Ensiferum,0
+2007-07,Epica,38
+2007-07,Finntroll,6
+2007-07,Iced Earth,6
+2007-07,In Flames,0
+2007-07,Kamelot,1
+2007-07,Korpiklaani,22
+2007-07,Lacuna Coil,2
+2007-07,Metallica,57
+2007-07,Nightwish,2
+2007-07,Norther,26
+2007-07,Suidakra,38
+2007-07,ᛏᛣᚱ,3
+2007-08,After Forever,55
+2007-08,Amon Amarth,12
+2007-08,Apocalyptica,1
+2007-08,Arch Enemy,13
+2007-08,Blind Guardian,2
+2007-08,Children Of Bodom,1
+2007-08,Dark Tranquillity,0
+2007-08,Ensiferum,0
+2007-08,Epica,15
+2007-08,Finntroll,2
+2007-08,Iced Earth,0
+2007-08,In Flames,1
+2007-08,Kamelot,15
+2007-08,Korpiklaani,1
+2007-08,Lacuna Coil,4
+2007-08,Metallica,22
+2007-08,Nightwish,0
+2007-08,Norther,4
+2007-08,Suidakra,0
+2007-08,ᛏᛣᚱ,2
+2007-09,After Forever,0
+2007-09,Amon Amarth,64
+2007-09,Apocalyptica,37
+2007-09,Arch Enemy,59
+2007-09,Blind Guardian,0
+2007-09,Children Of Bodom,1
+2007-09,Dark Tranquillity,12
+2007-09,Ensiferum,0
+2007-09,Epica,0
+2007-09,Finntroll,0
+2007-09,Iced Earth,0
+2007-09,In Flames,2
+2007-09,Kamelot,0
+2007-09,Korpiklaani,0
+2007-09,Lacuna Coil,0
+2007-09,Metallica,0
+2007-09,Nightwish,15
+2007-09,Norther,0
+2007-09,Suidakra,0
+2007-09,ᛏᛣᚱ,0
+2007-10,After Forever,0
+2007-10,Amon Amarth,0
+2007-10,Apocalyptica,1
+2007-10,Arch Enemy,1
+2007-10,Blind Guardian,0
+2007-10,Children Of Bodom,0
+2007-10,Dark Tranquillity,65
+2007-10,Ensiferum,0
+2007-10,Epica,0
+2007-10,Finntroll,17
+2007-10,Iced Earth,0
+2007-10,In Flames,0
+2007-10,Kamelot,0
+2007-10,Korpiklaani,0
+2007-10,Lacuna Coil,0
+2007-10,Metallica,18
+2007-10,Nightwish,13
+2007-10,Norther,0
+2007-10,Suidakra,38
+2007-10,ᛏᛣᚱ,0
+2007-11,After Forever,0
+2007-11,Amon Amarth,0
+2007-11,Apocalyptica,0
+2007-11,Arch Enemy,0
+2007-11,Blind Guardian,0
+2007-11,Children Of Bodom,0
+2007-11,Dark Tranquillity,0
+2007-11,Ensiferum,0
+2007-11,Epica,0
+2007-11,Finntroll,0
+2007-11,Iced Earth,25
+2007-11,In Flames,1
+2007-11,Kamelot,0
+2007-11,Korpiklaani,3
+2007-11,Lacuna Coil,0
+2007-11,Metallica,1
+2007-11,Nightwish,1
+2007-11,Norther,0
+2007-11,Suidakra,5
+2007-11,ᛏᛣᚱ,0
+2007-12,After Forever,0
+2007-12,Amon Amarth,0
+2007-12,Apocalyptica,0
+2007-12,Arch Enemy,0
+2007-12,Blind Guardian,0
+2007-12,Children Of Bodom,0
+2007-12,Dark Tranquillity,0
+2007-12,Ensiferum,0
+2007-12,Epica,0
+2007-12,Finntroll,0
+2007-12,Iced Earth,0
+2007-12,In Flames,0
+2007-12,Kamelot,0
+2007-12,Korpiklaani,0
+2007-12,Lacuna Coil,0
+2007-12,Metallica,0
+2007-12,Nightwish,0
+2007-12,Norther,0
+2007-12,Suidakra,0
+2007-12,ᛏᛣᚱ,0
+2008-01,After Forever,0
+2008-01,Amon Amarth,27
+2008-01,Apocalyptica,24
+2008-01,Arch Enemy,1
+2008-01,Blind Guardian,0
+2008-01,Children Of Bodom,1
+2008-01,Dark Tranquillity,1
+2008-01,Ensiferum,0
+2008-01,Epica,0
+2008-01,Finntroll,33
+2008-01,Iced Earth,1
+2008-01,In Flames,11
+2008-01,Kamelot,15
+2008-01,Korpiklaani,3
+2008-01,Lacuna Coil,0
+2008-01,Metallica,23
+2008-01,Nightwish,0
+2008-01,Norther,0
+2008-01,Suidakra,0
+2008-01,ᛏᛣᚱ,1
+2008-02,After Forever,3
+2008-02,Amon Amarth,0
+2008-02,Apocalyptica,2
+2008-02,Arch Enemy,3
+2008-02,Blind Guardian,3
+2008-02,Children Of Bodom,18
+2008-02,Dark Tranquillity,31
+2008-02,Ensiferum,0
+2008-02,Epica,19
+2008-02,Finntroll,2
+2008-02,Iced Earth,1
+2008-02,In Flames,0
+2008-02,Kamelot,23
+2008-02,Korpiklaani,19
+2008-02,Lacuna Coil,2
+2008-02,Metallica,26
+2008-02,Nightwish,3
+2008-02,Norther,15
+2008-02,Suidakra,1
+2008-02,ᛏᛣᚱ,0
+2008-03,After Forever,0
+2008-03,Amon Amarth,22
+2008-03,Apocalyptica,0
+2008-03,Arch Enemy,5
+2008-03,Blind Guardian,8
+2008-03,Children Of Bodom,0
+2008-03,Dark Tranquillity,10
+2008-03,Ensiferum,1
+2008-03,Epica,0
+2008-03,Finntroll,1
+2008-03,Iced Earth,0
+2008-03,In Flames,39
+2008-03,Kamelot,0
+2008-03,Korpiklaani,38
+2008-03,Lacuna Coil,0
+2008-03,Metallica,11
+2008-03,Nightwish,25
+2008-03,Norther,0
+2008-03,Suidakra,1
+2008-03,ᛏᛣᚱ,0
+2008-04,After Forever,0
+2008-04,Amon Amarth,19
+2008-04,Apocalyptica,0
+2008-04,Arch Enemy,0
+2008-04,Blind Guardian,0
+2008-04,Children Of Bodom,10
+2008-04,Dark Tranquillity,0
+2008-04,Ensiferum,22
+2008-04,Epica,0
+2008-04,Finntroll,50
+2008-04,Iced Earth,0
+2008-04,In Flames,14
+2008-04,Kamelot,77
+2008-04,Korpiklaani,12
+2008-04,Lacuna Coil,0
+2008-04,Metallica,0
+2008-04,Nightwish,0
+2008-04,Norther,0
+2008-04,Suidakra,0
+2008-04,ᛏᛣᚱ,11
+2008-05,After Forever,0
+2008-05,Amon Amarth,17
+2008-05,Apocalyptica,2
+2008-05,Arch Enemy,17
+2008-05,Blind Guardian,0
+2008-05,Children Of Bodom,2
+2008-05,Dark Tranquillity,49
+2008-05,Ensiferum,1
+2008-05,Epica,0
+2008-05,Finntroll,17
+2008-05,Iced Earth,0
+2008-05,In Flames,5
+2008-05,Kamelot,0
+2008-05,Korpiklaani,1
+2008-05,Lacuna Coil,0
+2008-05,Metallica,38
+2008-05,Nightwish,0
+2008-05,Norther,1
+2008-05,Suidakra,3
+2008-05,ᛏᛣᚱ,10
+2008-06,After Forever,0
+2008-06,Amon Amarth,10
+2008-06,Apocalyptica,3
+2008-06,Arch Enemy,0
+2008-06,Blind Guardian,34
+2008-06,Children Of Bodom,9
+2008-06,Dark Tranquillity,10
+2008-06,Ensiferum,0
+2008-06,Epica,1
+2008-06,Finntroll,0
+2008-06,Iced Earth,0
+2008-06,In Flames,31
+2008-06,Kamelot,66
+2008-06,Korpiklaani,0
+2008-06,Lacuna Coil,0
+2008-06,Metallica,16
+2008-06,Nightwish,0
+2008-06,Norther,0
+2008-06,Suidakra,0
+2008-06,ᛏᛣᚱ,12
+2008-07,After Forever,0
+2008-07,Amon Amarth,11
+2008-07,Apocalyptica,5
+2008-07,Arch Enemy,3
+2008-07,Blind Guardian,0
+2008-07,Children Of Bodom,0
+2008-07,Dark Tranquillity,1
+2008-07,Ensiferum,1
+2008-07,Epica,0
+2008-07,Finntroll,14
+2008-07,Iced Earth,17
+2008-07,In Flames,0
+2008-07,Kamelot,3
+2008-07,Korpiklaani,0
+2008-07,Lacuna Coil,0
+2008-07,Metallica,0
+2008-07,Nightwish,0
+2008-07,Norther,1
+2008-07,Suidakra,0
+2008-07,ᛏᛣᚱ,0
+2008-08,After Forever,1
+2008-08,Amon Amarth,60
+2008-08,Apocalyptica,0
+2008-08,Arch Enemy,1
+2008-08,Blind Guardian,1
+2008-08,Children Of Bodom,30
+2008-08,Dark Tranquillity,48
+2008-08,Ensiferum,0
+2008-08,Epica,0
+2008-08,Finntroll,0
+2008-08,Iced Earth,0
+2008-08,In Flames,59
+2008-08,Kamelot,28
+2008-08,Korpiklaani,0
+2008-08,Lacuna Coil,0
+2008-08,Metallica,16
+2008-08,Nightwish,0
+2008-08,Norther,3
+2008-08,Suidakra,1
+2008-08,ᛏᛣᚱ,3
+2008-09,After Forever,0
+2008-09,Amon Amarth,46
+2008-09,Apocalyptica,0
+2008-09,Arch Enemy,0
+2008-09,Blind Guardian,0
+2008-09,Children Of Bodom,0
+2008-09,Dark Tranquillity,32
+2008-09,Ensiferum,0
+2008-09,Epica,0
+2008-09,Finntroll,24
+2008-09,Iced Earth,0
+2008-09,In Flames,35
+2008-09,Kamelot,23
+2008-09,Korpiklaani,0
+2008-09,Lacuna Coil,0
+2008-09,Metallica,67
+2008-09,Nightwish,0
+2008-09,Norther,0
+2008-09,Suidakra,0
+2008-09,ᛏᛣᚱ,0
+2008-10,After Forever,0
+2008-10,Amon Amarth,18
+2008-10,Apocalyptica,0
+2008-10,Arch Enemy,0
+2008-10,Blind Guardian,0
+2008-10,Children Of Bodom,4
+2008-10,Dark Tranquillity,0
+2008-10,Ensiferum,0
+2008-10,Epica,33
+2008-10,Finntroll,0
+2008-10,Iced Earth,0
+2008-10,In Flames,0
+2008-10,Kamelot,0
+2008-10,Korpiklaani,0
+2008-10,Lacuna Coil,0
+2008-10,Metallica,0
+2008-10,Nightwish,0
+2008-10,Norther,0
+2008-10,Suidakra,0
+2008-10,ᛏᛣᚱ,0
+2008-11,After Forever,0
+2008-11,Amon Amarth,25
+2008-11,Apocalyptica,0
+2008-11,Arch Enemy,0
+2008-11,Blind Guardian,1
+2008-11,Children Of Bodom,0
+2008-11,Dark Tranquillity,4
+2008-11,Ensiferum,0
+2008-11,Epica,0
+2008-11,Finntroll,9
+2008-11,Iced Earth,0
+2008-11,In Flames,0
+2008-11,Kamelot,11
+2008-11,Korpiklaani,0
+2008-11,Lacuna Coil,0
+2008-11,Metallica,5
+2008-11,Nightwish,0
+2008-11,Norther,1
+2008-11,Suidakra,0
+2008-11,ᛏᛣᚱ,0
+2008-12,After Forever,1
+2008-12,Amon Amarth,28
+2008-12,Apocalyptica,1
+2008-12,Arch Enemy,2
+2008-12,Blind Guardian,2
+2008-12,Children Of Bodom,2
+2008-12,Dark Tranquillity,4
+2008-12,Ensiferum,0
+2008-12,Epica,0
+2008-12,Finntroll,1
+2008-12,Iced Earth,0
+2008-12,In Flames,0
+2008-12,Kamelot,29
+2008-12,Korpiklaani,0
+2008-12,Lacuna Coil,0
+2008-12,Metallica,11
+2008-12,Nightwish,0
+2008-12,Norther,0
+2008-12,Suidakra,0
+2008-12,ᛏᛣᚱ,0
+2009-01,After Forever,1
+2009-01,Amon Amarth,21
+2009-01,Apocalyptica,0
+2009-01,Arch Enemy,0
+2009-01,Blind Guardian,9
+2009-01,Children Of Bodom,1
+2009-01,Dark Tranquillity,67
+2009-01,Ensiferum,0
+2009-01,Epica,13
+2009-01,Finntroll,1
+2009-01,Iced Earth,0
+2009-01,In Flames,2
+2009-01,Kamelot,56
+2009-01,Korpiklaani,0
+2009-01,Lacuna Coil,0
+2009-01,Metallica,53
+2009-01,Nightwish,0
+2009-01,Norther,0
+2009-01,Suidakra,0
+2009-01,ᛏᛣᚱ,0
+2009-02,After Forever,12
+2009-02,Amon Amarth,11
+2009-02,Apocalyptica,0
+2009-02,Arch Enemy,0
+2009-02,Blind Guardian,0
+2009-02,Children Of Bodom,43
+2009-02,Dark Tranquillity,0
+2009-02,Ensiferum,0
+2009-02,Epica,15
+2009-02,Finntroll,27
+2009-02,Iced Earth,0
+2009-02,In Flames,0
+2009-02,Kamelot,2
+2009-02,Korpiklaani,0
+2009-02,Lacuna Coil,0
+2009-02,Metallica,16
+2009-02,Nightwish,0
+2009-02,Norther,0
+2009-02,Suidakra,0
+2009-02,ᛏᛣᚱ,3
+2009-03,After Forever,0
+2009-03,Amon Amarth,22
+2009-03,Apocalyptica,0
+2009-03,Arch Enemy,0
+2009-03,Blind Guardian,2
+2009-03,Children Of Bodom,0
+2009-03,Dark Tranquillity,48
+2009-03,Ensiferum,0
+2009-03,Epica,0
+2009-03,Finntroll,15
+2009-03,Iced Earth,0
+2009-03,In Flames,0
+2009-03,Kamelot,19
+2009-03,Korpiklaani,0
+2009-03,Lacuna Coil,0
+2009-03,Metallica,2
+2009-03,Nightwish,12
+2009-03,Norther,0
+2009-03,Suidakra,0
+2009-03,ᛏᛣᚱ,0
+2009-04,After Forever,0
+2009-04,Amon Amarth,1
+2009-04,Apocalyptica,0
+2009-04,Arch Enemy,0
+2009-04,Blind Guardian,22
+2009-04,Children Of Bodom,0
+2009-04,Dark Tranquillity,11
+2009-04,Ensiferum,0
+2009-04,Epica,0
+2009-04,Finntroll,0
+2009-04,Iced Earth,3
+2009-04,In Flames,39
+2009-04,Kamelot,0
+2009-04,Korpiklaani,0
+2009-04,Lacuna Coil,0
+2009-04,Metallica,1
+2009-04,Nightwish,0
+2009-04,Norther,0
+2009-04,Suidakra,0
+2009-04,ᛏᛣᚱ,1
+2009-05,After Forever,0
+2009-05,Amon Amarth,16
+2009-05,Apocalyptica,0
+2009-05,Arch Enemy,0
+2009-05,Blind Guardian,2
+2009-05,Children Of Bodom,0
+2009-05,Dark Tranquillity,27
+2009-05,Ensiferum,0
+2009-05,Epica,14
+2009-05,Finntroll,3
+2009-05,Iced Earth,17
+2009-05,In Flames,1
+2009-05,Kamelot,15
+2009-05,Korpiklaani,0
+2009-05,Lacuna Coil,0
+2009-05,Metallica,6
+2009-05,Nightwish,0
+2009-05,Norther,0
+2009-05,Suidakra,0
+2009-05,ᛏᛣᚱ,9
+2009-06,After Forever,0
+2009-06,Amon Amarth,12
+2009-06,Apocalyptica,0
+2009-06,Arch Enemy,0
+2009-06,Blind Guardian,0
+2009-06,Children Of Bodom,0
+2009-06,Dark Tranquillity,2
+2009-06,Ensiferum,0
+2009-06,Epica,0
+2009-06,Finntroll,6
+2009-06,Iced Earth,2
+2009-06,In Flames,27
+2009-06,Kamelot,0
+2009-06,Korpiklaani,0
+2009-06,Lacuna Coil,1
+2009-06,Metallica,7
+2009-06,Nightwish,0
+2009-06,Norther,0
+2009-06,Suidakra,0
+2009-06,ᛏᛣᚱ,8

@@ -1,0 +1,421 @@
+month,artist,plays
+2007-08,Backstreet Boys,2
+2007-08,Barry Manilow,0
+2007-08,Bon Jovi,1
+2007-08,Bryan Adams,0
+2007-08,Calogero,0
+2007-08,Coldplay,28
+2007-08,Enrique Iglesias,0
+2007-08,Hans Zimmer,0
+2007-08,Hilary Duff,3
+2007-08,James Blunt,7
+2007-08,Jennifer Lopez,0
+2007-08,Julio Iglesias,0
+2007-08,Keane,0
+2007-08,Kitaro,0
+2007-08,Marc Anthony,12
+2007-08,Mariah Carey,1
+2007-08,Muse,3
+2007-08,Patricia Kaas,5
+2007-08,Radiohead,20
+2007-08,Sigur Rós,3
+2007-09,Backstreet Boys,0
+2007-09,Barry Manilow,0
+2007-09,Bon Jovi,6
+2007-09,Bryan Adams,127
+2007-09,Calogero,0
+2007-09,Coldplay,0
+2007-09,Enrique Iglesias,24
+2007-09,Hans Zimmer,0
+2007-09,Hilary Duff,0
+2007-09,James Blunt,21
+2007-09,Jennifer Lopez,9
+2007-09,Julio Iglesias,10
+2007-09,Keane,44
+2007-09,Kitaro,57
+2007-09,Marc Anthony,16
+2007-09,Mariah Carey,100
+2007-09,Muse,0
+2007-09,Patricia Kaas,16
+2007-09,Radiohead,2
+2007-09,Sigur Rós,23
+2007-10,Backstreet Boys,0
+2007-10,Barry Manilow,0
+2007-10,Bon Jovi,0
+2007-10,Bryan Adams,0
+2007-10,Calogero,0
+2007-10,Coldplay,0
+2007-10,Enrique Iglesias,0
+2007-10,Hans Zimmer,0
+2007-10,Hilary Duff,0
+2007-10,James Blunt,0
+2007-10,Jennifer Lopez,6
+2007-10,Julio Iglesias,6
+2007-10,Keane,93
+2007-10,Kitaro,0
+2007-10,Marc Anthony,0
+2007-10,Mariah Carey,8
+2007-10,Muse,0
+2007-10,Patricia Kaas,9
+2007-10,Radiohead,3
+2007-10,Sigur Rós,0
+2007-11,Backstreet Boys,0
+2007-11,Barry Manilow,0
+2007-11,Bon Jovi,0
+2007-11,Bryan Adams,0
+2007-11,Calogero,0
+2007-11,Coldplay,0
+2007-11,Enrique Iglesias,0
+2007-11,Hans Zimmer,0
+2007-11,Hilary Duff,0
+2007-11,James Blunt,0
+2007-11,Jennifer Lopez,0
+2007-11,Julio Iglesias,0
+2007-11,Keane,0
+2007-11,Kitaro,0
+2007-11,Marc Anthony,0
+2007-11,Mariah Carey,0
+2007-11,Muse,0
+2007-11,Patricia Kaas,0
+2007-11,Radiohead,0
+2007-11,Sigur Rós,0
+2007-12,Backstreet Boys,0
+2007-12,Barry Manilow,0
+2007-12,Bon Jovi,0
+2007-12,Bryan Adams,0
+2007-12,Calogero,0
+2007-12,Coldplay,0
+2007-12,Enrique Iglesias,0
+2007-12,Hans Zimmer,0
+2007-12,Hilary Duff,0
+2007-12,James Blunt,0
+2007-12,Jennifer Lopez,0
+2007-12,Julio Iglesias,0
+2007-12,Keane,0
+2007-12,Kitaro,0
+2007-12,Marc Anthony,0
+2007-12,Mariah Carey,0
+2007-12,Muse,0
+2007-12,Patricia Kaas,0
+2007-12,Radiohead,0
+2007-12,Sigur Rós,0
+2008-01,Backstreet Boys,0
+2008-01,Barry Manilow,0
+2008-01,Bon Jovi,0
+2008-01,Bryan Adams,0
+2008-01,Calogero,0
+2008-01,Coldplay,0
+2008-01,Enrique Iglesias,0
+2008-01,Hans Zimmer,0
+2008-01,Hilary Duff,0
+2008-01,James Blunt,0
+2008-01,Jennifer Lopez,0
+2008-01,Julio Iglesias,0
+2008-01,Keane,0
+2008-01,Kitaro,0
+2008-01,Marc Anthony,0
+2008-01,Mariah Carey,0
+2008-01,Muse,0
+2008-01,Patricia Kaas,0
+2008-01,Radiohead,0
+2008-01,Sigur Rós,0
+2008-02,Backstreet Boys,0
+2008-02,Barry Manilow,0
+2008-02,Bon Jovi,0
+2008-02,Bryan Adams,0
+2008-02,Calogero,0
+2008-02,Coldplay,0
+2008-02,Enrique Iglesias,0
+2008-02,Hans Zimmer,0
+2008-02,Hilary Duff,0
+2008-02,James Blunt,0
+2008-02,Jennifer Lopez,0
+2008-02,Julio Iglesias,0
+2008-02,Keane,0
+2008-02,Kitaro,0
+2008-02,Marc Anthony,0
+2008-02,Mariah Carey,0
+2008-02,Muse,0
+2008-02,Patricia Kaas,0
+2008-02,Radiohead,0
+2008-02,Sigur Rós,0
+2008-03,Backstreet Boys,0
+2008-03,Barry Manilow,0
+2008-03,Bon Jovi,0
+2008-03,Bryan Adams,0
+2008-03,Calogero,0
+2008-03,Coldplay,0
+2008-03,Enrique Iglesias,0
+2008-03,Hans Zimmer,0
+2008-03,Hilary Duff,0
+2008-03,James Blunt,0
+2008-03,Jennifer Lopez,0
+2008-03,Julio Iglesias,0
+2008-03,Keane,0
+2008-03,Kitaro,0
+2008-03,Marc Anthony,0
+2008-03,Mariah Carey,0
+2008-03,Muse,0
+2008-03,Patricia Kaas,0
+2008-03,Radiohead,0
+2008-03,Sigur Rós,0
+2008-04,Backstreet Boys,0
+2008-04,Barry Manilow,0
+2008-04,Bon Jovi,0
+2008-04,Bryan Adams,0
+2008-04,Calogero,0
+2008-04,Coldplay,0
+2008-04,Enrique Iglesias,0
+2008-04,Hans Zimmer,0
+2008-04,Hilary Duff,0
+2008-04,James Blunt,0
+2008-04,Jennifer Lopez,0
+2008-04,Julio Iglesias,0
+2008-04,Keane,0
+2008-04,Kitaro,0
+2008-04,Marc Anthony,0
+2008-04,Mariah Carey,0
+2008-04,Muse,0
+2008-04,Patricia Kaas,0
+2008-04,Radiohead,0
+2008-04,Sigur Rós,0
+2008-05,Backstreet Boys,0
+2008-05,Barry Manilow,0
+2008-05,Bon Jovi,0
+2008-05,Bryan Adams,0
+2008-05,Calogero,0
+2008-05,Coldplay,0
+2008-05,Enrique Iglesias,0
+2008-05,Hans Zimmer,0
+2008-05,Hilary Duff,0
+2008-05,James Blunt,0
+2008-05,Jennifer Lopez,0
+2008-05,Julio Iglesias,0
+2008-05,Keane,0
+2008-05,Kitaro,0
+2008-05,Marc Anthony,0
+2008-05,Mariah Carey,0
+2008-05,Muse,0
+2008-05,Patricia Kaas,0
+2008-05,Radiohead,0
+2008-05,Sigur Rós,0
+2008-06,Backstreet Boys,0
+2008-06,Barry Manilow,0
+2008-06,Bon Jovi,0
+2008-06,Bryan Adams,0
+2008-06,Calogero,0
+2008-06,Coldplay,0
+2008-06,Enrique Iglesias,0
+2008-06,Hans Zimmer,0
+2008-06,Hilary Duff,0
+2008-06,James Blunt,0
+2008-06,Jennifer Lopez,0
+2008-06,Julio Iglesias,0
+2008-06,Keane,0
+2008-06,Kitaro,0
+2008-06,Marc Anthony,0
+2008-06,Mariah Carey,0
+2008-06,Muse,0
+2008-06,Patricia Kaas,0
+2008-06,Radiohead,0
+2008-06,Sigur Rós,0
+2008-07,Backstreet Boys,0
+2008-07,Barry Manilow,1
+2008-07,Bon Jovi,7
+2008-07,Bryan Adams,0
+2008-07,Calogero,1
+2008-07,Coldplay,15
+2008-07,Enrique Iglesias,7
+2008-07,Hans Zimmer,0
+2008-07,Hilary Duff,0
+2008-07,James Blunt,0
+2008-07,Jennifer Lopez,0
+2008-07,Julio Iglesias,0
+2008-07,Keane,143
+2008-07,Kitaro,7
+2008-07,Marc Anthony,1
+2008-07,Mariah Carey,4
+2008-07,Muse,5
+2008-07,Patricia Kaas,2
+2008-07,Radiohead,2
+2008-07,Sigur Rós,13
+2008-08,Backstreet Boys,3
+2008-08,Barry Manilow,6
+2008-08,Bon Jovi,2
+2008-08,Bryan Adams,28
+2008-08,Calogero,1
+2008-08,Coldplay,2
+2008-08,Enrique Iglesias,15
+2008-08,Hans Zimmer,25
+2008-08,Hilary Duff,4
+2008-08,James Blunt,5
+2008-08,Jennifer Lopez,3
+2008-08,Julio Iglesias,0
+2008-08,Keane,0
+2008-08,Kitaro,0
+2008-08,Marc Anthony,7
+2008-08,Mariah Carey,6
+2008-08,Muse,0
+2008-08,Patricia Kaas,2
+2008-08,Radiohead,24
+2008-08,Sigur Rós,86
+2008-09,Backstreet Boys,4
+2008-09,Barry Manilow,4
+2008-09,Bon Jovi,0
+2008-09,Bryan Adams,6
+2008-09,Calogero,1
+2008-09,Coldplay,3
+2008-09,Enrique Iglesias,5
+2008-09,Hans Zimmer,1
+2008-09,Hilary Duff,58
+2008-09,James Blunt,3
+2008-09,Jennifer Lopez,82
+2008-09,Julio Iglesias,2
+2008-09,Keane,5
+2008-09,Kitaro,15
+2008-09,Marc Anthony,0
+2008-09,Mariah Carey,0
+2008-09,Muse,12
+2008-09,Patricia Kaas,1
+2008-09,Radiohead,1
+2008-09,Sigur Rós,60
+2008-10,Backstreet Boys,1
+2008-10,Barry Manilow,2
+2008-10,Bon Jovi,7
+2008-10,Bryan Adams,1
+2008-10,Calogero,0
+2008-10,Coldplay,0
+2008-10,Enrique Iglesias,3
+2008-10,Hans Zimmer,11
+2008-10,Hilary Duff,2
+2008-10,James Blunt,0
+2008-10,Jennifer Lopez,2
+2008-10,Julio Iglesias,0
+2008-10,Keane,26
+2008-10,Kitaro,2
+2008-10,Marc Anthony,0
+2008-10,Mariah Carey,24
+2008-10,Muse,6
+2008-10,Patricia Kaas,0
+2008-10,Radiohead,0
+2008-10,Sigur Rós,5
+2008-11,Backstreet Boys,0
+2008-11,Barry Manilow,0
+2008-11,Bon Jovi,0
+2008-11,Bryan Adams,0
+2008-11,Calogero,0
+2008-11,Coldplay,0
+2008-11,Enrique Iglesias,0
+2008-11,Hans Zimmer,0
+2008-11,Hilary Duff,0
+2008-11,James Blunt,0
+2008-11,Jennifer Lopez,0
+2008-11,Julio Iglesias,0
+2008-11,Keane,0
+2008-11,Kitaro,0
+2008-11,Marc Anthony,0
+2008-11,Mariah Carey,0
+2008-11,Muse,0
+2008-11,Patricia Kaas,0
+2008-11,Radiohead,0
+2008-11,Sigur Rós,0
+2008-12,Backstreet Boys,0
+2008-12,Barry Manilow,0
+2008-12,Bon Jovi,0
+2008-12,Bryan Adams,0
+2008-12,Calogero,0
+2008-12,Coldplay,0
+2008-12,Enrique Iglesias,0
+2008-12,Hans Zimmer,0
+2008-12,Hilary Duff,0
+2008-12,James Blunt,0
+2008-12,Jennifer Lopez,0
+2008-12,Julio Iglesias,4
+2008-12,Keane,0
+2008-12,Kitaro,0
+2008-12,Marc Anthony,0
+2008-12,Mariah Carey,0
+2008-12,Muse,0
+2008-12,Patricia Kaas,0
+2008-12,Radiohead,0
+2008-12,Sigur Rós,0
+2009-01,Backstreet Boys,0
+2009-01,Barry Manilow,0
+2009-01,Bon Jovi,0
+2009-01,Bryan Adams,0
+2009-01,Calogero,0
+2009-01,Coldplay,0
+2009-01,Enrique Iglesias,0
+2009-01,Hans Zimmer,0
+2009-01,Hilary Duff,0
+2009-01,James Blunt,0
+2009-01,Jennifer Lopez,0
+2009-01,Julio Iglesias,0
+2009-01,Keane,0
+2009-01,Kitaro,0
+2009-01,Marc Anthony,0
+2009-01,Mariah Carey,0
+2009-01,Muse,0
+2009-01,Patricia Kaas,0
+2009-01,Radiohead,0
+2009-01,Sigur Rós,0
+2009-02,Backstreet Boys,0
+2009-02,Barry Manilow,0
+2009-02,Bon Jovi,0
+2009-02,Bryan Adams,0
+2009-02,Calogero,0
+2009-02,Coldplay,0
+2009-02,Enrique Iglesias,0
+2009-02,Hans Zimmer,0
+2009-02,Hilary Duff,0
+2009-02,James Blunt,0
+2009-02,Jennifer Lopez,0
+2009-02,Julio Iglesias,0
+2009-02,Keane,0
+2009-02,Kitaro,0
+2009-02,Marc Anthony,0
+2009-02,Mariah Carey,0
+2009-02,Muse,0
+2009-02,Patricia Kaas,0
+2009-02,Radiohead,0
+2009-02,Sigur Rós,0
+2009-03,Backstreet Boys,0
+2009-03,Barry Manilow,0
+2009-03,Bon Jovi,0
+2009-03,Bryan Adams,0
+2009-03,Calogero,0
+2009-03,Coldplay,0
+2009-03,Enrique Iglesias,0
+2009-03,Hans Zimmer,0
+2009-03,Hilary Duff,0
+2009-03,James Blunt,0
+2009-03,Jennifer Lopez,0
+2009-03,Julio Iglesias,0
+2009-03,Keane,0
+2009-03,Kitaro,0
+2009-03,Marc Anthony,0
+2009-03,Mariah Carey,0
+2009-03,Muse,0
+2009-03,Patricia Kaas,0
+2009-03,Radiohead,0
+2009-03,Sigur Rós,0
+2009-04,Backstreet Boys,0
+2009-04,Barry Manilow,9
+2009-04,Bon Jovi,0
+2009-04,Bryan Adams,1
+2009-04,Calogero,4
+2009-04,Coldplay,2
+2009-04,Enrique Iglesias,2
+2009-04,Hans Zimmer,12
+2009-04,Hilary Duff,0
+2009-04,James Blunt,0
+2009-04,Jennifer Lopez,5
+2009-04,Julio Iglesias,0
+2009-04,Keane,5
+2009-04,Kitaro,0
+2009-04,Marc Anthony,0
+2009-04,Mariah Carey,0
+2009-04,Muse,24
+2009-04,Patricia Kaas,0
+2009-04,Radiohead,12
+2009-04,Sigur Rós,22

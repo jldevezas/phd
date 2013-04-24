@@ -1,0 +1,961 @@
+month,artist,plays
+2005-05,Bloc Party,0
+2005-05,Cake,8
+2005-05,Daft Punk,8
+2005-05,Everclear,17
+2005-05,Four Tet,0
+2005-05,Incubus,0
+2005-05,M83,6
+2005-05,Metric,4
+2005-05,Modest Mouse,5
+2005-05,Pedro The Lion,21
+2005-05,Ratatat,0
+2005-05,Red Hot Chili Peppers,0
+2005-05,Rjd2,1
+2005-05,Rocky Votolato,3
+2005-05,Ted Leo And The Pharmacists,0
+2005-05,The Faint,22
+2005-05,The Killers,14
+2005-05,The Notwist,0
+2005-05,The Postal Service,7
+2005-05,Three 6 Mafia,6
+2005-06,Bloc Party,4
+2005-06,Cake,75
+2005-06,Daft Punk,46
+2005-06,Everclear,195
+2005-06,Four Tet,67
+2005-06,Incubus,0
+2005-06,M83,555
+2005-06,Metric,149
+2005-06,Modest Mouse,140
+2005-06,Pedro The Lion,506
+2005-06,Ratatat,102
+2005-06,Red Hot Chili Peppers,24
+2005-06,Rjd2,4
+2005-06,Rocky Votolato,21
+2005-06,Ted Leo And The Pharmacists,458
+2005-06,The Faint,83
+2005-06,The Killers,8
+2005-06,The Notwist,7
+2005-06,The Postal Service,82
+2005-06,Three 6 Mafia,6
+2005-07,Bloc Party,1
+2005-07,Cake,92
+2005-07,Daft Punk,61
+2005-07,Everclear,279
+2005-07,Four Tet,178
+2005-07,Incubus,0
+2005-07,M83,648
+2005-07,Metric,28
+2005-07,Modest Mouse,24
+2005-07,Pedro The Lion,325
+2005-07,Ratatat,229
+2005-07,Red Hot Chili Peppers,0
+2005-07,Rjd2,236
+2005-07,Rocky Votolato,114
+2005-07,Ted Leo And The Pharmacists,235
+2005-07,The Faint,53
+2005-07,The Killers,214
+2005-07,The Notwist,4
+2005-07,The Postal Service,57
+2005-07,Three 6 Mafia,0
+2005-08,Bloc Party,151
+2005-08,Cake,755
+2005-08,Daft Punk,48
+2005-08,Everclear,20
+2005-08,Four Tet,98
+2005-08,Incubus,303
+2005-08,M83,214
+2005-08,Metric,5
+2005-08,Modest Mouse,166
+2005-08,Pedro The Lion,153
+2005-08,Ratatat,53
+2005-08,Red Hot Chili Peppers,197
+2005-08,Rjd2,27
+2005-08,Rocky Votolato,38
+2005-08,Ted Leo And The Pharmacists,19
+2005-08,The Faint,281
+2005-08,The Killers,0
+2005-08,The Notwist,0
+2005-08,The Postal Service,5
+2005-08,Three 6 Mafia,0
+2005-09,Bloc Party,14
+2005-09,Cake,7
+2005-09,Daft Punk,7
+2005-09,Everclear,711
+2005-09,Four Tet,74
+2005-09,Incubus,49
+2005-09,M83,178
+2005-09,Metric,0
+2005-09,Modest Mouse,39
+2005-09,Pedro The Lion,27
+2005-09,Ratatat,128
+2005-09,Red Hot Chili Peppers,0
+2005-09,Rjd2,60
+2005-09,Rocky Votolato,214
+2005-09,Ted Leo And The Pharmacists,159
+2005-09,The Faint,33
+2005-09,The Killers,366
+2005-09,The Notwist,0
+2005-09,The Postal Service,88
+2005-09,Three 6 Mafia,9
+2005-10,Bloc Party,32
+2005-10,Cake,157
+2005-10,Daft Punk,12
+2005-10,Everclear,626
+2005-10,Four Tet,957
+2005-10,Incubus,0
+2005-10,M83,109
+2005-10,Metric,496
+2005-10,Modest Mouse,3
+2005-10,Pedro The Lion,1100
+2005-10,Ratatat,389
+2005-10,Red Hot Chili Peppers,8
+2005-10,Rjd2,25
+2005-10,Rocky Votolato,19
+2005-10,Ted Leo And The Pharmacists,50
+2005-10,The Faint,72
+2005-10,The Killers,0
+2005-10,The Notwist,5
+2005-10,The Postal Service,94
+2005-10,Three 6 Mafia,46
+2005-11,Bloc Party,0
+2005-11,Cake,54
+2005-11,Daft Punk,208
+2005-11,Everclear,244
+2005-11,Four Tet,42
+2005-11,Incubus,31
+2005-11,M83,70
+2005-11,Metric,75
+2005-11,Modest Mouse,0
+2005-11,Pedro The Lion,72
+2005-11,Ratatat,644
+2005-11,Red Hot Chili Peppers,0
+2005-11,Rjd2,288
+2005-11,Rocky Votolato,1
+2005-11,Ted Leo And The Pharmacists,250
+2005-11,The Faint,28
+2005-11,The Killers,514
+2005-11,The Notwist,323
+2005-11,The Postal Service,0
+2005-11,Three 6 Mafia,352
+2005-12,Bloc Party,123
+2005-12,Cake,10
+2005-12,Daft Punk,152
+2005-12,Everclear,870
+2005-12,Four Tet,147
+2005-12,Incubus,138
+2005-12,M83,74
+2005-12,Metric,6
+2005-12,Modest Mouse,15
+2005-12,Pedro The Lion,11
+2005-12,Ratatat,418
+2005-12,Red Hot Chili Peppers,82
+2005-12,Rjd2,650
+2005-12,Rocky Votolato,10
+2005-12,Ted Leo And The Pharmacists,661
+2005-12,The Faint,53
+2005-12,The Killers,223
+2005-12,The Notwist,13
+2005-12,The Postal Service,10
+2005-12,Three 6 Mafia,743
+2006-01,Bloc Party,31
+2006-01,Cake,1064
+2006-01,Daft Punk,3
+2006-01,Everclear,214
+2006-01,Four Tet,77
+2006-01,Incubus,617
+2006-01,M83,42
+2006-01,Metric,0
+2006-01,Modest Mouse,12
+2006-01,Pedro The Lion,368
+2006-01,Ratatat,297
+2006-01,Red Hot Chili Peppers,286
+2006-01,Rjd2,161
+2006-01,Rocky Votolato,32
+2006-01,Ted Leo And The Pharmacists,207
+2006-01,The Faint,189
+2006-01,The Killers,472
+2006-01,The Notwist,375
+2006-01,The Postal Service,0
+2006-01,Three 6 Mafia,239
+2006-02,Bloc Party,175
+2006-02,Cake,225
+2006-02,Daft Punk,804
+2006-02,Everclear,309
+2006-02,Four Tet,192
+2006-02,Incubus,230
+2006-02,M83,75
+2006-02,Metric,287
+2006-02,Modest Mouse,30
+2006-02,Pedro The Lion,102
+2006-02,Ratatat,172
+2006-02,Red Hot Chili Peppers,22
+2006-02,Rjd2,47
+2006-02,Rocky Votolato,15
+2006-02,Ted Leo And The Pharmacists,95
+2006-02,The Faint,179
+2006-02,The Killers,102
+2006-02,The Notwist,112
+2006-02,The Postal Service,22
+2006-02,Three 6 Mafia,158
+2006-03,Bloc Party,612
+2006-03,Cake,189
+2006-03,Daft Punk,304
+2006-03,Everclear,166
+2006-03,Four Tet,344
+2006-03,Incubus,288
+2006-03,M83,7
+2006-03,Metric,494
+2006-03,Modest Mouse,211
+2006-03,Pedro The Lion,165
+2006-03,Ratatat,163
+2006-03,Red Hot Chili Peppers,5
+2006-03,Rjd2,122
+2006-03,Rocky Votolato,9
+2006-03,Ted Leo And The Pharmacists,139
+2006-03,The Faint,60
+2006-03,The Killers,267
+2006-03,The Notwist,108
+2006-03,The Postal Service,809
+2006-03,Three 6 Mafia,66
+2006-04,Bloc Party,50
+2006-04,Cake,794
+2006-04,Daft Punk,98
+2006-04,Everclear,338
+2006-04,Four Tet,890
+2006-04,Incubus,201
+2006-04,M83,0
+2006-04,Metric,566
+2006-04,Modest Mouse,338
+2006-04,Pedro The Lion,142
+2006-04,Ratatat,320
+2006-04,Red Hot Chili Peppers,0
+2006-04,Rjd2,49
+2006-04,Rocky Votolato,137
+2006-04,Ted Leo And The Pharmacists,94
+2006-04,The Faint,0
+2006-04,The Killers,233
+2006-04,The Notwist,602
+2006-04,The Postal Service,0
+2006-04,Three 6 Mafia,843
+2006-05,Bloc Party,22
+2006-05,Cake,180
+2006-05,Daft Punk,44
+2006-05,Everclear,54
+2006-05,Four Tet,187
+2006-05,Incubus,53
+2006-05,M83,0
+2006-05,Metric,1143
+2006-05,Modest Mouse,83
+2006-05,Pedro The Lion,49
+2006-05,Ratatat,22
+2006-05,Red Hot Chili Peppers,0
+2006-05,Rjd2,35
+2006-05,Rocky Votolato,16
+2006-05,Ted Leo And The Pharmacists,14
+2006-05,The Faint,0
+2006-05,The Killers,87
+2006-05,The Notwist,100
+2006-05,The Postal Service,0
+2006-05,Three 6 Mafia,116
+2006-06,Bloc Party,21
+2006-06,Cake,140
+2006-06,Daft Punk,829
+2006-06,Everclear,67
+2006-06,Four Tet,104
+2006-06,Incubus,4
+2006-06,M83,0
+2006-06,Metric,234
+2006-06,Modest Mouse,102
+2006-06,Pedro The Lion,43
+2006-06,Ratatat,1
+2006-06,Red Hot Chili Peppers,0
+2006-06,Rjd2,1
+2006-06,Rocky Votolato,26
+2006-06,Ted Leo And The Pharmacists,18
+2006-06,The Faint,21
+2006-06,The Killers,77
+2006-06,The Notwist,89
+2006-06,The Postal Service,37
+2006-06,Three 6 Mafia,315
+2006-07,Bloc Party,40
+2006-07,Cake,58
+2006-07,Daft Punk,397
+2006-07,Everclear,57
+2006-07,Four Tet,257
+2006-07,Incubus,31
+2006-07,M83,39
+2006-07,Metric,164
+2006-07,Modest Mouse,28
+2006-07,Pedro The Lion,43
+2006-07,Ratatat,67
+2006-07,Red Hot Chili Peppers,0
+2006-07,Rjd2,10
+2006-07,Rocky Votolato,32
+2006-07,Ted Leo And The Pharmacists,0
+2006-07,The Faint,5
+2006-07,The Killers,71
+2006-07,The Notwist,83
+2006-07,The Postal Service,12
+2006-07,Three 6 Mafia,96
+2006-08,Bloc Party,37
+2006-08,Cake,0
+2006-08,Daft Punk,194
+2006-08,Everclear,593
+2006-08,Four Tet,85
+2006-08,Incubus,32
+2006-08,M83,34
+2006-08,Metric,30
+2006-08,Modest Mouse,5
+2006-08,Pedro The Lion,1
+2006-08,Ratatat,8
+2006-08,Red Hot Chili Peppers,0
+2006-08,Rjd2,0
+2006-08,Rocky Votolato,0
+2006-08,Ted Leo And The Pharmacists,725
+2006-08,The Faint,28
+2006-08,The Killers,29
+2006-08,The Notwist,29
+2006-08,The Postal Service,0
+2006-08,Three 6 Mafia,3
+2006-09,Bloc Party,29
+2006-09,Cake,16
+2006-09,Daft Punk,35
+2006-09,Everclear,193
+2006-09,Four Tet,75
+2006-09,Incubus,100
+2006-09,M83,39
+2006-09,Metric,78
+2006-09,Modest Mouse,48
+2006-09,Pedro The Lion,15
+2006-09,Ratatat,56
+2006-09,Red Hot Chili Peppers,22
+2006-09,Rjd2,26
+2006-09,Rocky Votolato,560
+2006-09,Ted Leo And The Pharmacists,3
+2006-09,The Faint,9
+2006-09,The Killers,44
+2006-09,The Notwist,2
+2006-09,The Postal Service,47
+2006-09,Three 6 Mafia,46
+2006-10,Bloc Party,294
+2006-10,Cake,2
+2006-10,Daft Punk,1
+2006-10,Everclear,90
+2006-10,Four Tet,3
+2006-10,Incubus,251
+2006-10,M83,24
+2006-10,Metric,54
+2006-10,Modest Mouse,16
+2006-10,Pedro The Lion,363
+2006-10,Ratatat,17
+2006-10,Red Hot Chili Peppers,529
+2006-10,Rjd2,27
+2006-10,Rocky Votolato,1935
+2006-10,Ted Leo And The Pharmacists,6
+2006-10,The Faint,35
+2006-10,The Killers,105
+2006-10,The Notwist,68
+2006-10,The Postal Service,27
+2006-10,Three 6 Mafia,45
+2006-11,Bloc Party,842
+2006-11,Cake,0
+2006-11,Daft Punk,230
+2006-11,Everclear,250
+2006-11,Four Tet,226
+2006-11,Incubus,49
+2006-11,M83,3
+2006-11,Metric,156
+2006-11,Modest Mouse,0
+2006-11,Pedro The Lion,442
+2006-11,Ratatat,13
+2006-11,Red Hot Chili Peppers,55
+2006-11,Rjd2,2
+2006-11,Rocky Votolato,1095
+2006-11,Ted Leo And The Pharmacists,0
+2006-11,The Faint,0
+2006-11,The Killers,243
+2006-11,The Notwist,170
+2006-11,The Postal Service,107
+2006-11,Three 6 Mafia,8
+2006-12,Bloc Party,0
+2006-12,Cake,1
+2006-12,Daft Punk,12
+2006-12,Everclear,33
+2006-12,Four Tet,9
+2006-12,Incubus,26
+2006-12,M83,2
+2006-12,Metric,0
+2006-12,Modest Mouse,1
+2006-12,Pedro The Lion,1
+2006-12,Ratatat,2
+2006-12,Red Hot Chili Peppers,1
+2006-12,Rjd2,2
+2006-12,Rocky Votolato,75
+2006-12,Ted Leo And The Pharmacists,1
+2006-12,The Faint,8
+2006-12,The Killers,0
+2006-12,The Notwist,8
+2006-12,The Postal Service,2
+2006-12,Three 6 Mafia,1
+2007-01,Bloc Party,4
+2007-01,Cake,1
+2007-01,Daft Punk,0
+2007-01,Everclear,39
+2007-01,Four Tet,4
+2007-01,Incubus,24
+2007-01,M83,3
+2007-01,Metric,28
+2007-01,Modest Mouse,3
+2007-01,Pedro The Lion,13
+2007-01,Ratatat,49
+2007-01,Red Hot Chili Peppers,11
+2007-01,Rjd2,9
+2007-01,Rocky Votolato,18
+2007-01,Ted Leo And The Pharmacists,22
+2007-01,The Faint,16
+2007-01,The Killers,17
+2007-01,The Notwist,4
+2007-01,The Postal Service,6
+2007-01,Three 6 Mafia,21
+2007-02,Bloc Party,282
+2007-02,Cake,6
+2007-02,Daft Punk,19
+2007-02,Everclear,3
+2007-02,Four Tet,43
+2007-02,Incubus,42
+2007-02,M83,2
+2007-02,Metric,114
+2007-02,Modest Mouse,40
+2007-02,Pedro The Lion,19
+2007-02,Ratatat,56
+2007-02,Red Hot Chili Peppers,9
+2007-02,Rjd2,20
+2007-02,Rocky Votolato,32
+2007-02,Ted Leo And The Pharmacists,0
+2007-02,The Faint,43
+2007-02,The Killers,17
+2007-02,The Notwist,38
+2007-02,The Postal Service,2
+2007-02,Three 6 Mafia,1
+2007-03,Bloc Party,0
+2007-03,Cake,10
+2007-03,Daft Punk,2
+2007-03,Everclear,4
+2007-03,Four Tet,2
+2007-03,Incubus,15
+2007-03,M83,2
+2007-03,Metric,14
+2007-03,Modest Mouse,3
+2007-03,Pedro The Lion,24
+2007-03,Ratatat,12
+2007-03,Red Hot Chili Peppers,31
+2007-03,Rjd2,8
+2007-03,Rocky Votolato,124
+2007-03,Ted Leo And The Pharmacists,22
+2007-03,The Faint,0
+2007-03,The Killers,55
+2007-03,The Notwist,3
+2007-03,The Postal Service,7
+2007-03,Three 6 Mafia,23
+2007-04,Bloc Party,3
+2007-04,Cake,0
+2007-04,Daft Punk,6
+2007-04,Everclear,131
+2007-04,Four Tet,3
+2007-04,Incubus,3
+2007-04,M83,3
+2007-04,Metric,0
+2007-04,Modest Mouse,2
+2007-04,Pedro The Lion,3
+2007-04,Ratatat,22
+2007-04,Red Hot Chili Peppers,15
+2007-04,Rjd2,0
+2007-04,Rocky Votolato,4
+2007-04,Ted Leo And The Pharmacists,0
+2007-04,The Faint,0
+2007-04,The Killers,203
+2007-04,The Notwist,4
+2007-04,The Postal Service,0
+2007-04,Three 6 Mafia,0
+2007-05,Bloc Party,3
+2007-05,Cake,11
+2007-05,Daft Punk,13
+2007-05,Everclear,800
+2007-05,Four Tet,8
+2007-05,Incubus,26
+2007-05,M83,3
+2007-05,Metric,18
+2007-05,Modest Mouse,3
+2007-05,Pedro The Lion,11
+2007-05,Ratatat,36
+2007-05,Red Hot Chili Peppers,9
+2007-05,Rjd2,10
+2007-05,Rocky Votolato,749
+2007-05,Ted Leo And The Pharmacists,1
+2007-05,The Faint,236
+2007-05,The Killers,714
+2007-05,The Notwist,4
+2007-05,The Postal Service,5
+2007-05,Three 6 Mafia,89
+2007-06,Bloc Party,6
+2007-06,Cake,11
+2007-06,Daft Punk,135
+2007-06,Everclear,18
+2007-06,Four Tet,0
+2007-06,Incubus,0
+2007-06,M83,145
+2007-06,Metric,16
+2007-06,Modest Mouse,0
+2007-06,Pedro The Lion,0
+2007-06,Ratatat,6
+2007-06,Red Hot Chili Peppers,0
+2007-06,Rjd2,8
+2007-06,Rocky Votolato,42
+2007-06,Ted Leo And The Pharmacists,0
+2007-06,The Faint,14
+2007-06,The Killers,22
+2007-06,The Notwist,0
+2007-06,The Postal Service,0
+2007-06,Three 6 Mafia,21
+2007-07,Bloc Party,2
+2007-07,Cake,0
+2007-07,Daft Punk,21
+2007-07,Everclear,7
+2007-07,Four Tet,1
+2007-07,Incubus,0
+2007-07,M83,23
+2007-07,Metric,4
+2007-07,Modest Mouse,1
+2007-07,Pedro The Lion,0
+2007-07,Ratatat,3
+2007-07,Red Hot Chili Peppers,2
+2007-07,Rjd2,0
+2007-07,Rocky Votolato,7
+2007-07,Ted Leo And The Pharmacists,0
+2007-07,The Faint,6
+2007-07,The Killers,4
+2007-07,The Notwist,0
+2007-07,The Postal Service,1
+2007-07,Three 6 Mafia,5
+2007-08,Bloc Party,0
+2007-08,Cake,0
+2007-08,Daft Punk,0
+2007-08,Everclear,0
+2007-08,Four Tet,0
+2007-08,Incubus,0
+2007-08,M83,0
+2007-08,Metric,0
+2007-08,Modest Mouse,0
+2007-08,Pedro The Lion,0
+2007-08,Ratatat,0
+2007-08,Red Hot Chili Peppers,0
+2007-08,Rjd2,0
+2007-08,Rocky Votolato,0
+2007-08,Ted Leo And The Pharmacists,0
+2007-08,The Faint,0
+2007-08,The Killers,22
+2007-08,The Notwist,0
+2007-08,The Postal Service,0
+2007-08,Three 6 Mafia,0
+2007-09,Bloc Party,15
+2007-09,Cake,13
+2007-09,Daft Punk,20
+2007-09,Everclear,39
+2007-09,Four Tet,9
+2007-09,Incubus,35
+2007-09,M83,0
+2007-09,Metric,8
+2007-09,Modest Mouse,0
+2007-09,Pedro The Lion,4
+2007-09,Ratatat,6
+2007-09,Red Hot Chili Peppers,5
+2007-09,Rjd2,1
+2007-09,Rocky Votolato,5
+2007-09,Ted Leo And The Pharmacists,8
+2007-09,The Faint,8
+2007-09,The Killers,13
+2007-09,The Notwist,0
+2007-09,The Postal Service,3
+2007-09,Three 6 Mafia,5
+2007-10,Bloc Party,4
+2007-10,Cake,4
+2007-10,Daft Punk,9
+2007-10,Everclear,9
+2007-10,Four Tet,3
+2007-10,Incubus,15
+2007-10,M83,4
+2007-10,Metric,15
+2007-10,Modest Mouse,3
+2007-10,Pedro The Lion,6
+2007-10,Ratatat,5
+2007-10,Red Hot Chili Peppers,6
+2007-10,Rjd2,6
+2007-10,Rocky Votolato,12
+2007-10,Ted Leo And The Pharmacists,6
+2007-10,The Faint,3
+2007-10,The Killers,7
+2007-10,The Notwist,3
+2007-10,The Postal Service,1
+2007-10,Three 6 Mafia,12
+2007-11,Bloc Party,0
+2007-11,Cake,0
+2007-11,Daft Punk,0
+2007-11,Everclear,0
+2007-11,Four Tet,2
+2007-11,Incubus,1
+2007-11,M83,0
+2007-11,Metric,1
+2007-11,Modest Mouse,0
+2007-11,Pedro The Lion,1
+2007-11,Ratatat,0
+2007-11,Red Hot Chili Peppers,1
+2007-11,Rjd2,0
+2007-11,Rocky Votolato,0
+2007-11,Ted Leo And The Pharmacists,0
+2007-11,The Faint,0
+2007-11,The Killers,0
+2007-11,The Notwist,1
+2007-11,The Postal Service,0
+2007-11,Three 6 Mafia,0
+2007-12,Bloc Party,9
+2007-12,Cake,1
+2007-12,Daft Punk,5
+2007-12,Everclear,5
+2007-12,Four Tet,2
+2007-12,Incubus,11
+2007-12,M83,4
+2007-12,Metric,3
+2007-12,Modest Mouse,0
+2007-12,Pedro The Lion,3
+2007-12,Ratatat,3
+2007-12,Red Hot Chili Peppers,1
+2007-12,Rjd2,1
+2007-12,Rocky Votolato,4
+2007-12,Ted Leo And The Pharmacists,2
+2007-12,The Faint,5
+2007-12,The Killers,4
+2007-12,The Notwist,1
+2007-12,The Postal Service,2
+2007-12,Three 6 Mafia,4
+2008-01,Bloc Party,0
+2008-01,Cake,0
+2008-01,Daft Punk,8
+2008-01,Everclear,1
+2008-01,Four Tet,3
+2008-01,Incubus,6
+2008-01,M83,4
+2008-01,Metric,2
+2008-01,Modest Mouse,1
+2008-01,Pedro The Lion,0
+2008-01,Ratatat,4
+2008-01,Red Hot Chili Peppers,1
+2008-01,Rjd2,0
+2008-01,Rocky Votolato,1
+2008-01,Ted Leo And The Pharmacists,11
+2008-01,The Faint,1
+2008-01,The Killers,4
+2008-01,The Notwist,1
+2008-01,The Postal Service,1
+2008-01,Three 6 Mafia,1
+2008-02,Bloc Party,1
+2008-02,Cake,1
+2008-02,Daft Punk,0
+2008-02,Everclear,0
+2008-02,Four Tet,3
+2008-02,Incubus,0
+2008-02,M83,0
+2008-02,Metric,1
+2008-02,Modest Mouse,1
+2008-02,Pedro The Lion,1
+2008-02,Ratatat,1
+2008-02,Red Hot Chili Peppers,1
+2008-02,Rjd2,1
+2008-02,Rocky Votolato,2
+2008-02,Ted Leo And The Pharmacists,2
+2008-02,The Faint,0
+2008-02,The Killers,1
+2008-02,The Notwist,1
+2008-02,The Postal Service,2
+2008-02,Three 6 Mafia,0
+2008-03,Bloc Party,9
+2008-03,Cake,65
+2008-03,Daft Punk,43
+2008-03,Everclear,0
+2008-03,Four Tet,1
+2008-03,Incubus,2
+2008-03,M83,1
+2008-03,Metric,4
+2008-03,Modest Mouse,6
+2008-03,Pedro The Lion,1
+2008-03,Ratatat,0
+2008-03,Red Hot Chili Peppers,0
+2008-03,Rjd2,1
+2008-03,Rocky Votolato,1
+2008-03,Ted Leo And The Pharmacists,4
+2008-03,The Faint,1
+2008-03,The Killers,1
+2008-03,The Notwist,2
+2008-03,The Postal Service,0
+2008-03,Three 6 Mafia,0
+2008-04,Bloc Party,81
+2008-04,Cake,6
+2008-04,Daft Punk,172
+2008-04,Everclear,1
+2008-04,Four Tet,24
+2008-04,Incubus,79
+2008-04,M83,82
+2008-04,Metric,64
+2008-04,Modest Mouse,122
+2008-04,Pedro The Lion,25
+2008-04,Ratatat,171
+2008-04,Red Hot Chili Peppers,17
+2008-04,Rjd2,5
+2008-04,Rocky Votolato,6
+2008-04,Ted Leo And The Pharmacists,99
+2008-04,The Faint,175
+2008-04,The Killers,10
+2008-04,The Notwist,27
+2008-04,The Postal Service,0
+2008-04,Three 6 Mafia,0
+2008-05,Bloc Party,6
+2008-05,Cake,2
+2008-05,Daft Punk,76
+2008-05,Everclear,0
+2008-05,Four Tet,90
+2008-05,Incubus,316
+2008-05,M83,74
+2008-05,Metric,176
+2008-05,Modest Mouse,155
+2008-05,Pedro The Lion,89
+2008-05,Ratatat,76
+2008-05,Red Hot Chili Peppers,88
+2008-05,Rjd2,0
+2008-05,Rocky Votolato,0
+2008-05,Ted Leo And The Pharmacists,0
+2008-05,The Faint,73
+2008-05,The Killers,0
+2008-05,The Notwist,89
+2008-05,The Postal Service,5
+2008-05,Three 6 Mafia,0
+2008-06,Bloc Party,81
+2008-06,Cake,27
+2008-06,Daft Punk,25
+2008-06,Everclear,175
+2008-06,Four Tet,35
+2008-06,Incubus,33
+2008-06,M83,432
+2008-06,Metric,29
+2008-06,Modest Mouse,1
+2008-06,Pedro The Lion,29
+2008-06,Ratatat,38
+2008-06,Red Hot Chili Peppers,7
+2008-06,Rjd2,20
+2008-06,Rocky Votolato,71
+2008-06,Ted Leo And The Pharmacists,12
+2008-06,The Faint,7
+2008-06,The Killers,11
+2008-06,The Notwist,32
+2008-06,The Postal Service,51
+2008-06,Three 6 Mafia,1
+2008-07,Bloc Party,137
+2008-07,Cake,27
+2008-07,Daft Punk,5
+2008-07,Everclear,126
+2008-07,Four Tet,25
+2008-07,Incubus,30
+2008-07,M83,131
+2008-07,Metric,42
+2008-07,Modest Mouse,3
+2008-07,Pedro The Lion,28
+2008-07,Ratatat,32
+2008-07,Red Hot Chili Peppers,12
+2008-07,Rjd2,11
+2008-07,Rocky Votolato,14
+2008-07,Ted Leo And The Pharmacists,27
+2008-07,The Faint,2
+2008-07,The Killers,16
+2008-07,The Notwist,32
+2008-07,The Postal Service,45
+2008-07,Three 6 Mafia,1
+2008-08,Bloc Party,40
+2008-08,Cake,0
+2008-08,Daft Punk,0
+2008-08,Everclear,108
+2008-08,Four Tet,0
+2008-08,Incubus,0
+2008-08,M83,215
+2008-08,Metric,3
+2008-08,Modest Mouse,0
+2008-08,Pedro The Lion,0
+2008-08,Ratatat,0
+2008-08,Red Hot Chili Peppers,23
+2008-08,Rjd2,0
+2008-08,Rocky Votolato,46
+2008-08,Ted Leo And The Pharmacists,0
+2008-08,The Faint,0
+2008-08,The Killers,27
+2008-08,The Notwist,0
+2008-08,The Postal Service,0
+2008-08,Three 6 Mafia,0
+2008-09,Bloc Party,0
+2008-09,Cake,0
+2008-09,Daft Punk,0
+2008-09,Everclear,0
+2008-09,Four Tet,0
+2008-09,Incubus,0
+2008-09,M83,0
+2008-09,Metric,0
+2008-09,Modest Mouse,0
+2008-09,Pedro The Lion,0
+2008-09,Ratatat,0
+2008-09,Red Hot Chili Peppers,0
+2008-09,Rjd2,0
+2008-09,Rocky Votolato,0
+2008-09,Ted Leo And The Pharmacists,0
+2008-09,The Faint,0
+2008-09,The Killers,0
+2008-09,The Notwist,0
+2008-09,The Postal Service,0
+2008-09,Three 6 Mafia,0
+2008-10,Bloc Party,0
+2008-10,Cake,0
+2008-10,Daft Punk,0
+2008-10,Everclear,0
+2008-10,Four Tet,0
+2008-10,Incubus,0
+2008-10,M83,0
+2008-10,Metric,0
+2008-10,Modest Mouse,0
+2008-10,Pedro The Lion,0
+2008-10,Ratatat,0
+2008-10,Red Hot Chili Peppers,0
+2008-10,Rjd2,0
+2008-10,Rocky Votolato,0
+2008-10,Ted Leo And The Pharmacists,0
+2008-10,The Faint,0
+2008-10,The Killers,0
+2008-10,The Notwist,0
+2008-10,The Postal Service,0
+2008-10,Three 6 Mafia,0
+2008-11,Bloc Party,2
+2008-11,Cake,2
+2008-11,Daft Punk,17
+2008-11,Everclear,2
+2008-11,Four Tet,1
+2008-11,Incubus,1
+2008-11,M83,4
+2008-11,Metric,2
+2008-11,Modest Mouse,8
+2008-11,Pedro The Lion,0
+2008-11,Ratatat,0
+2008-11,Red Hot Chili Peppers,2
+2008-11,Rjd2,0
+2008-11,Rocky Votolato,0
+2008-11,Ted Leo And The Pharmacists,2
+2008-11,The Faint,0
+2008-11,The Killers,0
+2008-11,The Notwist,0
+2008-11,The Postal Service,0
+2008-11,Three 6 Mafia,0
+2008-12,Bloc Party,2
+2008-12,Cake,1
+2008-12,Daft Punk,51
+2008-12,Everclear,36
+2008-12,Four Tet,0
+2008-12,Incubus,4
+2008-12,M83,55
+2008-12,Metric,0
+2008-12,Modest Mouse,46
+2008-12,Pedro The Lion,2
+2008-12,Ratatat,2
+2008-12,Red Hot Chili Peppers,18
+2008-12,Rjd2,1
+2008-12,Rocky Votolato,33
+2008-12,Ted Leo And The Pharmacists,1
+2008-12,The Faint,0
+2008-12,The Killers,0
+2008-12,The Notwist,1
+2008-12,The Postal Service,0
+2008-12,Three 6 Mafia,2
+2009-01,Bloc Party,0
+2009-01,Cake,0
+2009-01,Daft Punk,23
+2009-01,Everclear,33
+2009-01,Four Tet,0
+2009-01,Incubus,0
+2009-01,M83,21
+2009-01,Metric,1
+2009-01,Modest Mouse,11
+2009-01,Pedro The Lion,0
+2009-01,Ratatat,1
+2009-01,Red Hot Chili Peppers,16
+2009-01,Rjd2,0
+2009-01,Rocky Votolato,1
+2009-01,Ted Leo And The Pharmacists,1
+2009-01,The Faint,0
+2009-01,The Killers,0
+2009-01,The Notwist,0
+2009-01,The Postal Service,0
+2009-01,Three 6 Mafia,5
+2009-02,Bloc Party,3
+2009-02,Cake,1
+2009-02,Daft Punk,11
+2009-02,Everclear,19
+2009-02,Four Tet,0
+2009-02,Incubus,1
+2009-02,M83,5
+2009-02,Metric,1
+2009-02,Modest Mouse,5
+2009-02,Pedro The Lion,0
+2009-02,Ratatat,2
+2009-02,Red Hot Chili Peppers,6
+2009-02,Rjd2,4
+2009-02,Rocky Votolato,3
+2009-02,Ted Leo And The Pharmacists,1
+2009-02,The Faint,1
+2009-02,The Killers,0
+2009-02,The Notwist,1
+2009-02,The Postal Service,1
+2009-02,Three 6 Mafia,5
+2009-03,Bloc Party,15
+2009-03,Cake,14
+2009-03,Daft Punk,5
+2009-03,Everclear,25
+2009-03,Four Tet,3
+2009-03,Incubus,1
+2009-03,M83,11
+2009-03,Metric,29
+2009-03,Modest Mouse,14
+2009-03,Pedro The Lion,12
+2009-03,Ratatat,6
+2009-03,Red Hot Chili Peppers,25
+2009-03,Rjd2,7
+2009-03,Rocky Votolato,12
+2009-03,Ted Leo And The Pharmacists,30
+2009-03,The Faint,4
+2009-03,The Killers,3
+2009-03,The Notwist,5
+2009-03,The Postal Service,14
+2009-03,Three 6 Mafia,6
+2009-04,Bloc Party,2
+2009-04,Cake,2
+2009-04,Daft Punk,0
+2009-04,Everclear,3
+2009-04,Four Tet,1
+2009-04,Incubus,5
+2009-04,M83,0
+2009-04,Metric,1
+2009-04,Modest Mouse,1
+2009-04,Pedro The Lion,1
+2009-04,Ratatat,1
+2009-04,Red Hot Chili Peppers,5
+2009-04,Rjd2,1
+2009-04,Rocky Votolato,1
+2009-04,Ted Leo And The Pharmacists,2
+2009-04,The Faint,2
+2009-04,The Killers,1
+2009-04,The Notwist,1
+2009-04,The Postal Service,1
+2009-04,Three 6 Mafia,0

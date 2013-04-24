@@ -1,0 +1,721 @@
+month,artist,plays
+2006-06,Barenaked Ladies,1
+2006-06,Black Rebel Motorcycle Club,5
+2006-06,Blink-182,4
+2006-06,Deacon Blue,4
+2006-06,Death From Above 1979,3
+2006-06,Fleetwood Mac,5
+2006-06,Grandaddy,3
+2006-06,Idlewild,16
+2006-06,Interpol,2
+2006-06,Iron & Wine,0
+2006-06,Kings Of Leon,4
+2006-06,Muddy Waters,4
+2006-06,Nirvana,9
+2006-06,Paul Simon,3
+2006-06,R.E.M.,1
+2006-06,Robert Johnson,2
+2006-06,The Beach Boys,16
+2006-06,The Smashing Pumpkins,6
+2006-06,The Smiths,10
+2006-06,The Strokes,3
+2006-07,Barenaked Ladies,2
+2006-07,Black Rebel Motorcycle Club,6
+2006-07,Blink-182,5
+2006-07,Deacon Blue,2
+2006-07,Death From Above 1979,6
+2006-07,Fleetwood Mac,4
+2006-07,Grandaddy,4
+2006-07,Idlewild,14
+2006-07,Interpol,3
+2006-07,Iron & Wine,0
+2006-07,Kings Of Leon,3
+2006-07,Muddy Waters,3
+2006-07,Nirvana,13
+2006-07,Paul Simon,3
+2006-07,R.E.M.,3
+2006-07,Robert Johnson,1
+2006-07,The Beach Boys,12
+2006-07,The Smashing Pumpkins,12
+2006-07,The Smiths,11
+2006-07,The Strokes,23
+2006-08,Barenaked Ladies,6
+2006-08,Black Rebel Motorcycle Club,8
+2006-08,Blink-182,2
+2006-08,Deacon Blue,10
+2006-08,Death From Above 1979,6
+2006-08,Fleetwood Mac,7
+2006-08,Grandaddy,25
+2006-08,Idlewild,30
+2006-08,Interpol,6
+2006-08,Iron & Wine,0
+2006-08,Kings Of Leon,9
+2006-08,Muddy Waters,2
+2006-08,Nirvana,7
+2006-08,Paul Simon,3
+2006-08,R.E.M.,10
+2006-08,Robert Johnson,3
+2006-08,The Beach Boys,18
+2006-08,The Smashing Pumpkins,2
+2006-08,The Smiths,13
+2006-08,The Strokes,9
+2006-09,Barenaked Ladies,5
+2006-09,Black Rebel Motorcycle Club,12
+2006-09,Blink-182,9
+2006-09,Deacon Blue,8
+2006-09,Death From Above 1979,10
+2006-09,Fleetwood Mac,16
+2006-09,Grandaddy,6
+2006-09,Idlewild,56
+2006-09,Interpol,6
+2006-09,Iron & Wine,4
+2006-09,Kings Of Leon,21
+2006-09,Muddy Waters,8
+2006-09,Nirvana,20
+2006-09,Paul Simon,7
+2006-09,R.E.M.,7
+2006-09,Robert Johnson,3
+2006-09,The Beach Boys,35
+2006-09,The Smashing Pumpkins,26
+2006-09,The Smiths,23
+2006-09,The Strokes,27
+2006-10,Barenaked Ladies,12
+2006-10,Black Rebel Motorcycle Club,31
+2006-10,Blink-182,6
+2006-10,Deacon Blue,15
+2006-10,Death From Above 1979,9
+2006-10,Fleetwood Mac,18
+2006-10,Grandaddy,9
+2006-10,Idlewild,77
+2006-10,Interpol,8
+2006-10,Iron & Wine,65
+2006-10,Kings Of Leon,17
+2006-10,Muddy Waters,13
+2006-10,Nirvana,45
+2006-10,Paul Simon,10
+2006-10,R.E.M.,6
+2006-10,Robert Johnson,13
+2006-10,The Beach Boys,59
+2006-10,The Smashing Pumpkins,42
+2006-10,The Smiths,28
+2006-10,The Strokes,103
+2006-11,Barenaked Ladies,9
+2006-11,Black Rebel Motorcycle Club,27
+2006-11,Blink-182,0
+2006-11,Deacon Blue,3
+2006-11,Death From Above 1979,3
+2006-11,Fleetwood Mac,6
+2006-11,Grandaddy,9
+2006-11,Idlewild,23
+2006-11,Interpol,1
+2006-11,Iron & Wine,61
+2006-11,Kings Of Leon,14
+2006-11,Muddy Waters,6
+2006-11,Nirvana,12
+2006-11,Paul Simon,3
+2006-11,R.E.M.,8
+2006-11,Robert Johnson,17
+2006-11,The Beach Boys,30
+2006-11,The Smashing Pumpkins,70
+2006-11,The Smiths,49
+2006-11,The Strokes,33
+2006-12,Barenaked Ladies,7
+2006-12,Black Rebel Motorcycle Club,15
+2006-12,Blink-182,4
+2006-12,Deacon Blue,7
+2006-12,Death From Above 1979,9
+2006-12,Fleetwood Mac,10
+2006-12,Grandaddy,1
+2006-12,Idlewild,56
+2006-12,Interpol,2
+2006-12,Iron & Wine,25
+2006-12,Kings Of Leon,10
+2006-12,Muddy Waters,4
+2006-12,Nirvana,21
+2006-12,Paul Simon,2
+2006-12,R.E.M.,10
+2006-12,Robert Johnson,27
+2006-12,The Beach Boys,23
+2006-12,The Smashing Pumpkins,29
+2006-12,The Smiths,16
+2006-12,The Strokes,13
+2007-01,Barenaked Ladies,5
+2007-01,Black Rebel Motorcycle Club,10
+2007-01,Blink-182,3
+2007-01,Deacon Blue,2
+2007-01,Death From Above 1979,1
+2007-01,Fleetwood Mac,3
+2007-01,Grandaddy,4
+2007-01,Idlewild,23
+2007-01,Interpol,5
+2007-01,Iron & Wine,17
+2007-01,Kings Of Leon,10
+2007-01,Muddy Waters,2
+2007-01,Nirvana,17
+2007-01,Paul Simon,3
+2007-01,R.E.M.,3
+2007-01,Robert Johnson,13
+2007-01,The Beach Boys,18
+2007-01,The Smashing Pumpkins,12
+2007-01,The Smiths,9
+2007-01,The Strokes,10
+2007-02,Barenaked Ladies,6
+2007-02,Black Rebel Motorcycle Club,6
+2007-02,Blink-182,1
+2007-02,Deacon Blue,1
+2007-02,Death From Above 1979,2
+2007-02,Fleetwood Mac,4
+2007-02,Grandaddy,1
+2007-02,Idlewild,14
+2007-02,Interpol,1
+2007-02,Iron & Wine,12
+2007-02,Kings Of Leon,7
+2007-02,Muddy Waters,1
+2007-02,Nirvana,10
+2007-02,Paul Simon,3
+2007-02,R.E.M.,1
+2007-02,Robert Johnson,4
+2007-02,The Beach Boys,13
+2007-02,The Smashing Pumpkins,9
+2007-02,The Smiths,6
+2007-02,The Strokes,3
+2007-03,Barenaked Ladies,10
+2007-03,Black Rebel Motorcycle Club,27
+2007-03,Blink-182,4
+2007-03,Deacon Blue,5
+2007-03,Death From Above 1979,8
+2007-03,Fleetwood Mac,12
+2007-03,Grandaddy,3
+2007-03,Idlewild,33
+2007-03,Interpol,1
+2007-03,Iron & Wine,17
+2007-03,Kings Of Leon,38
+2007-03,Muddy Waters,3
+2007-03,Nirvana,16
+2007-03,Paul Simon,4
+2007-03,R.E.M.,4
+2007-03,Robert Johnson,12
+2007-03,The Beach Boys,21
+2007-03,The Smashing Pumpkins,23
+2007-03,The Smiths,26
+2007-03,The Strokes,15
+2007-04,Barenaked Ladies,9
+2007-04,Black Rebel Motorcycle Club,25
+2007-04,Blink-182,27
+2007-04,Deacon Blue,3
+2007-04,Death From Above 1979,5
+2007-04,Fleetwood Mac,6
+2007-04,Grandaddy,8
+2007-04,Idlewild,38
+2007-04,Interpol,4
+2007-04,Iron & Wine,36
+2007-04,Kings Of Leon,24
+2007-04,Muddy Waters,5
+2007-04,Nirvana,30
+2007-04,Paul Simon,4
+2007-04,R.E.M.,8
+2007-04,Robert Johnson,24
+2007-04,The Beach Boys,37
+2007-04,The Smashing Pumpkins,23
+2007-04,The Smiths,32
+2007-04,The Strokes,34
+2007-05,Barenaked Ladies,13
+2007-05,Black Rebel Motorcycle Club,19
+2007-05,Blink-182,9
+2007-05,Deacon Blue,4
+2007-05,Death From Above 1979,15
+2007-05,Fleetwood Mac,12
+2007-05,Grandaddy,6
+2007-05,Idlewild,60
+2007-05,Interpol,15
+2007-05,Iron & Wine,21
+2007-05,Kings Of Leon,22
+2007-05,Muddy Waters,14
+2007-05,Nirvana,40
+2007-05,Paul Simon,5
+2007-05,R.E.M.,11
+2007-05,Robert Johnson,29
+2007-05,The Beach Boys,44
+2007-05,The Smashing Pumpkins,70
+2007-05,The Smiths,49
+2007-05,The Strokes,23
+2007-06,Barenaked Ladies,16
+2007-06,Black Rebel Motorcycle Club,24
+2007-06,Blink-182,3
+2007-06,Deacon Blue,10
+2007-06,Death From Above 1979,4
+2007-06,Fleetwood Mac,13
+2007-06,Grandaddy,22
+2007-06,Idlewild,11
+2007-06,Interpol,13
+2007-06,Iron & Wine,238
+2007-06,Kings Of Leon,40
+2007-06,Muddy Waters,2
+2007-06,Nirvana,14
+2007-06,Paul Simon,1
+2007-06,R.E.M.,11
+2007-06,Robert Johnson,7
+2007-06,The Beach Boys,19
+2007-06,The Smashing Pumpkins,8
+2007-06,The Smiths,8
+2007-06,The Strokes,25
+2007-07,Barenaked Ladies,10
+2007-07,Black Rebel Motorcycle Club,21
+2007-07,Blink-182,2
+2007-07,Deacon Blue,0
+2007-07,Death From Above 1979,6
+2007-07,Fleetwood Mac,0
+2007-07,Grandaddy,6
+2007-07,Idlewild,11
+2007-07,Interpol,1
+2007-07,Iron & Wine,307
+2007-07,Kings Of Leon,74
+2007-07,Muddy Waters,8
+2007-07,Nirvana,4
+2007-07,Paul Simon,0
+2007-07,R.E.M.,0
+2007-07,Robert Johnson,2
+2007-07,The Beach Boys,4
+2007-07,The Smashing Pumpkins,2
+2007-07,The Smiths,2
+2007-07,The Strokes,1
+2007-08,Barenaked Ladies,2
+2007-08,Black Rebel Motorcycle Club,5
+2007-08,Blink-182,15
+2007-08,Deacon Blue,1
+2007-08,Death From Above 1979,1
+2007-08,Fleetwood Mac,1
+2007-08,Grandaddy,0
+2007-08,Idlewild,4
+2007-08,Interpol,31
+2007-08,Iron & Wine,147
+2007-08,Kings Of Leon,96
+2007-08,Muddy Waters,0
+2007-08,Nirvana,1
+2007-08,Paul Simon,0
+2007-08,R.E.M.,0
+2007-08,Robert Johnson,0
+2007-08,The Beach Boys,1
+2007-08,The Smashing Pumpkins,8
+2007-08,The Smiths,2
+2007-08,The Strokes,3
+2007-09,Barenaked Ladies,0
+2007-09,Black Rebel Motorcycle Club,0
+2007-09,Blink-182,12
+2007-09,Deacon Blue,0
+2007-09,Death From Above 1979,2
+2007-09,Fleetwood Mac,20
+2007-09,Grandaddy,1
+2007-09,Idlewild,9
+2007-09,Interpol,2
+2007-09,Iron & Wine,21
+2007-09,Kings Of Leon,17
+2007-09,Muddy Waters,1
+2007-09,Nirvana,3
+2007-09,Paul Simon,2
+2007-09,R.E.M.,0
+2007-09,Robert Johnson,1
+2007-09,The Beach Boys,3
+2007-09,The Smashing Pumpkins,1
+2007-09,The Smiths,0
+2007-09,The Strokes,7
+2007-10,Barenaked Ladies,4
+2007-10,Black Rebel Motorcycle Club,14
+2007-10,Blink-182,2
+2007-10,Deacon Blue,1
+2007-10,Death From Above 1979,2
+2007-10,Fleetwood Mac,0
+2007-10,Grandaddy,1
+2007-10,Idlewild,5
+2007-10,Interpol,23
+2007-10,Iron & Wine,107
+2007-10,Kings Of Leon,66
+2007-10,Muddy Waters,1
+2007-10,Nirvana,5
+2007-10,Paul Simon,2
+2007-10,R.E.M.,2
+2007-10,Robert Johnson,1
+2007-10,The Beach Boys,7
+2007-10,The Smashing Pumpkins,8
+2007-10,The Smiths,2
+2007-10,The Strokes,13
+2007-11,Barenaked Ladies,2
+2007-11,Black Rebel Motorcycle Club,1
+2007-11,Blink-182,1
+2007-11,Deacon Blue,11
+2007-11,Death From Above 1979,0
+2007-11,Fleetwood Mac,2
+2007-11,Grandaddy,2
+2007-11,Idlewild,4
+2007-11,Interpol,1
+2007-11,Iron & Wine,107
+2007-11,Kings Of Leon,9
+2007-11,Muddy Waters,0
+2007-11,Nirvana,2
+2007-11,Paul Simon,2
+2007-11,R.E.M.,0
+2007-11,Robert Johnson,2
+2007-11,The Beach Boys,0
+2007-11,The Smashing Pumpkins,32
+2007-11,The Smiths,0
+2007-11,The Strokes,7
+2007-12,Barenaked Ladies,5
+2007-12,Black Rebel Motorcycle Club,8
+2007-12,Blink-182,1
+2007-12,Deacon Blue,1
+2007-12,Death From Above 1979,1
+2007-12,Fleetwood Mac,4
+2007-12,Grandaddy,2
+2007-12,Idlewild,5
+2007-12,Interpol,14
+2007-12,Iron & Wine,61
+2007-12,Kings Of Leon,28
+2007-12,Muddy Waters,1
+2007-12,Nirvana,2
+2007-12,Paul Simon,5
+2007-12,R.E.M.,0
+2007-12,Robert Johnson,4
+2007-12,The Beach Boys,4
+2007-12,The Smashing Pumpkins,7
+2007-12,The Smiths,6
+2007-12,The Strokes,5
+2008-01,Barenaked Ladies,3
+2008-01,Black Rebel Motorcycle Club,7
+2008-01,Blink-182,1
+2008-01,Deacon Blue,2
+2008-01,Death From Above 1979,0
+2008-01,Fleetwood Mac,0
+2008-01,Grandaddy,0
+2008-01,Idlewild,6
+2008-01,Interpol,5
+2008-01,Iron & Wine,61
+2008-01,Kings Of Leon,27
+2008-01,Muddy Waters,1
+2008-01,Nirvana,8
+2008-01,Paul Simon,13
+2008-01,R.E.M.,2
+2008-01,Robert Johnson,0
+2008-01,The Beach Boys,2
+2008-01,The Smashing Pumpkins,3
+2008-01,The Smiths,1
+2008-01,The Strokes,6
+2008-02,Barenaked Ladies,4
+2008-02,Black Rebel Motorcycle Club,14
+2008-02,Blink-182,7
+2008-02,Deacon Blue,2
+2008-02,Death From Above 1979,7
+2008-02,Fleetwood Mac,8
+2008-02,Grandaddy,89
+2008-02,Idlewild,41
+2008-02,Interpol,17
+2008-02,Iron & Wine,153
+2008-02,Kings Of Leon,33
+2008-02,Muddy Waters,0
+2008-02,Nirvana,7
+2008-02,Paul Simon,36
+2008-02,R.E.M.,4
+2008-02,Robert Johnson,5
+2008-02,The Beach Boys,4
+2008-02,The Smashing Pumpkins,25
+2008-02,The Smiths,2
+2008-02,The Strokes,27
+2008-03,Barenaked Ladies,7
+2008-03,Black Rebel Motorcycle Club,11
+2008-03,Blink-182,17
+2008-03,Deacon Blue,12
+2008-03,Death From Above 1979,90
+2008-03,Fleetwood Mac,32
+2008-03,Grandaddy,44
+2008-03,Idlewild,51
+2008-03,Interpol,17
+2008-03,Iron & Wine,198
+2008-03,Kings Of Leon,46
+2008-03,Muddy Waters,2
+2008-03,Nirvana,12
+2008-03,Paul Simon,25
+2008-03,R.E.M.,28
+2008-03,Robert Johnson,3
+2008-03,The Beach Boys,17
+2008-03,The Smashing Pumpkins,118
+2008-03,The Smiths,7
+2008-03,The Strokes,47
+2008-04,Barenaked Ladies,17
+2008-04,Black Rebel Motorcycle Club,8
+2008-04,Blink-182,32
+2008-04,Deacon Blue,5
+2008-04,Death From Above 1979,55
+2008-04,Fleetwood Mac,9
+2008-04,Grandaddy,13
+2008-04,Idlewild,26
+2008-04,Interpol,13
+2008-04,Iron & Wine,130
+2008-04,Kings Of Leon,23
+2008-04,Muddy Waters,2
+2008-04,Nirvana,9
+2008-04,Paul Simon,21
+2008-04,R.E.M.,4
+2008-04,Robert Johnson,7
+2008-04,The Beach Boys,29
+2008-04,The Smashing Pumpkins,182
+2008-04,The Smiths,89
+2008-04,The Strokes,43
+2008-05,Barenaked Ladies,2
+2008-05,Black Rebel Motorcycle Club,49
+2008-05,Blink-182,20
+2008-05,Deacon Blue,6
+2008-05,Death From Above 1979,26
+2008-05,Fleetwood Mac,58
+2008-05,Grandaddy,30
+2008-05,Idlewild,40
+2008-05,Interpol,16
+2008-05,Iron & Wine,121
+2008-05,Kings Of Leon,17
+2008-05,Muddy Waters,1
+2008-05,Nirvana,20
+2008-05,Paul Simon,5
+2008-05,R.E.M.,77
+2008-05,Robert Johnson,5
+2008-05,The Beach Boys,51
+2008-05,The Smashing Pumpkins,234
+2008-05,The Smiths,38
+2008-05,The Strokes,18
+2008-06,Barenaked Ladies,7
+2008-06,Black Rebel Motorcycle Club,29
+2008-06,Blink-182,9
+2008-06,Deacon Blue,6
+2008-06,Death From Above 1979,32
+2008-06,Fleetwood Mac,38
+2008-06,Grandaddy,29
+2008-06,Idlewild,29
+2008-06,Interpol,12
+2008-06,Iron & Wine,143
+2008-06,Kings Of Leon,28
+2008-06,Muddy Waters,3
+2008-06,Nirvana,19
+2008-06,Paul Simon,23
+2008-06,R.E.M.,150
+2008-06,Robert Johnson,12
+2008-06,The Beach Boys,34
+2008-06,The Smashing Pumpkins,177
+2008-06,The Smiths,117
+2008-06,The Strokes,32
+2008-07,Barenaked Ladies,7
+2008-07,Black Rebel Motorcycle Club,17
+2008-07,Blink-182,19
+2008-07,Deacon Blue,20
+2008-07,Death From Above 1979,38
+2008-07,Fleetwood Mac,119
+2008-07,Grandaddy,28
+2008-07,Idlewild,32
+2008-07,Interpol,17
+2008-07,Iron & Wine,174
+2008-07,Kings Of Leon,16
+2008-07,Muddy Waters,5
+2008-07,Nirvana,30
+2008-07,Paul Simon,12
+2008-07,R.E.M.,278
+2008-07,Robert Johnson,25
+2008-07,The Beach Boys,32
+2008-07,The Smashing Pumpkins,137
+2008-07,The Smiths,107
+2008-07,The Strokes,41
+2008-08,Barenaked Ladies,1
+2008-08,Black Rebel Motorcycle Club,2
+2008-08,Blink-182,11
+2008-08,Deacon Blue,0
+2008-08,Death From Above 1979,11
+2008-08,Fleetwood Mac,8
+2008-08,Grandaddy,7
+2008-08,Idlewild,21
+2008-08,Interpol,4
+2008-08,Iron & Wine,75
+2008-08,Kings Of Leon,12
+2008-08,Muddy Waters,2
+2008-08,Nirvana,1
+2008-08,Paul Simon,24
+2008-08,R.E.M.,66
+2008-08,Robert Johnson,13
+2008-08,The Beach Boys,21
+2008-08,The Smashing Pumpkins,64
+2008-08,The Smiths,56
+2008-08,The Strokes,8
+2008-09,Barenaked Ladies,8
+2008-09,Black Rebel Motorcycle Club,18
+2008-09,Blink-182,10
+2008-09,Deacon Blue,22
+2008-09,Death From Above 1979,0
+2008-09,Fleetwood Mac,33
+2008-09,Grandaddy,25
+2008-09,Idlewild,60
+2008-09,Interpol,1
+2008-09,Iron & Wine,121
+2008-09,Kings Of Leon,310
+2008-09,Muddy Waters,10
+2008-09,Nirvana,3
+2008-09,Paul Simon,10
+2008-09,R.E.M.,54
+2008-09,Robert Johnson,28
+2008-09,The Beach Boys,52
+2008-09,The Smashing Pumpkins,104
+2008-09,The Smiths,29
+2008-09,The Strokes,11
+2008-10,Barenaked Ladies,2
+2008-10,Black Rebel Motorcycle Club,7
+2008-10,Blink-182,7
+2008-10,Deacon Blue,6
+2008-10,Death From Above 1979,0
+2008-10,Fleetwood Mac,52
+2008-10,Grandaddy,12
+2008-10,Idlewild,16
+2008-10,Interpol,0
+2008-10,Iron & Wine,128
+2008-10,Kings Of Leon,35
+2008-10,Muddy Waters,3
+2008-10,Nirvana,2
+2008-10,Paul Simon,17
+2008-10,R.E.M.,21
+2008-10,Robert Johnson,12
+2008-10,The Beach Boys,32
+2008-10,The Smashing Pumpkins,42
+2008-10,The Smiths,8
+2008-10,The Strokes,4
+2008-11,Barenaked Ladies,3
+2008-11,Black Rebel Motorcycle Club,8
+2008-11,Blink-182,5
+2008-11,Deacon Blue,2
+2008-11,Death From Above 1979,0
+2008-11,Fleetwood Mac,101
+2008-11,Grandaddy,6
+2008-11,Idlewild,5
+2008-11,Interpol,0
+2008-11,Iron & Wine,57
+2008-11,Kings Of Leon,32
+2008-11,Muddy Waters,2
+2008-11,Nirvana,2
+2008-11,Paul Simon,26
+2008-11,R.E.M.,34
+2008-11,Robert Johnson,6
+2008-11,The Beach Boys,16
+2008-11,The Smashing Pumpkins,31
+2008-11,The Smiths,14
+2008-11,The Strokes,0
+2008-12,Barenaked Ladies,1
+2008-12,Black Rebel Motorcycle Club,0
+2008-12,Blink-182,3
+2008-12,Deacon Blue,0
+2008-12,Death From Above 1979,4
+2008-12,Fleetwood Mac,6
+2008-12,Grandaddy,16
+2008-12,Idlewild,1
+2008-12,Interpol,0
+2008-12,Iron & Wine,42
+2008-12,Kings Of Leon,29
+2008-12,Muddy Waters,2
+2008-12,Nirvana,0
+2008-12,Paul Simon,9
+2008-12,R.E.M.,8
+2008-12,Robert Johnson,0
+2008-12,The Beach Boys,10
+2008-12,The Smashing Pumpkins,8
+2008-12,The Smiths,9
+2008-12,The Strokes,7
+2009-01,Barenaked Ladies,1
+2009-01,Black Rebel Motorcycle Club,7
+2009-01,Blink-182,6
+2009-01,Deacon Blue,1
+2009-01,Death From Above 1979,17
+2009-01,Fleetwood Mac,79
+2009-01,Grandaddy,49
+2009-01,Idlewild,13
+2009-01,Interpol,3
+2009-01,Iron & Wine,62
+2009-01,Kings Of Leon,42
+2009-01,Muddy Waters,3
+2009-01,Nirvana,6
+2009-01,Paul Simon,8
+2009-01,R.E.M.,29
+2009-01,Robert Johnson,3
+2009-01,The Beach Boys,22
+2009-01,The Smashing Pumpkins,34
+2009-01,The Smiths,13
+2009-01,The Strokes,9
+2009-02,Barenaked Ladies,5
+2009-02,Black Rebel Motorcycle Club,6
+2009-02,Blink-182,16
+2009-02,Deacon Blue,4
+2009-02,Death From Above 1979,18
+2009-02,Fleetwood Mac,63
+2009-02,Grandaddy,30
+2009-02,Idlewild,85
+2009-02,Interpol,4
+2009-02,Iron & Wine,101
+2009-02,Kings Of Leon,18
+2009-02,Muddy Waters,4
+2009-02,Nirvana,7
+2009-02,Paul Simon,16
+2009-02,R.E.M.,22
+2009-02,Robert Johnson,3
+2009-02,The Beach Boys,10
+2009-02,The Smashing Pumpkins,28
+2009-02,The Smiths,8
+2009-02,The Strokes,3
+2009-03,Barenaked Ladies,1
+2009-03,Black Rebel Motorcycle Club,2
+2009-03,Blink-182,9
+2009-03,Deacon Blue,4
+2009-03,Death From Above 1979,20
+2009-03,Fleetwood Mac,23
+2009-03,Grandaddy,13
+2009-03,Idlewild,19
+2009-03,Interpol,1
+2009-03,Iron & Wine,44
+2009-03,Kings Of Leon,16
+2009-03,Muddy Waters,1
+2009-03,Nirvana,5
+2009-03,Paul Simon,4
+2009-03,R.E.M.,20
+2009-03,Robert Johnson,5
+2009-03,The Beach Boys,8
+2009-03,The Smashing Pumpkins,33
+2009-03,The Smiths,20
+2009-03,The Strokes,2
+2009-04,Barenaked Ladies,1
+2009-04,Black Rebel Motorcycle Club,4
+2009-04,Blink-182,9
+2009-04,Deacon Blue,7
+2009-04,Death From Above 1979,13
+2009-04,Fleetwood Mac,46
+2009-04,Grandaddy,15
+2009-04,Idlewild,16
+2009-04,Interpol,0
+2009-04,Iron & Wine,42
+2009-04,Kings Of Leon,21
+2009-04,Muddy Waters,5
+2009-04,Nirvana,9
+2009-04,Paul Simon,2
+2009-04,R.E.M.,14
+2009-04,Robert Johnson,6
+2009-04,The Beach Boys,17
+2009-04,The Smashing Pumpkins,18
+2009-04,The Smiths,33
+2009-04,The Strokes,17
+2009-05,Barenaked Ladies,0
+2009-05,Black Rebel Motorcycle Club,0
+2009-05,Blink-182,1
+2009-05,Deacon Blue,0
+2009-05,Death From Above 1979,0
+2009-05,Fleetwood Mac,1
+2009-05,Grandaddy,0
+2009-05,Idlewild,0
+2009-05,Interpol,0
+2009-05,Iron & Wine,4
+2009-05,Kings Of Leon,1
+2009-05,Muddy Waters,0
+2009-05,Nirvana,0
+2009-05,Paul Simon,0
+2009-05,R.E.M.,0
+2009-05,Robert Johnson,0
+2009-05,The Beach Boys,0
+2009-05,The Smashing Pumpkins,0
+2009-05,The Smiths,0
+2009-05,The Strokes,0

@@ -1,0 +1,481 @@
+month,artist,plays
+2007-01,12 Stones,0
+2007-01,3 Doors Down,0
+2007-01,Aerosmith,2
+2007-01,Alter Bridge,0
+2007-01,Audioslave,0
+2007-01,Breaking Benjamin,0
+2007-01,Chris Cornell,0
+2007-01,Collective Soul,0
+2007-01,Creed,0
+2007-01,Crossfade,0
+2007-01,Daughtry,0
+2007-01,Def Leppard,1
+2007-01,Default,0
+2007-01,Fuel,0
+2007-01,Hall & Oates,1
+2007-01,Hinder,0
+2007-01,Live,0
+2007-01,Nickelback,0
+2007-01,Phil Collins,2
+2007-01,U2,1
+2007-02,12 Stones,0
+2007-02,3 Doors Down,0
+2007-02,Aerosmith,0
+2007-02,Alter Bridge,0
+2007-02,Audioslave,0
+2007-02,Breaking Benjamin,0
+2007-02,Chris Cornell,0
+2007-02,Collective Soul,0
+2007-02,Creed,0
+2007-02,Crossfade,0
+2007-02,Daughtry,0
+2007-02,Def Leppard,0
+2007-02,Default,0
+2007-02,Fuel,0
+2007-02,Hall & Oates,0
+2007-02,Hinder,0
+2007-02,Live,0
+2007-02,Nickelback,0
+2007-02,Phil Collins,0
+2007-02,U2,0
+2007-03,12 Stones,0
+2007-03,3 Doors Down,0
+2007-03,Aerosmith,1
+2007-03,Alter Bridge,0
+2007-03,Audioslave,0
+2007-03,Breaking Benjamin,0
+2007-03,Chris Cornell,0
+2007-03,Collective Soul,0
+2007-03,Creed,0
+2007-03,Crossfade,0
+2007-03,Daughtry,0
+2007-03,Def Leppard,1
+2007-03,Default,0
+2007-03,Fuel,0
+2007-03,Hall & Oates,1
+2007-03,Hinder,0
+2007-03,Live,0
+2007-03,Nickelback,0
+2007-03,Phil Collins,0
+2007-03,U2,1
+2007-04,12 Stones,0
+2007-04,3 Doors Down,0
+2007-04,Aerosmith,0
+2007-04,Alter Bridge,0
+2007-04,Audioslave,0
+2007-04,Breaking Benjamin,0
+2007-04,Chris Cornell,0
+2007-04,Collective Soul,0
+2007-04,Creed,0
+2007-04,Crossfade,0
+2007-04,Daughtry,0
+2007-04,Def Leppard,0
+2007-04,Default,0
+2007-04,Fuel,0
+2007-04,Hall & Oates,0
+2007-04,Hinder,0
+2007-04,Live,0
+2007-04,Nickelback,0
+2007-04,Phil Collins,0
+2007-04,U2,0
+2007-05,12 Stones,0
+2007-05,3 Doors Down,0
+2007-05,Aerosmith,0
+2007-05,Alter Bridge,0
+2007-05,Audioslave,0
+2007-05,Breaking Benjamin,0
+2007-05,Chris Cornell,0
+2007-05,Collective Soul,0
+2007-05,Creed,0
+2007-05,Crossfade,0
+2007-05,Daughtry,0
+2007-05,Def Leppard,0
+2007-05,Default,0
+2007-05,Fuel,0
+2007-05,Hall & Oates,0
+2007-05,Hinder,0
+2007-05,Live,0
+2007-05,Nickelback,0
+2007-05,Phil Collins,0
+2007-05,U2,0
+2007-06,12 Stones,0
+2007-06,3 Doors Down,0
+2007-06,Aerosmith,0
+2007-06,Alter Bridge,0
+2007-06,Audioslave,0
+2007-06,Breaking Benjamin,0
+2007-06,Chris Cornell,0
+2007-06,Collective Soul,0
+2007-06,Creed,0
+2007-06,Crossfade,0
+2007-06,Daughtry,0
+2007-06,Def Leppard,0
+2007-06,Default,0
+2007-06,Fuel,0
+2007-06,Hall & Oates,0
+2007-06,Hinder,0
+2007-06,Live,0
+2007-06,Nickelback,0
+2007-06,Phil Collins,0
+2007-06,U2,0
+2007-07,12 Stones,0
+2007-07,3 Doors Down,0
+2007-07,Aerosmith,0
+2007-07,Alter Bridge,0
+2007-07,Audioslave,0
+2007-07,Breaking Benjamin,0
+2007-07,Chris Cornell,0
+2007-07,Collective Soul,0
+2007-07,Creed,0
+2007-07,Crossfade,0
+2007-07,Daughtry,0
+2007-07,Def Leppard,0
+2007-07,Default,0
+2007-07,Fuel,0
+2007-07,Hall & Oates,0
+2007-07,Hinder,0
+2007-07,Live,0
+2007-07,Nickelback,0
+2007-07,Phil Collins,0
+2007-07,U2,0
+2007-08,12 Stones,0
+2007-08,3 Doors Down,0
+2007-08,Aerosmith,0
+2007-08,Alter Bridge,0
+2007-08,Audioslave,0
+2007-08,Breaking Benjamin,0
+2007-08,Chris Cornell,0
+2007-08,Collective Soul,0
+2007-08,Creed,0
+2007-08,Crossfade,0
+2007-08,Daughtry,0
+2007-08,Def Leppard,0
+2007-08,Default,0
+2007-08,Fuel,0
+2007-08,Hall & Oates,0
+2007-08,Hinder,0
+2007-08,Live,0
+2007-08,Nickelback,0
+2007-08,Phil Collins,0
+2007-08,U2,0
+2007-09,12 Stones,0
+2007-09,3 Doors Down,0
+2007-09,Aerosmith,0
+2007-09,Alter Bridge,0
+2007-09,Audioslave,0
+2007-09,Breaking Benjamin,0
+2007-09,Chris Cornell,0
+2007-09,Collective Soul,0
+2007-09,Creed,0
+2007-09,Crossfade,0
+2007-09,Daughtry,0
+2007-09,Def Leppard,0
+2007-09,Default,0
+2007-09,Fuel,0
+2007-09,Hall & Oates,0
+2007-09,Hinder,0
+2007-09,Live,0
+2007-09,Nickelback,0
+2007-09,Phil Collins,0
+2007-09,U2,0
+2007-10,12 Stones,0
+2007-10,3 Doors Down,0
+2007-10,Aerosmith,0
+2007-10,Alter Bridge,0
+2007-10,Audioslave,0
+2007-10,Breaking Benjamin,0
+2007-10,Chris Cornell,0
+2007-10,Collective Soul,0
+2007-10,Creed,0
+2007-10,Crossfade,0
+2007-10,Daughtry,0
+2007-10,Def Leppard,0
+2007-10,Default,0
+2007-10,Fuel,0
+2007-10,Hall & Oates,0
+2007-10,Hinder,0
+2007-10,Live,0
+2007-10,Nickelback,0
+2007-10,Phil Collins,0
+2007-10,U2,0
+2007-11,12 Stones,0
+2007-11,3 Doors Down,0
+2007-11,Aerosmith,0
+2007-11,Alter Bridge,0
+2007-11,Audioslave,0
+2007-11,Breaking Benjamin,0
+2007-11,Chris Cornell,0
+2007-11,Collective Soul,0
+2007-11,Creed,0
+2007-11,Crossfade,0
+2007-11,Daughtry,0
+2007-11,Def Leppard,0
+2007-11,Default,0
+2007-11,Fuel,0
+2007-11,Hall & Oates,0
+2007-11,Hinder,0
+2007-11,Live,0
+2007-11,Nickelback,0
+2007-11,Phil Collins,0
+2007-11,U2,0
+2007-12,12 Stones,0
+2007-12,3 Doors Down,0
+2007-12,Aerosmith,0
+2007-12,Alter Bridge,0
+2007-12,Audioslave,0
+2007-12,Breaking Benjamin,0
+2007-12,Chris Cornell,0
+2007-12,Collective Soul,0
+2007-12,Creed,0
+2007-12,Crossfade,0
+2007-12,Daughtry,0
+2007-12,Def Leppard,0
+2007-12,Default,0
+2007-12,Fuel,0
+2007-12,Hall & Oates,0
+2007-12,Hinder,0
+2007-12,Live,0
+2007-12,Nickelback,0
+2007-12,Phil Collins,0
+2007-12,U2,0
+2008-01,12 Stones,0
+2008-01,3 Doors Down,0
+2008-01,Aerosmith,0
+2008-01,Alter Bridge,0
+2008-01,Audioslave,0
+2008-01,Breaking Benjamin,0
+2008-01,Chris Cornell,0
+2008-01,Collective Soul,0
+2008-01,Creed,0
+2008-01,Crossfade,0
+2008-01,Daughtry,0
+2008-01,Def Leppard,0
+2008-01,Default,0
+2008-01,Fuel,0
+2008-01,Hall & Oates,0
+2008-01,Hinder,0
+2008-01,Live,0
+2008-01,Nickelback,0
+2008-01,Phil Collins,0
+2008-01,U2,0
+2008-02,12 Stones,0
+2008-02,3 Doors Down,0
+2008-02,Aerosmith,0
+2008-02,Alter Bridge,0
+2008-02,Audioslave,0
+2008-02,Breaking Benjamin,0
+2008-02,Chris Cornell,0
+2008-02,Collective Soul,0
+2008-02,Creed,0
+2008-02,Crossfade,0
+2008-02,Daughtry,0
+2008-02,Def Leppard,0
+2008-02,Default,0
+2008-02,Fuel,0
+2008-02,Hall & Oates,0
+2008-02,Hinder,0
+2008-02,Live,0
+2008-02,Nickelback,0
+2008-02,Phil Collins,0
+2008-02,U2,0
+2008-03,12 Stones,0
+2008-03,3 Doors Down,0
+2008-03,Aerosmith,0
+2008-03,Alter Bridge,0
+2008-03,Audioslave,0
+2008-03,Breaking Benjamin,0
+2008-03,Chris Cornell,0
+2008-03,Collective Soul,0
+2008-03,Creed,0
+2008-03,Crossfade,0
+2008-03,Daughtry,0
+2008-03,Def Leppard,0
+2008-03,Default,0
+2008-03,Fuel,0
+2008-03,Hall & Oates,0
+2008-03,Hinder,0
+2008-03,Live,0
+2008-03,Nickelback,0
+2008-03,Phil Collins,0
+2008-03,U2,0
+2008-04,12 Stones,0
+2008-04,3 Doors Down,0
+2008-04,Aerosmith,0
+2008-04,Alter Bridge,0
+2008-04,Audioslave,0
+2008-04,Breaking Benjamin,0
+2008-04,Chris Cornell,0
+2008-04,Collective Soul,0
+2008-04,Creed,0
+2008-04,Crossfade,0
+2008-04,Daughtry,0
+2008-04,Def Leppard,0
+2008-04,Default,0
+2008-04,Fuel,0
+2008-04,Hall & Oates,0
+2008-04,Hinder,0
+2008-04,Live,0
+2008-04,Nickelback,0
+2008-04,Phil Collins,0
+2008-04,U2,0
+2008-05,12 Stones,0
+2008-05,3 Doors Down,0
+2008-05,Aerosmith,0
+2008-05,Alter Bridge,0
+2008-05,Audioslave,0
+2008-05,Breaking Benjamin,0
+2008-05,Chris Cornell,0
+2008-05,Collective Soul,0
+2008-05,Creed,0
+2008-05,Crossfade,0
+2008-05,Daughtry,0
+2008-05,Def Leppard,0
+2008-05,Default,0
+2008-05,Fuel,0
+2008-05,Hall & Oates,0
+2008-05,Hinder,0
+2008-05,Live,0
+2008-05,Nickelback,0
+2008-05,Phil Collins,0
+2008-05,U2,0
+2008-06,12 Stones,0
+2008-06,3 Doors Down,0
+2008-06,Aerosmith,0
+2008-06,Alter Bridge,0
+2008-06,Audioslave,0
+2008-06,Breaking Benjamin,0
+2008-06,Chris Cornell,0
+2008-06,Collective Soul,0
+2008-06,Creed,0
+2008-06,Crossfade,0
+2008-06,Daughtry,0
+2008-06,Def Leppard,0
+2008-06,Default,0
+2008-06,Fuel,0
+2008-06,Hall & Oates,0
+2008-06,Hinder,0
+2008-06,Live,0
+2008-06,Nickelback,0
+2008-06,Phil Collins,0
+2008-06,U2,0
+2008-07,12 Stones,0
+2008-07,3 Doors Down,0
+2008-07,Aerosmith,0
+2008-07,Alter Bridge,0
+2008-07,Audioslave,0
+2008-07,Breaking Benjamin,0
+2008-07,Chris Cornell,0
+2008-07,Collective Soul,0
+2008-07,Creed,0
+2008-07,Crossfade,0
+2008-07,Daughtry,0
+2008-07,Def Leppard,0
+2008-07,Default,0
+2008-07,Fuel,0
+2008-07,Hall & Oates,0
+2008-07,Hinder,0
+2008-07,Live,0
+2008-07,Nickelback,0
+2008-07,Phil Collins,0
+2008-07,U2,0
+2008-08,12 Stones,0
+2008-08,3 Doors Down,0
+2008-08,Aerosmith,0
+2008-08,Alter Bridge,0
+2008-08,Audioslave,0
+2008-08,Breaking Benjamin,0
+2008-08,Chris Cornell,0
+2008-08,Collective Soul,0
+2008-08,Creed,0
+2008-08,Crossfade,0
+2008-08,Daughtry,0
+2008-08,Def Leppard,0
+2008-08,Default,0
+2008-08,Fuel,0
+2008-08,Hall & Oates,0
+2008-08,Hinder,0
+2008-08,Live,0
+2008-08,Nickelback,0
+2008-08,Phil Collins,0
+2008-08,U2,0
+2008-09,12 Stones,0
+2008-09,3 Doors Down,0
+2008-09,Aerosmith,0
+2008-09,Alter Bridge,0
+2008-09,Audioslave,0
+2008-09,Breaking Benjamin,0
+2008-09,Chris Cornell,0
+2008-09,Collective Soul,0
+2008-09,Creed,0
+2008-09,Crossfade,0
+2008-09,Daughtry,0
+2008-09,Def Leppard,0
+2008-09,Default,0
+2008-09,Fuel,0
+2008-09,Hall & Oates,0
+2008-09,Hinder,0
+2008-09,Live,0
+2008-09,Nickelback,0
+2008-09,Phil Collins,1
+2008-09,U2,0
+2008-10,12 Stones,0
+2008-10,3 Doors Down,0
+2008-10,Aerosmith,0
+2008-10,Alter Bridge,0
+2008-10,Audioslave,0
+2008-10,Breaking Benjamin,0
+2008-10,Chris Cornell,0
+2008-10,Collective Soul,0
+2008-10,Creed,0
+2008-10,Crossfade,0
+2008-10,Daughtry,0
+2008-10,Def Leppard,0
+2008-10,Default,0
+2008-10,Fuel,0
+2008-10,Hall & Oates,0
+2008-10,Hinder,0
+2008-10,Live,0
+2008-10,Nickelback,0
+2008-10,Phil Collins,0
+2008-10,U2,0
+2008-11,12 Stones,1
+2008-11,3 Doors Down,1
+2008-11,Aerosmith,0
+2008-11,Alter Bridge,1
+2008-11,Audioslave,1
+2008-11,Breaking Benjamin,1
+2008-11,Chris Cornell,1
+2008-11,Collective Soul,1
+2008-11,Creed,1
+2008-11,Crossfade,1
+2008-11,Daughtry,1
+2008-11,Def Leppard,0
+2008-11,Default,1
+2008-11,Fuel,2
+2008-11,Hall & Oates,0
+2008-11,Hinder,1
+2008-11,Live,1
+2008-11,Nickelback,1
+2008-11,Phil Collins,0
+2008-11,U2,0
+2008-12,12 Stones,3
+2008-12,3 Doors Down,5
+2008-12,Aerosmith,0
+2008-12,Alter Bridge,1
+2008-12,Audioslave,2
+2008-12,Breaking Benjamin,3
+2008-12,Chris Cornell,1
+2008-12,Collective Soul,3
+2008-12,Creed,6
+2008-12,Crossfade,3
+2008-12,Daughtry,3
+2008-12,Def Leppard,0
+2008-12,Default,3
+2008-12,Fuel,6
+2008-12,Hall & Oates,0
+2008-12,Hinder,4
+2008-12,Live,3
+2008-12,Nickelback,3
+2008-12,Phil Collins,0
+2008-12,U2,1

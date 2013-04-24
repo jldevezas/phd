@@ -1,0 +1,761 @@
+month,artist,plays
+2006-03,4Hero,3
+2006-03,Air,0
+2006-03,Anna Ternheim,0
+2006-03,Antony And The Johnsons,0
+2006-03,Au Revoir Simone,0
+2006-03,Cocorosie,0
+2006-03,De-Phazz,0
+2006-03,Erykah Badu,0
+2006-03,Feist,0
+2006-03,Gotan Project,4
+2006-03,Jazzanova,4
+2006-03,Jazztronik,2
+2006-03,Jill Scott,0
+2006-03,Jimmy Edgar,0
+2006-03,John Legend,0
+2006-03,Koop,2
+2006-03,Kyoto Jazz Massive,1
+2006-03,Nouvelle Vague,0
+2006-03,Sufjan Stevens,0
+2006-03,The Cinematic Orchestra,4
+2006-04,4Hero,14
+2006-04,Air,1
+2006-04,Anna Ternheim,0
+2006-04,Antony And The Johnsons,0
+2006-04,Au Revoir Simone,0
+2006-04,Cocorosie,0
+2006-04,De-Phazz,1
+2006-04,Erykah Badu,0
+2006-04,Feist,0
+2006-04,Gotan Project,10
+2006-04,Jazzanova,20
+2006-04,Jazztronik,7
+2006-04,Jill Scott,0
+2006-04,Jimmy Edgar,0
+2006-04,John Legend,0
+2006-04,Koop,10
+2006-04,Kyoto Jazz Massive,16
+2006-04,Nouvelle Vague,5
+2006-04,Sufjan Stevens,0
+2006-04,The Cinematic Orchestra,14
+2006-05,4Hero,1
+2006-05,Air,1
+2006-05,Anna Ternheim,0
+2006-05,Antony And The Johnsons,0
+2006-05,Au Revoir Simone,0
+2006-05,Cocorosie,0
+2006-05,De-Phazz,1
+2006-05,Erykah Badu,6
+2006-05,Feist,1
+2006-05,Gotan Project,8
+2006-05,Jazzanova,15
+2006-05,Jazztronik,13
+2006-05,Jill Scott,2
+2006-05,Jimmy Edgar,0
+2006-05,John Legend,4
+2006-05,Koop,13
+2006-05,Kyoto Jazz Massive,14
+2006-05,Nouvelle Vague,3
+2006-05,Sufjan Stevens,1
+2006-05,The Cinematic Orchestra,3
+2006-06,4Hero,0
+2006-06,Air,0
+2006-06,Anna Ternheim,0
+2006-06,Antony And The Johnsons,0
+2006-06,Au Revoir Simone,0
+2006-06,Cocorosie,0
+2006-06,De-Phazz,0
+2006-06,Erykah Badu,4
+2006-06,Feist,3
+2006-06,Gotan Project,5
+2006-06,Jazzanova,1
+2006-06,Jazztronik,3
+2006-06,Jill Scott,13
+2006-06,Jimmy Edgar,0
+2006-06,John Legend,3
+2006-06,Koop,2
+2006-06,Kyoto Jazz Massive,0
+2006-06,Nouvelle Vague,0
+2006-06,Sufjan Stevens,0
+2006-06,The Cinematic Orchestra,0
+2006-07,4Hero,1
+2006-07,Air,0
+2006-07,Anna Ternheim,0
+2006-07,Antony And The Johnsons,0
+2006-07,Au Revoir Simone,0
+2006-07,Cocorosie,0
+2006-07,De-Phazz,7
+2006-07,Erykah Badu,2
+2006-07,Feist,0
+2006-07,Gotan Project,7
+2006-07,Jazzanova,6
+2006-07,Jazztronik,1
+2006-07,Jill Scott,4
+2006-07,Jimmy Edgar,0
+2006-07,John Legend,1
+2006-07,Koop,2
+2006-07,Kyoto Jazz Massive,4
+2006-07,Nouvelle Vague,0
+2006-07,Sufjan Stevens,0
+2006-07,The Cinematic Orchestra,0
+2006-08,4Hero,2
+2006-08,Air,1
+2006-08,Anna Ternheim,0
+2006-08,Antony And The Johnsons,0
+2006-08,Au Revoir Simone,0
+2006-08,Cocorosie,0
+2006-08,De-Phazz,4
+2006-08,Erykah Badu,1
+2006-08,Feist,0
+2006-08,Gotan Project,4
+2006-08,Jazzanova,2
+2006-08,Jazztronik,0
+2006-08,Jill Scott,10
+2006-08,Jimmy Edgar,0
+2006-08,John Legend,7
+2006-08,Koop,6
+2006-08,Kyoto Jazz Massive,8
+2006-08,Nouvelle Vague,0
+2006-08,Sufjan Stevens,0
+2006-08,The Cinematic Orchestra,0
+2006-09,4Hero,6
+2006-09,Air,0
+2006-09,Anna Ternheim,0
+2006-09,Antony And The Johnsons,0
+2006-09,Au Revoir Simone,0
+2006-09,Cocorosie,0
+2006-09,De-Phazz,1
+2006-09,Erykah Badu,3
+2006-09,Feist,0
+2006-09,Gotan Project,3
+2006-09,Jazzanova,2
+2006-09,Jazztronik,9
+2006-09,Jill Scott,12
+2006-09,Jimmy Edgar,0
+2006-09,John Legend,3
+2006-09,Koop,5
+2006-09,Kyoto Jazz Massive,9
+2006-09,Nouvelle Vague,0
+2006-09,Sufjan Stevens,0
+2006-09,The Cinematic Orchestra,1
+2006-10,4Hero,2
+2006-10,Air,0
+2006-10,Anna Ternheim,0
+2006-10,Antony And The Johnsons,0
+2006-10,Au Revoir Simone,0
+2006-10,Cocorosie,0
+2006-10,De-Phazz,1
+2006-10,Erykah Badu,1
+2006-10,Feist,0
+2006-10,Gotan Project,1
+2006-10,Jazzanova,0
+2006-10,Jazztronik,3
+2006-10,Jill Scott,7
+2006-10,Jimmy Edgar,0
+2006-10,John Legend,1
+2006-10,Koop,2
+2006-10,Kyoto Jazz Massive,7
+2006-10,Nouvelle Vague,0
+2006-10,Sufjan Stevens,0
+2006-10,The Cinematic Orchestra,1
+2006-11,4Hero,0
+2006-11,Air,0
+2006-11,Anna Ternheim,0
+2006-11,Antony And The Johnsons,0
+2006-11,Au Revoir Simone,0
+2006-11,Cocorosie,0
+2006-11,De-Phazz,5
+2006-11,Erykah Badu,3
+2006-11,Feist,0
+2006-11,Gotan Project,2
+2006-11,Jazzanova,4
+2006-11,Jazztronik,1
+2006-11,Jill Scott,8
+2006-11,Jimmy Edgar,0
+2006-11,John Legend,4
+2006-11,Koop,4
+2006-11,Kyoto Jazz Massive,5
+2006-11,Nouvelle Vague,1
+2006-11,Sufjan Stevens,0
+2006-11,The Cinematic Orchestra,1
+2006-12,4Hero,0
+2006-12,Air,0
+2006-12,Anna Ternheim,0
+2006-12,Antony And The Johnsons,0
+2006-12,Au Revoir Simone,0
+2006-12,Cocorosie,1
+2006-12,De-Phazz,3
+2006-12,Erykah Badu,0
+2006-12,Feist,0
+2006-12,Gotan Project,0
+2006-12,Jazzanova,2
+2006-12,Jazztronik,0
+2006-12,Jill Scott,1
+2006-12,Jimmy Edgar,0
+2006-12,John Legend,0
+2006-12,Koop,1
+2006-12,Kyoto Jazz Massive,2
+2006-12,Nouvelle Vague,0
+2006-12,Sufjan Stevens,0
+2006-12,The Cinematic Orchestra,0
+2007-01,4Hero,1
+2007-01,Air,2
+2007-01,Anna Ternheim,0
+2007-01,Antony And The Johnsons,0
+2007-01,Au Revoir Simone,0
+2007-01,Cocorosie,0
+2007-01,De-Phazz,1
+2007-01,Erykah Badu,1
+2007-01,Feist,2
+2007-01,Gotan Project,4
+2007-01,Jazzanova,1
+2007-01,Jazztronik,0
+2007-01,Jill Scott,0
+2007-01,Jimmy Edgar,0
+2007-01,John Legend,2
+2007-01,Koop,2
+2007-01,Kyoto Jazz Massive,0
+2007-01,Nouvelle Vague,1
+2007-01,Sufjan Stevens,0
+2007-01,The Cinematic Orchestra,1
+2007-02,4Hero,1
+2007-02,Air,0
+2007-02,Anna Ternheim,0
+2007-02,Antony And The Johnsons,0
+2007-02,Au Revoir Simone,0
+2007-02,Cocorosie,0
+2007-02,De-Phazz,3
+2007-02,Erykah Badu,0
+2007-02,Feist,0
+2007-02,Gotan Project,1
+2007-02,Jazzanova,5
+2007-02,Jazztronik,2
+2007-02,Jill Scott,2
+2007-02,Jimmy Edgar,0
+2007-02,John Legend,1
+2007-02,Koop,2
+2007-02,Kyoto Jazz Massive,3
+2007-02,Nouvelle Vague,1
+2007-02,Sufjan Stevens,0
+2007-02,The Cinematic Orchestra,1
+2007-03,4Hero,0
+2007-03,Air,0
+2007-03,Anna Ternheim,0
+2007-03,Antony And The Johnsons,0
+2007-03,Au Revoir Simone,0
+2007-03,Cocorosie,0
+2007-03,De-Phazz,1
+2007-03,Erykah Badu,1
+2007-03,Feist,0
+2007-03,Gotan Project,0
+2007-03,Jazzanova,2
+2007-03,Jazztronik,0
+2007-03,Jill Scott,1
+2007-03,Jimmy Edgar,0
+2007-03,John Legend,0
+2007-03,Koop,2
+2007-03,Kyoto Jazz Massive,2
+2007-03,Nouvelle Vague,0
+2007-03,Sufjan Stevens,0
+2007-03,The Cinematic Orchestra,1
+2007-04,4Hero,0
+2007-04,Air,0
+2007-04,Anna Ternheim,0
+2007-04,Antony And The Johnsons,0
+2007-04,Au Revoir Simone,0
+2007-04,Cocorosie,0
+2007-04,De-Phazz,0
+2007-04,Erykah Badu,0
+2007-04,Feist,0
+2007-04,Gotan Project,0
+2007-04,Jazzanova,0
+2007-04,Jazztronik,0
+2007-04,Jill Scott,0
+2007-04,Jimmy Edgar,0
+2007-04,John Legend,0
+2007-04,Koop,0
+2007-04,Kyoto Jazz Massive,1
+2007-04,Nouvelle Vague,0
+2007-04,Sufjan Stevens,0
+2007-04,The Cinematic Orchestra,0
+2007-05,4Hero,0
+2007-05,Air,0
+2007-05,Anna Ternheim,0
+2007-05,Antony And The Johnsons,0
+2007-05,Au Revoir Simone,0
+2007-05,Cocorosie,0
+2007-05,De-Phazz,0
+2007-05,Erykah Badu,0
+2007-05,Feist,0
+2007-05,Gotan Project,0
+2007-05,Jazzanova,0
+2007-05,Jazztronik,1
+2007-05,Jill Scott,0
+2007-05,Jimmy Edgar,0
+2007-05,John Legend,0
+2007-05,Koop,0
+2007-05,Kyoto Jazz Massive,0
+2007-05,Nouvelle Vague,0
+2007-05,Sufjan Stevens,0
+2007-05,The Cinematic Orchestra,0
+2007-06,4Hero,0
+2007-06,Air,0
+2007-06,Anna Ternheim,0
+2007-06,Antony And The Johnsons,0
+2007-06,Au Revoir Simone,0
+2007-06,Cocorosie,0
+2007-06,De-Phazz,0
+2007-06,Erykah Badu,1
+2007-06,Feist,0
+2007-06,Gotan Project,0
+2007-06,Jazzanova,1
+2007-06,Jazztronik,1
+2007-06,Jill Scott,3
+2007-06,Jimmy Edgar,0
+2007-06,John Legend,1
+2007-06,Koop,1
+2007-06,Kyoto Jazz Massive,0
+2007-06,Nouvelle Vague,0
+2007-06,Sufjan Stevens,0
+2007-06,The Cinematic Orchestra,0
+2007-07,4Hero,4
+2007-07,Air,3
+2007-07,Anna Ternheim,0
+2007-07,Antony And The Johnsons,0
+2007-07,Au Revoir Simone,0
+2007-07,Cocorosie,0
+2007-07,De-Phazz,5
+2007-07,Erykah Badu,1
+2007-07,Feist,1
+2007-07,Gotan Project,5
+2007-07,Jazzanova,5
+2007-07,Jazztronik,2
+2007-07,Jill Scott,2
+2007-07,Jimmy Edgar,1
+2007-07,John Legend,2
+2007-07,Koop,5
+2007-07,Kyoto Jazz Massive,3
+2007-07,Nouvelle Vague,3
+2007-07,Sufjan Stevens,0
+2007-07,The Cinematic Orchestra,1
+2007-08,4Hero,12
+2007-08,Air,7
+2007-08,Anna Ternheim,0
+2007-08,Antony And The Johnsons,0
+2007-08,Au Revoir Simone,1
+2007-08,Cocorosie,1
+2007-08,De-Phazz,5
+2007-08,Erykah Badu,1
+2007-08,Feist,1
+2007-08,Gotan Project,7
+2007-08,Jazzanova,3
+2007-08,Jazztronik,1
+2007-08,Jill Scott,1
+2007-08,Jimmy Edgar,0
+2007-08,John Legend,0
+2007-08,Koop,4
+2007-08,Kyoto Jazz Massive,2
+2007-08,Nouvelle Vague,1
+2007-08,Sufjan Stevens,0
+2007-08,The Cinematic Orchestra,1
+2007-09,4Hero,3
+2007-09,Air,2
+2007-09,Anna Ternheim,1
+2007-09,Antony And The Johnsons,2
+2007-09,Au Revoir Simone,1
+2007-09,Cocorosie,1
+2007-09,De-Phazz,1
+2007-09,Erykah Badu,1
+2007-09,Feist,1
+2007-09,Gotan Project,2
+2007-09,Jazzanova,0
+2007-09,Jazztronik,1
+2007-09,Jill Scott,1
+2007-09,Jimmy Edgar,2
+2007-09,John Legend,1
+2007-09,Koop,0
+2007-09,Kyoto Jazz Massive,1
+2007-09,Nouvelle Vague,1
+2007-09,Sufjan Stevens,1
+2007-09,The Cinematic Orchestra,1
+2007-10,4Hero,0
+2007-10,Air,0
+2007-10,Anna Ternheim,0
+2007-10,Antony And The Johnsons,10
+2007-10,Au Revoir Simone,1
+2007-10,Cocorosie,0
+2007-10,De-Phazz,0
+2007-10,Erykah Badu,1
+2007-10,Feist,1
+2007-10,Gotan Project,0
+2007-10,Jazzanova,0
+2007-10,Jazztronik,2
+2007-10,Jill Scott,1
+2007-10,Jimmy Edgar,1
+2007-10,John Legend,1
+2007-10,Koop,9
+2007-10,Kyoto Jazz Massive,0
+2007-10,Nouvelle Vague,2
+2007-10,Sufjan Stevens,0
+2007-10,The Cinematic Orchestra,0
+2007-11,4Hero,0
+2007-11,Air,18
+2007-11,Anna Ternheim,9
+2007-11,Antony And The Johnsons,40
+2007-11,Au Revoir Simone,7
+2007-11,Cocorosie,4
+2007-11,De-Phazz,0
+2007-11,Erykah Badu,0
+2007-11,Feist,3
+2007-11,Gotan Project,0
+2007-11,Jazzanova,1
+2007-11,Jazztronik,1
+2007-11,Jill Scott,4
+2007-11,Jimmy Edgar,1
+2007-11,John Legend,0
+2007-11,Koop,9
+2007-11,Kyoto Jazz Massive,0
+2007-11,Nouvelle Vague,18
+2007-11,Sufjan Stevens,11
+2007-11,The Cinematic Orchestra,0
+2007-12,4Hero,1
+2007-12,Air,69
+2007-12,Anna Ternheim,1
+2007-12,Antony And The Johnsons,7
+2007-12,Au Revoir Simone,3
+2007-12,Cocorosie,13
+2007-12,De-Phazz,0
+2007-12,Erykah Badu,0
+2007-12,Feist,9
+2007-12,Gotan Project,5
+2007-12,Jazzanova,0
+2007-12,Jazztronik,0
+2007-12,Jill Scott,0
+2007-12,Jimmy Edgar,0
+2007-12,John Legend,0
+2007-12,Koop,1
+2007-12,Kyoto Jazz Massive,0
+2007-12,Nouvelle Vague,13
+2007-12,Sufjan Stevens,164
+2007-12,The Cinematic Orchestra,1
+2008-01,4Hero,1
+2008-01,Air,2
+2008-01,Anna Ternheim,0
+2008-01,Antony And The Johnsons,11
+2008-01,Au Revoir Simone,6
+2008-01,Cocorosie,2
+2008-01,De-Phazz,0
+2008-01,Erykah Badu,0
+2008-01,Feist,1
+2008-01,Gotan Project,1
+2008-01,Jazzanova,0
+2008-01,Jazztronik,1
+2008-01,Jill Scott,1
+2008-01,Jimmy Edgar,4
+2008-01,John Legend,0
+2008-01,Koop,0
+2008-01,Kyoto Jazz Massive,0
+2008-01,Nouvelle Vague,15
+2008-01,Sufjan Stevens,14
+2008-01,The Cinematic Orchestra,2
+2008-02,4Hero,43
+2008-02,Air,23
+2008-02,Anna Ternheim,0
+2008-02,Antony And The Johnsons,0
+2008-02,Au Revoir Simone,1
+2008-02,Cocorosie,1
+2008-02,De-Phazz,0
+2008-02,Erykah Badu,1
+2008-02,Feist,0
+2008-02,Gotan Project,0
+2008-02,Jazzanova,1
+2008-02,Jazztronik,0
+2008-02,Jill Scott,18
+2008-02,Jimmy Edgar,2
+2008-02,John Legend,0
+2008-02,Koop,0
+2008-02,Kyoto Jazz Massive,0
+2008-02,Nouvelle Vague,0
+2008-02,Sufjan Stevens,133
+2008-02,The Cinematic Orchestra,0
+2008-03,4Hero,0
+2008-03,Air,13
+2008-03,Anna Ternheim,0
+2008-03,Antony And The Johnsons,30
+2008-03,Au Revoir Simone,0
+2008-03,Cocorosie,1
+2008-03,De-Phazz,0
+2008-03,Erykah Badu,0
+2008-03,Feist,0
+2008-03,Gotan Project,0
+2008-03,Jazzanova,0
+2008-03,Jazztronik,0
+2008-03,Jill Scott,0
+2008-03,Jimmy Edgar,1
+2008-03,John Legend,0
+2008-03,Koop,0
+2008-03,Kyoto Jazz Massive,0
+2008-03,Nouvelle Vague,0
+2008-03,Sufjan Stevens,21
+2008-03,The Cinematic Orchestra,1
+2008-04,4Hero,1
+2008-04,Air,23
+2008-04,Anna Ternheim,2
+2008-04,Antony And The Johnsons,10
+2008-04,Au Revoir Simone,1
+2008-04,Cocorosie,10
+2008-04,De-Phazz,0
+2008-04,Erykah Badu,0
+2008-04,Feist,1
+2008-04,Gotan Project,3
+2008-04,Jazzanova,0
+2008-04,Jazztronik,0
+2008-04,Jill Scott,1
+2008-04,Jimmy Edgar,1
+2008-04,John Legend,0
+2008-04,Koop,0
+2008-04,Kyoto Jazz Massive,0
+2008-04,Nouvelle Vague,1
+2008-04,Sufjan Stevens,4
+2008-04,The Cinematic Orchestra,2
+2008-05,4Hero,0
+2008-05,Air,1
+2008-05,Anna Ternheim,94
+2008-05,Antony And The Johnsons,1
+2008-05,Au Revoir Simone,50
+2008-05,Cocorosie,5
+2008-05,De-Phazz,0
+2008-05,Erykah Badu,0
+2008-05,Feist,2
+2008-05,Gotan Project,12
+2008-05,Jazzanova,0
+2008-05,Jazztronik,2
+2008-05,Jill Scott,2
+2008-05,Jimmy Edgar,1
+2008-05,John Legend,2
+2008-05,Koop,0
+2008-05,Kyoto Jazz Massive,0
+2008-05,Nouvelle Vague,12
+2008-05,Sufjan Stevens,45
+2008-05,The Cinematic Orchestra,2
+2008-06,4Hero,1
+2008-06,Air,2
+2008-06,Anna Ternheim,1
+2008-06,Antony And The Johnsons,0
+2008-06,Au Revoir Simone,21
+2008-06,Cocorosie,1
+2008-06,De-Phazz,0
+2008-06,Erykah Badu,0
+2008-06,Feist,1
+2008-06,Gotan Project,10
+2008-06,Jazzanova,0
+2008-06,Jazztronik,0
+2008-06,Jill Scott,0
+2008-06,Jimmy Edgar,1
+2008-06,John Legend,0
+2008-06,Koop,0
+2008-06,Kyoto Jazz Massive,0
+2008-06,Nouvelle Vague,1
+2008-06,Sufjan Stevens,86
+2008-06,The Cinematic Orchestra,0
+2008-07,4Hero,2
+2008-07,Air,2
+2008-07,Anna Ternheim,17
+2008-07,Antony And The Johnsons,4
+2008-07,Au Revoir Simone,13
+2008-07,Cocorosie,1
+2008-07,De-Phazz,0
+2008-07,Erykah Badu,0
+2008-07,Feist,1
+2008-07,Gotan Project,0
+2008-07,Jazzanova,0
+2008-07,Jazztronik,0
+2008-07,Jill Scott,0
+2008-07,Jimmy Edgar,17
+2008-07,John Legend,0
+2008-07,Koop,0
+2008-07,Kyoto Jazz Massive,0
+2008-07,Nouvelle Vague,0
+2008-07,Sufjan Stevens,36
+2008-07,The Cinematic Orchestra,0
+2008-08,4Hero,0
+2008-08,Air,0
+2008-08,Anna Ternheim,26
+2008-08,Antony And The Johnsons,2
+2008-08,Au Revoir Simone,0
+2008-08,Cocorosie,0
+2008-08,De-Phazz,0
+2008-08,Erykah Badu,0
+2008-08,Feist,0
+2008-08,Gotan Project,1
+2008-08,Jazzanova,0
+2008-08,Jazztronik,0
+2008-08,Jill Scott,1
+2008-08,Jimmy Edgar,6
+2008-08,John Legend,0
+2008-08,Koop,0
+2008-08,Kyoto Jazz Massive,0
+2008-08,Nouvelle Vague,0
+2008-08,Sufjan Stevens,27
+2008-08,The Cinematic Orchestra,0
+2008-09,4Hero,0
+2008-09,Air,0
+2008-09,Anna Ternheim,29
+2008-09,Antony And The Johnsons,35
+2008-09,Au Revoir Simone,11
+2008-09,Cocorosie,3
+2008-09,De-Phazz,0
+2008-09,Erykah Badu,0
+2008-09,Feist,8
+2008-09,Gotan Project,0
+2008-09,Jazzanova,0
+2008-09,Jazztronik,0
+2008-09,Jill Scott,0
+2008-09,Jimmy Edgar,2
+2008-09,John Legend,12
+2008-09,Koop,0
+2008-09,Kyoto Jazz Massive,0
+2008-09,Nouvelle Vague,0
+2008-09,Sufjan Stevens,15
+2008-09,The Cinematic Orchestra,0
+2008-10,4Hero,0
+2008-10,Air,2
+2008-10,Anna Ternheim,18
+2008-10,Antony And The Johnsons,0
+2008-10,Au Revoir Simone,11
+2008-10,Cocorosie,0
+2008-10,De-Phazz,0
+2008-10,Erykah Badu,0
+2008-10,Feist,0
+2008-10,Gotan Project,1
+2008-10,Jazzanova,41
+2008-10,Jazztronik,0
+2008-10,Jill Scott,0
+2008-10,Jimmy Edgar,3
+2008-10,John Legend,0
+2008-10,Koop,9
+2008-10,Kyoto Jazz Massive,0
+2008-10,Nouvelle Vague,0
+2008-10,Sufjan Stevens,20
+2008-10,The Cinematic Orchestra,0
+2008-11,4Hero,0
+2008-11,Air,0
+2008-11,Anna Ternheim,33
+2008-11,Antony And The Johnsons,0
+2008-11,Au Revoir Simone,0
+2008-11,Cocorosie,0
+2008-11,De-Phazz,0
+2008-11,Erykah Badu,0
+2008-11,Feist,0
+2008-11,Gotan Project,0
+2008-11,Jazzanova,4
+2008-11,Jazztronik,0
+2008-11,Jill Scott,1
+2008-11,Jimmy Edgar,1
+2008-11,John Legend,0
+2008-11,Koop,0
+2008-11,Kyoto Jazz Massive,0
+2008-11,Nouvelle Vague,0
+2008-11,Sufjan Stevens,0
+2008-11,The Cinematic Orchestra,0
+2008-12,4Hero,0
+2008-12,Air,0
+2008-12,Anna Ternheim,12
+2008-12,Antony And The Johnsons,22
+2008-12,Au Revoir Simone,0
+2008-12,Cocorosie,0
+2008-12,De-Phazz,0
+2008-12,Erykah Badu,0
+2008-12,Feist,0
+2008-12,Gotan Project,0
+2008-12,Jazzanova,10
+2008-12,Jazztronik,0
+2008-12,Jill Scott,0
+2008-12,Jimmy Edgar,0
+2008-12,John Legend,0
+2008-12,Koop,0
+2008-12,Kyoto Jazz Massive,0
+2008-12,Nouvelle Vague,0
+2008-12,Sufjan Stevens,7
+2008-12,The Cinematic Orchestra,0
+2009-01,4Hero,0
+2009-01,Air,4
+2009-01,Anna Ternheim,0
+2009-01,Antony And The Johnsons,33
+2009-01,Au Revoir Simone,11
+2009-01,Cocorosie,36
+2009-01,De-Phazz,1
+2009-01,Erykah Badu,0
+2009-01,Feist,0
+2009-01,Gotan Project,17
+2009-01,Jazzanova,0
+2009-01,Jazztronik,0
+2009-01,Jill Scott,0
+2009-01,Jimmy Edgar,0
+2009-01,John Legend,0
+2009-01,Koop,9
+2009-01,Kyoto Jazz Massive,0
+2009-01,Nouvelle Vague,0
+2009-01,Sufjan Stevens,4
+2009-01,The Cinematic Orchestra,1
+2009-02,4Hero,2
+2009-02,Air,2
+2009-02,Anna Ternheim,44
+2009-02,Antony And The Johnsons,32
+2009-02,Au Revoir Simone,0
+2009-02,Cocorosie,15
+2009-02,De-Phazz,0
+2009-02,Erykah Badu,0
+2009-02,Feist,13
+2009-02,Gotan Project,2
+2009-02,Jazzanova,0
+2009-02,Jazztronik,0
+2009-02,Jill Scott,0
+2009-02,Jimmy Edgar,2
+2009-02,John Legend,8
+2009-02,Koop,1
+2009-02,Kyoto Jazz Massive,0
+2009-02,Nouvelle Vague,12
+2009-02,Sufjan Stevens,22
+2009-02,The Cinematic Orchestra,0
+2009-03,4Hero,6
+2009-03,Air,0
+2009-03,Anna Ternheim,30
+2009-03,Antony And The Johnsons,10
+2009-03,Au Revoir Simone,100
+2009-03,Cocorosie,3
+2009-03,De-Phazz,0
+2009-03,Erykah Badu,0
+2009-03,Feist,0
+2009-03,Gotan Project,1
+2009-03,Jazzanova,0
+2009-03,Jazztronik,0
+2009-03,Jill Scott,2
+2009-03,Jimmy Edgar,22
+2009-03,John Legend,0
+2009-03,Koop,0
+2009-03,Kyoto Jazz Massive,0
+2009-03,Nouvelle Vague,0
+2009-03,Sufjan Stevens,15
+2009-03,The Cinematic Orchestra,0
+2009-04,4Hero,1
+2009-04,Air,0
+2009-04,Anna Ternheim,1
+2009-04,Antony And The Johnsons,0
+2009-04,Au Revoir Simone,104
+2009-04,Cocorosie,11
+2009-04,De-Phazz,0
+2009-04,Erykah Badu,0
+2009-04,Feist,0
+2009-04,Gotan Project,0
+2009-04,Jazzanova,0
+2009-04,Jazztronik,0
+2009-04,Jill Scott,0
+2009-04,Jimmy Edgar,4
+2009-04,John Legend,0
+2009-04,Koop,1
+2009-04,Kyoto Jazz Massive,0
+2009-04,Nouvelle Vague,0
+2009-04,Sufjan Stevens,0
+2009-04,The Cinematic Orchestra,0

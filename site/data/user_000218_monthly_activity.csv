@@ -1,0 +1,421 @@
+month,artist,plays
+2007-09,Arctic Monkeys,0
+2007-09,Bloc Party,2
+2007-09,Coldplay,0
+2007-09,Die Fantastischen Vier,9
+2007-09,Faithless,2
+2007-09,Fatboy Slim,6
+2007-09,Flogging Molly,1
+2007-09,Foo Fighters,18
+2007-09,Jack Johnson,0
+2007-09,Kanye West,0
+2007-09,Manu Chao,78
+2007-09,Massive Attack,0
+2007-09,Modest Mouse,0
+2007-09,Morcheeba,5
+2007-09,Muse,16
+2007-09,Orishas,0
+2007-09,Rjd2,19
+2007-09,The Killers,0
+2007-09,The White Stripes,1
+2007-09,Travis,1
+2007-10,Arctic Monkeys,31
+2007-10,Bloc Party,0
+2007-10,Coldplay,16
+2007-10,Die Fantastischen Vier,4
+2007-10,Faithless,3
+2007-10,Fatboy Slim,32
+2007-10,Flogging Molly,1
+2007-10,Foo Fighters,15
+2007-10,Jack Johnson,20
+2007-10,Kanye West,0
+2007-10,Manu Chao,20
+2007-10,Massive Attack,3
+2007-10,Modest Mouse,5
+2007-10,Morcheeba,1
+2007-10,Muse,2
+2007-10,Orishas,1
+2007-10,Rjd2,4
+2007-10,The Killers,1
+2007-10,The White Stripes,12
+2007-10,Travis,0
+2007-11,Arctic Monkeys,5
+2007-11,Bloc Party,22
+2007-11,Coldplay,5
+2007-11,Die Fantastischen Vier,7
+2007-11,Faithless,22
+2007-11,Fatboy Slim,20
+2007-11,Flogging Molly,3
+2007-11,Foo Fighters,32
+2007-11,Jack Johnson,16
+2007-11,Kanye West,0
+2007-11,Manu Chao,98
+2007-11,Massive Attack,7
+2007-11,Modest Mouse,14
+2007-11,Morcheeba,8
+2007-11,Muse,5
+2007-11,Orishas,3
+2007-11,Rjd2,20
+2007-11,The Killers,2
+2007-11,The White Stripes,24
+2007-11,Travis,3
+2007-12,Arctic Monkeys,1
+2007-12,Bloc Party,16
+2007-12,Coldplay,10
+2007-12,Die Fantastischen Vier,1
+2007-12,Faithless,13
+2007-12,Fatboy Slim,22
+2007-12,Flogging Molly,40
+2007-12,Foo Fighters,75
+2007-12,Jack Johnson,22
+2007-12,Kanye West,1
+2007-12,Manu Chao,46
+2007-12,Massive Attack,2
+2007-12,Modest Mouse,14
+2007-12,Morcheeba,19
+2007-12,Muse,6
+2007-12,Orishas,17
+2007-12,Rjd2,41
+2007-12,The Killers,1
+2007-12,The White Stripes,1
+2007-12,Travis,0
+2008-01,Arctic Monkeys,3
+2008-01,Bloc Party,3
+2008-01,Coldplay,13
+2008-01,Die Fantastischen Vier,1
+2008-01,Faithless,31
+2008-01,Fatboy Slim,3
+2008-01,Flogging Molly,3
+2008-01,Foo Fighters,12
+2008-01,Jack Johnson,51
+2008-01,Kanye West,1
+2008-01,Manu Chao,15
+2008-01,Massive Attack,2
+2008-01,Modest Mouse,4
+2008-01,Morcheeba,21
+2008-01,Muse,3
+2008-01,Orishas,12
+2008-01,Rjd2,0
+2008-01,The Killers,11
+2008-01,The White Stripes,10
+2008-01,Travis,4
+2008-02,Arctic Monkeys,7
+2008-02,Bloc Party,0
+2008-02,Coldplay,15
+2008-02,Die Fantastischen Vier,6
+2008-02,Faithless,7
+2008-02,Fatboy Slim,4
+2008-02,Flogging Molly,7
+2008-02,Foo Fighters,3
+2008-02,Jack Johnson,2
+2008-02,Kanye West,7
+2008-02,Manu Chao,4
+2008-02,Massive Attack,23
+2008-02,Modest Mouse,1
+2008-02,Morcheeba,63
+2008-02,Muse,1
+2008-02,Orishas,1
+2008-02,Rjd2,14
+2008-02,The Killers,1
+2008-02,The White Stripes,1
+2008-02,Travis,3
+2008-03,Arctic Monkeys,8
+2008-03,Bloc Party,1
+2008-03,Coldplay,2
+2008-03,Die Fantastischen Vier,1
+2008-03,Faithless,6
+2008-03,Fatboy Slim,2
+2008-03,Flogging Molly,4
+2008-03,Foo Fighters,20
+2008-03,Jack Johnson,15
+2008-03,Kanye West,26
+2008-03,Manu Chao,3
+2008-03,Massive Attack,11
+2008-03,Modest Mouse,1
+2008-03,Morcheeba,11
+2008-03,Muse,25
+2008-03,Orishas,6
+2008-03,Rjd2,16
+2008-03,The Killers,29
+2008-03,The White Stripes,3
+2008-03,Travis,11
+2008-04,Arctic Monkeys,1
+2008-04,Bloc Party,4
+2008-04,Coldplay,0
+2008-04,Die Fantastischen Vier,1
+2008-04,Faithless,3
+2008-04,Fatboy Slim,4
+2008-04,Flogging Molly,0
+2008-04,Foo Fighters,0
+2008-04,Jack Johnson,0
+2008-04,Kanye West,0
+2008-04,Manu Chao,1
+2008-04,Massive Attack,4
+2008-04,Modest Mouse,0
+2008-04,Morcheeba,0
+2008-04,Muse,0
+2008-04,Orishas,11
+2008-04,Rjd2,0
+2008-04,The Killers,9
+2008-04,The White Stripes,0
+2008-04,Travis,0
+2008-05,Arctic Monkeys,0
+2008-05,Bloc Party,0
+2008-05,Coldplay,4
+2008-05,Die Fantastischen Vier,0
+2008-05,Faithless,0
+2008-05,Fatboy Slim,0
+2008-05,Flogging Molly,0
+2008-05,Foo Fighters,0
+2008-05,Jack Johnson,0
+2008-05,Kanye West,11
+2008-05,Manu Chao,0
+2008-05,Massive Attack,0
+2008-05,Modest Mouse,0
+2008-05,Morcheeba,0
+2008-05,Muse,0
+2008-05,Orishas,0
+2008-05,Rjd2,0
+2008-05,The Killers,0
+2008-05,The White Stripes,1
+2008-05,Travis,0
+2008-06,Arctic Monkeys,0
+2008-06,Bloc Party,0
+2008-06,Coldplay,0
+2008-06,Die Fantastischen Vier,0
+2008-06,Faithless,0
+2008-06,Fatboy Slim,0
+2008-06,Flogging Molly,0
+2008-06,Foo Fighters,0
+2008-06,Jack Johnson,0
+2008-06,Kanye West,0
+2008-06,Manu Chao,0
+2008-06,Massive Attack,0
+2008-06,Modest Mouse,0
+2008-06,Morcheeba,0
+2008-06,Muse,0
+2008-06,Orishas,0
+2008-06,Rjd2,0
+2008-06,The Killers,0
+2008-06,The White Stripes,0
+2008-06,Travis,0
+2008-07,Arctic Monkeys,0
+2008-07,Bloc Party,0
+2008-07,Coldplay,3
+2008-07,Die Fantastischen Vier,0
+2008-07,Faithless,0
+2008-07,Fatboy Slim,0
+2008-07,Flogging Molly,0
+2008-07,Foo Fighters,2
+2008-07,Jack Johnson,7
+2008-07,Kanye West,0
+2008-07,Manu Chao,5
+2008-07,Massive Attack,1
+2008-07,Modest Mouse,0
+2008-07,Morcheeba,11
+2008-07,Muse,0
+2008-07,Orishas,0
+2008-07,Rjd2,0
+2008-07,The Killers,0
+2008-07,The White Stripes,0
+2008-07,Travis,8
+2008-08,Arctic Monkeys,0
+2008-08,Bloc Party,0
+2008-08,Coldplay,2
+2008-08,Die Fantastischen Vier,0
+2008-08,Faithless,0
+2008-08,Fatboy Slim,0
+2008-08,Flogging Molly,0
+2008-08,Foo Fighters,0
+2008-08,Jack Johnson,0
+2008-08,Kanye West,6
+2008-08,Manu Chao,0
+2008-08,Massive Attack,0
+2008-08,Modest Mouse,0
+2008-08,Morcheeba,0
+2008-08,Muse,0
+2008-08,Orishas,0
+2008-08,Rjd2,0
+2008-08,The Killers,0
+2008-08,The White Stripes,0
+2008-08,Travis,0
+2008-09,Arctic Monkeys,0
+2008-09,Bloc Party,2
+2008-09,Coldplay,6
+2008-09,Die Fantastischen Vier,1
+2008-09,Faithless,1
+2008-09,Fatboy Slim,13
+2008-09,Flogging Molly,5
+2008-09,Foo Fighters,0
+2008-09,Jack Johnson,0
+2008-09,Kanye West,0
+2008-09,Manu Chao,1
+2008-09,Massive Attack,25
+2008-09,Modest Mouse,0
+2008-09,Morcheeba,0
+2008-09,Muse,24
+2008-09,Orishas,0
+2008-09,Rjd2,1
+2008-09,The Killers,0
+2008-09,The White Stripes,2
+2008-09,Travis,8
+2008-10,Arctic Monkeys,0
+2008-10,Bloc Party,0
+2008-10,Coldplay,25
+2008-10,Die Fantastischen Vier,1
+2008-10,Faithless,7
+2008-10,Fatboy Slim,6
+2008-10,Flogging Molly,12
+2008-10,Foo Fighters,11
+2008-10,Jack Johnson,0
+2008-10,Kanye West,9
+2008-10,Manu Chao,6
+2008-10,Massive Attack,2
+2008-10,Modest Mouse,0
+2008-10,Morcheeba,1
+2008-10,Muse,1
+2008-10,Orishas,6
+2008-10,Rjd2,15
+2008-10,The Killers,25
+2008-10,The White Stripes,0
+2008-10,Travis,2
+2008-11,Arctic Monkeys,1
+2008-11,Bloc Party,43
+2008-11,Coldplay,15
+2008-11,Die Fantastischen Vier,7
+2008-11,Faithless,4
+2008-11,Fatboy Slim,11
+2008-11,Flogging Molly,33
+2008-11,Foo Fighters,18
+2008-11,Jack Johnson,2
+2008-11,Kanye West,18
+2008-11,Manu Chao,5
+2008-11,Massive Attack,4
+2008-11,Modest Mouse,3
+2008-11,Morcheeba,30
+2008-11,Muse,1
+2008-11,Orishas,1
+2008-11,Rjd2,4
+2008-11,The Killers,11
+2008-11,The White Stripes,0
+2008-11,Travis,2
+2008-12,Arctic Monkeys,0
+2008-12,Bloc Party,13
+2008-12,Coldplay,27
+2008-12,Die Fantastischen Vier,10
+2008-12,Faithless,2
+2008-12,Fatboy Slim,0
+2008-12,Flogging Molly,15
+2008-12,Foo Fighters,2
+2008-12,Jack Johnson,0
+2008-12,Kanye West,23
+2008-12,Manu Chao,3
+2008-12,Massive Attack,1
+2008-12,Modest Mouse,0
+2008-12,Morcheeba,4
+2008-12,Muse,3
+2008-12,Orishas,0
+2008-12,Rjd2,0
+2008-12,The Killers,0
+2008-12,The White Stripes,3
+2008-12,Travis,0
+2009-01,Arctic Monkeys,0
+2009-01,Bloc Party,8
+2009-01,Coldplay,2
+2009-01,Die Fantastischen Vier,0
+2009-01,Faithless,1
+2009-01,Fatboy Slim,0
+2009-01,Flogging Molly,2
+2009-01,Foo Fighters,12
+2009-01,Jack Johnson,21
+2009-01,Kanye West,16
+2009-01,Manu Chao,2
+2009-01,Massive Attack,6
+2009-01,Modest Mouse,6
+2009-01,Morcheeba,9
+2009-01,Muse,5
+2009-01,Orishas,0
+2009-01,Rjd2,21
+2009-01,The Killers,0
+2009-01,The White Stripes,2
+2009-01,Travis,13
+2009-02,Arctic Monkeys,2
+2009-02,Bloc Party,8
+2009-02,Coldplay,18
+2009-02,Die Fantastischen Vier,0
+2009-02,Faithless,0
+2009-02,Fatboy Slim,1
+2009-02,Flogging Molly,2
+2009-02,Foo Fighters,1
+2009-02,Jack Johnson,5
+2009-02,Kanye West,3
+2009-02,Manu Chao,1
+2009-02,Massive Attack,0
+2009-02,Modest Mouse,1
+2009-02,Morcheeba,1
+2009-02,Muse,8
+2009-02,Orishas,4
+2009-02,Rjd2,4
+2009-02,The Killers,1
+2009-02,The White Stripes,0
+2009-02,Travis,3
+2009-03,Arctic Monkeys,2
+2009-03,Bloc Party,7
+2009-03,Coldplay,16
+2009-03,Die Fantastischen Vier,2
+2009-03,Faithless,1
+2009-03,Fatboy Slim,2
+2009-03,Flogging Molly,0
+2009-03,Foo Fighters,3
+2009-03,Jack Johnson,4
+2009-03,Kanye West,1
+2009-03,Manu Chao,2
+2009-03,Massive Attack,1
+2009-03,Modest Mouse,1
+2009-03,Morcheeba,1
+2009-03,Muse,1
+2009-03,Orishas,2
+2009-03,Rjd2,2
+2009-03,The Killers,1
+2009-03,The White Stripes,3
+2009-03,Travis,0
+2009-04,Arctic Monkeys,0
+2009-04,Bloc Party,4
+2009-04,Coldplay,2
+2009-04,Die Fantastischen Vier,0
+2009-04,Faithless,1
+2009-04,Fatboy Slim,4
+2009-04,Flogging Molly,1
+2009-04,Foo Fighters,0
+2009-04,Jack Johnson,1
+2009-04,Kanye West,0
+2009-04,Manu Chao,1
+2009-04,Massive Attack,7
+2009-04,Modest Mouse,6
+2009-04,Morcheeba,1
+2009-04,Muse,0
+2009-04,Orishas,1
+2009-04,Rjd2,12
+2009-04,The Killers,0
+2009-04,The White Stripes,0
+2009-04,Travis,2
+2009-05,Arctic Monkeys,1
+2009-05,Bloc Party,3
+2009-05,Coldplay,0
+2009-05,Die Fantastischen Vier,0
+2009-05,Faithless,0
+2009-05,Fatboy Slim,0
+2009-05,Flogging Molly,1
+2009-05,Foo Fighters,0
+2009-05,Jack Johnson,0
+2009-05,Kanye West,0
+2009-05,Manu Chao,0
+2009-05,Massive Attack,0
+2009-05,Modest Mouse,3
+2009-05,Morcheeba,0
+2009-05,Muse,2
+2009-05,Orishas,0
+2009-05,Rjd2,0
+2009-05,The Killers,1
+2009-05,The White Stripes,2
+2009-05,Travis,0

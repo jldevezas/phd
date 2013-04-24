@@ -1,0 +1,721 @@
+month,artist,plays
+2006-05,Air,5
+2006-05,Animal Collective,14
+2006-05,Bauhaus,165
+2006-05,Björk,10
+2006-05,David Bowie,48
+2006-05,Joy Division,31
+2006-05,Ladytron,7
+2006-05,Le Tigre,68
+2006-05,Morrissey,13
+2006-05,Nick Cave & The Bad Seeds,7
+2006-05,Nine Inch Nails,30
+2006-05,Pixies,18
+2006-05,Siouxsie And The Banshees,8
+2006-05,Sonic Youth,215
+2006-05,The Clash,11
+2006-05,The Cure,236
+2006-05,The Smiths,729
+2006-05,Tom Waits,11
+2006-05,Tori Amos,37
+2006-05,Wolf Parade,9
+2006-06,Air,4
+2006-06,Animal Collective,4
+2006-06,Bauhaus,181
+2006-06,Björk,4
+2006-06,David Bowie,460
+2006-06,Joy Division,97
+2006-06,Ladytron,2
+2006-06,Le Tigre,31
+2006-06,Morrissey,0
+2006-06,Nick Cave & The Bad Seeds,5
+2006-06,Nine Inch Nails,2
+2006-06,Pixies,5
+2006-06,Siouxsie And The Banshees,2
+2006-06,Sonic Youth,427
+2006-06,The Clash,19
+2006-06,The Cure,151
+2006-06,The Smiths,311
+2006-06,Tom Waits,54
+2006-06,Tori Amos,18
+2006-06,Wolf Parade,2
+2006-07,Air,20
+2006-07,Animal Collective,6
+2006-07,Bauhaus,12
+2006-07,Björk,14
+2006-07,David Bowie,42
+2006-07,Joy Division,180
+2006-07,Ladytron,116
+2006-07,Le Tigre,81
+2006-07,Morrissey,13
+2006-07,Nick Cave & The Bad Seeds,1
+2006-07,Nine Inch Nails,3
+2006-07,Pixies,30
+2006-07,Siouxsie And The Banshees,7
+2006-07,Sonic Youth,99
+2006-07,The Clash,14
+2006-07,The Cure,140
+2006-07,The Smiths,148
+2006-07,Tom Waits,46
+2006-07,Tori Amos,120
+2006-07,Wolf Parade,1
+2006-08,Air,3
+2006-08,Animal Collective,2
+2006-08,Bauhaus,0
+2006-08,Björk,1
+2006-08,David Bowie,0
+2006-08,Joy Division,10
+2006-08,Ladytron,0
+2006-08,Le Tigre,12
+2006-08,Morrissey,0
+2006-08,Nick Cave & The Bad Seeds,0
+2006-08,Nine Inch Nails,0
+2006-08,Pixies,0
+2006-08,Siouxsie And The Banshees,3
+2006-08,Sonic Youth,16
+2006-08,The Clash,4
+2006-08,The Cure,5
+2006-08,The Smiths,48
+2006-08,Tom Waits,22
+2006-08,Tori Amos,31
+2006-08,Wolf Parade,3
+2006-09,Air,0
+2006-09,Animal Collective,0
+2006-09,Bauhaus,0
+2006-09,Björk,0
+2006-09,David Bowie,0
+2006-09,Joy Division,0
+2006-09,Ladytron,0
+2006-09,Le Tigre,0
+2006-09,Morrissey,0
+2006-09,Nick Cave & The Bad Seeds,0
+2006-09,Nine Inch Nails,0
+2006-09,Pixies,0
+2006-09,Siouxsie And The Banshees,0
+2006-09,Sonic Youth,0
+2006-09,The Clash,0
+2006-09,The Cure,0
+2006-09,The Smiths,0
+2006-09,Tom Waits,0
+2006-09,Tori Amos,0
+2006-09,Wolf Parade,0
+2006-10,Air,0
+2006-10,Animal Collective,0
+2006-10,Bauhaus,0
+2006-10,Björk,0
+2006-10,David Bowie,0
+2006-10,Joy Division,0
+2006-10,Ladytron,0
+2006-10,Le Tigre,0
+2006-10,Morrissey,0
+2006-10,Nick Cave & The Bad Seeds,0
+2006-10,Nine Inch Nails,0
+2006-10,Pixies,0
+2006-10,Siouxsie And The Banshees,0
+2006-10,Sonic Youth,0
+2006-10,The Clash,0
+2006-10,The Cure,0
+2006-10,The Smiths,0
+2006-10,Tom Waits,0
+2006-10,Tori Amos,0
+2006-10,Wolf Parade,0
+2006-11,Air,2
+2006-11,Animal Collective,0
+2006-11,Bauhaus,3
+2006-11,Björk,3
+2006-11,David Bowie,4
+2006-11,Joy Division,3
+2006-11,Ladytron,5
+2006-11,Le Tigre,3
+2006-11,Morrissey,5
+2006-11,Nick Cave & The Bad Seeds,2
+2006-11,Nine Inch Nails,3
+2006-11,Pixies,4
+2006-11,Siouxsie And The Banshees,4
+2006-11,Sonic Youth,1
+2006-11,The Clash,5
+2006-11,The Cure,7
+2006-11,The Smiths,7
+2006-11,Tom Waits,4
+2006-11,Tori Amos,2
+2006-11,Wolf Parade,1
+2006-12,Air,2
+2006-12,Animal Collective,1
+2006-12,Bauhaus,3
+2006-12,Björk,1
+2006-12,David Bowie,1
+2006-12,Joy Division,3
+2006-12,Ladytron,6
+2006-12,Le Tigre,3
+2006-12,Morrissey,1
+2006-12,Nick Cave & The Bad Seeds,1
+2006-12,Nine Inch Nails,3
+2006-12,Pixies,3
+2006-12,Siouxsie And The Banshees,0
+2006-12,Sonic Youth,3
+2006-12,The Clash,1
+2006-12,The Cure,2
+2006-12,The Smiths,5
+2006-12,Tom Waits,2
+2006-12,Tori Amos,2
+2006-12,Wolf Parade,2
+2007-01,Air,1
+2007-01,Animal Collective,39
+2007-01,Bauhaus,72
+2007-01,Björk,10
+2007-01,David Bowie,192
+2007-01,Joy Division,403
+2007-01,Ladytron,2
+2007-01,Le Tigre,13
+2007-01,Morrissey,52
+2007-01,Nick Cave & The Bad Seeds,2
+2007-01,Nine Inch Nails,1
+2007-01,Pixies,52
+2007-01,Siouxsie And The Banshees,2
+2007-01,Sonic Youth,202
+2007-01,The Clash,2
+2007-01,The Cure,125
+2007-01,The Smiths,179
+2007-01,Tom Waits,48
+2007-01,Tori Amos,107
+2007-01,Wolf Parade,17
+2007-02,Air,0
+2007-02,Animal Collective,0
+2007-02,Bauhaus,0
+2007-02,Björk,0
+2007-02,David Bowie,0
+2007-02,Joy Division,0
+2007-02,Ladytron,0
+2007-02,Le Tigre,0
+2007-02,Morrissey,0
+2007-02,Nick Cave & The Bad Seeds,0
+2007-02,Nine Inch Nails,0
+2007-02,Pixies,0
+2007-02,Siouxsie And The Banshees,0
+2007-02,Sonic Youth,0
+2007-02,The Clash,0
+2007-02,The Cure,0
+2007-02,The Smiths,0
+2007-02,Tom Waits,0
+2007-02,Tori Amos,0
+2007-02,Wolf Parade,0
+2007-03,Air,0
+2007-03,Animal Collective,0
+2007-03,Bauhaus,0
+2007-03,Björk,0
+2007-03,David Bowie,0
+2007-03,Joy Division,0
+2007-03,Ladytron,0
+2007-03,Le Tigre,0
+2007-03,Morrissey,0
+2007-03,Nick Cave & The Bad Seeds,0
+2007-03,Nine Inch Nails,0
+2007-03,Pixies,0
+2007-03,Siouxsie And The Banshees,0
+2007-03,Sonic Youth,0
+2007-03,The Clash,0
+2007-03,The Cure,0
+2007-03,The Smiths,0
+2007-03,Tom Waits,0
+2007-03,Tori Amos,0
+2007-03,Wolf Parade,0
+2007-04,Air,0
+2007-04,Animal Collective,0
+2007-04,Bauhaus,1
+2007-04,Björk,0
+2007-04,David Bowie,1
+2007-04,Joy Division,3
+2007-04,Ladytron,2
+2007-04,Le Tigre,0
+2007-04,Morrissey,0
+2007-04,Nick Cave & The Bad Seeds,1
+2007-04,Nine Inch Nails,0
+2007-04,Pixies,1
+2007-04,Siouxsie And The Banshees,2
+2007-04,Sonic Youth,1
+2007-04,The Clash,2
+2007-04,The Cure,1
+2007-04,The Smiths,1
+2007-04,Tom Waits,0
+2007-04,Tori Amos,0
+2007-04,Wolf Parade,0
+2007-05,Air,1
+2007-05,Animal Collective,1
+2007-05,Bauhaus,1
+2007-05,Björk,3
+2007-05,David Bowie,3
+2007-05,Joy Division,2
+2007-05,Ladytron,1
+2007-05,Le Tigre,1
+2007-05,Morrissey,5
+2007-05,Nick Cave & The Bad Seeds,3
+2007-05,Nine Inch Nails,3
+2007-05,Pixies,4
+2007-05,Siouxsie And The Banshees,2
+2007-05,Sonic Youth,3
+2007-05,The Clash,3
+2007-05,The Cure,5
+2007-05,The Smiths,7
+2007-05,Tom Waits,1
+2007-05,Tori Amos,5
+2007-05,Wolf Parade,0
+2007-06,Air,0
+2007-06,Animal Collective,0
+2007-06,Bauhaus,0
+2007-06,Björk,0
+2007-06,David Bowie,0
+2007-06,Joy Division,0
+2007-06,Ladytron,0
+2007-06,Le Tigre,0
+2007-06,Morrissey,0
+2007-06,Nick Cave & The Bad Seeds,0
+2007-06,Nine Inch Nails,0
+2007-06,Pixies,0
+2007-06,Siouxsie And The Banshees,0
+2007-06,Sonic Youth,0
+2007-06,The Clash,0
+2007-06,The Cure,0
+2007-06,The Smiths,0
+2007-06,Tom Waits,0
+2007-06,Tori Amos,0
+2007-06,Wolf Parade,0
+2007-07,Air,0
+2007-07,Animal Collective,0
+2007-07,Bauhaus,0
+2007-07,Björk,0
+2007-07,David Bowie,0
+2007-07,Joy Division,0
+2007-07,Ladytron,0
+2007-07,Le Tigre,0
+2007-07,Morrissey,0
+2007-07,Nick Cave & The Bad Seeds,0
+2007-07,Nine Inch Nails,0
+2007-07,Pixies,0
+2007-07,Siouxsie And The Banshees,0
+2007-07,Sonic Youth,0
+2007-07,The Clash,0
+2007-07,The Cure,0
+2007-07,The Smiths,0
+2007-07,Tom Waits,0
+2007-07,Tori Amos,1
+2007-07,Wolf Parade,0
+2007-08,Air,1
+2007-08,Animal Collective,24
+2007-08,Bauhaus,7
+2007-08,Björk,5
+2007-08,David Bowie,27
+2007-08,Joy Division,91
+2007-08,Ladytron,51
+2007-08,Le Tigre,113
+2007-08,Morrissey,34
+2007-08,Nick Cave & The Bad Seeds,14
+2007-08,Nine Inch Nails,40
+2007-08,Pixies,72
+2007-08,Siouxsie And The Banshees,1
+2007-08,Sonic Youth,28
+2007-08,The Clash,40
+2007-08,The Cure,47
+2007-08,The Smiths,105
+2007-08,Tom Waits,181
+2007-08,Tori Amos,79
+2007-08,Wolf Parade,63
+2007-09,Air,0
+2007-09,Animal Collective,6
+2007-09,Bauhaus,1
+2007-09,Björk,1
+2007-09,David Bowie,9
+2007-09,Joy Division,5
+2007-09,Ladytron,3
+2007-09,Le Tigre,34
+2007-09,Morrissey,2
+2007-09,Nick Cave & The Bad Seeds,0
+2007-09,Nine Inch Nails,1
+2007-09,Pixies,16
+2007-09,Siouxsie And The Banshees,1
+2007-09,Sonic Youth,9
+2007-09,The Clash,4
+2007-09,The Cure,6
+2007-09,The Smiths,5
+2007-09,Tom Waits,29
+2007-09,Tori Amos,3
+2007-09,Wolf Parade,1
+2007-10,Air,0
+2007-10,Animal Collective,1
+2007-10,Bauhaus,0
+2007-10,Björk,0
+2007-10,David Bowie,2
+2007-10,Joy Division,1
+2007-10,Ladytron,3
+2007-10,Le Tigre,2
+2007-10,Morrissey,0
+2007-10,Nick Cave & The Bad Seeds,0
+2007-10,Nine Inch Nails,0
+2007-10,Pixies,1
+2007-10,Siouxsie And The Banshees,0
+2007-10,Sonic Youth,0
+2007-10,The Clash,0
+2007-10,The Cure,1
+2007-10,The Smiths,2
+2007-10,Tom Waits,1
+2007-10,Tori Amos,0
+2007-10,Wolf Parade,1
+2007-11,Air,1
+2007-11,Animal Collective,0
+2007-11,Bauhaus,2
+2007-11,Björk,0
+2007-11,David Bowie,0
+2007-11,Joy Division,2
+2007-11,Ladytron,0
+2007-11,Le Tigre,0
+2007-11,Morrissey,1
+2007-11,Nick Cave & The Bad Seeds,1
+2007-11,Nine Inch Nails,1
+2007-11,Pixies,1
+2007-11,Siouxsie And The Banshees,0
+2007-11,Sonic Youth,1
+2007-11,The Clash,0
+2007-11,The Cure,0
+2007-11,The Smiths,0
+2007-11,Tom Waits,0
+2007-11,Tori Amos,0
+2007-11,Wolf Parade,0
+2007-12,Air,1
+2007-12,Animal Collective,5
+2007-12,Bauhaus,1
+2007-12,Björk,2
+2007-12,David Bowie,1
+2007-12,Joy Division,4
+2007-12,Ladytron,4
+2007-12,Le Tigre,2
+2007-12,Morrissey,1
+2007-12,Nick Cave & The Bad Seeds,1
+2007-12,Nine Inch Nails,1
+2007-12,Pixies,0
+2007-12,Siouxsie And The Banshees,1
+2007-12,Sonic Youth,0
+2007-12,The Clash,0
+2007-12,The Cure,2
+2007-12,The Smiths,2
+2007-12,Tom Waits,0
+2007-12,Tori Amos,1
+2007-12,Wolf Parade,5
+2008-01,Air,0
+2008-01,Animal Collective,1
+2008-01,Bauhaus,0
+2008-01,Björk,0
+2008-01,David Bowie,2
+2008-01,Joy Division,25
+2008-01,Ladytron,0
+2008-01,Le Tigre,3
+2008-01,Morrissey,1
+2008-01,Nick Cave & The Bad Seeds,3
+2008-01,Nine Inch Nails,3
+2008-01,Pixies,8
+2008-01,Siouxsie And The Banshees,2
+2008-01,Sonic Youth,27
+2008-01,The Clash,2
+2008-01,The Cure,3
+2008-01,The Smiths,10
+2008-01,Tom Waits,2
+2008-01,Tori Amos,19
+2008-01,Wolf Parade,1
+2008-02,Air,1
+2008-02,Animal Collective,30
+2008-02,Bauhaus,12
+2008-02,Björk,7
+2008-02,David Bowie,173
+2008-02,Joy Division,132
+2008-02,Ladytron,21
+2008-02,Le Tigre,43
+2008-02,Morrissey,28
+2008-02,Nick Cave & The Bad Seeds,11
+2008-02,Nine Inch Nails,171
+2008-02,Pixies,33
+2008-02,Siouxsie And The Banshees,15
+2008-02,Sonic Youth,123
+2008-02,The Clash,13
+2008-02,The Cure,98
+2008-02,The Smiths,347
+2008-02,Tom Waits,18
+2008-02,Tori Amos,76
+2008-02,Wolf Parade,38
+2008-03,Air,3
+2008-03,Animal Collective,55
+2008-03,Bauhaus,17
+2008-03,Björk,39
+2008-03,David Bowie,217
+2008-03,Joy Division,166
+2008-03,Ladytron,55
+2008-03,Le Tigre,4
+2008-03,Morrissey,97
+2008-03,Nick Cave & The Bad Seeds,6
+2008-03,Nine Inch Nails,1221
+2008-03,Pixies,6
+2008-03,Siouxsie And The Banshees,1
+2008-03,Sonic Youth,88
+2008-03,The Clash,59
+2008-03,The Cure,160
+2008-03,The Smiths,290
+2008-03,Tom Waits,132
+2008-03,Tori Amos,106
+2008-03,Wolf Parade,76
+2008-04,Air,1
+2008-04,Animal Collective,32
+2008-04,Bauhaus,27
+2008-04,Björk,225
+2008-04,David Bowie,86
+2008-04,Joy Division,112
+2008-04,Ladytron,18
+2008-04,Le Tigre,15
+2008-04,Morrissey,11
+2008-04,Nick Cave & The Bad Seeds,31
+2008-04,Nine Inch Nails,401
+2008-04,Pixies,23
+2008-04,Siouxsie And The Banshees,103
+2008-04,Sonic Youth,74
+2008-04,The Clash,26
+2008-04,The Cure,100
+2008-04,The Smiths,124
+2008-04,Tom Waits,40
+2008-04,Tori Amos,115
+2008-04,Wolf Parade,9
+2008-05,Air,2
+2008-05,Animal Collective,28
+2008-05,Bauhaus,36
+2008-05,Björk,207
+2008-05,David Bowie,69
+2008-05,Joy Division,717
+2008-05,Ladytron,126
+2008-05,Le Tigre,9
+2008-05,Morrissey,7
+2008-05,Nick Cave & The Bad Seeds,18
+2008-05,Nine Inch Nails,736
+2008-05,Pixies,95
+2008-05,Siouxsie And The Banshees,31
+2008-05,Sonic Youth,79
+2008-05,The Clash,18
+2008-05,The Cure,280
+2008-05,The Smiths,101
+2008-05,Tom Waits,24
+2008-05,Tori Amos,120
+2008-05,Wolf Parade,51
+2008-06,Air,4
+2008-06,Animal Collective,40
+2008-06,Bauhaus,31
+2008-06,Björk,147
+2008-06,David Bowie,49
+2008-06,Joy Division,720
+2008-06,Ladytron,13
+2008-06,Le Tigre,18
+2008-06,Morrissey,22
+2008-06,Nick Cave & The Bad Seeds,8
+2008-06,Nine Inch Nails,215
+2008-06,Pixies,48
+2008-06,Siouxsie And The Banshees,16
+2008-06,Sonic Youth,137
+2008-06,The Clash,21
+2008-06,The Cure,79
+2008-06,The Smiths,144
+2008-06,Tom Waits,72
+2008-06,Tori Amos,376
+2008-06,Wolf Parade,50
+2008-07,Air,43
+2008-07,Animal Collective,80
+2008-07,Bauhaus,12
+2008-07,Björk,266
+2008-07,David Bowie,102
+2008-07,Joy Division,311
+2008-07,Ladytron,33
+2008-07,Le Tigre,18
+2008-07,Morrissey,38
+2008-07,Nick Cave & The Bad Seeds,12
+2008-07,Nine Inch Nails,218
+2008-07,Pixies,27
+2008-07,Siouxsie And The Banshees,12
+2008-07,Sonic Youth,401
+2008-07,The Clash,183
+2008-07,The Cure,221
+2008-07,The Smiths,304
+2008-07,Tom Waits,87
+2008-07,Tori Amos,250
+2008-07,Wolf Parade,69
+2008-08,Air,53
+2008-08,Animal Collective,42
+2008-08,Bauhaus,25
+2008-08,Björk,195
+2008-08,David Bowie,99
+2008-08,Joy Division,165
+2008-08,Ladytron,22
+2008-08,Le Tigre,13
+2008-08,Morrissey,64
+2008-08,Nick Cave & The Bad Seeds,30
+2008-08,Nine Inch Nails,231
+2008-08,Pixies,33
+2008-08,Siouxsie And The Banshees,17
+2008-08,Sonic Youth,265
+2008-08,The Clash,79
+2008-08,The Cure,843
+2008-08,The Smiths,336
+2008-08,Tom Waits,36
+2008-08,Tori Amos,612
+2008-08,Wolf Parade,30
+2008-09,Air,39
+2008-09,Animal Collective,22
+2008-09,Bauhaus,29
+2008-09,Björk,530
+2008-09,David Bowie,94
+2008-09,Joy Division,216
+2008-09,Ladytron,49
+2008-09,Le Tigre,27
+2008-09,Morrissey,17
+2008-09,Nick Cave & The Bad Seeds,13
+2008-09,Nine Inch Nails,615
+2008-09,Pixies,26
+2008-09,Siouxsie And The Banshees,7
+2008-09,Sonic Youth,180
+2008-09,The Clash,43
+2008-09,The Cure,138
+2008-09,The Smiths,86
+2008-09,Tom Waits,40
+2008-09,Tori Amos,195
+2008-09,Wolf Parade,72
+2008-10,Air,5
+2008-10,Animal Collective,10
+2008-10,Bauhaus,19
+2008-10,Björk,108
+2008-10,David Bowie,76
+2008-10,Joy Division,97
+2008-10,Ladytron,7
+2008-10,Le Tigre,4
+2008-10,Morrissey,26
+2008-10,Nick Cave & The Bad Seeds,8
+2008-10,Nine Inch Nails,138
+2008-10,Pixies,35
+2008-10,Siouxsie And The Banshees,3
+2008-10,Sonic Youth,150
+2008-10,The Clash,108
+2008-10,The Cure,457
+2008-10,The Smiths,61
+2008-10,Tom Waits,22
+2008-10,Tori Amos,54
+2008-10,Wolf Parade,27
+2008-11,Air,27
+2008-11,Animal Collective,4
+2008-11,Bauhaus,4
+2008-11,Björk,72
+2008-11,David Bowie,72
+2008-11,Joy Division,92
+2008-11,Ladytron,5
+2008-11,Le Tigre,8
+2008-11,Morrissey,7
+2008-11,Nick Cave & The Bad Seeds,18
+2008-11,Nine Inch Nails,148
+2008-11,Pixies,54
+2008-11,Siouxsie And The Banshees,5
+2008-11,Sonic Youth,81
+2008-11,The Clash,80
+2008-11,The Cure,620
+2008-11,The Smiths,80
+2008-11,Tom Waits,65
+2008-11,Tori Amos,82
+2008-11,Wolf Parade,45
+2008-12,Air,4
+2008-12,Animal Collective,7
+2008-12,Bauhaus,5
+2008-12,Björk,80
+2008-12,David Bowie,97
+2008-12,Joy Division,74
+2008-12,Ladytron,15
+2008-12,Le Tigre,7
+2008-12,Morrissey,12
+2008-12,Nick Cave & The Bad Seeds,10
+2008-12,Nine Inch Nails,57
+2008-12,Pixies,36
+2008-12,Siouxsie And The Banshees,5
+2008-12,Sonic Youth,110
+2008-12,The Clash,145
+2008-12,The Cure,150
+2008-12,The Smiths,72
+2008-12,Tom Waits,43
+2008-12,Tori Amos,136
+2008-12,Wolf Parade,98
+2009-01,Air,2
+2009-01,Animal Collective,9
+2009-01,Bauhaus,18
+2009-01,Björk,34
+2009-01,David Bowie,50
+2009-01,Joy Division,153
+2009-01,Ladytron,6
+2009-01,Le Tigre,1
+2009-01,Morrissey,13
+2009-01,Nick Cave & The Bad Seeds,23
+2009-01,Nine Inch Nails,137
+2009-01,Pixies,28
+2009-01,Siouxsie And The Banshees,12
+2009-01,Sonic Youth,63
+2009-01,The Clash,130
+2009-01,The Cure,588
+2009-01,The Smiths,65
+2009-01,Tom Waits,56
+2009-01,Tori Amos,41
+2009-01,Wolf Parade,69
+2009-02,Air,3
+2009-02,Animal Collective,22
+2009-02,Bauhaus,38
+2009-02,Björk,85
+2009-02,David Bowie,50
+2009-02,Joy Division,33
+2009-02,Ladytron,4
+2009-02,Le Tigre,9
+2009-02,Morrissey,19
+2009-02,Nick Cave & The Bad Seeds,21
+2009-02,Nine Inch Nails,27
+2009-02,Pixies,14
+2009-02,Siouxsie And The Banshees,12
+2009-02,Sonic Youth,110
+2009-02,The Clash,78
+2009-02,The Cure,119
+2009-02,The Smiths,46
+2009-02,Tom Waits,45
+2009-02,Tori Amos,95
+2009-02,Wolf Parade,38
+2009-03,Air,14
+2009-03,Animal Collective,9
+2009-03,Bauhaus,22
+2009-03,Björk,33
+2009-03,David Bowie,69
+2009-03,Joy Division,41
+2009-03,Ladytron,7
+2009-03,Le Tigre,2
+2009-03,Morrissey,13
+2009-03,Nick Cave & The Bad Seeds,15
+2009-03,Nine Inch Nails,63
+2009-03,Pixies,23
+2009-03,Siouxsie And The Banshees,5
+2009-03,Sonic Youth,215
+2009-03,The Clash,20
+2009-03,The Cure,124
+2009-03,The Smiths,65
+2009-03,Tom Waits,32
+2009-03,Tori Amos,172
+2009-03,Wolf Parade,8
+2009-04,Air,15
+2009-04,Animal Collective,0
+2009-04,Bauhaus,2
+2009-04,Björk,14
+2009-04,David Bowie,44
+2009-04,Joy Division,77
+2009-04,Ladytron,21
+2009-04,Le Tigre,8
+2009-04,Morrissey,28
+2009-04,Nick Cave & The Bad Seeds,10
+2009-04,Nine Inch Nails,233
+2009-04,Pixies,8
+2009-04,Siouxsie And The Banshees,2
+2009-04,Sonic Youth,117
+2009-04,The Clash,108
+2009-04,The Cure,62
+2009-04,The Smiths,126
+2009-04,Tom Waits,31
+2009-04,Tori Amos,65
+2009-04,Wolf Parade,9

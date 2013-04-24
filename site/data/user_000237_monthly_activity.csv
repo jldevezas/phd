@@ -1,0 +1,741 @@
+month,artist,plays
+2006-04,Beck,0
+2006-04,Belle And Sebastian,0
+2006-04,Bright Eyes,0
+2006-04,Cat Power,0
+2006-04,Coldplay,0
+2006-04,Damien Rice,0
+2006-04,David Gray,0
+2006-04,Death Cab For Cutie,0
+2006-04,Depeche Mode,0
+2006-04,Editors,0
+2006-04,Elliott Smith,0
+2006-04,Eric Clapton,3
+2006-04,Feist,0
+2006-04,Jack Johnson,0
+2006-04,Jeff Buckley,0
+2006-04,Morrissey,0
+2006-04,Radiohead,0
+2006-04,Sufjan Stevens,0
+2006-04,The Cure,0
+2006-04,The Smiths,44
+2006-05,Beck,1
+2006-05,Belle And Sebastian,0
+2006-05,Bright Eyes,0
+2006-05,Cat Power,0
+2006-05,Coldplay,1
+2006-05,Damien Rice,1
+2006-05,David Gray,1
+2006-05,Death Cab For Cutie,1
+2006-05,Depeche Mode,20
+2006-05,Editors,4
+2006-05,Elliott Smith,0
+2006-05,Eric Clapton,1
+2006-05,Feist,0
+2006-05,Jack Johnson,1
+2006-05,Jeff Buckley,1
+2006-05,Morrissey,0
+2006-05,Radiohead,3
+2006-05,Sufjan Stevens,1
+2006-05,The Cure,22
+2006-05,The Smiths,53
+2006-06,Beck,0
+2006-06,Belle And Sebastian,1
+2006-06,Bright Eyes,0
+2006-06,Cat Power,0
+2006-06,Coldplay,0
+2006-06,Damien Rice,0
+2006-06,David Gray,0
+2006-06,Death Cab For Cutie,0
+2006-06,Depeche Mode,0
+2006-06,Editors,0
+2006-06,Elliott Smith,0
+2006-06,Eric Clapton,0
+2006-06,Feist,0
+2006-06,Jack Johnson,4
+2006-06,Jeff Buckley,0
+2006-06,Morrissey,0
+2006-06,Radiohead,0
+2006-06,Sufjan Stevens,1
+2006-06,The Cure,208
+2006-06,The Smiths,212
+2006-07,Beck,0
+2006-07,Belle And Sebastian,0
+2006-07,Bright Eyes,0
+2006-07,Cat Power,0
+2006-07,Coldplay,0
+2006-07,Damien Rice,0
+2006-07,David Gray,0
+2006-07,Death Cab For Cutie,0
+2006-07,Depeche Mode,3
+2006-07,Editors,0
+2006-07,Elliott Smith,0
+2006-07,Eric Clapton,0
+2006-07,Feist,0
+2006-07,Jack Johnson,0
+2006-07,Jeff Buckley,0
+2006-07,Morrissey,0
+2006-07,Radiohead,2
+2006-07,Sufjan Stevens,0
+2006-07,The Cure,13
+2006-07,The Smiths,8
+2006-08,Beck,0
+2006-08,Belle And Sebastian,0
+2006-08,Bright Eyes,0
+2006-08,Cat Power,0
+2006-08,Coldplay,0
+2006-08,Damien Rice,0
+2006-08,David Gray,0
+2006-08,Death Cab For Cutie,0
+2006-08,Depeche Mode,5
+2006-08,Editors,0
+2006-08,Elliott Smith,0
+2006-08,Eric Clapton,0
+2006-08,Feist,0
+2006-08,Jack Johnson,0
+2006-08,Jeff Buckley,0
+2006-08,Morrissey,1
+2006-08,Radiohead,0
+2006-08,Sufjan Stevens,0
+2006-08,The Cure,136
+2006-08,The Smiths,0
+2006-09,Beck,0
+2006-09,Belle And Sebastian,0
+2006-09,Bright Eyes,0
+2006-09,Cat Power,0
+2006-09,Coldplay,0
+2006-09,Damien Rice,0
+2006-09,David Gray,0
+2006-09,Death Cab For Cutie,0
+2006-09,Depeche Mode,0
+2006-09,Editors,0
+2006-09,Elliott Smith,0
+2006-09,Eric Clapton,0
+2006-09,Feist,0
+2006-09,Jack Johnson,0
+2006-09,Jeff Buckley,0
+2006-09,Morrissey,0
+2006-09,Radiohead,0
+2006-09,Sufjan Stevens,0
+2006-09,The Cure,0
+2006-09,The Smiths,0
+2006-10,Beck,0
+2006-10,Belle And Sebastian,0
+2006-10,Bright Eyes,0
+2006-10,Cat Power,0
+2006-10,Coldplay,0
+2006-10,Damien Rice,0
+2006-10,David Gray,0
+2006-10,Death Cab For Cutie,0
+2006-10,Depeche Mode,0
+2006-10,Editors,0
+2006-10,Elliott Smith,0
+2006-10,Eric Clapton,0
+2006-10,Feist,0
+2006-10,Jack Johnson,0
+2006-10,Jeff Buckley,0
+2006-10,Morrissey,0
+2006-10,Radiohead,0
+2006-10,Sufjan Stevens,0
+2006-10,The Cure,0
+2006-10,The Smiths,0
+2006-11,Beck,0
+2006-11,Belle And Sebastian,0
+2006-11,Bright Eyes,0
+2006-11,Cat Power,0
+2006-11,Coldplay,0
+2006-11,Damien Rice,0
+2006-11,David Gray,0
+2006-11,Death Cab For Cutie,0
+2006-11,Depeche Mode,0
+2006-11,Editors,0
+2006-11,Elliott Smith,0
+2006-11,Eric Clapton,0
+2006-11,Feist,0
+2006-11,Jack Johnson,0
+2006-11,Jeff Buckley,0
+2006-11,Morrissey,0
+2006-11,Radiohead,0
+2006-11,Sufjan Stevens,0
+2006-11,The Cure,0
+2006-11,The Smiths,0
+2006-12,Beck,0
+2006-12,Belle And Sebastian,0
+2006-12,Bright Eyes,0
+2006-12,Cat Power,0
+2006-12,Coldplay,0
+2006-12,Damien Rice,0
+2006-12,David Gray,0
+2006-12,Death Cab For Cutie,0
+2006-12,Depeche Mode,0
+2006-12,Editors,0
+2006-12,Elliott Smith,0
+2006-12,Eric Clapton,0
+2006-12,Feist,0
+2006-12,Jack Johnson,0
+2006-12,Jeff Buckley,0
+2006-12,Morrissey,0
+2006-12,Radiohead,0
+2006-12,Sufjan Stevens,0
+2006-12,The Cure,0
+2006-12,The Smiths,0
+2007-01,Beck,0
+2007-01,Belle And Sebastian,0
+2007-01,Bright Eyes,0
+2007-01,Cat Power,0
+2007-01,Coldplay,0
+2007-01,Damien Rice,0
+2007-01,David Gray,0
+2007-01,Death Cab For Cutie,0
+2007-01,Depeche Mode,0
+2007-01,Editors,0
+2007-01,Elliott Smith,0
+2007-01,Eric Clapton,0
+2007-01,Feist,0
+2007-01,Jack Johnson,0
+2007-01,Jeff Buckley,0
+2007-01,Morrissey,0
+2007-01,Radiohead,0
+2007-01,Sufjan Stevens,0
+2007-01,The Cure,0
+2007-01,The Smiths,0
+2007-02,Beck,5
+2007-02,Belle And Sebastian,1
+2007-02,Bright Eyes,6
+2007-02,Cat Power,0
+2007-02,Coldplay,7
+2007-02,Damien Rice,10
+2007-02,David Gray,9
+2007-02,Death Cab For Cutie,9
+2007-02,Depeche Mode,1
+2007-02,Editors,0
+2007-02,Elliott Smith,8
+2007-02,Eric Clapton,4
+2007-02,Feist,0
+2007-02,Jack Johnson,11
+2007-02,Jeff Buckley,7
+2007-02,Morrissey,0
+2007-02,Radiohead,1
+2007-02,Sufjan Stevens,6
+2007-02,The Cure,1
+2007-02,The Smiths,2
+2007-03,Beck,2
+2007-03,Belle And Sebastian,2
+2007-03,Bright Eyes,2
+2007-03,Cat Power,0
+2007-03,Coldplay,13
+2007-03,Damien Rice,11
+2007-03,David Gray,7
+2007-03,Death Cab For Cutie,3
+2007-03,Depeche Mode,19
+2007-03,Editors,1
+2007-03,Elliott Smith,1
+2007-03,Eric Clapton,1
+2007-03,Feist,0
+2007-03,Jack Johnson,1
+2007-03,Jeff Buckley,0
+2007-03,Morrissey,1
+2007-03,Radiohead,3
+2007-03,Sufjan Stevens,1
+2007-03,The Cure,13
+2007-03,The Smiths,19
+2007-04,Beck,7
+2007-04,Belle And Sebastian,0
+2007-04,Bright Eyes,2
+2007-04,Cat Power,1
+2007-04,Coldplay,8
+2007-04,Damien Rice,8
+2007-04,David Gray,7
+2007-04,Death Cab For Cutie,5
+2007-04,Depeche Mode,3
+2007-04,Editors,1
+2007-04,Elliott Smith,6
+2007-04,Eric Clapton,5
+2007-04,Feist,1
+2007-04,Jack Johnson,9
+2007-04,Jeff Buckley,6
+2007-04,Morrissey,0
+2007-04,Radiohead,2
+2007-04,Sufjan Stevens,6
+2007-04,The Cure,2
+2007-04,The Smiths,5
+2007-05,Beck,2
+2007-05,Belle And Sebastian,4
+2007-05,Bright Eyes,2
+2007-05,Cat Power,3
+2007-05,Coldplay,6
+2007-05,Damien Rice,4
+2007-05,David Gray,0
+2007-05,Death Cab For Cutie,3
+2007-05,Depeche Mode,3
+2007-05,Editors,0
+2007-05,Elliott Smith,6
+2007-05,Eric Clapton,0
+2007-05,Feist,2
+2007-05,Jack Johnson,2
+2007-05,Jeff Buckley,4
+2007-05,Morrissey,1
+2007-05,Radiohead,4
+2007-05,Sufjan Stevens,3
+2007-05,The Cure,3
+2007-05,The Smiths,2
+2007-06,Beck,1
+2007-06,Belle And Sebastian,0
+2007-06,Bright Eyes,0
+2007-06,Cat Power,6
+2007-06,Coldplay,0
+2007-06,Damien Rice,2
+2007-06,David Gray,1
+2007-06,Death Cab For Cutie,0
+2007-06,Depeche Mode,0
+2007-06,Editors,0
+2007-06,Elliott Smith,1
+2007-06,Eric Clapton,55
+2007-06,Feist,0
+2007-06,Jack Johnson,6
+2007-06,Jeff Buckley,1
+2007-06,Morrissey,0
+2007-06,Radiohead,1
+2007-06,Sufjan Stevens,0
+2007-06,The Cure,0
+2007-06,The Smiths,16
+2007-07,Beck,1
+2007-07,Belle And Sebastian,0
+2007-07,Bright Eyes,1
+2007-07,Cat Power,1
+2007-07,Coldplay,0
+2007-07,Damien Rice,1
+2007-07,David Gray,0
+2007-07,Death Cab For Cutie,0
+2007-07,Depeche Mode,2
+2007-07,Editors,0
+2007-07,Elliott Smith,1
+2007-07,Eric Clapton,1
+2007-07,Feist,0
+2007-07,Jack Johnson,1
+2007-07,Jeff Buckley,1
+2007-07,Morrissey,0
+2007-07,Radiohead,0
+2007-07,Sufjan Stevens,0
+2007-07,The Cure,0
+2007-07,The Smiths,0
+2007-08,Beck,0
+2007-08,Belle And Sebastian,0
+2007-08,Bright Eyes,0
+2007-08,Cat Power,2
+2007-08,Coldplay,0
+2007-08,Damien Rice,0
+2007-08,David Gray,0
+2007-08,Death Cab For Cutie,0
+2007-08,Depeche Mode,11
+2007-08,Editors,0
+2007-08,Elliott Smith,0
+2007-08,Eric Clapton,0
+2007-08,Feist,0
+2007-08,Jack Johnson,5
+2007-08,Jeff Buckley,0
+2007-08,Morrissey,0
+2007-08,Radiohead,0
+2007-08,Sufjan Stevens,0
+2007-08,The Cure,42
+2007-08,The Smiths,64
+2007-09,Beck,0
+2007-09,Belle And Sebastian,0
+2007-09,Bright Eyes,0
+2007-09,Cat Power,5
+2007-09,Coldplay,0
+2007-09,Damien Rice,0
+2007-09,David Gray,0
+2007-09,Death Cab For Cutie,0
+2007-09,Depeche Mode,0
+2007-09,Editors,0
+2007-09,Elliott Smith,0
+2007-09,Eric Clapton,30
+2007-09,Feist,0
+2007-09,Jack Johnson,0
+2007-09,Jeff Buckley,0
+2007-09,Morrissey,0
+2007-09,Radiohead,0
+2007-09,Sufjan Stevens,0
+2007-09,The Cure,0
+2007-09,The Smiths,0
+2007-10,Beck,0
+2007-10,Belle And Sebastian,0
+2007-10,Bright Eyes,0
+2007-10,Cat Power,0
+2007-10,Coldplay,0
+2007-10,Damien Rice,0
+2007-10,David Gray,0
+2007-10,Death Cab For Cutie,0
+2007-10,Depeche Mode,0
+2007-10,Editors,0
+2007-10,Elliott Smith,0
+2007-10,Eric Clapton,0
+2007-10,Feist,0
+2007-10,Jack Johnson,0
+2007-10,Jeff Buckley,0
+2007-10,Morrissey,0
+2007-10,Radiohead,0
+2007-10,Sufjan Stevens,0
+2007-10,The Cure,0
+2007-10,The Smiths,0
+2007-11,Beck,2
+2007-11,Belle And Sebastian,1
+2007-11,Bright Eyes,1
+2007-11,Cat Power,2
+2007-11,Coldplay,1
+2007-11,Damien Rice,3
+2007-11,David Gray,1
+2007-11,Death Cab For Cutie,3
+2007-11,Depeche Mode,0
+2007-11,Editors,0
+2007-11,Elliott Smith,3
+2007-11,Eric Clapton,8
+2007-11,Feist,1
+2007-11,Jack Johnson,3
+2007-11,Jeff Buckley,25
+2007-11,Morrissey,1
+2007-11,Radiohead,2
+2007-11,Sufjan Stevens,1
+2007-11,The Cure,32
+2007-11,The Smiths,0
+2007-12,Beck,0
+2007-12,Belle And Sebastian,1
+2007-12,Bright Eyes,1
+2007-12,Cat Power,0
+2007-12,Coldplay,0
+2007-12,Damien Rice,0
+2007-12,David Gray,0
+2007-12,Death Cab For Cutie,0
+2007-12,Depeche Mode,0
+2007-12,Editors,1
+2007-12,Elliott Smith,1
+2007-12,Eric Clapton,0
+2007-12,Feist,1
+2007-12,Jack Johnson,2
+2007-12,Jeff Buckley,0
+2007-12,Morrissey,1
+2007-12,Radiohead,4
+2007-12,Sufjan Stevens,1
+2007-12,The Cure,13
+2007-12,The Smiths,1
+2008-01,Beck,0
+2008-01,Belle And Sebastian,0
+2008-01,Bright Eyes,0
+2008-01,Cat Power,0
+2008-01,Coldplay,0
+2008-01,Damien Rice,0
+2008-01,David Gray,0
+2008-01,Death Cab For Cutie,0
+2008-01,Depeche Mode,1
+2008-01,Editors,0
+2008-01,Elliott Smith,0
+2008-01,Eric Clapton,0
+2008-01,Feist,0
+2008-01,Jack Johnson,0
+2008-01,Jeff Buckley,0
+2008-01,Morrissey,0
+2008-01,Radiohead,1
+2008-01,Sufjan Stevens,0
+2008-01,The Cure,2
+2008-01,The Smiths,0
+2008-02,Beck,0
+2008-02,Belle And Sebastian,0
+2008-02,Bright Eyes,0
+2008-02,Cat Power,56
+2008-02,Coldplay,0
+2008-02,Damien Rice,0
+2008-02,David Gray,1
+2008-02,Death Cab For Cutie,0
+2008-02,Depeche Mode,0
+2008-02,Editors,0
+2008-02,Elliott Smith,1
+2008-02,Eric Clapton,10
+2008-02,Feist,29
+2008-02,Jack Johnson,0
+2008-02,Jeff Buckley,13
+2008-02,Morrissey,1
+2008-02,Radiohead,3
+2008-02,Sufjan Stevens,0
+2008-02,The Cure,6
+2008-02,The Smiths,0
+2008-03,Beck,0
+2008-03,Belle And Sebastian,0
+2008-03,Bright Eyes,0
+2008-03,Cat Power,2
+2008-03,Coldplay,0
+2008-03,Damien Rice,0
+2008-03,David Gray,1
+2008-03,Death Cab For Cutie,0
+2008-03,Depeche Mode,0
+2008-03,Editors,1
+2008-03,Elliott Smith,0
+2008-03,Eric Clapton,0
+2008-03,Feist,3
+2008-03,Jack Johnson,0
+2008-03,Jeff Buckley,0
+2008-03,Morrissey,2
+2008-03,Radiohead,0
+2008-03,Sufjan Stevens,0
+2008-03,The Cure,9
+2008-03,The Smiths,0
+2008-04,Beck,0
+2008-04,Belle And Sebastian,0
+2008-04,Bright Eyes,0
+2008-04,Cat Power,0
+2008-04,Coldplay,0
+2008-04,Damien Rice,0
+2008-04,David Gray,0
+2008-04,Death Cab For Cutie,0
+2008-04,Depeche Mode,0
+2008-04,Editors,0
+2008-04,Elliott Smith,0
+2008-04,Eric Clapton,0
+2008-04,Feist,0
+2008-04,Jack Johnson,0
+2008-04,Jeff Buckley,0
+2008-04,Morrissey,0
+2008-04,Radiohead,0
+2008-04,Sufjan Stevens,0
+2008-04,The Cure,0
+2008-04,The Smiths,0
+2008-05,Beck,3
+2008-05,Belle And Sebastian,0
+2008-05,Bright Eyes,0
+2008-05,Cat Power,1
+2008-05,Coldplay,0
+2008-05,Damien Rice,11
+2008-05,David Gray,0
+2008-05,Death Cab For Cutie,9
+2008-05,Depeche Mode,0
+2008-05,Editors,4
+2008-05,Elliott Smith,1
+2008-05,Eric Clapton,0
+2008-05,Feist,1
+2008-05,Jack Johnson,0
+2008-05,Jeff Buckley,0
+2008-05,Morrissey,3
+2008-05,Radiohead,3
+2008-05,Sufjan Stevens,1
+2008-05,The Cure,1
+2008-05,The Smiths,0
+2008-06,Beck,0
+2008-06,Belle And Sebastian,1
+2008-06,Bright Eyes,0
+2008-06,Cat Power,0
+2008-06,Coldplay,0
+2008-06,Damien Rice,20
+2008-06,David Gray,1
+2008-06,Death Cab For Cutie,0
+2008-06,Depeche Mode,0
+2008-06,Editors,0
+2008-06,Elliott Smith,1
+2008-06,Eric Clapton,0
+2008-06,Feist,1
+2008-06,Jack Johnson,0
+2008-06,Jeff Buckley,0
+2008-06,Morrissey,0
+2008-06,Radiohead,0
+2008-06,Sufjan Stevens,0
+2008-06,The Cure,0
+2008-06,The Smiths,0
+2008-07,Beck,0
+2008-07,Belle And Sebastian,0
+2008-07,Bright Eyes,0
+2008-07,Cat Power,0
+2008-07,Coldplay,0
+2008-07,Damien Rice,0
+2008-07,David Gray,0
+2008-07,Death Cab For Cutie,0
+2008-07,Depeche Mode,0
+2008-07,Editors,0
+2008-07,Elliott Smith,0
+2008-07,Eric Clapton,0
+2008-07,Feist,0
+2008-07,Jack Johnson,0
+2008-07,Jeff Buckley,0
+2008-07,Morrissey,0
+2008-07,Radiohead,0
+2008-07,Sufjan Stevens,0
+2008-07,The Cure,0
+2008-07,The Smiths,0
+2008-08,Beck,0
+2008-08,Belle And Sebastian,0
+2008-08,Bright Eyes,0
+2008-08,Cat Power,0
+2008-08,Coldplay,0
+2008-08,Damien Rice,0
+2008-08,David Gray,0
+2008-08,Death Cab For Cutie,7
+2008-08,Depeche Mode,0
+2008-08,Editors,2
+2008-08,Elliott Smith,3
+2008-08,Eric Clapton,0
+2008-08,Feist,20
+2008-08,Jack Johnson,0
+2008-08,Jeff Buckley,0
+2008-08,Morrissey,0
+2008-08,Radiohead,4
+2008-08,Sufjan Stevens,0
+2008-08,The Cure,41
+2008-08,The Smiths,26
+2008-09,Beck,0
+2008-09,Belle And Sebastian,1
+2008-09,Bright Eyes,1
+2008-09,Cat Power,13
+2008-09,Coldplay,0
+2008-09,Damien Rice,45
+2008-09,David Gray,0
+2008-09,Death Cab For Cutie,14
+2008-09,Depeche Mode,0
+2008-09,Editors,1
+2008-09,Elliott Smith,0
+2008-09,Eric Clapton,0
+2008-09,Feist,10
+2008-09,Jack Johnson,1
+2008-09,Jeff Buckley,10
+2008-09,Morrissey,1
+2008-09,Radiohead,2
+2008-09,Sufjan Stevens,1
+2008-09,The Cure,31
+2008-09,The Smiths,15
+2008-10,Beck,1
+2008-10,Belle And Sebastian,2
+2008-10,Bright Eyes,2
+2008-10,Cat Power,15
+2008-10,Coldplay,1
+2008-10,Damien Rice,2
+2008-10,David Gray,2
+2008-10,Death Cab For Cutie,4
+2008-10,Depeche Mode,2
+2008-10,Editors,5
+2008-10,Elliott Smith,1
+2008-10,Eric Clapton,0
+2008-10,Feist,6
+2008-10,Jack Johnson,0
+2008-10,Jeff Buckley,0
+2008-10,Morrissey,4
+2008-10,Radiohead,23
+2008-10,Sufjan Stevens,1
+2008-10,The Cure,16
+2008-10,The Smiths,1
+2008-11,Beck,0
+2008-11,Belle And Sebastian,0
+2008-11,Bright Eyes,0
+2008-11,Cat Power,10
+2008-11,Coldplay,0
+2008-11,Damien Rice,0
+2008-11,David Gray,0
+2008-11,Death Cab For Cutie,0
+2008-11,Depeche Mode,0
+2008-11,Editors,10
+2008-11,Elliott Smith,0
+2008-11,Eric Clapton,0
+2008-11,Feist,0
+2008-11,Jack Johnson,0
+2008-11,Jeff Buckley,0
+2008-11,Morrissey,3
+2008-11,Radiohead,0
+2008-11,Sufjan Stevens,6
+2008-11,The Cure,0
+2008-11,The Smiths,0
+2008-12,Beck,0
+2008-12,Belle And Sebastian,0
+2008-12,Bright Eyes,0
+2008-12,Cat Power,0
+2008-12,Coldplay,1
+2008-12,Damien Rice,21
+2008-12,David Gray,0
+2008-12,Death Cab For Cutie,0
+2008-12,Depeche Mode,0
+2008-12,Editors,0
+2008-12,Elliott Smith,0
+2008-12,Eric Clapton,0
+2008-12,Feist,0
+2008-12,Jack Johnson,0
+2008-12,Jeff Buckley,2
+2008-12,Morrissey,15
+2008-12,Radiohead,1
+2008-12,Sufjan Stevens,0
+2008-12,The Cure,0
+2008-12,The Smiths,0
+2009-01,Beck,1
+2009-01,Belle And Sebastian,0
+2009-01,Bright Eyes,0
+2009-01,Cat Power,0
+2009-01,Coldplay,2
+2009-01,Damien Rice,27
+2009-01,David Gray,0
+2009-01,Death Cab For Cutie,1
+2009-01,Depeche Mode,0
+2009-01,Editors,0
+2009-01,Elliott Smith,0
+2009-01,Eric Clapton,0
+2009-01,Feist,0
+2009-01,Jack Johnson,1
+2009-01,Jeff Buckley,0
+2009-01,Morrissey,0
+2009-01,Radiohead,0
+2009-01,Sufjan Stevens,0
+2009-01,The Cure,1
+2009-01,The Smiths,35
+2009-02,Beck,0
+2009-02,Belle And Sebastian,0
+2009-02,Bright Eyes,0
+2009-02,Cat Power,0
+2009-02,Coldplay,0
+2009-02,Damien Rice,0
+2009-02,David Gray,0
+2009-02,Death Cab For Cutie,0
+2009-02,Depeche Mode,0
+2009-02,Editors,0
+2009-02,Elliott Smith,0
+2009-02,Eric Clapton,0
+2009-02,Feist,0
+2009-02,Jack Johnson,0
+2009-02,Jeff Buckley,0
+2009-02,Morrissey,0
+2009-02,Radiohead,0
+2009-02,Sufjan Stevens,0
+2009-02,The Cure,0
+2009-02,The Smiths,0
+2009-03,Beck,1
+2009-03,Belle And Sebastian,1
+2009-03,Bright Eyes,2
+2009-03,Cat Power,1
+2009-03,Coldplay,6
+2009-03,Damien Rice,0
+2009-03,David Gray,0
+2009-03,Death Cab For Cutie,4
+2009-03,Depeche Mode,7
+2009-03,Editors,0
+2009-03,Elliott Smith,1
+2009-03,Eric Clapton,1
+2009-03,Feist,0
+2009-03,Jack Johnson,0
+2009-03,Jeff Buckley,2
+2009-03,Morrissey,26
+2009-03,Radiohead,17
+2009-03,Sufjan Stevens,0
+2009-03,The Cure,2
+2009-03,The Smiths,0
+2009-04,Beck,0
+2009-04,Belle And Sebastian,3
+2009-04,Bright Eyes,8
+2009-04,Cat Power,6
+2009-04,Coldplay,5
+2009-04,Damien Rice,25
+2009-04,David Gray,2
+2009-04,Death Cab For Cutie,5
+2009-04,Depeche Mode,10
+2009-04,Editors,1
+2009-04,Elliott Smith,0
+2009-04,Eric Clapton,0
+2009-04,Feist,4
+2009-04,Jack Johnson,3
+2009-04,Jeff Buckley,1
+2009-04,Morrissey,0
+2009-04,Radiohead,2
+2009-04,Sufjan Stevens,3
+2009-04,The Cure,1
+2009-04,The Smiths,0

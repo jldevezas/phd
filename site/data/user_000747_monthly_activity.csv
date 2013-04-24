@@ -1,0 +1,741 @@
+month,artist,plays
+2006-04,3 Doors Down,0
+2006-04,Atb,0
+2006-04,Céline Dion,0
+2006-04,Coldplay,11
+2006-04,Depeche Mode,19
+2006-04,Lenny Kravitz,1
+2006-04,Mariah Carey,4
+2006-04,Massive Attack,3
+2006-04,Michael Nyman,0
+2006-04,Myslovitz,0
+2006-04,Pidżama Porno,0
+2006-04,Reamonn,0
+2006-04,Sade,1
+2006-04,Sting,1
+2006-04,Sugababes,0
+2006-04,The Cure,11
+2006-04,Tori Amos,12
+2006-04,Travis,0
+2006-04,U2,20
+2006-04,Usher,0
+2006-05,3 Doors Down,25
+2006-05,Atb,2
+2006-05,Céline Dion,9
+2006-05,Coldplay,22
+2006-05,Depeche Mode,274
+2006-05,Lenny Kravitz,0
+2006-05,Mariah Carey,1
+2006-05,Massive Attack,32
+2006-05,Michael Nyman,0
+2006-05,Myslovitz,181
+2006-05,Pidżama Porno,293
+2006-05,Reamonn,0
+2006-05,Sade,29
+2006-05,Sting,4
+2006-05,Sugababes,6
+2006-05,The Cure,2
+2006-05,Tori Amos,61
+2006-05,Travis,0
+2006-05,U2,6
+2006-05,Usher,3
+2006-06,3 Doors Down,53
+2006-06,Atb,1
+2006-06,Céline Dion,9
+2006-06,Coldplay,15
+2006-06,Depeche Mode,252
+2006-06,Lenny Kravitz,0
+2006-06,Mariah Carey,14
+2006-06,Massive Attack,62
+2006-06,Michael Nyman,1
+2006-06,Myslovitz,523
+2006-06,Pidżama Porno,931
+2006-06,Reamonn,0
+2006-06,Sade,284
+2006-06,Sting,1
+2006-06,Sugababes,1
+2006-06,The Cure,0
+2006-06,Tori Amos,128
+2006-06,Travis,1
+2006-06,U2,6
+2006-06,Usher,0
+2006-07,3 Doors Down,0
+2006-07,Atb,0
+2006-07,Céline Dion,0
+2006-07,Coldplay,0
+2006-07,Depeche Mode,0
+2006-07,Lenny Kravitz,0
+2006-07,Mariah Carey,0
+2006-07,Massive Attack,0
+2006-07,Michael Nyman,0
+2006-07,Myslovitz,0
+2006-07,Pidżama Porno,55
+2006-07,Reamonn,0
+2006-07,Sade,55
+2006-07,Sting,0
+2006-07,Sugababes,0
+2006-07,The Cure,0
+2006-07,Tori Amos,0
+2006-07,Travis,0
+2006-07,U2,0
+2006-07,Usher,0
+2006-08,3 Doors Down,27
+2006-08,Atb,0
+2006-08,Céline Dion,0
+2006-08,Coldplay,0
+2006-08,Depeche Mode,10
+2006-08,Lenny Kravitz,0
+2006-08,Mariah Carey,0
+2006-08,Massive Attack,1
+2006-08,Michael Nyman,0
+2006-08,Myslovitz,9
+2006-08,Pidżama Porno,9
+2006-08,Reamonn,1
+2006-08,Sade,8
+2006-08,Sting,0
+2006-08,Sugababes,0
+2006-08,The Cure,0
+2006-08,Tori Amos,2
+2006-08,Travis,0
+2006-08,U2,0
+2006-08,Usher,0
+2006-09,3 Doors Down,40
+2006-09,Atb,22
+2006-09,Céline Dion,27
+2006-09,Coldplay,62
+2006-09,Depeche Mode,189
+2006-09,Lenny Kravitz,43
+2006-09,Mariah Carey,68
+2006-09,Massive Attack,65
+2006-09,Michael Nyman,57
+2006-09,Myslovitz,359
+2006-09,Pidżama Porno,188
+2006-09,Reamonn,102
+2006-09,Sade,26
+2006-09,Sting,32
+2006-09,Sugababes,31
+2006-09,The Cure,9
+2006-09,Tori Amos,114
+2006-09,Travis,17
+2006-09,U2,110
+2006-09,Usher,33
+2006-10,3 Doors Down,20
+2006-10,Atb,27
+2006-10,Céline Dion,31
+2006-10,Coldplay,0
+2006-10,Depeche Mode,483
+2006-10,Lenny Kravitz,36
+2006-10,Mariah Carey,31
+2006-10,Massive Attack,7
+2006-10,Michael Nyman,9
+2006-10,Myslovitz,353
+2006-10,Pidżama Porno,198
+2006-10,Reamonn,51
+2006-10,Sade,59
+2006-10,Sting,31
+2006-10,Sugababes,10
+2006-10,The Cure,117
+2006-10,Tori Amos,68
+2006-10,Travis,13
+2006-10,U2,72
+2006-10,Usher,38
+2006-11,3 Doors Down,20
+2006-11,Atb,2
+2006-11,Céline Dion,3
+2006-11,Coldplay,25
+2006-11,Depeche Mode,201
+2006-11,Lenny Kravitz,14
+2006-11,Mariah Carey,7
+2006-11,Massive Attack,21
+2006-11,Michael Nyman,6
+2006-11,Myslovitz,98
+2006-11,Pidżama Porno,173
+2006-11,Reamonn,23
+2006-11,Sade,294
+2006-11,Sting,7
+2006-11,Sugababes,6
+2006-11,The Cure,10
+2006-11,Tori Amos,170
+2006-11,Travis,2
+2006-11,U2,40
+2006-11,Usher,5
+2006-12,3 Doors Down,3
+2006-12,Atb,1
+2006-12,Céline Dion,3
+2006-12,Coldplay,16
+2006-12,Depeche Mode,255
+2006-12,Lenny Kravitz,5
+2006-12,Mariah Carey,16
+2006-12,Massive Attack,82
+2006-12,Michael Nyman,39
+2006-12,Myslovitz,134
+2006-12,Pidżama Porno,202
+2006-12,Reamonn,4
+2006-12,Sade,140
+2006-12,Sting,3
+2006-12,Sugababes,1
+2006-12,The Cure,7
+2006-12,Tori Amos,128
+2006-12,Travis,1
+2006-12,U2,21
+2006-12,Usher,6
+2007-01,3 Doors Down,19
+2007-01,Atb,1
+2007-01,Céline Dion,11
+2007-01,Coldplay,149
+2007-01,Depeche Mode,89
+2007-01,Lenny Kravitz,15
+2007-01,Mariah Carey,5
+2007-01,Massive Attack,39
+2007-01,Michael Nyman,19
+2007-01,Myslovitz,7
+2007-01,Pidżama Porno,47
+2007-01,Reamonn,4
+2007-01,Sade,257
+2007-01,Sting,1
+2007-01,Sugababes,2
+2007-01,The Cure,1
+2007-01,Tori Amos,50
+2007-01,Travis,4
+2007-01,U2,53
+2007-01,Usher,2
+2007-02,3 Doors Down,8
+2007-02,Atb,5
+2007-02,Céline Dion,14
+2007-02,Coldplay,27
+2007-02,Depeche Mode,127
+2007-02,Lenny Kravitz,7
+2007-02,Mariah Carey,26
+2007-02,Massive Attack,8
+2007-02,Michael Nyman,22
+2007-02,Myslovitz,13
+2007-02,Pidżama Porno,11
+2007-02,Reamonn,2
+2007-02,Sade,39
+2007-02,Sting,2
+2007-02,Sugababes,4
+2007-02,The Cure,8
+2007-02,Tori Amos,12
+2007-02,Travis,1
+2007-02,U2,9
+2007-02,Usher,7
+2007-03,3 Doors Down,26
+2007-03,Atb,3
+2007-03,Céline Dion,3
+2007-03,Coldplay,83
+2007-03,Depeche Mode,278
+2007-03,Lenny Kravitz,5
+2007-03,Mariah Carey,8
+2007-03,Massive Attack,19
+2007-03,Michael Nyman,29
+2007-03,Myslovitz,75
+2007-03,Pidżama Porno,70
+2007-03,Reamonn,7
+2007-03,Sade,18
+2007-03,Sting,3
+2007-03,Sugababes,25
+2007-03,The Cure,6
+2007-03,Tori Amos,34
+2007-03,Travis,1
+2007-03,U2,15
+2007-03,Usher,3
+2007-04,3 Doors Down,0
+2007-04,Atb,0
+2007-04,Céline Dion,2
+2007-04,Coldplay,2
+2007-04,Depeche Mode,4
+2007-04,Lenny Kravitz,1
+2007-04,Mariah Carey,17
+2007-04,Massive Attack,16
+2007-04,Michael Nyman,0
+2007-04,Myslovitz,1
+2007-04,Pidżama Porno,2
+2007-04,Reamonn,1
+2007-04,Sade,1
+2007-04,Sting,1
+2007-04,Sugababes,0
+2007-04,The Cure,1
+2007-04,Tori Amos,2
+2007-04,Travis,0
+2007-04,U2,1
+2007-04,Usher,0
+2007-05,3 Doors Down,6
+2007-05,Atb,30
+2007-05,Céline Dion,20
+2007-05,Coldplay,5
+2007-05,Depeche Mode,111
+2007-05,Lenny Kravitz,0
+2007-05,Mariah Carey,0
+2007-05,Massive Attack,2
+2007-05,Michael Nyman,4
+2007-05,Myslovitz,7
+2007-05,Pidżama Porno,4
+2007-05,Reamonn,13
+2007-05,Sade,7
+2007-05,Sting,4
+2007-05,Sugababes,2
+2007-05,The Cure,1
+2007-05,Tori Amos,2
+2007-05,Travis,1
+2007-05,U2,3
+2007-05,Usher,2
+2007-06,3 Doors Down,5
+2007-06,Atb,36
+2007-06,Céline Dion,11
+2007-06,Coldplay,17
+2007-06,Depeche Mode,199
+2007-06,Lenny Kravitz,1
+2007-06,Mariah Carey,13
+2007-06,Massive Attack,3
+2007-06,Michael Nyman,5
+2007-06,Myslovitz,8
+2007-06,Pidżama Porno,98
+2007-06,Reamonn,1
+2007-06,Sade,3
+2007-06,Sting,1
+2007-06,Sugababes,8
+2007-06,The Cure,8
+2007-06,Tori Amos,9
+2007-06,Travis,10
+2007-06,U2,18
+2007-06,Usher,2
+2007-07,3 Doors Down,18
+2007-07,Atb,3
+2007-07,Céline Dion,5
+2007-07,Coldplay,52
+2007-07,Depeche Mode,47
+2007-07,Lenny Kravitz,14
+2007-07,Mariah Carey,25
+2007-07,Massive Attack,25
+2007-07,Michael Nyman,14
+2007-07,Myslovitz,22
+2007-07,Pidżama Porno,8
+2007-07,Reamonn,1
+2007-07,Sade,39
+2007-07,Sting,2
+2007-07,Sugababes,2
+2007-07,The Cure,10
+2007-07,Tori Amos,8
+2007-07,Travis,8
+2007-07,U2,17
+2007-07,Usher,2
+2007-08,3 Doors Down,0
+2007-08,Atb,0
+2007-08,Céline Dion,1
+2007-08,Coldplay,0
+2007-08,Depeche Mode,8
+2007-08,Lenny Kravitz,0
+2007-08,Mariah Carey,0
+2007-08,Massive Attack,0
+2007-08,Michael Nyman,0
+2007-08,Myslovitz,0
+2007-08,Pidżama Porno,1
+2007-08,Reamonn,0
+2007-08,Sade,0
+2007-08,Sting,1
+2007-08,Sugababes,0
+2007-08,The Cure,0
+2007-08,Tori Amos,1
+2007-08,Travis,0
+2007-08,U2,1
+2007-08,Usher,0
+2007-09,3 Doors Down,0
+2007-09,Atb,0
+2007-09,Céline Dion,1
+2007-09,Coldplay,0
+2007-09,Depeche Mode,19
+2007-09,Lenny Kravitz,0
+2007-09,Mariah Carey,0
+2007-09,Massive Attack,0
+2007-09,Michael Nyman,0
+2007-09,Myslovitz,1
+2007-09,Pidżama Porno,0
+2007-09,Reamonn,1
+2007-09,Sade,0
+2007-09,Sting,0
+2007-09,Sugababes,1
+2007-09,The Cure,1
+2007-09,Tori Amos,1
+2007-09,Travis,1
+2007-09,U2,0
+2007-09,Usher,0
+2007-10,3 Doors Down,0
+2007-10,Atb,2
+2007-10,Céline Dion,5
+2007-10,Coldplay,1
+2007-10,Depeche Mode,25
+2007-10,Lenny Kravitz,0
+2007-10,Mariah Carey,1
+2007-10,Massive Attack,0
+2007-10,Michael Nyman,2
+2007-10,Myslovitz,0
+2007-10,Pidżama Porno,13
+2007-10,Reamonn,7
+2007-10,Sade,1
+2007-10,Sting,1
+2007-10,Sugababes,5
+2007-10,The Cure,5
+2007-10,Tori Amos,0
+2007-10,Travis,4
+2007-10,U2,9
+2007-10,Usher,1
+2007-11,3 Doors Down,1
+2007-11,Atb,14
+2007-11,Céline Dion,7
+2007-11,Coldplay,1
+2007-11,Depeche Mode,68
+2007-11,Lenny Kravitz,2
+2007-11,Mariah Carey,3
+2007-11,Massive Attack,1
+2007-11,Michael Nyman,2
+2007-11,Myslovitz,12
+2007-11,Pidżama Porno,3
+2007-11,Reamonn,10
+2007-11,Sade,5
+2007-11,Sting,2
+2007-11,Sugababes,1
+2007-11,The Cure,0
+2007-11,Tori Amos,3
+2007-11,Travis,1
+2007-11,U2,10
+2007-11,Usher,1
+2007-12,3 Doors Down,2
+2007-12,Atb,10
+2007-12,Céline Dion,1
+2007-12,Coldplay,0
+2007-12,Depeche Mode,16
+2007-12,Lenny Kravitz,3
+2007-12,Mariah Carey,3
+2007-12,Massive Attack,1
+2007-12,Michael Nyman,2
+2007-12,Myslovitz,7
+2007-12,Pidżama Porno,3
+2007-12,Reamonn,4
+2007-12,Sade,4
+2007-12,Sting,2
+2007-12,Sugababes,4
+2007-12,The Cure,8
+2007-12,Tori Amos,2
+2007-12,Travis,2
+2007-12,U2,7
+2007-12,Usher,1
+2008-01,3 Doors Down,0
+2008-01,Atb,1
+2008-01,Céline Dion,2
+2008-01,Coldplay,0
+2008-01,Depeche Mode,1
+2008-01,Lenny Kravitz,1
+2008-01,Mariah Carey,3
+2008-01,Massive Attack,0
+2008-01,Michael Nyman,2
+2008-01,Myslovitz,52
+2008-01,Pidżama Porno,0
+2008-01,Reamonn,0
+2008-01,Sade,3
+2008-01,Sting,0
+2008-01,Sugababes,0
+2008-01,The Cure,0
+2008-01,Tori Amos,0
+2008-01,Travis,0
+2008-01,U2,2
+2008-01,Usher,0
+2008-02,3 Doors Down,3
+2008-02,Atb,1
+2008-02,Céline Dion,3
+2008-02,Coldplay,6
+2008-02,Depeche Mode,7
+2008-02,Lenny Kravitz,1
+2008-02,Mariah Carey,3
+2008-02,Massive Attack,2
+2008-02,Michael Nyman,0
+2008-02,Myslovitz,8
+2008-02,Pidżama Porno,2
+2008-02,Reamonn,1
+2008-02,Sade,52
+2008-02,Sting,0
+2008-02,Sugababes,1
+2008-02,The Cure,2
+2008-02,Tori Amos,0
+2008-02,Travis,1
+2008-02,U2,3
+2008-02,Usher,0
+2008-03,3 Doors Down,3
+2008-03,Atb,2
+2008-03,Céline Dion,5
+2008-03,Coldplay,3
+2008-03,Depeche Mode,11
+2008-03,Lenny Kravitz,1
+2008-03,Mariah Carey,15
+2008-03,Massive Attack,4
+2008-03,Michael Nyman,0
+2008-03,Myslovitz,8
+2008-03,Pidżama Porno,2
+2008-03,Reamonn,0
+2008-03,Sade,12
+2008-03,Sting,0
+2008-03,Sugababes,3
+2008-03,The Cure,4
+2008-03,Tori Amos,0
+2008-03,Travis,0
+2008-03,U2,16
+2008-03,Usher,1
+2008-04,3 Doors Down,0
+2008-04,Atb,0
+2008-04,Céline Dion,1
+2008-04,Coldplay,0
+2008-04,Depeche Mode,53
+2008-04,Lenny Kravitz,0
+2008-04,Mariah Carey,15
+2008-04,Massive Attack,0
+2008-04,Michael Nyman,1
+2008-04,Myslovitz,0
+2008-04,Pidżama Porno,0
+2008-04,Reamonn,0
+2008-04,Sade,0
+2008-04,Sting,0
+2008-04,Sugababes,0
+2008-04,The Cure,0
+2008-04,Tori Amos,0
+2008-04,Travis,0
+2008-04,U2,0
+2008-04,Usher,0
+2008-05,3 Doors Down,39
+2008-05,Atb,0
+2008-05,Céline Dion,0
+2008-05,Coldplay,230
+2008-05,Depeche Mode,200
+2008-05,Lenny Kravitz,0
+2008-05,Mariah Carey,0
+2008-05,Massive Attack,0
+2008-05,Michael Nyman,0
+2008-05,Myslovitz,0
+2008-05,Pidżama Porno,0
+2008-05,Reamonn,0
+2008-05,Sade,0
+2008-05,Sting,0
+2008-05,Sugababes,0
+2008-05,The Cure,0
+2008-05,Tori Amos,0
+2008-05,Travis,0
+2008-05,U2,44
+2008-05,Usher,0
+2008-06,3 Doors Down,83
+2008-06,Atb,0
+2008-06,Céline Dion,0
+2008-06,Coldplay,239
+2008-06,Depeche Mode,91
+2008-06,Lenny Kravitz,2
+2008-06,Mariah Carey,2
+2008-06,Massive Attack,0
+2008-06,Michael Nyman,0
+2008-06,Myslovitz,1
+2008-06,Pidżama Porno,1
+2008-06,Reamonn,0
+2008-06,Sade,1
+2008-06,Sting,1
+2008-06,Sugababes,7
+2008-06,The Cure,5
+2008-06,Tori Amos,1
+2008-06,Travis,0
+2008-06,U2,1
+2008-06,Usher,253
+2008-07,3 Doors Down,0
+2008-07,Atb,0
+2008-07,Céline Dion,0
+2008-07,Coldplay,1
+2008-07,Depeche Mode,6
+2008-07,Lenny Kravitz,2
+2008-07,Mariah Carey,2
+2008-07,Massive Attack,0
+2008-07,Michael Nyman,3
+2008-07,Myslovitz,3
+2008-07,Pidżama Porno,0
+2008-07,Reamonn,1
+2008-07,Sade,1
+2008-07,Sting,0
+2008-07,Sugababes,0
+2008-07,The Cure,1
+2008-07,Tori Amos,0
+2008-07,Travis,1
+2008-07,U2,0
+2008-07,Usher,18
+2008-08,3 Doors Down,2
+2008-08,Atb,1
+2008-08,Céline Dion,0
+2008-08,Coldplay,0
+2008-08,Depeche Mode,5
+2008-08,Lenny Kravitz,1
+2008-08,Mariah Carey,1
+2008-08,Massive Attack,0
+2008-08,Michael Nyman,1
+2008-08,Myslovitz,3
+2008-08,Pidżama Porno,1
+2008-08,Reamonn,0
+2008-08,Sade,1
+2008-08,Sting,0
+2008-08,Sugababes,0
+2008-08,The Cure,0
+2008-08,Tori Amos,0
+2008-08,Travis,0
+2008-08,U2,1
+2008-08,Usher,0
+2008-09,3 Doors Down,0
+2008-09,Atb,0
+2008-09,Céline Dion,0
+2008-09,Coldplay,0
+2008-09,Depeche Mode,0
+2008-09,Lenny Kravitz,0
+2008-09,Mariah Carey,0
+2008-09,Massive Attack,0
+2008-09,Michael Nyman,0
+2008-09,Myslovitz,0
+2008-09,Pidżama Porno,0
+2008-09,Reamonn,0
+2008-09,Sade,0
+2008-09,Sting,0
+2008-09,Sugababes,0
+2008-09,The Cure,0
+2008-09,Tori Amos,0
+2008-09,Travis,0
+2008-09,U2,0
+2008-09,Usher,0
+2008-10,3 Doors Down,5
+2008-10,Atb,3
+2008-10,Céline Dion,2
+2008-10,Coldplay,187
+2008-10,Depeche Mode,22
+2008-10,Lenny Kravitz,9
+2008-10,Mariah Carey,4
+2008-10,Massive Attack,12
+2008-10,Michael Nyman,5
+2008-10,Myslovitz,12
+2008-10,Pidżama Porno,5
+2008-10,Reamonn,5
+2008-10,Sade,12
+2008-10,Sting,6
+2008-10,Sugababes,1
+2008-10,The Cure,5
+2008-10,Tori Amos,8
+2008-10,Travis,1
+2008-10,U2,14
+2008-10,Usher,2
+2008-11,3 Doors Down,0
+2008-11,Atb,1
+2008-11,Céline Dion,0
+2008-11,Coldplay,4
+2008-11,Depeche Mode,28
+2008-11,Lenny Kravitz,2
+2008-11,Mariah Carey,4
+2008-11,Massive Attack,2
+2008-11,Michael Nyman,5
+2008-11,Myslovitz,4
+2008-11,Pidżama Porno,1
+2008-11,Reamonn,2
+2008-11,Sade,1
+2008-11,Sting,0
+2008-11,Sugababes,0
+2008-11,The Cure,1
+2008-11,Tori Amos,1
+2008-11,Travis,1
+2008-11,U2,3
+2008-11,Usher,2
+2008-12,3 Doors Down,193
+2008-12,Atb,0
+2008-12,Céline Dion,0
+2008-12,Coldplay,142
+2008-12,Depeche Mode,0
+2008-12,Lenny Kravitz,4
+2008-12,Mariah Carey,0
+2008-12,Massive Attack,0
+2008-12,Michael Nyman,0
+2008-12,Myslovitz,0
+2008-12,Pidżama Porno,0
+2008-12,Reamonn,0
+2008-12,Sade,0
+2008-12,Sting,0
+2008-12,Sugababes,2
+2008-12,The Cure,0
+2008-12,Tori Amos,0
+2008-12,Travis,1
+2008-12,U2,0
+2008-12,Usher,0
+2009-01,3 Doors Down,0
+2009-01,Atb,1
+2009-01,Céline Dion,0
+2009-01,Coldplay,0
+2009-01,Depeche Mode,2
+2009-01,Lenny Kravitz,0
+2009-01,Mariah Carey,0
+2009-01,Massive Attack,1
+2009-01,Michael Nyman,1
+2009-01,Myslovitz,1
+2009-01,Pidżama Porno,1
+2009-01,Reamonn,1
+2009-01,Sade,1
+2009-01,Sting,1
+2009-01,Sugababes,1
+2009-01,The Cure,0
+2009-01,Tori Amos,0
+2009-01,Travis,0
+2009-01,U2,1
+2009-01,Usher,0
+2009-02,3 Doors Down,0
+2009-02,Atb,0
+2009-02,Céline Dion,47
+2009-02,Coldplay,0
+2009-02,Depeche Mode,5
+2009-02,Lenny Kravitz,2
+2009-02,Mariah Carey,2
+2009-02,Massive Attack,0
+2009-02,Michael Nyman,2
+2009-02,Myslovitz,0
+2009-02,Pidżama Porno,1
+2009-02,Reamonn,2
+2009-02,Sade,0
+2009-02,Sting,0
+2009-02,Sugababes,0
+2009-02,The Cure,0
+2009-02,Tori Amos,0
+2009-02,Travis,0
+2009-02,U2,1
+2009-02,Usher,1
+2009-03,3 Doors Down,0
+2009-03,Atb,0
+2009-03,Céline Dion,0
+2009-03,Coldplay,0
+2009-03,Depeche Mode,13
+2009-03,Lenny Kravitz,1
+2009-03,Mariah Carey,0
+2009-03,Massive Attack,0
+2009-03,Michael Nyman,2
+2009-03,Myslovitz,0
+2009-03,Pidżama Porno,1
+2009-03,Reamonn,0
+2009-03,Sade,0
+2009-03,Sting,0
+2009-03,Sugababes,0
+2009-03,The Cure,1
+2009-03,Tori Amos,0
+2009-03,Travis,1
+2009-03,U2,2
+2009-03,Usher,1
+2009-04,3 Doors Down,0
+2009-04,Atb,0
+2009-04,Céline Dion,0
+2009-04,Coldplay,0
+2009-04,Depeche Mode,1
+2009-04,Lenny Kravitz,0
+2009-04,Mariah Carey,0
+2009-04,Massive Attack,0
+2009-04,Michael Nyman,0
+2009-04,Myslovitz,0
+2009-04,Pidżama Porno,0
+2009-04,Reamonn,0
+2009-04,Sade,0
+2009-04,Sting,0
+2009-04,Sugababes,0
+2009-04,The Cure,0
+2009-04,Tori Amos,0
+2009-04,Travis,0
+2009-04,U2,0
+2009-04,Usher,0

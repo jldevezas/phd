@@ -1,0 +1,461 @@
+month,artist,plays
+2007-05,Afi,4
+2007-05,Angels & Airwaves,3
+2007-05,Armor For Sleep,4
+2007-05,Benny Benassi,0
+2007-05,Dance Gavin Dance,0
+2007-05,Enter Shikari,1
+2007-05,Fall Out Boy,5
+2007-05,Finch,2
+2007-05,Flyleaf,2
+2007-05,From Autumn To Ashes,0
+2007-05,From First To Last,0
+2007-05,Funeral For A Friend,4
+2007-05,Good Charlotte,5
+2007-05,Green Day,0
+2007-05,Halifax,5
+2007-05,My Chemical Romance,5
+2007-05,Paramore,5
+2007-05,Silverstein,0
+2007-05,Story Of The Year,4
+2007-05,The Used,4
+2007-06,Afi,2
+2007-06,Angels & Airwaves,0
+2007-06,Armor For Sleep,0
+2007-06,Benny Benassi,1
+2007-06,Dance Gavin Dance,0
+2007-06,Enter Shikari,0
+2007-06,Fall Out Boy,0
+2007-06,Finch,0
+2007-06,Flyleaf,0
+2007-06,From Autumn To Ashes,0
+2007-06,From First To Last,0
+2007-06,Funeral For A Friend,0
+2007-06,Good Charlotte,0
+2007-06,Green Day,0
+2007-06,Halifax,0
+2007-06,My Chemical Romance,0
+2007-06,Paramore,0
+2007-06,Silverstein,0
+2007-06,Story Of The Year,0
+2007-06,The Used,0
+2007-07,Afi,1
+2007-07,Angels & Airwaves,0
+2007-07,Armor For Sleep,0
+2007-07,Benny Benassi,0
+2007-07,Dance Gavin Dance,0
+2007-07,Enter Shikari,0
+2007-07,Fall Out Boy,1
+2007-07,Finch,0
+2007-07,Flyleaf,0
+2007-07,From Autumn To Ashes,0
+2007-07,From First To Last,0
+2007-07,Funeral For A Friend,0
+2007-07,Good Charlotte,0
+2007-07,Green Day,1
+2007-07,Halifax,0
+2007-07,My Chemical Romance,1
+2007-07,Paramore,1
+2007-07,Silverstein,0
+2007-07,Story Of The Year,0
+2007-07,The Used,1
+2007-08,Afi,0
+2007-08,Angels & Airwaves,0
+2007-08,Armor For Sleep,0
+2007-08,Benny Benassi,0
+2007-08,Dance Gavin Dance,1
+2007-08,Enter Shikari,0
+2007-08,Fall Out Boy,0
+2007-08,Finch,1
+2007-08,Flyleaf,1
+2007-08,From Autumn To Ashes,1
+2007-08,From First To Last,2
+2007-08,Funeral For A Friend,2
+2007-08,Good Charlotte,1
+2007-08,Green Day,0
+2007-08,Halifax,0
+2007-08,My Chemical Romance,1
+2007-08,Paramore,0
+2007-08,Silverstein,2
+2007-08,Story Of The Year,1
+2007-08,The Used,1
+2007-09,Afi,0
+2007-09,Angels & Airwaves,0
+2007-09,Armor For Sleep,0
+2007-09,Benny Benassi,0
+2007-09,Dance Gavin Dance,0
+2007-09,Enter Shikari,0
+2007-09,Fall Out Boy,0
+2007-09,Finch,0
+2007-09,Flyleaf,0
+2007-09,From Autumn To Ashes,0
+2007-09,From First To Last,0
+2007-09,Funeral For A Friend,0
+2007-09,Good Charlotte,0
+2007-09,Green Day,0
+2007-09,Halifax,0
+2007-09,My Chemical Romance,0
+2007-09,Paramore,0
+2007-09,Silverstein,0
+2007-09,Story Of The Year,0
+2007-09,The Used,0
+2007-10,Afi,0
+2007-10,Angels & Airwaves,0
+2007-10,Armor For Sleep,0
+2007-10,Benny Benassi,0
+2007-10,Dance Gavin Dance,0
+2007-10,Enter Shikari,0
+2007-10,Fall Out Boy,12
+2007-10,Finch,0
+2007-10,Flyleaf,0
+2007-10,From Autumn To Ashes,0
+2007-10,From First To Last,1
+2007-10,Funeral For A Friend,0
+2007-10,Good Charlotte,0
+2007-10,Green Day,0
+2007-10,Halifax,0
+2007-10,My Chemical Romance,0
+2007-10,Paramore,8
+2007-10,Silverstein,1
+2007-10,Story Of The Year,0
+2007-10,The Used,0
+2007-11,Afi,0
+2007-11,Angels & Airwaves,0
+2007-11,Armor For Sleep,0
+2007-11,Benny Benassi,0
+2007-11,Dance Gavin Dance,0
+2007-11,Enter Shikari,0
+2007-11,Fall Out Boy,0
+2007-11,Finch,0
+2007-11,Flyleaf,0
+2007-11,From Autumn To Ashes,0
+2007-11,From First To Last,0
+2007-11,Funeral For A Friend,0
+2007-11,Good Charlotte,0
+2007-11,Green Day,0
+2007-11,Halifax,0
+2007-11,My Chemical Romance,0
+2007-11,Paramore,0
+2007-11,Silverstein,0
+2007-11,Story Of The Year,0
+2007-11,The Used,0
+2007-12,Afi,0
+2007-12,Angels & Airwaves,0
+2007-12,Armor For Sleep,0
+2007-12,Benny Benassi,0
+2007-12,Dance Gavin Dance,0
+2007-12,Enter Shikari,0
+2007-12,Fall Out Boy,0
+2007-12,Finch,0
+2007-12,Flyleaf,0
+2007-12,From Autumn To Ashes,0
+2007-12,From First To Last,0
+2007-12,Funeral For A Friend,0
+2007-12,Good Charlotte,0
+2007-12,Green Day,0
+2007-12,Halifax,0
+2007-12,My Chemical Romance,0
+2007-12,Paramore,0
+2007-12,Silverstein,0
+2007-12,Story Of The Year,0
+2007-12,The Used,0
+2008-01,Afi,0
+2008-01,Angels & Airwaves,0
+2008-01,Armor For Sleep,0
+2008-01,Benny Benassi,0
+2008-01,Dance Gavin Dance,0
+2008-01,Enter Shikari,0
+2008-01,Fall Out Boy,0
+2008-01,Finch,0
+2008-01,Flyleaf,0
+2008-01,From Autumn To Ashes,0
+2008-01,From First To Last,0
+2008-01,Funeral For A Friend,0
+2008-01,Good Charlotte,0
+2008-01,Green Day,0
+2008-01,Halifax,0
+2008-01,My Chemical Romance,0
+2008-01,Paramore,0
+2008-01,Silverstein,0
+2008-01,Story Of The Year,0
+2008-01,The Used,0
+2008-02,Afi,0
+2008-02,Angels & Airwaves,0
+2008-02,Armor For Sleep,0
+2008-02,Benny Benassi,0
+2008-02,Dance Gavin Dance,0
+2008-02,Enter Shikari,0
+2008-02,Fall Out Boy,0
+2008-02,Finch,0
+2008-02,Flyleaf,0
+2008-02,From Autumn To Ashes,0
+2008-02,From First To Last,0
+2008-02,Funeral For A Friend,0
+2008-02,Good Charlotte,0
+2008-02,Green Day,0
+2008-02,Halifax,0
+2008-02,My Chemical Romance,0
+2008-02,Paramore,0
+2008-02,Silverstein,0
+2008-02,Story Of The Year,0
+2008-02,The Used,0
+2008-03,Afi,0
+2008-03,Angels & Airwaves,0
+2008-03,Armor For Sleep,0
+2008-03,Benny Benassi,0
+2008-03,Dance Gavin Dance,0
+2008-03,Enter Shikari,0
+2008-03,Fall Out Boy,0
+2008-03,Finch,0
+2008-03,Flyleaf,0
+2008-03,From Autumn To Ashes,0
+2008-03,From First To Last,0
+2008-03,Funeral For A Friend,0
+2008-03,Good Charlotte,0
+2008-03,Green Day,0
+2008-03,Halifax,0
+2008-03,My Chemical Romance,0
+2008-03,Paramore,0
+2008-03,Silverstein,0
+2008-03,Story Of The Year,0
+2008-03,The Used,0
+2008-04,Afi,0
+2008-04,Angels & Airwaves,0
+2008-04,Armor For Sleep,0
+2008-04,Benny Benassi,0
+2008-04,Dance Gavin Dance,0
+2008-04,Enter Shikari,0
+2008-04,Fall Out Boy,0
+2008-04,Finch,0
+2008-04,Flyleaf,0
+2008-04,From Autumn To Ashes,0
+2008-04,From First To Last,0
+2008-04,Funeral For A Friend,0
+2008-04,Good Charlotte,0
+2008-04,Green Day,0
+2008-04,Halifax,0
+2008-04,My Chemical Romance,0
+2008-04,Paramore,0
+2008-04,Silverstein,0
+2008-04,Story Of The Year,0
+2008-04,The Used,0
+2008-05,Afi,0
+2008-05,Angels & Airwaves,0
+2008-05,Armor For Sleep,0
+2008-05,Benny Benassi,0
+2008-05,Dance Gavin Dance,0
+2008-05,Enter Shikari,0
+2008-05,Fall Out Boy,0
+2008-05,Finch,0
+2008-05,Flyleaf,0
+2008-05,From Autumn To Ashes,0
+2008-05,From First To Last,0
+2008-05,Funeral For A Friend,0
+2008-05,Good Charlotte,0
+2008-05,Green Day,0
+2008-05,Halifax,0
+2008-05,My Chemical Romance,0
+2008-05,Paramore,0
+2008-05,Silverstein,0
+2008-05,Story Of The Year,0
+2008-05,The Used,0
+2008-06,Afi,0
+2008-06,Angels & Airwaves,0
+2008-06,Armor For Sleep,0
+2008-06,Benny Benassi,0
+2008-06,Dance Gavin Dance,0
+2008-06,Enter Shikari,0
+2008-06,Fall Out Boy,0
+2008-06,Finch,0
+2008-06,Flyleaf,0
+2008-06,From Autumn To Ashes,0
+2008-06,From First To Last,0
+2008-06,Funeral For A Friend,0
+2008-06,Good Charlotte,0
+2008-06,Green Day,0
+2008-06,Halifax,0
+2008-06,My Chemical Romance,0
+2008-06,Paramore,0
+2008-06,Silverstein,0
+2008-06,Story Of The Year,0
+2008-06,The Used,0
+2008-07,Afi,0
+2008-07,Angels & Airwaves,0
+2008-07,Armor For Sleep,0
+2008-07,Benny Benassi,0
+2008-07,Dance Gavin Dance,0
+2008-07,Enter Shikari,0
+2008-07,Fall Out Boy,0
+2008-07,Finch,0
+2008-07,Flyleaf,0
+2008-07,From Autumn To Ashes,0
+2008-07,From First To Last,0
+2008-07,Funeral For A Friend,0
+2008-07,Good Charlotte,0
+2008-07,Green Day,0
+2008-07,Halifax,0
+2008-07,My Chemical Romance,0
+2008-07,Paramore,0
+2008-07,Silverstein,0
+2008-07,Story Of The Year,0
+2008-07,The Used,0
+2008-08,Afi,0
+2008-08,Angels & Airwaves,0
+2008-08,Armor For Sleep,0
+2008-08,Benny Benassi,0
+2008-08,Dance Gavin Dance,0
+2008-08,Enter Shikari,0
+2008-08,Fall Out Boy,0
+2008-08,Finch,0
+2008-08,Flyleaf,0
+2008-08,From Autumn To Ashes,0
+2008-08,From First To Last,0
+2008-08,Funeral For A Friend,0
+2008-08,Good Charlotte,0
+2008-08,Green Day,0
+2008-08,Halifax,0
+2008-08,My Chemical Romance,0
+2008-08,Paramore,0
+2008-08,Silverstein,0
+2008-08,Story Of The Year,0
+2008-08,The Used,0
+2008-09,Afi,0
+2008-09,Angels & Airwaves,0
+2008-09,Armor For Sleep,0
+2008-09,Benny Benassi,0
+2008-09,Dance Gavin Dance,0
+2008-09,Enter Shikari,0
+2008-09,Fall Out Boy,0
+2008-09,Finch,0
+2008-09,Flyleaf,0
+2008-09,From Autumn To Ashes,0
+2008-09,From First To Last,0
+2008-09,Funeral For A Friend,0
+2008-09,Good Charlotte,0
+2008-09,Green Day,0
+2008-09,Halifax,0
+2008-09,My Chemical Romance,0
+2008-09,Paramore,0
+2008-09,Silverstein,0
+2008-09,Story Of The Year,0
+2008-09,The Used,0
+2008-10,Afi,0
+2008-10,Angels & Airwaves,0
+2008-10,Armor For Sleep,0
+2008-10,Benny Benassi,0
+2008-10,Dance Gavin Dance,0
+2008-10,Enter Shikari,0
+2008-10,Fall Out Boy,0
+2008-10,Finch,0
+2008-10,Flyleaf,0
+2008-10,From Autumn To Ashes,0
+2008-10,From First To Last,0
+2008-10,Funeral For A Friend,0
+2008-10,Good Charlotte,0
+2008-10,Green Day,0
+2008-10,Halifax,0
+2008-10,My Chemical Romance,0
+2008-10,Paramore,0
+2008-10,Silverstein,0
+2008-10,Story Of The Year,0
+2008-10,The Used,0
+2008-11,Afi,0
+2008-11,Angels & Airwaves,0
+2008-11,Armor For Sleep,0
+2008-11,Benny Benassi,0
+2008-11,Dance Gavin Dance,0
+2008-11,Enter Shikari,0
+2008-11,Fall Out Boy,0
+2008-11,Finch,0
+2008-11,Flyleaf,0
+2008-11,From Autumn To Ashes,0
+2008-11,From First To Last,0
+2008-11,Funeral For A Friend,0
+2008-11,Good Charlotte,0
+2008-11,Green Day,0
+2008-11,Halifax,0
+2008-11,My Chemical Romance,0
+2008-11,Paramore,0
+2008-11,Silverstein,0
+2008-11,Story Of The Year,0
+2008-11,The Used,0
+2008-12,Afi,2
+2008-12,Angels & Airwaves,1
+2008-12,Armor For Sleep,1
+2008-12,Benny Benassi,2
+2008-12,Dance Gavin Dance,1
+2008-12,Enter Shikari,3
+2008-12,Fall Out Boy,2
+2008-12,Finch,1
+2008-12,Flyleaf,0
+2008-12,From Autumn To Ashes,4
+2008-12,From First To Last,2
+2008-12,Funeral For A Friend,3
+2008-12,Good Charlotte,1
+2008-12,Green Day,4
+2008-12,Halifax,2
+2008-12,My Chemical Romance,4
+2008-12,Paramore,1
+2008-12,Silverstein,7
+2008-12,Story Of The Year,7
+2008-12,The Used,1
+2009-01,Afi,1
+2009-01,Angels & Airwaves,2
+2009-01,Armor For Sleep,1
+2009-01,Benny Benassi,1
+2009-01,Dance Gavin Dance,1
+2009-01,Enter Shikari,1
+2009-01,Fall Out Boy,1
+2009-01,Finch,1
+2009-01,Flyleaf,1
+2009-01,From Autumn To Ashes,1
+2009-01,From First To Last,12
+2009-01,Funeral For A Friend,1
+2009-01,Good Charlotte,2
+2009-01,Green Day,2
+2009-01,Halifax,1
+2009-01,My Chemical Romance,2
+2009-01,Paramore,3
+2009-01,Silverstein,1
+2009-01,Story Of The Year,3
+2009-01,The Used,0
+2009-02,Afi,1
+2009-02,Angels & Airwaves,2
+2009-02,Armor For Sleep,2
+2009-02,Benny Benassi,1
+2009-02,Dance Gavin Dance,2
+2009-02,Enter Shikari,1
+2009-02,Fall Out Boy,1
+2009-02,Finch,0
+2009-02,Flyleaf,1
+2009-02,From Autumn To Ashes,1
+2009-02,From First To Last,13
+2009-02,Funeral For A Friend,4
+2009-02,Good Charlotte,0
+2009-02,Green Day,1
+2009-02,Halifax,1
+2009-02,My Chemical Romance,1
+2009-02,Paramore,2
+2009-02,Silverstein,3
+2009-02,Story Of The Year,2
+2009-02,The Used,1
+2009-03,Afi,26
+2009-03,Angels & Airwaves,1
+2009-03,Armor For Sleep,1
+2009-03,Benny Benassi,10
+2009-03,Dance Gavin Dance,3
+2009-03,Enter Shikari,3
+2009-03,Fall Out Boy,7
+2009-03,Finch,1
+2009-03,Flyleaf,3
+2009-03,From Autumn To Ashes,2
+2009-03,From First To Last,3
+2009-03,Funeral For A Friend,16
+2009-03,Good Charlotte,1
+2009-03,Green Day,3
+2009-03,Halifax,2
+2009-03,My Chemical Romance,6
+2009-03,Paramore,3
+2009-03,Silverstein,7
+2009-03,Story Of The Year,3
+2009-03,The Used,1

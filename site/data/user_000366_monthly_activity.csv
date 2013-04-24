@@ -1,0 +1,1041 @@
+month,artist,plays
+2005-03,Anton Maiden,9
+2005-03,Black Label Society,5
+2005-03,Black Sabbath,7
+2005-03,Bruce Dickinson,6
+2005-03,Cmx,8
+2005-03,Dream Theater,11
+2005-03,Godsmack,15
+2005-03,Guns N' Roses,2
+2005-03,Iron Maiden,14
+2005-03,Korn,3
+2005-03,Megadeth,6
+2005-03,Metallica,32
+2005-03,Mokoma,16
+2005-03,Motörhead,1
+2005-03,Opeth,8
+2005-03,Ozzy Osbourne,11
+2005-03,Pantera,9
+2005-03,Queen,1
+2005-03,Slayer,8
+2005-03,Tool,6
+2005-04,Anton Maiden,30
+2005-04,Black Label Society,3
+2005-04,Black Sabbath,5
+2005-04,Bruce Dickinson,21
+2005-04,Cmx,1
+2005-04,Dream Theater,7
+2005-04,Godsmack,5
+2005-04,Guns N' Roses,6
+2005-04,Iron Maiden,57
+2005-04,Korn,21
+2005-04,Megadeth,3
+2005-04,Metallica,150
+2005-04,Mokoma,6
+2005-04,Motörhead,16
+2005-04,Opeth,2
+2005-04,Ozzy Osbourne,4
+2005-04,Pantera,10
+2005-04,Queen,0
+2005-04,Slayer,22
+2005-04,Tool,68
+2005-05,Anton Maiden,10
+2005-05,Black Label Society,14
+2005-05,Black Sabbath,4
+2005-05,Bruce Dickinson,143
+2005-05,Cmx,3
+2005-05,Dream Theater,14
+2005-05,Godsmack,15
+2005-05,Guns N' Roses,9
+2005-05,Iron Maiden,57
+2005-05,Korn,2
+2005-05,Megadeth,7
+2005-05,Metallica,22
+2005-05,Mokoma,19
+2005-05,Motörhead,4
+2005-05,Opeth,7
+2005-05,Ozzy Osbourne,2
+2005-05,Pantera,8
+2005-05,Queen,0
+2005-05,Slayer,6
+2005-05,Tool,25
+2005-06,Anton Maiden,16
+2005-06,Black Label Society,13
+2005-06,Black Sabbath,6
+2005-06,Bruce Dickinson,45
+2005-06,Cmx,20
+2005-06,Dream Theater,28
+2005-06,Godsmack,32
+2005-06,Guns N' Roses,22
+2005-06,Iron Maiden,33
+2005-06,Korn,24
+2005-06,Megadeth,53
+2005-06,Metallica,86
+2005-06,Mokoma,7
+2005-06,Motörhead,10
+2005-06,Opeth,19
+2005-06,Ozzy Osbourne,7
+2005-06,Pantera,20
+2005-06,Queen,0
+2005-06,Slayer,11
+2005-06,Tool,30
+2005-07,Anton Maiden,11
+2005-07,Black Label Society,4
+2005-07,Black Sabbath,18
+2005-07,Bruce Dickinson,19
+2005-07,Cmx,16
+2005-07,Dream Theater,11
+2005-07,Godsmack,10
+2005-07,Guns N' Roses,4
+2005-07,Iron Maiden,28
+2005-07,Korn,18
+2005-07,Megadeth,11
+2005-07,Metallica,35
+2005-07,Mokoma,12
+2005-07,Motörhead,5
+2005-07,Opeth,6
+2005-07,Ozzy Osbourne,0
+2005-07,Pantera,9
+2005-07,Queen,0
+2005-07,Slayer,12
+2005-07,Tool,20
+2005-08,Anton Maiden,3
+2005-08,Black Label Society,5
+2005-08,Black Sabbath,3
+2005-08,Bruce Dickinson,4
+2005-08,Cmx,193
+2005-08,Dream Theater,8
+2005-08,Godsmack,3
+2005-08,Guns N' Roses,5
+2005-08,Iron Maiden,12
+2005-08,Korn,19
+2005-08,Megadeth,4
+2005-08,Metallica,13
+2005-08,Mokoma,9
+2005-08,Motörhead,5
+2005-08,Opeth,2
+2005-08,Ozzy Osbourne,3
+2005-08,Pantera,5
+2005-08,Queen,22
+2005-08,Slayer,13
+2005-08,Tool,57
+2005-09,Anton Maiden,10
+2005-09,Black Label Society,4
+2005-09,Black Sabbath,1
+2005-09,Bruce Dickinson,56
+2005-09,Cmx,0
+2005-09,Dream Theater,2
+2005-09,Godsmack,0
+2005-09,Guns N' Roses,24
+2005-09,Iron Maiden,13
+2005-09,Korn,49
+2005-09,Megadeth,20
+2005-09,Metallica,7
+2005-09,Mokoma,18
+2005-09,Motörhead,8
+2005-09,Opeth,6
+2005-09,Ozzy Osbourne,46
+2005-09,Pantera,8
+2005-09,Queen,10
+2005-09,Slayer,3
+2005-09,Tool,10
+2005-10,Anton Maiden,21
+2005-10,Black Label Society,4
+2005-10,Black Sabbath,19
+2005-10,Bruce Dickinson,30
+2005-10,Cmx,16
+2005-10,Dream Theater,0
+2005-10,Godsmack,2
+2005-10,Guns N' Roses,20
+2005-10,Iron Maiden,31
+2005-10,Korn,1
+2005-10,Megadeth,28
+2005-10,Metallica,33
+2005-10,Mokoma,18
+2005-10,Motörhead,1
+2005-10,Opeth,15
+2005-10,Ozzy Osbourne,1
+2005-10,Pantera,1
+2005-10,Queen,1
+2005-10,Slayer,3
+2005-10,Tool,5
+2005-11,Anton Maiden,17
+2005-11,Black Label Society,0
+2005-11,Black Sabbath,1
+2005-11,Bruce Dickinson,0
+2005-11,Cmx,31
+2005-11,Dream Theater,3
+2005-11,Godsmack,0
+2005-11,Guns N' Roses,0
+2005-11,Iron Maiden,17
+2005-11,Korn,4
+2005-11,Megadeth,1
+2005-11,Metallica,31
+2005-11,Mokoma,42
+2005-11,Motörhead,1
+2005-11,Opeth,0
+2005-11,Ozzy Osbourne,1
+2005-11,Pantera,11
+2005-11,Queen,1
+2005-11,Slayer,2
+2005-11,Tool,10
+2005-12,Anton Maiden,1
+2005-12,Black Label Society,3
+2005-12,Black Sabbath,44
+2005-12,Bruce Dickinson,12
+2005-12,Cmx,150
+2005-12,Dream Theater,6
+2005-12,Godsmack,0
+2005-12,Guns N' Roses,16
+2005-12,Iron Maiden,6
+2005-12,Korn,84
+2005-12,Megadeth,0
+2005-12,Metallica,3
+2005-12,Mokoma,3
+2005-12,Motörhead,9
+2005-12,Opeth,2
+2005-12,Ozzy Osbourne,12
+2005-12,Pantera,1
+2005-12,Queen,0
+2005-12,Slayer,5
+2005-12,Tool,1
+2006-01,Anton Maiden,53
+2006-01,Black Label Society,0
+2006-01,Black Sabbath,10
+2006-01,Bruce Dickinson,38
+2006-01,Cmx,11
+2006-01,Dream Theater,0
+2006-01,Godsmack,12
+2006-01,Guns N' Roses,47
+2006-01,Iron Maiden,77
+2006-01,Korn,27
+2006-01,Megadeth,74
+2006-01,Metallica,76
+2006-01,Mokoma,32
+2006-01,Motörhead,0
+2006-01,Opeth,0
+2006-01,Ozzy Osbourne,19
+2006-01,Pantera,36
+2006-01,Queen,12
+2006-01,Slayer,0
+2006-01,Tool,31
+2006-02,Anton Maiden,1
+2006-02,Black Label Society,0
+2006-02,Black Sabbath,18
+2006-02,Bruce Dickinson,10
+2006-02,Cmx,52
+2006-02,Dream Theater,0
+2006-02,Godsmack,34
+2006-02,Guns N' Roses,0
+2006-02,Iron Maiden,22
+2006-02,Korn,80
+2006-02,Megadeth,39
+2006-02,Metallica,60
+2006-02,Mokoma,297
+2006-02,Motörhead,0
+2006-02,Opeth,0
+2006-02,Ozzy Osbourne,40
+2006-02,Pantera,1
+2006-02,Queen,1
+2006-02,Slayer,1
+2006-02,Tool,13
+2006-03,Anton Maiden,2
+2006-03,Black Label Society,18
+2006-03,Black Sabbath,11
+2006-03,Bruce Dickinson,19
+2006-03,Cmx,40
+2006-03,Dream Theater,4
+2006-03,Godsmack,1
+2006-03,Guns N' Roses,32
+2006-03,Iron Maiden,8
+2006-03,Korn,33
+2006-03,Megadeth,2
+2006-03,Metallica,12
+2006-03,Mokoma,23
+2006-03,Motörhead,16
+2006-03,Opeth,6
+2006-03,Ozzy Osbourne,55
+2006-03,Pantera,3
+2006-03,Queen,3
+2006-03,Slayer,3
+2006-03,Tool,33
+2006-04,Anton Maiden,0
+2006-04,Black Label Society,0
+2006-04,Black Sabbath,0
+2006-04,Bruce Dickinson,0
+2006-04,Cmx,0
+2006-04,Dream Theater,0
+2006-04,Godsmack,0
+2006-04,Guns N' Roses,0
+2006-04,Iron Maiden,0
+2006-04,Korn,0
+2006-04,Megadeth,0
+2006-04,Metallica,0
+2006-04,Mokoma,0
+2006-04,Motörhead,0
+2006-04,Opeth,0
+2006-04,Ozzy Osbourne,0
+2006-04,Pantera,0
+2006-04,Queen,0
+2006-04,Slayer,0
+2006-04,Tool,0
+2006-05,Anton Maiden,10
+2006-05,Black Label Society,14
+2006-05,Black Sabbath,0
+2006-05,Bruce Dickinson,44
+2006-05,Cmx,74
+2006-05,Dream Theater,3
+2006-05,Godsmack,9
+2006-05,Guns N' Roses,4
+2006-05,Iron Maiden,17
+2006-05,Korn,14
+2006-05,Megadeth,3
+2006-05,Metallica,30
+2006-05,Mokoma,25
+2006-05,Motörhead,0
+2006-05,Opeth,1
+2006-05,Ozzy Osbourne,1
+2006-05,Pantera,4
+2006-05,Queen,5
+2006-05,Slayer,6
+2006-05,Tool,31
+2006-06,Anton Maiden,26
+2006-06,Black Label Society,49
+2006-06,Black Sabbath,3
+2006-06,Bruce Dickinson,61
+2006-06,Cmx,129
+2006-06,Dream Theater,30
+2006-06,Godsmack,26
+2006-06,Guns N' Roses,20
+2006-06,Iron Maiden,17
+2006-06,Korn,29
+2006-06,Megadeth,9
+2006-06,Metallica,96
+2006-06,Mokoma,30
+2006-06,Motörhead,22
+2006-06,Opeth,7
+2006-06,Ozzy Osbourne,10
+2006-06,Pantera,17
+2006-06,Queen,19
+2006-06,Slayer,6
+2006-06,Tool,11
+2006-07,Anton Maiden,20
+2006-07,Black Label Society,45
+2006-07,Black Sabbath,2
+2006-07,Bruce Dickinson,68
+2006-07,Cmx,48
+2006-07,Dream Theater,10
+2006-07,Godsmack,10
+2006-07,Guns N' Roses,7
+2006-07,Iron Maiden,32
+2006-07,Korn,34
+2006-07,Megadeth,3
+2006-07,Metallica,27
+2006-07,Mokoma,29
+2006-07,Motörhead,5
+2006-07,Opeth,6
+2006-07,Ozzy Osbourne,0
+2006-07,Pantera,3
+2006-07,Queen,13
+2006-07,Slayer,5
+2006-07,Tool,29
+2006-08,Anton Maiden,65
+2006-08,Black Label Society,40
+2006-08,Black Sabbath,7
+2006-08,Bruce Dickinson,65
+2006-08,Cmx,99
+2006-08,Dream Theater,22
+2006-08,Godsmack,17
+2006-08,Guns N' Roses,19
+2006-08,Iron Maiden,344
+2006-08,Korn,66
+2006-08,Megadeth,10
+2006-08,Metallica,71
+2006-08,Mokoma,28
+2006-08,Motörhead,12
+2006-08,Opeth,15
+2006-08,Ozzy Osbourne,7
+2006-08,Pantera,10
+2006-08,Queen,19
+2006-08,Slayer,21
+2006-08,Tool,29
+2006-09,Anton Maiden,9
+2006-09,Black Label Society,50
+2006-09,Black Sabbath,3
+2006-09,Bruce Dickinson,37
+2006-09,Cmx,41
+2006-09,Dream Theater,16
+2006-09,Godsmack,9
+2006-09,Guns N' Roses,10
+2006-09,Iron Maiden,112
+2006-09,Korn,25
+2006-09,Megadeth,3
+2006-09,Metallica,47
+2006-09,Mokoma,45
+2006-09,Motörhead,6
+2006-09,Opeth,2
+2006-09,Ozzy Osbourne,4
+2006-09,Pantera,14
+2006-09,Queen,62
+2006-09,Slayer,7
+2006-09,Tool,18
+2006-10,Anton Maiden,12
+2006-10,Black Label Society,28
+2006-10,Black Sabbath,1
+2006-10,Bruce Dickinson,118
+2006-10,Cmx,72
+2006-10,Dream Theater,10
+2006-10,Godsmack,15
+2006-10,Guns N' Roses,11
+2006-10,Iron Maiden,20
+2006-10,Korn,175
+2006-10,Megadeth,118
+2006-10,Metallica,40
+2006-10,Mokoma,233
+2006-10,Motörhead,9
+2006-10,Opeth,6
+2006-10,Ozzy Osbourne,4
+2006-10,Pantera,8
+2006-10,Queen,48
+2006-10,Slayer,9
+2006-10,Tool,18
+2006-11,Anton Maiden,27
+2006-11,Black Label Society,31
+2006-11,Black Sabbath,27
+2006-11,Bruce Dickinson,62
+2006-11,Cmx,69
+2006-11,Dream Theater,12
+2006-11,Godsmack,30
+2006-11,Guns N' Roses,68
+2006-11,Iron Maiden,73
+2006-11,Korn,76
+2006-11,Megadeth,42
+2006-11,Metallica,63
+2006-11,Mokoma,100
+2006-11,Motörhead,38
+2006-11,Opeth,16
+2006-11,Ozzy Osbourne,2
+2006-11,Pantera,22
+2006-11,Queen,20
+2006-11,Slayer,20
+2006-11,Tool,35
+2006-12,Anton Maiden,4
+2006-12,Black Label Society,10
+2006-12,Black Sabbath,1
+2006-12,Bruce Dickinson,13
+2006-12,Cmx,43
+2006-12,Dream Theater,5
+2006-12,Godsmack,3
+2006-12,Guns N' Roses,12
+2006-12,Iron Maiden,24
+2006-12,Korn,45
+2006-12,Megadeth,10
+2006-12,Metallica,88
+2006-12,Mokoma,46
+2006-12,Motörhead,8
+2006-12,Opeth,6
+2006-12,Ozzy Osbourne,1
+2006-12,Pantera,45
+2006-12,Queen,7
+2006-12,Slayer,7
+2006-12,Tool,11
+2007-01,Anton Maiden,9
+2007-01,Black Label Society,5
+2007-01,Black Sabbath,0
+2007-01,Bruce Dickinson,14
+2007-01,Cmx,214
+2007-01,Dream Theater,4
+2007-01,Godsmack,2
+2007-01,Guns N' Roses,19
+2007-01,Iron Maiden,8
+2007-01,Korn,22
+2007-01,Megadeth,23
+2007-01,Metallica,12
+2007-01,Mokoma,115
+2007-01,Motörhead,1
+2007-01,Opeth,2
+2007-01,Ozzy Osbourne,11
+2007-01,Pantera,0
+2007-01,Queen,12
+2007-01,Slayer,0
+2007-01,Tool,2
+2007-02,Anton Maiden,11
+2007-02,Black Label Society,23
+2007-02,Black Sabbath,16
+2007-02,Bruce Dickinson,22
+2007-02,Cmx,79
+2007-02,Dream Theater,2
+2007-02,Godsmack,14
+2007-02,Guns N' Roses,23
+2007-02,Iron Maiden,40
+2007-02,Korn,40
+2007-02,Megadeth,39
+2007-02,Metallica,42
+2007-02,Mokoma,123
+2007-02,Motörhead,24
+2007-02,Opeth,25
+2007-02,Ozzy Osbourne,11
+2007-02,Pantera,6
+2007-02,Queen,41
+2007-02,Slayer,50
+2007-02,Tool,11
+2007-03,Anton Maiden,26
+2007-03,Black Label Society,8
+2007-03,Black Sabbath,3
+2007-03,Bruce Dickinson,52
+2007-03,Cmx,40
+2007-03,Dream Theater,25
+2007-03,Godsmack,16
+2007-03,Guns N' Roses,22
+2007-03,Iron Maiden,72
+2007-03,Korn,63
+2007-03,Megadeth,29
+2007-03,Metallica,49
+2007-03,Mokoma,44
+2007-03,Motörhead,19
+2007-03,Opeth,15
+2007-03,Ozzy Osbourne,7
+2007-03,Pantera,15
+2007-03,Queen,22
+2007-03,Slayer,7
+2007-03,Tool,24
+2007-04,Anton Maiden,19
+2007-04,Black Label Society,24
+2007-04,Black Sabbath,21
+2007-04,Bruce Dickinson,25
+2007-04,Cmx,91
+2007-04,Dream Theater,13
+2007-04,Godsmack,13
+2007-04,Guns N' Roses,62
+2007-04,Iron Maiden,41
+2007-04,Korn,47
+2007-04,Megadeth,22
+2007-04,Metallica,101
+2007-04,Mokoma,79
+2007-04,Motörhead,30
+2007-04,Opeth,26
+2007-04,Ozzy Osbourne,17
+2007-04,Pantera,33
+2007-04,Queen,50
+2007-04,Slayer,40
+2007-04,Tool,29
+2007-05,Anton Maiden,29
+2007-05,Black Label Society,35
+2007-05,Black Sabbath,50
+2007-05,Bruce Dickinson,25
+2007-05,Cmx,132
+2007-05,Dream Theater,8
+2007-05,Godsmack,20
+2007-05,Guns N' Roses,37
+2007-05,Iron Maiden,53
+2007-05,Korn,78
+2007-05,Megadeth,71
+2007-05,Metallica,54
+2007-05,Mokoma,87
+2007-05,Motörhead,49
+2007-05,Opeth,17
+2007-05,Ozzy Osbourne,39
+2007-05,Pantera,16
+2007-05,Queen,56
+2007-05,Slayer,10
+2007-05,Tool,11
+2007-06,Anton Maiden,1
+2007-06,Black Label Society,43
+2007-06,Black Sabbath,1
+2007-06,Bruce Dickinson,13
+2007-06,Cmx,104
+2007-06,Dream Theater,3
+2007-06,Godsmack,2
+2007-06,Guns N' Roses,18
+2007-06,Iron Maiden,6
+2007-06,Korn,194
+2007-06,Megadeth,139
+2007-06,Metallica,6
+2007-06,Mokoma,132
+2007-06,Motörhead,3
+2007-06,Opeth,9
+2007-06,Ozzy Osbourne,90
+2007-06,Pantera,2
+2007-06,Queen,19
+2007-06,Slayer,6
+2007-06,Tool,2
+2007-07,Anton Maiden,16
+2007-07,Black Label Society,5
+2007-07,Black Sabbath,3
+2007-07,Bruce Dickinson,13
+2007-07,Cmx,65
+2007-07,Dream Theater,7
+2007-07,Godsmack,4
+2007-07,Guns N' Roses,5
+2007-07,Iron Maiden,55
+2007-07,Korn,13
+2007-07,Megadeth,10
+2007-07,Metallica,312
+2007-07,Mokoma,20
+2007-07,Motörhead,10
+2007-07,Opeth,5
+2007-07,Ozzy Osbourne,16
+2007-07,Pantera,13
+2007-07,Queen,13
+2007-07,Slayer,7
+2007-07,Tool,5
+2007-08,Anton Maiden,19
+2007-08,Black Label Society,12
+2007-08,Black Sabbath,19
+2007-08,Bruce Dickinson,114
+2007-08,Cmx,41
+2007-08,Dream Theater,2
+2007-08,Godsmack,13
+2007-08,Guns N' Roses,25
+2007-08,Iron Maiden,41
+2007-08,Korn,83
+2007-08,Megadeth,20
+2007-08,Metallica,50
+2007-08,Mokoma,61
+2007-08,Motörhead,5
+2007-08,Opeth,12
+2007-08,Ozzy Osbourne,9
+2007-08,Pantera,9
+2007-08,Queen,16
+2007-08,Slayer,6
+2007-08,Tool,32
+2007-09,Anton Maiden,25
+2007-09,Black Label Society,4
+2007-09,Black Sabbath,9
+2007-09,Bruce Dickinson,18
+2007-09,Cmx,133
+2007-09,Dream Theater,7
+2007-09,Godsmack,4
+2007-09,Guns N' Roses,20
+2007-09,Iron Maiden,100
+2007-09,Korn,34
+2007-09,Megadeth,20
+2007-09,Metallica,26
+2007-09,Mokoma,95
+2007-09,Motörhead,8
+2007-09,Opeth,5
+2007-09,Ozzy Osbourne,34
+2007-09,Pantera,10
+2007-09,Queen,29
+2007-09,Slayer,6
+2007-09,Tool,6
+2007-10,Anton Maiden,19
+2007-10,Black Label Society,26
+2007-10,Black Sabbath,12
+2007-10,Bruce Dickinson,63
+2007-10,Cmx,152
+2007-10,Dream Theater,10
+2007-10,Godsmack,7
+2007-10,Guns N' Roses,21
+2007-10,Iron Maiden,40
+2007-10,Korn,54
+2007-10,Megadeth,41
+2007-10,Metallica,61
+2007-10,Mokoma,90
+2007-10,Motörhead,29
+2007-10,Opeth,11
+2007-10,Ozzy Osbourne,13
+2007-10,Pantera,8
+2007-10,Queen,35
+2007-10,Slayer,33
+2007-10,Tool,25
+2007-11,Anton Maiden,0
+2007-11,Black Label Society,1
+2007-11,Black Sabbath,3
+2007-11,Bruce Dickinson,2
+2007-11,Cmx,1
+2007-11,Dream Theater,1
+2007-11,Godsmack,0
+2007-11,Guns N' Roses,4
+2007-11,Iron Maiden,11
+2007-11,Korn,2
+2007-11,Megadeth,1
+2007-11,Metallica,5
+2007-11,Mokoma,387
+2007-11,Motörhead,1
+2007-11,Opeth,0
+2007-11,Ozzy Osbourne,3
+2007-11,Pantera,1
+2007-11,Queen,2
+2007-11,Slayer,2
+2007-11,Tool,1
+2007-12,Anton Maiden,10
+2007-12,Black Label Society,1
+2007-12,Black Sabbath,15
+2007-12,Bruce Dickinson,35
+2007-12,Cmx,46
+2007-12,Dream Theater,0
+2007-12,Godsmack,5
+2007-12,Guns N' Roses,16
+2007-12,Iron Maiden,29
+2007-12,Korn,36
+2007-12,Megadeth,35
+2007-12,Metallica,28
+2007-12,Mokoma,388
+2007-12,Motörhead,4
+2007-12,Opeth,2
+2007-12,Ozzy Osbourne,16
+2007-12,Pantera,15
+2007-12,Queen,19
+2007-12,Slayer,6
+2007-12,Tool,15
+2008-01,Anton Maiden,9
+2008-01,Black Label Society,2
+2008-01,Black Sabbath,28
+2008-01,Bruce Dickinson,4
+2008-01,Cmx,27
+2008-01,Dream Theater,2
+2008-01,Godsmack,5
+2008-01,Guns N' Roses,62
+2008-01,Iron Maiden,21
+2008-01,Korn,188
+2008-01,Megadeth,205
+2008-01,Metallica,29
+2008-01,Mokoma,162
+2008-01,Motörhead,5
+2008-01,Opeth,1
+2008-01,Ozzy Osbourne,11
+2008-01,Pantera,6
+2008-01,Queen,10
+2008-01,Slayer,5
+2008-01,Tool,14
+2008-02,Anton Maiden,5
+2008-02,Black Label Society,1
+2008-02,Black Sabbath,12
+2008-02,Bruce Dickinson,7
+2008-02,Cmx,37
+2008-02,Dream Theater,12
+2008-02,Godsmack,5
+2008-02,Guns N' Roses,43
+2008-02,Iron Maiden,9
+2008-02,Korn,96
+2008-02,Megadeth,4
+2008-02,Metallica,10
+2008-02,Mokoma,48
+2008-02,Motörhead,4
+2008-02,Opeth,2
+2008-02,Ozzy Osbourne,13
+2008-02,Pantera,3
+2008-02,Queen,16
+2008-02,Slayer,3
+2008-02,Tool,5
+2008-03,Anton Maiden,1
+2008-03,Black Label Society,19
+2008-03,Black Sabbath,2
+2008-03,Bruce Dickinson,3
+2008-03,Cmx,62
+2008-03,Dream Theater,7
+2008-03,Godsmack,4
+2008-03,Guns N' Roses,241
+2008-03,Iron Maiden,3
+2008-03,Korn,3
+2008-03,Megadeth,4
+2008-03,Metallica,7
+2008-03,Mokoma,1
+2008-03,Motörhead,0
+2008-03,Opeth,3
+2008-03,Ozzy Osbourne,2
+2008-03,Pantera,2
+2008-03,Queen,5
+2008-03,Slayer,1
+2008-03,Tool,1
+2008-04,Anton Maiden,0
+2008-04,Black Label Society,1
+2008-04,Black Sabbath,6
+2008-04,Bruce Dickinson,3
+2008-04,Cmx,13
+2008-04,Dream Theater,1
+2008-04,Godsmack,0
+2008-04,Guns N' Roses,9
+2008-04,Iron Maiden,8
+2008-04,Korn,1
+2008-04,Megadeth,12
+2008-04,Metallica,13
+2008-04,Mokoma,399
+2008-04,Motörhead,3
+2008-04,Opeth,7
+2008-04,Ozzy Osbourne,1
+2008-04,Pantera,0
+2008-04,Queen,1
+2008-04,Slayer,2
+2008-04,Tool,0
+2008-05,Anton Maiden,44
+2008-05,Black Label Society,28
+2008-05,Black Sabbath,10
+2008-05,Bruce Dickinson,18
+2008-05,Cmx,40
+2008-05,Dream Theater,7
+2008-05,Godsmack,0
+2008-05,Guns N' Roses,16
+2008-05,Iron Maiden,73
+2008-05,Korn,45
+2008-05,Megadeth,5
+2008-05,Metallica,24
+2008-05,Mokoma,82
+2008-05,Motörhead,14
+2008-05,Opeth,1
+2008-05,Ozzy Osbourne,3
+2008-05,Pantera,2
+2008-05,Queen,15
+2008-05,Slayer,2
+2008-05,Tool,14
+2008-06,Anton Maiden,10
+2008-06,Black Label Society,1
+2008-06,Black Sabbath,6
+2008-06,Bruce Dickinson,14
+2008-06,Cmx,94
+2008-06,Dream Theater,1
+2008-06,Godsmack,2
+2008-06,Guns N' Roses,2
+2008-06,Iron Maiden,5
+2008-06,Korn,3
+2008-06,Megadeth,5
+2008-06,Metallica,3
+2008-06,Mokoma,20
+2008-06,Motörhead,22
+2008-06,Opeth,56
+2008-06,Ozzy Osbourne,3
+2008-06,Pantera,2
+2008-06,Queen,2
+2008-06,Slayer,27
+2008-06,Tool,0
+2008-07,Anton Maiden,76
+2008-07,Black Label Society,5
+2008-07,Black Sabbath,3
+2008-07,Bruce Dickinson,3
+2008-07,Cmx,42
+2008-07,Dream Theater,1
+2008-07,Godsmack,2
+2008-07,Guns N' Roses,5
+2008-07,Iron Maiden,100
+2008-07,Korn,4
+2008-07,Megadeth,6
+2008-07,Metallica,19
+2008-07,Mokoma,42
+2008-07,Motörhead,5
+2008-07,Opeth,12
+2008-07,Ozzy Osbourne,2
+2008-07,Pantera,6
+2008-07,Queen,21
+2008-07,Slayer,6
+2008-07,Tool,2
+2008-08,Anton Maiden,12
+2008-08,Black Label Society,1
+2008-08,Black Sabbath,33
+2008-08,Bruce Dickinson,1
+2008-08,Cmx,9
+2008-08,Dream Theater,5
+2008-08,Godsmack,1
+2008-08,Guns N' Roses,7
+2008-08,Iron Maiden,11
+2008-08,Korn,2
+2008-08,Megadeth,11
+2008-08,Metallica,28
+2008-08,Mokoma,107
+2008-08,Motörhead,20
+2008-08,Opeth,0
+2008-08,Ozzy Osbourne,10
+2008-08,Pantera,34
+2008-08,Queen,38
+2008-08,Slayer,7
+2008-08,Tool,1
+2008-09,Anton Maiden,5
+2008-09,Black Label Society,1
+2008-09,Black Sabbath,9
+2008-09,Bruce Dickinson,22
+2008-09,Cmx,28
+2008-09,Dream Theater,3
+2008-09,Godsmack,5
+2008-09,Guns N' Roses,16
+2008-09,Iron Maiden,18
+2008-09,Korn,27
+2008-09,Megadeth,6
+2008-09,Metallica,221
+2008-09,Mokoma,0
+2008-09,Motörhead,2
+2008-09,Opeth,2
+2008-09,Ozzy Osbourne,0
+2008-09,Pantera,15
+2008-09,Queen,4
+2008-09,Slayer,3
+2008-09,Tool,38
+2008-10,Anton Maiden,7
+2008-10,Black Label Society,11
+2008-10,Black Sabbath,12
+2008-10,Bruce Dickinson,33
+2008-10,Cmx,32
+2008-10,Dream Theater,5
+2008-10,Godsmack,8
+2008-10,Guns N' Roses,21
+2008-10,Iron Maiden,27
+2008-10,Korn,20
+2008-10,Megadeth,22
+2008-10,Metallica,58
+2008-10,Mokoma,19
+2008-10,Motörhead,21
+2008-10,Opeth,7
+2008-10,Ozzy Osbourne,13
+2008-10,Pantera,13
+2008-10,Queen,15
+2008-10,Slayer,25
+2008-10,Tool,17
+2008-11,Anton Maiden,9
+2008-11,Black Label Society,74
+2008-11,Black Sabbath,10
+2008-11,Bruce Dickinson,17
+2008-11,Cmx,46
+2008-11,Dream Theater,0
+2008-11,Godsmack,0
+2008-11,Guns N' Roses,193
+2008-11,Iron Maiden,17
+2008-11,Korn,1
+2008-11,Megadeth,4
+2008-11,Metallica,33
+2008-11,Mokoma,7
+2008-11,Motörhead,1
+2008-11,Opeth,0
+2008-11,Ozzy Osbourne,10
+2008-11,Pantera,0
+2008-11,Queen,15
+2008-11,Slayer,58
+2008-11,Tool,0
+2008-12,Anton Maiden,5
+2008-12,Black Label Society,5
+2008-12,Black Sabbath,5
+2008-12,Bruce Dickinson,18
+2008-12,Cmx,42
+2008-12,Dream Theater,2
+2008-12,Godsmack,8
+2008-12,Guns N' Roses,70
+2008-12,Iron Maiden,29
+2008-12,Korn,23
+2008-12,Megadeth,28
+2008-12,Metallica,25
+2008-12,Mokoma,19
+2008-12,Motörhead,2
+2008-12,Opeth,15
+2008-12,Ozzy Osbourne,28
+2008-12,Pantera,6
+2008-12,Queen,22
+2008-12,Slayer,0
+2008-12,Tool,16
+2009-01,Anton Maiden,5
+2009-01,Black Label Society,23
+2009-01,Black Sabbath,9
+2009-01,Bruce Dickinson,120
+2009-01,Cmx,94
+2009-01,Dream Theater,14
+2009-01,Godsmack,24
+2009-01,Guns N' Roses,64
+2009-01,Iron Maiden,22
+2009-01,Korn,49
+2009-01,Megadeth,25
+2009-01,Metallica,34
+2009-01,Mokoma,36
+2009-01,Motörhead,16
+2009-01,Opeth,12
+2009-01,Ozzy Osbourne,45
+2009-01,Pantera,7
+2009-01,Queen,33
+2009-01,Slayer,4
+2009-01,Tool,8
+2009-02,Anton Maiden,4
+2009-02,Black Label Society,15
+2009-02,Black Sabbath,15
+2009-02,Bruce Dickinson,25
+2009-02,Cmx,68
+2009-02,Dream Theater,5
+2009-02,Godsmack,5
+2009-02,Guns N' Roses,32
+2009-02,Iron Maiden,14
+2009-02,Korn,30
+2009-02,Megadeth,13
+2009-02,Metallica,220
+2009-02,Mokoma,26
+2009-02,Motörhead,12
+2009-02,Opeth,7
+2009-02,Ozzy Osbourne,14
+2009-02,Pantera,10
+2009-02,Queen,34
+2009-02,Slayer,3
+2009-02,Tool,3
+2009-03,Anton Maiden,3
+2009-03,Black Label Society,30
+2009-03,Black Sabbath,162
+2009-03,Bruce Dickinson,68
+2009-03,Cmx,11
+2009-03,Dream Theater,2
+2009-03,Godsmack,3
+2009-03,Guns N' Roses,7
+2009-03,Iron Maiden,12
+2009-03,Korn,7
+2009-03,Megadeth,15
+2009-03,Metallica,43
+2009-03,Mokoma,24
+2009-03,Motörhead,17
+2009-03,Opeth,3
+2009-03,Ozzy Osbourne,1
+2009-03,Pantera,3
+2009-03,Queen,36
+2009-03,Slayer,19
+2009-03,Tool,74
+2009-04,Anton Maiden,13
+2009-04,Black Label Society,18
+2009-04,Black Sabbath,11
+2009-04,Bruce Dickinson,24
+2009-04,Cmx,64
+2009-04,Dream Theater,0
+2009-04,Godsmack,16
+2009-04,Guns N' Roses,19
+2009-04,Iron Maiden,32
+2009-04,Korn,1
+2009-04,Megadeth,2
+2009-04,Metallica,19
+2009-04,Mokoma,51
+2009-04,Motörhead,12
+2009-04,Opeth,11
+2009-04,Ozzy Osbourne,16
+2009-04,Pantera,2
+2009-04,Queen,38
+2009-04,Slayer,0
+2009-04,Tool,16
+2009-05,Anton Maiden,3
+2009-05,Black Label Society,0
+2009-05,Black Sabbath,130
+2009-05,Bruce Dickinson,1
+2009-05,Cmx,68
+2009-05,Dream Theater,0
+2009-05,Godsmack,23
+2009-05,Guns N' Roses,29
+2009-05,Iron Maiden,28
+2009-05,Korn,13
+2009-05,Megadeth,28
+2009-05,Metallica,56
+2009-05,Mokoma,2
+2009-05,Motörhead,0
+2009-05,Opeth,0
+2009-05,Ozzy Osbourne,11
+2009-05,Pantera,24
+2009-05,Queen,1
+2009-05,Slayer,0
+2009-05,Tool,0
+2009-06,Anton Maiden,20
+2009-06,Black Label Society,0
+2009-06,Black Sabbath,12
+2009-06,Bruce Dickinson,0
+2009-06,Cmx,9
+2009-06,Dream Theater,0
+2009-06,Godsmack,0
+2009-06,Guns N' Roses,9
+2009-06,Iron Maiden,83
+2009-06,Korn,1
+2009-06,Megadeth,0
+2009-06,Metallica,19
+2009-06,Mokoma,0
+2009-06,Motörhead,0
+2009-06,Opeth,24
+2009-06,Ozzy Osbourne,0
+2009-06,Pantera,0
+2009-06,Queen,0
+2009-06,Slayer,0
+2009-06,Tool,0

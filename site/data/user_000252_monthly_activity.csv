@@ -1,0 +1,361 @@
+month,artist,plays
+2007-10,Aphex Twin,1
+2007-10,Bauhaus,1
+2007-10,Björk,0
+2007-10,Cat Power,0
+2007-10,Cibo Matto,1
+2007-10,Cocteau Twins,0
+2007-10,Cream,0
+2007-10,Dead Kennedys,0
+2007-10,Depeche Mode,2
+2007-10,Fischerspooner,1
+2007-10,Gwen Stefani,0
+2007-10,Ladytron,0
+2007-10,Muse,0
+2007-10,Nine Inch Nails,4
+2007-10,Peaches,0
+2007-10,Pearl Jam,0
+2007-10,Pj Harvey,2
+2007-10,Placebo,3
+2007-10,Scooter,2
+2007-10,Tool,0
+2007-11,Aphex Twin,28
+2007-11,Bauhaus,13
+2007-11,Björk,11
+2007-11,Cat Power,25
+2007-11,Cibo Matto,17
+2007-11,Cocteau Twins,18
+2007-11,Cream,6
+2007-11,Dead Kennedys,1
+2007-11,Depeche Mode,193
+2007-11,Fischerspooner,7
+2007-11,Gwen Stefani,10
+2007-11,Ladytron,13
+2007-11,Muse,1
+2007-11,Nine Inch Nails,108
+2007-11,Peaches,18
+2007-11,Pearl Jam,7
+2007-11,Pj Harvey,43
+2007-11,Placebo,73
+2007-11,Scooter,34
+2007-11,Tool,16
+2007-12,Aphex Twin,5
+2007-12,Bauhaus,1
+2007-12,Björk,1
+2007-12,Cat Power,1
+2007-12,Cibo Matto,2
+2007-12,Cocteau Twins,3
+2007-12,Cream,4
+2007-12,Dead Kennedys,2
+2007-12,Depeche Mode,25
+2007-12,Fischerspooner,1
+2007-12,Gwen Stefani,2
+2007-12,Ladytron,2
+2007-12,Muse,5
+2007-12,Nine Inch Nails,15
+2007-12,Peaches,1
+2007-12,Pearl Jam,2
+2007-12,Pj Harvey,5
+2007-12,Placebo,6
+2007-12,Scooter,4
+2007-12,Tool,2
+2008-01,Aphex Twin,4
+2008-01,Bauhaus,0
+2008-01,Björk,0
+2008-01,Cat Power,4
+2008-01,Cibo Matto,1
+2008-01,Cocteau Twins,1
+2008-01,Cream,4
+2008-01,Dead Kennedys,1
+2008-01,Depeche Mode,25
+2008-01,Fischerspooner,1
+2008-01,Gwen Stefani,4
+2008-01,Ladytron,1
+2008-01,Muse,2
+2008-01,Nine Inch Nails,12
+2008-01,Peaches,4
+2008-01,Pearl Jam,1
+2008-01,Pj Harvey,3
+2008-01,Placebo,14
+2008-01,Scooter,8
+2008-01,Tool,4
+2008-02,Aphex Twin,22
+2008-02,Bauhaus,7
+2008-02,Björk,6
+2008-02,Cat Power,25
+2008-02,Cibo Matto,12
+2008-02,Cocteau Twins,11
+2008-02,Cream,13
+2008-02,Dead Kennedys,11
+2008-02,Depeche Mode,357
+2008-02,Fischerspooner,6
+2008-02,Gwen Stefani,8
+2008-02,Ladytron,9
+2008-02,Muse,19
+2008-02,Nine Inch Nails,75
+2008-02,Peaches,11
+2008-02,Pearl Jam,14
+2008-02,Pj Harvey,49
+2008-02,Placebo,57
+2008-02,Scooter,38
+2008-02,Tool,17
+2008-03,Aphex Twin,0
+2008-03,Bauhaus,0
+2008-03,Björk,0
+2008-03,Cat Power,0
+2008-03,Cibo Matto,0
+2008-03,Cocteau Twins,0
+2008-03,Cream,0
+2008-03,Dead Kennedys,0
+2008-03,Depeche Mode,0
+2008-03,Fischerspooner,0
+2008-03,Gwen Stefani,0
+2008-03,Ladytron,0
+2008-03,Muse,0
+2008-03,Nine Inch Nails,0
+2008-03,Peaches,0
+2008-03,Pearl Jam,0
+2008-03,Pj Harvey,0
+2008-03,Placebo,0
+2008-03,Scooter,0
+2008-03,Tool,0
+2008-04,Aphex Twin,0
+2008-04,Bauhaus,0
+2008-04,Björk,0
+2008-04,Cat Power,0
+2008-04,Cibo Matto,0
+2008-04,Cocteau Twins,0
+2008-04,Cream,0
+2008-04,Dead Kennedys,0
+2008-04,Depeche Mode,0
+2008-04,Fischerspooner,0
+2008-04,Gwen Stefani,0
+2008-04,Ladytron,0
+2008-04,Muse,0
+2008-04,Nine Inch Nails,0
+2008-04,Peaches,0
+2008-04,Pearl Jam,0
+2008-04,Pj Harvey,0
+2008-04,Placebo,0
+2008-04,Scooter,0
+2008-04,Tool,0
+2008-05,Aphex Twin,10
+2008-05,Bauhaus,5
+2008-05,Björk,4
+2008-05,Cat Power,11
+2008-05,Cibo Matto,3
+2008-05,Cocteau Twins,3
+2008-05,Cream,5
+2008-05,Dead Kennedys,6
+2008-05,Depeche Mode,246
+2008-05,Fischerspooner,7
+2008-05,Gwen Stefani,1
+2008-05,Ladytron,5
+2008-05,Muse,12
+2008-05,Nine Inch Nails,37
+2008-05,Peaches,11
+2008-05,Pearl Jam,9
+2008-05,Pj Harvey,13
+2008-05,Placebo,36
+2008-05,Scooter,16
+2008-05,Tool,13
+2008-06,Aphex Twin,29
+2008-06,Bauhaus,11
+2008-06,Björk,12
+2008-06,Cat Power,30
+2008-06,Cibo Matto,14
+2008-06,Cocteau Twins,17
+2008-06,Cream,19
+2008-06,Dead Kennedys,18
+2008-06,Depeche Mode,254
+2008-06,Fischerspooner,11
+2008-06,Gwen Stefani,9
+2008-06,Ladytron,18
+2008-06,Muse,32
+2008-06,Nine Inch Nails,131
+2008-06,Peaches,27
+2008-06,Pearl Jam,21
+2008-06,Pj Harvey,52
+2008-06,Placebo,88
+2008-06,Scooter,62
+2008-06,Tool,18
+2008-07,Aphex Twin,1
+2008-07,Bauhaus,0
+2008-07,Björk,0
+2008-07,Cat Power,1
+2008-07,Cibo Matto,0
+2008-07,Cocteau Twins,0
+2008-07,Cream,0
+2008-07,Dead Kennedys,0
+2008-07,Depeche Mode,2
+2008-07,Fischerspooner,0
+2008-07,Gwen Stefani,1
+2008-07,Ladytron,1
+2008-07,Muse,13
+2008-07,Nine Inch Nails,2
+2008-07,Peaches,0
+2008-07,Pearl Jam,1
+2008-07,Pj Harvey,1
+2008-07,Placebo,0
+2008-07,Scooter,0
+2008-07,Tool,0
+2008-08,Aphex Twin,4
+2008-08,Bauhaus,2
+2008-08,Björk,3
+2008-08,Cat Power,4
+2008-08,Cibo Matto,2
+2008-08,Cocteau Twins,1
+2008-08,Cream,4
+2008-08,Dead Kennedys,5
+2008-08,Depeche Mode,48
+2008-08,Fischerspooner,1
+2008-08,Gwen Stefani,3
+2008-08,Ladytron,4
+2008-08,Muse,7
+2008-08,Nine Inch Nails,27
+2008-08,Peaches,1
+2008-08,Pearl Jam,3
+2008-08,Pj Harvey,16
+2008-08,Placebo,22
+2008-08,Scooter,10
+2008-08,Tool,1
+2008-09,Aphex Twin,25
+2008-09,Bauhaus,8
+2008-09,Björk,4
+2008-09,Cat Power,27
+2008-09,Cibo Matto,14
+2008-09,Cocteau Twins,13
+2008-09,Cream,14
+2008-09,Dead Kennedys,14
+2008-09,Depeche Mode,195
+2008-09,Fischerspooner,6
+2008-09,Gwen Stefani,8
+2008-09,Ladytron,13
+2008-09,Muse,32
+2008-09,Nine Inch Nails,119
+2008-09,Peaches,17
+2008-09,Pearl Jam,13
+2008-09,Pj Harvey,44
+2008-09,Placebo,69
+2008-09,Scooter,40
+2008-09,Tool,25
+2008-10,Aphex Twin,10
+2008-10,Bauhaus,2
+2008-10,Björk,2
+2008-10,Cat Power,12
+2008-10,Cibo Matto,2
+2008-10,Cocteau Twins,4
+2008-10,Cream,5
+2008-10,Dead Kennedys,2
+2008-10,Depeche Mode,65
+2008-10,Fischerspooner,3
+2008-10,Gwen Stefani,6
+2008-10,Ladytron,5
+2008-10,Muse,4
+2008-10,Nine Inch Nails,28
+2008-10,Peaches,6
+2008-10,Pearl Jam,9
+2008-10,Pj Harvey,11
+2008-10,Placebo,17
+2008-10,Scooter,12
+2008-10,Tool,3
+2008-11,Aphex Twin,0
+2008-11,Bauhaus,0
+2008-11,Björk,1
+2008-11,Cat Power,1
+2008-11,Cibo Matto,0
+2008-11,Cocteau Twins,0
+2008-11,Cream,1
+2008-11,Dead Kennedys,0
+2008-11,Depeche Mode,9
+2008-11,Fischerspooner,2
+2008-11,Gwen Stefani,1
+2008-11,Ladytron,0
+2008-11,Muse,1
+2008-11,Nine Inch Nails,1
+2008-11,Peaches,1
+2008-11,Pearl Jam,2
+2008-11,Pj Harvey,0
+2008-11,Placebo,4
+2008-11,Scooter,1
+2008-11,Tool,0
+2008-12,Aphex Twin,0
+2008-12,Bauhaus,0
+2008-12,Björk,0
+2008-12,Cat Power,0
+2008-12,Cibo Matto,0
+2008-12,Cocteau Twins,0
+2008-12,Cream,0
+2008-12,Dead Kennedys,0
+2008-12,Depeche Mode,0
+2008-12,Fischerspooner,0
+2008-12,Gwen Stefani,0
+2008-12,Ladytron,0
+2008-12,Muse,0
+2008-12,Nine Inch Nails,0
+2008-12,Peaches,0
+2008-12,Pearl Jam,0
+2008-12,Pj Harvey,0
+2008-12,Placebo,0
+2008-12,Scooter,0
+2008-12,Tool,0
+2009-01,Aphex Twin,2
+2009-01,Bauhaus,1
+2009-01,Björk,0
+2009-01,Cat Power,1
+2009-01,Cibo Matto,0
+2009-01,Cocteau Twins,0
+2009-01,Cream,0
+2009-01,Dead Kennedys,1
+2009-01,Depeche Mode,3
+2009-01,Fischerspooner,0
+2009-01,Gwen Stefani,0
+2009-01,Ladytron,0
+2009-01,Muse,1
+2009-01,Nine Inch Nails,3
+2009-01,Peaches,1
+2009-01,Pearl Jam,1
+2009-01,Pj Harvey,0
+2009-01,Placebo,1
+2009-01,Scooter,0
+2009-01,Tool,0
+2009-02,Aphex Twin,0
+2009-02,Bauhaus,0
+2009-02,Björk,1
+2009-02,Cat Power,1
+2009-02,Cibo Matto,0
+2009-02,Cocteau Twins,0
+2009-02,Cream,0
+2009-02,Dead Kennedys,0
+2009-02,Depeche Mode,6
+2009-02,Fischerspooner,0
+2009-02,Gwen Stefani,0
+2009-02,Ladytron,0
+2009-02,Muse,0
+2009-02,Nine Inch Nails,4
+2009-02,Peaches,0
+2009-02,Pearl Jam,0
+2009-02,Pj Harvey,0
+2009-02,Placebo,0
+2009-02,Scooter,0
+2009-02,Tool,1
+2009-03,Aphex Twin,0
+2009-03,Bauhaus,1
+2009-03,Björk,2
+2009-03,Cat Power,1
+2009-03,Cibo Matto,0
+2009-03,Cocteau Twins,1
+2009-03,Cream,0
+2009-03,Dead Kennedys,0
+2009-03,Depeche Mode,1
+2009-03,Fischerspooner,0
+2009-03,Gwen Stefani,0
+2009-03,Ladytron,1
+2009-03,Muse,0
+2009-03,Nine Inch Nails,2
+2009-03,Peaches,1
+2009-03,Pearl Jam,1
+2009-03,Pj Harvey,0
+2009-03,Placebo,0
+2009-03,Scooter,0
+2009-03,Tool,1

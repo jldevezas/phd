@@ -58,10 +58,7 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 
 	var color = d3.scale.linear()
 			.domain([0, n-1])
-			//.range(["#aad", "#556"]);
-			//.range(["#ada", "#565"]);
 			.range(["#dad", "#656"]);
-			//.range(["#f0b7a1", "#bf6e4e"]);
 
 	var area = d3.svg.area()
 			.x(function(d) { return x(d.x); })
@@ -146,16 +143,6 @@ JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 			.attr("transform", "translate(0," + height + ")")
 			.call(xAxis);
 
-	svg.append("g")
-			.attr("class", "y axis")
-			.call(yAxis)
-		.append("text")
-			.attr("transform", "rotate(-90)")
-			.attr("y", 6)
-			.attr("dy", ".71em")
-			.style("text-anchor", "end")
-			.text("Play Count");
-
 	svg.selectAll(".bar")
 			.data(data)
 		.enter().append("rect")
@@ -166,7 +153,6 @@ JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 			.attr("height", function(d) { return height - y(d.plays); })
 			.on("mouseover", function(d, i) {
 				d3.select(this)
-					.style("cursor", "pointer")
 					.style("stroke", "black")
 					.style("fill", function() { return d3.rgb(d3.select(this).style("fill")).darker(); });
 				d3.select(jld.containers.artisttooltip)
@@ -185,6 +171,16 @@ JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 					.style("display", "none")
 					.text("");
 			});
+
+	svg.append("g")
+			.attr("class", "y axis")
+			.call(yAxis)
+		.append("text")
+			.attr("transform", "rotate(-90)")
+			.attr("y", 6)
+			.attr("dy", ".71em")
+			.style("text-anchor", "end")
+			.text("Play Count");
 };
 
 JldVisualization.prototype.mostFrequentArtist = function() {

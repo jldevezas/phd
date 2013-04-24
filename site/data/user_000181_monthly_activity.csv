@@ -1,0 +1,781 @@
+month,artist,plays
+2006-02,Bad Brains,3
+2006-02,Beck,12
+2006-02,Black Flag,6
+2006-02,Buzzcocks,1
+2006-02,Dangerdoom,7
+2006-02,David Bowie,2
+2006-02,Descendents,2
+2006-02,Interpol,3
+2006-02,Mf Doom,1
+2006-02,No Doubt,4
+2006-02,Reagan Youth,4
+2006-02,Stone Temple Pilots,1
+2006-02,The Beatles,5
+2006-02,The Dead Milkmen,0
+2006-02,The Mighty Mighty Bosstones,3
+2006-02,The Smashing Pumpkins,12
+2006-02,The Smiths,0
+2006-02,The Strokes,8
+2006-02,Turbonegro,0
+2006-02,Weezer,11
+2006-03,Bad Brains,3
+2006-03,Beck,2
+2006-03,Black Flag,2
+2006-03,Buzzcocks,2
+2006-03,Dangerdoom,4
+2006-03,David Bowie,0
+2006-03,Descendents,0
+2006-03,Interpol,0
+2006-03,Mf Doom,0
+2006-03,No Doubt,1
+2006-03,Reagan Youth,0
+2006-03,Stone Temple Pilots,0
+2006-03,The Beatles,1
+2006-03,The Dead Milkmen,0
+2006-03,The Mighty Mighty Bosstones,0
+2006-03,The Smashing Pumpkins,2
+2006-03,The Smiths,0
+2006-03,The Strokes,0
+2006-03,Turbonegro,0
+2006-03,Weezer,1
+2006-04,Bad Brains,19
+2006-04,Beck,13
+2006-04,Black Flag,25
+2006-04,Buzzcocks,15
+2006-04,Dangerdoom,2
+2006-04,David Bowie,1
+2006-04,Descendents,0
+2006-04,Interpol,4
+2006-04,Mf Doom,0
+2006-04,No Doubt,21
+2006-04,Reagan Youth,3
+2006-04,Stone Temple Pilots,0
+2006-04,The Beatles,7
+2006-04,The Dead Milkmen,0
+2006-04,The Mighty Mighty Bosstones,4
+2006-04,The Smashing Pumpkins,11
+2006-04,The Smiths,0
+2006-04,The Strokes,6
+2006-04,Turbonegro,4
+2006-04,Weezer,3
+2006-05,Bad Brains,18
+2006-05,Beck,10
+2006-05,Black Flag,26
+2006-05,Buzzcocks,22
+2006-05,Dangerdoom,13
+2006-05,David Bowie,6
+2006-05,Descendents,1
+2006-05,Interpol,7
+2006-05,Mf Doom,0
+2006-05,No Doubt,11
+2006-05,Reagan Youth,17
+2006-05,Stone Temple Pilots,1
+2006-05,The Beatles,2
+2006-05,The Dead Milkmen,27
+2006-05,The Mighty Mighty Bosstones,10
+2006-05,The Smashing Pumpkins,12
+2006-05,The Smiths,4
+2006-05,The Strokes,16
+2006-05,Turbonegro,5
+2006-05,Weezer,4
+2006-06,Bad Brains,17
+2006-06,Beck,8
+2006-06,Black Flag,19
+2006-06,Buzzcocks,15
+2006-06,Dangerdoom,10
+2006-06,David Bowie,2
+2006-06,Descendents,1
+2006-06,Interpol,7
+2006-06,Mf Doom,2
+2006-06,No Doubt,10
+2006-06,Reagan Youth,18
+2006-06,Stone Temple Pilots,1
+2006-06,The Beatles,1
+2006-06,The Dead Milkmen,16
+2006-06,The Mighty Mighty Bosstones,7
+2006-06,The Smashing Pumpkins,12
+2006-06,The Smiths,7
+2006-06,The Strokes,10
+2006-06,Turbonegro,3
+2006-06,Weezer,6
+2006-07,Bad Brains,0
+2006-07,Beck,0
+2006-07,Black Flag,0
+2006-07,Buzzcocks,0
+2006-07,Dangerdoom,0
+2006-07,David Bowie,0
+2006-07,Descendents,0
+2006-07,Interpol,0
+2006-07,Mf Doom,0
+2006-07,No Doubt,0
+2006-07,Reagan Youth,0
+2006-07,Stone Temple Pilots,0
+2006-07,The Beatles,0
+2006-07,The Dead Milkmen,0
+2006-07,The Mighty Mighty Bosstones,0
+2006-07,The Smashing Pumpkins,0
+2006-07,The Smiths,0
+2006-07,The Strokes,0
+2006-07,Turbonegro,0
+2006-07,Weezer,0
+2006-08,Bad Brains,4
+2006-08,Beck,8
+2006-08,Black Flag,12
+2006-08,Buzzcocks,1
+2006-08,Dangerdoom,3
+2006-08,David Bowie,5
+2006-08,Descendents,8
+2006-08,Interpol,6
+2006-08,Mf Doom,0
+2006-08,No Doubt,12
+2006-08,Reagan Youth,14
+2006-08,Stone Temple Pilots,1
+2006-08,The Beatles,9
+2006-08,The Dead Milkmen,11
+2006-08,The Mighty Mighty Bosstones,0
+2006-08,The Smashing Pumpkins,10
+2006-08,The Smiths,7
+2006-08,The Strokes,12
+2006-08,Turbonegro,10
+2006-08,Weezer,9
+2006-09,Bad Brains,10
+2006-09,Beck,2
+2006-09,Black Flag,12
+2006-09,Buzzcocks,0
+2006-09,Dangerdoom,9
+2006-09,David Bowie,1
+2006-09,Descendents,5
+2006-09,Interpol,7
+2006-09,Mf Doom,0
+2006-09,No Doubt,5
+2006-09,Reagan Youth,13
+2006-09,Stone Temple Pilots,1
+2006-09,The Beatles,6
+2006-09,The Dead Milkmen,10
+2006-09,The Mighty Mighty Bosstones,0
+2006-09,The Smashing Pumpkins,9
+2006-09,The Smiths,2
+2006-09,The Strokes,11
+2006-09,Turbonegro,4
+2006-09,Weezer,8
+2006-10,Bad Brains,19
+2006-10,Beck,9
+2006-10,Black Flag,19
+2006-10,Buzzcocks,15
+2006-10,Dangerdoom,15
+2006-10,David Bowie,2
+2006-10,Descendents,18
+2006-10,Interpol,11
+2006-10,Mf Doom,15
+2006-10,No Doubt,12
+2006-10,Reagan Youth,24
+2006-10,Stone Temple Pilots,0
+2006-10,The Beatles,2
+2006-10,The Dead Milkmen,18
+2006-10,The Mighty Mighty Bosstones,9
+2006-10,The Smashing Pumpkins,15
+2006-10,The Smiths,6
+2006-10,The Strokes,21
+2006-10,Turbonegro,14
+2006-10,Weezer,9
+2006-11,Bad Brains,8
+2006-11,Beck,5
+2006-11,Black Flag,10
+2006-11,Buzzcocks,10
+2006-11,Dangerdoom,9
+2006-11,David Bowie,0
+2006-11,Descendents,4
+2006-11,Interpol,5
+2006-11,Mf Doom,8
+2006-11,No Doubt,7
+2006-11,Reagan Youth,11
+2006-11,Stone Temple Pilots,0
+2006-11,The Beatles,2
+2006-11,The Dead Milkmen,9
+2006-11,The Mighty Mighty Bosstones,7
+2006-11,The Smashing Pumpkins,6
+2006-11,The Smiths,1
+2006-11,The Strokes,6
+2006-11,Turbonegro,6
+2006-11,Weezer,4
+2006-12,Bad Brains,26
+2006-12,Beck,8
+2006-12,Black Flag,28
+2006-12,Buzzcocks,25
+2006-12,Dangerdoom,16
+2006-12,David Bowie,3
+2006-12,Descendents,24
+2006-12,Interpol,18
+2006-12,Mf Doom,23
+2006-12,No Doubt,20
+2006-12,Reagan Youth,25
+2006-12,Stone Temple Pilots,0
+2006-12,The Beatles,7
+2006-12,The Dead Milkmen,23
+2006-12,The Mighty Mighty Bosstones,27
+2006-12,The Smashing Pumpkins,17
+2006-12,The Smiths,0
+2006-12,The Strokes,22
+2006-12,Turbonegro,20
+2006-12,Weezer,15
+2007-01,Bad Brains,18
+2007-01,Beck,4
+2007-01,Black Flag,19
+2007-01,Buzzcocks,18
+2007-01,Dangerdoom,7
+2007-01,David Bowie,0
+2007-01,Descendents,19
+2007-01,Interpol,13
+2007-01,Mf Doom,17
+2007-01,No Doubt,11
+2007-01,Reagan Youth,17
+2007-01,Stone Temple Pilots,1
+2007-01,The Beatles,6
+2007-01,The Dead Milkmen,17
+2007-01,The Mighty Mighty Bosstones,14
+2007-01,The Smashing Pumpkins,11
+2007-01,The Smiths,0
+2007-01,The Strokes,12
+2007-01,Turbonegro,12
+2007-01,Weezer,2
+2007-02,Bad Brains,13
+2007-02,Beck,10
+2007-02,Black Flag,15
+2007-02,Buzzcocks,15
+2007-02,Dangerdoom,7
+2007-02,David Bowie,2
+2007-02,Descendents,13
+2007-02,Interpol,13
+2007-02,Mf Doom,14
+2007-02,No Doubt,12
+2007-02,Reagan Youth,13
+2007-02,Stone Temple Pilots,0
+2007-02,The Beatles,9
+2007-02,The Dead Milkmen,14
+2007-02,The Mighty Mighty Bosstones,14
+2007-02,The Smashing Pumpkins,1
+2007-02,The Smiths,0
+2007-02,The Strokes,14
+2007-02,Turbonegro,9
+2007-02,Weezer,9
+2007-03,Bad Brains,26
+2007-03,Beck,11
+2007-03,Black Flag,27
+2007-03,Buzzcocks,25
+2007-03,Dangerdoom,20
+2007-03,David Bowie,3
+2007-03,Descendents,20
+2007-03,Interpol,20
+2007-03,Mf Doom,23
+2007-03,No Doubt,22
+2007-03,Reagan Youth,26
+2007-03,Stone Temple Pilots,1
+2007-03,The Beatles,21
+2007-03,The Dead Milkmen,28
+2007-03,The Mighty Mighty Bosstones,20
+2007-03,The Smashing Pumpkins,3
+2007-03,The Smiths,2
+2007-03,The Strokes,21
+2007-03,Turbonegro,14
+2007-03,Weezer,19
+2007-04,Bad Brains,24
+2007-04,Beck,16
+2007-04,Black Flag,26
+2007-04,Buzzcocks,20
+2007-04,Dangerdoom,18
+2007-04,David Bowie,7
+2007-04,Descendents,21
+2007-04,Interpol,21
+2007-04,Mf Doom,16
+2007-04,No Doubt,17
+2007-04,Reagan Youth,23
+2007-04,Stone Temple Pilots,0
+2007-04,The Beatles,17
+2007-04,The Dead Milkmen,23
+2007-04,The Mighty Mighty Bosstones,16
+2007-04,The Smashing Pumpkins,1
+2007-04,The Smiths,2
+2007-04,The Strokes,22
+2007-04,Turbonegro,19
+2007-04,Weezer,17
+2007-05,Bad Brains,16
+2007-05,Beck,9
+2007-05,Black Flag,27
+2007-05,Buzzcocks,11
+2007-05,Dangerdoom,9
+2007-05,David Bowie,6
+2007-05,Descendents,15
+2007-05,Interpol,10
+2007-05,Mf Doom,4
+2007-05,No Doubt,10
+2007-05,Reagan Youth,11
+2007-05,Stone Temple Pilots,0
+2007-05,The Beatles,14
+2007-05,The Dead Milkmen,30
+2007-05,The Mighty Mighty Bosstones,7
+2007-05,The Smashing Pumpkins,38
+2007-05,The Smiths,2
+2007-05,The Strokes,13
+2007-05,Turbonegro,9
+2007-05,Weezer,10
+2007-06,Bad Brains,5
+2007-06,Beck,17
+2007-06,Black Flag,34
+2007-06,Buzzcocks,6
+2007-06,Dangerdoom,1
+2007-06,David Bowie,0
+2007-06,Descendents,8
+2007-06,Interpol,31
+2007-06,Mf Doom,42
+2007-06,No Doubt,3
+2007-06,Reagan Youth,1
+2007-06,Stone Temple Pilots,7
+2007-06,The Beatles,14
+2007-06,The Dead Milkmen,80
+2007-06,The Mighty Mighty Bosstones,0
+2007-06,The Smashing Pumpkins,55
+2007-06,The Smiths,104
+2007-06,The Strokes,48
+2007-06,Turbonegro,7
+2007-06,Weezer,29
+2007-07,Bad Brains,2
+2007-07,Beck,9
+2007-07,Black Flag,53
+2007-07,Buzzcocks,8
+2007-07,Dangerdoom,0
+2007-07,David Bowie,0
+2007-07,Descendents,2
+2007-07,Interpol,79
+2007-07,Mf Doom,18
+2007-07,No Doubt,2
+2007-07,Reagan Youth,30
+2007-07,Stone Temple Pilots,6
+2007-07,The Beatles,17
+2007-07,The Dead Milkmen,36
+2007-07,The Mighty Mighty Bosstones,0
+2007-07,The Smashing Pumpkins,43
+2007-07,The Smiths,40
+2007-07,The Strokes,38
+2007-07,Turbonegro,5
+2007-07,Weezer,31
+2007-08,Bad Brains,13
+2007-08,Beck,33
+2007-08,Black Flag,25
+2007-08,Buzzcocks,8
+2007-08,Dangerdoom,3
+2007-08,David Bowie,0
+2007-08,Descendents,10
+2007-08,Interpol,58
+2007-08,Mf Doom,4
+2007-08,No Doubt,13
+2007-08,Reagan Youth,96
+2007-08,Stone Temple Pilots,2
+2007-08,The Beatles,1
+2007-08,The Dead Milkmen,92
+2007-08,The Mighty Mighty Bosstones,0
+2007-08,The Smashing Pumpkins,17
+2007-08,The Smiths,32
+2007-08,The Strokes,23
+2007-08,Turbonegro,0
+2007-08,Weezer,10
+2007-09,Bad Brains,6
+2007-09,Beck,71
+2007-09,Black Flag,109
+2007-09,Buzzcocks,120
+2007-09,Dangerdoom,12
+2007-09,David Bowie,6
+2007-09,Descendents,501
+2007-09,Interpol,61
+2007-09,Mf Doom,5
+2007-09,No Doubt,25
+2007-09,Reagan Youth,41
+2007-09,Stone Temple Pilots,2
+2007-09,The Beatles,8
+2007-09,The Dead Milkmen,118
+2007-09,The Mighty Mighty Bosstones,1
+2007-09,The Smashing Pumpkins,27
+2007-09,The Smiths,5
+2007-09,The Strokes,4
+2007-09,Turbonegro,0
+2007-09,Weezer,3
+2007-10,Bad Brains,16
+2007-10,Beck,23
+2007-10,Black Flag,65
+2007-10,Buzzcocks,101
+2007-10,Dangerdoom,1
+2007-10,David Bowie,30
+2007-10,Descendents,19
+2007-10,Interpol,13
+2007-10,Mf Doom,1
+2007-10,No Doubt,51
+2007-10,Reagan Youth,51
+2007-10,Stone Temple Pilots,12
+2007-10,The Beatles,6
+2007-10,The Dead Milkmen,102
+2007-10,The Mighty Mighty Bosstones,32
+2007-10,The Smashing Pumpkins,117
+2007-10,The Smiths,34
+2007-10,The Strokes,4
+2007-10,Turbonegro,3
+2007-10,Weezer,0
+2007-11,Bad Brains,11
+2007-11,Beck,66
+2007-11,Black Flag,9
+2007-11,Buzzcocks,12
+2007-11,Dangerdoom,5
+2007-11,David Bowie,10
+2007-11,Descendents,53
+2007-11,Interpol,29
+2007-11,Mf Doom,2
+2007-11,No Doubt,15
+2007-11,Reagan Youth,24
+2007-11,Stone Temple Pilots,3
+2007-11,The Beatles,10
+2007-11,The Dead Milkmen,68
+2007-11,The Mighty Mighty Bosstones,30
+2007-11,The Smashing Pumpkins,67
+2007-11,The Smiths,6
+2007-11,The Strokes,12
+2007-11,Turbonegro,1
+2007-11,Weezer,15
+2007-12,Bad Brains,0
+2007-12,Beck,19
+2007-12,Black Flag,9
+2007-12,Buzzcocks,1
+2007-12,Dangerdoom,5
+2007-12,David Bowie,4
+2007-12,Descendents,7
+2007-12,Interpol,12
+2007-12,Mf Doom,1
+2007-12,No Doubt,6
+2007-12,Reagan Youth,11
+2007-12,Stone Temple Pilots,0
+2007-12,The Beatles,0
+2007-12,The Dead Milkmen,31
+2007-12,The Mighty Mighty Bosstones,7
+2007-12,The Smashing Pumpkins,45
+2007-12,The Smiths,2
+2007-12,The Strokes,3
+2007-12,Turbonegro,0
+2007-12,Weezer,1
+2008-01,Bad Brains,2
+2008-01,Beck,6
+2008-01,Black Flag,7
+2008-01,Buzzcocks,3
+2008-01,Dangerdoom,5
+2008-01,David Bowie,2
+2008-01,Descendents,15
+2008-01,Interpol,4
+2008-01,Mf Doom,4
+2008-01,No Doubt,7
+2008-01,Reagan Youth,22
+2008-01,Stone Temple Pilots,6
+2008-01,The Beatles,4
+2008-01,The Dead Milkmen,401
+2008-01,The Mighty Mighty Bosstones,5
+2008-01,The Smashing Pumpkins,12
+2008-01,The Smiths,8
+2008-01,The Strokes,5
+2008-01,Turbonegro,2
+2008-01,Weezer,4
+2008-02,Bad Brains,11
+2008-02,Beck,5
+2008-02,Black Flag,1
+2008-02,Buzzcocks,5
+2008-02,Dangerdoom,1
+2008-02,David Bowie,1
+2008-02,Descendents,9
+2008-02,Interpol,12
+2008-02,Mf Doom,38
+2008-02,No Doubt,5
+2008-02,Reagan Youth,16
+2008-02,Stone Temple Pilots,10
+2008-02,The Beatles,1
+2008-02,The Dead Milkmen,75
+2008-02,The Mighty Mighty Bosstones,1
+2008-02,The Smashing Pumpkins,11
+2008-02,The Smiths,3
+2008-02,The Strokes,24
+2008-02,Turbonegro,1
+2008-02,Weezer,6
+2008-03,Bad Brains,21
+2008-03,Beck,4
+2008-03,Black Flag,3
+2008-03,Buzzcocks,6
+2008-03,Dangerdoom,0
+2008-03,David Bowie,0
+2008-03,Descendents,6
+2008-03,Interpol,2
+2008-03,Mf Doom,13
+2008-03,No Doubt,4
+2008-03,Reagan Youth,50
+2008-03,Stone Temple Pilots,0
+2008-03,The Beatles,3
+2008-03,The Dead Milkmen,3
+2008-03,The Mighty Mighty Bosstones,5
+2008-03,The Smashing Pumpkins,9
+2008-03,The Smiths,2
+2008-03,The Strokes,2
+2008-03,Turbonegro,0
+2008-03,Weezer,2
+2008-04,Bad Brains,0
+2008-04,Beck,0
+2008-04,Black Flag,0
+2008-04,Buzzcocks,0
+2008-04,Dangerdoom,0
+2008-04,David Bowie,0
+2008-04,Descendents,2
+2008-04,Interpol,0
+2008-04,Mf Doom,1
+2008-04,No Doubt,17
+2008-04,Reagan Youth,22
+2008-04,Stone Temple Pilots,10
+2008-04,The Beatles,1
+2008-04,The Dead Milkmen,4
+2008-04,The Mighty Mighty Bosstones,0
+2008-04,The Smashing Pumpkins,1
+2008-04,The Smiths,0
+2008-04,The Strokes,0
+2008-04,Turbonegro,0
+2008-04,Weezer,0
+2008-05,Bad Brains,0
+2008-05,Beck,0
+2008-05,Black Flag,1
+2008-05,Buzzcocks,14
+2008-05,Dangerdoom,0
+2008-05,David Bowie,0
+2008-05,Descendents,0
+2008-05,Interpol,3
+2008-05,Mf Doom,0
+2008-05,No Doubt,3
+2008-05,Reagan Youth,0
+2008-05,Stone Temple Pilots,31
+2008-05,The Beatles,0
+2008-05,The Dead Milkmen,43
+2008-05,The Mighty Mighty Bosstones,1
+2008-05,The Smashing Pumpkins,2
+2008-05,The Smiths,22
+2008-05,The Strokes,0
+2008-05,Turbonegro,0
+2008-05,Weezer,0
+2008-06,Bad Brains,0
+2008-06,Beck,0
+2008-06,Black Flag,1
+2008-06,Buzzcocks,1
+2008-06,Dangerdoom,1
+2008-06,David Bowie,0
+2008-06,Descendents,1
+2008-06,Interpol,0
+2008-06,Mf Doom,0
+2008-06,No Doubt,1
+2008-06,Reagan Youth,0
+2008-06,Stone Temple Pilots,0
+2008-06,The Beatles,0
+2008-06,The Dead Milkmen,35
+2008-06,The Mighty Mighty Bosstones,0
+2008-06,The Smashing Pumpkins,1
+2008-06,The Smiths,1
+2008-06,The Strokes,1
+2008-06,Turbonegro,1
+2008-06,Weezer,19
+2008-07,Bad Brains,0
+2008-07,Beck,0
+2008-07,Black Flag,0
+2008-07,Buzzcocks,0
+2008-07,Dangerdoom,0
+2008-07,David Bowie,0
+2008-07,Descendents,0
+2008-07,Interpol,0
+2008-07,Mf Doom,0
+2008-07,No Doubt,11
+2008-07,Reagan Youth,0
+2008-07,Stone Temple Pilots,0
+2008-07,The Beatles,0
+2008-07,The Dead Milkmen,0
+2008-07,The Mighty Mighty Bosstones,0
+2008-07,The Smashing Pumpkins,0
+2008-07,The Smiths,0
+2008-07,The Strokes,0
+2008-07,Turbonegro,0
+2008-07,Weezer,0
+2008-08,Bad Brains,0
+2008-08,Beck,0
+2008-08,Black Flag,0
+2008-08,Buzzcocks,0
+2008-08,Dangerdoom,0
+2008-08,David Bowie,0
+2008-08,Descendents,0
+2008-08,Interpol,0
+2008-08,Mf Doom,0
+2008-08,No Doubt,0
+2008-08,Reagan Youth,0
+2008-08,Stone Temple Pilots,0
+2008-08,The Beatles,0
+2008-08,The Dead Milkmen,0
+2008-08,The Mighty Mighty Bosstones,0
+2008-08,The Smashing Pumpkins,0
+2008-08,The Smiths,0
+2008-08,The Strokes,0
+2008-08,Turbonegro,0
+2008-08,Weezer,0
+2008-09,Bad Brains,0
+2008-09,Beck,0
+2008-09,Black Flag,0
+2008-09,Buzzcocks,0
+2008-09,Dangerdoom,0
+2008-09,David Bowie,0
+2008-09,Descendents,0
+2008-09,Interpol,0
+2008-09,Mf Doom,0
+2008-09,No Doubt,0
+2008-09,Reagan Youth,0
+2008-09,Stone Temple Pilots,0
+2008-09,The Beatles,0
+2008-09,The Dead Milkmen,0
+2008-09,The Mighty Mighty Bosstones,0
+2008-09,The Smashing Pumpkins,0
+2008-09,The Smiths,0
+2008-09,The Strokes,0
+2008-09,Turbonegro,0
+2008-09,Weezer,0
+2008-10,Bad Brains,0
+2008-10,Beck,0
+2008-10,Black Flag,0
+2008-10,Buzzcocks,0
+2008-10,Dangerdoom,0
+2008-10,David Bowie,0
+2008-10,Descendents,0
+2008-10,Interpol,0
+2008-10,Mf Doom,0
+2008-10,No Doubt,0
+2008-10,Reagan Youth,0
+2008-10,Stone Temple Pilots,0
+2008-10,The Beatles,0
+2008-10,The Dead Milkmen,0
+2008-10,The Mighty Mighty Bosstones,0
+2008-10,The Smashing Pumpkins,0
+2008-10,The Smiths,0
+2008-10,The Strokes,0
+2008-10,Turbonegro,0
+2008-10,Weezer,0
+2008-11,Bad Brains,0
+2008-11,Beck,0
+2008-11,Black Flag,0
+2008-11,Buzzcocks,0
+2008-11,Dangerdoom,0
+2008-11,David Bowie,0
+2008-11,Descendents,0
+2008-11,Interpol,0
+2008-11,Mf Doom,0
+2008-11,No Doubt,0
+2008-11,Reagan Youth,0
+2008-11,Stone Temple Pilots,0
+2008-11,The Beatles,0
+2008-11,The Dead Milkmen,0
+2008-11,The Mighty Mighty Bosstones,0
+2008-11,The Smashing Pumpkins,0
+2008-11,The Smiths,0
+2008-11,The Strokes,0
+2008-11,Turbonegro,0
+2008-11,Weezer,0
+2008-12,Bad Brains,0
+2008-12,Beck,0
+2008-12,Black Flag,0
+2008-12,Buzzcocks,0
+2008-12,Dangerdoom,0
+2008-12,David Bowie,0
+2008-12,Descendents,0
+2008-12,Interpol,0
+2008-12,Mf Doom,0
+2008-12,No Doubt,0
+2008-12,Reagan Youth,0
+2008-12,Stone Temple Pilots,0
+2008-12,The Beatles,0
+2008-12,The Dead Milkmen,0
+2008-12,The Mighty Mighty Bosstones,0
+2008-12,The Smashing Pumpkins,0
+2008-12,The Smiths,0
+2008-12,The Strokes,0
+2008-12,Turbonegro,0
+2008-12,Weezer,0
+2009-01,Bad Brains,0
+2009-01,Beck,0
+2009-01,Black Flag,0
+2009-01,Buzzcocks,0
+2009-01,Dangerdoom,0
+2009-01,David Bowie,0
+2009-01,Descendents,0
+2009-01,Interpol,0
+2009-01,Mf Doom,0
+2009-01,No Doubt,0
+2009-01,Reagan Youth,0
+2009-01,Stone Temple Pilots,0
+2009-01,The Beatles,0
+2009-01,The Dead Milkmen,0
+2009-01,The Mighty Mighty Bosstones,0
+2009-01,The Smashing Pumpkins,0
+2009-01,The Smiths,0
+2009-01,The Strokes,0
+2009-01,Turbonegro,0
+2009-01,Weezer,0
+2009-02,Bad Brains,0
+2009-02,Beck,0
+2009-02,Black Flag,0
+2009-02,Buzzcocks,0
+2009-02,Dangerdoom,0
+2009-02,David Bowie,0
+2009-02,Descendents,1
+2009-02,Interpol,0
+2009-02,Mf Doom,0
+2009-02,No Doubt,1
+2009-02,Reagan Youth,0
+2009-02,Stone Temple Pilots,0
+2009-02,The Beatles,0
+2009-02,The Dead Milkmen,7
+2009-02,The Mighty Mighty Bosstones,0
+2009-02,The Smashing Pumpkins,0
+2009-02,The Smiths,0
+2009-02,The Strokes,0
+2009-02,Turbonegro,0
+2009-02,Weezer,0
+2009-03,Bad Brains,11
+2009-03,Beck,12
+2009-03,Black Flag,6
+2009-03,Buzzcocks,1
+2009-03,Dangerdoom,0
+2009-03,David Bowie,0
+2009-03,Descendents,155
+2009-03,Interpol,2
+2009-03,Mf Doom,1
+2009-03,No Doubt,17
+2009-03,Reagan Youth,0
+2009-03,Stone Temple Pilots,1
+2009-03,The Beatles,6
+2009-03,The Dead Milkmen,70
+2009-03,The Mighty Mighty Bosstones,3
+2009-03,The Smashing Pumpkins,1
+2009-03,The Smiths,114
+2009-03,The Strokes,1
+2009-03,Turbonegro,4
+2009-03,Weezer,4
+2009-04,Bad Brains,15
+2009-04,Beck,25
+2009-04,Black Flag,5
+2009-04,Buzzcocks,13
+2009-04,Dangerdoom,3
+2009-04,David Bowie,1
+2009-04,Descendents,46
+2009-04,Interpol,46
+2009-04,Mf Doom,0
+2009-04,No Doubt,73
+2009-04,Reagan Youth,0
+2009-04,Stone Temple Pilots,4
+2009-04,The Beatles,30
+2009-04,The Dead Milkmen,69
+2009-04,The Mighty Mighty Bosstones,2
+2009-04,The Smashing Pumpkins,11
+2009-04,The Smiths,173
+2009-04,The Strokes,1
+2009-04,Turbonegro,0
+2009-04,Weezer,2

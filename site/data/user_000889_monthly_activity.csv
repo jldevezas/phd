@@ -1,0 +1,781 @@
+month,artist,plays
+2006-04,Amorphis,0
+2006-04,Axel Rudi Pell,0
+2006-04,Black Sabbath,0
+2006-04,Bon Jovi,0
+2006-04,Children Of Bodom,0
+2006-04,Disturbed,0
+2006-04,Guns N' Roses,0
+2006-04,In Flames,287
+2006-04,Metallica,0
+2006-04,Mötley Crüe,0
+2006-04,Rhapsody Of Fire,0
+2006-04,Scorpions,0
+2006-04,Soil,0
+2006-04,Soilwork,0
+2006-04,Sonic Syndicate,0
+2006-04,Takida,0
+2006-04,Three Days Grace,0
+2006-04,Toto,0
+2006-04,Trivium,0
+2006-04,Wolfmother,0
+2006-05,Amorphis,0
+2006-05,Axel Rudi Pell,0
+2006-05,Black Sabbath,0
+2006-05,Bon Jovi,0
+2006-05,Children Of Bodom,207
+2006-05,Disturbed,0
+2006-05,Guns N' Roses,456
+2006-05,In Flames,1037
+2006-05,Metallica,38
+2006-05,Mötley Crüe,0
+2006-05,Rhapsody Of Fire,0
+2006-05,Scorpions,9
+2006-05,Soil,0
+2006-05,Soilwork,750
+2006-05,Sonic Syndicate,0
+2006-05,Takida,0
+2006-05,Three Days Grace,0
+2006-05,Toto,0
+2006-05,Trivium,0
+2006-05,Wolfmother,0
+2006-06,Amorphis,0
+2006-06,Axel Rudi Pell,0
+2006-06,Black Sabbath,4
+2006-06,Bon Jovi,0
+2006-06,Children Of Bodom,1
+2006-06,Disturbed,0
+2006-06,Guns N' Roses,10
+2006-06,In Flames,5
+2006-06,Metallica,125
+2006-06,Mötley Crüe,0
+2006-06,Rhapsody Of Fire,0
+2006-06,Scorpions,388
+2006-06,Soil,0
+2006-06,Soilwork,1286
+2006-06,Sonic Syndicate,0
+2006-06,Takida,126
+2006-06,Three Days Grace,0
+2006-06,Toto,0
+2006-06,Trivium,0
+2006-06,Wolfmother,33
+2006-07,Amorphis,0
+2006-07,Axel Rudi Pell,0
+2006-07,Black Sabbath,2
+2006-07,Bon Jovi,11
+2006-07,Children Of Bodom,85
+2006-07,Disturbed,0
+2006-07,Guns N' Roses,125
+2006-07,In Flames,110
+2006-07,Metallica,8
+2006-07,Mötley Crüe,248
+2006-07,Rhapsody Of Fire,0
+2006-07,Scorpions,75
+2006-07,Soil,278
+2006-07,Soilwork,292
+2006-07,Sonic Syndicate,0
+2006-07,Takida,2
+2006-07,Three Days Grace,0
+2006-07,Toto,0
+2006-07,Trivium,0
+2006-07,Wolfmother,0
+2006-08,Amorphis,0
+2006-08,Axel Rudi Pell,0
+2006-08,Black Sabbath,0
+2006-08,Bon Jovi,0
+2006-08,Children Of Bodom,16
+2006-08,Disturbed,0
+2006-08,Guns N' Roses,37
+2006-08,In Flames,40
+2006-08,Metallica,0
+2006-08,Mötley Crüe,17
+2006-08,Rhapsody Of Fire,0
+2006-08,Scorpions,49
+2006-08,Soil,54
+2006-08,Soilwork,1043
+2006-08,Sonic Syndicate,0
+2006-08,Takida,65
+2006-08,Three Days Grace,0
+2006-08,Toto,0
+2006-08,Trivium,0
+2006-08,Wolfmother,0
+2006-09,Amorphis,0
+2006-09,Axel Rudi Pell,0
+2006-09,Black Sabbath,0
+2006-09,Bon Jovi,0
+2006-09,Children Of Bodom,3
+2006-09,Disturbed,0
+2006-09,Guns N' Roses,0
+2006-09,In Flames,0
+2006-09,Metallica,0
+2006-09,Mötley Crüe,0
+2006-09,Rhapsody Of Fire,0
+2006-09,Scorpions,0
+2006-09,Soil,308
+2006-09,Soilwork,673
+2006-09,Sonic Syndicate,0
+2006-09,Takida,0
+2006-09,Three Days Grace,0
+2006-09,Toto,0
+2006-09,Trivium,0
+2006-09,Wolfmother,0
+2006-10,Amorphis,0
+2006-10,Axel Rudi Pell,0
+2006-10,Black Sabbath,0
+2006-10,Bon Jovi,0
+2006-10,Children Of Bodom,0
+2006-10,Disturbed,0
+2006-10,Guns N' Roses,0
+2006-10,In Flames,0
+2006-10,Metallica,0
+2006-10,Mötley Crüe,0
+2006-10,Rhapsody Of Fire,0
+2006-10,Scorpions,0
+2006-10,Soil,0
+2006-10,Soilwork,0
+2006-10,Sonic Syndicate,0
+2006-10,Takida,0
+2006-10,Three Days Grace,0
+2006-10,Toto,0
+2006-10,Trivium,0
+2006-10,Wolfmother,0
+2006-11,Amorphis,0
+2006-11,Axel Rudi Pell,0
+2006-11,Black Sabbath,0
+2006-11,Bon Jovi,0
+2006-11,Children Of Bodom,0
+2006-11,Disturbed,0
+2006-11,Guns N' Roses,0
+2006-11,In Flames,0
+2006-11,Metallica,218
+2006-11,Mötley Crüe,0
+2006-11,Rhapsody Of Fire,45
+2006-11,Scorpions,0
+2006-11,Soil,0
+2006-11,Soilwork,3348
+2006-11,Sonic Syndicate,0
+2006-11,Takida,0
+2006-11,Three Days Grace,0
+2006-11,Toto,0
+2006-11,Trivium,0
+2006-11,Wolfmother,0
+2006-12,Amorphis,0
+2006-12,Axel Rudi Pell,0
+2006-12,Black Sabbath,0
+2006-12,Bon Jovi,0
+2006-12,Children Of Bodom,272
+2006-12,Disturbed,204
+2006-12,Guns N' Roses,247
+2006-12,In Flames,0
+2006-12,Metallica,214
+2006-12,Mötley Crüe,402
+2006-12,Rhapsody Of Fire,274
+2006-12,Scorpions,99
+2006-12,Soil,154
+2006-12,Soilwork,331
+2006-12,Sonic Syndicate,0
+2006-12,Takida,0
+2006-12,Three Days Grace,0
+2006-12,Toto,0
+2006-12,Trivium,0
+2006-12,Wolfmother,151
+2007-01,Amorphis,0
+2007-01,Axel Rudi Pell,0
+2007-01,Black Sabbath,0
+2007-01,Bon Jovi,0
+2007-01,Children Of Bodom,1
+2007-01,Disturbed,0
+2007-01,Guns N' Roses,0
+2007-01,In Flames,1
+2007-01,Metallica,200
+2007-01,Mötley Crüe,0
+2007-01,Rhapsody Of Fire,0
+2007-01,Scorpions,11
+2007-01,Soil,0
+2007-01,Soilwork,2182
+2007-01,Sonic Syndicate,0
+2007-01,Takida,0
+2007-01,Three Days Grace,0
+2007-01,Toto,0
+2007-01,Trivium,1
+2007-01,Wolfmother,27
+2007-02,Amorphis,0
+2007-02,Axel Rudi Pell,0
+2007-02,Black Sabbath,0
+2007-02,Bon Jovi,0
+2007-02,Children Of Bodom,1
+2007-02,Disturbed,1563
+2007-02,Guns N' Roses,0
+2007-02,In Flames,0
+2007-02,Metallica,128
+2007-02,Mötley Crüe,0
+2007-02,Rhapsody Of Fire,0
+2007-02,Scorpions,0
+2007-02,Soil,0
+2007-02,Soilwork,2056
+2007-02,Sonic Syndicate,0
+2007-02,Takida,0
+2007-02,Three Days Grace,0
+2007-02,Toto,0
+2007-02,Trivium,0
+2007-02,Wolfmother,0
+2007-03,Amorphis,0
+2007-03,Axel Rudi Pell,0
+2007-03,Black Sabbath,97
+2007-03,Bon Jovi,97
+2007-03,Children Of Bodom,453
+2007-03,Disturbed,2493
+2007-03,Guns N' Roses,0
+2007-03,In Flames,29
+2007-03,Metallica,11
+2007-03,Mötley Crüe,0
+2007-03,Rhapsody Of Fire,0
+2007-03,Scorpions,53
+2007-03,Soil,30
+2007-03,Soilwork,426
+2007-03,Sonic Syndicate,0
+2007-03,Takida,12
+2007-03,Three Days Grace,0
+2007-03,Toto,0
+2007-03,Trivium,0
+2007-03,Wolfmother,115
+2007-04,Amorphis,0
+2007-04,Axel Rudi Pell,0
+2007-04,Black Sabbath,0
+2007-04,Bon Jovi,0
+2007-04,Children Of Bodom,758
+2007-04,Disturbed,502
+2007-04,Guns N' Roses,3
+2007-04,In Flames,272
+2007-04,Metallica,242
+2007-04,Mötley Crüe,0
+2007-04,Rhapsody Of Fire,0
+2007-04,Scorpions,452
+2007-04,Soil,260
+2007-04,Soilwork,703
+2007-04,Sonic Syndicate,0
+2007-04,Takida,0
+2007-04,Three Days Grace,0
+2007-04,Toto,0
+2007-04,Trivium,0
+2007-04,Wolfmother,2
+2007-05,Amorphis,0
+2007-05,Axel Rudi Pell,0
+2007-05,Black Sabbath,0
+2007-05,Bon Jovi,6
+2007-05,Children Of Bodom,1
+2007-05,Disturbed,442
+2007-05,Guns N' Roses,0
+2007-05,In Flames,0
+2007-05,Metallica,0
+2007-05,Mötley Crüe,14
+2007-05,Rhapsody Of Fire,0
+2007-05,Scorpions,148
+2007-05,Soil,66
+2007-05,Soilwork,419
+2007-05,Sonic Syndicate,0
+2007-05,Takida,133
+2007-05,Three Days Grace,0
+2007-05,Toto,118
+2007-05,Trivium,0
+2007-05,Wolfmother,16
+2007-06,Amorphis,536
+2007-06,Axel Rudi Pell,80
+2007-06,Black Sabbath,4
+2007-06,Bon Jovi,89
+2007-06,Children Of Bodom,2
+2007-06,Disturbed,432
+2007-06,Guns N' Roses,0
+2007-06,In Flames,3
+2007-06,Metallica,1
+2007-06,Mötley Crüe,14
+2007-06,Rhapsody Of Fire,69
+2007-06,Scorpions,173
+2007-06,Soil,1
+2007-06,Soilwork,5
+2007-06,Sonic Syndicate,0
+2007-06,Takida,268
+2007-06,Three Days Grace,3
+2007-06,Toto,604
+2007-06,Trivium,1
+2007-06,Wolfmother,18
+2007-07,Amorphis,253
+2007-07,Axel Rudi Pell,289
+2007-07,Black Sabbath,7
+2007-07,Bon Jovi,0
+2007-07,Children Of Bodom,255
+2007-07,Disturbed,559
+2007-07,Guns N' Roses,0
+2007-07,In Flames,21
+2007-07,Metallica,0
+2007-07,Mötley Crüe,7
+2007-07,Rhapsody Of Fire,0
+2007-07,Scorpions,8
+2007-07,Soil,235
+2007-07,Soilwork,5
+2007-07,Sonic Syndicate,0
+2007-07,Takida,0
+2007-07,Three Days Grace,0
+2007-07,Toto,19
+2007-07,Trivium,0
+2007-07,Wolfmother,1
+2007-08,Amorphis,250
+2007-08,Axel Rudi Pell,1
+2007-08,Black Sabbath,0
+2007-08,Bon Jovi,0
+2007-08,Children Of Bodom,0
+2007-08,Disturbed,146
+2007-08,Guns N' Roses,0
+2007-08,In Flames,0
+2007-08,Metallica,0
+2007-08,Mötley Crüe,0
+2007-08,Rhapsody Of Fire,407
+2007-08,Scorpions,64
+2007-08,Soil,0
+2007-08,Soilwork,139
+2007-08,Sonic Syndicate,430
+2007-08,Takida,0
+2007-08,Three Days Grace,109
+2007-08,Toto,118
+2007-08,Trivium,0
+2007-08,Wolfmother,0
+2007-09,Amorphis,0
+2007-09,Axel Rudi Pell,7
+2007-09,Black Sabbath,0
+2007-09,Bon Jovi,0
+2007-09,Children Of Bodom,0
+2007-09,Disturbed,84
+2007-09,Guns N' Roses,0
+2007-09,In Flames,0
+2007-09,Metallica,0
+2007-09,Mötley Crüe,0
+2007-09,Rhapsody Of Fire,0
+2007-09,Scorpions,0
+2007-09,Soil,0
+2007-09,Soilwork,0
+2007-09,Sonic Syndicate,2033
+2007-09,Takida,0
+2007-09,Three Days Grace,107
+2007-09,Toto,71
+2007-09,Trivium,0
+2007-09,Wolfmother,11
+2007-10,Amorphis,0
+2007-10,Axel Rudi Pell,0
+2007-10,Black Sabbath,0
+2007-10,Bon Jovi,0
+2007-10,Children Of Bodom,0
+2007-10,Disturbed,0
+2007-10,Guns N' Roses,0
+2007-10,In Flames,0
+2007-10,Metallica,0
+2007-10,Mötley Crüe,0
+2007-10,Rhapsody Of Fire,0
+2007-10,Scorpions,0
+2007-10,Soil,0
+2007-10,Soilwork,628
+2007-10,Sonic Syndicate,740
+2007-10,Takida,0
+2007-10,Three Days Grace,0
+2007-10,Toto,0
+2007-10,Trivium,0
+2007-10,Wolfmother,0
+2007-11,Amorphis,92
+2007-11,Axel Rudi Pell,10
+2007-11,Black Sabbath,0
+2007-11,Bon Jovi,0
+2007-11,Children Of Bodom,5
+2007-11,Disturbed,149
+2007-11,Guns N' Roses,0
+2007-11,In Flames,0
+2007-11,Metallica,0
+2007-11,Mötley Crüe,0
+2007-11,Rhapsody Of Fire,0
+2007-11,Scorpions,0
+2007-11,Soil,0
+2007-11,Soilwork,411
+2007-11,Sonic Syndicate,1111
+2007-11,Takida,7
+2007-11,Three Days Grace,9
+2007-11,Toto,0
+2007-11,Trivium,0
+2007-11,Wolfmother,0
+2007-12,Amorphis,0
+2007-12,Axel Rudi Pell,0
+2007-12,Black Sabbath,1
+2007-12,Bon Jovi,0
+2007-12,Children Of Bodom,1
+2007-12,Disturbed,121
+2007-12,Guns N' Roses,0
+2007-12,In Flames,0
+2007-12,Metallica,0
+2007-12,Mötley Crüe,1
+2007-12,Rhapsody Of Fire,0
+2007-12,Scorpions,0
+2007-12,Soil,0
+2007-12,Soilwork,12
+2007-12,Sonic Syndicate,37
+2007-12,Takida,0
+2007-12,Three Days Grace,0
+2007-12,Toto,0
+2007-12,Trivium,0
+2007-12,Wolfmother,0
+2008-01,Amorphis,0
+2008-01,Axel Rudi Pell,28
+2008-01,Black Sabbath,4
+2008-01,Bon Jovi,0
+2008-01,Children Of Bodom,0
+2008-01,Disturbed,347
+2008-01,Guns N' Roses,0
+2008-01,In Flames,0
+2008-01,Metallica,0
+2008-01,Mötley Crüe,4
+2008-01,Rhapsody Of Fire,0
+2008-01,Scorpions,4
+2008-01,Soil,0
+2008-01,Soilwork,255
+2008-01,Sonic Syndicate,205
+2008-01,Takida,0
+2008-01,Three Days Grace,99
+2008-01,Toto,0
+2008-01,Trivium,0
+2008-01,Wolfmother,0
+2008-02,Amorphis,67
+2008-02,Axel Rudi Pell,1
+2008-02,Black Sabbath,0
+2008-02,Bon Jovi,0
+2008-02,Children Of Bodom,199
+2008-02,Disturbed,16
+2008-02,Guns N' Roses,0
+2008-02,In Flames,0
+2008-02,Metallica,0
+2008-02,Mötley Crüe,0
+2008-02,Rhapsody Of Fire,132
+2008-02,Scorpions,0
+2008-02,Soil,0
+2008-02,Soilwork,30
+2008-02,Sonic Syndicate,401
+2008-02,Takida,0
+2008-02,Three Days Grace,2
+2008-02,Toto,12
+2008-02,Trivium,0
+2008-02,Wolfmother,0
+2008-03,Amorphis,0
+2008-03,Axel Rudi Pell,0
+2008-03,Black Sabbath,0
+2008-03,Bon Jovi,0
+2008-03,Children Of Bodom,0
+2008-03,Disturbed,0
+2008-03,Guns N' Roses,0
+2008-03,In Flames,0
+2008-03,Metallica,14
+2008-03,Mötley Crüe,0
+2008-03,Rhapsody Of Fire,52
+2008-03,Scorpions,0
+2008-03,Soil,0
+2008-03,Soilwork,0
+2008-03,Sonic Syndicate,249
+2008-03,Takida,191
+2008-03,Three Days Grace,0
+2008-03,Toto,9
+2008-03,Trivium,472
+2008-03,Wolfmother,0
+2008-04,Amorphis,37
+2008-04,Axel Rudi Pell,15
+2008-04,Black Sabbath,1
+2008-04,Bon Jovi,0
+2008-04,Children Of Bodom,0
+2008-04,Disturbed,204
+2008-04,Guns N' Roses,0
+2008-04,In Flames,0
+2008-04,Metallica,0
+2008-04,Mötley Crüe,0
+2008-04,Rhapsody Of Fire,0
+2008-04,Scorpions,6
+2008-04,Soil,0
+2008-04,Soilwork,0
+2008-04,Sonic Syndicate,257
+2008-04,Takida,82
+2008-04,Three Days Grace,6
+2008-04,Toto,0
+2008-04,Trivium,111
+2008-04,Wolfmother,10
+2008-05,Amorphis,1
+2008-05,Axel Rudi Pell,0
+2008-05,Black Sabbath,0
+2008-05,Bon Jovi,0
+2008-05,Children Of Bodom,0
+2008-05,Disturbed,0
+2008-05,Guns N' Roses,0
+2008-05,In Flames,1
+2008-05,Metallica,0
+2008-05,Mötley Crüe,11
+2008-05,Rhapsody Of Fire,66
+2008-05,Scorpions,62
+2008-05,Soil,89
+2008-05,Soilwork,18
+2008-05,Sonic Syndicate,4
+2008-05,Takida,0
+2008-05,Three Days Grace,4
+2008-05,Toto,0
+2008-05,Trivium,24
+2008-05,Wolfmother,0
+2008-06,Amorphis,0
+2008-06,Axel Rudi Pell,60
+2008-06,Black Sabbath,0
+2008-06,Bon Jovi,0
+2008-06,Children Of Bodom,0
+2008-06,Disturbed,16
+2008-06,Guns N' Roses,0
+2008-06,In Flames,275
+2008-06,Metallica,1
+2008-06,Mötley Crüe,0
+2008-06,Rhapsody Of Fire,0
+2008-06,Scorpions,103
+2008-06,Soil,0
+2008-06,Soilwork,20
+2008-06,Sonic Syndicate,3
+2008-06,Takida,10
+2008-06,Three Days Grace,0
+2008-06,Toto,25
+2008-06,Trivium,6
+2008-06,Wolfmother,0
+2008-07,Amorphis,0
+2008-07,Axel Rudi Pell,0
+2008-07,Black Sabbath,0
+2008-07,Bon Jovi,58
+2008-07,Children Of Bodom,0
+2008-07,Disturbed,0
+2008-07,Guns N' Roses,0
+2008-07,In Flames,3
+2008-07,Metallica,29
+2008-07,Mötley Crüe,3
+2008-07,Rhapsody Of Fire,56
+2008-07,Scorpions,16
+2008-07,Soil,188
+2008-07,Soilwork,125
+2008-07,Sonic Syndicate,38
+2008-07,Takida,0
+2008-07,Three Days Grace,5
+2008-07,Toto,0
+2008-07,Trivium,0
+2008-07,Wolfmother,0
+2008-08,Amorphis,0
+2008-08,Axel Rudi Pell,0
+2008-08,Black Sabbath,0
+2008-08,Bon Jovi,6
+2008-08,Children Of Bodom,9
+2008-08,Disturbed,113
+2008-08,Guns N' Roses,0
+2008-08,In Flames,0
+2008-08,Metallica,3
+2008-08,Mötley Crüe,0
+2008-08,Rhapsody Of Fire,5
+2008-08,Scorpions,12
+2008-08,Soil,1
+2008-08,Soilwork,0
+2008-08,Sonic Syndicate,2
+2008-08,Takida,1
+2008-08,Three Days Grace,2
+2008-08,Toto,11
+2008-08,Trivium,0
+2008-08,Wolfmother,0
+2008-09,Amorphis,0
+2008-09,Axel Rudi Pell,0
+2008-09,Black Sabbath,0
+2008-09,Bon Jovi,0
+2008-09,Children Of Bodom,5
+2008-09,Disturbed,98
+2008-09,Guns N' Roses,0
+2008-09,In Flames,0
+2008-09,Metallica,130
+2008-09,Mötley Crüe,0
+2008-09,Rhapsody Of Fire,0
+2008-09,Scorpions,0
+2008-09,Soil,0
+2008-09,Soilwork,41
+2008-09,Sonic Syndicate,2
+2008-09,Takida,0
+2008-09,Three Days Grace,47
+2008-09,Toto,75
+2008-09,Trivium,36
+2008-09,Wolfmother,0
+2008-10,Amorphis,0
+2008-10,Axel Rudi Pell,0
+2008-10,Black Sabbath,0
+2008-10,Bon Jovi,0
+2008-10,Children Of Bodom,0
+2008-10,Disturbed,0
+2008-10,Guns N' Roses,0
+2008-10,In Flames,0
+2008-10,Metallica,0
+2008-10,Mötley Crüe,0
+2008-10,Rhapsody Of Fire,0
+2008-10,Scorpions,0
+2008-10,Soil,0
+2008-10,Soilwork,0
+2008-10,Sonic Syndicate,0
+2008-10,Takida,0
+2008-10,Three Days Grace,0
+2008-10,Toto,0
+2008-10,Trivium,0
+2008-10,Wolfmother,0
+2008-11,Amorphis,0
+2008-11,Axel Rudi Pell,0
+2008-11,Black Sabbath,0
+2008-11,Bon Jovi,0
+2008-11,Children Of Bodom,0
+2008-11,Disturbed,0
+2008-11,Guns N' Roses,0
+2008-11,In Flames,0
+2008-11,Metallica,0
+2008-11,Mötley Crüe,0
+2008-11,Rhapsody Of Fire,0
+2008-11,Scorpions,0
+2008-11,Soil,0
+2008-11,Soilwork,0
+2008-11,Sonic Syndicate,0
+2008-11,Takida,0
+2008-11,Three Days Grace,0
+2008-11,Toto,0
+2008-11,Trivium,0
+2008-11,Wolfmother,0
+2008-12,Amorphis,0
+2008-12,Axel Rudi Pell,0
+2008-12,Black Sabbath,0
+2008-12,Bon Jovi,0
+2008-12,Children Of Bodom,0
+2008-12,Disturbed,0
+2008-12,Guns N' Roses,0
+2008-12,In Flames,0
+2008-12,Metallica,0
+2008-12,Mötley Crüe,0
+2008-12,Rhapsody Of Fire,0
+2008-12,Scorpions,0
+2008-12,Soil,0
+2008-12,Soilwork,0
+2008-12,Sonic Syndicate,0
+2008-12,Takida,0
+2008-12,Three Days Grace,0
+2008-12,Toto,0
+2008-12,Trivium,0
+2008-12,Wolfmother,0
+2009-01,Amorphis,0
+2009-01,Axel Rudi Pell,4
+2009-01,Black Sabbath,0
+2009-01,Bon Jovi,0
+2009-01,Children Of Bodom,244
+2009-01,Disturbed,90
+2009-01,Guns N' Roses,0
+2009-01,In Flames,18
+2009-01,Metallica,0
+2009-01,Mötley Crüe,0
+2009-01,Rhapsody Of Fire,0
+2009-01,Scorpions,0
+2009-01,Soil,0
+2009-01,Soilwork,0
+2009-01,Sonic Syndicate,0
+2009-01,Takida,0
+2009-01,Three Days Grace,0
+2009-01,Toto,0
+2009-01,Trivium,4
+2009-01,Wolfmother,0
+2009-02,Amorphis,1
+2009-02,Axel Rudi Pell,0
+2009-02,Black Sabbath,0
+2009-02,Bon Jovi,0
+2009-02,Children Of Bodom,1
+2009-02,Disturbed,28
+2009-02,Guns N' Roses,0
+2009-02,In Flames,268
+2009-02,Metallica,16
+2009-02,Mötley Crüe,0
+2009-02,Rhapsody Of Fire,0
+2009-02,Scorpions,0
+2009-02,Soil,141
+2009-02,Soilwork,1
+2009-02,Sonic Syndicate,0
+2009-02,Takida,0
+2009-02,Three Days Grace,11
+2009-02,Toto,19
+2009-02,Trivium,57
+2009-02,Wolfmother,0
+2009-03,Amorphis,0
+2009-03,Axel Rudi Pell,0
+2009-03,Black Sabbath,0
+2009-03,Bon Jovi,0
+2009-03,Children Of Bodom,22
+2009-03,Disturbed,94
+2009-03,Guns N' Roses,0
+2009-03,In Flames,0
+2009-03,Metallica,0
+2009-03,Mötley Crüe,0
+2009-03,Rhapsody Of Fire,71
+2009-03,Scorpions,145
+2009-03,Soil,0
+2009-03,Soilwork,35
+2009-03,Sonic Syndicate,0
+2009-03,Takida,0
+2009-03,Three Days Grace,0
+2009-03,Toto,0
+2009-03,Trivium,4
+2009-03,Wolfmother,0
+2009-04,Amorphis,0
+2009-04,Axel Rudi Pell,0
+2009-04,Black Sabbath,0
+2009-04,Bon Jovi,0
+2009-04,Children Of Bodom,0
+2009-04,Disturbed,0
+2009-04,Guns N' Roses,0
+2009-04,In Flames,0
+2009-04,Metallica,0
+2009-04,Mötley Crüe,0
+2009-04,Rhapsody Of Fire,0
+2009-04,Scorpions,6
+2009-04,Soil,0
+2009-04,Soilwork,0
+2009-04,Sonic Syndicate,19
+2009-04,Takida,0
+2009-04,Three Days Grace,0
+2009-04,Toto,0
+2009-04,Trivium,0
+2009-04,Wolfmother,0
+2009-05,Amorphis,19
+2009-05,Axel Rudi Pell,2
+2009-05,Black Sabbath,0
+2009-05,Bon Jovi,4
+2009-05,Children Of Bodom,64
+2009-05,Disturbed,46
+2009-05,Guns N' Roses,1
+2009-05,In Flames,0
+2009-05,Metallica,0
+2009-05,Mötley Crüe,0
+2009-05,Rhapsody Of Fire,0
+2009-05,Scorpions,2
+2009-05,Soil,0
+2009-05,Soilwork,101
+2009-05,Sonic Syndicate,59
+2009-05,Takida,0
+2009-05,Three Days Grace,0
+2009-05,Toto,5
+2009-05,Trivium,124
+2009-05,Wolfmother,0
+2009-06,Amorphis,0
+2009-06,Axel Rudi Pell,10
+2009-06,Black Sabbath,0
+2009-06,Bon Jovi,15
+2009-06,Children Of Bodom,0
+2009-06,Disturbed,0
+2009-06,Guns N' Roses,9
+2009-06,In Flames,0
+2009-06,Metallica,0
+2009-06,Mötley Crüe,0
+2009-06,Rhapsody Of Fire,0
+2009-06,Scorpions,7
+2009-06,Soil,30
+2009-06,Soilwork,231
+2009-06,Sonic Syndicate,18
+2009-06,Takida,0
+2009-06,Three Days Grace,97
+2009-06,Toto,20
+2009-06,Trivium,40
+2009-06,Wolfmother,0

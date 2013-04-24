@@ -1,0 +1,841 @@
+month,artist,plays
+2005-11,Beck,0
+2005-11,Bob Dylan,1
+2005-11,Built To Spill,0
+2005-11,Calexico,1
+2005-11,Grandaddy,1
+2005-11,Jim White,2
+2005-11,Lambchop,1
+2005-11,M. Ward,1
+2005-11,Modest Mouse,0
+2005-11,My Morning Jacket,0
+2005-11,Neko Case,1
+2005-11,Pixies,1
+2005-11,Radiohead,2
+2005-11,Richard Buckner,0
+2005-11,Steve Earle,2
+2005-11,Talking Heads,0
+2005-11,The Flaming Lips,1
+2005-11,The Mountain Goats,0
+2005-11,Townes Van Zandt,1
+2005-11,Wilco,1
+2005-12,Beck,10
+2005-12,Bob Dylan,7
+2005-12,Built To Spill,10
+2005-12,Calexico,7
+2005-12,Grandaddy,11
+2005-12,Jim White,11
+2005-12,Lambchop,1
+2005-12,M. Ward,10
+2005-12,Modest Mouse,8
+2005-12,My Morning Jacket,1
+2005-12,Neko Case,7
+2005-12,Pixies,3
+2005-12,Radiohead,9
+2005-12,Richard Buckner,4
+2005-12,Steve Earle,7
+2005-12,Talking Heads,3
+2005-12,The Flaming Lips,7
+2005-12,The Mountain Goats,15
+2005-12,Townes Van Zandt,8
+2005-12,Wilco,19
+2006-01,Beck,10
+2006-01,Bob Dylan,9
+2006-01,Built To Spill,11
+2006-01,Calexico,9
+2006-01,Grandaddy,12
+2006-01,Jim White,15
+2006-01,Lambchop,2
+2006-01,M. Ward,11
+2006-01,Modest Mouse,9
+2006-01,My Morning Jacket,6
+2006-01,Neko Case,12
+2006-01,Pixies,4
+2006-01,Radiohead,12
+2006-01,Richard Buckner,3
+2006-01,Steve Earle,5
+2006-01,Talking Heads,6
+2006-01,The Flaming Lips,10
+2006-01,The Mountain Goats,10
+2006-01,Townes Van Zandt,17
+2006-01,Wilco,11
+2006-02,Beck,14
+2006-02,Bob Dylan,28
+2006-02,Built To Spill,13
+2006-02,Calexico,3
+2006-02,Grandaddy,19
+2006-02,Jim White,12
+2006-02,Lambchop,2
+2006-02,M. Ward,27
+2006-02,Modest Mouse,10
+2006-02,My Morning Jacket,19
+2006-02,Neko Case,18
+2006-02,Pixies,7
+2006-02,Radiohead,20
+2006-02,Richard Buckner,15
+2006-02,Steve Earle,10
+2006-02,Talking Heads,6
+2006-02,The Flaming Lips,33
+2006-02,The Mountain Goats,23
+2006-02,Townes Van Zandt,50
+2006-02,Wilco,24
+2006-03,Beck,14
+2006-03,Bob Dylan,12
+2006-03,Built To Spill,8
+2006-03,Calexico,4
+2006-03,Grandaddy,8
+2006-03,Jim White,17
+2006-03,Lambchop,3
+2006-03,M. Ward,29
+2006-03,Modest Mouse,4
+2006-03,My Morning Jacket,9
+2006-03,Neko Case,33
+2006-03,Pixies,3
+2006-03,Radiohead,6
+2006-03,Richard Buckner,35
+2006-03,Steve Earle,12
+2006-03,Talking Heads,4
+2006-03,The Flaming Lips,27
+2006-03,The Mountain Goats,27
+2006-03,Townes Van Zandt,43
+2006-03,Wilco,22
+2006-04,Beck,13
+2006-04,Bob Dylan,11
+2006-04,Built To Spill,16
+2006-04,Calexico,15
+2006-04,Grandaddy,15
+2006-04,Jim White,10
+2006-04,Lambchop,4
+2006-04,M. Ward,34
+2006-04,Modest Mouse,18
+2006-04,My Morning Jacket,15
+2006-04,Neko Case,15
+2006-04,Pixies,8
+2006-04,Radiohead,23
+2006-04,Richard Buckner,39
+2006-04,Steve Earle,20
+2006-04,Talking Heads,10
+2006-04,The Flaming Lips,17
+2006-04,The Mountain Goats,23
+2006-04,Townes Van Zandt,42
+2006-04,Wilco,74
+2006-05,Beck,27
+2006-05,Bob Dylan,20
+2006-05,Built To Spill,18
+2006-05,Calexico,46
+2006-05,Grandaddy,85
+2006-05,Jim White,15
+2006-05,Lambchop,119
+2006-05,M. Ward,55
+2006-05,Modest Mouse,19
+2006-05,My Morning Jacket,34
+2006-05,Neko Case,45
+2006-05,Pixies,15
+2006-05,Radiohead,40
+2006-05,Richard Buckner,50
+2006-05,Steve Earle,34
+2006-05,Talking Heads,8
+2006-05,The Flaming Lips,29
+2006-05,The Mountain Goats,37
+2006-05,Townes Van Zandt,85
+2006-05,Wilco,90
+2006-06,Beck,15
+2006-06,Bob Dylan,19
+2006-06,Built To Spill,25
+2006-06,Calexico,88
+2006-06,Grandaddy,50
+2006-06,Jim White,27
+2006-06,Lambchop,53
+2006-06,M. Ward,56
+2006-06,Modest Mouse,20
+2006-06,My Morning Jacket,39
+2006-06,Neko Case,65
+2006-06,Pixies,10
+2006-06,Radiohead,45
+2006-06,Richard Buckner,81
+2006-06,Steve Earle,12
+2006-06,Talking Heads,16
+2006-06,The Flaming Lips,20
+2006-06,The Mountain Goats,89
+2006-06,Townes Van Zandt,65
+2006-06,Wilco,56
+2006-07,Beck,42
+2006-07,Bob Dylan,20
+2006-07,Built To Spill,23
+2006-07,Calexico,21
+2006-07,Grandaddy,25
+2006-07,Jim White,7
+2006-07,Lambchop,14
+2006-07,M. Ward,34
+2006-07,Modest Mouse,25
+2006-07,My Morning Jacket,20
+2006-07,Neko Case,29
+2006-07,Pixies,21
+2006-07,Radiohead,37
+2006-07,Richard Buckner,16
+2006-07,Steve Earle,21
+2006-07,Talking Heads,21
+2006-07,The Flaming Lips,42
+2006-07,The Mountain Goats,20
+2006-07,Townes Van Zandt,31
+2006-07,Wilco,40
+2006-08,Beck,7
+2006-08,Bob Dylan,23
+2006-08,Built To Spill,9
+2006-08,Calexico,13
+2006-08,Grandaddy,15
+2006-08,Jim White,8
+2006-08,Lambchop,6
+2006-08,M. Ward,33
+2006-08,Modest Mouse,3
+2006-08,My Morning Jacket,12
+2006-08,Neko Case,15
+2006-08,Pixies,4
+2006-08,Radiohead,15
+2006-08,Richard Buckner,23
+2006-08,Steve Earle,15
+2006-08,Talking Heads,2
+2006-08,The Flaming Lips,8
+2006-08,The Mountain Goats,27
+2006-08,Townes Van Zandt,38
+2006-08,Wilco,28
+2006-09,Beck,7
+2006-09,Bob Dylan,15
+2006-09,Built To Spill,8
+2006-09,Calexico,4
+2006-09,Grandaddy,30
+2006-09,Jim White,5
+2006-09,Lambchop,31
+2006-09,M. Ward,9
+2006-09,Modest Mouse,5
+2006-09,My Morning Jacket,4
+2006-09,Neko Case,5
+2006-09,Pixies,6
+2006-09,Radiohead,10
+2006-09,Richard Buckner,49
+2006-09,Steve Earle,10
+2006-09,Talking Heads,2
+2006-09,The Flaming Lips,13
+2006-09,The Mountain Goats,77
+2006-09,Townes Van Zandt,17
+2006-09,Wilco,14
+2006-10,Beck,22
+2006-10,Bob Dylan,27
+2006-10,Built To Spill,13
+2006-10,Calexico,9
+2006-10,Grandaddy,16
+2006-10,Jim White,5
+2006-10,Lambchop,18
+2006-10,M. Ward,9
+2006-10,Modest Mouse,8
+2006-10,My Morning Jacket,5
+2006-10,Neko Case,10
+2006-10,Pixies,10
+2006-10,Radiohead,21
+2006-10,Richard Buckner,23
+2006-10,Steve Earle,9
+2006-10,Talking Heads,6
+2006-10,The Flaming Lips,14
+2006-10,The Mountain Goats,40
+2006-10,Townes Van Zandt,12
+2006-10,Wilco,15
+2006-11,Beck,8
+2006-11,Bob Dylan,13
+2006-11,Built To Spill,4
+2006-11,Calexico,4
+2006-11,Grandaddy,10
+2006-11,Jim White,0
+2006-11,Lambchop,3
+2006-11,M. Ward,8
+2006-11,Modest Mouse,4
+2006-11,My Morning Jacket,5
+2006-11,Neko Case,3
+2006-11,Pixies,2
+2006-11,Radiohead,13
+2006-11,Richard Buckner,12
+2006-11,Steve Earle,9
+2006-11,Talking Heads,7
+2006-11,The Flaming Lips,10
+2006-11,The Mountain Goats,20
+2006-11,Townes Van Zandt,15
+2006-11,Wilco,22
+2006-12,Beck,9
+2006-12,Bob Dylan,53
+2006-12,Built To Spill,12
+2006-12,Calexico,10
+2006-12,Grandaddy,36
+2006-12,Jim White,2
+2006-12,Lambchop,12
+2006-12,M. Ward,18
+2006-12,Modest Mouse,13
+2006-12,My Morning Jacket,12
+2006-12,Neko Case,13
+2006-12,Pixies,12
+2006-12,Radiohead,30
+2006-12,Richard Buckner,44
+2006-12,Steve Earle,9
+2006-12,Talking Heads,25
+2006-12,The Flaming Lips,18
+2006-12,The Mountain Goats,25
+2006-12,Townes Van Zandt,30
+2006-12,Wilco,36
+2007-01,Beck,5
+2007-01,Bob Dylan,1
+2007-01,Built To Spill,4
+2007-01,Calexico,14
+2007-01,Grandaddy,19
+2007-01,Jim White,6
+2007-01,Lambchop,20
+2007-01,M. Ward,3
+2007-01,Modest Mouse,3
+2007-01,My Morning Jacket,1
+2007-01,Neko Case,25
+2007-01,Pixies,2
+2007-01,Radiohead,2
+2007-01,Richard Buckner,4
+2007-01,Steve Earle,3
+2007-01,Talking Heads,1
+2007-01,The Flaming Lips,3
+2007-01,The Mountain Goats,15
+2007-01,Townes Van Zandt,14
+2007-01,Wilco,3
+2007-02,Beck,12
+2007-02,Bob Dylan,34
+2007-02,Built To Spill,7
+2007-02,Calexico,9
+2007-02,Grandaddy,3
+2007-02,Jim White,4
+2007-02,Lambchop,2
+2007-02,M. Ward,9
+2007-02,Modest Mouse,13
+2007-02,My Morning Jacket,6
+2007-02,Neko Case,3
+2007-02,Pixies,6
+2007-02,Radiohead,4
+2007-02,Richard Buckner,12
+2007-02,Steve Earle,1
+2007-02,Talking Heads,12
+2007-02,The Flaming Lips,14
+2007-02,The Mountain Goats,6
+2007-02,Townes Van Zandt,9
+2007-02,Wilco,13
+2007-03,Beck,2
+2007-03,Bob Dylan,6
+2007-03,Built To Spill,5
+2007-03,Calexico,7
+2007-03,Grandaddy,8
+2007-03,Jim White,1
+2007-03,Lambchop,3
+2007-03,M. Ward,6
+2007-03,Modest Mouse,5
+2007-03,My Morning Jacket,2
+2007-03,Neko Case,7
+2007-03,Pixies,2
+2007-03,Radiohead,4
+2007-03,Richard Buckner,6
+2007-03,Steve Earle,2
+2007-03,Talking Heads,3
+2007-03,The Flaming Lips,8
+2007-03,The Mountain Goats,13
+2007-03,Townes Van Zandt,10
+2007-03,Wilco,9
+2007-04,Beck,7
+2007-04,Bob Dylan,26
+2007-04,Built To Spill,13
+2007-04,Calexico,6
+2007-04,Grandaddy,14
+2007-04,Jim White,4
+2007-04,Lambchop,12
+2007-04,M. Ward,11
+2007-04,Modest Mouse,15
+2007-04,My Morning Jacket,2
+2007-04,Neko Case,8
+2007-04,Pixies,10
+2007-04,Radiohead,16
+2007-04,Richard Buckner,21
+2007-04,Steve Earle,2
+2007-04,Talking Heads,12
+2007-04,The Flaming Lips,17
+2007-04,The Mountain Goats,16
+2007-04,Townes Van Zandt,19
+2007-04,Wilco,23
+2007-05,Beck,2
+2007-05,Bob Dylan,17
+2007-05,Built To Spill,8
+2007-05,Calexico,16
+2007-05,Grandaddy,24
+2007-05,Jim White,6
+2007-05,Lambchop,10
+2007-05,M. Ward,22
+2007-05,Modest Mouse,7
+2007-05,My Morning Jacket,7
+2007-05,Neko Case,19
+2007-05,Pixies,4
+2007-05,Radiohead,18
+2007-05,Richard Buckner,15
+2007-05,Steve Earle,2
+2007-05,Talking Heads,6
+2007-05,The Flaming Lips,11
+2007-05,The Mountain Goats,21
+2007-05,Townes Van Zandt,46
+2007-05,Wilco,29
+2007-06,Beck,3
+2007-06,Bob Dylan,38
+2007-06,Built To Spill,7
+2007-06,Calexico,12
+2007-06,Grandaddy,10
+2007-06,Jim White,7
+2007-06,Lambchop,5
+2007-06,M. Ward,10
+2007-06,Modest Mouse,22
+2007-06,My Morning Jacket,6
+2007-06,Neko Case,10
+2007-06,Pixies,6
+2007-06,Radiohead,12
+2007-06,Richard Buckner,20
+2007-06,Steve Earle,6
+2007-06,Talking Heads,3
+2007-06,The Flaming Lips,13
+2007-06,The Mountain Goats,19
+2007-06,Townes Van Zandt,23
+2007-06,Wilco,51
+2007-07,Beck,6
+2007-07,Bob Dylan,16
+2007-07,Built To Spill,3
+2007-07,Calexico,7
+2007-07,Grandaddy,22
+2007-07,Jim White,6
+2007-07,Lambchop,22
+2007-07,M. Ward,19
+2007-07,Modest Mouse,10
+2007-07,My Morning Jacket,9
+2007-07,Neko Case,11
+2007-07,Pixies,8
+2007-07,Radiohead,13
+2007-07,Richard Buckner,29
+2007-07,Steve Earle,4
+2007-07,Talking Heads,3
+2007-07,The Flaming Lips,8
+2007-07,The Mountain Goats,61
+2007-07,Townes Van Zandt,46
+2007-07,Wilco,30
+2007-08,Beck,1
+2007-08,Bob Dylan,3
+2007-08,Built To Spill,5
+2007-08,Calexico,7
+2007-08,Grandaddy,14
+2007-08,Jim White,3
+2007-08,Lambchop,3
+2007-08,M. Ward,29
+2007-08,Modest Mouse,13
+2007-08,My Morning Jacket,2
+2007-08,Neko Case,9
+2007-08,Pixies,2
+2007-08,Radiohead,11
+2007-08,Richard Buckner,8
+2007-08,Steve Earle,2
+2007-08,Talking Heads,4
+2007-08,The Flaming Lips,7
+2007-08,The Mountain Goats,21
+2007-08,Townes Van Zandt,22
+2007-08,Wilco,43
+2007-09,Beck,3
+2007-09,Bob Dylan,3
+2007-09,Built To Spill,8
+2007-09,Calexico,69
+2007-09,Grandaddy,41
+2007-09,Jim White,2
+2007-09,Lambchop,5
+2007-09,M. Ward,30
+2007-09,Modest Mouse,7
+2007-09,My Morning Jacket,6
+2007-09,Neko Case,8
+2007-09,Pixies,2
+2007-09,Radiohead,11
+2007-09,Richard Buckner,11
+2007-09,Steve Earle,1
+2007-09,Talking Heads,4
+2007-09,The Flaming Lips,6
+2007-09,The Mountain Goats,36
+2007-09,Townes Van Zandt,13
+2007-09,Wilco,48
+2007-10,Beck,1
+2007-10,Bob Dylan,19
+2007-10,Built To Spill,5
+2007-10,Calexico,17
+2007-10,Grandaddy,14
+2007-10,Jim White,2
+2007-10,Lambchop,2
+2007-10,M. Ward,23
+2007-10,Modest Mouse,11
+2007-10,My Morning Jacket,4
+2007-10,Neko Case,13
+2007-10,Pixies,6
+2007-10,Radiohead,170
+2007-10,Richard Buckner,13
+2007-10,Steve Earle,4
+2007-10,Talking Heads,4
+2007-10,The Flaming Lips,7
+2007-10,The Mountain Goats,34
+2007-10,Townes Van Zandt,21
+2007-10,Wilco,58
+2007-11,Beck,6
+2007-11,Bob Dylan,15
+2007-11,Built To Spill,3
+2007-11,Calexico,12
+2007-11,Grandaddy,9
+2007-11,Jim White,4
+2007-11,Lambchop,3
+2007-11,M. Ward,14
+2007-11,Modest Mouse,9
+2007-11,My Morning Jacket,7
+2007-11,Neko Case,12
+2007-11,Pixies,21
+2007-11,Radiohead,18
+2007-11,Richard Buckner,15
+2007-11,Steve Earle,8
+2007-11,Talking Heads,8
+2007-11,The Flaming Lips,14
+2007-11,The Mountain Goats,35
+2007-11,Townes Van Zandt,37
+2007-11,Wilco,37
+2007-12,Beck,1
+2007-12,Bob Dylan,7
+2007-12,Built To Spill,6
+2007-12,Calexico,17
+2007-12,Grandaddy,8
+2007-12,Jim White,1
+2007-12,Lambchop,4
+2007-12,M. Ward,17
+2007-12,Modest Mouse,12
+2007-12,My Morning Jacket,2
+2007-12,Neko Case,3
+2007-12,Pixies,1
+2007-12,Radiohead,33
+2007-12,Richard Buckner,7
+2007-12,Steve Earle,3
+2007-12,Talking Heads,1
+2007-12,The Flaming Lips,5
+2007-12,The Mountain Goats,21
+2007-12,Townes Van Zandt,19
+2007-12,Wilco,34
+2008-01,Beck,23
+2008-01,Bob Dylan,75
+2008-01,Built To Spill,9
+2008-01,Calexico,21
+2008-01,Grandaddy,22
+2008-01,Jim White,4
+2008-01,Lambchop,6
+2008-01,M. Ward,15
+2008-01,Modest Mouse,23
+2008-01,My Morning Jacket,12
+2008-01,Neko Case,26
+2008-01,Pixies,13
+2008-01,Radiohead,32
+2008-01,Richard Buckner,35
+2008-01,Steve Earle,11
+2008-01,Talking Heads,18
+2008-01,The Flaming Lips,23
+2008-01,The Mountain Goats,25
+2008-01,Townes Van Zandt,14
+2008-01,Wilco,48
+2008-02,Beck,14
+2008-02,Bob Dylan,66
+2008-02,Built To Spill,15
+2008-02,Calexico,11
+2008-02,Grandaddy,32
+2008-02,Jim White,2
+2008-02,Lambchop,3
+2008-02,M. Ward,34
+2008-02,Modest Mouse,15
+2008-02,My Morning Jacket,7
+2008-02,Neko Case,11
+2008-02,Pixies,8
+2008-02,Radiohead,11
+2008-02,Richard Buckner,40
+2008-02,Steve Earle,7
+2008-02,Talking Heads,11
+2008-02,The Flaming Lips,21
+2008-02,The Mountain Goats,49
+2008-02,Townes Van Zandt,51
+2008-02,Wilco,27
+2008-03,Beck,17
+2008-03,Bob Dylan,49
+2008-03,Built To Spill,4
+2008-03,Calexico,9
+2008-03,Grandaddy,7
+2008-03,Jim White,9
+2008-03,Lambchop,5
+2008-03,M. Ward,27
+2008-03,Modest Mouse,9
+2008-03,My Morning Jacket,11
+2008-03,Neko Case,10
+2008-03,Pixies,5
+2008-03,Radiohead,24
+2008-03,Richard Buckner,70
+2008-03,Steve Earle,7
+2008-03,Talking Heads,13
+2008-03,The Flaming Lips,8
+2008-03,The Mountain Goats,55
+2008-03,Townes Van Zandt,59
+2008-03,Wilco,20
+2008-04,Beck,23
+2008-04,Bob Dylan,39
+2008-04,Built To Spill,20
+2008-04,Calexico,10
+2008-04,Grandaddy,19
+2008-04,Jim White,26
+2008-04,Lambchop,7
+2008-04,M. Ward,22
+2008-04,Modest Mouse,16
+2008-04,My Morning Jacket,4
+2008-04,Neko Case,29
+2008-04,Pixies,14
+2008-04,Radiohead,48
+2008-04,Richard Buckner,30
+2008-04,Steve Earle,6
+2008-04,Talking Heads,16
+2008-04,The Flaming Lips,17
+2008-04,The Mountain Goats,36
+2008-04,Townes Van Zandt,39
+2008-04,Wilco,35
+2008-05,Beck,13
+2008-05,Bob Dylan,38
+2008-05,Built To Spill,17
+2008-05,Calexico,18
+2008-05,Grandaddy,42
+2008-05,Jim White,39
+2008-05,Lambchop,2
+2008-05,M. Ward,24
+2008-05,Modest Mouse,17
+2008-05,My Morning Jacket,6
+2008-05,Neko Case,7
+2008-05,Pixies,44
+2008-05,Radiohead,28
+2008-05,Richard Buckner,16
+2008-05,Steve Earle,5
+2008-05,Talking Heads,6
+2008-05,The Flaming Lips,15
+2008-05,The Mountain Goats,62
+2008-05,Townes Van Zandt,28
+2008-05,Wilco,28
+2008-06,Beck,9
+2008-06,Bob Dylan,31
+2008-06,Built To Spill,6
+2008-06,Calexico,17
+2008-06,Grandaddy,23
+2008-06,Jim White,15
+2008-06,Lambchop,2
+2008-06,M. Ward,30
+2008-06,Modest Mouse,16
+2008-06,My Morning Jacket,24
+2008-06,Neko Case,9
+2008-06,Pixies,14
+2008-06,Radiohead,36
+2008-06,Richard Buckner,23
+2008-06,Steve Earle,10
+2008-06,Talking Heads,19
+2008-06,The Flaming Lips,11
+2008-06,The Mountain Goats,52
+2008-06,Townes Van Zandt,18
+2008-06,Wilco,47
+2008-07,Beck,17
+2008-07,Bob Dylan,40
+2008-07,Built To Spill,7
+2008-07,Calexico,9
+2008-07,Grandaddy,32
+2008-07,Jim White,9
+2008-07,Lambchop,6
+2008-07,M. Ward,9
+2008-07,Modest Mouse,14
+2008-07,My Morning Jacket,42
+2008-07,Neko Case,10
+2008-07,Pixies,23
+2008-07,Radiohead,41
+2008-07,Richard Buckner,18
+2008-07,Steve Earle,7
+2008-07,Talking Heads,9
+2008-07,The Flaming Lips,18
+2008-07,The Mountain Goats,55
+2008-07,Townes Van Zandt,17
+2008-07,Wilco,56
+2008-08,Beck,1
+2008-08,Bob Dylan,11
+2008-08,Built To Spill,6
+2008-08,Calexico,7
+2008-08,Grandaddy,4
+2008-08,Jim White,6
+2008-08,Lambchop,6
+2008-08,M. Ward,9
+2008-08,Modest Mouse,3
+2008-08,My Morning Jacket,6
+2008-08,Neko Case,1
+2008-08,Pixies,3
+2008-08,Radiohead,7
+2008-08,Richard Buckner,6
+2008-08,Steve Earle,1
+2008-08,Talking Heads,4
+2008-08,The Flaming Lips,8
+2008-08,The Mountain Goats,14
+2008-08,Townes Van Zandt,10
+2008-08,Wilco,15
+2008-09,Beck,1
+2008-09,Bob Dylan,1
+2008-09,Built To Spill,2
+2008-09,Calexico,5
+2008-09,Grandaddy,0
+2008-09,Jim White,2
+2008-09,Lambchop,4
+2008-09,M. Ward,2
+2008-09,Modest Mouse,1
+2008-09,My Morning Jacket,1
+2008-09,Neko Case,1
+2008-09,Pixies,0
+2008-09,Radiohead,3
+2008-09,Richard Buckner,5
+2008-09,Steve Earle,2
+2008-09,Talking Heads,1
+2008-09,The Flaming Lips,1
+2008-09,The Mountain Goats,3
+2008-09,Townes Van Zandt,4
+2008-09,Wilco,6
+2008-10,Beck,3
+2008-10,Bob Dylan,0
+2008-10,Built To Spill,2
+2008-10,Calexico,20
+2008-10,Grandaddy,3
+2008-10,Jim White,2
+2008-10,Lambchop,12
+2008-10,M. Ward,2
+2008-10,Modest Mouse,2
+2008-10,My Morning Jacket,1
+2008-10,Neko Case,2
+2008-10,Pixies,2
+2008-10,Radiohead,4
+2008-10,Richard Buckner,5
+2008-10,Steve Earle,1
+2008-10,Talking Heads,3
+2008-10,The Flaming Lips,3
+2008-10,The Mountain Goats,5
+2008-10,Townes Van Zandt,3
+2008-10,Wilco,3
+2008-11,Beck,4
+2008-11,Bob Dylan,28
+2008-11,Built To Spill,4
+2008-11,Calexico,62
+2008-11,Grandaddy,26
+2008-11,Jim White,18
+2008-11,Lambchop,27
+2008-11,M. Ward,11
+2008-11,Modest Mouse,7
+2008-11,My Morning Jacket,8
+2008-11,Neko Case,6
+2008-11,Pixies,3
+2008-11,Radiohead,9
+2008-11,Richard Buckner,14
+2008-11,Steve Earle,1
+2008-11,Talking Heads,8
+2008-11,The Flaming Lips,12
+2008-11,The Mountain Goats,37
+2008-11,Townes Van Zandt,14
+2008-11,Wilco,34
+2008-12,Beck,12
+2008-12,Bob Dylan,31
+2008-12,Built To Spill,5
+2008-12,Calexico,30
+2008-12,Grandaddy,13
+2008-12,Jim White,11
+2008-12,Lambchop,24
+2008-12,M. Ward,11
+2008-12,Modest Mouse,13
+2008-12,My Morning Jacket,8
+2008-12,Neko Case,8
+2008-12,Pixies,10
+2008-12,Radiohead,8
+2008-12,Richard Buckner,12
+2008-12,Steve Earle,5
+2008-12,Talking Heads,10
+2008-12,The Flaming Lips,7
+2008-12,The Mountain Goats,19
+2008-12,Townes Van Zandt,38
+2008-12,Wilco,15
+2009-01,Beck,11
+2009-01,Bob Dylan,45
+2009-01,Built To Spill,15
+2009-01,Calexico,17
+2009-01,Grandaddy,3
+2009-01,Jim White,3
+2009-01,Lambchop,2
+2009-01,M. Ward,15
+2009-01,Modest Mouse,8
+2009-01,My Morning Jacket,11
+2009-01,Neko Case,7
+2009-01,Pixies,3
+2009-01,Radiohead,18
+2009-01,Richard Buckner,8
+2009-01,Steve Earle,6
+2009-01,Talking Heads,5
+2009-01,The Flaming Lips,8
+2009-01,The Mountain Goats,38
+2009-01,Townes Van Zandt,7
+2009-01,Wilco,49
+2009-02,Beck,19
+2009-02,Bob Dylan,49
+2009-02,Built To Spill,4
+2009-02,Calexico,28
+2009-02,Grandaddy,2
+2009-02,Jim White,4
+2009-02,Lambchop,7
+2009-02,M. Ward,9
+2009-02,Modest Mouse,21
+2009-02,My Morning Jacket,22
+2009-02,Neko Case,13
+2009-02,Pixies,21
+2009-02,Radiohead,15
+2009-02,Richard Buckner,16
+2009-02,Steve Earle,0
+2009-02,Talking Heads,10
+2009-02,The Flaming Lips,10
+2009-02,The Mountain Goats,8
+2009-02,Townes Van Zandt,11
+2009-02,Wilco,24
+2009-03,Beck,9
+2009-03,Bob Dylan,26
+2009-03,Built To Spill,11
+2009-03,Calexico,12
+2009-03,Grandaddy,14
+2009-03,Jim White,2
+2009-03,Lambchop,9
+2009-03,M. Ward,15
+2009-03,Modest Mouse,1
+2009-03,My Morning Jacket,10
+2009-03,Neko Case,6
+2009-03,Pixies,17
+2009-03,Radiohead,6
+2009-03,Richard Buckner,30
+2009-03,Steve Earle,7
+2009-03,Talking Heads,6
+2009-03,The Flaming Lips,5
+2009-03,The Mountain Goats,15
+2009-03,Townes Van Zandt,8
+2009-03,Wilco,13
+2009-04,Beck,2
+2009-04,Bob Dylan,20
+2009-04,Built To Spill,2
+2009-04,Calexico,16
+2009-04,Grandaddy,5
+2009-04,Jim White,14
+2009-04,Lambchop,0
+2009-04,M. Ward,59
+2009-04,Modest Mouse,17
+2009-04,My Morning Jacket,3
+2009-04,Neko Case,5
+2009-04,Pixies,3
+2009-04,Radiohead,17
+2009-04,Richard Buckner,8
+2009-04,Steve Earle,12
+2009-04,Talking Heads,4
+2009-04,The Flaming Lips,13
+2009-04,The Mountain Goats,23
+2009-04,Townes Van Zandt,7
+2009-04,Wilco,23

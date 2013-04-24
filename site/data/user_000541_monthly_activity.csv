@@ -1,0 +1,361 @@
+month,artist,plays
+2006-11,Air,1
+2006-11,Bat For Lashes,0
+2006-11,Beck,1
+2006-11,Belle And Sebastian,0
+2006-11,Bonnie 'Prince' Billy & Matt Sweeney,1
+2006-11,Devendra Banhart,0
+2006-11,Elliott Smith,0
+2006-11,Fiona Soe Paing,2
+2006-11,Goldfrapp,2
+2006-11,Interpol,0
+2006-11,Iron & Wine,1
+2006-11,Joanna Newsom,1
+2006-11,Josephine Foster,0
+2006-11,Juana Molina,0
+2006-11,Midlake,0
+2006-11,Modest Mouse,0
+2006-11,Neutral Milk Hotel,1
+2006-11,Regina Spektor,0
+2006-11,Sigur Rós,0
+2006-11,Wolf Parade,0
+2006-12,Air,1
+2006-12,Bat For Lashes,1
+2006-12,Beck,1
+2006-12,Belle And Sebastian,1
+2006-12,Bonnie 'Prince' Billy & Matt Sweeney,1
+2006-12,Devendra Banhart,2
+2006-12,Elliott Smith,1
+2006-12,Fiona Soe Paing,1
+2006-12,Goldfrapp,1
+2006-12,Interpol,1
+2006-12,Iron & Wine,1
+2006-12,Joanna Newsom,1
+2006-12,Josephine Foster,1
+2006-12,Juana Molina,0
+2006-12,Midlake,1
+2006-12,Modest Mouse,0
+2006-12,Neutral Milk Hotel,1
+2006-12,Regina Spektor,1
+2006-12,Sigur Rós,1
+2006-12,Wolf Parade,1
+2007-01,Air,0
+2007-01,Bat For Lashes,0
+2007-01,Beck,1
+2007-01,Belle And Sebastian,1
+2007-01,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-01,Devendra Banhart,1
+2007-01,Elliott Smith,1
+2007-01,Fiona Soe Paing,0
+2007-01,Goldfrapp,0
+2007-01,Interpol,1
+2007-01,Iron & Wine,0
+2007-01,Joanna Newsom,0
+2007-01,Josephine Foster,0
+2007-01,Juana Molina,0
+2007-01,Midlake,0
+2007-01,Modest Mouse,1
+2007-01,Neutral Milk Hotel,0
+2007-01,Regina Spektor,0
+2007-01,Sigur Rós,2
+2007-01,Wolf Parade,0
+2007-02,Air,0
+2007-02,Bat For Lashes,0
+2007-02,Beck,0
+2007-02,Belle And Sebastian,0
+2007-02,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-02,Devendra Banhart,0
+2007-02,Elliott Smith,0
+2007-02,Fiona Soe Paing,0
+2007-02,Goldfrapp,0
+2007-02,Interpol,0
+2007-02,Iron & Wine,0
+2007-02,Joanna Newsom,0
+2007-02,Josephine Foster,0
+2007-02,Juana Molina,0
+2007-02,Midlake,0
+2007-02,Modest Mouse,0
+2007-02,Neutral Milk Hotel,0
+2007-02,Regina Spektor,0
+2007-02,Sigur Rós,0
+2007-02,Wolf Parade,0
+2007-03,Air,0
+2007-03,Bat For Lashes,0
+2007-03,Beck,0
+2007-03,Belle And Sebastian,0
+2007-03,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-03,Devendra Banhart,0
+2007-03,Elliott Smith,0
+2007-03,Fiona Soe Paing,0
+2007-03,Goldfrapp,0
+2007-03,Interpol,0
+2007-03,Iron & Wine,0
+2007-03,Joanna Newsom,0
+2007-03,Josephine Foster,0
+2007-03,Juana Molina,0
+2007-03,Midlake,0
+2007-03,Modest Mouse,0
+2007-03,Neutral Milk Hotel,0
+2007-03,Regina Spektor,0
+2007-03,Sigur Rós,0
+2007-03,Wolf Parade,0
+2007-04,Air,0
+2007-04,Bat For Lashes,0
+2007-04,Beck,0
+2007-04,Belle And Sebastian,0
+2007-04,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-04,Devendra Banhart,0
+2007-04,Elliott Smith,0
+2007-04,Fiona Soe Paing,0
+2007-04,Goldfrapp,0
+2007-04,Interpol,0
+2007-04,Iron & Wine,0
+2007-04,Joanna Newsom,0
+2007-04,Josephine Foster,0
+2007-04,Juana Molina,0
+2007-04,Midlake,0
+2007-04,Modest Mouse,0
+2007-04,Neutral Milk Hotel,0
+2007-04,Regina Spektor,0
+2007-04,Sigur Rós,0
+2007-04,Wolf Parade,0
+2007-05,Air,0
+2007-05,Bat For Lashes,0
+2007-05,Beck,0
+2007-05,Belle And Sebastian,0
+2007-05,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-05,Devendra Banhart,0
+2007-05,Elliott Smith,0
+2007-05,Fiona Soe Paing,0
+2007-05,Goldfrapp,0
+2007-05,Interpol,0
+2007-05,Iron & Wine,0
+2007-05,Joanna Newsom,0
+2007-05,Josephine Foster,0
+2007-05,Juana Molina,0
+2007-05,Midlake,0
+2007-05,Modest Mouse,0
+2007-05,Neutral Milk Hotel,0
+2007-05,Regina Spektor,0
+2007-05,Sigur Rós,0
+2007-05,Wolf Parade,0
+2007-06,Air,0
+2007-06,Bat For Lashes,0
+2007-06,Beck,0
+2007-06,Belle And Sebastian,0
+2007-06,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-06,Devendra Banhart,0
+2007-06,Elliott Smith,0
+2007-06,Fiona Soe Paing,0
+2007-06,Goldfrapp,0
+2007-06,Interpol,0
+2007-06,Iron & Wine,0
+2007-06,Joanna Newsom,0
+2007-06,Josephine Foster,0
+2007-06,Juana Molina,1
+2007-06,Midlake,0
+2007-06,Modest Mouse,0
+2007-06,Neutral Milk Hotel,0
+2007-06,Regina Spektor,0
+2007-06,Sigur Rós,0
+2007-06,Wolf Parade,0
+2007-07,Air,0
+2007-07,Bat For Lashes,1
+2007-07,Beck,0
+2007-07,Belle And Sebastian,0
+2007-07,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-07,Devendra Banhart,1
+2007-07,Elliott Smith,1
+2007-07,Fiona Soe Paing,12
+2007-07,Goldfrapp,1
+2007-07,Interpol,0
+2007-07,Iron & Wine,0
+2007-07,Joanna Newsom,0
+2007-07,Josephine Foster,1
+2007-07,Juana Molina,1
+2007-07,Midlake,0
+2007-07,Modest Mouse,1
+2007-07,Neutral Milk Hotel,0
+2007-07,Regina Spektor,1
+2007-07,Sigur Rós,0
+2007-07,Wolf Parade,1
+2007-08,Air,0
+2007-08,Bat For Lashes,0
+2007-08,Beck,0
+2007-08,Belle And Sebastian,0
+2007-08,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-08,Devendra Banhart,0
+2007-08,Elliott Smith,0
+2007-08,Fiona Soe Paing,0
+2007-08,Goldfrapp,0
+2007-08,Interpol,0
+2007-08,Iron & Wine,0
+2007-08,Joanna Newsom,0
+2007-08,Josephine Foster,0
+2007-08,Juana Molina,0
+2007-08,Midlake,1
+2007-08,Modest Mouse,0
+2007-08,Neutral Milk Hotel,0
+2007-08,Regina Spektor,0
+2007-08,Sigur Rós,0
+2007-08,Wolf Parade,1
+2007-09,Air,0
+2007-09,Bat For Lashes,0
+2007-09,Beck,0
+2007-09,Belle And Sebastian,0
+2007-09,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-09,Devendra Banhart,0
+2007-09,Elliott Smith,0
+2007-09,Fiona Soe Paing,1
+2007-09,Goldfrapp,0
+2007-09,Interpol,0
+2007-09,Iron & Wine,0
+2007-09,Joanna Newsom,0
+2007-09,Josephine Foster,0
+2007-09,Juana Molina,0
+2007-09,Midlake,0
+2007-09,Modest Mouse,0
+2007-09,Neutral Milk Hotel,0
+2007-09,Regina Spektor,0
+2007-09,Sigur Rós,0
+2007-09,Wolf Parade,0
+2007-10,Air,0
+2007-10,Bat For Lashes,0
+2007-10,Beck,0
+2007-10,Belle And Sebastian,0
+2007-10,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-10,Devendra Banhart,0
+2007-10,Elliott Smith,0
+2007-10,Fiona Soe Paing,0
+2007-10,Goldfrapp,0
+2007-10,Interpol,0
+2007-10,Iron & Wine,0
+2007-10,Joanna Newsom,0
+2007-10,Josephine Foster,0
+2007-10,Juana Molina,0
+2007-10,Midlake,0
+2007-10,Modest Mouse,0
+2007-10,Neutral Milk Hotel,0
+2007-10,Regina Spektor,0
+2007-10,Sigur Rós,0
+2007-10,Wolf Parade,0
+2007-11,Air,0
+2007-11,Bat For Lashes,0
+2007-11,Beck,0
+2007-11,Belle And Sebastian,0
+2007-11,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-11,Devendra Banhart,0
+2007-11,Elliott Smith,0
+2007-11,Fiona Soe Paing,0
+2007-11,Goldfrapp,0
+2007-11,Interpol,0
+2007-11,Iron & Wine,0
+2007-11,Joanna Newsom,0
+2007-11,Josephine Foster,0
+2007-11,Juana Molina,0
+2007-11,Midlake,0
+2007-11,Modest Mouse,0
+2007-11,Neutral Milk Hotel,0
+2007-11,Regina Spektor,0
+2007-11,Sigur Rós,0
+2007-11,Wolf Parade,0
+2007-12,Air,0
+2007-12,Bat For Lashes,0
+2007-12,Beck,0
+2007-12,Belle And Sebastian,0
+2007-12,Bonnie 'Prince' Billy & Matt Sweeney,0
+2007-12,Devendra Banhart,0
+2007-12,Elliott Smith,0
+2007-12,Fiona Soe Paing,0
+2007-12,Goldfrapp,0
+2007-12,Interpol,0
+2007-12,Iron & Wine,0
+2007-12,Joanna Newsom,0
+2007-12,Josephine Foster,0
+2007-12,Juana Molina,0
+2007-12,Midlake,0
+2007-12,Modest Mouse,0
+2007-12,Neutral Milk Hotel,0
+2007-12,Regina Spektor,0
+2007-12,Sigur Rós,0
+2007-12,Wolf Parade,0
+2008-01,Air,0
+2008-01,Bat For Lashes,0
+2008-01,Beck,0
+2008-01,Belle And Sebastian,0
+2008-01,Bonnie 'Prince' Billy & Matt Sweeney,0
+2008-01,Devendra Banhart,0
+2008-01,Elliott Smith,0
+2008-01,Fiona Soe Paing,0
+2008-01,Goldfrapp,0
+2008-01,Interpol,0
+2008-01,Iron & Wine,0
+2008-01,Joanna Newsom,0
+2008-01,Josephine Foster,0
+2008-01,Juana Molina,0
+2008-01,Midlake,0
+2008-01,Modest Mouse,0
+2008-01,Neutral Milk Hotel,0
+2008-01,Regina Spektor,0
+2008-01,Sigur Rós,0
+2008-01,Wolf Parade,0
+2008-02,Air,0
+2008-02,Bat For Lashes,0
+2008-02,Beck,0
+2008-02,Belle And Sebastian,0
+2008-02,Bonnie 'Prince' Billy & Matt Sweeney,0
+2008-02,Devendra Banhart,0
+2008-02,Elliott Smith,0
+2008-02,Fiona Soe Paing,0
+2008-02,Goldfrapp,0
+2008-02,Interpol,0
+2008-02,Iron & Wine,0
+2008-02,Joanna Newsom,0
+2008-02,Josephine Foster,0
+2008-02,Juana Molina,0
+2008-02,Midlake,0
+2008-02,Modest Mouse,0
+2008-02,Neutral Milk Hotel,0
+2008-02,Regina Spektor,0
+2008-02,Sigur Rós,0
+2008-02,Wolf Parade,0
+2008-03,Air,0
+2008-03,Bat For Lashes,0
+2008-03,Beck,0
+2008-03,Belle And Sebastian,0
+2008-03,Bonnie 'Prince' Billy & Matt Sweeney,0
+2008-03,Devendra Banhart,0
+2008-03,Elliott Smith,0
+2008-03,Fiona Soe Paing,0
+2008-03,Goldfrapp,0
+2008-03,Interpol,0
+2008-03,Iron & Wine,0
+2008-03,Joanna Newsom,0
+2008-03,Josephine Foster,0
+2008-03,Juana Molina,0
+2008-03,Midlake,0
+2008-03,Modest Mouse,0
+2008-03,Neutral Milk Hotel,0
+2008-03,Regina Spektor,0
+2008-03,Sigur Rós,0
+2008-03,Wolf Parade,0
+2008-04,Air,0
+2008-04,Bat For Lashes,0
+2008-04,Beck,0
+2008-04,Belle And Sebastian,0
+2008-04,Bonnie 'Prince' Billy & Matt Sweeney,0
+2008-04,Devendra Banhart,0
+2008-04,Elliott Smith,0
+2008-04,Fiona Soe Paing,2
+2008-04,Goldfrapp,0
+2008-04,Interpol,0
+2008-04,Iron & Wine,0
+2008-04,Joanna Newsom,0
+2008-04,Josephine Foster,0
+2008-04,Juana Molina,0
+2008-04,Midlake,0
+2008-04,Modest Mouse,0
+2008-04,Neutral Milk Hotel,0
+2008-04,Regina Spektor,0
+2008-04,Sigur Rós,0
+2008-04,Wolf Parade,0

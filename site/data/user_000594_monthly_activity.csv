@@ -1,0 +1,641 @@
+month,artist,plays
+2006-11,Agathodaimon,3
+2006-11,Amon Amarth,21
+2006-11,Carcass,19
+2006-11,Dark Tranquillity,16
+2006-11,Dimmu Borgir,16
+2006-11,Dire Straits,11
+2006-11,Edge Of Sanity,12
+2006-11,Eternal Tears Of Sorrow,20
+2006-11,Finntroll,40
+2006-11,Godsmack,8
+2006-11,Iced Earth,11
+2006-11,Mors Principium Est,11
+2006-11,Naglfar,1
+2006-11,Opeth,35
+2006-11,Porcupine Tree,94
+2006-11,Rage Against The Machine,21
+2006-11,Sentenced,78
+2006-11,Sonata Arctica,17
+2006-11,Tool,4
+2006-11,Turisas,12
+2006-12,Agathodaimon,95
+2006-12,Amon Amarth,42
+2006-12,Carcass,38
+2006-12,Dark Tranquillity,39
+2006-12,Dimmu Borgir,20
+2006-12,Dire Straits,5
+2006-12,Edge Of Sanity,63
+2006-12,Eternal Tears Of Sorrow,14
+2006-12,Finntroll,34
+2006-12,Godsmack,15
+2006-12,Iced Earth,6
+2006-12,Mors Principium Est,7
+2006-12,Naglfar,1
+2006-12,Opeth,24
+2006-12,Porcupine Tree,69
+2006-12,Rage Against The Machine,29
+2006-12,Sentenced,43
+2006-12,Sonata Arctica,31
+2006-12,Tool,7
+2006-12,Turisas,38
+2007-01,Agathodaimon,44
+2007-01,Amon Amarth,9
+2007-01,Carcass,24
+2007-01,Dark Tranquillity,34
+2007-01,Dimmu Borgir,20
+2007-01,Dire Straits,4
+2007-01,Edge Of Sanity,28
+2007-01,Eternal Tears Of Sorrow,34
+2007-01,Finntroll,21
+2007-01,Godsmack,11
+2007-01,Iced Earth,16
+2007-01,Mors Principium Est,60
+2007-01,Naglfar,17
+2007-01,Opeth,29
+2007-01,Porcupine Tree,34
+2007-01,Rage Against The Machine,19
+2007-01,Sentenced,16
+2007-01,Sonata Arctica,15
+2007-01,Tool,1
+2007-01,Turisas,12
+2007-02,Agathodaimon,55
+2007-02,Amon Amarth,1
+2007-02,Carcass,10
+2007-02,Dark Tranquillity,31
+2007-02,Dimmu Borgir,6
+2007-02,Dire Straits,6
+2007-02,Edge Of Sanity,4
+2007-02,Eternal Tears Of Sorrow,11
+2007-02,Finntroll,17
+2007-02,Godsmack,0
+2007-02,Iced Earth,2
+2007-02,Mors Principium Est,29
+2007-02,Naglfar,18
+2007-02,Opeth,35
+2007-02,Porcupine Tree,23
+2007-02,Rage Against The Machine,5
+2007-02,Sentenced,6
+2007-02,Sonata Arctica,15
+2007-02,Tool,29
+2007-02,Turisas,8
+2007-03,Agathodaimon,36
+2007-03,Amon Amarth,1
+2007-03,Carcass,13
+2007-03,Dark Tranquillity,28
+2007-03,Dimmu Borgir,15
+2007-03,Dire Straits,3
+2007-03,Edge Of Sanity,2
+2007-03,Eternal Tears Of Sorrow,35
+2007-03,Finntroll,8
+2007-03,Godsmack,13
+2007-03,Iced Earth,3
+2007-03,Mors Principium Est,7
+2007-03,Naglfar,9
+2007-03,Opeth,41
+2007-03,Porcupine Tree,5
+2007-03,Rage Against The Machine,19
+2007-03,Sentenced,15
+2007-03,Sonata Arctica,12
+2007-03,Tool,7
+2007-03,Turisas,7
+2007-04,Agathodaimon,151
+2007-04,Amon Amarth,0
+2007-04,Carcass,11
+2007-04,Dark Tranquillity,56
+2007-04,Dimmu Borgir,7
+2007-04,Dire Straits,4
+2007-04,Edge Of Sanity,0
+2007-04,Eternal Tears Of Sorrow,0
+2007-04,Finntroll,89
+2007-04,Godsmack,4
+2007-04,Iced Earth,1
+2007-04,Mors Principium Est,32
+2007-04,Naglfar,17
+2007-04,Opeth,97
+2007-04,Porcupine Tree,0
+2007-04,Rage Against The Machine,2
+2007-04,Sentenced,8
+2007-04,Sonata Arctica,11
+2007-04,Tool,3
+2007-04,Turisas,3
+2007-05,Agathodaimon,149
+2007-05,Amon Amarth,3
+2007-05,Carcass,44
+2007-05,Dark Tranquillity,25
+2007-05,Dimmu Borgir,0
+2007-05,Dire Straits,0
+2007-05,Edge Of Sanity,1
+2007-05,Eternal Tears Of Sorrow,11
+2007-05,Finntroll,116
+2007-05,Godsmack,4
+2007-05,Iced Earth,0
+2007-05,Mors Principium Est,160
+2007-05,Naglfar,103
+2007-05,Opeth,70
+2007-05,Porcupine Tree,20
+2007-05,Rage Against The Machine,21
+2007-05,Sentenced,2
+2007-05,Sonata Arctica,3
+2007-05,Tool,3
+2007-05,Turisas,4
+2007-06,Agathodaimon,63
+2007-06,Amon Amarth,13
+2007-06,Carcass,37
+2007-06,Dark Tranquillity,41
+2007-06,Dimmu Borgir,52
+2007-06,Dire Straits,15
+2007-06,Edge Of Sanity,5
+2007-06,Eternal Tears Of Sorrow,16
+2007-06,Finntroll,69
+2007-06,Godsmack,21
+2007-06,Iced Earth,13
+2007-06,Mors Principium Est,43
+2007-06,Naglfar,16
+2007-06,Opeth,28
+2007-06,Porcupine Tree,22
+2007-06,Rage Against The Machine,31
+2007-06,Sentenced,33
+2007-06,Sonata Arctica,23
+2007-06,Tool,22
+2007-06,Turisas,15
+2007-07,Agathodaimon,40
+2007-07,Amon Amarth,8
+2007-07,Carcass,31
+2007-07,Dark Tranquillity,11
+2007-07,Dimmu Borgir,27
+2007-07,Dire Straits,10
+2007-07,Edge Of Sanity,1
+2007-07,Eternal Tears Of Sorrow,15
+2007-07,Finntroll,17
+2007-07,Godsmack,14
+2007-07,Iced Earth,12
+2007-07,Mors Principium Est,18
+2007-07,Naglfar,32
+2007-07,Opeth,25
+2007-07,Porcupine Tree,21
+2007-07,Rage Against The Machine,28
+2007-07,Sentenced,15
+2007-07,Sonata Arctica,15
+2007-07,Tool,15
+2007-07,Turisas,1
+2007-08,Agathodaimon,28
+2007-08,Amon Amarth,107
+2007-08,Carcass,23
+2007-08,Dark Tranquillity,27
+2007-08,Dimmu Borgir,203
+2007-08,Dire Straits,16
+2007-08,Edge Of Sanity,10
+2007-08,Eternal Tears Of Sorrow,24
+2007-08,Finntroll,41
+2007-08,Godsmack,32
+2007-08,Iced Earth,15
+2007-08,Mors Principium Est,27
+2007-08,Naglfar,5
+2007-08,Opeth,18
+2007-08,Porcupine Tree,33
+2007-08,Rage Against The Machine,8
+2007-08,Sentenced,11
+2007-08,Sonata Arctica,10
+2007-08,Tool,13
+2007-08,Turisas,8
+2007-09,Agathodaimon,12
+2007-09,Amon Amarth,48
+2007-09,Carcass,14
+2007-09,Dark Tranquillity,6
+2007-09,Dimmu Borgir,98
+2007-09,Dire Straits,15
+2007-09,Edge Of Sanity,13
+2007-09,Eternal Tears Of Sorrow,1
+2007-09,Finntroll,18
+2007-09,Godsmack,45
+2007-09,Iced Earth,5
+2007-09,Mors Principium Est,46
+2007-09,Naglfar,18
+2007-09,Opeth,9
+2007-09,Porcupine Tree,13
+2007-09,Rage Against The Machine,7
+2007-09,Sentenced,8
+2007-09,Sonata Arctica,6
+2007-09,Tool,11
+2007-09,Turisas,2
+2007-10,Agathodaimon,36
+2007-10,Amon Amarth,25
+2007-10,Carcass,24
+2007-10,Dark Tranquillity,0
+2007-10,Dimmu Borgir,89
+2007-10,Dire Straits,0
+2007-10,Edge Of Sanity,14
+2007-10,Eternal Tears Of Sorrow,114
+2007-10,Finntroll,42
+2007-10,Godsmack,2
+2007-10,Iced Earth,1
+2007-10,Mors Principium Est,57
+2007-10,Naglfar,49
+2007-10,Opeth,36
+2007-10,Porcupine Tree,19
+2007-10,Rage Against The Machine,1
+2007-10,Sentenced,2
+2007-10,Sonata Arctica,9
+2007-10,Tool,2
+2007-10,Turisas,1
+2007-11,Agathodaimon,24
+2007-11,Amon Amarth,7
+2007-11,Carcass,28
+2007-11,Dark Tranquillity,0
+2007-11,Dimmu Borgir,68
+2007-11,Dire Straits,0
+2007-11,Edge Of Sanity,4
+2007-11,Eternal Tears Of Sorrow,30
+2007-11,Finntroll,1
+2007-11,Godsmack,0
+2007-11,Iced Earth,93
+2007-11,Mors Principium Est,22
+2007-11,Naglfar,47
+2007-11,Opeth,21
+2007-11,Porcupine Tree,15
+2007-11,Rage Against The Machine,0
+2007-11,Sentenced,1
+2007-11,Sonata Arctica,54
+2007-11,Tool,0
+2007-11,Turisas,20
+2007-12,Agathodaimon,4
+2007-12,Amon Amarth,3
+2007-12,Carcass,3
+2007-12,Dark Tranquillity,1
+2007-12,Dimmu Borgir,9
+2007-12,Dire Straits,10
+2007-12,Edge Of Sanity,3
+2007-12,Eternal Tears Of Sorrow,8
+2007-12,Finntroll,6
+2007-12,Godsmack,0
+2007-12,Iced Earth,22
+2007-12,Mors Principium Est,2
+2007-12,Naglfar,12
+2007-12,Opeth,19
+2007-12,Porcupine Tree,1
+2007-12,Rage Against The Machine,4
+2007-12,Sentenced,2
+2007-12,Sonata Arctica,4
+2007-12,Tool,0
+2007-12,Turisas,1
+2008-01,Agathodaimon,8
+2008-01,Amon Amarth,26
+2008-01,Carcass,3
+2008-01,Dark Tranquillity,0
+2008-01,Dimmu Borgir,52
+2008-01,Dire Straits,0
+2008-01,Edge Of Sanity,1
+2008-01,Eternal Tears Of Sorrow,12
+2008-01,Finntroll,20
+2008-01,Godsmack,0
+2008-01,Iced Earth,10
+2008-01,Mors Principium Est,2
+2008-01,Naglfar,2
+2008-01,Opeth,26
+2008-01,Porcupine Tree,0
+2008-01,Rage Against The Machine,15
+2008-01,Sentenced,0
+2008-01,Sonata Arctica,80
+2008-01,Tool,0
+2008-01,Turisas,2
+2008-02,Agathodaimon,45
+2008-02,Amon Amarth,35
+2008-02,Carcass,0
+2008-02,Dark Tranquillity,3
+2008-02,Dimmu Borgir,43
+2008-02,Dire Straits,9
+2008-02,Edge Of Sanity,3
+2008-02,Eternal Tears Of Sorrow,13
+2008-02,Finntroll,5
+2008-02,Godsmack,0
+2008-02,Iced Earth,16
+2008-02,Mors Principium Est,0
+2008-02,Naglfar,1
+2008-02,Opeth,9
+2008-02,Porcupine Tree,26
+2008-02,Rage Against The Machine,9
+2008-02,Sentenced,0
+2008-02,Sonata Arctica,39
+2008-02,Tool,9
+2008-02,Turisas,12
+2008-03,Agathodaimon,1
+2008-03,Amon Amarth,5
+2008-03,Carcass,54
+2008-03,Dark Tranquillity,78
+2008-03,Dimmu Borgir,6
+2008-03,Dire Straits,3
+2008-03,Edge Of Sanity,13
+2008-03,Eternal Tears Of Sorrow,27
+2008-03,Finntroll,39
+2008-03,Godsmack,13
+2008-03,Iced Earth,37
+2008-03,Mors Principium Est,1
+2008-03,Naglfar,1
+2008-03,Opeth,2
+2008-03,Porcupine Tree,20
+2008-03,Rage Against The Machine,6
+2008-03,Sentenced,3
+2008-03,Sonata Arctica,22
+2008-03,Tool,1
+2008-03,Turisas,10
+2008-04,Agathodaimon,1
+2008-04,Amon Amarth,10
+2008-04,Carcass,1
+2008-04,Dark Tranquillity,2
+2008-04,Dimmu Borgir,9
+2008-04,Dire Straits,5
+2008-04,Edge Of Sanity,6
+2008-04,Eternal Tears Of Sorrow,21
+2008-04,Finntroll,5
+2008-04,Godsmack,20
+2008-04,Iced Earth,3
+2008-04,Mors Principium Est,43
+2008-04,Naglfar,19
+2008-04,Opeth,23
+2008-04,Porcupine Tree,21
+2008-04,Rage Against The Machine,8
+2008-04,Sentenced,2
+2008-04,Sonata Arctica,13
+2008-04,Tool,12
+2008-04,Turisas,4
+2008-05,Agathodaimon,35
+2008-05,Amon Amarth,22
+2008-05,Carcass,87
+2008-05,Dark Tranquillity,0
+2008-05,Dimmu Borgir,24
+2008-05,Dire Straits,8
+2008-05,Edge Of Sanity,1
+2008-05,Eternal Tears Of Sorrow,17
+2008-05,Finntroll,4
+2008-05,Godsmack,17
+2008-05,Iced Earth,3
+2008-05,Mors Principium Est,2
+2008-05,Naglfar,0
+2008-05,Opeth,16
+2008-05,Porcupine Tree,9
+2008-05,Rage Against The Machine,9
+2008-05,Sentenced,1
+2008-05,Sonata Arctica,32
+2008-05,Tool,0
+2008-05,Turisas,8
+2008-06,Agathodaimon,0
+2008-06,Amon Amarth,11
+2008-06,Carcass,2
+2008-06,Dark Tranquillity,0
+2008-06,Dimmu Borgir,98
+2008-06,Dire Straits,1
+2008-06,Edge Of Sanity,0
+2008-06,Eternal Tears Of Sorrow,5
+2008-06,Finntroll,1
+2008-06,Godsmack,15
+2008-06,Iced Earth,1
+2008-06,Mors Principium Est,2
+2008-06,Naglfar,0
+2008-06,Opeth,13
+2008-06,Porcupine Tree,4
+2008-06,Rage Against The Machine,4
+2008-06,Sentenced,0
+2008-06,Sonata Arctica,31
+2008-06,Tool,0
+2008-06,Turisas,1
+2008-07,Agathodaimon,0
+2008-07,Amon Amarth,14
+2008-07,Carcass,39
+2008-07,Dark Tranquillity,0
+2008-07,Dimmu Borgir,11
+2008-07,Dire Straits,0
+2008-07,Edge Of Sanity,2
+2008-07,Eternal Tears Of Sorrow,2
+2008-07,Finntroll,1
+2008-07,Godsmack,4
+2008-07,Iced Earth,2
+2008-07,Mors Principium Est,0
+2008-07,Naglfar,0
+2008-07,Opeth,2
+2008-07,Porcupine Tree,2
+2008-07,Rage Against The Machine,8
+2008-07,Sentenced,0
+2008-07,Sonata Arctica,35
+2008-07,Tool,0
+2008-07,Turisas,2
+2008-08,Agathodaimon,0
+2008-08,Amon Amarth,7
+2008-08,Carcass,18
+2008-08,Dark Tranquillity,0
+2008-08,Dimmu Borgir,3
+2008-08,Dire Straits,7
+2008-08,Edge Of Sanity,0
+2008-08,Eternal Tears Of Sorrow,0
+2008-08,Finntroll,12
+2008-08,Godsmack,10
+2008-08,Iced Earth,0
+2008-08,Mors Principium Est,0
+2008-08,Naglfar,1
+2008-08,Opeth,10
+2008-08,Porcupine Tree,2
+2008-08,Rage Against The Machine,7
+2008-08,Sentenced,0
+2008-08,Sonata Arctica,1
+2008-08,Tool,2
+2008-08,Turisas,4
+2008-09,Agathodaimon,3
+2008-09,Amon Amarth,2
+2008-09,Carcass,13
+2008-09,Dark Tranquillity,0
+2008-09,Dimmu Borgir,18
+2008-09,Dire Straits,5
+2008-09,Edge Of Sanity,0
+2008-09,Eternal Tears Of Sorrow,12
+2008-09,Finntroll,7
+2008-09,Godsmack,2
+2008-09,Iced Earth,1
+2008-09,Mors Principium Est,2
+2008-09,Naglfar,1
+2008-09,Opeth,8
+2008-09,Porcupine Tree,3
+2008-09,Rage Against The Machine,40
+2008-09,Sentenced,16
+2008-09,Sonata Arctica,1
+2008-09,Tool,1
+2008-09,Turisas,1
+2008-10,Agathodaimon,0
+2008-10,Amon Amarth,1
+2008-10,Carcass,18
+2008-10,Dark Tranquillity,139
+2008-10,Dimmu Borgir,0
+2008-10,Dire Straits,0
+2008-10,Edge Of Sanity,1
+2008-10,Eternal Tears Of Sorrow,0
+2008-10,Finntroll,0
+2008-10,Godsmack,0
+2008-10,Iced Earth,0
+2008-10,Mors Principium Est,1
+2008-10,Naglfar,0
+2008-10,Opeth,4
+2008-10,Porcupine Tree,23
+2008-10,Rage Against The Machine,0
+2008-10,Sentenced,9
+2008-10,Sonata Arctica,1
+2008-10,Tool,0
+2008-10,Turisas,0
+2008-11,Agathodaimon,0
+2008-11,Amon Amarth,6
+2008-11,Carcass,22
+2008-11,Dark Tranquillity,24
+2008-11,Dimmu Borgir,30
+2008-11,Dire Straits,4
+2008-11,Edge Of Sanity,0
+2008-11,Eternal Tears Of Sorrow,9
+2008-11,Finntroll,2
+2008-11,Godsmack,11
+2008-11,Iced Earth,1
+2008-11,Mors Principium Est,13
+2008-11,Naglfar,9
+2008-11,Opeth,4
+2008-11,Porcupine Tree,3
+2008-11,Rage Against The Machine,2
+2008-11,Sentenced,8
+2008-11,Sonata Arctica,12
+2008-11,Tool,5
+2008-11,Turisas,4
+2008-12,Agathodaimon,3
+2008-12,Amon Amarth,2
+2008-12,Carcass,0
+2008-12,Dark Tranquillity,55
+2008-12,Dimmu Borgir,2
+2008-12,Dire Straits,3
+2008-12,Edge Of Sanity,1
+2008-12,Eternal Tears Of Sorrow,0
+2008-12,Finntroll,2
+2008-12,Godsmack,16
+2008-12,Iced Earth,2
+2008-12,Mors Principium Est,4
+2008-12,Naglfar,27
+2008-12,Opeth,0
+2008-12,Porcupine Tree,3
+2008-12,Rage Against The Machine,0
+2008-12,Sentenced,16
+2008-12,Sonata Arctica,8
+2008-12,Tool,10
+2008-12,Turisas,3
+2009-01,Agathodaimon,0
+2009-01,Amon Amarth,0
+2009-01,Carcass,0
+2009-01,Dark Tranquillity,0
+2009-01,Dimmu Borgir,0
+2009-01,Dire Straits,0
+2009-01,Edge Of Sanity,0
+2009-01,Eternal Tears Of Sorrow,0
+2009-01,Finntroll,0
+2009-01,Godsmack,0
+2009-01,Iced Earth,0
+2009-01,Mors Principium Est,0
+2009-01,Naglfar,0
+2009-01,Opeth,0
+2009-01,Porcupine Tree,0
+2009-01,Rage Against The Machine,0
+2009-01,Sentenced,0
+2009-01,Sonata Arctica,0
+2009-01,Tool,0
+2009-01,Turisas,0
+2009-02,Agathodaimon,7
+2009-02,Amon Amarth,3
+2009-02,Carcass,21
+2009-02,Dark Tranquillity,22
+2009-02,Dimmu Borgir,2
+2009-02,Dire Straits,1
+2009-02,Edge Of Sanity,2
+2009-02,Eternal Tears Of Sorrow,0
+2009-02,Finntroll,0
+2009-02,Godsmack,6
+2009-02,Iced Earth,0
+2009-02,Mors Principium Est,0
+2009-02,Naglfar,9
+2009-02,Opeth,8
+2009-02,Porcupine Tree,0
+2009-02,Rage Against The Machine,16
+2009-02,Sentenced,0
+2009-02,Sonata Arctica,4
+2009-02,Tool,19
+2009-02,Turisas,0
+2009-03,Agathodaimon,0
+2009-03,Amon Amarth,1
+2009-03,Carcass,0
+2009-03,Dark Tranquillity,19
+2009-03,Dimmu Borgir,0
+2009-03,Dire Straits,1
+2009-03,Edge Of Sanity,1
+2009-03,Eternal Tears Of Sorrow,0
+2009-03,Finntroll,0
+2009-03,Godsmack,2
+2009-03,Iced Earth,0
+2009-03,Mors Principium Est,0
+2009-03,Naglfar,0
+2009-03,Opeth,10
+2009-03,Porcupine Tree,3
+2009-03,Rage Against The Machine,0
+2009-03,Sentenced,0
+2009-03,Sonata Arctica,1
+2009-03,Tool,0
+2009-03,Turisas,0
+2009-04,Agathodaimon,0
+2009-04,Amon Amarth,0
+2009-04,Carcass,12
+2009-04,Dark Tranquillity,11
+2009-04,Dimmu Borgir,10
+2009-04,Dire Straits,0
+2009-04,Edge Of Sanity,0
+2009-04,Eternal Tears Of Sorrow,0
+2009-04,Finntroll,0
+2009-04,Godsmack,1
+2009-04,Iced Earth,0
+2009-04,Mors Principium Est,0
+2009-04,Naglfar,0
+2009-04,Opeth,6
+2009-04,Porcupine Tree,0
+2009-04,Rage Against The Machine,31
+2009-04,Sentenced,1
+2009-04,Sonata Arctica,0
+2009-04,Tool,5
+2009-04,Turisas,0
+2009-05,Agathodaimon,0
+2009-05,Amon Amarth,0
+2009-05,Carcass,0
+2009-05,Dark Tranquillity,10
+2009-05,Dimmu Borgir,0
+2009-05,Dire Straits,0
+2009-05,Edge Of Sanity,0
+2009-05,Eternal Tears Of Sorrow,0
+2009-05,Finntroll,0
+2009-05,Godsmack,0
+2009-05,Iced Earth,0
+2009-05,Mors Principium Est,0
+2009-05,Naglfar,0
+2009-05,Opeth,0
+2009-05,Porcupine Tree,0
+2009-05,Rage Against The Machine,0
+2009-05,Sentenced,0
+2009-05,Sonata Arctica,9
+2009-05,Tool,5
+2009-05,Turisas,0
+2009-06,Agathodaimon,0
+2009-06,Amon Amarth,0
+2009-06,Carcass,0
+2009-06,Dark Tranquillity,0
+2009-06,Dimmu Borgir,0
+2009-06,Dire Straits,0
+2009-06,Edge Of Sanity,0
+2009-06,Eternal Tears Of Sorrow,0
+2009-06,Finntroll,0
+2009-06,Godsmack,0
+2009-06,Iced Earth,7
+2009-06,Mors Principium Est,0
+2009-06,Naglfar,0
+2009-06,Opeth,0
+2009-06,Porcupine Tree,0
+2009-06,Rage Against The Machine,0
+2009-06,Sentenced,20
+2009-06,Sonata Arctica,0
+2009-06,Tool,0
+2009-06,Turisas,0

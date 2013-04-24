@@ -1,0 +1,561 @@
+month,artist,plays
+2007-01,Aphex Twin,8
+2007-01,Björk,6
+2007-01,Boards Of Canada,2
+2007-01,David Bowie,1
+2007-01,Depeche Mode,30
+2007-01,Goldfrapp,9
+2007-01,Iggy Pop,1
+2007-01,King Tubby,2
+2007-01,Ladytron,12
+2007-01,M83,2
+2007-01,Marilyn Manson,0
+2007-01,Nat King Cole,6
+2007-01,Plaid,2
+2007-01,Röyksopp,1
+2007-01,Siouxsie And The Banshees,1
+2007-01,The Knife,7
+2007-01,The Presets,0
+2007-01,The Skatalites,0
+2007-01,Throbbing Gristle,6
+2007-01,Underworld,1
+2007-02,Aphex Twin,3
+2007-02,Björk,11
+2007-02,Boards Of Canada,2
+2007-02,David Bowie,1
+2007-02,Depeche Mode,2
+2007-02,Goldfrapp,0
+2007-02,Iggy Pop,0
+2007-02,King Tubby,0
+2007-02,Ladytron,0
+2007-02,M83,3
+2007-02,Marilyn Manson,2
+2007-02,Nat King Cole,0
+2007-02,Plaid,2
+2007-02,Röyksopp,1
+2007-02,Siouxsie And The Banshees,22
+2007-02,The Knife,26
+2007-02,The Presets,4
+2007-02,The Skatalites,1
+2007-02,Throbbing Gristle,1
+2007-02,Underworld,1
+2007-03,Aphex Twin,4
+2007-03,Björk,13
+2007-03,Boards Of Canada,18
+2007-03,David Bowie,5
+2007-03,Depeche Mode,24
+2007-03,Goldfrapp,11
+2007-03,Iggy Pop,2
+2007-03,King Tubby,1
+2007-03,Ladytron,32
+2007-03,M83,3
+2007-03,Marilyn Manson,3
+2007-03,Nat King Cole,3
+2007-03,Plaid,1
+2007-03,Röyksopp,1
+2007-03,Siouxsie And The Banshees,1
+2007-03,The Knife,23
+2007-03,The Presets,0
+2007-03,The Skatalites,2
+2007-03,Throbbing Gristle,20
+2007-03,Underworld,1
+2007-04,Aphex Twin,2
+2007-04,Björk,11
+2007-04,Boards Of Canada,1
+2007-04,David Bowie,2
+2007-04,Depeche Mode,4
+2007-04,Goldfrapp,2
+2007-04,Iggy Pop,1
+2007-04,King Tubby,2
+2007-04,Ladytron,8
+2007-04,M83,1
+2007-04,Marilyn Manson,1
+2007-04,Nat King Cole,2
+2007-04,Plaid,2
+2007-04,Röyksopp,0
+2007-04,Siouxsie And The Banshees,1
+2007-04,The Knife,36
+2007-04,The Presets,0
+2007-04,The Skatalites,2
+2007-04,Throbbing Gristle,2
+2007-04,Underworld,2
+2007-05,Aphex Twin,1
+2007-05,Björk,55
+2007-05,Boards Of Canada,5
+2007-05,David Bowie,14
+2007-05,Depeche Mode,8
+2007-05,Goldfrapp,5
+2007-05,Iggy Pop,3
+2007-05,King Tubby,1
+2007-05,Ladytron,5
+2007-05,M83,9
+2007-05,Marilyn Manson,5
+2007-05,Nat King Cole,3
+2007-05,Plaid,6
+2007-05,Röyksopp,2
+2007-05,Siouxsie And The Banshees,2
+2007-05,The Knife,6
+2007-05,The Presets,0
+2007-05,The Skatalites,1
+2007-05,Throbbing Gristle,3
+2007-05,Underworld,26
+2007-06,Aphex Twin,2
+2007-06,Björk,41
+2007-06,Boards Of Canada,1
+2007-06,David Bowie,1
+2007-06,Depeche Mode,40
+2007-06,Goldfrapp,1
+2007-06,Iggy Pop,1
+2007-06,King Tubby,104
+2007-06,Ladytron,1
+2007-06,M83,1
+2007-06,Marilyn Manson,0
+2007-06,Nat King Cole,2
+2007-06,Plaid,1
+2007-06,Röyksopp,0
+2007-06,Siouxsie And The Banshees,0
+2007-06,The Knife,2
+2007-06,The Presets,1
+2007-06,The Skatalites,0
+2007-06,Throbbing Gristle,17
+2007-06,Underworld,0
+2007-07,Aphex Twin,0
+2007-07,Björk,15
+2007-07,Boards Of Canada,1
+2007-07,David Bowie,0
+2007-07,Depeche Mode,1
+2007-07,Goldfrapp,1
+2007-07,Iggy Pop,0
+2007-07,King Tubby,68
+2007-07,Ladytron,1
+2007-07,M83,0
+2007-07,Marilyn Manson,1
+2007-07,Nat King Cole,104
+2007-07,Plaid,0
+2007-07,Röyksopp,1
+2007-07,Siouxsie And The Banshees,0
+2007-07,The Knife,26
+2007-07,The Presets,0
+2007-07,The Skatalites,0
+2007-07,Throbbing Gristle,0
+2007-07,Underworld,1
+2007-08,Aphex Twin,3
+2007-08,Björk,14
+2007-08,Boards Of Canada,3
+2007-08,David Bowie,2
+2007-08,Depeche Mode,5
+2007-08,Goldfrapp,2
+2007-08,Iggy Pop,3
+2007-08,King Tubby,4
+2007-08,Ladytron,5
+2007-08,M83,3
+2007-08,Marilyn Manson,1
+2007-08,Nat King Cole,9
+2007-08,Plaid,3
+2007-08,Röyksopp,3
+2007-08,Siouxsie And The Banshees,3
+2007-08,The Knife,23
+2007-08,The Presets,2
+2007-08,The Skatalites,2
+2007-08,Throbbing Gristle,3
+2007-08,Underworld,1
+2007-09,Aphex Twin,4
+2007-09,Björk,25
+2007-09,Boards Of Canada,3
+2007-09,David Bowie,0
+2007-09,Depeche Mode,15
+2007-09,Goldfrapp,1
+2007-09,Iggy Pop,1
+2007-09,King Tubby,2
+2007-09,Ladytron,2
+2007-09,M83,0
+2007-09,Marilyn Manson,1
+2007-09,Nat King Cole,2
+2007-09,Plaid,0
+2007-09,Röyksopp,2
+2007-09,Siouxsie And The Banshees,3
+2007-09,The Knife,2
+2007-09,The Presets,1
+2007-09,The Skatalites,2
+2007-09,Throbbing Gristle,0
+2007-09,Underworld,1
+2007-10,Aphex Twin,6
+2007-10,Björk,15
+2007-10,Boards Of Canada,5
+2007-10,David Bowie,6
+2007-10,Depeche Mode,26
+2007-10,Goldfrapp,5
+2007-10,Iggy Pop,5
+2007-10,King Tubby,2
+2007-10,Ladytron,3
+2007-10,M83,3
+2007-10,Marilyn Manson,1
+2007-10,Nat King Cole,1
+2007-10,Plaid,2
+2007-10,Röyksopp,6
+2007-10,Siouxsie And The Banshees,230
+2007-10,The Knife,26
+2007-10,The Presets,2
+2007-10,The Skatalites,7
+2007-10,Throbbing Gristle,1
+2007-10,Underworld,5
+2007-11,Aphex Twin,1
+2007-11,Björk,3
+2007-11,Boards Of Canada,2
+2007-11,David Bowie,6
+2007-11,Depeche Mode,38
+2007-11,Goldfrapp,7
+2007-11,Iggy Pop,2
+2007-11,King Tubby,1
+2007-11,Ladytron,4
+2007-11,M83,0
+2007-11,Marilyn Manson,2
+2007-11,Nat King Cole,1
+2007-11,Plaid,2
+2007-11,Röyksopp,3
+2007-11,Siouxsie And The Banshees,28
+2007-11,The Knife,36
+2007-11,The Presets,1
+2007-11,The Skatalites,7
+2007-11,Throbbing Gristle,0
+2007-11,Underworld,0
+2007-12,Aphex Twin,3
+2007-12,Björk,4
+2007-12,Boards Of Canada,1
+2007-12,David Bowie,3
+2007-12,Depeche Mode,3
+2007-12,Goldfrapp,2
+2007-12,Iggy Pop,2
+2007-12,King Tubby,2
+2007-12,Ladytron,3
+2007-12,M83,2
+2007-12,Marilyn Manson,2
+2007-12,Nat King Cole,2
+2007-12,Plaid,3
+2007-12,Röyksopp,3
+2007-12,Siouxsie And The Banshees,12
+2007-12,The Knife,3
+2007-12,The Presets,2
+2007-12,The Skatalites,4
+2007-12,Throbbing Gristle,0
+2007-12,Underworld,0
+2008-01,Aphex Twin,1
+2008-01,Björk,2
+2008-01,Boards Of Canada,0
+2008-01,David Bowie,0
+2008-01,Depeche Mode,5
+2008-01,Goldfrapp,2
+2008-01,Iggy Pop,3
+2008-01,King Tubby,15
+2008-01,Ladytron,1
+2008-01,M83,1
+2008-01,Marilyn Manson,2
+2008-01,Nat King Cole,0
+2008-01,Plaid,9
+2008-01,Röyksopp,19
+2008-01,Siouxsie And The Banshees,21
+2008-01,The Knife,97
+2008-01,The Presets,1
+2008-01,The Skatalites,7
+2008-01,Throbbing Gristle,1
+2008-01,Underworld,2
+2008-02,Aphex Twin,2
+2008-02,Björk,9
+2008-02,Boards Of Canada,3
+2008-02,David Bowie,0
+2008-02,Depeche Mode,2
+2008-02,Goldfrapp,10
+2008-02,Iggy Pop,4
+2008-02,King Tubby,0
+2008-02,Ladytron,2
+2008-02,M83,2
+2008-02,Marilyn Manson,1
+2008-02,Nat King Cole,2
+2008-02,Plaid,12
+2008-02,Röyksopp,6
+2008-02,Siouxsie And The Banshees,3
+2008-02,The Knife,2
+2008-02,The Presets,5
+2008-02,The Skatalites,1
+2008-02,Throbbing Gristle,0
+2008-02,Underworld,1
+2008-03,Aphex Twin,0
+2008-03,Björk,9
+2008-03,Boards Of Canada,1
+2008-03,David Bowie,1
+2008-03,Depeche Mode,0
+2008-03,Goldfrapp,49
+2008-03,Iggy Pop,3
+2008-03,King Tubby,1
+2008-03,Ladytron,1
+2008-03,M83,0
+2008-03,Marilyn Manson,0
+2008-03,Nat King Cole,2
+2008-03,Plaid,6
+2008-03,Röyksopp,3
+2008-03,Siouxsie And The Banshees,3
+2008-03,The Knife,8
+2008-03,The Presets,11
+2008-03,The Skatalites,2
+2008-03,Throbbing Gristle,1
+2008-03,Underworld,2
+2008-04,Aphex Twin,0
+2008-04,Björk,0
+2008-04,Boards Of Canada,1
+2008-04,David Bowie,3
+2008-04,Depeche Mode,0
+2008-04,Goldfrapp,0
+2008-04,Iggy Pop,2
+2008-04,King Tubby,0
+2008-04,Ladytron,1
+2008-04,M83,0
+2008-04,Marilyn Manson,3
+2008-04,Nat King Cole,6
+2008-04,Plaid,5
+2008-04,Röyksopp,2
+2008-04,Siouxsie And The Banshees,2
+2008-04,The Knife,3
+2008-04,The Presets,21
+2008-04,The Skatalites,0
+2008-04,Throbbing Gristle,0
+2008-04,Underworld,1
+2008-05,Aphex Twin,3
+2008-05,Björk,1
+2008-05,Boards Of Canada,0
+2008-05,David Bowie,2
+2008-05,Depeche Mode,1
+2008-05,Goldfrapp,6
+2008-05,Iggy Pop,6
+2008-05,King Tubby,1
+2008-05,Ladytron,31
+2008-05,M83,1
+2008-05,Marilyn Manson,1
+2008-05,Nat King Cole,1
+2008-05,Plaid,4
+2008-05,Röyksopp,1
+2008-05,Siouxsie And The Banshees,40
+2008-05,The Knife,2
+2008-05,The Presets,6
+2008-05,The Skatalites,1
+2008-05,Throbbing Gristle,1
+2008-05,Underworld,4
+2008-06,Aphex Twin,1
+2008-06,Björk,4
+2008-06,Boards Of Canada,1
+2008-06,David Bowie,3
+2008-06,Depeche Mode,1
+2008-06,Goldfrapp,4
+2008-06,Iggy Pop,5
+2008-06,King Tubby,2
+2008-06,Ladytron,2
+2008-06,M83,3
+2008-06,Marilyn Manson,3
+2008-06,Nat King Cole,2
+2008-06,Plaid,0
+2008-06,Röyksopp,1
+2008-06,Siouxsie And The Banshees,2
+2008-06,The Knife,1
+2008-06,The Presets,8
+2008-06,The Skatalites,2
+2008-06,Throbbing Gristle,2
+2008-06,Underworld,2
+2008-07,Aphex Twin,3
+2008-07,Björk,6
+2008-07,Boards Of Canada,4
+2008-07,David Bowie,3
+2008-07,Depeche Mode,5
+2008-07,Goldfrapp,4
+2008-07,Iggy Pop,2
+2008-07,King Tubby,3
+2008-07,Ladytron,4
+2008-07,M83,24
+2008-07,Marilyn Manson,2
+2008-07,Nat King Cole,1
+2008-07,Plaid,6
+2008-07,Röyksopp,3
+2008-07,Siouxsie And The Banshees,6
+2008-07,The Knife,7
+2008-07,The Presets,2
+2008-07,The Skatalites,1
+2008-07,Throbbing Gristle,5
+2008-07,Underworld,1
+2008-08,Aphex Twin,2
+2008-08,Björk,4
+2008-08,Boards Of Canada,4
+2008-08,David Bowie,0
+2008-08,Depeche Mode,7
+2008-08,Goldfrapp,15
+2008-08,Iggy Pop,1
+2008-08,King Tubby,2
+2008-08,Ladytron,7
+2008-08,M83,9
+2008-08,Marilyn Manson,2
+2008-08,Nat King Cole,2
+2008-08,Plaid,1
+2008-08,Röyksopp,3
+2008-08,Siouxsie And The Banshees,33
+2008-08,The Knife,12
+2008-08,The Presets,8
+2008-08,The Skatalites,0
+2008-08,Throbbing Gristle,1
+2008-08,Underworld,2
+2008-09,Aphex Twin,1
+2008-09,Björk,1
+2008-09,Boards Of Canada,0
+2008-09,David Bowie,0
+2008-09,Depeche Mode,11
+2008-09,Goldfrapp,3
+2008-09,Iggy Pop,0
+2008-09,King Tubby,10
+2008-09,Ladytron,3
+2008-09,M83,0
+2008-09,Marilyn Manson,0
+2008-09,Nat King Cole,0
+2008-09,Plaid,2
+2008-09,Röyksopp,2
+2008-09,Siouxsie And The Banshees,16
+2008-09,The Knife,2
+2008-09,The Presets,1
+2008-09,The Skatalites,1
+2008-09,Throbbing Gristle,1
+2008-09,Underworld,1
+2008-10,Aphex Twin,0
+2008-10,Björk,4
+2008-10,Boards Of Canada,2
+2008-10,David Bowie,1
+2008-10,Depeche Mode,12
+2008-10,Goldfrapp,0
+2008-10,Iggy Pop,0
+2008-10,King Tubby,36
+2008-10,Ladytron,1
+2008-10,M83,7
+2008-10,Marilyn Manson,2
+2008-10,Nat King Cole,0
+2008-10,Plaid,4
+2008-10,Röyksopp,3
+2008-10,Siouxsie And The Banshees,45
+2008-10,The Knife,1
+2008-10,The Presets,9
+2008-10,The Skatalites,10
+2008-10,Throbbing Gristle,1
+2008-10,Underworld,1
+2008-11,Aphex Twin,0
+2008-11,Björk,1
+2008-11,Boards Of Canada,0
+2008-11,David Bowie,2
+2008-11,Depeche Mode,0
+2008-11,Goldfrapp,3
+2008-11,Iggy Pop,0
+2008-11,King Tubby,6
+2008-11,Ladytron,0
+2008-11,M83,17
+2008-11,Marilyn Manson,0
+2008-11,Nat King Cole,0
+2008-11,Plaid,0
+2008-11,Röyksopp,1
+2008-11,Siouxsie And The Banshees,22
+2008-11,The Knife,0
+2008-11,The Presets,1
+2008-11,The Skatalites,0
+2008-11,Throbbing Gristle,2
+2008-11,Underworld,0
+2008-12,Aphex Twin,0
+2008-12,Björk,3
+2008-12,Boards Of Canada,0
+2008-12,David Bowie,1
+2008-12,Depeche Mode,1
+2008-12,Goldfrapp,2
+2008-12,Iggy Pop,0
+2008-12,King Tubby,23
+2008-12,Ladytron,0
+2008-12,M83,2
+2008-12,Marilyn Manson,1
+2008-12,Nat King Cole,1
+2008-12,Plaid,2
+2008-12,Röyksopp,0
+2008-12,Siouxsie And The Banshees,3
+2008-12,The Knife,1
+2008-12,The Presets,1
+2008-12,The Skatalites,3
+2008-12,Throbbing Gristle,1
+2008-12,Underworld,1
+2009-01,Aphex Twin,4
+2009-01,Björk,3
+2009-01,Boards Of Canada,3
+2009-01,David Bowie,0
+2009-01,Depeche Mode,5
+2009-01,Goldfrapp,0
+2009-01,Iggy Pop,4
+2009-01,King Tubby,23
+2009-01,Ladytron,3
+2009-01,M83,27
+2009-01,Marilyn Manson,0
+2009-01,Nat King Cole,1
+2009-01,Plaid,2
+2009-01,Röyksopp,0
+2009-01,Siouxsie And The Banshees,5
+2009-01,The Knife,7
+2009-01,The Presets,1
+2009-01,The Skatalites,1
+2009-01,Throbbing Gristle,6
+2009-01,Underworld,0
+2009-02,Aphex Twin,1
+2009-02,Björk,0
+2009-02,Boards Of Canada,1
+2009-02,David Bowie,19
+2009-02,Depeche Mode,3
+2009-02,Goldfrapp,6
+2009-02,Iggy Pop,3
+2009-02,King Tubby,1
+2009-02,Ladytron,1
+2009-02,M83,0
+2009-02,Marilyn Manson,0
+2009-02,Nat King Cole,0
+2009-02,Plaid,0
+2009-02,Röyksopp,1
+2009-02,Siouxsie And The Banshees,6
+2009-02,The Knife,4
+2009-02,The Presets,3
+2009-02,The Skatalites,1
+2009-02,Throbbing Gristle,1
+2009-02,Underworld,0
+2009-03,Aphex Twin,3
+2009-03,Björk,0
+2009-03,Boards Of Canada,0
+2009-03,David Bowie,9
+2009-03,Depeche Mode,11
+2009-03,Goldfrapp,0
+2009-03,Iggy Pop,0
+2009-03,King Tubby,2
+2009-03,Ladytron,1
+2009-03,M83,2
+2009-03,Marilyn Manson,1
+2009-03,Nat King Cole,30
+2009-03,Plaid,0
+2009-03,Röyksopp,17
+2009-03,Siouxsie And The Banshees,1
+2009-03,The Knife,2
+2009-03,The Presets,1
+2009-03,The Skatalites,1
+2009-03,Throbbing Gristle,0
+2009-03,Underworld,0
+2009-04,Aphex Twin,3
+2009-04,Björk,0
+2009-04,Boards Of Canada,0
+2009-04,David Bowie,2
+2009-04,Depeche Mode,50
+2009-04,Goldfrapp,2
+2009-04,Iggy Pop,6
+2009-04,King Tubby,21
+2009-04,Ladytron,3
+2009-04,M83,5
+2009-04,Marilyn Manson,1
+2009-04,Nat King Cole,11
+2009-04,Plaid,5
+2009-04,Röyksopp,76
+2009-04,Siouxsie And The Banshees,5
+2009-04,The Knife,1
+2009-04,The Presets,1
+2009-04,The Skatalites,3
+2009-04,Throbbing Gristle,16
+2009-04,Underworld,1

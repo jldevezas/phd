@@ -1,0 +1,401 @@
+month,artist,plays
+2007-09,Adam Green,5
+2007-09,Arctic Monkeys,4
+2007-09,Blondie,4
+2007-09,David Bowie,4
+2007-09,Devo,46
+2007-09,Elliott Smith,2
+2007-09,Good Shoes,11
+2007-09,Hot Hot Heat,4
+2007-09,Jay-Jay Johanson,2
+2007-09,Jonathan Richman,6
+2007-09,Leonard Cohen,3
+2007-09,Lou Reed,2
+2007-09,Nick Drake,2
+2007-09,Serge Gainsbourg,12
+2007-09,Sondre Lerche,2
+2007-09,Sonic Youth,2
+2007-09,The Long Blondes,56
+2007-09,The Strokes,4
+2007-09,The Velvet Underground,19
+2007-09,The Zombies,2
+2007-10,Adam Green,4
+2007-10,Arctic Monkeys,10
+2007-10,Blondie,12
+2007-10,David Bowie,21
+2007-10,Devo,10
+2007-10,Elliott Smith,15
+2007-10,Good Shoes,20
+2007-10,Hot Hot Heat,33
+2007-10,Jay-Jay Johanson,8
+2007-10,Jonathan Richman,11
+2007-10,Leonard Cohen,17
+2007-10,Lou Reed,4
+2007-10,Nick Drake,8
+2007-10,Serge Gainsbourg,7
+2007-10,Sondre Lerche,11
+2007-10,Sonic Youth,11
+2007-10,The Long Blondes,98
+2007-10,The Strokes,45
+2007-10,The Velvet Underground,46
+2007-10,The Zombies,9
+2007-11,Adam Green,13
+2007-11,Arctic Monkeys,12
+2007-11,Blondie,0
+2007-11,David Bowie,21
+2007-11,Devo,36
+2007-11,Elliott Smith,48
+2007-11,Good Shoes,27
+2007-11,Hot Hot Heat,6
+2007-11,Jay-Jay Johanson,13
+2007-11,Jonathan Richman,20
+2007-11,Leonard Cohen,2
+2007-11,Lou Reed,10
+2007-11,Nick Drake,201
+2007-11,Serge Gainsbourg,130
+2007-11,Sondre Lerche,10
+2007-11,Sonic Youth,2
+2007-11,The Long Blondes,420
+2007-11,The Strokes,16
+2007-11,The Velvet Underground,10
+2007-11,The Zombies,30
+2007-12,Adam Green,1
+2007-12,Arctic Monkeys,42
+2007-12,Blondie,6
+2007-12,David Bowie,22
+2007-12,Devo,34
+2007-12,Elliott Smith,50
+2007-12,Good Shoes,67
+2007-12,Hot Hot Heat,49
+2007-12,Jay-Jay Johanson,22
+2007-12,Jonathan Richman,34
+2007-12,Leonard Cohen,4
+2007-12,Lou Reed,2
+2007-12,Nick Drake,0
+2007-12,Serge Gainsbourg,42
+2007-12,Sondre Lerche,321
+2007-12,Sonic Youth,32
+2007-12,The Long Blondes,162
+2007-12,The Strokes,92
+2007-12,The Velvet Underground,0
+2007-12,The Zombies,12
+2008-01,Adam Green,5
+2008-01,Arctic Monkeys,7
+2008-01,Blondie,2
+2008-01,David Bowie,18
+2008-01,Devo,2
+2008-01,Elliott Smith,1
+2008-01,Good Shoes,2
+2008-01,Hot Hot Heat,2
+2008-01,Jay-Jay Johanson,0
+2008-01,Jonathan Richman,8
+2008-01,Leonard Cohen,0
+2008-01,Lou Reed,0
+2008-01,Nick Drake,5
+2008-01,Serge Gainsbourg,65
+2008-01,Sondre Lerche,282
+2008-01,Sonic Youth,31
+2008-01,The Long Blondes,92
+2008-01,The Strokes,19
+2008-01,The Velvet Underground,11
+2008-01,The Zombies,8
+2008-02,Adam Green,14
+2008-02,Arctic Monkeys,46
+2008-02,Blondie,4
+2008-02,David Bowie,26
+2008-02,Devo,34
+2008-02,Elliott Smith,12
+2008-02,Good Shoes,9
+2008-02,Hot Hot Heat,1
+2008-02,Jay-Jay Johanson,22
+2008-02,Jonathan Richman,63
+2008-02,Leonard Cohen,8
+2008-02,Lou Reed,10
+2008-02,Nick Drake,13
+2008-02,Serge Gainsbourg,48
+2008-02,Sondre Lerche,146
+2008-02,Sonic Youth,11
+2008-02,The Long Blondes,54
+2008-02,The Strokes,32
+2008-02,The Velvet Underground,21
+2008-02,The Zombies,20
+2008-03,Adam Green,16
+2008-03,Arctic Monkeys,23
+2008-03,Blondie,3
+2008-03,David Bowie,7
+2008-03,Devo,11
+2008-03,Elliott Smith,4
+2008-03,Good Shoes,54
+2008-03,Hot Hot Heat,5
+2008-03,Jay-Jay Johanson,6
+2008-03,Jonathan Richman,18
+2008-03,Leonard Cohen,4
+2008-03,Lou Reed,40
+2008-03,Nick Drake,6
+2008-03,Serge Gainsbourg,10
+2008-03,Sondre Lerche,96
+2008-03,Sonic Youth,7
+2008-03,The Long Blondes,497
+2008-03,The Strokes,3
+2008-03,The Velvet Underground,13
+2008-03,The Zombies,11
+2008-04,Adam Green,15
+2008-04,Arctic Monkeys,17
+2008-04,Blondie,3
+2008-04,David Bowie,14
+2008-04,Devo,5
+2008-04,Elliott Smith,4
+2008-04,Good Shoes,6
+2008-04,Hot Hot Heat,8
+2008-04,Jay-Jay Johanson,13
+2008-04,Jonathan Richman,22
+2008-04,Leonard Cohen,2
+2008-04,Lou Reed,6
+2008-04,Nick Drake,18
+2008-04,Serge Gainsbourg,5
+2008-04,Sondre Lerche,14
+2008-04,Sonic Youth,5
+2008-04,The Long Blondes,323
+2008-04,The Strokes,4
+2008-04,The Velvet Underground,7
+2008-04,The Zombies,9
+2008-05,Adam Green,83
+2008-05,Arctic Monkeys,67
+2008-05,Blondie,47
+2008-05,David Bowie,16
+2008-05,Devo,11
+2008-05,Elliott Smith,6
+2008-05,Good Shoes,2
+2008-05,Hot Hot Heat,2
+2008-05,Jay-Jay Johanson,15
+2008-05,Jonathan Richman,26
+2008-05,Leonard Cohen,1
+2008-05,Lou Reed,5
+2008-05,Nick Drake,3
+2008-05,Serge Gainsbourg,15
+2008-05,Sondre Lerche,3
+2008-05,Sonic Youth,11
+2008-05,The Long Blondes,48
+2008-05,The Strokes,4
+2008-05,The Velvet Underground,48
+2008-05,The Zombies,5
+2008-06,Adam Green,2
+2008-06,Arctic Monkeys,6
+2008-06,Blondie,2
+2008-06,David Bowie,4
+2008-06,Devo,2
+2008-06,Elliott Smith,2
+2008-06,Good Shoes,1
+2008-06,Hot Hot Heat,1
+2008-06,Jay-Jay Johanson,2
+2008-06,Jonathan Richman,3
+2008-06,Leonard Cohen,1
+2008-06,Lou Reed,1
+2008-06,Nick Drake,7
+2008-06,Serge Gainsbourg,4
+2008-06,Sondre Lerche,6
+2008-06,Sonic Youth,1
+2008-06,The Long Blondes,17
+2008-06,The Strokes,3
+2008-06,The Velvet Underground,3
+2008-06,The Zombies,0
+2008-07,Adam Green,2
+2008-07,Arctic Monkeys,10
+2008-07,Blondie,0
+2008-07,David Bowie,121
+2008-07,Devo,6
+2008-07,Elliott Smith,0
+2008-07,Good Shoes,100
+2008-07,Hot Hot Heat,0
+2008-07,Jay-Jay Johanson,4
+2008-07,Jonathan Richman,7
+2008-07,Leonard Cohen,0
+2008-07,Lou Reed,0
+2008-07,Nick Drake,2
+2008-07,Serge Gainsbourg,10
+2008-07,Sondre Lerche,5
+2008-07,Sonic Youth,2
+2008-07,The Long Blondes,213
+2008-07,The Strokes,2
+2008-07,The Velvet Underground,4
+2008-07,The Zombies,0
+2008-08,Adam Green,0
+2008-08,Arctic Monkeys,0
+2008-08,Blondie,0
+2008-08,David Bowie,0
+2008-08,Devo,0
+2008-08,Elliott Smith,0
+2008-08,Good Shoes,0
+2008-08,Hot Hot Heat,0
+2008-08,Jay-Jay Johanson,0
+2008-08,Jonathan Richman,0
+2008-08,Leonard Cohen,0
+2008-08,Lou Reed,0
+2008-08,Nick Drake,0
+2008-08,Serge Gainsbourg,0
+2008-08,Sondre Lerche,0
+2008-08,Sonic Youth,0
+2008-08,The Long Blondes,32
+2008-08,The Strokes,0
+2008-08,The Velvet Underground,0
+2008-08,The Zombies,0
+2008-09,Adam Green,0
+2008-09,Arctic Monkeys,0
+2008-09,Blondie,0
+2008-09,David Bowie,0
+2008-09,Devo,0
+2008-09,Elliott Smith,0
+2008-09,Good Shoes,0
+2008-09,Hot Hot Heat,0
+2008-09,Jay-Jay Johanson,0
+2008-09,Jonathan Richman,0
+2008-09,Leonard Cohen,0
+2008-09,Lou Reed,0
+2008-09,Nick Drake,0
+2008-09,Serge Gainsbourg,0
+2008-09,Sondre Lerche,0
+2008-09,Sonic Youth,0
+2008-09,The Long Blondes,0
+2008-09,The Strokes,10
+2008-09,The Velvet Underground,0
+2008-09,The Zombies,0
+2008-10,Adam Green,0
+2008-10,Arctic Monkeys,0
+2008-10,Blondie,0
+2008-10,David Bowie,0
+2008-10,Devo,0
+2008-10,Elliott Smith,0
+2008-10,Good Shoes,0
+2008-10,Hot Hot Heat,0
+2008-10,Jay-Jay Johanson,0
+2008-10,Jonathan Richman,0
+2008-10,Leonard Cohen,0
+2008-10,Lou Reed,0
+2008-10,Nick Drake,0
+2008-10,Serge Gainsbourg,0
+2008-10,Sondre Lerche,0
+2008-10,Sonic Youth,0
+2008-10,The Long Blondes,5
+2008-10,The Strokes,0
+2008-10,The Velvet Underground,0
+2008-10,The Zombies,0
+2008-11,Adam Green,2
+2008-11,Arctic Monkeys,0
+2008-11,Blondie,0
+2008-11,David Bowie,2
+2008-11,Devo,0
+2008-11,Elliott Smith,4
+2008-11,Good Shoes,0
+2008-11,Hot Hot Heat,0
+2008-11,Jay-Jay Johanson,1
+2008-11,Jonathan Richman,3
+2008-11,Leonard Cohen,0
+2008-11,Lou Reed,1
+2008-11,Nick Drake,0
+2008-11,Serge Gainsbourg,10
+2008-11,Sondre Lerche,0
+2008-11,Sonic Youth,0
+2008-11,The Long Blondes,25
+2008-11,The Strokes,0
+2008-11,The Velvet Underground,0
+2008-11,The Zombies,0
+2008-12,Adam Green,3
+2008-12,Arctic Monkeys,4
+2008-12,Blondie,2
+2008-12,David Bowie,4
+2008-12,Devo,5
+2008-12,Elliott Smith,11
+2008-12,Good Shoes,0
+2008-12,Hot Hot Heat,0
+2008-12,Jay-Jay Johanson,10
+2008-12,Jonathan Richman,18
+2008-12,Leonard Cohen,2
+2008-12,Lou Reed,2
+2008-12,Nick Drake,1
+2008-12,Serge Gainsbourg,2
+2008-12,Sondre Lerche,1
+2008-12,Sonic Youth,4
+2008-12,The Long Blondes,8
+2008-12,The Strokes,2
+2008-12,The Velvet Underground,4
+2008-12,The Zombies,1
+2009-01,Adam Green,2
+2009-01,Arctic Monkeys,1
+2009-01,Blondie,2
+2009-01,David Bowie,6
+2009-01,Devo,1
+2009-01,Elliott Smith,2
+2009-01,Good Shoes,1
+2009-01,Hot Hot Heat,2
+2009-01,Jay-Jay Johanson,6
+2009-01,Jonathan Richman,7
+2009-01,Leonard Cohen,5
+2009-01,Lou Reed,2
+2009-01,Nick Drake,2
+2009-01,Serge Gainsbourg,9
+2009-01,Sondre Lerche,3
+2009-01,Sonic Youth,0
+2009-01,The Long Blondes,18
+2009-01,The Strokes,5
+2009-01,The Velvet Underground,1
+2009-01,The Zombies,2
+2009-02,Adam Green,1
+2009-02,Arctic Monkeys,0
+2009-02,Blondie,2
+2009-02,David Bowie,4
+2009-02,Devo,3
+2009-02,Elliott Smith,1
+2009-02,Good Shoes,0
+2009-02,Hot Hot Heat,1
+2009-02,Jay-Jay Johanson,2
+2009-02,Jonathan Richman,26
+2009-02,Leonard Cohen,1
+2009-02,Lou Reed,1
+2009-02,Nick Drake,2
+2009-02,Serge Gainsbourg,7
+2009-02,Sondre Lerche,2
+2009-02,Sonic Youth,8
+2009-02,The Long Blondes,8
+2009-02,The Strokes,1
+2009-02,The Velvet Underground,3
+2009-02,The Zombies,1
+2009-03,Adam Green,2
+2009-03,Arctic Monkeys,8
+2009-03,Blondie,1
+2009-03,David Bowie,4
+2009-03,Devo,2
+2009-03,Elliott Smith,1
+2009-03,Good Shoes,29
+2009-03,Hot Hot Heat,4
+2009-03,Jay-Jay Johanson,17
+2009-03,Jonathan Richman,8
+2009-03,Leonard Cohen,1
+2009-03,Lou Reed,1
+2009-03,Nick Drake,3
+2009-03,Serge Gainsbourg,12
+2009-03,Sondre Lerche,32
+2009-03,Sonic Youth,0
+2009-03,The Long Blondes,28
+2009-03,The Strokes,1
+2009-03,The Velvet Underground,12
+2009-03,The Zombies,1
+2009-04,Adam Green,1
+2009-04,Arctic Monkeys,0
+2009-04,Blondie,0
+2009-04,David Bowie,1
+2009-04,Devo,0
+2009-04,Elliott Smith,1
+2009-04,Good Shoes,1
+2009-04,Hot Hot Heat,0
+2009-04,Jay-Jay Johanson,2
+2009-04,Jonathan Richman,2
+2009-04,Leonard Cohen,0
+2009-04,Lou Reed,0
+2009-04,Nick Drake,1
+2009-04,Serge Gainsbourg,0
+2009-04,Sondre Lerche,0
+2009-04,Sonic Youth,1
+2009-04,The Long Blondes,2
+2009-04,The Strokes,1
+2009-04,The Velvet Underground,1
+2009-04,The Zombies,2

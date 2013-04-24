@@ -1,0 +1,941 @@
+month,artist,plays
+2005-08,Amon Amarth,0
+2005-08,Amorphis,0
+2005-08,Bal-Sagoth,0
+2005-08,Blind Guardian,0
+2005-08,Carcass,5
+2005-08,Dimmu Borgir,0
+2005-08,Einherjer,4
+2005-08,Elio E Le Storie Tese,1
+2005-08,Ensiferum,0
+2005-08,Equilibrium,0
+2005-08,Falconer,0
+2005-08,Immortal,1
+2005-08,Korpiklaani,8
+2005-08,Litfiba,3
+2005-08,Manowar,0
+2005-08,Metallica,0
+2005-08,Mithotyn,0
+2005-08,Nile,4
+2005-08,Summoning,0
+2005-08,Wintersun,0
+2005-09,Amon Amarth,1
+2005-09,Amorphis,0
+2005-09,Bal-Sagoth,0
+2005-09,Blind Guardian,0
+2005-09,Carcass,1
+2005-09,Dimmu Borgir,4
+2005-09,Einherjer,2
+2005-09,Elio E Le Storie Tese,0
+2005-09,Ensiferum,0
+2005-09,Equilibrium,0
+2005-09,Falconer,0
+2005-09,Immortal,0
+2005-09,Korpiklaani,0
+2005-09,Litfiba,0
+2005-09,Manowar,4
+2005-09,Metallica,1
+2005-09,Mithotyn,0
+2005-09,Nile,26
+2005-09,Summoning,0
+2005-09,Wintersun,0
+2005-10,Amon Amarth,0
+2005-10,Amorphis,0
+2005-10,Bal-Sagoth,0
+2005-10,Blind Guardian,0
+2005-10,Carcass,3
+2005-10,Dimmu Borgir,15
+2005-10,Einherjer,2
+2005-10,Elio E Le Storie Tese,0
+2005-10,Ensiferum,0
+2005-10,Equilibrium,0
+2005-10,Falconer,0
+2005-10,Immortal,0
+2005-10,Korpiklaani,2
+2005-10,Litfiba,0
+2005-10,Manowar,0
+2005-10,Metallica,0
+2005-10,Mithotyn,7
+2005-10,Nile,5
+2005-10,Summoning,0
+2005-10,Wintersun,0
+2005-11,Amon Amarth,0
+2005-11,Amorphis,2
+2005-11,Bal-Sagoth,0
+2005-11,Blind Guardian,3
+2005-11,Carcass,26
+2005-11,Dimmu Borgir,10
+2005-11,Einherjer,1
+2005-11,Elio E Le Storie Tese,0
+2005-11,Ensiferum,0
+2005-11,Equilibrium,0
+2005-11,Falconer,0
+2005-11,Immortal,3
+2005-11,Korpiklaani,0
+2005-11,Litfiba,1
+2005-11,Manowar,0
+2005-11,Metallica,0
+2005-11,Mithotyn,16
+2005-11,Nile,1
+2005-11,Summoning,0
+2005-11,Wintersun,0
+2005-12,Amon Amarth,0
+2005-12,Amorphis,15
+2005-12,Bal-Sagoth,21
+2005-12,Blind Guardian,0
+2005-12,Carcass,1
+2005-12,Dimmu Borgir,4
+2005-12,Einherjer,0
+2005-12,Elio E Le Storie Tese,0
+2005-12,Ensiferum,0
+2005-12,Equilibrium,0
+2005-12,Falconer,0
+2005-12,Immortal,0
+2005-12,Korpiklaani,0
+2005-12,Litfiba,0
+2005-12,Manowar,0
+2005-12,Metallica,0
+2005-12,Mithotyn,1
+2005-12,Nile,0
+2005-12,Summoning,3
+2005-12,Wintersun,0
+2006-01,Amon Amarth,0
+2006-01,Amorphis,0
+2006-01,Bal-Sagoth,10
+2006-01,Blind Guardian,0
+2006-01,Carcass,3
+2006-01,Dimmu Borgir,0
+2006-01,Einherjer,3
+2006-01,Elio E Le Storie Tese,0
+2006-01,Ensiferum,3
+2006-01,Equilibrium,0
+2006-01,Falconer,0
+2006-01,Immortal,0
+2006-01,Korpiklaani,5
+2006-01,Litfiba,0
+2006-01,Manowar,0
+2006-01,Metallica,0
+2006-01,Mithotyn,8
+2006-01,Nile,10
+2006-01,Summoning,0
+2006-01,Wintersun,0
+2006-02,Amon Amarth,0
+2006-02,Amorphis,0
+2006-02,Bal-Sagoth,1
+2006-02,Blind Guardian,0
+2006-02,Carcass,0
+2006-02,Dimmu Borgir,4
+2006-02,Einherjer,0
+2006-02,Elio E Le Storie Tese,0
+2006-02,Ensiferum,24
+2006-02,Equilibrium,0
+2006-02,Falconer,0
+2006-02,Immortal,0
+2006-02,Korpiklaani,2
+2006-02,Litfiba,0
+2006-02,Manowar,0
+2006-02,Metallica,0
+2006-02,Mithotyn,0
+2006-02,Nile,1
+2006-02,Summoning,0
+2006-02,Wintersun,16
+2006-03,Amon Amarth,0
+2006-03,Amorphis,0
+2006-03,Bal-Sagoth,0
+2006-03,Blind Guardian,5
+2006-03,Carcass,0
+2006-03,Dimmu Borgir,2
+2006-03,Einherjer,0
+2006-03,Elio E Le Storie Tese,0
+2006-03,Ensiferum,0
+2006-03,Equilibrium,0
+2006-03,Falconer,0
+2006-03,Immortal,0
+2006-03,Korpiklaani,0
+2006-03,Litfiba,0
+2006-03,Manowar,0
+2006-03,Metallica,0
+2006-03,Mithotyn,0
+2006-03,Nile,0
+2006-03,Summoning,0
+2006-03,Wintersun,1
+2006-04,Amon Amarth,0
+2006-04,Amorphis,0
+2006-04,Bal-Sagoth,0
+2006-04,Blind Guardian,0
+2006-04,Carcass,5
+2006-04,Dimmu Borgir,5
+2006-04,Einherjer,1
+2006-04,Elio E Le Storie Tese,0
+2006-04,Ensiferum,0
+2006-04,Equilibrium,0
+2006-04,Falconer,0
+2006-04,Immortal,0
+2006-04,Korpiklaani,5
+2006-04,Litfiba,0
+2006-04,Manowar,0
+2006-04,Metallica,1
+2006-04,Mithotyn,0
+2006-04,Nile,0
+2006-04,Summoning,0
+2006-04,Wintersun,3
+2006-05,Amon Amarth,0
+2006-05,Amorphis,0
+2006-05,Bal-Sagoth,8
+2006-05,Blind Guardian,9
+2006-05,Carcass,1
+2006-05,Dimmu Borgir,39
+2006-05,Einherjer,2
+2006-05,Elio E Le Storie Tese,1
+2006-05,Ensiferum,6
+2006-05,Equilibrium,0
+2006-05,Falconer,0
+2006-05,Immortal,5
+2006-05,Korpiklaani,49
+2006-05,Litfiba,0
+2006-05,Manowar,1
+2006-05,Metallica,0
+2006-05,Mithotyn,6
+2006-05,Nile,10
+2006-05,Summoning,13
+2006-05,Wintersun,5
+2006-06,Amon Amarth,6
+2006-06,Amorphis,12
+2006-06,Bal-Sagoth,2
+2006-06,Blind Guardian,5
+2006-06,Carcass,1
+2006-06,Dimmu Borgir,1
+2006-06,Einherjer,3
+2006-06,Elio E Le Storie Tese,11
+2006-06,Ensiferum,7
+2006-06,Equilibrium,0
+2006-06,Falconer,0
+2006-06,Immortal,7
+2006-06,Korpiklaani,2
+2006-06,Litfiba,0
+2006-06,Manowar,0
+2006-06,Metallica,0
+2006-06,Mithotyn,3
+2006-06,Nile,17
+2006-06,Summoning,7
+2006-06,Wintersun,5
+2006-07,Amon Amarth,7
+2006-07,Amorphis,0
+2006-07,Bal-Sagoth,0
+2006-07,Blind Guardian,0
+2006-07,Carcass,0
+2006-07,Dimmu Borgir,0
+2006-07,Einherjer,1
+2006-07,Elio E Le Storie Tese,4
+2006-07,Ensiferum,0
+2006-07,Equilibrium,35
+2006-07,Falconer,0
+2006-07,Immortal,0
+2006-07,Korpiklaani,0
+2006-07,Litfiba,0
+2006-07,Manowar,0
+2006-07,Metallica,0
+2006-07,Mithotyn,0
+2006-07,Nile,0
+2006-07,Summoning,6
+2006-07,Wintersun,0
+2006-08,Amon Amarth,0
+2006-08,Amorphis,0
+2006-08,Bal-Sagoth,0
+2006-08,Blind Guardian,0
+2006-08,Carcass,1
+2006-08,Dimmu Borgir,0
+2006-08,Einherjer,0
+2006-08,Elio E Le Storie Tese,0
+2006-08,Ensiferum,4
+2006-08,Equilibrium,1
+2006-08,Falconer,0
+2006-08,Immortal,0
+2006-08,Korpiklaani,3
+2006-08,Litfiba,0
+2006-08,Manowar,0
+2006-08,Metallica,0
+2006-08,Mithotyn,0
+2006-08,Nile,1
+2006-08,Summoning,1
+2006-08,Wintersun,0
+2006-09,Amon Amarth,4
+2006-09,Amorphis,0
+2006-09,Bal-Sagoth,3
+2006-09,Blind Guardian,1
+2006-09,Carcass,1
+2006-09,Dimmu Borgir,0
+2006-09,Einherjer,21
+2006-09,Elio E Le Storie Tese,0
+2006-09,Ensiferum,1
+2006-09,Equilibrium,4
+2006-09,Falconer,0
+2006-09,Immortal,1
+2006-09,Korpiklaani,4
+2006-09,Litfiba,0
+2006-09,Manowar,0
+2006-09,Metallica,0
+2006-09,Mithotyn,1
+2006-09,Nile,2
+2006-09,Summoning,1
+2006-09,Wintersun,0
+2006-10,Amon Amarth,0
+2006-10,Amorphis,0
+2006-10,Bal-Sagoth,3
+2006-10,Blind Guardian,0
+2006-10,Carcass,0
+2006-10,Dimmu Borgir,1
+2006-10,Einherjer,2
+2006-10,Elio E Le Storie Tese,1
+2006-10,Ensiferum,0
+2006-10,Equilibrium,5
+2006-10,Falconer,5
+2006-10,Immortal,0
+2006-10,Korpiklaani,6
+2006-10,Litfiba,0
+2006-10,Manowar,11
+2006-10,Metallica,0
+2006-10,Mithotyn,11
+2006-10,Nile,0
+2006-10,Summoning,1
+2006-10,Wintersun,0
+2006-11,Amon Amarth,8
+2006-11,Amorphis,0
+2006-11,Bal-Sagoth,30
+2006-11,Blind Guardian,58
+2006-11,Carcass,0
+2006-11,Dimmu Borgir,0
+2006-11,Einherjer,0
+2006-11,Elio E Le Storie Tese,11
+2006-11,Ensiferum,0
+2006-11,Equilibrium,10
+2006-11,Falconer,92
+2006-11,Immortal,0
+2006-11,Korpiklaani,0
+2006-11,Litfiba,0
+2006-11,Manowar,3
+2006-11,Metallica,1
+2006-11,Mithotyn,25
+2006-11,Nile,0
+2006-11,Summoning,0
+2006-11,Wintersun,0
+2006-12,Amon Amarth,0
+2006-12,Amorphis,0
+2006-12,Bal-Sagoth,0
+2006-12,Blind Guardian,3
+2006-12,Carcass,0
+2006-12,Dimmu Borgir,0
+2006-12,Einherjer,1
+2006-12,Elio E Le Storie Tese,2
+2006-12,Ensiferum,1
+2006-12,Equilibrium,0
+2006-12,Falconer,9
+2006-12,Immortal,0
+2006-12,Korpiklaani,23
+2006-12,Litfiba,37
+2006-12,Manowar,0
+2006-12,Metallica,10
+2006-12,Mithotyn,1
+2006-12,Nile,0
+2006-12,Summoning,0
+2006-12,Wintersun,0
+2007-01,Amon Amarth,2
+2007-01,Amorphis,0
+2007-01,Bal-Sagoth,0
+2007-01,Blind Guardian,0
+2007-01,Carcass,0
+2007-01,Dimmu Borgir,0
+2007-01,Einherjer,31
+2007-01,Elio E Le Storie Tese,14
+2007-01,Ensiferum,5
+2007-01,Equilibrium,0
+2007-01,Falconer,15
+2007-01,Immortal,0
+2007-01,Korpiklaani,19
+2007-01,Litfiba,29
+2007-01,Manowar,17
+2007-01,Metallica,13
+2007-01,Mithotyn,14
+2007-01,Nile,0
+2007-01,Summoning,11
+2007-01,Wintersun,0
+2007-02,Amon Amarth,0
+2007-02,Amorphis,0
+2007-02,Bal-Sagoth,0
+2007-02,Blind Guardian,0
+2007-02,Carcass,0
+2007-02,Dimmu Borgir,0
+2007-02,Einherjer,10
+2007-02,Elio E Le Storie Tese,0
+2007-02,Ensiferum,20
+2007-02,Equilibrium,4
+2007-02,Falconer,0
+2007-02,Immortal,0
+2007-02,Korpiklaani,6
+2007-02,Litfiba,2
+2007-02,Manowar,1
+2007-02,Metallica,0
+2007-02,Mithotyn,7
+2007-02,Nile,0
+2007-02,Summoning,0
+2007-02,Wintersun,4
+2007-03,Amon Amarth,7
+2007-03,Amorphis,73
+2007-03,Bal-Sagoth,43
+2007-03,Blind Guardian,7
+2007-03,Carcass,0
+2007-03,Dimmu Borgir,7
+2007-03,Einherjer,0
+2007-03,Elio E Le Storie Tese,0
+2007-03,Ensiferum,7
+2007-03,Equilibrium,0
+2007-03,Falconer,2
+2007-03,Immortal,0
+2007-03,Korpiklaani,3
+2007-03,Litfiba,1
+2007-03,Manowar,20
+2007-03,Metallica,0
+2007-03,Mithotyn,0
+2007-03,Nile,0
+2007-03,Summoning,1
+2007-03,Wintersun,7
+2007-04,Amon Amarth,10
+2007-04,Amorphis,21
+2007-04,Bal-Sagoth,0
+2007-04,Blind Guardian,13
+2007-04,Carcass,0
+2007-04,Dimmu Borgir,10
+2007-04,Einherjer,2
+2007-04,Elio E Le Storie Tese,5
+2007-04,Ensiferum,22
+2007-04,Equilibrium,0
+2007-04,Falconer,9
+2007-04,Immortal,1
+2007-04,Korpiklaani,0
+2007-04,Litfiba,3
+2007-04,Manowar,0
+2007-04,Metallica,0
+2007-04,Mithotyn,36
+2007-04,Nile,0
+2007-04,Summoning,4
+2007-04,Wintersun,0
+2007-05,Amon Amarth,20
+2007-05,Amorphis,1
+2007-05,Bal-Sagoth,0
+2007-05,Blind Guardian,16
+2007-05,Carcass,0
+2007-05,Dimmu Borgir,14
+2007-05,Einherjer,12
+2007-05,Elio E Le Storie Tese,2
+2007-05,Ensiferum,12
+2007-05,Equilibrium,0
+2007-05,Falconer,3
+2007-05,Immortal,0
+2007-05,Korpiklaani,0
+2007-05,Litfiba,0
+2007-05,Manowar,4
+2007-05,Metallica,22
+2007-05,Mithotyn,6
+2007-05,Nile,0
+2007-05,Summoning,4
+2007-05,Wintersun,9
+2007-06,Amon Amarth,0
+2007-06,Amorphis,29
+2007-06,Bal-Sagoth,5
+2007-06,Blind Guardian,7
+2007-06,Carcass,0
+2007-06,Dimmu Borgir,0
+2007-06,Einherjer,0
+2007-06,Elio E Le Storie Tese,2
+2007-06,Ensiferum,3
+2007-06,Equilibrium,0
+2007-06,Falconer,0
+2007-06,Immortal,0
+2007-06,Korpiklaani,31
+2007-06,Litfiba,1
+2007-06,Manowar,0
+2007-06,Metallica,18
+2007-06,Mithotyn,1
+2007-06,Nile,9
+2007-06,Summoning,0
+2007-06,Wintersun,3
+2007-07,Amon Amarth,3
+2007-07,Amorphis,69
+2007-07,Bal-Sagoth,2
+2007-07,Blind Guardian,7
+2007-07,Carcass,2
+2007-07,Dimmu Borgir,0
+2007-07,Einherjer,34
+2007-07,Elio E Le Storie Tese,46
+2007-07,Ensiferum,0
+2007-07,Equilibrium,0
+2007-07,Falconer,26
+2007-07,Immortal,41
+2007-07,Korpiklaani,28
+2007-07,Litfiba,80
+2007-07,Manowar,2
+2007-07,Metallica,1
+2007-07,Mithotyn,30
+2007-07,Nile,11
+2007-07,Summoning,12
+2007-07,Wintersun,13
+2007-08,Amon Amarth,0
+2007-08,Amorphis,17
+2007-08,Bal-Sagoth,23
+2007-08,Blind Guardian,32
+2007-08,Carcass,0
+2007-08,Dimmu Borgir,1
+2007-08,Einherjer,14
+2007-08,Elio E Le Storie Tese,4
+2007-08,Ensiferum,1
+2007-08,Equilibrium,8
+2007-08,Falconer,2
+2007-08,Immortal,2
+2007-08,Korpiklaani,2
+2007-08,Litfiba,1
+2007-08,Manowar,10
+2007-08,Metallica,0
+2007-08,Mithotyn,24
+2007-08,Nile,4
+2007-08,Summoning,10
+2007-08,Wintersun,2
+2007-09,Amon Amarth,0
+2007-09,Amorphis,2
+2007-09,Bal-Sagoth,3
+2007-09,Blind Guardian,5
+2007-09,Carcass,6
+2007-09,Dimmu Borgir,5
+2007-09,Einherjer,3
+2007-09,Elio E Le Storie Tese,1
+2007-09,Ensiferum,9
+2007-09,Equilibrium,0
+2007-09,Falconer,11
+2007-09,Immortal,3
+2007-09,Korpiklaani,2
+2007-09,Litfiba,0
+2007-09,Manowar,2
+2007-09,Metallica,0
+2007-09,Mithotyn,5
+2007-09,Nile,0
+2007-09,Summoning,20
+2007-09,Wintersun,7
+2007-10,Amon Amarth,12
+2007-10,Amorphis,1
+2007-10,Bal-Sagoth,50
+2007-10,Blind Guardian,1
+2007-10,Carcass,1
+2007-10,Dimmu Borgir,30
+2007-10,Einherjer,1
+2007-10,Elio E Le Storie Tese,0
+2007-10,Ensiferum,6
+2007-10,Equilibrium,0
+2007-10,Falconer,0
+2007-10,Immortal,1
+2007-10,Korpiklaani,0
+2007-10,Litfiba,0
+2007-10,Manowar,0
+2007-10,Metallica,0
+2007-10,Mithotyn,0
+2007-10,Nile,0
+2007-10,Summoning,7
+2007-10,Wintersun,1
+2007-11,Amon Amarth,0
+2007-11,Amorphis,2
+2007-11,Bal-Sagoth,1
+2007-11,Blind Guardian,0
+2007-11,Carcass,1
+2007-11,Dimmu Borgir,3
+2007-11,Einherjer,5
+2007-11,Elio E Le Storie Tese,0
+2007-11,Ensiferum,0
+2007-11,Equilibrium,0
+2007-11,Falconer,3
+2007-11,Immortal,1
+2007-11,Korpiklaani,1
+2007-11,Litfiba,13
+2007-11,Manowar,5
+2007-11,Metallica,1
+2007-11,Mithotyn,1
+2007-11,Nile,16
+2007-11,Summoning,6
+2007-11,Wintersun,0
+2007-12,Amon Amarth,0
+2007-12,Amorphis,0
+2007-12,Bal-Sagoth,7
+2007-12,Blind Guardian,20
+2007-12,Carcass,0
+2007-12,Dimmu Borgir,0
+2007-12,Einherjer,0
+2007-12,Elio E Le Storie Tese,0
+2007-12,Ensiferum,0
+2007-12,Equilibrium,9
+2007-12,Falconer,0
+2007-12,Immortal,0
+2007-12,Korpiklaani,0
+2007-12,Litfiba,1
+2007-12,Manowar,2
+2007-12,Metallica,3
+2007-12,Mithotyn,2
+2007-12,Nile,0
+2007-12,Summoning,3
+2007-12,Wintersun,7
+2008-01,Amon Amarth,9
+2008-01,Amorphis,26
+2008-01,Bal-Sagoth,36
+2008-01,Blind Guardian,75
+2008-01,Carcass,2
+2008-01,Dimmu Borgir,0
+2008-01,Einherjer,27
+2008-01,Elio E Le Storie Tese,1
+2008-01,Ensiferum,0
+2008-01,Equilibrium,0
+2008-01,Falconer,0
+2008-01,Immortal,0
+2008-01,Korpiklaani,1
+2008-01,Litfiba,1
+2008-01,Manowar,2
+2008-01,Metallica,0
+2008-01,Mithotyn,0
+2008-01,Nile,0
+2008-01,Summoning,17
+2008-01,Wintersun,0
+2008-02,Amon Amarth,10
+2008-02,Amorphis,4
+2008-02,Bal-Sagoth,0
+2008-02,Blind Guardian,22
+2008-02,Carcass,0
+2008-02,Dimmu Borgir,0
+2008-02,Einherjer,0
+2008-02,Elio E Le Storie Tese,60
+2008-02,Ensiferum,0
+2008-02,Equilibrium,9
+2008-02,Falconer,0
+2008-02,Immortal,0
+2008-02,Korpiklaani,3
+2008-02,Litfiba,0
+2008-02,Manowar,23
+2008-02,Metallica,0
+2008-02,Mithotyn,0
+2008-02,Nile,4
+2008-02,Summoning,0
+2008-02,Wintersun,0
+2008-03,Amon Amarth,1
+2008-03,Amorphis,16
+2008-03,Bal-Sagoth,0
+2008-03,Blind Guardian,0
+2008-03,Carcass,0
+2008-03,Dimmu Borgir,0
+2008-03,Einherjer,4
+2008-03,Elio E Le Storie Tese,4
+2008-03,Ensiferum,48
+2008-03,Equilibrium,0
+2008-03,Falconer,0
+2008-03,Immortal,1
+2008-03,Korpiklaani,37
+2008-03,Litfiba,0
+2008-03,Manowar,0
+2008-03,Metallica,0
+2008-03,Mithotyn,0
+2008-03,Nile,0
+2008-03,Summoning,2
+2008-03,Wintersun,21
+2008-04,Amon Amarth,0
+2008-04,Amorphis,0
+2008-04,Bal-Sagoth,0
+2008-04,Blind Guardian,1
+2008-04,Carcass,0
+2008-04,Dimmu Borgir,0
+2008-04,Einherjer,0
+2008-04,Elio E Le Storie Tese,0
+2008-04,Ensiferum,10
+2008-04,Equilibrium,0
+2008-04,Falconer,35
+2008-04,Immortal,4
+2008-04,Korpiklaani,0
+2008-04,Litfiba,0
+2008-04,Manowar,1
+2008-04,Metallica,10
+2008-04,Mithotyn,0
+2008-04,Nile,0
+2008-04,Summoning,6
+2008-04,Wintersun,16
+2008-05,Amon Amarth,2
+2008-05,Amorphis,6
+2008-05,Bal-Sagoth,27
+2008-05,Blind Guardian,1
+2008-05,Carcass,1
+2008-05,Dimmu Borgir,0
+2008-05,Einherjer,5
+2008-05,Elio E Le Storie Tese,0
+2008-05,Ensiferum,2
+2008-05,Equilibrium,1
+2008-05,Falconer,0
+2008-05,Immortal,0
+2008-05,Korpiklaani,0
+2008-05,Litfiba,11
+2008-05,Manowar,37
+2008-05,Metallica,13
+2008-05,Mithotyn,19
+2008-05,Nile,3
+2008-05,Summoning,4
+2008-05,Wintersun,0
+2008-06,Amon Amarth,4
+2008-06,Amorphis,3
+2008-06,Bal-Sagoth,2
+2008-06,Blind Guardian,0
+2008-06,Carcass,2
+2008-06,Dimmu Borgir,0
+2008-06,Einherjer,21
+2008-06,Elio E Le Storie Tese,1
+2008-06,Ensiferum,1
+2008-06,Equilibrium,31
+2008-06,Falconer,0
+2008-06,Immortal,4
+2008-06,Korpiklaani,0
+2008-06,Litfiba,0
+2008-06,Manowar,0
+2008-06,Metallica,0
+2008-06,Mithotyn,15
+2008-06,Nile,0
+2008-06,Summoning,10
+2008-06,Wintersun,0
+2008-07,Amon Amarth,22
+2008-07,Amorphis,30
+2008-07,Bal-Sagoth,10
+2008-07,Blind Guardian,0
+2008-07,Carcass,0
+2008-07,Dimmu Borgir,1
+2008-07,Einherjer,1
+2008-07,Elio E Le Storie Tese,0
+2008-07,Ensiferum,2
+2008-07,Equilibrium,24
+2008-07,Falconer,0
+2008-07,Immortal,0
+2008-07,Korpiklaani,13
+2008-07,Litfiba,4
+2008-07,Manowar,0
+2008-07,Metallica,4
+2008-07,Mithotyn,2
+2008-07,Nile,3
+2008-07,Summoning,2
+2008-07,Wintersun,1
+2008-08,Amon Amarth,1
+2008-08,Amorphis,12
+2008-08,Bal-Sagoth,38
+2008-08,Blind Guardian,0
+2008-08,Carcass,0
+2008-08,Dimmu Borgir,15
+2008-08,Einherjer,2
+2008-08,Elio E Le Storie Tese,0
+2008-08,Ensiferum,0
+2008-08,Equilibrium,20
+2008-08,Falconer,1
+2008-08,Immortal,3
+2008-08,Korpiklaani,31
+2008-08,Litfiba,0
+2008-08,Manowar,0
+2008-08,Metallica,41
+2008-08,Mithotyn,0
+2008-08,Nile,0
+2008-08,Summoning,15
+2008-08,Wintersun,0
+2008-09,Amon Amarth,33
+2008-09,Amorphis,11
+2008-09,Bal-Sagoth,0
+2008-09,Blind Guardian,0
+2008-09,Carcass,0
+2008-09,Dimmu Borgir,0
+2008-09,Einherjer,8
+2008-09,Elio E Le Storie Tese,6
+2008-09,Ensiferum,0
+2008-09,Equilibrium,1
+2008-09,Falconer,0
+2008-09,Immortal,0
+2008-09,Korpiklaani,0
+2008-09,Litfiba,9
+2008-09,Manowar,5
+2008-09,Metallica,8
+2008-09,Mithotyn,0
+2008-09,Nile,14
+2008-09,Summoning,0
+2008-09,Wintersun,0
+2008-10,Amon Amarth,21
+2008-10,Amorphis,6
+2008-10,Bal-Sagoth,0
+2008-10,Blind Guardian,0
+2008-10,Carcass,0
+2008-10,Dimmu Borgir,0
+2008-10,Einherjer,0
+2008-10,Elio E Le Storie Tese,0
+2008-10,Ensiferum,0
+2008-10,Equilibrium,28
+2008-10,Falconer,70
+2008-10,Immortal,0
+2008-10,Korpiklaani,0
+2008-10,Litfiba,16
+2008-10,Manowar,0
+2008-10,Metallica,0
+2008-10,Mithotyn,34
+2008-10,Nile,0
+2008-10,Summoning,0
+2008-10,Wintersun,0
+2008-11,Amon Amarth,0
+2008-11,Amorphis,0
+2008-11,Bal-Sagoth,2
+2008-11,Blind Guardian,6
+2008-11,Carcass,0
+2008-11,Dimmu Borgir,3
+2008-11,Einherjer,2
+2008-11,Elio E Le Storie Tese,7
+2008-11,Ensiferum,0
+2008-11,Equilibrium,1
+2008-11,Falconer,14
+2008-11,Immortal,3
+2008-11,Korpiklaani,0
+2008-11,Litfiba,0
+2008-11,Manowar,0
+2008-11,Metallica,42
+2008-11,Mithotyn,0
+2008-11,Nile,2
+2008-11,Summoning,0
+2008-11,Wintersun,16
+2008-12,Amon Amarth,0
+2008-12,Amorphis,13
+2008-12,Bal-Sagoth,14
+2008-12,Blind Guardian,0
+2008-12,Carcass,0
+2008-12,Dimmu Borgir,0
+2008-12,Einherjer,0
+2008-12,Elio E Le Storie Tese,0
+2008-12,Ensiferum,0
+2008-12,Equilibrium,13
+2008-12,Falconer,0
+2008-12,Immortal,0
+2008-12,Korpiklaani,0
+2008-12,Litfiba,0
+2008-12,Manowar,0
+2008-12,Metallica,4
+2008-12,Mithotyn,0
+2008-12,Nile,3
+2008-12,Summoning,0
+2008-12,Wintersun,3
+2009-01,Amon Amarth,6
+2009-01,Amorphis,2
+2009-01,Bal-Sagoth,11
+2009-01,Blind Guardian,3
+2009-01,Carcass,0
+2009-01,Dimmu Borgir,0
+2009-01,Einherjer,16
+2009-01,Elio E Le Storie Tese,0
+2009-01,Ensiferum,0
+2009-01,Equilibrium,3
+2009-01,Falconer,3
+2009-01,Immortal,0
+2009-01,Korpiklaani,8
+2009-01,Litfiba,2
+2009-01,Manowar,2
+2009-01,Metallica,0
+2009-01,Mithotyn,0
+2009-01,Nile,0
+2009-01,Summoning,3
+2009-01,Wintersun,0
+2009-02,Amon Amarth,0
+2009-02,Amorphis,20
+2009-02,Bal-Sagoth,0
+2009-02,Blind Guardian,1
+2009-02,Carcass,36
+2009-02,Dimmu Borgir,0
+2009-02,Einherjer,4
+2009-02,Elio E Le Storie Tese,2
+2009-02,Ensiferum,0
+2009-02,Equilibrium,0
+2009-02,Falconer,9
+2009-02,Immortal,0
+2009-02,Korpiklaani,0
+2009-02,Litfiba,0
+2009-02,Manowar,0
+2009-02,Metallica,1
+2009-02,Mithotyn,6
+2009-02,Nile,0
+2009-02,Summoning,0
+2009-02,Wintersun,10
+2009-03,Amon Amarth,6
+2009-03,Amorphis,7
+2009-03,Bal-Sagoth,4
+2009-03,Blind Guardian,0
+2009-03,Carcass,42
+2009-03,Dimmu Borgir,13
+2009-03,Einherjer,0
+2009-03,Elio E Le Storie Tese,0
+2009-03,Ensiferum,22
+2009-03,Equilibrium,0
+2009-03,Falconer,1
+2009-03,Immortal,0
+2009-03,Korpiklaani,0
+2009-03,Litfiba,1
+2009-03,Manowar,2
+2009-03,Metallica,1
+2009-03,Mithotyn,0
+2009-03,Nile,0
+2009-03,Summoning,0
+2009-03,Wintersun,0
+2009-04,Amon Amarth,10
+2009-04,Amorphis,9
+2009-04,Bal-Sagoth,1
+2009-04,Blind Guardian,0
+2009-04,Carcass,0
+2009-04,Dimmu Borgir,68
+2009-04,Einherjer,3
+2009-04,Elio E Le Storie Tese,0
+2009-04,Ensiferum,10
+2009-04,Equilibrium,17
+2009-04,Falconer,35
+2009-04,Immortal,13
+2009-04,Korpiklaani,0
+2009-04,Litfiba,0
+2009-04,Manowar,1
+2009-04,Metallica,0
+2009-04,Mithotyn,0
+2009-04,Nile,0
+2009-04,Summoning,4
+2009-04,Wintersun,0
+2009-05,Amon Amarth,0
+2009-05,Amorphis,1
+2009-05,Bal-Sagoth,2
+2009-05,Blind Guardian,0
+2009-05,Carcass,0
+2009-05,Dimmu Borgir,0
+2009-05,Einherjer,65
+2009-05,Elio E Le Storie Tese,0
+2009-05,Ensiferum,0
+2009-05,Equilibrium,0
+2009-05,Falconer,4
+2009-05,Immortal,10
+2009-05,Korpiklaani,5
+2009-05,Litfiba,0
+2009-05,Manowar,33
+2009-05,Metallica,0
+2009-05,Mithotyn,0
+2009-05,Nile,63
+2009-05,Summoning,11
+2009-05,Wintersun,0
+2009-06,Amon Amarth,0
+2009-06,Amorphis,16
+2009-06,Bal-Sagoth,0
+2009-06,Blind Guardian,0
+2009-06,Carcass,0
+2009-06,Dimmu Borgir,0
+2009-06,Einherjer,2
+2009-06,Elio E Le Storie Tese,0
+2009-06,Ensiferum,0
+2009-06,Equilibrium,0
+2009-06,Falconer,0
+2009-06,Immortal,5
+2009-06,Korpiklaani,0
+2009-06,Litfiba,0
+2009-06,Manowar,6
+2009-06,Metallica,3
+2009-06,Mithotyn,0
+2009-06,Nile,0
+2009-06,Summoning,0
+2009-06,Wintersun,0

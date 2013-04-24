@@ -1,0 +1,721 @@
+month,artist,plays
+2006-05,30 Seconds To Mars,0
+2006-05,Anberlin,35
+2006-05,Angels & Airwaves,12
+2006-05,City Sleeps,6
+2006-05,Funeral For A Friend,2
+2006-05,Hawthorne Heights,1
+2006-05,Jimmy Eat World,52
+2006-05,Last Winter,22
+2006-05,Linkin Park,0
+2006-05,Lostprophets,2
+2006-05,Mae,26
+2006-05,Matchbook Romance,9
+2006-05,New Found Glory,0
+2006-05,Novice,0
+2006-05,Silverstein,15
+2006-05,Story Of The Year,26
+2006-05,Taking Back Sunday,30
+2006-05,The Red Jumpsuit Apparatus,0
+2006-05,Waking Ashland,28
+2006-05,Yellowcard,29
+2006-06,30 Seconds To Mars,0
+2006-06,Anberlin,38
+2006-06,Angels & Airwaves,6
+2006-06,City Sleeps,9
+2006-06,Funeral For A Friend,0
+2006-06,Hawthorne Heights,0
+2006-06,Jimmy Eat World,91
+2006-06,Last Winter,46
+2006-06,Linkin Park,0
+2006-06,Lostprophets,131
+2006-06,Mae,73
+2006-06,Matchbook Romance,1
+2006-06,New Found Glory,0
+2006-06,Novice,0
+2006-06,Silverstein,22
+2006-06,Story Of The Year,25
+2006-06,Taking Back Sunday,42
+2006-06,The Red Jumpsuit Apparatus,0
+2006-06,Waking Ashland,100
+2006-06,Yellowcard,35
+2006-07,30 Seconds To Mars,0
+2006-07,Anberlin,2
+2006-07,Angels & Airwaves,2
+2006-07,City Sleeps,6
+2006-07,Funeral For A Friend,0
+2006-07,Hawthorne Heights,0
+2006-07,Jimmy Eat World,43
+2006-07,Last Winter,29
+2006-07,Linkin Park,0
+2006-07,Lostprophets,56
+2006-07,Mae,25
+2006-07,Matchbook Romance,7
+2006-07,New Found Glory,0
+2006-07,Novice,0
+2006-07,Silverstein,5
+2006-07,Story Of The Year,2
+2006-07,Taking Back Sunday,8
+2006-07,The Red Jumpsuit Apparatus,0
+2006-07,Waking Ashland,80
+2006-07,Yellowcard,44
+2006-08,30 Seconds To Mars,0
+2006-08,Anberlin,21
+2006-08,Angels & Airwaves,13
+2006-08,City Sleeps,6
+2006-08,Funeral For A Friend,65
+2006-08,Hawthorne Heights,19
+2006-08,Jimmy Eat World,63
+2006-08,Last Winter,16
+2006-08,Linkin Park,1
+2006-08,Lostprophets,59
+2006-08,Mae,10
+2006-08,Matchbook Romance,9
+2006-08,New Found Glory,0
+2006-08,Novice,0
+2006-08,Silverstein,7
+2006-08,Story Of The Year,78
+2006-08,Taking Back Sunday,18
+2006-08,The Red Jumpsuit Apparatus,261
+2006-08,Waking Ashland,18
+2006-08,Yellowcard,45
+2006-09,30 Seconds To Mars,46
+2006-09,Anberlin,1
+2006-09,Angels & Airwaves,126
+2006-09,City Sleeps,15
+2006-09,Funeral For A Friend,30
+2006-09,Hawthorne Heights,65
+2006-09,Jimmy Eat World,28
+2006-09,Last Winter,10
+2006-09,Linkin Park,0
+2006-09,Lostprophets,31
+2006-09,Mae,1
+2006-09,Matchbook Romance,0
+2006-09,New Found Glory,56
+2006-09,Novice,0
+2006-09,Silverstein,1
+2006-09,Story Of The Year,10
+2006-09,Taking Back Sunday,65
+2006-09,The Red Jumpsuit Apparatus,24
+2006-09,Waking Ashland,27
+2006-09,Yellowcard,29
+2006-10,30 Seconds To Mars,7
+2006-10,Anberlin,0
+2006-10,Angels & Airwaves,16
+2006-10,City Sleeps,1
+2006-10,Funeral For A Friend,6
+2006-10,Hawthorne Heights,2
+2006-10,Jimmy Eat World,8
+2006-10,Last Winter,2
+2006-10,Linkin Park,0
+2006-10,Lostprophets,2
+2006-10,Mae,0
+2006-10,Matchbook Romance,1
+2006-10,New Found Glory,38
+2006-10,Novice,0
+2006-10,Silverstein,0
+2006-10,Story Of The Year,0
+2006-10,Taking Back Sunday,1
+2006-10,The Red Jumpsuit Apparatus,15
+2006-10,Waking Ashland,5
+2006-10,Yellowcard,14
+2006-11,30 Seconds To Mars,4
+2006-11,Anberlin,8
+2006-11,Angels & Airwaves,2
+2006-11,City Sleeps,4
+2006-11,Funeral For A Friend,3
+2006-11,Hawthorne Heights,16
+2006-11,Jimmy Eat World,14
+2006-11,Last Winter,2
+2006-11,Linkin Park,0
+2006-11,Lostprophets,39
+2006-11,Mae,2
+2006-11,Matchbook Romance,1
+2006-11,New Found Glory,37
+2006-11,Novice,30
+2006-11,Silverstein,1
+2006-11,Story Of The Year,16
+2006-11,Taking Back Sunday,21
+2006-11,The Red Jumpsuit Apparatus,4
+2006-11,Waking Ashland,1
+2006-11,Yellowcard,8
+2006-12,30 Seconds To Mars,33
+2006-12,Anberlin,33
+2006-12,Angels & Airwaves,18
+2006-12,City Sleeps,2
+2006-12,Funeral For A Friend,14
+2006-12,Hawthorne Heights,35
+2006-12,Jimmy Eat World,16
+2006-12,Last Winter,0
+2006-12,Linkin Park,12
+2006-12,Lostprophets,58
+2006-12,Mae,1
+2006-12,Matchbook Romance,0
+2006-12,New Found Glory,23
+2006-12,Novice,39
+2006-12,Silverstein,4
+2006-12,Story Of The Year,33
+2006-12,Taking Back Sunday,68
+2006-12,The Red Jumpsuit Apparatus,60
+2006-12,Waking Ashland,4
+2006-12,Yellowcard,12
+2007-01,30 Seconds To Mars,50
+2007-01,Anberlin,7
+2007-01,Angels & Airwaves,3
+2007-01,City Sleeps,8
+2007-01,Funeral For A Friend,4
+2007-01,Hawthorne Heights,62
+2007-01,Jimmy Eat World,9
+2007-01,Last Winter,6
+2007-01,Linkin Park,2
+2007-01,Lostprophets,34
+2007-01,Mae,0
+2007-01,Matchbook Romance,6
+2007-01,New Found Glory,24
+2007-01,Novice,89
+2007-01,Silverstein,5
+2007-01,Story Of The Year,28
+2007-01,Taking Back Sunday,48
+2007-01,The Red Jumpsuit Apparatus,7
+2007-01,Waking Ashland,10
+2007-01,Yellowcard,45
+2007-02,30 Seconds To Mars,28
+2007-02,Anberlin,126
+2007-02,Angels & Airwaves,26
+2007-02,City Sleeps,4
+2007-02,Funeral For A Friend,20
+2007-02,Hawthorne Heights,42
+2007-02,Jimmy Eat World,47
+2007-02,Last Winter,9
+2007-02,Linkin Park,61
+2007-02,Lostprophets,2
+2007-02,Mae,0
+2007-02,Matchbook Romance,2
+2007-02,New Found Glory,24
+2007-02,Novice,49
+2007-02,Silverstein,13
+2007-02,Story Of The Year,23
+2007-02,Taking Back Sunday,19
+2007-02,The Red Jumpsuit Apparatus,5
+2007-02,Waking Ashland,7
+2007-02,Yellowcard,8
+2007-03,30 Seconds To Mars,5
+2007-03,Anberlin,46
+2007-03,Angels & Airwaves,15
+2007-03,City Sleeps,1
+2007-03,Funeral For A Friend,10
+2007-03,Hawthorne Heights,10
+2007-03,Jimmy Eat World,9
+2007-03,Last Winter,5
+2007-03,Linkin Park,8
+2007-03,Lostprophets,0
+2007-03,Mae,4
+2007-03,Matchbook Romance,1
+2007-03,New Found Glory,4
+2007-03,Novice,32
+2007-03,Silverstein,1
+2007-03,Story Of The Year,11
+2007-03,Taking Back Sunday,16
+2007-03,The Red Jumpsuit Apparatus,8
+2007-03,Waking Ashland,2
+2007-03,Yellowcard,32
+2007-04,30 Seconds To Mars,3
+2007-04,Anberlin,52
+2007-04,Angels & Airwaves,4
+2007-04,City Sleeps,1
+2007-04,Funeral For A Friend,1
+2007-04,Hawthorne Heights,14
+2007-04,Jimmy Eat World,14
+2007-04,Last Winter,4
+2007-04,Linkin Park,1
+2007-04,Lostprophets,10
+2007-04,Mae,17
+2007-04,Matchbook Romance,29
+2007-04,New Found Glory,56
+2007-04,Novice,6
+2007-04,Silverstein,1
+2007-04,Story Of The Year,24
+2007-04,Taking Back Sunday,4
+2007-04,The Red Jumpsuit Apparatus,2
+2007-04,Waking Ashland,6
+2007-04,Yellowcard,17
+2007-05,30 Seconds To Mars,11
+2007-05,Anberlin,15
+2007-05,Angels & Airwaves,8
+2007-05,City Sleeps,3
+2007-05,Funeral For A Friend,110
+2007-05,Hawthorne Heights,2
+2007-05,Jimmy Eat World,10
+2007-05,Last Winter,22
+2007-05,Linkin Park,37
+2007-05,Lostprophets,31
+2007-05,Mae,17
+2007-05,Matchbook Romance,21
+2007-05,New Found Glory,20
+2007-05,Novice,4
+2007-05,Silverstein,0
+2007-05,Story Of The Year,10
+2007-05,Taking Back Sunday,31
+2007-05,The Red Jumpsuit Apparatus,0
+2007-05,Waking Ashland,42
+2007-05,Yellowcard,33
+2007-06,30 Seconds To Mars,15
+2007-06,Anberlin,15
+2007-06,Angels & Airwaves,19
+2007-06,City Sleeps,0
+2007-06,Funeral For A Friend,24
+2007-06,Hawthorne Heights,3
+2007-06,Jimmy Eat World,18
+2007-06,Last Winter,11
+2007-06,Linkin Park,16
+2007-06,Lostprophets,52
+2007-06,Mae,21
+2007-06,Matchbook Romance,3
+2007-06,New Found Glory,5
+2007-06,Novice,10
+2007-06,Silverstein,2
+2007-06,Story Of The Year,42
+2007-06,Taking Back Sunday,7
+2007-06,The Red Jumpsuit Apparatus,7
+2007-06,Waking Ashland,18
+2007-06,Yellowcard,14
+2007-07,30 Seconds To Mars,0
+2007-07,Anberlin,0
+2007-07,Angels & Airwaves,0
+2007-07,City Sleeps,0
+2007-07,Funeral For A Friend,29
+2007-07,Hawthorne Heights,4
+2007-07,Jimmy Eat World,7
+2007-07,Last Winter,1
+2007-07,Linkin Park,14
+2007-07,Lostprophets,14
+2007-07,Mae,5
+2007-07,Matchbook Romance,2
+2007-07,New Found Glory,1
+2007-07,Novice,16
+2007-07,Silverstein,9
+2007-07,Story Of The Year,27
+2007-07,Taking Back Sunday,11
+2007-07,The Red Jumpsuit Apparatus,1
+2007-07,Waking Ashland,2
+2007-07,Yellowcard,161
+2007-08,30 Seconds To Mars,5
+2007-08,Anberlin,40
+2007-08,Angels & Airwaves,15
+2007-08,City Sleeps,0
+2007-08,Funeral For A Friend,30
+2007-08,Hawthorne Heights,2
+2007-08,Jimmy Eat World,4
+2007-08,Last Winter,3
+2007-08,Linkin Park,6
+2007-08,Lostprophets,35
+2007-08,Mae,16
+2007-08,Matchbook Romance,2
+2007-08,New Found Glory,3
+2007-08,Novice,13
+2007-08,Silverstein,4
+2007-08,Story Of The Year,35
+2007-08,Taking Back Sunday,12
+2007-08,The Red Jumpsuit Apparatus,12
+2007-08,Waking Ashland,7
+2007-08,Yellowcard,67
+2007-09,30 Seconds To Mars,9
+2007-09,Anberlin,9
+2007-09,Angels & Airwaves,109
+2007-09,City Sleeps,5
+2007-09,Funeral For A Friend,22
+2007-09,Hawthorne Heights,3
+2007-09,Jimmy Eat World,32
+2007-09,Last Winter,5
+2007-09,Linkin Park,2
+2007-09,Lostprophets,11
+2007-09,Mae,8
+2007-09,Matchbook Romance,3
+2007-09,New Found Glory,6
+2007-09,Novice,17
+2007-09,Silverstein,1
+2007-09,Story Of The Year,16
+2007-09,Taking Back Sunday,3
+2007-09,The Red Jumpsuit Apparatus,1
+2007-09,Waking Ashland,15
+2007-09,Yellowcard,42
+2007-10,30 Seconds To Mars,14
+2007-10,Anberlin,63
+2007-10,Angels & Airwaves,103
+2007-10,City Sleeps,44
+2007-10,Funeral For A Friend,25
+2007-10,Hawthorne Heights,1
+2007-10,Jimmy Eat World,92
+2007-10,Last Winter,3
+2007-10,Linkin Park,1
+2007-10,Lostprophets,3
+2007-10,Mae,19
+2007-10,Matchbook Romance,4
+2007-10,New Found Glory,8
+2007-10,Novice,14
+2007-10,Silverstein,2
+2007-10,Story Of The Year,48
+2007-10,Taking Back Sunday,2
+2007-10,The Red Jumpsuit Apparatus,7
+2007-10,Waking Ashland,44
+2007-10,Yellowcard,92
+2007-11,30 Seconds To Mars,5
+2007-11,Anberlin,35
+2007-11,Angels & Airwaves,39
+2007-11,City Sleeps,2
+2007-11,Funeral For A Friend,16
+2007-11,Hawthorne Heights,0
+2007-11,Jimmy Eat World,21
+2007-11,Last Winter,0
+2007-11,Linkin Park,0
+2007-11,Lostprophets,25
+2007-11,Mae,5
+2007-11,Matchbook Romance,0
+2007-11,New Found Glory,1
+2007-11,Novice,50
+2007-11,Silverstein,0
+2007-11,Story Of The Year,17
+2007-11,Taking Back Sunday,20
+2007-11,The Red Jumpsuit Apparatus,2
+2007-11,Waking Ashland,1
+2007-11,Yellowcard,29
+2007-12,30 Seconds To Mars,1
+2007-12,Anberlin,9
+2007-12,Angels & Airwaves,1
+2007-12,City Sleeps,2
+2007-12,Funeral For A Friend,1
+2007-12,Hawthorne Heights,11
+2007-12,Jimmy Eat World,14
+2007-12,Last Winter,15
+2007-12,Linkin Park,6
+2007-12,Lostprophets,25
+2007-12,Mae,11
+2007-12,Matchbook Romance,24
+2007-12,New Found Glory,13
+2007-12,Novice,10
+2007-12,Silverstein,0
+2007-12,Story Of The Year,49
+2007-12,Taking Back Sunday,4
+2007-12,The Red Jumpsuit Apparatus,1
+2007-12,Waking Ashland,0
+2007-12,Yellowcard,25
+2008-01,30 Seconds To Mars,0
+2008-01,Anberlin,14
+2008-01,Angels & Airwaves,27
+2008-01,City Sleeps,15
+2008-01,Funeral For A Friend,19
+2008-01,Hawthorne Heights,3
+2008-01,Jimmy Eat World,13
+2008-01,Last Winter,6
+2008-01,Linkin Park,25
+2008-01,Lostprophets,6
+2008-01,Mae,10
+2008-01,Matchbook Romance,3
+2008-01,New Found Glory,3
+2008-01,Novice,2
+2008-01,Silverstein,6
+2008-01,Story Of The Year,17
+2008-01,Taking Back Sunday,11
+2008-01,The Red Jumpsuit Apparatus,3
+2008-01,Waking Ashland,2
+2008-01,Yellowcard,23
+2008-02,30 Seconds To Mars,1
+2008-02,Anberlin,3
+2008-02,Angels & Airwaves,7
+2008-02,City Sleeps,1
+2008-02,Funeral For A Friend,5
+2008-02,Hawthorne Heights,1
+2008-02,Jimmy Eat World,2
+2008-02,Last Winter,17
+2008-02,Linkin Park,1
+2008-02,Lostprophets,11
+2008-02,Mae,5
+2008-02,Matchbook Romance,0
+2008-02,New Found Glory,18
+2008-02,Novice,11
+2008-02,Silverstein,0
+2008-02,Story Of The Year,6
+2008-02,Taking Back Sunday,0
+2008-02,The Red Jumpsuit Apparatus,0
+2008-02,Waking Ashland,15
+2008-02,Yellowcard,3
+2008-03,30 Seconds To Mars,5
+2008-03,Anberlin,8
+2008-03,Angels & Airwaves,2
+2008-03,City Sleeps,1
+2008-03,Funeral For A Friend,14
+2008-03,Hawthorne Heights,1
+2008-03,Jimmy Eat World,6
+2008-03,Last Winter,2
+2008-03,Linkin Park,4
+2008-03,Lostprophets,4
+2008-03,Mae,3
+2008-03,Matchbook Romance,2
+2008-03,New Found Glory,1
+2008-03,Novice,20
+2008-03,Silverstein,1
+2008-03,Story Of The Year,34
+2008-03,Taking Back Sunday,1
+2008-03,The Red Jumpsuit Apparatus,1
+2008-03,Waking Ashland,1
+2008-03,Yellowcard,12
+2008-04,30 Seconds To Mars,0
+2008-04,Anberlin,0
+2008-04,Angels & Airwaves,0
+2008-04,City Sleeps,0
+2008-04,Funeral For A Friend,0
+2008-04,Hawthorne Heights,0
+2008-04,Jimmy Eat World,2
+2008-04,Last Winter,0
+2008-04,Linkin Park,1
+2008-04,Lostprophets,0
+2008-04,Mae,0
+2008-04,Matchbook Romance,0
+2008-04,New Found Glory,0
+2008-04,Novice,1
+2008-04,Silverstein,0
+2008-04,Story Of The Year,303
+2008-04,Taking Back Sunday,0
+2008-04,The Red Jumpsuit Apparatus,0
+2008-04,Waking Ashland,0
+2008-04,Yellowcard,1
+2008-05,30 Seconds To Mars,0
+2008-05,Anberlin,0
+2008-05,Angels & Airwaves,0
+2008-05,City Sleeps,0
+2008-05,Funeral For A Friend,0
+2008-05,Hawthorne Heights,0
+2008-05,Jimmy Eat World,0
+2008-05,Last Winter,0
+2008-05,Linkin Park,0
+2008-05,Lostprophets,0
+2008-05,Mae,0
+2008-05,Matchbook Romance,0
+2008-05,New Found Glory,0
+2008-05,Novice,1
+2008-05,Silverstein,0
+2008-05,Story Of The Year,22
+2008-05,Taking Back Sunday,0
+2008-05,The Red Jumpsuit Apparatus,0
+2008-05,Waking Ashland,0
+2008-05,Yellowcard,2
+2008-06,30 Seconds To Mars,0
+2008-06,Anberlin,2
+2008-06,Angels & Airwaves,0
+2008-06,City Sleeps,2
+2008-06,Funeral For A Friend,0
+2008-06,Hawthorne Heights,0
+2008-06,Jimmy Eat World,0
+2008-06,Last Winter,0
+2008-06,Linkin Park,0
+2008-06,Lostprophets,0
+2008-06,Mae,1
+2008-06,Matchbook Romance,0
+2008-06,New Found Glory,0
+2008-06,Novice,0
+2008-06,Silverstein,0
+2008-06,Story Of The Year,22
+2008-06,Taking Back Sunday,1
+2008-06,The Red Jumpsuit Apparatus,3
+2008-06,Waking Ashland,0
+2008-06,Yellowcard,4
+2008-07,30 Seconds To Mars,0
+2008-07,Anberlin,0
+2008-07,Angels & Airwaves,0
+2008-07,City Sleeps,0
+2008-07,Funeral For A Friend,0
+2008-07,Hawthorne Heights,0
+2008-07,Jimmy Eat World,0
+2008-07,Last Winter,1
+2008-07,Linkin Park,0
+2008-07,Lostprophets,8
+2008-07,Mae,0
+2008-07,Matchbook Romance,0
+2008-07,New Found Glory,0
+2008-07,Novice,3
+2008-07,Silverstein,0
+2008-07,Story Of The Year,10
+2008-07,Taking Back Sunday,0
+2008-07,The Red Jumpsuit Apparatus,0
+2008-07,Waking Ashland,0
+2008-07,Yellowcard,0
+2008-08,30 Seconds To Mars,0
+2008-08,Anberlin,3
+2008-08,Angels & Airwaves,0
+2008-08,City Sleeps,0
+2008-08,Funeral For A Friend,1
+2008-08,Hawthorne Heights,3
+2008-08,Jimmy Eat World,0
+2008-08,Last Winter,0
+2008-08,Linkin Park,0
+2008-08,Lostprophets,1
+2008-08,Mae,0
+2008-08,Matchbook Romance,0
+2008-08,New Found Glory,0
+2008-08,Novice,1
+2008-08,Silverstein,0
+2008-08,Story Of The Year,6
+2008-08,Taking Back Sunday,0
+2008-08,The Red Jumpsuit Apparatus,1
+2008-08,Waking Ashland,0
+2008-08,Yellowcard,0
+2008-09,30 Seconds To Mars,0
+2008-09,Anberlin,1
+2008-09,Angels & Airwaves,2
+2008-09,City Sleeps,1
+2008-09,Funeral For A Friend,2
+2008-09,Hawthorne Heights,0
+2008-09,Jimmy Eat World,0
+2008-09,Last Winter,1
+2008-09,Linkin Park,3
+2008-09,Lostprophets,1
+2008-09,Mae,4
+2008-09,Matchbook Romance,1
+2008-09,New Found Glory,0
+2008-09,Novice,2
+2008-09,Silverstein,0
+2008-09,Story Of The Year,6
+2008-09,Taking Back Sunday,1
+2008-09,The Red Jumpsuit Apparatus,1
+2008-09,Waking Ashland,0
+2008-09,Yellowcard,6
+2008-10,30 Seconds To Mars,0
+2008-10,Anberlin,0
+2008-10,Angels & Airwaves,0
+2008-10,City Sleeps,0
+2008-10,Funeral For A Friend,0
+2008-10,Hawthorne Heights,0
+2008-10,Jimmy Eat World,0
+2008-10,Last Winter,0
+2008-10,Linkin Park,6
+2008-10,Lostprophets,11
+2008-10,Mae,0
+2008-10,Matchbook Romance,0
+2008-10,New Found Glory,0
+2008-10,Novice,0
+2008-10,Silverstein,0
+2008-10,Story Of The Year,0
+2008-10,Taking Back Sunday,0
+2008-10,The Red Jumpsuit Apparatus,0
+2008-10,Waking Ashland,0
+2008-10,Yellowcard,0
+2008-11,30 Seconds To Mars,1
+2008-11,Anberlin,0
+2008-11,Angels & Airwaves,0
+2008-11,City Sleeps,0
+2008-11,Funeral For A Friend,0
+2008-11,Hawthorne Heights,0
+2008-11,Jimmy Eat World,7
+2008-11,Last Winter,0
+2008-11,Linkin Park,0
+2008-11,Lostprophets,0
+2008-11,Mae,0
+2008-11,Matchbook Romance,0
+2008-11,New Found Glory,0
+2008-11,Novice,1
+2008-11,Silverstein,0
+2008-11,Story Of The Year,2
+2008-11,Taking Back Sunday,0
+2008-11,The Red Jumpsuit Apparatus,0
+2008-11,Waking Ashland,0
+2008-11,Yellowcard,1
+2008-12,30 Seconds To Mars,0
+2008-12,Anberlin,0
+2008-12,Angels & Airwaves,0
+2008-12,City Sleeps,0
+2008-12,Funeral For A Friend,0
+2008-12,Hawthorne Heights,0
+2008-12,Jimmy Eat World,0
+2008-12,Last Winter,0
+2008-12,Linkin Park,0
+2008-12,Lostprophets,0
+2008-12,Mae,0
+2008-12,Matchbook Romance,0
+2008-12,New Found Glory,0
+2008-12,Novice,0
+2008-12,Silverstein,0
+2008-12,Story Of The Year,3
+2008-12,Taking Back Sunday,0
+2008-12,The Red Jumpsuit Apparatus,0
+2008-12,Waking Ashland,0
+2008-12,Yellowcard,0
+2009-01,30 Seconds To Mars,0
+2009-01,Anberlin,0
+2009-01,Angels & Airwaves,0
+2009-01,City Sleeps,0
+2009-01,Funeral For A Friend,0
+2009-01,Hawthorne Heights,0
+2009-01,Jimmy Eat World,0
+2009-01,Last Winter,0
+2009-01,Linkin Park,0
+2009-01,Lostprophets,0
+2009-01,Mae,0
+2009-01,Matchbook Romance,0
+2009-01,New Found Glory,0
+2009-01,Novice,0
+2009-01,Silverstein,0
+2009-01,Story Of The Year,17
+2009-01,Taking Back Sunday,0
+2009-01,The Red Jumpsuit Apparatus,0
+2009-01,Waking Ashland,0
+2009-01,Yellowcard,0
+2009-02,30 Seconds To Mars,0
+2009-02,Anberlin,0
+2009-02,Angels & Airwaves,0
+2009-02,City Sleeps,0
+2009-02,Funeral For A Friend,0
+2009-02,Hawthorne Heights,0
+2009-02,Jimmy Eat World,0
+2009-02,Last Winter,0
+2009-02,Linkin Park,0
+2009-02,Lostprophets,0
+2009-02,Mae,0
+2009-02,Matchbook Romance,0
+2009-02,New Found Glory,0
+2009-02,Novice,0
+2009-02,Silverstein,0
+2009-02,Story Of The Year,7
+2009-02,Taking Back Sunday,0
+2009-02,The Red Jumpsuit Apparatus,0
+2009-02,Waking Ashland,0
+2009-02,Yellowcard,0
+2009-03,30 Seconds To Mars,0
+2009-03,Anberlin,0
+2009-03,Angels & Airwaves,0
+2009-03,City Sleeps,0
+2009-03,Funeral For A Friend,0
+2009-03,Hawthorne Heights,0
+2009-03,Jimmy Eat World,0
+2009-03,Last Winter,0
+2009-03,Linkin Park,0
+2009-03,Lostprophets,0
+2009-03,Mae,0
+2009-03,Matchbook Romance,0
+2009-03,New Found Glory,0
+2009-03,Novice,0
+2009-03,Silverstein,0
+2009-03,Story Of The Year,0
+2009-03,Taking Back Sunday,0
+2009-03,The Red Jumpsuit Apparatus,0
+2009-03,Waking Ashland,0
+2009-03,Yellowcard,0
+2009-04,30 Seconds To Mars,0
+2009-04,Anberlin,0
+2009-04,Angels & Airwaves,0
+2009-04,City Sleeps,1
+2009-04,Funeral For A Friend,0
+2009-04,Hawthorne Heights,0
+2009-04,Jimmy Eat World,0
+2009-04,Last Winter,0
+2009-04,Linkin Park,0
+2009-04,Lostprophets,0
+2009-04,Mae,0
+2009-04,Matchbook Romance,0
+2009-04,New Found Glory,0
+2009-04,Novice,0
+2009-04,Silverstein,0
+2009-04,Story Of The Year,2
+2009-04,Taking Back Sunday,0
+2009-04,The Red Jumpsuit Apparatus,0
+2009-04,Waking Ashland,0
+2009-04,Yellowcard,1

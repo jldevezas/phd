@@ -1,0 +1,721 @@
+month,artist,plays
+2006-05,Air,95
+2006-05,Bonobo,0
+2006-05,Coldplay,1
+2006-05,Faithless,1
+2006-05,Feist,0
+2006-05,Fischerspooner,0
+2006-05,Hey,131
+2006-05,Husky Rescue,0
+2006-05,Kent,0
+2006-05,Lali Puna,0
+2006-05,Michael Jackson,0
+2006-05,My Morning Jacket,0
+2006-05,Myslovitz,14
+2006-05,Negatyw,0
+2006-05,Placebo,0
+2006-05,Röyksopp,198
+2006-05,Smolik,0
+2006-05,The Knife,1
+2006-05,The Pussycat Dolls,1
+2006-05,Thievery Corporation,0
+2006-06,Air,12
+2006-06,Bonobo,0
+2006-06,Coldplay,44
+2006-06,Faithless,1
+2006-06,Feist,0
+2006-06,Fischerspooner,0
+2006-06,Hey,20
+2006-06,Husky Rescue,0
+2006-06,Kent,0
+2006-06,Lali Puna,0
+2006-06,Michael Jackson,0
+2006-06,My Morning Jacket,0
+2006-06,Myslovitz,0
+2006-06,Negatyw,0
+2006-06,Placebo,0
+2006-06,Röyksopp,53
+2006-06,Smolik,0
+2006-06,The Knife,0
+2006-06,The Pussycat Dolls,1
+2006-06,Thievery Corporation,0
+2006-07,Air,0
+2006-07,Bonobo,0
+2006-07,Coldplay,19
+2006-07,Faithless,0
+2006-07,Feist,0
+2006-07,Fischerspooner,0
+2006-07,Hey,9
+2006-07,Husky Rescue,0
+2006-07,Kent,42
+2006-07,Lali Puna,0
+2006-07,Michael Jackson,0
+2006-07,My Morning Jacket,0
+2006-07,Myslovitz,0
+2006-07,Negatyw,0
+2006-07,Placebo,145
+2006-07,Röyksopp,0
+2006-07,Smolik,0
+2006-07,The Knife,0
+2006-07,The Pussycat Dolls,1
+2006-07,Thievery Corporation,0
+2006-08,Air,89
+2006-08,Bonobo,0
+2006-08,Coldplay,4
+2006-08,Faithless,0
+2006-08,Feist,0
+2006-08,Fischerspooner,0
+2006-08,Hey,0
+2006-08,Husky Rescue,9
+2006-08,Kent,0
+2006-08,Lali Puna,128
+2006-08,Michael Jackson,0
+2006-08,My Morning Jacket,105
+2006-08,Myslovitz,0
+2006-08,Negatyw,0
+2006-08,Placebo,0
+2006-08,Röyksopp,39
+2006-08,Smolik,0
+2006-08,The Knife,0
+2006-08,The Pussycat Dolls,0
+2006-08,Thievery Corporation,0
+2006-09,Air,0
+2006-09,Bonobo,0
+2006-09,Coldplay,46
+2006-09,Faithless,2
+2006-09,Feist,0
+2006-09,Fischerspooner,0
+2006-09,Hey,0
+2006-09,Husky Rescue,234
+2006-09,Kent,87
+2006-09,Lali Puna,377
+2006-09,Michael Jackson,0
+2006-09,My Morning Jacket,0
+2006-09,Myslovitz,0
+2006-09,Negatyw,0
+2006-09,Placebo,20
+2006-09,Röyksopp,0
+2006-09,Smolik,27
+2006-09,The Knife,0
+2006-09,The Pussycat Dolls,2
+2006-09,Thievery Corporation,1
+2006-10,Air,0
+2006-10,Bonobo,0
+2006-10,Coldplay,0
+2006-10,Faithless,1
+2006-10,Feist,0
+2006-10,Fischerspooner,0
+2006-10,Hey,28
+2006-10,Husky Rescue,0
+2006-10,Kent,4
+2006-10,Lali Puna,0
+2006-10,Michael Jackson,0
+2006-10,My Morning Jacket,0
+2006-10,Myslovitz,0
+2006-10,Negatyw,0
+2006-10,Placebo,3
+2006-10,Röyksopp,16
+2006-10,Smolik,6
+2006-10,The Knife,0
+2006-10,The Pussycat Dolls,0
+2006-10,Thievery Corporation,0
+2006-11,Air,0
+2006-11,Bonobo,151
+2006-11,Coldplay,0
+2006-11,Faithless,0
+2006-11,Feist,0
+2006-11,Fischerspooner,74
+2006-11,Hey,0
+2006-11,Husky Rescue,0
+2006-11,Kent,2
+2006-11,Lali Puna,21
+2006-11,Michael Jackson,3
+2006-11,My Morning Jacket,0
+2006-11,Myslovitz,0
+2006-11,Negatyw,0
+2006-11,Placebo,2
+2006-11,Röyksopp,0
+2006-11,Smolik,0
+2006-11,The Knife,0
+2006-11,The Pussycat Dolls,0
+2006-11,Thievery Corporation,13
+2006-12,Air,108
+2006-12,Bonobo,41
+2006-12,Coldplay,50
+2006-12,Faithless,7
+2006-12,Feist,0
+2006-12,Fischerspooner,12
+2006-12,Hey,26
+2006-12,Husky Rescue,13
+2006-12,Kent,21
+2006-12,Lali Puna,0
+2006-12,Michael Jackson,6
+2006-12,My Morning Jacket,0
+2006-12,Myslovitz,0
+2006-12,Negatyw,0
+2006-12,Placebo,14
+2006-12,Röyksopp,58
+2006-12,Smolik,0
+2006-12,The Knife,0
+2006-12,The Pussycat Dolls,2
+2006-12,Thievery Corporation,0
+2007-01,Air,0
+2007-01,Bonobo,28
+2007-01,Coldplay,0
+2007-01,Faithless,0
+2007-01,Feist,0
+2007-01,Fischerspooner,8
+2007-01,Hey,38
+2007-01,Husky Rescue,0
+2007-01,Kent,5
+2007-01,Lali Puna,16
+2007-01,Michael Jackson,10
+2007-01,My Morning Jacket,0
+2007-01,Myslovitz,14
+2007-01,Negatyw,132
+2007-01,Placebo,10
+2007-01,Röyksopp,11
+2007-01,Smolik,0
+2007-01,The Knife,0
+2007-01,The Pussycat Dolls,0
+2007-01,Thievery Corporation,71
+2007-02,Air,0
+2007-02,Bonobo,24
+2007-02,Coldplay,1
+2007-02,Faithless,106
+2007-02,Feist,0
+2007-02,Fischerspooner,116
+2007-02,Hey,2
+2007-02,Husky Rescue,5
+2007-02,Kent,1
+2007-02,Lali Puna,12
+2007-02,Michael Jackson,1
+2007-02,My Morning Jacket,11
+2007-02,Myslovitz,3
+2007-02,Negatyw,20
+2007-02,Placebo,3
+2007-02,Röyksopp,0
+2007-02,Smolik,0
+2007-02,The Knife,0
+2007-02,The Pussycat Dolls,0
+2007-02,Thievery Corporation,27
+2007-03,Air,0
+2007-03,Bonobo,4
+2007-03,Coldplay,2
+2007-03,Faithless,0
+2007-03,Feist,0
+2007-03,Fischerspooner,7
+2007-03,Hey,24
+2007-03,Husky Rescue,12
+2007-03,Kent,2
+2007-03,Lali Puna,0
+2007-03,Michael Jackson,2
+2007-03,My Morning Jacket,9
+2007-03,Myslovitz,0
+2007-03,Negatyw,2
+2007-03,Placebo,2
+2007-03,Röyksopp,0
+2007-03,Smolik,1
+2007-03,The Knife,0
+2007-03,The Pussycat Dolls,11
+2007-03,Thievery Corporation,0
+2007-04,Air,0
+2007-04,Bonobo,1
+2007-04,Coldplay,24
+2007-04,Faithless,7
+2007-04,Feist,15
+2007-04,Fischerspooner,0
+2007-04,Hey,0
+2007-04,Husky Rescue,0
+2007-04,Kent,0
+2007-04,Lali Puna,10
+2007-04,Michael Jackson,1
+2007-04,My Morning Jacket,0
+2007-04,Myslovitz,6
+2007-04,Negatyw,2
+2007-04,Placebo,0
+2007-04,Röyksopp,17
+2007-04,Smolik,1
+2007-04,The Knife,0
+2007-04,The Pussycat Dolls,2
+2007-04,Thievery Corporation,0
+2007-05,Air,0
+2007-05,Bonobo,0
+2007-05,Coldplay,3
+2007-05,Faithless,0
+2007-05,Feist,31
+2007-05,Fischerspooner,1
+2007-05,Hey,6
+2007-05,Husky Rescue,0
+2007-05,Kent,0
+2007-05,Lali Puna,0
+2007-05,Michael Jackson,0
+2007-05,My Morning Jacket,0
+2007-05,Myslovitz,259
+2007-05,Negatyw,0
+2007-05,Placebo,1
+2007-05,Röyksopp,7
+2007-05,Smolik,0
+2007-05,The Knife,0
+2007-05,The Pussycat Dolls,2
+2007-05,Thievery Corporation,10
+2007-06,Air,35
+2007-06,Bonobo,2
+2007-06,Coldplay,3
+2007-06,Faithless,6
+2007-06,Feist,12
+2007-06,Fischerspooner,12
+2007-06,Hey,0
+2007-06,Husky Rescue,0
+2007-06,Kent,0
+2007-06,Lali Puna,0
+2007-06,Michael Jackson,1
+2007-06,My Morning Jacket,1
+2007-06,Myslovitz,168
+2007-06,Negatyw,9
+2007-06,Placebo,0
+2007-06,Röyksopp,19
+2007-06,Smolik,0
+2007-06,The Knife,0
+2007-06,The Pussycat Dolls,0
+2007-06,Thievery Corporation,1
+2007-07,Air,0
+2007-07,Bonobo,1
+2007-07,Coldplay,0
+2007-07,Faithless,28
+2007-07,Feist,1
+2007-07,Fischerspooner,0
+2007-07,Hey,0
+2007-07,Husky Rescue,10
+2007-07,Kent,0
+2007-07,Lali Puna,0
+2007-07,Michael Jackson,4
+2007-07,My Morning Jacket,1
+2007-07,Myslovitz,12
+2007-07,Negatyw,0
+2007-07,Placebo,2
+2007-07,Röyksopp,0
+2007-07,Smolik,0
+2007-07,The Knife,0
+2007-07,The Pussycat Dolls,0
+2007-07,Thievery Corporation,0
+2007-08,Air,0
+2007-08,Bonobo,1
+2007-08,Coldplay,0
+2007-08,Faithless,0
+2007-08,Feist,0
+2007-08,Fischerspooner,0
+2007-08,Hey,0
+2007-08,Husky Rescue,0
+2007-08,Kent,0
+2007-08,Lali Puna,0
+2007-08,Michael Jackson,2
+2007-08,My Morning Jacket,0
+2007-08,Myslovitz,42
+2007-08,Negatyw,18
+2007-08,Placebo,0
+2007-08,Röyksopp,0
+2007-08,Smolik,0
+2007-08,The Knife,0
+2007-08,The Pussycat Dolls,0
+2007-08,Thievery Corporation,0
+2007-09,Air,8
+2007-09,Bonobo,0
+2007-09,Coldplay,0
+2007-09,Faithless,1
+2007-09,Feist,0
+2007-09,Fischerspooner,0
+2007-09,Hey,0
+2007-09,Husky Rescue,0
+2007-09,Kent,0
+2007-09,Lali Puna,0
+2007-09,Michael Jackson,0
+2007-09,My Morning Jacket,0
+2007-09,Myslovitz,25
+2007-09,Negatyw,1
+2007-09,Placebo,1
+2007-09,Röyksopp,0
+2007-09,Smolik,0
+2007-09,The Knife,0
+2007-09,The Pussycat Dolls,0
+2007-09,Thievery Corporation,3
+2007-10,Air,0
+2007-10,Bonobo,0
+2007-10,Coldplay,2
+2007-10,Faithless,2
+2007-10,Feist,53
+2007-10,Fischerspooner,9
+2007-10,Hey,0
+2007-10,Husky Rescue,8
+2007-10,Kent,4
+2007-10,Lali Puna,5
+2007-10,Michael Jackson,1
+2007-10,My Morning Jacket,0
+2007-10,Myslovitz,38
+2007-10,Negatyw,7
+2007-10,Placebo,13
+2007-10,Röyksopp,0
+2007-10,Smolik,0
+2007-10,The Knife,90
+2007-10,The Pussycat Dolls,6
+2007-10,Thievery Corporation,0
+2007-11,Air,0
+2007-11,Bonobo,14
+2007-11,Coldplay,13
+2007-11,Faithless,1
+2007-11,Feist,8
+2007-11,Fischerspooner,4
+2007-11,Hey,45
+2007-11,Husky Rescue,3
+2007-11,Kent,17
+2007-11,Lali Puna,20
+2007-11,Michael Jackson,1
+2007-11,My Morning Jacket,5
+2007-11,Myslovitz,36
+2007-11,Negatyw,19
+2007-11,Placebo,32
+2007-11,Röyksopp,26
+2007-11,Smolik,46
+2007-11,The Knife,161
+2007-11,The Pussycat Dolls,2
+2007-11,Thievery Corporation,0
+2007-12,Air,0
+2007-12,Bonobo,2
+2007-12,Coldplay,32
+2007-12,Faithless,2
+2007-12,Feist,6
+2007-12,Fischerspooner,14
+2007-12,Hey,98
+2007-12,Husky Rescue,9
+2007-12,Kent,10
+2007-12,Lali Puna,12
+2007-12,Michael Jackson,3
+2007-12,My Morning Jacket,11
+2007-12,Myslovitz,34
+2007-12,Negatyw,15
+2007-12,Placebo,10
+2007-12,Röyksopp,22
+2007-12,Smolik,29
+2007-12,The Knife,38
+2007-12,The Pussycat Dolls,3
+2007-12,Thievery Corporation,8
+2008-01,Air,0
+2008-01,Bonobo,0
+2008-01,Coldplay,2
+2008-01,Faithless,1
+2008-01,Feist,4
+2008-01,Fischerspooner,3
+2008-01,Hey,34
+2008-01,Husky Rescue,1
+2008-01,Kent,0
+2008-01,Lali Puna,1
+2008-01,Michael Jackson,0
+2008-01,My Morning Jacket,2
+2008-01,Myslovitz,10
+2008-01,Negatyw,3
+2008-01,Placebo,8
+2008-01,Röyksopp,5
+2008-01,Smolik,3
+2008-01,The Knife,4
+2008-01,The Pussycat Dolls,0
+2008-01,Thievery Corporation,1
+2008-02,Air,0
+2008-02,Bonobo,0
+2008-02,Coldplay,6
+2008-02,Faithless,0
+2008-02,Feist,6
+2008-02,Fischerspooner,7
+2008-02,Hey,44
+2008-02,Husky Rescue,5
+2008-02,Kent,2
+2008-02,Lali Puna,3
+2008-02,Michael Jackson,1
+2008-02,My Morning Jacket,4
+2008-02,Myslovitz,25
+2008-02,Negatyw,4
+2008-02,Placebo,4
+2008-02,Röyksopp,10
+2008-02,Smolik,6
+2008-02,The Knife,9
+2008-02,The Pussycat Dolls,0
+2008-02,Thievery Corporation,5
+2008-03,Air,17
+2008-03,Bonobo,0
+2008-03,Coldplay,0
+2008-03,Faithless,0
+2008-03,Feist,14
+2008-03,Fischerspooner,0
+2008-03,Hey,9
+2008-03,Husky Rescue,0
+2008-03,Kent,1
+2008-03,Lali Puna,0
+2008-03,Michael Jackson,0
+2008-03,My Morning Jacket,5
+2008-03,Myslovitz,23
+2008-03,Negatyw,1
+2008-03,Placebo,0
+2008-03,Röyksopp,0
+2008-03,Smolik,1
+2008-03,The Knife,0
+2008-03,The Pussycat Dolls,1
+2008-03,Thievery Corporation,0
+2008-04,Air,0
+2008-04,Bonobo,0
+2008-04,Coldplay,1
+2008-04,Faithless,0
+2008-04,Feist,0
+2008-04,Fischerspooner,0
+2008-04,Hey,9
+2008-04,Husky Rescue,0
+2008-04,Kent,0
+2008-04,Lali Puna,11
+2008-04,Michael Jackson,0
+2008-04,My Morning Jacket,1
+2008-04,Myslovitz,18
+2008-04,Negatyw,8
+2008-04,Placebo,7
+2008-04,Röyksopp,0
+2008-04,Smolik,13
+2008-04,The Knife,9
+2008-04,The Pussycat Dolls,1
+2008-04,Thievery Corporation,47
+2008-05,Air,0
+2008-05,Bonobo,0
+2008-05,Coldplay,3
+2008-05,Faithless,0
+2008-05,Feist,1
+2008-05,Fischerspooner,3
+2008-05,Hey,4
+2008-05,Husky Rescue,0
+2008-05,Kent,1
+2008-05,Lali Puna,0
+2008-05,Michael Jackson,0
+2008-05,My Morning Jacket,2
+2008-05,Myslovitz,0
+2008-05,Negatyw,0
+2008-05,Placebo,2
+2008-05,Röyksopp,1
+2008-05,Smolik,2
+2008-05,The Knife,0
+2008-05,The Pussycat Dolls,0
+2008-05,Thievery Corporation,0
+2008-06,Air,5
+2008-06,Bonobo,0
+2008-06,Coldplay,1
+2008-06,Faithless,0
+2008-06,Feist,1
+2008-06,Fischerspooner,0
+2008-06,Hey,6
+2008-06,Husky Rescue,5
+2008-06,Kent,1
+2008-06,Lali Puna,0
+2008-06,Michael Jackson,0
+2008-06,My Morning Jacket,2
+2008-06,Myslovitz,1
+2008-06,Negatyw,2
+2008-06,Placebo,30
+2008-06,Röyksopp,3
+2008-06,Smolik,0
+2008-06,The Knife,1
+2008-06,The Pussycat Dolls,1
+2008-06,Thievery Corporation,0
+2008-07,Air,1
+2008-07,Bonobo,0
+2008-07,Coldplay,0
+2008-07,Faithless,0
+2008-07,Feist,0
+2008-07,Fischerspooner,0
+2008-07,Hey,0
+2008-07,Husky Rescue,0
+2008-07,Kent,0
+2008-07,Lali Puna,8
+2008-07,Michael Jackson,0
+2008-07,My Morning Jacket,0
+2008-07,Myslovitz,4
+2008-07,Negatyw,0
+2008-07,Placebo,2
+2008-07,Röyksopp,0
+2008-07,Smolik,0
+2008-07,The Knife,9
+2008-07,The Pussycat Dolls,1
+2008-07,Thievery Corporation,1
+2008-08,Air,0
+2008-08,Bonobo,0
+2008-08,Coldplay,0
+2008-08,Faithless,0
+2008-08,Feist,0
+2008-08,Fischerspooner,0
+2008-08,Hey,0
+2008-08,Husky Rescue,0
+2008-08,Kent,0
+2008-08,Lali Puna,0
+2008-08,Michael Jackson,0
+2008-08,My Morning Jacket,0
+2008-08,Myslovitz,0
+2008-08,Negatyw,0
+2008-08,Placebo,0
+2008-08,Röyksopp,0
+2008-08,Smolik,0
+2008-08,The Knife,0
+2008-08,The Pussycat Dolls,0
+2008-08,Thievery Corporation,0
+2008-09,Air,3
+2008-09,Bonobo,0
+2008-09,Coldplay,0
+2008-09,Faithless,0
+2008-09,Feist,0
+2008-09,Fischerspooner,0
+2008-09,Hey,0
+2008-09,Husky Rescue,0
+2008-09,Kent,0
+2008-09,Lali Puna,0
+2008-09,Michael Jackson,0
+2008-09,My Morning Jacket,0
+2008-09,Myslovitz,1
+2008-09,Negatyw,0
+2008-09,Placebo,0
+2008-09,Röyksopp,0
+2008-09,Smolik,0
+2008-09,The Knife,2
+2008-09,The Pussycat Dolls,0
+2008-09,Thievery Corporation,0
+2008-10,Air,3
+2008-10,Bonobo,1
+2008-10,Coldplay,7
+2008-10,Faithless,0
+2008-10,Feist,5
+2008-10,Fischerspooner,3
+2008-10,Hey,0
+2008-10,Husky Rescue,0
+2008-10,Kent,0
+2008-10,Lali Puna,0
+2008-10,Michael Jackson,0
+2008-10,My Morning Jacket,14
+2008-10,Myslovitz,48
+2008-10,Negatyw,1
+2008-10,Placebo,0
+2008-10,Röyksopp,19
+2008-10,Smolik,0
+2008-10,The Knife,0
+2008-10,The Pussycat Dolls,0
+2008-10,Thievery Corporation,2
+2008-11,Air,3
+2008-11,Bonobo,0
+2008-11,Coldplay,3
+2008-11,Faithless,2
+2008-11,Feist,0
+2008-11,Fischerspooner,1
+2008-11,Hey,65
+2008-11,Husky Rescue,10
+2008-11,Kent,0
+2008-11,Lali Puna,0
+2008-11,Michael Jackson,0
+2008-11,My Morning Jacket,0
+2008-11,Myslovitz,21
+2008-11,Negatyw,1
+2008-11,Placebo,23
+2008-11,Röyksopp,10
+2008-11,Smolik,0
+2008-11,The Knife,1
+2008-11,The Pussycat Dolls,0
+2008-11,Thievery Corporation,1
+2008-12,Air,2
+2008-12,Bonobo,0
+2008-12,Coldplay,0
+2008-12,Faithless,0
+2008-12,Feist,0
+2008-12,Fischerspooner,0
+2008-12,Hey,4
+2008-12,Husky Rescue,0
+2008-12,Kent,0
+2008-12,Lali Puna,0
+2008-12,Michael Jackson,0
+2008-12,My Morning Jacket,0
+2008-12,Myslovitz,48
+2008-12,Negatyw,0
+2008-12,Placebo,11
+2008-12,Röyksopp,0
+2008-12,Smolik,13
+2008-12,The Knife,0
+2008-12,The Pussycat Dolls,0
+2008-12,Thievery Corporation,0
+2009-01,Air,0
+2009-01,Bonobo,1
+2009-01,Coldplay,0
+2009-01,Faithless,0
+2009-01,Feist,0
+2009-01,Fischerspooner,0
+2009-01,Hey,13
+2009-01,Husky Rescue,0
+2009-01,Kent,0
+2009-01,Lali Puna,6
+2009-01,Michael Jackson,0
+2009-01,My Morning Jacket,0
+2009-01,Myslovitz,53
+2009-01,Negatyw,1
+2009-01,Placebo,0
+2009-01,Röyksopp,0
+2009-01,Smolik,0
+2009-01,The Knife,17
+2009-01,The Pussycat Dolls,0
+2009-01,Thievery Corporation,13
+2009-02,Air,4
+2009-02,Bonobo,0
+2009-02,Coldplay,2
+2009-02,Faithless,2
+2009-02,Feist,0
+2009-02,Fischerspooner,5
+2009-02,Hey,21
+2009-02,Husky Rescue,0
+2009-02,Kent,0
+2009-02,Lali Puna,0
+2009-02,Michael Jackson,1
+2009-02,My Morning Jacket,0
+2009-02,Myslovitz,10
+2009-02,Negatyw,0
+2009-02,Placebo,1
+2009-02,Röyksopp,1
+2009-02,Smolik,0
+2009-02,The Knife,3
+2009-02,The Pussycat Dolls,0
+2009-02,Thievery Corporation,2
+2009-03,Air,1
+2009-03,Bonobo,1
+2009-03,Coldplay,3
+2009-03,Faithless,1
+2009-03,Feist,2
+2009-03,Fischerspooner,0
+2009-03,Hey,5
+2009-03,Husky Rescue,3
+2009-03,Kent,6
+2009-03,Lali Puna,0
+2009-03,Michael Jackson,0
+2009-03,My Morning Jacket,0
+2009-03,Myslovitz,28
+2009-03,Negatyw,1
+2009-03,Placebo,0
+2009-03,Röyksopp,1
+2009-03,Smolik,1
+2009-03,The Knife,0
+2009-03,The Pussycat Dolls,0
+2009-03,Thievery Corporation,0
+2009-04,Air,2
+2009-04,Bonobo,0
+2009-04,Coldplay,1
+2009-04,Faithless,0
+2009-04,Feist,1
+2009-04,Fischerspooner,0
+2009-04,Hey,6
+2009-04,Husky Rescue,0
+2009-04,Kent,0
+2009-04,Lali Puna,3
+2009-04,Michael Jackson,0
+2009-04,My Morning Jacket,1
+2009-04,Myslovitz,2
+2009-04,Negatyw,0
+2009-04,Placebo,1
+2009-04,Röyksopp,2
+2009-04,Smolik,1
+2009-04,The Knife,2
+2009-04,The Pussycat Dolls,0
+2009-04,Thievery Corporation,0

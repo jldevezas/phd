@@ -1,0 +1,701 @@
+month,artist,plays
+2006-07,Air,31
+2006-07,Beck,34
+2006-07,Belle And Sebastian,53
+2006-07,Blonde Redhead,20
+2006-07,Bob Dylan,0
+2006-07,Death Cab For Cutie,0
+2006-07,Eels,0
+2006-07,Grizzly Bear,14
+2006-07,Iron & Wine,20
+2006-07,Jet,0
+2006-07,Les Savy Fav,30
+2006-07,Metric,12
+2006-07,Moby,18
+2006-07,Modest Mouse,9
+2006-07,My Morning Jacket,10
+2006-07,Of Montreal,0
+2006-07,Spoon,0
+2006-07,The Beatles,0
+2006-07,The Faint,0
+2006-07,The White Stripes,0
+2006-08,Air,0
+2006-08,Beck,24
+2006-08,Belle And Sebastian,35
+2006-08,Blonde Redhead,0
+2006-08,Bob Dylan,0
+2006-08,Death Cab For Cutie,0
+2006-08,Eels,18
+2006-08,Grizzly Bear,0
+2006-08,Iron & Wine,0
+2006-08,Jet,0
+2006-08,Les Savy Fav,10
+2006-08,Metric,0
+2006-08,Moby,59
+2006-08,Modest Mouse,66
+2006-08,My Morning Jacket,17
+2006-08,Of Montreal,43
+2006-08,Spoon,28
+2006-08,The Beatles,0
+2006-08,The Faint,9
+2006-08,The White Stripes,17
+2006-09,Air,0
+2006-09,Beck,12
+2006-09,Belle And Sebastian,0
+2006-09,Blonde Redhead,19
+2006-09,Bob Dylan,24
+2006-09,Death Cab For Cutie,0
+2006-09,Eels,36
+2006-09,Grizzly Bear,27
+2006-09,Iron & Wine,17
+2006-09,Jet,0
+2006-09,Les Savy Fav,0
+2006-09,Metric,0
+2006-09,Moby,13
+2006-09,Modest Mouse,0
+2006-09,My Morning Jacket,0
+2006-09,Of Montreal,39
+2006-09,Spoon,35
+2006-09,The Beatles,30
+2006-09,The Faint,0
+2006-09,The White Stripes,40
+2006-10,Air,0
+2006-10,Beck,0
+2006-10,Belle And Sebastian,0
+2006-10,Blonde Redhead,0
+2006-10,Bob Dylan,0
+2006-10,Death Cab For Cutie,0
+2006-10,Eels,69
+2006-10,Grizzly Bear,0
+2006-10,Iron & Wine,0
+2006-10,Jet,0
+2006-10,Les Savy Fav,0
+2006-10,Metric,10
+2006-10,Moby,0
+2006-10,Modest Mouse,0
+2006-10,My Morning Jacket,0
+2006-10,Of Montreal,0
+2006-10,Spoon,0
+2006-10,The Beatles,0
+2006-10,The Faint,9
+2006-10,The White Stripes,0
+2006-11,Air,0
+2006-11,Beck,0
+2006-11,Belle And Sebastian,0
+2006-11,Blonde Redhead,0
+2006-11,Bob Dylan,0
+2006-11,Death Cab For Cutie,0
+2006-11,Eels,0
+2006-11,Grizzly Bear,0
+2006-11,Iron & Wine,0
+2006-11,Jet,0
+2006-11,Les Savy Fav,0
+2006-11,Metric,0
+2006-11,Moby,0
+2006-11,Modest Mouse,0
+2006-11,My Morning Jacket,0
+2006-11,Of Montreal,0
+2006-11,Spoon,0
+2006-11,The Beatles,0
+2006-11,The Faint,0
+2006-11,The White Stripes,0
+2006-12,Air,0
+2006-12,Beck,0
+2006-12,Belle And Sebastian,0
+2006-12,Blonde Redhead,0
+2006-12,Bob Dylan,0
+2006-12,Death Cab For Cutie,0
+2006-12,Eels,0
+2006-12,Grizzly Bear,0
+2006-12,Iron & Wine,0
+2006-12,Jet,0
+2006-12,Les Savy Fav,0
+2006-12,Metric,0
+2006-12,Moby,0
+2006-12,Modest Mouse,0
+2006-12,My Morning Jacket,0
+2006-12,Of Montreal,0
+2006-12,Spoon,0
+2006-12,The Beatles,0
+2006-12,The Faint,0
+2006-12,The White Stripes,0
+2007-01,Air,0
+2007-01,Beck,0
+2007-01,Belle And Sebastian,0
+2007-01,Blonde Redhead,0
+2007-01,Bob Dylan,0
+2007-01,Death Cab For Cutie,0
+2007-01,Eels,0
+2007-01,Grizzly Bear,0
+2007-01,Iron & Wine,0
+2007-01,Jet,0
+2007-01,Les Savy Fav,0
+2007-01,Metric,0
+2007-01,Moby,0
+2007-01,Modest Mouse,0
+2007-01,My Morning Jacket,0
+2007-01,Of Montreal,0
+2007-01,Spoon,0
+2007-01,The Beatles,0
+2007-01,The Faint,0
+2007-01,The White Stripes,0
+2007-02,Air,1
+2007-02,Beck,7
+2007-02,Belle And Sebastian,3
+2007-02,Blonde Redhead,5
+2007-02,Bob Dylan,2
+2007-02,Death Cab For Cutie,2
+2007-02,Eels,4
+2007-02,Grizzly Bear,2
+2007-02,Iron & Wine,2
+2007-02,Jet,1
+2007-02,Les Savy Fav,2
+2007-02,Metric,1
+2007-02,Moby,0
+2007-02,Modest Mouse,2
+2007-02,My Morning Jacket,5
+2007-02,Of Montreal,4
+2007-02,Spoon,4
+2007-02,The Beatles,6
+2007-02,The Faint,1
+2007-02,The White Stripes,3
+2007-03,Air,6
+2007-03,Beck,19
+2007-03,Belle And Sebastian,8
+2007-03,Blonde Redhead,4
+2007-03,Bob Dylan,5
+2007-03,Death Cab For Cutie,6
+2007-03,Eels,18
+2007-03,Grizzly Bear,3
+2007-03,Iron & Wine,7
+2007-03,Jet,1
+2007-03,Les Savy Fav,12
+2007-03,Metric,3
+2007-03,Moby,1
+2007-03,Modest Mouse,10
+2007-03,My Morning Jacket,14
+2007-03,Of Montreal,11
+2007-03,Spoon,6
+2007-03,The Beatles,10
+2007-03,The Faint,5
+2007-03,The White Stripes,7
+2007-04,Air,17
+2007-04,Beck,17
+2007-04,Belle And Sebastian,16
+2007-04,Blonde Redhead,25
+2007-04,Bob Dylan,7
+2007-04,Death Cab For Cutie,15
+2007-04,Eels,20
+2007-04,Grizzly Bear,3
+2007-04,Iron & Wine,10
+2007-04,Jet,3
+2007-04,Les Savy Fav,7
+2007-04,Metric,5
+2007-04,Moby,3
+2007-04,Modest Mouse,21
+2007-04,My Morning Jacket,16
+2007-04,Of Montreal,30
+2007-04,Spoon,37
+2007-04,The Beatles,21
+2007-04,The Faint,10
+2007-04,The White Stripes,11
+2007-05,Air,24
+2007-05,Beck,47
+2007-05,Belle And Sebastian,22
+2007-05,Blonde Redhead,24
+2007-05,Bob Dylan,15
+2007-05,Death Cab For Cutie,17
+2007-05,Eels,50
+2007-05,Grizzly Bear,15
+2007-05,Iron & Wine,12
+2007-05,Jet,9
+2007-05,Les Savy Fav,19
+2007-05,Metric,7
+2007-05,Moby,12
+2007-05,Modest Mouse,11
+2007-05,My Morning Jacket,22
+2007-05,Of Montreal,31
+2007-05,Spoon,6
+2007-05,The Beatles,38
+2007-05,The Faint,10
+2007-05,The White Stripes,19
+2007-06,Air,3
+2007-06,Beck,14
+2007-06,Belle And Sebastian,13
+2007-06,Blonde Redhead,3
+2007-06,Bob Dylan,5
+2007-06,Death Cab For Cutie,10
+2007-06,Eels,19
+2007-06,Grizzly Bear,5
+2007-06,Iron & Wine,1
+2007-06,Jet,3
+2007-06,Les Savy Fav,5
+2007-06,Metric,1
+2007-06,Moby,1
+2007-06,Modest Mouse,0
+2007-06,My Morning Jacket,2
+2007-06,Of Montreal,30
+2007-06,Spoon,0
+2007-06,The Beatles,15
+2007-06,The Faint,5
+2007-06,The White Stripes,12
+2007-07,Air,23
+2007-07,Beck,51
+2007-07,Belle And Sebastian,45
+2007-07,Blonde Redhead,1
+2007-07,Bob Dylan,19
+2007-07,Death Cab For Cutie,24
+2007-07,Eels,54
+2007-07,Grizzly Bear,2
+2007-07,Iron & Wine,8
+2007-07,Jet,15
+2007-07,Les Savy Fav,0
+2007-07,Metric,12
+2007-07,Moby,3
+2007-07,Modest Mouse,20
+2007-07,My Morning Jacket,0
+2007-07,Of Montreal,48
+2007-07,Spoon,2
+2007-07,The Beatles,44
+2007-07,The Faint,20
+2007-07,The White Stripes,44
+2007-08,Air,7
+2007-08,Beck,2
+2007-08,Belle And Sebastian,18
+2007-08,Blonde Redhead,1
+2007-08,Bob Dylan,5
+2007-08,Death Cab For Cutie,13
+2007-08,Eels,27
+2007-08,Grizzly Bear,3
+2007-08,Iron & Wine,0
+2007-08,Jet,2
+2007-08,Les Savy Fav,1
+2007-08,Metric,7
+2007-08,Moby,0
+2007-08,Modest Mouse,16
+2007-08,My Morning Jacket,27
+2007-08,Of Montreal,21
+2007-08,Spoon,0
+2007-08,The Beatles,17
+2007-08,The Faint,10
+2007-08,The White Stripes,10
+2007-09,Air,12
+2007-09,Beck,32
+2007-09,Belle And Sebastian,23
+2007-09,Blonde Redhead,10
+2007-09,Bob Dylan,11
+2007-09,Death Cab For Cutie,17
+2007-09,Eels,29
+2007-09,Grizzly Bear,19
+2007-09,Iron & Wine,4
+2007-09,Jet,8
+2007-09,Les Savy Fav,2
+2007-09,Metric,2
+2007-09,Moby,1
+2007-09,Modest Mouse,13
+2007-09,My Morning Jacket,15
+2007-09,Of Montreal,36
+2007-09,Spoon,24
+2007-09,The Beatles,6
+2007-09,The Faint,7
+2007-09,The White Stripes,20
+2007-10,Air,8
+2007-10,Beck,7
+2007-10,Belle And Sebastian,37
+2007-10,Blonde Redhead,7
+2007-10,Bob Dylan,5
+2007-10,Death Cab For Cutie,8
+2007-10,Eels,11
+2007-10,Grizzly Bear,5
+2007-10,Iron & Wine,23
+2007-10,Jet,5
+2007-10,Les Savy Fav,134
+2007-10,Metric,5
+2007-10,Moby,21
+2007-10,Modest Mouse,13
+2007-10,My Morning Jacket,6
+2007-10,Of Montreal,16
+2007-10,Spoon,5
+2007-10,The Beatles,23
+2007-10,The Faint,4
+2007-10,The White Stripes,23
+2007-11,Air,1
+2007-11,Beck,2
+2007-11,Belle And Sebastian,1
+2007-11,Blonde Redhead,0
+2007-11,Bob Dylan,1
+2007-11,Death Cab For Cutie,0
+2007-11,Eels,1
+2007-11,Grizzly Bear,6
+2007-11,Iron & Wine,5
+2007-11,Jet,0
+2007-11,Les Savy Fav,0
+2007-11,Metric,0
+2007-11,Moby,0
+2007-11,Modest Mouse,0
+2007-11,My Morning Jacket,14
+2007-11,Of Montreal,1
+2007-11,Spoon,0
+2007-11,The Beatles,19
+2007-11,The Faint,0
+2007-11,The White Stripes,3
+2007-12,Air,10
+2007-12,Beck,2
+2007-12,Belle And Sebastian,2
+2007-12,Blonde Redhead,5
+2007-12,Bob Dylan,9
+2007-12,Death Cab For Cutie,2
+2007-12,Eels,2
+2007-12,Grizzly Bear,1
+2007-12,Iron & Wine,0
+2007-12,Jet,1
+2007-12,Les Savy Fav,7
+2007-12,Metric,2
+2007-12,Moby,5
+2007-12,Modest Mouse,14
+2007-12,My Morning Jacket,0
+2007-12,Of Montreal,5
+2007-12,Spoon,2
+2007-12,The Beatles,0
+2007-12,The Faint,2
+2007-12,The White Stripes,0
+2008-01,Air,1
+2008-01,Beck,8
+2008-01,Belle And Sebastian,0
+2008-01,Blonde Redhead,0
+2008-01,Bob Dylan,17
+2008-01,Death Cab For Cutie,2
+2008-01,Eels,5
+2008-01,Grizzly Bear,1
+2008-01,Iron & Wine,0
+2008-01,Jet,1
+2008-01,Les Savy Fav,2
+2008-01,Metric,2
+2008-01,Moby,2
+2008-01,Modest Mouse,0
+2008-01,My Morning Jacket,0
+2008-01,Of Montreal,5
+2008-01,Spoon,4
+2008-01,The Beatles,10
+2008-01,The Faint,1
+2008-01,The White Stripes,18
+2008-02,Air,0
+2008-02,Beck,0
+2008-02,Belle And Sebastian,0
+2008-02,Blonde Redhead,1
+2008-02,Bob Dylan,0
+2008-02,Death Cab For Cutie,1
+2008-02,Eels,2
+2008-02,Grizzly Bear,1
+2008-02,Iron & Wine,0
+2008-02,Jet,1
+2008-02,Les Savy Fav,0
+2008-02,Metric,0
+2008-02,Moby,0
+2008-02,Modest Mouse,0
+2008-02,My Morning Jacket,0
+2008-02,Of Montreal,0
+2008-02,Spoon,0
+2008-02,The Beatles,0
+2008-02,The Faint,0
+2008-02,The White Stripes,0
+2008-03,Air,0
+2008-03,Beck,0
+2008-03,Belle And Sebastian,0
+2008-03,Blonde Redhead,0
+2008-03,Bob Dylan,0
+2008-03,Death Cab For Cutie,0
+2008-03,Eels,0
+2008-03,Grizzly Bear,0
+2008-03,Iron & Wine,0
+2008-03,Jet,0
+2008-03,Les Savy Fav,0
+2008-03,Metric,0
+2008-03,Moby,0
+2008-03,Modest Mouse,0
+2008-03,My Morning Jacket,0
+2008-03,Of Montreal,0
+2008-03,Spoon,0
+2008-03,The Beatles,0
+2008-03,The Faint,0
+2008-03,The White Stripes,0
+2008-04,Air,2
+2008-04,Beck,3
+2008-04,Belle And Sebastian,1
+2008-04,Blonde Redhead,0
+2008-04,Bob Dylan,4
+2008-04,Death Cab For Cutie,1
+2008-04,Eels,2
+2008-04,Grizzly Bear,0
+2008-04,Iron & Wine,1
+2008-04,Jet,1
+2008-04,Les Savy Fav,1
+2008-04,Metric,14
+2008-04,Moby,6
+2008-04,Modest Mouse,1
+2008-04,My Morning Jacket,3
+2008-04,Of Montreal,2
+2008-04,Spoon,1
+2008-04,The Beatles,0
+2008-04,The Faint,0
+2008-04,The White Stripes,13
+2008-05,Air,2
+2008-05,Beck,5
+2008-05,Belle And Sebastian,3
+2008-05,Blonde Redhead,3
+2008-05,Bob Dylan,1
+2008-05,Death Cab For Cutie,5
+2008-05,Eels,9
+2008-05,Grizzly Bear,0
+2008-05,Iron & Wine,2
+2008-05,Jet,1
+2008-05,Les Savy Fav,12
+2008-05,Metric,11
+2008-05,Moby,5
+2008-05,Modest Mouse,7
+2008-05,My Morning Jacket,2
+2008-05,Of Montreal,15
+2008-05,Spoon,2
+2008-05,The Beatles,21
+2008-05,The Faint,3
+2008-05,The White Stripes,1
+2008-06,Air,14
+2008-06,Beck,8
+2008-06,Belle And Sebastian,3
+2008-06,Blonde Redhead,5
+2008-06,Bob Dylan,1
+2008-06,Death Cab For Cutie,2
+2008-06,Eels,6
+2008-06,Grizzly Bear,5
+2008-06,Iron & Wine,1
+2008-06,Jet,0
+2008-06,Les Savy Fav,1
+2008-06,Metric,10
+2008-06,Moby,15
+2008-06,Modest Mouse,4
+2008-06,My Morning Jacket,12
+2008-06,Of Montreal,4
+2008-06,Spoon,1
+2008-06,The Beatles,24
+2008-06,The Faint,2
+2008-06,The White Stripes,2
+2008-07,Air,0
+2008-07,Beck,0
+2008-07,Belle And Sebastian,0
+2008-07,Blonde Redhead,0
+2008-07,Bob Dylan,0
+2008-07,Death Cab For Cutie,0
+2008-07,Eels,0
+2008-07,Grizzly Bear,0
+2008-07,Iron & Wine,0
+2008-07,Jet,0
+2008-07,Les Savy Fav,1
+2008-07,Metric,0
+2008-07,Moby,0
+2008-07,Modest Mouse,0
+2008-07,My Morning Jacket,0
+2008-07,Of Montreal,0
+2008-07,Spoon,0
+2008-07,The Beatles,0
+2008-07,The Faint,0
+2008-07,The White Stripes,0
+2008-08,Air,0
+2008-08,Beck,0
+2008-08,Belle And Sebastian,0
+2008-08,Blonde Redhead,0
+2008-08,Bob Dylan,0
+2008-08,Death Cab For Cutie,0
+2008-08,Eels,0
+2008-08,Grizzly Bear,0
+2008-08,Iron & Wine,0
+2008-08,Jet,0
+2008-08,Les Savy Fav,0
+2008-08,Metric,0
+2008-08,Moby,0
+2008-08,Modest Mouse,0
+2008-08,My Morning Jacket,0
+2008-08,Of Montreal,0
+2008-08,Spoon,0
+2008-08,The Beatles,0
+2008-08,The Faint,0
+2008-08,The White Stripes,0
+2008-09,Air,0
+2008-09,Beck,1
+2008-09,Belle And Sebastian,1
+2008-09,Blonde Redhead,0
+2008-09,Bob Dylan,0
+2008-09,Death Cab For Cutie,0
+2008-09,Eels,0
+2008-09,Grizzly Bear,0
+2008-09,Iron & Wine,0
+2008-09,Jet,0
+2008-09,Les Savy Fav,0
+2008-09,Metric,0
+2008-09,Moby,0
+2008-09,Modest Mouse,0
+2008-09,My Morning Jacket,0
+2008-09,Of Montreal,0
+2008-09,Spoon,0
+2008-09,The Beatles,0
+2008-09,The Faint,0
+2008-09,The White Stripes,0
+2008-10,Air,0
+2008-10,Beck,0
+2008-10,Belle And Sebastian,0
+2008-10,Blonde Redhead,0
+2008-10,Bob Dylan,0
+2008-10,Death Cab For Cutie,0
+2008-10,Eels,0
+2008-10,Grizzly Bear,0
+2008-10,Iron & Wine,0
+2008-10,Jet,0
+2008-10,Les Savy Fav,0
+2008-10,Metric,0
+2008-10,Moby,0
+2008-10,Modest Mouse,0
+2008-10,My Morning Jacket,0
+2008-10,Of Montreal,0
+2008-10,Spoon,0
+2008-10,The Beatles,0
+2008-10,The Faint,0
+2008-10,The White Stripes,0
+2008-11,Air,0
+2008-11,Beck,0
+2008-11,Belle And Sebastian,0
+2008-11,Blonde Redhead,0
+2008-11,Bob Dylan,0
+2008-11,Death Cab For Cutie,0
+2008-11,Eels,0
+2008-11,Grizzly Bear,0
+2008-11,Iron & Wine,0
+2008-11,Jet,0
+2008-11,Les Savy Fav,0
+2008-11,Metric,0
+2008-11,Moby,0
+2008-11,Modest Mouse,0
+2008-11,My Morning Jacket,0
+2008-11,Of Montreal,0
+2008-11,Spoon,0
+2008-11,The Beatles,0
+2008-11,The Faint,0
+2008-11,The White Stripes,0
+2008-12,Air,0
+2008-12,Beck,0
+2008-12,Belle And Sebastian,0
+2008-12,Blonde Redhead,0
+2008-12,Bob Dylan,0
+2008-12,Death Cab For Cutie,0
+2008-12,Eels,0
+2008-12,Grizzly Bear,0
+2008-12,Iron & Wine,0
+2008-12,Jet,0
+2008-12,Les Savy Fav,0
+2008-12,Metric,0
+2008-12,Moby,0
+2008-12,Modest Mouse,0
+2008-12,My Morning Jacket,0
+2008-12,Of Montreal,0
+2008-12,Spoon,0
+2008-12,The Beatles,0
+2008-12,The Faint,0
+2008-12,The White Stripes,0
+2009-01,Air,0
+2009-01,Beck,0
+2009-01,Belle And Sebastian,0
+2009-01,Blonde Redhead,0
+2009-01,Bob Dylan,0
+2009-01,Death Cab For Cutie,0
+2009-01,Eels,0
+2009-01,Grizzly Bear,0
+2009-01,Iron & Wine,0
+2009-01,Jet,0
+2009-01,Les Savy Fav,0
+2009-01,Metric,0
+2009-01,Moby,0
+2009-01,Modest Mouse,0
+2009-01,My Morning Jacket,0
+2009-01,Of Montreal,0
+2009-01,Spoon,0
+2009-01,The Beatles,0
+2009-01,The Faint,0
+2009-01,The White Stripes,0
+2009-02,Air,0
+2009-02,Beck,0
+2009-02,Belle And Sebastian,0
+2009-02,Blonde Redhead,0
+2009-02,Bob Dylan,0
+2009-02,Death Cab For Cutie,0
+2009-02,Eels,0
+2009-02,Grizzly Bear,0
+2009-02,Iron & Wine,0
+2009-02,Jet,0
+2009-02,Les Savy Fav,0
+2009-02,Metric,0
+2009-02,Moby,0
+2009-02,Modest Mouse,0
+2009-02,My Morning Jacket,0
+2009-02,Of Montreal,0
+2009-02,Spoon,0
+2009-02,The Beatles,0
+2009-02,The Faint,0
+2009-02,The White Stripes,0
+2009-03,Air,0
+2009-03,Beck,0
+2009-03,Belle And Sebastian,0
+2009-03,Blonde Redhead,0
+2009-03,Bob Dylan,0
+2009-03,Death Cab For Cutie,0
+2009-03,Eels,0
+2009-03,Grizzly Bear,0
+2009-03,Iron & Wine,0
+2009-03,Jet,0
+2009-03,Les Savy Fav,0
+2009-03,Metric,0
+2009-03,Moby,0
+2009-03,Modest Mouse,0
+2009-03,My Morning Jacket,0
+2009-03,Of Montreal,0
+2009-03,Spoon,0
+2009-03,The Beatles,0
+2009-03,The Faint,0
+2009-03,The White Stripes,0
+2009-04,Air,11
+2009-04,Beck,22
+2009-04,Belle And Sebastian,11
+2009-04,Blonde Redhead,42
+2009-04,Bob Dylan,16
+2009-04,Death Cab For Cutie,21
+2009-04,Eels,0
+2009-04,Grizzly Bear,4
+2009-04,Iron & Wine,11
+2009-04,Jet,4
+2009-04,Les Savy Fav,20
+2009-04,Metric,16
+2009-04,Moby,6
+2009-04,Modest Mouse,25
+2009-04,My Morning Jacket,41
+2009-04,Of Montreal,19
+2009-04,Spoon,39
+2009-04,The Beatles,19
+2009-04,The Faint,17
+2009-04,The White Stripes,39
+2009-05,Air,3
+2009-05,Beck,6
+2009-05,Belle And Sebastian,1
+2009-05,Blonde Redhead,0
+2009-05,Bob Dylan,0
+2009-05,Death Cab For Cutie,2
+2009-05,Eels,0
+2009-05,Grizzly Bear,1
+2009-05,Iron & Wine,1
+2009-05,Jet,1
+2009-05,Les Savy Fav,3
+2009-05,Metric,1
+2009-05,Moby,0
+2009-05,Modest Mouse,4
+2009-05,My Morning Jacket,2
+2009-05,Of Montreal,0
+2009-05,Spoon,1
+2009-05,The Beatles,1
+2009-05,The Faint,3
+2009-05,The White Stripes,3
