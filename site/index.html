@@ -185,10 +185,16 @@
 									});
 
 									var selectedIndex = $("#user-select").prop("selectedIndex");
+									
 									if ((selectedIndex+1) >= $("#user-select").find("option").length)
 										$("#button-next").prop("disabled", true);
-									if ((selectedIndex-1) <= 0)
+									else
+										$("#button-next").prop("disabled", false);
+
+									if (selectedIndex <= 0)
 										$("#button-previous").prop("disabled", true);
+									else
+										$("#button-previous").prop("disabled", false);
 								});
 
 								$("#user-select").val("user_000001").change();
@@ -197,14 +203,12 @@
 									.on("click", function() {
 										var selectedIndex = $("#user-select").prop("selectedIndex");
 										$("#user-select").prop("selectedIndex", selectedIndex-1).change();
-										$("#button-next").prop("disabled", false);
 									});
 									
 								$("#button-next")
 									.on("click", function() {
 										var selectedIndex = $("#user-select").prop("selectedIndex");
 										$("#user-select").prop("selectedIndex", selectedIndex+1).change();
-										$("#button-previous").prop("disabled", false);
 									});
 							});
 						</script>
