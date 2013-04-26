@@ -1,81 +1,81 @@
-month,artist,plays
-2009-02,Air,3
-2009-02,Amanda Palmer,21
-2009-02,Arctic Monkeys,13
-2009-02,Beck,6
-2009-02,Beth Orton,6
-2009-02,Bis,1
-2009-02,Blur,1
-2009-02,Boards Of Canada,10
-2009-02,Coldplay,2
-2009-02,Cracker,1
-2009-02,David Bowie,6
-2009-02,Dj Shadow,3
-2009-02,Elvis Costello,1
-2009-02,Girls Aloud,3
-2009-02,Goldfrapp,3
-2009-02,Gorillaz,1
-2009-02,Hot Chip,3
-2009-02,Jonathan Coulton,5
-2009-02,Portishead,2
-2009-02,Rasputina,1
-2009-03,Air,1
-2009-03,Amanda Palmer,2
-2009-03,Arctic Monkeys,1
-2009-03,Beck,1
-2009-03,Beth Orton,1
-2009-03,Bis,1
-2009-03,Blur,4
-2009-03,Boards Of Canada,1
-2009-03,Coldplay,13
-2009-03,Cracker,1
-2009-03,David Bowie,2
-2009-03,Dj Shadow,1
-2009-03,Elvis Costello,1
-2009-03,Girls Aloud,3
-2009-03,Goldfrapp,4
-2009-03,Gorillaz,1
-2009-03,Hot Chip,1
-2009-03,Jonathan Coulton,1
-2009-03,Portishead,2
-2009-03,Rasputina,44
-2009-04,Air,2
-2009-04,Amanda Palmer,1
-2009-04,Arctic Monkeys,6
-2009-04,Beck,1
-2009-04,Beth Orton,1
-2009-04,Bis,1
-2009-04,Blur,16
-2009-04,Boards Of Canada,2
-2009-04,Coldplay,1
-2009-04,Cracker,1
-2009-04,David Bowie,3
-2009-04,Dj Shadow,1
-2009-04,Elvis Costello,1
-2009-04,Girls Aloud,0
-2009-04,Goldfrapp,2
-2009-04,Gorillaz,1
-2009-04,Hot Chip,3
-2009-04,Jonathan Coulton,3
-2009-04,Portishead,2
-2009-04,Rasputina,19
-2009-05,Air,0
-2009-05,Amanda Palmer,0
-2009-05,Arctic Monkeys,0
-2009-05,Beck,0
-2009-05,Beth Orton,0
-2009-05,Bis,0
-2009-05,Blur,0
-2009-05,Boards Of Canada,0
-2009-05,Coldplay,0
-2009-05,Cracker,0
-2009-05,David Bowie,0
-2009-05,Dj Shadow,0
-2009-05,Elvis Costello,0
-2009-05,Girls Aloud,11
-2009-05,Goldfrapp,0
-2009-05,Gorillaz,0
-2009-05,Hot Chip,0
-2009-05,Jonathan Coulton,0
-2009-05,Portishead,0
-2009-05,Rasputina,0
+"month","artist","plays"
+"2009-02","Air",3
+"2009-02","Amanda Palmer",21
+"2009-02","Arctic Monkeys",13
+"2009-02","Beck",6
+"2009-02","Beth Orton",6
+"2009-02","Bis",1
+"2009-02","Blur",1
+"2009-02","Boards Of Canada",10
+"2009-02","Coldplay",2
+"2009-02","Cracker",1
+"2009-02","David Bowie",6
+"2009-02","Dj Shadow",3
+"2009-02","Elvis Costello",1
+"2009-02","Girls Aloud",3
+"2009-02","Goldfrapp",3
+"2009-02","Gorillaz",1
+"2009-02","Hot Chip",3
+"2009-02","Jonathan Coulton",5
+"2009-02","Portishead",2
+"2009-02","Rasputina",1
+"2009-03","Air",1
+"2009-03","Amanda Palmer",2
+"2009-03","Arctic Monkeys",1
+"2009-03","Beck",1
+"2009-03","Beth Orton",1
+"2009-03","Bis",1
+"2009-03","Blur",4
+"2009-03","Boards Of Canada",1
+"2009-03","Coldplay",13
+"2009-03","Cracker",1
+"2009-03","David Bowie",2
+"2009-03","Dj Shadow",1
+"2009-03","Elvis Costello",1
+"2009-03","Girls Aloud",3
+"2009-03","Goldfrapp",4
+"2009-03","Gorillaz",1
+"2009-03","Hot Chip",1
+"2009-03","Jonathan Coulton",1
+"2009-03","Portishead",2
+"2009-03","Rasputina",44
+"2009-04","Air",2
+"2009-04","Amanda Palmer",1
+"2009-04","Arctic Monkeys",6
+"2009-04","Beck",1
+"2009-04","Beth Orton",1
+"2009-04","Bis",1
+"2009-04","Blur",16
+"2009-04","Boards Of Canada",2
+"2009-04","Coldplay",1
+"2009-04","Cracker",1
+"2009-04","David Bowie",3
+"2009-04","Dj Shadow",1
+"2009-04","Elvis Costello",1
+"2009-04","Girls Aloud",0
+"2009-04","Goldfrapp",2
+"2009-04","Gorillaz",1
+"2009-04","Hot Chip",3
+"2009-04","Jonathan Coulton",3
+"2009-04","Portishead",2
+"2009-04","Rasputina",19
+"2009-05","Air",0
+"2009-05","Amanda Palmer",0
+"2009-05","Arctic Monkeys",0
+"2009-05","Beck",0
+"2009-05","Beth Orton",0
+"2009-05","Bis",0
+"2009-05","Blur",0
+"2009-05","Boards Of Canada",0
+"2009-05","Coldplay",0
+"2009-05","Cracker",0
+"2009-05","David Bowie",0
+"2009-05","Dj Shadow",0
+"2009-05","Elvis Costello",0
+"2009-05","Girls Aloud",11
+"2009-05","Goldfrapp",0
+"2009-05","Gorillaz",0
+"2009-05","Hot Chip",0
+"2009-05","Jonathan Coulton",0
+"2009-05","Portishead",0
+"2009-05","Rasputina",0

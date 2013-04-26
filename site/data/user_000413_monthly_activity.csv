@@ -1,101 +1,101 @@
-month,artist,plays
-2009-01,Beck,0
-2009-01,Better Than Ezra,2
-2009-01,Black Rebel Motorcycle Club,1
-2009-01,Blur,0
-2009-01,Boy Division,0
-2009-01,Depeche Mode,19
-2009-01,Glasvegas,0
-2009-01,Glen Phillips,0
-2009-01,Howie Day,1
-2009-01,Interpol,3
-2009-01,Morrissey,0
-2009-01,Pete Yorn,0
-2009-01,Placebo,1
-2009-01,Ryan Adams,1
-2009-01,Snow Patrol,1
-2009-01,The Cure,0
-2009-01,The Smiths,0
-2009-01,Toad The Wet Sprocket,0
-2009-01,Tori Amos,0
-2009-01,U2,13
-2009-02,Beck,1
-2009-02,Better Than Ezra,100
-2009-02,Black Rebel Motorcycle Club,10
-2009-02,Blur,1
-2009-02,Boy Division,1
-2009-02,Depeche Mode,31
-2009-02,Glasvegas,22
-2009-02,Glen Phillips,3
-2009-02,Howie Day,2
-2009-02,Interpol,1
-2009-02,Morrissey,13
-2009-02,Pete Yorn,12
-2009-02,Placebo,19
-2009-02,Ryan Adams,17
-2009-02,Snow Patrol,12
-2009-02,The Cure,40
-2009-02,The Smiths,8
-2009-02,Toad The Wet Sprocket,1
-2009-02,Tori Amos,1
-2009-02,U2,0
-2009-03,Beck,0
-2009-03,Better Than Ezra,107
-2009-03,Black Rebel Motorcycle Club,31
-2009-03,Blur,1
-2009-03,Boy Division,0
-2009-03,Depeche Mode,83
-2009-03,Glasvegas,24
-2009-03,Glen Phillips,31
-2009-03,Howie Day,3
-2009-03,Interpol,2
-2009-03,Morrissey,23
-2009-03,Pete Yorn,2
-2009-03,Placebo,2
-2009-03,Ryan Adams,9
-2009-03,Snow Patrol,0
-2009-03,The Cure,2
-2009-03,The Smiths,12
-2009-03,Toad The Wet Sprocket,3
-2009-03,Tori Amos,1
-2009-03,U2,1
-2009-04,Beck,1
-2009-04,Better Than Ezra,13
-2009-04,Black Rebel Motorcycle Club,45
-2009-04,Blur,1
-2009-04,Boy Division,1
-2009-04,Depeche Mode,201
-2009-04,Glasvegas,1
-2009-04,Glen Phillips,19
-2009-04,Howie Day,4
-2009-04,Interpol,0
-2009-04,Morrissey,36
-2009-04,Pete Yorn,5
-2009-04,Placebo,1
-2009-04,Ryan Adams,23
-2009-04,Snow Patrol,10
-2009-04,The Cure,73
-2009-04,The Smiths,2
-2009-04,Toad The Wet Sprocket,24
-2009-04,Tori Amos,2
-2009-04,U2,33
-2009-05,Beck,0
-2009-05,Better Than Ezra,0
-2009-05,Black Rebel Motorcycle Club,2
-2009-05,Blur,0
-2009-05,Boy Division,0
-2009-05,Depeche Mode,2
-2009-05,Glasvegas,0
-2009-05,Glen Phillips,0
-2009-05,Howie Day,0
-2009-05,Interpol,0
-2009-05,Morrissey,0
-2009-05,Pete Yorn,0
-2009-05,Placebo,0
-2009-05,Ryan Adams,0
-2009-05,Snow Patrol,0
-2009-05,The Cure,9
-2009-05,The Smiths,0
-2009-05,Toad The Wet Sprocket,0
-2009-05,Tori Amos,0
-2009-05,U2,0
+"month","artist","plays"
+"2009-01","Beck",0
+"2009-01","Better Than Ezra",2
+"2009-01","Black Rebel Motorcycle Club",1
+"2009-01","Blur",0
+"2009-01","Boy Division",0
+"2009-01","Depeche Mode",19
+"2009-01","Glasvegas",0
+"2009-01","Glen Phillips",0
+"2009-01","Howie Day",1
+"2009-01","Interpol",3
+"2009-01","Morrissey",0
+"2009-01","Pete Yorn",0
+"2009-01","Placebo",1
+"2009-01","Ryan Adams",1
+"2009-01","Snow Patrol",1
+"2009-01","The Cure",0
+"2009-01","The Smiths",0
+"2009-01","Toad The Wet Sprocket",0
+"2009-01","Tori Amos",0
+"2009-01","U2",13
+"2009-02","Beck",1
+"2009-02","Better Than Ezra",100
+"2009-02","Black Rebel Motorcycle Club",10
+"2009-02","Blur",1
+"2009-02","Boy Division",1
+"2009-02","Depeche Mode",31
+"2009-02","Glasvegas",22
+"2009-02","Glen Phillips",3
+"2009-02","Howie Day",2
+"2009-02","Interpol",1
+"2009-02","Morrissey",13
+"2009-02","Pete Yorn",12
+"2009-02","Placebo",19
+"2009-02","Ryan Adams",17
+"2009-02","Snow Patrol",12
+"2009-02","The Cure",40
+"2009-02","The Smiths",8
+"2009-02","Toad The Wet Sprocket",1
+"2009-02","Tori Amos",1
+"2009-02","U2",0
+"2009-03","Beck",0
+"2009-03","Better Than Ezra",107
+"2009-03","Black Rebel Motorcycle Club",31
+"2009-03","Blur",1
+"2009-03","Boy Division",0
+"2009-03","Depeche Mode",83
+"2009-03","Glasvegas",24
+"2009-03","Glen Phillips",31
+"2009-03","Howie Day",3
+"2009-03","Interpol",2
+"2009-03","Morrissey",23
+"2009-03","Pete Yorn",2
+"2009-03","Placebo",2
+"2009-03","Ryan Adams",9
+"2009-03","Snow Patrol",0
+"2009-03","The Cure",2
+"2009-03","The Smiths",12
+"2009-03","Toad The Wet Sprocket",3
+"2009-03","Tori Amos",1
+"2009-03","U2",1
+"2009-04","Beck",1
+"2009-04","Better Than Ezra",13
+"2009-04","Black Rebel Motorcycle Club",45
+"2009-04","Blur",1
+"2009-04","Boy Division",1
+"2009-04","Depeche Mode",201
+"2009-04","Glasvegas",1
+"2009-04","Glen Phillips",19
+"2009-04","Howie Day",4
+"2009-04","Interpol",0
+"2009-04","Morrissey",36
+"2009-04","Pete Yorn",5
+"2009-04","Placebo",1
+"2009-04","Ryan Adams",23
+"2009-04","Snow Patrol",10
+"2009-04","The Cure",73
+"2009-04","The Smiths",2
+"2009-04","Toad The Wet Sprocket",24
+"2009-04","Tori Amos",2
+"2009-04","U2",33
+"2009-05","Beck",0
+"2009-05","Better Than Ezra",0
+"2009-05","Black Rebel Motorcycle Club",2
+"2009-05","Blur",0
+"2009-05","Boy Division",0
+"2009-05","Depeche Mode",2
+"2009-05","Glasvegas",0
+"2009-05","Glen Phillips",0
+"2009-05","Howie Day",0
+"2009-05","Interpol",0
+"2009-05","Morrissey",0
+"2009-05","Pete Yorn",0
+"2009-05","Placebo",0
+"2009-05","Ryan Adams",0
+"2009-05","Snow Patrol",0
+"2009-05","The Cure",9
+"2009-05","The Smiths",0
+"2009-05","Toad The Wet Sprocket",0
+"2009-05","Tori Amos",0
+"2009-05","U2",0

@@ -1,481 +1,481 @@
-month,artist,plays
-2007-05,Barenaked Ladies,1
-2007-05,Beat Happening,3
-2007-05,Belle And Sebastian,2
-2007-05,Bill Frisell,4
-2007-05,Bob Dylan,3
-2007-05,Bob Mould,2
-2007-05,Bonnie 'Prince' Billy,1
-2007-05,Brad Mehldau,4
-2007-05,Bruce Springsteen,3
-2007-05,Chick Corea Elektric Band,1
-2007-05,Cream,5
-2007-05,David Bowie,3
-2007-05,Eagles,1
-2007-05,Elvis Costello,3
-2007-05,Elvis Costello & The Attractions,4
-2007-05,Emmylou Harris,1
-2007-05,Freakwater,2
-2007-05,George Harrison,3
-2007-05,Gomez,3
-2007-05,Jill Scott,3
-2007-06,Barenaked Ladies,9
-2007-06,Beat Happening,3
-2007-06,Belle And Sebastian,10
-2007-06,Bill Frisell,12
-2007-06,Bob Dylan,18
-2007-06,Bob Mould,3
-2007-06,Bonnie 'Prince' Billy,11
-2007-06,Brad Mehldau,3
-2007-06,Bruce Springsteen,10
-2007-06,Chick Corea Elektric Band,4
-2007-06,Cream,5
-2007-06,David Bowie,7
-2007-06,Eagles,2
-2007-06,Elvis Costello,16
-2007-06,Elvis Costello & The Attractions,10
-2007-06,Emmylou Harris,7
-2007-06,Freakwater,2
-2007-06,George Harrison,4
-2007-06,Gomez,5
-2007-06,Jill Scott,3
-2007-07,Barenaked Ladies,3
-2007-07,Beat Happening,5
-2007-07,Belle And Sebastian,12
-2007-07,Bill Frisell,9
-2007-07,Bob Dylan,31
-2007-07,Bob Mould,1
-2007-07,Bonnie 'Prince' Billy,8
-2007-07,Brad Mehldau,14
-2007-07,Bruce Springsteen,20
-2007-07,Chick Corea Elektric Band,2
-2007-07,Cream,9
-2007-07,David Bowie,15
-2007-07,Eagles,4
-2007-07,Elvis Costello,22
-2007-07,Elvis Costello & The Attractions,19
-2007-07,Emmylou Harris,13
-2007-07,Freakwater,8
-2007-07,George Harrison,18
-2007-07,Gomez,9
-2007-07,Jill Scott,5
-2007-08,Barenaked Ladies,9
-2007-08,Beat Happening,11
-2007-08,Belle And Sebastian,27
-2007-08,Bill Frisell,11
-2007-08,Bob Dylan,38
-2007-08,Bob Mould,6
-2007-08,Bonnie 'Prince' Billy,11
-2007-08,Brad Mehldau,18
-2007-08,Bruce Springsteen,41
-2007-08,Chick Corea Elektric Band,9
-2007-08,Cream,11
-2007-08,David Bowie,36
-2007-08,Eagles,5
-2007-08,Elvis Costello,29
-2007-08,Elvis Costello & The Attractions,27
-2007-08,Emmylou Harris,10
-2007-08,Freakwater,12
-2007-08,George Harrison,16
-2007-08,Gomez,18
-2007-08,Jill Scott,4
-2007-09,Barenaked Ladies,11
-2007-09,Beat Happening,10
-2007-09,Belle And Sebastian,18
-2007-09,Bill Frisell,19
-2007-09,Bob Dylan,30
-2007-09,Bob Mould,7
-2007-09,Bonnie 'Prince' Billy,10
-2007-09,Brad Mehldau,17
-2007-09,Bruce Springsteen,29
-2007-09,Chick Corea Elektric Band,7
-2007-09,Cream,9
-2007-09,David Bowie,19
-2007-09,Eagles,2
-2007-09,Elvis Costello,43
-2007-09,Elvis Costello & The Attractions,15
-2007-09,Emmylou Harris,18
-2007-09,Freakwater,10
-2007-09,George Harrison,18
-2007-09,Gomez,11
-2007-09,Jill Scott,3
-2007-10,Barenaked Ladies,15
-2007-10,Beat Happening,14
-2007-10,Belle And Sebastian,29
-2007-10,Bill Frisell,20
-2007-10,Bob Dylan,40
-2007-10,Bob Mould,9
-2007-10,Bonnie 'Prince' Billy,16
-2007-10,Brad Mehldau,13
-2007-10,Bruce Springsteen,26
-2007-10,Chick Corea Elektric Band,9
-2007-10,Cream,11
-2007-10,David Bowie,28
-2007-10,Eagles,9
-2007-10,Elvis Costello,27
-2007-10,Elvis Costello & The Attractions,17
-2007-10,Emmylou Harris,15
-2007-10,Freakwater,8
-2007-10,George Harrison,22
-2007-10,Gomez,8
-2007-10,Jill Scott,3
-2007-11,Barenaked Ladies,4
-2007-11,Beat Happening,10
-2007-11,Belle And Sebastian,10
-2007-11,Bill Frisell,7
-2007-11,Bob Dylan,44
-2007-11,Bob Mould,5
-2007-11,Bonnie 'Prince' Billy,7
-2007-11,Brad Mehldau,13
-2007-11,Bruce Springsteen,15
-2007-11,Chick Corea Elektric Band,5
-2007-11,Cream,6
-2007-11,David Bowie,10
-2007-11,Eagles,10
-2007-11,Elvis Costello,26
-2007-11,Elvis Costello & The Attractions,18
-2007-11,Emmylou Harris,6
-2007-11,Freakwater,5
-2007-11,George Harrison,23
-2007-11,Gomez,7
-2007-11,Jill Scott,2
-2007-12,Barenaked Ladies,3
-2007-12,Beat Happening,5
-2007-12,Belle And Sebastian,7
-2007-12,Bill Frisell,8
-2007-12,Bob Dylan,36
-2007-12,Bob Mould,4
-2007-12,Bonnie 'Prince' Billy,8
-2007-12,Brad Mehldau,6
-2007-12,Bruce Springsteen,14
-2007-12,Chick Corea Elektric Band,3
-2007-12,Cream,6
-2007-12,David Bowie,17
-2007-12,Eagles,6
-2007-12,Elvis Costello,14
-2007-12,Elvis Costello & The Attractions,10
-2007-12,Emmylou Harris,11
-2007-12,Freakwater,4
-2007-12,George Harrison,12
-2007-12,Gomez,8
-2007-12,Jill Scott,2
-2008-01,Barenaked Ladies,4
-2008-01,Beat Happening,6
-2008-01,Belle And Sebastian,14
-2008-01,Bill Frisell,8
-2008-01,Bob Dylan,37
-2008-01,Bob Mould,9
-2008-01,Bonnie 'Prince' Billy,12
-2008-01,Brad Mehldau,6
-2008-01,Bruce Springsteen,19
-2008-01,Chick Corea Elektric Band,2
-2008-01,Cream,10
-2008-01,David Bowie,14
-2008-01,Eagles,6
-2008-01,Elvis Costello,28
-2008-01,Elvis Costello & The Attractions,4
-2008-01,Emmylou Harris,4
-2008-01,Freakwater,7
-2008-01,George Harrison,5
-2008-01,Gomez,7
-2008-01,Jill Scott,1
-2008-02,Barenaked Ladies,1
-2008-02,Beat Happening,1
-2008-02,Belle And Sebastian,6
-2008-02,Bill Frisell,6
-2008-02,Bob Dylan,19
-2008-02,Bob Mould,2
-2008-02,Bonnie 'Prince' Billy,2
-2008-02,Brad Mehldau,8
-2008-02,Bruce Springsteen,6
-2008-02,Chick Corea Elektric Band,3
-2008-02,Cream,3
-2008-02,David Bowie,5
-2008-02,Eagles,2
-2008-02,Elvis Costello,16
-2008-02,Elvis Costello & The Attractions,5
-2008-02,Emmylou Harris,7
-2008-02,Freakwater,4
-2008-02,George Harrison,9
-2008-02,Gomez,8
-2008-02,Jill Scott,1
-2008-03,Barenaked Ladies,3
-2008-03,Beat Happening,5
-2008-03,Belle And Sebastian,4
-2008-03,Bill Frisell,2
-2008-03,Bob Dylan,22
-2008-03,Bob Mould,4
-2008-03,Bonnie 'Prince' Billy,2
-2008-03,Brad Mehldau,1
-2008-03,Bruce Springsteen,14
-2008-03,Chick Corea Elektric Band,5
-2008-03,Cream,7
-2008-03,David Bowie,10
-2008-03,Eagles,3
-2008-03,Elvis Costello,12
-2008-03,Elvis Costello & The Attractions,7
-2008-03,Emmylou Harris,4
-2008-03,Freakwater,4
-2008-03,George Harrison,5
-2008-03,Gomez,3
-2008-03,Jill Scott,1
-2008-04,Barenaked Ladies,5
-2008-04,Beat Happening,3
-2008-04,Belle And Sebastian,8
-2008-04,Bill Frisell,6
-2008-04,Bob Dylan,31
-2008-04,Bob Mould,8
-2008-04,Bonnie 'Prince' Billy,4
-2008-04,Brad Mehldau,8
-2008-04,Bruce Springsteen,21
-2008-04,Chick Corea Elektric Band,3
-2008-04,Cream,12
-2008-04,David Bowie,17
-2008-04,Eagles,7
-2008-04,Elvis Costello,23
-2008-04,Elvis Costello & The Attractions,8
-2008-04,Emmylou Harris,7
-2008-04,Freakwater,4
-2008-04,George Harrison,12
-2008-04,Gomez,6
-2008-04,Jill Scott,2
-2008-05,Barenaked Ladies,5
-2008-05,Beat Happening,4
-2008-05,Belle And Sebastian,9
-2008-05,Bill Frisell,9
-2008-05,Bob Dylan,39
-2008-05,Bob Mould,23
-2008-05,Bonnie 'Prince' Billy,4
-2008-05,Brad Mehldau,7
-2008-05,Bruce Springsteen,18
-2008-05,Chick Corea Elektric Band,1
-2008-05,Cream,7
-2008-05,David Bowie,11
-2008-05,Eagles,7
-2008-05,Elvis Costello,14
-2008-05,Elvis Costello & The Attractions,7
-2008-05,Emmylou Harris,8
-2008-05,Freakwater,5
-2008-05,George Harrison,9
-2008-05,Gomez,2
-2008-05,Jill Scott,5
-2008-06,Barenaked Ladies,5
-2008-06,Beat Happening,6
-2008-06,Belle And Sebastian,15
-2008-06,Bill Frisell,3
-2008-06,Bob Dylan,29
-2008-06,Bob Mould,4
-2008-06,Bonnie 'Prince' Billy,11
-2008-06,Brad Mehldau,8
-2008-06,Bruce Springsteen,12
-2008-06,Chick Corea Elektric Band,6
-2008-06,Cream,10
-2008-06,David Bowie,18
-2008-06,Eagles,4
-2008-06,Elvis Costello,21
-2008-06,Elvis Costello & The Attractions,17
-2008-06,Emmylou Harris,11
-2008-06,Freakwater,4
-2008-06,George Harrison,13
-2008-06,Gomez,6
-2008-06,Jill Scott,1
-2008-07,Barenaked Ladies,3
-2008-07,Beat Happening,7
-2008-07,Belle And Sebastian,7
-2008-07,Bill Frisell,8
-2008-07,Bob Dylan,33
-2008-07,Bob Mould,3
-2008-07,Bonnie 'Prince' Billy,5
-2008-07,Brad Mehldau,7
-2008-07,Bruce Springsteen,13
-2008-07,Chick Corea Elektric Band,7
-2008-07,Cream,5
-2008-07,David Bowie,11
-2008-07,Eagles,4
-2008-07,Elvis Costello,10
-2008-07,Elvis Costello & The Attractions,8
-2008-07,Emmylou Harris,4
-2008-07,Freakwater,3
-2008-07,George Harrison,9
-2008-07,Gomez,9
-2008-07,Jill Scott,4
-2008-08,Barenaked Ladies,3
-2008-08,Beat Happening,2
-2008-08,Belle And Sebastian,7
-2008-08,Bill Frisell,3
-2008-08,Bob Dylan,9
-2008-08,Bob Mould,1
-2008-08,Bonnie 'Prince' Billy,3
-2008-08,Brad Mehldau,6
-2008-08,Bruce Springsteen,6
-2008-08,Chick Corea Elektric Band,1
-2008-08,Cream,4
-2008-08,David Bowie,4
-2008-08,Eagles,2
-2008-08,Elvis Costello,6
-2008-08,Elvis Costello & The Attractions,7
-2008-08,Emmylou Harris,3
-2008-08,Freakwater,3
-2008-08,George Harrison,5
-2008-08,Gomez,4
-2008-08,Jill Scott,3
-2008-09,Barenaked Ladies,1
-2008-09,Beat Happening,3
-2008-09,Belle And Sebastian,5
-2008-09,Bill Frisell,2
-2008-09,Bob Dylan,15
-2008-09,Bob Mould,3
-2008-09,Bonnie 'Prince' Billy,9
-2008-09,Brad Mehldau,3
-2008-09,Bruce Springsteen,7
-2008-09,Chick Corea Elektric Band,3
-2008-09,Cream,3
-2008-09,David Bowie,9
-2008-09,Eagles,3
-2008-09,Elvis Costello,10
-2008-09,Elvis Costello & The Attractions,6
-2008-09,Emmylou Harris,4
-2008-09,Freakwater,3
-2008-09,George Harrison,9
-2008-09,Gomez,3
-2008-09,Jill Scott,1
-2008-10,Barenaked Ladies,5
-2008-10,Beat Happening,6
-2008-10,Belle And Sebastian,9
-2008-10,Bill Frisell,10
-2008-10,Bob Dylan,43
-2008-10,Bob Mould,4
-2008-10,Bonnie 'Prince' Billy,7
-2008-10,Brad Mehldau,10
-2008-10,Bruce Springsteen,16
-2008-10,Chick Corea Elektric Band,3
-2008-10,Cream,8
-2008-10,David Bowie,10
-2008-10,Eagles,3
-2008-10,Elvis Costello,24
-2008-10,Elvis Costello & The Attractions,4
-2008-10,Emmylou Harris,11
-2008-10,Freakwater,2
-2008-10,George Harrison,7
-2008-10,Gomez,11
-2008-10,Jill Scott,1
-2008-11,Barenaked Ladies,4
-2008-11,Beat Happening,6
-2008-11,Belle And Sebastian,16
-2008-11,Bill Frisell,5
-2008-11,Bob Dylan,32
-2008-11,Bob Mould,2
-2008-11,Bonnie 'Prince' Billy,11
-2008-11,Brad Mehldau,8
-2008-11,Bruce Springsteen,18
-2008-11,Chick Corea Elektric Band,3
-2008-11,Cream,8
-2008-11,David Bowie,12
-2008-11,Eagles,7
-2008-11,Elvis Costello,17
-2008-11,Elvis Costello & The Attractions,13
-2008-11,Emmylou Harris,8
-2008-11,Freakwater,3
-2008-11,George Harrison,4
-2008-11,Gomez,7
-2008-11,Jill Scott,3
-2008-12,Barenaked Ladies,4
-2008-12,Beat Happening,1
-2008-12,Belle And Sebastian,9
-2008-12,Bill Frisell,5
-2008-12,Bob Dylan,24
-2008-12,Bob Mould,6
-2008-12,Bonnie 'Prince' Billy,4
-2008-12,Brad Mehldau,5
-2008-12,Bruce Springsteen,11
-2008-12,Chick Corea Elektric Band,3
-2008-12,Cream,4
-2008-12,David Bowie,2
-2008-12,Eagles,6
-2008-12,Elvis Costello,8
-2008-12,Elvis Costello & The Attractions,7
-2008-12,Emmylou Harris,7
-2008-12,Freakwater,3
-2008-12,George Harrison,5
-2008-12,Gomez,5
-2008-12,Jill Scott,1
-2009-01,Barenaked Ladies,3
-2009-01,Beat Happening,6
-2009-01,Belle And Sebastian,5
-2009-01,Bill Frisell,4
-2009-01,Bob Dylan,18
-2009-01,Bob Mould,3
-2009-01,Bonnie 'Prince' Billy,4
-2009-01,Brad Mehldau,5
-2009-01,Bruce Springsteen,9
-2009-01,Chick Corea Elektric Band,2
-2009-01,Cream,2
-2009-01,David Bowie,12
-2009-01,Eagles,2
-2009-01,Elvis Costello,7
-2009-01,Elvis Costello & The Attractions,7
-2009-01,Emmylou Harris,4
-2009-01,Freakwater,5
-2009-01,George Harrison,5
-2009-01,Gomez,3
-2009-01,Jill Scott,1
-2009-02,Barenaked Ladies,1
-2009-02,Beat Happening,2
-2009-02,Belle And Sebastian,4
-2009-02,Bill Frisell,4
-2009-02,Bob Dylan,13
-2009-02,Bob Mould,3
-2009-02,Bonnie 'Prince' Billy,1
-2009-02,Brad Mehldau,2
-2009-02,Bruce Springsteen,6
-2009-02,Chick Corea Elektric Band,1
-2009-02,Cream,3
-2009-02,David Bowie,7
-2009-02,Eagles,3
-2009-02,Elvis Costello,11
-2009-02,Elvis Costello & The Attractions,6
-2009-02,Emmylou Harris,4
-2009-02,Freakwater,2
-2009-02,George Harrison,2
-2009-02,Gomez,1
-2009-02,Jill Scott,3
-2009-03,Barenaked Ladies,4
-2009-03,Beat Happening,5
-2009-03,Belle And Sebastian,6
-2009-03,Bill Frisell,12
-2009-03,Bob Dylan,37
-2009-03,Bob Mould,6
-2009-03,Bonnie 'Prince' Billy,9
-2009-03,Brad Mehldau,7
-2009-03,Bruce Springsteen,12
-2009-03,Chick Corea Elektric Band,4
-2009-03,Cream,9
-2009-03,David Bowie,12
-2009-03,Eagles,6
-2009-03,Elvis Costello,18
-2009-03,Elvis Costello & The Attractions,17
-2009-03,Emmylou Harris,6
-2009-03,Freakwater,4
-2009-03,George Harrison,12
-2009-03,Gomez,8
-2009-03,Jill Scott,3
-2009-04,Barenaked Ladies,1
-2009-04,Beat Happening,3
-2009-04,Belle And Sebastian,1
-2009-04,Bill Frisell,2
-2009-04,Bob Dylan,1
-2009-04,Bob Mould,1
-2009-04,Bonnie 'Prince' Billy,1
-2009-04,Brad Mehldau,1
-2009-04,Bruce Springsteen,1
-2009-04,Chick Corea Elektric Band,1
-2009-04,Cream,2
-2009-04,David Bowie,1
-2009-04,Eagles,1
-2009-04,Elvis Costello,4
-2009-04,Elvis Costello & The Attractions,1
-2009-04,Emmylou Harris,1
-2009-04,Freakwater,1
-2009-04,George Harrison,1
-2009-04,Gomez,1
-2009-04,Jill Scott,1
+"month","artist","plays"
+"2007-05","Barenaked Ladies",1
+"2007-05","Beat Happening",3
+"2007-05","Belle And Sebastian",2
+"2007-05","Bill Frisell",4
+"2007-05","Bob Dylan",3
+"2007-05","Bob Mould",2
+"2007-05","Bonnie 'Prince' Billy",1
+"2007-05","Brad Mehldau",4
+"2007-05","Bruce Springsteen",3
+"2007-05","Chick Corea Elektric Band",1
+"2007-05","Cream",5
+"2007-05","David Bowie",3
+"2007-05","Eagles",1
+"2007-05","Elvis Costello",3
+"2007-05","Elvis Costello & The Attractions",4
+"2007-05","Emmylou Harris",1
+"2007-05","Freakwater",2
+"2007-05","George Harrison",3
+"2007-05","Gomez",3
+"2007-05","Jill Scott",3
+"2007-06","Barenaked Ladies",9
+"2007-06","Beat Happening",3
+"2007-06","Belle And Sebastian",10
+"2007-06","Bill Frisell",12
+"2007-06","Bob Dylan",18
+"2007-06","Bob Mould",3
+"2007-06","Bonnie 'Prince' Billy",11
+"2007-06","Brad Mehldau",3
+"2007-06","Bruce Springsteen",10
+"2007-06","Chick Corea Elektric Band",4
+"2007-06","Cream",5
+"2007-06","David Bowie",7
+"2007-06","Eagles",2
+"2007-06","Elvis Costello",16
+"2007-06","Elvis Costello & The Attractions",10
+"2007-06","Emmylou Harris",7
+"2007-06","Freakwater",2
+"2007-06","George Harrison",4
+"2007-06","Gomez",5
+"2007-06","Jill Scott",3
+"2007-07","Barenaked Ladies",3
+"2007-07","Beat Happening",5
+"2007-07","Belle And Sebastian",12
+"2007-07","Bill Frisell",9
+"2007-07","Bob Dylan",31
+"2007-07","Bob Mould",1
+"2007-07","Bonnie 'Prince' Billy",8
+"2007-07","Brad Mehldau",14
+"2007-07","Bruce Springsteen",20
+"2007-07","Chick Corea Elektric Band",2
+"2007-07","Cream",9
+"2007-07","David Bowie",15
+"2007-07","Eagles",4
+"2007-07","Elvis Costello",22
+"2007-07","Elvis Costello & The Attractions",19
+"2007-07","Emmylou Harris",13
+"2007-07","Freakwater",8
+"2007-07","George Harrison",18
+"2007-07","Gomez",9
+"2007-07","Jill Scott",5
+"2007-08","Barenaked Ladies",9
+"2007-08","Beat Happening",11
+"2007-08","Belle And Sebastian",27
+"2007-08","Bill Frisell",11
+"2007-08","Bob Dylan",38
+"2007-08","Bob Mould",6
+"2007-08","Bonnie 'Prince' Billy",11
+"2007-08","Brad Mehldau",18
+"2007-08","Bruce Springsteen",41
+"2007-08","Chick Corea Elektric Band",9
+"2007-08","Cream",11
+"2007-08","David Bowie",36
+"2007-08","Eagles",5
+"2007-08","Elvis Costello",29
+"2007-08","Elvis Costello & The Attractions",27
+"2007-08","Emmylou Harris",10
+"2007-08","Freakwater",12
+"2007-08","George Harrison",16
+"2007-08","Gomez",18
+"2007-08","Jill Scott",4
+"2007-09","Barenaked Ladies",11
+"2007-09","Beat Happening",10
+"2007-09","Belle And Sebastian",18
+"2007-09","Bill Frisell",19
+"2007-09","Bob Dylan",30
+"2007-09","Bob Mould",7
+"2007-09","Bonnie 'Prince' Billy",10
+"2007-09","Brad Mehldau",17
+"2007-09","Bruce Springsteen",29
+"2007-09","Chick Corea Elektric Band",7
+"2007-09","Cream",9
+"2007-09","David Bowie",19
+"2007-09","Eagles",2
+"2007-09","Elvis Costello",43
+"2007-09","Elvis Costello & The Attractions",15
+"2007-09","Emmylou Harris",18
+"2007-09","Freakwater",10
+"2007-09","George Harrison",18
+"2007-09","Gomez",11
+"2007-09","Jill Scott",3
+"2007-10","Barenaked Ladies",15
+"2007-10","Beat Happening",14
+"2007-10","Belle And Sebastian",29
+"2007-10","Bill Frisell",20
+"2007-10","Bob Dylan",40
+"2007-10","Bob Mould",9
+"2007-10","Bonnie 'Prince' Billy",16
+"2007-10","Brad Mehldau",13
+"2007-10","Bruce Springsteen",26
+"2007-10","Chick Corea Elektric Band",9
+"2007-10","Cream",11
+"2007-10","David Bowie",28
+"2007-10","Eagles",9
+"2007-10","Elvis Costello",27
+"2007-10","Elvis Costello & The Attractions",17
+"2007-10","Emmylou Harris",15
+"2007-10","Freakwater",8
+"2007-10","George Harrison",22
+"2007-10","Gomez",8
+"2007-10","Jill Scott",3
+"2007-11","Barenaked Ladies",4
+"2007-11","Beat Happening",10
+"2007-11","Belle And Sebastian",10
+"2007-11","Bill Frisell",7
+"2007-11","Bob Dylan",44
+"2007-11","Bob Mould",5
+"2007-11","Bonnie 'Prince' Billy",7
+"2007-11","Brad Mehldau",13
+"2007-11","Bruce Springsteen",15
+"2007-11","Chick Corea Elektric Band",5
+"2007-11","Cream",6
+"2007-11","David Bowie",10
+"2007-11","Eagles",10
+"2007-11","Elvis Costello",26
+"2007-11","Elvis Costello & The Attractions",18
+"2007-11","Emmylou Harris",6
+"2007-11","Freakwater",5
+"2007-11","George Harrison",23
+"2007-11","Gomez",7
+"2007-11","Jill Scott",2
+"2007-12","Barenaked Ladies",3
+"2007-12","Beat Happening",5
+"2007-12","Belle And Sebastian",7
+"2007-12","Bill Frisell",8
+"2007-12","Bob Dylan",36
+"2007-12","Bob Mould",4
+"2007-12","Bonnie 'Prince' Billy",8
+"2007-12","Brad Mehldau",6
+"2007-12","Bruce Springsteen",14
+"2007-12","Chick Corea Elektric Band",3
+"2007-12","Cream",6
+"2007-12","David Bowie",17
+"2007-12","Eagles",6
+"2007-12","Elvis Costello",14
+"2007-12","Elvis Costello & The Attractions",10
+"2007-12","Emmylou Harris",11
+"2007-12","Freakwater",4
+"2007-12","George Harrison",12
+"2007-12","Gomez",8
+"2007-12","Jill Scott",2
+"2008-01","Barenaked Ladies",4
+"2008-01","Beat Happening",6
+"2008-01","Belle And Sebastian",14
+"2008-01","Bill Frisell",8
+"2008-01","Bob Dylan",37
+"2008-01","Bob Mould",9
+"2008-01","Bonnie 'Prince' Billy",12
+"2008-01","Brad Mehldau",6
+"2008-01","Bruce Springsteen",19
+"2008-01","Chick Corea Elektric Band",2
+"2008-01","Cream",10
+"2008-01","David Bowie",14
+"2008-01","Eagles",6
+"2008-01","Elvis Costello",28
+"2008-01","Elvis Costello & The Attractions",4
+"2008-01","Emmylou Harris",4
+"2008-01","Freakwater",7
+"2008-01","George Harrison",5
+"2008-01","Gomez",7
+"2008-01","Jill Scott",1
+"2008-02","Barenaked Ladies",1
+"2008-02","Beat Happening",1
+"2008-02","Belle And Sebastian",6
+"2008-02","Bill Frisell",6
+"2008-02","Bob Dylan",19
+"2008-02","Bob Mould",2
+"2008-02","Bonnie 'Prince' Billy",2
+"2008-02","Brad Mehldau",8
+"2008-02","Bruce Springsteen",6
+"2008-02","Chick Corea Elektric Band",3
+"2008-02","Cream",3
+"2008-02","David Bowie",5
+"2008-02","Eagles",2
+"2008-02","Elvis Costello",16
+"2008-02","Elvis Costello & The Attractions",5
+"2008-02","Emmylou Harris",7
+"2008-02","Freakwater",4
+"2008-02","George Harrison",9
+"2008-02","Gomez",8
+"2008-02","Jill Scott",1
+"2008-03","Barenaked Ladies",3
+"2008-03","Beat Happening",5
+"2008-03","Belle And Sebastian",4
+"2008-03","Bill Frisell",2
+"2008-03","Bob Dylan",22
+"2008-03","Bob Mould",4
+"2008-03","Bonnie 'Prince' Billy",2
+"2008-03","Brad Mehldau",1
+"2008-03","Bruce Springsteen",14
+"2008-03","Chick Corea Elektric Band",5
+"2008-03","Cream",7
+"2008-03","David Bowie",10
+"2008-03","Eagles",3
+"2008-03","Elvis Costello",12
+"2008-03","Elvis Costello & The Attractions",7
+"2008-03","Emmylou Harris",4
+"2008-03","Freakwater",4
+"2008-03","George Harrison",5
+"2008-03","Gomez",3
+"2008-03","Jill Scott",1
+"2008-04","Barenaked Ladies",5
+"2008-04","Beat Happening",3
+"2008-04","Belle And Sebastian",8
+"2008-04","Bill Frisell",6
+"2008-04","Bob Dylan",31
+"2008-04","Bob Mould",8
+"2008-04","Bonnie 'Prince' Billy",4
+"2008-04","Brad Mehldau",8
+"2008-04","Bruce Springsteen",21
+"2008-04","Chick Corea Elektric Band",3
+"2008-04","Cream",12
+"2008-04","David Bowie",17
+"2008-04","Eagles",7
+"2008-04","Elvis Costello",23
+"2008-04","Elvis Costello & The Attractions",8
+"2008-04","Emmylou Harris",7
+"2008-04","Freakwater",4
+"2008-04","George Harrison",12
+"2008-04","Gomez",6
+"2008-04","Jill Scott",2
+"2008-05","Barenaked Ladies",5
+"2008-05","Beat Happening",4
+"2008-05","Belle And Sebastian",9
+"2008-05","Bill Frisell",9
+"2008-05","Bob Dylan",39
+"2008-05","Bob Mould",23
+"2008-05","Bonnie 'Prince' Billy",4
+"2008-05","Brad Mehldau",7
+"2008-05","Bruce Springsteen",18
+"2008-05","Chick Corea Elektric Band",1
+"2008-05","Cream",7
+"2008-05","David Bowie",11
+"2008-05","Eagles",7
+"2008-05","Elvis Costello",14
+"2008-05","Elvis Costello & The Attractions",7
+"2008-05","Emmylou Harris",8
+"2008-05","Freakwater",5
+"2008-05","George Harrison",9
+"2008-05","Gomez",2
+"2008-05","Jill Scott",5
+"2008-06","Barenaked Ladies",5
+"2008-06","Beat Happening",6
+"2008-06","Belle And Sebastian",15
+"2008-06","Bill Frisell",3
+"2008-06","Bob Dylan",29
+"2008-06","Bob Mould",4
+"2008-06","Bonnie 'Prince' Billy",11
+"2008-06","Brad Mehldau",8
+"2008-06","Bruce Springsteen",12
+"2008-06","Chick Corea Elektric Band",6
+"2008-06","Cream",10
+"2008-06","David Bowie",18
+"2008-06","Eagles",4
+"2008-06","Elvis Costello",21
+"2008-06","Elvis Costello & The Attractions",17
+"2008-06","Emmylou Harris",11
+"2008-06","Freakwater",4
+"2008-06","George Harrison",13
+"2008-06","Gomez",6
+"2008-06","Jill Scott",1
+"2008-07","Barenaked Ladies",3
+"2008-07","Beat Happening",7
+"2008-07","Belle And Sebastian",7
+"2008-07","Bill Frisell",8
+"2008-07","Bob Dylan",33
+"2008-07","Bob Mould",3
+"2008-07","Bonnie 'Prince' Billy",5
+"2008-07","Brad Mehldau",7
+"2008-07","Bruce Springsteen",13
+"2008-07","Chick Corea Elektric Band",7
+"2008-07","Cream",5
+"2008-07","David Bowie",11
+"2008-07","Eagles",4
+"2008-07","Elvis Costello",10
+"2008-07","Elvis Costello & The Attractions",8
+"2008-07","Emmylou Harris",4
+"2008-07","Freakwater",3
+"2008-07","George Harrison",9
+"2008-07","Gomez",9
+"2008-07","Jill Scott",4
+"2008-08","Barenaked Ladies",3
+"2008-08","Beat Happening",2
+"2008-08","Belle And Sebastian",7
+"2008-08","Bill Frisell",3
+"2008-08","Bob Dylan",9
+"2008-08","Bob Mould",1
+"2008-08","Bonnie 'Prince' Billy",3
+"2008-08","Brad Mehldau",6
+"2008-08","Bruce Springsteen",6
+"2008-08","Chick Corea Elektric Band",1
+"2008-08","Cream",4
+"2008-08","David Bowie",4
+"2008-08","Eagles",2
+"2008-08","Elvis Costello",6
+"2008-08","Elvis Costello & The Attractions",7
+"2008-08","Emmylou Harris",3
+"2008-08","Freakwater",3
+"2008-08","George Harrison",5
+"2008-08","Gomez",4
+"2008-08","Jill Scott",3
+"2008-09","Barenaked Ladies",1
+"2008-09","Beat Happening",3
+"2008-09","Belle And Sebastian",5
+"2008-09","Bill Frisell",2
+"2008-09","Bob Dylan",15
+"2008-09","Bob Mould",3
+"2008-09","Bonnie 'Prince' Billy",9
+"2008-09","Brad Mehldau",3
+"2008-09","Bruce Springsteen",7
+"2008-09","Chick Corea Elektric Band",3
+"2008-09","Cream",3
+"2008-09","David Bowie",9
+"2008-09","Eagles",3
+"2008-09","Elvis Costello",10
+"2008-09","Elvis Costello & The Attractions",6
+"2008-09","Emmylou Harris",4
+"2008-09","Freakwater",3
+"2008-09","George Harrison",9
+"2008-09","Gomez",3
+"2008-09","Jill Scott",1
+"2008-10","Barenaked Ladies",5
+"2008-10","Beat Happening",6
+"2008-10","Belle And Sebastian",9
+"2008-10","Bill Frisell",10
+"2008-10","Bob Dylan",43
+"2008-10","Bob Mould",4
+"2008-10","Bonnie 'Prince' Billy",7
+"2008-10","Brad Mehldau",10
+"2008-10","Bruce Springsteen",16
+"2008-10","Chick Corea Elektric Band",3
+"2008-10","Cream",8
+"2008-10","David Bowie",10
+"2008-10","Eagles",3
+"2008-10","Elvis Costello",24
+"2008-10","Elvis Costello & The Attractions",4
+"2008-10","Emmylou Harris",11
+"2008-10","Freakwater",2
+"2008-10","George Harrison",7
+"2008-10","Gomez",11
+"2008-10","Jill Scott",1
+"2008-11","Barenaked Ladies",4
+"2008-11","Beat Happening",6
+"2008-11","Belle And Sebastian",16
+"2008-11","Bill Frisell",5
+"2008-11","Bob Dylan",32
+"2008-11","Bob Mould",2
+"2008-11","Bonnie 'Prince' Billy",11
+"2008-11","Brad Mehldau",8
+"2008-11","Bruce Springsteen",18
+"2008-11","Chick Corea Elektric Band",3
+"2008-11","Cream",8
+"2008-11","David Bowie",12
+"2008-11","Eagles",7
+"2008-11","Elvis Costello",17
+"2008-11","Elvis Costello & The Attractions",13
+"2008-11","Emmylou Harris",8
+"2008-11","Freakwater",3
+"2008-11","George Harrison",4
+"2008-11","Gomez",7
+"2008-11","Jill Scott",3
+"2008-12","Barenaked Ladies",4
+"2008-12","Beat Happening",1
+"2008-12","Belle And Sebastian",9
+"2008-12","Bill Frisell",5
+"2008-12","Bob Dylan",24
+"2008-12","Bob Mould",6
+"2008-12","Bonnie 'Prince' Billy",4
+"2008-12","Brad Mehldau",5
+"2008-12","Bruce Springsteen",11
+"2008-12","Chick Corea Elektric Band",3
+"2008-12","Cream",4
+"2008-12","David Bowie",2
+"2008-12","Eagles",6
+"2008-12","Elvis Costello",8
+"2008-12","Elvis Costello & The Attractions",7
+"2008-12","Emmylou Harris",7
+"2008-12","Freakwater",3
+"2008-12","George Harrison",5
+"2008-12","Gomez",5
+"2008-12","Jill Scott",1
+"2009-01","Barenaked Ladies",3
+"2009-01","Beat Happening",6
+"2009-01","Belle And Sebastian",5
+"2009-01","Bill Frisell",4
+"2009-01","Bob Dylan",18
+"2009-01","Bob Mould",3
+"2009-01","Bonnie 'Prince' Billy",4
+"2009-01","Brad Mehldau",5
+"2009-01","Bruce Springsteen",9
+"2009-01","Chick Corea Elektric Band",2
+"2009-01","Cream",2
+"2009-01","David Bowie",12
+"2009-01","Eagles",2
+"2009-01","Elvis Costello",7
+"2009-01","Elvis Costello & The Attractions",7
+"2009-01","Emmylou Harris",4
+"2009-01","Freakwater",5
+"2009-01","George Harrison",5
+"2009-01","Gomez",3
+"2009-01","Jill Scott",1
+"2009-02","Barenaked Ladies",1
+"2009-02","Beat Happening",2
+"2009-02","Belle And Sebastian",4
+"2009-02","Bill Frisell",4
+"2009-02","Bob Dylan",13
+"2009-02","Bob Mould",3
+"2009-02","Bonnie 'Prince' Billy",1
+"2009-02","Brad Mehldau",2
+"2009-02","Bruce Springsteen",6
+"2009-02","Chick Corea Elektric Band",1
+"2009-02","Cream",3
+"2009-02","David Bowie",7
+"2009-02","Eagles",3
+"2009-02","Elvis Costello",11
+"2009-02","Elvis Costello & The Attractions",6
+"2009-02","Emmylou Harris",4
+"2009-02","Freakwater",2
+"2009-02","George Harrison",2
+"2009-02","Gomez",1
+"2009-02","Jill Scott",3
+"2009-03","Barenaked Ladies",4
+"2009-03","Beat Happening",5
+"2009-03","Belle And Sebastian",6
+"2009-03","Bill Frisell",12
+"2009-03","Bob Dylan",37
+"2009-03","Bob Mould",6
+"2009-03","Bonnie 'Prince' Billy",9
+"2009-03","Brad Mehldau",7
+"2009-03","Bruce Springsteen",12
+"2009-03","Chick Corea Elektric Band",4
+"2009-03","Cream",9
+"2009-03","David Bowie",12
+"2009-03","Eagles",6
+"2009-03","Elvis Costello",18
+"2009-03","Elvis Costello & The Attractions",17
+"2009-03","Emmylou Harris",6
+"2009-03","Freakwater",4
+"2009-03","George Harrison",12
+"2009-03","Gomez",8
+"2009-03","Jill Scott",3
+"2009-04","Barenaked Ladies",1
+"2009-04","Beat Happening",3
+"2009-04","Belle And Sebastian",1
+"2009-04","Bill Frisell",2
+"2009-04","Bob Dylan",1
+"2009-04","Bob Mould",1
+"2009-04","Bonnie 'Prince' Billy",1
+"2009-04","Brad Mehldau",1
+"2009-04","Bruce Springsteen",1
+"2009-04","Chick Corea Elektric Band",1
+"2009-04","Cream",2
+"2009-04","David Bowie",1
+"2009-04","Eagles",1
+"2009-04","Elvis Costello",4
+"2009-04","Elvis Costello & The Attractions",1
+"2009-04","Emmylou Harris",1
+"2009-04","Freakwater",1
+"2009-04","George Harrison",1
+"2009-04","Gomez",1
+"2009-04","Jill Scott",1

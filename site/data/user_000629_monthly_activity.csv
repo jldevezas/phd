@@ -1,561 +1,561 @@
-month,artist,plays
-2007-01,Air,1
-2007-01,Björk,1
-2007-01,Coldplay,1
-2007-01,De-Phazz,0
-2007-01,Goldfrapp,0
-2007-01,Groove Armada,1
-2007-01,Jazzanova,0
-2007-01,José González,0
-2007-01,Koop,2
-2007-01,Lamb,2
-2007-01,Massive Attack,1
-2007-01,Nightmares On Wax,1
-2007-01,Pink Floyd,0
-2007-01,Portishead,0
-2007-01,Sade,0
-2007-01,Sia,0
-2007-01,St. Germain,1
-2007-01,The Cinematic Orchestra,1
-2007-01,Thievery Corporation,1
-2007-01,Zero 7,0
-2007-02,Air,2
-2007-02,Björk,564
-2007-02,Coldplay,1
-2007-02,De-Phazz,0
-2007-02,Goldfrapp,2
-2007-02,Groove Armada,1
-2007-02,Jazzanova,0
-2007-02,José González,0
-2007-02,Koop,84
-2007-02,Lamb,1
-2007-02,Massive Attack,6
-2007-02,Nightmares On Wax,1
-2007-02,Pink Floyd,315
-2007-02,Portishead,3
-2007-02,Sade,1
-2007-02,Sia,2
-2007-02,St. Germain,0
-2007-02,The Cinematic Orchestra,0
-2007-02,Thievery Corporation,2
-2007-02,Zero 7,209
-2007-03,Air,1
-2007-03,Björk,1427
-2007-03,Coldplay,46
-2007-03,De-Phazz,0
-2007-03,Goldfrapp,0
-2007-03,Groove Armada,0
-2007-03,Jazzanova,0
-2007-03,José González,4
-2007-03,Koop,42
-2007-03,Lamb,1
-2007-03,Massive Attack,0
-2007-03,Nightmares On Wax,0
-2007-03,Pink Floyd,1169
-2007-03,Portishead,0
-2007-03,Sade,5
-2007-03,Sia,7
-2007-03,St. Germain,0
-2007-03,The Cinematic Orchestra,0
-2007-03,Thievery Corporation,0
-2007-03,Zero 7,63
-2007-04,Air,1
-2007-04,Björk,663
-2007-04,Coldplay,10
-2007-04,De-Phazz,1
-2007-04,Goldfrapp,0
-2007-04,Groove Armada,0
-2007-04,Jazzanova,0
-2007-04,José González,1
-2007-04,Koop,33
-2007-04,Lamb,0
-2007-04,Massive Attack,0
-2007-04,Nightmares On Wax,0
-2007-04,Pink Floyd,123
-2007-04,Portishead,1
-2007-04,Sade,1
-2007-04,Sia,3
-2007-04,St. Germain,0
-2007-04,The Cinematic Orchestra,50
-2007-04,Thievery Corporation,0
-2007-04,Zero 7,35
-2007-05,Air,3
-2007-05,Björk,37
-2007-05,Coldplay,1
-2007-05,De-Phazz,0
-2007-05,Goldfrapp,2
-2007-05,Groove Armada,2
-2007-05,Jazzanova,0
-2007-05,José González,1
-2007-05,Koop,0
-2007-05,Lamb,1
-2007-05,Massive Attack,2
-2007-05,Nightmares On Wax,3
-2007-05,Pink Floyd,35
-2007-05,Portishead,1
-2007-05,Sade,1
-2007-05,Sia,1
-2007-05,St. Germain,1
-2007-05,The Cinematic Orchestra,0
-2007-05,Thievery Corporation,1
-2007-05,Zero 7,4
-2007-06,Air,2
-2007-06,Björk,135
-2007-06,Coldplay,6
-2007-06,De-Phazz,3
-2007-06,Goldfrapp,1
-2007-06,Groove Armada,2
-2007-06,Jazzanova,1
-2007-06,José González,1
-2007-06,Koop,0
-2007-06,Lamb,2
-2007-06,Massive Attack,3
-2007-06,Nightmares On Wax,1
-2007-06,Pink Floyd,106
-2007-06,Portishead,2
-2007-06,Sade,3
-2007-06,Sia,2
-2007-06,St. Germain,188
-2007-06,The Cinematic Orchestra,15
-2007-06,Thievery Corporation,1
-2007-06,Zero 7,31
-2007-07,Air,0
-2007-07,Björk,166
-2007-07,Coldplay,0
-2007-07,De-Phazz,0
-2007-07,Goldfrapp,0
-2007-07,Groove Armada,0
-2007-07,Jazzanova,0
-2007-07,José González,0
-2007-07,Koop,0
-2007-07,Lamb,0
-2007-07,Massive Attack,0
-2007-07,Nightmares On Wax,0
-2007-07,Pink Floyd,0
-2007-07,Portishead,0
-2007-07,Sade,1
-2007-07,Sia,1
-2007-07,St. Germain,13
-2007-07,The Cinematic Orchestra,10
-2007-07,Thievery Corporation,0
-2007-07,Zero 7,0
-2007-08,Air,4
-2007-08,Björk,20
-2007-08,Coldplay,10
-2007-08,De-Phazz,6
-2007-08,Goldfrapp,2
-2007-08,Groove Armada,1
-2007-08,Jazzanova,0
-2007-08,José González,0
-2007-08,Koop,0
-2007-08,Lamb,0
-2007-08,Massive Attack,4
-2007-08,Nightmares On Wax,1
-2007-08,Pink Floyd,43
-2007-08,Portishead,1
-2007-08,Sade,3
-2007-08,Sia,2
-2007-08,St. Germain,3
-2007-08,The Cinematic Orchestra,4
-2007-08,Thievery Corporation,0
-2007-08,Zero 7,1
-2007-09,Air,5
-2007-09,Björk,2
-2007-09,Coldplay,5
-2007-09,De-Phazz,8
-2007-09,Goldfrapp,0
-2007-09,Groove Armada,7
-2007-09,Jazzanova,4
-2007-09,José González,1
-2007-09,Koop,3
-2007-09,Lamb,1
-2007-09,Massive Attack,7
-2007-09,Nightmares On Wax,1
-2007-09,Pink Floyd,84
-2007-09,Portishead,2
-2007-09,Sade,3
-2007-09,Sia,1
-2007-09,St. Germain,4
-2007-09,The Cinematic Orchestra,2
-2007-09,Thievery Corporation,2
-2007-09,Zero 7,0
-2007-10,Air,0
-2007-10,Björk,1
-2007-10,Coldplay,0
-2007-10,De-Phazz,1
-2007-10,Goldfrapp,0
-2007-10,Groove Armada,0
-2007-10,Jazzanova,4
-2007-10,José González,0
-2007-10,Koop,3
-2007-10,Lamb,0
-2007-10,Massive Attack,0
-2007-10,Nightmares On Wax,1
-2007-10,Pink Floyd,0
-2007-10,Portishead,0
-2007-10,Sade,0
-2007-10,Sia,0
-2007-10,St. Germain,4
-2007-10,The Cinematic Orchestra,4
-2007-10,Thievery Corporation,1
-2007-10,Zero 7,0
-2007-11,Air,0
-2007-11,Björk,0
-2007-11,Coldplay,0
-2007-11,De-Phazz,0
-2007-11,Goldfrapp,0
-2007-11,Groove Armada,0
-2007-11,Jazzanova,0
-2007-11,José González,0
-2007-11,Koop,0
-2007-11,Lamb,0
-2007-11,Massive Attack,0
-2007-11,Nightmares On Wax,0
-2007-11,Pink Floyd,0
-2007-11,Portishead,1
-2007-11,Sade,0
-2007-11,Sia,0
-2007-11,St. Germain,0
-2007-11,The Cinematic Orchestra,0
-2007-11,Thievery Corporation,0
-2007-11,Zero 7,0
-2007-12,Air,3
-2007-12,Björk,1
-2007-12,Coldplay,0
-2007-12,De-Phazz,0
-2007-12,Goldfrapp,0
-2007-12,Groove Armada,2
-2007-12,Jazzanova,0
-2007-12,José González,8
-2007-12,Koop,0
-2007-12,Lamb,7
-2007-12,Massive Attack,6
-2007-12,Nightmares On Wax,7
-2007-12,Pink Floyd,0
-2007-12,Portishead,0
-2007-12,Sade,1
-2007-12,Sia,0
-2007-12,St. Germain,4
-2007-12,The Cinematic Orchestra,1
-2007-12,Thievery Corporation,9
-2007-12,Zero 7,5
-2008-01,Air,2
-2008-01,Björk,0
-2008-01,Coldplay,1
-2008-01,De-Phazz,2
-2008-01,Goldfrapp,1
-2008-01,Groove Armada,2
-2008-01,Jazzanova,0
-2008-01,José González,0
-2008-01,Koop,1
-2008-01,Lamb,0
-2008-01,Massive Attack,2
-2008-01,Nightmares On Wax,0
-2008-01,Pink Floyd,0
-2008-01,Portishead,1
-2008-01,Sade,1
-2008-01,Sia,2
-2008-01,St. Germain,1
-2008-01,The Cinematic Orchestra,1
-2008-01,Thievery Corporation,1
-2008-01,Zero 7,2
-2008-02,Air,3
-2008-02,Björk,1
-2008-02,Coldplay,2
-2008-02,De-Phazz,0
-2008-02,Goldfrapp,1
-2008-02,Groove Armada,2
-2008-02,Jazzanova,3
-2008-02,José González,6
-2008-02,Koop,6
-2008-02,Lamb,4
-2008-02,Massive Attack,3
-2008-02,Nightmares On Wax,1
-2008-02,Pink Floyd,21
-2008-02,Portishead,5
-2008-02,Sade,2
-2008-02,Sia,0
-2008-02,St. Germain,11
-2008-02,The Cinematic Orchestra,3
-2008-02,Thievery Corporation,5
-2008-02,Zero 7,8
-2008-03,Air,0
-2008-03,Björk,8
-2008-03,Coldplay,4
-2008-03,De-Phazz,2
-2008-03,Goldfrapp,3
-2008-03,Groove Armada,2
-2008-03,Jazzanova,1
-2008-03,José González,0
-2008-03,Koop,0
-2008-03,Lamb,1
-2008-03,Massive Attack,0
-2008-03,Nightmares On Wax,0
-2008-03,Pink Floyd,0
-2008-03,Portishead,7
-2008-03,Sade,0
-2008-03,Sia,5
-2008-03,St. Germain,1
-2008-03,The Cinematic Orchestra,0
-2008-03,Thievery Corporation,1
-2008-03,Zero 7,2
-2008-04,Air,1
-2008-04,Björk,21
-2008-04,Coldplay,115
-2008-04,De-Phazz,1
-2008-04,Goldfrapp,2
-2008-04,Groove Armada,1
-2008-04,Jazzanova,1
-2008-04,José González,9
-2008-04,Koop,0
-2008-04,Lamb,2
-2008-04,Massive Attack,1
-2008-04,Nightmares On Wax,0
-2008-04,Pink Floyd,208
-2008-04,Portishead,14
-2008-04,Sade,4
-2008-04,Sia,5
-2008-04,St. Germain,4
-2008-04,The Cinematic Orchestra,2
-2008-04,Thievery Corporation,4
-2008-04,Zero 7,3
-2008-05,Air,1
-2008-05,Björk,25
-2008-05,Coldplay,192
-2008-05,De-Phazz,0
-2008-05,Goldfrapp,3
-2008-05,Groove Armada,0
-2008-05,Jazzanova,1
-2008-05,José González,8
-2008-05,Koop,3
-2008-05,Lamb,0
-2008-05,Massive Attack,0
-2008-05,Nightmares On Wax,0
-2008-05,Pink Floyd,7
-2008-05,Portishead,1
-2008-05,Sade,2
-2008-05,Sia,1
-2008-05,St. Germain,9
-2008-05,The Cinematic Orchestra,7
-2008-05,Thievery Corporation,3
-2008-05,Zero 7,4
-2008-06,Air,0
-2008-06,Björk,2
-2008-06,Coldplay,14
-2008-06,De-Phazz,0
-2008-06,Goldfrapp,7
-2008-06,Groove Armada,3
-2008-06,Jazzanova,0
-2008-06,José González,3
-2008-06,Koop,0
-2008-06,Lamb,2
-2008-06,Massive Attack,2
-2008-06,Nightmares On Wax,1
-2008-06,Pink Floyd,16
-2008-06,Portishead,3
-2008-06,Sade,0
-2008-06,Sia,3
-2008-06,St. Germain,3
-2008-06,The Cinematic Orchestra,1
-2008-06,Thievery Corporation,1
-2008-06,Zero 7,1
-2008-07,Air,14
-2008-07,Björk,13
-2008-07,Coldplay,5
-2008-07,De-Phazz,24
-2008-07,Goldfrapp,12
-2008-07,Groove Armada,7
-2008-07,Jazzanova,8
-2008-07,José González,0
-2008-07,Koop,18
-2008-07,Lamb,16
-2008-07,Massive Attack,2
-2008-07,Nightmares On Wax,1
-2008-07,Pink Floyd,1
-2008-07,Portishead,3
-2008-07,Sade,0
-2008-07,Sia,3
-2008-07,St. Germain,11
-2008-07,The Cinematic Orchestra,2
-2008-07,Thievery Corporation,3
-2008-07,Zero 7,1
-2008-08,Air,2
-2008-08,Björk,3
-2008-08,Coldplay,2
-2008-08,De-Phazz,13
-2008-08,Goldfrapp,5
-2008-08,Groove Armada,1
-2008-08,Jazzanova,12
-2008-08,José González,5
-2008-08,Koop,10
-2008-08,Lamb,2
-2008-08,Massive Attack,3
-2008-08,Nightmares On Wax,3
-2008-08,Pink Floyd,5
-2008-08,Portishead,1
-2008-08,Sade,4
-2008-08,Sia,2
-2008-08,St. Germain,8
-2008-08,The Cinematic Orchestra,11
-2008-08,Thievery Corporation,4
-2008-08,Zero 7,0
-2008-09,Air,0
-2008-09,Björk,0
-2008-09,Coldplay,0
-2008-09,De-Phazz,5
-2008-09,Goldfrapp,0
-2008-09,Groove Armada,0
-2008-09,Jazzanova,4
-2008-09,José González,0
-2008-09,Koop,4
-2008-09,Lamb,1
-2008-09,Massive Attack,2
-2008-09,Nightmares On Wax,0
-2008-09,Pink Floyd,5
-2008-09,Portishead,2
-2008-09,Sade,0
-2008-09,Sia,0
-2008-09,St. Germain,6
-2008-09,The Cinematic Orchestra,4
-2008-09,Thievery Corporation,2
-2008-09,Zero 7,0
-2008-10,Air,0
-2008-10,Björk,2
-2008-10,Coldplay,1
-2008-10,De-Phazz,8
-2008-10,Goldfrapp,3
-2008-10,Groove Armada,0
-2008-10,Jazzanova,13
-2008-10,José González,1
-2008-10,Koop,4
-2008-10,Lamb,1
-2008-10,Massive Attack,0
-2008-10,Nightmares On Wax,1
-2008-10,Pink Floyd,31
-2008-10,Portishead,2
-2008-10,Sade,0
-2008-10,Sia,0
-2008-10,St. Germain,1
-2008-10,The Cinematic Orchestra,3
-2008-10,Thievery Corporation,0
-2008-10,Zero 7,0
-2008-11,Air,0
-2008-11,Björk,0
-2008-11,Coldplay,0
-2008-11,De-Phazz,0
-2008-11,Goldfrapp,0
-2008-11,Groove Armada,0
-2008-11,Jazzanova,1
-2008-11,José González,0
-2008-11,Koop,0
-2008-11,Lamb,0
-2008-11,Massive Attack,0
-2008-11,Nightmares On Wax,0
-2008-11,Pink Floyd,0
-2008-11,Portishead,0
-2008-11,Sade,0
-2008-11,Sia,0
-2008-11,St. Germain,0
-2008-11,The Cinematic Orchestra,0
-2008-11,Thievery Corporation,0
-2008-11,Zero 7,0
-2008-12,Air,0
-2008-12,Björk,0
-2008-12,Coldplay,0
-2008-12,De-Phazz,0
-2008-12,Goldfrapp,0
-2008-12,Groove Armada,0
-2008-12,Jazzanova,0
-2008-12,José González,0
-2008-12,Koop,0
-2008-12,Lamb,0
-2008-12,Massive Attack,0
-2008-12,Nightmares On Wax,0
-2008-12,Pink Floyd,0
-2008-12,Portishead,0
-2008-12,Sade,0
-2008-12,Sia,0
-2008-12,St. Germain,0
-2008-12,The Cinematic Orchestra,0
-2008-12,Thievery Corporation,0
-2008-12,Zero 7,0
-2009-01,Air,1
-2009-01,Björk,0
-2009-01,Coldplay,0
-2009-01,De-Phazz,1
-2009-01,Goldfrapp,0
-2009-01,Groove Armada,0
-2009-01,Jazzanova,2
-2009-01,José González,1
-2009-01,Koop,2
-2009-01,Lamb,0
-2009-01,Massive Attack,1
-2009-01,Nightmares On Wax,0
-2009-01,Pink Floyd,0
-2009-01,Portishead,2
-2009-01,Sade,1
-2009-01,Sia,1
-2009-01,St. Germain,2
-2009-01,The Cinematic Orchestra,1
-2009-01,Thievery Corporation,1
-2009-01,Zero 7,0
-2009-02,Air,0
-2009-02,Björk,0
-2009-02,Coldplay,0
-2009-02,De-Phazz,0
-2009-02,Goldfrapp,0
-2009-02,Groove Armada,0
-2009-02,Jazzanova,0
-2009-02,José González,0
-2009-02,Koop,0
-2009-02,Lamb,0
-2009-02,Massive Attack,0
-2009-02,Nightmares On Wax,0
-2009-02,Pink Floyd,0
-2009-02,Portishead,0
-2009-02,Sade,0
-2009-02,Sia,0
-2009-02,St. Germain,0
-2009-02,The Cinematic Orchestra,0
-2009-02,Thievery Corporation,0
-2009-02,Zero 7,0
-2009-03,Air,0
-2009-03,Björk,0
-2009-03,Coldplay,0
-2009-03,De-Phazz,0
-2009-03,Goldfrapp,0
-2009-03,Groove Armada,0
-2009-03,Jazzanova,0
-2009-03,José González,0
-2009-03,Koop,0
-2009-03,Lamb,0
-2009-03,Massive Attack,0
-2009-03,Nightmares On Wax,3
-2009-03,Pink Floyd,0
-2009-03,Portishead,0
-2009-03,Sade,0
-2009-03,Sia,0
-2009-03,St. Germain,0
-2009-03,The Cinematic Orchestra,0
-2009-03,Thievery Corporation,3
-2009-03,Zero 7,1
-2009-04,Air,0
-2009-04,Björk,0
-2009-04,Coldplay,0
-2009-04,De-Phazz,0
-2009-04,Goldfrapp,0
-2009-04,Groove Armada,0
-2009-04,Jazzanova,1
-2009-04,José González,0
-2009-04,Koop,1
-2009-04,Lamb,0
-2009-04,Massive Attack,0
-2009-04,Nightmares On Wax,0
-2009-04,Pink Floyd,0
-2009-04,Portishead,0
-2009-04,Sade,0
-2009-04,Sia,0
-2009-04,St. Germain,0
-2009-04,The Cinematic Orchestra,0
-2009-04,Thievery Corporation,0
-2009-04,Zero 7,0
+"month","artist","plays"
+"2007-01","Air",1
+"2007-01","Björk",1
+"2007-01","Coldplay",1
+"2007-01","De-Phazz",0
+"2007-01","Goldfrapp",0
+"2007-01","Groove Armada",1
+"2007-01","Jazzanova",0
+"2007-01","José González",0
+"2007-01","Koop",2
+"2007-01","Lamb",2
+"2007-01","Massive Attack",1
+"2007-01","Nightmares On Wax",1
+"2007-01","Pink Floyd",0
+"2007-01","Portishead",0
+"2007-01","Sade",0
+"2007-01","Sia",0
+"2007-01","St. Germain",1
+"2007-01","The Cinematic Orchestra",1
+"2007-01","Thievery Corporation",1
+"2007-01","Zero 7",0
+"2007-02","Air",2
+"2007-02","Björk",564
+"2007-02","Coldplay",1
+"2007-02","De-Phazz",0
+"2007-02","Goldfrapp",2
+"2007-02","Groove Armada",1
+"2007-02","Jazzanova",0
+"2007-02","José González",0
+"2007-02","Koop",84
+"2007-02","Lamb",1
+"2007-02","Massive Attack",6
+"2007-02","Nightmares On Wax",1
+"2007-02","Pink Floyd",315
+"2007-02","Portishead",3
+"2007-02","Sade",1
+"2007-02","Sia",2
+"2007-02","St. Germain",0
+"2007-02","The Cinematic Orchestra",0
+"2007-02","Thievery Corporation",2
+"2007-02","Zero 7",209
+"2007-03","Air",1
+"2007-03","Björk",1427
+"2007-03","Coldplay",46
+"2007-03","De-Phazz",0
+"2007-03","Goldfrapp",0
+"2007-03","Groove Armada",0
+"2007-03","Jazzanova",0
+"2007-03","José González",4
+"2007-03","Koop",42
+"2007-03","Lamb",1
+"2007-03","Massive Attack",0
+"2007-03","Nightmares On Wax",0
+"2007-03","Pink Floyd",1169
+"2007-03","Portishead",0
+"2007-03","Sade",5
+"2007-03","Sia",7
+"2007-03","St. Germain",0
+"2007-03","The Cinematic Orchestra",0
+"2007-03","Thievery Corporation",0
+"2007-03","Zero 7",63
+"2007-04","Air",1
+"2007-04","Björk",663
+"2007-04","Coldplay",10
+"2007-04","De-Phazz",1
+"2007-04","Goldfrapp",0
+"2007-04","Groove Armada",0
+"2007-04","Jazzanova",0
+"2007-04","José González",1
+"2007-04","Koop",33
+"2007-04","Lamb",0
+"2007-04","Massive Attack",0
+"2007-04","Nightmares On Wax",0
+"2007-04","Pink Floyd",123
+"2007-04","Portishead",1
+"2007-04","Sade",1
+"2007-04","Sia",3
+"2007-04","St. Germain",0
+"2007-04","The Cinematic Orchestra",50
+"2007-04","Thievery Corporation",0
+"2007-04","Zero 7",35
+"2007-05","Air",3
+"2007-05","Björk",37
+"2007-05","Coldplay",1
+"2007-05","De-Phazz",0
+"2007-05","Goldfrapp",2
+"2007-05","Groove Armada",2
+"2007-05","Jazzanova",0
+"2007-05","José González",1
+"2007-05","Koop",0
+"2007-05","Lamb",1
+"2007-05","Massive Attack",2
+"2007-05","Nightmares On Wax",3
+"2007-05","Pink Floyd",35
+"2007-05","Portishead",1
+"2007-05","Sade",1
+"2007-05","Sia",1
+"2007-05","St. Germain",1
+"2007-05","The Cinematic Orchestra",0
+"2007-05","Thievery Corporation",1
+"2007-05","Zero 7",4
+"2007-06","Air",2
+"2007-06","Björk",135
+"2007-06","Coldplay",6
+"2007-06","De-Phazz",3
+"2007-06","Goldfrapp",1
+"2007-06","Groove Armada",2
+"2007-06","Jazzanova",1
+"2007-06","José González",1
+"2007-06","Koop",0
+"2007-06","Lamb",2
+"2007-06","Massive Attack",3
+"2007-06","Nightmares On Wax",1
+"2007-06","Pink Floyd",106
+"2007-06","Portishead",2
+"2007-06","Sade",3
+"2007-06","Sia",2
+"2007-06","St. Germain",188
+"2007-06","The Cinematic Orchestra",15
+"2007-06","Thievery Corporation",1
+"2007-06","Zero 7",31
+"2007-07","Air",0
+"2007-07","Björk",166
+"2007-07","Coldplay",0
+"2007-07","De-Phazz",0
+"2007-07","Goldfrapp",0
+"2007-07","Groove Armada",0
+"2007-07","Jazzanova",0
+"2007-07","José González",0
+"2007-07","Koop",0
+"2007-07","Lamb",0
+"2007-07","Massive Attack",0
+"2007-07","Nightmares On Wax",0
+"2007-07","Pink Floyd",0
+"2007-07","Portishead",0
+"2007-07","Sade",1
+"2007-07","Sia",1
+"2007-07","St. Germain",13
+"2007-07","The Cinematic Orchestra",10
+"2007-07","Thievery Corporation",0
+"2007-07","Zero 7",0
+"2007-08","Air",4
+"2007-08","Björk",20
+"2007-08","Coldplay",10
+"2007-08","De-Phazz",6
+"2007-08","Goldfrapp",2
+"2007-08","Groove Armada",1
+"2007-08","Jazzanova",0
+"2007-08","José González",0
+"2007-08","Koop",0
+"2007-08","Lamb",0
+"2007-08","Massive Attack",4
+"2007-08","Nightmares On Wax",1
+"2007-08","Pink Floyd",43
+"2007-08","Portishead",1
+"2007-08","Sade",3
+"2007-08","Sia",2
+"2007-08","St. Germain",3
+"2007-08","The Cinematic Orchestra",4
+"2007-08","Thievery Corporation",0
+"2007-08","Zero 7",1
+"2007-09","Air",5
+"2007-09","Björk",2
+"2007-09","Coldplay",5
+"2007-09","De-Phazz",8
+"2007-09","Goldfrapp",0
+"2007-09","Groove Armada",7
+"2007-09","Jazzanova",4
+"2007-09","José González",1
+"2007-09","Koop",3
+"2007-09","Lamb",1
+"2007-09","Massive Attack",7
+"2007-09","Nightmares On Wax",1
+"2007-09","Pink Floyd",84
+"2007-09","Portishead",2
+"2007-09","Sade",3
+"2007-09","Sia",1
+"2007-09","St. Germain",4
+"2007-09","The Cinematic Orchestra",2
+"2007-09","Thievery Corporation",2
+"2007-09","Zero 7",0
+"2007-10","Air",0
+"2007-10","Björk",1
+"2007-10","Coldplay",0
+"2007-10","De-Phazz",1
+"2007-10","Goldfrapp",0
+"2007-10","Groove Armada",0
+"2007-10","Jazzanova",4
+"2007-10","José González",0
+"2007-10","Koop",3
+"2007-10","Lamb",0
+"2007-10","Massive Attack",0
+"2007-10","Nightmares On Wax",1
+"2007-10","Pink Floyd",0
+"2007-10","Portishead",0
+"2007-10","Sade",0
+"2007-10","Sia",0
+"2007-10","St. Germain",4
+"2007-10","The Cinematic Orchestra",4
+"2007-10","Thievery Corporation",1
+"2007-10","Zero 7",0
+"2007-11","Air",0
+"2007-11","Björk",0
+"2007-11","Coldplay",0
+"2007-11","De-Phazz",0
+"2007-11","Goldfrapp",0
+"2007-11","Groove Armada",0
+"2007-11","Jazzanova",0
+"2007-11","José González",0
+"2007-11","Koop",0
+"2007-11","Lamb",0
+"2007-11","Massive Attack",0
+"2007-11","Nightmares On Wax",0
+"2007-11","Pink Floyd",0
+"2007-11","Portishead",1
+"2007-11","Sade",0
+"2007-11","Sia",0
+"2007-11","St. Germain",0
+"2007-11","The Cinematic Orchestra",0
+"2007-11","Thievery Corporation",0
+"2007-11","Zero 7",0
+"2007-12","Air",3
+"2007-12","Björk",1
+"2007-12","Coldplay",0
+"2007-12","De-Phazz",0
+"2007-12","Goldfrapp",0
+"2007-12","Groove Armada",2
+"2007-12","Jazzanova",0
+"2007-12","José González",8
+"2007-12","Koop",0
+"2007-12","Lamb",7
+"2007-12","Massive Attack",6
+"2007-12","Nightmares On Wax",7
+"2007-12","Pink Floyd",0
+"2007-12","Portishead",0
+"2007-12","Sade",1
+"2007-12","Sia",0
+"2007-12","St. Germain",4
+"2007-12","The Cinematic Orchestra",1
+"2007-12","Thievery Corporation",9
+"2007-12","Zero 7",5
+"2008-01","Air",2
+"2008-01","Björk",0
+"2008-01","Coldplay",1
+"2008-01","De-Phazz",2
+"2008-01","Goldfrapp",1
+"2008-01","Groove Armada",2
+"2008-01","Jazzanova",0
+"2008-01","José González",0
+"2008-01","Koop",1
+"2008-01","Lamb",0
+"2008-01","Massive Attack",2
+"2008-01","Nightmares On Wax",0
+"2008-01","Pink Floyd",0
+"2008-01","Portishead",1
+"2008-01","Sade",1
+"2008-01","Sia",2
+"2008-01","St. Germain",1
+"2008-01","The Cinematic Orchestra",1
+"2008-01","Thievery Corporation",1
+"2008-01","Zero 7",2
+"2008-02","Air",3
+"2008-02","Björk",1
+"2008-02","Coldplay",2
+"2008-02","De-Phazz",0
+"2008-02","Goldfrapp",1
+"2008-02","Groove Armada",2
+"2008-02","Jazzanova",3
+"2008-02","José González",6
+"2008-02","Koop",6
+"2008-02","Lamb",4
+"2008-02","Massive Attack",3
+"2008-02","Nightmares On Wax",1
+"2008-02","Pink Floyd",21
+"2008-02","Portishead",5
+"2008-02","Sade",2
+"2008-02","Sia",0
+"2008-02","St. Germain",11
+"2008-02","The Cinematic Orchestra",3
+"2008-02","Thievery Corporation",5
+"2008-02","Zero 7",8
+"2008-03","Air",0
+"2008-03","Björk",8
+"2008-03","Coldplay",4
+"2008-03","De-Phazz",2
+"2008-03","Goldfrapp",3
+"2008-03","Groove Armada",2
+"2008-03","Jazzanova",1
+"2008-03","José González",0
+"2008-03","Koop",0
+"2008-03","Lamb",1
+"2008-03","Massive Attack",0
+"2008-03","Nightmares On Wax",0
+"2008-03","Pink Floyd",0
+"2008-03","Portishead",7
+"2008-03","Sade",0
+"2008-03","Sia",5
+"2008-03","St. Germain",1
+"2008-03","The Cinematic Orchestra",0
+"2008-03","Thievery Corporation",1
+"2008-03","Zero 7",2
+"2008-04","Air",1
+"2008-04","Björk",21
+"2008-04","Coldplay",115
+"2008-04","De-Phazz",1
+"2008-04","Goldfrapp",2
+"2008-04","Groove Armada",1
+"2008-04","Jazzanova",1
+"2008-04","José González",9
+"2008-04","Koop",0
+"2008-04","Lamb",2
+"2008-04","Massive Attack",1
+"2008-04","Nightmares On Wax",0
+"2008-04","Pink Floyd",208
+"2008-04","Portishead",14
+"2008-04","Sade",4
+"2008-04","Sia",5
+"2008-04","St. Germain",4
+"2008-04","The Cinematic Orchestra",2
+"2008-04","Thievery Corporation",4
+"2008-04","Zero 7",3
+"2008-05","Air",1
+"2008-05","Björk",25
+"2008-05","Coldplay",192
+"2008-05","De-Phazz",0
+"2008-05","Goldfrapp",3
+"2008-05","Groove Armada",0
+"2008-05","Jazzanova",1
+"2008-05","José González",8
+"2008-05","Koop",3
+"2008-05","Lamb",0
+"2008-05","Massive Attack",0
+"2008-05","Nightmares On Wax",0
+"2008-05","Pink Floyd",7
+"2008-05","Portishead",1
+"2008-05","Sade",2
+"2008-05","Sia",1
+"2008-05","St. Germain",9
+"2008-05","The Cinematic Orchestra",7
+"2008-05","Thievery Corporation",3
+"2008-05","Zero 7",4
+"2008-06","Air",0
+"2008-06","Björk",2
+"2008-06","Coldplay",14
+"2008-06","De-Phazz",0
+"2008-06","Goldfrapp",7
+"2008-06","Groove Armada",3
+"2008-06","Jazzanova",0
+"2008-06","José González",3
+"2008-06","Koop",0
+"2008-06","Lamb",2
+"2008-06","Massive Attack",2
+"2008-06","Nightmares On Wax",1
+"2008-06","Pink Floyd",16
+"2008-06","Portishead",3
+"2008-06","Sade",0
+"2008-06","Sia",3
+"2008-06","St. Germain",3
+"2008-06","The Cinematic Orchestra",1
+"2008-06","Thievery Corporation",1
+"2008-06","Zero 7",1
+"2008-07","Air",14
+"2008-07","Björk",13
+"2008-07","Coldplay",5
+"2008-07","De-Phazz",24
+"2008-07","Goldfrapp",12
+"2008-07","Groove Armada",7
+"2008-07","Jazzanova",8
+"2008-07","José González",0
+"2008-07","Koop",18
+"2008-07","Lamb",16
+"2008-07","Massive Attack",2
+"2008-07","Nightmares On Wax",1
+"2008-07","Pink Floyd",1
+"2008-07","Portishead",3
+"2008-07","Sade",0
+"2008-07","Sia",3
+"2008-07","St. Germain",11
+"2008-07","The Cinematic Orchestra",2
+"2008-07","Thievery Corporation",3
+"2008-07","Zero 7",1
+"2008-08","Air",2
+"2008-08","Björk",3
+"2008-08","Coldplay",2
+"2008-08","De-Phazz",13
+"2008-08","Goldfrapp",5
+"2008-08","Groove Armada",1
+"2008-08","Jazzanova",12
+"2008-08","José González",5
+"2008-08","Koop",10
+"2008-08","Lamb",2
+"2008-08","Massive Attack",3
+"2008-08","Nightmares On Wax",3
+"2008-08","Pink Floyd",5
+"2008-08","Portishead",1
+"2008-08","Sade",4
+"2008-08","Sia",2
+"2008-08","St. Germain",8
+"2008-08","The Cinematic Orchestra",11
+"2008-08","Thievery Corporation",4
+"2008-08","Zero 7",0
+"2008-09","Air",0
+"2008-09","Björk",0
+"2008-09","Coldplay",0
+"2008-09","De-Phazz",5
+"2008-09","Goldfrapp",0
+"2008-09","Groove Armada",0
+"2008-09","Jazzanova",4
+"2008-09","José González",0
+"2008-09","Koop",4
+"2008-09","Lamb",1
+"2008-09","Massive Attack",2
+"2008-09","Nightmares On Wax",0
+"2008-09","Pink Floyd",5
+"2008-09","Portishead",2
+"2008-09","Sade",0
+"2008-09","Sia",0
+"2008-09","St. Germain",6
+"2008-09","The Cinematic Orchestra",4
+"2008-09","Thievery Corporation",2
+"2008-09","Zero 7",0
+"2008-10","Air",0
+"2008-10","Björk",2
+"2008-10","Coldplay",1
+"2008-10","De-Phazz",8
+"2008-10","Goldfrapp",3
+"2008-10","Groove Armada",0
+"2008-10","Jazzanova",13
+"2008-10","José González",1
+"2008-10","Koop",4
+"2008-10","Lamb",1
+"2008-10","Massive Attack",0
+"2008-10","Nightmares On Wax",1
+"2008-10","Pink Floyd",31
+"2008-10","Portishead",2
+"2008-10","Sade",0
+"2008-10","Sia",0
+"2008-10","St. Germain",1
+"2008-10","The Cinematic Orchestra",3
+"2008-10","Thievery Corporation",0
+"2008-10","Zero 7",0
+"2008-11","Air",0
+"2008-11","Björk",0
+"2008-11","Coldplay",0
+"2008-11","De-Phazz",0
+"2008-11","Goldfrapp",0
+"2008-11","Groove Armada",0
+"2008-11","Jazzanova",1
+"2008-11","José González",0
+"2008-11","Koop",0
+"2008-11","Lamb",0
+"2008-11","Massive Attack",0
+"2008-11","Nightmares On Wax",0
+"2008-11","Pink Floyd",0
+"2008-11","Portishead",0
+"2008-11","Sade",0
+"2008-11","Sia",0
+"2008-11","St. Germain",0
+"2008-11","The Cinematic Orchestra",0
+"2008-11","Thievery Corporation",0
+"2008-11","Zero 7",0
+"2008-12","Air",0
+"2008-12","Björk",0
+"2008-12","Coldplay",0
+"2008-12","De-Phazz",0
+"2008-12","Goldfrapp",0
+"2008-12","Groove Armada",0
+"2008-12","Jazzanova",0
+"2008-12","José González",0
+"2008-12","Koop",0
+"2008-12","Lamb",0
+"2008-12","Massive Attack",0
+"2008-12","Nightmares On Wax",0
+"2008-12","Pink Floyd",0
+"2008-12","Portishead",0
+"2008-12","Sade",0
+"2008-12","Sia",0
+"2008-12","St. Germain",0
+"2008-12","The Cinematic Orchestra",0
+"2008-12","Thievery Corporation",0
+"2008-12","Zero 7",0
+"2009-01","Air",1
+"2009-01","Björk",0
+"2009-01","Coldplay",0
+"2009-01","De-Phazz",1
+"2009-01","Goldfrapp",0
+"2009-01","Groove Armada",0
+"2009-01","Jazzanova",2
+"2009-01","José González",1
+"2009-01","Koop",2
+"2009-01","Lamb",0
+"2009-01","Massive Attack",1
+"2009-01","Nightmares On Wax",0
+"2009-01","Pink Floyd",0
+"2009-01","Portishead",2
+"2009-01","Sade",1
+"2009-01","Sia",1
+"2009-01","St. Germain",2
+"2009-01","The Cinematic Orchestra",1
+"2009-01","Thievery Corporation",1
+"2009-01","Zero 7",0
+"2009-02","Air",0
+"2009-02","Björk",0
+"2009-02","Coldplay",0
+"2009-02","De-Phazz",0
+"2009-02","Goldfrapp",0
+"2009-02","Groove Armada",0
+"2009-02","Jazzanova",0
+"2009-02","José González",0
+"2009-02","Koop",0
+"2009-02","Lamb",0
+"2009-02","Massive Attack",0
+"2009-02","Nightmares On Wax",0
+"2009-02","Pink Floyd",0
+"2009-02","Portishead",0
+"2009-02","Sade",0
+"2009-02","Sia",0
+"2009-02","St. Germain",0
+"2009-02","The Cinematic Orchestra",0
+"2009-02","Thievery Corporation",0
+"2009-02","Zero 7",0
+"2009-03","Air",0
+"2009-03","Björk",0
+"2009-03","Coldplay",0
+"2009-03","De-Phazz",0
+"2009-03","Goldfrapp",0
+"2009-03","Groove Armada",0
+"2009-03","Jazzanova",0
+"2009-03","José González",0
+"2009-03","Koop",0
+"2009-03","Lamb",0
+"2009-03","Massive Attack",0
+"2009-03","Nightmares On Wax",3
+"2009-03","Pink Floyd",0
+"2009-03","Portishead",0
+"2009-03","Sade",0
+"2009-03","Sia",0
+"2009-03","St. Germain",0
+"2009-03","The Cinematic Orchestra",0
+"2009-03","Thievery Corporation",3
+"2009-03","Zero 7",1
+"2009-04","Air",0
+"2009-04","Björk",0
+"2009-04","Coldplay",0
+"2009-04","De-Phazz",0
+"2009-04","Goldfrapp",0
+"2009-04","Groove Armada",0
+"2009-04","Jazzanova",1
+"2009-04","José González",0
+"2009-04","Koop",1
+"2009-04","Lamb",0
+"2009-04","Massive Attack",0
+"2009-04","Nightmares On Wax",0
+"2009-04","Pink Floyd",0
+"2009-04","Portishead",0
+"2009-04","Sade",0
+"2009-04","Sia",0
+"2009-04","St. Germain",0
+"2009-04","The Cinematic Orchestra",0
+"2009-04","Thievery Corporation",0
+"2009-04","Zero 7",0

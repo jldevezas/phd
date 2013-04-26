@@ -1,141 +1,141 @@
-month,artist,plays
-2008-10,Allan Edwall,25
-2008-10,Andrew Lloyd Webber,0
-2008-10,Art Brut,53
-2008-10,Belle And Sebastian,81
-2008-10,Benny Andersson,56
-2008-10,Blind Guardian,31
-2008-10,Blink-182,3
-2008-10,Bright Eyes,12
-2008-10,British Sea Power,4
-2008-10,Broder Daniel,37
-2008-10,Clap Your Hands Say Yeah,0
-2008-10,Doktor Kosmos,0
-2008-10,Florence Valentin,0
-2008-10,Franz Ferdinand,0
-2008-10,Johnossi,0
-2008-10,Mando Diao,0
-2008-10,Nenne,11
-2008-10,Noah And The Whale,0
-2008-10,The Beatles,127
-2008-10,The Hives,0
-2008-11,Allan Edwall,3
-2008-11,Andrew Lloyd Webber,23
-2008-11,Art Brut,1
-2008-11,Belle And Sebastian,1
-2008-11,Benny Andersson,1
-2008-11,Blind Guardian,1
-2008-11,Blink-182,0
-2008-11,Bright Eyes,1
-2008-11,British Sea Power,0
-2008-11,Broder Daniel,0
-2008-11,Clap Your Hands Say Yeah,12
-2008-11,Doktor Kosmos,130
-2008-11,Florence Valentin,32
-2008-11,Franz Ferdinand,14
-2008-11,Johnossi,24
-2008-11,Mando Diao,75
-2008-11,Nenne,20
-2008-11,Noah And The Whale,3
-2008-11,The Beatles,2
-2008-11,The Hives,55
-2008-12,Allan Edwall,0
-2008-12,Andrew Lloyd Webber,36
-2008-12,Art Brut,4
-2008-12,Belle And Sebastian,3
-2008-12,Benny Andersson,47
-2008-12,Blind Guardian,1
-2008-12,Blink-182,1
-2008-12,Bright Eyes,6
-2008-12,British Sea Power,1
-2008-12,Broder Daniel,2
-2008-12,Clap Your Hands Say Yeah,1
-2008-12,Doktor Kosmos,12
-2008-12,Florence Valentin,5
-2008-12,Franz Ferdinand,1
-2008-12,Johnossi,1
-2008-12,Mando Diao,29
-2008-12,Nenne,6
-2008-12,Noah And The Whale,1
-2008-12,The Beatles,3
-2008-12,The Hives,4
-2009-01,Allan Edwall,3
-2009-01,Andrew Lloyd Webber,6
-2009-01,Art Brut,54
-2009-01,Belle And Sebastian,3
-2009-01,Benny Andersson,30
-2009-01,Blind Guardian,4
-2009-01,Blink-182,1
-2009-01,Bright Eyes,1
-2009-01,British Sea Power,1
-2009-01,Broder Daniel,2
-2009-01,Clap Your Hands Say Yeah,19
-2009-01,Doktor Kosmos,8
-2009-01,Florence Valentin,1
-2009-01,Franz Ferdinand,1
-2009-01,Johnossi,8
-2009-01,Mando Diao,84
-2009-01,Nenne,13
-2009-01,Noah And The Whale,14
-2009-01,The Beatles,9
-2009-01,The Hives,4
-2009-02,Allan Edwall,0
-2009-02,Andrew Lloyd Webber,0
-2009-02,Art Brut,0
-2009-02,Belle And Sebastian,0
-2009-02,Benny Andersson,0
-2009-02,Blind Guardian,0
-2009-02,Blink-182,4
-2009-02,Bright Eyes,10
-2009-02,British Sea Power,5
-2009-02,Broder Daniel,0
-2009-02,Clap Your Hands Say Yeah,2
-2009-02,Doktor Kosmos,11
-2009-02,Florence Valentin,30
-2009-02,Franz Ferdinand,0
-2009-02,Johnossi,101
-2009-02,Mando Diao,177
-2009-02,Nenne,30
-2009-02,Noah And The Whale,22
-2009-02,The Beatles,5
-2009-02,The Hives,5
-2009-03,Allan Edwall,5
-2009-03,Andrew Lloyd Webber,13
-2009-03,Art Brut,18
-2009-03,Belle And Sebastian,9
-2009-03,Benny Andersson,4
-2009-03,Blind Guardian,6
-2009-03,Blink-182,1
-2009-03,Bright Eyes,0
-2009-03,British Sea Power,3
-2009-03,Broder Daniel,6
-2009-03,Clap Your Hands Say Yeah,1
-2009-03,Doktor Kosmos,21
-2009-03,Florence Valentin,4
-2009-03,Franz Ferdinand,3
-2009-03,Johnossi,7
-2009-03,Mando Diao,59
-2009-03,Nenne,9
-2009-03,Noah And The Whale,10
-2009-03,The Beatles,7
-2009-03,The Hives,4
-2009-04,Allan Edwall,1
-2009-04,Andrew Lloyd Webber,1
-2009-04,Art Brut,0
-2009-04,Belle And Sebastian,1
-2009-04,Benny Andersson,0
-2009-04,Blind Guardian,0
-2009-04,Blink-182,0
-2009-04,Bright Eyes,0
-2009-04,British Sea Power,0
-2009-04,Broder Daniel,2
-2009-04,Clap Your Hands Say Yeah,1
-2009-04,Doktor Kosmos,2
-2009-04,Florence Valentin,0
-2009-04,Franz Ferdinand,1
-2009-04,Johnossi,1
-2009-04,Mando Diao,15
-2009-04,Nenne,4
-2009-04,Noah And The Whale,2
-2009-04,The Beatles,0
-2009-04,The Hives,2
+"month","artist","plays"
+"2008-10","Allan Edwall",25
+"2008-10","Andrew Lloyd Webber",0
+"2008-10","Art Brut",53
+"2008-10","Belle And Sebastian",81
+"2008-10","Benny Andersson",56
+"2008-10","Blind Guardian",31
+"2008-10","Blink-182",3
+"2008-10","Bright Eyes",12
+"2008-10","British Sea Power",4
+"2008-10","Broder Daniel",37
+"2008-10","Clap Your Hands Say Yeah",0
+"2008-10","Doktor Kosmos",0
+"2008-10","Florence Valentin",0
+"2008-10","Franz Ferdinand",0
+"2008-10","Johnossi",0
+"2008-10","Mando Diao",0
+"2008-10","Nenne",11
+"2008-10","Noah And The Whale",0
+"2008-10","The Beatles",127
+"2008-10","The Hives",0
+"2008-11","Allan Edwall",3
+"2008-11","Andrew Lloyd Webber",23
+"2008-11","Art Brut",1
+"2008-11","Belle And Sebastian",1
+"2008-11","Benny Andersson",1
+"2008-11","Blind Guardian",1
+"2008-11","Blink-182",0
+"2008-11","Bright Eyes",1
+"2008-11","British Sea Power",0
+"2008-11","Broder Daniel",0
+"2008-11","Clap Your Hands Say Yeah",12
+"2008-11","Doktor Kosmos",130
+"2008-11","Florence Valentin",32
+"2008-11","Franz Ferdinand",14
+"2008-11","Johnossi",24
+"2008-11","Mando Diao",75
+"2008-11","Nenne",20
+"2008-11","Noah And The Whale",3
+"2008-11","The Beatles",2
+"2008-11","The Hives",55
+"2008-12","Allan Edwall",0
+"2008-12","Andrew Lloyd Webber",36
+"2008-12","Art Brut",4
+"2008-12","Belle And Sebastian",3
+"2008-12","Benny Andersson",47
+"2008-12","Blind Guardian",1
+"2008-12","Blink-182",1
+"2008-12","Bright Eyes",6
+"2008-12","British Sea Power",1
+"2008-12","Broder Daniel",2
+"2008-12","Clap Your Hands Say Yeah",1
+"2008-12","Doktor Kosmos",12
+"2008-12","Florence Valentin",5
+"2008-12","Franz Ferdinand",1
+"2008-12","Johnossi",1
+"2008-12","Mando Diao",29
+"2008-12","Nenne",6
+"2008-12","Noah And The Whale",1
+"2008-12","The Beatles",3
+"2008-12","The Hives",4
+"2009-01","Allan Edwall",3
+"2009-01","Andrew Lloyd Webber",6
+"2009-01","Art Brut",54
+"2009-01","Belle And Sebastian",3
+"2009-01","Benny Andersson",30
+"2009-01","Blind Guardian",4
+"2009-01","Blink-182",1
+"2009-01","Bright Eyes",1
+"2009-01","British Sea Power",1
+"2009-01","Broder Daniel",2
+"2009-01","Clap Your Hands Say Yeah",19
+"2009-01","Doktor Kosmos",8
+"2009-01","Florence Valentin",1
+"2009-01","Franz Ferdinand",1
+"2009-01","Johnossi",8
+"2009-01","Mando Diao",84
+"2009-01","Nenne",13
+"2009-01","Noah And The Whale",14
+"2009-01","The Beatles",9
+"2009-01","The Hives",4
+"2009-02","Allan Edwall",0
+"2009-02","Andrew Lloyd Webber",0
+"2009-02","Art Brut",0
+"2009-02","Belle And Sebastian",0
+"2009-02","Benny Andersson",0
+"2009-02","Blind Guardian",0
+"2009-02","Blink-182",4
+"2009-02","Bright Eyes",10
+"2009-02","British Sea Power",5
+"2009-02","Broder Daniel",0
+"2009-02","Clap Your Hands Say Yeah",2
+"2009-02","Doktor Kosmos",11
+"2009-02","Florence Valentin",30
+"2009-02","Franz Ferdinand",0
+"2009-02","Johnossi",101
+"2009-02","Mando Diao",177
+"2009-02","Nenne",30
+"2009-02","Noah And The Whale",22
+"2009-02","The Beatles",5
+"2009-02","The Hives",5
+"2009-03","Allan Edwall",5
+"2009-03","Andrew Lloyd Webber",13
+"2009-03","Art Brut",18
+"2009-03","Belle And Sebastian",9
+"2009-03","Benny Andersson",4
+"2009-03","Blind Guardian",6
+"2009-03","Blink-182",1
+"2009-03","Bright Eyes",0
+"2009-03","British Sea Power",3
+"2009-03","Broder Daniel",6
+"2009-03","Clap Your Hands Say Yeah",1
+"2009-03","Doktor Kosmos",21
+"2009-03","Florence Valentin",4
+"2009-03","Franz Ferdinand",3
+"2009-03","Johnossi",7
+"2009-03","Mando Diao",59
+"2009-03","Nenne",9
+"2009-03","Noah And The Whale",10
+"2009-03","The Beatles",7
+"2009-03","The Hives",4
+"2009-04","Allan Edwall",1
+"2009-04","Andrew Lloyd Webber",1
+"2009-04","Art Brut",0
+"2009-04","Belle And Sebastian",1
+"2009-04","Benny Andersson",0
+"2009-04","Blind Guardian",0
+"2009-04","Blink-182",0
+"2009-04","Bright Eyes",0
+"2009-04","British Sea Power",0
+"2009-04","Broder Daniel",2
+"2009-04","Clap Your Hands Say Yeah",1
+"2009-04","Doktor Kosmos",2
+"2009-04","Florence Valentin",0
+"2009-04","Franz Ferdinand",1
+"2009-04","Johnossi",1
+"2009-04","Mando Diao",15
+"2009-04","Nenne",4
+"2009-04","Noah And The Whale",2
+"2009-04","The Beatles",0
+"2009-04","The Hives",2

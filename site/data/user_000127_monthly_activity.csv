@@ -1,501 +1,501 @@
-month,artist,plays
-2006-06,Agent M,0
-2006-06,Black Sabbath,3
-2006-06,Captain Rock Hard And Master Bates,0
-2006-06,Iggy Pop,0
-2006-06,John Frusciante,5
-2006-06,John Frusciante And Josh Klinghoffer,0
-2006-06,Metro Luminal,6
-2006-06,Migreen,0
-2006-06,Misfits,0
-2006-06,Pööloy Gläänz,0
-2006-06,Ramones,59
-2006-06,Ratatat,0
-2006-06,Red Hot Chili Peppers,8
-2006-06,Röyksopp,0
-2006-06,Sõpruse Puiestee,0
-2006-06,The Clash,0
-2006-06,The Smashing Pumpkins,0
-2006-06,The Stranglers,0
-2006-06,Vennaskond,9
-2006-06,Yeah Yeah Yeahs,30
-2006-07,Agent M,5
-2006-07,Black Sabbath,31
-2006-07,Captain Rock Hard And Master Bates,6
-2006-07,Iggy Pop,7
-2006-07,John Frusciante,360
-2006-07,John Frusciante And Josh Klinghoffer,0
-2006-07,Metro Luminal,35
-2006-07,Migreen,16
-2006-07,Misfits,5
-2006-07,Pööloy Gläänz,3
-2006-07,Ramones,120
-2006-07,Ratatat,0
-2006-07,Red Hot Chili Peppers,67
-2006-07,Röyksopp,1
-2006-07,Sõpruse Puiestee,2
-2006-07,The Clash,6
-2006-07,The Smashing Pumpkins,27
-2006-07,The Stranglers,1
-2006-07,Vennaskond,8
-2006-07,Yeah Yeah Yeahs,79
-2006-08,Agent M,46
-2006-08,Black Sabbath,114
-2006-08,Captain Rock Hard And Master Bates,6
-2006-08,Iggy Pop,6
-2006-08,John Frusciante,369
-2006-08,John Frusciante And Josh Klinghoffer,57
-2006-08,Metro Luminal,16
-2006-08,Migreen,33
-2006-08,Misfits,15
-2006-08,Pööloy Gläänz,2
-2006-08,Ramones,66
-2006-08,Ratatat,0
-2006-08,Red Hot Chili Peppers,111
-2006-08,Röyksopp,2
-2006-08,Sõpruse Puiestee,7
-2006-08,The Clash,3
-2006-08,The Smashing Pumpkins,14
-2006-08,The Stranglers,1
-2006-08,Vennaskond,12
-2006-08,Yeah Yeah Yeahs,108
-2006-09,Agent M,17
-2006-09,Black Sabbath,15
-2006-09,Captain Rock Hard And Master Bates,0
-2006-09,Iggy Pop,1
-2006-09,John Frusciante,233
-2006-09,John Frusciante And Josh Klinghoffer,26
-2006-09,Metro Luminal,13
-2006-09,Migreen,1
-2006-09,Misfits,12
-2006-09,Pööloy Gläänz,1
-2006-09,Ramones,6
-2006-09,Ratatat,0
-2006-09,Red Hot Chili Peppers,38
-2006-09,Röyksopp,1
-2006-09,Sõpruse Puiestee,5
-2006-09,The Clash,2
-2006-09,The Smashing Pumpkins,3
-2006-09,The Stranglers,0
-2006-09,Vennaskond,9
-2006-09,Yeah Yeah Yeahs,18
-2006-10,Agent M,76
-2006-10,Black Sabbath,23
-2006-10,Captain Rock Hard And Master Bates,2
-2006-10,Iggy Pop,2
-2006-10,John Frusciante,229
-2006-10,John Frusciante And Josh Klinghoffer,20
-2006-10,Metro Luminal,41
-2006-10,Migreen,17
-2006-10,Misfits,20
-2006-10,Pööloy Gläänz,3
-2006-10,Ramones,38
-2006-10,Ratatat,0
-2006-10,Red Hot Chili Peppers,85
-2006-10,Röyksopp,2
-2006-10,Sõpruse Puiestee,2
-2006-10,The Clash,3
-2006-10,The Smashing Pumpkins,6
-2006-10,The Stranglers,1
-2006-10,Vennaskond,47
-2006-10,Yeah Yeah Yeahs,34
-2006-11,Agent M,11
-2006-11,Black Sabbath,14
-2006-11,Captain Rock Hard And Master Bates,2
-2006-11,Iggy Pop,1
-2006-11,John Frusciante,63
-2006-11,John Frusciante And Josh Klinghoffer,4
-2006-11,Metro Luminal,7
-2006-11,Migreen,4
-2006-11,Misfits,0
-2006-11,Pööloy Gläänz,6
-2006-11,Ramones,24
-2006-11,Ratatat,0
-2006-11,Red Hot Chili Peppers,64
-2006-11,Röyksopp,1
-2006-11,Sõpruse Puiestee,5
-2006-11,The Clash,8
-2006-11,The Smashing Pumpkins,4
-2006-11,The Stranglers,0
-2006-11,Vennaskond,26
-2006-11,Yeah Yeah Yeahs,14
-2006-12,Agent M,11
-2006-12,Black Sabbath,4
-2006-12,Captain Rock Hard And Master Bates,4
-2006-12,Iggy Pop,1
-2006-12,John Frusciante,265
-2006-12,John Frusciante And Josh Klinghoffer,21
-2006-12,Metro Luminal,22
-2006-12,Migreen,3
-2006-12,Misfits,0
-2006-12,Pööloy Gläänz,2
-2006-12,Ramones,44
-2006-12,Ratatat,6
-2006-12,Red Hot Chili Peppers,57
-2006-12,Röyksopp,2
-2006-12,Sõpruse Puiestee,4
-2006-12,The Clash,4
-2006-12,The Smashing Pumpkins,75
-2006-12,The Stranglers,1
-2006-12,Vennaskond,36
-2006-12,Yeah Yeah Yeahs,26
-2007-01,Agent M,0
-2007-01,Black Sabbath,25
-2007-01,Captain Rock Hard And Master Bates,1
-2007-01,Iggy Pop,3
-2007-01,John Frusciante,233
-2007-01,John Frusciante And Josh Klinghoffer,11
-2007-01,Metro Luminal,11
-2007-01,Migreen,12
-2007-01,Misfits,0
-2007-01,Pööloy Gläänz,0
-2007-01,Ramones,32
-2007-01,Ratatat,4
-2007-01,Red Hot Chili Peppers,25
-2007-01,Röyksopp,1
-2007-01,Sõpruse Puiestee,15
-2007-01,The Clash,8
-2007-01,The Smashing Pumpkins,63
-2007-01,The Stranglers,0
-2007-01,Vennaskond,29
-2007-01,Yeah Yeah Yeahs,12
-2007-02,Agent M,2
-2007-02,Black Sabbath,1
-2007-02,Captain Rock Hard And Master Bates,5
-2007-02,Iggy Pop,1
-2007-02,John Frusciante,162
-2007-02,John Frusciante And Josh Klinghoffer,18
-2007-02,Metro Luminal,15
-2007-02,Migreen,4
-2007-02,Misfits,0
-2007-02,Pööloy Gläänz,5
-2007-02,Ramones,0
-2007-02,Ratatat,4
-2007-02,Red Hot Chili Peppers,23
-2007-02,Röyksopp,0
-2007-02,Sõpruse Puiestee,7
-2007-02,The Clash,4
-2007-02,The Smashing Pumpkins,12
-2007-02,The Stranglers,0
-2007-02,Vennaskond,28
-2007-02,Yeah Yeah Yeahs,14
-2007-03,Agent M,0
-2007-03,Black Sabbath,8
-2007-03,Captain Rock Hard And Master Bates,5
-2007-03,Iggy Pop,1
-2007-03,John Frusciante,47
-2007-03,John Frusciante And Josh Klinghoffer,2
-2007-03,Metro Luminal,2
-2007-03,Migreen,0
-2007-03,Misfits,0
-2007-03,Pööloy Gläänz,8
-2007-03,Ramones,10
-2007-03,Ratatat,3
-2007-03,Red Hot Chili Peppers,30
-2007-03,Röyksopp,2
-2007-03,Sõpruse Puiestee,4
-2007-03,The Clash,1
-2007-03,The Smashing Pumpkins,5
-2007-03,The Stranglers,0
-2007-03,Vennaskond,11
-2007-03,Yeah Yeah Yeahs,6
-2007-04,Agent M,23
-2007-04,Black Sabbath,0
-2007-04,Captain Rock Hard And Master Bates,0
-2007-04,Iggy Pop,14
-2007-04,John Frusciante,38
-2007-04,John Frusciante And Josh Klinghoffer,1
-2007-04,Metro Luminal,3
-2007-04,Migreen,6
-2007-04,Misfits,0
-2007-04,Pööloy Gläänz,2
-2007-04,Ramones,12
-2007-04,Ratatat,1
-2007-04,Red Hot Chili Peppers,2
-2007-04,Röyksopp,0
-2007-04,Sõpruse Puiestee,5
-2007-04,The Clash,1
-2007-04,The Smashing Pumpkins,11
-2007-04,The Stranglers,25
-2007-04,Vennaskond,3
-2007-04,Yeah Yeah Yeahs,4
-2007-05,Agent M,1
-2007-05,Black Sabbath,0
-2007-05,Captain Rock Hard And Master Bates,4
-2007-05,Iggy Pop,7
-2007-05,John Frusciante,14
-2007-05,John Frusciante And Josh Klinghoffer,2
-2007-05,Metro Luminal,2
-2007-05,Migreen,0
-2007-05,Misfits,18
-2007-05,Pööloy Gläänz,1
-2007-05,Ramones,8
-2007-05,Ratatat,1
-2007-05,Red Hot Chili Peppers,10
-2007-05,Röyksopp,1
-2007-05,Sõpruse Puiestee,0
-2007-05,The Clash,11
-2007-05,The Smashing Pumpkins,5
-2007-05,The Stranglers,13
-2007-05,Vennaskond,0
-2007-05,Yeah Yeah Yeahs,5
-2007-06,Agent M,3
-2007-06,Black Sabbath,3
-2007-06,Captain Rock Hard And Master Bates,1
-2007-06,Iggy Pop,0
-2007-06,John Frusciante,0
-2007-06,John Frusciante And Josh Klinghoffer,0
-2007-06,Metro Luminal,0
-2007-06,Migreen,4
-2007-06,Misfits,3
-2007-06,Pööloy Gläänz,1
-2007-06,Ramones,0
-2007-06,Ratatat,1
-2007-06,Red Hot Chili Peppers,0
-2007-06,Röyksopp,0
-2007-06,Sõpruse Puiestee,4
-2007-06,The Clash,1
-2007-06,The Smashing Pumpkins,2
-2007-06,The Stranglers,3
-2007-06,Vennaskond,7
-2007-06,Yeah Yeah Yeahs,0
-2007-07,Agent M,1
-2007-07,Black Sabbath,0
-2007-07,Captain Rock Hard And Master Bates,0
-2007-07,Iggy Pop,2
-2007-07,John Frusciante,16
-2007-07,John Frusciante And Josh Klinghoffer,3
-2007-07,Metro Luminal,0
-2007-07,Migreen,3
-2007-07,Misfits,2
-2007-07,Pööloy Gläänz,1
-2007-07,Ramones,9
-2007-07,Ratatat,2
-2007-07,Red Hot Chili Peppers,25
-2007-07,Röyksopp,3
-2007-07,Sõpruse Puiestee,0
-2007-07,The Clash,1
-2007-07,The Smashing Pumpkins,32
-2007-07,The Stranglers,5
-2007-07,Vennaskond,3
-2007-07,Yeah Yeah Yeahs,0
-2007-08,Agent M,0
-2007-08,Black Sabbath,0
-2007-08,Captain Rock Hard And Master Bates,0
-2007-08,Iggy Pop,0
-2007-08,John Frusciante,4
-2007-08,John Frusciante And Josh Klinghoffer,1
-2007-08,Metro Luminal,0
-2007-08,Migreen,0
-2007-08,Misfits,4
-2007-08,Pööloy Gläänz,0
-2007-08,Ramones,0
-2007-08,Ratatat,1
-2007-08,Red Hot Chili Peppers,8
-2007-08,Röyksopp,2
-2007-08,Sõpruse Puiestee,0
-2007-08,The Clash,0
-2007-08,The Smashing Pumpkins,15
-2007-08,The Stranglers,4
-2007-08,Vennaskond,0
-2007-08,Yeah Yeah Yeahs,0
-2007-09,Agent M,0
-2007-09,Black Sabbath,0
-2007-09,Captain Rock Hard And Master Bates,0
-2007-09,Iggy Pop,0
-2007-09,John Frusciante,5
-2007-09,John Frusciante And Josh Klinghoffer,0
-2007-09,Metro Luminal,0
-2007-09,Migreen,0
-2007-09,Misfits,1
-2007-09,Pööloy Gläänz,0
-2007-09,Ramones,0
-2007-09,Ratatat,1
-2007-09,Red Hot Chili Peppers,0
-2007-09,Röyksopp,0
-2007-09,Sõpruse Puiestee,0
-2007-09,The Clash,4
-2007-09,The Smashing Pumpkins,8
-2007-09,The Stranglers,0
-2007-09,Vennaskond,0
-2007-09,Yeah Yeah Yeahs,0
-2007-10,Agent M,0
-2007-10,Black Sabbath,0
-2007-10,Captain Rock Hard And Master Bates,0
-2007-10,Iggy Pop,0
-2007-10,John Frusciante,0
-2007-10,John Frusciante And Josh Klinghoffer,0
-2007-10,Metro Luminal,4
-2007-10,Migreen,6
-2007-10,Misfits,0
-2007-10,Pööloy Gläänz,0
-2007-10,Ramones,0
-2007-10,Ratatat,1
-2007-10,Red Hot Chili Peppers,2
-2007-10,Röyksopp,1
-2007-10,Sõpruse Puiestee,0
-2007-10,The Clash,6
-2007-10,The Smashing Pumpkins,3
-2007-10,The Stranglers,1
-2007-10,Vennaskond,2
-2007-10,Yeah Yeah Yeahs,0
-2007-11,Agent M,0
-2007-11,Black Sabbath,0
-2007-11,Captain Rock Hard And Master Bates,4
-2007-11,Iggy Pop,0
-2007-11,John Frusciante,15
-2007-11,John Frusciante And Josh Klinghoffer,0
-2007-11,Metro Luminal,7
-2007-11,Migreen,4
-2007-11,Misfits,18
-2007-11,Pööloy Gläänz,0
-2007-11,Ramones,5
-2007-11,Ratatat,0
-2007-11,Red Hot Chili Peppers,1
-2007-11,Röyksopp,0
-2007-11,Sõpruse Puiestee,2
-2007-11,The Clash,1
-2007-11,The Smashing Pumpkins,7
-2007-11,The Stranglers,5
-2007-11,Vennaskond,0
-2007-11,Yeah Yeah Yeahs,0
-2007-12,Agent M,0
-2007-12,Black Sabbath,0
-2007-12,Captain Rock Hard And Master Bates,1
-2007-12,Iggy Pop,0
-2007-12,John Frusciante,4
-2007-12,John Frusciante And Josh Klinghoffer,2
-2007-12,Metro Luminal,0
-2007-12,Migreen,1
-2007-12,Misfits,3
-2007-12,Pööloy Gläänz,0
-2007-12,Ramones,0
-2007-12,Ratatat,1
-2007-12,Red Hot Chili Peppers,2
-2007-12,Röyksopp,1
-2007-12,Sõpruse Puiestee,0
-2007-12,The Clash,3
-2007-12,The Smashing Pumpkins,22
-2007-12,The Stranglers,7
-2007-12,Vennaskond,0
-2007-12,Yeah Yeah Yeahs,0
-2008-01,Agent M,1
-2008-01,Black Sabbath,0
-2008-01,Captain Rock Hard And Master Bates,0
-2008-01,Iggy Pop,0
-2008-01,John Frusciante,2
-2008-01,John Frusciante And Josh Klinghoffer,0
-2008-01,Metro Luminal,6
-2008-01,Migreen,3
-2008-01,Misfits,0
-2008-01,Pööloy Gläänz,1
-2008-01,Ramones,0
-2008-01,Ratatat,1
-2008-01,Red Hot Chili Peppers,7
-2008-01,Röyksopp,1
-2008-01,Sõpruse Puiestee,1
-2008-01,The Clash,3
-2008-01,The Smashing Pumpkins,0
-2008-01,The Stranglers,3
-2008-01,Vennaskond,1
-2008-01,Yeah Yeah Yeahs,0
-2008-02,Agent M,0
-2008-02,Black Sabbath,0
-2008-02,Captain Rock Hard And Master Bates,0
-2008-02,Iggy Pop,0
-2008-02,John Frusciante,0
-2008-02,John Frusciante And Josh Klinghoffer,0
-2008-02,Metro Luminal,0
-2008-02,Migreen,0
-2008-02,Misfits,0
-2008-02,Pööloy Gläänz,0
-2008-02,Ramones,0
-2008-02,Ratatat,0
-2008-02,Red Hot Chili Peppers,0
-2008-02,Röyksopp,0
-2008-02,Sõpruse Puiestee,0
-2008-02,The Clash,0
-2008-02,The Smashing Pumpkins,0
-2008-02,The Stranglers,0
-2008-02,Vennaskond,0
-2008-02,Yeah Yeah Yeahs,0
-2008-03,Agent M,0
-2008-03,Black Sabbath,0
-2008-03,Captain Rock Hard And Master Bates,0
-2008-03,Iggy Pop,0
-2008-03,John Frusciante,0
-2008-03,John Frusciante And Josh Klinghoffer,0
-2008-03,Metro Luminal,0
-2008-03,Migreen,0
-2008-03,Misfits,0
-2008-03,Pööloy Gläänz,0
-2008-03,Ramones,0
-2008-03,Ratatat,0
-2008-03,Red Hot Chili Peppers,0
-2008-03,Röyksopp,0
-2008-03,Sõpruse Puiestee,0
-2008-03,The Clash,0
-2008-03,The Smashing Pumpkins,0
-2008-03,The Stranglers,0
-2008-03,Vennaskond,0
-2008-03,Yeah Yeah Yeahs,0
-2008-04,Agent M,0
-2008-04,Black Sabbath,0
-2008-04,Captain Rock Hard And Master Bates,0
-2008-04,Iggy Pop,0
-2008-04,John Frusciante,0
-2008-04,John Frusciante And Josh Klinghoffer,0
-2008-04,Metro Luminal,0
-2008-04,Migreen,0
-2008-04,Misfits,0
-2008-04,Pööloy Gläänz,0
-2008-04,Ramones,0
-2008-04,Ratatat,0
-2008-04,Red Hot Chili Peppers,0
-2008-04,Röyksopp,0
-2008-04,Sõpruse Puiestee,0
-2008-04,The Clash,0
-2008-04,The Smashing Pumpkins,0
-2008-04,The Stranglers,0
-2008-04,Vennaskond,0
-2008-04,Yeah Yeah Yeahs,0
-2008-05,Agent M,0
-2008-05,Black Sabbath,0
-2008-05,Captain Rock Hard And Master Bates,0
-2008-05,Iggy Pop,0
-2008-05,John Frusciante,0
-2008-05,John Frusciante And Josh Klinghoffer,0
-2008-05,Metro Luminal,0
-2008-05,Migreen,0
-2008-05,Misfits,0
-2008-05,Pööloy Gläänz,0
-2008-05,Ramones,0
-2008-05,Ratatat,0
-2008-05,Red Hot Chili Peppers,0
-2008-05,Röyksopp,0
-2008-05,Sõpruse Puiestee,0
-2008-05,The Clash,0
-2008-05,The Smashing Pumpkins,0
-2008-05,The Stranglers,0
-2008-05,Vennaskond,0
-2008-05,Yeah Yeah Yeahs,0
-2008-06,Agent M,0
-2008-06,Black Sabbath,0
-2008-06,Captain Rock Hard And Master Bates,0
-2008-06,Iggy Pop,0
-2008-06,John Frusciante,0
-2008-06,John Frusciante And Josh Klinghoffer,0
-2008-06,Metro Luminal,0
-2008-06,Migreen,0
-2008-06,Misfits,0
-2008-06,Pööloy Gläänz,0
-2008-06,Ramones,0
-2008-06,Ratatat,0
-2008-06,Red Hot Chili Peppers,1
-2008-06,Röyksopp,0
-2008-06,Sõpruse Puiestee,0
-2008-06,The Clash,0
-2008-06,The Smashing Pumpkins,0
-2008-06,The Stranglers,0
-2008-06,Vennaskond,0
-2008-06,Yeah Yeah Yeahs,0
+"month","artist","plays"
+"2006-06","Agent M",0
+"2006-06","Black Sabbath",3
+"2006-06","Captain Rock Hard And Master Bates",0
+"2006-06","Iggy Pop",0
+"2006-06","John Frusciante",5
+"2006-06","John Frusciante And Josh Klinghoffer",0
+"2006-06","Metro Luminal",6
+"2006-06","Migreen",0
+"2006-06","Misfits",0
+"2006-06","Pööloy Gläänz",0
+"2006-06","Ramones",59
+"2006-06","Ratatat",0
+"2006-06","Red Hot Chili Peppers",8
+"2006-06","Röyksopp",0
+"2006-06","Sõpruse Puiestee",0
+"2006-06","The Clash",0
+"2006-06","The Smashing Pumpkins",0
+"2006-06","The Stranglers",0
+"2006-06","Vennaskond",9
+"2006-06","Yeah Yeah Yeahs",30
+"2006-07","Agent M",5
+"2006-07","Black Sabbath",31
+"2006-07","Captain Rock Hard And Master Bates",6
+"2006-07","Iggy Pop",7
+"2006-07","John Frusciante",360
+"2006-07","John Frusciante And Josh Klinghoffer",0
+"2006-07","Metro Luminal",35
+"2006-07","Migreen",16
+"2006-07","Misfits",5
+"2006-07","Pööloy Gläänz",3
+"2006-07","Ramones",120
+"2006-07","Ratatat",0
+"2006-07","Red Hot Chili Peppers",67
+"2006-07","Röyksopp",1
+"2006-07","Sõpruse Puiestee",2
+"2006-07","The Clash",6
+"2006-07","The Smashing Pumpkins",27
+"2006-07","The Stranglers",1
+"2006-07","Vennaskond",8
+"2006-07","Yeah Yeah Yeahs",79
+"2006-08","Agent M",46
+"2006-08","Black Sabbath",114
+"2006-08","Captain Rock Hard And Master Bates",6
+"2006-08","Iggy Pop",6
+"2006-08","John Frusciante",369
+"2006-08","John Frusciante And Josh Klinghoffer",57
+"2006-08","Metro Luminal",16
+"2006-08","Migreen",33
+"2006-08","Misfits",15
+"2006-08","Pööloy Gläänz",2
+"2006-08","Ramones",66
+"2006-08","Ratatat",0
+"2006-08","Red Hot Chili Peppers",111
+"2006-08","Röyksopp",2
+"2006-08","Sõpruse Puiestee",7
+"2006-08","The Clash",3
+"2006-08","The Smashing Pumpkins",14
+"2006-08","The Stranglers",1
+"2006-08","Vennaskond",12
+"2006-08","Yeah Yeah Yeahs",108
+"2006-09","Agent M",17
+"2006-09","Black Sabbath",15
+"2006-09","Captain Rock Hard And Master Bates",0
+"2006-09","Iggy Pop",1
+"2006-09","John Frusciante",233
+"2006-09","John Frusciante And Josh Klinghoffer",26
+"2006-09","Metro Luminal",13
+"2006-09","Migreen",1
+"2006-09","Misfits",12
+"2006-09","Pööloy Gläänz",1
+"2006-09","Ramones",6
+"2006-09","Ratatat",0
+"2006-09","Red Hot Chili Peppers",38
+"2006-09","Röyksopp",1
+"2006-09","Sõpruse Puiestee",5
+"2006-09","The Clash",2
+"2006-09","The Smashing Pumpkins",3
+"2006-09","The Stranglers",0
+"2006-09","Vennaskond",9
+"2006-09","Yeah Yeah Yeahs",18
+"2006-10","Agent M",76
+"2006-10","Black Sabbath",23
+"2006-10","Captain Rock Hard And Master Bates",2
+"2006-10","Iggy Pop",2
+"2006-10","John Frusciante",229
+"2006-10","John Frusciante And Josh Klinghoffer",20
+"2006-10","Metro Luminal",41
+"2006-10","Migreen",17
+"2006-10","Misfits",20
+"2006-10","Pööloy Gläänz",3
+"2006-10","Ramones",38
+"2006-10","Ratatat",0
+"2006-10","Red Hot Chili Peppers",85
+"2006-10","Röyksopp",2
+"2006-10","Sõpruse Puiestee",2
+"2006-10","The Clash",3
+"2006-10","The Smashing Pumpkins",6
+"2006-10","The Stranglers",1
+"2006-10","Vennaskond",47
+"2006-10","Yeah Yeah Yeahs",34
+"2006-11","Agent M",11
+"2006-11","Black Sabbath",14
+"2006-11","Captain Rock Hard And Master Bates",2
+"2006-11","Iggy Pop",1
+"2006-11","John Frusciante",63
+"2006-11","John Frusciante And Josh Klinghoffer",4
+"2006-11","Metro Luminal",7
+"2006-11","Migreen",4
+"2006-11","Misfits",0
+"2006-11","Pööloy Gläänz",6
+"2006-11","Ramones",24
+"2006-11","Ratatat",0
+"2006-11","Red Hot Chili Peppers",64
+"2006-11","Röyksopp",1
+"2006-11","Sõpruse Puiestee",5
+"2006-11","The Clash",8
+"2006-11","The Smashing Pumpkins",4
+"2006-11","The Stranglers",0
+"2006-11","Vennaskond",26
+"2006-11","Yeah Yeah Yeahs",14
+"2006-12","Agent M",11
+"2006-12","Black Sabbath",4
+"2006-12","Captain Rock Hard And Master Bates",4
+"2006-12","Iggy Pop",1
+"2006-12","John Frusciante",265
+"2006-12","John Frusciante And Josh Klinghoffer",21
+"2006-12","Metro Luminal",22
+"2006-12","Migreen",3
+"2006-12","Misfits",0
+"2006-12","Pööloy Gläänz",2
+"2006-12","Ramones",44
+"2006-12","Ratatat",6
+"2006-12","Red Hot Chili Peppers",57
+"2006-12","Röyksopp",2
+"2006-12","Sõpruse Puiestee",4
+"2006-12","The Clash",4
+"2006-12","The Smashing Pumpkins",75
+"2006-12","The Stranglers",1
+"2006-12","Vennaskond",36
+"2006-12","Yeah Yeah Yeahs",26
+"2007-01","Agent M",0
+"2007-01","Black Sabbath",25
+"2007-01","Captain Rock Hard And Master Bates",1
+"2007-01","Iggy Pop",3
+"2007-01","John Frusciante",233
+"2007-01","John Frusciante And Josh Klinghoffer",11
+"2007-01","Metro Luminal",11
+"2007-01","Migreen",12
+"2007-01","Misfits",0
+"2007-01","Pööloy Gläänz",0
+"2007-01","Ramones",32
+"2007-01","Ratatat",4
+"2007-01","Red Hot Chili Peppers",25
+"2007-01","Röyksopp",1
+"2007-01","Sõpruse Puiestee",15
+"2007-01","The Clash",8
+"2007-01","The Smashing Pumpkins",63
+"2007-01","The Stranglers",0
+"2007-01","Vennaskond",29
+"2007-01","Yeah Yeah Yeahs",12
+"2007-02","Agent M",2
+"2007-02","Black Sabbath",1
+"2007-02","Captain Rock Hard And Master Bates",5
+"2007-02","Iggy Pop",1
+"2007-02","John Frusciante",162
+"2007-02","John Frusciante And Josh Klinghoffer",18
+"2007-02","Metro Luminal",15
+"2007-02","Migreen",4
+"2007-02","Misfits",0
+"2007-02","Pööloy Gläänz",5
+"2007-02","Ramones",0
+"2007-02","Ratatat",4
+"2007-02","Red Hot Chili Peppers",23
+"2007-02","Röyksopp",0
+"2007-02","Sõpruse Puiestee",7
+"2007-02","The Clash",4
+"2007-02","The Smashing Pumpkins",12
+"2007-02","The Stranglers",0
+"2007-02","Vennaskond",28
+"2007-02","Yeah Yeah Yeahs",14
+"2007-03","Agent M",0
+"2007-03","Black Sabbath",8
+"2007-03","Captain Rock Hard And Master Bates",5
+"2007-03","Iggy Pop",1
+"2007-03","John Frusciante",47
+"2007-03","John Frusciante And Josh Klinghoffer",2
+"2007-03","Metro Luminal",2
+"2007-03","Migreen",0
+"2007-03","Misfits",0
+"2007-03","Pööloy Gläänz",8
+"2007-03","Ramones",10
+"2007-03","Ratatat",3
+"2007-03","Red Hot Chili Peppers",30
+"2007-03","Röyksopp",2
+"2007-03","Sõpruse Puiestee",4
+"2007-03","The Clash",1
+"2007-03","The Smashing Pumpkins",5
+"2007-03","The Stranglers",0
+"2007-03","Vennaskond",11
+"2007-03","Yeah Yeah Yeahs",6
+"2007-04","Agent M",23
+"2007-04","Black Sabbath",0
+"2007-04","Captain Rock Hard And Master Bates",0
+"2007-04","Iggy Pop",14
+"2007-04","John Frusciante",38
+"2007-04","John Frusciante And Josh Klinghoffer",1
+"2007-04","Metro Luminal",3
+"2007-04","Migreen",6
+"2007-04","Misfits",0
+"2007-04","Pööloy Gläänz",2
+"2007-04","Ramones",12
+"2007-04","Ratatat",1
+"2007-04","Red Hot Chili Peppers",2
+"2007-04","Röyksopp",0
+"2007-04","Sõpruse Puiestee",5
+"2007-04","The Clash",1
+"2007-04","The Smashing Pumpkins",11
+"2007-04","The Stranglers",25
+"2007-04","Vennaskond",3
+"2007-04","Yeah Yeah Yeahs",4
+"2007-05","Agent M",1
+"2007-05","Black Sabbath",0
+"2007-05","Captain Rock Hard And Master Bates",4
+"2007-05","Iggy Pop",7
+"2007-05","John Frusciante",14
+"2007-05","John Frusciante And Josh Klinghoffer",2
+"2007-05","Metro Luminal",2
+"2007-05","Migreen",0
+"2007-05","Misfits",18
+"2007-05","Pööloy Gläänz",1
+"2007-05","Ramones",8
+"2007-05","Ratatat",1
+"2007-05","Red Hot Chili Peppers",10
+"2007-05","Röyksopp",1
+"2007-05","Sõpruse Puiestee",0
+"2007-05","The Clash",11
+"2007-05","The Smashing Pumpkins",5
+"2007-05","The Stranglers",13
+"2007-05","Vennaskond",0
+"2007-05","Yeah Yeah Yeahs",5
+"2007-06","Agent M",3
+"2007-06","Black Sabbath",3
+"2007-06","Captain Rock Hard And Master Bates",1
+"2007-06","Iggy Pop",0
+"2007-06","John Frusciante",0
+"2007-06","John Frusciante And Josh Klinghoffer",0
+"2007-06","Metro Luminal",0
+"2007-06","Migreen",4
+"2007-06","Misfits",3
+"2007-06","Pööloy Gläänz",1
+"2007-06","Ramones",0
+"2007-06","Ratatat",1
+"2007-06","Red Hot Chili Peppers",0
+"2007-06","Röyksopp",0
+"2007-06","Sõpruse Puiestee",4
+"2007-06","The Clash",1
+"2007-06","The Smashing Pumpkins",2
+"2007-06","The Stranglers",3
+"2007-06","Vennaskond",7
+"2007-06","Yeah Yeah Yeahs",0
+"2007-07","Agent M",1
+"2007-07","Black Sabbath",0
+"2007-07","Captain Rock Hard And Master Bates",0
+"2007-07","Iggy Pop",2
+"2007-07","John Frusciante",16
+"2007-07","John Frusciante And Josh Klinghoffer",3
+"2007-07","Metro Luminal",0
+"2007-07","Migreen",3
+"2007-07","Misfits",2
+"2007-07","Pööloy Gläänz",1
+"2007-07","Ramones",9
+"2007-07","Ratatat",2
+"2007-07","Red Hot Chili Peppers",25
+"2007-07","Röyksopp",3
+"2007-07","Sõpruse Puiestee",0
+"2007-07","The Clash",1
+"2007-07","The Smashing Pumpkins",32
+"2007-07","The Stranglers",5
+"2007-07","Vennaskond",3
+"2007-07","Yeah Yeah Yeahs",0
+"2007-08","Agent M",0
+"2007-08","Black Sabbath",0
+"2007-08","Captain Rock Hard And Master Bates",0
+"2007-08","Iggy Pop",0
+"2007-08","John Frusciante",4
+"2007-08","John Frusciante And Josh Klinghoffer",1
+"2007-08","Metro Luminal",0
+"2007-08","Migreen",0
+"2007-08","Misfits",4
+"2007-08","Pööloy Gläänz",0
+"2007-08","Ramones",0
+"2007-08","Ratatat",1
+"2007-08","Red Hot Chili Peppers",8
+"2007-08","Röyksopp",2
+"2007-08","Sõpruse Puiestee",0
+"2007-08","The Clash",0
+"2007-08","The Smashing Pumpkins",15
+"2007-08","The Stranglers",4
+"2007-08","Vennaskond",0
+"2007-08","Yeah Yeah Yeahs",0
+"2007-09","Agent M",0
+"2007-09","Black Sabbath",0
+"2007-09","Captain Rock Hard And Master Bates",0
+"2007-09","Iggy Pop",0
+"2007-09","John Frusciante",5
+"2007-09","John Frusciante And Josh Klinghoffer",0
+"2007-09","Metro Luminal",0
+"2007-09","Migreen",0
+"2007-09","Misfits",1
+"2007-09","Pööloy Gläänz",0
+"2007-09","Ramones",0
+"2007-09","Ratatat",1
+"2007-09","Red Hot Chili Peppers",0
+"2007-09","Röyksopp",0
+"2007-09","Sõpruse Puiestee",0
+"2007-09","The Clash",4
+"2007-09","The Smashing Pumpkins",8
+"2007-09","The Stranglers",0
+"2007-09","Vennaskond",0
+"2007-09","Yeah Yeah Yeahs",0
+"2007-10","Agent M",0
+"2007-10","Black Sabbath",0
+"2007-10","Captain Rock Hard And Master Bates",0
+"2007-10","Iggy Pop",0
+"2007-10","John Frusciante",0
+"2007-10","John Frusciante And Josh Klinghoffer",0
+"2007-10","Metro Luminal",4
+"2007-10","Migreen",6
+"2007-10","Misfits",0
+"2007-10","Pööloy Gläänz",0
+"2007-10","Ramones",0
+"2007-10","Ratatat",1
+"2007-10","Red Hot Chili Peppers",2
+"2007-10","Röyksopp",1
+"2007-10","Sõpruse Puiestee",0
+"2007-10","The Clash",6
+"2007-10","The Smashing Pumpkins",3
+"2007-10","The Stranglers",1
+"2007-10","Vennaskond",2
+"2007-10","Yeah Yeah Yeahs",0
+"2007-11","Agent M",0
+"2007-11","Black Sabbath",0
+"2007-11","Captain Rock Hard And Master Bates",4
+"2007-11","Iggy Pop",0
+"2007-11","John Frusciante",15
+"2007-11","John Frusciante And Josh Klinghoffer",0
+"2007-11","Metro Luminal",7
+"2007-11","Migreen",4
+"2007-11","Misfits",18
+"2007-11","Pööloy Gläänz",0
+"2007-11","Ramones",5
+"2007-11","Ratatat",0
+"2007-11","Red Hot Chili Peppers",1
+"2007-11","Röyksopp",0
+"2007-11","Sõpruse Puiestee",2
+"2007-11","The Clash",1
+"2007-11","The Smashing Pumpkins",7
+"2007-11","The Stranglers",5
+"2007-11","Vennaskond",0
+"2007-11","Yeah Yeah Yeahs",0
+"2007-12","Agent M",0
+"2007-12","Black Sabbath",0
+"2007-12","Captain Rock Hard And Master Bates",1
+"2007-12","Iggy Pop",0
+"2007-12","John Frusciante",4
+"2007-12","John Frusciante And Josh Klinghoffer",2
+"2007-12","Metro Luminal",0
+"2007-12","Migreen",1
+"2007-12","Misfits",3
+"2007-12","Pööloy Gläänz",0
+"2007-12","Ramones",0
+"2007-12","Ratatat",1
+"2007-12","Red Hot Chili Peppers",2
+"2007-12","Röyksopp",1
+"2007-12","Sõpruse Puiestee",0
+"2007-12","The Clash",3
+"2007-12","The Smashing Pumpkins",22
+"2007-12","The Stranglers",7
+"2007-12","Vennaskond",0
+"2007-12","Yeah Yeah Yeahs",0
+"2008-01","Agent M",1
+"2008-01","Black Sabbath",0
+"2008-01","Captain Rock Hard And Master Bates",0
+"2008-01","Iggy Pop",0
+"2008-01","John Frusciante",2
+"2008-01","John Frusciante And Josh Klinghoffer",0
+"2008-01","Metro Luminal",6
+"2008-01","Migreen",3
+"2008-01","Misfits",0
+"2008-01","Pööloy Gläänz",1
+"2008-01","Ramones",0
+"2008-01","Ratatat",1
+"2008-01","Red Hot Chili Peppers",7
+"2008-01","Röyksopp",1
+"2008-01","Sõpruse Puiestee",1
+"2008-01","The Clash",3
+"2008-01","The Smashing Pumpkins",0
+"2008-01","The Stranglers",3
+"2008-01","Vennaskond",1
+"2008-01","Yeah Yeah Yeahs",0
+"2008-02","Agent M",0
+"2008-02","Black Sabbath",0
+"2008-02","Captain Rock Hard And Master Bates",0
+"2008-02","Iggy Pop",0
+"2008-02","John Frusciante",0
+"2008-02","John Frusciante And Josh Klinghoffer",0
+"2008-02","Metro Luminal",0
+"2008-02","Migreen",0
+"2008-02","Misfits",0
+"2008-02","Pööloy Gläänz",0
+"2008-02","Ramones",0
+"2008-02","Ratatat",0
+"2008-02","Red Hot Chili Peppers",0
+"2008-02","Röyksopp",0
+"2008-02","Sõpruse Puiestee",0
+"2008-02","The Clash",0
+"2008-02","The Smashing Pumpkins",0
+"2008-02","The Stranglers",0
+"2008-02","Vennaskond",0
+"2008-02","Yeah Yeah Yeahs",0
+"2008-03","Agent M",0
+"2008-03","Black Sabbath",0
+"2008-03","Captain Rock Hard And Master Bates",0
+"2008-03","Iggy Pop",0
+"2008-03","John Frusciante",0
+"2008-03","John Frusciante And Josh Klinghoffer",0
+"2008-03","Metro Luminal",0
+"2008-03","Migreen",0
+"2008-03","Misfits",0
+"2008-03","Pööloy Gläänz",0
+"2008-03","Ramones",0
+"2008-03","Ratatat",0
+"2008-03","Red Hot Chili Peppers",0
+"2008-03","Röyksopp",0
+"2008-03","Sõpruse Puiestee",0
+"2008-03","The Clash",0
+"2008-03","The Smashing Pumpkins",0
+"2008-03","The Stranglers",0
+"2008-03","Vennaskond",0
+"2008-03","Yeah Yeah Yeahs",0
+"2008-04","Agent M",0
+"2008-04","Black Sabbath",0
+"2008-04","Captain Rock Hard And Master Bates",0
+"2008-04","Iggy Pop",0
+"2008-04","John Frusciante",0
+"2008-04","John Frusciante And Josh Klinghoffer",0
+"2008-04","Metro Luminal",0
+"2008-04","Migreen",0
+"2008-04","Misfits",0
+"2008-04","Pööloy Gläänz",0
+"2008-04","Ramones",0
+"2008-04","Ratatat",0
+"2008-04","Red Hot Chili Peppers",0
+"2008-04","Röyksopp",0
+"2008-04","Sõpruse Puiestee",0
+"2008-04","The Clash",0
+"2008-04","The Smashing Pumpkins",0
+"2008-04","The Stranglers",0
+"2008-04","Vennaskond",0
+"2008-04","Yeah Yeah Yeahs",0
+"2008-05","Agent M",0
+"2008-05","Black Sabbath",0
+"2008-05","Captain Rock Hard And Master Bates",0
+"2008-05","Iggy Pop",0
+"2008-05","John Frusciante",0
+"2008-05","John Frusciante And Josh Klinghoffer",0
+"2008-05","Metro Luminal",0
+"2008-05","Migreen",0
+"2008-05","Misfits",0
+"2008-05","Pööloy Gläänz",0
+"2008-05","Ramones",0
+"2008-05","Ratatat",0
+"2008-05","Red Hot Chili Peppers",0
+"2008-05","Röyksopp",0
+"2008-05","Sõpruse Puiestee",0
+"2008-05","The Clash",0
+"2008-05","The Smashing Pumpkins",0
+"2008-05","The Stranglers",0
+"2008-05","Vennaskond",0
+"2008-05","Yeah Yeah Yeahs",0
+"2008-06","Agent M",0
+"2008-06","Black Sabbath",0
+"2008-06","Captain Rock Hard And Master Bates",0
+"2008-06","Iggy Pop",0
+"2008-06","John Frusciante",0
+"2008-06","John Frusciante And Josh Klinghoffer",0
+"2008-06","Metro Luminal",0
+"2008-06","Migreen",0
+"2008-06","Misfits",0
+"2008-06","Pööloy Gläänz",0
+"2008-06","Ramones",0
+"2008-06","Ratatat",0
+"2008-06","Red Hot Chili Peppers",1
+"2008-06","Röyksopp",0
+"2008-06","Sõpruse Puiestee",0
+"2008-06","The Clash",0
+"2008-06","The Smashing Pumpkins",0
+"2008-06","The Stranglers",0
+"2008-06","Vennaskond",0
+"2008-06","Yeah Yeah Yeahs",0

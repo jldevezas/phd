@@ -1,681 +1,681 @@
-month,artist,plays
-2006-09,A Perfect Circle,9
-2006-09,Ac/Dc,15
-2006-09,Audioslave,18
-2006-09,Black Sabbath,10
-2006-09,Bloc Party,5
-2006-09,Blues Traveler,0
-2006-09,Deus,8
-2006-09,Dire Straits,13
-2006-09,Ensiferum,4
-2006-09,Foo Fighters,1
-2006-09,Franz Ferdinand,1
-2006-09,Millencolin,3
-2006-09,Opeth,23
-2006-09,Porcupine Tree,17
-2006-09,Queens Of The Stone Age,1
-2006-09,Rage Against The Machine,8
-2006-09,Rammstein,4
-2006-09,St. Germain,1
-2006-09,Sum 41,3
-2006-09,Tool,17
-2006-10,A Perfect Circle,13
-2006-10,Ac/Dc,0
-2006-10,Audioslave,0
-2006-10,Black Sabbath,0
-2006-10,Bloc Party,0
-2006-10,Blues Traveler,0
-2006-10,Deus,0
-2006-10,Dire Straits,0
-2006-10,Ensiferum,6
-2006-10,Foo Fighters,6
-2006-10,Franz Ferdinand,8
-2006-10,Millencolin,9
-2006-10,Opeth,40
-2006-10,Porcupine Tree,43
-2006-10,Queens Of The Stone Age,4
-2006-10,Rage Against The Machine,31
-2006-10,Rammstein,8
-2006-10,St. Germain,0
-2006-10,Sum 41,0
-2006-10,Tool,0
-2006-11,A Perfect Circle,4
-2006-11,Ac/Dc,3
-2006-11,Audioslave,0
-2006-11,Black Sabbath,4
-2006-11,Bloc Party,2
-2006-11,Blues Traveler,0
-2006-11,Deus,7
-2006-11,Dire Straits,7
-2006-11,Ensiferum,23
-2006-11,Foo Fighters,0
-2006-11,Franz Ferdinand,4
-2006-11,Millencolin,0
-2006-11,Opeth,23
-2006-11,Porcupine Tree,6
-2006-11,Queens Of The Stone Age,2
-2006-11,Rage Against The Machine,4
-2006-11,Rammstein,1
-2006-11,St. Germain,11
-2006-11,Sum 41,8
-2006-11,Tool,28
-2006-12,A Perfect Circle,3
-2006-12,Ac/Dc,0
-2006-12,Audioslave,1
-2006-12,Black Sabbath,1
-2006-12,Bloc Party,2
-2006-12,Blues Traveler,0
-2006-12,Deus,10
-2006-12,Dire Straits,7
-2006-12,Ensiferum,62
-2006-12,Foo Fighters,1
-2006-12,Franz Ferdinand,1
-2006-12,Millencolin,5
-2006-12,Opeth,16
-2006-12,Porcupine Tree,14
-2006-12,Queens Of The Stone Age,2
-2006-12,Rage Against The Machine,3
-2006-12,Rammstein,0
-2006-12,St. Germain,2
-2006-12,Sum 41,2
-2006-12,Tool,4
-2007-01,A Perfect Circle,4
-2007-01,Ac/Dc,2
-2007-01,Audioslave,0
-2007-01,Black Sabbath,2
-2007-01,Bloc Party,0
-2007-01,Blues Traveler,0
-2007-01,Deus,3
-2007-01,Dire Straits,8
-2007-01,Ensiferum,12
-2007-01,Foo Fighters,0
-2007-01,Franz Ferdinand,2
-2007-01,Millencolin,2
-2007-01,Opeth,24
-2007-01,Porcupine Tree,15
-2007-01,Queens Of The Stone Age,2
-2007-01,Rage Against The Machine,2
-2007-01,Rammstein,0
-2007-01,St. Germain,2
-2007-01,Sum 41,2
-2007-01,Tool,4
-2007-02,A Perfect Circle,1
-2007-02,Ac/Dc,1
-2007-02,Audioslave,5
-2007-02,Black Sabbath,1
-2007-02,Bloc Party,2
-2007-02,Blues Traveler,0
-2007-02,Deus,1
-2007-02,Dire Straits,11
-2007-02,Ensiferum,11
-2007-02,Foo Fighters,2
-2007-02,Franz Ferdinand,1
-2007-02,Millencolin,1
-2007-02,Opeth,17
-2007-02,Porcupine Tree,5
-2007-02,Queens Of The Stone Age,1
-2007-02,Rage Against The Machine,3
-2007-02,Rammstein,1
-2007-02,St. Germain,0
-2007-02,Sum 41,1
-2007-02,Tool,3
-2007-03,A Perfect Circle,4
-2007-03,Ac/Dc,2
-2007-03,Audioslave,3
-2007-03,Black Sabbath,4
-2007-03,Bloc Party,2
-2007-03,Blues Traveler,0
-2007-03,Deus,3
-2007-03,Dire Straits,0
-2007-03,Ensiferum,9
-2007-03,Foo Fighters,1
-2007-03,Franz Ferdinand,0
-2007-03,Millencolin,2
-2007-03,Opeth,19
-2007-03,Porcupine Tree,7
-2007-03,Queens Of The Stone Age,0
-2007-03,Rage Against The Machine,4
-2007-03,Rammstein,2
-2007-03,St. Germain,3
-2007-03,Sum 41,2
-2007-03,Tool,0
-2007-04,A Perfect Circle,3
-2007-04,Ac/Dc,1
-2007-04,Audioslave,2
-2007-04,Black Sabbath,1
-2007-04,Bloc Party,1
-2007-04,Blues Traveler,0
-2007-04,Deus,0
-2007-04,Dire Straits,3
-2007-04,Ensiferum,8
-2007-04,Foo Fighters,1
-2007-04,Franz Ferdinand,1
-2007-04,Millencolin,3
-2007-04,Opeth,52
-2007-04,Porcupine Tree,5
-2007-04,Queens Of The Stone Age,1
-2007-04,Rage Against The Machine,5
-2007-04,Rammstein,1
-2007-04,St. Germain,3
-2007-04,Sum 41,4
-2007-04,Tool,4
-2007-05,A Perfect Circle,3
-2007-05,Ac/Dc,0
-2007-05,Audioslave,2
-2007-05,Black Sabbath,0
-2007-05,Bloc Party,0
-2007-05,Blues Traveler,0
-2007-05,Deus,3
-2007-05,Dire Straits,3
-2007-05,Ensiferum,13
-2007-05,Foo Fighters,2
-2007-05,Franz Ferdinand,2
-2007-05,Millencolin,4
-2007-05,Opeth,10
-2007-05,Porcupine Tree,19
-2007-05,Queens Of The Stone Age,2
-2007-05,Rage Against The Machine,8
-2007-05,Rammstein,8
-2007-05,St. Germain,0
-2007-05,Sum 41,1
-2007-05,Tool,2
-2007-06,A Perfect Circle,2
-2007-06,Ac/Dc,2
-2007-06,Audioslave,10
-2007-06,Black Sabbath,0
-2007-06,Bloc Party,2
-2007-06,Blues Traveler,0
-2007-06,Deus,2
-2007-06,Dire Straits,9
-2007-06,Ensiferum,9
-2007-06,Foo Fighters,1
-2007-06,Franz Ferdinand,2
-2007-06,Millencolin,1
-2007-06,Opeth,9
-2007-06,Porcupine Tree,9
-2007-06,Queens Of The Stone Age,1
-2007-06,Rage Against The Machine,7
-2007-06,Rammstein,4
-2007-06,St. Germain,0
-2007-06,Sum 41,1
-2007-06,Tool,5
-2007-07,A Perfect Circle,1
-2007-07,Ac/Dc,0
-2007-07,Audioslave,3
-2007-07,Black Sabbath,1
-2007-07,Bloc Party,1
-2007-07,Blues Traveler,0
-2007-07,Deus,1
-2007-07,Dire Straits,1
-2007-07,Ensiferum,4
-2007-07,Foo Fighters,0
-2007-07,Franz Ferdinand,2
-2007-07,Millencolin,3
-2007-07,Opeth,10
-2007-07,Porcupine Tree,7
-2007-07,Queens Of The Stone Age,0
-2007-07,Rage Against The Machine,12
-2007-07,Rammstein,2
-2007-07,St. Germain,0
-2007-07,Sum 41,1
-2007-07,Tool,3
-2007-08,A Perfect Circle,1
-2007-08,Ac/Dc,7
-2007-08,Audioslave,4
-2007-08,Black Sabbath,2
-2007-08,Bloc Party,3
-2007-08,Blues Traveler,3
-2007-08,Deus,1
-2007-08,Dire Straits,4
-2007-08,Ensiferum,7
-2007-08,Foo Fighters,5
-2007-08,Franz Ferdinand,3
-2007-08,Millencolin,1
-2007-08,Opeth,10
-2007-08,Porcupine Tree,10
-2007-08,Queens Of The Stone Age,3
-2007-08,Rage Against The Machine,9
-2007-08,Rammstein,1
-2007-08,St. Germain,2
-2007-08,Sum 41,3
-2007-08,Tool,4
-2007-09,A Perfect Circle,4
-2007-09,Ac/Dc,2
-2007-09,Audioslave,4
-2007-09,Black Sabbath,1
-2007-09,Bloc Party,1
-2007-09,Blues Traveler,10
-2007-09,Deus,1
-2007-09,Dire Straits,4
-2007-09,Ensiferum,6
-2007-09,Foo Fighters,15
-2007-09,Franz Ferdinand,4
-2007-09,Millencolin,8
-2007-09,Opeth,21
-2007-09,Porcupine Tree,10
-2007-09,Queens Of The Stone Age,3
-2007-09,Rage Against The Machine,5
-2007-09,Rammstein,3
-2007-09,St. Germain,0
-2007-09,Sum 41,3
-2007-09,Tool,7
-2007-10,A Perfect Circle,5
-2007-10,Ac/Dc,1
-2007-10,Audioslave,4
-2007-10,Black Sabbath,1
-2007-10,Bloc Party,1
-2007-10,Blues Traveler,12
-2007-10,Deus,16
-2007-10,Dire Straits,3
-2007-10,Ensiferum,4
-2007-10,Foo Fighters,4
-2007-10,Franz Ferdinand,0
-2007-10,Millencolin,17
-2007-10,Opeth,7
-2007-10,Porcupine Tree,10
-2007-10,Queens Of The Stone Age,2
-2007-10,Rage Against The Machine,5
-2007-10,Rammstein,2
-2007-10,St. Germain,1
-2007-10,Sum 41,2
-2007-10,Tool,3
-2007-11,A Perfect Circle,1
-2007-11,Ac/Dc,1
-2007-11,Audioslave,2
-2007-11,Black Sabbath,2
-2007-11,Bloc Party,1
-2007-11,Blues Traveler,19
-2007-11,Deus,66
-2007-11,Dire Straits,4
-2007-11,Ensiferum,6
-2007-11,Foo Fighters,15
-2007-11,Franz Ferdinand,1
-2007-11,Millencolin,12
-2007-11,Opeth,11
-2007-11,Porcupine Tree,10
-2007-11,Queens Of The Stone Age,5
-2007-11,Rage Against The Machine,4
-2007-11,Rammstein,2
-2007-11,St. Germain,1
-2007-11,Sum 41,2
-2007-11,Tool,4
-2007-12,A Perfect Circle,0
-2007-12,Ac/Dc,2
-2007-12,Audioslave,2
-2007-12,Black Sabbath,2
-2007-12,Bloc Party,2
-2007-12,Blues Traveler,7
-2007-12,Deus,3
-2007-12,Dire Straits,23
-2007-12,Ensiferum,37
-2007-12,Foo Fighters,10
-2007-12,Franz Ferdinand,0
-2007-12,Millencolin,6
-2007-12,Opeth,5
-2007-12,Porcupine Tree,5
-2007-12,Queens Of The Stone Age,1
-2007-12,Rage Against The Machine,2
-2007-12,Rammstein,1
-2007-12,St. Germain,1
-2007-12,Sum 41,4
-2007-12,Tool,1
-2008-01,A Perfect Circle,3
-2008-01,Ac/Dc,2
-2008-01,Audioslave,10
-2008-01,Black Sabbath,4
-2008-01,Bloc Party,3
-2008-01,Blues Traveler,38
-2008-01,Deus,9
-2008-01,Dire Straits,14
-2008-01,Ensiferum,22
-2008-01,Foo Fighters,15
-2008-01,Franz Ferdinand,0
-2008-01,Millencolin,16
-2008-01,Opeth,24
-2008-01,Porcupine Tree,7
-2008-01,Queens Of The Stone Age,2
-2008-01,Rage Against The Machine,40
-2008-01,Rammstein,7
-2008-01,St. Germain,4
-2008-01,Sum 41,1
-2008-01,Tool,17
-2008-02,A Perfect Circle,1
-2008-02,Ac/Dc,6
-2008-02,Audioslave,1
-2008-02,Black Sabbath,0
-2008-02,Bloc Party,0
-2008-02,Blues Traveler,84
-2008-02,Deus,7
-2008-02,Dire Straits,17
-2008-02,Ensiferum,7
-2008-02,Foo Fighters,7
-2008-02,Franz Ferdinand,2
-2008-02,Millencolin,4
-2008-02,Opeth,59
-2008-02,Porcupine Tree,5
-2008-02,Queens Of The Stone Age,2
-2008-02,Rage Against The Machine,16
-2008-02,Rammstein,1
-2008-02,St. Germain,2
-2008-02,Sum 41,2
-2008-02,Tool,3
-2008-03,A Perfect Circle,2
-2008-03,Ac/Dc,0
-2008-03,Audioslave,14
-2008-03,Black Sabbath,12
-2008-03,Bloc Party,11
-2008-03,Blues Traveler,73
-2008-03,Deus,2
-2008-03,Dire Straits,41
-2008-03,Ensiferum,0
-2008-03,Foo Fighters,0
-2008-03,Franz Ferdinand,11
-2008-03,Millencolin,1
-2008-03,Opeth,25
-2008-03,Porcupine Tree,0
-2008-03,Queens Of The Stone Age,6
-2008-03,Rage Against The Machine,12
-2008-03,Rammstein,0
-2008-03,St. Germain,30
-2008-03,Sum 41,0
-2008-03,Tool,2
-2008-04,A Perfect Circle,5
-2008-04,Ac/Dc,0
-2008-04,Audioslave,9
-2008-04,Black Sabbath,3
-2008-04,Bloc Party,5
-2008-04,Blues Traveler,108
-2008-04,Deus,0
-2008-04,Dire Straits,26
-2008-04,Ensiferum,0
-2008-04,Foo Fighters,0
-2008-04,Franz Ferdinand,17
-2008-04,Millencolin,0
-2008-04,Opeth,4
-2008-04,Porcupine Tree,0
-2008-04,Queens Of The Stone Age,5
-2008-04,Rage Against The Machine,0
-2008-04,Rammstein,0
-2008-04,St. Germain,3
-2008-04,Sum 41,0
-2008-04,Tool,0
-2008-05,A Perfect Circle,0
-2008-05,Ac/Dc,10
-2008-05,Audioslave,0
-2008-05,Black Sabbath,10
-2008-05,Bloc Party,4
-2008-05,Blues Traveler,26
-2008-05,Deus,4
-2008-05,Dire Straits,12
-2008-05,Ensiferum,2
-2008-05,Foo Fighters,10
-2008-05,Franz Ferdinand,6
-2008-05,Millencolin,0
-2008-05,Opeth,0
-2008-05,Porcupine Tree,0
-2008-05,Queens Of The Stone Age,0
-2008-05,Rage Against The Machine,6
-2008-05,Rammstein,0
-2008-05,St. Germain,5
-2008-05,Sum 41,0
-2008-05,Tool,0
-2008-06,A Perfect Circle,0
-2008-06,Ac/Dc,0
-2008-06,Audioslave,0
-2008-06,Black Sabbath,5
-2008-06,Bloc Party,5
-2008-06,Blues Traveler,67
-2008-06,Deus,6
-2008-06,Dire Straits,16
-2008-06,Ensiferum,0
-2008-06,Foo Fighters,0
-2008-06,Franz Ferdinand,0
-2008-06,Millencolin,10
-2008-06,Opeth,0
-2008-06,Porcupine Tree,3
-2008-06,Queens Of The Stone Age,16
-2008-06,Rage Against The Machine,11
-2008-06,Rammstein,0
-2008-06,St. Germain,18
-2008-06,Sum 41,0
-2008-06,Tool,0
-2008-07,A Perfect Circle,0
-2008-07,Ac/Dc,12
-2008-07,Audioslave,14
-2008-07,Black Sabbath,0
-2008-07,Bloc Party,0
-2008-07,Blues Traveler,50
-2008-07,Deus,0
-2008-07,Dire Straits,5
-2008-07,Ensiferum,0
-2008-07,Foo Fighters,0
-2008-07,Franz Ferdinand,0
-2008-07,Millencolin,0
-2008-07,Opeth,0
-2008-07,Porcupine Tree,0
-2008-07,Queens Of The Stone Age,3
-2008-07,Rage Against The Machine,0
-2008-07,Rammstein,0
-2008-07,St. Germain,7
-2008-07,Sum 41,0
-2008-07,Tool,0
-2008-08,A Perfect Circle,0
-2008-08,Ac/Dc,7
-2008-08,Audioslave,14
-2008-08,Black Sabbath,3
-2008-08,Bloc Party,0
-2008-08,Blues Traveler,32
-2008-08,Deus,0
-2008-08,Dire Straits,0
-2008-08,Ensiferum,0
-2008-08,Foo Fighters,0
-2008-08,Franz Ferdinand,0
-2008-08,Millencolin,4
-2008-08,Opeth,0
-2008-08,Porcupine Tree,0
-2008-08,Queens Of The Stone Age,5
-2008-08,Rage Against The Machine,0
-2008-08,Rammstein,0
-2008-08,St. Germain,21
-2008-08,Sum 41,0
-2008-08,Tool,0
-2008-09,A Perfect Circle,0
-2008-09,Ac/Dc,0
-2008-09,Audioslave,0
-2008-09,Black Sabbath,3
-2008-09,Bloc Party,4
-2008-09,Blues Traveler,11
-2008-09,Deus,3
-2008-09,Dire Straits,1
-2008-09,Ensiferum,3
-2008-09,Foo Fighters,0
-2008-09,Franz Ferdinand,7
-2008-09,Millencolin,0
-2008-09,Opeth,1
-2008-09,Porcupine Tree,2
-2008-09,Queens Of The Stone Age,0
-2008-09,Rage Against The Machine,1
-2008-09,Rammstein,0
-2008-09,St. Germain,7
-2008-09,Sum 41,0
-2008-09,Tool,0
-2008-10,A Perfect Circle,0
-2008-10,Ac/Dc,15
-2008-10,Audioslave,0
-2008-10,Black Sabbath,0
-2008-10,Bloc Party,0
-2008-10,Blues Traveler,52
-2008-10,Deus,10
-2008-10,Dire Straits,13
-2008-10,Ensiferum,1
-2008-10,Foo Fighters,11
-2008-10,Franz Ferdinand,2
-2008-10,Millencolin,2
-2008-10,Opeth,4
-2008-10,Porcupine Tree,0
-2008-10,Queens Of The Stone Age,4
-2008-10,Rage Against The Machine,8
-2008-10,Rammstein,1
-2008-10,St. Germain,14
-2008-10,Sum 41,29
-2008-10,Tool,3
-2008-11,A Perfect Circle,0
-2008-11,Ac/Dc,32
-2008-11,Audioslave,22
-2008-11,Black Sabbath,0
-2008-11,Bloc Party,5
-2008-11,Blues Traveler,12
-2008-11,Deus,32
-2008-11,Dire Straits,8
-2008-11,Ensiferum,0
-2008-11,Foo Fighters,1
-2008-11,Franz Ferdinand,0
-2008-11,Millencolin,14
-2008-11,Opeth,4
-2008-11,Porcupine Tree,0
-2008-11,Queens Of The Stone Age,0
-2008-11,Rage Against The Machine,1
-2008-11,Rammstein,5
-2008-11,St. Germain,0
-2008-11,Sum 41,11
-2008-11,Tool,0
-2008-12,A Perfect Circle,0
-2008-12,Ac/Dc,8
-2008-12,Audioslave,14
-2008-12,Black Sabbath,0
-2008-12,Bloc Party,0
-2008-12,Blues Traveler,1
-2008-12,Deus,3
-2008-12,Dire Straits,20
-2008-12,Ensiferum,0
-2008-12,Foo Fighters,15
-2008-12,Franz Ferdinand,1
-2008-12,Millencolin,0
-2008-12,Opeth,1
-2008-12,Porcupine Tree,0
-2008-12,Queens Of The Stone Age,0
-2008-12,Rage Against The Machine,0
-2008-12,Rammstein,0
-2008-12,St. Germain,2
-2008-12,Sum 41,2
-2008-12,Tool,1
-2009-01,A Perfect Circle,0
-2009-01,Ac/Dc,3
-2009-01,Audioslave,0
-2009-01,Black Sabbath,0
-2009-01,Bloc Party,5
-2009-01,Blues Traveler,26
-2009-01,Deus,0
-2009-01,Dire Straits,231
-2009-01,Ensiferum,0
-2009-01,Foo Fighters,0
-2009-01,Franz Ferdinand,0
-2009-01,Millencolin,0
-2009-01,Opeth,0
-2009-01,Porcupine Tree,19
-2009-01,Queens Of The Stone Age,0
-2009-01,Rage Against The Machine,2
-2009-01,Rammstein,0
-2009-01,St. Germain,0
-2009-01,Sum 41,4
-2009-01,Tool,0
-2009-02,A Perfect Circle,0
-2009-02,Ac/Dc,12
-2009-02,Audioslave,0
-2009-02,Black Sabbath,0
-2009-02,Bloc Party,0
-2009-02,Blues Traveler,5
-2009-02,Deus,0
-2009-02,Dire Straits,65
-2009-02,Ensiferum,0
-2009-02,Foo Fighters,0
-2009-02,Franz Ferdinand,0
-2009-02,Millencolin,0
-2009-02,Opeth,4
-2009-02,Porcupine Tree,0
-2009-02,Queens Of The Stone Age,6
-2009-02,Rage Against The Machine,0
-2009-02,Rammstein,1
-2009-02,St. Germain,22
-2009-02,Sum 41,0
-2009-02,Tool,0
-2009-03,A Perfect Circle,2
-2009-03,Ac/Dc,0
-2009-03,Audioslave,3
-2009-03,Black Sabbath,1
-2009-03,Bloc Party,3
-2009-03,Blues Traveler,17
-2009-03,Deus,1
-2009-03,Dire Straits,16
-2009-03,Ensiferum,4
-2009-03,Foo Fighters,4
-2009-03,Franz Ferdinand,1
-2009-03,Millencolin,3
-2009-03,Opeth,5
-2009-03,Porcupine Tree,4
-2009-03,Queens Of The Stone Age,4
-2009-03,Rage Against The Machine,2
-2009-03,Rammstein,6
-2009-03,St. Germain,2
-2009-03,Sum 41,22
-2009-03,Tool,4
-2009-04,A Perfect Circle,3
-2009-04,Ac/Dc,1
-2009-04,Audioslave,8
-2009-04,Black Sabbath,1
-2009-04,Bloc Party,1
-2009-04,Blues Traveler,7
-2009-04,Deus,3
-2009-04,Dire Straits,14
-2009-04,Ensiferum,0
-2009-04,Foo Fighters,5
-2009-04,Franz Ferdinand,0
-2009-04,Millencolin,5
-2009-04,Opeth,9
-2009-04,Porcupine Tree,4
-2009-04,Queens Of The Stone Age,6
-2009-04,Rage Against The Machine,5
-2009-04,Rammstein,2
-2009-04,St. Germain,7
-2009-04,Sum 41,10
-2009-04,Tool,2
-2009-05,A Perfect Circle,1
-2009-05,Ac/Dc,3
-2009-05,Audioslave,1
-2009-05,Black Sabbath,1
-2009-05,Bloc Party,4
-2009-05,Blues Traveler,6
-2009-05,Deus,13
-2009-05,Dire Straits,17
-2009-05,Ensiferum,2
-2009-05,Foo Fighters,2
-2009-05,Franz Ferdinand,1
-2009-05,Millencolin,2
-2009-05,Opeth,9
-2009-05,Porcupine Tree,1
-2009-05,Queens Of The Stone Age,6
-2009-05,Rage Against The Machine,5
-2009-05,Rammstein,42
-2009-05,St. Germain,16
-2009-05,Sum 41,5
-2009-05,Tool,2
-2009-06,A Perfect Circle,1
-2009-06,Ac/Dc,1
-2009-06,Audioslave,0
-2009-06,Black Sabbath,1
-2009-06,Bloc Party,1
-2009-06,Blues Traveler,0
-2009-06,Deus,1
-2009-06,Dire Straits,3
-2009-06,Ensiferum,3
-2009-06,Foo Fighters,4
-2009-06,Franz Ferdinand,1
-2009-06,Millencolin,2
-2009-06,Opeth,1
-2009-06,Porcupine Tree,2
-2009-06,Queens Of The Stone Age,2
-2009-06,Rage Against The Machine,2
-2009-06,Rammstein,3
-2009-06,St. Germain,2
-2009-06,Sum 41,0
-2009-06,Tool,2
+"month","artist","plays"
+"2006-09","A Perfect Circle",9
+"2006-09","Ac/Dc",15
+"2006-09","Audioslave",18
+"2006-09","Black Sabbath",10
+"2006-09","Bloc Party",5
+"2006-09","Blues Traveler",0
+"2006-09","Deus",8
+"2006-09","Dire Straits",13
+"2006-09","Ensiferum",4
+"2006-09","Foo Fighters",1
+"2006-09","Franz Ferdinand",1
+"2006-09","Millencolin",3
+"2006-09","Opeth",23
+"2006-09","Porcupine Tree",17
+"2006-09","Queens Of The Stone Age",1
+"2006-09","Rage Against The Machine",8
+"2006-09","Rammstein",4
+"2006-09","St. Germain",1
+"2006-09","Sum 41",3
+"2006-09","Tool",17
+"2006-10","A Perfect Circle",13
+"2006-10","Ac/Dc",0
+"2006-10","Audioslave",0
+"2006-10","Black Sabbath",0
+"2006-10","Bloc Party",0
+"2006-10","Blues Traveler",0
+"2006-10","Deus",0
+"2006-10","Dire Straits",0
+"2006-10","Ensiferum",6
+"2006-10","Foo Fighters",6
+"2006-10","Franz Ferdinand",8
+"2006-10","Millencolin",9
+"2006-10","Opeth",40
+"2006-10","Porcupine Tree",43
+"2006-10","Queens Of The Stone Age",4
+"2006-10","Rage Against The Machine",31
+"2006-10","Rammstein",8
+"2006-10","St. Germain",0
+"2006-10","Sum 41",0
+"2006-10","Tool",0
+"2006-11","A Perfect Circle",4
+"2006-11","Ac/Dc",3
+"2006-11","Audioslave",0
+"2006-11","Black Sabbath",4
+"2006-11","Bloc Party",2
+"2006-11","Blues Traveler",0
+"2006-11","Deus",7
+"2006-11","Dire Straits",7
+"2006-11","Ensiferum",23
+"2006-11","Foo Fighters",0
+"2006-11","Franz Ferdinand",4
+"2006-11","Millencolin",0
+"2006-11","Opeth",23
+"2006-11","Porcupine Tree",6
+"2006-11","Queens Of The Stone Age",2
+"2006-11","Rage Against The Machine",4
+"2006-11","Rammstein",1
+"2006-11","St. Germain",11
+"2006-11","Sum 41",8
+"2006-11","Tool",28
+"2006-12","A Perfect Circle",3
+"2006-12","Ac/Dc",0
+"2006-12","Audioslave",1
+"2006-12","Black Sabbath",1
+"2006-12","Bloc Party",2
+"2006-12","Blues Traveler",0
+"2006-12","Deus",10
+"2006-12","Dire Straits",7
+"2006-12","Ensiferum",62
+"2006-12","Foo Fighters",1
+"2006-12","Franz Ferdinand",1
+"2006-12","Millencolin",5
+"2006-12","Opeth",16
+"2006-12","Porcupine Tree",14
+"2006-12","Queens Of The Stone Age",2
+"2006-12","Rage Against The Machine",3
+"2006-12","Rammstein",0
+"2006-12","St. Germain",2
+"2006-12","Sum 41",2
+"2006-12","Tool",4
+"2007-01","A Perfect Circle",4
+"2007-01","Ac/Dc",2
+"2007-01","Audioslave",0
+"2007-01","Black Sabbath",2
+"2007-01","Bloc Party",0
+"2007-01","Blues Traveler",0
+"2007-01","Deus",3
+"2007-01","Dire Straits",8
+"2007-01","Ensiferum",12
+"2007-01","Foo Fighters",0
+"2007-01","Franz Ferdinand",2
+"2007-01","Millencolin",2
+"2007-01","Opeth",24
+"2007-01","Porcupine Tree",15
+"2007-01","Queens Of The Stone Age",2
+"2007-01","Rage Against The Machine",2
+"2007-01","Rammstein",0
+"2007-01","St. Germain",2
+"2007-01","Sum 41",2
+"2007-01","Tool",4
+"2007-02","A Perfect Circle",1
+"2007-02","Ac/Dc",1
+"2007-02","Audioslave",5
+"2007-02","Black Sabbath",1
+"2007-02","Bloc Party",2
+"2007-02","Blues Traveler",0
+"2007-02","Deus",1
+"2007-02","Dire Straits",11
+"2007-02","Ensiferum",11
+"2007-02","Foo Fighters",2
+"2007-02","Franz Ferdinand",1
+"2007-02","Millencolin",1
+"2007-02","Opeth",17
+"2007-02","Porcupine Tree",5
+"2007-02","Queens Of The Stone Age",1
+"2007-02","Rage Against The Machine",3
+"2007-02","Rammstein",1
+"2007-02","St. Germain",0
+"2007-02","Sum 41",1
+"2007-02","Tool",3
+"2007-03","A Perfect Circle",4
+"2007-03","Ac/Dc",2
+"2007-03","Audioslave",3
+"2007-03","Black Sabbath",4
+"2007-03","Bloc Party",2
+"2007-03","Blues Traveler",0
+"2007-03","Deus",3
+"2007-03","Dire Straits",0
+"2007-03","Ensiferum",9
+"2007-03","Foo Fighters",1
+"2007-03","Franz Ferdinand",0
+"2007-03","Millencolin",2
+"2007-03","Opeth",19
+"2007-03","Porcupine Tree",7
+"2007-03","Queens Of The Stone Age",0
+"2007-03","Rage Against The Machine",4
+"2007-03","Rammstein",2
+"2007-03","St. Germain",3
+"2007-03","Sum 41",2
+"2007-03","Tool",0
+"2007-04","A Perfect Circle",3
+"2007-04","Ac/Dc",1
+"2007-04","Audioslave",2
+"2007-04","Black Sabbath",1
+"2007-04","Bloc Party",1
+"2007-04","Blues Traveler",0
+"2007-04","Deus",0
+"2007-04","Dire Straits",3
+"2007-04","Ensiferum",8
+"2007-04","Foo Fighters",1
+"2007-04","Franz Ferdinand",1
+"2007-04","Millencolin",3
+"2007-04","Opeth",52
+"2007-04","Porcupine Tree",5
+"2007-04","Queens Of The Stone Age",1
+"2007-04","Rage Against The Machine",5
+"2007-04","Rammstein",1
+"2007-04","St. Germain",3
+"2007-04","Sum 41",4
+"2007-04","Tool",4
+"2007-05","A Perfect Circle",3
+"2007-05","Ac/Dc",0
+"2007-05","Audioslave",2
+"2007-05","Black Sabbath",0
+"2007-05","Bloc Party",0
+"2007-05","Blues Traveler",0
+"2007-05","Deus",3
+"2007-05","Dire Straits",3
+"2007-05","Ensiferum",13
+"2007-05","Foo Fighters",2
+"2007-05","Franz Ferdinand",2
+"2007-05","Millencolin",4
+"2007-05","Opeth",10
+"2007-05","Porcupine Tree",19
+"2007-05","Queens Of The Stone Age",2
+"2007-05","Rage Against The Machine",8
+"2007-05","Rammstein",8
+"2007-05","St. Germain",0
+"2007-05","Sum 41",1
+"2007-05","Tool",2
+"2007-06","A Perfect Circle",2
+"2007-06","Ac/Dc",2
+"2007-06","Audioslave",10
+"2007-06","Black Sabbath",0
+"2007-06","Bloc Party",2
+"2007-06","Blues Traveler",0
+"2007-06","Deus",2
+"2007-06","Dire Straits",9
+"2007-06","Ensiferum",9
+"2007-06","Foo Fighters",1
+"2007-06","Franz Ferdinand",2
+"2007-06","Millencolin",1
+"2007-06","Opeth",9
+"2007-06","Porcupine Tree",9
+"2007-06","Queens Of The Stone Age",1
+"2007-06","Rage Against The Machine",7
+"2007-06","Rammstein",4
+"2007-06","St. Germain",0
+"2007-06","Sum 41",1
+"2007-06","Tool",5
+"2007-07","A Perfect Circle",1
+"2007-07","Ac/Dc",0
+"2007-07","Audioslave",3
+"2007-07","Black Sabbath",1
+"2007-07","Bloc Party",1
+"2007-07","Blues Traveler",0
+"2007-07","Deus",1
+"2007-07","Dire Straits",1
+"2007-07","Ensiferum",4
+"2007-07","Foo Fighters",0
+"2007-07","Franz Ferdinand",2
+"2007-07","Millencolin",3
+"2007-07","Opeth",10
+"2007-07","Porcupine Tree",7
+"2007-07","Queens Of The Stone Age",0
+"2007-07","Rage Against The Machine",12
+"2007-07","Rammstein",2
+"2007-07","St. Germain",0
+"2007-07","Sum 41",1
+"2007-07","Tool",3
+"2007-08","A Perfect Circle",1
+"2007-08","Ac/Dc",7
+"2007-08","Audioslave",4
+"2007-08","Black Sabbath",2
+"2007-08","Bloc Party",3
+"2007-08","Blues Traveler",3
+"2007-08","Deus",1
+"2007-08","Dire Straits",4
+"2007-08","Ensiferum",7
+"2007-08","Foo Fighters",5
+"2007-08","Franz Ferdinand",3
+"2007-08","Millencolin",1
+"2007-08","Opeth",10
+"2007-08","Porcupine Tree",10
+"2007-08","Queens Of The Stone Age",3
+"2007-08","Rage Against The Machine",9
+"2007-08","Rammstein",1
+"2007-08","St. Germain",2
+"2007-08","Sum 41",3
+"2007-08","Tool",4
+"2007-09","A Perfect Circle",4
+"2007-09","Ac/Dc",2
+"2007-09","Audioslave",4
+"2007-09","Black Sabbath",1
+"2007-09","Bloc Party",1
+"2007-09","Blues Traveler",10
+"2007-09","Deus",1
+"2007-09","Dire Straits",4
+"2007-09","Ensiferum",6
+"2007-09","Foo Fighters",15
+"2007-09","Franz Ferdinand",4
+"2007-09","Millencolin",8
+"2007-09","Opeth",21
+"2007-09","Porcupine Tree",10
+"2007-09","Queens Of The Stone Age",3
+"2007-09","Rage Against The Machine",5
+"2007-09","Rammstein",3
+"2007-09","St. Germain",0
+"2007-09","Sum 41",3
+"2007-09","Tool",7
+"2007-10","A Perfect Circle",5
+"2007-10","Ac/Dc",1
+"2007-10","Audioslave",4
+"2007-10","Black Sabbath",1
+"2007-10","Bloc Party",1
+"2007-10","Blues Traveler",12
+"2007-10","Deus",16
+"2007-10","Dire Straits",3
+"2007-10","Ensiferum",4
+"2007-10","Foo Fighters",4
+"2007-10","Franz Ferdinand",0
+"2007-10","Millencolin",17
+"2007-10","Opeth",7
+"2007-10","Porcupine Tree",10
+"2007-10","Queens Of The Stone Age",2
+"2007-10","Rage Against The Machine",5
+"2007-10","Rammstein",2
+"2007-10","St. Germain",1
+"2007-10","Sum 41",2
+"2007-10","Tool",3
+"2007-11","A Perfect Circle",1
+"2007-11","Ac/Dc",1
+"2007-11","Audioslave",2
+"2007-11","Black Sabbath",2
+"2007-11","Bloc Party",1
+"2007-11","Blues Traveler",19
+"2007-11","Deus",66
+"2007-11","Dire Straits",4
+"2007-11","Ensiferum",6
+"2007-11","Foo Fighters",15
+"2007-11","Franz Ferdinand",1
+"2007-11","Millencolin",12
+"2007-11","Opeth",11
+"2007-11","Porcupine Tree",10
+"2007-11","Queens Of The Stone Age",5
+"2007-11","Rage Against The Machine",4
+"2007-11","Rammstein",2
+"2007-11","St. Germain",1
+"2007-11","Sum 41",2
+"2007-11","Tool",4
+"2007-12","A Perfect Circle",0
+"2007-12","Ac/Dc",2
+"2007-12","Audioslave",2
+"2007-12","Black Sabbath",2
+"2007-12","Bloc Party",2
+"2007-12","Blues Traveler",7
+"2007-12","Deus",3
+"2007-12","Dire Straits",23
+"2007-12","Ensiferum",37
+"2007-12","Foo Fighters",10
+"2007-12","Franz Ferdinand",0
+"2007-12","Millencolin",6
+"2007-12","Opeth",5
+"2007-12","Porcupine Tree",5
+"2007-12","Queens Of The Stone Age",1
+"2007-12","Rage Against The Machine",2
+"2007-12","Rammstein",1
+"2007-12","St. Germain",1
+"2007-12","Sum 41",4
+"2007-12","Tool",1
+"2008-01","A Perfect Circle",3
+"2008-01","Ac/Dc",2
+"2008-01","Audioslave",10
+"2008-01","Black Sabbath",4
+"2008-01","Bloc Party",3
+"2008-01","Blues Traveler",38
+"2008-01","Deus",9
+"2008-01","Dire Straits",14
+"2008-01","Ensiferum",22
+"2008-01","Foo Fighters",15
+"2008-01","Franz Ferdinand",0
+"2008-01","Millencolin",16
+"2008-01","Opeth",24
+"2008-01","Porcupine Tree",7
+"2008-01","Queens Of The Stone Age",2
+"2008-01","Rage Against The Machine",40
+"2008-01","Rammstein",7
+"2008-01","St. Germain",4
+"2008-01","Sum 41",1
+"2008-01","Tool",17
+"2008-02","A Perfect Circle",1
+"2008-02","Ac/Dc",6
+"2008-02","Audioslave",1
+"2008-02","Black Sabbath",0
+"2008-02","Bloc Party",0
+"2008-02","Blues Traveler",84
+"2008-02","Deus",7
+"2008-02","Dire Straits",17
+"2008-02","Ensiferum",7
+"2008-02","Foo Fighters",7
+"2008-02","Franz Ferdinand",2
+"2008-02","Millencolin",4
+"2008-02","Opeth",59
+"2008-02","Porcupine Tree",5
+"2008-02","Queens Of The Stone Age",2
+"2008-02","Rage Against The Machine",16
+"2008-02","Rammstein",1
+"2008-02","St. Germain",2
+"2008-02","Sum 41",2
+"2008-02","Tool",3
+"2008-03","A Perfect Circle",2
+"2008-03","Ac/Dc",0
+"2008-03","Audioslave",14
+"2008-03","Black Sabbath",12
+"2008-03","Bloc Party",11
+"2008-03","Blues Traveler",73
+"2008-03","Deus",2
+"2008-03","Dire Straits",41
+"2008-03","Ensiferum",0
+"2008-03","Foo Fighters",0
+"2008-03","Franz Ferdinand",11
+"2008-03","Millencolin",1
+"2008-03","Opeth",25
+"2008-03","Porcupine Tree",0
+"2008-03","Queens Of The Stone Age",6
+"2008-03","Rage Against The Machine",12
+"2008-03","Rammstein",0
+"2008-03","St. Germain",30
+"2008-03","Sum 41",0
+"2008-03","Tool",2
+"2008-04","A Perfect Circle",5
+"2008-04","Ac/Dc",0
+"2008-04","Audioslave",9
+"2008-04","Black Sabbath",3
+"2008-04","Bloc Party",5
+"2008-04","Blues Traveler",108
+"2008-04","Deus",0
+"2008-04","Dire Straits",26
+"2008-04","Ensiferum",0
+"2008-04","Foo Fighters",0
+"2008-04","Franz Ferdinand",17
+"2008-04","Millencolin",0
+"2008-04","Opeth",4
+"2008-04","Porcupine Tree",0
+"2008-04","Queens Of The Stone Age",5
+"2008-04","Rage Against The Machine",0
+"2008-04","Rammstein",0
+"2008-04","St. Germain",3
+"2008-04","Sum 41",0
+"2008-04","Tool",0
+"2008-05","A Perfect Circle",0
+"2008-05","Ac/Dc",10
+"2008-05","Audioslave",0
+"2008-05","Black Sabbath",10
+"2008-05","Bloc Party",4
+"2008-05","Blues Traveler",26
+"2008-05","Deus",4
+"2008-05","Dire Straits",12
+"2008-05","Ensiferum",2
+"2008-05","Foo Fighters",10
+"2008-05","Franz Ferdinand",6
+"2008-05","Millencolin",0
+"2008-05","Opeth",0
+"2008-05","Porcupine Tree",0
+"2008-05","Queens Of The Stone Age",0
+"2008-05","Rage Against The Machine",6
+"2008-05","Rammstein",0
+"2008-05","St. Germain",5
+"2008-05","Sum 41",0
+"2008-05","Tool",0
+"2008-06","A Perfect Circle",0
+"2008-06","Ac/Dc",0
+"2008-06","Audioslave",0
+"2008-06","Black Sabbath",5
+"2008-06","Bloc Party",5
+"2008-06","Blues Traveler",67
+"2008-06","Deus",6
+"2008-06","Dire Straits",16
+"2008-06","Ensiferum",0
+"2008-06","Foo Fighters",0
+"2008-06","Franz Ferdinand",0
+"2008-06","Millencolin",10
+"2008-06","Opeth",0
+"2008-06","Porcupine Tree",3
+"2008-06","Queens Of The Stone Age",16
+"2008-06","Rage Against The Machine",11
+"2008-06","Rammstein",0
+"2008-06","St. Germain",18
+"2008-06","Sum 41",0
+"2008-06","Tool",0
+"2008-07","A Perfect Circle",0
+"2008-07","Ac/Dc",12
+"2008-07","Audioslave",14
+"2008-07","Black Sabbath",0
+"2008-07","Bloc Party",0
+"2008-07","Blues Traveler",50
+"2008-07","Deus",0
+"2008-07","Dire Straits",5
+"2008-07","Ensiferum",0
+"2008-07","Foo Fighters",0
+"2008-07","Franz Ferdinand",0
+"2008-07","Millencolin",0
+"2008-07","Opeth",0
+"2008-07","Porcupine Tree",0
+"2008-07","Queens Of The Stone Age",3
+"2008-07","Rage Against The Machine",0
+"2008-07","Rammstein",0
+"2008-07","St. Germain",7
+"2008-07","Sum 41",0
+"2008-07","Tool",0
+"2008-08","A Perfect Circle",0
+"2008-08","Ac/Dc",7
+"2008-08","Audioslave",14
+"2008-08","Black Sabbath",3
+"2008-08","Bloc Party",0
+"2008-08","Blues Traveler",32
+"2008-08","Deus",0
+"2008-08","Dire Straits",0
+"2008-08","Ensiferum",0
+"2008-08","Foo Fighters",0
+"2008-08","Franz Ferdinand",0
+"2008-08","Millencolin",4
+"2008-08","Opeth",0
+"2008-08","Porcupine Tree",0
+"2008-08","Queens Of The Stone Age",5
+"2008-08","Rage Against The Machine",0
+"2008-08","Rammstein",0
+"2008-08","St. Germain",21
+"2008-08","Sum 41",0
+"2008-08","Tool",0
+"2008-09","A Perfect Circle",0
+"2008-09","Ac/Dc",0
+"2008-09","Audioslave",0
+"2008-09","Black Sabbath",3
+"2008-09","Bloc Party",4
+"2008-09","Blues Traveler",11
+"2008-09","Deus",3
+"2008-09","Dire Straits",1
+"2008-09","Ensiferum",3
+"2008-09","Foo Fighters",0
+"2008-09","Franz Ferdinand",7
+"2008-09","Millencolin",0
+"2008-09","Opeth",1
+"2008-09","Porcupine Tree",2
+"2008-09","Queens Of The Stone Age",0
+"2008-09","Rage Against The Machine",1
+"2008-09","Rammstein",0
+"2008-09","St. Germain",7
+"2008-09","Sum 41",0
+"2008-09","Tool",0
+"2008-10","A Perfect Circle",0
+"2008-10","Ac/Dc",15
+"2008-10","Audioslave",0
+"2008-10","Black Sabbath",0
+"2008-10","Bloc Party",0
+"2008-10","Blues Traveler",52
+"2008-10","Deus",10
+"2008-10","Dire Straits",13
+"2008-10","Ensiferum",1
+"2008-10","Foo Fighters",11
+"2008-10","Franz Ferdinand",2
+"2008-10","Millencolin",2
+"2008-10","Opeth",4
+"2008-10","Porcupine Tree",0
+"2008-10","Queens Of The Stone Age",4
+"2008-10","Rage Against The Machine",8
+"2008-10","Rammstein",1
+"2008-10","St. Germain",14
+"2008-10","Sum 41",29
+"2008-10","Tool",3
+"2008-11","A Perfect Circle",0
+"2008-11","Ac/Dc",32
+"2008-11","Audioslave",22
+"2008-11","Black Sabbath",0
+"2008-11","Bloc Party",5
+"2008-11","Blues Traveler",12
+"2008-11","Deus",32
+"2008-11","Dire Straits",8
+"2008-11","Ensiferum",0
+"2008-11","Foo Fighters",1
+"2008-11","Franz Ferdinand",0
+"2008-11","Millencolin",14
+"2008-11","Opeth",4
+"2008-11","Porcupine Tree",0
+"2008-11","Queens Of The Stone Age",0
+"2008-11","Rage Against The Machine",1
+"2008-11","Rammstein",5
+"2008-11","St. Germain",0
+"2008-11","Sum 41",11
+"2008-11","Tool",0
+"2008-12","A Perfect Circle",0
+"2008-12","Ac/Dc",8
+"2008-12","Audioslave",14
+"2008-12","Black Sabbath",0
+"2008-12","Bloc Party",0
+"2008-12","Blues Traveler",1
+"2008-12","Deus",3
+"2008-12","Dire Straits",20
+"2008-12","Ensiferum",0
+"2008-12","Foo Fighters",15
+"2008-12","Franz Ferdinand",1
+"2008-12","Millencolin",0
+"2008-12","Opeth",1
+"2008-12","Porcupine Tree",0
+"2008-12","Queens Of The Stone Age",0
+"2008-12","Rage Against The Machine",0
+"2008-12","Rammstein",0
+"2008-12","St. Germain",2
+"2008-12","Sum 41",2
+"2008-12","Tool",1
+"2009-01","A Perfect Circle",0
+"2009-01","Ac/Dc",3
+"2009-01","Audioslave",0
+"2009-01","Black Sabbath",0
+"2009-01","Bloc Party",5
+"2009-01","Blues Traveler",26
+"2009-01","Deus",0
+"2009-01","Dire Straits",231
+"2009-01","Ensiferum",0
+"2009-01","Foo Fighters",0
+"2009-01","Franz Ferdinand",0
+"2009-01","Millencolin",0
+"2009-01","Opeth",0
+"2009-01","Porcupine Tree",19
+"2009-01","Queens Of The Stone Age",0
+"2009-01","Rage Against The Machine",2
+"2009-01","Rammstein",0
+"2009-01","St. Germain",0
+"2009-01","Sum 41",4
+"2009-01","Tool",0
+"2009-02","A Perfect Circle",0
+"2009-02","Ac/Dc",12
+"2009-02","Audioslave",0
+"2009-02","Black Sabbath",0
+"2009-02","Bloc Party",0
+"2009-02","Blues Traveler",5
+"2009-02","Deus",0
+"2009-02","Dire Straits",65
+"2009-02","Ensiferum",0
+"2009-02","Foo Fighters",0
+"2009-02","Franz Ferdinand",0
+"2009-02","Millencolin",0
+"2009-02","Opeth",4
+"2009-02","Porcupine Tree",0
+"2009-02","Queens Of The Stone Age",6
+"2009-02","Rage Against The Machine",0
+"2009-02","Rammstein",1
+"2009-02","St. Germain",22
+"2009-02","Sum 41",0
+"2009-02","Tool",0
+"2009-03","A Perfect Circle",2
+"2009-03","Ac/Dc",0
+"2009-03","Audioslave",3
+"2009-03","Black Sabbath",1
+"2009-03","Bloc Party",3
+"2009-03","Blues Traveler",17
+"2009-03","Deus",1
+"2009-03","Dire Straits",16
+"2009-03","Ensiferum",4
+"2009-03","Foo Fighters",4
+"2009-03","Franz Ferdinand",1
+"2009-03","Millencolin",3
+"2009-03","Opeth",5
+"2009-03","Porcupine Tree",4
+"2009-03","Queens Of The Stone Age",4
+"2009-03","Rage Against The Machine",2
+"2009-03","Rammstein",6
+"2009-03","St. Germain",2
+"2009-03","Sum 41",22
+"2009-03","Tool",4
+"2009-04","A Perfect Circle",3
+"2009-04","Ac/Dc",1
+"2009-04","Audioslave",8
+"2009-04","Black Sabbath",1
+"2009-04","Bloc Party",1
+"2009-04","Blues Traveler",7
+"2009-04","Deus",3
+"2009-04","Dire Straits",14
+"2009-04","Ensiferum",0
+"2009-04","Foo Fighters",5
+"2009-04","Franz Ferdinand",0
+"2009-04","Millencolin",5
+"2009-04","Opeth",9
+"2009-04","Porcupine Tree",4
+"2009-04","Queens Of The Stone Age",6
+"2009-04","Rage Against The Machine",5
+"2009-04","Rammstein",2
+"2009-04","St. Germain",7
+"2009-04","Sum 41",10
+"2009-04","Tool",2
+"2009-05","A Perfect Circle",1
+"2009-05","Ac/Dc",3
+"2009-05","Audioslave",1
+"2009-05","Black Sabbath",1
+"2009-05","Bloc Party",4
+"2009-05","Blues Traveler",6
+"2009-05","Deus",13
+"2009-05","Dire Straits",17
+"2009-05","Ensiferum",2
+"2009-05","Foo Fighters",2
+"2009-05","Franz Ferdinand",1
+"2009-05","Millencolin",2
+"2009-05","Opeth",9
+"2009-05","Porcupine Tree",1
+"2009-05","Queens Of The Stone Age",6
+"2009-05","Rage Against The Machine",5
+"2009-05","Rammstein",42
+"2009-05","St. Germain",16
+"2009-05","Sum 41",5
+"2009-05","Tool",2
+"2009-06","A Perfect Circle",1
+"2009-06","Ac/Dc",1
+"2009-06","Audioslave",0
+"2009-06","Black Sabbath",1
+"2009-06","Bloc Party",1
+"2009-06","Blues Traveler",0
+"2009-06","Deus",1
+"2009-06","Dire Straits",3
+"2009-06","Ensiferum",3
+"2009-06","Foo Fighters",4
+"2009-06","Franz Ferdinand",1
+"2009-06","Millencolin",2
+"2009-06","Opeth",1
+"2009-06","Porcupine Tree",2
+"2009-06","Queens Of The Stone Age",2
+"2009-06","Rage Against The Machine",2
+"2009-06","Rammstein",3
+"2009-06","St. Germain",2
+"2009-06","Sum 41",0
+"2009-06","Tool",2

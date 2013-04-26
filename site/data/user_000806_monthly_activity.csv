@@ -1,481 +1,481 @@
-month,artist,plays
-2007-05,Afx,0
-2007-05,Aphex Twin,11
-2007-05,Autechre,0
-2007-05,Björk,1
-2007-05,Boards Of Canada,0
-2007-05,Dangerdoom,0
-2007-05,Dj Shadow,0
-2007-05,El-P,0
-2007-05,Gnarls Barkley,0
-2007-05,Gorillaz,4
-2007-05,Madvillain,0
-2007-05,Mf Doom,0
-2007-05,Prefuse 73,0
-2007-05,Public Enemy,3
-2007-05,Quasimoto,1
-2007-05,Radiohead,0
-2007-05,Röyksopp,0
-2007-05,Squarepusher,0
-2007-05,The Tuss,0
-2007-05,Venetian Snares,0
-2007-06,Afx,4
-2007-06,Aphex Twin,35
-2007-06,Autechre,3
-2007-06,Björk,8
-2007-06,Boards Of Canada,12
-2007-06,Dangerdoom,0
-2007-06,Dj Shadow,0
-2007-06,El-P,6
-2007-06,Gnarls Barkley,0
-2007-06,Gorillaz,7
-2007-06,Madvillain,1
-2007-06,Mf Doom,0
-2007-06,Prefuse 73,11
-2007-06,Public Enemy,3
-2007-06,Quasimoto,0
-2007-06,Radiohead,0
-2007-06,Röyksopp,0
-2007-06,Squarepusher,17
-2007-06,The Tuss,0
-2007-06,Venetian Snares,0
-2007-07,Afx,17
-2007-07,Aphex Twin,133
-2007-07,Autechre,9
-2007-07,Björk,10
-2007-07,Boards Of Canada,102
-2007-07,Dangerdoom,16
-2007-07,Dj Shadow,7
-2007-07,El-P,23
-2007-07,Gnarls Barkley,0
-2007-07,Gorillaz,37
-2007-07,Madvillain,0
-2007-07,Mf Doom,3
-2007-07,Prefuse 73,18
-2007-07,Public Enemy,5
-2007-07,Quasimoto,1
-2007-07,Radiohead,14
-2007-07,Röyksopp,11
-2007-07,Squarepusher,20
-2007-07,The Tuss,0
-2007-07,Venetian Snares,0
-2007-08,Afx,2
-2007-08,Aphex Twin,82
-2007-08,Autechre,2
-2007-08,Björk,0
-2007-08,Boards Of Canada,39
-2007-08,Dangerdoom,0
-2007-08,Dj Shadow,2
-2007-08,El-P,2
-2007-08,Gnarls Barkley,14
-2007-08,Gorillaz,1
-2007-08,Madvillain,1
-2007-08,Mf Doom,16
-2007-08,Prefuse 73,1
-2007-08,Public Enemy,6
-2007-08,Quasimoto,3
-2007-08,Radiohead,1
-2007-08,Röyksopp,0
-2007-08,Squarepusher,8
-2007-08,The Tuss,10
-2007-08,Venetian Snares,26
-2007-09,Afx,1
-2007-09,Aphex Twin,14
-2007-09,Autechre,1
-2007-09,Björk,1
-2007-09,Boards Of Canada,21
-2007-09,Dangerdoom,0
-2007-09,Dj Shadow,0
-2007-09,El-P,1
-2007-09,Gnarls Barkley,0
-2007-09,Gorillaz,9
-2007-09,Madvillain,2
-2007-09,Mf Doom,3
-2007-09,Prefuse 73,3
-2007-09,Public Enemy,1
-2007-09,Quasimoto,2
-2007-09,Radiohead,2
-2007-09,Röyksopp,0
-2007-09,Squarepusher,4
-2007-09,The Tuss,4
-2007-09,Venetian Snares,5
-2007-10,Afx,29
-2007-10,Aphex Twin,144
-2007-10,Autechre,6
-2007-10,Björk,9
-2007-10,Boards Of Canada,171
-2007-10,Dangerdoom,31
-2007-10,Dj Shadow,15
-2007-10,El-P,6
-2007-10,Gnarls Barkley,7
-2007-10,Gorillaz,2
-2007-10,Madvillain,0
-2007-10,Mf Doom,2
-2007-10,Prefuse 73,15
-2007-10,Public Enemy,1
-2007-10,Quasimoto,37
-2007-10,Radiohead,34
-2007-10,Röyksopp,4
-2007-10,Squarepusher,51
-2007-10,The Tuss,3
-2007-10,Venetian Snares,34
-2007-11,Afx,22
-2007-11,Aphex Twin,191
-2007-11,Autechre,14
-2007-11,Björk,15
-2007-11,Boards Of Canada,164
-2007-11,Dangerdoom,1
-2007-11,Dj Shadow,1
-2007-11,El-P,1
-2007-11,Gnarls Barkley,1
-2007-11,Gorillaz,7
-2007-11,Madvillain,1
-2007-11,Mf Doom,1
-2007-11,Prefuse 73,18
-2007-11,Public Enemy,0
-2007-11,Quasimoto,2
-2007-11,Radiohead,15
-2007-11,Röyksopp,11
-2007-11,Squarepusher,47
-2007-11,The Tuss,4
-2007-11,Venetian Snares,54
-2007-12,Afx,20
-2007-12,Aphex Twin,123
-2007-12,Autechre,2
-2007-12,Björk,13
-2007-12,Boards Of Canada,104
-2007-12,Dangerdoom,21
-2007-12,Dj Shadow,5
-2007-12,El-P,13
-2007-12,Gnarls Barkley,1
-2007-12,Gorillaz,23
-2007-12,Madvillain,34
-2007-12,Mf Doom,17
-2007-12,Prefuse 73,0
-2007-12,Public Enemy,0
-2007-12,Quasimoto,1
-2007-12,Radiohead,25
-2007-12,Röyksopp,0
-2007-12,Squarepusher,31
-2007-12,The Tuss,6
-2007-12,Venetian Snares,26
-2008-01,Afx,20
-2008-01,Aphex Twin,159
-2008-01,Autechre,23
-2008-01,Björk,10
-2008-01,Boards Of Canada,80
-2008-01,Dangerdoom,7
-2008-01,Dj Shadow,20
-2008-01,El-P,5
-2008-01,Gnarls Barkley,15
-2008-01,Gorillaz,13
-2008-01,Madvillain,0
-2008-01,Mf Doom,5
-2008-01,Prefuse 73,19
-2008-01,Public Enemy,0
-2008-01,Quasimoto,33
-2008-01,Radiohead,92
-2008-01,Röyksopp,10
-2008-01,Squarepusher,15
-2008-01,The Tuss,7
-2008-01,Venetian Snares,9
-2008-02,Afx,13
-2008-02,Aphex Twin,118
-2008-02,Autechre,7
-2008-02,Björk,5
-2008-02,Boards Of Canada,79
-2008-02,Dangerdoom,2
-2008-02,Dj Shadow,8
-2008-02,El-P,5
-2008-02,Gnarls Barkley,1
-2008-02,Gorillaz,19
-2008-02,Madvillain,1
-2008-02,Mf Doom,1
-2008-02,Prefuse 73,47
-2008-02,Public Enemy,17
-2008-02,Quasimoto,4
-2008-02,Radiohead,38
-2008-02,Röyksopp,13
-2008-02,Squarepusher,9
-2008-02,The Tuss,0
-2008-02,Venetian Snares,57
-2008-03,Afx,21
-2008-03,Aphex Twin,76
-2008-03,Autechre,41
-2008-03,Björk,11
-2008-03,Boards Of Canada,94
-2008-03,Dangerdoom,16
-2008-03,Dj Shadow,3
-2008-03,El-P,0
-2008-03,Gnarls Barkley,12
-2008-03,Gorillaz,2
-2008-03,Madvillain,22
-2008-03,Mf Doom,22
-2008-03,Prefuse 73,50
-2008-03,Public Enemy,3
-2008-03,Quasimoto,26
-2008-03,Radiohead,78
-2008-03,Röyksopp,0
-2008-03,Squarepusher,25
-2008-03,The Tuss,1
-2008-03,Venetian Snares,109
-2008-04,Afx,20
-2008-04,Aphex Twin,92
-2008-04,Autechre,73
-2008-04,Björk,0
-2008-04,Boards Of Canada,111
-2008-04,Dangerdoom,2
-2008-04,Dj Shadow,16
-2008-04,El-P,0
-2008-04,Gnarls Barkley,3
-2008-04,Gorillaz,25
-2008-04,Madvillain,24
-2008-04,Mf Doom,17
-2008-04,Prefuse 73,43
-2008-04,Public Enemy,21
-2008-04,Quasimoto,27
-2008-04,Radiohead,36
-2008-04,Röyksopp,3
-2008-04,Squarepusher,46
-2008-04,The Tuss,0
-2008-04,Venetian Snares,81
-2008-05,Afx,22
-2008-05,Aphex Twin,45
-2008-05,Autechre,28
-2008-05,Björk,10
-2008-05,Boards Of Canada,40
-2008-05,Dangerdoom,0
-2008-05,Dj Shadow,13
-2008-05,El-P,0
-2008-05,Gnarls Barkley,19
-2008-05,Gorillaz,0
-2008-05,Madvillain,0
-2008-05,Mf Doom,3
-2008-05,Prefuse 73,23
-2008-05,Public Enemy,5
-2008-05,Quasimoto,12
-2008-05,Radiohead,39
-2008-05,Röyksopp,12
-2008-05,Squarepusher,11
-2008-05,The Tuss,3
-2008-05,Venetian Snares,101
-2008-06,Afx,47
-2008-06,Aphex Twin,145
-2008-06,Autechre,50
-2008-06,Björk,0
-2008-06,Boards Of Canada,109
-2008-06,Dangerdoom,0
-2008-06,Dj Shadow,1
-2008-06,El-P,13
-2008-06,Gnarls Barkley,17
-2008-06,Gorillaz,18
-2008-06,Madvillain,3
-2008-06,Mf Doom,17
-2008-06,Prefuse 73,46
-2008-06,Public Enemy,15
-2008-06,Quasimoto,25
-2008-06,Radiohead,10
-2008-06,Röyksopp,13
-2008-06,Squarepusher,17
-2008-06,The Tuss,15
-2008-06,Venetian Snares,93
-2008-07,Afx,34
-2008-07,Aphex Twin,79
-2008-07,Autechre,47
-2008-07,Björk,0
-2008-07,Boards Of Canada,104
-2008-07,Dangerdoom,0
-2008-07,Dj Shadow,15
-2008-07,El-P,6
-2008-07,Gnarls Barkley,0
-2008-07,Gorillaz,0
-2008-07,Madvillain,2
-2008-07,Mf Doom,0
-2008-07,Prefuse 73,18
-2008-07,Public Enemy,0
-2008-07,Quasimoto,38
-2008-07,Radiohead,14
-2008-07,Röyksopp,6
-2008-07,Squarepusher,2
-2008-07,The Tuss,3
-2008-07,Venetian Snares,59
-2008-08,Afx,8
-2008-08,Aphex Twin,42
-2008-08,Autechre,68
-2008-08,Björk,1
-2008-08,Boards Of Canada,74
-2008-08,Dangerdoom,8
-2008-08,Dj Shadow,3
-2008-08,El-P,14
-2008-08,Gnarls Barkley,4
-2008-08,Gorillaz,15
-2008-08,Madvillain,0
-2008-08,Mf Doom,29
-2008-08,Prefuse 73,117
-2008-08,Public Enemy,0
-2008-08,Quasimoto,0
-2008-08,Radiohead,1
-2008-08,Röyksopp,10
-2008-08,Squarepusher,19
-2008-08,The Tuss,6
-2008-08,Venetian Snares,61
-2008-09,Afx,38
-2008-09,Aphex Twin,102
-2008-09,Autechre,63
-2008-09,Björk,0
-2008-09,Boards Of Canada,49
-2008-09,Dangerdoom,7
-2008-09,Dj Shadow,0
-2008-09,El-P,0
-2008-09,Gnarls Barkley,0
-2008-09,Gorillaz,10
-2008-09,Madvillain,1
-2008-09,Mf Doom,15
-2008-09,Prefuse 73,81
-2008-09,Public Enemy,0
-2008-09,Quasimoto,0
-2008-09,Radiohead,0
-2008-09,Röyksopp,9
-2008-09,Squarepusher,24
-2008-09,The Tuss,3
-2008-09,Venetian Snares,52
-2008-10,Afx,0
-2008-10,Aphex Twin,43
-2008-10,Autechre,48
-2008-10,Björk,0
-2008-10,Boards Of Canada,28
-2008-10,Dangerdoom,0
-2008-10,Dj Shadow,1
-2008-10,El-P,8
-2008-10,Gnarls Barkley,0
-2008-10,Gorillaz,5
-2008-10,Madvillain,0
-2008-10,Mf Doom,0
-2008-10,Prefuse 73,12
-2008-10,Public Enemy,16
-2008-10,Quasimoto,26
-2008-10,Radiohead,15
-2008-10,Röyksopp,0
-2008-10,Squarepusher,26
-2008-10,The Tuss,1
-2008-10,Venetian Snares,18
-2008-11,Afx,7
-2008-11,Aphex Twin,42
-2008-11,Autechre,47
-2008-11,Björk,0
-2008-11,Boards Of Canada,45
-2008-11,Dangerdoom,0
-2008-11,Dj Shadow,0
-2008-11,El-P,17
-2008-11,Gnarls Barkley,0
-2008-11,Gorillaz,1
-2008-11,Madvillain,23
-2008-11,Mf Doom,33
-2008-11,Prefuse 73,49
-2008-11,Public Enemy,0
-2008-11,Quasimoto,0
-2008-11,Radiohead,0
-2008-11,Röyksopp,1
-2008-11,Squarepusher,75
-2008-11,The Tuss,0
-2008-11,Venetian Snares,34
-2008-12,Afx,13
-2008-12,Aphex Twin,29
-2008-12,Autechre,4
-2008-12,Björk,0
-2008-12,Boards Of Canada,5
-2008-12,Dangerdoom,0
-2008-12,Dj Shadow,0
-2008-12,El-P,0
-2008-12,Gnarls Barkley,0
-2008-12,Gorillaz,7
-2008-12,Madvillain,3
-2008-12,Mf Doom,33
-2008-12,Prefuse 73,36
-2008-12,Public Enemy,0
-2008-12,Quasimoto,0
-2008-12,Radiohead,10
-2008-12,Röyksopp,0
-2008-12,Squarepusher,7
-2008-12,The Tuss,0
-2008-12,Venetian Snares,10
-2009-01,Afx,15
-2009-01,Aphex Twin,14
-2009-01,Autechre,13
-2009-01,Björk,0
-2009-01,Boards Of Canada,7
-2009-01,Dangerdoom,7
-2009-01,Dj Shadow,0
-2009-01,El-P,34
-2009-01,Gnarls Barkley,0
-2009-01,Gorillaz,2
-2009-01,Madvillain,0
-2009-01,Mf Doom,0
-2009-01,Prefuse 73,0
-2009-01,Public Enemy,0
-2009-01,Quasimoto,0
-2009-01,Radiohead,0
-2009-01,Röyksopp,0
-2009-01,Squarepusher,29
-2009-01,The Tuss,0
-2009-01,Venetian Snares,19
-2009-02,Afx,15
-2009-02,Aphex Twin,45
-2009-02,Autechre,26
-2009-02,Björk,21
-2009-02,Boards Of Canada,19
-2009-02,Dangerdoom,0
-2009-02,Dj Shadow,0
-2009-02,El-P,0
-2009-02,Gnarls Barkley,0
-2009-02,Gorillaz,0
-2009-02,Madvillain,1
-2009-02,Mf Doom,17
-2009-02,Prefuse 73,1
-2009-02,Public Enemy,0
-2009-02,Quasimoto,1
-2009-02,Radiohead,0
-2009-02,Röyksopp,22
-2009-02,Squarepusher,0
-2009-02,The Tuss,9
-2009-02,Venetian Snares,43
-2009-03,Afx,21
-2009-03,Aphex Twin,25
-2009-03,Autechre,32
-2009-03,Björk,0
-2009-03,Boards Of Canada,48
-2009-03,Dangerdoom,7
-2009-03,Dj Shadow,0
-2009-03,El-P,1
-2009-03,Gnarls Barkley,14
-2009-03,Gorillaz,1
-2009-03,Madvillain,23
-2009-03,Mf Doom,1
-2009-03,Prefuse 73,24
-2009-03,Public Enemy,0
-2009-03,Quasimoto,1
-2009-03,Radiohead,12
-2009-03,Röyksopp,18
-2009-03,Squarepusher,7
-2009-03,The Tuss,1
-2009-03,Venetian Snares,34
-2009-04,Afx,1
-2009-04,Aphex Twin,43
-2009-04,Autechre,11
-2009-04,Björk,0
-2009-04,Boards Of Canada,14
-2009-04,Dangerdoom,0
-2009-04,Dj Shadow,0
-2009-04,El-P,2
-2009-04,Gnarls Barkley,0
-2009-04,Gorillaz,0
-2009-04,Madvillain,0
-2009-04,Mf Doom,0
-2009-04,Prefuse 73,31
-2009-04,Public Enemy,1
-2009-04,Quasimoto,0
-2009-04,Radiohead,0
-2009-04,Röyksopp,0
-2009-04,Squarepusher,0
-2009-04,The Tuss,1
-2009-04,Venetian Snares,55
+"month","artist","plays"
+"2007-05","Afx",0
+"2007-05","Aphex Twin",11
+"2007-05","Autechre",0
+"2007-05","Björk",1
+"2007-05","Boards Of Canada",0
+"2007-05","Dangerdoom",0
+"2007-05","Dj Shadow",0
+"2007-05","El-P",0
+"2007-05","Gnarls Barkley",0
+"2007-05","Gorillaz",4
+"2007-05","Madvillain",0
+"2007-05","Mf Doom",0
+"2007-05","Prefuse 73",0
+"2007-05","Public Enemy",3
+"2007-05","Quasimoto",1
+"2007-05","Radiohead",0
+"2007-05","Röyksopp",0
+"2007-05","Squarepusher",0
+"2007-05","The Tuss",0
+"2007-05","Venetian Snares",0
+"2007-06","Afx",4
+"2007-06","Aphex Twin",35
+"2007-06","Autechre",3
+"2007-06","Björk",8
+"2007-06","Boards Of Canada",12
+"2007-06","Dangerdoom",0
+"2007-06","Dj Shadow",0
+"2007-06","El-P",6
+"2007-06","Gnarls Barkley",0
+"2007-06","Gorillaz",7
+"2007-06","Madvillain",1
+"2007-06","Mf Doom",0
+"2007-06","Prefuse 73",11
+"2007-06","Public Enemy",3
+"2007-06","Quasimoto",0
+"2007-06","Radiohead",0
+"2007-06","Röyksopp",0
+"2007-06","Squarepusher",17
+"2007-06","The Tuss",0
+"2007-06","Venetian Snares",0
+"2007-07","Afx",17
+"2007-07","Aphex Twin",133
+"2007-07","Autechre",9
+"2007-07","Björk",10
+"2007-07","Boards Of Canada",102
+"2007-07","Dangerdoom",16
+"2007-07","Dj Shadow",7
+"2007-07","El-P",23
+"2007-07","Gnarls Barkley",0
+"2007-07","Gorillaz",37
+"2007-07","Madvillain",0
+"2007-07","Mf Doom",3
+"2007-07","Prefuse 73",18
+"2007-07","Public Enemy",5
+"2007-07","Quasimoto",1
+"2007-07","Radiohead",14
+"2007-07","Röyksopp",11
+"2007-07","Squarepusher",20
+"2007-07","The Tuss",0
+"2007-07","Venetian Snares",0
+"2007-08","Afx",2
+"2007-08","Aphex Twin",82
+"2007-08","Autechre",2
+"2007-08","Björk",0
+"2007-08","Boards Of Canada",39
+"2007-08","Dangerdoom",0
+"2007-08","Dj Shadow",2
+"2007-08","El-P",2
+"2007-08","Gnarls Barkley",14
+"2007-08","Gorillaz",1
+"2007-08","Madvillain",1
+"2007-08","Mf Doom",16
+"2007-08","Prefuse 73",1
+"2007-08","Public Enemy",6
+"2007-08","Quasimoto",3
+"2007-08","Radiohead",1
+"2007-08","Röyksopp",0
+"2007-08","Squarepusher",8
+"2007-08","The Tuss",10
+"2007-08","Venetian Snares",26
+"2007-09","Afx",1
+"2007-09","Aphex Twin",14
+"2007-09","Autechre",1
+"2007-09","Björk",1
+"2007-09","Boards Of Canada",21
+"2007-09","Dangerdoom",0
+"2007-09","Dj Shadow",0
+"2007-09","El-P",1
+"2007-09","Gnarls Barkley",0
+"2007-09","Gorillaz",9
+"2007-09","Madvillain",2
+"2007-09","Mf Doom",3
+"2007-09","Prefuse 73",3
+"2007-09","Public Enemy",1
+"2007-09","Quasimoto",2
+"2007-09","Radiohead",2
+"2007-09","Röyksopp",0
+"2007-09","Squarepusher",4
+"2007-09","The Tuss",4
+"2007-09","Venetian Snares",5
+"2007-10","Afx",29
+"2007-10","Aphex Twin",144
+"2007-10","Autechre",6
+"2007-10","Björk",9
+"2007-10","Boards Of Canada",171
+"2007-10","Dangerdoom",31
+"2007-10","Dj Shadow",15
+"2007-10","El-P",6
+"2007-10","Gnarls Barkley",7
+"2007-10","Gorillaz",2
+"2007-10","Madvillain",0
+"2007-10","Mf Doom",2
+"2007-10","Prefuse 73",15
+"2007-10","Public Enemy",1
+"2007-10","Quasimoto",37
+"2007-10","Radiohead",34
+"2007-10","Röyksopp",4
+"2007-10","Squarepusher",51
+"2007-10","The Tuss",3
+"2007-10","Venetian Snares",34
+"2007-11","Afx",22
+"2007-11","Aphex Twin",191
+"2007-11","Autechre",14
+"2007-11","Björk",15
+"2007-11","Boards Of Canada",164
+"2007-11","Dangerdoom",1
+"2007-11","Dj Shadow",1
+"2007-11","El-P",1
+"2007-11","Gnarls Barkley",1
+"2007-11","Gorillaz",7
+"2007-11","Madvillain",1
+"2007-11","Mf Doom",1
+"2007-11","Prefuse 73",18
+"2007-11","Public Enemy",0
+"2007-11","Quasimoto",2
+"2007-11","Radiohead",15
+"2007-11","Röyksopp",11
+"2007-11","Squarepusher",47
+"2007-11","The Tuss",4
+"2007-11","Venetian Snares",54
+"2007-12","Afx",20
+"2007-12","Aphex Twin",123
+"2007-12","Autechre",2
+"2007-12","Björk",13
+"2007-12","Boards Of Canada",104
+"2007-12","Dangerdoom",21
+"2007-12","Dj Shadow",5
+"2007-12","El-P",13
+"2007-12","Gnarls Barkley",1
+"2007-12","Gorillaz",23
+"2007-12","Madvillain",34
+"2007-12","Mf Doom",17
+"2007-12","Prefuse 73",0
+"2007-12","Public Enemy",0
+"2007-12","Quasimoto",1
+"2007-12","Radiohead",25
+"2007-12","Röyksopp",0
+"2007-12","Squarepusher",31
+"2007-12","The Tuss",6
+"2007-12","Venetian Snares",26
+"2008-01","Afx",20
+"2008-01","Aphex Twin",159
+"2008-01","Autechre",23
+"2008-01","Björk",10
+"2008-01","Boards Of Canada",80
+"2008-01","Dangerdoom",7
+"2008-01","Dj Shadow",20
+"2008-01","El-P",5
+"2008-01","Gnarls Barkley",15
+"2008-01","Gorillaz",13
+"2008-01","Madvillain",0
+"2008-01","Mf Doom",5
+"2008-01","Prefuse 73",19
+"2008-01","Public Enemy",0
+"2008-01","Quasimoto",33
+"2008-01","Radiohead",92
+"2008-01","Röyksopp",10
+"2008-01","Squarepusher",15
+"2008-01","The Tuss",7
+"2008-01","Venetian Snares",9
+"2008-02","Afx",13
+"2008-02","Aphex Twin",118
+"2008-02","Autechre",7
+"2008-02","Björk",5
+"2008-02","Boards Of Canada",79
+"2008-02","Dangerdoom",2
+"2008-02","Dj Shadow",8
+"2008-02","El-P",5
+"2008-02","Gnarls Barkley",1
+"2008-02","Gorillaz",19
+"2008-02","Madvillain",1
+"2008-02","Mf Doom",1
+"2008-02","Prefuse 73",47
+"2008-02","Public Enemy",17
+"2008-02","Quasimoto",4
+"2008-02","Radiohead",38
+"2008-02","Röyksopp",13
+"2008-02","Squarepusher",9
+"2008-02","The Tuss",0
+"2008-02","Venetian Snares",57
+"2008-03","Afx",21
+"2008-03","Aphex Twin",76
+"2008-03","Autechre",41
+"2008-03","Björk",11
+"2008-03","Boards Of Canada",94
+"2008-03","Dangerdoom",16
+"2008-03","Dj Shadow",3
+"2008-03","El-P",0
+"2008-03","Gnarls Barkley",12
+"2008-03","Gorillaz",2
+"2008-03","Madvillain",22
+"2008-03","Mf Doom",22
+"2008-03","Prefuse 73",50
+"2008-03","Public Enemy",3
+"2008-03","Quasimoto",26
+"2008-03","Radiohead",78
+"2008-03","Röyksopp",0
+"2008-03","Squarepusher",25
+"2008-03","The Tuss",1
+"2008-03","Venetian Snares",109
+"2008-04","Afx",20
+"2008-04","Aphex Twin",92
+"2008-04","Autechre",73
+"2008-04","Björk",0
+"2008-04","Boards Of Canada",111
+"2008-04","Dangerdoom",2
+"2008-04","Dj Shadow",16
+"2008-04","El-P",0
+"2008-04","Gnarls Barkley",3
+"2008-04","Gorillaz",25
+"2008-04","Madvillain",24
+"2008-04","Mf Doom",17
+"2008-04","Prefuse 73",43
+"2008-04","Public Enemy",21
+"2008-04","Quasimoto",27
+"2008-04","Radiohead",36
+"2008-04","Röyksopp",3
+"2008-04","Squarepusher",46
+"2008-04","The Tuss",0
+"2008-04","Venetian Snares",81
+"2008-05","Afx",22
+"2008-05","Aphex Twin",45
+"2008-05","Autechre",28
+"2008-05","Björk",10
+"2008-05","Boards Of Canada",40
+"2008-05","Dangerdoom",0
+"2008-05","Dj Shadow",13
+"2008-05","El-P",0
+"2008-05","Gnarls Barkley",19
+"2008-05","Gorillaz",0
+"2008-05","Madvillain",0
+"2008-05","Mf Doom",3
+"2008-05","Prefuse 73",23
+"2008-05","Public Enemy",5
+"2008-05","Quasimoto",12
+"2008-05","Radiohead",39
+"2008-05","Röyksopp",12
+"2008-05","Squarepusher",11
+"2008-05","The Tuss",3
+"2008-05","Venetian Snares",101
+"2008-06","Afx",47
+"2008-06","Aphex Twin",145
+"2008-06","Autechre",50
+"2008-06","Björk",0
+"2008-06","Boards Of Canada",109
+"2008-06","Dangerdoom",0
+"2008-06","Dj Shadow",1
+"2008-06","El-P",13
+"2008-06","Gnarls Barkley",17
+"2008-06","Gorillaz",18
+"2008-06","Madvillain",3
+"2008-06","Mf Doom",17
+"2008-06","Prefuse 73",46
+"2008-06","Public Enemy",15
+"2008-06","Quasimoto",25
+"2008-06","Radiohead",10
+"2008-06","Röyksopp",13
+"2008-06","Squarepusher",17
+"2008-06","The Tuss",15
+"2008-06","Venetian Snares",93
+"2008-07","Afx",34
+"2008-07","Aphex Twin",79
+"2008-07","Autechre",47
+"2008-07","Björk",0
+"2008-07","Boards Of Canada",104
+"2008-07","Dangerdoom",0
+"2008-07","Dj Shadow",15
+"2008-07","El-P",6
+"2008-07","Gnarls Barkley",0
+"2008-07","Gorillaz",0
+"2008-07","Madvillain",2
+"2008-07","Mf Doom",0
+"2008-07","Prefuse 73",18
+"2008-07","Public Enemy",0
+"2008-07","Quasimoto",38
+"2008-07","Radiohead",14
+"2008-07","Röyksopp",6
+"2008-07","Squarepusher",2
+"2008-07","The Tuss",3
+"2008-07","Venetian Snares",59
+"2008-08","Afx",8
+"2008-08","Aphex Twin",42
+"2008-08","Autechre",68
+"2008-08","Björk",1
+"2008-08","Boards Of Canada",74
+"2008-08","Dangerdoom",8
+"2008-08","Dj Shadow",3
+"2008-08","El-P",14
+"2008-08","Gnarls Barkley",4
+"2008-08","Gorillaz",15
+"2008-08","Madvillain",0
+"2008-08","Mf Doom",29
+"2008-08","Prefuse 73",117
+"2008-08","Public Enemy",0
+"2008-08","Quasimoto",0
+"2008-08","Radiohead",1
+"2008-08","Röyksopp",10
+"2008-08","Squarepusher",19
+"2008-08","The Tuss",6
+"2008-08","Venetian Snares",61
+"2008-09","Afx",38
+"2008-09","Aphex Twin",102
+"2008-09","Autechre",63
+"2008-09","Björk",0
+"2008-09","Boards Of Canada",49
+"2008-09","Dangerdoom",7
+"2008-09","Dj Shadow",0
+"2008-09","El-P",0
+"2008-09","Gnarls Barkley",0
+"2008-09","Gorillaz",10
+"2008-09","Madvillain",1
+"2008-09","Mf Doom",15
+"2008-09","Prefuse 73",81
+"2008-09","Public Enemy",0
+"2008-09","Quasimoto",0
+"2008-09","Radiohead",0
+"2008-09","Röyksopp",9
+"2008-09","Squarepusher",24
+"2008-09","The Tuss",3
+"2008-09","Venetian Snares",52
+"2008-10","Afx",0
+"2008-10","Aphex Twin",43
+"2008-10","Autechre",48
+"2008-10","Björk",0
+"2008-10","Boards Of Canada",28
+"2008-10","Dangerdoom",0
+"2008-10","Dj Shadow",1
+"2008-10","El-P",8
+"2008-10","Gnarls Barkley",0
+"2008-10","Gorillaz",5
+"2008-10","Madvillain",0
+"2008-10","Mf Doom",0
+"2008-10","Prefuse 73",12
+"2008-10","Public Enemy",16
+"2008-10","Quasimoto",26
+"2008-10","Radiohead",15
+"2008-10","Röyksopp",0
+"2008-10","Squarepusher",26
+"2008-10","The Tuss",1
+"2008-10","Venetian Snares",18
+"2008-11","Afx",7
+"2008-11","Aphex Twin",42
+"2008-11","Autechre",47
+"2008-11","Björk",0
+"2008-11","Boards Of Canada",45
+"2008-11","Dangerdoom",0
+"2008-11","Dj Shadow",0
+"2008-11","El-P",17
+"2008-11","Gnarls Barkley",0
+"2008-11","Gorillaz",1
+"2008-11","Madvillain",23
+"2008-11","Mf Doom",33
+"2008-11","Prefuse 73",49
+"2008-11","Public Enemy",0
+"2008-11","Quasimoto",0
+"2008-11","Radiohead",0
+"2008-11","Röyksopp",1
+"2008-11","Squarepusher",75
+"2008-11","The Tuss",0
+"2008-11","Venetian Snares",34
+"2008-12","Afx",13
+"2008-12","Aphex Twin",29
+"2008-12","Autechre",4
+"2008-12","Björk",0
+"2008-12","Boards Of Canada",5
+"2008-12","Dangerdoom",0
+"2008-12","Dj Shadow",0
+"2008-12","El-P",0
+"2008-12","Gnarls Barkley",0
+"2008-12","Gorillaz",7
+"2008-12","Madvillain",3
+"2008-12","Mf Doom",33
+"2008-12","Prefuse 73",36
+"2008-12","Public Enemy",0
+"2008-12","Quasimoto",0
+"2008-12","Radiohead",10
+"2008-12","Röyksopp",0
+"2008-12","Squarepusher",7
+"2008-12","The Tuss",0
+"2008-12","Venetian Snares",10
+"2009-01","Afx",15
+"2009-01","Aphex Twin",14
+"2009-01","Autechre",13
+"2009-01","Björk",0
+"2009-01","Boards Of Canada",7
+"2009-01","Dangerdoom",7
+"2009-01","Dj Shadow",0
+"2009-01","El-P",34
+"2009-01","Gnarls Barkley",0
+"2009-01","Gorillaz",2
+"2009-01","Madvillain",0
+"2009-01","Mf Doom",0
+"2009-01","Prefuse 73",0
+"2009-01","Public Enemy",0
+"2009-01","Quasimoto",0
+"2009-01","Radiohead",0
+"2009-01","Röyksopp",0
+"2009-01","Squarepusher",29
+"2009-01","The Tuss",0
+"2009-01","Venetian Snares",19
+"2009-02","Afx",15
+"2009-02","Aphex Twin",45
+"2009-02","Autechre",26
+"2009-02","Björk",21
+"2009-02","Boards Of Canada",19
+"2009-02","Dangerdoom",0
+"2009-02","Dj Shadow",0
+"2009-02","El-P",0
+"2009-02","Gnarls Barkley",0
+"2009-02","Gorillaz",0
+"2009-02","Madvillain",1
+"2009-02","Mf Doom",17
+"2009-02","Prefuse 73",1
+"2009-02","Public Enemy",0
+"2009-02","Quasimoto",1
+"2009-02","Radiohead",0
+"2009-02","Röyksopp",22
+"2009-02","Squarepusher",0
+"2009-02","The Tuss",9
+"2009-02","Venetian Snares",43
+"2009-03","Afx",21
+"2009-03","Aphex Twin",25
+"2009-03","Autechre",32
+"2009-03","Björk",0
+"2009-03","Boards Of Canada",48
+"2009-03","Dangerdoom",7
+"2009-03","Dj Shadow",0
+"2009-03","El-P",1
+"2009-03","Gnarls Barkley",14
+"2009-03","Gorillaz",1
+"2009-03","Madvillain",23
+"2009-03","Mf Doom",1
+"2009-03","Prefuse 73",24
+"2009-03","Public Enemy",0
+"2009-03","Quasimoto",1
+"2009-03","Radiohead",12
+"2009-03","Röyksopp",18
+"2009-03","Squarepusher",7
+"2009-03","The Tuss",1
+"2009-03","Venetian Snares",34
+"2009-04","Afx",1
+"2009-04","Aphex Twin",43
+"2009-04","Autechre",11
+"2009-04","Björk",0
+"2009-04","Boards Of Canada",14
+"2009-04","Dangerdoom",0
+"2009-04","Dj Shadow",0
+"2009-04","El-P",2
+"2009-04","Gnarls Barkley",0
+"2009-04","Gorillaz",0
+"2009-04","Madvillain",0
+"2009-04","Mf Doom",0
+"2009-04","Prefuse 73",31
+"2009-04","Public Enemy",1
+"2009-04","Quasimoto",0
+"2009-04","Radiohead",0
+"2009-04","Röyksopp",0
+"2009-04","Squarepusher",0
+"2009-04","The Tuss",1
+"2009-04","Venetian Snares",55

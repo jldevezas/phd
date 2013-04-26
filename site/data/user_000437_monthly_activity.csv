@@ -1,761 +1,761 @@
-month,artist,plays
-2006-03,Alan Silvestri,0
-2006-03,Alicia Keys,0
-2006-03,Baby Bash,3
-2006-03,Beyoncé,53
-2006-03,Ciara,0
-2006-03,Conjure One,0
-2006-03,Garbage,0
-2006-03,Justin Timberlake,0
-2006-03,Maroon 5,0
-2006-03,Moby,1
-2006-03,Nelly Furtado,0
-2006-03,Nickelback,0
-2006-03,Oasis,4
-2006-03,Poets Of The Fall,0
-2006-03,Santana,0
-2006-03,Sean Paul,0
-2006-03,Sting,0
-2006-03,The Black Eyed Peas,0
-2006-03,Will Smith,0
-2006-03,Wyclef Jean,0
-2006-04,Alan Silvestri,0
-2006-04,Alicia Keys,21
-2006-04,Baby Bash,22
-2006-04,Beyoncé,11
-2006-04,Ciara,0
-2006-04,Conjure One,0
-2006-04,Garbage,5
-2006-04,Justin Timberlake,5
-2006-04,Maroon 5,4
-2006-04,Moby,4
-2006-04,Nelly Furtado,0
-2006-04,Nickelback,1
-2006-04,Oasis,15
-2006-04,Poets Of The Fall,33
-2006-04,Santana,0
-2006-04,Sean Paul,1
-2006-04,Sting,1
-2006-04,The Black Eyed Peas,11
-2006-04,Will Smith,5
-2006-04,Wyclef Jean,0
-2006-05,Alan Silvestri,15
-2006-05,Alicia Keys,17
-2006-05,Baby Bash,2
-2006-05,Beyoncé,89
-2006-05,Ciara,17
-2006-05,Conjure One,12
-2006-05,Garbage,5
-2006-05,Justin Timberlake,2
-2006-05,Maroon 5,24
-2006-05,Moby,15
-2006-05,Nelly Furtado,0
-2006-05,Nickelback,0
-2006-05,Oasis,6
-2006-05,Poets Of The Fall,11
-2006-05,Santana,3
-2006-05,Sean Paul,1
-2006-05,Sting,0
-2006-05,The Black Eyed Peas,11
-2006-05,Will Smith,2
-2006-05,Wyclef Jean,0
-2006-06,Alan Silvestri,9
-2006-06,Alicia Keys,0
-2006-06,Baby Bash,4
-2006-06,Beyoncé,6
-2006-06,Ciara,6
-2006-06,Conjure One,2
-2006-06,Garbage,1
-2006-06,Justin Timberlake,1
-2006-06,Maroon 5,9
-2006-06,Moby,2
-2006-06,Nelly Furtado,0
-2006-06,Nickelback,13
-2006-06,Oasis,2
-2006-06,Poets Of The Fall,2
-2006-06,Santana,0
-2006-06,Sean Paul,3
-2006-06,Sting,0
-2006-06,The Black Eyed Peas,0
-2006-06,Will Smith,7
-2006-06,Wyclef Jean,0
-2006-07,Alan Silvestri,3
-2006-07,Alicia Keys,1
-2006-07,Baby Bash,5
-2006-07,Beyoncé,9
-2006-07,Ciara,33
-2006-07,Conjure One,4
-2006-07,Garbage,1
-2006-07,Justin Timberlake,3
-2006-07,Maroon 5,15
-2006-07,Moby,8
-2006-07,Nelly Furtado,1
-2006-07,Nickelback,14
-2006-07,Oasis,118
-2006-07,Poets Of The Fall,0
-2006-07,Santana,1
-2006-07,Sean Paul,4
-2006-07,Sting,3
-2006-07,The Black Eyed Peas,3
-2006-07,Will Smith,9
-2006-07,Wyclef Jean,0
-2006-08,Alan Silvestri,4
-2006-08,Alicia Keys,0
-2006-08,Baby Bash,7
-2006-08,Beyoncé,59
-2006-08,Ciara,14
-2006-08,Conjure One,4
-2006-08,Garbage,2
-2006-08,Justin Timberlake,4
-2006-08,Maroon 5,12
-2006-08,Moby,8
-2006-08,Nelly Furtado,14
-2006-08,Nickelback,28
-2006-08,Oasis,40
-2006-08,Poets Of The Fall,37
-2006-08,Santana,7
-2006-08,Sean Paul,7
-2006-08,Sting,1
-2006-08,The Black Eyed Peas,15
-2006-08,Will Smith,3
-2006-08,Wyclef Jean,2
-2006-09,Alan Silvestri,1
-2006-09,Alicia Keys,0
-2006-09,Baby Bash,0
-2006-09,Beyoncé,63
-2006-09,Ciara,3
-2006-09,Conjure One,41
-2006-09,Garbage,3
-2006-09,Justin Timberlake,97
-2006-09,Maroon 5,6
-2006-09,Moby,2
-2006-09,Nelly Furtado,6
-2006-09,Nickelback,13
-2006-09,Oasis,6
-2006-09,Poets Of The Fall,28
-2006-09,Santana,1
-2006-09,Sean Paul,3
-2006-09,Sting,5
-2006-09,The Black Eyed Peas,3
-2006-09,Will Smith,2
-2006-09,Wyclef Jean,5
-2006-10,Alan Silvestri,1
-2006-10,Alicia Keys,0
-2006-10,Baby Bash,0
-2006-10,Beyoncé,3
-2006-10,Ciara,5
-2006-10,Conjure One,26
-2006-10,Garbage,3
-2006-10,Justin Timberlake,0
-2006-10,Maroon 5,0
-2006-10,Moby,3
-2006-10,Nelly Furtado,8
-2006-10,Nickelback,1
-2006-10,Oasis,0
-2006-10,Poets Of The Fall,2
-2006-10,Santana,0
-2006-10,Sean Paul,10
-2006-10,Sting,4
-2006-10,The Black Eyed Peas,4
-2006-10,Will Smith,5
-2006-10,Wyclef Jean,1
-2006-11,Alan Silvestri,3
-2006-11,Alicia Keys,31
-2006-11,Baby Bash,4
-2006-11,Beyoncé,8
-2006-11,Ciara,11
-2006-11,Conjure One,7
-2006-11,Garbage,3
-2006-11,Justin Timberlake,3
-2006-11,Maroon 5,20
-2006-11,Moby,8
-2006-11,Nelly Furtado,0
-2006-11,Nickelback,23
-2006-11,Oasis,3
-2006-11,Poets Of The Fall,13
-2006-11,Santana,7
-2006-11,Sean Paul,0
-2006-11,Sting,0
-2006-11,The Black Eyed Peas,0
-2006-11,Will Smith,72
-2006-11,Wyclef Jean,0
-2006-12,Alan Silvestri,0
-2006-12,Alicia Keys,10
-2006-12,Baby Bash,3
-2006-12,Beyoncé,40
-2006-12,Ciara,47
-2006-12,Conjure One,18
-2006-12,Garbage,1
-2006-12,Justin Timberlake,1
-2006-12,Maroon 5,12
-2006-12,Moby,0
-2006-12,Nelly Furtado,1
-2006-12,Nickelback,2
-2006-12,Oasis,5
-2006-12,Poets Of The Fall,8
-2006-12,Santana,2
-2006-12,Sean Paul,39
-2006-12,Sting,0
-2006-12,The Black Eyed Peas,49
-2006-12,Will Smith,37
-2006-12,Wyclef Jean,0
-2007-01,Alan Silvestri,0
-2007-01,Alicia Keys,2
-2007-01,Baby Bash,0
-2007-01,Beyoncé,134
-2007-01,Ciara,2
-2007-01,Conjure One,7
-2007-01,Garbage,0
-2007-01,Justin Timberlake,3
-2007-01,Maroon 5,0
-2007-01,Moby,0
-2007-01,Nelly Furtado,1
-2007-01,Nickelback,4
-2007-01,Oasis,14
-2007-01,Poets Of The Fall,0
-2007-01,Santana,1
-2007-01,Sean Paul,9
-2007-01,Sting,4
-2007-01,The Black Eyed Peas,1
-2007-01,Will Smith,1
-2007-01,Wyclef Jean,0
-2007-02,Alan Silvestri,7
-2007-02,Alicia Keys,0
-2007-02,Baby Bash,8
-2007-02,Beyoncé,41
-2007-02,Ciara,6
-2007-02,Conjure One,0
-2007-02,Garbage,10
-2007-02,Justin Timberlake,6
-2007-02,Maroon 5,1
-2007-02,Moby,0
-2007-02,Nelly Furtado,0
-2007-02,Nickelback,0
-2007-02,Oasis,0
-2007-02,Poets Of The Fall,0
-2007-02,Santana,0
-2007-02,Sean Paul,3
-2007-02,Sting,1
-2007-02,The Black Eyed Peas,0
-2007-02,Will Smith,8
-2007-02,Wyclef Jean,0
-2007-03,Alan Silvestri,0
-2007-03,Alicia Keys,2
-2007-03,Baby Bash,3
-2007-03,Beyoncé,38
-2007-03,Ciara,3
-2007-03,Conjure One,0
-2007-03,Garbage,4
-2007-03,Justin Timberlake,14
-2007-03,Maroon 5,18
-2007-03,Moby,1
-2007-03,Nelly Furtado,11
-2007-03,Nickelback,0
-2007-03,Oasis,0
-2007-03,Poets Of The Fall,1
-2007-03,Santana,9
-2007-03,Sean Paul,1
-2007-03,Sting,2
-2007-03,The Black Eyed Peas,3
-2007-03,Will Smith,2
-2007-03,Wyclef Jean,2
-2007-04,Alan Silvestri,5
-2007-04,Alicia Keys,0
-2007-04,Baby Bash,30
-2007-04,Beyoncé,2
-2007-04,Ciara,2
-2007-04,Conjure One,13
-2007-04,Garbage,21
-2007-04,Justin Timberlake,28
-2007-04,Maroon 5,0
-2007-04,Moby,1
-2007-04,Nelly Furtado,5
-2007-04,Nickelback,0
-2007-04,Oasis,0
-2007-04,Poets Of The Fall,11
-2007-04,Santana,6
-2007-04,Sean Paul,10
-2007-04,Sting,41
-2007-04,The Black Eyed Peas,0
-2007-04,Will Smith,0
-2007-04,Wyclef Jean,35
-2007-05,Alan Silvestri,24
-2007-05,Alicia Keys,0
-2007-05,Baby Bash,3
-2007-05,Beyoncé,3
-2007-05,Ciara,1
-2007-05,Conjure One,0
-2007-05,Garbage,3
-2007-05,Justin Timberlake,4
-2007-05,Maroon 5,121
-2007-05,Moby,1
-2007-05,Nelly Furtado,2
-2007-05,Nickelback,1
-2007-05,Oasis,1
-2007-05,Poets Of The Fall,1
-2007-05,Santana,0
-2007-05,Sean Paul,1
-2007-05,Sting,60
-2007-05,The Black Eyed Peas,3
-2007-05,Will Smith,52
-2007-05,Wyclef Jean,4
-2007-06,Alan Silvestri,0
-2007-06,Alicia Keys,2
-2007-06,Baby Bash,1
-2007-06,Beyoncé,0
-2007-06,Ciara,0
-2007-06,Conjure One,6
-2007-06,Garbage,0
-2007-06,Justin Timberlake,1
-2007-06,Maroon 5,54
-2007-06,Moby,0
-2007-06,Nelly Furtado,0
-2007-06,Nickelback,0
-2007-06,Oasis,5
-2007-06,Poets Of The Fall,14
-2007-06,Santana,5
-2007-06,Sean Paul,1
-2007-06,Sting,5
-2007-06,The Black Eyed Peas,1
-2007-06,Will Smith,0
-2007-06,Wyclef Jean,1
-2007-07,Alan Silvestri,0
-2007-07,Alicia Keys,1
-2007-07,Baby Bash,0
-2007-07,Beyoncé,0
-2007-07,Ciara,0
-2007-07,Conjure One,0
-2007-07,Garbage,0
-2007-07,Justin Timberlake,4
-2007-07,Maroon 5,0
-2007-07,Moby,0
-2007-07,Nelly Furtado,1
-2007-07,Nickelback,0
-2007-07,Oasis,0
-2007-07,Poets Of The Fall,1
-2007-07,Santana,0
-2007-07,Sean Paul,1
-2007-07,Sting,0
-2007-07,The Black Eyed Peas,0
-2007-07,Will Smith,0
-2007-07,Wyclef Jean,0
-2007-08,Alan Silvestri,0
-2007-08,Alicia Keys,0
-2007-08,Baby Bash,0
-2007-08,Beyoncé,14
-2007-08,Ciara,11
-2007-08,Conjure One,2
-2007-08,Garbage,0
-2007-08,Justin Timberlake,21
-2007-08,Maroon 5,17
-2007-08,Moby,0
-2007-08,Nelly Furtado,68
-2007-08,Nickelback,4
-2007-08,Oasis,10
-2007-08,Poets Of The Fall,0
-2007-08,Santana,0
-2007-08,Sean Paul,0
-2007-08,Sting,11
-2007-08,The Black Eyed Peas,7
-2007-08,Will Smith,2
-2007-08,Wyclef Jean,6
-2007-09,Alan Silvestri,0
-2007-09,Alicia Keys,1
-2007-09,Baby Bash,11
-2007-09,Beyoncé,2
-2007-09,Ciara,0
-2007-09,Conjure One,7
-2007-09,Garbage,0
-2007-09,Justin Timberlake,15
-2007-09,Maroon 5,3
-2007-09,Moby,1
-2007-09,Nelly Furtado,0
-2007-09,Nickelback,3
-2007-09,Oasis,0
-2007-09,Poets Of The Fall,0
-2007-09,Santana,0
-2007-09,Sean Paul,10
-2007-09,Sting,3
-2007-09,The Black Eyed Peas,0
-2007-09,Will Smith,1
-2007-09,Wyclef Jean,4
-2007-10,Alan Silvestri,0
-2007-10,Alicia Keys,11
-2007-10,Baby Bash,0
-2007-10,Beyoncé,7
-2007-10,Ciara,12
-2007-10,Conjure One,7
-2007-10,Garbage,0
-2007-10,Justin Timberlake,19
-2007-10,Maroon 5,4
-2007-10,Moby,1
-2007-10,Nelly Furtado,1
-2007-10,Nickelback,1
-2007-10,Oasis,0
-2007-10,Poets Of The Fall,4
-2007-10,Santana,0
-2007-10,Sean Paul,5
-2007-10,Sting,0
-2007-10,The Black Eyed Peas,0
-2007-10,Will Smith,1
-2007-10,Wyclef Jean,12
-2007-11,Alan Silvestri,0
-2007-11,Alicia Keys,3
-2007-11,Baby Bash,0
-2007-11,Beyoncé,4
-2007-11,Ciara,0
-2007-11,Conjure One,0
-2007-11,Garbage,0
-2007-11,Justin Timberlake,0
-2007-11,Maroon 5,4
-2007-11,Moby,0
-2007-11,Nelly Furtado,0
-2007-11,Nickelback,0
-2007-11,Oasis,3
-2007-11,Poets Of The Fall,0
-2007-11,Santana,0
-2007-11,Sean Paul,0
-2007-11,Sting,1
-2007-11,The Black Eyed Peas,0
-2007-11,Will Smith,0
-2007-11,Wyclef Jean,0
-2007-12,Alan Silvestri,0
-2007-12,Alicia Keys,0
-2007-12,Baby Bash,0
-2007-12,Beyoncé,45
-2007-12,Ciara,0
-2007-12,Conjure One,0
-2007-12,Garbage,0
-2007-12,Justin Timberlake,1
-2007-12,Maroon 5,0
-2007-12,Moby,0
-2007-12,Nelly Furtado,2
-2007-12,Nickelback,6
-2007-12,Oasis,0
-2007-12,Poets Of The Fall,0
-2007-12,Santana,10
-2007-12,Sean Paul,15
-2007-12,Sting,0
-2007-12,The Black Eyed Peas,0
-2007-12,Will Smith,0
-2007-12,Wyclef Jean,2
-2008-01,Alan Silvestri,0
-2008-01,Alicia Keys,0
-2008-01,Baby Bash,0
-2008-01,Beyoncé,0
-2008-01,Ciara,0
-2008-01,Conjure One,0
-2008-01,Garbage,0
-2008-01,Justin Timberlake,1
-2008-01,Maroon 5,2
-2008-01,Moby,1
-2008-01,Nelly Furtado,0
-2008-01,Nickelback,7
-2008-01,Oasis,0
-2008-01,Poets Of The Fall,0
-2008-01,Santana,42
-2008-01,Sean Paul,0
-2008-01,Sting,0
-2008-01,The Black Eyed Peas,0
-2008-01,Will Smith,5
-2008-01,Wyclef Jean,1
-2008-02,Alan Silvestri,0
-2008-02,Alicia Keys,0
-2008-02,Baby Bash,0
-2008-02,Beyoncé,1
-2008-02,Ciara,0
-2008-02,Conjure One,0
-2008-02,Garbage,0
-2008-02,Justin Timberlake,2
-2008-02,Maroon 5,0
-2008-02,Moby,0
-2008-02,Nelly Furtado,0
-2008-02,Nickelback,0
-2008-02,Oasis,0
-2008-02,Poets Of The Fall,0
-2008-02,Santana,7
-2008-02,Sean Paul,0
-2008-02,Sting,0
-2008-02,The Black Eyed Peas,0
-2008-02,Will Smith,0
-2008-02,Wyclef Jean,2
-2008-03,Alan Silvestri,0
-2008-03,Alicia Keys,0
-2008-03,Baby Bash,0
-2008-03,Beyoncé,1
-2008-03,Ciara,0
-2008-03,Conjure One,0
-2008-03,Garbage,1
-2008-03,Justin Timberlake,1
-2008-03,Maroon 5,12
-2008-03,Moby,0
-2008-03,Nelly Furtado,0
-2008-03,Nickelback,15
-2008-03,Oasis,1
-2008-03,Poets Of The Fall,8
-2008-03,Santana,1
-2008-03,Sean Paul,0
-2008-03,Sting,0
-2008-03,The Black Eyed Peas,1
-2008-03,Will Smith,0
-2008-03,Wyclef Jean,0
-2008-04,Alan Silvestri,0
-2008-04,Alicia Keys,0
-2008-04,Baby Bash,0
-2008-04,Beyoncé,1
-2008-04,Ciara,0
-2008-04,Conjure One,0
-2008-04,Garbage,0
-2008-04,Justin Timberlake,0
-2008-04,Maroon 5,0
-2008-04,Moby,0
-2008-04,Nelly Furtado,0
-2008-04,Nickelback,0
-2008-04,Oasis,0
-2008-04,Poets Of The Fall,1
-2008-04,Santana,0
-2008-04,Sean Paul,0
-2008-04,Sting,0
-2008-04,The Black Eyed Peas,0
-2008-04,Will Smith,0
-2008-04,Wyclef Jean,0
-2008-05,Alan Silvestri,2
-2008-05,Alicia Keys,0
-2008-05,Baby Bash,0
-2008-05,Beyoncé,1
-2008-05,Ciara,0
-2008-05,Conjure One,0
-2008-05,Garbage,2
-2008-05,Justin Timberlake,0
-2008-05,Maroon 5,0
-2008-05,Moby,0
-2008-05,Nelly Furtado,0
-2008-05,Nickelback,4
-2008-05,Oasis,0
-2008-05,Poets Of The Fall,4
-2008-05,Santana,15
-2008-05,Sean Paul,5
-2008-05,Sting,1
-2008-05,The Black Eyed Peas,1
-2008-05,Will Smith,0
-2008-05,Wyclef Jean,0
-2008-06,Alan Silvestri,0
-2008-06,Alicia Keys,0
-2008-06,Baby Bash,0
-2008-06,Beyoncé,0
-2008-06,Ciara,0
-2008-06,Conjure One,0
-2008-06,Garbage,0
-2008-06,Justin Timberlake,0
-2008-06,Maroon 5,0
-2008-06,Moby,0
-2008-06,Nelly Furtado,0
-2008-06,Nickelback,3
-2008-06,Oasis,0
-2008-06,Poets Of The Fall,0
-2008-06,Santana,0
-2008-06,Sean Paul,0
-2008-06,Sting,0
-2008-06,The Black Eyed Peas,0
-2008-06,Will Smith,0
-2008-06,Wyclef Jean,0
-2008-07,Alan Silvestri,1
-2008-07,Alicia Keys,0
-2008-07,Baby Bash,0
-2008-07,Beyoncé,0
-2008-07,Ciara,3
-2008-07,Conjure One,0
-2008-07,Garbage,0
-2008-07,Justin Timberlake,0
-2008-07,Maroon 5,0
-2008-07,Moby,0
-2008-07,Nelly Furtado,0
-2008-07,Nickelback,0
-2008-07,Oasis,0
-2008-07,Poets Of The Fall,0
-2008-07,Santana,0
-2008-07,Sean Paul,0
-2008-07,Sting,0
-2008-07,The Black Eyed Peas,0
-2008-07,Will Smith,0
-2008-07,Wyclef Jean,1
-2008-08,Alan Silvestri,0
-2008-08,Alicia Keys,0
-2008-08,Baby Bash,0
-2008-08,Beyoncé,0
-2008-08,Ciara,0
-2008-08,Conjure One,0
-2008-08,Garbage,0
-2008-08,Justin Timberlake,0
-2008-08,Maroon 5,9
-2008-08,Moby,0
-2008-08,Nelly Furtado,1
-2008-08,Nickelback,14
-2008-08,Oasis,1
-2008-08,Poets Of The Fall,0
-2008-08,Santana,0
-2008-08,Sean Paul,0
-2008-08,Sting,0
-2008-08,The Black Eyed Peas,0
-2008-08,Will Smith,0
-2008-08,Wyclef Jean,0
-2008-09,Alan Silvestri,0
-2008-09,Alicia Keys,0
-2008-09,Baby Bash,0
-2008-09,Beyoncé,0
-2008-09,Ciara,0
-2008-09,Conjure One,0
-2008-09,Garbage,0
-2008-09,Justin Timberlake,0
-2008-09,Maroon 5,0
-2008-09,Moby,0
-2008-09,Nelly Furtado,0
-2008-09,Nickelback,4
-2008-09,Oasis,0
-2008-09,Poets Of The Fall,0
-2008-09,Santana,0
-2008-09,Sean Paul,0
-2008-09,Sting,0
-2008-09,The Black Eyed Peas,0
-2008-09,Will Smith,0
-2008-09,Wyclef Jean,0
-2008-10,Alan Silvestri,0
-2008-10,Alicia Keys,0
-2008-10,Baby Bash,0
-2008-10,Beyoncé,0
-2008-10,Ciara,0
-2008-10,Conjure One,0
-2008-10,Garbage,0
-2008-10,Justin Timberlake,0
-2008-10,Maroon 5,0
-2008-10,Moby,0
-2008-10,Nelly Furtado,0
-2008-10,Nickelback,0
-2008-10,Oasis,23
-2008-10,Poets Of The Fall,0
-2008-10,Santana,0
-2008-10,Sean Paul,0
-2008-10,Sting,0
-2008-10,The Black Eyed Peas,0
-2008-10,Will Smith,0
-2008-10,Wyclef Jean,0
-2008-11,Alan Silvestri,0
-2008-11,Alicia Keys,1
-2008-11,Baby Bash,0
-2008-11,Beyoncé,0
-2008-11,Ciara,0
-2008-11,Conjure One,0
-2008-11,Garbage,0
-2008-11,Justin Timberlake,0
-2008-11,Maroon 5,0
-2008-11,Moby,0
-2008-11,Nelly Furtado,1
-2008-11,Nickelback,30
-2008-11,Oasis,1
-2008-11,Poets Of The Fall,0
-2008-11,Santana,3
-2008-11,Sean Paul,0
-2008-11,Sting,0
-2008-11,The Black Eyed Peas,1
-2008-11,Will Smith,0
-2008-11,Wyclef Jean,0
-2008-12,Alan Silvestri,43
-2008-12,Alicia Keys,9
-2008-12,Baby Bash,0
-2008-12,Beyoncé,0
-2008-12,Ciara,0
-2008-12,Conjure One,0
-2008-12,Garbage,0
-2008-12,Justin Timberlake,0
-2008-12,Maroon 5,10
-2008-12,Moby,0
-2008-12,Nelly Furtado,0
-2008-12,Nickelback,0
-2008-12,Oasis,0
-2008-12,Poets Of The Fall,0
-2008-12,Santana,19
-2008-12,Sean Paul,0
-2008-12,Sting,11
-2008-12,The Black Eyed Peas,0
-2008-12,Will Smith,0
-2008-12,Wyclef Jean,0
-2009-01,Alan Silvestri,0
-2009-01,Alicia Keys,14
-2009-01,Baby Bash,0
-2009-01,Beyoncé,12
-2009-01,Ciara,0
-2009-01,Conjure One,0
-2009-01,Garbage,0
-2009-01,Justin Timberlake,0
-2009-01,Maroon 5,0
-2009-01,Moby,0
-2009-01,Nelly Furtado,0
-2009-01,Nickelback,0
-2009-01,Oasis,0
-2009-01,Poets Of The Fall,0
-2009-01,Santana,2
-2009-01,Sean Paul,1
-2009-01,Sting,0
-2009-01,The Black Eyed Peas,0
-2009-01,Will Smith,0
-2009-01,Wyclef Jean,0
-2009-02,Alan Silvestri,0
-2009-02,Alicia Keys,31
-2009-02,Baby Bash,0
-2009-02,Beyoncé,3
-2009-02,Ciara,0
-2009-02,Conjure One,0
-2009-02,Garbage,0
-2009-02,Justin Timberlake,0
-2009-02,Maroon 5,0
-2009-02,Moby,1
-2009-02,Nelly Furtado,0
-2009-02,Nickelback,0
-2009-02,Oasis,0
-2009-02,Poets Of The Fall,0
-2009-02,Santana,0
-2009-02,Sean Paul,0
-2009-02,Sting,0
-2009-02,The Black Eyed Peas,0
-2009-02,Will Smith,5
-2009-02,Wyclef Jean,0
-2009-03,Alan Silvestri,1
-2009-03,Alicia Keys,12
-2009-03,Baby Bash,0
-2009-03,Beyoncé,0
-2009-03,Ciara,0
-2009-03,Conjure One,0
-2009-03,Garbage,0
-2009-03,Justin Timberlake,0
-2009-03,Maroon 5,29
-2009-03,Moby,0
-2009-03,Nelly Furtado,0
-2009-03,Nickelback,2
-2009-03,Oasis,1
-2009-03,Poets Of The Fall,0
-2009-03,Santana,35
-2009-03,Sean Paul,6
-2009-03,Sting,0
-2009-03,The Black Eyed Peas,3
-2009-03,Will Smith,0
-2009-03,Wyclef Jean,1
-2009-04,Alan Silvestri,0
-2009-04,Alicia Keys,11
-2009-04,Baby Bash,0
-2009-04,Beyoncé,0
-2009-04,Ciara,0
-2009-04,Conjure One,0
-2009-04,Garbage,0
-2009-04,Justin Timberlake,0
-2009-04,Maroon 5,0
-2009-04,Moby,0
-2009-04,Nelly Furtado,0
-2009-04,Nickelback,0
-2009-04,Oasis,0
-2009-04,Poets Of The Fall,0
-2009-04,Santana,11
-2009-04,Sean Paul,0
-2009-04,Sting,0
-2009-04,The Black Eyed Peas,0
-2009-04,Will Smith,0
-2009-04,Wyclef Jean,0
+"month","artist","plays"
+"2006-03","Alan Silvestri",0
+"2006-03","Alicia Keys",0
+"2006-03","Baby Bash",3
+"2006-03","Beyoncé",53
+"2006-03","Ciara",0
+"2006-03","Conjure One",0
+"2006-03","Garbage",0
+"2006-03","Justin Timberlake",0
+"2006-03","Maroon 5",0
+"2006-03","Moby",1
+"2006-03","Nelly Furtado",0
+"2006-03","Nickelback",0
+"2006-03","Oasis",4
+"2006-03","Poets Of The Fall",0
+"2006-03","Santana",0
+"2006-03","Sean Paul",0
+"2006-03","Sting",0
+"2006-03","The Black Eyed Peas",0
+"2006-03","Will Smith",0
+"2006-03","Wyclef Jean",0
+"2006-04","Alan Silvestri",0
+"2006-04","Alicia Keys",21
+"2006-04","Baby Bash",22
+"2006-04","Beyoncé",11
+"2006-04","Ciara",0
+"2006-04","Conjure One",0
+"2006-04","Garbage",5
+"2006-04","Justin Timberlake",5
+"2006-04","Maroon 5",4
+"2006-04","Moby",4
+"2006-04","Nelly Furtado",0
+"2006-04","Nickelback",1
+"2006-04","Oasis",15
+"2006-04","Poets Of The Fall",33
+"2006-04","Santana",0
+"2006-04","Sean Paul",1
+"2006-04","Sting",1
+"2006-04","The Black Eyed Peas",11
+"2006-04","Will Smith",5
+"2006-04","Wyclef Jean",0
+"2006-05","Alan Silvestri",15
+"2006-05","Alicia Keys",17
+"2006-05","Baby Bash",2
+"2006-05","Beyoncé",89
+"2006-05","Ciara",17
+"2006-05","Conjure One",12
+"2006-05","Garbage",5
+"2006-05","Justin Timberlake",2
+"2006-05","Maroon 5",24
+"2006-05","Moby",15
+"2006-05","Nelly Furtado",0
+"2006-05","Nickelback",0
+"2006-05","Oasis",6
+"2006-05","Poets Of The Fall",11
+"2006-05","Santana",3
+"2006-05","Sean Paul",1
+"2006-05","Sting",0
+"2006-05","The Black Eyed Peas",11
+"2006-05","Will Smith",2
+"2006-05","Wyclef Jean",0
+"2006-06","Alan Silvestri",9
+"2006-06","Alicia Keys",0
+"2006-06","Baby Bash",4
+"2006-06","Beyoncé",6
+"2006-06","Ciara",6
+"2006-06","Conjure One",2
+"2006-06","Garbage",1
+"2006-06","Justin Timberlake",1
+"2006-06","Maroon 5",9
+"2006-06","Moby",2
+"2006-06","Nelly Furtado",0
+"2006-06","Nickelback",13
+"2006-06","Oasis",2
+"2006-06","Poets Of The Fall",2
+"2006-06","Santana",0
+"2006-06","Sean Paul",3
+"2006-06","Sting",0
+"2006-06","The Black Eyed Peas",0
+"2006-06","Will Smith",7
+"2006-06","Wyclef Jean",0
+"2006-07","Alan Silvestri",3
+"2006-07","Alicia Keys",1
+"2006-07","Baby Bash",5
+"2006-07","Beyoncé",9
+"2006-07","Ciara",33
+"2006-07","Conjure One",4
+"2006-07","Garbage",1
+"2006-07","Justin Timberlake",3
+"2006-07","Maroon 5",15
+"2006-07","Moby",8
+"2006-07","Nelly Furtado",1
+"2006-07","Nickelback",14
+"2006-07","Oasis",118
+"2006-07","Poets Of The Fall",0
+"2006-07","Santana",1
+"2006-07","Sean Paul",4
+"2006-07","Sting",3
+"2006-07","The Black Eyed Peas",3
+"2006-07","Will Smith",9
+"2006-07","Wyclef Jean",0
+"2006-08","Alan Silvestri",4
+"2006-08","Alicia Keys",0
+"2006-08","Baby Bash",7
+"2006-08","Beyoncé",59
+"2006-08","Ciara",14
+"2006-08","Conjure One",4
+"2006-08","Garbage",2
+"2006-08","Justin Timberlake",4
+"2006-08","Maroon 5",12
+"2006-08","Moby",8
+"2006-08","Nelly Furtado",14
+"2006-08","Nickelback",28
+"2006-08","Oasis",40
+"2006-08","Poets Of The Fall",37
+"2006-08","Santana",7
+"2006-08","Sean Paul",7
+"2006-08","Sting",1
+"2006-08","The Black Eyed Peas",15
+"2006-08","Will Smith",3
+"2006-08","Wyclef Jean",2
+"2006-09","Alan Silvestri",1
+"2006-09","Alicia Keys",0
+"2006-09","Baby Bash",0
+"2006-09","Beyoncé",63
+"2006-09","Ciara",3
+"2006-09","Conjure One",41
+"2006-09","Garbage",3
+"2006-09","Justin Timberlake",97
+"2006-09","Maroon 5",6
+"2006-09","Moby",2
+"2006-09","Nelly Furtado",6
+"2006-09","Nickelback",13
+"2006-09","Oasis",6
+"2006-09","Poets Of The Fall",28
+"2006-09","Santana",1
+"2006-09","Sean Paul",3
+"2006-09","Sting",5
+"2006-09","The Black Eyed Peas",3
+"2006-09","Will Smith",2
+"2006-09","Wyclef Jean",5
+"2006-10","Alan Silvestri",1
+"2006-10","Alicia Keys",0
+"2006-10","Baby Bash",0
+"2006-10","Beyoncé",3
+"2006-10","Ciara",5
+"2006-10","Conjure One",26
+"2006-10","Garbage",3
+"2006-10","Justin Timberlake",0
+"2006-10","Maroon 5",0
+"2006-10","Moby",3
+"2006-10","Nelly Furtado",8
+"2006-10","Nickelback",1
+"2006-10","Oasis",0
+"2006-10","Poets Of The Fall",2
+"2006-10","Santana",0
+"2006-10","Sean Paul",10
+"2006-10","Sting",4
+"2006-10","The Black Eyed Peas",4
+"2006-10","Will Smith",5
+"2006-10","Wyclef Jean",1
+"2006-11","Alan Silvestri",3
+"2006-11","Alicia Keys",31
+"2006-11","Baby Bash",4
+"2006-11","Beyoncé",8
+"2006-11","Ciara",11
+"2006-11","Conjure One",7
+"2006-11","Garbage",3
+"2006-11","Justin Timberlake",3
+"2006-11","Maroon 5",20
+"2006-11","Moby",8
+"2006-11","Nelly Furtado",0
+"2006-11","Nickelback",23
+"2006-11","Oasis",3
+"2006-11","Poets Of The Fall",13
+"2006-11","Santana",7
+"2006-11","Sean Paul",0
+"2006-11","Sting",0
+"2006-11","The Black Eyed Peas",0
+"2006-11","Will Smith",72
+"2006-11","Wyclef Jean",0
+"2006-12","Alan Silvestri",0
+"2006-12","Alicia Keys",10
+"2006-12","Baby Bash",3
+"2006-12","Beyoncé",40
+"2006-12","Ciara",47
+"2006-12","Conjure One",18
+"2006-12","Garbage",1
+"2006-12","Justin Timberlake",1
+"2006-12","Maroon 5",12
+"2006-12","Moby",0
+"2006-12","Nelly Furtado",1
+"2006-12","Nickelback",2
+"2006-12","Oasis",5
+"2006-12","Poets Of The Fall",8
+"2006-12","Santana",2
+"2006-12","Sean Paul",39
+"2006-12","Sting",0
+"2006-12","The Black Eyed Peas",49
+"2006-12","Will Smith",37
+"2006-12","Wyclef Jean",0
+"2007-01","Alan Silvestri",0
+"2007-01","Alicia Keys",2
+"2007-01","Baby Bash",0
+"2007-01","Beyoncé",134
+"2007-01","Ciara",2
+"2007-01","Conjure One",7
+"2007-01","Garbage",0
+"2007-01","Justin Timberlake",3
+"2007-01","Maroon 5",0
+"2007-01","Moby",0
+"2007-01","Nelly Furtado",1
+"2007-01","Nickelback",4
+"2007-01","Oasis",14
+"2007-01","Poets Of The Fall",0
+"2007-01","Santana",1
+"2007-01","Sean Paul",9
+"2007-01","Sting",4
+"2007-01","The Black Eyed Peas",1
+"2007-01","Will Smith",1
+"2007-01","Wyclef Jean",0
+"2007-02","Alan Silvestri",7
+"2007-02","Alicia Keys",0
+"2007-02","Baby Bash",8
+"2007-02","Beyoncé",41
+"2007-02","Ciara",6
+"2007-02","Conjure One",0
+"2007-02","Garbage",10
+"2007-02","Justin Timberlake",6
+"2007-02","Maroon 5",1
+"2007-02","Moby",0
+"2007-02","Nelly Furtado",0
+"2007-02","Nickelback",0
+"2007-02","Oasis",0
+"2007-02","Poets Of The Fall",0
+"2007-02","Santana",0
+"2007-02","Sean Paul",3
+"2007-02","Sting",1
+"2007-02","The Black Eyed Peas",0
+"2007-02","Will Smith",8
+"2007-02","Wyclef Jean",0
+"2007-03","Alan Silvestri",0
+"2007-03","Alicia Keys",2
+"2007-03","Baby Bash",3
+"2007-03","Beyoncé",38
+"2007-03","Ciara",3
+"2007-03","Conjure One",0
+"2007-03","Garbage",4
+"2007-03","Justin Timberlake",14
+"2007-03","Maroon 5",18
+"2007-03","Moby",1
+"2007-03","Nelly Furtado",11
+"2007-03","Nickelback",0
+"2007-03","Oasis",0
+"2007-03","Poets Of The Fall",1
+"2007-03","Santana",9
+"2007-03","Sean Paul",1
+"2007-03","Sting",2
+"2007-03","The Black Eyed Peas",3
+"2007-03","Will Smith",2
+"2007-03","Wyclef Jean",2
+"2007-04","Alan Silvestri",5
+"2007-04","Alicia Keys",0
+"2007-04","Baby Bash",30
+"2007-04","Beyoncé",2
+"2007-04","Ciara",2
+"2007-04","Conjure One",13
+"2007-04","Garbage",21
+"2007-04","Justin Timberlake",28
+"2007-04","Maroon 5",0
+"2007-04","Moby",1
+"2007-04","Nelly Furtado",5
+"2007-04","Nickelback",0
+"2007-04","Oasis",0
+"2007-04","Poets Of The Fall",11
+"2007-04","Santana",6
+"2007-04","Sean Paul",10
+"2007-04","Sting",41
+"2007-04","The Black Eyed Peas",0
+"2007-04","Will Smith",0
+"2007-04","Wyclef Jean",35
+"2007-05","Alan Silvestri",24
+"2007-05","Alicia Keys",0
+"2007-05","Baby Bash",3
+"2007-05","Beyoncé",3
+"2007-05","Ciara",1
+"2007-05","Conjure One",0
+"2007-05","Garbage",3
+"2007-05","Justin Timberlake",4
+"2007-05","Maroon 5",121
+"2007-05","Moby",1
+"2007-05","Nelly Furtado",2
+"2007-05","Nickelback",1
+"2007-05","Oasis",1
+"2007-05","Poets Of The Fall",1
+"2007-05","Santana",0
+"2007-05","Sean Paul",1
+"2007-05","Sting",60
+"2007-05","The Black Eyed Peas",3
+"2007-05","Will Smith",52
+"2007-05","Wyclef Jean",4
+"2007-06","Alan Silvestri",0
+"2007-06","Alicia Keys",2
+"2007-06","Baby Bash",1
+"2007-06","Beyoncé",0
+"2007-06","Ciara",0
+"2007-06","Conjure One",6
+"2007-06","Garbage",0
+"2007-06","Justin Timberlake",1
+"2007-06","Maroon 5",54
+"2007-06","Moby",0
+"2007-06","Nelly Furtado",0
+"2007-06","Nickelback",0
+"2007-06","Oasis",5
+"2007-06","Poets Of The Fall",14
+"2007-06","Santana",5
+"2007-06","Sean Paul",1
+"2007-06","Sting",5
+"2007-06","The Black Eyed Peas",1
+"2007-06","Will Smith",0
+"2007-06","Wyclef Jean",1
+"2007-07","Alan Silvestri",0
+"2007-07","Alicia Keys",1
+"2007-07","Baby Bash",0
+"2007-07","Beyoncé",0
+"2007-07","Ciara",0
+"2007-07","Conjure One",0
+"2007-07","Garbage",0
+"2007-07","Justin Timberlake",4
+"2007-07","Maroon 5",0
+"2007-07","Moby",0
+"2007-07","Nelly Furtado",1
+"2007-07","Nickelback",0
+"2007-07","Oasis",0
+"2007-07","Poets Of The Fall",1
+"2007-07","Santana",0
+"2007-07","Sean Paul",1
+"2007-07","Sting",0
+"2007-07","The Black Eyed Peas",0
+"2007-07","Will Smith",0
+"2007-07","Wyclef Jean",0
+"2007-08","Alan Silvestri",0
+"2007-08","Alicia Keys",0
+"2007-08","Baby Bash",0
+"2007-08","Beyoncé",14
+"2007-08","Ciara",11
+"2007-08","Conjure One",2
+"2007-08","Garbage",0
+"2007-08","Justin Timberlake",21
+"2007-08","Maroon 5",17
+"2007-08","Moby",0
+"2007-08","Nelly Furtado",68
+"2007-08","Nickelback",4
+"2007-08","Oasis",10
+"2007-08","Poets Of The Fall",0
+"2007-08","Santana",0
+"2007-08","Sean Paul",0
+"2007-08","Sting",11
+"2007-08","The Black Eyed Peas",7
+"2007-08","Will Smith",2
+"2007-08","Wyclef Jean",6
+"2007-09","Alan Silvestri",0
+"2007-09","Alicia Keys",1
+"2007-09","Baby Bash",11
+"2007-09","Beyoncé",2
+"2007-09","Ciara",0
+"2007-09","Conjure One",7
+"2007-09","Garbage",0
+"2007-09","Justin Timberlake",15
+"2007-09","Maroon 5",3
+"2007-09","Moby",1
+"2007-09","Nelly Furtado",0
+"2007-09","Nickelback",3
+"2007-09","Oasis",0
+"2007-09","Poets Of The Fall",0
+"2007-09","Santana",0
+"2007-09","Sean Paul",10
+"2007-09","Sting",3
+"2007-09","The Black Eyed Peas",0
+"2007-09","Will Smith",1
+"2007-09","Wyclef Jean",4
+"2007-10","Alan Silvestri",0
+"2007-10","Alicia Keys",11
+"2007-10","Baby Bash",0
+"2007-10","Beyoncé",7
+"2007-10","Ciara",12
+"2007-10","Conjure One",7
+"2007-10","Garbage",0
+"2007-10","Justin Timberlake",19
+"2007-10","Maroon 5",4
+"2007-10","Moby",1
+"2007-10","Nelly Furtado",1
+"2007-10","Nickelback",1
+"2007-10","Oasis",0
+"2007-10","Poets Of The Fall",4
+"2007-10","Santana",0
+"2007-10","Sean Paul",5
+"2007-10","Sting",0
+"2007-10","The Black Eyed Peas",0
+"2007-10","Will Smith",1
+"2007-10","Wyclef Jean",12
+"2007-11","Alan Silvestri",0
+"2007-11","Alicia Keys",3
+"2007-11","Baby Bash",0
+"2007-11","Beyoncé",4
+"2007-11","Ciara",0
+"2007-11","Conjure One",0
+"2007-11","Garbage",0
+"2007-11","Justin Timberlake",0
+"2007-11","Maroon 5",4
+"2007-11","Moby",0
+"2007-11","Nelly Furtado",0
+"2007-11","Nickelback",0
+"2007-11","Oasis",3
+"2007-11","Poets Of The Fall",0
+"2007-11","Santana",0
+"2007-11","Sean Paul",0
+"2007-11","Sting",1
+"2007-11","The Black Eyed Peas",0
+"2007-11","Will Smith",0
+"2007-11","Wyclef Jean",0
+"2007-12","Alan Silvestri",0
+"2007-12","Alicia Keys",0
+"2007-12","Baby Bash",0
+"2007-12","Beyoncé",45
+"2007-12","Ciara",0
+"2007-12","Conjure One",0
+"2007-12","Garbage",0
+"2007-12","Justin Timberlake",1
+"2007-12","Maroon 5",0
+"2007-12","Moby",0
+"2007-12","Nelly Furtado",2
+"2007-12","Nickelback",6
+"2007-12","Oasis",0
+"2007-12","Poets Of The Fall",0
+"2007-12","Santana",10
+"2007-12","Sean Paul",15
+"2007-12","Sting",0
+"2007-12","The Black Eyed Peas",0
+"2007-12","Will Smith",0
+"2007-12","Wyclef Jean",2
+"2008-01","Alan Silvestri",0
+"2008-01","Alicia Keys",0
+"2008-01","Baby Bash",0
+"2008-01","Beyoncé",0
+"2008-01","Ciara",0
+"2008-01","Conjure One",0
+"2008-01","Garbage",0
+"2008-01","Justin Timberlake",1
+"2008-01","Maroon 5",2
+"2008-01","Moby",1
+"2008-01","Nelly Furtado",0
+"2008-01","Nickelback",7
+"2008-01","Oasis",0
+"2008-01","Poets Of The Fall",0
+"2008-01","Santana",42
+"2008-01","Sean Paul",0
+"2008-01","Sting",0
+"2008-01","The Black Eyed Peas",0
+"2008-01","Will Smith",5
+"2008-01","Wyclef Jean",1
+"2008-02","Alan Silvestri",0
+"2008-02","Alicia Keys",0
+"2008-02","Baby Bash",0
+"2008-02","Beyoncé",1
+"2008-02","Ciara",0
+"2008-02","Conjure One",0
+"2008-02","Garbage",0
+"2008-02","Justin Timberlake",2
+"2008-02","Maroon 5",0
+"2008-02","Moby",0
+"2008-02","Nelly Furtado",0
+"2008-02","Nickelback",0
+"2008-02","Oasis",0
+"2008-02","Poets Of The Fall",0
+"2008-02","Santana",7
+"2008-02","Sean Paul",0
+"2008-02","Sting",0
+"2008-02","The Black Eyed Peas",0
+"2008-02","Will Smith",0
+"2008-02","Wyclef Jean",2
+"2008-03","Alan Silvestri",0
+"2008-03","Alicia Keys",0
+"2008-03","Baby Bash",0
+"2008-03","Beyoncé",1
+"2008-03","Ciara",0
+"2008-03","Conjure One",0
+"2008-03","Garbage",1
+"2008-03","Justin Timberlake",1
+"2008-03","Maroon 5",12
+"2008-03","Moby",0
+"2008-03","Nelly Furtado",0
+"2008-03","Nickelback",15
+"2008-03","Oasis",1
+"2008-03","Poets Of The Fall",8
+"2008-03","Santana",1
+"2008-03","Sean Paul",0
+"2008-03","Sting",0
+"2008-03","The Black Eyed Peas",1
+"2008-03","Will Smith",0
+"2008-03","Wyclef Jean",0
+"2008-04","Alan Silvestri",0
+"2008-04","Alicia Keys",0
+"2008-04","Baby Bash",0
+"2008-04","Beyoncé",1
+"2008-04","Ciara",0
+"2008-04","Conjure One",0
+"2008-04","Garbage",0
+"2008-04","Justin Timberlake",0
+"2008-04","Maroon 5",0
+"2008-04","Moby",0
+"2008-04","Nelly Furtado",0
+"2008-04","Nickelback",0
+"2008-04","Oasis",0
+"2008-04","Poets Of The Fall",1
+"2008-04","Santana",0
+"2008-04","Sean Paul",0
+"2008-04","Sting",0
+"2008-04","The Black Eyed Peas",0
+"2008-04","Will Smith",0
+"2008-04","Wyclef Jean",0
+"2008-05","Alan Silvestri",2
+"2008-05","Alicia Keys",0
+"2008-05","Baby Bash",0
+"2008-05","Beyoncé",1
+"2008-05","Ciara",0
+"2008-05","Conjure One",0
+"2008-05","Garbage",2
+"2008-05","Justin Timberlake",0
+"2008-05","Maroon 5",0
+"2008-05","Moby",0
+"2008-05","Nelly Furtado",0
+"2008-05","Nickelback",4
+"2008-05","Oasis",0
+"2008-05","Poets Of The Fall",4
+"2008-05","Santana",15
+"2008-05","Sean Paul",5
+"2008-05","Sting",1
+"2008-05","The Black Eyed Peas",1
+"2008-05","Will Smith",0
+"2008-05","Wyclef Jean",0
+"2008-06","Alan Silvestri",0
+"2008-06","Alicia Keys",0
+"2008-06","Baby Bash",0
+"2008-06","Beyoncé",0
+"2008-06","Ciara",0
+"2008-06","Conjure One",0
+"2008-06","Garbage",0
+"2008-06","Justin Timberlake",0
+"2008-06","Maroon 5",0
+"2008-06","Moby",0
+"2008-06","Nelly Furtado",0
+"2008-06","Nickelback",3
+"2008-06","Oasis",0
+"2008-06","Poets Of The Fall",0
+"2008-06","Santana",0
+"2008-06","Sean Paul",0
+"2008-06","Sting",0
+"2008-06","The Black Eyed Peas",0
+"2008-06","Will Smith",0
+"2008-06","Wyclef Jean",0
+"2008-07","Alan Silvestri",1
+"2008-07","Alicia Keys",0
+"2008-07","Baby Bash",0
+"2008-07","Beyoncé",0
+"2008-07","Ciara",3
+"2008-07","Conjure One",0
+"2008-07","Garbage",0
+"2008-07","Justin Timberlake",0
+"2008-07","Maroon 5",0
+"2008-07","Moby",0
+"2008-07","Nelly Furtado",0
+"2008-07","Nickelback",0
+"2008-07","Oasis",0
+"2008-07","Poets Of The Fall",0
+"2008-07","Santana",0
+"2008-07","Sean Paul",0
+"2008-07","Sting",0
+"2008-07","The Black Eyed Peas",0
+"2008-07","Will Smith",0
+"2008-07","Wyclef Jean",1
+"2008-08","Alan Silvestri",0
+"2008-08","Alicia Keys",0
+"2008-08","Baby Bash",0
+"2008-08","Beyoncé",0
+"2008-08","Ciara",0
+"2008-08","Conjure One",0
+"2008-08","Garbage",0
+"2008-08","Justin Timberlake",0
+"2008-08","Maroon 5",9
+"2008-08","Moby",0
+"2008-08","Nelly Furtado",1
+"2008-08","Nickelback",14
+"2008-08","Oasis",1
+"2008-08","Poets Of The Fall",0
+"2008-08","Santana",0
+"2008-08","Sean Paul",0
+"2008-08","Sting",0
+"2008-08","The Black Eyed Peas",0
+"2008-08","Will Smith",0
+"2008-08","Wyclef Jean",0
+"2008-09","Alan Silvestri",0
+"2008-09","Alicia Keys",0
+"2008-09","Baby Bash",0
+"2008-09","Beyoncé",0
+"2008-09","Ciara",0
+"2008-09","Conjure One",0
+"2008-09","Garbage",0
+"2008-09","Justin Timberlake",0
+"2008-09","Maroon 5",0
+"2008-09","Moby",0
+"2008-09","Nelly Furtado",0
+"2008-09","Nickelback",4
+"2008-09","Oasis",0
+"2008-09","Poets Of The Fall",0
+"2008-09","Santana",0
+"2008-09","Sean Paul",0
+"2008-09","Sting",0
+"2008-09","The Black Eyed Peas",0
+"2008-09","Will Smith",0
+"2008-09","Wyclef Jean",0
+"2008-10","Alan Silvestri",0
+"2008-10","Alicia Keys",0
+"2008-10","Baby Bash",0
+"2008-10","Beyoncé",0
+"2008-10","Ciara",0
+"2008-10","Conjure One",0
+"2008-10","Garbage",0
+"2008-10","Justin Timberlake",0
+"2008-10","Maroon 5",0
+"2008-10","Moby",0
+"2008-10","Nelly Furtado",0
+"2008-10","Nickelback",0
+"2008-10","Oasis",23
+"2008-10","Poets Of The Fall",0
+"2008-10","Santana",0
+"2008-10","Sean Paul",0
+"2008-10","Sting",0
+"2008-10","The Black Eyed Peas",0
+"2008-10","Will Smith",0
+"2008-10","Wyclef Jean",0
+"2008-11","Alan Silvestri",0
+"2008-11","Alicia Keys",1
+"2008-11","Baby Bash",0
+"2008-11","Beyoncé",0
+"2008-11","Ciara",0
+"2008-11","Conjure One",0
+"2008-11","Garbage",0
+"2008-11","Justin Timberlake",0
+"2008-11","Maroon 5",0
+"2008-11","Moby",0
+"2008-11","Nelly Furtado",1
+"2008-11","Nickelback",30
+"2008-11","Oasis",1
+"2008-11","Poets Of The Fall",0
+"2008-11","Santana",3
+"2008-11","Sean Paul",0
+"2008-11","Sting",0
+"2008-11","The Black Eyed Peas",1
+"2008-11","Will Smith",0
+"2008-11","Wyclef Jean",0
+"2008-12","Alan Silvestri",43
+"2008-12","Alicia Keys",9
+"2008-12","Baby Bash",0
+"2008-12","Beyoncé",0
+"2008-12","Ciara",0
+"2008-12","Conjure One",0
+"2008-12","Garbage",0
+"2008-12","Justin Timberlake",0
+"2008-12","Maroon 5",10
+"2008-12","Moby",0
+"2008-12","Nelly Furtado",0
+"2008-12","Nickelback",0
+"2008-12","Oasis",0
+"2008-12","Poets Of The Fall",0
+"2008-12","Santana",19
+"2008-12","Sean Paul",0
+"2008-12","Sting",11
+"2008-12","The Black Eyed Peas",0
+"2008-12","Will Smith",0
+"2008-12","Wyclef Jean",0
+"2009-01","Alan Silvestri",0
+"2009-01","Alicia Keys",14
+"2009-01","Baby Bash",0
+"2009-01","Beyoncé",12
+"2009-01","Ciara",0
+"2009-01","Conjure One",0
+"2009-01","Garbage",0
+"2009-01","Justin Timberlake",0
+"2009-01","Maroon 5",0
+"2009-01","Moby",0
+"2009-01","Nelly Furtado",0
+"2009-01","Nickelback",0
+"2009-01","Oasis",0
+"2009-01","Poets Of The Fall",0
+"2009-01","Santana",2
+"2009-01","Sean Paul",1
+"2009-01","Sting",0
+"2009-01","The Black Eyed Peas",0
+"2009-01","Will Smith",0
+"2009-01","Wyclef Jean",0
+"2009-02","Alan Silvestri",0
+"2009-02","Alicia Keys",31
+"2009-02","Baby Bash",0
+"2009-02","Beyoncé",3
+"2009-02","Ciara",0
+"2009-02","Conjure One",0
+"2009-02","Garbage",0
+"2009-02","Justin Timberlake",0
+"2009-02","Maroon 5",0
+"2009-02","Moby",1
+"2009-02","Nelly Furtado",0
+"2009-02","Nickelback",0
+"2009-02","Oasis",0
+"2009-02","Poets Of The Fall",0
+"2009-02","Santana",0
+"2009-02","Sean Paul",0
+"2009-02","Sting",0
+"2009-02","The Black Eyed Peas",0
+"2009-02","Will Smith",5
+"2009-02","Wyclef Jean",0
+"2009-03","Alan Silvestri",1
+"2009-03","Alicia Keys",12
+"2009-03","Baby Bash",0
+"2009-03","Beyoncé",0
+"2009-03","Ciara",0
+"2009-03","Conjure One",0
+"2009-03","Garbage",0
+"2009-03","Justin Timberlake",0
+"2009-03","Maroon 5",29
+"2009-03","Moby",0
+"2009-03","Nelly Furtado",0
+"2009-03","Nickelback",2
+"2009-03","Oasis",1
+"2009-03","Poets Of The Fall",0
+"2009-03","Santana",35
+"2009-03","Sean Paul",6
+"2009-03","Sting",0
+"2009-03","The Black Eyed Peas",3
+"2009-03","Will Smith",0
+"2009-03","Wyclef Jean",1
+"2009-04","Alan Silvestri",0
+"2009-04","Alicia Keys",11
+"2009-04","Baby Bash",0
+"2009-04","Beyoncé",0
+"2009-04","Ciara",0
+"2009-04","Conjure One",0
+"2009-04","Garbage",0
+"2009-04","Justin Timberlake",0
+"2009-04","Maroon 5",0
+"2009-04","Moby",0
+"2009-04","Nelly Furtado",0
+"2009-04","Nickelback",0
+"2009-04","Oasis",0
+"2009-04","Poets Of The Fall",0
+"2009-04","Santana",11
+"2009-04","Sean Paul",0
+"2009-04","Sting",0
+"2009-04","The Black Eyed Peas",0
+"2009-04","Will Smith",0
+"2009-04","Wyclef Jean",0

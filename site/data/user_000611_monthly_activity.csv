@@ -1,601 +1,601 @@
-month,artist,plays
-2007-01,Ac/Dc,7
-2007-01,Anton Maiden,0
-2007-01,Black Sabbath,13
-2007-01,Blind Guardian,13
-2007-01,Blue Öyster Cult,0
-2007-01,Cathedral,1
-2007-01,Deep Purple,1
-2007-01,Iron Maiden,0
-2007-01,Jethro Tull,1
-2007-01,Judas Priest,15
-2007-01,Manowar,0
-2007-01,Metallica,0
-2007-01,Negazione,0
-2007-01,New Trolls,0
-2007-01,Ñu,40
-2007-01,Queen,49
-2007-01,Scorpions,88
-2007-01,Strana Officina,6
-2007-01,Thin Lizzy,0
-2007-01,Uriah Heep,36
-2007-02,Ac/Dc,0
-2007-02,Anton Maiden,0
-2007-02,Black Sabbath,0
-2007-02,Blind Guardian,0
-2007-02,Blue Öyster Cult,0
-2007-02,Cathedral,0
-2007-02,Deep Purple,0
-2007-02,Iron Maiden,0
-2007-02,Jethro Tull,0
-2007-02,Judas Priest,0
-2007-02,Manowar,21
-2007-02,Metallica,0
-2007-02,Negazione,0
-2007-02,New Trolls,40
-2007-02,Ñu,7
-2007-02,Queen,0
-2007-02,Scorpions,0
-2007-02,Strana Officina,4
-2007-02,Thin Lizzy,9
-2007-02,Uriah Heep,0
-2007-03,Ac/Dc,0
-2007-03,Anton Maiden,0
-2007-03,Black Sabbath,15
-2007-03,Blind Guardian,0
-2007-03,Blue Öyster Cult,40
-2007-03,Cathedral,0
-2007-03,Deep Purple,1
-2007-03,Iron Maiden,0
-2007-03,Jethro Tull,13
-2007-03,Judas Priest,15
-2007-03,Manowar,0
-2007-03,Metallica,7
-2007-03,Negazione,0
-2007-03,New Trolls,3
-2007-03,Ñu,25
-2007-03,Queen,3
-2007-03,Scorpions,4
-2007-03,Strana Officina,0
-2007-03,Thin Lizzy,0
-2007-03,Uriah Heep,0
-2007-04,Ac/Dc,18
-2007-04,Anton Maiden,0
-2007-04,Black Sabbath,4
-2007-04,Blind Guardian,0
-2007-04,Blue Öyster Cult,2
-2007-04,Cathedral,7
-2007-04,Deep Purple,10
-2007-04,Iron Maiden,0
-2007-04,Jethro Tull,28
-2007-04,Judas Priest,21
-2007-04,Manowar,0
-2007-04,Metallica,52
-2007-04,Negazione,0
-2007-04,New Trolls,0
-2007-04,Ñu,21
-2007-04,Queen,8
-2007-04,Scorpions,27
-2007-04,Strana Officina,0
-2007-04,Thin Lizzy,14
-2007-04,Uriah Heep,0
-2007-05,Ac/Dc,77
-2007-05,Anton Maiden,8
-2007-05,Black Sabbath,13
-2007-05,Blind Guardian,17
-2007-05,Blue Öyster Cult,0
-2007-05,Cathedral,0
-2007-05,Deep Purple,36
-2007-05,Iron Maiden,54
-2007-05,Jethro Tull,0
-2007-05,Judas Priest,0
-2007-05,Manowar,0
-2007-05,Metallica,0
-2007-05,Negazione,157
-2007-05,New Trolls,0
-2007-05,Ñu,0
-2007-05,Queen,0
-2007-05,Scorpions,0
-2007-05,Strana Officina,0
-2007-05,Thin Lizzy,0
-2007-05,Uriah Heep,0
-2007-06,Ac/Dc,0
-2007-06,Anton Maiden,0
-2007-06,Black Sabbath,56
-2007-06,Blind Guardian,19
-2007-06,Blue Öyster Cult,29
-2007-06,Cathedral,0
-2007-06,Deep Purple,17
-2007-06,Iron Maiden,6
-2007-06,Jethro Tull,0
-2007-06,Judas Priest,128
-2007-06,Manowar,32
-2007-06,Metallica,30
-2007-06,Negazione,0
-2007-06,New Trolls,24
-2007-06,Ñu,0
-2007-06,Queen,32
-2007-06,Scorpions,30
-2007-06,Strana Officina,62
-2007-06,Thin Lizzy,47
-2007-06,Uriah Heep,0
-2007-07,Ac/Dc,0
-2007-07,Anton Maiden,0
-2007-07,Black Sabbath,32
-2007-07,Blind Guardian,3
-2007-07,Blue Öyster Cult,1
-2007-07,Cathedral,5
-2007-07,Deep Purple,69
-2007-07,Iron Maiden,0
-2007-07,Jethro Tull,5
-2007-07,Judas Priest,0
-2007-07,Manowar,3
-2007-07,Metallica,0
-2007-07,Negazione,1
-2007-07,New Trolls,4
-2007-07,Ñu,4
-2007-07,Queen,0
-2007-07,Scorpions,0
-2007-07,Strana Officina,35
-2007-07,Thin Lizzy,1
-2007-07,Uriah Heep,0
-2007-08,Ac/Dc,8
-2007-08,Anton Maiden,21
-2007-08,Black Sabbath,18
-2007-08,Blind Guardian,24
-2007-08,Blue Öyster Cult,0
-2007-08,Cathedral,0
-2007-08,Deep Purple,8
-2007-08,Iron Maiden,77
-2007-08,Jethro Tull,0
-2007-08,Judas Priest,34
-2007-08,Manowar,1
-2007-08,Metallica,47
-2007-08,Negazione,123
-2007-08,New Trolls,25
-2007-08,Ñu,23
-2007-08,Queen,6
-2007-08,Scorpions,10
-2007-08,Strana Officina,123
-2007-08,Thin Lizzy,0
-2007-08,Uriah Heep,0
-2007-09,Ac/Dc,9
-2007-09,Anton Maiden,0
-2007-09,Black Sabbath,40
-2007-09,Blind Guardian,24
-2007-09,Blue Öyster Cult,53
-2007-09,Cathedral,5
-2007-09,Deep Purple,29
-2007-09,Iron Maiden,0
-2007-09,Jethro Tull,38
-2007-09,Judas Priest,0
-2007-09,Manowar,10
-2007-09,Metallica,0
-2007-09,Negazione,4
-2007-09,New Trolls,39
-2007-09,Ñu,2
-2007-09,Queen,0
-2007-09,Scorpions,24
-2007-09,Strana Officina,23
-2007-09,Thin Lizzy,41
-2007-09,Uriah Heep,7
-2007-10,Ac/Dc,65
-2007-10,Anton Maiden,14
-2007-10,Black Sabbath,1
-2007-10,Blind Guardian,17
-2007-10,Blue Öyster Cult,4
-2007-10,Cathedral,30
-2007-10,Deep Purple,18
-2007-10,Iron Maiden,42
-2007-10,Jethro Tull,0
-2007-10,Judas Priest,1
-2007-10,Manowar,21
-2007-10,Metallica,89
-2007-10,Negazione,19
-2007-10,New Trolls,29
-2007-10,Ñu,54
-2007-10,Queen,128
-2007-10,Scorpions,16
-2007-10,Strana Officina,19
-2007-10,Thin Lizzy,31
-2007-10,Uriah Heep,6
-2007-11,Ac/Dc,51
-2007-11,Anton Maiden,8
-2007-11,Black Sabbath,86
-2007-11,Blind Guardian,2
-2007-11,Blue Öyster Cult,93
-2007-11,Cathedral,0
-2007-11,Deep Purple,62
-2007-11,Iron Maiden,8
-2007-11,Jethro Tull,1
-2007-11,Judas Priest,0
-2007-11,Manowar,35
-2007-11,Metallica,9
-2007-11,Negazione,0
-2007-11,New Trolls,39
-2007-11,Ñu,118
-2007-11,Queen,21
-2007-11,Scorpions,64
-2007-11,Strana Officina,40
-2007-11,Thin Lizzy,76
-2007-11,Uriah Heep,0
-2007-12,Ac/Dc,16
-2007-12,Anton Maiden,2
-2007-12,Black Sabbath,104
-2007-12,Blind Guardian,4
-2007-12,Blue Öyster Cult,20
-2007-12,Cathedral,0
-2007-12,Deep Purple,62
-2007-12,Iron Maiden,0
-2007-12,Jethro Tull,31
-2007-12,Judas Priest,158
-2007-12,Manowar,2
-2007-12,Metallica,51
-2007-12,Negazione,126
-2007-12,New Trolls,84
-2007-12,Ñu,116
-2007-12,Queen,56
-2007-12,Scorpions,98
-2007-12,Strana Officina,89
-2007-12,Thin Lizzy,0
-2007-12,Uriah Heep,62
-2008-01,Ac/Dc,106
-2008-01,Anton Maiden,28
-2008-01,Black Sabbath,0
-2008-01,Blind Guardian,12
-2008-01,Blue Öyster Cult,0
-2008-01,Cathedral,16
-2008-01,Deep Purple,0
-2008-01,Iron Maiden,68
-2008-01,Jethro Tull,56
-2008-01,Judas Priest,0
-2008-01,Manowar,0
-2008-01,Metallica,0
-2008-01,Negazione,0
-2008-01,New Trolls,30
-2008-01,Ñu,62
-2008-01,Queen,143
-2008-01,Scorpions,48
-2008-01,Strana Officina,7
-2008-01,Thin Lizzy,10
-2008-01,Uriah Heep,0
-2008-02,Ac/Dc,28
-2008-02,Anton Maiden,4
-2008-02,Black Sabbath,0
-2008-02,Blind Guardian,0
-2008-02,Blue Öyster Cult,9
-2008-02,Cathedral,0
-2008-02,Deep Purple,0
-2008-02,Iron Maiden,0
-2008-02,Jethro Tull,0
-2008-02,Judas Priest,0
-2008-02,Manowar,0
-2008-02,Metallica,15
-2008-02,Negazione,9
-2008-02,New Trolls,24
-2008-02,Ñu,33
-2008-02,Queen,44
-2008-02,Scorpions,48
-2008-02,Strana Officina,0
-2008-02,Thin Lizzy,30
-2008-02,Uriah Heep,5
-2008-03,Ac/Dc,0
-2008-03,Anton Maiden,0
-2008-03,Black Sabbath,0
-2008-03,Blind Guardian,0
-2008-03,Blue Öyster Cult,38
-2008-03,Cathedral,0
-2008-03,Deep Purple,64
-2008-03,Iron Maiden,0
-2008-03,Jethro Tull,7
-2008-03,Judas Priest,0
-2008-03,Manowar,0
-2008-03,Metallica,0
-2008-03,Negazione,27
-2008-03,New Trolls,0
-2008-03,Ñu,21
-2008-03,Queen,0
-2008-03,Scorpions,1
-2008-03,Strana Officina,11
-2008-03,Thin Lizzy,0
-2008-03,Uriah Heep,0
-2008-04,Ac/Dc,2
-2008-04,Anton Maiden,1
-2008-04,Black Sabbath,24
-2008-04,Blind Guardian,0
-2008-04,Blue Öyster Cult,0
-2008-04,Cathedral,0
-2008-04,Deep Purple,29
-2008-04,Iron Maiden,21
-2008-04,Jethro Tull,23
-2008-04,Judas Priest,0
-2008-04,Manowar,0
-2008-04,Metallica,8
-2008-04,Negazione,38
-2008-04,New Trolls,1
-2008-04,Ñu,10
-2008-04,Queen,0
-2008-04,Scorpions,39
-2008-04,Strana Officina,0
-2008-04,Thin Lizzy,0
-2008-04,Uriah Heep,14
-2008-05,Ac/Dc,0
-2008-05,Anton Maiden,11
-2008-05,Black Sabbath,0
-2008-05,Blind Guardian,0
-2008-05,Blue Öyster Cult,0
-2008-05,Cathedral,9
-2008-05,Deep Purple,35
-2008-05,Iron Maiden,7
-2008-05,Jethro Tull,0
-2008-05,Judas Priest,81
-2008-05,Manowar,0
-2008-05,Metallica,20
-2008-05,Negazione,18
-2008-05,New Trolls,74
-2008-05,Ñu,8
-2008-05,Queen,0
-2008-05,Scorpions,0
-2008-05,Strana Officina,47
-2008-05,Thin Lizzy,43
-2008-05,Uriah Heep,0
-2008-06,Ac/Dc,70
-2008-06,Anton Maiden,0
-2008-06,Black Sabbath,60
-2008-06,Blind Guardian,0
-2008-06,Blue Öyster Cult,13
-2008-06,Cathedral,0
-2008-06,Deep Purple,0
-2008-06,Iron Maiden,0
-2008-06,Jethro Tull,111
-2008-06,Judas Priest,75
-2008-06,Manowar,0
-2008-06,Metallica,0
-2008-06,Negazione,0
-2008-06,New Trolls,89
-2008-06,Ñu,26
-2008-06,Queen,12
-2008-06,Scorpions,28
-2008-06,Strana Officina,23
-2008-06,Thin Lizzy,0
-2008-06,Uriah Heep,14
-2008-07,Ac/Dc,0
-2008-07,Anton Maiden,9
-2008-07,Black Sabbath,0
-2008-07,Blind Guardian,0
-2008-07,Blue Öyster Cult,51
-2008-07,Cathedral,0
-2008-07,Deep Purple,33
-2008-07,Iron Maiden,7
-2008-07,Jethro Tull,0
-2008-07,Judas Priest,0
-2008-07,Manowar,0
-2008-07,Metallica,1
-2008-07,Negazione,0
-2008-07,New Trolls,0
-2008-07,Ñu,0
-2008-07,Queen,0
-2008-07,Scorpions,0
-2008-07,Strana Officina,51
-2008-07,Thin Lizzy,18
-2008-07,Uriah Heep,25
-2008-08,Ac/Dc,10
-2008-08,Anton Maiden,0
-2008-08,Black Sabbath,10
-2008-08,Blind Guardian,0
-2008-08,Blue Öyster Cult,0
-2008-08,Cathedral,0
-2008-08,Deep Purple,0
-2008-08,Iron Maiden,8
-2008-08,Jethro Tull,43
-2008-08,Judas Priest,8
-2008-08,Manowar,0
-2008-08,Metallica,16
-2008-08,Negazione,0
-2008-08,New Trolls,4
-2008-08,Ñu,4
-2008-08,Queen,0
-2008-08,Scorpions,5
-2008-08,Strana Officina,0
-2008-08,Thin Lizzy,4
-2008-08,Uriah Heep,6
-2008-09,Ac/Dc,0
-2008-09,Anton Maiden,0
-2008-09,Black Sabbath,19
-2008-09,Blind Guardian,11
-2008-09,Blue Öyster Cult,31
-2008-09,Cathedral,12
-2008-09,Deep Purple,5
-2008-09,Iron Maiden,0
-2008-09,Jethro Tull,0
-2008-09,Judas Priest,0
-2008-09,Manowar,0
-2008-09,Metallica,30
-2008-09,Negazione,0
-2008-09,New Trolls,47
-2008-09,Ñu,7
-2008-09,Queen,0
-2008-09,Scorpions,0
-2008-09,Strana Officina,4
-2008-09,Thin Lizzy,0
-2008-09,Uriah Heep,0
-2008-10,Ac/Dc,44
-2008-10,Anton Maiden,0
-2008-10,Black Sabbath,0
-2008-10,Blind Guardian,6
-2008-10,Blue Öyster Cult,0
-2008-10,Cathedral,0
-2008-10,Deep Purple,0
-2008-10,Iron Maiden,16
-2008-10,Jethro Tull,0
-2008-10,Judas Priest,2
-2008-10,Manowar,15
-2008-10,Metallica,10
-2008-10,Negazione,0
-2008-10,New Trolls,1
-2008-10,Ñu,0
-2008-10,Queen,0
-2008-10,Scorpions,0
-2008-10,Strana Officina,0
-2008-10,Thin Lizzy,10
-2008-10,Uriah Heep,0
-2008-11,Ac/Dc,0
-2008-11,Anton Maiden,0
-2008-11,Black Sabbath,0
-2008-11,Blind Guardian,0
-2008-11,Blue Öyster Cult,0
-2008-11,Cathedral,19
-2008-11,Deep Purple,9
-2008-11,Iron Maiden,0
-2008-11,Jethro Tull,27
-2008-11,Judas Priest,0
-2008-11,Manowar,20
-2008-11,Metallica,5
-2008-11,Negazione,0
-2008-11,New Trolls,0
-2008-11,Ñu,19
-2008-11,Queen,0
-2008-11,Scorpions,12
-2008-11,Strana Officina,0
-2008-11,Thin Lizzy,0
-2008-11,Uriah Heep,6
-2008-12,Ac/Dc,8
-2008-12,Anton Maiden,0
-2008-12,Black Sabbath,22
-2008-12,Blind Guardian,7
-2008-12,Blue Öyster Cult,0
-2008-12,Cathedral,0
-2008-12,Deep Purple,5
-2008-12,Iron Maiden,0
-2008-12,Jethro Tull,44
-2008-12,Judas Priest,0
-2008-12,Manowar,0
-2008-12,Metallica,0
-2008-12,Negazione,70
-2008-12,New Trolls,0
-2008-12,Ñu,50
-2008-12,Queen,27
-2008-12,Scorpions,37
-2008-12,Strana Officina,23
-2008-12,Thin Lizzy,0
-2008-12,Uriah Heep,5
-2009-01,Ac/Dc,0
-2009-01,Anton Maiden,8
-2009-01,Black Sabbath,0
-2009-01,Blind Guardian,0
-2009-01,Blue Öyster Cult,0
-2009-01,Cathedral,53
-2009-01,Deep Purple,0
-2009-01,Iron Maiden,21
-2009-01,Jethro Tull,0
-2009-01,Judas Priest,0
-2009-01,Manowar,0
-2009-01,Metallica,0
-2009-01,Negazione,0
-2009-01,New Trolls,33
-2009-01,Ñu,0
-2009-01,Queen,53
-2009-01,Scorpions,0
-2009-01,Strana Officina,0
-2009-01,Thin Lizzy,18
-2009-01,Uriah Heep,0
-2009-02,Ac/Dc,5
-2009-02,Anton Maiden,5
-2009-02,Black Sabbath,20
-2009-02,Blind Guardian,74
-2009-02,Blue Öyster Cult,0
-2009-02,Cathedral,0
-2009-02,Deep Purple,37
-2009-02,Iron Maiden,10
-2009-02,Jethro Tull,0
-2009-02,Judas Priest,12
-2009-02,Manowar,4
-2009-02,Metallica,50
-2009-02,Negazione,29
-2009-02,New Trolls,21
-2009-02,Ñu,13
-2009-02,Queen,0
-2009-02,Scorpions,41
-2009-02,Strana Officina,45
-2009-02,Thin Lizzy,0
-2009-02,Uriah Heep,6
-2009-03,Ac/Dc,19
-2009-03,Anton Maiden,2
-2009-03,Black Sabbath,0
-2009-03,Blind Guardian,18
-2009-03,Blue Öyster Cult,0
-2009-03,Cathedral,15
-2009-03,Deep Purple,18
-2009-03,Iron Maiden,0
-2009-03,Jethro Tull,0
-2009-03,Judas Priest,17
-2009-03,Manowar,0
-2009-03,Metallica,21
-2009-03,Negazione,26
-2009-03,New Trolls,0
-2009-03,Ñu,2
-2009-03,Queen,5
-2009-03,Scorpions,4
-2009-03,Strana Officina,8
-2009-03,Thin Lizzy,12
-2009-03,Uriah Heep,0
-2009-04,Ac/Dc,9
-2009-04,Anton Maiden,3
-2009-04,Black Sabbath,16
-2009-04,Blind Guardian,19
-2009-04,Blue Öyster Cult,0
-2009-04,Cathedral,20
-2009-04,Deep Purple,33
-2009-04,Iron Maiden,5
-2009-04,Jethro Tull,0
-2009-04,Judas Priest,2
-2009-04,Manowar,0
-2009-04,Metallica,48
-2009-04,Negazione,0
-2009-04,New Trolls,9
-2009-04,Ñu,10
-2009-04,Queen,34
-2009-04,Scorpions,33
-2009-04,Strana Officina,24
-2009-04,Thin Lizzy,0
-2009-04,Uriah Heep,1
-2009-05,Ac/Dc,8
-2009-05,Anton Maiden,9
-2009-05,Black Sabbath,4
-2009-05,Blind Guardian,0
-2009-05,Blue Öyster Cult,0
-2009-05,Cathedral,1
-2009-05,Deep Purple,0
-2009-05,Iron Maiden,19
-2009-05,Jethro Tull,0
-2009-05,Judas Priest,1
-2009-05,Manowar,16
-2009-05,Metallica,11
-2009-05,Negazione,0
-2009-05,New Trolls,16
-2009-05,Ñu,0
-2009-05,Queen,0
-2009-05,Scorpions,10
-2009-05,Strana Officina,0
-2009-05,Thin Lizzy,0
-2009-05,Uriah Heep,0
-2009-06,Ac/Dc,0
-2009-06,Anton Maiden,0
-2009-06,Black Sabbath,18
-2009-06,Blind Guardian,0
-2009-06,Blue Öyster Cult,0
-2009-06,Cathedral,33
-2009-06,Deep Purple,0
-2009-06,Iron Maiden,0
-2009-06,Jethro Tull,22
-2009-06,Judas Priest,0
-2009-06,Manowar,24
-2009-06,Metallica,0
-2009-06,Negazione,0
-2009-06,New Trolls,0
-2009-06,Ñu,10
-2009-06,Queen,0
-2009-06,Scorpions,2
-2009-06,Strana Officina,0
-2009-06,Thin Lizzy,0
-2009-06,Uriah Heep,13
+"month","artist","plays"
+"2007-01","Ac/Dc",7
+"2007-01","Anton Maiden",0
+"2007-01","Black Sabbath",13
+"2007-01","Blind Guardian",13
+"2007-01","Blue Öyster Cult",0
+"2007-01","Cathedral",1
+"2007-01","Deep Purple",1
+"2007-01","Iron Maiden",0
+"2007-01","Jethro Tull",1
+"2007-01","Judas Priest",15
+"2007-01","Manowar",0
+"2007-01","Metallica",0
+"2007-01","Negazione",0
+"2007-01","New Trolls",0
+"2007-01","Ñu",40
+"2007-01","Queen",49
+"2007-01","Scorpions",88
+"2007-01","Strana Officina",6
+"2007-01","Thin Lizzy",0
+"2007-01","Uriah Heep",36
+"2007-02","Ac/Dc",0
+"2007-02","Anton Maiden",0
+"2007-02","Black Sabbath",0
+"2007-02","Blind Guardian",0
+"2007-02","Blue Öyster Cult",0
+"2007-02","Cathedral",0
+"2007-02","Deep Purple",0
+"2007-02","Iron Maiden",0
+"2007-02","Jethro Tull",0
+"2007-02","Judas Priest",0
+"2007-02","Manowar",21
+"2007-02","Metallica",0
+"2007-02","Negazione",0
+"2007-02","New Trolls",40
+"2007-02","Ñu",7
+"2007-02","Queen",0
+"2007-02","Scorpions",0
+"2007-02","Strana Officina",4
+"2007-02","Thin Lizzy",9
+"2007-02","Uriah Heep",0
+"2007-03","Ac/Dc",0
+"2007-03","Anton Maiden",0
+"2007-03","Black Sabbath",15
+"2007-03","Blind Guardian",0
+"2007-03","Blue Öyster Cult",40
+"2007-03","Cathedral",0
+"2007-03","Deep Purple",1
+"2007-03","Iron Maiden",0
+"2007-03","Jethro Tull",13
+"2007-03","Judas Priest",15
+"2007-03","Manowar",0
+"2007-03","Metallica",7
+"2007-03","Negazione",0
+"2007-03","New Trolls",3
+"2007-03","Ñu",25
+"2007-03","Queen",3
+"2007-03","Scorpions",4
+"2007-03","Strana Officina",0
+"2007-03","Thin Lizzy",0
+"2007-03","Uriah Heep",0
+"2007-04","Ac/Dc",18
+"2007-04","Anton Maiden",0
+"2007-04","Black Sabbath",4
+"2007-04","Blind Guardian",0
+"2007-04","Blue Öyster Cult",2
+"2007-04","Cathedral",7
+"2007-04","Deep Purple",10
+"2007-04","Iron Maiden",0
+"2007-04","Jethro Tull",28
+"2007-04","Judas Priest",21
+"2007-04","Manowar",0
+"2007-04","Metallica",52
+"2007-04","Negazione",0
+"2007-04","New Trolls",0
+"2007-04","Ñu",21
+"2007-04","Queen",8
+"2007-04","Scorpions",27
+"2007-04","Strana Officina",0
+"2007-04","Thin Lizzy",14
+"2007-04","Uriah Heep",0
+"2007-05","Ac/Dc",77
+"2007-05","Anton Maiden",8
+"2007-05","Black Sabbath",13
+"2007-05","Blind Guardian",17
+"2007-05","Blue Öyster Cult",0
+"2007-05","Cathedral",0
+"2007-05","Deep Purple",36
+"2007-05","Iron Maiden",54
+"2007-05","Jethro Tull",0
+"2007-05","Judas Priest",0
+"2007-05","Manowar",0
+"2007-05","Metallica",0
+"2007-05","Negazione",157
+"2007-05","New Trolls",0
+"2007-05","Ñu",0
+"2007-05","Queen",0
+"2007-05","Scorpions",0
+"2007-05","Strana Officina",0
+"2007-05","Thin Lizzy",0
+"2007-05","Uriah Heep",0
+"2007-06","Ac/Dc",0
+"2007-06","Anton Maiden",0
+"2007-06","Black Sabbath",56
+"2007-06","Blind Guardian",19
+"2007-06","Blue Öyster Cult",29
+"2007-06","Cathedral",0
+"2007-06","Deep Purple",17
+"2007-06","Iron Maiden",6
+"2007-06","Jethro Tull",0
+"2007-06","Judas Priest",128
+"2007-06","Manowar",32
+"2007-06","Metallica",30
+"2007-06","Negazione",0
+"2007-06","New Trolls",24
+"2007-06","Ñu",0
+"2007-06","Queen",32
+"2007-06","Scorpions",30
+"2007-06","Strana Officina",62
+"2007-06","Thin Lizzy",47
+"2007-06","Uriah Heep",0
+"2007-07","Ac/Dc",0
+"2007-07","Anton Maiden",0
+"2007-07","Black Sabbath",32
+"2007-07","Blind Guardian",3
+"2007-07","Blue Öyster Cult",1
+"2007-07","Cathedral",5
+"2007-07","Deep Purple",69
+"2007-07","Iron Maiden",0
+"2007-07","Jethro Tull",5
+"2007-07","Judas Priest",0
+"2007-07","Manowar",3
+"2007-07","Metallica",0
+"2007-07","Negazione",1
+"2007-07","New Trolls",4
+"2007-07","Ñu",4
+"2007-07","Queen",0
+"2007-07","Scorpions",0
+"2007-07","Strana Officina",35
+"2007-07","Thin Lizzy",1
+"2007-07","Uriah Heep",0
+"2007-08","Ac/Dc",8
+"2007-08","Anton Maiden",21
+"2007-08","Black Sabbath",18
+"2007-08","Blind Guardian",24
+"2007-08","Blue Öyster Cult",0
+"2007-08","Cathedral",0
+"2007-08","Deep Purple",8
+"2007-08","Iron Maiden",77
+"2007-08","Jethro Tull",0
+"2007-08","Judas Priest",34
+"2007-08","Manowar",1
+"2007-08","Metallica",47
+"2007-08","Negazione",123
+"2007-08","New Trolls",25
+"2007-08","Ñu",23
+"2007-08","Queen",6
+"2007-08","Scorpions",10
+"2007-08","Strana Officina",123
+"2007-08","Thin Lizzy",0
+"2007-08","Uriah Heep",0
+"2007-09","Ac/Dc",9
+"2007-09","Anton Maiden",0
+"2007-09","Black Sabbath",40
+"2007-09","Blind Guardian",24
+"2007-09","Blue Öyster Cult",53
+"2007-09","Cathedral",5
+"2007-09","Deep Purple",29
+"2007-09","Iron Maiden",0
+"2007-09","Jethro Tull",38
+"2007-09","Judas Priest",0
+"2007-09","Manowar",10
+"2007-09","Metallica",0
+"2007-09","Negazione",4
+"2007-09","New Trolls",39
+"2007-09","Ñu",2
+"2007-09","Queen",0
+"2007-09","Scorpions",24
+"2007-09","Strana Officina",23
+"2007-09","Thin Lizzy",41
+"2007-09","Uriah Heep",7
+"2007-10","Ac/Dc",65
+"2007-10","Anton Maiden",14
+"2007-10","Black Sabbath",1
+"2007-10","Blind Guardian",17
+"2007-10","Blue Öyster Cult",4
+"2007-10","Cathedral",30
+"2007-10","Deep Purple",18
+"2007-10","Iron Maiden",42
+"2007-10","Jethro Tull",0
+"2007-10","Judas Priest",1
+"2007-10","Manowar",21
+"2007-10","Metallica",89
+"2007-10","Negazione",19
+"2007-10","New Trolls",29
+"2007-10","Ñu",54
+"2007-10","Queen",128
+"2007-10","Scorpions",16
+"2007-10","Strana Officina",19
+"2007-10","Thin Lizzy",31
+"2007-10","Uriah Heep",6
+"2007-11","Ac/Dc",51
+"2007-11","Anton Maiden",8
+"2007-11","Black Sabbath",86
+"2007-11","Blind Guardian",2
+"2007-11","Blue Öyster Cult",93
+"2007-11","Cathedral",0
+"2007-11","Deep Purple",62
+"2007-11","Iron Maiden",8
+"2007-11","Jethro Tull",1
+"2007-11","Judas Priest",0
+"2007-11","Manowar",35
+"2007-11","Metallica",9
+"2007-11","Negazione",0
+"2007-11","New Trolls",39
+"2007-11","Ñu",118
+"2007-11","Queen",21
+"2007-11","Scorpions",64
+"2007-11","Strana Officina",40
+"2007-11","Thin Lizzy",76
+"2007-11","Uriah Heep",0
+"2007-12","Ac/Dc",16
+"2007-12","Anton Maiden",2
+"2007-12","Black Sabbath",104
+"2007-12","Blind Guardian",4
+"2007-12","Blue Öyster Cult",20
+"2007-12","Cathedral",0
+"2007-12","Deep Purple",62
+"2007-12","Iron Maiden",0
+"2007-12","Jethro Tull",31
+"2007-12","Judas Priest",158
+"2007-12","Manowar",2
+"2007-12","Metallica",51
+"2007-12","Negazione",126
+"2007-12","New Trolls",84
+"2007-12","Ñu",116
+"2007-12","Queen",56
+"2007-12","Scorpions",98
+"2007-12","Strana Officina",89
+"2007-12","Thin Lizzy",0
+"2007-12","Uriah Heep",62
+"2008-01","Ac/Dc",106
+"2008-01","Anton Maiden",28
+"2008-01","Black Sabbath",0
+"2008-01","Blind Guardian",12
+"2008-01","Blue Öyster Cult",0
+"2008-01","Cathedral",16
+"2008-01","Deep Purple",0
+"2008-01","Iron Maiden",68
+"2008-01","Jethro Tull",56
+"2008-01","Judas Priest",0
+"2008-01","Manowar",0
+"2008-01","Metallica",0
+"2008-01","Negazione",0
+"2008-01","New Trolls",30
+"2008-01","Ñu",62
+"2008-01","Queen",143
+"2008-01","Scorpions",48
+"2008-01","Strana Officina",7
+"2008-01","Thin Lizzy",10
+"2008-01","Uriah Heep",0
+"2008-02","Ac/Dc",28
+"2008-02","Anton Maiden",4
+"2008-02","Black Sabbath",0
+"2008-02","Blind Guardian",0
+"2008-02","Blue Öyster Cult",9
+"2008-02","Cathedral",0
+"2008-02","Deep Purple",0
+"2008-02","Iron Maiden",0
+"2008-02","Jethro Tull",0
+"2008-02","Judas Priest",0
+"2008-02","Manowar",0
+"2008-02","Metallica",15
+"2008-02","Negazione",9
+"2008-02","New Trolls",24
+"2008-02","Ñu",33
+"2008-02","Queen",44
+"2008-02","Scorpions",48
+"2008-02","Strana Officina",0
+"2008-02","Thin Lizzy",30
+"2008-02","Uriah Heep",5
+"2008-03","Ac/Dc",0
+"2008-03","Anton Maiden",0
+"2008-03","Black Sabbath",0
+"2008-03","Blind Guardian",0
+"2008-03","Blue Öyster Cult",38
+"2008-03","Cathedral",0
+"2008-03","Deep Purple",64
+"2008-03","Iron Maiden",0
+"2008-03","Jethro Tull",7
+"2008-03","Judas Priest",0
+"2008-03","Manowar",0
+"2008-03","Metallica",0
+"2008-03","Negazione",27
+"2008-03","New Trolls",0
+"2008-03","Ñu",21
+"2008-03","Queen",0
+"2008-03","Scorpions",1
+"2008-03","Strana Officina",11
+"2008-03","Thin Lizzy",0
+"2008-03","Uriah Heep",0
+"2008-04","Ac/Dc",2
+"2008-04","Anton Maiden",1
+"2008-04","Black Sabbath",24
+"2008-04","Blind Guardian",0
+"2008-04","Blue Öyster Cult",0
+"2008-04","Cathedral",0
+"2008-04","Deep Purple",29
+"2008-04","Iron Maiden",21
+"2008-04","Jethro Tull",23
+"2008-04","Judas Priest",0
+"2008-04","Manowar",0
+"2008-04","Metallica",8
+"2008-04","Negazione",38
+"2008-04","New Trolls",1
+"2008-04","Ñu",10
+"2008-04","Queen",0
+"2008-04","Scorpions",39
+"2008-04","Strana Officina",0
+"2008-04","Thin Lizzy",0
+"2008-04","Uriah Heep",14
+"2008-05","Ac/Dc",0
+"2008-05","Anton Maiden",11
+"2008-05","Black Sabbath",0
+"2008-05","Blind Guardian",0
+"2008-05","Blue Öyster Cult",0
+"2008-05","Cathedral",9
+"2008-05","Deep Purple",35
+"2008-05","Iron Maiden",7
+"2008-05","Jethro Tull",0
+"2008-05","Judas Priest",81
+"2008-05","Manowar",0
+"2008-05","Metallica",20
+"2008-05","Negazione",18
+"2008-05","New Trolls",74
+"2008-05","Ñu",8
+"2008-05","Queen",0
+"2008-05","Scorpions",0
+"2008-05","Strana Officina",47
+"2008-05","Thin Lizzy",43
+"2008-05","Uriah Heep",0
+"2008-06","Ac/Dc",70
+"2008-06","Anton Maiden",0
+"2008-06","Black Sabbath",60
+"2008-06","Blind Guardian",0
+"2008-06","Blue Öyster Cult",13
+"2008-06","Cathedral",0
+"2008-06","Deep Purple",0
+"2008-06","Iron Maiden",0
+"2008-06","Jethro Tull",111
+"2008-06","Judas Priest",75
+"2008-06","Manowar",0
+"2008-06","Metallica",0
+"2008-06","Negazione",0
+"2008-06","New Trolls",89
+"2008-06","Ñu",26
+"2008-06","Queen",12
+"2008-06","Scorpions",28
+"2008-06","Strana Officina",23
+"2008-06","Thin Lizzy",0
+"2008-06","Uriah Heep",14
+"2008-07","Ac/Dc",0
+"2008-07","Anton Maiden",9
+"2008-07","Black Sabbath",0
+"2008-07","Blind Guardian",0
+"2008-07","Blue Öyster Cult",51
+"2008-07","Cathedral",0
+"2008-07","Deep Purple",33
+"2008-07","Iron Maiden",7
+"2008-07","Jethro Tull",0
+"2008-07","Judas Priest",0
+"2008-07","Manowar",0
+"2008-07","Metallica",1
+"2008-07","Negazione",0
+"2008-07","New Trolls",0
+"2008-07","Ñu",0
+"2008-07","Queen",0
+"2008-07","Scorpions",0
+"2008-07","Strana Officina",51
+"2008-07","Thin Lizzy",18
+"2008-07","Uriah Heep",25
+"2008-08","Ac/Dc",10
+"2008-08","Anton Maiden",0
+"2008-08","Black Sabbath",10
+"2008-08","Blind Guardian",0
+"2008-08","Blue Öyster Cult",0
+"2008-08","Cathedral",0
+"2008-08","Deep Purple",0
+"2008-08","Iron Maiden",8
+"2008-08","Jethro Tull",43
+"2008-08","Judas Priest",8
+"2008-08","Manowar",0
+"2008-08","Metallica",16
+"2008-08","Negazione",0
+"2008-08","New Trolls",4
+"2008-08","Ñu",4
+"2008-08","Queen",0
+"2008-08","Scorpions",5
+"2008-08","Strana Officina",0
+"2008-08","Thin Lizzy",4
+"2008-08","Uriah Heep",6
+"2008-09","Ac/Dc",0
+"2008-09","Anton Maiden",0
+"2008-09","Black Sabbath",19
+"2008-09","Blind Guardian",11
+"2008-09","Blue Öyster Cult",31
+"2008-09","Cathedral",12
+"2008-09","Deep Purple",5
+"2008-09","Iron Maiden",0
+"2008-09","Jethro Tull",0
+"2008-09","Judas Priest",0
+"2008-09","Manowar",0
+"2008-09","Metallica",30
+"2008-09","Negazione",0
+"2008-09","New Trolls",47
+"2008-09","Ñu",7
+"2008-09","Queen",0
+"2008-09","Scorpions",0
+"2008-09","Strana Officina",4
+"2008-09","Thin Lizzy",0
+"2008-09","Uriah Heep",0
+"2008-10","Ac/Dc",44
+"2008-10","Anton Maiden",0
+"2008-10","Black Sabbath",0
+"2008-10","Blind Guardian",6
+"2008-10","Blue Öyster Cult",0
+"2008-10","Cathedral",0
+"2008-10","Deep Purple",0
+"2008-10","Iron Maiden",16
+"2008-10","Jethro Tull",0
+"2008-10","Judas Priest",2
+"2008-10","Manowar",15
+"2008-10","Metallica",10
+"2008-10","Negazione",0
+"2008-10","New Trolls",1
+"2008-10","Ñu",0
+"2008-10","Queen",0
+"2008-10","Scorpions",0
+"2008-10","Strana Officina",0
+"2008-10","Thin Lizzy",10
+"2008-10","Uriah Heep",0
+"2008-11","Ac/Dc",0
+"2008-11","Anton Maiden",0
+"2008-11","Black Sabbath",0
+"2008-11","Blind Guardian",0
+"2008-11","Blue Öyster Cult",0
+"2008-11","Cathedral",19
+"2008-11","Deep Purple",9
+"2008-11","Iron Maiden",0
+"2008-11","Jethro Tull",27
+"2008-11","Judas Priest",0
+"2008-11","Manowar",20
+"2008-11","Metallica",5
+"2008-11","Negazione",0
+"2008-11","New Trolls",0
+"2008-11","Ñu",19
+"2008-11","Queen",0
+"2008-11","Scorpions",12
+"2008-11","Strana Officina",0
+"2008-11","Thin Lizzy",0
+"2008-11","Uriah Heep",6
+"2008-12","Ac/Dc",8
+"2008-12","Anton Maiden",0
+"2008-12","Black Sabbath",22
+"2008-12","Blind Guardian",7
+"2008-12","Blue Öyster Cult",0
+"2008-12","Cathedral",0
+"2008-12","Deep Purple",5
+"2008-12","Iron Maiden",0
+"2008-12","Jethro Tull",44
+"2008-12","Judas Priest",0
+"2008-12","Manowar",0
+"2008-12","Metallica",0
+"2008-12","Negazione",70
+"2008-12","New Trolls",0
+"2008-12","Ñu",50
+"2008-12","Queen",27
+"2008-12","Scorpions",37
+"2008-12","Strana Officina",23
+"2008-12","Thin Lizzy",0
+"2008-12","Uriah Heep",5
+"2009-01","Ac/Dc",0
+"2009-01","Anton Maiden",8
+"2009-01","Black Sabbath",0
+"2009-01","Blind Guardian",0
+"2009-01","Blue Öyster Cult",0
+"2009-01","Cathedral",53
+"2009-01","Deep Purple",0
+"2009-01","Iron Maiden",21
+"2009-01","Jethro Tull",0
+"2009-01","Judas Priest",0
+"2009-01","Manowar",0
+"2009-01","Metallica",0
+"2009-01","Negazione",0
+"2009-01","New Trolls",33
+"2009-01","Ñu",0
+"2009-01","Queen",53
+"2009-01","Scorpions",0
+"2009-01","Strana Officina",0
+"2009-01","Thin Lizzy",18
+"2009-01","Uriah Heep",0
+"2009-02","Ac/Dc",5
+"2009-02","Anton Maiden",5
+"2009-02","Black Sabbath",20
+"2009-02","Blind Guardian",74
+"2009-02","Blue Öyster Cult",0
+"2009-02","Cathedral",0
+"2009-02","Deep Purple",37
+"2009-02","Iron Maiden",10
+"2009-02","Jethro Tull",0
+"2009-02","Judas Priest",12
+"2009-02","Manowar",4
+"2009-02","Metallica",50
+"2009-02","Negazione",29
+"2009-02","New Trolls",21
+"2009-02","Ñu",13
+"2009-02","Queen",0
+"2009-02","Scorpions",41
+"2009-02","Strana Officina",45
+"2009-02","Thin Lizzy",0
+"2009-02","Uriah Heep",6
+"2009-03","Ac/Dc",19
+"2009-03","Anton Maiden",2
+"2009-03","Black Sabbath",0
+"2009-03","Blind Guardian",18
+"2009-03","Blue Öyster Cult",0
+"2009-03","Cathedral",15
+"2009-03","Deep Purple",18
+"2009-03","Iron Maiden",0
+"2009-03","Jethro Tull",0
+"2009-03","Judas Priest",17
+"2009-03","Manowar",0
+"2009-03","Metallica",21
+"2009-03","Negazione",26
+"2009-03","New Trolls",0
+"2009-03","Ñu",2
+"2009-03","Queen",5
+"2009-03","Scorpions",4
+"2009-03","Strana Officina",8
+"2009-03","Thin Lizzy",12
+"2009-03","Uriah Heep",0
+"2009-04","Ac/Dc",9
+"2009-04","Anton Maiden",3
+"2009-04","Black Sabbath",16
+"2009-04","Blind Guardian",19
+"2009-04","Blue Öyster Cult",0
+"2009-04","Cathedral",20
+"2009-04","Deep Purple",33
+"2009-04","Iron Maiden",5
+"2009-04","Jethro Tull",0
+"2009-04","Judas Priest",2
+"2009-04","Manowar",0
+"2009-04","Metallica",48
+"2009-04","Negazione",0
+"2009-04","New Trolls",9
+"2009-04","Ñu",10
+"2009-04","Queen",34
+"2009-04","Scorpions",33
+"2009-04","Strana Officina",24
+"2009-04","Thin Lizzy",0
+"2009-04","Uriah Heep",1
+"2009-05","Ac/Dc",8
+"2009-05","Anton Maiden",9
+"2009-05","Black Sabbath",4
+"2009-05","Blind Guardian",0
+"2009-05","Blue Öyster Cult",0
+"2009-05","Cathedral",1
+"2009-05","Deep Purple",0
+"2009-05","Iron Maiden",19
+"2009-05","Jethro Tull",0
+"2009-05","Judas Priest",1
+"2009-05","Manowar",16
+"2009-05","Metallica",11
+"2009-05","Negazione",0
+"2009-05","New Trolls",16
+"2009-05","Ñu",0
+"2009-05","Queen",0
+"2009-05","Scorpions",10
+"2009-05","Strana Officina",0
+"2009-05","Thin Lizzy",0
+"2009-05","Uriah Heep",0
+"2009-06","Ac/Dc",0
+"2009-06","Anton Maiden",0
+"2009-06","Black Sabbath",18
+"2009-06","Blind Guardian",0
+"2009-06","Blue Öyster Cult",0
+"2009-06","Cathedral",33
+"2009-06","Deep Purple",0
+"2009-06","Iron Maiden",0
+"2009-06","Jethro Tull",22
+"2009-06","Judas Priest",0
+"2009-06","Manowar",24
+"2009-06","Metallica",0
+"2009-06","Negazione",0
+"2009-06","New Trolls",0
+"2009-06","Ñu",10
+"2009-06","Queen",0
+"2009-06","Scorpions",2
+"2009-06","Strana Officina",0
+"2009-06","Thin Lizzy",0
+"2009-06","Uriah Heep",13

@@ -1,801 +1,801 @@
-month,artist,plays
-2006-01,Badly Drawn Boy,6
-2006-01,Coldplay,45
-2006-01,Damien Rice,16
-2006-01,David Gray,18
-2006-01,Doves,6
-2006-01,Duke Special,22
-2006-01,Ed Harcourt,15
-2006-01,I Am Kloot,8
-2006-01,Jeff Buckley,5
-2006-01,Leaves,2
-2006-01,Maxïmo Park,13
-2006-01,Paolo Nutini,0
-2006-01,R.E.M.,3
-2006-01,Robbie Williams,19
-2006-01,Ryan Adams,19
-2006-01,Sufjan Stevens,27
-2006-01,The Kooks,0
-2006-01,The Rolling Stones,1
-2006-01,The Strokes,23
-2006-01,U2,14
-2006-02,Badly Drawn Boy,0
-2006-02,Coldplay,0
-2006-02,Damien Rice,1
-2006-02,David Gray,0
-2006-02,Doves,0
-2006-02,Duke Special,0
-2006-02,Ed Harcourt,1
-2006-02,I Am Kloot,0
-2006-02,Jeff Buckley,0
-2006-02,Leaves,0
-2006-02,Maxïmo Park,0
-2006-02,Paolo Nutini,0
-2006-02,R.E.M.,0
-2006-02,Robbie Williams,0
-2006-02,Ryan Adams,0
-2006-02,Sufjan Stevens,0
-2006-02,The Kooks,0
-2006-02,The Rolling Stones,0
-2006-02,The Strokes,3
-2006-02,U2,0
-2006-03,Badly Drawn Boy,1
-2006-03,Coldplay,18
-2006-03,Damien Rice,14
-2006-03,David Gray,3
-2006-03,Doves,2
-2006-03,Duke Special,15
-2006-03,Ed Harcourt,13
-2006-03,I Am Kloot,2
-2006-03,Jeff Buckley,2
-2006-03,Leaves,0
-2006-03,Maxïmo Park,1
-2006-03,Paolo Nutini,0
-2006-03,R.E.M.,1
-2006-03,Robbie Williams,0
-2006-03,Ryan Adams,1
-2006-03,Sufjan Stevens,17
-2006-03,The Kooks,2
-2006-03,The Rolling Stones,0
-2006-03,The Strokes,12
-2006-03,U2,0
-2006-04,Badly Drawn Boy,6
-2006-04,Coldplay,7
-2006-04,Damien Rice,1
-2006-04,David Gray,4
-2006-04,Doves,7
-2006-04,Duke Special,7
-2006-04,Ed Harcourt,2
-2006-04,I Am Kloot,1
-2006-04,Jeff Buckley,1
-2006-04,Leaves,1
-2006-04,Maxïmo Park,2
-2006-04,Paolo Nutini,0
-2006-04,R.E.M.,0
-2006-04,Robbie Williams,7
-2006-04,Ryan Adams,1
-2006-04,Sufjan Stevens,16
-2006-04,The Kooks,31
-2006-04,The Rolling Stones,1
-2006-04,The Strokes,4
-2006-04,U2,8
-2006-05,Badly Drawn Boy,0
-2006-05,Coldplay,11
-2006-05,Damien Rice,0
-2006-05,David Gray,0
-2006-05,Doves,0
-2006-05,Duke Special,2
-2006-05,Ed Harcourt,13
-2006-05,I Am Kloot,0
-2006-05,Jeff Buckley,0
-2006-05,Leaves,0
-2006-05,Maxïmo Park,1
-2006-05,Paolo Nutini,0
-2006-05,R.E.M.,0
-2006-05,Robbie Williams,0
-2006-05,Ryan Adams,0
-2006-05,Sufjan Stevens,9
-2006-05,The Kooks,18
-2006-05,The Rolling Stones,0
-2006-05,The Strokes,0
-2006-05,U2,0
-2006-06,Badly Drawn Boy,0
-2006-06,Coldplay,7
-2006-06,Damien Rice,5
-2006-06,David Gray,2
-2006-06,Doves,3
-2006-06,Duke Special,3
-2006-06,Ed Harcourt,1
-2006-06,I Am Kloot,0
-2006-06,Jeff Buckley,1
-2006-06,Leaves,1
-2006-06,Maxïmo Park,1
-2006-06,Paolo Nutini,0
-2006-06,R.E.M.,2
-2006-06,Robbie Williams,0
-2006-06,Ryan Adams,1
-2006-06,Sufjan Stevens,7
-2006-06,The Kooks,8
-2006-06,The Rolling Stones,0
-2006-06,The Strokes,1
-2006-06,U2,3
-2006-07,Badly Drawn Boy,1
-2006-07,Coldplay,3
-2006-07,Damien Rice,2
-2006-07,David Gray,1
-2006-07,Doves,0
-2006-07,Duke Special,7
-2006-07,Ed Harcourt,3
-2006-07,I Am Kloot,1
-2006-07,Jeff Buckley,1
-2006-07,Leaves,2
-2006-07,Maxïmo Park,0
-2006-07,Paolo Nutini,0
-2006-07,R.E.M.,0
-2006-07,Robbie Williams,0
-2006-07,Ryan Adams,0
-2006-07,Sufjan Stevens,2
-2006-07,The Kooks,2
-2006-07,The Rolling Stones,3
-2006-07,The Strokes,2
-2006-07,U2,1
-2006-08,Badly Drawn Boy,0
-2006-08,Coldplay,3
-2006-08,Damien Rice,1
-2006-08,David Gray,0
-2006-08,Doves,0
-2006-08,Duke Special,2
-2006-08,Ed Harcourt,1
-2006-08,I Am Kloot,0
-2006-08,Jeff Buckley,1
-2006-08,Leaves,1
-2006-08,Maxïmo Park,1
-2006-08,Paolo Nutini,36
-2006-08,R.E.M.,0
-2006-08,Robbie Williams,0
-2006-08,Ryan Adams,12
-2006-08,Sufjan Stevens,21
-2006-08,The Kooks,0
-2006-08,The Rolling Stones,1
-2006-08,The Strokes,1
-2006-08,U2,0
-2006-09,Badly Drawn Boy,3
-2006-09,Coldplay,7
-2006-09,Damien Rice,1
-2006-09,David Gray,5
-2006-09,Doves,3
-2006-09,Duke Special,0
-2006-09,Ed Harcourt,0
-2006-09,I Am Kloot,4
-2006-09,Jeff Buckley,1
-2006-09,Leaves,0
-2006-09,Maxïmo Park,1
-2006-09,Paolo Nutini,13
-2006-09,R.E.M.,1
-2006-09,Robbie Williams,3
-2006-09,Ryan Adams,4
-2006-09,Sufjan Stevens,1
-2006-09,The Kooks,1
-2006-09,The Rolling Stones,1
-2006-09,The Strokes,1
-2006-09,U2,4
-2006-10,Badly Drawn Boy,1
-2006-10,Coldplay,4
-2006-10,Damien Rice,2
-2006-10,David Gray,0
-2006-10,Doves,1
-2006-10,Duke Special,61
-2006-10,Ed Harcourt,8
-2006-10,I Am Kloot,1
-2006-10,Jeff Buckley,2
-2006-10,Leaves,1
-2006-10,Maxïmo Park,0
-2006-10,Paolo Nutini,14
-2006-10,R.E.M.,1
-2006-10,Robbie Williams,5
-2006-10,Ryan Adams,4
-2006-10,Sufjan Stevens,3
-2006-10,The Kooks,13
-2006-10,The Rolling Stones,4
-2006-10,The Strokes,4
-2006-10,U2,0
-2006-11,Badly Drawn Boy,2
-2006-11,Coldplay,17
-2006-11,Damien Rice,17
-2006-11,David Gray,1
-2006-11,Doves,2
-2006-11,Duke Special,10
-2006-11,Ed Harcourt,10
-2006-11,I Am Kloot,13
-2006-11,Jeff Buckley,2
-2006-11,Leaves,1
-2006-11,Maxïmo Park,2
-2006-11,Paolo Nutini,3
-2006-11,R.E.M.,3
-2006-11,Robbie Williams,2
-2006-11,Ryan Adams,9
-2006-11,Sufjan Stevens,30
-2006-11,The Kooks,2
-2006-11,The Rolling Stones,4
-2006-11,The Strokes,4
-2006-11,U2,5
-2006-12,Badly Drawn Boy,2
-2006-12,Coldplay,3
-2006-12,Damien Rice,4
-2006-12,David Gray,0
-2006-12,Doves,3
-2006-12,Duke Special,21
-2006-12,Ed Harcourt,1
-2006-12,I Am Kloot,0
-2006-12,Jeff Buckley,1
-2006-12,Leaves,1
-2006-12,Maxïmo Park,1
-2006-12,Paolo Nutini,11
-2006-12,R.E.M.,1
-2006-12,Robbie Williams,1
-2006-12,Ryan Adams,2
-2006-12,Sufjan Stevens,14
-2006-12,The Kooks,1
-2006-12,The Rolling Stones,3
-2006-12,The Strokes,15
-2006-12,U2,1
-2007-01,Badly Drawn Boy,2
-2007-01,Coldplay,21
-2007-01,Damien Rice,16
-2007-01,David Gray,2
-2007-01,Doves,0
-2007-01,Duke Special,6
-2007-01,Ed Harcourt,7
-2007-01,I Am Kloot,1
-2007-01,Jeff Buckley,1
-2007-01,Leaves,0
-2007-01,Maxïmo Park,1
-2007-01,Paolo Nutini,3
-2007-01,R.E.M.,1
-2007-01,Robbie Williams,5
-2007-01,Ryan Adams,2
-2007-01,Sufjan Stevens,7
-2007-01,The Kooks,17
-2007-01,The Rolling Stones,0
-2007-01,The Strokes,1
-2007-01,U2,5
-2007-02,Badly Drawn Boy,0
-2007-02,Coldplay,0
-2007-02,Damien Rice,10
-2007-02,David Gray,0
-2007-02,Doves,0
-2007-02,Duke Special,0
-2007-02,Ed Harcourt,1
-2007-02,I Am Kloot,1
-2007-02,Jeff Buckley,7
-2007-02,Leaves,0
-2007-02,Maxïmo Park,14
-2007-02,Paolo Nutini,0
-2007-02,R.E.M.,0
-2007-02,Robbie Williams,0
-2007-02,Ryan Adams,2
-2007-02,Sufjan Stevens,1
-2007-02,The Kooks,0
-2007-02,The Rolling Stones,0
-2007-02,The Strokes,0
-2007-02,U2,13
-2007-03,Badly Drawn Boy,1
-2007-03,Coldplay,1
-2007-03,Damien Rice,12
-2007-03,David Gray,0
-2007-03,Doves,0
-2007-03,Duke Special,43
-2007-03,Ed Harcourt,1
-2007-03,I Am Kloot,1
-2007-03,Jeff Buckley,2
-2007-03,Leaves,0
-2007-03,Maxïmo Park,0
-2007-03,Paolo Nutini,11
-2007-03,R.E.M.,0
-2007-03,Robbie Williams,0
-2007-03,Ryan Adams,4
-2007-03,Sufjan Stevens,1
-2007-03,The Kooks,1
-2007-03,The Rolling Stones,1
-2007-03,The Strokes,0
-2007-03,U2,2
-2007-04,Badly Drawn Boy,0
-2007-04,Coldplay,0
-2007-04,Damien Rice,0
-2007-04,David Gray,0
-2007-04,Doves,0
-2007-04,Duke Special,1
-2007-04,Ed Harcourt,0
-2007-04,I Am Kloot,0
-2007-04,Jeff Buckley,0
-2007-04,Leaves,0
-2007-04,Maxïmo Park,0
-2007-04,Paolo Nutini,0
-2007-04,R.E.M.,0
-2007-04,Robbie Williams,0
-2007-04,Ryan Adams,0
-2007-04,Sufjan Stevens,0
-2007-04,The Kooks,0
-2007-04,The Rolling Stones,0
-2007-04,The Strokes,0
-2007-04,U2,0
-2007-05,Badly Drawn Boy,0
-2007-05,Coldplay,0
-2007-05,Damien Rice,0
-2007-05,David Gray,0
-2007-05,Doves,0
-2007-05,Duke Special,3
-2007-05,Ed Harcourt,0
-2007-05,I Am Kloot,0
-2007-05,Jeff Buckley,0
-2007-05,Leaves,0
-2007-05,Maxïmo Park,0
-2007-05,Paolo Nutini,0
-2007-05,R.E.M.,0
-2007-05,Robbie Williams,0
-2007-05,Ryan Adams,0
-2007-05,Sufjan Stevens,1
-2007-05,The Kooks,0
-2007-05,The Rolling Stones,0
-2007-05,The Strokes,0
-2007-05,U2,0
-2007-06,Badly Drawn Boy,0
-2007-06,Coldplay,1
-2007-06,Damien Rice,1
-2007-06,David Gray,0
-2007-06,Doves,1
-2007-06,Duke Special,5
-2007-06,Ed Harcourt,0
-2007-06,I Am Kloot,1
-2007-06,Jeff Buckley,0
-2007-06,Leaves,3
-2007-06,Maxïmo Park,0
-2007-06,Paolo Nutini,2
-2007-06,R.E.M.,1
-2007-06,Robbie Williams,1
-2007-06,Ryan Adams,2
-2007-06,Sufjan Stevens,6
-2007-06,The Kooks,0
-2007-06,The Rolling Stones,1
-2007-06,The Strokes,2
-2007-06,U2,2
-2007-07,Badly Drawn Boy,0
-2007-07,Coldplay,0
-2007-07,Damien Rice,3
-2007-07,David Gray,0
-2007-07,Doves,0
-2007-07,Duke Special,1
-2007-07,Ed Harcourt,1
-2007-07,I Am Kloot,0
-2007-07,Jeff Buckley,1
-2007-07,Leaves,0
-2007-07,Maxïmo Park,1
-2007-07,Paolo Nutini,0
-2007-07,R.E.M.,0
-2007-07,Robbie Williams,1
-2007-07,Ryan Adams,1
-2007-07,Sufjan Stevens,1
-2007-07,The Kooks,0
-2007-07,The Rolling Stones,1
-2007-07,The Strokes,1
-2007-07,U2,0
-2007-08,Badly Drawn Boy,0
-2007-08,Coldplay,2
-2007-08,Damien Rice,11
-2007-08,David Gray,0
-2007-08,Doves,12
-2007-08,Duke Special,2
-2007-08,Ed Harcourt,0
-2007-08,I Am Kloot,0
-2007-08,Jeff Buckley,0
-2007-08,Leaves,0
-2007-08,Maxïmo Park,4
-2007-08,Paolo Nutini,12
-2007-08,R.E.M.,1
-2007-08,Robbie Williams,1
-2007-08,Ryan Adams,0
-2007-08,Sufjan Stevens,2
-2007-08,The Kooks,0
-2007-08,The Rolling Stones,0
-2007-08,The Strokes,23
-2007-08,U2,2
-2007-09,Badly Drawn Boy,1
-2007-09,Coldplay,1
-2007-09,Damien Rice,0
-2007-09,David Gray,0
-2007-09,Doves,0
-2007-09,Duke Special,1
-2007-09,Ed Harcourt,0
-2007-09,I Am Kloot,0
-2007-09,Jeff Buckley,0
-2007-09,Leaves,0
-2007-09,Maxïmo Park,2
-2007-09,Paolo Nutini,3
-2007-09,R.E.M.,1
-2007-09,Robbie Williams,2
-2007-09,Ryan Adams,0
-2007-09,Sufjan Stevens,0
-2007-09,The Kooks,2
-2007-09,The Rolling Stones,1
-2007-09,The Strokes,0
-2007-09,U2,2
-2007-10,Badly Drawn Boy,2
-2007-10,Coldplay,12
-2007-10,Damien Rice,10
-2007-10,David Gray,3
-2007-10,Doves,0
-2007-10,Duke Special,21
-2007-10,Ed Harcourt,3
-2007-10,I Am Kloot,2
-2007-10,Jeff Buckley,2
-2007-10,Leaves,1
-2007-10,Maxïmo Park,3
-2007-10,Paolo Nutini,1
-2007-10,R.E.M.,2
-2007-10,Robbie Williams,6
-2007-10,Ryan Adams,4
-2007-10,Sufjan Stevens,1
-2007-10,The Kooks,4
-2007-10,The Rolling Stones,1
-2007-10,The Strokes,1
-2007-10,U2,9
-2007-11,Badly Drawn Boy,2
-2007-11,Coldplay,18
-2007-11,Damien Rice,2
-2007-11,David Gray,3
-2007-11,Doves,3
-2007-11,Duke Special,7
-2007-11,Ed Harcourt,1
-2007-11,I Am Kloot,2
-2007-11,Jeff Buckley,1
-2007-11,Leaves,0
-2007-11,Maxïmo Park,1
-2007-11,Paolo Nutini,2
-2007-11,R.E.M.,2
-2007-11,Robbie Williams,9
-2007-11,Ryan Adams,2
-2007-11,Sufjan Stevens,2
-2007-11,The Kooks,1
-2007-11,The Rolling Stones,4
-2007-11,The Strokes,1
-2007-11,U2,8
-2007-12,Badly Drawn Boy,2
-2007-12,Coldplay,5
-2007-12,Damien Rice,2
-2007-12,David Gray,2
-2007-12,Doves,2
-2007-12,Duke Special,3
-2007-12,Ed Harcourt,1
-2007-12,I Am Kloot,3
-2007-12,Jeff Buckley,1
-2007-12,Leaves,0
-2007-12,Maxïmo Park,2
-2007-12,Paolo Nutini,2
-2007-12,R.E.M.,2
-2007-12,Robbie Williams,5
-2007-12,Ryan Adams,0
-2007-12,Sufjan Stevens,3
-2007-12,The Kooks,2
-2007-12,The Rolling Stones,0
-2007-12,The Strokes,2
-2007-12,U2,8
-2008-01,Badly Drawn Boy,1
-2008-01,Coldplay,1
-2008-01,Damien Rice,1
-2008-01,David Gray,3
-2008-01,Doves,1
-2008-01,Duke Special,3
-2008-01,Ed Harcourt,2
-2008-01,I Am Kloot,3
-2008-01,Jeff Buckley,1
-2008-01,Leaves,1
-2008-01,Maxïmo Park,1
-2008-01,Paolo Nutini,0
-2008-01,R.E.M.,0
-2008-01,Robbie Williams,1
-2008-01,Ryan Adams,2
-2008-01,Sufjan Stevens,3
-2008-01,The Kooks,2
-2008-01,The Rolling Stones,3
-2008-01,The Strokes,1
-2008-01,U2,3
-2008-02,Badly Drawn Boy,0
-2008-02,Coldplay,1
-2008-02,Damien Rice,1
-2008-02,David Gray,0
-2008-02,Doves,0
-2008-02,Duke Special,0
-2008-02,Ed Harcourt,0
-2008-02,I Am Kloot,1
-2008-02,Jeff Buckley,0
-2008-02,Leaves,1
-2008-02,Maxïmo Park,2
-2008-02,Paolo Nutini,0
-2008-02,R.E.M.,0
-2008-02,Robbie Williams,4
-2008-02,Ryan Adams,0
-2008-02,Sufjan Stevens,0
-2008-02,The Kooks,0
-2008-02,The Rolling Stones,3
-2008-02,The Strokes,0
-2008-02,U2,0
-2008-03,Badly Drawn Boy,0
-2008-03,Coldplay,8
-2008-03,Damien Rice,2
-2008-03,David Gray,0
-2008-03,Doves,3
-2008-03,Duke Special,12
-2008-03,Ed Harcourt,3
-2008-03,I Am Kloot,1
-2008-03,Jeff Buckley,0
-2008-03,Leaves,0
-2008-03,Maxïmo Park,1
-2008-03,Paolo Nutini,0
-2008-03,R.E.M.,2
-2008-03,Robbie Williams,12
-2008-03,Ryan Adams,1
-2008-03,Sufjan Stevens,0
-2008-03,The Kooks,0
-2008-03,The Rolling Stones,1
-2008-03,The Strokes,0
-2008-03,U2,4
-2008-04,Badly Drawn Boy,0
-2008-04,Coldplay,11
-2008-04,Damien Rice,0
-2008-04,David Gray,2
-2008-04,Doves,0
-2008-04,Duke Special,0
-2008-04,Ed Harcourt,0
-2008-04,I Am Kloot,1
-2008-04,Jeff Buckley,0
-2008-04,Leaves,1
-2008-04,Maxïmo Park,0
-2008-04,Paolo Nutini,1
-2008-04,R.E.M.,0
-2008-04,Robbie Williams,3
-2008-04,Ryan Adams,0
-2008-04,Sufjan Stevens,1
-2008-04,The Kooks,0
-2008-04,The Rolling Stones,0
-2008-04,The Strokes,0
-2008-04,U2,0
-2008-05,Badly Drawn Boy,0
-2008-05,Coldplay,57
-2008-05,Damien Rice,0
-2008-05,David Gray,1
-2008-05,Doves,1
-2008-05,Duke Special,0
-2008-05,Ed Harcourt,0
-2008-05,I Am Kloot,0
-2008-05,Jeff Buckley,0
-2008-05,Leaves,0
-2008-05,Maxïmo Park,0
-2008-05,Paolo Nutini,0
-2008-05,R.E.M.,0
-2008-05,Robbie Williams,0
-2008-05,Ryan Adams,0
-2008-05,Sufjan Stevens,1
-2008-05,The Kooks,0
-2008-05,The Rolling Stones,1
-2008-05,The Strokes,0
-2008-05,U2,2
-2008-06,Badly Drawn Boy,0
-2008-06,Coldplay,139
-2008-06,Damien Rice,12
-2008-06,David Gray,10
-2008-06,Doves,0
-2008-06,Duke Special,20
-2008-06,Ed Harcourt,0
-2008-06,I Am Kloot,0
-2008-06,Jeff Buckley,10
-2008-06,Leaves,0
-2008-06,Maxïmo Park,0
-2008-06,Paolo Nutini,4
-2008-06,R.E.M.,0
-2008-06,Robbie Williams,0
-2008-06,Ryan Adams,0
-2008-06,Sufjan Stevens,20
-2008-06,The Kooks,0
-2008-06,The Rolling Stones,3
-2008-06,The Strokes,0
-2008-06,U2,0
-2008-07,Badly Drawn Boy,1
-2008-07,Coldplay,65
-2008-07,Damien Rice,9
-2008-07,David Gray,4
-2008-07,Doves,2
-2008-07,Duke Special,17
-2008-07,Ed Harcourt,2
-2008-07,I Am Kloot,1
-2008-07,Jeff Buckley,1
-2008-07,Leaves,1
-2008-07,Maxïmo Park,3
-2008-07,Paolo Nutini,2
-2008-07,R.E.M.,1
-2008-07,Robbie Williams,5
-2008-07,Ryan Adams,15
-2008-07,Sufjan Stevens,2
-2008-07,The Kooks,2
-2008-07,The Rolling Stones,1
-2008-07,The Strokes,1
-2008-07,U2,8
-2008-08,Badly Drawn Boy,1
-2008-08,Coldplay,35
-2008-08,Damien Rice,0
-2008-08,David Gray,1
-2008-08,Doves,2
-2008-08,Duke Special,6
-2008-08,Ed Harcourt,0
-2008-08,I Am Kloot,0
-2008-08,Jeff Buckley,0
-2008-08,Leaves,6
-2008-08,Maxïmo Park,2
-2008-08,Paolo Nutini,2
-2008-08,R.E.M.,1
-2008-08,Robbie Williams,6
-2008-08,Ryan Adams,0
-2008-08,Sufjan Stevens,3
-2008-08,The Kooks,2
-2008-08,The Rolling Stones,1
-2008-08,The Strokes,0
-2008-08,U2,7
-2008-09,Badly Drawn Boy,1
-2008-09,Coldplay,34
-2008-09,Damien Rice,1
-2008-09,David Gray,4
-2008-09,Doves,3
-2008-09,Duke Special,9
-2008-09,Ed Harcourt,1
-2008-09,I Am Kloot,1
-2008-09,Jeff Buckley,2
-2008-09,Leaves,7
-2008-09,Maxïmo Park,2
-2008-09,Paolo Nutini,5
-2008-09,R.E.M.,2
-2008-09,Robbie Williams,3
-2008-09,Ryan Adams,5
-2008-09,Sufjan Stevens,3
-2008-09,The Kooks,8
-2008-09,The Rolling Stones,2
-2008-09,The Strokes,1
-2008-09,U2,5
-2008-10,Badly Drawn Boy,0
-2008-10,Coldplay,43
-2008-10,Damien Rice,0
-2008-10,David Gray,1
-2008-10,Doves,4
-2008-10,Duke Special,105
-2008-10,Ed Harcourt,3
-2008-10,I Am Kloot,1
-2008-10,Jeff Buckley,0
-2008-10,Leaves,3
-2008-10,Maxïmo Park,1
-2008-10,Paolo Nutini,4
-2008-10,R.E.M.,0
-2008-10,Robbie Williams,1
-2008-10,Ryan Adams,0
-2008-10,Sufjan Stevens,0
-2008-10,The Kooks,1
-2008-10,The Rolling Stones,0
-2008-10,The Strokes,3
-2008-10,U2,0
-2008-11,Badly Drawn Boy,0
-2008-11,Coldplay,49
-2008-11,Damien Rice,0
-2008-11,David Gray,0
-2008-11,Doves,1
-2008-11,Duke Special,25
-2008-11,Ed Harcourt,11
-2008-11,I Am Kloot,0
-2008-11,Jeff Buckley,0
-2008-11,Leaves,1
-2008-11,Maxïmo Park,0
-2008-11,Paolo Nutini,1
-2008-11,R.E.M.,0
-2008-11,Robbie Williams,0
-2008-11,Ryan Adams,0
-2008-11,Sufjan Stevens,0
-2008-11,The Kooks,1
-2008-11,The Rolling Stones,0
-2008-11,The Strokes,0
-2008-11,U2,0
-2008-12,Badly Drawn Boy,0
-2008-12,Coldplay,25
-2008-12,Damien Rice,0
-2008-12,David Gray,13
-2008-12,Doves,0
-2008-12,Duke Special,0
-2008-12,Ed Harcourt,0
-2008-12,I Am Kloot,1
-2008-12,Jeff Buckley,0
-2008-12,Leaves,1
-2008-12,Maxïmo Park,0
-2008-12,Paolo Nutini,0
-2008-12,R.E.M.,0
-2008-12,Robbie Williams,0
-2008-12,Ryan Adams,0
-2008-12,Sufjan Stevens,0
-2008-12,The Kooks,0
-2008-12,The Rolling Stones,0
-2008-12,The Strokes,0
-2008-12,U2,0
-2009-01,Badly Drawn Boy,0
-2009-01,Coldplay,38
-2009-01,Damien Rice,12
-2009-01,David Gray,0
-2009-01,Doves,0
-2009-01,Duke Special,30
-2009-01,Ed Harcourt,0
-2009-01,I Am Kloot,0
-2009-01,Jeff Buckley,10
-2009-01,Leaves,1
-2009-01,Maxïmo Park,0
-2009-01,Paolo Nutini,0
-2009-01,R.E.M.,2
-2009-01,Robbie Williams,0
-2009-01,Ryan Adams,0
-2009-01,Sufjan Stevens,2
-2009-01,The Kooks,0
-2009-01,The Rolling Stones,0
-2009-01,The Strokes,1
-2009-01,U2,23
-2009-02,Badly Drawn Boy,1
-2009-02,Coldplay,17
-2009-02,Damien Rice,1
-2009-02,David Gray,0
-2009-02,Doves,7
-2009-02,Duke Special,1
-2009-02,Ed Harcourt,1
-2009-02,I Am Kloot,2
-2009-02,Jeff Buckley,0
-2009-02,Leaves,1
-2009-02,Maxïmo Park,4
-2009-02,Paolo Nutini,2
-2009-02,R.E.M.,1
-2009-02,Robbie Williams,4
-2009-02,Ryan Adams,3
-2009-02,Sufjan Stevens,4
-2009-02,The Kooks,0
-2009-02,The Rolling Stones,1
-2009-02,The Strokes,5
-2009-02,U2,20
-2009-03,Badly Drawn Boy,30
-2009-03,Coldplay,15
-2009-03,Damien Rice,10
-2009-03,David Gray,10
-2009-03,Doves,4
-2009-03,Duke Special,90
-2009-03,Ed Harcourt,1
-2009-03,I Am Kloot,5
-2009-03,Jeff Buckley,2
-2009-03,Leaves,1
-2009-03,Maxïmo Park,3
-2009-03,Paolo Nutini,2
-2009-03,R.E.M.,7
-2009-03,Robbie Williams,6
-2009-03,Ryan Adams,19
-2009-03,Sufjan Stevens,3
-2009-03,The Kooks,0
-2009-03,The Rolling Stones,1
-2009-03,The Strokes,0
-2009-03,U2,70
-2009-04,Badly Drawn Boy,3
-2009-04,Coldplay,31
-2009-04,Damien Rice,0
-2009-04,David Gray,3
-2009-04,Doves,0
-2009-04,Duke Special,24
-2009-04,Ed Harcourt,1
-2009-04,I Am Kloot,2
-2009-04,Jeff Buckley,0
-2009-04,Leaves,0
-2009-04,Maxïmo Park,1
-2009-04,Paolo Nutini,0
-2009-04,R.E.M.,2
-2009-04,Robbie Williams,5
-2009-04,Ryan Adams,2
-2009-04,Sufjan Stevens,2
-2009-04,The Kooks,2
-2009-04,The Rolling Stones,0
-2009-04,The Strokes,0
-2009-04,U2,8
+"month","artist","plays"
+"2006-01","Badly Drawn Boy",6
+"2006-01","Coldplay",45
+"2006-01","Damien Rice",16
+"2006-01","David Gray",18
+"2006-01","Doves",6
+"2006-01","Duke Special",22
+"2006-01","Ed Harcourt",15
+"2006-01","I Am Kloot",8
+"2006-01","Jeff Buckley",5
+"2006-01","Leaves",2
+"2006-01","Maxïmo Park",13
+"2006-01","Paolo Nutini",0
+"2006-01","R.E.M.",3
+"2006-01","Robbie Williams",19
+"2006-01","Ryan Adams",19
+"2006-01","Sufjan Stevens",27
+"2006-01","The Kooks",0
+"2006-01","The Rolling Stones",1
+"2006-01","The Strokes",23
+"2006-01","U2",14
+"2006-02","Badly Drawn Boy",0
+"2006-02","Coldplay",0
+"2006-02","Damien Rice",1
+"2006-02","David Gray",0
+"2006-02","Doves",0
+"2006-02","Duke Special",0
+"2006-02","Ed Harcourt",1
+"2006-02","I Am Kloot",0
+"2006-02","Jeff Buckley",0
+"2006-02","Leaves",0
+"2006-02","Maxïmo Park",0
+"2006-02","Paolo Nutini",0
+"2006-02","R.E.M.",0
+"2006-02","Robbie Williams",0
+"2006-02","Ryan Adams",0
+"2006-02","Sufjan Stevens",0
+"2006-02","The Kooks",0
+"2006-02","The Rolling Stones",0
+"2006-02","The Strokes",3
+"2006-02","U2",0
+"2006-03","Badly Drawn Boy",1
+"2006-03","Coldplay",18
+"2006-03","Damien Rice",14
+"2006-03","David Gray",3
+"2006-03","Doves",2
+"2006-03","Duke Special",15
+"2006-03","Ed Harcourt",13
+"2006-03","I Am Kloot",2
+"2006-03","Jeff Buckley",2
+"2006-03","Leaves",0
+"2006-03","Maxïmo Park",1
+"2006-03","Paolo Nutini",0
+"2006-03","R.E.M.",1
+"2006-03","Robbie Williams",0
+"2006-03","Ryan Adams",1
+"2006-03","Sufjan Stevens",17
+"2006-03","The Kooks",2
+"2006-03","The Rolling Stones",0
+"2006-03","The Strokes",12
+"2006-03","U2",0
+"2006-04","Badly Drawn Boy",6
+"2006-04","Coldplay",7
+"2006-04","Damien Rice",1
+"2006-04","David Gray",4
+"2006-04","Doves",7
+"2006-04","Duke Special",7
+"2006-04","Ed Harcourt",2
+"2006-04","I Am Kloot",1
+"2006-04","Jeff Buckley",1
+"2006-04","Leaves",1
+"2006-04","Maxïmo Park",2
+"2006-04","Paolo Nutini",0
+"2006-04","R.E.M.",0
+"2006-04","Robbie Williams",7
+"2006-04","Ryan Adams",1
+"2006-04","Sufjan Stevens",16
+"2006-04","The Kooks",31
+"2006-04","The Rolling Stones",1
+"2006-04","The Strokes",4
+"2006-04","U2",8
+"2006-05","Badly Drawn Boy",0
+"2006-05","Coldplay",11
+"2006-05","Damien Rice",0
+"2006-05","David Gray",0
+"2006-05","Doves",0
+"2006-05","Duke Special",2
+"2006-05","Ed Harcourt",13
+"2006-05","I Am Kloot",0
+"2006-05","Jeff Buckley",0
+"2006-05","Leaves",0
+"2006-05","Maxïmo Park",1
+"2006-05","Paolo Nutini",0
+"2006-05","R.E.M.",0
+"2006-05","Robbie Williams",0
+"2006-05","Ryan Adams",0
+"2006-05","Sufjan Stevens",9
+"2006-05","The Kooks",18
+"2006-05","The Rolling Stones",0
+"2006-05","The Strokes",0
+"2006-05","U2",0
+"2006-06","Badly Drawn Boy",0
+"2006-06","Coldplay",7
+"2006-06","Damien Rice",5
+"2006-06","David Gray",2
+"2006-06","Doves",3
+"2006-06","Duke Special",3
+"2006-06","Ed Harcourt",1
+"2006-06","I Am Kloot",0
+"2006-06","Jeff Buckley",1
+"2006-06","Leaves",1
+"2006-06","Maxïmo Park",1
+"2006-06","Paolo Nutini",0
+"2006-06","R.E.M.",2
+"2006-06","Robbie Williams",0
+"2006-06","Ryan Adams",1
+"2006-06","Sufjan Stevens",7
+"2006-06","The Kooks",8
+"2006-06","The Rolling Stones",0
+"2006-06","The Strokes",1
+"2006-06","U2",3
+"2006-07","Badly Drawn Boy",1
+"2006-07","Coldplay",3
+"2006-07","Damien Rice",2
+"2006-07","David Gray",1
+"2006-07","Doves",0
+"2006-07","Duke Special",7
+"2006-07","Ed Harcourt",3
+"2006-07","I Am Kloot",1
+"2006-07","Jeff Buckley",1
+"2006-07","Leaves",2
+"2006-07","Maxïmo Park",0
+"2006-07","Paolo Nutini",0
+"2006-07","R.E.M.",0
+"2006-07","Robbie Williams",0
+"2006-07","Ryan Adams",0
+"2006-07","Sufjan Stevens",2
+"2006-07","The Kooks",2
+"2006-07","The Rolling Stones",3
+"2006-07","The Strokes",2
+"2006-07","U2",1
+"2006-08","Badly Drawn Boy",0
+"2006-08","Coldplay",3
+"2006-08","Damien Rice",1
+"2006-08","David Gray",0
+"2006-08","Doves",0
+"2006-08","Duke Special",2
+"2006-08","Ed Harcourt",1
+"2006-08","I Am Kloot",0
+"2006-08","Jeff Buckley",1
+"2006-08","Leaves",1
+"2006-08","Maxïmo Park",1
+"2006-08","Paolo Nutini",36
+"2006-08","R.E.M.",0
+"2006-08","Robbie Williams",0
+"2006-08","Ryan Adams",12
+"2006-08","Sufjan Stevens",21
+"2006-08","The Kooks",0
+"2006-08","The Rolling Stones",1
+"2006-08","The Strokes",1
+"2006-08","U2",0
+"2006-09","Badly Drawn Boy",3
+"2006-09","Coldplay",7
+"2006-09","Damien Rice",1
+"2006-09","David Gray",5
+"2006-09","Doves",3
+"2006-09","Duke Special",0
+"2006-09","Ed Harcourt",0
+"2006-09","I Am Kloot",4
+"2006-09","Jeff Buckley",1
+"2006-09","Leaves",0
+"2006-09","Maxïmo Park",1
+"2006-09","Paolo Nutini",13
+"2006-09","R.E.M.",1
+"2006-09","Robbie Williams",3
+"2006-09","Ryan Adams",4
+"2006-09","Sufjan Stevens",1
+"2006-09","The Kooks",1
+"2006-09","The Rolling Stones",1
+"2006-09","The Strokes",1
+"2006-09","U2",4
+"2006-10","Badly Drawn Boy",1
+"2006-10","Coldplay",4
+"2006-10","Damien Rice",2
+"2006-10","David Gray",0
+"2006-10","Doves",1
+"2006-10","Duke Special",61
+"2006-10","Ed Harcourt",8
+"2006-10","I Am Kloot",1
+"2006-10","Jeff Buckley",2
+"2006-10","Leaves",1
+"2006-10","Maxïmo Park",0
+"2006-10","Paolo Nutini",14
+"2006-10","R.E.M.",1
+"2006-10","Robbie Williams",5
+"2006-10","Ryan Adams",4
+"2006-10","Sufjan Stevens",3
+"2006-10","The Kooks",13
+"2006-10","The Rolling Stones",4
+"2006-10","The Strokes",4
+"2006-10","U2",0
+"2006-11","Badly Drawn Boy",2
+"2006-11","Coldplay",17
+"2006-11","Damien Rice",17
+"2006-11","David Gray",1
+"2006-11","Doves",2
+"2006-11","Duke Special",10
+"2006-11","Ed Harcourt",10
+"2006-11","I Am Kloot",13
+"2006-11","Jeff Buckley",2
+"2006-11","Leaves",1
+"2006-11","Maxïmo Park",2
+"2006-11","Paolo Nutini",3
+"2006-11","R.E.M.",3
+"2006-11","Robbie Williams",2
+"2006-11","Ryan Adams",9
+"2006-11","Sufjan Stevens",30
+"2006-11","The Kooks",2
+"2006-11","The Rolling Stones",4
+"2006-11","The Strokes",4
+"2006-11","U2",5
+"2006-12","Badly Drawn Boy",2
+"2006-12","Coldplay",3
+"2006-12","Damien Rice",4
+"2006-12","David Gray",0
+"2006-12","Doves",3
+"2006-12","Duke Special",21
+"2006-12","Ed Harcourt",1
+"2006-12","I Am Kloot",0
+"2006-12","Jeff Buckley",1
+"2006-12","Leaves",1
+"2006-12","Maxïmo Park",1
+"2006-12","Paolo Nutini",11
+"2006-12","R.E.M.",1
+"2006-12","Robbie Williams",1
+"2006-12","Ryan Adams",2
+"2006-12","Sufjan Stevens",14
+"2006-12","The Kooks",1
+"2006-12","The Rolling Stones",3
+"2006-12","The Strokes",15
+"2006-12","U2",1
+"2007-01","Badly Drawn Boy",2
+"2007-01","Coldplay",21
+"2007-01","Damien Rice",16
+"2007-01","David Gray",2
+"2007-01","Doves",0
+"2007-01","Duke Special",6
+"2007-01","Ed Harcourt",7
+"2007-01","I Am Kloot",1
+"2007-01","Jeff Buckley",1
+"2007-01","Leaves",0
+"2007-01","Maxïmo Park",1
+"2007-01","Paolo Nutini",3
+"2007-01","R.E.M.",1
+"2007-01","Robbie Williams",5
+"2007-01","Ryan Adams",2
+"2007-01","Sufjan Stevens",7
+"2007-01","The Kooks",17
+"2007-01","The Rolling Stones",0
+"2007-01","The Strokes",1
+"2007-01","U2",5
+"2007-02","Badly Drawn Boy",0
+"2007-02","Coldplay",0
+"2007-02","Damien Rice",10
+"2007-02","David Gray",0
+"2007-02","Doves",0
+"2007-02","Duke Special",0
+"2007-02","Ed Harcourt",1
+"2007-02","I Am Kloot",1
+"2007-02","Jeff Buckley",7
+"2007-02","Leaves",0
+"2007-02","Maxïmo Park",14
+"2007-02","Paolo Nutini",0
+"2007-02","R.E.M.",0
+"2007-02","Robbie Williams",0
+"2007-02","Ryan Adams",2
+"2007-02","Sufjan Stevens",1
+"2007-02","The Kooks",0
+"2007-02","The Rolling Stones",0
+"2007-02","The Strokes",0
+"2007-02","U2",13
+"2007-03","Badly Drawn Boy",1
+"2007-03","Coldplay",1
+"2007-03","Damien Rice",12
+"2007-03","David Gray",0
+"2007-03","Doves",0
+"2007-03","Duke Special",43
+"2007-03","Ed Harcourt",1
+"2007-03","I Am Kloot",1
+"2007-03","Jeff Buckley",2
+"2007-03","Leaves",0
+"2007-03","Maxïmo Park",0
+"2007-03","Paolo Nutini",11
+"2007-03","R.E.M.",0
+"2007-03","Robbie Williams",0
+"2007-03","Ryan Adams",4
+"2007-03","Sufjan Stevens",1
+"2007-03","The Kooks",1
+"2007-03","The Rolling Stones",1
+"2007-03","The Strokes",0
+"2007-03","U2",2
+"2007-04","Badly Drawn Boy",0
+"2007-04","Coldplay",0
+"2007-04","Damien Rice",0
+"2007-04","David Gray",0
+"2007-04","Doves",0
+"2007-04","Duke Special",1
+"2007-04","Ed Harcourt",0
+"2007-04","I Am Kloot",0
+"2007-04","Jeff Buckley",0
+"2007-04","Leaves",0
+"2007-04","Maxïmo Park",0
+"2007-04","Paolo Nutini",0
+"2007-04","R.E.M.",0
+"2007-04","Robbie Williams",0
+"2007-04","Ryan Adams",0
+"2007-04","Sufjan Stevens",0
+"2007-04","The Kooks",0
+"2007-04","The Rolling Stones",0
+"2007-04","The Strokes",0
+"2007-04","U2",0
+"2007-05","Badly Drawn Boy",0
+"2007-05","Coldplay",0
+"2007-05","Damien Rice",0
+"2007-05","David Gray",0
+"2007-05","Doves",0
+"2007-05","Duke Special",3
+"2007-05","Ed Harcourt",0
+"2007-05","I Am Kloot",0
+"2007-05","Jeff Buckley",0
+"2007-05","Leaves",0
+"2007-05","Maxïmo Park",0
+"2007-05","Paolo Nutini",0
+"2007-05","R.E.M.",0
+"2007-05","Robbie Williams",0
+"2007-05","Ryan Adams",0
+"2007-05","Sufjan Stevens",1
+"2007-05","The Kooks",0
+"2007-05","The Rolling Stones",0
+"2007-05","The Strokes",0
+"2007-05","U2",0
+"2007-06","Badly Drawn Boy",0
+"2007-06","Coldplay",1
+"2007-06","Damien Rice",1
+"2007-06","David Gray",0
+"2007-06","Doves",1
+"2007-06","Duke Special",5
+"2007-06","Ed Harcourt",0
+"2007-06","I Am Kloot",1
+"2007-06","Jeff Buckley",0
+"2007-06","Leaves",3
+"2007-06","Maxïmo Park",0
+"2007-06","Paolo Nutini",2
+"2007-06","R.E.M.",1
+"2007-06","Robbie Williams",1
+"2007-06","Ryan Adams",2
+"2007-06","Sufjan Stevens",6
+"2007-06","The Kooks",0
+"2007-06","The Rolling Stones",1
+"2007-06","The Strokes",2
+"2007-06","U2",2
+"2007-07","Badly Drawn Boy",0
+"2007-07","Coldplay",0
+"2007-07","Damien Rice",3
+"2007-07","David Gray",0
+"2007-07","Doves",0
+"2007-07","Duke Special",1
+"2007-07","Ed Harcourt",1
+"2007-07","I Am Kloot",0
+"2007-07","Jeff Buckley",1
+"2007-07","Leaves",0
+"2007-07","Maxïmo Park",1
+"2007-07","Paolo Nutini",0
+"2007-07","R.E.M.",0
+"2007-07","Robbie Williams",1
+"2007-07","Ryan Adams",1
+"2007-07","Sufjan Stevens",1
+"2007-07","The Kooks",0
+"2007-07","The Rolling Stones",1
+"2007-07","The Strokes",1
+"2007-07","U2",0
+"2007-08","Badly Drawn Boy",0
+"2007-08","Coldplay",2
+"2007-08","Damien Rice",11
+"2007-08","David Gray",0
+"2007-08","Doves",12
+"2007-08","Duke Special",2
+"2007-08","Ed Harcourt",0
+"2007-08","I Am Kloot",0
+"2007-08","Jeff Buckley",0
+"2007-08","Leaves",0
+"2007-08","Maxïmo Park",4
+"2007-08","Paolo Nutini",12
+"2007-08","R.E.M.",1
+"2007-08","Robbie Williams",1
+"2007-08","Ryan Adams",0
+"2007-08","Sufjan Stevens",2
+"2007-08","The Kooks",0
+"2007-08","The Rolling Stones",0
+"2007-08","The Strokes",23
+"2007-08","U2",2
+"2007-09","Badly Drawn Boy",1
+"2007-09","Coldplay",1
+"2007-09","Damien Rice",0
+"2007-09","David Gray",0
+"2007-09","Doves",0
+"2007-09","Duke Special",1
+"2007-09","Ed Harcourt",0
+"2007-09","I Am Kloot",0
+"2007-09","Jeff Buckley",0
+"2007-09","Leaves",0
+"2007-09","Maxïmo Park",2
+"2007-09","Paolo Nutini",3
+"2007-09","R.E.M.",1
+"2007-09","Robbie Williams",2
+"2007-09","Ryan Adams",0
+"2007-09","Sufjan Stevens",0
+"2007-09","The Kooks",2
+"2007-09","The Rolling Stones",1
+"2007-09","The Strokes",0
+"2007-09","U2",2
+"2007-10","Badly Drawn Boy",2
+"2007-10","Coldplay",12
+"2007-10","Damien Rice",10
+"2007-10","David Gray",3
+"2007-10","Doves",0
+"2007-10","Duke Special",21
+"2007-10","Ed Harcourt",3
+"2007-10","I Am Kloot",2
+"2007-10","Jeff Buckley",2
+"2007-10","Leaves",1
+"2007-10","Maxïmo Park",3
+"2007-10","Paolo Nutini",1
+"2007-10","R.E.M.",2
+"2007-10","Robbie Williams",6
+"2007-10","Ryan Adams",4
+"2007-10","Sufjan Stevens",1
+"2007-10","The Kooks",4
+"2007-10","The Rolling Stones",1
+"2007-10","The Strokes",1
+"2007-10","U2",9
+"2007-11","Badly Drawn Boy",2
+"2007-11","Coldplay",18
+"2007-11","Damien Rice",2
+"2007-11","David Gray",3
+"2007-11","Doves",3
+"2007-11","Duke Special",7
+"2007-11","Ed Harcourt",1
+"2007-11","I Am Kloot",2
+"2007-11","Jeff Buckley",1
+"2007-11","Leaves",0
+"2007-11","Maxïmo Park",1
+"2007-11","Paolo Nutini",2
+"2007-11","R.E.M.",2
+"2007-11","Robbie Williams",9
+"2007-11","Ryan Adams",2
+"2007-11","Sufjan Stevens",2
+"2007-11","The Kooks",1
+"2007-11","The Rolling Stones",4
+"2007-11","The Strokes",1
+"2007-11","U2",8
+"2007-12","Badly Drawn Boy",2
+"2007-12","Coldplay",5
+"2007-12","Damien Rice",2
+"2007-12","David Gray",2
+"2007-12","Doves",2
+"2007-12","Duke Special",3
+"2007-12","Ed Harcourt",1
+"2007-12","I Am Kloot",3
+"2007-12","Jeff Buckley",1
+"2007-12","Leaves",0
+"2007-12","Maxïmo Park",2
+"2007-12","Paolo Nutini",2
+"2007-12","R.E.M.",2
+"2007-12","Robbie Williams",5
+"2007-12","Ryan Adams",0
+"2007-12","Sufjan Stevens",3
+"2007-12","The Kooks",2
+"2007-12","The Rolling Stones",0
+"2007-12","The Strokes",2
+"2007-12","U2",8
+"2008-01","Badly Drawn Boy",1
+"2008-01","Coldplay",1
+"2008-01","Damien Rice",1
+"2008-01","David Gray",3
+"2008-01","Doves",1
+"2008-01","Duke Special",3
+"2008-01","Ed Harcourt",2
+"2008-01","I Am Kloot",3
+"2008-01","Jeff Buckley",1
+"2008-01","Leaves",1
+"2008-01","Maxïmo Park",1
+"2008-01","Paolo Nutini",0
+"2008-01","R.E.M.",0
+"2008-01","Robbie Williams",1
+"2008-01","Ryan Adams",2
+"2008-01","Sufjan Stevens",3
+"2008-01","The Kooks",2
+"2008-01","The Rolling Stones",3
+"2008-01","The Strokes",1
+"2008-01","U2",3
+"2008-02","Badly Drawn Boy",0
+"2008-02","Coldplay",1
+"2008-02","Damien Rice",1
+"2008-02","David Gray",0
+"2008-02","Doves",0
+"2008-02","Duke Special",0
+"2008-02","Ed Harcourt",0
+"2008-02","I Am Kloot",1
+"2008-02","Jeff Buckley",0
+"2008-02","Leaves",1
+"2008-02","Maxïmo Park",2
+"2008-02","Paolo Nutini",0
+"2008-02","R.E.M.",0
+"2008-02","Robbie Williams",4
+"2008-02","Ryan Adams",0
+"2008-02","Sufjan Stevens",0
+"2008-02","The Kooks",0
+"2008-02","The Rolling Stones",3
+"2008-02","The Strokes",0
+"2008-02","U2",0
+"2008-03","Badly Drawn Boy",0
+"2008-03","Coldplay",8
+"2008-03","Damien Rice",2
+"2008-03","David Gray",0
+"2008-03","Doves",3
+"2008-03","Duke Special",12
+"2008-03","Ed Harcourt",3
+"2008-03","I Am Kloot",1
+"2008-03","Jeff Buckley",0
+"2008-03","Leaves",0
+"2008-03","Maxïmo Park",1
+"2008-03","Paolo Nutini",0
+"2008-03","R.E.M.",2
+"2008-03","Robbie Williams",12
+"2008-03","Ryan Adams",1
+"2008-03","Sufjan Stevens",0
+"2008-03","The Kooks",0
+"2008-03","The Rolling Stones",1
+"2008-03","The Strokes",0
+"2008-03","U2",4
+"2008-04","Badly Drawn Boy",0
+"2008-04","Coldplay",11
+"2008-04","Damien Rice",0
+"2008-04","David Gray",2
+"2008-04","Doves",0
+"2008-04","Duke Special",0
+"2008-04","Ed Harcourt",0
+"2008-04","I Am Kloot",1
+"2008-04","Jeff Buckley",0
+"2008-04","Leaves",1
+"2008-04","Maxïmo Park",0
+"2008-04","Paolo Nutini",1
+"2008-04","R.E.M.",0
+"2008-04","Robbie Williams",3
+"2008-04","Ryan Adams",0
+"2008-04","Sufjan Stevens",1
+"2008-04","The Kooks",0
+"2008-04","The Rolling Stones",0
+"2008-04","The Strokes",0
+"2008-04","U2",0
+"2008-05","Badly Drawn Boy",0
+"2008-05","Coldplay",57
+"2008-05","Damien Rice",0
+"2008-05","David Gray",1
+"2008-05","Doves",1
+"2008-05","Duke Special",0
+"2008-05","Ed Harcourt",0
+"2008-05","I Am Kloot",0
+"2008-05","Jeff Buckley",0
+"2008-05","Leaves",0
+"2008-05","Maxïmo Park",0
+"2008-05","Paolo Nutini",0
+"2008-05","R.E.M.",0
+"2008-05","Robbie Williams",0
+"2008-05","Ryan Adams",0
+"2008-05","Sufjan Stevens",1
+"2008-05","The Kooks",0
+"2008-05","The Rolling Stones",1
+"2008-05","The Strokes",0
+"2008-05","U2",2
+"2008-06","Badly Drawn Boy",0
+"2008-06","Coldplay",139
+"2008-06","Damien Rice",12
+"2008-06","David Gray",10
+"2008-06","Doves",0
+"2008-06","Duke Special",20
+"2008-06","Ed Harcourt",0
+"2008-06","I Am Kloot",0
+"2008-06","Jeff Buckley",10
+"2008-06","Leaves",0
+"2008-06","Maxïmo Park",0
+"2008-06","Paolo Nutini",4
+"2008-06","R.E.M.",0
+"2008-06","Robbie Williams",0
+"2008-06","Ryan Adams",0
+"2008-06","Sufjan Stevens",20
+"2008-06","The Kooks",0
+"2008-06","The Rolling Stones",3
+"2008-06","The Strokes",0
+"2008-06","U2",0
+"2008-07","Badly Drawn Boy",1
+"2008-07","Coldplay",65
+"2008-07","Damien Rice",9
+"2008-07","David Gray",4
+"2008-07","Doves",2
+"2008-07","Duke Special",17
+"2008-07","Ed Harcourt",2
+"2008-07","I Am Kloot",1
+"2008-07","Jeff Buckley",1
+"2008-07","Leaves",1
+"2008-07","Maxïmo Park",3
+"2008-07","Paolo Nutini",2
+"2008-07","R.E.M.",1
+"2008-07","Robbie Williams",5
+"2008-07","Ryan Adams",15
+"2008-07","Sufjan Stevens",2
+"2008-07","The Kooks",2
+"2008-07","The Rolling Stones",1
+"2008-07","The Strokes",1
+"2008-07","U2",8
+"2008-08","Badly Drawn Boy",1
+"2008-08","Coldplay",35
+"2008-08","Damien Rice",0
+"2008-08","David Gray",1
+"2008-08","Doves",2
+"2008-08","Duke Special",6
+"2008-08","Ed Harcourt",0
+"2008-08","I Am Kloot",0
+"2008-08","Jeff Buckley",0
+"2008-08","Leaves",6
+"2008-08","Maxïmo Park",2
+"2008-08","Paolo Nutini",2
+"2008-08","R.E.M.",1
+"2008-08","Robbie Williams",6
+"2008-08","Ryan Adams",0
+"2008-08","Sufjan Stevens",3
+"2008-08","The Kooks",2
+"2008-08","The Rolling Stones",1
+"2008-08","The Strokes",0
+"2008-08","U2",7
+"2008-09","Badly Drawn Boy",1
+"2008-09","Coldplay",34
+"2008-09","Damien Rice",1
+"2008-09","David Gray",4
+"2008-09","Doves",3
+"2008-09","Duke Special",9
+"2008-09","Ed Harcourt",1
+"2008-09","I Am Kloot",1
+"2008-09","Jeff Buckley",2
+"2008-09","Leaves",7
+"2008-09","Maxïmo Park",2
+"2008-09","Paolo Nutini",5
+"2008-09","R.E.M.",2
+"2008-09","Robbie Williams",3
+"2008-09","Ryan Adams",5
+"2008-09","Sufjan Stevens",3
+"2008-09","The Kooks",8
+"2008-09","The Rolling Stones",2
+"2008-09","The Strokes",1
+"2008-09","U2",5
+"2008-10","Badly Drawn Boy",0
+"2008-10","Coldplay",43
+"2008-10","Damien Rice",0
+"2008-10","David Gray",1
+"2008-10","Doves",4
+"2008-10","Duke Special",105
+"2008-10","Ed Harcourt",3
+"2008-10","I Am Kloot",1
+"2008-10","Jeff Buckley",0
+"2008-10","Leaves",3
+"2008-10","Maxïmo Park",1
+"2008-10","Paolo Nutini",4
+"2008-10","R.E.M.",0
+"2008-10","Robbie Williams",1
+"2008-10","Ryan Adams",0
+"2008-10","Sufjan Stevens",0
+"2008-10","The Kooks",1
+"2008-10","The Rolling Stones",0
+"2008-10","The Strokes",3
+"2008-10","U2",0
+"2008-11","Badly Drawn Boy",0
+"2008-11","Coldplay",49
+"2008-11","Damien Rice",0
+"2008-11","David Gray",0
+"2008-11","Doves",1
+"2008-11","Duke Special",25
+"2008-11","Ed Harcourt",11
+"2008-11","I Am Kloot",0
+"2008-11","Jeff Buckley",0
+"2008-11","Leaves",1
+"2008-11","Maxïmo Park",0
+"2008-11","Paolo Nutini",1
+"2008-11","R.E.M.",0
+"2008-11","Robbie Williams",0
+"2008-11","Ryan Adams",0
+"2008-11","Sufjan Stevens",0
+"2008-11","The Kooks",1
+"2008-11","The Rolling Stones",0
+"2008-11","The Strokes",0
+"2008-11","U2",0
+"2008-12","Badly Drawn Boy",0
+"2008-12","Coldplay",25
+"2008-12","Damien Rice",0
+"2008-12","David Gray",13
+"2008-12","Doves",0
+"2008-12","Duke Special",0
+"2008-12","Ed Harcourt",0
+"2008-12","I Am Kloot",1
+"2008-12","Jeff Buckley",0
+"2008-12","Leaves",1
+"2008-12","Maxïmo Park",0
+"2008-12","Paolo Nutini",0
+"2008-12","R.E.M.",0
+"2008-12","Robbie Williams",0
+"2008-12","Ryan Adams",0
+"2008-12","Sufjan Stevens",0
+"2008-12","The Kooks",0
+"2008-12","The Rolling Stones",0
+"2008-12","The Strokes",0
+"2008-12","U2",0
+"2009-01","Badly Drawn Boy",0
+"2009-01","Coldplay",38
+"2009-01","Damien Rice",12
+"2009-01","David Gray",0
+"2009-01","Doves",0
+"2009-01","Duke Special",30
+"2009-01","Ed Harcourt",0
+"2009-01","I Am Kloot",0
+"2009-01","Jeff Buckley",10
+"2009-01","Leaves",1
+"2009-01","Maxïmo Park",0
+"2009-01","Paolo Nutini",0
+"2009-01","R.E.M.",2
+"2009-01","Robbie Williams",0
+"2009-01","Ryan Adams",0
+"2009-01","Sufjan Stevens",2
+"2009-01","The Kooks",0
+"2009-01","The Rolling Stones",0
+"2009-01","The Strokes",1
+"2009-01","U2",23
+"2009-02","Badly Drawn Boy",1
+"2009-02","Coldplay",17
+"2009-02","Damien Rice",1
+"2009-02","David Gray",0
+"2009-02","Doves",7
+"2009-02","Duke Special",1
+"2009-02","Ed Harcourt",1
+"2009-02","I Am Kloot",2
+"2009-02","Jeff Buckley",0
+"2009-02","Leaves",1
+"2009-02","Maxïmo Park",4
+"2009-02","Paolo Nutini",2
+"2009-02","R.E.M.",1
+"2009-02","Robbie Williams",4
+"2009-02","Ryan Adams",3
+"2009-02","Sufjan Stevens",4
+"2009-02","The Kooks",0
+"2009-02","The Rolling Stones",1
+"2009-02","The Strokes",5
+"2009-02","U2",20
+"2009-03","Badly Drawn Boy",30
+"2009-03","Coldplay",15
+"2009-03","Damien Rice",10
+"2009-03","David Gray",10
+"2009-03","Doves",4
+"2009-03","Duke Special",90
+"2009-03","Ed Harcourt",1
+"2009-03","I Am Kloot",5
+"2009-03","Jeff Buckley",2
+"2009-03","Leaves",1
+"2009-03","Maxïmo Park",3
+"2009-03","Paolo Nutini",2
+"2009-03","R.E.M.",7
+"2009-03","Robbie Williams",6
+"2009-03","Ryan Adams",19
+"2009-03","Sufjan Stevens",3
+"2009-03","The Kooks",0
+"2009-03","The Rolling Stones",1
+"2009-03","The Strokes",0
+"2009-03","U2",70
+"2009-04","Badly Drawn Boy",3
+"2009-04","Coldplay",31
+"2009-04","Damien Rice",0
+"2009-04","David Gray",3
+"2009-04","Doves",0
+"2009-04","Duke Special",24
+"2009-04","Ed Harcourt",1
+"2009-04","I Am Kloot",2
+"2009-04","Jeff Buckley",0
+"2009-04","Leaves",0
+"2009-04","Maxïmo Park",1
+"2009-04","Paolo Nutini",0
+"2009-04","R.E.M.",2
+"2009-04","Robbie Williams",5
+"2009-04","Ryan Adams",2
+"2009-04","Sufjan Stevens",2
+"2009-04","The Kooks",2
+"2009-04","The Rolling Stones",0
+"2009-04","The Strokes",0
+"2009-04","U2",8

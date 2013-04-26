@@ -1,61 +1,61 @@
-month,artist,plays
-2009-02,Aqualung,1
-2009-02,Beck,10
-2009-02,Black Rebel Motorcycle Club,92
-2009-02,Brendan Benson,2
-2009-02,Bush,5
-2009-02,Coldplay,2
-2009-02,Eve 6,20
-2009-02,Guster,4
-2009-02,Huey Lewis & The News,5
-2009-02,Jet,10
-2009-02,Kasabian,28
-2009-02,Oasis,148
-2009-02,Onerepublic,2
-2009-02,Sara Bareilles,12
-2009-02,Silverchair,2
-2009-02,Stereophonics,24
-2009-02,The Raconteurs,3
-2009-02,The Redwalls,5
-2009-02,The Shore,2
-2009-02,The Verve,2
-2009-03,Aqualung,4
-2009-03,Beck,7
-2009-03,Black Rebel Motorcycle Club,120
-2009-03,Brendan Benson,29
-2009-03,Bush,11
-2009-03,Coldplay,2
-2009-03,Eve 6,15
-2009-03,Guster,1
-2009-03,Huey Lewis & The News,6
-2009-03,Jet,6
-2009-03,Kasabian,34
-2009-03,Oasis,222
-2009-03,Onerepublic,46
-2009-03,Sara Bareilles,7
-2009-03,Silverchair,1
-2009-03,Stereophonics,52
-2009-03,The Raconteurs,3
-2009-03,The Redwalls,5
-2009-03,The Shore,5
-2009-03,The Verve,8
-2009-04,Aqualung,13
-2009-04,Beck,27
-2009-04,Black Rebel Motorcycle Club,243
-2009-04,Brendan Benson,26
-2009-04,Bush,1
-2009-04,Coldplay,15
-2009-04,Eve 6,25
-2009-04,Guster,32
-2009-04,Huey Lewis & The News,14
-2009-04,Jet,38
-2009-04,Kasabian,20
-2009-04,Oasis,263
-2009-04,Onerepublic,45
-2009-04,Sara Bareilles,71
-2009-04,Silverchair,2
-2009-04,Stereophonics,145
-2009-04,The Raconteurs,6
-2009-04,The Redwalls,18
-2009-04,The Shore,16
-2009-04,The Verve,45
+"month","artist","plays"
+"2009-02","Aqualung",1
+"2009-02","Beck",10
+"2009-02","Black Rebel Motorcycle Club",92
+"2009-02","Brendan Benson",2
+"2009-02","Bush",5
+"2009-02","Coldplay",2
+"2009-02","Eve 6",20
+"2009-02","Guster",4
+"2009-02","Huey Lewis & The News",5
+"2009-02","Jet",10
+"2009-02","Kasabian",28
+"2009-02","Oasis",148
+"2009-02","Onerepublic",2
+"2009-02","Sara Bareilles",12
+"2009-02","Silverchair",2
+"2009-02","Stereophonics",24
+"2009-02","The Raconteurs",3
+"2009-02","The Redwalls",5
+"2009-02","The Shore",2
+"2009-02","The Verve",2
+"2009-03","Aqualung",4
+"2009-03","Beck",7
+"2009-03","Black Rebel Motorcycle Club",120
+"2009-03","Brendan Benson",29
+"2009-03","Bush",11
+"2009-03","Coldplay",2
+"2009-03","Eve 6",15
+"2009-03","Guster",1
+"2009-03","Huey Lewis & The News",6
+"2009-03","Jet",6
+"2009-03","Kasabian",34
+"2009-03","Oasis",222
+"2009-03","Onerepublic",46
+"2009-03","Sara Bareilles",7
+"2009-03","Silverchair",1
+"2009-03","Stereophonics",52
+"2009-03","The Raconteurs",3
+"2009-03","The Redwalls",5
+"2009-03","The Shore",5
+"2009-03","The Verve",8
+"2009-04","Aqualung",13
+"2009-04","Beck",27
+"2009-04","Black Rebel Motorcycle Club",243
+"2009-04","Brendan Benson",26
+"2009-04","Bush",1
+"2009-04","Coldplay",15
+"2009-04","Eve 6",25
+"2009-04","Guster",32
+"2009-04","Huey Lewis & The News",14
+"2009-04","Jet",38
+"2009-04","Kasabian",20
+"2009-04","Oasis",263
+"2009-04","Onerepublic",45
+"2009-04","Sara Bareilles",71
+"2009-04","Silverchair",2
+"2009-04","Stereophonics",145
+"2009-04","The Raconteurs",6
+"2009-04","The Redwalls",18
+"2009-04","The Shore",16
+"2009-04","The Verve",45

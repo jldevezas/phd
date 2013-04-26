@@ -1,681 +1,681 @@
-month,artist,plays
-2006-09,Arctic Monkeys,0
-2006-09,Britney Spears,0
-2006-09,Calle 13,0
-2006-09,Christina Aguilera,0
-2006-09,Eminem,0
-2006-09,Fall Out Boy,2
-2006-09,Fergie,1
-2006-09,Franz Ferdinand,2
-2006-09,James Blunt,1
-2006-09,Julieta Venegas,1
-2006-09,Justin Timberlake,0
-2006-09,Lily Allen,0
-2006-09,Muse,4
-2006-09,My Chemical Romance,1
-2006-09,Panic At The Disco,1
-2006-09,Red Hot Chili Peppers,0
-2006-09,Rihanna,0
-2006-09,Shakira,0
-2006-09,The Black Eyed Peas,2
-2006-09,The Killers,22
-2006-10,Arctic Monkeys,0
-2006-10,Britney Spears,0
-2006-10,Calle 13,1
-2006-10,Christina Aguilera,0
-2006-10,Eminem,0
-2006-10,Fall Out Boy,17
-2006-10,Fergie,9
-2006-10,Franz Ferdinand,6
-2006-10,James Blunt,1
-2006-10,Julieta Venegas,10
-2006-10,Justin Timberlake,4
-2006-10,Lily Allen,3
-2006-10,Muse,26
-2006-10,My Chemical Romance,40
-2006-10,Panic At The Disco,12
-2006-10,Red Hot Chili Peppers,7
-2006-10,Rihanna,0
-2006-10,Shakira,8
-2006-10,The Black Eyed Peas,22
-2006-10,The Killers,99
-2006-11,Arctic Monkeys,1
-2006-11,Britney Spears,0
-2006-11,Calle 13,0
-2006-11,Christina Aguilera,0
-2006-11,Eminem,0
-2006-11,Fall Out Boy,5
-2006-11,Fergie,6
-2006-11,Franz Ferdinand,7
-2006-11,James Blunt,0
-2006-11,Julieta Venegas,6
-2006-11,Justin Timberlake,5
-2006-11,Lily Allen,2
-2006-11,Muse,13
-2006-11,My Chemical Romance,27
-2006-11,Panic At The Disco,6
-2006-11,Red Hot Chili Peppers,16
-2006-11,Rihanna,0
-2006-11,Shakira,25
-2006-11,The Black Eyed Peas,24
-2006-11,The Killers,55
-2006-12,Arctic Monkeys,5
-2006-12,Britney Spears,0
-2006-12,Calle 13,6
-2006-12,Christina Aguilera,5
-2006-12,Eminem,2
-2006-12,Fall Out Boy,7
-2006-12,Fergie,5
-2006-12,Franz Ferdinand,4
-2006-12,James Blunt,1
-2006-12,Julieta Venegas,6
-2006-12,Justin Timberlake,4
-2006-12,Lily Allen,3
-2006-12,Muse,19
-2006-12,My Chemical Romance,32
-2006-12,Panic At The Disco,1
-2006-12,Red Hot Chili Peppers,2
-2006-12,Rihanna,3
-2006-12,Shakira,9
-2006-12,The Black Eyed Peas,0
-2006-12,The Killers,60
-2007-01,Arctic Monkeys,7
-2007-01,Britney Spears,1
-2007-01,Calle 13,4
-2007-01,Christina Aguilera,2
-2007-01,Eminem,0
-2007-01,Fall Out Boy,7
-2007-01,Fergie,14
-2007-01,Franz Ferdinand,2
-2007-01,James Blunt,2
-2007-01,Julieta Venegas,2
-2007-01,Justin Timberlake,0
-2007-01,Lily Allen,1
-2007-01,Muse,9
-2007-01,My Chemical Romance,20
-2007-01,Panic At The Disco,4
-2007-01,Red Hot Chili Peppers,4
-2007-01,Rihanna,1
-2007-01,Shakira,10
-2007-01,The Black Eyed Peas,4
-2007-01,The Killers,56
-2007-02,Arctic Monkeys,2
-2007-02,Britney Spears,0
-2007-02,Calle 13,3
-2007-02,Christina Aguilera,2
-2007-02,Eminem,1
-2007-02,Fall Out Boy,12
-2007-02,Fergie,7
-2007-02,Franz Ferdinand,12
-2007-02,James Blunt,0
-2007-02,Julieta Venegas,4
-2007-02,Justin Timberlake,5
-2007-02,Lily Allen,2
-2007-02,Muse,7
-2007-02,My Chemical Romance,20
-2007-02,Panic At The Disco,11
-2007-02,Red Hot Chili Peppers,13
-2007-02,Rihanna,0
-2007-02,Shakira,13
-2007-02,The Black Eyed Peas,3
-2007-02,The Killers,52
-2007-03,Arctic Monkeys,0
-2007-03,Britney Spears,3
-2007-03,Calle 13,12
-2007-03,Christina Aguilera,5
-2007-03,Eminem,4
-2007-03,Fall Out Boy,9
-2007-03,Fergie,2
-2007-03,Franz Ferdinand,6
-2007-03,James Blunt,6
-2007-03,Julieta Venegas,4
-2007-03,Justin Timberlake,3
-2007-03,Lily Allen,5
-2007-03,Muse,3
-2007-03,My Chemical Romance,3
-2007-03,Panic At The Disco,8
-2007-03,Red Hot Chili Peppers,12
-2007-03,Rihanna,0
-2007-03,Shakira,8
-2007-03,The Black Eyed Peas,2
-2007-03,The Killers,24
-2007-04,Arctic Monkeys,10
-2007-04,Britney Spears,0
-2007-04,Calle 13,7
-2007-04,Christina Aguilera,1
-2007-04,Eminem,0
-2007-04,Fall Out Boy,8
-2007-04,Fergie,2
-2007-04,Franz Ferdinand,2
-2007-04,James Blunt,1
-2007-04,Julieta Venegas,5
-2007-04,Justin Timberlake,8
-2007-04,Lily Allen,2
-2007-04,Muse,11
-2007-04,My Chemical Romance,9
-2007-04,Panic At The Disco,9
-2007-04,Red Hot Chili Peppers,14
-2007-04,Rihanna,0
-2007-04,Shakira,2
-2007-04,The Black Eyed Peas,1
-2007-04,The Killers,15
-2007-05,Arctic Monkeys,24
-2007-05,Britney Spears,6
-2007-05,Calle 13,33
-2007-05,Christina Aguilera,3
-2007-05,Eminem,4
-2007-05,Fall Out Boy,11
-2007-05,Fergie,35
-2007-05,Franz Ferdinand,5
-2007-05,James Blunt,7
-2007-05,Julieta Venegas,17
-2007-05,Justin Timberlake,28
-2007-05,Lily Allen,13
-2007-05,Muse,28
-2007-05,My Chemical Romance,28
-2007-05,Panic At The Disco,24
-2007-05,Red Hot Chili Peppers,6
-2007-05,Rihanna,5
-2007-05,Shakira,29
-2007-05,The Black Eyed Peas,13
-2007-05,The Killers,58
-2007-06,Arctic Monkeys,58
-2007-06,Britney Spears,4
-2007-06,Calle 13,2
-2007-06,Christina Aguilera,9
-2007-06,Eminem,1
-2007-06,Fall Out Boy,22
-2007-06,Fergie,20
-2007-06,Franz Ferdinand,1
-2007-06,James Blunt,2
-2007-06,Julieta Venegas,16
-2007-06,Justin Timberlake,12
-2007-06,Lily Allen,10
-2007-06,Muse,28
-2007-06,My Chemical Romance,51
-2007-06,Panic At The Disco,32
-2007-06,Red Hot Chili Peppers,14
-2007-06,Rihanna,22
-2007-06,Shakira,19
-2007-06,The Black Eyed Peas,35
-2007-06,The Killers,59
-2007-07,Arctic Monkeys,47
-2007-07,Britney Spears,4
-2007-07,Calle 13,1
-2007-07,Christina Aguilera,24
-2007-07,Eminem,1
-2007-07,Fall Out Boy,29
-2007-07,Fergie,11
-2007-07,Franz Ferdinand,0
-2007-07,James Blunt,7
-2007-07,Julieta Venegas,14
-2007-07,Justin Timberlake,34
-2007-07,Lily Allen,9
-2007-07,Muse,32
-2007-07,My Chemical Romance,36
-2007-07,Panic At The Disco,13
-2007-07,Red Hot Chili Peppers,16
-2007-07,Rihanna,27
-2007-07,Shakira,38
-2007-07,The Black Eyed Peas,20
-2007-07,The Killers,62
-2007-08,Arctic Monkeys,31
-2007-08,Britney Spears,2
-2007-08,Calle 13,1
-2007-08,Christina Aguilera,6
-2007-08,Eminem,3
-2007-08,Fall Out Boy,11
-2007-08,Fergie,13
-2007-08,Franz Ferdinand,7
-2007-08,James Blunt,20
-2007-08,Julieta Venegas,3
-2007-08,Justin Timberlake,24
-2007-08,Lily Allen,7
-2007-08,Muse,8
-2007-08,My Chemical Romance,27
-2007-08,Panic At The Disco,4
-2007-08,Red Hot Chili Peppers,12
-2007-08,Rihanna,12
-2007-08,Shakira,18
-2007-08,The Black Eyed Peas,17
-2007-08,The Killers,30
-2007-09,Arctic Monkeys,36
-2007-09,Britney Spears,20
-2007-09,Calle 13,23
-2007-09,Christina Aguilera,22
-2007-09,Eminem,5
-2007-09,Fall Out Boy,13
-2007-09,Fergie,23
-2007-09,Franz Ferdinand,2
-2007-09,James Blunt,20
-2007-09,Julieta Venegas,10
-2007-09,Justin Timberlake,14
-2007-09,Lily Allen,1
-2007-09,Muse,3
-2007-09,My Chemical Romance,12
-2007-09,Panic At The Disco,2
-2007-09,Red Hot Chili Peppers,8
-2007-09,Rihanna,19
-2007-09,Shakira,10
-2007-09,The Black Eyed Peas,16
-2007-09,The Killers,51
-2007-10,Arctic Monkeys,54
-2007-10,Britney Spears,21
-2007-10,Calle 13,67
-2007-10,Christina Aguilera,7
-2007-10,Eminem,8
-2007-10,Fall Out Boy,2
-2007-10,Fergie,29
-2007-10,Franz Ferdinand,2
-2007-10,James Blunt,46
-2007-10,Julieta Venegas,17
-2007-10,Justin Timberlake,13
-2007-10,Lily Allen,1
-2007-10,Muse,18
-2007-10,My Chemical Romance,38
-2007-10,Panic At The Disco,12
-2007-10,Red Hot Chili Peppers,29
-2007-10,Rihanna,29
-2007-10,Shakira,72
-2007-10,The Black Eyed Peas,3
-2007-10,The Killers,51
-2007-11,Arctic Monkeys,15
-2007-11,Britney Spears,15
-2007-11,Calle 13,30
-2007-11,Christina Aguilera,11
-2007-11,Eminem,3
-2007-11,Fall Out Boy,1
-2007-11,Fergie,15
-2007-11,Franz Ferdinand,0
-2007-11,James Blunt,14
-2007-11,Julieta Venegas,8
-2007-11,Justin Timberlake,2
-2007-11,Lily Allen,0
-2007-11,Muse,0
-2007-11,My Chemical Romance,76
-2007-11,Panic At The Disco,27
-2007-11,Red Hot Chili Peppers,15
-2007-11,Rihanna,7
-2007-11,Shakira,26
-2007-11,The Black Eyed Peas,10
-2007-11,The Killers,49
-2007-12,Arctic Monkeys,22
-2007-12,Britney Spears,51
-2007-12,Calle 13,16
-2007-12,Christina Aguilera,12
-2007-12,Eminem,7
-2007-12,Fall Out Boy,5
-2007-12,Fergie,21
-2007-12,Franz Ferdinand,1
-2007-12,James Blunt,10
-2007-12,Julieta Venegas,12
-2007-12,Justin Timberlake,2
-2007-12,Lily Allen,5
-2007-12,Muse,2
-2007-12,My Chemical Romance,38
-2007-12,Panic At The Disco,6
-2007-12,Red Hot Chili Peppers,11
-2007-12,Rihanna,5
-2007-12,Shakira,69
-2007-12,The Black Eyed Peas,7
-2007-12,The Killers,36
-2008-01,Arctic Monkeys,9
-2008-01,Britney Spears,10
-2008-01,Calle 13,5
-2008-01,Christina Aguilera,4
-2008-01,Eminem,1
-2008-01,Fall Out Boy,2
-2008-01,Fergie,5
-2008-01,Franz Ferdinand,4
-2008-01,James Blunt,5
-2008-01,Julieta Venegas,4
-2008-01,Justin Timberlake,3
-2008-01,Lily Allen,2
-2008-01,Muse,2
-2008-01,My Chemical Romance,4
-2008-01,Panic At The Disco,1
-2008-01,Red Hot Chili Peppers,4
-2008-01,Rihanna,7
-2008-01,Shakira,22
-2008-01,The Black Eyed Peas,3
-2008-01,The Killers,23
-2008-02,Arctic Monkeys,21
-2008-02,Britney Spears,31
-2008-02,Calle 13,17
-2008-02,Christina Aguilera,9
-2008-02,Eminem,4
-2008-02,Fall Out Boy,6
-2008-02,Fergie,18
-2008-02,Franz Ferdinand,4
-2008-02,James Blunt,12
-2008-02,Julieta Venegas,8
-2008-02,Justin Timberlake,5
-2008-02,Lily Allen,8
-2008-02,Muse,1
-2008-02,My Chemical Romance,23
-2008-02,Panic At The Disco,0
-2008-02,Red Hot Chili Peppers,8
-2008-02,Rihanna,12
-2008-02,Shakira,44
-2008-02,The Black Eyed Peas,12
-2008-02,The Killers,18
-2008-03,Arctic Monkeys,37
-2008-03,Britney Spears,55
-2008-03,Calle 13,7
-2008-03,Christina Aguilera,0
-2008-03,Eminem,41
-2008-03,Fall Out Boy,8
-2008-03,Fergie,25
-2008-03,Franz Ferdinand,3
-2008-03,James Blunt,25
-2008-03,Julieta Venegas,15
-2008-03,Justin Timberlake,12
-2008-03,Lily Allen,8
-2008-03,Muse,27
-2008-03,My Chemical Romance,17
-2008-03,Panic At The Disco,16
-2008-03,Red Hot Chili Peppers,17
-2008-03,Rihanna,24
-2008-03,Shakira,73
-2008-03,The Black Eyed Peas,15
-2008-03,The Killers,58
-2008-04,Arctic Monkeys,8
-2008-04,Britney Spears,48
-2008-04,Calle 13,0
-2008-04,Christina Aguilera,4
-2008-04,Eminem,4
-2008-04,Fall Out Boy,4
-2008-04,Fergie,4
-2008-04,Franz Ferdinand,1
-2008-04,James Blunt,8
-2008-04,Julieta Venegas,1
-2008-04,Justin Timberlake,2
-2008-04,Lily Allen,1
-2008-04,Muse,15
-2008-04,My Chemical Romance,4
-2008-04,Panic At The Disco,11
-2008-04,Red Hot Chili Peppers,2
-2008-04,Rihanna,6
-2008-04,Shakira,41
-2008-04,The Black Eyed Peas,8
-2008-04,The Killers,11
-2008-05,Arctic Monkeys,50
-2008-05,Britney Spears,20
-2008-05,Calle 13,4
-2008-05,Christina Aguilera,5
-2008-05,Eminem,1
-2008-05,Fall Out Boy,0
-2008-05,Fergie,6
-2008-05,Franz Ferdinand,2
-2008-05,James Blunt,4
-2008-05,Julieta Venegas,0
-2008-05,Justin Timberlake,4
-2008-05,Lily Allen,3
-2008-05,Muse,38
-2008-05,My Chemical Romance,2
-2008-05,Panic At The Disco,5
-2008-05,Red Hot Chili Peppers,3
-2008-05,Rihanna,4
-2008-05,Shakira,23
-2008-05,The Black Eyed Peas,4
-2008-05,The Killers,41
-2008-06,Arctic Monkeys,3
-2008-06,Britney Spears,6
-2008-06,Calle 13,1
-2008-06,Christina Aguilera,2
-2008-06,Eminem,2
-2008-06,Fall Out Boy,0
-2008-06,Fergie,2
-2008-06,Franz Ferdinand,1
-2008-06,James Blunt,2
-2008-06,Julieta Venegas,0
-2008-06,Justin Timberlake,0
-2008-06,Lily Allen,0
-2008-06,Muse,4
-2008-06,My Chemical Romance,0
-2008-06,Panic At The Disco,1
-2008-06,Red Hot Chili Peppers,2
-2008-06,Rihanna,0
-2008-06,Shakira,1
-2008-06,The Black Eyed Peas,3
-2008-06,The Killers,4
-2008-07,Arctic Monkeys,0
-2008-07,Britney Spears,0
-2008-07,Calle 13,0
-2008-07,Christina Aguilera,0
-2008-07,Eminem,0
-2008-07,Fall Out Boy,0
-2008-07,Fergie,1
-2008-07,Franz Ferdinand,0
-2008-07,James Blunt,0
-2008-07,Julieta Venegas,1
-2008-07,Justin Timberlake,0
-2008-07,Lily Allen,0
-2008-07,Muse,2
-2008-07,My Chemical Romance,0
-2008-07,Panic At The Disco,0
-2008-07,Red Hot Chili Peppers,0
-2008-07,Rihanna,2
-2008-07,Shakira,0
-2008-07,The Black Eyed Peas,1
-2008-07,The Killers,0
-2008-08,Arctic Monkeys,3
-2008-08,Britney Spears,0
-2008-08,Calle 13,0
-2008-08,Christina Aguilera,0
-2008-08,Eminem,0
-2008-08,Fall Out Boy,0
-2008-08,Fergie,1
-2008-08,Franz Ferdinand,1
-2008-08,James Blunt,8
-2008-08,Julieta Venegas,4
-2008-08,Justin Timberlake,2
-2008-08,Lily Allen,0
-2008-08,Muse,2
-2008-08,My Chemical Romance,0
-2008-08,Panic At The Disco,1
-2008-08,Red Hot Chili Peppers,1
-2008-08,Rihanna,6
-2008-08,Shakira,0
-2008-08,The Black Eyed Peas,0
-2008-08,The Killers,30
-2008-09,Arctic Monkeys,19
-2008-09,Britney Spears,26
-2008-09,Calle 13,0
-2008-09,Christina Aguilera,57
-2008-09,Eminem,0
-2008-09,Fall Out Boy,0
-2008-09,Fergie,1
-2008-09,Franz Ferdinand,0
-2008-09,James Blunt,10
-2008-09,Julieta Venegas,7
-2008-09,Justin Timberlake,5
-2008-09,Lily Allen,0
-2008-09,Muse,46
-2008-09,My Chemical Romance,1
-2008-09,Panic At The Disco,1
-2008-09,Red Hot Chili Peppers,0
-2008-09,Rihanna,40
-2008-09,Shakira,1
-2008-09,The Black Eyed Peas,0
-2008-09,The Killers,83
-2008-10,Arctic Monkeys,0
-2008-10,Britney Spears,5
-2008-10,Calle 13,0
-2008-10,Christina Aguilera,5
-2008-10,Eminem,0
-2008-10,Fall Out Boy,0
-2008-10,Fergie,0
-2008-10,Franz Ferdinand,0
-2008-10,James Blunt,0
-2008-10,Julieta Venegas,0
-2008-10,Justin Timberlake,0
-2008-10,Lily Allen,0
-2008-10,Muse,0
-2008-10,My Chemical Romance,0
-2008-10,Panic At The Disco,0
-2008-10,Red Hot Chili Peppers,0
-2008-10,Rihanna,2
-2008-10,Shakira,0
-2008-10,The Black Eyed Peas,0
-2008-10,The Killers,6
-2008-11,Arctic Monkeys,0
-2008-11,Britney Spears,0
-2008-11,Calle 13,0
-2008-11,Christina Aguilera,0
-2008-11,Eminem,0
-2008-11,Fall Out Boy,0
-2008-11,Fergie,0
-2008-11,Franz Ferdinand,0
-2008-11,James Blunt,0
-2008-11,Julieta Venegas,0
-2008-11,Justin Timberlake,0
-2008-11,Lily Allen,0
-2008-11,Muse,0
-2008-11,My Chemical Romance,0
-2008-11,Panic At The Disco,0
-2008-11,Red Hot Chili Peppers,0
-2008-11,Rihanna,0
-2008-11,Shakira,0
-2008-11,The Black Eyed Peas,0
-2008-11,The Killers,0
-2008-12,Arctic Monkeys,0
-2008-12,Britney Spears,0
-2008-12,Calle 13,0
-2008-12,Christina Aguilera,0
-2008-12,Eminem,0
-2008-12,Fall Out Boy,0
-2008-12,Fergie,0
-2008-12,Franz Ferdinand,0
-2008-12,James Blunt,0
-2008-12,Julieta Venegas,0
-2008-12,Justin Timberlake,0
-2008-12,Lily Allen,0
-2008-12,Muse,0
-2008-12,My Chemical Romance,0
-2008-12,Panic At The Disco,0
-2008-12,Red Hot Chili Peppers,0
-2008-12,Rihanna,0
-2008-12,Shakira,0
-2008-12,The Black Eyed Peas,0
-2008-12,The Killers,1
-2009-01,Arctic Monkeys,0
-2009-01,Britney Spears,3
-2009-01,Calle 13,1
-2009-01,Christina Aguilera,0
-2009-01,Eminem,6
-2009-01,Fall Out Boy,0
-2009-01,Fergie,0
-2009-01,Franz Ferdinand,1
-2009-01,James Blunt,1
-2009-01,Julieta Venegas,0
-2009-01,Justin Timberlake,3
-2009-01,Lily Allen,3
-2009-01,Muse,0
-2009-01,My Chemical Romance,1
-2009-01,Panic At The Disco,0
-2009-01,Red Hot Chili Peppers,0
-2009-01,Rihanna,5
-2009-01,Shakira,4
-2009-01,The Black Eyed Peas,1
-2009-01,The Killers,21
-2009-02,Arctic Monkeys,1
-2009-02,Britney Spears,3
-2009-02,Calle 13,20
-2009-02,Christina Aguilera,2
-2009-02,Eminem,2
-2009-02,Fall Out Boy,3
-2009-02,Fergie,1
-2009-02,Franz Ferdinand,40
-2009-02,James Blunt,0
-2009-02,Julieta Venegas,0
-2009-02,Justin Timberlake,1
-2009-02,Lily Allen,42
-2009-02,Muse,4
-2009-02,My Chemical Romance,0
-2009-02,Panic At The Disco,15
-2009-02,Red Hot Chili Peppers,0
-2009-02,Rihanna,2
-2009-02,Shakira,2
-2009-02,The Black Eyed Peas,13
-2009-02,The Killers,12
-2009-03,Arctic Monkeys,2
-2009-03,Britney Spears,14
-2009-03,Calle 13,17
-2009-03,Christina Aguilera,2
-2009-03,Eminem,2
-2009-03,Fall Out Boy,2
-2009-03,Fergie,2
-2009-03,Franz Ferdinand,23
-2009-03,James Blunt,0
-2009-03,Julieta Venegas,1
-2009-03,Justin Timberlake,2
-2009-03,Lily Allen,63
-2009-03,Muse,5
-2009-03,My Chemical Romance,4
-2009-03,Panic At The Disco,10
-2009-03,Red Hot Chili Peppers,1
-2009-03,Rihanna,2
-2009-03,Shakira,2
-2009-03,The Black Eyed Peas,7
-2009-03,The Killers,93
-2009-04,Arctic Monkeys,0
-2009-04,Britney Spears,10
-2009-04,Calle 13,14
-2009-04,Christina Aguilera,0
-2009-04,Eminem,17
-2009-04,Fall Out Boy,0
-2009-04,Fergie,3
-2009-04,Franz Ferdinand,9
-2009-04,James Blunt,0
-2009-04,Julieta Venegas,4
-2009-04,Justin Timberlake,0
-2009-04,Lily Allen,18
-2009-04,Muse,1
-2009-04,My Chemical Romance,0
-2009-04,Panic At The Disco,7
-2009-04,Red Hot Chili Peppers,1
-2009-04,Rihanna,4
-2009-04,Shakira,1
-2009-04,The Black Eyed Peas,16
-2009-04,The Killers,28
-2009-05,Arctic Monkeys,0
-2009-05,Britney Spears,39
-2009-05,Calle 13,11
-2009-05,Christina Aguilera,0
-2009-05,Eminem,90
-2009-05,Fall Out Boy,1
-2009-05,Fergie,3
-2009-05,Franz Ferdinand,0
-2009-05,James Blunt,0
-2009-05,Julieta Venegas,0
-2009-05,Justin Timberlake,0
-2009-05,Lily Allen,11
-2009-05,Muse,9
-2009-05,My Chemical Romance,0
-2009-05,Panic At The Disco,1
-2009-05,Red Hot Chili Peppers,1
-2009-05,Rihanna,0
-2009-05,Shakira,4
-2009-05,The Black Eyed Peas,82
-2009-05,The Killers,17
-2009-06,Arctic Monkeys,0
-2009-06,Britney Spears,4
-2009-06,Calle 13,1
-2009-06,Christina Aguilera,2
-2009-06,Eminem,4
-2009-06,Fall Out Boy,0
-2009-06,Fergie,0
-2009-06,Franz Ferdinand,0
-2009-06,James Blunt,0
-2009-06,Julieta Venegas,2
-2009-06,Justin Timberlake,0
-2009-06,Lily Allen,0
-2009-06,Muse,1
-2009-06,My Chemical Romance,1
-2009-06,Panic At The Disco,0
-2009-06,Red Hot Chili Peppers,1
-2009-06,Rihanna,1
-2009-06,Shakira,3
-2009-06,The Black Eyed Peas,41
-2009-06,The Killers,3
+"month","artist","plays"
+"2006-09","Arctic Monkeys",0
+"2006-09","Britney Spears",0
+"2006-09","Calle 13",0
+"2006-09","Christina Aguilera",0
+"2006-09","Eminem",0
+"2006-09","Fall Out Boy",2
+"2006-09","Fergie",1
+"2006-09","Franz Ferdinand",2
+"2006-09","James Blunt",1
+"2006-09","Julieta Venegas",1
+"2006-09","Justin Timberlake",0
+"2006-09","Lily Allen",0
+"2006-09","Muse",4
+"2006-09","My Chemical Romance",1
+"2006-09","Panic At The Disco",1
+"2006-09","Red Hot Chili Peppers",0
+"2006-09","Rihanna",0
+"2006-09","Shakira",0
+"2006-09","The Black Eyed Peas",2
+"2006-09","The Killers",22
+"2006-10","Arctic Monkeys",0
+"2006-10","Britney Spears",0
+"2006-10","Calle 13",1
+"2006-10","Christina Aguilera",0
+"2006-10","Eminem",0
+"2006-10","Fall Out Boy",17
+"2006-10","Fergie",9
+"2006-10","Franz Ferdinand",6
+"2006-10","James Blunt",1
+"2006-10","Julieta Venegas",10
+"2006-10","Justin Timberlake",4
+"2006-10","Lily Allen",3
+"2006-10","Muse",26
+"2006-10","My Chemical Romance",40
+"2006-10","Panic At The Disco",12
+"2006-10","Red Hot Chili Peppers",7
+"2006-10","Rihanna",0
+"2006-10","Shakira",8
+"2006-10","The Black Eyed Peas",22
+"2006-10","The Killers",99
+"2006-11","Arctic Monkeys",1
+"2006-11","Britney Spears",0
+"2006-11","Calle 13",0
+"2006-11","Christina Aguilera",0
+"2006-11","Eminem",0
+"2006-11","Fall Out Boy",5
+"2006-11","Fergie",6
+"2006-11","Franz Ferdinand",7
+"2006-11","James Blunt",0
+"2006-11","Julieta Venegas",6
+"2006-11","Justin Timberlake",5
+"2006-11","Lily Allen",2
+"2006-11","Muse",13
+"2006-11","My Chemical Romance",27
+"2006-11","Panic At The Disco",6
+"2006-11","Red Hot Chili Peppers",16
+"2006-11","Rihanna",0
+"2006-11","Shakira",25
+"2006-11","The Black Eyed Peas",24
+"2006-11","The Killers",55
+"2006-12","Arctic Monkeys",5
+"2006-12","Britney Spears",0
+"2006-12","Calle 13",6
+"2006-12","Christina Aguilera",5
+"2006-12","Eminem",2
+"2006-12","Fall Out Boy",7
+"2006-12","Fergie",5
+"2006-12","Franz Ferdinand",4
+"2006-12","James Blunt",1
+"2006-12","Julieta Venegas",6
+"2006-12","Justin Timberlake",4
+"2006-12","Lily Allen",3
+"2006-12","Muse",19
+"2006-12","My Chemical Romance",32
+"2006-12","Panic At The Disco",1
+"2006-12","Red Hot Chili Peppers",2
+"2006-12","Rihanna",3
+"2006-12","Shakira",9
+"2006-12","The Black Eyed Peas",0
+"2006-12","The Killers",60
+"2007-01","Arctic Monkeys",7
+"2007-01","Britney Spears",1
+"2007-01","Calle 13",4
+"2007-01","Christina Aguilera",2
+"2007-01","Eminem",0
+"2007-01","Fall Out Boy",7
+"2007-01","Fergie",14
+"2007-01","Franz Ferdinand",2
+"2007-01","James Blunt",2
+"2007-01","Julieta Venegas",2
+"2007-01","Justin Timberlake",0
+"2007-01","Lily Allen",1
+"2007-01","Muse",9
+"2007-01","My Chemical Romance",20
+"2007-01","Panic At The Disco",4
+"2007-01","Red Hot Chili Peppers",4
+"2007-01","Rihanna",1
+"2007-01","Shakira",10
+"2007-01","The Black Eyed Peas",4
+"2007-01","The Killers",56
+"2007-02","Arctic Monkeys",2
+"2007-02","Britney Spears",0
+"2007-02","Calle 13",3
+"2007-02","Christina Aguilera",2
+"2007-02","Eminem",1
+"2007-02","Fall Out Boy",12
+"2007-02","Fergie",7
+"2007-02","Franz Ferdinand",12
+"2007-02","James Blunt",0
+"2007-02","Julieta Venegas",4
+"2007-02","Justin Timberlake",5
+"2007-02","Lily Allen",2
+"2007-02","Muse",7
+"2007-02","My Chemical Romance",20
+"2007-02","Panic At The Disco",11
+"2007-02","Red Hot Chili Peppers",13
+"2007-02","Rihanna",0
+"2007-02","Shakira",13
+"2007-02","The Black Eyed Peas",3
+"2007-02","The Killers",52
+"2007-03","Arctic Monkeys",0
+"2007-03","Britney Spears",3
+"2007-03","Calle 13",12
+"2007-03","Christina Aguilera",5
+"2007-03","Eminem",4
+"2007-03","Fall Out Boy",9
+"2007-03","Fergie",2
+"2007-03","Franz Ferdinand",6
+"2007-03","James Blunt",6
+"2007-03","Julieta Venegas",4
+"2007-03","Justin Timberlake",3
+"2007-03","Lily Allen",5
+"2007-03","Muse",3
+"2007-03","My Chemical Romance",3
+"2007-03","Panic At The Disco",8
+"2007-03","Red Hot Chili Peppers",12
+"2007-03","Rihanna",0
+"2007-03","Shakira",8
+"2007-03","The Black Eyed Peas",2
+"2007-03","The Killers",24
+"2007-04","Arctic Monkeys",10
+"2007-04","Britney Spears",0
+"2007-04","Calle 13",7
+"2007-04","Christina Aguilera",1
+"2007-04","Eminem",0
+"2007-04","Fall Out Boy",8
+"2007-04","Fergie",2
+"2007-04","Franz Ferdinand",2
+"2007-04","James Blunt",1
+"2007-04","Julieta Venegas",5
+"2007-04","Justin Timberlake",8
+"2007-04","Lily Allen",2
+"2007-04","Muse",11
+"2007-04","My Chemical Romance",9
+"2007-04","Panic At The Disco",9
+"2007-04","Red Hot Chili Peppers",14
+"2007-04","Rihanna",0
+"2007-04","Shakira",2
+"2007-04","The Black Eyed Peas",1
+"2007-04","The Killers",15
+"2007-05","Arctic Monkeys",24
+"2007-05","Britney Spears",6
+"2007-05","Calle 13",33
+"2007-05","Christina Aguilera",3
+"2007-05","Eminem",4
+"2007-05","Fall Out Boy",11
+"2007-05","Fergie",35
+"2007-05","Franz Ferdinand",5
+"2007-05","James Blunt",7
+"2007-05","Julieta Venegas",17
+"2007-05","Justin Timberlake",28
+"2007-05","Lily Allen",13
+"2007-05","Muse",28
+"2007-05","My Chemical Romance",28
+"2007-05","Panic At The Disco",24
+"2007-05","Red Hot Chili Peppers",6
+"2007-05","Rihanna",5
+"2007-05","Shakira",29
+"2007-05","The Black Eyed Peas",13
+"2007-05","The Killers",58
+"2007-06","Arctic Monkeys",58
+"2007-06","Britney Spears",4
+"2007-06","Calle 13",2
+"2007-06","Christina Aguilera",9
+"2007-06","Eminem",1
+"2007-06","Fall Out Boy",22
+"2007-06","Fergie",20
+"2007-06","Franz Ferdinand",1
+"2007-06","James Blunt",2
+"2007-06","Julieta Venegas",16
+"2007-06","Justin Timberlake",12
+"2007-06","Lily Allen",10
+"2007-06","Muse",28
+"2007-06","My Chemical Romance",51
+"2007-06","Panic At The Disco",32
+"2007-06","Red Hot Chili Peppers",14
+"2007-06","Rihanna",22
+"2007-06","Shakira",19
+"2007-06","The Black Eyed Peas",35
+"2007-06","The Killers",59
+"2007-07","Arctic Monkeys",47
+"2007-07","Britney Spears",4
+"2007-07","Calle 13",1
+"2007-07","Christina Aguilera",24
+"2007-07","Eminem",1
+"2007-07","Fall Out Boy",29
+"2007-07","Fergie",11
+"2007-07","Franz Ferdinand",0
+"2007-07","James Blunt",7
+"2007-07","Julieta Venegas",14
+"2007-07","Justin Timberlake",34
+"2007-07","Lily Allen",9
+"2007-07","Muse",32
+"2007-07","My Chemical Romance",36
+"2007-07","Panic At The Disco",13
+"2007-07","Red Hot Chili Peppers",16
+"2007-07","Rihanna",27
+"2007-07","Shakira",38
+"2007-07","The Black Eyed Peas",20
+"2007-07","The Killers",62
+"2007-08","Arctic Monkeys",31
+"2007-08","Britney Spears",2
+"2007-08","Calle 13",1
+"2007-08","Christina Aguilera",6
+"2007-08","Eminem",3
+"2007-08","Fall Out Boy",11
+"2007-08","Fergie",13
+"2007-08","Franz Ferdinand",7
+"2007-08","James Blunt",20
+"2007-08","Julieta Venegas",3
+"2007-08","Justin Timberlake",24
+"2007-08","Lily Allen",7
+"2007-08","Muse",8
+"2007-08","My Chemical Romance",27
+"2007-08","Panic At The Disco",4
+"2007-08","Red Hot Chili Peppers",12
+"2007-08","Rihanna",12
+"2007-08","Shakira",18
+"2007-08","The Black Eyed Peas",17
+"2007-08","The Killers",30
+"2007-09","Arctic Monkeys",36
+"2007-09","Britney Spears",20
+"2007-09","Calle 13",23
+"2007-09","Christina Aguilera",22
+"2007-09","Eminem",5
+"2007-09","Fall Out Boy",13
+"2007-09","Fergie",23
+"2007-09","Franz Ferdinand",2
+"2007-09","James Blunt",20
+"2007-09","Julieta Venegas",10
+"2007-09","Justin Timberlake",14
+"2007-09","Lily Allen",1
+"2007-09","Muse",3
+"2007-09","My Chemical Romance",12
+"2007-09","Panic At The Disco",2
+"2007-09","Red Hot Chili Peppers",8
+"2007-09","Rihanna",19
+"2007-09","Shakira",10
+"2007-09","The Black Eyed Peas",16
+"2007-09","The Killers",51
+"2007-10","Arctic Monkeys",54
+"2007-10","Britney Spears",21
+"2007-10","Calle 13",67
+"2007-10","Christina Aguilera",7
+"2007-10","Eminem",8
+"2007-10","Fall Out Boy",2
+"2007-10","Fergie",29
+"2007-10","Franz Ferdinand",2
+"2007-10","James Blunt",46
+"2007-10","Julieta Venegas",17
+"2007-10","Justin Timberlake",13
+"2007-10","Lily Allen",1
+"2007-10","Muse",18
+"2007-10","My Chemical Romance",38
+"2007-10","Panic At The Disco",12
+"2007-10","Red Hot Chili Peppers",29
+"2007-10","Rihanna",29
+"2007-10","Shakira",72
+"2007-10","The Black Eyed Peas",3
+"2007-10","The Killers",51
+"2007-11","Arctic Monkeys",15
+"2007-11","Britney Spears",15
+"2007-11","Calle 13",30
+"2007-11","Christina Aguilera",11
+"2007-11","Eminem",3
+"2007-11","Fall Out Boy",1
+"2007-11","Fergie",15
+"2007-11","Franz Ferdinand",0
+"2007-11","James Blunt",14
+"2007-11","Julieta Venegas",8
+"2007-11","Justin Timberlake",2
+"2007-11","Lily Allen",0
+"2007-11","Muse",0
+"2007-11","My Chemical Romance",76
+"2007-11","Panic At The Disco",27
+"2007-11","Red Hot Chili Peppers",15
+"2007-11","Rihanna",7
+"2007-11","Shakira",26
+"2007-11","The Black Eyed Peas",10
+"2007-11","The Killers",49
+"2007-12","Arctic Monkeys",22
+"2007-12","Britney Spears",51
+"2007-12","Calle 13",16
+"2007-12","Christina Aguilera",12
+"2007-12","Eminem",7
+"2007-12","Fall Out Boy",5
+"2007-12","Fergie",21
+"2007-12","Franz Ferdinand",1
+"2007-12","James Blunt",10
+"2007-12","Julieta Venegas",12
+"2007-12","Justin Timberlake",2
+"2007-12","Lily Allen",5
+"2007-12","Muse",2
+"2007-12","My Chemical Romance",38
+"2007-12","Panic At The Disco",6
+"2007-12","Red Hot Chili Peppers",11
+"2007-12","Rihanna",5
+"2007-12","Shakira",69
+"2007-12","The Black Eyed Peas",7
+"2007-12","The Killers",36
+"2008-01","Arctic Monkeys",9
+"2008-01","Britney Spears",10
+"2008-01","Calle 13",5
+"2008-01","Christina Aguilera",4
+"2008-01","Eminem",1
+"2008-01","Fall Out Boy",2
+"2008-01","Fergie",5
+"2008-01","Franz Ferdinand",4
+"2008-01","James Blunt",5
+"2008-01","Julieta Venegas",4
+"2008-01","Justin Timberlake",3
+"2008-01","Lily Allen",2
+"2008-01","Muse",2
+"2008-01","My Chemical Romance",4
+"2008-01","Panic At The Disco",1
+"2008-01","Red Hot Chili Peppers",4
+"2008-01","Rihanna",7
+"2008-01","Shakira",22
+"2008-01","The Black Eyed Peas",3
+"2008-01","The Killers",23
+"2008-02","Arctic Monkeys",21
+"2008-02","Britney Spears",31
+"2008-02","Calle 13",17
+"2008-02","Christina Aguilera",9
+"2008-02","Eminem",4
+"2008-02","Fall Out Boy",6
+"2008-02","Fergie",18
+"2008-02","Franz Ferdinand",4
+"2008-02","James Blunt",12
+"2008-02","Julieta Venegas",8
+"2008-02","Justin Timberlake",5
+"2008-02","Lily Allen",8
+"2008-02","Muse",1
+"2008-02","My Chemical Romance",23
+"2008-02","Panic At The Disco",0
+"2008-02","Red Hot Chili Peppers",8
+"2008-02","Rihanna",12
+"2008-02","Shakira",44
+"2008-02","The Black Eyed Peas",12
+"2008-02","The Killers",18
+"2008-03","Arctic Monkeys",37
+"2008-03","Britney Spears",55
+"2008-03","Calle 13",7
+"2008-03","Christina Aguilera",0
+"2008-03","Eminem",41
+"2008-03","Fall Out Boy",8
+"2008-03","Fergie",25
+"2008-03","Franz Ferdinand",3
+"2008-03","James Blunt",25
+"2008-03","Julieta Venegas",15
+"2008-03","Justin Timberlake",12
+"2008-03","Lily Allen",8
+"2008-03","Muse",27
+"2008-03","My Chemical Romance",17
+"2008-03","Panic At The Disco",16
+"2008-03","Red Hot Chili Peppers",17
+"2008-03","Rihanna",24
+"2008-03","Shakira",73
+"2008-03","The Black Eyed Peas",15
+"2008-03","The Killers",58
+"2008-04","Arctic Monkeys",8
+"2008-04","Britney Spears",48
+"2008-04","Calle 13",0
+"2008-04","Christina Aguilera",4
+"2008-04","Eminem",4
+"2008-04","Fall Out Boy",4
+"2008-04","Fergie",4
+"2008-04","Franz Ferdinand",1
+"2008-04","James Blunt",8
+"2008-04","Julieta Venegas",1
+"2008-04","Justin Timberlake",2
+"2008-04","Lily Allen",1
+"2008-04","Muse",15
+"2008-04","My Chemical Romance",4
+"2008-04","Panic At The Disco",11
+"2008-04","Red Hot Chili Peppers",2
+"2008-04","Rihanna",6
+"2008-04","Shakira",41
+"2008-04","The Black Eyed Peas",8
+"2008-04","The Killers",11
+"2008-05","Arctic Monkeys",50
+"2008-05","Britney Spears",20
+"2008-05","Calle 13",4
+"2008-05","Christina Aguilera",5
+"2008-05","Eminem",1
+"2008-05","Fall Out Boy",0
+"2008-05","Fergie",6
+"2008-05","Franz Ferdinand",2
+"2008-05","James Blunt",4
+"2008-05","Julieta Venegas",0
+"2008-05","Justin Timberlake",4
+"2008-05","Lily Allen",3
+"2008-05","Muse",38
+"2008-05","My Chemical Romance",2
+"2008-05","Panic At The Disco",5
+"2008-05","Red Hot Chili Peppers",3
+"2008-05","Rihanna",4
+"2008-05","Shakira",23
+"2008-05","The Black Eyed Peas",4
+"2008-05","The Killers",41
+"2008-06","Arctic Monkeys",3
+"2008-06","Britney Spears",6
+"2008-06","Calle 13",1
+"2008-06","Christina Aguilera",2
+"2008-06","Eminem",2
+"2008-06","Fall Out Boy",0
+"2008-06","Fergie",2
+"2008-06","Franz Ferdinand",1
+"2008-06","James Blunt",2
+"2008-06","Julieta Venegas",0
+"2008-06","Justin Timberlake",0
+"2008-06","Lily Allen",0
+"2008-06","Muse",4
+"2008-06","My Chemical Romance",0
+"2008-06","Panic At The Disco",1
+"2008-06","Red Hot Chili Peppers",2
+"2008-06","Rihanna",0
+"2008-06","Shakira",1
+"2008-06","The Black Eyed Peas",3
+"2008-06","The Killers",4
+"2008-07","Arctic Monkeys",0
+"2008-07","Britney Spears",0
+"2008-07","Calle 13",0
+"2008-07","Christina Aguilera",0
+"2008-07","Eminem",0
+"2008-07","Fall Out Boy",0
+"2008-07","Fergie",1
+"2008-07","Franz Ferdinand",0
+"2008-07","James Blunt",0
+"2008-07","Julieta Venegas",1
+"2008-07","Justin Timberlake",0
+"2008-07","Lily Allen",0
+"2008-07","Muse",2
+"2008-07","My Chemical Romance",0
+"2008-07","Panic At The Disco",0
+"2008-07","Red Hot Chili Peppers",0
+"2008-07","Rihanna",2
+"2008-07","Shakira",0
+"2008-07","The Black Eyed Peas",1
+"2008-07","The Killers",0
+"2008-08","Arctic Monkeys",3
+"2008-08","Britney Spears",0
+"2008-08","Calle 13",0
+"2008-08","Christina Aguilera",0
+"2008-08","Eminem",0
+"2008-08","Fall Out Boy",0
+"2008-08","Fergie",1
+"2008-08","Franz Ferdinand",1
+"2008-08","James Blunt",8
+"2008-08","Julieta Venegas",4
+"2008-08","Justin Timberlake",2
+"2008-08","Lily Allen",0
+"2008-08","Muse",2
+"2008-08","My Chemical Romance",0
+"2008-08","Panic At The Disco",1
+"2008-08","Red Hot Chili Peppers",1
+"2008-08","Rihanna",6
+"2008-08","Shakira",0
+"2008-08","The Black Eyed Peas",0
+"2008-08","The Killers",30
+"2008-09","Arctic Monkeys",19
+"2008-09","Britney Spears",26
+"2008-09","Calle 13",0
+"2008-09","Christina Aguilera",57
+"2008-09","Eminem",0
+"2008-09","Fall Out Boy",0
+"2008-09","Fergie",1
+"2008-09","Franz Ferdinand",0
+"2008-09","James Blunt",10
+"2008-09","Julieta Venegas",7
+"2008-09","Justin Timberlake",5
+"2008-09","Lily Allen",0
+"2008-09","Muse",46
+"2008-09","My Chemical Romance",1
+"2008-09","Panic At The Disco",1
+"2008-09","Red Hot Chili Peppers",0
+"2008-09","Rihanna",40
+"2008-09","Shakira",1
+"2008-09","The Black Eyed Peas",0
+"2008-09","The Killers",83
+"2008-10","Arctic Monkeys",0
+"2008-10","Britney Spears",5
+"2008-10","Calle 13",0
+"2008-10","Christina Aguilera",5
+"2008-10","Eminem",0
+"2008-10","Fall Out Boy",0
+"2008-10","Fergie",0
+"2008-10","Franz Ferdinand",0
+"2008-10","James Blunt",0
+"2008-10","Julieta Venegas",0
+"2008-10","Justin Timberlake",0
+"2008-10","Lily Allen",0
+"2008-10","Muse",0
+"2008-10","My Chemical Romance",0
+"2008-10","Panic At The Disco",0
+"2008-10","Red Hot Chili Peppers",0
+"2008-10","Rihanna",2
+"2008-10","Shakira",0
+"2008-10","The Black Eyed Peas",0
+"2008-10","The Killers",6
+"2008-11","Arctic Monkeys",0
+"2008-11","Britney Spears",0
+"2008-11","Calle 13",0
+"2008-11","Christina Aguilera",0
+"2008-11","Eminem",0
+"2008-11","Fall Out Boy",0
+"2008-11","Fergie",0
+"2008-11","Franz Ferdinand",0
+"2008-11","James Blunt",0
+"2008-11","Julieta Venegas",0
+"2008-11","Justin Timberlake",0
+"2008-11","Lily Allen",0
+"2008-11","Muse",0
+"2008-11","My Chemical Romance",0
+"2008-11","Panic At The Disco",0
+"2008-11","Red Hot Chili Peppers",0
+"2008-11","Rihanna",0
+"2008-11","Shakira",0
+"2008-11","The Black Eyed Peas",0
+"2008-11","The Killers",0
+"2008-12","Arctic Monkeys",0
+"2008-12","Britney Spears",0
+"2008-12","Calle 13",0
+"2008-12","Christina Aguilera",0
+"2008-12","Eminem",0
+"2008-12","Fall Out Boy",0
+"2008-12","Fergie",0
+"2008-12","Franz Ferdinand",0
+"2008-12","James Blunt",0
+"2008-12","Julieta Venegas",0
+"2008-12","Justin Timberlake",0
+"2008-12","Lily Allen",0
+"2008-12","Muse",0
+"2008-12","My Chemical Romance",0
+"2008-12","Panic At The Disco",0
+"2008-12","Red Hot Chili Peppers",0
+"2008-12","Rihanna",0
+"2008-12","Shakira",0
+"2008-12","The Black Eyed Peas",0
+"2008-12","The Killers",1
+"2009-01","Arctic Monkeys",0
+"2009-01","Britney Spears",3
+"2009-01","Calle 13",1
+"2009-01","Christina Aguilera",0
+"2009-01","Eminem",6
+"2009-01","Fall Out Boy",0
+"2009-01","Fergie",0
+"2009-01","Franz Ferdinand",1
+"2009-01","James Blunt",1
+"2009-01","Julieta Venegas",0
+"2009-01","Justin Timberlake",3
+"2009-01","Lily Allen",3
+"2009-01","Muse",0
+"2009-01","My Chemical Romance",1
+"2009-01","Panic At The Disco",0
+"2009-01","Red Hot Chili Peppers",0
+"2009-01","Rihanna",5
+"2009-01","Shakira",4
+"2009-01","The Black Eyed Peas",1
+"2009-01","The Killers",21
+"2009-02","Arctic Monkeys",1
+"2009-02","Britney Spears",3
+"2009-02","Calle 13",20
+"2009-02","Christina Aguilera",2
+"2009-02","Eminem",2
+"2009-02","Fall Out Boy",3
+"2009-02","Fergie",1
+"2009-02","Franz Ferdinand",40
+"2009-02","James Blunt",0
+"2009-02","Julieta Venegas",0
+"2009-02","Justin Timberlake",1
+"2009-02","Lily Allen",42
+"2009-02","Muse",4
+"2009-02","My Chemical Romance",0
+"2009-02","Panic At The Disco",15
+"2009-02","Red Hot Chili Peppers",0
+"2009-02","Rihanna",2
+"2009-02","Shakira",2
+"2009-02","The Black Eyed Peas",13
+"2009-02","The Killers",12
+"2009-03","Arctic Monkeys",2
+"2009-03","Britney Spears",14
+"2009-03","Calle 13",17
+"2009-03","Christina Aguilera",2
+"2009-03","Eminem",2
+"2009-03","Fall Out Boy",2
+"2009-03","Fergie",2
+"2009-03","Franz Ferdinand",23
+"2009-03","James Blunt",0
+"2009-03","Julieta Venegas",1
+"2009-03","Justin Timberlake",2
+"2009-03","Lily Allen",63
+"2009-03","Muse",5
+"2009-03","My Chemical Romance",4
+"2009-03","Panic At The Disco",10
+"2009-03","Red Hot Chili Peppers",1
+"2009-03","Rihanna",2
+"2009-03","Shakira",2
+"2009-03","The Black Eyed Peas",7
+"2009-03","The Killers",93
+"2009-04","Arctic Monkeys",0
+"2009-04","Britney Spears",10
+"2009-04","Calle 13",14
+"2009-04","Christina Aguilera",0
+"2009-04","Eminem",17
+"2009-04","Fall Out Boy",0
+"2009-04","Fergie",3
+"2009-04","Franz Ferdinand",9
+"2009-04","James Blunt",0
+"2009-04","Julieta Venegas",4
+"2009-04","Justin Timberlake",0
+"2009-04","Lily Allen",18
+"2009-04","Muse",1
+"2009-04","My Chemical Romance",0
+"2009-04","Panic At The Disco",7
+"2009-04","Red Hot Chili Peppers",1
+"2009-04","Rihanna",4
+"2009-04","Shakira",1
+"2009-04","The Black Eyed Peas",16
+"2009-04","The Killers",28
+"2009-05","Arctic Monkeys",0
+"2009-05","Britney Spears",39
+"2009-05","Calle 13",11
+"2009-05","Christina Aguilera",0
+"2009-05","Eminem",90
+"2009-05","Fall Out Boy",1
+"2009-05","Fergie",3
+"2009-05","Franz Ferdinand",0
+"2009-05","James Blunt",0
+"2009-05","Julieta Venegas",0
+"2009-05","Justin Timberlake",0
+"2009-05","Lily Allen",11
+"2009-05","Muse",9
+"2009-05","My Chemical Romance",0
+"2009-05","Panic At The Disco",1
+"2009-05","Red Hot Chili Peppers",1
+"2009-05","Rihanna",0
+"2009-05","Shakira",4
+"2009-05","The Black Eyed Peas",82
+"2009-05","The Killers",17
+"2009-06","Arctic Monkeys",0
+"2009-06","Britney Spears",4
+"2009-06","Calle 13",1
+"2009-06","Christina Aguilera",2
+"2009-06","Eminem",4
+"2009-06","Fall Out Boy",0
+"2009-06","Fergie",0
+"2009-06","Franz Ferdinand",0
+"2009-06","James Blunt",0
+"2009-06","Julieta Venegas",2
+"2009-06","Justin Timberlake",0
+"2009-06","Lily Allen",0
+"2009-06","Muse",1
+"2009-06","My Chemical Romance",1
+"2009-06","Panic At The Disco",0
+"2009-06","Red Hot Chili Peppers",1
+"2009-06","Rihanna",1
+"2009-06","Shakira",3
+"2009-06","The Black Eyed Peas",41
+"2009-06","The Killers",3

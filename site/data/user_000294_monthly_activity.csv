@@ -1,801 +1,801 @@
-month,artist,plays
-2006-01,Antony And The Johnsons,0
-2006-01,Arcade Fire,10
-2006-01,Blondie,4
-2006-01,David Bowie,62
-2006-01,Dusty Springfield,0
-2006-01,Elton John,7
-2006-01,Franz Ferdinand,61
-2006-01,Hole,3
-2006-01,Iggy Pop,5
-2006-01,Kate Bush,10
-2006-01,Leonard Cohen,1
-2006-01,Lou Reed,5
-2006-01,Madonna,6
-2006-01,Paul Mccartney,2
-2006-01,Pet Shop Boys,10
-2006-01,Robbie Williams,5
-2006-01,Scissor Sisters,2
-2006-01,The Beatles,29
-2006-01,The Dresden Dolls,41
-2006-01,The White Stripes,10
-2006-02,Antony And The Johnsons,0
-2006-02,Arcade Fire,16
-2006-02,Blondie,8
-2006-02,David Bowie,84
-2006-02,Dusty Springfield,8
-2006-02,Elton John,21
-2006-02,Franz Ferdinand,50
-2006-02,Hole,1
-2006-02,Iggy Pop,4
-2006-02,Kate Bush,17
-2006-02,Leonard Cohen,0
-2006-02,Lou Reed,2
-2006-02,Madonna,14
-2006-02,Paul Mccartney,1
-2006-02,Pet Shop Boys,56
-2006-02,Robbie Williams,11
-2006-02,Scissor Sisters,3
-2006-02,The Beatles,46
-2006-02,The Dresden Dolls,35
-2006-02,The White Stripes,18
-2006-03,Antony And The Johnsons,0
-2006-03,Arcade Fire,8
-2006-03,Blondie,1
-2006-03,David Bowie,84
-2006-03,Dusty Springfield,19
-2006-03,Elton John,6
-2006-03,Franz Ferdinand,22
-2006-03,Hole,2
-2006-03,Iggy Pop,6
-2006-03,Kate Bush,23
-2006-03,Leonard Cohen,62
-2006-03,Lou Reed,3
-2006-03,Madonna,11
-2006-03,Paul Mccartney,0
-2006-03,Pet Shop Boys,60
-2006-03,Robbie Williams,7
-2006-03,Scissor Sisters,1
-2006-03,The Beatles,43
-2006-03,The Dresden Dolls,29
-2006-03,The White Stripes,48
-2006-04,Antony And The Johnsons,49
-2006-04,Arcade Fire,6
-2006-04,Blondie,3
-2006-04,David Bowie,80
-2006-04,Dusty Springfield,76
-2006-04,Elton John,15
-2006-04,Franz Ferdinand,56
-2006-04,Hole,1
-2006-04,Iggy Pop,3
-2006-04,Kate Bush,44
-2006-04,Leonard Cohen,14
-2006-04,Lou Reed,30
-2006-04,Madonna,7
-2006-04,Paul Mccartney,4
-2006-04,Pet Shop Boys,166
-2006-04,Robbie Williams,6
-2006-04,Scissor Sisters,1
-2006-04,The Beatles,25
-2006-04,The Dresden Dolls,112
-2006-04,The White Stripes,20
-2006-05,Antony And The Johnsons,8
-2006-05,Arcade Fire,3
-2006-05,Blondie,5
-2006-05,David Bowie,74
-2006-05,Dusty Springfield,19
-2006-05,Elton John,19
-2006-05,Franz Ferdinand,28
-2006-05,Hole,4
-2006-05,Iggy Pop,1
-2006-05,Kate Bush,12
-2006-05,Leonard Cohen,14
-2006-05,Lou Reed,4
-2006-05,Madonna,4
-2006-05,Paul Mccartney,3
-2006-05,Pet Shop Boys,181
-2006-05,Robbie Williams,9
-2006-05,Scissor Sisters,3
-2006-05,The Beatles,15
-2006-05,The Dresden Dolls,34
-2006-05,The White Stripes,3
-2006-06,Antony And The Johnsons,9
-2006-06,Arcade Fire,8
-2006-06,Blondie,8
-2006-06,David Bowie,84
-2006-06,Dusty Springfield,17
-2006-06,Elton John,16
-2006-06,Franz Ferdinand,25
-2006-06,Hole,3
-2006-06,Iggy Pop,3
-2006-06,Kate Bush,16
-2006-06,Leonard Cohen,7
-2006-06,Lou Reed,14
-2006-06,Madonna,23
-2006-06,Paul Mccartney,3
-2006-06,Pet Shop Boys,169
-2006-06,Robbie Williams,11
-2006-06,Scissor Sisters,3
-2006-06,The Beatles,9
-2006-06,The Dresden Dolls,30
-2006-06,The White Stripes,12
-2006-07,Antony And The Johnsons,3
-2006-07,Arcade Fire,2
-2006-07,Blondie,13
-2006-07,David Bowie,54
-2006-07,Dusty Springfield,35
-2006-07,Elton John,19
-2006-07,Franz Ferdinand,27
-2006-07,Hole,108
-2006-07,Iggy Pop,38
-2006-07,Kate Bush,61
-2006-07,Leonard Cohen,3
-2006-07,Lou Reed,22
-2006-07,Madonna,33
-2006-07,Paul Mccartney,2
-2006-07,Pet Shop Boys,77
-2006-07,Robbie Williams,13
-2006-07,Scissor Sisters,8
-2006-07,The Beatles,51
-2006-07,The Dresden Dolls,48
-2006-07,The White Stripes,3
-2006-08,Antony And The Johnsons,9
-2006-08,Arcade Fire,0
-2006-08,Blondie,0
-2006-08,David Bowie,38
-2006-08,Dusty Springfield,5
-2006-08,Elton John,5
-2006-08,Franz Ferdinand,21
-2006-08,Hole,7
-2006-08,Iggy Pop,5
-2006-08,Kate Bush,55
-2006-08,Leonard Cohen,0
-2006-08,Lou Reed,8
-2006-08,Madonna,8
-2006-08,Paul Mccartney,0
-2006-08,Pet Shop Boys,81
-2006-08,Robbie Williams,11
-2006-08,Scissor Sisters,8
-2006-08,The Beatles,55
-2006-08,The Dresden Dolls,42
-2006-08,The White Stripes,11
-2006-09,Antony And The Johnsons,36
-2006-09,Arcade Fire,0
-2006-09,Blondie,5
-2006-09,David Bowie,13
-2006-09,Dusty Springfield,1
-2006-09,Elton John,2
-2006-09,Franz Ferdinand,2
-2006-09,Hole,14
-2006-09,Iggy Pop,1
-2006-09,Kate Bush,3
-2006-09,Leonard Cohen,4
-2006-09,Lou Reed,15
-2006-09,Madonna,10
-2006-09,Paul Mccartney,0
-2006-09,Pet Shop Boys,50
-2006-09,Robbie Williams,9
-2006-09,Scissor Sisters,25
-2006-09,The Beatles,10
-2006-09,The Dresden Dolls,38
-2006-09,The White Stripes,3
-2006-10,Antony And The Johnsons,18
-2006-10,Arcade Fire,2
-2006-10,Blondie,1
-2006-10,David Bowie,37
-2006-10,Dusty Springfield,5
-2006-10,Elton John,16
-2006-10,Franz Ferdinand,2
-2006-10,Hole,3
-2006-10,Iggy Pop,1
-2006-10,Kate Bush,14
-2006-10,Leonard Cohen,0
-2006-10,Lou Reed,2
-2006-10,Madonna,1
-2006-10,Paul Mccartney,0
-2006-10,Pet Shop Boys,20
-2006-10,Robbie Williams,5
-2006-10,Scissor Sisters,8
-2006-10,The Beatles,8
-2006-10,The Dresden Dolls,33
-2006-10,The White Stripes,2
-2006-11,Antony And The Johnsons,5
-2006-11,Arcade Fire,0
-2006-11,Blondie,3
-2006-11,David Bowie,26
-2006-11,Dusty Springfield,5
-2006-11,Elton John,1
-2006-11,Franz Ferdinand,5
-2006-11,Hole,4
-2006-11,Iggy Pop,2
-2006-11,Kate Bush,15
-2006-11,Leonard Cohen,1
-2006-11,Lou Reed,0
-2006-11,Madonna,2
-2006-11,Paul Mccartney,0
-2006-11,Pet Shop Boys,51
-2006-11,Robbie Williams,3
-2006-11,Scissor Sisters,57
-2006-11,The Beatles,14
-2006-11,The Dresden Dolls,59
-2006-11,The White Stripes,0
-2006-12,Antony And The Johnsons,9
-2006-12,Arcade Fire,3
-2006-12,Blondie,4
-2006-12,David Bowie,10
-2006-12,Dusty Springfield,11
-2006-12,Elton John,16
-2006-12,Franz Ferdinand,14
-2006-12,Hole,14
-2006-12,Iggy Pop,20
-2006-12,Kate Bush,42
-2006-12,Leonard Cohen,1
-2006-12,Lou Reed,1
-2006-12,Madonna,2
-2006-12,Paul Mccartney,3
-2006-12,Pet Shop Boys,93
-2006-12,Robbie Williams,5
-2006-12,Scissor Sisters,19
-2006-12,The Beatles,4
-2006-12,The Dresden Dolls,9
-2006-12,The White Stripes,10
-2007-01,Antony And The Johnsons,1
-2007-01,Arcade Fire,5
-2007-01,Blondie,0
-2007-01,David Bowie,55
-2007-01,Dusty Springfield,7
-2007-01,Elton John,1
-2007-01,Franz Ferdinand,0
-2007-01,Hole,2
-2007-01,Iggy Pop,0
-2007-01,Kate Bush,19
-2007-01,Leonard Cohen,2
-2007-01,Lou Reed,2
-2007-01,Madonna,1
-2007-01,Paul Mccartney,0
-2007-01,Pet Shop Boys,56
-2007-01,Robbie Williams,6
-2007-01,Scissor Sisters,19
-2007-01,The Beatles,4
-2007-01,The Dresden Dolls,10
-2007-01,The White Stripes,5
-2007-02,Antony And The Johnsons,1
-2007-02,Arcade Fire,43
-2007-02,Blondie,0
-2007-02,David Bowie,75
-2007-02,Dusty Springfield,1
-2007-02,Elton John,14
-2007-02,Franz Ferdinand,0
-2007-02,Hole,0
-2007-02,Iggy Pop,1
-2007-02,Kate Bush,22
-2007-02,Leonard Cohen,0
-2007-02,Lou Reed,21
-2007-02,Madonna,1
-2007-02,Paul Mccartney,3
-2007-02,Pet Shop Boys,95
-2007-02,Robbie Williams,0
-2007-02,Scissor Sisters,101
-2007-02,The Beatles,3
-2007-02,The Dresden Dolls,0
-2007-02,The White Stripes,1
-2007-03,Antony And The Johnsons,33
-2007-03,Arcade Fire,88
-2007-03,Blondie,0
-2007-03,David Bowie,24
-2007-03,Dusty Springfield,21
-2007-03,Elton John,14
-2007-03,Franz Ferdinand,5
-2007-03,Hole,1
-2007-03,Iggy Pop,0
-2007-03,Kate Bush,5
-2007-03,Leonard Cohen,0
-2007-03,Lou Reed,0
-2007-03,Madonna,0
-2007-03,Paul Mccartney,4
-2007-03,Pet Shop Boys,59
-2007-03,Robbie Williams,1
-2007-03,Scissor Sisters,1
-2007-03,The Beatles,49
-2007-03,The Dresden Dolls,3
-2007-03,The White Stripes,0
-2007-04,Antony And The Johnsons,10
-2007-04,Arcade Fire,3
-2007-04,Blondie,1
-2007-04,David Bowie,16
-2007-04,Dusty Springfield,21
-2007-04,Elton John,12
-2007-04,Franz Ferdinand,0
-2007-04,Hole,0
-2007-04,Iggy Pop,0
-2007-04,Kate Bush,100
-2007-04,Leonard Cohen,17
-2007-04,Lou Reed,0
-2007-04,Madonna,1
-2007-04,Paul Mccartney,7
-2007-04,Pet Shop Boys,29
-2007-04,Robbie Williams,6
-2007-04,Scissor Sisters,1
-2007-04,The Beatles,1
-2007-04,The Dresden Dolls,3
-2007-04,The White Stripes,0
-2007-05,Antony And The Johnsons,0
-2007-05,Arcade Fire,0
-2007-05,Blondie,10
-2007-05,David Bowie,5
-2007-05,Dusty Springfield,0
-2007-05,Elton John,36
-2007-05,Franz Ferdinand,0
-2007-05,Hole,0
-2007-05,Iggy Pop,0
-2007-05,Kate Bush,30
-2007-05,Leonard Cohen,6
-2007-05,Lou Reed,12
-2007-05,Madonna,0
-2007-05,Paul Mccartney,1
-2007-05,Pet Shop Boys,68
-2007-05,Robbie Williams,2
-2007-05,Scissor Sisters,0
-2007-05,The Beatles,18
-2007-05,The Dresden Dolls,0
-2007-05,The White Stripes,2
-2007-06,Antony And The Johnsons,0
-2007-06,Arcade Fire,5
-2007-06,Blondie,5
-2007-06,David Bowie,88
-2007-06,Dusty Springfield,8
-2007-06,Elton John,41
-2007-06,Franz Ferdinand,3
-2007-06,Hole,0
-2007-06,Iggy Pop,1
-2007-06,Kate Bush,13
-2007-06,Leonard Cohen,2
-2007-06,Lou Reed,11
-2007-06,Madonna,3
-2007-06,Paul Mccartney,57
-2007-06,Pet Shop Boys,20
-2007-06,Robbie Williams,3
-2007-06,Scissor Sisters,4
-2007-06,The Beatles,31
-2007-06,The Dresden Dolls,5
-2007-06,The White Stripes,4
-2007-07,Antony And The Johnsons,0
-2007-07,Arcade Fire,3
-2007-07,Blondie,0
-2007-07,David Bowie,16
-2007-07,Dusty Springfield,2
-2007-07,Elton John,3
-2007-07,Franz Ferdinand,0
-2007-07,Hole,0
-2007-07,Iggy Pop,0
-2007-07,Kate Bush,99
-2007-07,Leonard Cohen,4
-2007-07,Lou Reed,2
-2007-07,Madonna,6
-2007-07,Paul Mccartney,1
-2007-07,Pet Shop Boys,13
-2007-07,Robbie Williams,4
-2007-07,Scissor Sisters,2
-2007-07,The Beatles,1
-2007-07,The Dresden Dolls,1
-2007-07,The White Stripes,0
-2007-08,Antony And The Johnsons,0
-2007-08,Arcade Fire,3
-2007-08,Blondie,0
-2007-08,David Bowie,28
-2007-08,Dusty Springfield,0
-2007-08,Elton John,0
-2007-08,Franz Ferdinand,0
-2007-08,Hole,0
-2007-08,Iggy Pop,0
-2007-08,Kate Bush,28
-2007-08,Leonard Cohen,1
-2007-08,Lou Reed,1
-2007-08,Madonna,0
-2007-08,Paul Mccartney,1
-2007-08,Pet Shop Boys,8
-2007-08,Robbie Williams,0
-2007-08,Scissor Sisters,0
-2007-08,The Beatles,3
-2007-08,The Dresden Dolls,2
-2007-08,The White Stripes,0
-2007-09,Antony And The Johnsons,5
-2007-09,Arcade Fire,5
-2007-09,Blondie,5
-2007-09,David Bowie,28
-2007-09,Dusty Springfield,1
-2007-09,Elton John,30
-2007-09,Franz Ferdinand,4
-2007-09,Hole,1
-2007-09,Iggy Pop,6
-2007-09,Kate Bush,7
-2007-09,Leonard Cohen,35
-2007-09,Lou Reed,0
-2007-09,Madonna,8
-2007-09,Paul Mccartney,2
-2007-09,Pet Shop Boys,68
-2007-09,Robbie Williams,38
-2007-09,Scissor Sisters,17
-2007-09,The Beatles,8
-2007-09,The Dresden Dolls,5
-2007-09,The White Stripes,14
-2007-10,Antony And The Johnsons,3
-2007-10,Arcade Fire,3
-2007-10,Blondie,0
-2007-10,David Bowie,62
-2007-10,Dusty Springfield,9
-2007-10,Elton John,35
-2007-10,Franz Ferdinand,4
-2007-10,Hole,2
-2007-10,Iggy Pop,5
-2007-10,Kate Bush,30
-2007-10,Leonard Cohen,6
-2007-10,Lou Reed,3
-2007-10,Madonna,9
-2007-10,Paul Mccartney,10
-2007-10,Pet Shop Boys,53
-2007-10,Robbie Williams,6
-2007-10,Scissor Sisters,8
-2007-10,The Beatles,12
-2007-10,The Dresden Dolls,86
-2007-10,The White Stripes,14
-2007-11,Antony And The Johnsons,2
-2007-11,Arcade Fire,0
-2007-11,Blondie,1
-2007-11,David Bowie,24
-2007-11,Dusty Springfield,2
-2007-11,Elton John,8
-2007-11,Franz Ferdinand,11
-2007-11,Hole,2
-2007-11,Iggy Pop,0
-2007-11,Kate Bush,5
-2007-11,Leonard Cohen,17
-2007-11,Lou Reed,3
-2007-11,Madonna,4
-2007-11,Paul Mccartney,8
-2007-11,Pet Shop Boys,23
-2007-11,Robbie Williams,11
-2007-11,Scissor Sisters,13
-2007-11,The Beatles,13
-2007-11,The Dresden Dolls,6
-2007-11,The White Stripes,3
-2007-12,Antony And The Johnsons,23
-2007-12,Arcade Fire,8
-2007-12,Blondie,10
-2007-12,David Bowie,67
-2007-12,Dusty Springfield,5
-2007-12,Elton John,20
-2007-12,Franz Ferdinand,3
-2007-12,Hole,3
-2007-12,Iggy Pop,2
-2007-12,Kate Bush,23
-2007-12,Leonard Cohen,5
-2007-12,Lou Reed,8
-2007-12,Madonna,10
-2007-12,Paul Mccartney,6
-2007-12,Pet Shop Boys,79
-2007-12,Robbie Williams,10
-2007-12,Scissor Sisters,8
-2007-12,The Beatles,19
-2007-12,The Dresden Dolls,50
-2007-12,The White Stripes,9
-2008-01,Antony And The Johnsons,5
-2008-01,Arcade Fire,3
-2008-01,Blondie,1
-2008-01,David Bowie,30
-2008-01,Dusty Springfield,2
-2008-01,Elton John,94
-2008-01,Franz Ferdinand,4
-2008-01,Hole,3
-2008-01,Iggy Pop,3
-2008-01,Kate Bush,10
-2008-01,Leonard Cohen,3
-2008-01,Lou Reed,1
-2008-01,Madonna,2
-2008-01,Paul Mccartney,4
-2008-01,Pet Shop Boys,21
-2008-01,Robbie Williams,12
-2008-01,Scissor Sisters,32
-2008-01,The Beatles,28
-2008-01,The Dresden Dolls,12
-2008-01,The White Stripes,7
-2008-02,Antony And The Johnsons,1
-2008-02,Arcade Fire,2
-2008-02,Blondie,2
-2008-02,David Bowie,97
-2008-02,Dusty Springfield,5
-2008-02,Elton John,18
-2008-02,Franz Ferdinand,12
-2008-02,Hole,2
-2008-02,Iggy Pop,3
-2008-02,Kate Bush,2
-2008-02,Leonard Cohen,7
-2008-02,Lou Reed,2
-2008-02,Madonna,9
-2008-02,Paul Mccartney,6
-2008-02,Pet Shop Boys,23
-2008-02,Robbie Williams,6
-2008-02,Scissor Sisters,24
-2008-02,The Beatles,17
-2008-02,The Dresden Dolls,8
-2008-02,The White Stripes,4
-2008-03,Antony And The Johnsons,5
-2008-03,Arcade Fire,2
-2008-03,Blondie,4
-2008-03,David Bowie,51
-2008-03,Dusty Springfield,4
-2008-03,Elton John,128
-2008-03,Franz Ferdinand,33
-2008-03,Hole,2
-2008-03,Iggy Pop,3
-2008-03,Kate Bush,8
-2008-03,Leonard Cohen,3
-2008-03,Lou Reed,3
-2008-03,Madonna,3
-2008-03,Paul Mccartney,2
-2008-03,Pet Shop Boys,13
-2008-03,Robbie Williams,10
-2008-03,Scissor Sisters,7
-2008-03,The Beatles,9
-2008-03,The Dresden Dolls,13
-2008-03,The White Stripes,1
-2008-04,Antony And The Johnsons,2
-2008-04,Arcade Fire,2
-2008-04,Blondie,1
-2008-04,David Bowie,105
-2008-04,Dusty Springfield,7
-2008-04,Elton John,34
-2008-04,Franz Ferdinand,17
-2008-04,Hole,5
-2008-04,Iggy Pop,6
-2008-04,Kate Bush,16
-2008-04,Leonard Cohen,11
-2008-04,Lou Reed,8
-2008-04,Madonna,3
-2008-04,Paul Mccartney,3
-2008-04,Pet Shop Boys,34
-2008-04,Robbie Williams,12
-2008-04,Scissor Sisters,11
-2008-04,The Beatles,9
-2008-04,The Dresden Dolls,10
-2008-04,The White Stripes,8
-2008-05,Antony And The Johnsons,15
-2008-05,Arcade Fire,9
-2008-05,Blondie,4
-2008-05,David Bowie,64
-2008-05,Dusty Springfield,2
-2008-05,Elton John,23
-2008-05,Franz Ferdinand,7
-2008-05,Hole,1
-2008-05,Iggy Pop,0
-2008-05,Kate Bush,33
-2008-05,Leonard Cohen,2
-2008-05,Lou Reed,5
-2008-05,Madonna,17
-2008-05,Paul Mccartney,3
-2008-05,Pet Shop Boys,17
-2008-05,Robbie Williams,7
-2008-05,Scissor Sisters,15
-2008-05,The Beatles,47
-2008-05,The Dresden Dolls,120
-2008-05,The White Stripes,4
-2008-06,Antony And The Johnsons,7
-2008-06,Arcade Fire,6
-2008-06,Blondie,1
-2008-06,David Bowie,20
-2008-06,Dusty Springfield,2
-2008-06,Elton John,9
-2008-06,Franz Ferdinand,3
-2008-06,Hole,7
-2008-06,Iggy Pop,4
-2008-06,Kate Bush,6
-2008-06,Leonard Cohen,3
-2008-06,Lou Reed,5
-2008-06,Madonna,2
-2008-06,Paul Mccartney,1
-2008-06,Pet Shop Boys,6
-2008-06,Robbie Williams,21
-2008-06,Scissor Sisters,12
-2008-06,The Beatles,8
-2008-06,The Dresden Dolls,21
-2008-06,The White Stripes,4
-2008-07,Antony And The Johnsons,6
-2008-07,Arcade Fire,1
-2008-07,Blondie,0
-2008-07,David Bowie,44
-2008-07,Dusty Springfield,1
-2008-07,Elton John,19
-2008-07,Franz Ferdinand,1
-2008-07,Hole,1
-2008-07,Iggy Pop,2
-2008-07,Kate Bush,31
-2008-07,Leonard Cohen,7
-2008-07,Lou Reed,4
-2008-07,Madonna,2
-2008-07,Paul Mccartney,29
-2008-07,Pet Shop Boys,5
-2008-07,Robbie Williams,34
-2008-07,Scissor Sisters,3
-2008-07,The Beatles,137
-2008-07,The Dresden Dolls,17
-2008-07,The White Stripes,2
-2008-08,Antony And The Johnsons,2
-2008-08,Arcade Fire,3
-2008-08,Blondie,0
-2008-08,David Bowie,2
-2008-08,Dusty Springfield,1
-2008-08,Elton John,19
-2008-08,Franz Ferdinand,1
-2008-08,Hole,1
-2008-08,Iggy Pop,1
-2008-08,Kate Bush,1
-2008-08,Leonard Cohen,1
-2008-08,Lou Reed,1
-2008-08,Madonna,20
-2008-08,Paul Mccartney,1
-2008-08,Pet Shop Boys,0
-2008-08,Robbie Williams,36
-2008-08,Scissor Sisters,0
-2008-08,The Beatles,17
-2008-08,The Dresden Dolls,17
-2008-08,The White Stripes,0
-2008-09,Antony And The Johnsons,0
-2008-09,Arcade Fire,0
-2008-09,Blondie,14
-2008-09,David Bowie,31
-2008-09,Dusty Springfield,0
-2008-09,Elton John,0
-2008-09,Franz Ferdinand,0
-2008-09,Hole,0
-2008-09,Iggy Pop,1
-2008-09,Kate Bush,0
-2008-09,Leonard Cohen,0
-2008-09,Lou Reed,0
-2008-09,Madonna,0
-2008-09,Paul Mccartney,0
-2008-09,Pet Shop Boys,0
-2008-09,Robbie Williams,58
-2008-09,Scissor Sisters,0
-2008-09,The Beatles,70
-2008-09,The Dresden Dolls,4
-2008-09,The White Stripes,0
-2008-10,Antony And The Johnsons,1
-2008-10,Arcade Fire,0
-2008-10,Blondie,0
-2008-10,David Bowie,29
-2008-10,Dusty Springfield,0
-2008-10,Elton John,5
-2008-10,Franz Ferdinand,0
-2008-10,Hole,9
-2008-10,Iggy Pop,31
-2008-10,Kate Bush,0
-2008-10,Leonard Cohen,0
-2008-10,Lou Reed,0
-2008-10,Madonna,3
-2008-10,Paul Mccartney,5
-2008-10,Pet Shop Boys,6
-2008-10,Robbie Williams,15
-2008-10,Scissor Sisters,2
-2008-10,The Beatles,31
-2008-10,The Dresden Dolls,17
-2008-10,The White Stripes,0
-2008-11,Antony And The Johnsons,8
-2008-11,Arcade Fire,8
-2008-11,Blondie,2
-2008-11,David Bowie,31
-2008-11,Dusty Springfield,0
-2008-11,Elton John,4
-2008-11,Franz Ferdinand,118
-2008-11,Hole,2
-2008-11,Iggy Pop,36
-2008-11,Kate Bush,26
-2008-11,Leonard Cohen,3
-2008-11,Lou Reed,27
-2008-11,Madonna,22
-2008-11,Paul Mccartney,10
-2008-11,Pet Shop Boys,9
-2008-11,Robbie Williams,17
-2008-11,Scissor Sisters,28
-2008-11,The Beatles,80
-2008-11,The Dresden Dolls,16
-2008-11,The White Stripes,0
-2008-12,Antony And The Johnsons,4
-2008-12,Arcade Fire,6
-2008-12,Blondie,2
-2008-12,David Bowie,114
-2008-12,Dusty Springfield,0
-2008-12,Elton John,22
-2008-12,Franz Ferdinand,12
-2008-12,Hole,5
-2008-12,Iggy Pop,6
-2008-12,Kate Bush,7
-2008-12,Leonard Cohen,1
-2008-12,Lou Reed,9
-2008-12,Madonna,11
-2008-12,Paul Mccartney,11
-2008-12,Pet Shop Boys,12
-2008-12,Robbie Williams,12
-2008-12,Scissor Sisters,17
-2008-12,The Beatles,52
-2008-12,The Dresden Dolls,9
-2008-12,The White Stripes,49
-2009-01,Antony And The Johnsons,15
-2009-01,Arcade Fire,2
-2009-01,Blondie,3
-2009-01,David Bowie,199
-2009-01,Dusty Springfield,2
-2009-01,Elton John,6
-2009-01,Franz Ferdinand,29
-2009-01,Hole,1
-2009-01,Iggy Pop,4
-2009-01,Kate Bush,2
-2009-01,Leonard Cohen,3
-2009-01,Lou Reed,2
-2009-01,Madonna,6
-2009-01,Paul Mccartney,7
-2009-01,Pet Shop Boys,2
-2009-01,Robbie Williams,33
-2009-01,Scissor Sisters,11
-2009-01,The Beatles,29
-2009-01,The Dresden Dolls,21
-2009-01,The White Stripes,73
-2009-02,Antony And The Johnsons,2
-2009-02,Arcade Fire,1
-2009-02,Blondie,1
-2009-02,David Bowie,42
-2009-02,Dusty Springfield,2
-2009-02,Elton John,3
-2009-02,Franz Ferdinand,81
-2009-02,Hole,2
-2009-02,Iggy Pop,2
-2009-02,Kate Bush,14
-2009-02,Leonard Cohen,0
-2009-02,Lou Reed,4
-2009-02,Madonna,3
-2009-02,Paul Mccartney,8
-2009-02,Pet Shop Boys,21
-2009-02,Robbie Williams,2
-2009-02,Scissor Sisters,17
-2009-02,The Beatles,8
-2009-02,The Dresden Dolls,5
-2009-02,The White Stripes,17
-2009-03,Antony And The Johnsons,4
-2009-03,Arcade Fire,0
-2009-03,Blondie,3
-2009-03,David Bowie,214
-2009-03,Dusty Springfield,1
-2009-03,Elton John,24
-2009-03,Franz Ferdinand,95
-2009-03,Hole,6
-2009-03,Iggy Pop,1
-2009-03,Kate Bush,4
-2009-03,Leonard Cohen,0
-2009-03,Lou Reed,2
-2009-03,Madonna,5
-2009-03,Paul Mccartney,5
-2009-03,Pet Shop Boys,129
-2009-03,Robbie Williams,18
-2009-03,Scissor Sisters,5
-2009-03,The Beatles,39
-2009-03,The Dresden Dolls,3
-2009-03,The White Stripes,13
-2009-04,Antony And The Johnsons,1
-2009-04,Arcade Fire,1
-2009-04,Blondie,1
-2009-04,David Bowie,92
-2009-04,Dusty Springfield,28
-2009-04,Elton John,4
-2009-04,Franz Ferdinand,31
-2009-04,Hole,0
-2009-04,Iggy Pop,1
-2009-04,Kate Bush,0
-2009-04,Leonard Cohen,3
-2009-04,Lou Reed,3
-2009-04,Madonna,2
-2009-04,Paul Mccartney,5
-2009-04,Pet Shop Boys,2
-2009-04,Robbie Williams,3
-2009-04,Scissor Sisters,1
-2009-04,The Beatles,3
-2009-04,The Dresden Dolls,19
-2009-04,The White Stripes,107
+"month","artist","plays"
+"2006-01","Antony And The Johnsons",0
+"2006-01","Arcade Fire",10
+"2006-01","Blondie",4
+"2006-01","David Bowie",62
+"2006-01","Dusty Springfield",0
+"2006-01","Elton John",7
+"2006-01","Franz Ferdinand",61
+"2006-01","Hole",3
+"2006-01","Iggy Pop",5
+"2006-01","Kate Bush",10
+"2006-01","Leonard Cohen",1
+"2006-01","Lou Reed",5
+"2006-01","Madonna",6
+"2006-01","Paul Mccartney",2
+"2006-01","Pet Shop Boys",10
+"2006-01","Robbie Williams",5
+"2006-01","Scissor Sisters",2
+"2006-01","The Beatles",29
+"2006-01","The Dresden Dolls",41
+"2006-01","The White Stripes",10
+"2006-02","Antony And The Johnsons",0
+"2006-02","Arcade Fire",16
+"2006-02","Blondie",8
+"2006-02","David Bowie",84
+"2006-02","Dusty Springfield",8
+"2006-02","Elton John",21
+"2006-02","Franz Ferdinand",50
+"2006-02","Hole",1
+"2006-02","Iggy Pop",4
+"2006-02","Kate Bush",17
+"2006-02","Leonard Cohen",0
+"2006-02","Lou Reed",2
+"2006-02","Madonna",14
+"2006-02","Paul Mccartney",1
+"2006-02","Pet Shop Boys",56
+"2006-02","Robbie Williams",11
+"2006-02","Scissor Sisters",3
+"2006-02","The Beatles",46
+"2006-02","The Dresden Dolls",35
+"2006-02","The White Stripes",18
+"2006-03","Antony And The Johnsons",0
+"2006-03","Arcade Fire",8
+"2006-03","Blondie",1
+"2006-03","David Bowie",84
+"2006-03","Dusty Springfield",19
+"2006-03","Elton John",6
+"2006-03","Franz Ferdinand",22
+"2006-03","Hole",2
+"2006-03","Iggy Pop",6
+"2006-03","Kate Bush",23
+"2006-03","Leonard Cohen",62
+"2006-03","Lou Reed",3
+"2006-03","Madonna",11
+"2006-03","Paul Mccartney",0
+"2006-03","Pet Shop Boys",60
+"2006-03","Robbie Williams",7
+"2006-03","Scissor Sisters",1
+"2006-03","The Beatles",43
+"2006-03","The Dresden Dolls",29
+"2006-03","The White Stripes",48
+"2006-04","Antony And The Johnsons",49
+"2006-04","Arcade Fire",6
+"2006-04","Blondie",3
+"2006-04","David Bowie",80
+"2006-04","Dusty Springfield",76
+"2006-04","Elton John",15
+"2006-04","Franz Ferdinand",56
+"2006-04","Hole",1
+"2006-04","Iggy Pop",3
+"2006-04","Kate Bush",44
+"2006-04","Leonard Cohen",14
+"2006-04","Lou Reed",30
+"2006-04","Madonna",7
+"2006-04","Paul Mccartney",4
+"2006-04","Pet Shop Boys",166
+"2006-04","Robbie Williams",6
+"2006-04","Scissor Sisters",1
+"2006-04","The Beatles",25
+"2006-04","The Dresden Dolls",112
+"2006-04","The White Stripes",20
+"2006-05","Antony And The Johnsons",8
+"2006-05","Arcade Fire",3
+"2006-05","Blondie",5
+"2006-05","David Bowie",74
+"2006-05","Dusty Springfield",19
+"2006-05","Elton John",19
+"2006-05","Franz Ferdinand",28
+"2006-05","Hole",4
+"2006-05","Iggy Pop",1
+"2006-05","Kate Bush",12
+"2006-05","Leonard Cohen",14
+"2006-05","Lou Reed",4
+"2006-05","Madonna",4
+"2006-05","Paul Mccartney",3
+"2006-05","Pet Shop Boys",181
+"2006-05","Robbie Williams",9
+"2006-05","Scissor Sisters",3
+"2006-05","The Beatles",15
+"2006-05","The Dresden Dolls",34
+"2006-05","The White Stripes",3
+"2006-06","Antony And The Johnsons",9
+"2006-06","Arcade Fire",8
+"2006-06","Blondie",8
+"2006-06","David Bowie",84
+"2006-06","Dusty Springfield",17
+"2006-06","Elton John",16
+"2006-06","Franz Ferdinand",25
+"2006-06","Hole",3
+"2006-06","Iggy Pop",3
+"2006-06","Kate Bush",16
+"2006-06","Leonard Cohen",7
+"2006-06","Lou Reed",14
+"2006-06","Madonna",23
+"2006-06","Paul Mccartney",3
+"2006-06","Pet Shop Boys",169
+"2006-06","Robbie Williams",11
+"2006-06","Scissor Sisters",3
+"2006-06","The Beatles",9
+"2006-06","The Dresden Dolls",30
+"2006-06","The White Stripes",12
+"2006-07","Antony And The Johnsons",3
+"2006-07","Arcade Fire",2
+"2006-07","Blondie",13
+"2006-07","David Bowie",54
+"2006-07","Dusty Springfield",35
+"2006-07","Elton John",19
+"2006-07","Franz Ferdinand",27
+"2006-07","Hole",108
+"2006-07","Iggy Pop",38
+"2006-07","Kate Bush",61
+"2006-07","Leonard Cohen",3
+"2006-07","Lou Reed",22
+"2006-07","Madonna",33
+"2006-07","Paul Mccartney",2
+"2006-07","Pet Shop Boys",77
+"2006-07","Robbie Williams",13
+"2006-07","Scissor Sisters",8
+"2006-07","The Beatles",51
+"2006-07","The Dresden Dolls",48
+"2006-07","The White Stripes",3
+"2006-08","Antony And The Johnsons",9
+"2006-08","Arcade Fire",0
+"2006-08","Blondie",0
+"2006-08","David Bowie",38
+"2006-08","Dusty Springfield",5
+"2006-08","Elton John",5
+"2006-08","Franz Ferdinand",21
+"2006-08","Hole",7
+"2006-08","Iggy Pop",5
+"2006-08","Kate Bush",55
+"2006-08","Leonard Cohen",0
+"2006-08","Lou Reed",8
+"2006-08","Madonna",8
+"2006-08","Paul Mccartney",0
+"2006-08","Pet Shop Boys",81
+"2006-08","Robbie Williams",11
+"2006-08","Scissor Sisters",8
+"2006-08","The Beatles",55
+"2006-08","The Dresden Dolls",42
+"2006-08","The White Stripes",11
+"2006-09","Antony And The Johnsons",36
+"2006-09","Arcade Fire",0
+"2006-09","Blondie",5
+"2006-09","David Bowie",13
+"2006-09","Dusty Springfield",1
+"2006-09","Elton John",2
+"2006-09","Franz Ferdinand",2
+"2006-09","Hole",14
+"2006-09","Iggy Pop",1
+"2006-09","Kate Bush",3
+"2006-09","Leonard Cohen",4
+"2006-09","Lou Reed",15
+"2006-09","Madonna",10
+"2006-09","Paul Mccartney",0
+"2006-09","Pet Shop Boys",50
+"2006-09","Robbie Williams",9
+"2006-09","Scissor Sisters",25
+"2006-09","The Beatles",10
+"2006-09","The Dresden Dolls",38
+"2006-09","The White Stripes",3
+"2006-10","Antony And The Johnsons",18
+"2006-10","Arcade Fire",2
+"2006-10","Blondie",1
+"2006-10","David Bowie",37
+"2006-10","Dusty Springfield",5
+"2006-10","Elton John",16
+"2006-10","Franz Ferdinand",2
+"2006-10","Hole",3
+"2006-10","Iggy Pop",1
+"2006-10","Kate Bush",14
+"2006-10","Leonard Cohen",0
+"2006-10","Lou Reed",2
+"2006-10","Madonna",1
+"2006-10","Paul Mccartney",0
+"2006-10","Pet Shop Boys",20
+"2006-10","Robbie Williams",5
+"2006-10","Scissor Sisters",8
+"2006-10","The Beatles",8
+"2006-10","The Dresden Dolls",33
+"2006-10","The White Stripes",2
+"2006-11","Antony And The Johnsons",5
+"2006-11","Arcade Fire",0
+"2006-11","Blondie",3
+"2006-11","David Bowie",26
+"2006-11","Dusty Springfield",5
+"2006-11","Elton John",1
+"2006-11","Franz Ferdinand",5
+"2006-11","Hole",4
+"2006-11","Iggy Pop",2
+"2006-11","Kate Bush",15
+"2006-11","Leonard Cohen",1
+"2006-11","Lou Reed",0
+"2006-11","Madonna",2
+"2006-11","Paul Mccartney",0
+"2006-11","Pet Shop Boys",51
+"2006-11","Robbie Williams",3
+"2006-11","Scissor Sisters",57
+"2006-11","The Beatles",14
+"2006-11","The Dresden Dolls",59
+"2006-11","The White Stripes",0
+"2006-12","Antony And The Johnsons",9
+"2006-12","Arcade Fire",3
+"2006-12","Blondie",4
+"2006-12","David Bowie",10
+"2006-12","Dusty Springfield",11
+"2006-12","Elton John",16
+"2006-12","Franz Ferdinand",14
+"2006-12","Hole",14
+"2006-12","Iggy Pop",20
+"2006-12","Kate Bush",42
+"2006-12","Leonard Cohen",1
+"2006-12","Lou Reed",1
+"2006-12","Madonna",2
+"2006-12","Paul Mccartney",3
+"2006-12","Pet Shop Boys",93
+"2006-12","Robbie Williams",5
+"2006-12","Scissor Sisters",19
+"2006-12","The Beatles",4
+"2006-12","The Dresden Dolls",9
+"2006-12","The White Stripes",10
+"2007-01","Antony And The Johnsons",1
+"2007-01","Arcade Fire",5
+"2007-01","Blondie",0
+"2007-01","David Bowie",55
+"2007-01","Dusty Springfield",7
+"2007-01","Elton John",1
+"2007-01","Franz Ferdinand",0
+"2007-01","Hole",2
+"2007-01","Iggy Pop",0
+"2007-01","Kate Bush",19
+"2007-01","Leonard Cohen",2
+"2007-01","Lou Reed",2
+"2007-01","Madonna",1
+"2007-01","Paul Mccartney",0
+"2007-01","Pet Shop Boys",56
+"2007-01","Robbie Williams",6
+"2007-01","Scissor Sisters",19
+"2007-01","The Beatles",4
+"2007-01","The Dresden Dolls",10
+"2007-01","The White Stripes",5
+"2007-02","Antony And The Johnsons",1
+"2007-02","Arcade Fire",43
+"2007-02","Blondie",0
+"2007-02","David Bowie",75
+"2007-02","Dusty Springfield",1
+"2007-02","Elton John",14
+"2007-02","Franz Ferdinand",0
+"2007-02","Hole",0
+"2007-02","Iggy Pop",1
+"2007-02","Kate Bush",22
+"2007-02","Leonard Cohen",0
+"2007-02","Lou Reed",21
+"2007-02","Madonna",1
+"2007-02","Paul Mccartney",3
+"2007-02","Pet Shop Boys",95
+"2007-02","Robbie Williams",0
+"2007-02","Scissor Sisters",101
+"2007-02","The Beatles",3
+"2007-02","The Dresden Dolls",0
+"2007-02","The White Stripes",1
+"2007-03","Antony And The Johnsons",33
+"2007-03","Arcade Fire",88
+"2007-03","Blondie",0
+"2007-03","David Bowie",24
+"2007-03","Dusty Springfield",21
+"2007-03","Elton John",14
+"2007-03","Franz Ferdinand",5
+"2007-03","Hole",1
+"2007-03","Iggy Pop",0
+"2007-03","Kate Bush",5
+"2007-03","Leonard Cohen",0
+"2007-03","Lou Reed",0
+"2007-03","Madonna",0
+"2007-03","Paul Mccartney",4
+"2007-03","Pet Shop Boys",59
+"2007-03","Robbie Williams",1
+"2007-03","Scissor Sisters",1
+"2007-03","The Beatles",49
+"2007-03","The Dresden Dolls",3
+"2007-03","The White Stripes",0
+"2007-04","Antony And The Johnsons",10
+"2007-04","Arcade Fire",3
+"2007-04","Blondie",1
+"2007-04","David Bowie",16
+"2007-04","Dusty Springfield",21
+"2007-04","Elton John",12
+"2007-04","Franz Ferdinand",0
+"2007-04","Hole",0
+"2007-04","Iggy Pop",0
+"2007-04","Kate Bush",100
+"2007-04","Leonard Cohen",17
+"2007-04","Lou Reed",0
+"2007-04","Madonna",1
+"2007-04","Paul Mccartney",7
+"2007-04","Pet Shop Boys",29
+"2007-04","Robbie Williams",6
+"2007-04","Scissor Sisters",1
+"2007-04","The Beatles",1
+"2007-04","The Dresden Dolls",3
+"2007-04","The White Stripes",0
+"2007-05","Antony And The Johnsons",0
+"2007-05","Arcade Fire",0
+"2007-05","Blondie",10
+"2007-05","David Bowie",5
+"2007-05","Dusty Springfield",0
+"2007-05","Elton John",36
+"2007-05","Franz Ferdinand",0
+"2007-05","Hole",0
+"2007-05","Iggy Pop",0
+"2007-05","Kate Bush",30
+"2007-05","Leonard Cohen",6
+"2007-05","Lou Reed",12
+"2007-05","Madonna",0
+"2007-05","Paul Mccartney",1
+"2007-05","Pet Shop Boys",68
+"2007-05","Robbie Williams",2
+"2007-05","Scissor Sisters",0
+"2007-05","The Beatles",18
+"2007-05","The Dresden Dolls",0
+"2007-05","The White Stripes",2
+"2007-06","Antony And The Johnsons",0
+"2007-06","Arcade Fire",5
+"2007-06","Blondie",5
+"2007-06","David Bowie",88
+"2007-06","Dusty Springfield",8
+"2007-06","Elton John",41
+"2007-06","Franz Ferdinand",3
+"2007-06","Hole",0
+"2007-06","Iggy Pop",1
+"2007-06","Kate Bush",13
+"2007-06","Leonard Cohen",2
+"2007-06","Lou Reed",11
+"2007-06","Madonna",3
+"2007-06","Paul Mccartney",57
+"2007-06","Pet Shop Boys",20
+"2007-06","Robbie Williams",3
+"2007-06","Scissor Sisters",4
+"2007-06","The Beatles",31
+"2007-06","The Dresden Dolls",5
+"2007-06","The White Stripes",4
+"2007-07","Antony And The Johnsons",0
+"2007-07","Arcade Fire",3
+"2007-07","Blondie",0
+"2007-07","David Bowie",16
+"2007-07","Dusty Springfield",2
+"2007-07","Elton John",3
+"2007-07","Franz Ferdinand",0
+"2007-07","Hole",0
+"2007-07","Iggy Pop",0
+"2007-07","Kate Bush",99
+"2007-07","Leonard Cohen",4
+"2007-07","Lou Reed",2
+"2007-07","Madonna",6
+"2007-07","Paul Mccartney",1
+"2007-07","Pet Shop Boys",13
+"2007-07","Robbie Williams",4
+"2007-07","Scissor Sisters",2
+"2007-07","The Beatles",1
+"2007-07","The Dresden Dolls",1
+"2007-07","The White Stripes",0
+"2007-08","Antony And The Johnsons",0
+"2007-08","Arcade Fire",3
+"2007-08","Blondie",0
+"2007-08","David Bowie",28
+"2007-08","Dusty Springfield",0
+"2007-08","Elton John",0
+"2007-08","Franz Ferdinand",0
+"2007-08","Hole",0
+"2007-08","Iggy Pop",0
+"2007-08","Kate Bush",28
+"2007-08","Leonard Cohen",1
+"2007-08","Lou Reed",1
+"2007-08","Madonna",0
+"2007-08","Paul Mccartney",1
+"2007-08","Pet Shop Boys",8
+"2007-08","Robbie Williams",0
+"2007-08","Scissor Sisters",0
+"2007-08","The Beatles",3
+"2007-08","The Dresden Dolls",2
+"2007-08","The White Stripes",0
+"2007-09","Antony And The Johnsons",5
+"2007-09","Arcade Fire",5
+"2007-09","Blondie",5
+"2007-09","David Bowie",28
+"2007-09","Dusty Springfield",1
+"2007-09","Elton John",30
+"2007-09","Franz Ferdinand",4
+"2007-09","Hole",1
+"2007-09","Iggy Pop",6
+"2007-09","Kate Bush",7
+"2007-09","Leonard Cohen",35
+"2007-09","Lou Reed",0
+"2007-09","Madonna",8
+"2007-09","Paul Mccartney",2
+"2007-09","Pet Shop Boys",68
+"2007-09","Robbie Williams",38
+"2007-09","Scissor Sisters",17
+"2007-09","The Beatles",8
+"2007-09","The Dresden Dolls",5
+"2007-09","The White Stripes",14
+"2007-10","Antony And The Johnsons",3
+"2007-10","Arcade Fire",3
+"2007-10","Blondie",0
+"2007-10","David Bowie",62
+"2007-10","Dusty Springfield",9
+"2007-10","Elton John",35
+"2007-10","Franz Ferdinand",4
+"2007-10","Hole",2
+"2007-10","Iggy Pop",5
+"2007-10","Kate Bush",30
+"2007-10","Leonard Cohen",6
+"2007-10","Lou Reed",3
+"2007-10","Madonna",9
+"2007-10","Paul Mccartney",10
+"2007-10","Pet Shop Boys",53
+"2007-10","Robbie Williams",6
+"2007-10","Scissor Sisters",8
+"2007-10","The Beatles",12
+"2007-10","The Dresden Dolls",86
+"2007-10","The White Stripes",14
+"2007-11","Antony And The Johnsons",2
+"2007-11","Arcade Fire",0
+"2007-11","Blondie",1
+"2007-11","David Bowie",24
+"2007-11","Dusty Springfield",2
+"2007-11","Elton John",8
+"2007-11","Franz Ferdinand",11
+"2007-11","Hole",2
+"2007-11","Iggy Pop",0
+"2007-11","Kate Bush",5
+"2007-11","Leonard Cohen",17
+"2007-11","Lou Reed",3
+"2007-11","Madonna",4
+"2007-11","Paul Mccartney",8
+"2007-11","Pet Shop Boys",23
+"2007-11","Robbie Williams",11
+"2007-11","Scissor Sisters",13
+"2007-11","The Beatles",13
+"2007-11","The Dresden Dolls",6
+"2007-11","The White Stripes",3
+"2007-12","Antony And The Johnsons",23
+"2007-12","Arcade Fire",8
+"2007-12","Blondie",10
+"2007-12","David Bowie",67
+"2007-12","Dusty Springfield",5
+"2007-12","Elton John",20
+"2007-12","Franz Ferdinand",3
+"2007-12","Hole",3
+"2007-12","Iggy Pop",2
+"2007-12","Kate Bush",23
+"2007-12","Leonard Cohen",5
+"2007-12","Lou Reed",8
+"2007-12","Madonna",10
+"2007-12","Paul Mccartney",6
+"2007-12","Pet Shop Boys",79
+"2007-12","Robbie Williams",10
+"2007-12","Scissor Sisters",8
+"2007-12","The Beatles",19
+"2007-12","The Dresden Dolls",50
+"2007-12","The White Stripes",9
+"2008-01","Antony And The Johnsons",5
+"2008-01","Arcade Fire",3
+"2008-01","Blondie",1
+"2008-01","David Bowie",30
+"2008-01","Dusty Springfield",2
+"2008-01","Elton John",94
+"2008-01","Franz Ferdinand",4
+"2008-01","Hole",3
+"2008-01","Iggy Pop",3
+"2008-01","Kate Bush",10
+"2008-01","Leonard Cohen",3
+"2008-01","Lou Reed",1
+"2008-01","Madonna",2
+"2008-01","Paul Mccartney",4
+"2008-01","Pet Shop Boys",21
+"2008-01","Robbie Williams",12
+"2008-01","Scissor Sisters",32
+"2008-01","The Beatles",28
+"2008-01","The Dresden Dolls",12
+"2008-01","The White Stripes",7
+"2008-02","Antony And The Johnsons",1
+"2008-02","Arcade Fire",2
+"2008-02","Blondie",2
+"2008-02","David Bowie",97
+"2008-02","Dusty Springfield",5
+"2008-02","Elton John",18
+"2008-02","Franz Ferdinand",12
+"2008-02","Hole",2
+"2008-02","Iggy Pop",3
+"2008-02","Kate Bush",2
+"2008-02","Leonard Cohen",7
+"2008-02","Lou Reed",2
+"2008-02","Madonna",9
+"2008-02","Paul Mccartney",6
+"2008-02","Pet Shop Boys",23
+"2008-02","Robbie Williams",6
+"2008-02","Scissor Sisters",24
+"2008-02","The Beatles",17
+"2008-02","The Dresden Dolls",8
+"2008-02","The White Stripes",4
+"2008-03","Antony And The Johnsons",5
+"2008-03","Arcade Fire",2
+"2008-03","Blondie",4
+"2008-03","David Bowie",51
+"2008-03","Dusty Springfield",4
+"2008-03","Elton John",128
+"2008-03","Franz Ferdinand",33
+"2008-03","Hole",2
+"2008-03","Iggy Pop",3
+"2008-03","Kate Bush",8
+"2008-03","Leonard Cohen",3
+"2008-03","Lou Reed",3
+"2008-03","Madonna",3
+"2008-03","Paul Mccartney",2
+"2008-03","Pet Shop Boys",13
+"2008-03","Robbie Williams",10
+"2008-03","Scissor Sisters",7
+"2008-03","The Beatles",9
+"2008-03","The Dresden Dolls",13
+"2008-03","The White Stripes",1
+"2008-04","Antony And The Johnsons",2
+"2008-04","Arcade Fire",2
+"2008-04","Blondie",1
+"2008-04","David Bowie",105
+"2008-04","Dusty Springfield",7
+"2008-04","Elton John",34
+"2008-04","Franz Ferdinand",17
+"2008-04","Hole",5
+"2008-04","Iggy Pop",6
+"2008-04","Kate Bush",16
+"2008-04","Leonard Cohen",11
+"2008-04","Lou Reed",8
+"2008-04","Madonna",3
+"2008-04","Paul Mccartney",3
+"2008-04","Pet Shop Boys",34
+"2008-04","Robbie Williams",12
+"2008-04","Scissor Sisters",11
+"2008-04","The Beatles",9
+"2008-04","The Dresden Dolls",10
+"2008-04","The White Stripes",8
+"2008-05","Antony And The Johnsons",15
+"2008-05","Arcade Fire",9
+"2008-05","Blondie",4
+"2008-05","David Bowie",64
+"2008-05","Dusty Springfield",2
+"2008-05","Elton John",23
+"2008-05","Franz Ferdinand",7
+"2008-05","Hole",1
+"2008-05","Iggy Pop",0
+"2008-05","Kate Bush",33
+"2008-05","Leonard Cohen",2
+"2008-05","Lou Reed",5
+"2008-05","Madonna",17
+"2008-05","Paul Mccartney",3
+"2008-05","Pet Shop Boys",17
+"2008-05","Robbie Williams",7
+"2008-05","Scissor Sisters",15
+"2008-05","The Beatles",47
+"2008-05","The Dresden Dolls",120
+"2008-05","The White Stripes",4
+"2008-06","Antony And The Johnsons",7
+"2008-06","Arcade Fire",6
+"2008-06","Blondie",1
+"2008-06","David Bowie",20
+"2008-06","Dusty Springfield",2
+"2008-06","Elton John",9
+"2008-06","Franz Ferdinand",3
+"2008-06","Hole",7
+"2008-06","Iggy Pop",4
+"2008-06","Kate Bush",6
+"2008-06","Leonard Cohen",3
+"2008-06","Lou Reed",5
+"2008-06","Madonna",2
+"2008-06","Paul Mccartney",1
+"2008-06","Pet Shop Boys",6
+"2008-06","Robbie Williams",21
+"2008-06","Scissor Sisters",12
+"2008-06","The Beatles",8
+"2008-06","The Dresden Dolls",21
+"2008-06","The White Stripes",4
+"2008-07","Antony And The Johnsons",6
+"2008-07","Arcade Fire",1
+"2008-07","Blondie",0
+"2008-07","David Bowie",44
+"2008-07","Dusty Springfield",1
+"2008-07","Elton John",19
+"2008-07","Franz Ferdinand",1
+"2008-07","Hole",1
+"2008-07","Iggy Pop",2
+"2008-07","Kate Bush",31
+"2008-07","Leonard Cohen",7
+"2008-07","Lou Reed",4
+"2008-07","Madonna",2
+"2008-07","Paul Mccartney",29
+"2008-07","Pet Shop Boys",5
+"2008-07","Robbie Williams",34
+"2008-07","Scissor Sisters",3
+"2008-07","The Beatles",137
+"2008-07","The Dresden Dolls",17
+"2008-07","The White Stripes",2
+"2008-08","Antony And The Johnsons",2
+"2008-08","Arcade Fire",3
+"2008-08","Blondie",0
+"2008-08","David Bowie",2
+"2008-08","Dusty Springfield",1
+"2008-08","Elton John",19
+"2008-08","Franz Ferdinand",1
+"2008-08","Hole",1
+"2008-08","Iggy Pop",1
+"2008-08","Kate Bush",1
+"2008-08","Leonard Cohen",1
+"2008-08","Lou Reed",1
+"2008-08","Madonna",20
+"2008-08","Paul Mccartney",1
+"2008-08","Pet Shop Boys",0
+"2008-08","Robbie Williams",36
+"2008-08","Scissor Sisters",0
+"2008-08","The Beatles",17
+"2008-08","The Dresden Dolls",17
+"2008-08","The White Stripes",0
+"2008-09","Antony And The Johnsons",0
+"2008-09","Arcade Fire",0
+"2008-09","Blondie",14
+"2008-09","David Bowie",31
+"2008-09","Dusty Springfield",0
+"2008-09","Elton John",0
+"2008-09","Franz Ferdinand",0
+"2008-09","Hole",0
+"2008-09","Iggy Pop",1
+"2008-09","Kate Bush",0
+"2008-09","Leonard Cohen",0
+"2008-09","Lou Reed",0
+"2008-09","Madonna",0
+"2008-09","Paul Mccartney",0
+"2008-09","Pet Shop Boys",0
+"2008-09","Robbie Williams",58
+"2008-09","Scissor Sisters",0
+"2008-09","The Beatles",70
+"2008-09","The Dresden Dolls",4
+"2008-09","The White Stripes",0
+"2008-10","Antony And The Johnsons",1
+"2008-10","Arcade Fire",0
+"2008-10","Blondie",0
+"2008-10","David Bowie",29
+"2008-10","Dusty Springfield",0
+"2008-10","Elton John",5
+"2008-10","Franz Ferdinand",0
+"2008-10","Hole",9
+"2008-10","Iggy Pop",31
+"2008-10","Kate Bush",0
+"2008-10","Leonard Cohen",0
+"2008-10","Lou Reed",0
+"2008-10","Madonna",3
+"2008-10","Paul Mccartney",5
+"2008-10","Pet Shop Boys",6
+"2008-10","Robbie Williams",15
+"2008-10","Scissor Sisters",2
+"2008-10","The Beatles",31
+"2008-10","The Dresden Dolls",17
+"2008-10","The White Stripes",0
+"2008-11","Antony And The Johnsons",8
+"2008-11","Arcade Fire",8
+"2008-11","Blondie",2
+"2008-11","David Bowie",31
+"2008-11","Dusty Springfield",0
+"2008-11","Elton John",4
+"2008-11","Franz Ferdinand",118
+"2008-11","Hole",2
+"2008-11","Iggy Pop",36
+"2008-11","Kate Bush",26
+"2008-11","Leonard Cohen",3
+"2008-11","Lou Reed",27
+"2008-11","Madonna",22
+"2008-11","Paul Mccartney",10
+"2008-11","Pet Shop Boys",9
+"2008-11","Robbie Williams",17
+"2008-11","Scissor Sisters",28
+"2008-11","The Beatles",80
+"2008-11","The Dresden Dolls",16
+"2008-11","The White Stripes",0
+"2008-12","Antony And The Johnsons",4
+"2008-12","Arcade Fire",6
+"2008-12","Blondie",2
+"2008-12","David Bowie",114
+"2008-12","Dusty Springfield",0
+"2008-12","Elton John",22
+"2008-12","Franz Ferdinand",12
+"2008-12","Hole",5
+"2008-12","Iggy Pop",6
+"2008-12","Kate Bush",7
+"2008-12","Leonard Cohen",1
+"2008-12","Lou Reed",9
+"2008-12","Madonna",11
+"2008-12","Paul Mccartney",11
+"2008-12","Pet Shop Boys",12
+"2008-12","Robbie Williams",12
+"2008-12","Scissor Sisters",17
+"2008-12","The Beatles",52
+"2008-12","The Dresden Dolls",9
+"2008-12","The White Stripes",49
+"2009-01","Antony And The Johnsons",15
+"2009-01","Arcade Fire",2
+"2009-01","Blondie",3
+"2009-01","David Bowie",199
+"2009-01","Dusty Springfield",2
+"2009-01","Elton John",6
+"2009-01","Franz Ferdinand",29
+"2009-01","Hole",1
+"2009-01","Iggy Pop",4
+"2009-01","Kate Bush",2
+"2009-01","Leonard Cohen",3
+"2009-01","Lou Reed",2
+"2009-01","Madonna",6
+"2009-01","Paul Mccartney",7
+"2009-01","Pet Shop Boys",2
+"2009-01","Robbie Williams",33
+"2009-01","Scissor Sisters",11
+"2009-01","The Beatles",29
+"2009-01","The Dresden Dolls",21
+"2009-01","The White Stripes",73
+"2009-02","Antony And The Johnsons",2
+"2009-02","Arcade Fire",1
+"2009-02","Blondie",1
+"2009-02","David Bowie",42
+"2009-02","Dusty Springfield",2
+"2009-02","Elton John",3
+"2009-02","Franz Ferdinand",81
+"2009-02","Hole",2
+"2009-02","Iggy Pop",2
+"2009-02","Kate Bush",14
+"2009-02","Leonard Cohen",0
+"2009-02","Lou Reed",4
+"2009-02","Madonna",3
+"2009-02","Paul Mccartney",8
+"2009-02","Pet Shop Boys",21
+"2009-02","Robbie Williams",2
+"2009-02","Scissor Sisters",17
+"2009-02","The Beatles",8
+"2009-02","The Dresden Dolls",5
+"2009-02","The White Stripes",17
+"2009-03","Antony And The Johnsons",4
+"2009-03","Arcade Fire",0
+"2009-03","Blondie",3
+"2009-03","David Bowie",214
+"2009-03","Dusty Springfield",1
+"2009-03","Elton John",24
+"2009-03","Franz Ferdinand",95
+"2009-03","Hole",6
+"2009-03","Iggy Pop",1
+"2009-03","Kate Bush",4
+"2009-03","Leonard Cohen",0
+"2009-03","Lou Reed",2
+"2009-03","Madonna",5
+"2009-03","Paul Mccartney",5
+"2009-03","Pet Shop Boys",129
+"2009-03","Robbie Williams",18
+"2009-03","Scissor Sisters",5
+"2009-03","The Beatles",39
+"2009-03","The Dresden Dolls",3
+"2009-03","The White Stripes",13
+"2009-04","Antony And The Johnsons",1
+"2009-04","Arcade Fire",1
+"2009-04","Blondie",1
+"2009-04","David Bowie",92
+"2009-04","Dusty Springfield",28
+"2009-04","Elton John",4
+"2009-04","Franz Ferdinand",31
+"2009-04","Hole",0
+"2009-04","Iggy Pop",1
+"2009-04","Kate Bush",0
+"2009-04","Leonard Cohen",3
+"2009-04","Lou Reed",3
+"2009-04","Madonna",2
+"2009-04","Paul Mccartney",5
+"2009-04","Pet Shop Boys",2
+"2009-04","Robbie Williams",3
+"2009-04","Scissor Sisters",1
+"2009-04","The Beatles",3
+"2009-04","The Dresden Dolls",19
+"2009-04","The White Stripes",107

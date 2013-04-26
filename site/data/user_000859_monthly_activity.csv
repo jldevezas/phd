@@ -1,41 +1,41 @@
-month,artist,plays
-2009-03,Alice In Chains,6
-2009-03,Allison Crowe,6
-2009-03,At The Drive-In,44
-2009-03,Athlete,0
-2009-03,Ben Harper,0
-2009-03,Black Flag,9
-2009-03,Bob Dylan,0
-2009-03,Broken Social Scene,13
-2009-03,Bruce Springsteen,12
-2009-03,Camel,0
-2009-03,Coldplay,9
-2009-03,Cream,18
-2009-03,Creedence Clearwater Revisited,1
-2009-03,Jethro Tull,1
-2009-03,Mother Love Bone,2
-2009-03,Nirvana,7
-2009-03,Oasis,47
-2009-03,Pearl Jam,56
-2009-03,Premiata Forneria Marconi,23
-2009-03,U2,2
-2009-04,Alice In Chains,2
-2009-04,Allison Crowe,0
-2009-04,At The Drive-In,0
-2009-04,Athlete,2
-2009-04,Ben Harper,2
-2009-04,Black Flag,0
-2009-04,Bob Dylan,1
-2009-04,Broken Social Scene,0
-2009-04,Bruce Springsteen,1
-2009-04,Camel,1
-2009-04,Coldplay,0
-2009-04,Cream,0
-2009-04,Creedence Clearwater Revisited,0
-2009-04,Jethro Tull,6
-2009-04,Mother Love Bone,4
-2009-04,Nirvana,5
-2009-04,Oasis,42
-2009-04,Pearl Jam,57
-2009-04,Premiata Forneria Marconi,9
-2009-04,U2,21
+"month","artist","plays"
+"2009-03","Alice In Chains",6
+"2009-03","Allison Crowe",6
+"2009-03","At The Drive-In",44
+"2009-03","Athlete",0
+"2009-03","Ben Harper",0
+"2009-03","Black Flag",9
+"2009-03","Bob Dylan",0
+"2009-03","Broken Social Scene",13
+"2009-03","Bruce Springsteen",12
+"2009-03","Camel",0
+"2009-03","Coldplay",9
+"2009-03","Cream",18
+"2009-03","Creedence Clearwater Revisited",1
+"2009-03","Jethro Tull",1
+"2009-03","Mother Love Bone",2
+"2009-03","Nirvana",7
+"2009-03","Oasis",47
+"2009-03","Pearl Jam",56
+"2009-03","Premiata Forneria Marconi",23
+"2009-03","U2",2
+"2009-04","Alice In Chains",2
+"2009-04","Allison Crowe",0
+"2009-04","At The Drive-In",0
+"2009-04","Athlete",2
+"2009-04","Ben Harper",2
+"2009-04","Black Flag",0
+"2009-04","Bob Dylan",1
+"2009-04","Broken Social Scene",0
+"2009-04","Bruce Springsteen",1
+"2009-04","Camel",1
+"2009-04","Coldplay",0
+"2009-04","Cream",0
+"2009-04","Creedence Clearwater Revisited",0
+"2009-04","Jethro Tull",6
+"2009-04","Mother Love Bone",4
+"2009-04","Nirvana",5
+"2009-04","Oasis",42
+"2009-04","Pearl Jam",57
+"2009-04","Premiata Forneria Marconi",9
+"2009-04","U2",21

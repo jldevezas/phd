@@ -1,121 +1,121 @@
-month,artist,plays
-2008-02,Bloc Party,18
-2008-02,Broken Social Scene,7
-2008-02,Camera Obscura,10
-2008-02,Cat Power,3
-2008-02,Coldplay,5
-2008-02,Elliott Smith,3
-2008-02,Emily Haines,9
-2008-02,Emily Haines & The Soft Skeleton,18
-2008-02,Feist,6
-2008-02,Interpol,6
-2008-02,M.I.A.,2
-2008-02,Metric,26
-2008-02,Rilo Kiley,12
-2008-02,Sleater-Kinney,18
-2008-02,Tegan And Sara,4
-2008-02,The Blow,1
-2008-02,The Kills,0
-2008-02,The New Pornographers,3
-2008-02,The Shins,4
-2008-02,Yeah Yeah Yeahs,7
-2008-03,Bloc Party,15
-2008-03,Broken Social Scene,26
-2008-03,Camera Obscura,8
-2008-03,Cat Power,9
-2008-03,Coldplay,17
-2008-03,Elliott Smith,4
-2008-03,Emily Haines,14
-2008-03,Emily Haines & The Soft Skeleton,39
-2008-03,Feist,1
-2008-03,Interpol,30
-2008-03,M.I.A.,10
-2008-03,Metric,56
-2008-03,Rilo Kiley,27
-2008-03,Sleater-Kinney,18
-2008-03,Tegan And Sara,5
-2008-03,The Blow,60
-2008-03,The Kills,137
-2008-03,The New Pornographers,13
-2008-03,The Shins,7
-2008-03,Yeah Yeah Yeahs,67
-2008-04,Bloc Party,43
-2008-04,Broken Social Scene,190
-2008-04,Camera Obscura,3
-2008-04,Cat Power,4
-2008-04,Coldplay,11
-2008-04,Elliott Smith,2
-2008-04,Emily Haines,52
-2008-04,Emily Haines & The Soft Skeleton,134
-2008-04,Feist,1
-2008-04,Interpol,78
-2008-04,M.I.A.,27
-2008-04,Metric,235
-2008-04,Rilo Kiley,105
-2008-04,Sleater-Kinney,5
-2008-04,Tegan And Sara,148
-2008-04,The Blow,121
-2008-04,The Kills,415
-2008-04,The New Pornographers,118
-2008-04,The Shins,6
-2008-04,Yeah Yeah Yeahs,53
-2008-05,Bloc Party,39
-2008-05,Broken Social Scene,262
-2008-05,Camera Obscura,2
-2008-05,Cat Power,0
-2008-05,Coldplay,24
-2008-05,Elliott Smith,1
-2008-05,Emily Haines,11
-2008-05,Emily Haines & The Soft Skeleton,42
-2008-05,Feist,0
-2008-05,Interpol,42
-2008-05,M.I.A.,22
-2008-05,Metric,148
-2008-05,Rilo Kiley,100
-2008-05,Sleater-Kinney,9
-2008-05,Tegan And Sara,1151
-2008-05,The Blow,39
-2008-05,The Kills,164
-2008-05,The New Pornographers,128
-2008-05,The Shins,1
-2008-05,Yeah Yeah Yeahs,20
-2008-06,Bloc Party,7
-2008-06,Broken Social Scene,75
-2008-06,Camera Obscura,2
-2008-06,Cat Power,3
-2008-06,Coldplay,109
-2008-06,Elliott Smith,2
-2008-06,Emily Haines,1
-2008-06,Emily Haines & The Soft Skeleton,4
-2008-06,Feist,1
-2008-06,Interpol,0
-2008-06,M.I.A.,6
-2008-06,Metric,15
-2008-06,Rilo Kiley,266
-2008-06,Sleater-Kinney,2
-2008-06,Tegan And Sara,162
-2008-06,The Blow,0
-2008-06,The Kills,29
-2008-06,The New Pornographers,0
-2008-06,The Shins,1
-2008-06,Yeah Yeah Yeahs,2
-2008-07,Bloc Party,10
-2008-07,Broken Social Scene,8
-2008-07,Camera Obscura,2
-2008-07,Cat Power,5
-2008-07,Coldplay,60
-2008-07,Elliott Smith,0
-2008-07,Emily Haines,1
-2008-07,Emily Haines & The Soft Skeleton,10
-2008-07,Feist,2
-2008-07,Interpol,23
-2008-07,M.I.A.,1
-2008-07,Metric,36
-2008-07,Rilo Kiley,9
-2008-07,Sleater-Kinney,11
-2008-07,Tegan And Sara,53
-2008-07,The Blow,1
-2008-07,The Kills,18
-2008-07,The New Pornographers,2
-2008-07,The Shins,6
-2008-07,Yeah Yeah Yeahs,50
+"month","artist","plays"
+"2008-02","Bloc Party",18
+"2008-02","Broken Social Scene",7
+"2008-02","Camera Obscura",10
+"2008-02","Cat Power",3
+"2008-02","Coldplay",5
+"2008-02","Elliott Smith",3
+"2008-02","Emily Haines",9
+"2008-02","Emily Haines & The Soft Skeleton",18
+"2008-02","Feist",6
+"2008-02","Interpol",6
+"2008-02","M.I.A.",2
+"2008-02","Metric",26
+"2008-02","Rilo Kiley",12
+"2008-02","Sleater-Kinney",18
+"2008-02","Tegan And Sara",4
+"2008-02","The Blow",1
+"2008-02","The Kills",0
+"2008-02","The New Pornographers",3
+"2008-02","The Shins",4
+"2008-02","Yeah Yeah Yeahs",7
+"2008-03","Bloc Party",15
+"2008-03","Broken Social Scene",26
+"2008-03","Camera Obscura",8
+"2008-03","Cat Power",9
+"2008-03","Coldplay",17
+"2008-03","Elliott Smith",4
+"2008-03","Emily Haines",14
+"2008-03","Emily Haines & The Soft Skeleton",39
+"2008-03","Feist",1
+"2008-03","Interpol",30
+"2008-03","M.I.A.",10
+"2008-03","Metric",56
+"2008-03","Rilo Kiley",27
+"2008-03","Sleater-Kinney",18
+"2008-03","Tegan And Sara",5
+"2008-03","The Blow",60
+"2008-03","The Kills",137
+"2008-03","The New Pornographers",13
+"2008-03","The Shins",7
+"2008-03","Yeah Yeah Yeahs",67
+"2008-04","Bloc Party",43
+"2008-04","Broken Social Scene",190
+"2008-04","Camera Obscura",3
+"2008-04","Cat Power",4
+"2008-04","Coldplay",11
+"2008-04","Elliott Smith",2
+"2008-04","Emily Haines",52
+"2008-04","Emily Haines & The Soft Skeleton",134
+"2008-04","Feist",1
+"2008-04","Interpol",78
+"2008-04","M.I.A.",27
+"2008-04","Metric",235
+"2008-04","Rilo Kiley",105
+"2008-04","Sleater-Kinney",5
+"2008-04","Tegan And Sara",148
+"2008-04","The Blow",121
+"2008-04","The Kills",415
+"2008-04","The New Pornographers",118
+"2008-04","The Shins",6
+"2008-04","Yeah Yeah Yeahs",53
+"2008-05","Bloc Party",39
+"2008-05","Broken Social Scene",262
+"2008-05","Camera Obscura",2
+"2008-05","Cat Power",0
+"2008-05","Coldplay",24
+"2008-05","Elliott Smith",1
+"2008-05","Emily Haines",11
+"2008-05","Emily Haines & The Soft Skeleton",42
+"2008-05","Feist",0
+"2008-05","Interpol",42
+"2008-05","M.I.A.",22
+"2008-05","Metric",148
+"2008-05","Rilo Kiley",100
+"2008-05","Sleater-Kinney",9
+"2008-05","Tegan And Sara",1151
+"2008-05","The Blow",39
+"2008-05","The Kills",164
+"2008-05","The New Pornographers",128
+"2008-05","The Shins",1
+"2008-05","Yeah Yeah Yeahs",20
+"2008-06","Bloc Party",7
+"2008-06","Broken Social Scene",75
+"2008-06","Camera Obscura",2
+"2008-06","Cat Power",3
+"2008-06","Coldplay",109
+"2008-06","Elliott Smith",2
+"2008-06","Emily Haines",1
+"2008-06","Emily Haines & The Soft Skeleton",4
+"2008-06","Feist",1
+"2008-06","Interpol",0
+"2008-06","M.I.A.",6
+"2008-06","Metric",15
+"2008-06","Rilo Kiley",266
+"2008-06","Sleater-Kinney",2
+"2008-06","Tegan And Sara",162
+"2008-06","The Blow",0
+"2008-06","The Kills",29
+"2008-06","The New Pornographers",0
+"2008-06","The Shins",1
+"2008-06","Yeah Yeah Yeahs",2
+"2008-07","Bloc Party",10
+"2008-07","Broken Social Scene",8
+"2008-07","Camera Obscura",2
+"2008-07","Cat Power",5
+"2008-07","Coldplay",60
+"2008-07","Elliott Smith",0
+"2008-07","Emily Haines",1
+"2008-07","Emily Haines & The Soft Skeleton",10
+"2008-07","Feist",2
+"2008-07","Interpol",23
+"2008-07","M.I.A.",1
+"2008-07","Metric",36
+"2008-07","Rilo Kiley",9
+"2008-07","Sleater-Kinney",11
+"2008-07","Tegan And Sara",53
+"2008-07","The Blow",1
+"2008-07","The Kills",18
+"2008-07","The New Pornographers",2
+"2008-07","The Shins",6
+"2008-07","Yeah Yeah Yeahs",50

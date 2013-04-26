@@ -1,481 +1,481 @@
-month,artist,plays
-2007-05,12 Stones,1
-2007-05,30 Seconds To Mars,0
-2007-05,Adema,1
-2007-05,Atreyu,1
-2007-05,Bullet For My Valentine,1
-2007-05,Chevelle,1
-2007-05,Coal Chamber,1
-2007-05,Creed,0
-2007-05,Demon Hunter,165
-2007-05,Dry Kill Logic,1
-2007-05,Godsmack,0
-2007-05,Infected Mushroom,0
-2007-05,Lamb Of God,1
-2007-05,Leftfield,0
-2007-05,Mushroomhead,1
-2007-05,Shadows Fall,1
-2007-05,System Of A Down,1
-2007-05,Trivium,1
-2007-05,Velvet Acid Christ,0
-2007-05,Zao,1
-2007-06,12 Stones,1
-2007-06,30 Seconds To Mars,5
-2007-06,Adema,3
-2007-06,Atreyu,9
-2007-06,Bullet For My Valentine,6
-2007-06,Chevelle,1
-2007-06,Coal Chamber,4
-2007-06,Creed,2
-2007-06,Demon Hunter,14
-2007-06,Dry Kill Logic,3
-2007-06,Godsmack,3
-2007-06,Infected Mushroom,7
-2007-06,Lamb Of God,7
-2007-06,Leftfield,5
-2007-06,Mushroomhead,5
-2007-06,Shadows Fall,4
-2007-06,System Of A Down,2
-2007-06,Trivium,11
-2007-06,Velvet Acid Christ,1
-2007-06,Zao,11
-2007-07,12 Stones,1
-2007-07,30 Seconds To Mars,2
-2007-07,Adema,0
-2007-07,Atreyu,2
-2007-07,Bullet For My Valentine,3
-2007-07,Chevelle,0
-2007-07,Coal Chamber,0
-2007-07,Creed,0
-2007-07,Demon Hunter,2
-2007-07,Dry Kill Logic,0
-2007-07,Godsmack,0
-2007-07,Infected Mushroom,1
-2007-07,Lamb Of God,0
-2007-07,Leftfield,0
-2007-07,Mushroomhead,0
-2007-07,Shadows Fall,1
-2007-07,System Of A Down,0
-2007-07,Trivium,3
-2007-07,Velvet Acid Christ,4
-2007-07,Zao,2
-2007-08,12 Stones,0
-2007-08,30 Seconds To Mars,0
-2007-08,Adema,0
-2007-08,Atreyu,0
-2007-08,Bullet For My Valentine,0
-2007-08,Chevelle,0
-2007-08,Coal Chamber,0
-2007-08,Creed,0
-2007-08,Demon Hunter,0
-2007-08,Dry Kill Logic,0
-2007-08,Godsmack,0
-2007-08,Infected Mushroom,0
-2007-08,Lamb Of God,0
-2007-08,Leftfield,0
-2007-08,Mushroomhead,0
-2007-08,Shadows Fall,0
-2007-08,System Of A Down,0
-2007-08,Trivium,0
-2007-08,Velvet Acid Christ,1
-2007-08,Zao,0
-2007-09,12 Stones,0
-2007-09,30 Seconds To Mars,1
-2007-09,Adema,0
-2007-09,Atreyu,0
-2007-09,Bullet For My Valentine,1
-2007-09,Chevelle,0
-2007-09,Coal Chamber,0
-2007-09,Creed,0
-2007-09,Demon Hunter,0
-2007-09,Dry Kill Logic,0
-2007-09,Godsmack,0
-2007-09,Infected Mushroom,0
-2007-09,Lamb Of God,0
-2007-09,Leftfield,0
-2007-09,Mushroomhead,0
-2007-09,Shadows Fall,0
-2007-09,System Of A Down,0
-2007-09,Trivium,1
-2007-09,Velvet Acid Christ,2
-2007-09,Zao,0
-2007-10,12 Stones,19
-2007-10,30 Seconds To Mars,2
-2007-10,Adema,3
-2007-10,Atreyu,17
-2007-10,Bullet For My Valentine,7
-2007-10,Chevelle,1
-2007-10,Coal Chamber,25
-2007-10,Creed,2
-2007-10,Demon Hunter,11
-2007-10,Dry Kill Logic,4
-2007-10,Godsmack,8
-2007-10,Infected Mushroom,22
-2007-10,Lamb Of God,6
-2007-10,Leftfield,15
-2007-10,Mushroomhead,5
-2007-10,Shadows Fall,3
-2007-10,System Of A Down,3
-2007-10,Trivium,4
-2007-10,Velvet Acid Christ,3
-2007-10,Zao,12
-2007-11,12 Stones,0
-2007-11,30 Seconds To Mars,0
-2007-11,Adema,0
-2007-11,Atreyu,0
-2007-11,Bullet For My Valentine,0
-2007-11,Chevelle,1
-2007-11,Coal Chamber,0
-2007-11,Creed,0
-2007-11,Demon Hunter,0
-2007-11,Dry Kill Logic,1
-2007-11,Godsmack,1
-2007-11,Infected Mushroom,0
-2007-11,Lamb Of God,1
-2007-11,Leftfield,0
-2007-11,Mushroomhead,0
-2007-11,Shadows Fall,0
-2007-11,System Of A Down,1
-2007-11,Trivium,0
-2007-11,Velvet Acid Christ,0
-2007-11,Zao,0
-2007-12,12 Stones,0
-2007-12,30 Seconds To Mars,0
-2007-12,Adema,0
-2007-12,Atreyu,0
-2007-12,Bullet For My Valentine,0
-2007-12,Chevelle,0
-2007-12,Coal Chamber,0
-2007-12,Creed,0
-2007-12,Demon Hunter,1
-2007-12,Dry Kill Logic,1
-2007-12,Godsmack,0
-2007-12,Infected Mushroom,0
-2007-12,Lamb Of God,0
-2007-12,Leftfield,1
-2007-12,Mushroomhead,1
-2007-12,Shadows Fall,1
-2007-12,System Of A Down,0
-2007-12,Trivium,0
-2007-12,Velvet Acid Christ,0
-2007-12,Zao,0
-2008-01,12 Stones,3
-2008-01,30 Seconds To Mars,2
-2008-01,Adema,1
-2008-01,Atreyu,1
-2008-01,Bullet For My Valentine,3
-2008-01,Chevelle,5
-2008-01,Coal Chamber,2
-2008-01,Creed,2
-2008-01,Demon Hunter,2
-2008-01,Dry Kill Logic,1
-2008-01,Godsmack,6
-2008-01,Infected Mushroom,1
-2008-01,Lamb Of God,3
-2008-01,Leftfield,1
-2008-01,Mushroomhead,2
-2008-01,Shadows Fall,1
-2008-01,System Of A Down,1
-2008-01,Trivium,4
-2008-01,Velvet Acid Christ,1
-2008-01,Zao,1
-2008-02,12 Stones,10
-2008-02,30 Seconds To Mars,1
-2008-02,Adema,2
-2008-02,Atreyu,13
-2008-02,Bullet For My Valentine,3
-2008-02,Chevelle,2
-2008-02,Coal Chamber,12
-2008-02,Creed,12
-2008-02,Demon Hunter,11
-2008-02,Dry Kill Logic,2
-2008-02,Godsmack,11
-2008-02,Infected Mushroom,10
-2008-02,Lamb Of God,11
-2008-02,Leftfield,3
-2008-02,Mushroomhead,3
-2008-02,Shadows Fall,2
-2008-02,System Of A Down,10
-2008-02,Trivium,3
-2008-02,Velvet Acid Christ,2
-2008-02,Zao,3
-2008-03,12 Stones,0
-2008-03,30 Seconds To Mars,0
-2008-03,Adema,0
-2008-03,Atreyu,0
-2008-03,Bullet For My Valentine,0
-2008-03,Chevelle,0
-2008-03,Coal Chamber,0
-2008-03,Creed,0
-2008-03,Demon Hunter,0
-2008-03,Dry Kill Logic,0
-2008-03,Godsmack,0
-2008-03,Infected Mushroom,0
-2008-03,Lamb Of God,0
-2008-03,Leftfield,0
-2008-03,Mushroomhead,0
-2008-03,Shadows Fall,0
-2008-03,System Of A Down,0
-2008-03,Trivium,0
-2008-03,Velvet Acid Christ,0
-2008-03,Zao,0
-2008-04,12 Stones,0
-2008-04,30 Seconds To Mars,0
-2008-04,Adema,0
-2008-04,Atreyu,0
-2008-04,Bullet For My Valentine,0
-2008-04,Chevelle,0
-2008-04,Coal Chamber,0
-2008-04,Creed,0
-2008-04,Demon Hunter,0
-2008-04,Dry Kill Logic,0
-2008-04,Godsmack,0
-2008-04,Infected Mushroom,0
-2008-04,Lamb Of God,0
-2008-04,Leftfield,0
-2008-04,Mushroomhead,0
-2008-04,Shadows Fall,0
-2008-04,System Of A Down,0
-2008-04,Trivium,0
-2008-04,Velvet Acid Christ,0
-2008-04,Zao,0
-2008-05,12 Stones,0
-2008-05,30 Seconds To Mars,0
-2008-05,Adema,0
-2008-05,Atreyu,0
-2008-05,Bullet For My Valentine,1
-2008-05,Chevelle,0
-2008-05,Coal Chamber,0
-2008-05,Creed,0
-2008-05,Demon Hunter,0
-2008-05,Dry Kill Logic,0
-2008-05,Godsmack,1
-2008-05,Infected Mushroom,0
-2008-05,Lamb Of God,0
-2008-05,Leftfield,0
-2008-05,Mushroomhead,0
-2008-05,Shadows Fall,0
-2008-05,System Of A Down,0
-2008-05,Trivium,0
-2008-05,Velvet Acid Christ,0
-2008-05,Zao,1
-2008-06,12 Stones,1
-2008-06,30 Seconds To Mars,0
-2008-06,Adema,1
-2008-06,Atreyu,0
-2008-06,Bullet For My Valentine,0
-2008-06,Chevelle,2
-2008-06,Coal Chamber,1
-2008-06,Creed,2
-2008-06,Demon Hunter,0
-2008-06,Dry Kill Logic,1
-2008-06,Godsmack,0
-2008-06,Infected Mushroom,1
-2008-06,Lamb Of God,0
-2008-06,Leftfield,1
-2008-06,Mushroomhead,0
-2008-06,Shadows Fall,1
-2008-06,System Of A Down,1
-2008-06,Trivium,0
-2008-06,Velvet Acid Christ,1
-2008-06,Zao,0
-2008-07,12 Stones,0
-2008-07,30 Seconds To Mars,0
-2008-07,Adema,0
-2008-07,Atreyu,0
-2008-07,Bullet For My Valentine,0
-2008-07,Chevelle,0
-2008-07,Coal Chamber,0
-2008-07,Creed,0
-2008-07,Demon Hunter,0
-2008-07,Dry Kill Logic,0
-2008-07,Godsmack,0
-2008-07,Infected Mushroom,0
-2008-07,Lamb Of God,0
-2008-07,Leftfield,0
-2008-07,Mushroomhead,0
-2008-07,Shadows Fall,0
-2008-07,System Of A Down,0
-2008-07,Trivium,0
-2008-07,Velvet Acid Christ,0
-2008-07,Zao,0
-2008-08,12 Stones,0
-2008-08,30 Seconds To Mars,0
-2008-08,Adema,0
-2008-08,Atreyu,0
-2008-08,Bullet For My Valentine,0
-2008-08,Chevelle,0
-2008-08,Coal Chamber,0
-2008-08,Creed,0
-2008-08,Demon Hunter,0
-2008-08,Dry Kill Logic,0
-2008-08,Godsmack,0
-2008-08,Infected Mushroom,0
-2008-08,Lamb Of God,0
-2008-08,Leftfield,0
-2008-08,Mushroomhead,0
-2008-08,Shadows Fall,0
-2008-08,System Of A Down,0
-2008-08,Trivium,0
-2008-08,Velvet Acid Christ,0
-2008-08,Zao,0
-2008-09,12 Stones,0
-2008-09,30 Seconds To Mars,0
-2008-09,Adema,0
-2008-09,Atreyu,0
-2008-09,Bullet For My Valentine,0
-2008-09,Chevelle,0
-2008-09,Coal Chamber,0
-2008-09,Creed,0
-2008-09,Demon Hunter,0
-2008-09,Dry Kill Logic,0
-2008-09,Godsmack,0
-2008-09,Infected Mushroom,0
-2008-09,Lamb Of God,0
-2008-09,Leftfield,0
-2008-09,Mushroomhead,0
-2008-09,Shadows Fall,0
-2008-09,System Of A Down,0
-2008-09,Trivium,0
-2008-09,Velvet Acid Christ,0
-2008-09,Zao,0
-2008-10,12 Stones,0
-2008-10,30 Seconds To Mars,0
-2008-10,Adema,0
-2008-10,Atreyu,0
-2008-10,Bullet For My Valentine,0
-2008-10,Chevelle,0
-2008-10,Coal Chamber,0
-2008-10,Creed,0
-2008-10,Demon Hunter,0
-2008-10,Dry Kill Logic,0
-2008-10,Godsmack,0
-2008-10,Infected Mushroom,0
-2008-10,Lamb Of God,0
-2008-10,Leftfield,0
-2008-10,Mushroomhead,0
-2008-10,Shadows Fall,0
-2008-10,System Of A Down,0
-2008-10,Trivium,0
-2008-10,Velvet Acid Christ,0
-2008-10,Zao,0
-2008-11,12 Stones,0
-2008-11,30 Seconds To Mars,1
-2008-11,Adema,2
-2008-11,Atreyu,0
-2008-11,Bullet For My Valentine,0
-2008-11,Chevelle,1
-2008-11,Coal Chamber,1
-2008-11,Creed,3
-2008-11,Demon Hunter,3
-2008-11,Dry Kill Logic,0
-2008-11,Godsmack,1
-2008-11,Infected Mushroom,2
-2008-11,Lamb Of God,2
-2008-11,Leftfield,1
-2008-11,Mushroomhead,2
-2008-11,Shadows Fall,0
-2008-11,System Of A Down,1
-2008-11,Trivium,0
-2008-11,Velvet Acid Christ,0
-2008-11,Zao,1
-2008-12,12 Stones,0
-2008-12,30 Seconds To Mars,0
-2008-12,Adema,0
-2008-12,Atreyu,0
-2008-12,Bullet For My Valentine,0
-2008-12,Chevelle,1
-2008-12,Coal Chamber,1
-2008-12,Creed,1
-2008-12,Demon Hunter,2
-2008-12,Dry Kill Logic,0
-2008-12,Godsmack,0
-2008-12,Infected Mushroom,2
-2008-12,Lamb Of God,1
-2008-12,Leftfield,0
-2008-12,Mushroomhead,1
-2008-12,Shadows Fall,0
-2008-12,System Of A Down,0
-2008-12,Trivium,0
-2008-12,Velvet Acid Christ,0
-2008-12,Zao,2
-2009-01,12 Stones,0
-2009-01,30 Seconds To Mars,0
-2009-01,Adema,0
-2009-01,Atreyu,0
-2009-01,Bullet For My Valentine,0
-2009-01,Chevelle,0
-2009-01,Coal Chamber,0
-2009-01,Creed,0
-2009-01,Demon Hunter,0
-2009-01,Dry Kill Logic,0
-2009-01,Godsmack,0
-2009-01,Infected Mushroom,0
-2009-01,Lamb Of God,0
-2009-01,Leftfield,0
-2009-01,Mushroomhead,0
-2009-01,Shadows Fall,0
-2009-01,System Of A Down,0
-2009-01,Trivium,0
-2009-01,Velvet Acid Christ,0
-2009-01,Zao,0
-2009-02,12 Stones,0
-2009-02,30 Seconds To Mars,0
-2009-02,Adema,0
-2009-02,Atreyu,0
-2009-02,Bullet For My Valentine,0
-2009-02,Chevelle,0
-2009-02,Coal Chamber,0
-2009-02,Creed,0
-2009-02,Demon Hunter,0
-2009-02,Dry Kill Logic,0
-2009-02,Godsmack,0
-2009-02,Infected Mushroom,0
-2009-02,Lamb Of God,0
-2009-02,Leftfield,0
-2009-02,Mushroomhead,0
-2009-02,Shadows Fall,0
-2009-02,System Of A Down,0
-2009-02,Trivium,0
-2009-02,Velvet Acid Christ,0
-2009-02,Zao,0
-2009-03,12 Stones,0
-2009-03,30 Seconds To Mars,0
-2009-03,Adema,0
-2009-03,Atreyu,0
-2009-03,Bullet For My Valentine,0
-2009-03,Chevelle,0
-2009-03,Coal Chamber,0
-2009-03,Creed,0
-2009-03,Demon Hunter,0
-2009-03,Dry Kill Logic,0
-2009-03,Godsmack,0
-2009-03,Infected Mushroom,0
-2009-03,Lamb Of God,0
-2009-03,Leftfield,0
-2009-03,Mushroomhead,0
-2009-03,Shadows Fall,0
-2009-03,System Of A Down,0
-2009-03,Trivium,0
-2009-03,Velvet Acid Christ,0
-2009-03,Zao,0
-2009-04,12 Stones,0
-2009-04,30 Seconds To Mars,1
-2009-04,Adema,0
-2009-04,Atreyu,1
-2009-04,Bullet For My Valentine,0
-2009-04,Chevelle,1
-2009-04,Coal Chamber,0
-2009-04,Creed,1
-2009-04,Demon Hunter,1
-2009-04,Dry Kill Logic,0
-2009-04,Godsmack,1
-2009-04,Infected Mushroom,0
-2009-04,Lamb Of God,1
-2009-04,Leftfield,1
-2009-04,Mushroomhead,1
-2009-04,Shadows Fall,0
-2009-04,System Of A Down,3
-2009-04,Trivium,1
-2009-04,Velvet Acid Christ,0
-2009-04,Zao,0
+"month","artist","plays"
+"2007-05","12 Stones",1
+"2007-05","30 Seconds To Mars",0
+"2007-05","Adema",1
+"2007-05","Atreyu",1
+"2007-05","Bullet For My Valentine",1
+"2007-05","Chevelle",1
+"2007-05","Coal Chamber",1
+"2007-05","Creed",0
+"2007-05","Demon Hunter",165
+"2007-05","Dry Kill Logic",1
+"2007-05","Godsmack",0
+"2007-05","Infected Mushroom",0
+"2007-05","Lamb Of God",1
+"2007-05","Leftfield",0
+"2007-05","Mushroomhead",1
+"2007-05","Shadows Fall",1
+"2007-05","System Of A Down",1
+"2007-05","Trivium",1
+"2007-05","Velvet Acid Christ",0
+"2007-05","Zao",1
+"2007-06","12 Stones",1
+"2007-06","30 Seconds To Mars",5
+"2007-06","Adema",3
+"2007-06","Atreyu",9
+"2007-06","Bullet For My Valentine",6
+"2007-06","Chevelle",1
+"2007-06","Coal Chamber",4
+"2007-06","Creed",2
+"2007-06","Demon Hunter",14
+"2007-06","Dry Kill Logic",3
+"2007-06","Godsmack",3
+"2007-06","Infected Mushroom",7
+"2007-06","Lamb Of God",7
+"2007-06","Leftfield",5
+"2007-06","Mushroomhead",5
+"2007-06","Shadows Fall",4
+"2007-06","System Of A Down",2
+"2007-06","Trivium",11
+"2007-06","Velvet Acid Christ",1
+"2007-06","Zao",11
+"2007-07","12 Stones",1
+"2007-07","30 Seconds To Mars",2
+"2007-07","Adema",0
+"2007-07","Atreyu",2
+"2007-07","Bullet For My Valentine",3
+"2007-07","Chevelle",0
+"2007-07","Coal Chamber",0
+"2007-07","Creed",0
+"2007-07","Demon Hunter",2
+"2007-07","Dry Kill Logic",0
+"2007-07","Godsmack",0
+"2007-07","Infected Mushroom",1
+"2007-07","Lamb Of God",0
+"2007-07","Leftfield",0
+"2007-07","Mushroomhead",0
+"2007-07","Shadows Fall",1
+"2007-07","System Of A Down",0
+"2007-07","Trivium",3
+"2007-07","Velvet Acid Christ",4
+"2007-07","Zao",2
+"2007-08","12 Stones",0
+"2007-08","30 Seconds To Mars",0
+"2007-08","Adema",0
+"2007-08","Atreyu",0
+"2007-08","Bullet For My Valentine",0
+"2007-08","Chevelle",0
+"2007-08","Coal Chamber",0
+"2007-08","Creed",0
+"2007-08","Demon Hunter",0
+"2007-08","Dry Kill Logic",0
+"2007-08","Godsmack",0
+"2007-08","Infected Mushroom",0
+"2007-08","Lamb Of God",0
+"2007-08","Leftfield",0
+"2007-08","Mushroomhead",0
+"2007-08","Shadows Fall",0
+"2007-08","System Of A Down",0
+"2007-08","Trivium",0
+"2007-08","Velvet Acid Christ",1
+"2007-08","Zao",0
+"2007-09","12 Stones",0
+"2007-09","30 Seconds To Mars",1
+"2007-09","Adema",0
+"2007-09","Atreyu",0
+"2007-09","Bullet For My Valentine",1
+"2007-09","Chevelle",0
+"2007-09","Coal Chamber",0
+"2007-09","Creed",0
+"2007-09","Demon Hunter",0
+"2007-09","Dry Kill Logic",0
+"2007-09","Godsmack",0
+"2007-09","Infected Mushroom",0
+"2007-09","Lamb Of God",0
+"2007-09","Leftfield",0
+"2007-09","Mushroomhead",0
+"2007-09","Shadows Fall",0
+"2007-09","System Of A Down",0
+"2007-09","Trivium",1
+"2007-09","Velvet Acid Christ",2
+"2007-09","Zao",0
+"2007-10","12 Stones",19
+"2007-10","30 Seconds To Mars",2
+"2007-10","Adema",3
+"2007-10","Atreyu",17
+"2007-10","Bullet For My Valentine",7
+"2007-10","Chevelle",1
+"2007-10","Coal Chamber",25
+"2007-10","Creed",2
+"2007-10","Demon Hunter",11
+"2007-10","Dry Kill Logic",4
+"2007-10","Godsmack",8
+"2007-10","Infected Mushroom",22
+"2007-10","Lamb Of God",6
+"2007-10","Leftfield",15
+"2007-10","Mushroomhead",5
+"2007-10","Shadows Fall",3
+"2007-10","System Of A Down",3
+"2007-10","Trivium",4
+"2007-10","Velvet Acid Christ",3
+"2007-10","Zao",12
+"2007-11","12 Stones",0
+"2007-11","30 Seconds To Mars",0
+"2007-11","Adema",0
+"2007-11","Atreyu",0
+"2007-11","Bullet For My Valentine",0
+"2007-11","Chevelle",1
+"2007-11","Coal Chamber",0
+"2007-11","Creed",0
+"2007-11","Demon Hunter",0
+"2007-11","Dry Kill Logic",1
+"2007-11","Godsmack",1
+"2007-11","Infected Mushroom",0
+"2007-11","Lamb Of God",1
+"2007-11","Leftfield",0
+"2007-11","Mushroomhead",0
+"2007-11","Shadows Fall",0
+"2007-11","System Of A Down",1
+"2007-11","Trivium",0
+"2007-11","Velvet Acid Christ",0
+"2007-11","Zao",0
+"2007-12","12 Stones",0
+"2007-12","30 Seconds To Mars",0
+"2007-12","Adema",0
+"2007-12","Atreyu",0
+"2007-12","Bullet For My Valentine",0
+"2007-12","Chevelle",0
+"2007-12","Coal Chamber",0
+"2007-12","Creed",0
+"2007-12","Demon Hunter",1
+"2007-12","Dry Kill Logic",1
+"2007-12","Godsmack",0
+"2007-12","Infected Mushroom",0
+"2007-12","Lamb Of God",0
+"2007-12","Leftfield",1
+"2007-12","Mushroomhead",1
+"2007-12","Shadows Fall",1
+"2007-12","System Of A Down",0
+"2007-12","Trivium",0
+"2007-12","Velvet Acid Christ",0
+"2007-12","Zao",0
+"2008-01","12 Stones",3
+"2008-01","30 Seconds To Mars",2
+"2008-01","Adema",1
+"2008-01","Atreyu",1
+"2008-01","Bullet For My Valentine",3
+"2008-01","Chevelle",5
+"2008-01","Coal Chamber",2
+"2008-01","Creed",2
+"2008-01","Demon Hunter",2
+"2008-01","Dry Kill Logic",1
+"2008-01","Godsmack",6
+"2008-01","Infected Mushroom",1
+"2008-01","Lamb Of God",3
+"2008-01","Leftfield",1
+"2008-01","Mushroomhead",2
+"2008-01","Shadows Fall",1
+"2008-01","System Of A Down",1
+"2008-01","Trivium",4
+"2008-01","Velvet Acid Christ",1
+"2008-01","Zao",1
+"2008-02","12 Stones",10
+"2008-02","30 Seconds To Mars",1
+"2008-02","Adema",2
+"2008-02","Atreyu",13
+"2008-02","Bullet For My Valentine",3
+"2008-02","Chevelle",2
+"2008-02","Coal Chamber",12
+"2008-02","Creed",12
+"2008-02","Demon Hunter",11
+"2008-02","Dry Kill Logic",2
+"2008-02","Godsmack",11
+"2008-02","Infected Mushroom",10
+"2008-02","Lamb Of God",11
+"2008-02","Leftfield",3
+"2008-02","Mushroomhead",3
+"2008-02","Shadows Fall",2
+"2008-02","System Of A Down",10
+"2008-02","Trivium",3
+"2008-02","Velvet Acid Christ",2
+"2008-02","Zao",3
+"2008-03","12 Stones",0
+"2008-03","30 Seconds To Mars",0
+"2008-03","Adema",0
+"2008-03","Atreyu",0
+"2008-03","Bullet For My Valentine",0
+"2008-03","Chevelle",0
+"2008-03","Coal Chamber",0
+"2008-03","Creed",0
+"2008-03","Demon Hunter",0
+"2008-03","Dry Kill Logic",0
+"2008-03","Godsmack",0
+"2008-03","Infected Mushroom",0
+"2008-03","Lamb Of God",0
+"2008-03","Leftfield",0
+"2008-03","Mushroomhead",0
+"2008-03","Shadows Fall",0
+"2008-03","System Of A Down",0
+"2008-03","Trivium",0
+"2008-03","Velvet Acid Christ",0
+"2008-03","Zao",0
+"2008-04","12 Stones",0
+"2008-04","30 Seconds To Mars",0
+"2008-04","Adema",0
+"2008-04","Atreyu",0
+"2008-04","Bullet For My Valentine",0
+"2008-04","Chevelle",0
+"2008-04","Coal Chamber",0
+"2008-04","Creed",0
+"2008-04","Demon Hunter",0
+"2008-04","Dry Kill Logic",0
+"2008-04","Godsmack",0
+"2008-04","Infected Mushroom",0
+"2008-04","Lamb Of God",0
+"2008-04","Leftfield",0
+"2008-04","Mushroomhead",0
+"2008-04","Shadows Fall",0
+"2008-04","System Of A Down",0
+"2008-04","Trivium",0
+"2008-04","Velvet Acid Christ",0
+"2008-04","Zao",0
+"2008-05","12 Stones",0
+"2008-05","30 Seconds To Mars",0
+"2008-05","Adema",0
+"2008-05","Atreyu",0
+"2008-05","Bullet For My Valentine",1
+"2008-05","Chevelle",0
+"2008-05","Coal Chamber",0
+"2008-05","Creed",0
+"2008-05","Demon Hunter",0
+"2008-05","Dry Kill Logic",0
+"2008-05","Godsmack",1
+"2008-05","Infected Mushroom",0
+"2008-05","Lamb Of God",0
+"2008-05","Leftfield",0
+"2008-05","Mushroomhead",0
+"2008-05","Shadows Fall",0
+"2008-05","System Of A Down",0
+"2008-05","Trivium",0
+"2008-05","Velvet Acid Christ",0
+"2008-05","Zao",1
+"2008-06","12 Stones",1
+"2008-06","30 Seconds To Mars",0
+"2008-06","Adema",1
+"2008-06","Atreyu",0
+"2008-06","Bullet For My Valentine",0
+"2008-06","Chevelle",2
+"2008-06","Coal Chamber",1
+"2008-06","Creed",2
+"2008-06","Demon Hunter",0
+"2008-06","Dry Kill Logic",1
+"2008-06","Godsmack",0
+"2008-06","Infected Mushroom",1
+"2008-06","Lamb Of God",0
+"2008-06","Leftfield",1
+"2008-06","Mushroomhead",0
+"2008-06","Shadows Fall",1
+"2008-06","System Of A Down",1
+"2008-06","Trivium",0
+"2008-06","Velvet Acid Christ",1
+"2008-06","Zao",0
+"2008-07","12 Stones",0
+"2008-07","30 Seconds To Mars",0
+"2008-07","Adema",0
+"2008-07","Atreyu",0
+"2008-07","Bullet For My Valentine",0
+"2008-07","Chevelle",0
+"2008-07","Coal Chamber",0
+"2008-07","Creed",0
+"2008-07","Demon Hunter",0
+"2008-07","Dry Kill Logic",0
+"2008-07","Godsmack",0
+"2008-07","Infected Mushroom",0
+"2008-07","Lamb Of God",0
+"2008-07","Leftfield",0
+"2008-07","Mushroomhead",0
+"2008-07","Shadows Fall",0
+"2008-07","System Of A Down",0
+"2008-07","Trivium",0
+"2008-07","Velvet Acid Christ",0
+"2008-07","Zao",0
+"2008-08","12 Stones",0
+"2008-08","30 Seconds To Mars",0
+"2008-08","Adema",0
+"2008-08","Atreyu",0
+"2008-08","Bullet For My Valentine",0
+"2008-08","Chevelle",0
+"2008-08","Coal Chamber",0
+"2008-08","Creed",0
+"2008-08","Demon Hunter",0
+"2008-08","Dry Kill Logic",0
+"2008-08","Godsmack",0
+"2008-08","Infected Mushroom",0
+"2008-08","Lamb Of God",0
+"2008-08","Leftfield",0
+"2008-08","Mushroomhead",0
+"2008-08","Shadows Fall",0
+"2008-08","System Of A Down",0
+"2008-08","Trivium",0
+"2008-08","Velvet Acid Christ",0
+"2008-08","Zao",0
+"2008-09","12 Stones",0
+"2008-09","30 Seconds To Mars",0
+"2008-09","Adema",0
+"2008-09","Atreyu",0
+"2008-09","Bullet For My Valentine",0
+"2008-09","Chevelle",0
+"2008-09","Coal Chamber",0
+"2008-09","Creed",0
+"2008-09","Demon Hunter",0
+"2008-09","Dry Kill Logic",0
+"2008-09","Godsmack",0
+"2008-09","Infected Mushroom",0
+"2008-09","Lamb Of God",0
+"2008-09","Leftfield",0
+"2008-09","Mushroomhead",0
+"2008-09","Shadows Fall",0
+"2008-09","System Of A Down",0
+"2008-09","Trivium",0
+"2008-09","Velvet Acid Christ",0
+"2008-09","Zao",0
+"2008-10","12 Stones",0
+"2008-10","30 Seconds To Mars",0
+"2008-10","Adema",0
+"2008-10","Atreyu",0
+"2008-10","Bullet For My Valentine",0
+"2008-10","Chevelle",0
+"2008-10","Coal Chamber",0
+"2008-10","Creed",0
+"2008-10","Demon Hunter",0
+"2008-10","Dry Kill Logic",0
+"2008-10","Godsmack",0
+"2008-10","Infected Mushroom",0
+"2008-10","Lamb Of God",0
+"2008-10","Leftfield",0
+"2008-10","Mushroomhead",0
+"2008-10","Shadows Fall",0
+"2008-10","System Of A Down",0
+"2008-10","Trivium",0
+"2008-10","Velvet Acid Christ",0
+"2008-10","Zao",0
+"2008-11","12 Stones",0
+"2008-11","30 Seconds To Mars",1
+"2008-11","Adema",2
+"2008-11","Atreyu",0
+"2008-11","Bullet For My Valentine",0
+"2008-11","Chevelle",1
+"2008-11","Coal Chamber",1
+"2008-11","Creed",3
+"2008-11","Demon Hunter",3
+"2008-11","Dry Kill Logic",0
+"2008-11","Godsmack",1
+"2008-11","Infected Mushroom",2
+"2008-11","Lamb Of God",2
+"2008-11","Leftfield",1
+"2008-11","Mushroomhead",2
+"2008-11","Shadows Fall",0
+"2008-11","System Of A Down",1
+"2008-11","Trivium",0
+"2008-11","Velvet Acid Christ",0
+"2008-11","Zao",1
+"2008-12","12 Stones",0
+"2008-12","30 Seconds To Mars",0
+"2008-12","Adema",0
+"2008-12","Atreyu",0
+"2008-12","Bullet For My Valentine",0
+"2008-12","Chevelle",1
+"2008-12","Coal Chamber",1
+"2008-12","Creed",1
+"2008-12","Demon Hunter",2
+"2008-12","Dry Kill Logic",0
+"2008-12","Godsmack",0
+"2008-12","Infected Mushroom",2
+"2008-12","Lamb Of God",1
+"2008-12","Leftfield",0
+"2008-12","Mushroomhead",1
+"2008-12","Shadows Fall",0
+"2008-12","System Of A Down",0
+"2008-12","Trivium",0
+"2008-12","Velvet Acid Christ",0
+"2008-12","Zao",2
+"2009-01","12 Stones",0
+"2009-01","30 Seconds To Mars",0
+"2009-01","Adema",0
+"2009-01","Atreyu",0
+"2009-01","Bullet For My Valentine",0
+"2009-01","Chevelle",0
+"2009-01","Coal Chamber",0
+"2009-01","Creed",0
+"2009-01","Demon Hunter",0
+"2009-01","Dry Kill Logic",0
+"2009-01","Godsmack",0
+"2009-01","Infected Mushroom",0
+"2009-01","Lamb Of God",0
+"2009-01","Leftfield",0
+"2009-01","Mushroomhead",0
+"2009-01","Shadows Fall",0
+"2009-01","System Of A Down",0
+"2009-01","Trivium",0
+"2009-01","Velvet Acid Christ",0
+"2009-01","Zao",0
+"2009-02","12 Stones",0
+"2009-02","30 Seconds To Mars",0
+"2009-02","Adema",0
+"2009-02","Atreyu",0
+"2009-02","Bullet For My Valentine",0
+"2009-02","Chevelle",0
+"2009-02","Coal Chamber",0
+"2009-02","Creed",0
+"2009-02","Demon Hunter",0
+"2009-02","Dry Kill Logic",0
+"2009-02","Godsmack",0
+"2009-02","Infected Mushroom",0
+"2009-02","Lamb Of God",0
+"2009-02","Leftfield",0
+"2009-02","Mushroomhead",0
+"2009-02","Shadows Fall",0
+"2009-02","System Of A Down",0
+"2009-02","Trivium",0
+"2009-02","Velvet Acid Christ",0
+"2009-02","Zao",0
+"2009-03","12 Stones",0
+"2009-03","30 Seconds To Mars",0
+"2009-03","Adema",0
+"2009-03","Atreyu",0
+"2009-03","Bullet For My Valentine",0
+"2009-03","Chevelle",0
+"2009-03","Coal Chamber",0
+"2009-03","Creed",0
+"2009-03","Demon Hunter",0
+"2009-03","Dry Kill Logic",0
+"2009-03","Godsmack",0
+"2009-03","Infected Mushroom",0
+"2009-03","Lamb Of God",0
+"2009-03","Leftfield",0
+"2009-03","Mushroomhead",0
+"2009-03","Shadows Fall",0
+"2009-03","System Of A Down",0
+"2009-03","Trivium",0
+"2009-03","Velvet Acid Christ",0
+"2009-03","Zao",0
+"2009-04","12 Stones",0
+"2009-04","30 Seconds To Mars",1
+"2009-04","Adema",0
+"2009-04","Atreyu",1
+"2009-04","Bullet For My Valentine",0
+"2009-04","Chevelle",1
+"2009-04","Coal Chamber",0
+"2009-04","Creed",1
+"2009-04","Demon Hunter",1
+"2009-04","Dry Kill Logic",0
+"2009-04","Godsmack",1
+"2009-04","Infected Mushroom",0
+"2009-04","Lamb Of God",1
+"2009-04","Leftfield",1
+"2009-04","Mushroomhead",1
+"2009-04","Shadows Fall",0
+"2009-04","System Of A Down",3
+"2009-04","Trivium",1
+"2009-04","Velvet Acid Christ",0
+"2009-04","Zao",0

@@ -1,81 +1,81 @@
-month,artist,plays
-2009-02,Aesop Rock,13
-2009-02,Agalloch,10
-2009-02,At The Drive-In,11
-2009-02,Boards Of Canada,6
-2009-02,Bone Thugs-N-Harmony,6
-2009-02,Burzum,5
-2009-02,Equilibrium,6
-2009-02,Havoc Unit,2
-2009-02,Ladytron,0
-2009-02,Lamb Of God,6
-2009-02,Old Man'S Child,15
-2009-02,Polaris,1
-2009-02,Project Pat,12
-2009-02,Protest The Hero,3
-2009-02,Simon Viklund,1
-2009-02,Sunn O))),7
-2009-02,The Bug,75
-2009-02,The Fall Of Troy,5
-2009-02,The Forecast,2
-2009-02,Three 6 Mafia,12
-2009-03,Aesop Rock,22
-2009-03,Agalloch,22
-2009-03,At The Drive-In,10
-2009-03,Boards Of Canada,1
-2009-03,Bone Thugs-N-Harmony,2
-2009-03,Burzum,6
-2009-03,Equilibrium,7
-2009-03,Havoc Unit,4
-2009-03,Ladytron,3
-2009-03,Lamb Of God,11
-2009-03,Old Man'S Child,15
-2009-03,Polaris,2
-2009-03,Project Pat,4
-2009-03,Protest The Hero,1
-2009-03,Simon Viklund,1
-2009-03,Sunn O))),5
-2009-03,The Bug,78
-2009-03,The Fall Of Troy,4
-2009-03,The Forecast,1
-2009-03,Three 6 Mafia,18
-2009-04,Aesop Rock,13
-2009-04,Agalloch,29
-2009-04,At The Drive-In,3
-2009-04,Boards Of Canada,4
-2009-04,Bone Thugs-N-Harmony,1
-2009-04,Burzum,6
-2009-04,Equilibrium,13
-2009-04,Havoc Unit,2
-2009-04,Ladytron,8
-2009-04,Lamb Of God,3
-2009-04,Old Man'S Child,5
-2009-04,Polaris,2
-2009-04,Project Pat,3
-2009-04,Protest The Hero,3
-2009-04,Simon Viklund,1
-2009-04,Sunn O))),2
-2009-04,The Bug,18
-2009-04,The Fall Of Troy,1
-2009-04,The Forecast,1
-2009-04,Three 6 Mafia,12
-2009-05,Aesop Rock,0
-2009-05,Agalloch,0
-2009-05,At The Drive-In,0
-2009-05,Boards Of Canada,0
-2009-05,Bone Thugs-N-Harmony,0
-2009-05,Burzum,0
-2009-05,Equilibrium,0
-2009-05,Havoc Unit,0
-2009-05,Ladytron,2
-2009-05,Lamb Of God,0
-2009-05,Old Man'S Child,0
-2009-05,Polaris,0
-2009-05,Project Pat,0
-2009-05,Protest The Hero,0
-2009-05,Simon Viklund,0
-2009-05,Sunn O))),0
-2009-05,The Bug,0
-2009-05,The Fall Of Troy,0
-2009-05,The Forecast,0
-2009-05,Three 6 Mafia,1
+"month","artist","plays"
+"2009-02","Aesop Rock",13
+"2009-02","Agalloch",10
+"2009-02","At The Drive-In",11
+"2009-02","Boards Of Canada",6
+"2009-02","Bone Thugs-N-Harmony",6
+"2009-02","Burzum",5
+"2009-02","Equilibrium",6
+"2009-02","Havoc Unit",2
+"2009-02","Ladytron",0
+"2009-02","Lamb Of God",6
+"2009-02","Old Man'S Child",15
+"2009-02","Polaris",1
+"2009-02","Project Pat",12
+"2009-02","Protest The Hero",3
+"2009-02","Simon Viklund",1
+"2009-02","Sunn O)))",7
+"2009-02","The Bug",75
+"2009-02","The Fall Of Troy",5
+"2009-02","The Forecast",2
+"2009-02","Three 6 Mafia",12
+"2009-03","Aesop Rock",22
+"2009-03","Agalloch",22
+"2009-03","At The Drive-In",10
+"2009-03","Boards Of Canada",1
+"2009-03","Bone Thugs-N-Harmony",2
+"2009-03","Burzum",6
+"2009-03","Equilibrium",7
+"2009-03","Havoc Unit",4
+"2009-03","Ladytron",3
+"2009-03","Lamb Of God",11
+"2009-03","Old Man'S Child",15
+"2009-03","Polaris",2
+"2009-03","Project Pat",4
+"2009-03","Protest The Hero",1
+"2009-03","Simon Viklund",1
+"2009-03","Sunn O)))",5
+"2009-03","The Bug",78
+"2009-03","The Fall Of Troy",4
+"2009-03","The Forecast",1
+"2009-03","Three 6 Mafia",18
+"2009-04","Aesop Rock",13
+"2009-04","Agalloch",29
+"2009-04","At The Drive-In",3
+"2009-04","Boards Of Canada",4
+"2009-04","Bone Thugs-N-Harmony",1
+"2009-04","Burzum",6
+"2009-04","Equilibrium",13
+"2009-04","Havoc Unit",2
+"2009-04","Ladytron",8
+"2009-04","Lamb Of God",3
+"2009-04","Old Man'S Child",5
+"2009-04","Polaris",2
+"2009-04","Project Pat",3
+"2009-04","Protest The Hero",3
+"2009-04","Simon Viklund",1
+"2009-04","Sunn O)))",2
+"2009-04","The Bug",18
+"2009-04","The Fall Of Troy",1
+"2009-04","The Forecast",1
+"2009-04","Three 6 Mafia",12
+"2009-05","Aesop Rock",0
+"2009-05","Agalloch",0
+"2009-05","At The Drive-In",0
+"2009-05","Boards Of Canada",0
+"2009-05","Bone Thugs-N-Harmony",0
+"2009-05","Burzum",0
+"2009-05","Equilibrium",0
+"2009-05","Havoc Unit",0
+"2009-05","Ladytron",2
+"2009-05","Lamb Of God",0
+"2009-05","Old Man'S Child",0
+"2009-05","Polaris",0
+"2009-05","Project Pat",0
+"2009-05","Protest The Hero",0
+"2009-05","Simon Viklund",0
+"2009-05","Sunn O)))",0
+"2009-05","The Bug",0
+"2009-05","The Fall Of Troy",0
+"2009-05","The Forecast",0
+"2009-05","Three 6 Mafia",1

@@ -1,561 +1,561 @@
-month,artist,plays
-2007-02,Clint Mansell,1
-2007-02,Coldplay,0
-2007-02,Danny Elfman,2
-2007-02,Foo Fighters,3
-2007-02,Grzegorz Turnau,8
-2007-02,Hans Zimmer,0
-2007-02,Howard Shore,3
-2007-02,Linkin Park,1
-2007-02,Metallica,4
-2007-02,Muse,18
-2007-02,My Chemical Romance,5
-2007-02,Pink Floyd,12
-2007-02,Placebo,2
-2007-02,Queen,1
-2007-02,Red Hot Chili Peppers,25
-2007-02,System Of A Down,6
-2007-02,The Hives,2
-2007-02,The Rolling Stones,3
-2007-02,The Strokes,6
-2007-02,U2,5
-2007-03,Clint Mansell,3
-2007-03,Coldplay,1
-2007-03,Danny Elfman,5
-2007-03,Foo Fighters,4
-2007-03,Grzegorz Turnau,9
-2007-03,Hans Zimmer,15
-2007-03,Howard Shore,2
-2007-03,Linkin Park,2
-2007-03,Metallica,5
-2007-03,Muse,10
-2007-03,My Chemical Romance,2
-2007-03,Pink Floyd,11
-2007-03,Placebo,7
-2007-03,Queen,7
-2007-03,Red Hot Chili Peppers,16
-2007-03,System Of A Down,6
-2007-03,The Hives,2
-2007-03,The Rolling Stones,3
-2007-03,The Strokes,10
-2007-03,U2,4
-2007-04,Clint Mansell,0
-2007-04,Coldplay,0
-2007-04,Danny Elfman,7
-2007-04,Foo Fighters,3
-2007-04,Grzegorz Turnau,11
-2007-04,Hans Zimmer,10
-2007-04,Howard Shore,3
-2007-04,Linkin Park,1
-2007-04,Metallica,12
-2007-04,Muse,10
-2007-04,My Chemical Romance,5
-2007-04,Pink Floyd,12
-2007-04,Placebo,3
-2007-04,Queen,8
-2007-04,Red Hot Chili Peppers,14
-2007-04,System Of A Down,12
-2007-04,The Hives,7
-2007-04,The Rolling Stones,1
-2007-04,The Strokes,8
-2007-04,U2,7
-2007-05,Clint Mansell,0
-2007-05,Coldplay,1
-2007-05,Danny Elfman,0
-2007-05,Foo Fighters,2
-2007-05,Grzegorz Turnau,2
-2007-05,Hans Zimmer,0
-2007-05,Howard Shore,1
-2007-05,Linkin Park,0
-2007-05,Metallica,3
-2007-05,Muse,4
-2007-05,My Chemical Romance,1
-2007-05,Pink Floyd,2
-2007-05,Placebo,2
-2007-05,Queen,2
-2007-05,Red Hot Chili Peppers,1
-2007-05,System Of A Down,0
-2007-05,The Hives,0
-2007-05,The Rolling Stones,1
-2007-05,The Strokes,1
-2007-05,U2,0
-2007-06,Clint Mansell,0
-2007-06,Coldplay,0
-2007-06,Danny Elfman,0
-2007-06,Foo Fighters,0
-2007-06,Grzegorz Turnau,0
-2007-06,Hans Zimmer,0
-2007-06,Howard Shore,0
-2007-06,Linkin Park,0
-2007-06,Metallica,0
-2007-06,Muse,0
-2007-06,My Chemical Romance,0
-2007-06,Pink Floyd,0
-2007-06,Placebo,0
-2007-06,Queen,0
-2007-06,Red Hot Chili Peppers,0
-2007-06,System Of A Down,0
-2007-06,The Hives,0
-2007-06,The Rolling Stones,0
-2007-06,The Strokes,0
-2007-06,U2,0
-2007-07,Clint Mansell,0
-2007-07,Coldplay,0
-2007-07,Danny Elfman,0
-2007-07,Foo Fighters,0
-2007-07,Grzegorz Turnau,0
-2007-07,Hans Zimmer,0
-2007-07,Howard Shore,0
-2007-07,Linkin Park,0
-2007-07,Metallica,0
-2007-07,Muse,0
-2007-07,My Chemical Romance,0
-2007-07,Pink Floyd,0
-2007-07,Placebo,0
-2007-07,Queen,0
-2007-07,Red Hot Chili Peppers,0
-2007-07,System Of A Down,0
-2007-07,The Hives,0
-2007-07,The Rolling Stones,0
-2007-07,The Strokes,0
-2007-07,U2,0
-2007-08,Clint Mansell,0
-2007-08,Coldplay,0
-2007-08,Danny Elfman,0
-2007-08,Foo Fighters,1
-2007-08,Grzegorz Turnau,1
-2007-08,Hans Zimmer,1
-2007-08,Howard Shore,0
-2007-08,Linkin Park,0
-2007-08,Metallica,0
-2007-08,Muse,0
-2007-08,My Chemical Romance,0
-2007-08,Pink Floyd,1
-2007-08,Placebo,1
-2007-08,Queen,0
-2007-08,Red Hot Chili Peppers,3
-2007-08,System Of A Down,3
-2007-08,The Hives,0
-2007-08,The Rolling Stones,1
-2007-08,The Strokes,1
-2007-08,U2,0
-2007-09,Clint Mansell,5
-2007-09,Coldplay,1
-2007-09,Danny Elfman,8
-2007-09,Foo Fighters,9
-2007-09,Grzegorz Turnau,22
-2007-09,Hans Zimmer,8
-2007-09,Howard Shore,15
-2007-09,Linkin Park,7
-2007-09,Metallica,19
-2007-09,Muse,10
-2007-09,My Chemical Romance,7
-2007-09,Pink Floyd,56
-2007-09,Placebo,12
-2007-09,Queen,12
-2007-09,Red Hot Chili Peppers,44
-2007-09,System Of A Down,19
-2007-09,The Hives,8
-2007-09,The Rolling Stones,15
-2007-09,The Strokes,11
-2007-09,U2,22
-2007-10,Clint Mansell,4
-2007-10,Coldplay,2
-2007-10,Danny Elfman,3
-2007-10,Foo Fighters,6
-2007-10,Grzegorz Turnau,38
-2007-10,Hans Zimmer,2
-2007-10,Howard Shore,6
-2007-10,Linkin Park,7
-2007-10,Metallica,32
-2007-10,Muse,14
-2007-10,My Chemical Romance,21
-2007-10,Pink Floyd,13
-2007-10,Placebo,10
-2007-10,Queen,7
-2007-10,Red Hot Chili Peppers,15
-2007-10,System Of A Down,16
-2007-10,The Hives,57
-2007-10,The Rolling Stones,15
-2007-10,The Strokes,5
-2007-10,U2,18
-2007-11,Clint Mansell,4
-2007-11,Coldplay,0
-2007-11,Danny Elfman,6
-2007-11,Foo Fighters,0
-2007-11,Grzegorz Turnau,12
-2007-11,Hans Zimmer,20
-2007-11,Howard Shore,2
-2007-11,Linkin Park,12
-2007-11,Metallica,5
-2007-11,Muse,4
-2007-11,My Chemical Romance,9
-2007-11,Pink Floyd,9
-2007-11,Placebo,2
-2007-11,Queen,4
-2007-11,Red Hot Chili Peppers,8
-2007-11,System Of A Down,19
-2007-11,The Hives,24
-2007-11,The Rolling Stones,5
-2007-11,The Strokes,4
-2007-11,U2,2
-2007-12,Clint Mansell,6
-2007-12,Coldplay,1
-2007-12,Danny Elfman,2
-2007-12,Foo Fighters,8
-2007-12,Grzegorz Turnau,6
-2007-12,Hans Zimmer,2
-2007-12,Howard Shore,0
-2007-12,Linkin Park,35
-2007-12,Metallica,13
-2007-12,Muse,1
-2007-12,My Chemical Romance,7
-2007-12,Pink Floyd,7
-2007-12,Placebo,5
-2007-12,Queen,10
-2007-12,Red Hot Chili Peppers,10
-2007-12,System Of A Down,3
-2007-12,The Hives,14
-2007-12,The Rolling Stones,3
-2007-12,The Strokes,2
-2007-12,U2,4
-2008-01,Clint Mansell,4
-2008-01,Coldplay,3
-2008-01,Danny Elfman,3
-2008-01,Foo Fighters,12
-2008-01,Grzegorz Turnau,14
-2008-01,Hans Zimmer,3
-2008-01,Howard Shore,15
-2008-01,Linkin Park,8
-2008-01,Metallica,7
-2008-01,Muse,3
-2008-01,My Chemical Romance,2
-2008-01,Pink Floyd,12
-2008-01,Placebo,2
-2008-01,Queen,9
-2008-01,Red Hot Chili Peppers,9
-2008-01,System Of A Down,7
-2008-01,The Hives,5
-2008-01,The Rolling Stones,6
-2008-01,The Strokes,9
-2008-01,U2,4
-2008-02,Clint Mansell,4
-2008-02,Coldplay,4
-2008-02,Danny Elfman,1
-2008-02,Foo Fighters,7
-2008-02,Grzegorz Turnau,9
-2008-02,Hans Zimmer,4
-2008-02,Howard Shore,6
-2008-02,Linkin Park,9
-2008-02,Metallica,8
-2008-02,Muse,2
-2008-02,My Chemical Romance,1
-2008-02,Pink Floyd,10
-2008-02,Placebo,4
-2008-02,Queen,10
-2008-02,Red Hot Chili Peppers,19
-2008-02,System Of A Down,5
-2008-02,The Hives,11
-2008-02,The Rolling Stones,11
-2008-02,The Strokes,3
-2008-02,U2,3
-2008-03,Clint Mansell,4
-2008-03,Coldplay,2
-2008-03,Danny Elfman,6
-2008-03,Foo Fighters,7
-2008-03,Grzegorz Turnau,2
-2008-03,Hans Zimmer,4
-2008-03,Howard Shore,1
-2008-03,Linkin Park,5
-2008-03,Metallica,10
-2008-03,Muse,6
-2008-03,My Chemical Romance,4
-2008-03,Pink Floyd,15
-2008-03,Placebo,5
-2008-03,Queen,7
-2008-03,Red Hot Chili Peppers,12
-2008-03,System Of A Down,2
-2008-03,The Hives,5
-2008-03,The Rolling Stones,2
-2008-03,The Strokes,2
-2008-03,U2,1
-2008-04,Clint Mansell,4
-2008-04,Coldplay,3
-2008-04,Danny Elfman,3
-2008-04,Foo Fighters,6
-2008-04,Grzegorz Turnau,8
-2008-04,Hans Zimmer,29
-2008-04,Howard Shore,2
-2008-04,Linkin Park,5
-2008-04,Metallica,4
-2008-04,Muse,5
-2008-04,My Chemical Romance,4
-2008-04,Pink Floyd,11
-2008-04,Placebo,1
-2008-04,Queen,7
-2008-04,Red Hot Chili Peppers,6
-2008-04,System Of A Down,7
-2008-04,The Hives,6
-2008-04,The Rolling Stones,4
-2008-04,The Strokes,3
-2008-04,U2,2
-2008-05,Clint Mansell,5
-2008-05,Coldplay,1
-2008-05,Danny Elfman,1
-2008-05,Foo Fighters,8
-2008-05,Grzegorz Turnau,0
-2008-05,Hans Zimmer,3
-2008-05,Howard Shore,4
-2008-05,Linkin Park,2
-2008-05,Metallica,5
-2008-05,Muse,7
-2008-05,My Chemical Romance,5
-2008-05,Pink Floyd,12
-2008-05,Placebo,6
-2008-05,Queen,6
-2008-05,Red Hot Chili Peppers,7
-2008-05,System Of A Down,7
-2008-05,The Hives,4
-2008-05,The Rolling Stones,2
-2008-05,The Strokes,4
-2008-05,U2,3
-2008-06,Clint Mansell,0
-2008-06,Coldplay,1
-2008-06,Danny Elfman,1
-2008-06,Foo Fighters,2
-2008-06,Grzegorz Turnau,4
-2008-06,Hans Zimmer,2
-2008-06,Howard Shore,2
-2008-06,Linkin Park,1
-2008-06,Metallica,7
-2008-06,Muse,0
-2008-06,My Chemical Romance,1
-2008-06,Pink Floyd,9
-2008-06,Placebo,1
-2008-06,Queen,2
-2008-06,Red Hot Chili Peppers,4
-2008-06,System Of A Down,4
-2008-06,The Hives,4
-2008-06,The Rolling Stones,3
-2008-06,The Strokes,0
-2008-06,U2,1
-2008-07,Clint Mansell,0
-2008-07,Coldplay,2
-2008-07,Danny Elfman,1
-2008-07,Foo Fighters,0
-2008-07,Grzegorz Turnau,0
-2008-07,Hans Zimmer,2
-2008-07,Howard Shore,0
-2008-07,Linkin Park,0
-2008-07,Metallica,2
-2008-07,Muse,2
-2008-07,My Chemical Romance,0
-2008-07,Pink Floyd,6
-2008-07,Placebo,1
-2008-07,Queen,2
-2008-07,Red Hot Chili Peppers,1
-2008-07,System Of A Down,2
-2008-07,The Hives,4
-2008-07,The Rolling Stones,2
-2008-07,The Strokes,1
-2008-07,U2,1
-2008-08,Clint Mansell,1
-2008-08,Coldplay,1
-2008-08,Danny Elfman,0
-2008-08,Foo Fighters,3
-2008-08,Grzegorz Turnau,2
-2008-08,Hans Zimmer,2
-2008-08,Howard Shore,0
-2008-08,Linkin Park,1
-2008-08,Metallica,22
-2008-08,Muse,2
-2008-08,My Chemical Romance,2
-2008-08,Pink Floyd,2
-2008-08,Placebo,0
-2008-08,Queen,3
-2008-08,Red Hot Chili Peppers,3
-2008-08,System Of A Down,0
-2008-08,The Hives,2
-2008-08,The Rolling Stones,4
-2008-08,The Strokes,2
-2008-08,U2,0
-2008-09,Clint Mansell,0
-2008-09,Coldplay,0
-2008-09,Danny Elfman,0
-2008-09,Foo Fighters,0
-2008-09,Grzegorz Turnau,0
-2008-09,Hans Zimmer,1
-2008-09,Howard Shore,2
-2008-09,Linkin Park,0
-2008-09,Metallica,4
-2008-09,Muse,2
-2008-09,My Chemical Romance,0
-2008-09,Pink Floyd,0
-2008-09,Placebo,0
-2008-09,Queen,0
-2008-09,Red Hot Chili Peppers,1
-2008-09,System Of A Down,0
-2008-09,The Hives,2
-2008-09,The Rolling Stones,1
-2008-09,The Strokes,2
-2008-09,U2,0
-2008-10,Clint Mansell,0
-2008-10,Coldplay,0
-2008-10,Danny Elfman,0
-2008-10,Foo Fighters,0
-2008-10,Grzegorz Turnau,0
-2008-10,Hans Zimmer,0
-2008-10,Howard Shore,0
-2008-10,Linkin Park,0
-2008-10,Metallica,0
-2008-10,Muse,0
-2008-10,My Chemical Romance,0
-2008-10,Pink Floyd,0
-2008-10,Placebo,0
-2008-10,Queen,0
-2008-10,Red Hot Chili Peppers,0
-2008-10,System Of A Down,0
-2008-10,The Hives,0
-2008-10,The Rolling Stones,0
-2008-10,The Strokes,0
-2008-10,U2,0
-2008-11,Clint Mansell,1
-2008-11,Coldplay,2
-2008-11,Danny Elfman,2
-2008-11,Foo Fighters,1
-2008-11,Grzegorz Turnau,2
-2008-11,Hans Zimmer,4
-2008-11,Howard Shore,11
-2008-11,Linkin Park,2
-2008-11,Metallica,13
-2008-11,Muse,10
-2008-11,My Chemical Romance,4
-2008-11,Pink Floyd,1
-2008-11,Placebo,3
-2008-11,Queen,8
-2008-11,Red Hot Chili Peppers,2
-2008-11,System Of A Down,5
-2008-11,The Hives,2
-2008-11,The Rolling Stones,3
-2008-11,The Strokes,1
-2008-11,U2,3
-2008-12,Clint Mansell,2
-2008-12,Coldplay,4
-2008-12,Danny Elfman,0
-2008-12,Foo Fighters,7
-2008-12,Grzegorz Turnau,8
-2008-12,Hans Zimmer,3
-2008-12,Howard Shore,2
-2008-12,Linkin Park,11
-2008-12,Metallica,13
-2008-12,Muse,8
-2008-12,My Chemical Romance,2
-2008-12,Pink Floyd,10
-2008-12,Placebo,4
-2008-12,Queen,18
-2008-12,Red Hot Chili Peppers,16
-2008-12,System Of A Down,7
-2008-12,The Hives,8
-2008-12,The Rolling Stones,8
-2008-12,The Strokes,3
-2008-12,U2,7
-2009-01,Clint Mansell,1
-2009-01,Coldplay,1
-2009-01,Danny Elfman,2
-2009-01,Foo Fighters,3
-2009-01,Grzegorz Turnau,2
-2009-01,Hans Zimmer,1
-2009-01,Howard Shore,2
-2009-01,Linkin Park,1
-2009-01,Metallica,4
-2009-01,Muse,1
-2009-01,My Chemical Romance,0
-2009-01,Pink Floyd,4
-2009-01,Placebo,2
-2009-01,Queen,3
-2009-01,Red Hot Chili Peppers,3
-2009-01,System Of A Down,4
-2009-01,The Hives,1
-2009-01,The Rolling Stones,1
-2009-01,The Strokes,1
-2009-01,U2,1
-2009-02,Clint Mansell,1
-2009-02,Coldplay,0
-2009-02,Danny Elfman,0
-2009-02,Foo Fighters,2
-2009-02,Grzegorz Turnau,2
-2009-02,Hans Zimmer,1
-2009-02,Howard Shore,1
-2009-02,Linkin Park,1
-2009-02,Metallica,4
-2009-02,Muse,1
-2009-02,My Chemical Romance,0
-2009-02,Pink Floyd,1
-2009-02,Placebo,0
-2009-02,Queen,3
-2009-02,Red Hot Chili Peppers,0
-2009-02,System Of A Down,0
-2009-02,The Hives,0
-2009-02,The Rolling Stones,3
-2009-02,The Strokes,1
-2009-02,U2,1
-2009-03,Clint Mansell,2
-2009-03,Coldplay,1
-2009-03,Danny Elfman,4
-2009-03,Foo Fighters,1
-2009-03,Grzegorz Turnau,3
-2009-03,Hans Zimmer,0
-2009-03,Howard Shore,1
-2009-03,Linkin Park,1
-2009-03,Metallica,7
-2009-03,Muse,3
-2009-03,My Chemical Romance,2
-2009-03,Pink Floyd,3
-2009-03,Placebo,1
-2009-03,Queen,3
-2009-03,Red Hot Chili Peppers,4
-2009-03,System Of A Down,0
-2009-03,The Hives,2
-2009-03,The Rolling Stones,3
-2009-03,The Strokes,2
-2009-03,U2,2
-2009-04,Clint Mansell,1
-2009-04,Coldplay,2
-2009-04,Danny Elfman,2
-2009-04,Foo Fighters,0
-2009-04,Grzegorz Turnau,7
-2009-04,Hans Zimmer,15
-2009-04,Howard Shore,4
-2009-04,Linkin Park,6
-2009-04,Metallica,14
-2009-04,Muse,4
-2009-04,My Chemical Romance,2
-2009-04,Pink Floyd,6
-2009-04,Placebo,3
-2009-04,Queen,6
-2009-04,Red Hot Chili Peppers,6
-2009-04,System Of A Down,5
-2009-04,The Hives,2
-2009-04,The Rolling Stones,6
-2009-04,The Strokes,1
-2009-04,U2,6
-2009-05,Clint Mansell,0
-2009-05,Coldplay,0
-2009-05,Danny Elfman,0
-2009-05,Foo Fighters,0
-2009-05,Grzegorz Turnau,1
-2009-05,Hans Zimmer,0
-2009-05,Howard Shore,0
-2009-05,Linkin Park,0
-2009-05,Metallica,0
-2009-05,Muse,0
-2009-05,My Chemical Romance,0
-2009-05,Pink Floyd,0
-2009-05,Placebo,0
-2009-05,Queen,0
-2009-05,Red Hot Chili Peppers,0
-2009-05,System Of A Down,0
-2009-05,The Hives,0
-2009-05,The Rolling Stones,0
-2009-05,The Strokes,0
-2009-05,U2,0
+"month","artist","plays"
+"2007-02","Clint Mansell",1
+"2007-02","Coldplay",0
+"2007-02","Danny Elfman",2
+"2007-02","Foo Fighters",3
+"2007-02","Grzegorz Turnau",8
+"2007-02","Hans Zimmer",0
+"2007-02","Howard Shore",3
+"2007-02","Linkin Park",1
+"2007-02","Metallica",4
+"2007-02","Muse",18
+"2007-02","My Chemical Romance",5
+"2007-02","Pink Floyd",12
+"2007-02","Placebo",2
+"2007-02","Queen",1
+"2007-02","Red Hot Chili Peppers",25
+"2007-02","System Of A Down",6
+"2007-02","The Hives",2
+"2007-02","The Rolling Stones",3
+"2007-02","The Strokes",6
+"2007-02","U2",5
+"2007-03","Clint Mansell",3
+"2007-03","Coldplay",1
+"2007-03","Danny Elfman",5
+"2007-03","Foo Fighters",4
+"2007-03","Grzegorz Turnau",9
+"2007-03","Hans Zimmer",15
+"2007-03","Howard Shore",2
+"2007-03","Linkin Park",2
+"2007-03","Metallica",5
+"2007-03","Muse",10
+"2007-03","My Chemical Romance",2
+"2007-03","Pink Floyd",11
+"2007-03","Placebo",7
+"2007-03","Queen",7
+"2007-03","Red Hot Chili Peppers",16
+"2007-03","System Of A Down",6
+"2007-03","The Hives",2
+"2007-03","The Rolling Stones",3
+"2007-03","The Strokes",10
+"2007-03","U2",4
+"2007-04","Clint Mansell",0
+"2007-04","Coldplay",0
+"2007-04","Danny Elfman",7
+"2007-04","Foo Fighters",3
+"2007-04","Grzegorz Turnau",11
+"2007-04","Hans Zimmer",10
+"2007-04","Howard Shore",3
+"2007-04","Linkin Park",1
+"2007-04","Metallica",12
+"2007-04","Muse",10
+"2007-04","My Chemical Romance",5
+"2007-04","Pink Floyd",12
+"2007-04","Placebo",3
+"2007-04","Queen",8
+"2007-04","Red Hot Chili Peppers",14
+"2007-04","System Of A Down",12
+"2007-04","The Hives",7
+"2007-04","The Rolling Stones",1
+"2007-04","The Strokes",8
+"2007-04","U2",7
+"2007-05","Clint Mansell",0
+"2007-05","Coldplay",1
+"2007-05","Danny Elfman",0
+"2007-05","Foo Fighters",2
+"2007-05","Grzegorz Turnau",2
+"2007-05","Hans Zimmer",0
+"2007-05","Howard Shore",1
+"2007-05","Linkin Park",0
+"2007-05","Metallica",3
+"2007-05","Muse",4
+"2007-05","My Chemical Romance",1
+"2007-05","Pink Floyd",2
+"2007-05","Placebo",2
+"2007-05","Queen",2
+"2007-05","Red Hot Chili Peppers",1
+"2007-05","System Of A Down",0
+"2007-05","The Hives",0
+"2007-05","The Rolling Stones",1
+"2007-05","The Strokes",1
+"2007-05","U2",0
+"2007-06","Clint Mansell",0
+"2007-06","Coldplay",0
+"2007-06","Danny Elfman",0
+"2007-06","Foo Fighters",0
+"2007-06","Grzegorz Turnau",0
+"2007-06","Hans Zimmer",0
+"2007-06","Howard Shore",0
+"2007-06","Linkin Park",0
+"2007-06","Metallica",0
+"2007-06","Muse",0
+"2007-06","My Chemical Romance",0
+"2007-06","Pink Floyd",0
+"2007-06","Placebo",0
+"2007-06","Queen",0
+"2007-06","Red Hot Chili Peppers",0
+"2007-06","System Of A Down",0
+"2007-06","The Hives",0
+"2007-06","The Rolling Stones",0
+"2007-06","The Strokes",0
+"2007-06","U2",0
+"2007-07","Clint Mansell",0
+"2007-07","Coldplay",0
+"2007-07","Danny Elfman",0
+"2007-07","Foo Fighters",0
+"2007-07","Grzegorz Turnau",0
+"2007-07","Hans Zimmer",0
+"2007-07","Howard Shore",0
+"2007-07","Linkin Park",0
+"2007-07","Metallica",0
+"2007-07","Muse",0
+"2007-07","My Chemical Romance",0
+"2007-07","Pink Floyd",0
+"2007-07","Placebo",0
+"2007-07","Queen",0
+"2007-07","Red Hot Chili Peppers",0
+"2007-07","System Of A Down",0
+"2007-07","The Hives",0
+"2007-07","The Rolling Stones",0
+"2007-07","The Strokes",0
+"2007-07","U2",0
+"2007-08","Clint Mansell",0
+"2007-08","Coldplay",0
+"2007-08","Danny Elfman",0
+"2007-08","Foo Fighters",1
+"2007-08","Grzegorz Turnau",1
+"2007-08","Hans Zimmer",1
+"2007-08","Howard Shore",0
+"2007-08","Linkin Park",0
+"2007-08","Metallica",0
+"2007-08","Muse",0
+"2007-08","My Chemical Romance",0
+"2007-08","Pink Floyd",1
+"2007-08","Placebo",1
+"2007-08","Queen",0
+"2007-08","Red Hot Chili Peppers",3
+"2007-08","System Of A Down",3
+"2007-08","The Hives",0
+"2007-08","The Rolling Stones",1
+"2007-08","The Strokes",1
+"2007-08","U2",0
+"2007-09","Clint Mansell",5
+"2007-09","Coldplay",1
+"2007-09","Danny Elfman",8
+"2007-09","Foo Fighters",9
+"2007-09","Grzegorz Turnau",22
+"2007-09","Hans Zimmer",8
+"2007-09","Howard Shore",15
+"2007-09","Linkin Park",7
+"2007-09","Metallica",19
+"2007-09","Muse",10
+"2007-09","My Chemical Romance",7
+"2007-09","Pink Floyd",56
+"2007-09","Placebo",12
+"2007-09","Queen",12
+"2007-09","Red Hot Chili Peppers",44
+"2007-09","System Of A Down",19
+"2007-09","The Hives",8
+"2007-09","The Rolling Stones",15
+"2007-09","The Strokes",11
+"2007-09","U2",22
+"2007-10","Clint Mansell",4
+"2007-10","Coldplay",2
+"2007-10","Danny Elfman",3
+"2007-10","Foo Fighters",6
+"2007-10","Grzegorz Turnau",38
+"2007-10","Hans Zimmer",2
+"2007-10","Howard Shore",6
+"2007-10","Linkin Park",7
+"2007-10","Metallica",32
+"2007-10","Muse",14
+"2007-10","My Chemical Romance",21
+"2007-10","Pink Floyd",13
+"2007-10","Placebo",10
+"2007-10","Queen",7
+"2007-10","Red Hot Chili Peppers",15
+"2007-10","System Of A Down",16
+"2007-10","The Hives",57
+"2007-10","The Rolling Stones",15
+"2007-10","The Strokes",5
+"2007-10","U2",18
+"2007-11","Clint Mansell",4
+"2007-11","Coldplay",0
+"2007-11","Danny Elfman",6
+"2007-11","Foo Fighters",0
+"2007-11","Grzegorz Turnau",12
+"2007-11","Hans Zimmer",20
+"2007-11","Howard Shore",2
+"2007-11","Linkin Park",12
+"2007-11","Metallica",5
+"2007-11","Muse",4
+"2007-11","My Chemical Romance",9
+"2007-11","Pink Floyd",9
+"2007-11","Placebo",2
+"2007-11","Queen",4
+"2007-11","Red Hot Chili Peppers",8
+"2007-11","System Of A Down",19
+"2007-11","The Hives",24
+"2007-11","The Rolling Stones",5
+"2007-11","The Strokes",4
+"2007-11","U2",2
+"2007-12","Clint Mansell",6
+"2007-12","Coldplay",1
+"2007-12","Danny Elfman",2
+"2007-12","Foo Fighters",8
+"2007-12","Grzegorz Turnau",6
+"2007-12","Hans Zimmer",2
+"2007-12","Howard Shore",0
+"2007-12","Linkin Park",35
+"2007-12","Metallica",13
+"2007-12","Muse",1
+"2007-12","My Chemical Romance",7
+"2007-12","Pink Floyd",7
+"2007-12","Placebo",5
+"2007-12","Queen",10
+"2007-12","Red Hot Chili Peppers",10
+"2007-12","System Of A Down",3
+"2007-12","The Hives",14
+"2007-12","The Rolling Stones",3
+"2007-12","The Strokes",2
+"2007-12","U2",4
+"2008-01","Clint Mansell",4
+"2008-01","Coldplay",3
+"2008-01","Danny Elfman",3
+"2008-01","Foo Fighters",12
+"2008-01","Grzegorz Turnau",14
+"2008-01","Hans Zimmer",3
+"2008-01","Howard Shore",15
+"2008-01","Linkin Park",8
+"2008-01","Metallica",7
+"2008-01","Muse",3
+"2008-01","My Chemical Romance",2
+"2008-01","Pink Floyd",12
+"2008-01","Placebo",2
+"2008-01","Queen",9
+"2008-01","Red Hot Chili Peppers",9
+"2008-01","System Of A Down",7
+"2008-01","The Hives",5
+"2008-01","The Rolling Stones",6
+"2008-01","The Strokes",9
+"2008-01","U2",4
+"2008-02","Clint Mansell",4
+"2008-02","Coldplay",4
+"2008-02","Danny Elfman",1
+"2008-02","Foo Fighters",7
+"2008-02","Grzegorz Turnau",9
+"2008-02","Hans Zimmer",4
+"2008-02","Howard Shore",6
+"2008-02","Linkin Park",9
+"2008-02","Metallica",8
+"2008-02","Muse",2
+"2008-02","My Chemical Romance",1
+"2008-02","Pink Floyd",10
+"2008-02","Placebo",4
+"2008-02","Queen",10
+"2008-02","Red Hot Chili Peppers",19
+"2008-02","System Of A Down",5
+"2008-02","The Hives",11
+"2008-02","The Rolling Stones",11
+"2008-02","The Strokes",3
+"2008-02","U2",3
+"2008-03","Clint Mansell",4
+"2008-03","Coldplay",2
+"2008-03","Danny Elfman",6
+"2008-03","Foo Fighters",7
+"2008-03","Grzegorz Turnau",2
+"2008-03","Hans Zimmer",4
+"2008-03","Howard Shore",1
+"2008-03","Linkin Park",5
+"2008-03","Metallica",10
+"2008-03","Muse",6
+"2008-03","My Chemical Romance",4
+"2008-03","Pink Floyd",15
+"2008-03","Placebo",5
+"2008-03","Queen",7
+"2008-03","Red Hot Chili Peppers",12
+"2008-03","System Of A Down",2
+"2008-03","The Hives",5
+"2008-03","The Rolling Stones",2
+"2008-03","The Strokes",2
+"2008-03","U2",1
+"2008-04","Clint Mansell",4
+"2008-04","Coldplay",3
+"2008-04","Danny Elfman",3
+"2008-04","Foo Fighters",6
+"2008-04","Grzegorz Turnau",8
+"2008-04","Hans Zimmer",29
+"2008-04","Howard Shore",2
+"2008-04","Linkin Park",5
+"2008-04","Metallica",4
+"2008-04","Muse",5
+"2008-04","My Chemical Romance",4
+"2008-04","Pink Floyd",11
+"2008-04","Placebo",1
+"2008-04","Queen",7
+"2008-04","Red Hot Chili Peppers",6
+"2008-04","System Of A Down",7
+"2008-04","The Hives",6
+"2008-04","The Rolling Stones",4
+"2008-04","The Strokes",3
+"2008-04","U2",2
+"2008-05","Clint Mansell",5
+"2008-05","Coldplay",1
+"2008-05","Danny Elfman",1
+"2008-05","Foo Fighters",8
+"2008-05","Grzegorz Turnau",0
+"2008-05","Hans Zimmer",3
+"2008-05","Howard Shore",4
+"2008-05","Linkin Park",2
+"2008-05","Metallica",5
+"2008-05","Muse",7
+"2008-05","My Chemical Romance",5
+"2008-05","Pink Floyd",12
+"2008-05","Placebo",6
+"2008-05","Queen",6
+"2008-05","Red Hot Chili Peppers",7
+"2008-05","System Of A Down",7
+"2008-05","The Hives",4
+"2008-05","The Rolling Stones",2
+"2008-05","The Strokes",4
+"2008-05","U2",3
+"2008-06","Clint Mansell",0
+"2008-06","Coldplay",1
+"2008-06","Danny Elfman",1
+"2008-06","Foo Fighters",2
+"2008-06","Grzegorz Turnau",4
+"2008-06","Hans Zimmer",2
+"2008-06","Howard Shore",2
+"2008-06","Linkin Park",1
+"2008-06","Metallica",7
+"2008-06","Muse",0
+"2008-06","My Chemical Romance",1
+"2008-06","Pink Floyd",9
+"2008-06","Placebo",1
+"2008-06","Queen",2
+"2008-06","Red Hot Chili Peppers",4
+"2008-06","System Of A Down",4
+"2008-06","The Hives",4
+"2008-06","The Rolling Stones",3
+"2008-06","The Strokes",0
+"2008-06","U2",1
+"2008-07","Clint Mansell",0
+"2008-07","Coldplay",2
+"2008-07","Danny Elfman",1
+"2008-07","Foo Fighters",0
+"2008-07","Grzegorz Turnau",0
+"2008-07","Hans Zimmer",2
+"2008-07","Howard Shore",0
+"2008-07","Linkin Park",0
+"2008-07","Metallica",2
+"2008-07","Muse",2
+"2008-07","My Chemical Romance",0
+"2008-07","Pink Floyd",6
+"2008-07","Placebo",1
+"2008-07","Queen",2
+"2008-07","Red Hot Chili Peppers",1
+"2008-07","System Of A Down",2
+"2008-07","The Hives",4
+"2008-07","The Rolling Stones",2
+"2008-07","The Strokes",1
+"2008-07","U2",1
+"2008-08","Clint Mansell",1
+"2008-08","Coldplay",1
+"2008-08","Danny Elfman",0
+"2008-08","Foo Fighters",3
+"2008-08","Grzegorz Turnau",2
+"2008-08","Hans Zimmer",2
+"2008-08","Howard Shore",0
+"2008-08","Linkin Park",1
+"2008-08","Metallica",22
+"2008-08","Muse",2
+"2008-08","My Chemical Romance",2
+"2008-08","Pink Floyd",2
+"2008-08","Placebo",0
+"2008-08","Queen",3
+"2008-08","Red Hot Chili Peppers",3
+"2008-08","System Of A Down",0
+"2008-08","The Hives",2
+"2008-08","The Rolling Stones",4
+"2008-08","The Strokes",2
+"2008-08","U2",0
+"2008-09","Clint Mansell",0
+"2008-09","Coldplay",0
+"2008-09","Danny Elfman",0
+"2008-09","Foo Fighters",0
+"2008-09","Grzegorz Turnau",0
+"2008-09","Hans Zimmer",1
+"2008-09","Howard Shore",2
+"2008-09","Linkin Park",0
+"2008-09","Metallica",4
+"2008-09","Muse",2
+"2008-09","My Chemical Romance",0
+"2008-09","Pink Floyd",0
+"2008-09","Placebo",0
+"2008-09","Queen",0
+"2008-09","Red Hot Chili Peppers",1
+"2008-09","System Of A Down",0
+"2008-09","The Hives",2
+"2008-09","The Rolling Stones",1
+"2008-09","The Strokes",2
+"2008-09","U2",0
+"2008-10","Clint Mansell",0
+"2008-10","Coldplay",0
+"2008-10","Danny Elfman",0
+"2008-10","Foo Fighters",0
+"2008-10","Grzegorz Turnau",0
+"2008-10","Hans Zimmer",0
+"2008-10","Howard Shore",0
+"2008-10","Linkin Park",0
+"2008-10","Metallica",0
+"2008-10","Muse",0
+"2008-10","My Chemical Romance",0
+"2008-10","Pink Floyd",0
+"2008-10","Placebo",0
+"2008-10","Queen",0
+"2008-10","Red Hot Chili Peppers",0
+"2008-10","System Of A Down",0
+"2008-10","The Hives",0
+"2008-10","The Rolling Stones",0
+"2008-10","The Strokes",0
+"2008-10","U2",0
+"2008-11","Clint Mansell",1
+"2008-11","Coldplay",2
+"2008-11","Danny Elfman",2
+"2008-11","Foo Fighters",1
+"2008-11","Grzegorz Turnau",2
+"2008-11","Hans Zimmer",4
+"2008-11","Howard Shore",11
+"2008-11","Linkin Park",2
+"2008-11","Metallica",13
+"2008-11","Muse",10
+"2008-11","My Chemical Romance",4
+"2008-11","Pink Floyd",1
+"2008-11","Placebo",3
+"2008-11","Queen",8
+"2008-11","Red Hot Chili Peppers",2
+"2008-11","System Of A Down",5
+"2008-11","The Hives",2
+"2008-11","The Rolling Stones",3
+"2008-11","The Strokes",1
+"2008-11","U2",3
+"2008-12","Clint Mansell",2
+"2008-12","Coldplay",4
+"2008-12","Danny Elfman",0
+"2008-12","Foo Fighters",7
+"2008-12","Grzegorz Turnau",8
+"2008-12","Hans Zimmer",3
+"2008-12","Howard Shore",2
+"2008-12","Linkin Park",11
+"2008-12","Metallica",13
+"2008-12","Muse",8
+"2008-12","My Chemical Romance",2
+"2008-12","Pink Floyd",10
+"2008-12","Placebo",4
+"2008-12","Queen",18
+"2008-12","Red Hot Chili Peppers",16
+"2008-12","System Of A Down",7
+"2008-12","The Hives",8
+"2008-12","The Rolling Stones",8
+"2008-12","The Strokes",3
+"2008-12","U2",7
+"2009-01","Clint Mansell",1
+"2009-01","Coldplay",1
+"2009-01","Danny Elfman",2
+"2009-01","Foo Fighters",3
+"2009-01","Grzegorz Turnau",2
+"2009-01","Hans Zimmer",1
+"2009-01","Howard Shore",2
+"2009-01","Linkin Park",1
+"2009-01","Metallica",4
+"2009-01","Muse",1
+"2009-01","My Chemical Romance",0
+"2009-01","Pink Floyd",4
+"2009-01","Placebo",2
+"2009-01","Queen",3
+"2009-01","Red Hot Chili Peppers",3
+"2009-01","System Of A Down",4
+"2009-01","The Hives",1
+"2009-01","The Rolling Stones",1
+"2009-01","The Strokes",1
+"2009-01","U2",1
+"2009-02","Clint Mansell",1
+"2009-02","Coldplay",0
+"2009-02","Danny Elfman",0
+"2009-02","Foo Fighters",2
+"2009-02","Grzegorz Turnau",2
+"2009-02","Hans Zimmer",1
+"2009-02","Howard Shore",1
+"2009-02","Linkin Park",1
+"2009-02","Metallica",4
+"2009-02","Muse",1
+"2009-02","My Chemical Romance",0
+"2009-02","Pink Floyd",1
+"2009-02","Placebo",0
+"2009-02","Queen",3
+"2009-02","Red Hot Chili Peppers",0
+"2009-02","System Of A Down",0
+"2009-02","The Hives",0
+"2009-02","The Rolling Stones",3
+"2009-02","The Strokes",1
+"2009-02","U2",1
+"2009-03","Clint Mansell",2
+"2009-03","Coldplay",1
+"2009-03","Danny Elfman",4
+"2009-03","Foo Fighters",1
+"2009-03","Grzegorz Turnau",3
+"2009-03","Hans Zimmer",0
+"2009-03","Howard Shore",1
+"2009-03","Linkin Park",1
+"2009-03","Metallica",7
+"2009-03","Muse",3
+"2009-03","My Chemical Romance",2
+"2009-03","Pink Floyd",3
+"2009-03","Placebo",1
+"2009-03","Queen",3
+"2009-03","Red Hot Chili Peppers",4
+"2009-03","System Of A Down",0
+"2009-03","The Hives",2
+"2009-03","The Rolling Stones",3
+"2009-03","The Strokes",2
+"2009-03","U2",2
+"2009-04","Clint Mansell",1
+"2009-04","Coldplay",2
+"2009-04","Danny Elfman",2
+"2009-04","Foo Fighters",0
+"2009-04","Grzegorz Turnau",7
+"2009-04","Hans Zimmer",15
+"2009-04","Howard Shore",4
+"2009-04","Linkin Park",6
+"2009-04","Metallica",14
+"2009-04","Muse",4
+"2009-04","My Chemical Romance",2
+"2009-04","Pink Floyd",6
+"2009-04","Placebo",3
+"2009-04","Queen",6
+"2009-04","Red Hot Chili Peppers",6
+"2009-04","System Of A Down",5
+"2009-04","The Hives",2
+"2009-04","The Rolling Stones",6
+"2009-04","The Strokes",1
+"2009-04","U2",6
+"2009-05","Clint Mansell",0
+"2009-05","Coldplay",0
+"2009-05","Danny Elfman",0
+"2009-05","Foo Fighters",0
+"2009-05","Grzegorz Turnau",1
+"2009-05","Hans Zimmer",0
+"2009-05","Howard Shore",0
+"2009-05","Linkin Park",0
+"2009-05","Metallica",0
+"2009-05","Muse",0
+"2009-05","My Chemical Romance",0
+"2009-05","Pink Floyd",0
+"2009-05","Placebo",0
+"2009-05","Queen",0
+"2009-05","Red Hot Chili Peppers",0
+"2009-05","System Of A Down",0
+"2009-05","The Hives",0
+"2009-05","The Rolling Stones",0
+"2009-05","The Strokes",0
+"2009-05","U2",0

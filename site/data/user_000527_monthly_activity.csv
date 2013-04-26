@@ -1,641 +1,641 @@
-month,artist,plays
-2006-11,Afi,0
-2006-11,Avril Lavigne,1
-2006-11,Backstreet Boys,0
-2006-11,Belanova,1
-2006-11,Britney Spears,9
-2006-11,Eminem,0
-2006-11,Eros Ramazzotti,1
-2006-11,Hannah Montana,0
-2006-11,Kudai,26
-2006-11,Linkin Park,0
-2006-11,Mägo De Oz,22
-2006-11,Metallica,1
-2006-11,Nightwish,15
-2006-11,Northern Kings,0
-2006-11,Panda,0
-2006-11,Paramore,0
-2006-11,Soda Stereo,0
-2006-11,Sonata Arctica,12
-2006-11,The Killers,5
-2006-11,Within Temptation,7
-2006-12,Afi,4
-2006-12,Avril Lavigne,1
-2006-12,Backstreet Boys,0
-2006-12,Belanova,0
-2006-12,Britney Spears,1
-2006-12,Eminem,0
-2006-12,Eros Ramazzotti,0
-2006-12,Hannah Montana,0
-2006-12,Kudai,11
-2006-12,Linkin Park,0
-2006-12,Mägo De Oz,41
-2006-12,Metallica,1
-2006-12,Nightwish,8
-2006-12,Northern Kings,0
-2006-12,Panda,0
-2006-12,Paramore,0
-2006-12,Soda Stereo,0
-2006-12,Sonata Arctica,15
-2006-12,The Killers,6
-2006-12,Within Temptation,3
-2007-01,Afi,2
-2007-01,Avril Lavigne,1
-2007-01,Backstreet Boys,0
-2007-01,Belanova,0
-2007-01,Britney Spears,4
-2007-01,Eminem,0
-2007-01,Eros Ramazzotti,0
-2007-01,Hannah Montana,0
-2007-01,Kudai,1
-2007-01,Linkin Park,0
-2007-01,Mägo De Oz,13
-2007-01,Metallica,4
-2007-01,Nightwish,1
-2007-01,Northern Kings,0
-2007-01,Panda,1
-2007-01,Paramore,0
-2007-01,Soda Stereo,0
-2007-01,Sonata Arctica,30
-2007-01,The Killers,0
-2007-01,Within Temptation,6
-2007-02,Afi,1
-2007-02,Avril Lavigne,0
-2007-02,Backstreet Boys,0
-2007-02,Belanova,0
-2007-02,Britney Spears,1
-2007-02,Eminem,2
-2007-02,Eros Ramazzotti,0
-2007-02,Hannah Montana,0
-2007-02,Kudai,4
-2007-02,Linkin Park,0
-2007-02,Mägo De Oz,0
-2007-02,Metallica,0
-2007-02,Nightwish,1
-2007-02,Northern Kings,0
-2007-02,Panda,2
-2007-02,Paramore,0
-2007-02,Soda Stereo,0
-2007-02,Sonata Arctica,0
-2007-02,The Killers,0
-2007-02,Within Temptation,4
-2007-03,Afi,7
-2007-03,Avril Lavigne,0
-2007-03,Backstreet Boys,0
-2007-03,Belanova,0
-2007-03,Britney Spears,0
-2007-03,Eminem,1
-2007-03,Eros Ramazzotti,0
-2007-03,Hannah Montana,0
-2007-03,Kudai,2
-2007-03,Linkin Park,0
-2007-03,Mägo De Oz,0
-2007-03,Metallica,0
-2007-03,Nightwish,1
-2007-03,Northern Kings,0
-2007-03,Panda,0
-2007-03,Paramore,0
-2007-03,Soda Stereo,0
-2007-03,Sonata Arctica,5
-2007-03,The Killers,3
-2007-03,Within Temptation,9
-2007-04,Afi,0
-2007-04,Avril Lavigne,0
-2007-04,Backstreet Boys,0
-2007-04,Belanova,0
-2007-04,Britney Spears,0
-2007-04,Eminem,0
-2007-04,Eros Ramazzotti,0
-2007-04,Hannah Montana,0
-2007-04,Kudai,0
-2007-04,Linkin Park,0
-2007-04,Mägo De Oz,2
-2007-04,Metallica,0
-2007-04,Nightwish,0
-2007-04,Northern Kings,0
-2007-04,Panda,0
-2007-04,Paramore,0
-2007-04,Soda Stereo,0
-2007-04,Sonata Arctica,2
-2007-04,The Killers,0
-2007-04,Within Temptation,0
-2007-05,Afi,0
-2007-05,Avril Lavigne,1
-2007-05,Backstreet Boys,0
-2007-05,Belanova,0
-2007-05,Britney Spears,0
-2007-05,Eminem,0
-2007-05,Eros Ramazzotti,0
-2007-05,Hannah Montana,0
-2007-05,Kudai,0
-2007-05,Linkin Park,0
-2007-05,Mägo De Oz,10
-2007-05,Metallica,0
-2007-05,Nightwish,3
-2007-05,Northern Kings,0
-2007-05,Panda,4
-2007-05,Paramore,0
-2007-05,Soda Stereo,0
-2007-05,Sonata Arctica,24
-2007-05,The Killers,1
-2007-05,Within Temptation,6
-2007-06,Afi,0
-2007-06,Avril Lavigne,0
-2007-06,Backstreet Boys,0
-2007-06,Belanova,1
-2007-06,Britney Spears,0
-2007-06,Eminem,0
-2007-06,Eros Ramazzotti,1
-2007-06,Hannah Montana,0
-2007-06,Kudai,0
-2007-06,Linkin Park,0
-2007-06,Mägo De Oz,14
-2007-06,Metallica,0
-2007-06,Nightwish,11
-2007-06,Northern Kings,0
-2007-06,Panda,0
-2007-06,Paramore,0
-2007-06,Soda Stereo,14
-2007-06,Sonata Arctica,44
-2007-06,The Killers,0
-2007-06,Within Temptation,5
-2007-07,Afi,1
-2007-07,Avril Lavigne,1
-2007-07,Backstreet Boys,0
-2007-07,Belanova,0
-2007-07,Britney Spears,0
-2007-07,Eminem,0
-2007-07,Eros Ramazzotti,0
-2007-07,Hannah Montana,0
-2007-07,Kudai,1
-2007-07,Linkin Park,0
-2007-07,Mägo De Oz,4
-2007-07,Metallica,0
-2007-07,Nightwish,1
-2007-07,Northern Kings,0
-2007-07,Panda,1
-2007-07,Paramore,0
-2007-07,Soda Stereo,13
-2007-07,Sonata Arctica,21
-2007-07,The Killers,0
-2007-07,Within Temptation,2
-2007-08,Afi,7
-2007-08,Avril Lavigne,0
-2007-08,Backstreet Boys,1
-2007-08,Belanova,1
-2007-08,Britney Spears,0
-2007-08,Eminem,5
-2007-08,Eros Ramazzotti,2
-2007-08,Hannah Montana,0
-2007-08,Kudai,2
-2007-08,Linkin Park,0
-2007-08,Mägo De Oz,14
-2007-08,Metallica,3
-2007-08,Nightwish,15
-2007-08,Northern Kings,0
-2007-08,Panda,8
-2007-08,Paramore,0
-2007-08,Soda Stereo,6
-2007-08,Sonata Arctica,20
-2007-08,The Killers,1
-2007-08,Within Temptation,13
-2007-09,Afi,2
-2007-09,Avril Lavigne,0
-2007-09,Backstreet Boys,0
-2007-09,Belanova,1
-2007-09,Britney Spears,4
-2007-09,Eminem,3
-2007-09,Eros Ramazzotti,0
-2007-09,Hannah Montana,0
-2007-09,Kudai,1
-2007-09,Linkin Park,15
-2007-09,Mägo De Oz,8
-2007-09,Metallica,0
-2007-09,Nightwish,5
-2007-09,Northern Kings,0
-2007-09,Panda,4
-2007-09,Paramore,0
-2007-09,Soda Stereo,2
-2007-09,Sonata Arctica,11
-2007-09,The Killers,0
-2007-09,Within Temptation,7
-2007-10,Afi,0
-2007-10,Avril Lavigne,1
-2007-10,Backstreet Boys,12
-2007-10,Belanova,0
-2007-10,Britney Spears,0
-2007-10,Eminem,0
-2007-10,Eros Ramazzotti,0
-2007-10,Hannah Montana,0
-2007-10,Kudai,0
-2007-10,Linkin Park,2
-2007-10,Mägo De Oz,0
-2007-10,Metallica,0
-2007-10,Nightwish,14
-2007-10,Northern Kings,0
-2007-10,Panda,1
-2007-10,Paramore,0
-2007-10,Soda Stereo,5
-2007-10,Sonata Arctica,5
-2007-10,The Killers,0
-2007-10,Within Temptation,1
-2007-11,Afi,2
-2007-11,Avril Lavigne,2
-2007-11,Backstreet Boys,24
-2007-11,Belanova,1
-2007-11,Britney Spears,3
-2007-11,Eminem,3
-2007-11,Eros Ramazzotti,0
-2007-11,Hannah Montana,0
-2007-11,Kudai,3
-2007-11,Linkin Park,3
-2007-11,Mägo De Oz,19
-2007-11,Metallica,1
-2007-11,Nightwish,22
-2007-11,Northern Kings,6
-2007-11,Panda,0
-2007-11,Paramore,0
-2007-11,Soda Stereo,5
-2007-11,Sonata Arctica,23
-2007-11,The Killers,1
-2007-11,Within Temptation,7
-2007-12,Afi,2
-2007-12,Avril Lavigne,0
-2007-12,Backstreet Boys,1
-2007-12,Belanova,0
-2007-12,Britney Spears,0
-2007-12,Eminem,0
-2007-12,Eros Ramazzotti,0
-2007-12,Hannah Montana,0
-2007-12,Kudai,0
-2007-12,Linkin Park,0
-2007-12,Mägo De Oz,2
-2007-12,Metallica,0
-2007-12,Nightwish,0
-2007-12,Northern Kings,0
-2007-12,Panda,0
-2007-12,Paramore,0
-2007-12,Soda Stereo,2
-2007-12,Sonata Arctica,23
-2007-12,The Killers,0
-2007-12,Within Temptation,4
-2008-01,Afi,0
-2008-01,Avril Lavigne,0
-2008-01,Backstreet Boys,2
-2008-01,Belanova,0
-2008-01,Britney Spears,0
-2008-01,Eminem,0
-2008-01,Eros Ramazzotti,0
-2008-01,Hannah Montana,0
-2008-01,Kudai,2
-2008-01,Linkin Park,1
-2008-01,Mägo De Oz,1
-2008-01,Metallica,0
-2008-01,Nightwish,5
-2008-01,Northern Kings,0
-2008-01,Panda,0
-2008-01,Paramore,0
-2008-01,Soda Stereo,0
-2008-01,Sonata Arctica,5
-2008-01,The Killers,0
-2008-01,Within Temptation,2
-2008-02,Afi,0
-2008-02,Avril Lavigne,0
-2008-02,Backstreet Boys,1
-2008-02,Belanova,0
-2008-02,Britney Spears,0
-2008-02,Eminem,0
-2008-02,Eros Ramazzotti,0
-2008-02,Hannah Montana,0
-2008-02,Kudai,3
-2008-02,Linkin Park,0
-2008-02,Mägo De Oz,2
-2008-02,Metallica,1
-2008-02,Nightwish,11
-2008-02,Northern Kings,2
-2008-02,Panda,4
-2008-02,Paramore,0
-2008-02,Soda Stereo,0
-2008-02,Sonata Arctica,45
-2008-02,The Killers,0
-2008-02,Within Temptation,7
-2008-03,Afi,0
-2008-03,Avril Lavigne,0
-2008-03,Backstreet Boys,11
-2008-03,Belanova,0
-2008-03,Britney Spears,0
-2008-03,Eminem,0
-2008-03,Eros Ramazzotti,1
-2008-03,Hannah Montana,0
-2008-03,Kudai,0
-2008-03,Linkin Park,0
-2008-03,Mägo De Oz,0
-2008-03,Metallica,0
-2008-03,Nightwish,5
-2008-03,Northern Kings,0
-2008-03,Panda,0
-2008-03,Paramore,0
-2008-03,Soda Stereo,0
-2008-03,Sonata Arctica,42
-2008-03,The Killers,0
-2008-03,Within Temptation,3
-2008-04,Afi,0
-2008-04,Avril Lavigne,0
-2008-04,Backstreet Boys,4
-2008-04,Belanova,0
-2008-04,Britney Spears,0
-2008-04,Eminem,0
-2008-04,Eros Ramazzotti,0
-2008-04,Hannah Montana,0
-2008-04,Kudai,0
-2008-04,Linkin Park,0
-2008-04,Mägo De Oz,0
-2008-04,Metallica,0
-2008-04,Nightwish,1
-2008-04,Northern Kings,11
-2008-04,Panda,0
-2008-04,Paramore,0
-2008-04,Soda Stereo,0
-2008-04,Sonata Arctica,15
-2008-04,The Killers,0
-2008-04,Within Temptation,1
-2008-05,Afi,0
-2008-05,Avril Lavigne,1
-2008-05,Backstreet Boys,1
-2008-05,Belanova,0
-2008-05,Britney Spears,0
-2008-05,Eminem,2
-2008-05,Eros Ramazzotti,0
-2008-05,Hannah Montana,0
-2008-05,Kudai,0
-2008-05,Linkin Park,0
-2008-05,Mägo De Oz,2
-2008-05,Metallica,0
-2008-05,Nightwish,8
-2008-05,Northern Kings,9
-2008-05,Panda,0
-2008-05,Paramore,0
-2008-05,Soda Stereo,0
-2008-05,Sonata Arctica,15
-2008-05,The Killers,0
-2008-05,Within Temptation,3
-2008-06,Afi,0
-2008-06,Avril Lavigne,0
-2008-06,Backstreet Boys,0
-2008-06,Belanova,0
-2008-06,Britney Spears,0
-2008-06,Eminem,0
-2008-06,Eros Ramazzotti,0
-2008-06,Hannah Montana,6
-2008-06,Kudai,0
-2008-06,Linkin Park,0
-2008-06,Mägo De Oz,0
-2008-06,Metallica,0
-2008-06,Nightwish,2
-2008-06,Northern Kings,2
-2008-06,Panda,0
-2008-06,Paramore,0
-2008-06,Soda Stereo,0
-2008-06,Sonata Arctica,10
-2008-06,The Killers,0
-2008-06,Within Temptation,0
-2008-07,Afi,0
-2008-07,Avril Lavigne,0
-2008-07,Backstreet Boys,2
-2008-07,Belanova,0
-2008-07,Britney Spears,0
-2008-07,Eminem,1
-2008-07,Eros Ramazzotti,0
-2008-07,Hannah Montana,1
-2008-07,Kudai,2
-2008-07,Linkin Park,2
-2008-07,Mägo De Oz,0
-2008-07,Metallica,3
-2008-07,Nightwish,4
-2008-07,Northern Kings,5
-2008-07,Panda,0
-2008-07,Paramore,0
-2008-07,Soda Stereo,1
-2008-07,Sonata Arctica,16
-2008-07,The Killers,0
-2008-07,Within Temptation,0
-2008-08,Afi,1
-2008-08,Avril Lavigne,0
-2008-08,Backstreet Boys,0
-2008-08,Belanova,0
-2008-08,Britney Spears,0
-2008-08,Eminem,0
-2008-08,Eros Ramazzotti,1
-2008-08,Hannah Montana,3
-2008-08,Kudai,1
-2008-08,Linkin Park,0
-2008-08,Mägo De Oz,1
-2008-08,Metallica,0
-2008-08,Nightwish,3
-2008-08,Northern Kings,0
-2008-08,Panda,1
-2008-08,Paramore,2
-2008-08,Soda Stereo,0
-2008-08,Sonata Arctica,4
-2008-08,The Killers,0
-2008-08,Within Temptation,3
-2008-09,Afi,0
-2008-09,Avril Lavigne,0
-2008-09,Backstreet Boys,1
-2008-09,Belanova,0
-2008-09,Britney Spears,0
-2008-09,Eminem,0
-2008-09,Eros Ramazzotti,0
-2008-09,Hannah Montana,1
-2008-09,Kudai,0
-2008-09,Linkin Park,0
-2008-09,Mägo De Oz,1
-2008-09,Metallica,1
-2008-09,Nightwish,6
-2008-09,Northern Kings,1
-2008-09,Panda,0
-2008-09,Paramore,4
-2008-09,Soda Stereo,0
-2008-09,Sonata Arctica,3
-2008-09,The Killers,0
-2008-09,Within Temptation,0
-2008-10,Afi,0
-2008-10,Avril Lavigne,0
-2008-10,Backstreet Boys,0
-2008-10,Belanova,0
-2008-10,Britney Spears,0
-2008-10,Eminem,0
-2008-10,Eros Ramazzotti,1
-2008-10,Hannah Montana,2
-2008-10,Kudai,0
-2008-10,Linkin Park,0
-2008-10,Mägo De Oz,0
-2008-10,Metallica,0
-2008-10,Nightwish,1
-2008-10,Northern Kings,1
-2008-10,Panda,4
-2008-10,Paramore,11
-2008-10,Soda Stereo,0
-2008-10,Sonata Arctica,2
-2008-10,The Killers,0
-2008-10,Within Temptation,1
-2008-11,Afi,0
-2008-11,Avril Lavigne,0
-2008-11,Backstreet Boys,0
-2008-11,Belanova,1
-2008-11,Britney Spears,0
-2008-11,Eminem,1
-2008-11,Eros Ramazzotti,0
-2008-11,Hannah Montana,0
-2008-11,Kudai,2
-2008-11,Linkin Park,1
-2008-11,Mägo De Oz,8
-2008-11,Metallica,0
-2008-11,Nightwish,11
-2008-11,Northern Kings,0
-2008-11,Panda,3
-2008-11,Paramore,21
-2008-11,Soda Stereo,0
-2008-11,Sonata Arctica,13
-2008-11,The Killers,1
-2008-11,Within Temptation,3
-2008-12,Afi,2
-2008-12,Avril Lavigne,0
-2008-12,Backstreet Boys,25
-2008-12,Belanova,10
-2008-12,Britney Spears,3
-2008-12,Eminem,8
-2008-12,Eros Ramazzotti,2
-2008-12,Hannah Montana,2
-2008-12,Kudai,1
-2008-12,Linkin Park,0
-2008-12,Mägo De Oz,6
-2008-12,Metallica,4
-2008-12,Nightwish,8
-2008-12,Northern Kings,2
-2008-12,Panda,3
-2008-12,Paramore,11
-2008-12,Soda Stereo,6
-2008-12,Sonata Arctica,26
-2008-12,The Killers,2
-2008-12,Within Temptation,5
-2009-01,Afi,0
-2009-01,Avril Lavigne,0
-2009-01,Backstreet Boys,3
-2009-01,Belanova,1
-2009-01,Britney Spears,0
-2009-01,Eminem,1
-2009-01,Eros Ramazzotti,1
-2009-01,Hannah Montana,0
-2009-01,Kudai,0
-2009-01,Linkin Park,0
-2009-01,Mägo De Oz,0
-2009-01,Metallica,1
-2009-01,Nightwish,3
-2009-01,Northern Kings,2
-2009-01,Panda,0
-2009-01,Paramore,6
-2009-01,Soda Stereo,0
-2009-01,Sonata Arctica,1
-2009-01,The Killers,0
-2009-01,Within Temptation,0
-2009-02,Afi,1
-2009-02,Avril Lavigne,1
-2009-02,Backstreet Boys,17
-2009-02,Belanova,1
-2009-02,Britney Spears,1
-2009-02,Eminem,3
-2009-02,Eros Ramazzotti,1
-2009-02,Hannah Montana,1
-2009-02,Kudai,1
-2009-02,Linkin Park,1
-2009-02,Mägo De Oz,3
-2009-02,Metallica,0
-2009-02,Nightwish,7
-2009-02,Northern Kings,6
-2009-02,Panda,0
-2009-02,Paramore,10
-2009-02,Soda Stereo,6
-2009-02,Sonata Arctica,10
-2009-02,The Killers,3
-2009-02,Within Temptation,6
-2009-03,Afi,0
-2009-03,Avril Lavigne,0
-2009-03,Backstreet Boys,46
-2009-03,Belanova,1
-2009-03,Britney Spears,3
-2009-03,Eminem,7
-2009-03,Eros Ramazzotti,1
-2009-03,Hannah Montana,1
-2009-03,Kudai,2
-2009-03,Linkin Park,1
-2009-03,Mägo De Oz,5
-2009-03,Metallica,2
-2009-03,Nightwish,9
-2009-03,Northern Kings,0
-2009-03,Panda,1
-2009-03,Paramore,13
-2009-03,Soda Stereo,1
-2009-03,Sonata Arctica,10
-2009-03,The Killers,1
-2009-03,Within Temptation,7
-2009-04,Afi,0
-2009-04,Avril Lavigne,1
-2009-04,Backstreet Boys,4
-2009-04,Belanova,0
-2009-04,Britney Spears,0
-2009-04,Eminem,0
-2009-04,Eros Ramazzotti,0
-2009-04,Hannah Montana,0
-2009-04,Kudai,0
-2009-04,Linkin Park,0
-2009-04,Mägo De Oz,0
-2009-04,Metallica,0
-2009-04,Nightwish,1
-2009-04,Northern Kings,0
-2009-04,Panda,0
-2009-04,Paramore,0
-2009-04,Soda Stereo,1
-2009-04,Sonata Arctica,0
-2009-04,The Killers,1
-2009-04,Within Temptation,1
-2009-05,Afi,0
-2009-05,Avril Lavigne,0
-2009-05,Backstreet Boys,1
-2009-05,Belanova,0
-2009-05,Britney Spears,0
-2009-05,Eminem,1
-2009-05,Eros Ramazzotti,0
-2009-05,Hannah Montana,1
-2009-05,Kudai,1
-2009-05,Linkin Park,1
-2009-05,Mägo De Oz,1
-2009-05,Metallica,0
-2009-05,Nightwish,4
-2009-05,Northern Kings,1
-2009-05,Panda,0
-2009-05,Paramore,6
-2009-05,Soda Stereo,1
-2009-05,Sonata Arctica,2
-2009-05,The Killers,0
-2009-05,Within Temptation,22
-2009-06,Afi,0
-2009-06,Avril Lavigne,0
-2009-06,Backstreet Boys,0
-2009-06,Belanova,0
-2009-06,Britney Spears,0
-2009-06,Eminem,0
-2009-06,Eros Ramazzotti,0
-2009-06,Hannah Montana,0
-2009-06,Kudai,0
-2009-06,Linkin Park,0
-2009-06,Mägo De Oz,0
-2009-06,Metallica,0
-2009-06,Nightwish,0
-2009-06,Northern Kings,0
-2009-06,Panda,0
-2009-06,Paramore,4
-2009-06,Soda Stereo,0
-2009-06,Sonata Arctica,0
-2009-06,The Killers,0
-2009-06,Within Temptation,0
+"month","artist","plays"
+"2006-11","Afi",0
+"2006-11","Avril Lavigne",1
+"2006-11","Backstreet Boys",0
+"2006-11","Belanova",1
+"2006-11","Britney Spears",9
+"2006-11","Eminem",0
+"2006-11","Eros Ramazzotti",1
+"2006-11","Hannah Montana",0
+"2006-11","Kudai",26
+"2006-11","Linkin Park",0
+"2006-11","Mägo De Oz",22
+"2006-11","Metallica",1
+"2006-11","Nightwish",15
+"2006-11","Northern Kings",0
+"2006-11","Panda",0
+"2006-11","Paramore",0
+"2006-11","Soda Stereo",0
+"2006-11","Sonata Arctica",12
+"2006-11","The Killers",5
+"2006-11","Within Temptation",7
+"2006-12","Afi",4
+"2006-12","Avril Lavigne",1
+"2006-12","Backstreet Boys",0
+"2006-12","Belanova",0
+"2006-12","Britney Spears",1
+"2006-12","Eminem",0
+"2006-12","Eros Ramazzotti",0
+"2006-12","Hannah Montana",0
+"2006-12","Kudai",11
+"2006-12","Linkin Park",0
+"2006-12","Mägo De Oz",41
+"2006-12","Metallica",1
+"2006-12","Nightwish",8
+"2006-12","Northern Kings",0
+"2006-12","Panda",0
+"2006-12","Paramore",0
+"2006-12","Soda Stereo",0
+"2006-12","Sonata Arctica",15
+"2006-12","The Killers",6
+"2006-12","Within Temptation",3
+"2007-01","Afi",2
+"2007-01","Avril Lavigne",1
+"2007-01","Backstreet Boys",0
+"2007-01","Belanova",0
+"2007-01","Britney Spears",4
+"2007-01","Eminem",0
+"2007-01","Eros Ramazzotti",0
+"2007-01","Hannah Montana",0
+"2007-01","Kudai",1
+"2007-01","Linkin Park",0
+"2007-01","Mägo De Oz",13
+"2007-01","Metallica",4
+"2007-01","Nightwish",1
+"2007-01","Northern Kings",0
+"2007-01","Panda",1
+"2007-01","Paramore",0
+"2007-01","Soda Stereo",0
+"2007-01","Sonata Arctica",30
+"2007-01","The Killers",0
+"2007-01","Within Temptation",6
+"2007-02","Afi",1
+"2007-02","Avril Lavigne",0
+"2007-02","Backstreet Boys",0
+"2007-02","Belanova",0
+"2007-02","Britney Spears",1
+"2007-02","Eminem",2
+"2007-02","Eros Ramazzotti",0
+"2007-02","Hannah Montana",0
+"2007-02","Kudai",4
+"2007-02","Linkin Park",0
+"2007-02","Mägo De Oz",0
+"2007-02","Metallica",0
+"2007-02","Nightwish",1
+"2007-02","Northern Kings",0
+"2007-02","Panda",2
+"2007-02","Paramore",0
+"2007-02","Soda Stereo",0
+"2007-02","Sonata Arctica",0
+"2007-02","The Killers",0
+"2007-02","Within Temptation",4
+"2007-03","Afi",7
+"2007-03","Avril Lavigne",0
+"2007-03","Backstreet Boys",0
+"2007-03","Belanova",0
+"2007-03","Britney Spears",0
+"2007-03","Eminem",1
+"2007-03","Eros Ramazzotti",0
+"2007-03","Hannah Montana",0
+"2007-03","Kudai",2
+"2007-03","Linkin Park",0
+"2007-03","Mägo De Oz",0
+"2007-03","Metallica",0
+"2007-03","Nightwish",1
+"2007-03","Northern Kings",0
+"2007-03","Panda",0
+"2007-03","Paramore",0
+"2007-03","Soda Stereo",0
+"2007-03","Sonata Arctica",5
+"2007-03","The Killers",3
+"2007-03","Within Temptation",9
+"2007-04","Afi",0
+"2007-04","Avril Lavigne",0
+"2007-04","Backstreet Boys",0
+"2007-04","Belanova",0
+"2007-04","Britney Spears",0
+"2007-04","Eminem",0
+"2007-04","Eros Ramazzotti",0
+"2007-04","Hannah Montana",0
+"2007-04","Kudai",0
+"2007-04","Linkin Park",0
+"2007-04","Mägo De Oz",2
+"2007-04","Metallica",0
+"2007-04","Nightwish",0
+"2007-04","Northern Kings",0
+"2007-04","Panda",0
+"2007-04","Paramore",0
+"2007-04","Soda Stereo",0
+"2007-04","Sonata Arctica",2
+"2007-04","The Killers",0
+"2007-04","Within Temptation",0
+"2007-05","Afi",0
+"2007-05","Avril Lavigne",1
+"2007-05","Backstreet Boys",0
+"2007-05","Belanova",0
+"2007-05","Britney Spears",0
+"2007-05","Eminem",0
+"2007-05","Eros Ramazzotti",0
+"2007-05","Hannah Montana",0
+"2007-05","Kudai",0
+"2007-05","Linkin Park",0
+"2007-05","Mägo De Oz",10
+"2007-05","Metallica",0
+"2007-05","Nightwish",3
+"2007-05","Northern Kings",0
+"2007-05","Panda",4
+"2007-05","Paramore",0
+"2007-05","Soda Stereo",0
+"2007-05","Sonata Arctica",24
+"2007-05","The Killers",1
+"2007-05","Within Temptation",6
+"2007-06","Afi",0
+"2007-06","Avril Lavigne",0
+"2007-06","Backstreet Boys",0
+"2007-06","Belanova",1
+"2007-06","Britney Spears",0
+"2007-06","Eminem",0
+"2007-06","Eros Ramazzotti",1
+"2007-06","Hannah Montana",0
+"2007-06","Kudai",0
+"2007-06","Linkin Park",0
+"2007-06","Mägo De Oz",14
+"2007-06","Metallica",0
+"2007-06","Nightwish",11
+"2007-06","Northern Kings",0
+"2007-06","Panda",0
+"2007-06","Paramore",0
+"2007-06","Soda Stereo",14
+"2007-06","Sonata Arctica",44
+"2007-06","The Killers",0
+"2007-06","Within Temptation",5
+"2007-07","Afi",1
+"2007-07","Avril Lavigne",1
+"2007-07","Backstreet Boys",0
+"2007-07","Belanova",0
+"2007-07","Britney Spears",0
+"2007-07","Eminem",0
+"2007-07","Eros Ramazzotti",0
+"2007-07","Hannah Montana",0
+"2007-07","Kudai",1
+"2007-07","Linkin Park",0
+"2007-07","Mägo De Oz",4
+"2007-07","Metallica",0
+"2007-07","Nightwish",1
+"2007-07","Northern Kings",0
+"2007-07","Panda",1
+"2007-07","Paramore",0
+"2007-07","Soda Stereo",13
+"2007-07","Sonata Arctica",21
+"2007-07","The Killers",0
+"2007-07","Within Temptation",2
+"2007-08","Afi",7
+"2007-08","Avril Lavigne",0
+"2007-08","Backstreet Boys",1
+"2007-08","Belanova",1
+"2007-08","Britney Spears",0
+"2007-08","Eminem",5
+"2007-08","Eros Ramazzotti",2
+"2007-08","Hannah Montana",0
+"2007-08","Kudai",2
+"2007-08","Linkin Park",0
+"2007-08","Mägo De Oz",14
+"2007-08","Metallica",3
+"2007-08","Nightwish",15
+"2007-08","Northern Kings",0
+"2007-08","Panda",8
+"2007-08","Paramore",0
+"2007-08","Soda Stereo",6
+"2007-08","Sonata Arctica",20
+"2007-08","The Killers",1
+"2007-08","Within Temptation",13
+"2007-09","Afi",2
+"2007-09","Avril Lavigne",0
+"2007-09","Backstreet Boys",0
+"2007-09","Belanova",1
+"2007-09","Britney Spears",4
+"2007-09","Eminem",3
+"2007-09","Eros Ramazzotti",0
+"2007-09","Hannah Montana",0
+"2007-09","Kudai",1
+"2007-09","Linkin Park",15
+"2007-09","Mägo De Oz",8
+"2007-09","Metallica",0
+"2007-09","Nightwish",5
+"2007-09","Northern Kings",0
+"2007-09","Panda",4
+"2007-09","Paramore",0
+"2007-09","Soda Stereo",2
+"2007-09","Sonata Arctica",11
+"2007-09","The Killers",0
+"2007-09","Within Temptation",7
+"2007-10","Afi",0
+"2007-10","Avril Lavigne",1
+"2007-10","Backstreet Boys",12
+"2007-10","Belanova",0
+"2007-10","Britney Spears",0
+"2007-10","Eminem",0
+"2007-10","Eros Ramazzotti",0
+"2007-10","Hannah Montana",0
+"2007-10","Kudai",0
+"2007-10","Linkin Park",2
+"2007-10","Mägo De Oz",0
+"2007-10","Metallica",0
+"2007-10","Nightwish",14
+"2007-10","Northern Kings",0
+"2007-10","Panda",1
+"2007-10","Paramore",0
+"2007-10","Soda Stereo",5
+"2007-10","Sonata Arctica",5
+"2007-10","The Killers",0
+"2007-10","Within Temptation",1
+"2007-11","Afi",2
+"2007-11","Avril Lavigne",2
+"2007-11","Backstreet Boys",24
+"2007-11","Belanova",1
+"2007-11","Britney Spears",3
+"2007-11","Eminem",3
+"2007-11","Eros Ramazzotti",0
+"2007-11","Hannah Montana",0
+"2007-11","Kudai",3
+"2007-11","Linkin Park",3
+"2007-11","Mägo De Oz",19
+"2007-11","Metallica",1
+"2007-11","Nightwish",22
+"2007-11","Northern Kings",6
+"2007-11","Panda",0
+"2007-11","Paramore",0
+"2007-11","Soda Stereo",5
+"2007-11","Sonata Arctica",23
+"2007-11","The Killers",1
+"2007-11","Within Temptation",7
+"2007-12","Afi",2
+"2007-12","Avril Lavigne",0
+"2007-12","Backstreet Boys",1
+"2007-12","Belanova",0
+"2007-12","Britney Spears",0
+"2007-12","Eminem",0
+"2007-12","Eros Ramazzotti",0
+"2007-12","Hannah Montana",0
+"2007-12","Kudai",0
+"2007-12","Linkin Park",0
+"2007-12","Mägo De Oz",2
+"2007-12","Metallica",0
+"2007-12","Nightwish",0
+"2007-12","Northern Kings",0
+"2007-12","Panda",0
+"2007-12","Paramore",0
+"2007-12","Soda Stereo",2
+"2007-12","Sonata Arctica",23
+"2007-12","The Killers",0
+"2007-12","Within Temptation",4
+"2008-01","Afi",0
+"2008-01","Avril Lavigne",0
+"2008-01","Backstreet Boys",2
+"2008-01","Belanova",0
+"2008-01","Britney Spears",0
+"2008-01","Eminem",0
+"2008-01","Eros Ramazzotti",0
+"2008-01","Hannah Montana",0
+"2008-01","Kudai",2
+"2008-01","Linkin Park",1
+"2008-01","Mägo De Oz",1
+"2008-01","Metallica",0
+"2008-01","Nightwish",5
+"2008-01","Northern Kings",0
+"2008-01","Panda",0
+"2008-01","Paramore",0
+"2008-01","Soda Stereo",0
+"2008-01","Sonata Arctica",5
+"2008-01","The Killers",0
+"2008-01","Within Temptation",2
+"2008-02","Afi",0
+"2008-02","Avril Lavigne",0
+"2008-02","Backstreet Boys",1
+"2008-02","Belanova",0
+"2008-02","Britney Spears",0
+"2008-02","Eminem",0
+"2008-02","Eros Ramazzotti",0
+"2008-02","Hannah Montana",0
+"2008-02","Kudai",3
+"2008-02","Linkin Park",0
+"2008-02","Mägo De Oz",2
+"2008-02","Metallica",1
+"2008-02","Nightwish",11
+"2008-02","Northern Kings",2
+"2008-02","Panda",4
+"2008-02","Paramore",0
+"2008-02","Soda Stereo",0
+"2008-02","Sonata Arctica",45
+"2008-02","The Killers",0
+"2008-02","Within Temptation",7
+"2008-03","Afi",0
+"2008-03","Avril Lavigne",0
+"2008-03","Backstreet Boys",11
+"2008-03","Belanova",0
+"2008-03","Britney Spears",0
+"2008-03","Eminem",0
+"2008-03","Eros Ramazzotti",1
+"2008-03","Hannah Montana",0
+"2008-03","Kudai",0
+"2008-03","Linkin Park",0
+"2008-03","Mägo De Oz",0
+"2008-03","Metallica",0
+"2008-03","Nightwish",5
+"2008-03","Northern Kings",0
+"2008-03","Panda",0
+"2008-03","Paramore",0
+"2008-03","Soda Stereo",0
+"2008-03","Sonata Arctica",42
+"2008-03","The Killers",0
+"2008-03","Within Temptation",3
+"2008-04","Afi",0
+"2008-04","Avril Lavigne",0
+"2008-04","Backstreet Boys",4
+"2008-04","Belanova",0
+"2008-04","Britney Spears",0
+"2008-04","Eminem",0
+"2008-04","Eros Ramazzotti",0
+"2008-04","Hannah Montana",0
+"2008-04","Kudai",0
+"2008-04","Linkin Park",0
+"2008-04","Mägo De Oz",0
+"2008-04","Metallica",0
+"2008-04","Nightwish",1
+"2008-04","Northern Kings",11
+"2008-04","Panda",0
+"2008-04","Paramore",0
+"2008-04","Soda Stereo",0
+"2008-04","Sonata Arctica",15
+"2008-04","The Killers",0
+"2008-04","Within Temptation",1
+"2008-05","Afi",0
+"2008-05","Avril Lavigne",1
+"2008-05","Backstreet Boys",1
+"2008-05","Belanova",0
+"2008-05","Britney Spears",0
+"2008-05","Eminem",2
+"2008-05","Eros Ramazzotti",0
+"2008-05","Hannah Montana",0
+"2008-05","Kudai",0
+"2008-05","Linkin Park",0
+"2008-05","Mägo De Oz",2
+"2008-05","Metallica",0
+"2008-05","Nightwish",8
+"2008-05","Northern Kings",9
+"2008-05","Panda",0
+"2008-05","Paramore",0
+"2008-05","Soda Stereo",0
+"2008-05","Sonata Arctica",15
+"2008-05","The Killers",0
+"2008-05","Within Temptation",3
+"2008-06","Afi",0
+"2008-06","Avril Lavigne",0
+"2008-06","Backstreet Boys",0
+"2008-06","Belanova",0
+"2008-06","Britney Spears",0
+"2008-06","Eminem",0
+"2008-06","Eros Ramazzotti",0
+"2008-06","Hannah Montana",6
+"2008-06","Kudai",0
+"2008-06","Linkin Park",0
+"2008-06","Mägo De Oz",0
+"2008-06","Metallica",0
+"2008-06","Nightwish",2
+"2008-06","Northern Kings",2
+"2008-06","Panda",0
+"2008-06","Paramore",0
+"2008-06","Soda Stereo",0
+"2008-06","Sonata Arctica",10
+"2008-06","The Killers",0
+"2008-06","Within Temptation",0
+"2008-07","Afi",0
+"2008-07","Avril Lavigne",0
+"2008-07","Backstreet Boys",2
+"2008-07","Belanova",0
+"2008-07","Britney Spears",0
+"2008-07","Eminem",1
+"2008-07","Eros Ramazzotti",0
+"2008-07","Hannah Montana",1
+"2008-07","Kudai",2
+"2008-07","Linkin Park",2
+"2008-07","Mägo De Oz",0
+"2008-07","Metallica",3
+"2008-07","Nightwish",4
+"2008-07","Northern Kings",5
+"2008-07","Panda",0
+"2008-07","Paramore",0
+"2008-07","Soda Stereo",1
+"2008-07","Sonata Arctica",16
+"2008-07","The Killers",0
+"2008-07","Within Temptation",0
+"2008-08","Afi",1
+"2008-08","Avril Lavigne",0
+"2008-08","Backstreet Boys",0
+"2008-08","Belanova",0
+"2008-08","Britney Spears",0
+"2008-08","Eminem",0
+"2008-08","Eros Ramazzotti",1
+"2008-08","Hannah Montana",3
+"2008-08","Kudai",1
+"2008-08","Linkin Park",0
+"2008-08","Mägo De Oz",1
+"2008-08","Metallica",0
+"2008-08","Nightwish",3
+"2008-08","Northern Kings",0
+"2008-08","Panda",1
+"2008-08","Paramore",2
+"2008-08","Soda Stereo",0
+"2008-08","Sonata Arctica",4
+"2008-08","The Killers",0
+"2008-08","Within Temptation",3
+"2008-09","Afi",0
+"2008-09","Avril Lavigne",0
+"2008-09","Backstreet Boys",1
+"2008-09","Belanova",0
+"2008-09","Britney Spears",0
+"2008-09","Eminem",0
+"2008-09","Eros Ramazzotti",0
+"2008-09","Hannah Montana",1
+"2008-09","Kudai",0
+"2008-09","Linkin Park",0
+"2008-09","Mägo De Oz",1
+"2008-09","Metallica",1
+"2008-09","Nightwish",6
+"2008-09","Northern Kings",1
+"2008-09","Panda",0
+"2008-09","Paramore",4
+"2008-09","Soda Stereo",0
+"2008-09","Sonata Arctica",3
+"2008-09","The Killers",0
+"2008-09","Within Temptation",0
+"2008-10","Afi",0
+"2008-10","Avril Lavigne",0
+"2008-10","Backstreet Boys",0
+"2008-10","Belanova",0
+"2008-10","Britney Spears",0
+"2008-10","Eminem",0
+"2008-10","Eros Ramazzotti",1
+"2008-10","Hannah Montana",2
+"2008-10","Kudai",0
+"2008-10","Linkin Park",0
+"2008-10","Mägo De Oz",0
+"2008-10","Metallica",0
+"2008-10","Nightwish",1
+"2008-10","Northern Kings",1
+"2008-10","Panda",4
+"2008-10","Paramore",11
+"2008-10","Soda Stereo",0
+"2008-10","Sonata Arctica",2
+"2008-10","The Killers",0
+"2008-10","Within Temptation",1
+"2008-11","Afi",0
+"2008-11","Avril Lavigne",0
+"2008-11","Backstreet Boys",0
+"2008-11","Belanova",1
+"2008-11","Britney Spears",0
+"2008-11","Eminem",1
+"2008-11","Eros Ramazzotti",0
+"2008-11","Hannah Montana",0
+"2008-11","Kudai",2
+"2008-11","Linkin Park",1
+"2008-11","Mägo De Oz",8
+"2008-11","Metallica",0
+"2008-11","Nightwish",11
+"2008-11","Northern Kings",0
+"2008-11","Panda",3
+"2008-11","Paramore",21
+"2008-11","Soda Stereo",0
+"2008-11","Sonata Arctica",13
+"2008-11","The Killers",1
+"2008-11","Within Temptation",3
+"2008-12","Afi",2
+"2008-12","Avril Lavigne",0
+"2008-12","Backstreet Boys",25
+"2008-12","Belanova",10
+"2008-12","Britney Spears",3
+"2008-12","Eminem",8
+"2008-12","Eros Ramazzotti",2
+"2008-12","Hannah Montana",2
+"2008-12","Kudai",1
+"2008-12","Linkin Park",0
+"2008-12","Mägo De Oz",6
+"2008-12","Metallica",4
+"2008-12","Nightwish",8
+"2008-12","Northern Kings",2
+"2008-12","Panda",3
+"2008-12","Paramore",11
+"2008-12","Soda Stereo",6
+"2008-12","Sonata Arctica",26
+"2008-12","The Killers",2
+"2008-12","Within Temptation",5
+"2009-01","Afi",0
+"2009-01","Avril Lavigne",0
+"2009-01","Backstreet Boys",3
+"2009-01","Belanova",1
+"2009-01","Britney Spears",0
+"2009-01","Eminem",1
+"2009-01","Eros Ramazzotti",1
+"2009-01","Hannah Montana",0
+"2009-01","Kudai",0
+"2009-01","Linkin Park",0
+"2009-01","Mägo De Oz",0
+"2009-01","Metallica",1
+"2009-01","Nightwish",3
+"2009-01","Northern Kings",2
+"2009-01","Panda",0
+"2009-01","Paramore",6
+"2009-01","Soda Stereo",0
+"2009-01","Sonata Arctica",1
+"2009-01","The Killers",0
+"2009-01","Within Temptation",0
+"2009-02","Afi",1
+"2009-02","Avril Lavigne",1
+"2009-02","Backstreet Boys",17
+"2009-02","Belanova",1
+"2009-02","Britney Spears",1
+"2009-02","Eminem",3
+"2009-02","Eros Ramazzotti",1
+"2009-02","Hannah Montana",1
+"2009-02","Kudai",1
+"2009-02","Linkin Park",1
+"2009-02","Mägo De Oz",3
+"2009-02","Metallica",0
+"2009-02","Nightwish",7
+"2009-02","Northern Kings",6
+"2009-02","Panda",0
+"2009-02","Paramore",10
+"2009-02","Soda Stereo",6
+"2009-02","Sonata Arctica",10
+"2009-02","The Killers",3
+"2009-02","Within Temptation",6
+"2009-03","Afi",0
+"2009-03","Avril Lavigne",0
+"2009-03","Backstreet Boys",46
+"2009-03","Belanova",1
+"2009-03","Britney Spears",3
+"2009-03","Eminem",7
+"2009-03","Eros Ramazzotti",1
+"2009-03","Hannah Montana",1
+"2009-03","Kudai",2
+"2009-03","Linkin Park",1
+"2009-03","Mägo De Oz",5
+"2009-03","Metallica",2
+"2009-03","Nightwish",9
+"2009-03","Northern Kings",0
+"2009-03","Panda",1
+"2009-03","Paramore",13
+"2009-03","Soda Stereo",1
+"2009-03","Sonata Arctica",10
+"2009-03","The Killers",1
+"2009-03","Within Temptation",7
+"2009-04","Afi",0
+"2009-04","Avril Lavigne",1
+"2009-04","Backstreet Boys",4
+"2009-04","Belanova",0
+"2009-04","Britney Spears",0
+"2009-04","Eminem",0
+"2009-04","Eros Ramazzotti",0
+"2009-04","Hannah Montana",0
+"2009-04","Kudai",0
+"2009-04","Linkin Park",0
+"2009-04","Mägo De Oz",0
+"2009-04","Metallica",0
+"2009-04","Nightwish",1
+"2009-04","Northern Kings",0
+"2009-04","Panda",0
+"2009-04","Paramore",0
+"2009-04","Soda Stereo",1
+"2009-04","Sonata Arctica",0
+"2009-04","The Killers",1
+"2009-04","Within Temptation",1
+"2009-05","Afi",0
+"2009-05","Avril Lavigne",0
+"2009-05","Backstreet Boys",1
+"2009-05","Belanova",0
+"2009-05","Britney Spears",0
+"2009-05","Eminem",1
+"2009-05","Eros Ramazzotti",0
+"2009-05","Hannah Montana",1
+"2009-05","Kudai",1
+"2009-05","Linkin Park",1
+"2009-05","Mägo De Oz",1
+"2009-05","Metallica",0
+"2009-05","Nightwish",4
+"2009-05","Northern Kings",1
+"2009-05","Panda",0
+"2009-05","Paramore",6
+"2009-05","Soda Stereo",1
+"2009-05","Sonata Arctica",2
+"2009-05","The Killers",0
+"2009-05","Within Temptation",22
+"2009-06","Afi",0
+"2009-06","Avril Lavigne",0
+"2009-06","Backstreet Boys",0
+"2009-06","Belanova",0
+"2009-06","Britney Spears",0
+"2009-06","Eminem",0
+"2009-06","Eros Ramazzotti",0
+"2009-06","Hannah Montana",0
+"2009-06","Kudai",0
+"2009-06","Linkin Park",0
+"2009-06","Mägo De Oz",0
+"2009-06","Metallica",0
+"2009-06","Nightwish",0
+"2009-06","Northern Kings",0
+"2009-06","Panda",0
+"2009-06","Paramore",4
+"2009-06","Soda Stereo",0
+"2009-06","Sonata Arctica",0
+"2009-06","The Killers",0
+"2009-06","Within Temptation",0

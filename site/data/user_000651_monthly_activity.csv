@@ -1,381 +1,381 @@
-month,artist,plays
-2007-12,4 Strings,13
-2007-12,A*Teens,4
-2007-12,Abba,41
-2007-12,Agnelli & Nelson,6
-2007-12,Alex Gaudino,3
-2007-12,Alice Deejay,12
-2007-12,Amber,6
-2007-12,Armand Van Helden,34
-2007-12,Atb,39
-2007-12,Atrium,4
-2007-12,Aubrey,5
-2007-12,Aurora,2
-2007-12,Basement Jaxx,4
-2007-12,Benassi Bros.,4
-2007-12,Benny Benassi,12
-2007-12,Beyoncé,2
-2007-12,Bob Sinclar,12
-2007-12,Booty Luv,6
-2007-12,Britney Spears,5
-2007-12,Byron Stingily,9
-2008-01,4 Strings,64
-2008-01,A*Teens,6
-2008-01,Abba,48
-2008-01,Agnelli & Nelson,7
-2008-01,Alex Gaudino,7
-2008-01,Alice Deejay,16
-2008-01,Amber,10
-2008-01,Armand Van Helden,18
-2008-01,Atb,44
-2008-01,Atrium,4
-2008-01,Aubrey,4
-2008-01,Aurora,3
-2008-01,Basement Jaxx,12
-2008-01,Benassi Bros.,5
-2008-01,Benny Benassi,12
-2008-01,Beyoncé,11
-2008-01,Bob Sinclar,17
-2008-01,Booty Luv,6
-2008-01,Britney Spears,17
-2008-01,Byron Stingily,13
-2008-02,4 Strings,27
-2008-02,A*Teens,1
-2008-02,Abba,20
-2008-02,Agnelli & Nelson,1
-2008-02,Alex Gaudino,3
-2008-02,Alice Deejay,2
-2008-02,Amber,8
-2008-02,Armand Van Helden,12
-2008-02,Atb,11
-2008-02,Atrium,1
-2008-02,Aubrey,3
-2008-02,Aurora,3
-2008-02,Basement Jaxx,3
-2008-02,Benassi Bros.,1
-2008-02,Benny Benassi,9
-2008-02,Beyoncé,9
-2008-02,Bob Sinclar,9
-2008-02,Booty Luv,3
-2008-02,Britney Spears,7
-2008-02,Byron Stingily,5
-2008-03,4 Strings,23
-2008-03,A*Teens,5
-2008-03,Abba,25
-2008-03,Agnelli & Nelson,6
-2008-03,Alex Gaudino,5
-2008-03,Alice Deejay,4
-2008-03,Amber,2
-2008-03,Armand Van Helden,10
-2008-03,Atb,16
-2008-03,Atrium,1
-2008-03,Aubrey,2
-2008-03,Aurora,1
-2008-03,Basement Jaxx,2
-2008-03,Benassi Bros.,6
-2008-03,Benny Benassi,7
-2008-03,Beyoncé,11
-2008-03,Bob Sinclar,8
-2008-03,Booty Luv,9
-2008-03,Britney Spears,6
-2008-03,Byron Stingily,4
-2008-04,4 Strings,65
-2008-04,A*Teens,5
-2008-04,Abba,33
-2008-04,Agnelli & Nelson,7
-2008-04,Alex Gaudino,2
-2008-04,Alice Deejay,12
-2008-04,Amber,10
-2008-04,Armand Van Helden,30
-2008-04,Atb,38
-2008-04,Atrium,6
-2008-04,Aubrey,6
-2008-04,Aurora,9
-2008-04,Basement Jaxx,11
-2008-04,Benassi Bros.,10
-2008-04,Benny Benassi,16
-2008-04,Beyoncé,18
-2008-04,Bob Sinclar,13
-2008-04,Booty Luv,6
-2008-04,Britney Spears,22
-2008-04,Byron Stingily,3
-2008-05,4 Strings,40
-2008-05,A*Teens,4
-2008-05,Abba,28
-2008-05,Agnelli & Nelson,5
-2008-05,Alex Gaudino,4
-2008-05,Alice Deejay,9
-2008-05,Amber,3
-2008-05,Armand Van Helden,20
-2008-05,Atb,32
-2008-05,Atrium,1
-2008-05,Aubrey,3
-2008-05,Aurora,6
-2008-05,Basement Jaxx,10
-2008-05,Benassi Bros.,10
-2008-05,Benny Benassi,15
-2008-05,Beyoncé,4
-2008-05,Bob Sinclar,15
-2008-05,Booty Luv,4
-2008-05,Britney Spears,18
-2008-05,Byron Stingily,10
-2008-06,4 Strings,20
-2008-06,A*Teens,1
-2008-06,Abba,7
-2008-06,Agnelli & Nelson,1
-2008-06,Alex Gaudino,5
-2008-06,Alice Deejay,5
-2008-06,Amber,1
-2008-06,Armand Van Helden,10
-2008-06,Atb,17
-2008-06,Atrium,1
-2008-06,Aubrey,2
-2008-06,Aurora,1
-2008-06,Basement Jaxx,2
-2008-06,Benassi Bros.,1
-2008-06,Benny Benassi,5
-2008-06,Beyoncé,5
-2008-06,Bob Sinclar,3
-2008-06,Booty Luv,5
-2008-06,Britney Spears,4
-2008-06,Byron Stingily,3
-2008-07,4 Strings,15
-2008-07,A*Teens,2
-2008-07,Abba,9
-2008-07,Agnelli & Nelson,1
-2008-07,Alex Gaudino,1
-2008-07,Alice Deejay,8
-2008-07,Amber,5
-2008-07,Armand Van Helden,8
-2008-07,Atb,14
-2008-07,Atrium,1
-2008-07,Aubrey,3
-2008-07,Aurora,2
-2008-07,Basement Jaxx,5
-2008-07,Benassi Bros.,3
-2008-07,Benny Benassi,4
-2008-07,Beyoncé,4
-2008-07,Bob Sinclar,5
-2008-07,Booty Luv,3
-2008-07,Britney Spears,10
-2008-07,Byron Stingily,5
-2008-08,4 Strings,16
-2008-08,A*Teens,9
-2008-08,Abba,2
-2008-08,Agnelli & Nelson,2
-2008-08,Alex Gaudino,6
-2008-08,Alice Deejay,2
-2008-08,Amber,4
-2008-08,Armand Van Helden,6
-2008-08,Atb,9
-2008-08,Atrium,1
-2008-08,Aubrey,1
-2008-08,Aurora,1
-2008-08,Basement Jaxx,1
-2008-08,Benassi Bros.,9
-2008-08,Benny Benassi,4
-2008-08,Beyoncé,4
-2008-08,Bob Sinclar,4
-2008-08,Booty Luv,1
-2008-08,Britney Spears,14
-2008-08,Byron Stingily,4
-2008-09,4 Strings,27
-2008-09,A*Teens,4
-2008-09,Abba,35
-2008-09,Agnelli & Nelson,5
-2008-09,Alex Gaudino,11
-2008-09,Alice Deejay,10
-2008-09,Amber,5
-2008-09,Armand Van Helden,11
-2008-09,Atb,30
-2008-09,Atrium,1
-2008-09,Aubrey,4
-2008-09,Aurora,4
-2008-09,Basement Jaxx,6
-2008-09,Benassi Bros.,3
-2008-09,Benny Benassi,15
-2008-09,Beyoncé,12
-2008-09,Bob Sinclar,2
-2008-09,Booty Luv,6
-2008-09,Britney Spears,11
-2008-09,Byron Stingily,5
-2008-10,4 Strings,61
-2008-10,A*Teens,8
-2008-10,Abba,35
-2008-10,Agnelli & Nelson,2
-2008-10,Alex Gaudino,12
-2008-10,Alice Deejay,15
-2008-10,Amber,11
-2008-10,Armand Van Helden,18
-2008-10,Atb,34
-2008-10,Atrium,3
-2008-10,Aubrey,6
-2008-10,Aurora,4
-2008-10,Basement Jaxx,9
-2008-10,Benassi Bros.,11
-2008-10,Benny Benassi,18
-2008-10,Beyoncé,22
-2008-10,Bob Sinclar,11
-2008-10,Booty Luv,3
-2008-10,Britney Spears,23
-2008-10,Byron Stingily,10
-2008-11,4 Strings,24
-2008-11,A*Teens,2
-2008-11,Abba,21
-2008-11,Agnelli & Nelson,4
-2008-11,Alex Gaudino,5
-2008-11,Alice Deejay,6
-2008-11,Amber,12
-2008-11,Armand Van Helden,9
-2008-11,Atb,27
-2008-11,Atrium,1
-2008-11,Aubrey,3
-2008-11,Aurora,2
-2008-11,Basement Jaxx,10
-2008-11,Benassi Bros.,4
-2008-11,Benny Benassi,17
-2008-11,Beyoncé,10
-2008-11,Bob Sinclar,4
-2008-11,Booty Luv,7
-2008-11,Britney Spears,27
-2008-11,Byron Stingily,14
-2008-12,4 Strings,32
-2008-12,A*Teens,3
-2008-12,Abba,26
-2008-12,Agnelli & Nelson,5
-2008-12,Alex Gaudino,10
-2008-12,Alice Deejay,7
-2008-12,Amber,8
-2008-12,Armand Van Helden,26
-2008-12,Atb,22
-2008-12,Atrium,2
-2008-12,Aubrey,3
-2008-12,Aurora,3
-2008-12,Basement Jaxx,12
-2008-12,Benassi Bros.,4
-2008-12,Benny Benassi,16
-2008-12,Beyoncé,22
-2008-12,Bob Sinclar,14
-2008-12,Booty Luv,10
-2008-12,Britney Spears,26
-2008-12,Byron Stingily,10
-2009-01,4 Strings,48
-2009-01,A*Teens,9
-2009-01,Abba,32
-2009-01,Agnelli & Nelson,2
-2009-01,Alex Gaudino,15
-2009-01,Alice Deejay,9
-2009-01,Amber,12
-2009-01,Armand Van Helden,16
-2009-01,Atb,26
-2009-01,Atrium,3
-2009-01,Aubrey,1
-2009-01,Aurora,2
-2009-01,Basement Jaxx,6
-2009-01,Benassi Bros.,4
-2009-01,Benny Benassi,21
-2009-01,Beyoncé,14
-2009-01,Bob Sinclar,14
-2009-01,Booty Luv,5
-2009-01,Britney Spears,26
-2009-01,Byron Stingily,4
-2009-02,4 Strings,50
-2009-02,A*Teens,5
-2009-02,Abba,25
-2009-02,Agnelli & Nelson,6
-2009-02,Alex Gaudino,17
-2009-02,Alice Deejay,5
-2009-02,Amber,9
-2009-02,Armand Van Helden,37
-2009-02,Atb,28
-2009-02,Atrium,1
-2009-02,Aubrey,3
-2009-02,Aurora,2
-2009-02,Basement Jaxx,10
-2009-02,Benassi Bros.,5
-2009-02,Benny Benassi,14
-2009-02,Beyoncé,25
-2009-02,Bob Sinclar,11
-2009-02,Booty Luv,8
-2009-02,Britney Spears,20
-2009-02,Byron Stingily,5
-2009-03,4 Strings,32
-2009-03,A*Teens,3
-2009-03,Abba,11
-2009-03,Agnelli & Nelson,3
-2009-03,Alex Gaudino,7
-2009-03,Alice Deejay,8
-2009-03,Amber,1
-2009-03,Armand Van Helden,20
-2009-03,Atb,53
-2009-03,Atrium,4
-2009-03,Aubrey,6
-2009-03,Aurora,5
-2009-03,Basement Jaxx,13
-2009-03,Benassi Bros.,4
-2009-03,Benny Benassi,15
-2009-03,Beyoncé,23
-2009-03,Bob Sinclar,10
-2009-03,Booty Luv,5
-2009-03,Britney Spears,16
-2009-03,Byron Stingily,12
-2009-04,4 Strings,25
-2009-04,A*Teens,3
-2009-04,Abba,20
-2009-04,Agnelli & Nelson,11
-2009-04,Alex Gaudino,8
-2009-04,Alice Deejay,11
-2009-04,Amber,3
-2009-04,Armand Van Helden,12
-2009-04,Atb,33
-2009-04,Atrium,3
-2009-04,Aubrey,1
-2009-04,Aurora,5
-2009-04,Basement Jaxx,10
-2009-04,Benassi Bros.,1
-2009-04,Benny Benassi,12
-2009-04,Beyoncé,16
-2009-04,Bob Sinclar,10
-2009-04,Booty Luv,9
-2009-04,Britney Spears,22
-2009-04,Byron Stingily,12
-2009-05,4 Strings,40
-2009-05,A*Teens,1
-2009-05,Abba,12
-2009-05,Agnelli & Nelson,8
-2009-05,Alex Gaudino,10
-2009-05,Alice Deejay,10
-2009-05,Amber,7
-2009-05,Armand Van Helden,15
-2009-05,Atb,20
-2009-05,Atrium,2
-2009-05,Aubrey,4
-2009-05,Aurora,5
-2009-05,Basement Jaxx,11
-2009-05,Benassi Bros.,5
-2009-05,Benny Benassi,9
-2009-05,Beyoncé,16
-2009-05,Bob Sinclar,8
-2009-05,Booty Luv,9
-2009-05,Britney Spears,25
-2009-05,Byron Stingily,8
-2009-06,4 Strings,19
-2009-06,A*Teens,3
-2009-06,Abba,18
-2009-06,Agnelli & Nelson,5
-2009-06,Alex Gaudino,7
-2009-06,Alice Deejay,4
-2009-06,Amber,6
-2009-06,Armand Van Helden,14
-2009-06,Atb,14
-2009-06,Atrium,4
-2009-06,Aubrey,1
-2009-06,Aurora,1
-2009-06,Basement Jaxx,6
-2009-06,Benassi Bros.,2
-2009-06,Benny Benassi,7
-2009-06,Beyoncé,15
-2009-06,Bob Sinclar,3
-2009-06,Booty Luv,5
-2009-06,Britney Spears,9
-2009-06,Byron Stingily,6
+"month","artist","plays"
+"2007-12","4 Strings",13
+"2007-12","A*Teens",4
+"2007-12","Abba",41
+"2007-12","Agnelli & Nelson",6
+"2007-12","Alex Gaudino",3
+"2007-12","Alice Deejay",12
+"2007-12","Amber",6
+"2007-12","Armand Van Helden",34
+"2007-12","Atb",39
+"2007-12","Atrium",4
+"2007-12","Aubrey",5
+"2007-12","Aurora",2
+"2007-12","Basement Jaxx",4
+"2007-12","Benassi Bros.",4
+"2007-12","Benny Benassi",12
+"2007-12","Beyoncé",2
+"2007-12","Bob Sinclar",12
+"2007-12","Booty Luv",6
+"2007-12","Britney Spears",5
+"2007-12","Byron Stingily",9
+"2008-01","4 Strings",64
+"2008-01","A*Teens",6
+"2008-01","Abba",48
+"2008-01","Agnelli & Nelson",7
+"2008-01","Alex Gaudino",7
+"2008-01","Alice Deejay",16
+"2008-01","Amber",10
+"2008-01","Armand Van Helden",18
+"2008-01","Atb",44
+"2008-01","Atrium",4
+"2008-01","Aubrey",4
+"2008-01","Aurora",3
+"2008-01","Basement Jaxx",12
+"2008-01","Benassi Bros.",5
+"2008-01","Benny Benassi",12
+"2008-01","Beyoncé",11
+"2008-01","Bob Sinclar",17
+"2008-01","Booty Luv",6
+"2008-01","Britney Spears",17
+"2008-01","Byron Stingily",13
+"2008-02","4 Strings",27
+"2008-02","A*Teens",1
+"2008-02","Abba",20
+"2008-02","Agnelli & Nelson",1
+"2008-02","Alex Gaudino",3
+"2008-02","Alice Deejay",2
+"2008-02","Amber",8
+"2008-02","Armand Van Helden",12
+"2008-02","Atb",11
+"2008-02","Atrium",1
+"2008-02","Aubrey",3
+"2008-02","Aurora",3
+"2008-02","Basement Jaxx",3
+"2008-02","Benassi Bros.",1
+"2008-02","Benny Benassi",9
+"2008-02","Beyoncé",9
+"2008-02","Bob Sinclar",9
+"2008-02","Booty Luv",3
+"2008-02","Britney Spears",7
+"2008-02","Byron Stingily",5
+"2008-03","4 Strings",23
+"2008-03","A*Teens",5
+"2008-03","Abba",25
+"2008-03","Agnelli & Nelson",6
+"2008-03","Alex Gaudino",5
+"2008-03","Alice Deejay",4
+"2008-03","Amber",2
+"2008-03","Armand Van Helden",10
+"2008-03","Atb",16
+"2008-03","Atrium",1
+"2008-03","Aubrey",2
+"2008-03","Aurora",1
+"2008-03","Basement Jaxx",2
+"2008-03","Benassi Bros.",6
+"2008-03","Benny Benassi",7
+"2008-03","Beyoncé",11
+"2008-03","Bob Sinclar",8
+"2008-03","Booty Luv",9
+"2008-03","Britney Spears",6
+"2008-03","Byron Stingily",4
+"2008-04","4 Strings",65
+"2008-04","A*Teens",5
+"2008-04","Abba",33
+"2008-04","Agnelli & Nelson",7
+"2008-04","Alex Gaudino",2
+"2008-04","Alice Deejay",12
+"2008-04","Amber",10
+"2008-04","Armand Van Helden",30
+"2008-04","Atb",38
+"2008-04","Atrium",6
+"2008-04","Aubrey",6
+"2008-04","Aurora",9
+"2008-04","Basement Jaxx",11
+"2008-04","Benassi Bros.",10
+"2008-04","Benny Benassi",16
+"2008-04","Beyoncé",18
+"2008-04","Bob Sinclar",13
+"2008-04","Booty Luv",6
+"2008-04","Britney Spears",22
+"2008-04","Byron Stingily",3
+"2008-05","4 Strings",40
+"2008-05","A*Teens",4
+"2008-05","Abba",28
+"2008-05","Agnelli & Nelson",5
+"2008-05","Alex Gaudino",4
+"2008-05","Alice Deejay",9
+"2008-05","Amber",3
+"2008-05","Armand Van Helden",20
+"2008-05","Atb",32
+"2008-05","Atrium",1
+"2008-05","Aubrey",3
+"2008-05","Aurora",6
+"2008-05","Basement Jaxx",10
+"2008-05","Benassi Bros.",10
+"2008-05","Benny Benassi",15
+"2008-05","Beyoncé",4
+"2008-05","Bob Sinclar",15
+"2008-05","Booty Luv",4
+"2008-05","Britney Spears",18
+"2008-05","Byron Stingily",10
+"2008-06","4 Strings",20
+"2008-06","A*Teens",1
+"2008-06","Abba",7
+"2008-06","Agnelli & Nelson",1
+"2008-06","Alex Gaudino",5
+"2008-06","Alice Deejay",5
+"2008-06","Amber",1
+"2008-06","Armand Van Helden",10
+"2008-06","Atb",17
+"2008-06","Atrium",1
+"2008-06","Aubrey",2
+"2008-06","Aurora",1
+"2008-06","Basement Jaxx",2
+"2008-06","Benassi Bros.",1
+"2008-06","Benny Benassi",5
+"2008-06","Beyoncé",5
+"2008-06","Bob Sinclar",3
+"2008-06","Booty Luv",5
+"2008-06","Britney Spears",4
+"2008-06","Byron Stingily",3
+"2008-07","4 Strings",15
+"2008-07","A*Teens",2
+"2008-07","Abba",9
+"2008-07","Agnelli & Nelson",1
+"2008-07","Alex Gaudino",1
+"2008-07","Alice Deejay",8
+"2008-07","Amber",5
+"2008-07","Armand Van Helden",8
+"2008-07","Atb",14
+"2008-07","Atrium",1
+"2008-07","Aubrey",3
+"2008-07","Aurora",2
+"2008-07","Basement Jaxx",5
+"2008-07","Benassi Bros.",3
+"2008-07","Benny Benassi",4
+"2008-07","Beyoncé",4
+"2008-07","Bob Sinclar",5
+"2008-07","Booty Luv",3
+"2008-07","Britney Spears",10
+"2008-07","Byron Stingily",5
+"2008-08","4 Strings",16
+"2008-08","A*Teens",9
+"2008-08","Abba",2
+"2008-08","Agnelli & Nelson",2
+"2008-08","Alex Gaudino",6
+"2008-08","Alice Deejay",2
+"2008-08","Amber",4
+"2008-08","Armand Van Helden",6
+"2008-08","Atb",9
+"2008-08","Atrium",1
+"2008-08","Aubrey",1
+"2008-08","Aurora",1
+"2008-08","Basement Jaxx",1
+"2008-08","Benassi Bros.",9
+"2008-08","Benny Benassi",4
+"2008-08","Beyoncé",4
+"2008-08","Bob Sinclar",4
+"2008-08","Booty Luv",1
+"2008-08","Britney Spears",14
+"2008-08","Byron Stingily",4
+"2008-09","4 Strings",27
+"2008-09","A*Teens",4
+"2008-09","Abba",35
+"2008-09","Agnelli & Nelson",5
+"2008-09","Alex Gaudino",11
+"2008-09","Alice Deejay",10
+"2008-09","Amber",5
+"2008-09","Armand Van Helden",11
+"2008-09","Atb",30
+"2008-09","Atrium",1
+"2008-09","Aubrey",4
+"2008-09","Aurora",4
+"2008-09","Basement Jaxx",6
+"2008-09","Benassi Bros.",3
+"2008-09","Benny Benassi",15
+"2008-09","Beyoncé",12
+"2008-09","Bob Sinclar",2
+"2008-09","Booty Luv",6
+"2008-09","Britney Spears",11
+"2008-09","Byron Stingily",5
+"2008-10","4 Strings",61
+"2008-10","A*Teens",8
+"2008-10","Abba",35
+"2008-10","Agnelli & Nelson",2
+"2008-10","Alex Gaudino",12
+"2008-10","Alice Deejay",15
+"2008-10","Amber",11
+"2008-10","Armand Van Helden",18
+"2008-10","Atb",34
+"2008-10","Atrium",3
+"2008-10","Aubrey",6
+"2008-10","Aurora",4
+"2008-10","Basement Jaxx",9
+"2008-10","Benassi Bros.",11
+"2008-10","Benny Benassi",18
+"2008-10","Beyoncé",22
+"2008-10","Bob Sinclar",11
+"2008-10","Booty Luv",3
+"2008-10","Britney Spears",23
+"2008-10","Byron Stingily",10
+"2008-11","4 Strings",24
+"2008-11","A*Teens",2
+"2008-11","Abba",21
+"2008-11","Agnelli & Nelson",4
+"2008-11","Alex Gaudino",5
+"2008-11","Alice Deejay",6
+"2008-11","Amber",12
+"2008-11","Armand Van Helden",9
+"2008-11","Atb",27
+"2008-11","Atrium",1
+"2008-11","Aubrey",3
+"2008-11","Aurora",2
+"2008-11","Basement Jaxx",10
+"2008-11","Benassi Bros.",4
+"2008-11","Benny Benassi",17
+"2008-11","Beyoncé",10
+"2008-11","Bob Sinclar",4
+"2008-11","Booty Luv",7
+"2008-11","Britney Spears",27
+"2008-11","Byron Stingily",14
+"2008-12","4 Strings",32
+"2008-12","A*Teens",3
+"2008-12","Abba",26
+"2008-12","Agnelli & Nelson",5
+"2008-12","Alex Gaudino",10
+"2008-12","Alice Deejay",7
+"2008-12","Amber",8
+"2008-12","Armand Van Helden",26
+"2008-12","Atb",22
+"2008-12","Atrium",2
+"2008-12","Aubrey",3
+"2008-12","Aurora",3
+"2008-12","Basement Jaxx",12
+"2008-12","Benassi Bros.",4
+"2008-12","Benny Benassi",16
+"2008-12","Beyoncé",22
+"2008-12","Bob Sinclar",14
+"2008-12","Booty Luv",10
+"2008-12","Britney Spears",26
+"2008-12","Byron Stingily",10
+"2009-01","4 Strings",48
+"2009-01","A*Teens",9
+"2009-01","Abba",32
+"2009-01","Agnelli & Nelson",2
+"2009-01","Alex Gaudino",15
+"2009-01","Alice Deejay",9
+"2009-01","Amber",12
+"2009-01","Armand Van Helden",16
+"2009-01","Atb",26
+"2009-01","Atrium",3
+"2009-01","Aubrey",1
+"2009-01","Aurora",2
+"2009-01","Basement Jaxx",6
+"2009-01","Benassi Bros.",4
+"2009-01","Benny Benassi",21
+"2009-01","Beyoncé",14
+"2009-01","Bob Sinclar",14
+"2009-01","Booty Luv",5
+"2009-01","Britney Spears",26
+"2009-01","Byron Stingily",4
+"2009-02","4 Strings",50
+"2009-02","A*Teens",5
+"2009-02","Abba",25
+"2009-02","Agnelli & Nelson",6
+"2009-02","Alex Gaudino",17
+"2009-02","Alice Deejay",5
+"2009-02","Amber",9
+"2009-02","Armand Van Helden",37
+"2009-02","Atb",28
+"2009-02","Atrium",1
+"2009-02","Aubrey",3
+"2009-02","Aurora",2
+"2009-02","Basement Jaxx",10
+"2009-02","Benassi Bros.",5
+"2009-02","Benny Benassi",14
+"2009-02","Beyoncé",25
+"2009-02","Bob Sinclar",11
+"2009-02","Booty Luv",8
+"2009-02","Britney Spears",20
+"2009-02","Byron Stingily",5
+"2009-03","4 Strings",32
+"2009-03","A*Teens",3
+"2009-03","Abba",11
+"2009-03","Agnelli & Nelson",3
+"2009-03","Alex Gaudino",7
+"2009-03","Alice Deejay",8
+"2009-03","Amber",1
+"2009-03","Armand Van Helden",20
+"2009-03","Atb",53
+"2009-03","Atrium",4
+"2009-03","Aubrey",6
+"2009-03","Aurora",5
+"2009-03","Basement Jaxx",13
+"2009-03","Benassi Bros.",4
+"2009-03","Benny Benassi",15
+"2009-03","Beyoncé",23
+"2009-03","Bob Sinclar",10
+"2009-03","Booty Luv",5
+"2009-03","Britney Spears",16
+"2009-03","Byron Stingily",12
+"2009-04","4 Strings",25
+"2009-04","A*Teens",3
+"2009-04","Abba",20
+"2009-04","Agnelli & Nelson",11
+"2009-04","Alex Gaudino",8
+"2009-04","Alice Deejay",11
+"2009-04","Amber",3
+"2009-04","Armand Van Helden",12
+"2009-04","Atb",33
+"2009-04","Atrium",3
+"2009-04","Aubrey",1
+"2009-04","Aurora",5
+"2009-04","Basement Jaxx",10
+"2009-04","Benassi Bros.",1
+"2009-04","Benny Benassi",12
+"2009-04","Beyoncé",16
+"2009-04","Bob Sinclar",10
+"2009-04","Booty Luv",9
+"2009-04","Britney Spears",22
+"2009-04","Byron Stingily",12
+"2009-05","4 Strings",40
+"2009-05","A*Teens",1
+"2009-05","Abba",12
+"2009-05","Agnelli & Nelson",8
+"2009-05","Alex Gaudino",10
+"2009-05","Alice Deejay",10
+"2009-05","Amber",7
+"2009-05","Armand Van Helden",15
+"2009-05","Atb",20
+"2009-05","Atrium",2
+"2009-05","Aubrey",4
+"2009-05","Aurora",5
+"2009-05","Basement Jaxx",11
+"2009-05","Benassi Bros.",5
+"2009-05","Benny Benassi",9
+"2009-05","Beyoncé",16
+"2009-05","Bob Sinclar",8
+"2009-05","Booty Luv",9
+"2009-05","Britney Spears",25
+"2009-05","Byron Stingily",8
+"2009-06","4 Strings",19
+"2009-06","A*Teens",3
+"2009-06","Abba",18
+"2009-06","Agnelli & Nelson",5
+"2009-06","Alex Gaudino",7
+"2009-06","Alice Deejay",4
+"2009-06","Amber",6
+"2009-06","Armand Van Helden",14
+"2009-06","Atb",14
+"2009-06","Atrium",4
+"2009-06","Aubrey",1
+"2009-06","Aurora",1
+"2009-06","Basement Jaxx",6
+"2009-06","Benassi Bros.",2
+"2009-06","Benny Benassi",7
+"2009-06","Beyoncé",15
+"2009-06","Bob Sinclar",3
+"2009-06","Booty Luv",5
+"2009-06","Britney Spears",9
+"2009-06","Byron Stingily",6

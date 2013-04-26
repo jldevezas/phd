@@ -1,81 +1,81 @@
-month,artist,plays
-2008-09,Acute,2
-2008-09,Alkaline Trio,10
-2008-09,Aqueduct,0
-2008-09,Architecture In Helsinki,1
-2008-09,Arrah And The Ferns,75
-2008-09,Cansei De Ser Sexy,33
-2008-09,Chairlift,32
-2008-09,Chromatics,4
-2008-09,Coconut Records,4
-2008-09,Fleetwood Mac,63
-2008-09,Iron On,2
-2008-09,Kate Nash,1
-2008-09,Mates Of State,16
-2008-09,Mirah,1
-2008-09,Missy Higgins,1
-2008-09,Mixel Pixel,27
-2008-09,Placebo,1
-2008-09,Tegan And Sara,27
-2008-09,The Grates,49
-2008-09,Yeah Yeah Yeahs,1
-2008-10,Acute,1
-2008-10,Alkaline Trio,12
-2008-10,Aqueduct,3
-2008-10,Architecture In Helsinki,1
-2008-10,Arrah And The Ferns,17
-2008-10,Cansei De Ser Sexy,10
-2008-10,Chairlift,16
-2008-10,Chromatics,6
-2008-10,Coconut Records,8
-2008-10,Fleetwood Mac,25
-2008-10,Iron On,60
-2008-10,Kate Nash,5
-2008-10,Mates Of State,13
-2008-10,Mirah,3
-2008-10,Missy Higgins,1
-2008-10,Mixel Pixel,39
-2008-10,Placebo,4
-2008-10,Tegan And Sara,46
-2008-10,The Grates,13
-2008-10,Yeah Yeah Yeahs,3
-2008-11,Acute,1
-2008-11,Alkaline Trio,10
-2008-11,Aqueduct,22
-2008-11,Architecture In Helsinki,1
-2008-11,Arrah And The Ferns,5
-2008-11,Cansei De Ser Sexy,1
-2008-11,Chairlift,5
-2008-11,Chromatics,2
-2008-11,Coconut Records,17
-2008-11,Fleetwood Mac,15
-2008-11,Iron On,5
-2008-11,Kate Nash,1
-2008-11,Mates Of State,35
-2008-11,Mirah,3
-2008-11,Missy Higgins,3
-2008-11,Mixel Pixel,6
-2008-11,Placebo,4
-2008-11,Tegan And Sara,24
-2008-11,The Grates,5
-2008-11,Yeah Yeah Yeahs,3
-2008-12,Acute,0
-2008-12,Alkaline Trio,28
-2008-12,Aqueduct,1
-2008-12,Architecture In Helsinki,0
-2008-12,Arrah And The Ferns,0
-2008-12,Cansei De Ser Sexy,1
-2008-12,Chairlift,1
-2008-12,Chromatics,1
-2008-12,Coconut Records,1
-2008-12,Fleetwood Mac,1
-2008-12,Iron On,1
-2008-12,Kate Nash,1
-2008-12,Mates Of State,1
-2008-12,Mirah,1
-2008-12,Missy Higgins,1
-2008-12,Mixel Pixel,1
-2008-12,Placebo,2
-2008-12,Tegan And Sara,1
-2008-12,The Grates,2
-2008-12,Yeah Yeah Yeahs,1
+"month","artist","plays"
+"2008-09","Acute",2
+"2008-09","Alkaline Trio",10
+"2008-09","Aqueduct",0
+"2008-09","Architecture In Helsinki",1
+"2008-09","Arrah And The Ferns",75
+"2008-09","Cansei De Ser Sexy",33
+"2008-09","Chairlift",32
+"2008-09","Chromatics",4
+"2008-09","Coconut Records",4
+"2008-09","Fleetwood Mac",63
+"2008-09","Iron On",2
+"2008-09","Kate Nash",1
+"2008-09","Mates Of State",16
+"2008-09","Mirah",1
+"2008-09","Missy Higgins",1
+"2008-09","Mixel Pixel",27
+"2008-09","Placebo",1
+"2008-09","Tegan And Sara",27
+"2008-09","The Grates",49
+"2008-09","Yeah Yeah Yeahs",1
+"2008-10","Acute",1
+"2008-10","Alkaline Trio",12
+"2008-10","Aqueduct",3
+"2008-10","Architecture In Helsinki",1
+"2008-10","Arrah And The Ferns",17
+"2008-10","Cansei De Ser Sexy",10
+"2008-10","Chairlift",16
+"2008-10","Chromatics",6
+"2008-10","Coconut Records",8
+"2008-10","Fleetwood Mac",25
+"2008-10","Iron On",60
+"2008-10","Kate Nash",5
+"2008-10","Mates Of State",13
+"2008-10","Mirah",3
+"2008-10","Missy Higgins",1
+"2008-10","Mixel Pixel",39
+"2008-10","Placebo",4
+"2008-10","Tegan And Sara",46
+"2008-10","The Grates",13
+"2008-10","Yeah Yeah Yeahs",3
+"2008-11","Acute",1
+"2008-11","Alkaline Trio",10
+"2008-11","Aqueduct",22
+"2008-11","Architecture In Helsinki",1
+"2008-11","Arrah And The Ferns",5
+"2008-11","Cansei De Ser Sexy",1
+"2008-11","Chairlift",5
+"2008-11","Chromatics",2
+"2008-11","Coconut Records",17
+"2008-11","Fleetwood Mac",15
+"2008-11","Iron On",5
+"2008-11","Kate Nash",1
+"2008-11","Mates Of State",35
+"2008-11","Mirah",3
+"2008-11","Missy Higgins",3
+"2008-11","Mixel Pixel",6
+"2008-11","Placebo",4
+"2008-11","Tegan And Sara",24
+"2008-11","The Grates",5
+"2008-11","Yeah Yeah Yeahs",3
+"2008-12","Acute",0
+"2008-12","Alkaline Trio",28
+"2008-12","Aqueduct",1
+"2008-12","Architecture In Helsinki",0
+"2008-12","Arrah And The Ferns",0
+"2008-12","Cansei De Ser Sexy",1
+"2008-12","Chairlift",1
+"2008-12","Chromatics",1
+"2008-12","Coconut Records",1
+"2008-12","Fleetwood Mac",1
+"2008-12","Iron On",1
+"2008-12","Kate Nash",1
+"2008-12","Mates Of State",1
+"2008-12","Mirah",1
+"2008-12","Missy Higgins",1
+"2008-12","Mixel Pixel",1
+"2008-12","Placebo",2
+"2008-12","Tegan And Sara",1
+"2008-12","The Grates",2
+"2008-12","Yeah Yeah Yeahs",1

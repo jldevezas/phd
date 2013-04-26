@@ -1,841 +1,841 @@
-month,artist,plays
-2005-12,All Natural,79
-2005-12,Beanie Sigel,3
-2005-12,Brand Nubian,27
-2005-12,Consequence,0
-2005-12,De-Phazz,0
-2005-12,En Hyllest Til Joachim Nielsen,34
-2005-12,Everclear,0
-2005-12,Freestyle,7
-2005-12,Gang Starr,7
-2005-12,Ghostface Killah,1
-2005-12,Guru,0
-2005-12,J-Live,23
-2005-12,Jay-Z,7
-2005-12,Jokke & Valentinerne,125
-2005-12,Kanye West,11
-2005-12,Petter,1
-2005-12,Pigeon John,16
-2005-12,Richie Spice,1
-2005-12,Rjd2,24
-2005-12,Shabazz The Disciple,47
-2006-01,All Natural,65
-2006-01,Beanie Sigel,6
-2006-01,Brand Nubian,26
-2006-01,Consequence,97
-2006-01,De-Phazz,0
-2006-01,En Hyllest Til Joachim Nielsen,32
-2006-01,Everclear,4
-2006-01,Freestyle,8
-2006-01,Gang Starr,43
-2006-01,Ghostface Killah,7
-2006-01,Guru,1
-2006-01,J-Live,23
-2006-01,Jay-Z,10
-2006-01,Jokke & Valentinerne,166
-2006-01,Kanye West,6
-2006-01,Petter,2
-2006-01,Pigeon John,18
-2006-01,Richie Spice,24
-2006-01,Rjd2,44
-2006-01,Shabazz The Disciple,109
-2006-02,All Natural,26
-2006-02,Beanie Sigel,5
-2006-02,Brand Nubian,3
-2006-02,Consequence,10
-2006-02,De-Phazz,20
-2006-02,En Hyllest Til Joachim Nielsen,9
-2006-02,Everclear,2
-2006-02,Freestyle,5
-2006-02,Gang Starr,25
-2006-02,Ghostface Killah,1
-2006-02,Guru,1
-2006-02,J-Live,3
-2006-02,Jay-Z,2
-2006-02,Jokke & Valentinerne,52
-2006-02,Kanye West,9
-2006-02,Petter,4
-2006-02,Pigeon John,5
-2006-02,Richie Spice,9
-2006-02,Rjd2,14
-2006-02,Shabazz The Disciple,59
-2006-03,All Natural,15
-2006-03,Beanie Sigel,3
-2006-03,Brand Nubian,3
-2006-03,Consequence,4
-2006-03,De-Phazz,25
-2006-03,En Hyllest Til Joachim Nielsen,1
-2006-03,Everclear,0
-2006-03,Freestyle,1
-2006-03,Gang Starr,38
-2006-03,Ghostface Killah,58
-2006-03,Guru,0
-2006-03,J-Live,2
-2006-03,Jay-Z,0
-2006-03,Jokke & Valentinerne,17
-2006-03,Kanye West,2
-2006-03,Petter,0
-2006-03,Pigeon John,4
-2006-03,Richie Spice,9
-2006-03,Rjd2,5
-2006-03,Shabazz The Disciple,16
-2006-04,All Natural,19
-2006-04,Beanie Sigel,5
-2006-04,Brand Nubian,6
-2006-04,Consequence,16
-2006-04,De-Phazz,3
-2006-04,En Hyllest Til Joachim Nielsen,3
-2006-04,Everclear,8
-2006-04,Freestyle,1
-2006-04,Gang Starr,23
-2006-04,Ghostface Killah,8
-2006-04,Guru,5
-2006-04,J-Live,6
-2006-04,Jay-Z,2
-2006-04,Jokke & Valentinerne,18
-2006-04,Kanye West,15
-2006-04,Petter,7
-2006-04,Pigeon John,3
-2006-04,Richie Spice,8
-2006-04,Rjd2,2
-2006-04,Shabazz The Disciple,20
-2006-05,All Natural,22
-2006-05,Beanie Sigel,12
-2006-05,Brand Nubian,4
-2006-05,Consequence,16
-2006-05,De-Phazz,207
-2006-05,En Hyllest Til Joachim Nielsen,9
-2006-05,Everclear,2
-2006-05,Freestyle,5
-2006-05,Gang Starr,59
-2006-05,Ghostface Killah,10
-2006-05,Guru,74
-2006-05,J-Live,9
-2006-05,Jay-Z,10
-2006-05,Jokke & Valentinerne,60
-2006-05,Kanye West,1
-2006-05,Petter,1
-2006-05,Pigeon John,8
-2006-05,Richie Spice,4
-2006-05,Rjd2,19
-2006-05,Shabazz The Disciple,32
-2006-06,All Natural,16
-2006-06,Beanie Sigel,12
-2006-06,Brand Nubian,4
-2006-06,Consequence,14
-2006-06,De-Phazz,8
-2006-06,En Hyllest Til Joachim Nielsen,8
-2006-06,Everclear,4
-2006-06,Freestyle,3
-2006-06,Gang Starr,16
-2006-06,Ghostface Killah,8
-2006-06,Guru,15
-2006-06,J-Live,6
-2006-06,Jay-Z,8
-2006-06,Jokke & Valentinerne,46
-2006-06,Kanye West,6
-2006-06,Petter,1
-2006-06,Pigeon John,7
-2006-06,Richie Spice,11
-2006-06,Rjd2,12
-2006-06,Shabazz The Disciple,25
-2006-07,All Natural,28
-2006-07,Beanie Sigel,16
-2006-07,Brand Nubian,7
-2006-07,Consequence,31
-2006-07,De-Phazz,16
-2006-07,En Hyllest Til Joachim Nielsen,13
-2006-07,Everclear,5
-2006-07,Freestyle,2
-2006-07,Gang Starr,30
-2006-07,Ghostface Killah,24
-2006-07,Guru,38
-2006-07,J-Live,7
-2006-07,Jay-Z,41
-2006-07,Jokke & Valentinerne,87
-2006-07,Kanye West,8
-2006-07,Petter,6
-2006-07,Pigeon John,12
-2006-07,Richie Spice,15
-2006-07,Rjd2,15
-2006-07,Shabazz The Disciple,64
-2006-08,All Natural,32
-2006-08,Beanie Sigel,14
-2006-08,Brand Nubian,4
-2006-08,Consequence,15
-2006-08,De-Phazz,15
-2006-08,En Hyllest Til Joachim Nielsen,13
-2006-08,Everclear,3
-2006-08,Freestyle,3
-2006-08,Gang Starr,32
-2006-08,Ghostface Killah,22
-2006-08,Guru,27
-2006-08,J-Live,5
-2006-08,Jay-Z,41
-2006-08,Jokke & Valentinerne,84
-2006-08,Kanye West,9
-2006-08,Petter,9
-2006-08,Pigeon John,6
-2006-08,Richie Spice,14
-2006-08,Rjd2,15
-2006-08,Shabazz The Disciple,31
-2006-09,All Natural,31
-2006-09,Beanie Sigel,8
-2006-09,Brand Nubian,6
-2006-09,Consequence,16
-2006-09,De-Phazz,14
-2006-09,En Hyllest Til Joachim Nielsen,13
-2006-09,Everclear,4
-2006-09,Freestyle,1
-2006-09,Gang Starr,22
-2006-09,Ghostface Killah,22
-2006-09,Guru,22
-2006-09,J-Live,9
-2006-09,Jay-Z,15
-2006-09,Jokke & Valentinerne,58
-2006-09,Kanye West,6
-2006-09,Petter,4
-2006-09,Pigeon John,9
-2006-09,Richie Spice,10
-2006-09,Rjd2,17
-2006-09,Shabazz The Disciple,26
-2006-10,All Natural,41
-2006-10,Beanie Sigel,12
-2006-10,Brand Nubian,6
-2006-10,Consequence,17
-2006-10,De-Phazz,667
-2006-10,En Hyllest Til Joachim Nielsen,20
-2006-10,Everclear,5
-2006-10,Freestyle,1
-2006-10,Gang Starr,56
-2006-10,Ghostface Killah,23
-2006-10,Guru,37
-2006-10,J-Live,8
-2006-10,Jay-Z,24
-2006-10,Jokke & Valentinerne,80
-2006-10,Kanye West,4
-2006-10,Petter,6
-2006-10,Pigeon John,8
-2006-10,Richie Spice,18
-2006-10,Rjd2,26
-2006-10,Shabazz The Disciple,50
-2006-11,All Natural,12
-2006-11,Beanie Sigel,10
-2006-11,Brand Nubian,3
-2006-11,Consequence,9
-2006-11,De-Phazz,211
-2006-11,En Hyllest Til Joachim Nielsen,10
-2006-11,Everclear,2
-2006-11,Freestyle,3
-2006-11,Gang Starr,18
-2006-11,Ghostface Killah,42
-2006-11,Guru,13
-2006-11,J-Live,9
-2006-11,Jay-Z,20
-2006-11,Jokke & Valentinerne,30
-2006-11,Kanye West,3
-2006-11,Petter,1
-2006-11,Pigeon John,4
-2006-11,Richie Spice,5
-2006-11,Rjd2,12
-2006-11,Shabazz The Disciple,10
-2006-12,All Natural,11
-2006-12,Beanie Sigel,1
-2006-12,Brand Nubian,3
-2006-12,Consequence,8
-2006-12,De-Phazz,15
-2006-12,En Hyllest Til Joachim Nielsen,3
-2006-12,Everclear,3
-2006-12,Freestyle,38
-2006-12,Gang Starr,11
-2006-12,Ghostface Killah,2
-2006-12,Guru,12
-2006-12,J-Live,4
-2006-12,Jay-Z,8
-2006-12,Jokke & Valentinerne,38
-2006-12,Kanye West,3
-2006-12,Petter,1
-2006-12,Pigeon John,13
-2006-12,Richie Spice,5
-2006-12,Rjd2,9
-2006-12,Shabazz The Disciple,22
-2007-01,All Natural,20
-2007-01,Beanie Sigel,10
-2007-01,Brand Nubian,7
-2007-01,Consequence,19
-2007-01,De-Phazz,36
-2007-01,En Hyllest Til Joachim Nielsen,30
-2007-01,Everclear,3
-2007-01,Freestyle,23
-2007-01,Gang Starr,21
-2007-01,Ghostface Killah,16
-2007-01,Guru,30
-2007-01,J-Live,14
-2007-01,Jay-Z,15
-2007-01,Jokke & Valentinerne,77
-2007-01,Kanye West,0
-2007-01,Petter,1
-2007-01,Pigeon John,28
-2007-01,Richie Spice,15
-2007-01,Rjd2,16
-2007-01,Shabazz The Disciple,36
-2007-02,All Natural,29
-2007-02,Beanie Sigel,7
-2007-02,Brand Nubian,10
-2007-02,Consequence,30
-2007-02,De-Phazz,24
-2007-02,En Hyllest Til Joachim Nielsen,42
-2007-02,Everclear,3
-2007-02,Freestyle,11
-2007-02,Gang Starr,32
-2007-02,Ghostface Killah,19
-2007-02,Guru,383
-2007-02,J-Live,14
-2007-02,Jay-Z,37
-2007-02,Jokke & Valentinerne,81
-2007-02,Kanye West,10
-2007-02,Petter,2
-2007-02,Pigeon John,21
-2007-02,Richie Spice,14
-2007-02,Rjd2,29
-2007-02,Shabazz The Disciple,50
-2007-03,All Natural,16
-2007-03,Beanie Sigel,6
-2007-03,Brand Nubian,4
-2007-03,Consequence,26
-2007-03,De-Phazz,18
-2007-03,En Hyllest Til Joachim Nielsen,20
-2007-03,Everclear,1
-2007-03,Freestyle,11
-2007-03,Gang Starr,14
-2007-03,Ghostface Killah,10
-2007-03,Guru,21
-2007-03,J-Live,7
-2007-03,Jay-Z,21
-2007-03,Jokke & Valentinerne,40
-2007-03,Kanye West,2
-2007-03,Petter,0
-2007-03,Pigeon John,7
-2007-03,Richie Spice,12
-2007-03,Rjd2,14
-2007-03,Shabazz The Disciple,26
-2007-04,All Natural,24
-2007-04,Beanie Sigel,12
-2007-04,Brand Nubian,6
-2007-04,Consequence,25
-2007-04,De-Phazz,18
-2007-04,En Hyllest Til Joachim Nielsen,10
-2007-04,Everclear,3
-2007-04,Freestyle,6
-2007-04,Gang Starr,23
-2007-04,Ghostface Killah,19
-2007-04,Guru,20
-2007-04,J-Live,6
-2007-04,Jay-Z,17
-2007-04,Jokke & Valentinerne,58
-2007-04,Kanye West,4
-2007-04,Petter,1
-2007-04,Pigeon John,14
-2007-04,Richie Spice,5
-2007-04,Rjd2,15
-2007-04,Shabazz The Disciple,23
-2007-05,All Natural,33
-2007-05,Beanie Sigel,20
-2007-05,Brand Nubian,9
-2007-05,Consequence,53
-2007-05,De-Phazz,25
-2007-05,En Hyllest Til Joachim Nielsen,27
-2007-05,Everclear,5
-2007-05,Freestyle,15
-2007-05,Gang Starr,32
-2007-05,Ghostface Killah,15
-2007-05,Guru,49
-2007-05,J-Live,10
-2007-05,Jay-Z,31
-2007-05,Jokke & Valentinerne,81
-2007-05,Kanye West,33
-2007-05,Petter,16
-2007-05,Pigeon John,11
-2007-05,Richie Spice,16
-2007-05,Rjd2,13
-2007-05,Shabazz The Disciple,31
-2007-06,All Natural,27
-2007-06,Beanie Sigel,13
-2007-06,Brand Nubian,6
-2007-06,Consequence,37
-2007-06,De-Phazz,18
-2007-06,En Hyllest Til Joachim Nielsen,32
-2007-06,Everclear,3
-2007-06,Freestyle,14
-2007-06,Gang Starr,86
-2007-06,Ghostface Killah,15
-2007-06,Guru,19
-2007-06,J-Live,6
-2007-06,Jay-Z,24
-2007-06,Jokke & Valentinerne,76
-2007-06,Kanye West,17
-2007-06,Petter,23
-2007-06,Pigeon John,13
-2007-06,Richie Spice,19
-2007-06,Rjd2,21
-2007-06,Shabazz The Disciple,39
-2007-07,All Natural,12
-2007-07,Beanie Sigel,4
-2007-07,Brand Nubian,2
-2007-07,Consequence,12
-2007-07,De-Phazz,10
-2007-07,En Hyllest Til Joachim Nielsen,10
-2007-07,Everclear,1
-2007-07,Freestyle,15
-2007-07,Gang Starr,10
-2007-07,Ghostface Killah,9
-2007-07,Guru,14
-2007-07,J-Live,4
-2007-07,Jay-Z,32
-2007-07,Jokke & Valentinerne,74
-2007-07,Kanye West,59
-2007-07,Petter,20
-2007-07,Pigeon John,11
-2007-07,Richie Spice,4
-2007-07,Rjd2,5
-2007-07,Shabazz The Disciple,43
-2007-08,All Natural,9
-2007-08,Beanie Sigel,4
-2007-08,Brand Nubian,22
-2007-08,Consequence,8
-2007-08,De-Phazz,28
-2007-08,En Hyllest Til Joachim Nielsen,10
-2007-08,Everclear,4
-2007-08,Freestyle,3
-2007-08,Gang Starr,16
-2007-08,Ghostface Killah,7
-2007-08,Guru,18
-2007-08,J-Live,3
-2007-08,Jay-Z,19
-2007-08,Jokke & Valentinerne,34
-2007-08,Kanye West,119
-2007-08,Petter,7
-2007-08,Pigeon John,22
-2007-08,Richie Spice,2
-2007-08,Rjd2,10
-2007-08,Shabazz The Disciple,12
-2007-09,All Natural,5
-2007-09,Beanie Sigel,5
-2007-09,Brand Nubian,6
-2007-09,Consequence,10
-2007-09,De-Phazz,7
-2007-09,En Hyllest Til Joachim Nielsen,17
-2007-09,Everclear,4
-2007-09,Freestyle,3
-2007-09,Gang Starr,43
-2007-09,Ghostface Killah,5
-2007-09,Guru,15
-2007-09,J-Live,2
-2007-09,Jay-Z,23
-2007-09,Jokke & Valentinerne,16
-2007-09,Kanye West,117
-2007-09,Petter,12
-2007-09,Pigeon John,20
-2007-09,Richie Spice,0
-2007-09,Rjd2,4
-2007-09,Shabazz The Disciple,10
-2007-10,All Natural,2
-2007-10,Beanie Sigel,1
-2007-10,Brand Nubian,4
-2007-10,Consequence,7
-2007-10,De-Phazz,4
-2007-10,En Hyllest Til Joachim Nielsen,4
-2007-10,Everclear,2
-2007-10,Freestyle,0
-2007-10,Gang Starr,5
-2007-10,Ghostface Killah,9
-2007-10,Guru,2
-2007-10,J-Live,17
-2007-10,Jay-Z,8
-2007-10,Jokke & Valentinerne,9
-2007-10,Kanye West,37
-2007-10,Petter,25
-2007-10,Pigeon John,2
-2007-10,Richie Spice,4
-2007-10,Rjd2,6
-2007-10,Shabazz The Disciple,7
-2007-11,All Natural,1
-2007-11,Beanie Sigel,6
-2007-11,Brand Nubian,1
-2007-11,Consequence,22
-2007-11,De-Phazz,2
-2007-11,En Hyllest Til Joachim Nielsen,3
-2007-11,Everclear,1
-2007-11,Freestyle,5
-2007-11,Gang Starr,0
-2007-11,Ghostface Killah,1
-2007-11,Guru,3
-2007-11,J-Live,0
-2007-11,Jay-Z,4
-2007-11,Jokke & Valentinerne,6
-2007-11,Kanye West,8
-2007-11,Petter,3
-2007-11,Pigeon John,1
-2007-11,Richie Spice,0
-2007-11,Rjd2,2
-2007-11,Shabazz The Disciple,11
-2007-12,All Natural,2
-2007-12,Beanie Sigel,2
-2007-12,Brand Nubian,1
-2007-12,Consequence,8
-2007-12,De-Phazz,5
-2007-12,En Hyllest Til Joachim Nielsen,3
-2007-12,Everclear,1
-2007-12,Freestyle,4
-2007-12,Gang Starr,37
-2007-12,Ghostface Killah,2
-2007-12,Guru,5
-2007-12,J-Live,2
-2007-12,Jay-Z,4
-2007-12,Jokke & Valentinerne,7
-2007-12,Kanye West,9
-2007-12,Petter,3
-2007-12,Pigeon John,5
-2007-12,Richie Spice,2
-2007-12,Rjd2,1
-2007-12,Shabazz The Disciple,12
-2008-01,All Natural,5
-2008-01,Beanie Sigel,3
-2008-01,Brand Nubian,3
-2008-01,Consequence,6
-2008-01,De-Phazz,2
-2008-01,En Hyllest Til Joachim Nielsen,1
-2008-01,Everclear,2
-2008-01,Freestyle,1
-2008-01,Gang Starr,4
-2008-01,Ghostface Killah,5
-2008-01,Guru,6
-2008-01,J-Live,14
-2008-01,Jay-Z,4
-2008-01,Jokke & Valentinerne,2
-2008-01,Kanye West,9
-2008-01,Petter,3
-2008-01,Pigeon John,4
-2008-01,Richie Spice,2
-2008-01,Rjd2,4
-2008-01,Shabazz The Disciple,9
-2008-02,All Natural,4
-2008-02,Beanie Sigel,1
-2008-02,Brand Nubian,4
-2008-02,Consequence,11
-2008-02,De-Phazz,8
-2008-02,En Hyllest Til Joachim Nielsen,3
-2008-02,Everclear,3
-2008-02,Freestyle,1
-2008-02,Gang Starr,12
-2008-02,Ghostface Killah,5
-2008-02,Guru,6
-2008-02,J-Live,8
-2008-02,Jay-Z,38
-2008-02,Jokke & Valentinerne,14
-2008-02,Kanye West,41
-2008-02,Petter,6
-2008-02,Pigeon John,4
-2008-02,Richie Spice,3
-2008-02,Rjd2,8
-2008-02,Shabazz The Disciple,14
-2008-03,All Natural,6
-2008-03,Beanie Sigel,1
-2008-03,Brand Nubian,1
-2008-03,Consequence,11
-2008-03,De-Phazz,5
-2008-03,En Hyllest Til Joachim Nielsen,5
-2008-03,Everclear,4
-2008-03,Freestyle,2
-2008-03,Gang Starr,13
-2008-03,Ghostface Killah,5
-2008-03,Guru,4
-2008-03,J-Live,6
-2008-03,Jay-Z,4
-2008-03,Jokke & Valentinerne,9
-2008-03,Kanye West,10
-2008-03,Petter,5
-2008-03,Pigeon John,2
-2008-03,Richie Spice,4
-2008-03,Rjd2,2
-2008-03,Shabazz The Disciple,24
-2008-04,All Natural,2
-2008-04,Beanie Sigel,0
-2008-04,Brand Nubian,0
-2008-04,Consequence,2
-2008-04,De-Phazz,2
-2008-04,En Hyllest Til Joachim Nielsen,1
-2008-04,Everclear,1
-2008-04,Freestyle,0
-2008-04,Gang Starr,5
-2008-04,Ghostface Killah,2
-2008-04,Guru,1
-2008-04,J-Live,0
-2008-04,Jay-Z,1
-2008-04,Jokke & Valentinerne,11
-2008-04,Kanye West,2
-2008-04,Petter,1
-2008-04,Pigeon John,2
-2008-04,Richie Spice,1
-2008-04,Rjd2,0
-2008-04,Shabazz The Disciple,14
-2008-05,All Natural,1
-2008-05,Beanie Sigel,0
-2008-05,Brand Nubian,0
-2008-05,Consequence,0
-2008-05,De-Phazz,0
-2008-05,En Hyllest Til Joachim Nielsen,1
-2008-05,Everclear,0
-2008-05,Freestyle,0
-2008-05,Gang Starr,2
-2008-05,Ghostface Killah,0
-2008-05,Guru,0
-2008-05,J-Live,0
-2008-05,Jay-Z,0
-2008-05,Jokke & Valentinerne,3
-2008-05,Kanye West,2
-2008-05,Petter,0
-2008-05,Pigeon John,0
-2008-05,Richie Spice,0
-2008-05,Rjd2,0
-2008-05,Shabazz The Disciple,0
-2008-06,All Natural,1
-2008-06,Beanie Sigel,3
-2008-06,Brand Nubian,2
-2008-06,Consequence,7
-2008-06,De-Phazz,5
-2008-06,En Hyllest Til Joachim Nielsen,4
-2008-06,Everclear,1
-2008-06,Freestyle,2
-2008-06,Gang Starr,8
-2008-06,Ghostface Killah,5
-2008-06,Guru,5
-2008-06,J-Live,7
-2008-06,Jay-Z,104
-2008-06,Jokke & Valentinerne,7
-2008-06,Kanye West,10
-2008-06,Petter,4
-2008-06,Pigeon John,2
-2008-06,Richie Spice,3
-2008-06,Rjd2,1
-2008-06,Shabazz The Disciple,6
-2008-07,All Natural,1
-2008-07,Beanie Sigel,2
-2008-07,Brand Nubian,1
-2008-07,Consequence,2
-2008-07,De-Phazz,2
-2008-07,En Hyllest Til Joachim Nielsen,2
-2008-07,Everclear,5
-2008-07,Freestyle,1
-2008-07,Gang Starr,1
-2008-07,Ghostface Killah,0
-2008-07,Guru,3
-2008-07,J-Live,1
-2008-07,Jay-Z,6
-2008-07,Jokke & Valentinerne,5
-2008-07,Kanye West,1
-2008-07,Petter,5
-2008-07,Pigeon John,0
-2008-07,Richie Spice,31
-2008-07,Rjd2,1
-2008-07,Shabazz The Disciple,6
-2008-08,All Natural,4
-2008-08,Beanie Sigel,2
-2008-08,Brand Nubian,3
-2008-08,Consequence,5
-2008-08,De-Phazz,51
-2008-08,En Hyllest Til Joachim Nielsen,2
-2008-08,Everclear,2
-2008-08,Freestyle,39
-2008-08,Gang Starr,15
-2008-08,Ghostface Killah,3
-2008-08,Guru,5
-2008-08,J-Live,5
-2008-08,Jay-Z,16
-2008-08,Jokke & Valentinerne,33
-2008-08,Kanye West,7
-2008-08,Petter,12
-2008-08,Pigeon John,4
-2008-08,Richie Spice,2
-2008-08,Rjd2,4
-2008-08,Shabazz The Disciple,7
-2008-09,All Natural,4
-2008-09,Beanie Sigel,4
-2008-09,Brand Nubian,4
-2008-09,Consequence,10
-2008-09,De-Phazz,62
-2008-09,En Hyllest Til Joachim Nielsen,3
-2008-09,Everclear,26
-2008-09,Freestyle,5
-2008-09,Gang Starr,14
-2008-09,Ghostface Killah,6
-2008-09,Guru,6
-2008-09,J-Live,5
-2008-09,Jay-Z,14
-2008-09,Jokke & Valentinerne,9
-2008-09,Kanye West,12
-2008-09,Petter,4
-2008-09,Pigeon John,4
-2008-09,Richie Spice,5
-2008-09,Rjd2,1
-2008-09,Shabazz The Disciple,24
-2008-10,All Natural,1
-2008-10,Beanie Sigel,3
-2008-10,Brand Nubian,1
-2008-10,Consequence,3
-2008-10,De-Phazz,4
-2008-10,En Hyllest Til Joachim Nielsen,7
-2008-10,Everclear,4
-2008-10,Freestyle,4
-2008-10,Gang Starr,10
-2008-10,Ghostface Killah,6
-2008-10,Guru,3
-2008-10,J-Live,4
-2008-10,Jay-Z,9
-2008-10,Jokke & Valentinerne,9
-2008-10,Kanye West,36
-2008-10,Petter,5
-2008-10,Pigeon John,2
-2008-10,Richie Spice,6
-2008-10,Rjd2,5
-2008-10,Shabazz The Disciple,5
-2008-11,All Natural,11
-2008-11,Beanie Sigel,4
-2008-11,Brand Nubian,1
-2008-11,Consequence,1
-2008-11,De-Phazz,5
-2008-11,En Hyllest Til Joachim Nielsen,2
-2008-11,Everclear,6
-2008-11,Freestyle,5
-2008-11,Gang Starr,5
-2008-11,Ghostface Killah,6
-2008-11,Guru,7
-2008-11,J-Live,7
-2008-11,Jay-Z,39
-2008-11,Jokke & Valentinerne,16
-2008-11,Kanye West,44
-2008-11,Petter,8
-2008-11,Pigeon John,3
-2008-11,Richie Spice,2
-2008-11,Rjd2,1
-2008-11,Shabazz The Disciple,12
-2008-12,All Natural,5
-2008-12,Beanie Sigel,3
-2008-12,Brand Nubian,2
-2008-12,Consequence,8
-2008-12,De-Phazz,8
-2008-12,En Hyllest Til Joachim Nielsen,7
-2008-12,Everclear,6
-2008-12,Freestyle,5
-2008-12,Gang Starr,11
-2008-12,Ghostface Killah,2
-2008-12,Guru,8
-2008-12,J-Live,4
-2008-12,Jay-Z,26
-2008-12,Jokke & Valentinerne,12
-2008-12,Kanye West,16
-2008-12,Petter,4
-2008-12,Pigeon John,6
-2008-12,Richie Spice,6
-2008-12,Rjd2,1
-2008-12,Shabazz The Disciple,13
-2009-01,All Natural,6
-2009-01,Beanie Sigel,1
-2009-01,Brand Nubian,1
-2009-01,Consequence,1
-2009-01,De-Phazz,4
-2009-01,En Hyllest Til Joachim Nielsen,0
-2009-01,Everclear,2
-2009-01,Freestyle,1
-2009-01,Gang Starr,5
-2009-01,Ghostface Killah,0
-2009-01,Guru,1
-2009-01,J-Live,1
-2009-01,Jay-Z,7
-2009-01,Jokke & Valentinerne,7
-2009-01,Kanye West,5
-2009-01,Petter,0
-2009-01,Pigeon John,2
-2009-01,Richie Spice,2
-2009-01,Rjd2,4
-2009-01,Shabazz The Disciple,2
-2009-02,All Natural,0
-2009-02,Beanie Sigel,1
-2009-02,Brand Nubian,2
-2009-02,Consequence,2
-2009-02,De-Phazz,0
-2009-02,En Hyllest Til Joachim Nielsen,0
-2009-02,Everclear,1
-2009-02,Freestyle,1
-2009-02,Gang Starr,1
-2009-02,Ghostface Killah,1
-2009-02,Guru,1
-2009-02,J-Live,1
-2009-02,Jay-Z,3
-2009-02,Jokke & Valentinerne,4
-2009-02,Kanye West,2
-2009-02,Petter,1
-2009-02,Pigeon John,3
-2009-02,Richie Spice,1
-2009-02,Rjd2,0
-2009-02,Shabazz The Disciple,3
-2009-03,All Natural,1
-2009-03,Beanie Sigel,0
-2009-03,Brand Nubian,0
-2009-03,Consequence,1
-2009-03,De-Phazz,1
-2009-03,En Hyllest Til Joachim Nielsen,1
-2009-03,Everclear,1
-2009-03,Freestyle,0
-2009-03,Gang Starr,13
-2009-03,Ghostface Killah,0
-2009-03,Guru,0
-2009-03,J-Live,1
-2009-03,Jay-Z,1
-2009-03,Jokke & Valentinerne,2
-2009-03,Kanye West,1
-2009-03,Petter,1
-2009-03,Pigeon John,0
-2009-03,Richie Spice,1
-2009-03,Rjd2,1
-2009-03,Shabazz The Disciple,0
-2009-04,All Natural,0
-2009-04,Beanie Sigel,2
-2009-04,Brand Nubian,1
-2009-04,Consequence,0
-2009-04,De-Phazz,1
-2009-04,En Hyllest Til Joachim Nielsen,0
-2009-04,Everclear,2
-2009-04,Freestyle,1
-2009-04,Gang Starr,1
-2009-04,Ghostface Killah,2
-2009-04,Guru,1
-2009-04,J-Live,0
-2009-04,Jay-Z,1
-2009-04,Jokke & Valentinerne,1
-2009-04,Kanye West,2
-2009-04,Petter,29
-2009-04,Pigeon John,0
-2009-04,Richie Spice,1
-2009-04,Rjd2,1
-2009-04,Shabazz The Disciple,2
-2009-05,All Natural,1
-2009-05,Beanie Sigel,0
-2009-05,Brand Nubian,0
-2009-05,Consequence,0
-2009-05,De-Phazz,0
-2009-05,En Hyllest Til Joachim Nielsen,0
-2009-05,Everclear,0
-2009-05,Freestyle,0
-2009-05,Gang Starr,1
-2009-05,Ghostface Killah,1
-2009-05,Guru,0
-2009-05,J-Live,1
-2009-05,Jay-Z,0
-2009-05,Jokke & Valentinerne,1
-2009-05,Kanye West,0
-2009-05,Petter,0
-2009-05,Pigeon John,0
-2009-05,Richie Spice,3
-2009-05,Rjd2,0
-2009-05,Shabazz The Disciple,0
+"month","artist","plays"
+"2005-12","All Natural",79
+"2005-12","Beanie Sigel",3
+"2005-12","Brand Nubian",27
+"2005-12","Consequence",0
+"2005-12","De-Phazz",0
+"2005-12","En Hyllest Til Joachim Nielsen",34
+"2005-12","Everclear",0
+"2005-12","Freestyle",7
+"2005-12","Gang Starr",7
+"2005-12","Ghostface Killah",1
+"2005-12","Guru",0
+"2005-12","J-Live",23
+"2005-12","Jay-Z",7
+"2005-12","Jokke & Valentinerne",125
+"2005-12","Kanye West",11
+"2005-12","Petter",1
+"2005-12","Pigeon John",16
+"2005-12","Richie Spice",1
+"2005-12","Rjd2",24
+"2005-12","Shabazz The Disciple",47
+"2006-01","All Natural",65
+"2006-01","Beanie Sigel",6
+"2006-01","Brand Nubian",26
+"2006-01","Consequence",97
+"2006-01","De-Phazz",0
+"2006-01","En Hyllest Til Joachim Nielsen",32
+"2006-01","Everclear",4
+"2006-01","Freestyle",8
+"2006-01","Gang Starr",43
+"2006-01","Ghostface Killah",7
+"2006-01","Guru",1
+"2006-01","J-Live",23
+"2006-01","Jay-Z",10
+"2006-01","Jokke & Valentinerne",166
+"2006-01","Kanye West",6
+"2006-01","Petter",2
+"2006-01","Pigeon John",18
+"2006-01","Richie Spice",24
+"2006-01","Rjd2",44
+"2006-01","Shabazz The Disciple",109
+"2006-02","All Natural",26
+"2006-02","Beanie Sigel",5
+"2006-02","Brand Nubian",3
+"2006-02","Consequence",10
+"2006-02","De-Phazz",20
+"2006-02","En Hyllest Til Joachim Nielsen",9
+"2006-02","Everclear",2
+"2006-02","Freestyle",5
+"2006-02","Gang Starr",25
+"2006-02","Ghostface Killah",1
+"2006-02","Guru",1
+"2006-02","J-Live",3
+"2006-02","Jay-Z",2
+"2006-02","Jokke & Valentinerne",52
+"2006-02","Kanye West",9
+"2006-02","Petter",4
+"2006-02","Pigeon John",5
+"2006-02","Richie Spice",9
+"2006-02","Rjd2",14
+"2006-02","Shabazz The Disciple",59
+"2006-03","All Natural",15
+"2006-03","Beanie Sigel",3
+"2006-03","Brand Nubian",3
+"2006-03","Consequence",4
+"2006-03","De-Phazz",25
+"2006-03","En Hyllest Til Joachim Nielsen",1
+"2006-03","Everclear",0
+"2006-03","Freestyle",1
+"2006-03","Gang Starr",38
+"2006-03","Ghostface Killah",58
+"2006-03","Guru",0
+"2006-03","J-Live",2
+"2006-03","Jay-Z",0
+"2006-03","Jokke & Valentinerne",17
+"2006-03","Kanye West",2
+"2006-03","Petter",0
+"2006-03","Pigeon John",4
+"2006-03","Richie Spice",9
+"2006-03","Rjd2",5
+"2006-03","Shabazz The Disciple",16
+"2006-04","All Natural",19
+"2006-04","Beanie Sigel",5
+"2006-04","Brand Nubian",6
+"2006-04","Consequence",16
+"2006-04","De-Phazz",3
+"2006-04","En Hyllest Til Joachim Nielsen",3
+"2006-04","Everclear",8
+"2006-04","Freestyle",1
+"2006-04","Gang Starr",23
+"2006-04","Ghostface Killah",8
+"2006-04","Guru",5
+"2006-04","J-Live",6
+"2006-04","Jay-Z",2
+"2006-04","Jokke & Valentinerne",18
+"2006-04","Kanye West",15
+"2006-04","Petter",7
+"2006-04","Pigeon John",3
+"2006-04","Richie Spice",8
+"2006-04","Rjd2",2
+"2006-04","Shabazz The Disciple",20
+"2006-05","All Natural",22
+"2006-05","Beanie Sigel",12
+"2006-05","Brand Nubian",4
+"2006-05","Consequence",16
+"2006-05","De-Phazz",207
+"2006-05","En Hyllest Til Joachim Nielsen",9
+"2006-05","Everclear",2
+"2006-05","Freestyle",5
+"2006-05","Gang Starr",59
+"2006-05","Ghostface Killah",10
+"2006-05","Guru",74
+"2006-05","J-Live",9
+"2006-05","Jay-Z",10
+"2006-05","Jokke & Valentinerne",60
+"2006-05","Kanye West",1
+"2006-05","Petter",1
+"2006-05","Pigeon John",8
+"2006-05","Richie Spice",4
+"2006-05","Rjd2",19
+"2006-05","Shabazz The Disciple",32
+"2006-06","All Natural",16
+"2006-06","Beanie Sigel",12
+"2006-06","Brand Nubian",4
+"2006-06","Consequence",14
+"2006-06","De-Phazz",8
+"2006-06","En Hyllest Til Joachim Nielsen",8
+"2006-06","Everclear",4
+"2006-06","Freestyle",3
+"2006-06","Gang Starr",16
+"2006-06","Ghostface Killah",8
+"2006-06","Guru",15
+"2006-06","J-Live",6
+"2006-06","Jay-Z",8
+"2006-06","Jokke & Valentinerne",46
+"2006-06","Kanye West",6
+"2006-06","Petter",1
+"2006-06","Pigeon John",7
+"2006-06","Richie Spice",11
+"2006-06","Rjd2",12
+"2006-06","Shabazz The Disciple",25
+"2006-07","All Natural",28
+"2006-07","Beanie Sigel",16
+"2006-07","Brand Nubian",7
+"2006-07","Consequence",31
+"2006-07","De-Phazz",16
+"2006-07","En Hyllest Til Joachim Nielsen",13
+"2006-07","Everclear",5
+"2006-07","Freestyle",2
+"2006-07","Gang Starr",30
+"2006-07","Ghostface Killah",24
+"2006-07","Guru",38
+"2006-07","J-Live",7
+"2006-07","Jay-Z",41
+"2006-07","Jokke & Valentinerne",87
+"2006-07","Kanye West",8
+"2006-07","Petter",6
+"2006-07","Pigeon John",12
+"2006-07","Richie Spice",15
+"2006-07","Rjd2",15
+"2006-07","Shabazz The Disciple",64
+"2006-08","All Natural",32
+"2006-08","Beanie Sigel",14
+"2006-08","Brand Nubian",4
+"2006-08","Consequence",15
+"2006-08","De-Phazz",15
+"2006-08","En Hyllest Til Joachim Nielsen",13
+"2006-08","Everclear",3
+"2006-08","Freestyle",3
+"2006-08","Gang Starr",32
+"2006-08","Ghostface Killah",22
+"2006-08","Guru",27
+"2006-08","J-Live",5
+"2006-08","Jay-Z",41
+"2006-08","Jokke & Valentinerne",84
+"2006-08","Kanye West",9
+"2006-08","Petter",9
+"2006-08","Pigeon John",6
+"2006-08","Richie Spice",14
+"2006-08","Rjd2",15
+"2006-08","Shabazz The Disciple",31
+"2006-09","All Natural",31
+"2006-09","Beanie Sigel",8
+"2006-09","Brand Nubian",6
+"2006-09","Consequence",16
+"2006-09","De-Phazz",14
+"2006-09","En Hyllest Til Joachim Nielsen",13
+"2006-09","Everclear",4
+"2006-09","Freestyle",1
+"2006-09","Gang Starr",22
+"2006-09","Ghostface Killah",22
+"2006-09","Guru",22
+"2006-09","J-Live",9
+"2006-09","Jay-Z",15
+"2006-09","Jokke & Valentinerne",58
+"2006-09","Kanye West",6
+"2006-09","Petter",4
+"2006-09","Pigeon John",9
+"2006-09","Richie Spice",10
+"2006-09","Rjd2",17
+"2006-09","Shabazz The Disciple",26
+"2006-10","All Natural",41
+"2006-10","Beanie Sigel",12
+"2006-10","Brand Nubian",6
+"2006-10","Consequence",17
+"2006-10","De-Phazz",667
+"2006-10","En Hyllest Til Joachim Nielsen",20
+"2006-10","Everclear",5
+"2006-10","Freestyle",1
+"2006-10","Gang Starr",56
+"2006-10","Ghostface Killah",23
+"2006-10","Guru",37
+"2006-10","J-Live",8
+"2006-10","Jay-Z",24
+"2006-10","Jokke & Valentinerne",80
+"2006-10","Kanye West",4
+"2006-10","Petter",6
+"2006-10","Pigeon John",8
+"2006-10","Richie Spice",18
+"2006-10","Rjd2",26
+"2006-10","Shabazz The Disciple",50
+"2006-11","All Natural",12
+"2006-11","Beanie Sigel",10
+"2006-11","Brand Nubian",3
+"2006-11","Consequence",9
+"2006-11","De-Phazz",211
+"2006-11","En Hyllest Til Joachim Nielsen",10
+"2006-11","Everclear",2
+"2006-11","Freestyle",3
+"2006-11","Gang Starr",18
+"2006-11","Ghostface Killah",42
+"2006-11","Guru",13
+"2006-11","J-Live",9
+"2006-11","Jay-Z",20
+"2006-11","Jokke & Valentinerne",30
+"2006-11","Kanye West",3
+"2006-11","Petter",1
+"2006-11","Pigeon John",4
+"2006-11","Richie Spice",5
+"2006-11","Rjd2",12
+"2006-11","Shabazz The Disciple",10
+"2006-12","All Natural",11
+"2006-12","Beanie Sigel",1
+"2006-12","Brand Nubian",3
+"2006-12","Consequence",8
+"2006-12","De-Phazz",15
+"2006-12","En Hyllest Til Joachim Nielsen",3
+"2006-12","Everclear",3
+"2006-12","Freestyle",38
+"2006-12","Gang Starr",11
+"2006-12","Ghostface Killah",2
+"2006-12","Guru",12
+"2006-12","J-Live",4
+"2006-12","Jay-Z",8
+"2006-12","Jokke & Valentinerne",38
+"2006-12","Kanye West",3
+"2006-12","Petter",1
+"2006-12","Pigeon John",13
+"2006-12","Richie Spice",5
+"2006-12","Rjd2",9
+"2006-12","Shabazz The Disciple",22
+"2007-01","All Natural",20
+"2007-01","Beanie Sigel",10
+"2007-01","Brand Nubian",7
+"2007-01","Consequence",19
+"2007-01","De-Phazz",36
+"2007-01","En Hyllest Til Joachim Nielsen",30
+"2007-01","Everclear",3
+"2007-01","Freestyle",23
+"2007-01","Gang Starr",21
+"2007-01","Ghostface Killah",16
+"2007-01","Guru",30
+"2007-01","J-Live",14
+"2007-01","Jay-Z",15
+"2007-01","Jokke & Valentinerne",77
+"2007-01","Kanye West",0
+"2007-01","Petter",1
+"2007-01","Pigeon John",28
+"2007-01","Richie Spice",15
+"2007-01","Rjd2",16
+"2007-01","Shabazz The Disciple",36
+"2007-02","All Natural",29
+"2007-02","Beanie Sigel",7
+"2007-02","Brand Nubian",10
+"2007-02","Consequence",30
+"2007-02","De-Phazz",24
+"2007-02","En Hyllest Til Joachim Nielsen",42
+"2007-02","Everclear",3
+"2007-02","Freestyle",11
+"2007-02","Gang Starr",32
+"2007-02","Ghostface Killah",19
+"2007-02","Guru",383
+"2007-02","J-Live",14
+"2007-02","Jay-Z",37
+"2007-02","Jokke & Valentinerne",81
+"2007-02","Kanye West",10
+"2007-02","Petter",2
+"2007-02","Pigeon John",21
+"2007-02","Richie Spice",14
+"2007-02","Rjd2",29
+"2007-02","Shabazz The Disciple",50
+"2007-03","All Natural",16
+"2007-03","Beanie Sigel",6
+"2007-03","Brand Nubian",4
+"2007-03","Consequence",26
+"2007-03","De-Phazz",18
+"2007-03","En Hyllest Til Joachim Nielsen",20
+"2007-03","Everclear",1
+"2007-03","Freestyle",11
+"2007-03","Gang Starr",14
+"2007-03","Ghostface Killah",10
+"2007-03","Guru",21
+"2007-03","J-Live",7
+"2007-03","Jay-Z",21
+"2007-03","Jokke & Valentinerne",40
+"2007-03","Kanye West",2
+"2007-03","Petter",0
+"2007-03","Pigeon John",7
+"2007-03","Richie Spice",12
+"2007-03","Rjd2",14
+"2007-03","Shabazz The Disciple",26
+"2007-04","All Natural",24
+"2007-04","Beanie Sigel",12
+"2007-04","Brand Nubian",6
+"2007-04","Consequence",25
+"2007-04","De-Phazz",18
+"2007-04","En Hyllest Til Joachim Nielsen",10
+"2007-04","Everclear",3
+"2007-04","Freestyle",6
+"2007-04","Gang Starr",23
+"2007-04","Ghostface Killah",19
+"2007-04","Guru",20
+"2007-04","J-Live",6
+"2007-04","Jay-Z",17
+"2007-04","Jokke & Valentinerne",58
+"2007-04","Kanye West",4
+"2007-04","Petter",1
+"2007-04","Pigeon John",14
+"2007-04","Richie Spice",5
+"2007-04","Rjd2",15
+"2007-04","Shabazz The Disciple",23
+"2007-05","All Natural",33
+"2007-05","Beanie Sigel",20
+"2007-05","Brand Nubian",9
+"2007-05","Consequence",53
+"2007-05","De-Phazz",25
+"2007-05","En Hyllest Til Joachim Nielsen",27
+"2007-05","Everclear",5
+"2007-05","Freestyle",15
+"2007-05","Gang Starr",32
+"2007-05","Ghostface Killah",15
+"2007-05","Guru",49
+"2007-05","J-Live",10
+"2007-05","Jay-Z",31
+"2007-05","Jokke & Valentinerne",81
+"2007-05","Kanye West",33
+"2007-05","Petter",16
+"2007-05","Pigeon John",11
+"2007-05","Richie Spice",16
+"2007-05","Rjd2",13
+"2007-05","Shabazz The Disciple",31
+"2007-06","All Natural",27
+"2007-06","Beanie Sigel",13
+"2007-06","Brand Nubian",6
+"2007-06","Consequence",37
+"2007-06","De-Phazz",18
+"2007-06","En Hyllest Til Joachim Nielsen",32
+"2007-06","Everclear",3
+"2007-06","Freestyle",14
+"2007-06","Gang Starr",86
+"2007-06","Ghostface Killah",15
+"2007-06","Guru",19
+"2007-06","J-Live",6
+"2007-06","Jay-Z",24
+"2007-06","Jokke & Valentinerne",76
+"2007-06","Kanye West",17
+"2007-06","Petter",23
+"2007-06","Pigeon John",13
+"2007-06","Richie Spice",19
+"2007-06","Rjd2",21
+"2007-06","Shabazz The Disciple",39
+"2007-07","All Natural",12
+"2007-07","Beanie Sigel",4
+"2007-07","Brand Nubian",2
+"2007-07","Consequence",12
+"2007-07","De-Phazz",10
+"2007-07","En Hyllest Til Joachim Nielsen",10
+"2007-07","Everclear",1
+"2007-07","Freestyle",15
+"2007-07","Gang Starr",10
+"2007-07","Ghostface Killah",9
+"2007-07","Guru",14
+"2007-07","J-Live",4
+"2007-07","Jay-Z",32
+"2007-07","Jokke & Valentinerne",74
+"2007-07","Kanye West",59
+"2007-07","Petter",20
+"2007-07","Pigeon John",11
+"2007-07","Richie Spice",4
+"2007-07","Rjd2",5
+"2007-07","Shabazz The Disciple",43
+"2007-08","All Natural",9
+"2007-08","Beanie Sigel",4
+"2007-08","Brand Nubian",22
+"2007-08","Consequence",8
+"2007-08","De-Phazz",28
+"2007-08","En Hyllest Til Joachim Nielsen",10
+"2007-08","Everclear",4
+"2007-08","Freestyle",3
+"2007-08","Gang Starr",16
+"2007-08","Ghostface Killah",7
+"2007-08","Guru",18
+"2007-08","J-Live",3
+"2007-08","Jay-Z",19
+"2007-08","Jokke & Valentinerne",34
+"2007-08","Kanye West",119
+"2007-08","Petter",7
+"2007-08","Pigeon John",22
+"2007-08","Richie Spice",2
+"2007-08","Rjd2",10
+"2007-08","Shabazz The Disciple",12
+"2007-09","All Natural",5
+"2007-09","Beanie Sigel",5
+"2007-09","Brand Nubian",6
+"2007-09","Consequence",10
+"2007-09","De-Phazz",7
+"2007-09","En Hyllest Til Joachim Nielsen",17
+"2007-09","Everclear",4
+"2007-09","Freestyle",3
+"2007-09","Gang Starr",43
+"2007-09","Ghostface Killah",5
+"2007-09","Guru",15
+"2007-09","J-Live",2
+"2007-09","Jay-Z",23
+"2007-09","Jokke & Valentinerne",16
+"2007-09","Kanye West",117
+"2007-09","Petter",12
+"2007-09","Pigeon John",20
+"2007-09","Richie Spice",0
+"2007-09","Rjd2",4
+"2007-09","Shabazz The Disciple",10
+"2007-10","All Natural",2
+"2007-10","Beanie Sigel",1
+"2007-10","Brand Nubian",4
+"2007-10","Consequence",7
+"2007-10","De-Phazz",4
+"2007-10","En Hyllest Til Joachim Nielsen",4
+"2007-10","Everclear",2
+"2007-10","Freestyle",0
+"2007-10","Gang Starr",5
+"2007-10","Ghostface Killah",9
+"2007-10","Guru",2
+"2007-10","J-Live",17
+"2007-10","Jay-Z",8
+"2007-10","Jokke & Valentinerne",9
+"2007-10","Kanye West",37
+"2007-10","Petter",25
+"2007-10","Pigeon John",2
+"2007-10","Richie Spice",4
+"2007-10","Rjd2",6
+"2007-10","Shabazz The Disciple",7
+"2007-11","All Natural",1
+"2007-11","Beanie Sigel",6
+"2007-11","Brand Nubian",1
+"2007-11","Consequence",22
+"2007-11","De-Phazz",2
+"2007-11","En Hyllest Til Joachim Nielsen",3
+"2007-11","Everclear",1
+"2007-11","Freestyle",5
+"2007-11","Gang Starr",0
+"2007-11","Ghostface Killah",1
+"2007-11","Guru",3
+"2007-11","J-Live",0
+"2007-11","Jay-Z",4
+"2007-11","Jokke & Valentinerne",6
+"2007-11","Kanye West",8
+"2007-11","Petter",3
+"2007-11","Pigeon John",1
+"2007-11","Richie Spice",0
+"2007-11","Rjd2",2
+"2007-11","Shabazz The Disciple",11
+"2007-12","All Natural",2
+"2007-12","Beanie Sigel",2
+"2007-12","Brand Nubian",1
+"2007-12","Consequence",8
+"2007-12","De-Phazz",5
+"2007-12","En Hyllest Til Joachim Nielsen",3
+"2007-12","Everclear",1
+"2007-12","Freestyle",4
+"2007-12","Gang Starr",37
+"2007-12","Ghostface Killah",2
+"2007-12","Guru",5
+"2007-12","J-Live",2
+"2007-12","Jay-Z",4
+"2007-12","Jokke & Valentinerne",7
+"2007-12","Kanye West",9
+"2007-12","Petter",3
+"2007-12","Pigeon John",5
+"2007-12","Richie Spice",2
+"2007-12","Rjd2",1
+"2007-12","Shabazz The Disciple",12
+"2008-01","All Natural",5
+"2008-01","Beanie Sigel",3
+"2008-01","Brand Nubian",3
+"2008-01","Consequence",6
+"2008-01","De-Phazz",2
+"2008-01","En Hyllest Til Joachim Nielsen",1
+"2008-01","Everclear",2
+"2008-01","Freestyle",1
+"2008-01","Gang Starr",4
+"2008-01","Ghostface Killah",5
+"2008-01","Guru",6
+"2008-01","J-Live",14
+"2008-01","Jay-Z",4
+"2008-01","Jokke & Valentinerne",2
+"2008-01","Kanye West",9
+"2008-01","Petter",3
+"2008-01","Pigeon John",4
+"2008-01","Richie Spice",2
+"2008-01","Rjd2",4
+"2008-01","Shabazz The Disciple",9
+"2008-02","All Natural",4
+"2008-02","Beanie Sigel",1
+"2008-02","Brand Nubian",4
+"2008-02","Consequence",11
+"2008-02","De-Phazz",8
+"2008-02","En Hyllest Til Joachim Nielsen",3
+"2008-02","Everclear",3
+"2008-02","Freestyle",1
+"2008-02","Gang Starr",12
+"2008-02","Ghostface Killah",5
+"2008-02","Guru",6
+"2008-02","J-Live",8
+"2008-02","Jay-Z",38
+"2008-02","Jokke & Valentinerne",14
+"2008-02","Kanye West",41
+"2008-02","Petter",6
+"2008-02","Pigeon John",4
+"2008-02","Richie Spice",3
+"2008-02","Rjd2",8
+"2008-02","Shabazz The Disciple",14
+"2008-03","All Natural",6
+"2008-03","Beanie Sigel",1
+"2008-03","Brand Nubian",1
+"2008-03","Consequence",11
+"2008-03","De-Phazz",5
+"2008-03","En Hyllest Til Joachim Nielsen",5
+"2008-03","Everclear",4
+"2008-03","Freestyle",2
+"2008-03","Gang Starr",13
+"2008-03","Ghostface Killah",5
+"2008-03","Guru",4
+"2008-03","J-Live",6
+"2008-03","Jay-Z",4
+"2008-03","Jokke & Valentinerne",9
+"2008-03","Kanye West",10
+"2008-03","Petter",5
+"2008-03","Pigeon John",2
+"2008-03","Richie Spice",4
+"2008-03","Rjd2",2
+"2008-03","Shabazz The Disciple",24
+"2008-04","All Natural",2
+"2008-04","Beanie Sigel",0
+"2008-04","Brand Nubian",0
+"2008-04","Consequence",2
+"2008-04","De-Phazz",2
+"2008-04","En Hyllest Til Joachim Nielsen",1
+"2008-04","Everclear",1
+"2008-04","Freestyle",0
+"2008-04","Gang Starr",5
+"2008-04","Ghostface Killah",2
+"2008-04","Guru",1
+"2008-04","J-Live",0
+"2008-04","Jay-Z",1
+"2008-04","Jokke & Valentinerne",11
+"2008-04","Kanye West",2
+"2008-04","Petter",1
+"2008-04","Pigeon John",2
+"2008-04","Richie Spice",1
+"2008-04","Rjd2",0
+"2008-04","Shabazz The Disciple",14
+"2008-05","All Natural",1
+"2008-05","Beanie Sigel",0
+"2008-05","Brand Nubian",0
+"2008-05","Consequence",0
+"2008-05","De-Phazz",0
+"2008-05","En Hyllest Til Joachim Nielsen",1
+"2008-05","Everclear",0
+"2008-05","Freestyle",0
+"2008-05","Gang Starr",2
+"2008-05","Ghostface Killah",0
+"2008-05","Guru",0
+"2008-05","J-Live",0
+"2008-05","Jay-Z",0
+"2008-05","Jokke & Valentinerne",3
+"2008-05","Kanye West",2
+"2008-05","Petter",0
+"2008-05","Pigeon John",0
+"2008-05","Richie Spice",0
+"2008-05","Rjd2",0
+"2008-05","Shabazz The Disciple",0
+"2008-06","All Natural",1
+"2008-06","Beanie Sigel",3
+"2008-06","Brand Nubian",2
+"2008-06","Consequence",7
+"2008-06","De-Phazz",5
+"2008-06","En Hyllest Til Joachim Nielsen",4
+"2008-06","Everclear",1
+"2008-06","Freestyle",2
+"2008-06","Gang Starr",8
+"2008-06","Ghostface Killah",5
+"2008-06","Guru",5
+"2008-06","J-Live",7
+"2008-06","Jay-Z",104
+"2008-06","Jokke & Valentinerne",7
+"2008-06","Kanye West",10
+"2008-06","Petter",4
+"2008-06","Pigeon John",2
+"2008-06","Richie Spice",3
+"2008-06","Rjd2",1
+"2008-06","Shabazz The Disciple",6
+"2008-07","All Natural",1
+"2008-07","Beanie Sigel",2
+"2008-07","Brand Nubian",1
+"2008-07","Consequence",2
+"2008-07","De-Phazz",2
+"2008-07","En Hyllest Til Joachim Nielsen",2
+"2008-07","Everclear",5
+"2008-07","Freestyle",1
+"2008-07","Gang Starr",1
+"2008-07","Ghostface Killah",0
+"2008-07","Guru",3
+"2008-07","J-Live",1
+"2008-07","Jay-Z",6
+"2008-07","Jokke & Valentinerne",5
+"2008-07","Kanye West",1
+"2008-07","Petter",5
+"2008-07","Pigeon John",0
+"2008-07","Richie Spice",31
+"2008-07","Rjd2",1
+"2008-07","Shabazz The Disciple",6
+"2008-08","All Natural",4
+"2008-08","Beanie Sigel",2
+"2008-08","Brand Nubian",3
+"2008-08","Consequence",5
+"2008-08","De-Phazz",51
+"2008-08","En Hyllest Til Joachim Nielsen",2
+"2008-08","Everclear",2
+"2008-08","Freestyle",39
+"2008-08","Gang Starr",15
+"2008-08","Ghostface Killah",3
+"2008-08","Guru",5
+"2008-08","J-Live",5
+"2008-08","Jay-Z",16
+"2008-08","Jokke & Valentinerne",33
+"2008-08","Kanye West",7
+"2008-08","Petter",12
+"2008-08","Pigeon John",4
+"2008-08","Richie Spice",2
+"2008-08","Rjd2",4
+"2008-08","Shabazz The Disciple",7
+"2008-09","All Natural",4
+"2008-09","Beanie Sigel",4
+"2008-09","Brand Nubian",4
+"2008-09","Consequence",10
+"2008-09","De-Phazz",62
+"2008-09","En Hyllest Til Joachim Nielsen",3
+"2008-09","Everclear",26
+"2008-09","Freestyle",5
+"2008-09","Gang Starr",14
+"2008-09","Ghostface Killah",6
+"2008-09","Guru",6
+"2008-09","J-Live",5
+"2008-09","Jay-Z",14
+"2008-09","Jokke & Valentinerne",9
+"2008-09","Kanye West",12
+"2008-09","Petter",4
+"2008-09","Pigeon John",4
+"2008-09","Richie Spice",5
+"2008-09","Rjd2",1
+"2008-09","Shabazz The Disciple",24
+"2008-10","All Natural",1
+"2008-10","Beanie Sigel",3
+"2008-10","Brand Nubian",1
+"2008-10","Consequence",3
+"2008-10","De-Phazz",4
+"2008-10","En Hyllest Til Joachim Nielsen",7
+"2008-10","Everclear",4
+"2008-10","Freestyle",4
+"2008-10","Gang Starr",10
+"2008-10","Ghostface Killah",6
+"2008-10","Guru",3
+"2008-10","J-Live",4
+"2008-10","Jay-Z",9
+"2008-10","Jokke & Valentinerne",9
+"2008-10","Kanye West",36
+"2008-10","Petter",5
+"2008-10","Pigeon John",2
+"2008-10","Richie Spice",6
+"2008-10","Rjd2",5
+"2008-10","Shabazz The Disciple",5
+"2008-11","All Natural",11
+"2008-11","Beanie Sigel",4
+"2008-11","Brand Nubian",1
+"2008-11","Consequence",1
+"2008-11","De-Phazz",5
+"2008-11","En Hyllest Til Joachim Nielsen",2
+"2008-11","Everclear",6
+"2008-11","Freestyle",5
+"2008-11","Gang Starr",5
+"2008-11","Ghostface Killah",6
+"2008-11","Guru",7
+"2008-11","J-Live",7
+"2008-11","Jay-Z",39
+"2008-11","Jokke & Valentinerne",16
+"2008-11","Kanye West",44
+"2008-11","Petter",8
+"2008-11","Pigeon John",3
+"2008-11","Richie Spice",2
+"2008-11","Rjd2",1
+"2008-11","Shabazz The Disciple",12
+"2008-12","All Natural",5
+"2008-12","Beanie Sigel",3
+"2008-12","Brand Nubian",2
+"2008-12","Consequence",8
+"2008-12","De-Phazz",8
+"2008-12","En Hyllest Til Joachim Nielsen",7
+"2008-12","Everclear",6
+"2008-12","Freestyle",5
+"2008-12","Gang Starr",11
+"2008-12","Ghostface Killah",2
+"2008-12","Guru",8
+"2008-12","J-Live",4
+"2008-12","Jay-Z",26
+"2008-12","Jokke & Valentinerne",12
+"2008-12","Kanye West",16
+"2008-12","Petter",4
+"2008-12","Pigeon John",6
+"2008-12","Richie Spice",6
+"2008-12","Rjd2",1
+"2008-12","Shabazz The Disciple",13
+"2009-01","All Natural",6
+"2009-01","Beanie Sigel",1
+"2009-01","Brand Nubian",1
+"2009-01","Consequence",1
+"2009-01","De-Phazz",4
+"2009-01","En Hyllest Til Joachim Nielsen",0
+"2009-01","Everclear",2
+"2009-01","Freestyle",1
+"2009-01","Gang Starr",5
+"2009-01","Ghostface Killah",0
+"2009-01","Guru",1
+"2009-01","J-Live",1
+"2009-01","Jay-Z",7
+"2009-01","Jokke & Valentinerne",7
+"2009-01","Kanye West",5
+"2009-01","Petter",0
+"2009-01","Pigeon John",2
+"2009-01","Richie Spice",2
+"2009-01","Rjd2",4
+"2009-01","Shabazz The Disciple",2
+"2009-02","All Natural",0
+"2009-02","Beanie Sigel",1
+"2009-02","Brand Nubian",2
+"2009-02","Consequence",2
+"2009-02","De-Phazz",0
+"2009-02","En Hyllest Til Joachim Nielsen",0
+"2009-02","Everclear",1
+"2009-02","Freestyle",1
+"2009-02","Gang Starr",1
+"2009-02","Ghostface Killah",1
+"2009-02","Guru",1
+"2009-02","J-Live",1
+"2009-02","Jay-Z",3
+"2009-02","Jokke & Valentinerne",4
+"2009-02","Kanye West",2
+"2009-02","Petter",1
+"2009-02","Pigeon John",3
+"2009-02","Richie Spice",1
+"2009-02","Rjd2",0
+"2009-02","Shabazz The Disciple",3
+"2009-03","All Natural",1
+"2009-03","Beanie Sigel",0
+"2009-03","Brand Nubian",0
+"2009-03","Consequence",1
+"2009-03","De-Phazz",1
+"2009-03","En Hyllest Til Joachim Nielsen",1
+"2009-03","Everclear",1
+"2009-03","Freestyle",0
+"2009-03","Gang Starr",13
+"2009-03","Ghostface Killah",0
+"2009-03","Guru",0
+"2009-03","J-Live",1
+"2009-03","Jay-Z",1
+"2009-03","Jokke & Valentinerne",2
+"2009-03","Kanye West",1
+"2009-03","Petter",1
+"2009-03","Pigeon John",0
+"2009-03","Richie Spice",1
+"2009-03","Rjd2",1
+"2009-03","Shabazz The Disciple",0
+"2009-04","All Natural",0
+"2009-04","Beanie Sigel",2
+"2009-04","Brand Nubian",1
+"2009-04","Consequence",0
+"2009-04","De-Phazz",1
+"2009-04","En Hyllest Til Joachim Nielsen",0
+"2009-04","Everclear",2
+"2009-04","Freestyle",1
+"2009-04","Gang Starr",1
+"2009-04","Ghostface Killah",2
+"2009-04","Guru",1
+"2009-04","J-Live",0
+"2009-04","Jay-Z",1
+"2009-04","Jokke & Valentinerne",1
+"2009-04","Kanye West",2
+"2009-04","Petter",29
+"2009-04","Pigeon John",0
+"2009-04","Richie Spice",1
+"2009-04","Rjd2",1
+"2009-04","Shabazz The Disciple",2
+"2009-05","All Natural",1
+"2009-05","Beanie Sigel",0
+"2009-05","Brand Nubian",0
+"2009-05","Consequence",0
+"2009-05","De-Phazz",0
+"2009-05","En Hyllest Til Joachim Nielsen",0
+"2009-05","Everclear",0
+"2009-05","Freestyle",0
+"2009-05","Gang Starr",1
+"2009-05","Ghostface Killah",1
+"2009-05","Guru",0
+"2009-05","J-Live",1
+"2009-05","Jay-Z",0
+"2009-05","Jokke & Valentinerne",1
+"2009-05","Kanye West",0
+"2009-05","Petter",0
+"2009-05","Pigeon John",0
+"2009-05","Richie Spice",3
+"2009-05","Rjd2",0
+"2009-05","Shabazz The Disciple",0

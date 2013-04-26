@@ -1,521 +1,521 @@
-month,artist,plays
-2007-04,Bryan Adams,3
-2007-04,Coldplay,6
-2007-04,Damien Rice,2
-2007-04,James Blunt,4
-2007-04,Josh Groban,4
-2007-04,Kylie Minogue,5
-2007-04,Lenny Kravitz,73
-2007-04,Lifehouse,1
-2007-04,Liisi Koikson,7
-2007-04,Moby,4
-2007-04,Morrissey,1
-2007-04,Norah Jones,4
-2007-04,Robbie Williams,6
-2007-04,Roxette,2
-2007-04,Seal,1
-2007-04,Terminaator,13
-2007-04,The Beatles,0
-2007-04,The Cure,2
-2007-04,Tori Amos,0
-2007-04,U2,1
-2007-05,Bryan Adams,8
-2007-05,Coldplay,31
-2007-05,Damien Rice,22
-2007-05,James Blunt,5
-2007-05,Josh Groban,12
-2007-05,Kylie Minogue,19
-2007-05,Lenny Kravitz,59
-2007-05,Lifehouse,8
-2007-05,Liisi Koikson,32
-2007-05,Moby,31
-2007-05,Morrissey,4
-2007-05,Norah Jones,17
-2007-05,Robbie Williams,33
-2007-05,Roxette,6
-2007-05,Seal,3
-2007-05,Terminaator,33
-2007-05,The Beatles,14
-2007-05,The Cure,18
-2007-05,Tori Amos,14
-2007-05,U2,11
-2007-06,Bryan Adams,7
-2007-06,Coldplay,56
-2007-06,Damien Rice,17
-2007-06,James Blunt,32
-2007-06,Josh Groban,7
-2007-06,Kylie Minogue,16
-2007-06,Lenny Kravitz,112
-2007-06,Lifehouse,30
-2007-06,Liisi Koikson,17
-2007-06,Moby,14
-2007-06,Morrissey,5
-2007-06,Norah Jones,9
-2007-06,Robbie Williams,17
-2007-06,Roxette,8
-2007-06,Seal,4
-2007-06,Terminaator,10
-2007-06,The Beatles,13
-2007-06,The Cure,13
-2007-06,Tori Amos,20
-2007-06,U2,5
-2007-07,Bryan Adams,8
-2007-07,Coldplay,15
-2007-07,Damien Rice,12
-2007-07,James Blunt,12
-2007-07,Josh Groban,6
-2007-07,Kylie Minogue,9
-2007-07,Lenny Kravitz,23
-2007-07,Lifehouse,11
-2007-07,Liisi Koikson,22
-2007-07,Moby,13
-2007-07,Morrissey,6
-2007-07,Norah Jones,12
-2007-07,Robbie Williams,19
-2007-07,Roxette,9
-2007-07,Seal,2
-2007-07,Terminaator,20
-2007-07,The Beatles,43
-2007-07,The Cure,24
-2007-07,Tori Amos,20
-2007-07,U2,6
-2007-08,Bryan Adams,5
-2007-08,Coldplay,16
-2007-08,Damien Rice,8
-2007-08,James Blunt,6
-2007-08,Josh Groban,7
-2007-08,Kylie Minogue,9
-2007-08,Lenny Kravitz,16
-2007-08,Lifehouse,8
-2007-08,Liisi Koikson,14
-2007-08,Moby,4
-2007-08,Morrissey,2
-2007-08,Norah Jones,8
-2007-08,Robbie Williams,18
-2007-08,Roxette,30
-2007-08,Seal,5
-2007-08,Terminaator,21
-2007-08,The Beatles,16
-2007-08,The Cure,13
-2007-08,Tori Amos,16
-2007-08,U2,2
-2007-09,Bryan Adams,22
-2007-09,Coldplay,14
-2007-09,Damien Rice,17
-2007-09,James Blunt,24
-2007-09,Josh Groban,4
-2007-09,Kylie Minogue,8
-2007-09,Lenny Kravitz,10
-2007-09,Lifehouse,9
-2007-09,Liisi Koikson,17
-2007-09,Moby,31
-2007-09,Morrissey,4
-2007-09,Norah Jones,6
-2007-09,Robbie Williams,14
-2007-09,Roxette,1
-2007-09,Seal,2
-2007-09,Terminaator,9
-2007-09,The Beatles,13
-2007-09,The Cure,8
-2007-09,Tori Amos,34
-2007-09,U2,49
-2007-10,Bryan Adams,23
-2007-10,Coldplay,32
-2007-10,Damien Rice,23
-2007-10,James Blunt,17
-2007-10,Josh Groban,11
-2007-10,Kylie Minogue,16
-2007-10,Lenny Kravitz,23
-2007-10,Lifehouse,23
-2007-10,Liisi Koikson,22
-2007-10,Moby,31
-2007-10,Morrissey,9
-2007-10,Norah Jones,27
-2007-10,Robbie Williams,21
-2007-10,Roxette,10
-2007-10,Seal,3
-2007-10,Terminaator,30
-2007-10,The Beatles,27
-2007-10,The Cure,14
-2007-10,Tori Amos,28
-2007-10,U2,18
-2007-11,Bryan Adams,21
-2007-11,Coldplay,27
-2007-11,Damien Rice,17
-2007-11,James Blunt,16
-2007-11,Josh Groban,10
-2007-11,Kylie Minogue,17
-2007-11,Lenny Kravitz,16
-2007-11,Lifehouse,25
-2007-11,Liisi Koikson,30
-2007-11,Moby,21
-2007-11,Morrissey,8
-2007-11,Norah Jones,7
-2007-11,Robbie Williams,19
-2007-11,Roxette,11
-2007-11,Seal,3
-2007-11,Terminaator,27
-2007-11,The Beatles,40
-2007-11,The Cure,17
-2007-11,Tori Amos,25
-2007-11,U2,8
-2007-12,Bryan Adams,32
-2007-12,Coldplay,37
-2007-12,Damien Rice,15
-2007-12,James Blunt,14
-2007-12,Josh Groban,11
-2007-12,Kylie Minogue,13
-2007-12,Lenny Kravitz,26
-2007-12,Lifehouse,30
-2007-12,Liisi Koikson,18
-2007-12,Moby,24
-2007-12,Morrissey,11
-2007-12,Norah Jones,10
-2007-12,Robbie Williams,15
-2007-12,Roxette,9
-2007-12,Seal,5
-2007-12,Terminaator,43
-2007-12,The Beatles,45
-2007-12,The Cure,23
-2007-12,Tori Amos,25
-2007-12,U2,8
-2008-01,Bryan Adams,12
-2008-01,Coldplay,30
-2008-01,Damien Rice,13
-2008-01,James Blunt,10
-2008-01,Josh Groban,24
-2008-01,Kylie Minogue,7
-2008-01,Lenny Kravitz,17
-2008-01,Lifehouse,186
-2008-01,Liisi Koikson,56
-2008-01,Moby,16
-2008-01,Morrissey,5
-2008-01,Norah Jones,9
-2008-01,Robbie Williams,17
-2008-01,Roxette,12
-2008-01,Seal,7
-2008-01,Terminaator,17
-2008-01,The Beatles,14
-2008-01,The Cure,11
-2008-01,Tori Amos,17
-2008-01,U2,5
-2008-02,Bryan Adams,4
-2008-02,Coldplay,9
-2008-02,Damien Rice,5
-2008-02,James Blunt,8
-2008-02,Josh Groban,9
-2008-02,Kylie Minogue,3
-2008-02,Lenny Kravitz,7
-2008-02,Lifehouse,78
-2008-02,Liisi Koikson,24
-2008-02,Moby,3
-2008-02,Morrissey,2
-2008-02,Norah Jones,4
-2008-02,Robbie Williams,2
-2008-02,Roxette,2
-2008-02,Seal,1
-2008-02,Terminaator,5
-2008-02,The Beatles,4
-2008-02,The Cure,6
-2008-02,Tori Amos,2
-2008-02,U2,3
-2008-03,Bryan Adams,34
-2008-03,Coldplay,55
-2008-03,Damien Rice,32
-2008-03,James Blunt,28
-2008-03,Josh Groban,25
-2008-03,Kylie Minogue,16
-2008-03,Lenny Kravitz,43
-2008-03,Lifehouse,156
-2008-03,Liisi Koikson,26
-2008-03,Moby,52
-2008-03,Morrissey,27
-2008-03,Norah Jones,5
-2008-03,Robbie Williams,46
-2008-03,Roxette,22
-2008-03,Seal,23
-2008-03,Terminaator,20
-2008-03,The Beatles,33
-2008-03,The Cure,37
-2008-03,Tori Amos,46
-2008-03,U2,25
-2008-04,Bryan Adams,9
-2008-04,Coldplay,16
-2008-04,Damien Rice,10
-2008-04,James Blunt,6
-2008-04,Josh Groban,9
-2008-04,Kylie Minogue,0
-2008-04,Lenny Kravitz,9
-2008-04,Lifehouse,42
-2008-04,Liisi Koikson,0
-2008-04,Moby,11
-2008-04,Morrissey,12
-2008-04,Norah Jones,0
-2008-04,Robbie Williams,8
-2008-04,Roxette,7
-2008-04,Seal,11
-2008-04,Terminaator,0
-2008-04,The Beatles,5
-2008-04,The Cure,7
-2008-04,Tori Amos,10
-2008-04,U2,12
-2008-05,Bryan Adams,9
-2008-05,Coldplay,16
-2008-05,Damien Rice,8
-2008-05,James Blunt,8
-2008-05,Josh Groban,7
-2008-05,Kylie Minogue,1
-2008-05,Lenny Kravitz,10
-2008-05,Lifehouse,36
-2008-05,Liisi Koikson,1
-2008-05,Moby,15
-2008-05,Morrissey,5
-2008-05,Norah Jones,2
-2008-05,Robbie Williams,8
-2008-05,Roxette,7
-2008-05,Seal,7
-2008-05,Terminaator,7
-2008-05,The Beatles,8
-2008-05,The Cure,9
-2008-05,Tori Amos,8
-2008-05,U2,9
-2008-06,Bryan Adams,0
-2008-06,Coldplay,0
-2008-06,Damien Rice,0
-2008-06,James Blunt,0
-2008-06,Josh Groban,0
-2008-06,Kylie Minogue,0
-2008-06,Lenny Kravitz,0
-2008-06,Lifehouse,0
-2008-06,Liisi Koikson,0
-2008-06,Moby,0
-2008-06,Morrissey,0
-2008-06,Norah Jones,0
-2008-06,Robbie Williams,0
-2008-06,Roxette,0
-2008-06,Seal,0
-2008-06,Terminaator,0
-2008-06,The Beatles,0
-2008-06,The Cure,0
-2008-06,Tori Amos,0
-2008-06,U2,0
-2008-07,Bryan Adams,5
-2008-07,Coldplay,10
-2008-07,Damien Rice,16
-2008-07,James Blunt,5
-2008-07,Josh Groban,5
-2008-07,Kylie Minogue,10
-2008-07,Lenny Kravitz,16
-2008-07,Lifehouse,9
-2008-07,Liisi Koikson,12
-2008-07,Moby,12
-2008-07,Morrissey,4
-2008-07,Norah Jones,5
-2008-07,Robbie Williams,15
-2008-07,Roxette,4
-2008-07,Seal,8
-2008-07,Terminaator,13
-2008-07,The Beatles,13
-2008-07,The Cure,10
-2008-07,Tori Amos,14
-2008-07,U2,10
-2008-08,Bryan Adams,10
-2008-08,Coldplay,9
-2008-08,Damien Rice,4
-2008-08,James Blunt,11
-2008-08,Josh Groban,6
-2008-08,Kylie Minogue,12
-2008-08,Lenny Kravitz,12
-2008-08,Lifehouse,9
-2008-08,Liisi Koikson,12
-2008-08,Moby,10
-2008-08,Morrissey,7
-2008-08,Norah Jones,1
-2008-08,Robbie Williams,12
-2008-08,Roxette,7
-2008-08,Seal,4
-2008-08,Terminaator,20
-2008-08,The Beatles,8
-2008-08,The Cure,7
-2008-08,Tori Amos,15
-2008-08,U2,5
-2008-09,Bryan Adams,3
-2008-09,Coldplay,6
-2008-09,Damien Rice,2
-2008-09,James Blunt,1
-2008-09,Josh Groban,3
-2008-09,Kylie Minogue,2
-2008-09,Lenny Kravitz,5
-2008-09,Lifehouse,9
-2008-09,Liisi Koikson,9
-2008-09,Moby,5
-2008-09,Morrissey,2
-2008-09,Norah Jones,1
-2008-09,Robbie Williams,2
-2008-09,Roxette,4
-2008-09,Seal,3
-2008-09,Terminaator,2
-2008-09,The Beatles,4
-2008-09,The Cure,1
-2008-09,Tori Amos,6
-2008-09,U2,2
-2008-10,Bryan Adams,1
-2008-10,Coldplay,0
-2008-10,Damien Rice,0
-2008-10,James Blunt,0
-2008-10,Josh Groban,0
-2008-10,Kylie Minogue,1
-2008-10,Lenny Kravitz,2
-2008-10,Lifehouse,0
-2008-10,Liisi Koikson,1
-2008-10,Moby,0
-2008-10,Morrissey,0
-2008-10,Norah Jones,1
-2008-10,Robbie Williams,1
-2008-10,Roxette,0
-2008-10,Seal,0
-2008-10,Terminaator,2
-2008-10,The Beatles,1
-2008-10,The Cure,0
-2008-10,Tori Amos,1
-2008-10,U2,0
-2008-11,Bryan Adams,0
-2008-11,Coldplay,0
-2008-11,Damien Rice,0
-2008-11,James Blunt,0
-2008-11,Josh Groban,0
-2008-11,Kylie Minogue,0
-2008-11,Lenny Kravitz,0
-2008-11,Lifehouse,0
-2008-11,Liisi Koikson,0
-2008-11,Moby,0
-2008-11,Morrissey,0
-2008-11,Norah Jones,0
-2008-11,Robbie Williams,0
-2008-11,Roxette,0
-2008-11,Seal,0
-2008-11,Terminaator,0
-2008-11,The Beatles,0
-2008-11,The Cure,0
-2008-11,Tori Amos,0
-2008-11,U2,0
-2008-12,Bryan Adams,0
-2008-12,Coldplay,0
-2008-12,Damien Rice,0
-2008-12,James Blunt,0
-2008-12,Josh Groban,0
-2008-12,Kylie Minogue,0
-2008-12,Lenny Kravitz,0
-2008-12,Lifehouse,0
-2008-12,Liisi Koikson,0
-2008-12,Moby,0
-2008-12,Morrissey,0
-2008-12,Norah Jones,0
-2008-12,Robbie Williams,0
-2008-12,Roxette,0
-2008-12,Seal,0
-2008-12,Terminaator,0
-2008-12,The Beatles,0
-2008-12,The Cure,0
-2008-12,Tori Amos,0
-2008-12,U2,0
-2009-01,Bryan Adams,0
-2009-01,Coldplay,0
-2009-01,Damien Rice,0
-2009-01,James Blunt,0
-2009-01,Josh Groban,0
-2009-01,Kylie Minogue,0
-2009-01,Lenny Kravitz,0
-2009-01,Lifehouse,0
-2009-01,Liisi Koikson,0
-2009-01,Moby,0
-2009-01,Morrissey,0
-2009-01,Norah Jones,0
-2009-01,Robbie Williams,0
-2009-01,Roxette,0
-2009-01,Seal,0
-2009-01,Terminaator,0
-2009-01,The Beatles,0
-2009-01,The Cure,0
-2009-01,Tori Amos,0
-2009-01,U2,0
-2009-02,Bryan Adams,0
-2009-02,Coldplay,0
-2009-02,Damien Rice,0
-2009-02,James Blunt,0
-2009-02,Josh Groban,0
-2009-02,Kylie Minogue,0
-2009-02,Lenny Kravitz,0
-2009-02,Lifehouse,0
-2009-02,Liisi Koikson,0
-2009-02,Moby,0
-2009-02,Morrissey,0
-2009-02,Norah Jones,0
-2009-02,Robbie Williams,0
-2009-02,Roxette,0
-2009-02,Seal,0
-2009-02,Terminaator,0
-2009-02,The Beatles,0
-2009-02,The Cure,0
-2009-02,Tori Amos,0
-2009-02,U2,0
-2009-03,Bryan Adams,46
-2009-03,Coldplay,27
-2009-03,Damien Rice,12
-2009-03,James Blunt,37
-2009-03,Josh Groban,25
-2009-03,Kylie Minogue,48
-2009-03,Lenny Kravitz,82
-2009-03,Lifehouse,28
-2009-03,Liisi Koikson,74
-2009-03,Moby,40
-2009-03,Morrissey,17
-2009-03,Norah Jones,28
-2009-03,Robbie Williams,65
-2009-03,Roxette,30
-2009-03,Seal,21
-2009-03,Terminaator,81
-2009-03,The Beatles,56
-2009-03,The Cure,46
-2009-03,Tori Amos,66
-2009-03,U2,35
-2009-04,Bryan Adams,32
-2009-04,Coldplay,30
-2009-04,Damien Rice,8
-2009-04,James Blunt,28
-2009-04,Josh Groban,20
-2009-04,Kylie Minogue,43
-2009-04,Lenny Kravitz,65
-2009-04,Lifehouse,28
-2009-04,Liisi Koikson,65
-2009-04,Moby,45
-2009-04,Morrissey,14
-2009-04,Norah Jones,34
-2009-04,Robbie Williams,56
-2009-04,Roxette,29
-2009-04,Seal,23
-2009-04,Terminaator,70
-2009-04,The Beatles,54
-2009-04,The Cure,41
-2009-04,Tori Amos,71
-2009-04,U2,35
-2009-05,Bryan Adams,3
-2009-05,Coldplay,3
-2009-05,Damien Rice,2
-2009-05,James Blunt,3
-2009-05,Josh Groban,2
-2009-05,Kylie Minogue,3
-2009-05,Lenny Kravitz,6
-2009-05,Lifehouse,2
-2009-05,Liisi Koikson,5
-2009-05,Moby,2
-2009-05,Morrissey,1
-2009-05,Norah Jones,2
-2009-05,Robbie Williams,5
-2009-05,Roxette,2
-2009-05,Seal,2
-2009-05,Terminaator,3
-2009-05,The Beatles,3
-2009-05,The Cure,2
-2009-05,Tori Amos,7
-2009-05,U2,4
+"month","artist","plays"
+"2007-04","Bryan Adams",3
+"2007-04","Coldplay",6
+"2007-04","Damien Rice",2
+"2007-04","James Blunt",4
+"2007-04","Josh Groban",4
+"2007-04","Kylie Minogue",5
+"2007-04","Lenny Kravitz",73
+"2007-04","Lifehouse",1
+"2007-04","Liisi Koikson",7
+"2007-04","Moby",4
+"2007-04","Morrissey",1
+"2007-04","Norah Jones",4
+"2007-04","Robbie Williams",6
+"2007-04","Roxette",2
+"2007-04","Seal",1
+"2007-04","Terminaator",13
+"2007-04","The Beatles",0
+"2007-04","The Cure",2
+"2007-04","Tori Amos",0
+"2007-04","U2",1
+"2007-05","Bryan Adams",8
+"2007-05","Coldplay",31
+"2007-05","Damien Rice",22
+"2007-05","James Blunt",5
+"2007-05","Josh Groban",12
+"2007-05","Kylie Minogue",19
+"2007-05","Lenny Kravitz",59
+"2007-05","Lifehouse",8
+"2007-05","Liisi Koikson",32
+"2007-05","Moby",31
+"2007-05","Morrissey",4
+"2007-05","Norah Jones",17
+"2007-05","Robbie Williams",33
+"2007-05","Roxette",6
+"2007-05","Seal",3
+"2007-05","Terminaator",33
+"2007-05","The Beatles",14
+"2007-05","The Cure",18
+"2007-05","Tori Amos",14
+"2007-05","U2",11
+"2007-06","Bryan Adams",7
+"2007-06","Coldplay",56
+"2007-06","Damien Rice",17
+"2007-06","James Blunt",32
+"2007-06","Josh Groban",7
+"2007-06","Kylie Minogue",16
+"2007-06","Lenny Kravitz",112
+"2007-06","Lifehouse",30
+"2007-06","Liisi Koikson",17
+"2007-06","Moby",14
+"2007-06","Morrissey",5
+"2007-06","Norah Jones",9
+"2007-06","Robbie Williams",17
+"2007-06","Roxette",8
+"2007-06","Seal",4
+"2007-06","Terminaator",10
+"2007-06","The Beatles",13
+"2007-06","The Cure",13
+"2007-06","Tori Amos",20
+"2007-06","U2",5
+"2007-07","Bryan Adams",8
+"2007-07","Coldplay",15
+"2007-07","Damien Rice",12
+"2007-07","James Blunt",12
+"2007-07","Josh Groban",6
+"2007-07","Kylie Minogue",9
+"2007-07","Lenny Kravitz",23
+"2007-07","Lifehouse",11
+"2007-07","Liisi Koikson",22
+"2007-07","Moby",13
+"2007-07","Morrissey",6
+"2007-07","Norah Jones",12
+"2007-07","Robbie Williams",19
+"2007-07","Roxette",9
+"2007-07","Seal",2
+"2007-07","Terminaator",20
+"2007-07","The Beatles",43
+"2007-07","The Cure",24
+"2007-07","Tori Amos",20
+"2007-07","U2",6
+"2007-08","Bryan Adams",5
+"2007-08","Coldplay",16
+"2007-08","Damien Rice",8
+"2007-08","James Blunt",6
+"2007-08","Josh Groban",7
+"2007-08","Kylie Minogue",9
+"2007-08","Lenny Kravitz",16
+"2007-08","Lifehouse",8
+"2007-08","Liisi Koikson",14
+"2007-08","Moby",4
+"2007-08","Morrissey",2
+"2007-08","Norah Jones",8
+"2007-08","Robbie Williams",18
+"2007-08","Roxette",30
+"2007-08","Seal",5
+"2007-08","Terminaator",21
+"2007-08","The Beatles",16
+"2007-08","The Cure",13
+"2007-08","Tori Amos",16
+"2007-08","U2",2
+"2007-09","Bryan Adams",22
+"2007-09","Coldplay",14
+"2007-09","Damien Rice",17
+"2007-09","James Blunt",24
+"2007-09","Josh Groban",4
+"2007-09","Kylie Minogue",8
+"2007-09","Lenny Kravitz",10
+"2007-09","Lifehouse",9
+"2007-09","Liisi Koikson",17
+"2007-09","Moby",31
+"2007-09","Morrissey",4
+"2007-09","Norah Jones",6
+"2007-09","Robbie Williams",14
+"2007-09","Roxette",1
+"2007-09","Seal",2
+"2007-09","Terminaator",9
+"2007-09","The Beatles",13
+"2007-09","The Cure",8
+"2007-09","Tori Amos",34
+"2007-09","U2",49
+"2007-10","Bryan Adams",23
+"2007-10","Coldplay",32
+"2007-10","Damien Rice",23
+"2007-10","James Blunt",17
+"2007-10","Josh Groban",11
+"2007-10","Kylie Minogue",16
+"2007-10","Lenny Kravitz",23
+"2007-10","Lifehouse",23
+"2007-10","Liisi Koikson",22
+"2007-10","Moby",31
+"2007-10","Morrissey",9
+"2007-10","Norah Jones",27
+"2007-10","Robbie Williams",21
+"2007-10","Roxette",10
+"2007-10","Seal",3
+"2007-10","Terminaator",30
+"2007-10","The Beatles",27
+"2007-10","The Cure",14
+"2007-10","Tori Amos",28
+"2007-10","U2",18
+"2007-11","Bryan Adams",21
+"2007-11","Coldplay",27
+"2007-11","Damien Rice",17
+"2007-11","James Blunt",16
+"2007-11","Josh Groban",10
+"2007-11","Kylie Minogue",17
+"2007-11","Lenny Kravitz",16
+"2007-11","Lifehouse",25
+"2007-11","Liisi Koikson",30
+"2007-11","Moby",21
+"2007-11","Morrissey",8
+"2007-11","Norah Jones",7
+"2007-11","Robbie Williams",19
+"2007-11","Roxette",11
+"2007-11","Seal",3
+"2007-11","Terminaator",27
+"2007-11","The Beatles",40
+"2007-11","The Cure",17
+"2007-11","Tori Amos",25
+"2007-11","U2",8
+"2007-12","Bryan Adams",32
+"2007-12","Coldplay",37
+"2007-12","Damien Rice",15
+"2007-12","James Blunt",14
+"2007-12","Josh Groban",11
+"2007-12","Kylie Minogue",13
+"2007-12","Lenny Kravitz",26
+"2007-12","Lifehouse",30
+"2007-12","Liisi Koikson",18
+"2007-12","Moby",24
+"2007-12","Morrissey",11
+"2007-12","Norah Jones",10
+"2007-12","Robbie Williams",15
+"2007-12","Roxette",9
+"2007-12","Seal",5
+"2007-12","Terminaator",43
+"2007-12","The Beatles",45
+"2007-12","The Cure",23
+"2007-12","Tori Amos",25
+"2007-12","U2",8
+"2008-01","Bryan Adams",12
+"2008-01","Coldplay",30
+"2008-01","Damien Rice",13
+"2008-01","James Blunt",10
+"2008-01","Josh Groban",24
+"2008-01","Kylie Minogue",7
+"2008-01","Lenny Kravitz",17
+"2008-01","Lifehouse",186
+"2008-01","Liisi Koikson",56
+"2008-01","Moby",16
+"2008-01","Morrissey",5
+"2008-01","Norah Jones",9
+"2008-01","Robbie Williams",17
+"2008-01","Roxette",12
+"2008-01","Seal",7
+"2008-01","Terminaator",17
+"2008-01","The Beatles",14
+"2008-01","The Cure",11
+"2008-01","Tori Amos",17
+"2008-01","U2",5
+"2008-02","Bryan Adams",4
+"2008-02","Coldplay",9
+"2008-02","Damien Rice",5
+"2008-02","James Blunt",8
+"2008-02","Josh Groban",9
+"2008-02","Kylie Minogue",3
+"2008-02","Lenny Kravitz",7
+"2008-02","Lifehouse",78
+"2008-02","Liisi Koikson",24
+"2008-02","Moby",3
+"2008-02","Morrissey",2
+"2008-02","Norah Jones",4
+"2008-02","Robbie Williams",2
+"2008-02","Roxette",2
+"2008-02","Seal",1
+"2008-02","Terminaator",5
+"2008-02","The Beatles",4
+"2008-02","The Cure",6
+"2008-02","Tori Amos",2
+"2008-02","U2",3
+"2008-03","Bryan Adams",34
+"2008-03","Coldplay",55
+"2008-03","Damien Rice",32
+"2008-03","James Blunt",28
+"2008-03","Josh Groban",25
+"2008-03","Kylie Minogue",16
+"2008-03","Lenny Kravitz",43
+"2008-03","Lifehouse",156
+"2008-03","Liisi Koikson",26
+"2008-03","Moby",52
+"2008-03","Morrissey",27
+"2008-03","Norah Jones",5
+"2008-03","Robbie Williams",46
+"2008-03","Roxette",22
+"2008-03","Seal",23
+"2008-03","Terminaator",20
+"2008-03","The Beatles",33
+"2008-03","The Cure",37
+"2008-03","Tori Amos",46
+"2008-03","U2",25
+"2008-04","Bryan Adams",9
+"2008-04","Coldplay",16
+"2008-04","Damien Rice",10
+"2008-04","James Blunt",6
+"2008-04","Josh Groban",9
+"2008-04","Kylie Minogue",0
+"2008-04","Lenny Kravitz",9
+"2008-04","Lifehouse",42
+"2008-04","Liisi Koikson",0
+"2008-04","Moby",11
+"2008-04","Morrissey",12
+"2008-04","Norah Jones",0
+"2008-04","Robbie Williams",8
+"2008-04","Roxette",7
+"2008-04","Seal",11
+"2008-04","Terminaator",0
+"2008-04","The Beatles",5
+"2008-04","The Cure",7
+"2008-04","Tori Amos",10
+"2008-04","U2",12
+"2008-05","Bryan Adams",9
+"2008-05","Coldplay",16
+"2008-05","Damien Rice",8
+"2008-05","James Blunt",8
+"2008-05","Josh Groban",7
+"2008-05","Kylie Minogue",1
+"2008-05","Lenny Kravitz",10
+"2008-05","Lifehouse",36
+"2008-05","Liisi Koikson",1
+"2008-05","Moby",15
+"2008-05","Morrissey",5
+"2008-05","Norah Jones",2
+"2008-05","Robbie Williams",8
+"2008-05","Roxette",7
+"2008-05","Seal",7
+"2008-05","Terminaator",7
+"2008-05","The Beatles",8
+"2008-05","The Cure",9
+"2008-05","Tori Amos",8
+"2008-05","U2",9
+"2008-06","Bryan Adams",0
+"2008-06","Coldplay",0
+"2008-06","Damien Rice",0
+"2008-06","James Blunt",0
+"2008-06","Josh Groban",0
+"2008-06","Kylie Minogue",0
+"2008-06","Lenny Kravitz",0
+"2008-06","Lifehouse",0
+"2008-06","Liisi Koikson",0
+"2008-06","Moby",0
+"2008-06","Morrissey",0
+"2008-06","Norah Jones",0
+"2008-06","Robbie Williams",0
+"2008-06","Roxette",0
+"2008-06","Seal",0
+"2008-06","Terminaator",0
+"2008-06","The Beatles",0
+"2008-06","The Cure",0
+"2008-06","Tori Amos",0
+"2008-06","U2",0
+"2008-07","Bryan Adams",5
+"2008-07","Coldplay",10
+"2008-07","Damien Rice",16
+"2008-07","James Blunt",5
+"2008-07","Josh Groban",5
+"2008-07","Kylie Minogue",10
+"2008-07","Lenny Kravitz",16
+"2008-07","Lifehouse",9
+"2008-07","Liisi Koikson",12
+"2008-07","Moby",12
+"2008-07","Morrissey",4
+"2008-07","Norah Jones",5
+"2008-07","Robbie Williams",15
+"2008-07","Roxette",4
+"2008-07","Seal",8
+"2008-07","Terminaator",13
+"2008-07","The Beatles",13
+"2008-07","The Cure",10
+"2008-07","Tori Amos",14
+"2008-07","U2",10
+"2008-08","Bryan Adams",10
+"2008-08","Coldplay",9
+"2008-08","Damien Rice",4
+"2008-08","James Blunt",11
+"2008-08","Josh Groban",6
+"2008-08","Kylie Minogue",12
+"2008-08","Lenny Kravitz",12
+"2008-08","Lifehouse",9
+"2008-08","Liisi Koikson",12
+"2008-08","Moby",10
+"2008-08","Morrissey",7
+"2008-08","Norah Jones",1
+"2008-08","Robbie Williams",12
+"2008-08","Roxette",7
+"2008-08","Seal",4
+"2008-08","Terminaator",20
+"2008-08","The Beatles",8
+"2008-08","The Cure",7
+"2008-08","Tori Amos",15
+"2008-08","U2",5
+"2008-09","Bryan Adams",3
+"2008-09","Coldplay",6
+"2008-09","Damien Rice",2
+"2008-09","James Blunt",1
+"2008-09","Josh Groban",3
+"2008-09","Kylie Minogue",2
+"2008-09","Lenny Kravitz",5
+"2008-09","Lifehouse",9
+"2008-09","Liisi Koikson",9
+"2008-09","Moby",5
+"2008-09","Morrissey",2
+"2008-09","Norah Jones",1
+"2008-09","Robbie Williams",2
+"2008-09","Roxette",4
+"2008-09","Seal",3
+"2008-09","Terminaator",2
+"2008-09","The Beatles",4
+"2008-09","The Cure",1
+"2008-09","Tori Amos",6
+"2008-09","U2",2
+"2008-10","Bryan Adams",1
+"2008-10","Coldplay",0
+"2008-10","Damien Rice",0
+"2008-10","James Blunt",0
+"2008-10","Josh Groban",0
+"2008-10","Kylie Minogue",1
+"2008-10","Lenny Kravitz",2
+"2008-10","Lifehouse",0
+"2008-10","Liisi Koikson",1
+"2008-10","Moby",0
+"2008-10","Morrissey",0
+"2008-10","Norah Jones",1
+"2008-10","Robbie Williams",1
+"2008-10","Roxette",0
+"2008-10","Seal",0
+"2008-10","Terminaator",2
+"2008-10","The Beatles",1
+"2008-10","The Cure",0
+"2008-10","Tori Amos",1
+"2008-10","U2",0
+"2008-11","Bryan Adams",0
+"2008-11","Coldplay",0
+"2008-11","Damien Rice",0
+"2008-11","James Blunt",0
+"2008-11","Josh Groban",0
+"2008-11","Kylie Minogue",0
+"2008-11","Lenny Kravitz",0
+"2008-11","Lifehouse",0
+"2008-11","Liisi Koikson",0
+"2008-11","Moby",0
+"2008-11","Morrissey",0
+"2008-11","Norah Jones",0
+"2008-11","Robbie Williams",0
+"2008-11","Roxette",0
+"2008-11","Seal",0
+"2008-11","Terminaator",0
+"2008-11","The Beatles",0
+"2008-11","The Cure",0
+"2008-11","Tori Amos",0
+"2008-11","U2",0
+"2008-12","Bryan Adams",0
+"2008-12","Coldplay",0
+"2008-12","Damien Rice",0
+"2008-12","James Blunt",0
+"2008-12","Josh Groban",0
+"2008-12","Kylie Minogue",0
+"2008-12","Lenny Kravitz",0
+"2008-12","Lifehouse",0
+"2008-12","Liisi Koikson",0
+"2008-12","Moby",0
+"2008-12","Morrissey",0
+"2008-12","Norah Jones",0
+"2008-12","Robbie Williams",0
+"2008-12","Roxette",0
+"2008-12","Seal",0
+"2008-12","Terminaator",0
+"2008-12","The Beatles",0
+"2008-12","The Cure",0
+"2008-12","Tori Amos",0
+"2008-12","U2",0
+"2009-01","Bryan Adams",0
+"2009-01","Coldplay",0
+"2009-01","Damien Rice",0
+"2009-01","James Blunt",0
+"2009-01","Josh Groban",0
+"2009-01","Kylie Minogue",0
+"2009-01","Lenny Kravitz",0
+"2009-01","Lifehouse",0
+"2009-01","Liisi Koikson",0
+"2009-01","Moby",0
+"2009-01","Morrissey",0
+"2009-01","Norah Jones",0
+"2009-01","Robbie Williams",0
+"2009-01","Roxette",0
+"2009-01","Seal",0
+"2009-01","Terminaator",0
+"2009-01","The Beatles",0
+"2009-01","The Cure",0
+"2009-01","Tori Amos",0
+"2009-01","U2",0
+"2009-02","Bryan Adams",0
+"2009-02","Coldplay",0
+"2009-02","Damien Rice",0
+"2009-02","James Blunt",0
+"2009-02","Josh Groban",0
+"2009-02","Kylie Minogue",0
+"2009-02","Lenny Kravitz",0
+"2009-02","Lifehouse",0
+"2009-02","Liisi Koikson",0
+"2009-02","Moby",0
+"2009-02","Morrissey",0
+"2009-02","Norah Jones",0
+"2009-02","Robbie Williams",0
+"2009-02","Roxette",0
+"2009-02","Seal",0
+"2009-02","Terminaator",0
+"2009-02","The Beatles",0
+"2009-02","The Cure",0
+"2009-02","Tori Amos",0
+"2009-02","U2",0
+"2009-03","Bryan Adams",46
+"2009-03","Coldplay",27
+"2009-03","Damien Rice",12
+"2009-03","James Blunt",37
+"2009-03","Josh Groban",25
+"2009-03","Kylie Minogue",48
+"2009-03","Lenny Kravitz",82
+"2009-03","Lifehouse",28
+"2009-03","Liisi Koikson",74
+"2009-03","Moby",40
+"2009-03","Morrissey",17
+"2009-03","Norah Jones",28
+"2009-03","Robbie Williams",65
+"2009-03","Roxette",30
+"2009-03","Seal",21
+"2009-03","Terminaator",81
+"2009-03","The Beatles",56
+"2009-03","The Cure",46
+"2009-03","Tori Amos",66
+"2009-03","U2",35
+"2009-04","Bryan Adams",32
+"2009-04","Coldplay",30
+"2009-04","Damien Rice",8
+"2009-04","James Blunt",28
+"2009-04","Josh Groban",20
+"2009-04","Kylie Minogue",43
+"2009-04","Lenny Kravitz",65
+"2009-04","Lifehouse",28
+"2009-04","Liisi Koikson",65
+"2009-04","Moby",45
+"2009-04","Morrissey",14
+"2009-04","Norah Jones",34
+"2009-04","Robbie Williams",56
+"2009-04","Roxette",29
+"2009-04","Seal",23
+"2009-04","Terminaator",70
+"2009-04","The Beatles",54
+"2009-04","The Cure",41
+"2009-04","Tori Amos",71
+"2009-04","U2",35
+"2009-05","Bryan Adams",3
+"2009-05","Coldplay",3
+"2009-05","Damien Rice",2
+"2009-05","James Blunt",3
+"2009-05","Josh Groban",2
+"2009-05","Kylie Minogue",3
+"2009-05","Lenny Kravitz",6
+"2009-05","Lifehouse",2
+"2009-05","Liisi Koikson",5
+"2009-05","Moby",2
+"2009-05","Morrissey",1
+"2009-05","Norah Jones",2
+"2009-05","Robbie Williams",5
+"2009-05","Roxette",2
+"2009-05","Seal",2
+"2009-05","Terminaator",3
+"2009-05","The Beatles",3
+"2009-05","The Cure",2
+"2009-05","Tori Amos",7
+"2009-05","U2",4

@@ -1,41 +1,41 @@
-month,artist,plays
-2007-03,Anberlin,0
-2007-03,Andrew Bird,1
-2007-03,Audioslave,1
-2007-03,Barenaked Ladies,1
-2007-03,Beck,1
-2007-03,Ben Folds,1
-2007-03,Ben Folds Five,1
-2007-03,Bob Dylan,1
-2007-03,Cake,2
-2007-03,Counting Crows,1
-2007-03,Dashboard Confessional,1
-2007-03,Dave Matthews Band,1
-2007-03,David Bowie,1
-2007-03,Del Amitri,1
-2007-03,Dido,1
-2007-03,Don Mclean,1
-2007-03,Elton John,1
-2007-03,Feist,1
-2007-03,Flowers From The Man Who Shot Your Cousin,1
-2007-03,Foo Fighters,1
-2007-04,Anberlin,1
-2007-04,Andrew Bird,0
-2007-04,Audioslave,0
-2007-04,Barenaked Ladies,0
-2007-04,Beck,0
-2007-04,Ben Folds,0
-2007-04,Ben Folds Five,0
-2007-04,Bob Dylan,0
-2007-04,Cake,0
-2007-04,Counting Crows,0
-2007-04,Dashboard Confessional,0
-2007-04,Dave Matthews Band,0
-2007-04,David Bowie,0
-2007-04,Del Amitri,0
-2007-04,Dido,0
-2007-04,Don Mclean,0
-2007-04,Elton John,0
-2007-04,Feist,0
-2007-04,Flowers From The Man Who Shot Your Cousin,0
-2007-04,Foo Fighters,0
+"month","artist","plays"
+"2007-03","Anberlin",0
+"2007-03","Andrew Bird",1
+"2007-03","Audioslave",1
+"2007-03","Barenaked Ladies",1
+"2007-03","Beck",1
+"2007-03","Ben Folds",1
+"2007-03","Ben Folds Five",1
+"2007-03","Bob Dylan",1
+"2007-03","Cake",2
+"2007-03","Counting Crows",1
+"2007-03","Dashboard Confessional",1
+"2007-03","Dave Matthews Band",1
+"2007-03","David Bowie",1
+"2007-03","Del Amitri",1
+"2007-03","Dido",1
+"2007-03","Don Mclean",1
+"2007-03","Elton John",1
+"2007-03","Feist",1
+"2007-03","Flowers From The Man Who Shot Your Cousin",1
+"2007-03","Foo Fighters",1
+"2007-04","Anberlin",1
+"2007-04","Andrew Bird",0
+"2007-04","Audioslave",0
+"2007-04","Barenaked Ladies",0
+"2007-04","Beck",0
+"2007-04","Ben Folds",0
+"2007-04","Ben Folds Five",0
+"2007-04","Bob Dylan",0
+"2007-04","Cake",0
+"2007-04","Counting Crows",0
+"2007-04","Dashboard Confessional",0
+"2007-04","Dave Matthews Band",0
+"2007-04","David Bowie",0
+"2007-04","Del Amitri",0
+"2007-04","Dido",0
+"2007-04","Don Mclean",0
+"2007-04","Elton John",0
+"2007-04","Feist",0
+"2007-04","Flowers From The Man Who Shot Your Cousin",0
+"2007-04","Foo Fighters",0

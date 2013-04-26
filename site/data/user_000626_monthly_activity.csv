@@ -1,101 +1,101 @@
-month,artist,plays
-2008-12,883,2
-2008-12,Ac/Dc,1
-2008-12,Adam Green,2
-2008-12,Albert Hammond, Jr.,1
-2008-12,Amy Winehouse,3
-2008-12,Arctic Monkeys,7
-2008-12,Asia,1
-2008-12,Billy Mack,4
-2008-12,Black Kids,6
-2008-12,Bloc Party,8
-2008-12,Brand New,15
-2008-12,Bright Eyes,1
-2008-12,Bruce Springsteen,1
-2008-12,Cass Elliot,1
-2008-12,Celtas Cortos,2
-2008-12,Chris Cornell,2
-2008-12,Coldplay,6
-2008-12,Counting Crows,1
-2008-12,Daft Punk,1
-2008-12,Damien Rice,6
-2009-01,883,1
-2009-01,Ac/Dc,2
-2009-01,Adam Green,2
-2009-01,Albert Hammond, Jr.,1
-2009-01,Amy Winehouse,2
-2009-01,Arctic Monkeys,9
-2009-01,Asia,1
-2009-01,Billy Mack,2
-2009-01,Black Kids,6
-2009-01,Bloc Party,18
-2009-01,Brand New,11
-2009-01,Bright Eyes,6
-2009-01,Bruce Springsteen,2
-2009-01,Cass Elliot,1
-2009-01,Celtas Cortos,3
-2009-01,Chris Cornell,1
-2009-01,Coldplay,9
-2009-01,Counting Crows,2
-2009-01,Daft Punk,3
-2009-01,Damien Rice,11
-2009-02,883,1
-2009-02,Ac/Dc,1
-2009-02,Adam Green,3
-2009-02,Albert Hammond, Jr.,2
-2009-02,Amy Winehouse,5
-2009-02,Arctic Monkeys,12
-2009-02,Asia,1
-2009-02,Billy Mack,1
-2009-02,Black Kids,4
-2009-02,Bloc Party,10
-2009-02,Brand New,11
-2009-02,Bright Eyes,4
-2009-02,Bruce Springsteen,2
-2009-02,Cass Elliot,2
-2009-02,Celtas Cortos,2
-2009-02,Chris Cornell,4
-2009-02,Coldplay,9
-2009-02,Counting Crows,3
-2009-02,Daft Punk,4
-2009-02,Damien Rice,14
-2009-03,883,1
-2009-03,Ac/Dc,1
-2009-03,Adam Green,4
-2009-03,Albert Hammond, Jr.,1
-2009-03,Amy Winehouse,6
-2009-03,Arctic Monkeys,8
-2009-03,Asia,2
-2009-03,Billy Mack,1
-2009-03,Black Kids,10
-2009-03,Bloc Party,11
-2009-03,Brand New,9
-2009-03,Bright Eyes,2
-2009-03,Bruce Springsteen,2
-2009-03,Cass Elliot,1
-2009-03,Celtas Cortos,1
-2009-03,Chris Cornell,3
-2009-03,Coldplay,8
-2009-03,Counting Crows,1
-2009-03,Daft Punk,2
-2009-03,Damien Rice,19
-2009-04,883,2
-2009-04,Ac/Dc,2
-2009-04,Adam Green,4
-2009-04,Albert Hammond, Jr.,2
-2009-04,Amy Winehouse,7
-2009-04,Arctic Monkeys,28
-2009-04,Asia,4
-2009-04,Billy Mack,1
-2009-04,Black Kids,18
-2009-04,Bloc Party,14
-2009-04,Brand New,14
-2009-04,Bright Eyes,5
-2009-04,Bruce Springsteen,3
-2009-04,Cass Elliot,2
-2009-04,Celtas Cortos,2
-2009-04,Chris Cornell,2
-2009-04,Coldplay,7
-2009-04,Counting Crows,4
-2009-04,Daft Punk,3
-2009-04,Damien Rice,6
+"month","artist","plays"
+"2008-12","883",2
+"2008-12","Ac/Dc",1
+"2008-12","Adam Green",2
+"2008-12","Albert Hammond, Jr.",1
+"2008-12","Amy Winehouse",3
+"2008-12","Arctic Monkeys",7
+"2008-12","Asia",1
+"2008-12","Billy Mack",4
+"2008-12","Black Kids",6
+"2008-12","Bloc Party",8
+"2008-12","Brand New",15
+"2008-12","Bright Eyes",1
+"2008-12","Bruce Springsteen",1
+"2008-12","Cass Elliot",1
+"2008-12","Celtas Cortos",2
+"2008-12","Chris Cornell",2
+"2008-12","Coldplay",6
+"2008-12","Counting Crows",1
+"2008-12","Daft Punk",1
+"2008-12","Damien Rice",6
+"2009-01","883",1
+"2009-01","Ac/Dc",2
+"2009-01","Adam Green",2
+"2009-01","Albert Hammond, Jr.",1
+"2009-01","Amy Winehouse",2
+"2009-01","Arctic Monkeys",9
+"2009-01","Asia",1
+"2009-01","Billy Mack",2
+"2009-01","Black Kids",6
+"2009-01","Bloc Party",18
+"2009-01","Brand New",11
+"2009-01","Bright Eyes",6
+"2009-01","Bruce Springsteen",2
+"2009-01","Cass Elliot",1
+"2009-01","Celtas Cortos",3
+"2009-01","Chris Cornell",1
+"2009-01","Coldplay",9
+"2009-01","Counting Crows",2
+"2009-01","Daft Punk",3
+"2009-01","Damien Rice",11
+"2009-02","883",1
+"2009-02","Ac/Dc",1
+"2009-02","Adam Green",3
+"2009-02","Albert Hammond, Jr.",2
+"2009-02","Amy Winehouse",5
+"2009-02","Arctic Monkeys",12
+"2009-02","Asia",1
+"2009-02","Billy Mack",1
+"2009-02","Black Kids",4
+"2009-02","Bloc Party",10
+"2009-02","Brand New",11
+"2009-02","Bright Eyes",4
+"2009-02","Bruce Springsteen",2
+"2009-02","Cass Elliot",2
+"2009-02","Celtas Cortos",2
+"2009-02","Chris Cornell",4
+"2009-02","Coldplay",9
+"2009-02","Counting Crows",3
+"2009-02","Daft Punk",4
+"2009-02","Damien Rice",14
+"2009-03","883",1
+"2009-03","Ac/Dc",1
+"2009-03","Adam Green",4
+"2009-03","Albert Hammond, Jr.",1
+"2009-03","Amy Winehouse",6
+"2009-03","Arctic Monkeys",8
+"2009-03","Asia",2
+"2009-03","Billy Mack",1
+"2009-03","Black Kids",10
+"2009-03","Bloc Party",11
+"2009-03","Brand New",9
+"2009-03","Bright Eyes",2
+"2009-03","Bruce Springsteen",2
+"2009-03","Cass Elliot",1
+"2009-03","Celtas Cortos",1
+"2009-03","Chris Cornell",3
+"2009-03","Coldplay",8
+"2009-03","Counting Crows",1
+"2009-03","Daft Punk",2
+"2009-03","Damien Rice",19
+"2009-04","883",2
+"2009-04","Ac/Dc",2
+"2009-04","Adam Green",4
+"2009-04","Albert Hammond, Jr.",2
+"2009-04","Amy Winehouse",7
+"2009-04","Arctic Monkeys",28
+"2009-04","Asia",4
+"2009-04","Billy Mack",1
+"2009-04","Black Kids",18
+"2009-04","Bloc Party",14
+"2009-04","Brand New",14
+"2009-04","Bright Eyes",5
+"2009-04","Bruce Springsteen",3
+"2009-04","Cass Elliot",2
+"2009-04","Celtas Cortos",2
+"2009-04","Chris Cornell",2
+"2009-04","Coldplay",7
+"2009-04","Counting Crows",4
+"2009-04","Daft Punk",3
+"2009-04","Damien Rice",6

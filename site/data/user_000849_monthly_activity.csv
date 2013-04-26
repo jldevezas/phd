@@ -1,561 +1,561 @@
-month,artist,plays
-2006-08,3 Doors Down,1
-2006-08,Audioslave,1
-2006-08,Cold,0
-2006-08,Creed,0
-2006-08,Def Leppard,0
-2006-08,Default,0
-2006-08,Evanescence,2
-2006-08,Fall Out Boy,3
-2006-08,Foo Fighters,0
-2006-08,Funeral For A Friend,1
-2006-08,Guns N' Roses,1
-2006-08,Megadeth,0
-2006-08,Metallica,0
-2006-08,Nickelback,0
-2006-08,Oasis,0
-2006-08,Razorlight,0
-2006-08,Stereophonics,0
-2006-08,The Ataris,1
-2006-08,The Goo Goo Dolls,26
-2006-08,U2,0
-2006-09,3 Doors Down,1
-2006-09,Audioslave,12
-2006-09,Cold,0
-2006-09,Creed,0
-2006-09,Def Leppard,0
-2006-09,Default,0
-2006-09,Evanescence,3
-2006-09,Fall Out Boy,12
-2006-09,Foo Fighters,0
-2006-09,Funeral For A Friend,0
-2006-09,Guns N' Roses,0
-2006-09,Megadeth,0
-2006-09,Metallica,41
-2006-09,Nickelback,0
-2006-09,Oasis,0
-2006-09,Razorlight,10
-2006-09,Stereophonics,0
-2006-09,The Ataris,13
-2006-09,The Goo Goo Dolls,73
-2006-09,U2,4
-2006-10,3 Doors Down,17
-2006-10,Audioslave,25
-2006-10,Cold,0
-2006-10,Creed,13
-2006-10,Def Leppard,0
-2006-10,Default,0
-2006-10,Evanescence,46
-2006-10,Fall Out Boy,20
-2006-10,Foo Fighters,0
-2006-10,Funeral For A Friend,7
-2006-10,Guns N' Roses,8
-2006-10,Megadeth,0
-2006-10,Metallica,18
-2006-10,Nickelback,6
-2006-10,Oasis,0
-2006-10,Razorlight,32
-2006-10,Stereophonics,1
-2006-10,The Ataris,1
-2006-10,The Goo Goo Dolls,66
-2006-10,U2,2
-2006-11,3 Doors Down,1
-2006-11,Audioslave,42
-2006-11,Cold,0
-2006-11,Creed,0
-2006-11,Def Leppard,30
-2006-11,Default,0
-2006-11,Evanescence,1
-2006-11,Fall Out Boy,1
-2006-11,Foo Fighters,0
-2006-11,Funeral For A Friend,10
-2006-11,Guns N' Roses,0
-2006-11,Megadeth,0
-2006-11,Metallica,1
-2006-11,Nickelback,2
-2006-11,Oasis,1
-2006-11,Razorlight,3
-2006-11,Stereophonics,16
-2006-11,The Ataris,0
-2006-11,The Goo Goo Dolls,73
-2006-11,U2,14
-2006-12,3 Doors Down,27
-2006-12,Audioslave,57
-2006-12,Cold,35
-2006-12,Creed,34
-2006-12,Def Leppard,0
-2006-12,Default,34
-2006-12,Evanescence,17
-2006-12,Fall Out Boy,18
-2006-12,Foo Fighters,20
-2006-12,Funeral For A Friend,2
-2006-12,Guns N' Roses,32
-2006-12,Megadeth,28
-2006-12,Metallica,53
-2006-12,Nickelback,22
-2006-12,Oasis,44
-2006-12,Razorlight,15
-2006-12,Stereophonics,27
-2006-12,The Ataris,36
-2006-12,The Goo Goo Dolls,35
-2006-12,U2,25
-2007-01,3 Doors Down,14
-2007-01,Audioslave,25
-2007-01,Cold,14
-2007-01,Creed,16
-2007-01,Def Leppard,47
-2007-01,Default,15
-2007-01,Evanescence,14
-2007-01,Fall Out Boy,0
-2007-01,Foo Fighters,1
-2007-01,Funeral For A Friend,0
-2007-01,Guns N' Roses,13
-2007-01,Megadeth,3
-2007-01,Metallica,13
-2007-01,Nickelback,11
-2007-01,Oasis,3
-2007-01,Razorlight,33
-2007-01,Stereophonics,16
-2007-01,The Ataris,2
-2007-01,The Goo Goo Dolls,14
-2007-01,U2,16
-2007-02,3 Doors Down,2
-2007-02,Audioslave,4
-2007-02,Cold,1
-2007-02,Creed,1
-2007-02,Def Leppard,24
-2007-02,Default,1
-2007-02,Evanescence,14
-2007-02,Fall Out Boy,129
-2007-02,Foo Fighters,1
-2007-02,Funeral For A Friend,1
-2007-02,Guns N' Roses,2
-2007-02,Megadeth,2
-2007-02,Metallica,26
-2007-02,Nickelback,1
-2007-02,Oasis,15
-2007-02,Razorlight,11
-2007-02,Stereophonics,1
-2007-02,The Ataris,2
-2007-02,The Goo Goo Dolls,11
-2007-02,U2,26
-2007-03,3 Doors Down,18
-2007-03,Audioslave,2
-2007-03,Cold,8
-2007-03,Creed,8
-2007-03,Def Leppard,6
-2007-03,Default,10
-2007-03,Evanescence,6
-2007-03,Fall Out Boy,4
-2007-03,Foo Fighters,2
-2007-03,Funeral For A Friend,0
-2007-03,Guns N' Roses,18
-2007-03,Megadeth,5
-2007-03,Metallica,5
-2007-03,Nickelback,2
-2007-03,Oasis,6
-2007-03,Razorlight,16
-2007-03,Stereophonics,3
-2007-03,The Ataris,6
-2007-03,The Goo Goo Dolls,0
-2007-03,U2,7
-2007-04,3 Doors Down,4
-2007-04,Audioslave,5
-2007-04,Cold,15
-2007-04,Creed,13
-2007-04,Def Leppard,8
-2007-04,Default,29
-2007-04,Evanescence,16
-2007-04,Fall Out Boy,16
-2007-04,Foo Fighters,2
-2007-04,Funeral For A Friend,0
-2007-04,Guns N' Roses,10
-2007-04,Megadeth,1
-2007-04,Metallica,42
-2007-04,Nickelback,1
-2007-04,Oasis,28
-2007-04,Razorlight,28
-2007-04,Stereophonics,4
-2007-04,The Ataris,2
-2007-04,The Goo Goo Dolls,0
-2007-04,U2,10
-2007-05,3 Doors Down,5
-2007-05,Audioslave,20
-2007-05,Cold,1
-2007-05,Creed,27
-2007-05,Def Leppard,7
-2007-05,Default,14
-2007-05,Evanescence,28
-2007-05,Fall Out Boy,18
-2007-05,Foo Fighters,2
-2007-05,Funeral For A Friend,125
-2007-05,Guns N' Roses,9
-2007-05,Megadeth,39
-2007-05,Metallica,31
-2007-05,Nickelback,3
-2007-05,Oasis,7
-2007-05,Razorlight,13
-2007-05,Stereophonics,2
-2007-05,The Ataris,3
-2007-05,The Goo Goo Dolls,0
-2007-05,U2,10
-2007-06,3 Doors Down,57
-2007-06,Audioslave,0
-2007-06,Cold,40
-2007-06,Creed,18
-2007-06,Def Leppard,15
-2007-06,Default,12
-2007-06,Evanescence,0
-2007-06,Fall Out Boy,20
-2007-06,Foo Fighters,1
-2007-06,Funeral For A Friend,42
-2007-06,Guns N' Roses,3
-2007-06,Megadeth,17
-2007-06,Metallica,1
-2007-06,Nickelback,2
-2007-06,Oasis,1
-2007-06,Razorlight,46
-2007-06,Stereophonics,3
-2007-06,The Ataris,15
-2007-06,The Goo Goo Dolls,0
-2007-06,U2,4
-2007-07,3 Doors Down,16
-2007-07,Audioslave,15
-2007-07,Cold,8
-2007-07,Creed,25
-2007-07,Def Leppard,17
-2007-07,Default,5
-2007-07,Evanescence,18
-2007-07,Fall Out Boy,15
-2007-07,Foo Fighters,6
-2007-07,Funeral For A Friend,50
-2007-07,Guns N' Roses,38
-2007-07,Megadeth,20
-2007-07,Metallica,28
-2007-07,Nickelback,26
-2007-07,Oasis,65
-2007-07,Razorlight,18
-2007-07,Stereophonics,5
-2007-07,The Ataris,5
-2007-07,The Goo Goo Dolls,0
-2007-07,U2,48
-2007-08,3 Doors Down,2
-2007-08,Audioslave,1
-2007-08,Cold,2
-2007-08,Creed,3
-2007-08,Def Leppard,3
-2007-08,Default,1
-2007-08,Evanescence,0
-2007-08,Fall Out Boy,0
-2007-08,Foo Fighters,3
-2007-08,Funeral For A Friend,2
-2007-08,Guns N' Roses,5
-2007-08,Megadeth,4
-2007-08,Metallica,1
-2007-08,Nickelback,0
-2007-08,Oasis,4
-2007-08,Razorlight,1
-2007-08,Stereophonics,0
-2007-08,The Ataris,1
-2007-08,The Goo Goo Dolls,0
-2007-08,U2,1
-2007-09,3 Doors Down,42
-2007-09,Audioslave,8
-2007-09,Cold,24
-2007-09,Creed,53
-2007-09,Def Leppard,47
-2007-09,Default,16
-2007-09,Evanescence,8
-2007-09,Fall Out Boy,0
-2007-09,Foo Fighters,14
-2007-09,Funeral For A Friend,12
-2007-09,Guns N' Roses,86
-2007-09,Megadeth,16
-2007-09,Metallica,11
-2007-09,Nickelback,5
-2007-09,Oasis,15
-2007-09,Razorlight,19
-2007-09,Stereophonics,9
-2007-09,The Ataris,10
-2007-09,The Goo Goo Dolls,67
-2007-09,U2,9
-2007-10,3 Doors Down,11
-2007-10,Audioslave,4
-2007-10,Cold,14
-2007-10,Creed,46
-2007-10,Def Leppard,44
-2007-10,Default,15
-2007-10,Evanescence,16
-2007-10,Fall Out Boy,4
-2007-10,Foo Fighters,17
-2007-10,Funeral For A Friend,26
-2007-10,Guns N' Roses,21
-2007-10,Megadeth,36
-2007-10,Metallica,21
-2007-10,Nickelback,1
-2007-10,Oasis,11
-2007-10,Razorlight,37
-2007-10,Stereophonics,16
-2007-10,The Ataris,12
-2007-10,The Goo Goo Dolls,101
-2007-10,U2,15
-2007-11,3 Doors Down,6
-2007-11,Audioslave,15
-2007-11,Cold,37
-2007-11,Creed,2
-2007-11,Def Leppard,3
-2007-11,Default,1
-2007-11,Evanescence,2
-2007-11,Fall Out Boy,20
-2007-11,Foo Fighters,3
-2007-11,Funeral For A Friend,91
-2007-11,Guns N' Roses,4
-2007-11,Megadeth,4
-2007-11,Metallica,3
-2007-11,Nickelback,1
-2007-11,Oasis,2
-2007-11,Razorlight,2
-2007-11,Stereophonics,80
-2007-11,The Ataris,2
-2007-11,The Goo Goo Dolls,181
-2007-11,U2,3
-2007-12,3 Doors Down,0
-2007-12,Audioslave,0
-2007-12,Cold,0
-2007-12,Creed,23
-2007-12,Def Leppard,0
-2007-12,Default,11
-2007-12,Evanescence,13
-2007-12,Fall Out Boy,19
-2007-12,Foo Fighters,27
-2007-12,Funeral For A Friend,33
-2007-12,Guns N' Roses,0
-2007-12,Megadeth,0
-2007-12,Metallica,0
-2007-12,Nickelback,0
-2007-12,Oasis,0
-2007-12,Razorlight,0
-2007-12,Stereophonics,24
-2007-12,The Ataris,0
-2007-12,The Goo Goo Dolls,12
-2007-12,U2,0
-2008-01,3 Doors Down,0
-2008-01,Audioslave,0
-2008-01,Cold,0
-2008-01,Creed,0
-2008-01,Def Leppard,87
-2008-01,Default,11
-2008-01,Evanescence,13
-2008-01,Fall Out Boy,19
-2008-01,Foo Fighters,0
-2008-01,Funeral For A Friend,44
-2008-01,Guns N' Roses,0
-2008-01,Megadeth,0
-2008-01,Metallica,0
-2008-01,Nickelback,11
-2008-01,Oasis,0
-2008-01,Razorlight,0
-2008-01,Stereophonics,0
-2008-01,The Ataris,0
-2008-01,The Goo Goo Dolls,0
-2008-01,U2,0
-2008-02,3 Doors Down,0
-2008-02,Audioslave,0
-2008-02,Cold,11
-2008-02,Creed,0
-2008-02,Def Leppard,37
-2008-02,Default,0
-2008-02,Evanescence,0
-2008-02,Fall Out Boy,15
-2008-02,Foo Fighters,0
-2008-02,Funeral For A Friend,0
-2008-02,Guns N' Roses,0
-2008-02,Megadeth,0
-2008-02,Metallica,0
-2008-02,Nickelback,13
-2008-02,Oasis,0
-2008-02,Razorlight,0
-2008-02,Stereophonics,0
-2008-02,The Ataris,0
-2008-02,The Goo Goo Dolls,12
-2008-02,U2,0
-2008-03,3 Doors Down,2
-2008-03,Audioslave,0
-2008-03,Cold,13
-2008-03,Creed,3
-2008-03,Def Leppard,21
-2008-03,Default,1
-2008-03,Evanescence,0
-2008-03,Fall Out Boy,3
-2008-03,Foo Fighters,1
-2008-03,Funeral For A Friend,42
-2008-03,Guns N' Roses,10
-2008-03,Megadeth,2
-2008-03,Metallica,0
-2008-03,Nickelback,1
-2008-03,Oasis,5
-2008-03,Razorlight,37
-2008-03,Stereophonics,2
-2008-03,The Ataris,3
-2008-03,The Goo Goo Dolls,7
-2008-03,U2,3
-2008-04,3 Doors Down,0
-2008-04,Audioslave,0
-2008-04,Cold,0
-2008-04,Creed,0
-2008-04,Def Leppard,0
-2008-04,Default,0
-2008-04,Evanescence,0
-2008-04,Fall Out Boy,0
-2008-04,Foo Fighters,0
-2008-04,Funeral For A Friend,0
-2008-04,Guns N' Roses,0
-2008-04,Megadeth,0
-2008-04,Metallica,0
-2008-04,Nickelback,0
-2008-04,Oasis,0
-2008-04,Razorlight,0
-2008-04,Stereophonics,0
-2008-04,The Ataris,0
-2008-04,The Goo Goo Dolls,0
-2008-04,U2,0
-2008-05,3 Doors Down,0
-2008-05,Audioslave,4
-2008-05,Cold,0
-2008-05,Creed,2
-2008-05,Def Leppard,0
-2008-05,Default,4
-2008-05,Evanescence,0
-2008-05,Fall Out Boy,21
-2008-05,Foo Fighters,26
-2008-05,Funeral For A Friend,3
-2008-05,Guns N' Roses,0
-2008-05,Megadeth,15
-2008-05,Metallica,0
-2008-05,Nickelback,1
-2008-05,Oasis,0
-2008-05,Razorlight,7
-2008-05,Stereophonics,26
-2008-05,The Ataris,0
-2008-05,The Goo Goo Dolls,6
-2008-05,U2,0
-2008-06,3 Doors Down,0
-2008-06,Audioslave,42
-2008-06,Cold,0
-2008-06,Creed,34
-2008-06,Def Leppard,0
-2008-06,Default,0
-2008-06,Evanescence,0
-2008-06,Fall Out Boy,0
-2008-06,Foo Fighters,0
-2008-06,Funeral For A Friend,0
-2008-06,Guns N' Roses,0
-2008-06,Megadeth,0
-2008-06,Metallica,0
-2008-06,Nickelback,13
-2008-06,Oasis,0
-2008-06,Razorlight,0
-2008-06,Stereophonics,0
-2008-06,The Ataris,0
-2008-06,The Goo Goo Dolls,306
-2008-06,U2,0
-2008-07,3 Doors Down,268
-2008-07,Audioslave,0
-2008-07,Cold,11
-2008-07,Creed,0
-2008-07,Def Leppard,12
-2008-07,Default,0
-2008-07,Evanescence,0
-2008-07,Fall Out Boy,0
-2008-07,Foo Fighters,0
-2008-07,Funeral For A Friend,0
-2008-07,Guns N' Roses,0
-2008-07,Megadeth,0
-2008-07,Metallica,0
-2008-07,Nickelback,3
-2008-07,Oasis,0
-2008-07,Razorlight,40
-2008-07,Stereophonics,24
-2008-07,The Ataris,0
-2008-07,The Goo Goo Dolls,98
-2008-07,U2,0
-2008-08,3 Doors Down,0
-2008-08,Audioslave,0
-2008-08,Cold,0
-2008-08,Creed,1
-2008-08,Def Leppard,0
-2008-08,Default,0
-2008-08,Evanescence,0
-2008-08,Fall Out Boy,0
-2008-08,Foo Fighters,0
-2008-08,Funeral For A Friend,0
-2008-08,Guns N' Roses,0
-2008-08,Megadeth,1
-2008-08,Metallica,0
-2008-08,Nickelback,3
-2008-08,Oasis,1
-2008-08,Razorlight,0
-2008-08,Stereophonics,1
-2008-08,The Ataris,1
-2008-08,The Goo Goo Dolls,0
-2008-08,U2,0
-2008-09,3 Doors Down,29
-2008-09,Audioslave,0
-2008-09,Cold,0
-2008-09,Creed,0
-2008-09,Def Leppard,0
-2008-09,Default,0
-2008-09,Evanescence,0
-2008-09,Fall Out Boy,0
-2008-09,Foo Fighters,0
-2008-09,Funeral For A Friend,0
-2008-09,Guns N' Roses,0
-2008-09,Megadeth,0
-2008-09,Metallica,0
-2008-09,Nickelback,1
-2008-09,Oasis,0
-2008-09,Razorlight,0
-2008-09,Stereophonics,12
-2008-09,The Ataris,0
-2008-09,The Goo Goo Dolls,0
-2008-09,U2,0
-2008-10,3 Doors Down,0
-2008-10,Audioslave,0
-2008-10,Cold,0
-2008-10,Creed,0
-2008-10,Def Leppard,0
-2008-10,Default,0
-2008-10,Evanescence,0
-2008-10,Fall Out Boy,0
-2008-10,Foo Fighters,0
-2008-10,Funeral For A Friend,0
-2008-10,Guns N' Roses,0
-2008-10,Megadeth,0
-2008-10,Metallica,0
-2008-10,Nickelback,0
-2008-10,Oasis,0
-2008-10,Razorlight,0
-2008-10,Stereophonics,0
-2008-10,The Ataris,0
-2008-10,The Goo Goo Dolls,0
-2008-10,U2,0
-2008-11,3 Doors Down,0
-2008-11,Audioslave,0
-2008-11,Cold,0
-2008-11,Creed,0
-2008-11,Def Leppard,0
-2008-11,Default,0
-2008-11,Evanescence,0
-2008-11,Fall Out Boy,0
-2008-11,Foo Fighters,0
-2008-11,Funeral For A Friend,41
-2008-11,Guns N' Roses,0
-2008-11,Megadeth,0
-2008-11,Metallica,0
-2008-11,Nickelback,0
-2008-11,Oasis,0
-2008-11,Razorlight,0
-2008-11,Stereophonics,0
-2008-11,The Ataris,0
-2008-11,The Goo Goo Dolls,0
-2008-11,U2,0
+"month","artist","plays"
+"2006-08","3 Doors Down",1
+"2006-08","Audioslave",1
+"2006-08","Cold",0
+"2006-08","Creed",0
+"2006-08","Def Leppard",0
+"2006-08","Default",0
+"2006-08","Evanescence",2
+"2006-08","Fall Out Boy",3
+"2006-08","Foo Fighters",0
+"2006-08","Funeral For A Friend",1
+"2006-08","Guns N' Roses",1
+"2006-08","Megadeth",0
+"2006-08","Metallica",0
+"2006-08","Nickelback",0
+"2006-08","Oasis",0
+"2006-08","Razorlight",0
+"2006-08","Stereophonics",0
+"2006-08","The Ataris",1
+"2006-08","The Goo Goo Dolls",26
+"2006-08","U2",0
+"2006-09","3 Doors Down",1
+"2006-09","Audioslave",12
+"2006-09","Cold",0
+"2006-09","Creed",0
+"2006-09","Def Leppard",0
+"2006-09","Default",0
+"2006-09","Evanescence",3
+"2006-09","Fall Out Boy",12
+"2006-09","Foo Fighters",0
+"2006-09","Funeral For A Friend",0
+"2006-09","Guns N' Roses",0
+"2006-09","Megadeth",0
+"2006-09","Metallica",41
+"2006-09","Nickelback",0
+"2006-09","Oasis",0
+"2006-09","Razorlight",10
+"2006-09","Stereophonics",0
+"2006-09","The Ataris",13
+"2006-09","The Goo Goo Dolls",73
+"2006-09","U2",4
+"2006-10","3 Doors Down",17
+"2006-10","Audioslave",25
+"2006-10","Cold",0
+"2006-10","Creed",13
+"2006-10","Def Leppard",0
+"2006-10","Default",0
+"2006-10","Evanescence",46
+"2006-10","Fall Out Boy",20
+"2006-10","Foo Fighters",0
+"2006-10","Funeral For A Friend",7
+"2006-10","Guns N' Roses",8
+"2006-10","Megadeth",0
+"2006-10","Metallica",18
+"2006-10","Nickelback",6
+"2006-10","Oasis",0
+"2006-10","Razorlight",32
+"2006-10","Stereophonics",1
+"2006-10","The Ataris",1
+"2006-10","The Goo Goo Dolls",66
+"2006-10","U2",2
+"2006-11","3 Doors Down",1
+"2006-11","Audioslave",42
+"2006-11","Cold",0
+"2006-11","Creed",0
+"2006-11","Def Leppard",30
+"2006-11","Default",0
+"2006-11","Evanescence",1
+"2006-11","Fall Out Boy",1
+"2006-11","Foo Fighters",0
+"2006-11","Funeral For A Friend",10
+"2006-11","Guns N' Roses",0
+"2006-11","Megadeth",0
+"2006-11","Metallica",1
+"2006-11","Nickelback",2
+"2006-11","Oasis",1
+"2006-11","Razorlight",3
+"2006-11","Stereophonics",16
+"2006-11","The Ataris",0
+"2006-11","The Goo Goo Dolls",73
+"2006-11","U2",14
+"2006-12","3 Doors Down",27
+"2006-12","Audioslave",57
+"2006-12","Cold",35
+"2006-12","Creed",34
+"2006-12","Def Leppard",0
+"2006-12","Default",34
+"2006-12","Evanescence",17
+"2006-12","Fall Out Boy",18
+"2006-12","Foo Fighters",20
+"2006-12","Funeral For A Friend",2
+"2006-12","Guns N' Roses",32
+"2006-12","Megadeth",28
+"2006-12","Metallica",53
+"2006-12","Nickelback",22
+"2006-12","Oasis",44
+"2006-12","Razorlight",15
+"2006-12","Stereophonics",27
+"2006-12","The Ataris",36
+"2006-12","The Goo Goo Dolls",35
+"2006-12","U2",25
+"2007-01","3 Doors Down",14
+"2007-01","Audioslave",25
+"2007-01","Cold",14
+"2007-01","Creed",16
+"2007-01","Def Leppard",47
+"2007-01","Default",15
+"2007-01","Evanescence",14
+"2007-01","Fall Out Boy",0
+"2007-01","Foo Fighters",1
+"2007-01","Funeral For A Friend",0
+"2007-01","Guns N' Roses",13
+"2007-01","Megadeth",3
+"2007-01","Metallica",13
+"2007-01","Nickelback",11
+"2007-01","Oasis",3
+"2007-01","Razorlight",33
+"2007-01","Stereophonics",16
+"2007-01","The Ataris",2
+"2007-01","The Goo Goo Dolls",14
+"2007-01","U2",16
+"2007-02","3 Doors Down",2
+"2007-02","Audioslave",4
+"2007-02","Cold",1
+"2007-02","Creed",1
+"2007-02","Def Leppard",24
+"2007-02","Default",1
+"2007-02","Evanescence",14
+"2007-02","Fall Out Boy",129
+"2007-02","Foo Fighters",1
+"2007-02","Funeral For A Friend",1
+"2007-02","Guns N' Roses",2
+"2007-02","Megadeth",2
+"2007-02","Metallica",26
+"2007-02","Nickelback",1
+"2007-02","Oasis",15
+"2007-02","Razorlight",11
+"2007-02","Stereophonics",1
+"2007-02","The Ataris",2
+"2007-02","The Goo Goo Dolls",11
+"2007-02","U2",26
+"2007-03","3 Doors Down",18
+"2007-03","Audioslave",2
+"2007-03","Cold",8
+"2007-03","Creed",8
+"2007-03","Def Leppard",6
+"2007-03","Default",10
+"2007-03","Evanescence",6
+"2007-03","Fall Out Boy",4
+"2007-03","Foo Fighters",2
+"2007-03","Funeral For A Friend",0
+"2007-03","Guns N' Roses",18
+"2007-03","Megadeth",5
+"2007-03","Metallica",5
+"2007-03","Nickelback",2
+"2007-03","Oasis",6
+"2007-03","Razorlight",16
+"2007-03","Stereophonics",3
+"2007-03","The Ataris",6
+"2007-03","The Goo Goo Dolls",0
+"2007-03","U2",7
+"2007-04","3 Doors Down",4
+"2007-04","Audioslave",5
+"2007-04","Cold",15
+"2007-04","Creed",13
+"2007-04","Def Leppard",8
+"2007-04","Default",29
+"2007-04","Evanescence",16
+"2007-04","Fall Out Boy",16
+"2007-04","Foo Fighters",2
+"2007-04","Funeral For A Friend",0
+"2007-04","Guns N' Roses",10
+"2007-04","Megadeth",1
+"2007-04","Metallica",42
+"2007-04","Nickelback",1
+"2007-04","Oasis",28
+"2007-04","Razorlight",28
+"2007-04","Stereophonics",4
+"2007-04","The Ataris",2
+"2007-04","The Goo Goo Dolls",0
+"2007-04","U2",10
+"2007-05","3 Doors Down",5
+"2007-05","Audioslave",20
+"2007-05","Cold",1
+"2007-05","Creed",27
+"2007-05","Def Leppard",7
+"2007-05","Default",14
+"2007-05","Evanescence",28
+"2007-05","Fall Out Boy",18
+"2007-05","Foo Fighters",2
+"2007-05","Funeral For A Friend",125
+"2007-05","Guns N' Roses",9
+"2007-05","Megadeth",39
+"2007-05","Metallica",31
+"2007-05","Nickelback",3
+"2007-05","Oasis",7
+"2007-05","Razorlight",13
+"2007-05","Stereophonics",2
+"2007-05","The Ataris",3
+"2007-05","The Goo Goo Dolls",0
+"2007-05","U2",10
+"2007-06","3 Doors Down",57
+"2007-06","Audioslave",0
+"2007-06","Cold",40
+"2007-06","Creed",18
+"2007-06","Def Leppard",15
+"2007-06","Default",12
+"2007-06","Evanescence",0
+"2007-06","Fall Out Boy",20
+"2007-06","Foo Fighters",1
+"2007-06","Funeral For A Friend",42
+"2007-06","Guns N' Roses",3
+"2007-06","Megadeth",17
+"2007-06","Metallica",1
+"2007-06","Nickelback",2
+"2007-06","Oasis",1
+"2007-06","Razorlight",46
+"2007-06","Stereophonics",3
+"2007-06","The Ataris",15
+"2007-06","The Goo Goo Dolls",0
+"2007-06","U2",4
+"2007-07","3 Doors Down",16
+"2007-07","Audioslave",15
+"2007-07","Cold",8
+"2007-07","Creed",25
+"2007-07","Def Leppard",17
+"2007-07","Default",5
+"2007-07","Evanescence",18
+"2007-07","Fall Out Boy",15
+"2007-07","Foo Fighters",6
+"2007-07","Funeral For A Friend",50
+"2007-07","Guns N' Roses",38
+"2007-07","Megadeth",20
+"2007-07","Metallica",28
+"2007-07","Nickelback",26
+"2007-07","Oasis",65
+"2007-07","Razorlight",18
+"2007-07","Stereophonics",5
+"2007-07","The Ataris",5
+"2007-07","The Goo Goo Dolls",0
+"2007-07","U2",48
+"2007-08","3 Doors Down",2
+"2007-08","Audioslave",1
+"2007-08","Cold",2
+"2007-08","Creed",3
+"2007-08","Def Leppard",3
+"2007-08","Default",1
+"2007-08","Evanescence",0
+"2007-08","Fall Out Boy",0
+"2007-08","Foo Fighters",3
+"2007-08","Funeral For A Friend",2
+"2007-08","Guns N' Roses",5
+"2007-08","Megadeth",4
+"2007-08","Metallica",1
+"2007-08","Nickelback",0
+"2007-08","Oasis",4
+"2007-08","Razorlight",1
+"2007-08","Stereophonics",0
+"2007-08","The Ataris",1
+"2007-08","The Goo Goo Dolls",0
+"2007-08","U2",1
+"2007-09","3 Doors Down",42
+"2007-09","Audioslave",8
+"2007-09","Cold",24
+"2007-09","Creed",53
+"2007-09","Def Leppard",47
+"2007-09","Default",16
+"2007-09","Evanescence",8
+"2007-09","Fall Out Boy",0
+"2007-09","Foo Fighters",14
+"2007-09","Funeral For A Friend",12
+"2007-09","Guns N' Roses",86
+"2007-09","Megadeth",16
+"2007-09","Metallica",11
+"2007-09","Nickelback",5
+"2007-09","Oasis",15
+"2007-09","Razorlight",19
+"2007-09","Stereophonics",9
+"2007-09","The Ataris",10
+"2007-09","The Goo Goo Dolls",67
+"2007-09","U2",9
+"2007-10","3 Doors Down",11
+"2007-10","Audioslave",4
+"2007-10","Cold",14
+"2007-10","Creed",46
+"2007-10","Def Leppard",44
+"2007-10","Default",15
+"2007-10","Evanescence",16
+"2007-10","Fall Out Boy",4
+"2007-10","Foo Fighters",17
+"2007-10","Funeral For A Friend",26
+"2007-10","Guns N' Roses",21
+"2007-10","Megadeth",36
+"2007-10","Metallica",21
+"2007-10","Nickelback",1
+"2007-10","Oasis",11
+"2007-10","Razorlight",37
+"2007-10","Stereophonics",16
+"2007-10","The Ataris",12
+"2007-10","The Goo Goo Dolls",101
+"2007-10","U2",15
+"2007-11","3 Doors Down",6
+"2007-11","Audioslave",15
+"2007-11","Cold",37
+"2007-11","Creed",2
+"2007-11","Def Leppard",3
+"2007-11","Default",1
+"2007-11","Evanescence",2
+"2007-11","Fall Out Boy",20
+"2007-11","Foo Fighters",3
+"2007-11","Funeral For A Friend",91
+"2007-11","Guns N' Roses",4
+"2007-11","Megadeth",4
+"2007-11","Metallica",3
+"2007-11","Nickelback",1
+"2007-11","Oasis",2
+"2007-11","Razorlight",2
+"2007-11","Stereophonics",80
+"2007-11","The Ataris",2
+"2007-11","The Goo Goo Dolls",181
+"2007-11","U2",3
+"2007-12","3 Doors Down",0
+"2007-12","Audioslave",0
+"2007-12","Cold",0
+"2007-12","Creed",23
+"2007-12","Def Leppard",0
+"2007-12","Default",11
+"2007-12","Evanescence",13
+"2007-12","Fall Out Boy",19
+"2007-12","Foo Fighters",27
+"2007-12","Funeral For A Friend",33
+"2007-12","Guns N' Roses",0
+"2007-12","Megadeth",0
+"2007-12","Metallica",0
+"2007-12","Nickelback",0
+"2007-12","Oasis",0
+"2007-12","Razorlight",0
+"2007-12","Stereophonics",24
+"2007-12","The Ataris",0
+"2007-12","The Goo Goo Dolls",12
+"2007-12","U2",0
+"2008-01","3 Doors Down",0
+"2008-01","Audioslave",0
+"2008-01","Cold",0
+"2008-01","Creed",0
+"2008-01","Def Leppard",87
+"2008-01","Default",11
+"2008-01","Evanescence",13
+"2008-01","Fall Out Boy",19
+"2008-01","Foo Fighters",0
+"2008-01","Funeral For A Friend",44
+"2008-01","Guns N' Roses",0
+"2008-01","Megadeth",0
+"2008-01","Metallica",0
+"2008-01","Nickelback",11
+"2008-01","Oasis",0
+"2008-01","Razorlight",0
+"2008-01","Stereophonics",0
+"2008-01","The Ataris",0
+"2008-01","The Goo Goo Dolls",0
+"2008-01","U2",0
+"2008-02","3 Doors Down",0
+"2008-02","Audioslave",0
+"2008-02","Cold",11
+"2008-02","Creed",0
+"2008-02","Def Leppard",37
+"2008-02","Default",0
+"2008-02","Evanescence",0
+"2008-02","Fall Out Boy",15
+"2008-02","Foo Fighters",0
+"2008-02","Funeral For A Friend",0
+"2008-02","Guns N' Roses",0
+"2008-02","Megadeth",0
+"2008-02","Metallica",0
+"2008-02","Nickelback",13
+"2008-02","Oasis",0
+"2008-02","Razorlight",0
+"2008-02","Stereophonics",0
+"2008-02","The Ataris",0
+"2008-02","The Goo Goo Dolls",12
+"2008-02","U2",0
+"2008-03","3 Doors Down",2
+"2008-03","Audioslave",0
+"2008-03","Cold",13
+"2008-03","Creed",3
+"2008-03","Def Leppard",21
+"2008-03","Default",1
+"2008-03","Evanescence",0
+"2008-03","Fall Out Boy",3
+"2008-03","Foo Fighters",1
+"2008-03","Funeral For A Friend",42
+"2008-03","Guns N' Roses",10
+"2008-03","Megadeth",2
+"2008-03","Metallica",0
+"2008-03","Nickelback",1
+"2008-03","Oasis",5
+"2008-03","Razorlight",37
+"2008-03","Stereophonics",2
+"2008-03","The Ataris",3
+"2008-03","The Goo Goo Dolls",7
+"2008-03","U2",3
+"2008-04","3 Doors Down",0
+"2008-04","Audioslave",0
+"2008-04","Cold",0
+"2008-04","Creed",0
+"2008-04","Def Leppard",0
+"2008-04","Default",0
+"2008-04","Evanescence",0
+"2008-04","Fall Out Boy",0
+"2008-04","Foo Fighters",0
+"2008-04","Funeral For A Friend",0
+"2008-04","Guns N' Roses",0
+"2008-04","Megadeth",0
+"2008-04","Metallica",0
+"2008-04","Nickelback",0
+"2008-04","Oasis",0
+"2008-04","Razorlight",0
+"2008-04","Stereophonics",0
+"2008-04","The Ataris",0
+"2008-04","The Goo Goo Dolls",0
+"2008-04","U2",0
+"2008-05","3 Doors Down",0
+"2008-05","Audioslave",4
+"2008-05","Cold",0
+"2008-05","Creed",2
+"2008-05","Def Leppard",0
+"2008-05","Default",4
+"2008-05","Evanescence",0
+"2008-05","Fall Out Boy",21
+"2008-05","Foo Fighters",26
+"2008-05","Funeral For A Friend",3
+"2008-05","Guns N' Roses",0
+"2008-05","Megadeth",15
+"2008-05","Metallica",0
+"2008-05","Nickelback",1
+"2008-05","Oasis",0
+"2008-05","Razorlight",7
+"2008-05","Stereophonics",26
+"2008-05","The Ataris",0
+"2008-05","The Goo Goo Dolls",6
+"2008-05","U2",0
+"2008-06","3 Doors Down",0
+"2008-06","Audioslave",42
+"2008-06","Cold",0
+"2008-06","Creed",34
+"2008-06","Def Leppard",0
+"2008-06","Default",0
+"2008-06","Evanescence",0
+"2008-06","Fall Out Boy",0
+"2008-06","Foo Fighters",0
+"2008-06","Funeral For A Friend",0
+"2008-06","Guns N' Roses",0
+"2008-06","Megadeth",0
+"2008-06","Metallica",0
+"2008-06","Nickelback",13
+"2008-06","Oasis",0
+"2008-06","Razorlight",0
+"2008-06","Stereophonics",0
+"2008-06","The Ataris",0
+"2008-06","The Goo Goo Dolls",306
+"2008-06","U2",0
+"2008-07","3 Doors Down",268
+"2008-07","Audioslave",0
+"2008-07","Cold",11
+"2008-07","Creed",0
+"2008-07","Def Leppard",12
+"2008-07","Default",0
+"2008-07","Evanescence",0
+"2008-07","Fall Out Boy",0
+"2008-07","Foo Fighters",0
+"2008-07","Funeral For A Friend",0
+"2008-07","Guns N' Roses",0
+"2008-07","Megadeth",0
+"2008-07","Metallica",0
+"2008-07","Nickelback",3
+"2008-07","Oasis",0
+"2008-07","Razorlight",40
+"2008-07","Stereophonics",24
+"2008-07","The Ataris",0
+"2008-07","The Goo Goo Dolls",98
+"2008-07","U2",0
+"2008-08","3 Doors Down",0
+"2008-08","Audioslave",0
+"2008-08","Cold",0
+"2008-08","Creed",1
+"2008-08","Def Leppard",0
+"2008-08","Default",0
+"2008-08","Evanescence",0
+"2008-08","Fall Out Boy",0
+"2008-08","Foo Fighters",0
+"2008-08","Funeral For A Friend",0
+"2008-08","Guns N' Roses",0
+"2008-08","Megadeth",1
+"2008-08","Metallica",0
+"2008-08","Nickelback",3
+"2008-08","Oasis",1
+"2008-08","Razorlight",0
+"2008-08","Stereophonics",1
+"2008-08","The Ataris",1
+"2008-08","The Goo Goo Dolls",0
+"2008-08","U2",0
+"2008-09","3 Doors Down",29
+"2008-09","Audioslave",0
+"2008-09","Cold",0
+"2008-09","Creed",0
+"2008-09","Def Leppard",0
+"2008-09","Default",0
+"2008-09","Evanescence",0
+"2008-09","Fall Out Boy",0
+"2008-09","Foo Fighters",0
+"2008-09","Funeral For A Friend",0
+"2008-09","Guns N' Roses",0
+"2008-09","Megadeth",0
+"2008-09","Metallica",0
+"2008-09","Nickelback",1
+"2008-09","Oasis",0
+"2008-09","Razorlight",0
+"2008-09","Stereophonics",12
+"2008-09","The Ataris",0
+"2008-09","The Goo Goo Dolls",0
+"2008-09","U2",0
+"2008-10","3 Doors Down",0
+"2008-10","Audioslave",0
+"2008-10","Cold",0
+"2008-10","Creed",0
+"2008-10","Def Leppard",0
+"2008-10","Default",0
+"2008-10","Evanescence",0
+"2008-10","Fall Out Boy",0
+"2008-10","Foo Fighters",0
+"2008-10","Funeral For A Friend",0
+"2008-10","Guns N' Roses",0
+"2008-10","Megadeth",0
+"2008-10","Metallica",0
+"2008-10","Nickelback",0
+"2008-10","Oasis",0
+"2008-10","Razorlight",0
+"2008-10","Stereophonics",0
+"2008-10","The Ataris",0
+"2008-10","The Goo Goo Dolls",0
+"2008-10","U2",0
+"2008-11","3 Doors Down",0
+"2008-11","Audioslave",0
+"2008-11","Cold",0
+"2008-11","Creed",0
+"2008-11","Def Leppard",0
+"2008-11","Default",0
+"2008-11","Evanescence",0
+"2008-11","Fall Out Boy",0
+"2008-11","Foo Fighters",0
+"2008-11","Funeral For A Friend",41
+"2008-11","Guns N' Roses",0
+"2008-11","Megadeth",0
+"2008-11","Metallica",0
+"2008-11","Nickelback",0
+"2008-11","Oasis",0
+"2008-11","Razorlight",0
+"2008-11","Stereophonics",0
+"2008-11","The Ataris",0
+"2008-11","The Goo Goo Dolls",0
+"2008-11","U2",0

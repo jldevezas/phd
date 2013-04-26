@@ -1,101 +1,101 @@
-month,artist,plays
-2008-12,2H+,0
-2008-12,Adam Tensta,1
-2008-12,Akon,0
-2008-12,Čistychov,3
-2008-12,Clint Mansell,0
-2008-12,Damien Rice,0
-2008-12,Guru Josh Project,8
-2008-12,Ives Larock,0
-2008-12,Jay-Z And Linkin Park,0
-2008-12,Kanye West,3437
-2008-12,Kontrafakt,3
-2008-12,Lil Wayne Featuring Subtle Shot,0
-2008-12,Linkin Park,0
-2008-12,Moja Reč,0
-2008-12,Muse,0
-2008-12,Safetysuit,0
-2008-12,Snow Patrol,1
-2008-12,T.I.,470
-2008-12,The Fray,0
-2008-12,The Whip,0
-2009-01,2H+,0
-2009-01,Adam Tensta,0
-2009-01,Akon,51
-2009-01,Čistychov,4
-2009-01,Clint Mansell,31
-2009-01,Damien Rice,39
-2009-01,Guru Josh Project,2
-2009-01,Ives Larock,1
-2009-01,Jay-Z And Linkin Park,17
-2009-01,Kanye West,10188
-2009-01,Kontrafakt,77
-2009-01,Lil Wayne Featuring Subtle Shot,2
-2009-01,Linkin Park,220
-2009-01,Moja Reč,2
-2009-01,Muse,287
-2009-01,Safetysuit,0
-2009-01,Snow Patrol,6
-2009-01,T.I.,1463
-2009-01,The Fray,15
-2009-01,The Whip,2
-2009-02,2H+,2
-2009-02,Adam Tensta,0
-2009-02,Akon,0
-2009-02,Čistychov,0
-2009-02,Clint Mansell,53
-2009-02,Damien Rice,0
-2009-02,Guru Josh Project,1
-2009-02,Ives Larock,1
-2009-02,Jay-Z And Linkin Park,3
-2009-02,Kanye West,6175
-2009-02,Kontrafakt,5
-2009-02,Lil Wayne Featuring Subtle Shot,1
-2009-02,Linkin Park,1
-2009-02,Moja Reč,2
-2009-02,Muse,214
-2009-02,Safetysuit,184
-2009-02,Snow Patrol,0
-2009-02,T.I.,2426
-2009-02,The Fray,1831
-2009-02,The Whip,0
-2009-03,2H+,0
-2009-03,Adam Tensta,1
-2009-03,Akon,0
-2009-03,Čistychov,0
-2009-03,Clint Mansell,191
-2009-03,Damien Rice,2
-2009-03,Guru Josh Project,0
-2009-03,Ives Larock,1
-2009-03,Jay-Z And Linkin Park,1
-2009-03,Kanye West,5881
-2009-03,Kontrafakt,0
-2009-03,Lil Wayne Featuring Subtle Shot,1
-2009-03,Linkin Park,1
-2009-03,Moja Reč,9
-2009-03,Muse,0
-2009-03,Safetysuit,27
-2009-03,Snow Patrol,0
-2009-03,T.I.,193
-2009-03,The Fray,10
-2009-03,The Whip,4
-2009-04,2H+,1
-2009-04,Adam Tensta,0
-2009-04,Akon,1
-2009-04,Čistychov,12
-2009-04,Clint Mansell,22
-2009-04,Damien Rice,120
-2009-04,Guru Josh Project,0
-2009-04,Ives Larock,0
-2009-04,Jay-Z And Linkin Park,39
-2009-04,Kanye West,815
-2009-04,Kontrafakt,0
-2009-04,Lil Wayne Featuring Subtle Shot,0
-2009-04,Linkin Park,93
-2009-04,Moja Reč,0
-2009-04,Muse,1
-2009-04,Safetysuit,1
-2009-04,Snow Patrol,69
-2009-04,T.I.,762
-2009-04,The Fray,0
-2009-04,The Whip,9
+"month","artist","plays"
+"2008-12","2H+",0
+"2008-12","Adam Tensta",1
+"2008-12","Akon",0
+"2008-12","Čistychov",3
+"2008-12","Clint Mansell",0
+"2008-12","Damien Rice",0
+"2008-12","Guru Josh Project",8
+"2008-12","Ives Larock",0
+"2008-12","Jay-Z And Linkin Park",0
+"2008-12","Kanye West",3437
+"2008-12","Kontrafakt",3
+"2008-12","Lil Wayne Featuring Subtle Shot",0
+"2008-12","Linkin Park",0
+"2008-12","Moja Reč",0
+"2008-12","Muse",0
+"2008-12","Safetysuit",0
+"2008-12","Snow Patrol",1
+"2008-12","T.I.",470
+"2008-12","The Fray",0
+"2008-12","The Whip",0
+"2009-01","2H+",0
+"2009-01","Adam Tensta",0
+"2009-01","Akon",51
+"2009-01","Čistychov",4
+"2009-01","Clint Mansell",31
+"2009-01","Damien Rice",39
+"2009-01","Guru Josh Project",2
+"2009-01","Ives Larock",1
+"2009-01","Jay-Z And Linkin Park",17
+"2009-01","Kanye West",10188
+"2009-01","Kontrafakt",77
+"2009-01","Lil Wayne Featuring Subtle Shot",2
+"2009-01","Linkin Park",220
+"2009-01","Moja Reč",2
+"2009-01","Muse",287
+"2009-01","Safetysuit",0
+"2009-01","Snow Patrol",6
+"2009-01","T.I.",1463
+"2009-01","The Fray",15
+"2009-01","The Whip",2
+"2009-02","2H+",2
+"2009-02","Adam Tensta",0
+"2009-02","Akon",0
+"2009-02","Čistychov",0
+"2009-02","Clint Mansell",53
+"2009-02","Damien Rice",0
+"2009-02","Guru Josh Project",1
+"2009-02","Ives Larock",1
+"2009-02","Jay-Z And Linkin Park",3
+"2009-02","Kanye West",6175
+"2009-02","Kontrafakt",5
+"2009-02","Lil Wayne Featuring Subtle Shot",1
+"2009-02","Linkin Park",1
+"2009-02","Moja Reč",2
+"2009-02","Muse",214
+"2009-02","Safetysuit",184
+"2009-02","Snow Patrol",0
+"2009-02","T.I.",2426
+"2009-02","The Fray",1831
+"2009-02","The Whip",0
+"2009-03","2H+",0
+"2009-03","Adam Tensta",1
+"2009-03","Akon",0
+"2009-03","Čistychov",0
+"2009-03","Clint Mansell",191
+"2009-03","Damien Rice",2
+"2009-03","Guru Josh Project",0
+"2009-03","Ives Larock",1
+"2009-03","Jay-Z And Linkin Park",1
+"2009-03","Kanye West",5881
+"2009-03","Kontrafakt",0
+"2009-03","Lil Wayne Featuring Subtle Shot",1
+"2009-03","Linkin Park",1
+"2009-03","Moja Reč",9
+"2009-03","Muse",0
+"2009-03","Safetysuit",27
+"2009-03","Snow Patrol",0
+"2009-03","T.I.",193
+"2009-03","The Fray",10
+"2009-03","The Whip",4
+"2009-04","2H+",1
+"2009-04","Adam Tensta",0
+"2009-04","Akon",1
+"2009-04","Čistychov",12
+"2009-04","Clint Mansell",22
+"2009-04","Damien Rice",120
+"2009-04","Guru Josh Project",0
+"2009-04","Ives Larock",0
+"2009-04","Jay-Z And Linkin Park",39
+"2009-04","Kanye West",815
+"2009-04","Kontrafakt",0
+"2009-04","Lil Wayne Featuring Subtle Shot",0
+"2009-04","Linkin Park",93
+"2009-04","Moja Reč",0
+"2009-04","Muse",1
+"2009-04","Safetysuit",1
+"2009-04","Snow Patrol",69
+"2009-04","T.I.",762
+"2009-04","The Fray",0
+"2009-04","The Whip",9

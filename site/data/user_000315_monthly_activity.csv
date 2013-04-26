@@ -1,101 +1,101 @@
-month,artist,plays
-2008-08,Acid Mothers Temple & The Melting Paraiso U.F.O.,1
-2008-08,Beat Happening,11
-2008-08,Black Mountain,0
-2008-08,Cage,0
-2008-08,Elliott Smith,1
-2008-08,Galaxie 500,1
-2008-08,Jennifer Gentle,0
-2008-08,Joy Division,0
-2008-08,Leonard Cohen,0
-2008-08,Lou Reed,8
-2008-08,Mischief Brew,2
-2008-08,My Bloody Valentine,4
-2008-08,Nick Cave & The Bad Seeds,0
-2008-08,Patti Smith,3
-2008-08,Set Fire To Flames,0
-2008-08,Spacemen 3,18
-2008-08,The Black Angels,0
-2008-08,The Brian Jonestown Massacre,83
-2008-08,Tom Waits,16
-2008-08,Wooden Shjips,4
-2008-09,Acid Mothers Temple & The Melting Paraiso U.F.O.,6
-2008-09,Beat Happening,9
-2008-09,Black Mountain,0
-2008-09,Cage,6
-2008-09,Elliott Smith,1
-2008-09,Galaxie 500,1
-2008-09,Jennifer Gentle,14
-2008-09,Joy Division,0
-2008-09,Leonard Cohen,30
-2008-09,Lou Reed,6
-2008-09,Mischief Brew,4
-2008-09,My Bloody Valentine,75
-2008-09,Nick Cave & The Bad Seeds,1
-2008-09,Patti Smith,3
-2008-09,Set Fire To Flames,18
-2008-09,Spacemen 3,16
-2008-09,The Black Angels,5
-2008-09,The Brian Jonestown Massacre,132
-2008-09,Tom Waits,16
-2008-09,Wooden Shjips,10
-2008-10,Acid Mothers Temple & The Melting Paraiso U.F.O.,12
-2008-10,Beat Happening,39
-2008-10,Black Mountain,2
-2008-10,Cage,3
-2008-10,Elliott Smith,0
-2008-10,Galaxie 500,3
-2008-10,Jennifer Gentle,3
-2008-10,Joy Division,63
-2008-10,Leonard Cohen,3
-2008-10,Lou Reed,2
-2008-10,Mischief Brew,16
-2008-10,My Bloody Valentine,4
-2008-10,Nick Cave & The Bad Seeds,3
-2008-10,Patti Smith,8
-2008-10,Set Fire To Flames,5
-2008-10,Spacemen 3,14
-2008-10,The Black Angels,16
-2008-10,The Brian Jonestown Massacre,4
-2008-10,Tom Waits,1
-2008-10,Wooden Shjips,4
-2008-11,Acid Mothers Temple & The Melting Paraiso U.F.O.,0
-2008-11,Beat Happening,13
-2008-11,Black Mountain,3
-2008-11,Cage,1
-2008-11,Elliott Smith,12
-2008-11,Galaxie 500,7
-2008-11,Jennifer Gentle,1
-2008-11,Joy Division,16
-2008-11,Leonard Cohen,7
-2008-11,Lou Reed,19
-2008-11,Mischief Brew,21
-2008-11,My Bloody Valentine,0
-2008-11,Nick Cave & The Bad Seeds,15
-2008-11,Patti Smith,0
-2008-11,Set Fire To Flames,1
-2008-11,Spacemen 3,9
-2008-11,The Black Angels,9
-2008-11,The Brian Jonestown Massacre,28
-2008-11,Tom Waits,46
-2008-11,Wooden Shjips,1
-2008-12,Acid Mothers Temple & The Melting Paraiso U.F.O.,0
-2008-12,Beat Happening,4
-2008-12,Black Mountain,12
-2008-12,Cage,0
-2008-12,Elliott Smith,1
-2008-12,Galaxie 500,1
-2008-12,Jennifer Gentle,0
-2008-12,Joy Division,1
-2008-12,Leonard Cohen,5
-2008-12,Lou Reed,0
-2008-12,Mischief Brew,0
-2008-12,My Bloody Valentine,0
-2008-12,Nick Cave & The Bad Seeds,0
-2008-12,Patti Smith,0
-2008-12,Set Fire To Flames,3
-2008-12,Spacemen 3,0
-2008-12,The Black Angels,3
-2008-12,The Brian Jonestown Massacre,7
-2008-12,Tom Waits,6
-2008-12,Wooden Shjips,0
+"month","artist","plays"
+"2008-08","Acid Mothers Temple & The Melting Paraiso U.F.O.",1
+"2008-08","Beat Happening",11
+"2008-08","Black Mountain",0
+"2008-08","Cage",0
+"2008-08","Elliott Smith",1
+"2008-08","Galaxie 500",1
+"2008-08","Jennifer Gentle",0
+"2008-08","Joy Division",0
+"2008-08","Leonard Cohen",0
+"2008-08","Lou Reed",8
+"2008-08","Mischief Brew",2
+"2008-08","My Bloody Valentine",4
+"2008-08","Nick Cave & The Bad Seeds",0
+"2008-08","Patti Smith",3
+"2008-08","Set Fire To Flames",0
+"2008-08","Spacemen 3",18
+"2008-08","The Black Angels",0
+"2008-08","The Brian Jonestown Massacre",83
+"2008-08","Tom Waits",16
+"2008-08","Wooden Shjips",4
+"2008-09","Acid Mothers Temple & The Melting Paraiso U.F.O.",6
+"2008-09","Beat Happening",9
+"2008-09","Black Mountain",0
+"2008-09","Cage",6
+"2008-09","Elliott Smith",1
+"2008-09","Galaxie 500",1
+"2008-09","Jennifer Gentle",14
+"2008-09","Joy Division",0
+"2008-09","Leonard Cohen",30
+"2008-09","Lou Reed",6
+"2008-09","Mischief Brew",4
+"2008-09","My Bloody Valentine",75
+"2008-09","Nick Cave & The Bad Seeds",1
+"2008-09","Patti Smith",3
+"2008-09","Set Fire To Flames",18
+"2008-09","Spacemen 3",16
+"2008-09","The Black Angels",5
+"2008-09","The Brian Jonestown Massacre",132
+"2008-09","Tom Waits",16
+"2008-09","Wooden Shjips",10
+"2008-10","Acid Mothers Temple & The Melting Paraiso U.F.O.",12
+"2008-10","Beat Happening",39
+"2008-10","Black Mountain",2
+"2008-10","Cage",3
+"2008-10","Elliott Smith",0
+"2008-10","Galaxie 500",3
+"2008-10","Jennifer Gentle",3
+"2008-10","Joy Division",63
+"2008-10","Leonard Cohen",3
+"2008-10","Lou Reed",2
+"2008-10","Mischief Brew",16
+"2008-10","My Bloody Valentine",4
+"2008-10","Nick Cave & The Bad Seeds",3
+"2008-10","Patti Smith",8
+"2008-10","Set Fire To Flames",5
+"2008-10","Spacemen 3",14
+"2008-10","The Black Angels",16
+"2008-10","The Brian Jonestown Massacre",4
+"2008-10","Tom Waits",1
+"2008-10","Wooden Shjips",4
+"2008-11","Acid Mothers Temple & The Melting Paraiso U.F.O.",0
+"2008-11","Beat Happening",13
+"2008-11","Black Mountain",3
+"2008-11","Cage",1
+"2008-11","Elliott Smith",12
+"2008-11","Galaxie 500",7
+"2008-11","Jennifer Gentle",1
+"2008-11","Joy Division",16
+"2008-11","Leonard Cohen",7
+"2008-11","Lou Reed",19
+"2008-11","Mischief Brew",21
+"2008-11","My Bloody Valentine",0
+"2008-11","Nick Cave & The Bad Seeds",15
+"2008-11","Patti Smith",0
+"2008-11","Set Fire To Flames",1
+"2008-11","Spacemen 3",9
+"2008-11","The Black Angels",9
+"2008-11","The Brian Jonestown Massacre",28
+"2008-11","Tom Waits",46
+"2008-11","Wooden Shjips",1
+"2008-12","Acid Mothers Temple & The Melting Paraiso U.F.O.",0
+"2008-12","Beat Happening",4
+"2008-12","Black Mountain",12
+"2008-12","Cage",0
+"2008-12","Elliott Smith",1
+"2008-12","Galaxie 500",1
+"2008-12","Jennifer Gentle",0
+"2008-12","Joy Division",1
+"2008-12","Leonard Cohen",5
+"2008-12","Lou Reed",0
+"2008-12","Mischief Brew",0
+"2008-12","My Bloody Valentine",0
+"2008-12","Nick Cave & The Bad Seeds",0
+"2008-12","Patti Smith",0
+"2008-12","Set Fire To Flames",3
+"2008-12","Spacemen 3",0
+"2008-12","The Black Angels",3
+"2008-12","The Brian Jonestown Massacre",7
+"2008-12","Tom Waits",6
+"2008-12","Wooden Shjips",0

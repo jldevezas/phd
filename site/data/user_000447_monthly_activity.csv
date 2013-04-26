@@ -1,81 +1,81 @@
-month,artist,plays
-2007-09,04 Faixa 4,62
-2007-09,Artemis,1
-2007-09,Björk,1
-2007-09,Blue States,1
-2007-09,Boards Of Canada,4
-2007-09,Céline Dion,3
-2007-09,Da Weasel,1
-2007-09,De-Phazz,2
-2007-09,Delerium,9
-2007-09,Dj Shadow,2
-2007-09,Dreamlin,3
-2007-09,Faithless,1
-2007-09,Fila Brazillia,2
-2007-09,Gloria Estefan,1
-2007-09,Hooverphonic,4
-2007-09,Jack Johnson,1
-2007-09,Jazzanova,1
-2007-09,King Kooba,1
-2007-09,Lamb,4
-2007-09,Shakira,2
-2007-10,04 Faixa 4,4
-2007-10,Artemis,1
-2007-10,Björk,1
-2007-10,Blue States,1
-2007-10,Boards Of Canada,1
-2007-10,Céline Dion,2
-2007-10,Da Weasel,1
-2007-10,De-Phazz,1
-2007-10,Delerium,2
-2007-10,Dj Shadow,1
-2007-10,Dreamlin,1
-2007-10,Faithless,1
-2007-10,Fila Brazillia,1
-2007-10,Gloria Estefan,1
-2007-10,Hooverphonic,1
-2007-10,Jack Johnson,1
-2007-10,Jazzanova,1
-2007-10,King Kooba,1
-2007-10,Lamb,1
-2007-10,Shakira,2
-2007-11,04 Faixa 4,0
-2007-11,Artemis,0
-2007-11,Björk,0
-2007-11,Blue States,0
-2007-11,Boards Of Canada,0
-2007-11,Céline Dion,0
-2007-11,Da Weasel,0
-2007-11,De-Phazz,0
-2007-11,Delerium,0
-2007-11,Dj Shadow,0
-2007-11,Dreamlin,0
-2007-11,Faithless,0
-2007-11,Fila Brazillia,0
-2007-11,Gloria Estefan,0
-2007-11,Hooverphonic,0
-2007-11,Jack Johnson,0
-2007-11,Jazzanova,0
-2007-11,King Kooba,0
-2007-11,Lamb,0
-2007-11,Shakira,0
-2007-12,04 Faixa 4,0
-2007-12,Artemis,0
-2007-12,Björk,0
-2007-12,Blue States,0
-2007-12,Boards Of Canada,0
-2007-12,Céline Dion,0
-2007-12,Da Weasel,0
-2007-12,De-Phazz,0
-2007-12,Delerium,0
-2007-12,Dj Shadow,0
-2007-12,Dreamlin,0
-2007-12,Faithless,0
-2007-12,Fila Brazillia,0
-2007-12,Gloria Estefan,0
-2007-12,Hooverphonic,0
-2007-12,Jack Johnson,0
-2007-12,Jazzanova,0
-2007-12,King Kooba,0
-2007-12,Lamb,0
-2007-12,Shakira,1
+"month","artist","plays"
+"2007-09","04 Faixa 4",62
+"2007-09","Artemis",1
+"2007-09","Björk",1
+"2007-09","Blue States",1
+"2007-09","Boards Of Canada",4
+"2007-09","Céline Dion",3
+"2007-09","Da Weasel",1
+"2007-09","De-Phazz",2
+"2007-09","Delerium",9
+"2007-09","Dj Shadow",2
+"2007-09","Dreamlin",3
+"2007-09","Faithless",1
+"2007-09","Fila Brazillia",2
+"2007-09","Gloria Estefan",1
+"2007-09","Hooverphonic",4
+"2007-09","Jack Johnson",1
+"2007-09","Jazzanova",1
+"2007-09","King Kooba",1
+"2007-09","Lamb",4
+"2007-09","Shakira",2
+"2007-10","04 Faixa 4",4
+"2007-10","Artemis",1
+"2007-10","Björk",1
+"2007-10","Blue States",1
+"2007-10","Boards Of Canada",1
+"2007-10","Céline Dion",2
+"2007-10","Da Weasel",1
+"2007-10","De-Phazz",1
+"2007-10","Delerium",2
+"2007-10","Dj Shadow",1
+"2007-10","Dreamlin",1
+"2007-10","Faithless",1
+"2007-10","Fila Brazillia",1
+"2007-10","Gloria Estefan",1
+"2007-10","Hooverphonic",1
+"2007-10","Jack Johnson",1
+"2007-10","Jazzanova",1
+"2007-10","King Kooba",1
+"2007-10","Lamb",1
+"2007-10","Shakira",2
+"2007-11","04 Faixa 4",0
+"2007-11","Artemis",0
+"2007-11","Björk",0
+"2007-11","Blue States",0
+"2007-11","Boards Of Canada",0
+"2007-11","Céline Dion",0
+"2007-11","Da Weasel",0
+"2007-11","De-Phazz",0
+"2007-11","Delerium",0
+"2007-11","Dj Shadow",0
+"2007-11","Dreamlin",0
+"2007-11","Faithless",0
+"2007-11","Fila Brazillia",0
+"2007-11","Gloria Estefan",0
+"2007-11","Hooverphonic",0
+"2007-11","Jack Johnson",0
+"2007-11","Jazzanova",0
+"2007-11","King Kooba",0
+"2007-11","Lamb",0
+"2007-11","Shakira",0
+"2007-12","04 Faixa 4",0
+"2007-12","Artemis",0
+"2007-12","Björk",0
+"2007-12","Blue States",0
+"2007-12","Boards Of Canada",0
+"2007-12","Céline Dion",0
+"2007-12","Da Weasel",0
+"2007-12","De-Phazz",0
+"2007-12","Delerium",0
+"2007-12","Dj Shadow",0
+"2007-12","Dreamlin",0
+"2007-12","Faithless",0
+"2007-12","Fila Brazillia",0
+"2007-12","Gloria Estefan",0
+"2007-12","Hooverphonic",0
+"2007-12","Jack Johnson",0
+"2007-12","Jazzanova",0
+"2007-12","King Kooba",0
+"2007-12","Lamb",0
+"2007-12","Shakira",1

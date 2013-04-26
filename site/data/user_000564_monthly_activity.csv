@@ -1,781 +1,781 @@
-month,artist,plays
-2006-02,Belle And Sebastian,3
-2006-02,Bob Dylan,6
-2006-02,Broadcast,1
-2006-02,Echo & The Bunnymen,1
-2006-02,Electrelane,0
-2006-02,Galaxie 500,1
-2006-02,Jens Lekman,2
-2006-02,Lilys,0
-2006-02,Mercury Rev,1
-2006-02,Pavement,3
-2006-02,Ride,7
-2006-02,Saint Etienne,1
-2006-02,Sonic Youth,6
-2006-02,The Beatles,8
-2006-02,The Fall,3
-2006-02,The Magnetic Fields,1
-2006-02,The Radio Dept.,1
-2006-02,The Velvet Underground,5
-2006-02,The Wedding Present,0
-2006-02,Yo La Tengo,1
-2006-03,Belle And Sebastian,7
-2006-03,Bob Dylan,3
-2006-03,Broadcast,3
-2006-03,Echo & The Bunnymen,1
-2006-03,Electrelane,3
-2006-03,Galaxie 500,4
-2006-03,Jens Lekman,2
-2006-03,Lilys,1
-2006-03,Mercury Rev,3
-2006-03,Pavement,7
-2006-03,Ride,11
-2006-03,Saint Etienne,4
-2006-03,Sonic Youth,7
-2006-03,The Beatles,1
-2006-03,The Fall,14
-2006-03,The Magnetic Fields,4
-2006-03,The Radio Dept.,5
-2006-03,The Velvet Underground,2
-2006-03,The Wedding Present,2
-2006-03,Yo La Tengo,3
-2006-04,Belle And Sebastian,2
-2006-04,Bob Dylan,1
-2006-04,Broadcast,3
-2006-04,Echo & The Bunnymen,2
-2006-04,Electrelane,1
-2006-04,Galaxie 500,1
-2006-04,Jens Lekman,2
-2006-04,Lilys,2
-2006-04,Mercury Rev,0
-2006-04,Pavement,1
-2006-04,Ride,1
-2006-04,Saint Etienne,1
-2006-04,Sonic Youth,2
-2006-04,The Beatles,2
-2006-04,The Fall,3
-2006-04,The Magnetic Fields,2
-2006-04,The Radio Dept.,3
-2006-04,The Velvet Underground,4
-2006-04,The Wedding Present,0
-2006-04,Yo La Tengo,2
-2006-05,Belle And Sebastian,9
-2006-05,Bob Dylan,0
-2006-05,Broadcast,2
-2006-05,Echo & The Bunnymen,5
-2006-05,Electrelane,0
-2006-05,Galaxie 500,1
-2006-05,Jens Lekman,2
-2006-05,Lilys,3
-2006-05,Mercury Rev,2
-2006-05,Pavement,3
-2006-05,Ride,8
-2006-05,Saint Etienne,8
-2006-05,Sonic Youth,5
-2006-05,The Beatles,4
-2006-05,The Fall,8
-2006-05,The Magnetic Fields,8
-2006-05,The Radio Dept.,10
-2006-05,The Velvet Underground,2
-2006-05,The Wedding Present,1
-2006-05,Yo La Tengo,4
-2006-06,Belle And Sebastian,9
-2006-06,Bob Dylan,1
-2006-06,Broadcast,4
-2006-06,Echo & The Bunnymen,4
-2006-06,Electrelane,4
-2006-06,Galaxie 500,7
-2006-06,Jens Lekman,11
-2006-06,Lilys,1
-2006-06,Mercury Rev,4
-2006-06,Pavement,4
-2006-06,Ride,6
-2006-06,Saint Etienne,15
-2006-06,Sonic Youth,6
-2006-06,The Beatles,2
-2006-06,The Fall,12
-2006-06,The Magnetic Fields,2
-2006-06,The Radio Dept.,4
-2006-06,The Velvet Underground,10
-2006-06,The Wedding Present,5
-2006-06,Yo La Tengo,12
-2006-07,Belle And Sebastian,19
-2006-07,Bob Dylan,5
-2006-07,Broadcast,6
-2006-07,Echo & The Bunnymen,8
-2006-07,Electrelane,6
-2006-07,Galaxie 500,5
-2006-07,Jens Lekman,3
-2006-07,Lilys,1
-2006-07,Mercury Rev,3
-2006-07,Pavement,9
-2006-07,Ride,9
-2006-07,Saint Etienne,6
-2006-07,Sonic Youth,28
-2006-07,The Beatles,6
-2006-07,The Fall,21
-2006-07,The Magnetic Fields,5
-2006-07,The Radio Dept.,7
-2006-07,The Velvet Underground,7
-2006-07,The Wedding Present,4
-2006-07,Yo La Tengo,13
-2006-08,Belle And Sebastian,11
-2006-08,Bob Dylan,8
-2006-08,Broadcast,7
-2006-08,Echo & The Bunnymen,9
-2006-08,Electrelane,19
-2006-08,Galaxie 500,14
-2006-08,Jens Lekman,24
-2006-08,Lilys,5
-2006-08,Mercury Rev,0
-2006-08,Pavement,11
-2006-08,Ride,6
-2006-08,Saint Etienne,5
-2006-08,Sonic Youth,29
-2006-08,The Beatles,3
-2006-08,The Fall,21
-2006-08,The Magnetic Fields,4
-2006-08,The Radio Dept.,22
-2006-08,The Velvet Underground,11
-2006-08,The Wedding Present,14
-2006-08,Yo La Tengo,16
-2006-09,Belle And Sebastian,11
-2006-09,Bob Dylan,12
-2006-09,Broadcast,4
-2006-09,Echo & The Bunnymen,5
-2006-09,Electrelane,4
-2006-09,Galaxie 500,6
-2006-09,Jens Lekman,5
-2006-09,Lilys,22
-2006-09,Mercury Rev,3
-2006-09,Pavement,5
-2006-09,Ride,12
-2006-09,Saint Etienne,6
-2006-09,Sonic Youth,8
-2006-09,The Beatles,17
-2006-09,The Fall,21
-2006-09,The Magnetic Fields,3
-2006-09,The Radio Dept.,6
-2006-09,The Velvet Underground,13
-2006-09,The Wedding Present,4
-2006-09,Yo La Tengo,11
-2006-10,Belle And Sebastian,9
-2006-10,Bob Dylan,2
-2006-10,Broadcast,5
-2006-10,Echo & The Bunnymen,3
-2006-10,Electrelane,4
-2006-10,Galaxie 500,3
-2006-10,Jens Lekman,3
-2006-10,Lilys,6
-2006-10,Mercury Rev,2
-2006-10,Pavement,2
-2006-10,Ride,3
-2006-10,Saint Etienne,1
-2006-10,Sonic Youth,8
-2006-10,The Beatles,3
-2006-10,The Fall,18
-2006-10,The Magnetic Fields,5
-2006-10,The Radio Dept.,9
-2006-10,The Velvet Underground,5
-2006-10,The Wedding Present,2
-2006-10,Yo La Tengo,4
-2006-11,Belle And Sebastian,10
-2006-11,Bob Dylan,1
-2006-11,Broadcast,4
-2006-11,Echo & The Bunnymen,5
-2006-11,Electrelane,4
-2006-11,Galaxie 500,2
-2006-11,Jens Lekman,6
-2006-11,Lilys,3
-2006-11,Mercury Rev,2
-2006-11,Pavement,2
-2006-11,Ride,6
-2006-11,Saint Etienne,4
-2006-11,Sonic Youth,14
-2006-11,The Beatles,19
-2006-11,The Fall,36
-2006-11,The Magnetic Fields,7
-2006-11,The Radio Dept.,5
-2006-11,The Velvet Underground,5
-2006-11,The Wedding Present,4
-2006-11,Yo La Tengo,4
-2006-12,Belle And Sebastian,10
-2006-12,Bob Dylan,4
-2006-12,Broadcast,31
-2006-12,Echo & The Bunnymen,0
-2006-12,Electrelane,0
-2006-12,Galaxie 500,14
-2006-12,Jens Lekman,7
-2006-12,Lilys,6
-2006-12,Mercury Rev,1
-2006-12,Pavement,19
-2006-12,Ride,5
-2006-12,Saint Etienne,3
-2006-12,Sonic Youth,10
-2006-12,The Beatles,14
-2006-12,The Fall,31
-2006-12,The Magnetic Fields,13
-2006-12,The Radio Dept.,8
-2006-12,The Velvet Underground,17
-2006-12,The Wedding Present,10
-2006-12,Yo La Tengo,2
-2007-01,Belle And Sebastian,12
-2007-01,Bob Dylan,4
-2007-01,Broadcast,6
-2007-01,Echo & The Bunnymen,1
-2007-01,Electrelane,55
-2007-01,Galaxie 500,6
-2007-01,Jens Lekman,6
-2007-01,Lilys,1
-2007-01,Mercury Rev,2
-2007-01,Pavement,6
-2007-01,Ride,3
-2007-01,Saint Etienne,4
-2007-01,Sonic Youth,13
-2007-01,The Beatles,8
-2007-01,The Fall,12
-2007-01,The Magnetic Fields,12
-2007-01,The Radio Dept.,3
-2007-01,The Velvet Underground,12
-2007-01,The Wedding Present,3
-2007-01,Yo La Tengo,36
-2007-02,Belle And Sebastian,8
-2007-02,Bob Dylan,0
-2007-02,Broadcast,2
-2007-02,Echo & The Bunnymen,5
-2007-02,Electrelane,6
-2007-02,Galaxie 500,8
-2007-02,Jens Lekman,5
-2007-02,Lilys,5
-2007-02,Mercury Rev,2
-2007-02,Pavement,5
-2007-02,Ride,3
-2007-02,Saint Etienne,7
-2007-02,Sonic Youth,19
-2007-02,The Beatles,11
-2007-02,The Fall,29
-2007-02,The Magnetic Fields,7
-2007-02,The Radio Dept.,5
-2007-02,The Velvet Underground,6
-2007-02,The Wedding Present,6
-2007-02,Yo La Tengo,13
-2007-03,Belle And Sebastian,18
-2007-03,Bob Dylan,0
-2007-03,Broadcast,4
-2007-03,Echo & The Bunnymen,8
-2007-03,Electrelane,13
-2007-03,Galaxie 500,4
-2007-03,Jens Lekman,2
-2007-03,Lilys,10
-2007-03,Mercury Rev,3
-2007-03,Pavement,3
-2007-03,Ride,7
-2007-03,Saint Etienne,3
-2007-03,Sonic Youth,16
-2007-03,The Beatles,10
-2007-03,The Fall,31
-2007-03,The Magnetic Fields,9
-2007-03,The Radio Dept.,8
-2007-03,The Velvet Underground,8
-2007-03,The Wedding Present,1
-2007-03,Yo La Tengo,10
-2007-04,Belle And Sebastian,15
-2007-04,Bob Dylan,1
-2007-04,Broadcast,2
-2007-04,Echo & The Bunnymen,6
-2007-04,Electrelane,10
-2007-04,Galaxie 500,4
-2007-04,Jens Lekman,1
-2007-04,Lilys,14
-2007-04,Mercury Rev,4
-2007-04,Pavement,4
-2007-04,Ride,8
-2007-04,Saint Etienne,2
-2007-04,Sonic Youth,13
-2007-04,The Beatles,4
-2007-04,The Fall,17
-2007-04,The Magnetic Fields,4
-2007-04,The Radio Dept.,8
-2007-04,The Velvet Underground,4
-2007-04,The Wedding Present,4
-2007-04,Yo La Tengo,7
-2007-05,Belle And Sebastian,15
-2007-05,Bob Dylan,1
-2007-05,Broadcast,2
-2007-05,Echo & The Bunnymen,5
-2007-05,Electrelane,11
-2007-05,Galaxie 500,5
-2007-05,Jens Lekman,7
-2007-05,Lilys,5
-2007-05,Mercury Rev,2
-2007-05,Pavement,6
-2007-05,Ride,5
-2007-05,Saint Etienne,4
-2007-05,Sonic Youth,10
-2007-05,The Beatles,5
-2007-05,The Fall,15
-2007-05,The Magnetic Fields,4
-2007-05,The Radio Dept.,12
-2007-05,The Velvet Underground,8
-2007-05,The Wedding Present,5
-2007-05,Yo La Tengo,6
-2007-06,Belle And Sebastian,7
-2007-06,Bob Dylan,8
-2007-06,Broadcast,1
-2007-06,Echo & The Bunnymen,4
-2007-06,Electrelane,4
-2007-06,Galaxie 500,2
-2007-06,Jens Lekman,6
-2007-06,Lilys,4
-2007-06,Mercury Rev,2
-2007-06,Pavement,3
-2007-06,Ride,2
-2007-06,Saint Etienne,2
-2007-06,Sonic Youth,11
-2007-06,The Beatles,6
-2007-06,The Fall,11
-2007-06,The Magnetic Fields,2
-2007-06,The Radio Dept.,9
-2007-06,The Velvet Underground,2
-2007-06,The Wedding Present,3
-2007-06,Yo La Tengo,7
-2007-07,Belle And Sebastian,16
-2007-07,Bob Dylan,2
-2007-07,Broadcast,3
-2007-07,Echo & The Bunnymen,2
-2007-07,Electrelane,5
-2007-07,Galaxie 500,4
-2007-07,Jens Lekman,2
-2007-07,Lilys,3
-2007-07,Mercury Rev,2
-2007-07,Pavement,5
-2007-07,Ride,5
-2007-07,Saint Etienne,5
-2007-07,Sonic Youth,6
-2007-07,The Beatles,2
-2007-07,The Fall,10
-2007-07,The Magnetic Fields,19
-2007-07,The Radio Dept.,7
-2007-07,The Velvet Underground,3
-2007-07,The Wedding Present,0
-2007-07,Yo La Tengo,3
-2007-08,Belle And Sebastian,8
-2007-08,Bob Dylan,3
-2007-08,Broadcast,2
-2007-08,Echo & The Bunnymen,2
-2007-08,Electrelane,10
-2007-08,Galaxie 500,1
-2007-08,Jens Lekman,5
-2007-08,Lilys,4
-2007-08,Mercury Rev,3
-2007-08,Pavement,6
-2007-08,Ride,4
-2007-08,Saint Etienne,10
-2007-08,Sonic Youth,7
-2007-08,The Beatles,6
-2007-08,The Fall,33
-2007-08,The Magnetic Fields,13
-2007-08,The Radio Dept.,3
-2007-08,The Velvet Underground,0
-2007-08,The Wedding Present,2
-2007-08,Yo La Tengo,5
-2007-09,Belle And Sebastian,9
-2007-09,Bob Dylan,3
-2007-09,Broadcast,1
-2007-09,Echo & The Bunnymen,6
-2007-09,Electrelane,1
-2007-09,Galaxie 500,2
-2007-09,Jens Lekman,5
-2007-09,Lilys,5
-2007-09,Mercury Rev,2
-2007-09,Pavement,5
-2007-09,Ride,4
-2007-09,Saint Etienne,6
-2007-09,Sonic Youth,10
-2007-09,The Beatles,2
-2007-09,The Fall,16
-2007-09,The Magnetic Fields,10
-2007-09,The Radio Dept.,6
-2007-09,The Velvet Underground,7
-2007-09,The Wedding Present,3
-2007-09,Yo La Tengo,6
-2007-10,Belle And Sebastian,2
-2007-10,Bob Dylan,1
-2007-10,Broadcast,1
-2007-10,Echo & The Bunnymen,5
-2007-10,Electrelane,4
-2007-10,Galaxie 500,6
-2007-10,Jens Lekman,1
-2007-10,Lilys,1
-2007-10,Mercury Rev,2
-2007-10,Pavement,7
-2007-10,Ride,2
-2007-10,Saint Etienne,6
-2007-10,Sonic Youth,7
-2007-10,The Beatles,4
-2007-10,The Fall,14
-2007-10,The Magnetic Fields,5
-2007-10,The Radio Dept.,1
-2007-10,The Velvet Underground,5
-2007-10,The Wedding Present,3
-2007-10,Yo La Tengo,3
-2007-11,Belle And Sebastian,7
-2007-11,Bob Dylan,14
-2007-11,Broadcast,3
-2007-11,Echo & The Bunnymen,6
-2007-11,Electrelane,7
-2007-11,Galaxie 500,3
-2007-11,Jens Lekman,1
-2007-11,Lilys,7
-2007-11,Mercury Rev,3
-2007-11,Pavement,2
-2007-11,Ride,10
-2007-11,Saint Etienne,6
-2007-11,Sonic Youth,8
-2007-11,The Beatles,5
-2007-11,The Fall,21
-2007-11,The Magnetic Fields,6
-2007-11,The Radio Dept.,4
-2007-11,The Velvet Underground,1
-2007-11,The Wedding Present,6
-2007-11,Yo La Tengo,14
-2007-12,Belle And Sebastian,8
-2007-12,Bob Dylan,7
-2007-12,Broadcast,4
-2007-12,Echo & The Bunnymen,2
-2007-12,Electrelane,2
-2007-12,Galaxie 500,2
-2007-12,Jens Lekman,1
-2007-12,Lilys,3
-2007-12,Mercury Rev,4
-2007-12,Pavement,2
-2007-12,Ride,4
-2007-12,Saint Etienne,5
-2007-12,Sonic Youth,12
-2007-12,The Beatles,4
-2007-12,The Fall,15
-2007-12,The Magnetic Fields,7
-2007-12,The Radio Dept.,1
-2007-12,The Velvet Underground,19
-2007-12,The Wedding Present,15
-2007-12,Yo La Tengo,3
-2008-01,Belle And Sebastian,5
-2008-01,Bob Dylan,3
-2008-01,Broadcast,1
-2008-01,Echo & The Bunnymen,4
-2008-01,Electrelane,9
-2008-01,Galaxie 500,0
-2008-01,Jens Lekman,0
-2008-01,Lilys,1
-2008-01,Mercury Rev,1
-2008-01,Pavement,3
-2008-01,Ride,2
-2008-01,Saint Etienne,4
-2008-01,Sonic Youth,7
-2008-01,The Beatles,6
-2008-01,The Fall,22
-2008-01,The Magnetic Fields,11
-2008-01,The Radio Dept.,4
-2008-01,The Velvet Underground,2
-2008-01,The Wedding Present,5
-2008-01,Yo La Tengo,3
-2008-02,Belle And Sebastian,4
-2008-02,Bob Dylan,1
-2008-02,Broadcast,54
-2008-02,Echo & The Bunnymen,1
-2008-02,Electrelane,3
-2008-02,Galaxie 500,2
-2008-02,Jens Lekman,5
-2008-02,Lilys,2
-2008-02,Mercury Rev,0
-2008-02,Pavement,3
-2008-02,Ride,1
-2008-02,Saint Etienne,3
-2008-02,Sonic Youth,3
-2008-02,The Beatles,3
-2008-02,The Fall,14
-2008-02,The Magnetic Fields,22
-2008-02,The Radio Dept.,2
-2008-02,The Velvet Underground,1
-2008-02,The Wedding Present,2
-2008-02,Yo La Tengo,4
-2008-03,Belle And Sebastian,7
-2008-03,Bob Dylan,1
-2008-03,Broadcast,0
-2008-03,Echo & The Bunnymen,3
-2008-03,Electrelane,3
-2008-03,Galaxie 500,2
-2008-03,Jens Lekman,3
-2008-03,Lilys,1
-2008-03,Mercury Rev,2
-2008-03,Pavement,1
-2008-03,Ride,6
-2008-03,Saint Etienne,6
-2008-03,Sonic Youth,10
-2008-03,The Beatles,0
-2008-03,The Fall,13
-2008-03,The Magnetic Fields,11
-2008-03,The Radio Dept.,3
-2008-03,The Velvet Underground,5
-2008-03,The Wedding Present,4
-2008-03,Yo La Tengo,3
-2008-04,Belle And Sebastian,13
-2008-04,Bob Dylan,1
-2008-04,Broadcast,2
-2008-04,Echo & The Bunnymen,4
-2008-04,Electrelane,1
-2008-04,Galaxie 500,2
-2008-04,Jens Lekman,2
-2008-04,Lilys,4
-2008-04,Mercury Rev,1
-2008-04,Pavement,3
-2008-04,Ride,21
-2008-04,Saint Etienne,3
-2008-04,Sonic Youth,28
-2008-04,The Beatles,0
-2008-04,The Fall,6
-2008-04,The Magnetic Fields,6
-2008-04,The Radio Dept.,4
-2008-04,The Velvet Underground,2
-2008-04,The Wedding Present,9
-2008-04,Yo La Tengo,4
-2008-05,Belle And Sebastian,23
-2008-05,Bob Dylan,5
-2008-05,Broadcast,0
-2008-05,Echo & The Bunnymen,5
-2008-05,Electrelane,11
-2008-05,Galaxie 500,3
-2008-05,Jens Lekman,1
-2008-05,Lilys,2
-2008-05,Mercury Rev,1
-2008-05,Pavement,1
-2008-05,Ride,3
-2008-05,Saint Etienne,5
-2008-05,Sonic Youth,3
-2008-05,The Beatles,5
-2008-05,The Fall,4
-2008-05,The Magnetic Fields,14
-2008-05,The Radio Dept.,7
-2008-05,The Velvet Underground,4
-2008-05,The Wedding Present,3
-2008-05,Yo La Tengo,21
-2008-06,Belle And Sebastian,10
-2008-06,Bob Dylan,3
-2008-06,Broadcast,4
-2008-06,Echo & The Bunnymen,5
-2008-06,Electrelane,10
-2008-06,Galaxie 500,3
-2008-06,Jens Lekman,3
-2008-06,Lilys,4
-2008-06,Mercury Rev,1
-2008-06,Pavement,5
-2008-06,Ride,6
-2008-06,Saint Etienne,5
-2008-06,Sonic Youth,4
-2008-06,The Beatles,4
-2008-06,The Fall,11
-2008-06,The Magnetic Fields,9
-2008-06,The Radio Dept.,7
-2008-06,The Velvet Underground,4
-2008-06,The Wedding Present,1
-2008-06,Yo La Tengo,2
-2008-07,Belle And Sebastian,3
-2008-07,Bob Dylan,9
-2008-07,Broadcast,2
-2008-07,Echo & The Bunnymen,2
-2008-07,Electrelane,6
-2008-07,Galaxie 500,2
-2008-07,Jens Lekman,0
-2008-07,Lilys,3
-2008-07,Mercury Rev,3
-2008-07,Pavement,6
-2008-07,Ride,2
-2008-07,Saint Etienne,6
-2008-07,Sonic Youth,3
-2008-07,The Beatles,4
-2008-07,The Fall,20
-2008-07,The Magnetic Fields,17
-2008-07,The Radio Dept.,1
-2008-07,The Velvet Underground,1
-2008-07,The Wedding Present,5
-2008-07,Yo La Tengo,4
-2008-08,Belle And Sebastian,4
-2008-08,Bob Dylan,5
-2008-08,Broadcast,1
-2008-08,Echo & The Bunnymen,0
-2008-08,Electrelane,5
-2008-08,Galaxie 500,2
-2008-08,Jens Lekman,0
-2008-08,Lilys,1
-2008-08,Mercury Rev,1
-2008-08,Pavement,0
-2008-08,Ride,5
-2008-08,Saint Etienne,1
-2008-08,Sonic Youth,6
-2008-08,The Beatles,3
-2008-08,The Fall,7
-2008-08,The Magnetic Fields,7
-2008-08,The Radio Dept.,4
-2008-08,The Velvet Underground,2
-2008-08,The Wedding Present,10
-2008-08,Yo La Tengo,5
-2008-09,Belle And Sebastian,1
-2008-09,Bob Dylan,4
-2008-09,Broadcast,0
-2008-09,Echo & The Bunnymen,0
-2008-09,Electrelane,2
-2008-09,Galaxie 500,5
-2008-09,Jens Lekman,1
-2008-09,Lilys,3
-2008-09,Mercury Rev,2
-2008-09,Pavement,1
-2008-09,Ride,5
-2008-09,Saint Etienne,4
-2008-09,Sonic Youth,0
-2008-09,The Beatles,7
-2008-09,The Fall,6
-2008-09,The Magnetic Fields,4
-2008-09,The Radio Dept.,4
-2008-09,The Velvet Underground,2
-2008-09,The Wedding Present,1
-2008-09,Yo La Tengo,2
-2008-10,Belle And Sebastian,24
-2008-10,Bob Dylan,3
-2008-10,Broadcast,2
-2008-10,Echo & The Bunnymen,2
-2008-10,Electrelane,4
-2008-10,Galaxie 500,1
-2008-10,Jens Lekman,3
-2008-10,Lilys,3
-2008-10,Mercury Rev,9
-2008-10,Pavement,2
-2008-10,Ride,3
-2008-10,Saint Etienne,6
-2008-10,Sonic Youth,7
-2008-10,The Beatles,3
-2008-10,The Fall,17
-2008-10,The Magnetic Fields,8
-2008-10,The Radio Dept.,2
-2008-10,The Velvet Underground,6
-2008-10,The Wedding Present,8
-2008-10,Yo La Tengo,3
-2008-11,Belle And Sebastian,3
-2008-11,Bob Dylan,0
-2008-11,Broadcast,2
-2008-11,Echo & The Bunnymen,2
-2008-11,Electrelane,16
-2008-11,Galaxie 500,0
-2008-11,Jens Lekman,3
-2008-11,Lilys,2
-2008-11,Mercury Rev,1
-2008-11,Pavement,2
-2008-11,Ride,2
-2008-11,Saint Etienne,1
-2008-11,Sonic Youth,2
-2008-11,The Beatles,4
-2008-11,The Fall,2
-2008-11,The Magnetic Fields,8
-2008-11,The Radio Dept.,1
-2008-11,The Velvet Underground,1
-2008-11,The Wedding Present,2
-2008-11,Yo La Tengo,3
-2008-12,Belle And Sebastian,1
-2008-12,Bob Dylan,1
-2008-12,Broadcast,0
-2008-12,Echo & The Bunnymen,4
-2008-12,Electrelane,8
-2008-12,Galaxie 500,3
-2008-12,Jens Lekman,2
-2008-12,Lilys,1
-2008-12,Mercury Rev,5
-2008-12,Pavement,2
-2008-12,Ride,2
-2008-12,Saint Etienne,2
-2008-12,Sonic Youth,3
-2008-12,The Beatles,7
-2008-12,The Fall,7
-2008-12,The Magnetic Fields,5
-2008-12,The Radio Dept.,3
-2008-12,The Velvet Underground,10
-2008-12,The Wedding Present,3
-2008-12,Yo La Tengo,5
-2009-01,Belle And Sebastian,10
-2009-01,Bob Dylan,3
-2009-01,Broadcast,1
-2009-01,Echo & The Bunnymen,7
-2009-01,Electrelane,8
-2009-01,Galaxie 500,2
-2009-01,Jens Lekman,6
-2009-01,Lilys,1
-2009-01,Mercury Rev,8
-2009-01,Pavement,6
-2009-01,Ride,4
-2009-01,Saint Etienne,1
-2009-01,Sonic Youth,5
-2009-01,The Beatles,3
-2009-01,The Fall,18
-2009-01,The Magnetic Fields,17
-2009-01,The Radio Dept.,2
-2009-01,The Velvet Underground,3
-2009-01,The Wedding Present,5
-2009-01,Yo La Tengo,2
-2009-02,Belle And Sebastian,4
-2009-02,Bob Dylan,1
-2009-02,Broadcast,1
-2009-02,Echo & The Bunnymen,0
-2009-02,Electrelane,5
-2009-02,Galaxie 500,1
-2009-02,Jens Lekman,2
-2009-02,Lilys,4
-2009-02,Mercury Rev,2
-2009-02,Pavement,0
-2009-02,Ride,4
-2009-02,Saint Etienne,1
-2009-02,Sonic Youth,4
-2009-02,The Beatles,0
-2009-02,The Fall,7
-2009-02,The Magnetic Fields,5
-2009-02,The Radio Dept.,3
-2009-02,The Velvet Underground,1
-2009-02,The Wedding Present,1
-2009-02,Yo La Tengo,3
-2009-03,Belle And Sebastian,7
-2009-03,Bob Dylan,1
-2009-03,Broadcast,3
-2009-03,Echo & The Bunnymen,1
-2009-03,Electrelane,4
-2009-03,Galaxie 500,1
-2009-03,Jens Lekman,3
-2009-03,Lilys,0
-2009-03,Mercury Rev,1
-2009-03,Pavement,1
-2009-03,Ride,3
-2009-03,Saint Etienne,3
-2009-03,Sonic Youth,9
-2009-03,The Beatles,9
-2009-03,The Fall,16
-2009-03,The Magnetic Fields,12
-2009-03,The Radio Dept.,2
-2009-03,The Velvet Underground,2
-2009-03,The Wedding Present,4
-2009-03,Yo La Tengo,6
-2009-04,Belle And Sebastian,3
-2009-04,Bob Dylan,3
-2009-04,Broadcast,1
-2009-04,Echo & The Bunnymen,1
-2009-04,Electrelane,4
-2009-04,Galaxie 500,0
-2009-04,Jens Lekman,0
-2009-04,Lilys,4
-2009-04,Mercury Rev,2
-2009-04,Pavement,1
-2009-04,Ride,2
-2009-04,Saint Etienne,6
-2009-04,Sonic Youth,8
-2009-04,The Beatles,2
-2009-04,The Fall,25
-2009-04,The Magnetic Fields,3
-2009-04,The Radio Dept.,0
-2009-04,The Velvet Underground,3
-2009-04,The Wedding Present,1
-2009-04,Yo La Tengo,1
+"month","artist","plays"
+"2006-02","Belle And Sebastian",3
+"2006-02","Bob Dylan",6
+"2006-02","Broadcast",1
+"2006-02","Echo & The Bunnymen",1
+"2006-02","Electrelane",0
+"2006-02","Galaxie 500",1
+"2006-02","Jens Lekman",2
+"2006-02","Lilys",0
+"2006-02","Mercury Rev",1
+"2006-02","Pavement",3
+"2006-02","Ride",7
+"2006-02","Saint Etienne",1
+"2006-02","Sonic Youth",6
+"2006-02","The Beatles",8
+"2006-02","The Fall",3
+"2006-02","The Magnetic Fields",1
+"2006-02","The Radio Dept.",1
+"2006-02","The Velvet Underground",5
+"2006-02","The Wedding Present",0
+"2006-02","Yo La Tengo",1
+"2006-03","Belle And Sebastian",7
+"2006-03","Bob Dylan",3
+"2006-03","Broadcast",3
+"2006-03","Echo & The Bunnymen",1
+"2006-03","Electrelane",3
+"2006-03","Galaxie 500",4
+"2006-03","Jens Lekman",2
+"2006-03","Lilys",1
+"2006-03","Mercury Rev",3
+"2006-03","Pavement",7
+"2006-03","Ride",11
+"2006-03","Saint Etienne",4
+"2006-03","Sonic Youth",7
+"2006-03","The Beatles",1
+"2006-03","The Fall",14
+"2006-03","The Magnetic Fields",4
+"2006-03","The Radio Dept.",5
+"2006-03","The Velvet Underground",2
+"2006-03","The Wedding Present",2
+"2006-03","Yo La Tengo",3
+"2006-04","Belle And Sebastian",2
+"2006-04","Bob Dylan",1
+"2006-04","Broadcast",3
+"2006-04","Echo & The Bunnymen",2
+"2006-04","Electrelane",1
+"2006-04","Galaxie 500",1
+"2006-04","Jens Lekman",2
+"2006-04","Lilys",2
+"2006-04","Mercury Rev",0
+"2006-04","Pavement",1
+"2006-04","Ride",1
+"2006-04","Saint Etienne",1
+"2006-04","Sonic Youth",2
+"2006-04","The Beatles",2
+"2006-04","The Fall",3
+"2006-04","The Magnetic Fields",2
+"2006-04","The Radio Dept.",3
+"2006-04","The Velvet Underground",4
+"2006-04","The Wedding Present",0
+"2006-04","Yo La Tengo",2
+"2006-05","Belle And Sebastian",9
+"2006-05","Bob Dylan",0
+"2006-05","Broadcast",2
+"2006-05","Echo & The Bunnymen",5
+"2006-05","Electrelane",0
+"2006-05","Galaxie 500",1
+"2006-05","Jens Lekman",2
+"2006-05","Lilys",3
+"2006-05","Mercury Rev",2
+"2006-05","Pavement",3
+"2006-05","Ride",8
+"2006-05","Saint Etienne",8
+"2006-05","Sonic Youth",5
+"2006-05","The Beatles",4
+"2006-05","The Fall",8
+"2006-05","The Magnetic Fields",8
+"2006-05","The Radio Dept.",10
+"2006-05","The Velvet Underground",2
+"2006-05","The Wedding Present",1
+"2006-05","Yo La Tengo",4
+"2006-06","Belle And Sebastian",9
+"2006-06","Bob Dylan",1
+"2006-06","Broadcast",4
+"2006-06","Echo & The Bunnymen",4
+"2006-06","Electrelane",4
+"2006-06","Galaxie 500",7
+"2006-06","Jens Lekman",11
+"2006-06","Lilys",1
+"2006-06","Mercury Rev",4
+"2006-06","Pavement",4
+"2006-06","Ride",6
+"2006-06","Saint Etienne",15
+"2006-06","Sonic Youth",6
+"2006-06","The Beatles",2
+"2006-06","The Fall",12
+"2006-06","The Magnetic Fields",2
+"2006-06","The Radio Dept.",4
+"2006-06","The Velvet Underground",10
+"2006-06","The Wedding Present",5
+"2006-06","Yo La Tengo",12
+"2006-07","Belle And Sebastian",19
+"2006-07","Bob Dylan",5
+"2006-07","Broadcast",6
+"2006-07","Echo & The Bunnymen",8
+"2006-07","Electrelane",6
+"2006-07","Galaxie 500",5
+"2006-07","Jens Lekman",3
+"2006-07","Lilys",1
+"2006-07","Mercury Rev",3
+"2006-07","Pavement",9
+"2006-07","Ride",9
+"2006-07","Saint Etienne",6
+"2006-07","Sonic Youth",28
+"2006-07","The Beatles",6
+"2006-07","The Fall",21
+"2006-07","The Magnetic Fields",5
+"2006-07","The Radio Dept.",7
+"2006-07","The Velvet Underground",7
+"2006-07","The Wedding Present",4
+"2006-07","Yo La Tengo",13
+"2006-08","Belle And Sebastian",11
+"2006-08","Bob Dylan",8
+"2006-08","Broadcast",7
+"2006-08","Echo & The Bunnymen",9
+"2006-08","Electrelane",19
+"2006-08","Galaxie 500",14
+"2006-08","Jens Lekman",24
+"2006-08","Lilys",5
+"2006-08","Mercury Rev",0
+"2006-08","Pavement",11
+"2006-08","Ride",6
+"2006-08","Saint Etienne",5
+"2006-08","Sonic Youth",29
+"2006-08","The Beatles",3
+"2006-08","The Fall",21
+"2006-08","The Magnetic Fields",4
+"2006-08","The Radio Dept.",22
+"2006-08","The Velvet Underground",11
+"2006-08","The Wedding Present",14
+"2006-08","Yo La Tengo",16
+"2006-09","Belle And Sebastian",11
+"2006-09","Bob Dylan",12
+"2006-09","Broadcast",4
+"2006-09","Echo & The Bunnymen",5
+"2006-09","Electrelane",4
+"2006-09","Galaxie 500",6
+"2006-09","Jens Lekman",5
+"2006-09","Lilys",22
+"2006-09","Mercury Rev",3
+"2006-09","Pavement",5
+"2006-09","Ride",12
+"2006-09","Saint Etienne",6
+"2006-09","Sonic Youth",8
+"2006-09","The Beatles",17
+"2006-09","The Fall",21
+"2006-09","The Magnetic Fields",3
+"2006-09","The Radio Dept.",6
+"2006-09","The Velvet Underground",13
+"2006-09","The Wedding Present",4
+"2006-09","Yo La Tengo",11
+"2006-10","Belle And Sebastian",9
+"2006-10","Bob Dylan",2
+"2006-10","Broadcast",5
+"2006-10","Echo & The Bunnymen",3
+"2006-10","Electrelane",4
+"2006-10","Galaxie 500",3
+"2006-10","Jens Lekman",3
+"2006-10","Lilys",6
+"2006-10","Mercury Rev",2
+"2006-10","Pavement",2
+"2006-10","Ride",3
+"2006-10","Saint Etienne",1
+"2006-10","Sonic Youth",8
+"2006-10","The Beatles",3
+"2006-10","The Fall",18
+"2006-10","The Magnetic Fields",5
+"2006-10","The Radio Dept.",9
+"2006-10","The Velvet Underground",5
+"2006-10","The Wedding Present",2
+"2006-10","Yo La Tengo",4
+"2006-11","Belle And Sebastian",10
+"2006-11","Bob Dylan",1
+"2006-11","Broadcast",4
+"2006-11","Echo & The Bunnymen",5
+"2006-11","Electrelane",4
+"2006-11","Galaxie 500",2
+"2006-11","Jens Lekman",6
+"2006-11","Lilys",3
+"2006-11","Mercury Rev",2
+"2006-11","Pavement",2
+"2006-11","Ride",6
+"2006-11","Saint Etienne",4
+"2006-11","Sonic Youth",14
+"2006-11","The Beatles",19
+"2006-11","The Fall",36
+"2006-11","The Magnetic Fields",7
+"2006-11","The Radio Dept.",5
+"2006-11","The Velvet Underground",5
+"2006-11","The Wedding Present",4
+"2006-11","Yo La Tengo",4
+"2006-12","Belle And Sebastian",10
+"2006-12","Bob Dylan",4
+"2006-12","Broadcast",31
+"2006-12","Echo & The Bunnymen",0
+"2006-12","Electrelane",0
+"2006-12","Galaxie 500",14
+"2006-12","Jens Lekman",7
+"2006-12","Lilys",6
+"2006-12","Mercury Rev",1
+"2006-12","Pavement",19
+"2006-12","Ride",5
+"2006-12","Saint Etienne",3
+"2006-12","Sonic Youth",10
+"2006-12","The Beatles",14
+"2006-12","The Fall",31
+"2006-12","The Magnetic Fields",13
+"2006-12","The Radio Dept.",8
+"2006-12","The Velvet Underground",17
+"2006-12","The Wedding Present",10
+"2006-12","Yo La Tengo",2
+"2007-01","Belle And Sebastian",12
+"2007-01","Bob Dylan",4
+"2007-01","Broadcast",6
+"2007-01","Echo & The Bunnymen",1
+"2007-01","Electrelane",55
+"2007-01","Galaxie 500",6
+"2007-01","Jens Lekman",6
+"2007-01","Lilys",1
+"2007-01","Mercury Rev",2
+"2007-01","Pavement",6
+"2007-01","Ride",3
+"2007-01","Saint Etienne",4
+"2007-01","Sonic Youth",13
+"2007-01","The Beatles",8
+"2007-01","The Fall",12
+"2007-01","The Magnetic Fields",12
+"2007-01","The Radio Dept.",3
+"2007-01","The Velvet Underground",12
+"2007-01","The Wedding Present",3
+"2007-01","Yo La Tengo",36
+"2007-02","Belle And Sebastian",8
+"2007-02","Bob Dylan",0
+"2007-02","Broadcast",2
+"2007-02","Echo & The Bunnymen",5
+"2007-02","Electrelane",6
+"2007-02","Galaxie 500",8
+"2007-02","Jens Lekman",5
+"2007-02","Lilys",5
+"2007-02","Mercury Rev",2
+"2007-02","Pavement",5
+"2007-02","Ride",3
+"2007-02","Saint Etienne",7
+"2007-02","Sonic Youth",19
+"2007-02","The Beatles",11
+"2007-02","The Fall",29
+"2007-02","The Magnetic Fields",7
+"2007-02","The Radio Dept.",5
+"2007-02","The Velvet Underground",6
+"2007-02","The Wedding Present",6
+"2007-02","Yo La Tengo",13
+"2007-03","Belle And Sebastian",18
+"2007-03","Bob Dylan",0
+"2007-03","Broadcast",4
+"2007-03","Echo & The Bunnymen",8
+"2007-03","Electrelane",13
+"2007-03","Galaxie 500",4
+"2007-03","Jens Lekman",2
+"2007-03","Lilys",10
+"2007-03","Mercury Rev",3
+"2007-03","Pavement",3
+"2007-03","Ride",7
+"2007-03","Saint Etienne",3
+"2007-03","Sonic Youth",16
+"2007-03","The Beatles",10
+"2007-03","The Fall",31
+"2007-03","The Magnetic Fields",9
+"2007-03","The Radio Dept.",8
+"2007-03","The Velvet Underground",8
+"2007-03","The Wedding Present",1
+"2007-03","Yo La Tengo",10
+"2007-04","Belle And Sebastian",15
+"2007-04","Bob Dylan",1
+"2007-04","Broadcast",2
+"2007-04","Echo & The Bunnymen",6
+"2007-04","Electrelane",10
+"2007-04","Galaxie 500",4
+"2007-04","Jens Lekman",1
+"2007-04","Lilys",14
+"2007-04","Mercury Rev",4
+"2007-04","Pavement",4
+"2007-04","Ride",8
+"2007-04","Saint Etienne",2
+"2007-04","Sonic Youth",13
+"2007-04","The Beatles",4
+"2007-04","The Fall",17
+"2007-04","The Magnetic Fields",4
+"2007-04","The Radio Dept.",8
+"2007-04","The Velvet Underground",4
+"2007-04","The Wedding Present",4
+"2007-04","Yo La Tengo",7
+"2007-05","Belle And Sebastian",15
+"2007-05","Bob Dylan",1
+"2007-05","Broadcast",2
+"2007-05","Echo & The Bunnymen",5
+"2007-05","Electrelane",11
+"2007-05","Galaxie 500",5
+"2007-05","Jens Lekman",7
+"2007-05","Lilys",5
+"2007-05","Mercury Rev",2
+"2007-05","Pavement",6
+"2007-05","Ride",5
+"2007-05","Saint Etienne",4
+"2007-05","Sonic Youth",10
+"2007-05","The Beatles",5
+"2007-05","The Fall",15
+"2007-05","The Magnetic Fields",4
+"2007-05","The Radio Dept.",12
+"2007-05","The Velvet Underground",8
+"2007-05","The Wedding Present",5
+"2007-05","Yo La Tengo",6
+"2007-06","Belle And Sebastian",7
+"2007-06","Bob Dylan",8
+"2007-06","Broadcast",1
+"2007-06","Echo & The Bunnymen",4
+"2007-06","Electrelane",4
+"2007-06","Galaxie 500",2
+"2007-06","Jens Lekman",6
+"2007-06","Lilys",4
+"2007-06","Mercury Rev",2
+"2007-06","Pavement",3
+"2007-06","Ride",2
+"2007-06","Saint Etienne",2
+"2007-06","Sonic Youth",11
+"2007-06","The Beatles",6
+"2007-06","The Fall",11
+"2007-06","The Magnetic Fields",2
+"2007-06","The Radio Dept.",9
+"2007-06","The Velvet Underground",2
+"2007-06","The Wedding Present",3
+"2007-06","Yo La Tengo",7
+"2007-07","Belle And Sebastian",16
+"2007-07","Bob Dylan",2
+"2007-07","Broadcast",3
+"2007-07","Echo & The Bunnymen",2
+"2007-07","Electrelane",5
+"2007-07","Galaxie 500",4
+"2007-07","Jens Lekman",2
+"2007-07","Lilys",3
+"2007-07","Mercury Rev",2
+"2007-07","Pavement",5
+"2007-07","Ride",5
+"2007-07","Saint Etienne",5
+"2007-07","Sonic Youth",6
+"2007-07","The Beatles",2
+"2007-07","The Fall",10
+"2007-07","The Magnetic Fields",19
+"2007-07","The Radio Dept.",7
+"2007-07","The Velvet Underground",3
+"2007-07","The Wedding Present",0
+"2007-07","Yo La Tengo",3
+"2007-08","Belle And Sebastian",8
+"2007-08","Bob Dylan",3
+"2007-08","Broadcast",2
+"2007-08","Echo & The Bunnymen",2
+"2007-08","Electrelane",10
+"2007-08","Galaxie 500",1
+"2007-08","Jens Lekman",5
+"2007-08","Lilys",4
+"2007-08","Mercury Rev",3
+"2007-08","Pavement",6
+"2007-08","Ride",4
+"2007-08","Saint Etienne",10
+"2007-08","Sonic Youth",7
+"2007-08","The Beatles",6
+"2007-08","The Fall",33
+"2007-08","The Magnetic Fields",13
+"2007-08","The Radio Dept.",3
+"2007-08","The Velvet Underground",0
+"2007-08","The Wedding Present",2
+"2007-08","Yo La Tengo",5
+"2007-09","Belle And Sebastian",9
+"2007-09","Bob Dylan",3
+"2007-09","Broadcast",1
+"2007-09","Echo & The Bunnymen",6
+"2007-09","Electrelane",1
+"2007-09","Galaxie 500",2
+"2007-09","Jens Lekman",5
+"2007-09","Lilys",5
+"2007-09","Mercury Rev",2
+"2007-09","Pavement",5
+"2007-09","Ride",4
+"2007-09","Saint Etienne",6
+"2007-09","Sonic Youth",10
+"2007-09","The Beatles",2
+"2007-09","The Fall",16
+"2007-09","The Magnetic Fields",10
+"2007-09","The Radio Dept.",6
+"2007-09","The Velvet Underground",7
+"2007-09","The Wedding Present",3
+"2007-09","Yo La Tengo",6
+"2007-10","Belle And Sebastian",2
+"2007-10","Bob Dylan",1
+"2007-10","Broadcast",1
+"2007-10","Echo & The Bunnymen",5
+"2007-10","Electrelane",4
+"2007-10","Galaxie 500",6
+"2007-10","Jens Lekman",1
+"2007-10","Lilys",1
+"2007-10","Mercury Rev",2
+"2007-10","Pavement",7
+"2007-10","Ride",2
+"2007-10","Saint Etienne",6
+"2007-10","Sonic Youth",7
+"2007-10","The Beatles",4
+"2007-10","The Fall",14
+"2007-10","The Magnetic Fields",5
+"2007-10","The Radio Dept.",1
+"2007-10","The Velvet Underground",5
+"2007-10","The Wedding Present",3
+"2007-10","Yo La Tengo",3
+"2007-11","Belle And Sebastian",7
+"2007-11","Bob Dylan",14
+"2007-11","Broadcast",3
+"2007-11","Echo & The Bunnymen",6
+"2007-11","Electrelane",7
+"2007-11","Galaxie 500",3
+"2007-11","Jens Lekman",1
+"2007-11","Lilys",7
+"2007-11","Mercury Rev",3
+"2007-11","Pavement",2
+"2007-11","Ride",10
+"2007-11","Saint Etienne",6
+"2007-11","Sonic Youth",8
+"2007-11","The Beatles",5
+"2007-11","The Fall",21
+"2007-11","The Magnetic Fields",6
+"2007-11","The Radio Dept.",4
+"2007-11","The Velvet Underground",1
+"2007-11","The Wedding Present",6
+"2007-11","Yo La Tengo",14
+"2007-12","Belle And Sebastian",8
+"2007-12","Bob Dylan",7
+"2007-12","Broadcast",4
+"2007-12","Echo & The Bunnymen",2
+"2007-12","Electrelane",2
+"2007-12","Galaxie 500",2
+"2007-12","Jens Lekman",1
+"2007-12","Lilys",3
+"2007-12","Mercury Rev",4
+"2007-12","Pavement",2
+"2007-12","Ride",4
+"2007-12","Saint Etienne",5
+"2007-12","Sonic Youth",12
+"2007-12","The Beatles",4
+"2007-12","The Fall",15
+"2007-12","The Magnetic Fields",7
+"2007-12","The Radio Dept.",1
+"2007-12","The Velvet Underground",19
+"2007-12","The Wedding Present",15
+"2007-12","Yo La Tengo",3
+"2008-01","Belle And Sebastian",5
+"2008-01","Bob Dylan",3
+"2008-01","Broadcast",1
+"2008-01","Echo & The Bunnymen",4
+"2008-01","Electrelane",9
+"2008-01","Galaxie 500",0
+"2008-01","Jens Lekman",0
+"2008-01","Lilys",1
+"2008-01","Mercury Rev",1
+"2008-01","Pavement",3
+"2008-01","Ride",2
+"2008-01","Saint Etienne",4
+"2008-01","Sonic Youth",7
+"2008-01","The Beatles",6
+"2008-01","The Fall",22
+"2008-01","The Magnetic Fields",11
+"2008-01","The Radio Dept.",4
+"2008-01","The Velvet Underground",2
+"2008-01","The Wedding Present",5
+"2008-01","Yo La Tengo",3
+"2008-02","Belle And Sebastian",4
+"2008-02","Bob Dylan",1
+"2008-02","Broadcast",54
+"2008-02","Echo & The Bunnymen",1
+"2008-02","Electrelane",3
+"2008-02","Galaxie 500",2
+"2008-02","Jens Lekman",5
+"2008-02","Lilys",2
+"2008-02","Mercury Rev",0
+"2008-02","Pavement",3
+"2008-02","Ride",1
+"2008-02","Saint Etienne",3
+"2008-02","Sonic Youth",3
+"2008-02","The Beatles",3
+"2008-02","The Fall",14
+"2008-02","The Magnetic Fields",22
+"2008-02","The Radio Dept.",2
+"2008-02","The Velvet Underground",1
+"2008-02","The Wedding Present",2
+"2008-02","Yo La Tengo",4
+"2008-03","Belle And Sebastian",7
+"2008-03","Bob Dylan",1
+"2008-03","Broadcast",0
+"2008-03","Echo & The Bunnymen",3
+"2008-03","Electrelane",3
+"2008-03","Galaxie 500",2
+"2008-03","Jens Lekman",3
+"2008-03","Lilys",1
+"2008-03","Mercury Rev",2
+"2008-03","Pavement",1
+"2008-03","Ride",6
+"2008-03","Saint Etienne",6
+"2008-03","Sonic Youth",10
+"2008-03","The Beatles",0
+"2008-03","The Fall",13
+"2008-03","The Magnetic Fields",11
+"2008-03","The Radio Dept.",3
+"2008-03","The Velvet Underground",5
+"2008-03","The Wedding Present",4
+"2008-03","Yo La Tengo",3
+"2008-04","Belle And Sebastian",13
+"2008-04","Bob Dylan",1
+"2008-04","Broadcast",2
+"2008-04","Echo & The Bunnymen",4
+"2008-04","Electrelane",1
+"2008-04","Galaxie 500",2
+"2008-04","Jens Lekman",2
+"2008-04","Lilys",4
+"2008-04","Mercury Rev",1
+"2008-04","Pavement",3
+"2008-04","Ride",21
+"2008-04","Saint Etienne",3
+"2008-04","Sonic Youth",28
+"2008-04","The Beatles",0
+"2008-04","The Fall",6
+"2008-04","The Magnetic Fields",6
+"2008-04","The Radio Dept.",4
+"2008-04","The Velvet Underground",2
+"2008-04","The Wedding Present",9
+"2008-04","Yo La Tengo",4
+"2008-05","Belle And Sebastian",23
+"2008-05","Bob Dylan",5
+"2008-05","Broadcast",0
+"2008-05","Echo & The Bunnymen",5
+"2008-05","Electrelane",11
+"2008-05","Galaxie 500",3
+"2008-05","Jens Lekman",1
+"2008-05","Lilys",2
+"2008-05","Mercury Rev",1
+"2008-05","Pavement",1
+"2008-05","Ride",3
+"2008-05","Saint Etienne",5
+"2008-05","Sonic Youth",3
+"2008-05","The Beatles",5
+"2008-05","The Fall",4
+"2008-05","The Magnetic Fields",14
+"2008-05","The Radio Dept.",7
+"2008-05","The Velvet Underground",4
+"2008-05","The Wedding Present",3
+"2008-05","Yo La Tengo",21
+"2008-06","Belle And Sebastian",10
+"2008-06","Bob Dylan",3
+"2008-06","Broadcast",4
+"2008-06","Echo & The Bunnymen",5
+"2008-06","Electrelane",10
+"2008-06","Galaxie 500",3
+"2008-06","Jens Lekman",3
+"2008-06","Lilys",4
+"2008-06","Mercury Rev",1
+"2008-06","Pavement",5
+"2008-06","Ride",6
+"2008-06","Saint Etienne",5
+"2008-06","Sonic Youth",4
+"2008-06","The Beatles",4
+"2008-06","The Fall",11
+"2008-06","The Magnetic Fields",9
+"2008-06","The Radio Dept.",7
+"2008-06","The Velvet Underground",4
+"2008-06","The Wedding Present",1
+"2008-06","Yo La Tengo",2
+"2008-07","Belle And Sebastian",3
+"2008-07","Bob Dylan",9
+"2008-07","Broadcast",2
+"2008-07","Echo & The Bunnymen",2
+"2008-07","Electrelane",6
+"2008-07","Galaxie 500",2
+"2008-07","Jens Lekman",0
+"2008-07","Lilys",3
+"2008-07","Mercury Rev",3
+"2008-07","Pavement",6
+"2008-07","Ride",2
+"2008-07","Saint Etienne",6
+"2008-07","Sonic Youth",3
+"2008-07","The Beatles",4
+"2008-07","The Fall",20
+"2008-07","The Magnetic Fields",17
+"2008-07","The Radio Dept.",1
+"2008-07","The Velvet Underground",1
+"2008-07","The Wedding Present",5
+"2008-07","Yo La Tengo",4
+"2008-08","Belle And Sebastian",4
+"2008-08","Bob Dylan",5
+"2008-08","Broadcast",1
+"2008-08","Echo & The Bunnymen",0
+"2008-08","Electrelane",5
+"2008-08","Galaxie 500",2
+"2008-08","Jens Lekman",0
+"2008-08","Lilys",1
+"2008-08","Mercury Rev",1
+"2008-08","Pavement",0
+"2008-08","Ride",5
+"2008-08","Saint Etienne",1
+"2008-08","Sonic Youth",6
+"2008-08","The Beatles",3
+"2008-08","The Fall",7
+"2008-08","The Magnetic Fields",7
+"2008-08","The Radio Dept.",4
+"2008-08","The Velvet Underground",2
+"2008-08","The Wedding Present",10
+"2008-08","Yo La Tengo",5
+"2008-09","Belle And Sebastian",1
+"2008-09","Bob Dylan",4
+"2008-09","Broadcast",0
+"2008-09","Echo & The Bunnymen",0
+"2008-09","Electrelane",2
+"2008-09","Galaxie 500",5
+"2008-09","Jens Lekman",1
+"2008-09","Lilys",3
+"2008-09","Mercury Rev",2
+"2008-09","Pavement",1
+"2008-09","Ride",5
+"2008-09","Saint Etienne",4
+"2008-09","Sonic Youth",0
+"2008-09","The Beatles",7
+"2008-09","The Fall",6
+"2008-09","The Magnetic Fields",4
+"2008-09","The Radio Dept.",4
+"2008-09","The Velvet Underground",2
+"2008-09","The Wedding Present",1
+"2008-09","Yo La Tengo",2
+"2008-10","Belle And Sebastian",24
+"2008-10","Bob Dylan",3
+"2008-10","Broadcast",2
+"2008-10","Echo & The Bunnymen",2
+"2008-10","Electrelane",4
+"2008-10","Galaxie 500",1
+"2008-10","Jens Lekman",3
+"2008-10","Lilys",3
+"2008-10","Mercury Rev",9
+"2008-10","Pavement",2
+"2008-10","Ride",3
+"2008-10","Saint Etienne",6
+"2008-10","Sonic Youth",7
+"2008-10","The Beatles",3
+"2008-10","The Fall",17
+"2008-10","The Magnetic Fields",8
+"2008-10","The Radio Dept.",2
+"2008-10","The Velvet Underground",6
+"2008-10","The Wedding Present",8
+"2008-10","Yo La Tengo",3
+"2008-11","Belle And Sebastian",3
+"2008-11","Bob Dylan",0
+"2008-11","Broadcast",2
+"2008-11","Echo & The Bunnymen",2
+"2008-11","Electrelane",16
+"2008-11","Galaxie 500",0
+"2008-11","Jens Lekman",3
+"2008-11","Lilys",2
+"2008-11","Mercury Rev",1
+"2008-11","Pavement",2
+"2008-11","Ride",2
+"2008-11","Saint Etienne",1
+"2008-11","Sonic Youth",2
+"2008-11","The Beatles",4
+"2008-11","The Fall",2
+"2008-11","The Magnetic Fields",8
+"2008-11","The Radio Dept.",1
+"2008-11","The Velvet Underground",1
+"2008-11","The Wedding Present",2
+"2008-11","Yo La Tengo",3
+"2008-12","Belle And Sebastian",1
+"2008-12","Bob Dylan",1
+"2008-12","Broadcast",0
+"2008-12","Echo & The Bunnymen",4
+"2008-12","Electrelane",8
+"2008-12","Galaxie 500",3
+"2008-12","Jens Lekman",2
+"2008-12","Lilys",1
+"2008-12","Mercury Rev",5
+"2008-12","Pavement",2
+"2008-12","Ride",2
+"2008-12","Saint Etienne",2
+"2008-12","Sonic Youth",3
+"2008-12","The Beatles",7
+"2008-12","The Fall",7
+"2008-12","The Magnetic Fields",5
+"2008-12","The Radio Dept.",3
+"2008-12","The Velvet Underground",10
+"2008-12","The Wedding Present",3
+"2008-12","Yo La Tengo",5
+"2009-01","Belle And Sebastian",10
+"2009-01","Bob Dylan",3
+"2009-01","Broadcast",1
+"2009-01","Echo & The Bunnymen",7
+"2009-01","Electrelane",8
+"2009-01","Galaxie 500",2
+"2009-01","Jens Lekman",6
+"2009-01","Lilys",1
+"2009-01","Mercury Rev",8
+"2009-01","Pavement",6
+"2009-01","Ride",4
+"2009-01","Saint Etienne",1
+"2009-01","Sonic Youth",5
+"2009-01","The Beatles",3
+"2009-01","The Fall",18
+"2009-01","The Magnetic Fields",17
+"2009-01","The Radio Dept.",2
+"2009-01","The Velvet Underground",3
+"2009-01","The Wedding Present",5
+"2009-01","Yo La Tengo",2
+"2009-02","Belle And Sebastian",4
+"2009-02","Bob Dylan",1
+"2009-02","Broadcast",1
+"2009-02","Echo & The Bunnymen",0
+"2009-02","Electrelane",5
+"2009-02","Galaxie 500",1
+"2009-02","Jens Lekman",2
+"2009-02","Lilys",4
+"2009-02","Mercury Rev",2
+"2009-02","Pavement",0
+"2009-02","Ride",4
+"2009-02","Saint Etienne",1
+"2009-02","Sonic Youth",4
+"2009-02","The Beatles",0
+"2009-02","The Fall",7
+"2009-02","The Magnetic Fields",5
+"2009-02","The Radio Dept.",3
+"2009-02","The Velvet Underground",1
+"2009-02","The Wedding Present",1
+"2009-02","Yo La Tengo",3
+"2009-03","Belle And Sebastian",7
+"2009-03","Bob Dylan",1
+"2009-03","Broadcast",3
+"2009-03","Echo & The Bunnymen",1
+"2009-03","Electrelane",4
+"2009-03","Galaxie 500",1
+"2009-03","Jens Lekman",3
+"2009-03","Lilys",0
+"2009-03","Mercury Rev",1
+"2009-03","Pavement",1
+"2009-03","Ride",3
+"2009-03","Saint Etienne",3
+"2009-03","Sonic Youth",9
+"2009-03","The Beatles",9
+"2009-03","The Fall",16
+"2009-03","The Magnetic Fields",12
+"2009-03","The Radio Dept.",2
+"2009-03","The Velvet Underground",2
+"2009-03","The Wedding Present",4
+"2009-03","Yo La Tengo",6
+"2009-04","Belle And Sebastian",3
+"2009-04","Bob Dylan",3
+"2009-04","Broadcast",1
+"2009-04","Echo & The Bunnymen",1
+"2009-04","Electrelane",4
+"2009-04","Galaxie 500",0
+"2009-04","Jens Lekman",0
+"2009-04","Lilys",4
+"2009-04","Mercury Rev",2
+"2009-04","Pavement",1
+"2009-04","Ride",2
+"2009-04","Saint Etienne",6
+"2009-04","Sonic Youth",8
+"2009-04","The Beatles",2
+"2009-04","The Fall",25
+"2009-04","The Magnetic Fields",3
+"2009-04","The Radio Dept.",0
+"2009-04","The Velvet Underground",3
+"2009-04","The Wedding Present",1
+"2009-04","Yo La Tengo",1

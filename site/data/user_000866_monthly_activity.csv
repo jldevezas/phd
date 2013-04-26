@@ -1,64 +1,64 @@
-month,artist,plays
-2008-07,Codeine,0
-2008-07,Dinosaur Jr.,5
-2008-07,Gomez,4
-2008-07,Nine Inch Nails,14
-2008-07,Pavement,2
-2008-07,Radiohead,6
-2008-07,Third Eye Blind,10
-2008-08,Codeine,0
-2008-08,Dinosaur Jr.,0
-2008-08,Gomez,0
-2008-08,Nine Inch Nails,0
-2008-08,Pavement,0
-2008-08,Radiohead,0
-2008-08,Third Eye Blind,0
-2008-09,Codeine,0
-2008-09,Dinosaur Jr.,0
-2008-09,Gomez,0
-2008-09,Nine Inch Nails,0
-2008-09,Pavement,0
-2008-09,Radiohead,0
-2008-09,Third Eye Blind,0
-2008-10,Codeine,0
-2008-10,Dinosaur Jr.,0
-2008-10,Gomez,0
-2008-10,Nine Inch Nails,0
-2008-10,Pavement,0
-2008-10,Radiohead,0
-2008-10,Third Eye Blind,0
-2008-11,Codeine,0
-2008-11,Dinosaur Jr.,0
-2008-11,Gomez,0
-2008-11,Nine Inch Nails,0
-2008-11,Pavement,0
-2008-11,Radiohead,0
-2008-11,Third Eye Blind,0
-2008-12,Codeine,0
-2008-12,Dinosaur Jr.,0
-2008-12,Gomez,0
-2008-12,Nine Inch Nails,0
-2008-12,Pavement,0
-2008-12,Radiohead,0
-2008-12,Third Eye Blind,0
-2009-01,Codeine,0
-2009-01,Dinosaur Jr.,0
-2009-01,Gomez,0
-2009-01,Nine Inch Nails,0
-2009-01,Pavement,0
-2009-01,Radiohead,0
-2009-01,Third Eye Blind,0
-2009-02,Codeine,0
-2009-02,Dinosaur Jr.,0
-2009-02,Gomez,0
-2009-02,Nine Inch Nails,0
-2009-02,Pavement,0
-2009-02,Radiohead,0
-2009-02,Third Eye Blind,0
-2009-03,Codeine,1
-2009-03,Dinosaur Jr.,0
-2009-03,Gomez,0
-2009-03,Nine Inch Nails,0
-2009-03,Pavement,0
-2009-03,Radiohead,0
-2009-03,Third Eye Blind,0
+"month","artist","plays"
+"2008-07","Codeine",0
+"2008-07","Dinosaur Jr.",5
+"2008-07","Gomez",4
+"2008-07","Nine Inch Nails",14
+"2008-07","Pavement",2
+"2008-07","Radiohead",6
+"2008-07","Third Eye Blind",10
+"2008-08","Codeine",0
+"2008-08","Dinosaur Jr.",0
+"2008-08","Gomez",0
+"2008-08","Nine Inch Nails",0
+"2008-08","Pavement",0
+"2008-08","Radiohead",0
+"2008-08","Third Eye Blind",0
+"2008-09","Codeine",0
+"2008-09","Dinosaur Jr.",0
+"2008-09","Gomez",0
+"2008-09","Nine Inch Nails",0
+"2008-09","Pavement",0
+"2008-09","Radiohead",0
+"2008-09","Third Eye Blind",0
+"2008-10","Codeine",0
+"2008-10","Dinosaur Jr.",0
+"2008-10","Gomez",0
+"2008-10","Nine Inch Nails",0
+"2008-10","Pavement",0
+"2008-10","Radiohead",0
+"2008-10","Third Eye Blind",0
+"2008-11","Codeine",0
+"2008-11","Dinosaur Jr.",0
+"2008-11","Gomez",0
+"2008-11","Nine Inch Nails",0
+"2008-11","Pavement",0
+"2008-11","Radiohead",0
+"2008-11","Third Eye Blind",0
+"2008-12","Codeine",0
+"2008-12","Dinosaur Jr.",0
+"2008-12","Gomez",0
+"2008-12","Nine Inch Nails",0
+"2008-12","Pavement",0
+"2008-12","Radiohead",0
+"2008-12","Third Eye Blind",0
+"2009-01","Codeine",0
+"2009-01","Dinosaur Jr.",0
+"2009-01","Gomez",0
+"2009-01","Nine Inch Nails",0
+"2009-01","Pavement",0
+"2009-01","Radiohead",0
+"2009-01","Third Eye Blind",0
+"2009-02","Codeine",0
+"2009-02","Dinosaur Jr.",0
+"2009-02","Gomez",0
+"2009-02","Nine Inch Nails",0
+"2009-02","Pavement",0
+"2009-02","Radiohead",0
+"2009-02","Third Eye Blind",0
+"2009-03","Codeine",1
+"2009-03","Dinosaur Jr.",0
+"2009-03","Gomez",0
+"2009-03","Nine Inch Nails",0
+"2009-03","Pavement",0
+"2009-03","Radiohead",0
+"2009-03","Third Eye Blind",0

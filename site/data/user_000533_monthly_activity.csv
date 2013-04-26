@@ -1,19 +1,19 @@
-month,artist,plays
-2009-04,1200 Micrograms,0
-2009-04,Anton Maiden,0
-2009-04,Blind Guardian,1
-2009-04,Cor Fĳneman,0
-2009-04,Dj Fábio Mansur,0
-2009-04,Iron Maiden,23
-2009-04,John Revox,0
-2009-04,Offer Nissim,0
-2009-04,光宗信吉,0
-2009-05,1200 Micrograms,1
-2009-05,Anton Maiden,6
-2009-05,Blind Guardian,0
-2009-05,Cor Fĳneman,1
-2009-05,Dj Fábio Mansur,1
-2009-05,Iron Maiden,7
-2009-05,John Revox,1
-2009-05,Offer Nissim,1
-2009-05,光宗信吉,8
+"month","artist","plays"
+"2009-04","1200 Micrograms",0
+"2009-04","Anton Maiden",0
+"2009-04","Blind Guardian",1
+"2009-04","Cor Fĳneman",0
+"2009-04","Dj Fábio Mansur",0
+"2009-04","Iron Maiden",23
+"2009-04","John Revox",0
+"2009-04","Offer Nissim",0
+"2009-04","光宗信吉",0
+"2009-05","1200 Micrograms",1
+"2009-05","Anton Maiden",6
+"2009-05","Blind Guardian",0
+"2009-05","Cor Fĳneman",1
+"2009-05","Dj Fábio Mansur",1
+"2009-05","Iron Maiden",7
+"2009-05","John Revox",1
+"2009-05","Offer Nissim",1
+"2009-05","光宗信吉",8

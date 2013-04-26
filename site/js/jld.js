@@ -39,11 +39,15 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 	
 	var n = data.length, 			// number of layers (artists)
 			m = data[0].length,		// number of samples per layer (months)
-			stack = d3.layout.stack().offset("wiggle"),
+			stack = d3.layout.stack().offset("silhouette"),
 			layers = stack(data);
 
-	var width = 960,
-			height = 400;
+	/*var width = 960,
+			height = 400;*/
+	var margin = {top: 30, right: 40, bottom: 20, left: 40},
+			width = 960 - margin.left - margin.right,
+			height = 400 - margin.top - margin.bottom,
+			barWidth = Math.floor(width / data.length) - 1;
 
 	var minX = d3.min(layers, function(layer) { return d3.min(layer, function(e) { return e.x; }); }),
 			maxX = d3.max(layers, function(layer) { return d3.max(layer, function(e) { return e.x; }); });
@@ -56,6 +60,12 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 			.domain([0, d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
 			.range([height, 0]);
 
+	var xAxis = d3.svg.axis()
+			.scale(x)
+			.ticks(d3.time.months, 4)
+			.tickFormat(d3.time.format("%b %Y"))
+			.orient("bottom");
+
 	var color = d3.scale.linear()
 			.domain([0, n-1])
 			.range(["#dad", "#656"]);
@@ -66,8 +76,15 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 			.y1(function(d) { return y(d.y0 + d.y); });
 
 	var svg = d3.select(jld.containers.streamgraph).append("svg")
-				.attr("width", width)
-				.attr("height", height);
+			.attr("width", width + margin.left + margin.right)
+			.attr("height", height + margin.top + margin.bottom)
+		.append("g")
+			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+	
+	svg.append("g")
+			.attr("class", "x axis")
+			.attr("transform", "translate(0," + (-margin.top) + ")")
+			.call(xAxis);
 
 	var stream = svg.selectAll("path")
 			.data(layers)
@@ -147,7 +164,7 @@ JldVisualization.prototype.listeningBehaviorArtistChart = function (artist) {
 			.data(data)
 		.enter().append("rect")
 			.attr("class", "bar")
-			.attr("x", function(d) { return x(d.month) - barWidth/2; })
+			.attr("x", function(d) { return x(d.month) - Math.floor(barWidth/2); })
 			.attr("width", barWidth)
 			.attr("y", function(d) { return y(d.plays); })
 			.attr("height", function(d) { return height - y(d.plays); })

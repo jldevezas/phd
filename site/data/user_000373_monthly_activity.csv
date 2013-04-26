@@ -1,121 +1,121 @@
-month,artist,plays
-2008-12,2Pac,6
-2008-12,Common,13
-2008-12,Cunninlynguists,6
-2008-12,Death From Above 1979,3
-2008-12,Dr. Dre,1
-2008-12,Freddie Joachim,0
-2008-12,Green Day,1
-2008-12,Gym Class Heroes,1
-2008-12,Jay-Z,5
-2008-12,Lez Zeppelin,2
-2008-12,Massive Attack,2
-2008-12,Mf Grimm,1
-2008-12,Mos Def,6
-2008-12,Musiq,13
-2008-12,Nas,4
-2008-12,Panacea,0
-2008-12,Pete Rock & C.L. Smooth,1
-2008-12,Red Hot Chili Peppers,5
-2008-12,The Roots,2
-2008-12,Weezer,4
-2009-01,2Pac,15
-2009-01,Common,186
-2009-01,Cunninlynguists,36
-2009-01,Death From Above 1979,1
-2009-01,Dr. Dre,1
-2009-01,Freddie Joachim,2
-2009-01,Green Day,27
-2009-01,Gym Class Heroes,1
-2009-01,Jay-Z,3
-2009-01,Lez Zeppelin,1
-2009-01,Massive Attack,2
-2009-01,Mf Grimm,0
-2009-01,Mos Def,69
-2009-01,Musiq,12
-2009-01,Nas,47
-2009-01,Panacea,28
-2009-01,Pete Rock & C.L. Smooth,0
-2009-01,Red Hot Chili Peppers,6
-2009-01,The Roots,142
-2009-01,Weezer,2
-2009-02,2Pac,1
-2009-02,Common,2
-2009-02,Cunninlynguists,16
-2009-02,Death From Above 1979,1
-2009-02,Dr. Dre,0
-2009-02,Freddie Joachim,13
-2009-02,Green Day,1
-2009-02,Gym Class Heroes,0
-2009-02,Jay-Z,1
-2009-02,Lez Zeppelin,6
-2009-02,Massive Attack,39
-2009-02,Mf Grimm,1
-2009-02,Mos Def,14
-2009-02,Musiq,0
-2009-02,Nas,44
-2009-02,Panacea,1
-2009-02,Pete Rock & C.L. Smooth,12
-2009-02,Red Hot Chili Peppers,25
-2009-02,The Roots,21
-2009-02,Weezer,2
-2009-03,2Pac,7
-2009-03,Common,13
-2009-03,Cunninlynguists,22
-2009-03,Death From Above 1979,0
-2009-03,Dr. Dre,12
-2009-03,Freddie Joachim,1
-2009-03,Green Day,1
-2009-03,Gym Class Heroes,6
-2009-03,Jay-Z,5
-2009-03,Lez Zeppelin,0
-2009-03,Massive Attack,0
-2009-03,Mf Grimm,3
-2009-03,Mos Def,3
-2009-03,Musiq,5
-2009-03,Nas,5
-2009-03,Panacea,29
-2009-03,Pete Rock & C.L. Smooth,1
-2009-03,Red Hot Chili Peppers,1
-2009-03,The Roots,4
-2009-03,Weezer,1
-2009-04,2Pac,1
-2009-04,Common,1
-2009-04,Cunninlynguists,1
-2009-04,Death From Above 1979,1
-2009-04,Dr. Dre,1
-2009-04,Freddie Joachim,2
-2009-04,Green Day,4
-2009-04,Gym Class Heroes,1
-2009-04,Jay-Z,5
-2009-04,Lez Zeppelin,1
-2009-04,Massive Attack,1
-2009-04,Mf Grimm,1
-2009-04,Mos Def,0
-2009-04,Musiq,3
-2009-04,Nas,2
-2009-04,Panacea,0
-2009-04,Pete Rock & C.L. Smooth,1
-2009-04,Red Hot Chili Peppers,2
-2009-04,The Roots,7
-2009-04,Weezer,1
-2009-05,2Pac,1
-2009-05,Common,1
-2009-05,Cunninlynguists,0
-2009-05,Death From Above 1979,0
-2009-05,Dr. Dre,0
-2009-05,Freddie Joachim,0
-2009-05,Green Day,0
-2009-05,Gym Class Heroes,0
-2009-05,Jay-Z,0
-2009-05,Lez Zeppelin,0
-2009-05,Massive Attack,0
-2009-05,Mf Grimm,0
-2009-05,Mos Def,0
-2009-05,Musiq,0
-2009-05,Nas,0
-2009-05,Panacea,16
-2009-05,Pete Rock & C.L. Smooth,0
-2009-05,Red Hot Chili Peppers,0
-2009-05,The Roots,1
-2009-05,Weezer,0
+"month","artist","plays"
+"2008-12","2Pac",6
+"2008-12","Common",13
+"2008-12","Cunninlynguists",6
+"2008-12","Death From Above 1979",3
+"2008-12","Dr. Dre",1
+"2008-12","Freddie Joachim",0
+"2008-12","Green Day",1
+"2008-12","Gym Class Heroes",1
+"2008-12","Jay-Z",5
+"2008-12","Lez Zeppelin",2
+"2008-12","Massive Attack",2
+"2008-12","Mf Grimm",1
+"2008-12","Mos Def",6
+"2008-12","Musiq",13
+"2008-12","Nas",4
+"2008-12","Panacea",0
+"2008-12","Pete Rock & C.L. Smooth",1
+"2008-12","Red Hot Chili Peppers",5
+"2008-12","The Roots",2
+"2008-12","Weezer",4
+"2009-01","2Pac",15
+"2009-01","Common",186
+"2009-01","Cunninlynguists",36
+"2009-01","Death From Above 1979",1
+"2009-01","Dr. Dre",1
+"2009-01","Freddie Joachim",2
+"2009-01","Green Day",27
+"2009-01","Gym Class Heroes",1
+"2009-01","Jay-Z",3
+"2009-01","Lez Zeppelin",1
+"2009-01","Massive Attack",2
+"2009-01","Mf Grimm",0
+"2009-01","Mos Def",69
+"2009-01","Musiq",12
+"2009-01","Nas",47
+"2009-01","Panacea",28
+"2009-01","Pete Rock & C.L. Smooth",0
+"2009-01","Red Hot Chili Peppers",6
+"2009-01","The Roots",142
+"2009-01","Weezer",2
+"2009-02","2Pac",1
+"2009-02","Common",2
+"2009-02","Cunninlynguists",16
+"2009-02","Death From Above 1979",1
+"2009-02","Dr. Dre",0
+"2009-02","Freddie Joachim",13
+"2009-02","Green Day",1
+"2009-02","Gym Class Heroes",0
+"2009-02","Jay-Z",1
+"2009-02","Lez Zeppelin",6
+"2009-02","Massive Attack",39
+"2009-02","Mf Grimm",1
+"2009-02","Mos Def",14
+"2009-02","Musiq",0
+"2009-02","Nas",44
+"2009-02","Panacea",1
+"2009-02","Pete Rock & C.L. Smooth",12
+"2009-02","Red Hot Chili Peppers",25
+"2009-02","The Roots",21
+"2009-02","Weezer",2
+"2009-03","2Pac",7
+"2009-03","Common",13
+"2009-03","Cunninlynguists",22
+"2009-03","Death From Above 1979",0
+"2009-03","Dr. Dre",12
+"2009-03","Freddie Joachim",1
+"2009-03","Green Day",1
+"2009-03","Gym Class Heroes",6
+"2009-03","Jay-Z",5
+"2009-03","Lez Zeppelin",0
+"2009-03","Massive Attack",0
+"2009-03","Mf Grimm",3
+"2009-03","Mos Def",3
+"2009-03","Musiq",5
+"2009-03","Nas",5
+"2009-03","Panacea",29
+"2009-03","Pete Rock & C.L. Smooth",1
+"2009-03","Red Hot Chili Peppers",1
+"2009-03","The Roots",4
+"2009-03","Weezer",1
+"2009-04","2Pac",1
+"2009-04","Common",1
+"2009-04","Cunninlynguists",1
+"2009-04","Death From Above 1979",1
+"2009-04","Dr. Dre",1
+"2009-04","Freddie Joachim",2
+"2009-04","Green Day",4
+"2009-04","Gym Class Heroes",1
+"2009-04","Jay-Z",5
+"2009-04","Lez Zeppelin",1
+"2009-04","Massive Attack",1
+"2009-04","Mf Grimm",1
+"2009-04","Mos Def",0
+"2009-04","Musiq",3
+"2009-04","Nas",2
+"2009-04","Panacea",0
+"2009-04","Pete Rock & C.L. Smooth",1
+"2009-04","Red Hot Chili Peppers",2
+"2009-04","The Roots",7
+"2009-04","Weezer",1
+"2009-05","2Pac",1
+"2009-05","Common",1
+"2009-05","Cunninlynguists",0
+"2009-05","Death From Above 1979",0
+"2009-05","Dr. Dre",0
+"2009-05","Freddie Joachim",0
+"2009-05","Green Day",0
+"2009-05","Gym Class Heroes",0
+"2009-05","Jay-Z",0
+"2009-05","Lez Zeppelin",0
+"2009-05","Massive Attack",0
+"2009-05","Mf Grimm",0
+"2009-05","Mos Def",0
+"2009-05","Musiq",0
+"2009-05","Nas",0
+"2009-05","Panacea",16
+"2009-05","Pete Rock & C.L. Smooth",0
+"2009-05","Red Hot Chili Peppers",0
+"2009-05","The Roots",1
+"2009-05","Weezer",0

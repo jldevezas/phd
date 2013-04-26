@@ -1,41 +1,41 @@
-month,artist,plays
-2005-10,A Perfect Circle,113
-2005-10,Alice In Chains,5
-2005-10,Audioslave,2
-2005-10,Black Sabbath,5
-2005-10,Coldplay,3
-2005-10,Daft Punk,2
-2005-10,Dc Talk,7
-2005-10,Decree,1
-2005-10,Delerium,119
-2005-10,Depeche Mode,8
-2005-10,Front Line Assembly,138
-2005-10,Kmfdm,159
-2005-10,Ministry,29
-2005-10,Misc,6
-2005-10,Nine Inch Nails,25
-2005-10,Queens Of The Stone Age,11
-2005-10,Skinny Puppy,639
-2005-10,The Prodigy,6
-2005-10,The Tear Garden,168
-2005-10,Vnv Nation,57
-2005-11,A Perfect Circle,0
-2005-11,Alice In Chains,0
-2005-11,Audioslave,0
-2005-11,Black Sabbath,0
-2005-11,Coldplay,0
-2005-11,Daft Punk,0
-2005-11,Dc Talk,0
-2005-11,Decree,0
-2005-11,Delerium,1
-2005-11,Depeche Mode,0
-2005-11,Front Line Assembly,70
-2005-11,Kmfdm,8
-2005-11,Ministry,21
-2005-11,Misc,1
-2005-11,Nine Inch Nails,3
-2005-11,Queens Of The Stone Age,3
-2005-11,Skinny Puppy,175
-2005-11,The Prodigy,10
-2005-11,The Tear Garden,62
-2005-11,Vnv Nation,50
+"month","artist","plays"
+"2005-10","A Perfect Circle",113
+"2005-10","Alice In Chains",5
+"2005-10","Audioslave",2
+"2005-10","Black Sabbath",5
+"2005-10","Coldplay",3
+"2005-10","Daft Punk",2
+"2005-10","Dc Talk",7
+"2005-10","Decree",1
+"2005-10","Delerium",119
+"2005-10","Depeche Mode",8
+"2005-10","Front Line Assembly",138
+"2005-10","Kmfdm",159
+"2005-10","Ministry",29
+"2005-10","Misc",6
+"2005-10","Nine Inch Nails",25
+"2005-10","Queens Of The Stone Age",11
+"2005-10","Skinny Puppy",639
+"2005-10","The Prodigy",6
+"2005-10","The Tear Garden",168
+"2005-10","Vnv Nation",57
+"2005-11","A Perfect Circle",0
+"2005-11","Alice In Chains",0
+"2005-11","Audioslave",0
+"2005-11","Black Sabbath",0
+"2005-11","Coldplay",0
+"2005-11","Daft Punk",0
+"2005-11","Dc Talk",0
+"2005-11","Decree",0
+"2005-11","Delerium",1
+"2005-11","Depeche Mode",0
+"2005-11","Front Line Assembly",70
+"2005-11","Kmfdm",8
+"2005-11","Ministry",21
+"2005-11","Misc",1
+"2005-11","Nine Inch Nails",3
+"2005-11","Queens Of The Stone Age",3
+"2005-11","Skinny Puppy",175
+"2005-11","The Prodigy",10
+"2005-11","The Tear Garden",62
+"2005-11","Vnv Nation",50

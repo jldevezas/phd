@@ -1,141 +1,141 @@
-month,artist,plays
-2008-10,2Pac,12
-2008-10,Aerosmith,1
-2008-10,Arctic Monkeys,26
-2008-10,Athlete,1
-2008-10,Barenaked Ladies,17
-2008-10,Beck,1
-2008-10,Billy Joel,15
-2008-10,Buzzcocks,1
-2008-10,Coldplay,5
-2008-10,Dave Matthews & Tim Reynolds,1
-2008-10,Dave Matthews Band,7
-2008-10,Duran Duran,3
-2008-10,Editors,1
-2008-10,Franz Ferdinand,1
-2008-10,Garth Brooks,1
-2008-10,Hans Zimmer,2
-2008-10,Hawksley Workman,1
-2008-10,Jamie T,2
-2008-10,Jay-Z,10
-2008-10,Jens Lekman,1
-2008-11,2Pac,3
-2008-11,Aerosmith,1
-2008-11,Arctic Monkeys,26
-2008-11,Athlete,2
-2008-11,Barenaked Ladies,6
-2008-11,Beck,1
-2008-11,Billy Joel,13
-2008-11,Buzzcocks,3
-2008-11,Coldplay,3
-2008-11,Dave Matthews & Tim Reynolds,2
-2008-11,Dave Matthews Band,5
-2008-11,Duran Duran,1
-2008-11,Editors,2
-2008-11,Franz Ferdinand,1
-2008-11,Garth Brooks,22
-2008-11,Hans Zimmer,1
-2008-11,Hawksley Workman,2
-2008-11,Jamie T,2
-2008-11,Jay-Z,5
-2008-11,Jens Lekman,1
-2008-12,2Pac,20
-2008-12,Aerosmith,3
-2008-12,Arctic Monkeys,16
-2008-12,Athlete,1
-2008-12,Barenaked Ladies,14
-2008-12,Beck,1
-2008-12,Billy Joel,7
-2008-12,Buzzcocks,4
-2008-12,Coldplay,15
-2008-12,Dave Matthews & Tim Reynolds,4
-2008-12,Dave Matthews Band,7
-2008-12,Duran Duran,11
-2008-12,Editors,4
-2008-12,Franz Ferdinand,4
-2008-12,Garth Brooks,8
-2008-12,Hans Zimmer,3
-2008-12,Hawksley Workman,27
-2008-12,Jamie T,15
-2008-12,Jay-Z,23
-2008-12,Jens Lekman,1
-2009-01,2Pac,60
-2009-01,Aerosmith,6
-2009-01,Arctic Monkeys,31
-2009-01,Athlete,4
-2009-01,Barenaked Ladies,58
-2009-01,Beck,24
-2009-01,Billy Joel,30
-2009-01,Buzzcocks,19
-2009-01,Coldplay,23
-2009-01,Dave Matthews & Tim Reynolds,13
-2009-01,Dave Matthews Band,36
-2009-01,Duran Duran,16
-2009-01,Editors,9
-2009-01,Franz Ferdinand,21
-2009-01,Garth Brooks,38
-2009-01,Hans Zimmer,11
-2009-01,Hawksley Workman,22
-2009-01,Jamie T,21
-2009-01,Jay-Z,93
-2009-01,Jens Lekman,8
-2009-02,2Pac,6
-2009-02,Aerosmith,2
-2009-02,Arctic Monkeys,5
-2009-02,Athlete,2
-2009-02,Barenaked Ladies,11
-2009-02,Beck,6
-2009-02,Billy Joel,6
-2009-02,Buzzcocks,4
-2009-02,Coldplay,3
-2009-02,Dave Matthews & Tim Reynolds,3
-2009-02,Dave Matthews Band,7
-2009-02,Duran Duran,3
-2009-02,Editors,3
-2009-02,Franz Ferdinand,4
-2009-02,Garth Brooks,12
-2009-02,Hans Zimmer,1
-2009-02,Hawksley Workman,1
-2009-02,Jamie T,2
-2009-02,Jay-Z,21
-2009-02,Jens Lekman,3
-2009-03,2Pac,26
-2009-03,Aerosmith,5
-2009-03,Arctic Monkeys,23
-2009-03,Athlete,9
-2009-03,Barenaked Ladies,18
-2009-03,Beck,7
-2009-03,Billy Joel,7
-2009-03,Buzzcocks,11
-2009-03,Coldplay,13
-2009-03,Dave Matthews & Tim Reynolds,1
-2009-03,Dave Matthews Band,16
-2009-03,Duran Duran,17
-2009-03,Editors,1
-2009-03,Franz Ferdinand,12
-2009-03,Garth Brooks,9
-2009-03,Hans Zimmer,2
-2009-03,Hawksley Workman,6
-2009-03,Jamie T,14
-2009-03,Jay-Z,41
-2009-03,Jens Lekman,2
-2009-04,2Pac,4
-2009-04,Aerosmith,1
-2009-04,Arctic Monkeys,26
-2009-04,Athlete,1
-2009-04,Barenaked Ladies,4
-2009-04,Beck,1
-2009-04,Billy Joel,3
-2009-04,Buzzcocks,5
-2009-04,Coldplay,2
-2009-04,Dave Matthews & Tim Reynolds,1
-2009-04,Dave Matthews Band,5
-2009-04,Duran Duran,2
-2009-04,Editors,2
-2009-04,Franz Ferdinand,1
-2009-04,Garth Brooks,3
-2009-04,Hans Zimmer,1
-2009-04,Hawksley Workman,4
-2009-04,Jamie T,4
-2009-04,Jay-Z,13
-2009-04,Jens Lekman,1
+"month","artist","plays"
+"2008-10","2Pac",12
+"2008-10","Aerosmith",1
+"2008-10","Arctic Monkeys",26
+"2008-10","Athlete",1
+"2008-10","Barenaked Ladies",17
+"2008-10","Beck",1
+"2008-10","Billy Joel",15
+"2008-10","Buzzcocks",1
+"2008-10","Coldplay",5
+"2008-10","Dave Matthews & Tim Reynolds",1
+"2008-10","Dave Matthews Band",7
+"2008-10","Duran Duran",3
+"2008-10","Editors",1
+"2008-10","Franz Ferdinand",1
+"2008-10","Garth Brooks",1
+"2008-10","Hans Zimmer",2
+"2008-10","Hawksley Workman",1
+"2008-10","Jamie T",2
+"2008-10","Jay-Z",10
+"2008-10","Jens Lekman",1
+"2008-11","2Pac",3
+"2008-11","Aerosmith",1
+"2008-11","Arctic Monkeys",26
+"2008-11","Athlete",2
+"2008-11","Barenaked Ladies",6
+"2008-11","Beck",1
+"2008-11","Billy Joel",13
+"2008-11","Buzzcocks",3
+"2008-11","Coldplay",3
+"2008-11","Dave Matthews & Tim Reynolds",2
+"2008-11","Dave Matthews Band",5
+"2008-11","Duran Duran",1
+"2008-11","Editors",2
+"2008-11","Franz Ferdinand",1
+"2008-11","Garth Brooks",22
+"2008-11","Hans Zimmer",1
+"2008-11","Hawksley Workman",2
+"2008-11","Jamie T",2
+"2008-11","Jay-Z",5
+"2008-11","Jens Lekman",1
+"2008-12","2Pac",20
+"2008-12","Aerosmith",3
+"2008-12","Arctic Monkeys",16
+"2008-12","Athlete",1
+"2008-12","Barenaked Ladies",14
+"2008-12","Beck",1
+"2008-12","Billy Joel",7
+"2008-12","Buzzcocks",4
+"2008-12","Coldplay",15
+"2008-12","Dave Matthews & Tim Reynolds",4
+"2008-12","Dave Matthews Band",7
+"2008-12","Duran Duran",11
+"2008-12","Editors",4
+"2008-12","Franz Ferdinand",4
+"2008-12","Garth Brooks",8
+"2008-12","Hans Zimmer",3
+"2008-12","Hawksley Workman",27
+"2008-12","Jamie T",15
+"2008-12","Jay-Z",23
+"2008-12","Jens Lekman",1
+"2009-01","2Pac",60
+"2009-01","Aerosmith",6
+"2009-01","Arctic Monkeys",31
+"2009-01","Athlete",4
+"2009-01","Barenaked Ladies",58
+"2009-01","Beck",24
+"2009-01","Billy Joel",30
+"2009-01","Buzzcocks",19
+"2009-01","Coldplay",23
+"2009-01","Dave Matthews & Tim Reynolds",13
+"2009-01","Dave Matthews Band",36
+"2009-01","Duran Duran",16
+"2009-01","Editors",9
+"2009-01","Franz Ferdinand",21
+"2009-01","Garth Brooks",38
+"2009-01","Hans Zimmer",11
+"2009-01","Hawksley Workman",22
+"2009-01","Jamie T",21
+"2009-01","Jay-Z",93
+"2009-01","Jens Lekman",8
+"2009-02","2Pac",6
+"2009-02","Aerosmith",2
+"2009-02","Arctic Monkeys",5
+"2009-02","Athlete",2
+"2009-02","Barenaked Ladies",11
+"2009-02","Beck",6
+"2009-02","Billy Joel",6
+"2009-02","Buzzcocks",4
+"2009-02","Coldplay",3
+"2009-02","Dave Matthews & Tim Reynolds",3
+"2009-02","Dave Matthews Band",7
+"2009-02","Duran Duran",3
+"2009-02","Editors",3
+"2009-02","Franz Ferdinand",4
+"2009-02","Garth Brooks",12
+"2009-02","Hans Zimmer",1
+"2009-02","Hawksley Workman",1
+"2009-02","Jamie T",2
+"2009-02","Jay-Z",21
+"2009-02","Jens Lekman",3
+"2009-03","2Pac",26
+"2009-03","Aerosmith",5
+"2009-03","Arctic Monkeys",23
+"2009-03","Athlete",9
+"2009-03","Barenaked Ladies",18
+"2009-03","Beck",7
+"2009-03","Billy Joel",7
+"2009-03","Buzzcocks",11
+"2009-03","Coldplay",13
+"2009-03","Dave Matthews & Tim Reynolds",1
+"2009-03","Dave Matthews Band",16
+"2009-03","Duran Duran",17
+"2009-03","Editors",1
+"2009-03","Franz Ferdinand",12
+"2009-03","Garth Brooks",9
+"2009-03","Hans Zimmer",2
+"2009-03","Hawksley Workman",6
+"2009-03","Jamie T",14
+"2009-03","Jay-Z",41
+"2009-03","Jens Lekman",2
+"2009-04","2Pac",4
+"2009-04","Aerosmith",1
+"2009-04","Arctic Monkeys",26
+"2009-04","Athlete",1
+"2009-04","Barenaked Ladies",4
+"2009-04","Beck",1
+"2009-04","Billy Joel",3
+"2009-04","Buzzcocks",5
+"2009-04","Coldplay",2
+"2009-04","Dave Matthews & Tim Reynolds",1
+"2009-04","Dave Matthews Band",5
+"2009-04","Duran Duran",2
+"2009-04","Editors",2
+"2009-04","Franz Ferdinand",1
+"2009-04","Garth Brooks",3
+"2009-04","Hans Zimmer",1
+"2009-04","Hawksley Workman",4
+"2009-04","Jamie T",4
+"2009-04","Jay-Z",13
+"2009-04","Jens Lekman",1

@@ -100,14 +100,17 @@
 								<a href="http://www.last.fm">Last.fm</a> dataset provided by Oscar Celma, aggregating
 								scrobble information for 1,000 users crawled randomly from his neighborhood. This data can
 								be found <a href="http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html">here</a>.</p>
-							<p>Explore listening behavior by selecting a user:</p>
+
+							<p>Explore listening behavior by selecting a user below. You can type a country to filter
+								by country or a number to filter by age.</p>
 
 							<div id="control">
 								<select id="user-select"></select>&nbsp;
-								<button id="button-previous" class="ink-button info">Previous</button>
-								<button id="button-next" class="ink-button info">Next</button>
-								<span id="user-country"></span>&nbsp;
+								<button id="button-previous" class="ink-button">Previous</button>
+								<button id="button-next" class="ink-button">Next</button>
+								<span id="user-country"></span>
 								<span id="user-age"></span>
+								<span id="user-gender"></span>
 							</div>
 
 							<h3>streamgraph for the user's top 20 averall artists</h3>
@@ -148,6 +151,7 @@
 										.val(row.id)
 										.attr("data-country", row.country)
 										.attr("data-age", row.age)
+										.attr("data-gender", row.gender)
 										.text(row.id));
 								});
 
@@ -165,17 +169,24 @@
 									var $selected = $("#user-select").find("option[value='" + $(this).val() + "']");
 									var country = $selected.attr("data-country");
 									var age = $selected.attr("data-age");
+									var gender = $selected.attr("data-gender");
 
 									if (country != "")
-										$("#user-country").html("<strong>from:</strong> " + country);
+										$("#user-country").html("&nbsp;<strong>from:</strong> " + country);
 									else
 										$("#user-country").html("");
 										
 									if (age != "")
-										$("#user-age").html("<strong>age:</strong> " + age);
+										$("#user-age").html("&nbsp;<strong>age:</strong> " + age);
 									else
 										$("#user-age").html("");
 									
+									if (gender != "")
+										$("#user-gender").html("&nbsp;<strong>gender:</strong> "
+											+ (gender == "m" ? "male" : (gender == "f" ? "female" : gender)));
+									else
+										$("#user-gender").html("");
+
 									if (vis != null) vis.clear();
 
 									d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {

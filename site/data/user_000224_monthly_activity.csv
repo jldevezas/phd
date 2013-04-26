@@ -1,801 +1,801 @@
-month,artist,plays
-2006-01,Ani Difranco,0
-2006-01,Arcade Fire,0
-2006-01,Architecture In Helsinki,0
-2006-01,Beck,0
-2006-01,Belle And Sebastian,0
-2006-01,Bright Eyes,0
-2006-01,Broken Social Scene,0
-2006-01,Death Cab For Cutie,0
-2006-01,Neutral Milk Hotel,0
-2006-01,Of Montreal,0
-2006-01,Regina Spektor,0
-2006-01,Rilo Kiley,0
-2006-01,Stars,0
-2006-01,Tegan And Sara,0
-2006-01,The Beatles,3
-2006-01,The Decemberists,0
-2006-01,The White Stripes,4
-2006-01,Tilly And The Wall,0
-2006-01,Weezer,3
-2006-01,Yeah Yeah Yeahs,3
-2006-02,Ani Difranco,0
-2006-02,Arcade Fire,0
-2006-02,Architecture In Helsinki,0
-2006-02,Beck,4
-2006-02,Belle And Sebastian,1
-2006-02,Bright Eyes,0
-2006-02,Broken Social Scene,0
-2006-02,Death Cab For Cutie,1
-2006-02,Neutral Milk Hotel,0
-2006-02,Of Montreal,0
-2006-02,Regina Spektor,0
-2006-02,Rilo Kiley,0
-2006-02,Stars,0
-2006-02,Tegan And Sara,0
-2006-02,The Beatles,6
-2006-02,The Decemberists,0
-2006-02,The White Stripes,7
-2006-02,Tilly And The Wall,0
-2006-02,Weezer,1
-2006-02,Yeah Yeah Yeahs,0
-2006-03,Ani Difranco,0
-2006-03,Arcade Fire,0
-2006-03,Architecture In Helsinki,0
-2006-03,Beck,8
-2006-03,Belle And Sebastian,0
-2006-03,Bright Eyes,0
-2006-03,Broken Social Scene,0
-2006-03,Death Cab For Cutie,0
-2006-03,Neutral Milk Hotel,0
-2006-03,Of Montreal,0
-2006-03,Regina Spektor,0
-2006-03,Rilo Kiley,4
-2006-03,Stars,0
-2006-03,Tegan And Sara,5
-2006-03,The Beatles,1
-2006-03,The Decemberists,0
-2006-03,The White Stripes,11
-2006-03,Tilly And The Wall,0
-2006-03,Weezer,1
-2006-03,Yeah Yeah Yeahs,0
-2006-04,Ani Difranco,0
-2006-04,Arcade Fire,4
-2006-04,Architecture In Helsinki,7
-2006-04,Beck,9
-2006-04,Belle And Sebastian,0
-2006-04,Bright Eyes,2
-2006-04,Broken Social Scene,0
-2006-04,Death Cab For Cutie,2
-2006-04,Neutral Milk Hotel,3
-2006-04,Of Montreal,0
-2006-04,Regina Spektor,0
-2006-04,Rilo Kiley,1
-2006-04,Stars,0
-2006-04,Tegan And Sara,2
-2006-04,The Beatles,1
-2006-04,The Decemberists,8
-2006-04,The White Stripes,13
-2006-04,Tilly And The Wall,0
-2006-04,Weezer,6
-2006-04,Yeah Yeah Yeahs,9
-2006-05,Ani Difranco,0
-2006-05,Arcade Fire,0
-2006-05,Architecture In Helsinki,8
-2006-05,Beck,2
-2006-05,Belle And Sebastian,0
-2006-05,Bright Eyes,1
-2006-05,Broken Social Scene,0
-2006-05,Death Cab For Cutie,2
-2006-05,Neutral Milk Hotel,2
-2006-05,Of Montreal,0
-2006-05,Regina Spektor,0
-2006-05,Rilo Kiley,0
-2006-05,Stars,0
-2006-05,Tegan And Sara,0
-2006-05,The Beatles,11
-2006-05,The Decemberists,8
-2006-05,The White Stripes,13
-2006-05,Tilly And The Wall,0
-2006-05,Weezer,6
-2006-05,Yeah Yeah Yeahs,4
-2006-06,Ani Difranco,0
-2006-06,Arcade Fire,1
-2006-06,Architecture In Helsinki,4
-2006-06,Beck,4
-2006-06,Belle And Sebastian,0
-2006-06,Bright Eyes,1
-2006-06,Broken Social Scene,0
-2006-06,Death Cab For Cutie,4
-2006-06,Neutral Milk Hotel,1
-2006-06,Of Montreal,0
-2006-06,Regina Spektor,0
-2006-06,Rilo Kiley,0
-2006-06,Stars,0
-2006-06,Tegan And Sara,2
-2006-06,The Beatles,6
-2006-06,The Decemberists,3
-2006-06,The White Stripes,10
-2006-06,Tilly And The Wall,0
-2006-06,Weezer,7
-2006-06,Yeah Yeah Yeahs,3
-2006-07,Ani Difranco,0
-2006-07,Arcade Fire,2
-2006-07,Architecture In Helsinki,11
-2006-07,Beck,2
-2006-07,Belle And Sebastian,0
-2006-07,Bright Eyes,1
-2006-07,Broken Social Scene,1
-2006-07,Death Cab For Cutie,11
-2006-07,Neutral Milk Hotel,1
-2006-07,Of Montreal,0
-2006-07,Regina Spektor,0
-2006-07,Rilo Kiley,0
-2006-07,Stars,1
-2006-07,Tegan And Sara,0
-2006-07,The Beatles,6
-2006-07,The Decemberists,5
-2006-07,The White Stripes,9
-2006-07,Tilly And The Wall,0
-2006-07,Weezer,2
-2006-07,Yeah Yeah Yeahs,5
-2006-08,Ani Difranco,0
-2006-08,Arcade Fire,1
-2006-08,Architecture In Helsinki,5
-2006-08,Beck,5
-2006-08,Belle And Sebastian,1
-2006-08,Bright Eyes,2
-2006-08,Broken Social Scene,3
-2006-08,Death Cab For Cutie,3
-2006-08,Neutral Milk Hotel,3
-2006-08,Of Montreal,7
-2006-08,Regina Spektor,0
-2006-08,Rilo Kiley,2
-2006-08,Stars,4
-2006-08,Tegan And Sara,0
-2006-08,The Beatles,4
-2006-08,The Decemberists,1
-2006-08,The White Stripes,4
-2006-08,Tilly And The Wall,0
-2006-08,Weezer,1
-2006-08,Yeah Yeah Yeahs,2
-2006-09,Ani Difranco,0
-2006-09,Arcade Fire,0
-2006-09,Architecture In Helsinki,5
-2006-09,Beck,1
-2006-09,Belle And Sebastian,0
-2006-09,Bright Eyes,2
-2006-09,Broken Social Scene,4
-2006-09,Death Cab For Cutie,2
-2006-09,Neutral Milk Hotel,1
-2006-09,Of Montreal,1
-2006-09,Regina Spektor,1
-2006-09,Rilo Kiley,4
-2006-09,Stars,8
-2006-09,Tegan And Sara,0
-2006-09,The Beatles,8
-2006-09,The Decemberists,1
-2006-09,The White Stripes,0
-2006-09,Tilly And The Wall,15
-2006-09,Weezer,0
-2006-09,Yeah Yeah Yeahs,4
-2006-10,Ani Difranco,0
-2006-10,Arcade Fire,3
-2006-10,Architecture In Helsinki,4
-2006-10,Beck,4
-2006-10,Belle And Sebastian,2
-2006-10,Bright Eyes,4
-2006-10,Broken Social Scene,1
-2006-10,Death Cab For Cutie,4
-2006-10,Neutral Milk Hotel,4
-2006-10,Of Montreal,37
-2006-10,Regina Spektor,0
-2006-10,Rilo Kiley,3
-2006-10,Stars,3
-2006-10,Tegan And Sara,0
-2006-10,The Beatles,8
-2006-10,The Decemberists,1
-2006-10,The White Stripes,12
-2006-10,Tilly And The Wall,67
-2006-10,Weezer,1
-2006-10,Yeah Yeah Yeahs,2
-2006-11,Ani Difranco,1
-2006-11,Arcade Fire,0
-2006-11,Architecture In Helsinki,2
-2006-11,Beck,3
-2006-11,Belle And Sebastian,3
-2006-11,Bright Eyes,7
-2006-11,Broken Social Scene,5
-2006-11,Death Cab For Cutie,4
-2006-11,Neutral Milk Hotel,8
-2006-11,Of Montreal,16
-2006-11,Regina Spektor,1
-2006-11,Rilo Kiley,2
-2006-11,Stars,14
-2006-11,Tegan And Sara,3
-2006-11,The Beatles,12
-2006-11,The Decemberists,2
-2006-11,The White Stripes,7
-2006-11,Tilly And The Wall,40
-2006-11,Weezer,0
-2006-11,Yeah Yeah Yeahs,5
-2006-12,Ani Difranco,0
-2006-12,Arcade Fire,0
-2006-12,Architecture In Helsinki,10
-2006-12,Beck,4
-2006-12,Belle And Sebastian,0
-2006-12,Bright Eyes,2
-2006-12,Broken Social Scene,8
-2006-12,Death Cab For Cutie,1
-2006-12,Neutral Milk Hotel,2
-2006-12,Of Montreal,6
-2006-12,Regina Spektor,0
-2006-12,Rilo Kiley,2
-2006-12,Stars,6
-2006-12,Tegan And Sara,5
-2006-12,The Beatles,2
-2006-12,The Decemberists,1
-2006-12,The White Stripes,3
-2006-12,Tilly And The Wall,32
-2006-12,Weezer,1
-2006-12,Yeah Yeah Yeahs,4
-2007-01,Ani Difranco,3
-2007-01,Arcade Fire,4
-2007-01,Architecture In Helsinki,4
-2007-01,Beck,2
-2007-01,Belle And Sebastian,2
-2007-01,Bright Eyes,6
-2007-01,Broken Social Scene,8
-2007-01,Death Cab For Cutie,2
-2007-01,Neutral Milk Hotel,5
-2007-01,Of Montreal,9
-2007-01,Regina Spektor,1
-2007-01,Rilo Kiley,11
-2007-01,Stars,15
-2007-01,Tegan And Sara,11
-2007-01,The Beatles,19
-2007-01,The Decemberists,1
-2007-01,The White Stripes,10
-2007-01,Tilly And The Wall,9
-2007-01,Weezer,1
-2007-01,Yeah Yeah Yeahs,3
-2007-02,Ani Difranco,0
-2007-02,Arcade Fire,1
-2007-02,Architecture In Helsinki,2
-2007-02,Beck,1
-2007-02,Belle And Sebastian,0
-2007-02,Bright Eyes,1
-2007-02,Broken Social Scene,2
-2007-02,Death Cab For Cutie,0
-2007-02,Neutral Milk Hotel,1
-2007-02,Of Montreal,1
-2007-02,Regina Spektor,0
-2007-02,Rilo Kiley,3
-2007-02,Stars,10
-2007-02,Tegan And Sara,4
-2007-02,The Beatles,2
-2007-02,The Decemberists,6
-2007-02,The White Stripes,2
-2007-02,Tilly And The Wall,6
-2007-02,Weezer,0
-2007-02,Yeah Yeah Yeahs,3
-2007-03,Ani Difranco,8
-2007-03,Arcade Fire,1
-2007-03,Architecture In Helsinki,5
-2007-03,Beck,3
-2007-03,Belle And Sebastian,0
-2007-03,Bright Eyes,3
-2007-03,Broken Social Scene,4
-2007-03,Death Cab For Cutie,0
-2007-03,Neutral Milk Hotel,0
-2007-03,Of Montreal,1
-2007-03,Regina Spektor,2
-2007-03,Rilo Kiley,2
-2007-03,Stars,2
-2007-03,Tegan And Sara,4
-2007-03,The Beatles,4
-2007-03,The Decemberists,2
-2007-03,The White Stripes,4
-2007-03,Tilly And The Wall,0
-2007-03,Weezer,0
-2007-03,Yeah Yeah Yeahs,1
-2007-04,Ani Difranco,8
-2007-04,Arcade Fire,2
-2007-04,Architecture In Helsinki,0
-2007-04,Beck,1
-2007-04,Belle And Sebastian,1
-2007-04,Bright Eyes,2
-2007-04,Broken Social Scene,3
-2007-04,Death Cab For Cutie,3
-2007-04,Neutral Milk Hotel,1
-2007-04,Of Montreal,2
-2007-04,Regina Spektor,1
-2007-04,Rilo Kiley,0
-2007-04,Stars,7
-2007-04,Tegan And Sara,1
-2007-04,The Beatles,7
-2007-04,The Decemberists,1
-2007-04,The White Stripes,2
-2007-04,Tilly And The Wall,0
-2007-04,Weezer,0
-2007-04,Yeah Yeah Yeahs,3
-2007-05,Ani Difranco,8
-2007-05,Arcade Fire,1
-2007-05,Architecture In Helsinki,8
-2007-05,Beck,0
-2007-05,Belle And Sebastian,1
-2007-05,Bright Eyes,10
-2007-05,Broken Social Scene,6
-2007-05,Death Cab For Cutie,1
-2007-05,Neutral Milk Hotel,7
-2007-05,Of Montreal,0
-2007-05,Regina Spektor,10
-2007-05,Rilo Kiley,2
-2007-05,Stars,9
-2007-05,Tegan And Sara,11
-2007-05,The Beatles,11
-2007-05,The Decemberists,2
-2007-05,The White Stripes,11
-2007-05,Tilly And The Wall,11
-2007-05,Weezer,0
-2007-05,Yeah Yeah Yeahs,2
-2007-06,Ani Difranco,7
-2007-06,Arcade Fire,0
-2007-06,Architecture In Helsinki,4
-2007-06,Beck,0
-2007-06,Belle And Sebastian,0
-2007-06,Bright Eyes,6
-2007-06,Broken Social Scene,5
-2007-06,Death Cab For Cutie,0
-2007-06,Neutral Milk Hotel,11
-2007-06,Of Montreal,0
-2007-06,Regina Spektor,11
-2007-06,Rilo Kiley,0
-2007-06,Stars,7
-2007-06,Tegan And Sara,5
-2007-06,The Beatles,9
-2007-06,The Decemberists,1
-2007-06,The White Stripes,4
-2007-06,Tilly And The Wall,10
-2007-06,Weezer,0
-2007-06,Yeah Yeah Yeahs,1
-2007-07,Ani Difranco,0
-2007-07,Arcade Fire,21
-2007-07,Architecture In Helsinki,8
-2007-07,Beck,0
-2007-07,Belle And Sebastian,3
-2007-07,Bright Eyes,1
-2007-07,Broken Social Scene,0
-2007-07,Death Cab For Cutie,1
-2007-07,Neutral Milk Hotel,0
-2007-07,Of Montreal,1
-2007-07,Regina Spektor,3
-2007-07,Rilo Kiley,0
-2007-07,Stars,0
-2007-07,Tegan And Sara,0
-2007-07,The Beatles,0
-2007-07,The Decemberists,0
-2007-07,The White Stripes,3
-2007-07,Tilly And The Wall,0
-2007-07,Weezer,1
-2007-07,Yeah Yeah Yeahs,12
-2007-08,Ani Difranco,4
-2007-08,Arcade Fire,36
-2007-08,Architecture In Helsinki,1
-2007-08,Beck,0
-2007-08,Belle And Sebastian,19
-2007-08,Bright Eyes,1
-2007-08,Broken Social Scene,1
-2007-08,Death Cab For Cutie,0
-2007-08,Neutral Milk Hotel,3
-2007-08,Of Montreal,0
-2007-08,Regina Spektor,0
-2007-08,Rilo Kiley,0
-2007-08,Stars,2
-2007-08,Tegan And Sara,1
-2007-08,The Beatles,17
-2007-08,The Decemberists,0
-2007-08,The White Stripes,1
-2007-08,Tilly And The Wall,4
-2007-08,Weezer,3
-2007-08,Yeah Yeah Yeahs,1
-2007-09,Ani Difranco,0
-2007-09,Arcade Fire,0
-2007-09,Architecture In Helsinki,0
-2007-09,Beck,0
-2007-09,Belle And Sebastian,18
-2007-09,Bright Eyes,0
-2007-09,Broken Social Scene,2
-2007-09,Death Cab For Cutie,0
-2007-09,Neutral Milk Hotel,0
-2007-09,Of Montreal,0
-2007-09,Regina Spektor,4
-2007-09,Rilo Kiley,1
-2007-09,Stars,42
-2007-09,Tegan And Sara,0
-2007-09,The Beatles,1
-2007-09,The Decemberists,0
-2007-09,The White Stripes,3
-2007-09,Tilly And The Wall,6
-2007-09,Weezer,0
-2007-09,Yeah Yeah Yeahs,0
-2007-10,Ani Difranco,1
-2007-10,Arcade Fire,11
-2007-10,Architecture In Helsinki,1
-2007-10,Beck,0
-2007-10,Belle And Sebastian,7
-2007-10,Bright Eyes,0
-2007-10,Broken Social Scene,0
-2007-10,Death Cab For Cutie,0
-2007-10,Neutral Milk Hotel,0
-2007-10,Of Montreal,1
-2007-10,Regina Spektor,0
-2007-10,Rilo Kiley,6
-2007-10,Stars,32
-2007-10,Tegan And Sara,0
-2007-10,The Beatles,3
-2007-10,The Decemberists,0
-2007-10,The White Stripes,1
-2007-10,Tilly And The Wall,8
-2007-10,Weezer,0
-2007-10,Yeah Yeah Yeahs,0
-2007-11,Ani Difranco,18
-2007-11,Arcade Fire,15
-2007-11,Architecture In Helsinki,1
-2007-11,Beck,0
-2007-11,Belle And Sebastian,6
-2007-11,Bright Eyes,0
-2007-11,Broken Social Scene,1
-2007-11,Death Cab For Cutie,0
-2007-11,Neutral Milk Hotel,0
-2007-11,Of Montreal,0
-2007-11,Regina Spektor,6
-2007-11,Rilo Kiley,4
-2007-11,Stars,0
-2007-11,Tegan And Sara,1
-2007-11,The Beatles,25
-2007-11,The Decemberists,0
-2007-11,The White Stripes,0
-2007-11,Tilly And The Wall,1
-2007-11,Weezer,0
-2007-11,Yeah Yeah Yeahs,0
-2007-12,Ani Difranco,6
-2007-12,Arcade Fire,13
-2007-12,Architecture In Helsinki,9
-2007-12,Beck,1
-2007-12,Belle And Sebastian,2
-2007-12,Bright Eyes,1
-2007-12,Broken Social Scene,1
-2007-12,Death Cab For Cutie,1
-2007-12,Neutral Milk Hotel,1
-2007-12,Of Montreal,1
-2007-12,Regina Spektor,1
-2007-12,Rilo Kiley,1
-2007-12,Stars,2
-2007-12,Tegan And Sara,1
-2007-12,The Beatles,1
-2007-12,The Decemberists,0
-2007-12,The White Stripes,0
-2007-12,Tilly And The Wall,1
-2007-12,Weezer,0
-2007-12,Yeah Yeah Yeahs,0
-2008-01,Ani Difranco,119
-2008-01,Arcade Fire,2
-2008-01,Architecture In Helsinki,0
-2008-01,Beck,1
-2008-01,Belle And Sebastian,7
-2008-01,Bright Eyes,0
-2008-01,Broken Social Scene,2
-2008-01,Death Cab For Cutie,0
-2008-01,Neutral Milk Hotel,11
-2008-01,Of Montreal,2
-2008-01,Regina Spektor,0
-2008-01,Rilo Kiley,1
-2008-01,Stars,23
-2008-01,Tegan And Sara,54
-2008-01,The Beatles,0
-2008-01,The Decemberists,1
-2008-01,The White Stripes,1
-2008-01,Tilly And The Wall,13
-2008-01,Weezer,1
-2008-01,Yeah Yeah Yeahs,4
-2008-02,Ani Difranco,22
-2008-02,Arcade Fire,0
-2008-02,Architecture In Helsinki,0
-2008-02,Beck,1
-2008-02,Belle And Sebastian,1
-2008-02,Bright Eyes,0
-2008-02,Broken Social Scene,1
-2008-02,Death Cab For Cutie,0
-2008-02,Neutral Milk Hotel,4
-2008-02,Of Montreal,0
-2008-02,Regina Spektor,3
-2008-02,Rilo Kiley,2
-2008-02,Stars,14
-2008-02,Tegan And Sara,1
-2008-02,The Beatles,3
-2008-02,The Decemberists,0
-2008-02,The White Stripes,1
-2008-02,Tilly And The Wall,1
-2008-02,Weezer,0
-2008-02,Yeah Yeah Yeahs,0
-2008-03,Ani Difranco,7
-2008-03,Arcade Fire,0
-2008-03,Architecture In Helsinki,4
-2008-03,Beck,1
-2008-03,Belle And Sebastian,1
-2008-03,Bright Eyes,0
-2008-03,Broken Social Scene,1
-2008-03,Death Cab For Cutie,0
-2008-03,Neutral Milk Hotel,12
-2008-03,Of Montreal,0
-2008-03,Regina Spektor,3
-2008-03,Rilo Kiley,2
-2008-03,Stars,2
-2008-03,Tegan And Sara,0
-2008-03,The Beatles,1
-2008-03,The Decemberists,0
-2008-03,The White Stripes,1
-2008-03,Tilly And The Wall,0
-2008-03,Weezer,0
-2008-03,Yeah Yeah Yeahs,0
-2008-04,Ani Difranco,2
-2008-04,Arcade Fire,1
-2008-04,Architecture In Helsinki,0
-2008-04,Beck,0
-2008-04,Belle And Sebastian,5
-2008-04,Bright Eyes,0
-2008-04,Broken Social Scene,5
-2008-04,Death Cab For Cutie,0
-2008-04,Neutral Milk Hotel,7
-2008-04,Of Montreal,4
-2008-04,Regina Spektor,0
-2008-04,Rilo Kiley,0
-2008-04,Stars,6
-2008-04,Tegan And Sara,0
-2008-04,The Beatles,8
-2008-04,The Decemberists,0
-2008-04,The White Stripes,0
-2008-04,Tilly And The Wall,0
-2008-04,Weezer,1
-2008-04,Yeah Yeah Yeahs,0
-2008-05,Ani Difranco,15
-2008-05,Arcade Fire,0
-2008-05,Architecture In Helsinki,4
-2008-05,Beck,0
-2008-05,Belle And Sebastian,1
-2008-05,Bright Eyes,7
-2008-05,Broken Social Scene,0
-2008-05,Death Cab For Cutie,0
-2008-05,Neutral Milk Hotel,1
-2008-05,Of Montreal,7
-2008-05,Regina Spektor,1
-2008-05,Rilo Kiley,8
-2008-05,Stars,0
-2008-05,Tegan And Sara,0
-2008-05,The Beatles,0
-2008-05,The Decemberists,0
-2008-05,The White Stripes,23
-2008-05,Tilly And The Wall,0
-2008-05,Weezer,0
-2008-05,Yeah Yeah Yeahs,0
-2008-06,Ani Difranco,28
-2008-06,Arcade Fire,1
-2008-06,Architecture In Helsinki,0
-2008-06,Beck,0
-2008-06,Belle And Sebastian,0
-2008-06,Bright Eyes,7
-2008-06,Broken Social Scene,0
-2008-06,Death Cab For Cutie,0
-2008-06,Neutral Milk Hotel,0
-2008-06,Of Montreal,16
-2008-06,Regina Spektor,16
-2008-06,Rilo Kiley,2
-2008-06,Stars,0
-2008-06,Tegan And Sara,11
-2008-06,The Beatles,0
-2008-06,The Decemberists,0
-2008-06,The White Stripes,0
-2008-06,Tilly And The Wall,5
-2008-06,Weezer,0
-2008-06,Yeah Yeah Yeahs,1
-2008-07,Ani Difranco,43
-2008-07,Arcade Fire,0
-2008-07,Architecture In Helsinki,0
-2008-07,Beck,1
-2008-07,Belle And Sebastian,2
-2008-07,Bright Eyes,0
-2008-07,Broken Social Scene,3
-2008-07,Death Cab For Cutie,0
-2008-07,Neutral Milk Hotel,0
-2008-07,Of Montreal,1
-2008-07,Regina Spektor,4
-2008-07,Rilo Kiley,0
-2008-07,Stars,4
-2008-07,Tegan And Sara,1
-2008-07,The Beatles,0
-2008-07,The Decemberists,1
-2008-07,The White Stripes,1
-2008-07,Tilly And The Wall,2
-2008-07,Weezer,1
-2008-07,Yeah Yeah Yeahs,0
-2008-08,Ani Difranco,2
-2008-08,Arcade Fire,1
-2008-08,Architecture In Helsinki,0
-2008-08,Beck,1
-2008-08,Belle And Sebastian,2
-2008-08,Bright Eyes,0
-2008-08,Broken Social Scene,0
-2008-08,Death Cab For Cutie,0
-2008-08,Neutral Milk Hotel,1
-2008-08,Of Montreal,0
-2008-08,Regina Spektor,0
-2008-08,Rilo Kiley,0
-2008-08,Stars,19
-2008-08,Tegan And Sara,2
-2008-08,The Beatles,0
-2008-08,The Decemberists,2
-2008-08,The White Stripes,1
-2008-08,Tilly And The Wall,3
-2008-08,Weezer,1
-2008-08,Yeah Yeah Yeahs,0
-2008-09,Ani Difranco,0
-2008-09,Arcade Fire,0
-2008-09,Architecture In Helsinki,0
-2008-09,Beck,0
-2008-09,Belle And Sebastian,0
-2008-09,Bright Eyes,0
-2008-09,Broken Social Scene,0
-2008-09,Death Cab For Cutie,11
-2008-09,Neutral Milk Hotel,1
-2008-09,Of Montreal,0
-2008-09,Regina Spektor,0
-2008-09,Rilo Kiley,14
-2008-09,Stars,46
-2008-09,Tegan And Sara,0
-2008-09,The Beatles,1
-2008-09,The Decemberists,0
-2008-09,The White Stripes,2
-2008-09,Tilly And The Wall,5
-2008-09,Weezer,0
-2008-09,Yeah Yeah Yeahs,0
-2008-10,Ani Difranco,33
-2008-10,Arcade Fire,5
-2008-10,Architecture In Helsinki,0
-2008-10,Beck,1
-2008-10,Belle And Sebastian,3
-2008-10,Bright Eyes,1
-2008-10,Broken Social Scene,1
-2008-10,Death Cab For Cutie,5
-2008-10,Neutral Milk Hotel,2
-2008-10,Of Montreal,0
-2008-10,Regina Spektor,0
-2008-10,Rilo Kiley,7
-2008-10,Stars,52
-2008-10,Tegan And Sara,5
-2008-10,The Beatles,5
-2008-10,The Decemberists,1
-2008-10,The White Stripes,5
-2008-10,Tilly And The Wall,3
-2008-10,Weezer,6
-2008-10,Yeah Yeah Yeahs,1
-2008-11,Ani Difranco,32
-2008-11,Arcade Fire,14
-2008-11,Architecture In Helsinki,17
-2008-11,Beck,1
-2008-11,Belle And Sebastian,9
-2008-11,Bright Eyes,0
-2008-11,Broken Social Scene,0
-2008-11,Death Cab For Cutie,24
-2008-11,Neutral Milk Hotel,0
-2008-11,Of Montreal,0
-2008-11,Regina Spektor,0
-2008-11,Rilo Kiley,15
-2008-11,Stars,53
-2008-11,Tegan And Sara,0
-2008-11,The Beatles,12
-2008-11,The Decemberists,3
-2008-11,The White Stripes,3
-2008-11,Tilly And The Wall,1
-2008-11,Weezer,1
-2008-11,Yeah Yeah Yeahs,1
-2008-12,Ani Difranco,13
-2008-12,Arcade Fire,0
-2008-12,Architecture In Helsinki,2
-2008-12,Beck,0
-2008-12,Belle And Sebastian,2
-2008-12,Bright Eyes,0
-2008-12,Broken Social Scene,2
-2008-12,Death Cab For Cutie,1
-2008-12,Neutral Milk Hotel,2
-2008-12,Of Montreal,1
-2008-12,Regina Spektor,2
-2008-12,Rilo Kiley,22
-2008-12,Stars,3
-2008-12,Tegan And Sara,0
-2008-12,The Beatles,7
-2008-12,The Decemberists,0
-2008-12,The White Stripes,0
-2008-12,Tilly And The Wall,0
-2008-12,Weezer,0
-2008-12,Yeah Yeah Yeahs,0
-2009-01,Ani Difranco,35
-2009-01,Arcade Fire,0
-2009-01,Architecture In Helsinki,0
-2009-01,Beck,0
-2009-01,Belle And Sebastian,1
-2009-01,Bright Eyes,0
-2009-01,Broken Social Scene,0
-2009-01,Death Cab For Cutie,1
-2009-01,Neutral Milk Hotel,1
-2009-01,Of Montreal,0
-2009-01,Regina Spektor,5
-2009-01,Rilo Kiley,1
-2009-01,Stars,2
-2009-01,Tegan And Sara,0
-2009-01,The Beatles,1
-2009-01,The Decemberists,0
-2009-01,The White Stripes,1
-2009-01,Tilly And The Wall,2
-2009-01,Weezer,1
-2009-01,Yeah Yeah Yeahs,0
-2009-02,Ani Difranco,1
-2009-02,Arcade Fire,0
-2009-02,Architecture In Helsinki,0
-2009-02,Beck,0
-2009-02,Belle And Sebastian,1
-2009-02,Bright Eyes,0
-2009-02,Broken Social Scene,2
-2009-02,Death Cab For Cutie,7
-2009-02,Neutral Milk Hotel,0
-2009-02,Of Montreal,3
-2009-02,Regina Spektor,1
-2009-02,Rilo Kiley,2
-2009-02,Stars,7
-2009-02,Tegan And Sara,0
-2009-02,The Beatles,4
-2009-02,The Decemberists,3
-2009-02,The White Stripes,0
-2009-02,Tilly And The Wall,8
-2009-02,Weezer,0
-2009-02,Yeah Yeah Yeahs,0
-2009-03,Ani Difranco,1
-2009-03,Arcade Fire,0
-2009-03,Architecture In Helsinki,0
-2009-03,Beck,0
-2009-03,Belle And Sebastian,0
-2009-03,Bright Eyes,0
-2009-03,Broken Social Scene,7
-2009-03,Death Cab For Cutie,4
-2009-03,Neutral Milk Hotel,0
-2009-03,Of Montreal,0
-2009-03,Regina Spektor,0
-2009-03,Rilo Kiley,1
-2009-03,Stars,0
-2009-03,Tegan And Sara,0
-2009-03,The Beatles,1
-2009-03,The Decemberists,1
-2009-03,The White Stripes,0
-2009-03,Tilly And The Wall,4
-2009-03,Weezer,0
-2009-03,Yeah Yeah Yeahs,0
-2009-04,Ani Difranco,5
-2009-04,Arcade Fire,1
-2009-04,Architecture In Helsinki,0
-2009-04,Beck,0
-2009-04,Belle And Sebastian,0
-2009-04,Bright Eyes,0
-2009-04,Broken Social Scene,3
-2009-04,Death Cab For Cutie,2
-2009-04,Neutral Milk Hotel,0
-2009-04,Of Montreal,0
-2009-04,Regina Spektor,2
-2009-04,Rilo Kiley,11
-2009-04,Stars,0
-2009-04,Tegan And Sara,0
-2009-04,The Beatles,2
-2009-04,The Decemberists,0
-2009-04,The White Stripes,0
-2009-04,Tilly And The Wall,0
-2009-04,Weezer,0
-2009-04,Yeah Yeah Yeahs,0
+"month","artist","plays"
+"2006-01","Ani Difranco",0
+"2006-01","Arcade Fire",0
+"2006-01","Architecture In Helsinki",0
+"2006-01","Beck",0
+"2006-01","Belle And Sebastian",0
+"2006-01","Bright Eyes",0
+"2006-01","Broken Social Scene",0
+"2006-01","Death Cab For Cutie",0
+"2006-01","Neutral Milk Hotel",0
+"2006-01","Of Montreal",0
+"2006-01","Regina Spektor",0
+"2006-01","Rilo Kiley",0
+"2006-01","Stars",0
+"2006-01","Tegan And Sara",0
+"2006-01","The Beatles",3
+"2006-01","The Decemberists",0
+"2006-01","The White Stripes",4
+"2006-01","Tilly And The Wall",0
+"2006-01","Weezer",3
+"2006-01","Yeah Yeah Yeahs",3
+"2006-02","Ani Difranco",0
+"2006-02","Arcade Fire",0
+"2006-02","Architecture In Helsinki",0
+"2006-02","Beck",4
+"2006-02","Belle And Sebastian",1
+"2006-02","Bright Eyes",0
+"2006-02","Broken Social Scene",0
+"2006-02","Death Cab For Cutie",1
+"2006-02","Neutral Milk Hotel",0
+"2006-02","Of Montreal",0
+"2006-02","Regina Spektor",0
+"2006-02","Rilo Kiley",0
+"2006-02","Stars",0
+"2006-02","Tegan And Sara",0
+"2006-02","The Beatles",6
+"2006-02","The Decemberists",0
+"2006-02","The White Stripes",7
+"2006-02","Tilly And The Wall",0
+"2006-02","Weezer",1
+"2006-02","Yeah Yeah Yeahs",0
+"2006-03","Ani Difranco",0
+"2006-03","Arcade Fire",0
+"2006-03","Architecture In Helsinki",0
+"2006-03","Beck",8
+"2006-03","Belle And Sebastian",0
+"2006-03","Bright Eyes",0
+"2006-03","Broken Social Scene",0
+"2006-03","Death Cab For Cutie",0
+"2006-03","Neutral Milk Hotel",0
+"2006-03","Of Montreal",0
+"2006-03","Regina Spektor",0
+"2006-03","Rilo Kiley",4
+"2006-03","Stars",0
+"2006-03","Tegan And Sara",5
+"2006-03","The Beatles",1
+"2006-03","The Decemberists",0
+"2006-03","The White Stripes",11
+"2006-03","Tilly And The Wall",0
+"2006-03","Weezer",1
+"2006-03","Yeah Yeah Yeahs",0
+"2006-04","Ani Difranco",0
+"2006-04","Arcade Fire",4
+"2006-04","Architecture In Helsinki",7
+"2006-04","Beck",9
+"2006-04","Belle And Sebastian",0
+"2006-04","Bright Eyes",2
+"2006-04","Broken Social Scene",0
+"2006-04","Death Cab For Cutie",2
+"2006-04","Neutral Milk Hotel",3
+"2006-04","Of Montreal",0
+"2006-04","Regina Spektor",0
+"2006-04","Rilo Kiley",1
+"2006-04","Stars",0
+"2006-04","Tegan And Sara",2
+"2006-04","The Beatles",1
+"2006-04","The Decemberists",8
+"2006-04","The White Stripes",13
+"2006-04","Tilly And The Wall",0
+"2006-04","Weezer",6
+"2006-04","Yeah Yeah Yeahs",9
+"2006-05","Ani Difranco",0
+"2006-05","Arcade Fire",0
+"2006-05","Architecture In Helsinki",8
+"2006-05","Beck",2
+"2006-05","Belle And Sebastian",0
+"2006-05","Bright Eyes",1
+"2006-05","Broken Social Scene",0
+"2006-05","Death Cab For Cutie",2
+"2006-05","Neutral Milk Hotel",2
+"2006-05","Of Montreal",0
+"2006-05","Regina Spektor",0
+"2006-05","Rilo Kiley",0
+"2006-05","Stars",0
+"2006-05","Tegan And Sara",0
+"2006-05","The Beatles",11
+"2006-05","The Decemberists",8
+"2006-05","The White Stripes",13
+"2006-05","Tilly And The Wall",0
+"2006-05","Weezer",6
+"2006-05","Yeah Yeah Yeahs",4
+"2006-06","Ani Difranco",0
+"2006-06","Arcade Fire",1
+"2006-06","Architecture In Helsinki",4
+"2006-06","Beck",4
+"2006-06","Belle And Sebastian",0
+"2006-06","Bright Eyes",1
+"2006-06","Broken Social Scene",0
+"2006-06","Death Cab For Cutie",4
+"2006-06","Neutral Milk Hotel",1
+"2006-06","Of Montreal",0
+"2006-06","Regina Spektor",0
+"2006-06","Rilo Kiley",0
+"2006-06","Stars",0
+"2006-06","Tegan And Sara",2
+"2006-06","The Beatles",6
+"2006-06","The Decemberists",3
+"2006-06","The White Stripes",10
+"2006-06","Tilly And The Wall",0
+"2006-06","Weezer",7
+"2006-06","Yeah Yeah Yeahs",3
+"2006-07","Ani Difranco",0
+"2006-07","Arcade Fire",2
+"2006-07","Architecture In Helsinki",11
+"2006-07","Beck",2
+"2006-07","Belle And Sebastian",0
+"2006-07","Bright Eyes",1
+"2006-07","Broken Social Scene",1
+"2006-07","Death Cab For Cutie",11
+"2006-07","Neutral Milk Hotel",1
+"2006-07","Of Montreal",0
+"2006-07","Regina Spektor",0
+"2006-07","Rilo Kiley",0
+"2006-07","Stars",1
+"2006-07","Tegan And Sara",0
+"2006-07","The Beatles",6
+"2006-07","The Decemberists",5
+"2006-07","The White Stripes",9
+"2006-07","Tilly And The Wall",0
+"2006-07","Weezer",2
+"2006-07","Yeah Yeah Yeahs",5
+"2006-08","Ani Difranco",0
+"2006-08","Arcade Fire",1
+"2006-08","Architecture In Helsinki",5
+"2006-08","Beck",5
+"2006-08","Belle And Sebastian",1
+"2006-08","Bright Eyes",2
+"2006-08","Broken Social Scene",3
+"2006-08","Death Cab For Cutie",3
+"2006-08","Neutral Milk Hotel",3
+"2006-08","Of Montreal",7
+"2006-08","Regina Spektor",0
+"2006-08","Rilo Kiley",2
+"2006-08","Stars",4
+"2006-08","Tegan And Sara",0
+"2006-08","The Beatles",4
+"2006-08","The Decemberists",1
+"2006-08","The White Stripes",4
+"2006-08","Tilly And The Wall",0
+"2006-08","Weezer",1
+"2006-08","Yeah Yeah Yeahs",2
+"2006-09","Ani Difranco",0
+"2006-09","Arcade Fire",0
+"2006-09","Architecture In Helsinki",5
+"2006-09","Beck",1
+"2006-09","Belle And Sebastian",0
+"2006-09","Bright Eyes",2
+"2006-09","Broken Social Scene",4
+"2006-09","Death Cab For Cutie",2
+"2006-09","Neutral Milk Hotel",1
+"2006-09","Of Montreal",1
+"2006-09","Regina Spektor",1
+"2006-09","Rilo Kiley",4
+"2006-09","Stars",8
+"2006-09","Tegan And Sara",0
+"2006-09","The Beatles",8
+"2006-09","The Decemberists",1
+"2006-09","The White Stripes",0
+"2006-09","Tilly And The Wall",15
+"2006-09","Weezer",0
+"2006-09","Yeah Yeah Yeahs",4
+"2006-10","Ani Difranco",0
+"2006-10","Arcade Fire",3
+"2006-10","Architecture In Helsinki",4
+"2006-10","Beck",4
+"2006-10","Belle And Sebastian",2
+"2006-10","Bright Eyes",4
+"2006-10","Broken Social Scene",1
+"2006-10","Death Cab For Cutie",4
+"2006-10","Neutral Milk Hotel",4
+"2006-10","Of Montreal",37
+"2006-10","Regina Spektor",0
+"2006-10","Rilo Kiley",3
+"2006-10","Stars",3
+"2006-10","Tegan And Sara",0
+"2006-10","The Beatles",8
+"2006-10","The Decemberists",1
+"2006-10","The White Stripes",12
+"2006-10","Tilly And The Wall",67
+"2006-10","Weezer",1
+"2006-10","Yeah Yeah Yeahs",2
+"2006-11","Ani Difranco",1
+"2006-11","Arcade Fire",0
+"2006-11","Architecture In Helsinki",2
+"2006-11","Beck",3
+"2006-11","Belle And Sebastian",3
+"2006-11","Bright Eyes",7
+"2006-11","Broken Social Scene",5
+"2006-11","Death Cab For Cutie",4
+"2006-11","Neutral Milk Hotel",8
+"2006-11","Of Montreal",16
+"2006-11","Regina Spektor",1
+"2006-11","Rilo Kiley",2
+"2006-11","Stars",14
+"2006-11","Tegan And Sara",3
+"2006-11","The Beatles",12
+"2006-11","The Decemberists",2
+"2006-11","The White Stripes",7
+"2006-11","Tilly And The Wall",40
+"2006-11","Weezer",0
+"2006-11","Yeah Yeah Yeahs",5
+"2006-12","Ani Difranco",0
+"2006-12","Arcade Fire",0
+"2006-12","Architecture In Helsinki",10
+"2006-12","Beck",4
+"2006-12","Belle And Sebastian",0
+"2006-12","Bright Eyes",2
+"2006-12","Broken Social Scene",8
+"2006-12","Death Cab For Cutie",1
+"2006-12","Neutral Milk Hotel",2
+"2006-12","Of Montreal",6
+"2006-12","Regina Spektor",0
+"2006-12","Rilo Kiley",2
+"2006-12","Stars",6
+"2006-12","Tegan And Sara",5
+"2006-12","The Beatles",2
+"2006-12","The Decemberists",1
+"2006-12","The White Stripes",3
+"2006-12","Tilly And The Wall",32
+"2006-12","Weezer",1
+"2006-12","Yeah Yeah Yeahs",4
+"2007-01","Ani Difranco",3
+"2007-01","Arcade Fire",4
+"2007-01","Architecture In Helsinki",4
+"2007-01","Beck",2
+"2007-01","Belle And Sebastian",2
+"2007-01","Bright Eyes",6
+"2007-01","Broken Social Scene",8
+"2007-01","Death Cab For Cutie",2
+"2007-01","Neutral Milk Hotel",5
+"2007-01","Of Montreal",9
+"2007-01","Regina Spektor",1
+"2007-01","Rilo Kiley",11
+"2007-01","Stars",15
+"2007-01","Tegan And Sara",11
+"2007-01","The Beatles",19
+"2007-01","The Decemberists",1
+"2007-01","The White Stripes",10
+"2007-01","Tilly And The Wall",9
+"2007-01","Weezer",1
+"2007-01","Yeah Yeah Yeahs",3
+"2007-02","Ani Difranco",0
+"2007-02","Arcade Fire",1
+"2007-02","Architecture In Helsinki",2
+"2007-02","Beck",1
+"2007-02","Belle And Sebastian",0
+"2007-02","Bright Eyes",1
+"2007-02","Broken Social Scene",2
+"2007-02","Death Cab For Cutie",0
+"2007-02","Neutral Milk Hotel",1
+"2007-02","Of Montreal",1
+"2007-02","Regina Spektor",0
+"2007-02","Rilo Kiley",3
+"2007-02","Stars",10
+"2007-02","Tegan And Sara",4
+"2007-02","The Beatles",2
+"2007-02","The Decemberists",6
+"2007-02","The White Stripes",2
+"2007-02","Tilly And The Wall",6
+"2007-02","Weezer",0
+"2007-02","Yeah Yeah Yeahs",3
+"2007-03","Ani Difranco",8
+"2007-03","Arcade Fire",1
+"2007-03","Architecture In Helsinki",5
+"2007-03","Beck",3
+"2007-03","Belle And Sebastian",0
+"2007-03","Bright Eyes",3
+"2007-03","Broken Social Scene",4
+"2007-03","Death Cab For Cutie",0
+"2007-03","Neutral Milk Hotel",0
+"2007-03","Of Montreal",1
+"2007-03","Regina Spektor",2
+"2007-03","Rilo Kiley",2
+"2007-03","Stars",2
+"2007-03","Tegan And Sara",4
+"2007-03","The Beatles",4
+"2007-03","The Decemberists",2
+"2007-03","The White Stripes",4
+"2007-03","Tilly And The Wall",0
+"2007-03","Weezer",0
+"2007-03","Yeah Yeah Yeahs",1
+"2007-04","Ani Difranco",8
+"2007-04","Arcade Fire",2
+"2007-04","Architecture In Helsinki",0
+"2007-04","Beck",1
+"2007-04","Belle And Sebastian",1
+"2007-04","Bright Eyes",2
+"2007-04","Broken Social Scene",3
+"2007-04","Death Cab For Cutie",3
+"2007-04","Neutral Milk Hotel",1
+"2007-04","Of Montreal",2
+"2007-04","Regina Spektor",1
+"2007-04","Rilo Kiley",0
+"2007-04","Stars",7
+"2007-04","Tegan And Sara",1
+"2007-04","The Beatles",7
+"2007-04","The Decemberists",1
+"2007-04","The White Stripes",2
+"2007-04","Tilly And The Wall",0
+"2007-04","Weezer",0
+"2007-04","Yeah Yeah Yeahs",3
+"2007-05","Ani Difranco",8
+"2007-05","Arcade Fire",1
+"2007-05","Architecture In Helsinki",8
+"2007-05","Beck",0
+"2007-05","Belle And Sebastian",1
+"2007-05","Bright Eyes",10
+"2007-05","Broken Social Scene",6
+"2007-05","Death Cab For Cutie",1
+"2007-05","Neutral Milk Hotel",7
+"2007-05","Of Montreal",0
+"2007-05","Regina Spektor",10
+"2007-05","Rilo Kiley",2
+"2007-05","Stars",9
+"2007-05","Tegan And Sara",11
+"2007-05","The Beatles",11
+"2007-05","The Decemberists",2
+"2007-05","The White Stripes",11
+"2007-05","Tilly And The Wall",11
+"2007-05","Weezer",0
+"2007-05","Yeah Yeah Yeahs",2
+"2007-06","Ani Difranco",7
+"2007-06","Arcade Fire",0
+"2007-06","Architecture In Helsinki",4
+"2007-06","Beck",0
+"2007-06","Belle And Sebastian",0
+"2007-06","Bright Eyes",6
+"2007-06","Broken Social Scene",5
+"2007-06","Death Cab For Cutie",0
+"2007-06","Neutral Milk Hotel",11
+"2007-06","Of Montreal",0
+"2007-06","Regina Spektor",11
+"2007-06","Rilo Kiley",0
+"2007-06","Stars",7
+"2007-06","Tegan And Sara",5
+"2007-06","The Beatles",9
+"2007-06","The Decemberists",1
+"2007-06","The White Stripes",4
+"2007-06","Tilly And The Wall",10
+"2007-06","Weezer",0
+"2007-06","Yeah Yeah Yeahs",1
+"2007-07","Ani Difranco",0
+"2007-07","Arcade Fire",21
+"2007-07","Architecture In Helsinki",8
+"2007-07","Beck",0
+"2007-07","Belle And Sebastian",3
+"2007-07","Bright Eyes",1
+"2007-07","Broken Social Scene",0
+"2007-07","Death Cab For Cutie",1
+"2007-07","Neutral Milk Hotel",0
+"2007-07","Of Montreal",1
+"2007-07","Regina Spektor",3
+"2007-07","Rilo Kiley",0
+"2007-07","Stars",0
+"2007-07","Tegan And Sara",0
+"2007-07","The Beatles",0
+"2007-07","The Decemberists",0
+"2007-07","The White Stripes",3
+"2007-07","Tilly And The Wall",0
+"2007-07","Weezer",1
+"2007-07","Yeah Yeah Yeahs",12
+"2007-08","Ani Difranco",4
+"2007-08","Arcade Fire",36
+"2007-08","Architecture In Helsinki",1
+"2007-08","Beck",0
+"2007-08","Belle And Sebastian",19
+"2007-08","Bright Eyes",1
+"2007-08","Broken Social Scene",1
+"2007-08","Death Cab For Cutie",0
+"2007-08","Neutral Milk Hotel",3
+"2007-08","Of Montreal",0
+"2007-08","Regina Spektor",0
+"2007-08","Rilo Kiley",0
+"2007-08","Stars",2
+"2007-08","Tegan And Sara",1
+"2007-08","The Beatles",17
+"2007-08","The Decemberists",0
+"2007-08","The White Stripes",1
+"2007-08","Tilly And The Wall",4
+"2007-08","Weezer",3
+"2007-08","Yeah Yeah Yeahs",1
+"2007-09","Ani Difranco",0
+"2007-09","Arcade Fire",0
+"2007-09","Architecture In Helsinki",0
+"2007-09","Beck",0
+"2007-09","Belle And Sebastian",18
+"2007-09","Bright Eyes",0
+"2007-09","Broken Social Scene",2
+"2007-09","Death Cab For Cutie",0
+"2007-09","Neutral Milk Hotel",0
+"2007-09","Of Montreal",0
+"2007-09","Regina Spektor",4
+"2007-09","Rilo Kiley",1
+"2007-09","Stars",42
+"2007-09","Tegan And Sara",0
+"2007-09","The Beatles",1
+"2007-09","The Decemberists",0
+"2007-09","The White Stripes",3
+"2007-09","Tilly And The Wall",6
+"2007-09","Weezer",0
+"2007-09","Yeah Yeah Yeahs",0
+"2007-10","Ani Difranco",1
+"2007-10","Arcade Fire",11
+"2007-10","Architecture In Helsinki",1
+"2007-10","Beck",0
+"2007-10","Belle And Sebastian",7
+"2007-10","Bright Eyes",0
+"2007-10","Broken Social Scene",0
+"2007-10","Death Cab For Cutie",0
+"2007-10","Neutral Milk Hotel",0
+"2007-10","Of Montreal",1
+"2007-10","Regina Spektor",0
+"2007-10","Rilo Kiley",6
+"2007-10","Stars",32
+"2007-10","Tegan And Sara",0
+"2007-10","The Beatles",3
+"2007-10","The Decemberists",0
+"2007-10","The White Stripes",1
+"2007-10","Tilly And The Wall",8
+"2007-10","Weezer",0
+"2007-10","Yeah Yeah Yeahs",0
+"2007-11","Ani Difranco",18
+"2007-11","Arcade Fire",15
+"2007-11","Architecture In Helsinki",1
+"2007-11","Beck",0
+"2007-11","Belle And Sebastian",6
+"2007-11","Bright Eyes",0
+"2007-11","Broken Social Scene",1
+"2007-11","Death Cab For Cutie",0
+"2007-11","Neutral Milk Hotel",0
+"2007-11","Of Montreal",0
+"2007-11","Regina Spektor",6
+"2007-11","Rilo Kiley",4
+"2007-11","Stars",0
+"2007-11","Tegan And Sara",1
+"2007-11","The Beatles",25
+"2007-11","The Decemberists",0
+"2007-11","The White Stripes",0
+"2007-11","Tilly And The Wall",1
+"2007-11","Weezer",0
+"2007-11","Yeah Yeah Yeahs",0
+"2007-12","Ani Difranco",6
+"2007-12","Arcade Fire",13
+"2007-12","Architecture In Helsinki",9
+"2007-12","Beck",1
+"2007-12","Belle And Sebastian",2
+"2007-12","Bright Eyes",1
+"2007-12","Broken Social Scene",1
+"2007-12","Death Cab For Cutie",1
+"2007-12","Neutral Milk Hotel",1
+"2007-12","Of Montreal",1
+"2007-12","Regina Spektor",1
+"2007-12","Rilo Kiley",1
+"2007-12","Stars",2
+"2007-12","Tegan And Sara",1
+"2007-12","The Beatles",1
+"2007-12","The Decemberists",0
+"2007-12","The White Stripes",0
+"2007-12","Tilly And The Wall",1
+"2007-12","Weezer",0
+"2007-12","Yeah Yeah Yeahs",0
+"2008-01","Ani Difranco",119
+"2008-01","Arcade Fire",2
+"2008-01","Architecture In Helsinki",0
+"2008-01","Beck",1
+"2008-01","Belle And Sebastian",7
+"2008-01","Bright Eyes",0
+"2008-01","Broken Social Scene",2
+"2008-01","Death Cab For Cutie",0
+"2008-01","Neutral Milk Hotel",11
+"2008-01","Of Montreal",2
+"2008-01","Regina Spektor",0
+"2008-01","Rilo Kiley",1
+"2008-01","Stars",23
+"2008-01","Tegan And Sara",54
+"2008-01","The Beatles",0
+"2008-01","The Decemberists",1
+"2008-01","The White Stripes",1
+"2008-01","Tilly And The Wall",13
+"2008-01","Weezer",1
+"2008-01","Yeah Yeah Yeahs",4
+"2008-02","Ani Difranco",22
+"2008-02","Arcade Fire",0
+"2008-02","Architecture In Helsinki",0
+"2008-02","Beck",1
+"2008-02","Belle And Sebastian",1
+"2008-02","Bright Eyes",0
+"2008-02","Broken Social Scene",1
+"2008-02","Death Cab For Cutie",0
+"2008-02","Neutral Milk Hotel",4
+"2008-02","Of Montreal",0
+"2008-02","Regina Spektor",3
+"2008-02","Rilo Kiley",2
+"2008-02","Stars",14
+"2008-02","Tegan And Sara",1
+"2008-02","The Beatles",3
+"2008-02","The Decemberists",0
+"2008-02","The White Stripes",1
+"2008-02","Tilly And The Wall",1
+"2008-02","Weezer",0
+"2008-02","Yeah Yeah Yeahs",0
+"2008-03","Ani Difranco",7
+"2008-03","Arcade Fire",0
+"2008-03","Architecture In Helsinki",4
+"2008-03","Beck",1
+"2008-03","Belle And Sebastian",1
+"2008-03","Bright Eyes",0
+"2008-03","Broken Social Scene",1
+"2008-03","Death Cab For Cutie",0
+"2008-03","Neutral Milk Hotel",12
+"2008-03","Of Montreal",0
+"2008-03","Regina Spektor",3
+"2008-03","Rilo Kiley",2
+"2008-03","Stars",2
+"2008-03","Tegan And Sara",0
+"2008-03","The Beatles",1
+"2008-03","The Decemberists",0
+"2008-03","The White Stripes",1
+"2008-03","Tilly And The Wall",0
+"2008-03","Weezer",0
+"2008-03","Yeah Yeah Yeahs",0
+"2008-04","Ani Difranco",2
+"2008-04","Arcade Fire",1
+"2008-04","Architecture In Helsinki",0
+"2008-04","Beck",0
+"2008-04","Belle And Sebastian",5
+"2008-04","Bright Eyes",0
+"2008-04","Broken Social Scene",5
+"2008-04","Death Cab For Cutie",0
+"2008-04","Neutral Milk Hotel",7
+"2008-04","Of Montreal",4
+"2008-04","Regina Spektor",0
+"2008-04","Rilo Kiley",0
+"2008-04","Stars",6
+"2008-04","Tegan And Sara",0
+"2008-04","The Beatles",8
+"2008-04","The Decemberists",0
+"2008-04","The White Stripes",0
+"2008-04","Tilly And The Wall",0
+"2008-04","Weezer",1
+"2008-04","Yeah Yeah Yeahs",0
+"2008-05","Ani Difranco",15
+"2008-05","Arcade Fire",0
+"2008-05","Architecture In Helsinki",4
+"2008-05","Beck",0
+"2008-05","Belle And Sebastian",1
+"2008-05","Bright Eyes",7
+"2008-05","Broken Social Scene",0
+"2008-05","Death Cab For Cutie",0
+"2008-05","Neutral Milk Hotel",1
+"2008-05","Of Montreal",7
+"2008-05","Regina Spektor",1
+"2008-05","Rilo Kiley",8
+"2008-05","Stars",0
+"2008-05","Tegan And Sara",0
+"2008-05","The Beatles",0
+"2008-05","The Decemberists",0
+"2008-05","The White Stripes",23
+"2008-05","Tilly And The Wall",0
+"2008-05","Weezer",0
+"2008-05","Yeah Yeah Yeahs",0
+"2008-06","Ani Difranco",28
+"2008-06","Arcade Fire",1
+"2008-06","Architecture In Helsinki",0
+"2008-06","Beck",0
+"2008-06","Belle And Sebastian",0
+"2008-06","Bright Eyes",7
+"2008-06","Broken Social Scene",0
+"2008-06","Death Cab For Cutie",0
+"2008-06","Neutral Milk Hotel",0
+"2008-06","Of Montreal",16
+"2008-06","Regina Spektor",16
+"2008-06","Rilo Kiley",2
+"2008-06","Stars",0
+"2008-06","Tegan And Sara",11
+"2008-06","The Beatles",0
+"2008-06","The Decemberists",0
+"2008-06","The White Stripes",0
+"2008-06","Tilly And The Wall",5
+"2008-06","Weezer",0
+"2008-06","Yeah Yeah Yeahs",1
+"2008-07","Ani Difranco",43
+"2008-07","Arcade Fire",0
+"2008-07","Architecture In Helsinki",0
+"2008-07","Beck",1
+"2008-07","Belle And Sebastian",2
+"2008-07","Bright Eyes",0
+"2008-07","Broken Social Scene",3
+"2008-07","Death Cab For Cutie",0
+"2008-07","Neutral Milk Hotel",0
+"2008-07","Of Montreal",1
+"2008-07","Regina Spektor",4
+"2008-07","Rilo Kiley",0
+"2008-07","Stars",4
+"2008-07","Tegan And Sara",1
+"2008-07","The Beatles",0
+"2008-07","The Decemberists",1
+"2008-07","The White Stripes",1
+"2008-07","Tilly And The Wall",2
+"2008-07","Weezer",1
+"2008-07","Yeah Yeah Yeahs",0
+"2008-08","Ani Difranco",2
+"2008-08","Arcade Fire",1
+"2008-08","Architecture In Helsinki",0
+"2008-08","Beck",1
+"2008-08","Belle And Sebastian",2
+"2008-08","Bright Eyes",0
+"2008-08","Broken Social Scene",0
+"2008-08","Death Cab For Cutie",0
+"2008-08","Neutral Milk Hotel",1
+"2008-08","Of Montreal",0
+"2008-08","Regina Spektor",0
+"2008-08","Rilo Kiley",0
+"2008-08","Stars",19
+"2008-08","Tegan And Sara",2
+"2008-08","The Beatles",0
+"2008-08","The Decemberists",2
+"2008-08","The White Stripes",1
+"2008-08","Tilly And The Wall",3
+"2008-08","Weezer",1
+"2008-08","Yeah Yeah Yeahs",0
+"2008-09","Ani Difranco",0
+"2008-09","Arcade Fire",0
+"2008-09","Architecture In Helsinki",0
+"2008-09","Beck",0
+"2008-09","Belle And Sebastian",0
+"2008-09","Bright Eyes",0
+"2008-09","Broken Social Scene",0
+"2008-09","Death Cab For Cutie",11
+"2008-09","Neutral Milk Hotel",1
+"2008-09","Of Montreal",0
+"2008-09","Regina Spektor",0
+"2008-09","Rilo Kiley",14
+"2008-09","Stars",46
+"2008-09","Tegan And Sara",0
+"2008-09","The Beatles",1
+"2008-09","The Decemberists",0
+"2008-09","The White Stripes",2
+"2008-09","Tilly And The Wall",5
+"2008-09","Weezer",0
+"2008-09","Yeah Yeah Yeahs",0
+"2008-10","Ani Difranco",33
+"2008-10","Arcade Fire",5
+"2008-10","Architecture In Helsinki",0
+"2008-10","Beck",1
+"2008-10","Belle And Sebastian",3
+"2008-10","Bright Eyes",1
+"2008-10","Broken Social Scene",1
+"2008-10","Death Cab For Cutie",5
+"2008-10","Neutral Milk Hotel",2
+"2008-10","Of Montreal",0
+"2008-10","Regina Spektor",0
+"2008-10","Rilo Kiley",7
+"2008-10","Stars",52
+"2008-10","Tegan And Sara",5
+"2008-10","The Beatles",5
+"2008-10","The Decemberists",1
+"2008-10","The White Stripes",5
+"2008-10","Tilly And The Wall",3
+"2008-10","Weezer",6
+"2008-10","Yeah Yeah Yeahs",1
+"2008-11","Ani Difranco",32
+"2008-11","Arcade Fire",14
+"2008-11","Architecture In Helsinki",17
+"2008-11","Beck",1
+"2008-11","Belle And Sebastian",9
+"2008-11","Bright Eyes",0
+"2008-11","Broken Social Scene",0
+"2008-11","Death Cab For Cutie",24
+"2008-11","Neutral Milk Hotel",0
+"2008-11","Of Montreal",0
+"2008-11","Regina Spektor",0
+"2008-11","Rilo Kiley",15
+"2008-11","Stars",53
+"2008-11","Tegan And Sara",0
+"2008-11","The Beatles",12
+"2008-11","The Decemberists",3
+"2008-11","The White Stripes",3
+"2008-11","Tilly And The Wall",1
+"2008-11","Weezer",1
+"2008-11","Yeah Yeah Yeahs",1
+"2008-12","Ani Difranco",13
+"2008-12","Arcade Fire",0
+"2008-12","Architecture In Helsinki",2
+"2008-12","Beck",0
+"2008-12","Belle And Sebastian",2
+"2008-12","Bright Eyes",0
+"2008-12","Broken Social Scene",2
+"2008-12","Death Cab For Cutie",1
+"2008-12","Neutral Milk Hotel",2
+"2008-12","Of Montreal",1
+"2008-12","Regina Spektor",2
+"2008-12","Rilo Kiley",22
+"2008-12","Stars",3
+"2008-12","Tegan And Sara",0
+"2008-12","The Beatles",7
+"2008-12","The Decemberists",0
+"2008-12","The White Stripes",0
+"2008-12","Tilly And The Wall",0
+"2008-12","Weezer",0
+"2008-12","Yeah Yeah Yeahs",0
+"2009-01","Ani Difranco",35
+"2009-01","Arcade Fire",0
+"2009-01","Architecture In Helsinki",0
+"2009-01","Beck",0
+"2009-01","Belle And Sebastian",1
+"2009-01","Bright Eyes",0
+"2009-01","Broken Social Scene",0
+"2009-01","Death Cab For Cutie",1
+"2009-01","Neutral Milk Hotel",1
+"2009-01","Of Montreal",0
+"2009-01","Regina Spektor",5
+"2009-01","Rilo Kiley",1
+"2009-01","Stars",2
+"2009-01","Tegan And Sara",0
+"2009-01","The Beatles",1
+"2009-01","The Decemberists",0
+"2009-01","The White Stripes",1
+"2009-01","Tilly And The Wall",2
+"2009-01","Weezer",1
+"2009-01","Yeah Yeah Yeahs",0
+"2009-02","Ani Difranco",1
+"2009-02","Arcade Fire",0
+"2009-02","Architecture In Helsinki",0
+"2009-02","Beck",0
+"2009-02","Belle And Sebastian",1
+"2009-02","Bright Eyes",0
+"2009-02","Broken Social Scene",2
+"2009-02","Death Cab For Cutie",7
+"2009-02","Neutral Milk Hotel",0
+"2009-02","Of Montreal",3
+"2009-02","Regina Spektor",1
+"2009-02","Rilo Kiley",2
+"2009-02","Stars",7
+"2009-02","Tegan And Sara",0
+"2009-02","The Beatles",4
+"2009-02","The Decemberists",3
+"2009-02","The White Stripes",0
+"2009-02","Tilly And The Wall",8
+"2009-02","Weezer",0
+"2009-02","Yeah Yeah Yeahs",0
+"2009-03","Ani Difranco",1
+"2009-03","Arcade Fire",0
+"2009-03","Architecture In Helsinki",0
+"2009-03","Beck",0
+"2009-03","Belle And Sebastian",0
+"2009-03","Bright Eyes",0
+"2009-03","Broken Social Scene",7
+"2009-03","Death Cab For Cutie",4
+"2009-03","Neutral Milk Hotel",0
+"2009-03","Of Montreal",0
+"2009-03","Regina Spektor",0
+"2009-03","Rilo Kiley",1
+"2009-03","Stars",0
+"2009-03","Tegan And Sara",0
+"2009-03","The Beatles",1
+"2009-03","The Decemberists",1
+"2009-03","The White Stripes",0
+"2009-03","Tilly And The Wall",4
+"2009-03","Weezer",0
+"2009-03","Yeah Yeah Yeahs",0
+"2009-04","Ani Difranco",5
+"2009-04","Arcade Fire",1
+"2009-04","Architecture In Helsinki",0
+"2009-04","Beck",0
+"2009-04","Belle And Sebastian",0
+"2009-04","Bright Eyes",0
+"2009-04","Broken Social Scene",3
+"2009-04","Death Cab For Cutie",2
+"2009-04","Neutral Milk Hotel",0
+"2009-04","Of Montreal",0
+"2009-04","Regina Spektor",2
+"2009-04","Rilo Kiley",11
+"2009-04","Stars",0
+"2009-04","Tegan And Sara",0
+"2009-04","The Beatles",2
+"2009-04","The Decemberists",0
+"2009-04","The White Stripes",0
+"2009-04","Tilly And The Wall",0
+"2009-04","Weezer",0
+"2009-04","Yeah Yeah Yeahs",0

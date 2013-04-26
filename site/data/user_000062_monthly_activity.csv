@@ -1,861 +1,861 @@
-month,artist,plays
-2005-03,Blondie,17
-2005-03,Echo & The Bunnymen,6
-2005-03,Eels,2
-2005-03,Fiona Apple,43
-2005-03,Kate Bush,0
-2005-03,Lush,18
-2005-03,Manic Street Preachers,0
-2005-03,Mfö,0
-2005-03,Morrissey,5
-2005-03,New Model Army,6
-2005-03,Nirvana,2
-2005-03,Oasis,1
-2005-03,Pulp,6
-2005-03,R.E.M.,0
-2005-03,Radiohead,0
-2005-03,Sezen Aksu,0
-2005-03,Spoon,0
-2005-03,The Doors,7
-2005-03,The Rolling Stones,0
-2005-03,The Smiths,1
-2005-04,Blondie,4
-2005-04,Echo & The Bunnymen,1
-2005-04,Eels,0
-2005-04,Fiona Apple,0
-2005-04,Kate Bush,0
-2005-04,Lush,9
-2005-04,Manic Street Preachers,0
-2005-04,Mfö,0
-2005-04,Morrissey,3
-2005-04,New Model Army,8
-2005-04,Nirvana,0
-2005-04,Oasis,1
-2005-04,Pulp,34
-2005-04,R.E.M.,2
-2005-04,Radiohead,28
-2005-04,Sezen Aksu,31
-2005-04,Spoon,0
-2005-04,The Doors,2
-2005-04,The Rolling Stones,6
-2005-04,The Smiths,0
-2005-05,Blondie,2
-2005-05,Echo & The Bunnymen,0
-2005-05,Eels,3
-2005-05,Fiona Apple,14
-2005-05,Kate Bush,0
-2005-05,Lush,1
-2005-05,Manic Street Preachers,0
-2005-05,Mfö,11
-2005-05,Morrissey,4
-2005-05,New Model Army,0
-2005-05,Nirvana,1
-2005-05,Oasis,3
-2005-05,Pulp,34
-2005-05,R.E.M.,0
-2005-05,Radiohead,0
-2005-05,Sezen Aksu,0
-2005-05,Spoon,0
-2005-05,The Doors,1
-2005-05,The Rolling Stones,0
-2005-05,The Smiths,4
-2005-06,Blondie,0
-2005-06,Echo & The Bunnymen,0
-2005-06,Eels,0
-2005-06,Fiona Apple,14
-2005-06,Kate Bush,8
-2005-06,Lush,0
-2005-06,Manic Street Preachers,0
-2005-06,Mfö,0
-2005-06,Morrissey,3
-2005-06,New Model Army,0
-2005-06,Nirvana,0
-2005-06,Oasis,0
-2005-06,Pulp,0
-2005-06,R.E.M.,0
-2005-06,Radiohead,0
-2005-06,Sezen Aksu,0
-2005-06,Spoon,0
-2005-06,The Doors,3
-2005-06,The Rolling Stones,0
-2005-06,The Smiths,21
-2005-07,Blondie,0
-2005-07,Echo & The Bunnymen,0
-2005-07,Eels,0
-2005-07,Fiona Apple,0
-2005-07,Kate Bush,1
-2005-07,Lush,1
-2005-07,Manic Street Preachers,0
-2005-07,Mfö,0
-2005-07,Morrissey,0
-2005-07,New Model Army,10
-2005-07,Nirvana,0
-2005-07,Oasis,0
-2005-07,Pulp,0
-2005-07,R.E.M.,0
-2005-07,Radiohead,2
-2005-07,Sezen Aksu,16
-2005-07,Spoon,0
-2005-07,The Doors,0
-2005-07,The Rolling Stones,2
-2005-07,The Smiths,0
-2005-08,Blondie,3
-2005-08,Echo & The Bunnymen,0
-2005-08,Eels,1
-2005-08,Fiona Apple,6
-2005-08,Kate Bush,0
-2005-08,Lush,0
-2005-08,Manic Street Preachers,0
-2005-08,Mfö,0
-2005-08,Morrissey,7
-2005-08,New Model Army,0
-2005-08,Nirvana,1
-2005-08,Oasis,0
-2005-08,Pulp,1
-2005-08,R.E.M.,6
-2005-08,Radiohead,0
-2005-08,Sezen Aksu,0
-2005-08,Spoon,0
-2005-08,The Doors,0
-2005-08,The Rolling Stones,0
-2005-08,The Smiths,0
-2005-09,Blondie,0
-2005-09,Echo & The Bunnymen,2
-2005-09,Eels,31
-2005-09,Fiona Apple,11
-2005-09,Kate Bush,39
-2005-09,Lush,2
-2005-09,Manic Street Preachers,0
-2005-09,Mfö,29
-2005-09,Morrissey,0
-2005-09,New Model Army,0
-2005-09,Nirvana,8
-2005-09,Oasis,8
-2005-09,Pulp,0
-2005-09,R.E.M.,9
-2005-09,Radiohead,0
-2005-09,Sezen Aksu,0
-2005-09,Spoon,7
-2005-09,The Doors,1
-2005-09,The Rolling Stones,7
-2005-09,The Smiths,1
-2005-10,Blondie,1
-2005-10,Echo & The Bunnymen,5
-2005-10,Eels,0
-2005-10,Fiona Apple,0
-2005-10,Kate Bush,1
-2005-10,Lush,1
-2005-10,Manic Street Preachers,22
-2005-10,Mfö,1
-2005-10,Morrissey,0
-2005-10,New Model Army,0
-2005-10,Nirvana,0
-2005-10,Oasis,0
-2005-10,Pulp,1
-2005-10,R.E.M.,0
-2005-10,Radiohead,2
-2005-10,Sezen Aksu,12
-2005-10,Spoon,11
-2005-10,The Doors,0
-2005-10,The Rolling Stones,25
-2005-10,The Smiths,10
-2005-11,Blondie,0
-2005-11,Echo & The Bunnymen,0
-2005-11,Eels,13
-2005-11,Fiona Apple,0
-2005-11,Kate Bush,0
-2005-11,Lush,7
-2005-11,Manic Street Preachers,7
-2005-11,Mfö,0
-2005-11,Morrissey,14
-2005-11,New Model Army,0
-2005-11,Nirvana,0
-2005-11,Oasis,0
-2005-11,Pulp,0
-2005-11,R.E.M.,17
-2005-11,Radiohead,13
-2005-11,Sezen Aksu,0
-2005-11,Spoon,10
-2005-11,The Doors,0
-2005-11,The Rolling Stones,5
-2005-11,The Smiths,12
-2005-12,Blondie,17
-2005-12,Echo & The Bunnymen,0
-2005-12,Eels,0
-2005-12,Fiona Apple,6
-2005-12,Kate Bush,0
-2005-12,Lush,0
-2005-12,Manic Street Preachers,114
-2005-12,Mfö,0
-2005-12,Morrissey,0
-2005-12,New Model Army,4
-2005-12,Nirvana,0
-2005-12,Oasis,0
-2005-12,Pulp,0
-2005-12,R.E.M.,0
-2005-12,Radiohead,0
-2005-12,Sezen Aksu,8
-2005-12,Spoon,3
-2005-12,The Doors,0
-2005-12,The Rolling Stones,7
-2005-12,The Smiths,0
-2006-01,Blondie,0
-2006-01,Echo & The Bunnymen,0
-2006-01,Eels,0
-2006-01,Fiona Apple,0
-2006-01,Kate Bush,0
-2006-01,Lush,0
-2006-01,Manic Street Preachers,1
-2006-01,Mfö,0
-2006-01,Morrissey,22
-2006-01,New Model Army,5
-2006-01,Nirvana,0
-2006-01,Oasis,0
-2006-01,Pulp,0
-2006-01,R.E.M.,0
-2006-01,Radiohead,0
-2006-01,Sezen Aksu,0
-2006-01,Spoon,0
-2006-01,The Doors,0
-2006-01,The Rolling Stones,0
-2006-01,The Smiths,0
-2006-02,Blondie,5
-2006-02,Echo & The Bunnymen,0
-2006-02,Eels,1
-2006-02,Fiona Apple,20
-2006-02,Kate Bush,1
-2006-02,Lush,2
-2006-02,Manic Street Preachers,0
-2006-02,Mfö,1
-2006-02,Morrissey,0
-2006-02,New Model Army,0
-2006-02,Nirvana,1
-2006-02,Oasis,0
-2006-02,Pulp,2
-2006-02,R.E.M.,1
-2006-02,Radiohead,0
-2006-02,Sezen Aksu,1
-2006-02,Spoon,0
-2006-02,The Doors,1
-2006-02,The Rolling Stones,1
-2006-02,The Smiths,0
-2006-03,Blondie,0
-2006-03,Echo & The Bunnymen,26
-2006-03,Eels,1
-2006-03,Fiona Apple,0
-2006-03,Kate Bush,0
-2006-03,Lush,0
-2006-03,Manic Street Preachers,0
-2006-03,Mfö,1
-2006-03,Morrissey,0
-2006-03,New Model Army,0
-2006-03,Nirvana,8
-2006-03,Oasis,2
-2006-03,Pulp,0
-2006-03,R.E.M.,0
-2006-03,Radiohead,0
-2006-03,Sezen Aksu,0
-2006-03,Spoon,6
-2006-03,The Doors,0
-2006-03,The Rolling Stones,1
-2006-03,The Smiths,1
-2006-04,Blondie,0
-2006-04,Echo & The Bunnymen,11
-2006-04,Eels,15
-2006-04,Fiona Apple,2
-2006-04,Kate Bush,0
-2006-04,Lush,0
-2006-04,Manic Street Preachers,32
-2006-04,Mfö,0
-2006-04,Morrissey,15
-2006-04,New Model Army,24
-2006-04,Nirvana,0
-2006-04,Oasis,0
-2006-04,Pulp,0
-2006-04,R.E.M.,0
-2006-04,Radiohead,1
-2006-04,Sezen Aksu,0
-2006-04,Spoon,0
-2006-04,The Doors,0
-2006-04,The Rolling Stones,3
-2006-04,The Smiths,0
-2006-05,Blondie,19
-2006-05,Echo & The Bunnymen,10
-2006-05,Eels,0
-2006-05,Fiona Apple,0
-2006-05,Kate Bush,0
-2006-05,Lush,0
-2006-05,Manic Street Preachers,12
-2006-05,Mfö,1
-2006-05,Morrissey,17
-2006-05,New Model Army,34
-2006-05,Nirvana,0
-2006-05,Oasis,24
-2006-05,Pulp,0
-2006-05,R.E.M.,0
-2006-05,Radiohead,0
-2006-05,Sezen Aksu,34
-2006-05,Spoon,6
-2006-05,The Doors,0
-2006-05,The Rolling Stones,1
-2006-05,The Smiths,1
-2006-06,Blondie,1
-2006-06,Echo & The Bunnymen,1
-2006-06,Eels,0
-2006-06,Fiona Apple,0
-2006-06,Kate Bush,0
-2006-06,Lush,2
-2006-06,Manic Street Preachers,0
-2006-06,Mfö,0
-2006-06,Morrissey,25
-2006-06,New Model Army,0
-2006-06,Nirvana,2
-2006-06,Oasis,4
-2006-06,Pulp,1
-2006-06,R.E.M.,2
-2006-06,Radiohead,2
-2006-06,Sezen Aksu,9
-2006-06,Spoon,0
-2006-06,The Doors,0
-2006-06,The Rolling Stones,2
-2006-06,The Smiths,2
-2006-07,Blondie,0
-2006-07,Echo & The Bunnymen,0
-2006-07,Eels,0
-2006-07,Fiona Apple,0
-2006-07,Kate Bush,0
-2006-07,Lush,0
-2006-07,Manic Street Preachers,0
-2006-07,Mfö,0
-2006-07,Morrissey,25
-2006-07,New Model Army,0
-2006-07,Nirvana,12
-2006-07,Oasis,4
-2006-07,Pulp,0
-2006-07,R.E.M.,0
-2006-07,Radiohead,15
-2006-07,Sezen Aksu,0
-2006-07,Spoon,0
-2006-07,The Doors,0
-2006-07,The Rolling Stones,0
-2006-07,The Smiths,0
-2006-08,Blondie,0
-2006-08,Echo & The Bunnymen,0
-2006-08,Eels,0
-2006-08,Fiona Apple,0
-2006-08,Kate Bush,0
-2006-08,Lush,0
-2006-08,Manic Street Preachers,0
-2006-08,Mfö,0
-2006-08,Morrissey,2
-2006-08,New Model Army,0
-2006-08,Nirvana,8
-2006-08,Oasis,0
-2006-08,Pulp,0
-2006-08,R.E.M.,0
-2006-08,Radiohead,44
-2006-08,Sezen Aksu,0
-2006-08,Spoon,4
-2006-08,The Doors,0
-2006-08,The Rolling Stones,1
-2006-08,The Smiths,1
-2006-09,Blondie,0
-2006-09,Echo & The Bunnymen,0
-2006-09,Eels,0
-2006-09,Fiona Apple,0
-2006-09,Kate Bush,1
-2006-09,Lush,0
-2006-09,Manic Street Preachers,16
-2006-09,Mfö,0
-2006-09,Morrissey,0
-2006-09,New Model Army,14
-2006-09,Nirvana,3
-2006-09,Oasis,0
-2006-09,Pulp,0
-2006-09,R.E.M.,0
-2006-09,Radiohead,0
-2006-09,Sezen Aksu,0
-2006-09,Spoon,4
-2006-09,The Doors,1
-2006-09,The Rolling Stones,0
-2006-09,The Smiths,22
-2006-10,Blondie,2
-2006-10,Echo & The Bunnymen,0
-2006-10,Eels,0
-2006-10,Fiona Apple,0
-2006-10,Kate Bush,0
-2006-10,Lush,0
-2006-10,Manic Street Preachers,0
-2006-10,Mfö,5
-2006-10,Morrissey,8
-2006-10,New Model Army,7
-2006-10,Nirvana,0
-2006-10,Oasis,1
-2006-10,Pulp,0
-2006-10,R.E.M.,0
-2006-10,Radiohead,0
-2006-10,Sezen Aksu,0
-2006-10,Spoon,8
-2006-10,The Doors,0
-2006-10,The Rolling Stones,0
-2006-10,The Smiths,17
-2006-11,Blondie,1
-2006-11,Echo & The Bunnymen,1
-2006-11,Eels,0
-2006-11,Fiona Apple,14
-2006-11,Kate Bush,9
-2006-11,Lush,0
-2006-11,Manic Street Preachers,3
-2006-11,Mfö,0
-2006-11,Morrissey,0
-2006-11,New Model Army,7
-2006-11,Nirvana,0
-2006-11,Oasis,0
-2006-11,Pulp,0
-2006-11,R.E.M.,0
-2006-11,Radiohead,2
-2006-11,Sezen Aksu,13
-2006-11,Spoon,0
-2006-11,The Doors,0
-2006-11,The Rolling Stones,0
-2006-11,The Smiths,0
-2006-12,Blondie,0
-2006-12,Echo & The Bunnymen,0
-2006-12,Eels,0
-2006-12,Fiona Apple,14
-2006-12,Kate Bush,0
-2006-12,Lush,0
-2006-12,Manic Street Preachers,0
-2006-12,Mfö,0
-2006-12,Morrissey,0
-2006-12,New Model Army,0
-2006-12,Nirvana,0
-2006-12,Oasis,0
-2006-12,Pulp,0
-2006-12,R.E.M.,0
-2006-12,Radiohead,0
-2006-12,Sezen Aksu,0
-2006-12,Spoon,0
-2006-12,The Doors,0
-2006-12,The Rolling Stones,0
-2006-12,The Smiths,0
-2007-01,Blondie,0
-2007-01,Echo & The Bunnymen,0
-2007-01,Eels,0
-2007-01,Fiona Apple,0
-2007-01,Kate Bush,0
-2007-01,Lush,0
-2007-01,Manic Street Preachers,0
-2007-01,Mfö,0
-2007-01,Morrissey,22
-2007-01,New Model Army,0
-2007-01,Nirvana,0
-2007-01,Oasis,1
-2007-01,Pulp,0
-2007-01,R.E.M.,0
-2007-01,Radiohead,0
-2007-01,Sezen Aksu,0
-2007-01,Spoon,0
-2007-01,The Doors,2
-2007-01,The Rolling Stones,0
-2007-01,The Smiths,5
-2007-02,Blondie,0
-2007-02,Echo & The Bunnymen,0
-2007-02,Eels,0
-2007-02,Fiona Apple,0
-2007-02,Kate Bush,0
-2007-02,Lush,0
-2007-02,Manic Street Preachers,0
-2007-02,Mfö,0
-2007-02,Morrissey,14
-2007-02,New Model Army,0
-2007-02,Nirvana,0
-2007-02,Oasis,0
-2007-02,Pulp,0
-2007-02,R.E.M.,0
-2007-02,Radiohead,2
-2007-02,Sezen Aksu,0
-2007-02,Spoon,0
-2007-02,The Doors,0
-2007-02,The Rolling Stones,0
-2007-02,The Smiths,4
-2007-03,Blondie,0
-2007-03,Echo & The Bunnymen,0
-2007-03,Eels,0
-2007-03,Fiona Apple,0
-2007-03,Kate Bush,0
-2007-03,Lush,0
-2007-03,Manic Street Preachers,0
-2007-03,Mfö,0
-2007-03,Morrissey,0
-2007-03,New Model Army,0
-2007-03,Nirvana,0
-2007-03,Oasis,0
-2007-03,Pulp,0
-2007-03,R.E.M.,0
-2007-03,Radiohead,0
-2007-03,Sezen Aksu,0
-2007-03,Spoon,0
-2007-03,The Doors,0
-2007-03,The Rolling Stones,0
-2007-03,The Smiths,0
-2007-04,Blondie,0
-2007-04,Echo & The Bunnymen,0
-2007-04,Eels,0
-2007-04,Fiona Apple,0
-2007-04,Kate Bush,0
-2007-04,Lush,0
-2007-04,Manic Street Preachers,10
-2007-04,Mfö,0
-2007-04,Morrissey,11
-2007-04,New Model Army,0
-2007-04,Nirvana,0
-2007-04,Oasis,0
-2007-04,Pulp,0
-2007-04,R.E.M.,0
-2007-04,Radiohead,0
-2007-04,Sezen Aksu,0
-2007-04,Spoon,0
-2007-04,The Doors,0
-2007-04,The Rolling Stones,0
-2007-04,The Smiths,6
-2007-05,Blondie,0
-2007-05,Echo & The Bunnymen,0
-2007-05,Eels,0
-2007-05,Fiona Apple,0
-2007-05,Kate Bush,0
-2007-05,Lush,0
-2007-05,Manic Street Preachers,0
-2007-05,Mfö,0
-2007-05,Morrissey,0
-2007-05,New Model Army,0
-2007-05,Nirvana,0
-2007-05,Oasis,0
-2007-05,Pulp,0
-2007-05,R.E.M.,0
-2007-05,Radiohead,0
-2007-05,Sezen Aksu,0
-2007-05,Spoon,0
-2007-05,The Doors,0
-2007-05,The Rolling Stones,0
-2007-05,The Smiths,0
-2007-06,Blondie,0
-2007-06,Echo & The Bunnymen,0
-2007-06,Eels,0
-2007-06,Fiona Apple,0
-2007-06,Kate Bush,0
-2007-06,Lush,0
-2007-06,Manic Street Preachers,0
-2007-06,Mfö,0
-2007-06,Morrissey,0
-2007-06,New Model Army,0
-2007-06,Nirvana,0
-2007-06,Oasis,0
-2007-06,Pulp,0
-2007-06,R.E.M.,0
-2007-06,Radiohead,0
-2007-06,Sezen Aksu,0
-2007-06,Spoon,0
-2007-06,The Doors,0
-2007-06,The Rolling Stones,0
-2007-06,The Smiths,0
-2007-07,Blondie,0
-2007-07,Echo & The Bunnymen,0
-2007-07,Eels,0
-2007-07,Fiona Apple,0
-2007-07,Kate Bush,0
-2007-07,Lush,0
-2007-07,Manic Street Preachers,0
-2007-07,Mfö,0
-2007-07,Morrissey,0
-2007-07,New Model Army,0
-2007-07,Nirvana,0
-2007-07,Oasis,0
-2007-07,Pulp,0
-2007-07,R.E.M.,0
-2007-07,Radiohead,0
-2007-07,Sezen Aksu,0
-2007-07,Spoon,0
-2007-07,The Doors,0
-2007-07,The Rolling Stones,0
-2007-07,The Smiths,0
-2007-08,Blondie,0
-2007-08,Echo & The Bunnymen,0
-2007-08,Eels,0
-2007-08,Fiona Apple,0
-2007-08,Kate Bush,0
-2007-08,Lush,0
-2007-08,Manic Street Preachers,0
-2007-08,Mfö,0
-2007-08,Morrissey,0
-2007-08,New Model Army,0
-2007-08,Nirvana,0
-2007-08,Oasis,0
-2007-08,Pulp,0
-2007-08,R.E.M.,0
-2007-08,Radiohead,0
-2007-08,Sezen Aksu,0
-2007-08,Spoon,0
-2007-08,The Doors,0
-2007-08,The Rolling Stones,0
-2007-08,The Smiths,0
-2007-09,Blondie,0
-2007-09,Echo & The Bunnymen,0
-2007-09,Eels,0
-2007-09,Fiona Apple,0
-2007-09,Kate Bush,0
-2007-09,Lush,0
-2007-09,Manic Street Preachers,0
-2007-09,Mfö,0
-2007-09,Morrissey,0
-2007-09,New Model Army,0
-2007-09,Nirvana,0
-2007-09,Oasis,0
-2007-09,Pulp,0
-2007-09,R.E.M.,0
-2007-09,Radiohead,0
-2007-09,Sezen Aksu,0
-2007-09,Spoon,0
-2007-09,The Doors,0
-2007-09,The Rolling Stones,0
-2007-09,The Smiths,0
-2007-10,Blondie,0
-2007-10,Echo & The Bunnymen,0
-2007-10,Eels,0
-2007-10,Fiona Apple,0
-2007-10,Kate Bush,0
-2007-10,Lush,0
-2007-10,Manic Street Preachers,0
-2007-10,Mfö,0
-2007-10,Morrissey,0
-2007-10,New Model Army,0
-2007-10,Nirvana,0
-2007-10,Oasis,0
-2007-10,Pulp,0
-2007-10,R.E.M.,0
-2007-10,Radiohead,0
-2007-10,Sezen Aksu,0
-2007-10,Spoon,0
-2007-10,The Doors,0
-2007-10,The Rolling Stones,0
-2007-10,The Smiths,0
-2007-11,Blondie,0
-2007-11,Echo & The Bunnymen,0
-2007-11,Eels,0
-2007-11,Fiona Apple,0
-2007-11,Kate Bush,0
-2007-11,Lush,0
-2007-11,Manic Street Preachers,0
-2007-11,Mfö,0
-2007-11,Morrissey,0
-2007-11,New Model Army,0
-2007-11,Nirvana,0
-2007-11,Oasis,0
-2007-11,Pulp,0
-2007-11,R.E.M.,0
-2007-11,Radiohead,0
-2007-11,Sezen Aksu,0
-2007-11,Spoon,0
-2007-11,The Doors,0
-2007-11,The Rolling Stones,0
-2007-11,The Smiths,0
-2007-12,Blondie,0
-2007-12,Echo & The Bunnymen,0
-2007-12,Eels,0
-2007-12,Fiona Apple,0
-2007-12,Kate Bush,0
-2007-12,Lush,0
-2007-12,Manic Street Preachers,0
-2007-12,Mfö,1
-2007-12,Morrissey,0
-2007-12,New Model Army,0
-2007-12,Nirvana,0
-2007-12,Oasis,0
-2007-12,Pulp,0
-2007-12,R.E.M.,1
-2007-12,Radiohead,0
-2007-12,Sezen Aksu,0
-2007-12,Spoon,0
-2007-12,The Doors,0
-2007-12,The Rolling Stones,0
-2007-12,The Smiths,0
-2008-01,Blondie,0
-2008-01,Echo & The Bunnymen,0
-2008-01,Eels,0
-2008-01,Fiona Apple,0
-2008-01,Kate Bush,0
-2008-01,Lush,0
-2008-01,Manic Street Preachers,0
-2008-01,Mfö,0
-2008-01,Morrissey,0
-2008-01,New Model Army,0
-2008-01,Nirvana,0
-2008-01,Oasis,0
-2008-01,Pulp,0
-2008-01,R.E.M.,0
-2008-01,Radiohead,0
-2008-01,Sezen Aksu,0
-2008-01,Spoon,0
-2008-01,The Doors,0
-2008-01,The Rolling Stones,0
-2008-01,The Smiths,0
-2008-02,Blondie,0
-2008-02,Echo & The Bunnymen,0
-2008-02,Eels,0
-2008-02,Fiona Apple,0
-2008-02,Kate Bush,0
-2008-02,Lush,0
-2008-02,Manic Street Preachers,0
-2008-02,Mfö,0
-2008-02,Morrissey,0
-2008-02,New Model Army,0
-2008-02,Nirvana,0
-2008-02,Oasis,0
-2008-02,Pulp,28
-2008-02,R.E.M.,0
-2008-02,Radiohead,0
-2008-02,Sezen Aksu,0
-2008-02,Spoon,0
-2008-02,The Doors,0
-2008-02,The Rolling Stones,0
-2008-02,The Smiths,0
-2008-03,Blondie,0
-2008-03,Echo & The Bunnymen,0
-2008-03,Eels,0
-2008-03,Fiona Apple,0
-2008-03,Kate Bush,1
-2008-03,Lush,0
-2008-03,Manic Street Preachers,0
-2008-03,Mfö,0
-2008-03,Morrissey,0
-2008-03,New Model Army,0
-2008-03,Nirvana,0
-2008-03,Oasis,0
-2008-03,Pulp,0
-2008-03,R.E.M.,0
-2008-03,Radiohead,0
-2008-03,Sezen Aksu,0
-2008-03,Spoon,0
-2008-03,The Doors,0
-2008-03,The Rolling Stones,0
-2008-03,The Smiths,0
-2008-04,Blondie,0
-2008-04,Echo & The Bunnymen,0
-2008-04,Eels,0
-2008-04,Fiona Apple,0
-2008-04,Kate Bush,0
-2008-04,Lush,0
-2008-04,Manic Street Preachers,0
-2008-04,Mfö,0
-2008-04,Morrissey,0
-2008-04,New Model Army,0
-2008-04,Nirvana,0
-2008-04,Oasis,0
-2008-04,Pulp,0
-2008-04,R.E.M.,0
-2008-04,Radiohead,0
-2008-04,Sezen Aksu,0
-2008-04,Spoon,0
-2008-04,The Doors,0
-2008-04,The Rolling Stones,0
-2008-04,The Smiths,0
-2008-05,Blondie,0
-2008-05,Echo & The Bunnymen,1
-2008-05,Eels,0
-2008-05,Fiona Apple,0
-2008-05,Kate Bush,0
-2008-05,Lush,0
-2008-05,Manic Street Preachers,13
-2008-05,Mfö,0
-2008-05,Morrissey,0
-2008-05,New Model Army,1
-2008-05,Nirvana,0
-2008-05,Oasis,2
-2008-05,Pulp,0
-2008-05,R.E.M.,1
-2008-05,Radiohead,0
-2008-05,Sezen Aksu,0
-2008-05,Spoon,0
-2008-05,The Doors,0
-2008-05,The Rolling Stones,0
-2008-05,The Smiths,0
-2008-06,Blondie,0
-2008-06,Echo & The Bunnymen,0
-2008-06,Eels,0
-2008-06,Fiona Apple,0
-2008-06,Kate Bush,0
-2008-06,Lush,0
-2008-06,Manic Street Preachers,0
-2008-06,Mfö,0
-2008-06,Morrissey,0
-2008-06,New Model Army,0
-2008-06,Nirvana,0
-2008-06,Oasis,0
-2008-06,Pulp,0
-2008-06,R.E.M.,8
-2008-06,Radiohead,0
-2008-06,Sezen Aksu,0
-2008-06,Spoon,0
-2008-06,The Doors,0
-2008-06,The Rolling Stones,0
-2008-06,The Smiths,0
-2008-07,Blondie,0
-2008-07,Echo & The Bunnymen,0
-2008-07,Eels,0
-2008-07,Fiona Apple,0
-2008-07,Kate Bush,0
-2008-07,Lush,0
-2008-07,Manic Street Preachers,0
-2008-07,Mfö,4
-2008-07,Morrissey,0
-2008-07,New Model Army,0
-2008-07,Nirvana,0
-2008-07,Oasis,0
-2008-07,Pulp,0
-2008-07,R.E.M.,0
-2008-07,Radiohead,0
-2008-07,Sezen Aksu,10
-2008-07,Spoon,0
-2008-07,The Doors,0
-2008-07,The Rolling Stones,0
-2008-07,The Smiths,0
-2008-08,Blondie,0
-2008-08,Echo & The Bunnymen,0
-2008-08,Eels,0
-2008-08,Fiona Apple,0
-2008-08,Kate Bush,0
-2008-08,Lush,0
-2008-08,Manic Street Preachers,0
-2008-08,Mfö,0
-2008-08,Morrissey,16
-2008-08,New Model Army,0
-2008-08,Nirvana,0
-2008-08,Oasis,0
-2008-08,Pulp,0
-2008-08,R.E.M.,0
-2008-08,Radiohead,0
-2008-08,Sezen Aksu,0
-2008-08,Spoon,0
-2008-08,The Doors,0
-2008-08,The Rolling Stones,0
-2008-08,The Smiths,3
-2008-09,Blondie,0
-2008-09,Echo & The Bunnymen,0
-2008-09,Eels,0
-2008-09,Fiona Apple,0
-2008-09,Kate Bush,0
-2008-09,Lush,0
-2008-09,Manic Street Preachers,0
-2008-09,Mfö,0
-2008-09,Morrissey,17
-2008-09,New Model Army,0
-2008-09,Nirvana,0
-2008-09,Oasis,0
-2008-09,Pulp,0
-2008-09,R.E.M.,0
-2008-09,Radiohead,0
-2008-09,Sezen Aksu,0
-2008-09,Spoon,0
-2008-09,The Doors,0
-2008-09,The Rolling Stones,0
-2008-09,The Smiths,6
+"month","artist","plays"
+"2005-03","Blondie",17
+"2005-03","Echo & The Bunnymen",6
+"2005-03","Eels",2
+"2005-03","Fiona Apple",43
+"2005-03","Kate Bush",0
+"2005-03","Lush",18
+"2005-03","Manic Street Preachers",0
+"2005-03","Mfö",0
+"2005-03","Morrissey",5
+"2005-03","New Model Army",6
+"2005-03","Nirvana",2
+"2005-03","Oasis",1
+"2005-03","Pulp",6
+"2005-03","R.E.M.",0
+"2005-03","Radiohead",0
+"2005-03","Sezen Aksu",0
+"2005-03","Spoon",0
+"2005-03","The Doors",7
+"2005-03","The Rolling Stones",0
+"2005-03","The Smiths",1
+"2005-04","Blondie",4
+"2005-04","Echo & The Bunnymen",1
+"2005-04","Eels",0
+"2005-04","Fiona Apple",0
+"2005-04","Kate Bush",0
+"2005-04","Lush",9
+"2005-04","Manic Street Preachers",0
+"2005-04","Mfö",0
+"2005-04","Morrissey",3
+"2005-04","New Model Army",8
+"2005-04","Nirvana",0
+"2005-04","Oasis",1
+"2005-04","Pulp",34
+"2005-04","R.E.M.",2
+"2005-04","Radiohead",28
+"2005-04","Sezen Aksu",31
+"2005-04","Spoon",0
+"2005-04","The Doors",2
+"2005-04","The Rolling Stones",6
+"2005-04","The Smiths",0
+"2005-05","Blondie",2
+"2005-05","Echo & The Bunnymen",0
+"2005-05","Eels",3
+"2005-05","Fiona Apple",14
+"2005-05","Kate Bush",0
+"2005-05","Lush",1
+"2005-05","Manic Street Preachers",0
+"2005-05","Mfö",11
+"2005-05","Morrissey",4
+"2005-05","New Model Army",0
+"2005-05","Nirvana",1
+"2005-05","Oasis",3
+"2005-05","Pulp",34
+"2005-05","R.E.M.",0
+"2005-05","Radiohead",0
+"2005-05","Sezen Aksu",0
+"2005-05","Spoon",0
+"2005-05","The Doors",1
+"2005-05","The Rolling Stones",0
+"2005-05","The Smiths",4
+"2005-06","Blondie",0
+"2005-06","Echo & The Bunnymen",0
+"2005-06","Eels",0
+"2005-06","Fiona Apple",14
+"2005-06","Kate Bush",8
+"2005-06","Lush",0
+"2005-06","Manic Street Preachers",0
+"2005-06","Mfö",0
+"2005-06","Morrissey",3
+"2005-06","New Model Army",0
+"2005-06","Nirvana",0
+"2005-06","Oasis",0
+"2005-06","Pulp",0
+"2005-06","R.E.M.",0
+"2005-06","Radiohead",0
+"2005-06","Sezen Aksu",0
+"2005-06","Spoon",0
+"2005-06","The Doors",3
+"2005-06","The Rolling Stones",0
+"2005-06","The Smiths",21
+"2005-07","Blondie",0
+"2005-07","Echo & The Bunnymen",0
+"2005-07","Eels",0
+"2005-07","Fiona Apple",0
+"2005-07","Kate Bush",1
+"2005-07","Lush",1
+"2005-07","Manic Street Preachers",0
+"2005-07","Mfö",0
+"2005-07","Morrissey",0
+"2005-07","New Model Army",10
+"2005-07","Nirvana",0
+"2005-07","Oasis",0
+"2005-07","Pulp",0
+"2005-07","R.E.M.",0
+"2005-07","Radiohead",2
+"2005-07","Sezen Aksu",16
+"2005-07","Spoon",0
+"2005-07","The Doors",0
+"2005-07","The Rolling Stones",2
+"2005-07","The Smiths",0
+"2005-08","Blondie",3
+"2005-08","Echo & The Bunnymen",0
+"2005-08","Eels",1
+"2005-08","Fiona Apple",6
+"2005-08","Kate Bush",0
+"2005-08","Lush",0
+"2005-08","Manic Street Preachers",0
+"2005-08","Mfö",0
+"2005-08","Morrissey",7
+"2005-08","New Model Army",0
+"2005-08","Nirvana",1
+"2005-08","Oasis",0
+"2005-08","Pulp",1
+"2005-08","R.E.M.",6
+"2005-08","Radiohead",0
+"2005-08","Sezen Aksu",0
+"2005-08","Spoon",0
+"2005-08","The Doors",0
+"2005-08","The Rolling Stones",0
+"2005-08","The Smiths",0
+"2005-09","Blondie",0
+"2005-09","Echo & The Bunnymen",2
+"2005-09","Eels",31
+"2005-09","Fiona Apple",11
+"2005-09","Kate Bush",39
+"2005-09","Lush",2
+"2005-09","Manic Street Preachers",0
+"2005-09","Mfö",29
+"2005-09","Morrissey",0
+"2005-09","New Model Army",0
+"2005-09","Nirvana",8
+"2005-09","Oasis",8
+"2005-09","Pulp",0
+"2005-09","R.E.M.",9
+"2005-09","Radiohead",0
+"2005-09","Sezen Aksu",0
+"2005-09","Spoon",7
+"2005-09","The Doors",1
+"2005-09","The Rolling Stones",7
+"2005-09","The Smiths",1
+"2005-10","Blondie",1
+"2005-10","Echo & The Bunnymen",5
+"2005-10","Eels",0
+"2005-10","Fiona Apple",0
+"2005-10","Kate Bush",1
+"2005-10","Lush",1
+"2005-10","Manic Street Preachers",22
+"2005-10","Mfö",1
+"2005-10","Morrissey",0
+"2005-10","New Model Army",0
+"2005-10","Nirvana",0
+"2005-10","Oasis",0
+"2005-10","Pulp",1
+"2005-10","R.E.M.",0
+"2005-10","Radiohead",2
+"2005-10","Sezen Aksu",12
+"2005-10","Spoon",11
+"2005-10","The Doors",0
+"2005-10","The Rolling Stones",25
+"2005-10","The Smiths",10
+"2005-11","Blondie",0
+"2005-11","Echo & The Bunnymen",0
+"2005-11","Eels",13
+"2005-11","Fiona Apple",0
+"2005-11","Kate Bush",0
+"2005-11","Lush",7
+"2005-11","Manic Street Preachers",7
+"2005-11","Mfö",0
+"2005-11","Morrissey",14
+"2005-11","New Model Army",0
+"2005-11","Nirvana",0
+"2005-11","Oasis",0
+"2005-11","Pulp",0
+"2005-11","R.E.M.",17
+"2005-11","Radiohead",13
+"2005-11","Sezen Aksu",0
+"2005-11","Spoon",10
+"2005-11","The Doors",0
+"2005-11","The Rolling Stones",5
+"2005-11","The Smiths",12
+"2005-12","Blondie",17
+"2005-12","Echo & The Bunnymen",0
+"2005-12","Eels",0
+"2005-12","Fiona Apple",6
+"2005-12","Kate Bush",0
+"2005-12","Lush",0
+"2005-12","Manic Street Preachers",114
+"2005-12","Mfö",0
+"2005-12","Morrissey",0
+"2005-12","New Model Army",4
+"2005-12","Nirvana",0
+"2005-12","Oasis",0
+"2005-12","Pulp",0
+"2005-12","R.E.M.",0
+"2005-12","Radiohead",0
+"2005-12","Sezen Aksu",8
+"2005-12","Spoon",3
+"2005-12","The Doors",0
+"2005-12","The Rolling Stones",7
+"2005-12","The Smiths",0
+"2006-01","Blondie",0
+"2006-01","Echo & The Bunnymen",0
+"2006-01","Eels",0
+"2006-01","Fiona Apple",0
+"2006-01","Kate Bush",0
+"2006-01","Lush",0
+"2006-01","Manic Street Preachers",1
+"2006-01","Mfö",0
+"2006-01","Morrissey",22
+"2006-01","New Model Army",5
+"2006-01","Nirvana",0
+"2006-01","Oasis",0
+"2006-01","Pulp",0
+"2006-01","R.E.M.",0
+"2006-01","Radiohead",0
+"2006-01","Sezen Aksu",0
+"2006-01","Spoon",0
+"2006-01","The Doors",0
+"2006-01","The Rolling Stones",0
+"2006-01","The Smiths",0
+"2006-02","Blondie",5
+"2006-02","Echo & The Bunnymen",0
+"2006-02","Eels",1
+"2006-02","Fiona Apple",20
+"2006-02","Kate Bush",1
+"2006-02","Lush",2
+"2006-02","Manic Street Preachers",0
+"2006-02","Mfö",1
+"2006-02","Morrissey",0
+"2006-02","New Model Army",0
+"2006-02","Nirvana",1
+"2006-02","Oasis",0
+"2006-02","Pulp",2
+"2006-02","R.E.M.",1
+"2006-02","Radiohead",0
+"2006-02","Sezen Aksu",1
+"2006-02","Spoon",0
+"2006-02","The Doors",1
+"2006-02","The Rolling Stones",1
+"2006-02","The Smiths",0
+"2006-03","Blondie",0
+"2006-03","Echo & The Bunnymen",26
+"2006-03","Eels",1
+"2006-03","Fiona Apple",0
+"2006-03","Kate Bush",0
+"2006-03","Lush",0
+"2006-03","Manic Street Preachers",0
+"2006-03","Mfö",1
+"2006-03","Morrissey",0
+"2006-03","New Model Army",0
+"2006-03","Nirvana",8
+"2006-03","Oasis",2
+"2006-03","Pulp",0
+"2006-03","R.E.M.",0
+"2006-03","Radiohead",0
+"2006-03","Sezen Aksu",0
+"2006-03","Spoon",6
+"2006-03","The Doors",0
+"2006-03","The Rolling Stones",1
+"2006-03","The Smiths",1
+"2006-04","Blondie",0
+"2006-04","Echo & The Bunnymen",11
+"2006-04","Eels",15
+"2006-04","Fiona Apple",2
+"2006-04","Kate Bush",0
+"2006-04","Lush",0
+"2006-04","Manic Street Preachers",32
+"2006-04","Mfö",0
+"2006-04","Morrissey",15
+"2006-04","New Model Army",24
+"2006-04","Nirvana",0
+"2006-04","Oasis",0
+"2006-04","Pulp",0
+"2006-04","R.E.M.",0
+"2006-04","Radiohead",1
+"2006-04","Sezen Aksu",0
+"2006-04","Spoon",0
+"2006-04","The Doors",0
+"2006-04","The Rolling Stones",3
+"2006-04","The Smiths",0
+"2006-05","Blondie",19
+"2006-05","Echo & The Bunnymen",10
+"2006-05","Eels",0
+"2006-05","Fiona Apple",0
+"2006-05","Kate Bush",0
+"2006-05","Lush",0
+"2006-05","Manic Street Preachers",12
+"2006-05","Mfö",1
+"2006-05","Morrissey",17
+"2006-05","New Model Army",34
+"2006-05","Nirvana",0
+"2006-05","Oasis",24
+"2006-05","Pulp",0
+"2006-05","R.E.M.",0
+"2006-05","Radiohead",0
+"2006-05","Sezen Aksu",34
+"2006-05","Spoon",6
+"2006-05","The Doors",0
+"2006-05","The Rolling Stones",1
+"2006-05","The Smiths",1
+"2006-06","Blondie",1
+"2006-06","Echo & The Bunnymen",1
+"2006-06","Eels",0
+"2006-06","Fiona Apple",0
+"2006-06","Kate Bush",0
+"2006-06","Lush",2
+"2006-06","Manic Street Preachers",0
+"2006-06","Mfö",0
+"2006-06","Morrissey",25
+"2006-06","New Model Army",0
+"2006-06","Nirvana",2
+"2006-06","Oasis",4
+"2006-06","Pulp",1
+"2006-06","R.E.M.",2
+"2006-06","Radiohead",2
+"2006-06","Sezen Aksu",9
+"2006-06","Spoon",0
+"2006-06","The Doors",0
+"2006-06","The Rolling Stones",2
+"2006-06","The Smiths",2
+"2006-07","Blondie",0
+"2006-07","Echo & The Bunnymen",0
+"2006-07","Eels",0
+"2006-07","Fiona Apple",0
+"2006-07","Kate Bush",0
+"2006-07","Lush",0
+"2006-07","Manic Street Preachers",0
+"2006-07","Mfö",0
+"2006-07","Morrissey",25
+"2006-07","New Model Army",0
+"2006-07","Nirvana",12
+"2006-07","Oasis",4
+"2006-07","Pulp",0
+"2006-07","R.E.M.",0
+"2006-07","Radiohead",15
+"2006-07","Sezen Aksu",0
+"2006-07","Spoon",0
+"2006-07","The Doors",0
+"2006-07","The Rolling Stones",0
+"2006-07","The Smiths",0
+"2006-08","Blondie",0
+"2006-08","Echo & The Bunnymen",0
+"2006-08","Eels",0
+"2006-08","Fiona Apple",0
+"2006-08","Kate Bush",0
+"2006-08","Lush",0
+"2006-08","Manic Street Preachers",0
+"2006-08","Mfö",0
+"2006-08","Morrissey",2
+"2006-08","New Model Army",0
+"2006-08","Nirvana",8
+"2006-08","Oasis",0
+"2006-08","Pulp",0
+"2006-08","R.E.M.",0
+"2006-08","Radiohead",44
+"2006-08","Sezen Aksu",0
+"2006-08","Spoon",4
+"2006-08","The Doors",0
+"2006-08","The Rolling Stones",1
+"2006-08","The Smiths",1
+"2006-09","Blondie",0
+"2006-09","Echo & The Bunnymen",0
+"2006-09","Eels",0
+"2006-09","Fiona Apple",0
+"2006-09","Kate Bush",1
+"2006-09","Lush",0
+"2006-09","Manic Street Preachers",16
+"2006-09","Mfö",0
+"2006-09","Morrissey",0
+"2006-09","New Model Army",14
+"2006-09","Nirvana",3
+"2006-09","Oasis",0
+"2006-09","Pulp",0
+"2006-09","R.E.M.",0
+"2006-09","Radiohead",0
+"2006-09","Sezen Aksu",0
+"2006-09","Spoon",4
+"2006-09","The Doors",1
+"2006-09","The Rolling Stones",0
+"2006-09","The Smiths",22
+"2006-10","Blondie",2
+"2006-10","Echo & The Bunnymen",0
+"2006-10","Eels",0
+"2006-10","Fiona Apple",0
+"2006-10","Kate Bush",0
+"2006-10","Lush",0
+"2006-10","Manic Street Preachers",0
+"2006-10","Mfö",5
+"2006-10","Morrissey",8
+"2006-10","New Model Army",7
+"2006-10","Nirvana",0
+"2006-10","Oasis",1
+"2006-10","Pulp",0
+"2006-10","R.E.M.",0
+"2006-10","Radiohead",0
+"2006-10","Sezen Aksu",0
+"2006-10","Spoon",8
+"2006-10","The Doors",0
+"2006-10","The Rolling Stones",0
+"2006-10","The Smiths",17
+"2006-11","Blondie",1
+"2006-11","Echo & The Bunnymen",1
+"2006-11","Eels",0
+"2006-11","Fiona Apple",14
+"2006-11","Kate Bush",9
+"2006-11","Lush",0
+"2006-11","Manic Street Preachers",3
+"2006-11","Mfö",0
+"2006-11","Morrissey",0
+"2006-11","New Model Army",7
+"2006-11","Nirvana",0
+"2006-11","Oasis",0
+"2006-11","Pulp",0
+"2006-11","R.E.M.",0
+"2006-11","Radiohead",2
+"2006-11","Sezen Aksu",13
+"2006-11","Spoon",0
+"2006-11","The Doors",0
+"2006-11","The Rolling Stones",0
+"2006-11","The Smiths",0
+"2006-12","Blondie",0
+"2006-12","Echo & The Bunnymen",0
+"2006-12","Eels",0
+"2006-12","Fiona Apple",14
+"2006-12","Kate Bush",0
+"2006-12","Lush",0
+"2006-12","Manic Street Preachers",0
+"2006-12","Mfö",0
+"2006-12","Morrissey",0
+"2006-12","New Model Army",0
+"2006-12","Nirvana",0
+"2006-12","Oasis",0
+"2006-12","Pulp",0
+"2006-12","R.E.M.",0
+"2006-12","Radiohead",0
+"2006-12","Sezen Aksu",0
+"2006-12","Spoon",0
+"2006-12","The Doors",0
+"2006-12","The Rolling Stones",0
+"2006-12","The Smiths",0
+"2007-01","Blondie",0
+"2007-01","Echo & The Bunnymen",0
+"2007-01","Eels",0
+"2007-01","Fiona Apple",0
+"2007-01","Kate Bush",0
+"2007-01","Lush",0
+"2007-01","Manic Street Preachers",0
+"2007-01","Mfö",0
+"2007-01","Morrissey",22
+"2007-01","New Model Army",0
+"2007-01","Nirvana",0
+"2007-01","Oasis",1
+"2007-01","Pulp",0
+"2007-01","R.E.M.",0
+"2007-01","Radiohead",0
+"2007-01","Sezen Aksu",0
+"2007-01","Spoon",0
+"2007-01","The Doors",2
+"2007-01","The Rolling Stones",0
+"2007-01","The Smiths",5
+"2007-02","Blondie",0
+"2007-02","Echo & The Bunnymen",0
+"2007-02","Eels",0
+"2007-02","Fiona Apple",0
+"2007-02","Kate Bush",0
+"2007-02","Lush",0
+"2007-02","Manic Street Preachers",0
+"2007-02","Mfö",0
+"2007-02","Morrissey",14
+"2007-02","New Model Army",0
+"2007-02","Nirvana",0
+"2007-02","Oasis",0
+"2007-02","Pulp",0
+"2007-02","R.E.M.",0
+"2007-02","Radiohead",2
+"2007-02","Sezen Aksu",0
+"2007-02","Spoon",0
+"2007-02","The Doors",0
+"2007-02","The Rolling Stones",0
+"2007-02","The Smiths",4
+"2007-03","Blondie",0
+"2007-03","Echo & The Bunnymen",0
+"2007-03","Eels",0
+"2007-03","Fiona Apple",0
+"2007-03","Kate Bush",0
+"2007-03","Lush",0
+"2007-03","Manic Street Preachers",0
+"2007-03","Mfö",0
+"2007-03","Morrissey",0
+"2007-03","New Model Army",0
+"2007-03","Nirvana",0
+"2007-03","Oasis",0
+"2007-03","Pulp",0
+"2007-03","R.E.M.",0
+"2007-03","Radiohead",0
+"2007-03","Sezen Aksu",0
+"2007-03","Spoon",0
+"2007-03","The Doors",0
+"2007-03","The Rolling Stones",0
+"2007-03","The Smiths",0
+"2007-04","Blondie",0
+"2007-04","Echo & The Bunnymen",0
+"2007-04","Eels",0
+"2007-04","Fiona Apple",0
+"2007-04","Kate Bush",0
+"2007-04","Lush",0
+"2007-04","Manic Street Preachers",10
+"2007-04","Mfö",0
+"2007-04","Morrissey",11
+"2007-04","New Model Army",0
+"2007-04","Nirvana",0
+"2007-04","Oasis",0
+"2007-04","Pulp",0
+"2007-04","R.E.M.",0
+"2007-04","Radiohead",0
+"2007-04","Sezen Aksu",0
+"2007-04","Spoon",0
+"2007-04","The Doors",0
+"2007-04","The Rolling Stones",0
+"2007-04","The Smiths",6
+"2007-05","Blondie",0
+"2007-05","Echo & The Bunnymen",0
+"2007-05","Eels",0
+"2007-05","Fiona Apple",0
+"2007-05","Kate Bush",0
+"2007-05","Lush",0
+"2007-05","Manic Street Preachers",0
+"2007-05","Mfö",0
+"2007-05","Morrissey",0
+"2007-05","New Model Army",0
+"2007-05","Nirvana",0
+"2007-05","Oasis",0
+"2007-05","Pulp",0
+"2007-05","R.E.M.",0
+"2007-05","Radiohead",0
+"2007-05","Sezen Aksu",0
+"2007-05","Spoon",0
+"2007-05","The Doors",0
+"2007-05","The Rolling Stones",0
+"2007-05","The Smiths",0
+"2007-06","Blondie",0
+"2007-06","Echo & The Bunnymen",0
+"2007-06","Eels",0
+"2007-06","Fiona Apple",0
+"2007-06","Kate Bush",0
+"2007-06","Lush",0
+"2007-06","Manic Street Preachers",0
+"2007-06","Mfö",0
+"2007-06","Morrissey",0
+"2007-06","New Model Army",0
+"2007-06","Nirvana",0
+"2007-06","Oasis",0
+"2007-06","Pulp",0
+"2007-06","R.E.M.",0
+"2007-06","Radiohead",0
+"2007-06","Sezen Aksu",0
+"2007-06","Spoon",0
+"2007-06","The Doors",0
+"2007-06","The Rolling Stones",0
+"2007-06","The Smiths",0
+"2007-07","Blondie",0
+"2007-07","Echo & The Bunnymen",0
+"2007-07","Eels",0
+"2007-07","Fiona Apple",0
+"2007-07","Kate Bush",0
+"2007-07","Lush",0
+"2007-07","Manic Street Preachers",0
+"2007-07","Mfö",0
+"2007-07","Morrissey",0
+"2007-07","New Model Army",0
+"2007-07","Nirvana",0
+"2007-07","Oasis",0
+"2007-07","Pulp",0
+"2007-07","R.E.M.",0
+"2007-07","Radiohead",0
+"2007-07","Sezen Aksu",0
+"2007-07","Spoon",0
+"2007-07","The Doors",0
+"2007-07","The Rolling Stones",0
+"2007-07","The Smiths",0
+"2007-08","Blondie",0
+"2007-08","Echo & The Bunnymen",0
+"2007-08","Eels",0
+"2007-08","Fiona Apple",0
+"2007-08","Kate Bush",0
+"2007-08","Lush",0
+"2007-08","Manic Street Preachers",0
+"2007-08","Mfö",0
+"2007-08","Morrissey",0
+"2007-08","New Model Army",0
+"2007-08","Nirvana",0
+"2007-08","Oasis",0
+"2007-08","Pulp",0
+"2007-08","R.E.M.",0
+"2007-08","Radiohead",0
+"2007-08","Sezen Aksu",0
+"2007-08","Spoon",0
+"2007-08","The Doors",0
+"2007-08","The Rolling Stones",0
+"2007-08","The Smiths",0
+"2007-09","Blondie",0
+"2007-09","Echo & The Bunnymen",0
+"2007-09","Eels",0
+"2007-09","Fiona Apple",0
+"2007-09","Kate Bush",0
+"2007-09","Lush",0
+"2007-09","Manic Street Preachers",0
+"2007-09","Mfö",0
+"2007-09","Morrissey",0
+"2007-09","New Model Army",0
+"2007-09","Nirvana",0
+"2007-09","Oasis",0
+"2007-09","Pulp",0
+"2007-09","R.E.M.",0
+"2007-09","Radiohead",0
+"2007-09","Sezen Aksu",0
+"2007-09","Spoon",0
+"2007-09","The Doors",0
+"2007-09","The Rolling Stones",0
+"2007-09","The Smiths",0
+"2007-10","Blondie",0
+"2007-10","Echo & The Bunnymen",0
+"2007-10","Eels",0
+"2007-10","Fiona Apple",0
+"2007-10","Kate Bush",0
+"2007-10","Lush",0
+"2007-10","Manic Street Preachers",0
+"2007-10","Mfö",0
+"2007-10","Morrissey",0
+"2007-10","New Model Army",0
+"2007-10","Nirvana",0
+"2007-10","Oasis",0
+"2007-10","Pulp",0
+"2007-10","R.E.M.",0
+"2007-10","Radiohead",0
+"2007-10","Sezen Aksu",0
+"2007-10","Spoon",0
+"2007-10","The Doors",0
+"2007-10","The Rolling Stones",0
+"2007-10","The Smiths",0
+"2007-11","Blondie",0
+"2007-11","Echo & The Bunnymen",0
+"2007-11","Eels",0
+"2007-11","Fiona Apple",0
+"2007-11","Kate Bush",0
+"2007-11","Lush",0
+"2007-11","Manic Street Preachers",0
+"2007-11","Mfö",0
+"2007-11","Morrissey",0
+"2007-11","New Model Army",0
+"2007-11","Nirvana",0
+"2007-11","Oasis",0
+"2007-11","Pulp",0
+"2007-11","R.E.M.",0
+"2007-11","Radiohead",0
+"2007-11","Sezen Aksu",0
+"2007-11","Spoon",0
+"2007-11","The Doors",0
+"2007-11","The Rolling Stones",0
+"2007-11","The Smiths",0
+"2007-12","Blondie",0
+"2007-12","Echo & The Bunnymen",0
+"2007-12","Eels",0
+"2007-12","Fiona Apple",0
+"2007-12","Kate Bush",0
+"2007-12","Lush",0
+"2007-12","Manic Street Preachers",0
+"2007-12","Mfö",1
+"2007-12","Morrissey",0
+"2007-12","New Model Army",0
+"2007-12","Nirvana",0
+"2007-12","Oasis",0
+"2007-12","Pulp",0
+"2007-12","R.E.M.",1
+"2007-12","Radiohead",0
+"2007-12","Sezen Aksu",0
+"2007-12","Spoon",0
+"2007-12","The Doors",0
+"2007-12","The Rolling Stones",0
+"2007-12","The Smiths",0
+"2008-01","Blondie",0
+"2008-01","Echo & The Bunnymen",0
+"2008-01","Eels",0
+"2008-01","Fiona Apple",0
+"2008-01","Kate Bush",0
+"2008-01","Lush",0
+"2008-01","Manic Street Preachers",0
+"2008-01","Mfö",0
+"2008-01","Morrissey",0
+"2008-01","New Model Army",0
+"2008-01","Nirvana",0
+"2008-01","Oasis",0
+"2008-01","Pulp",0
+"2008-01","R.E.M.",0
+"2008-01","Radiohead",0
+"2008-01","Sezen Aksu",0
+"2008-01","Spoon",0
+"2008-01","The Doors",0
+"2008-01","The Rolling Stones",0
+"2008-01","The Smiths",0
+"2008-02","Blondie",0
+"2008-02","Echo & The Bunnymen",0
+"2008-02","Eels",0
+"2008-02","Fiona Apple",0
+"2008-02","Kate Bush",0
+"2008-02","Lush",0
+"2008-02","Manic Street Preachers",0
+"2008-02","Mfö",0
+"2008-02","Morrissey",0
+"2008-02","New Model Army",0
+"2008-02","Nirvana",0
+"2008-02","Oasis",0
+"2008-02","Pulp",28
+"2008-02","R.E.M.",0
+"2008-02","Radiohead",0
+"2008-02","Sezen Aksu",0
+"2008-02","Spoon",0
+"2008-02","The Doors",0
+"2008-02","The Rolling Stones",0
+"2008-02","The Smiths",0
+"2008-03","Blondie",0
+"2008-03","Echo & The Bunnymen",0
+"2008-03","Eels",0
+"2008-03","Fiona Apple",0
+"2008-03","Kate Bush",1
+"2008-03","Lush",0
+"2008-03","Manic Street Preachers",0
+"2008-03","Mfö",0
+"2008-03","Morrissey",0
+"2008-03","New Model Army",0
+"2008-03","Nirvana",0
+"2008-03","Oasis",0
+"2008-03","Pulp",0
+"2008-03","R.E.M.",0
+"2008-03","Radiohead",0
+"2008-03","Sezen Aksu",0
+"2008-03","Spoon",0
+"2008-03","The Doors",0
+"2008-03","The Rolling Stones",0
+"2008-03","The Smiths",0
+"2008-04","Blondie",0
+"2008-04","Echo & The Bunnymen",0
+"2008-04","Eels",0
+"2008-04","Fiona Apple",0
+"2008-04","Kate Bush",0
+"2008-04","Lush",0
+"2008-04","Manic Street Preachers",0
+"2008-04","Mfö",0
+"2008-04","Morrissey",0
+"2008-04","New Model Army",0
+"2008-04","Nirvana",0
+"2008-04","Oasis",0
+"2008-04","Pulp",0
+"2008-04","R.E.M.",0
+"2008-04","Radiohead",0
+"2008-04","Sezen Aksu",0
+"2008-04","Spoon",0
+"2008-04","The Doors",0
+"2008-04","The Rolling Stones",0
+"2008-04","The Smiths",0
+"2008-05","Blondie",0
+"2008-05","Echo & The Bunnymen",1
+"2008-05","Eels",0
+"2008-05","Fiona Apple",0
+"2008-05","Kate Bush",0
+"2008-05","Lush",0
+"2008-05","Manic Street Preachers",13
+"2008-05","Mfö",0
+"2008-05","Morrissey",0
+"2008-05","New Model Army",1
+"2008-05","Nirvana",0
+"2008-05","Oasis",2
+"2008-05","Pulp",0
+"2008-05","R.E.M.",1
+"2008-05","Radiohead",0
+"2008-05","Sezen Aksu",0
+"2008-05","Spoon",0
+"2008-05","The Doors",0
+"2008-05","The Rolling Stones",0
+"2008-05","The Smiths",0
+"2008-06","Blondie",0
+"2008-06","Echo & The Bunnymen",0
+"2008-06","Eels",0
+"2008-06","Fiona Apple",0
+"2008-06","Kate Bush",0
+"2008-06","Lush",0
+"2008-06","Manic Street Preachers",0
+"2008-06","Mfö",0
+"2008-06","Morrissey",0
+"2008-06","New Model Army",0
+"2008-06","Nirvana",0
+"2008-06","Oasis",0
+"2008-06","Pulp",0
+"2008-06","R.E.M.",8
+"2008-06","Radiohead",0
+"2008-06","Sezen Aksu",0
+"2008-06","Spoon",0
+"2008-06","The Doors",0
+"2008-06","The Rolling Stones",0
+"2008-06","The Smiths",0
+"2008-07","Blondie",0
+"2008-07","Echo & The Bunnymen",0
+"2008-07","Eels",0
+"2008-07","Fiona Apple",0
+"2008-07","Kate Bush",0
+"2008-07","Lush",0
+"2008-07","Manic Street Preachers",0
+"2008-07","Mfö",4
+"2008-07","Morrissey",0
+"2008-07","New Model Army",0
+"2008-07","Nirvana",0
+"2008-07","Oasis",0
+"2008-07","Pulp",0
+"2008-07","R.E.M.",0
+"2008-07","Radiohead",0
+"2008-07","Sezen Aksu",10
+"2008-07","Spoon",0
+"2008-07","The Doors",0
+"2008-07","The Rolling Stones",0
+"2008-07","The Smiths",0
+"2008-08","Blondie",0
+"2008-08","Echo & The Bunnymen",0
+"2008-08","Eels",0
+"2008-08","Fiona Apple",0
+"2008-08","Kate Bush",0
+"2008-08","Lush",0
+"2008-08","Manic Street Preachers",0
+"2008-08","Mfö",0
+"2008-08","Morrissey",16
+"2008-08","New Model Army",0
+"2008-08","Nirvana",0
+"2008-08","Oasis",0
+"2008-08","Pulp",0
+"2008-08","R.E.M.",0
+"2008-08","Radiohead",0
+"2008-08","Sezen Aksu",0
+"2008-08","Spoon",0
+"2008-08","The Doors",0
+"2008-08","The Rolling Stones",0
+"2008-08","The Smiths",3
+"2008-09","Blondie",0
+"2008-09","Echo & The Bunnymen",0
+"2008-09","Eels",0
+"2008-09","Fiona Apple",0
+"2008-09","Kate Bush",0
+"2008-09","Lush",0
+"2008-09","Manic Street Preachers",0
+"2008-09","Mfö",0
+"2008-09","Morrissey",17
+"2008-09","New Model Army",0
+"2008-09","Nirvana",0
+"2008-09","Oasis",0
+"2008-09","Pulp",0
+"2008-09","R.E.M.",0
+"2008-09","Radiohead",0
+"2008-09","Sezen Aksu",0
+"2008-09","Spoon",0
+"2008-09","The Doors",0
+"2008-09","The Rolling Stones",0
+"2008-09","The Smiths",6

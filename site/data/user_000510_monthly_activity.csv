@@ -1,61 +1,61 @@
-month,artist,plays
-2009-02,Air,23
-2009-02,Beatsteaks,1
-2009-02,Beck,23
-2009-02,Biffy Clyro,20
-2009-02,Blumentopf,29
-2009-02,Death Cab For Cutie,35
-2009-02,Dispatch,15
-2009-02,Edna'S Goldfish,3
-2009-02,Jimi Hendrix,13
-2009-02,John Frusciante,32
-2009-02,Kings Of Leon,1
-2009-02,Kleingeldprinzessin,32
-2009-02,Muff Potter,14
-2009-02,Oceansize,21
-2009-02,Pixies,1
-2009-02,Ratatat,13
-2009-02,Rise Against,2
-2009-02,Sigur Rós,26
-2009-02,Sublime,23
-2009-02,The Album Leaf,1
-2009-03,Air,9
-2009-03,Beatsteaks,2
-2009-03,Beck,6
-2009-03,Biffy Clyro,5
-2009-03,Blumentopf,3
-2009-03,Death Cab For Cutie,2
-2009-03,Dispatch,11
-2009-03,Edna'S Goldfish,1
-2009-03,Jimi Hendrix,20
-2009-03,John Frusciante,38
-2009-03,Kings Of Leon,14
-2009-03,Kleingeldprinzessin,2
-2009-03,Muff Potter,6
-2009-03,Oceansize,1
-2009-03,Pixies,4
-2009-03,Ratatat,2
-2009-03,Rise Against,25
-2009-03,Sigur Rós,10
-2009-03,Sublime,1
-2009-03,The Album Leaf,10
-2009-04,Air,1
-2009-04,Beatsteaks,1
-2009-04,Beck,17
-2009-04,Biffy Clyro,3
-2009-04,Blumentopf,3
-2009-04,Death Cab For Cutie,13
-2009-04,Dispatch,16
-2009-04,Edna'S Goldfish,2
-2009-04,Jimi Hendrix,4
-2009-04,John Frusciante,2
-2009-04,Kings Of Leon,14
-2009-04,Kleingeldprinzessin,4
-2009-04,Muff Potter,12
-2009-04,Oceansize,9
-2009-04,Pixies,2
-2009-04,Ratatat,11
-2009-04,Rise Against,1
-2009-04,Sigur Rós,12
-2009-04,Sublime,13
-2009-04,The Album Leaf,1
+"month","artist","plays"
+"2009-02","Air",23
+"2009-02","Beatsteaks",1
+"2009-02","Beck",23
+"2009-02","Biffy Clyro",20
+"2009-02","Blumentopf",29
+"2009-02","Death Cab For Cutie",35
+"2009-02","Dispatch",15
+"2009-02","Edna'S Goldfish",3
+"2009-02","Jimi Hendrix",13
+"2009-02","John Frusciante",32
+"2009-02","Kings Of Leon",1
+"2009-02","Kleingeldprinzessin",32
+"2009-02","Muff Potter",14
+"2009-02","Oceansize",21
+"2009-02","Pixies",1
+"2009-02","Ratatat",13
+"2009-02","Rise Against",2
+"2009-02","Sigur Rós",26
+"2009-02","Sublime",23
+"2009-02","The Album Leaf",1
+"2009-03","Air",9
+"2009-03","Beatsteaks",2
+"2009-03","Beck",6
+"2009-03","Biffy Clyro",5
+"2009-03","Blumentopf",3
+"2009-03","Death Cab For Cutie",2
+"2009-03","Dispatch",11
+"2009-03","Edna'S Goldfish",1
+"2009-03","Jimi Hendrix",20
+"2009-03","John Frusciante",38
+"2009-03","Kings Of Leon",14
+"2009-03","Kleingeldprinzessin",2
+"2009-03","Muff Potter",6
+"2009-03","Oceansize",1
+"2009-03","Pixies",4
+"2009-03","Ratatat",2
+"2009-03","Rise Against",25
+"2009-03","Sigur Rós",10
+"2009-03","Sublime",1
+"2009-03","The Album Leaf",10
+"2009-04","Air",1
+"2009-04","Beatsteaks",1
+"2009-04","Beck",17
+"2009-04","Biffy Clyro",3
+"2009-04","Blumentopf",3
+"2009-04","Death Cab For Cutie",13
+"2009-04","Dispatch",16
+"2009-04","Edna'S Goldfish",2
+"2009-04","Jimi Hendrix",4
+"2009-04","John Frusciante",2
+"2009-04","Kings Of Leon",14
+"2009-04","Kleingeldprinzessin",4
+"2009-04","Muff Potter",12
+"2009-04","Oceansize",9
+"2009-04","Pixies",2
+"2009-04","Ratatat",11
+"2009-04","Rise Against",1
+"2009-04","Sigur Rós",12
+"2009-04","Sublime",13
+"2009-04","The Album Leaf",1

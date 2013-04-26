@@ -1,821 +1,821 @@
-month,artist,plays
-2005-06,Aerosmith,2
-2005-06,Alice In Chains,5
-2005-06,Anthrax,4
-2005-06,Bruce Dickinson,1
-2005-06,Disturbed,0
-2005-06,Dokken,3
-2005-06,Goodness,0
-2005-06,Hammerbox,0
-2005-06,Iced Earth,11
-2005-06,Iron Maiden,6
-2005-06,Judas Priest,4
-2005-06,Kiss,23
-2005-06,Megadeth,0
-2005-06,Metallica,0
-2005-06,Mötley Crüe,8
-2005-06,Peter Murphy,3
-2005-06,Queensrÿche,0
-2005-06,Stone Temple Pilots,0
-2005-06,The Donnas,1
-2005-06,W.A.S.P.,5
-2005-07,Aerosmith,1
-2005-07,Alice In Chains,2
-2005-07,Anthrax,2
-2005-07,Bruce Dickinson,0
-2005-07,Disturbed,0
-2005-07,Dokken,1
-2005-07,Goodness,0
-2005-07,Hammerbox,0
-2005-07,Iced Earth,3
-2005-07,Iron Maiden,0
-2005-07,Judas Priest,0
-2005-07,Kiss,9
-2005-07,Megadeth,0
-2005-07,Metallica,0
-2005-07,Mötley Crüe,0
-2005-07,Peter Murphy,0
-2005-07,Queensrÿche,0
-2005-07,Stone Temple Pilots,15
-2005-07,The Donnas,1
-2005-07,W.A.S.P.,0
-2005-08,Aerosmith,2
-2005-08,Alice In Chains,4
-2005-08,Anthrax,5
-2005-08,Bruce Dickinson,7
-2005-08,Disturbed,0
-2005-08,Dokken,3
-2005-08,Goodness,0
-2005-08,Hammerbox,3
-2005-08,Iced Earth,3
-2005-08,Iron Maiden,2
-2005-08,Judas Priest,1
-2005-08,Kiss,12
-2005-08,Megadeth,0
-2005-08,Metallica,0
-2005-08,Mötley Crüe,0
-2005-08,Peter Murphy,0
-2005-08,Queensrÿche,0
-2005-08,Stone Temple Pilots,1
-2005-08,The Donnas,2
-2005-08,W.A.S.P.,4
-2005-09,Aerosmith,1
-2005-09,Alice In Chains,1
-2005-09,Anthrax,0
-2005-09,Bruce Dickinson,2
-2005-09,Disturbed,0
-2005-09,Dokken,0
-2005-09,Goodness,0
-2005-09,Hammerbox,0
-2005-09,Iced Earth,0
-2005-09,Iron Maiden,0
-2005-09,Judas Priest,1
-2005-09,Kiss,5
-2005-09,Megadeth,0
-2005-09,Metallica,0
-2005-09,Mötley Crüe,0
-2005-09,Peter Murphy,0
-2005-09,Queensrÿche,0
-2005-09,Stone Temple Pilots,0
-2005-09,The Donnas,0
-2005-09,W.A.S.P.,0
-2005-10,Aerosmith,1
-2005-10,Alice In Chains,8
-2005-10,Anthrax,2
-2005-10,Bruce Dickinson,5
-2005-10,Disturbed,3
-2005-10,Dokken,0
-2005-10,Goodness,0
-2005-10,Hammerbox,2
-2005-10,Iced Earth,2
-2005-10,Iron Maiden,2
-2005-10,Judas Priest,0
-2005-10,Kiss,13
-2005-10,Megadeth,0
-2005-10,Metallica,0
-2005-10,Mötley Crüe,1
-2005-10,Peter Murphy,0
-2005-10,Queensrÿche,0
-2005-10,Stone Temple Pilots,0
-2005-10,The Donnas,5
-2005-10,W.A.S.P.,3
-2005-11,Aerosmith,0
-2005-11,Alice In Chains,2
-2005-11,Anthrax,0
-2005-11,Bruce Dickinson,1
-2005-11,Disturbed,8
-2005-11,Dokken,2
-2005-11,Goodness,0
-2005-11,Hammerbox,0
-2005-11,Iced Earth,0
-2005-11,Iron Maiden,0
-2005-11,Judas Priest,0
-2005-11,Kiss,5
-2005-11,Megadeth,0
-2005-11,Metallica,0
-2005-11,Mötley Crüe,0
-2005-11,Peter Murphy,0
-2005-11,Queensrÿche,0
-2005-11,Stone Temple Pilots,0
-2005-11,The Donnas,0
-2005-11,W.A.S.P.,0
-2005-12,Aerosmith,0
-2005-12,Alice In Chains,0
-2005-12,Anthrax,0
-2005-12,Bruce Dickinson,0
-2005-12,Disturbed,0
-2005-12,Dokken,0
-2005-12,Goodness,0
-2005-12,Hammerbox,0
-2005-12,Iced Earth,0
-2005-12,Iron Maiden,0
-2005-12,Judas Priest,0
-2005-12,Kiss,0
-2005-12,Megadeth,0
-2005-12,Metallica,0
-2005-12,Mötley Crüe,0
-2005-12,Peter Murphy,0
-2005-12,Queensrÿche,0
-2005-12,Stone Temple Pilots,0
-2005-12,The Donnas,0
-2005-12,W.A.S.P.,0
-2006-01,Aerosmith,1
-2006-01,Alice In Chains,0
-2006-01,Anthrax,0
-2006-01,Bruce Dickinson,0
-2006-01,Disturbed,0
-2006-01,Dokken,0
-2006-01,Goodness,0
-2006-01,Hammerbox,0
-2006-01,Iced Earth,0
-2006-01,Iron Maiden,8
-2006-01,Judas Priest,9
-2006-01,Kiss,27
-2006-01,Megadeth,2
-2006-01,Metallica,0
-2006-01,Mötley Crüe,39
-2006-01,Peter Murphy,0
-2006-01,Queensrÿche,24
-2006-01,Stone Temple Pilots,0
-2006-01,The Donnas,0
-2006-01,W.A.S.P.,42
-2006-02,Aerosmith,0
-2006-02,Alice In Chains,0
-2006-02,Anthrax,0
-2006-02,Bruce Dickinson,4
-2006-02,Disturbed,0
-2006-02,Dokken,0
-2006-02,Goodness,0
-2006-02,Hammerbox,0
-2006-02,Iced Earth,0
-2006-02,Iron Maiden,0
-2006-02,Judas Priest,0
-2006-02,Kiss,0
-2006-02,Megadeth,1
-2006-02,Metallica,0
-2006-02,Mötley Crüe,0
-2006-02,Peter Murphy,0
-2006-02,Queensrÿche,1
-2006-02,Stone Temple Pilots,0
-2006-02,The Donnas,0
-2006-02,W.A.S.P.,0
-2006-03,Aerosmith,0
-2006-03,Alice In Chains,0
-2006-03,Anthrax,0
-2006-03,Bruce Dickinson,0
-2006-03,Disturbed,0
-2006-03,Dokken,0
-2006-03,Goodness,0
-2006-03,Hammerbox,0
-2006-03,Iced Earth,0
-2006-03,Iron Maiden,0
-2006-03,Judas Priest,0
-2006-03,Kiss,0
-2006-03,Megadeth,0
-2006-03,Metallica,0
-2006-03,Mötley Crüe,0
-2006-03,Peter Murphy,0
-2006-03,Queensrÿche,0
-2006-03,Stone Temple Pilots,0
-2006-03,The Donnas,0
-2006-03,W.A.S.P.,0
-2006-04,Aerosmith,0
-2006-04,Alice In Chains,0
-2006-04,Anthrax,0
-2006-04,Bruce Dickinson,0
-2006-04,Disturbed,0
-2006-04,Dokken,0
-2006-04,Goodness,0
-2006-04,Hammerbox,0
-2006-04,Iced Earth,0
-2006-04,Iron Maiden,0
-2006-04,Judas Priest,0
-2006-04,Kiss,0
-2006-04,Megadeth,0
-2006-04,Metallica,0
-2006-04,Mötley Crüe,0
-2006-04,Peter Murphy,0
-2006-04,Queensrÿche,0
-2006-04,Stone Temple Pilots,0
-2006-04,The Donnas,0
-2006-04,W.A.S.P.,0
-2006-05,Aerosmith,0
-2006-05,Alice In Chains,0
-2006-05,Anthrax,0
-2006-05,Bruce Dickinson,0
-2006-05,Disturbed,0
-2006-05,Dokken,0
-2006-05,Goodness,0
-2006-05,Hammerbox,0
-2006-05,Iced Earth,0
-2006-05,Iron Maiden,0
-2006-05,Judas Priest,0
-2006-05,Kiss,0
-2006-05,Megadeth,0
-2006-05,Metallica,0
-2006-05,Mötley Crüe,0
-2006-05,Peter Murphy,0
-2006-05,Queensrÿche,0
-2006-05,Stone Temple Pilots,0
-2006-05,The Donnas,0
-2006-05,W.A.S.P.,0
-2006-06,Aerosmith,0
-2006-06,Alice In Chains,0
-2006-06,Anthrax,0
-2006-06,Bruce Dickinson,0
-2006-06,Disturbed,0
-2006-06,Dokken,0
-2006-06,Goodness,39
-2006-06,Hammerbox,46
-2006-06,Iced Earth,0
-2006-06,Iron Maiden,0
-2006-06,Judas Priest,0
-2006-06,Kiss,0
-2006-06,Megadeth,0
-2006-06,Metallica,0
-2006-06,Mötley Crüe,0
-2006-06,Peter Murphy,0
-2006-06,Queensrÿche,0
-2006-06,Stone Temple Pilots,0
-2006-06,The Donnas,0
-2006-06,W.A.S.P.,0
-2006-07,Aerosmith,0
-2006-07,Alice In Chains,0
-2006-07,Anthrax,6
-2006-07,Bruce Dickinson,0
-2006-07,Disturbed,4
-2006-07,Dokken,0
-2006-07,Goodness,50
-2006-07,Hammerbox,15
-2006-07,Iced Earth,0
-2006-07,Iron Maiden,0
-2006-07,Judas Priest,0
-2006-07,Kiss,0
-2006-07,Megadeth,0
-2006-07,Metallica,0
-2006-07,Mötley Crüe,0
-2006-07,Peter Murphy,8
-2006-07,Queensrÿche,2
-2006-07,Stone Temple Pilots,1
-2006-07,The Donnas,3
-2006-07,W.A.S.P.,0
-2006-08,Aerosmith,0
-2006-08,Alice In Chains,9
-2006-08,Anthrax,1
-2006-08,Bruce Dickinson,0
-2006-08,Disturbed,0
-2006-08,Dokken,0
-2006-08,Goodness,48
-2006-08,Hammerbox,0
-2006-08,Iced Earth,0
-2006-08,Iron Maiden,22
-2006-08,Judas Priest,0
-2006-08,Kiss,0
-2006-08,Megadeth,9
-2006-08,Metallica,13
-2006-08,Mötley Crüe,0
-2006-08,Peter Murphy,17
-2006-08,Queensrÿche,1
-2006-08,Stone Temple Pilots,0
-2006-08,The Donnas,3
-2006-08,W.A.S.P.,23
-2006-09,Aerosmith,0
-2006-09,Alice In Chains,0
-2006-09,Anthrax,0
-2006-09,Bruce Dickinson,0
-2006-09,Disturbed,1
-2006-09,Dokken,1
-2006-09,Goodness,21
-2006-09,Hammerbox,44
-2006-09,Iced Earth,6
-2006-09,Iron Maiden,8
-2006-09,Judas Priest,0
-2006-09,Kiss,3
-2006-09,Megadeth,6
-2006-09,Metallica,1
-2006-09,Mötley Crüe,25
-2006-09,Peter Murphy,20
-2006-09,Queensrÿche,0
-2006-09,Stone Temple Pilots,0
-2006-09,The Donnas,3
-2006-09,W.A.S.P.,0
-2006-10,Aerosmith,1
-2006-10,Alice In Chains,6
-2006-10,Anthrax,4
-2006-10,Bruce Dickinson,5
-2006-10,Disturbed,6
-2006-10,Dokken,2
-2006-10,Goodness,66
-2006-10,Hammerbox,4
-2006-10,Iced Earth,2
-2006-10,Iron Maiden,16
-2006-10,Judas Priest,16
-2006-10,Kiss,4
-2006-10,Megadeth,28
-2006-10,Metallica,8
-2006-10,Mötley Crüe,1
-2006-10,Peter Murphy,11
-2006-10,Queensrÿche,2
-2006-10,Stone Temple Pilots,0
-2006-10,The Donnas,0
-2006-10,W.A.S.P.,0
-2006-11,Aerosmith,4
-2006-11,Alice In Chains,4
-2006-11,Anthrax,4
-2006-11,Bruce Dickinson,8
-2006-11,Disturbed,4
-2006-11,Dokken,6
-2006-11,Goodness,6
-2006-11,Hammerbox,17
-2006-11,Iced Earth,3
-2006-11,Iron Maiden,19
-2006-11,Judas Priest,19
-2006-11,Kiss,15
-2006-11,Megadeth,22
-2006-11,Metallica,26
-2006-11,Mötley Crüe,53
-2006-11,Peter Murphy,14
-2006-11,Queensrÿche,8
-2006-11,Stone Temple Pilots,80
-2006-11,The Donnas,1
-2006-11,W.A.S.P.,1
-2006-12,Aerosmith,7
-2006-12,Alice In Chains,19
-2006-12,Anthrax,7
-2006-12,Bruce Dickinson,6
-2006-12,Disturbed,28
-2006-12,Dokken,12
-2006-12,Goodness,22
-2006-12,Hammerbox,7
-2006-12,Iced Earth,2
-2006-12,Iron Maiden,20
-2006-12,Judas Priest,19
-2006-12,Kiss,7
-2006-12,Megadeth,22
-2006-12,Metallica,16
-2006-12,Mötley Crüe,14
-2006-12,Peter Murphy,47
-2006-12,Queensrÿche,2
-2006-12,Stone Temple Pilots,13
-2006-12,The Donnas,5
-2006-12,W.A.S.P.,18
-2007-01,Aerosmith,6
-2007-01,Alice In Chains,4
-2007-01,Anthrax,2
-2007-01,Bruce Dickinson,3
-2007-01,Disturbed,4
-2007-01,Dokken,4
-2007-01,Goodness,20
-2007-01,Hammerbox,1
-2007-01,Iced Earth,1
-2007-01,Iron Maiden,14
-2007-01,Judas Priest,13
-2007-01,Kiss,5
-2007-01,Megadeth,54
-2007-01,Metallica,43
-2007-01,Mötley Crüe,10
-2007-01,Peter Murphy,1
-2007-01,Queensrÿche,6
-2007-01,Stone Temple Pilots,4
-2007-01,The Donnas,1
-2007-01,W.A.S.P.,12
-2007-02,Aerosmith,1
-2007-02,Alice In Chains,1
-2007-02,Anthrax,1
-2007-02,Bruce Dickinson,2
-2007-02,Disturbed,1
-2007-02,Dokken,2
-2007-02,Goodness,14
-2007-02,Hammerbox,0
-2007-02,Iced Earth,2
-2007-02,Iron Maiden,2
-2007-02,Judas Priest,3
-2007-02,Kiss,5
-2007-02,Megadeth,9
-2007-02,Metallica,6
-2007-02,Mötley Crüe,4
-2007-02,Peter Murphy,0
-2007-02,Queensrÿche,3
-2007-02,Stone Temple Pilots,5
-2007-02,The Donnas,2
-2007-02,W.A.S.P.,0
-2007-03,Aerosmith,15
-2007-03,Alice In Chains,5
-2007-03,Anthrax,0
-2007-03,Bruce Dickinson,4
-2007-03,Disturbed,4
-2007-03,Dokken,4
-2007-03,Goodness,6
-2007-03,Hammerbox,24
-2007-03,Iced Earth,2
-2007-03,Iron Maiden,8
-2007-03,Judas Priest,13
-2007-03,Kiss,8
-2007-03,Megadeth,12
-2007-03,Metallica,17
-2007-03,Mötley Crüe,11
-2007-03,Peter Murphy,3
-2007-03,Queensrÿche,6
-2007-03,Stone Temple Pilots,9
-2007-03,The Donnas,4
-2007-03,W.A.S.P.,14
-2007-04,Aerosmith,2
-2007-04,Alice In Chains,1
-2007-04,Anthrax,2
-2007-04,Bruce Dickinson,1
-2007-04,Disturbed,0
-2007-04,Dokken,1
-2007-04,Goodness,1
-2007-04,Hammerbox,0
-2007-04,Iced Earth,1
-2007-04,Iron Maiden,4
-2007-04,Judas Priest,2
-2007-04,Kiss,1
-2007-04,Megadeth,4
-2007-04,Metallica,2
-2007-04,Mötley Crüe,1
-2007-04,Peter Murphy,1
-2007-04,Queensrÿche,1
-2007-04,Stone Temple Pilots,2
-2007-04,The Donnas,1
-2007-04,W.A.S.P.,6
-2007-05,Aerosmith,2
-2007-05,Alice In Chains,2
-2007-05,Anthrax,3
-2007-05,Bruce Dickinson,1
-2007-05,Disturbed,1
-2007-05,Dokken,1
-2007-05,Goodness,10
-2007-05,Hammerbox,2
-2007-05,Iced Earth,1
-2007-05,Iron Maiden,2
-2007-05,Judas Priest,2
-2007-05,Kiss,4
-2007-05,Megadeth,38
-2007-05,Metallica,5
-2007-05,Mötley Crüe,6
-2007-05,Peter Murphy,3
-2007-05,Queensrÿche,4
-2007-05,Stone Temple Pilots,1
-2007-05,The Donnas,1
-2007-05,W.A.S.P.,1
-2007-06,Aerosmith,0
-2007-06,Alice In Chains,5
-2007-06,Anthrax,0
-2007-06,Bruce Dickinson,4
-2007-06,Disturbed,5
-2007-06,Dokken,5
-2007-06,Goodness,3
-2007-06,Hammerbox,1
-2007-06,Iced Earth,0
-2007-06,Iron Maiden,8
-2007-06,Judas Priest,10
-2007-06,Kiss,2
-2007-06,Megadeth,11
-2007-06,Metallica,6
-2007-06,Mötley Crüe,7
-2007-06,Peter Murphy,3
-2007-06,Queensrÿche,4
-2007-06,Stone Temple Pilots,7
-2007-06,The Donnas,0
-2007-06,W.A.S.P.,12
-2007-07,Aerosmith,1
-2007-07,Alice In Chains,2
-2007-07,Anthrax,17
-2007-07,Bruce Dickinson,3
-2007-07,Disturbed,6
-2007-07,Dokken,2
-2007-07,Goodness,2
-2007-07,Hammerbox,2
-2007-07,Iced Earth,1
-2007-07,Iron Maiden,4
-2007-07,Judas Priest,6
-2007-07,Kiss,2
-2007-07,Megadeth,5
-2007-07,Metallica,3
-2007-07,Mötley Crüe,5
-2007-07,Peter Murphy,4
-2007-07,Queensrÿche,2
-2007-07,Stone Temple Pilots,2
-2007-07,The Donnas,0
-2007-07,W.A.S.P.,6
-2007-08,Aerosmith,4
-2007-08,Alice In Chains,10
-2007-08,Anthrax,4
-2007-08,Bruce Dickinson,6
-2007-08,Disturbed,6
-2007-08,Dokken,9
-2007-08,Goodness,6
-2007-08,Hammerbox,3
-2007-08,Iced Earth,18
-2007-08,Iron Maiden,8
-2007-08,Judas Priest,17
-2007-08,Kiss,5
-2007-08,Megadeth,25
-2007-08,Metallica,14
-2007-08,Mötley Crüe,13
-2007-08,Peter Murphy,3
-2007-08,Queensrÿche,6
-2007-08,Stone Temple Pilots,5
-2007-08,The Donnas,1
-2007-08,W.A.S.P.,11
-2007-09,Aerosmith,5
-2007-09,Alice In Chains,11
-2007-09,Anthrax,8
-2007-09,Bruce Dickinson,3
-2007-09,Disturbed,9
-2007-09,Dokken,16
-2007-09,Goodness,11
-2007-09,Hammerbox,7
-2007-09,Iced Earth,8
-2007-09,Iron Maiden,17
-2007-09,Judas Priest,19
-2007-09,Kiss,15
-2007-09,Megadeth,24
-2007-09,Metallica,21
-2007-09,Mötley Crüe,26
-2007-09,Peter Murphy,4
-2007-09,Queensrÿche,11
-2007-09,Stone Temple Pilots,16
-2007-09,The Donnas,3
-2007-09,W.A.S.P.,32
-2007-10,Aerosmith,4
-2007-10,Alice In Chains,6
-2007-10,Anthrax,6
-2007-10,Bruce Dickinson,6
-2007-10,Disturbed,6
-2007-10,Dokken,8
-2007-10,Goodness,7
-2007-10,Hammerbox,4
-2007-10,Iced Earth,9
-2007-10,Iron Maiden,12
-2007-10,Judas Priest,14
-2007-10,Kiss,8
-2007-10,Megadeth,21
-2007-10,Metallica,14
-2007-10,Mötley Crüe,11
-2007-10,Peter Murphy,27
-2007-10,Queensrÿche,5
-2007-10,Stone Temple Pilots,8
-2007-10,The Donnas,1
-2007-10,W.A.S.P.,21
-2007-11,Aerosmith,3
-2007-11,Alice In Chains,8
-2007-11,Anthrax,2
-2007-11,Bruce Dickinson,4
-2007-11,Disturbed,4
-2007-11,Dokken,5
-2007-11,Goodness,32
-2007-11,Hammerbox,3
-2007-11,Iced Earth,5
-2007-11,Iron Maiden,10
-2007-11,Judas Priest,16
-2007-11,Kiss,9
-2007-11,Megadeth,25
-2007-11,Metallica,14
-2007-11,Mötley Crüe,12
-2007-11,Peter Murphy,1
-2007-11,Queensrÿche,4
-2007-11,Stone Temple Pilots,7
-2007-11,The Donnas,1
-2007-11,W.A.S.P.,20
-2007-12,Aerosmith,5
-2007-12,Alice In Chains,6
-2007-12,Anthrax,3
-2007-12,Bruce Dickinson,2
-2007-12,Disturbed,7
-2007-12,Dokken,5
-2007-12,Goodness,5
-2007-12,Hammerbox,3
-2007-12,Iced Earth,13
-2007-12,Iron Maiden,40
-2007-12,Judas Priest,35
-2007-12,Kiss,14
-2007-12,Megadeth,19
-2007-12,Metallica,38
-2007-12,Mötley Crüe,10
-2007-12,Peter Murphy,11
-2007-12,Queensrÿche,9
-2007-12,Stone Temple Pilots,4
-2007-12,The Donnas,1
-2007-12,W.A.S.P.,25
-2008-01,Aerosmith,2
-2008-01,Alice In Chains,5
-2008-01,Anthrax,5
-2008-01,Bruce Dickinson,3
-2008-01,Disturbed,1
-2008-01,Dokken,2
-2008-01,Goodness,6
-2008-01,Hammerbox,1
-2008-01,Iced Earth,1
-2008-01,Iron Maiden,13
-2008-01,Judas Priest,11
-2008-01,Kiss,3
-2008-01,Megadeth,12
-2008-01,Metallica,14
-2008-01,Mötley Crüe,4
-2008-01,Peter Murphy,17
-2008-01,Queensrÿche,1
-2008-01,Stone Temple Pilots,4
-2008-01,The Donnas,1
-2008-01,W.A.S.P.,5
-2008-02,Aerosmith,1
-2008-02,Alice In Chains,1
-2008-02,Anthrax,2
-2008-02,Bruce Dickinson,2
-2008-02,Disturbed,1
-2008-02,Dokken,2
-2008-02,Goodness,3
-2008-02,Hammerbox,2
-2008-02,Iced Earth,4
-2008-02,Iron Maiden,2
-2008-02,Judas Priest,2
-2008-02,Kiss,4
-2008-02,Megadeth,4
-2008-02,Metallica,6
-2008-02,Mötley Crüe,10
-2008-02,Peter Murphy,3
-2008-02,Queensrÿche,1
-2008-02,Stone Temple Pilots,3
-2008-02,The Donnas,1
-2008-02,W.A.S.P.,4
-2008-03,Aerosmith,5
-2008-03,Alice In Chains,7
-2008-03,Anthrax,1
-2008-03,Bruce Dickinson,6
-2008-03,Disturbed,4
-2008-03,Dokken,7
-2008-03,Goodness,2
-2008-03,Hammerbox,6
-2008-03,Iced Earth,4
-2008-03,Iron Maiden,8
-2008-03,Judas Priest,13
-2008-03,Kiss,1
-2008-03,Megadeth,11
-2008-03,Metallica,14
-2008-03,Mötley Crüe,14
-2008-03,Peter Murphy,4
-2008-03,Queensrÿche,5
-2008-03,Stone Temple Pilots,7
-2008-03,The Donnas,3
-2008-03,W.A.S.P.,17
-2008-04,Aerosmith,1
-2008-04,Alice In Chains,0
-2008-04,Anthrax,1
-2008-04,Bruce Dickinson,1
-2008-04,Disturbed,3
-2008-04,Dokken,1
-2008-04,Goodness,2
-2008-04,Hammerbox,0
-2008-04,Iced Earth,1
-2008-04,Iron Maiden,5
-2008-04,Judas Priest,5
-2008-04,Kiss,2
-2008-04,Megadeth,6
-2008-04,Metallica,9
-2008-04,Mötley Crüe,3
-2008-04,Peter Murphy,1
-2008-04,Queensrÿche,1
-2008-04,Stone Temple Pilots,5
-2008-04,The Donnas,0
-2008-04,W.A.S.P.,3
-2008-05,Aerosmith,0
-2008-05,Alice In Chains,0
-2008-05,Anthrax,0
-2008-05,Bruce Dickinson,0
-2008-05,Disturbed,0
-2008-05,Dokken,0
-2008-05,Goodness,0
-2008-05,Hammerbox,1
-2008-05,Iced Earth,1
-2008-05,Iron Maiden,0
-2008-05,Judas Priest,0
-2008-05,Kiss,0
-2008-05,Megadeth,0
-2008-05,Metallica,1
-2008-05,Mötley Crüe,3
-2008-05,Peter Murphy,1
-2008-05,Queensrÿche,0
-2008-05,Stone Temple Pilots,1
-2008-05,The Donnas,0
-2008-05,W.A.S.P.,0
-2008-06,Aerosmith,0
-2008-06,Alice In Chains,0
-2008-06,Anthrax,0
-2008-06,Bruce Dickinson,0
-2008-06,Disturbed,0
-2008-06,Dokken,0
-2008-06,Goodness,0
-2008-06,Hammerbox,0
-2008-06,Iced Earth,0
-2008-06,Iron Maiden,0
-2008-06,Judas Priest,0
-2008-06,Kiss,0
-2008-06,Megadeth,0
-2008-06,Metallica,0
-2008-06,Mötley Crüe,0
-2008-06,Peter Murphy,6
-2008-06,Queensrÿche,0
-2008-06,Stone Temple Pilots,0
-2008-06,The Donnas,0
-2008-06,W.A.S.P.,0
-2008-07,Aerosmith,0
-2008-07,Alice In Chains,0
-2008-07,Anthrax,11
-2008-07,Bruce Dickinson,0
-2008-07,Disturbed,2
-2008-07,Dokken,0
-2008-07,Goodness,0
-2008-07,Hammerbox,0
-2008-07,Iced Earth,0
-2008-07,Iron Maiden,0
-2008-07,Judas Priest,0
-2008-07,Kiss,0
-2008-07,Megadeth,22
-2008-07,Metallica,0
-2008-07,Mötley Crüe,0
-2008-07,Peter Murphy,0
-2008-07,Queensrÿche,0
-2008-07,Stone Temple Pilots,0
-2008-07,The Donnas,0
-2008-07,W.A.S.P.,0
-2008-08,Aerosmith,0
-2008-08,Alice In Chains,0
-2008-08,Anthrax,0
-2008-08,Bruce Dickinson,0
-2008-08,Disturbed,0
-2008-08,Dokken,0
-2008-08,Goodness,0
-2008-08,Hammerbox,0
-2008-08,Iced Earth,0
-2008-08,Iron Maiden,0
-2008-08,Judas Priest,0
-2008-08,Kiss,0
-2008-08,Megadeth,0
-2008-08,Metallica,0
-2008-08,Mötley Crüe,0
-2008-08,Peter Murphy,0
-2008-08,Queensrÿche,0
-2008-08,Stone Temple Pilots,0
-2008-08,The Donnas,0
-2008-08,W.A.S.P.,0
-2008-09,Aerosmith,0
-2008-09,Alice In Chains,0
-2008-09,Anthrax,0
-2008-09,Bruce Dickinson,0
-2008-09,Disturbed,0
-2008-09,Dokken,0
-2008-09,Goodness,1
-2008-09,Hammerbox,0
-2008-09,Iced Earth,0
-2008-09,Iron Maiden,0
-2008-09,Judas Priest,0
-2008-09,Kiss,0
-2008-09,Megadeth,0
-2008-09,Metallica,0
-2008-09,Mötley Crüe,0
-2008-09,Peter Murphy,0
-2008-09,Queensrÿche,0
-2008-09,Stone Temple Pilots,0
-2008-09,The Donnas,0
-2008-09,W.A.S.P.,0
-2008-10,Aerosmith,0
-2008-10,Alice In Chains,0
-2008-10,Anthrax,0
-2008-10,Bruce Dickinson,0
-2008-10,Disturbed,0
-2008-10,Dokken,0
-2008-10,Goodness,0
-2008-10,Hammerbox,0
-2008-10,Iced Earth,1
-2008-10,Iron Maiden,0
-2008-10,Judas Priest,0
-2008-10,Kiss,0
-2008-10,Megadeth,0
-2008-10,Metallica,0
-2008-10,Mötley Crüe,0
-2008-10,Peter Murphy,0
-2008-10,Queensrÿche,0
-2008-10,Stone Temple Pilots,0
-2008-10,The Donnas,0
-2008-10,W.A.S.P.,0
+"month","artist","plays"
+"2005-06","Aerosmith",2
+"2005-06","Alice In Chains",5
+"2005-06","Anthrax",4
+"2005-06","Bruce Dickinson",1
+"2005-06","Disturbed",0
+"2005-06","Dokken",3
+"2005-06","Goodness",0
+"2005-06","Hammerbox",0
+"2005-06","Iced Earth",11
+"2005-06","Iron Maiden",6
+"2005-06","Judas Priest",4
+"2005-06","Kiss",23
+"2005-06","Megadeth",0
+"2005-06","Metallica",0
+"2005-06","Mötley Crüe",8
+"2005-06","Peter Murphy",3
+"2005-06","Queensrÿche",0
+"2005-06","Stone Temple Pilots",0
+"2005-06","The Donnas",1
+"2005-06","W.A.S.P.",5
+"2005-07","Aerosmith",1
+"2005-07","Alice In Chains",2
+"2005-07","Anthrax",2
+"2005-07","Bruce Dickinson",0
+"2005-07","Disturbed",0
+"2005-07","Dokken",1
+"2005-07","Goodness",0
+"2005-07","Hammerbox",0
+"2005-07","Iced Earth",3
+"2005-07","Iron Maiden",0
+"2005-07","Judas Priest",0
+"2005-07","Kiss",9
+"2005-07","Megadeth",0
+"2005-07","Metallica",0
+"2005-07","Mötley Crüe",0
+"2005-07","Peter Murphy",0
+"2005-07","Queensrÿche",0
+"2005-07","Stone Temple Pilots",15
+"2005-07","The Donnas",1
+"2005-07","W.A.S.P.",0
+"2005-08","Aerosmith",2
+"2005-08","Alice In Chains",4
+"2005-08","Anthrax",5
+"2005-08","Bruce Dickinson",7
+"2005-08","Disturbed",0
+"2005-08","Dokken",3
+"2005-08","Goodness",0
+"2005-08","Hammerbox",3
+"2005-08","Iced Earth",3
+"2005-08","Iron Maiden",2
+"2005-08","Judas Priest",1
+"2005-08","Kiss",12
+"2005-08","Megadeth",0
+"2005-08","Metallica",0
+"2005-08","Mötley Crüe",0
+"2005-08","Peter Murphy",0
+"2005-08","Queensrÿche",0
+"2005-08","Stone Temple Pilots",1
+"2005-08","The Donnas",2
+"2005-08","W.A.S.P.",4
+"2005-09","Aerosmith",1
+"2005-09","Alice In Chains",1
+"2005-09","Anthrax",0
+"2005-09","Bruce Dickinson",2
+"2005-09","Disturbed",0
+"2005-09","Dokken",0
+"2005-09","Goodness",0
+"2005-09","Hammerbox",0
+"2005-09","Iced Earth",0
+"2005-09","Iron Maiden",0
+"2005-09","Judas Priest",1
+"2005-09","Kiss",5
+"2005-09","Megadeth",0
+"2005-09","Metallica",0
+"2005-09","Mötley Crüe",0
+"2005-09","Peter Murphy",0
+"2005-09","Queensrÿche",0
+"2005-09","Stone Temple Pilots",0
+"2005-09","The Donnas",0
+"2005-09","W.A.S.P.",0
+"2005-10","Aerosmith",1
+"2005-10","Alice In Chains",8
+"2005-10","Anthrax",2
+"2005-10","Bruce Dickinson",5
+"2005-10","Disturbed",3
+"2005-10","Dokken",0
+"2005-10","Goodness",0
+"2005-10","Hammerbox",2
+"2005-10","Iced Earth",2
+"2005-10","Iron Maiden",2
+"2005-10","Judas Priest",0
+"2005-10","Kiss",13
+"2005-10","Megadeth",0
+"2005-10","Metallica",0
+"2005-10","Mötley Crüe",1
+"2005-10","Peter Murphy",0
+"2005-10","Queensrÿche",0
+"2005-10","Stone Temple Pilots",0
+"2005-10","The Donnas",5
+"2005-10","W.A.S.P.",3
+"2005-11","Aerosmith",0
+"2005-11","Alice In Chains",2
+"2005-11","Anthrax",0
+"2005-11","Bruce Dickinson",1
+"2005-11","Disturbed",8
+"2005-11","Dokken",2
+"2005-11","Goodness",0
+"2005-11","Hammerbox",0
+"2005-11","Iced Earth",0
+"2005-11","Iron Maiden",0
+"2005-11","Judas Priest",0
+"2005-11","Kiss",5
+"2005-11","Megadeth",0
+"2005-11","Metallica",0
+"2005-11","Mötley Crüe",0
+"2005-11","Peter Murphy",0
+"2005-11","Queensrÿche",0
+"2005-11","Stone Temple Pilots",0
+"2005-11","The Donnas",0
+"2005-11","W.A.S.P.",0
+"2005-12","Aerosmith",0
+"2005-12","Alice In Chains",0
+"2005-12","Anthrax",0
+"2005-12","Bruce Dickinson",0
+"2005-12","Disturbed",0
+"2005-12","Dokken",0
+"2005-12","Goodness",0
+"2005-12","Hammerbox",0
+"2005-12","Iced Earth",0
+"2005-12","Iron Maiden",0
+"2005-12","Judas Priest",0
+"2005-12","Kiss",0
+"2005-12","Megadeth",0
+"2005-12","Metallica",0
+"2005-12","Mötley Crüe",0
+"2005-12","Peter Murphy",0
+"2005-12","Queensrÿche",0
+"2005-12","Stone Temple Pilots",0
+"2005-12","The Donnas",0
+"2005-12","W.A.S.P.",0
+"2006-01","Aerosmith",1
+"2006-01","Alice In Chains",0
+"2006-01","Anthrax",0
+"2006-01","Bruce Dickinson",0
+"2006-01","Disturbed",0
+"2006-01","Dokken",0
+"2006-01","Goodness",0
+"2006-01","Hammerbox",0
+"2006-01","Iced Earth",0
+"2006-01","Iron Maiden",8
+"2006-01","Judas Priest",9
+"2006-01","Kiss",27
+"2006-01","Megadeth",2
+"2006-01","Metallica",0
+"2006-01","Mötley Crüe",39
+"2006-01","Peter Murphy",0
+"2006-01","Queensrÿche",24
+"2006-01","Stone Temple Pilots",0
+"2006-01","The Donnas",0
+"2006-01","W.A.S.P.",42
+"2006-02","Aerosmith",0
+"2006-02","Alice In Chains",0
+"2006-02","Anthrax",0
+"2006-02","Bruce Dickinson",4
+"2006-02","Disturbed",0
+"2006-02","Dokken",0
+"2006-02","Goodness",0
+"2006-02","Hammerbox",0
+"2006-02","Iced Earth",0
+"2006-02","Iron Maiden",0
+"2006-02","Judas Priest",0
+"2006-02","Kiss",0
+"2006-02","Megadeth",1
+"2006-02","Metallica",0
+"2006-02","Mötley Crüe",0
+"2006-02","Peter Murphy",0
+"2006-02","Queensrÿche",1
+"2006-02","Stone Temple Pilots",0
+"2006-02","The Donnas",0
+"2006-02","W.A.S.P.",0
+"2006-03","Aerosmith",0
+"2006-03","Alice In Chains",0
+"2006-03","Anthrax",0
+"2006-03","Bruce Dickinson",0
+"2006-03","Disturbed",0
+"2006-03","Dokken",0
+"2006-03","Goodness",0
+"2006-03","Hammerbox",0
+"2006-03","Iced Earth",0
+"2006-03","Iron Maiden",0
+"2006-03","Judas Priest",0
+"2006-03","Kiss",0
+"2006-03","Megadeth",0
+"2006-03","Metallica",0
+"2006-03","Mötley Crüe",0
+"2006-03","Peter Murphy",0
+"2006-03","Queensrÿche",0
+"2006-03","Stone Temple Pilots",0
+"2006-03","The Donnas",0
+"2006-03","W.A.S.P.",0
+"2006-04","Aerosmith",0
+"2006-04","Alice In Chains",0
+"2006-04","Anthrax",0
+"2006-04","Bruce Dickinson",0
+"2006-04","Disturbed",0
+"2006-04","Dokken",0
+"2006-04","Goodness",0
+"2006-04","Hammerbox",0
+"2006-04","Iced Earth",0
+"2006-04","Iron Maiden",0
+"2006-04","Judas Priest",0
+"2006-04","Kiss",0
+"2006-04","Megadeth",0
+"2006-04","Metallica",0
+"2006-04","Mötley Crüe",0
+"2006-04","Peter Murphy",0
+"2006-04","Queensrÿche",0
+"2006-04","Stone Temple Pilots",0
+"2006-04","The Donnas",0
+"2006-04","W.A.S.P.",0
+"2006-05","Aerosmith",0
+"2006-05","Alice In Chains",0
+"2006-05","Anthrax",0
+"2006-05","Bruce Dickinson",0
+"2006-05","Disturbed",0
+"2006-05","Dokken",0
+"2006-05","Goodness",0
+"2006-05","Hammerbox",0
+"2006-05","Iced Earth",0
+"2006-05","Iron Maiden",0
+"2006-05","Judas Priest",0
+"2006-05","Kiss",0
+"2006-05","Megadeth",0
+"2006-05","Metallica",0
+"2006-05","Mötley Crüe",0
+"2006-05","Peter Murphy",0
+"2006-05","Queensrÿche",0
+"2006-05","Stone Temple Pilots",0
+"2006-05","The Donnas",0
+"2006-05","W.A.S.P.",0
+"2006-06","Aerosmith",0
+"2006-06","Alice In Chains",0
+"2006-06","Anthrax",0
+"2006-06","Bruce Dickinson",0
+"2006-06","Disturbed",0
+"2006-06","Dokken",0
+"2006-06","Goodness",39
+"2006-06","Hammerbox",46
+"2006-06","Iced Earth",0
+"2006-06","Iron Maiden",0
+"2006-06","Judas Priest",0
+"2006-06","Kiss",0
+"2006-06","Megadeth",0
+"2006-06","Metallica",0
+"2006-06","Mötley Crüe",0
+"2006-06","Peter Murphy",0
+"2006-06","Queensrÿche",0
+"2006-06","Stone Temple Pilots",0
+"2006-06","The Donnas",0
+"2006-06","W.A.S.P.",0
+"2006-07","Aerosmith",0
+"2006-07","Alice In Chains",0
+"2006-07","Anthrax",6
+"2006-07","Bruce Dickinson",0
+"2006-07","Disturbed",4
+"2006-07","Dokken",0
+"2006-07","Goodness",50
+"2006-07","Hammerbox",15
+"2006-07","Iced Earth",0
+"2006-07","Iron Maiden",0
+"2006-07","Judas Priest",0
+"2006-07","Kiss",0
+"2006-07","Megadeth",0
+"2006-07","Metallica",0
+"2006-07","Mötley Crüe",0
+"2006-07","Peter Murphy",8
+"2006-07","Queensrÿche",2
+"2006-07","Stone Temple Pilots",1
+"2006-07","The Donnas",3
+"2006-07","W.A.S.P.",0
+"2006-08","Aerosmith",0
+"2006-08","Alice In Chains",9
+"2006-08","Anthrax",1
+"2006-08","Bruce Dickinson",0
+"2006-08","Disturbed",0
+"2006-08","Dokken",0
+"2006-08","Goodness",48
+"2006-08","Hammerbox",0
+"2006-08","Iced Earth",0
+"2006-08","Iron Maiden",22
+"2006-08","Judas Priest",0
+"2006-08","Kiss",0
+"2006-08","Megadeth",9
+"2006-08","Metallica",13
+"2006-08","Mötley Crüe",0
+"2006-08","Peter Murphy",17
+"2006-08","Queensrÿche",1
+"2006-08","Stone Temple Pilots",0
+"2006-08","The Donnas",3
+"2006-08","W.A.S.P.",23
+"2006-09","Aerosmith",0
+"2006-09","Alice In Chains",0
+"2006-09","Anthrax",0
+"2006-09","Bruce Dickinson",0
+"2006-09","Disturbed",1
+"2006-09","Dokken",1
+"2006-09","Goodness",21
+"2006-09","Hammerbox",44
+"2006-09","Iced Earth",6
+"2006-09","Iron Maiden",8
+"2006-09","Judas Priest",0
+"2006-09","Kiss",3
+"2006-09","Megadeth",6
+"2006-09","Metallica",1
+"2006-09","Mötley Crüe",25
+"2006-09","Peter Murphy",20
+"2006-09","Queensrÿche",0
+"2006-09","Stone Temple Pilots",0
+"2006-09","The Donnas",3
+"2006-09","W.A.S.P.",0
+"2006-10","Aerosmith",1
+"2006-10","Alice In Chains",6
+"2006-10","Anthrax",4
+"2006-10","Bruce Dickinson",5
+"2006-10","Disturbed",6
+"2006-10","Dokken",2
+"2006-10","Goodness",66
+"2006-10","Hammerbox",4
+"2006-10","Iced Earth",2
+"2006-10","Iron Maiden",16
+"2006-10","Judas Priest",16
+"2006-10","Kiss",4
+"2006-10","Megadeth",28
+"2006-10","Metallica",8
+"2006-10","Mötley Crüe",1
+"2006-10","Peter Murphy",11
+"2006-10","Queensrÿche",2
+"2006-10","Stone Temple Pilots",0
+"2006-10","The Donnas",0
+"2006-10","W.A.S.P.",0
+"2006-11","Aerosmith",4
+"2006-11","Alice In Chains",4
+"2006-11","Anthrax",4
+"2006-11","Bruce Dickinson",8
+"2006-11","Disturbed",4
+"2006-11","Dokken",6
+"2006-11","Goodness",6
+"2006-11","Hammerbox",17
+"2006-11","Iced Earth",3
+"2006-11","Iron Maiden",19
+"2006-11","Judas Priest",19
+"2006-11","Kiss",15
+"2006-11","Megadeth",22
+"2006-11","Metallica",26
+"2006-11","Mötley Crüe",53
+"2006-11","Peter Murphy",14
+"2006-11","Queensrÿche",8
+"2006-11","Stone Temple Pilots",80
+"2006-11","The Donnas",1
+"2006-11","W.A.S.P.",1
+"2006-12","Aerosmith",7
+"2006-12","Alice In Chains",19
+"2006-12","Anthrax",7
+"2006-12","Bruce Dickinson",6
+"2006-12","Disturbed",28
+"2006-12","Dokken",12
+"2006-12","Goodness",22
+"2006-12","Hammerbox",7
+"2006-12","Iced Earth",2
+"2006-12","Iron Maiden",20
+"2006-12","Judas Priest",19
+"2006-12","Kiss",7
+"2006-12","Megadeth",22
+"2006-12","Metallica",16
+"2006-12","Mötley Crüe",14
+"2006-12","Peter Murphy",47
+"2006-12","Queensrÿche",2
+"2006-12","Stone Temple Pilots",13
+"2006-12","The Donnas",5
+"2006-12","W.A.S.P.",18
+"2007-01","Aerosmith",6
+"2007-01","Alice In Chains",4
+"2007-01","Anthrax",2
+"2007-01","Bruce Dickinson",3
+"2007-01","Disturbed",4
+"2007-01","Dokken",4
+"2007-01","Goodness",20
+"2007-01","Hammerbox",1
+"2007-01","Iced Earth",1
+"2007-01","Iron Maiden",14
+"2007-01","Judas Priest",13
+"2007-01","Kiss",5
+"2007-01","Megadeth",54
+"2007-01","Metallica",43
+"2007-01","Mötley Crüe",10
+"2007-01","Peter Murphy",1
+"2007-01","Queensrÿche",6
+"2007-01","Stone Temple Pilots",4
+"2007-01","The Donnas",1
+"2007-01","W.A.S.P.",12
+"2007-02","Aerosmith",1
+"2007-02","Alice In Chains",1
+"2007-02","Anthrax",1
+"2007-02","Bruce Dickinson",2
+"2007-02","Disturbed",1
+"2007-02","Dokken",2
+"2007-02","Goodness",14
+"2007-02","Hammerbox",0
+"2007-02","Iced Earth",2
+"2007-02","Iron Maiden",2
+"2007-02","Judas Priest",3
+"2007-02","Kiss",5
+"2007-02","Megadeth",9
+"2007-02","Metallica",6
+"2007-02","Mötley Crüe",4
+"2007-02","Peter Murphy",0
+"2007-02","Queensrÿche",3
+"2007-02","Stone Temple Pilots",5
+"2007-02","The Donnas",2
+"2007-02","W.A.S.P.",0
+"2007-03","Aerosmith",15
+"2007-03","Alice In Chains",5
+"2007-03","Anthrax",0
+"2007-03","Bruce Dickinson",4
+"2007-03","Disturbed",4
+"2007-03","Dokken",4
+"2007-03","Goodness",6
+"2007-03","Hammerbox",24
+"2007-03","Iced Earth",2
+"2007-03","Iron Maiden",8
+"2007-03","Judas Priest",13
+"2007-03","Kiss",8
+"2007-03","Megadeth",12
+"2007-03","Metallica",17
+"2007-03","Mötley Crüe",11
+"2007-03","Peter Murphy",3
+"2007-03","Queensrÿche",6
+"2007-03","Stone Temple Pilots",9
+"2007-03","The Donnas",4
+"2007-03","W.A.S.P.",14
+"2007-04","Aerosmith",2
+"2007-04","Alice In Chains",1
+"2007-04","Anthrax",2
+"2007-04","Bruce Dickinson",1
+"2007-04","Disturbed",0
+"2007-04","Dokken",1
+"2007-04","Goodness",1
+"2007-04","Hammerbox",0
+"2007-04","Iced Earth",1
+"2007-04","Iron Maiden",4
+"2007-04","Judas Priest",2
+"2007-04","Kiss",1
+"2007-04","Megadeth",4
+"2007-04","Metallica",2
+"2007-04","Mötley Crüe",1
+"2007-04","Peter Murphy",1
+"2007-04","Queensrÿche",1
+"2007-04","Stone Temple Pilots",2
+"2007-04","The Donnas",1
+"2007-04","W.A.S.P.",6
+"2007-05","Aerosmith",2
+"2007-05","Alice In Chains",2
+"2007-05","Anthrax",3
+"2007-05","Bruce Dickinson",1
+"2007-05","Disturbed",1
+"2007-05","Dokken",1
+"2007-05","Goodness",10
+"2007-05","Hammerbox",2
+"2007-05","Iced Earth",1
+"2007-05","Iron Maiden",2
+"2007-05","Judas Priest",2
+"2007-05","Kiss",4
+"2007-05","Megadeth",38
+"2007-05","Metallica",5
+"2007-05","Mötley Crüe",6
+"2007-05","Peter Murphy",3
+"2007-05","Queensrÿche",4
+"2007-05","Stone Temple Pilots",1
+"2007-05","The Donnas",1
+"2007-05","W.A.S.P.",1
+"2007-06","Aerosmith",0
+"2007-06","Alice In Chains",5
+"2007-06","Anthrax",0
+"2007-06","Bruce Dickinson",4
+"2007-06","Disturbed",5
+"2007-06","Dokken",5
+"2007-06","Goodness",3
+"2007-06","Hammerbox",1
+"2007-06","Iced Earth",0
+"2007-06","Iron Maiden",8
+"2007-06","Judas Priest",10
+"2007-06","Kiss",2
+"2007-06","Megadeth",11
+"2007-06","Metallica",6
+"2007-06","Mötley Crüe",7
+"2007-06","Peter Murphy",3
+"2007-06","Queensrÿche",4
+"2007-06","Stone Temple Pilots",7
+"2007-06","The Donnas",0
+"2007-06","W.A.S.P.",12
+"2007-07","Aerosmith",1
+"2007-07","Alice In Chains",2
+"2007-07","Anthrax",17
+"2007-07","Bruce Dickinson",3
+"2007-07","Disturbed",6
+"2007-07","Dokken",2
+"2007-07","Goodness",2
+"2007-07","Hammerbox",2
+"2007-07","Iced Earth",1
+"2007-07","Iron Maiden",4
+"2007-07","Judas Priest",6
+"2007-07","Kiss",2
+"2007-07","Megadeth",5
+"2007-07","Metallica",3
+"2007-07","Mötley Crüe",5
+"2007-07","Peter Murphy",4
+"2007-07","Queensrÿche",2
+"2007-07","Stone Temple Pilots",2
+"2007-07","The Donnas",0
+"2007-07","W.A.S.P.",6
+"2007-08","Aerosmith",4
+"2007-08","Alice In Chains",10
+"2007-08","Anthrax",4
+"2007-08","Bruce Dickinson",6
+"2007-08","Disturbed",6
+"2007-08","Dokken",9
+"2007-08","Goodness",6
+"2007-08","Hammerbox",3
+"2007-08","Iced Earth",18
+"2007-08","Iron Maiden",8
+"2007-08","Judas Priest",17
+"2007-08","Kiss",5
+"2007-08","Megadeth",25
+"2007-08","Metallica",14
+"2007-08","Mötley Crüe",13
+"2007-08","Peter Murphy",3
+"2007-08","Queensrÿche",6
+"2007-08","Stone Temple Pilots",5
+"2007-08","The Donnas",1
+"2007-08","W.A.S.P.",11
+"2007-09","Aerosmith",5
+"2007-09","Alice In Chains",11
+"2007-09","Anthrax",8
+"2007-09","Bruce Dickinson",3
+"2007-09","Disturbed",9
+"2007-09","Dokken",16
+"2007-09","Goodness",11
+"2007-09","Hammerbox",7
+"2007-09","Iced Earth",8
+"2007-09","Iron Maiden",17
+"2007-09","Judas Priest",19
+"2007-09","Kiss",15
+"2007-09","Megadeth",24
+"2007-09","Metallica",21
+"2007-09","Mötley Crüe",26
+"2007-09","Peter Murphy",4
+"2007-09","Queensrÿche",11
+"2007-09","Stone Temple Pilots",16
+"2007-09","The Donnas",3
+"2007-09","W.A.S.P.",32
+"2007-10","Aerosmith",4
+"2007-10","Alice In Chains",6
+"2007-10","Anthrax",6
+"2007-10","Bruce Dickinson",6
+"2007-10","Disturbed",6
+"2007-10","Dokken",8
+"2007-10","Goodness",7
+"2007-10","Hammerbox",4
+"2007-10","Iced Earth",9
+"2007-10","Iron Maiden",12
+"2007-10","Judas Priest",14
+"2007-10","Kiss",8
+"2007-10","Megadeth",21
+"2007-10","Metallica",14
+"2007-10","Mötley Crüe",11
+"2007-10","Peter Murphy",27
+"2007-10","Queensrÿche",5
+"2007-10","Stone Temple Pilots",8
+"2007-10","The Donnas",1
+"2007-10","W.A.S.P.",21
+"2007-11","Aerosmith",3
+"2007-11","Alice In Chains",8
+"2007-11","Anthrax",2
+"2007-11","Bruce Dickinson",4
+"2007-11","Disturbed",4
+"2007-11","Dokken",5
+"2007-11","Goodness",32
+"2007-11","Hammerbox",3
+"2007-11","Iced Earth",5
+"2007-11","Iron Maiden",10
+"2007-11","Judas Priest",16
+"2007-11","Kiss",9
+"2007-11","Megadeth",25
+"2007-11","Metallica",14
+"2007-11","Mötley Crüe",12
+"2007-11","Peter Murphy",1
+"2007-11","Queensrÿche",4
+"2007-11","Stone Temple Pilots",7
+"2007-11","The Donnas",1
+"2007-11","W.A.S.P.",20
+"2007-12","Aerosmith",5
+"2007-12","Alice In Chains",6
+"2007-12","Anthrax",3
+"2007-12","Bruce Dickinson",2
+"2007-12","Disturbed",7
+"2007-12","Dokken",5
+"2007-12","Goodness",5
+"2007-12","Hammerbox",3
+"2007-12","Iced Earth",13
+"2007-12","Iron Maiden",40
+"2007-12","Judas Priest",35
+"2007-12","Kiss",14
+"2007-12","Megadeth",19
+"2007-12","Metallica",38
+"2007-12","Mötley Crüe",10
+"2007-12","Peter Murphy",11
+"2007-12","Queensrÿche",9
+"2007-12","Stone Temple Pilots",4
+"2007-12","The Donnas",1
+"2007-12","W.A.S.P.",25
+"2008-01","Aerosmith",2
+"2008-01","Alice In Chains",5
+"2008-01","Anthrax",5
+"2008-01","Bruce Dickinson",3
+"2008-01","Disturbed",1
+"2008-01","Dokken",2
+"2008-01","Goodness",6
+"2008-01","Hammerbox",1
+"2008-01","Iced Earth",1
+"2008-01","Iron Maiden",13
+"2008-01","Judas Priest",11
+"2008-01","Kiss",3
+"2008-01","Megadeth",12
+"2008-01","Metallica",14
+"2008-01","Mötley Crüe",4
+"2008-01","Peter Murphy",17
+"2008-01","Queensrÿche",1
+"2008-01","Stone Temple Pilots",4
+"2008-01","The Donnas",1
+"2008-01","W.A.S.P.",5
+"2008-02","Aerosmith",1
+"2008-02","Alice In Chains",1
+"2008-02","Anthrax",2
+"2008-02","Bruce Dickinson",2
+"2008-02","Disturbed",1
+"2008-02","Dokken",2
+"2008-02","Goodness",3
+"2008-02","Hammerbox",2
+"2008-02","Iced Earth",4
+"2008-02","Iron Maiden",2
+"2008-02","Judas Priest",2
+"2008-02","Kiss",4
+"2008-02","Megadeth",4
+"2008-02","Metallica",6
+"2008-02","Mötley Crüe",10
+"2008-02","Peter Murphy",3
+"2008-02","Queensrÿche",1
+"2008-02","Stone Temple Pilots",3
+"2008-02","The Donnas",1
+"2008-02","W.A.S.P.",4
+"2008-03","Aerosmith",5
+"2008-03","Alice In Chains",7
+"2008-03","Anthrax",1
+"2008-03","Bruce Dickinson",6
+"2008-03","Disturbed",4
+"2008-03","Dokken",7
+"2008-03","Goodness",2
+"2008-03","Hammerbox",6
+"2008-03","Iced Earth",4
+"2008-03","Iron Maiden",8
+"2008-03","Judas Priest",13
+"2008-03","Kiss",1
+"2008-03","Megadeth",11
+"2008-03","Metallica",14
+"2008-03","Mötley Crüe",14
+"2008-03","Peter Murphy",4
+"2008-03","Queensrÿche",5
+"2008-03","Stone Temple Pilots",7
+"2008-03","The Donnas",3
+"2008-03","W.A.S.P.",17
+"2008-04","Aerosmith",1
+"2008-04","Alice In Chains",0
+"2008-04","Anthrax",1
+"2008-04","Bruce Dickinson",1
+"2008-04","Disturbed",3
+"2008-04","Dokken",1
+"2008-04","Goodness",2
+"2008-04","Hammerbox",0
+"2008-04","Iced Earth",1
+"2008-04","Iron Maiden",5
+"2008-04","Judas Priest",5
+"2008-04","Kiss",2
+"2008-04","Megadeth",6
+"2008-04","Metallica",9
+"2008-04","Mötley Crüe",3
+"2008-04","Peter Murphy",1
+"2008-04","Queensrÿche",1
+"2008-04","Stone Temple Pilots",5
+"2008-04","The Donnas",0
+"2008-04","W.A.S.P.",3
+"2008-05","Aerosmith",0
+"2008-05","Alice In Chains",0
+"2008-05","Anthrax",0
+"2008-05","Bruce Dickinson",0
+"2008-05","Disturbed",0
+"2008-05","Dokken",0
+"2008-05","Goodness",0
+"2008-05","Hammerbox",1
+"2008-05","Iced Earth",1
+"2008-05","Iron Maiden",0
+"2008-05","Judas Priest",0
+"2008-05","Kiss",0
+"2008-05","Megadeth",0
+"2008-05","Metallica",1
+"2008-05","Mötley Crüe",3
+"2008-05","Peter Murphy",1
+"2008-05","Queensrÿche",0
+"2008-05","Stone Temple Pilots",1
+"2008-05","The Donnas",0
+"2008-05","W.A.S.P.",0
+"2008-06","Aerosmith",0
+"2008-06","Alice In Chains",0
+"2008-06","Anthrax",0
+"2008-06","Bruce Dickinson",0
+"2008-06","Disturbed",0
+"2008-06","Dokken",0
+"2008-06","Goodness",0
+"2008-06","Hammerbox",0
+"2008-06","Iced Earth",0
+"2008-06","Iron Maiden",0
+"2008-06","Judas Priest",0
+"2008-06","Kiss",0
+"2008-06","Megadeth",0
+"2008-06","Metallica",0
+"2008-06","Mötley Crüe",0
+"2008-06","Peter Murphy",6
+"2008-06","Queensrÿche",0
+"2008-06","Stone Temple Pilots",0
+"2008-06","The Donnas",0
+"2008-06","W.A.S.P.",0
+"2008-07","Aerosmith",0
+"2008-07","Alice In Chains",0
+"2008-07","Anthrax",11
+"2008-07","Bruce Dickinson",0
+"2008-07","Disturbed",2
+"2008-07","Dokken",0
+"2008-07","Goodness",0
+"2008-07","Hammerbox",0
+"2008-07","Iced Earth",0
+"2008-07","Iron Maiden",0
+"2008-07","Judas Priest",0
+"2008-07","Kiss",0
+"2008-07","Megadeth",22
+"2008-07","Metallica",0
+"2008-07","Mötley Crüe",0
+"2008-07","Peter Murphy",0
+"2008-07","Queensrÿche",0
+"2008-07","Stone Temple Pilots",0
+"2008-07","The Donnas",0
+"2008-07","W.A.S.P.",0
+"2008-08","Aerosmith",0
+"2008-08","Alice In Chains",0
+"2008-08","Anthrax",0
+"2008-08","Bruce Dickinson",0
+"2008-08","Disturbed",0
+"2008-08","Dokken",0
+"2008-08","Goodness",0
+"2008-08","Hammerbox",0
+"2008-08","Iced Earth",0
+"2008-08","Iron Maiden",0
+"2008-08","Judas Priest",0
+"2008-08","Kiss",0
+"2008-08","Megadeth",0
+"2008-08","Metallica",0
+"2008-08","Mötley Crüe",0
+"2008-08","Peter Murphy",0
+"2008-08","Queensrÿche",0
+"2008-08","Stone Temple Pilots",0
+"2008-08","The Donnas",0
+"2008-08","W.A.S.P.",0
+"2008-09","Aerosmith",0
+"2008-09","Alice In Chains",0
+"2008-09","Anthrax",0
+"2008-09","Bruce Dickinson",0
+"2008-09","Disturbed",0
+"2008-09","Dokken",0
+"2008-09","Goodness",1
+"2008-09","Hammerbox",0
+"2008-09","Iced Earth",0
+"2008-09","Iron Maiden",0
+"2008-09","Judas Priest",0
+"2008-09","Kiss",0
+"2008-09","Megadeth",0
+"2008-09","Metallica",0
+"2008-09","Mötley Crüe",0
+"2008-09","Peter Murphy",0
+"2008-09","Queensrÿche",0
+"2008-09","Stone Temple Pilots",0
+"2008-09","The Donnas",0
+"2008-09","W.A.S.P.",0
+"2008-10","Aerosmith",0
+"2008-10","Alice In Chains",0
+"2008-10","Anthrax",0
+"2008-10","Bruce Dickinson",0
+"2008-10","Disturbed",0
+"2008-10","Dokken",0
+"2008-10","Goodness",0
+"2008-10","Hammerbox",0
+"2008-10","Iced Earth",1
+"2008-10","Iron Maiden",0
+"2008-10","Judas Priest",0
+"2008-10","Kiss",0
+"2008-10","Megadeth",0
+"2008-10","Metallica",0
+"2008-10","Mötley Crüe",0
+"2008-10","Peter Murphy",0
+"2008-10","Queensrÿche",0
+"2008-10","Stone Temple Pilots",0
+"2008-10","The Donnas",0
+"2008-10","W.A.S.P.",0

@@ -1,141 +1,141 @@
-month,artist,plays
-2007-08,2Raumwohnung,0
-2007-08,Amanda Rogers,0
-2007-08,Antônio Carlos Jobim,0
-2007-08,April March,1
-2007-08,Art Blakey,2
-2007-08,Astrud Gilberto,0
-2007-08,Bebel Gilberto,0
-2007-08,Ben Folds,0
-2007-08,Ben Webster,1
-2007-08,Bill Evans,1
-2007-08,Bud Powell,0
-2007-08,Caetano Veloso,0
-2007-08,Cal Tjader,0
-2007-08,Cannonball Adderley,1
-2007-08,Carpenters,1
-2007-08,Celso Fonseca,0
-2007-08,Dave Brubeck,2
-2007-08,Diana Krall,2
-2007-08,Jamie Cullum,1
-2007-08,Stan Getz,0
-2007-09,2Raumwohnung,0
-2007-09,Amanda Rogers,0
-2007-09,Antônio Carlos Jobim,5
-2007-09,April March,0
-2007-09,Art Blakey,1
-2007-09,Astrud Gilberto,0
-2007-09,Bebel Gilberto,2
-2007-09,Ben Folds,0
-2007-09,Ben Webster,1
-2007-09,Bill Evans,0
-2007-09,Bud Powell,0
-2007-09,Caetano Veloso,0
-2007-09,Cal Tjader,1
-2007-09,Cannonball Adderley,1
-2007-09,Carpenters,0
-2007-09,Celso Fonseca,1
-2007-09,Dave Brubeck,2
-2007-09,Diana Krall,1
-2007-09,Jamie Cullum,0
-2007-09,Stan Getz,1
-2007-10,2Raumwohnung,2
-2007-10,Amanda Rogers,0
-2007-10,Antônio Carlos Jobim,2
-2007-10,April March,0
-2007-10,Art Blakey,0
-2007-10,Astrud Gilberto,1
-2007-10,Bebel Gilberto,2
-2007-10,Ben Folds,0
-2007-10,Ben Webster,0
-2007-10,Bill Evans,0
-2007-10,Bud Powell,0
-2007-10,Caetano Veloso,1
-2007-10,Cal Tjader,0
-2007-10,Cannonball Adderley,0
-2007-10,Carpenters,0
-2007-10,Celso Fonseca,2
-2007-10,Dave Brubeck,0
-2007-10,Diana Krall,0
-2007-10,Jamie Cullum,0
-2007-10,Stan Getz,2
-2007-11,2Raumwohnung,0
-2007-11,Amanda Rogers,0
-2007-11,Antônio Carlos Jobim,0
-2007-11,April March,0
-2007-11,Art Blakey,0
-2007-11,Astrud Gilberto,0
-2007-11,Bebel Gilberto,0
-2007-11,Ben Folds,0
-2007-11,Ben Webster,0
-2007-11,Bill Evans,0
-2007-11,Bud Powell,0
-2007-11,Caetano Veloso,0
-2007-11,Cal Tjader,0
-2007-11,Cannonball Adderley,0
-2007-11,Carpenters,0
-2007-11,Celso Fonseca,0
-2007-11,Dave Brubeck,0
-2007-11,Diana Krall,0
-2007-11,Jamie Cullum,0
-2007-11,Stan Getz,0
-2007-12,2Raumwohnung,0
-2007-12,Amanda Rogers,0
-2007-12,Antônio Carlos Jobim,0
-2007-12,April March,0
-2007-12,Art Blakey,0
-2007-12,Astrud Gilberto,0
-2007-12,Bebel Gilberto,0
-2007-12,Ben Folds,0
-2007-12,Ben Webster,0
-2007-12,Bill Evans,0
-2007-12,Bud Powell,0
-2007-12,Caetano Veloso,0
-2007-12,Cal Tjader,0
-2007-12,Cannonball Adderley,0
-2007-12,Carpenters,0
-2007-12,Celso Fonseca,0
-2007-12,Dave Brubeck,0
-2007-12,Diana Krall,0
-2007-12,Jamie Cullum,0
-2007-12,Stan Getz,0
-2008-01,2Raumwohnung,1
-2008-01,Amanda Rogers,1
-2008-01,Antônio Carlos Jobim,1
-2008-01,April March,1
-2008-01,Art Blakey,0
-2008-01,Astrud Gilberto,1
-2008-01,Bebel Gilberto,1
-2008-01,Ben Folds,2
-2008-01,Ben Webster,0
-2008-01,Bill Evans,1
-2008-01,Bud Powell,1
-2008-01,Caetano Veloso,1
-2008-01,Cal Tjader,1
-2008-01,Cannonball Adderley,1
-2008-01,Carpenters,1
-2008-01,Celso Fonseca,1
-2008-01,Dave Brubeck,1
-2008-01,Diana Krall,2
-2008-01,Jamie Cullum,1
-2008-01,Stan Getz,0
-2008-02,2Raumwohnung,0
-2008-02,Amanda Rogers,1
-2008-02,Antônio Carlos Jobim,1
-2008-02,April March,0
-2008-02,Art Blakey,0
-2008-02,Astrud Gilberto,0
-2008-02,Bebel Gilberto,1
-2008-02,Ben Folds,1
-2008-02,Ben Webster,0
-2008-02,Bill Evans,1
-2008-02,Bud Powell,1
-2008-02,Caetano Veloso,0
-2008-02,Cal Tjader,0
-2008-02,Cannonball Adderley,0
-2008-02,Carpenters,1
-2008-02,Celso Fonseca,0
-2008-02,Dave Brubeck,1
-2008-02,Diana Krall,0
-2008-02,Jamie Cullum,1
-2008-02,Stan Getz,1
+"month","artist","plays"
+"2007-08","2Raumwohnung",0
+"2007-08","Amanda Rogers",0
+"2007-08","Antônio Carlos Jobim",0
+"2007-08","April March",1
+"2007-08","Art Blakey",2
+"2007-08","Astrud Gilberto",0
+"2007-08","Bebel Gilberto",0
+"2007-08","Ben Folds",0
+"2007-08","Ben Webster",1
+"2007-08","Bill Evans",1
+"2007-08","Bud Powell",0
+"2007-08","Caetano Veloso",0
+"2007-08","Cal Tjader",0
+"2007-08","Cannonball Adderley",1
+"2007-08","Carpenters",1
+"2007-08","Celso Fonseca",0
+"2007-08","Dave Brubeck",2
+"2007-08","Diana Krall",2
+"2007-08","Jamie Cullum",1
+"2007-08","Stan Getz",0
+"2007-09","2Raumwohnung",0
+"2007-09","Amanda Rogers",0
+"2007-09","Antônio Carlos Jobim",5
+"2007-09","April March",0
+"2007-09","Art Blakey",1
+"2007-09","Astrud Gilberto",0
+"2007-09","Bebel Gilberto",2
+"2007-09","Ben Folds",0
+"2007-09","Ben Webster",1
+"2007-09","Bill Evans",0
+"2007-09","Bud Powell",0
+"2007-09","Caetano Veloso",0
+"2007-09","Cal Tjader",1
+"2007-09","Cannonball Adderley",1
+"2007-09","Carpenters",0
+"2007-09","Celso Fonseca",1
+"2007-09","Dave Brubeck",2
+"2007-09","Diana Krall",1
+"2007-09","Jamie Cullum",0
+"2007-09","Stan Getz",1
+"2007-10","2Raumwohnung",2
+"2007-10","Amanda Rogers",0
+"2007-10","Antônio Carlos Jobim",2
+"2007-10","April March",0
+"2007-10","Art Blakey",0
+"2007-10","Astrud Gilberto",1
+"2007-10","Bebel Gilberto",2
+"2007-10","Ben Folds",0
+"2007-10","Ben Webster",0
+"2007-10","Bill Evans",0
+"2007-10","Bud Powell",0
+"2007-10","Caetano Veloso",1
+"2007-10","Cal Tjader",0
+"2007-10","Cannonball Adderley",0
+"2007-10","Carpenters",0
+"2007-10","Celso Fonseca",2
+"2007-10","Dave Brubeck",0
+"2007-10","Diana Krall",0
+"2007-10","Jamie Cullum",0
+"2007-10","Stan Getz",2
+"2007-11","2Raumwohnung",0
+"2007-11","Amanda Rogers",0
+"2007-11","Antônio Carlos Jobim",0
+"2007-11","April March",0
+"2007-11","Art Blakey",0
+"2007-11","Astrud Gilberto",0
+"2007-11","Bebel Gilberto",0
+"2007-11","Ben Folds",0
+"2007-11","Ben Webster",0
+"2007-11","Bill Evans",0
+"2007-11","Bud Powell",0
+"2007-11","Caetano Veloso",0
+"2007-11","Cal Tjader",0
+"2007-11","Cannonball Adderley",0
+"2007-11","Carpenters",0
+"2007-11","Celso Fonseca",0
+"2007-11","Dave Brubeck",0
+"2007-11","Diana Krall",0
+"2007-11","Jamie Cullum",0
+"2007-11","Stan Getz",0
+"2007-12","2Raumwohnung",0
+"2007-12","Amanda Rogers",0
+"2007-12","Antônio Carlos Jobim",0
+"2007-12","April March",0
+"2007-12","Art Blakey",0
+"2007-12","Astrud Gilberto",0
+"2007-12","Bebel Gilberto",0
+"2007-12","Ben Folds",0
+"2007-12","Ben Webster",0
+"2007-12","Bill Evans",0
+"2007-12","Bud Powell",0
+"2007-12","Caetano Veloso",0
+"2007-12","Cal Tjader",0
+"2007-12","Cannonball Adderley",0
+"2007-12","Carpenters",0
+"2007-12","Celso Fonseca",0
+"2007-12","Dave Brubeck",0
+"2007-12","Diana Krall",0
+"2007-12","Jamie Cullum",0
+"2007-12","Stan Getz",0
+"2008-01","2Raumwohnung",1
+"2008-01","Amanda Rogers",1
+"2008-01","Antônio Carlos Jobim",1
+"2008-01","April March",1
+"2008-01","Art Blakey",0
+"2008-01","Astrud Gilberto",1
+"2008-01","Bebel Gilberto",1
+"2008-01","Ben Folds",2
+"2008-01","Ben Webster",0
+"2008-01","Bill Evans",1
+"2008-01","Bud Powell",1
+"2008-01","Caetano Veloso",1
+"2008-01","Cal Tjader",1
+"2008-01","Cannonball Adderley",1
+"2008-01","Carpenters",1
+"2008-01","Celso Fonseca",1
+"2008-01","Dave Brubeck",1
+"2008-01","Diana Krall",2
+"2008-01","Jamie Cullum",1
+"2008-01","Stan Getz",0
+"2008-02","2Raumwohnung",0
+"2008-02","Amanda Rogers",1
+"2008-02","Antônio Carlos Jobim",1
+"2008-02","April March",0
+"2008-02","Art Blakey",0
+"2008-02","Astrud Gilberto",0
+"2008-02","Bebel Gilberto",1
+"2008-02","Ben Folds",1
+"2008-02","Ben Webster",0
+"2008-02","Bill Evans",1
+"2008-02","Bud Powell",1
+"2008-02","Caetano Veloso",0
+"2008-02","Cal Tjader",0
+"2008-02","Cannonball Adderley",0
+"2008-02","Carpenters",1
+"2008-02","Celso Fonseca",0
+"2008-02","Dave Brubeck",1
+"2008-02","Diana Krall",0
+"2008-02","Jamie Cullum",1
+"2008-02","Stan Getz",1

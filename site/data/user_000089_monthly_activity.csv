@@ -1,821 +1,821 @@
-month,artist,plays
-2005-12,Arcade Fire,2
-2005-12,Arctic Monkeys,1
-2005-12,Belle And Sebastian,1
-2005-12,Björk,5
-2005-12,Eisley,8
-2005-12,Feist,7
-2005-12,Fiona Apple,13
-2005-12,Interpol,4
-2005-12,Keane,2
-2005-12,Kings Of Leon,4
-2005-12,M.I.A.,6
-2005-12,Metric,5
-2005-12,Portishead,2
-2005-12,Radiohead,3
-2005-12,Rilo Kiley,12
-2005-12,Rufus Wainwright,0
-2005-12,Sia,0
-2005-12,Stars,3
-2005-12,The Cardigans,16
-2005-12,Yeah Yeah Yeahs,5
-2006-01,Arcade Fire,5
-2006-01,Arctic Monkeys,4
-2006-01,Belle And Sebastian,19
-2006-01,Björk,8
-2006-01,Eisley,12
-2006-01,Feist,7
-2006-01,Fiona Apple,35
-2006-01,Interpol,13
-2006-01,Keane,14
-2006-01,Kings Of Leon,8
-2006-01,M.I.A.,3
-2006-01,Metric,11
-2006-01,Portishead,2
-2006-01,Radiohead,4
-2006-01,Rilo Kiley,22
-2006-01,Rufus Wainwright,17
-2006-01,Sia,17
-2006-01,Stars,13
-2006-01,The Cardigans,28
-2006-01,Yeah Yeah Yeahs,5
-2006-02,Arcade Fire,1
-2006-02,Arctic Monkeys,15
-2006-02,Belle And Sebastian,24
-2006-02,Björk,3
-2006-02,Eisley,9
-2006-02,Feist,21
-2006-02,Fiona Apple,18
-2006-02,Interpol,4
-2006-02,Keane,4
-2006-02,Kings Of Leon,5
-2006-02,M.I.A.,6
-2006-02,Metric,3
-2006-02,Portishead,0
-2006-02,Radiohead,4
-2006-02,Rilo Kiley,3
-2006-02,Rufus Wainwright,12
-2006-02,Sia,10
-2006-02,Stars,3
-2006-02,The Cardigans,20
-2006-02,Yeah Yeah Yeahs,10
-2006-03,Arcade Fire,1
-2006-03,Arctic Monkeys,9
-2006-03,Belle And Sebastian,19
-2006-03,Björk,6
-2006-03,Eisley,2
-2006-03,Feist,1
-2006-03,Fiona Apple,12
-2006-03,Interpol,12
-2006-03,Keane,0
-2006-03,Kings Of Leon,6
-2006-03,M.I.A.,2
-2006-03,Metric,2
-2006-03,Portishead,2
-2006-03,Radiohead,8
-2006-03,Rilo Kiley,3
-2006-03,Rufus Wainwright,10
-2006-03,Sia,14
-2006-03,Stars,1
-2006-03,The Cardigans,10
-2006-03,Yeah Yeah Yeahs,38
-2006-04,Arcade Fire,3
-2006-04,Arctic Monkeys,5
-2006-04,Belle And Sebastian,15
-2006-04,Björk,18
-2006-04,Eisley,7
-2006-04,Feist,9
-2006-04,Fiona Apple,16
-2006-04,Interpol,7
-2006-04,Keane,5
-2006-04,Kings Of Leon,2
-2006-04,M.I.A.,7
-2006-04,Metric,4
-2006-04,Portishead,2
-2006-04,Radiohead,18
-2006-04,Rilo Kiley,11
-2006-04,Rufus Wainwright,8
-2006-04,Sia,10
-2006-04,Stars,5
-2006-04,The Cardigans,21
-2006-04,Yeah Yeah Yeahs,12
-2006-05,Arcade Fire,4
-2006-05,Arctic Monkeys,2
-2006-05,Belle And Sebastian,9
-2006-05,Björk,10
-2006-05,Eisley,3
-2006-05,Feist,3
-2006-05,Fiona Apple,12
-2006-05,Interpol,4
-2006-05,Keane,21
-2006-05,Kings Of Leon,1
-2006-05,M.I.A.,7
-2006-05,Metric,7
-2006-05,Portishead,5
-2006-05,Radiohead,31
-2006-05,Rilo Kiley,13
-2006-05,Rufus Wainwright,5
-2006-05,Sia,5
-2006-05,Stars,4
-2006-05,The Cardigans,8
-2006-05,Yeah Yeah Yeahs,21
-2006-06,Arcade Fire,10
-2006-06,Arctic Monkeys,49
-2006-06,Belle And Sebastian,33
-2006-06,Björk,9
-2006-06,Eisley,3
-2006-06,Feist,3
-2006-06,Fiona Apple,19
-2006-06,Interpol,21
-2006-06,Keane,92
-2006-06,Kings Of Leon,3
-2006-06,M.I.A.,6
-2006-06,Metric,7
-2006-06,Portishead,3
-2006-06,Radiohead,28
-2006-06,Rilo Kiley,5
-2006-06,Rufus Wainwright,10
-2006-06,Sia,13
-2006-06,Stars,5
-2006-06,The Cardigans,14
-2006-06,Yeah Yeah Yeahs,11
-2006-07,Arcade Fire,5
-2006-07,Arctic Monkeys,15
-2006-07,Belle And Sebastian,14
-2006-07,Björk,20
-2006-07,Eisley,5
-2006-07,Feist,10
-2006-07,Fiona Apple,12
-2006-07,Interpol,8
-2006-07,Keane,39
-2006-07,Kings Of Leon,4
-2006-07,M.I.A.,14
-2006-07,Metric,5
-2006-07,Portishead,2
-2006-07,Radiohead,33
-2006-07,Rilo Kiley,9
-2006-07,Rufus Wainwright,34
-2006-07,Sia,12
-2006-07,Stars,3
-2006-07,The Cardigans,17
-2006-07,Yeah Yeah Yeahs,25
-2006-08,Arcade Fire,1
-2006-08,Arctic Monkeys,25
-2006-08,Belle And Sebastian,8
-2006-08,Björk,8
-2006-08,Eisley,1
-2006-08,Feist,7
-2006-08,Fiona Apple,12
-2006-08,Interpol,20
-2006-08,Keane,33
-2006-08,Kings Of Leon,8
-2006-08,M.I.A.,2
-2006-08,Metric,2
-2006-08,Portishead,4
-2006-08,Radiohead,15
-2006-08,Rilo Kiley,4
-2006-08,Rufus Wainwright,23
-2006-08,Sia,8
-2006-08,Stars,3
-2006-08,The Cardigans,11
-2006-08,Yeah Yeah Yeahs,17
-2006-09,Arcade Fire,3
-2006-09,Arctic Monkeys,11
-2006-09,Belle And Sebastian,9
-2006-09,Björk,5
-2006-09,Eisley,17
-2006-09,Feist,9
-2006-09,Fiona Apple,19
-2006-09,Interpol,4
-2006-09,Keane,36
-2006-09,Kings Of Leon,0
-2006-09,M.I.A.,2
-2006-09,Metric,12
-2006-09,Portishead,1
-2006-09,Radiohead,13
-2006-09,Rilo Kiley,4
-2006-09,Rufus Wainwright,5
-2006-09,Sia,16
-2006-09,Stars,3
-2006-09,The Cardigans,20
-2006-09,Yeah Yeah Yeahs,6
-2006-10,Arcade Fire,1
-2006-10,Arctic Monkeys,9
-2006-10,Belle And Sebastian,16
-2006-10,Björk,10
-2006-10,Eisley,3
-2006-10,Feist,2
-2006-10,Fiona Apple,16
-2006-10,Interpol,9
-2006-10,Keane,27
-2006-10,Kings Of Leon,1
-2006-10,M.I.A.,3
-2006-10,Metric,4
-2006-10,Portishead,15
-2006-10,Radiohead,35
-2006-10,Rilo Kiley,4
-2006-10,Rufus Wainwright,8
-2006-10,Sia,17
-2006-10,Stars,1
-2006-10,The Cardigans,7
-2006-10,Yeah Yeah Yeahs,15
-2006-11,Arcade Fire,2
-2006-11,Arctic Monkeys,4
-2006-11,Belle And Sebastian,17
-2006-11,Björk,2
-2006-11,Eisley,6
-2006-11,Feist,4
-2006-11,Fiona Apple,20
-2006-11,Interpol,6
-2006-11,Keane,16
-2006-11,Kings Of Leon,2
-2006-11,M.I.A.,1
-2006-11,Metric,7
-2006-11,Portishead,3
-2006-11,Radiohead,16
-2006-11,Rilo Kiley,6
-2006-11,Rufus Wainwright,64
-2006-11,Sia,15
-2006-11,Stars,1
-2006-11,The Cardigans,14
-2006-11,Yeah Yeah Yeahs,3
-2006-12,Arcade Fire,4
-2006-12,Arctic Monkeys,20
-2006-12,Belle And Sebastian,6
-2006-12,Björk,1
-2006-12,Eisley,4
-2006-12,Feist,4
-2006-12,Fiona Apple,12
-2006-12,Interpol,10
-2006-12,Keane,29
-2006-12,Kings Of Leon,0
-2006-12,M.I.A.,0
-2006-12,Metric,2
-2006-12,Portishead,0
-2006-12,Radiohead,23
-2006-12,Rilo Kiley,6
-2006-12,Rufus Wainwright,22
-2006-12,Sia,22
-2006-12,Stars,1
-2006-12,The Cardigans,7
-2006-12,Yeah Yeah Yeahs,6
-2007-01,Arcade Fire,12
-2007-01,Arctic Monkeys,9
-2007-01,Belle And Sebastian,16
-2007-01,Björk,23
-2007-01,Eisley,4
-2007-01,Feist,0
-2007-01,Fiona Apple,7
-2007-01,Interpol,9
-2007-01,Keane,24
-2007-01,Kings Of Leon,1
-2007-01,M.I.A.,0
-2007-01,Metric,4
-2007-01,Portishead,2
-2007-01,Radiohead,33
-2007-01,Rilo Kiley,2
-2007-01,Rufus Wainwright,28
-2007-01,Sia,8
-2007-01,Stars,1
-2007-01,The Cardigans,18
-2007-01,Yeah Yeah Yeahs,7
-2007-02,Arcade Fire,16
-2007-02,Arctic Monkeys,6
-2007-02,Belle And Sebastian,11
-2007-02,Björk,4
-2007-02,Eisley,2
-2007-02,Feist,7
-2007-02,Fiona Apple,18
-2007-02,Interpol,4
-2007-02,Keane,11
-2007-02,Kings Of Leon,1
-2007-02,M.I.A.,2
-2007-02,Metric,16
-2007-02,Portishead,19
-2007-02,Radiohead,12
-2007-02,Rilo Kiley,2
-2007-02,Rufus Wainwright,17
-2007-02,Sia,7
-2007-02,Stars,0
-2007-02,The Cardigans,6
-2007-02,Yeah Yeah Yeahs,7
-2007-03,Arcade Fire,87
-2007-03,Arctic Monkeys,23
-2007-03,Belle And Sebastian,5
-2007-03,Björk,15
-2007-03,Eisley,1
-2007-03,Feist,121
-2007-03,Fiona Apple,9
-2007-03,Interpol,14
-2007-03,Keane,9
-2007-03,Kings Of Leon,44
-2007-03,M.I.A.,4
-2007-03,Metric,2
-2007-03,Portishead,4
-2007-03,Radiohead,43
-2007-03,Rilo Kiley,1
-2007-03,Rufus Wainwright,9
-2007-03,Sia,7
-2007-03,Stars,7
-2007-03,The Cardigans,4
-2007-03,Yeah Yeah Yeahs,5
-2007-04,Arcade Fire,29
-2007-04,Arctic Monkeys,52
-2007-04,Belle And Sebastian,5
-2007-04,Björk,18
-2007-04,Eisley,2
-2007-04,Feist,67
-2007-04,Fiona Apple,18
-2007-04,Interpol,2
-2007-04,Keane,12
-2007-04,Kings Of Leon,25
-2007-04,M.I.A.,14
-2007-04,Metric,5
-2007-04,Portishead,6
-2007-04,Radiohead,10
-2007-04,Rilo Kiley,0
-2007-04,Rufus Wainwright,13
-2007-04,Sia,6
-2007-04,Stars,1
-2007-04,The Cardigans,5
-2007-04,Yeah Yeah Yeahs,3
-2007-05,Arcade Fire,52
-2007-05,Arctic Monkeys,45
-2007-05,Belle And Sebastian,9
-2007-05,Björk,11
-2007-05,Eisley,1
-2007-05,Feist,62
-2007-05,Fiona Apple,10
-2007-05,Interpol,43
-2007-05,Keane,5
-2007-05,Kings Of Leon,20
-2007-05,M.I.A.,1
-2007-05,Metric,18
-2007-05,Portishead,2
-2007-05,Radiohead,1
-2007-05,Rilo Kiley,8
-2007-05,Rufus Wainwright,59
-2007-05,Sia,1
-2007-05,Stars,1
-2007-05,The Cardigans,5
-2007-05,Yeah Yeah Yeahs,6
-2007-06,Arcade Fire,23
-2007-06,Arctic Monkeys,28
-2007-06,Belle And Sebastian,2
-2007-06,Björk,2
-2007-06,Eisley,0
-2007-06,Feist,55
-2007-06,Fiona Apple,16
-2007-06,Interpol,30
-2007-06,Keane,0
-2007-06,Kings Of Leon,9
-2007-06,M.I.A.,4
-2007-06,Metric,22
-2007-06,Portishead,1
-2007-06,Radiohead,5
-2007-06,Rilo Kiley,3
-2007-06,Rufus Wainwright,28
-2007-06,Sia,2
-2007-06,Stars,1
-2007-06,The Cardigans,2
-2007-06,Yeah Yeah Yeahs,14
-2007-07,Arcade Fire,14
-2007-07,Arctic Monkeys,5
-2007-07,Belle And Sebastian,5
-2007-07,Björk,14
-2007-07,Eisley,37
-2007-07,Feist,50
-2007-07,Fiona Apple,10
-2007-07,Interpol,49
-2007-07,Keane,2
-2007-07,Kings Of Leon,5
-2007-07,M.I.A.,5
-2007-07,Metric,17
-2007-07,Portishead,5
-2007-07,Radiohead,18
-2007-07,Rilo Kiley,41
-2007-07,Rufus Wainwright,11
-2007-07,Sia,14
-2007-07,Stars,28
-2007-07,The Cardigans,2
-2007-07,Yeah Yeah Yeahs,16
-2007-08,Arcade Fire,11
-2007-08,Arctic Monkeys,4
-2007-08,Belle And Sebastian,6
-2007-08,Björk,4
-2007-08,Eisley,45
-2007-08,Feist,24
-2007-08,Fiona Apple,6
-2007-08,Interpol,22
-2007-08,Keane,1
-2007-08,Kings Of Leon,4
-2007-08,M.I.A.,32
-2007-08,Metric,7
-2007-08,Portishead,9
-2007-08,Radiohead,7
-2007-08,Rilo Kiley,44
-2007-08,Rufus Wainwright,30
-2007-08,Sia,1
-2007-08,Stars,17
-2007-08,The Cardigans,0
-2007-08,Yeah Yeah Yeahs,12
-2007-09,Arcade Fire,18
-2007-09,Arctic Monkeys,25
-2007-09,Belle And Sebastian,10
-2007-09,Björk,4
-2007-09,Eisley,19
-2007-09,Feist,16
-2007-09,Fiona Apple,7
-2007-09,Interpol,24
-2007-09,Keane,1
-2007-09,Kings Of Leon,17
-2007-09,M.I.A.,17
-2007-09,Metric,6
-2007-09,Portishead,1
-2007-09,Radiohead,20
-2007-09,Rilo Kiley,12
-2007-09,Rufus Wainwright,9
-2007-09,Sia,4
-2007-09,Stars,35
-2007-09,The Cardigans,2
-2007-09,Yeah Yeah Yeahs,14
-2007-10,Arcade Fire,7
-2007-10,Arctic Monkeys,15
-2007-10,Belle And Sebastian,3
-2007-10,Björk,3
-2007-10,Eisley,7
-2007-10,Feist,34
-2007-10,Fiona Apple,7
-2007-10,Interpol,3
-2007-10,Keane,1
-2007-10,Kings Of Leon,21
-2007-10,M.I.A.,2
-2007-10,Metric,6
-2007-10,Portishead,12
-2007-10,Radiohead,93
-2007-10,Rilo Kiley,2
-2007-10,Rufus Wainwright,10
-2007-10,Sia,6
-2007-10,Stars,8
-2007-10,The Cardigans,1
-2007-10,Yeah Yeah Yeahs,5
-2007-11,Arcade Fire,16
-2007-11,Arctic Monkeys,12
-2007-11,Belle And Sebastian,8
-2007-11,Björk,6
-2007-11,Eisley,13
-2007-11,Feist,11
-2007-11,Fiona Apple,2
-2007-11,Interpol,18
-2007-11,Keane,6
-2007-11,Kings Of Leon,2
-2007-11,M.I.A.,9
-2007-11,Metric,47
-2007-11,Portishead,3
-2007-11,Radiohead,31
-2007-11,Rilo Kiley,4
-2007-11,Rufus Wainwright,7
-2007-11,Sia,6
-2007-11,Stars,12
-2007-11,The Cardigans,2
-2007-11,Yeah Yeah Yeahs,4
-2007-12,Arcade Fire,17
-2007-12,Arctic Monkeys,4
-2007-12,Belle And Sebastian,6
-2007-12,Björk,1
-2007-12,Eisley,4
-2007-12,Feist,44
-2007-12,Fiona Apple,17
-2007-12,Interpol,1
-2007-12,Keane,1
-2007-12,Kings Of Leon,3
-2007-12,M.I.A.,19
-2007-12,Metric,3
-2007-12,Portishead,3
-2007-12,Radiohead,27
-2007-12,Rilo Kiley,17
-2007-12,Rufus Wainwright,27
-2007-12,Sia,16
-2007-12,Stars,12
-2007-12,The Cardigans,1
-2007-12,Yeah Yeah Yeahs,1
-2008-01,Arcade Fire,14
-2008-01,Arctic Monkeys,5
-2008-01,Belle And Sebastian,5
-2008-01,Björk,6
-2008-01,Eisley,19
-2008-01,Feist,15
-2008-01,Fiona Apple,2
-2008-01,Interpol,10
-2008-01,Keane,2
-2008-01,Kings Of Leon,1
-2008-01,M.I.A.,9
-2008-01,Metric,5
-2008-01,Portishead,5
-2008-01,Radiohead,28
-2008-01,Rilo Kiley,5
-2008-01,Rufus Wainwright,7
-2008-01,Sia,79
-2008-01,Stars,4
-2008-01,The Cardigans,1
-2008-01,Yeah Yeah Yeahs,7
-2008-02,Arcade Fire,10
-2008-02,Arctic Monkeys,4
-2008-02,Belle And Sebastian,5
-2008-02,Björk,4
-2008-02,Eisley,3
-2008-02,Feist,15
-2008-02,Fiona Apple,3
-2008-02,Interpol,21
-2008-02,Keane,1
-2008-02,Kings Of Leon,4
-2008-02,M.I.A.,7
-2008-02,Metric,40
-2008-02,Portishead,16
-2008-02,Radiohead,41
-2008-02,Rilo Kiley,18
-2008-02,Rufus Wainwright,4
-2008-02,Sia,21
-2008-02,Stars,4
-2008-02,The Cardigans,7
-2008-02,Yeah Yeah Yeahs,5
-2008-03,Arcade Fire,13
-2008-03,Arctic Monkeys,17
-2008-03,Belle And Sebastian,0
-2008-03,Björk,3
-2008-03,Eisley,25
-2008-03,Feist,16
-2008-03,Fiona Apple,2
-2008-03,Interpol,15
-2008-03,Keane,2
-2008-03,Kings Of Leon,18
-2008-03,M.I.A.,8
-2008-03,Metric,4
-2008-03,Portishead,20
-2008-03,Radiohead,63
-2008-03,Rilo Kiley,6
-2008-03,Rufus Wainwright,3
-2008-03,Sia,46
-2008-03,Stars,3
-2008-03,The Cardigans,0
-2008-03,Yeah Yeah Yeahs,8
-2008-04,Arcade Fire,11
-2008-04,Arctic Monkeys,19
-2008-04,Belle And Sebastian,16
-2008-04,Björk,8
-2008-04,Eisley,3
-2008-04,Feist,25
-2008-04,Fiona Apple,0
-2008-04,Interpol,1
-2008-04,Keane,1
-2008-04,Kings Of Leon,1
-2008-04,M.I.A.,3
-2008-04,Metric,15
-2008-04,Portishead,21
-2008-04,Radiohead,9
-2008-04,Rilo Kiley,3
-2008-04,Rufus Wainwright,1
-2008-04,Sia,7
-2008-04,Stars,14
-2008-04,The Cardigans,8
-2008-04,Yeah Yeah Yeahs,0
-2008-05,Arcade Fire,8
-2008-05,Arctic Monkeys,8
-2008-05,Belle And Sebastian,4
-2008-05,Björk,1
-2008-05,Eisley,10
-2008-05,Feist,16
-2008-05,Fiona Apple,1
-2008-05,Interpol,7
-2008-05,Keane,0
-2008-05,Kings Of Leon,11
-2008-05,M.I.A.,14
-2008-05,Metric,11
-2008-05,Portishead,21
-2008-05,Radiohead,92
-2008-05,Rilo Kiley,3
-2008-05,Rufus Wainwright,2
-2008-05,Sia,13
-2008-05,Stars,1
-2008-05,The Cardigans,1
-2008-05,Yeah Yeah Yeahs,0
-2008-06,Arcade Fire,10
-2008-06,Arctic Monkeys,12
-2008-06,Belle And Sebastian,10
-2008-06,Björk,7
-2008-06,Eisley,5
-2008-06,Feist,1
-2008-06,Fiona Apple,6
-2008-06,Interpol,4
-2008-06,Keane,13
-2008-06,Kings Of Leon,9
-2008-06,M.I.A.,3
-2008-06,Metric,20
-2008-06,Portishead,20
-2008-06,Radiohead,49
-2008-06,Rilo Kiley,0
-2008-06,Rufus Wainwright,3
-2008-06,Sia,18
-2008-06,Stars,4
-2008-06,The Cardigans,7
-2008-06,Yeah Yeah Yeahs,1
-2008-07,Arcade Fire,5
-2008-07,Arctic Monkeys,7
-2008-07,Belle And Sebastian,4
-2008-07,Björk,46
-2008-07,Eisley,6
-2008-07,Feist,6
-2008-07,Fiona Apple,1
-2008-07,Interpol,10
-2008-07,Keane,1
-2008-07,Kings Of Leon,66
-2008-07,M.I.A.,9
-2008-07,Metric,4
-2008-07,Portishead,5
-2008-07,Radiohead,10
-2008-07,Rilo Kiley,18
-2008-07,Rufus Wainwright,8
-2008-07,Sia,7
-2008-07,Stars,1
-2008-07,The Cardigans,2
-2008-07,Yeah Yeah Yeahs,7
-2008-08,Arcade Fire,8
-2008-08,Arctic Monkeys,16
-2008-08,Belle And Sebastian,5
-2008-08,Björk,4
-2008-08,Eisley,15
-2008-08,Feist,5
-2008-08,Fiona Apple,7
-2008-08,Interpol,13
-2008-08,Keane,15
-2008-08,Kings Of Leon,40
-2008-08,M.I.A.,16
-2008-08,Metric,60
-2008-08,Portishead,3
-2008-08,Radiohead,8
-2008-08,Rilo Kiley,2
-2008-08,Rufus Wainwright,17
-2008-08,Sia,22
-2008-08,Stars,9
-2008-08,The Cardigans,2
-2008-08,Yeah Yeah Yeahs,10
-2008-09,Arcade Fire,11
-2008-09,Arctic Monkeys,2
-2008-09,Belle And Sebastian,2
-2008-09,Björk,4
-2008-09,Eisley,3
-2008-09,Feist,16
-2008-09,Fiona Apple,1
-2008-09,Interpol,10
-2008-09,Keane,4
-2008-09,Kings Of Leon,40
-2008-09,M.I.A.,2
-2008-09,Metric,16
-2008-09,Portishead,4
-2008-09,Radiohead,11
-2008-09,Rilo Kiley,5
-2008-09,Rufus Wainwright,30
-2008-09,Sia,3
-2008-09,Stars,49
-2008-09,The Cardigans,2
-2008-09,Yeah Yeah Yeahs,3
-2008-10,Arcade Fire,8
-2008-10,Arctic Monkeys,1
-2008-10,Belle And Sebastian,1
-2008-10,Björk,3
-2008-10,Eisley,0
-2008-10,Feist,31
-2008-10,Fiona Apple,1
-2008-10,Interpol,1
-2008-10,Keane,70
-2008-10,Kings Of Leon,14
-2008-10,M.I.A.,9
-2008-10,Metric,13
-2008-10,Portishead,2
-2008-10,Radiohead,54
-2008-10,Rilo Kiley,2
-2008-10,Rufus Wainwright,1
-2008-10,Sia,0
-2008-10,Stars,8
-2008-10,The Cardigans,1
-2008-10,Yeah Yeah Yeahs,15
-2008-11,Arcade Fire,4
-2008-11,Arctic Monkeys,5
-2008-11,Belle And Sebastian,8
-2008-11,Björk,4
-2008-11,Eisley,1
-2008-11,Feist,5
-2008-11,Fiona Apple,4
-2008-11,Interpol,1
-2008-11,Keane,6
-2008-11,Kings Of Leon,16
-2008-11,M.I.A.,1
-2008-11,Metric,5
-2008-11,Portishead,4
-2008-11,Radiohead,24
-2008-11,Rilo Kiley,7
-2008-11,Rufus Wainwright,17
-2008-11,Sia,7
-2008-11,Stars,11
-2008-11,The Cardigans,6
-2008-11,Yeah Yeah Yeahs,9
-2008-12,Arcade Fire,3
-2008-12,Arctic Monkeys,0
-2008-12,Belle And Sebastian,4
-2008-12,Björk,1
-2008-12,Eisley,11
-2008-12,Feist,5
-2008-12,Fiona Apple,11
-2008-12,Interpol,1
-2008-12,Keane,4
-2008-12,Kings Of Leon,30
-2008-12,M.I.A.,16
-2008-12,Metric,5
-2008-12,Portishead,6
-2008-12,Radiohead,16
-2008-12,Rilo Kiley,17
-2008-12,Rufus Wainwright,12
-2008-12,Sia,12
-2008-12,Stars,5
-2008-12,The Cardigans,1
-2008-12,Yeah Yeah Yeahs,1
-2009-01,Arcade Fire,5
-2009-01,Arctic Monkeys,1
-2009-01,Belle And Sebastian,4
-2009-01,Björk,2
-2009-01,Eisley,8
-2009-01,Feist,9
-2009-01,Fiona Apple,3
-2009-01,Interpol,2
-2009-01,Keane,3
-2009-01,Kings Of Leon,23
-2009-01,M.I.A.,4
-2009-01,Metric,9
-2009-01,Portishead,5
-2009-01,Radiohead,56
-2009-01,Rilo Kiley,1
-2009-01,Rufus Wainwright,2
-2009-01,Sia,7
-2009-01,Stars,2
-2009-01,The Cardigans,2
-2009-01,Yeah Yeah Yeahs,1
-2009-02,Arcade Fire,4
-2009-02,Arctic Monkeys,0
-2009-02,Belle And Sebastian,3
-2009-02,Björk,2
-2009-02,Eisley,3
-2009-02,Feist,12
-2009-02,Fiona Apple,0
-2009-02,Interpol,1
-2009-02,Keane,2
-2009-02,Kings Of Leon,29
-2009-02,M.I.A.,3
-2009-02,Metric,24
-2009-02,Portishead,2
-2009-02,Radiohead,26
-2009-02,Rilo Kiley,4
-2009-02,Rufus Wainwright,3
-2009-02,Sia,5
-2009-02,Stars,6
-2009-02,The Cardigans,3
-2009-02,Yeah Yeah Yeahs,10
-2009-03,Arcade Fire,11
-2009-03,Arctic Monkeys,1
-2009-03,Belle And Sebastian,2
-2009-03,Björk,5
-2009-03,Eisley,0
-2009-03,Feist,2
-2009-03,Fiona Apple,3
-2009-03,Interpol,1
-2009-03,Keane,1
-2009-03,Kings Of Leon,5
-2009-03,M.I.A.,1
-2009-03,Metric,211
-2009-03,Portishead,1
-2009-03,Radiohead,37
-2009-03,Rilo Kiley,2
-2009-03,Rufus Wainwright,9
-2009-03,Sia,4
-2009-03,Stars,16
-2009-03,The Cardigans,10
-2009-03,Yeah Yeah Yeahs,51
-2009-04,Arcade Fire,3
-2009-04,Arctic Monkeys,0
-2009-04,Belle And Sebastian,3
-2009-04,Björk,0
-2009-04,Eisley,4
-2009-04,Feist,4
-2009-04,Fiona Apple,12
-2009-04,Interpol,0
-2009-04,Keane,5
-2009-04,Kings Of Leon,13
-2009-04,M.I.A.,3
-2009-04,Metric,70
-2009-04,Portishead,0
-2009-04,Radiohead,20
-2009-04,Rilo Kiley,2
-2009-04,Rufus Wainwright,4
-2009-04,Sia,11
-2009-04,Stars,17
-2009-04,The Cardigans,3
-2009-04,Yeah Yeah Yeahs,10
+"month","artist","plays"
+"2005-12","Arcade Fire",2
+"2005-12","Arctic Monkeys",1
+"2005-12","Belle And Sebastian",1
+"2005-12","Björk",5
+"2005-12","Eisley",8
+"2005-12","Feist",7
+"2005-12","Fiona Apple",13
+"2005-12","Interpol",4
+"2005-12","Keane",2
+"2005-12","Kings Of Leon",4
+"2005-12","M.I.A.",6
+"2005-12","Metric",5
+"2005-12","Portishead",2
+"2005-12","Radiohead",3
+"2005-12","Rilo Kiley",12
+"2005-12","Rufus Wainwright",0
+"2005-12","Sia",0
+"2005-12","Stars",3
+"2005-12","The Cardigans",16
+"2005-12","Yeah Yeah Yeahs",5
+"2006-01","Arcade Fire",5
+"2006-01","Arctic Monkeys",4
+"2006-01","Belle And Sebastian",19
+"2006-01","Björk",8
+"2006-01","Eisley",12
+"2006-01","Feist",7
+"2006-01","Fiona Apple",35
+"2006-01","Interpol",13
+"2006-01","Keane",14
+"2006-01","Kings Of Leon",8
+"2006-01","M.I.A.",3
+"2006-01","Metric",11
+"2006-01","Portishead",2
+"2006-01","Radiohead",4
+"2006-01","Rilo Kiley",22
+"2006-01","Rufus Wainwright",17
+"2006-01","Sia",17
+"2006-01","Stars",13
+"2006-01","The Cardigans",28
+"2006-01","Yeah Yeah Yeahs",5
+"2006-02","Arcade Fire",1
+"2006-02","Arctic Monkeys",15
+"2006-02","Belle And Sebastian",24
+"2006-02","Björk",3
+"2006-02","Eisley",9
+"2006-02","Feist",21
+"2006-02","Fiona Apple",18
+"2006-02","Interpol",4
+"2006-02","Keane",4
+"2006-02","Kings Of Leon",5
+"2006-02","M.I.A.",6
+"2006-02","Metric",3
+"2006-02","Portishead",0
+"2006-02","Radiohead",4
+"2006-02","Rilo Kiley",3
+"2006-02","Rufus Wainwright",12
+"2006-02","Sia",10
+"2006-02","Stars",3
+"2006-02","The Cardigans",20
+"2006-02","Yeah Yeah Yeahs",10
+"2006-03","Arcade Fire",1
+"2006-03","Arctic Monkeys",9
+"2006-03","Belle And Sebastian",19
+"2006-03","Björk",6
+"2006-03","Eisley",2
+"2006-03","Feist",1
+"2006-03","Fiona Apple",12
+"2006-03","Interpol",12
+"2006-03","Keane",0
+"2006-03","Kings Of Leon",6
+"2006-03","M.I.A.",2
+"2006-03","Metric",2
+"2006-03","Portishead",2
+"2006-03","Radiohead",8
+"2006-03","Rilo Kiley",3
+"2006-03","Rufus Wainwright",10
+"2006-03","Sia",14
+"2006-03","Stars",1
+"2006-03","The Cardigans",10
+"2006-03","Yeah Yeah Yeahs",38
+"2006-04","Arcade Fire",3
+"2006-04","Arctic Monkeys",5
+"2006-04","Belle And Sebastian",15
+"2006-04","Björk",18
+"2006-04","Eisley",7
+"2006-04","Feist",9
+"2006-04","Fiona Apple",16
+"2006-04","Interpol",7
+"2006-04","Keane",5
+"2006-04","Kings Of Leon",2
+"2006-04","M.I.A.",7
+"2006-04","Metric",4
+"2006-04","Portishead",2
+"2006-04","Radiohead",18
+"2006-04","Rilo Kiley",11
+"2006-04","Rufus Wainwright",8
+"2006-04","Sia",10
+"2006-04","Stars",5
+"2006-04","The Cardigans",21
+"2006-04","Yeah Yeah Yeahs",12
+"2006-05","Arcade Fire",4
+"2006-05","Arctic Monkeys",2
+"2006-05","Belle And Sebastian",9
+"2006-05","Björk",10
+"2006-05","Eisley",3
+"2006-05","Feist",3
+"2006-05","Fiona Apple",12
+"2006-05","Interpol",4
+"2006-05","Keane",21
+"2006-05","Kings Of Leon",1
+"2006-05","M.I.A.",7
+"2006-05","Metric",7
+"2006-05","Portishead",5
+"2006-05","Radiohead",31
+"2006-05","Rilo Kiley",13
+"2006-05","Rufus Wainwright",5
+"2006-05","Sia",5
+"2006-05","Stars",4
+"2006-05","The Cardigans",8
+"2006-05","Yeah Yeah Yeahs",21
+"2006-06","Arcade Fire",10
+"2006-06","Arctic Monkeys",49
+"2006-06","Belle And Sebastian",33
+"2006-06","Björk",9
+"2006-06","Eisley",3
+"2006-06","Feist",3
+"2006-06","Fiona Apple",19
+"2006-06","Interpol",21
+"2006-06","Keane",92
+"2006-06","Kings Of Leon",3
+"2006-06","M.I.A.",6
+"2006-06","Metric",7
+"2006-06","Portishead",3
+"2006-06","Radiohead",28
+"2006-06","Rilo Kiley",5
+"2006-06","Rufus Wainwright",10
+"2006-06","Sia",13
+"2006-06","Stars",5
+"2006-06","The Cardigans",14
+"2006-06","Yeah Yeah Yeahs",11
+"2006-07","Arcade Fire",5
+"2006-07","Arctic Monkeys",15
+"2006-07","Belle And Sebastian",14
+"2006-07","Björk",20
+"2006-07","Eisley",5
+"2006-07","Feist",10
+"2006-07","Fiona Apple",12
+"2006-07","Interpol",8
+"2006-07","Keane",39
+"2006-07","Kings Of Leon",4
+"2006-07","M.I.A.",14
+"2006-07","Metric",5
+"2006-07","Portishead",2
+"2006-07","Radiohead",33
+"2006-07","Rilo Kiley",9
+"2006-07","Rufus Wainwright",34
+"2006-07","Sia",12
+"2006-07","Stars",3
+"2006-07","The Cardigans",17
+"2006-07","Yeah Yeah Yeahs",25
+"2006-08","Arcade Fire",1
+"2006-08","Arctic Monkeys",25
+"2006-08","Belle And Sebastian",8
+"2006-08","Björk",8
+"2006-08","Eisley",1
+"2006-08","Feist",7
+"2006-08","Fiona Apple",12
+"2006-08","Interpol",20
+"2006-08","Keane",33
+"2006-08","Kings Of Leon",8
+"2006-08","M.I.A.",2
+"2006-08","Metric",2
+"2006-08","Portishead",4
+"2006-08","Radiohead",15
+"2006-08","Rilo Kiley",4
+"2006-08","Rufus Wainwright",23
+"2006-08","Sia",8
+"2006-08","Stars",3
+"2006-08","The Cardigans",11
+"2006-08","Yeah Yeah Yeahs",17
+"2006-09","Arcade Fire",3
+"2006-09","Arctic Monkeys",11
+"2006-09","Belle And Sebastian",9
+"2006-09","Björk",5
+"2006-09","Eisley",17
+"2006-09","Feist",9
+"2006-09","Fiona Apple",19
+"2006-09","Interpol",4
+"2006-09","Keane",36
+"2006-09","Kings Of Leon",0
+"2006-09","M.I.A.",2
+"2006-09","Metric",12
+"2006-09","Portishead",1
+"2006-09","Radiohead",13
+"2006-09","Rilo Kiley",4
+"2006-09","Rufus Wainwright",5
+"2006-09","Sia",16
+"2006-09","Stars",3
+"2006-09","The Cardigans",20
+"2006-09","Yeah Yeah Yeahs",6
+"2006-10","Arcade Fire",1
+"2006-10","Arctic Monkeys",9
+"2006-10","Belle And Sebastian",16
+"2006-10","Björk",10
+"2006-10","Eisley",3
+"2006-10","Feist",2
+"2006-10","Fiona Apple",16
+"2006-10","Interpol",9
+"2006-10","Keane",27
+"2006-10","Kings Of Leon",1
+"2006-10","M.I.A.",3
+"2006-10","Metric",4
+"2006-10","Portishead",15
+"2006-10","Radiohead",35
+"2006-10","Rilo Kiley",4
+"2006-10","Rufus Wainwright",8
+"2006-10","Sia",17
+"2006-10","Stars",1
+"2006-10","The Cardigans",7
+"2006-10","Yeah Yeah Yeahs",15
+"2006-11","Arcade Fire",2
+"2006-11","Arctic Monkeys",4
+"2006-11","Belle And Sebastian",17
+"2006-11","Björk",2
+"2006-11","Eisley",6
+"2006-11","Feist",4
+"2006-11","Fiona Apple",20
+"2006-11","Interpol",6
+"2006-11","Keane",16
+"2006-11","Kings Of Leon",2
+"2006-11","M.I.A.",1
+"2006-11","Metric",7
+"2006-11","Portishead",3
+"2006-11","Radiohead",16
+"2006-11","Rilo Kiley",6
+"2006-11","Rufus Wainwright",64
+"2006-11","Sia",15
+"2006-11","Stars",1
+"2006-11","The Cardigans",14
+"2006-11","Yeah Yeah Yeahs",3
+"2006-12","Arcade Fire",4
+"2006-12","Arctic Monkeys",20
+"2006-12","Belle And Sebastian",6
+"2006-12","Björk",1
+"2006-12","Eisley",4
+"2006-12","Feist",4
+"2006-12","Fiona Apple",12
+"2006-12","Interpol",10
+"2006-12","Keane",29
+"2006-12","Kings Of Leon",0
+"2006-12","M.I.A.",0
+"2006-12","Metric",2
+"2006-12","Portishead",0
+"2006-12","Radiohead",23
+"2006-12","Rilo Kiley",6
+"2006-12","Rufus Wainwright",22
+"2006-12","Sia",22
+"2006-12","Stars",1
+"2006-12","The Cardigans",7
+"2006-12","Yeah Yeah Yeahs",6
+"2007-01","Arcade Fire",12
+"2007-01","Arctic Monkeys",9
+"2007-01","Belle And Sebastian",16
+"2007-01","Björk",23
+"2007-01","Eisley",4
+"2007-01","Feist",0
+"2007-01","Fiona Apple",7
+"2007-01","Interpol",9
+"2007-01","Keane",24
+"2007-01","Kings Of Leon",1
+"2007-01","M.I.A.",0
+"2007-01","Metric",4
+"2007-01","Portishead",2
+"2007-01","Radiohead",33
+"2007-01","Rilo Kiley",2
+"2007-01","Rufus Wainwright",28
+"2007-01","Sia",8
+"2007-01","Stars",1
+"2007-01","The Cardigans",18
+"2007-01","Yeah Yeah Yeahs",7
+"2007-02","Arcade Fire",16
+"2007-02","Arctic Monkeys",6
+"2007-02","Belle And Sebastian",11
+"2007-02","Björk",4
+"2007-02","Eisley",2
+"2007-02","Feist",7
+"2007-02","Fiona Apple",18
+"2007-02","Interpol",4
+"2007-02","Keane",11
+"2007-02","Kings Of Leon",1
+"2007-02","M.I.A.",2
+"2007-02","Metric",16
+"2007-02","Portishead",19
+"2007-02","Radiohead",12
+"2007-02","Rilo Kiley",2
+"2007-02","Rufus Wainwright",17
+"2007-02","Sia",7
+"2007-02","Stars",0
+"2007-02","The Cardigans",6
+"2007-02","Yeah Yeah Yeahs",7
+"2007-03","Arcade Fire",87
+"2007-03","Arctic Monkeys",23
+"2007-03","Belle And Sebastian",5
+"2007-03","Björk",15
+"2007-03","Eisley",1
+"2007-03","Feist",121
+"2007-03","Fiona Apple",9
+"2007-03","Interpol",14
+"2007-03","Keane",9
+"2007-03","Kings Of Leon",44
+"2007-03","M.I.A.",4
+"2007-03","Metric",2
+"2007-03","Portishead",4
+"2007-03","Radiohead",43
+"2007-03","Rilo Kiley",1
+"2007-03","Rufus Wainwright",9
+"2007-03","Sia",7
+"2007-03","Stars",7
+"2007-03","The Cardigans",4
+"2007-03","Yeah Yeah Yeahs",5
+"2007-04","Arcade Fire",29
+"2007-04","Arctic Monkeys",52
+"2007-04","Belle And Sebastian",5
+"2007-04","Björk",18
+"2007-04","Eisley",2
+"2007-04","Feist",67
+"2007-04","Fiona Apple",18
+"2007-04","Interpol",2
+"2007-04","Keane",12
+"2007-04","Kings Of Leon",25
+"2007-04","M.I.A.",14
+"2007-04","Metric",5
+"2007-04","Portishead",6
+"2007-04","Radiohead",10
+"2007-04","Rilo Kiley",0
+"2007-04","Rufus Wainwright",13
+"2007-04","Sia",6
+"2007-04","Stars",1
+"2007-04","The Cardigans",5
+"2007-04","Yeah Yeah Yeahs",3
+"2007-05","Arcade Fire",52
+"2007-05","Arctic Monkeys",45
+"2007-05","Belle And Sebastian",9
+"2007-05","Björk",11
+"2007-05","Eisley",1
+"2007-05","Feist",62
+"2007-05","Fiona Apple",10
+"2007-05","Interpol",43
+"2007-05","Keane",5
+"2007-05","Kings Of Leon",20
+"2007-05","M.I.A.",1
+"2007-05","Metric",18
+"2007-05","Portishead",2
+"2007-05","Radiohead",1
+"2007-05","Rilo Kiley",8
+"2007-05","Rufus Wainwright",59
+"2007-05","Sia",1
+"2007-05","Stars",1
+"2007-05","The Cardigans",5
+"2007-05","Yeah Yeah Yeahs",6
+"2007-06","Arcade Fire",23
+"2007-06","Arctic Monkeys",28
+"2007-06","Belle And Sebastian",2
+"2007-06","Björk",2
+"2007-06","Eisley",0
+"2007-06","Feist",55
+"2007-06","Fiona Apple",16
+"2007-06","Interpol",30
+"2007-06","Keane",0
+"2007-06","Kings Of Leon",9
+"2007-06","M.I.A.",4
+"2007-06","Metric",22
+"2007-06","Portishead",1
+"2007-06","Radiohead",5
+"2007-06","Rilo Kiley",3
+"2007-06","Rufus Wainwright",28
+"2007-06","Sia",2
+"2007-06","Stars",1
+"2007-06","The Cardigans",2
+"2007-06","Yeah Yeah Yeahs",14
+"2007-07","Arcade Fire",14
+"2007-07","Arctic Monkeys",5
+"2007-07","Belle And Sebastian",5
+"2007-07","Björk",14
+"2007-07","Eisley",37
+"2007-07","Feist",50
+"2007-07","Fiona Apple",10
+"2007-07","Interpol",49
+"2007-07","Keane",2
+"2007-07","Kings Of Leon",5
+"2007-07","M.I.A.",5
+"2007-07","Metric",17
+"2007-07","Portishead",5
+"2007-07","Radiohead",18
+"2007-07","Rilo Kiley",41
+"2007-07","Rufus Wainwright",11
+"2007-07","Sia",14
+"2007-07","Stars",28
+"2007-07","The Cardigans",2
+"2007-07","Yeah Yeah Yeahs",16
+"2007-08","Arcade Fire",11
+"2007-08","Arctic Monkeys",4
+"2007-08","Belle And Sebastian",6
+"2007-08","Björk",4
+"2007-08","Eisley",45
+"2007-08","Feist",24
+"2007-08","Fiona Apple",6
+"2007-08","Interpol",22
+"2007-08","Keane",1
+"2007-08","Kings Of Leon",4
+"2007-08","M.I.A.",32
+"2007-08","Metric",7
+"2007-08","Portishead",9
+"2007-08","Radiohead",7
+"2007-08","Rilo Kiley",44
+"2007-08","Rufus Wainwright",30
+"2007-08","Sia",1
+"2007-08","Stars",17
+"2007-08","The Cardigans",0
+"2007-08","Yeah Yeah Yeahs",12
+"2007-09","Arcade Fire",18
+"2007-09","Arctic Monkeys",25
+"2007-09","Belle And Sebastian",10
+"2007-09","Björk",4
+"2007-09","Eisley",19
+"2007-09","Feist",16
+"2007-09","Fiona Apple",7
+"2007-09","Interpol",24
+"2007-09","Keane",1
+"2007-09","Kings Of Leon",17
+"2007-09","M.I.A.",17
+"2007-09","Metric",6
+"2007-09","Portishead",1
+"2007-09","Radiohead",20
+"2007-09","Rilo Kiley",12
+"2007-09","Rufus Wainwright",9
+"2007-09","Sia",4
+"2007-09","Stars",35
+"2007-09","The Cardigans",2
+"2007-09","Yeah Yeah Yeahs",14
+"2007-10","Arcade Fire",7
+"2007-10","Arctic Monkeys",15
+"2007-10","Belle And Sebastian",3
+"2007-10","Björk",3
+"2007-10","Eisley",7
+"2007-10","Feist",34
+"2007-10","Fiona Apple",7
+"2007-10","Interpol",3
+"2007-10","Keane",1
+"2007-10","Kings Of Leon",21
+"2007-10","M.I.A.",2
+"2007-10","Metric",6
+"2007-10","Portishead",12
+"2007-10","Radiohead",93
+"2007-10","Rilo Kiley",2
+"2007-10","Rufus Wainwright",10
+"2007-10","Sia",6
+"2007-10","Stars",8
+"2007-10","The Cardigans",1
+"2007-10","Yeah Yeah Yeahs",5
+"2007-11","Arcade Fire",16
+"2007-11","Arctic Monkeys",12
+"2007-11","Belle And Sebastian",8
+"2007-11","Björk",6
+"2007-11","Eisley",13
+"2007-11","Feist",11
+"2007-11","Fiona Apple",2
+"2007-11","Interpol",18
+"2007-11","Keane",6
+"2007-11","Kings Of Leon",2
+"2007-11","M.I.A.",9
+"2007-11","Metric",47
+"2007-11","Portishead",3
+"2007-11","Radiohead",31
+"2007-11","Rilo Kiley",4
+"2007-11","Rufus Wainwright",7
+"2007-11","Sia",6
+"2007-11","Stars",12
+"2007-11","The Cardigans",2
+"2007-11","Yeah Yeah Yeahs",4
+"2007-12","Arcade Fire",17
+"2007-12","Arctic Monkeys",4
+"2007-12","Belle And Sebastian",6
+"2007-12","Björk",1
+"2007-12","Eisley",4
+"2007-12","Feist",44
+"2007-12","Fiona Apple",17
+"2007-12","Interpol",1
+"2007-12","Keane",1
+"2007-12","Kings Of Leon",3
+"2007-12","M.I.A.",19
+"2007-12","Metric",3
+"2007-12","Portishead",3
+"2007-12","Radiohead",27
+"2007-12","Rilo Kiley",17
+"2007-12","Rufus Wainwright",27
+"2007-12","Sia",16
+"2007-12","Stars",12
+"2007-12","The Cardigans",1
+"2007-12","Yeah Yeah Yeahs",1
+"2008-01","Arcade Fire",14
+"2008-01","Arctic Monkeys",5
+"2008-01","Belle And Sebastian",5
+"2008-01","Björk",6
+"2008-01","Eisley",19
+"2008-01","Feist",15
+"2008-01","Fiona Apple",2
+"2008-01","Interpol",10
+"2008-01","Keane",2
+"2008-01","Kings Of Leon",1
+"2008-01","M.I.A.",9
+"2008-01","Metric",5
+"2008-01","Portishead",5
+"2008-01","Radiohead",28
+"2008-01","Rilo Kiley",5
+"2008-01","Rufus Wainwright",7
+"2008-01","Sia",79
+"2008-01","Stars",4
+"2008-01","The Cardigans",1
+"2008-01","Yeah Yeah Yeahs",7
+"2008-02","Arcade Fire",10
+"2008-02","Arctic Monkeys",4
+"2008-02","Belle And Sebastian",5
+"2008-02","Björk",4
+"2008-02","Eisley",3
+"2008-02","Feist",15
+"2008-02","Fiona Apple",3
+"2008-02","Interpol",21
+"2008-02","Keane",1
+"2008-02","Kings Of Leon",4
+"2008-02","M.I.A.",7
+"2008-02","Metric",40
+"2008-02","Portishead",16
+"2008-02","Radiohead",41
+"2008-02","Rilo Kiley",18
+"2008-02","Rufus Wainwright",4
+"2008-02","Sia",21
+"2008-02","Stars",4
+"2008-02","The Cardigans",7
+"2008-02","Yeah Yeah Yeahs",5
+"2008-03","Arcade Fire",13
+"2008-03","Arctic Monkeys",17
+"2008-03","Belle And Sebastian",0
+"2008-03","Björk",3
+"2008-03","Eisley",25
+"2008-03","Feist",16
+"2008-03","Fiona Apple",2
+"2008-03","Interpol",15
+"2008-03","Keane",2
+"2008-03","Kings Of Leon",18
+"2008-03","M.I.A.",8
+"2008-03","Metric",4
+"2008-03","Portishead",20
+"2008-03","Radiohead",63
+"2008-03","Rilo Kiley",6
+"2008-03","Rufus Wainwright",3
+"2008-03","Sia",46
+"2008-03","Stars",3
+"2008-03","The Cardigans",0
+"2008-03","Yeah Yeah Yeahs",8
+"2008-04","Arcade Fire",11
+"2008-04","Arctic Monkeys",19
+"2008-04","Belle And Sebastian",16
+"2008-04","Björk",8
+"2008-04","Eisley",3
+"2008-04","Feist",25
+"2008-04","Fiona Apple",0
+"2008-04","Interpol",1
+"2008-04","Keane",1
+"2008-04","Kings Of Leon",1
+"2008-04","M.I.A.",3
+"2008-04","Metric",15
+"2008-04","Portishead",21
+"2008-04","Radiohead",9
+"2008-04","Rilo Kiley",3
+"2008-04","Rufus Wainwright",1
+"2008-04","Sia",7
+"2008-04","Stars",14
+"2008-04","The Cardigans",8
+"2008-04","Yeah Yeah Yeahs",0
+"2008-05","Arcade Fire",8
+"2008-05","Arctic Monkeys",8
+"2008-05","Belle And Sebastian",4
+"2008-05","Björk",1
+"2008-05","Eisley",10
+"2008-05","Feist",16
+"2008-05","Fiona Apple",1
+"2008-05","Interpol",7
+"2008-05","Keane",0
+"2008-05","Kings Of Leon",11
+"2008-05","M.I.A.",14
+"2008-05","Metric",11
+"2008-05","Portishead",21
+"2008-05","Radiohead",92
+"2008-05","Rilo Kiley",3
+"2008-05","Rufus Wainwright",2
+"2008-05","Sia",13
+"2008-05","Stars",1
+"2008-05","The Cardigans",1
+"2008-05","Yeah Yeah Yeahs",0
+"2008-06","Arcade Fire",10
+"2008-06","Arctic Monkeys",12
+"2008-06","Belle And Sebastian",10
+"2008-06","Björk",7
+"2008-06","Eisley",5
+"2008-06","Feist",1
+"2008-06","Fiona Apple",6
+"2008-06","Interpol",4
+"2008-06","Keane",13
+"2008-06","Kings Of Leon",9
+"2008-06","M.I.A.",3
+"2008-06","Metric",20
+"2008-06","Portishead",20
+"2008-06","Radiohead",49
+"2008-06","Rilo Kiley",0
+"2008-06","Rufus Wainwright",3
+"2008-06","Sia",18
+"2008-06","Stars",4
+"2008-06","The Cardigans",7
+"2008-06","Yeah Yeah Yeahs",1
+"2008-07","Arcade Fire",5
+"2008-07","Arctic Monkeys",7
+"2008-07","Belle And Sebastian",4
+"2008-07","Björk",46
+"2008-07","Eisley",6
+"2008-07","Feist",6
+"2008-07","Fiona Apple",1
+"2008-07","Interpol",10
+"2008-07","Keane",1
+"2008-07","Kings Of Leon",66
+"2008-07","M.I.A.",9
+"2008-07","Metric",4
+"2008-07","Portishead",5
+"2008-07","Radiohead",10
+"2008-07","Rilo Kiley",18
+"2008-07","Rufus Wainwright",8
+"2008-07","Sia",7
+"2008-07","Stars",1
+"2008-07","The Cardigans",2
+"2008-07","Yeah Yeah Yeahs",7
+"2008-08","Arcade Fire",8
+"2008-08","Arctic Monkeys",16
+"2008-08","Belle And Sebastian",5
+"2008-08","Björk",4
+"2008-08","Eisley",15
+"2008-08","Feist",5
+"2008-08","Fiona Apple",7
+"2008-08","Interpol",13
+"2008-08","Keane",15
+"2008-08","Kings Of Leon",40
+"2008-08","M.I.A.",16
+"2008-08","Metric",60
+"2008-08","Portishead",3
+"2008-08","Radiohead",8
+"2008-08","Rilo Kiley",2
+"2008-08","Rufus Wainwright",17
+"2008-08","Sia",22
+"2008-08","Stars",9
+"2008-08","The Cardigans",2
+"2008-08","Yeah Yeah Yeahs",10
+"2008-09","Arcade Fire",11
+"2008-09","Arctic Monkeys",2
+"2008-09","Belle And Sebastian",2
+"2008-09","Björk",4
+"2008-09","Eisley",3
+"2008-09","Feist",16
+"2008-09","Fiona Apple",1
+"2008-09","Interpol",10
+"2008-09","Keane",4
+"2008-09","Kings Of Leon",40
+"2008-09","M.I.A.",2
+"2008-09","Metric",16
+"2008-09","Portishead",4
+"2008-09","Radiohead",11
+"2008-09","Rilo Kiley",5
+"2008-09","Rufus Wainwright",30
+"2008-09","Sia",3
+"2008-09","Stars",49
+"2008-09","The Cardigans",2
+"2008-09","Yeah Yeah Yeahs",3
+"2008-10","Arcade Fire",8
+"2008-10","Arctic Monkeys",1
+"2008-10","Belle And Sebastian",1
+"2008-10","Björk",3
+"2008-10","Eisley",0
+"2008-10","Feist",31
+"2008-10","Fiona Apple",1
+"2008-10","Interpol",1
+"2008-10","Keane",70
+"2008-10","Kings Of Leon",14
+"2008-10","M.I.A.",9
+"2008-10","Metric",13
+"2008-10","Portishead",2
+"2008-10","Radiohead",54
+"2008-10","Rilo Kiley",2
+"2008-10","Rufus Wainwright",1
+"2008-10","Sia",0
+"2008-10","Stars",8
+"2008-10","The Cardigans",1
+"2008-10","Yeah Yeah Yeahs",15
+"2008-11","Arcade Fire",4
+"2008-11","Arctic Monkeys",5
+"2008-11","Belle And Sebastian",8
+"2008-11","Björk",4
+"2008-11","Eisley",1
+"2008-11","Feist",5
+"2008-11","Fiona Apple",4
+"2008-11","Interpol",1
+"2008-11","Keane",6
+"2008-11","Kings Of Leon",16
+"2008-11","M.I.A.",1
+"2008-11","Metric",5
+"2008-11","Portishead",4
+"2008-11","Radiohead",24
+"2008-11","Rilo Kiley",7
+"2008-11","Rufus Wainwright",17
+"2008-11","Sia",7
+"2008-11","Stars",11
+"2008-11","The Cardigans",6
+"2008-11","Yeah Yeah Yeahs",9
+"2008-12","Arcade Fire",3
+"2008-12","Arctic Monkeys",0
+"2008-12","Belle And Sebastian",4
+"2008-12","Björk",1
+"2008-12","Eisley",11
+"2008-12","Feist",5
+"2008-12","Fiona Apple",11
+"2008-12","Interpol",1
+"2008-12","Keane",4
+"2008-12","Kings Of Leon",30
+"2008-12","M.I.A.",16
+"2008-12","Metric",5
+"2008-12","Portishead",6
+"2008-12","Radiohead",16
+"2008-12","Rilo Kiley",17
+"2008-12","Rufus Wainwright",12
+"2008-12","Sia",12
+"2008-12","Stars",5
+"2008-12","The Cardigans",1
+"2008-12","Yeah Yeah Yeahs",1
+"2009-01","Arcade Fire",5
+"2009-01","Arctic Monkeys",1
+"2009-01","Belle And Sebastian",4
+"2009-01","Björk",2
+"2009-01","Eisley",8
+"2009-01","Feist",9
+"2009-01","Fiona Apple",3
+"2009-01","Interpol",2
+"2009-01","Keane",3
+"2009-01","Kings Of Leon",23
+"2009-01","M.I.A.",4
+"2009-01","Metric",9
+"2009-01","Portishead",5
+"2009-01","Radiohead",56
+"2009-01","Rilo Kiley",1
+"2009-01","Rufus Wainwright",2
+"2009-01","Sia",7
+"2009-01","Stars",2
+"2009-01","The Cardigans",2
+"2009-01","Yeah Yeah Yeahs",1
+"2009-02","Arcade Fire",4
+"2009-02","Arctic Monkeys",0
+"2009-02","Belle And Sebastian",3
+"2009-02","Björk",2
+"2009-02","Eisley",3
+"2009-02","Feist",12
+"2009-02","Fiona Apple",0
+"2009-02","Interpol",1
+"2009-02","Keane",2
+"2009-02","Kings Of Leon",29
+"2009-02","M.I.A.",3
+"2009-02","Metric",24
+"2009-02","Portishead",2
+"2009-02","Radiohead",26
+"2009-02","Rilo Kiley",4
+"2009-02","Rufus Wainwright",3
+"2009-02","Sia",5
+"2009-02","Stars",6
+"2009-02","The Cardigans",3
+"2009-02","Yeah Yeah Yeahs",10
+"2009-03","Arcade Fire",11
+"2009-03","Arctic Monkeys",1
+"2009-03","Belle And Sebastian",2
+"2009-03","Björk",5
+"2009-03","Eisley",0
+"2009-03","Feist",2
+"2009-03","Fiona Apple",3
+"2009-03","Interpol",1
+"2009-03","Keane",1
+"2009-03","Kings Of Leon",5
+"2009-03","M.I.A.",1
+"2009-03","Metric",211
+"2009-03","Portishead",1
+"2009-03","Radiohead",37
+"2009-03","Rilo Kiley",2
+"2009-03","Rufus Wainwright",9
+"2009-03","Sia",4
+"2009-03","Stars",16
+"2009-03","The Cardigans",10
+"2009-03","Yeah Yeah Yeahs",51
+"2009-04","Arcade Fire",3
+"2009-04","Arctic Monkeys",0
+"2009-04","Belle And Sebastian",3
+"2009-04","Björk",0
+"2009-04","Eisley",4
+"2009-04","Feist",4
+"2009-04","Fiona Apple",12
+"2009-04","Interpol",0
+"2009-04","Keane",5
+"2009-04","Kings Of Leon",13
+"2009-04","M.I.A.",3
+"2009-04","Metric",70
+"2009-04","Portishead",0
+"2009-04","Radiohead",20
+"2009-04","Rilo Kiley",2
+"2009-04","Rufus Wainwright",4
+"2009-04","Sia",11
+"2009-04","Stars",17
+"2009-04","The Cardigans",3
+"2009-04","Yeah Yeah Yeahs",10

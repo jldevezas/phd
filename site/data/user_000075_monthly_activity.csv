@@ -1,701 +1,701 @@
-month,artist,plays
-2006-06,Alice In Chains,1
-2006-06,Anathema,0
-2006-06,Audioslave,2
-2006-06,Chevelle,0
-2006-06,Coldplay,0
-2006-06,Creed,0
-2006-06,Dave Matthews Band,0
-2006-06,Days Of The New,1
-2006-06,Deus,0
-2006-06,Foo Fighters,0
-2006-06,Jane'S Addiction,2
-2006-06,John Frusciante,0
-2006-06,Mad Season,0
-2006-06,Pearl Jam,1
-2006-06,Radiohead,0
-2006-06,Snow Patrol,0
-2006-06,Stereophonics,0
-2006-06,The Smashing Pumpkins,2
-2006-06,Tool,1
-2006-06,U2,0
-2006-07,Alice In Chains,0
-2006-07,Anathema,0
-2006-07,Audioslave,0
-2006-07,Chevelle,0
-2006-07,Coldplay,0
-2006-07,Creed,0
-2006-07,Dave Matthews Band,0
-2006-07,Days Of The New,0
-2006-07,Deus,0
-2006-07,Foo Fighters,0
-2006-07,Jane'S Addiction,0
-2006-07,John Frusciante,0
-2006-07,Mad Season,0
-2006-07,Pearl Jam,0
-2006-07,Radiohead,0
-2006-07,Snow Patrol,0
-2006-07,Stereophonics,0
-2006-07,The Smashing Pumpkins,0
-2006-07,Tool,1
-2006-07,U2,0
-2006-08,Alice In Chains,0
-2006-08,Anathema,0
-2006-08,Audioslave,0
-2006-08,Chevelle,0
-2006-08,Coldplay,0
-2006-08,Creed,0
-2006-08,Dave Matthews Band,0
-2006-08,Days Of The New,0
-2006-08,Deus,0
-2006-08,Foo Fighters,0
-2006-08,Jane'S Addiction,0
-2006-08,John Frusciante,0
-2006-08,Mad Season,0
-2006-08,Pearl Jam,0
-2006-08,Radiohead,0
-2006-08,Snow Patrol,0
-2006-08,Stereophonics,0
-2006-08,The Smashing Pumpkins,0
-2006-08,Tool,0
-2006-08,U2,0
-2006-09,Alice In Chains,6
-2006-09,Anathema,0
-2006-09,Audioslave,21
-2006-09,Chevelle,44
-2006-09,Coldplay,0
-2006-09,Creed,1
-2006-09,Dave Matthews Band,3
-2006-09,Days Of The New,3
-2006-09,Deus,6
-2006-09,Foo Fighters,7
-2006-09,Jane'S Addiction,7
-2006-09,John Frusciante,11
-2006-09,Mad Season,7
-2006-09,Pearl Jam,45
-2006-09,Radiohead,3
-2006-09,Snow Patrol,1
-2006-09,Stereophonics,1
-2006-09,The Smashing Pumpkins,3
-2006-09,Tool,72
-2006-09,U2,2
-2006-10,Alice In Chains,17
-2006-10,Anathema,11
-2006-10,Audioslave,11
-2006-10,Chevelle,26
-2006-10,Coldplay,0
-2006-10,Creed,3
-2006-10,Dave Matthews Band,52
-2006-10,Days Of The New,7
-2006-10,Deus,10
-2006-10,Foo Fighters,14
-2006-10,Jane'S Addiction,6
-2006-10,John Frusciante,34
-2006-10,Mad Season,13
-2006-10,Pearl Jam,90
-2006-10,Radiohead,9
-2006-10,Snow Patrol,13
-2006-10,Stereophonics,9
-2006-10,The Smashing Pumpkins,3
-2006-10,Tool,51
-2006-10,U2,9
-2006-11,Alice In Chains,13
-2006-11,Anathema,10
-2006-11,Audioslave,21
-2006-11,Chevelle,21
-2006-11,Coldplay,2
-2006-11,Creed,8
-2006-11,Dave Matthews Band,22
-2006-11,Days Of The New,11
-2006-11,Deus,8
-2006-11,Foo Fighters,8
-2006-11,Jane'S Addiction,8
-2006-11,John Frusciante,37
-2006-11,Mad Season,9
-2006-11,Pearl Jam,99
-2006-11,Radiohead,6
-2006-11,Snow Patrol,27
-2006-11,Stereophonics,12
-2006-11,The Smashing Pumpkins,4
-2006-11,Tool,31
-2006-11,U2,16
-2006-12,Alice In Chains,2
-2006-12,Anathema,5
-2006-12,Audioslave,16
-2006-12,Chevelle,6
-2006-12,Coldplay,1
-2006-12,Creed,1
-2006-12,Dave Matthews Band,7
-2006-12,Days Of The New,49
-2006-12,Deus,0
-2006-12,Foo Fighters,2
-2006-12,Jane'S Addiction,6
-2006-12,John Frusciante,7
-2006-12,Mad Season,8
-2006-12,Pearl Jam,37
-2006-12,Radiohead,3
-2006-12,Snow Patrol,6
-2006-12,Stereophonics,0
-2006-12,The Smashing Pumpkins,1
-2006-12,Tool,40
-2006-12,U2,3
-2007-01,Alice In Chains,2
-2007-01,Anathema,22
-2007-01,Audioslave,4
-2007-01,Chevelle,2
-2007-01,Coldplay,0
-2007-01,Creed,1
-2007-01,Dave Matthews Band,71
-2007-01,Days Of The New,96
-2007-01,Deus,20
-2007-01,Foo Fighters,76
-2007-01,Jane'S Addiction,3
-2007-01,John Frusciante,5
-2007-01,Mad Season,2
-2007-01,Pearl Jam,77
-2007-01,Radiohead,0
-2007-01,Snow Patrol,1
-2007-01,Stereophonics,11
-2007-01,The Smashing Pumpkins,4
-2007-01,Tool,28
-2007-01,U2,78
-2007-02,Alice In Chains,0
-2007-02,Anathema,7
-2007-02,Audioslave,9
-2007-02,Chevelle,3
-2007-02,Coldplay,4
-2007-02,Creed,6
-2007-02,Dave Matthews Band,93
-2007-02,Days Of The New,54
-2007-02,Deus,7
-2007-02,Foo Fighters,22
-2007-02,Jane'S Addiction,3
-2007-02,John Frusciante,6
-2007-02,Mad Season,2
-2007-02,Pearl Jam,37
-2007-02,Radiohead,1
-2007-02,Snow Patrol,3
-2007-02,Stereophonics,15
-2007-02,The Smashing Pumpkins,2
-2007-02,Tool,26
-2007-02,U2,50
-2007-03,Alice In Chains,3
-2007-03,Anathema,20
-2007-03,Audioslave,15
-2007-03,Chevelle,1
-2007-03,Coldplay,1
-2007-03,Creed,3
-2007-03,Dave Matthews Band,72
-2007-03,Days Of The New,17
-2007-03,Deus,2
-2007-03,Foo Fighters,18
-2007-03,Jane'S Addiction,0
-2007-03,John Frusciante,3
-2007-03,Mad Season,11
-2007-03,Pearl Jam,90
-2007-03,Radiohead,2
-2007-03,Snow Patrol,2
-2007-03,Stereophonics,44
-2007-03,The Smashing Pumpkins,10
-2007-03,Tool,3
-2007-03,U2,18
-2007-04,Alice In Chains,1
-2007-04,Anathema,19
-2007-04,Audioslave,8
-2007-04,Chevelle,3
-2007-04,Coldplay,3
-2007-04,Creed,1
-2007-04,Dave Matthews Band,12
-2007-04,Days Of The New,25
-2007-04,Deus,1
-2007-04,Foo Fighters,8
-2007-04,Jane'S Addiction,4
-2007-04,John Frusciante,3
-2007-04,Mad Season,0
-2007-04,Pearl Jam,28
-2007-04,Radiohead,1
-2007-04,Snow Patrol,2
-2007-04,Stereophonics,15
-2007-04,The Smashing Pumpkins,10
-2007-04,Tool,2
-2007-04,U2,6
-2007-05,Alice In Chains,4
-2007-05,Anathema,3
-2007-05,Audioslave,3
-2007-05,Chevelle,2
-2007-05,Coldplay,1
-2007-05,Creed,1
-2007-05,Dave Matthews Band,7
-2007-05,Days Of The New,16
-2007-05,Deus,6
-2007-05,Foo Fighters,9
-2007-05,Jane'S Addiction,1
-2007-05,John Frusciante,5
-2007-05,Mad Season,1
-2007-05,Pearl Jam,7
-2007-05,Radiohead,3
-2007-05,Snow Patrol,1
-2007-05,Stereophonics,2
-2007-05,The Smashing Pumpkins,2
-2007-05,Tool,10
-2007-05,U2,11
-2007-06,Alice In Chains,1
-2007-06,Anathema,0
-2007-06,Audioslave,21
-2007-06,Chevelle,2
-2007-06,Coldplay,1
-2007-06,Creed,1
-2007-06,Dave Matthews Band,12
-2007-06,Days Of The New,23
-2007-06,Deus,0
-2007-06,Foo Fighters,4
-2007-06,Jane'S Addiction,1
-2007-06,John Frusciante,0
-2007-06,Mad Season,3
-2007-06,Pearl Jam,39
-2007-06,Radiohead,3
-2007-06,Snow Patrol,0
-2007-06,Stereophonics,12
-2007-06,The Smashing Pumpkins,7
-2007-06,Tool,3
-2007-06,U2,5
-2007-07,Alice In Chains,1
-2007-07,Anathema,23
-2007-07,Audioslave,0
-2007-07,Chevelle,5
-2007-07,Coldplay,4
-2007-07,Creed,0
-2007-07,Dave Matthews Band,32
-2007-07,Days Of The New,13
-2007-07,Deus,1
-2007-07,Foo Fighters,0
-2007-07,Jane'S Addiction,0
-2007-07,John Frusciante,0
-2007-07,Mad Season,0
-2007-07,Pearl Jam,16
-2007-07,Radiohead,3
-2007-07,Snow Patrol,2
-2007-07,Stereophonics,0
-2007-07,The Smashing Pumpkins,6
-2007-07,Tool,3
-2007-07,U2,26
-2007-08,Alice In Chains,2
-2007-08,Anathema,42
-2007-08,Audioslave,12
-2007-08,Chevelle,9
-2007-08,Coldplay,11
-2007-08,Creed,1
-2007-08,Dave Matthews Band,17
-2007-08,Days Of The New,3
-2007-08,Deus,6
-2007-08,Foo Fighters,1
-2007-08,Jane'S Addiction,1
-2007-08,John Frusciante,3
-2007-08,Mad Season,2
-2007-08,Pearl Jam,25
-2007-08,Radiohead,0
-2007-08,Snow Patrol,9
-2007-08,Stereophonics,5
-2007-08,The Smashing Pumpkins,2
-2007-08,Tool,8
-2007-08,U2,4
-2007-09,Alice In Chains,1
-2007-09,Anathema,2
-2007-09,Audioslave,2
-2007-09,Chevelle,1
-2007-09,Coldplay,14
-2007-09,Creed,0
-2007-09,Dave Matthews Band,5
-2007-09,Days Of The New,3
-2007-09,Deus,2
-2007-09,Foo Fighters,14
-2007-09,Jane'S Addiction,2
-2007-09,John Frusciante,20
-2007-09,Mad Season,3
-2007-09,Pearl Jam,42
-2007-09,Radiohead,0
-2007-09,Snow Patrol,2
-2007-09,Stereophonics,49
-2007-09,The Smashing Pumpkins,0
-2007-09,Tool,1
-2007-09,U2,4
-2007-10,Alice In Chains,4
-2007-10,Anathema,0
-2007-10,Audioslave,10
-2007-10,Chevelle,5
-2007-10,Coldplay,7
-2007-10,Creed,1
-2007-10,Dave Matthews Band,9
-2007-10,Days Of The New,6
-2007-10,Deus,2
-2007-10,Foo Fighters,34
-2007-10,Jane'S Addiction,0
-2007-10,John Frusciante,3
-2007-10,Mad Season,6
-2007-10,Pearl Jam,42
-2007-10,Radiohead,118
-2007-10,Snow Patrol,14
-2007-10,Stereophonics,3
-2007-10,The Smashing Pumpkins,0
-2007-10,Tool,2
-2007-10,U2,19
-2007-11,Alice In Chains,0
-2007-11,Anathema,17
-2007-11,Audioslave,0
-2007-11,Chevelle,0
-2007-11,Coldplay,12
-2007-11,Creed,3
-2007-11,Dave Matthews Band,6
-2007-11,Days Of The New,20
-2007-11,Deus,15
-2007-11,Foo Fighters,38
-2007-11,Jane'S Addiction,5
-2007-11,John Frusciante,4
-2007-11,Mad Season,10
-2007-11,Pearl Jam,16
-2007-11,Radiohead,176
-2007-11,Snow Patrol,18
-2007-11,Stereophonics,28
-2007-11,The Smashing Pumpkins,133
-2007-11,Tool,6
-2007-11,U2,32
-2007-12,Alice In Chains,0
-2007-12,Anathema,7
-2007-12,Audioslave,0
-2007-12,Chevelle,0
-2007-12,Coldplay,2
-2007-12,Creed,1
-2007-12,Dave Matthews Band,20
-2007-12,Days Of The New,4
-2007-12,Deus,14
-2007-12,Foo Fighters,6
-2007-12,Jane'S Addiction,0
-2007-12,John Frusciante,21
-2007-12,Mad Season,3
-2007-12,Pearl Jam,50
-2007-12,Radiohead,32
-2007-12,Snow Patrol,0
-2007-12,Stereophonics,1
-2007-12,The Smashing Pumpkins,36
-2007-12,Tool,10
-2007-12,U2,3
-2008-01,Alice In Chains,0
-2008-01,Anathema,2
-2008-01,Audioslave,1
-2008-01,Chevelle,0
-2008-01,Coldplay,6
-2008-01,Creed,11
-2008-01,Dave Matthews Band,13
-2008-01,Days Of The New,7
-2008-01,Deus,2
-2008-01,Foo Fighters,9
-2008-01,Jane'S Addiction,5
-2008-01,John Frusciante,0
-2008-01,Mad Season,7
-2008-01,Pearl Jam,51
-2008-01,Radiohead,32
-2008-01,Snow Patrol,1
-2008-01,Stereophonics,4
-2008-01,The Smashing Pumpkins,11
-2008-01,Tool,0
-2008-01,U2,7
-2008-02,Alice In Chains,28
-2008-02,Anathema,9
-2008-02,Audioslave,2
-2008-02,Chevelle,3
-2008-02,Coldplay,9
-2008-02,Creed,16
-2008-02,Dave Matthews Band,35
-2008-02,Days Of The New,3
-2008-02,Deus,39
-2008-02,Foo Fighters,22
-2008-02,Jane'S Addiction,1
-2008-02,John Frusciante,195
-2008-02,Mad Season,43
-2008-02,Pearl Jam,136
-2008-02,Radiohead,87
-2008-02,Snow Patrol,0
-2008-02,Stereophonics,5
-2008-02,The Smashing Pumpkins,15
-2008-02,Tool,13
-2008-02,U2,34
-2008-03,Alice In Chains,23
-2008-03,Anathema,32
-2008-03,Audioslave,0
-2008-03,Chevelle,17
-2008-03,Coldplay,2
-2008-03,Creed,19
-2008-03,Dave Matthews Band,15
-2008-03,Days Of The New,0
-2008-03,Deus,2
-2008-03,Foo Fighters,5
-2008-03,Jane'S Addiction,1
-2008-03,John Frusciante,52
-2008-03,Mad Season,9
-2008-03,Pearl Jam,73
-2008-03,Radiohead,31
-2008-03,Snow Patrol,1
-2008-03,Stereophonics,12
-2008-03,The Smashing Pumpkins,19
-2008-03,Tool,0
-2008-03,U2,115
-2008-04,Alice In Chains,30
-2008-04,Anathema,43
-2008-04,Audioslave,1
-2008-04,Chevelle,33
-2008-04,Coldplay,0
-2008-04,Creed,6
-2008-04,Dave Matthews Band,57
-2008-04,Days Of The New,5
-2008-04,Deus,57
-2008-04,Foo Fighters,3
-2008-04,Jane'S Addiction,3
-2008-04,John Frusciante,20
-2008-04,Mad Season,0
-2008-04,Pearl Jam,51
-2008-04,Radiohead,10
-2008-04,Snow Patrol,0
-2008-04,Stereophonics,0
-2008-04,The Smashing Pumpkins,7
-2008-04,Tool,3
-2008-04,U2,119
-2008-05,Alice In Chains,19
-2008-05,Anathema,13
-2008-05,Audioslave,2
-2008-05,Chevelle,5
-2008-05,Coldplay,14
-2008-05,Creed,5
-2008-05,Dave Matthews Band,9
-2008-05,Days Of The New,4
-2008-05,Deus,24
-2008-05,Foo Fighters,0
-2008-05,Jane'S Addiction,1
-2008-05,John Frusciante,12
-2008-05,Mad Season,10
-2008-05,Pearl Jam,72
-2008-05,Radiohead,37
-2008-05,Snow Patrol,4
-2008-05,Stereophonics,16
-2008-05,The Smashing Pumpkins,9
-2008-05,Tool,9
-2008-05,U2,69
-2008-06,Alice In Chains,4
-2008-06,Anathema,3
-2008-06,Audioslave,2
-2008-06,Chevelle,0
-2008-06,Coldplay,0
-2008-06,Creed,0
-2008-06,Dave Matthews Band,5
-2008-06,Days Of The New,0
-2008-06,Deus,2
-2008-06,Foo Fighters,42
-2008-06,Jane'S Addiction,1
-2008-06,John Frusciante,8
-2008-06,Mad Season,1
-2008-06,Pearl Jam,46
-2008-06,Radiohead,3
-2008-06,Snow Patrol,11
-2008-06,Stereophonics,0
-2008-06,The Smashing Pumpkins,0
-2008-06,Tool,6
-2008-06,U2,19
-2008-07,Alice In Chains,9
-2008-07,Anathema,8
-2008-07,Audioslave,0
-2008-07,Chevelle,0
-2008-07,Coldplay,2
-2008-07,Creed,1
-2008-07,Dave Matthews Band,11
-2008-07,Days Of The New,4
-2008-07,Deus,5
-2008-07,Foo Fighters,3
-2008-07,Jane'S Addiction,0
-2008-07,John Frusciante,3
-2008-07,Mad Season,1
-2008-07,Pearl Jam,16
-2008-07,Radiohead,15
-2008-07,Snow Patrol,2
-2008-07,Stereophonics,11
-2008-07,The Smashing Pumpkins,5
-2008-07,Tool,11
-2008-07,U2,9
-2008-08,Alice In Chains,15
-2008-08,Anathema,1
-2008-08,Audioslave,1
-2008-08,Chevelle,4
-2008-08,Coldplay,5
-2008-08,Creed,0
-2008-08,Dave Matthews Band,3
-2008-08,Days Of The New,0
-2008-08,Deus,1
-2008-08,Foo Fighters,1
-2008-08,Jane'S Addiction,1
-2008-08,John Frusciante,23
-2008-08,Mad Season,3
-2008-08,Pearl Jam,24
-2008-08,Radiohead,17
-2008-08,Snow Patrol,20
-2008-08,Stereophonics,4
-2008-08,The Smashing Pumpkins,2
-2008-08,Tool,13
-2008-08,U2,5
-2008-09,Alice In Chains,1
-2008-09,Anathema,0
-2008-09,Audioslave,24
-2008-09,Chevelle,3
-2008-09,Coldplay,1
-2008-09,Creed,1
-2008-09,Dave Matthews Band,7
-2008-09,Days Of The New,9
-2008-09,Deus,3
-2008-09,Foo Fighters,2
-2008-09,Jane'S Addiction,1
-2008-09,John Frusciante,1
-2008-09,Mad Season,1
-2008-09,Pearl Jam,14
-2008-09,Radiohead,2
-2008-09,Snow Patrol,1
-2008-09,Stereophonics,0
-2008-09,The Smashing Pumpkins,1
-2008-09,Tool,0
-2008-09,U2,23
-2008-10,Alice In Chains,0
-2008-10,Anathema,0
-2008-10,Audioslave,0
-2008-10,Chevelle,0
-2008-10,Coldplay,0
-2008-10,Creed,0
-2008-10,Dave Matthews Band,0
-2008-10,Days Of The New,0
-2008-10,Deus,0
-2008-10,Foo Fighters,0
-2008-10,Jane'S Addiction,0
-2008-10,John Frusciante,0
-2008-10,Mad Season,0
-2008-10,Pearl Jam,0
-2008-10,Radiohead,0
-2008-10,Snow Patrol,0
-2008-10,Stereophonics,0
-2008-10,The Smashing Pumpkins,0
-2008-10,Tool,0
-2008-10,U2,0
-2008-11,Alice In Chains,0
-2008-11,Anathema,0
-2008-11,Audioslave,0
-2008-11,Chevelle,0
-2008-11,Coldplay,0
-2008-11,Creed,0
-2008-11,Dave Matthews Band,0
-2008-11,Days Of The New,0
-2008-11,Deus,0
-2008-11,Foo Fighters,0
-2008-11,Jane'S Addiction,0
-2008-11,John Frusciante,0
-2008-11,Mad Season,0
-2008-11,Pearl Jam,0
-2008-11,Radiohead,0
-2008-11,Snow Patrol,0
-2008-11,Stereophonics,0
-2008-11,The Smashing Pumpkins,0
-2008-11,Tool,0
-2008-11,U2,0
-2008-12,Alice In Chains,28
-2008-12,Anathema,2
-2008-12,Audioslave,0
-2008-12,Chevelle,1
-2008-12,Coldplay,1
-2008-12,Creed,0
-2008-12,Dave Matthews Band,2
-2008-12,Days Of The New,2
-2008-12,Deus,1
-2008-12,Foo Fighters,1
-2008-12,Jane'S Addiction,4
-2008-12,John Frusciante,0
-2008-12,Mad Season,1
-2008-12,Pearl Jam,30
-2008-12,Radiohead,3
-2008-12,Snow Patrol,0
-2008-12,Stereophonics,0
-2008-12,The Smashing Pumpkins,2
-2008-12,Tool,12
-2008-12,U2,2
-2009-01,Alice In Chains,38
-2009-01,Anathema,6
-2009-01,Audioslave,9
-2009-01,Chevelle,9
-2009-01,Coldplay,0
-2009-01,Creed,8
-2009-01,Dave Matthews Band,44
-2009-01,Days Of The New,1
-2009-01,Deus,38
-2009-01,Foo Fighters,9
-2009-01,Jane'S Addiction,17
-2009-01,John Frusciante,32
-2009-01,Mad Season,2
-2009-01,Pearl Jam,82
-2009-01,Radiohead,8
-2009-01,Snow Patrol,0
-2009-01,Stereophonics,3
-2009-01,The Smashing Pumpkins,5
-2009-01,Tool,5
-2009-01,U2,11
-2009-02,Alice In Chains,7
-2009-02,Anathema,0
-2009-02,Audioslave,0
-2009-02,Chevelle,0
-2009-02,Coldplay,0
-2009-02,Creed,0
-2009-02,Dave Matthews Band,1
-2009-02,Days Of The New,0
-2009-02,Deus,0
-2009-02,Foo Fighters,1
-2009-02,Jane'S Addiction,2
-2009-02,John Frusciante,0
-2009-02,Mad Season,1
-2009-02,Pearl Jam,5
-2009-02,Radiohead,0
-2009-02,Snow Patrol,1
-2009-02,Stereophonics,4
-2009-02,The Smashing Pumpkins,1
-2009-02,Tool,0
-2009-02,U2,1
-2009-03,Alice In Chains,15
-2009-03,Anathema,3
-2009-03,Audioslave,0
-2009-03,Chevelle,4
-2009-03,Coldplay,0
-2009-03,Creed,1
-2009-03,Dave Matthews Band,20
-2009-03,Days Of The New,0
-2009-03,Deus,3
-2009-03,Foo Fighters,3
-2009-03,Jane'S Addiction,1
-2009-03,John Frusciante,27
-2009-03,Mad Season,4
-2009-03,Pearl Jam,21
-2009-03,Radiohead,0
-2009-03,Snow Patrol,5
-2009-03,Stereophonics,1
-2009-03,The Smashing Pumpkins,7
-2009-03,Tool,1
-2009-03,U2,3
-2009-04,Alice In Chains,2
-2009-04,Anathema,0
-2009-04,Audioslave,0
-2009-04,Chevelle,0
-2009-04,Coldplay,6
-2009-04,Creed,0
-2009-04,Dave Matthews Band,4
-2009-04,Days Of The New,0
-2009-04,Deus,1
-2009-04,Foo Fighters,0
-2009-04,Jane'S Addiction,0
-2009-04,John Frusciante,31
-2009-04,Mad Season,1
-2009-04,Pearl Jam,30
-2009-04,Radiohead,0
-2009-04,Snow Patrol,3
-2009-04,Stereophonics,2
-2009-04,The Smashing Pumpkins,1
-2009-04,Tool,0
-2009-04,U2,6
+"month","artist","plays"
+"2006-06","Alice In Chains",1
+"2006-06","Anathema",0
+"2006-06","Audioslave",2
+"2006-06","Chevelle",0
+"2006-06","Coldplay",0
+"2006-06","Creed",0
+"2006-06","Dave Matthews Band",0
+"2006-06","Days Of The New",1
+"2006-06","Deus",0
+"2006-06","Foo Fighters",0
+"2006-06","Jane'S Addiction",2
+"2006-06","John Frusciante",0
+"2006-06","Mad Season",0
+"2006-06","Pearl Jam",1
+"2006-06","Radiohead",0
+"2006-06","Snow Patrol",0
+"2006-06","Stereophonics",0
+"2006-06","The Smashing Pumpkins",2
+"2006-06","Tool",1
+"2006-06","U2",0
+"2006-07","Alice In Chains",0
+"2006-07","Anathema",0
+"2006-07","Audioslave",0
+"2006-07","Chevelle",0
+"2006-07","Coldplay",0
+"2006-07","Creed",0
+"2006-07","Dave Matthews Band",0
+"2006-07","Days Of The New",0
+"2006-07","Deus",0
+"2006-07","Foo Fighters",0
+"2006-07","Jane'S Addiction",0
+"2006-07","John Frusciante",0
+"2006-07","Mad Season",0
+"2006-07","Pearl Jam",0
+"2006-07","Radiohead",0
+"2006-07","Snow Patrol",0
+"2006-07","Stereophonics",0
+"2006-07","The Smashing Pumpkins",0
+"2006-07","Tool",1
+"2006-07","U2",0
+"2006-08","Alice In Chains",0
+"2006-08","Anathema",0
+"2006-08","Audioslave",0
+"2006-08","Chevelle",0
+"2006-08","Coldplay",0
+"2006-08","Creed",0
+"2006-08","Dave Matthews Band",0
+"2006-08","Days Of The New",0
+"2006-08","Deus",0
+"2006-08","Foo Fighters",0
+"2006-08","Jane'S Addiction",0
+"2006-08","John Frusciante",0
+"2006-08","Mad Season",0
+"2006-08","Pearl Jam",0
+"2006-08","Radiohead",0
+"2006-08","Snow Patrol",0
+"2006-08","Stereophonics",0
+"2006-08","The Smashing Pumpkins",0
+"2006-08","Tool",0
+"2006-08","U2",0
+"2006-09","Alice In Chains",6
+"2006-09","Anathema",0
+"2006-09","Audioslave",21
+"2006-09","Chevelle",44
+"2006-09","Coldplay",0
+"2006-09","Creed",1
+"2006-09","Dave Matthews Band",3
+"2006-09","Days Of The New",3
+"2006-09","Deus",6
+"2006-09","Foo Fighters",7
+"2006-09","Jane'S Addiction",7
+"2006-09","John Frusciante",11
+"2006-09","Mad Season",7
+"2006-09","Pearl Jam",45
+"2006-09","Radiohead",3
+"2006-09","Snow Patrol",1
+"2006-09","Stereophonics",1
+"2006-09","The Smashing Pumpkins",3
+"2006-09","Tool",72
+"2006-09","U2",2
+"2006-10","Alice In Chains",17
+"2006-10","Anathema",11
+"2006-10","Audioslave",11
+"2006-10","Chevelle",26
+"2006-10","Coldplay",0
+"2006-10","Creed",3
+"2006-10","Dave Matthews Band",52
+"2006-10","Days Of The New",7
+"2006-10","Deus",10
+"2006-10","Foo Fighters",14
+"2006-10","Jane'S Addiction",6
+"2006-10","John Frusciante",34
+"2006-10","Mad Season",13
+"2006-10","Pearl Jam",90
+"2006-10","Radiohead",9
+"2006-10","Snow Patrol",13
+"2006-10","Stereophonics",9
+"2006-10","The Smashing Pumpkins",3
+"2006-10","Tool",51
+"2006-10","U2",9
+"2006-11","Alice In Chains",13
+"2006-11","Anathema",10
+"2006-11","Audioslave",21
+"2006-11","Chevelle",21
+"2006-11","Coldplay",2
+"2006-11","Creed",8
+"2006-11","Dave Matthews Band",22
+"2006-11","Days Of The New",11
+"2006-11","Deus",8
+"2006-11","Foo Fighters",8
+"2006-11","Jane'S Addiction",8
+"2006-11","John Frusciante",37
+"2006-11","Mad Season",9
+"2006-11","Pearl Jam",99
+"2006-11","Radiohead",6
+"2006-11","Snow Patrol",27
+"2006-11","Stereophonics",12
+"2006-11","The Smashing Pumpkins",4
+"2006-11","Tool",31
+"2006-11","U2",16
+"2006-12","Alice In Chains",2
+"2006-12","Anathema",5
+"2006-12","Audioslave",16
+"2006-12","Chevelle",6
+"2006-12","Coldplay",1
+"2006-12","Creed",1
+"2006-12","Dave Matthews Band",7
+"2006-12","Days Of The New",49
+"2006-12","Deus",0
+"2006-12","Foo Fighters",2
+"2006-12","Jane'S Addiction",6
+"2006-12","John Frusciante",7
+"2006-12","Mad Season",8
+"2006-12","Pearl Jam",37
+"2006-12","Radiohead",3
+"2006-12","Snow Patrol",6
+"2006-12","Stereophonics",0
+"2006-12","The Smashing Pumpkins",1
+"2006-12","Tool",40
+"2006-12","U2",3
+"2007-01","Alice In Chains",2
+"2007-01","Anathema",22
+"2007-01","Audioslave",4
+"2007-01","Chevelle",2
+"2007-01","Coldplay",0
+"2007-01","Creed",1
+"2007-01","Dave Matthews Band",71
+"2007-01","Days Of The New",96
+"2007-01","Deus",20
+"2007-01","Foo Fighters",76
+"2007-01","Jane'S Addiction",3
+"2007-01","John Frusciante",5
+"2007-01","Mad Season",2
+"2007-01","Pearl Jam",77
+"2007-01","Radiohead",0
+"2007-01","Snow Patrol",1
+"2007-01","Stereophonics",11
+"2007-01","The Smashing Pumpkins",4
+"2007-01","Tool",28
+"2007-01","U2",78
+"2007-02","Alice In Chains",0
+"2007-02","Anathema",7
+"2007-02","Audioslave",9
+"2007-02","Chevelle",3
+"2007-02","Coldplay",4
+"2007-02","Creed",6
+"2007-02","Dave Matthews Band",93
+"2007-02","Days Of The New",54
+"2007-02","Deus",7
+"2007-02","Foo Fighters",22
+"2007-02","Jane'S Addiction",3
+"2007-02","John Frusciante",6
+"2007-02","Mad Season",2
+"2007-02","Pearl Jam",37
+"2007-02","Radiohead",1
+"2007-02","Snow Patrol",3
+"2007-02","Stereophonics",15
+"2007-02","The Smashing Pumpkins",2
+"2007-02","Tool",26
+"2007-02","U2",50
+"2007-03","Alice In Chains",3
+"2007-03","Anathema",20
+"2007-03","Audioslave",15
+"2007-03","Chevelle",1
+"2007-03","Coldplay",1
+"2007-03","Creed",3
+"2007-03","Dave Matthews Band",72
+"2007-03","Days Of The New",17
+"2007-03","Deus",2
+"2007-03","Foo Fighters",18
+"2007-03","Jane'S Addiction",0
+"2007-03","John Frusciante",3
+"2007-03","Mad Season",11
+"2007-03","Pearl Jam",90
+"2007-03","Radiohead",2
+"2007-03","Snow Patrol",2
+"2007-03","Stereophonics",44
+"2007-03","The Smashing Pumpkins",10
+"2007-03","Tool",3
+"2007-03","U2",18
+"2007-04","Alice In Chains",1
+"2007-04","Anathema",19
+"2007-04","Audioslave",8
+"2007-04","Chevelle",3
+"2007-04","Coldplay",3
+"2007-04","Creed",1
+"2007-04","Dave Matthews Band",12
+"2007-04","Days Of The New",25
+"2007-04","Deus",1
+"2007-04","Foo Fighters",8
+"2007-04","Jane'S Addiction",4
+"2007-04","John Frusciante",3
+"2007-04","Mad Season",0
+"2007-04","Pearl Jam",28
+"2007-04","Radiohead",1
+"2007-04","Snow Patrol",2
+"2007-04","Stereophonics",15
+"2007-04","The Smashing Pumpkins",10
+"2007-04","Tool",2
+"2007-04","U2",6
+"2007-05","Alice In Chains",4
+"2007-05","Anathema",3
+"2007-05","Audioslave",3
+"2007-05","Chevelle",2
+"2007-05","Coldplay",1
+"2007-05","Creed",1
+"2007-05","Dave Matthews Band",7
+"2007-05","Days Of The New",16
+"2007-05","Deus",6
+"2007-05","Foo Fighters",9
+"2007-05","Jane'S Addiction",1
+"2007-05","John Frusciante",5
+"2007-05","Mad Season",1
+"2007-05","Pearl Jam",7
+"2007-05","Radiohead",3
+"2007-05","Snow Patrol",1
+"2007-05","Stereophonics",2
+"2007-05","The Smashing Pumpkins",2
+"2007-05","Tool",10
+"2007-05","U2",11
+"2007-06","Alice In Chains",1
+"2007-06","Anathema",0
+"2007-06","Audioslave",21
+"2007-06","Chevelle",2
+"2007-06","Coldplay",1
+"2007-06","Creed",1
+"2007-06","Dave Matthews Band",12
+"2007-06","Days Of The New",23
+"2007-06","Deus",0
+"2007-06","Foo Fighters",4
+"2007-06","Jane'S Addiction",1
+"2007-06","John Frusciante",0
+"2007-06","Mad Season",3
+"2007-06","Pearl Jam",39
+"2007-06","Radiohead",3
+"2007-06","Snow Patrol",0
+"2007-06","Stereophonics",12
+"2007-06","The Smashing Pumpkins",7
+"2007-06","Tool",3
+"2007-06","U2",5
+"2007-07","Alice In Chains",1
+"2007-07","Anathema",23
+"2007-07","Audioslave",0
+"2007-07","Chevelle",5
+"2007-07","Coldplay",4
+"2007-07","Creed",0
+"2007-07","Dave Matthews Band",32
+"2007-07","Days Of The New",13
+"2007-07","Deus",1
+"2007-07","Foo Fighters",0
+"2007-07","Jane'S Addiction",0
+"2007-07","John Frusciante",0
+"2007-07","Mad Season",0
+"2007-07","Pearl Jam",16
+"2007-07","Radiohead",3
+"2007-07","Snow Patrol",2
+"2007-07","Stereophonics",0
+"2007-07","The Smashing Pumpkins",6
+"2007-07","Tool",3
+"2007-07","U2",26
+"2007-08","Alice In Chains",2
+"2007-08","Anathema",42
+"2007-08","Audioslave",12
+"2007-08","Chevelle",9
+"2007-08","Coldplay",11
+"2007-08","Creed",1
+"2007-08","Dave Matthews Band",17
+"2007-08","Days Of The New",3
+"2007-08","Deus",6
+"2007-08","Foo Fighters",1
+"2007-08","Jane'S Addiction",1
+"2007-08","John Frusciante",3
+"2007-08","Mad Season",2
+"2007-08","Pearl Jam",25
+"2007-08","Radiohead",0
+"2007-08","Snow Patrol",9
+"2007-08","Stereophonics",5
+"2007-08","The Smashing Pumpkins",2
+"2007-08","Tool",8
+"2007-08","U2",4
+"2007-09","Alice In Chains",1
+"2007-09","Anathema",2
+"2007-09","Audioslave",2
+"2007-09","Chevelle",1
+"2007-09","Coldplay",14
+"2007-09","Creed",0
+"2007-09","Dave Matthews Band",5
+"2007-09","Days Of The New",3
+"2007-09","Deus",2
+"2007-09","Foo Fighters",14
+"2007-09","Jane'S Addiction",2
+"2007-09","John Frusciante",20
+"2007-09","Mad Season",3
+"2007-09","Pearl Jam",42
+"2007-09","Radiohead",0
+"2007-09","Snow Patrol",2
+"2007-09","Stereophonics",49
+"2007-09","The Smashing Pumpkins",0
+"2007-09","Tool",1
+"2007-09","U2",4
+"2007-10","Alice In Chains",4
+"2007-10","Anathema",0
+"2007-10","Audioslave",10
+"2007-10","Chevelle",5
+"2007-10","Coldplay",7
+"2007-10","Creed",1
+"2007-10","Dave Matthews Band",9
+"2007-10","Days Of The New",6
+"2007-10","Deus",2
+"2007-10","Foo Fighters",34
+"2007-10","Jane'S Addiction",0
+"2007-10","John Frusciante",3
+"2007-10","Mad Season",6
+"2007-10","Pearl Jam",42
+"2007-10","Radiohead",118
+"2007-10","Snow Patrol",14
+"2007-10","Stereophonics",3
+"2007-10","The Smashing Pumpkins",0
+"2007-10","Tool",2
+"2007-10","U2",19
+"2007-11","Alice In Chains",0
+"2007-11","Anathema",17
+"2007-11","Audioslave",0
+"2007-11","Chevelle",0
+"2007-11","Coldplay",12
+"2007-11","Creed",3
+"2007-11","Dave Matthews Band",6
+"2007-11","Days Of The New",20
+"2007-11","Deus",15
+"2007-11","Foo Fighters",38
+"2007-11","Jane'S Addiction",5
+"2007-11","John Frusciante",4
+"2007-11","Mad Season",10
+"2007-11","Pearl Jam",16
+"2007-11","Radiohead",176
+"2007-11","Snow Patrol",18
+"2007-11","Stereophonics",28
+"2007-11","The Smashing Pumpkins",133
+"2007-11","Tool",6
+"2007-11","U2",32
+"2007-12","Alice In Chains",0
+"2007-12","Anathema",7
+"2007-12","Audioslave",0
+"2007-12","Chevelle",0
+"2007-12","Coldplay",2
+"2007-12","Creed",1
+"2007-12","Dave Matthews Band",20
+"2007-12","Days Of The New",4
+"2007-12","Deus",14
+"2007-12","Foo Fighters",6
+"2007-12","Jane'S Addiction",0
+"2007-12","John Frusciante",21
+"2007-12","Mad Season",3
+"2007-12","Pearl Jam",50
+"2007-12","Radiohead",32
+"2007-12","Snow Patrol",0
+"2007-12","Stereophonics",1
+"2007-12","The Smashing Pumpkins",36
+"2007-12","Tool",10
+"2007-12","U2",3
+"2008-01","Alice In Chains",0
+"2008-01","Anathema",2
+"2008-01","Audioslave",1
+"2008-01","Chevelle",0
+"2008-01","Coldplay",6
+"2008-01","Creed",11
+"2008-01","Dave Matthews Band",13
+"2008-01","Days Of The New",7
+"2008-01","Deus",2
+"2008-01","Foo Fighters",9
+"2008-01","Jane'S Addiction",5
+"2008-01","John Frusciante",0
+"2008-01","Mad Season",7
+"2008-01","Pearl Jam",51
+"2008-01","Radiohead",32
+"2008-01","Snow Patrol",1
+"2008-01","Stereophonics",4
+"2008-01","The Smashing Pumpkins",11
+"2008-01","Tool",0
+"2008-01","U2",7
+"2008-02","Alice In Chains",28
+"2008-02","Anathema",9
+"2008-02","Audioslave",2
+"2008-02","Chevelle",3
+"2008-02","Coldplay",9
+"2008-02","Creed",16
+"2008-02","Dave Matthews Band",35
+"2008-02","Days Of The New",3
+"2008-02","Deus",39
+"2008-02","Foo Fighters",22
+"2008-02","Jane'S Addiction",1
+"2008-02","John Frusciante",195
+"2008-02","Mad Season",43
+"2008-02","Pearl Jam",136
+"2008-02","Radiohead",87
+"2008-02","Snow Patrol",0
+"2008-02","Stereophonics",5
+"2008-02","The Smashing Pumpkins",15
+"2008-02","Tool",13
+"2008-02","U2",34
+"2008-03","Alice In Chains",23
+"2008-03","Anathema",32
+"2008-03","Audioslave",0
+"2008-03","Chevelle",17
+"2008-03","Coldplay",2
+"2008-03","Creed",19
+"2008-03","Dave Matthews Band",15
+"2008-03","Days Of The New",0
+"2008-03","Deus",2
+"2008-03","Foo Fighters",5
+"2008-03","Jane'S Addiction",1
+"2008-03","John Frusciante",52
+"2008-03","Mad Season",9
+"2008-03","Pearl Jam",73
+"2008-03","Radiohead",31
+"2008-03","Snow Patrol",1
+"2008-03","Stereophonics",12
+"2008-03","The Smashing Pumpkins",19
+"2008-03","Tool",0
+"2008-03","U2",115
+"2008-04","Alice In Chains",30
+"2008-04","Anathema",43
+"2008-04","Audioslave",1
+"2008-04","Chevelle",33
+"2008-04","Coldplay",0
+"2008-04","Creed",6
+"2008-04","Dave Matthews Band",57
+"2008-04","Days Of The New",5
+"2008-04","Deus",57
+"2008-04","Foo Fighters",3
+"2008-04","Jane'S Addiction",3
+"2008-04","John Frusciante",20
+"2008-04","Mad Season",0
+"2008-04","Pearl Jam",51
+"2008-04","Radiohead",10
+"2008-04","Snow Patrol",0
+"2008-04","Stereophonics",0
+"2008-04","The Smashing Pumpkins",7
+"2008-04","Tool",3
+"2008-04","U2",119
+"2008-05","Alice In Chains",19
+"2008-05","Anathema",13
+"2008-05","Audioslave",2
+"2008-05","Chevelle",5
+"2008-05","Coldplay",14
+"2008-05","Creed",5
+"2008-05","Dave Matthews Band",9
+"2008-05","Days Of The New",4
+"2008-05","Deus",24
+"2008-05","Foo Fighters",0
+"2008-05","Jane'S Addiction",1
+"2008-05","John Frusciante",12
+"2008-05","Mad Season",10
+"2008-05","Pearl Jam",72
+"2008-05","Radiohead",37
+"2008-05","Snow Patrol",4
+"2008-05","Stereophonics",16
+"2008-05","The Smashing Pumpkins",9
+"2008-05","Tool",9
+"2008-05","U2",69
+"2008-06","Alice In Chains",4
+"2008-06","Anathema",3
+"2008-06","Audioslave",2
+"2008-06","Chevelle",0
+"2008-06","Coldplay",0
+"2008-06","Creed",0
+"2008-06","Dave Matthews Band",5
+"2008-06","Days Of The New",0
+"2008-06","Deus",2
+"2008-06","Foo Fighters",42
+"2008-06","Jane'S Addiction",1
+"2008-06","John Frusciante",8
+"2008-06","Mad Season",1
+"2008-06","Pearl Jam",46
+"2008-06","Radiohead",3
+"2008-06","Snow Patrol",11
+"2008-06","Stereophonics",0
+"2008-06","The Smashing Pumpkins",0
+"2008-06","Tool",6
+"2008-06","U2",19
+"2008-07","Alice In Chains",9
+"2008-07","Anathema",8
+"2008-07","Audioslave",0
+"2008-07","Chevelle",0
+"2008-07","Coldplay",2
+"2008-07","Creed",1
+"2008-07","Dave Matthews Band",11
+"2008-07","Days Of The New",4
+"2008-07","Deus",5
+"2008-07","Foo Fighters",3
+"2008-07","Jane'S Addiction",0
+"2008-07","John Frusciante",3
+"2008-07","Mad Season",1
+"2008-07","Pearl Jam",16
+"2008-07","Radiohead",15
+"2008-07","Snow Patrol",2
+"2008-07","Stereophonics",11
+"2008-07","The Smashing Pumpkins",5
+"2008-07","Tool",11
+"2008-07","U2",9
+"2008-08","Alice In Chains",15
+"2008-08","Anathema",1
+"2008-08","Audioslave",1
+"2008-08","Chevelle",4
+"2008-08","Coldplay",5
+"2008-08","Creed",0
+"2008-08","Dave Matthews Band",3
+"2008-08","Days Of The New",0
+"2008-08","Deus",1
+"2008-08","Foo Fighters",1
+"2008-08","Jane'S Addiction",1
+"2008-08","John Frusciante",23
+"2008-08","Mad Season",3
+"2008-08","Pearl Jam",24
+"2008-08","Radiohead",17
+"2008-08","Snow Patrol",20
+"2008-08","Stereophonics",4
+"2008-08","The Smashing Pumpkins",2
+"2008-08","Tool",13
+"2008-08","U2",5
+"2008-09","Alice In Chains",1
+"2008-09","Anathema",0
+"2008-09","Audioslave",24
+"2008-09","Chevelle",3
+"2008-09","Coldplay",1
+"2008-09","Creed",1
+"2008-09","Dave Matthews Band",7
+"2008-09","Days Of The New",9
+"2008-09","Deus",3
+"2008-09","Foo Fighters",2
+"2008-09","Jane'S Addiction",1
+"2008-09","John Frusciante",1
+"2008-09","Mad Season",1
+"2008-09","Pearl Jam",14
+"2008-09","Radiohead",2
+"2008-09","Snow Patrol",1
+"2008-09","Stereophonics",0
+"2008-09","The Smashing Pumpkins",1
+"2008-09","Tool",0
+"2008-09","U2",23
+"2008-10","Alice In Chains",0
+"2008-10","Anathema",0
+"2008-10","Audioslave",0
+"2008-10","Chevelle",0
+"2008-10","Coldplay",0
+"2008-10","Creed",0
+"2008-10","Dave Matthews Band",0
+"2008-10","Days Of The New",0
+"2008-10","Deus",0
+"2008-10","Foo Fighters",0
+"2008-10","Jane'S Addiction",0
+"2008-10","John Frusciante",0
+"2008-10","Mad Season",0
+"2008-10","Pearl Jam",0
+"2008-10","Radiohead",0
+"2008-10","Snow Patrol",0
+"2008-10","Stereophonics",0
+"2008-10","The Smashing Pumpkins",0
+"2008-10","Tool",0
+"2008-10","U2",0
+"2008-11","Alice In Chains",0
+"2008-11","Anathema",0
+"2008-11","Audioslave",0
+"2008-11","Chevelle",0
+"2008-11","Coldplay",0
+"2008-11","Creed",0
+"2008-11","Dave Matthews Band",0
+"2008-11","Days Of The New",0
+"2008-11","Deus",0
+"2008-11","Foo Fighters",0
+"2008-11","Jane'S Addiction",0
+"2008-11","John Frusciante",0
+"2008-11","Mad Season",0
+"2008-11","Pearl Jam",0
+"2008-11","Radiohead",0
+"2008-11","Snow Patrol",0
+"2008-11","Stereophonics",0
+"2008-11","The Smashing Pumpkins",0
+"2008-11","Tool",0
+"2008-11","U2",0
+"2008-12","Alice In Chains",28
+"2008-12","Anathema",2
+"2008-12","Audioslave",0
+"2008-12","Chevelle",1
+"2008-12","Coldplay",1
+"2008-12","Creed",0
+"2008-12","Dave Matthews Band",2
+"2008-12","Days Of The New",2
+"2008-12","Deus",1
+"2008-12","Foo Fighters",1
+"2008-12","Jane'S Addiction",4
+"2008-12","John Frusciante",0
+"2008-12","Mad Season",1
+"2008-12","Pearl Jam",30
+"2008-12","Radiohead",3
+"2008-12","Snow Patrol",0
+"2008-12","Stereophonics",0
+"2008-12","The Smashing Pumpkins",2
+"2008-12","Tool",12
+"2008-12","U2",2
+"2009-01","Alice In Chains",38
+"2009-01","Anathema",6
+"2009-01","Audioslave",9
+"2009-01","Chevelle",9
+"2009-01","Coldplay",0
+"2009-01","Creed",8
+"2009-01","Dave Matthews Band",44
+"2009-01","Days Of The New",1
+"2009-01","Deus",38
+"2009-01","Foo Fighters",9
+"2009-01","Jane'S Addiction",17
+"2009-01","John Frusciante",32
+"2009-01","Mad Season",2
+"2009-01","Pearl Jam",82
+"2009-01","Radiohead",8
+"2009-01","Snow Patrol",0
+"2009-01","Stereophonics",3
+"2009-01","The Smashing Pumpkins",5
+"2009-01","Tool",5
+"2009-01","U2",11
+"2009-02","Alice In Chains",7
+"2009-02","Anathema",0
+"2009-02","Audioslave",0
+"2009-02","Chevelle",0
+"2009-02","Coldplay",0
+"2009-02","Creed",0
+"2009-02","Dave Matthews Band",1
+"2009-02","Days Of The New",0
+"2009-02","Deus",0
+"2009-02","Foo Fighters",1
+"2009-02","Jane'S Addiction",2
+"2009-02","John Frusciante",0
+"2009-02","Mad Season",1
+"2009-02","Pearl Jam",5
+"2009-02","Radiohead",0
+"2009-02","Snow Patrol",1
+"2009-02","Stereophonics",4
+"2009-02","The Smashing Pumpkins",1
+"2009-02","Tool",0
+"2009-02","U2",1
+"2009-03","Alice In Chains",15
+"2009-03","Anathema",3
+"2009-03","Audioslave",0
+"2009-03","Chevelle",4
+"2009-03","Coldplay",0
+"2009-03","Creed",1
+"2009-03","Dave Matthews Band",20
+"2009-03","Days Of The New",0
+"2009-03","Deus",3
+"2009-03","Foo Fighters",3
+"2009-03","Jane'S Addiction",1
+"2009-03","John Frusciante",27
+"2009-03","Mad Season",4
+"2009-03","Pearl Jam",21
+"2009-03","Radiohead",0
+"2009-03","Snow Patrol",5
+"2009-03","Stereophonics",1
+"2009-03","The Smashing Pumpkins",7
+"2009-03","Tool",1
+"2009-03","U2",3
+"2009-04","Alice In Chains",2
+"2009-04","Anathema",0
+"2009-04","Audioslave",0
+"2009-04","Chevelle",0
+"2009-04","Coldplay",6
+"2009-04","Creed",0
+"2009-04","Dave Matthews Band",4
+"2009-04","Days Of The New",0
+"2009-04","Deus",1
+"2009-04","Foo Fighters",0
+"2009-04","Jane'S Addiction",0
+"2009-04","John Frusciante",31
+"2009-04","Mad Season",1
+"2009-04","Pearl Jam",30
+"2009-04","Radiohead",0
+"2009-04","Snow Patrol",3
+"2009-04","Stereophonics",2
+"2009-04","The Smashing Pumpkins",1
+"2009-04","Tool",0
+"2009-04","U2",6

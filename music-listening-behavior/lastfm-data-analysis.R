@@ -19,11 +19,27 @@ f.expand.artists.months.with.zeros = function(d, month.range=NA) {
   
   result = data.frame(month = c(sapply(all.months, function(m) rep(m, length(all.artists)))))
   result = cbind(result, artist = rep(all.artists, length(all.months)))
-  #result = cbind(result, plays = rep(0, nrow(result)))
   result = merge(d, result, by.x=c("month", "artist"), by.y=c("month", "artist"), all.y=TRUE)
   na.pos = which(is.na(result$plays))
   if (length(na.pos) > 0)
     result[na.pos,]$plays = 0  
+  
+  return(result)
+}
+
+f.expand.artists.days.with.zeros = function(d, day.range=NA) {
+  if (is.any.na(day.range))
+    day.range = range(d$day)
+  
+  all.days = as.character(seq(as.Date(day.range[1]), as.Date(day.range[2]), by="1 day"))
+  all.artists = unique(d$artist)
+  
+  result = data.frame(day = c(sapply(all.days, function(m) rep(m, length(all.artists)))))
+  result = cbind(result, artist = rep(all.artists, length(all.days)))
+  result = merge(d, result, by.x=c("day", "artist"), by.y=c("day", "artist"), all.y=TRUE)
+  na.pos = which(is.na(result$plays))
+  if (length(na.pos) > 0)
+    result[na.pos,]$plays = 0
   
   return(result)
 }
@@ -34,27 +50,39 @@ max.month.range = c("2005-02", "2013-09")
 users = read.table(gzfile(paste(baseDir, "userid-profile.tsv.gz", sep="/"), quote="", sep="\t")
 names(users) = c("id", "gender", "age", "country", "registered")
 
-for (userId in users$id[which(users$id == "user_000784"):length(users$id)]) {
+#for (userId in users$id[which(users$id == "user_000001"):length(users$id)]) {
+for (userId in users$id) {
   print(paste("Processing ", userId, "...", sep=""))
   # Data for user 1 only (users were cut into separate files using split-by-user.py).
   songs = read.table(paste(paste(baseDir, userId, sep="/"), "csv", sep="."), quote="", sep="\t", fill=T)
   names(songs) = c("id", "timestamp", "artid", "artname", "traid", "traname")
   songs$month = strftime(as.Date(songs$timestamp), "%Y-%m")
+  #songs$day = strftime(as.Date(songs$timestamp), "%Y-%m-%d")
   
   # Monthly number of plays for each artist.
   monthly.artist.plays = with(songs, aggregate(artname, by=list(month, artname), length))
   names(monthly.artist.plays) = c("month", "artist", "plays")
+  
+  # Daly number of plays for each artist.
+  #daily.artist.plays = with(songs, aggregate(artname, by=list(day, artname), length))
+  #names(daily.artist.plays) = c("day", "artist", "plays")
     
   # Top overall artists.
   overall.ranks = with(monthly.artist.plays, aggregate(artist, by=list(artist), length))
   names(overall.ranks) = c("artist", "plays")
   overall.ranks = overall.ranks[order(overall.ranks$plays, decreasing=T),]
   
-  # Fill the time series with zeros for missing values and export to CSV.
+  # Fill the monthly time series with zeros for missing values and export to CSV.
   write.csv(f.expand.artists.months.with.zeros(monthly.artist.plays[
     which(monthly.artist.plays$artist %in% overall.ranks[1:20, ]$artist),]),
             file=paste(paste(baseDir, userId, sep="/"), "_monthly_activity.csv", sep=""),
-            quote=FALSE, row.names=FALSE)
+            row.names=FALSE)
+  
+  # Fill the daily time series with zeros for missing values and export to CSV.
+  #write.csv(f.expand.artists.days.with.zeros(daily.artist.plays[
+  #  which(daily.artist.plays$artist %in% overall.ranks[1:20, ]$artist),]),
+  #          file=paste(paste(baseDir, userId, sep="/"), "_daily_activity.csv", sep=""),
+  #          quote=FALSE, row.names=FALSE)
     
   # Monthly favorite artists.
   monthly.favorite = with(monthly.artist.plays, aggregate(plays, by=list(month), function(monthly.plays) artist[which.max(monthly.plays)]))

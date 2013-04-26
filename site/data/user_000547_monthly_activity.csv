@@ -1,41 +1,41 @@
-month,artist,plays
-2009-05,Aereogramme,2
-2009-05,Burning Airlines,0
-2009-05,Cathedral,0
-2009-05,Channels,0
-2009-05,Converge,8
-2009-05,Depeche Mode,0
-2009-05,Earth Crisis,0
-2009-05,His Hero Is Gone,0
-2009-05,Hour Of Penance,1
-2009-05,Hum,0
-2009-05,Into Another,0
-2009-05,Jawbox,0
-2009-05,Kent,0
-2009-05,Khoma,0
-2009-05,Koma,0
-2009-05,Kyuss,0
-2009-05,Mock Orange,0
-2009-05,Neuraxis,1
-2009-05,Oceansize,0
-2009-05,Porcupine Tree,0
-2009-06,Aereogramme,0
-2009-06,Burning Airlines,11
-2009-06,Cathedral,21
-2009-06,Channels,1
-2009-06,Converge,0
-2009-06,Depeche Mode,19
-2009-06,Earth Crisis,9
-2009-06,His Hero Is Gone,7
-2009-06,Hour Of Penance,0
-2009-06,Hum,10
-2009-06,Into Another,16
-2009-06,Jawbox,9
-2009-06,Kent,17
-2009-06,Khoma,8
-2009-06,Koma,3
-2009-06,Kyuss,13
-2009-06,Mock Orange,10
-2009-06,Neuraxis,0
-2009-06,Oceansize,9
-2009-06,Porcupine Tree,1
+"month","artist","plays"
+"2009-05","Aereogramme",2
+"2009-05","Burning Airlines",0
+"2009-05","Cathedral",0
+"2009-05","Channels",0
+"2009-05","Converge",8
+"2009-05","Depeche Mode",0
+"2009-05","Earth Crisis",0
+"2009-05","His Hero Is Gone",0
+"2009-05","Hour Of Penance",1
+"2009-05","Hum",0
+"2009-05","Into Another",0
+"2009-05","Jawbox",0
+"2009-05","Kent",0
+"2009-05","Khoma",0
+"2009-05","Koma",0
+"2009-05","Kyuss",0
+"2009-05","Mock Orange",0
+"2009-05","Neuraxis",1
+"2009-05","Oceansize",0
+"2009-05","Porcupine Tree",0
+"2009-06","Aereogramme",0
+"2009-06","Burning Airlines",11
+"2009-06","Cathedral",21
+"2009-06","Channels",1
+"2009-06","Converge",0
+"2009-06","Depeche Mode",19
+"2009-06","Earth Crisis",9
+"2009-06","His Hero Is Gone",7
+"2009-06","Hour Of Penance",0
+"2009-06","Hum",10
+"2009-06","Into Another",16
+"2009-06","Jawbox",9
+"2009-06","Kent",17
+"2009-06","Khoma",8
+"2009-06","Koma",3
+"2009-06","Kyuss",13
+"2009-06","Mock Orange",10
+"2009-06","Neuraxis",0
+"2009-06","Oceansize",9
+"2009-06","Porcupine Tree",1

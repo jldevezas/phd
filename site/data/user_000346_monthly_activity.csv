@@ -1,501 +1,501 @@
-month,artist,plays
-2007-04,Amy Winehouse,0
-2007-04,Aphrodite'S Child,0
-2007-04,Apocalyptica,0
-2007-04,Arch Enemy,0
-2007-04,Arctic Monkeys,0
-2007-04,Depeche Mode,2
-2007-04,Dream Theater,0
-2007-04,Evanescence,12
-2007-04,Fear Factory,6
-2007-04,Hladno Pivo,0
-2007-04,Ignite,0
-2007-04,In Flames,0
-2007-04,Manu Chao,0
-2007-04,Queen,0
-2007-04,Rage Against The Machine,0
-2007-04,Sigur Rós,0
-2007-04,Simon & Garfunkel,0
-2007-04,Tenacious D,0
-2007-04,The Rolling Stones,0
-2007-04,U2,0
-2007-05,Amy Winehouse,0
-2007-05,Aphrodite'S Child,0
-2007-05,Apocalyptica,0
-2007-05,Arch Enemy,0
-2007-05,Arctic Monkeys,0
-2007-05,Depeche Mode,1
-2007-05,Dream Theater,0
-2007-05,Evanescence,24
-2007-05,Fear Factory,26
-2007-05,Hladno Pivo,0
-2007-05,Ignite,0
-2007-05,In Flames,33
-2007-05,Manu Chao,0
-2007-05,Queen,0
-2007-05,Rage Against The Machine,0
-2007-05,Sigur Rós,0
-2007-05,Simon & Garfunkel,0
-2007-05,Tenacious D,0
-2007-05,The Rolling Stones,2
-2007-05,U2,2
-2007-06,Amy Winehouse,0
-2007-06,Aphrodite'S Child,0
-2007-06,Apocalyptica,0
-2007-06,Arch Enemy,4
-2007-06,Arctic Monkeys,0
-2007-06,Depeche Mode,8
-2007-06,Dream Theater,0
-2007-06,Evanescence,70
-2007-06,Fear Factory,22
-2007-06,Hladno Pivo,0
-2007-06,Ignite,0
-2007-06,In Flames,30
-2007-06,Manu Chao,0
-2007-06,Queen,0
-2007-06,Rage Against The Machine,0
-2007-06,Sigur Rós,0
-2007-06,Simon & Garfunkel,0
-2007-06,Tenacious D,70
-2007-06,The Rolling Stones,10
-2007-06,U2,8
-2007-07,Amy Winehouse,0
-2007-07,Aphrodite'S Child,31
-2007-07,Apocalyptica,56
-2007-07,Arch Enemy,24
-2007-07,Arctic Monkeys,0
-2007-07,Depeche Mode,24
-2007-07,Dream Theater,0
-2007-07,Evanescence,68
-2007-07,Fear Factory,26
-2007-07,Hladno Pivo,0
-2007-07,Ignite,0
-2007-07,In Flames,84
-2007-07,Manu Chao,79
-2007-07,Queen,5
-2007-07,Rage Against The Machine,6
-2007-07,Sigur Rós,0
-2007-07,Simon & Garfunkel,2
-2007-07,Tenacious D,21
-2007-07,The Rolling Stones,3
-2007-07,U2,8
-2007-08,Amy Winehouse,0
-2007-08,Aphrodite'S Child,31
-2007-08,Apocalyptica,63
-2007-08,Arch Enemy,17
-2007-08,Arctic Monkeys,0
-2007-08,Depeche Mode,0
-2007-08,Dream Theater,0
-2007-08,Evanescence,40
-2007-08,Fear Factory,0
-2007-08,Hladno Pivo,16
-2007-08,Ignite,0
-2007-08,In Flames,11
-2007-08,Manu Chao,151
-2007-08,Queen,21
-2007-08,Rage Against The Machine,15
-2007-08,Sigur Rós,0
-2007-08,Simon & Garfunkel,0
-2007-08,Tenacious D,24
-2007-08,The Rolling Stones,10
-2007-08,U2,5
-2007-09,Amy Winehouse,0
-2007-09,Aphrodite'S Child,1
-2007-09,Apocalyptica,29
-2007-09,Arch Enemy,0
-2007-09,Arctic Monkeys,0
-2007-09,Depeche Mode,0
-2007-09,Dream Theater,0
-2007-09,Evanescence,57
-2007-09,Fear Factory,9
-2007-09,Hladno Pivo,7
-2007-09,Ignite,0
-2007-09,In Flames,0
-2007-09,Manu Chao,55
-2007-09,Queen,9
-2007-09,Rage Against The Machine,0
-2007-09,Sigur Rós,0
-2007-09,Simon & Garfunkel,144
-2007-09,Tenacious D,10
-2007-09,The Rolling Stones,5
-2007-09,U2,1
-2007-10,Amy Winehouse,0
-2007-10,Aphrodite'S Child,44
-2007-10,Apocalyptica,19
-2007-10,Arch Enemy,39
-2007-10,Arctic Monkeys,0
-2007-10,Depeche Mode,20
-2007-10,Dream Theater,0
-2007-10,Evanescence,69
-2007-10,Fear Factory,26
-2007-10,Hladno Pivo,21
-2007-10,Ignite,0
-2007-10,In Flames,24
-2007-10,Manu Chao,71
-2007-10,Queen,39
-2007-10,Rage Against The Machine,41
-2007-10,Sigur Rós,0
-2007-10,Simon & Garfunkel,110
-2007-10,Tenacious D,21
-2007-10,The Rolling Stones,50
-2007-10,U2,23
-2007-11,Amy Winehouse,0
-2007-11,Aphrodite'S Child,44
-2007-11,Apocalyptica,79
-2007-11,Arch Enemy,99
-2007-11,Arctic Monkeys,0
-2007-11,Depeche Mode,40
-2007-11,Dream Theater,0
-2007-11,Evanescence,58
-2007-11,Fear Factory,21
-2007-11,Hladno Pivo,11
-2007-11,Ignite,0
-2007-11,In Flames,106
-2007-11,Manu Chao,33
-2007-11,Queen,29
-2007-11,Rage Against The Machine,81
-2007-11,Sigur Rós,9
-2007-11,Simon & Garfunkel,59
-2007-11,Tenacious D,54
-2007-11,The Rolling Stones,85
-2007-11,U2,34
-2007-12,Amy Winehouse,0
-2007-12,Aphrodite'S Child,42
-2007-12,Apocalyptica,23
-2007-12,Arch Enemy,48
-2007-12,Arctic Monkeys,0
-2007-12,Depeche Mode,25
-2007-12,Dream Theater,0
-2007-12,Evanescence,6
-2007-12,Fear Factory,18
-2007-12,Hladno Pivo,2
-2007-12,Ignite,80
-2007-12,In Flames,65
-2007-12,Manu Chao,16
-2007-12,Queen,12
-2007-12,Rage Against The Machine,28
-2007-12,Sigur Rós,94
-2007-12,Simon & Garfunkel,74
-2007-12,Tenacious D,0
-2007-12,The Rolling Stones,24
-2007-12,U2,16
-2008-01,Amy Winehouse,10
-2008-01,Aphrodite'S Child,1
-2008-01,Apocalyptica,111
-2008-01,Arch Enemy,48
-2008-01,Arctic Monkeys,18
-2008-01,Depeche Mode,0
-2008-01,Dream Theater,37
-2008-01,Evanescence,0
-2008-01,Fear Factory,0
-2008-01,Hladno Pivo,9
-2008-01,Ignite,64
-2008-01,In Flames,37
-2008-01,Manu Chao,37
-2008-01,Queen,11
-2008-01,Rage Against The Machine,180
-2008-01,Sigur Rós,38
-2008-01,Simon & Garfunkel,14
-2008-01,Tenacious D,0
-2008-01,The Rolling Stones,7
-2008-01,U2,0
-2008-02,Amy Winehouse,0
-2008-02,Aphrodite'S Child,0
-2008-02,Apocalyptica,20
-2008-02,Arch Enemy,15
-2008-02,Arctic Monkeys,14
-2008-02,Depeche Mode,0
-2008-02,Dream Theater,56
-2008-02,Evanescence,0
-2008-02,Fear Factory,10
-2008-02,Hladno Pivo,11
-2008-02,Ignite,112
-2008-02,In Flames,1
-2008-02,Manu Chao,30
-2008-02,Queen,7
-2008-02,Rage Against The Machine,186
-2008-02,Sigur Rós,30
-2008-02,Simon & Garfunkel,28
-2008-02,Tenacious D,51
-2008-02,The Rolling Stones,0
-2008-02,U2,8
-2008-03,Amy Winehouse,5
-2008-03,Aphrodite'S Child,2
-2008-03,Apocalyptica,54
-2008-03,Arch Enemy,3
-2008-03,Arctic Monkeys,6
-2008-03,Depeche Mode,0
-2008-03,Dream Theater,99
-2008-03,Evanescence,0
-2008-03,Fear Factory,0
-2008-03,Hladno Pivo,0
-2008-03,Ignite,166
-2008-03,In Flames,47
-2008-03,Manu Chao,4
-2008-03,Queen,11
-2008-03,Rage Against The Machine,352
-2008-03,Sigur Rós,64
-2008-03,Simon & Garfunkel,0
-2008-03,Tenacious D,0
-2008-03,The Rolling Stones,0
-2008-03,U2,2
-2008-04,Amy Winehouse,5
-2008-04,Aphrodite'S Child,66
-2008-04,Apocalyptica,74
-2008-04,Arch Enemy,0
-2008-04,Arctic Monkeys,0
-2008-04,Depeche Mode,0
-2008-04,Dream Theater,18
-2008-04,Evanescence,0
-2008-04,Fear Factory,0
-2008-04,Hladno Pivo,0
-2008-04,Ignite,50
-2008-04,In Flames,3
-2008-04,Manu Chao,29
-2008-04,Queen,0
-2008-04,Rage Against The Machine,98
-2008-04,Sigur Rós,28
-2008-04,Simon & Garfunkel,0
-2008-04,Tenacious D,0
-2008-04,The Rolling Stones,0
-2008-04,U2,0
-2008-05,Amy Winehouse,0
-2008-05,Aphrodite'S Child,41
-2008-05,Apocalyptica,48
-2008-05,Arch Enemy,0
-2008-05,Arctic Monkeys,3
-2008-05,Depeche Mode,0
-2008-05,Dream Theater,0
-2008-05,Evanescence,0
-2008-05,Fear Factory,0
-2008-05,Hladno Pivo,8
-2008-05,Ignite,2
-2008-05,In Flames,27
-2008-05,Manu Chao,0
-2008-05,Queen,0
-2008-05,Rage Against The Machine,66
-2008-05,Sigur Rós,0
-2008-05,Simon & Garfunkel,0
-2008-05,Tenacious D,0
-2008-05,The Rolling Stones,0
-2008-05,U2,0
-2008-06,Amy Winehouse,0
-2008-06,Aphrodite'S Child,42
-2008-06,Apocalyptica,66
-2008-06,Arch Enemy,0
-2008-06,Arctic Monkeys,1
-2008-06,Depeche Mode,0
-2008-06,Dream Theater,3
-2008-06,Evanescence,0
-2008-06,Fear Factory,0
-2008-06,Hladno Pivo,0
-2008-06,Ignite,0
-2008-06,In Flames,0
-2008-06,Manu Chao,2
-2008-06,Queen,3
-2008-06,Rage Against The Machine,124
-2008-06,Sigur Rós,11
-2008-06,Simon & Garfunkel,47
-2008-06,Tenacious D,0
-2008-06,The Rolling Stones,4
-2008-06,U2,0
-2008-07,Amy Winehouse,4
-2008-07,Aphrodite'S Child,3
-2008-07,Apocalyptica,0
-2008-07,Arch Enemy,0
-2008-07,Arctic Monkeys,0
-2008-07,Depeche Mode,0
-2008-07,Dream Theater,1
-2008-07,Evanescence,0
-2008-07,Fear Factory,0
-2008-07,Hladno Pivo,0
-2008-07,Ignite,0
-2008-07,In Flames,0
-2008-07,Manu Chao,0
-2008-07,Queen,0
-2008-07,Rage Against The Machine,53
-2008-07,Sigur Rós,0
-2008-07,Simon & Garfunkel,145
-2008-07,Tenacious D,0
-2008-07,The Rolling Stones,0
-2008-07,U2,0
-2008-08,Amy Winehouse,29
-2008-08,Aphrodite'S Child,0
-2008-08,Apocalyptica,5
-2008-08,Arch Enemy,1
-2008-08,Arctic Monkeys,28
-2008-08,Depeche Mode,1
-2008-08,Dream Theater,6
-2008-08,Evanescence,5
-2008-08,Fear Factory,0
-2008-08,Hladno Pivo,0
-2008-08,Ignite,1
-2008-08,In Flames,0
-2008-08,Manu Chao,0
-2008-08,Queen,0
-2008-08,Rage Against The Machine,55
-2008-08,Sigur Rós,66
-2008-08,Simon & Garfunkel,0
-2008-08,Tenacious D,7
-2008-08,The Rolling Stones,0
-2008-08,U2,0
-2008-09,Amy Winehouse,24
-2008-09,Aphrodite'S Child,0
-2008-09,Apocalyptica,40
-2008-09,Arch Enemy,0
-2008-09,Arctic Monkeys,59
-2008-09,Depeche Mode,1
-2008-09,Dream Theater,36
-2008-09,Evanescence,0
-2008-09,Fear Factory,0
-2008-09,Hladno Pivo,11
-2008-09,Ignite,3
-2008-09,In Flames,0
-2008-09,Manu Chao,29
-2008-09,Queen,0
-2008-09,Rage Against The Machine,21
-2008-09,Sigur Rós,15
-2008-09,Simon & Garfunkel,11
-2008-09,Tenacious D,2
-2008-09,The Rolling Stones,0
-2008-09,U2,0
-2008-10,Amy Winehouse,43
-2008-10,Aphrodite'S Child,0
-2008-10,Apocalyptica,0
-2008-10,Arch Enemy,0
-2008-10,Arctic Monkeys,12
-2008-10,Depeche Mode,0
-2008-10,Dream Theater,0
-2008-10,Evanescence,15
-2008-10,Fear Factory,0
-2008-10,Hladno Pivo,0
-2008-10,Ignite,39
-2008-10,In Flames,0
-2008-10,Manu Chao,0
-2008-10,Queen,13
-2008-10,Rage Against The Machine,3
-2008-10,Sigur Rós,5
-2008-10,Simon & Garfunkel,0
-2008-10,Tenacious D,21
-2008-10,The Rolling Stones,0
-2008-10,U2,21
-2008-11,Amy Winehouse,11
-2008-11,Aphrodite'S Child,0
-2008-11,Apocalyptica,4
-2008-11,Arch Enemy,0
-2008-11,Arctic Monkeys,7
-2008-11,Depeche Mode,0
-2008-11,Dream Theater,20
-2008-11,Evanescence,0
-2008-11,Fear Factory,0
-2008-11,Hladno Pivo,0
-2008-11,Ignite,0
-2008-11,In Flames,0
-2008-11,Manu Chao,0
-2008-11,Queen,0
-2008-11,Rage Against The Machine,0
-2008-11,Sigur Rós,0
-2008-11,Simon & Garfunkel,0
-2008-11,Tenacious D,0
-2008-11,The Rolling Stones,0
-2008-11,U2,0
-2008-12,Amy Winehouse,1
-2008-12,Aphrodite'S Child,0
-2008-12,Apocalyptica,13
-2008-12,Arch Enemy,0
-2008-12,Arctic Monkeys,41
-2008-12,Depeche Mode,1
-2008-12,Dream Theater,7
-2008-12,Evanescence,14
-2008-12,Fear Factory,0
-2008-12,Hladno Pivo,6
-2008-12,Ignite,3
-2008-12,In Flames,0
-2008-12,Manu Chao,0
-2008-12,Queen,0
-2008-12,Rage Against The Machine,0
-2008-12,Sigur Rós,0
-2008-12,Simon & Garfunkel,0
-2008-12,Tenacious D,0
-2008-12,The Rolling Stones,0
-2008-12,U2,0
-2009-01,Amy Winehouse,0
-2009-01,Aphrodite'S Child,0
-2009-01,Apocalyptica,1
-2009-01,Arch Enemy,0
-2009-01,Arctic Monkeys,2
-2009-01,Depeche Mode,0
-2009-01,Dream Theater,0
-2009-01,Evanescence,2
-2009-01,Fear Factory,2
-2009-01,Hladno Pivo,0
-2009-01,Ignite,0
-2009-01,In Flames,0
-2009-01,Manu Chao,0
-2009-01,Queen,0
-2009-01,Rage Against The Machine,0
-2009-01,Sigur Rós,0
-2009-01,Simon & Garfunkel,0
-2009-01,Tenacious D,0
-2009-01,The Rolling Stones,0
-2009-01,U2,0
-2009-02,Amy Winehouse,0
-2009-02,Aphrodite'S Child,0
-2009-02,Apocalyptica,0
-2009-02,Arch Enemy,0
-2009-02,Arctic Monkeys,0
-2009-02,Depeche Mode,0
-2009-02,Dream Theater,0
-2009-02,Evanescence,0
-2009-02,Fear Factory,0
-2009-02,Hladno Pivo,0
-2009-02,Ignite,0
-2009-02,In Flames,0
-2009-02,Manu Chao,0
-2009-02,Queen,0
-2009-02,Rage Against The Machine,0
-2009-02,Sigur Rós,0
-2009-02,Simon & Garfunkel,0
-2009-02,Tenacious D,0
-2009-02,The Rolling Stones,0
-2009-02,U2,0
-2009-03,Amy Winehouse,0
-2009-03,Aphrodite'S Child,0
-2009-03,Apocalyptica,0
-2009-03,Arch Enemy,0
-2009-03,Arctic Monkeys,0
-2009-03,Depeche Mode,0
-2009-03,Dream Theater,0
-2009-03,Evanescence,0
-2009-03,Fear Factory,0
-2009-03,Hladno Pivo,0
-2009-03,Ignite,1
-2009-03,In Flames,0
-2009-03,Manu Chao,0
-2009-03,Queen,0
-2009-03,Rage Against The Machine,0
-2009-03,Sigur Rós,0
-2009-03,Simon & Garfunkel,0
-2009-03,Tenacious D,0
-2009-03,The Rolling Stones,0
-2009-03,U2,0
-2009-04,Amy Winehouse,11
-2009-04,Aphrodite'S Child,0
-2009-04,Apocalyptica,17
-2009-04,Arch Enemy,0
-2009-04,Arctic Monkeys,27
-2009-04,Depeche Mode,0
-2009-04,Dream Theater,0
-2009-04,Evanescence,0
-2009-04,Fear Factory,0
-2009-04,Hladno Pivo,0
-2009-04,Ignite,6
-2009-04,In Flames,0
-2009-04,Manu Chao,0
-2009-04,Queen,3
-2009-04,Rage Against The Machine,9
-2009-04,Sigur Rós,0
-2009-04,Simon & Garfunkel,0
-2009-04,Tenacious D,0
-2009-04,The Rolling Stones,0
-2009-04,U2,0
+"month","artist","plays"
+"2007-04","Amy Winehouse",0
+"2007-04","Aphrodite'S Child",0
+"2007-04","Apocalyptica",0
+"2007-04","Arch Enemy",0
+"2007-04","Arctic Monkeys",0
+"2007-04","Depeche Mode",2
+"2007-04","Dream Theater",0
+"2007-04","Evanescence",12
+"2007-04","Fear Factory",6
+"2007-04","Hladno Pivo",0
+"2007-04","Ignite",0
+"2007-04","In Flames",0
+"2007-04","Manu Chao",0
+"2007-04","Queen",0
+"2007-04","Rage Against The Machine",0
+"2007-04","Sigur Rós",0
+"2007-04","Simon & Garfunkel",0
+"2007-04","Tenacious D",0
+"2007-04","The Rolling Stones",0
+"2007-04","U2",0
+"2007-05","Amy Winehouse",0
+"2007-05","Aphrodite'S Child",0
+"2007-05","Apocalyptica",0
+"2007-05","Arch Enemy",0
+"2007-05","Arctic Monkeys",0
+"2007-05","Depeche Mode",1
+"2007-05","Dream Theater",0
+"2007-05","Evanescence",24
+"2007-05","Fear Factory",26
+"2007-05","Hladno Pivo",0
+"2007-05","Ignite",0
+"2007-05","In Flames",33
+"2007-05","Manu Chao",0
+"2007-05","Queen",0
+"2007-05","Rage Against The Machine",0
+"2007-05","Sigur Rós",0
+"2007-05","Simon & Garfunkel",0
+"2007-05","Tenacious D",0
+"2007-05","The Rolling Stones",2
+"2007-05","U2",2
+"2007-06","Amy Winehouse",0
+"2007-06","Aphrodite'S Child",0
+"2007-06","Apocalyptica",0
+"2007-06","Arch Enemy",4
+"2007-06","Arctic Monkeys",0
+"2007-06","Depeche Mode",8
+"2007-06","Dream Theater",0
+"2007-06","Evanescence",70
+"2007-06","Fear Factory",22
+"2007-06","Hladno Pivo",0
+"2007-06","Ignite",0
+"2007-06","In Flames",30
+"2007-06","Manu Chao",0
+"2007-06","Queen",0
+"2007-06","Rage Against The Machine",0
+"2007-06","Sigur Rós",0
+"2007-06","Simon & Garfunkel",0
+"2007-06","Tenacious D",70
+"2007-06","The Rolling Stones",10
+"2007-06","U2",8
+"2007-07","Amy Winehouse",0
+"2007-07","Aphrodite'S Child",31
+"2007-07","Apocalyptica",56
+"2007-07","Arch Enemy",24
+"2007-07","Arctic Monkeys",0
+"2007-07","Depeche Mode",24
+"2007-07","Dream Theater",0
+"2007-07","Evanescence",68
+"2007-07","Fear Factory",26
+"2007-07","Hladno Pivo",0
+"2007-07","Ignite",0
+"2007-07","In Flames",84
+"2007-07","Manu Chao",79
+"2007-07","Queen",5
+"2007-07","Rage Against The Machine",6
+"2007-07","Sigur Rós",0
+"2007-07","Simon & Garfunkel",2
+"2007-07","Tenacious D",21
+"2007-07","The Rolling Stones",3
+"2007-07","U2",8
+"2007-08","Amy Winehouse",0
+"2007-08","Aphrodite'S Child",31
+"2007-08","Apocalyptica",63
+"2007-08","Arch Enemy",17
+"2007-08","Arctic Monkeys",0
+"2007-08","Depeche Mode",0
+"2007-08","Dream Theater",0
+"2007-08","Evanescence",40
+"2007-08","Fear Factory",0
+"2007-08","Hladno Pivo",16
+"2007-08","Ignite",0
+"2007-08","In Flames",11
+"2007-08","Manu Chao",151
+"2007-08","Queen",21
+"2007-08","Rage Against The Machine",15
+"2007-08","Sigur Rós",0
+"2007-08","Simon & Garfunkel",0
+"2007-08","Tenacious D",24
+"2007-08","The Rolling Stones",10
+"2007-08","U2",5
+"2007-09","Amy Winehouse",0
+"2007-09","Aphrodite'S Child",1
+"2007-09","Apocalyptica",29
+"2007-09","Arch Enemy",0
+"2007-09","Arctic Monkeys",0
+"2007-09","Depeche Mode",0
+"2007-09","Dream Theater",0
+"2007-09","Evanescence",57
+"2007-09","Fear Factory",9
+"2007-09","Hladno Pivo",7
+"2007-09","Ignite",0
+"2007-09","In Flames",0
+"2007-09","Manu Chao",55
+"2007-09","Queen",9
+"2007-09","Rage Against The Machine",0
+"2007-09","Sigur Rós",0
+"2007-09","Simon & Garfunkel",144
+"2007-09","Tenacious D",10
+"2007-09","The Rolling Stones",5
+"2007-09","U2",1
+"2007-10","Amy Winehouse",0
+"2007-10","Aphrodite'S Child",44
+"2007-10","Apocalyptica",19
+"2007-10","Arch Enemy",39
+"2007-10","Arctic Monkeys",0
+"2007-10","Depeche Mode",20
+"2007-10","Dream Theater",0
+"2007-10","Evanescence",69
+"2007-10","Fear Factory",26
+"2007-10","Hladno Pivo",21
+"2007-10","Ignite",0
+"2007-10","In Flames",24
+"2007-10","Manu Chao",71
+"2007-10","Queen",39
+"2007-10","Rage Against The Machine",41
+"2007-10","Sigur Rós",0
+"2007-10","Simon & Garfunkel",110
+"2007-10","Tenacious D",21
+"2007-10","The Rolling Stones",50
+"2007-10","U2",23
+"2007-11","Amy Winehouse",0
+"2007-11","Aphrodite'S Child",44
+"2007-11","Apocalyptica",79
+"2007-11","Arch Enemy",99
+"2007-11","Arctic Monkeys",0
+"2007-11","Depeche Mode",40
+"2007-11","Dream Theater",0
+"2007-11","Evanescence",58
+"2007-11","Fear Factory",21
+"2007-11","Hladno Pivo",11
+"2007-11","Ignite",0
+"2007-11","In Flames",106
+"2007-11","Manu Chao",33
+"2007-11","Queen",29
+"2007-11","Rage Against The Machine",81
+"2007-11","Sigur Rós",9
+"2007-11","Simon & Garfunkel",59
+"2007-11","Tenacious D",54
+"2007-11","The Rolling Stones",85
+"2007-11","U2",34
+"2007-12","Amy Winehouse",0
+"2007-12","Aphrodite'S Child",42
+"2007-12","Apocalyptica",23
+"2007-12","Arch Enemy",48
+"2007-12","Arctic Monkeys",0
+"2007-12","Depeche Mode",25
+"2007-12","Dream Theater",0
+"2007-12","Evanescence",6
+"2007-12","Fear Factory",18
+"2007-12","Hladno Pivo",2
+"2007-12","Ignite",80
+"2007-12","In Flames",65
+"2007-12","Manu Chao",16
+"2007-12","Queen",12
+"2007-12","Rage Against The Machine",28
+"2007-12","Sigur Rós",94
+"2007-12","Simon & Garfunkel",74
+"2007-12","Tenacious D",0
+"2007-12","The Rolling Stones",24
+"2007-12","U2",16
+"2008-01","Amy Winehouse",10
+"2008-01","Aphrodite'S Child",1
+"2008-01","Apocalyptica",111
+"2008-01","Arch Enemy",48
+"2008-01","Arctic Monkeys",18
+"2008-01","Depeche Mode",0
+"2008-01","Dream Theater",37
+"2008-01","Evanescence",0
+"2008-01","Fear Factory",0
+"2008-01","Hladno Pivo",9
+"2008-01","Ignite",64
+"2008-01","In Flames",37
+"2008-01","Manu Chao",37
+"2008-01","Queen",11
+"2008-01","Rage Against The Machine",180
+"2008-01","Sigur Rós",38
+"2008-01","Simon & Garfunkel",14
+"2008-01","Tenacious D",0
+"2008-01","The Rolling Stones",7
+"2008-01","U2",0
+"2008-02","Amy Winehouse",0
+"2008-02","Aphrodite'S Child",0
+"2008-02","Apocalyptica",20
+"2008-02","Arch Enemy",15
+"2008-02","Arctic Monkeys",14
+"2008-02","Depeche Mode",0
+"2008-02","Dream Theater",56
+"2008-02","Evanescence",0
+"2008-02","Fear Factory",10
+"2008-02","Hladno Pivo",11
+"2008-02","Ignite",112
+"2008-02","In Flames",1
+"2008-02","Manu Chao",30
+"2008-02","Queen",7
+"2008-02","Rage Against The Machine",186
+"2008-02","Sigur Rós",30
+"2008-02","Simon & Garfunkel",28
+"2008-02","Tenacious D",51
+"2008-02","The Rolling Stones",0
+"2008-02","U2",8
+"2008-03","Amy Winehouse",5
+"2008-03","Aphrodite'S Child",2
+"2008-03","Apocalyptica",54
+"2008-03","Arch Enemy",3
+"2008-03","Arctic Monkeys",6
+"2008-03","Depeche Mode",0
+"2008-03","Dream Theater",99
+"2008-03","Evanescence",0
+"2008-03","Fear Factory",0
+"2008-03","Hladno Pivo",0
+"2008-03","Ignite",166
+"2008-03","In Flames",47
+"2008-03","Manu Chao",4
+"2008-03","Queen",11
+"2008-03","Rage Against The Machine",352
+"2008-03","Sigur Rós",64
+"2008-03","Simon & Garfunkel",0
+"2008-03","Tenacious D",0
+"2008-03","The Rolling Stones",0
+"2008-03","U2",2
+"2008-04","Amy Winehouse",5
+"2008-04","Aphrodite'S Child",66
+"2008-04","Apocalyptica",74
+"2008-04","Arch Enemy",0
+"2008-04","Arctic Monkeys",0
+"2008-04","Depeche Mode",0
+"2008-04","Dream Theater",18
+"2008-04","Evanescence",0
+"2008-04","Fear Factory",0
+"2008-04","Hladno Pivo",0
+"2008-04","Ignite",50
+"2008-04","In Flames",3
+"2008-04","Manu Chao",29
+"2008-04","Queen",0
+"2008-04","Rage Against The Machine",98
+"2008-04","Sigur Rós",28
+"2008-04","Simon & Garfunkel",0
+"2008-04","Tenacious D",0
+"2008-04","The Rolling Stones",0
+"2008-04","U2",0
+"2008-05","Amy Winehouse",0
+"2008-05","Aphrodite'S Child",41
+"2008-05","Apocalyptica",48
+"2008-05","Arch Enemy",0
+"2008-05","Arctic Monkeys",3
+"2008-05","Depeche Mode",0
+"2008-05","Dream Theater",0
+"2008-05","Evanescence",0
+"2008-05","Fear Factory",0
+"2008-05","Hladno Pivo",8
+"2008-05","Ignite",2
+"2008-05","In Flames",27
+"2008-05","Manu Chao",0
+"2008-05","Queen",0
+"2008-05","Rage Against The Machine",66
+"2008-05","Sigur Rós",0
+"2008-05","Simon & Garfunkel",0
+"2008-05","Tenacious D",0
+"2008-05","The Rolling Stones",0
+"2008-05","U2",0
+"2008-06","Amy Winehouse",0
+"2008-06","Aphrodite'S Child",42
+"2008-06","Apocalyptica",66
+"2008-06","Arch Enemy",0
+"2008-06","Arctic Monkeys",1
+"2008-06","Depeche Mode",0
+"2008-06","Dream Theater",3
+"2008-06","Evanescence",0
+"2008-06","Fear Factory",0
+"2008-06","Hladno Pivo",0
+"2008-06","Ignite",0
+"2008-06","In Flames",0
+"2008-06","Manu Chao",2
+"2008-06","Queen",3
+"2008-06","Rage Against The Machine",124
+"2008-06","Sigur Rós",11
+"2008-06","Simon & Garfunkel",47
+"2008-06","Tenacious D",0
+"2008-06","The Rolling Stones",4
+"2008-06","U2",0
+"2008-07","Amy Winehouse",4
+"2008-07","Aphrodite'S Child",3
+"2008-07","Apocalyptica",0
+"2008-07","Arch Enemy",0
+"2008-07","Arctic Monkeys",0
+"2008-07","Depeche Mode",0
+"2008-07","Dream Theater",1
+"2008-07","Evanescence",0
+"2008-07","Fear Factory",0
+"2008-07","Hladno Pivo",0
+"2008-07","Ignite",0
+"2008-07","In Flames",0
+"2008-07","Manu Chao",0
+"2008-07","Queen",0
+"2008-07","Rage Against The Machine",53
+"2008-07","Sigur Rós",0
+"2008-07","Simon & Garfunkel",145
+"2008-07","Tenacious D",0
+"2008-07","The Rolling Stones",0
+"2008-07","U2",0
+"2008-08","Amy Winehouse",29
+"2008-08","Aphrodite'S Child",0
+"2008-08","Apocalyptica",5
+"2008-08","Arch Enemy",1
+"2008-08","Arctic Monkeys",28
+"2008-08","Depeche Mode",1
+"2008-08","Dream Theater",6
+"2008-08","Evanescence",5
+"2008-08","Fear Factory",0
+"2008-08","Hladno Pivo",0
+"2008-08","Ignite",1
+"2008-08","In Flames",0
+"2008-08","Manu Chao",0
+"2008-08","Queen",0
+"2008-08","Rage Against The Machine",55
+"2008-08","Sigur Rós",66
+"2008-08","Simon & Garfunkel",0
+"2008-08","Tenacious D",7
+"2008-08","The Rolling Stones",0
+"2008-08","U2",0
+"2008-09","Amy Winehouse",24
+"2008-09","Aphrodite'S Child",0
+"2008-09","Apocalyptica",40
+"2008-09","Arch Enemy",0
+"2008-09","Arctic Monkeys",59
+"2008-09","Depeche Mode",1
+"2008-09","Dream Theater",36
+"2008-09","Evanescence",0
+"2008-09","Fear Factory",0
+"2008-09","Hladno Pivo",11
+"2008-09","Ignite",3
+"2008-09","In Flames",0
+"2008-09","Manu Chao",29
+"2008-09","Queen",0
+"2008-09","Rage Against The Machine",21
+"2008-09","Sigur Rós",15
+"2008-09","Simon & Garfunkel",11
+"2008-09","Tenacious D",2
+"2008-09","The Rolling Stones",0
+"2008-09","U2",0
+"2008-10","Amy Winehouse",43
+"2008-10","Aphrodite'S Child",0
+"2008-10","Apocalyptica",0
+"2008-10","Arch Enemy",0
+"2008-10","Arctic Monkeys",12
+"2008-10","Depeche Mode",0
+"2008-10","Dream Theater",0
+"2008-10","Evanescence",15
+"2008-10","Fear Factory",0
+"2008-10","Hladno Pivo",0
+"2008-10","Ignite",39
+"2008-10","In Flames",0
+"2008-10","Manu Chao",0
+"2008-10","Queen",13
+"2008-10","Rage Against The Machine",3
+"2008-10","Sigur Rós",5
+"2008-10","Simon & Garfunkel",0
+"2008-10","Tenacious D",21
+"2008-10","The Rolling Stones",0
+"2008-10","U2",21
+"2008-11","Amy Winehouse",11
+"2008-11","Aphrodite'S Child",0
+"2008-11","Apocalyptica",4
+"2008-11","Arch Enemy",0
+"2008-11","Arctic Monkeys",7
+"2008-11","Depeche Mode",0
+"2008-11","Dream Theater",20
+"2008-11","Evanescence",0
+"2008-11","Fear Factory",0
+"2008-11","Hladno Pivo",0
+"2008-11","Ignite",0
+"2008-11","In Flames",0
+"2008-11","Manu Chao",0
+"2008-11","Queen",0
+"2008-11","Rage Against The Machine",0
+"2008-11","Sigur Rós",0
+"2008-11","Simon & Garfunkel",0
+"2008-11","Tenacious D",0
+"2008-11","The Rolling Stones",0
+"2008-11","U2",0
+"2008-12","Amy Winehouse",1
+"2008-12","Aphrodite'S Child",0
+"2008-12","Apocalyptica",13
+"2008-12","Arch Enemy",0
+"2008-12","Arctic Monkeys",41
+"2008-12","Depeche Mode",1
+"2008-12","Dream Theater",7
+"2008-12","Evanescence",14
+"2008-12","Fear Factory",0
+"2008-12","Hladno Pivo",6
+"2008-12","Ignite",3
+"2008-12","In Flames",0
+"2008-12","Manu Chao",0
+"2008-12","Queen",0
+"2008-12","Rage Against The Machine",0
+"2008-12","Sigur Rós",0
+"2008-12","Simon & Garfunkel",0
+"2008-12","Tenacious D",0
+"2008-12","The Rolling Stones",0
+"2008-12","U2",0
+"2009-01","Amy Winehouse",0
+"2009-01","Aphrodite'S Child",0
+"2009-01","Apocalyptica",1
+"2009-01","Arch Enemy",0
+"2009-01","Arctic Monkeys",2
+"2009-01","Depeche Mode",0
+"2009-01","Dream Theater",0
+"2009-01","Evanescence",2
+"2009-01","Fear Factory",2
+"2009-01","Hladno Pivo",0
+"2009-01","Ignite",0
+"2009-01","In Flames",0
+"2009-01","Manu Chao",0
+"2009-01","Queen",0
+"2009-01","Rage Against The Machine",0
+"2009-01","Sigur Rós",0
+"2009-01","Simon & Garfunkel",0
+"2009-01","Tenacious D",0
+"2009-01","The Rolling Stones",0
+"2009-01","U2",0
+"2009-02","Amy Winehouse",0
+"2009-02","Aphrodite'S Child",0
+"2009-02","Apocalyptica",0
+"2009-02","Arch Enemy",0
+"2009-02","Arctic Monkeys",0
+"2009-02","Depeche Mode",0
+"2009-02","Dream Theater",0
+"2009-02","Evanescence",0
+"2009-02","Fear Factory",0
+"2009-02","Hladno Pivo",0
+"2009-02","Ignite",0
+"2009-02","In Flames",0
+"2009-02","Manu Chao",0
+"2009-02","Queen",0
+"2009-02","Rage Against The Machine",0
+"2009-02","Sigur Rós",0
+"2009-02","Simon & Garfunkel",0
+"2009-02","Tenacious D",0
+"2009-02","The Rolling Stones",0
+"2009-02","U2",0
+"2009-03","Amy Winehouse",0
+"2009-03","Aphrodite'S Child",0
+"2009-03","Apocalyptica",0
+"2009-03","Arch Enemy",0
+"2009-03","Arctic Monkeys",0
+"2009-03","Depeche Mode",0
+"2009-03","Dream Theater",0
+"2009-03","Evanescence",0
+"2009-03","Fear Factory",0
+"2009-03","Hladno Pivo",0
+"2009-03","Ignite",1
+"2009-03","In Flames",0
+"2009-03","Manu Chao",0
+"2009-03","Queen",0
+"2009-03","Rage Against The Machine",0
+"2009-03","Sigur Rós",0
+"2009-03","Simon & Garfunkel",0
+"2009-03","Tenacious D",0
+"2009-03","The Rolling Stones",0
+"2009-03","U2",0
+"2009-04","Amy Winehouse",11
+"2009-04","Aphrodite'S Child",0
+"2009-04","Apocalyptica",17
+"2009-04","Arch Enemy",0
+"2009-04","Arctic Monkeys",27
+"2009-04","Depeche Mode",0
+"2009-04","Dream Theater",0
+"2009-04","Evanescence",0
+"2009-04","Fear Factory",0
+"2009-04","Hladno Pivo",0
+"2009-04","Ignite",6
+"2009-04","In Flames",0
+"2009-04","Manu Chao",0
+"2009-04","Queen",3
+"2009-04","Rage Against The Machine",9
+"2009-04","Sigur Rós",0
+"2009-04","Simon & Garfunkel",0
+"2009-04","Tenacious D",0
+"2009-04","The Rolling Stones",0
+"2009-04","U2",0

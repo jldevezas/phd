@@ -1,101 +1,101 @@
-month,artist,plays
-2008-12,Anberlin,0
-2008-12,At The Drive-In,11
-2008-12,Bayside,16
-2008-12,Bloc Party,5
-2008-12,Carolina Liar,0
-2008-12,Chairlift,0
-2008-12,Circa Survive,10
-2008-12,Coconut Records,0
-2008-12,Cold War Kids,0
-2008-12,Dredg,2
-2008-12,Emery,0
-2008-12,Hawthorne Heights,12
-2008-12,Interpol,43
-2008-12,Ludo,0
-2008-12,New Found Glory,1
-2008-12,Rise Against,13
-2008-12,Senses Fail,1
-2008-12,The Academy Is...,0
-2008-12,Thursday,9
-2008-12,We Are Scientists,0
-2009-01,Anberlin,1
-2009-01,At The Drive-In,0
-2009-01,Bayside,8
-2009-01,Bloc Party,1
-2009-01,Carolina Liar,0
-2009-01,Chairlift,0
-2009-01,Circa Survive,0
-2009-01,Coconut Records,0
-2009-01,Cold War Kids,12
-2009-01,Dredg,0
-2009-01,Emery,0
-2009-01,Hawthorne Heights,0
-2009-01,Interpol,107
-2009-01,Ludo,0
-2009-01,New Found Glory,2
-2009-01,Rise Against,40
-2009-01,Senses Fail,0
-2009-01,The Academy Is...,4
-2009-01,Thursday,3
-2009-01,We Are Scientists,23
-2009-02,Anberlin,0
-2009-02,At The Drive-In,0
-2009-02,Bayside,0
-2009-02,Bloc Party,6
-2009-02,Carolina Liar,49
-2009-02,Chairlift,11
-2009-02,Circa Survive,1
-2009-02,Coconut Records,12
-2009-02,Cold War Kids,15
-2009-02,Dredg,23
-2009-02,Emery,15
-2009-02,Hawthorne Heights,26
-2009-02,Interpol,42
-2009-02,Ludo,89
-2009-02,New Found Glory,1
-2009-02,Rise Against,50
-2009-02,Senses Fail,26
-2009-02,The Academy Is...,58
-2009-02,Thursday,7
-2009-02,We Are Scientists,40
-2009-03,Anberlin,14
-2009-03,At The Drive-In,13
-2009-03,Bayside,5
-2009-03,Bloc Party,0
-2009-03,Carolina Liar,3
-2009-03,Chairlift,13
-2009-03,Circa Survive,6
-2009-03,Coconut Records,45
-2009-03,Cold War Kids,0
-2009-03,Dredg,23
-2009-03,Emery,41
-2009-03,Hawthorne Heights,38
-2009-03,Interpol,43
-2009-03,Ludo,24
-2009-03,New Found Glory,0
-2009-03,Rise Against,6
-2009-03,Senses Fail,55
-2009-03,The Academy Is...,2
-2009-03,Thursday,1
-2009-03,We Are Scientists,149
-2009-04,Anberlin,22
-2009-04,At The Drive-In,11
-2009-04,Bayside,16
-2009-04,Bloc Party,1
-2009-04,Carolina Liar,1
-2009-04,Chairlift,31
-2009-04,Circa Survive,0
-2009-04,Coconut Records,50
-2009-04,Cold War Kids,14
-2009-04,Dredg,1
-2009-04,Emery,54
-2009-04,Hawthorne Heights,6
-2009-04,Interpol,11
-2009-04,Ludo,14
-2009-04,New Found Glory,0
-2009-04,Rise Against,0
-2009-04,Senses Fail,0
-2009-04,The Academy Is...,1
-2009-04,Thursday,7
-2009-04,We Are Scientists,121
+"month","artist","plays"
+"2008-12","Anberlin",0
+"2008-12","At The Drive-In",11
+"2008-12","Bayside",16
+"2008-12","Bloc Party",5
+"2008-12","Carolina Liar",0
+"2008-12","Chairlift",0
+"2008-12","Circa Survive",10
+"2008-12","Coconut Records",0
+"2008-12","Cold War Kids",0
+"2008-12","Dredg",2
+"2008-12","Emery",0
+"2008-12","Hawthorne Heights",12
+"2008-12","Interpol",43
+"2008-12","Ludo",0
+"2008-12","New Found Glory",1
+"2008-12","Rise Against",13
+"2008-12","Senses Fail",1
+"2008-12","The Academy Is...",0
+"2008-12","Thursday",9
+"2008-12","We Are Scientists",0
+"2009-01","Anberlin",1
+"2009-01","At The Drive-In",0
+"2009-01","Bayside",8
+"2009-01","Bloc Party",1
+"2009-01","Carolina Liar",0
+"2009-01","Chairlift",0
+"2009-01","Circa Survive",0
+"2009-01","Coconut Records",0
+"2009-01","Cold War Kids",12
+"2009-01","Dredg",0
+"2009-01","Emery",0
+"2009-01","Hawthorne Heights",0
+"2009-01","Interpol",107
+"2009-01","Ludo",0
+"2009-01","New Found Glory",2
+"2009-01","Rise Against",40
+"2009-01","Senses Fail",0
+"2009-01","The Academy Is...",4
+"2009-01","Thursday",3
+"2009-01","We Are Scientists",23
+"2009-02","Anberlin",0
+"2009-02","At The Drive-In",0
+"2009-02","Bayside",0
+"2009-02","Bloc Party",6
+"2009-02","Carolina Liar",49
+"2009-02","Chairlift",11
+"2009-02","Circa Survive",1
+"2009-02","Coconut Records",12
+"2009-02","Cold War Kids",15
+"2009-02","Dredg",23
+"2009-02","Emery",15
+"2009-02","Hawthorne Heights",26
+"2009-02","Interpol",42
+"2009-02","Ludo",89
+"2009-02","New Found Glory",1
+"2009-02","Rise Against",50
+"2009-02","Senses Fail",26
+"2009-02","The Academy Is...",58
+"2009-02","Thursday",7
+"2009-02","We Are Scientists",40
+"2009-03","Anberlin",14
+"2009-03","At The Drive-In",13
+"2009-03","Bayside",5
+"2009-03","Bloc Party",0
+"2009-03","Carolina Liar",3
+"2009-03","Chairlift",13
+"2009-03","Circa Survive",6
+"2009-03","Coconut Records",45
+"2009-03","Cold War Kids",0
+"2009-03","Dredg",23
+"2009-03","Emery",41
+"2009-03","Hawthorne Heights",38
+"2009-03","Interpol",43
+"2009-03","Ludo",24
+"2009-03","New Found Glory",0
+"2009-03","Rise Against",6
+"2009-03","Senses Fail",55
+"2009-03","The Academy Is...",2
+"2009-03","Thursday",1
+"2009-03","We Are Scientists",149
+"2009-04","Anberlin",22
+"2009-04","At The Drive-In",11
+"2009-04","Bayside",16
+"2009-04","Bloc Party",1
+"2009-04","Carolina Liar",1
+"2009-04","Chairlift",31
+"2009-04","Circa Survive",0
+"2009-04","Coconut Records",50
+"2009-04","Cold War Kids",14
+"2009-04","Dredg",1
+"2009-04","Emery",54
+"2009-04","Hawthorne Heights",6
+"2009-04","Interpol",11
+"2009-04","Ludo",14
+"2009-04","New Found Glory",0
+"2009-04","Rise Against",0
+"2009-04","Senses Fail",0
+"2009-04","The Academy Is...",1
+"2009-04","Thursday",7
+"2009-04","We Are Scientists",121

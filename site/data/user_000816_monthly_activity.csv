@@ -1,821 +1,821 @@
-month,artist,plays
-2005-12,Aesop Rock,0
-2005-12,Al English,0
-2005-12,Alison Krauss,0
-2005-12,Blackalicious,0
-2005-12,Cky,0
-2005-12,Clor,0
-2005-12,Dream Theater,14
-2005-12,Jaco Pastorius,1
-2005-12,Lamb,0
-2005-12,Meshuggah,2
-2005-12,Nickel Creek,0
-2005-12,Noisia,0
-2005-12,Pain Of Salvation,0
-2005-12,Pendulum,14
-2005-12,Porcupine Tree,0
-2005-12,Sikth,1
-2005-12,Sum 41,0
-2005-12,The Mars Volta,11
-2005-12,Venetian Snares,0
-2005-12,Victor Wooten,3
-2006-01,Aesop Rock,0
-2006-01,Al English,0
-2006-01,Alison Krauss,0
-2006-01,Blackalicious,0
-2006-01,Cky,1
-2006-01,Clor,19
-2006-01,Dream Theater,7
-2006-01,Jaco Pastorius,1
-2006-01,Lamb,2
-2006-01,Meshuggah,4
-2006-01,Nickel Creek,0
-2006-01,Noisia,0
-2006-01,Pain Of Salvation,0
-2006-01,Pendulum,15
-2006-01,Porcupine Tree,22
-2006-01,Sikth,20
-2006-01,Sum 41,41
-2006-01,The Mars Volta,69
-2006-01,Venetian Snares,0
-2006-01,Victor Wooten,4
-2006-02,Aesop Rock,17
-2006-02,Al English,0
-2006-02,Alison Krauss,149
-2006-02,Blackalicious,26
-2006-02,Cky,1
-2006-02,Clor,4
-2006-02,Dream Theater,1
-2006-02,Jaco Pastorius,0
-2006-02,Lamb,0
-2006-02,Meshuggah,0
-2006-02,Nickel Creek,96
-2006-02,Noisia,24
-2006-02,Pain Of Salvation,6
-2006-02,Pendulum,3
-2006-02,Porcupine Tree,12
-2006-02,Sikth,5
-2006-02,Sum 41,21
-2006-02,The Mars Volta,15
-2006-02,Venetian Snares,0
-2006-02,Victor Wooten,0
-2006-03,Aesop Rock,0
-2006-03,Al English,0
-2006-03,Alison Krauss,15
-2006-03,Blackalicious,2
-2006-03,Cky,1
-2006-03,Clor,3
-2006-03,Dream Theater,11
-2006-03,Jaco Pastorius,1
-2006-03,Lamb,0
-2006-03,Meshuggah,3
-2006-03,Nickel Creek,28
-2006-03,Noisia,2
-2006-03,Pain Of Salvation,13
-2006-03,Pendulum,1
-2006-03,Porcupine Tree,36
-2006-03,Sikth,2
-2006-03,Sum 41,1
-2006-03,The Mars Volta,36
-2006-03,Venetian Snares,0
-2006-03,Victor Wooten,0
-2006-04,Aesop Rock,0
-2006-04,Al English,9
-2006-04,Alison Krauss,34
-2006-04,Blackalicious,0
-2006-04,Cky,0
-2006-04,Clor,0
-2006-04,Dream Theater,17
-2006-04,Jaco Pastorius,1
-2006-04,Lamb,0
-2006-04,Meshuggah,2
-2006-04,Nickel Creek,51
-2006-04,Noisia,5
-2006-04,Pain Of Salvation,70
-2006-04,Pendulum,0
-2006-04,Porcupine Tree,18
-2006-04,Sikth,38
-2006-04,Sum 41,0
-2006-04,The Mars Volta,22
-2006-04,Venetian Snares,0
-2006-04,Victor Wooten,1
-2006-05,Aesop Rock,25
-2006-05,Al English,14
-2006-05,Alison Krauss,11
-2006-05,Blackalicious,3
-2006-05,Cky,24
-2006-05,Clor,21
-2006-05,Dream Theater,2
-2006-05,Jaco Pastorius,0
-2006-05,Lamb,4
-2006-05,Meshuggah,1
-2006-05,Nickel Creek,52
-2006-05,Noisia,11
-2006-05,Pain Of Salvation,61
-2006-05,Pendulum,3
-2006-05,Porcupine Tree,103
-2006-05,Sikth,11
-2006-05,Sum 41,4
-2006-05,The Mars Volta,36
-2006-05,Venetian Snares,0
-2006-05,Victor Wooten,1
-2006-06,Aesop Rock,5
-2006-06,Al English,8
-2006-06,Alison Krauss,23
-2006-06,Blackalicious,1
-2006-06,Cky,32
-2006-06,Clor,0
-2006-06,Dream Theater,38
-2006-06,Jaco Pastorius,1
-2006-06,Lamb,0
-2006-06,Meshuggah,0
-2006-06,Nickel Creek,166
-2006-06,Noisia,5
-2006-06,Pain Of Salvation,1
-2006-06,Pendulum,0
-2006-06,Porcupine Tree,177
-2006-06,Sikth,80
-2006-06,Sum 41,20
-2006-06,The Mars Volta,183
-2006-06,Venetian Snares,35
-2006-06,Victor Wooten,0
-2006-07,Aesop Rock,1
-2006-07,Al English,0
-2006-07,Alison Krauss,11
-2006-07,Blackalicious,0
-2006-07,Cky,1
-2006-07,Clor,1
-2006-07,Dream Theater,0
-2006-07,Jaco Pastorius,0
-2006-07,Lamb,2
-2006-07,Meshuggah,1
-2006-07,Nickel Creek,36
-2006-07,Noisia,3
-2006-07,Pain Of Salvation,1
-2006-07,Pendulum,0
-2006-07,Porcupine Tree,73
-2006-07,Sikth,45
-2006-07,Sum 41,0
-2006-07,The Mars Volta,160
-2006-07,Venetian Snares,2
-2006-07,Victor Wooten,2
-2006-08,Aesop Rock,0
-2006-08,Al English,3
-2006-08,Alison Krauss,3
-2006-08,Blackalicious,0
-2006-08,Cky,0
-2006-08,Clor,0
-2006-08,Dream Theater,0
-2006-08,Jaco Pastorius,0
-2006-08,Lamb,0
-2006-08,Meshuggah,0
-2006-08,Nickel Creek,0
-2006-08,Noisia,0
-2006-08,Pain Of Salvation,1
-2006-08,Pendulum,0
-2006-08,Porcupine Tree,0
-2006-08,Sikth,0
-2006-08,Sum 41,0
-2006-08,The Mars Volta,5
-2006-08,Venetian Snares,0
-2006-08,Victor Wooten,0
-2006-09,Aesop Rock,16
-2006-09,Al English,11
-2006-09,Alison Krauss,31
-2006-09,Blackalicious,9
-2006-09,Cky,19
-2006-09,Clor,41
-2006-09,Dream Theater,19
-2006-09,Jaco Pastorius,1
-2006-09,Lamb,4
-2006-09,Meshuggah,2
-2006-09,Nickel Creek,280
-2006-09,Noisia,18
-2006-09,Pain Of Salvation,37
-2006-09,Pendulum,9
-2006-09,Porcupine Tree,37
-2006-09,Sikth,14
-2006-09,Sum 41,25
-2006-09,The Mars Volta,38
-2006-09,Venetian Snares,6
-2006-09,Victor Wooten,2
-2006-10,Aesop Rock,7
-2006-10,Al English,12
-2006-10,Alison Krauss,30
-2006-10,Blackalicious,15
-2006-10,Cky,31
-2006-10,Clor,20
-2006-10,Dream Theater,93
-2006-10,Jaco Pastorius,0
-2006-10,Lamb,0
-2006-10,Meshuggah,155
-2006-10,Nickel Creek,188
-2006-10,Noisia,10
-2006-10,Pain Of Salvation,32
-2006-10,Pendulum,7
-2006-10,Porcupine Tree,53
-2006-10,Sikth,19
-2006-10,Sum 41,136
-2006-10,The Mars Volta,73
-2006-10,Venetian Snares,7
-2006-10,Victor Wooten,1
-2006-11,Aesop Rock,19
-2006-11,Al English,9
-2006-11,Alison Krauss,18
-2006-11,Blackalicious,8
-2006-11,Cky,4
-2006-11,Clor,2
-2006-11,Dream Theater,69
-2006-11,Jaco Pastorius,0
-2006-11,Lamb,1
-2006-11,Meshuggah,70
-2006-11,Nickel Creek,32
-2006-11,Noisia,7
-2006-11,Pain Of Salvation,29
-2006-11,Pendulum,5
-2006-11,Porcupine Tree,5
-2006-11,Sikth,8
-2006-11,Sum 41,9
-2006-11,The Mars Volta,80
-2006-11,Venetian Snares,0
-2006-11,Victor Wooten,38
-2006-12,Aesop Rock,5
-2006-12,Al English,5
-2006-12,Alison Krauss,1
-2006-12,Blackalicious,0
-2006-12,Cky,1
-2006-12,Clor,0
-2006-12,Dream Theater,4
-2006-12,Jaco Pastorius,78
-2006-12,Lamb,0
-2006-12,Meshuggah,4
-2006-12,Nickel Creek,3
-2006-12,Noisia,4
-2006-12,Pain Of Salvation,11
-2006-12,Pendulum,2
-2006-12,Porcupine Tree,4
-2006-12,Sikth,15
-2006-12,Sum 41,3
-2006-12,The Mars Volta,3
-2006-12,Venetian Snares,353
-2006-12,Victor Wooten,16
-2007-01,Aesop Rock,37
-2007-01,Al English,1
-2007-01,Alison Krauss,2
-2007-01,Blackalicious,16
-2007-01,Cky,0
-2007-01,Clor,3
-2007-01,Dream Theater,2
-2007-01,Jaco Pastorius,0
-2007-01,Lamb,0
-2007-01,Meshuggah,0
-2007-01,Nickel Creek,2
-2007-01,Noisia,8
-2007-01,Pain Of Salvation,1
-2007-01,Pendulum,0
-2007-01,Porcupine Tree,1
-2007-01,Sikth,0
-2007-01,Sum 41,0
-2007-01,The Mars Volta,10
-2007-01,Venetian Snares,2
-2007-01,Victor Wooten,7
-2007-02,Aesop Rock,0
-2007-02,Al English,0
-2007-02,Alison Krauss,0
-2007-02,Blackalicious,0
-2007-02,Cky,0
-2007-02,Clor,0
-2007-02,Dream Theater,0
-2007-02,Jaco Pastorius,0
-2007-02,Lamb,0
-2007-02,Meshuggah,0
-2007-02,Nickel Creek,0
-2007-02,Noisia,1
-2007-02,Pain Of Salvation,0
-2007-02,Pendulum,0
-2007-02,Porcupine Tree,0
-2007-02,Sikth,3
-2007-02,Sum 41,0
-2007-02,The Mars Volta,0
-2007-02,Venetian Snares,0
-2007-02,Victor Wooten,0
-2007-03,Aesop Rock,0
-2007-03,Al English,0
-2007-03,Alison Krauss,0
-2007-03,Blackalicious,0
-2007-03,Cky,0
-2007-03,Clor,0
-2007-03,Dream Theater,0
-2007-03,Jaco Pastorius,0
-2007-03,Lamb,0
-2007-03,Meshuggah,0
-2007-03,Nickel Creek,0
-2007-03,Noisia,0
-2007-03,Pain Of Salvation,0
-2007-03,Pendulum,0
-2007-03,Porcupine Tree,0
-2007-03,Sikth,0
-2007-03,Sum 41,0
-2007-03,The Mars Volta,0
-2007-03,Venetian Snares,0
-2007-03,Victor Wooten,0
-2007-04,Aesop Rock,0
-2007-04,Al English,0
-2007-04,Alison Krauss,0
-2007-04,Blackalicious,0
-2007-04,Cky,0
-2007-04,Clor,0
-2007-04,Dream Theater,0
-2007-04,Jaco Pastorius,0
-2007-04,Lamb,0
-2007-04,Meshuggah,0
-2007-04,Nickel Creek,0
-2007-04,Noisia,0
-2007-04,Pain Of Salvation,0
-2007-04,Pendulum,0
-2007-04,Porcupine Tree,0
-2007-04,Sikth,0
-2007-04,Sum 41,0
-2007-04,The Mars Volta,0
-2007-04,Venetian Snares,0
-2007-04,Victor Wooten,0
-2007-05,Aesop Rock,0
-2007-05,Al English,0
-2007-05,Alison Krauss,0
-2007-05,Blackalicious,0
-2007-05,Cky,0
-2007-05,Clor,0
-2007-05,Dream Theater,0
-2007-05,Jaco Pastorius,0
-2007-05,Lamb,0
-2007-05,Meshuggah,0
-2007-05,Nickel Creek,0
-2007-05,Noisia,0
-2007-05,Pain Of Salvation,0
-2007-05,Pendulum,0
-2007-05,Porcupine Tree,0
-2007-05,Sikth,0
-2007-05,Sum 41,0
-2007-05,The Mars Volta,0
-2007-05,Venetian Snares,0
-2007-05,Victor Wooten,0
-2007-06,Aesop Rock,0
-2007-06,Al English,0
-2007-06,Alison Krauss,0
-2007-06,Blackalicious,0
-2007-06,Cky,0
-2007-06,Clor,0
-2007-06,Dream Theater,0
-2007-06,Jaco Pastorius,0
-2007-06,Lamb,0
-2007-06,Meshuggah,0
-2007-06,Nickel Creek,0
-2007-06,Noisia,0
-2007-06,Pain Of Salvation,0
-2007-06,Pendulum,0
-2007-06,Porcupine Tree,0
-2007-06,Sikth,0
-2007-06,Sum 41,0
-2007-06,The Mars Volta,0
-2007-06,Venetian Snares,0
-2007-06,Victor Wooten,0
-2007-07,Aesop Rock,0
-2007-07,Al English,0
-2007-07,Alison Krauss,0
-2007-07,Blackalicious,0
-2007-07,Cky,0
-2007-07,Clor,0
-2007-07,Dream Theater,0
-2007-07,Jaco Pastorius,0
-2007-07,Lamb,0
-2007-07,Meshuggah,0
-2007-07,Nickel Creek,0
-2007-07,Noisia,0
-2007-07,Pain Of Salvation,0
-2007-07,Pendulum,0
-2007-07,Porcupine Tree,0
-2007-07,Sikth,0
-2007-07,Sum 41,0
-2007-07,The Mars Volta,0
-2007-07,Venetian Snares,0
-2007-07,Victor Wooten,0
-2007-08,Aesop Rock,0
-2007-08,Al English,0
-2007-08,Alison Krauss,0
-2007-08,Blackalicious,0
-2007-08,Cky,0
-2007-08,Clor,0
-2007-08,Dream Theater,0
-2007-08,Jaco Pastorius,0
-2007-08,Lamb,0
-2007-08,Meshuggah,0
-2007-08,Nickel Creek,0
-2007-08,Noisia,0
-2007-08,Pain Of Salvation,0
-2007-08,Pendulum,0
-2007-08,Porcupine Tree,0
-2007-08,Sikth,0
-2007-08,Sum 41,0
-2007-08,The Mars Volta,0
-2007-08,Venetian Snares,0
-2007-08,Victor Wooten,0
-2007-09,Aesop Rock,0
-2007-09,Al English,0
-2007-09,Alison Krauss,2
-2007-09,Blackalicious,0
-2007-09,Cky,0
-2007-09,Clor,1
-2007-09,Dream Theater,1
-2007-09,Jaco Pastorius,1
-2007-09,Lamb,1
-2007-09,Meshuggah,0
-2007-09,Nickel Creek,2
-2007-09,Noisia,0
-2007-09,Pain Of Salvation,6
-2007-09,Pendulum,1
-2007-09,Porcupine Tree,0
-2007-09,Sikth,0
-2007-09,Sum 41,0
-2007-09,The Mars Volta,0
-2007-09,Venetian Snares,7
-2007-09,Victor Wooten,2
-2007-10,Aesop Rock,69
-2007-10,Al English,0
-2007-10,Alison Krauss,14
-2007-10,Blackalicious,0
-2007-10,Cky,0
-2007-10,Clor,2
-2007-10,Dream Theater,55
-2007-10,Jaco Pastorius,6
-2007-10,Lamb,0
-2007-10,Meshuggah,3
-2007-10,Nickel Creek,59
-2007-10,Noisia,1
-2007-10,Pain Of Salvation,2
-2007-10,Pendulum,1
-2007-10,Porcupine Tree,12
-2007-10,Sikth,4
-2007-10,Sum 41,2
-2007-10,The Mars Volta,0
-2007-10,Venetian Snares,3
-2007-10,Victor Wooten,3
-2007-11,Aesop Rock,46
-2007-11,Al English,0
-2007-11,Alison Krauss,3
-2007-11,Blackalicious,2
-2007-11,Cky,0
-2007-11,Clor,2
-2007-11,Dream Theater,10
-2007-11,Jaco Pastorius,7
-2007-11,Lamb,1
-2007-11,Meshuggah,16
-2007-11,Nickel Creek,8
-2007-11,Noisia,0
-2007-11,Pain Of Salvation,1
-2007-11,Pendulum,2
-2007-11,Porcupine Tree,1
-2007-11,Sikth,3
-2007-11,Sum 41,2
-2007-11,The Mars Volta,1
-2007-11,Venetian Snares,49
-2007-11,Victor Wooten,2
-2007-12,Aesop Rock,31
-2007-12,Al English,24
-2007-12,Alison Krauss,62
-2007-12,Blackalicious,1
-2007-12,Cky,0
-2007-12,Clor,2
-2007-12,Dream Theater,20
-2007-12,Jaco Pastorius,1
-2007-12,Lamb,3
-2007-12,Meshuggah,1
-2007-12,Nickel Creek,6
-2007-12,Noisia,0
-2007-12,Pain Of Salvation,0
-2007-12,Pendulum,1
-2007-12,Porcupine Tree,3
-2007-12,Sikth,1
-2007-12,Sum 41,1
-2007-12,The Mars Volta,1
-2007-12,Venetian Snares,7
-2007-12,Victor Wooten,2
-2008-01,Aesop Rock,29
-2008-01,Al English,2
-2008-01,Alison Krauss,3
-2008-01,Blackalicious,5
-2008-01,Cky,19
-2008-01,Clor,0
-2008-01,Dream Theater,27
-2008-01,Jaco Pastorius,4
-2008-01,Lamb,1
-2008-01,Meshuggah,21
-2008-01,Nickel Creek,18
-2008-01,Noisia,2
-2008-01,Pain Of Salvation,3
-2008-01,Pendulum,2
-2008-01,Porcupine Tree,2
-2008-01,Sikth,4
-2008-01,Sum 41,4
-2008-01,The Mars Volta,1
-2008-01,Venetian Snares,25
-2008-01,Victor Wooten,1
-2008-02,Aesop Rock,17
-2008-02,Al English,3
-2008-02,Alison Krauss,1
-2008-02,Blackalicious,5
-2008-02,Cky,79
-2008-02,Clor,0
-2008-02,Dream Theater,62
-2008-02,Jaco Pastorius,4
-2008-02,Lamb,3
-2008-02,Meshuggah,2
-2008-02,Nickel Creek,7
-2008-02,Noisia,2
-2008-02,Pain Of Salvation,0
-2008-02,Pendulum,3
-2008-02,Porcupine Tree,0
-2008-02,Sikth,3
-2008-02,Sum 41,1
-2008-02,The Mars Volta,13
-2008-02,Venetian Snares,7
-2008-02,Victor Wooten,3
-2008-03,Aesop Rock,23
-2008-03,Al English,3
-2008-03,Alison Krauss,5
-2008-03,Blackalicious,6
-2008-03,Cky,11
-2008-03,Clor,3
-2008-03,Dream Theater,21
-2008-03,Jaco Pastorius,6
-2008-03,Lamb,5
-2008-03,Meshuggah,8
-2008-03,Nickel Creek,8
-2008-03,Noisia,0
-2008-03,Pain Of Salvation,1
-2008-03,Pendulum,1
-2008-03,Porcupine Tree,2
-2008-03,Sikth,4
-2008-03,Sum 41,2
-2008-03,The Mars Volta,4
-2008-03,Venetian Snares,10
-2008-03,Victor Wooten,2
-2008-04,Aesop Rock,17
-2008-04,Al English,1
-2008-04,Alison Krauss,5
-2008-04,Blackalicious,19
-2008-04,Cky,3
-2008-04,Clor,3
-2008-04,Dream Theater,8
-2008-04,Jaco Pastorius,3
-2008-04,Lamb,3
-2008-04,Meshuggah,5
-2008-04,Nickel Creek,21
-2008-04,Noisia,1
-2008-04,Pain Of Salvation,3
-2008-04,Pendulum,1
-2008-04,Porcupine Tree,1
-2008-04,Sikth,3
-2008-04,Sum 41,1
-2008-04,The Mars Volta,7
-2008-04,Venetian Snares,13
-2008-04,Victor Wooten,4
-2008-05,Aesop Rock,15
-2008-05,Al English,0
-2008-05,Alison Krauss,2
-2008-05,Blackalicious,9
-2008-05,Cky,15
-2008-05,Clor,1
-2008-05,Dream Theater,23
-2008-05,Jaco Pastorius,4
-2008-05,Lamb,2
-2008-05,Meshuggah,9
-2008-05,Nickel Creek,7
-2008-05,Noisia,1
-2008-05,Pain Of Salvation,0
-2008-05,Pendulum,3
-2008-05,Porcupine Tree,2
-2008-05,Sikth,2
-2008-05,Sum 41,4
-2008-05,The Mars Volta,0
-2008-05,Venetian Snares,9
-2008-05,Victor Wooten,0
-2008-06,Aesop Rock,21
-2008-06,Al English,2
-2008-06,Alison Krauss,11
-2008-06,Blackalicious,24
-2008-06,Cky,11
-2008-06,Clor,0
-2008-06,Dream Theater,41
-2008-06,Jaco Pastorius,8
-2008-06,Lamb,18
-2008-06,Meshuggah,9
-2008-06,Nickel Creek,22
-2008-06,Noisia,1
-2008-06,Pain Of Salvation,6
-2008-06,Pendulum,2
-2008-06,Porcupine Tree,6
-2008-06,Sikth,12
-2008-06,Sum 41,15
-2008-06,The Mars Volta,4
-2008-06,Venetian Snares,16
-2008-06,Victor Wooten,3
-2008-07,Aesop Rock,0
-2008-07,Al English,0
-2008-07,Alison Krauss,0
-2008-07,Blackalicious,0
-2008-07,Cky,0
-2008-07,Clor,0
-2008-07,Dream Theater,0
-2008-07,Jaco Pastorius,0
-2008-07,Lamb,0
-2008-07,Meshuggah,0
-2008-07,Nickel Creek,0
-2008-07,Noisia,0
-2008-07,Pain Of Salvation,0
-2008-07,Pendulum,0
-2008-07,Porcupine Tree,0
-2008-07,Sikth,0
-2008-07,Sum 41,0
-2008-07,The Mars Volta,0
-2008-07,Venetian Snares,0
-2008-07,Victor Wooten,0
-2008-08,Aesop Rock,215
-2008-08,Al English,2
-2008-08,Alison Krauss,47
-2008-08,Blackalicious,22
-2008-08,Cky,17
-2008-08,Clor,6
-2008-08,Dream Theater,347
-2008-08,Jaco Pastorius,25
-2008-08,Lamb,23
-2008-08,Meshuggah,23
-2008-08,Nickel Creek,83
-2008-08,Noisia,6
-2008-08,Pain Of Salvation,14
-2008-08,Pendulum,4
-2008-08,Porcupine Tree,20
-2008-08,Sikth,22
-2008-08,Sum 41,31
-2008-08,The Mars Volta,19
-2008-08,Venetian Snares,94
-2008-08,Victor Wooten,21
-2008-09,Aesop Rock,260
-2008-09,Al English,44
-2008-09,Alison Krauss,22
-2008-09,Blackalicious,13
-2008-09,Cky,6
-2008-09,Clor,7
-2008-09,Dream Theater,174
-2008-09,Jaco Pastorius,12
-2008-09,Lamb,10
-2008-09,Meshuggah,9
-2008-09,Nickel Creek,17
-2008-09,Noisia,0
-2008-09,Pain Of Salvation,30
-2008-09,Pendulum,6
-2008-09,Porcupine Tree,5
-2008-09,Sikth,8
-2008-09,Sum 41,9
-2008-09,The Mars Volta,42
-2008-09,Venetian Snares,69
-2008-09,Victor Wooten,7
-2008-10,Aesop Rock,52
-2008-10,Al English,2
-2008-10,Alison Krauss,6
-2008-10,Blackalicious,8
-2008-10,Cky,3
-2008-10,Clor,5
-2008-10,Dream Theater,152
-2008-10,Jaco Pastorius,9
-2008-10,Lamb,9
-2008-10,Meshuggah,7
-2008-10,Nickel Creek,17
-2008-10,Noisia,2
-2008-10,Pain Of Salvation,12
-2008-10,Pendulum,2
-2008-10,Porcupine Tree,6
-2008-10,Sikth,9
-2008-10,Sum 41,9
-2008-10,The Mars Volta,40
-2008-10,Venetian Snares,31
-2008-10,Victor Wooten,7
-2008-11,Aesop Rock,45
-2008-11,Al English,0
-2008-11,Alison Krauss,28
-2008-11,Blackalicious,4
-2008-11,Cky,2
-2008-11,Clor,0
-2008-11,Dream Theater,51
-2008-11,Jaco Pastorius,5
-2008-11,Lamb,3
-2008-11,Meshuggah,0
-2008-11,Nickel Creek,20
-2008-11,Noisia,0
-2008-11,Pain Of Salvation,27
-2008-11,Pendulum,7
-2008-11,Porcupine Tree,1
-2008-11,Sikth,2
-2008-11,Sum 41,2
-2008-11,The Mars Volta,19
-2008-11,Venetian Snares,32
-2008-11,Victor Wooten,3
-2008-12,Aesop Rock,5
-2008-12,Al English,0
-2008-12,Alison Krauss,0
-2008-12,Blackalicious,1
-2008-12,Cky,0
-2008-12,Clor,0
-2008-12,Dream Theater,3
-2008-12,Jaco Pastorius,0
-2008-12,Lamb,0
-2008-12,Meshuggah,0
-2008-12,Nickel Creek,2
-2008-12,Noisia,0
-2008-12,Pain Of Salvation,0
-2008-12,Pendulum,0
-2008-12,Porcupine Tree,0
-2008-12,Sikth,0
-2008-12,Sum 41,0
-2008-12,The Mars Volta,2
-2008-12,Venetian Snares,1
-2008-12,Victor Wooten,0
-2009-01,Aesop Rock,4
-2009-01,Al English,0
-2009-01,Alison Krauss,0
-2009-01,Blackalicious,0
-2009-01,Cky,0
-2009-01,Clor,0
-2009-01,Dream Theater,2
-2009-01,Jaco Pastorius,1
-2009-01,Lamb,0
-2009-01,Meshuggah,0
-2009-01,Nickel Creek,1
-2009-01,Noisia,0
-2009-01,Pain Of Salvation,0
-2009-01,Pendulum,0
-2009-01,Porcupine Tree,0
-2009-01,Sikth,0
-2009-01,Sum 41,0
-2009-01,The Mars Volta,0
-2009-01,Venetian Snares,1
-2009-01,Victor Wooten,0
-2009-02,Aesop Rock,0
-2009-02,Al English,0
-2009-02,Alison Krauss,0
-2009-02,Blackalicious,0
-2009-02,Cky,0
-2009-02,Clor,0
-2009-02,Dream Theater,0
-2009-02,Jaco Pastorius,0
-2009-02,Lamb,0
-2009-02,Meshuggah,0
-2009-02,Nickel Creek,0
-2009-02,Noisia,0
-2009-02,Pain Of Salvation,0
-2009-02,Pendulum,0
-2009-02,Porcupine Tree,0
-2009-02,Sikth,0
-2009-02,Sum 41,0
-2009-02,The Mars Volta,0
-2009-02,Venetian Snares,0
-2009-02,Victor Wooten,0
-2009-03,Aesop Rock,7
-2009-03,Al English,0
-2009-03,Alison Krauss,0
-2009-03,Blackalicious,2
-2009-03,Cky,0
-2009-03,Clor,0
-2009-03,Dream Theater,50
-2009-03,Jaco Pastorius,0
-2009-03,Lamb,0
-2009-03,Meshuggah,0
-2009-03,Nickel Creek,1
-2009-03,Noisia,0
-2009-03,Pain Of Salvation,1
-2009-03,Pendulum,0
-2009-03,Porcupine Tree,0
-2009-03,Sikth,0
-2009-03,Sum 41,0
-2009-03,The Mars Volta,0
-2009-03,Venetian Snares,0
-2009-03,Victor Wooten,0
-2009-04,Aesop Rock,9
-2009-04,Al English,0
-2009-04,Alison Krauss,0
-2009-04,Blackalicious,0
-2009-04,Cky,0
-2009-04,Clor,0
-2009-04,Dream Theater,8
-2009-04,Jaco Pastorius,0
-2009-04,Lamb,0
-2009-04,Meshuggah,0
-2009-04,Nickel Creek,0
-2009-04,Noisia,0
-2009-04,Pain Of Salvation,0
-2009-04,Pendulum,0
-2009-04,Porcupine Tree,0
-2009-04,Sikth,0
-2009-04,Sum 41,0
-2009-04,The Mars Volta,0
-2009-04,Venetian Snares,0
-2009-04,Victor Wooten,0
+"month","artist","plays"
+"2005-12","Aesop Rock",0
+"2005-12","Al English",0
+"2005-12","Alison Krauss",0
+"2005-12","Blackalicious",0
+"2005-12","Cky",0
+"2005-12","Clor",0
+"2005-12","Dream Theater",14
+"2005-12","Jaco Pastorius",1
+"2005-12","Lamb",0
+"2005-12","Meshuggah",2
+"2005-12","Nickel Creek",0
+"2005-12","Noisia",0
+"2005-12","Pain Of Salvation",0
+"2005-12","Pendulum",14
+"2005-12","Porcupine Tree",0
+"2005-12","Sikth",1
+"2005-12","Sum 41",0
+"2005-12","The Mars Volta",11
+"2005-12","Venetian Snares",0
+"2005-12","Victor Wooten",3
+"2006-01","Aesop Rock",0
+"2006-01","Al English",0
+"2006-01","Alison Krauss",0
+"2006-01","Blackalicious",0
+"2006-01","Cky",1
+"2006-01","Clor",19
+"2006-01","Dream Theater",7
+"2006-01","Jaco Pastorius",1
+"2006-01","Lamb",2
+"2006-01","Meshuggah",4
+"2006-01","Nickel Creek",0
+"2006-01","Noisia",0
+"2006-01","Pain Of Salvation",0
+"2006-01","Pendulum",15
+"2006-01","Porcupine Tree",22
+"2006-01","Sikth",20
+"2006-01","Sum 41",41
+"2006-01","The Mars Volta",69
+"2006-01","Venetian Snares",0
+"2006-01","Victor Wooten",4
+"2006-02","Aesop Rock",17
+"2006-02","Al English",0
+"2006-02","Alison Krauss",149
+"2006-02","Blackalicious",26
+"2006-02","Cky",1
+"2006-02","Clor",4
+"2006-02","Dream Theater",1
+"2006-02","Jaco Pastorius",0
+"2006-02","Lamb",0
+"2006-02","Meshuggah",0
+"2006-02","Nickel Creek",96
+"2006-02","Noisia",24
+"2006-02","Pain Of Salvation",6
+"2006-02","Pendulum",3
+"2006-02","Porcupine Tree",12
+"2006-02","Sikth",5
+"2006-02","Sum 41",21
+"2006-02","The Mars Volta",15
+"2006-02","Venetian Snares",0
+"2006-02","Victor Wooten",0
+"2006-03","Aesop Rock",0
+"2006-03","Al English",0
+"2006-03","Alison Krauss",15
+"2006-03","Blackalicious",2
+"2006-03","Cky",1
+"2006-03","Clor",3
+"2006-03","Dream Theater",11
+"2006-03","Jaco Pastorius",1
+"2006-03","Lamb",0
+"2006-03","Meshuggah",3
+"2006-03","Nickel Creek",28
+"2006-03","Noisia",2
+"2006-03","Pain Of Salvation",13
+"2006-03","Pendulum",1
+"2006-03","Porcupine Tree",36
+"2006-03","Sikth",2
+"2006-03","Sum 41",1
+"2006-03","The Mars Volta",36
+"2006-03","Venetian Snares",0
+"2006-03","Victor Wooten",0
+"2006-04","Aesop Rock",0
+"2006-04","Al English",9
+"2006-04","Alison Krauss",34
+"2006-04","Blackalicious",0
+"2006-04","Cky",0
+"2006-04","Clor",0
+"2006-04","Dream Theater",17
+"2006-04","Jaco Pastorius",1
+"2006-04","Lamb",0
+"2006-04","Meshuggah",2
+"2006-04","Nickel Creek",51
+"2006-04","Noisia",5
+"2006-04","Pain Of Salvation",70
+"2006-04","Pendulum",0
+"2006-04","Porcupine Tree",18
+"2006-04","Sikth",38
+"2006-04","Sum 41",0
+"2006-04","The Mars Volta",22
+"2006-04","Venetian Snares",0
+"2006-04","Victor Wooten",1
+"2006-05","Aesop Rock",25
+"2006-05","Al English",14
+"2006-05","Alison Krauss",11
+"2006-05","Blackalicious",3
+"2006-05","Cky",24
+"2006-05","Clor",21
+"2006-05","Dream Theater",2
+"2006-05","Jaco Pastorius",0
+"2006-05","Lamb",4
+"2006-05","Meshuggah",1
+"2006-05","Nickel Creek",52
+"2006-05","Noisia",11
+"2006-05","Pain Of Salvation",61
+"2006-05","Pendulum",3
+"2006-05","Porcupine Tree",103
+"2006-05","Sikth",11
+"2006-05","Sum 41",4
+"2006-05","The Mars Volta",36
+"2006-05","Venetian Snares",0
+"2006-05","Victor Wooten",1
+"2006-06","Aesop Rock",5
+"2006-06","Al English",8
+"2006-06","Alison Krauss",23
+"2006-06","Blackalicious",1
+"2006-06","Cky",32
+"2006-06","Clor",0
+"2006-06","Dream Theater",38
+"2006-06","Jaco Pastorius",1
+"2006-06","Lamb",0
+"2006-06","Meshuggah",0
+"2006-06","Nickel Creek",166
+"2006-06","Noisia",5
+"2006-06","Pain Of Salvation",1
+"2006-06","Pendulum",0
+"2006-06","Porcupine Tree",177
+"2006-06","Sikth",80
+"2006-06","Sum 41",20
+"2006-06","The Mars Volta",183
+"2006-06","Venetian Snares",35
+"2006-06","Victor Wooten",0
+"2006-07","Aesop Rock",1
+"2006-07","Al English",0
+"2006-07","Alison Krauss",11
+"2006-07","Blackalicious",0
+"2006-07","Cky",1
+"2006-07","Clor",1
+"2006-07","Dream Theater",0
+"2006-07","Jaco Pastorius",0
+"2006-07","Lamb",2
+"2006-07","Meshuggah",1
+"2006-07","Nickel Creek",36
+"2006-07","Noisia",3
+"2006-07","Pain Of Salvation",1
+"2006-07","Pendulum",0
+"2006-07","Porcupine Tree",73
+"2006-07","Sikth",45
+"2006-07","Sum 41",0
+"2006-07","The Mars Volta",160
+"2006-07","Venetian Snares",2
+"2006-07","Victor Wooten",2
+"2006-08","Aesop Rock",0
+"2006-08","Al English",3
+"2006-08","Alison Krauss",3
+"2006-08","Blackalicious",0
+"2006-08","Cky",0
+"2006-08","Clor",0
+"2006-08","Dream Theater",0
+"2006-08","Jaco Pastorius",0
+"2006-08","Lamb",0
+"2006-08","Meshuggah",0
+"2006-08","Nickel Creek",0
+"2006-08","Noisia",0
+"2006-08","Pain Of Salvation",1
+"2006-08","Pendulum",0
+"2006-08","Porcupine Tree",0
+"2006-08","Sikth",0
+"2006-08","Sum 41",0
+"2006-08","The Mars Volta",5
+"2006-08","Venetian Snares",0
+"2006-08","Victor Wooten",0
+"2006-09","Aesop Rock",16
+"2006-09","Al English",11
+"2006-09","Alison Krauss",31
+"2006-09","Blackalicious",9
+"2006-09","Cky",19
+"2006-09","Clor",41
+"2006-09","Dream Theater",19
+"2006-09","Jaco Pastorius",1
+"2006-09","Lamb",4
+"2006-09","Meshuggah",2
+"2006-09","Nickel Creek",280
+"2006-09","Noisia",18
+"2006-09","Pain Of Salvation",37
+"2006-09","Pendulum",9
+"2006-09","Porcupine Tree",37
+"2006-09","Sikth",14
+"2006-09","Sum 41",25
+"2006-09","The Mars Volta",38
+"2006-09","Venetian Snares",6
+"2006-09","Victor Wooten",2
+"2006-10","Aesop Rock",7
+"2006-10","Al English",12
+"2006-10","Alison Krauss",30
+"2006-10","Blackalicious",15
+"2006-10","Cky",31
+"2006-10","Clor",20
+"2006-10","Dream Theater",93
+"2006-10","Jaco Pastorius",0
+"2006-10","Lamb",0
+"2006-10","Meshuggah",155
+"2006-10","Nickel Creek",188
+"2006-10","Noisia",10
+"2006-10","Pain Of Salvation",32
+"2006-10","Pendulum",7
+"2006-10","Porcupine Tree",53
+"2006-10","Sikth",19
+"2006-10","Sum 41",136
+"2006-10","The Mars Volta",73
+"2006-10","Venetian Snares",7
+"2006-10","Victor Wooten",1
+"2006-11","Aesop Rock",19
+"2006-11","Al English",9
+"2006-11","Alison Krauss",18
+"2006-11","Blackalicious",8
+"2006-11","Cky",4
+"2006-11","Clor",2
+"2006-11","Dream Theater",69
+"2006-11","Jaco Pastorius",0
+"2006-11","Lamb",1
+"2006-11","Meshuggah",70
+"2006-11","Nickel Creek",32
+"2006-11","Noisia",7
+"2006-11","Pain Of Salvation",29
+"2006-11","Pendulum",5
+"2006-11","Porcupine Tree",5
+"2006-11","Sikth",8
+"2006-11","Sum 41",9
+"2006-11","The Mars Volta",80
+"2006-11","Venetian Snares",0
+"2006-11","Victor Wooten",38
+"2006-12","Aesop Rock",5
+"2006-12","Al English",5
+"2006-12","Alison Krauss",1
+"2006-12","Blackalicious",0
+"2006-12","Cky",1
+"2006-12","Clor",0
+"2006-12","Dream Theater",4
+"2006-12","Jaco Pastorius",78
+"2006-12","Lamb",0
+"2006-12","Meshuggah",4
+"2006-12","Nickel Creek",3
+"2006-12","Noisia",4
+"2006-12","Pain Of Salvation",11
+"2006-12","Pendulum",2
+"2006-12","Porcupine Tree",4
+"2006-12","Sikth",15
+"2006-12","Sum 41",3
+"2006-12","The Mars Volta",3
+"2006-12","Venetian Snares",353
+"2006-12","Victor Wooten",16
+"2007-01","Aesop Rock",37
+"2007-01","Al English",1
+"2007-01","Alison Krauss",2
+"2007-01","Blackalicious",16
+"2007-01","Cky",0
+"2007-01","Clor",3
+"2007-01","Dream Theater",2
+"2007-01","Jaco Pastorius",0
+"2007-01","Lamb",0
+"2007-01","Meshuggah",0
+"2007-01","Nickel Creek",2
+"2007-01","Noisia",8
+"2007-01","Pain Of Salvation",1
+"2007-01","Pendulum",0
+"2007-01","Porcupine Tree",1
+"2007-01","Sikth",0
+"2007-01","Sum 41",0
+"2007-01","The Mars Volta",10
+"2007-01","Venetian Snares",2
+"2007-01","Victor Wooten",7
+"2007-02","Aesop Rock",0
+"2007-02","Al English",0
+"2007-02","Alison Krauss",0
+"2007-02","Blackalicious",0
+"2007-02","Cky",0
+"2007-02","Clor",0
+"2007-02","Dream Theater",0
+"2007-02","Jaco Pastorius",0
+"2007-02","Lamb",0
+"2007-02","Meshuggah",0
+"2007-02","Nickel Creek",0
+"2007-02","Noisia",1
+"2007-02","Pain Of Salvation",0
+"2007-02","Pendulum",0
+"2007-02","Porcupine Tree",0
+"2007-02","Sikth",3
+"2007-02","Sum 41",0
+"2007-02","The Mars Volta",0
+"2007-02","Venetian Snares",0
+"2007-02","Victor Wooten",0
+"2007-03","Aesop Rock",0
+"2007-03","Al English",0
+"2007-03","Alison Krauss",0
+"2007-03","Blackalicious",0
+"2007-03","Cky",0
+"2007-03","Clor",0
+"2007-03","Dream Theater",0
+"2007-03","Jaco Pastorius",0
+"2007-03","Lamb",0
+"2007-03","Meshuggah",0
+"2007-03","Nickel Creek",0
+"2007-03","Noisia",0
+"2007-03","Pain Of Salvation",0
+"2007-03","Pendulum",0
+"2007-03","Porcupine Tree",0
+"2007-03","Sikth",0
+"2007-03","Sum 41",0
+"2007-03","The Mars Volta",0
+"2007-03","Venetian Snares",0
+"2007-03","Victor Wooten",0
+"2007-04","Aesop Rock",0
+"2007-04","Al English",0
+"2007-04","Alison Krauss",0
+"2007-04","Blackalicious",0
+"2007-04","Cky",0
+"2007-04","Clor",0
+"2007-04","Dream Theater",0
+"2007-04","Jaco Pastorius",0
+"2007-04","Lamb",0
+"2007-04","Meshuggah",0
+"2007-04","Nickel Creek",0
+"2007-04","Noisia",0
+"2007-04","Pain Of Salvation",0
+"2007-04","Pendulum",0
+"2007-04","Porcupine Tree",0
+"2007-04","Sikth",0
+"2007-04","Sum 41",0
+"2007-04","The Mars Volta",0
+"2007-04","Venetian Snares",0
+"2007-04","Victor Wooten",0
+"2007-05","Aesop Rock",0
+"2007-05","Al English",0
+"2007-05","Alison Krauss",0
+"2007-05","Blackalicious",0
+"2007-05","Cky",0
+"2007-05","Clor",0
+"2007-05","Dream Theater",0
+"2007-05","Jaco Pastorius",0
+"2007-05","Lamb",0
+"2007-05","Meshuggah",0
+"2007-05","Nickel Creek",0
+"2007-05","Noisia",0
+"2007-05","Pain Of Salvation",0
+"2007-05","Pendulum",0
+"2007-05","Porcupine Tree",0
+"2007-05","Sikth",0
+"2007-05","Sum 41",0
+"2007-05","The Mars Volta",0
+"2007-05","Venetian Snares",0
+"2007-05","Victor Wooten",0
+"2007-06","Aesop Rock",0
+"2007-06","Al English",0
+"2007-06","Alison Krauss",0
+"2007-06","Blackalicious",0
+"2007-06","Cky",0
+"2007-06","Clor",0
+"2007-06","Dream Theater",0
+"2007-06","Jaco Pastorius",0
+"2007-06","Lamb",0
+"2007-06","Meshuggah",0
+"2007-06","Nickel Creek",0
+"2007-06","Noisia",0
+"2007-06","Pain Of Salvation",0
+"2007-06","Pendulum",0
+"2007-06","Porcupine Tree",0
+"2007-06","Sikth",0
+"2007-06","Sum 41",0
+"2007-06","The Mars Volta",0
+"2007-06","Venetian Snares",0
+"2007-06","Victor Wooten",0
+"2007-07","Aesop Rock",0
+"2007-07","Al English",0
+"2007-07","Alison Krauss",0
+"2007-07","Blackalicious",0
+"2007-07","Cky",0
+"2007-07","Clor",0
+"2007-07","Dream Theater",0
+"2007-07","Jaco Pastorius",0
+"2007-07","Lamb",0
+"2007-07","Meshuggah",0
+"2007-07","Nickel Creek",0
+"2007-07","Noisia",0
+"2007-07","Pain Of Salvation",0
+"2007-07","Pendulum",0
+"2007-07","Porcupine Tree",0
+"2007-07","Sikth",0
+"2007-07","Sum 41",0
+"2007-07","The Mars Volta",0
+"2007-07","Venetian Snares",0
+"2007-07","Victor Wooten",0
+"2007-08","Aesop Rock",0
+"2007-08","Al English",0
+"2007-08","Alison Krauss",0
+"2007-08","Blackalicious",0
+"2007-08","Cky",0
+"2007-08","Clor",0
+"2007-08","Dream Theater",0
+"2007-08","Jaco Pastorius",0
+"2007-08","Lamb",0
+"2007-08","Meshuggah",0
+"2007-08","Nickel Creek",0
+"2007-08","Noisia",0
+"2007-08","Pain Of Salvation",0
+"2007-08","Pendulum",0
+"2007-08","Porcupine Tree",0
+"2007-08","Sikth",0
+"2007-08","Sum 41",0
+"2007-08","The Mars Volta",0
+"2007-08","Venetian Snares",0
+"2007-08","Victor Wooten",0
+"2007-09","Aesop Rock",0
+"2007-09","Al English",0
+"2007-09","Alison Krauss",2
+"2007-09","Blackalicious",0
+"2007-09","Cky",0
+"2007-09","Clor",1
+"2007-09","Dream Theater",1
+"2007-09","Jaco Pastorius",1
+"2007-09","Lamb",1
+"2007-09","Meshuggah",0
+"2007-09","Nickel Creek",2
+"2007-09","Noisia",0
+"2007-09","Pain Of Salvation",6
+"2007-09","Pendulum",1
+"2007-09","Porcupine Tree",0
+"2007-09","Sikth",0
+"2007-09","Sum 41",0
+"2007-09","The Mars Volta",0
+"2007-09","Venetian Snares",7
+"2007-09","Victor Wooten",2
+"2007-10","Aesop Rock",69
+"2007-10","Al English",0
+"2007-10","Alison Krauss",14
+"2007-10","Blackalicious",0
+"2007-10","Cky",0
+"2007-10","Clor",2
+"2007-10","Dream Theater",55
+"2007-10","Jaco Pastorius",6
+"2007-10","Lamb",0
+"2007-10","Meshuggah",3
+"2007-10","Nickel Creek",59
+"2007-10","Noisia",1
+"2007-10","Pain Of Salvation",2
+"2007-10","Pendulum",1
+"2007-10","Porcupine Tree",12
+"2007-10","Sikth",4
+"2007-10","Sum 41",2
+"2007-10","The Mars Volta",0
+"2007-10","Venetian Snares",3
+"2007-10","Victor Wooten",3
+"2007-11","Aesop Rock",46
+"2007-11","Al English",0
+"2007-11","Alison Krauss",3
+"2007-11","Blackalicious",2
+"2007-11","Cky",0
+"2007-11","Clor",2
+"2007-11","Dream Theater",10
+"2007-11","Jaco Pastorius",7
+"2007-11","Lamb",1
+"2007-11","Meshuggah",16
+"2007-11","Nickel Creek",8
+"2007-11","Noisia",0
+"2007-11","Pain Of Salvation",1
+"2007-11","Pendulum",2
+"2007-11","Porcupine Tree",1
+"2007-11","Sikth",3
+"2007-11","Sum 41",2
+"2007-11","The Mars Volta",1
+"2007-11","Venetian Snares",49
+"2007-11","Victor Wooten",2
+"2007-12","Aesop Rock",31
+"2007-12","Al English",24
+"2007-12","Alison Krauss",62
+"2007-12","Blackalicious",1
+"2007-12","Cky",0
+"2007-12","Clor",2
+"2007-12","Dream Theater",20
+"2007-12","Jaco Pastorius",1
+"2007-12","Lamb",3
+"2007-12","Meshuggah",1
+"2007-12","Nickel Creek",6
+"2007-12","Noisia",0
+"2007-12","Pain Of Salvation",0
+"2007-12","Pendulum",1
+"2007-12","Porcupine Tree",3
+"2007-12","Sikth",1
+"2007-12","Sum 41",1
+"2007-12","The Mars Volta",1
+"2007-12","Venetian Snares",7
+"2007-12","Victor Wooten",2
+"2008-01","Aesop Rock",29
+"2008-01","Al English",2
+"2008-01","Alison Krauss",3
+"2008-01","Blackalicious",5
+"2008-01","Cky",19
+"2008-01","Clor",0
+"2008-01","Dream Theater",27
+"2008-01","Jaco Pastorius",4
+"2008-01","Lamb",1
+"2008-01","Meshuggah",21
+"2008-01","Nickel Creek",18
+"2008-01","Noisia",2
+"2008-01","Pain Of Salvation",3
+"2008-01","Pendulum",2
+"2008-01","Porcupine Tree",2
+"2008-01","Sikth",4
+"2008-01","Sum 41",4
+"2008-01","The Mars Volta",1
+"2008-01","Venetian Snares",25
+"2008-01","Victor Wooten",1
+"2008-02","Aesop Rock",17
+"2008-02","Al English",3
+"2008-02","Alison Krauss",1
+"2008-02","Blackalicious",5
+"2008-02","Cky",79
+"2008-02","Clor",0
+"2008-02","Dream Theater",62
+"2008-02","Jaco Pastorius",4
+"2008-02","Lamb",3
+"2008-02","Meshuggah",2
+"2008-02","Nickel Creek",7
+"2008-02","Noisia",2
+"2008-02","Pain Of Salvation",0
+"2008-02","Pendulum",3
+"2008-02","Porcupine Tree",0
+"2008-02","Sikth",3
+"2008-02","Sum 41",1
+"2008-02","The Mars Volta",13
+"2008-02","Venetian Snares",7
+"2008-02","Victor Wooten",3
+"2008-03","Aesop Rock",23
+"2008-03","Al English",3
+"2008-03","Alison Krauss",5
+"2008-03","Blackalicious",6
+"2008-03","Cky",11
+"2008-03","Clor",3
+"2008-03","Dream Theater",21
+"2008-03","Jaco Pastorius",6
+"2008-03","Lamb",5
+"2008-03","Meshuggah",8
+"2008-03","Nickel Creek",8
+"2008-03","Noisia",0
+"2008-03","Pain Of Salvation",1
+"2008-03","Pendulum",1
+"2008-03","Porcupine Tree",2
+"2008-03","Sikth",4
+"2008-03","Sum 41",2
+"2008-03","The Mars Volta",4
+"2008-03","Venetian Snares",10
+"2008-03","Victor Wooten",2
+"2008-04","Aesop Rock",17
+"2008-04","Al English",1
+"2008-04","Alison Krauss",5
+"2008-04","Blackalicious",19
+"2008-04","Cky",3
+"2008-04","Clor",3
+"2008-04","Dream Theater",8
+"2008-04","Jaco Pastorius",3
+"2008-04","Lamb",3
+"2008-04","Meshuggah",5
+"2008-04","Nickel Creek",21
+"2008-04","Noisia",1
+"2008-04","Pain Of Salvation",3
+"2008-04","Pendulum",1
+"2008-04","Porcupine Tree",1
+"2008-04","Sikth",3
+"2008-04","Sum 41",1
+"2008-04","The Mars Volta",7
+"2008-04","Venetian Snares",13
+"2008-04","Victor Wooten",4
+"2008-05","Aesop Rock",15
+"2008-05","Al English",0
+"2008-05","Alison Krauss",2
+"2008-05","Blackalicious",9
+"2008-05","Cky",15
+"2008-05","Clor",1
+"2008-05","Dream Theater",23
+"2008-05","Jaco Pastorius",4
+"2008-05","Lamb",2
+"2008-05","Meshuggah",9
+"2008-05","Nickel Creek",7
+"2008-05","Noisia",1
+"2008-05","Pain Of Salvation",0
+"2008-05","Pendulum",3
+"2008-05","Porcupine Tree",2
+"2008-05","Sikth",2
+"2008-05","Sum 41",4
+"2008-05","The Mars Volta",0
+"2008-05","Venetian Snares",9
+"2008-05","Victor Wooten",0
+"2008-06","Aesop Rock",21
+"2008-06","Al English",2
+"2008-06","Alison Krauss",11
+"2008-06","Blackalicious",24
+"2008-06","Cky",11
+"2008-06","Clor",0
+"2008-06","Dream Theater",41
+"2008-06","Jaco Pastorius",8
+"2008-06","Lamb",18
+"2008-06","Meshuggah",9
+"2008-06","Nickel Creek",22
+"2008-06","Noisia",1
+"2008-06","Pain Of Salvation",6
+"2008-06","Pendulum",2
+"2008-06","Porcupine Tree",6
+"2008-06","Sikth",12
+"2008-06","Sum 41",15
+"2008-06","The Mars Volta",4
+"2008-06","Venetian Snares",16
+"2008-06","Victor Wooten",3
+"2008-07","Aesop Rock",0
+"2008-07","Al English",0
+"2008-07","Alison Krauss",0
+"2008-07","Blackalicious",0
+"2008-07","Cky",0
+"2008-07","Clor",0
+"2008-07","Dream Theater",0
+"2008-07","Jaco Pastorius",0
+"2008-07","Lamb",0
+"2008-07","Meshuggah",0
+"2008-07","Nickel Creek",0
+"2008-07","Noisia",0
+"2008-07","Pain Of Salvation",0
+"2008-07","Pendulum",0
+"2008-07","Porcupine Tree",0
+"2008-07","Sikth",0
+"2008-07","Sum 41",0
+"2008-07","The Mars Volta",0
+"2008-07","Venetian Snares",0
+"2008-07","Victor Wooten",0
+"2008-08","Aesop Rock",215
+"2008-08","Al English",2
+"2008-08","Alison Krauss",47
+"2008-08","Blackalicious",22
+"2008-08","Cky",17
+"2008-08","Clor",6
+"2008-08","Dream Theater",347
+"2008-08","Jaco Pastorius",25
+"2008-08","Lamb",23
+"2008-08","Meshuggah",23
+"2008-08","Nickel Creek",83
+"2008-08","Noisia",6
+"2008-08","Pain Of Salvation",14
+"2008-08","Pendulum",4
+"2008-08","Porcupine Tree",20
+"2008-08","Sikth",22
+"2008-08","Sum 41",31
+"2008-08","The Mars Volta",19
+"2008-08","Venetian Snares",94
+"2008-08","Victor Wooten",21
+"2008-09","Aesop Rock",260
+"2008-09","Al English",44
+"2008-09","Alison Krauss",22
+"2008-09","Blackalicious",13
+"2008-09","Cky",6
+"2008-09","Clor",7
+"2008-09","Dream Theater",174
+"2008-09","Jaco Pastorius",12
+"2008-09","Lamb",10
+"2008-09","Meshuggah",9
+"2008-09","Nickel Creek",17
+"2008-09","Noisia",0
+"2008-09","Pain Of Salvation",30
+"2008-09","Pendulum",6
+"2008-09","Porcupine Tree",5
+"2008-09","Sikth",8
+"2008-09","Sum 41",9
+"2008-09","The Mars Volta",42
+"2008-09","Venetian Snares",69
+"2008-09","Victor Wooten",7
+"2008-10","Aesop Rock",52
+"2008-10","Al English",2
+"2008-10","Alison Krauss",6
+"2008-10","Blackalicious",8
+"2008-10","Cky",3
+"2008-10","Clor",5
+"2008-10","Dream Theater",152
+"2008-10","Jaco Pastorius",9
+"2008-10","Lamb",9
+"2008-10","Meshuggah",7
+"2008-10","Nickel Creek",17
+"2008-10","Noisia",2
+"2008-10","Pain Of Salvation",12
+"2008-10","Pendulum",2
+"2008-10","Porcupine Tree",6
+"2008-10","Sikth",9
+"2008-10","Sum 41",9
+"2008-10","The Mars Volta",40
+"2008-10","Venetian Snares",31
+"2008-10","Victor Wooten",7
+"2008-11","Aesop Rock",45
+"2008-11","Al English",0
+"2008-11","Alison Krauss",28
+"2008-11","Blackalicious",4
+"2008-11","Cky",2
+"2008-11","Clor",0
+"2008-11","Dream Theater",51
+"2008-11","Jaco Pastorius",5
+"2008-11","Lamb",3
+"2008-11","Meshuggah",0
+"2008-11","Nickel Creek",20
+"2008-11","Noisia",0
+"2008-11","Pain Of Salvation",27
+"2008-11","Pendulum",7
+"2008-11","Porcupine Tree",1
+"2008-11","Sikth",2
+"2008-11","Sum 41",2
+"2008-11","The Mars Volta",19
+"2008-11","Venetian Snares",32
+"2008-11","Victor Wooten",3
+"2008-12","Aesop Rock",5
+"2008-12","Al English",0
+"2008-12","Alison Krauss",0
+"2008-12","Blackalicious",1
+"2008-12","Cky",0
+"2008-12","Clor",0
+"2008-12","Dream Theater",3
+"2008-12","Jaco Pastorius",0
+"2008-12","Lamb",0
+"2008-12","Meshuggah",0
+"2008-12","Nickel Creek",2
+"2008-12","Noisia",0
+"2008-12","Pain Of Salvation",0
+"2008-12","Pendulum",0
+"2008-12","Porcupine Tree",0
+"2008-12","Sikth",0
+"2008-12","Sum 41",0
+"2008-12","The Mars Volta",2
+"2008-12","Venetian Snares",1
+"2008-12","Victor Wooten",0
+"2009-01","Aesop Rock",4
+"2009-01","Al English",0
+"2009-01","Alison Krauss",0
+"2009-01","Blackalicious",0
+"2009-01","Cky",0
+"2009-01","Clor",0
+"2009-01","Dream Theater",2
+"2009-01","Jaco Pastorius",1
+"2009-01","Lamb",0
+"2009-01","Meshuggah",0
+"2009-01","Nickel Creek",1
+"2009-01","Noisia",0
+"2009-01","Pain Of Salvation",0
+"2009-01","Pendulum",0
+"2009-01","Porcupine Tree",0
+"2009-01","Sikth",0
+"2009-01","Sum 41",0
+"2009-01","The Mars Volta",0
+"2009-01","Venetian Snares",1
+"2009-01","Victor Wooten",0
+"2009-02","Aesop Rock",0
+"2009-02","Al English",0
+"2009-02","Alison Krauss",0
+"2009-02","Blackalicious",0
+"2009-02","Cky",0
+"2009-02","Clor",0
+"2009-02","Dream Theater",0
+"2009-02","Jaco Pastorius",0
+"2009-02","Lamb",0
+"2009-02","Meshuggah",0
+"2009-02","Nickel Creek",0
+"2009-02","Noisia",0
+"2009-02","Pain Of Salvation",0
+"2009-02","Pendulum",0
+"2009-02","Porcupine Tree",0
+"2009-02","Sikth",0
+"2009-02","Sum 41",0
+"2009-02","The Mars Volta",0
+"2009-02","Venetian Snares",0
+"2009-02","Victor Wooten",0
+"2009-03","Aesop Rock",7
+"2009-03","Al English",0
+"2009-03","Alison Krauss",0
+"2009-03","Blackalicious",2
+"2009-03","Cky",0
+"2009-03","Clor",0
+"2009-03","Dream Theater",50
+"2009-03","Jaco Pastorius",0
+"2009-03","Lamb",0
+"2009-03","Meshuggah",0
+"2009-03","Nickel Creek",1
+"2009-03","Noisia",0
+"2009-03","Pain Of Salvation",1
+"2009-03","Pendulum",0
+"2009-03","Porcupine Tree",0
+"2009-03","Sikth",0
+"2009-03","Sum 41",0
+"2009-03","The Mars Volta",0
+"2009-03","Venetian Snares",0
+"2009-03","Victor Wooten",0
+"2009-04","Aesop Rock",9
+"2009-04","Al English",0
+"2009-04","Alison Krauss",0
+"2009-04","Blackalicious",0
+"2009-04","Cky",0
+"2009-04","Clor",0
+"2009-04","Dream Theater",8
+"2009-04","Jaco Pastorius",0
+"2009-04","Lamb",0
+"2009-04","Meshuggah",0
+"2009-04","Nickel Creek",0
+"2009-04","Noisia",0
+"2009-04","Pain Of Salvation",0
+"2009-04","Pendulum",0
+"2009-04","Porcupine Tree",0
+"2009-04","Sikth",0
+"2009-04","Sum 41",0
+"2009-04","The Mars Volta",0
+"2009-04","Venetian Snares",0
+"2009-04","Victor Wooten",0

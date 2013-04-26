@@ -1,581 +1,581 @@
-month,artist,plays
-2007-01,Alice In Chains,4
-2007-01,Bt,26
-2007-01,Chicane,3
-2007-01,Daft Punk,4
-2007-01,Delerium,13
-2007-01,Dream Theater,0
-2007-01,Fatboy Slim,51
-2007-01,Hybrid,18
-2007-01,Metallica,0
-2007-01,Moby,30
-2007-01,Orbital,10
-2007-01,Ozric Tentacles,45
-2007-01,Paul Oakenfold,0
-2007-01,Röyksopp,68
-2007-01,Testament,0
-2007-01,The Chemical Brothers,21
-2007-01,The Crystal Method,0
-2007-01,The Prodigy,66
-2007-01,Thievery Corporation,94
-2007-01,Utah Saints,16
-2007-02,Alice In Chains,2
-2007-02,Bt,6
-2007-02,Chicane,5
-2007-02,Daft Punk,4
-2007-02,Delerium,13
-2007-02,Dream Theater,0
-2007-02,Fatboy Slim,4
-2007-02,Hybrid,8
-2007-02,Metallica,0
-2007-02,Moby,2
-2007-02,Orbital,14
-2007-02,Ozric Tentacles,14
-2007-02,Paul Oakenfold,0
-2007-02,Röyksopp,12
-2007-02,Testament,4
-2007-02,The Chemical Brothers,1
-2007-02,The Crystal Method,90
-2007-02,The Prodigy,13
-2007-02,Thievery Corporation,2
-2007-02,Utah Saints,2
-2007-03,Alice In Chains,7
-2007-03,Bt,10
-2007-03,Chicane,4
-2007-03,Daft Punk,3
-2007-03,Delerium,18
-2007-03,Dream Theater,2
-2007-03,Fatboy Slim,9
-2007-03,Hybrid,6
-2007-03,Metallica,1
-2007-03,Moby,7
-2007-03,Orbital,18
-2007-03,Ozric Tentacles,41
-2007-03,Paul Oakenfold,6
-2007-03,Röyksopp,6
-2007-03,Testament,5
-2007-03,The Chemical Brothers,18
-2007-03,The Crystal Method,13
-2007-03,The Prodigy,14
-2007-03,Thievery Corporation,35
-2007-03,Utah Saints,30
-2007-04,Alice In Chains,1
-2007-04,Bt,1
-2007-04,Chicane,0
-2007-04,Daft Punk,6
-2007-04,Delerium,1
-2007-04,Dream Theater,0
-2007-04,Fatboy Slim,0
-2007-04,Hybrid,1
-2007-04,Metallica,0
-2007-04,Moby,1
-2007-04,Orbital,0
-2007-04,Ozric Tentacles,1
-2007-04,Paul Oakenfold,1
-2007-04,Röyksopp,2
-2007-04,Testament,0
-2007-04,The Chemical Brothers,0
-2007-04,The Crystal Method,0
-2007-04,The Prodigy,2
-2007-04,Thievery Corporation,0
-2007-04,Utah Saints,12
-2007-05,Alice In Chains,5
-2007-05,Bt,7
-2007-05,Chicane,6
-2007-05,Daft Punk,6
-2007-05,Delerium,12
-2007-05,Dream Theater,1
-2007-05,Fatboy Slim,8
-2007-05,Hybrid,6
-2007-05,Metallica,0
-2007-05,Moby,5
-2007-05,Orbital,16
-2007-05,Ozric Tentacles,10
-2007-05,Paul Oakenfold,5
-2007-05,Röyksopp,5
-2007-05,Testament,6
-2007-05,The Chemical Brothers,4
-2007-05,The Crystal Method,11
-2007-05,The Prodigy,16
-2007-05,Thievery Corporation,10
-2007-05,Utah Saints,1
-2007-06,Alice In Chains,1
-2007-06,Bt,5
-2007-06,Chicane,2
-2007-06,Daft Punk,6
-2007-06,Delerium,5
-2007-06,Dream Theater,0
-2007-06,Fatboy Slim,3
-2007-06,Hybrid,6
-2007-06,Metallica,0
-2007-06,Moby,5
-2007-06,Orbital,10
-2007-06,Ozric Tentacles,6
-2007-06,Paul Oakenfold,2
-2007-06,Röyksopp,3
-2007-06,Testament,0
-2007-06,The Chemical Brothers,3
-2007-06,The Crystal Method,7
-2007-06,The Prodigy,4
-2007-06,Thievery Corporation,9
-2007-06,Utah Saints,2
-2007-07,Alice In Chains,0
-2007-07,Bt,5
-2007-07,Chicane,4
-2007-07,Daft Punk,4
-2007-07,Delerium,10
-2007-07,Dream Theater,3
-2007-07,Fatboy Slim,2
-2007-07,Hybrid,10
-2007-07,Metallica,1
-2007-07,Moby,3
-2007-07,Orbital,7
-2007-07,Ozric Tentacles,12
-2007-07,Paul Oakenfold,3
-2007-07,Röyksopp,4
-2007-07,Testament,1
-2007-07,The Chemical Brothers,6
-2007-07,The Crystal Method,6
-2007-07,The Prodigy,15
-2007-07,Thievery Corporation,2
-2007-07,Utah Saints,1
-2007-08,Alice In Chains,2
-2007-08,Bt,11
-2007-08,Chicane,5
-2007-08,Daft Punk,8
-2007-08,Delerium,5
-2007-08,Dream Theater,2
-2007-08,Fatboy Slim,5
-2007-08,Hybrid,7
-2007-08,Metallica,0
-2007-08,Moby,6
-2007-08,Orbital,7
-2007-08,Ozric Tentacles,2
-2007-08,Paul Oakenfold,2
-2007-08,Röyksopp,3
-2007-08,Testament,3
-2007-08,The Chemical Brothers,3
-2007-08,The Crystal Method,3
-2007-08,The Prodigy,9
-2007-08,Thievery Corporation,5
-2007-08,Utah Saints,1
-2007-09,Alice In Chains,1
-2007-09,Bt,30
-2007-09,Chicane,10
-2007-09,Daft Punk,0
-2007-09,Delerium,2
-2007-09,Dream Theater,0
-2007-09,Fatboy Slim,3
-2007-09,Hybrid,1
-2007-09,Metallica,0
-2007-09,Moby,1
-2007-09,Orbital,5
-2007-09,Ozric Tentacles,1
-2007-09,Paul Oakenfold,1
-2007-09,Röyksopp,33
-2007-09,Testament,2
-2007-09,The Chemical Brothers,26
-2007-09,The Crystal Method,2
-2007-09,The Prodigy,2
-2007-09,Thievery Corporation,2
-2007-09,Utah Saints,0
-2007-10,Alice In Chains,1
-2007-10,Bt,3
-2007-10,Chicane,2
-2007-10,Daft Punk,1
-2007-10,Delerium,1
-2007-10,Dream Theater,5
-2007-10,Fatboy Slim,0
-2007-10,Hybrid,3
-2007-10,Metallica,0
-2007-10,Moby,0
-2007-10,Orbital,0
-2007-10,Ozric Tentacles,2
-2007-10,Paul Oakenfold,2
-2007-10,Röyksopp,48
-2007-10,Testament,3
-2007-10,The Chemical Brothers,0
-2007-10,The Crystal Method,5
-2007-10,The Prodigy,7
-2007-10,Thievery Corporation,8
-2007-10,Utah Saints,0
-2007-11,Alice In Chains,0
-2007-11,Bt,0
-2007-11,Chicane,0
-2007-11,Daft Punk,1
-2007-11,Delerium,4
-2007-11,Dream Theater,4
-2007-11,Fatboy Slim,0
-2007-11,Hybrid,1
-2007-11,Metallica,0
-2007-11,Moby,0
-2007-11,Orbital,1
-2007-11,Ozric Tentacles,0
-2007-11,Paul Oakenfold,2
-2007-11,Röyksopp,0
-2007-11,Testament,1
-2007-11,The Chemical Brothers,1
-2007-11,The Crystal Method,0
-2007-11,The Prodigy,0
-2007-11,Thievery Corporation,0
-2007-11,Utah Saints,0
-2007-12,Alice In Chains,1
-2007-12,Bt,7
-2007-12,Chicane,2
-2007-12,Daft Punk,1
-2007-12,Delerium,6
-2007-12,Dream Theater,28
-2007-12,Fatboy Slim,4
-2007-12,Hybrid,3
-2007-12,Metallica,1
-2007-12,Moby,5
-2007-12,Orbital,8
-2007-12,Ozric Tentacles,2
-2007-12,Paul Oakenfold,2
-2007-12,Röyksopp,51
-2007-12,Testament,4
-2007-12,The Chemical Brothers,3
-2007-12,The Crystal Method,3
-2007-12,The Prodigy,6
-2007-12,Thievery Corporation,6
-2007-12,Utah Saints,1
-2008-01,Alice In Chains,0
-2008-01,Bt,0
-2008-01,Chicane,0
-2008-01,Daft Punk,0
-2008-01,Delerium,0
-2008-01,Dream Theater,0
-2008-01,Fatboy Slim,0
-2008-01,Hybrid,0
-2008-01,Metallica,19
-2008-01,Moby,0
-2008-01,Orbital,0
-2008-01,Ozric Tentacles,0
-2008-01,Paul Oakenfold,0
-2008-01,Röyksopp,0
-2008-01,Testament,0
-2008-01,The Chemical Brothers,0
-2008-01,The Crystal Method,0
-2008-01,The Prodigy,0
-2008-01,Thievery Corporation,0
-2008-01,Utah Saints,0
-2008-02,Alice In Chains,0
-2008-02,Bt,0
-2008-02,Chicane,0
-2008-02,Daft Punk,0
-2008-02,Delerium,1
-2008-02,Dream Theater,5
-2008-02,Fatboy Slim,0
-2008-02,Hybrid,0
-2008-02,Metallica,22
-2008-02,Moby,0
-2008-02,Orbital,0
-2008-02,Ozric Tentacles,1
-2008-02,Paul Oakenfold,0
-2008-02,Röyksopp,0
-2008-02,Testament,0
-2008-02,The Chemical Brothers,0
-2008-02,The Crystal Method,1
-2008-02,The Prodigy,2
-2008-02,Thievery Corporation,0
-2008-02,Utah Saints,1
-2008-03,Alice In Chains,1
-2008-03,Bt,3
-2008-03,Chicane,0
-2008-03,Daft Punk,1
-2008-03,Delerium,2
-2008-03,Dream Theater,4
-2008-03,Fatboy Slim,0
-2008-03,Hybrid,2
-2008-03,Metallica,2
-2008-03,Moby,2
-2008-03,Orbital,2
-2008-03,Ozric Tentacles,2
-2008-03,Paul Oakenfold,1
-2008-03,Röyksopp,4
-2008-03,Testament,3
-2008-03,The Chemical Brothers,2
-2008-03,The Crystal Method,1
-2008-03,The Prodigy,2
-2008-03,Thievery Corporation,2
-2008-03,Utah Saints,1
-2008-04,Alice In Chains,0
-2008-04,Bt,6
-2008-04,Chicane,5
-2008-04,Daft Punk,2
-2008-04,Delerium,0
-2008-04,Dream Theater,2
-2008-04,Fatboy Slim,4
-2008-04,Hybrid,1
-2008-04,Metallica,3
-2008-04,Moby,1
-2008-04,Orbital,2
-2008-04,Ozric Tentacles,1
-2008-04,Paul Oakenfold,1
-2008-04,Röyksopp,0
-2008-04,Testament,1
-2008-04,The Chemical Brothers,3
-2008-04,The Crystal Method,6
-2008-04,The Prodigy,7
-2008-04,Thievery Corporation,3
-2008-04,Utah Saints,2
-2008-05,Alice In Chains,1
-2008-05,Bt,0
-2008-05,Chicane,1
-2008-05,Daft Punk,0
-2008-05,Delerium,0
-2008-05,Dream Theater,2
-2008-05,Fatboy Slim,1
-2008-05,Hybrid,0
-2008-05,Metallica,1
-2008-05,Moby,0
-2008-05,Orbital,1
-2008-05,Ozric Tentacles,0
-2008-05,Paul Oakenfold,2
-2008-05,Röyksopp,0
-2008-05,Testament,1
-2008-05,The Chemical Brothers,1
-2008-05,The Crystal Method,0
-2008-05,The Prodigy,0
-2008-05,Thievery Corporation,0
-2008-05,Utah Saints,1
-2008-06,Alice In Chains,0
-2008-06,Bt,1
-2008-06,Chicane,1
-2008-06,Daft Punk,0
-2008-06,Delerium,0
-2008-06,Dream Theater,1
-2008-06,Fatboy Slim,0
-2008-06,Hybrid,0
-2008-06,Metallica,4
-2008-06,Moby,0
-2008-06,Orbital,0
-2008-06,Ozric Tentacles,0
-2008-06,Paul Oakenfold,2
-2008-06,Röyksopp,0
-2008-06,Testament,1
-2008-06,The Chemical Brothers,0
-2008-06,The Crystal Method,1
-2008-06,The Prodigy,1
-2008-06,Thievery Corporation,0
-2008-06,Utah Saints,7
-2008-07,Alice In Chains,1
-2008-07,Bt,1
-2008-07,Chicane,0
-2008-07,Daft Punk,2
-2008-07,Delerium,2
-2008-07,Dream Theater,4
-2008-07,Fatboy Slim,1
-2008-07,Hybrid,0
-2008-07,Metallica,1
-2008-07,Moby,0
-2008-07,Orbital,2
-2008-07,Ozric Tentacles,4
-2008-07,Paul Oakenfold,1
-2008-07,Röyksopp,1
-2008-07,Testament,4
-2008-07,The Chemical Brothers,1
-2008-07,The Crystal Method,2
-2008-07,The Prodigy,6
-2008-07,Thievery Corporation,0
-2008-07,Utah Saints,1
-2008-08,Alice In Chains,0
-2008-08,Bt,1
-2008-08,Chicane,0
-2008-08,Daft Punk,2
-2008-08,Delerium,0
-2008-08,Dream Theater,3
-2008-08,Fatboy Slim,0
-2008-08,Hybrid,0
-2008-08,Metallica,1
-2008-08,Moby,1
-2008-08,Orbital,1
-2008-08,Ozric Tentacles,0
-2008-08,Paul Oakenfold,0
-2008-08,Röyksopp,1
-2008-08,Testament,0
-2008-08,The Chemical Brothers,0
-2008-08,The Crystal Method,1
-2008-08,The Prodigy,1
-2008-08,Thievery Corporation,0
-2008-08,Utah Saints,1
-2008-09,Alice In Chains,1
-2008-09,Bt,1
-2008-09,Chicane,0
-2008-09,Daft Punk,0
-2008-09,Delerium,1
-2008-09,Dream Theater,1
-2008-09,Fatboy Slim,0
-2008-09,Hybrid,0
-2008-09,Metallica,2
-2008-09,Moby,0
-2008-09,Orbital,1
-2008-09,Ozric Tentacles,1
-2008-09,Paul Oakenfold,1
-2008-09,Röyksopp,2
-2008-09,Testament,1
-2008-09,The Chemical Brothers,0
-2008-09,The Crystal Method,0
-2008-09,The Prodigy,5
-2008-09,Thievery Corporation,1
-2008-09,Utah Saints,0
-2008-10,Alice In Chains,0
-2008-10,Bt,3
-2008-10,Chicane,2
-2008-10,Daft Punk,3
-2008-10,Delerium,4
-2008-10,Dream Theater,4
-2008-10,Fatboy Slim,4
-2008-10,Hybrid,3
-2008-10,Metallica,12
-2008-10,Moby,4
-2008-10,Orbital,6
-2008-10,Ozric Tentacles,6
-2008-10,Paul Oakenfold,1
-2008-10,Röyksopp,2
-2008-10,Testament,3
-2008-10,The Chemical Brothers,4
-2008-10,The Crystal Method,7
-2008-10,The Prodigy,7
-2008-10,Thievery Corporation,1
-2008-10,Utah Saints,1
-2008-11,Alice In Chains,9
-2008-11,Bt,5
-2008-11,Chicane,3
-2008-11,Daft Punk,4
-2008-11,Delerium,5
-2008-11,Dream Theater,10
-2008-11,Fatboy Slim,0
-2008-11,Hybrid,4
-2008-11,Metallica,5
-2008-11,Moby,7
-2008-11,Orbital,3
-2008-11,Ozric Tentacles,7
-2008-11,Paul Oakenfold,3
-2008-11,Röyksopp,0
-2008-11,Testament,2
-2008-11,The Chemical Brothers,6
-2008-11,The Crystal Method,7
-2008-11,The Prodigy,6
-2008-11,Thievery Corporation,2
-2008-11,Utah Saints,4
-2008-12,Alice In Chains,3
-2008-12,Bt,2
-2008-12,Chicane,1
-2008-12,Daft Punk,2
-2008-12,Delerium,1
-2008-12,Dream Theater,0
-2008-12,Fatboy Slim,1
-2008-12,Hybrid,1
-2008-12,Metallica,1
-2008-12,Moby,1
-2008-12,Orbital,1
-2008-12,Ozric Tentacles,2
-2008-12,Paul Oakenfold,0
-2008-12,Röyksopp,1
-2008-12,Testament,0
-2008-12,The Chemical Brothers,3
-2008-12,The Crystal Method,6
-2008-12,The Prodigy,1
-2008-12,Thievery Corporation,1
-2008-12,Utah Saints,1
-2009-01,Alice In Chains,0
-2009-01,Bt,1
-2009-01,Chicane,0
-2009-01,Daft Punk,0
-2009-01,Delerium,1
-2009-01,Dream Theater,1
-2009-01,Fatboy Slim,1
-2009-01,Hybrid,0
-2009-01,Metallica,3
-2009-01,Moby,0
-2009-01,Orbital,2
-2009-01,Ozric Tentacles,0
-2009-01,Paul Oakenfold,1
-2009-01,Röyksopp,1
-2009-01,Testament,0
-2009-01,The Chemical Brothers,1
-2009-01,The Crystal Method,0
-2009-01,The Prodigy,1
-2009-01,Thievery Corporation,0
-2009-01,Utah Saints,0
-2009-02,Alice In Chains,0
-2009-02,Bt,0
-2009-02,Chicane,0
-2009-02,Daft Punk,0
-2009-02,Delerium,1
-2009-02,Dream Theater,0
-2009-02,Fatboy Slim,1
-2009-02,Hybrid,0
-2009-02,Metallica,0
-2009-02,Moby,0
-2009-02,Orbital,0
-2009-02,Ozric Tentacles,0
-2009-02,Paul Oakenfold,0
-2009-02,Röyksopp,0
-2009-02,Testament,1
-2009-02,The Chemical Brothers,1
-2009-02,The Crystal Method,0
-2009-02,The Prodigy,1
-2009-02,Thievery Corporation,0
-2009-02,Utah Saints,1
-2009-03,Alice In Chains,1
-2009-03,Bt,3
-2009-03,Chicane,6
-2009-03,Daft Punk,1
-2009-03,Delerium,8
-2009-03,Dream Theater,5
-2009-03,Fatboy Slim,6
-2009-03,Hybrid,6
-2009-03,Metallica,4
-2009-03,Moby,5
-2009-03,Orbital,6
-2009-03,Ozric Tentacles,6
-2009-03,Paul Oakenfold,4
-2009-03,Röyksopp,2
-2009-03,Testament,2
-2009-03,The Chemical Brothers,1
-2009-03,The Crystal Method,2
-2009-03,The Prodigy,8
-2009-03,Thievery Corporation,4
-2009-03,Utah Saints,2
-2009-04,Alice In Chains,1
-2009-04,Bt,3
-2009-04,Chicane,4
-2009-04,Daft Punk,3
-2009-04,Delerium,4
-2009-04,Dream Theater,1
-2009-04,Fatboy Slim,2
-2009-04,Hybrid,4
-2009-04,Metallica,1
-2009-04,Moby,1
-2009-04,Orbital,6
-2009-04,Ozric Tentacles,4
-2009-04,Paul Oakenfold,0
-2009-04,Röyksopp,1
-2009-04,Testament,2
-2009-04,The Chemical Brothers,0
-2009-04,The Crystal Method,1
-2009-04,The Prodigy,2
-2009-04,Thievery Corporation,1
-2009-04,Utah Saints,0
-2009-05,Alice In Chains,0
-2009-05,Bt,1
-2009-05,Chicane,0
-2009-05,Daft Punk,0
-2009-05,Delerium,0
-2009-05,Dream Theater,0
-2009-05,Fatboy Slim,0
-2009-05,Hybrid,0
-2009-05,Metallica,0
-2009-05,Moby,0
-2009-05,Orbital,0
-2009-05,Ozric Tentacles,0
-2009-05,Paul Oakenfold,0
-2009-05,Röyksopp,0
-2009-05,Testament,0
-2009-05,The Chemical Brothers,0
-2009-05,The Crystal Method,0
-2009-05,The Prodigy,0
-2009-05,Thievery Corporation,0
-2009-05,Utah Saints,0
+"month","artist","plays"
+"2007-01","Alice In Chains",4
+"2007-01","Bt",26
+"2007-01","Chicane",3
+"2007-01","Daft Punk",4
+"2007-01","Delerium",13
+"2007-01","Dream Theater",0
+"2007-01","Fatboy Slim",51
+"2007-01","Hybrid",18
+"2007-01","Metallica",0
+"2007-01","Moby",30
+"2007-01","Orbital",10
+"2007-01","Ozric Tentacles",45
+"2007-01","Paul Oakenfold",0
+"2007-01","Röyksopp",68
+"2007-01","Testament",0
+"2007-01","The Chemical Brothers",21
+"2007-01","The Crystal Method",0
+"2007-01","The Prodigy",66
+"2007-01","Thievery Corporation",94
+"2007-01","Utah Saints",16
+"2007-02","Alice In Chains",2
+"2007-02","Bt",6
+"2007-02","Chicane",5
+"2007-02","Daft Punk",4
+"2007-02","Delerium",13
+"2007-02","Dream Theater",0
+"2007-02","Fatboy Slim",4
+"2007-02","Hybrid",8
+"2007-02","Metallica",0
+"2007-02","Moby",2
+"2007-02","Orbital",14
+"2007-02","Ozric Tentacles",14
+"2007-02","Paul Oakenfold",0
+"2007-02","Röyksopp",12
+"2007-02","Testament",4
+"2007-02","The Chemical Brothers",1
+"2007-02","The Crystal Method",90
+"2007-02","The Prodigy",13
+"2007-02","Thievery Corporation",2
+"2007-02","Utah Saints",2
+"2007-03","Alice In Chains",7
+"2007-03","Bt",10
+"2007-03","Chicane",4
+"2007-03","Daft Punk",3
+"2007-03","Delerium",18
+"2007-03","Dream Theater",2
+"2007-03","Fatboy Slim",9
+"2007-03","Hybrid",6
+"2007-03","Metallica",1
+"2007-03","Moby",7
+"2007-03","Orbital",18
+"2007-03","Ozric Tentacles",41
+"2007-03","Paul Oakenfold",6
+"2007-03","Röyksopp",6
+"2007-03","Testament",5
+"2007-03","The Chemical Brothers",18
+"2007-03","The Crystal Method",13
+"2007-03","The Prodigy",14
+"2007-03","Thievery Corporation",35
+"2007-03","Utah Saints",30
+"2007-04","Alice In Chains",1
+"2007-04","Bt",1
+"2007-04","Chicane",0
+"2007-04","Daft Punk",6
+"2007-04","Delerium",1
+"2007-04","Dream Theater",0
+"2007-04","Fatboy Slim",0
+"2007-04","Hybrid",1
+"2007-04","Metallica",0
+"2007-04","Moby",1
+"2007-04","Orbital",0
+"2007-04","Ozric Tentacles",1
+"2007-04","Paul Oakenfold",1
+"2007-04","Röyksopp",2
+"2007-04","Testament",0
+"2007-04","The Chemical Brothers",0
+"2007-04","The Crystal Method",0
+"2007-04","The Prodigy",2
+"2007-04","Thievery Corporation",0
+"2007-04","Utah Saints",12
+"2007-05","Alice In Chains",5
+"2007-05","Bt",7
+"2007-05","Chicane",6
+"2007-05","Daft Punk",6
+"2007-05","Delerium",12
+"2007-05","Dream Theater",1
+"2007-05","Fatboy Slim",8
+"2007-05","Hybrid",6
+"2007-05","Metallica",0
+"2007-05","Moby",5
+"2007-05","Orbital",16
+"2007-05","Ozric Tentacles",10
+"2007-05","Paul Oakenfold",5
+"2007-05","Röyksopp",5
+"2007-05","Testament",6
+"2007-05","The Chemical Brothers",4
+"2007-05","The Crystal Method",11
+"2007-05","The Prodigy",16
+"2007-05","Thievery Corporation",10
+"2007-05","Utah Saints",1
+"2007-06","Alice In Chains",1
+"2007-06","Bt",5
+"2007-06","Chicane",2
+"2007-06","Daft Punk",6
+"2007-06","Delerium",5
+"2007-06","Dream Theater",0
+"2007-06","Fatboy Slim",3
+"2007-06","Hybrid",6
+"2007-06","Metallica",0
+"2007-06","Moby",5
+"2007-06","Orbital",10
+"2007-06","Ozric Tentacles",6
+"2007-06","Paul Oakenfold",2
+"2007-06","Röyksopp",3
+"2007-06","Testament",0
+"2007-06","The Chemical Brothers",3
+"2007-06","The Crystal Method",7
+"2007-06","The Prodigy",4
+"2007-06","Thievery Corporation",9
+"2007-06","Utah Saints",2
+"2007-07","Alice In Chains",0
+"2007-07","Bt",5
+"2007-07","Chicane",4
+"2007-07","Daft Punk",4
+"2007-07","Delerium",10
+"2007-07","Dream Theater",3
+"2007-07","Fatboy Slim",2
+"2007-07","Hybrid",10
+"2007-07","Metallica",1
+"2007-07","Moby",3
+"2007-07","Orbital",7
+"2007-07","Ozric Tentacles",12
+"2007-07","Paul Oakenfold",3
+"2007-07","Röyksopp",4
+"2007-07","Testament",1
+"2007-07","The Chemical Brothers",6
+"2007-07","The Crystal Method",6
+"2007-07","The Prodigy",15
+"2007-07","Thievery Corporation",2
+"2007-07","Utah Saints",1
+"2007-08","Alice In Chains",2
+"2007-08","Bt",11
+"2007-08","Chicane",5
+"2007-08","Daft Punk",8
+"2007-08","Delerium",5
+"2007-08","Dream Theater",2
+"2007-08","Fatboy Slim",5
+"2007-08","Hybrid",7
+"2007-08","Metallica",0
+"2007-08","Moby",6
+"2007-08","Orbital",7
+"2007-08","Ozric Tentacles",2
+"2007-08","Paul Oakenfold",2
+"2007-08","Röyksopp",3
+"2007-08","Testament",3
+"2007-08","The Chemical Brothers",3
+"2007-08","The Crystal Method",3
+"2007-08","The Prodigy",9
+"2007-08","Thievery Corporation",5
+"2007-08","Utah Saints",1
+"2007-09","Alice In Chains",1
+"2007-09","Bt",30
+"2007-09","Chicane",10
+"2007-09","Daft Punk",0
+"2007-09","Delerium",2
+"2007-09","Dream Theater",0
+"2007-09","Fatboy Slim",3
+"2007-09","Hybrid",1
+"2007-09","Metallica",0
+"2007-09","Moby",1
+"2007-09","Orbital",5
+"2007-09","Ozric Tentacles",1
+"2007-09","Paul Oakenfold",1
+"2007-09","Röyksopp",33
+"2007-09","Testament",2
+"2007-09","The Chemical Brothers",26
+"2007-09","The Crystal Method",2
+"2007-09","The Prodigy",2
+"2007-09","Thievery Corporation",2
+"2007-09","Utah Saints",0
+"2007-10","Alice In Chains",1
+"2007-10","Bt",3
+"2007-10","Chicane",2
+"2007-10","Daft Punk",1
+"2007-10","Delerium",1
+"2007-10","Dream Theater",5
+"2007-10","Fatboy Slim",0
+"2007-10","Hybrid",3
+"2007-10","Metallica",0
+"2007-10","Moby",0
+"2007-10","Orbital",0
+"2007-10","Ozric Tentacles",2
+"2007-10","Paul Oakenfold",2
+"2007-10","Röyksopp",48
+"2007-10","Testament",3
+"2007-10","The Chemical Brothers",0
+"2007-10","The Crystal Method",5
+"2007-10","The Prodigy",7
+"2007-10","Thievery Corporation",8
+"2007-10","Utah Saints",0
+"2007-11","Alice In Chains",0
+"2007-11","Bt",0
+"2007-11","Chicane",0
+"2007-11","Daft Punk",1
+"2007-11","Delerium",4
+"2007-11","Dream Theater",4
+"2007-11","Fatboy Slim",0
+"2007-11","Hybrid",1
+"2007-11","Metallica",0
+"2007-11","Moby",0
+"2007-11","Orbital",1
+"2007-11","Ozric Tentacles",0
+"2007-11","Paul Oakenfold",2
+"2007-11","Röyksopp",0
+"2007-11","Testament",1
+"2007-11","The Chemical Brothers",1
+"2007-11","The Crystal Method",0
+"2007-11","The Prodigy",0
+"2007-11","Thievery Corporation",0
+"2007-11","Utah Saints",0
+"2007-12","Alice In Chains",1
+"2007-12","Bt",7
+"2007-12","Chicane",2
+"2007-12","Daft Punk",1
+"2007-12","Delerium",6
+"2007-12","Dream Theater",28
+"2007-12","Fatboy Slim",4
+"2007-12","Hybrid",3
+"2007-12","Metallica",1
+"2007-12","Moby",5
+"2007-12","Orbital",8
+"2007-12","Ozric Tentacles",2
+"2007-12","Paul Oakenfold",2
+"2007-12","Röyksopp",51
+"2007-12","Testament",4
+"2007-12","The Chemical Brothers",3
+"2007-12","The Crystal Method",3
+"2007-12","The Prodigy",6
+"2007-12","Thievery Corporation",6
+"2007-12","Utah Saints",1
+"2008-01","Alice In Chains",0
+"2008-01","Bt",0
+"2008-01","Chicane",0
+"2008-01","Daft Punk",0
+"2008-01","Delerium",0
+"2008-01","Dream Theater",0
+"2008-01","Fatboy Slim",0
+"2008-01","Hybrid",0
+"2008-01","Metallica",19
+"2008-01","Moby",0
+"2008-01","Orbital",0
+"2008-01","Ozric Tentacles",0
+"2008-01","Paul Oakenfold",0
+"2008-01","Röyksopp",0
+"2008-01","Testament",0
+"2008-01","The Chemical Brothers",0
+"2008-01","The Crystal Method",0
+"2008-01","The Prodigy",0
+"2008-01","Thievery Corporation",0
+"2008-01","Utah Saints",0
+"2008-02","Alice In Chains",0
+"2008-02","Bt",0
+"2008-02","Chicane",0
+"2008-02","Daft Punk",0
+"2008-02","Delerium",1
+"2008-02","Dream Theater",5
+"2008-02","Fatboy Slim",0
+"2008-02","Hybrid",0
+"2008-02","Metallica",22
+"2008-02","Moby",0
+"2008-02","Orbital",0
+"2008-02","Ozric Tentacles",1
+"2008-02","Paul Oakenfold",0
+"2008-02","Röyksopp",0
+"2008-02","Testament",0
+"2008-02","The Chemical Brothers",0
+"2008-02","The Crystal Method",1
+"2008-02","The Prodigy",2
+"2008-02","Thievery Corporation",0
+"2008-02","Utah Saints",1
+"2008-03","Alice In Chains",1
+"2008-03","Bt",3
+"2008-03","Chicane",0
+"2008-03","Daft Punk",1
+"2008-03","Delerium",2
+"2008-03","Dream Theater",4
+"2008-03","Fatboy Slim",0
+"2008-03","Hybrid",2
+"2008-03","Metallica",2
+"2008-03","Moby",2
+"2008-03","Orbital",2
+"2008-03","Ozric Tentacles",2
+"2008-03","Paul Oakenfold",1
+"2008-03","Röyksopp",4
+"2008-03","Testament",3
+"2008-03","The Chemical Brothers",2
+"2008-03","The Crystal Method",1
+"2008-03","The Prodigy",2
+"2008-03","Thievery Corporation",2
+"2008-03","Utah Saints",1
+"2008-04","Alice In Chains",0
+"2008-04","Bt",6
+"2008-04","Chicane",5
+"2008-04","Daft Punk",2
+"2008-04","Delerium",0
+"2008-04","Dream Theater",2
+"2008-04","Fatboy Slim",4
+"2008-04","Hybrid",1
+"2008-04","Metallica",3
+"2008-04","Moby",1
+"2008-04","Orbital",2
+"2008-04","Ozric Tentacles",1
+"2008-04","Paul Oakenfold",1
+"2008-04","Röyksopp",0
+"2008-04","Testament",1
+"2008-04","The Chemical Brothers",3
+"2008-04","The Crystal Method",6
+"2008-04","The Prodigy",7
+"2008-04","Thievery Corporation",3
+"2008-04","Utah Saints",2
+"2008-05","Alice In Chains",1
+"2008-05","Bt",0
+"2008-05","Chicane",1
+"2008-05","Daft Punk",0
+"2008-05","Delerium",0
+"2008-05","Dream Theater",2
+"2008-05","Fatboy Slim",1
+"2008-05","Hybrid",0
+"2008-05","Metallica",1
+"2008-05","Moby",0
+"2008-05","Orbital",1
+"2008-05","Ozric Tentacles",0
+"2008-05","Paul Oakenfold",2
+"2008-05","Röyksopp",0
+"2008-05","Testament",1
+"2008-05","The Chemical Brothers",1
+"2008-05","The Crystal Method",0
+"2008-05","The Prodigy",0
+"2008-05","Thievery Corporation",0
+"2008-05","Utah Saints",1
+"2008-06","Alice In Chains",0
+"2008-06","Bt",1
+"2008-06","Chicane",1
+"2008-06","Daft Punk",0
+"2008-06","Delerium",0
+"2008-06","Dream Theater",1
+"2008-06","Fatboy Slim",0
+"2008-06","Hybrid",0
+"2008-06","Metallica",4
+"2008-06","Moby",0
+"2008-06","Orbital",0
+"2008-06","Ozric Tentacles",0
+"2008-06","Paul Oakenfold",2
+"2008-06","Röyksopp",0
+"2008-06","Testament",1
+"2008-06","The Chemical Brothers",0
+"2008-06","The Crystal Method",1
+"2008-06","The Prodigy",1
+"2008-06","Thievery Corporation",0
+"2008-06","Utah Saints",7
+"2008-07","Alice In Chains",1
+"2008-07","Bt",1
+"2008-07","Chicane",0
+"2008-07","Daft Punk",2
+"2008-07","Delerium",2
+"2008-07","Dream Theater",4
+"2008-07","Fatboy Slim",1
+"2008-07","Hybrid",0
+"2008-07","Metallica",1
+"2008-07","Moby",0
+"2008-07","Orbital",2
+"2008-07","Ozric Tentacles",4
+"2008-07","Paul Oakenfold",1
+"2008-07","Röyksopp",1
+"2008-07","Testament",4
+"2008-07","The Chemical Brothers",1
+"2008-07","The Crystal Method",2
+"2008-07","The Prodigy",6
+"2008-07","Thievery Corporation",0
+"2008-07","Utah Saints",1
+"2008-08","Alice In Chains",0
+"2008-08","Bt",1
+"2008-08","Chicane",0
+"2008-08","Daft Punk",2
+"2008-08","Delerium",0
+"2008-08","Dream Theater",3
+"2008-08","Fatboy Slim",0
+"2008-08","Hybrid",0
+"2008-08","Metallica",1
+"2008-08","Moby",1
+"2008-08","Orbital",1
+"2008-08","Ozric Tentacles",0
+"2008-08","Paul Oakenfold",0
+"2008-08","Röyksopp",1
+"2008-08","Testament",0
+"2008-08","The Chemical Brothers",0
+"2008-08","The Crystal Method",1
+"2008-08","The Prodigy",1
+"2008-08","Thievery Corporation",0
+"2008-08","Utah Saints",1
+"2008-09","Alice In Chains",1
+"2008-09","Bt",1
+"2008-09","Chicane",0
+"2008-09","Daft Punk",0
+"2008-09","Delerium",1
+"2008-09","Dream Theater",1
+"2008-09","Fatboy Slim",0
+"2008-09","Hybrid",0
+"2008-09","Metallica",2
+"2008-09","Moby",0
+"2008-09","Orbital",1
+"2008-09","Ozric Tentacles",1
+"2008-09","Paul Oakenfold",1
+"2008-09","Röyksopp",2
+"2008-09","Testament",1
+"2008-09","The Chemical Brothers",0
+"2008-09","The Crystal Method",0
+"2008-09","The Prodigy",5
+"2008-09","Thievery Corporation",1
+"2008-09","Utah Saints",0
+"2008-10","Alice In Chains",0
+"2008-10","Bt",3
+"2008-10","Chicane",2
+"2008-10","Daft Punk",3
+"2008-10","Delerium",4
+"2008-10","Dream Theater",4
+"2008-10","Fatboy Slim",4
+"2008-10","Hybrid",3
+"2008-10","Metallica",12
+"2008-10","Moby",4
+"2008-10","Orbital",6
+"2008-10","Ozric Tentacles",6
+"2008-10","Paul Oakenfold",1
+"2008-10","Röyksopp",2
+"2008-10","Testament",3
+"2008-10","The Chemical Brothers",4
+"2008-10","The Crystal Method",7
+"2008-10","The Prodigy",7
+"2008-10","Thievery Corporation",1
+"2008-10","Utah Saints",1
+"2008-11","Alice In Chains",9
+"2008-11","Bt",5
+"2008-11","Chicane",3
+"2008-11","Daft Punk",4
+"2008-11","Delerium",5
+"2008-11","Dream Theater",10
+"2008-11","Fatboy Slim",0
+"2008-11","Hybrid",4
+"2008-11","Metallica",5
+"2008-11","Moby",7
+"2008-11","Orbital",3
+"2008-11","Ozric Tentacles",7
+"2008-11","Paul Oakenfold",3
+"2008-11","Röyksopp",0
+"2008-11","Testament",2
+"2008-11","The Chemical Brothers",6
+"2008-11","The Crystal Method",7
+"2008-11","The Prodigy",6
+"2008-11","Thievery Corporation",2
+"2008-11","Utah Saints",4
+"2008-12","Alice In Chains",3
+"2008-12","Bt",2
+"2008-12","Chicane",1
+"2008-12","Daft Punk",2
+"2008-12","Delerium",1
+"2008-12","Dream Theater",0
+"2008-12","Fatboy Slim",1
+"2008-12","Hybrid",1
+"2008-12","Metallica",1
+"2008-12","Moby",1
+"2008-12","Orbital",1
+"2008-12","Ozric Tentacles",2
+"2008-12","Paul Oakenfold",0
+"2008-12","Röyksopp",1
+"2008-12","Testament",0
+"2008-12","The Chemical Brothers",3
+"2008-12","The Crystal Method",6
+"2008-12","The Prodigy",1
+"2008-12","Thievery Corporation",1
+"2008-12","Utah Saints",1
+"2009-01","Alice In Chains",0
+"2009-01","Bt",1
+"2009-01","Chicane",0
+"2009-01","Daft Punk",0
+"2009-01","Delerium",1
+"2009-01","Dream Theater",1
+"2009-01","Fatboy Slim",1
+"2009-01","Hybrid",0
+"2009-01","Metallica",3
+"2009-01","Moby",0
+"2009-01","Orbital",2
+"2009-01","Ozric Tentacles",0
+"2009-01","Paul Oakenfold",1
+"2009-01","Röyksopp",1
+"2009-01","Testament",0
+"2009-01","The Chemical Brothers",1
+"2009-01","The Crystal Method",0
+"2009-01","The Prodigy",1
+"2009-01","Thievery Corporation",0
+"2009-01","Utah Saints",0
+"2009-02","Alice In Chains",0
+"2009-02","Bt",0
+"2009-02","Chicane",0
+"2009-02","Daft Punk",0
+"2009-02","Delerium",1
+"2009-02","Dream Theater",0
+"2009-02","Fatboy Slim",1
+"2009-02","Hybrid",0
+"2009-02","Metallica",0
+"2009-02","Moby",0
+"2009-02","Orbital",0
+"2009-02","Ozric Tentacles",0
+"2009-02","Paul Oakenfold",0
+"2009-02","Röyksopp",0
+"2009-02","Testament",1
+"2009-02","The Chemical Brothers",1
+"2009-02","The Crystal Method",0
+"2009-02","The Prodigy",1
+"2009-02","Thievery Corporation",0
+"2009-02","Utah Saints",1
+"2009-03","Alice In Chains",1
+"2009-03","Bt",3
+"2009-03","Chicane",6
+"2009-03","Daft Punk",1
+"2009-03","Delerium",8
+"2009-03","Dream Theater",5
+"2009-03","Fatboy Slim",6
+"2009-03","Hybrid",6
+"2009-03","Metallica",4
+"2009-03","Moby",5
+"2009-03","Orbital",6
+"2009-03","Ozric Tentacles",6
+"2009-03","Paul Oakenfold",4
+"2009-03","Röyksopp",2
+"2009-03","Testament",2
+"2009-03","The Chemical Brothers",1
+"2009-03","The Crystal Method",2
+"2009-03","The Prodigy",8
+"2009-03","Thievery Corporation",4
+"2009-03","Utah Saints",2
+"2009-04","Alice In Chains",1
+"2009-04","Bt",3
+"2009-04","Chicane",4
+"2009-04","Daft Punk",3
+"2009-04","Delerium",4
+"2009-04","Dream Theater",1
+"2009-04","Fatboy Slim",2
+"2009-04","Hybrid",4
+"2009-04","Metallica",1
+"2009-04","Moby",1
+"2009-04","Orbital",6
+"2009-04","Ozric Tentacles",4
+"2009-04","Paul Oakenfold",0
+"2009-04","Röyksopp",1
+"2009-04","Testament",2
+"2009-04","The Chemical Brothers",0
+"2009-04","The Crystal Method",1
+"2009-04","The Prodigy",2
+"2009-04","Thievery Corporation",1
+"2009-04","Utah Saints",0
+"2009-05","Alice In Chains",0
+"2009-05","Bt",1
+"2009-05","Chicane",0
+"2009-05","Daft Punk",0
+"2009-05","Delerium",0
+"2009-05","Dream Theater",0
+"2009-05","Fatboy Slim",0
+"2009-05","Hybrid",0
+"2009-05","Metallica",0
+"2009-05","Moby",0
+"2009-05","Orbital",0
+"2009-05","Ozric Tentacles",0
+"2009-05","Paul Oakenfold",0
+"2009-05","Röyksopp",0
+"2009-05","Testament",0
+"2009-05","The Chemical Brothers",0
+"2009-05","The Crystal Method",0
+"2009-05","The Prodigy",0
+"2009-05","Thievery Corporation",0
+"2009-05","Utah Saints",0

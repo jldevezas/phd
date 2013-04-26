@@ -1,441 +1,441 @@
-month,artist,plays
-2005-02,Andrew Bird,2
-2005-02,Ani Difranco,1
-2005-02,Bonnie 'Prince' Billy,3
-2005-02,Bright Eyes,47
-2005-02,Broken Social Scene,8
-2005-02,Coldplay,2
-2005-02,Counting Crows,0
-2005-02,Damien Jurado,9
-2005-02,Daniel Johnston,36
-2005-02,Death Cab For Cutie,2
-2005-02,Iron & Wine,0
-2005-02,Jewel,1
-2005-02,Jolie Holland,30
-2005-02,Over The Rhine,30
-2005-02,Ron Sexsmith,0
-2005-02,Sixpence None The Richer,0
-2005-02,Sufjan Stevens,1
-2005-02,Sun Kil Moon,0
-2005-02,The Be Good Tanyas,0
-2005-02,The Innocence Mission,60
-2005-03,Andrew Bird,2
-2005-03,Ani Difranco,45
-2005-03,Bonnie 'Prince' Billy,0
-2005-03,Bright Eyes,106
-2005-03,Broken Social Scene,2
-2005-03,Coldplay,1
-2005-03,Counting Crows,39
-2005-03,Damien Jurado,0
-2005-03,Daniel Johnston,183
-2005-03,Death Cab For Cutie,2
-2005-03,Iron & Wine,16
-2005-03,Jewel,1
-2005-03,Jolie Holland,10
-2005-03,Over The Rhine,25
-2005-03,Ron Sexsmith,68
-2005-03,Sixpence None The Richer,19
-2005-03,Sufjan Stevens,6
-2005-03,Sun Kil Moon,1
-2005-03,The Be Good Tanyas,0
-2005-03,The Innocence Mission,28
-2005-04,Andrew Bird,10
-2005-04,Ani Difranco,36
-2005-04,Bonnie 'Prince' Billy,31
-2005-04,Bright Eyes,326
-2005-04,Broken Social Scene,12
-2005-04,Coldplay,2
-2005-04,Counting Crows,28
-2005-04,Damien Jurado,3
-2005-04,Daniel Johnston,17
-2005-04,Death Cab For Cutie,14
-2005-04,Iron & Wine,15
-2005-04,Jewel,13
-2005-04,Jolie Holland,32
-2005-04,Over The Rhine,42
-2005-04,Ron Sexsmith,2
-2005-04,Sixpence None The Richer,20
-2005-04,Sufjan Stevens,2
-2005-04,Sun Kil Moon,2
-2005-04,The Be Good Tanyas,8
-2005-04,The Innocence Mission,0
-2005-05,Andrew Bird,2
-2005-05,Ani Difranco,18
-2005-05,Bonnie 'Prince' Billy,63
-2005-05,Bright Eyes,108
-2005-05,Broken Social Scene,1
-2005-05,Coldplay,18
-2005-05,Counting Crows,29
-2005-05,Damien Jurado,10
-2005-05,Daniel Johnston,3
-2005-05,Death Cab For Cutie,1
-2005-05,Iron & Wine,39
-2005-05,Jewel,1
-2005-05,Jolie Holland,24
-2005-05,Over The Rhine,20
-2005-05,Ron Sexsmith,79
-2005-05,Sixpence None The Richer,1
-2005-05,Sufjan Stevens,1
-2005-05,Sun Kil Moon,14
-2005-05,The Be Good Tanyas,3
-2005-05,The Innocence Mission,61
-2005-06,Andrew Bird,4
-2005-06,Ani Difranco,0
-2005-06,Bonnie 'Prince' Billy,1
-2005-06,Bright Eyes,197
-2005-06,Broken Social Scene,7
-2005-06,Coldplay,43
-2005-06,Counting Crows,15
-2005-06,Damien Jurado,13
-2005-06,Daniel Johnston,4
-2005-06,Death Cab For Cutie,13
-2005-06,Iron & Wine,33
-2005-06,Jewel,7
-2005-06,Jolie Holland,9
-2005-06,Over The Rhine,37
-2005-06,Ron Sexsmith,27
-2005-06,Sixpence None The Richer,0
-2005-06,Sufjan Stevens,29
-2005-06,Sun Kil Moon,1
-2005-06,The Be Good Tanyas,18
-2005-06,The Innocence Mission,43
-2005-07,Andrew Bird,1
-2005-07,Ani Difranco,1
-2005-07,Bonnie 'Prince' Billy,10
-2005-07,Bright Eyes,39
-2005-07,Broken Social Scene,13
-2005-07,Coldplay,5
-2005-07,Counting Crows,41
-2005-07,Damien Jurado,1
-2005-07,Daniel Johnston,3
-2005-07,Death Cab For Cutie,48
-2005-07,Iron & Wine,3
-2005-07,Jewel,0
-2005-07,Jolie Holland,2
-2005-07,Over The Rhine,31
-2005-07,Ron Sexsmith,1
-2005-07,Sixpence None The Richer,31
-2005-07,Sufjan Stevens,52
-2005-07,Sun Kil Moon,0
-2005-07,The Be Good Tanyas,12
-2005-07,The Innocence Mission,0
-2005-08,Andrew Bird,30
-2005-08,Ani Difranco,8
-2005-08,Bonnie 'Prince' Billy,210
-2005-08,Bright Eyes,65
-2005-08,Broken Social Scene,3
-2005-08,Coldplay,23
-2005-08,Counting Crows,28
-2005-08,Damien Jurado,12
-2005-08,Daniel Johnston,5
-2005-08,Death Cab For Cutie,120
-2005-08,Iron & Wine,3
-2005-08,Jewel,18
-2005-08,Jolie Holland,0
-2005-08,Over The Rhine,7
-2005-08,Ron Sexsmith,11
-2005-08,Sixpence None The Richer,7
-2005-08,Sufjan Stevens,11
-2005-08,Sun Kil Moon,16
-2005-08,The Be Good Tanyas,5
-2005-08,The Innocence Mission,13
-2005-09,Andrew Bird,12
-2005-09,Ani Difranco,69
-2005-09,Bonnie 'Prince' Billy,24
-2005-09,Bright Eyes,90
-2005-09,Broken Social Scene,8
-2005-09,Coldplay,27
-2005-09,Counting Crows,5
-2005-09,Damien Jurado,0
-2005-09,Daniel Johnston,0
-2005-09,Death Cab For Cutie,14
-2005-09,Iron & Wine,2
-2005-09,Jewel,2
-2005-09,Jolie Holland,2
-2005-09,Over The Rhine,1
-2005-09,Ron Sexsmith,2
-2005-09,Sixpence None The Richer,2
-2005-09,Sufjan Stevens,10
-2005-09,Sun Kil Moon,2
-2005-09,The Be Good Tanyas,43
-2005-09,The Innocence Mission,0
-2005-10,Andrew Bird,5
-2005-10,Ani Difranco,52
-2005-10,Bonnie 'Prince' Billy,29
-2005-10,Bright Eyes,342
-2005-10,Broken Social Scene,11
-2005-10,Coldplay,15
-2005-10,Counting Crows,44
-2005-10,Damien Jurado,13
-2005-10,Daniel Johnston,9
-2005-10,Death Cab For Cutie,20
-2005-10,Iron & Wine,1
-2005-10,Jewel,0
-2005-10,Jolie Holland,0
-2005-10,Over The Rhine,15
-2005-10,Ron Sexsmith,12
-2005-10,Sixpence None The Richer,6
-2005-10,Sufjan Stevens,69
-2005-10,Sun Kil Moon,57
-2005-10,The Be Good Tanyas,11
-2005-10,The Innocence Mission,10
-2005-11,Andrew Bird,0
-2005-11,Ani Difranco,62
-2005-11,Bonnie 'Prince' Billy,31
-2005-11,Bright Eyes,190
-2005-11,Broken Social Scene,26
-2005-11,Coldplay,22
-2005-11,Counting Crows,31
-2005-11,Damien Jurado,4
-2005-11,Daniel Johnston,80
-2005-11,Death Cab For Cutie,27
-2005-11,Iron & Wine,2
-2005-11,Jewel,48
-2005-11,Jolie Holland,1
-2005-11,Over The Rhine,20
-2005-11,Ron Sexsmith,3
-2005-11,Sixpence None The Richer,14
-2005-11,Sufjan Stevens,2
-2005-11,Sun Kil Moon,116
-2005-11,The Be Good Tanyas,51
-2005-11,The Innocence Mission,21
-2005-12,Andrew Bird,0
-2005-12,Ani Difranco,29
-2005-12,Bonnie 'Prince' Billy,118
-2005-12,Bright Eyes,179
-2005-12,Broken Social Scene,17
-2005-12,Coldplay,5
-2005-12,Counting Crows,33
-2005-12,Damien Jurado,224
-2005-12,Daniel Johnston,147
-2005-12,Death Cab For Cutie,3
-2005-12,Iron & Wine,15
-2005-12,Jewel,52
-2005-12,Jolie Holland,22
-2005-12,Over The Rhine,111
-2005-12,Ron Sexsmith,40
-2005-12,Sixpence None The Richer,2
-2005-12,Sufjan Stevens,32
-2005-12,Sun Kil Moon,124
-2005-12,The Be Good Tanyas,40
-2005-12,The Innocence Mission,45
-2006-01,Andrew Bird,1
-2006-01,Ani Difranco,63
-2006-01,Bonnie 'Prince' Billy,61
-2006-01,Bright Eyes,554
-2006-01,Broken Social Scene,0
-2006-01,Coldplay,16
-2006-01,Counting Crows,192
-2006-01,Damien Jurado,111
-2006-01,Daniel Johnston,306
-2006-01,Death Cab For Cutie,76
-2006-01,Iron & Wine,6
-2006-01,Jewel,45
-2006-01,Jolie Holland,12
-2006-01,Over The Rhine,67
-2006-01,Ron Sexsmith,154
-2006-01,Sixpence None The Richer,8
-2006-01,Sufjan Stevens,4
-2006-01,Sun Kil Moon,16
-2006-01,The Be Good Tanyas,43
-2006-01,The Innocence Mission,25
-2006-02,Andrew Bird,6
-2006-02,Ani Difranco,51
-2006-02,Bonnie 'Prince' Billy,16
-2006-02,Bright Eyes,252
-2006-02,Broken Social Scene,0
-2006-02,Coldplay,12
-2006-02,Counting Crows,47
-2006-02,Damien Jurado,40
-2006-02,Daniel Johnston,338
-2006-02,Death Cab For Cutie,10
-2006-02,Iron & Wine,0
-2006-02,Jewel,26
-2006-02,Jolie Holland,36
-2006-02,Over The Rhine,45
-2006-02,Ron Sexsmith,176
-2006-02,Sixpence None The Richer,13
-2006-02,Sufjan Stevens,7
-2006-02,Sun Kil Moon,20
-2006-02,The Be Good Tanyas,14
-2006-02,The Innocence Mission,51
-2006-03,Andrew Bird,52
-2006-03,Ani Difranco,87
-2006-03,Bonnie 'Prince' Billy,31
-2006-03,Bright Eyes,248
-2006-03,Broken Social Scene,15
-2006-03,Coldplay,2
-2006-03,Counting Crows,45
-2006-03,Damien Jurado,16
-2006-03,Daniel Johnston,50
-2006-03,Death Cab For Cutie,5
-2006-03,Iron & Wine,4
-2006-03,Jewel,5
-2006-03,Jolie Holland,33
-2006-03,Over The Rhine,4
-2006-03,Ron Sexsmith,5
-2006-03,Sixpence None The Richer,0
-2006-03,Sufjan Stevens,7
-2006-03,Sun Kil Moon,24
-2006-03,The Be Good Tanyas,35
-2006-03,The Innocence Mission,35
-2006-04,Andrew Bird,0
-2006-04,Ani Difranco,3
-2006-04,Bonnie 'Prince' Billy,78
-2006-04,Bright Eyes,14
-2006-04,Broken Social Scene,0
-2006-04,Coldplay,0
-2006-04,Counting Crows,4
-2006-04,Damien Jurado,9
-2006-04,Daniel Johnston,1
-2006-04,Death Cab For Cutie,0
-2006-04,Iron & Wine,0
-2006-04,Jewel,1
-2006-04,Jolie Holland,1
-2006-04,Over The Rhine,0
-2006-04,Ron Sexsmith,2
-2006-04,Sixpence None The Richer,0
-2006-04,Sufjan Stevens,0
-2006-04,Sun Kil Moon,0
-2006-04,The Be Good Tanyas,4
-2006-04,The Innocence Mission,2
-2006-05,Andrew Bird,9
-2006-05,Ani Difranco,16
-2006-05,Bonnie 'Prince' Billy,28
-2006-05,Bright Eyes,20
-2006-05,Broken Social Scene,3
-2006-05,Coldplay,0
-2006-05,Counting Crows,12
-2006-05,Damien Jurado,1
-2006-05,Daniel Johnston,4
-2006-05,Death Cab For Cutie,4
-2006-05,Iron & Wine,1
-2006-05,Jewel,28
-2006-05,Jolie Holland,43
-2006-05,Over The Rhine,30
-2006-05,Ron Sexsmith,1
-2006-05,Sixpence None The Richer,2
-2006-05,Sufjan Stevens,0
-2006-05,Sun Kil Moon,2
-2006-05,The Be Good Tanyas,0
-2006-05,The Innocence Mission,19
-2006-06,Andrew Bird,6
-2006-06,Ani Difranco,6
-2006-06,Bonnie 'Prince' Billy,24
-2006-06,Bright Eyes,97
-2006-06,Broken Social Scene,3
-2006-06,Coldplay,4
-2006-06,Counting Crows,18
-2006-06,Damien Jurado,11
-2006-06,Daniel Johnston,2
-2006-06,Death Cab For Cutie,21
-2006-06,Iron & Wine,5
-2006-06,Jewel,2
-2006-06,Jolie Holland,43
-2006-06,Over The Rhine,9
-2006-06,Ron Sexsmith,41
-2006-06,Sixpence None The Richer,8
-2006-06,Sufjan Stevens,37
-2006-06,Sun Kil Moon,4
-2006-06,The Be Good Tanyas,5
-2006-06,The Innocence Mission,1
-2006-07,Andrew Bird,5
-2006-07,Ani Difranco,67
-2006-07,Bonnie 'Prince' Billy,53
-2006-07,Bright Eyes,108
-2006-07,Broken Social Scene,12
-2006-07,Coldplay,12
-2006-07,Counting Crows,26
-2006-07,Damien Jurado,31
-2006-07,Daniel Johnston,80
-2006-07,Death Cab For Cutie,13
-2006-07,Iron & Wine,12
-2006-07,Jewel,13
-2006-07,Jolie Holland,9
-2006-07,Over The Rhine,10
-2006-07,Ron Sexsmith,42
-2006-07,Sixpence None The Richer,14
-2006-07,Sufjan Stevens,13
-2006-07,Sun Kil Moon,18
-2006-07,The Be Good Tanyas,19
-2006-07,The Innocence Mission,15
-2006-08,Andrew Bird,0
-2006-08,Ani Difranco,166
-2006-08,Bonnie 'Prince' Billy,285
-2006-08,Bright Eyes,63
-2006-08,Broken Social Scene,7
-2006-08,Coldplay,0
-2006-08,Counting Crows,22
-2006-08,Damien Jurado,44
-2006-08,Daniel Johnston,4
-2006-08,Death Cab For Cutie,29
-2006-08,Iron & Wine,1
-2006-08,Jewel,0
-2006-08,Jolie Holland,3
-2006-08,Over The Rhine,22
-2006-08,Ron Sexsmith,1
-2006-08,Sixpence None The Richer,51
-2006-08,Sufjan Stevens,0
-2006-08,Sun Kil Moon,36
-2006-08,The Be Good Tanyas,1
-2006-08,The Innocence Mission,1
-2006-09,Andrew Bird,0
-2006-09,Ani Difranco,4
-2006-09,Bonnie 'Prince' Billy,3
-2006-09,Bright Eyes,55
-2006-09,Broken Social Scene,17
-2006-09,Coldplay,2
-2006-09,Counting Crows,1
-2006-09,Damien Jurado,9
-2006-09,Daniel Johnston,0
-2006-09,Death Cab For Cutie,0
-2006-09,Iron & Wine,0
-2006-09,Jewel,0
-2006-09,Jolie Holland,9
-2006-09,Over The Rhine,0
-2006-09,Ron Sexsmith,0
-2006-09,Sixpence None The Richer,24
-2006-09,Sufjan Stevens,0
-2006-09,Sun Kil Moon,30
-2006-09,The Be Good Tanyas,6
-2006-09,The Innocence Mission,6
-2006-10,Andrew Bird,7
-2006-10,Ani Difranco,33
-2006-10,Bonnie 'Prince' Billy,42
-2006-10,Bright Eyes,125
-2006-10,Broken Social Scene,16
-2006-10,Coldplay,0
-2006-10,Counting Crows,4
-2006-10,Damien Jurado,106
-2006-10,Daniel Johnston,16
-2006-10,Death Cab For Cutie,1
-2006-10,Iron & Wine,1
-2006-10,Jewel,0
-2006-10,Jolie Holland,0
-2006-10,Over The Rhine,0
-2006-10,Ron Sexsmith,0
-2006-10,Sixpence None The Richer,19
-2006-10,Sufjan Stevens,0
-2006-10,Sun Kil Moon,20
-2006-10,The Be Good Tanyas,92
-2006-10,The Innocence Mission,1
-2006-11,Andrew Bird,0
-2006-11,Ani Difranco,13
-2006-11,Bonnie 'Prince' Billy,26
-2006-11,Bright Eyes,66
-2006-11,Broken Social Scene,12
-2006-11,Coldplay,0
-2006-11,Counting Crows,22
-2006-11,Damien Jurado,35
-2006-11,Daniel Johnston,0
-2006-11,Death Cab For Cutie,10
-2006-11,Iron & Wine,0
-2006-11,Jewel,2
-2006-11,Jolie Holland,29
-2006-11,Over The Rhine,19
-2006-11,Ron Sexsmith,30
-2006-11,Sixpence None The Richer,0
-2006-11,Sufjan Stevens,1
-2006-11,Sun Kil Moon,11
-2006-11,The Be Good Tanyas,101
-2006-11,The Innocence Mission,0
+"month","artist","plays"
+"2005-02","Andrew Bird",2
+"2005-02","Ani Difranco",1
+"2005-02","Bonnie 'Prince' Billy",3
+"2005-02","Bright Eyes",47
+"2005-02","Broken Social Scene",8
+"2005-02","Coldplay",2
+"2005-02","Counting Crows",0
+"2005-02","Damien Jurado",9
+"2005-02","Daniel Johnston",36
+"2005-02","Death Cab For Cutie",2
+"2005-02","Iron & Wine",0
+"2005-02","Jewel",1
+"2005-02","Jolie Holland",30
+"2005-02","Over The Rhine",30
+"2005-02","Ron Sexsmith",0
+"2005-02","Sixpence None The Richer",0
+"2005-02","Sufjan Stevens",1
+"2005-02","Sun Kil Moon",0
+"2005-02","The Be Good Tanyas",0
+"2005-02","The Innocence Mission",60
+"2005-03","Andrew Bird",2
+"2005-03","Ani Difranco",45
+"2005-03","Bonnie 'Prince' Billy",0
+"2005-03","Bright Eyes",106
+"2005-03","Broken Social Scene",2
+"2005-03","Coldplay",1
+"2005-03","Counting Crows",39
+"2005-03","Damien Jurado",0
+"2005-03","Daniel Johnston",183
+"2005-03","Death Cab For Cutie",2
+"2005-03","Iron & Wine",16
+"2005-03","Jewel",1
+"2005-03","Jolie Holland",10
+"2005-03","Over The Rhine",25
+"2005-03","Ron Sexsmith",68
+"2005-03","Sixpence None The Richer",19
+"2005-03","Sufjan Stevens",6
+"2005-03","Sun Kil Moon",1
+"2005-03","The Be Good Tanyas",0
+"2005-03","The Innocence Mission",28
+"2005-04","Andrew Bird",10
+"2005-04","Ani Difranco",36
+"2005-04","Bonnie 'Prince' Billy",31
+"2005-04","Bright Eyes",326
+"2005-04","Broken Social Scene",12
+"2005-04","Coldplay",2
+"2005-04","Counting Crows",28
+"2005-04","Damien Jurado",3
+"2005-04","Daniel Johnston",17
+"2005-04","Death Cab For Cutie",14
+"2005-04","Iron & Wine",15
+"2005-04","Jewel",13
+"2005-04","Jolie Holland",32
+"2005-04","Over The Rhine",42
+"2005-04","Ron Sexsmith",2
+"2005-04","Sixpence None The Richer",20
+"2005-04","Sufjan Stevens",2
+"2005-04","Sun Kil Moon",2
+"2005-04","The Be Good Tanyas",8
+"2005-04","The Innocence Mission",0
+"2005-05","Andrew Bird",2
+"2005-05","Ani Difranco",18
+"2005-05","Bonnie 'Prince' Billy",63
+"2005-05","Bright Eyes",108
+"2005-05","Broken Social Scene",1
+"2005-05","Coldplay",18
+"2005-05","Counting Crows",29
+"2005-05","Damien Jurado",10
+"2005-05","Daniel Johnston",3
+"2005-05","Death Cab For Cutie",1
+"2005-05","Iron & Wine",39
+"2005-05","Jewel",1
+"2005-05","Jolie Holland",24
+"2005-05","Over The Rhine",20
+"2005-05","Ron Sexsmith",79
+"2005-05","Sixpence None The Richer",1
+"2005-05","Sufjan Stevens",1
+"2005-05","Sun Kil Moon",14
+"2005-05","The Be Good Tanyas",3
+"2005-05","The Innocence Mission",61
+"2005-06","Andrew Bird",4
+"2005-06","Ani Difranco",0
+"2005-06","Bonnie 'Prince' Billy",1
+"2005-06","Bright Eyes",197
+"2005-06","Broken Social Scene",7
+"2005-06","Coldplay",43
+"2005-06","Counting Crows",15
+"2005-06","Damien Jurado",13
+"2005-06","Daniel Johnston",4
+"2005-06","Death Cab For Cutie",13
+"2005-06","Iron & Wine",33
+"2005-06","Jewel",7
+"2005-06","Jolie Holland",9
+"2005-06","Over The Rhine",37
+"2005-06","Ron Sexsmith",27
+"2005-06","Sixpence None The Richer",0
+"2005-06","Sufjan Stevens",29
+"2005-06","Sun Kil Moon",1
+"2005-06","The Be Good Tanyas",18
+"2005-06","The Innocence Mission",43
+"2005-07","Andrew Bird",1
+"2005-07","Ani Difranco",1
+"2005-07","Bonnie 'Prince' Billy",10
+"2005-07","Bright Eyes",39
+"2005-07","Broken Social Scene",13
+"2005-07","Coldplay",5
+"2005-07","Counting Crows",41
+"2005-07","Damien Jurado",1
+"2005-07","Daniel Johnston",3
+"2005-07","Death Cab For Cutie",48
+"2005-07","Iron & Wine",3
+"2005-07","Jewel",0
+"2005-07","Jolie Holland",2
+"2005-07","Over The Rhine",31
+"2005-07","Ron Sexsmith",1
+"2005-07","Sixpence None The Richer",31
+"2005-07","Sufjan Stevens",52
+"2005-07","Sun Kil Moon",0
+"2005-07","The Be Good Tanyas",12
+"2005-07","The Innocence Mission",0
+"2005-08","Andrew Bird",30
+"2005-08","Ani Difranco",8
+"2005-08","Bonnie 'Prince' Billy",210
+"2005-08","Bright Eyes",65
+"2005-08","Broken Social Scene",3
+"2005-08","Coldplay",23
+"2005-08","Counting Crows",28
+"2005-08","Damien Jurado",12
+"2005-08","Daniel Johnston",5
+"2005-08","Death Cab For Cutie",120
+"2005-08","Iron & Wine",3
+"2005-08","Jewel",18
+"2005-08","Jolie Holland",0
+"2005-08","Over The Rhine",7
+"2005-08","Ron Sexsmith",11
+"2005-08","Sixpence None The Richer",7
+"2005-08","Sufjan Stevens",11
+"2005-08","Sun Kil Moon",16
+"2005-08","The Be Good Tanyas",5
+"2005-08","The Innocence Mission",13
+"2005-09","Andrew Bird",12
+"2005-09","Ani Difranco",69
+"2005-09","Bonnie 'Prince' Billy",24
+"2005-09","Bright Eyes",90
+"2005-09","Broken Social Scene",8
+"2005-09","Coldplay",27
+"2005-09","Counting Crows",5
+"2005-09","Damien Jurado",0
+"2005-09","Daniel Johnston",0
+"2005-09","Death Cab For Cutie",14
+"2005-09","Iron & Wine",2
+"2005-09","Jewel",2
+"2005-09","Jolie Holland",2
+"2005-09","Over The Rhine",1
+"2005-09","Ron Sexsmith",2
+"2005-09","Sixpence None The Richer",2
+"2005-09","Sufjan Stevens",10
+"2005-09","Sun Kil Moon",2
+"2005-09","The Be Good Tanyas",43
+"2005-09","The Innocence Mission",0
+"2005-10","Andrew Bird",5
+"2005-10","Ani Difranco",52
+"2005-10","Bonnie 'Prince' Billy",29
+"2005-10","Bright Eyes",342
+"2005-10","Broken Social Scene",11
+"2005-10","Coldplay",15
+"2005-10","Counting Crows",44
+"2005-10","Damien Jurado",13
+"2005-10","Daniel Johnston",9
+"2005-10","Death Cab For Cutie",20
+"2005-10","Iron & Wine",1
+"2005-10","Jewel",0
+"2005-10","Jolie Holland",0
+"2005-10","Over The Rhine",15
+"2005-10","Ron Sexsmith",12
+"2005-10","Sixpence None The Richer",6
+"2005-10","Sufjan Stevens",69
+"2005-10","Sun Kil Moon",57
+"2005-10","The Be Good Tanyas",11
+"2005-10","The Innocence Mission",10
+"2005-11","Andrew Bird",0
+"2005-11","Ani Difranco",62
+"2005-11","Bonnie 'Prince' Billy",31
+"2005-11","Bright Eyes",190
+"2005-11","Broken Social Scene",26
+"2005-11","Coldplay",22
+"2005-11","Counting Crows",31
+"2005-11","Damien Jurado",4
+"2005-11","Daniel Johnston",80
+"2005-11","Death Cab For Cutie",27
+"2005-11","Iron & Wine",2
+"2005-11","Jewel",48
+"2005-11","Jolie Holland",1
+"2005-11","Over The Rhine",20
+"2005-11","Ron Sexsmith",3
+"2005-11","Sixpence None The Richer",14
+"2005-11","Sufjan Stevens",2
+"2005-11","Sun Kil Moon",116
+"2005-11","The Be Good Tanyas",51
+"2005-11","The Innocence Mission",21
+"2005-12","Andrew Bird",0
+"2005-12","Ani Difranco",29
+"2005-12","Bonnie 'Prince' Billy",118
+"2005-12","Bright Eyes",179
+"2005-12","Broken Social Scene",17
+"2005-12","Coldplay",5
+"2005-12","Counting Crows",33
+"2005-12","Damien Jurado",224
+"2005-12","Daniel Johnston",147
+"2005-12","Death Cab For Cutie",3
+"2005-12","Iron & Wine",15
+"2005-12","Jewel",52
+"2005-12","Jolie Holland",22
+"2005-12","Over The Rhine",111
+"2005-12","Ron Sexsmith",40
+"2005-12","Sixpence None The Richer",2
+"2005-12","Sufjan Stevens",32
+"2005-12","Sun Kil Moon",124
+"2005-12","The Be Good Tanyas",40
+"2005-12","The Innocence Mission",45
+"2006-01","Andrew Bird",1
+"2006-01","Ani Difranco",63
+"2006-01","Bonnie 'Prince' Billy",61
+"2006-01","Bright Eyes",554
+"2006-01","Broken Social Scene",0
+"2006-01","Coldplay",16
+"2006-01","Counting Crows",192
+"2006-01","Damien Jurado",111
+"2006-01","Daniel Johnston",306
+"2006-01","Death Cab For Cutie",76
+"2006-01","Iron & Wine",6
+"2006-01","Jewel",45
+"2006-01","Jolie Holland",12
+"2006-01","Over The Rhine",67
+"2006-01","Ron Sexsmith",154
+"2006-01","Sixpence None The Richer",8
+"2006-01","Sufjan Stevens",4
+"2006-01","Sun Kil Moon",16
+"2006-01","The Be Good Tanyas",43
+"2006-01","The Innocence Mission",25
+"2006-02","Andrew Bird",6
+"2006-02","Ani Difranco",51
+"2006-02","Bonnie 'Prince' Billy",16
+"2006-02","Bright Eyes",252
+"2006-02","Broken Social Scene",0
+"2006-02","Coldplay",12
+"2006-02","Counting Crows",47
+"2006-02","Damien Jurado",40
+"2006-02","Daniel Johnston",338
+"2006-02","Death Cab For Cutie",10
+"2006-02","Iron & Wine",0
+"2006-02","Jewel",26
+"2006-02","Jolie Holland",36
+"2006-02","Over The Rhine",45
+"2006-02","Ron Sexsmith",176
+"2006-02","Sixpence None The Richer",13
+"2006-02","Sufjan Stevens",7
+"2006-02","Sun Kil Moon",20
+"2006-02","The Be Good Tanyas",14
+"2006-02","The Innocence Mission",51
+"2006-03","Andrew Bird",52
+"2006-03","Ani Difranco",87
+"2006-03","Bonnie 'Prince' Billy",31
+"2006-03","Bright Eyes",248
+"2006-03","Broken Social Scene",15
+"2006-03","Coldplay",2
+"2006-03","Counting Crows",45
+"2006-03","Damien Jurado",16
+"2006-03","Daniel Johnston",50
+"2006-03","Death Cab For Cutie",5
+"2006-03","Iron & Wine",4
+"2006-03","Jewel",5
+"2006-03","Jolie Holland",33
+"2006-03","Over The Rhine",4
+"2006-03","Ron Sexsmith",5
+"2006-03","Sixpence None The Richer",0
+"2006-03","Sufjan Stevens",7
+"2006-03","Sun Kil Moon",24
+"2006-03","The Be Good Tanyas",35
+"2006-03","The Innocence Mission",35
+"2006-04","Andrew Bird",0
+"2006-04","Ani Difranco",3
+"2006-04","Bonnie 'Prince' Billy",78
+"2006-04","Bright Eyes",14
+"2006-04","Broken Social Scene",0
+"2006-04","Coldplay",0
+"2006-04","Counting Crows",4
+"2006-04","Damien Jurado",9
+"2006-04","Daniel Johnston",1
+"2006-04","Death Cab For Cutie",0
+"2006-04","Iron & Wine",0
+"2006-04","Jewel",1
+"2006-04","Jolie Holland",1
+"2006-04","Over The Rhine",0
+"2006-04","Ron Sexsmith",2
+"2006-04","Sixpence None The Richer",0
+"2006-04","Sufjan Stevens",0
+"2006-04","Sun Kil Moon",0
+"2006-04","The Be Good Tanyas",4
+"2006-04","The Innocence Mission",2
+"2006-05","Andrew Bird",9
+"2006-05","Ani Difranco",16
+"2006-05","Bonnie 'Prince' Billy",28
+"2006-05","Bright Eyes",20
+"2006-05","Broken Social Scene",3
+"2006-05","Coldplay",0
+"2006-05","Counting Crows",12
+"2006-05","Damien Jurado",1
+"2006-05","Daniel Johnston",4
+"2006-05","Death Cab For Cutie",4
+"2006-05","Iron & Wine",1
+"2006-05","Jewel",28
+"2006-05","Jolie Holland",43
+"2006-05","Over The Rhine",30
+"2006-05","Ron Sexsmith",1
+"2006-05","Sixpence None The Richer",2
+"2006-05","Sufjan Stevens",0
+"2006-05","Sun Kil Moon",2
+"2006-05","The Be Good Tanyas",0
+"2006-05","The Innocence Mission",19
+"2006-06","Andrew Bird",6
+"2006-06","Ani Difranco",6
+"2006-06","Bonnie 'Prince' Billy",24
+"2006-06","Bright Eyes",97
+"2006-06","Broken Social Scene",3
+"2006-06","Coldplay",4
+"2006-06","Counting Crows",18
+"2006-06","Damien Jurado",11
+"2006-06","Daniel Johnston",2
+"2006-06","Death Cab For Cutie",21
+"2006-06","Iron & Wine",5
+"2006-06","Jewel",2
+"2006-06","Jolie Holland",43
+"2006-06","Over The Rhine",9
+"2006-06","Ron Sexsmith",41
+"2006-06","Sixpence None The Richer",8
+"2006-06","Sufjan Stevens",37
+"2006-06","Sun Kil Moon",4
+"2006-06","The Be Good Tanyas",5
+"2006-06","The Innocence Mission",1
+"2006-07","Andrew Bird",5
+"2006-07","Ani Difranco",67
+"2006-07","Bonnie 'Prince' Billy",53
+"2006-07","Bright Eyes",108
+"2006-07","Broken Social Scene",12
+"2006-07","Coldplay",12
+"2006-07","Counting Crows",26
+"2006-07","Damien Jurado",31
+"2006-07","Daniel Johnston",80
+"2006-07","Death Cab For Cutie",13
+"2006-07","Iron & Wine",12
+"2006-07","Jewel",13
+"2006-07","Jolie Holland",9
+"2006-07","Over The Rhine",10
+"2006-07","Ron Sexsmith",42
+"2006-07","Sixpence None The Richer",14
+"2006-07","Sufjan Stevens",13
+"2006-07","Sun Kil Moon",18
+"2006-07","The Be Good Tanyas",19
+"2006-07","The Innocence Mission",15
+"2006-08","Andrew Bird",0
+"2006-08","Ani Difranco",166
+"2006-08","Bonnie 'Prince' Billy",285
+"2006-08","Bright Eyes",63
+"2006-08","Broken Social Scene",7
+"2006-08","Coldplay",0
+"2006-08","Counting Crows",22
+"2006-08","Damien Jurado",44
+"2006-08","Daniel Johnston",4
+"2006-08","Death Cab For Cutie",29
+"2006-08","Iron & Wine",1
+"2006-08","Jewel",0
+"2006-08","Jolie Holland",3
+"2006-08","Over The Rhine",22
+"2006-08","Ron Sexsmith",1
+"2006-08","Sixpence None The Richer",51
+"2006-08","Sufjan Stevens",0
+"2006-08","Sun Kil Moon",36
+"2006-08","The Be Good Tanyas",1
+"2006-08","The Innocence Mission",1
+"2006-09","Andrew Bird",0
+"2006-09","Ani Difranco",4
+"2006-09","Bonnie 'Prince' Billy",3
+"2006-09","Bright Eyes",55
+"2006-09","Broken Social Scene",17
+"2006-09","Coldplay",2
+"2006-09","Counting Crows",1
+"2006-09","Damien Jurado",9
+"2006-09","Daniel Johnston",0
+"2006-09","Death Cab For Cutie",0
+"2006-09","Iron & Wine",0
+"2006-09","Jewel",0
+"2006-09","Jolie Holland",9
+"2006-09","Over The Rhine",0
+"2006-09","Ron Sexsmith",0
+"2006-09","Sixpence None The Richer",24
+"2006-09","Sufjan Stevens",0
+"2006-09","Sun Kil Moon",30
+"2006-09","The Be Good Tanyas",6
+"2006-09","The Innocence Mission",6
+"2006-10","Andrew Bird",7
+"2006-10","Ani Difranco",33
+"2006-10","Bonnie 'Prince' Billy",42
+"2006-10","Bright Eyes",125
+"2006-10","Broken Social Scene",16
+"2006-10","Coldplay",0
+"2006-10","Counting Crows",4
+"2006-10","Damien Jurado",106
+"2006-10","Daniel Johnston",16
+"2006-10","Death Cab For Cutie",1
+"2006-10","Iron & Wine",1
+"2006-10","Jewel",0
+"2006-10","Jolie Holland",0
+"2006-10","Over The Rhine",0
+"2006-10","Ron Sexsmith",0
+"2006-10","Sixpence None The Richer",19
+"2006-10","Sufjan Stevens",0
+"2006-10","Sun Kil Moon",20
+"2006-10","The Be Good Tanyas",92
+"2006-10","The Innocence Mission",1
+"2006-11","Andrew Bird",0
+"2006-11","Ani Difranco",13
+"2006-11","Bonnie 'Prince' Billy",26
+"2006-11","Bright Eyes",66
+"2006-11","Broken Social Scene",12
+"2006-11","Coldplay",0
+"2006-11","Counting Crows",22
+"2006-11","Damien Jurado",35
+"2006-11","Daniel Johnston",0
+"2006-11","Death Cab For Cutie",10
+"2006-11","Iron & Wine",0
+"2006-11","Jewel",2
+"2006-11","Jolie Holland",29
+"2006-11","Over The Rhine",19
+"2006-11","Ron Sexsmith",30
+"2006-11","Sixpence None The Richer",0
+"2006-11","Sufjan Stevens",1
+"2006-11","Sun Kil Moon",11
+"2006-11","The Be Good Tanyas",101
+"2006-11","The Innocence Mission",0

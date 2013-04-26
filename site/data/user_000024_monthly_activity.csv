@@ -1,581 +1,581 @@
-month,artist,plays
-2007-01,Arcade Fire,37
-2007-01,Architecture In Helsinki,10
-2007-01,Band Of Horses,10
-2007-01,Bright Eyes,6
-2007-01,Broken Social Scene,9
-2007-01,Built To Spill,7
-2007-01,Clap Your Hands Say Yeah,3
-2007-01,Death Cab For Cutie,8
-2007-01,Minus The Bear,5
-2007-01,Modest Mouse,63
-2007-01,My Morning Jacket,2
-2007-01,Pinback,4
-2007-01,Rogue Wave,2
-2007-01,The Decemberists,11
-2007-01,The Flaming Lips,9
-2007-01,The National,3
-2007-01,The Shins,10
-2007-01,The Walkmen,6
-2007-01,Wolf Parade,6
-2007-01,Yo La Tengo,7
-2007-02,Arcade Fire,37
-2007-02,Architecture In Helsinki,36
-2007-02,Band Of Horses,36
-2007-02,Bright Eyes,24
-2007-02,Broken Social Scene,43
-2007-02,Built To Spill,26
-2007-02,Clap Your Hands Say Yeah,27
-2007-02,Death Cab For Cutie,26
-2007-02,Minus The Bear,1
-2007-02,Modest Mouse,39
-2007-02,My Morning Jacket,25
-2007-02,Pinback,2
-2007-02,Rogue Wave,12
-2007-02,The Decemberists,35
-2007-02,The Flaming Lips,31
-2007-02,The National,9
-2007-02,The Shins,31
-2007-02,The Walkmen,29
-2007-02,Wolf Parade,26
-2007-02,Yo La Tengo,32
-2007-03,Arcade Fire,13
-2007-03,Architecture In Helsinki,13
-2007-03,Band Of Horses,16
-2007-03,Bright Eyes,15
-2007-03,Broken Social Scene,11
-2007-03,Built To Spill,6
-2007-03,Clap Your Hands Say Yeah,10
-2007-03,Death Cab For Cutie,15
-2007-03,Minus The Bear,3
-2007-03,Modest Mouse,12
-2007-03,My Morning Jacket,5
-2007-03,Pinback,4
-2007-03,Rogue Wave,3
-2007-03,The Decemberists,14
-2007-03,The Flaming Lips,17
-2007-03,The National,0
-2007-03,The Shins,19
-2007-03,The Walkmen,6
-2007-03,Wolf Parade,13
-2007-03,Yo La Tengo,13
-2007-04,Arcade Fire,39
-2007-04,Architecture In Helsinki,1
-2007-04,Band Of Horses,12
-2007-04,Bright Eyes,4
-2007-04,Broken Social Scene,1
-2007-04,Built To Spill,1
-2007-04,Clap Your Hands Say Yeah,3
-2007-04,Death Cab For Cutie,5
-2007-04,Minus The Bear,1
-2007-04,Modest Mouse,30
-2007-04,My Morning Jacket,1
-2007-04,Pinback,1
-2007-04,Rogue Wave,0
-2007-04,The Decemberists,2
-2007-04,The Flaming Lips,3
-2007-04,The National,0
-2007-04,The Shins,4
-2007-04,The Walkmen,3
-2007-04,Wolf Parade,2
-2007-04,Yo La Tengo,1
-2007-05,Arcade Fire,29
-2007-05,Architecture In Helsinki,28
-2007-05,Band Of Horses,17
-2007-05,Bright Eyes,14
-2007-05,Broken Social Scene,30
-2007-05,Built To Spill,22
-2007-05,Clap Your Hands Say Yeah,30
-2007-05,Death Cab For Cutie,16
-2007-05,Minus The Bear,0
-2007-05,Modest Mouse,53
-2007-05,My Morning Jacket,19
-2007-05,Pinback,1
-2007-05,Rogue Wave,6
-2007-05,The Decemberists,28
-2007-05,The Flaming Lips,24
-2007-05,The National,6
-2007-05,The Shins,23
-2007-05,The Walkmen,26
-2007-05,Wolf Parade,27
-2007-05,Yo La Tengo,29
-2007-06,Arcade Fire,20
-2007-06,Architecture In Helsinki,13
-2007-06,Band Of Horses,48
-2007-06,Bright Eyes,11
-2007-06,Broken Social Scene,31
-2007-06,Built To Spill,4
-2007-06,Clap Your Hands Say Yeah,17
-2007-06,Death Cab For Cutie,14
-2007-06,Minus The Bear,7
-2007-06,Modest Mouse,29
-2007-06,My Morning Jacket,13
-2007-06,Pinback,9
-2007-06,Rogue Wave,8
-2007-06,The Decemberists,17
-2007-06,The Flaming Lips,42
-2007-06,The National,6
-2007-06,The Shins,15
-2007-06,The Walkmen,11
-2007-06,Wolf Parade,17
-2007-06,Yo La Tengo,16
-2007-07,Arcade Fire,5
-2007-07,Architecture In Helsinki,2
-2007-07,Band Of Horses,49
-2007-07,Bright Eyes,4
-2007-07,Broken Social Scene,2
-2007-07,Built To Spill,3
-2007-07,Clap Your Hands Say Yeah,4
-2007-07,Death Cab For Cutie,5
-2007-07,Minus The Bear,3
-2007-07,Modest Mouse,14
-2007-07,My Morning Jacket,2
-2007-07,Pinback,2
-2007-07,Rogue Wave,1
-2007-07,The Decemberists,3
-2007-07,The Flaming Lips,5
-2007-07,The National,2
-2007-07,The Shins,4
-2007-07,The Walkmen,2
-2007-07,Wolf Parade,2
-2007-07,Yo La Tengo,3
-2007-08,Arcade Fire,21
-2007-08,Architecture In Helsinki,4
-2007-08,Band Of Horses,16
-2007-08,Bright Eyes,6
-2007-08,Broken Social Scene,15
-2007-08,Built To Spill,7
-2007-08,Clap Your Hands Say Yeah,6
-2007-08,Death Cab For Cutie,3
-2007-08,Minus The Bear,2
-2007-08,Modest Mouse,5
-2007-08,My Morning Jacket,6
-2007-08,Pinback,5
-2007-08,Rogue Wave,3
-2007-08,The Decemberists,8
-2007-08,The Flaming Lips,13
-2007-08,The National,4
-2007-08,The Shins,8
-2007-08,The Walkmen,5
-2007-08,Wolf Parade,10
-2007-08,Yo La Tengo,6
-2007-09,Arcade Fire,0
-2007-09,Architecture In Helsinki,1
-2007-09,Band Of Horses,4
-2007-09,Bright Eyes,0
-2007-09,Broken Social Scene,4
-2007-09,Built To Spill,2
-2007-09,Clap Your Hands Say Yeah,3
-2007-09,Death Cab For Cutie,0
-2007-09,Minus The Bear,0
-2007-09,Modest Mouse,1
-2007-09,My Morning Jacket,1
-2007-09,Pinback,1
-2007-09,Rogue Wave,0
-2007-09,The Decemberists,2
-2007-09,The Flaming Lips,1
-2007-09,The National,1
-2007-09,The Shins,1
-2007-09,The Walkmen,2
-2007-09,Wolf Parade,2
-2007-09,Yo La Tengo,1
-2007-10,Arcade Fire,1
-2007-10,Architecture In Helsinki,1
-2007-10,Band Of Horses,362
-2007-10,Bright Eyes,0
-2007-10,Broken Social Scene,0
-2007-10,Built To Spill,0
-2007-10,Clap Your Hands Say Yeah,2
-2007-10,Death Cab For Cutie,6
-2007-10,Minus The Bear,1
-2007-10,Modest Mouse,5
-2007-10,My Morning Jacket,1
-2007-10,Pinback,0
-2007-10,Rogue Wave,0
-2007-10,The Decemberists,1
-2007-10,The Flaming Lips,0
-2007-10,The National,1
-2007-10,The Shins,0
-2007-10,The Walkmen,0
-2007-10,Wolf Parade,1
-2007-10,Yo La Tengo,0
-2007-11,Arcade Fire,22
-2007-11,Architecture In Helsinki,1
-2007-11,Band Of Horses,1
-2007-11,Bright Eyes,1
-2007-11,Broken Social Scene,1
-2007-11,Built To Spill,1
-2007-11,Clap Your Hands Say Yeah,2
-2007-11,Death Cab For Cutie,1
-2007-11,Minus The Bear,1
-2007-11,Modest Mouse,1
-2007-11,My Morning Jacket,0
-2007-11,Pinback,0
-2007-11,Rogue Wave,1
-2007-11,The Decemberists,1
-2007-11,The Flaming Lips,26
-2007-11,The National,3
-2007-11,The Shins,0
-2007-11,The Walkmen,0
-2007-11,Wolf Parade,0
-2007-11,Yo La Tengo,1
-2007-12,Arcade Fire,6
-2007-12,Architecture In Helsinki,0
-2007-12,Band Of Horses,1
-2007-12,Bright Eyes,2
-2007-12,Broken Social Scene,1
-2007-12,Built To Spill,0
-2007-12,Clap Your Hands Say Yeah,2
-2007-12,Death Cab For Cutie,1
-2007-12,Minus The Bear,1
-2007-12,Modest Mouse,5
-2007-12,My Morning Jacket,0
-2007-12,Pinback,1
-2007-12,Rogue Wave,0
-2007-12,The Decemberists,2
-2007-12,The Flaming Lips,6
-2007-12,The National,0
-2007-12,The Shins,2
-2007-12,The Walkmen,0
-2007-12,Wolf Parade,0
-2007-12,Yo La Tengo,1
-2008-01,Arcade Fire,1
-2008-01,Architecture In Helsinki,0
-2008-01,Band Of Horses,0
-2008-01,Bright Eyes,0
-2008-01,Broken Social Scene,0
-2008-01,Built To Spill,2
-2008-01,Clap Your Hands Say Yeah,0
-2008-01,Death Cab For Cutie,1
-2008-01,Minus The Bear,1
-2008-01,Modest Mouse,2
-2008-01,My Morning Jacket,0
-2008-01,Pinback,1
-2008-01,Rogue Wave,0
-2008-01,The Decemberists,0
-2008-01,The Flaming Lips,0
-2008-01,The National,0
-2008-01,The Shins,1
-2008-01,The Walkmen,1
-2008-01,Wolf Parade,1
-2008-01,Yo La Tengo,0
-2008-02,Arcade Fire,18
-2008-02,Architecture In Helsinki,3
-2008-02,Band Of Horses,0
-2008-02,Bright Eyes,0
-2008-02,Broken Social Scene,22
-2008-02,Built To Spill,0
-2008-02,Clap Your Hands Say Yeah,22
-2008-02,Death Cab For Cutie,0
-2008-02,Minus The Bear,0
-2008-02,Modest Mouse,27
-2008-02,My Morning Jacket,0
-2008-02,Pinback,6
-2008-02,Rogue Wave,0
-2008-02,The Decemberists,0
-2008-02,The Flaming Lips,0
-2008-02,The National,0
-2008-02,The Shins,0
-2008-02,The Walkmen,0
-2008-02,Wolf Parade,22
-2008-02,Yo La Tengo,23
-2008-03,Arcade Fire,0
-2008-03,Architecture In Helsinki,0
-2008-03,Band Of Horses,0
-2008-03,Bright Eyes,0
-2008-03,Broken Social Scene,0
-2008-03,Built To Spill,0
-2008-03,Clap Your Hands Say Yeah,0
-2008-03,Death Cab For Cutie,0
-2008-03,Minus The Bear,0
-2008-03,Modest Mouse,0
-2008-03,My Morning Jacket,0
-2008-03,Pinback,0
-2008-03,Rogue Wave,0
-2008-03,The Decemberists,0
-2008-03,The Flaming Lips,0
-2008-03,The National,0
-2008-03,The Shins,0
-2008-03,The Walkmen,1
-2008-03,Wolf Parade,0
-2008-03,Yo La Tengo,0
-2008-04,Arcade Fire,0
-2008-04,Architecture In Helsinki,1
-2008-04,Band Of Horses,0
-2008-04,Bright Eyes,1
-2008-04,Broken Social Scene,0
-2008-04,Built To Spill,1
-2008-04,Clap Your Hands Say Yeah,2
-2008-04,Death Cab For Cutie,4
-2008-04,Minus The Bear,2
-2008-04,Modest Mouse,0
-2008-04,My Morning Jacket,2
-2008-04,Pinback,0
-2008-04,Rogue Wave,4
-2008-04,The Decemberists,1
-2008-04,The Flaming Lips,1
-2008-04,The National,3
-2008-04,The Shins,0
-2008-04,The Walkmen,2
-2008-04,Wolf Parade,1
-2008-04,Yo La Tengo,2
-2008-05,Arcade Fire,0
-2008-05,Architecture In Helsinki,0
-2008-05,Band Of Horses,0
-2008-05,Bright Eyes,1
-2008-05,Broken Social Scene,0
-2008-05,Built To Spill,0
-2008-05,Clap Your Hands Say Yeah,0
-2008-05,Death Cab For Cutie,1
-2008-05,Minus The Bear,0
-2008-05,Modest Mouse,0
-2008-05,My Morning Jacket,0
-2008-05,Pinback,0
-2008-05,Rogue Wave,0
-2008-05,The Decemberists,0
-2008-05,The Flaming Lips,0
-2008-05,The National,0
-2008-05,The Shins,1
-2008-05,The Walkmen,2
-2008-05,Wolf Parade,0
-2008-05,Yo La Tengo,0
-2008-06,Arcade Fire,9
-2008-06,Architecture In Helsinki,6
-2008-06,Band Of Horses,5
-2008-06,Bright Eyes,3
-2008-06,Broken Social Scene,9
-2008-06,Built To Spill,9
-2008-06,Clap Your Hands Say Yeah,13
-2008-06,Death Cab For Cutie,14
-2008-06,Minus The Bear,2
-2008-06,Modest Mouse,12
-2008-06,My Morning Jacket,6
-2008-06,Pinback,4
-2008-06,Rogue Wave,5
-2008-06,The Decemberists,2
-2008-06,The Flaming Lips,3
-2008-06,The National,10
-2008-06,The Shins,9
-2008-06,The Walkmen,2
-2008-06,Wolf Parade,10
-2008-06,Yo La Tengo,1
-2008-07,Arcade Fire,0
-2008-07,Architecture In Helsinki,1
-2008-07,Band Of Horses,0
-2008-07,Bright Eyes,1
-2008-07,Broken Social Scene,0
-2008-07,Built To Spill,1
-2008-07,Clap Your Hands Say Yeah,0
-2008-07,Death Cab For Cutie,0
-2008-07,Minus The Bear,0
-2008-07,Modest Mouse,7
-2008-07,My Morning Jacket,0
-2008-07,Pinback,0
-2008-07,Rogue Wave,0
-2008-07,The Decemberists,0
-2008-07,The Flaming Lips,1
-2008-07,The National,0
-2008-07,The Shins,1
-2008-07,The Walkmen,0
-2008-07,Wolf Parade,1
-2008-07,Yo La Tengo,0
-2008-08,Arcade Fire,4
-2008-08,Architecture In Helsinki,2
-2008-08,Band Of Horses,0
-2008-08,Bright Eyes,1
-2008-08,Broken Social Scene,5
-2008-08,Built To Spill,4
-2008-08,Clap Your Hands Say Yeah,5
-2008-08,Death Cab For Cutie,5
-2008-08,Minus The Bear,4
-2008-08,Modest Mouse,9
-2008-08,My Morning Jacket,0
-2008-08,Pinback,6
-2008-08,Rogue Wave,0
-2008-08,The Decemberists,4
-2008-08,The Flaming Lips,4
-2008-08,The National,2
-2008-08,The Shins,3
-2008-08,The Walkmen,3
-2008-08,Wolf Parade,3
-2008-08,Yo La Tengo,1
-2008-09,Arcade Fire,0
-2008-09,Architecture In Helsinki,0
-2008-09,Band Of Horses,0
-2008-09,Bright Eyes,0
-2008-09,Broken Social Scene,0
-2008-09,Built To Spill,0
-2008-09,Clap Your Hands Say Yeah,0
-2008-09,Death Cab For Cutie,0
-2008-09,Minus The Bear,0
-2008-09,Modest Mouse,0
-2008-09,My Morning Jacket,0
-2008-09,Pinback,0
-2008-09,Rogue Wave,0
-2008-09,The Decemberists,0
-2008-09,The Flaming Lips,0
-2008-09,The National,0
-2008-09,The Shins,0
-2008-09,The Walkmen,0
-2008-09,Wolf Parade,0
-2008-09,Yo La Tengo,0
-2008-10,Arcade Fire,1
-2008-10,Architecture In Helsinki,0
-2008-10,Band Of Horses,0
-2008-10,Bright Eyes,0
-2008-10,Broken Social Scene,1
-2008-10,Built To Spill,2
-2008-10,Clap Your Hands Say Yeah,0
-2008-10,Death Cab For Cutie,0
-2008-10,Minus The Bear,1
-2008-10,Modest Mouse,0
-2008-10,My Morning Jacket,1
-2008-10,Pinback,0
-2008-10,Rogue Wave,1
-2008-10,The Decemberists,0
-2008-10,The Flaming Lips,0
-2008-10,The National,0
-2008-10,The Shins,1
-2008-10,The Walkmen,1
-2008-10,Wolf Parade,0
-2008-10,Yo La Tengo,0
-2008-11,Arcade Fire,0
-2008-11,Architecture In Helsinki,0
-2008-11,Band Of Horses,18
-2008-11,Bright Eyes,0
-2008-11,Broken Social Scene,1
-2008-11,Built To Spill,0
-2008-11,Clap Your Hands Say Yeah,1
-2008-11,Death Cab For Cutie,1
-2008-11,Minus The Bear,0
-2008-11,Modest Mouse,1
-2008-11,My Morning Jacket,1
-2008-11,Pinback,1
-2008-11,Rogue Wave,2
-2008-11,The Decemberists,0
-2008-11,The Flaming Lips,0
-2008-11,The National,1
-2008-11,The Shins,0
-2008-11,The Walkmen,0
-2008-11,Wolf Parade,1
-2008-11,Yo La Tengo,0
-2008-12,Arcade Fire,0
-2008-12,Architecture In Helsinki,0
-2008-12,Band Of Horses,0
-2008-12,Bright Eyes,0
-2008-12,Broken Social Scene,1
-2008-12,Built To Spill,1
-2008-12,Clap Your Hands Say Yeah,0
-2008-12,Death Cab For Cutie,0
-2008-12,Minus The Bear,0
-2008-12,Modest Mouse,1
-2008-12,My Morning Jacket,0
-2008-12,Pinback,1
-2008-12,Rogue Wave,0
-2008-12,The Decemberists,1
-2008-12,The Flaming Lips,0
-2008-12,The National,1
-2008-12,The Shins,0
-2008-12,The Walkmen,0
-2008-12,Wolf Parade,1
-2008-12,Yo La Tengo,0
-2009-01,Arcade Fire,0
-2009-01,Architecture In Helsinki,0
-2009-01,Band Of Horses,1
-2009-01,Bright Eyes,0
-2009-01,Broken Social Scene,1
-2009-01,Built To Spill,2
-2009-01,Clap Your Hands Say Yeah,0
-2009-01,Death Cab For Cutie,3
-2009-01,Minus The Bear,0
-2009-01,Modest Mouse,0
-2009-01,My Morning Jacket,2
-2009-01,Pinback,3
-2009-01,Rogue Wave,4
-2009-01,The Decemberists,1
-2009-01,The Flaming Lips,0
-2009-01,The National,2
-2009-01,The Shins,3
-2009-01,The Walkmen,0
-2009-01,Wolf Parade,0
-2009-01,Yo La Tengo,0
-2009-02,Arcade Fire,0
-2009-02,Architecture In Helsinki,0
-2009-02,Band Of Horses,0
-2009-02,Bright Eyes,0
-2009-02,Broken Social Scene,0
-2009-02,Built To Spill,0
-2009-02,Clap Your Hands Say Yeah,0
-2009-02,Death Cab For Cutie,0
-2009-02,Minus The Bear,0
-2009-02,Modest Mouse,0
-2009-02,My Morning Jacket,0
-2009-02,Pinback,0
-2009-02,Rogue Wave,0
-2009-02,The Decemberists,0
-2009-02,The Flaming Lips,0
-2009-02,The National,0
-2009-02,The Shins,0
-2009-02,The Walkmen,0
-2009-02,Wolf Parade,0
-2009-02,Yo La Tengo,0
-2009-03,Arcade Fire,0
-2009-03,Architecture In Helsinki,0
-2009-03,Band Of Horses,1
-2009-03,Bright Eyes,0
-2009-03,Broken Social Scene,0
-2009-03,Built To Spill,0
-2009-03,Clap Your Hands Say Yeah,0
-2009-03,Death Cab For Cutie,0
-2009-03,Minus The Bear,0
-2009-03,Modest Mouse,1
-2009-03,My Morning Jacket,0
-2009-03,Pinback,0
-2009-03,Rogue Wave,1
-2009-03,The Decemberists,0
-2009-03,The Flaming Lips,0
-2009-03,The National,1
-2009-03,The Shins,0
-2009-03,The Walkmen,0
-2009-03,Wolf Parade,0
-2009-03,Yo La Tengo,0
-2009-04,Arcade Fire,0
-2009-04,Architecture In Helsinki,0
-2009-04,Band Of Horses,0
-2009-04,Bright Eyes,0
-2009-04,Broken Social Scene,0
-2009-04,Built To Spill,0
-2009-04,Clap Your Hands Say Yeah,0
-2009-04,Death Cab For Cutie,0
-2009-04,Minus The Bear,0
-2009-04,Modest Mouse,0
-2009-04,My Morning Jacket,0
-2009-04,Pinback,0
-2009-04,Rogue Wave,0
-2009-04,The Decemberists,0
-2009-04,The Flaming Lips,0
-2009-04,The National,0
-2009-04,The Shins,0
-2009-04,The Walkmen,0
-2009-04,Wolf Parade,0
-2009-04,Yo La Tengo,0
-2009-05,Arcade Fire,1
-2009-05,Architecture In Helsinki,0
-2009-05,Band Of Horses,1
-2009-05,Bright Eyes,0
-2009-05,Broken Social Scene,0
-2009-05,Built To Spill,0
-2009-05,Clap Your Hands Say Yeah,1
-2009-05,Death Cab For Cutie,0
-2009-05,Minus The Bear,0
-2009-05,Modest Mouse,0
-2009-05,My Morning Jacket,1
-2009-05,Pinback,0
-2009-05,Rogue Wave,1
-2009-05,The Decemberists,0
-2009-05,The Flaming Lips,0
-2009-05,The National,1
-2009-05,The Shins,1
-2009-05,The Walkmen,0
-2009-05,Wolf Parade,0
-2009-05,Yo La Tengo,0
+"month","artist","plays"
+"2007-01","Arcade Fire",37
+"2007-01","Architecture In Helsinki",10
+"2007-01","Band Of Horses",10
+"2007-01","Bright Eyes",6
+"2007-01","Broken Social Scene",9
+"2007-01","Built To Spill",7
+"2007-01","Clap Your Hands Say Yeah",3
+"2007-01","Death Cab For Cutie",8
+"2007-01","Minus The Bear",5
+"2007-01","Modest Mouse",63
+"2007-01","My Morning Jacket",2
+"2007-01","Pinback",4
+"2007-01","Rogue Wave",2
+"2007-01","The Decemberists",11
+"2007-01","The Flaming Lips",9
+"2007-01","The National",3
+"2007-01","The Shins",10
+"2007-01","The Walkmen",6
+"2007-01","Wolf Parade",6
+"2007-01","Yo La Tengo",7
+"2007-02","Arcade Fire",37
+"2007-02","Architecture In Helsinki",36
+"2007-02","Band Of Horses",36
+"2007-02","Bright Eyes",24
+"2007-02","Broken Social Scene",43
+"2007-02","Built To Spill",26
+"2007-02","Clap Your Hands Say Yeah",27
+"2007-02","Death Cab For Cutie",26
+"2007-02","Minus The Bear",1
+"2007-02","Modest Mouse",39
+"2007-02","My Morning Jacket",25
+"2007-02","Pinback",2
+"2007-02","Rogue Wave",12
+"2007-02","The Decemberists",35
+"2007-02","The Flaming Lips",31
+"2007-02","The National",9
+"2007-02","The Shins",31
+"2007-02","The Walkmen",29
+"2007-02","Wolf Parade",26
+"2007-02","Yo La Tengo",32
+"2007-03","Arcade Fire",13
+"2007-03","Architecture In Helsinki",13
+"2007-03","Band Of Horses",16
+"2007-03","Bright Eyes",15
+"2007-03","Broken Social Scene",11
+"2007-03","Built To Spill",6
+"2007-03","Clap Your Hands Say Yeah",10
+"2007-03","Death Cab For Cutie",15
+"2007-03","Minus The Bear",3
+"2007-03","Modest Mouse",12
+"2007-03","My Morning Jacket",5
+"2007-03","Pinback",4
+"2007-03","Rogue Wave",3
+"2007-03","The Decemberists",14
+"2007-03","The Flaming Lips",17
+"2007-03","The National",0
+"2007-03","The Shins",19
+"2007-03","The Walkmen",6
+"2007-03","Wolf Parade",13
+"2007-03","Yo La Tengo",13
+"2007-04","Arcade Fire",39
+"2007-04","Architecture In Helsinki",1
+"2007-04","Band Of Horses",12
+"2007-04","Bright Eyes",4
+"2007-04","Broken Social Scene",1
+"2007-04","Built To Spill",1
+"2007-04","Clap Your Hands Say Yeah",3
+"2007-04","Death Cab For Cutie",5
+"2007-04","Minus The Bear",1
+"2007-04","Modest Mouse",30
+"2007-04","My Morning Jacket",1
+"2007-04","Pinback",1
+"2007-04","Rogue Wave",0
+"2007-04","The Decemberists",2
+"2007-04","The Flaming Lips",3
+"2007-04","The National",0
+"2007-04","The Shins",4
+"2007-04","The Walkmen",3
+"2007-04","Wolf Parade",2
+"2007-04","Yo La Tengo",1
+"2007-05","Arcade Fire",29
+"2007-05","Architecture In Helsinki",28
+"2007-05","Band Of Horses",17
+"2007-05","Bright Eyes",14
+"2007-05","Broken Social Scene",30
+"2007-05","Built To Spill",22
+"2007-05","Clap Your Hands Say Yeah",30
+"2007-05","Death Cab For Cutie",16
+"2007-05","Minus The Bear",0
+"2007-05","Modest Mouse",53
+"2007-05","My Morning Jacket",19
+"2007-05","Pinback",1
+"2007-05","Rogue Wave",6
+"2007-05","The Decemberists",28
+"2007-05","The Flaming Lips",24
+"2007-05","The National",6
+"2007-05","The Shins",23
+"2007-05","The Walkmen",26
+"2007-05","Wolf Parade",27
+"2007-05","Yo La Tengo",29
+"2007-06","Arcade Fire",20
+"2007-06","Architecture In Helsinki",13
+"2007-06","Band Of Horses",48
+"2007-06","Bright Eyes",11
+"2007-06","Broken Social Scene",31
+"2007-06","Built To Spill",4
+"2007-06","Clap Your Hands Say Yeah",17
+"2007-06","Death Cab For Cutie",14
+"2007-06","Minus The Bear",7
+"2007-06","Modest Mouse",29
+"2007-06","My Morning Jacket",13
+"2007-06","Pinback",9
+"2007-06","Rogue Wave",8
+"2007-06","The Decemberists",17
+"2007-06","The Flaming Lips",42
+"2007-06","The National",6
+"2007-06","The Shins",15
+"2007-06","The Walkmen",11
+"2007-06","Wolf Parade",17
+"2007-06","Yo La Tengo",16
+"2007-07","Arcade Fire",5
+"2007-07","Architecture In Helsinki",2
+"2007-07","Band Of Horses",49
+"2007-07","Bright Eyes",4
+"2007-07","Broken Social Scene",2
+"2007-07","Built To Spill",3
+"2007-07","Clap Your Hands Say Yeah",4
+"2007-07","Death Cab For Cutie",5
+"2007-07","Minus The Bear",3
+"2007-07","Modest Mouse",14
+"2007-07","My Morning Jacket",2
+"2007-07","Pinback",2
+"2007-07","Rogue Wave",1
+"2007-07","The Decemberists",3
+"2007-07","The Flaming Lips",5
+"2007-07","The National",2
+"2007-07","The Shins",4
+"2007-07","The Walkmen",2
+"2007-07","Wolf Parade",2
+"2007-07","Yo La Tengo",3
+"2007-08","Arcade Fire",21
+"2007-08","Architecture In Helsinki",4
+"2007-08","Band Of Horses",16
+"2007-08","Bright Eyes",6
+"2007-08","Broken Social Scene",15
+"2007-08","Built To Spill",7
+"2007-08","Clap Your Hands Say Yeah",6
+"2007-08","Death Cab For Cutie",3
+"2007-08","Minus The Bear",2
+"2007-08","Modest Mouse",5
+"2007-08","My Morning Jacket",6
+"2007-08","Pinback",5
+"2007-08","Rogue Wave",3
+"2007-08","The Decemberists",8
+"2007-08","The Flaming Lips",13
+"2007-08","The National",4
+"2007-08","The Shins",8
+"2007-08","The Walkmen",5
+"2007-08","Wolf Parade",10
+"2007-08","Yo La Tengo",6
+"2007-09","Arcade Fire",0
+"2007-09","Architecture In Helsinki",1
+"2007-09","Band Of Horses",4
+"2007-09","Bright Eyes",0
+"2007-09","Broken Social Scene",4
+"2007-09","Built To Spill",2
+"2007-09","Clap Your Hands Say Yeah",3
+"2007-09","Death Cab For Cutie",0
+"2007-09","Minus The Bear",0
+"2007-09","Modest Mouse",1
+"2007-09","My Morning Jacket",1
+"2007-09","Pinback",1
+"2007-09","Rogue Wave",0
+"2007-09","The Decemberists",2
+"2007-09","The Flaming Lips",1
+"2007-09","The National",1
+"2007-09","The Shins",1
+"2007-09","The Walkmen",2
+"2007-09","Wolf Parade",2
+"2007-09","Yo La Tengo",1
+"2007-10","Arcade Fire",1
+"2007-10","Architecture In Helsinki",1
+"2007-10","Band Of Horses",362
+"2007-10","Bright Eyes",0
+"2007-10","Broken Social Scene",0
+"2007-10","Built To Spill",0
+"2007-10","Clap Your Hands Say Yeah",2
+"2007-10","Death Cab For Cutie",6
+"2007-10","Minus The Bear",1
+"2007-10","Modest Mouse",5
+"2007-10","My Morning Jacket",1
+"2007-10","Pinback",0
+"2007-10","Rogue Wave",0
+"2007-10","The Decemberists",1
+"2007-10","The Flaming Lips",0
+"2007-10","The National",1
+"2007-10","The Shins",0
+"2007-10","The Walkmen",0
+"2007-10","Wolf Parade",1
+"2007-10","Yo La Tengo",0
+"2007-11","Arcade Fire",22
+"2007-11","Architecture In Helsinki",1
+"2007-11","Band Of Horses",1
+"2007-11","Bright Eyes",1
+"2007-11","Broken Social Scene",1
+"2007-11","Built To Spill",1
+"2007-11","Clap Your Hands Say Yeah",2
+"2007-11","Death Cab For Cutie",1
+"2007-11","Minus The Bear",1
+"2007-11","Modest Mouse",1
+"2007-11","My Morning Jacket",0
+"2007-11","Pinback",0
+"2007-11","Rogue Wave",1
+"2007-11","The Decemberists",1
+"2007-11","The Flaming Lips",26
+"2007-11","The National",3
+"2007-11","The Shins",0
+"2007-11","The Walkmen",0
+"2007-11","Wolf Parade",0
+"2007-11","Yo La Tengo",1
+"2007-12","Arcade Fire",6
+"2007-12","Architecture In Helsinki",0
+"2007-12","Band Of Horses",1
+"2007-12","Bright Eyes",2
+"2007-12","Broken Social Scene",1
+"2007-12","Built To Spill",0
+"2007-12","Clap Your Hands Say Yeah",2
+"2007-12","Death Cab For Cutie",1
+"2007-12","Minus The Bear",1
+"2007-12","Modest Mouse",5
+"2007-12","My Morning Jacket",0
+"2007-12","Pinback",1
+"2007-12","Rogue Wave",0
+"2007-12","The Decemberists",2
+"2007-12","The Flaming Lips",6
+"2007-12","The National",0
+"2007-12","The Shins",2
+"2007-12","The Walkmen",0
+"2007-12","Wolf Parade",0
+"2007-12","Yo La Tengo",1
+"2008-01","Arcade Fire",1
+"2008-01","Architecture In Helsinki",0
+"2008-01","Band Of Horses",0
+"2008-01","Bright Eyes",0
+"2008-01","Broken Social Scene",0
+"2008-01","Built To Spill",2
+"2008-01","Clap Your Hands Say Yeah",0
+"2008-01","Death Cab For Cutie",1
+"2008-01","Minus The Bear",1
+"2008-01","Modest Mouse",2
+"2008-01","My Morning Jacket",0
+"2008-01","Pinback",1
+"2008-01","Rogue Wave",0
+"2008-01","The Decemberists",0
+"2008-01","The Flaming Lips",0
+"2008-01","The National",0
+"2008-01","The Shins",1
+"2008-01","The Walkmen",1
+"2008-01","Wolf Parade",1
+"2008-01","Yo La Tengo",0
+"2008-02","Arcade Fire",18
+"2008-02","Architecture In Helsinki",3
+"2008-02","Band Of Horses",0
+"2008-02","Bright Eyes",0
+"2008-02","Broken Social Scene",22
+"2008-02","Built To Spill",0
+"2008-02","Clap Your Hands Say Yeah",22
+"2008-02","Death Cab For Cutie",0
+"2008-02","Minus The Bear",0
+"2008-02","Modest Mouse",27
+"2008-02","My Morning Jacket",0
+"2008-02","Pinback",6
+"2008-02","Rogue Wave",0
+"2008-02","The Decemberists",0
+"2008-02","The Flaming Lips",0
+"2008-02","The National",0
+"2008-02","The Shins",0
+"2008-02","The Walkmen",0
+"2008-02","Wolf Parade",22
+"2008-02","Yo La Tengo",23
+"2008-03","Arcade Fire",0
+"2008-03","Architecture In Helsinki",0
+"2008-03","Band Of Horses",0
+"2008-03","Bright Eyes",0
+"2008-03","Broken Social Scene",0
+"2008-03","Built To Spill",0
+"2008-03","Clap Your Hands Say Yeah",0
+"2008-03","Death Cab For Cutie",0
+"2008-03","Minus The Bear",0
+"2008-03","Modest Mouse",0
+"2008-03","My Morning Jacket",0
+"2008-03","Pinback",0
+"2008-03","Rogue Wave",0
+"2008-03","The Decemberists",0
+"2008-03","The Flaming Lips",0
+"2008-03","The National",0
+"2008-03","The Shins",0
+"2008-03","The Walkmen",1
+"2008-03","Wolf Parade",0
+"2008-03","Yo La Tengo",0
+"2008-04","Arcade Fire",0
+"2008-04","Architecture In Helsinki",1
+"2008-04","Band Of Horses",0
+"2008-04","Bright Eyes",1
+"2008-04","Broken Social Scene",0
+"2008-04","Built To Spill",1
+"2008-04","Clap Your Hands Say Yeah",2
+"2008-04","Death Cab For Cutie",4
+"2008-04","Minus The Bear",2
+"2008-04","Modest Mouse",0
+"2008-04","My Morning Jacket",2
+"2008-04","Pinback",0
+"2008-04","Rogue Wave",4
+"2008-04","The Decemberists",1
+"2008-04","The Flaming Lips",1
+"2008-04","The National",3
+"2008-04","The Shins",0
+"2008-04","The Walkmen",2
+"2008-04","Wolf Parade",1
+"2008-04","Yo La Tengo",2
+"2008-05","Arcade Fire",0
+"2008-05","Architecture In Helsinki",0
+"2008-05","Band Of Horses",0
+"2008-05","Bright Eyes",1
+"2008-05","Broken Social Scene",0
+"2008-05","Built To Spill",0
+"2008-05","Clap Your Hands Say Yeah",0
+"2008-05","Death Cab For Cutie",1
+"2008-05","Minus The Bear",0
+"2008-05","Modest Mouse",0
+"2008-05","My Morning Jacket",0
+"2008-05","Pinback",0
+"2008-05","Rogue Wave",0
+"2008-05","The Decemberists",0
+"2008-05","The Flaming Lips",0
+"2008-05","The National",0
+"2008-05","The Shins",1
+"2008-05","The Walkmen",2
+"2008-05","Wolf Parade",0
+"2008-05","Yo La Tengo",0
+"2008-06","Arcade Fire",9
+"2008-06","Architecture In Helsinki",6
+"2008-06","Band Of Horses",5
+"2008-06","Bright Eyes",3
+"2008-06","Broken Social Scene",9
+"2008-06","Built To Spill",9
+"2008-06","Clap Your Hands Say Yeah",13
+"2008-06","Death Cab For Cutie",14
+"2008-06","Minus The Bear",2
+"2008-06","Modest Mouse",12
+"2008-06","My Morning Jacket",6
+"2008-06","Pinback",4
+"2008-06","Rogue Wave",5
+"2008-06","The Decemberists",2
+"2008-06","The Flaming Lips",3
+"2008-06","The National",10
+"2008-06","The Shins",9
+"2008-06","The Walkmen",2
+"2008-06","Wolf Parade",10
+"2008-06","Yo La Tengo",1
+"2008-07","Arcade Fire",0
+"2008-07","Architecture In Helsinki",1
+"2008-07","Band Of Horses",0
+"2008-07","Bright Eyes",1
+"2008-07","Broken Social Scene",0
+"2008-07","Built To Spill",1
+"2008-07","Clap Your Hands Say Yeah",0
+"2008-07","Death Cab For Cutie",0
+"2008-07","Minus The Bear",0
+"2008-07","Modest Mouse",7
+"2008-07","My Morning Jacket",0
+"2008-07","Pinback",0
+"2008-07","Rogue Wave",0
+"2008-07","The Decemberists",0
+"2008-07","The Flaming Lips",1
+"2008-07","The National",0
+"2008-07","The Shins",1
+"2008-07","The Walkmen",0
+"2008-07","Wolf Parade",1
+"2008-07","Yo La Tengo",0
+"2008-08","Arcade Fire",4
+"2008-08","Architecture In Helsinki",2
+"2008-08","Band Of Horses",0
+"2008-08","Bright Eyes",1
+"2008-08","Broken Social Scene",5
+"2008-08","Built To Spill",4
+"2008-08","Clap Your Hands Say Yeah",5
+"2008-08","Death Cab For Cutie",5
+"2008-08","Minus The Bear",4
+"2008-08","Modest Mouse",9
+"2008-08","My Morning Jacket",0
+"2008-08","Pinback",6
+"2008-08","Rogue Wave",0
+"2008-08","The Decemberists",4
+"2008-08","The Flaming Lips",4
+"2008-08","The National",2
+"2008-08","The Shins",3
+"2008-08","The Walkmen",3
+"2008-08","Wolf Parade",3
+"2008-08","Yo La Tengo",1
+"2008-09","Arcade Fire",0
+"2008-09","Architecture In Helsinki",0
+"2008-09","Band Of Horses",0
+"2008-09","Bright Eyes",0
+"2008-09","Broken Social Scene",0
+"2008-09","Built To Spill",0
+"2008-09","Clap Your Hands Say Yeah",0
+"2008-09","Death Cab For Cutie",0
+"2008-09","Minus The Bear",0
+"2008-09","Modest Mouse",0
+"2008-09","My Morning Jacket",0
+"2008-09","Pinback",0
+"2008-09","Rogue Wave",0
+"2008-09","The Decemberists",0
+"2008-09","The Flaming Lips",0
+"2008-09","The National",0
+"2008-09","The Shins",0
+"2008-09","The Walkmen",0
+"2008-09","Wolf Parade",0
+"2008-09","Yo La Tengo",0
+"2008-10","Arcade Fire",1
+"2008-10","Architecture In Helsinki",0
+"2008-10","Band Of Horses",0
+"2008-10","Bright Eyes",0
+"2008-10","Broken Social Scene",1
+"2008-10","Built To Spill",2
+"2008-10","Clap Your Hands Say Yeah",0
+"2008-10","Death Cab For Cutie",0
+"2008-10","Minus The Bear",1
+"2008-10","Modest Mouse",0
+"2008-10","My Morning Jacket",1
+"2008-10","Pinback",0
+"2008-10","Rogue Wave",1
+"2008-10","The Decemberists",0
+"2008-10","The Flaming Lips",0
+"2008-10","The National",0
+"2008-10","The Shins",1
+"2008-10","The Walkmen",1
+"2008-10","Wolf Parade",0
+"2008-10","Yo La Tengo",0
+"2008-11","Arcade Fire",0
+"2008-11","Architecture In Helsinki",0
+"2008-11","Band Of Horses",18
+"2008-11","Bright Eyes",0
+"2008-11","Broken Social Scene",1
+"2008-11","Built To Spill",0
+"2008-11","Clap Your Hands Say Yeah",1
+"2008-11","Death Cab For Cutie",1
+"2008-11","Minus The Bear",0
+"2008-11","Modest Mouse",1
+"2008-11","My Morning Jacket",1
+"2008-11","Pinback",1
+"2008-11","Rogue Wave",2
+"2008-11","The Decemberists",0
+"2008-11","The Flaming Lips",0
+"2008-11","The National",1
+"2008-11","The Shins",0
+"2008-11","The Walkmen",0
+"2008-11","Wolf Parade",1
+"2008-11","Yo La Tengo",0
+"2008-12","Arcade Fire",0
+"2008-12","Architecture In Helsinki",0
+"2008-12","Band Of Horses",0
+"2008-12","Bright Eyes",0
+"2008-12","Broken Social Scene",1
+"2008-12","Built To Spill",1
+"2008-12","Clap Your Hands Say Yeah",0
+"2008-12","Death Cab For Cutie",0
+"2008-12","Minus The Bear",0
+"2008-12","Modest Mouse",1
+"2008-12","My Morning Jacket",0
+"2008-12","Pinback",1
+"2008-12","Rogue Wave",0
+"2008-12","The Decemberists",1
+"2008-12","The Flaming Lips",0
+"2008-12","The National",1
+"2008-12","The Shins",0
+"2008-12","The Walkmen",0
+"2008-12","Wolf Parade",1
+"2008-12","Yo La Tengo",0
+"2009-01","Arcade Fire",0
+"2009-01","Architecture In Helsinki",0
+"2009-01","Band Of Horses",1
+"2009-01","Bright Eyes",0
+"2009-01","Broken Social Scene",1
+"2009-01","Built To Spill",2
+"2009-01","Clap Your Hands Say Yeah",0
+"2009-01","Death Cab For Cutie",3
+"2009-01","Minus The Bear",0
+"2009-01","Modest Mouse",0
+"2009-01","My Morning Jacket",2
+"2009-01","Pinback",3
+"2009-01","Rogue Wave",4
+"2009-01","The Decemberists",1
+"2009-01","The Flaming Lips",0
+"2009-01","The National",2
+"2009-01","The Shins",3
+"2009-01","The Walkmen",0
+"2009-01","Wolf Parade",0
+"2009-01","Yo La Tengo",0
+"2009-02","Arcade Fire",0
+"2009-02","Architecture In Helsinki",0
+"2009-02","Band Of Horses",0
+"2009-02","Bright Eyes",0
+"2009-02","Broken Social Scene",0
+"2009-02","Built To Spill",0
+"2009-02","Clap Your Hands Say Yeah",0
+"2009-02","Death Cab For Cutie",0
+"2009-02","Minus The Bear",0
+"2009-02","Modest Mouse",0
+"2009-02","My Morning Jacket",0
+"2009-02","Pinback",0
+"2009-02","Rogue Wave",0
+"2009-02","The Decemberists",0
+"2009-02","The Flaming Lips",0
+"2009-02","The National",0
+"2009-02","The Shins",0
+"2009-02","The Walkmen",0
+"2009-02","Wolf Parade",0
+"2009-02","Yo La Tengo",0
+"2009-03","Arcade Fire",0
+"2009-03","Architecture In Helsinki",0
+"2009-03","Band Of Horses",1
+"2009-03","Bright Eyes",0
+"2009-03","Broken Social Scene",0
+"2009-03","Built To Spill",0
+"2009-03","Clap Your Hands Say Yeah",0
+"2009-03","Death Cab For Cutie",0
+"2009-03","Minus The Bear",0
+"2009-03","Modest Mouse",1
+"2009-03","My Morning Jacket",0
+"2009-03","Pinback",0
+"2009-03","Rogue Wave",1
+"2009-03","The Decemberists",0
+"2009-03","The Flaming Lips",0
+"2009-03","The National",1
+"2009-03","The Shins",0
+"2009-03","The Walkmen",0
+"2009-03","Wolf Parade",0
+"2009-03","Yo La Tengo",0
+"2009-04","Arcade Fire",0
+"2009-04","Architecture In Helsinki",0
+"2009-04","Band Of Horses",0
+"2009-04","Bright Eyes",0
+"2009-04","Broken Social Scene",0
+"2009-04","Built To Spill",0
+"2009-04","Clap Your Hands Say Yeah",0
+"2009-04","Death Cab For Cutie",0
+"2009-04","Minus The Bear",0
+"2009-04","Modest Mouse",0
+"2009-04","My Morning Jacket",0
+"2009-04","Pinback",0
+"2009-04","Rogue Wave",0
+"2009-04","The Decemberists",0
+"2009-04","The Flaming Lips",0
+"2009-04","The National",0
+"2009-04","The Shins",0
+"2009-04","The Walkmen",0
+"2009-04","Wolf Parade",0
+"2009-04","Yo La Tengo",0
+"2009-05","Arcade Fire",1
+"2009-05","Architecture In Helsinki",0
+"2009-05","Band Of Horses",1
+"2009-05","Bright Eyes",0
+"2009-05","Broken Social Scene",0
+"2009-05","Built To Spill",0
+"2009-05","Clap Your Hands Say Yeah",1
+"2009-05","Death Cab For Cutie",0
+"2009-05","Minus The Bear",0
+"2009-05","Modest Mouse",0
+"2009-05","My Morning Jacket",1
+"2009-05","Pinback",0
+"2009-05","Rogue Wave",1
+"2009-05","The Decemberists",0
+"2009-05","The Flaming Lips",0
+"2009-05","The National",1
+"2009-05","The Shins",1
+"2009-05","The Walkmen",0
+"2009-05","Wolf Parade",0
+"2009-05","Yo La Tengo",0

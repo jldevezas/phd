@@ -1,641 +1,641 @@
-month,artist,plays
-2006-09,2Pac,0
-2006-09,Bone Thugs-N-Harmony,5
-2006-09,Cypress Hill,1
-2006-09,Dizzee Rascal,2
-2006-09,Eminem,3
-2006-09,Ghostface Killah,0
-2006-09,Gza/Genius,0
-2006-09,Ice Cube,2
-2006-09,Jedi Mind Tricks,0
-2006-09,Lil Wayne,1
-2006-09,Ludacris,4
-2006-09,Opgezwolle,3
-2006-09,Paul Wall,0
-2006-09,Raekwon,0
-2006-09,Shyne,4
-2006-09,System Of A Down,3
-2006-09,The Game,2
-2006-09,The Notorious B.I.G.,0
-2006-09,Twista,0
-2006-09,Wu-Tang Clan,0
-2006-10,2Pac,1
-2006-10,Bone Thugs-N-Harmony,11
-2006-10,Cypress Hill,11
-2006-10,Dizzee Rascal,1
-2006-10,Eminem,9
-2006-10,Ghostface Killah,40
-2006-10,Gza/Genius,31
-2006-10,Ice Cube,5
-2006-10,Jedi Mind Tricks,1
-2006-10,Lil Wayne,5
-2006-10,Ludacris,5
-2006-10,Opgezwolle,15
-2006-10,Paul Wall,0
-2006-10,Raekwon,2
-2006-10,Shyne,4
-2006-10,System Of A Down,24
-2006-10,The Game,1
-2006-10,The Notorious B.I.G.,20
-2006-10,Twista,7
-2006-10,Wu-Tang Clan,20
-2006-11,2Pac,8
-2006-11,Bone Thugs-N-Harmony,21
-2006-11,Cypress Hill,248
-2006-11,Dizzee Rascal,7
-2006-11,Eminem,11
-2006-11,Ghostface Killah,13
-2006-11,Gza/Genius,15
-2006-11,Ice Cube,7
-2006-11,Jedi Mind Tricks,0
-2006-11,Lil Wayne,0
-2006-11,Ludacris,1
-2006-11,Opgezwolle,58
-2006-11,Paul Wall,0
-2006-11,Raekwon,2
-2006-11,Shyne,18
-2006-11,System Of A Down,32
-2006-11,The Game,11
-2006-11,The Notorious B.I.G.,5
-2006-11,Twista,6
-2006-11,Wu-Tang Clan,7
-2006-12,2Pac,45
-2006-12,Bone Thugs-N-Harmony,8
-2006-12,Cypress Hill,82
-2006-12,Dizzee Rascal,3
-2006-12,Eminem,13
-2006-12,Ghostface Killah,7
-2006-12,Gza/Genius,8
-2006-12,Ice Cube,0
-2006-12,Jedi Mind Tricks,171
-2006-12,Lil Wayne,2
-2006-12,Ludacris,6
-2006-12,Opgezwolle,17
-2006-12,Paul Wall,0
-2006-12,Raekwon,6
-2006-12,Shyne,2
-2006-12,System Of A Down,10
-2006-12,The Game,3
-2006-12,The Notorious B.I.G.,9
-2006-12,Twista,3
-2006-12,Wu-Tang Clan,14
-2007-01,2Pac,14
-2007-01,Bone Thugs-N-Harmony,1
-2007-01,Cypress Hill,10
-2007-01,Dizzee Rascal,1
-2007-01,Eminem,2
-2007-01,Ghostface Killah,20
-2007-01,Gza/Genius,7
-2007-01,Ice Cube,2
-2007-01,Jedi Mind Tricks,37
-2007-01,Lil Wayne,2
-2007-01,Ludacris,2
-2007-01,Opgezwolle,1
-2007-01,Paul Wall,5
-2007-01,Raekwon,1
-2007-01,Shyne,0
-2007-01,System Of A Down,19
-2007-01,The Game,0
-2007-01,The Notorious B.I.G.,4
-2007-01,Twista,3
-2007-01,Wu-Tang Clan,0
-2007-02,2Pac,7
-2007-02,Bone Thugs-N-Harmony,2
-2007-02,Cypress Hill,14
-2007-02,Dizzee Rascal,0
-2007-02,Eminem,0
-2007-02,Ghostface Killah,1
-2007-02,Gza/Genius,5
-2007-02,Ice Cube,2
-2007-02,Jedi Mind Tricks,5
-2007-02,Lil Wayne,0
-2007-02,Ludacris,0
-2007-02,Opgezwolle,1
-2007-02,Paul Wall,7
-2007-02,Raekwon,0
-2007-02,Shyne,2
-2007-02,System Of A Down,9
-2007-02,The Game,2
-2007-02,The Notorious B.I.G.,3
-2007-02,Twista,3
-2007-02,Wu-Tang Clan,1
-2007-03,2Pac,224
-2007-03,Bone Thugs-N-Harmony,34
-2007-03,Cypress Hill,115
-2007-03,Dizzee Rascal,12
-2007-03,Eminem,27
-2007-03,Ghostface Killah,32
-2007-03,Gza/Genius,46
-2007-03,Ice Cube,2
-2007-03,Jedi Mind Tricks,268
-2007-03,Lil Wayne,2
-2007-03,Ludacris,26
-2007-03,Opgezwolle,35
-2007-03,Paul Wall,5
-2007-03,Raekwon,27
-2007-03,Shyne,11
-2007-03,System Of A Down,45
-2007-03,The Game,26
-2007-03,The Notorious B.I.G.,72
-2007-03,Twista,27
-2007-03,Wu-Tang Clan,65
-2007-04,2Pac,293
-2007-04,Bone Thugs-N-Harmony,21
-2007-04,Cypress Hill,58
-2007-04,Dizzee Rascal,7
-2007-04,Eminem,21
-2007-04,Ghostface Killah,14
-2007-04,Gza/Genius,22
-2007-04,Ice Cube,2
-2007-04,Jedi Mind Tricks,81
-2007-04,Lil Wayne,2
-2007-04,Ludacris,7
-2007-04,Opgezwolle,25
-2007-04,Paul Wall,8
-2007-04,Raekwon,9
-2007-04,Shyne,19
-2007-04,System Of A Down,28
-2007-04,The Game,16
-2007-04,The Notorious B.I.G.,17
-2007-04,Twista,22
-2007-04,Wu-Tang Clan,19
-2007-05,2Pac,35
-2007-05,Bone Thugs-N-Harmony,7
-2007-05,Cypress Hill,25
-2007-05,Dizzee Rascal,1
-2007-05,Eminem,5
-2007-05,Ghostface Killah,55
-2007-05,Gza/Genius,47
-2007-05,Ice Cube,0
-2007-05,Jedi Mind Tricks,28
-2007-05,Lil Wayne,0
-2007-05,Ludacris,7
-2007-05,Opgezwolle,18
-2007-05,Paul Wall,1
-2007-05,Raekwon,6
-2007-05,Shyne,4
-2007-05,System Of A Down,55
-2007-05,The Game,1
-2007-05,The Notorious B.I.G.,10
-2007-05,Twista,6
-2007-05,Wu-Tang Clan,12
-2007-06,2Pac,5
-2007-06,Bone Thugs-N-Harmony,3
-2007-06,Cypress Hill,79
-2007-06,Dizzee Rascal,5
-2007-06,Eminem,2
-2007-06,Ghostface Killah,5
-2007-06,Gza/Genius,6
-2007-06,Ice Cube,0
-2007-06,Jedi Mind Tricks,7
-2007-06,Lil Wayne,1
-2007-06,Ludacris,33
-2007-06,Opgezwolle,29
-2007-06,Paul Wall,4
-2007-06,Raekwon,2
-2007-06,Shyne,1
-2007-06,System Of A Down,22
-2007-06,The Game,1
-2007-06,The Notorious B.I.G.,3
-2007-06,Twista,2
-2007-06,Wu-Tang Clan,8
-2007-07,2Pac,0
-2007-07,Bone Thugs-N-Harmony,3
-2007-07,Cypress Hill,38
-2007-07,Dizzee Rascal,6
-2007-07,Eminem,7
-2007-07,Ghostface Killah,4
-2007-07,Gza/Genius,5
-2007-07,Ice Cube,1
-2007-07,Jedi Mind Tricks,1
-2007-07,Lil Wayne,0
-2007-07,Ludacris,2
-2007-07,Opgezwolle,6
-2007-07,Paul Wall,3
-2007-07,Raekwon,1
-2007-07,Shyne,7
-2007-07,System Of A Down,6
-2007-07,The Game,1
-2007-07,The Notorious B.I.G.,3
-2007-07,Twista,4
-2007-07,Wu-Tang Clan,2
-2007-08,2Pac,2
-2007-08,Bone Thugs-N-Harmony,1
-2007-08,Cypress Hill,12
-2007-08,Dizzee Rascal,7
-2007-08,Eminem,0
-2007-08,Ghostface Killah,0
-2007-08,Gza/Genius,0
-2007-08,Ice Cube,0
-2007-08,Jedi Mind Tricks,39
-2007-08,Lil Wayne,12
-2007-08,Ludacris,2
-2007-08,Opgezwolle,0
-2007-08,Paul Wall,2
-2007-08,Raekwon,1
-2007-08,Shyne,2
-2007-08,System Of A Down,8
-2007-08,The Game,0
-2007-08,The Notorious B.I.G.,0
-2007-08,Twista,2
-2007-08,Wu-Tang Clan,0
-2007-09,2Pac,2
-2007-09,Bone Thugs-N-Harmony,1
-2007-09,Cypress Hill,0
-2007-09,Dizzee Rascal,9
-2007-09,Eminem,0
-2007-09,Ghostface Killah,0
-2007-09,Gza/Genius,0
-2007-09,Ice Cube,0
-2007-09,Jedi Mind Tricks,14
-2007-09,Lil Wayne,17
-2007-09,Ludacris,1
-2007-09,Opgezwolle,14
-2007-09,Paul Wall,2
-2007-09,Raekwon,26
-2007-09,Shyne,22
-2007-09,System Of A Down,2
-2007-09,The Game,2
-2007-09,The Notorious B.I.G.,1
-2007-09,Twista,45
-2007-09,Wu-Tang Clan,0
-2007-10,2Pac,107
-2007-10,Bone Thugs-N-Harmony,1
-2007-10,Cypress Hill,32
-2007-10,Dizzee Rascal,1
-2007-10,Eminem,4
-2007-10,Ghostface Killah,0
-2007-10,Gza/Genius,4
-2007-10,Ice Cube,4
-2007-10,Jedi Mind Tricks,0
-2007-10,Lil Wayne,234
-2007-10,Ludacris,6
-2007-10,Opgezwolle,11
-2007-10,Paul Wall,3
-2007-10,Raekwon,1
-2007-10,Shyne,4
-2007-10,System Of A Down,0
-2007-10,The Game,3
-2007-10,The Notorious B.I.G.,0
-2007-10,Twista,1
-2007-10,Wu-Tang Clan,0
-2007-11,2Pac,3
-2007-11,Bone Thugs-N-Harmony,3
-2007-11,Cypress Hill,24
-2007-11,Dizzee Rascal,4
-2007-11,Eminem,0
-2007-11,Ghostface Killah,2
-2007-11,Gza/Genius,1
-2007-11,Ice Cube,0
-2007-11,Jedi Mind Tricks,30
-2007-11,Lil Wayne,75
-2007-11,Ludacris,1
-2007-11,Opgezwolle,8
-2007-11,Paul Wall,2
-2007-11,Raekwon,0
-2007-11,Shyne,12
-2007-11,System Of A Down,1
-2007-11,The Game,0
-2007-11,The Notorious B.I.G.,67
-2007-11,Twista,0
-2007-11,Wu-Tang Clan,2
-2007-12,2Pac,1
-2007-12,Bone Thugs-N-Harmony,1
-2007-12,Cypress Hill,2
-2007-12,Dizzee Rascal,2
-2007-12,Eminem,6
-2007-12,Ghostface Killah,2
-2007-12,Gza/Genius,3
-2007-12,Ice Cube,0
-2007-12,Jedi Mind Tricks,24
-2007-12,Lil Wayne,149
-2007-12,Ludacris,1
-2007-12,Opgezwolle,4
-2007-12,Paul Wall,5
-2007-12,Raekwon,0
-2007-12,Shyne,2
-2007-12,System Of A Down,0
-2007-12,The Game,0
-2007-12,The Notorious B.I.G.,0
-2007-12,Twista,1
-2007-12,Wu-Tang Clan,16
-2008-01,2Pac,1
-2008-01,Bone Thugs-N-Harmony,2
-2008-01,Cypress Hill,26
-2008-01,Dizzee Rascal,11
-2008-01,Eminem,1
-2008-01,Ghostface Killah,61
-2008-01,Gza/Genius,39
-2008-01,Ice Cube,0
-2008-01,Jedi Mind Tricks,6
-2008-01,Lil Wayne,17
-2008-01,Ludacris,8
-2008-01,Opgezwolle,2
-2008-01,Paul Wall,8
-2008-01,Raekwon,17
-2008-01,Shyne,6
-2008-01,System Of A Down,4
-2008-01,The Game,0
-2008-01,The Notorious B.I.G.,6
-2008-01,Twista,4
-2008-01,Wu-Tang Clan,31
-2008-02,2Pac,1
-2008-02,Bone Thugs-N-Harmony,1
-2008-02,Cypress Hill,8
-2008-02,Dizzee Rascal,5
-2008-02,Eminem,0
-2008-02,Ghostface Killah,12
-2008-02,Gza/Genius,12
-2008-02,Ice Cube,0
-2008-02,Jedi Mind Tricks,1
-2008-02,Lil Wayne,4
-2008-02,Ludacris,12
-2008-02,Opgezwolle,0
-2008-02,Paul Wall,3
-2008-02,Raekwon,3
-2008-02,Shyne,0
-2008-02,System Of A Down,1
-2008-02,The Game,0
-2008-02,The Notorious B.I.G.,0
-2008-02,Twista,2
-2008-02,Wu-Tang Clan,10
-2008-03,2Pac,0
-2008-03,Bone Thugs-N-Harmony,0
-2008-03,Cypress Hill,0
-2008-03,Dizzee Rascal,0
-2008-03,Eminem,0
-2008-03,Ghostface Killah,0
-2008-03,Gza/Genius,0
-2008-03,Ice Cube,0
-2008-03,Jedi Mind Tricks,0
-2008-03,Lil Wayne,0
-2008-03,Ludacris,0
-2008-03,Opgezwolle,0
-2008-03,Paul Wall,0
-2008-03,Raekwon,0
-2008-03,Shyne,0
-2008-03,System Of A Down,0
-2008-03,The Game,0
-2008-03,The Notorious B.I.G.,0
-2008-03,Twista,0
-2008-03,Wu-Tang Clan,0
-2008-04,2Pac,0
-2008-04,Bone Thugs-N-Harmony,0
-2008-04,Cypress Hill,0
-2008-04,Dizzee Rascal,0
-2008-04,Eminem,0
-2008-04,Ghostface Killah,0
-2008-04,Gza/Genius,0
-2008-04,Ice Cube,0
-2008-04,Jedi Mind Tricks,0
-2008-04,Lil Wayne,0
-2008-04,Ludacris,0
-2008-04,Opgezwolle,0
-2008-04,Paul Wall,0
-2008-04,Raekwon,0
-2008-04,Shyne,0
-2008-04,System Of A Down,0
-2008-04,The Game,0
-2008-04,The Notorious B.I.G.,0
-2008-04,Twista,0
-2008-04,Wu-Tang Clan,0
-2008-05,2Pac,0
-2008-05,Bone Thugs-N-Harmony,0
-2008-05,Cypress Hill,0
-2008-05,Dizzee Rascal,0
-2008-05,Eminem,0
-2008-05,Ghostface Killah,0
-2008-05,Gza/Genius,0
-2008-05,Ice Cube,0
-2008-05,Jedi Mind Tricks,0
-2008-05,Lil Wayne,0
-2008-05,Ludacris,0
-2008-05,Opgezwolle,0
-2008-05,Paul Wall,0
-2008-05,Raekwon,0
-2008-05,Shyne,0
-2008-05,System Of A Down,0
-2008-05,The Game,0
-2008-05,The Notorious B.I.G.,0
-2008-05,Twista,0
-2008-05,Wu-Tang Clan,0
-2008-06,2Pac,2
-2008-06,Bone Thugs-N-Harmony,0
-2008-06,Cypress Hill,2
-2008-06,Dizzee Rascal,0
-2008-06,Eminem,0
-2008-06,Ghostface Killah,2
-2008-06,Gza/Genius,2
-2008-06,Ice Cube,3
-2008-06,Jedi Mind Tricks,0
-2008-06,Lil Wayne,4
-2008-06,Ludacris,0
-2008-06,Opgezwolle,0
-2008-06,Paul Wall,0
-2008-06,Raekwon,0
-2008-06,Shyne,0
-2008-06,System Of A Down,0
-2008-06,The Game,0
-2008-06,The Notorious B.I.G.,0
-2008-06,Twista,0
-2008-06,Wu-Tang Clan,7
-2008-07,2Pac,0
-2008-07,Bone Thugs-N-Harmony,0
-2008-07,Cypress Hill,5
-2008-07,Dizzee Rascal,0
-2008-07,Eminem,4
-2008-07,Ghostface Killah,2
-2008-07,Gza/Genius,0
-2008-07,Ice Cube,2
-2008-07,Jedi Mind Tricks,0
-2008-07,Lil Wayne,1
-2008-07,Ludacris,0
-2008-07,Opgezwolle,0
-2008-07,Paul Wall,7
-2008-07,Raekwon,0
-2008-07,Shyne,0
-2008-07,System Of A Down,0
-2008-07,The Game,3
-2008-07,The Notorious B.I.G.,0
-2008-07,Twista,0
-2008-07,Wu-Tang Clan,0
-2008-08,2Pac,1
-2008-08,Bone Thugs-N-Harmony,0
-2008-08,Cypress Hill,4
-2008-08,Dizzee Rascal,0
-2008-08,Eminem,0
-2008-08,Ghostface Killah,28
-2008-08,Gza/Genius,0
-2008-08,Ice Cube,53
-2008-08,Jedi Mind Tricks,0
-2008-08,Lil Wayne,12
-2008-08,Ludacris,0
-2008-08,Opgezwolle,0
-2008-08,Paul Wall,0
-2008-08,Raekwon,0
-2008-08,Shyne,15
-2008-08,System Of A Down,1
-2008-08,The Game,30
-2008-08,The Notorious B.I.G.,50
-2008-08,Twista,0
-2008-08,Wu-Tang Clan,38
-2008-09,2Pac,4
-2008-09,Bone Thugs-N-Harmony,0
-2008-09,Cypress Hill,0
-2008-09,Dizzee Rascal,0
-2008-09,Eminem,161
-2008-09,Ghostface Killah,91
-2008-09,Gza/Genius,1
-2008-09,Ice Cube,260
-2008-09,Jedi Mind Tricks,8
-2008-09,Lil Wayne,1
-2008-09,Ludacris,22
-2008-09,Opgezwolle,24
-2008-09,Paul Wall,0
-2008-09,Raekwon,10
-2008-09,Shyne,2
-2008-09,System Of A Down,0
-2008-09,The Game,233
-2008-09,The Notorious B.I.G.,62
-2008-09,Twista,1
-2008-09,Wu-Tang Clan,67
-2008-10,2Pac,7
-2008-10,Bone Thugs-N-Harmony,0
-2008-10,Cypress Hill,5
-2008-10,Dizzee Rascal,0
-2008-10,Eminem,2
-2008-10,Ghostface Killah,43
-2008-10,Gza/Genius,0
-2008-10,Ice Cube,151
-2008-10,Jedi Mind Tricks,0
-2008-10,Lil Wayne,0
-2008-10,Ludacris,1
-2008-10,Opgezwolle,0
-2008-10,Paul Wall,1
-2008-10,Raekwon,1
-2008-10,Shyne,0
-2008-10,System Of A Down,0
-2008-10,The Game,15
-2008-10,The Notorious B.I.G.,18
-2008-10,Twista,0
-2008-10,Wu-Tang Clan,0
-2008-11,2Pac,2
-2008-11,Bone Thugs-N-Harmony,0
-2008-11,Cypress Hill,3
-2008-11,Dizzee Rascal,0
-2008-11,Eminem,1
-2008-11,Ghostface Killah,1
-2008-11,Gza/Genius,1
-2008-11,Ice Cube,1
-2008-11,Jedi Mind Tricks,0
-2008-11,Lil Wayne,4
-2008-11,Ludacris,1
-2008-11,Opgezwolle,0
-2008-11,Paul Wall,2
-2008-11,Raekwon,1
-2008-11,Shyne,0
-2008-11,System Of A Down,2
-2008-11,The Game,14
-2008-11,The Notorious B.I.G.,2
-2008-11,Twista,0
-2008-11,Wu-Tang Clan,3
-2008-12,2Pac,0
-2008-12,Bone Thugs-N-Harmony,0
-2008-12,Cypress Hill,1
-2008-12,Dizzee Rascal,0
-2008-12,Eminem,0
-2008-12,Ghostface Killah,0
-2008-12,Gza/Genius,0
-2008-12,Ice Cube,3
-2008-12,Jedi Mind Tricks,0
-2008-12,Lil Wayne,2
-2008-12,Ludacris,2
-2008-12,Opgezwolle,21
-2008-12,Paul Wall,4
-2008-12,Raekwon,0
-2008-12,Shyne,0
-2008-12,System Of A Down,1
-2008-12,The Game,15
-2008-12,The Notorious B.I.G.,0
-2008-12,Twista,4
-2008-12,Wu-Tang Clan,0
-2009-01,2Pac,1
-2009-01,Bone Thugs-N-Harmony,0
-2009-01,Cypress Hill,5
-2009-01,Dizzee Rascal,0
-2009-01,Eminem,0
-2009-01,Ghostface Killah,0
-2009-01,Gza/Genius,0
-2009-01,Ice Cube,4
-2009-01,Jedi Mind Tricks,0
-2009-01,Lil Wayne,17
-2009-01,Ludacris,1
-2009-01,Opgezwolle,0
-2009-01,Paul Wall,7
-2009-01,Raekwon,1
-2009-01,Shyne,0
-2009-01,System Of A Down,0
-2009-01,The Game,1
-2009-01,The Notorious B.I.G.,1
-2009-01,Twista,1
-2009-01,Wu-Tang Clan,0
-2009-02,2Pac,2
-2009-02,Bone Thugs-N-Harmony,16
-2009-02,Cypress Hill,14
-2009-02,Dizzee Rascal,0
-2009-02,Eminem,1
-2009-02,Ghostface Killah,2
-2009-02,Gza/Genius,0
-2009-02,Ice Cube,12
-2009-02,Jedi Mind Tricks,0
-2009-02,Lil Wayne,7
-2009-02,Ludacris,10
-2009-02,Opgezwolle,0
-2009-02,Paul Wall,3
-2009-02,Raekwon,0
-2009-02,Shyne,1
-2009-02,System Of A Down,0
-2009-02,The Game,4
-2009-02,The Notorious B.I.G.,1
-2009-02,Twista,0
-2009-02,Wu-Tang Clan,1
-2009-03,2Pac,0
-2009-03,Bone Thugs-N-Harmony,0
-2009-03,Cypress Hill,1
-2009-03,Dizzee Rascal,0
-2009-03,Eminem,0
-2009-03,Ghostface Killah,0
-2009-03,Gza/Genius,0
-2009-03,Ice Cube,2
-2009-03,Jedi Mind Tricks,14
-2009-03,Lil Wayne,21
-2009-03,Ludacris,1
-2009-03,Opgezwolle,0
-2009-03,Paul Wall,0
-2009-03,Raekwon,0
-2009-03,Shyne,0
-2009-03,System Of A Down,0
-2009-03,The Game,4
-2009-03,The Notorious B.I.G.,0
-2009-03,Twista,0
-2009-03,Wu-Tang Clan,8
-2009-04,2Pac,0
-2009-04,Bone Thugs-N-Harmony,0
-2009-04,Cypress Hill,2
-2009-04,Dizzee Rascal,0
-2009-04,Eminem,0
-2009-04,Ghostface Killah,3
-2009-04,Gza/Genius,1
-2009-04,Ice Cube,1
-2009-04,Jedi Mind Tricks,2
-2009-04,Lil Wayne,4
-2009-04,Ludacris,0
-2009-04,Opgezwolle,0
-2009-04,Paul Wall,0
-2009-04,Raekwon,0
-2009-04,Shyne,0
-2009-04,System Of A Down,0
-2009-04,The Game,0
-2009-04,The Notorious B.I.G.,0
-2009-04,Twista,1
-2009-04,Wu-Tang Clan,0
+"month","artist","plays"
+"2006-09","2Pac",0
+"2006-09","Bone Thugs-N-Harmony",5
+"2006-09","Cypress Hill",1
+"2006-09","Dizzee Rascal",2
+"2006-09","Eminem",3
+"2006-09","Ghostface Killah",0
+"2006-09","Gza/Genius",0
+"2006-09","Ice Cube",2
+"2006-09","Jedi Mind Tricks",0
+"2006-09","Lil Wayne",1
+"2006-09","Ludacris",4
+"2006-09","Opgezwolle",3
+"2006-09","Paul Wall",0
+"2006-09","Raekwon",0
+"2006-09","Shyne",4
+"2006-09","System Of A Down",3
+"2006-09","The Game",2
+"2006-09","The Notorious B.I.G.",0
+"2006-09","Twista",0
+"2006-09","Wu-Tang Clan",0
+"2006-10","2Pac",1
+"2006-10","Bone Thugs-N-Harmony",11
+"2006-10","Cypress Hill",11
+"2006-10","Dizzee Rascal",1
+"2006-10","Eminem",9
+"2006-10","Ghostface Killah",40
+"2006-10","Gza/Genius",31
+"2006-10","Ice Cube",5
+"2006-10","Jedi Mind Tricks",1
+"2006-10","Lil Wayne",5
+"2006-10","Ludacris",5
+"2006-10","Opgezwolle",15
+"2006-10","Paul Wall",0
+"2006-10","Raekwon",2
+"2006-10","Shyne",4
+"2006-10","System Of A Down",24
+"2006-10","The Game",1
+"2006-10","The Notorious B.I.G.",20
+"2006-10","Twista",7
+"2006-10","Wu-Tang Clan",20
+"2006-11","2Pac",8
+"2006-11","Bone Thugs-N-Harmony",21
+"2006-11","Cypress Hill",248
+"2006-11","Dizzee Rascal",7
+"2006-11","Eminem",11
+"2006-11","Ghostface Killah",13
+"2006-11","Gza/Genius",15
+"2006-11","Ice Cube",7
+"2006-11","Jedi Mind Tricks",0
+"2006-11","Lil Wayne",0
+"2006-11","Ludacris",1
+"2006-11","Opgezwolle",58
+"2006-11","Paul Wall",0
+"2006-11","Raekwon",2
+"2006-11","Shyne",18
+"2006-11","System Of A Down",32
+"2006-11","The Game",11
+"2006-11","The Notorious B.I.G.",5
+"2006-11","Twista",6
+"2006-11","Wu-Tang Clan",7
+"2006-12","2Pac",45
+"2006-12","Bone Thugs-N-Harmony",8
+"2006-12","Cypress Hill",82
+"2006-12","Dizzee Rascal",3
+"2006-12","Eminem",13
+"2006-12","Ghostface Killah",7
+"2006-12","Gza/Genius",8
+"2006-12","Ice Cube",0
+"2006-12","Jedi Mind Tricks",171
+"2006-12","Lil Wayne",2
+"2006-12","Ludacris",6
+"2006-12","Opgezwolle",17
+"2006-12","Paul Wall",0
+"2006-12","Raekwon",6
+"2006-12","Shyne",2
+"2006-12","System Of A Down",10
+"2006-12","The Game",3
+"2006-12","The Notorious B.I.G.",9
+"2006-12","Twista",3
+"2006-12","Wu-Tang Clan",14
+"2007-01","2Pac",14
+"2007-01","Bone Thugs-N-Harmony",1
+"2007-01","Cypress Hill",10
+"2007-01","Dizzee Rascal",1
+"2007-01","Eminem",2
+"2007-01","Ghostface Killah",20
+"2007-01","Gza/Genius",7
+"2007-01","Ice Cube",2
+"2007-01","Jedi Mind Tricks",37
+"2007-01","Lil Wayne",2
+"2007-01","Ludacris",2
+"2007-01","Opgezwolle",1
+"2007-01","Paul Wall",5
+"2007-01","Raekwon",1
+"2007-01","Shyne",0
+"2007-01","System Of A Down",19
+"2007-01","The Game",0
+"2007-01","The Notorious B.I.G.",4
+"2007-01","Twista",3
+"2007-01","Wu-Tang Clan",0
+"2007-02","2Pac",7
+"2007-02","Bone Thugs-N-Harmony",2
+"2007-02","Cypress Hill",14
+"2007-02","Dizzee Rascal",0
+"2007-02","Eminem",0
+"2007-02","Ghostface Killah",1
+"2007-02","Gza/Genius",5
+"2007-02","Ice Cube",2
+"2007-02","Jedi Mind Tricks",5
+"2007-02","Lil Wayne",0
+"2007-02","Ludacris",0
+"2007-02","Opgezwolle",1
+"2007-02","Paul Wall",7
+"2007-02","Raekwon",0
+"2007-02","Shyne",2
+"2007-02","System Of A Down",9
+"2007-02","The Game",2
+"2007-02","The Notorious B.I.G.",3
+"2007-02","Twista",3
+"2007-02","Wu-Tang Clan",1
+"2007-03","2Pac",224
+"2007-03","Bone Thugs-N-Harmony",34
+"2007-03","Cypress Hill",115
+"2007-03","Dizzee Rascal",12
+"2007-03","Eminem",27
+"2007-03","Ghostface Killah",32
+"2007-03","Gza/Genius",46
+"2007-03","Ice Cube",2
+"2007-03","Jedi Mind Tricks",268
+"2007-03","Lil Wayne",2
+"2007-03","Ludacris",26
+"2007-03","Opgezwolle",35
+"2007-03","Paul Wall",5
+"2007-03","Raekwon",27
+"2007-03","Shyne",11
+"2007-03","System Of A Down",45
+"2007-03","The Game",26
+"2007-03","The Notorious B.I.G.",72
+"2007-03","Twista",27
+"2007-03","Wu-Tang Clan",65
+"2007-04","2Pac",293
+"2007-04","Bone Thugs-N-Harmony",21
+"2007-04","Cypress Hill",58
+"2007-04","Dizzee Rascal",7
+"2007-04","Eminem",21
+"2007-04","Ghostface Killah",14
+"2007-04","Gza/Genius",22
+"2007-04","Ice Cube",2
+"2007-04","Jedi Mind Tricks",81
+"2007-04","Lil Wayne",2
+"2007-04","Ludacris",7
+"2007-04","Opgezwolle",25
+"2007-04","Paul Wall",8
+"2007-04","Raekwon",9
+"2007-04","Shyne",19
+"2007-04","System Of A Down",28
+"2007-04","The Game",16
+"2007-04","The Notorious B.I.G.",17
+"2007-04","Twista",22
+"2007-04","Wu-Tang Clan",19
+"2007-05","2Pac",35
+"2007-05","Bone Thugs-N-Harmony",7
+"2007-05","Cypress Hill",25
+"2007-05","Dizzee Rascal",1
+"2007-05","Eminem",5
+"2007-05","Ghostface Killah",55
+"2007-05","Gza/Genius",47
+"2007-05","Ice Cube",0
+"2007-05","Jedi Mind Tricks",28
+"2007-05","Lil Wayne",0
+"2007-05","Ludacris",7
+"2007-05","Opgezwolle",18
+"2007-05","Paul Wall",1
+"2007-05","Raekwon",6
+"2007-05","Shyne",4
+"2007-05","System Of A Down",55
+"2007-05","The Game",1
+"2007-05","The Notorious B.I.G.",10
+"2007-05","Twista",6
+"2007-05","Wu-Tang Clan",12
+"2007-06","2Pac",5
+"2007-06","Bone Thugs-N-Harmony",3
+"2007-06","Cypress Hill",79
+"2007-06","Dizzee Rascal",5
+"2007-06","Eminem",2
+"2007-06","Ghostface Killah",5
+"2007-06","Gza/Genius",6
+"2007-06","Ice Cube",0
+"2007-06","Jedi Mind Tricks",7
+"2007-06","Lil Wayne",1
+"2007-06","Ludacris",33
+"2007-06","Opgezwolle",29
+"2007-06","Paul Wall",4
+"2007-06","Raekwon",2
+"2007-06","Shyne",1
+"2007-06","System Of A Down",22
+"2007-06","The Game",1
+"2007-06","The Notorious B.I.G.",3
+"2007-06","Twista",2
+"2007-06","Wu-Tang Clan",8
+"2007-07","2Pac",0
+"2007-07","Bone Thugs-N-Harmony",3
+"2007-07","Cypress Hill",38
+"2007-07","Dizzee Rascal",6
+"2007-07","Eminem",7
+"2007-07","Ghostface Killah",4
+"2007-07","Gza/Genius",5
+"2007-07","Ice Cube",1
+"2007-07","Jedi Mind Tricks",1
+"2007-07","Lil Wayne",0
+"2007-07","Ludacris",2
+"2007-07","Opgezwolle",6
+"2007-07","Paul Wall",3
+"2007-07","Raekwon",1
+"2007-07","Shyne",7
+"2007-07","System Of A Down",6
+"2007-07","The Game",1
+"2007-07","The Notorious B.I.G.",3
+"2007-07","Twista",4
+"2007-07","Wu-Tang Clan",2
+"2007-08","2Pac",2
+"2007-08","Bone Thugs-N-Harmony",1
+"2007-08","Cypress Hill",12
+"2007-08","Dizzee Rascal",7
+"2007-08","Eminem",0
+"2007-08","Ghostface Killah",0
+"2007-08","Gza/Genius",0
+"2007-08","Ice Cube",0
+"2007-08","Jedi Mind Tricks",39
+"2007-08","Lil Wayne",12
+"2007-08","Ludacris",2
+"2007-08","Opgezwolle",0
+"2007-08","Paul Wall",2
+"2007-08","Raekwon",1
+"2007-08","Shyne",2
+"2007-08","System Of A Down",8
+"2007-08","The Game",0
+"2007-08","The Notorious B.I.G.",0
+"2007-08","Twista",2
+"2007-08","Wu-Tang Clan",0
+"2007-09","2Pac",2
+"2007-09","Bone Thugs-N-Harmony",1
+"2007-09","Cypress Hill",0
+"2007-09","Dizzee Rascal",9
+"2007-09","Eminem",0
+"2007-09","Ghostface Killah",0
+"2007-09","Gza/Genius",0
+"2007-09","Ice Cube",0
+"2007-09","Jedi Mind Tricks",14
+"2007-09","Lil Wayne",17
+"2007-09","Ludacris",1
+"2007-09","Opgezwolle",14
+"2007-09","Paul Wall",2
+"2007-09","Raekwon",26
+"2007-09","Shyne",22
+"2007-09","System Of A Down",2
+"2007-09","The Game",2
+"2007-09","The Notorious B.I.G.",1
+"2007-09","Twista",45
+"2007-09","Wu-Tang Clan",0
+"2007-10","2Pac",107
+"2007-10","Bone Thugs-N-Harmony",1
+"2007-10","Cypress Hill",32
+"2007-10","Dizzee Rascal",1
+"2007-10","Eminem",4
+"2007-10","Ghostface Killah",0
+"2007-10","Gza/Genius",4
+"2007-10","Ice Cube",4
+"2007-10","Jedi Mind Tricks",0
+"2007-10","Lil Wayne",234
+"2007-10","Ludacris",6
+"2007-10","Opgezwolle",11
+"2007-10","Paul Wall",3
+"2007-10","Raekwon",1
+"2007-10","Shyne",4
+"2007-10","System Of A Down",0
+"2007-10","The Game",3
+"2007-10","The Notorious B.I.G.",0
+"2007-10","Twista",1
+"2007-10","Wu-Tang Clan",0
+"2007-11","2Pac",3
+"2007-11","Bone Thugs-N-Harmony",3
+"2007-11","Cypress Hill",24
+"2007-11","Dizzee Rascal",4
+"2007-11","Eminem",0
+"2007-11","Ghostface Killah",2
+"2007-11","Gza/Genius",1
+"2007-11","Ice Cube",0
+"2007-11","Jedi Mind Tricks",30
+"2007-11","Lil Wayne",75
+"2007-11","Ludacris",1
+"2007-11","Opgezwolle",8
+"2007-11","Paul Wall",2
+"2007-11","Raekwon",0
+"2007-11","Shyne",12
+"2007-11","System Of A Down",1
+"2007-11","The Game",0
+"2007-11","The Notorious B.I.G.",67
+"2007-11","Twista",0
+"2007-11","Wu-Tang Clan",2
+"2007-12","2Pac",1
+"2007-12","Bone Thugs-N-Harmony",1
+"2007-12","Cypress Hill",2
+"2007-12","Dizzee Rascal",2
+"2007-12","Eminem",6
+"2007-12","Ghostface Killah",2
+"2007-12","Gza/Genius",3
+"2007-12","Ice Cube",0
+"2007-12","Jedi Mind Tricks",24
+"2007-12","Lil Wayne",149
+"2007-12","Ludacris",1
+"2007-12","Opgezwolle",4
+"2007-12","Paul Wall",5
+"2007-12","Raekwon",0
+"2007-12","Shyne",2
+"2007-12","System Of A Down",0
+"2007-12","The Game",0
+"2007-12","The Notorious B.I.G.",0
+"2007-12","Twista",1
+"2007-12","Wu-Tang Clan",16
+"2008-01","2Pac",1
+"2008-01","Bone Thugs-N-Harmony",2
+"2008-01","Cypress Hill",26
+"2008-01","Dizzee Rascal",11
+"2008-01","Eminem",1
+"2008-01","Ghostface Killah",61
+"2008-01","Gza/Genius",39
+"2008-01","Ice Cube",0
+"2008-01","Jedi Mind Tricks",6
+"2008-01","Lil Wayne",17
+"2008-01","Ludacris",8
+"2008-01","Opgezwolle",2
+"2008-01","Paul Wall",8
+"2008-01","Raekwon",17
+"2008-01","Shyne",6
+"2008-01","System Of A Down",4
+"2008-01","The Game",0
+"2008-01","The Notorious B.I.G.",6
+"2008-01","Twista",4
+"2008-01","Wu-Tang Clan",31
+"2008-02","2Pac",1
+"2008-02","Bone Thugs-N-Harmony",1
+"2008-02","Cypress Hill",8
+"2008-02","Dizzee Rascal",5
+"2008-02","Eminem",0
+"2008-02","Ghostface Killah",12
+"2008-02","Gza/Genius",12
+"2008-02","Ice Cube",0
+"2008-02","Jedi Mind Tricks",1
+"2008-02","Lil Wayne",4
+"2008-02","Ludacris",12
+"2008-02","Opgezwolle",0
+"2008-02","Paul Wall",3
+"2008-02","Raekwon",3
+"2008-02","Shyne",0
+"2008-02","System Of A Down",1
+"2008-02","The Game",0
+"2008-02","The Notorious B.I.G.",0
+"2008-02","Twista",2
+"2008-02","Wu-Tang Clan",10
+"2008-03","2Pac",0
+"2008-03","Bone Thugs-N-Harmony",0
+"2008-03","Cypress Hill",0
+"2008-03","Dizzee Rascal",0
+"2008-03","Eminem",0
+"2008-03","Ghostface Killah",0
+"2008-03","Gza/Genius",0
+"2008-03","Ice Cube",0
+"2008-03","Jedi Mind Tricks",0
+"2008-03","Lil Wayne",0
+"2008-03","Ludacris",0
+"2008-03","Opgezwolle",0
+"2008-03","Paul Wall",0
+"2008-03","Raekwon",0
+"2008-03","Shyne",0
+"2008-03","System Of A Down",0
+"2008-03","The Game",0
+"2008-03","The Notorious B.I.G.",0
+"2008-03","Twista",0
+"2008-03","Wu-Tang Clan",0
+"2008-04","2Pac",0
+"2008-04","Bone Thugs-N-Harmony",0
+"2008-04","Cypress Hill",0
+"2008-04","Dizzee Rascal",0
+"2008-04","Eminem",0
+"2008-04","Ghostface Killah",0
+"2008-04","Gza/Genius",0
+"2008-04","Ice Cube",0
+"2008-04","Jedi Mind Tricks",0
+"2008-04","Lil Wayne",0
+"2008-04","Ludacris",0
+"2008-04","Opgezwolle",0
+"2008-04","Paul Wall",0
+"2008-04","Raekwon",0
+"2008-04","Shyne",0
+"2008-04","System Of A Down",0
+"2008-04","The Game",0
+"2008-04","The Notorious B.I.G.",0
+"2008-04","Twista",0
+"2008-04","Wu-Tang Clan",0
+"2008-05","2Pac",0
+"2008-05","Bone Thugs-N-Harmony",0
+"2008-05","Cypress Hill",0
+"2008-05","Dizzee Rascal",0
+"2008-05","Eminem",0
+"2008-05","Ghostface Killah",0
+"2008-05","Gza/Genius",0
+"2008-05","Ice Cube",0
+"2008-05","Jedi Mind Tricks",0
+"2008-05","Lil Wayne",0
+"2008-05","Ludacris",0
+"2008-05","Opgezwolle",0
+"2008-05","Paul Wall",0
+"2008-05","Raekwon",0
+"2008-05","Shyne",0
+"2008-05","System Of A Down",0
+"2008-05","The Game",0
+"2008-05","The Notorious B.I.G.",0
+"2008-05","Twista",0
+"2008-05","Wu-Tang Clan",0
+"2008-06","2Pac",2
+"2008-06","Bone Thugs-N-Harmony",0
+"2008-06","Cypress Hill",2
+"2008-06","Dizzee Rascal",0
+"2008-06","Eminem",0
+"2008-06","Ghostface Killah",2
+"2008-06","Gza/Genius",2
+"2008-06","Ice Cube",3
+"2008-06","Jedi Mind Tricks",0
+"2008-06","Lil Wayne",4
+"2008-06","Ludacris",0
+"2008-06","Opgezwolle",0
+"2008-06","Paul Wall",0
+"2008-06","Raekwon",0
+"2008-06","Shyne",0
+"2008-06","System Of A Down",0
+"2008-06","The Game",0
+"2008-06","The Notorious B.I.G.",0
+"2008-06","Twista",0
+"2008-06","Wu-Tang Clan",7
+"2008-07","2Pac",0
+"2008-07","Bone Thugs-N-Harmony",0
+"2008-07","Cypress Hill",5
+"2008-07","Dizzee Rascal",0
+"2008-07","Eminem",4
+"2008-07","Ghostface Killah",2
+"2008-07","Gza/Genius",0
+"2008-07","Ice Cube",2
+"2008-07","Jedi Mind Tricks",0
+"2008-07","Lil Wayne",1
+"2008-07","Ludacris",0
+"2008-07","Opgezwolle",0
+"2008-07","Paul Wall",7
+"2008-07","Raekwon",0
+"2008-07","Shyne",0
+"2008-07","System Of A Down",0
+"2008-07","The Game",3
+"2008-07","The Notorious B.I.G.",0
+"2008-07","Twista",0
+"2008-07","Wu-Tang Clan",0
+"2008-08","2Pac",1
+"2008-08","Bone Thugs-N-Harmony",0
+"2008-08","Cypress Hill",4
+"2008-08","Dizzee Rascal",0
+"2008-08","Eminem",0
+"2008-08","Ghostface Killah",28
+"2008-08","Gza/Genius",0
+"2008-08","Ice Cube",53
+"2008-08","Jedi Mind Tricks",0
+"2008-08","Lil Wayne",12
+"2008-08","Ludacris",0
+"2008-08","Opgezwolle",0
+"2008-08","Paul Wall",0
+"2008-08","Raekwon",0
+"2008-08","Shyne",15
+"2008-08","System Of A Down",1
+"2008-08","The Game",30
+"2008-08","The Notorious B.I.G.",50
+"2008-08","Twista",0
+"2008-08","Wu-Tang Clan",38
+"2008-09","2Pac",4
+"2008-09","Bone Thugs-N-Harmony",0
+"2008-09","Cypress Hill",0
+"2008-09","Dizzee Rascal",0
+"2008-09","Eminem",161
+"2008-09","Ghostface Killah",91
+"2008-09","Gza/Genius",1
+"2008-09","Ice Cube",260
+"2008-09","Jedi Mind Tricks",8
+"2008-09","Lil Wayne",1
+"2008-09","Ludacris",22
+"2008-09","Opgezwolle",24
+"2008-09","Paul Wall",0
+"2008-09","Raekwon",10
+"2008-09","Shyne",2
+"2008-09","System Of A Down",0
+"2008-09","The Game",233
+"2008-09","The Notorious B.I.G.",62
+"2008-09","Twista",1
+"2008-09","Wu-Tang Clan",67
+"2008-10","2Pac",7
+"2008-10","Bone Thugs-N-Harmony",0
+"2008-10","Cypress Hill",5
+"2008-10","Dizzee Rascal",0
+"2008-10","Eminem",2
+"2008-10","Ghostface Killah",43
+"2008-10","Gza/Genius",0
+"2008-10","Ice Cube",151
+"2008-10","Jedi Mind Tricks",0
+"2008-10","Lil Wayne",0
+"2008-10","Ludacris",1
+"2008-10","Opgezwolle",0
+"2008-10","Paul Wall",1
+"2008-10","Raekwon",1
+"2008-10","Shyne",0
+"2008-10","System Of A Down",0
+"2008-10","The Game",15
+"2008-10","The Notorious B.I.G.",18
+"2008-10","Twista",0
+"2008-10","Wu-Tang Clan",0
+"2008-11","2Pac",2
+"2008-11","Bone Thugs-N-Harmony",0
+"2008-11","Cypress Hill",3
+"2008-11","Dizzee Rascal",0
+"2008-11","Eminem",1
+"2008-11","Ghostface Killah",1
+"2008-11","Gza/Genius",1
+"2008-11","Ice Cube",1
+"2008-11","Jedi Mind Tricks",0
+"2008-11","Lil Wayne",4
+"2008-11","Ludacris",1
+"2008-11","Opgezwolle",0
+"2008-11","Paul Wall",2
+"2008-11","Raekwon",1
+"2008-11","Shyne",0
+"2008-11","System Of A Down",2
+"2008-11","The Game",14
+"2008-11","The Notorious B.I.G.",2
+"2008-11","Twista",0
+"2008-11","Wu-Tang Clan",3
+"2008-12","2Pac",0
+"2008-12","Bone Thugs-N-Harmony",0
+"2008-12","Cypress Hill",1
+"2008-12","Dizzee Rascal",0
+"2008-12","Eminem",0
+"2008-12","Ghostface Killah",0
+"2008-12","Gza/Genius",0
+"2008-12","Ice Cube",3
+"2008-12","Jedi Mind Tricks",0
+"2008-12","Lil Wayne",2
+"2008-12","Ludacris",2
+"2008-12","Opgezwolle",21
+"2008-12","Paul Wall",4
+"2008-12","Raekwon",0
+"2008-12","Shyne",0
+"2008-12","System Of A Down",1
+"2008-12","The Game",15
+"2008-12","The Notorious B.I.G.",0
+"2008-12","Twista",4
+"2008-12","Wu-Tang Clan",0
+"2009-01","2Pac",1
+"2009-01","Bone Thugs-N-Harmony",0
+"2009-01","Cypress Hill",5
+"2009-01","Dizzee Rascal",0
+"2009-01","Eminem",0
+"2009-01","Ghostface Killah",0
+"2009-01","Gza/Genius",0
+"2009-01","Ice Cube",4
+"2009-01","Jedi Mind Tricks",0
+"2009-01","Lil Wayne",17
+"2009-01","Ludacris",1
+"2009-01","Opgezwolle",0
+"2009-01","Paul Wall",7
+"2009-01","Raekwon",1
+"2009-01","Shyne",0
+"2009-01","System Of A Down",0
+"2009-01","The Game",1
+"2009-01","The Notorious B.I.G.",1
+"2009-01","Twista",1
+"2009-01","Wu-Tang Clan",0
+"2009-02","2Pac",2
+"2009-02","Bone Thugs-N-Harmony",16
+"2009-02","Cypress Hill",14
+"2009-02","Dizzee Rascal",0
+"2009-02","Eminem",1
+"2009-02","Ghostface Killah",2
+"2009-02","Gza/Genius",0
+"2009-02","Ice Cube",12
+"2009-02","Jedi Mind Tricks",0
+"2009-02","Lil Wayne",7
+"2009-02","Ludacris",10
+"2009-02","Opgezwolle",0
+"2009-02","Paul Wall",3
+"2009-02","Raekwon",0
+"2009-02","Shyne",1
+"2009-02","System Of A Down",0
+"2009-02","The Game",4
+"2009-02","The Notorious B.I.G.",1
+"2009-02","Twista",0
+"2009-02","Wu-Tang Clan",1
+"2009-03","2Pac",0
+"2009-03","Bone Thugs-N-Harmony",0
+"2009-03","Cypress Hill",1
+"2009-03","Dizzee Rascal",0
+"2009-03","Eminem",0
+"2009-03","Ghostface Killah",0
+"2009-03","Gza/Genius",0
+"2009-03","Ice Cube",2
+"2009-03","Jedi Mind Tricks",14
+"2009-03","Lil Wayne",21
+"2009-03","Ludacris",1
+"2009-03","Opgezwolle",0
+"2009-03","Paul Wall",0
+"2009-03","Raekwon",0
+"2009-03","Shyne",0
+"2009-03","System Of A Down",0
+"2009-03","The Game",4
+"2009-03","The Notorious B.I.G.",0
+"2009-03","Twista",0
+"2009-03","Wu-Tang Clan",8
+"2009-04","2Pac",0
+"2009-04","Bone Thugs-N-Harmony",0
+"2009-04","Cypress Hill",2
+"2009-04","Dizzee Rascal",0
+"2009-04","Eminem",0
+"2009-04","Ghostface Killah",3
+"2009-04","Gza/Genius",1
+"2009-04","Ice Cube",1
+"2009-04","Jedi Mind Tricks",2
+"2009-04","Lil Wayne",4
+"2009-04","Ludacris",0
+"2009-04","Opgezwolle",0
+"2009-04","Paul Wall",0
+"2009-04","Raekwon",0
+"2009-04","Shyne",0
+"2009-04","System Of A Down",0
+"2009-04","The Game",0
+"2009-04","The Notorious B.I.G.",0
+"2009-04","Twista",1
+"2009-04","Wu-Tang Clan",0

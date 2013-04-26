@@ -1,661 +1,661 @@
-month,artist,plays
-2006-04,Eleanor Rigby,10
-2006-04,Makin' Time,22
-2006-04,Oasis,0
-2006-04,Ocean Colour Scene,4
-2006-04,Paul Weller,43
-2006-04,Rinaldi Sings,28
-2006-04,Secret Affair,1
-2006-04,Small Faces,19
-2006-04,Squire,1
-2006-04,Suede,1
-2006-04,The Charlatans,2
-2006-04,The Chords,11
-2006-04,The Eddies,0
-2006-04,The Jam,18
-2006-04,The Merton Parkas,7
-2006-04,The Moment,16
-2006-04,The Risk,1
-2006-04,The Shambles,0
-2006-04,The Stone Roses,10
-2006-04,The Who,7
-2006-05,Eleanor Rigby,49
-2006-05,Makin' Time,66
-2006-05,Oasis,54
-2006-05,Ocean Colour Scene,35
-2006-05,Paul Weller,12
-2006-05,Rinaldi Sings,30
-2006-05,Secret Affair,19
-2006-05,Small Faces,19
-2006-05,Squire,130
-2006-05,Suede,0
-2006-05,The Charlatans,0
-2006-05,The Chords,3
-2006-05,The Eddies,33
-2006-05,The Jam,53
-2006-05,The Merton Parkas,62
-2006-05,The Moment,3
-2006-05,The Risk,2
-2006-05,The Shambles,120
-2006-05,The Stone Roses,0
-2006-05,The Who,0
-2006-06,Eleanor Rigby,26
-2006-06,Makin' Time,23
-2006-06,Oasis,81
-2006-06,Ocean Colour Scene,7
-2006-06,Paul Weller,2
-2006-06,Rinaldi Sings,11
-2006-06,Secret Affair,0
-2006-06,Small Faces,0
-2006-06,Squire,55
-2006-06,Suede,0
-2006-06,The Charlatans,10
-2006-06,The Chords,1
-2006-06,The Eddies,16
-2006-06,The Jam,61
-2006-06,The Merton Parkas,11
-2006-06,The Moment,2
-2006-06,The Risk,1
-2006-06,The Shambles,24
-2006-06,The Stone Roses,66
-2006-06,The Who,0
-2006-07,Eleanor Rigby,0
-2006-07,Makin' Time,0
-2006-07,Oasis,81
-2006-07,Ocean Colour Scene,90
-2006-07,Paul Weller,43
-2006-07,Rinaldi Sings,7
-2006-07,Secret Affair,9
-2006-07,Small Faces,87
-2006-07,Squire,0
-2006-07,Suede,67
-2006-07,The Charlatans,25
-2006-07,The Chords,2
-2006-07,The Eddies,1
-2006-07,The Jam,11
-2006-07,The Merton Parkas,5
-2006-07,The Moment,1
-2006-07,The Risk,1
-2006-07,The Shambles,20
-2006-07,The Stone Roses,45
-2006-07,The Who,24
-2006-08,Eleanor Rigby,0
-2006-08,Makin' Time,22
-2006-08,Oasis,11
-2006-08,Ocean Colour Scene,0
-2006-08,Paul Weller,18
-2006-08,Rinaldi Sings,12
-2006-08,Secret Affair,0
-2006-08,Small Faces,132
-2006-08,Squire,48
-2006-08,Suede,0
-2006-08,The Charlatans,17
-2006-08,The Chords,0
-2006-08,The Eddies,30
-2006-08,The Jam,11
-2006-08,The Merton Parkas,22
-2006-08,The Moment,2
-2006-08,The Risk,1
-2006-08,The Shambles,0
-2006-08,The Stone Roses,0
-2006-08,The Who,16
-2006-09,Eleanor Rigby,0
-2006-09,Makin' Time,23
-2006-09,Oasis,11
-2006-09,Ocean Colour Scene,40
-2006-09,Paul Weller,37
-2006-09,Rinaldi Sings,3
-2006-09,Secret Affair,0
-2006-09,Small Faces,100
-2006-09,Squire,17
-2006-09,Suede,20
-2006-09,The Charlatans,0
-2006-09,The Chords,1
-2006-09,The Eddies,4
-2006-09,The Jam,47
-2006-09,The Merton Parkas,22
-2006-09,The Moment,4
-2006-09,The Risk,0
-2006-09,The Shambles,24
-2006-09,The Stone Roses,33
-2006-09,The Who,30
-2006-10,Eleanor Rigby,0
-2006-10,Makin' Time,0
-2006-10,Oasis,0
-2006-10,Ocean Colour Scene,0
-2006-10,Paul Weller,1
-2006-10,Rinaldi Sings,10
-2006-10,Secret Affair,0
-2006-10,Small Faces,0
-2006-10,Squire,32
-2006-10,Suede,0
-2006-10,The Charlatans,20
-2006-10,The Chords,0
-2006-10,The Eddies,0
-2006-10,The Jam,0
-2006-10,The Merton Parkas,0
-2006-10,The Moment,0
-2006-10,The Risk,0
-2006-10,The Shambles,0
-2006-10,The Stone Roses,0
-2006-10,The Who,16
-2006-11,Eleanor Rigby,10
-2006-11,Makin' Time,22
-2006-11,Oasis,11
-2006-11,Ocean Colour Scene,0
-2006-11,Paul Weller,0
-2006-11,Rinaldi Sings,0
-2006-11,Secret Affair,20
-2006-11,Small Faces,4
-2006-11,Squire,1
-2006-11,Suede,10
-2006-11,The Charlatans,0
-2006-11,The Chords,36
-2006-11,The Eddies,0
-2006-11,The Jam,0
-2006-11,The Merton Parkas,0
-2006-11,The Moment,0
-2006-11,The Risk,2
-2006-11,The Shambles,11
-2006-11,The Stone Roses,0
-2006-11,The Who,0
-2006-12,Eleanor Rigby,12
-2006-12,Makin' Time,0
-2006-12,Oasis,0
-2006-12,Ocean Colour Scene,0
-2006-12,Paul Weller,0
-2006-12,Rinaldi Sings,0
-2006-12,Secret Affair,0
-2006-12,Small Faces,34
-2006-12,Squire,52
-2006-12,Suede,21
-2006-12,The Charlatans,0
-2006-12,The Chords,23
-2006-12,The Eddies,0
-2006-12,The Jam,0
-2006-12,The Merton Parkas,0
-2006-12,The Moment,0
-2006-12,The Risk,0
-2006-12,The Shambles,0
-2006-12,The Stone Roses,0
-2006-12,The Who,0
-2007-01,Eleanor Rigby,0
-2007-01,Makin' Time,0
-2007-01,Oasis,0
-2007-01,Ocean Colour Scene,0
-2007-01,Paul Weller,0
-2007-01,Rinaldi Sings,8
-2007-01,Secret Affair,0
-2007-01,Small Faces,0
-2007-01,Squire,37
-2007-01,Suede,11
-2007-01,The Charlatans,0
-2007-01,The Chords,0
-2007-01,The Eddies,2
-2007-01,The Jam,0
-2007-01,The Merton Parkas,0
-2007-01,The Moment,0
-2007-01,The Risk,0
-2007-01,The Shambles,26
-2007-01,The Stone Roses,0
-2007-01,The Who,3
-2007-02,Eleanor Rigby,0
-2007-02,Makin' Time,0
-2007-02,Oasis,0
-2007-02,Ocean Colour Scene,0
-2007-02,Paul Weller,22
-2007-02,Rinaldi Sings,0
-2007-02,Secret Affair,20
-2007-02,Small Faces,0
-2007-02,Squire,0
-2007-02,Suede,7
-2007-02,The Charlatans,10
-2007-02,The Chords,7
-2007-02,The Eddies,0
-2007-02,The Jam,0
-2007-02,The Merton Parkas,0
-2007-02,The Moment,0
-2007-02,The Risk,0
-2007-02,The Shambles,0
-2007-02,The Stone Roses,0
-2007-02,The Who,0
-2007-03,Eleanor Rigby,0
-2007-03,Makin' Time,28
-2007-03,Oasis,0
-2007-03,Ocean Colour Scene,0
-2007-03,Paul Weller,0
-2007-03,Rinaldi Sings,0
-2007-03,Secret Affair,0
-2007-03,Small Faces,0
-2007-03,Squire,0
-2007-03,Suede,21
-2007-03,The Charlatans,0
-2007-03,The Chords,0
-2007-03,The Eddies,0
-2007-03,The Jam,0
-2007-03,The Merton Parkas,0
-2007-03,The Moment,0
-2007-03,The Risk,0
-2007-03,The Shambles,13
-2007-03,The Stone Roses,44
-2007-03,The Who,0
-2007-04,Eleanor Rigby,0
-2007-04,Makin' Time,0
-2007-04,Oasis,0
-2007-04,Ocean Colour Scene,0
-2007-04,Paul Weller,0
-2007-04,Rinaldi Sings,0
-2007-04,Secret Affair,0
-2007-04,Small Faces,0
-2007-04,Squire,0
-2007-04,Suede,0
-2007-04,The Charlatans,0
-2007-04,The Chords,0
-2007-04,The Eddies,0
-2007-04,The Jam,0
-2007-04,The Merton Parkas,0
-2007-04,The Moment,0
-2007-04,The Risk,0
-2007-04,The Shambles,0
-2007-04,The Stone Roses,0
-2007-04,The Who,0
-2007-05,Eleanor Rigby,0
-2007-05,Makin' Time,0
-2007-05,Oasis,0
-2007-05,Ocean Colour Scene,0
-2007-05,Paul Weller,0
-2007-05,Rinaldi Sings,0
-2007-05,Secret Affair,0
-2007-05,Small Faces,0
-2007-05,Squire,0
-2007-05,Suede,0
-2007-05,The Charlatans,0
-2007-05,The Chords,0
-2007-05,The Eddies,0
-2007-05,The Jam,2
-2007-05,The Merton Parkas,0
-2007-05,The Moment,0
-2007-05,The Risk,0
-2007-05,The Shambles,11
-2007-05,The Stone Roses,19
-2007-05,The Who,0
-2007-06,Eleanor Rigby,0
-2007-06,Makin' Time,0
-2007-06,Oasis,19
-2007-06,Ocean Colour Scene,0
-2007-06,Paul Weller,0
-2007-06,Rinaldi Sings,0
-2007-06,Secret Affair,0
-2007-06,Small Faces,0
-2007-06,Squire,37
-2007-06,Suede,0
-2007-06,The Charlatans,0
-2007-06,The Chords,22
-2007-06,The Eddies,0
-2007-06,The Jam,0
-2007-06,The Merton Parkas,0
-2007-06,The Moment,0
-2007-06,The Risk,0
-2007-06,The Shambles,0
-2007-06,The Stone Roses,0
-2007-06,The Who,0
-2007-07,Eleanor Rigby,11
-2007-07,Makin' Time,22
-2007-07,Oasis,0
-2007-07,Ocean Colour Scene,11
-2007-07,Paul Weller,0
-2007-07,Rinaldi Sings,0
-2007-07,Secret Affair,37
-2007-07,Small Faces,0
-2007-07,Squire,0
-2007-07,Suede,0
-2007-07,The Charlatans,0
-2007-07,The Chords,0
-2007-07,The Eddies,0
-2007-07,The Jam,0
-2007-07,The Merton Parkas,0
-2007-07,The Moment,2
-2007-07,The Risk,0
-2007-07,The Shambles,0
-2007-07,The Stone Roses,0
-2007-07,The Who,0
-2007-08,Eleanor Rigby,0
-2007-08,Makin' Time,1
-2007-08,Oasis,0
-2007-08,Ocean Colour Scene,0
-2007-08,Paul Weller,0
-2007-08,Rinaldi Sings,0
-2007-08,Secret Affair,0
-2007-08,Small Faces,0
-2007-08,Squire,1
-2007-08,Suede,16
-2007-08,The Charlatans,0
-2007-08,The Chords,0
-2007-08,The Eddies,0
-2007-08,The Jam,0
-2007-08,The Merton Parkas,0
-2007-08,The Moment,0
-2007-08,The Risk,0
-2007-08,The Shambles,0
-2007-08,The Stone Roses,11
-2007-08,The Who,0
-2007-09,Eleanor Rigby,0
-2007-09,Makin' Time,0
-2007-09,Oasis,0
-2007-09,Ocean Colour Scene,0
-2007-09,Paul Weller,0
-2007-09,Rinaldi Sings,0
-2007-09,Secret Affair,0
-2007-09,Small Faces,0
-2007-09,Squire,0
-2007-09,Suede,0
-2007-09,The Charlatans,0
-2007-09,The Chords,0
-2007-09,The Eddies,0
-2007-09,The Jam,0
-2007-09,The Merton Parkas,0
-2007-09,The Moment,0
-2007-09,The Risk,0
-2007-09,The Shambles,0
-2007-09,The Stone Roses,0
-2007-09,The Who,0
-2007-10,Eleanor Rigby,0
-2007-10,Makin' Time,0
-2007-10,Oasis,0
-2007-10,Ocean Colour Scene,0
-2007-10,Paul Weller,0
-2007-10,Rinaldi Sings,0
-2007-10,Secret Affair,0
-2007-10,Small Faces,0
-2007-10,Squire,0
-2007-10,Suede,0
-2007-10,The Charlatans,0
-2007-10,The Chords,0
-2007-10,The Eddies,0
-2007-10,The Jam,0
-2007-10,The Merton Parkas,0
-2007-10,The Moment,0
-2007-10,The Risk,0
-2007-10,The Shambles,0
-2007-10,The Stone Roses,0
-2007-10,The Who,0
-2007-11,Eleanor Rigby,0
-2007-11,Makin' Time,0
-2007-11,Oasis,0
-2007-11,Ocean Colour Scene,0
-2007-11,Paul Weller,0
-2007-11,Rinaldi Sings,0
-2007-11,Secret Affair,0
-2007-11,Small Faces,0
-2007-11,Squire,0
-2007-11,Suede,0
-2007-11,The Charlatans,0
-2007-11,The Chords,0
-2007-11,The Eddies,0
-2007-11,The Jam,0
-2007-11,The Merton Parkas,0
-2007-11,The Moment,0
-2007-11,The Risk,0
-2007-11,The Shambles,0
-2007-11,The Stone Roses,0
-2007-11,The Who,0
-2007-12,Eleanor Rigby,0
-2007-12,Makin' Time,0
-2007-12,Oasis,0
-2007-12,Ocean Colour Scene,0
-2007-12,Paul Weller,0
-2007-12,Rinaldi Sings,0
-2007-12,Secret Affair,0
-2007-12,Small Faces,0
-2007-12,Squire,0
-2007-12,Suede,0
-2007-12,The Charlatans,0
-2007-12,The Chords,0
-2007-12,The Eddies,0
-2007-12,The Jam,0
-2007-12,The Merton Parkas,0
-2007-12,The Moment,0
-2007-12,The Risk,0
-2007-12,The Shambles,0
-2007-12,The Stone Roses,0
-2007-12,The Who,0
-2008-01,Eleanor Rigby,0
-2008-01,Makin' Time,0
-2008-01,Oasis,0
-2008-01,Ocean Colour Scene,0
-2008-01,Paul Weller,0
-2008-01,Rinaldi Sings,0
-2008-01,Secret Affair,0
-2008-01,Small Faces,0
-2008-01,Squire,0
-2008-01,Suede,0
-2008-01,The Charlatans,0
-2008-01,The Chords,0
-2008-01,The Eddies,0
-2008-01,The Jam,0
-2008-01,The Merton Parkas,0
-2008-01,The Moment,0
-2008-01,The Risk,0
-2008-01,The Shambles,0
-2008-01,The Stone Roses,0
-2008-01,The Who,0
-2008-02,Eleanor Rigby,0
-2008-02,Makin' Time,0
-2008-02,Oasis,0
-2008-02,Ocean Colour Scene,0
-2008-02,Paul Weller,0
-2008-02,Rinaldi Sings,0
-2008-02,Secret Affair,0
-2008-02,Small Faces,0
-2008-02,Squire,0
-2008-02,Suede,0
-2008-02,The Charlatans,0
-2008-02,The Chords,0
-2008-02,The Eddies,0
-2008-02,The Jam,0
-2008-02,The Merton Parkas,0
-2008-02,The Moment,0
-2008-02,The Risk,0
-2008-02,The Shambles,0
-2008-02,The Stone Roses,0
-2008-02,The Who,0
-2008-03,Eleanor Rigby,0
-2008-03,Makin' Time,0
-2008-03,Oasis,0
-2008-03,Ocean Colour Scene,0
-2008-03,Paul Weller,0
-2008-03,Rinaldi Sings,0
-2008-03,Secret Affair,0
-2008-03,Small Faces,0
-2008-03,Squire,0
-2008-03,Suede,0
-2008-03,The Charlatans,0
-2008-03,The Chords,0
-2008-03,The Eddies,0
-2008-03,The Jam,0
-2008-03,The Merton Parkas,0
-2008-03,The Moment,0
-2008-03,The Risk,0
-2008-03,The Shambles,0
-2008-03,The Stone Roses,0
-2008-03,The Who,0
-2008-04,Eleanor Rigby,0
-2008-04,Makin' Time,0
-2008-04,Oasis,0
-2008-04,Ocean Colour Scene,0
-2008-04,Paul Weller,0
-2008-04,Rinaldi Sings,0
-2008-04,Secret Affair,0
-2008-04,Small Faces,0
-2008-04,Squire,0
-2008-04,Suede,0
-2008-04,The Charlatans,0
-2008-04,The Chords,0
-2008-04,The Eddies,0
-2008-04,The Jam,0
-2008-04,The Merton Parkas,0
-2008-04,The Moment,0
-2008-04,The Risk,0
-2008-04,The Shambles,0
-2008-04,The Stone Roses,0
-2008-04,The Who,0
-2008-05,Eleanor Rigby,0
-2008-05,Makin' Time,0
-2008-05,Oasis,0
-2008-05,Ocean Colour Scene,0
-2008-05,Paul Weller,0
-2008-05,Rinaldi Sings,0
-2008-05,Secret Affair,0
-2008-05,Small Faces,0
-2008-05,Squire,0
-2008-05,Suede,0
-2008-05,The Charlatans,0
-2008-05,The Chords,0
-2008-05,The Eddies,0
-2008-05,The Jam,0
-2008-05,The Merton Parkas,0
-2008-05,The Moment,0
-2008-05,The Risk,0
-2008-05,The Shambles,0
-2008-05,The Stone Roses,0
-2008-05,The Who,0
-2008-06,Eleanor Rigby,0
-2008-06,Makin' Time,0
-2008-06,Oasis,0
-2008-06,Ocean Colour Scene,0
-2008-06,Paul Weller,0
-2008-06,Rinaldi Sings,71
-2008-06,Secret Affair,0
-2008-06,Small Faces,0
-2008-06,Squire,47
-2008-06,Suede,0
-2008-06,The Charlatans,0
-2008-06,The Chords,0
-2008-06,The Eddies,0
-2008-06,The Jam,4
-2008-06,The Merton Parkas,0
-2008-06,The Moment,0
-2008-06,The Risk,0
-2008-06,The Shambles,0
-2008-06,The Stone Roses,0
-2008-06,The Who,0
-2008-07,Eleanor Rigby,0
-2008-07,Makin' Time,0
-2008-07,Oasis,0
-2008-07,Ocean Colour Scene,0
-2008-07,Paul Weller,0
-2008-07,Rinaldi Sings,0
-2008-07,Secret Affair,0
-2008-07,Small Faces,0
-2008-07,Squire,0
-2008-07,Suede,0
-2008-07,The Charlatans,0
-2008-07,The Chords,0
-2008-07,The Eddies,0
-2008-07,The Jam,0
-2008-07,The Merton Parkas,0
-2008-07,The Moment,0
-2008-07,The Risk,0
-2008-07,The Shambles,0
-2008-07,The Stone Roses,0
-2008-07,The Who,0
-2008-08,Eleanor Rigby,0
-2008-08,Makin' Time,0
-2008-08,Oasis,0
-2008-08,Ocean Colour Scene,0
-2008-08,Paul Weller,0
-2008-08,Rinaldi Sings,0
-2008-08,Secret Affair,0
-2008-08,Small Faces,0
-2008-08,Squire,0
-2008-08,Suede,0
-2008-08,The Charlatans,0
-2008-08,The Chords,0
-2008-08,The Eddies,0
-2008-08,The Jam,0
-2008-08,The Merton Parkas,0
-2008-08,The Moment,0
-2008-08,The Risk,0
-2008-08,The Shambles,0
-2008-08,The Stone Roses,0
-2008-08,The Who,0
-2008-09,Eleanor Rigby,0
-2008-09,Makin' Time,0
-2008-09,Oasis,0
-2008-09,Ocean Colour Scene,0
-2008-09,Paul Weller,0
-2008-09,Rinaldi Sings,0
-2008-09,Secret Affair,0
-2008-09,Small Faces,0
-2008-09,Squire,0
-2008-09,Suede,0
-2008-09,The Charlatans,0
-2008-09,The Chords,0
-2008-09,The Eddies,0
-2008-09,The Jam,0
-2008-09,The Merton Parkas,0
-2008-09,The Moment,0
-2008-09,The Risk,0
-2008-09,The Shambles,0
-2008-09,The Stone Roses,0
-2008-09,The Who,0
-2008-10,Eleanor Rigby,0
-2008-10,Makin' Time,0
-2008-10,Oasis,0
-2008-10,Ocean Colour Scene,0
-2008-10,Paul Weller,0
-2008-10,Rinaldi Sings,0
-2008-10,Secret Affair,0
-2008-10,Small Faces,0
-2008-10,Squire,0
-2008-10,Suede,0
-2008-10,The Charlatans,0
-2008-10,The Chords,0
-2008-10,The Eddies,0
-2008-10,The Jam,0
-2008-10,The Merton Parkas,0
-2008-10,The Moment,0
-2008-10,The Risk,0
-2008-10,The Shambles,0
-2008-10,The Stone Roses,0
-2008-10,The Who,0
-2008-11,Eleanor Rigby,0
-2008-11,Makin' Time,0
-2008-11,Oasis,0
-2008-11,Ocean Colour Scene,0
-2008-11,Paul Weller,0
-2008-11,Rinaldi Sings,0
-2008-11,Secret Affair,0
-2008-11,Small Faces,0
-2008-11,Squire,0
-2008-11,Suede,0
-2008-11,The Charlatans,0
-2008-11,The Chords,0
-2008-11,The Eddies,0
-2008-11,The Jam,0
-2008-11,The Merton Parkas,0
-2008-11,The Moment,0
-2008-11,The Risk,0
-2008-11,The Shambles,0
-2008-11,The Stone Roses,0
-2008-11,The Who,0
-2008-12,Eleanor Rigby,0
-2008-12,Makin' Time,0
-2008-12,Oasis,0
-2008-12,Ocean Colour Scene,0
-2008-12,Paul Weller,0
-2008-12,Rinaldi Sings,17
-2008-12,Secret Affair,0
-2008-12,Small Faces,0
-2008-12,Squire,14
-2008-12,Suede,0
-2008-12,The Charlatans,0
-2008-12,The Chords,0
-2008-12,The Eddies,2
-2008-12,The Jam,0
-2008-12,The Merton Parkas,0
-2008-12,The Moment,0
-2008-12,The Risk,1
-2008-12,The Shambles,1
-2008-12,The Stone Roses,0
-2008-12,The Who,0
+"month","artist","plays"
+"2006-04","Eleanor Rigby",10
+"2006-04","Makin' Time",22
+"2006-04","Oasis",0
+"2006-04","Ocean Colour Scene",4
+"2006-04","Paul Weller",43
+"2006-04","Rinaldi Sings",28
+"2006-04","Secret Affair",1
+"2006-04","Small Faces",19
+"2006-04","Squire",1
+"2006-04","Suede",1
+"2006-04","The Charlatans",2
+"2006-04","The Chords",11
+"2006-04","The Eddies",0
+"2006-04","The Jam",18
+"2006-04","The Merton Parkas",7
+"2006-04","The Moment",16
+"2006-04","The Risk",1
+"2006-04","The Shambles",0
+"2006-04","The Stone Roses",10
+"2006-04","The Who",7
+"2006-05","Eleanor Rigby",49
+"2006-05","Makin' Time",66
+"2006-05","Oasis",54
+"2006-05","Ocean Colour Scene",35
+"2006-05","Paul Weller",12
+"2006-05","Rinaldi Sings",30
+"2006-05","Secret Affair",19
+"2006-05","Small Faces",19
+"2006-05","Squire",130
+"2006-05","Suede",0
+"2006-05","The Charlatans",0
+"2006-05","The Chords",3
+"2006-05","The Eddies",33
+"2006-05","The Jam",53
+"2006-05","The Merton Parkas",62
+"2006-05","The Moment",3
+"2006-05","The Risk",2
+"2006-05","The Shambles",120
+"2006-05","The Stone Roses",0
+"2006-05","The Who",0
+"2006-06","Eleanor Rigby",26
+"2006-06","Makin' Time",23
+"2006-06","Oasis",81
+"2006-06","Ocean Colour Scene",7
+"2006-06","Paul Weller",2
+"2006-06","Rinaldi Sings",11
+"2006-06","Secret Affair",0
+"2006-06","Small Faces",0
+"2006-06","Squire",55
+"2006-06","Suede",0
+"2006-06","The Charlatans",10
+"2006-06","The Chords",1
+"2006-06","The Eddies",16
+"2006-06","The Jam",61
+"2006-06","The Merton Parkas",11
+"2006-06","The Moment",2
+"2006-06","The Risk",1
+"2006-06","The Shambles",24
+"2006-06","The Stone Roses",66
+"2006-06","The Who",0
+"2006-07","Eleanor Rigby",0
+"2006-07","Makin' Time",0
+"2006-07","Oasis",81
+"2006-07","Ocean Colour Scene",90
+"2006-07","Paul Weller",43
+"2006-07","Rinaldi Sings",7
+"2006-07","Secret Affair",9
+"2006-07","Small Faces",87
+"2006-07","Squire",0
+"2006-07","Suede",67
+"2006-07","The Charlatans",25
+"2006-07","The Chords",2
+"2006-07","The Eddies",1
+"2006-07","The Jam",11
+"2006-07","The Merton Parkas",5
+"2006-07","The Moment",1
+"2006-07","The Risk",1
+"2006-07","The Shambles",20
+"2006-07","The Stone Roses",45
+"2006-07","The Who",24
+"2006-08","Eleanor Rigby",0
+"2006-08","Makin' Time",22
+"2006-08","Oasis",11
+"2006-08","Ocean Colour Scene",0
+"2006-08","Paul Weller",18
+"2006-08","Rinaldi Sings",12
+"2006-08","Secret Affair",0
+"2006-08","Small Faces",132
+"2006-08","Squire",48
+"2006-08","Suede",0
+"2006-08","The Charlatans",17
+"2006-08","The Chords",0
+"2006-08","The Eddies",30
+"2006-08","The Jam",11
+"2006-08","The Merton Parkas",22
+"2006-08","The Moment",2
+"2006-08","The Risk",1
+"2006-08","The Shambles",0
+"2006-08","The Stone Roses",0
+"2006-08","The Who",16
+"2006-09","Eleanor Rigby",0
+"2006-09","Makin' Time",23
+"2006-09","Oasis",11
+"2006-09","Ocean Colour Scene",40
+"2006-09","Paul Weller",37
+"2006-09","Rinaldi Sings",3
+"2006-09","Secret Affair",0
+"2006-09","Small Faces",100
+"2006-09","Squire",17
+"2006-09","Suede",20
+"2006-09","The Charlatans",0
+"2006-09","The Chords",1
+"2006-09","The Eddies",4
+"2006-09","The Jam",47
+"2006-09","The Merton Parkas",22
+"2006-09","The Moment",4
+"2006-09","The Risk",0
+"2006-09","The Shambles",24
+"2006-09","The Stone Roses",33
+"2006-09","The Who",30
+"2006-10","Eleanor Rigby",0
+"2006-10","Makin' Time",0
+"2006-10","Oasis",0
+"2006-10","Ocean Colour Scene",0
+"2006-10","Paul Weller",1
+"2006-10","Rinaldi Sings",10
+"2006-10","Secret Affair",0
+"2006-10","Small Faces",0
+"2006-10","Squire",32
+"2006-10","Suede",0
+"2006-10","The Charlatans",20
+"2006-10","The Chords",0
+"2006-10","The Eddies",0
+"2006-10","The Jam",0
+"2006-10","The Merton Parkas",0
+"2006-10","The Moment",0
+"2006-10","The Risk",0
+"2006-10","The Shambles",0
+"2006-10","The Stone Roses",0
+"2006-10","The Who",16
+"2006-11","Eleanor Rigby",10
+"2006-11","Makin' Time",22
+"2006-11","Oasis",11
+"2006-11","Ocean Colour Scene",0
+"2006-11","Paul Weller",0
+"2006-11","Rinaldi Sings",0
+"2006-11","Secret Affair",20
+"2006-11","Small Faces",4
+"2006-11","Squire",1
+"2006-11","Suede",10
+"2006-11","The Charlatans",0
+"2006-11","The Chords",36
+"2006-11","The Eddies",0
+"2006-11","The Jam",0
+"2006-11","The Merton Parkas",0
+"2006-11","The Moment",0
+"2006-11","The Risk",2
+"2006-11","The Shambles",11
+"2006-11","The Stone Roses",0
+"2006-11","The Who",0
+"2006-12","Eleanor Rigby",12
+"2006-12","Makin' Time",0
+"2006-12","Oasis",0
+"2006-12","Ocean Colour Scene",0
+"2006-12","Paul Weller",0
+"2006-12","Rinaldi Sings",0
+"2006-12","Secret Affair",0
+"2006-12","Small Faces",34
+"2006-12","Squire",52
+"2006-12","Suede",21
+"2006-12","The Charlatans",0
+"2006-12","The Chords",23
+"2006-12","The Eddies",0
+"2006-12","The Jam",0
+"2006-12","The Merton Parkas",0
+"2006-12","The Moment",0
+"2006-12","The Risk",0
+"2006-12","The Shambles",0
+"2006-12","The Stone Roses",0
+"2006-12","The Who",0
+"2007-01","Eleanor Rigby",0
+"2007-01","Makin' Time",0
+"2007-01","Oasis",0
+"2007-01","Ocean Colour Scene",0
+"2007-01","Paul Weller",0
+"2007-01","Rinaldi Sings",8
+"2007-01","Secret Affair",0
+"2007-01","Small Faces",0
+"2007-01","Squire",37
+"2007-01","Suede",11
+"2007-01","The Charlatans",0
+"2007-01","The Chords",0
+"2007-01","The Eddies",2
+"2007-01","The Jam",0
+"2007-01","The Merton Parkas",0
+"2007-01","The Moment",0
+"2007-01","The Risk",0
+"2007-01","The Shambles",26
+"2007-01","The Stone Roses",0
+"2007-01","The Who",3
+"2007-02","Eleanor Rigby",0
+"2007-02","Makin' Time",0
+"2007-02","Oasis",0
+"2007-02","Ocean Colour Scene",0
+"2007-02","Paul Weller",22
+"2007-02","Rinaldi Sings",0
+"2007-02","Secret Affair",20
+"2007-02","Small Faces",0
+"2007-02","Squire",0
+"2007-02","Suede",7
+"2007-02","The Charlatans",10
+"2007-02","The Chords",7
+"2007-02","The Eddies",0
+"2007-02","The Jam",0
+"2007-02","The Merton Parkas",0
+"2007-02","The Moment",0
+"2007-02","The Risk",0
+"2007-02","The Shambles",0
+"2007-02","The Stone Roses",0
+"2007-02","The Who",0
+"2007-03","Eleanor Rigby",0
+"2007-03","Makin' Time",28
+"2007-03","Oasis",0
+"2007-03","Ocean Colour Scene",0
+"2007-03","Paul Weller",0
+"2007-03","Rinaldi Sings",0
+"2007-03","Secret Affair",0
+"2007-03","Small Faces",0
+"2007-03","Squire",0
+"2007-03","Suede",21
+"2007-03","The Charlatans",0
+"2007-03","The Chords",0
+"2007-03","The Eddies",0
+"2007-03","The Jam",0
+"2007-03","The Merton Parkas",0
+"2007-03","The Moment",0
+"2007-03","The Risk",0
+"2007-03","The Shambles",13
+"2007-03","The Stone Roses",44
+"2007-03","The Who",0
+"2007-04","Eleanor Rigby",0
+"2007-04","Makin' Time",0
+"2007-04","Oasis",0
+"2007-04","Ocean Colour Scene",0
+"2007-04","Paul Weller",0
+"2007-04","Rinaldi Sings",0
+"2007-04","Secret Affair",0
+"2007-04","Small Faces",0
+"2007-04","Squire",0
+"2007-04","Suede",0
+"2007-04","The Charlatans",0
+"2007-04","The Chords",0
+"2007-04","The Eddies",0
+"2007-04","The Jam",0
+"2007-04","The Merton Parkas",0
+"2007-04","The Moment",0
+"2007-04","The Risk",0
+"2007-04","The Shambles",0
+"2007-04","The Stone Roses",0
+"2007-04","The Who",0
+"2007-05","Eleanor Rigby",0
+"2007-05","Makin' Time",0
+"2007-05","Oasis",0
+"2007-05","Ocean Colour Scene",0
+"2007-05","Paul Weller",0
+"2007-05","Rinaldi Sings",0
+"2007-05","Secret Affair",0
+"2007-05","Small Faces",0
+"2007-05","Squire",0
+"2007-05","Suede",0
+"2007-05","The Charlatans",0
+"2007-05","The Chords",0
+"2007-05","The Eddies",0
+"2007-05","The Jam",2
+"2007-05","The Merton Parkas",0
+"2007-05","The Moment",0
+"2007-05","The Risk",0
+"2007-05","The Shambles",11
+"2007-05","The Stone Roses",19
+"2007-05","The Who",0
+"2007-06","Eleanor Rigby",0
+"2007-06","Makin' Time",0
+"2007-06","Oasis",19
+"2007-06","Ocean Colour Scene",0
+"2007-06","Paul Weller",0
+"2007-06","Rinaldi Sings",0
+"2007-06","Secret Affair",0
+"2007-06","Small Faces",0
+"2007-06","Squire",37
+"2007-06","Suede",0
+"2007-06","The Charlatans",0
+"2007-06","The Chords",22
+"2007-06","The Eddies",0
+"2007-06","The Jam",0
+"2007-06","The Merton Parkas",0
+"2007-06","The Moment",0
+"2007-06","The Risk",0
+"2007-06","The Shambles",0
+"2007-06","The Stone Roses",0
+"2007-06","The Who",0
+"2007-07","Eleanor Rigby",11
+"2007-07","Makin' Time",22
+"2007-07","Oasis",0
+"2007-07","Ocean Colour Scene",11
+"2007-07","Paul Weller",0
+"2007-07","Rinaldi Sings",0
+"2007-07","Secret Affair",37
+"2007-07","Small Faces",0
+"2007-07","Squire",0
+"2007-07","Suede",0
+"2007-07","The Charlatans",0
+"2007-07","The Chords",0
+"2007-07","The Eddies",0
+"2007-07","The Jam",0
+"2007-07","The Merton Parkas",0
+"2007-07","The Moment",2
+"2007-07","The Risk",0
+"2007-07","The Shambles",0
+"2007-07","The Stone Roses",0
+"2007-07","The Who",0
+"2007-08","Eleanor Rigby",0
+"2007-08","Makin' Time",1
+"2007-08","Oasis",0
+"2007-08","Ocean Colour Scene",0
+"2007-08","Paul Weller",0
+"2007-08","Rinaldi Sings",0
+"2007-08","Secret Affair",0
+"2007-08","Small Faces",0
+"2007-08","Squire",1
+"2007-08","Suede",16
+"2007-08","The Charlatans",0
+"2007-08","The Chords",0
+"2007-08","The Eddies",0
+"2007-08","The Jam",0
+"2007-08","The Merton Parkas",0
+"2007-08","The Moment",0
+"2007-08","The Risk",0
+"2007-08","The Shambles",0
+"2007-08","The Stone Roses",11
+"2007-08","The Who",0
+"2007-09","Eleanor Rigby",0
+"2007-09","Makin' Time",0
+"2007-09","Oasis",0
+"2007-09","Ocean Colour Scene",0
+"2007-09","Paul Weller",0
+"2007-09","Rinaldi Sings",0
+"2007-09","Secret Affair",0
+"2007-09","Small Faces",0
+"2007-09","Squire",0
+"2007-09","Suede",0
+"2007-09","The Charlatans",0
+"2007-09","The Chords",0
+"2007-09","The Eddies",0
+"2007-09","The Jam",0
+"2007-09","The Merton Parkas",0
+"2007-09","The Moment",0
+"2007-09","The Risk",0
+"2007-09","The Shambles",0
+"2007-09","The Stone Roses",0
+"2007-09","The Who",0
+"2007-10","Eleanor Rigby",0
+"2007-10","Makin' Time",0
+"2007-10","Oasis",0
+"2007-10","Ocean Colour Scene",0
+"2007-10","Paul Weller",0
+"2007-10","Rinaldi Sings",0
+"2007-10","Secret Affair",0
+"2007-10","Small Faces",0
+"2007-10","Squire",0
+"2007-10","Suede",0
+"2007-10","The Charlatans",0
+"2007-10","The Chords",0
+"2007-10","The Eddies",0
+"2007-10","The Jam",0
+"2007-10","The Merton Parkas",0
+"2007-10","The Moment",0
+"2007-10","The Risk",0
+"2007-10","The Shambles",0
+"2007-10","The Stone Roses",0
+"2007-10","The Who",0
+"2007-11","Eleanor Rigby",0
+"2007-11","Makin' Time",0
+"2007-11","Oasis",0
+"2007-11","Ocean Colour Scene",0
+"2007-11","Paul Weller",0
+"2007-11","Rinaldi Sings",0
+"2007-11","Secret Affair",0
+"2007-11","Small Faces",0
+"2007-11","Squire",0
+"2007-11","Suede",0
+"2007-11","The Charlatans",0
+"2007-11","The Chords",0
+"2007-11","The Eddies",0
+"2007-11","The Jam",0
+"2007-11","The Merton Parkas",0
+"2007-11","The Moment",0
+"2007-11","The Risk",0
+"2007-11","The Shambles",0
+"2007-11","The Stone Roses",0
+"2007-11","The Who",0
+"2007-12","Eleanor Rigby",0
+"2007-12","Makin' Time",0
+"2007-12","Oasis",0
+"2007-12","Ocean Colour Scene",0
+"2007-12","Paul Weller",0
+"2007-12","Rinaldi Sings",0
+"2007-12","Secret Affair",0
+"2007-12","Small Faces",0
+"2007-12","Squire",0
+"2007-12","Suede",0
+"2007-12","The Charlatans",0
+"2007-12","The Chords",0
+"2007-12","The Eddies",0
+"2007-12","The Jam",0
+"2007-12","The Merton Parkas",0
+"2007-12","The Moment",0
+"2007-12","The Risk",0
+"2007-12","The Shambles",0
+"2007-12","The Stone Roses",0
+"2007-12","The Who",0
+"2008-01","Eleanor Rigby",0
+"2008-01","Makin' Time",0
+"2008-01","Oasis",0
+"2008-01","Ocean Colour Scene",0
+"2008-01","Paul Weller",0
+"2008-01","Rinaldi Sings",0
+"2008-01","Secret Affair",0
+"2008-01","Small Faces",0
+"2008-01","Squire",0
+"2008-01","Suede",0
+"2008-01","The Charlatans",0
+"2008-01","The Chords",0
+"2008-01","The Eddies",0
+"2008-01","The Jam",0
+"2008-01","The Merton Parkas",0
+"2008-01","The Moment",0
+"2008-01","The Risk",0
+"2008-01","The Shambles",0
+"2008-01","The Stone Roses",0
+"2008-01","The Who",0
+"2008-02","Eleanor Rigby",0
+"2008-02","Makin' Time",0
+"2008-02","Oasis",0
+"2008-02","Ocean Colour Scene",0
+"2008-02","Paul Weller",0
+"2008-02","Rinaldi Sings",0
+"2008-02","Secret Affair",0
+"2008-02","Small Faces",0
+"2008-02","Squire",0
+"2008-02","Suede",0
+"2008-02","The Charlatans",0
+"2008-02","The Chords",0
+"2008-02","The Eddies",0
+"2008-02","The Jam",0
+"2008-02","The Merton Parkas",0
+"2008-02","The Moment",0
+"2008-02","The Risk",0
+"2008-02","The Shambles",0
+"2008-02","The Stone Roses",0
+"2008-02","The Who",0
+"2008-03","Eleanor Rigby",0
+"2008-03","Makin' Time",0
+"2008-03","Oasis",0
+"2008-03","Ocean Colour Scene",0
+"2008-03","Paul Weller",0
+"2008-03","Rinaldi Sings",0
+"2008-03","Secret Affair",0
+"2008-03","Small Faces",0
+"2008-03","Squire",0
+"2008-03","Suede",0
+"2008-03","The Charlatans",0
+"2008-03","The Chords",0
+"2008-03","The Eddies",0
+"2008-03","The Jam",0
+"2008-03","The Merton Parkas",0
+"2008-03","The Moment",0
+"2008-03","The Risk",0
+"2008-03","The Shambles",0
+"2008-03","The Stone Roses",0
+"2008-03","The Who",0
+"2008-04","Eleanor Rigby",0
+"2008-04","Makin' Time",0
+"2008-04","Oasis",0
+"2008-04","Ocean Colour Scene",0
+"2008-04","Paul Weller",0
+"2008-04","Rinaldi Sings",0
+"2008-04","Secret Affair",0
+"2008-04","Small Faces",0
+"2008-04","Squire",0
+"2008-04","Suede",0
+"2008-04","The Charlatans",0
+"2008-04","The Chords",0
+"2008-04","The Eddies",0
+"2008-04","The Jam",0
+"2008-04","The Merton Parkas",0
+"2008-04","The Moment",0
+"2008-04","The Risk",0
+"2008-04","The Shambles",0
+"2008-04","The Stone Roses",0
+"2008-04","The Who",0
+"2008-05","Eleanor Rigby",0
+"2008-05","Makin' Time",0
+"2008-05","Oasis",0
+"2008-05","Ocean Colour Scene",0
+"2008-05","Paul Weller",0
+"2008-05","Rinaldi Sings",0
+"2008-05","Secret Affair",0
+"2008-05","Small Faces",0
+"2008-05","Squire",0
+"2008-05","Suede",0
+"2008-05","The Charlatans",0
+"2008-05","The Chords",0
+"2008-05","The Eddies",0
+"2008-05","The Jam",0
+"2008-05","The Merton Parkas",0
+"2008-05","The Moment",0
+"2008-05","The Risk",0
+"2008-05","The Shambles",0
+"2008-05","The Stone Roses",0
+"2008-05","The Who",0
+"2008-06","Eleanor Rigby",0
+"2008-06","Makin' Time",0
+"2008-06","Oasis",0
+"2008-06","Ocean Colour Scene",0
+"2008-06","Paul Weller",0
+"2008-06","Rinaldi Sings",71
+"2008-06","Secret Affair",0
+"2008-06","Small Faces",0
+"2008-06","Squire",47
+"2008-06","Suede",0
+"2008-06","The Charlatans",0
+"2008-06","The Chords",0
+"2008-06","The Eddies",0
+"2008-06","The Jam",4
+"2008-06","The Merton Parkas",0
+"2008-06","The Moment",0
+"2008-06","The Risk",0
+"2008-06","The Shambles",0
+"2008-06","The Stone Roses",0
+"2008-06","The Who",0
+"2008-07","Eleanor Rigby",0
+"2008-07","Makin' Time",0
+"2008-07","Oasis",0
+"2008-07","Ocean Colour Scene",0
+"2008-07","Paul Weller",0
+"2008-07","Rinaldi Sings",0
+"2008-07","Secret Affair",0
+"2008-07","Small Faces",0
+"2008-07","Squire",0
+"2008-07","Suede",0
+"2008-07","The Charlatans",0
+"2008-07","The Chords",0
+"2008-07","The Eddies",0
+"2008-07","The Jam",0
+"2008-07","The Merton Parkas",0
+"2008-07","The Moment",0
+"2008-07","The Risk",0
+"2008-07","The Shambles",0
+"2008-07","The Stone Roses",0
+"2008-07","The Who",0
+"2008-08","Eleanor Rigby",0
+"2008-08","Makin' Time",0
+"2008-08","Oasis",0
+"2008-08","Ocean Colour Scene",0
+"2008-08","Paul Weller",0
+"2008-08","Rinaldi Sings",0
+"2008-08","Secret Affair",0
+"2008-08","Small Faces",0
+"2008-08","Squire",0
+"2008-08","Suede",0
+"2008-08","The Charlatans",0
+"2008-08","The Chords",0
+"2008-08","The Eddies",0
+"2008-08","The Jam",0
+"2008-08","The Merton Parkas",0
+"2008-08","The Moment",0
+"2008-08","The Risk",0
+"2008-08","The Shambles",0
+"2008-08","The Stone Roses",0
+"2008-08","The Who",0
+"2008-09","Eleanor Rigby",0
+"2008-09","Makin' Time",0
+"2008-09","Oasis",0
+"2008-09","Ocean Colour Scene",0
+"2008-09","Paul Weller",0
+"2008-09","Rinaldi Sings",0
+"2008-09","Secret Affair",0
+"2008-09","Small Faces",0
+"2008-09","Squire",0
+"2008-09","Suede",0
+"2008-09","The Charlatans",0
+"2008-09","The Chords",0
+"2008-09","The Eddies",0
+"2008-09","The Jam",0
+"2008-09","The Merton Parkas",0
+"2008-09","The Moment",0
+"2008-09","The Risk",0
+"2008-09","The Shambles",0
+"2008-09","The Stone Roses",0
+"2008-09","The Who",0
+"2008-10","Eleanor Rigby",0
+"2008-10","Makin' Time",0
+"2008-10","Oasis",0
+"2008-10","Ocean Colour Scene",0
+"2008-10","Paul Weller",0
+"2008-10","Rinaldi Sings",0
+"2008-10","Secret Affair",0
+"2008-10","Small Faces",0
+"2008-10","Squire",0
+"2008-10","Suede",0
+"2008-10","The Charlatans",0
+"2008-10","The Chords",0
+"2008-10","The Eddies",0
+"2008-10","The Jam",0
+"2008-10","The Merton Parkas",0
+"2008-10","The Moment",0
+"2008-10","The Risk",0
+"2008-10","The Shambles",0
+"2008-10","The Stone Roses",0
+"2008-10","The Who",0
+"2008-11","Eleanor Rigby",0
+"2008-11","Makin' Time",0
+"2008-11","Oasis",0
+"2008-11","Ocean Colour Scene",0
+"2008-11","Paul Weller",0
+"2008-11","Rinaldi Sings",0
+"2008-11","Secret Affair",0
+"2008-11","Small Faces",0
+"2008-11","Squire",0
+"2008-11","Suede",0
+"2008-11","The Charlatans",0
+"2008-11","The Chords",0
+"2008-11","The Eddies",0
+"2008-11","The Jam",0
+"2008-11","The Merton Parkas",0
+"2008-11","The Moment",0
+"2008-11","The Risk",0
+"2008-11","The Shambles",0
+"2008-11","The Stone Roses",0
+"2008-11","The Who",0
+"2008-12","Eleanor Rigby",0
+"2008-12","Makin' Time",0
+"2008-12","Oasis",0
+"2008-12","Ocean Colour Scene",0
+"2008-12","Paul Weller",0
+"2008-12","Rinaldi Sings",17
+"2008-12","Secret Affair",0
+"2008-12","Small Faces",0
+"2008-12","Squire",14
+"2008-12","Suede",0
+"2008-12","The Charlatans",0
+"2008-12","The Chords",0
+"2008-12","The Eddies",2
+"2008-12","The Jam",0
+"2008-12","The Merton Parkas",0
+"2008-12","The Moment",0
+"2008-12","The Risk",1
+"2008-12","The Shambles",1
+"2008-12","The Stone Roses",0
+"2008-12","The Who",0

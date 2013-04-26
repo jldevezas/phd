@@ -1,81 +1,81 @@
-month,artist,plays
-2009-02,Alela Diane,0
-2009-02,Azure Ray,0
-2009-02,Bitter:Sweet,0
-2009-02,Black Rebel Motorcycle Club,0
-2009-02,Blanche,0
-2009-02,Blood Red Shoes,8
-2009-02,Booker T. & The Mg'S,0
-2009-02,Chuck Berry,0
-2009-02,Cream,1
-2009-02,Devics,0
-2009-02,Hank Williams, Jr.,0
-2009-02,Holly Golightly,0
-2009-02,Johnny Foreigner,1
-2009-02,Little Walter,1
-2009-02,Seasick Steve,7
-2009-02,The Dead Weather,0
-2009-02,The Dø,6
-2009-02,The Duke Spirit,15
-2009-02,The Jimi Hendrix Experience,2
-2009-02,The White Stripes,2
-2009-03,Alela Diane,4
-2009-03,Azure Ray,2
-2009-03,Bitter:Sweet,1
-2009-03,Black Rebel Motorcycle Club,2
-2009-03,Blanche,18
-2009-03,Blood Red Shoes,10
-2009-03,Booker T. & The Mg'S,1
-2009-03,Chuck Berry,1
-2009-03,Cream,1
-2009-03,Devics,1
-2009-03,Hank Williams, Jr.,1
-2009-03,Holly Golightly,1
-2009-03,Johnny Foreigner,1
-2009-03,Little Walter,1
-2009-03,Seasick Steve,1
-2009-03,The Dead Weather,3
-2009-03,The Dø,1
-2009-03,The Duke Spirit,2
-2009-03,The Jimi Hendrix Experience,1
-2009-03,The White Stripes,1
-2009-04,Alela Diane,3
-2009-04,Azure Ray,1
-2009-04,Bitter:Sweet,1
-2009-04,Black Rebel Motorcycle Club,2
-2009-04,Blanche,3
-2009-04,Blood Red Shoes,1
-2009-04,Booker T. & The Mg'S,0
-2009-04,Chuck Berry,1
-2009-04,Cream,1
-2009-04,Devics,4
-2009-04,Hank Williams, Jr.,1
-2009-04,Holly Golightly,1
-2009-04,Johnny Foreigner,1
-2009-04,Little Walter,1
-2009-04,Seasick Steve,9
-2009-04,The Dead Weather,3
-2009-04,The Dø,2
-2009-04,The Duke Spirit,3
-2009-04,The Jimi Hendrix Experience,1
-2009-04,The White Stripes,8
-2009-05,Alela Diane,0
-2009-05,Azure Ray,0
-2009-05,Bitter:Sweet,0
-2009-05,Black Rebel Motorcycle Club,0
-2009-05,Blanche,0
-2009-05,Blood Red Shoes,1
-2009-05,Booker T. & The Mg'S,1
-2009-05,Chuck Berry,0
-2009-05,Cream,0
-2009-05,Devics,0
-2009-05,Hank Williams, Jr.,0
-2009-05,Holly Golightly,0
-2009-05,Johnny Foreigner,0
-2009-05,Little Walter,0
-2009-05,Seasick Steve,6
-2009-05,The Dead Weather,4
-2009-05,The Dø,0
-2009-05,The Duke Spirit,0
-2009-05,The Jimi Hendrix Experience,0
-2009-05,The White Stripes,0
+"month","artist","plays"
+"2009-02","Alela Diane",0
+"2009-02","Azure Ray",0
+"2009-02","Bitter:Sweet",0
+"2009-02","Black Rebel Motorcycle Club",0
+"2009-02","Blanche",0
+"2009-02","Blood Red Shoes",8
+"2009-02","Booker T. & The Mg'S",0
+"2009-02","Chuck Berry",0
+"2009-02","Cream",1
+"2009-02","Devics",0
+"2009-02","Hank Williams, Jr.",0
+"2009-02","Holly Golightly",0
+"2009-02","Johnny Foreigner",1
+"2009-02","Little Walter",1
+"2009-02","Seasick Steve",7
+"2009-02","The Dead Weather",0
+"2009-02","The Dø",6
+"2009-02","The Duke Spirit",15
+"2009-02","The Jimi Hendrix Experience",2
+"2009-02","The White Stripes",2
+"2009-03","Alela Diane",4
+"2009-03","Azure Ray",2
+"2009-03","Bitter:Sweet",1
+"2009-03","Black Rebel Motorcycle Club",2
+"2009-03","Blanche",18
+"2009-03","Blood Red Shoes",10
+"2009-03","Booker T. & The Mg'S",1
+"2009-03","Chuck Berry",1
+"2009-03","Cream",1
+"2009-03","Devics",1
+"2009-03","Hank Williams, Jr.",1
+"2009-03","Holly Golightly",1
+"2009-03","Johnny Foreigner",1
+"2009-03","Little Walter",1
+"2009-03","Seasick Steve",1
+"2009-03","The Dead Weather",3
+"2009-03","The Dø",1
+"2009-03","The Duke Spirit",2
+"2009-03","The Jimi Hendrix Experience",1
+"2009-03","The White Stripes",1
+"2009-04","Alela Diane",3
+"2009-04","Azure Ray",1
+"2009-04","Bitter:Sweet",1
+"2009-04","Black Rebel Motorcycle Club",2
+"2009-04","Blanche",3
+"2009-04","Blood Red Shoes",1
+"2009-04","Booker T. & The Mg'S",0
+"2009-04","Chuck Berry",1
+"2009-04","Cream",1
+"2009-04","Devics",4
+"2009-04","Hank Williams, Jr.",1
+"2009-04","Holly Golightly",1
+"2009-04","Johnny Foreigner",1
+"2009-04","Little Walter",1
+"2009-04","Seasick Steve",9
+"2009-04","The Dead Weather",3
+"2009-04","The Dø",2
+"2009-04","The Duke Spirit",3
+"2009-04","The Jimi Hendrix Experience",1
+"2009-04","The White Stripes",8
+"2009-05","Alela Diane",0
+"2009-05","Azure Ray",0
+"2009-05","Bitter:Sweet",0
+"2009-05","Black Rebel Motorcycle Club",0
+"2009-05","Blanche",0
+"2009-05","Blood Red Shoes",1
+"2009-05","Booker T. & The Mg'S",1
+"2009-05","Chuck Berry",0
+"2009-05","Cream",0
+"2009-05","Devics",0
+"2009-05","Hank Williams, Jr.",0
+"2009-05","Holly Golightly",0
+"2009-05","Johnny Foreigner",0
+"2009-05","Little Walter",0
+"2009-05","Seasick Steve",6
+"2009-05","The Dead Weather",4
+"2009-05","The Dø",0
+"2009-05","The Duke Spirit",0
+"2009-05","The Jimi Hendrix Experience",0
+"2009-05","The White Stripes",0

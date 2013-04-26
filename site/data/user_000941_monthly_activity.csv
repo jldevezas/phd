@@ -1,601 +1,601 @@
-month,artist,plays
-2006-12,Athlete,4
-2006-12,Coldplay,7
-2006-12,Death Cab For Cutie,9
-2006-12,Embrace,2
-2006-12,Feeder,3
-2006-12,Jimmy Eat World,6
-2006-12,Jmfh,25
-2006-12,Keane,5
-2006-12,Kent,2
-2006-12,Muse,10
-2006-12,Oasis,10
-2006-12,Placebo,5
-2006-12,Rooney,2
-2006-12,Snow Patrol,23
-2006-12,Stereophonics,15
-2006-12,The Goo Goo Dolls,5
-2006-12,The Killers,16
-2006-12,The Perishers,2
-2006-12,Travis,4
-2006-12,Youth Group,15
-2007-01,Athlete,6
-2007-01,Coldplay,4
-2007-01,Death Cab For Cutie,9
-2007-01,Embrace,1
-2007-01,Feeder,12
-2007-01,Jimmy Eat World,12
-2007-01,Jmfh,31
-2007-01,Keane,3
-2007-01,Kent,18
-2007-01,Muse,5
-2007-01,Oasis,5
-2007-01,Placebo,2
-2007-01,Rooney,1
-2007-01,Snow Patrol,11
-2007-01,Stereophonics,4
-2007-01,The Goo Goo Dolls,6
-2007-01,The Killers,10
-2007-01,The Perishers,17
-2007-01,Travis,10
-2007-01,Youth Group,10
-2007-02,Athlete,0
-2007-02,Coldplay,0
-2007-02,Death Cab For Cutie,1
-2007-02,Embrace,0
-2007-02,Feeder,1
-2007-02,Jimmy Eat World,41
-2007-02,Jmfh,0
-2007-02,Keane,1
-2007-02,Kent,13
-2007-02,Muse,0
-2007-02,Oasis,0
-2007-02,Placebo,5
-2007-02,Rooney,1
-2007-02,Snow Patrol,1
-2007-02,Stereophonics,68
-2007-02,The Goo Goo Dolls,2
-2007-02,The Killers,1
-2007-02,The Perishers,9
-2007-02,Travis,2
-2007-02,Youth Group,0
-2007-03,Athlete,0
-2007-03,Coldplay,0
-2007-03,Death Cab For Cutie,0
-2007-03,Embrace,0
-2007-03,Feeder,166
-2007-03,Jimmy Eat World,0
-2007-03,Jmfh,1
-2007-03,Keane,0
-2007-03,Kent,0
-2007-03,Muse,1
-2007-03,Oasis,0
-2007-03,Placebo,2
-2007-03,Rooney,0
-2007-03,Snow Patrol,3
-2007-03,Stereophonics,1
-2007-03,The Goo Goo Dolls,16
-2007-03,The Killers,15
-2007-03,The Perishers,12
-2007-03,Travis,1
-2007-03,Youth Group,0
-2007-04,Athlete,3
-2007-04,Coldplay,3
-2007-04,Death Cab For Cutie,10
-2007-04,Embrace,0
-2007-04,Feeder,88
-2007-04,Jimmy Eat World,1
-2007-04,Jmfh,0
-2007-04,Keane,2
-2007-04,Kent,0
-2007-04,Muse,0
-2007-04,Oasis,0
-2007-04,Placebo,0
-2007-04,Rooney,0
-2007-04,Snow Patrol,0
-2007-04,Stereophonics,0
-2007-04,The Goo Goo Dolls,0
-2007-04,The Killers,1
-2007-04,The Perishers,0
-2007-04,Travis,37
-2007-04,Youth Group,2
-2007-05,Athlete,2
-2007-05,Coldplay,0
-2007-05,Death Cab For Cutie,0
-2007-05,Embrace,0
-2007-05,Feeder,17
-2007-05,Jimmy Eat World,0
-2007-05,Jmfh,0
-2007-05,Keane,35
-2007-05,Kent,0
-2007-05,Muse,4
-2007-05,Oasis,0
-2007-05,Placebo,1
-2007-05,Rooney,0
-2007-05,Snow Patrol,1
-2007-05,Stereophonics,0
-2007-05,The Goo Goo Dolls,3
-2007-05,The Killers,2
-2007-05,The Perishers,0
-2007-05,Travis,41
-2007-05,Youth Group,10
-2007-06,Athlete,0
-2007-06,Coldplay,1
-2007-06,Death Cab For Cutie,0
-2007-06,Embrace,0
-2007-06,Feeder,47
-2007-06,Jimmy Eat World,0
-2007-06,Jmfh,0
-2007-06,Keane,4
-2007-06,Kent,17
-2007-06,Muse,5
-2007-06,Oasis,1
-2007-06,Placebo,0
-2007-06,Rooney,0
-2007-06,Snow Patrol,1
-2007-06,Stereophonics,0
-2007-06,The Goo Goo Dolls,40
-2007-06,The Killers,0
-2007-06,The Perishers,0
-2007-06,Travis,0
-2007-06,Youth Group,0
-2007-07,Athlete,11
-2007-07,Coldplay,1
-2007-07,Death Cab For Cutie,4
-2007-07,Embrace,11
-2007-07,Feeder,28
-2007-07,Jimmy Eat World,10
-2007-07,Jmfh,18
-2007-07,Keane,20
-2007-07,Kent,3
-2007-07,Muse,3
-2007-07,Oasis,0
-2007-07,Placebo,1
-2007-07,Rooney,1
-2007-07,Snow Patrol,6
-2007-07,Stereophonics,18
-2007-07,The Goo Goo Dolls,28
-2007-07,The Killers,0
-2007-07,The Perishers,4
-2007-07,Travis,5
-2007-07,Youth Group,1
-2007-08,Athlete,2
-2007-08,Coldplay,1
-2007-08,Death Cab For Cutie,51
-2007-08,Embrace,1
-2007-08,Feeder,19
-2007-08,Jimmy Eat World,19
-2007-08,Jmfh,13
-2007-08,Keane,1
-2007-08,Kent,8
-2007-08,Muse,0
-2007-08,Oasis,1
-2007-08,Placebo,0
-2007-08,Rooney,0
-2007-08,Snow Patrol,9
-2007-08,Stereophonics,2
-2007-08,The Goo Goo Dolls,19
-2007-08,The Killers,30
-2007-08,The Perishers,38
-2007-08,Travis,11
-2007-08,Youth Group,17
-2007-09,Athlete,15
-2007-09,Coldplay,1
-2007-09,Death Cab For Cutie,1
-2007-09,Embrace,11
-2007-09,Feeder,1
-2007-09,Jimmy Eat World,161
-2007-09,Jmfh,18
-2007-09,Keane,1
-2007-09,Kent,3
-2007-09,Muse,0
-2007-09,Oasis,0
-2007-09,Placebo,1
-2007-09,Rooney,1
-2007-09,Snow Patrol,28
-2007-09,Stereophonics,42
-2007-09,The Goo Goo Dolls,138
-2007-09,The Killers,4
-2007-09,The Perishers,20
-2007-09,Travis,6
-2007-09,Youth Group,0
-2007-10,Athlete,1
-2007-10,Coldplay,0
-2007-10,Death Cab For Cutie,0
-2007-10,Embrace,0
-2007-10,Feeder,1
-2007-10,Jimmy Eat World,93
-2007-10,Jmfh,7
-2007-10,Keane,1
-2007-10,Kent,1
-2007-10,Muse,0
-2007-10,Oasis,0
-2007-10,Placebo,0
-2007-10,Rooney,0
-2007-10,Snow Patrol,1
-2007-10,Stereophonics,13
-2007-10,The Goo Goo Dolls,5
-2007-10,The Killers,2
-2007-10,The Perishers,0
-2007-10,Travis,1
-2007-10,Youth Group,0
-2007-11,Athlete,0
-2007-11,Coldplay,0
-2007-11,Death Cab For Cutie,0
-2007-11,Embrace,0
-2007-11,Feeder,0
-2007-11,Jimmy Eat World,29
-2007-11,Jmfh,3
-2007-11,Keane,0
-2007-11,Kent,0
-2007-11,Muse,0
-2007-11,Oasis,0
-2007-11,Placebo,1
-2007-11,Rooney,1
-2007-11,Snow Patrol,20
-2007-11,Stereophonics,14
-2007-11,The Goo Goo Dolls,20
-2007-11,The Killers,89
-2007-11,The Perishers,23
-2007-11,Travis,30
-2007-11,Youth Group,2
-2007-12,Athlete,26
-2007-12,Coldplay,0
-2007-12,Death Cab For Cutie,0
-2007-12,Embrace,0
-2007-12,Feeder,21
-2007-12,Jimmy Eat World,31
-2007-12,Jmfh,17
-2007-12,Keane,0
-2007-12,Kent,2
-2007-12,Muse,8
-2007-12,Oasis,3
-2007-12,Placebo,2
-2007-12,Rooney,1
-2007-12,Snow Patrol,6
-2007-12,Stereophonics,6
-2007-12,The Goo Goo Dolls,24
-2007-12,The Killers,25
-2007-12,The Perishers,9
-2007-12,Travis,2
-2007-12,Youth Group,4
-2008-01,Athlete,0
-2008-01,Coldplay,0
-2008-01,Death Cab For Cutie,0
-2008-01,Embrace,0
-2008-01,Feeder,7
-2008-01,Jimmy Eat World,9
-2008-01,Jmfh,0
-2008-01,Keane,0
-2008-01,Kent,0
-2008-01,Muse,1
-2008-01,Oasis,5
-2008-01,Placebo,1
-2008-01,Rooney,20
-2008-01,Snow Patrol,2
-2008-01,Stereophonics,0
-2008-01,The Goo Goo Dolls,0
-2008-01,The Killers,0
-2008-01,The Perishers,112
-2008-01,Travis,0
-2008-01,Youth Group,2
-2008-02,Athlete,13
-2008-02,Coldplay,2
-2008-02,Death Cab For Cutie,0
-2008-02,Embrace,15
-2008-02,Feeder,0
-2008-02,Jimmy Eat World,105
-2008-02,Jmfh,7
-2008-02,Keane,1
-2008-02,Kent,2
-2008-02,Muse,3
-2008-02,Oasis,3
-2008-02,Placebo,0
-2008-02,Rooney,26
-2008-02,Snow Patrol,6
-2008-02,Stereophonics,6
-2008-02,The Goo Goo Dolls,9
-2008-02,The Killers,6
-2008-02,The Perishers,54
-2008-02,Travis,4
-2008-02,Youth Group,4
-2008-03,Athlete,50
-2008-03,Coldplay,23
-2008-03,Death Cab For Cutie,1
-2008-03,Embrace,19
-2008-03,Feeder,1
-2008-03,Jimmy Eat World,161
-2008-03,Jmfh,2
-2008-03,Keane,29
-2008-03,Kent,5
-2008-03,Muse,1
-2008-03,Oasis,1
-2008-03,Placebo,1
-2008-03,Rooney,31
-2008-03,Snow Patrol,5
-2008-03,Stereophonics,3
-2008-03,The Goo Goo Dolls,20
-2008-03,The Killers,92
-2008-03,The Perishers,51
-2008-03,Travis,3
-2008-03,Youth Group,0
-2008-04,Athlete,1
-2008-04,Coldplay,0
-2008-04,Death Cab For Cutie,3
-2008-04,Embrace,1
-2008-04,Feeder,43
-2008-04,Jimmy Eat World,9
-2008-04,Jmfh,0
-2008-04,Keane,1
-2008-04,Kent,2
-2008-04,Muse,1
-2008-04,Oasis,1
-2008-04,Placebo,0
-2008-04,Rooney,6
-2008-04,Snow Patrol,10
-2008-04,Stereophonics,7
-2008-04,The Goo Goo Dolls,21
-2008-04,The Killers,6
-2008-04,The Perishers,0
-2008-04,Travis,2
-2008-04,Youth Group,1
-2008-05,Athlete,0
-2008-05,Coldplay,0
-2008-05,Death Cab For Cutie,12
-2008-05,Embrace,0
-2008-05,Feeder,112
-2008-05,Jimmy Eat World,21
-2008-05,Jmfh,0
-2008-05,Keane,22
-2008-05,Kent,0
-2008-05,Muse,3
-2008-05,Oasis,0
-2008-05,Placebo,0
-2008-05,Rooney,0
-2008-05,Snow Patrol,0
-2008-05,Stereophonics,0
-2008-05,The Goo Goo Dolls,0
-2008-05,The Killers,0
-2008-05,The Perishers,0
-2008-05,Travis,0
-2008-05,Youth Group,0
-2008-06,Athlete,3
-2008-06,Coldplay,146
-2008-06,Death Cab For Cutie,4
-2008-06,Embrace,0
-2008-06,Feeder,53
-2008-06,Jimmy Eat World,19
-2008-06,Jmfh,1
-2008-06,Keane,51
-2008-06,Kent,0
-2008-06,Muse,0
-2008-06,Oasis,16
-2008-06,Placebo,0
-2008-06,Rooney,0
-2008-06,Snow Patrol,39
-2008-06,Stereophonics,0
-2008-06,The Goo Goo Dolls,0
-2008-06,The Killers,29
-2008-06,The Perishers,0
-2008-06,Travis,0
-2008-06,Youth Group,0
-2008-07,Athlete,0
-2008-07,Coldplay,43
-2008-07,Death Cab For Cutie,3
-2008-07,Embrace,0
-2008-07,Feeder,65
-2008-07,Jimmy Eat World,5
-2008-07,Jmfh,0
-2008-07,Keane,96
-2008-07,Kent,1
-2008-07,Muse,3
-2008-07,Oasis,133
-2008-07,Placebo,0
-2008-07,Rooney,0
-2008-07,Snow Patrol,26
-2008-07,Stereophonics,0
-2008-07,The Goo Goo Dolls,14
-2008-07,The Killers,69
-2008-07,The Perishers,36
-2008-07,Travis,0
-2008-07,Youth Group,1
-2008-08,Athlete,0
-2008-08,Coldplay,0
-2008-08,Death Cab For Cutie,1
-2008-08,Embrace,1
-2008-08,Feeder,0
-2008-08,Jimmy Eat World,15
-2008-08,Jmfh,0
-2008-08,Keane,3
-2008-08,Kent,0
-2008-08,Muse,0
-2008-08,Oasis,1
-2008-08,Placebo,0
-2008-08,Rooney,0
-2008-08,Snow Patrol,1
-2008-08,Stereophonics,0
-2008-08,The Goo Goo Dolls,0
-2008-08,The Killers,0
-2008-08,The Perishers,0
-2008-08,Travis,2
-2008-08,Youth Group,0
-2008-09,Athlete,2
-2008-09,Coldplay,0
-2008-09,Death Cab For Cutie,0
-2008-09,Embrace,10
-2008-09,Feeder,0
-2008-09,Jimmy Eat World,0
-2008-09,Jmfh,0
-2008-09,Keane,0
-2008-09,Kent,0
-2008-09,Muse,0
-2008-09,Oasis,3
-2008-09,Placebo,0
-2008-09,Rooney,0
-2008-09,Snow Patrol,0
-2008-09,Stereophonics,0
-2008-09,The Goo Goo Dolls,0
-2008-09,The Killers,6
-2008-09,The Perishers,0
-2008-09,Travis,0
-2008-09,Youth Group,0
-2008-10,Athlete,0
-2008-10,Coldplay,0
-2008-10,Death Cab For Cutie,0
-2008-10,Embrace,8
-2008-10,Feeder,7
-2008-10,Jimmy Eat World,6
-2008-10,Jmfh,0
-2008-10,Keane,6
-2008-10,Kent,5
-2008-10,Muse,0
-2008-10,Oasis,2
-2008-10,Placebo,1
-2008-10,Rooney,0
-2008-10,Snow Patrol,10
-2008-10,Stereophonics,1
-2008-10,The Goo Goo Dolls,0
-2008-10,The Killers,2
-2008-10,The Perishers,6
-2008-10,Travis,6
-2008-10,Youth Group,1
-2008-11,Athlete,0
-2008-11,Coldplay,0
-2008-11,Death Cab For Cutie,0
-2008-11,Embrace,0
-2008-11,Feeder,0
-2008-11,Jimmy Eat World,6
-2008-11,Jmfh,0
-2008-11,Keane,0
-2008-11,Kent,1
-2008-11,Muse,0
-2008-11,Oasis,24
-2008-11,Placebo,0
-2008-11,Rooney,1
-2008-11,Snow Patrol,38
-2008-11,Stereophonics,3
-2008-11,The Goo Goo Dolls,0
-2008-11,The Killers,72
-2008-11,The Perishers,0
-2008-11,Travis,0
-2008-11,Youth Group,0
-2008-12,Athlete,0
-2008-12,Coldplay,0
-2008-12,Death Cab For Cutie,0
-2008-12,Embrace,4
-2008-12,Feeder,3
-2008-12,Jimmy Eat World,13
-2008-12,Jmfh,0
-2008-12,Keane,14
-2008-12,Kent,6
-2008-12,Muse,3
-2008-12,Oasis,9
-2008-12,Placebo,1
-2008-12,Rooney,7
-2008-12,Snow Patrol,22
-2008-12,Stereophonics,0
-2008-12,The Goo Goo Dolls,0
-2008-12,The Killers,26
-2008-12,The Perishers,10
-2008-12,Travis,14
-2008-12,Youth Group,8
-2009-01,Athlete,2
-2009-01,Coldplay,1
-2009-01,Death Cab For Cutie,1
-2009-01,Embrace,5
-2009-01,Feeder,4
-2009-01,Jimmy Eat World,6
-2009-01,Jmfh,1
-2009-01,Keane,4
-2009-01,Kent,4
-2009-01,Muse,1
-2009-01,Oasis,5
-2009-01,Placebo,1
-2009-01,Rooney,4
-2009-01,Snow Patrol,22
-2009-01,Stereophonics,3
-2009-01,The Goo Goo Dolls,0
-2009-01,The Killers,18
-2009-01,The Perishers,14
-2009-01,Travis,2
-2009-01,Youth Group,6
-2009-02,Athlete,0
-2009-02,Coldplay,23
-2009-02,Death Cab For Cutie,0
-2009-02,Embrace,3
-2009-02,Feeder,40
-2009-02,Jimmy Eat World,0
-2009-02,Jmfh,0
-2009-02,Keane,3
-2009-02,Kent,6
-2009-02,Muse,0
-2009-02,Oasis,1
-2009-02,Placebo,1
-2009-02,Rooney,3
-2009-02,Snow Patrol,3
-2009-02,Stereophonics,0
-2009-02,The Goo Goo Dolls,0
-2009-02,The Killers,31
-2009-02,The Perishers,1
-2009-02,Travis,24
-2009-02,Youth Group,35
-2009-03,Athlete,3
-2009-03,Coldplay,1
-2009-03,Death Cab For Cutie,1
-2009-03,Embrace,5
-2009-03,Feeder,1
-2009-03,Jimmy Eat World,0
-2009-03,Jmfh,3
-2009-03,Keane,0
-2009-03,Kent,0
-2009-03,Muse,0
-2009-03,Oasis,0
-2009-03,Placebo,0
-2009-03,Rooney,0
-2009-03,Snow Patrol,0
-2009-03,Stereophonics,0
-2009-03,The Goo Goo Dolls,0
-2009-03,The Killers,3
-2009-03,The Perishers,0
-2009-03,Travis,0
-2009-03,Youth Group,0
-2009-04,Athlete,0
-2009-04,Coldplay,0
-2009-04,Death Cab For Cutie,0
-2009-04,Embrace,8
-2009-04,Feeder,2
-2009-04,Jimmy Eat World,0
-2009-04,Jmfh,0
-2009-04,Keane,1
-2009-04,Kent,0
-2009-04,Muse,0
-2009-04,Oasis,1
-2009-04,Placebo,0
-2009-04,Rooney,0
-2009-04,Snow Patrol,1
-2009-04,Stereophonics,0
-2009-04,The Goo Goo Dolls,1
-2009-04,The Killers,0
-2009-04,The Perishers,0
-2009-04,Travis,0
-2009-04,Youth Group,0
-2009-05,Athlete,0
-2009-05,Coldplay,1
-2009-05,Death Cab For Cutie,0
-2009-05,Embrace,0
-2009-05,Feeder,0
-2009-05,Jimmy Eat World,0
-2009-05,Jmfh,4
-2009-05,Keane,0
-2009-05,Kent,0
-2009-05,Muse,0
-2009-05,Oasis,0
-2009-05,Placebo,1
-2009-05,Rooney,0
-2009-05,Snow Patrol,2
-2009-05,Stereophonics,0
-2009-05,The Goo Goo Dolls,0
-2009-05,The Killers,0
-2009-05,The Perishers,0
-2009-05,Travis,0
-2009-05,Youth Group,0
+"month","artist","plays"
+"2006-12","Athlete",4
+"2006-12","Coldplay",7
+"2006-12","Death Cab For Cutie",9
+"2006-12","Embrace",2
+"2006-12","Feeder",3
+"2006-12","Jimmy Eat World",6
+"2006-12","Jmfh",25
+"2006-12","Keane",5
+"2006-12","Kent",2
+"2006-12","Muse",10
+"2006-12","Oasis",10
+"2006-12","Placebo",5
+"2006-12","Rooney",2
+"2006-12","Snow Patrol",23
+"2006-12","Stereophonics",15
+"2006-12","The Goo Goo Dolls",5
+"2006-12","The Killers",16
+"2006-12","The Perishers",2
+"2006-12","Travis",4
+"2006-12","Youth Group",15
+"2007-01","Athlete",6
+"2007-01","Coldplay",4
+"2007-01","Death Cab For Cutie",9
+"2007-01","Embrace",1
+"2007-01","Feeder",12
+"2007-01","Jimmy Eat World",12
+"2007-01","Jmfh",31
+"2007-01","Keane",3
+"2007-01","Kent",18
+"2007-01","Muse",5
+"2007-01","Oasis",5
+"2007-01","Placebo",2
+"2007-01","Rooney",1
+"2007-01","Snow Patrol",11
+"2007-01","Stereophonics",4
+"2007-01","The Goo Goo Dolls",6
+"2007-01","The Killers",10
+"2007-01","The Perishers",17
+"2007-01","Travis",10
+"2007-01","Youth Group",10
+"2007-02","Athlete",0
+"2007-02","Coldplay",0
+"2007-02","Death Cab For Cutie",1
+"2007-02","Embrace",0
+"2007-02","Feeder",1
+"2007-02","Jimmy Eat World",41
+"2007-02","Jmfh",0
+"2007-02","Keane",1
+"2007-02","Kent",13
+"2007-02","Muse",0
+"2007-02","Oasis",0
+"2007-02","Placebo",5
+"2007-02","Rooney",1
+"2007-02","Snow Patrol",1
+"2007-02","Stereophonics",68
+"2007-02","The Goo Goo Dolls",2
+"2007-02","The Killers",1
+"2007-02","The Perishers",9
+"2007-02","Travis",2
+"2007-02","Youth Group",0
+"2007-03","Athlete",0
+"2007-03","Coldplay",0
+"2007-03","Death Cab For Cutie",0
+"2007-03","Embrace",0
+"2007-03","Feeder",166
+"2007-03","Jimmy Eat World",0
+"2007-03","Jmfh",1
+"2007-03","Keane",0
+"2007-03","Kent",0
+"2007-03","Muse",1
+"2007-03","Oasis",0
+"2007-03","Placebo",2
+"2007-03","Rooney",0
+"2007-03","Snow Patrol",3
+"2007-03","Stereophonics",1
+"2007-03","The Goo Goo Dolls",16
+"2007-03","The Killers",15
+"2007-03","The Perishers",12
+"2007-03","Travis",1
+"2007-03","Youth Group",0
+"2007-04","Athlete",3
+"2007-04","Coldplay",3
+"2007-04","Death Cab For Cutie",10
+"2007-04","Embrace",0
+"2007-04","Feeder",88
+"2007-04","Jimmy Eat World",1
+"2007-04","Jmfh",0
+"2007-04","Keane",2
+"2007-04","Kent",0
+"2007-04","Muse",0
+"2007-04","Oasis",0
+"2007-04","Placebo",0
+"2007-04","Rooney",0
+"2007-04","Snow Patrol",0
+"2007-04","Stereophonics",0
+"2007-04","The Goo Goo Dolls",0
+"2007-04","The Killers",1
+"2007-04","The Perishers",0
+"2007-04","Travis",37
+"2007-04","Youth Group",2
+"2007-05","Athlete",2
+"2007-05","Coldplay",0
+"2007-05","Death Cab For Cutie",0
+"2007-05","Embrace",0
+"2007-05","Feeder",17
+"2007-05","Jimmy Eat World",0
+"2007-05","Jmfh",0
+"2007-05","Keane",35
+"2007-05","Kent",0
+"2007-05","Muse",4
+"2007-05","Oasis",0
+"2007-05","Placebo",1
+"2007-05","Rooney",0
+"2007-05","Snow Patrol",1
+"2007-05","Stereophonics",0
+"2007-05","The Goo Goo Dolls",3
+"2007-05","The Killers",2
+"2007-05","The Perishers",0
+"2007-05","Travis",41
+"2007-05","Youth Group",10
+"2007-06","Athlete",0
+"2007-06","Coldplay",1
+"2007-06","Death Cab For Cutie",0
+"2007-06","Embrace",0
+"2007-06","Feeder",47
+"2007-06","Jimmy Eat World",0
+"2007-06","Jmfh",0
+"2007-06","Keane",4
+"2007-06","Kent",17
+"2007-06","Muse",5
+"2007-06","Oasis",1
+"2007-06","Placebo",0
+"2007-06","Rooney",0
+"2007-06","Snow Patrol",1
+"2007-06","Stereophonics",0
+"2007-06","The Goo Goo Dolls",40
+"2007-06","The Killers",0
+"2007-06","The Perishers",0
+"2007-06","Travis",0
+"2007-06","Youth Group",0
+"2007-07","Athlete",11
+"2007-07","Coldplay",1
+"2007-07","Death Cab For Cutie",4
+"2007-07","Embrace",11
+"2007-07","Feeder",28
+"2007-07","Jimmy Eat World",10
+"2007-07","Jmfh",18
+"2007-07","Keane",20
+"2007-07","Kent",3
+"2007-07","Muse",3
+"2007-07","Oasis",0
+"2007-07","Placebo",1
+"2007-07","Rooney",1
+"2007-07","Snow Patrol",6
+"2007-07","Stereophonics",18
+"2007-07","The Goo Goo Dolls",28
+"2007-07","The Killers",0
+"2007-07","The Perishers",4
+"2007-07","Travis",5
+"2007-07","Youth Group",1
+"2007-08","Athlete",2
+"2007-08","Coldplay",1
+"2007-08","Death Cab For Cutie",51
+"2007-08","Embrace",1
+"2007-08","Feeder",19
+"2007-08","Jimmy Eat World",19
+"2007-08","Jmfh",13
+"2007-08","Keane",1
+"2007-08","Kent",8
+"2007-08","Muse",0
+"2007-08","Oasis",1
+"2007-08","Placebo",0
+"2007-08","Rooney",0
+"2007-08","Snow Patrol",9
+"2007-08","Stereophonics",2
+"2007-08","The Goo Goo Dolls",19
+"2007-08","The Killers",30
+"2007-08","The Perishers",38
+"2007-08","Travis",11
+"2007-08","Youth Group",17
+"2007-09","Athlete",15
+"2007-09","Coldplay",1
+"2007-09","Death Cab For Cutie",1
+"2007-09","Embrace",11
+"2007-09","Feeder",1
+"2007-09","Jimmy Eat World",161
+"2007-09","Jmfh",18
+"2007-09","Keane",1
+"2007-09","Kent",3
+"2007-09","Muse",0
+"2007-09","Oasis",0
+"2007-09","Placebo",1
+"2007-09","Rooney",1
+"2007-09","Snow Patrol",28
+"2007-09","Stereophonics",42
+"2007-09","The Goo Goo Dolls",138
+"2007-09","The Killers",4
+"2007-09","The Perishers",20
+"2007-09","Travis",6
+"2007-09","Youth Group",0
+"2007-10","Athlete",1
+"2007-10","Coldplay",0
+"2007-10","Death Cab For Cutie",0
+"2007-10","Embrace",0
+"2007-10","Feeder",1
+"2007-10","Jimmy Eat World",93
+"2007-10","Jmfh",7
+"2007-10","Keane",1
+"2007-10","Kent",1
+"2007-10","Muse",0
+"2007-10","Oasis",0
+"2007-10","Placebo",0
+"2007-10","Rooney",0
+"2007-10","Snow Patrol",1
+"2007-10","Stereophonics",13
+"2007-10","The Goo Goo Dolls",5
+"2007-10","The Killers",2
+"2007-10","The Perishers",0
+"2007-10","Travis",1
+"2007-10","Youth Group",0
+"2007-11","Athlete",0
+"2007-11","Coldplay",0
+"2007-11","Death Cab For Cutie",0
+"2007-11","Embrace",0
+"2007-11","Feeder",0
+"2007-11","Jimmy Eat World",29
+"2007-11","Jmfh",3
+"2007-11","Keane",0
+"2007-11","Kent",0
+"2007-11","Muse",0
+"2007-11","Oasis",0
+"2007-11","Placebo",1
+"2007-11","Rooney",1
+"2007-11","Snow Patrol",20
+"2007-11","Stereophonics",14
+"2007-11","The Goo Goo Dolls",20
+"2007-11","The Killers",89
+"2007-11","The Perishers",23
+"2007-11","Travis",30
+"2007-11","Youth Group",2
+"2007-12","Athlete",26
+"2007-12","Coldplay",0
+"2007-12","Death Cab For Cutie",0
+"2007-12","Embrace",0
+"2007-12","Feeder",21
+"2007-12","Jimmy Eat World",31
+"2007-12","Jmfh",17
+"2007-12","Keane",0
+"2007-12","Kent",2
+"2007-12","Muse",8
+"2007-12","Oasis",3
+"2007-12","Placebo",2
+"2007-12","Rooney",1
+"2007-12","Snow Patrol",6
+"2007-12","Stereophonics",6
+"2007-12","The Goo Goo Dolls",24
+"2007-12","The Killers",25
+"2007-12","The Perishers",9
+"2007-12","Travis",2
+"2007-12","Youth Group",4
+"2008-01","Athlete",0
+"2008-01","Coldplay",0
+"2008-01","Death Cab For Cutie",0
+"2008-01","Embrace",0
+"2008-01","Feeder",7
+"2008-01","Jimmy Eat World",9
+"2008-01","Jmfh",0
+"2008-01","Keane",0
+"2008-01","Kent",0
+"2008-01","Muse",1
+"2008-01","Oasis",5
+"2008-01","Placebo",1
+"2008-01","Rooney",20
+"2008-01","Snow Patrol",2
+"2008-01","Stereophonics",0
+"2008-01","The Goo Goo Dolls",0
+"2008-01","The Killers",0
+"2008-01","The Perishers",112
+"2008-01","Travis",0
+"2008-01","Youth Group",2
+"2008-02","Athlete",13
+"2008-02","Coldplay",2
+"2008-02","Death Cab For Cutie",0
+"2008-02","Embrace",15
+"2008-02","Feeder",0
+"2008-02","Jimmy Eat World",105
+"2008-02","Jmfh",7
+"2008-02","Keane",1
+"2008-02","Kent",2
+"2008-02","Muse",3
+"2008-02","Oasis",3
+"2008-02","Placebo",0
+"2008-02","Rooney",26
+"2008-02","Snow Patrol",6
+"2008-02","Stereophonics",6
+"2008-02","The Goo Goo Dolls",9
+"2008-02","The Killers",6
+"2008-02","The Perishers",54
+"2008-02","Travis",4
+"2008-02","Youth Group",4
+"2008-03","Athlete",50
+"2008-03","Coldplay",23
+"2008-03","Death Cab For Cutie",1
+"2008-03","Embrace",19
+"2008-03","Feeder",1
+"2008-03","Jimmy Eat World",161
+"2008-03","Jmfh",2
+"2008-03","Keane",29
+"2008-03","Kent",5
+"2008-03","Muse",1
+"2008-03","Oasis",1
+"2008-03","Placebo",1
+"2008-03","Rooney",31
+"2008-03","Snow Patrol",5
+"2008-03","Stereophonics",3
+"2008-03","The Goo Goo Dolls",20
+"2008-03","The Killers",92
+"2008-03","The Perishers",51
+"2008-03","Travis",3
+"2008-03","Youth Group",0
+"2008-04","Athlete",1
+"2008-04","Coldplay",0
+"2008-04","Death Cab For Cutie",3
+"2008-04","Embrace",1
+"2008-04","Feeder",43
+"2008-04","Jimmy Eat World",9
+"2008-04","Jmfh",0
+"2008-04","Keane",1
+"2008-04","Kent",2
+"2008-04","Muse",1
+"2008-04","Oasis",1
+"2008-04","Placebo",0
+"2008-04","Rooney",6
+"2008-04","Snow Patrol",10
+"2008-04","Stereophonics",7
+"2008-04","The Goo Goo Dolls",21
+"2008-04","The Killers",6
+"2008-04","The Perishers",0
+"2008-04","Travis",2
+"2008-04","Youth Group",1
+"2008-05","Athlete",0
+"2008-05","Coldplay",0
+"2008-05","Death Cab For Cutie",12
+"2008-05","Embrace",0
+"2008-05","Feeder",112
+"2008-05","Jimmy Eat World",21
+"2008-05","Jmfh",0
+"2008-05","Keane",22
+"2008-05","Kent",0
+"2008-05","Muse",3
+"2008-05","Oasis",0
+"2008-05","Placebo",0
+"2008-05","Rooney",0
+"2008-05","Snow Patrol",0
+"2008-05","Stereophonics",0
+"2008-05","The Goo Goo Dolls",0
+"2008-05","The Killers",0
+"2008-05","The Perishers",0
+"2008-05","Travis",0
+"2008-05","Youth Group",0
+"2008-06","Athlete",3
+"2008-06","Coldplay",146
+"2008-06","Death Cab For Cutie",4
+"2008-06","Embrace",0
+"2008-06","Feeder",53
+"2008-06","Jimmy Eat World",19
+"2008-06","Jmfh",1
+"2008-06","Keane",51
+"2008-06","Kent",0
+"2008-06","Muse",0
+"2008-06","Oasis",16
+"2008-06","Placebo",0
+"2008-06","Rooney",0
+"2008-06","Snow Patrol",39
+"2008-06","Stereophonics",0
+"2008-06","The Goo Goo Dolls",0
+"2008-06","The Killers",29
+"2008-06","The Perishers",0
+"2008-06","Travis",0
+"2008-06","Youth Group",0
+"2008-07","Athlete",0
+"2008-07","Coldplay",43
+"2008-07","Death Cab For Cutie",3
+"2008-07","Embrace",0
+"2008-07","Feeder",65
+"2008-07","Jimmy Eat World",5
+"2008-07","Jmfh",0
+"2008-07","Keane",96
+"2008-07","Kent",1
+"2008-07","Muse",3
+"2008-07","Oasis",133
+"2008-07","Placebo",0
+"2008-07","Rooney",0
+"2008-07","Snow Patrol",26
+"2008-07","Stereophonics",0
+"2008-07","The Goo Goo Dolls",14
+"2008-07","The Killers",69
+"2008-07","The Perishers",36
+"2008-07","Travis",0
+"2008-07","Youth Group",1
+"2008-08","Athlete",0
+"2008-08","Coldplay",0
+"2008-08","Death Cab For Cutie",1
+"2008-08","Embrace",1
+"2008-08","Feeder",0
+"2008-08","Jimmy Eat World",15
+"2008-08","Jmfh",0
+"2008-08","Keane",3
+"2008-08","Kent",0
+"2008-08","Muse",0
+"2008-08","Oasis",1
+"2008-08","Placebo",0
+"2008-08","Rooney",0
+"2008-08","Snow Patrol",1
+"2008-08","Stereophonics",0
+"2008-08","The Goo Goo Dolls",0
+"2008-08","The Killers",0
+"2008-08","The Perishers",0
+"2008-08","Travis",2
+"2008-08","Youth Group",0
+"2008-09","Athlete",2
+"2008-09","Coldplay",0
+"2008-09","Death Cab For Cutie",0
+"2008-09","Embrace",10
+"2008-09","Feeder",0
+"2008-09","Jimmy Eat World",0
+"2008-09","Jmfh",0
+"2008-09","Keane",0
+"2008-09","Kent",0
+"2008-09","Muse",0
+"2008-09","Oasis",3
+"2008-09","Placebo",0
+"2008-09","Rooney",0
+"2008-09","Snow Patrol",0
+"2008-09","Stereophonics",0
+"2008-09","The Goo Goo Dolls",0
+"2008-09","The Killers",6
+"2008-09","The Perishers",0
+"2008-09","Travis",0
+"2008-09","Youth Group",0
+"2008-10","Athlete",0
+"2008-10","Coldplay",0
+"2008-10","Death Cab For Cutie",0
+"2008-10","Embrace",8
+"2008-10","Feeder",7
+"2008-10","Jimmy Eat World",6
+"2008-10","Jmfh",0
+"2008-10","Keane",6
+"2008-10","Kent",5
+"2008-10","Muse",0
+"2008-10","Oasis",2
+"2008-10","Placebo",1
+"2008-10","Rooney",0
+"2008-10","Snow Patrol",10
+"2008-10","Stereophonics",1
+"2008-10","The Goo Goo Dolls",0
+"2008-10","The Killers",2
+"2008-10","The Perishers",6
+"2008-10","Travis",6
+"2008-10","Youth Group",1
+"2008-11","Athlete",0
+"2008-11","Coldplay",0
+"2008-11","Death Cab For Cutie",0
+"2008-11","Embrace",0
+"2008-11","Feeder",0
+"2008-11","Jimmy Eat World",6
+"2008-11","Jmfh",0
+"2008-11","Keane",0
+"2008-11","Kent",1
+"2008-11","Muse",0
+"2008-11","Oasis",24
+"2008-11","Placebo",0
+"2008-11","Rooney",1
+"2008-11","Snow Patrol",38
+"2008-11","Stereophonics",3
+"2008-11","The Goo Goo Dolls",0
+"2008-11","The Killers",72
+"2008-11","The Perishers",0
+"2008-11","Travis",0
+"2008-11","Youth Group",0
+"2008-12","Athlete",0
+"2008-12","Coldplay",0
+"2008-12","Death Cab For Cutie",0
+"2008-12","Embrace",4
+"2008-12","Feeder",3
+"2008-12","Jimmy Eat World",13
+"2008-12","Jmfh",0
+"2008-12","Keane",14
+"2008-12","Kent",6
+"2008-12","Muse",3
+"2008-12","Oasis",9
+"2008-12","Placebo",1
+"2008-12","Rooney",7
+"2008-12","Snow Patrol",22
+"2008-12","Stereophonics",0
+"2008-12","The Goo Goo Dolls",0
+"2008-12","The Killers",26
+"2008-12","The Perishers",10
+"2008-12","Travis",14
+"2008-12","Youth Group",8
+"2009-01","Athlete",2
+"2009-01","Coldplay",1
+"2009-01","Death Cab For Cutie",1
+"2009-01","Embrace",5
+"2009-01","Feeder",4
+"2009-01","Jimmy Eat World",6
+"2009-01","Jmfh",1
+"2009-01","Keane",4
+"2009-01","Kent",4
+"2009-01","Muse",1
+"2009-01","Oasis",5
+"2009-01","Placebo",1
+"2009-01","Rooney",4
+"2009-01","Snow Patrol",22
+"2009-01","Stereophonics",3
+"2009-01","The Goo Goo Dolls",0
+"2009-01","The Killers",18
+"2009-01","The Perishers",14
+"2009-01","Travis",2
+"2009-01","Youth Group",6
+"2009-02","Athlete",0
+"2009-02","Coldplay",23
+"2009-02","Death Cab For Cutie",0
+"2009-02","Embrace",3
+"2009-02","Feeder",40
+"2009-02","Jimmy Eat World",0
+"2009-02","Jmfh",0
+"2009-02","Keane",3
+"2009-02","Kent",6
+"2009-02","Muse",0
+"2009-02","Oasis",1
+"2009-02","Placebo",1
+"2009-02","Rooney",3
+"2009-02","Snow Patrol",3
+"2009-02","Stereophonics",0
+"2009-02","The Goo Goo Dolls",0
+"2009-02","The Killers",31
+"2009-02","The Perishers",1
+"2009-02","Travis",24
+"2009-02","Youth Group",35
+"2009-03","Athlete",3
+"2009-03","Coldplay",1
+"2009-03","Death Cab For Cutie",1
+"2009-03","Embrace",5
+"2009-03","Feeder",1
+"2009-03","Jimmy Eat World",0
+"2009-03","Jmfh",3
+"2009-03","Keane",0
+"2009-03","Kent",0
+"2009-03","Muse",0
+"2009-03","Oasis",0
+"2009-03","Placebo",0
+"2009-03","Rooney",0
+"2009-03","Snow Patrol",0
+"2009-03","Stereophonics",0
+"2009-03","The Goo Goo Dolls",0
+"2009-03","The Killers",3
+"2009-03","The Perishers",0
+"2009-03","Travis",0
+"2009-03","Youth Group",0
+"2009-04","Athlete",0
+"2009-04","Coldplay",0
+"2009-04","Death Cab For Cutie",0
+"2009-04","Embrace",8
+"2009-04","Feeder",2
+"2009-04","Jimmy Eat World",0
+"2009-04","Jmfh",0
+"2009-04","Keane",1
+"2009-04","Kent",0
+"2009-04","Muse",0
+"2009-04","Oasis",1
+"2009-04","Placebo",0
+"2009-04","Rooney",0
+"2009-04","Snow Patrol",1
+"2009-04","Stereophonics",0
+"2009-04","The Goo Goo Dolls",1
+"2009-04","The Killers",0
+"2009-04","The Perishers",0
+"2009-04","Travis",0
+"2009-04","Youth Group",0
+"2009-05","Athlete",0
+"2009-05","Coldplay",1
+"2009-05","Death Cab For Cutie",0
+"2009-05","Embrace",0
+"2009-05","Feeder",0
+"2009-05","Jimmy Eat World",0
+"2009-05","Jmfh",4
+"2009-05","Keane",0
+"2009-05","Kent",0
+"2009-05","Muse",0
+"2009-05","Oasis",0
+"2009-05","Placebo",1
+"2009-05","Rooney",0
+"2009-05","Snow Patrol",2
+"2009-05","Stereophonics",0
+"2009-05","The Goo Goo Dolls",0
+"2009-05","The Killers",0
+"2009-05","The Perishers",0
+"2009-05","Travis",0
+"2009-05","Youth Group",0

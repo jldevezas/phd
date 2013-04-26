@@ -1,381 +1,381 @@
-month,artist,plays
-2007-10,Amy Winehouse,0
-2007-10,Barenaked Ladies,1
-2007-10,Bob Dylan,0
-2007-10,Bob Marley & The Wailers,0
-2007-10,Bruce Springsteen,0
-2007-10,Coldplay,0
-2007-10,Dusty Springfield,1
-2007-10,Elvis Presley,0
-2007-10,Griffin House,0
-2007-10,Jenny Owen Youngs,0
-2007-10,Josh Rouse,0
-2007-10,Kanye West,0
-2007-10,Ladytron,0
-2007-10,Neil Young,0
-2007-10,Peter Bjorn And John,0
-2007-10,Sarah Mclachlan,0
-2007-10,The Jam,0
-2007-10,The Proclaimers,0
-2007-10,The Rolling Stones,0
-2007-10,The Weepies,0
-2007-11,Amy Winehouse,4
-2007-11,Barenaked Ladies,3
-2007-11,Bob Dylan,1
-2007-11,Bob Marley & The Wailers,1
-2007-11,Bruce Springsteen,1
-2007-11,Coldplay,0
-2007-11,Dusty Springfield,7
-2007-11,Elvis Presley,1
-2007-11,Griffin House,7
-2007-11,Jenny Owen Youngs,4
-2007-11,Josh Rouse,9
-2007-11,Kanye West,10
-2007-11,Ladytron,19
-2007-11,Neil Young,5
-2007-11,Peter Bjorn And John,2
-2007-11,Sarah Mclachlan,15
-2007-11,The Jam,2
-2007-11,The Proclaimers,1
-2007-11,The Rolling Stones,2
-2007-11,The Weepies,120
-2007-12,Amy Winehouse,1
-2007-12,Barenaked Ladies,24
-2007-12,Bob Dylan,0
-2007-12,Bob Marley & The Wailers,0
-2007-12,Bruce Springsteen,0
-2007-12,Coldplay,3
-2007-12,Dusty Springfield,3
-2007-12,Elvis Presley,15
-2007-12,Griffin House,1
-2007-12,Jenny Owen Youngs,3
-2007-12,Josh Rouse,3
-2007-12,Kanye West,2
-2007-12,Ladytron,4
-2007-12,Neil Young,1
-2007-12,Peter Bjorn And John,5
-2007-12,Sarah Mclachlan,47
-2007-12,The Jam,4
-2007-12,The Proclaimers,16
-2007-12,The Rolling Stones,3
-2007-12,The Weepies,60
-2008-01,Amy Winehouse,0
-2008-01,Barenaked Ladies,1
-2008-01,Bob Dylan,2
-2008-01,Bob Marley & The Wailers,5
-2008-01,Bruce Springsteen,0
-2008-01,Coldplay,0
-2008-01,Dusty Springfield,5
-2008-01,Elvis Presley,1
-2008-01,Griffin House,20
-2008-01,Jenny Owen Youngs,2
-2008-01,Josh Rouse,2
-2008-01,Kanye West,3
-2008-01,Ladytron,4
-2008-01,Neil Young,1
-2008-01,Peter Bjorn And John,4
-2008-01,Sarah Mclachlan,45
-2008-01,The Jam,0
-2008-01,The Proclaimers,6
-2008-01,The Rolling Stones,2
-2008-01,The Weepies,74
-2008-02,Amy Winehouse,3
-2008-02,Barenaked Ladies,45
-2008-02,Bob Dylan,7
-2008-02,Bob Marley & The Wailers,0
-2008-02,Bruce Springsteen,1
-2008-02,Coldplay,0
-2008-02,Dusty Springfield,2
-2008-02,Elvis Presley,0
-2008-02,Griffin House,0
-2008-02,Jenny Owen Youngs,1
-2008-02,Josh Rouse,0
-2008-02,Kanye West,2
-2008-02,Ladytron,10
-2008-02,Neil Young,1
-2008-02,Peter Bjorn And John,1
-2008-02,Sarah Mclachlan,15
-2008-02,The Jam,3
-2008-02,The Proclaimers,3
-2008-02,The Rolling Stones,0
-2008-02,The Weepies,1
-2008-03,Amy Winehouse,11
-2008-03,Barenaked Ladies,41
-2008-03,Bob Dylan,28
-2008-03,Bob Marley & The Wailers,7
-2008-03,Bruce Springsteen,25
-2008-03,Coldplay,3
-2008-03,Dusty Springfield,4
-2008-03,Elvis Presley,55
-2008-03,Griffin House,7
-2008-03,Jenny Owen Youngs,0
-2008-03,Josh Rouse,2
-2008-03,Kanye West,4
-2008-03,Ladytron,5
-2008-03,Neil Young,3
-2008-03,Peter Bjorn And John,1
-2008-03,Sarah Mclachlan,4
-2008-03,The Jam,2
-2008-03,The Proclaimers,5
-2008-03,The Rolling Stones,54
-2008-03,The Weepies,1
-2008-04,Amy Winehouse,12
-2008-04,Barenaked Ladies,1
-2008-04,Bob Dylan,3
-2008-04,Bob Marley & The Wailers,0
-2008-04,Bruce Springsteen,3
-2008-04,Coldplay,1
-2008-04,Dusty Springfield,6
-2008-04,Elvis Presley,15
-2008-04,Griffin House,1
-2008-04,Jenny Owen Youngs,0
-2008-04,Josh Rouse,7
-2008-04,Kanye West,2
-2008-04,Ladytron,1
-2008-04,Neil Young,8
-2008-04,Peter Bjorn And John,1
-2008-04,Sarah Mclachlan,2
-2008-04,The Jam,2
-2008-04,The Proclaimers,3
-2008-04,The Rolling Stones,5
-2008-04,The Weepies,33
-2008-05,Amy Winehouse,45
-2008-05,Barenaked Ladies,1
-2008-05,Bob Dylan,6
-2008-05,Bob Marley & The Wailers,10
-2008-05,Bruce Springsteen,6
-2008-05,Coldplay,1
-2008-05,Dusty Springfield,7
-2008-05,Elvis Presley,10
-2008-05,Griffin House,3
-2008-05,Jenny Owen Youngs,1
-2008-05,Josh Rouse,8
-2008-05,Kanye West,1
-2008-05,Ladytron,2
-2008-05,Neil Young,4
-2008-05,Peter Bjorn And John,5
-2008-05,Sarah Mclachlan,3
-2008-05,The Jam,6
-2008-05,The Proclaimers,5
-2008-05,The Rolling Stones,10
-2008-05,The Weepies,5
-2008-06,Amy Winehouse,12
-2008-06,Barenaked Ladies,7
-2008-06,Bob Dylan,2
-2008-06,Bob Marley & The Wailers,4
-2008-06,Bruce Springsteen,1
-2008-06,Coldplay,3
-2008-06,Dusty Springfield,3
-2008-06,Elvis Presley,3
-2008-06,Griffin House,3
-2008-06,Jenny Owen Youngs,1
-2008-06,Josh Rouse,70
-2008-06,Kanye West,5
-2008-06,Ladytron,7
-2008-06,Neil Young,8
-2008-06,Peter Bjorn And John,1
-2008-06,Sarah Mclachlan,1
-2008-06,The Jam,1
-2008-06,The Proclaimers,1
-2008-06,The Rolling Stones,9
-2008-06,The Weepies,1
-2008-07,Amy Winehouse,5
-2008-07,Barenaked Ladies,11
-2008-07,Bob Dylan,17
-2008-07,Bob Marley & The Wailers,25
-2008-07,Bruce Springsteen,6
-2008-07,Coldplay,52
-2008-07,Dusty Springfield,5
-2008-07,Elvis Presley,5
-2008-07,Griffin House,11
-2008-07,Jenny Owen Youngs,2
-2008-07,Josh Rouse,4
-2008-07,Kanye West,7
-2008-07,Ladytron,3
-2008-07,Neil Young,16
-2008-07,Peter Bjorn And John,3
-2008-07,Sarah Mclachlan,16
-2008-07,The Jam,12
-2008-07,The Proclaimers,3
-2008-07,The Rolling Stones,11
-2008-07,The Weepies,3
-2008-08,Amy Winehouse,5
-2008-08,Barenaked Ladies,19
-2008-08,Bob Dylan,4
-2008-08,Bob Marley & The Wailers,6
-2008-08,Bruce Springsteen,1
-2008-08,Coldplay,15
-2008-08,Dusty Springfield,2
-2008-08,Elvis Presley,1
-2008-08,Griffin House,3
-2008-08,Jenny Owen Youngs,1
-2008-08,Josh Rouse,1
-2008-08,Kanye West,2
-2008-08,Ladytron,3
-2008-08,Neil Young,6
-2008-08,Peter Bjorn And John,1
-2008-08,Sarah Mclachlan,9
-2008-08,The Jam,1
-2008-08,The Proclaimers,1
-2008-08,The Rolling Stones,5
-2008-08,The Weepies,211
-2008-09,Amy Winehouse,3
-2008-09,Barenaked Ladies,19
-2008-09,Bob Dylan,3
-2008-09,Bob Marley & The Wailers,19
-2008-09,Bruce Springsteen,1
-2008-09,Coldplay,5
-2008-09,Dusty Springfield,4
-2008-09,Elvis Presley,7
-2008-09,Griffin House,1
-2008-09,Jenny Owen Youngs,2
-2008-09,Josh Rouse,24
-2008-09,Kanye West,9
-2008-09,Ladytron,14
-2008-09,Neil Young,1
-2008-09,Peter Bjorn And John,1
-2008-09,Sarah Mclachlan,2
-2008-09,The Jam,2
-2008-09,The Proclaimers,3
-2008-09,The Rolling Stones,11
-2008-09,The Weepies,4
-2008-10,Amy Winehouse,5
-2008-10,Barenaked Ladies,2
-2008-10,Bob Dylan,4
-2008-10,Bob Marley & The Wailers,5
-2008-10,Bruce Springsteen,3
-2008-10,Coldplay,48
-2008-10,Dusty Springfield,2
-2008-10,Elvis Presley,1
-2008-10,Griffin House,1
-2008-10,Jenny Owen Youngs,1
-2008-10,Josh Rouse,36
-2008-10,Kanye West,5
-2008-10,Ladytron,2
-2008-10,Neil Young,5
-2008-10,Peter Bjorn And John,0
-2008-10,Sarah Mclachlan,0
-2008-10,The Jam,4
-2008-10,The Proclaimers,1
-2008-10,The Rolling Stones,7
-2008-10,The Weepies,4
-2008-11,Amy Winehouse,20
-2008-11,Barenaked Ladies,6
-2008-11,Bob Dylan,6
-2008-11,Bob Marley & The Wailers,2
-2008-11,Bruce Springsteen,1
-2008-11,Coldplay,3
-2008-11,Dusty Springfield,6
-2008-11,Elvis Presley,13
-2008-11,Griffin House,1
-2008-11,Jenny Owen Youngs,2
-2008-11,Josh Rouse,12
-2008-11,Kanye West,5
-2008-11,Ladytron,1
-2008-11,Neil Young,4
-2008-11,Peter Bjorn And John,1
-2008-11,Sarah Mclachlan,5
-2008-11,The Jam,3
-2008-11,The Proclaimers,0
-2008-11,The Rolling Stones,6
-2008-11,The Weepies,1
-2008-12,Amy Winehouse,27
-2008-12,Barenaked Ladies,37
-2008-12,Bob Dylan,0
-2008-12,Bob Marley & The Wailers,2
-2008-12,Bruce Springsteen,0
-2008-12,Coldplay,3
-2008-12,Dusty Springfield,0
-2008-12,Elvis Presley,17
-2008-12,Griffin House,0
-2008-12,Jenny Owen Youngs,2
-2008-12,Josh Rouse,2
-2008-12,Kanye West,17
-2008-12,Ladytron,0
-2008-12,Neil Young,2
-2008-12,Peter Bjorn And John,0
-2008-12,Sarah Mclachlan,30
-2008-12,The Jam,0
-2008-12,The Proclaimers,0
-2008-12,The Rolling Stones,0
-2008-12,The Weepies,2
-2009-01,Amy Winehouse,0
-2009-01,Barenaked Ladies,1
-2009-01,Bob Dylan,1
-2009-01,Bob Marley & The Wailers,4
-2009-01,Bruce Springsteen,1
-2009-01,Coldplay,2
-2009-01,Dusty Springfield,22
-2009-01,Elvis Presley,2
-2009-01,Griffin House,3
-2009-01,Jenny Owen Youngs,55
-2009-01,Josh Rouse,5
-2009-01,Kanye West,1
-2009-01,Ladytron,2
-2009-01,Neil Young,4
-2009-01,Peter Bjorn And John,1
-2009-01,Sarah Mclachlan,3
-2009-01,The Jam,4
-2009-01,The Proclaimers,1
-2009-01,The Rolling Stones,7
-2009-01,The Weepies,0
-2009-02,Amy Winehouse,6
-2009-02,Barenaked Ladies,7
-2009-02,Bob Dylan,6
-2009-02,Bob Marley & The Wailers,1
-2009-02,Bruce Springsteen,2
-2009-02,Coldplay,2
-2009-02,Dusty Springfield,1
-2009-02,Elvis Presley,2
-2009-02,Griffin House,5
-2009-02,Jenny Owen Youngs,9
-2009-02,Josh Rouse,5
-2009-02,Kanye West,22
-2009-02,Ladytron,2
-2009-02,Neil Young,9
-2009-02,Peter Bjorn And John,2
-2009-02,Sarah Mclachlan,3
-2009-02,The Jam,3
-2009-02,The Proclaimers,3
-2009-02,The Rolling Stones,8
-2009-02,The Weepies,4
-2009-03,Amy Winehouse,1
-2009-03,Barenaked Ladies,19
-2009-03,Bob Dylan,7
-2009-03,Bob Marley & The Wailers,4
-2009-03,Bruce Springsteen,2
-2009-03,Coldplay,1
-2009-03,Dusty Springfield,2
-2009-03,Elvis Presley,0
-2009-03,Griffin House,3
-2009-03,Jenny Owen Youngs,1
-2009-03,Josh Rouse,8
-2009-03,Kanye West,65
-2009-03,Ladytron,3
-2009-03,Neil Young,10
-2009-03,Peter Bjorn And John,1
-2009-03,Sarah Mclachlan,5
-2009-03,The Jam,4
-2009-03,The Proclaimers,2
-2009-03,The Rolling Stones,7
-2009-03,The Weepies,3
-2009-04,Amy Winehouse,0
-2009-04,Barenaked Ladies,26
-2009-04,Bob Dylan,7
-2009-04,Bob Marley & The Wailers,4
-2009-04,Bruce Springsteen,1
-2009-04,Coldplay,1
-2009-04,Dusty Springfield,1
-2009-04,Elvis Presley,1
-2009-04,Griffin House,0
-2009-04,Jenny Owen Youngs,1
-2009-04,Josh Rouse,0
-2009-04,Kanye West,2
-2009-04,Ladytron,0
-2009-04,Neil Young,1
-2009-04,Peter Bjorn And John,0
-2009-04,Sarah Mclachlan,1
-2009-04,The Jam,1
-2009-04,The Proclaimers,1
-2009-04,The Rolling Stones,1
-2009-04,The Weepies,0
+"month","artist","plays"
+"2007-10","Amy Winehouse",0
+"2007-10","Barenaked Ladies",1
+"2007-10","Bob Dylan",0
+"2007-10","Bob Marley & The Wailers",0
+"2007-10","Bruce Springsteen",0
+"2007-10","Coldplay",0
+"2007-10","Dusty Springfield",1
+"2007-10","Elvis Presley",0
+"2007-10","Griffin House",0
+"2007-10","Jenny Owen Youngs",0
+"2007-10","Josh Rouse",0
+"2007-10","Kanye West",0
+"2007-10","Ladytron",0
+"2007-10","Neil Young",0
+"2007-10","Peter Bjorn And John",0
+"2007-10","Sarah Mclachlan",0
+"2007-10","The Jam",0
+"2007-10","The Proclaimers",0
+"2007-10","The Rolling Stones",0
+"2007-10","The Weepies",0
+"2007-11","Amy Winehouse",4
+"2007-11","Barenaked Ladies",3
+"2007-11","Bob Dylan",1
+"2007-11","Bob Marley & The Wailers",1
+"2007-11","Bruce Springsteen",1
+"2007-11","Coldplay",0
+"2007-11","Dusty Springfield",7
+"2007-11","Elvis Presley",1
+"2007-11","Griffin House",7
+"2007-11","Jenny Owen Youngs",4
+"2007-11","Josh Rouse",9
+"2007-11","Kanye West",10
+"2007-11","Ladytron",19
+"2007-11","Neil Young",5
+"2007-11","Peter Bjorn And John",2
+"2007-11","Sarah Mclachlan",15
+"2007-11","The Jam",2
+"2007-11","The Proclaimers",1
+"2007-11","The Rolling Stones",2
+"2007-11","The Weepies",120
+"2007-12","Amy Winehouse",1
+"2007-12","Barenaked Ladies",24
+"2007-12","Bob Dylan",0
+"2007-12","Bob Marley & The Wailers",0
+"2007-12","Bruce Springsteen",0
+"2007-12","Coldplay",3
+"2007-12","Dusty Springfield",3
+"2007-12","Elvis Presley",15
+"2007-12","Griffin House",1
+"2007-12","Jenny Owen Youngs",3
+"2007-12","Josh Rouse",3
+"2007-12","Kanye West",2
+"2007-12","Ladytron",4
+"2007-12","Neil Young",1
+"2007-12","Peter Bjorn And John",5
+"2007-12","Sarah Mclachlan",47
+"2007-12","The Jam",4
+"2007-12","The Proclaimers",16
+"2007-12","The Rolling Stones",3
+"2007-12","The Weepies",60
+"2008-01","Amy Winehouse",0
+"2008-01","Barenaked Ladies",1
+"2008-01","Bob Dylan",2
+"2008-01","Bob Marley & The Wailers",5
+"2008-01","Bruce Springsteen",0
+"2008-01","Coldplay",0
+"2008-01","Dusty Springfield",5
+"2008-01","Elvis Presley",1
+"2008-01","Griffin House",20
+"2008-01","Jenny Owen Youngs",2
+"2008-01","Josh Rouse",2
+"2008-01","Kanye West",3
+"2008-01","Ladytron",4
+"2008-01","Neil Young",1
+"2008-01","Peter Bjorn And John",4
+"2008-01","Sarah Mclachlan",45
+"2008-01","The Jam",0
+"2008-01","The Proclaimers",6
+"2008-01","The Rolling Stones",2
+"2008-01","The Weepies",74
+"2008-02","Amy Winehouse",3
+"2008-02","Barenaked Ladies",45
+"2008-02","Bob Dylan",7
+"2008-02","Bob Marley & The Wailers",0
+"2008-02","Bruce Springsteen",1
+"2008-02","Coldplay",0
+"2008-02","Dusty Springfield",2
+"2008-02","Elvis Presley",0
+"2008-02","Griffin House",0
+"2008-02","Jenny Owen Youngs",1
+"2008-02","Josh Rouse",0
+"2008-02","Kanye West",2
+"2008-02","Ladytron",10
+"2008-02","Neil Young",1
+"2008-02","Peter Bjorn And John",1
+"2008-02","Sarah Mclachlan",15
+"2008-02","The Jam",3
+"2008-02","The Proclaimers",3
+"2008-02","The Rolling Stones",0
+"2008-02","The Weepies",1
+"2008-03","Amy Winehouse",11
+"2008-03","Barenaked Ladies",41
+"2008-03","Bob Dylan",28
+"2008-03","Bob Marley & The Wailers",7
+"2008-03","Bruce Springsteen",25
+"2008-03","Coldplay",3
+"2008-03","Dusty Springfield",4
+"2008-03","Elvis Presley",55
+"2008-03","Griffin House",7
+"2008-03","Jenny Owen Youngs",0
+"2008-03","Josh Rouse",2
+"2008-03","Kanye West",4
+"2008-03","Ladytron",5
+"2008-03","Neil Young",3
+"2008-03","Peter Bjorn And John",1
+"2008-03","Sarah Mclachlan",4
+"2008-03","The Jam",2
+"2008-03","The Proclaimers",5
+"2008-03","The Rolling Stones",54
+"2008-03","The Weepies",1
+"2008-04","Amy Winehouse",12
+"2008-04","Barenaked Ladies",1
+"2008-04","Bob Dylan",3
+"2008-04","Bob Marley & The Wailers",0
+"2008-04","Bruce Springsteen",3
+"2008-04","Coldplay",1
+"2008-04","Dusty Springfield",6
+"2008-04","Elvis Presley",15
+"2008-04","Griffin House",1
+"2008-04","Jenny Owen Youngs",0
+"2008-04","Josh Rouse",7
+"2008-04","Kanye West",2
+"2008-04","Ladytron",1
+"2008-04","Neil Young",8
+"2008-04","Peter Bjorn And John",1
+"2008-04","Sarah Mclachlan",2
+"2008-04","The Jam",2
+"2008-04","The Proclaimers",3
+"2008-04","The Rolling Stones",5
+"2008-04","The Weepies",33
+"2008-05","Amy Winehouse",45
+"2008-05","Barenaked Ladies",1
+"2008-05","Bob Dylan",6
+"2008-05","Bob Marley & The Wailers",10
+"2008-05","Bruce Springsteen",6
+"2008-05","Coldplay",1
+"2008-05","Dusty Springfield",7
+"2008-05","Elvis Presley",10
+"2008-05","Griffin House",3
+"2008-05","Jenny Owen Youngs",1
+"2008-05","Josh Rouse",8
+"2008-05","Kanye West",1
+"2008-05","Ladytron",2
+"2008-05","Neil Young",4
+"2008-05","Peter Bjorn And John",5
+"2008-05","Sarah Mclachlan",3
+"2008-05","The Jam",6
+"2008-05","The Proclaimers",5
+"2008-05","The Rolling Stones",10
+"2008-05","The Weepies",5
+"2008-06","Amy Winehouse",12
+"2008-06","Barenaked Ladies",7
+"2008-06","Bob Dylan",2
+"2008-06","Bob Marley & The Wailers",4
+"2008-06","Bruce Springsteen",1
+"2008-06","Coldplay",3
+"2008-06","Dusty Springfield",3
+"2008-06","Elvis Presley",3
+"2008-06","Griffin House",3
+"2008-06","Jenny Owen Youngs",1
+"2008-06","Josh Rouse",70
+"2008-06","Kanye West",5
+"2008-06","Ladytron",7
+"2008-06","Neil Young",8
+"2008-06","Peter Bjorn And John",1
+"2008-06","Sarah Mclachlan",1
+"2008-06","The Jam",1
+"2008-06","The Proclaimers",1
+"2008-06","The Rolling Stones",9
+"2008-06","The Weepies",1
+"2008-07","Amy Winehouse",5
+"2008-07","Barenaked Ladies",11
+"2008-07","Bob Dylan",17
+"2008-07","Bob Marley & The Wailers",25
+"2008-07","Bruce Springsteen",6
+"2008-07","Coldplay",52
+"2008-07","Dusty Springfield",5
+"2008-07","Elvis Presley",5
+"2008-07","Griffin House",11
+"2008-07","Jenny Owen Youngs",2
+"2008-07","Josh Rouse",4
+"2008-07","Kanye West",7
+"2008-07","Ladytron",3
+"2008-07","Neil Young",16
+"2008-07","Peter Bjorn And John",3
+"2008-07","Sarah Mclachlan",16
+"2008-07","The Jam",12
+"2008-07","The Proclaimers",3
+"2008-07","The Rolling Stones",11
+"2008-07","The Weepies",3
+"2008-08","Amy Winehouse",5
+"2008-08","Barenaked Ladies",19
+"2008-08","Bob Dylan",4
+"2008-08","Bob Marley & The Wailers",6
+"2008-08","Bruce Springsteen",1
+"2008-08","Coldplay",15
+"2008-08","Dusty Springfield",2
+"2008-08","Elvis Presley",1
+"2008-08","Griffin House",3
+"2008-08","Jenny Owen Youngs",1
+"2008-08","Josh Rouse",1
+"2008-08","Kanye West",2
+"2008-08","Ladytron",3
+"2008-08","Neil Young",6
+"2008-08","Peter Bjorn And John",1
+"2008-08","Sarah Mclachlan",9
+"2008-08","The Jam",1
+"2008-08","The Proclaimers",1
+"2008-08","The Rolling Stones",5
+"2008-08","The Weepies",211
+"2008-09","Amy Winehouse",3
+"2008-09","Barenaked Ladies",19
+"2008-09","Bob Dylan",3
+"2008-09","Bob Marley & The Wailers",19
+"2008-09","Bruce Springsteen",1
+"2008-09","Coldplay",5
+"2008-09","Dusty Springfield",4
+"2008-09","Elvis Presley",7
+"2008-09","Griffin House",1
+"2008-09","Jenny Owen Youngs",2
+"2008-09","Josh Rouse",24
+"2008-09","Kanye West",9
+"2008-09","Ladytron",14
+"2008-09","Neil Young",1
+"2008-09","Peter Bjorn And John",1
+"2008-09","Sarah Mclachlan",2
+"2008-09","The Jam",2
+"2008-09","The Proclaimers",3
+"2008-09","The Rolling Stones",11
+"2008-09","The Weepies",4
+"2008-10","Amy Winehouse",5
+"2008-10","Barenaked Ladies",2
+"2008-10","Bob Dylan",4
+"2008-10","Bob Marley & The Wailers",5
+"2008-10","Bruce Springsteen",3
+"2008-10","Coldplay",48
+"2008-10","Dusty Springfield",2
+"2008-10","Elvis Presley",1
+"2008-10","Griffin House",1
+"2008-10","Jenny Owen Youngs",1
+"2008-10","Josh Rouse",36
+"2008-10","Kanye West",5
+"2008-10","Ladytron",2
+"2008-10","Neil Young",5
+"2008-10","Peter Bjorn And John",0
+"2008-10","Sarah Mclachlan",0
+"2008-10","The Jam",4
+"2008-10","The Proclaimers",1
+"2008-10","The Rolling Stones",7
+"2008-10","The Weepies",4
+"2008-11","Amy Winehouse",20
+"2008-11","Barenaked Ladies",6
+"2008-11","Bob Dylan",6
+"2008-11","Bob Marley & The Wailers",2
+"2008-11","Bruce Springsteen",1
+"2008-11","Coldplay",3
+"2008-11","Dusty Springfield",6
+"2008-11","Elvis Presley",13
+"2008-11","Griffin House",1
+"2008-11","Jenny Owen Youngs",2
+"2008-11","Josh Rouse",12
+"2008-11","Kanye West",5
+"2008-11","Ladytron",1
+"2008-11","Neil Young",4
+"2008-11","Peter Bjorn And John",1
+"2008-11","Sarah Mclachlan",5
+"2008-11","The Jam",3
+"2008-11","The Proclaimers",0
+"2008-11","The Rolling Stones",6
+"2008-11","The Weepies",1
+"2008-12","Amy Winehouse",27
+"2008-12","Barenaked Ladies",37
+"2008-12","Bob Dylan",0
+"2008-12","Bob Marley & The Wailers",2
+"2008-12","Bruce Springsteen",0
+"2008-12","Coldplay",3
+"2008-12","Dusty Springfield",0
+"2008-12","Elvis Presley",17
+"2008-12","Griffin House",0
+"2008-12","Jenny Owen Youngs",2
+"2008-12","Josh Rouse",2
+"2008-12","Kanye West",17
+"2008-12","Ladytron",0
+"2008-12","Neil Young",2
+"2008-12","Peter Bjorn And John",0
+"2008-12","Sarah Mclachlan",30
+"2008-12","The Jam",0
+"2008-12","The Proclaimers",0
+"2008-12","The Rolling Stones",0
+"2008-12","The Weepies",2
+"2009-01","Amy Winehouse",0
+"2009-01","Barenaked Ladies",1
+"2009-01","Bob Dylan",1
+"2009-01","Bob Marley & The Wailers",4
+"2009-01","Bruce Springsteen",1
+"2009-01","Coldplay",2
+"2009-01","Dusty Springfield",22
+"2009-01","Elvis Presley",2
+"2009-01","Griffin House",3
+"2009-01","Jenny Owen Youngs",55
+"2009-01","Josh Rouse",5
+"2009-01","Kanye West",1
+"2009-01","Ladytron",2
+"2009-01","Neil Young",4
+"2009-01","Peter Bjorn And John",1
+"2009-01","Sarah Mclachlan",3
+"2009-01","The Jam",4
+"2009-01","The Proclaimers",1
+"2009-01","The Rolling Stones",7
+"2009-01","The Weepies",0
+"2009-02","Amy Winehouse",6
+"2009-02","Barenaked Ladies",7
+"2009-02","Bob Dylan",6
+"2009-02","Bob Marley & The Wailers",1
+"2009-02","Bruce Springsteen",2
+"2009-02","Coldplay",2
+"2009-02","Dusty Springfield",1
+"2009-02","Elvis Presley",2
+"2009-02","Griffin House",5
+"2009-02","Jenny Owen Youngs",9
+"2009-02","Josh Rouse",5
+"2009-02","Kanye West",22
+"2009-02","Ladytron",2
+"2009-02","Neil Young",9
+"2009-02","Peter Bjorn And John",2
+"2009-02","Sarah Mclachlan",3
+"2009-02","The Jam",3
+"2009-02","The Proclaimers",3
+"2009-02","The Rolling Stones",8
+"2009-02","The Weepies",4
+"2009-03","Amy Winehouse",1
+"2009-03","Barenaked Ladies",19
+"2009-03","Bob Dylan",7
+"2009-03","Bob Marley & The Wailers",4
+"2009-03","Bruce Springsteen",2
+"2009-03","Coldplay",1
+"2009-03","Dusty Springfield",2
+"2009-03","Elvis Presley",0
+"2009-03","Griffin House",3
+"2009-03","Jenny Owen Youngs",1
+"2009-03","Josh Rouse",8
+"2009-03","Kanye West",65
+"2009-03","Ladytron",3
+"2009-03","Neil Young",10
+"2009-03","Peter Bjorn And John",1
+"2009-03","Sarah Mclachlan",5
+"2009-03","The Jam",4
+"2009-03","The Proclaimers",2
+"2009-03","The Rolling Stones",7
+"2009-03","The Weepies",3
+"2009-04","Amy Winehouse",0
+"2009-04","Barenaked Ladies",26
+"2009-04","Bob Dylan",7
+"2009-04","Bob Marley & The Wailers",4
+"2009-04","Bruce Springsteen",1
+"2009-04","Coldplay",1
+"2009-04","Dusty Springfield",1
+"2009-04","Elvis Presley",1
+"2009-04","Griffin House",0
+"2009-04","Jenny Owen Youngs",1
+"2009-04","Josh Rouse",0
+"2009-04","Kanye West",2
+"2009-04","Ladytron",0
+"2009-04","Neil Young",1
+"2009-04","Peter Bjorn And John",0
+"2009-04","Sarah Mclachlan",1
+"2009-04","The Jam",1
+"2009-04","The Proclaimers",1
+"2009-04","The Rolling Stones",1
+"2009-04","The Weepies",0

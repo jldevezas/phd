@@ -1,161 +1,161 @@
-month,artist,plays
-2008-04,3 Doors Down,0
-2008-04,A-Ha,0
-2008-04,Alizée,0
-2008-04,Björk,0
-2008-04,Goldfrapp,0
-2008-04,Gorillaz,0
-2008-04,Lacuna Coil,3
-2008-04,Massive Attack,0
-2008-04,Nine Inch Nails,1
-2008-04,Pantera,1
-2008-04,Papa Roach,1
-2008-04,Pj Harvey,0
-2008-04,Prince,1
-2008-04,Radiohead,0
-2008-04,Sweet Noise,3
-2008-04,System Of A Down,1
-2008-04,The Car Is On Fire,1
-2008-04,The Doors,1
-2008-04,U2,1
-2008-04,Vader,0
-2008-05,3 Doors Down,0
-2008-05,A-Ha,0
-2008-05,Alizée,0
-2008-05,Björk,0
-2008-05,Goldfrapp,0
-2008-05,Gorillaz,0
-2008-05,Lacuna Coil,0
-2008-05,Massive Attack,0
-2008-05,Nine Inch Nails,0
-2008-05,Pantera,0
-2008-05,Papa Roach,0
-2008-05,Pj Harvey,0
-2008-05,Prince,0
-2008-05,Radiohead,0
-2008-05,Sweet Noise,0
-2008-05,System Of A Down,0
-2008-05,The Car Is On Fire,0
-2008-05,The Doors,0
-2008-05,U2,0
-2008-05,Vader,0
-2008-06,3 Doors Down,0
-2008-06,A-Ha,0
-2008-06,Alizée,0
-2008-06,Björk,0
-2008-06,Goldfrapp,0
-2008-06,Gorillaz,0
-2008-06,Lacuna Coil,0
-2008-06,Massive Attack,0
-2008-06,Nine Inch Nails,0
-2008-06,Pantera,0
-2008-06,Papa Roach,0
-2008-06,Pj Harvey,0
-2008-06,Prince,0
-2008-06,Radiohead,0
-2008-06,Sweet Noise,0
-2008-06,System Of A Down,0
-2008-06,The Car Is On Fire,0
-2008-06,The Doors,0
-2008-06,U2,0
-2008-06,Vader,0
-2008-07,3 Doors Down,0
-2008-07,A-Ha,0
-2008-07,Alizée,1
-2008-07,Björk,1
-2008-07,Goldfrapp,1
-2008-07,Gorillaz,1
-2008-07,Lacuna Coil,1
-2008-07,Massive Attack,1
-2008-07,Nine Inch Nails,0
-2008-07,Pantera,0
-2008-07,Papa Roach,0
-2008-07,Pj Harvey,1
-2008-07,Prince,0
-2008-07,Radiohead,1
-2008-07,Sweet Noise,1
-2008-07,System Of A Down,0
-2008-07,The Car Is On Fire,1
-2008-07,The Doors,0
-2008-07,U2,0
-2008-07,Vader,0
-2008-08,3 Doors Down,0
-2008-08,A-Ha,0
-2008-08,Alizée,0
-2008-08,Björk,1
-2008-08,Goldfrapp,1
-2008-08,Gorillaz,2
-2008-08,Lacuna Coil,0
-2008-08,Massive Attack,1
-2008-08,Nine Inch Nails,0
-2008-08,Pantera,0
-2008-08,Papa Roach,0
-2008-08,Pj Harvey,1
-2008-08,Prince,0
-2008-08,Radiohead,0
-2008-08,Sweet Noise,0
-2008-08,System Of A Down,0
-2008-08,The Car Is On Fire,0
-2008-08,The Doors,0
-2008-08,U2,0
-2008-08,Vader,1
-2008-09,3 Doors Down,3
-2008-09,A-Ha,1
-2008-09,Alizée,2
-2008-09,Björk,3
-2008-09,Goldfrapp,0
-2008-09,Gorillaz,0
-2008-09,Lacuna Coil,0
-2008-09,Massive Attack,2
-2008-09,Nine Inch Nails,1
-2008-09,Pantera,4
-2008-09,Papa Roach,3
-2008-09,Pj Harvey,2
-2008-09,Prince,1
-2008-09,Radiohead,1
-2008-09,Sweet Noise,10
-2008-09,System Of A Down,5
-2008-09,The Car Is On Fire,2
-2008-09,The Doors,1
-2008-09,U2,3
-2008-09,Vader,4
-2008-10,3 Doors Down,3
-2008-10,A-Ha,1
-2008-10,Alizée,3
-2008-10,Björk,2
-2008-10,Goldfrapp,1
-2008-10,Gorillaz,1
-2008-10,Lacuna Coil,1
-2008-10,Massive Attack,1
-2008-10,Nine Inch Nails,2
-2008-10,Pantera,12
-2008-10,Papa Roach,5
-2008-10,Pj Harvey,1
-2008-10,Prince,1
-2008-10,Radiohead,4
-2008-10,Sweet Noise,3
-2008-10,System Of A Down,9
-2008-10,The Car Is On Fire,0
-2008-10,The Doors,1
-2008-10,U2,3
-2008-10,Vader,1
-2008-11,3 Doors Down,2
-2008-11,A-Ha,1
-2008-11,Alizée,1
-2008-11,Björk,1
-2008-11,Goldfrapp,1
-2008-11,Gorillaz,2
-2008-11,Lacuna Coil,1
-2008-11,Massive Attack,1
-2008-11,Nine Inch Nails,1
-2008-11,Pantera,2
-2008-11,Papa Roach,2
-2008-11,Pj Harvey,0
-2008-11,Prince,1
-2008-11,Radiohead,2
-2008-11,Sweet Noise,0
-2008-11,System Of A Down,2
-2008-11,The Car Is On Fire,1
-2008-11,The Doors,1
-2008-11,U2,1
-2008-11,Vader,1
+"month","artist","plays"
+"2008-04","3 Doors Down",0
+"2008-04","A-Ha",0
+"2008-04","Alizée",0
+"2008-04","Björk",0
+"2008-04","Goldfrapp",0
+"2008-04","Gorillaz",0
+"2008-04","Lacuna Coil",3
+"2008-04","Massive Attack",0
+"2008-04","Nine Inch Nails",1
+"2008-04","Pantera",1
+"2008-04","Papa Roach",1
+"2008-04","Pj Harvey",0
+"2008-04","Prince",1
+"2008-04","Radiohead",0
+"2008-04","Sweet Noise",3
+"2008-04","System Of A Down",1
+"2008-04","The Car Is On Fire",1
+"2008-04","The Doors",1
+"2008-04","U2",1
+"2008-04","Vader",0
+"2008-05","3 Doors Down",0
+"2008-05","A-Ha",0
+"2008-05","Alizée",0
+"2008-05","Björk",0
+"2008-05","Goldfrapp",0
+"2008-05","Gorillaz",0
+"2008-05","Lacuna Coil",0
+"2008-05","Massive Attack",0
+"2008-05","Nine Inch Nails",0
+"2008-05","Pantera",0
+"2008-05","Papa Roach",0
+"2008-05","Pj Harvey",0
+"2008-05","Prince",0
+"2008-05","Radiohead",0
+"2008-05","Sweet Noise",0
+"2008-05","System Of A Down",0
+"2008-05","The Car Is On Fire",0
+"2008-05","The Doors",0
+"2008-05","U2",0
+"2008-05","Vader",0
+"2008-06","3 Doors Down",0
+"2008-06","A-Ha",0
+"2008-06","Alizée",0
+"2008-06","Björk",0
+"2008-06","Goldfrapp",0
+"2008-06","Gorillaz",0
+"2008-06","Lacuna Coil",0
+"2008-06","Massive Attack",0
+"2008-06","Nine Inch Nails",0
+"2008-06","Pantera",0
+"2008-06","Papa Roach",0
+"2008-06","Pj Harvey",0
+"2008-06","Prince",0
+"2008-06","Radiohead",0
+"2008-06","Sweet Noise",0
+"2008-06","System Of A Down",0
+"2008-06","The Car Is On Fire",0
+"2008-06","The Doors",0
+"2008-06","U2",0
+"2008-06","Vader",0
+"2008-07","3 Doors Down",0
+"2008-07","A-Ha",0
+"2008-07","Alizée",1
+"2008-07","Björk",1
+"2008-07","Goldfrapp",1
+"2008-07","Gorillaz",1
+"2008-07","Lacuna Coil",1
+"2008-07","Massive Attack",1
+"2008-07","Nine Inch Nails",0
+"2008-07","Pantera",0
+"2008-07","Papa Roach",0
+"2008-07","Pj Harvey",1
+"2008-07","Prince",0
+"2008-07","Radiohead",1
+"2008-07","Sweet Noise",1
+"2008-07","System Of A Down",0
+"2008-07","The Car Is On Fire",1
+"2008-07","The Doors",0
+"2008-07","U2",0
+"2008-07","Vader",0
+"2008-08","3 Doors Down",0
+"2008-08","A-Ha",0
+"2008-08","Alizée",0
+"2008-08","Björk",1
+"2008-08","Goldfrapp",1
+"2008-08","Gorillaz",2
+"2008-08","Lacuna Coil",0
+"2008-08","Massive Attack",1
+"2008-08","Nine Inch Nails",0
+"2008-08","Pantera",0
+"2008-08","Papa Roach",0
+"2008-08","Pj Harvey",1
+"2008-08","Prince",0
+"2008-08","Radiohead",0
+"2008-08","Sweet Noise",0
+"2008-08","System Of A Down",0
+"2008-08","The Car Is On Fire",0
+"2008-08","The Doors",0
+"2008-08","U2",0
+"2008-08","Vader",1
+"2008-09","3 Doors Down",3
+"2008-09","A-Ha",1
+"2008-09","Alizée",2
+"2008-09","Björk",3
+"2008-09","Goldfrapp",0
+"2008-09","Gorillaz",0
+"2008-09","Lacuna Coil",0
+"2008-09","Massive Attack",2
+"2008-09","Nine Inch Nails",1
+"2008-09","Pantera",4
+"2008-09","Papa Roach",3
+"2008-09","Pj Harvey",2
+"2008-09","Prince",1
+"2008-09","Radiohead",1
+"2008-09","Sweet Noise",10
+"2008-09","System Of A Down",5
+"2008-09","The Car Is On Fire",2
+"2008-09","The Doors",1
+"2008-09","U2",3
+"2008-09","Vader",4
+"2008-10","3 Doors Down",3
+"2008-10","A-Ha",1
+"2008-10","Alizée",3
+"2008-10","Björk",2
+"2008-10","Goldfrapp",1
+"2008-10","Gorillaz",1
+"2008-10","Lacuna Coil",1
+"2008-10","Massive Attack",1
+"2008-10","Nine Inch Nails",2
+"2008-10","Pantera",12
+"2008-10","Papa Roach",5
+"2008-10","Pj Harvey",1
+"2008-10","Prince",1
+"2008-10","Radiohead",4
+"2008-10","Sweet Noise",3
+"2008-10","System Of A Down",9
+"2008-10","The Car Is On Fire",0
+"2008-10","The Doors",1
+"2008-10","U2",3
+"2008-10","Vader",1
+"2008-11","3 Doors Down",2
+"2008-11","A-Ha",1
+"2008-11","Alizée",1
+"2008-11","Björk",1
+"2008-11","Goldfrapp",1
+"2008-11","Gorillaz",2
+"2008-11","Lacuna Coil",1
+"2008-11","Massive Attack",1
+"2008-11","Nine Inch Nails",1
+"2008-11","Pantera",2
+"2008-11","Papa Roach",2
+"2008-11","Pj Harvey",0
+"2008-11","Prince",1
+"2008-11","Radiohead",2
+"2008-11","Sweet Noise",0
+"2008-11","System Of A Down",2
+"2008-11","The Car Is On Fire",1
+"2008-11","The Doors",1
+"2008-11","U2",1
+"2008-11","Vader",1

@@ -1,141 +1,141 @@
-month,artist,plays
-2008-11,A.A. Bondy,0
-2008-11,Acid House Kings,5
-2008-11,Asobi Seksu,1
-2008-11,Barzin,0
-2008-11,Belle And Sebastian,1
-2008-11,Brittle Stars,0
-2008-11,Club 8,1
-2008-11,Gene,1
-2008-11,Hammock,4
-2008-11,Laura,7
-2008-11,Mono,22
-2008-11,Morrissey,68
-2008-11,Okkervil River,1
-2008-11,Pet Shop Boys,6
-2008-11,Pg.Lost,29
-2008-11,Sigur Rós,45
-2008-11,Stars In Coma,0
-2008-11,The Legends,27
-2008-11,The Smiths,11
-2008-11,Yndi Halda,1
-2008-12,A.A. Bondy,11
-2008-12,Acid House Kings,3
-2008-12,Asobi Seksu,1
-2008-12,Barzin,0
-2008-12,Belle And Sebastian,2
-2008-12,Brittle Stars,6
-2008-12,Club 8,3
-2008-12,Gene,4
-2008-12,Hammock,2
-2008-12,Laura,2
-2008-12,Mono,2
-2008-12,Morrissey,23
-2008-12,Okkervil River,2
-2008-12,Pet Shop Boys,1
-2008-12,Pg.Lost,2
-2008-12,Sigur Rós,18
-2008-12,Stars In Coma,3
-2008-12,The Legends,1
-2008-12,The Smiths,4
-2008-12,Yndi Halda,1
-2009-01,A.A. Bondy,2
-2009-01,Acid House Kings,31
-2009-01,Asobi Seksu,0
-2009-01,Barzin,42
-2009-01,Belle And Sebastian,1
-2009-01,Brittle Stars,8
-2009-01,Club 8,5
-2009-01,Gene,13
-2009-01,Hammock,18
-2009-01,Laura,7
-2009-01,Mono,2
-2009-01,Morrissey,40
-2009-01,Okkervil River,1
-2009-01,Pet Shop Boys,7
-2009-01,Pg.Lost,1
-2009-01,Sigur Rós,33
-2009-01,Stars In Coma,1
-2009-01,The Legends,3
-2009-01,The Smiths,14
-2009-01,Yndi Halda,2
-2009-02,A.A. Bondy,5
-2009-02,Acid House Kings,2
-2009-02,Asobi Seksu,0
-2009-02,Barzin,13
-2009-02,Belle And Sebastian,16
-2009-02,Brittle Stars,20
-2009-02,Club 8,2
-2009-02,Gene,1
-2009-02,Hammock,21
-2009-02,Laura,4
-2009-02,Mono,24
-2009-02,Morrissey,53
-2009-02,Okkervil River,2
-2009-02,Pet Shop Boys,7
-2009-02,Pg.Lost,1
-2009-02,Sigur Rós,56
-2009-02,Stars In Coma,7
-2009-02,The Legends,2
-2009-02,The Smiths,1
-2009-02,Yndi Halda,3
-2009-03,A.A. Bondy,6
-2009-03,Acid House Kings,2
-2009-03,Asobi Seksu,1
-2009-03,Barzin,30
-2009-03,Belle And Sebastian,1
-2009-03,Brittle Stars,1
-2009-03,Club 8,5
-2009-03,Gene,1
-2009-03,Hammock,15
-2009-03,Laura,38
-2009-03,Mono,18
-2009-03,Morrissey,28
-2009-03,Okkervil River,16
-2009-03,Pet Shop Boys,5
-2009-03,Pg.Lost,6
-2009-03,Sigur Rós,45
-2009-03,Stars In Coma,1
-2009-03,The Legends,3
-2009-03,The Smiths,5
-2009-03,Yndi Halda,4
-2009-04,A.A. Bondy,3
-2009-04,Acid House Kings,2
-2009-04,Asobi Seksu,23
-2009-04,Barzin,30
-2009-04,Belle And Sebastian,4
-2009-04,Brittle Stars,1
-2009-04,Club 8,4
-2009-04,Gene,1
-2009-04,Hammock,12
-2009-04,Laura,13
-2009-04,Mono,21
-2009-04,Morrissey,17
-2009-04,Okkervil River,14
-2009-04,Pet Shop Boys,14
-2009-04,Pg.Lost,3
-2009-04,Sigur Rós,27
-2009-04,Stars In Coma,18
-2009-04,The Legends,5
-2009-04,The Smiths,2
-2009-04,Yndi Halda,1
-2009-05,A.A. Bondy,0
-2009-05,Acid House Kings,1
-2009-05,Asobi Seksu,2
-2009-05,Barzin,7
-2009-05,Belle And Sebastian,0
-2009-05,Brittle Stars,0
-2009-05,Club 8,0
-2009-05,Gene,0
-2009-05,Hammock,0
-2009-05,Laura,0
-2009-05,Mono,0
-2009-05,Morrissey,0
-2009-05,Okkervil River,0
-2009-05,Pet Shop Boys,0
-2009-05,Pg.Lost,0
-2009-05,Sigur Rós,0
-2009-05,Stars In Coma,1
-2009-05,The Legends,24
-2009-05,The Smiths,0
-2009-05,Yndi Halda,0
+"month","artist","plays"
+"2008-11","A.A. Bondy",0
+"2008-11","Acid House Kings",5
+"2008-11","Asobi Seksu",1
+"2008-11","Barzin",0
+"2008-11","Belle And Sebastian",1
+"2008-11","Brittle Stars",0
+"2008-11","Club 8",1
+"2008-11","Gene",1
+"2008-11","Hammock",4
+"2008-11","Laura",7
+"2008-11","Mono",22
+"2008-11","Morrissey",68
+"2008-11","Okkervil River",1
+"2008-11","Pet Shop Boys",6
+"2008-11","Pg.Lost",29
+"2008-11","Sigur Rós",45
+"2008-11","Stars In Coma",0
+"2008-11","The Legends",27
+"2008-11","The Smiths",11
+"2008-11","Yndi Halda",1
+"2008-12","A.A. Bondy",11
+"2008-12","Acid House Kings",3
+"2008-12","Asobi Seksu",1
+"2008-12","Barzin",0
+"2008-12","Belle And Sebastian",2
+"2008-12","Brittle Stars",6
+"2008-12","Club 8",3
+"2008-12","Gene",4
+"2008-12","Hammock",2
+"2008-12","Laura",2
+"2008-12","Mono",2
+"2008-12","Morrissey",23
+"2008-12","Okkervil River",2
+"2008-12","Pet Shop Boys",1
+"2008-12","Pg.Lost",2
+"2008-12","Sigur Rós",18
+"2008-12","Stars In Coma",3
+"2008-12","The Legends",1
+"2008-12","The Smiths",4
+"2008-12","Yndi Halda",1
+"2009-01","A.A. Bondy",2
+"2009-01","Acid House Kings",31
+"2009-01","Asobi Seksu",0
+"2009-01","Barzin",42
+"2009-01","Belle And Sebastian",1
+"2009-01","Brittle Stars",8
+"2009-01","Club 8",5
+"2009-01","Gene",13
+"2009-01","Hammock",18
+"2009-01","Laura",7
+"2009-01","Mono",2
+"2009-01","Morrissey",40
+"2009-01","Okkervil River",1
+"2009-01","Pet Shop Boys",7
+"2009-01","Pg.Lost",1
+"2009-01","Sigur Rós",33
+"2009-01","Stars In Coma",1
+"2009-01","The Legends",3
+"2009-01","The Smiths",14
+"2009-01","Yndi Halda",2
+"2009-02","A.A. Bondy",5
+"2009-02","Acid House Kings",2
+"2009-02","Asobi Seksu",0
+"2009-02","Barzin",13
+"2009-02","Belle And Sebastian",16
+"2009-02","Brittle Stars",20
+"2009-02","Club 8",2
+"2009-02","Gene",1
+"2009-02","Hammock",21
+"2009-02","Laura",4
+"2009-02","Mono",24
+"2009-02","Morrissey",53
+"2009-02","Okkervil River",2
+"2009-02","Pet Shop Boys",7
+"2009-02","Pg.Lost",1
+"2009-02","Sigur Rós",56
+"2009-02","Stars In Coma",7
+"2009-02","The Legends",2
+"2009-02","The Smiths",1
+"2009-02","Yndi Halda",3
+"2009-03","A.A. Bondy",6
+"2009-03","Acid House Kings",2
+"2009-03","Asobi Seksu",1
+"2009-03","Barzin",30
+"2009-03","Belle And Sebastian",1
+"2009-03","Brittle Stars",1
+"2009-03","Club 8",5
+"2009-03","Gene",1
+"2009-03","Hammock",15
+"2009-03","Laura",38
+"2009-03","Mono",18
+"2009-03","Morrissey",28
+"2009-03","Okkervil River",16
+"2009-03","Pet Shop Boys",5
+"2009-03","Pg.Lost",6
+"2009-03","Sigur Rós",45
+"2009-03","Stars In Coma",1
+"2009-03","The Legends",3
+"2009-03","The Smiths",5
+"2009-03","Yndi Halda",4
+"2009-04","A.A. Bondy",3
+"2009-04","Acid House Kings",2
+"2009-04","Asobi Seksu",23
+"2009-04","Barzin",30
+"2009-04","Belle And Sebastian",4
+"2009-04","Brittle Stars",1
+"2009-04","Club 8",4
+"2009-04","Gene",1
+"2009-04","Hammock",12
+"2009-04","Laura",13
+"2009-04","Mono",21
+"2009-04","Morrissey",17
+"2009-04","Okkervil River",14
+"2009-04","Pet Shop Boys",14
+"2009-04","Pg.Lost",3
+"2009-04","Sigur Rós",27
+"2009-04","Stars In Coma",18
+"2009-04","The Legends",5
+"2009-04","The Smiths",2
+"2009-04","Yndi Halda",1
+"2009-05","A.A. Bondy",0
+"2009-05","Acid House Kings",1
+"2009-05","Asobi Seksu",2
+"2009-05","Barzin",7
+"2009-05","Belle And Sebastian",0
+"2009-05","Brittle Stars",0
+"2009-05","Club 8",0
+"2009-05","Gene",0
+"2009-05","Hammock",0
+"2009-05","Laura",0
+"2009-05","Mono",0
+"2009-05","Morrissey",0
+"2009-05","Okkervil River",0
+"2009-05","Pet Shop Boys",0
+"2009-05","Pg.Lost",0
+"2009-05","Sigur Rós",0
+"2009-05","Stars In Coma",1
+"2009-05","The Legends",24
+"2009-05","The Smiths",0
+"2009-05","Yndi Halda",0

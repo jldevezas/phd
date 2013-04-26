@@ -1,761 +1,761 @@
-month,artist,plays
-2006-03,Ac/Dc,25
-2006-03,Aerosmith,0
-2006-03,Bachman-Turner Overdrive,4
-2006-03,Chicago,0
-2006-03,Creedence Clearwater Revisited,0
-2006-03,Depeche Mode,1
-2006-03,Dread Zeppelin,1
-2006-03,Eagles,2
-2006-03,Electric Light Orchestra,0
-2006-03,Electric Light Orchestra Part Ii,0
-2006-03,Lynyrd Skynyrd,5
-2006-03,Pink Floyd,3
-2006-03,Rush,0
-2006-03,Steve Miller Band,0
-2006-03,The Beatles,34
-2006-03,The Doobie Brothers,0
-2006-03,The Doors,29
-2006-03,The Rolling Stones,2
-2006-03,The Who,25
-2006-03,Zz Top,2
-2006-04,Ac/Dc,6
-2006-04,Aerosmith,0
-2006-04,Bachman-Turner Overdrive,1
-2006-04,Chicago,0
-2006-04,Creedence Clearwater Revisited,5
-2006-04,Depeche Mode,0
-2006-04,Dread Zeppelin,3
-2006-04,Eagles,0
-2006-04,Electric Light Orchestra,0
-2006-04,Electric Light Orchestra Part Ii,0
-2006-04,Lynyrd Skynyrd,7
-2006-04,Pink Floyd,0
-2006-04,Rush,0
-2006-04,Steve Miller Band,6
-2006-04,The Beatles,44
-2006-04,The Doobie Brothers,1
-2006-04,The Doors,9
-2006-04,The Rolling Stones,4
-2006-04,The Who,17
-2006-04,Zz Top,4
-2006-05,Ac/Dc,6
-2006-05,Aerosmith,1
-2006-05,Bachman-Turner Overdrive,4
-2006-05,Chicago,0
-2006-05,Creedence Clearwater Revisited,16
-2006-05,Depeche Mode,0
-2006-05,Dread Zeppelin,1
-2006-05,Eagles,1
-2006-05,Electric Light Orchestra,0
-2006-05,Electric Light Orchestra Part Ii,0
-2006-05,Lynyrd Skynyrd,0
-2006-05,Pink Floyd,0
-2006-05,Rush,0
-2006-05,Steve Miller Band,8
-2006-05,The Beatles,26
-2006-05,The Doobie Brothers,4
-2006-05,The Doors,1
-2006-05,The Rolling Stones,2
-2006-05,The Who,5
-2006-05,Zz Top,1
-2006-06,Ac/Dc,5
-2006-06,Aerosmith,1
-2006-06,Bachman-Turner Overdrive,1
-2006-06,Chicago,1
-2006-06,Creedence Clearwater Revisited,13
-2006-06,Depeche Mode,0
-2006-06,Dread Zeppelin,0
-2006-06,Eagles,0
-2006-06,Electric Light Orchestra,1
-2006-06,Electric Light Orchestra Part Ii,0
-2006-06,Lynyrd Skynyrd,0
-2006-06,Pink Floyd,0
-2006-06,Rush,0
-2006-06,Steve Miller Band,3
-2006-06,The Beatles,1
-2006-06,The Doobie Brothers,0
-2006-06,The Doors,0
-2006-06,The Rolling Stones,0
-2006-06,The Who,2
-2006-06,Zz Top,0
-2006-07,Ac/Dc,0
-2006-07,Aerosmith,0
-2006-07,Bachman-Turner Overdrive,6
-2006-07,Chicago,0
-2006-07,Creedence Clearwater Revisited,21
-2006-07,Depeche Mode,0
-2006-07,Dread Zeppelin,0
-2006-07,Eagles,0
-2006-07,Electric Light Orchestra,1
-2006-07,Electric Light Orchestra Part Ii,0
-2006-07,Lynyrd Skynyrd,0
-2006-07,Pink Floyd,0
-2006-07,Rush,0
-2006-07,Steve Miller Band,8
-2006-07,The Beatles,1
-2006-07,The Doobie Brothers,0
-2006-07,The Doors,0
-2006-07,The Rolling Stones,0
-2006-07,The Who,30
-2006-07,Zz Top,0
-2006-08,Ac/Dc,0
-2006-08,Aerosmith,0
-2006-08,Bachman-Turner Overdrive,0
-2006-08,Chicago,0
-2006-08,Creedence Clearwater Revisited,0
-2006-08,Depeche Mode,0
-2006-08,Dread Zeppelin,0
-2006-08,Eagles,0
-2006-08,Electric Light Orchestra,0
-2006-08,Electric Light Orchestra Part Ii,0
-2006-08,Lynyrd Skynyrd,0
-2006-08,Pink Floyd,0
-2006-08,Rush,0
-2006-08,Steve Miller Band,1
-2006-08,The Beatles,0
-2006-08,The Doobie Brothers,1
-2006-08,The Doors,1
-2006-08,The Rolling Stones,0
-2006-08,The Who,1
-2006-08,Zz Top,0
-2006-09,Ac/Dc,33
-2006-09,Aerosmith,1
-2006-09,Bachman-Turner Overdrive,2
-2006-09,Chicago,0
-2006-09,Creedence Clearwater Revisited,4
-2006-09,Depeche Mode,0
-2006-09,Dread Zeppelin,3
-2006-09,Eagles,8
-2006-09,Electric Light Orchestra,1
-2006-09,Electric Light Orchestra Part Ii,0
-2006-09,Lynyrd Skynyrd,5
-2006-09,Pink Floyd,1
-2006-09,Rush,4
-2006-09,Steve Miller Band,9
-2006-09,The Beatles,10
-2006-09,The Doobie Brothers,9
-2006-09,The Doors,4
-2006-09,The Rolling Stones,14
-2006-09,The Who,28
-2006-09,Zz Top,5
-2006-10,Ac/Dc,6
-2006-10,Aerosmith,5
-2006-10,Bachman-Turner Overdrive,1
-2006-10,Chicago,0
-2006-10,Creedence Clearwater Revisited,28
-2006-10,Depeche Mode,1
-2006-10,Dread Zeppelin,4
-2006-10,Eagles,2
-2006-10,Electric Light Orchestra,7
-2006-10,Electric Light Orchestra Part Ii,18
-2006-10,Lynyrd Skynyrd,8
-2006-10,Pink Floyd,0
-2006-10,Rush,12
-2006-10,Steve Miller Band,15
-2006-10,The Beatles,11
-2006-10,The Doobie Brothers,7
-2006-10,The Doors,15
-2006-10,The Rolling Stones,8
-2006-10,The Who,10
-2006-10,Zz Top,32
-2006-11,Ac/Dc,1
-2006-11,Aerosmith,2
-2006-11,Bachman-Turner Overdrive,1
-2006-11,Chicago,6
-2006-11,Creedence Clearwater Revisited,5
-2006-11,Depeche Mode,1
-2006-11,Dread Zeppelin,1
-2006-11,Eagles,1
-2006-11,Electric Light Orchestra,12
-2006-11,Electric Light Orchestra Part Ii,12
-2006-11,Lynyrd Skynyrd,4
-2006-11,Pink Floyd,4
-2006-11,Rush,3
-2006-11,Steve Miller Band,13
-2006-11,The Beatles,6
-2006-11,The Doobie Brothers,12
-2006-11,The Doors,3
-2006-11,The Rolling Stones,11
-2006-11,The Who,13
-2006-11,Zz Top,29
-2006-12,Ac/Dc,0
-2006-12,Aerosmith,0
-2006-12,Bachman-Turner Overdrive,4
-2006-12,Chicago,6
-2006-12,Creedence Clearwater Revisited,5
-2006-12,Depeche Mode,6
-2006-12,Dread Zeppelin,0
-2006-12,Eagles,0
-2006-12,Electric Light Orchestra,5
-2006-12,Electric Light Orchestra Part Ii,5
-2006-12,Lynyrd Skynyrd,2
-2006-12,Pink Floyd,0
-2006-12,Rush,2
-2006-12,Steve Miller Band,2
-2006-12,The Beatles,4
-2006-12,The Doobie Brothers,4
-2006-12,The Doors,2
-2006-12,The Rolling Stones,2
-2006-12,The Who,11
-2006-12,Zz Top,10
-2007-01,Ac/Dc,1
-2007-01,Aerosmith,2
-2007-01,Bachman-Turner Overdrive,3
-2007-01,Chicago,3
-2007-01,Creedence Clearwater Revisited,5
-2007-01,Depeche Mode,4
-2007-01,Dread Zeppelin,2
-2007-01,Eagles,2
-2007-01,Electric Light Orchestra,8
-2007-01,Electric Light Orchestra Part Ii,3
-2007-01,Lynyrd Skynyrd,3
-2007-01,Pink Floyd,1
-2007-01,Rush,3
-2007-01,Steve Miller Band,6
-2007-01,The Beatles,4
-2007-01,The Doobie Brothers,5
-2007-01,The Doors,6
-2007-01,The Rolling Stones,1
-2007-01,The Who,23
-2007-01,Zz Top,10
-2007-02,Ac/Dc,1
-2007-02,Aerosmith,2
-2007-02,Bachman-Turner Overdrive,2
-2007-02,Chicago,3
-2007-02,Creedence Clearwater Revisited,5
-2007-02,Depeche Mode,2
-2007-02,Dread Zeppelin,4
-2007-02,Eagles,0
-2007-02,Electric Light Orchestra,0
-2007-02,Electric Light Orchestra Part Ii,2
-2007-02,Lynyrd Skynyrd,5
-2007-02,Pink Floyd,1
-2007-02,Rush,1
-2007-02,Steve Miller Band,7
-2007-02,The Beatles,3
-2007-02,The Doobie Brothers,3
-2007-02,The Doors,5
-2007-02,The Rolling Stones,2
-2007-02,The Who,18
-2007-02,Zz Top,8
-2007-03,Ac/Dc,0
-2007-03,Aerosmith,2
-2007-03,Bachman-Turner Overdrive,3
-2007-03,Chicago,1
-2007-03,Creedence Clearwater Revisited,3
-2007-03,Depeche Mode,1
-2007-03,Dread Zeppelin,1
-2007-03,Eagles,2
-2007-03,Electric Light Orchestra,8
-2007-03,Electric Light Orchestra Part Ii,6
-2007-03,Lynyrd Skynyrd,3
-2007-03,Pink Floyd,1
-2007-03,Rush,2
-2007-03,Steve Miller Band,13
-2007-03,The Beatles,4
-2007-03,The Doobie Brothers,1
-2007-03,The Doors,7
-2007-03,The Rolling Stones,1
-2007-03,The Who,8
-2007-03,Zz Top,12
-2007-04,Ac/Dc,0
-2007-04,Aerosmith,5
-2007-04,Bachman-Turner Overdrive,0
-2007-04,Chicago,2
-2007-04,Creedence Clearwater Revisited,3
-2007-04,Depeche Mode,0
-2007-04,Dread Zeppelin,0
-2007-04,Eagles,1
-2007-04,Electric Light Orchestra,3
-2007-04,Electric Light Orchestra Part Ii,3
-2007-04,Lynyrd Skynyrd,0
-2007-04,Pink Floyd,0
-2007-04,Rush,1
-2007-04,Steve Miller Band,0
-2007-04,The Beatles,5
-2007-04,The Doobie Brothers,2
-2007-04,The Doors,1
-2007-04,The Rolling Stones,0
-2007-04,The Who,10
-2007-04,Zz Top,3
-2007-05,Ac/Dc,1
-2007-05,Aerosmith,0
-2007-05,Bachman-Turner Overdrive,3
-2007-05,Chicago,4
-2007-05,Creedence Clearwater Revisited,12
-2007-05,Depeche Mode,2
-2007-05,Dread Zeppelin,0
-2007-05,Eagles,1
-2007-05,Electric Light Orchestra,8
-2007-05,Electric Light Orchestra Part Ii,9
-2007-05,Lynyrd Skynyrd,1
-2007-05,Pink Floyd,0
-2007-05,Rush,1
-2007-05,Steve Miller Band,2
-2007-05,The Beatles,5
-2007-05,The Doobie Brothers,0
-2007-05,The Doors,1
-2007-05,The Rolling Stones,1
-2007-05,The Who,14
-2007-05,Zz Top,13
-2007-06,Ac/Dc,0
-2007-06,Aerosmith,0
-2007-06,Bachman-Turner Overdrive,0
-2007-06,Chicago,0
-2007-06,Creedence Clearwater Revisited,0
-2007-06,Depeche Mode,0
-2007-06,Dread Zeppelin,0
-2007-06,Eagles,1
-2007-06,Electric Light Orchestra,0
-2007-06,Electric Light Orchestra Part Ii,0
-2007-06,Lynyrd Skynyrd,0
-2007-06,Pink Floyd,0
-2007-06,Rush,0
-2007-06,Steve Miller Band,0
-2007-06,The Beatles,0
-2007-06,The Doobie Brothers,0
-2007-06,The Doors,0
-2007-06,The Rolling Stones,0
-2007-06,The Who,0
-2007-06,Zz Top,0
-2007-07,Ac/Dc,0
-2007-07,Aerosmith,0
-2007-07,Bachman-Turner Overdrive,2
-2007-07,Chicago,0
-2007-07,Creedence Clearwater Revisited,0
-2007-07,Depeche Mode,0
-2007-07,Dread Zeppelin,2
-2007-07,Eagles,0
-2007-07,Electric Light Orchestra,0
-2007-07,Electric Light Orchestra Part Ii,0
-2007-07,Lynyrd Skynyrd,0
-2007-07,Pink Floyd,0
-2007-07,Rush,0
-2007-07,Steve Miller Band,0
-2007-07,The Beatles,0
-2007-07,The Doobie Brothers,1
-2007-07,The Doors,0
-2007-07,The Rolling Stones,0
-2007-07,The Who,0
-2007-07,Zz Top,0
-2007-08,Ac/Dc,0
-2007-08,Aerosmith,0
-2007-08,Bachman-Turner Overdrive,0
-2007-08,Chicago,3
-2007-08,Creedence Clearwater Revisited,9
-2007-08,Depeche Mode,1
-2007-08,Dread Zeppelin,0
-2007-08,Eagles,1
-2007-08,Electric Light Orchestra,1
-2007-08,Electric Light Orchestra Part Ii,4
-2007-08,Lynyrd Skynyrd,0
-2007-08,Pink Floyd,1
-2007-08,Rush,1
-2007-08,Steve Miller Band,1
-2007-08,The Beatles,5
-2007-08,The Doobie Brothers,1
-2007-08,The Doors,0
-2007-08,The Rolling Stones,4
-2007-08,The Who,11
-2007-08,Zz Top,0
-2007-09,Ac/Dc,0
-2007-09,Aerosmith,1
-2007-09,Bachman-Turner Overdrive,0
-2007-09,Chicago,16
-2007-09,Creedence Clearwater Revisited,43
-2007-09,Depeche Mode,0
-2007-09,Dread Zeppelin,15
-2007-09,Eagles,1
-2007-09,Electric Light Orchestra,8
-2007-09,Electric Light Orchestra Part Ii,17
-2007-09,Lynyrd Skynyrd,0
-2007-09,Pink Floyd,2
-2007-09,Rush,2
-2007-09,Steve Miller Band,16
-2007-09,The Beatles,2
-2007-09,The Doobie Brothers,6
-2007-09,The Doors,0
-2007-09,The Rolling Stones,0
-2007-09,The Who,35
-2007-09,Zz Top,28
-2007-10,Ac/Dc,6
-2007-10,Aerosmith,1
-2007-10,Bachman-Turner Overdrive,3
-2007-10,Chicago,15
-2007-10,Creedence Clearwater Revisited,25
-2007-10,Depeche Mode,11
-2007-10,Dread Zeppelin,13
-2007-10,Eagles,6
-2007-10,Electric Light Orchestra,11
-2007-10,Electric Light Orchestra Part Ii,11
-2007-10,Lynyrd Skynyrd,2
-2007-10,Pink Floyd,7
-2007-10,Rush,9
-2007-10,Steve Miller Band,16
-2007-10,The Beatles,17
-2007-10,The Doobie Brothers,13
-2007-10,The Doors,9
-2007-10,The Rolling Stones,5
-2007-10,The Who,28
-2007-10,Zz Top,35
-2007-11,Ac/Dc,9
-2007-11,Aerosmith,6
-2007-11,Bachman-Turner Overdrive,1
-2007-11,Chicago,9
-2007-11,Creedence Clearwater Revisited,9
-2007-11,Depeche Mode,10
-2007-11,Dread Zeppelin,5
-2007-11,Eagles,6
-2007-11,Electric Light Orchestra,5
-2007-11,Electric Light Orchestra Part Ii,8
-2007-11,Lynyrd Skynyrd,4
-2007-11,Pink Floyd,3
-2007-11,Rush,8
-2007-11,Steve Miller Band,33
-2007-11,The Beatles,17
-2007-11,The Doobie Brothers,28
-2007-11,The Doors,7
-2007-11,The Rolling Stones,6
-2007-11,The Who,42
-2007-11,Zz Top,28
-2007-12,Ac/Dc,1
-2007-12,Aerosmith,1
-2007-12,Bachman-Turner Overdrive,0
-2007-12,Chicago,5
-2007-12,Creedence Clearwater Revisited,0
-2007-12,Depeche Mode,2
-2007-12,Dread Zeppelin,2
-2007-12,Eagles,3
-2007-12,Electric Light Orchestra,3
-2007-12,Electric Light Orchestra Part Ii,2
-2007-12,Lynyrd Skynyrd,2
-2007-12,Pink Floyd,2
-2007-12,Rush,6
-2007-12,Steve Miller Band,4
-2007-12,The Beatles,3
-2007-12,The Doobie Brothers,4
-2007-12,The Doors,1
-2007-12,The Rolling Stones,2
-2007-12,The Who,7
-2007-12,Zz Top,16
-2008-01,Ac/Dc,1
-2008-01,Aerosmith,2
-2008-01,Bachman-Turner Overdrive,1
-2008-01,Chicago,8
-2008-01,Creedence Clearwater Revisited,8
-2008-01,Depeche Mode,9
-2008-01,Dread Zeppelin,5
-2008-01,Eagles,7
-2008-01,Electric Light Orchestra,2
-2008-01,Electric Light Orchestra Part Ii,1
-2008-01,Lynyrd Skynyrd,1
-2008-01,Pink Floyd,2
-2008-01,Rush,3
-2008-01,Steve Miller Band,11
-2008-01,The Beatles,18
-2008-01,The Doobie Brothers,1
-2008-01,The Doors,5
-2008-01,The Rolling Stones,3
-2008-01,The Who,16
-2008-01,Zz Top,20
-2008-02,Ac/Dc,2
-2008-02,Aerosmith,2
-2008-02,Bachman-Turner Overdrive,4
-2008-02,Chicago,8
-2008-02,Creedence Clearwater Revisited,3
-2008-02,Depeche Mode,5
-2008-02,Dread Zeppelin,3
-2008-02,Eagles,3
-2008-02,Electric Light Orchestra,6
-2008-02,Electric Light Orchestra Part Ii,1
-2008-02,Lynyrd Skynyrd,2
-2008-02,Pink Floyd,1
-2008-02,Rush,3
-2008-02,Steve Miller Band,2
-2008-02,The Beatles,19
-2008-02,The Doobie Brothers,1
-2008-02,The Doors,9
-2008-02,The Rolling Stones,2
-2008-02,The Who,5
-2008-02,Zz Top,13
-2008-03,Ac/Dc,1
-2008-03,Aerosmith,1
-2008-03,Bachman-Turner Overdrive,2
-2008-03,Chicago,1
-2008-03,Creedence Clearwater Revisited,0
-2008-03,Depeche Mode,1
-2008-03,Dread Zeppelin,0
-2008-03,Eagles,1
-2008-03,Electric Light Orchestra,2
-2008-03,Electric Light Orchestra Part Ii,2
-2008-03,Lynyrd Skynyrd,1
-2008-03,Pink Floyd,2
-2008-03,Rush,2
-2008-03,Steve Miller Band,1
-2008-03,The Beatles,6
-2008-03,The Doobie Brothers,1
-2008-03,The Doors,1
-2008-03,The Rolling Stones,1
-2008-03,The Who,6
-2008-03,Zz Top,12
-2008-04,Ac/Dc,10
-2008-04,Aerosmith,1
-2008-04,Bachman-Turner Overdrive,1
-2008-04,Chicago,4
-2008-04,Creedence Clearwater Revisited,3
-2008-04,Depeche Mode,3
-2008-04,Dread Zeppelin,6
-2008-04,Eagles,3
-2008-04,Electric Light Orchestra,6
-2008-04,Electric Light Orchestra Part Ii,3
-2008-04,Lynyrd Skynyrd,2
-2008-04,Pink Floyd,3
-2008-04,Rush,4
-2008-04,Steve Miller Band,8
-2008-04,The Beatles,38
-2008-04,The Doobie Brothers,7
-2008-04,The Doors,3
-2008-04,The Rolling Stones,11
-2008-04,The Who,12
-2008-04,Zz Top,178
-2008-05,Ac/Dc,5
-2008-05,Aerosmith,5
-2008-05,Bachman-Turner Overdrive,4
-2008-05,Chicago,3
-2008-05,Creedence Clearwater Revisited,10
-2008-05,Depeche Mode,4
-2008-05,Dread Zeppelin,7
-2008-05,Eagles,6
-2008-05,Electric Light Orchestra,2
-2008-05,Electric Light Orchestra Part Ii,6
-2008-05,Lynyrd Skynyrd,3
-2008-05,Pink Floyd,4
-2008-05,Rush,13
-2008-05,Steve Miller Band,7
-2008-05,The Beatles,35
-2008-05,The Doobie Brothers,8
-2008-05,The Doors,3
-2008-05,The Rolling Stones,10
-2008-05,The Who,35
-2008-05,Zz Top,96
-2008-06,Ac/Dc,0
-2008-06,Aerosmith,0
-2008-06,Bachman-Turner Overdrive,0
-2008-06,Chicago,0
-2008-06,Creedence Clearwater Revisited,0
-2008-06,Depeche Mode,0
-2008-06,Dread Zeppelin,0
-2008-06,Eagles,0
-2008-06,Electric Light Orchestra,0
-2008-06,Electric Light Orchestra Part Ii,0
-2008-06,Lynyrd Skynyrd,0
-2008-06,Pink Floyd,1
-2008-06,Rush,0
-2008-06,Steve Miller Band,0
-2008-06,The Beatles,0
-2008-06,The Doobie Brothers,0
-2008-06,The Doors,0
-2008-06,The Rolling Stones,0
-2008-06,The Who,4
-2008-06,Zz Top,2
-2008-07,Ac/Dc,0
-2008-07,Aerosmith,0
-2008-07,Bachman-Turner Overdrive,0
-2008-07,Chicago,0
-2008-07,Creedence Clearwater Revisited,0
-2008-07,Depeche Mode,0
-2008-07,Dread Zeppelin,0
-2008-07,Eagles,0
-2008-07,Electric Light Orchestra,0
-2008-07,Electric Light Orchestra Part Ii,0
-2008-07,Lynyrd Skynyrd,0
-2008-07,Pink Floyd,0
-2008-07,Rush,0
-2008-07,Steve Miller Band,0
-2008-07,The Beatles,0
-2008-07,The Doobie Brothers,0
-2008-07,The Doors,0
-2008-07,The Rolling Stones,0
-2008-07,The Who,0
-2008-07,Zz Top,12
-2008-08,Ac/Dc,2
-2008-08,Aerosmith,0
-2008-08,Bachman-Turner Overdrive,0
-2008-08,Chicago,2
-2008-08,Creedence Clearwater Revisited,2
-2008-08,Depeche Mode,4
-2008-08,Dread Zeppelin,2
-2008-08,Eagles,0
-2008-08,Electric Light Orchestra,2
-2008-08,Electric Light Orchestra Part Ii,2
-2008-08,Lynyrd Skynyrd,1
-2008-08,Pink Floyd,1
-2008-08,Rush,0
-2008-08,Steve Miller Band,1
-2008-08,The Beatles,6
-2008-08,The Doobie Brothers,1
-2008-08,The Doors,0
-2008-08,The Rolling Stones,3
-2008-08,The Who,4
-2008-08,Zz Top,13
-2008-09,Ac/Dc,3
-2008-09,Aerosmith,0
-2008-09,Bachman-Turner Overdrive,0
-2008-09,Chicago,0
-2008-09,Creedence Clearwater Revisited,2
-2008-09,Depeche Mode,2
-2008-09,Dread Zeppelin,1
-2008-09,Eagles,1
-2008-09,Electric Light Orchestra,1
-2008-09,Electric Light Orchestra Part Ii,0
-2008-09,Lynyrd Skynyrd,0
-2008-09,Pink Floyd,1
-2008-09,Rush,0
-2008-09,Steve Miller Band,1
-2008-09,The Beatles,2
-2008-09,The Doobie Brothers,2
-2008-09,The Doors,2
-2008-09,The Rolling Stones,1
-2008-09,The Who,12
-2008-09,Zz Top,12
-2008-10,Ac/Dc,0
-2008-10,Aerosmith,0
-2008-10,Bachman-Turner Overdrive,0
-2008-10,Chicago,0
-2008-10,Creedence Clearwater Revisited,0
-2008-10,Depeche Mode,0
-2008-10,Dread Zeppelin,1
-2008-10,Eagles,0
-2008-10,Electric Light Orchestra,0
-2008-10,Electric Light Orchestra Part Ii,0
-2008-10,Lynyrd Skynyrd,0
-2008-10,Pink Floyd,0
-2008-10,Rush,0
-2008-10,Steve Miller Band,0
-2008-10,The Beatles,0
-2008-10,The Doobie Brothers,0
-2008-10,The Doors,0
-2008-10,The Rolling Stones,1
-2008-10,The Who,0
-2008-10,Zz Top,2
-2008-11,Ac/Dc,0
-2008-11,Aerosmith,0
-2008-11,Bachman-Turner Overdrive,0
-2008-11,Chicago,2
-2008-11,Creedence Clearwater Revisited,0
-2008-11,Depeche Mode,0
-2008-11,Dread Zeppelin,0
-2008-11,Eagles,0
-2008-11,Electric Light Orchestra,0
-2008-11,Electric Light Orchestra Part Ii,0
-2008-11,Lynyrd Skynyrd,0
-2008-11,Pink Floyd,2
-2008-11,Rush,0
-2008-11,Steve Miller Band,0
-2008-11,The Beatles,1
-2008-11,The Doobie Brothers,0
-2008-11,The Doors,1
-2008-11,The Rolling Stones,2
-2008-11,The Who,0
-2008-11,Zz Top,4
-2008-12,Ac/Dc,1
-2008-12,Aerosmith,0
-2008-12,Bachman-Turner Overdrive,0
-2008-12,Chicago,0
-2008-12,Creedence Clearwater Revisited,1
-2008-12,Depeche Mode,0
-2008-12,Dread Zeppelin,3
-2008-12,Eagles,0
-2008-12,Electric Light Orchestra,0
-2008-12,Electric Light Orchestra Part Ii,0
-2008-12,Lynyrd Skynyrd,0
-2008-12,Pink Floyd,0
-2008-12,Rush,0
-2008-12,Steve Miller Band,2
-2008-12,The Beatles,7
-2008-12,The Doobie Brothers,0
-2008-12,The Doors,0
-2008-12,The Rolling Stones,0
-2008-12,The Who,0
-2008-12,Zz Top,6
-2009-01,Ac/Dc,2
-2009-01,Aerosmith,0
-2009-01,Bachman-Turner Overdrive,1
-2009-01,Chicago,1
-2009-01,Creedence Clearwater Revisited,1
-2009-01,Depeche Mode,4
-2009-01,Dread Zeppelin,1
-2009-01,Eagles,0
-2009-01,Electric Light Orchestra,1
-2009-01,Electric Light Orchestra Part Ii,2
-2009-01,Lynyrd Skynyrd,0
-2009-01,Pink Floyd,0
-2009-01,Rush,1
-2009-01,Steve Miller Band,0
-2009-01,The Beatles,3
-2009-01,The Doobie Brothers,0
-2009-01,The Doors,1
-2009-01,The Rolling Stones,0
-2009-01,The Who,5
-2009-01,Zz Top,6
-2009-02,Ac/Dc,6
-2009-02,Aerosmith,4
-2009-02,Bachman-Turner Overdrive,1
-2009-02,Chicago,2
-2009-02,Creedence Clearwater Revisited,11
-2009-02,Depeche Mode,1
-2009-02,Dread Zeppelin,5
-2009-02,Eagles,5
-2009-02,Electric Light Orchestra,1
-2009-02,Electric Light Orchestra Part Ii,2
-2009-02,Lynyrd Skynyrd,5
-2009-02,Pink Floyd,2
-2009-02,Rush,4
-2009-02,Steve Miller Band,9
-2009-02,The Beatles,15
-2009-02,The Doobie Brothers,3
-2009-02,The Doors,4
-2009-02,The Rolling Stones,2
-2009-02,The Who,8
-2009-02,Zz Top,79
-2009-03,Ac/Dc,3
-2009-03,Aerosmith,3
-2009-03,Bachman-Turner Overdrive,2
-2009-03,Chicago,2
-2009-03,Creedence Clearwater Revisited,5
-2009-03,Depeche Mode,0
-2009-03,Dread Zeppelin,3
-2009-03,Eagles,1
-2009-03,Electric Light Orchestra,0
-2009-03,Electric Light Orchestra Part Ii,1
-2009-03,Lynyrd Skynyrd,1
-2009-03,Pink Floyd,3
-2009-03,Rush,0
-2009-03,Steve Miller Band,2
-2009-03,The Beatles,3
-2009-03,The Doobie Brothers,3
-2009-03,The Doors,0
-2009-03,The Rolling Stones,0
-2009-03,The Who,5
-2009-03,Zz Top,14
-2009-04,Ac/Dc,21
-2009-04,Aerosmith,11
-2009-04,Bachman-Turner Overdrive,6
-2009-04,Chicago,6
-2009-04,Creedence Clearwater Revisited,19
-2009-04,Depeche Mode,2
-2009-04,Dread Zeppelin,3
-2009-04,Eagles,7
-2009-04,Electric Light Orchestra,1
-2009-04,Electric Light Orchestra Part Ii,4
-2009-04,Lynyrd Skynyrd,21
-2009-04,Pink Floyd,1
-2009-04,Rush,3
-2009-04,Steve Miller Band,10
-2009-04,The Beatles,15
-2009-04,The Doobie Brothers,4
-2009-04,The Doors,5
-2009-04,The Rolling Stones,17
-2009-04,The Who,8
-2009-04,Zz Top,48
+"month","artist","plays"
+"2006-03","Ac/Dc",25
+"2006-03","Aerosmith",0
+"2006-03","Bachman-Turner Overdrive",4
+"2006-03","Chicago",0
+"2006-03","Creedence Clearwater Revisited",0
+"2006-03","Depeche Mode",1
+"2006-03","Dread Zeppelin",1
+"2006-03","Eagles",2
+"2006-03","Electric Light Orchestra",0
+"2006-03","Electric Light Orchestra Part Ii",0
+"2006-03","Lynyrd Skynyrd",5
+"2006-03","Pink Floyd",3
+"2006-03","Rush",0
+"2006-03","Steve Miller Band",0
+"2006-03","The Beatles",34
+"2006-03","The Doobie Brothers",0
+"2006-03","The Doors",29
+"2006-03","The Rolling Stones",2
+"2006-03","The Who",25
+"2006-03","Zz Top",2
+"2006-04","Ac/Dc",6
+"2006-04","Aerosmith",0
+"2006-04","Bachman-Turner Overdrive",1
+"2006-04","Chicago",0
+"2006-04","Creedence Clearwater Revisited",5
+"2006-04","Depeche Mode",0
+"2006-04","Dread Zeppelin",3
+"2006-04","Eagles",0
+"2006-04","Electric Light Orchestra",0
+"2006-04","Electric Light Orchestra Part Ii",0
+"2006-04","Lynyrd Skynyrd",7
+"2006-04","Pink Floyd",0
+"2006-04","Rush",0
+"2006-04","Steve Miller Band",6
+"2006-04","The Beatles",44
+"2006-04","The Doobie Brothers",1
+"2006-04","The Doors",9
+"2006-04","The Rolling Stones",4
+"2006-04","The Who",17
+"2006-04","Zz Top",4
+"2006-05","Ac/Dc",6
+"2006-05","Aerosmith",1
+"2006-05","Bachman-Turner Overdrive",4
+"2006-05","Chicago",0
+"2006-05","Creedence Clearwater Revisited",16
+"2006-05","Depeche Mode",0
+"2006-05","Dread Zeppelin",1
+"2006-05","Eagles",1
+"2006-05","Electric Light Orchestra",0
+"2006-05","Electric Light Orchestra Part Ii",0
+"2006-05","Lynyrd Skynyrd",0
+"2006-05","Pink Floyd",0
+"2006-05","Rush",0
+"2006-05","Steve Miller Band",8
+"2006-05","The Beatles",26
+"2006-05","The Doobie Brothers",4
+"2006-05","The Doors",1
+"2006-05","The Rolling Stones",2
+"2006-05","The Who",5
+"2006-05","Zz Top",1
+"2006-06","Ac/Dc",5
+"2006-06","Aerosmith",1
+"2006-06","Bachman-Turner Overdrive",1
+"2006-06","Chicago",1
+"2006-06","Creedence Clearwater Revisited",13
+"2006-06","Depeche Mode",0
+"2006-06","Dread Zeppelin",0
+"2006-06","Eagles",0
+"2006-06","Electric Light Orchestra",1
+"2006-06","Electric Light Orchestra Part Ii",0
+"2006-06","Lynyrd Skynyrd",0
+"2006-06","Pink Floyd",0
+"2006-06","Rush",0
+"2006-06","Steve Miller Band",3
+"2006-06","The Beatles",1
+"2006-06","The Doobie Brothers",0
+"2006-06","The Doors",0
+"2006-06","The Rolling Stones",0
+"2006-06","The Who",2
+"2006-06","Zz Top",0
+"2006-07","Ac/Dc",0
+"2006-07","Aerosmith",0
+"2006-07","Bachman-Turner Overdrive",6
+"2006-07","Chicago",0
+"2006-07","Creedence Clearwater Revisited",21
+"2006-07","Depeche Mode",0
+"2006-07","Dread Zeppelin",0
+"2006-07","Eagles",0
+"2006-07","Electric Light Orchestra",1
+"2006-07","Electric Light Orchestra Part Ii",0
+"2006-07","Lynyrd Skynyrd",0
+"2006-07","Pink Floyd",0
+"2006-07","Rush",0
+"2006-07","Steve Miller Band",8
+"2006-07","The Beatles",1
+"2006-07","The Doobie Brothers",0
+"2006-07","The Doors",0
+"2006-07","The Rolling Stones",0
+"2006-07","The Who",30
+"2006-07","Zz Top",0
+"2006-08","Ac/Dc",0
+"2006-08","Aerosmith",0
+"2006-08","Bachman-Turner Overdrive",0
+"2006-08","Chicago",0
+"2006-08","Creedence Clearwater Revisited",0
+"2006-08","Depeche Mode",0
+"2006-08","Dread Zeppelin",0
+"2006-08","Eagles",0
+"2006-08","Electric Light Orchestra",0
+"2006-08","Electric Light Orchestra Part Ii",0
+"2006-08","Lynyrd Skynyrd",0
+"2006-08","Pink Floyd",0
+"2006-08","Rush",0
+"2006-08","Steve Miller Band",1
+"2006-08","The Beatles",0
+"2006-08","The Doobie Brothers",1
+"2006-08","The Doors",1
+"2006-08","The Rolling Stones",0
+"2006-08","The Who",1
+"2006-08","Zz Top",0
+"2006-09","Ac/Dc",33
+"2006-09","Aerosmith",1
+"2006-09","Bachman-Turner Overdrive",2
+"2006-09","Chicago",0
+"2006-09","Creedence Clearwater Revisited",4
+"2006-09","Depeche Mode",0
+"2006-09","Dread Zeppelin",3
+"2006-09","Eagles",8
+"2006-09","Electric Light Orchestra",1
+"2006-09","Electric Light Orchestra Part Ii",0
+"2006-09","Lynyrd Skynyrd",5
+"2006-09","Pink Floyd",1
+"2006-09","Rush",4
+"2006-09","Steve Miller Band",9
+"2006-09","The Beatles",10
+"2006-09","The Doobie Brothers",9
+"2006-09","The Doors",4
+"2006-09","The Rolling Stones",14
+"2006-09","The Who",28
+"2006-09","Zz Top",5
+"2006-10","Ac/Dc",6
+"2006-10","Aerosmith",5
+"2006-10","Bachman-Turner Overdrive",1
+"2006-10","Chicago",0
+"2006-10","Creedence Clearwater Revisited",28
+"2006-10","Depeche Mode",1
+"2006-10","Dread Zeppelin",4
+"2006-10","Eagles",2
+"2006-10","Electric Light Orchestra",7
+"2006-10","Electric Light Orchestra Part Ii",18
+"2006-10","Lynyrd Skynyrd",8
+"2006-10","Pink Floyd",0
+"2006-10","Rush",12
+"2006-10","Steve Miller Band",15
+"2006-10","The Beatles",11
+"2006-10","The Doobie Brothers",7
+"2006-10","The Doors",15
+"2006-10","The Rolling Stones",8
+"2006-10","The Who",10
+"2006-10","Zz Top",32
+"2006-11","Ac/Dc",1
+"2006-11","Aerosmith",2
+"2006-11","Bachman-Turner Overdrive",1
+"2006-11","Chicago",6
+"2006-11","Creedence Clearwater Revisited",5
+"2006-11","Depeche Mode",1
+"2006-11","Dread Zeppelin",1
+"2006-11","Eagles",1
+"2006-11","Electric Light Orchestra",12
+"2006-11","Electric Light Orchestra Part Ii",12
+"2006-11","Lynyrd Skynyrd",4
+"2006-11","Pink Floyd",4
+"2006-11","Rush",3
+"2006-11","Steve Miller Band",13
+"2006-11","The Beatles",6
+"2006-11","The Doobie Brothers",12
+"2006-11","The Doors",3
+"2006-11","The Rolling Stones",11
+"2006-11","The Who",13
+"2006-11","Zz Top",29
+"2006-12","Ac/Dc",0
+"2006-12","Aerosmith",0
+"2006-12","Bachman-Turner Overdrive",4
+"2006-12","Chicago",6
+"2006-12","Creedence Clearwater Revisited",5
+"2006-12","Depeche Mode",6
+"2006-12","Dread Zeppelin",0
+"2006-12","Eagles",0
+"2006-12","Electric Light Orchestra",5
+"2006-12","Electric Light Orchestra Part Ii",5
+"2006-12","Lynyrd Skynyrd",2
+"2006-12","Pink Floyd",0
+"2006-12","Rush",2
+"2006-12","Steve Miller Band",2
+"2006-12","The Beatles",4
+"2006-12","The Doobie Brothers",4
+"2006-12","The Doors",2
+"2006-12","The Rolling Stones",2
+"2006-12","The Who",11
+"2006-12","Zz Top",10
+"2007-01","Ac/Dc",1
+"2007-01","Aerosmith",2
+"2007-01","Bachman-Turner Overdrive",3
+"2007-01","Chicago",3
+"2007-01","Creedence Clearwater Revisited",5
+"2007-01","Depeche Mode",4
+"2007-01","Dread Zeppelin",2
+"2007-01","Eagles",2
+"2007-01","Electric Light Orchestra",8
+"2007-01","Electric Light Orchestra Part Ii",3
+"2007-01","Lynyrd Skynyrd",3
+"2007-01","Pink Floyd",1
+"2007-01","Rush",3
+"2007-01","Steve Miller Band",6
+"2007-01","The Beatles",4
+"2007-01","The Doobie Brothers",5
+"2007-01","The Doors",6
+"2007-01","The Rolling Stones",1
+"2007-01","The Who",23
+"2007-01","Zz Top",10
+"2007-02","Ac/Dc",1
+"2007-02","Aerosmith",2
+"2007-02","Bachman-Turner Overdrive",2
+"2007-02","Chicago",3
+"2007-02","Creedence Clearwater Revisited",5
+"2007-02","Depeche Mode",2
+"2007-02","Dread Zeppelin",4
+"2007-02","Eagles",0
+"2007-02","Electric Light Orchestra",0
+"2007-02","Electric Light Orchestra Part Ii",2
+"2007-02","Lynyrd Skynyrd",5
+"2007-02","Pink Floyd",1
+"2007-02","Rush",1
+"2007-02","Steve Miller Band",7
+"2007-02","The Beatles",3
+"2007-02","The Doobie Brothers",3
+"2007-02","The Doors",5
+"2007-02","The Rolling Stones",2
+"2007-02","The Who",18
+"2007-02","Zz Top",8
+"2007-03","Ac/Dc",0
+"2007-03","Aerosmith",2
+"2007-03","Bachman-Turner Overdrive",3
+"2007-03","Chicago",1
+"2007-03","Creedence Clearwater Revisited",3
+"2007-03","Depeche Mode",1
+"2007-03","Dread Zeppelin",1
+"2007-03","Eagles",2
+"2007-03","Electric Light Orchestra",8
+"2007-03","Electric Light Orchestra Part Ii",6
+"2007-03","Lynyrd Skynyrd",3
+"2007-03","Pink Floyd",1
+"2007-03","Rush",2
+"2007-03","Steve Miller Band",13
+"2007-03","The Beatles",4
+"2007-03","The Doobie Brothers",1
+"2007-03","The Doors",7
+"2007-03","The Rolling Stones",1
+"2007-03","The Who",8
+"2007-03","Zz Top",12
+"2007-04","Ac/Dc",0
+"2007-04","Aerosmith",5
+"2007-04","Bachman-Turner Overdrive",0
+"2007-04","Chicago",2
+"2007-04","Creedence Clearwater Revisited",3
+"2007-04","Depeche Mode",0
+"2007-04","Dread Zeppelin",0
+"2007-04","Eagles",1
+"2007-04","Electric Light Orchestra",3
+"2007-04","Electric Light Orchestra Part Ii",3
+"2007-04","Lynyrd Skynyrd",0
+"2007-04","Pink Floyd",0
+"2007-04","Rush",1
+"2007-04","Steve Miller Band",0
+"2007-04","The Beatles",5
+"2007-04","The Doobie Brothers",2
+"2007-04","The Doors",1
+"2007-04","The Rolling Stones",0
+"2007-04","The Who",10
+"2007-04","Zz Top",3
+"2007-05","Ac/Dc",1
+"2007-05","Aerosmith",0
+"2007-05","Bachman-Turner Overdrive",3
+"2007-05","Chicago",4
+"2007-05","Creedence Clearwater Revisited",12
+"2007-05","Depeche Mode",2
+"2007-05","Dread Zeppelin",0
+"2007-05","Eagles",1
+"2007-05","Electric Light Orchestra",8
+"2007-05","Electric Light Orchestra Part Ii",9
+"2007-05","Lynyrd Skynyrd",1
+"2007-05","Pink Floyd",0
+"2007-05","Rush",1
+"2007-05","Steve Miller Band",2
+"2007-05","The Beatles",5
+"2007-05","The Doobie Brothers",0
+"2007-05","The Doors",1
+"2007-05","The Rolling Stones",1
+"2007-05","The Who",14
+"2007-05","Zz Top",13
+"2007-06","Ac/Dc",0
+"2007-06","Aerosmith",0
+"2007-06","Bachman-Turner Overdrive",0
+"2007-06","Chicago",0
+"2007-06","Creedence Clearwater Revisited",0
+"2007-06","Depeche Mode",0
+"2007-06","Dread Zeppelin",0
+"2007-06","Eagles",1
+"2007-06","Electric Light Orchestra",0
+"2007-06","Electric Light Orchestra Part Ii",0
+"2007-06","Lynyrd Skynyrd",0
+"2007-06","Pink Floyd",0
+"2007-06","Rush",0
+"2007-06","Steve Miller Band",0
+"2007-06","The Beatles",0
+"2007-06","The Doobie Brothers",0
+"2007-06","The Doors",0
+"2007-06","The Rolling Stones",0
+"2007-06","The Who",0
+"2007-06","Zz Top",0
+"2007-07","Ac/Dc",0
+"2007-07","Aerosmith",0
+"2007-07","Bachman-Turner Overdrive",2
+"2007-07","Chicago",0
+"2007-07","Creedence Clearwater Revisited",0
+"2007-07","Depeche Mode",0
+"2007-07","Dread Zeppelin",2
+"2007-07","Eagles",0
+"2007-07","Electric Light Orchestra",0
+"2007-07","Electric Light Orchestra Part Ii",0
+"2007-07","Lynyrd Skynyrd",0
+"2007-07","Pink Floyd",0
+"2007-07","Rush",0
+"2007-07","Steve Miller Band",0
+"2007-07","The Beatles",0
+"2007-07","The Doobie Brothers",1
+"2007-07","The Doors",0
+"2007-07","The Rolling Stones",0
+"2007-07","The Who",0
+"2007-07","Zz Top",0
+"2007-08","Ac/Dc",0
+"2007-08","Aerosmith",0
+"2007-08","Bachman-Turner Overdrive",0
+"2007-08","Chicago",3
+"2007-08","Creedence Clearwater Revisited",9
+"2007-08","Depeche Mode",1
+"2007-08","Dread Zeppelin",0
+"2007-08","Eagles",1
+"2007-08","Electric Light Orchestra",1
+"2007-08","Electric Light Orchestra Part Ii",4
+"2007-08","Lynyrd Skynyrd",0
+"2007-08","Pink Floyd",1
+"2007-08","Rush",1
+"2007-08","Steve Miller Band",1
+"2007-08","The Beatles",5
+"2007-08","The Doobie Brothers",1
+"2007-08","The Doors",0
+"2007-08","The Rolling Stones",4
+"2007-08","The Who",11
+"2007-08","Zz Top",0
+"2007-09","Ac/Dc",0
+"2007-09","Aerosmith",1
+"2007-09","Bachman-Turner Overdrive",0
+"2007-09","Chicago",16
+"2007-09","Creedence Clearwater Revisited",43
+"2007-09","Depeche Mode",0
+"2007-09","Dread Zeppelin",15
+"2007-09","Eagles",1
+"2007-09","Electric Light Orchestra",8
+"2007-09","Electric Light Orchestra Part Ii",17
+"2007-09","Lynyrd Skynyrd",0
+"2007-09","Pink Floyd",2
+"2007-09","Rush",2
+"2007-09","Steve Miller Band",16
+"2007-09","The Beatles",2
+"2007-09","The Doobie Brothers",6
+"2007-09","The Doors",0
+"2007-09","The Rolling Stones",0
+"2007-09","The Who",35
+"2007-09","Zz Top",28
+"2007-10","Ac/Dc",6
+"2007-10","Aerosmith",1
+"2007-10","Bachman-Turner Overdrive",3
+"2007-10","Chicago",15
+"2007-10","Creedence Clearwater Revisited",25
+"2007-10","Depeche Mode",11
+"2007-10","Dread Zeppelin",13
+"2007-10","Eagles",6
+"2007-10","Electric Light Orchestra",11
+"2007-10","Electric Light Orchestra Part Ii",11
+"2007-10","Lynyrd Skynyrd",2
+"2007-10","Pink Floyd",7
+"2007-10","Rush",9
+"2007-10","Steve Miller Band",16
+"2007-10","The Beatles",17
+"2007-10","The Doobie Brothers",13
+"2007-10","The Doors",9
+"2007-10","The Rolling Stones",5
+"2007-10","The Who",28
+"2007-10","Zz Top",35
+"2007-11","Ac/Dc",9
+"2007-11","Aerosmith",6
+"2007-11","Bachman-Turner Overdrive",1
+"2007-11","Chicago",9
+"2007-11","Creedence Clearwater Revisited",9
+"2007-11","Depeche Mode",10
+"2007-11","Dread Zeppelin",5
+"2007-11","Eagles",6
+"2007-11","Electric Light Orchestra",5
+"2007-11","Electric Light Orchestra Part Ii",8
+"2007-11","Lynyrd Skynyrd",4
+"2007-11","Pink Floyd",3
+"2007-11","Rush",8
+"2007-11","Steve Miller Band",33
+"2007-11","The Beatles",17
+"2007-11","The Doobie Brothers",28
+"2007-11","The Doors",7
+"2007-11","The Rolling Stones",6
+"2007-11","The Who",42
+"2007-11","Zz Top",28
+"2007-12","Ac/Dc",1
+"2007-12","Aerosmith",1
+"2007-12","Bachman-Turner Overdrive",0
+"2007-12","Chicago",5
+"2007-12","Creedence Clearwater Revisited",0
+"2007-12","Depeche Mode",2
+"2007-12","Dread Zeppelin",2
+"2007-12","Eagles",3
+"2007-12","Electric Light Orchestra",3
+"2007-12","Electric Light Orchestra Part Ii",2
+"2007-12","Lynyrd Skynyrd",2
+"2007-12","Pink Floyd",2
+"2007-12","Rush",6
+"2007-12","Steve Miller Band",4
+"2007-12","The Beatles",3
+"2007-12","The Doobie Brothers",4
+"2007-12","The Doors",1
+"2007-12","The Rolling Stones",2
+"2007-12","The Who",7
+"2007-12","Zz Top",16
+"2008-01","Ac/Dc",1
+"2008-01","Aerosmith",2
+"2008-01","Bachman-Turner Overdrive",1
+"2008-01","Chicago",8
+"2008-01","Creedence Clearwater Revisited",8
+"2008-01","Depeche Mode",9
+"2008-01","Dread Zeppelin",5
+"2008-01","Eagles",7
+"2008-01","Electric Light Orchestra",2
+"2008-01","Electric Light Orchestra Part Ii",1
+"2008-01","Lynyrd Skynyrd",1
+"2008-01","Pink Floyd",2
+"2008-01","Rush",3
+"2008-01","Steve Miller Band",11
+"2008-01","The Beatles",18
+"2008-01","The Doobie Brothers",1
+"2008-01","The Doors",5
+"2008-01","The Rolling Stones",3
+"2008-01","The Who",16
+"2008-01","Zz Top",20
+"2008-02","Ac/Dc",2
+"2008-02","Aerosmith",2
+"2008-02","Bachman-Turner Overdrive",4
+"2008-02","Chicago",8
+"2008-02","Creedence Clearwater Revisited",3
+"2008-02","Depeche Mode",5
+"2008-02","Dread Zeppelin",3
+"2008-02","Eagles",3
+"2008-02","Electric Light Orchestra",6
+"2008-02","Electric Light Orchestra Part Ii",1
+"2008-02","Lynyrd Skynyrd",2
+"2008-02","Pink Floyd",1
+"2008-02","Rush",3
+"2008-02","Steve Miller Band",2
+"2008-02","The Beatles",19
+"2008-02","The Doobie Brothers",1
+"2008-02","The Doors",9
+"2008-02","The Rolling Stones",2
+"2008-02","The Who",5
+"2008-02","Zz Top",13
+"2008-03","Ac/Dc",1
+"2008-03","Aerosmith",1
+"2008-03","Bachman-Turner Overdrive",2
+"2008-03","Chicago",1
+"2008-03","Creedence Clearwater Revisited",0
+"2008-03","Depeche Mode",1
+"2008-03","Dread Zeppelin",0
+"2008-03","Eagles",1
+"2008-03","Electric Light Orchestra",2
+"2008-03","Electric Light Orchestra Part Ii",2
+"2008-03","Lynyrd Skynyrd",1
+"2008-03","Pink Floyd",2
+"2008-03","Rush",2
+"2008-03","Steve Miller Band",1
+"2008-03","The Beatles",6
+"2008-03","The Doobie Brothers",1
+"2008-03","The Doors",1
+"2008-03","The Rolling Stones",1
+"2008-03","The Who",6
+"2008-03","Zz Top",12
+"2008-04","Ac/Dc",10
+"2008-04","Aerosmith",1
+"2008-04","Bachman-Turner Overdrive",1
+"2008-04","Chicago",4
+"2008-04","Creedence Clearwater Revisited",3
+"2008-04","Depeche Mode",3
+"2008-04","Dread Zeppelin",6
+"2008-04","Eagles",3
+"2008-04","Electric Light Orchestra",6
+"2008-04","Electric Light Orchestra Part Ii",3
+"2008-04","Lynyrd Skynyrd",2
+"2008-04","Pink Floyd",3
+"2008-04","Rush",4
+"2008-04","Steve Miller Band",8
+"2008-04","The Beatles",38
+"2008-04","The Doobie Brothers",7
+"2008-04","The Doors",3
+"2008-04","The Rolling Stones",11
+"2008-04","The Who",12
+"2008-04","Zz Top",178
+"2008-05","Ac/Dc",5
+"2008-05","Aerosmith",5
+"2008-05","Bachman-Turner Overdrive",4
+"2008-05","Chicago",3
+"2008-05","Creedence Clearwater Revisited",10
+"2008-05","Depeche Mode",4
+"2008-05","Dread Zeppelin",7
+"2008-05","Eagles",6
+"2008-05","Electric Light Orchestra",2
+"2008-05","Electric Light Orchestra Part Ii",6
+"2008-05","Lynyrd Skynyrd",3
+"2008-05","Pink Floyd",4
+"2008-05","Rush",13
+"2008-05","Steve Miller Band",7
+"2008-05","The Beatles",35
+"2008-05","The Doobie Brothers",8
+"2008-05","The Doors",3
+"2008-05","The Rolling Stones",10
+"2008-05","The Who",35
+"2008-05","Zz Top",96
+"2008-06","Ac/Dc",0
+"2008-06","Aerosmith",0
+"2008-06","Bachman-Turner Overdrive",0
+"2008-06","Chicago",0
+"2008-06","Creedence Clearwater Revisited",0
+"2008-06","Depeche Mode",0
+"2008-06","Dread Zeppelin",0
+"2008-06","Eagles",0
+"2008-06","Electric Light Orchestra",0
+"2008-06","Electric Light Orchestra Part Ii",0
+"2008-06","Lynyrd Skynyrd",0
+"2008-06","Pink Floyd",1
+"2008-06","Rush",0
+"2008-06","Steve Miller Band",0
+"2008-06","The Beatles",0
+"2008-06","The Doobie Brothers",0
+"2008-06","The Doors",0
+"2008-06","The Rolling Stones",0
+"2008-06","The Who",4
+"2008-06","Zz Top",2
+"2008-07","Ac/Dc",0
+"2008-07","Aerosmith",0
+"2008-07","Bachman-Turner Overdrive",0
+"2008-07","Chicago",0
+"2008-07","Creedence Clearwater Revisited",0
+"2008-07","Depeche Mode",0
+"2008-07","Dread Zeppelin",0
+"2008-07","Eagles",0
+"2008-07","Electric Light Orchestra",0
+"2008-07","Electric Light Orchestra Part Ii",0
+"2008-07","Lynyrd Skynyrd",0
+"2008-07","Pink Floyd",0
+"2008-07","Rush",0
+"2008-07","Steve Miller Band",0
+"2008-07","The Beatles",0
+"2008-07","The Doobie Brothers",0
+"2008-07","The Doors",0
+"2008-07","The Rolling Stones",0
+"2008-07","The Who",0
+"2008-07","Zz Top",12
+"2008-08","Ac/Dc",2
+"2008-08","Aerosmith",0
+"2008-08","Bachman-Turner Overdrive",0
+"2008-08","Chicago",2
+"2008-08","Creedence Clearwater Revisited",2
+"2008-08","Depeche Mode",4
+"2008-08","Dread Zeppelin",2
+"2008-08","Eagles",0
+"2008-08","Electric Light Orchestra",2
+"2008-08","Electric Light Orchestra Part Ii",2
+"2008-08","Lynyrd Skynyrd",1
+"2008-08","Pink Floyd",1
+"2008-08","Rush",0
+"2008-08","Steve Miller Band",1
+"2008-08","The Beatles",6
+"2008-08","The Doobie Brothers",1
+"2008-08","The Doors",0
+"2008-08","The Rolling Stones",3
+"2008-08","The Who",4
+"2008-08","Zz Top",13
+"2008-09","Ac/Dc",3
+"2008-09","Aerosmith",0
+"2008-09","Bachman-Turner Overdrive",0
+"2008-09","Chicago",0
+"2008-09","Creedence Clearwater Revisited",2
+"2008-09","Depeche Mode",2
+"2008-09","Dread Zeppelin",1
+"2008-09","Eagles",1
+"2008-09","Electric Light Orchestra",1
+"2008-09","Electric Light Orchestra Part Ii",0
+"2008-09","Lynyrd Skynyrd",0
+"2008-09","Pink Floyd",1
+"2008-09","Rush",0
+"2008-09","Steve Miller Band",1
+"2008-09","The Beatles",2
+"2008-09","The Doobie Brothers",2
+"2008-09","The Doors",2
+"2008-09","The Rolling Stones",1
+"2008-09","The Who",12
+"2008-09","Zz Top",12
+"2008-10","Ac/Dc",0
+"2008-10","Aerosmith",0
+"2008-10","Bachman-Turner Overdrive",0
+"2008-10","Chicago",0
+"2008-10","Creedence Clearwater Revisited",0
+"2008-10","Depeche Mode",0
+"2008-10","Dread Zeppelin",1
+"2008-10","Eagles",0
+"2008-10","Electric Light Orchestra",0
+"2008-10","Electric Light Orchestra Part Ii",0
+"2008-10","Lynyrd Skynyrd",0
+"2008-10","Pink Floyd",0
+"2008-10","Rush",0
+"2008-10","Steve Miller Band",0
+"2008-10","The Beatles",0
+"2008-10","The Doobie Brothers",0
+"2008-10","The Doors",0
+"2008-10","The Rolling Stones",1
+"2008-10","The Who",0
+"2008-10","Zz Top",2
+"2008-11","Ac/Dc",0
+"2008-11","Aerosmith",0
+"2008-11","Bachman-Turner Overdrive",0
+"2008-11","Chicago",2
+"2008-11","Creedence Clearwater Revisited",0
+"2008-11","Depeche Mode",0
+"2008-11","Dread Zeppelin",0
+"2008-11","Eagles",0
+"2008-11","Electric Light Orchestra",0
+"2008-11","Electric Light Orchestra Part Ii",0
+"2008-11","Lynyrd Skynyrd",0
+"2008-11","Pink Floyd",2
+"2008-11","Rush",0
+"2008-11","Steve Miller Band",0
+"2008-11","The Beatles",1
+"2008-11","The Doobie Brothers",0
+"2008-11","The Doors",1
+"2008-11","The Rolling Stones",2
+"2008-11","The Who",0
+"2008-11","Zz Top",4
+"2008-12","Ac/Dc",1
+"2008-12","Aerosmith",0
+"2008-12","Bachman-Turner Overdrive",0
+"2008-12","Chicago",0
+"2008-12","Creedence Clearwater Revisited",1
+"2008-12","Depeche Mode",0
+"2008-12","Dread Zeppelin",3
+"2008-12","Eagles",0
+"2008-12","Electric Light Orchestra",0
+"2008-12","Electric Light Orchestra Part Ii",0
+"2008-12","Lynyrd Skynyrd",0
+"2008-12","Pink Floyd",0
+"2008-12","Rush",0
+"2008-12","Steve Miller Band",2
+"2008-12","The Beatles",7
+"2008-12","The Doobie Brothers",0
+"2008-12","The Doors",0
+"2008-12","The Rolling Stones",0
+"2008-12","The Who",0
+"2008-12","Zz Top",6
+"2009-01","Ac/Dc",2
+"2009-01","Aerosmith",0
+"2009-01","Bachman-Turner Overdrive",1
+"2009-01","Chicago",1
+"2009-01","Creedence Clearwater Revisited",1
+"2009-01","Depeche Mode",4
+"2009-01","Dread Zeppelin",1
+"2009-01","Eagles",0
+"2009-01","Electric Light Orchestra",1
+"2009-01","Electric Light Orchestra Part Ii",2
+"2009-01","Lynyrd Skynyrd",0
+"2009-01","Pink Floyd",0
+"2009-01","Rush",1
+"2009-01","Steve Miller Band",0
+"2009-01","The Beatles",3
+"2009-01","The Doobie Brothers",0
+"2009-01","The Doors",1
+"2009-01","The Rolling Stones",0
+"2009-01","The Who",5
+"2009-01","Zz Top",6
+"2009-02","Ac/Dc",6
+"2009-02","Aerosmith",4
+"2009-02","Bachman-Turner Overdrive",1
+"2009-02","Chicago",2
+"2009-02","Creedence Clearwater Revisited",11
+"2009-02","Depeche Mode",1
+"2009-02","Dread Zeppelin",5
+"2009-02","Eagles",5
+"2009-02","Electric Light Orchestra",1
+"2009-02","Electric Light Orchestra Part Ii",2
+"2009-02","Lynyrd Skynyrd",5
+"2009-02","Pink Floyd",2
+"2009-02","Rush",4
+"2009-02","Steve Miller Band",9
+"2009-02","The Beatles",15
+"2009-02","The Doobie Brothers",3
+"2009-02","The Doors",4
+"2009-02","The Rolling Stones",2
+"2009-02","The Who",8
+"2009-02","Zz Top",79
+"2009-03","Ac/Dc",3
+"2009-03","Aerosmith",3
+"2009-03","Bachman-Turner Overdrive",2
+"2009-03","Chicago",2
+"2009-03","Creedence Clearwater Revisited",5
+"2009-03","Depeche Mode",0
+"2009-03","Dread Zeppelin",3
+"2009-03","Eagles",1
+"2009-03","Electric Light Orchestra",0
+"2009-03","Electric Light Orchestra Part Ii",1
+"2009-03","Lynyrd Skynyrd",1
+"2009-03","Pink Floyd",3
+"2009-03","Rush",0
+"2009-03","Steve Miller Band",2
+"2009-03","The Beatles",3
+"2009-03","The Doobie Brothers",3
+"2009-03","The Doors",0
+"2009-03","The Rolling Stones",0
+"2009-03","The Who",5
+"2009-03","Zz Top",14
+"2009-04","Ac/Dc",21
+"2009-04","Aerosmith",11
+"2009-04","Bachman-Turner Overdrive",6
+"2009-04","Chicago",6
+"2009-04","Creedence Clearwater Revisited",19
+"2009-04","Depeche Mode",2
+"2009-04","Dread Zeppelin",3
+"2009-04","Eagles",7
+"2009-04","Electric Light Orchestra",1
+"2009-04","Electric Light Orchestra Part Ii",4
+"2009-04","Lynyrd Skynyrd",21
+"2009-04","Pink Floyd",1
+"2009-04","Rush",3
+"2009-04","Steve Miller Band",10
+"2009-04","The Beatles",15
+"2009-04","The Doobie Brothers",4
+"2009-04","The Doors",5
+"2009-04","The Rolling Stones",17
+"2009-04","The Who",8
+"2009-04","Zz Top",48

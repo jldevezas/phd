@@ -1,681 +1,681 @@
-month,artist,plays
-2006-07,Abba,4
-2006-07,Annie Lennox,2
-2006-07,Anouk,0
-2006-07,Christina Aguilera,3
-2006-07,Jem,0
-2006-07,Jewel,2
-2006-07,John Williams,1
-2006-07,Kelly Clarkson,3
-2006-07,Klaus Badelt,1
-2006-07,Lee Ryan,3
-2006-07,Madonna,2
-2006-07,Mika,0
-2006-07,Moby,0
-2006-07,Natalie Imbruglia,4
-2006-07,Nelly Furtado,0
-2006-07,Robbie Williams,0
-2006-07,Roxette,0
-2006-07,Soundtrack,4
-2006-07,Sugababes,0
-2006-07,The Doors,0
-2006-08,Abba,5
-2006-08,Annie Lennox,2
-2006-08,Anouk,0
-2006-08,Christina Aguilera,49
-2006-08,Jem,0
-2006-08,Jewel,24
-2006-08,John Williams,0
-2006-08,Kelly Clarkson,0
-2006-08,Klaus Badelt,3
-2006-08,Lee Ryan,6
-2006-08,Madonna,1
-2006-08,Mika,0
-2006-08,Moby,0
-2006-08,Natalie Imbruglia,1
-2006-08,Nelly Furtado,19
-2006-08,Robbie Williams,5
-2006-08,Roxette,1
-2006-08,Soundtrack,3
-2006-08,Sugababes,4
-2006-08,The Doors,0
-2006-09,Abba,0
-2006-09,Annie Lennox,0
-2006-09,Anouk,0
-2006-09,Christina Aguilera,13
-2006-09,Jem,0
-2006-09,Jewel,0
-2006-09,John Williams,0
-2006-09,Kelly Clarkson,20
-2006-09,Klaus Badelt,0
-2006-09,Lee Ryan,6
-2006-09,Madonna,0
-2006-09,Mika,0
-2006-09,Moby,2
-2006-09,Natalie Imbruglia,0
-2006-09,Nelly Furtado,4
-2006-09,Robbie Williams,0
-2006-09,Roxette,0
-2006-09,Soundtrack,0
-2006-09,Sugababes,4
-2006-09,The Doors,0
-2006-10,Abba,0
-2006-10,Annie Lennox,1
-2006-10,Anouk,0
-2006-10,Christina Aguilera,13
-2006-10,Jem,0
-2006-10,Jewel,5
-2006-10,John Williams,0
-2006-10,Kelly Clarkson,11
-2006-10,Klaus Badelt,0
-2006-10,Lee Ryan,8
-2006-10,Madonna,0
-2006-10,Mika,0
-2006-10,Moby,8
-2006-10,Natalie Imbruglia,0
-2006-10,Nelly Furtado,0
-2006-10,Robbie Williams,0
-2006-10,Roxette,0
-2006-10,Soundtrack,3
-2006-10,Sugababes,0
-2006-10,The Doors,0
-2006-11,Abba,11
-2006-11,Annie Lennox,0
-2006-11,Anouk,0
-2006-11,Christina Aguilera,7
-2006-11,Jem,0
-2006-11,Jewel,28
-2006-11,John Williams,0
-2006-11,Kelly Clarkson,20
-2006-11,Klaus Badelt,0
-2006-11,Lee Ryan,55
-2006-11,Madonna,0
-2006-11,Mika,0
-2006-11,Moby,1
-2006-11,Natalie Imbruglia,19
-2006-11,Nelly Furtado,0
-2006-11,Robbie Williams,24
-2006-11,Roxette,0
-2006-11,Soundtrack,1
-2006-11,Sugababes,0
-2006-11,The Doors,0
-2006-12,Abba,0
-2006-12,Annie Lennox,0
-2006-12,Anouk,0
-2006-12,Christina Aguilera,0
-2006-12,Jem,0
-2006-12,Jewel,2
-2006-12,John Williams,0
-2006-12,Kelly Clarkson,1
-2006-12,Klaus Badelt,0
-2006-12,Lee Ryan,0
-2006-12,Madonna,0
-2006-12,Mika,0
-2006-12,Moby,0
-2006-12,Natalie Imbruglia,58
-2006-12,Nelly Furtado,0
-2006-12,Robbie Williams,24
-2006-12,Roxette,15
-2006-12,Soundtrack,0
-2006-12,Sugababes,1
-2006-12,The Doors,1
-2007-01,Abba,9
-2007-01,Annie Lennox,0
-2007-01,Anouk,0
-2007-01,Christina Aguilera,1
-2007-01,Jem,10
-2007-01,Jewel,2
-2007-01,John Williams,1
-2007-01,Kelly Clarkson,0
-2007-01,Klaus Badelt,0
-2007-01,Lee Ryan,0
-2007-01,Madonna,0
-2007-01,Mika,0
-2007-01,Moby,1
-2007-01,Natalie Imbruglia,1
-2007-01,Nelly Furtado,11
-2007-01,Robbie Williams,1
-2007-01,Roxette,2
-2007-01,Soundtrack,0
-2007-01,Sugababes,0
-2007-01,The Doors,1
-2007-02,Abba,12
-2007-02,Annie Lennox,0
-2007-02,Anouk,0
-2007-02,Christina Aguilera,8
-2007-02,Jem,9
-2007-02,Jewel,0
-2007-02,John Williams,0
-2007-02,Kelly Clarkson,2
-2007-02,Klaus Badelt,0
-2007-02,Lee Ryan,0
-2007-02,Madonna,6
-2007-02,Mika,0
-2007-02,Moby,4
-2007-02,Natalie Imbruglia,0
-2007-02,Nelly Furtado,3
-2007-02,Robbie Williams,0
-2007-02,Roxette,0
-2007-02,Soundtrack,0
-2007-02,Sugababes,1
-2007-02,The Doors,0
-2007-03,Abba,0
-2007-03,Annie Lennox,0
-2007-03,Anouk,31
-2007-03,Christina Aguilera,0
-2007-03,Jem,0
-2007-03,Jewel,2
-2007-03,John Williams,2
-2007-03,Kelly Clarkson,8
-2007-03,Klaus Badelt,1
-2007-03,Lee Ryan,0
-2007-03,Madonna,6
-2007-03,Mika,0
-2007-03,Moby,0
-2007-03,Natalie Imbruglia,0
-2007-03,Nelly Furtado,0
-2007-03,Robbie Williams,1
-2007-03,Roxette,6
-2007-03,Soundtrack,4
-2007-03,Sugababes,0
-2007-03,The Doors,0
-2007-04,Abba,0
-2007-04,Annie Lennox,0
-2007-04,Anouk,9
-2007-04,Christina Aguilera,3
-2007-04,Jem,0
-2007-04,Jewel,0
-2007-04,John Williams,0
-2007-04,Kelly Clarkson,3
-2007-04,Klaus Badelt,0
-2007-04,Lee Ryan,13
-2007-04,Madonna,0
-2007-04,Mika,0
-2007-04,Moby,0
-2007-04,Natalie Imbruglia,4
-2007-04,Nelly Furtado,0
-2007-04,Robbie Williams,1
-2007-04,Roxette,2
-2007-04,Soundtrack,0
-2007-04,Sugababes,0
-2007-04,The Doors,1
-2007-05,Abba,0
-2007-05,Annie Lennox,1
-2007-05,Anouk,9
-2007-05,Christina Aguilera,0
-2007-05,Jem,0
-2007-05,Jewel,0
-2007-05,John Williams,0
-2007-05,Kelly Clarkson,1
-2007-05,Klaus Badelt,0
-2007-05,Lee Ryan,0
-2007-05,Madonna,0
-2007-05,Mika,9
-2007-05,Moby,0
-2007-05,Natalie Imbruglia,0
-2007-05,Nelly Furtado,3
-2007-05,Robbie Williams,1
-2007-05,Roxette,13
-2007-05,Soundtrack,0
-2007-05,Sugababes,1
-2007-05,The Doors,0
-2007-06,Abba,1
-2007-06,Annie Lennox,3
-2007-06,Anouk,23
-2007-06,Christina Aguilera,0
-2007-06,Jem,1
-2007-06,Jewel,5
-2007-06,John Williams,0
-2007-06,Kelly Clarkson,13
-2007-06,Klaus Badelt,0
-2007-06,Lee Ryan,16
-2007-06,Madonna,0
-2007-06,Mika,5
-2007-06,Moby,3
-2007-06,Natalie Imbruglia,1
-2007-06,Nelly Furtado,0
-2007-06,Robbie Williams,0
-2007-06,Roxette,60
-2007-06,Soundtrack,3
-2007-06,Sugababes,0
-2007-06,The Doors,5
-2007-07,Abba,40
-2007-07,Annie Lennox,1
-2007-07,Anouk,3
-2007-07,Christina Aguilera,0
-2007-07,Jem,2
-2007-07,Jewel,1
-2007-07,John Williams,0
-2007-07,Kelly Clarkson,0
-2007-07,Klaus Badelt,0
-2007-07,Lee Ryan,0
-2007-07,Madonna,1
-2007-07,Mika,1
-2007-07,Moby,0
-2007-07,Natalie Imbruglia,2
-2007-07,Nelly Furtado,0
-2007-07,Robbie Williams,0
-2007-07,Roxette,17
-2007-07,Soundtrack,0
-2007-07,Sugababes,0
-2007-07,The Doors,3
-2007-08,Abba,0
-2007-08,Annie Lennox,0
-2007-08,Anouk,4
-2007-08,Christina Aguilera,0
-2007-08,Jem,0
-2007-08,Jewel,3
-2007-08,John Williams,0
-2007-08,Kelly Clarkson,1
-2007-08,Klaus Badelt,0
-2007-08,Lee Ryan,0
-2007-08,Madonna,0
-2007-08,Mika,4
-2007-08,Moby,0
-2007-08,Natalie Imbruglia,0
-2007-08,Nelly Furtado,0
-2007-08,Robbie Williams,2
-2007-08,Roxette,7
-2007-08,Soundtrack,0
-2007-08,Sugababes,0
-2007-08,The Doors,0
-2007-09,Abba,0
-2007-09,Annie Lennox,0
-2007-09,Anouk,0
-2007-09,Christina Aguilera,1
-2007-09,Jem,0
-2007-09,Jewel,0
-2007-09,John Williams,0
-2007-09,Kelly Clarkson,0
-2007-09,Klaus Badelt,3
-2007-09,Lee Ryan,0
-2007-09,Madonna,0
-2007-09,Mika,13
-2007-09,Moby,0
-2007-09,Natalie Imbruglia,0
-2007-09,Nelly Furtado,0
-2007-09,Robbie Williams,0
-2007-09,Roxette,0
-2007-09,Soundtrack,0
-2007-09,Sugababes,0
-2007-09,The Doors,3
-2007-10,Abba,0
-2007-10,Annie Lennox,0
-2007-10,Anouk,1
-2007-10,Christina Aguilera,1
-2007-10,Jem,0
-2007-10,Jewel,4
-2007-10,John Williams,0
-2007-10,Kelly Clarkson,18
-2007-10,Klaus Badelt,9
-2007-10,Lee Ryan,7
-2007-10,Madonna,0
-2007-10,Mika,0
-2007-10,Moby,1
-2007-10,Natalie Imbruglia,3
-2007-10,Nelly Furtado,0
-2007-10,Robbie Williams,0
-2007-10,Roxette,0
-2007-10,Soundtrack,0
-2007-10,Sugababes,1
-2007-10,The Doors,1
-2007-11,Abba,0
-2007-11,Annie Lennox,0
-2007-11,Anouk,0
-2007-11,Christina Aguilera,16
-2007-11,Jem,0
-2007-11,Jewel,0
-2007-11,John Williams,0
-2007-11,Kelly Clarkson,0
-2007-11,Klaus Badelt,0
-2007-11,Lee Ryan,0
-2007-11,Madonna,0
-2007-11,Mika,0
-2007-11,Moby,4
-2007-11,Natalie Imbruglia,0
-2007-11,Nelly Furtado,2
-2007-11,Robbie Williams,0
-2007-11,Roxette,0
-2007-11,Soundtrack,0
-2007-11,Sugababes,0
-2007-11,The Doors,1
-2007-12,Abba,0
-2007-12,Annie Lennox,0
-2007-12,Anouk,4
-2007-12,Christina Aguilera,1
-2007-12,Jem,9
-2007-12,Jewel,0
-2007-12,John Williams,1
-2007-12,Kelly Clarkson,0
-2007-12,Klaus Badelt,4
-2007-12,Lee Ryan,0
-2007-12,Madonna,0
-2007-12,Mika,1
-2007-12,Moby,0
-2007-12,Natalie Imbruglia,0
-2007-12,Nelly Furtado,0
-2007-12,Robbie Williams,0
-2007-12,Roxette,0
-2007-12,Soundtrack,0
-2007-12,Sugababes,0
-2007-12,The Doors,0
-2008-01,Abba,0
-2008-01,Annie Lennox,1
-2008-01,Anouk,0
-2008-01,Christina Aguilera,1
-2008-01,Jem,6
-2008-01,Jewel,0
-2008-01,John Williams,4
-2008-01,Kelly Clarkson,0
-2008-01,Klaus Badelt,3
-2008-01,Lee Ryan,2
-2008-01,Madonna,0
-2008-01,Mika,2
-2008-01,Moby,0
-2008-01,Natalie Imbruglia,2
-2008-01,Nelly Furtado,0
-2008-01,Robbie Williams,0
-2008-01,Roxette,2
-2008-01,Soundtrack,9
-2008-01,Sugababes,0
-2008-01,The Doors,0
-2008-02,Abba,1
-2008-02,Annie Lennox,0
-2008-02,Anouk,0
-2008-02,Christina Aguilera,0
-2008-02,Jem,0
-2008-02,Jewel,7
-2008-02,John Williams,0
-2008-02,Kelly Clarkson,1
-2008-02,Klaus Badelt,0
-2008-02,Lee Ryan,1
-2008-02,Madonna,6
-2008-02,Mika,1
-2008-02,Moby,1
-2008-02,Natalie Imbruglia,1
-2008-02,Nelly Furtado,0
-2008-02,Robbie Williams,2
-2008-02,Roxette,22
-2008-02,Soundtrack,1
-2008-02,Sugababes,2
-2008-02,The Doors,2
-2008-03,Abba,0
-2008-03,Annie Lennox,1
-2008-03,Anouk,2
-2008-03,Christina Aguilera,0
-2008-03,Jem,2
-2008-03,Jewel,0
-2008-03,John Williams,1
-2008-03,Kelly Clarkson,1
-2008-03,Klaus Badelt,0
-2008-03,Lee Ryan,2
-2008-03,Madonna,2
-2008-03,Mika,11
-2008-03,Moby,0
-2008-03,Natalie Imbruglia,0
-2008-03,Nelly Furtado,3
-2008-03,Robbie Williams,1
-2008-03,Roxette,1
-2008-03,Soundtrack,3
-2008-03,Sugababes,2
-2008-03,The Doors,0
-2008-04,Abba,0
-2008-04,Annie Lennox,0
-2008-04,Anouk,0
-2008-04,Christina Aguilera,0
-2008-04,Jem,0
-2008-04,Jewel,0
-2008-04,John Williams,0
-2008-04,Kelly Clarkson,0
-2008-04,Klaus Badelt,0
-2008-04,Lee Ryan,1
-2008-04,Madonna,0
-2008-04,Mika,1
-2008-04,Moby,0
-2008-04,Natalie Imbruglia,2
-2008-04,Nelly Furtado,0
-2008-04,Robbie Williams,2
-2008-04,Roxette,0
-2008-04,Soundtrack,0
-2008-04,Sugababes,0
-2008-04,The Doors,0
-2008-05,Abba,0
-2008-05,Annie Lennox,0
-2008-05,Anouk,0
-2008-05,Christina Aguilera,0
-2008-05,Jem,0
-2008-05,Jewel,0
-2008-05,John Williams,0
-2008-05,Kelly Clarkson,0
-2008-05,Klaus Badelt,1
-2008-05,Lee Ryan,0
-2008-05,Madonna,0
-2008-05,Mika,0
-2008-05,Moby,0
-2008-05,Natalie Imbruglia,0
-2008-05,Nelly Furtado,0
-2008-05,Robbie Williams,0
-2008-05,Roxette,0
-2008-05,Soundtrack,0
-2008-05,Sugababes,0
-2008-05,The Doors,0
-2008-06,Abba,0
-2008-06,Annie Lennox,0
-2008-06,Anouk,0
-2008-06,Christina Aguilera,0
-2008-06,Jem,0
-2008-06,Jewel,0
-2008-06,John Williams,0
-2008-06,Kelly Clarkson,0
-2008-06,Klaus Badelt,0
-2008-06,Lee Ryan,0
-2008-06,Madonna,0
-2008-06,Mika,0
-2008-06,Moby,0
-2008-06,Natalie Imbruglia,0
-2008-06,Nelly Furtado,0
-2008-06,Robbie Williams,0
-2008-06,Roxette,0
-2008-06,Soundtrack,0
-2008-06,Sugababes,0
-2008-06,The Doors,0
-2008-07,Abba,0
-2008-07,Annie Lennox,0
-2008-07,Anouk,0
-2008-07,Christina Aguilera,0
-2008-07,Jem,0
-2008-07,Jewel,0
-2008-07,John Williams,0
-2008-07,Kelly Clarkson,0
-2008-07,Klaus Badelt,1
-2008-07,Lee Ryan,1
-2008-07,Madonna,2
-2008-07,Mika,2
-2008-07,Moby,0
-2008-07,Natalie Imbruglia,0
-2008-07,Nelly Furtado,1
-2008-07,Robbie Williams,0
-2008-07,Roxette,0
-2008-07,Soundtrack,1
-2008-07,Sugababes,0
-2008-07,The Doors,0
-2008-08,Abba,0
-2008-08,Annie Lennox,0
-2008-08,Anouk,0
-2008-08,Christina Aguilera,0
-2008-08,Jem,0
-2008-08,Jewel,0
-2008-08,John Williams,0
-2008-08,Kelly Clarkson,0
-2008-08,Klaus Badelt,0
-2008-08,Lee Ryan,0
-2008-08,Madonna,0
-2008-08,Mika,0
-2008-08,Moby,0
-2008-08,Natalie Imbruglia,0
-2008-08,Nelly Furtado,0
-2008-08,Robbie Williams,0
-2008-08,Roxette,0
-2008-08,Soundtrack,0
-2008-08,Sugababes,1
-2008-08,The Doors,0
-2008-09,Abba,1
-2008-09,Annie Lennox,1
-2008-09,Anouk,3
-2008-09,Christina Aguilera,0
-2008-09,Jem,1
-2008-09,Jewel,0
-2008-09,John Williams,2
-2008-09,Kelly Clarkson,0
-2008-09,Klaus Badelt,0
-2008-09,Lee Ryan,0
-2008-09,Madonna,2
-2008-09,Mika,0
-2008-09,Moby,0
-2008-09,Natalie Imbruglia,0
-2008-09,Nelly Furtado,0
-2008-09,Robbie Williams,0
-2008-09,Roxette,0
-2008-09,Soundtrack,4
-2008-09,Sugababes,0
-2008-09,The Doors,16
-2008-10,Abba,0
-2008-10,Annie Lennox,0
-2008-10,Anouk,0
-2008-10,Christina Aguilera,0
-2008-10,Jem,0
-2008-10,Jewel,0
-2008-10,John Williams,0
-2008-10,Kelly Clarkson,0
-2008-10,Klaus Badelt,0
-2008-10,Lee Ryan,0
-2008-10,Madonna,0
-2008-10,Mika,0
-2008-10,Moby,0
-2008-10,Natalie Imbruglia,0
-2008-10,Nelly Furtado,0
-2008-10,Robbie Williams,1
-2008-10,Roxette,0
-2008-10,Soundtrack,5
-2008-10,Sugababes,0
-2008-10,The Doors,0
-2008-11,Abba,0
-2008-11,Annie Lennox,0
-2008-11,Anouk,0
-2008-11,Christina Aguilera,0
-2008-11,Jem,0
-2008-11,Jewel,0
-2008-11,John Williams,1
-2008-11,Kelly Clarkson,0
-2008-11,Klaus Badelt,0
-2008-11,Lee Ryan,0
-2008-11,Madonna,0
-2008-11,Mika,0
-2008-11,Moby,0
-2008-11,Natalie Imbruglia,0
-2008-11,Nelly Furtado,0
-2008-11,Robbie Williams,0
-2008-11,Roxette,0
-2008-11,Soundtrack,0
-2008-11,Sugababes,0
-2008-11,The Doors,0
-2008-12,Abba,2
-2008-12,Annie Lennox,1
-2008-12,Anouk,0
-2008-12,Christina Aguilera,0
-2008-12,Jem,0
-2008-12,Jewel,0
-2008-12,John Williams,0
-2008-12,Kelly Clarkson,1
-2008-12,Klaus Badelt,0
-2008-12,Lee Ryan,1
-2008-12,Madonna,0
-2008-12,Mika,0
-2008-12,Moby,0
-2008-12,Natalie Imbruglia,0
-2008-12,Nelly Furtado,0
-2008-12,Robbie Williams,1
-2008-12,Roxette,0
-2008-12,Soundtrack,1
-2008-12,Sugababes,0
-2008-12,The Doors,0
-2009-01,Abba,0
-2009-01,Annie Lennox,0
-2009-01,Anouk,0
-2009-01,Christina Aguilera,1
-2009-01,Jem,0
-2009-01,Jewel,0
-2009-01,John Williams,1
-2009-01,Kelly Clarkson,0
-2009-01,Klaus Badelt,0
-2009-01,Lee Ryan,0
-2009-01,Madonna,0
-2009-01,Mika,0
-2009-01,Moby,0
-2009-01,Natalie Imbruglia,0
-2009-01,Nelly Furtado,0
-2009-01,Robbie Williams,0
-2009-01,Roxette,0
-2009-01,Soundtrack,0
-2009-01,Sugababes,0
-2009-01,The Doors,0
-2009-02,Abba,0
-2009-02,Annie Lennox,0
-2009-02,Anouk,0
-2009-02,Christina Aguilera,2
-2009-02,Jem,0
-2009-02,Jewel,0
-2009-02,John Williams,0
-2009-02,Kelly Clarkson,0
-2009-02,Klaus Badelt,0
-2009-02,Lee Ryan,1
-2009-02,Madonna,0
-2009-02,Mika,0
-2009-02,Moby,0
-2009-02,Natalie Imbruglia,0
-2009-02,Nelly Furtado,0
-2009-02,Robbie Williams,0
-2009-02,Roxette,0
-2009-02,Soundtrack,0
-2009-02,Sugababes,1
-2009-02,The Doors,0
-2009-03,Abba,0
-2009-03,Annie Lennox,0
-2009-03,Anouk,0
-2009-03,Christina Aguilera,3
-2009-03,Jem,0
-2009-03,Jewel,0
-2009-03,John Williams,0
-2009-03,Kelly Clarkson,0
-2009-03,Klaus Badelt,0
-2009-03,Lee Ryan,1
-2009-03,Madonna,0
-2009-03,Mika,1
-2009-03,Moby,0
-2009-03,Natalie Imbruglia,3
-2009-03,Nelly Furtado,0
-2009-03,Robbie Williams,0
-2009-03,Roxette,0
-2009-03,Soundtrack,0
-2009-03,Sugababes,0
-2009-03,The Doors,0
-2009-04,Abba,0
-2009-04,Annie Lennox,0
-2009-04,Anouk,0
-2009-04,Christina Aguilera,0
-2009-04,Jem,1
-2009-04,Jewel,0
-2009-04,John Williams,0
-2009-04,Kelly Clarkson,0
-2009-04,Klaus Badelt,0
-2009-04,Lee Ryan,1
-2009-04,Madonna,0
-2009-04,Mika,0
-2009-04,Moby,0
-2009-04,Natalie Imbruglia,0
-2009-04,Nelly Furtado,1
-2009-04,Robbie Williams,0
-2009-04,Roxette,0
-2009-04,Soundtrack,0
-2009-04,Sugababes,0
-2009-04,The Doors,0
+"month","artist","plays"
+"2006-07","Abba",4
+"2006-07","Annie Lennox",2
+"2006-07","Anouk",0
+"2006-07","Christina Aguilera",3
+"2006-07","Jem",0
+"2006-07","Jewel",2
+"2006-07","John Williams",1
+"2006-07","Kelly Clarkson",3
+"2006-07","Klaus Badelt",1
+"2006-07","Lee Ryan",3
+"2006-07","Madonna",2
+"2006-07","Mika",0
+"2006-07","Moby",0
+"2006-07","Natalie Imbruglia",4
+"2006-07","Nelly Furtado",0
+"2006-07","Robbie Williams",0
+"2006-07","Roxette",0
+"2006-07","Soundtrack",4
+"2006-07","Sugababes",0
+"2006-07","The Doors",0
+"2006-08","Abba",5
+"2006-08","Annie Lennox",2
+"2006-08","Anouk",0
+"2006-08","Christina Aguilera",49
+"2006-08","Jem",0
+"2006-08","Jewel",24
+"2006-08","John Williams",0
+"2006-08","Kelly Clarkson",0
+"2006-08","Klaus Badelt",3
+"2006-08","Lee Ryan",6
+"2006-08","Madonna",1
+"2006-08","Mika",0
+"2006-08","Moby",0
+"2006-08","Natalie Imbruglia",1
+"2006-08","Nelly Furtado",19
+"2006-08","Robbie Williams",5
+"2006-08","Roxette",1
+"2006-08","Soundtrack",3
+"2006-08","Sugababes",4
+"2006-08","The Doors",0
+"2006-09","Abba",0
+"2006-09","Annie Lennox",0
+"2006-09","Anouk",0
+"2006-09","Christina Aguilera",13
+"2006-09","Jem",0
+"2006-09","Jewel",0
+"2006-09","John Williams",0
+"2006-09","Kelly Clarkson",20
+"2006-09","Klaus Badelt",0
+"2006-09","Lee Ryan",6
+"2006-09","Madonna",0
+"2006-09","Mika",0
+"2006-09","Moby",2
+"2006-09","Natalie Imbruglia",0
+"2006-09","Nelly Furtado",4
+"2006-09","Robbie Williams",0
+"2006-09","Roxette",0
+"2006-09","Soundtrack",0
+"2006-09","Sugababes",4
+"2006-09","The Doors",0
+"2006-10","Abba",0
+"2006-10","Annie Lennox",1
+"2006-10","Anouk",0
+"2006-10","Christina Aguilera",13
+"2006-10","Jem",0
+"2006-10","Jewel",5
+"2006-10","John Williams",0
+"2006-10","Kelly Clarkson",11
+"2006-10","Klaus Badelt",0
+"2006-10","Lee Ryan",8
+"2006-10","Madonna",0
+"2006-10","Mika",0
+"2006-10","Moby",8
+"2006-10","Natalie Imbruglia",0
+"2006-10","Nelly Furtado",0
+"2006-10","Robbie Williams",0
+"2006-10","Roxette",0
+"2006-10","Soundtrack",3
+"2006-10","Sugababes",0
+"2006-10","The Doors",0
+"2006-11","Abba",11
+"2006-11","Annie Lennox",0
+"2006-11","Anouk",0
+"2006-11","Christina Aguilera",7
+"2006-11","Jem",0
+"2006-11","Jewel",28
+"2006-11","John Williams",0
+"2006-11","Kelly Clarkson",20
+"2006-11","Klaus Badelt",0
+"2006-11","Lee Ryan",55
+"2006-11","Madonna",0
+"2006-11","Mika",0
+"2006-11","Moby",1
+"2006-11","Natalie Imbruglia",19
+"2006-11","Nelly Furtado",0
+"2006-11","Robbie Williams",24
+"2006-11","Roxette",0
+"2006-11","Soundtrack",1
+"2006-11","Sugababes",0
+"2006-11","The Doors",0
+"2006-12","Abba",0
+"2006-12","Annie Lennox",0
+"2006-12","Anouk",0
+"2006-12","Christina Aguilera",0
+"2006-12","Jem",0
+"2006-12","Jewel",2
+"2006-12","John Williams",0
+"2006-12","Kelly Clarkson",1
+"2006-12","Klaus Badelt",0
+"2006-12","Lee Ryan",0
+"2006-12","Madonna",0
+"2006-12","Mika",0
+"2006-12","Moby",0
+"2006-12","Natalie Imbruglia",58
+"2006-12","Nelly Furtado",0
+"2006-12","Robbie Williams",24
+"2006-12","Roxette",15
+"2006-12","Soundtrack",0
+"2006-12","Sugababes",1
+"2006-12","The Doors",1
+"2007-01","Abba",9
+"2007-01","Annie Lennox",0
+"2007-01","Anouk",0
+"2007-01","Christina Aguilera",1
+"2007-01","Jem",10
+"2007-01","Jewel",2
+"2007-01","John Williams",1
+"2007-01","Kelly Clarkson",0
+"2007-01","Klaus Badelt",0
+"2007-01","Lee Ryan",0
+"2007-01","Madonna",0
+"2007-01","Mika",0
+"2007-01","Moby",1
+"2007-01","Natalie Imbruglia",1
+"2007-01","Nelly Furtado",11
+"2007-01","Robbie Williams",1
+"2007-01","Roxette",2
+"2007-01","Soundtrack",0
+"2007-01","Sugababes",0
+"2007-01","The Doors",1
+"2007-02","Abba",12
+"2007-02","Annie Lennox",0
+"2007-02","Anouk",0
+"2007-02","Christina Aguilera",8
+"2007-02","Jem",9
+"2007-02","Jewel",0
+"2007-02","John Williams",0
+"2007-02","Kelly Clarkson",2
+"2007-02","Klaus Badelt",0
+"2007-02","Lee Ryan",0
+"2007-02","Madonna",6
+"2007-02","Mika",0
+"2007-02","Moby",4
+"2007-02","Natalie Imbruglia",0
+"2007-02","Nelly Furtado",3
+"2007-02","Robbie Williams",0
+"2007-02","Roxette",0
+"2007-02","Soundtrack",0
+"2007-02","Sugababes",1
+"2007-02","The Doors",0
+"2007-03","Abba",0
+"2007-03","Annie Lennox",0
+"2007-03","Anouk",31
+"2007-03","Christina Aguilera",0
+"2007-03","Jem",0
+"2007-03","Jewel",2
+"2007-03","John Williams",2
+"2007-03","Kelly Clarkson",8
+"2007-03","Klaus Badelt",1
+"2007-03","Lee Ryan",0
+"2007-03","Madonna",6
+"2007-03","Mika",0
+"2007-03","Moby",0
+"2007-03","Natalie Imbruglia",0
+"2007-03","Nelly Furtado",0
+"2007-03","Robbie Williams",1
+"2007-03","Roxette",6
+"2007-03","Soundtrack",4
+"2007-03","Sugababes",0
+"2007-03","The Doors",0
+"2007-04","Abba",0
+"2007-04","Annie Lennox",0
+"2007-04","Anouk",9
+"2007-04","Christina Aguilera",3
+"2007-04","Jem",0
+"2007-04","Jewel",0
+"2007-04","John Williams",0
+"2007-04","Kelly Clarkson",3
+"2007-04","Klaus Badelt",0
+"2007-04","Lee Ryan",13
+"2007-04","Madonna",0
+"2007-04","Mika",0
+"2007-04","Moby",0
+"2007-04","Natalie Imbruglia",4
+"2007-04","Nelly Furtado",0
+"2007-04","Robbie Williams",1
+"2007-04","Roxette",2
+"2007-04","Soundtrack",0
+"2007-04","Sugababes",0
+"2007-04","The Doors",1
+"2007-05","Abba",0
+"2007-05","Annie Lennox",1
+"2007-05","Anouk",9
+"2007-05","Christina Aguilera",0
+"2007-05","Jem",0
+"2007-05","Jewel",0
+"2007-05","John Williams",0
+"2007-05","Kelly Clarkson",1
+"2007-05","Klaus Badelt",0
+"2007-05","Lee Ryan",0
+"2007-05","Madonna",0
+"2007-05","Mika",9
+"2007-05","Moby",0
+"2007-05","Natalie Imbruglia",0
+"2007-05","Nelly Furtado",3
+"2007-05","Robbie Williams",1
+"2007-05","Roxette",13
+"2007-05","Soundtrack",0
+"2007-05","Sugababes",1
+"2007-05","The Doors",0
+"2007-06","Abba",1
+"2007-06","Annie Lennox",3
+"2007-06","Anouk",23
+"2007-06","Christina Aguilera",0
+"2007-06","Jem",1
+"2007-06","Jewel",5
+"2007-06","John Williams",0
+"2007-06","Kelly Clarkson",13
+"2007-06","Klaus Badelt",0
+"2007-06","Lee Ryan",16
+"2007-06","Madonna",0
+"2007-06","Mika",5
+"2007-06","Moby",3
+"2007-06","Natalie Imbruglia",1
+"2007-06","Nelly Furtado",0
+"2007-06","Robbie Williams",0
+"2007-06","Roxette",60
+"2007-06","Soundtrack",3
+"2007-06","Sugababes",0
+"2007-06","The Doors",5
+"2007-07","Abba",40
+"2007-07","Annie Lennox",1
+"2007-07","Anouk",3
+"2007-07","Christina Aguilera",0
+"2007-07","Jem",2
+"2007-07","Jewel",1
+"2007-07","John Williams",0
+"2007-07","Kelly Clarkson",0
+"2007-07","Klaus Badelt",0
+"2007-07","Lee Ryan",0
+"2007-07","Madonna",1
+"2007-07","Mika",1
+"2007-07","Moby",0
+"2007-07","Natalie Imbruglia",2
+"2007-07","Nelly Furtado",0
+"2007-07","Robbie Williams",0
+"2007-07","Roxette",17
+"2007-07","Soundtrack",0
+"2007-07","Sugababes",0
+"2007-07","The Doors",3
+"2007-08","Abba",0
+"2007-08","Annie Lennox",0
+"2007-08","Anouk",4
+"2007-08","Christina Aguilera",0
+"2007-08","Jem",0
+"2007-08","Jewel",3
+"2007-08","John Williams",0
+"2007-08","Kelly Clarkson",1
+"2007-08","Klaus Badelt",0
+"2007-08","Lee Ryan",0
+"2007-08","Madonna",0
+"2007-08","Mika",4
+"2007-08","Moby",0
+"2007-08","Natalie Imbruglia",0
+"2007-08","Nelly Furtado",0
+"2007-08","Robbie Williams",2
+"2007-08","Roxette",7
+"2007-08","Soundtrack",0
+"2007-08","Sugababes",0
+"2007-08","The Doors",0
+"2007-09","Abba",0
+"2007-09","Annie Lennox",0
+"2007-09","Anouk",0
+"2007-09","Christina Aguilera",1
+"2007-09","Jem",0
+"2007-09","Jewel",0
+"2007-09","John Williams",0
+"2007-09","Kelly Clarkson",0
+"2007-09","Klaus Badelt",3
+"2007-09","Lee Ryan",0
+"2007-09","Madonna",0
+"2007-09","Mika",13
+"2007-09","Moby",0
+"2007-09","Natalie Imbruglia",0
+"2007-09","Nelly Furtado",0
+"2007-09","Robbie Williams",0
+"2007-09","Roxette",0
+"2007-09","Soundtrack",0
+"2007-09","Sugababes",0
+"2007-09","The Doors",3
+"2007-10","Abba",0
+"2007-10","Annie Lennox",0
+"2007-10","Anouk",1
+"2007-10","Christina Aguilera",1
+"2007-10","Jem",0
+"2007-10","Jewel",4
+"2007-10","John Williams",0
+"2007-10","Kelly Clarkson",18
+"2007-10","Klaus Badelt",9
+"2007-10","Lee Ryan",7
+"2007-10","Madonna",0
+"2007-10","Mika",0
+"2007-10","Moby",1
+"2007-10","Natalie Imbruglia",3
+"2007-10","Nelly Furtado",0
+"2007-10","Robbie Williams",0
+"2007-10","Roxette",0
+"2007-10","Soundtrack",0
+"2007-10","Sugababes",1
+"2007-10","The Doors",1
+"2007-11","Abba",0
+"2007-11","Annie Lennox",0
+"2007-11","Anouk",0
+"2007-11","Christina Aguilera",16
+"2007-11","Jem",0
+"2007-11","Jewel",0
+"2007-11","John Williams",0
+"2007-11","Kelly Clarkson",0
+"2007-11","Klaus Badelt",0
+"2007-11","Lee Ryan",0
+"2007-11","Madonna",0
+"2007-11","Mika",0
+"2007-11","Moby",4
+"2007-11","Natalie Imbruglia",0
+"2007-11","Nelly Furtado",2
+"2007-11","Robbie Williams",0
+"2007-11","Roxette",0
+"2007-11","Soundtrack",0
+"2007-11","Sugababes",0
+"2007-11","The Doors",1
+"2007-12","Abba",0
+"2007-12","Annie Lennox",0
+"2007-12","Anouk",4
+"2007-12","Christina Aguilera",1
+"2007-12","Jem",9
+"2007-12","Jewel",0
+"2007-12","John Williams",1
+"2007-12","Kelly Clarkson",0
+"2007-12","Klaus Badelt",4
+"2007-12","Lee Ryan",0
+"2007-12","Madonna",0
+"2007-12","Mika",1
+"2007-12","Moby",0
+"2007-12","Natalie Imbruglia",0
+"2007-12","Nelly Furtado",0
+"2007-12","Robbie Williams",0
+"2007-12","Roxette",0
+"2007-12","Soundtrack",0
+"2007-12","Sugababes",0
+"2007-12","The Doors",0
+"2008-01","Abba",0
+"2008-01","Annie Lennox",1
+"2008-01","Anouk",0
+"2008-01","Christina Aguilera",1
+"2008-01","Jem",6
+"2008-01","Jewel",0
+"2008-01","John Williams",4
+"2008-01","Kelly Clarkson",0
+"2008-01","Klaus Badelt",3
+"2008-01","Lee Ryan",2
+"2008-01","Madonna",0
+"2008-01","Mika",2
+"2008-01","Moby",0
+"2008-01","Natalie Imbruglia",2
+"2008-01","Nelly Furtado",0
+"2008-01","Robbie Williams",0
+"2008-01","Roxette",2
+"2008-01","Soundtrack",9
+"2008-01","Sugababes",0
+"2008-01","The Doors",0
+"2008-02","Abba",1
+"2008-02","Annie Lennox",0
+"2008-02","Anouk",0
+"2008-02","Christina Aguilera",0
+"2008-02","Jem",0
+"2008-02","Jewel",7
+"2008-02","John Williams",0
+"2008-02","Kelly Clarkson",1
+"2008-02","Klaus Badelt",0
+"2008-02","Lee Ryan",1
+"2008-02","Madonna",6
+"2008-02","Mika",1
+"2008-02","Moby",1
+"2008-02","Natalie Imbruglia",1
+"2008-02","Nelly Furtado",0
+"2008-02","Robbie Williams",2
+"2008-02","Roxette",22
+"2008-02","Soundtrack",1
+"2008-02","Sugababes",2
+"2008-02","The Doors",2
+"2008-03","Abba",0
+"2008-03","Annie Lennox",1
+"2008-03","Anouk",2
+"2008-03","Christina Aguilera",0
+"2008-03","Jem",2
+"2008-03","Jewel",0
+"2008-03","John Williams",1
+"2008-03","Kelly Clarkson",1
+"2008-03","Klaus Badelt",0
+"2008-03","Lee Ryan",2
+"2008-03","Madonna",2
+"2008-03","Mika",11
+"2008-03","Moby",0
+"2008-03","Natalie Imbruglia",0
+"2008-03","Nelly Furtado",3
+"2008-03","Robbie Williams",1
+"2008-03","Roxette",1
+"2008-03","Soundtrack",3
+"2008-03","Sugababes",2
+"2008-03","The Doors",0
+"2008-04","Abba",0
+"2008-04","Annie Lennox",0
+"2008-04","Anouk",0
+"2008-04","Christina Aguilera",0
+"2008-04","Jem",0
+"2008-04","Jewel",0
+"2008-04","John Williams",0
+"2008-04","Kelly Clarkson",0
+"2008-04","Klaus Badelt",0
+"2008-04","Lee Ryan",1
+"2008-04","Madonna",0
+"2008-04","Mika",1
+"2008-04","Moby",0
+"2008-04","Natalie Imbruglia",2
+"2008-04","Nelly Furtado",0
+"2008-04","Robbie Williams",2
+"2008-04","Roxette",0
+"2008-04","Soundtrack",0
+"2008-04","Sugababes",0
+"2008-04","The Doors",0
+"2008-05","Abba",0
+"2008-05","Annie Lennox",0
+"2008-05","Anouk",0
+"2008-05","Christina Aguilera",0
+"2008-05","Jem",0
+"2008-05","Jewel",0
+"2008-05","John Williams",0
+"2008-05","Kelly Clarkson",0
+"2008-05","Klaus Badelt",1
+"2008-05","Lee Ryan",0
+"2008-05","Madonna",0
+"2008-05","Mika",0
+"2008-05","Moby",0
+"2008-05","Natalie Imbruglia",0
+"2008-05","Nelly Furtado",0
+"2008-05","Robbie Williams",0
+"2008-05","Roxette",0
+"2008-05","Soundtrack",0
+"2008-05","Sugababes",0
+"2008-05","The Doors",0
+"2008-06","Abba",0
+"2008-06","Annie Lennox",0
+"2008-06","Anouk",0
+"2008-06","Christina Aguilera",0
+"2008-06","Jem",0
+"2008-06","Jewel",0
+"2008-06","John Williams",0
+"2008-06","Kelly Clarkson",0
+"2008-06","Klaus Badelt",0
+"2008-06","Lee Ryan",0
+"2008-06","Madonna",0
+"2008-06","Mika",0
+"2008-06","Moby",0
+"2008-06","Natalie Imbruglia",0
+"2008-06","Nelly Furtado",0
+"2008-06","Robbie Williams",0
+"2008-06","Roxette",0
+"2008-06","Soundtrack",0
+"2008-06","Sugababes",0
+"2008-06","The Doors",0
+"2008-07","Abba",0
+"2008-07","Annie Lennox",0
+"2008-07","Anouk",0
+"2008-07","Christina Aguilera",0
+"2008-07","Jem",0
+"2008-07","Jewel",0
+"2008-07","John Williams",0
+"2008-07","Kelly Clarkson",0
+"2008-07","Klaus Badelt",1
+"2008-07","Lee Ryan",1
+"2008-07","Madonna",2
+"2008-07","Mika",2
+"2008-07","Moby",0
+"2008-07","Natalie Imbruglia",0
+"2008-07","Nelly Furtado",1
+"2008-07","Robbie Williams",0
+"2008-07","Roxette",0
+"2008-07","Soundtrack",1
+"2008-07","Sugababes",0
+"2008-07","The Doors",0
+"2008-08","Abba",0
+"2008-08","Annie Lennox",0
+"2008-08","Anouk",0
+"2008-08","Christina Aguilera",0
+"2008-08","Jem",0
+"2008-08","Jewel",0
+"2008-08","John Williams",0
+"2008-08","Kelly Clarkson",0
+"2008-08","Klaus Badelt",0
+"2008-08","Lee Ryan",0
+"2008-08","Madonna",0
+"2008-08","Mika",0
+"2008-08","Moby",0
+"2008-08","Natalie Imbruglia",0
+"2008-08","Nelly Furtado",0
+"2008-08","Robbie Williams",0
+"2008-08","Roxette",0
+"2008-08","Soundtrack",0
+"2008-08","Sugababes",1
+"2008-08","The Doors",0
+"2008-09","Abba",1
+"2008-09","Annie Lennox",1
+"2008-09","Anouk",3
+"2008-09","Christina Aguilera",0
+"2008-09","Jem",1
+"2008-09","Jewel",0
+"2008-09","John Williams",2
+"2008-09","Kelly Clarkson",0
+"2008-09","Klaus Badelt",0
+"2008-09","Lee Ryan",0
+"2008-09","Madonna",2
+"2008-09","Mika",0
+"2008-09","Moby",0
+"2008-09","Natalie Imbruglia",0
+"2008-09","Nelly Furtado",0
+"2008-09","Robbie Williams",0
+"2008-09","Roxette",0
+"2008-09","Soundtrack",4
+"2008-09","Sugababes",0
+"2008-09","The Doors",16
+"2008-10","Abba",0
+"2008-10","Annie Lennox",0
+"2008-10","Anouk",0
+"2008-10","Christina Aguilera",0
+"2008-10","Jem",0
+"2008-10","Jewel",0
+"2008-10","John Williams",0
+"2008-10","Kelly Clarkson",0
+"2008-10","Klaus Badelt",0
+"2008-10","Lee Ryan",0
+"2008-10","Madonna",0
+"2008-10","Mika",0
+"2008-10","Moby",0
+"2008-10","Natalie Imbruglia",0
+"2008-10","Nelly Furtado",0
+"2008-10","Robbie Williams",1
+"2008-10","Roxette",0
+"2008-10","Soundtrack",5
+"2008-10","Sugababes",0
+"2008-10","The Doors",0
+"2008-11","Abba",0
+"2008-11","Annie Lennox",0
+"2008-11","Anouk",0
+"2008-11","Christina Aguilera",0
+"2008-11","Jem",0
+"2008-11","Jewel",0
+"2008-11","John Williams",1
+"2008-11","Kelly Clarkson",0
+"2008-11","Klaus Badelt",0
+"2008-11","Lee Ryan",0
+"2008-11","Madonna",0
+"2008-11","Mika",0
+"2008-11","Moby",0
+"2008-11","Natalie Imbruglia",0
+"2008-11","Nelly Furtado",0
+"2008-11","Robbie Williams",0
+"2008-11","Roxette",0
+"2008-11","Soundtrack",0
+"2008-11","Sugababes",0
+"2008-11","The Doors",0
+"2008-12","Abba",2
+"2008-12","Annie Lennox",1
+"2008-12","Anouk",0
+"2008-12","Christina Aguilera",0
+"2008-12","Jem",0
+"2008-12","Jewel",0
+"2008-12","John Williams",0
+"2008-12","Kelly Clarkson",1
+"2008-12","Klaus Badelt",0
+"2008-12","Lee Ryan",1
+"2008-12","Madonna",0
+"2008-12","Mika",0
+"2008-12","Moby",0
+"2008-12","Natalie Imbruglia",0
+"2008-12","Nelly Furtado",0
+"2008-12","Robbie Williams",1
+"2008-12","Roxette",0
+"2008-12","Soundtrack",1
+"2008-12","Sugababes",0
+"2008-12","The Doors",0
+"2009-01","Abba",0
+"2009-01","Annie Lennox",0
+"2009-01","Anouk",0
+"2009-01","Christina Aguilera",1
+"2009-01","Jem",0
+"2009-01","Jewel",0
+"2009-01","John Williams",1
+"2009-01","Kelly Clarkson",0
+"2009-01","Klaus Badelt",0
+"2009-01","Lee Ryan",0
+"2009-01","Madonna",0
+"2009-01","Mika",0
+"2009-01","Moby",0
+"2009-01","Natalie Imbruglia",0
+"2009-01","Nelly Furtado",0
+"2009-01","Robbie Williams",0
+"2009-01","Roxette",0
+"2009-01","Soundtrack",0
+"2009-01","Sugababes",0
+"2009-01","The Doors",0
+"2009-02","Abba",0
+"2009-02","Annie Lennox",0
+"2009-02","Anouk",0
+"2009-02","Christina Aguilera",2
+"2009-02","Jem",0
+"2009-02","Jewel",0
+"2009-02","John Williams",0
+"2009-02","Kelly Clarkson",0
+"2009-02","Klaus Badelt",0
+"2009-02","Lee Ryan",1
+"2009-02","Madonna",0
+"2009-02","Mika",0
+"2009-02","Moby",0
+"2009-02","Natalie Imbruglia",0
+"2009-02","Nelly Furtado",0
+"2009-02","Robbie Williams",0
+"2009-02","Roxette",0
+"2009-02","Soundtrack",0
+"2009-02","Sugababes",1
+"2009-02","The Doors",0
+"2009-03","Abba",0
+"2009-03","Annie Lennox",0
+"2009-03","Anouk",0
+"2009-03","Christina Aguilera",3
+"2009-03","Jem",0
+"2009-03","Jewel",0
+"2009-03","John Williams",0
+"2009-03","Kelly Clarkson",0
+"2009-03","Klaus Badelt",0
+"2009-03","Lee Ryan",1
+"2009-03","Madonna",0
+"2009-03","Mika",1
+"2009-03","Moby",0
+"2009-03","Natalie Imbruglia",3
+"2009-03","Nelly Furtado",0
+"2009-03","Robbie Williams",0
+"2009-03","Roxette",0
+"2009-03","Soundtrack",0
+"2009-03","Sugababes",0
+"2009-03","The Doors",0
+"2009-04","Abba",0
+"2009-04","Annie Lennox",0
+"2009-04","Anouk",0
+"2009-04","Christina Aguilera",0
+"2009-04","Jem",1
+"2009-04","Jewel",0
+"2009-04","John Williams",0
+"2009-04","Kelly Clarkson",0
+"2009-04","Klaus Badelt",0
+"2009-04","Lee Ryan",1
+"2009-04","Madonna",0
+"2009-04","Mika",0
+"2009-04","Moby",0
+"2009-04","Natalie Imbruglia",0
+"2009-04","Nelly Furtado",1
+"2009-04","Robbie Williams",0
+"2009-04","Roxette",0
+"2009-04","Soundtrack",0
+"2009-04","Sugababes",0
+"2009-04","The Doors",0

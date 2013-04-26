@@ -1,841 +1,841 @@
-month,artist,plays
-2005-12,Arcade Fire,65
-2005-12,Black Rebel Motorcycle Club,51
-2005-12,Bob Dylan,4
-2005-12,Bright Eyes,18
-2005-12,Bruce Springsteen,61
-2005-12,Death Cab For Cutie,66
-2005-12,Feist,9
-2005-12,Johnny Cash,30
-2005-12,Kings Of Leon,50
-2005-12,Norah Jones,41
-2005-12,Oasis,7
-2005-12,Razorlight,30
-2005-12,Regina Spektor,0
-2005-12,Rufus Wainwright,1
-2005-12,Ryan Adams,0
-2005-12,Sigur Rós,22
-2005-12,Snow Patrol,17
-2005-12,Stereophonics,0
-2005-12,The Beatles,21
-2005-12,U2,341
-2006-01,Arcade Fire,43
-2006-01,Black Rebel Motorcycle Club,59
-2006-01,Bob Dylan,7
-2006-01,Bright Eyes,10
-2006-01,Bruce Springsteen,92
-2006-01,Death Cab For Cutie,67
-2006-01,Feist,30
-2006-01,Johnny Cash,14
-2006-01,Kings Of Leon,37
-2006-01,Norah Jones,10
-2006-01,Oasis,126
-2006-01,Razorlight,23
-2006-01,Regina Spektor,0
-2006-01,Rufus Wainwright,17
-2006-01,Ryan Adams,0
-2006-01,Sigur Rós,8
-2006-01,Snow Patrol,13
-2006-01,Stereophonics,9
-2006-01,The Beatles,28
-2006-01,U2,235
-2006-02,Arcade Fire,45
-2006-02,Black Rebel Motorcycle Club,23
-2006-02,Bob Dylan,1
-2006-02,Bright Eyes,12
-2006-02,Bruce Springsteen,96
-2006-02,Death Cab For Cutie,49
-2006-02,Feist,3
-2006-02,Johnny Cash,7
-2006-02,Kings Of Leon,146
-2006-02,Norah Jones,17
-2006-02,Oasis,27
-2006-02,Razorlight,35
-2006-02,Regina Spektor,0
-2006-02,Rufus Wainwright,7
-2006-02,Ryan Adams,0
-2006-02,Sigur Rós,15
-2006-02,Snow Patrol,19
-2006-02,Stereophonics,6
-2006-02,The Beatles,31
-2006-02,U2,46
-2006-03,Arcade Fire,48
-2006-03,Black Rebel Motorcycle Club,25
-2006-03,Bob Dylan,4
-2006-03,Bright Eyes,2
-2006-03,Bruce Springsteen,98
-2006-03,Death Cab For Cutie,27
-2006-03,Feist,15
-2006-03,Johnny Cash,4
-2006-03,Kings Of Leon,48
-2006-03,Norah Jones,22
-2006-03,Oasis,80
-2006-03,Razorlight,9
-2006-03,Regina Spektor,30
-2006-03,Rufus Wainwright,5
-2006-03,Ryan Adams,0
-2006-03,Sigur Rós,57
-2006-03,Snow Patrol,1
-2006-03,Stereophonics,4
-2006-03,The Beatles,2
-2006-03,U2,30
-2006-04,Arcade Fire,64
-2006-04,Black Rebel Motorcycle Club,25
-2006-04,Bob Dylan,14
-2006-04,Bright Eyes,4
-2006-04,Bruce Springsteen,338
-2006-04,Death Cab For Cutie,15
-2006-04,Feist,7
-2006-04,Johnny Cash,21
-2006-04,Kings Of Leon,28
-2006-04,Norah Jones,9
-2006-04,Oasis,148
-2006-04,Razorlight,12
-2006-04,Regina Spektor,27
-2006-04,Rufus Wainwright,8
-2006-04,Ryan Adams,4
-2006-04,Sigur Rós,17
-2006-04,Snow Patrol,26
-2006-04,Stereophonics,7
-2006-04,The Beatles,11
-2006-04,U2,135
-2006-05,Arcade Fire,22
-2006-05,Black Rebel Motorcycle Club,32
-2006-05,Bob Dylan,27
-2006-05,Bright Eyes,3
-2006-05,Bruce Springsteen,261
-2006-05,Death Cab For Cutie,60
-2006-05,Feist,13
-2006-05,Johnny Cash,4
-2006-05,Kings Of Leon,128
-2006-05,Norah Jones,2
-2006-05,Oasis,285
-2006-05,Razorlight,13
-2006-05,Regina Spektor,79
-2006-05,Rufus Wainwright,1
-2006-05,Ryan Adams,16
-2006-05,Sigur Rós,11
-2006-05,Snow Patrol,14
-2006-05,Stereophonics,13
-2006-05,The Beatles,41
-2006-05,U2,62
-2006-06,Arcade Fire,19
-2006-06,Black Rebel Motorcycle Club,30
-2006-06,Bob Dylan,13
-2006-06,Bright Eyes,10
-2006-06,Bruce Springsteen,60
-2006-06,Death Cab For Cutie,35
-2006-06,Feist,21
-2006-06,Johnny Cash,8
-2006-06,Kings Of Leon,117
-2006-06,Norah Jones,17
-2006-06,Oasis,304
-2006-06,Razorlight,19
-2006-06,Regina Spektor,68
-2006-06,Rufus Wainwright,3
-2006-06,Ryan Adams,93
-2006-06,Sigur Rós,22
-2006-06,Snow Patrol,25
-2006-06,Stereophonics,61
-2006-06,The Beatles,30
-2006-06,U2,67
-2006-07,Arcade Fire,22
-2006-07,Black Rebel Motorcycle Club,39
-2006-07,Bob Dylan,121
-2006-07,Bright Eyes,8
-2006-07,Bruce Springsteen,121
-2006-07,Death Cab For Cutie,42
-2006-07,Feist,10
-2006-07,Johnny Cash,126
-2006-07,Kings Of Leon,74
-2006-07,Norah Jones,12
-2006-07,Oasis,121
-2006-07,Razorlight,63
-2006-07,Regina Spektor,125
-2006-07,Rufus Wainwright,2
-2006-07,Ryan Adams,99
-2006-07,Sigur Rós,11
-2006-07,Snow Patrol,24
-2006-07,Stereophonics,36
-2006-07,The Beatles,29
-2006-07,U2,214
-2006-08,Arcade Fire,81
-2006-08,Black Rebel Motorcycle Club,15
-2006-08,Bob Dylan,44
-2006-08,Bright Eyes,39
-2006-08,Bruce Springsteen,123
-2006-08,Death Cab For Cutie,66
-2006-08,Feist,11
-2006-08,Johnny Cash,26
-2006-08,Kings Of Leon,75
-2006-08,Norah Jones,7
-2006-08,Oasis,98
-2006-08,Razorlight,19
-2006-08,Regina Spektor,50
-2006-08,Rufus Wainwright,23
-2006-08,Ryan Adams,128
-2006-08,Sigur Rós,2
-2006-08,Snow Patrol,11
-2006-08,Stereophonics,33
-2006-08,The Beatles,14
-2006-08,U2,120
-2006-09,Arcade Fire,21
-2006-09,Black Rebel Motorcycle Club,8
-2006-09,Bob Dylan,53
-2006-09,Bright Eyes,21
-2006-09,Bruce Springsteen,137
-2006-09,Death Cab For Cutie,6
-2006-09,Feist,17
-2006-09,Johnny Cash,44
-2006-09,Kings Of Leon,10
-2006-09,Norah Jones,25
-2006-09,Oasis,46
-2006-09,Razorlight,1
-2006-09,Regina Spektor,62
-2006-09,Rufus Wainwright,51
-2006-09,Ryan Adams,30
-2006-09,Sigur Rós,0
-2006-09,Snow Patrol,8
-2006-09,Stereophonics,6
-2006-09,The Beatles,4
-2006-09,U2,86
-2006-10,Arcade Fire,39
-2006-10,Black Rebel Motorcycle Club,7
-2006-10,Bob Dylan,25
-2006-10,Bright Eyes,12
-2006-10,Bruce Springsteen,114
-2006-10,Death Cab For Cutie,16
-2006-10,Feist,3
-2006-10,Johnny Cash,18
-2006-10,Kings Of Leon,5
-2006-10,Norah Jones,3
-2006-10,Oasis,63
-2006-10,Razorlight,1
-2006-10,Regina Spektor,22
-2006-10,Rufus Wainwright,75
-2006-10,Ryan Adams,13
-2006-10,Sigur Rós,4
-2006-10,Snow Patrol,5
-2006-10,Stereophonics,3
-2006-10,The Beatles,2
-2006-10,U2,162
-2006-11,Arcade Fire,18
-2006-11,Black Rebel Motorcycle Club,10
-2006-11,Bob Dylan,39
-2006-11,Bright Eyes,11
-2006-11,Bruce Springsteen,94
-2006-11,Death Cab For Cutie,10
-2006-11,Feist,0
-2006-11,Johnny Cash,35
-2006-11,Kings Of Leon,28
-2006-11,Norah Jones,12
-2006-11,Oasis,82
-2006-11,Razorlight,0
-2006-11,Regina Spektor,12
-2006-11,Rufus Wainwright,164
-2006-11,Ryan Adams,21
-2006-11,Sigur Rós,3
-2006-11,Snow Patrol,5
-2006-11,Stereophonics,3
-2006-11,The Beatles,1
-2006-11,U2,85
-2006-12,Arcade Fire,3
-2006-12,Black Rebel Motorcycle Club,10
-2006-12,Bob Dylan,45
-2006-12,Bright Eyes,8
-2006-12,Bruce Springsteen,69
-2006-12,Death Cab For Cutie,4
-2006-12,Feist,0
-2006-12,Johnny Cash,21
-2006-12,Kings Of Leon,6
-2006-12,Norah Jones,1
-2006-12,Oasis,70
-2006-12,Razorlight,4
-2006-12,Regina Spektor,4
-2006-12,Rufus Wainwright,29
-2006-12,Ryan Adams,4
-2006-12,Sigur Rós,3
-2006-12,Snow Patrol,3
-2006-12,Stereophonics,2
-2006-12,The Beatles,5
-2006-12,U2,80
-2007-01,Arcade Fire,2
-2007-01,Black Rebel Motorcycle Club,1
-2007-01,Bob Dylan,26
-2007-01,Bright Eyes,0
-2007-01,Bruce Springsteen,87
-2007-01,Death Cab For Cutie,2
-2007-01,Feist,0
-2007-01,Johnny Cash,0
-2007-01,Kings Of Leon,0
-2007-01,Norah Jones,6
-2007-01,Oasis,12
-2007-01,Razorlight,0
-2007-01,Regina Spektor,0
-2007-01,Rufus Wainwright,17
-2007-01,Ryan Adams,2
-2007-01,Sigur Rós,28
-2007-01,Snow Patrol,0
-2007-01,Stereophonics,1
-2007-01,The Beatles,3
-2007-01,U2,66
-2007-02,Arcade Fire,40
-2007-02,Black Rebel Motorcycle Club,0
-2007-02,Bob Dylan,5
-2007-02,Bright Eyes,0
-2007-02,Bruce Springsteen,18
-2007-02,Death Cab For Cutie,0
-2007-02,Feist,0
-2007-02,Johnny Cash,0
-2007-02,Kings Of Leon,48
-2007-02,Norah Jones,0
-2007-02,Oasis,11
-2007-02,Razorlight,0
-2007-02,Regina Spektor,0
-2007-02,Rufus Wainwright,4
-2007-02,Ryan Adams,0
-2007-02,Sigur Rós,27
-2007-02,Snow Patrol,0
-2007-02,Stereophonics,7
-2007-02,The Beatles,7
-2007-02,U2,8
-2007-03,Arcade Fire,1
-2007-03,Black Rebel Motorcycle Club,0
-2007-03,Bob Dylan,17
-2007-03,Bright Eyes,0
-2007-03,Bruce Springsteen,33
-2007-03,Death Cab For Cutie,0
-2007-03,Feist,0
-2007-03,Johnny Cash,2
-2007-03,Kings Of Leon,0
-2007-03,Norah Jones,3
-2007-03,Oasis,11
-2007-03,Razorlight,2
-2007-03,Regina Spektor,1
-2007-03,Rufus Wainwright,1
-2007-03,Ryan Adams,5
-2007-03,Sigur Rós,0
-2007-03,Snow Patrol,0
-2007-03,Stereophonics,0
-2007-03,The Beatles,9
-2007-03,U2,49
-2007-04,Arcade Fire,21
-2007-04,Black Rebel Motorcycle Club,9
-2007-04,Bob Dylan,19
-2007-04,Bright Eyes,2
-2007-04,Bruce Springsteen,87
-2007-04,Death Cab For Cutie,5
-2007-04,Feist,9
-2007-04,Johnny Cash,1
-2007-04,Kings Of Leon,83
-2007-04,Norah Jones,10
-2007-04,Oasis,29
-2007-04,Razorlight,1
-2007-04,Regina Spektor,21
-2007-04,Rufus Wainwright,26
-2007-04,Ryan Adams,49
-2007-04,Sigur Rós,10
-2007-04,Snow Patrol,2
-2007-04,Stereophonics,2
-2007-04,The Beatles,0
-2007-04,U2,61
-2007-05,Arcade Fire,26
-2007-05,Black Rebel Motorcycle Club,119
-2007-05,Bob Dylan,10
-2007-05,Bright Eyes,6
-2007-05,Bruce Springsteen,26
-2007-05,Death Cab For Cutie,14
-2007-05,Feist,23
-2007-05,Johnny Cash,0
-2007-05,Kings Of Leon,82
-2007-05,Norah Jones,9
-2007-05,Oasis,14
-2007-05,Razorlight,3
-2007-05,Regina Spektor,2
-2007-05,Rufus Wainwright,28
-2007-05,Ryan Adams,8
-2007-05,Sigur Rós,2
-2007-05,Snow Patrol,32
-2007-05,Stereophonics,3
-2007-05,The Beatles,0
-2007-05,U2,34
-2007-06,Arcade Fire,6
-2007-06,Black Rebel Motorcycle Club,43
-2007-06,Bob Dylan,15
-2007-06,Bright Eyes,6
-2007-06,Bruce Springsteen,28
-2007-06,Death Cab For Cutie,14
-2007-06,Feist,2
-2007-06,Johnny Cash,9
-2007-06,Kings Of Leon,58
-2007-06,Norah Jones,17
-2007-06,Oasis,27
-2007-06,Razorlight,1
-2007-06,Regina Spektor,17
-2007-06,Rufus Wainwright,48
-2007-06,Ryan Adams,42
-2007-06,Sigur Rós,7
-2007-06,Snow Patrol,10
-2007-06,Stereophonics,5
-2007-06,The Beatles,5
-2007-06,U2,30
-2007-07,Arcade Fire,9
-2007-07,Black Rebel Motorcycle Club,20
-2007-07,Bob Dylan,4
-2007-07,Bright Eyes,3
-2007-07,Bruce Springsteen,37
-2007-07,Death Cab For Cutie,2
-2007-07,Feist,4
-2007-07,Johnny Cash,8
-2007-07,Kings Of Leon,19
-2007-07,Norah Jones,6
-2007-07,Oasis,18
-2007-07,Razorlight,10
-2007-07,Regina Spektor,9
-2007-07,Rufus Wainwright,80
-2007-07,Ryan Adams,130
-2007-07,Sigur Rós,12
-2007-07,Snow Patrol,7
-2007-07,Stereophonics,21
-2007-07,The Beatles,1
-2007-07,U2,44
-2007-08,Arcade Fire,14
-2007-08,Black Rebel Motorcycle Club,14
-2007-08,Bob Dylan,1
-2007-08,Bright Eyes,10
-2007-08,Bruce Springsteen,65
-2007-08,Death Cab For Cutie,1
-2007-08,Feist,8
-2007-08,Johnny Cash,4
-2007-08,Kings Of Leon,42
-2007-08,Norah Jones,7
-2007-08,Oasis,41
-2007-08,Razorlight,1
-2007-08,Regina Spektor,2
-2007-08,Rufus Wainwright,87
-2007-08,Ryan Adams,35
-2007-08,Sigur Rós,4
-2007-08,Snow Patrol,8
-2007-08,Stereophonics,11
-2007-08,The Beatles,2
-2007-08,U2,68
-2007-09,Arcade Fire,14
-2007-09,Black Rebel Motorcycle Club,9
-2007-09,Bob Dylan,7
-2007-09,Bright Eyes,1
-2007-09,Bruce Springsteen,70
-2007-09,Death Cab For Cutie,1
-2007-09,Feist,2
-2007-09,Johnny Cash,2
-2007-09,Kings Of Leon,1
-2007-09,Norah Jones,1
-2007-09,Oasis,6
-2007-09,Razorlight,1
-2007-09,Regina Spektor,1
-2007-09,Rufus Wainwright,22
-2007-09,Ryan Adams,18
-2007-09,Sigur Rós,1
-2007-09,Snow Patrol,2
-2007-09,Stereophonics,4
-2007-09,The Beatles,2
-2007-09,U2,64
-2007-10,Arcade Fire,8
-2007-10,Black Rebel Motorcycle Club,12
-2007-10,Bob Dylan,2
-2007-10,Bright Eyes,1
-2007-10,Bruce Springsteen,19
-2007-10,Death Cab For Cutie,5
-2007-10,Feist,12
-2007-10,Johnny Cash,4
-2007-10,Kings Of Leon,3
-2007-10,Norah Jones,17
-2007-10,Oasis,18
-2007-10,Razorlight,1
-2007-10,Regina Spektor,54
-2007-10,Rufus Wainwright,14
-2007-10,Ryan Adams,86
-2007-10,Sigur Rós,2
-2007-10,Snow Patrol,4
-2007-10,Stereophonics,5
-2007-10,The Beatles,3
-2007-10,U2,36
-2007-11,Arcade Fire,50
-2007-11,Black Rebel Motorcycle Club,3
-2007-11,Bob Dylan,49
-2007-11,Bright Eyes,2
-2007-11,Bruce Springsteen,29
-2007-11,Death Cab For Cutie,3
-2007-11,Feist,10
-2007-11,Johnny Cash,4
-2007-11,Kings Of Leon,7
-2007-11,Norah Jones,7
-2007-11,Oasis,3
-2007-11,Razorlight,0
-2007-11,Regina Spektor,18
-2007-11,Rufus Wainwright,90
-2007-11,Ryan Adams,52
-2007-11,Sigur Rós,5
-2007-11,Snow Patrol,6
-2007-11,Stereophonics,0
-2007-11,The Beatles,1
-2007-11,U2,30
-2007-12,Arcade Fire,0
-2007-12,Black Rebel Motorcycle Club,0
-2007-12,Bob Dylan,0
-2007-12,Bright Eyes,0
-2007-12,Bruce Springsteen,27
-2007-12,Death Cab For Cutie,0
-2007-12,Feist,0
-2007-12,Johnny Cash,7
-2007-12,Kings Of Leon,3
-2007-12,Norah Jones,0
-2007-12,Oasis,0
-2007-12,Razorlight,0
-2007-12,Regina Spektor,14
-2007-12,Rufus Wainwright,222
-2007-12,Ryan Adams,28
-2007-12,Sigur Rós,0
-2007-12,Snow Patrol,0
-2007-12,Stereophonics,0
-2007-12,The Beatles,0
-2007-12,U2,0
-2008-01,Arcade Fire,0
-2008-01,Black Rebel Motorcycle Club,0
-2008-01,Bob Dylan,2
-2008-01,Bright Eyes,1
-2008-01,Bruce Springsteen,15
-2008-01,Death Cab For Cutie,0
-2008-01,Feist,3
-2008-01,Johnny Cash,2
-2008-01,Kings Of Leon,0
-2008-01,Norah Jones,2
-2008-01,Oasis,0
-2008-01,Razorlight,1
-2008-01,Regina Spektor,17
-2008-01,Rufus Wainwright,35
-2008-01,Ryan Adams,7
-2008-01,Sigur Rós,1
-2008-01,Snow Patrol,0
-2008-01,Stereophonics,0
-2008-01,The Beatles,0
-2008-01,U2,2
-2008-02,Arcade Fire,0
-2008-02,Black Rebel Motorcycle Club,3
-2008-02,Bob Dylan,1
-2008-02,Bright Eyes,0
-2008-02,Bruce Springsteen,5
-2008-02,Death Cab For Cutie,0
-2008-02,Feist,0
-2008-02,Johnny Cash,4
-2008-02,Kings Of Leon,8
-2008-02,Norah Jones,0
-2008-02,Oasis,8
-2008-02,Razorlight,0
-2008-02,Regina Spektor,1
-2008-02,Rufus Wainwright,122
-2008-02,Ryan Adams,2
-2008-02,Sigur Rós,0
-2008-02,Snow Patrol,0
-2008-02,Stereophonics,1
-2008-02,The Beatles,1
-2008-02,U2,4
-2008-03,Arcade Fire,1
-2008-03,Black Rebel Motorcycle Club,1
-2008-03,Bob Dylan,5
-2008-03,Bright Eyes,0
-2008-03,Bruce Springsteen,5
-2008-03,Death Cab For Cutie,2
-2008-03,Feist,2
-2008-03,Johnny Cash,2
-2008-03,Kings Of Leon,0
-2008-03,Norah Jones,0
-2008-03,Oasis,5
-2008-03,Razorlight,0
-2008-03,Regina Spektor,0
-2008-03,Rufus Wainwright,19
-2008-03,Ryan Adams,13
-2008-03,Sigur Rós,0
-2008-03,Snow Patrol,0
-2008-03,Stereophonics,2
-2008-03,The Beatles,1
-2008-03,U2,14
-2008-04,Arcade Fire,1
-2008-04,Black Rebel Motorcycle Club,4
-2008-04,Bob Dylan,9
-2008-04,Bright Eyes,0
-2008-04,Bruce Springsteen,14
-2008-04,Death Cab For Cutie,0
-2008-04,Feist,0
-2008-04,Johnny Cash,5
-2008-04,Kings Of Leon,2
-2008-04,Norah Jones,0
-2008-04,Oasis,4
-2008-04,Razorlight,0
-2008-04,Regina Spektor,0
-2008-04,Rufus Wainwright,77
-2008-04,Ryan Adams,17
-2008-04,Sigur Rós,0
-2008-04,Snow Patrol,0
-2008-04,Stereophonics,7
-2008-04,The Beatles,0
-2008-04,U2,15
-2008-05,Arcade Fire,13
-2008-05,Black Rebel Motorcycle Club,5
-2008-05,Bob Dylan,8
-2008-05,Bright Eyes,1
-2008-05,Bruce Springsteen,36
-2008-05,Death Cab For Cutie,3
-2008-05,Feist,3
-2008-05,Johnny Cash,5
-2008-05,Kings Of Leon,2
-2008-05,Norah Jones,7
-2008-05,Oasis,12
-2008-05,Razorlight,2
-2008-05,Regina Spektor,6
-2008-05,Rufus Wainwright,22
-2008-05,Ryan Adams,111
-2008-05,Sigur Rós,0
-2008-05,Snow Patrol,1
-2008-05,Stereophonics,4
-2008-05,The Beatles,5
-2008-05,U2,75
-2008-06,Arcade Fire,0
-2008-06,Black Rebel Motorcycle Club,2
-2008-06,Bob Dylan,0
-2008-06,Bright Eyes,1
-2008-06,Bruce Springsteen,5
-2008-06,Death Cab For Cutie,2
-2008-06,Feist,3
-2008-06,Johnny Cash,0
-2008-06,Kings Of Leon,2
-2008-06,Norah Jones,3
-2008-06,Oasis,5
-2008-06,Razorlight,1
-2008-06,Regina Spektor,6
-2008-06,Rufus Wainwright,55
-2008-06,Ryan Adams,15
-2008-06,Sigur Rós,0
-2008-06,Snow Patrol,2
-2008-06,Stereophonics,2
-2008-06,The Beatles,1
-2008-06,U2,14
-2008-07,Arcade Fire,0
-2008-07,Black Rebel Motorcycle Club,3
-2008-07,Bob Dylan,6
-2008-07,Bright Eyes,5
-2008-07,Bruce Springsteen,10
-2008-07,Death Cab For Cutie,1
-2008-07,Feist,0
-2008-07,Johnny Cash,2
-2008-07,Kings Of Leon,14
-2008-07,Norah Jones,1
-2008-07,Oasis,9
-2008-07,Razorlight,3
-2008-07,Regina Spektor,2
-2008-07,Rufus Wainwright,60
-2008-07,Ryan Adams,24
-2008-07,Sigur Rós,0
-2008-07,Snow Patrol,1
-2008-07,Stereophonics,12
-2008-07,The Beatles,0
-2008-07,U2,1
-2008-08,Arcade Fire,2
-2008-08,Black Rebel Motorcycle Club,4
-2008-08,Bob Dylan,0
-2008-08,Bright Eyes,0
-2008-08,Bruce Springsteen,6
-2008-08,Death Cab For Cutie,0
-2008-08,Feist,0
-2008-08,Johnny Cash,0
-2008-08,Kings Of Leon,13
-2008-08,Norah Jones,0
-2008-08,Oasis,1
-2008-08,Razorlight,9
-2008-08,Regina Spektor,28
-2008-08,Rufus Wainwright,25
-2008-08,Ryan Adams,54
-2008-08,Sigur Rós,11
-2008-08,Snow Patrol,0
-2008-08,Stereophonics,2
-2008-08,The Beatles,0
-2008-08,U2,4
-2008-09,Arcade Fire,1
-2008-09,Black Rebel Motorcycle Club,2
-2008-09,Bob Dylan,13
-2008-09,Bright Eyes,0
-2008-09,Bruce Springsteen,23
-2008-09,Death Cab For Cutie,0
-2008-09,Feist,0
-2008-09,Johnny Cash,0
-2008-09,Kings Of Leon,2
-2008-09,Norah Jones,0
-2008-09,Oasis,0
-2008-09,Razorlight,24
-2008-09,Regina Spektor,25
-2008-09,Rufus Wainwright,25
-2008-09,Ryan Adams,6
-2008-09,Sigur Rós,1
-2008-09,Snow Patrol,1
-2008-09,Stereophonics,0
-2008-09,The Beatles,0
-2008-09,U2,20
-2008-10,Arcade Fire,2
-2008-10,Black Rebel Motorcycle Club,1
-2008-10,Bob Dylan,0
-2008-10,Bright Eyes,1
-2008-10,Bruce Springsteen,2
-2008-10,Death Cab For Cutie,0
-2008-10,Feist,1
-2008-10,Johnny Cash,0
-2008-10,Kings Of Leon,70
-2008-10,Norah Jones,2
-2008-10,Oasis,13
-2008-10,Razorlight,2
-2008-10,Regina Spektor,5
-2008-10,Rufus Wainwright,11
-2008-10,Ryan Adams,2
-2008-10,Sigur Rós,4
-2008-10,Snow Patrol,1
-2008-10,Stereophonics,0
-2008-10,The Beatles,0
-2008-10,U2,13
-2008-11,Arcade Fire,0
-2008-11,Black Rebel Motorcycle Club,1
-2008-11,Bob Dylan,7
-2008-11,Bright Eyes,8
-2008-11,Bruce Springsteen,1
-2008-11,Death Cab For Cutie,0
-2008-11,Feist,29
-2008-11,Johnny Cash,0
-2008-11,Kings Of Leon,9
-2008-11,Norah Jones,2
-2008-11,Oasis,1
-2008-11,Razorlight,0
-2008-11,Regina Spektor,16
-2008-11,Rufus Wainwright,17
-2008-11,Ryan Adams,26
-2008-11,Sigur Rós,11
-2008-11,Snow Patrol,11
-2008-11,Stereophonics,1
-2008-11,The Beatles,0
-2008-11,U2,2
-2008-12,Arcade Fire,1
-2008-12,Black Rebel Motorcycle Club,0
-2008-12,Bob Dylan,0
-2008-12,Bright Eyes,0
-2008-12,Bruce Springsteen,4
-2008-12,Death Cab For Cutie,0
-2008-12,Feist,0
-2008-12,Johnny Cash,0
-2008-12,Kings Of Leon,0
-2008-12,Norah Jones,0
-2008-12,Oasis,3
-2008-12,Razorlight,0
-2008-12,Regina Spektor,0
-2008-12,Rufus Wainwright,2
-2008-12,Ryan Adams,0
-2008-12,Sigur Rós,0
-2008-12,Snow Patrol,0
-2008-12,Stereophonics,0
-2008-12,The Beatles,0
-2008-12,U2,24
-2009-01,Arcade Fire,2
-2009-01,Black Rebel Motorcycle Club,0
-2009-01,Bob Dylan,0
-2009-01,Bright Eyes,0
-2009-01,Bruce Springsteen,6
-2009-01,Death Cab For Cutie,0
-2009-01,Feist,0
-2009-01,Johnny Cash,0
-2009-01,Kings Of Leon,0
-2009-01,Norah Jones,0
-2009-01,Oasis,0
-2009-01,Razorlight,0
-2009-01,Regina Spektor,4
-2009-01,Rufus Wainwright,0
-2009-01,Ryan Adams,3
-2009-01,Sigur Rós,0
-2009-01,Snow Patrol,0
-2009-01,Stereophonics,0
-2009-01,The Beatles,0
-2009-01,U2,3
-2009-02,Arcade Fire,0
-2009-02,Black Rebel Motorcycle Club,10
-2009-02,Bob Dylan,1
-2009-02,Bright Eyes,0
-2009-02,Bruce Springsteen,129
-2009-02,Death Cab For Cutie,0
-2009-02,Feist,2
-2009-02,Johnny Cash,0
-2009-02,Kings Of Leon,5
-2009-02,Norah Jones,0
-2009-02,Oasis,0
-2009-02,Razorlight,0
-2009-02,Regina Spektor,3
-2009-02,Rufus Wainwright,1
-2009-02,Ryan Adams,1
-2009-02,Sigur Rós,4
-2009-02,Snow Patrol,0
-2009-02,Stereophonics,2
-2009-02,The Beatles,0
-2009-02,U2,76
-2009-03,Arcade Fire,0
-2009-03,Black Rebel Motorcycle Club,0
-2009-03,Bob Dylan,13
-2009-03,Bright Eyes,4
-2009-03,Bruce Springsteen,72
-2009-03,Death Cab For Cutie,0
-2009-03,Feist,0
-2009-03,Johnny Cash,4
-2009-03,Kings Of Leon,0
-2009-03,Norah Jones,0
-2009-03,Oasis,0
-2009-03,Razorlight,0
-2009-03,Regina Spektor,3
-2009-03,Rufus Wainwright,12
-2009-03,Ryan Adams,2
-2009-03,Sigur Rós,0
-2009-03,Snow Patrol,1
-2009-03,Stereophonics,0
-2009-03,The Beatles,9
-2009-03,U2,58
-2009-04,Arcade Fire,0
-2009-04,Black Rebel Motorcycle Club,0
-2009-04,Bob Dylan,4
-2009-04,Bright Eyes,0
-2009-04,Bruce Springsteen,17
-2009-04,Death Cab For Cutie,1
-2009-04,Feist,5
-2009-04,Johnny Cash,1
-2009-04,Kings Of Leon,1
-2009-04,Norah Jones,0
-2009-04,Oasis,13
-2009-04,Razorlight,2
-2009-04,Regina Spektor,6
-2009-04,Rufus Wainwright,35
-2009-04,Ryan Adams,30
-2009-04,Sigur Rós,0
-2009-04,Snow Patrol,0
-2009-04,Stereophonics,1
-2009-04,The Beatles,0
-2009-04,U2,17
-2009-05,Arcade Fire,0
-2009-05,Black Rebel Motorcycle Club,0
-2009-05,Bob Dylan,0
-2009-05,Bright Eyes,0
-2009-05,Bruce Springsteen,0
-2009-05,Death Cab For Cutie,0
-2009-05,Feist,0
-2009-05,Johnny Cash,0
-2009-05,Kings Of Leon,0
-2009-05,Norah Jones,0
-2009-05,Oasis,0
-2009-05,Razorlight,0
-2009-05,Regina Spektor,0
-2009-05,Rufus Wainwright,0
-2009-05,Ryan Adams,1
-2009-05,Sigur Rós,0
-2009-05,Snow Patrol,0
-2009-05,Stereophonics,0
-2009-05,The Beatles,0
-2009-05,U2,0
+"month","artist","plays"
+"2005-12","Arcade Fire",65
+"2005-12","Black Rebel Motorcycle Club",51
+"2005-12","Bob Dylan",4
+"2005-12","Bright Eyes",18
+"2005-12","Bruce Springsteen",61
+"2005-12","Death Cab For Cutie",66
+"2005-12","Feist",9
+"2005-12","Johnny Cash",30
+"2005-12","Kings Of Leon",50
+"2005-12","Norah Jones",41
+"2005-12","Oasis",7
+"2005-12","Razorlight",30
+"2005-12","Regina Spektor",0
+"2005-12","Rufus Wainwright",1
+"2005-12","Ryan Adams",0
+"2005-12","Sigur Rós",22
+"2005-12","Snow Patrol",17
+"2005-12","Stereophonics",0
+"2005-12","The Beatles",21
+"2005-12","U2",341
+"2006-01","Arcade Fire",43
+"2006-01","Black Rebel Motorcycle Club",59
+"2006-01","Bob Dylan",7
+"2006-01","Bright Eyes",10
+"2006-01","Bruce Springsteen",92
+"2006-01","Death Cab For Cutie",67
+"2006-01","Feist",30
+"2006-01","Johnny Cash",14
+"2006-01","Kings Of Leon",37
+"2006-01","Norah Jones",10
+"2006-01","Oasis",126
+"2006-01","Razorlight",23
+"2006-01","Regina Spektor",0
+"2006-01","Rufus Wainwright",17
+"2006-01","Ryan Adams",0
+"2006-01","Sigur Rós",8
+"2006-01","Snow Patrol",13
+"2006-01","Stereophonics",9
+"2006-01","The Beatles",28
+"2006-01","U2",235
+"2006-02","Arcade Fire",45
+"2006-02","Black Rebel Motorcycle Club",23
+"2006-02","Bob Dylan",1
+"2006-02","Bright Eyes",12
+"2006-02","Bruce Springsteen",96
+"2006-02","Death Cab For Cutie",49
+"2006-02","Feist",3
+"2006-02","Johnny Cash",7
+"2006-02","Kings Of Leon",146
+"2006-02","Norah Jones",17
+"2006-02","Oasis",27
+"2006-02","Razorlight",35
+"2006-02","Regina Spektor",0
+"2006-02","Rufus Wainwright",7
+"2006-02","Ryan Adams",0
+"2006-02","Sigur Rós",15
+"2006-02","Snow Patrol",19
+"2006-02","Stereophonics",6
+"2006-02","The Beatles",31
+"2006-02","U2",46
+"2006-03","Arcade Fire",48
+"2006-03","Black Rebel Motorcycle Club",25
+"2006-03","Bob Dylan",4
+"2006-03","Bright Eyes",2
+"2006-03","Bruce Springsteen",98
+"2006-03","Death Cab For Cutie",27
+"2006-03","Feist",15
+"2006-03","Johnny Cash",4
+"2006-03","Kings Of Leon",48
+"2006-03","Norah Jones",22
+"2006-03","Oasis",80
+"2006-03","Razorlight",9
+"2006-03","Regina Spektor",30
+"2006-03","Rufus Wainwright",5
+"2006-03","Ryan Adams",0
+"2006-03","Sigur Rós",57
+"2006-03","Snow Patrol",1
+"2006-03","Stereophonics",4
+"2006-03","The Beatles",2
+"2006-03","U2",30
+"2006-04","Arcade Fire",64
+"2006-04","Black Rebel Motorcycle Club",25
+"2006-04","Bob Dylan",14
+"2006-04","Bright Eyes",4
+"2006-04","Bruce Springsteen",338
+"2006-04","Death Cab For Cutie",15
+"2006-04","Feist",7
+"2006-04","Johnny Cash",21
+"2006-04","Kings Of Leon",28
+"2006-04","Norah Jones",9
+"2006-04","Oasis",148
+"2006-04","Razorlight",12
+"2006-04","Regina Spektor",27
+"2006-04","Rufus Wainwright",8
+"2006-04","Ryan Adams",4
+"2006-04","Sigur Rós",17
+"2006-04","Snow Patrol",26
+"2006-04","Stereophonics",7
+"2006-04","The Beatles",11
+"2006-04","U2",135
+"2006-05","Arcade Fire",22
+"2006-05","Black Rebel Motorcycle Club",32
+"2006-05","Bob Dylan",27
+"2006-05","Bright Eyes",3
+"2006-05","Bruce Springsteen",261
+"2006-05","Death Cab For Cutie",60
+"2006-05","Feist",13
+"2006-05","Johnny Cash",4
+"2006-05","Kings Of Leon",128
+"2006-05","Norah Jones",2
+"2006-05","Oasis",285
+"2006-05","Razorlight",13
+"2006-05","Regina Spektor",79
+"2006-05","Rufus Wainwright",1
+"2006-05","Ryan Adams",16
+"2006-05","Sigur Rós",11
+"2006-05","Snow Patrol",14
+"2006-05","Stereophonics",13
+"2006-05","The Beatles",41
+"2006-05","U2",62
+"2006-06","Arcade Fire",19
+"2006-06","Black Rebel Motorcycle Club",30
+"2006-06","Bob Dylan",13
+"2006-06","Bright Eyes",10
+"2006-06","Bruce Springsteen",60
+"2006-06","Death Cab For Cutie",35
+"2006-06","Feist",21
+"2006-06","Johnny Cash",8
+"2006-06","Kings Of Leon",117
+"2006-06","Norah Jones",17
+"2006-06","Oasis",304
+"2006-06","Razorlight",19
+"2006-06","Regina Spektor",68
+"2006-06","Rufus Wainwright",3
+"2006-06","Ryan Adams",93
+"2006-06","Sigur Rós",22
+"2006-06","Snow Patrol",25
+"2006-06","Stereophonics",61
+"2006-06","The Beatles",30
+"2006-06","U2",67
+"2006-07","Arcade Fire",22
+"2006-07","Black Rebel Motorcycle Club",39
+"2006-07","Bob Dylan",121
+"2006-07","Bright Eyes",8
+"2006-07","Bruce Springsteen",121
+"2006-07","Death Cab For Cutie",42
+"2006-07","Feist",10
+"2006-07","Johnny Cash",126
+"2006-07","Kings Of Leon",74
+"2006-07","Norah Jones",12
+"2006-07","Oasis",121
+"2006-07","Razorlight",63
+"2006-07","Regina Spektor",125
+"2006-07","Rufus Wainwright",2
+"2006-07","Ryan Adams",99
+"2006-07","Sigur Rós",11
+"2006-07","Snow Patrol",24
+"2006-07","Stereophonics",36
+"2006-07","The Beatles",29
+"2006-07","U2",214
+"2006-08","Arcade Fire",81
+"2006-08","Black Rebel Motorcycle Club",15
+"2006-08","Bob Dylan",44
+"2006-08","Bright Eyes",39
+"2006-08","Bruce Springsteen",123
+"2006-08","Death Cab For Cutie",66
+"2006-08","Feist",11
+"2006-08","Johnny Cash",26
+"2006-08","Kings Of Leon",75
+"2006-08","Norah Jones",7
+"2006-08","Oasis",98
+"2006-08","Razorlight",19
+"2006-08","Regina Spektor",50
+"2006-08","Rufus Wainwright",23
+"2006-08","Ryan Adams",128
+"2006-08","Sigur Rós",2
+"2006-08","Snow Patrol",11
+"2006-08","Stereophonics",33
+"2006-08","The Beatles",14
+"2006-08","U2",120
+"2006-09","Arcade Fire",21
+"2006-09","Black Rebel Motorcycle Club",8
+"2006-09","Bob Dylan",53
+"2006-09","Bright Eyes",21
+"2006-09","Bruce Springsteen",137
+"2006-09","Death Cab For Cutie",6
+"2006-09","Feist",17
+"2006-09","Johnny Cash",44
+"2006-09","Kings Of Leon",10
+"2006-09","Norah Jones",25
+"2006-09","Oasis",46
+"2006-09","Razorlight",1
+"2006-09","Regina Spektor",62
+"2006-09","Rufus Wainwright",51
+"2006-09","Ryan Adams",30
+"2006-09","Sigur Rós",0
+"2006-09","Snow Patrol",8
+"2006-09","Stereophonics",6
+"2006-09","The Beatles",4
+"2006-09","U2",86
+"2006-10","Arcade Fire",39
+"2006-10","Black Rebel Motorcycle Club",7
+"2006-10","Bob Dylan",25
+"2006-10","Bright Eyes",12
+"2006-10","Bruce Springsteen",114
+"2006-10","Death Cab For Cutie",16
+"2006-10","Feist",3
+"2006-10","Johnny Cash",18
+"2006-10","Kings Of Leon",5
+"2006-10","Norah Jones",3
+"2006-10","Oasis",63
+"2006-10","Razorlight",1
+"2006-10","Regina Spektor",22
+"2006-10","Rufus Wainwright",75
+"2006-10","Ryan Adams",13
+"2006-10","Sigur Rós",4
+"2006-10","Snow Patrol",5
+"2006-10","Stereophonics",3
+"2006-10","The Beatles",2
+"2006-10","U2",162
+"2006-11","Arcade Fire",18
+"2006-11","Black Rebel Motorcycle Club",10
+"2006-11","Bob Dylan",39
+"2006-11","Bright Eyes",11
+"2006-11","Bruce Springsteen",94
+"2006-11","Death Cab For Cutie",10
+"2006-11","Feist",0
+"2006-11","Johnny Cash",35
+"2006-11","Kings Of Leon",28
+"2006-11","Norah Jones",12
+"2006-11","Oasis",82
+"2006-11","Razorlight",0
+"2006-11","Regina Spektor",12
+"2006-11","Rufus Wainwright",164
+"2006-11","Ryan Adams",21
+"2006-11","Sigur Rós",3
+"2006-11","Snow Patrol",5
+"2006-11","Stereophonics",3
+"2006-11","The Beatles",1
+"2006-11","U2",85
+"2006-12","Arcade Fire",3
+"2006-12","Black Rebel Motorcycle Club",10
+"2006-12","Bob Dylan",45
+"2006-12","Bright Eyes",8
+"2006-12","Bruce Springsteen",69
+"2006-12","Death Cab For Cutie",4
+"2006-12","Feist",0
+"2006-12","Johnny Cash",21
+"2006-12","Kings Of Leon",6
+"2006-12","Norah Jones",1
+"2006-12","Oasis",70
+"2006-12","Razorlight",4
+"2006-12","Regina Spektor",4
+"2006-12","Rufus Wainwright",29
+"2006-12","Ryan Adams",4
+"2006-12","Sigur Rós",3
+"2006-12","Snow Patrol",3
+"2006-12","Stereophonics",2
+"2006-12","The Beatles",5
+"2006-12","U2",80
+"2007-01","Arcade Fire",2
+"2007-01","Black Rebel Motorcycle Club",1
+"2007-01","Bob Dylan",26
+"2007-01","Bright Eyes",0
+"2007-01","Bruce Springsteen",87
+"2007-01","Death Cab For Cutie",2
+"2007-01","Feist",0
+"2007-01","Johnny Cash",0
+"2007-01","Kings Of Leon",0
+"2007-01","Norah Jones",6
+"2007-01","Oasis",12
+"2007-01","Razorlight",0
+"2007-01","Regina Spektor",0
+"2007-01","Rufus Wainwright",17
+"2007-01","Ryan Adams",2
+"2007-01","Sigur Rós",28
+"2007-01","Snow Patrol",0
+"2007-01","Stereophonics",1
+"2007-01","The Beatles",3
+"2007-01","U2",66
+"2007-02","Arcade Fire",40
+"2007-02","Black Rebel Motorcycle Club",0
+"2007-02","Bob Dylan",5
+"2007-02","Bright Eyes",0
+"2007-02","Bruce Springsteen",18
+"2007-02","Death Cab For Cutie",0
+"2007-02","Feist",0
+"2007-02","Johnny Cash",0
+"2007-02","Kings Of Leon",48
+"2007-02","Norah Jones",0
+"2007-02","Oasis",11
+"2007-02","Razorlight",0
+"2007-02","Regina Spektor",0
+"2007-02","Rufus Wainwright",4
+"2007-02","Ryan Adams",0
+"2007-02","Sigur Rós",27
+"2007-02","Snow Patrol",0
+"2007-02","Stereophonics",7
+"2007-02","The Beatles",7
+"2007-02","U2",8
+"2007-03","Arcade Fire",1
+"2007-03","Black Rebel Motorcycle Club",0
+"2007-03","Bob Dylan",17
+"2007-03","Bright Eyes",0
+"2007-03","Bruce Springsteen",33
+"2007-03","Death Cab For Cutie",0
+"2007-03","Feist",0
+"2007-03","Johnny Cash",2
+"2007-03","Kings Of Leon",0
+"2007-03","Norah Jones",3
+"2007-03","Oasis",11
+"2007-03","Razorlight",2
+"2007-03","Regina Spektor",1
+"2007-03","Rufus Wainwright",1
+"2007-03","Ryan Adams",5
+"2007-03","Sigur Rós",0
+"2007-03","Snow Patrol",0
+"2007-03","Stereophonics",0
+"2007-03","The Beatles",9
+"2007-03","U2",49
+"2007-04","Arcade Fire",21
+"2007-04","Black Rebel Motorcycle Club",9
+"2007-04","Bob Dylan",19
+"2007-04","Bright Eyes",2
+"2007-04","Bruce Springsteen",87
+"2007-04","Death Cab For Cutie",5
+"2007-04","Feist",9
+"2007-04","Johnny Cash",1
+"2007-04","Kings Of Leon",83
+"2007-04","Norah Jones",10
+"2007-04","Oasis",29
+"2007-04","Razorlight",1
+"2007-04","Regina Spektor",21
+"2007-04","Rufus Wainwright",26
+"2007-04","Ryan Adams",49
+"2007-04","Sigur Rós",10
+"2007-04","Snow Patrol",2
+"2007-04","Stereophonics",2
+"2007-04","The Beatles",0
+"2007-04","U2",61
+"2007-05","Arcade Fire",26
+"2007-05","Black Rebel Motorcycle Club",119
+"2007-05","Bob Dylan",10
+"2007-05","Bright Eyes",6
+"2007-05","Bruce Springsteen",26
+"2007-05","Death Cab For Cutie",14
+"2007-05","Feist",23
+"2007-05","Johnny Cash",0
+"2007-05","Kings Of Leon",82
+"2007-05","Norah Jones",9
+"2007-05","Oasis",14
+"2007-05","Razorlight",3
+"2007-05","Regina Spektor",2
+"2007-05","Rufus Wainwright",28
+"2007-05","Ryan Adams",8
+"2007-05","Sigur Rós",2
+"2007-05","Snow Patrol",32
+"2007-05","Stereophonics",3
+"2007-05","The Beatles",0
+"2007-05","U2",34
+"2007-06","Arcade Fire",6
+"2007-06","Black Rebel Motorcycle Club",43
+"2007-06","Bob Dylan",15
+"2007-06","Bright Eyes",6
+"2007-06","Bruce Springsteen",28
+"2007-06","Death Cab For Cutie",14
+"2007-06","Feist",2
+"2007-06","Johnny Cash",9
+"2007-06","Kings Of Leon",58
+"2007-06","Norah Jones",17
+"2007-06","Oasis",27
+"2007-06","Razorlight",1
+"2007-06","Regina Spektor",17
+"2007-06","Rufus Wainwright",48
+"2007-06","Ryan Adams",42
+"2007-06","Sigur Rós",7
+"2007-06","Snow Patrol",10
+"2007-06","Stereophonics",5
+"2007-06","The Beatles",5
+"2007-06","U2",30
+"2007-07","Arcade Fire",9
+"2007-07","Black Rebel Motorcycle Club",20
+"2007-07","Bob Dylan",4
+"2007-07","Bright Eyes",3
+"2007-07","Bruce Springsteen",37
+"2007-07","Death Cab For Cutie",2
+"2007-07","Feist",4
+"2007-07","Johnny Cash",8
+"2007-07","Kings Of Leon",19
+"2007-07","Norah Jones",6
+"2007-07","Oasis",18
+"2007-07","Razorlight",10
+"2007-07","Regina Spektor",9
+"2007-07","Rufus Wainwright",80
+"2007-07","Ryan Adams",130
+"2007-07","Sigur Rós",12
+"2007-07","Snow Patrol",7
+"2007-07","Stereophonics",21
+"2007-07","The Beatles",1
+"2007-07","U2",44
+"2007-08","Arcade Fire",14
+"2007-08","Black Rebel Motorcycle Club",14
+"2007-08","Bob Dylan",1
+"2007-08","Bright Eyes",10
+"2007-08","Bruce Springsteen",65
+"2007-08","Death Cab For Cutie",1
+"2007-08","Feist",8
+"2007-08","Johnny Cash",4
+"2007-08","Kings Of Leon",42
+"2007-08","Norah Jones",7
+"2007-08","Oasis",41
+"2007-08","Razorlight",1
+"2007-08","Regina Spektor",2
+"2007-08","Rufus Wainwright",87
+"2007-08","Ryan Adams",35
+"2007-08","Sigur Rós",4
+"2007-08","Snow Patrol",8
+"2007-08","Stereophonics",11
+"2007-08","The Beatles",2
+"2007-08","U2",68
+"2007-09","Arcade Fire",14
+"2007-09","Black Rebel Motorcycle Club",9
+"2007-09","Bob Dylan",7
+"2007-09","Bright Eyes",1
+"2007-09","Bruce Springsteen",70
+"2007-09","Death Cab For Cutie",1
+"2007-09","Feist",2
+"2007-09","Johnny Cash",2
+"2007-09","Kings Of Leon",1
+"2007-09","Norah Jones",1
+"2007-09","Oasis",6
+"2007-09","Razorlight",1
+"2007-09","Regina Spektor",1
+"2007-09","Rufus Wainwright",22
+"2007-09","Ryan Adams",18
+"2007-09","Sigur Rós",1
+"2007-09","Snow Patrol",2
+"2007-09","Stereophonics",4
+"2007-09","The Beatles",2
+"2007-09","U2",64
+"2007-10","Arcade Fire",8
+"2007-10","Black Rebel Motorcycle Club",12
+"2007-10","Bob Dylan",2
+"2007-10","Bright Eyes",1
+"2007-10","Bruce Springsteen",19
+"2007-10","Death Cab For Cutie",5
+"2007-10","Feist",12
+"2007-10","Johnny Cash",4
+"2007-10","Kings Of Leon",3
+"2007-10","Norah Jones",17
+"2007-10","Oasis",18
+"2007-10","Razorlight",1
+"2007-10","Regina Spektor",54
+"2007-10","Rufus Wainwright",14
+"2007-10","Ryan Adams",86
+"2007-10","Sigur Rós",2
+"2007-10","Snow Patrol",4
+"2007-10","Stereophonics",5
+"2007-10","The Beatles",3
+"2007-10","U2",36
+"2007-11","Arcade Fire",50
+"2007-11","Black Rebel Motorcycle Club",3
+"2007-11","Bob Dylan",49
+"2007-11","Bright Eyes",2
+"2007-11","Bruce Springsteen",29
+"2007-11","Death Cab For Cutie",3
+"2007-11","Feist",10
+"2007-11","Johnny Cash",4
+"2007-11","Kings Of Leon",7
+"2007-11","Norah Jones",7
+"2007-11","Oasis",3
+"2007-11","Razorlight",0
+"2007-11","Regina Spektor",18
+"2007-11","Rufus Wainwright",90
+"2007-11","Ryan Adams",52
+"2007-11","Sigur Rós",5
+"2007-11","Snow Patrol",6
+"2007-11","Stereophonics",0
+"2007-11","The Beatles",1
+"2007-11","U2",30
+"2007-12","Arcade Fire",0
+"2007-12","Black Rebel Motorcycle Club",0
+"2007-12","Bob Dylan",0
+"2007-12","Bright Eyes",0
+"2007-12","Bruce Springsteen",27
+"2007-12","Death Cab For Cutie",0
+"2007-12","Feist",0
+"2007-12","Johnny Cash",7
+"2007-12","Kings Of Leon",3
+"2007-12","Norah Jones",0
+"2007-12","Oasis",0
+"2007-12","Razorlight",0
+"2007-12","Regina Spektor",14
+"2007-12","Rufus Wainwright",222
+"2007-12","Ryan Adams",28
+"2007-12","Sigur Rós",0
+"2007-12","Snow Patrol",0
+"2007-12","Stereophonics",0
+"2007-12","The Beatles",0
+"2007-12","U2",0
+"2008-01","Arcade Fire",0
+"2008-01","Black Rebel Motorcycle Club",0
+"2008-01","Bob Dylan",2
+"2008-01","Bright Eyes",1
+"2008-01","Bruce Springsteen",15
+"2008-01","Death Cab For Cutie",0
+"2008-01","Feist",3
+"2008-01","Johnny Cash",2
+"2008-01","Kings Of Leon",0
+"2008-01","Norah Jones",2
+"2008-01","Oasis",0
+"2008-01","Razorlight",1
+"2008-01","Regina Spektor",17
+"2008-01","Rufus Wainwright",35
+"2008-01","Ryan Adams",7
+"2008-01","Sigur Rós",1
+"2008-01","Snow Patrol",0
+"2008-01","Stereophonics",0
+"2008-01","The Beatles",0
+"2008-01","U2",2
+"2008-02","Arcade Fire",0
+"2008-02","Black Rebel Motorcycle Club",3
+"2008-02","Bob Dylan",1
+"2008-02","Bright Eyes",0
+"2008-02","Bruce Springsteen",5
+"2008-02","Death Cab For Cutie",0
+"2008-02","Feist",0
+"2008-02","Johnny Cash",4
+"2008-02","Kings Of Leon",8
+"2008-02","Norah Jones",0
+"2008-02","Oasis",8
+"2008-02","Razorlight",0
+"2008-02","Regina Spektor",1
+"2008-02","Rufus Wainwright",122
+"2008-02","Ryan Adams",2
+"2008-02","Sigur Rós",0
+"2008-02","Snow Patrol",0
+"2008-02","Stereophonics",1
+"2008-02","The Beatles",1
+"2008-02","U2",4
+"2008-03","Arcade Fire",1
+"2008-03","Black Rebel Motorcycle Club",1
+"2008-03","Bob Dylan",5
+"2008-03","Bright Eyes",0
+"2008-03","Bruce Springsteen",5
+"2008-03","Death Cab For Cutie",2
+"2008-03","Feist",2
+"2008-03","Johnny Cash",2
+"2008-03","Kings Of Leon",0
+"2008-03","Norah Jones",0
+"2008-03","Oasis",5
+"2008-03","Razorlight",0
+"2008-03","Regina Spektor",0
+"2008-03","Rufus Wainwright",19
+"2008-03","Ryan Adams",13
+"2008-03","Sigur Rós",0
+"2008-03","Snow Patrol",0
+"2008-03","Stereophonics",2
+"2008-03","The Beatles",1
+"2008-03","U2",14
+"2008-04","Arcade Fire",1
+"2008-04","Black Rebel Motorcycle Club",4
+"2008-04","Bob Dylan",9
+"2008-04","Bright Eyes",0
+"2008-04","Bruce Springsteen",14
+"2008-04","Death Cab For Cutie",0
+"2008-04","Feist",0
+"2008-04","Johnny Cash",5
+"2008-04","Kings Of Leon",2
+"2008-04","Norah Jones",0
+"2008-04","Oasis",4
+"2008-04","Razorlight",0
+"2008-04","Regina Spektor",0
+"2008-04","Rufus Wainwright",77
+"2008-04","Ryan Adams",17
+"2008-04","Sigur Rós",0
+"2008-04","Snow Patrol",0
+"2008-04","Stereophonics",7
+"2008-04","The Beatles",0
+"2008-04","U2",15
+"2008-05","Arcade Fire",13
+"2008-05","Black Rebel Motorcycle Club",5
+"2008-05","Bob Dylan",8
+"2008-05","Bright Eyes",1
+"2008-05","Bruce Springsteen",36
+"2008-05","Death Cab For Cutie",3
+"2008-05","Feist",3
+"2008-05","Johnny Cash",5
+"2008-05","Kings Of Leon",2
+"2008-05","Norah Jones",7
+"2008-05","Oasis",12
+"2008-05","Razorlight",2
+"2008-05","Regina Spektor",6
+"2008-05","Rufus Wainwright",22
+"2008-05","Ryan Adams",111
+"2008-05","Sigur Rós",0
+"2008-05","Snow Patrol",1
+"2008-05","Stereophonics",4
+"2008-05","The Beatles",5
+"2008-05","U2",75
+"2008-06","Arcade Fire",0
+"2008-06","Black Rebel Motorcycle Club",2
+"2008-06","Bob Dylan",0
+"2008-06","Bright Eyes",1
+"2008-06","Bruce Springsteen",5
+"2008-06","Death Cab For Cutie",2
+"2008-06","Feist",3
+"2008-06","Johnny Cash",0
+"2008-06","Kings Of Leon",2
+"2008-06","Norah Jones",3
+"2008-06","Oasis",5
+"2008-06","Razorlight",1
+"2008-06","Regina Spektor",6
+"2008-06","Rufus Wainwright",55
+"2008-06","Ryan Adams",15
+"2008-06","Sigur Rós",0
+"2008-06","Snow Patrol",2
+"2008-06","Stereophonics",2
+"2008-06","The Beatles",1
+"2008-06","U2",14
+"2008-07","Arcade Fire",0
+"2008-07","Black Rebel Motorcycle Club",3
+"2008-07","Bob Dylan",6
+"2008-07","Bright Eyes",5
+"2008-07","Bruce Springsteen",10
+"2008-07","Death Cab For Cutie",1
+"2008-07","Feist",0
+"2008-07","Johnny Cash",2
+"2008-07","Kings Of Leon",14
+"2008-07","Norah Jones",1
+"2008-07","Oasis",9
+"2008-07","Razorlight",3
+"2008-07","Regina Spektor",2
+"2008-07","Rufus Wainwright",60
+"2008-07","Ryan Adams",24
+"2008-07","Sigur Rós",0
+"2008-07","Snow Patrol",1
+"2008-07","Stereophonics",12
+"2008-07","The Beatles",0
+"2008-07","U2",1
+"2008-08","Arcade Fire",2
+"2008-08","Black Rebel Motorcycle Club",4
+"2008-08","Bob Dylan",0
+"2008-08","Bright Eyes",0
+"2008-08","Bruce Springsteen",6
+"2008-08","Death Cab For Cutie",0
+"2008-08","Feist",0
+"2008-08","Johnny Cash",0
+"2008-08","Kings Of Leon",13
+"2008-08","Norah Jones",0
+"2008-08","Oasis",1
+"2008-08","Razorlight",9
+"2008-08","Regina Spektor",28
+"2008-08","Rufus Wainwright",25
+"2008-08","Ryan Adams",54
+"2008-08","Sigur Rós",11
+"2008-08","Snow Patrol",0
+"2008-08","Stereophonics",2
+"2008-08","The Beatles",0
+"2008-08","U2",4
+"2008-09","Arcade Fire",1
+"2008-09","Black Rebel Motorcycle Club",2
+"2008-09","Bob Dylan",13
+"2008-09","Bright Eyes",0
+"2008-09","Bruce Springsteen",23
+"2008-09","Death Cab For Cutie",0
+"2008-09","Feist",0
+"2008-09","Johnny Cash",0
+"2008-09","Kings Of Leon",2
+"2008-09","Norah Jones",0
+"2008-09","Oasis",0
+"2008-09","Razorlight",24
+"2008-09","Regina Spektor",25
+"2008-09","Rufus Wainwright",25
+"2008-09","Ryan Adams",6
+"2008-09","Sigur Rós",1
+"2008-09","Snow Patrol",1
+"2008-09","Stereophonics",0
+"2008-09","The Beatles",0
+"2008-09","U2",20
+"2008-10","Arcade Fire",2
+"2008-10","Black Rebel Motorcycle Club",1
+"2008-10","Bob Dylan",0
+"2008-10","Bright Eyes",1
+"2008-10","Bruce Springsteen",2
+"2008-10","Death Cab For Cutie",0
+"2008-10","Feist",1
+"2008-10","Johnny Cash",0
+"2008-10","Kings Of Leon",70
+"2008-10","Norah Jones",2
+"2008-10","Oasis",13
+"2008-10","Razorlight",2
+"2008-10","Regina Spektor",5
+"2008-10","Rufus Wainwright",11
+"2008-10","Ryan Adams",2
+"2008-10","Sigur Rós",4
+"2008-10","Snow Patrol",1
+"2008-10","Stereophonics",0
+"2008-10","The Beatles",0
+"2008-10","U2",13
+"2008-11","Arcade Fire",0
+"2008-11","Black Rebel Motorcycle Club",1
+"2008-11","Bob Dylan",7
+"2008-11","Bright Eyes",8
+"2008-11","Bruce Springsteen",1
+"2008-11","Death Cab For Cutie",0
+"2008-11","Feist",29
+"2008-11","Johnny Cash",0
+"2008-11","Kings Of Leon",9
+"2008-11","Norah Jones",2
+"2008-11","Oasis",1
+"2008-11","Razorlight",0
+"2008-11","Regina Spektor",16
+"2008-11","Rufus Wainwright",17
+"2008-11","Ryan Adams",26
+"2008-11","Sigur Rós",11
+"2008-11","Snow Patrol",11
+"2008-11","Stereophonics",1
+"2008-11","The Beatles",0
+"2008-11","U2",2
+"2008-12","Arcade Fire",1
+"2008-12","Black Rebel Motorcycle Club",0
+"2008-12","Bob Dylan",0
+"2008-12","Bright Eyes",0
+"2008-12","Bruce Springsteen",4
+"2008-12","Death Cab For Cutie",0
+"2008-12","Feist",0
+"2008-12","Johnny Cash",0
+"2008-12","Kings Of Leon",0
+"2008-12","Norah Jones",0
+"2008-12","Oasis",3
+"2008-12","Razorlight",0
+"2008-12","Regina Spektor",0
+"2008-12","Rufus Wainwright",2
+"2008-12","Ryan Adams",0
+"2008-12","Sigur Rós",0
+"2008-12","Snow Patrol",0
+"2008-12","Stereophonics",0
+"2008-12","The Beatles",0
+"2008-12","U2",24
+"2009-01","Arcade Fire",2
+"2009-01","Black Rebel Motorcycle Club",0
+"2009-01","Bob Dylan",0
+"2009-01","Bright Eyes",0
+"2009-01","Bruce Springsteen",6
+"2009-01","Death Cab For Cutie",0
+"2009-01","Feist",0
+"2009-01","Johnny Cash",0
+"2009-01","Kings Of Leon",0
+"2009-01","Norah Jones",0
+"2009-01","Oasis",0
+"2009-01","Razorlight",0
+"2009-01","Regina Spektor",4
+"2009-01","Rufus Wainwright",0
+"2009-01","Ryan Adams",3
+"2009-01","Sigur Rós",0
+"2009-01","Snow Patrol",0
+"2009-01","Stereophonics",0
+"2009-01","The Beatles",0
+"2009-01","U2",3
+"2009-02","Arcade Fire",0
+"2009-02","Black Rebel Motorcycle Club",10
+"2009-02","Bob Dylan",1
+"2009-02","Bright Eyes",0
+"2009-02","Bruce Springsteen",129
+"2009-02","Death Cab For Cutie",0
+"2009-02","Feist",2
+"2009-02","Johnny Cash",0
+"2009-02","Kings Of Leon",5
+"2009-02","Norah Jones",0
+"2009-02","Oasis",0
+"2009-02","Razorlight",0
+"2009-02","Regina Spektor",3
+"2009-02","Rufus Wainwright",1
+"2009-02","Ryan Adams",1
+"2009-02","Sigur Rós",4
+"2009-02","Snow Patrol",0
+"2009-02","Stereophonics",2
+"2009-02","The Beatles",0
+"2009-02","U2",76
+"2009-03","Arcade Fire",0
+"2009-03","Black Rebel Motorcycle Club",0
+"2009-03","Bob Dylan",13
+"2009-03","Bright Eyes",4
+"2009-03","Bruce Springsteen",72
+"2009-03","Death Cab For Cutie",0
+"2009-03","Feist",0
+"2009-03","Johnny Cash",4
+"2009-03","Kings Of Leon",0
+"2009-03","Norah Jones",0
+"2009-03","Oasis",0
+"2009-03","Razorlight",0
+"2009-03","Regina Spektor",3
+"2009-03","Rufus Wainwright",12
+"2009-03","Ryan Adams",2
+"2009-03","Sigur Rós",0
+"2009-03","Snow Patrol",1
+"2009-03","Stereophonics",0
+"2009-03","The Beatles",9
+"2009-03","U2",58
+"2009-04","Arcade Fire",0
+"2009-04","Black Rebel Motorcycle Club",0
+"2009-04","Bob Dylan",4
+"2009-04","Bright Eyes",0
+"2009-04","Bruce Springsteen",17
+"2009-04","Death Cab For Cutie",1
+"2009-04","Feist",5
+"2009-04","Johnny Cash",1
+"2009-04","Kings Of Leon",1
+"2009-04","Norah Jones",0
+"2009-04","Oasis",13
+"2009-04","Razorlight",2
+"2009-04","Regina Spektor",6
+"2009-04","Rufus Wainwright",35
+"2009-04","Ryan Adams",30
+"2009-04","Sigur Rós",0
+"2009-04","Snow Patrol",0
+"2009-04","Stereophonics",1
+"2009-04","The Beatles",0
+"2009-04","U2",17
+"2009-05","Arcade Fire",0
+"2009-05","Black Rebel Motorcycle Club",0
+"2009-05","Bob Dylan",0
+"2009-05","Bright Eyes",0
+"2009-05","Bruce Springsteen",0
+"2009-05","Death Cab For Cutie",0
+"2009-05","Feist",0
+"2009-05","Johnny Cash",0
+"2009-05","Kings Of Leon",0
+"2009-05","Norah Jones",0
+"2009-05","Oasis",0
+"2009-05","Razorlight",0
+"2009-05","Regina Spektor",0
+"2009-05","Rufus Wainwright",0
+"2009-05","Ryan Adams",1
+"2009-05","Sigur Rós",0
+"2009-05","Snow Patrol",0
+"2009-05","Stereophonics",0
+"2009-05","The Beatles",0
+"2009-05","U2",0

@@ -1,561 +1,561 @@
-month,artist,plays
-2007-01,Afi,6
-2007-01,Alexisonfire,10
-2007-01,Biffy Clyro,1
-2007-01,Bloc Party,3
-2007-01,Brand New,23
-2007-01,Bright Eyes,3
-2007-01,Daft Punk,0
-2007-01,Damien Rice,2
-2007-01,Death Cab For Cutie,3
-2007-01,Glassjaw,0
-2007-01,Kings Of Leon,0
-2007-01,Mineral,2
-2007-01,Placebo,3
-2007-01,Recover,2
-2007-01,Snow Patrol,6
-2007-01,Straylight Run,3
-2007-01,The Fall Of Troy,4
-2007-01,The Matches,1
-2007-01,The Smiths,3
-2007-01,Thursday,3
-2007-02,Afi,5
-2007-02,Alexisonfire,28
-2007-02,Biffy Clyro,12
-2007-02,Bloc Party,11
-2007-02,Brand New,77
-2007-02,Bright Eyes,18
-2007-02,Daft Punk,7
-2007-02,Damien Rice,28
-2007-02,Death Cab For Cutie,14
-2007-02,Glassjaw,3
-2007-02,Kings Of Leon,6
-2007-02,Mineral,21
-2007-02,Placebo,10
-2007-02,Recover,16
-2007-02,Snow Patrol,12
-2007-02,Straylight Run,11
-2007-02,The Fall Of Troy,9
-2007-02,The Matches,3
-2007-02,The Smiths,9
-2007-02,Thursday,9
-2007-03,Afi,2
-2007-03,Alexisonfire,39
-2007-03,Biffy Clyro,15
-2007-03,Bloc Party,16
-2007-03,Brand New,49
-2007-03,Bright Eyes,15
-2007-03,Daft Punk,4
-2007-03,Damien Rice,7
-2007-03,Death Cab For Cutie,38
-2007-03,Glassjaw,9
-2007-03,Kings Of Leon,2
-2007-03,Mineral,17
-2007-03,Placebo,8
-2007-03,Recover,11
-2007-03,Snow Patrol,7
-2007-03,Straylight Run,11
-2007-03,The Fall Of Troy,32
-2007-03,The Matches,4
-2007-03,The Smiths,8
-2007-03,Thursday,28
-2007-04,Afi,5
-2007-04,Alexisonfire,40
-2007-04,Biffy Clyro,12
-2007-04,Bloc Party,13
-2007-04,Brand New,33
-2007-04,Bright Eyes,12
-2007-04,Daft Punk,3
-2007-04,Damien Rice,7
-2007-04,Death Cab For Cutie,22
-2007-04,Glassjaw,9
-2007-04,Kings Of Leon,34
-2007-04,Mineral,18
-2007-04,Placebo,9
-2007-04,Recover,9
-2007-04,Snow Patrol,14
-2007-04,Straylight Run,15
-2007-04,The Fall Of Troy,10
-2007-04,The Matches,3
-2007-04,The Smiths,11
-2007-04,Thursday,26
-2007-05,Afi,18
-2007-05,Alexisonfire,18
-2007-05,Biffy Clyro,19
-2007-05,Bloc Party,3
-2007-05,Brand New,27
-2007-05,Bright Eyes,11
-2007-05,Daft Punk,10
-2007-05,Damien Rice,8
-2007-05,Death Cab For Cutie,26
-2007-05,Glassjaw,2
-2007-05,Kings Of Leon,32
-2007-05,Mineral,23
-2007-05,Placebo,8
-2007-05,Recover,6
-2007-05,Snow Patrol,5
-2007-05,Straylight Run,6
-2007-05,The Fall Of Troy,31
-2007-05,The Matches,27
-2007-05,The Smiths,6
-2007-05,Thursday,10
-2007-06,Afi,9
-2007-06,Alexisonfire,44
-2007-06,Biffy Clyro,14
-2007-06,Bloc Party,8
-2007-06,Brand New,13
-2007-06,Bright Eyes,19
-2007-06,Daft Punk,10
-2007-06,Damien Rice,6
-2007-06,Death Cab For Cutie,25
-2007-06,Glassjaw,5
-2007-06,Kings Of Leon,20
-2007-06,Mineral,16
-2007-06,Placebo,4
-2007-06,Recover,2
-2007-06,Snow Patrol,13
-2007-06,Straylight Run,9
-2007-06,The Fall Of Troy,9
-2007-06,The Matches,15
-2007-06,The Smiths,10
-2007-06,Thursday,4
-2007-07,Afi,7
-2007-07,Alexisonfire,17
-2007-07,Biffy Clyro,3
-2007-07,Bloc Party,3
-2007-07,Brand New,46
-2007-07,Bright Eyes,4
-2007-07,Daft Punk,12
-2007-07,Damien Rice,3
-2007-07,Death Cab For Cutie,4
-2007-07,Glassjaw,1
-2007-07,Kings Of Leon,9
-2007-07,Mineral,11
-2007-07,Placebo,2
-2007-07,Recover,6
-2007-07,Snow Patrol,7
-2007-07,Straylight Run,4
-2007-07,The Fall Of Troy,8
-2007-07,The Matches,3
-2007-07,The Smiths,6
-2007-07,Thursday,5
-2007-08,Afi,1
-2007-08,Alexisonfire,18
-2007-08,Biffy Clyro,2
-2007-08,Bloc Party,8
-2007-08,Brand New,17
-2007-08,Bright Eyes,8
-2007-08,Daft Punk,35
-2007-08,Damien Rice,8
-2007-08,Death Cab For Cutie,27
-2007-08,Glassjaw,1
-2007-08,Kings Of Leon,8
-2007-08,Mineral,7
-2007-08,Placebo,2
-2007-08,Recover,7
-2007-08,Snow Patrol,8
-2007-08,Straylight Run,8
-2007-08,The Fall Of Troy,3
-2007-08,The Matches,5
-2007-08,The Smiths,0
-2007-08,Thursday,16
-2007-09,Afi,2
-2007-09,Alexisonfire,11
-2007-09,Biffy Clyro,2
-2007-09,Bloc Party,2
-2007-09,Brand New,40
-2007-09,Bright Eyes,4
-2007-09,Daft Punk,8
-2007-09,Damien Rice,2
-2007-09,Death Cab For Cutie,11
-2007-09,Glassjaw,1
-2007-09,Kings Of Leon,7
-2007-09,Mineral,4
-2007-09,Placebo,1
-2007-09,Recover,4
-2007-09,Snow Patrol,6
-2007-09,Straylight Run,6
-2007-09,The Fall Of Troy,2
-2007-09,The Matches,40
-2007-09,The Smiths,4
-2007-09,Thursday,10
-2007-10,Afi,0
-2007-10,Alexisonfire,10
-2007-10,Biffy Clyro,4
-2007-10,Bloc Party,1
-2007-10,Brand New,11
-2007-10,Bright Eyes,9
-2007-10,Daft Punk,8
-2007-10,Damien Rice,2
-2007-10,Death Cab For Cutie,6
-2007-10,Glassjaw,2
-2007-10,Kings Of Leon,4
-2007-10,Mineral,5
-2007-10,Placebo,4
-2007-10,Recover,4
-2007-10,Snow Patrol,7
-2007-10,Straylight Run,1
-2007-10,The Fall Of Troy,5
-2007-10,The Matches,37
-2007-10,The Smiths,1
-2007-10,Thursday,12
-2007-11,Afi,4
-2007-11,Alexisonfire,16
-2007-11,Biffy Clyro,1
-2007-11,Bloc Party,4
-2007-11,Brand New,15
-2007-11,Bright Eyes,17
-2007-11,Daft Punk,13
-2007-11,Damien Rice,6
-2007-11,Death Cab For Cutie,10
-2007-11,Glassjaw,1
-2007-11,Kings Of Leon,10
-2007-11,Mineral,4
-2007-11,Placebo,2
-2007-11,Recover,6
-2007-11,Snow Patrol,7
-2007-11,Straylight Run,5
-2007-11,The Fall Of Troy,23
-2007-11,The Matches,33
-2007-11,The Smiths,1
-2007-11,Thursday,15
-2007-12,Afi,4
-2007-12,Alexisonfire,23
-2007-12,Biffy Clyro,5
-2007-12,Bloc Party,9
-2007-12,Brand New,17
-2007-12,Bright Eyes,15
-2007-12,Daft Punk,7
-2007-12,Damien Rice,7
-2007-12,Death Cab For Cutie,10
-2007-12,Glassjaw,1
-2007-12,Kings Of Leon,3
-2007-12,Mineral,7
-2007-12,Placebo,2
-2007-12,Recover,5
-2007-12,Snow Patrol,3
-2007-12,Straylight Run,6
-2007-12,The Fall Of Troy,10
-2007-12,The Matches,12
-2007-12,The Smiths,2
-2007-12,Thursday,16
-2008-01,Afi,5
-2008-01,Alexisonfire,19
-2008-01,Biffy Clyro,5
-2008-01,Bloc Party,10
-2008-01,Brand New,21
-2008-01,Bright Eyes,6
-2008-01,Daft Punk,3
-2008-01,Damien Rice,30
-2008-01,Death Cab For Cutie,13
-2008-01,Glassjaw,4
-2008-01,Kings Of Leon,8
-2008-01,Mineral,34
-2008-01,Placebo,1
-2008-01,Recover,10
-2008-01,Snow Patrol,2
-2008-01,Straylight Run,5
-2008-01,The Fall Of Troy,10
-2008-01,The Matches,11
-2008-01,The Smiths,1
-2008-01,Thursday,34
-2008-02,Afi,1
-2008-02,Alexisonfire,9
-2008-02,Biffy Clyro,2
-2008-02,Bloc Party,4
-2008-02,Brand New,5
-2008-02,Bright Eyes,8
-2008-02,Daft Punk,1
-2008-02,Damien Rice,0
-2008-02,Death Cab For Cutie,4
-2008-02,Glassjaw,2
-2008-02,Kings Of Leon,0
-2008-02,Mineral,0
-2008-02,Placebo,1
-2008-02,Recover,2
-2008-02,Snow Patrol,3
-2008-02,Straylight Run,4
-2008-02,The Fall Of Troy,1
-2008-02,The Matches,19
-2008-02,The Smiths,1
-2008-02,Thursday,4
-2008-03,Afi,3
-2008-03,Alexisonfire,2
-2008-03,Biffy Clyro,3
-2008-03,Bloc Party,3
-2008-03,Brand New,7
-2008-03,Bright Eyes,7
-2008-03,Daft Punk,5
-2008-03,Damien Rice,1
-2008-03,Death Cab For Cutie,3
-2008-03,Glassjaw,3
-2008-03,Kings Of Leon,7
-2008-03,Mineral,3
-2008-03,Placebo,3
-2008-03,Recover,2
-2008-03,Snow Patrol,4
-2008-03,Straylight Run,3
-2008-03,The Fall Of Troy,7
-2008-03,The Matches,25
-2008-03,The Smiths,2
-2008-03,Thursday,3
-2008-04,Afi,4
-2008-04,Alexisonfire,10
-2008-04,Biffy Clyro,0
-2008-04,Bloc Party,3
-2008-04,Brand New,9
-2008-04,Bright Eyes,12
-2008-04,Daft Punk,3
-2008-04,Damien Rice,10
-2008-04,Death Cab For Cutie,7
-2008-04,Glassjaw,5
-2008-04,Kings Of Leon,3
-2008-04,Mineral,6
-2008-04,Placebo,0
-2008-04,Recover,5
-2008-04,Snow Patrol,3
-2008-04,Straylight Run,5
-2008-04,The Fall Of Troy,9
-2008-04,The Matches,12
-2008-04,The Smiths,3
-2008-04,Thursday,5
-2008-05,Afi,1
-2008-05,Alexisonfire,14
-2008-05,Biffy Clyro,2
-2008-05,Bloc Party,6
-2008-05,Brand New,15
-2008-05,Bright Eyes,16
-2008-05,Daft Punk,6
-2008-05,Damien Rice,5
-2008-05,Death Cab For Cutie,35
-2008-05,Glassjaw,6
-2008-05,Kings Of Leon,17
-2008-05,Mineral,7
-2008-05,Placebo,1
-2008-05,Recover,4
-2008-05,Snow Patrol,8
-2008-05,Straylight Run,4
-2008-05,The Fall Of Troy,11
-2008-05,The Matches,11
-2008-05,The Smiths,5
-2008-05,Thursday,8
-2008-06,Afi,19
-2008-06,Alexisonfire,3
-2008-06,Biffy Clyro,1
-2008-06,Bloc Party,30
-2008-06,Brand New,1
-2008-06,Bright Eyes,45
-2008-06,Daft Punk,23
-2008-06,Damien Rice,38
-2008-06,Death Cab For Cutie,23
-2008-06,Glassjaw,26
-2008-06,Kings Of Leon,57
-2008-06,Mineral,33
-2008-06,Placebo,12
-2008-06,Recover,26
-2008-06,Snow Patrol,5
-2008-06,Straylight Run,25
-2008-06,The Fall Of Troy,18
-2008-06,The Matches,69
-2008-06,The Smiths,22
-2008-06,Thursday,4
-2008-07,Afi,0
-2008-07,Alexisonfire,3
-2008-07,Biffy Clyro,0
-2008-07,Bloc Party,5
-2008-07,Brand New,4
-2008-07,Bright Eyes,6
-2008-07,Daft Punk,5
-2008-07,Damien Rice,5
-2008-07,Death Cab For Cutie,2
-2008-07,Glassjaw,1
-2008-07,Kings Of Leon,7
-2008-07,Mineral,4
-2008-07,Placebo,1
-2008-07,Recover,4
-2008-07,Snow Patrol,2
-2008-07,Straylight Run,12
-2008-07,The Fall Of Troy,5
-2008-07,The Matches,10
-2008-07,The Smiths,5
-2008-07,Thursday,0
-2008-08,Afi,1
-2008-08,Alexisonfire,7
-2008-08,Biffy Clyro,4
-2008-08,Bloc Party,5
-2008-08,Brand New,15
-2008-08,Bright Eyes,6
-2008-08,Daft Punk,0
-2008-08,Damien Rice,0
-2008-08,Death Cab For Cutie,2
-2008-08,Glassjaw,4
-2008-08,Kings Of Leon,15
-2008-08,Mineral,12
-2008-08,Placebo,1
-2008-08,Recover,0
-2008-08,Snow Patrol,1
-2008-08,Straylight Run,2
-2008-08,The Fall Of Troy,1
-2008-08,The Matches,16
-2008-08,The Smiths,1
-2008-08,Thursday,1
-2008-09,Afi,4
-2008-09,Alexisonfire,16
-2008-09,Biffy Clyro,6
-2008-09,Bloc Party,8
-2008-09,Brand New,12
-2008-09,Bright Eyes,9
-2008-09,Daft Punk,23
-2008-09,Damien Rice,6
-2008-09,Death Cab For Cutie,22
-2008-09,Glassjaw,5
-2008-09,Kings Of Leon,44
-2008-09,Mineral,6
-2008-09,Placebo,1
-2008-09,Recover,4
-2008-09,Snow Patrol,2
-2008-09,Straylight Run,14
-2008-09,The Fall Of Troy,1
-2008-09,The Matches,23
-2008-09,The Smiths,2
-2008-09,Thursday,9
-2008-10,Afi,17
-2008-10,Alexisonfire,65
-2008-10,Biffy Clyro,27
-2008-10,Bloc Party,38
-2008-10,Brand New,125
-2008-10,Bright Eyes,61
-2008-10,Daft Punk,33
-2008-10,Damien Rice,56
-2008-10,Death Cab For Cutie,71
-2008-10,Glassjaw,40
-2008-10,Kings Of Leon,86
-2008-10,Mineral,160
-2008-10,Placebo,31
-2008-10,Recover,25
-2008-10,Snow Patrol,30
-2008-10,Straylight Run,46
-2008-10,The Fall Of Troy,19
-2008-10,The Matches,85
-2008-10,The Smiths,32
-2008-10,Thursday,51
-2008-11,Afi,17
-2008-11,Alexisonfire,51
-2008-11,Biffy Clyro,48
-2008-11,Bloc Party,39
-2008-11,Brand New,55
-2008-11,Bright Eyes,58
-2008-11,Daft Punk,24
-2008-11,Damien Rice,21
-2008-11,Death Cab For Cutie,68
-2008-11,Glassjaw,23
-2008-11,Kings Of Leon,72
-2008-11,Mineral,33
-2008-11,Placebo,18
-2008-11,Recover,9
-2008-11,Snow Patrol,36
-2008-11,Straylight Run,44
-2008-11,The Fall Of Troy,76
-2008-11,The Matches,61
-2008-11,The Smiths,22
-2008-11,Thursday,52
-2008-12,Afi,11
-2008-12,Alexisonfire,51
-2008-12,Biffy Clyro,26
-2008-12,Bloc Party,26
-2008-12,Brand New,57
-2008-12,Bright Eyes,41
-2008-12,Daft Punk,19
-2008-12,Damien Rice,28
-2008-12,Death Cab For Cutie,58
-2008-12,Glassjaw,10
-2008-12,Kings Of Leon,58
-2008-12,Mineral,27
-2008-12,Placebo,16
-2008-12,Recover,9
-2008-12,Snow Patrol,20
-2008-12,Straylight Run,52
-2008-12,The Fall Of Troy,28
-2008-12,The Matches,53
-2008-12,The Smiths,12
-2008-12,Thursday,31
-2009-01,Afi,5
-2009-01,Alexisonfire,22
-2009-01,Biffy Clyro,8
-2009-01,Bloc Party,11
-2009-01,Brand New,26
-2009-01,Bright Eyes,21
-2009-01,Daft Punk,7
-2009-01,Damien Rice,16
-2009-01,Death Cab For Cutie,25
-2009-01,Glassjaw,13
-2009-01,Kings Of Leon,19
-2009-01,Mineral,11
-2009-01,Placebo,7
-2009-01,Recover,13
-2009-01,Snow Patrol,15
-2009-01,Straylight Run,21
-2009-01,The Fall Of Troy,0
-2009-01,The Matches,31
-2009-01,The Smiths,9
-2009-01,Thursday,17
-2009-02,Afi,11
-2009-02,Alexisonfire,31
-2009-02,Biffy Clyro,15
-2009-02,Bloc Party,17
-2009-02,Brand New,46
-2009-02,Bright Eyes,18
-2009-02,Daft Punk,12
-2009-02,Damien Rice,11
-2009-02,Death Cab For Cutie,41
-2009-02,Glassjaw,63
-2009-02,Kings Of Leon,30
-2009-02,Mineral,24
-2009-02,Placebo,35
-2009-02,Recover,22
-2009-02,Snow Patrol,14
-2009-02,Straylight Run,42
-2009-02,The Fall Of Troy,30
-2009-02,The Matches,42
-2009-02,The Smiths,13
-2009-02,Thursday,20
-2009-03,Afi,12
-2009-03,Alexisonfire,58
-2009-03,Biffy Clyro,11
-2009-03,Bloc Party,15
-2009-03,Brand New,52
-2009-03,Bright Eyes,30
-2009-03,Daft Punk,13
-2009-03,Damien Rice,31
-2009-03,Death Cab For Cutie,47
-2009-03,Glassjaw,30
-2009-03,Kings Of Leon,33
-2009-03,Mineral,36
-2009-03,Placebo,46
-2009-03,Recover,16
-2009-03,Snow Patrol,30
-2009-03,Straylight Run,39
-2009-03,The Fall Of Troy,33
-2009-03,The Matches,76
-2009-03,The Smiths,32
-2009-03,Thursday,36
-2009-04,Afi,5
-2009-04,Alexisonfire,22
-2009-04,Biffy Clyro,9
-2009-04,Bloc Party,18
-2009-04,Brand New,35
-2009-04,Bright Eyes,17
-2009-04,Daft Punk,11
-2009-04,Damien Rice,13
-2009-04,Death Cab For Cutie,22
-2009-04,Glassjaw,21
-2009-04,Kings Of Leon,24
-2009-04,Mineral,21
-2009-04,Placebo,8
-2009-04,Recover,7
-2009-04,Snow Patrol,13
-2009-04,Straylight Run,26
-2009-04,The Fall Of Troy,17
-2009-04,The Matches,29
-2009-04,The Smiths,7
-2009-04,Thursday,12
+"month","artist","plays"
+"2007-01","Afi",6
+"2007-01","Alexisonfire",10
+"2007-01","Biffy Clyro",1
+"2007-01","Bloc Party",3
+"2007-01","Brand New",23
+"2007-01","Bright Eyes",3
+"2007-01","Daft Punk",0
+"2007-01","Damien Rice",2
+"2007-01","Death Cab For Cutie",3
+"2007-01","Glassjaw",0
+"2007-01","Kings Of Leon",0
+"2007-01","Mineral",2
+"2007-01","Placebo",3
+"2007-01","Recover",2
+"2007-01","Snow Patrol",6
+"2007-01","Straylight Run",3
+"2007-01","The Fall Of Troy",4
+"2007-01","The Matches",1
+"2007-01","The Smiths",3
+"2007-01","Thursday",3
+"2007-02","Afi",5
+"2007-02","Alexisonfire",28
+"2007-02","Biffy Clyro",12
+"2007-02","Bloc Party",11
+"2007-02","Brand New",77
+"2007-02","Bright Eyes",18
+"2007-02","Daft Punk",7
+"2007-02","Damien Rice",28
+"2007-02","Death Cab For Cutie",14
+"2007-02","Glassjaw",3
+"2007-02","Kings Of Leon",6
+"2007-02","Mineral",21
+"2007-02","Placebo",10
+"2007-02","Recover",16
+"2007-02","Snow Patrol",12
+"2007-02","Straylight Run",11
+"2007-02","The Fall Of Troy",9
+"2007-02","The Matches",3
+"2007-02","The Smiths",9
+"2007-02","Thursday",9
+"2007-03","Afi",2
+"2007-03","Alexisonfire",39
+"2007-03","Biffy Clyro",15
+"2007-03","Bloc Party",16
+"2007-03","Brand New",49
+"2007-03","Bright Eyes",15
+"2007-03","Daft Punk",4
+"2007-03","Damien Rice",7
+"2007-03","Death Cab For Cutie",38
+"2007-03","Glassjaw",9
+"2007-03","Kings Of Leon",2
+"2007-03","Mineral",17
+"2007-03","Placebo",8
+"2007-03","Recover",11
+"2007-03","Snow Patrol",7
+"2007-03","Straylight Run",11
+"2007-03","The Fall Of Troy",32
+"2007-03","The Matches",4
+"2007-03","The Smiths",8
+"2007-03","Thursday",28
+"2007-04","Afi",5
+"2007-04","Alexisonfire",40
+"2007-04","Biffy Clyro",12
+"2007-04","Bloc Party",13
+"2007-04","Brand New",33
+"2007-04","Bright Eyes",12
+"2007-04","Daft Punk",3
+"2007-04","Damien Rice",7
+"2007-04","Death Cab For Cutie",22
+"2007-04","Glassjaw",9
+"2007-04","Kings Of Leon",34
+"2007-04","Mineral",18
+"2007-04","Placebo",9
+"2007-04","Recover",9
+"2007-04","Snow Patrol",14
+"2007-04","Straylight Run",15
+"2007-04","The Fall Of Troy",10
+"2007-04","The Matches",3
+"2007-04","The Smiths",11
+"2007-04","Thursday",26
+"2007-05","Afi",18
+"2007-05","Alexisonfire",18
+"2007-05","Biffy Clyro",19
+"2007-05","Bloc Party",3
+"2007-05","Brand New",27
+"2007-05","Bright Eyes",11
+"2007-05","Daft Punk",10
+"2007-05","Damien Rice",8
+"2007-05","Death Cab For Cutie",26
+"2007-05","Glassjaw",2
+"2007-05","Kings Of Leon",32
+"2007-05","Mineral",23
+"2007-05","Placebo",8
+"2007-05","Recover",6
+"2007-05","Snow Patrol",5
+"2007-05","Straylight Run",6
+"2007-05","The Fall Of Troy",31
+"2007-05","The Matches",27
+"2007-05","The Smiths",6
+"2007-05","Thursday",10
+"2007-06","Afi",9
+"2007-06","Alexisonfire",44
+"2007-06","Biffy Clyro",14
+"2007-06","Bloc Party",8
+"2007-06","Brand New",13
+"2007-06","Bright Eyes",19
+"2007-06","Daft Punk",10
+"2007-06","Damien Rice",6
+"2007-06","Death Cab For Cutie",25
+"2007-06","Glassjaw",5
+"2007-06","Kings Of Leon",20
+"2007-06","Mineral",16
+"2007-06","Placebo",4
+"2007-06","Recover",2
+"2007-06","Snow Patrol",13
+"2007-06","Straylight Run",9
+"2007-06","The Fall Of Troy",9
+"2007-06","The Matches",15
+"2007-06","The Smiths",10
+"2007-06","Thursday",4
+"2007-07","Afi",7
+"2007-07","Alexisonfire",17
+"2007-07","Biffy Clyro",3
+"2007-07","Bloc Party",3
+"2007-07","Brand New",46
+"2007-07","Bright Eyes",4
+"2007-07","Daft Punk",12
+"2007-07","Damien Rice",3
+"2007-07","Death Cab For Cutie",4
+"2007-07","Glassjaw",1
+"2007-07","Kings Of Leon",9
+"2007-07","Mineral",11
+"2007-07","Placebo",2
+"2007-07","Recover",6
+"2007-07","Snow Patrol",7
+"2007-07","Straylight Run",4
+"2007-07","The Fall Of Troy",8
+"2007-07","The Matches",3
+"2007-07","The Smiths",6
+"2007-07","Thursday",5
+"2007-08","Afi",1
+"2007-08","Alexisonfire",18
+"2007-08","Biffy Clyro",2
+"2007-08","Bloc Party",8
+"2007-08","Brand New",17
+"2007-08","Bright Eyes",8
+"2007-08","Daft Punk",35
+"2007-08","Damien Rice",8
+"2007-08","Death Cab For Cutie",27
+"2007-08","Glassjaw",1
+"2007-08","Kings Of Leon",8
+"2007-08","Mineral",7
+"2007-08","Placebo",2
+"2007-08","Recover",7
+"2007-08","Snow Patrol",8
+"2007-08","Straylight Run",8
+"2007-08","The Fall Of Troy",3
+"2007-08","The Matches",5
+"2007-08","The Smiths",0
+"2007-08","Thursday",16
+"2007-09","Afi",2
+"2007-09","Alexisonfire",11
+"2007-09","Biffy Clyro",2
+"2007-09","Bloc Party",2
+"2007-09","Brand New",40
+"2007-09","Bright Eyes",4
+"2007-09","Daft Punk",8
+"2007-09","Damien Rice",2
+"2007-09","Death Cab For Cutie",11
+"2007-09","Glassjaw",1
+"2007-09","Kings Of Leon",7
+"2007-09","Mineral",4
+"2007-09","Placebo",1
+"2007-09","Recover",4
+"2007-09","Snow Patrol",6
+"2007-09","Straylight Run",6
+"2007-09","The Fall Of Troy",2
+"2007-09","The Matches",40
+"2007-09","The Smiths",4
+"2007-09","Thursday",10
+"2007-10","Afi",0
+"2007-10","Alexisonfire",10
+"2007-10","Biffy Clyro",4
+"2007-10","Bloc Party",1
+"2007-10","Brand New",11
+"2007-10","Bright Eyes",9
+"2007-10","Daft Punk",8
+"2007-10","Damien Rice",2
+"2007-10","Death Cab For Cutie",6
+"2007-10","Glassjaw",2
+"2007-10","Kings Of Leon",4
+"2007-10","Mineral",5
+"2007-10","Placebo",4
+"2007-10","Recover",4
+"2007-10","Snow Patrol",7
+"2007-10","Straylight Run",1
+"2007-10","The Fall Of Troy",5
+"2007-10","The Matches",37
+"2007-10","The Smiths",1
+"2007-10","Thursday",12
+"2007-11","Afi",4
+"2007-11","Alexisonfire",16
+"2007-11","Biffy Clyro",1
+"2007-11","Bloc Party",4
+"2007-11","Brand New",15
+"2007-11","Bright Eyes",17
+"2007-11","Daft Punk",13
+"2007-11","Damien Rice",6
+"2007-11","Death Cab For Cutie",10
+"2007-11","Glassjaw",1
+"2007-11","Kings Of Leon",10
+"2007-11","Mineral",4
+"2007-11","Placebo",2
+"2007-11","Recover",6
+"2007-11","Snow Patrol",7
+"2007-11","Straylight Run",5
+"2007-11","The Fall Of Troy",23
+"2007-11","The Matches",33
+"2007-11","The Smiths",1
+"2007-11","Thursday",15
+"2007-12","Afi",4
+"2007-12","Alexisonfire",23
+"2007-12","Biffy Clyro",5
+"2007-12","Bloc Party",9
+"2007-12","Brand New",17
+"2007-12","Bright Eyes",15
+"2007-12","Daft Punk",7
+"2007-12","Damien Rice",7
+"2007-12","Death Cab For Cutie",10
+"2007-12","Glassjaw",1
+"2007-12","Kings Of Leon",3
+"2007-12","Mineral",7
+"2007-12","Placebo",2
+"2007-12","Recover",5
+"2007-12","Snow Patrol",3
+"2007-12","Straylight Run",6
+"2007-12","The Fall Of Troy",10
+"2007-12","The Matches",12
+"2007-12","The Smiths",2
+"2007-12","Thursday",16
+"2008-01","Afi",5
+"2008-01","Alexisonfire",19
+"2008-01","Biffy Clyro",5
+"2008-01","Bloc Party",10
+"2008-01","Brand New",21
+"2008-01","Bright Eyes",6
+"2008-01","Daft Punk",3
+"2008-01","Damien Rice",30
+"2008-01","Death Cab For Cutie",13
+"2008-01","Glassjaw",4
+"2008-01","Kings Of Leon",8
+"2008-01","Mineral",34
+"2008-01","Placebo",1
+"2008-01","Recover",10
+"2008-01","Snow Patrol",2
+"2008-01","Straylight Run",5
+"2008-01","The Fall Of Troy",10
+"2008-01","The Matches",11
+"2008-01","The Smiths",1
+"2008-01","Thursday",34
+"2008-02","Afi",1
+"2008-02","Alexisonfire",9
+"2008-02","Biffy Clyro",2
+"2008-02","Bloc Party",4
+"2008-02","Brand New",5
+"2008-02","Bright Eyes",8
+"2008-02","Daft Punk",1
+"2008-02","Damien Rice",0
+"2008-02","Death Cab For Cutie",4
+"2008-02","Glassjaw",2
+"2008-02","Kings Of Leon",0
+"2008-02","Mineral",0
+"2008-02","Placebo",1
+"2008-02","Recover",2
+"2008-02","Snow Patrol",3
+"2008-02","Straylight Run",4
+"2008-02","The Fall Of Troy",1
+"2008-02","The Matches",19
+"2008-02","The Smiths",1
+"2008-02","Thursday",4
+"2008-03","Afi",3
+"2008-03","Alexisonfire",2
+"2008-03","Biffy Clyro",3
+"2008-03","Bloc Party",3
+"2008-03","Brand New",7
+"2008-03","Bright Eyes",7
+"2008-03","Daft Punk",5
+"2008-03","Damien Rice",1
+"2008-03","Death Cab For Cutie",3
+"2008-03","Glassjaw",3
+"2008-03","Kings Of Leon",7
+"2008-03","Mineral",3
+"2008-03","Placebo",3
+"2008-03","Recover",2
+"2008-03","Snow Patrol",4
+"2008-03","Straylight Run",3
+"2008-03","The Fall Of Troy",7
+"2008-03","The Matches",25
+"2008-03","The Smiths",2
+"2008-03","Thursday",3
+"2008-04","Afi",4
+"2008-04","Alexisonfire",10
+"2008-04","Biffy Clyro",0
+"2008-04","Bloc Party",3
+"2008-04","Brand New",9
+"2008-04","Bright Eyes",12
+"2008-04","Daft Punk",3
+"2008-04","Damien Rice",10
+"2008-04","Death Cab For Cutie",7
+"2008-04","Glassjaw",5
+"2008-04","Kings Of Leon",3
+"2008-04","Mineral",6
+"2008-04","Placebo",0
+"2008-04","Recover",5
+"2008-04","Snow Patrol",3
+"2008-04","Straylight Run",5
+"2008-04","The Fall Of Troy",9
+"2008-04","The Matches",12
+"2008-04","The Smiths",3
+"2008-04","Thursday",5
+"2008-05","Afi",1
+"2008-05","Alexisonfire",14
+"2008-05","Biffy Clyro",2
+"2008-05","Bloc Party",6
+"2008-05","Brand New",15
+"2008-05","Bright Eyes",16
+"2008-05","Daft Punk",6
+"2008-05","Damien Rice",5
+"2008-05","Death Cab For Cutie",35
+"2008-05","Glassjaw",6
+"2008-05","Kings Of Leon",17
+"2008-05","Mineral",7
+"2008-05","Placebo",1
+"2008-05","Recover",4
+"2008-05","Snow Patrol",8
+"2008-05","Straylight Run",4
+"2008-05","The Fall Of Troy",11
+"2008-05","The Matches",11
+"2008-05","The Smiths",5
+"2008-05","Thursday",8
+"2008-06","Afi",19
+"2008-06","Alexisonfire",3
+"2008-06","Biffy Clyro",1
+"2008-06","Bloc Party",30
+"2008-06","Brand New",1
+"2008-06","Bright Eyes",45
+"2008-06","Daft Punk",23
+"2008-06","Damien Rice",38
+"2008-06","Death Cab For Cutie",23
+"2008-06","Glassjaw",26
+"2008-06","Kings Of Leon",57
+"2008-06","Mineral",33
+"2008-06","Placebo",12
+"2008-06","Recover",26
+"2008-06","Snow Patrol",5
+"2008-06","Straylight Run",25
+"2008-06","The Fall Of Troy",18
+"2008-06","The Matches",69
+"2008-06","The Smiths",22
+"2008-06","Thursday",4
+"2008-07","Afi",0
+"2008-07","Alexisonfire",3
+"2008-07","Biffy Clyro",0
+"2008-07","Bloc Party",5
+"2008-07","Brand New",4
+"2008-07","Bright Eyes",6
+"2008-07","Daft Punk",5
+"2008-07","Damien Rice",5
+"2008-07","Death Cab For Cutie",2
+"2008-07","Glassjaw",1
+"2008-07","Kings Of Leon",7
+"2008-07","Mineral",4
+"2008-07","Placebo",1
+"2008-07","Recover",4
+"2008-07","Snow Patrol",2
+"2008-07","Straylight Run",12
+"2008-07","The Fall Of Troy",5
+"2008-07","The Matches",10
+"2008-07","The Smiths",5
+"2008-07","Thursday",0
+"2008-08","Afi",1
+"2008-08","Alexisonfire",7
+"2008-08","Biffy Clyro",4
+"2008-08","Bloc Party",5
+"2008-08","Brand New",15
+"2008-08","Bright Eyes",6
+"2008-08","Daft Punk",0
+"2008-08","Damien Rice",0
+"2008-08","Death Cab For Cutie",2
+"2008-08","Glassjaw",4
+"2008-08","Kings Of Leon",15
+"2008-08","Mineral",12
+"2008-08","Placebo",1
+"2008-08","Recover",0
+"2008-08","Snow Patrol",1
+"2008-08","Straylight Run",2
+"2008-08","The Fall Of Troy",1
+"2008-08","The Matches",16
+"2008-08","The Smiths",1
+"2008-08","Thursday",1
+"2008-09","Afi",4
+"2008-09","Alexisonfire",16
+"2008-09","Biffy Clyro",6
+"2008-09","Bloc Party",8
+"2008-09","Brand New",12
+"2008-09","Bright Eyes",9
+"2008-09","Daft Punk",23
+"2008-09","Damien Rice",6
+"2008-09","Death Cab For Cutie",22
+"2008-09","Glassjaw",5
+"2008-09","Kings Of Leon",44
+"2008-09","Mineral",6
+"2008-09","Placebo",1
+"2008-09","Recover",4
+"2008-09","Snow Patrol",2
+"2008-09","Straylight Run",14
+"2008-09","The Fall Of Troy",1
+"2008-09","The Matches",23
+"2008-09","The Smiths",2
+"2008-09","Thursday",9
+"2008-10","Afi",17
+"2008-10","Alexisonfire",65
+"2008-10","Biffy Clyro",27
+"2008-10","Bloc Party",38
+"2008-10","Brand New",125
+"2008-10","Bright Eyes",61
+"2008-10","Daft Punk",33
+"2008-10","Damien Rice",56
+"2008-10","Death Cab For Cutie",71
+"2008-10","Glassjaw",40
+"2008-10","Kings Of Leon",86
+"2008-10","Mineral",160
+"2008-10","Placebo",31
+"2008-10","Recover",25
+"2008-10","Snow Patrol",30
+"2008-10","Straylight Run",46
+"2008-10","The Fall Of Troy",19
+"2008-10","The Matches",85
+"2008-10","The Smiths",32
+"2008-10","Thursday",51
+"2008-11","Afi",17
+"2008-11","Alexisonfire",51
+"2008-11","Biffy Clyro",48
+"2008-11","Bloc Party",39
+"2008-11","Brand New",55
+"2008-11","Bright Eyes",58
+"2008-11","Daft Punk",24
+"2008-11","Damien Rice",21
+"2008-11","Death Cab For Cutie",68
+"2008-11","Glassjaw",23
+"2008-11","Kings Of Leon",72
+"2008-11","Mineral",33
+"2008-11","Placebo",18
+"2008-11","Recover",9
+"2008-11","Snow Patrol",36
+"2008-11","Straylight Run",44
+"2008-11","The Fall Of Troy",76
+"2008-11","The Matches",61
+"2008-11","The Smiths",22
+"2008-11","Thursday",52
+"2008-12","Afi",11
+"2008-12","Alexisonfire",51
+"2008-12","Biffy Clyro",26
+"2008-12","Bloc Party",26
+"2008-12","Brand New",57
+"2008-12","Bright Eyes",41
+"2008-12","Daft Punk",19
+"2008-12","Damien Rice",28
+"2008-12","Death Cab For Cutie",58
+"2008-12","Glassjaw",10
+"2008-12","Kings Of Leon",58
+"2008-12","Mineral",27
+"2008-12","Placebo",16
+"2008-12","Recover",9
+"2008-12","Snow Patrol",20
+"2008-12","Straylight Run",52
+"2008-12","The Fall Of Troy",28
+"2008-12","The Matches",53
+"2008-12","The Smiths",12
+"2008-12","Thursday",31
+"2009-01","Afi",5
+"2009-01","Alexisonfire",22
+"2009-01","Biffy Clyro",8
+"2009-01","Bloc Party",11
+"2009-01","Brand New",26
+"2009-01","Bright Eyes",21
+"2009-01","Daft Punk",7
+"2009-01","Damien Rice",16
+"2009-01","Death Cab For Cutie",25
+"2009-01","Glassjaw",13
+"2009-01","Kings Of Leon",19
+"2009-01","Mineral",11
+"2009-01","Placebo",7
+"2009-01","Recover",13
+"2009-01","Snow Patrol",15
+"2009-01","Straylight Run",21
+"2009-01","The Fall Of Troy",0
+"2009-01","The Matches",31
+"2009-01","The Smiths",9
+"2009-01","Thursday",17
+"2009-02","Afi",11
+"2009-02","Alexisonfire",31
+"2009-02","Biffy Clyro",15
+"2009-02","Bloc Party",17
+"2009-02","Brand New",46
+"2009-02","Bright Eyes",18
+"2009-02","Daft Punk",12
+"2009-02","Damien Rice",11
+"2009-02","Death Cab For Cutie",41
+"2009-02","Glassjaw",63
+"2009-02","Kings Of Leon",30
+"2009-02","Mineral",24
+"2009-02","Placebo",35
+"2009-02","Recover",22
+"2009-02","Snow Patrol",14
+"2009-02","Straylight Run",42
+"2009-02","The Fall Of Troy",30
+"2009-02","The Matches",42
+"2009-02","The Smiths",13
+"2009-02","Thursday",20
+"2009-03","Afi",12
+"2009-03","Alexisonfire",58
+"2009-03","Biffy Clyro",11
+"2009-03","Bloc Party",15
+"2009-03","Brand New",52
+"2009-03","Bright Eyes",30
+"2009-03","Daft Punk",13
+"2009-03","Damien Rice",31
+"2009-03","Death Cab For Cutie",47
+"2009-03","Glassjaw",30
+"2009-03","Kings Of Leon",33
+"2009-03","Mineral",36
+"2009-03","Placebo",46
+"2009-03","Recover",16
+"2009-03","Snow Patrol",30
+"2009-03","Straylight Run",39
+"2009-03","The Fall Of Troy",33
+"2009-03","The Matches",76
+"2009-03","The Smiths",32
+"2009-03","Thursday",36
+"2009-04","Afi",5
+"2009-04","Alexisonfire",22
+"2009-04","Biffy Clyro",9
+"2009-04","Bloc Party",18
+"2009-04","Brand New",35
+"2009-04","Bright Eyes",17
+"2009-04","Daft Punk",11
+"2009-04","Damien Rice",13
+"2009-04","Death Cab For Cutie",22
+"2009-04","Glassjaw",21
+"2009-04","Kings Of Leon",24
+"2009-04","Mineral",21
+"2009-04","Placebo",8
+"2009-04","Recover",7
+"2009-04","Snow Patrol",13
+"2009-04","Straylight Run",26
+"2009-04","The Fall Of Troy",17
+"2009-04","The Matches",29
+"2009-04","The Smiths",7
+"2009-04","Thursday",12

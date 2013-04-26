@@ -1,341 +1,341 @@
-month,artist,plays
-2006-10,4 Strings,1
-2006-10,Adema,2
-2006-10,Basement Jaxx,0
-2006-10,Blink-182,0
-2006-10,Bloc Party,0
-2006-10,Coldplay,1
-2006-10,Copeland,0
-2006-10,Counting Crows,0
-2006-10,Cut Chemist,0
-2006-10,Federico Aubele,0
-2006-10,Fischerspooner,0
-2006-10,Ghostland Observatory,0
-2006-10,Imogen Heap,0
-2006-10,Le Tigre,0
-2006-10,Metric,0
-2006-10,Morningwood,0
-2006-10,Pretty Girls Make Graves,1
-2006-10,Tegan And Sara,0
-2006-10,The Fray,2
-2006-10,The Sounds,0
-2006-11,4 Strings,1
-2006-11,Adema,1
-2006-11,Basement Jaxx,4
-2006-11,Blink-182,3
-2006-11,Bloc Party,1
-2006-11,Coldplay,1
-2006-11,Copeland,1
-2006-11,Counting Crows,1
-2006-11,Cut Chemist,6
-2006-11,Federico Aubele,1
-2006-11,Fischerspooner,9
-2006-11,Ghostland Observatory,10
-2006-11,Imogen Heap,2
-2006-11,Le Tigre,2
-2006-11,Metric,9
-2006-11,Morningwood,1
-2006-11,Pretty Girls Make Graves,1
-2006-11,Tegan And Sara,19
-2006-11,The Fray,1
-2006-11,The Sounds,4
-2006-12,4 Strings,0
-2006-12,Adema,1
-2006-12,Basement Jaxx,4
-2006-12,Blink-182,3
-2006-12,Bloc Party,1
-2006-12,Coldplay,3
-2006-12,Copeland,5
-2006-12,Counting Crows,1
-2006-12,Cut Chemist,1
-2006-12,Federico Aubele,1
-2006-12,Fischerspooner,2
-2006-12,Ghostland Observatory,3
-2006-12,Imogen Heap,2
-2006-12,Le Tigre,2
-2006-12,Metric,3
-2006-12,Morningwood,1
-2006-12,Pretty Girls Make Graves,5
-2006-12,Tegan And Sara,14
-2006-12,The Fray,1
-2006-12,The Sounds,1
-2007-01,4 Strings,1
-2007-01,Adema,0
-2007-01,Basement Jaxx,0
-2007-01,Blink-182,1
-2007-01,Bloc Party,0
-2007-01,Coldplay,0
-2007-01,Copeland,0
-2007-01,Counting Crows,0
-2007-01,Cut Chemist,0
-2007-01,Federico Aubele,0
-2007-01,Fischerspooner,1
-2007-01,Ghostland Observatory,1
-2007-01,Imogen Heap,0
-2007-01,Le Tigre,2
-2007-01,Metric,1
-2007-01,Morningwood,1
-2007-01,Pretty Girls Make Graves,1
-2007-01,Tegan And Sara,2
-2007-01,The Fray,0
-2007-01,The Sounds,1
-2007-02,4 Strings,0
-2007-02,Adema,0
-2007-02,Basement Jaxx,0
-2007-02,Blink-182,0
-2007-02,Bloc Party,0
-2007-02,Coldplay,0
-2007-02,Copeland,0
-2007-02,Counting Crows,0
-2007-02,Cut Chemist,0
-2007-02,Federico Aubele,0
-2007-02,Fischerspooner,0
-2007-02,Ghostland Observatory,0
-2007-02,Imogen Heap,0
-2007-02,Le Tigre,0
-2007-02,Metric,0
-2007-02,Morningwood,0
-2007-02,Pretty Girls Make Graves,0
-2007-02,Tegan And Sara,0
-2007-02,The Fray,0
-2007-02,The Sounds,0
-2007-03,4 Strings,0
-2007-03,Adema,0
-2007-03,Basement Jaxx,0
-2007-03,Blink-182,0
-2007-03,Bloc Party,0
-2007-03,Coldplay,0
-2007-03,Copeland,0
-2007-03,Counting Crows,0
-2007-03,Cut Chemist,0
-2007-03,Federico Aubele,0
-2007-03,Fischerspooner,0
-2007-03,Ghostland Observatory,0
-2007-03,Imogen Heap,0
-2007-03,Le Tigre,0
-2007-03,Metric,0
-2007-03,Morningwood,0
-2007-03,Pretty Girls Make Graves,0
-2007-03,Tegan And Sara,0
-2007-03,The Fray,0
-2007-03,The Sounds,0
-2007-04,4 Strings,0
-2007-04,Adema,0
-2007-04,Basement Jaxx,0
-2007-04,Blink-182,0
-2007-04,Bloc Party,0
-2007-04,Coldplay,0
-2007-04,Copeland,0
-2007-04,Counting Crows,0
-2007-04,Cut Chemist,0
-2007-04,Federico Aubele,0
-2007-04,Fischerspooner,0
-2007-04,Ghostland Observatory,0
-2007-04,Imogen Heap,0
-2007-04,Le Tigre,0
-2007-04,Metric,0
-2007-04,Morningwood,0
-2007-04,Pretty Girls Make Graves,1
-2007-04,Tegan And Sara,0
-2007-04,The Fray,0
-2007-04,The Sounds,0
-2007-05,4 Strings,0
-2007-05,Adema,0
-2007-05,Basement Jaxx,0
-2007-05,Blink-182,0
-2007-05,Bloc Party,0
-2007-05,Coldplay,0
-2007-05,Copeland,0
-2007-05,Counting Crows,0
-2007-05,Cut Chemist,0
-2007-05,Federico Aubele,0
-2007-05,Fischerspooner,0
-2007-05,Ghostland Observatory,0
-2007-05,Imogen Heap,0
-2007-05,Le Tigre,0
-2007-05,Metric,0
-2007-05,Morningwood,0
-2007-05,Pretty Girls Make Graves,0
-2007-05,Tegan And Sara,0
-2007-05,The Fray,0
-2007-05,The Sounds,0
-2007-06,4 Strings,0
-2007-06,Adema,0
-2007-06,Basement Jaxx,0
-2007-06,Blink-182,0
-2007-06,Bloc Party,0
-2007-06,Coldplay,0
-2007-06,Copeland,0
-2007-06,Counting Crows,0
-2007-06,Cut Chemist,0
-2007-06,Federico Aubele,0
-2007-06,Fischerspooner,0
-2007-06,Ghostland Observatory,0
-2007-06,Imogen Heap,0
-2007-06,Le Tigre,0
-2007-06,Metric,0
-2007-06,Morningwood,0
-2007-06,Pretty Girls Make Graves,0
-2007-06,Tegan And Sara,0
-2007-06,The Fray,0
-2007-06,The Sounds,0
-2007-07,4 Strings,0
-2007-07,Adema,0
-2007-07,Basement Jaxx,0
-2007-07,Blink-182,0
-2007-07,Bloc Party,0
-2007-07,Coldplay,0
-2007-07,Copeland,0
-2007-07,Counting Crows,0
-2007-07,Cut Chemist,0
-2007-07,Federico Aubele,0
-2007-07,Fischerspooner,0
-2007-07,Ghostland Observatory,0
-2007-07,Imogen Heap,0
-2007-07,Le Tigre,0
-2007-07,Metric,0
-2007-07,Morningwood,0
-2007-07,Pretty Girls Make Graves,0
-2007-07,Tegan And Sara,0
-2007-07,The Fray,0
-2007-07,The Sounds,0
-2007-08,4 Strings,0
-2007-08,Adema,0
-2007-08,Basement Jaxx,0
-2007-08,Blink-182,0
-2007-08,Bloc Party,0
-2007-08,Coldplay,0
-2007-08,Copeland,0
-2007-08,Counting Crows,0
-2007-08,Cut Chemist,0
-2007-08,Federico Aubele,0
-2007-08,Fischerspooner,0
-2007-08,Ghostland Observatory,0
-2007-08,Imogen Heap,0
-2007-08,Le Tigre,0
-2007-08,Metric,0
-2007-08,Morningwood,0
-2007-08,Pretty Girls Make Graves,0
-2007-08,Tegan And Sara,0
-2007-08,The Fray,0
-2007-08,The Sounds,0
-2007-09,4 Strings,0
-2007-09,Adema,0
-2007-09,Basement Jaxx,0
-2007-09,Blink-182,0
-2007-09,Bloc Party,0
-2007-09,Coldplay,0
-2007-09,Copeland,0
-2007-09,Counting Crows,0
-2007-09,Cut Chemist,0
-2007-09,Federico Aubele,0
-2007-09,Fischerspooner,0
-2007-09,Ghostland Observatory,0
-2007-09,Imogen Heap,0
-2007-09,Le Tigre,0
-2007-09,Metric,0
-2007-09,Morningwood,0
-2007-09,Pretty Girls Make Graves,0
-2007-09,Tegan And Sara,0
-2007-09,The Fray,0
-2007-09,The Sounds,0
-2007-10,4 Strings,0
-2007-10,Adema,0
-2007-10,Basement Jaxx,0
-2007-10,Blink-182,0
-2007-10,Bloc Party,0
-2007-10,Coldplay,0
-2007-10,Copeland,0
-2007-10,Counting Crows,0
-2007-10,Cut Chemist,0
-2007-10,Federico Aubele,0
-2007-10,Fischerspooner,0
-2007-10,Ghostland Observatory,0
-2007-10,Imogen Heap,0
-2007-10,Le Tigre,0
-2007-10,Metric,0
-2007-10,Morningwood,0
-2007-10,Pretty Girls Make Graves,0
-2007-10,Tegan And Sara,0
-2007-10,The Fray,0
-2007-10,The Sounds,0
-2007-11,4 Strings,0
-2007-11,Adema,0
-2007-11,Basement Jaxx,0
-2007-11,Blink-182,0
-2007-11,Bloc Party,0
-2007-11,Coldplay,0
-2007-11,Copeland,0
-2007-11,Counting Crows,0
-2007-11,Cut Chemist,0
-2007-11,Federico Aubele,0
-2007-11,Fischerspooner,0
-2007-11,Ghostland Observatory,0
-2007-11,Imogen Heap,0
-2007-11,Le Tigre,0
-2007-11,Metric,0
-2007-11,Morningwood,0
-2007-11,Pretty Girls Make Graves,0
-2007-11,Tegan And Sara,0
-2007-11,The Fray,0
-2007-11,The Sounds,0
-2007-12,4 Strings,0
-2007-12,Adema,0
-2007-12,Basement Jaxx,0
-2007-12,Blink-182,0
-2007-12,Bloc Party,0
-2007-12,Coldplay,0
-2007-12,Copeland,0
-2007-12,Counting Crows,0
-2007-12,Cut Chemist,0
-2007-12,Federico Aubele,0
-2007-12,Fischerspooner,0
-2007-12,Ghostland Observatory,0
-2007-12,Imogen Heap,0
-2007-12,Le Tigre,0
-2007-12,Metric,0
-2007-12,Morningwood,0
-2007-12,Pretty Girls Make Graves,0
-2007-12,Tegan And Sara,0
-2007-12,The Fray,0
-2007-12,The Sounds,0
-2008-01,4 Strings,0
-2008-01,Adema,0
-2008-01,Basement Jaxx,0
-2008-01,Blink-182,0
-2008-01,Bloc Party,0
-2008-01,Coldplay,0
-2008-01,Copeland,0
-2008-01,Counting Crows,0
-2008-01,Cut Chemist,0
-2008-01,Federico Aubele,0
-2008-01,Fischerspooner,0
-2008-01,Ghostland Observatory,0
-2008-01,Imogen Heap,0
-2008-01,Le Tigre,0
-2008-01,Metric,0
-2008-01,Morningwood,0
-2008-01,Pretty Girls Make Graves,0
-2008-01,Tegan And Sara,0
-2008-01,The Fray,0
-2008-01,The Sounds,0
-2008-02,4 Strings,0
-2008-02,Adema,0
-2008-02,Basement Jaxx,0
-2008-02,Blink-182,0
-2008-02,Bloc Party,0
-2008-02,Coldplay,0
-2008-02,Copeland,0
-2008-02,Counting Crows,0
-2008-02,Cut Chemist,0
-2008-02,Federico Aubele,0
-2008-02,Fischerspooner,0
-2008-02,Ghostland Observatory,0
-2008-02,Imogen Heap,0
-2008-02,Le Tigre,0
-2008-02,Metric,0
-2008-02,Morningwood,0
-2008-02,Pretty Girls Make Graves,0
-2008-02,Tegan And Sara,1
-2008-02,The Fray,0
-2008-02,The Sounds,0
+"month","artist","plays"
+"2006-10","4 Strings",1
+"2006-10","Adema",2
+"2006-10","Basement Jaxx",0
+"2006-10","Blink-182",0
+"2006-10","Bloc Party",0
+"2006-10","Coldplay",1
+"2006-10","Copeland",0
+"2006-10","Counting Crows",0
+"2006-10","Cut Chemist",0
+"2006-10","Federico Aubele",0
+"2006-10","Fischerspooner",0
+"2006-10","Ghostland Observatory",0
+"2006-10","Imogen Heap",0
+"2006-10","Le Tigre",0
+"2006-10","Metric",0
+"2006-10","Morningwood",0
+"2006-10","Pretty Girls Make Graves",1
+"2006-10","Tegan And Sara",0
+"2006-10","The Fray",2
+"2006-10","The Sounds",0
+"2006-11","4 Strings",1
+"2006-11","Adema",1
+"2006-11","Basement Jaxx",4
+"2006-11","Blink-182",3
+"2006-11","Bloc Party",1
+"2006-11","Coldplay",1
+"2006-11","Copeland",1
+"2006-11","Counting Crows",1
+"2006-11","Cut Chemist",6
+"2006-11","Federico Aubele",1
+"2006-11","Fischerspooner",9
+"2006-11","Ghostland Observatory",10
+"2006-11","Imogen Heap",2
+"2006-11","Le Tigre",2
+"2006-11","Metric",9
+"2006-11","Morningwood",1
+"2006-11","Pretty Girls Make Graves",1
+"2006-11","Tegan And Sara",19
+"2006-11","The Fray",1
+"2006-11","The Sounds",4
+"2006-12","4 Strings",0
+"2006-12","Adema",1
+"2006-12","Basement Jaxx",4
+"2006-12","Blink-182",3
+"2006-12","Bloc Party",1
+"2006-12","Coldplay",3
+"2006-12","Copeland",5
+"2006-12","Counting Crows",1
+"2006-12","Cut Chemist",1
+"2006-12","Federico Aubele",1
+"2006-12","Fischerspooner",2
+"2006-12","Ghostland Observatory",3
+"2006-12","Imogen Heap",2
+"2006-12","Le Tigre",2
+"2006-12","Metric",3
+"2006-12","Morningwood",1
+"2006-12","Pretty Girls Make Graves",5
+"2006-12","Tegan And Sara",14
+"2006-12","The Fray",1
+"2006-12","The Sounds",1
+"2007-01","4 Strings",1
+"2007-01","Adema",0
+"2007-01","Basement Jaxx",0
+"2007-01","Blink-182",1
+"2007-01","Bloc Party",0
+"2007-01","Coldplay",0
+"2007-01","Copeland",0
+"2007-01","Counting Crows",0
+"2007-01","Cut Chemist",0
+"2007-01","Federico Aubele",0
+"2007-01","Fischerspooner",1
+"2007-01","Ghostland Observatory",1
+"2007-01","Imogen Heap",0
+"2007-01","Le Tigre",2
+"2007-01","Metric",1
+"2007-01","Morningwood",1
+"2007-01","Pretty Girls Make Graves",1
+"2007-01","Tegan And Sara",2
+"2007-01","The Fray",0
+"2007-01","The Sounds",1
+"2007-02","4 Strings",0
+"2007-02","Adema",0
+"2007-02","Basement Jaxx",0
+"2007-02","Blink-182",0
+"2007-02","Bloc Party",0
+"2007-02","Coldplay",0
+"2007-02","Copeland",0
+"2007-02","Counting Crows",0
+"2007-02","Cut Chemist",0
+"2007-02","Federico Aubele",0
+"2007-02","Fischerspooner",0
+"2007-02","Ghostland Observatory",0
+"2007-02","Imogen Heap",0
+"2007-02","Le Tigre",0
+"2007-02","Metric",0
+"2007-02","Morningwood",0
+"2007-02","Pretty Girls Make Graves",0
+"2007-02","Tegan And Sara",0
+"2007-02","The Fray",0
+"2007-02","The Sounds",0
+"2007-03","4 Strings",0
+"2007-03","Adema",0
+"2007-03","Basement Jaxx",0
+"2007-03","Blink-182",0
+"2007-03","Bloc Party",0
+"2007-03","Coldplay",0
+"2007-03","Copeland",0
+"2007-03","Counting Crows",0
+"2007-03","Cut Chemist",0
+"2007-03","Federico Aubele",0
+"2007-03","Fischerspooner",0
+"2007-03","Ghostland Observatory",0
+"2007-03","Imogen Heap",0
+"2007-03","Le Tigre",0
+"2007-03","Metric",0
+"2007-03","Morningwood",0
+"2007-03","Pretty Girls Make Graves",0
+"2007-03","Tegan And Sara",0
+"2007-03","The Fray",0
+"2007-03","The Sounds",0
+"2007-04","4 Strings",0
+"2007-04","Adema",0
+"2007-04","Basement Jaxx",0
+"2007-04","Blink-182",0
+"2007-04","Bloc Party",0
+"2007-04","Coldplay",0
+"2007-04","Copeland",0
+"2007-04","Counting Crows",0
+"2007-04","Cut Chemist",0
+"2007-04","Federico Aubele",0
+"2007-04","Fischerspooner",0
+"2007-04","Ghostland Observatory",0
+"2007-04","Imogen Heap",0
+"2007-04","Le Tigre",0
+"2007-04","Metric",0
+"2007-04","Morningwood",0
+"2007-04","Pretty Girls Make Graves",1
+"2007-04","Tegan And Sara",0
+"2007-04","The Fray",0
+"2007-04","The Sounds",0
+"2007-05","4 Strings",0
+"2007-05","Adema",0
+"2007-05","Basement Jaxx",0
+"2007-05","Blink-182",0
+"2007-05","Bloc Party",0
+"2007-05","Coldplay",0
+"2007-05","Copeland",0
+"2007-05","Counting Crows",0
+"2007-05","Cut Chemist",0
+"2007-05","Federico Aubele",0
+"2007-05","Fischerspooner",0
+"2007-05","Ghostland Observatory",0
+"2007-05","Imogen Heap",0
+"2007-05","Le Tigre",0
+"2007-05","Metric",0
+"2007-05","Morningwood",0
+"2007-05","Pretty Girls Make Graves",0
+"2007-05","Tegan And Sara",0
+"2007-05","The Fray",0
+"2007-05","The Sounds",0
+"2007-06","4 Strings",0
+"2007-06","Adema",0
+"2007-06","Basement Jaxx",0
+"2007-06","Blink-182",0
+"2007-06","Bloc Party",0
+"2007-06","Coldplay",0
+"2007-06","Copeland",0
+"2007-06","Counting Crows",0
+"2007-06","Cut Chemist",0
+"2007-06","Federico Aubele",0
+"2007-06","Fischerspooner",0
+"2007-06","Ghostland Observatory",0
+"2007-06","Imogen Heap",0
+"2007-06","Le Tigre",0
+"2007-06","Metric",0
+"2007-06","Morningwood",0
+"2007-06","Pretty Girls Make Graves",0
+"2007-06","Tegan And Sara",0
+"2007-06","The Fray",0
+"2007-06","The Sounds",0
+"2007-07","4 Strings",0
+"2007-07","Adema",0
+"2007-07","Basement Jaxx",0
+"2007-07","Blink-182",0
+"2007-07","Bloc Party",0
+"2007-07","Coldplay",0
+"2007-07","Copeland",0
+"2007-07","Counting Crows",0
+"2007-07","Cut Chemist",0
+"2007-07","Federico Aubele",0
+"2007-07","Fischerspooner",0
+"2007-07","Ghostland Observatory",0
+"2007-07","Imogen Heap",0
+"2007-07","Le Tigre",0
+"2007-07","Metric",0
+"2007-07","Morningwood",0
+"2007-07","Pretty Girls Make Graves",0
+"2007-07","Tegan And Sara",0
+"2007-07","The Fray",0
+"2007-07","The Sounds",0
+"2007-08","4 Strings",0
+"2007-08","Adema",0
+"2007-08","Basement Jaxx",0
+"2007-08","Blink-182",0
+"2007-08","Bloc Party",0
+"2007-08","Coldplay",0
+"2007-08","Copeland",0
+"2007-08","Counting Crows",0
+"2007-08","Cut Chemist",0
+"2007-08","Federico Aubele",0
+"2007-08","Fischerspooner",0
+"2007-08","Ghostland Observatory",0
+"2007-08","Imogen Heap",0
+"2007-08","Le Tigre",0
+"2007-08","Metric",0
+"2007-08","Morningwood",0
+"2007-08","Pretty Girls Make Graves",0
+"2007-08","Tegan And Sara",0
+"2007-08","The Fray",0
+"2007-08","The Sounds",0
+"2007-09","4 Strings",0
+"2007-09","Adema",0
+"2007-09","Basement Jaxx",0
+"2007-09","Blink-182",0
+"2007-09","Bloc Party",0
+"2007-09","Coldplay",0
+"2007-09","Copeland",0
+"2007-09","Counting Crows",0
+"2007-09","Cut Chemist",0
+"2007-09","Federico Aubele",0
+"2007-09","Fischerspooner",0
+"2007-09","Ghostland Observatory",0
+"2007-09","Imogen Heap",0
+"2007-09","Le Tigre",0
+"2007-09","Metric",0
+"2007-09","Morningwood",0
+"2007-09","Pretty Girls Make Graves",0
+"2007-09","Tegan And Sara",0
+"2007-09","The Fray",0
+"2007-09","The Sounds",0
+"2007-10","4 Strings",0
+"2007-10","Adema",0
+"2007-10","Basement Jaxx",0
+"2007-10","Blink-182",0
+"2007-10","Bloc Party",0
+"2007-10","Coldplay",0
+"2007-10","Copeland",0
+"2007-10","Counting Crows",0
+"2007-10","Cut Chemist",0
+"2007-10","Federico Aubele",0
+"2007-10","Fischerspooner",0
+"2007-10","Ghostland Observatory",0
+"2007-10","Imogen Heap",0
+"2007-10","Le Tigre",0
+"2007-10","Metric",0
+"2007-10","Morningwood",0
+"2007-10","Pretty Girls Make Graves",0
+"2007-10","Tegan And Sara",0
+"2007-10","The Fray",0
+"2007-10","The Sounds",0
+"2007-11","4 Strings",0
+"2007-11","Adema",0
+"2007-11","Basement Jaxx",0
+"2007-11","Blink-182",0
+"2007-11","Bloc Party",0
+"2007-11","Coldplay",0
+"2007-11","Copeland",0
+"2007-11","Counting Crows",0
+"2007-11","Cut Chemist",0
+"2007-11","Federico Aubele",0
+"2007-11","Fischerspooner",0
+"2007-11","Ghostland Observatory",0
+"2007-11","Imogen Heap",0
+"2007-11","Le Tigre",0
+"2007-11","Metric",0
+"2007-11","Morningwood",0
+"2007-11","Pretty Girls Make Graves",0
+"2007-11","Tegan And Sara",0
+"2007-11","The Fray",0
+"2007-11","The Sounds",0
+"2007-12","4 Strings",0
+"2007-12","Adema",0
+"2007-12","Basement Jaxx",0
+"2007-12","Blink-182",0
+"2007-12","Bloc Party",0
+"2007-12","Coldplay",0
+"2007-12","Copeland",0
+"2007-12","Counting Crows",0
+"2007-12","Cut Chemist",0
+"2007-12","Federico Aubele",0
+"2007-12","Fischerspooner",0
+"2007-12","Ghostland Observatory",0
+"2007-12","Imogen Heap",0
+"2007-12","Le Tigre",0
+"2007-12","Metric",0
+"2007-12","Morningwood",0
+"2007-12","Pretty Girls Make Graves",0
+"2007-12","Tegan And Sara",0
+"2007-12","The Fray",0
+"2007-12","The Sounds",0
+"2008-01","4 Strings",0
+"2008-01","Adema",0
+"2008-01","Basement Jaxx",0
+"2008-01","Blink-182",0
+"2008-01","Bloc Party",0
+"2008-01","Coldplay",0
+"2008-01","Copeland",0
+"2008-01","Counting Crows",0
+"2008-01","Cut Chemist",0
+"2008-01","Federico Aubele",0
+"2008-01","Fischerspooner",0
+"2008-01","Ghostland Observatory",0
+"2008-01","Imogen Heap",0
+"2008-01","Le Tigre",0
+"2008-01","Metric",0
+"2008-01","Morningwood",0
+"2008-01","Pretty Girls Make Graves",0
+"2008-01","Tegan And Sara",0
+"2008-01","The Fray",0
+"2008-01","The Sounds",0
+"2008-02","4 Strings",0
+"2008-02","Adema",0
+"2008-02","Basement Jaxx",0
+"2008-02","Blink-182",0
+"2008-02","Bloc Party",0
+"2008-02","Coldplay",0
+"2008-02","Copeland",0
+"2008-02","Counting Crows",0
+"2008-02","Cut Chemist",0
+"2008-02","Federico Aubele",0
+"2008-02","Fischerspooner",0
+"2008-02","Ghostland Observatory",0
+"2008-02","Imogen Heap",0
+"2008-02","Le Tigre",0
+"2008-02","Metric",0
+"2008-02","Morningwood",0
+"2008-02","Pretty Girls Make Graves",0
+"2008-02","Tegan And Sara",1
+"2008-02","The Fray",0
+"2008-02","The Sounds",0

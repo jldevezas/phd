@@ -1,121 +1,121 @@
-month,artist,plays
-2007-07,Aerosmith,8
-2007-07,Bell Etage,0
-2007-07,Boston,0
-2007-07,Cream,1
-2007-07,Deep Purple,8
-2007-07,Dire Straits,5
-2007-07,Dread Zeppelin,1
-2007-07,Eric Clapton,6
-2007-07,Fleetwood Mac,1
-2007-07,Lynyrd Skynyrd,5
-2007-07,Pink Floyd,8
-2007-07,Queen,7
-2007-07,Rush,2
-2007-07,Steve Miller Band,1
-2007-07,The Allman Brothers Band,1
-2007-07,The Rolling Stones,6
-2007-07,The Who,1
-2007-07,The Yardbirds,1
-2007-07,Van Halen,6
-2007-07,Zz Top,1
-2007-08,Aerosmith,0
-2007-08,Bell Etage,0
-2007-08,Boston,0
-2007-08,Cream,0
-2007-08,Deep Purple,0
-2007-08,Dire Straits,0
-2007-08,Dread Zeppelin,0
-2007-08,Eric Clapton,0
-2007-08,Fleetwood Mac,0
-2007-08,Lynyrd Skynyrd,0
-2007-08,Pink Floyd,0
-2007-08,Queen,0
-2007-08,Rush,0
-2007-08,Steve Miller Band,0
-2007-08,The Allman Brothers Band,0
-2007-08,The Rolling Stones,0
-2007-08,The Who,0
-2007-08,The Yardbirds,0
-2007-08,Van Halen,0
-2007-08,Zz Top,0
-2007-09,Aerosmith,0
-2007-09,Bell Etage,1
-2007-09,Boston,0
-2007-09,Cream,0
-2007-09,Deep Purple,0
-2007-09,Dire Straits,0
-2007-09,Dread Zeppelin,0
-2007-09,Eric Clapton,0
-2007-09,Fleetwood Mac,0
-2007-09,Lynyrd Skynyrd,0
-2007-09,Pink Floyd,0
-2007-09,Queen,0
-2007-09,Rush,0
-2007-09,Steve Miller Band,0
-2007-09,The Allman Brothers Band,0
-2007-09,The Rolling Stones,0
-2007-09,The Who,0
-2007-09,The Yardbirds,0
-2007-09,Van Halen,1
-2007-09,Zz Top,0
-2007-10,Aerosmith,1
-2007-10,Bell Etage,2
-2007-10,Boston,3
-2007-10,Cream,0
-2007-10,Deep Purple,0
-2007-10,Dire Straits,0
-2007-10,Dread Zeppelin,0
-2007-10,Eric Clapton,0
-2007-10,Fleetwood Mac,1
-2007-10,Lynyrd Skynyrd,1
-2007-10,Pink Floyd,1
-2007-10,Queen,1
-2007-10,Rush,0
-2007-10,Steve Miller Band,1
-2007-10,The Allman Brothers Band,1
-2007-10,The Rolling Stones,0
-2007-10,The Who,4
-2007-10,The Yardbirds,0
-2007-10,Van Halen,1
-2007-10,Zz Top,3
-2007-11,Aerosmith,1
-2007-11,Bell Etage,0
-2007-11,Boston,1
-2007-11,Cream,1
-2007-11,Deep Purple,1
-2007-11,Dire Straits,1
-2007-11,Dread Zeppelin,1
-2007-11,Eric Clapton,1
-2007-11,Fleetwood Mac,1
-2007-11,Lynyrd Skynyrd,0
-2007-11,Pink Floyd,1
-2007-11,Queen,1
-2007-11,Rush,1
-2007-11,Steve Miller Band,1
-2007-11,The Allman Brothers Band,0
-2007-11,The Rolling Stones,1
-2007-11,The Who,1
-2007-11,The Yardbirds,1
-2007-11,Van Halen,0
-2007-11,Zz Top,1
-2007-12,Aerosmith,2
-2007-12,Bell Etage,0
-2007-12,Boston,1
-2007-12,Cream,4
-2007-12,Deep Purple,4
-2007-12,Dire Straits,1
-2007-12,Dread Zeppelin,1
-2007-12,Eric Clapton,1
-2007-12,Fleetwood Mac,1
-2007-12,Lynyrd Skynyrd,1
-2007-12,Pink Floyd,4
-2007-12,Queen,1
-2007-12,Rush,1
-2007-12,Steve Miller Band,2
-2007-12,The Allman Brothers Band,1
-2007-12,The Rolling Stones,5
-2007-12,The Who,2
-2007-12,The Yardbirds,1
-2007-12,Van Halen,1
-2007-12,Zz Top,0
+"month","artist","plays"
+"2007-07","Aerosmith",8
+"2007-07","Bell Etage",0
+"2007-07","Boston",0
+"2007-07","Cream",1
+"2007-07","Deep Purple",8
+"2007-07","Dire Straits",5
+"2007-07","Dread Zeppelin",1
+"2007-07","Eric Clapton",6
+"2007-07","Fleetwood Mac",1
+"2007-07","Lynyrd Skynyrd",5
+"2007-07","Pink Floyd",8
+"2007-07","Queen",7
+"2007-07","Rush",2
+"2007-07","Steve Miller Band",1
+"2007-07","The Allman Brothers Band",1
+"2007-07","The Rolling Stones",6
+"2007-07","The Who",1
+"2007-07","The Yardbirds",1
+"2007-07","Van Halen",6
+"2007-07","Zz Top",1
+"2007-08","Aerosmith",0
+"2007-08","Bell Etage",0
+"2007-08","Boston",0
+"2007-08","Cream",0
+"2007-08","Deep Purple",0
+"2007-08","Dire Straits",0
+"2007-08","Dread Zeppelin",0
+"2007-08","Eric Clapton",0
+"2007-08","Fleetwood Mac",0
+"2007-08","Lynyrd Skynyrd",0
+"2007-08","Pink Floyd",0
+"2007-08","Queen",0
+"2007-08","Rush",0
+"2007-08","Steve Miller Band",0
+"2007-08","The Allman Brothers Band",0
+"2007-08","The Rolling Stones",0
+"2007-08","The Who",0
+"2007-08","The Yardbirds",0
+"2007-08","Van Halen",0
+"2007-08","Zz Top",0
+"2007-09","Aerosmith",0
+"2007-09","Bell Etage",1
+"2007-09","Boston",0
+"2007-09","Cream",0
+"2007-09","Deep Purple",0
+"2007-09","Dire Straits",0
+"2007-09","Dread Zeppelin",0
+"2007-09","Eric Clapton",0
+"2007-09","Fleetwood Mac",0
+"2007-09","Lynyrd Skynyrd",0
+"2007-09","Pink Floyd",0
+"2007-09","Queen",0
+"2007-09","Rush",0
+"2007-09","Steve Miller Band",0
+"2007-09","The Allman Brothers Band",0
+"2007-09","The Rolling Stones",0
+"2007-09","The Who",0
+"2007-09","The Yardbirds",0
+"2007-09","Van Halen",1
+"2007-09","Zz Top",0
+"2007-10","Aerosmith",1
+"2007-10","Bell Etage",2
+"2007-10","Boston",3
+"2007-10","Cream",0
+"2007-10","Deep Purple",0
+"2007-10","Dire Straits",0
+"2007-10","Dread Zeppelin",0
+"2007-10","Eric Clapton",0
+"2007-10","Fleetwood Mac",1
+"2007-10","Lynyrd Skynyrd",1
+"2007-10","Pink Floyd",1
+"2007-10","Queen",1
+"2007-10","Rush",0
+"2007-10","Steve Miller Band",1
+"2007-10","The Allman Brothers Band",1
+"2007-10","The Rolling Stones",0
+"2007-10","The Who",4
+"2007-10","The Yardbirds",0
+"2007-10","Van Halen",1
+"2007-10","Zz Top",3
+"2007-11","Aerosmith",1
+"2007-11","Bell Etage",0
+"2007-11","Boston",1
+"2007-11","Cream",1
+"2007-11","Deep Purple",1
+"2007-11","Dire Straits",1
+"2007-11","Dread Zeppelin",1
+"2007-11","Eric Clapton",1
+"2007-11","Fleetwood Mac",1
+"2007-11","Lynyrd Skynyrd",0
+"2007-11","Pink Floyd",1
+"2007-11","Queen",1
+"2007-11","Rush",1
+"2007-11","Steve Miller Band",1
+"2007-11","The Allman Brothers Band",0
+"2007-11","The Rolling Stones",1
+"2007-11","The Who",1
+"2007-11","The Yardbirds",1
+"2007-11","Van Halen",0
+"2007-11","Zz Top",1
+"2007-12","Aerosmith",2
+"2007-12","Bell Etage",0
+"2007-12","Boston",1
+"2007-12","Cream",4
+"2007-12","Deep Purple",4
+"2007-12","Dire Straits",1
+"2007-12","Dread Zeppelin",1
+"2007-12","Eric Clapton",1
+"2007-12","Fleetwood Mac",1
+"2007-12","Lynyrd Skynyrd",1
+"2007-12","Pink Floyd",4
+"2007-12","Queen",1
+"2007-12","Rush",1
+"2007-12","Steve Miller Band",2
+"2007-12","The Allman Brothers Band",1
+"2007-12","The Rolling Stones",5
+"2007-12","The Who",2
+"2007-12","The Yardbirds",1
+"2007-12","Van Halen",1
+"2007-12","Zz Top",0

@@ -1,101 +1,101 @@
-month,artist,plays
-2009-01,Alborosie,1
-2009-01,Clueso,6
-2009-01,Clueso (Feat. Norman Bates),2
-2009-01,Culcha Candela,3
-2009-01,Dashboard Confessional,1
-2009-01,Death In December,4
-2009-01,Deichkind,5
-2009-01,Dendemann,8
-2009-01,Dj Chuckie,1
-2009-01,Dr. Ring-Ding & The Senior Allstars,1
-2009-01,Flo Rida Feat. Tpain,11
-2009-01,Frittenbude,3
-2009-01,Hyper Crush,3
-2009-01,Incubus,1
-2009-01,Irie Révoltés,1
-2009-01,Iron & Wine,1
-2009-01,Jack Johnson,1
-2009-01,Luke Pickett,138
-2009-01,Mike Dignam,66
-2009-01,The All-American Rejects,47
-2009-02,Alborosie,7
-2009-02,Clueso,34
-2009-02,Clueso (Feat. Norman Bates),1
-2009-02,Culcha Candela,11
-2009-02,Dashboard Confessional,3
-2009-02,Death In December,3
-2009-02,Deichkind,18
-2009-02,Dendemann,5
-2009-02,Dj Chuckie,4
-2009-02,Dr. Ring-Ding & The Senior Allstars,6
-2009-02,Flo Rida Feat. Tpain,8
-2009-02,Frittenbude,7
-2009-02,Hyper Crush,1
-2009-02,Incubus,2
-2009-02,Irie Révoltés,6
-2009-02,Iron & Wine,1
-2009-02,Jack Johnson,4
-2009-02,Luke Pickett,51
-2009-02,Mike Dignam,18
-2009-02,The All-American Rejects,11
-2009-03,Alborosie,1
-2009-03,Clueso,24
-2009-03,Clueso (Feat. Norman Bates),2
-2009-03,Culcha Candela,7
-2009-03,Dashboard Confessional,5
-2009-03,Death In December,2
-2009-03,Deichkind,35
-2009-03,Dendemann,12
-2009-03,Dj Chuckie,1
-2009-03,Dr. Ring-Ding & The Senior Allstars,8
-2009-03,Flo Rida Feat. Tpain,2
-2009-03,Frittenbude,3
-2009-03,Hyper Crush,2
-2009-03,Incubus,2
-2009-03,Irie Révoltés,3
-2009-03,Iron & Wine,1
-2009-03,Jack Johnson,2
-2009-03,Luke Pickett,6
-2009-03,Mike Dignam,3
-2009-03,The All-American Rejects,2
-2009-04,Alborosie,1
-2009-04,Clueso,26
-2009-04,Clueso (Feat. Norman Bates),1
-2009-04,Culcha Candela,1
-2009-04,Dashboard Confessional,2
-2009-04,Death In December,2
-2009-04,Deichkind,1
-2009-04,Dendemann,1
-2009-04,Dj Chuckie,1
-2009-04,Dr. Ring-Ding & The Senior Allstars,4
-2009-04,Flo Rida Feat. Tpain,1
-2009-04,Frittenbude,4
-2009-04,Hyper Crush,1
-2009-04,Incubus,1
-2009-04,Irie Révoltés,1
-2009-04,Iron & Wine,4
-2009-04,Jack Johnson,1
-2009-04,Luke Pickett,5
-2009-04,Mike Dignam,1
-2009-04,The All-American Rejects,2
-2009-05,Alborosie,0
-2009-05,Clueso,0
-2009-05,Clueso (Feat. Norman Bates),0
-2009-05,Culcha Candela,0
-2009-05,Dashboard Confessional,0
-2009-05,Death In December,0
-2009-05,Deichkind,0
-2009-05,Dendemann,0
-2009-05,Dj Chuckie,0
-2009-05,Dr. Ring-Ding & The Senior Allstars,0
-2009-05,Flo Rida Feat. Tpain,0
-2009-05,Frittenbude,0
-2009-05,Hyper Crush,0
-2009-05,Incubus,0
-2009-05,Irie Révoltés,0
-2009-05,Iron & Wine,0
-2009-05,Jack Johnson,0
-2009-05,Luke Pickett,6
-2009-05,Mike Dignam,1
-2009-05,The All-American Rejects,1
+"month","artist","plays"
+"2009-01","Alborosie",1
+"2009-01","Clueso",6
+"2009-01","Clueso (Feat. Norman Bates)",2
+"2009-01","Culcha Candela",3
+"2009-01","Dashboard Confessional",1
+"2009-01","Death In December",4
+"2009-01","Deichkind",5
+"2009-01","Dendemann",8
+"2009-01","Dj Chuckie",1
+"2009-01","Dr. Ring-Ding & The Senior Allstars",1
+"2009-01","Flo Rida Feat. Tpain",11
+"2009-01","Frittenbude",3
+"2009-01","Hyper Crush",3
+"2009-01","Incubus",1
+"2009-01","Irie Révoltés",1
+"2009-01","Iron & Wine",1
+"2009-01","Jack Johnson",1
+"2009-01","Luke Pickett",138
+"2009-01","Mike Dignam",66
+"2009-01","The All-American Rejects",47
+"2009-02","Alborosie",7
+"2009-02","Clueso",34
+"2009-02","Clueso (Feat. Norman Bates)",1
+"2009-02","Culcha Candela",11
+"2009-02","Dashboard Confessional",3
+"2009-02","Death In December",3
+"2009-02","Deichkind",18
+"2009-02","Dendemann",5
+"2009-02","Dj Chuckie",4
+"2009-02","Dr. Ring-Ding & The Senior Allstars",6
+"2009-02","Flo Rida Feat. Tpain",8
+"2009-02","Frittenbude",7
+"2009-02","Hyper Crush",1
+"2009-02","Incubus",2
+"2009-02","Irie Révoltés",6
+"2009-02","Iron & Wine",1
+"2009-02","Jack Johnson",4
+"2009-02","Luke Pickett",51
+"2009-02","Mike Dignam",18
+"2009-02","The All-American Rejects",11
+"2009-03","Alborosie",1
+"2009-03","Clueso",24
+"2009-03","Clueso (Feat. Norman Bates)",2
+"2009-03","Culcha Candela",7
+"2009-03","Dashboard Confessional",5
+"2009-03","Death In December",2
+"2009-03","Deichkind",35
+"2009-03","Dendemann",12
+"2009-03","Dj Chuckie",1
+"2009-03","Dr. Ring-Ding & The Senior Allstars",8
+"2009-03","Flo Rida Feat. Tpain",2
+"2009-03","Frittenbude",3
+"2009-03","Hyper Crush",2
+"2009-03","Incubus",2
+"2009-03","Irie Révoltés",3
+"2009-03","Iron & Wine",1
+"2009-03","Jack Johnson",2
+"2009-03","Luke Pickett",6
+"2009-03","Mike Dignam",3
+"2009-03","The All-American Rejects",2
+"2009-04","Alborosie",1
+"2009-04","Clueso",26
+"2009-04","Clueso (Feat. Norman Bates)",1
+"2009-04","Culcha Candela",1
+"2009-04","Dashboard Confessional",2
+"2009-04","Death In December",2
+"2009-04","Deichkind",1
+"2009-04","Dendemann",1
+"2009-04","Dj Chuckie",1
+"2009-04","Dr. Ring-Ding & The Senior Allstars",4
+"2009-04","Flo Rida Feat. Tpain",1
+"2009-04","Frittenbude",4
+"2009-04","Hyper Crush",1
+"2009-04","Incubus",1
+"2009-04","Irie Révoltés",1
+"2009-04","Iron & Wine",4
+"2009-04","Jack Johnson",1
+"2009-04","Luke Pickett",5
+"2009-04","Mike Dignam",1
+"2009-04","The All-American Rejects",2
+"2009-05","Alborosie",0
+"2009-05","Clueso",0
+"2009-05","Clueso (Feat. Norman Bates)",0
+"2009-05","Culcha Candela",0
+"2009-05","Dashboard Confessional",0
+"2009-05","Death In December",0
+"2009-05","Deichkind",0
+"2009-05","Dendemann",0
+"2009-05","Dj Chuckie",0
+"2009-05","Dr. Ring-Ding & The Senior Allstars",0
+"2009-05","Flo Rida Feat. Tpain",0
+"2009-05","Frittenbude",0
+"2009-05","Hyper Crush",0
+"2009-05","Incubus",0
+"2009-05","Irie Révoltés",0
+"2009-05","Iron & Wine",0
+"2009-05","Jack Johnson",0
+"2009-05","Luke Pickett",6
+"2009-05","Mike Dignam",1
+"2009-05","The All-American Rejects",1

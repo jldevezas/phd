@@ -1,641 +1,641 @@
-month,artist,plays
-2006-09,Alison Krauss,7
-2006-09,Azure Ray,99
-2006-09,Beck,5
-2006-09,Bob Seger,2
-2006-09,Bonnie 'Prince' Billy,9
-2006-09,Counting Crows,34
-2006-09,Death Cab For Cutie,2
-2006-09,Elliott Smith,0
-2006-09,Feist,39
-2006-09,Guster,53
-2006-09,Iron & Wine,20
-2006-09,Metric,0
-2006-09,Nick Drake,3
-2006-09,Pedro The Lion,16
-2006-09,Pinback,24
-2006-09,Regina Spektor,21
-2006-09,Rilo Kiley,25
-2006-09,Simon & Garfunkel,78
-2006-09,The Decemberists,18
-2006-09,Tunng,45
-2006-10,Alison Krauss,13
-2006-10,Azure Ray,77
-2006-10,Beck,1
-2006-10,Bob Seger,12
-2006-10,Bonnie 'Prince' Billy,1
-2006-10,Counting Crows,22
-2006-10,Death Cab For Cutie,68
-2006-10,Elliott Smith,29
-2006-10,Feist,12
-2006-10,Guster,56
-2006-10,Iron & Wine,8
-2006-10,Metric,0
-2006-10,Nick Drake,0
-2006-10,Pedro The Lion,24
-2006-10,Pinback,51
-2006-10,Regina Spektor,45
-2006-10,Rilo Kiley,20
-2006-10,Simon & Garfunkel,46
-2006-10,The Decemberists,83
-2006-10,Tunng,61
-2006-11,Alison Krauss,11
-2006-11,Azure Ray,39
-2006-11,Beck,1
-2006-11,Bob Seger,1
-2006-11,Bonnie 'Prince' Billy,43
-2006-11,Counting Crows,14
-2006-11,Death Cab For Cutie,41
-2006-11,Elliott Smith,0
-2006-11,Feist,23
-2006-11,Guster,1
-2006-11,Iron & Wine,30
-2006-11,Metric,11
-2006-11,Nick Drake,10
-2006-11,Pedro The Lion,6
-2006-11,Pinback,17
-2006-11,Regina Spektor,21
-2006-11,Rilo Kiley,78
-2006-11,Simon & Garfunkel,26
-2006-11,The Decemberists,44
-2006-11,Tunng,12
-2006-12,Alison Krauss,17
-2006-12,Azure Ray,4
-2006-12,Beck,0
-2006-12,Bob Seger,2
-2006-12,Bonnie 'Prince' Billy,10
-2006-12,Counting Crows,3
-2006-12,Death Cab For Cutie,16
-2006-12,Elliott Smith,0
-2006-12,Feist,8
-2006-12,Guster,39
-2006-12,Iron & Wine,4
-2006-12,Metric,57
-2006-12,Nick Drake,2
-2006-12,Pedro The Lion,10
-2006-12,Pinback,0
-2006-12,Regina Spektor,30
-2006-12,Rilo Kiley,25
-2006-12,Simon & Garfunkel,16
-2006-12,The Decemberists,16
-2006-12,Tunng,2
-2007-01,Alison Krauss,33
-2007-01,Azure Ray,41
-2007-01,Beck,3
-2007-01,Bob Seger,1
-2007-01,Bonnie 'Prince' Billy,3
-2007-01,Counting Crows,5
-2007-01,Death Cab For Cutie,2
-2007-01,Elliott Smith,0
-2007-01,Feist,10
-2007-01,Guster,26
-2007-01,Iron & Wine,6
-2007-01,Metric,3
-2007-01,Nick Drake,9
-2007-01,Pedro The Lion,17
-2007-01,Pinback,15
-2007-01,Regina Spektor,31
-2007-01,Rilo Kiley,0
-2007-01,Simon & Garfunkel,4
-2007-01,The Decemberists,17
-2007-01,Tunng,6
-2007-02,Alison Krauss,20
-2007-02,Azure Ray,27
-2007-02,Beck,33
-2007-02,Bob Seger,3
-2007-02,Bonnie 'Prince' Billy,11
-2007-02,Counting Crows,5
-2007-02,Death Cab For Cutie,5
-2007-02,Elliott Smith,14
-2007-02,Feist,17
-2007-02,Guster,5
-2007-02,Iron & Wine,16
-2007-02,Metric,77
-2007-02,Nick Drake,2
-2007-02,Pedro The Lion,8
-2007-02,Pinback,22
-2007-02,Regina Spektor,3
-2007-02,Rilo Kiley,20
-2007-02,Simon & Garfunkel,1
-2007-02,The Decemberists,2
-2007-02,Tunng,2
-2007-03,Alison Krauss,3
-2007-03,Azure Ray,2
-2007-03,Beck,5
-2007-03,Bob Seger,0
-2007-03,Bonnie 'Prince' Billy,1
-2007-03,Counting Crows,1
-2007-03,Death Cab For Cutie,3
-2007-03,Elliott Smith,1
-2007-03,Feist,10
-2007-03,Guster,4
-2007-03,Iron & Wine,13
-2007-03,Metric,4
-2007-03,Nick Drake,2
-2007-03,Pedro The Lion,3
-2007-03,Pinback,34
-2007-03,Regina Spektor,3
-2007-03,Rilo Kiley,1
-2007-03,Simon & Garfunkel,0
-2007-03,The Decemberists,1
-2007-03,Tunng,21
-2007-04,Alison Krauss,0
-2007-04,Azure Ray,0
-2007-04,Beck,1
-2007-04,Bob Seger,0
-2007-04,Bonnie 'Prince' Billy,22
-2007-04,Counting Crows,1
-2007-04,Death Cab For Cutie,1
-2007-04,Elliott Smith,12
-2007-04,Feist,16
-2007-04,Guster,0
-2007-04,Iron & Wine,1
-2007-04,Metric,2
-2007-04,Nick Drake,1
-2007-04,Pedro The Lion,0
-2007-04,Pinback,0
-2007-04,Regina Spektor,1
-2007-04,Rilo Kiley,2
-2007-04,Simon & Garfunkel,1
-2007-04,The Decemberists,0
-2007-04,Tunng,8
-2007-05,Alison Krauss,16
-2007-05,Azure Ray,24
-2007-05,Beck,2
-2007-05,Bob Seger,1
-2007-05,Bonnie 'Prince' Billy,2
-2007-05,Counting Crows,2
-2007-05,Death Cab For Cutie,0
-2007-05,Elliott Smith,15
-2007-05,Feist,4
-2007-05,Guster,1
-2007-05,Iron & Wine,6
-2007-05,Metric,3
-2007-05,Nick Drake,1
-2007-05,Pedro The Lion,11
-2007-05,Pinback,24
-2007-05,Regina Spektor,23
-2007-05,Rilo Kiley,34
-2007-05,Simon & Garfunkel,2
-2007-05,The Decemberists,0
-2007-05,Tunng,7
-2007-06,Alison Krauss,1
-2007-06,Azure Ray,0
-2007-06,Beck,29
-2007-06,Bob Seger,1
-2007-06,Bonnie 'Prince' Billy,0
-2007-06,Counting Crows,1
-2007-06,Death Cab For Cutie,0
-2007-06,Elliott Smith,0
-2007-06,Feist,0
-2007-06,Guster,3
-2007-06,Iron & Wine,2
-2007-06,Metric,0
-2007-06,Nick Drake,0
-2007-06,Pedro The Lion,1
-2007-06,Pinback,1
-2007-06,Regina Spektor,3
-2007-06,Rilo Kiley,8
-2007-06,Simon & Garfunkel,1
-2007-06,The Decemberists,18
-2007-06,Tunng,7
-2007-07,Alison Krauss,0
-2007-07,Azure Ray,0
-2007-07,Beck,0
-2007-07,Bob Seger,0
-2007-07,Bonnie 'Prince' Billy,0
-2007-07,Counting Crows,0
-2007-07,Death Cab For Cutie,0
-2007-07,Elliott Smith,0
-2007-07,Feist,0
-2007-07,Guster,0
-2007-07,Iron & Wine,0
-2007-07,Metric,0
-2007-07,Nick Drake,0
-2007-07,Pedro The Lion,0
-2007-07,Pinback,0
-2007-07,Regina Spektor,0
-2007-07,Rilo Kiley,0
-2007-07,Simon & Garfunkel,0
-2007-07,The Decemberists,0
-2007-07,Tunng,1
-2007-08,Alison Krauss,0
-2007-08,Azure Ray,0
-2007-08,Beck,0
-2007-08,Bob Seger,0
-2007-08,Bonnie 'Prince' Billy,0
-2007-08,Counting Crows,0
-2007-08,Death Cab For Cutie,0
-2007-08,Elliott Smith,0
-2007-08,Feist,0
-2007-08,Guster,0
-2007-08,Iron & Wine,0
-2007-08,Metric,0
-2007-08,Nick Drake,0
-2007-08,Pedro The Lion,0
-2007-08,Pinback,0
-2007-08,Regina Spektor,0
-2007-08,Rilo Kiley,0
-2007-08,Simon & Garfunkel,0
-2007-08,The Decemberists,0
-2007-08,Tunng,1
-2007-09,Alison Krauss,0
-2007-09,Azure Ray,0
-2007-09,Beck,0
-2007-09,Bob Seger,0
-2007-09,Bonnie 'Prince' Billy,0
-2007-09,Counting Crows,0
-2007-09,Death Cab For Cutie,0
-2007-09,Elliott Smith,0
-2007-09,Feist,12
-2007-09,Guster,0
-2007-09,Iron & Wine,0
-2007-09,Metric,12
-2007-09,Nick Drake,0
-2007-09,Pedro The Lion,0
-2007-09,Pinback,0
-2007-09,Regina Spektor,0
-2007-09,Rilo Kiley,0
-2007-09,Simon & Garfunkel,0
-2007-09,The Decemberists,0
-2007-09,Tunng,0
-2007-10,Alison Krauss,0
-2007-10,Azure Ray,0
-2007-10,Beck,0
-2007-10,Bob Seger,0
-2007-10,Bonnie 'Prince' Billy,0
-2007-10,Counting Crows,0
-2007-10,Death Cab For Cutie,0
-2007-10,Elliott Smith,0
-2007-10,Feist,0
-2007-10,Guster,0
-2007-10,Iron & Wine,0
-2007-10,Metric,0
-2007-10,Nick Drake,0
-2007-10,Pedro The Lion,0
-2007-10,Pinback,0
-2007-10,Regina Spektor,0
-2007-10,Rilo Kiley,0
-2007-10,Simon & Garfunkel,0
-2007-10,The Decemberists,0
-2007-10,Tunng,0
-2007-11,Alison Krauss,9
-2007-11,Azure Ray,25
-2007-11,Beck,0
-2007-11,Bob Seger,0
-2007-11,Bonnie 'Prince' Billy,0
-2007-11,Counting Crows,0
-2007-11,Death Cab For Cutie,0
-2007-11,Elliott Smith,0
-2007-11,Feist,25
-2007-11,Guster,0
-2007-11,Iron & Wine,11
-2007-11,Metric,21
-2007-11,Nick Drake,0
-2007-11,Pedro The Lion,0
-2007-11,Pinback,0
-2007-11,Regina Spektor,0
-2007-11,Rilo Kiley,1
-2007-11,Simon & Garfunkel,0
-2007-11,The Decemberists,68
-2007-11,Tunng,0
-2007-12,Alison Krauss,3
-2007-12,Azure Ray,0
-2007-12,Beck,0
-2007-12,Bob Seger,0
-2007-12,Bonnie 'Prince' Billy,0
-2007-12,Counting Crows,0
-2007-12,Death Cab For Cutie,0
-2007-12,Elliott Smith,2
-2007-12,Feist,0
-2007-12,Guster,0
-2007-12,Iron & Wine,0
-2007-12,Metric,2
-2007-12,Nick Drake,0
-2007-12,Pedro The Lion,0
-2007-12,Pinback,0
-2007-12,Regina Spektor,0
-2007-12,Rilo Kiley,12
-2007-12,Simon & Garfunkel,0
-2007-12,The Decemberists,0
-2007-12,Tunng,0
-2008-01,Alison Krauss,0
-2008-01,Azure Ray,20
-2008-01,Beck,32
-2008-01,Bob Seger,0
-2008-01,Bonnie 'Prince' Billy,10
-2008-01,Counting Crows,10
-2008-01,Death Cab For Cutie,1
-2008-01,Elliott Smith,1
-2008-01,Feist,0
-2008-01,Guster,0
-2008-01,Iron & Wine,0
-2008-01,Metric,3
-2008-01,Nick Drake,2
-2008-01,Pedro The Lion,0
-2008-01,Pinback,2
-2008-01,Regina Spektor,1
-2008-01,Rilo Kiley,0
-2008-01,Simon & Garfunkel,1
-2008-01,The Decemberists,27
-2008-01,Tunng,0
-2008-02,Alison Krauss,0
-2008-02,Azure Ray,23
-2008-02,Beck,1
-2008-02,Bob Seger,11
-2008-02,Bonnie 'Prince' Billy,3
-2008-02,Counting Crows,2
-2008-02,Death Cab For Cutie,3
-2008-02,Elliott Smith,4
-2008-02,Feist,21
-2008-02,Guster,1
-2008-02,Iron & Wine,1
-2008-02,Metric,4
-2008-02,Nick Drake,6
-2008-02,Pedro The Lion,0
-2008-02,Pinback,2
-2008-02,Regina Spektor,52
-2008-02,Rilo Kiley,27
-2008-02,Simon & Garfunkel,3
-2008-02,The Decemberists,7
-2008-02,Tunng,0
-2008-03,Alison Krauss,0
-2008-03,Azure Ray,0
-2008-03,Beck,0
-2008-03,Bob Seger,0
-2008-03,Bonnie 'Prince' Billy,0
-2008-03,Counting Crows,0
-2008-03,Death Cab For Cutie,0
-2008-03,Elliott Smith,14
-2008-03,Feist,0
-2008-03,Guster,0
-2008-03,Iron & Wine,11
-2008-03,Metric,0
-2008-03,Nick Drake,0
-2008-03,Pedro The Lion,0
-2008-03,Pinback,0
-2008-03,Regina Spektor,0
-2008-03,Rilo Kiley,0
-2008-03,Simon & Garfunkel,0
-2008-03,The Decemberists,0
-2008-03,Tunng,0
-2008-04,Alison Krauss,0
-2008-04,Azure Ray,2
-2008-04,Beck,0
-2008-04,Bob Seger,1
-2008-04,Bonnie 'Prince' Billy,12
-2008-04,Counting Crows,0
-2008-04,Death Cab For Cutie,0
-2008-04,Elliott Smith,1
-2008-04,Feist,1
-2008-04,Guster,4
-2008-04,Iron & Wine,9
-2008-04,Metric,2
-2008-04,Nick Drake,11
-2008-04,Pedro The Lion,0
-2008-04,Pinback,1
-2008-04,Regina Spektor,28
-2008-04,Rilo Kiley,2
-2008-04,Simon & Garfunkel,1
-2008-04,The Decemberists,8
-2008-04,Tunng,0
-2008-05,Alison Krauss,0
-2008-05,Azure Ray,0
-2008-05,Beck,0
-2008-05,Bob Seger,2
-2008-05,Bonnie 'Prince' Billy,8
-2008-05,Counting Crows,0
-2008-05,Death Cab For Cutie,11
-2008-05,Elliott Smith,24
-2008-05,Feist,1
-2008-05,Guster,0
-2008-05,Iron & Wine,1
-2008-05,Metric,3
-2008-05,Nick Drake,0
-2008-05,Pedro The Lion,1
-2008-05,Pinback,32
-2008-05,Regina Spektor,34
-2008-05,Rilo Kiley,5
-2008-05,Simon & Garfunkel,0
-2008-05,The Decemberists,0
-2008-05,Tunng,3
-2008-06,Alison Krauss,11
-2008-06,Azure Ray,0
-2008-06,Beck,0
-2008-06,Bob Seger,0
-2008-06,Bonnie 'Prince' Billy,0
-2008-06,Counting Crows,0
-2008-06,Death Cab For Cutie,22
-2008-06,Elliott Smith,0
-2008-06,Feist,0
-2008-06,Guster,0
-2008-06,Iron & Wine,0
-2008-06,Metric,0
-2008-06,Nick Drake,0
-2008-06,Pedro The Lion,9
-2008-06,Pinback,0
-2008-06,Regina Spektor,0
-2008-06,Rilo Kiley,0
-2008-06,Simon & Garfunkel,0
-2008-06,The Decemberists,0
-2008-06,Tunng,0
-2008-07,Alison Krauss,0
-2008-07,Azure Ray,11
-2008-07,Beck,0
-2008-07,Bob Seger,0
-2008-07,Bonnie 'Prince' Billy,0
-2008-07,Counting Crows,0
-2008-07,Death Cab For Cutie,0
-2008-07,Elliott Smith,0
-2008-07,Feist,0
-2008-07,Guster,0
-2008-07,Iron & Wine,0
-2008-07,Metric,0
-2008-07,Nick Drake,0
-2008-07,Pedro The Lion,0
-2008-07,Pinback,0
-2008-07,Regina Spektor,0
-2008-07,Rilo Kiley,0
-2008-07,Simon & Garfunkel,0
-2008-07,The Decemberists,0
-2008-07,Tunng,0
-2008-08,Alison Krauss,0
-2008-08,Azure Ray,0
-2008-08,Beck,0
-2008-08,Bob Seger,0
-2008-08,Bonnie 'Prince' Billy,0
-2008-08,Counting Crows,0
-2008-08,Death Cab For Cutie,0
-2008-08,Elliott Smith,0
-2008-08,Feist,0
-2008-08,Guster,0
-2008-08,Iron & Wine,0
-2008-08,Metric,0
-2008-08,Nick Drake,0
-2008-08,Pedro The Lion,0
-2008-08,Pinback,0
-2008-08,Regina Spektor,0
-2008-08,Rilo Kiley,0
-2008-08,Simon & Garfunkel,0
-2008-08,The Decemberists,0
-2008-08,Tunng,0
-2008-09,Alison Krauss,0
-2008-09,Azure Ray,0
-2008-09,Beck,0
-2008-09,Bob Seger,0
-2008-09,Bonnie 'Prince' Billy,0
-2008-09,Counting Crows,0
-2008-09,Death Cab For Cutie,0
-2008-09,Elliott Smith,0
-2008-09,Feist,0
-2008-09,Guster,0
-2008-09,Iron & Wine,0
-2008-09,Metric,0
-2008-09,Nick Drake,0
-2008-09,Pedro The Lion,0
-2008-09,Pinback,0
-2008-09,Regina Spektor,0
-2008-09,Rilo Kiley,0
-2008-09,Simon & Garfunkel,0
-2008-09,The Decemberists,0
-2008-09,Tunng,0
-2008-10,Alison Krauss,0
-2008-10,Azure Ray,0
-2008-10,Beck,0
-2008-10,Bob Seger,0
-2008-10,Bonnie 'Prince' Billy,0
-2008-10,Counting Crows,0
-2008-10,Death Cab For Cutie,0
-2008-10,Elliott Smith,0
-2008-10,Feist,0
-2008-10,Guster,0
-2008-10,Iron & Wine,0
-2008-10,Metric,0
-2008-10,Nick Drake,0
-2008-10,Pedro The Lion,0
-2008-10,Pinback,0
-2008-10,Regina Spektor,0
-2008-10,Rilo Kiley,0
-2008-10,Simon & Garfunkel,0
-2008-10,The Decemberists,0
-2008-10,Tunng,0
-2008-11,Alison Krauss,0
-2008-11,Azure Ray,0
-2008-11,Beck,12
-2008-11,Bob Seger,0
-2008-11,Bonnie 'Prince' Billy,0
-2008-11,Counting Crows,0
-2008-11,Death Cab For Cutie,0
-2008-11,Elliott Smith,14
-2008-11,Feist,0
-2008-11,Guster,0
-2008-11,Iron & Wine,0
-2008-11,Metric,0
-2008-11,Nick Drake,0
-2008-11,Pedro The Lion,0
-2008-11,Pinback,0
-2008-11,Regina Spektor,0
-2008-11,Rilo Kiley,0
-2008-11,Simon & Garfunkel,0
-2008-11,The Decemberists,0
-2008-11,Tunng,0
-2008-12,Alison Krauss,0
-2008-12,Azure Ray,0
-2008-12,Beck,0
-2008-12,Bob Seger,0
-2008-12,Bonnie 'Prince' Billy,0
-2008-12,Counting Crows,0
-2008-12,Death Cab For Cutie,0
-2008-12,Elliott Smith,0
-2008-12,Feist,0
-2008-12,Guster,0
-2008-12,Iron & Wine,0
-2008-12,Metric,0
-2008-12,Nick Drake,0
-2008-12,Pedro The Lion,1
-2008-12,Pinback,0
-2008-12,Regina Spektor,0
-2008-12,Rilo Kiley,0
-2008-12,Simon & Garfunkel,0
-2008-12,The Decemberists,0
-2008-12,Tunng,0
-2009-01,Alison Krauss,0
-2009-01,Azure Ray,0
-2009-01,Beck,0
-2009-01,Bob Seger,0
-2009-01,Bonnie 'Prince' Billy,0
-2009-01,Counting Crows,0
-2009-01,Death Cab For Cutie,0
-2009-01,Elliott Smith,0
-2009-01,Feist,0
-2009-01,Guster,0
-2009-01,Iron & Wine,0
-2009-01,Metric,0
-2009-01,Nick Drake,0
-2009-01,Pedro The Lion,0
-2009-01,Pinback,0
-2009-01,Regina Spektor,0
-2009-01,Rilo Kiley,0
-2009-01,Simon & Garfunkel,0
-2009-01,The Decemberists,0
-2009-01,Tunng,0
-2009-02,Alison Krauss,0
-2009-02,Azure Ray,0
-2009-02,Beck,0
-2009-02,Bob Seger,0
-2009-02,Bonnie 'Prince' Billy,0
-2009-02,Counting Crows,0
-2009-02,Death Cab For Cutie,0
-2009-02,Elliott Smith,0
-2009-02,Feist,0
-2009-02,Guster,0
-2009-02,Iron & Wine,0
-2009-02,Metric,0
-2009-02,Nick Drake,0
-2009-02,Pedro The Lion,0
-2009-02,Pinback,0
-2009-02,Regina Spektor,0
-2009-02,Rilo Kiley,0
-2009-02,Simon & Garfunkel,0
-2009-02,The Decemberists,0
-2009-02,Tunng,0
-2009-03,Alison Krauss,0
-2009-03,Azure Ray,1
-2009-03,Beck,0
-2009-03,Bob Seger,0
-2009-03,Bonnie 'Prince' Billy,0
-2009-03,Counting Crows,0
-2009-03,Death Cab For Cutie,1
-2009-03,Elliott Smith,2
-2009-03,Feist,4
-2009-03,Guster,2
-2009-03,Iron & Wine,2
-2009-03,Metric,0
-2009-03,Nick Drake,0
-2009-03,Pedro The Lion,0
-2009-03,Pinback,0
-2009-03,Regina Spektor,0
-2009-03,Rilo Kiley,0
-2009-03,Simon & Garfunkel,0
-2009-03,The Decemberists,0
-2009-03,Tunng,0
-2009-04,Alison Krauss,5
-2009-04,Azure Ray,1
-2009-04,Beck,0
-2009-04,Bob Seger,3
-2009-04,Bonnie 'Prince' Billy,5
-2009-04,Counting Crows,0
-2009-04,Death Cab For Cutie,0
-2009-04,Elliott Smith,17
-2009-04,Feist,2
-2009-04,Guster,3
-2009-04,Iron & Wine,1
-2009-04,Metric,0
-2009-04,Nick Drake,1
-2009-04,Pedro The Lion,4
-2009-04,Pinback,0
-2009-04,Regina Spektor,0
-2009-04,Rilo Kiley,2
-2009-04,Simon & Garfunkel,0
-2009-04,The Decemberists,0
-2009-04,Tunng,4
+"month","artist","plays"
+"2006-09","Alison Krauss",7
+"2006-09","Azure Ray",99
+"2006-09","Beck",5
+"2006-09","Bob Seger",2
+"2006-09","Bonnie 'Prince' Billy",9
+"2006-09","Counting Crows",34
+"2006-09","Death Cab For Cutie",2
+"2006-09","Elliott Smith",0
+"2006-09","Feist",39
+"2006-09","Guster",53
+"2006-09","Iron & Wine",20
+"2006-09","Metric",0
+"2006-09","Nick Drake",3
+"2006-09","Pedro The Lion",16
+"2006-09","Pinback",24
+"2006-09","Regina Spektor",21
+"2006-09","Rilo Kiley",25
+"2006-09","Simon & Garfunkel",78
+"2006-09","The Decemberists",18
+"2006-09","Tunng",45
+"2006-10","Alison Krauss",13
+"2006-10","Azure Ray",77
+"2006-10","Beck",1
+"2006-10","Bob Seger",12
+"2006-10","Bonnie 'Prince' Billy",1
+"2006-10","Counting Crows",22
+"2006-10","Death Cab For Cutie",68
+"2006-10","Elliott Smith",29
+"2006-10","Feist",12
+"2006-10","Guster",56
+"2006-10","Iron & Wine",8
+"2006-10","Metric",0
+"2006-10","Nick Drake",0
+"2006-10","Pedro The Lion",24
+"2006-10","Pinback",51
+"2006-10","Regina Spektor",45
+"2006-10","Rilo Kiley",20
+"2006-10","Simon & Garfunkel",46
+"2006-10","The Decemberists",83
+"2006-10","Tunng",61
+"2006-11","Alison Krauss",11
+"2006-11","Azure Ray",39
+"2006-11","Beck",1
+"2006-11","Bob Seger",1
+"2006-11","Bonnie 'Prince' Billy",43
+"2006-11","Counting Crows",14
+"2006-11","Death Cab For Cutie",41
+"2006-11","Elliott Smith",0
+"2006-11","Feist",23
+"2006-11","Guster",1
+"2006-11","Iron & Wine",30
+"2006-11","Metric",11
+"2006-11","Nick Drake",10
+"2006-11","Pedro The Lion",6
+"2006-11","Pinback",17
+"2006-11","Regina Spektor",21
+"2006-11","Rilo Kiley",78
+"2006-11","Simon & Garfunkel",26
+"2006-11","The Decemberists",44
+"2006-11","Tunng",12
+"2006-12","Alison Krauss",17
+"2006-12","Azure Ray",4
+"2006-12","Beck",0
+"2006-12","Bob Seger",2
+"2006-12","Bonnie 'Prince' Billy",10
+"2006-12","Counting Crows",3
+"2006-12","Death Cab For Cutie",16
+"2006-12","Elliott Smith",0
+"2006-12","Feist",8
+"2006-12","Guster",39
+"2006-12","Iron & Wine",4
+"2006-12","Metric",57
+"2006-12","Nick Drake",2
+"2006-12","Pedro The Lion",10
+"2006-12","Pinback",0
+"2006-12","Regina Spektor",30
+"2006-12","Rilo Kiley",25
+"2006-12","Simon & Garfunkel",16
+"2006-12","The Decemberists",16
+"2006-12","Tunng",2
+"2007-01","Alison Krauss",33
+"2007-01","Azure Ray",41
+"2007-01","Beck",3
+"2007-01","Bob Seger",1
+"2007-01","Bonnie 'Prince' Billy",3
+"2007-01","Counting Crows",5
+"2007-01","Death Cab For Cutie",2
+"2007-01","Elliott Smith",0
+"2007-01","Feist",10
+"2007-01","Guster",26
+"2007-01","Iron & Wine",6
+"2007-01","Metric",3
+"2007-01","Nick Drake",9
+"2007-01","Pedro The Lion",17
+"2007-01","Pinback",15
+"2007-01","Regina Spektor",31
+"2007-01","Rilo Kiley",0
+"2007-01","Simon & Garfunkel",4
+"2007-01","The Decemberists",17
+"2007-01","Tunng",6
+"2007-02","Alison Krauss",20
+"2007-02","Azure Ray",27
+"2007-02","Beck",33
+"2007-02","Bob Seger",3
+"2007-02","Bonnie 'Prince' Billy",11
+"2007-02","Counting Crows",5
+"2007-02","Death Cab For Cutie",5
+"2007-02","Elliott Smith",14
+"2007-02","Feist",17
+"2007-02","Guster",5
+"2007-02","Iron & Wine",16
+"2007-02","Metric",77
+"2007-02","Nick Drake",2
+"2007-02","Pedro The Lion",8
+"2007-02","Pinback",22
+"2007-02","Regina Spektor",3
+"2007-02","Rilo Kiley",20
+"2007-02","Simon & Garfunkel",1
+"2007-02","The Decemberists",2
+"2007-02","Tunng",2
+"2007-03","Alison Krauss",3
+"2007-03","Azure Ray",2
+"2007-03","Beck",5
+"2007-03","Bob Seger",0
+"2007-03","Bonnie 'Prince' Billy",1
+"2007-03","Counting Crows",1
+"2007-03","Death Cab For Cutie",3
+"2007-03","Elliott Smith",1
+"2007-03","Feist",10
+"2007-03","Guster",4
+"2007-03","Iron & Wine",13
+"2007-03","Metric",4
+"2007-03","Nick Drake",2
+"2007-03","Pedro The Lion",3
+"2007-03","Pinback",34
+"2007-03","Regina Spektor",3
+"2007-03","Rilo Kiley",1
+"2007-03","Simon & Garfunkel",0
+"2007-03","The Decemberists",1
+"2007-03","Tunng",21
+"2007-04","Alison Krauss",0
+"2007-04","Azure Ray",0
+"2007-04","Beck",1
+"2007-04","Bob Seger",0
+"2007-04","Bonnie 'Prince' Billy",22
+"2007-04","Counting Crows",1
+"2007-04","Death Cab For Cutie",1
+"2007-04","Elliott Smith",12
+"2007-04","Feist",16
+"2007-04","Guster",0
+"2007-04","Iron & Wine",1
+"2007-04","Metric",2
+"2007-04","Nick Drake",1
+"2007-04","Pedro The Lion",0
+"2007-04","Pinback",0
+"2007-04","Regina Spektor",1
+"2007-04","Rilo Kiley",2
+"2007-04","Simon & Garfunkel",1
+"2007-04","The Decemberists",0
+"2007-04","Tunng",8
+"2007-05","Alison Krauss",16
+"2007-05","Azure Ray",24
+"2007-05","Beck",2
+"2007-05","Bob Seger",1
+"2007-05","Bonnie 'Prince' Billy",2
+"2007-05","Counting Crows",2
+"2007-05","Death Cab For Cutie",0
+"2007-05","Elliott Smith",15
+"2007-05","Feist",4
+"2007-05","Guster",1
+"2007-05","Iron & Wine",6
+"2007-05","Metric",3
+"2007-05","Nick Drake",1
+"2007-05","Pedro The Lion",11
+"2007-05","Pinback",24
+"2007-05","Regina Spektor",23
+"2007-05","Rilo Kiley",34
+"2007-05","Simon & Garfunkel",2
+"2007-05","The Decemberists",0
+"2007-05","Tunng",7
+"2007-06","Alison Krauss",1
+"2007-06","Azure Ray",0
+"2007-06","Beck",29
+"2007-06","Bob Seger",1
+"2007-06","Bonnie 'Prince' Billy",0
+"2007-06","Counting Crows",1
+"2007-06","Death Cab For Cutie",0
+"2007-06","Elliott Smith",0
+"2007-06","Feist",0
+"2007-06","Guster",3
+"2007-06","Iron & Wine",2
+"2007-06","Metric",0
+"2007-06","Nick Drake",0
+"2007-06","Pedro The Lion",1
+"2007-06","Pinback",1
+"2007-06","Regina Spektor",3
+"2007-06","Rilo Kiley",8
+"2007-06","Simon & Garfunkel",1
+"2007-06","The Decemberists",18
+"2007-06","Tunng",7
+"2007-07","Alison Krauss",0
+"2007-07","Azure Ray",0
+"2007-07","Beck",0
+"2007-07","Bob Seger",0
+"2007-07","Bonnie 'Prince' Billy",0
+"2007-07","Counting Crows",0
+"2007-07","Death Cab For Cutie",0
+"2007-07","Elliott Smith",0
+"2007-07","Feist",0
+"2007-07","Guster",0
+"2007-07","Iron & Wine",0
+"2007-07","Metric",0
+"2007-07","Nick Drake",0
+"2007-07","Pedro The Lion",0
+"2007-07","Pinback",0
+"2007-07","Regina Spektor",0
+"2007-07","Rilo Kiley",0
+"2007-07","Simon & Garfunkel",0
+"2007-07","The Decemberists",0
+"2007-07","Tunng",1
+"2007-08","Alison Krauss",0
+"2007-08","Azure Ray",0
+"2007-08","Beck",0
+"2007-08","Bob Seger",0
+"2007-08","Bonnie 'Prince' Billy",0
+"2007-08","Counting Crows",0
+"2007-08","Death Cab For Cutie",0
+"2007-08","Elliott Smith",0
+"2007-08","Feist",0
+"2007-08","Guster",0
+"2007-08","Iron & Wine",0
+"2007-08","Metric",0
+"2007-08","Nick Drake",0
+"2007-08","Pedro The Lion",0
+"2007-08","Pinback",0
+"2007-08","Regina Spektor",0
+"2007-08","Rilo Kiley",0
+"2007-08","Simon & Garfunkel",0
+"2007-08","The Decemberists",0
+"2007-08","Tunng",1
+"2007-09","Alison Krauss",0
+"2007-09","Azure Ray",0
+"2007-09","Beck",0
+"2007-09","Bob Seger",0
+"2007-09","Bonnie 'Prince' Billy",0
+"2007-09","Counting Crows",0
+"2007-09","Death Cab For Cutie",0
+"2007-09","Elliott Smith",0
+"2007-09","Feist",12
+"2007-09","Guster",0
+"2007-09","Iron & Wine",0
+"2007-09","Metric",12
+"2007-09","Nick Drake",0
+"2007-09","Pedro The Lion",0
+"2007-09","Pinback",0
+"2007-09","Regina Spektor",0
+"2007-09","Rilo Kiley",0
+"2007-09","Simon & Garfunkel",0
+"2007-09","The Decemberists",0
+"2007-09","Tunng",0
+"2007-10","Alison Krauss",0
+"2007-10","Azure Ray",0
+"2007-10","Beck",0
+"2007-10","Bob Seger",0
+"2007-10","Bonnie 'Prince' Billy",0
+"2007-10","Counting Crows",0
+"2007-10","Death Cab For Cutie",0
+"2007-10","Elliott Smith",0
+"2007-10","Feist",0
+"2007-10","Guster",0
+"2007-10","Iron & Wine",0
+"2007-10","Metric",0
+"2007-10","Nick Drake",0
+"2007-10","Pedro The Lion",0
+"2007-10","Pinback",0
+"2007-10","Regina Spektor",0
+"2007-10","Rilo Kiley",0
+"2007-10","Simon & Garfunkel",0
+"2007-10","The Decemberists",0
+"2007-10","Tunng",0
+"2007-11","Alison Krauss",9
+"2007-11","Azure Ray",25
+"2007-11","Beck",0
+"2007-11","Bob Seger",0
+"2007-11","Bonnie 'Prince' Billy",0
+"2007-11","Counting Crows",0
+"2007-11","Death Cab For Cutie",0
+"2007-11","Elliott Smith",0
+"2007-11","Feist",25
+"2007-11","Guster",0
+"2007-11","Iron & Wine",11
+"2007-11","Metric",21
+"2007-11","Nick Drake",0
+"2007-11","Pedro The Lion",0
+"2007-11","Pinback",0
+"2007-11","Regina Spektor",0
+"2007-11","Rilo Kiley",1
+"2007-11","Simon & Garfunkel",0
+"2007-11","The Decemberists",68
+"2007-11","Tunng",0
+"2007-12","Alison Krauss",3
+"2007-12","Azure Ray",0
+"2007-12","Beck",0
+"2007-12","Bob Seger",0
+"2007-12","Bonnie 'Prince' Billy",0
+"2007-12","Counting Crows",0
+"2007-12","Death Cab For Cutie",0
+"2007-12","Elliott Smith",2
+"2007-12","Feist",0
+"2007-12","Guster",0
+"2007-12","Iron & Wine",0
+"2007-12","Metric",2
+"2007-12","Nick Drake",0
+"2007-12","Pedro The Lion",0
+"2007-12","Pinback",0
+"2007-12","Regina Spektor",0
+"2007-12","Rilo Kiley",12
+"2007-12","Simon & Garfunkel",0
+"2007-12","The Decemberists",0
+"2007-12","Tunng",0
+"2008-01","Alison Krauss",0
+"2008-01","Azure Ray",20
+"2008-01","Beck",32
+"2008-01","Bob Seger",0
+"2008-01","Bonnie 'Prince' Billy",10
+"2008-01","Counting Crows",10
+"2008-01","Death Cab For Cutie",1
+"2008-01","Elliott Smith",1
+"2008-01","Feist",0
+"2008-01","Guster",0
+"2008-01","Iron & Wine",0
+"2008-01","Metric",3
+"2008-01","Nick Drake",2
+"2008-01","Pedro The Lion",0
+"2008-01","Pinback",2
+"2008-01","Regina Spektor",1
+"2008-01","Rilo Kiley",0
+"2008-01","Simon & Garfunkel",1
+"2008-01","The Decemberists",27
+"2008-01","Tunng",0
+"2008-02","Alison Krauss",0
+"2008-02","Azure Ray",23
+"2008-02","Beck",1
+"2008-02","Bob Seger",11
+"2008-02","Bonnie 'Prince' Billy",3
+"2008-02","Counting Crows",2
+"2008-02","Death Cab For Cutie",3
+"2008-02","Elliott Smith",4
+"2008-02","Feist",21
+"2008-02","Guster",1
+"2008-02","Iron & Wine",1
+"2008-02","Metric",4
+"2008-02","Nick Drake",6
+"2008-02","Pedro The Lion",0
+"2008-02","Pinback",2
+"2008-02","Regina Spektor",52
+"2008-02","Rilo Kiley",27
+"2008-02","Simon & Garfunkel",3
+"2008-02","The Decemberists",7
+"2008-02","Tunng",0
+"2008-03","Alison Krauss",0
+"2008-03","Azure Ray",0
+"2008-03","Beck",0
+"2008-03","Bob Seger",0
+"2008-03","Bonnie 'Prince' Billy",0
+"2008-03","Counting Crows",0
+"2008-03","Death Cab For Cutie",0
+"2008-03","Elliott Smith",14
+"2008-03","Feist",0
+"2008-03","Guster",0
+"2008-03","Iron & Wine",11
+"2008-03","Metric",0
+"2008-03","Nick Drake",0
+"2008-03","Pedro The Lion",0
+"2008-03","Pinback",0
+"2008-03","Regina Spektor",0
+"2008-03","Rilo Kiley",0
+"2008-03","Simon & Garfunkel",0
+"2008-03","The Decemberists",0
+"2008-03","Tunng",0
+"2008-04","Alison Krauss",0
+"2008-04","Azure Ray",2
+"2008-04","Beck",0
+"2008-04","Bob Seger",1
+"2008-04","Bonnie 'Prince' Billy",12
+"2008-04","Counting Crows",0
+"2008-04","Death Cab For Cutie",0
+"2008-04","Elliott Smith",1
+"2008-04","Feist",1
+"2008-04","Guster",4
+"2008-04","Iron & Wine",9
+"2008-04","Metric",2
+"2008-04","Nick Drake",11
+"2008-04","Pedro The Lion",0
+"2008-04","Pinback",1
+"2008-04","Regina Spektor",28
+"2008-04","Rilo Kiley",2
+"2008-04","Simon & Garfunkel",1
+"2008-04","The Decemberists",8
+"2008-04","Tunng",0
+"2008-05","Alison Krauss",0
+"2008-05","Azure Ray",0
+"2008-05","Beck",0
+"2008-05","Bob Seger",2
+"2008-05","Bonnie 'Prince' Billy",8
+"2008-05","Counting Crows",0
+"2008-05","Death Cab For Cutie",11
+"2008-05","Elliott Smith",24
+"2008-05","Feist",1
+"2008-05","Guster",0
+"2008-05","Iron & Wine",1
+"2008-05","Metric",3
+"2008-05","Nick Drake",0
+"2008-05","Pedro The Lion",1
+"2008-05","Pinback",32
+"2008-05","Regina Spektor",34
+"2008-05","Rilo Kiley",5
+"2008-05","Simon & Garfunkel",0
+"2008-05","The Decemberists",0
+"2008-05","Tunng",3
+"2008-06","Alison Krauss",11
+"2008-06","Azure Ray",0
+"2008-06","Beck",0
+"2008-06","Bob Seger",0
+"2008-06","Bonnie 'Prince' Billy",0
+"2008-06","Counting Crows",0
+"2008-06","Death Cab For Cutie",22
+"2008-06","Elliott Smith",0
+"2008-06","Feist",0
+"2008-06","Guster",0
+"2008-06","Iron & Wine",0
+"2008-06","Metric",0
+"2008-06","Nick Drake",0
+"2008-06","Pedro The Lion",9
+"2008-06","Pinback",0
+"2008-06","Regina Spektor",0
+"2008-06","Rilo Kiley",0
+"2008-06","Simon & Garfunkel",0
+"2008-06","The Decemberists",0
+"2008-06","Tunng",0
+"2008-07","Alison Krauss",0
+"2008-07","Azure Ray",11
+"2008-07","Beck",0
+"2008-07","Bob Seger",0
+"2008-07","Bonnie 'Prince' Billy",0
+"2008-07","Counting Crows",0
+"2008-07","Death Cab For Cutie",0
+"2008-07","Elliott Smith",0
+"2008-07","Feist",0
+"2008-07","Guster",0
+"2008-07","Iron & Wine",0
+"2008-07","Metric",0
+"2008-07","Nick Drake",0
+"2008-07","Pedro The Lion",0
+"2008-07","Pinback",0
+"2008-07","Regina Spektor",0
+"2008-07","Rilo Kiley",0
+"2008-07","Simon & Garfunkel",0
+"2008-07","The Decemberists",0
+"2008-07","Tunng",0
+"2008-08","Alison Krauss",0
+"2008-08","Azure Ray",0
+"2008-08","Beck",0
+"2008-08","Bob Seger",0
+"2008-08","Bonnie 'Prince' Billy",0
+"2008-08","Counting Crows",0
+"2008-08","Death Cab For Cutie",0
+"2008-08","Elliott Smith",0
+"2008-08","Feist",0
+"2008-08","Guster",0
+"2008-08","Iron & Wine",0
+"2008-08","Metric",0
+"2008-08","Nick Drake",0
+"2008-08","Pedro The Lion",0
+"2008-08","Pinback",0
+"2008-08","Regina Spektor",0
+"2008-08","Rilo Kiley",0
+"2008-08","Simon & Garfunkel",0
+"2008-08","The Decemberists",0
+"2008-08","Tunng",0
+"2008-09","Alison Krauss",0
+"2008-09","Azure Ray",0
+"2008-09","Beck",0
+"2008-09","Bob Seger",0
+"2008-09","Bonnie 'Prince' Billy",0
+"2008-09","Counting Crows",0
+"2008-09","Death Cab For Cutie",0
+"2008-09","Elliott Smith",0
+"2008-09","Feist",0
+"2008-09","Guster",0
+"2008-09","Iron & Wine",0
+"2008-09","Metric",0
+"2008-09","Nick Drake",0
+"2008-09","Pedro The Lion",0
+"2008-09","Pinback",0
+"2008-09","Regina Spektor",0
+"2008-09","Rilo Kiley",0
+"2008-09","Simon & Garfunkel",0
+"2008-09","The Decemberists",0
+"2008-09","Tunng",0
+"2008-10","Alison Krauss",0
+"2008-10","Azure Ray",0
+"2008-10","Beck",0
+"2008-10","Bob Seger",0
+"2008-10","Bonnie 'Prince' Billy",0
+"2008-10","Counting Crows",0
+"2008-10","Death Cab For Cutie",0
+"2008-10","Elliott Smith",0
+"2008-10","Feist",0
+"2008-10","Guster",0
+"2008-10","Iron & Wine",0
+"2008-10","Metric",0
+"2008-10","Nick Drake",0
+"2008-10","Pedro The Lion",0
+"2008-10","Pinback",0
+"2008-10","Regina Spektor",0
+"2008-10","Rilo Kiley",0
+"2008-10","Simon & Garfunkel",0
+"2008-10","The Decemberists",0
+"2008-10","Tunng",0
+"2008-11","Alison Krauss",0
+"2008-11","Azure Ray",0
+"2008-11","Beck",12
+"2008-11","Bob Seger",0
+"2008-11","Bonnie 'Prince' Billy",0
+"2008-11","Counting Crows",0
+"2008-11","Death Cab For Cutie",0
+"2008-11","Elliott Smith",14
+"2008-11","Feist",0
+"2008-11","Guster",0
+"2008-11","Iron & Wine",0
+"2008-11","Metric",0
+"2008-11","Nick Drake",0
+"2008-11","Pedro The Lion",0
+"2008-11","Pinback",0
+"2008-11","Regina Spektor",0
+"2008-11","Rilo Kiley",0
+"2008-11","Simon & Garfunkel",0
+"2008-11","The Decemberists",0
+"2008-11","Tunng",0
+"2008-12","Alison Krauss",0
+"2008-12","Azure Ray",0
+"2008-12","Beck",0
+"2008-12","Bob Seger",0
+"2008-12","Bonnie 'Prince' Billy",0
+"2008-12","Counting Crows",0
+"2008-12","Death Cab For Cutie",0
+"2008-12","Elliott Smith",0
+"2008-12","Feist",0
+"2008-12","Guster",0
+"2008-12","Iron & Wine",0
+"2008-12","Metric",0
+"2008-12","Nick Drake",0
+"2008-12","Pedro The Lion",1
+"2008-12","Pinback",0
+"2008-12","Regina Spektor",0
+"2008-12","Rilo Kiley",0
+"2008-12","Simon & Garfunkel",0
+"2008-12","The Decemberists",0
+"2008-12","Tunng",0
+"2009-01","Alison Krauss",0
+"2009-01","Azure Ray",0
+"2009-01","Beck",0
+"2009-01","Bob Seger",0
+"2009-01","Bonnie 'Prince' Billy",0
+"2009-01","Counting Crows",0
+"2009-01","Death Cab For Cutie",0
+"2009-01","Elliott Smith",0
+"2009-01","Feist",0
+"2009-01","Guster",0
+"2009-01","Iron & Wine",0
+"2009-01","Metric",0
+"2009-01","Nick Drake",0
+"2009-01","Pedro The Lion",0
+"2009-01","Pinback",0
+"2009-01","Regina Spektor",0
+"2009-01","Rilo Kiley",0
+"2009-01","Simon & Garfunkel",0
+"2009-01","The Decemberists",0
+"2009-01","Tunng",0
+"2009-02","Alison Krauss",0
+"2009-02","Azure Ray",0
+"2009-02","Beck",0
+"2009-02","Bob Seger",0
+"2009-02","Bonnie 'Prince' Billy",0
+"2009-02","Counting Crows",0
+"2009-02","Death Cab For Cutie",0
+"2009-02","Elliott Smith",0
+"2009-02","Feist",0
+"2009-02","Guster",0
+"2009-02","Iron & Wine",0
+"2009-02","Metric",0
+"2009-02","Nick Drake",0
+"2009-02","Pedro The Lion",0
+"2009-02","Pinback",0
+"2009-02","Regina Spektor",0
+"2009-02","Rilo Kiley",0
+"2009-02","Simon & Garfunkel",0
+"2009-02","The Decemberists",0
+"2009-02","Tunng",0
+"2009-03","Alison Krauss",0
+"2009-03","Azure Ray",1
+"2009-03","Beck",0
+"2009-03","Bob Seger",0
+"2009-03","Bonnie 'Prince' Billy",0
+"2009-03","Counting Crows",0
+"2009-03","Death Cab For Cutie",1
+"2009-03","Elliott Smith",2
+"2009-03","Feist",4
+"2009-03","Guster",2
+"2009-03","Iron & Wine",2
+"2009-03","Metric",0
+"2009-03","Nick Drake",0
+"2009-03","Pedro The Lion",0
+"2009-03","Pinback",0
+"2009-03","Regina Spektor",0
+"2009-03","Rilo Kiley",0
+"2009-03","Simon & Garfunkel",0
+"2009-03","The Decemberists",0
+"2009-03","Tunng",0
+"2009-04","Alison Krauss",5
+"2009-04","Azure Ray",1
+"2009-04","Beck",0
+"2009-04","Bob Seger",3
+"2009-04","Bonnie 'Prince' Billy",5
+"2009-04","Counting Crows",0
+"2009-04","Death Cab For Cutie",0
+"2009-04","Elliott Smith",17
+"2009-04","Feist",2
+"2009-04","Guster",3
+"2009-04","Iron & Wine",1
+"2009-04","Metric",0
+"2009-04","Nick Drake",1
+"2009-04","Pedro The Lion",4
+"2009-04","Pinback",0
+"2009-04","Regina Spektor",0
+"2009-04","Rilo Kiley",2
+"2009-04","Simon & Garfunkel",0
+"2009-04","The Decemberists",0
+"2009-04","Tunng",4

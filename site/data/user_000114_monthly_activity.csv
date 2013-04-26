@@ -1,561 +1,561 @@
-month,artist,plays
-2007-01,Air,1
-2007-01,Anja Garbarek,0
-2007-01,Björk,1
-2007-01,Boards Of Canada,2
-2007-01,Cat Power,0
-2007-01,Emilíana Torrini,0
-2007-01,Émilie Simon,0
-2007-01,Feist,0
-2007-01,Frou Frou,1
-2007-01,Goldfrapp,1
-2007-01,Hans Zimmer,0
-2007-01,Hooverphonic,0
-2007-01,Imogen Heap,1
-2007-01,Kings Of Convenience,0
-2007-01,Lamb,1
-2007-01,Massive Attack,3
-2007-01,Morcheeba,1
-2007-01,Röyksopp,1
-2007-01,Sia,0
-2007-01,Thievery Corporation,0
-2007-02,Air,1
-2007-02,Anja Garbarek,0
-2007-02,Björk,8
-2007-02,Boards Of Canada,3
-2007-02,Cat Power,0
-2007-02,Emilíana Torrini,0
-2007-02,Émilie Simon,0
-2007-02,Feist,0
-2007-02,Frou Frou,0
-2007-02,Goldfrapp,1
-2007-02,Hans Zimmer,0
-2007-02,Hooverphonic,0
-2007-02,Imogen Heap,1
-2007-02,Kings Of Convenience,0
-2007-02,Lamb,1
-2007-02,Massive Attack,0
-2007-02,Morcheeba,1
-2007-02,Röyksopp,3
-2007-02,Sia,0
-2007-02,Thievery Corporation,1
-2007-03,Air,4
-2007-03,Anja Garbarek,0
-2007-03,Björk,10
-2007-03,Boards Of Canada,4
-2007-03,Cat Power,1
-2007-03,Emilíana Torrini,2
-2007-03,Émilie Simon,0
-2007-03,Feist,0
-2007-03,Frou Frou,2
-2007-03,Goldfrapp,3
-2007-03,Hans Zimmer,0
-2007-03,Hooverphonic,4
-2007-03,Imogen Heap,2
-2007-03,Kings Of Convenience,0
-2007-03,Lamb,2
-2007-03,Massive Attack,6
-2007-03,Morcheeba,4
-2007-03,Röyksopp,5
-2007-03,Sia,1
-2007-03,Thievery Corporation,5
-2007-04,Air,3
-2007-04,Anja Garbarek,0
-2007-04,Björk,33
-2007-04,Boards Of Canada,6
-2007-04,Cat Power,0
-2007-04,Emilíana Torrini,1
-2007-04,Émilie Simon,0
-2007-04,Feist,0
-2007-04,Frou Frou,2
-2007-04,Goldfrapp,2
-2007-04,Hans Zimmer,6
-2007-04,Hooverphonic,1
-2007-04,Imogen Heap,0
-2007-04,Kings Of Convenience,3
-2007-04,Lamb,8
-2007-04,Massive Attack,26
-2007-04,Morcheeba,3
-2007-04,Röyksopp,4
-2007-04,Sia,9
-2007-04,Thievery Corporation,2
-2007-05,Air,0
-2007-05,Anja Garbarek,0
-2007-05,Björk,109
-2007-05,Boards Of Canada,4
-2007-05,Cat Power,0
-2007-05,Emilíana Torrini,0
-2007-05,Émilie Simon,0
-2007-05,Feist,1
-2007-05,Frou Frou,0
-2007-05,Goldfrapp,0
-2007-05,Hans Zimmer,9
-2007-05,Hooverphonic,1
-2007-05,Imogen Heap,0
-2007-05,Kings Of Convenience,2
-2007-05,Lamb,13
-2007-05,Massive Attack,10
-2007-05,Morcheeba,1
-2007-05,Röyksopp,3
-2007-05,Sia,4
-2007-05,Thievery Corporation,2
-2007-06,Air,1
-2007-06,Anja Garbarek,0
-2007-06,Björk,29
-2007-06,Boards Of Canada,1
-2007-06,Cat Power,0
-2007-06,Emilíana Torrini,0
-2007-06,Émilie Simon,0
-2007-06,Feist,0
-2007-06,Frou Frou,0
-2007-06,Goldfrapp,0
-2007-06,Hans Zimmer,3
-2007-06,Hooverphonic,0
-2007-06,Imogen Heap,0
-2007-06,Kings Of Convenience,1
-2007-06,Lamb,1
-2007-06,Massive Attack,11
-2007-06,Morcheeba,0
-2007-06,Röyksopp,3
-2007-06,Sia,0
-2007-06,Thievery Corporation,2
-2007-07,Air,4
-2007-07,Anja Garbarek,0
-2007-07,Björk,10
-2007-07,Boards Of Canada,0
-2007-07,Cat Power,0
-2007-07,Emilíana Torrini,0
-2007-07,Émilie Simon,0
-2007-07,Feist,0
-2007-07,Frou Frou,0
-2007-07,Goldfrapp,1
-2007-07,Hans Zimmer,1
-2007-07,Hooverphonic,0
-2007-07,Imogen Heap,3
-2007-07,Kings Of Convenience,2
-2007-07,Lamb,0
-2007-07,Massive Attack,3
-2007-07,Morcheeba,0
-2007-07,Röyksopp,2
-2007-07,Sia,1
-2007-07,Thievery Corporation,1
-2007-08,Air,0
-2007-08,Anja Garbarek,0
-2007-08,Björk,4
-2007-08,Boards Of Canada,0
-2007-08,Cat Power,0
-2007-08,Emilíana Torrini,0
-2007-08,Émilie Simon,0
-2007-08,Feist,0
-2007-08,Frou Frou,1
-2007-08,Goldfrapp,0
-2007-08,Hans Zimmer,2
-2007-08,Hooverphonic,0
-2007-08,Imogen Heap,2
-2007-08,Kings Of Convenience,2
-2007-08,Lamb,0
-2007-08,Massive Attack,0
-2007-08,Morcheeba,0
-2007-08,Röyksopp,1
-2007-08,Sia,1
-2007-08,Thievery Corporation,1
-2007-09,Air,2
-2007-09,Anja Garbarek,0
-2007-09,Björk,7
-2007-09,Boards Of Canada,1
-2007-09,Cat Power,0
-2007-09,Emilíana Torrini,0
-2007-09,Émilie Simon,0
-2007-09,Feist,0
-2007-09,Frou Frou,0
-2007-09,Goldfrapp,0
-2007-09,Hans Zimmer,2
-2007-09,Hooverphonic,0
-2007-09,Imogen Heap,2
-2007-09,Kings Of Convenience,0
-2007-09,Lamb,1
-2007-09,Massive Attack,2
-2007-09,Morcheeba,0
-2007-09,Röyksopp,0
-2007-09,Sia,2
-2007-09,Thievery Corporation,0
-2007-10,Air,0
-2007-10,Anja Garbarek,0
-2007-10,Björk,0
-2007-10,Boards Of Canada,0
-2007-10,Cat Power,0
-2007-10,Emilíana Torrini,0
-2007-10,Émilie Simon,0
-2007-10,Feist,0
-2007-10,Frou Frou,0
-2007-10,Goldfrapp,0
-2007-10,Hans Zimmer,1
-2007-10,Hooverphonic,0
-2007-10,Imogen Heap,0
-2007-10,Kings Of Convenience,0
-2007-10,Lamb,0
-2007-10,Massive Attack,0
-2007-10,Morcheeba,0
-2007-10,Röyksopp,0
-2007-10,Sia,0
-2007-10,Thievery Corporation,0
-2007-11,Air,3
-2007-11,Anja Garbarek,1
-2007-11,Björk,5
-2007-11,Boards Of Canada,0
-2007-11,Cat Power,0
-2007-11,Emilíana Torrini,1
-2007-11,Émilie Simon,4
-2007-11,Feist,0
-2007-11,Frou Frou,1
-2007-11,Goldfrapp,1
-2007-11,Hans Zimmer,3
-2007-11,Hooverphonic,1
-2007-11,Imogen Heap,1
-2007-11,Kings Of Convenience,1
-2007-11,Lamb,2
-2007-11,Massive Attack,2
-2007-11,Morcheeba,1
-2007-11,Röyksopp,2
-2007-11,Sia,1
-2007-11,Thievery Corporation,1
-2007-12,Air,4
-2007-12,Anja Garbarek,4
-2007-12,Björk,17
-2007-12,Boards Of Canada,1
-2007-12,Cat Power,0
-2007-12,Emilíana Torrini,3
-2007-12,Émilie Simon,14
-2007-12,Feist,0
-2007-12,Frou Frou,2
-2007-12,Goldfrapp,4
-2007-12,Hans Zimmer,0
-2007-12,Hooverphonic,3
-2007-12,Imogen Heap,3
-2007-12,Kings Of Convenience,0
-2007-12,Lamb,3
-2007-12,Massive Attack,0
-2007-12,Morcheeba,3
-2007-12,Röyksopp,3
-2007-12,Sia,2
-2007-12,Thievery Corporation,0
-2008-01,Air,3
-2008-01,Anja Garbarek,5
-2008-01,Björk,12
-2008-01,Boards Of Canada,1
-2008-01,Cat Power,8
-2008-01,Emilíana Torrini,2
-2008-01,Émilie Simon,83
-2008-01,Feist,0
-2008-01,Frou Frou,2
-2008-01,Goldfrapp,1
-2008-01,Hans Zimmer,0
-2008-01,Hooverphonic,2
-2008-01,Imogen Heap,1
-2008-01,Kings Of Convenience,0
-2008-01,Lamb,4
-2008-01,Massive Attack,0
-2008-01,Morcheeba,2
-2008-01,Röyksopp,3
-2008-01,Sia,4
-2008-01,Thievery Corporation,1
-2008-02,Air,0
-2008-02,Anja Garbarek,1
-2008-02,Björk,5
-2008-02,Boards Of Canada,0
-2008-02,Cat Power,6
-2008-02,Emilíana Torrini,0
-2008-02,Émilie Simon,18
-2008-02,Feist,0
-2008-02,Frou Frou,0
-2008-02,Goldfrapp,0
-2008-02,Hans Zimmer,0
-2008-02,Hooverphonic,0
-2008-02,Imogen Heap,0
-2008-02,Kings Of Convenience,0
-2008-02,Lamb,0
-2008-02,Massive Attack,0
-2008-02,Morcheeba,0
-2008-02,Röyksopp,0
-2008-02,Sia,0
-2008-02,Thievery Corporation,1
-2008-03,Air,0
-2008-03,Anja Garbarek,0
-2008-03,Björk,2
-2008-03,Boards Of Canada,0
-2008-03,Cat Power,2
-2008-03,Emilíana Torrini,1
-2008-03,Émilie Simon,5
-2008-03,Feist,1
-2008-03,Frou Frou,1
-2008-03,Goldfrapp,0
-2008-03,Hans Zimmer,0
-2008-03,Hooverphonic,0
-2008-03,Imogen Heap,1
-2008-03,Kings Of Convenience,0
-2008-03,Lamb,1
-2008-03,Massive Attack,1
-2008-03,Morcheeba,0
-2008-03,Röyksopp,0
-2008-03,Sia,1
-2008-03,Thievery Corporation,0
-2008-04,Air,1
-2008-04,Anja Garbarek,2
-2008-04,Björk,0
-2008-04,Boards Of Canada,0
-2008-04,Cat Power,0
-2008-04,Emilíana Torrini,0
-2008-04,Émilie Simon,4
-2008-04,Feist,0
-2008-04,Frou Frou,1
-2008-04,Goldfrapp,0
-2008-04,Hans Zimmer,2
-2008-04,Hooverphonic,0
-2008-04,Imogen Heap,1
-2008-04,Kings Of Convenience,0
-2008-04,Lamb,0
-2008-04,Massive Attack,0
-2008-04,Morcheeba,1
-2008-04,Röyksopp,0
-2008-04,Sia,0
-2008-04,Thievery Corporation,2
-2008-05,Air,0
-2008-05,Anja Garbarek,0
-2008-05,Björk,0
-2008-05,Boards Of Canada,0
-2008-05,Cat Power,1
-2008-05,Emilíana Torrini,0
-2008-05,Émilie Simon,1
-2008-05,Feist,0
-2008-05,Frou Frou,0
-2008-05,Goldfrapp,0
-2008-05,Hans Zimmer,0
-2008-05,Hooverphonic,0
-2008-05,Imogen Heap,0
-2008-05,Kings Of Convenience,0
-2008-05,Lamb,1
-2008-05,Massive Attack,0
-2008-05,Morcheeba,0
-2008-05,Röyksopp,0
-2008-05,Sia,0
-2008-05,Thievery Corporation,0
-2008-06,Air,4
-2008-06,Anja Garbarek,3
-2008-06,Björk,0
-2008-06,Boards Of Canada,1
-2008-06,Cat Power,0
-2008-06,Emilíana Torrini,0
-2008-06,Émilie Simon,0
-2008-06,Feist,2
-2008-06,Frou Frou,2
-2008-06,Goldfrapp,3
-2008-06,Hans Zimmer,0
-2008-06,Hooverphonic,4
-2008-06,Imogen Heap,0
-2008-06,Kings Of Convenience,3
-2008-06,Lamb,1
-2008-06,Massive Attack,4
-2008-06,Morcheeba,1
-2008-06,Röyksopp,3
-2008-06,Sia,9
-2008-06,Thievery Corporation,1
-2008-07,Air,3
-2008-07,Anja Garbarek,2
-2008-07,Björk,0
-2008-07,Boards Of Canada,1
-2008-07,Cat Power,0
-2008-07,Emilíana Torrini,0
-2008-07,Émilie Simon,0
-2008-07,Feist,3
-2008-07,Frou Frou,2
-2008-07,Goldfrapp,1
-2008-07,Hans Zimmer,0
-2008-07,Hooverphonic,7
-2008-07,Imogen Heap,1
-2008-07,Kings Of Convenience,3
-2008-07,Lamb,4
-2008-07,Massive Attack,1
-2008-07,Morcheeba,2
-2008-07,Röyksopp,1
-2008-07,Sia,10
-2008-07,Thievery Corporation,4
-2008-08,Air,0
-2008-08,Anja Garbarek,1
-2008-08,Björk,0
-2008-08,Boards Of Canada,0
-2008-08,Cat Power,1
-2008-08,Emilíana Torrini,1
-2008-08,Émilie Simon,2
-2008-08,Feist,30
-2008-08,Frou Frou,0
-2008-08,Goldfrapp,2
-2008-08,Hans Zimmer,0
-2008-08,Hooverphonic,1
-2008-08,Imogen Heap,2
-2008-08,Kings Of Convenience,0
-2008-08,Lamb,1
-2008-08,Massive Attack,0
-2008-08,Morcheeba,2
-2008-08,Röyksopp,0
-2008-08,Sia,57
-2008-08,Thievery Corporation,0
-2008-09,Air,1
-2008-09,Anja Garbarek,2
-2008-09,Björk,1
-2008-09,Boards Of Canada,0
-2008-09,Cat Power,1
-2008-09,Emilíana Torrini,6
-2008-09,Émilie Simon,4
-2008-09,Feist,14
-2008-09,Frou Frou,3
-2008-09,Goldfrapp,3
-2008-09,Hans Zimmer,0
-2008-09,Hooverphonic,7
-2008-09,Imogen Heap,3
-2008-09,Kings Of Convenience,2
-2008-09,Lamb,5
-2008-09,Massive Attack,2
-2008-09,Morcheeba,2
-2008-09,Röyksopp,6
-2008-09,Sia,13
-2008-09,Thievery Corporation,0
-2008-10,Air,1
-2008-10,Anja Garbarek,1
-2008-10,Björk,1
-2008-10,Boards Of Canada,0
-2008-10,Cat Power,1
-2008-10,Emilíana Torrini,2
-2008-10,Émilie Simon,3
-2008-10,Feist,3
-2008-10,Frou Frou,0
-2008-10,Goldfrapp,3
-2008-10,Hans Zimmer,2
-2008-10,Hooverphonic,3
-2008-10,Imogen Heap,2
-2008-10,Kings Of Convenience,1
-2008-10,Lamb,1
-2008-10,Massive Attack,1
-2008-10,Morcheeba,1
-2008-10,Röyksopp,0
-2008-10,Sia,5
-2008-10,Thievery Corporation,0
-2008-11,Air,0
-2008-11,Anja Garbarek,1
-2008-11,Björk,5
-2008-11,Boards Of Canada,0
-2008-11,Cat Power,3
-2008-11,Emilíana Torrini,1
-2008-11,Émilie Simon,8
-2008-11,Feist,7
-2008-11,Frou Frou,2
-2008-11,Goldfrapp,4
-2008-11,Hans Zimmer,1
-2008-11,Hooverphonic,3
-2008-11,Imogen Heap,3
-2008-11,Kings Of Convenience,0
-2008-11,Lamb,2
-2008-11,Massive Attack,0
-2008-11,Morcheeba,8
-2008-11,Röyksopp,0
-2008-11,Sia,17
-2008-11,Thievery Corporation,0
-2008-12,Air,0
-2008-12,Anja Garbarek,0
-2008-12,Björk,0
-2008-12,Boards Of Canada,0
-2008-12,Cat Power,1
-2008-12,Emilíana Torrini,0
-2008-12,Émilie Simon,0
-2008-12,Feist,4
-2008-12,Frou Frou,0
-2008-12,Goldfrapp,0
-2008-12,Hans Zimmer,0
-2008-12,Hooverphonic,0
-2008-12,Imogen Heap,0
-2008-12,Kings Of Convenience,0
-2008-12,Lamb,0
-2008-12,Massive Attack,0
-2008-12,Morcheeba,0
-2008-12,Röyksopp,0
-2008-12,Sia,2
-2008-12,Thievery Corporation,0
-2009-01,Air,0
-2009-01,Anja Garbarek,0
-2009-01,Björk,0
-2009-01,Boards Of Canada,0
-2009-01,Cat Power,4
-2009-01,Emilíana Torrini,1
-2009-01,Émilie Simon,3
-2009-01,Feist,6
-2009-01,Frou Frou,1
-2009-01,Goldfrapp,0
-2009-01,Hans Zimmer,0
-2009-01,Hooverphonic,0
-2009-01,Imogen Heap,3
-2009-01,Kings Of Convenience,3
-2009-01,Lamb,0
-2009-01,Massive Attack,0
-2009-01,Morcheeba,0
-2009-01,Röyksopp,0
-2009-01,Sia,1
-2009-01,Thievery Corporation,0
-2009-02,Air,0
-2009-02,Anja Garbarek,0
-2009-02,Björk,0
-2009-02,Boards Of Canada,0
-2009-02,Cat Power,1
-2009-02,Emilíana Torrini,0
-2009-02,Émilie Simon,0
-2009-02,Feist,1
-2009-02,Frou Frou,0
-2009-02,Goldfrapp,0
-2009-02,Hans Zimmer,0
-2009-02,Hooverphonic,0
-2009-02,Imogen Heap,0
-2009-02,Kings Of Convenience,1
-2009-02,Lamb,0
-2009-02,Massive Attack,0
-2009-02,Morcheeba,0
-2009-02,Röyksopp,0
-2009-02,Sia,0
-2009-02,Thievery Corporation,0
-2009-03,Air,0
-2009-03,Anja Garbarek,0
-2009-03,Björk,1
-2009-03,Boards Of Canada,0
-2009-03,Cat Power,0
-2009-03,Emilíana Torrini,0
-2009-03,Émilie Simon,5
-2009-03,Feist,5
-2009-03,Frou Frou,0
-2009-03,Goldfrapp,0
-2009-03,Hans Zimmer,2
-2009-03,Hooverphonic,0
-2009-03,Imogen Heap,0
-2009-03,Kings Of Convenience,0
-2009-03,Lamb,0
-2009-03,Massive Attack,0
-2009-03,Morcheeba,0
-2009-03,Röyksopp,0
-2009-03,Sia,2
-2009-03,Thievery Corporation,0
-2009-04,Air,0
-2009-04,Anja Garbarek,0
-2009-04,Björk,4
-2009-04,Boards Of Canada,0
-2009-04,Cat Power,1
-2009-04,Emilíana Torrini,0
-2009-04,Émilie Simon,0
-2009-04,Feist,1
-2009-04,Frou Frou,3
-2009-04,Goldfrapp,2
-2009-04,Hans Zimmer,0
-2009-04,Hooverphonic,2
-2009-04,Imogen Heap,3
-2009-04,Kings Of Convenience,1
-2009-04,Lamb,0
-2009-04,Massive Attack,0
-2009-04,Morcheeba,0
-2009-04,Röyksopp,0
-2009-04,Sia,5
-2009-04,Thievery Corporation,0
+"month","artist","plays"
+"2007-01","Air",1
+"2007-01","Anja Garbarek",0
+"2007-01","Björk",1
+"2007-01","Boards Of Canada",2
+"2007-01","Cat Power",0
+"2007-01","Emilíana Torrini",0
+"2007-01","Émilie Simon",0
+"2007-01","Feist",0
+"2007-01","Frou Frou",1
+"2007-01","Goldfrapp",1
+"2007-01","Hans Zimmer",0
+"2007-01","Hooverphonic",0
+"2007-01","Imogen Heap",1
+"2007-01","Kings Of Convenience",0
+"2007-01","Lamb",1
+"2007-01","Massive Attack",3
+"2007-01","Morcheeba",1
+"2007-01","Röyksopp",1
+"2007-01","Sia",0
+"2007-01","Thievery Corporation",0
+"2007-02","Air",1
+"2007-02","Anja Garbarek",0
+"2007-02","Björk",8
+"2007-02","Boards Of Canada",3
+"2007-02","Cat Power",0
+"2007-02","Emilíana Torrini",0
+"2007-02","Émilie Simon",0
+"2007-02","Feist",0
+"2007-02","Frou Frou",0
+"2007-02","Goldfrapp",1
+"2007-02","Hans Zimmer",0
+"2007-02","Hooverphonic",0
+"2007-02","Imogen Heap",1
+"2007-02","Kings Of Convenience",0
+"2007-02","Lamb",1
+"2007-02","Massive Attack",0
+"2007-02","Morcheeba",1
+"2007-02","Röyksopp",3
+"2007-02","Sia",0
+"2007-02","Thievery Corporation",1
+"2007-03","Air",4
+"2007-03","Anja Garbarek",0
+"2007-03","Björk",10
+"2007-03","Boards Of Canada",4
+"2007-03","Cat Power",1
+"2007-03","Emilíana Torrini",2
+"2007-03","Émilie Simon",0
+"2007-03","Feist",0
+"2007-03","Frou Frou",2
+"2007-03","Goldfrapp",3
+"2007-03","Hans Zimmer",0
+"2007-03","Hooverphonic",4
+"2007-03","Imogen Heap",2
+"2007-03","Kings Of Convenience",0
+"2007-03","Lamb",2
+"2007-03","Massive Attack",6
+"2007-03","Morcheeba",4
+"2007-03","Röyksopp",5
+"2007-03","Sia",1
+"2007-03","Thievery Corporation",5
+"2007-04","Air",3
+"2007-04","Anja Garbarek",0
+"2007-04","Björk",33
+"2007-04","Boards Of Canada",6
+"2007-04","Cat Power",0
+"2007-04","Emilíana Torrini",1
+"2007-04","Émilie Simon",0
+"2007-04","Feist",0
+"2007-04","Frou Frou",2
+"2007-04","Goldfrapp",2
+"2007-04","Hans Zimmer",6
+"2007-04","Hooverphonic",1
+"2007-04","Imogen Heap",0
+"2007-04","Kings Of Convenience",3
+"2007-04","Lamb",8
+"2007-04","Massive Attack",26
+"2007-04","Morcheeba",3
+"2007-04","Röyksopp",4
+"2007-04","Sia",9
+"2007-04","Thievery Corporation",2
+"2007-05","Air",0
+"2007-05","Anja Garbarek",0
+"2007-05","Björk",109
+"2007-05","Boards Of Canada",4
+"2007-05","Cat Power",0
+"2007-05","Emilíana Torrini",0
+"2007-05","Émilie Simon",0
+"2007-05","Feist",1
+"2007-05","Frou Frou",0
+"2007-05","Goldfrapp",0
+"2007-05","Hans Zimmer",9
+"2007-05","Hooverphonic",1
+"2007-05","Imogen Heap",0
+"2007-05","Kings Of Convenience",2
+"2007-05","Lamb",13
+"2007-05","Massive Attack",10
+"2007-05","Morcheeba",1
+"2007-05","Röyksopp",3
+"2007-05","Sia",4
+"2007-05","Thievery Corporation",2
+"2007-06","Air",1
+"2007-06","Anja Garbarek",0
+"2007-06","Björk",29
+"2007-06","Boards Of Canada",1
+"2007-06","Cat Power",0
+"2007-06","Emilíana Torrini",0
+"2007-06","Émilie Simon",0
+"2007-06","Feist",0
+"2007-06","Frou Frou",0
+"2007-06","Goldfrapp",0
+"2007-06","Hans Zimmer",3
+"2007-06","Hooverphonic",0
+"2007-06","Imogen Heap",0
+"2007-06","Kings Of Convenience",1
+"2007-06","Lamb",1
+"2007-06","Massive Attack",11
+"2007-06","Morcheeba",0
+"2007-06","Röyksopp",3
+"2007-06","Sia",0
+"2007-06","Thievery Corporation",2
+"2007-07","Air",4
+"2007-07","Anja Garbarek",0
+"2007-07","Björk",10
+"2007-07","Boards Of Canada",0
+"2007-07","Cat Power",0
+"2007-07","Emilíana Torrini",0
+"2007-07","Émilie Simon",0
+"2007-07","Feist",0
+"2007-07","Frou Frou",0
+"2007-07","Goldfrapp",1
+"2007-07","Hans Zimmer",1
+"2007-07","Hooverphonic",0
+"2007-07","Imogen Heap",3
+"2007-07","Kings Of Convenience",2
+"2007-07","Lamb",0
+"2007-07","Massive Attack",3
+"2007-07","Morcheeba",0
+"2007-07","Röyksopp",2
+"2007-07","Sia",1
+"2007-07","Thievery Corporation",1
+"2007-08","Air",0
+"2007-08","Anja Garbarek",0
+"2007-08","Björk",4
+"2007-08","Boards Of Canada",0
+"2007-08","Cat Power",0
+"2007-08","Emilíana Torrini",0
+"2007-08","Émilie Simon",0
+"2007-08","Feist",0
+"2007-08","Frou Frou",1
+"2007-08","Goldfrapp",0
+"2007-08","Hans Zimmer",2
+"2007-08","Hooverphonic",0
+"2007-08","Imogen Heap",2
+"2007-08","Kings Of Convenience",2
+"2007-08","Lamb",0
+"2007-08","Massive Attack",0
+"2007-08","Morcheeba",0
+"2007-08","Röyksopp",1
+"2007-08","Sia",1
+"2007-08","Thievery Corporation",1
+"2007-09","Air",2
+"2007-09","Anja Garbarek",0
+"2007-09","Björk",7
+"2007-09","Boards Of Canada",1
+"2007-09","Cat Power",0
+"2007-09","Emilíana Torrini",0
+"2007-09","Émilie Simon",0
+"2007-09","Feist",0
+"2007-09","Frou Frou",0
+"2007-09","Goldfrapp",0
+"2007-09","Hans Zimmer",2
+"2007-09","Hooverphonic",0
+"2007-09","Imogen Heap",2
+"2007-09","Kings Of Convenience",0
+"2007-09","Lamb",1
+"2007-09","Massive Attack",2
+"2007-09","Morcheeba",0
+"2007-09","Röyksopp",0
+"2007-09","Sia",2
+"2007-09","Thievery Corporation",0
+"2007-10","Air",0
+"2007-10","Anja Garbarek",0
+"2007-10","Björk",0
+"2007-10","Boards Of Canada",0
+"2007-10","Cat Power",0
+"2007-10","Emilíana Torrini",0
+"2007-10","Émilie Simon",0
+"2007-10","Feist",0
+"2007-10","Frou Frou",0
+"2007-10","Goldfrapp",0
+"2007-10","Hans Zimmer",1
+"2007-10","Hooverphonic",0
+"2007-10","Imogen Heap",0
+"2007-10","Kings Of Convenience",0
+"2007-10","Lamb",0
+"2007-10","Massive Attack",0
+"2007-10","Morcheeba",0
+"2007-10","Röyksopp",0
+"2007-10","Sia",0
+"2007-10","Thievery Corporation",0
+"2007-11","Air",3
+"2007-11","Anja Garbarek",1
+"2007-11","Björk",5
+"2007-11","Boards Of Canada",0
+"2007-11","Cat Power",0
+"2007-11","Emilíana Torrini",1
+"2007-11","Émilie Simon",4
+"2007-11","Feist",0
+"2007-11","Frou Frou",1
+"2007-11","Goldfrapp",1
+"2007-11","Hans Zimmer",3
+"2007-11","Hooverphonic",1
+"2007-11","Imogen Heap",1
+"2007-11","Kings Of Convenience",1
+"2007-11","Lamb",2
+"2007-11","Massive Attack",2
+"2007-11","Morcheeba",1
+"2007-11","Röyksopp",2
+"2007-11","Sia",1
+"2007-11","Thievery Corporation",1
+"2007-12","Air",4
+"2007-12","Anja Garbarek",4
+"2007-12","Björk",17
+"2007-12","Boards Of Canada",1
+"2007-12","Cat Power",0
+"2007-12","Emilíana Torrini",3
+"2007-12","Émilie Simon",14
+"2007-12","Feist",0
+"2007-12","Frou Frou",2
+"2007-12","Goldfrapp",4
+"2007-12","Hans Zimmer",0
+"2007-12","Hooverphonic",3
+"2007-12","Imogen Heap",3
+"2007-12","Kings Of Convenience",0
+"2007-12","Lamb",3
+"2007-12","Massive Attack",0
+"2007-12","Morcheeba",3
+"2007-12","Röyksopp",3
+"2007-12","Sia",2
+"2007-12","Thievery Corporation",0
+"2008-01","Air",3
+"2008-01","Anja Garbarek",5
+"2008-01","Björk",12
+"2008-01","Boards Of Canada",1
+"2008-01","Cat Power",8
+"2008-01","Emilíana Torrini",2
+"2008-01","Émilie Simon",83
+"2008-01","Feist",0
+"2008-01","Frou Frou",2
+"2008-01","Goldfrapp",1
+"2008-01","Hans Zimmer",0
+"2008-01","Hooverphonic",2
+"2008-01","Imogen Heap",1
+"2008-01","Kings Of Convenience",0
+"2008-01","Lamb",4
+"2008-01","Massive Attack",0
+"2008-01","Morcheeba",2
+"2008-01","Röyksopp",3
+"2008-01","Sia",4
+"2008-01","Thievery Corporation",1
+"2008-02","Air",0
+"2008-02","Anja Garbarek",1
+"2008-02","Björk",5
+"2008-02","Boards Of Canada",0
+"2008-02","Cat Power",6
+"2008-02","Emilíana Torrini",0
+"2008-02","Émilie Simon",18
+"2008-02","Feist",0
+"2008-02","Frou Frou",0
+"2008-02","Goldfrapp",0
+"2008-02","Hans Zimmer",0
+"2008-02","Hooverphonic",0
+"2008-02","Imogen Heap",0
+"2008-02","Kings Of Convenience",0
+"2008-02","Lamb",0
+"2008-02","Massive Attack",0
+"2008-02","Morcheeba",0
+"2008-02","Röyksopp",0
+"2008-02","Sia",0
+"2008-02","Thievery Corporation",1
+"2008-03","Air",0
+"2008-03","Anja Garbarek",0
+"2008-03","Björk",2
+"2008-03","Boards Of Canada",0
+"2008-03","Cat Power",2
+"2008-03","Emilíana Torrini",1
+"2008-03","Émilie Simon",5
+"2008-03","Feist",1
+"2008-03","Frou Frou",1
+"2008-03","Goldfrapp",0
+"2008-03","Hans Zimmer",0
+"2008-03","Hooverphonic",0
+"2008-03","Imogen Heap",1
+"2008-03","Kings Of Convenience",0
+"2008-03","Lamb",1
+"2008-03","Massive Attack",1
+"2008-03","Morcheeba",0
+"2008-03","Röyksopp",0
+"2008-03","Sia",1
+"2008-03","Thievery Corporation",0
+"2008-04","Air",1
+"2008-04","Anja Garbarek",2
+"2008-04","Björk",0
+"2008-04","Boards Of Canada",0
+"2008-04","Cat Power",0
+"2008-04","Emilíana Torrini",0
+"2008-04","Émilie Simon",4
+"2008-04","Feist",0
+"2008-04","Frou Frou",1
+"2008-04","Goldfrapp",0
+"2008-04","Hans Zimmer",2
+"2008-04","Hooverphonic",0
+"2008-04","Imogen Heap",1
+"2008-04","Kings Of Convenience",0
+"2008-04","Lamb",0
+"2008-04","Massive Attack",0
+"2008-04","Morcheeba",1
+"2008-04","Röyksopp",0
+"2008-04","Sia",0
+"2008-04","Thievery Corporation",2
+"2008-05","Air",0
+"2008-05","Anja Garbarek",0
+"2008-05","Björk",0
+"2008-05","Boards Of Canada",0
+"2008-05","Cat Power",1
+"2008-05","Emilíana Torrini",0
+"2008-05","Émilie Simon",1
+"2008-05","Feist",0
+"2008-05","Frou Frou",0
+"2008-05","Goldfrapp",0
+"2008-05","Hans Zimmer",0
+"2008-05","Hooverphonic",0
+"2008-05","Imogen Heap",0
+"2008-05","Kings Of Convenience",0
+"2008-05","Lamb",1
+"2008-05","Massive Attack",0
+"2008-05","Morcheeba",0
+"2008-05","Röyksopp",0
+"2008-05","Sia",0
+"2008-05","Thievery Corporation",0
+"2008-06","Air",4
+"2008-06","Anja Garbarek",3
+"2008-06","Björk",0
+"2008-06","Boards Of Canada",1
+"2008-06","Cat Power",0
+"2008-06","Emilíana Torrini",0
+"2008-06","Émilie Simon",0
+"2008-06","Feist",2
+"2008-06","Frou Frou",2
+"2008-06","Goldfrapp",3
+"2008-06","Hans Zimmer",0
+"2008-06","Hooverphonic",4
+"2008-06","Imogen Heap",0
+"2008-06","Kings Of Convenience",3
+"2008-06","Lamb",1
+"2008-06","Massive Attack",4
+"2008-06","Morcheeba",1
+"2008-06","Röyksopp",3
+"2008-06","Sia",9
+"2008-06","Thievery Corporation",1
+"2008-07","Air",3
+"2008-07","Anja Garbarek",2
+"2008-07","Björk",0
+"2008-07","Boards Of Canada",1
+"2008-07","Cat Power",0
+"2008-07","Emilíana Torrini",0
+"2008-07","Émilie Simon",0
+"2008-07","Feist",3
+"2008-07","Frou Frou",2
+"2008-07","Goldfrapp",1
+"2008-07","Hans Zimmer",0
+"2008-07","Hooverphonic",7
+"2008-07","Imogen Heap",1
+"2008-07","Kings Of Convenience",3
+"2008-07","Lamb",4
+"2008-07","Massive Attack",1
+"2008-07","Morcheeba",2
+"2008-07","Röyksopp",1
+"2008-07","Sia",10
+"2008-07","Thievery Corporation",4
+"2008-08","Air",0
+"2008-08","Anja Garbarek",1
+"2008-08","Björk",0
+"2008-08","Boards Of Canada",0
+"2008-08","Cat Power",1
+"2008-08","Emilíana Torrini",1
+"2008-08","Émilie Simon",2
+"2008-08","Feist",30
+"2008-08","Frou Frou",0
+"2008-08","Goldfrapp",2
+"2008-08","Hans Zimmer",0
+"2008-08","Hooverphonic",1
+"2008-08","Imogen Heap",2
+"2008-08","Kings Of Convenience",0
+"2008-08","Lamb",1
+"2008-08","Massive Attack",0
+"2008-08","Morcheeba",2
+"2008-08","Röyksopp",0
+"2008-08","Sia",57
+"2008-08","Thievery Corporation",0
+"2008-09","Air",1
+"2008-09","Anja Garbarek",2
+"2008-09","Björk",1
+"2008-09","Boards Of Canada",0
+"2008-09","Cat Power",1
+"2008-09","Emilíana Torrini",6
+"2008-09","Émilie Simon",4
+"2008-09","Feist",14
+"2008-09","Frou Frou",3
+"2008-09","Goldfrapp",3
+"2008-09","Hans Zimmer",0
+"2008-09","Hooverphonic",7
+"2008-09","Imogen Heap",3
+"2008-09","Kings Of Convenience",2
+"2008-09","Lamb",5
+"2008-09","Massive Attack",2
+"2008-09","Morcheeba",2
+"2008-09","Röyksopp",6
+"2008-09","Sia",13
+"2008-09","Thievery Corporation",0
+"2008-10","Air",1
+"2008-10","Anja Garbarek",1
+"2008-10","Björk",1
+"2008-10","Boards Of Canada",0
+"2008-10","Cat Power",1
+"2008-10","Emilíana Torrini",2
+"2008-10","Émilie Simon",3
+"2008-10","Feist",3
+"2008-10","Frou Frou",0
+"2008-10","Goldfrapp",3
+"2008-10","Hans Zimmer",2
+"2008-10","Hooverphonic",3
+"2008-10","Imogen Heap",2
+"2008-10","Kings Of Convenience",1
+"2008-10","Lamb",1
+"2008-10","Massive Attack",1
+"2008-10","Morcheeba",1
+"2008-10","Röyksopp",0
+"2008-10","Sia",5
+"2008-10","Thievery Corporation",0
+"2008-11","Air",0
+"2008-11","Anja Garbarek",1
+"2008-11","Björk",5
+"2008-11","Boards Of Canada",0
+"2008-11","Cat Power",3
+"2008-11","Emilíana Torrini",1
+"2008-11","Émilie Simon",8
+"2008-11","Feist",7
+"2008-11","Frou Frou",2
+"2008-11","Goldfrapp",4
+"2008-11","Hans Zimmer",1
+"2008-11","Hooverphonic",3
+"2008-11","Imogen Heap",3
+"2008-11","Kings Of Convenience",0
+"2008-11","Lamb",2
+"2008-11","Massive Attack",0
+"2008-11","Morcheeba",8
+"2008-11","Röyksopp",0
+"2008-11","Sia",17
+"2008-11","Thievery Corporation",0
+"2008-12","Air",0
+"2008-12","Anja Garbarek",0
+"2008-12","Björk",0
+"2008-12","Boards Of Canada",0
+"2008-12","Cat Power",1
+"2008-12","Emilíana Torrini",0
+"2008-12","Émilie Simon",0
+"2008-12","Feist",4
+"2008-12","Frou Frou",0
+"2008-12","Goldfrapp",0
+"2008-12","Hans Zimmer",0
+"2008-12","Hooverphonic",0
+"2008-12","Imogen Heap",0
+"2008-12","Kings Of Convenience",0
+"2008-12","Lamb",0
+"2008-12","Massive Attack",0
+"2008-12","Morcheeba",0
+"2008-12","Röyksopp",0
+"2008-12","Sia",2
+"2008-12","Thievery Corporation",0
+"2009-01","Air",0
+"2009-01","Anja Garbarek",0
+"2009-01","Björk",0
+"2009-01","Boards Of Canada",0
+"2009-01","Cat Power",4
+"2009-01","Emilíana Torrini",1
+"2009-01","Émilie Simon",3
+"2009-01","Feist",6
+"2009-01","Frou Frou",1
+"2009-01","Goldfrapp",0
+"2009-01","Hans Zimmer",0
+"2009-01","Hooverphonic",0
+"2009-01","Imogen Heap",3
+"2009-01","Kings Of Convenience",3
+"2009-01","Lamb",0
+"2009-01","Massive Attack",0
+"2009-01","Morcheeba",0
+"2009-01","Röyksopp",0
+"2009-01","Sia",1
+"2009-01","Thievery Corporation",0
+"2009-02","Air",0
+"2009-02","Anja Garbarek",0
+"2009-02","Björk",0
+"2009-02","Boards Of Canada",0
+"2009-02","Cat Power",1
+"2009-02","Emilíana Torrini",0
+"2009-02","Émilie Simon",0
+"2009-02","Feist",1
+"2009-02","Frou Frou",0
+"2009-02","Goldfrapp",0
+"2009-02","Hans Zimmer",0
+"2009-02","Hooverphonic",0
+"2009-02","Imogen Heap",0
+"2009-02","Kings Of Convenience",1
+"2009-02","Lamb",0
+"2009-02","Massive Attack",0
+"2009-02","Morcheeba",0
+"2009-02","Röyksopp",0
+"2009-02","Sia",0
+"2009-02","Thievery Corporation",0
+"2009-03","Air",0
+"2009-03","Anja Garbarek",0
+"2009-03","Björk",1
+"2009-03","Boards Of Canada",0
+"2009-03","Cat Power",0
+"2009-03","Emilíana Torrini",0
+"2009-03","Émilie Simon",5
+"2009-03","Feist",5
+"2009-03","Frou Frou",0
+"2009-03","Goldfrapp",0
+"2009-03","Hans Zimmer",2
+"2009-03","Hooverphonic",0
+"2009-03","Imogen Heap",0
+"2009-03","Kings Of Convenience",0
+"2009-03","Lamb",0
+"2009-03","Massive Attack",0
+"2009-03","Morcheeba",0
+"2009-03","Röyksopp",0
+"2009-03","Sia",2
+"2009-03","Thievery Corporation",0
+"2009-04","Air",0
+"2009-04","Anja Garbarek",0
+"2009-04","Björk",4
+"2009-04","Boards Of Canada",0
+"2009-04","Cat Power",1
+"2009-04","Emilíana Torrini",0
+"2009-04","Émilie Simon",0
+"2009-04","Feist",1
+"2009-04","Frou Frou",3
+"2009-04","Goldfrapp",2
+"2009-04","Hans Zimmer",0
+"2009-04","Hooverphonic",2
+"2009-04","Imogen Heap",3
+"2009-04","Kings Of Convenience",1
+"2009-04","Lamb",0
+"2009-04","Massive Attack",0
+"2009-04","Morcheeba",0
+"2009-04","Röyksopp",0
+"2009-04","Sia",5
+"2009-04","Thievery Corporation",0

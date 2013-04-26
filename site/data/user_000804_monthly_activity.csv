@@ -1,841 +1,841 @@
-month,artist,plays
-2005-12,50 Cent,1
-2005-12,Bloc Party,157
-2005-12,Coldplay,40
-2005-12,Common,3
-2005-12,Jay-Z,0
-2005-12,Jethro Tull,17
-2005-12,Kanye West,4
-2005-12,Kurupt,4
-2005-12,Masta Ace,1
-2005-12,Mobb Deep,3
-2005-12,Nas,11
-2005-12,Neil Young,17
-2005-12,Redman,3
-2005-12,Snoop Dogg,3
-2005-12,Talib Kweli,1
-2005-12,The Game,3
-2005-12,The Rolling Stones,138
-2005-12,Thomas Dybdahl,14
-2005-12,Wu-Tang Clan,1
-2005-12,Z-Ro,2
-2006-01,50 Cent,4
-2006-01,Bloc Party,22
-2006-01,Coldplay,38
-2006-01,Common,3
-2006-01,Jay-Z,2
-2006-01,Jethro Tull,16
-2006-01,Kanye West,15
-2006-01,Kurupt,8
-2006-01,Masta Ace,4
-2006-01,Mobb Deep,3
-2006-01,Nas,14
-2006-01,Neil Young,11
-2006-01,Redman,5
-2006-01,Snoop Dogg,4
-2006-01,Talib Kweli,5
-2006-01,The Game,3
-2006-01,The Rolling Stones,47
-2006-01,Thomas Dybdahl,9
-2006-01,Wu-Tang Clan,8
-2006-01,Z-Ro,0
-2006-02,50 Cent,3
-2006-02,Bloc Party,10
-2006-02,Coldplay,30
-2006-02,Common,4
-2006-02,Jay-Z,6
-2006-02,Jethro Tull,14
-2006-02,Kanye West,7
-2006-02,Kurupt,7
-2006-02,Masta Ace,7
-2006-02,Mobb Deep,5
-2006-02,Nas,14
-2006-02,Neil Young,11
-2006-02,Redman,2
-2006-02,Snoop Dogg,3
-2006-02,Talib Kweli,4
-2006-02,The Game,7
-2006-02,The Rolling Stones,39
-2006-02,Thomas Dybdahl,10
-2006-02,Wu-Tang Clan,3
-2006-02,Z-Ro,5
-2006-03,50 Cent,1
-2006-03,Bloc Party,94
-2006-03,Coldplay,22
-2006-03,Common,0
-2006-03,Jay-Z,4
-2006-03,Jethro Tull,1
-2006-03,Kanye West,5
-2006-03,Kurupt,2
-2006-03,Masta Ace,1
-2006-03,Mobb Deep,2
-2006-03,Nas,2
-2006-03,Neil Young,4
-2006-03,Redman,0
-2006-03,Snoop Dogg,3
-2006-03,Talib Kweli,4
-2006-03,The Game,7
-2006-03,The Rolling Stones,14
-2006-03,Thomas Dybdahl,230
-2006-03,Wu-Tang Clan,7
-2006-03,Z-Ro,0
-2006-04,50 Cent,17
-2006-04,Bloc Party,9
-2006-04,Coldplay,46
-2006-04,Common,11
-2006-04,Jay-Z,5
-2006-04,Jethro Tull,1
-2006-04,Kanye West,2
-2006-04,Kurupt,3
-2006-04,Masta Ace,1
-2006-04,Mobb Deep,4
-2006-04,Nas,5
-2006-04,Neil Young,5
-2006-04,Redman,0
-2006-04,Snoop Dogg,1
-2006-04,Talib Kweli,7
-2006-04,The Game,1
-2006-04,The Rolling Stones,15
-2006-04,Thomas Dybdahl,9
-2006-04,Wu-Tang Clan,4
-2006-04,Z-Ro,2
-2006-05,50 Cent,3
-2006-05,Bloc Party,24
-2006-05,Coldplay,31
-2006-05,Common,3
-2006-05,Jay-Z,2
-2006-05,Jethro Tull,12
-2006-05,Kanye West,5
-2006-05,Kurupt,4
-2006-05,Masta Ace,3
-2006-05,Mobb Deep,2
-2006-05,Nas,17
-2006-05,Neil Young,5
-2006-05,Redman,3
-2006-05,Snoop Dogg,10
-2006-05,Talib Kweli,12
-2006-05,The Game,2
-2006-05,The Rolling Stones,24
-2006-05,Thomas Dybdahl,12
-2006-05,Wu-Tang Clan,1
-2006-05,Z-Ro,1
-2006-06,50 Cent,4
-2006-06,Bloc Party,4
-2006-06,Coldplay,22
-2006-06,Common,4
-2006-06,Jay-Z,2
-2006-06,Jethro Tull,2
-2006-06,Kanye West,10
-2006-06,Kurupt,8
-2006-06,Masta Ace,1
-2006-06,Mobb Deep,3
-2006-06,Nas,13
-2006-06,Neil Young,4
-2006-06,Redman,4
-2006-06,Snoop Dogg,2
-2006-06,Talib Kweli,5
-2006-06,The Game,2
-2006-06,The Rolling Stones,17
-2006-06,Thomas Dybdahl,7
-2006-06,Wu-Tang Clan,3
-2006-06,Z-Ro,1
-2006-07,50 Cent,2
-2006-07,Bloc Party,4
-2006-07,Coldplay,7
-2006-07,Common,0
-2006-07,Jay-Z,1
-2006-07,Jethro Tull,1
-2006-07,Kanye West,2
-2006-07,Kurupt,5
-2006-07,Masta Ace,1
-2006-07,Mobb Deep,3
-2006-07,Nas,3
-2006-07,Neil Young,2
-2006-07,Redman,0
-2006-07,Snoop Dogg,1
-2006-07,Talib Kweli,1
-2006-07,The Game,6
-2006-07,The Rolling Stones,7
-2006-07,Thomas Dybdahl,19
-2006-07,Wu-Tang Clan,1
-2006-07,Z-Ro,1
-2006-08,50 Cent,0
-2006-08,Bloc Party,2
-2006-08,Coldplay,3
-2006-08,Common,3
-2006-08,Jay-Z,0
-2006-08,Jethro Tull,1
-2006-08,Kanye West,2
-2006-08,Kurupt,3
-2006-08,Masta Ace,1
-2006-08,Mobb Deep,1
-2006-08,Nas,1
-2006-08,Neil Young,1
-2006-08,Redman,1
-2006-08,Snoop Dogg,0
-2006-08,Talib Kweli,1
-2006-08,The Game,12
-2006-08,The Rolling Stones,1
-2006-08,Thomas Dybdahl,1
-2006-08,Wu-Tang Clan,0
-2006-08,Z-Ro,0
-2006-09,50 Cent,2
-2006-09,Bloc Party,8
-2006-09,Coldplay,20
-2006-09,Common,2
-2006-09,Jay-Z,1
-2006-09,Jethro Tull,5
-2006-09,Kanye West,2
-2006-09,Kurupt,7
-2006-09,Masta Ace,4
-2006-09,Mobb Deep,1
-2006-09,Nas,9
-2006-09,Neil Young,5
-2006-09,Redman,2
-2006-09,Snoop Dogg,1
-2006-09,Talib Kweli,2
-2006-09,The Game,3
-2006-09,The Rolling Stones,20
-2006-09,Thomas Dybdahl,59
-2006-09,Wu-Tang Clan,3
-2006-09,Z-Ro,2
-2006-10,50 Cent,5
-2006-10,Bloc Party,8
-2006-10,Coldplay,14
-2006-10,Common,0
-2006-10,Jay-Z,4
-2006-10,Jethro Tull,1
-2006-10,Kanye West,5
-2006-10,Kurupt,2
-2006-10,Masta Ace,0
-2006-10,Mobb Deep,3
-2006-10,Nas,3
-2006-10,Neil Young,2
-2006-10,Redman,2
-2006-10,Snoop Dogg,1
-2006-10,Talib Kweli,3
-2006-10,The Game,1
-2006-10,The Rolling Stones,17
-2006-10,Thomas Dybdahl,41
-2006-10,Wu-Tang Clan,2
-2006-10,Z-Ro,2
-2006-11,50 Cent,2
-2006-11,Bloc Party,2
-2006-11,Coldplay,0
-2006-11,Common,0
-2006-11,Jay-Z,11
-2006-11,Jethro Tull,0
-2006-11,Kanye West,0
-2006-11,Kurupt,0
-2006-11,Masta Ace,0
-2006-11,Mobb Deep,0
-2006-11,Nas,0
-2006-11,Neil Young,1
-2006-11,Redman,0
-2006-11,Snoop Dogg,34
-2006-11,Talib Kweli,0
-2006-11,The Game,20
-2006-11,The Rolling Stones,1
-2006-11,Thomas Dybdahl,2
-2006-11,Wu-Tang Clan,0
-2006-11,Z-Ro,0
-2006-12,50 Cent,3
-2006-12,Bloc Party,8
-2006-12,Coldplay,24
-2006-12,Common,1
-2006-12,Jay-Z,18
-2006-12,Jethro Tull,3
-2006-12,Kanye West,1
-2006-12,Kurupt,2
-2006-12,Masta Ace,5
-2006-12,Mobb Deep,0
-2006-12,Nas,11
-2006-12,Neil Young,4
-2006-12,Redman,1
-2006-12,Snoop Dogg,57
-2006-12,Talib Kweli,2
-2006-12,The Game,41
-2006-12,The Rolling Stones,17
-2006-12,Thomas Dybdahl,9
-2006-12,Wu-Tang Clan,3
-2006-12,Z-Ro,2
-2007-01,50 Cent,0
-2007-01,Bloc Party,12
-2007-01,Coldplay,10
-2007-01,Common,1
-2007-01,Jay-Z,0
-2007-01,Jethro Tull,2
-2007-01,Kanye West,3
-2007-01,Kurupt,0
-2007-01,Masta Ace,2
-2007-01,Mobb Deep,0
-2007-01,Nas,2
-2007-01,Neil Young,0
-2007-01,Redman,0
-2007-01,Snoop Dogg,2
-2007-01,Talib Kweli,1
-2007-01,The Game,6
-2007-01,The Rolling Stones,4
-2007-01,Thomas Dybdahl,2
-2007-01,Wu-Tang Clan,1
-2007-01,Z-Ro,0
-2007-02,50 Cent,0
-2007-02,Bloc Party,3
-2007-02,Coldplay,0
-2007-02,Common,0
-2007-02,Jay-Z,0
-2007-02,Jethro Tull,0
-2007-02,Kanye West,0
-2007-02,Kurupt,0
-2007-02,Masta Ace,0
-2007-02,Mobb Deep,0
-2007-02,Nas,0
-2007-02,Neil Young,0
-2007-02,Redman,0
-2007-02,Snoop Dogg,0
-2007-02,Talib Kweli,0
-2007-02,The Game,0
-2007-02,The Rolling Stones,0
-2007-02,Thomas Dybdahl,0
-2007-02,Wu-Tang Clan,0
-2007-02,Z-Ro,0
-2007-03,50 Cent,0
-2007-03,Bloc Party,0
-2007-03,Coldplay,0
-2007-03,Common,0
-2007-03,Jay-Z,0
-2007-03,Jethro Tull,0
-2007-03,Kanye West,0
-2007-03,Kurupt,0
-2007-03,Masta Ace,0
-2007-03,Mobb Deep,0
-2007-03,Nas,0
-2007-03,Neil Young,0
-2007-03,Redman,0
-2007-03,Snoop Dogg,0
-2007-03,Talib Kweli,0
-2007-03,The Game,0
-2007-03,The Rolling Stones,0
-2007-03,Thomas Dybdahl,0
-2007-03,Wu-Tang Clan,0
-2007-03,Z-Ro,0
-2007-04,50 Cent,0
-2007-04,Bloc Party,0
-2007-04,Coldplay,0
-2007-04,Common,0
-2007-04,Jay-Z,0
-2007-04,Jethro Tull,0
-2007-04,Kanye West,0
-2007-04,Kurupt,0
-2007-04,Masta Ace,0
-2007-04,Mobb Deep,0
-2007-04,Nas,0
-2007-04,Neil Young,0
-2007-04,Redman,0
-2007-04,Snoop Dogg,0
-2007-04,Talib Kweli,0
-2007-04,The Game,0
-2007-04,The Rolling Stones,0
-2007-04,Thomas Dybdahl,0
-2007-04,Wu-Tang Clan,0
-2007-04,Z-Ro,0
-2007-05,50 Cent,0
-2007-05,Bloc Party,0
-2007-05,Coldplay,0
-2007-05,Common,0
-2007-05,Jay-Z,0
-2007-05,Jethro Tull,0
-2007-05,Kanye West,0
-2007-05,Kurupt,0
-2007-05,Masta Ace,0
-2007-05,Mobb Deep,0
-2007-05,Nas,0
-2007-05,Neil Young,0
-2007-05,Redman,0
-2007-05,Snoop Dogg,0
-2007-05,Talib Kweli,0
-2007-05,The Game,0
-2007-05,The Rolling Stones,0
-2007-05,Thomas Dybdahl,0
-2007-05,Wu-Tang Clan,0
-2007-05,Z-Ro,0
-2007-06,50 Cent,0
-2007-06,Bloc Party,0
-2007-06,Coldplay,0
-2007-06,Common,0
-2007-06,Jay-Z,0
-2007-06,Jethro Tull,0
-2007-06,Kanye West,0
-2007-06,Kurupt,0
-2007-06,Masta Ace,0
-2007-06,Mobb Deep,0
-2007-06,Nas,0
-2007-06,Neil Young,0
-2007-06,Redman,0
-2007-06,Snoop Dogg,0
-2007-06,Talib Kweli,0
-2007-06,The Game,0
-2007-06,The Rolling Stones,0
-2007-06,Thomas Dybdahl,0
-2007-06,Wu-Tang Clan,0
-2007-06,Z-Ro,0
-2007-07,50 Cent,0
-2007-07,Bloc Party,0
-2007-07,Coldplay,0
-2007-07,Common,0
-2007-07,Jay-Z,0
-2007-07,Jethro Tull,0
-2007-07,Kanye West,0
-2007-07,Kurupt,0
-2007-07,Masta Ace,0
-2007-07,Mobb Deep,0
-2007-07,Nas,0
-2007-07,Neil Young,0
-2007-07,Redman,0
-2007-07,Snoop Dogg,0
-2007-07,Talib Kweli,0
-2007-07,The Game,0
-2007-07,The Rolling Stones,0
-2007-07,Thomas Dybdahl,0
-2007-07,Wu-Tang Clan,0
-2007-07,Z-Ro,0
-2007-08,50 Cent,0
-2007-08,Bloc Party,0
-2007-08,Coldplay,0
-2007-08,Common,0
-2007-08,Jay-Z,0
-2007-08,Jethro Tull,0
-2007-08,Kanye West,0
-2007-08,Kurupt,0
-2007-08,Masta Ace,0
-2007-08,Mobb Deep,0
-2007-08,Nas,0
-2007-08,Neil Young,0
-2007-08,Redman,0
-2007-08,Snoop Dogg,0
-2007-08,Talib Kweli,0
-2007-08,The Game,0
-2007-08,The Rolling Stones,0
-2007-08,Thomas Dybdahl,0
-2007-08,Wu-Tang Clan,0
-2007-08,Z-Ro,0
-2007-09,50 Cent,0
-2007-09,Bloc Party,0
-2007-09,Coldplay,0
-2007-09,Common,0
-2007-09,Jay-Z,0
-2007-09,Jethro Tull,0
-2007-09,Kanye West,1
-2007-09,Kurupt,0
-2007-09,Masta Ace,0
-2007-09,Mobb Deep,0
-2007-09,Nas,0
-2007-09,Neil Young,0
-2007-09,Redman,0
-2007-09,Snoop Dogg,0
-2007-09,Talib Kweli,0
-2007-09,The Game,0
-2007-09,The Rolling Stones,0
-2007-09,Thomas Dybdahl,0
-2007-09,Wu-Tang Clan,0
-2007-09,Z-Ro,0
-2007-10,50 Cent,23
-2007-10,Bloc Party,15
-2007-10,Coldplay,9
-2007-10,Common,6
-2007-10,Jay-Z,4
-2007-10,Jethro Tull,5
-2007-10,Kanye West,5
-2007-10,Kurupt,3
-2007-10,Masta Ace,2
-2007-10,Mobb Deep,2
-2007-10,Nas,3
-2007-10,Neil Young,1
-2007-10,Redman,1
-2007-10,Snoop Dogg,1
-2007-10,Talib Kweli,0
-2007-10,The Game,4
-2007-10,The Rolling Stones,11
-2007-10,Thomas Dybdahl,28
-2007-10,Wu-Tang Clan,1
-2007-10,Z-Ro,13
-2007-11,50 Cent,16
-2007-11,Bloc Party,14
-2007-11,Coldplay,28
-2007-11,Common,7
-2007-11,Jay-Z,5
-2007-11,Jethro Tull,9
-2007-11,Kanye West,8
-2007-11,Kurupt,8
-2007-11,Masta Ace,0
-2007-11,Mobb Deep,1
-2007-11,Nas,11
-2007-11,Neil Young,3
-2007-11,Redman,3
-2007-11,Snoop Dogg,8
-2007-11,Talib Kweli,1
-2007-11,The Game,10
-2007-11,The Rolling Stones,28
-2007-11,Thomas Dybdahl,18
-2007-11,Wu-Tang Clan,3
-2007-11,Z-Ro,6
-2007-12,50 Cent,2
-2007-12,Bloc Party,4
-2007-12,Coldplay,2
-2007-12,Common,1
-2007-12,Jay-Z,0
-2007-12,Jethro Tull,1
-2007-12,Kanye West,2
-2007-12,Kurupt,2
-2007-12,Masta Ace,1
-2007-12,Mobb Deep,2
-2007-12,Nas,0
-2007-12,Neil Young,1
-2007-12,Redman,1
-2007-12,Snoop Dogg,2
-2007-12,Talib Kweli,0
-2007-12,The Game,3
-2007-12,The Rolling Stones,1
-2007-12,Thomas Dybdahl,1
-2007-12,Wu-Tang Clan,1
-2007-12,Z-Ro,0
-2008-01,50 Cent,2
-2008-01,Bloc Party,8
-2008-01,Coldplay,6
-2008-01,Common,3
-2008-01,Jay-Z,1
-2008-01,Jethro Tull,0
-2008-01,Kanye West,2
-2008-01,Kurupt,0
-2008-01,Masta Ace,2
-2008-01,Mobb Deep,1
-2008-01,Nas,11
-2008-01,Neil Young,2
-2008-01,Redman,1
-2008-01,Snoop Dogg,1
-2008-01,Talib Kweli,3
-2008-01,The Game,4
-2008-01,The Rolling Stones,8
-2008-01,Thomas Dybdahl,1
-2008-01,Wu-Tang Clan,2
-2008-01,Z-Ro,1
-2008-02,50 Cent,9
-2008-02,Bloc Party,11
-2008-02,Coldplay,19
-2008-02,Common,13
-2008-02,Jay-Z,13
-2008-02,Jethro Tull,9
-2008-02,Kanye West,9
-2008-02,Kurupt,2
-2008-02,Masta Ace,4
-2008-02,Mobb Deep,9
-2008-02,Nas,13
-2008-02,Neil Young,2
-2008-02,Redman,8
-2008-02,Snoop Dogg,5
-2008-02,Talib Kweli,7
-2008-02,The Game,8
-2008-02,The Rolling Stones,43
-2008-02,Thomas Dybdahl,10
-2008-02,Wu-Tang Clan,5
-2008-02,Z-Ro,3
-2008-03,50 Cent,3
-2008-03,Bloc Party,3
-2008-03,Coldplay,13
-2008-03,Common,2
-2008-03,Jay-Z,7
-2008-03,Jethro Tull,13
-2008-03,Kanye West,8
-2008-03,Kurupt,7
-2008-03,Masta Ace,5
-2008-03,Mobb Deep,2
-2008-03,Nas,13
-2008-03,Neil Young,71
-2008-03,Redman,7
-2008-03,Snoop Dogg,3
-2008-03,Talib Kweli,4
-2008-03,The Game,2
-2008-03,The Rolling Stones,23
-2008-03,Thomas Dybdahl,11
-2008-03,Wu-Tang Clan,7
-2008-03,Z-Ro,6
-2008-04,50 Cent,4
-2008-04,Bloc Party,4
-2008-04,Coldplay,6
-2008-04,Common,4
-2008-04,Jay-Z,1
-2008-04,Jethro Tull,3
-2008-04,Kanye West,8
-2008-04,Kurupt,4
-2008-04,Masta Ace,5
-2008-04,Mobb Deep,6
-2008-04,Nas,3
-2008-04,Neil Young,2
-2008-04,Redman,3
-2008-04,Snoop Dogg,1
-2008-04,Talib Kweli,4
-2008-04,The Game,3
-2008-04,The Rolling Stones,10
-2008-04,Thomas Dybdahl,3
-2008-04,Wu-Tang Clan,2
-2008-04,Z-Ro,26
-2008-05,50 Cent,0
-2008-05,Bloc Party,0
-2008-05,Coldplay,0
-2008-05,Common,0
-2008-05,Jay-Z,0
-2008-05,Jethro Tull,0
-2008-05,Kanye West,0
-2008-05,Kurupt,8
-2008-05,Masta Ace,0
-2008-05,Mobb Deep,0
-2008-05,Nas,0
-2008-05,Neil Young,0
-2008-05,Redman,1
-2008-05,Snoop Dogg,3
-2008-05,Talib Kweli,0
-2008-05,The Game,6
-2008-05,The Rolling Stones,0
-2008-05,Thomas Dybdahl,0
-2008-05,Wu-Tang Clan,1
-2008-05,Z-Ro,15
-2008-06,50 Cent,0
-2008-06,Bloc Party,0
-2008-06,Coldplay,0
-2008-06,Common,1
-2008-06,Jay-Z,0
-2008-06,Jethro Tull,0
-2008-06,Kanye West,1
-2008-06,Kurupt,91
-2008-06,Masta Ace,0
-2008-06,Mobb Deep,2
-2008-06,Nas,0
-2008-06,Neil Young,0
-2008-06,Redman,0
-2008-06,Snoop Dogg,4
-2008-06,Talib Kweli,0
-2008-06,The Game,3
-2008-06,The Rolling Stones,1
-2008-06,Thomas Dybdahl,0
-2008-06,Wu-Tang Clan,0
-2008-06,Z-Ro,3
-2008-07,50 Cent,0
-2008-07,Bloc Party,0
-2008-07,Coldplay,0
-2008-07,Common,0
-2008-07,Jay-Z,0
-2008-07,Jethro Tull,0
-2008-07,Kanye West,0
-2008-07,Kurupt,0
-2008-07,Masta Ace,0
-2008-07,Mobb Deep,0
-2008-07,Nas,0
-2008-07,Neil Young,0
-2008-07,Redman,0
-2008-07,Snoop Dogg,0
-2008-07,Talib Kweli,0
-2008-07,The Game,0
-2008-07,The Rolling Stones,0
-2008-07,Thomas Dybdahl,0
-2008-07,Wu-Tang Clan,0
-2008-07,Z-Ro,0
-2008-08,50 Cent,0
-2008-08,Bloc Party,0
-2008-08,Coldplay,0
-2008-08,Common,0
-2008-08,Jay-Z,0
-2008-08,Jethro Tull,0
-2008-08,Kanye West,0
-2008-08,Kurupt,0
-2008-08,Masta Ace,0
-2008-08,Mobb Deep,0
-2008-08,Nas,0
-2008-08,Neil Young,0
-2008-08,Redman,0
-2008-08,Snoop Dogg,0
-2008-08,Talib Kweli,0
-2008-08,The Game,0
-2008-08,The Rolling Stones,0
-2008-08,Thomas Dybdahl,0
-2008-08,Wu-Tang Clan,0
-2008-08,Z-Ro,0
-2008-09,50 Cent,1
-2008-09,Bloc Party,12
-2008-09,Coldplay,2
-2008-09,Common,1
-2008-09,Jay-Z,2
-2008-09,Jethro Tull,3
-2008-09,Kanye West,0
-2008-09,Kurupt,6
-2008-09,Masta Ace,1
-2008-09,Mobb Deep,0
-2008-09,Nas,0
-2008-09,Neil Young,0
-2008-09,Redman,2
-2008-09,Snoop Dogg,0
-2008-09,Talib Kweli,0
-2008-09,The Game,14
-2008-09,The Rolling Stones,3
-2008-09,Thomas Dybdahl,0
-2008-09,Wu-Tang Clan,0
-2008-09,Z-Ro,2
-2008-10,50 Cent,0
-2008-10,Bloc Party,0
-2008-10,Coldplay,0
-2008-10,Common,0
-2008-10,Jay-Z,0
-2008-10,Jethro Tull,0
-2008-10,Kanye West,0
-2008-10,Kurupt,0
-2008-10,Masta Ace,0
-2008-10,Mobb Deep,0
-2008-10,Nas,0
-2008-10,Neil Young,0
-2008-10,Redman,0
-2008-10,Snoop Dogg,0
-2008-10,Talib Kweli,0
-2008-10,The Game,0
-2008-10,The Rolling Stones,0
-2008-10,Thomas Dybdahl,0
-2008-10,Wu-Tang Clan,0
-2008-10,Z-Ro,0
-2008-11,50 Cent,0
-2008-11,Bloc Party,0
-2008-11,Coldplay,0
-2008-11,Common,0
-2008-11,Jay-Z,0
-2008-11,Jethro Tull,0
-2008-11,Kanye West,0
-2008-11,Kurupt,0
-2008-11,Masta Ace,0
-2008-11,Mobb Deep,0
-2008-11,Nas,0
-2008-11,Neil Young,0
-2008-11,Redman,0
-2008-11,Snoop Dogg,0
-2008-11,Talib Kweli,0
-2008-11,The Game,0
-2008-11,The Rolling Stones,0
-2008-11,Thomas Dybdahl,0
-2008-11,Wu-Tang Clan,0
-2008-11,Z-Ro,0
-2008-12,50 Cent,0
-2008-12,Bloc Party,0
-2008-12,Coldplay,0
-2008-12,Common,0
-2008-12,Jay-Z,0
-2008-12,Jethro Tull,0
-2008-12,Kanye West,0
-2008-12,Kurupt,0
-2008-12,Masta Ace,0
-2008-12,Mobb Deep,0
-2008-12,Nas,0
-2008-12,Neil Young,0
-2008-12,Redman,0
-2008-12,Snoop Dogg,0
-2008-12,Talib Kweli,0
-2008-12,The Game,0
-2008-12,The Rolling Stones,0
-2008-12,Thomas Dybdahl,0
-2008-12,Wu-Tang Clan,0
-2008-12,Z-Ro,0
-2009-01,50 Cent,0
-2009-01,Bloc Party,0
-2009-01,Coldplay,0
-2009-01,Common,4
-2009-01,Jay-Z,0
-2009-01,Jethro Tull,0
-2009-01,Kanye West,0
-2009-01,Kurupt,2
-2009-01,Masta Ace,0
-2009-01,Mobb Deep,2
-2009-01,Nas,1
-2009-01,Neil Young,0
-2009-01,Redman,1
-2009-01,Snoop Dogg,5
-2009-01,Talib Kweli,0
-2009-01,The Game,0
-2009-01,The Rolling Stones,0
-2009-01,Thomas Dybdahl,0
-2009-01,Wu-Tang Clan,0
-2009-01,Z-Ro,0
-2009-02,50 Cent,1
-2009-02,Bloc Party,0
-2009-02,Coldplay,0
-2009-02,Common,51
-2009-02,Jay-Z,66
-2009-02,Jethro Tull,2
-2009-02,Kanye West,12
-2009-02,Kurupt,10
-2009-02,Masta Ace,0
-2009-02,Mobb Deep,19
-2009-02,Nas,24
-2009-02,Neil Young,1
-2009-02,Redman,14
-2009-02,Snoop Dogg,27
-2009-02,Talib Kweli,0
-2009-02,The Game,13
-2009-02,The Rolling Stones,0
-2009-02,Thomas Dybdahl,0
-2009-02,Wu-Tang Clan,11
-2009-02,Z-Ro,20
-2009-03,50 Cent,2
-2009-03,Bloc Party,0
-2009-03,Coldplay,0
-2009-03,Common,30
-2009-03,Jay-Z,31
-2009-03,Jethro Tull,0
-2009-03,Kanye West,4
-2009-03,Kurupt,14
-2009-03,Masta Ace,4
-2009-03,Mobb Deep,11
-2009-03,Nas,25
-2009-03,Neil Young,1
-2009-03,Redman,4
-2009-03,Snoop Dogg,26
-2009-03,Talib Kweli,1
-2009-03,The Game,16
-2009-03,The Rolling Stones,0
-2009-03,Thomas Dybdahl,0
-2009-03,Wu-Tang Clan,7
-2009-03,Z-Ro,10
-2009-04,50 Cent,0
-2009-04,Bloc Party,0
-2009-04,Coldplay,0
-2009-04,Common,14
-2009-04,Jay-Z,10
-2009-04,Jethro Tull,0
-2009-04,Kanye West,1
-2009-04,Kurupt,25
-2009-04,Masta Ace,0
-2009-04,Mobb Deep,2
-2009-04,Nas,6
-2009-04,Neil Young,1
-2009-04,Redman,3
-2009-04,Snoop Dogg,10
-2009-04,Talib Kweli,3
-2009-04,The Game,1
-2009-04,The Rolling Stones,0
-2009-04,Thomas Dybdahl,0
-2009-04,Wu-Tang Clan,1
-2009-04,Z-Ro,12
-2009-05,50 Cent,0
-2009-05,Bloc Party,0
-2009-05,Coldplay,0
-2009-05,Common,6
-2009-05,Jay-Z,4
-2009-05,Jethro Tull,0
-2009-05,Kanye West,1
-2009-05,Kurupt,4
-2009-05,Masta Ace,3
-2009-05,Mobb Deep,1
-2009-05,Nas,2
-2009-05,Neil Young,0
-2009-05,Redman,4
-2009-05,Snoop Dogg,9
-2009-05,Talib Kweli,1
-2009-05,The Game,1
-2009-05,The Rolling Stones,0
-2009-05,Thomas Dybdahl,0
-2009-05,Wu-Tang Clan,0
-2009-05,Z-Ro,4
+"month","artist","plays"
+"2005-12","50 Cent",1
+"2005-12","Bloc Party",157
+"2005-12","Coldplay",40
+"2005-12","Common",3
+"2005-12","Jay-Z",0
+"2005-12","Jethro Tull",17
+"2005-12","Kanye West",4
+"2005-12","Kurupt",4
+"2005-12","Masta Ace",1
+"2005-12","Mobb Deep",3
+"2005-12","Nas",11
+"2005-12","Neil Young",17
+"2005-12","Redman",3
+"2005-12","Snoop Dogg",3
+"2005-12","Talib Kweli",1
+"2005-12","The Game",3
+"2005-12","The Rolling Stones",138
+"2005-12","Thomas Dybdahl",14
+"2005-12","Wu-Tang Clan",1
+"2005-12","Z-Ro",2
+"2006-01","50 Cent",4
+"2006-01","Bloc Party",22
+"2006-01","Coldplay",38
+"2006-01","Common",3
+"2006-01","Jay-Z",2
+"2006-01","Jethro Tull",16
+"2006-01","Kanye West",15
+"2006-01","Kurupt",8
+"2006-01","Masta Ace",4
+"2006-01","Mobb Deep",3
+"2006-01","Nas",14
+"2006-01","Neil Young",11
+"2006-01","Redman",5
+"2006-01","Snoop Dogg",4
+"2006-01","Talib Kweli",5
+"2006-01","The Game",3
+"2006-01","The Rolling Stones",47
+"2006-01","Thomas Dybdahl",9
+"2006-01","Wu-Tang Clan",8
+"2006-01","Z-Ro",0
+"2006-02","50 Cent",3
+"2006-02","Bloc Party",10
+"2006-02","Coldplay",30
+"2006-02","Common",4
+"2006-02","Jay-Z",6
+"2006-02","Jethro Tull",14
+"2006-02","Kanye West",7
+"2006-02","Kurupt",7
+"2006-02","Masta Ace",7
+"2006-02","Mobb Deep",5
+"2006-02","Nas",14
+"2006-02","Neil Young",11
+"2006-02","Redman",2
+"2006-02","Snoop Dogg",3
+"2006-02","Talib Kweli",4
+"2006-02","The Game",7
+"2006-02","The Rolling Stones",39
+"2006-02","Thomas Dybdahl",10
+"2006-02","Wu-Tang Clan",3
+"2006-02","Z-Ro",5
+"2006-03","50 Cent",1
+"2006-03","Bloc Party",94
+"2006-03","Coldplay",22
+"2006-03","Common",0
+"2006-03","Jay-Z",4
+"2006-03","Jethro Tull",1
+"2006-03","Kanye West",5
+"2006-03","Kurupt",2
+"2006-03","Masta Ace",1
+"2006-03","Mobb Deep",2
+"2006-03","Nas",2
+"2006-03","Neil Young",4
+"2006-03","Redman",0
+"2006-03","Snoop Dogg",3
+"2006-03","Talib Kweli",4
+"2006-03","The Game",7
+"2006-03","The Rolling Stones",14
+"2006-03","Thomas Dybdahl",230
+"2006-03","Wu-Tang Clan",7
+"2006-03","Z-Ro",0
+"2006-04","50 Cent",17
+"2006-04","Bloc Party",9
+"2006-04","Coldplay",46
+"2006-04","Common",11
+"2006-04","Jay-Z",5
+"2006-04","Jethro Tull",1
+"2006-04","Kanye West",2
+"2006-04","Kurupt",3
+"2006-04","Masta Ace",1
+"2006-04","Mobb Deep",4
+"2006-04","Nas",5
+"2006-04","Neil Young",5
+"2006-04","Redman",0
+"2006-04","Snoop Dogg",1
+"2006-04","Talib Kweli",7
+"2006-04","The Game",1
+"2006-04","The Rolling Stones",15
+"2006-04","Thomas Dybdahl",9
+"2006-04","Wu-Tang Clan",4
+"2006-04","Z-Ro",2
+"2006-05","50 Cent",3
+"2006-05","Bloc Party",24
+"2006-05","Coldplay",31
+"2006-05","Common",3
+"2006-05","Jay-Z",2
+"2006-05","Jethro Tull",12
+"2006-05","Kanye West",5
+"2006-05","Kurupt",4
+"2006-05","Masta Ace",3
+"2006-05","Mobb Deep",2
+"2006-05","Nas",17
+"2006-05","Neil Young",5
+"2006-05","Redman",3
+"2006-05","Snoop Dogg",10
+"2006-05","Talib Kweli",12
+"2006-05","The Game",2
+"2006-05","The Rolling Stones",24
+"2006-05","Thomas Dybdahl",12
+"2006-05","Wu-Tang Clan",1
+"2006-05","Z-Ro",1
+"2006-06","50 Cent",4
+"2006-06","Bloc Party",4
+"2006-06","Coldplay",22
+"2006-06","Common",4
+"2006-06","Jay-Z",2
+"2006-06","Jethro Tull",2
+"2006-06","Kanye West",10
+"2006-06","Kurupt",8
+"2006-06","Masta Ace",1
+"2006-06","Mobb Deep",3
+"2006-06","Nas",13
+"2006-06","Neil Young",4
+"2006-06","Redman",4
+"2006-06","Snoop Dogg",2
+"2006-06","Talib Kweli",5
+"2006-06","The Game",2
+"2006-06","The Rolling Stones",17
+"2006-06","Thomas Dybdahl",7
+"2006-06","Wu-Tang Clan",3
+"2006-06","Z-Ro",1
+"2006-07","50 Cent",2
+"2006-07","Bloc Party",4
+"2006-07","Coldplay",7
+"2006-07","Common",0
+"2006-07","Jay-Z",1
+"2006-07","Jethro Tull",1
+"2006-07","Kanye West",2
+"2006-07","Kurupt",5
+"2006-07","Masta Ace",1
+"2006-07","Mobb Deep",3
+"2006-07","Nas",3
+"2006-07","Neil Young",2
+"2006-07","Redman",0
+"2006-07","Snoop Dogg",1
+"2006-07","Talib Kweli",1
+"2006-07","The Game",6
+"2006-07","The Rolling Stones",7
+"2006-07","Thomas Dybdahl",19
+"2006-07","Wu-Tang Clan",1
+"2006-07","Z-Ro",1
+"2006-08","50 Cent",0
+"2006-08","Bloc Party",2
+"2006-08","Coldplay",3
+"2006-08","Common",3
+"2006-08","Jay-Z",0
+"2006-08","Jethro Tull",1
+"2006-08","Kanye West",2
+"2006-08","Kurupt",3
+"2006-08","Masta Ace",1
+"2006-08","Mobb Deep",1
+"2006-08","Nas",1
+"2006-08","Neil Young",1
+"2006-08","Redman",1
+"2006-08","Snoop Dogg",0
+"2006-08","Talib Kweli",1
+"2006-08","The Game",12
+"2006-08","The Rolling Stones",1
+"2006-08","Thomas Dybdahl",1
+"2006-08","Wu-Tang Clan",0
+"2006-08","Z-Ro",0
+"2006-09","50 Cent",2
+"2006-09","Bloc Party",8
+"2006-09","Coldplay",20
+"2006-09","Common",2
+"2006-09","Jay-Z",1
+"2006-09","Jethro Tull",5
+"2006-09","Kanye West",2
+"2006-09","Kurupt",7
+"2006-09","Masta Ace",4
+"2006-09","Mobb Deep",1
+"2006-09","Nas",9
+"2006-09","Neil Young",5
+"2006-09","Redman",2
+"2006-09","Snoop Dogg",1
+"2006-09","Talib Kweli",2
+"2006-09","The Game",3
+"2006-09","The Rolling Stones",20
+"2006-09","Thomas Dybdahl",59
+"2006-09","Wu-Tang Clan",3
+"2006-09","Z-Ro",2
+"2006-10","50 Cent",5
+"2006-10","Bloc Party",8
+"2006-10","Coldplay",14
+"2006-10","Common",0
+"2006-10","Jay-Z",4
+"2006-10","Jethro Tull",1
+"2006-10","Kanye West",5
+"2006-10","Kurupt",2
+"2006-10","Masta Ace",0
+"2006-10","Mobb Deep",3
+"2006-10","Nas",3
+"2006-10","Neil Young",2
+"2006-10","Redman",2
+"2006-10","Snoop Dogg",1
+"2006-10","Talib Kweli",3
+"2006-10","The Game",1
+"2006-10","The Rolling Stones",17
+"2006-10","Thomas Dybdahl",41
+"2006-10","Wu-Tang Clan",2
+"2006-10","Z-Ro",2
+"2006-11","50 Cent",2
+"2006-11","Bloc Party",2
+"2006-11","Coldplay",0
+"2006-11","Common",0
+"2006-11","Jay-Z",11
+"2006-11","Jethro Tull",0
+"2006-11","Kanye West",0
+"2006-11","Kurupt",0
+"2006-11","Masta Ace",0
+"2006-11","Mobb Deep",0
+"2006-11","Nas",0
+"2006-11","Neil Young",1
+"2006-11","Redman",0
+"2006-11","Snoop Dogg",34
+"2006-11","Talib Kweli",0
+"2006-11","The Game",20
+"2006-11","The Rolling Stones",1
+"2006-11","Thomas Dybdahl",2
+"2006-11","Wu-Tang Clan",0
+"2006-11","Z-Ro",0
+"2006-12","50 Cent",3
+"2006-12","Bloc Party",8
+"2006-12","Coldplay",24
+"2006-12","Common",1
+"2006-12","Jay-Z",18
+"2006-12","Jethro Tull",3
+"2006-12","Kanye West",1
+"2006-12","Kurupt",2
+"2006-12","Masta Ace",5
+"2006-12","Mobb Deep",0
+"2006-12","Nas",11
+"2006-12","Neil Young",4
+"2006-12","Redman",1
+"2006-12","Snoop Dogg",57
+"2006-12","Talib Kweli",2
+"2006-12","The Game",41
+"2006-12","The Rolling Stones",17
+"2006-12","Thomas Dybdahl",9
+"2006-12","Wu-Tang Clan",3
+"2006-12","Z-Ro",2
+"2007-01","50 Cent",0
+"2007-01","Bloc Party",12
+"2007-01","Coldplay",10
+"2007-01","Common",1
+"2007-01","Jay-Z",0
+"2007-01","Jethro Tull",2
+"2007-01","Kanye West",3
+"2007-01","Kurupt",0
+"2007-01","Masta Ace",2
+"2007-01","Mobb Deep",0
+"2007-01","Nas",2
+"2007-01","Neil Young",0
+"2007-01","Redman",0
+"2007-01","Snoop Dogg",2
+"2007-01","Talib Kweli",1
+"2007-01","The Game",6
+"2007-01","The Rolling Stones",4
+"2007-01","Thomas Dybdahl",2
+"2007-01","Wu-Tang Clan",1
+"2007-01","Z-Ro",0
+"2007-02","50 Cent",0
+"2007-02","Bloc Party",3
+"2007-02","Coldplay",0
+"2007-02","Common",0
+"2007-02","Jay-Z",0
+"2007-02","Jethro Tull",0
+"2007-02","Kanye West",0
+"2007-02","Kurupt",0
+"2007-02","Masta Ace",0
+"2007-02","Mobb Deep",0
+"2007-02","Nas",0
+"2007-02","Neil Young",0
+"2007-02","Redman",0
+"2007-02","Snoop Dogg",0
+"2007-02","Talib Kweli",0
+"2007-02","The Game",0
+"2007-02","The Rolling Stones",0
+"2007-02","Thomas Dybdahl",0
+"2007-02","Wu-Tang Clan",0
+"2007-02","Z-Ro",0
+"2007-03","50 Cent",0
+"2007-03","Bloc Party",0
+"2007-03","Coldplay",0
+"2007-03","Common",0
+"2007-03","Jay-Z",0
+"2007-03","Jethro Tull",0
+"2007-03","Kanye West",0
+"2007-03","Kurupt",0
+"2007-03","Masta Ace",0
+"2007-03","Mobb Deep",0
+"2007-03","Nas",0
+"2007-03","Neil Young",0
+"2007-03","Redman",0
+"2007-03","Snoop Dogg",0
+"2007-03","Talib Kweli",0
+"2007-03","The Game",0
+"2007-03","The Rolling Stones",0
+"2007-03","Thomas Dybdahl",0
+"2007-03","Wu-Tang Clan",0
+"2007-03","Z-Ro",0
+"2007-04","50 Cent",0
+"2007-04","Bloc Party",0
+"2007-04","Coldplay",0
+"2007-04","Common",0
+"2007-04","Jay-Z",0
+"2007-04","Jethro Tull",0
+"2007-04","Kanye West",0
+"2007-04","Kurupt",0
+"2007-04","Masta Ace",0
+"2007-04","Mobb Deep",0
+"2007-04","Nas",0
+"2007-04","Neil Young",0
+"2007-04","Redman",0
+"2007-04","Snoop Dogg",0
+"2007-04","Talib Kweli",0
+"2007-04","The Game",0
+"2007-04","The Rolling Stones",0
+"2007-04","Thomas Dybdahl",0
+"2007-04","Wu-Tang Clan",0
+"2007-04","Z-Ro",0
+"2007-05","50 Cent",0
+"2007-05","Bloc Party",0
+"2007-05","Coldplay",0
+"2007-05","Common",0
+"2007-05","Jay-Z",0
+"2007-05","Jethro Tull",0
+"2007-05","Kanye West",0
+"2007-05","Kurupt",0
+"2007-05","Masta Ace",0
+"2007-05","Mobb Deep",0
+"2007-05","Nas",0
+"2007-05","Neil Young",0
+"2007-05","Redman",0
+"2007-05","Snoop Dogg",0
+"2007-05","Talib Kweli",0
+"2007-05","The Game",0
+"2007-05","The Rolling Stones",0
+"2007-05","Thomas Dybdahl",0
+"2007-05","Wu-Tang Clan",0
+"2007-05","Z-Ro",0
+"2007-06","50 Cent",0
+"2007-06","Bloc Party",0
+"2007-06","Coldplay",0
+"2007-06","Common",0
+"2007-06","Jay-Z",0
+"2007-06","Jethro Tull",0
+"2007-06","Kanye West",0
+"2007-06","Kurupt",0
+"2007-06","Masta Ace",0
+"2007-06","Mobb Deep",0
+"2007-06","Nas",0
+"2007-06","Neil Young",0
+"2007-06","Redman",0
+"2007-06","Snoop Dogg",0
+"2007-06","Talib Kweli",0
+"2007-06","The Game",0
+"2007-06","The Rolling Stones",0
+"2007-06","Thomas Dybdahl",0
+"2007-06","Wu-Tang Clan",0
+"2007-06","Z-Ro",0
+"2007-07","50 Cent",0
+"2007-07","Bloc Party",0
+"2007-07","Coldplay",0
+"2007-07","Common",0
+"2007-07","Jay-Z",0
+"2007-07","Jethro Tull",0
+"2007-07","Kanye West",0
+"2007-07","Kurupt",0
+"2007-07","Masta Ace",0
+"2007-07","Mobb Deep",0
+"2007-07","Nas",0
+"2007-07","Neil Young",0
+"2007-07","Redman",0
+"2007-07","Snoop Dogg",0
+"2007-07","Talib Kweli",0
+"2007-07","The Game",0
+"2007-07","The Rolling Stones",0
+"2007-07","Thomas Dybdahl",0
+"2007-07","Wu-Tang Clan",0
+"2007-07","Z-Ro",0
+"2007-08","50 Cent",0
+"2007-08","Bloc Party",0
+"2007-08","Coldplay",0
+"2007-08","Common",0
+"2007-08","Jay-Z",0
+"2007-08","Jethro Tull",0
+"2007-08","Kanye West",0
+"2007-08","Kurupt",0
+"2007-08","Masta Ace",0
+"2007-08","Mobb Deep",0
+"2007-08","Nas",0
+"2007-08","Neil Young",0
+"2007-08","Redman",0
+"2007-08","Snoop Dogg",0
+"2007-08","Talib Kweli",0
+"2007-08","The Game",0
+"2007-08","The Rolling Stones",0
+"2007-08","Thomas Dybdahl",0
+"2007-08","Wu-Tang Clan",0
+"2007-08","Z-Ro",0
+"2007-09","50 Cent",0
+"2007-09","Bloc Party",0
+"2007-09","Coldplay",0
+"2007-09","Common",0
+"2007-09","Jay-Z",0
+"2007-09","Jethro Tull",0
+"2007-09","Kanye West",1
+"2007-09","Kurupt",0
+"2007-09","Masta Ace",0
+"2007-09","Mobb Deep",0
+"2007-09","Nas",0
+"2007-09","Neil Young",0
+"2007-09","Redman",0
+"2007-09","Snoop Dogg",0
+"2007-09","Talib Kweli",0
+"2007-09","The Game",0
+"2007-09","The Rolling Stones",0
+"2007-09","Thomas Dybdahl",0
+"2007-09","Wu-Tang Clan",0
+"2007-09","Z-Ro",0
+"2007-10","50 Cent",23
+"2007-10","Bloc Party",15
+"2007-10","Coldplay",9
+"2007-10","Common",6
+"2007-10","Jay-Z",4
+"2007-10","Jethro Tull",5
+"2007-10","Kanye West",5
+"2007-10","Kurupt",3
+"2007-10","Masta Ace",2
+"2007-10","Mobb Deep",2
+"2007-10","Nas",3
+"2007-10","Neil Young",1
+"2007-10","Redman",1
+"2007-10","Snoop Dogg",1
+"2007-10","Talib Kweli",0
+"2007-10","The Game",4
+"2007-10","The Rolling Stones",11
+"2007-10","Thomas Dybdahl",28
+"2007-10","Wu-Tang Clan",1
+"2007-10","Z-Ro",13
+"2007-11","50 Cent",16
+"2007-11","Bloc Party",14
+"2007-11","Coldplay",28
+"2007-11","Common",7
+"2007-11","Jay-Z",5
+"2007-11","Jethro Tull",9
+"2007-11","Kanye West",8
+"2007-11","Kurupt",8
+"2007-11","Masta Ace",0
+"2007-11","Mobb Deep",1
+"2007-11","Nas",11
+"2007-11","Neil Young",3
+"2007-11","Redman",3
+"2007-11","Snoop Dogg",8
+"2007-11","Talib Kweli",1
+"2007-11","The Game",10
+"2007-11","The Rolling Stones",28
+"2007-11","Thomas Dybdahl",18
+"2007-11","Wu-Tang Clan",3
+"2007-11","Z-Ro",6
+"2007-12","50 Cent",2
+"2007-12","Bloc Party",4
+"2007-12","Coldplay",2
+"2007-12","Common",1
+"2007-12","Jay-Z",0
+"2007-12","Jethro Tull",1
+"2007-12","Kanye West",2
+"2007-12","Kurupt",2
+"2007-12","Masta Ace",1
+"2007-12","Mobb Deep",2
+"2007-12","Nas",0
+"2007-12","Neil Young",1
+"2007-12","Redman",1
+"2007-12","Snoop Dogg",2
+"2007-12","Talib Kweli",0
+"2007-12","The Game",3
+"2007-12","The Rolling Stones",1
+"2007-12","Thomas Dybdahl",1
+"2007-12","Wu-Tang Clan",1
+"2007-12","Z-Ro",0
+"2008-01","50 Cent",2
+"2008-01","Bloc Party",8
+"2008-01","Coldplay",6
+"2008-01","Common",3
+"2008-01","Jay-Z",1
+"2008-01","Jethro Tull",0
+"2008-01","Kanye West",2
+"2008-01","Kurupt",0
+"2008-01","Masta Ace",2
+"2008-01","Mobb Deep",1
+"2008-01","Nas",11
+"2008-01","Neil Young",2
+"2008-01","Redman",1
+"2008-01","Snoop Dogg",1
+"2008-01","Talib Kweli",3
+"2008-01","The Game",4
+"2008-01","The Rolling Stones",8
+"2008-01","Thomas Dybdahl",1
+"2008-01","Wu-Tang Clan",2
+"2008-01","Z-Ro",1
+"2008-02","50 Cent",9
+"2008-02","Bloc Party",11
+"2008-02","Coldplay",19
+"2008-02","Common",13
+"2008-02","Jay-Z",13
+"2008-02","Jethro Tull",9
+"2008-02","Kanye West",9
+"2008-02","Kurupt",2
+"2008-02","Masta Ace",4
+"2008-02","Mobb Deep",9
+"2008-02","Nas",13
+"2008-02","Neil Young",2
+"2008-02","Redman",8
+"2008-02","Snoop Dogg",5
+"2008-02","Talib Kweli",7
+"2008-02","The Game",8
+"2008-02","The Rolling Stones",43
+"2008-02","Thomas Dybdahl",10
+"2008-02","Wu-Tang Clan",5
+"2008-02","Z-Ro",3
+"2008-03","50 Cent",3
+"2008-03","Bloc Party",3
+"2008-03","Coldplay",13
+"2008-03","Common",2
+"2008-03","Jay-Z",7
+"2008-03","Jethro Tull",13
+"2008-03","Kanye West",8
+"2008-03","Kurupt",7
+"2008-03","Masta Ace",5
+"2008-03","Mobb Deep",2
+"2008-03","Nas",13
+"2008-03","Neil Young",71
+"2008-03","Redman",7
+"2008-03","Snoop Dogg",3
+"2008-03","Talib Kweli",4
+"2008-03","The Game",2
+"2008-03","The Rolling Stones",23
+"2008-03","Thomas Dybdahl",11
+"2008-03","Wu-Tang Clan",7
+"2008-03","Z-Ro",6
+"2008-04","50 Cent",4
+"2008-04","Bloc Party",4
+"2008-04","Coldplay",6
+"2008-04","Common",4
+"2008-04","Jay-Z",1
+"2008-04","Jethro Tull",3
+"2008-04","Kanye West",8
+"2008-04","Kurupt",4
+"2008-04","Masta Ace",5
+"2008-04","Mobb Deep",6
+"2008-04","Nas",3
+"2008-04","Neil Young",2
+"2008-04","Redman",3
+"2008-04","Snoop Dogg",1
+"2008-04","Talib Kweli",4
+"2008-04","The Game",3
+"2008-04","The Rolling Stones",10
+"2008-04","Thomas Dybdahl",3
+"2008-04","Wu-Tang Clan",2
+"2008-04","Z-Ro",26
+"2008-05","50 Cent",0
+"2008-05","Bloc Party",0
+"2008-05","Coldplay",0
+"2008-05","Common",0
+"2008-05","Jay-Z",0
+"2008-05","Jethro Tull",0
+"2008-05","Kanye West",0
+"2008-05","Kurupt",8
+"2008-05","Masta Ace",0
+"2008-05","Mobb Deep",0
+"2008-05","Nas",0
+"2008-05","Neil Young",0
+"2008-05","Redman",1
+"2008-05","Snoop Dogg",3
+"2008-05","Talib Kweli",0
+"2008-05","The Game",6
+"2008-05","The Rolling Stones",0
+"2008-05","Thomas Dybdahl",0
+"2008-05","Wu-Tang Clan",1
+"2008-05","Z-Ro",15
+"2008-06","50 Cent",0
+"2008-06","Bloc Party",0
+"2008-06","Coldplay",0
+"2008-06","Common",1
+"2008-06","Jay-Z",0
+"2008-06","Jethro Tull",0
+"2008-06","Kanye West",1
+"2008-06","Kurupt",91
+"2008-06","Masta Ace",0
+"2008-06","Mobb Deep",2
+"2008-06","Nas",0
+"2008-06","Neil Young",0
+"2008-06","Redman",0
+"2008-06","Snoop Dogg",4
+"2008-06","Talib Kweli",0
+"2008-06","The Game",3
+"2008-06","The Rolling Stones",1
+"2008-06","Thomas Dybdahl",0
+"2008-06","Wu-Tang Clan",0
+"2008-06","Z-Ro",3
+"2008-07","50 Cent",0
+"2008-07","Bloc Party",0
+"2008-07","Coldplay",0
+"2008-07","Common",0
+"2008-07","Jay-Z",0
+"2008-07","Jethro Tull",0
+"2008-07","Kanye West",0
+"2008-07","Kurupt",0
+"2008-07","Masta Ace",0
+"2008-07","Mobb Deep",0
+"2008-07","Nas",0
+"2008-07","Neil Young",0
+"2008-07","Redman",0
+"2008-07","Snoop Dogg",0
+"2008-07","Talib Kweli",0
+"2008-07","The Game",0
+"2008-07","The Rolling Stones",0
+"2008-07","Thomas Dybdahl",0
+"2008-07","Wu-Tang Clan",0
+"2008-07","Z-Ro",0
+"2008-08","50 Cent",0
+"2008-08","Bloc Party",0
+"2008-08","Coldplay",0
+"2008-08","Common",0
+"2008-08","Jay-Z",0
+"2008-08","Jethro Tull",0
+"2008-08","Kanye West",0
+"2008-08","Kurupt",0
+"2008-08","Masta Ace",0
+"2008-08","Mobb Deep",0
+"2008-08","Nas",0
+"2008-08","Neil Young",0
+"2008-08","Redman",0
+"2008-08","Snoop Dogg",0
+"2008-08","Talib Kweli",0
+"2008-08","The Game",0
+"2008-08","The Rolling Stones",0
+"2008-08","Thomas Dybdahl",0
+"2008-08","Wu-Tang Clan",0
+"2008-08","Z-Ro",0
+"2008-09","50 Cent",1
+"2008-09","Bloc Party",12
+"2008-09","Coldplay",2
+"2008-09","Common",1
+"2008-09","Jay-Z",2
+"2008-09","Jethro Tull",3
+"2008-09","Kanye West",0
+"2008-09","Kurupt",6
+"2008-09","Masta Ace",1
+"2008-09","Mobb Deep",0
+"2008-09","Nas",0
+"2008-09","Neil Young",0
+"2008-09","Redman",2
+"2008-09","Snoop Dogg",0
+"2008-09","Talib Kweli",0
+"2008-09","The Game",14
+"2008-09","The Rolling Stones",3
+"2008-09","Thomas Dybdahl",0
+"2008-09","Wu-Tang Clan",0
+"2008-09","Z-Ro",2
+"2008-10","50 Cent",0
+"2008-10","Bloc Party",0
+"2008-10","Coldplay",0
+"2008-10","Common",0
+"2008-10","Jay-Z",0
+"2008-10","Jethro Tull",0
+"2008-10","Kanye West",0
+"2008-10","Kurupt",0
+"2008-10","Masta Ace",0
+"2008-10","Mobb Deep",0
+"2008-10","Nas",0
+"2008-10","Neil Young",0
+"2008-10","Redman",0
+"2008-10","Snoop Dogg",0
+"2008-10","Talib Kweli",0
+"2008-10","The Game",0
+"2008-10","The Rolling Stones",0
+"2008-10","Thomas Dybdahl",0
+"2008-10","Wu-Tang Clan",0
+"2008-10","Z-Ro",0
+"2008-11","50 Cent",0
+"2008-11","Bloc Party",0
+"2008-11","Coldplay",0
+"2008-11","Common",0
+"2008-11","Jay-Z",0
+"2008-11","Jethro Tull",0
+"2008-11","Kanye West",0
+"2008-11","Kurupt",0
+"2008-11","Masta Ace",0
+"2008-11","Mobb Deep",0
+"2008-11","Nas",0
+"2008-11","Neil Young",0
+"2008-11","Redman",0
+"2008-11","Snoop Dogg",0
+"2008-11","Talib Kweli",0
+"2008-11","The Game",0
+"2008-11","The Rolling Stones",0
+"2008-11","Thomas Dybdahl",0
+"2008-11","Wu-Tang Clan",0
+"2008-11","Z-Ro",0
+"2008-12","50 Cent",0
+"2008-12","Bloc Party",0
+"2008-12","Coldplay",0
+"2008-12","Common",0
+"2008-12","Jay-Z",0
+"2008-12","Jethro Tull",0
+"2008-12","Kanye West",0
+"2008-12","Kurupt",0
+"2008-12","Masta Ace",0
+"2008-12","Mobb Deep",0
+"2008-12","Nas",0
+"2008-12","Neil Young",0
+"2008-12","Redman",0
+"2008-12","Snoop Dogg",0
+"2008-12","Talib Kweli",0
+"2008-12","The Game",0
+"2008-12","The Rolling Stones",0
+"2008-12","Thomas Dybdahl",0
+"2008-12","Wu-Tang Clan",0
+"2008-12","Z-Ro",0
+"2009-01","50 Cent",0
+"2009-01","Bloc Party",0
+"2009-01","Coldplay",0
+"2009-01","Common",4
+"2009-01","Jay-Z",0
+"2009-01","Jethro Tull",0
+"2009-01","Kanye West",0
+"2009-01","Kurupt",2
+"2009-01","Masta Ace",0
+"2009-01","Mobb Deep",2
+"2009-01","Nas",1
+"2009-01","Neil Young",0
+"2009-01","Redman",1
+"2009-01","Snoop Dogg",5
+"2009-01","Talib Kweli",0
+"2009-01","The Game",0
+"2009-01","The Rolling Stones",0
+"2009-01","Thomas Dybdahl",0
+"2009-01","Wu-Tang Clan",0
+"2009-01","Z-Ro",0
+"2009-02","50 Cent",1
+"2009-02","Bloc Party",0
+"2009-02","Coldplay",0
+"2009-02","Common",51
+"2009-02","Jay-Z",66
+"2009-02","Jethro Tull",2
+"2009-02","Kanye West",12
+"2009-02","Kurupt",10
+"2009-02","Masta Ace",0
+"2009-02","Mobb Deep",19
+"2009-02","Nas",24
+"2009-02","Neil Young",1
+"2009-02","Redman",14
+"2009-02","Snoop Dogg",27
+"2009-02","Talib Kweli",0
+"2009-02","The Game",13
+"2009-02","The Rolling Stones",0
+"2009-02","Thomas Dybdahl",0
+"2009-02","Wu-Tang Clan",11
+"2009-02","Z-Ro",20
+"2009-03","50 Cent",2
+"2009-03","Bloc Party",0
+"2009-03","Coldplay",0
+"2009-03","Common",30
+"2009-03","Jay-Z",31
+"2009-03","Jethro Tull",0
+"2009-03","Kanye West",4
+"2009-03","Kurupt",14
+"2009-03","Masta Ace",4
+"2009-03","Mobb Deep",11
+"2009-03","Nas",25
+"2009-03","Neil Young",1
+"2009-03","Redman",4
+"2009-03","Snoop Dogg",26
+"2009-03","Talib Kweli",1
+"2009-03","The Game",16
+"2009-03","The Rolling Stones",0
+"2009-03","Thomas Dybdahl",0
+"2009-03","Wu-Tang Clan",7
+"2009-03","Z-Ro",10
+"2009-04","50 Cent",0
+"2009-04","Bloc Party",0
+"2009-04","Coldplay",0
+"2009-04","Common",14
+"2009-04","Jay-Z",10
+"2009-04","Jethro Tull",0
+"2009-04","Kanye West",1
+"2009-04","Kurupt",25
+"2009-04","Masta Ace",0
+"2009-04","Mobb Deep",2
+"2009-04","Nas",6
+"2009-04","Neil Young",1
+"2009-04","Redman",3
+"2009-04","Snoop Dogg",10
+"2009-04","Talib Kweli",3
+"2009-04","The Game",1
+"2009-04","The Rolling Stones",0
+"2009-04","Thomas Dybdahl",0
+"2009-04","Wu-Tang Clan",1
+"2009-04","Z-Ro",12
+"2009-05","50 Cent",0
+"2009-05","Bloc Party",0
+"2009-05","Coldplay",0
+"2009-05","Common",6
+"2009-05","Jay-Z",4
+"2009-05","Jethro Tull",0
+"2009-05","Kanye West",1
+"2009-05","Kurupt",4
+"2009-05","Masta Ace",3
+"2009-05","Mobb Deep",1
+"2009-05","Nas",2
+"2009-05","Neil Young",0
+"2009-05","Redman",4
+"2009-05","Snoop Dogg",9
+"2009-05","Talib Kweli",1
+"2009-05","The Game",1
+"2009-05","The Rolling Stones",0
+"2009-05","Thomas Dybdahl",0
+"2009-05","Wu-Tang Clan",0
+"2009-05","Z-Ro",4

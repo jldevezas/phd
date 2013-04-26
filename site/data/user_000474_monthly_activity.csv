@@ -1,141 +1,141 @@
-month,artist,plays
-2008-11,Ash,1
-2008-11,Aztec Camera,41
-2008-11,Billy Fury,18
-2008-11,Candie Payne,1
-2008-11,Cast,6
-2008-11,Destiny'S Child,1
-2008-11,Half Man Half Biscuit,5
-2008-11,Jake Thackray,23
-2008-11,Kanye West,55
-2008-11,Ladytron,1
-2008-11,Nellie Mckay,3
-2008-11,Riuven,1
-2008-11,Rivers Cuomo,6
-2008-11,Space,0
-2008-11,The Beatles,11
-2008-11,The Coral,6
-2008-11,The Last Shadow Puppets,50
-2008-11,Weezer,1
-2008-11,Why?,16
-2008-11,Windmill Explosion,25
-2008-12,Ash,8
-2008-12,Aztec Camera,8
-2008-12,Billy Fury,7
-2008-12,Candie Payne,1
-2008-12,Cast,1
-2008-12,Destiny'S Child,5
-2008-12,Half Man Half Biscuit,18
-2008-12,Jake Thackray,2
-2008-12,Kanye West,65
-2008-12,Ladytron,5
-2008-12,Nellie Mckay,40
-2008-12,Riuven,4
-2008-12,Rivers Cuomo,4
-2008-12,Space,51
-2008-12,The Beatles,24
-2008-12,The Coral,17
-2008-12,The Last Shadow Puppets,34
-2008-12,Weezer,7
-2008-12,Why?,2
-2008-12,Windmill Explosion,7
-2009-01,Ash,1
-2009-01,Aztec Camera,11
-2009-01,Billy Fury,4
-2009-01,Candie Payne,14
-2009-01,Cast,2
-2009-01,Destiny'S Child,1
-2009-01,Half Man Half Biscuit,15
-2009-01,Jake Thackray,26
-2009-01,Kanye West,55
-2009-01,Ladytron,5
-2009-01,Nellie Mckay,16
-2009-01,Riuven,2
-2009-01,Rivers Cuomo,2
-2009-01,Space,12
-2009-01,The Beatles,15
-2009-01,The Coral,122
-2009-01,The Last Shadow Puppets,14
-2009-01,Weezer,3
-2009-01,Why?,24
-2009-01,Windmill Explosion,5
-2009-02,Ash,1
-2009-02,Aztec Camera,1
-2009-02,Billy Fury,13
-2009-02,Candie Payne,2
-2009-02,Cast,1
-2009-02,Destiny'S Child,5
-2009-02,Half Man Half Biscuit,5
-2009-02,Jake Thackray,80
-2009-02,Kanye West,3
-2009-02,Ladytron,1
-2009-02,Nellie Mckay,70
-2009-02,Riuven,1
-2009-02,Rivers Cuomo,12
-2009-02,Space,15
-2009-02,The Beatles,18
-2009-02,The Coral,67
-2009-02,The Last Shadow Puppets,16
-2009-02,Weezer,23
-2009-02,Why?,37
-2009-02,Windmill Explosion,5
-2009-03,Ash,18
-2009-03,Aztec Camera,2
-2009-03,Billy Fury,7
-2009-03,Candie Payne,18
-2009-03,Cast,1
-2009-03,Destiny'S Child,1
-2009-03,Half Man Half Biscuit,7
-2009-03,Jake Thackray,29
-2009-03,Kanye West,37
-2009-03,Ladytron,2
-2009-03,Nellie Mckay,3
-2009-03,Riuven,1
-2009-03,Rivers Cuomo,6
-2009-03,Space,23
-2009-03,The Beatles,65
-2009-03,The Coral,125
-2009-03,The Last Shadow Puppets,28
-2009-03,Weezer,54
-2009-03,Why?,102
-2009-03,Windmill Explosion,2
-2009-04,Ash,33
-2009-04,Aztec Camera,0
-2009-04,Billy Fury,26
-2009-04,Candie Payne,1
-2009-04,Cast,5
-2009-04,Destiny'S Child,2
-2009-04,Half Man Half Biscuit,20
-2009-04,Jake Thackray,24
-2009-04,Kanye West,5
-2009-04,Ladytron,2
-2009-04,Nellie Mckay,11
-2009-04,Riuven,1
-2009-04,Rivers Cuomo,9
-2009-04,Space,8
-2009-04,The Beatles,27
-2009-04,The Coral,131
-2009-04,The Last Shadow Puppets,9
-2009-04,Weezer,26
-2009-04,Why?,27
-2009-04,Windmill Explosion,4
-2009-05,Ash,0
-2009-05,Aztec Camera,1
-2009-05,Billy Fury,0
-2009-05,Candie Payne,2
-2009-05,Cast,1
-2009-05,Destiny'S Child,0
-2009-05,Half Man Half Biscuit,0
-2009-05,Jake Thackray,0
-2009-05,Kanye West,0
-2009-05,Ladytron,0
-2009-05,Nellie Mckay,0
-2009-05,Riuven,0
-2009-05,Rivers Cuomo,0
-2009-05,Space,6
-2009-05,The Beatles,0
-2009-05,The Coral,2
-2009-05,The Last Shadow Puppets,0
-2009-05,Weezer,1
-2009-05,Why?,14
-2009-05,Windmill Explosion,1
+"month","artist","plays"
+"2008-11","Ash",1
+"2008-11","Aztec Camera",41
+"2008-11","Billy Fury",18
+"2008-11","Candie Payne",1
+"2008-11","Cast",6
+"2008-11","Destiny'S Child",1
+"2008-11","Half Man Half Biscuit",5
+"2008-11","Jake Thackray",23
+"2008-11","Kanye West",55
+"2008-11","Ladytron",1
+"2008-11","Nellie Mckay",3
+"2008-11","Riuven",1
+"2008-11","Rivers Cuomo",6
+"2008-11","Space",0
+"2008-11","The Beatles",11
+"2008-11","The Coral",6
+"2008-11","The Last Shadow Puppets",50
+"2008-11","Weezer",1
+"2008-11","Why?",16
+"2008-11","Windmill Explosion",25
+"2008-12","Ash",8
+"2008-12","Aztec Camera",8
+"2008-12","Billy Fury",7
+"2008-12","Candie Payne",1
+"2008-12","Cast",1
+"2008-12","Destiny'S Child",5
+"2008-12","Half Man Half Biscuit",18
+"2008-12","Jake Thackray",2
+"2008-12","Kanye West",65
+"2008-12","Ladytron",5
+"2008-12","Nellie Mckay",40
+"2008-12","Riuven",4
+"2008-12","Rivers Cuomo",4
+"2008-12","Space",51
+"2008-12","The Beatles",24
+"2008-12","The Coral",17
+"2008-12","The Last Shadow Puppets",34
+"2008-12","Weezer",7
+"2008-12","Why?",2
+"2008-12","Windmill Explosion",7
+"2009-01","Ash",1
+"2009-01","Aztec Camera",11
+"2009-01","Billy Fury",4
+"2009-01","Candie Payne",14
+"2009-01","Cast",2
+"2009-01","Destiny'S Child",1
+"2009-01","Half Man Half Biscuit",15
+"2009-01","Jake Thackray",26
+"2009-01","Kanye West",55
+"2009-01","Ladytron",5
+"2009-01","Nellie Mckay",16
+"2009-01","Riuven",2
+"2009-01","Rivers Cuomo",2
+"2009-01","Space",12
+"2009-01","The Beatles",15
+"2009-01","The Coral",122
+"2009-01","The Last Shadow Puppets",14
+"2009-01","Weezer",3
+"2009-01","Why?",24
+"2009-01","Windmill Explosion",5
+"2009-02","Ash",1
+"2009-02","Aztec Camera",1
+"2009-02","Billy Fury",13
+"2009-02","Candie Payne",2
+"2009-02","Cast",1
+"2009-02","Destiny'S Child",5
+"2009-02","Half Man Half Biscuit",5
+"2009-02","Jake Thackray",80
+"2009-02","Kanye West",3
+"2009-02","Ladytron",1
+"2009-02","Nellie Mckay",70
+"2009-02","Riuven",1
+"2009-02","Rivers Cuomo",12
+"2009-02","Space",15
+"2009-02","The Beatles",18
+"2009-02","The Coral",67
+"2009-02","The Last Shadow Puppets",16
+"2009-02","Weezer",23
+"2009-02","Why?",37
+"2009-02","Windmill Explosion",5
+"2009-03","Ash",18
+"2009-03","Aztec Camera",2
+"2009-03","Billy Fury",7
+"2009-03","Candie Payne",18
+"2009-03","Cast",1
+"2009-03","Destiny'S Child",1
+"2009-03","Half Man Half Biscuit",7
+"2009-03","Jake Thackray",29
+"2009-03","Kanye West",37
+"2009-03","Ladytron",2
+"2009-03","Nellie Mckay",3
+"2009-03","Riuven",1
+"2009-03","Rivers Cuomo",6
+"2009-03","Space",23
+"2009-03","The Beatles",65
+"2009-03","The Coral",125
+"2009-03","The Last Shadow Puppets",28
+"2009-03","Weezer",54
+"2009-03","Why?",102
+"2009-03","Windmill Explosion",2
+"2009-04","Ash",33
+"2009-04","Aztec Camera",0
+"2009-04","Billy Fury",26
+"2009-04","Candie Payne",1
+"2009-04","Cast",5
+"2009-04","Destiny'S Child",2
+"2009-04","Half Man Half Biscuit",20
+"2009-04","Jake Thackray",24
+"2009-04","Kanye West",5
+"2009-04","Ladytron",2
+"2009-04","Nellie Mckay",11
+"2009-04","Riuven",1
+"2009-04","Rivers Cuomo",9
+"2009-04","Space",8
+"2009-04","The Beatles",27
+"2009-04","The Coral",131
+"2009-04","The Last Shadow Puppets",9
+"2009-04","Weezer",26
+"2009-04","Why?",27
+"2009-04","Windmill Explosion",4
+"2009-05","Ash",0
+"2009-05","Aztec Camera",1
+"2009-05","Billy Fury",0
+"2009-05","Candie Payne",2
+"2009-05","Cast",1
+"2009-05","Destiny'S Child",0
+"2009-05","Half Man Half Biscuit",0
+"2009-05","Jake Thackray",0
+"2009-05","Kanye West",0
+"2009-05","Ladytron",0
+"2009-05","Nellie Mckay",0
+"2009-05","Riuven",0
+"2009-05","Rivers Cuomo",0
+"2009-05","Space",6
+"2009-05","The Beatles",0
+"2009-05","The Coral",2
+"2009-05","The Last Shadow Puppets",0
+"2009-05","Weezer",1
+"2009-05","Why?",14
+"2009-05","Windmill Explosion",1

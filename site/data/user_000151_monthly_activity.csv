@@ -1,641 +1,641 @@
-month,artist,plays
-2006-09,Bigbang,39
-2006-09,Bruce Springsteen,19
-2006-09,Delillos,3
-2006-09,Foo Fighters,82
-2006-09,Huey Lewis & The News,62
-2006-09,Jokke & Valentinerne,0
-2006-09,Jokke & Valentinerne Med Tourettes,0
-2006-09,Kaizers Orchestra,18
-2006-09,Lou Reed,26
-2006-09,Marit Larsen,33
-2006-09,Oasis,0
-2006-09,Postgirobygget,16
-2006-09,Pulp,30
-2006-09,Raga Rockers,4
-2006-09,The Beatles,132
-2006-09,The Clash,1
-2006-09,The Doors,0
-2006-09,The Kinks,76
-2006-09,The Strokes,6
-2006-09,Tom Waits,75
-2006-10,Bigbang,11
-2006-10,Bruce Springsteen,2
-2006-10,Delillos,9
-2006-10,Foo Fighters,0
-2006-10,Huey Lewis & The News,6
-2006-10,Jokke & Valentinerne,0
-2006-10,Jokke & Valentinerne Med Tourettes,0
-2006-10,Kaizers Orchestra,0
-2006-10,Lou Reed,14
-2006-10,Marit Larsen,21
-2006-10,Oasis,0
-2006-10,Postgirobygget,5
-2006-10,Pulp,0
-2006-10,Raga Rockers,1
-2006-10,The Beatles,3
-2006-10,The Clash,0
-2006-10,The Doors,7
-2006-10,The Kinks,37
-2006-10,The Strokes,0
-2006-10,Tom Waits,41
-2006-11,Bigbang,1
-2006-11,Bruce Springsteen,10
-2006-11,Delillos,72
-2006-11,Foo Fighters,2
-2006-11,Huey Lewis & The News,13
-2006-11,Jokke & Valentinerne,0
-2006-11,Jokke & Valentinerne Med Tourettes,0
-2006-11,Kaizers Orchestra,2
-2006-11,Lou Reed,15
-2006-11,Marit Larsen,188
-2006-11,Oasis,0
-2006-11,Postgirobygget,30
-2006-11,Pulp,4
-2006-11,Raga Rockers,3
-2006-11,The Beatles,79
-2006-11,The Clash,0
-2006-11,The Doors,16
-2006-11,The Kinks,22
-2006-11,The Strokes,7
-2006-11,Tom Waits,1
-2006-12,Bigbang,0
-2006-12,Bruce Springsteen,0
-2006-12,Delillos,0
-2006-12,Foo Fighters,0
-2006-12,Huey Lewis & The News,20
-2006-12,Jokke & Valentinerne,0
-2006-12,Jokke & Valentinerne Med Tourettes,0
-2006-12,Kaizers Orchestra,0
-2006-12,Lou Reed,2
-2006-12,Marit Larsen,0
-2006-12,Oasis,0
-2006-12,Postgirobygget,0
-2006-12,Pulp,0
-2006-12,Raga Rockers,0
-2006-12,The Beatles,0
-2006-12,The Clash,0
-2006-12,The Doors,0
-2006-12,The Kinks,0
-2006-12,The Strokes,0
-2006-12,Tom Waits,0
-2007-01,Bigbang,0
-2007-01,Bruce Springsteen,0
-2007-01,Delillos,0
-2007-01,Foo Fighters,0
-2007-01,Huey Lewis & The News,0
-2007-01,Jokke & Valentinerne,0
-2007-01,Jokke & Valentinerne Med Tourettes,0
-2007-01,Kaizers Orchestra,0
-2007-01,Lou Reed,19
-2007-01,Marit Larsen,0
-2007-01,Oasis,51
-2007-01,Postgirobygget,4
-2007-01,Pulp,4
-2007-01,Raga Rockers,0
-2007-01,The Beatles,2
-2007-01,The Clash,37
-2007-01,The Doors,273
-2007-01,The Kinks,0
-2007-01,The Strokes,19
-2007-01,Tom Waits,0
-2007-02,Bigbang,0
-2007-02,Bruce Springsteen,0
-2007-02,Delillos,0
-2007-02,Foo Fighters,0
-2007-02,Huey Lewis & The News,0
-2007-02,Jokke & Valentinerne,0
-2007-02,Jokke & Valentinerne Med Tourettes,0
-2007-02,Kaizers Orchestra,0
-2007-02,Lou Reed,2
-2007-02,Marit Larsen,0
-2007-02,Oasis,8
-2007-02,Postgirobygget,2
-2007-02,Pulp,24
-2007-02,Raga Rockers,0
-2007-02,The Beatles,19
-2007-02,The Clash,6
-2007-02,The Doors,120
-2007-02,The Kinks,0
-2007-02,The Strokes,41
-2007-02,Tom Waits,0
-2007-03,Bigbang,0
-2007-03,Bruce Springsteen,0
-2007-03,Delillos,0
-2007-03,Foo Fighters,0
-2007-03,Huey Lewis & The News,0
-2007-03,Jokke & Valentinerne,0
-2007-03,Jokke & Valentinerne Med Tourettes,0
-2007-03,Kaizers Orchestra,0
-2007-03,Lou Reed,17
-2007-03,Marit Larsen,0
-2007-03,Oasis,1
-2007-03,Postgirobygget,1
-2007-03,Pulp,13
-2007-03,Raga Rockers,0
-2007-03,The Beatles,16
-2007-03,The Clash,14
-2007-03,The Doors,3
-2007-03,The Kinks,0
-2007-03,The Strokes,21
-2007-03,Tom Waits,0
-2007-04,Bigbang,0
-2007-04,Bruce Springsteen,0
-2007-04,Delillos,0
-2007-04,Foo Fighters,0
-2007-04,Huey Lewis & The News,0
-2007-04,Jokke & Valentinerne,0
-2007-04,Jokke & Valentinerne Med Tourettes,0
-2007-04,Kaizers Orchestra,0
-2007-04,Lou Reed,0
-2007-04,Marit Larsen,0
-2007-04,Oasis,0
-2007-04,Postgirobygget,0
-2007-04,Pulp,0
-2007-04,Raga Rockers,0
-2007-04,The Beatles,0
-2007-04,The Clash,19
-2007-04,The Doors,89
-2007-04,The Kinks,0
-2007-04,The Strokes,13
-2007-04,Tom Waits,0
-2007-05,Bigbang,0
-2007-05,Bruce Springsteen,0
-2007-05,Delillos,0
-2007-05,Foo Fighters,0
-2007-05,Huey Lewis & The News,0
-2007-05,Jokke & Valentinerne,0
-2007-05,Jokke & Valentinerne Med Tourettes,0
-2007-05,Kaizers Orchestra,0
-2007-05,Lou Reed,0
-2007-05,Marit Larsen,0
-2007-05,Oasis,0
-2007-05,Postgirobygget,0
-2007-05,Pulp,0
-2007-05,Raga Rockers,0
-2007-05,The Beatles,0
-2007-05,The Clash,0
-2007-05,The Doors,0
-2007-05,The Kinks,0
-2007-05,The Strokes,0
-2007-05,Tom Waits,0
-2007-06,Bigbang,0
-2007-06,Bruce Springsteen,0
-2007-06,Delillos,0
-2007-06,Foo Fighters,0
-2007-06,Huey Lewis & The News,0
-2007-06,Jokke & Valentinerne,0
-2007-06,Jokke & Valentinerne Med Tourettes,0
-2007-06,Kaizers Orchestra,0
-2007-06,Lou Reed,0
-2007-06,Marit Larsen,0
-2007-06,Oasis,0
-2007-06,Postgirobygget,0
-2007-06,Pulp,0
-2007-06,Raga Rockers,0
-2007-06,The Beatles,0
-2007-06,The Clash,0
-2007-06,The Doors,0
-2007-06,The Kinks,0
-2007-06,The Strokes,0
-2007-06,Tom Waits,0
-2007-07,Bigbang,0
-2007-07,Bruce Springsteen,0
-2007-07,Delillos,0
-2007-07,Foo Fighters,0
-2007-07,Huey Lewis & The News,0
-2007-07,Jokke & Valentinerne,0
-2007-07,Jokke & Valentinerne Med Tourettes,0
-2007-07,Kaizers Orchestra,0
-2007-07,Lou Reed,0
-2007-07,Marit Larsen,0
-2007-07,Oasis,0
-2007-07,Postgirobygget,0
-2007-07,Pulp,0
-2007-07,Raga Rockers,0
-2007-07,The Beatles,0
-2007-07,The Clash,0
-2007-07,The Doors,0
-2007-07,The Kinks,0
-2007-07,The Strokes,0
-2007-07,Tom Waits,0
-2007-08,Bigbang,0
-2007-08,Bruce Springsteen,0
-2007-08,Delillos,0
-2007-08,Foo Fighters,0
-2007-08,Huey Lewis & The News,0
-2007-08,Jokke & Valentinerne,0
-2007-08,Jokke & Valentinerne Med Tourettes,0
-2007-08,Kaizers Orchestra,0
-2007-08,Lou Reed,0
-2007-08,Marit Larsen,0
-2007-08,Oasis,0
-2007-08,Postgirobygget,0
-2007-08,Pulp,0
-2007-08,Raga Rockers,0
-2007-08,The Beatles,0
-2007-08,The Clash,0
-2007-08,The Doors,0
-2007-08,The Kinks,0
-2007-08,The Strokes,0
-2007-08,Tom Waits,0
-2007-09,Bigbang,0
-2007-09,Bruce Springsteen,0
-2007-09,Delillos,0
-2007-09,Foo Fighters,0
-2007-09,Huey Lewis & The News,0
-2007-09,Jokke & Valentinerne,0
-2007-09,Jokke & Valentinerne Med Tourettes,0
-2007-09,Kaizers Orchestra,0
-2007-09,Lou Reed,0
-2007-09,Marit Larsen,0
-2007-09,Oasis,0
-2007-09,Postgirobygget,0
-2007-09,Pulp,0
-2007-09,Raga Rockers,0
-2007-09,The Beatles,0
-2007-09,The Clash,0
-2007-09,The Doors,0
-2007-09,The Kinks,0
-2007-09,The Strokes,0
-2007-09,Tom Waits,0
-2007-10,Bigbang,0
-2007-10,Bruce Springsteen,1
-2007-10,Delillos,31
-2007-10,Foo Fighters,0
-2007-10,Huey Lewis & The News,12
-2007-10,Jokke & Valentinerne,9
-2007-10,Jokke & Valentinerne Med Tourettes,0
-2007-10,Kaizers Orchestra,0
-2007-10,Lou Reed,31
-2007-10,Marit Larsen,10
-2007-10,Oasis,0
-2007-10,Postgirobygget,1
-2007-10,Pulp,0
-2007-10,Raga Rockers,0
-2007-10,The Beatles,1
-2007-10,The Clash,0
-2007-10,The Doors,41
-2007-10,The Kinks,17
-2007-10,The Strokes,20
-2007-10,Tom Waits,0
-2007-11,Bigbang,0
-2007-11,Bruce Springsteen,0
-2007-11,Delillos,8
-2007-11,Foo Fighters,1
-2007-11,Huey Lewis & The News,1
-2007-11,Jokke & Valentinerne,4
-2007-11,Jokke & Valentinerne Med Tourettes,0
-2007-11,Kaizers Orchestra,0
-2007-11,Lou Reed,1
-2007-11,Marit Larsen,0
-2007-11,Oasis,0
-2007-11,Postgirobygget,3
-2007-11,Pulp,2
-2007-11,Raga Rockers,0
-2007-11,The Beatles,23
-2007-11,The Clash,0
-2007-11,The Doors,7
-2007-11,The Kinks,2
-2007-11,The Strokes,3
-2007-11,Tom Waits,2
-2007-12,Bigbang,0
-2007-12,Bruce Springsteen,0
-2007-12,Delillos,0
-2007-12,Foo Fighters,0
-2007-12,Huey Lewis & The News,0
-2007-12,Jokke & Valentinerne,0
-2007-12,Jokke & Valentinerne Med Tourettes,0
-2007-12,Kaizers Orchestra,0
-2007-12,Lou Reed,0
-2007-12,Marit Larsen,0
-2007-12,Oasis,0
-2007-12,Postgirobygget,0
-2007-12,Pulp,0
-2007-12,Raga Rockers,0
-2007-12,The Beatles,0
-2007-12,The Clash,0
-2007-12,The Doors,1
-2007-12,The Kinks,0
-2007-12,The Strokes,0
-2007-12,Tom Waits,0
-2008-01,Bigbang,1
-2008-01,Bruce Springsteen,16
-2008-01,Delillos,7
-2008-01,Foo Fighters,20
-2008-01,Huey Lewis & The News,4
-2008-01,Jokke & Valentinerne,1
-2008-01,Jokke & Valentinerne Med Tourettes,1
-2008-01,Kaizers Orchestra,0
-2008-01,Lou Reed,0
-2008-01,Marit Larsen,0
-2008-01,Oasis,1
-2008-01,Postgirobygget,0
-2008-01,Pulp,0
-2008-01,Raga Rockers,0
-2008-01,The Beatles,24
-2008-01,The Clash,14
-2008-01,The Doors,0
-2008-01,The Kinks,1
-2008-01,The Strokes,0
-2008-01,Tom Waits,0
-2008-02,Bigbang,3
-2008-02,Bruce Springsteen,6
-2008-02,Delillos,7
-2008-02,Foo Fighters,14
-2008-02,Huey Lewis & The News,7
-2008-02,Jokke & Valentinerne,14
-2008-02,Jokke & Valentinerne Med Tourettes,9
-2008-02,Kaizers Orchestra,1
-2008-02,Lou Reed,5
-2008-02,Marit Larsen,7
-2008-02,Oasis,2
-2008-02,Postgirobygget,11
-2008-02,Pulp,4
-2008-02,Raga Rockers,3
-2008-02,The Beatles,41
-2008-02,The Clash,0
-2008-02,The Doors,4
-2008-02,The Kinks,7
-2008-02,The Strokes,7
-2008-02,Tom Waits,21
-2008-03,Bigbang,1
-2008-03,Bruce Springsteen,4
-2008-03,Delillos,23
-2008-03,Foo Fighters,5
-2008-03,Huey Lewis & The News,0
-2008-03,Jokke & Valentinerne,42
-2008-03,Jokke & Valentinerne Med Tourettes,20
-2008-03,Kaizers Orchestra,6
-2008-03,Lou Reed,0
-2008-03,Marit Larsen,0
-2008-03,Oasis,0
-2008-03,Postgirobygget,0
-2008-03,Pulp,0
-2008-03,Raga Rockers,14
-2008-03,The Beatles,49
-2008-03,The Clash,0
-2008-03,The Doors,14
-2008-03,The Kinks,0
-2008-03,The Strokes,1
-2008-03,Tom Waits,26
-2008-04,Bigbang,0
-2008-04,Bruce Springsteen,1
-2008-04,Delillos,6
-2008-04,Foo Fighters,2
-2008-04,Huey Lewis & The News,3
-2008-04,Jokke & Valentinerne,9
-2008-04,Jokke & Valentinerne Med Tourettes,0
-2008-04,Kaizers Orchestra,0
-2008-04,Lou Reed,0
-2008-04,Marit Larsen,0
-2008-04,Oasis,1
-2008-04,Postgirobygget,16
-2008-04,Pulp,1
-2008-04,Raga Rockers,9
-2008-04,The Beatles,4
-2008-04,The Clash,3
-2008-04,The Doors,1
-2008-04,The Kinks,8
-2008-04,The Strokes,2
-2008-04,Tom Waits,14
-2008-05,Bigbang,0
-2008-05,Bruce Springsteen,1
-2008-05,Delillos,23
-2008-05,Foo Fighters,1
-2008-05,Huey Lewis & The News,0
-2008-05,Jokke & Valentinerne,7
-2008-05,Jokke & Valentinerne Med Tourettes,5
-2008-05,Kaizers Orchestra,2
-2008-05,Lou Reed,0
-2008-05,Marit Larsen,10
-2008-05,Oasis,0
-2008-05,Postgirobygget,27
-2008-05,Pulp,14
-2008-05,Raga Rockers,4
-2008-05,The Beatles,11
-2008-05,The Clash,0
-2008-05,The Doors,2
-2008-05,The Kinks,20
-2008-05,The Strokes,0
-2008-05,Tom Waits,0
-2008-06,Bigbang,0
-2008-06,Bruce Springsteen,0
-2008-06,Delillos,6
-2008-06,Foo Fighters,0
-2008-06,Huey Lewis & The News,0
-2008-06,Jokke & Valentinerne,0
-2008-06,Jokke & Valentinerne Med Tourettes,0
-2008-06,Kaizers Orchestra,0
-2008-06,Lou Reed,0
-2008-06,Marit Larsen,0
-2008-06,Oasis,7
-2008-06,Postgirobygget,0
-2008-06,Pulp,2
-2008-06,Raga Rockers,0
-2008-06,The Beatles,0
-2008-06,The Clash,0
-2008-06,The Doors,0
-2008-06,The Kinks,0
-2008-06,The Strokes,10
-2008-06,Tom Waits,0
-2008-07,Bigbang,0
-2008-07,Bruce Springsteen,1
-2008-07,Delillos,1
-2008-07,Foo Fighters,0
-2008-07,Huey Lewis & The News,0
-2008-07,Jokke & Valentinerne,1
-2008-07,Jokke & Valentinerne Med Tourettes,3
-2008-07,Kaizers Orchestra,1
-2008-07,Lou Reed,0
-2008-07,Marit Larsen,0
-2008-07,Oasis,0
-2008-07,Postgirobygget,0
-2008-07,Pulp,1
-2008-07,Raga Rockers,1
-2008-07,The Beatles,0
-2008-07,The Clash,1
-2008-07,The Doors,0
-2008-07,The Kinks,0
-2008-07,The Strokes,0
-2008-07,Tom Waits,0
-2008-08,Bigbang,0
-2008-08,Bruce Springsteen,0
-2008-08,Delillos,1
-2008-08,Foo Fighters,0
-2008-08,Huey Lewis & The News,0
-2008-08,Jokke & Valentinerne,0
-2008-08,Jokke & Valentinerne Med Tourettes,0
-2008-08,Kaizers Orchestra,0
-2008-08,Lou Reed,0
-2008-08,Marit Larsen,0
-2008-08,Oasis,0
-2008-08,Postgirobygget,0
-2008-08,Pulp,0
-2008-08,Raga Rockers,0
-2008-08,The Beatles,0
-2008-08,The Clash,0
-2008-08,The Doors,13
-2008-08,The Kinks,0
-2008-08,The Strokes,0
-2008-08,Tom Waits,4
-2008-09,Bigbang,1
-2008-09,Bruce Springsteen,2
-2008-09,Delillos,0
-2008-09,Foo Fighters,0
-2008-09,Huey Lewis & The News,0
-2008-09,Jokke & Valentinerne,9
-2008-09,Jokke & Valentinerne Med Tourettes,0
-2008-09,Kaizers Orchestra,1
-2008-09,Lou Reed,0
-2008-09,Marit Larsen,22
-2008-09,Oasis,0
-2008-09,Postgirobygget,0
-2008-09,Pulp,0
-2008-09,Raga Rockers,1
-2008-09,The Beatles,8
-2008-09,The Clash,0
-2008-09,The Doors,7
-2008-09,The Kinks,1
-2008-09,The Strokes,0
-2008-09,Tom Waits,6
-2008-10,Bigbang,2
-2008-10,Bruce Springsteen,0
-2008-10,Delillos,7
-2008-10,Foo Fighters,5
-2008-10,Huey Lewis & The News,3
-2008-10,Jokke & Valentinerne,22
-2008-10,Jokke & Valentinerne Med Tourettes,19
-2008-10,Kaizers Orchestra,9
-2008-10,Lou Reed,9
-2008-10,Marit Larsen,11
-2008-10,Oasis,0
-2008-10,Postgirobygget,3
-2008-10,Pulp,7
-2008-10,Raga Rockers,0
-2008-10,The Beatles,12
-2008-10,The Clash,0
-2008-10,The Doors,11
-2008-10,The Kinks,19
-2008-10,The Strokes,5
-2008-10,Tom Waits,2
-2008-11,Bigbang,0
-2008-11,Bruce Springsteen,2
-2008-11,Delillos,41
-2008-11,Foo Fighters,18
-2008-11,Huey Lewis & The News,4
-2008-11,Jokke & Valentinerne,3
-2008-11,Jokke & Valentinerne Med Tourettes,52
-2008-11,Kaizers Orchestra,7
-2008-11,Lou Reed,2
-2008-11,Marit Larsen,23
-2008-11,Oasis,10
-2008-11,Postgirobygget,2
-2008-11,Pulp,10
-2008-11,Raga Rockers,2
-2008-11,The Beatles,102
-2008-11,The Clash,0
-2008-11,The Doors,3
-2008-11,The Kinks,35
-2008-11,The Strokes,10
-2008-11,Tom Waits,2
-2008-12,Bigbang,0
-2008-12,Bruce Springsteen,0
-2008-12,Delillos,0
-2008-12,Foo Fighters,0
-2008-12,Huey Lewis & The News,0
-2008-12,Jokke & Valentinerne,0
-2008-12,Jokke & Valentinerne Med Tourettes,0
-2008-12,Kaizers Orchestra,0
-2008-12,Lou Reed,0
-2008-12,Marit Larsen,0
-2008-12,Oasis,0
-2008-12,Postgirobygget,0
-2008-12,Pulp,0
-2008-12,Raga Rockers,0
-2008-12,The Beatles,0
-2008-12,The Clash,0
-2008-12,The Doors,0
-2008-12,The Kinks,0
-2008-12,The Strokes,0
-2008-12,Tom Waits,0
-2009-01,Bigbang,0
-2009-01,Bruce Springsteen,0
-2009-01,Delillos,0
-2009-01,Foo Fighters,0
-2009-01,Huey Lewis & The News,1
-2009-01,Jokke & Valentinerne,5
-2009-01,Jokke & Valentinerne Med Tourettes,0
-2009-01,Kaizers Orchestra,0
-2009-01,Lou Reed,0
-2009-01,Marit Larsen,0
-2009-01,Oasis,0
-2009-01,Postgirobygget,0
-2009-01,Pulp,0
-2009-01,Raga Rockers,0
-2009-01,The Beatles,0
-2009-01,The Clash,0
-2009-01,The Doors,0
-2009-01,The Kinks,0
-2009-01,The Strokes,0
-2009-01,Tom Waits,2
-2009-02,Bigbang,12
-2009-02,Bruce Springsteen,64
-2009-02,Delillos,0
-2009-02,Foo Fighters,0
-2009-02,Huey Lewis & The News,0
-2009-02,Jokke & Valentinerne,56
-2009-02,Jokke & Valentinerne Med Tourettes,125
-2009-02,Kaizers Orchestra,18
-2009-02,Lou Reed,0
-2009-02,Marit Larsen,0
-2009-02,Oasis,50
-2009-02,Postgirobygget,0
-2009-02,Pulp,14
-2009-02,Raga Rockers,0
-2009-02,The Beatles,0
-2009-02,The Clash,34
-2009-02,The Doors,32
-2009-02,The Kinks,0
-2009-02,The Strokes,17
-2009-02,Tom Waits,6
-2009-03,Bigbang,9
-2009-03,Bruce Springsteen,29
-2009-03,Delillos,0
-2009-03,Foo Fighters,0
-2009-03,Huey Lewis & The News,0
-2009-03,Jokke & Valentinerne,113
-2009-03,Jokke & Valentinerne Med Tourettes,51
-2009-03,Kaizers Orchestra,32
-2009-03,Lou Reed,0
-2009-03,Marit Larsen,0
-2009-03,Oasis,34
-2009-03,Postgirobygget,4
-2009-03,Pulp,4
-2009-03,Raga Rockers,0
-2009-03,The Beatles,0
-2009-03,The Clash,45
-2009-03,The Doors,13
-2009-03,The Kinks,0
-2009-03,The Strokes,7
-2009-03,Tom Waits,10
-2009-04,Bigbang,0
-2009-04,Bruce Springsteen,0
-2009-04,Delillos,0
-2009-04,Foo Fighters,0
-2009-04,Huey Lewis & The News,0
-2009-04,Jokke & Valentinerne,0
-2009-04,Jokke & Valentinerne Med Tourettes,2
-2009-04,Kaizers Orchestra,0
-2009-04,Lou Reed,0
-2009-04,Marit Larsen,10
-2009-04,Oasis,0
-2009-04,Postgirobygget,2
-2009-04,Pulp,0
-2009-04,Raga Rockers,0
-2009-04,The Beatles,0
-2009-04,The Clash,7
-2009-04,The Doors,0
-2009-04,The Kinks,0
-2009-04,The Strokes,11
-2009-04,Tom Waits,0
+"month","artist","plays"
+"2006-09","Bigbang",39
+"2006-09","Bruce Springsteen",19
+"2006-09","Delillos",3
+"2006-09","Foo Fighters",82
+"2006-09","Huey Lewis & The News",62
+"2006-09","Jokke & Valentinerne",0
+"2006-09","Jokke & Valentinerne Med Tourettes",0
+"2006-09","Kaizers Orchestra",18
+"2006-09","Lou Reed",26
+"2006-09","Marit Larsen",33
+"2006-09","Oasis",0
+"2006-09","Postgirobygget",16
+"2006-09","Pulp",30
+"2006-09","Raga Rockers",4
+"2006-09","The Beatles",132
+"2006-09","The Clash",1
+"2006-09","The Doors",0
+"2006-09","The Kinks",76
+"2006-09","The Strokes",6
+"2006-09","Tom Waits",75
+"2006-10","Bigbang",11
+"2006-10","Bruce Springsteen",2
+"2006-10","Delillos",9
+"2006-10","Foo Fighters",0
+"2006-10","Huey Lewis & The News",6
+"2006-10","Jokke & Valentinerne",0
+"2006-10","Jokke & Valentinerne Med Tourettes",0
+"2006-10","Kaizers Orchestra",0
+"2006-10","Lou Reed",14
+"2006-10","Marit Larsen",21
+"2006-10","Oasis",0
+"2006-10","Postgirobygget",5
+"2006-10","Pulp",0
+"2006-10","Raga Rockers",1
+"2006-10","The Beatles",3
+"2006-10","The Clash",0
+"2006-10","The Doors",7
+"2006-10","The Kinks",37
+"2006-10","The Strokes",0
+"2006-10","Tom Waits",41
+"2006-11","Bigbang",1
+"2006-11","Bruce Springsteen",10
+"2006-11","Delillos",72
+"2006-11","Foo Fighters",2
+"2006-11","Huey Lewis & The News",13
+"2006-11","Jokke & Valentinerne",0
+"2006-11","Jokke & Valentinerne Med Tourettes",0
+"2006-11","Kaizers Orchestra",2
+"2006-11","Lou Reed",15
+"2006-11","Marit Larsen",188
+"2006-11","Oasis",0
+"2006-11","Postgirobygget",30
+"2006-11","Pulp",4
+"2006-11","Raga Rockers",3
+"2006-11","The Beatles",79
+"2006-11","The Clash",0
+"2006-11","The Doors",16
+"2006-11","The Kinks",22
+"2006-11","The Strokes",7
+"2006-11","Tom Waits",1
+"2006-12","Bigbang",0
+"2006-12","Bruce Springsteen",0
+"2006-12","Delillos",0
+"2006-12","Foo Fighters",0
+"2006-12","Huey Lewis & The News",20
+"2006-12","Jokke & Valentinerne",0
+"2006-12","Jokke & Valentinerne Med Tourettes",0
+"2006-12","Kaizers Orchestra",0
+"2006-12","Lou Reed",2
+"2006-12","Marit Larsen",0
+"2006-12","Oasis",0
+"2006-12","Postgirobygget",0
+"2006-12","Pulp",0
+"2006-12","Raga Rockers",0
+"2006-12","The Beatles",0
+"2006-12","The Clash",0
+"2006-12","The Doors",0
+"2006-12","The Kinks",0
+"2006-12","The Strokes",0
+"2006-12","Tom Waits",0
+"2007-01","Bigbang",0
+"2007-01","Bruce Springsteen",0
+"2007-01","Delillos",0
+"2007-01","Foo Fighters",0
+"2007-01","Huey Lewis & The News",0
+"2007-01","Jokke & Valentinerne",0
+"2007-01","Jokke & Valentinerne Med Tourettes",0
+"2007-01","Kaizers Orchestra",0
+"2007-01","Lou Reed",19
+"2007-01","Marit Larsen",0
+"2007-01","Oasis",51
+"2007-01","Postgirobygget",4
+"2007-01","Pulp",4
+"2007-01","Raga Rockers",0
+"2007-01","The Beatles",2
+"2007-01","The Clash",37
+"2007-01","The Doors",273
+"2007-01","The Kinks",0
+"2007-01","The Strokes",19
+"2007-01","Tom Waits",0
+"2007-02","Bigbang",0
+"2007-02","Bruce Springsteen",0
+"2007-02","Delillos",0
+"2007-02","Foo Fighters",0
+"2007-02","Huey Lewis & The News",0
+"2007-02","Jokke & Valentinerne",0
+"2007-02","Jokke & Valentinerne Med Tourettes",0
+"2007-02","Kaizers Orchestra",0
+"2007-02","Lou Reed",2
+"2007-02","Marit Larsen",0
+"2007-02","Oasis",8
+"2007-02","Postgirobygget",2
+"2007-02","Pulp",24
+"2007-02","Raga Rockers",0
+"2007-02","The Beatles",19
+"2007-02","The Clash",6
+"2007-02","The Doors",120
+"2007-02","The Kinks",0
+"2007-02","The Strokes",41
+"2007-02","Tom Waits",0
+"2007-03","Bigbang",0
+"2007-03","Bruce Springsteen",0
+"2007-03","Delillos",0
+"2007-03","Foo Fighters",0
+"2007-03","Huey Lewis & The News",0
+"2007-03","Jokke & Valentinerne",0
+"2007-03","Jokke & Valentinerne Med Tourettes",0
+"2007-03","Kaizers Orchestra",0
+"2007-03","Lou Reed",17
+"2007-03","Marit Larsen",0
+"2007-03","Oasis",1
+"2007-03","Postgirobygget",1
+"2007-03","Pulp",13
+"2007-03","Raga Rockers",0
+"2007-03","The Beatles",16
+"2007-03","The Clash",14
+"2007-03","The Doors",3
+"2007-03","The Kinks",0
+"2007-03","The Strokes",21
+"2007-03","Tom Waits",0
+"2007-04","Bigbang",0
+"2007-04","Bruce Springsteen",0
+"2007-04","Delillos",0
+"2007-04","Foo Fighters",0
+"2007-04","Huey Lewis & The News",0
+"2007-04","Jokke & Valentinerne",0
+"2007-04","Jokke & Valentinerne Med Tourettes",0
+"2007-04","Kaizers Orchestra",0
+"2007-04","Lou Reed",0
+"2007-04","Marit Larsen",0
+"2007-04","Oasis",0
+"2007-04","Postgirobygget",0
+"2007-04","Pulp",0
+"2007-04","Raga Rockers",0
+"2007-04","The Beatles",0
+"2007-04","The Clash",19
+"2007-04","The Doors",89
+"2007-04","The Kinks",0
+"2007-04","The Strokes",13
+"2007-04","Tom Waits",0
+"2007-05","Bigbang",0
+"2007-05","Bruce Springsteen",0
+"2007-05","Delillos",0
+"2007-05","Foo Fighters",0
+"2007-05","Huey Lewis & The News",0
+"2007-05","Jokke & Valentinerne",0
+"2007-05","Jokke & Valentinerne Med Tourettes",0
+"2007-05","Kaizers Orchestra",0
+"2007-05","Lou Reed",0
+"2007-05","Marit Larsen",0
+"2007-05","Oasis",0
+"2007-05","Postgirobygget",0
+"2007-05","Pulp",0
+"2007-05","Raga Rockers",0
+"2007-05","The Beatles",0
+"2007-05","The Clash",0
+"2007-05","The Doors",0
+"2007-05","The Kinks",0
+"2007-05","The Strokes",0
+"2007-05","Tom Waits",0
+"2007-06","Bigbang",0
+"2007-06","Bruce Springsteen",0
+"2007-06","Delillos",0
+"2007-06","Foo Fighters",0
+"2007-06","Huey Lewis & The News",0
+"2007-06","Jokke & Valentinerne",0
+"2007-06","Jokke & Valentinerne Med Tourettes",0
+"2007-06","Kaizers Orchestra",0
+"2007-06","Lou Reed",0
+"2007-06","Marit Larsen",0
+"2007-06","Oasis",0
+"2007-06","Postgirobygget",0
+"2007-06","Pulp",0
+"2007-06","Raga Rockers",0
+"2007-06","The Beatles",0
+"2007-06","The Clash",0
+"2007-06","The Doors",0
+"2007-06","The Kinks",0
+"2007-06","The Strokes",0
+"2007-06","Tom Waits",0
+"2007-07","Bigbang",0
+"2007-07","Bruce Springsteen",0
+"2007-07","Delillos",0
+"2007-07","Foo Fighters",0
+"2007-07","Huey Lewis & The News",0
+"2007-07","Jokke & Valentinerne",0
+"2007-07","Jokke & Valentinerne Med Tourettes",0
+"2007-07","Kaizers Orchestra",0
+"2007-07","Lou Reed",0
+"2007-07","Marit Larsen",0
+"2007-07","Oasis",0
+"2007-07","Postgirobygget",0
+"2007-07","Pulp",0
+"2007-07","Raga Rockers",0
+"2007-07","The Beatles",0
+"2007-07","The Clash",0
+"2007-07","The Doors",0
+"2007-07","The Kinks",0
+"2007-07","The Strokes",0
+"2007-07","Tom Waits",0
+"2007-08","Bigbang",0
+"2007-08","Bruce Springsteen",0
+"2007-08","Delillos",0
+"2007-08","Foo Fighters",0
+"2007-08","Huey Lewis & The News",0
+"2007-08","Jokke & Valentinerne",0
+"2007-08","Jokke & Valentinerne Med Tourettes",0
+"2007-08","Kaizers Orchestra",0
+"2007-08","Lou Reed",0
+"2007-08","Marit Larsen",0
+"2007-08","Oasis",0
+"2007-08","Postgirobygget",0
+"2007-08","Pulp",0
+"2007-08","Raga Rockers",0
+"2007-08","The Beatles",0
+"2007-08","The Clash",0
+"2007-08","The Doors",0
+"2007-08","The Kinks",0
+"2007-08","The Strokes",0
+"2007-08","Tom Waits",0
+"2007-09","Bigbang",0
+"2007-09","Bruce Springsteen",0
+"2007-09","Delillos",0
+"2007-09","Foo Fighters",0
+"2007-09","Huey Lewis & The News",0
+"2007-09","Jokke & Valentinerne",0
+"2007-09","Jokke & Valentinerne Med Tourettes",0
+"2007-09","Kaizers Orchestra",0
+"2007-09","Lou Reed",0
+"2007-09","Marit Larsen",0
+"2007-09","Oasis",0
+"2007-09","Postgirobygget",0
+"2007-09","Pulp",0
+"2007-09","Raga Rockers",0
+"2007-09","The Beatles",0
+"2007-09","The Clash",0
+"2007-09","The Doors",0
+"2007-09","The Kinks",0
+"2007-09","The Strokes",0
+"2007-09","Tom Waits",0
+"2007-10","Bigbang",0
+"2007-10","Bruce Springsteen",1
+"2007-10","Delillos",31
+"2007-10","Foo Fighters",0
+"2007-10","Huey Lewis & The News",12
+"2007-10","Jokke & Valentinerne",9
+"2007-10","Jokke & Valentinerne Med Tourettes",0
+"2007-10","Kaizers Orchestra",0
+"2007-10","Lou Reed",31
+"2007-10","Marit Larsen",10
+"2007-10","Oasis",0
+"2007-10","Postgirobygget",1
+"2007-10","Pulp",0
+"2007-10","Raga Rockers",0
+"2007-10","The Beatles",1
+"2007-10","The Clash",0
+"2007-10","The Doors",41
+"2007-10","The Kinks",17
+"2007-10","The Strokes",20
+"2007-10","Tom Waits",0
+"2007-11","Bigbang",0
+"2007-11","Bruce Springsteen",0
+"2007-11","Delillos",8
+"2007-11","Foo Fighters",1
+"2007-11","Huey Lewis & The News",1
+"2007-11","Jokke & Valentinerne",4
+"2007-11","Jokke & Valentinerne Med Tourettes",0
+"2007-11","Kaizers Orchestra",0
+"2007-11","Lou Reed",1
+"2007-11","Marit Larsen",0
+"2007-11","Oasis",0
+"2007-11","Postgirobygget",3
+"2007-11","Pulp",2
+"2007-11","Raga Rockers",0
+"2007-11","The Beatles",23
+"2007-11","The Clash",0
+"2007-11","The Doors",7
+"2007-11","The Kinks",2
+"2007-11","The Strokes",3
+"2007-11","Tom Waits",2
+"2007-12","Bigbang",0
+"2007-12","Bruce Springsteen",0
+"2007-12","Delillos",0
+"2007-12","Foo Fighters",0
+"2007-12","Huey Lewis & The News",0
+"2007-12","Jokke & Valentinerne",0
+"2007-12","Jokke & Valentinerne Med Tourettes",0
+"2007-12","Kaizers Orchestra",0
+"2007-12","Lou Reed",0
+"2007-12","Marit Larsen",0
+"2007-12","Oasis",0
+"2007-12","Postgirobygget",0
+"2007-12","Pulp",0
+"2007-12","Raga Rockers",0
+"2007-12","The Beatles",0
+"2007-12","The Clash",0
+"2007-12","The Doors",1
+"2007-12","The Kinks",0
+"2007-12","The Strokes",0
+"2007-12","Tom Waits",0
+"2008-01","Bigbang",1
+"2008-01","Bruce Springsteen",16
+"2008-01","Delillos",7
+"2008-01","Foo Fighters",20
+"2008-01","Huey Lewis & The News",4
+"2008-01","Jokke & Valentinerne",1
+"2008-01","Jokke & Valentinerne Med Tourettes",1
+"2008-01","Kaizers Orchestra",0
+"2008-01","Lou Reed",0
+"2008-01","Marit Larsen",0
+"2008-01","Oasis",1
+"2008-01","Postgirobygget",0
+"2008-01","Pulp",0
+"2008-01","Raga Rockers",0
+"2008-01","The Beatles",24
+"2008-01","The Clash",14
+"2008-01","The Doors",0
+"2008-01","The Kinks",1
+"2008-01","The Strokes",0
+"2008-01","Tom Waits",0
+"2008-02","Bigbang",3
+"2008-02","Bruce Springsteen",6
+"2008-02","Delillos",7
+"2008-02","Foo Fighters",14
+"2008-02","Huey Lewis & The News",7
+"2008-02","Jokke & Valentinerne",14
+"2008-02","Jokke & Valentinerne Med Tourettes",9
+"2008-02","Kaizers Orchestra",1
+"2008-02","Lou Reed",5
+"2008-02","Marit Larsen",7
+"2008-02","Oasis",2
+"2008-02","Postgirobygget",11
+"2008-02","Pulp",4
+"2008-02","Raga Rockers",3
+"2008-02","The Beatles",41
+"2008-02","The Clash",0
+"2008-02","The Doors",4
+"2008-02","The Kinks",7
+"2008-02","The Strokes",7
+"2008-02","Tom Waits",21
+"2008-03","Bigbang",1
+"2008-03","Bruce Springsteen",4
+"2008-03","Delillos",23
+"2008-03","Foo Fighters",5
+"2008-03","Huey Lewis & The News",0
+"2008-03","Jokke & Valentinerne",42
+"2008-03","Jokke & Valentinerne Med Tourettes",20
+"2008-03","Kaizers Orchestra",6
+"2008-03","Lou Reed",0
+"2008-03","Marit Larsen",0
+"2008-03","Oasis",0
+"2008-03","Postgirobygget",0
+"2008-03","Pulp",0
+"2008-03","Raga Rockers",14
+"2008-03","The Beatles",49
+"2008-03","The Clash",0
+"2008-03","The Doors",14
+"2008-03","The Kinks",0
+"2008-03","The Strokes",1
+"2008-03","Tom Waits",26
+"2008-04","Bigbang",0
+"2008-04","Bruce Springsteen",1
+"2008-04","Delillos",6
+"2008-04","Foo Fighters",2
+"2008-04","Huey Lewis & The News",3
+"2008-04","Jokke & Valentinerne",9
+"2008-04","Jokke & Valentinerne Med Tourettes",0
+"2008-04","Kaizers Orchestra",0
+"2008-04","Lou Reed",0
+"2008-04","Marit Larsen",0
+"2008-04","Oasis",1
+"2008-04","Postgirobygget",16
+"2008-04","Pulp",1
+"2008-04","Raga Rockers",9
+"2008-04","The Beatles",4
+"2008-04","The Clash",3
+"2008-04","The Doors",1
+"2008-04","The Kinks",8
+"2008-04","The Strokes",2
+"2008-04","Tom Waits",14
+"2008-05","Bigbang",0
+"2008-05","Bruce Springsteen",1
+"2008-05","Delillos",23
+"2008-05","Foo Fighters",1
+"2008-05","Huey Lewis & The News",0
+"2008-05","Jokke & Valentinerne",7
+"2008-05","Jokke & Valentinerne Med Tourettes",5
+"2008-05","Kaizers Orchestra",2
+"2008-05","Lou Reed",0
+"2008-05","Marit Larsen",10
+"2008-05","Oasis",0
+"2008-05","Postgirobygget",27
+"2008-05","Pulp",14
+"2008-05","Raga Rockers",4
+"2008-05","The Beatles",11
+"2008-05","The Clash",0
+"2008-05","The Doors",2
+"2008-05","The Kinks",20
+"2008-05","The Strokes",0
+"2008-05","Tom Waits",0
+"2008-06","Bigbang",0
+"2008-06","Bruce Springsteen",0
+"2008-06","Delillos",6
+"2008-06","Foo Fighters",0
+"2008-06","Huey Lewis & The News",0
+"2008-06","Jokke & Valentinerne",0
+"2008-06","Jokke & Valentinerne Med Tourettes",0
+"2008-06","Kaizers Orchestra",0
+"2008-06","Lou Reed",0
+"2008-06","Marit Larsen",0
+"2008-06","Oasis",7
+"2008-06","Postgirobygget",0
+"2008-06","Pulp",2
+"2008-06","Raga Rockers",0
+"2008-06","The Beatles",0
+"2008-06","The Clash",0
+"2008-06","The Doors",0
+"2008-06","The Kinks",0
+"2008-06","The Strokes",10
+"2008-06","Tom Waits",0
+"2008-07","Bigbang",0
+"2008-07","Bruce Springsteen",1
+"2008-07","Delillos",1
+"2008-07","Foo Fighters",0
+"2008-07","Huey Lewis & The News",0
+"2008-07","Jokke & Valentinerne",1
+"2008-07","Jokke & Valentinerne Med Tourettes",3
+"2008-07","Kaizers Orchestra",1
+"2008-07","Lou Reed",0
+"2008-07","Marit Larsen",0
+"2008-07","Oasis",0
+"2008-07","Postgirobygget",0
+"2008-07","Pulp",1
+"2008-07","Raga Rockers",1
+"2008-07","The Beatles",0
+"2008-07","The Clash",1
+"2008-07","The Doors",0
+"2008-07","The Kinks",0
+"2008-07","The Strokes",0
+"2008-07","Tom Waits",0
+"2008-08","Bigbang",0
+"2008-08","Bruce Springsteen",0
+"2008-08","Delillos",1
+"2008-08","Foo Fighters",0
+"2008-08","Huey Lewis & The News",0
+"2008-08","Jokke & Valentinerne",0
+"2008-08","Jokke & Valentinerne Med Tourettes",0
+"2008-08","Kaizers Orchestra",0
+"2008-08","Lou Reed",0
+"2008-08","Marit Larsen",0
+"2008-08","Oasis",0
+"2008-08","Postgirobygget",0
+"2008-08","Pulp",0
+"2008-08","Raga Rockers",0
+"2008-08","The Beatles",0
+"2008-08","The Clash",0
+"2008-08","The Doors",13
+"2008-08","The Kinks",0
+"2008-08","The Strokes",0
+"2008-08","Tom Waits",4
+"2008-09","Bigbang",1
+"2008-09","Bruce Springsteen",2
+"2008-09","Delillos",0
+"2008-09","Foo Fighters",0
+"2008-09","Huey Lewis & The News",0
+"2008-09","Jokke & Valentinerne",9
+"2008-09","Jokke & Valentinerne Med Tourettes",0
+"2008-09","Kaizers Orchestra",1
+"2008-09","Lou Reed",0
+"2008-09","Marit Larsen",22
+"2008-09","Oasis",0
+"2008-09","Postgirobygget",0
+"2008-09","Pulp",0
+"2008-09","Raga Rockers",1
+"2008-09","The Beatles",8
+"2008-09","The Clash",0
+"2008-09","The Doors",7
+"2008-09","The Kinks",1
+"2008-09","The Strokes",0
+"2008-09","Tom Waits",6
+"2008-10","Bigbang",2
+"2008-10","Bruce Springsteen",0
+"2008-10","Delillos",7
+"2008-10","Foo Fighters",5
+"2008-10","Huey Lewis & The News",3
+"2008-10","Jokke & Valentinerne",22
+"2008-10","Jokke & Valentinerne Med Tourettes",19
+"2008-10","Kaizers Orchestra",9
+"2008-10","Lou Reed",9
+"2008-10","Marit Larsen",11
+"2008-10","Oasis",0
+"2008-10","Postgirobygget",3
+"2008-10","Pulp",7
+"2008-10","Raga Rockers",0
+"2008-10","The Beatles",12
+"2008-10","The Clash",0
+"2008-10","The Doors",11
+"2008-10","The Kinks",19
+"2008-10","The Strokes",5
+"2008-10","Tom Waits",2
+"2008-11","Bigbang",0
+"2008-11","Bruce Springsteen",2
+"2008-11","Delillos",41
+"2008-11","Foo Fighters",18
+"2008-11","Huey Lewis & The News",4
+"2008-11","Jokke & Valentinerne",3
+"2008-11","Jokke & Valentinerne Med Tourettes",52
+"2008-11","Kaizers Orchestra",7
+"2008-11","Lou Reed",2
+"2008-11","Marit Larsen",23
+"2008-11","Oasis",10
+"2008-11","Postgirobygget",2
+"2008-11","Pulp",10
+"2008-11","Raga Rockers",2
+"2008-11","The Beatles",102
+"2008-11","The Clash",0
+"2008-11","The Doors",3
+"2008-11","The Kinks",35
+"2008-11","The Strokes",10
+"2008-11","Tom Waits",2
+"2008-12","Bigbang",0
+"2008-12","Bruce Springsteen",0
+"2008-12","Delillos",0
+"2008-12","Foo Fighters",0
+"2008-12","Huey Lewis & The News",0
+"2008-12","Jokke & Valentinerne",0
+"2008-12","Jokke & Valentinerne Med Tourettes",0
+"2008-12","Kaizers Orchestra",0
+"2008-12","Lou Reed",0
+"2008-12","Marit Larsen",0
+"2008-12","Oasis",0
+"2008-12","Postgirobygget",0
+"2008-12","Pulp",0
+"2008-12","Raga Rockers",0
+"2008-12","The Beatles",0
+"2008-12","The Clash",0
+"2008-12","The Doors",0
+"2008-12","The Kinks",0
+"2008-12","The Strokes",0
+"2008-12","Tom Waits",0
+"2009-01","Bigbang",0
+"2009-01","Bruce Springsteen",0
+"2009-01","Delillos",0
+"2009-01","Foo Fighters",0
+"2009-01","Huey Lewis & The News",1
+"2009-01","Jokke & Valentinerne",5
+"2009-01","Jokke & Valentinerne Med Tourettes",0
+"2009-01","Kaizers Orchestra",0
+"2009-01","Lou Reed",0
+"2009-01","Marit Larsen",0
+"2009-01","Oasis",0
+"2009-01","Postgirobygget",0
+"2009-01","Pulp",0
+"2009-01","Raga Rockers",0
+"2009-01","The Beatles",0
+"2009-01","The Clash",0
+"2009-01","The Doors",0
+"2009-01","The Kinks",0
+"2009-01","The Strokes",0
+"2009-01","Tom Waits",2
+"2009-02","Bigbang",12
+"2009-02","Bruce Springsteen",64
+"2009-02","Delillos",0
+"2009-02","Foo Fighters",0
+"2009-02","Huey Lewis & The News",0
+"2009-02","Jokke & Valentinerne",56
+"2009-02","Jokke & Valentinerne Med Tourettes",125
+"2009-02","Kaizers Orchestra",18
+"2009-02","Lou Reed",0
+"2009-02","Marit Larsen",0
+"2009-02","Oasis",50
+"2009-02","Postgirobygget",0
+"2009-02","Pulp",14
+"2009-02","Raga Rockers",0
+"2009-02","The Beatles",0
+"2009-02","The Clash",34
+"2009-02","The Doors",32
+"2009-02","The Kinks",0
+"2009-02","The Strokes",17
+"2009-02","Tom Waits",6
+"2009-03","Bigbang",9
+"2009-03","Bruce Springsteen",29
+"2009-03","Delillos",0
+"2009-03","Foo Fighters",0
+"2009-03","Huey Lewis & The News",0
+"2009-03","Jokke & Valentinerne",113
+"2009-03","Jokke & Valentinerne Med Tourettes",51
+"2009-03","Kaizers Orchestra",32
+"2009-03","Lou Reed",0
+"2009-03","Marit Larsen",0
+"2009-03","Oasis",34
+"2009-03","Postgirobygget",4
+"2009-03","Pulp",4
+"2009-03","Raga Rockers",0
+"2009-03","The Beatles",0
+"2009-03","The Clash",45
+"2009-03","The Doors",13
+"2009-03","The Kinks",0
+"2009-03","The Strokes",7
+"2009-03","Tom Waits",10
+"2009-04","Bigbang",0
+"2009-04","Bruce Springsteen",0
+"2009-04","Delillos",0
+"2009-04","Foo Fighters",0
+"2009-04","Huey Lewis & The News",0
+"2009-04","Jokke & Valentinerne",0
+"2009-04","Jokke & Valentinerne Med Tourettes",2
+"2009-04","Kaizers Orchestra",0
+"2009-04","Lou Reed",0
+"2009-04","Marit Larsen",10
+"2009-04","Oasis",0
+"2009-04","Postgirobygget",2
+"2009-04","Pulp",0
+"2009-04","Raga Rockers",0
+"2009-04","The Beatles",0
+"2009-04","The Clash",7
+"2009-04","The Doors",0
+"2009-04","The Kinks",0
+"2009-04","The Strokes",11
+"2009-04","Tom Waits",0

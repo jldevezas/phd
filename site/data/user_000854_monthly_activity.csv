@@ -1,81 +1,81 @@
-month,artist,plays
-2009-02,Abba,4
-2009-02,Alice Cooper,3
-2009-02,Basshunter Feat. Dj Mental Theos Bazzheadz,1
-2009-02,Carpenters,6
-2009-02,Cascada,1
-2009-02,Cc Cowboys,2
-2009-02,Céline Dion,1
-2009-02,Coldplay,1
-2009-02,David Bowie,21
-2009-02,Deep Purple,9
-2009-02,Delillos,2
-2009-02,Elton John,6
-2009-02,Guns N' Roses,10
-2009-02,Gustavo Santaolalla,5
-2009-02,Hans Zimmer,34
-2009-02,Kate Ryan,3
-2009-02,Leonard Cohen,22
-2009-02,Lifehouse,0
-2009-02,Lou Reed,24
-2009-02,Lynyrd Skynyrd,4
-2009-03,Abba,7
-2009-03,Alice Cooper,2
-2009-03,Basshunter Feat. Dj Mental Theos Bazzheadz,1
-2009-03,Carpenters,2
-2009-03,Cascada,2
-2009-03,Cc Cowboys,1
-2009-03,Céline Dion,1
-2009-03,Coldplay,1
-2009-03,David Bowie,9
-2009-03,Deep Purple,10
-2009-03,Delillos,4
-2009-03,Elton John,7
-2009-03,Guns N' Roses,15
-2009-03,Gustavo Santaolalla,1
-2009-03,Hans Zimmer,14
-2009-03,Kate Ryan,5
-2009-03,Leonard Cohen,8
-2009-03,Lifehouse,4
-2009-03,Lou Reed,2
-2009-03,Lynyrd Skynyrd,2
-2009-04,Abba,2
-2009-04,Alice Cooper,5
-2009-04,Basshunter Feat. Dj Mental Theos Bazzheadz,2
-2009-04,Carpenters,4
-2009-04,Cascada,3
-2009-04,Cc Cowboys,1
-2009-04,Céline Dion,1
-2009-04,Coldplay,2
-2009-04,David Bowie,9
-2009-04,Deep Purple,18
-2009-04,Delillos,1
-2009-04,Elton John,14
-2009-04,Guns N' Roses,8
-2009-04,Gustavo Santaolalla,3
-2009-04,Hans Zimmer,10
-2009-04,Kate Ryan,2
-2009-04,Leonard Cohen,9
-2009-04,Lifehouse,23
-2009-04,Lou Reed,4
-2009-04,Lynyrd Skynyrd,2
-2009-05,Abba,0
-2009-05,Alice Cooper,0
-2009-05,Basshunter Feat. Dj Mental Theos Bazzheadz,0
-2009-05,Carpenters,0
-2009-05,Cascada,0
-2009-05,Cc Cowboys,0
-2009-05,Céline Dion,0
-2009-05,Coldplay,0
-2009-05,David Bowie,0
-2009-05,Deep Purple,0
-2009-05,Delillos,0
-2009-05,Elton John,0
-2009-05,Guns N' Roses,0
-2009-05,Gustavo Santaolalla,0
-2009-05,Hans Zimmer,0
-2009-05,Kate Ryan,0
-2009-05,Leonard Cohen,0
-2009-05,Lifehouse,1
-2009-05,Lou Reed,0
-2009-05,Lynyrd Skynyrd,0
+"month","artist","plays"
+"2009-02","Abba",4
+"2009-02","Alice Cooper",3
+"2009-02","Basshunter Feat. Dj Mental Theos Bazzheadz",1
+"2009-02","Carpenters",6
+"2009-02","Cascada",1
+"2009-02","Cc Cowboys",2
+"2009-02","Céline Dion",1
+"2009-02","Coldplay",1
+"2009-02","David Bowie",21
+"2009-02","Deep Purple",9
+"2009-02","Delillos",2
+"2009-02","Elton John",6
+"2009-02","Guns N' Roses",10
+"2009-02","Gustavo Santaolalla",5
+"2009-02","Hans Zimmer",34
+"2009-02","Kate Ryan",3
+"2009-02","Leonard Cohen",22
+"2009-02","Lifehouse",0
+"2009-02","Lou Reed",24
+"2009-02","Lynyrd Skynyrd",4
+"2009-03","Abba",7
+"2009-03","Alice Cooper",2
+"2009-03","Basshunter Feat. Dj Mental Theos Bazzheadz",1
+"2009-03","Carpenters",2
+"2009-03","Cascada",2
+"2009-03","Cc Cowboys",1
+"2009-03","Céline Dion",1
+"2009-03","Coldplay",1
+"2009-03","David Bowie",9
+"2009-03","Deep Purple",10
+"2009-03","Delillos",4
+"2009-03","Elton John",7
+"2009-03","Guns N' Roses",15
+"2009-03","Gustavo Santaolalla",1
+"2009-03","Hans Zimmer",14
+"2009-03","Kate Ryan",5
+"2009-03","Leonard Cohen",8
+"2009-03","Lifehouse",4
+"2009-03","Lou Reed",2
+"2009-03","Lynyrd Skynyrd",2
+"2009-04","Abba",2
+"2009-04","Alice Cooper",5
+"2009-04","Basshunter Feat. Dj Mental Theos Bazzheadz",2
+"2009-04","Carpenters",4
+"2009-04","Cascada",3
+"2009-04","Cc Cowboys",1
+"2009-04","Céline Dion",1
+"2009-04","Coldplay",2
+"2009-04","David Bowie",9
+"2009-04","Deep Purple",18
+"2009-04","Delillos",1
+"2009-04","Elton John",14
+"2009-04","Guns N' Roses",8
+"2009-04","Gustavo Santaolalla",3
+"2009-04","Hans Zimmer",10
+"2009-04","Kate Ryan",2
+"2009-04","Leonard Cohen",9
+"2009-04","Lifehouse",23
+"2009-04","Lou Reed",4
+"2009-04","Lynyrd Skynyrd",2
+"2009-05","Abba",0
+"2009-05","Alice Cooper",0
+"2009-05","Basshunter Feat. Dj Mental Theos Bazzheadz",0
+"2009-05","Carpenters",0
+"2009-05","Cascada",0
+"2009-05","Cc Cowboys",0
+"2009-05","Céline Dion",0
+"2009-05","Coldplay",0
+"2009-05","David Bowie",0
+"2009-05","Deep Purple",0
+"2009-05","Delillos",0
+"2009-05","Elton John",0
+"2009-05","Guns N' Roses",0
+"2009-05","Gustavo Santaolalla",0
+"2009-05","Hans Zimmer",0
+"2009-05","Kate Ryan",0
+"2009-05","Leonard Cohen",0
+"2009-05","Lifehouse",1
+"2009-05","Lou Reed",0
+"2009-05","Lynyrd Skynyrd",0

@@ -1,561 +1,561 @@
-month,artist,plays
-2007-01,Björk,86
-2007-01,Consul The Educated Monkey,8
-2007-01,Crystal Castles,86
-2007-01,Cut Copy,106
-2007-01,Death In Vegas,1
-2007-01,Digitalism,36
-2007-01,Hot Chip,301
-2007-01,Jackson And His Computer Band,224
-2007-01,Klaxons,97
-2007-01,Lucybell,185
-2007-01,Midnight Juggernauts,53
-2007-01,Musetta,9
-2007-01,Popular Computer,13
-2007-01,Portishead,7
-2007-01,Simian Mobile Disco,0
-2007-01,Soulwax,1
-2007-01,The Knife,122
-2007-01,The Presets,13
-2007-01,Tonossepia,0
-2007-01,Vitalic,0
-2007-02,Björk,64
-2007-02,Consul The Educated Monkey,166
-2007-02,Crystal Castles,27
-2007-02,Cut Copy,292
-2007-02,Death In Vegas,113
-2007-02,Digitalism,23
-2007-02,Hot Chip,91
-2007-02,Jackson And His Computer Band,166
-2007-02,Klaxons,91
-2007-02,Lucybell,22
-2007-02,Midnight Juggernauts,3
-2007-02,Musetta,30
-2007-02,Popular Computer,18
-2007-02,Portishead,21
-2007-02,Simian Mobile Disco,162
-2007-02,Soulwax,29
-2007-02,The Knife,38
-2007-02,The Presets,23
-2007-02,Tonossepia,0
-2007-02,Vitalic,314
-2007-03,Björk,59
-2007-03,Consul The Educated Monkey,45
-2007-03,Crystal Castles,20
-2007-03,Cut Copy,111
-2007-03,Death In Vegas,10
-2007-03,Digitalism,4
-2007-03,Hot Chip,48
-2007-03,Jackson And His Computer Band,119
-2007-03,Klaxons,36
-2007-03,Lucybell,4
-2007-03,Midnight Juggernauts,3
-2007-03,Musetta,19
-2007-03,Popular Computer,15
-2007-03,Portishead,25
-2007-03,Simian Mobile Disco,40
-2007-03,Soulwax,46
-2007-03,The Knife,26
-2007-03,The Presets,61
-2007-03,Tonossepia,0
-2007-03,Vitalic,134
-2007-04,Björk,1
-2007-04,Consul The Educated Monkey,183
-2007-04,Crystal Castles,5
-2007-04,Cut Copy,69
-2007-04,Death In Vegas,7
-2007-04,Digitalism,4
-2007-04,Hot Chip,39
-2007-04,Jackson And His Computer Band,941
-2007-04,Klaxons,35
-2007-04,Lucybell,31
-2007-04,Midnight Juggernauts,1
-2007-04,Musetta,2
-2007-04,Popular Computer,130
-2007-04,Portishead,169
-2007-04,Simian Mobile Disco,17
-2007-04,Soulwax,12
-2007-04,The Knife,3
-2007-04,The Presets,27
-2007-04,Tonossepia,0
-2007-04,Vitalic,18
-2007-05,Björk,10
-2007-05,Consul The Educated Monkey,471
-2007-05,Crystal Castles,0
-2007-05,Cut Copy,35
-2007-05,Death In Vegas,17
-2007-05,Digitalism,1
-2007-05,Hot Chip,14
-2007-05,Jackson And His Computer Band,421
-2007-05,Klaxons,181
-2007-05,Lucybell,89
-2007-05,Midnight Juggernauts,1
-2007-05,Musetta,17
-2007-05,Popular Computer,12
-2007-05,Portishead,12
-2007-05,Simian Mobile Disco,38
-2007-05,Soulwax,97
-2007-05,The Knife,9
-2007-05,The Presets,10
-2007-05,Tonossepia,209
-2007-05,Vitalic,12
-2007-06,Björk,37
-2007-06,Consul The Educated Monkey,27
-2007-06,Crystal Castles,0
-2007-06,Cut Copy,41
-2007-06,Death In Vegas,1
-2007-06,Digitalism,1
-2007-06,Hot Chip,7
-2007-06,Jackson And His Computer Band,465
-2007-06,Klaxons,0
-2007-06,Lucybell,28
-2007-06,Midnight Juggernauts,5
-2007-06,Musetta,24
-2007-06,Popular Computer,2
-2007-06,Portishead,5
-2007-06,Simian Mobile Disco,0
-2007-06,Soulwax,2
-2007-06,The Knife,17
-2007-06,The Presets,10
-2007-06,Tonossepia,14
-2007-06,Vitalic,15
-2007-07,Björk,62
-2007-07,Consul The Educated Monkey,8
-2007-07,Crystal Castles,46
-2007-07,Cut Copy,15
-2007-07,Death In Vegas,10
-2007-07,Digitalism,1
-2007-07,Hot Chip,7
-2007-07,Jackson And His Computer Band,205
-2007-07,Klaxons,10
-2007-07,Lucybell,6
-2007-07,Midnight Juggernauts,1
-2007-07,Musetta,12
-2007-07,Popular Computer,7
-2007-07,Portishead,0
-2007-07,Simian Mobile Disco,4
-2007-07,Soulwax,0
-2007-07,The Knife,50
-2007-07,The Presets,7
-2007-07,Tonossepia,17
-2007-07,Vitalic,10
-2007-08,Björk,4
-2007-08,Consul The Educated Monkey,14
-2007-08,Crystal Castles,23
-2007-08,Cut Copy,14
-2007-08,Death In Vegas,10
-2007-08,Digitalism,6
-2007-08,Hot Chip,6
-2007-08,Jackson And His Computer Band,123
-2007-08,Klaxons,23
-2007-08,Lucybell,1
-2007-08,Midnight Juggernauts,0
-2007-08,Musetta,8
-2007-08,Popular Computer,13
-2007-08,Portishead,2
-2007-08,Simian Mobile Disco,8
-2007-08,Soulwax,7
-2007-08,The Knife,4
-2007-08,The Presets,6
-2007-08,Tonossepia,10
-2007-08,Vitalic,11
-2007-09,Björk,2
-2007-09,Consul The Educated Monkey,8
-2007-09,Crystal Castles,5
-2007-09,Cut Copy,114
-2007-09,Death In Vegas,12
-2007-09,Digitalism,4
-2007-09,Hot Chip,3
-2007-09,Jackson And His Computer Band,37
-2007-09,Klaxons,40
-2007-09,Lucybell,2
-2007-09,Midnight Juggernauts,136
-2007-09,Musetta,24
-2007-09,Popular Computer,106
-2007-09,Portishead,19
-2007-09,Simian Mobile Disco,5
-2007-09,Soulwax,5
-2007-09,The Knife,9
-2007-09,The Presets,2
-2007-09,Tonossepia,28
-2007-09,Vitalic,23
-2007-10,Björk,5
-2007-10,Consul The Educated Monkey,1
-2007-10,Crystal Castles,0
-2007-10,Cut Copy,10
-2007-10,Death In Vegas,2
-2007-10,Digitalism,4
-2007-10,Hot Chip,2
-2007-10,Jackson And His Computer Band,74
-2007-10,Klaxons,8
-2007-10,Lucybell,0
-2007-10,Midnight Juggernauts,7
-2007-10,Musetta,0
-2007-10,Popular Computer,3
-2007-10,Portishead,0
-2007-10,Simian Mobile Disco,5
-2007-10,Soulwax,4
-2007-10,The Knife,6
-2007-10,The Presets,0
-2007-10,Tonossepia,12
-2007-10,Vitalic,3
-2007-11,Björk,9
-2007-11,Consul The Educated Monkey,0
-2007-11,Crystal Castles,2
-2007-11,Cut Copy,54
-2007-11,Death In Vegas,0
-2007-11,Digitalism,0
-2007-11,Hot Chip,34
-2007-11,Jackson And His Computer Band,21
-2007-11,Klaxons,62
-2007-11,Lucybell,23
-2007-11,Midnight Juggernauts,1
-2007-11,Musetta,12
-2007-11,Popular Computer,79
-2007-11,Portishead,0
-2007-11,Simian Mobile Disco,0
-2007-11,Soulwax,112
-2007-11,The Knife,22
-2007-11,The Presets,24
-2007-11,Tonossepia,55
-2007-11,Vitalic,0
-2007-12,Björk,13
-2007-12,Consul The Educated Monkey,0
-2007-12,Crystal Castles,1
-2007-12,Cut Copy,9
-2007-12,Death In Vegas,0
-2007-12,Digitalism,22
-2007-12,Hot Chip,3
-2007-12,Jackson And His Computer Band,45
-2007-12,Klaxons,4
-2007-12,Lucybell,0
-2007-12,Midnight Juggernauts,5
-2007-12,Musetta,13
-2007-12,Popular Computer,11
-2007-12,Portishead,0
-2007-12,Simian Mobile Disco,4
-2007-12,Soulwax,0
-2007-12,The Knife,0
-2007-12,The Presets,0
-2007-12,Tonossepia,0
-2007-12,Vitalic,0
-2008-01,Björk,0
-2008-01,Consul The Educated Monkey,0
-2008-01,Crystal Castles,0
-2008-01,Cut Copy,32
-2008-01,Death In Vegas,0
-2008-01,Digitalism,6
-2008-01,Hot Chip,6
-2008-01,Jackson And His Computer Band,28
-2008-01,Klaxons,25
-2008-01,Lucybell,0
-2008-01,Midnight Juggernauts,23
-2008-01,Musetta,4
-2008-01,Popular Computer,33
-2008-01,Portishead,78
-2008-01,Simian Mobile Disco,3
-2008-01,Soulwax,0
-2008-01,The Knife,0
-2008-01,The Presets,1
-2008-01,Tonossepia,7
-2008-01,Vitalic,1
-2008-02,Björk,0
-2008-02,Consul The Educated Monkey,0
-2008-02,Crystal Castles,7
-2008-02,Cut Copy,37
-2008-02,Death In Vegas,0
-2008-02,Digitalism,0
-2008-02,Hot Chip,0
-2008-02,Jackson And His Computer Band,5
-2008-02,Klaxons,2
-2008-02,Lucybell,0
-2008-02,Midnight Juggernauts,1
-2008-02,Musetta,0
-2008-02,Popular Computer,0
-2008-02,Portishead,1
-2008-02,Simian Mobile Disco,0
-2008-02,Soulwax,0
-2008-02,The Knife,0
-2008-02,The Presets,1
-2008-02,Tonossepia,8
-2008-02,Vitalic,2
-2008-03,Björk,1
-2008-03,Consul The Educated Monkey,0
-2008-03,Crystal Castles,10
-2008-03,Cut Copy,10
-2008-03,Death In Vegas,10
-2008-03,Digitalism,1
-2008-03,Hot Chip,3
-2008-03,Jackson And His Computer Band,1
-2008-03,Klaxons,2
-2008-03,Lucybell,0
-2008-03,Midnight Juggernauts,3
-2008-03,Musetta,1
-2008-03,Popular Computer,0
-2008-03,Portishead,8
-2008-03,Simian Mobile Disco,0
-2008-03,Soulwax,0
-2008-03,The Knife,4
-2008-03,The Presets,0
-2008-03,Tonossepia,0
-2008-03,Vitalic,2
-2008-04,Björk,16
-2008-04,Consul The Educated Monkey,1
-2008-04,Crystal Castles,2
-2008-04,Cut Copy,6
-2008-04,Death In Vegas,0
-2008-04,Digitalism,0
-2008-04,Hot Chip,1
-2008-04,Jackson And His Computer Band,4
-2008-04,Klaxons,5
-2008-04,Lucybell,0
-2008-04,Midnight Juggernauts,2
-2008-04,Musetta,0
-2008-04,Popular Computer,2
-2008-04,Portishead,1
-2008-04,Simian Mobile Disco,0
-2008-04,Soulwax,0
-2008-04,The Knife,1
-2008-04,The Presets,0
-2008-04,Tonossepia,0
-2008-04,Vitalic,0
-2008-05,Björk,3
-2008-05,Consul The Educated Monkey,0
-2008-05,Crystal Castles,0
-2008-05,Cut Copy,1
-2008-05,Death In Vegas,0
-2008-05,Digitalism,0
-2008-05,Hot Chip,0
-2008-05,Jackson And His Computer Band,1
-2008-05,Klaxons,0
-2008-05,Lucybell,0
-2008-05,Midnight Juggernauts,1
-2008-05,Musetta,0
-2008-05,Popular Computer,4
-2008-05,Portishead,0
-2008-05,Simian Mobile Disco,0
-2008-05,Soulwax,1
-2008-05,The Knife,0
-2008-05,The Presets,0
-2008-05,Tonossepia,2
-2008-05,Vitalic,1
-2008-06,Björk,5
-2008-06,Consul The Educated Monkey,0
-2008-06,Crystal Castles,0
-2008-06,Cut Copy,2
-2008-06,Death In Vegas,0
-2008-06,Digitalism,0
-2008-06,Hot Chip,0
-2008-06,Jackson And His Computer Band,19
-2008-06,Klaxons,5
-2008-06,Lucybell,1
-2008-06,Midnight Juggernauts,0
-2008-06,Musetta,0
-2008-06,Popular Computer,22
-2008-06,Portishead,0
-2008-06,Simian Mobile Disco,6
-2008-06,Soulwax,0
-2008-06,The Knife,2
-2008-06,The Presets,0
-2008-06,Tonossepia,1
-2008-06,Vitalic,0
-2008-07,Björk,1
-2008-07,Consul The Educated Monkey,2
-2008-07,Crystal Castles,16
-2008-07,Cut Copy,3
-2008-07,Death In Vegas,0
-2008-07,Digitalism,2
-2008-07,Hot Chip,2
-2008-07,Jackson And His Computer Band,5
-2008-07,Klaxons,1
-2008-07,Lucybell,12
-2008-07,Midnight Juggernauts,6
-2008-07,Musetta,0
-2008-07,Popular Computer,2
-2008-07,Portishead,2
-2008-07,Simian Mobile Disco,4
-2008-07,Soulwax,4
-2008-07,The Knife,4
-2008-07,The Presets,2
-2008-07,Tonossepia,1
-2008-07,Vitalic,1
-2008-08,Björk,0
-2008-08,Consul The Educated Monkey,2
-2008-08,Crystal Castles,3
-2008-08,Cut Copy,15
-2008-08,Death In Vegas,5
-2008-08,Digitalism,0
-2008-08,Hot Chip,0
-2008-08,Jackson And His Computer Band,11
-2008-08,Klaxons,8
-2008-08,Lucybell,12
-2008-08,Midnight Juggernauts,1
-2008-08,Musetta,4
-2008-08,Popular Computer,11
-2008-08,Portishead,5
-2008-08,Simian Mobile Disco,6
-2008-08,Soulwax,1
-2008-08,The Knife,1
-2008-08,The Presets,1
-2008-08,Tonossepia,3
-2008-08,Vitalic,2
-2008-09,Björk,3
-2008-09,Consul The Educated Monkey,1
-2008-09,Crystal Castles,2
-2008-09,Cut Copy,6
-2008-09,Death In Vegas,3
-2008-09,Digitalism,0
-2008-09,Hot Chip,0
-2008-09,Jackson And His Computer Band,3
-2008-09,Klaxons,2
-2008-09,Lucybell,6
-2008-09,Midnight Juggernauts,1
-2008-09,Musetta,0
-2008-09,Popular Computer,4
-2008-09,Portishead,2
-2008-09,Simian Mobile Disco,2
-2008-09,Soulwax,2
-2008-09,The Knife,0
-2008-09,The Presets,0
-2008-09,Tonossepia,0
-2008-09,Vitalic,1
-2008-10,Björk,2
-2008-10,Consul The Educated Monkey,2
-2008-10,Crystal Castles,4
-2008-10,Cut Copy,3
-2008-10,Death In Vegas,2
-2008-10,Digitalism,2
-2008-10,Hot Chip,3
-2008-10,Jackson And His Computer Band,4
-2008-10,Klaxons,2
-2008-10,Lucybell,2
-2008-10,Midnight Juggernauts,3
-2008-10,Musetta,3
-2008-10,Popular Computer,3
-2008-10,Portishead,2
-2008-10,Simian Mobile Disco,1
-2008-10,Soulwax,6
-2008-10,The Knife,2
-2008-10,The Presets,0
-2008-10,Tonossepia,2
-2008-10,Vitalic,5
-2008-11,Björk,6
-2008-11,Consul The Educated Monkey,0
-2008-11,Crystal Castles,1
-2008-11,Cut Copy,6
-2008-11,Death In Vegas,2
-2008-11,Digitalism,2
-2008-11,Hot Chip,1
-2008-11,Jackson And His Computer Band,6
-2008-11,Klaxons,1
-2008-11,Lucybell,2
-2008-11,Midnight Juggernauts,3
-2008-11,Musetta,2
-2008-11,Popular Computer,2
-2008-11,Portishead,5
-2008-11,Simian Mobile Disco,2
-2008-11,Soulwax,3
-2008-11,The Knife,4
-2008-11,The Presets,1
-2008-11,Tonossepia,2
-2008-11,Vitalic,5
-2008-12,Björk,8
-2008-12,Consul The Educated Monkey,4
-2008-12,Crystal Castles,7
-2008-12,Cut Copy,10
-2008-12,Death In Vegas,2
-2008-12,Digitalism,1
-2008-12,Hot Chip,5
-2008-12,Jackson And His Computer Band,7
-2008-12,Klaxons,7
-2008-12,Lucybell,2
-2008-12,Midnight Juggernauts,2
-2008-12,Musetta,3
-2008-12,Popular Computer,7
-2008-12,Portishead,16
-2008-12,Simian Mobile Disco,3
-2008-12,Soulwax,5
-2008-12,The Knife,6
-2008-12,The Presets,5
-2008-12,Tonossepia,6
-2008-12,Vitalic,3
-2009-01,Björk,0
-2009-01,Consul The Educated Monkey,0
-2009-01,Crystal Castles,0
-2009-01,Cut Copy,0
-2009-01,Death In Vegas,0
-2009-01,Digitalism,0
-2009-01,Hot Chip,0
-2009-01,Jackson And His Computer Band,0
-2009-01,Klaxons,0
-2009-01,Lucybell,0
-2009-01,Midnight Juggernauts,0
-2009-01,Musetta,0
-2009-01,Popular Computer,0
-2009-01,Portishead,0
-2009-01,Simian Mobile Disco,0
-2009-01,Soulwax,0
-2009-01,The Knife,0
-2009-01,The Presets,0
-2009-01,Tonossepia,0
-2009-01,Vitalic,0
-2009-02,Björk,0
-2009-02,Consul The Educated Monkey,0
-2009-02,Crystal Castles,0
-2009-02,Cut Copy,0
-2009-02,Death In Vegas,0
-2009-02,Digitalism,0
-2009-02,Hot Chip,0
-2009-02,Jackson And His Computer Band,0
-2009-02,Klaxons,0
-2009-02,Lucybell,0
-2009-02,Midnight Juggernauts,0
-2009-02,Musetta,0
-2009-02,Popular Computer,0
-2009-02,Portishead,0
-2009-02,Simian Mobile Disco,0
-2009-02,Soulwax,0
-2009-02,The Knife,0
-2009-02,The Presets,0
-2009-02,Tonossepia,0
-2009-02,Vitalic,0
-2009-03,Björk,0
-2009-03,Consul The Educated Monkey,0
-2009-03,Crystal Castles,0
-2009-03,Cut Copy,0
-2009-03,Death In Vegas,0
-2009-03,Digitalism,0
-2009-03,Hot Chip,0
-2009-03,Jackson And His Computer Band,0
-2009-03,Klaxons,0
-2009-03,Lucybell,0
-2009-03,Midnight Juggernauts,0
-2009-03,Musetta,0
-2009-03,Popular Computer,0
-2009-03,Portishead,0
-2009-03,Simian Mobile Disco,0
-2009-03,Soulwax,0
-2009-03,The Knife,0
-2009-03,The Presets,0
-2009-03,Tonossepia,0
-2009-03,Vitalic,0
-2009-04,Björk,2
-2009-04,Consul The Educated Monkey,2
-2009-04,Crystal Castles,1
-2009-04,Cut Copy,7
-2009-04,Death In Vegas,2
-2009-04,Digitalism,1
-2009-04,Hot Chip,3
-2009-04,Jackson And His Computer Band,10
-2009-04,Klaxons,7
-2009-04,Lucybell,2
-2009-04,Midnight Juggernauts,6
-2009-04,Musetta,15
-2009-04,Popular Computer,1
-2009-04,Portishead,6
-2009-04,Simian Mobile Disco,3
-2009-04,Soulwax,1
-2009-04,The Knife,3
-2009-04,The Presets,1
-2009-04,Tonossepia,4
-2009-04,Vitalic,8
+"month","artist","plays"
+"2007-01","Björk",86
+"2007-01","Consul The Educated Monkey",8
+"2007-01","Crystal Castles",86
+"2007-01","Cut Copy",106
+"2007-01","Death In Vegas",1
+"2007-01","Digitalism",36
+"2007-01","Hot Chip",301
+"2007-01","Jackson And His Computer Band",224
+"2007-01","Klaxons",97
+"2007-01","Lucybell",185
+"2007-01","Midnight Juggernauts",53
+"2007-01","Musetta",9
+"2007-01","Popular Computer",13
+"2007-01","Portishead",7
+"2007-01","Simian Mobile Disco",0
+"2007-01","Soulwax",1
+"2007-01","The Knife",122
+"2007-01","The Presets",13
+"2007-01","Tonossepia",0
+"2007-01","Vitalic",0
+"2007-02","Björk",64
+"2007-02","Consul The Educated Monkey",166
+"2007-02","Crystal Castles",27
+"2007-02","Cut Copy",292
+"2007-02","Death In Vegas",113
+"2007-02","Digitalism",23
+"2007-02","Hot Chip",91
+"2007-02","Jackson And His Computer Band",166
+"2007-02","Klaxons",91
+"2007-02","Lucybell",22
+"2007-02","Midnight Juggernauts",3
+"2007-02","Musetta",30
+"2007-02","Popular Computer",18
+"2007-02","Portishead",21
+"2007-02","Simian Mobile Disco",162
+"2007-02","Soulwax",29
+"2007-02","The Knife",38
+"2007-02","The Presets",23
+"2007-02","Tonossepia",0
+"2007-02","Vitalic",314
+"2007-03","Björk",59
+"2007-03","Consul The Educated Monkey",45
+"2007-03","Crystal Castles",20
+"2007-03","Cut Copy",111
+"2007-03","Death In Vegas",10
+"2007-03","Digitalism",4
+"2007-03","Hot Chip",48
+"2007-03","Jackson And His Computer Band",119
+"2007-03","Klaxons",36
+"2007-03","Lucybell",4
+"2007-03","Midnight Juggernauts",3
+"2007-03","Musetta",19
+"2007-03","Popular Computer",15
+"2007-03","Portishead",25
+"2007-03","Simian Mobile Disco",40
+"2007-03","Soulwax",46
+"2007-03","The Knife",26
+"2007-03","The Presets",61
+"2007-03","Tonossepia",0
+"2007-03","Vitalic",134
+"2007-04","Björk",1
+"2007-04","Consul The Educated Monkey",183
+"2007-04","Crystal Castles",5
+"2007-04","Cut Copy",69
+"2007-04","Death In Vegas",7
+"2007-04","Digitalism",4
+"2007-04","Hot Chip",39
+"2007-04","Jackson And His Computer Band",941
+"2007-04","Klaxons",35
+"2007-04","Lucybell",31
+"2007-04","Midnight Juggernauts",1
+"2007-04","Musetta",2
+"2007-04","Popular Computer",130
+"2007-04","Portishead",169
+"2007-04","Simian Mobile Disco",17
+"2007-04","Soulwax",12
+"2007-04","The Knife",3
+"2007-04","The Presets",27
+"2007-04","Tonossepia",0
+"2007-04","Vitalic",18
+"2007-05","Björk",10
+"2007-05","Consul The Educated Monkey",471
+"2007-05","Crystal Castles",0
+"2007-05","Cut Copy",35
+"2007-05","Death In Vegas",17
+"2007-05","Digitalism",1
+"2007-05","Hot Chip",14
+"2007-05","Jackson And His Computer Band",421
+"2007-05","Klaxons",181
+"2007-05","Lucybell",89
+"2007-05","Midnight Juggernauts",1
+"2007-05","Musetta",17
+"2007-05","Popular Computer",12
+"2007-05","Portishead",12
+"2007-05","Simian Mobile Disco",38
+"2007-05","Soulwax",97
+"2007-05","The Knife",9
+"2007-05","The Presets",10
+"2007-05","Tonossepia",209
+"2007-05","Vitalic",12
+"2007-06","Björk",37
+"2007-06","Consul The Educated Monkey",27
+"2007-06","Crystal Castles",0
+"2007-06","Cut Copy",41
+"2007-06","Death In Vegas",1
+"2007-06","Digitalism",1
+"2007-06","Hot Chip",7
+"2007-06","Jackson And His Computer Band",465
+"2007-06","Klaxons",0
+"2007-06","Lucybell",28
+"2007-06","Midnight Juggernauts",5
+"2007-06","Musetta",24
+"2007-06","Popular Computer",2
+"2007-06","Portishead",5
+"2007-06","Simian Mobile Disco",0
+"2007-06","Soulwax",2
+"2007-06","The Knife",17
+"2007-06","The Presets",10
+"2007-06","Tonossepia",14
+"2007-06","Vitalic",15
+"2007-07","Björk",62
+"2007-07","Consul The Educated Monkey",8
+"2007-07","Crystal Castles",46
+"2007-07","Cut Copy",15
+"2007-07","Death In Vegas",10
+"2007-07","Digitalism",1
+"2007-07","Hot Chip",7
+"2007-07","Jackson And His Computer Band",205
+"2007-07","Klaxons",10
+"2007-07","Lucybell",6
+"2007-07","Midnight Juggernauts",1
+"2007-07","Musetta",12
+"2007-07","Popular Computer",7
+"2007-07","Portishead",0
+"2007-07","Simian Mobile Disco",4
+"2007-07","Soulwax",0
+"2007-07","The Knife",50
+"2007-07","The Presets",7
+"2007-07","Tonossepia",17
+"2007-07","Vitalic",10
+"2007-08","Björk",4
+"2007-08","Consul The Educated Monkey",14
+"2007-08","Crystal Castles",23
+"2007-08","Cut Copy",14
+"2007-08","Death In Vegas",10
+"2007-08","Digitalism",6
+"2007-08","Hot Chip",6
+"2007-08","Jackson And His Computer Band",123
+"2007-08","Klaxons",23
+"2007-08","Lucybell",1
+"2007-08","Midnight Juggernauts",0
+"2007-08","Musetta",8
+"2007-08","Popular Computer",13
+"2007-08","Portishead",2
+"2007-08","Simian Mobile Disco",8
+"2007-08","Soulwax",7
+"2007-08","The Knife",4
+"2007-08","The Presets",6
+"2007-08","Tonossepia",10
+"2007-08","Vitalic",11
+"2007-09","Björk",2
+"2007-09","Consul The Educated Monkey",8
+"2007-09","Crystal Castles",5
+"2007-09","Cut Copy",114
+"2007-09","Death In Vegas",12
+"2007-09","Digitalism",4
+"2007-09","Hot Chip",3
+"2007-09","Jackson And His Computer Band",37
+"2007-09","Klaxons",40
+"2007-09","Lucybell",2
+"2007-09","Midnight Juggernauts",136
+"2007-09","Musetta",24
+"2007-09","Popular Computer",106
+"2007-09","Portishead",19
+"2007-09","Simian Mobile Disco",5
+"2007-09","Soulwax",5
+"2007-09","The Knife",9
+"2007-09","The Presets",2
+"2007-09","Tonossepia",28
+"2007-09","Vitalic",23
+"2007-10","Björk",5
+"2007-10","Consul The Educated Monkey",1
+"2007-10","Crystal Castles",0
+"2007-10","Cut Copy",10
+"2007-10","Death In Vegas",2
+"2007-10","Digitalism",4
+"2007-10","Hot Chip",2
+"2007-10","Jackson And His Computer Band",74
+"2007-10","Klaxons",8
+"2007-10","Lucybell",0
+"2007-10","Midnight Juggernauts",7
+"2007-10","Musetta",0
+"2007-10","Popular Computer",3
+"2007-10","Portishead",0
+"2007-10","Simian Mobile Disco",5
+"2007-10","Soulwax",4
+"2007-10","The Knife",6
+"2007-10","The Presets",0
+"2007-10","Tonossepia",12
+"2007-10","Vitalic",3
+"2007-11","Björk",9
+"2007-11","Consul The Educated Monkey",0
+"2007-11","Crystal Castles",2
+"2007-11","Cut Copy",54
+"2007-11","Death In Vegas",0
+"2007-11","Digitalism",0
+"2007-11","Hot Chip",34
+"2007-11","Jackson And His Computer Band",21
+"2007-11","Klaxons",62
+"2007-11","Lucybell",23
+"2007-11","Midnight Juggernauts",1
+"2007-11","Musetta",12
+"2007-11","Popular Computer",79
+"2007-11","Portishead",0
+"2007-11","Simian Mobile Disco",0
+"2007-11","Soulwax",112
+"2007-11","The Knife",22
+"2007-11","The Presets",24
+"2007-11","Tonossepia",55
+"2007-11","Vitalic",0
+"2007-12","Björk",13
+"2007-12","Consul The Educated Monkey",0
+"2007-12","Crystal Castles",1
+"2007-12","Cut Copy",9
+"2007-12","Death In Vegas",0
+"2007-12","Digitalism",22
+"2007-12","Hot Chip",3
+"2007-12","Jackson And His Computer Band",45
+"2007-12","Klaxons",4
+"2007-12","Lucybell",0
+"2007-12","Midnight Juggernauts",5
+"2007-12","Musetta",13
+"2007-12","Popular Computer",11
+"2007-12","Portishead",0
+"2007-12","Simian Mobile Disco",4
+"2007-12","Soulwax",0
+"2007-12","The Knife",0
+"2007-12","The Presets",0
+"2007-12","Tonossepia",0
+"2007-12","Vitalic",0
+"2008-01","Björk",0
+"2008-01","Consul The Educated Monkey",0
+"2008-01","Crystal Castles",0
+"2008-01","Cut Copy",32
+"2008-01","Death In Vegas",0
+"2008-01","Digitalism",6
+"2008-01","Hot Chip",6
+"2008-01","Jackson And His Computer Band",28
+"2008-01","Klaxons",25
+"2008-01","Lucybell",0
+"2008-01","Midnight Juggernauts",23
+"2008-01","Musetta",4
+"2008-01","Popular Computer",33
+"2008-01","Portishead",78
+"2008-01","Simian Mobile Disco",3
+"2008-01","Soulwax",0
+"2008-01","The Knife",0
+"2008-01","The Presets",1
+"2008-01","Tonossepia",7
+"2008-01","Vitalic",1
+"2008-02","Björk",0
+"2008-02","Consul The Educated Monkey",0
+"2008-02","Crystal Castles",7
+"2008-02","Cut Copy",37
+"2008-02","Death In Vegas",0
+"2008-02","Digitalism",0
+"2008-02","Hot Chip",0
+"2008-02","Jackson And His Computer Band",5
+"2008-02","Klaxons",2
+"2008-02","Lucybell",0
+"2008-02","Midnight Juggernauts",1
+"2008-02","Musetta",0
+"2008-02","Popular Computer",0
+"2008-02","Portishead",1
+"2008-02","Simian Mobile Disco",0
+"2008-02","Soulwax",0
+"2008-02","The Knife",0
+"2008-02","The Presets",1
+"2008-02","Tonossepia",8
+"2008-02","Vitalic",2
+"2008-03","Björk",1
+"2008-03","Consul The Educated Monkey",0
+"2008-03","Crystal Castles",10
+"2008-03","Cut Copy",10
+"2008-03","Death In Vegas",10
+"2008-03","Digitalism",1
+"2008-03","Hot Chip",3
+"2008-03","Jackson And His Computer Band",1
+"2008-03","Klaxons",2
+"2008-03","Lucybell",0
+"2008-03","Midnight Juggernauts",3
+"2008-03","Musetta",1
+"2008-03","Popular Computer",0
+"2008-03","Portishead",8
+"2008-03","Simian Mobile Disco",0
+"2008-03","Soulwax",0
+"2008-03","The Knife",4
+"2008-03","The Presets",0
+"2008-03","Tonossepia",0
+"2008-03","Vitalic",2
+"2008-04","Björk",16
+"2008-04","Consul The Educated Monkey",1
+"2008-04","Crystal Castles",2
+"2008-04","Cut Copy",6
+"2008-04","Death In Vegas",0
+"2008-04","Digitalism",0
+"2008-04","Hot Chip",1
+"2008-04","Jackson And His Computer Band",4
+"2008-04","Klaxons",5
+"2008-04","Lucybell",0
+"2008-04","Midnight Juggernauts",2
+"2008-04","Musetta",0
+"2008-04","Popular Computer",2
+"2008-04","Portishead",1
+"2008-04","Simian Mobile Disco",0
+"2008-04","Soulwax",0
+"2008-04","The Knife",1
+"2008-04","The Presets",0
+"2008-04","Tonossepia",0
+"2008-04","Vitalic",0
+"2008-05","Björk",3
+"2008-05","Consul The Educated Monkey",0
+"2008-05","Crystal Castles",0
+"2008-05","Cut Copy",1
+"2008-05","Death In Vegas",0
+"2008-05","Digitalism",0
+"2008-05","Hot Chip",0
+"2008-05","Jackson And His Computer Band",1
+"2008-05","Klaxons",0
+"2008-05","Lucybell",0
+"2008-05","Midnight Juggernauts",1
+"2008-05","Musetta",0
+"2008-05","Popular Computer",4
+"2008-05","Portishead",0
+"2008-05","Simian Mobile Disco",0
+"2008-05","Soulwax",1
+"2008-05","The Knife",0
+"2008-05","The Presets",0
+"2008-05","Tonossepia",2
+"2008-05","Vitalic",1
+"2008-06","Björk",5
+"2008-06","Consul The Educated Monkey",0
+"2008-06","Crystal Castles",0
+"2008-06","Cut Copy",2
+"2008-06","Death In Vegas",0
+"2008-06","Digitalism",0
+"2008-06","Hot Chip",0
+"2008-06","Jackson And His Computer Band",19
+"2008-06","Klaxons",5
+"2008-06","Lucybell",1
+"2008-06","Midnight Juggernauts",0
+"2008-06","Musetta",0
+"2008-06","Popular Computer",22
+"2008-06","Portishead",0
+"2008-06","Simian Mobile Disco",6
+"2008-06","Soulwax",0
+"2008-06","The Knife",2
+"2008-06","The Presets",0
+"2008-06","Tonossepia",1
+"2008-06","Vitalic",0
+"2008-07","Björk",1
+"2008-07","Consul The Educated Monkey",2
+"2008-07","Crystal Castles",16
+"2008-07","Cut Copy",3
+"2008-07","Death In Vegas",0
+"2008-07","Digitalism",2
+"2008-07","Hot Chip",2
+"2008-07","Jackson And His Computer Band",5
+"2008-07","Klaxons",1
+"2008-07","Lucybell",12
+"2008-07","Midnight Juggernauts",6
+"2008-07","Musetta",0
+"2008-07","Popular Computer",2
+"2008-07","Portishead",2
+"2008-07","Simian Mobile Disco",4
+"2008-07","Soulwax",4
+"2008-07","The Knife",4
+"2008-07","The Presets",2
+"2008-07","Tonossepia",1
+"2008-07","Vitalic",1
+"2008-08","Björk",0
+"2008-08","Consul The Educated Monkey",2
+"2008-08","Crystal Castles",3
+"2008-08","Cut Copy",15
+"2008-08","Death In Vegas",5
+"2008-08","Digitalism",0
+"2008-08","Hot Chip",0
+"2008-08","Jackson And His Computer Band",11
+"2008-08","Klaxons",8
+"2008-08","Lucybell",12
+"2008-08","Midnight Juggernauts",1
+"2008-08","Musetta",4
+"2008-08","Popular Computer",11
+"2008-08","Portishead",5
+"2008-08","Simian Mobile Disco",6
+"2008-08","Soulwax",1
+"2008-08","The Knife",1
+"2008-08","The Presets",1
+"2008-08","Tonossepia",3
+"2008-08","Vitalic",2
+"2008-09","Björk",3
+"2008-09","Consul The Educated Monkey",1
+"2008-09","Crystal Castles",2
+"2008-09","Cut Copy",6
+"2008-09","Death In Vegas",3
+"2008-09","Digitalism",0
+"2008-09","Hot Chip",0
+"2008-09","Jackson And His Computer Band",3
+"2008-09","Klaxons",2
+"2008-09","Lucybell",6
+"2008-09","Midnight Juggernauts",1
+"2008-09","Musetta",0
+"2008-09","Popular Computer",4
+"2008-09","Portishead",2
+"2008-09","Simian Mobile Disco",2
+"2008-09","Soulwax",2
+"2008-09","The Knife",0
+"2008-09","The Presets",0
+"2008-09","Tonossepia",0
+"2008-09","Vitalic",1
+"2008-10","Björk",2
+"2008-10","Consul The Educated Monkey",2
+"2008-10","Crystal Castles",4
+"2008-10","Cut Copy",3
+"2008-10","Death In Vegas",2
+"2008-10","Digitalism",2
+"2008-10","Hot Chip",3
+"2008-10","Jackson And His Computer Band",4
+"2008-10","Klaxons",2
+"2008-10","Lucybell",2
+"2008-10","Midnight Juggernauts",3
+"2008-10","Musetta",3
+"2008-10","Popular Computer",3
+"2008-10","Portishead",2
+"2008-10","Simian Mobile Disco",1
+"2008-10","Soulwax",6
+"2008-10","The Knife",2
+"2008-10","The Presets",0
+"2008-10","Tonossepia",2
+"2008-10","Vitalic",5
+"2008-11","Björk",6
+"2008-11","Consul The Educated Monkey",0
+"2008-11","Crystal Castles",1
+"2008-11","Cut Copy",6
+"2008-11","Death In Vegas",2
+"2008-11","Digitalism",2
+"2008-11","Hot Chip",1
+"2008-11","Jackson And His Computer Band",6
+"2008-11","Klaxons",1
+"2008-11","Lucybell",2
+"2008-11","Midnight Juggernauts",3
+"2008-11","Musetta",2
+"2008-11","Popular Computer",2
+"2008-11","Portishead",5
+"2008-11","Simian Mobile Disco",2
+"2008-11","Soulwax",3
+"2008-11","The Knife",4
+"2008-11","The Presets",1
+"2008-11","Tonossepia",2
+"2008-11","Vitalic",5
+"2008-12","Björk",8
+"2008-12","Consul The Educated Monkey",4
+"2008-12","Crystal Castles",7
+"2008-12","Cut Copy",10
+"2008-12","Death In Vegas",2
+"2008-12","Digitalism",1
+"2008-12","Hot Chip",5
+"2008-12","Jackson And His Computer Band",7
+"2008-12","Klaxons",7
+"2008-12","Lucybell",2
+"2008-12","Midnight Juggernauts",2
+"2008-12","Musetta",3
+"2008-12","Popular Computer",7
+"2008-12","Portishead",16
+"2008-12","Simian Mobile Disco",3
+"2008-12","Soulwax",5
+"2008-12","The Knife",6
+"2008-12","The Presets",5
+"2008-12","Tonossepia",6
+"2008-12","Vitalic",3
+"2009-01","Björk",0
+"2009-01","Consul The Educated Monkey",0
+"2009-01","Crystal Castles",0
+"2009-01","Cut Copy",0
+"2009-01","Death In Vegas",0
+"2009-01","Digitalism",0
+"2009-01","Hot Chip",0
+"2009-01","Jackson And His Computer Band",0
+"2009-01","Klaxons",0
+"2009-01","Lucybell",0
+"2009-01","Midnight Juggernauts",0
+"2009-01","Musetta",0
+"2009-01","Popular Computer",0
+"2009-01","Portishead",0
+"2009-01","Simian Mobile Disco",0
+"2009-01","Soulwax",0
+"2009-01","The Knife",0
+"2009-01","The Presets",0
+"2009-01","Tonossepia",0
+"2009-01","Vitalic",0
+"2009-02","Björk",0
+"2009-02","Consul The Educated Monkey",0
+"2009-02","Crystal Castles",0
+"2009-02","Cut Copy",0
+"2009-02","Death In Vegas",0
+"2009-02","Digitalism",0
+"2009-02","Hot Chip",0
+"2009-02","Jackson And His Computer Band",0
+"2009-02","Klaxons",0
+"2009-02","Lucybell",0
+"2009-02","Midnight Juggernauts",0
+"2009-02","Musetta",0
+"2009-02","Popular Computer",0
+"2009-02","Portishead",0
+"2009-02","Simian Mobile Disco",0
+"2009-02","Soulwax",0
+"2009-02","The Knife",0
+"2009-02","The Presets",0
+"2009-02","Tonossepia",0
+"2009-02","Vitalic",0
+"2009-03","Björk",0
+"2009-03","Consul The Educated Monkey",0
+"2009-03","Crystal Castles",0
+"2009-03","Cut Copy",0
+"2009-03","Death In Vegas",0
+"2009-03","Digitalism",0
+"2009-03","Hot Chip",0
+"2009-03","Jackson And His Computer Band",0
+"2009-03","Klaxons",0
+"2009-03","Lucybell",0
+"2009-03","Midnight Juggernauts",0
+"2009-03","Musetta",0
+"2009-03","Popular Computer",0
+"2009-03","Portishead",0
+"2009-03","Simian Mobile Disco",0
+"2009-03","Soulwax",0
+"2009-03","The Knife",0
+"2009-03","The Presets",0
+"2009-03","Tonossepia",0
+"2009-03","Vitalic",0
+"2009-04","Björk",2
+"2009-04","Consul The Educated Monkey",2
+"2009-04","Crystal Castles",1
+"2009-04","Cut Copy",7
+"2009-04","Death In Vegas",2
+"2009-04","Digitalism",1
+"2009-04","Hot Chip",3
+"2009-04","Jackson And His Computer Band",10
+"2009-04","Klaxons",7
+"2009-04","Lucybell",2
+"2009-04","Midnight Juggernauts",6
+"2009-04","Musetta",15
+"2009-04","Popular Computer",1
+"2009-04","Portishead",6
+"2009-04","Simian Mobile Disco",3
+"2009-04","Soulwax",1
+"2009-04","The Knife",3
+"2009-04","The Presets",1
+"2009-04","Tonossepia",4
+"2009-04","Vitalic",8

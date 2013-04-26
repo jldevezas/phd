@@ -1,141 +1,141 @@
-month,artist,plays
-2008-10,2 Many Dj'S,5
-2008-10,Air,13
-2008-10,Aphex Twin,25
-2008-10,Beck,26
-2008-10,Black Rebel Motorcycle Club,27
-2008-10,Digitalism,27
-2008-10,Hope Of The States,27
-2008-10,Idlewild,38
-2008-10,Metric,42
-2008-10,Mstrkrft,9
-2008-10,New Order,2
-2008-10,Patrick Wolf,3
-2008-10,Paul Oakenfold,2
-2008-10,Peter Bjorn And John,5
-2008-10,Radiohead,134
-2008-10,The Black Keys,17
-2008-10,The Cooper Temple Clause,27
-2008-10,The Dandy Warhols,55
-2008-10,The Stills,13
-2008-10,The Strokes,3
-2008-11,2 Many Dj'S,2
-2008-11,Air,20
-2008-11,Aphex Twin,24
-2008-11,Beck,6
-2008-11,Black Rebel Motorcycle Club,24
-2008-11,Digitalism,11
-2008-11,Hope Of The States,9
-2008-11,Idlewild,71
-2008-11,Metric,7
-2008-11,Mstrkrft,5
-2008-11,New Order,12
-2008-11,Patrick Wolf,4
-2008-11,Paul Oakenfold,1
-2008-11,Peter Bjorn And John,3
-2008-11,Radiohead,43
-2008-11,The Black Keys,12
-2008-11,The Cooper Temple Clause,2
-2008-11,The Dandy Warhols,4
-2008-11,The Stills,62
-2008-11,The Strokes,3
-2008-12,2 Many Dj'S,0
-2008-12,Air,1
-2008-12,Aphex Twin,7
-2008-12,Beck,19
-2008-12,Black Rebel Motorcycle Club,17
-2008-12,Digitalism,19
-2008-12,Hope Of The States,1
-2008-12,Idlewild,38
-2008-12,Metric,15
-2008-12,Mstrkrft,1
-2008-12,New Order,31
-2008-12,Patrick Wolf,7
-2008-12,Paul Oakenfold,1
-2008-12,Peter Bjorn And John,1
-2008-12,Radiohead,67
-2008-12,The Black Keys,2
-2008-12,The Cooper Temple Clause,8
-2008-12,The Dandy Warhols,1
-2008-12,The Stills,3
-2008-12,The Strokes,12
-2009-01,2 Many Dj'S,10
-2009-01,Air,22
-2009-01,Aphex Twin,11
-2009-01,Beck,69
-2009-01,Black Rebel Motorcycle Club,51
-2009-01,Digitalism,31
-2009-01,Hope Of The States,15
-2009-01,Idlewild,60
-2009-01,Metric,5
-2009-01,Mstrkrft,2
-2009-01,New Order,7
-2009-01,Patrick Wolf,4
-2009-01,Paul Oakenfold,1
-2009-01,Peter Bjorn And John,19
-2009-01,Radiohead,15
-2009-01,The Black Keys,82
-2009-01,The Cooper Temple Clause,4
-2009-01,The Dandy Warhols,26
-2009-01,The Stills,7
-2009-01,The Strokes,2
-2009-02,2 Many Dj'S,1
-2009-02,Air,15
-2009-02,Aphex Twin,3
-2009-02,Beck,45
-2009-02,Black Rebel Motorcycle Club,16
-2009-02,Digitalism,23
-2009-02,Hope Of The States,3
-2009-02,Idlewild,36
-2009-02,Metric,36
-2009-02,Mstrkrft,2
-2009-02,New Order,7
-2009-02,Patrick Wolf,2
-2009-02,Paul Oakenfold,1
-2009-02,Peter Bjorn And John,25
-2009-02,Radiohead,25
-2009-02,The Black Keys,6
-2009-02,The Cooper Temple Clause,11
-2009-02,The Dandy Warhols,10
-2009-02,The Stills,2
-2009-02,The Strokes,1
-2009-03,2 Many Dj'S,1
-2009-03,Air,16
-2009-03,Aphex Twin,13
-2009-03,Beck,17
-2009-03,Black Rebel Motorcycle Club,13
-2009-03,Digitalism,9
-2009-03,Hope Of The States,37
-2009-03,Idlewild,76
-2009-03,Metric,4
-2009-03,Mstrkrft,3
-2009-03,New Order,5
-2009-03,Patrick Wolf,2
-2009-03,Paul Oakenfold,1
-2009-03,Peter Bjorn And John,74
-2009-03,Radiohead,159
-2009-03,The Black Keys,8
-2009-03,The Cooper Temple Clause,9
-2009-03,The Dandy Warhols,2
-2009-03,The Stills,1
-2009-03,The Strokes,2
-2009-04,2 Many Dj'S,3
-2009-04,Air,4
-2009-04,Aphex Twin,5
-2009-04,Beck,7
-2009-04,Black Rebel Motorcycle Club,32
-2009-04,Digitalism,10
-2009-04,Hope Of The States,2
-2009-04,Idlewild,63
-2009-04,Metric,34
-2009-04,Mstrkrft,1
-2009-04,New Order,5
-2009-04,Patrick Wolf,2
-2009-04,Paul Oakenfold,1
-2009-04,Peter Bjorn And John,13
-2009-04,Radiohead,7
-2009-04,The Black Keys,15
-2009-04,The Cooper Temple Clause,3
-2009-04,The Dandy Warhols,1
-2009-04,The Stills,2
-2009-04,The Strokes,1
+"month","artist","plays"
+"2008-10","2 Many Dj'S",5
+"2008-10","Air",13
+"2008-10","Aphex Twin",25
+"2008-10","Beck",26
+"2008-10","Black Rebel Motorcycle Club",27
+"2008-10","Digitalism",27
+"2008-10","Hope Of The States",27
+"2008-10","Idlewild",38
+"2008-10","Metric",42
+"2008-10","Mstrkrft",9
+"2008-10","New Order",2
+"2008-10","Patrick Wolf",3
+"2008-10","Paul Oakenfold",2
+"2008-10","Peter Bjorn And John",5
+"2008-10","Radiohead",134
+"2008-10","The Black Keys",17
+"2008-10","The Cooper Temple Clause",27
+"2008-10","The Dandy Warhols",55
+"2008-10","The Stills",13
+"2008-10","The Strokes",3
+"2008-11","2 Many Dj'S",2
+"2008-11","Air",20
+"2008-11","Aphex Twin",24
+"2008-11","Beck",6
+"2008-11","Black Rebel Motorcycle Club",24
+"2008-11","Digitalism",11
+"2008-11","Hope Of The States",9
+"2008-11","Idlewild",71
+"2008-11","Metric",7
+"2008-11","Mstrkrft",5
+"2008-11","New Order",12
+"2008-11","Patrick Wolf",4
+"2008-11","Paul Oakenfold",1
+"2008-11","Peter Bjorn And John",3
+"2008-11","Radiohead",43
+"2008-11","The Black Keys",12
+"2008-11","The Cooper Temple Clause",2
+"2008-11","The Dandy Warhols",4
+"2008-11","The Stills",62
+"2008-11","The Strokes",3
+"2008-12","2 Many Dj'S",0
+"2008-12","Air",1
+"2008-12","Aphex Twin",7
+"2008-12","Beck",19
+"2008-12","Black Rebel Motorcycle Club",17
+"2008-12","Digitalism",19
+"2008-12","Hope Of The States",1
+"2008-12","Idlewild",38
+"2008-12","Metric",15
+"2008-12","Mstrkrft",1
+"2008-12","New Order",31
+"2008-12","Patrick Wolf",7
+"2008-12","Paul Oakenfold",1
+"2008-12","Peter Bjorn And John",1
+"2008-12","Radiohead",67
+"2008-12","The Black Keys",2
+"2008-12","The Cooper Temple Clause",8
+"2008-12","The Dandy Warhols",1
+"2008-12","The Stills",3
+"2008-12","The Strokes",12
+"2009-01","2 Many Dj'S",10
+"2009-01","Air",22
+"2009-01","Aphex Twin",11
+"2009-01","Beck",69
+"2009-01","Black Rebel Motorcycle Club",51
+"2009-01","Digitalism",31
+"2009-01","Hope Of The States",15
+"2009-01","Idlewild",60
+"2009-01","Metric",5
+"2009-01","Mstrkrft",2
+"2009-01","New Order",7
+"2009-01","Patrick Wolf",4
+"2009-01","Paul Oakenfold",1
+"2009-01","Peter Bjorn And John",19
+"2009-01","Radiohead",15
+"2009-01","The Black Keys",82
+"2009-01","The Cooper Temple Clause",4
+"2009-01","The Dandy Warhols",26
+"2009-01","The Stills",7
+"2009-01","The Strokes",2
+"2009-02","2 Many Dj'S",1
+"2009-02","Air",15
+"2009-02","Aphex Twin",3
+"2009-02","Beck",45
+"2009-02","Black Rebel Motorcycle Club",16
+"2009-02","Digitalism",23
+"2009-02","Hope Of The States",3
+"2009-02","Idlewild",36
+"2009-02","Metric",36
+"2009-02","Mstrkrft",2
+"2009-02","New Order",7
+"2009-02","Patrick Wolf",2
+"2009-02","Paul Oakenfold",1
+"2009-02","Peter Bjorn And John",25
+"2009-02","Radiohead",25
+"2009-02","The Black Keys",6
+"2009-02","The Cooper Temple Clause",11
+"2009-02","The Dandy Warhols",10
+"2009-02","The Stills",2
+"2009-02","The Strokes",1
+"2009-03","2 Many Dj'S",1
+"2009-03","Air",16
+"2009-03","Aphex Twin",13
+"2009-03","Beck",17
+"2009-03","Black Rebel Motorcycle Club",13
+"2009-03","Digitalism",9
+"2009-03","Hope Of The States",37
+"2009-03","Idlewild",76
+"2009-03","Metric",4
+"2009-03","Mstrkrft",3
+"2009-03","New Order",5
+"2009-03","Patrick Wolf",2
+"2009-03","Paul Oakenfold",1
+"2009-03","Peter Bjorn And John",74
+"2009-03","Radiohead",159
+"2009-03","The Black Keys",8
+"2009-03","The Cooper Temple Clause",9
+"2009-03","The Dandy Warhols",2
+"2009-03","The Stills",1
+"2009-03","The Strokes",2
+"2009-04","2 Many Dj'S",3
+"2009-04","Air",4
+"2009-04","Aphex Twin",5
+"2009-04","Beck",7
+"2009-04","Black Rebel Motorcycle Club",32
+"2009-04","Digitalism",10
+"2009-04","Hope Of The States",2
+"2009-04","Idlewild",63
+"2009-04","Metric",34
+"2009-04","Mstrkrft",1
+"2009-04","New Order",5
+"2009-04","Patrick Wolf",2
+"2009-04","Paul Oakenfold",1
+"2009-04","Peter Bjorn And John",13
+"2009-04","Radiohead",7
+"2009-04","The Black Keys",15
+"2009-04","The Cooper Temple Clause",3
+"2009-04","The Dandy Warhols",1
+"2009-04","The Stills",2
+"2009-04","The Strokes",1

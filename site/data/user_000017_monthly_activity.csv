@@ -1,441 +1,441 @@
-month,artist,plays
-2007-08,Ani Difranco,3
-2007-08,Ben Harper,3
-2007-08,Bob Dylan,6
-2007-08,Cat Stevens,2
-2007-08,David Gray,1
-2007-08,Indigo Girls,2
-2007-08,Iron & Wine,4
-2007-08,Jack Johnson,0
-2007-08,Jewel,0
-2007-08,Joni Mitchell,2
-2007-08,Leonard Cohen,4
-2007-08,Natalie Merchant,1
-2007-08,Nick Drake,7
-2007-08,Pearl Jam,5
-2007-08,Ray Lamontagne,0
-2007-08,Sarah Mclachlan,0
-2007-08,Shawn Colvin,1
-2007-08,Simon & Garfunkel,5
-2007-08,Suzanne Vega,1
-2007-08,Tracy Chapman,0
-2007-09,Ani Difranco,2
-2007-09,Ben Harper,5
-2007-09,Bob Dylan,12
-2007-09,Cat Stevens,5
-2007-09,David Gray,1
-2007-09,Indigo Girls,3
-2007-09,Iron & Wine,9
-2007-09,Jack Johnson,7
-2007-09,Jewel,1
-2007-09,Joni Mitchell,10
-2007-09,Leonard Cohen,9
-2007-09,Natalie Merchant,2
-2007-09,Nick Drake,9
-2007-09,Pearl Jam,17
-2007-09,Ray Lamontagne,1
-2007-09,Sarah Mclachlan,3
-2007-09,Shawn Colvin,2
-2007-09,Simon & Garfunkel,13
-2007-09,Suzanne Vega,1
-2007-09,Tracy Chapman,28
-2007-10,Ani Difranco,1
-2007-10,Ben Harper,6
-2007-10,Bob Dylan,4
-2007-10,Cat Stevens,5
-2007-10,David Gray,1
-2007-10,Indigo Girls,3
-2007-10,Iron & Wine,6
-2007-10,Jack Johnson,5
-2007-10,Jewel,1
-2007-10,Joni Mitchell,3
-2007-10,Leonard Cohen,5
-2007-10,Natalie Merchant,2
-2007-10,Nick Drake,4
-2007-10,Pearl Jam,11
-2007-10,Ray Lamontagne,2
-2007-10,Sarah Mclachlan,6
-2007-10,Shawn Colvin,3
-2007-10,Simon & Garfunkel,4
-2007-10,Suzanne Vega,1
-2007-10,Tracy Chapman,3
-2007-11,Ani Difranco,2
-2007-11,Ben Harper,4
-2007-11,Bob Dylan,2
-2007-11,Cat Stevens,0
-2007-11,David Gray,3
-2007-11,Indigo Girls,1
-2007-11,Iron & Wine,2
-2007-11,Jack Johnson,2
-2007-11,Jewel,0
-2007-11,Joni Mitchell,1
-2007-11,Leonard Cohen,1
-2007-11,Natalie Merchant,2
-2007-11,Nick Drake,0
-2007-11,Pearl Jam,3
-2007-11,Ray Lamontagne,1
-2007-11,Sarah Mclachlan,1
-2007-11,Shawn Colvin,1
-2007-11,Simon & Garfunkel,2
-2007-11,Suzanne Vega,0
-2007-11,Tracy Chapman,0
-2007-12,Ani Difranco,3
-2007-12,Ben Harper,4
-2007-12,Bob Dylan,3
-2007-12,Cat Stevens,1
-2007-12,David Gray,3
-2007-12,Indigo Girls,2
-2007-12,Iron & Wine,3
-2007-12,Jack Johnson,3
-2007-12,Jewel,1
-2007-12,Joni Mitchell,2
-2007-12,Leonard Cohen,2
-2007-12,Natalie Merchant,2
-2007-12,Nick Drake,2
-2007-12,Pearl Jam,2
-2007-12,Ray Lamontagne,0
-2007-12,Sarah Mclachlan,2
-2007-12,Shawn Colvin,0
-2007-12,Simon & Garfunkel,1
-2007-12,Suzanne Vega,2
-2007-12,Tracy Chapman,2
-2008-01,Ani Difranco,5
-2008-01,Ben Harper,8
-2008-01,Bob Dylan,6
-2008-01,Cat Stevens,4
-2008-01,David Gray,8
-2008-01,Indigo Girls,5
-2008-01,Iron & Wine,5
-2008-01,Jack Johnson,6
-2008-01,Jewel,2
-2008-01,Joni Mitchell,7
-2008-01,Leonard Cohen,6
-2008-01,Natalie Merchant,9
-2008-01,Nick Drake,6
-2008-01,Pearl Jam,2
-2008-01,Ray Lamontagne,3
-2008-01,Sarah Mclachlan,6
-2008-01,Shawn Colvin,4
-2008-01,Simon & Garfunkel,7
-2008-01,Suzanne Vega,7
-2008-01,Tracy Chapman,10
-2008-02,Ani Difranco,6
-2008-02,Ben Harper,6
-2008-02,Bob Dylan,6
-2008-02,Cat Stevens,2
-2008-02,David Gray,9
-2008-02,Indigo Girls,2
-2008-02,Iron & Wine,6
-2008-02,Jack Johnson,6
-2008-02,Jewel,4
-2008-02,Joni Mitchell,1
-2008-02,Leonard Cohen,5
-2008-02,Natalie Merchant,6
-2008-02,Nick Drake,5
-2008-02,Pearl Jam,1
-2008-02,Ray Lamontagne,3
-2008-02,Sarah Mclachlan,4
-2008-02,Shawn Colvin,4
-2008-02,Simon & Garfunkel,6
-2008-02,Suzanne Vega,6
-2008-02,Tracy Chapman,10
-2008-03,Ani Difranco,4
-2008-03,Ben Harper,4
-2008-03,Bob Dylan,2
-2008-03,Cat Stevens,1
-2008-03,David Gray,0
-2008-03,Indigo Girls,3
-2008-03,Iron & Wine,2
-2008-03,Jack Johnson,1
-2008-03,Jewel,4
-2008-03,Joni Mitchell,5
-2008-03,Leonard Cohen,3
-2008-03,Natalie Merchant,6
-2008-03,Nick Drake,1
-2008-03,Pearl Jam,2
-2008-03,Ray Lamontagne,2
-2008-03,Sarah Mclachlan,4
-2008-03,Shawn Colvin,4
-2008-03,Simon & Garfunkel,4
-2008-03,Suzanne Vega,3
-2008-03,Tracy Chapman,7
-2008-04,Ani Difranco,7
-2008-04,Ben Harper,7
-2008-04,Bob Dylan,7
-2008-04,Cat Stevens,12
-2008-04,David Gray,2
-2008-04,Indigo Girls,6
-2008-04,Iron & Wine,4
-2008-04,Jack Johnson,9
-2008-04,Jewel,7
-2008-04,Joni Mitchell,7
-2008-04,Leonard Cohen,9
-2008-04,Natalie Merchant,10
-2008-04,Nick Drake,6
-2008-04,Pearl Jam,11
-2008-04,Ray Lamontagne,7
-2008-04,Sarah Mclachlan,6
-2008-04,Shawn Colvin,11
-2008-04,Simon & Garfunkel,9
-2008-04,Suzanne Vega,2
-2008-04,Tracy Chapman,10
-2008-05,Ani Difranco,9
-2008-05,Ben Harper,15
-2008-05,Bob Dylan,9
-2008-05,Cat Stevens,6
-2008-05,David Gray,4
-2008-05,Indigo Girls,5
-2008-05,Iron & Wine,11
-2008-05,Jack Johnson,7
-2008-05,Jewel,4
-2008-05,Joni Mitchell,3
-2008-05,Leonard Cohen,10
-2008-05,Natalie Merchant,7
-2008-05,Nick Drake,7
-2008-05,Pearl Jam,24
-2008-05,Ray Lamontagne,7
-2008-05,Sarah Mclachlan,5
-2008-05,Shawn Colvin,4
-2008-05,Simon & Garfunkel,9
-2008-05,Suzanne Vega,2
-2008-05,Tracy Chapman,3
-2008-06,Ani Difranco,6
-2008-06,Ben Harper,7
-2008-06,Bob Dylan,9
-2008-06,Cat Stevens,7
-2008-06,David Gray,1
-2008-06,Indigo Girls,1
-2008-06,Iron & Wine,4
-2008-06,Jack Johnson,4
-2008-06,Jewel,1
-2008-06,Joni Mitchell,2
-2008-06,Leonard Cohen,6
-2008-06,Natalie Merchant,3
-2008-06,Nick Drake,10
-2008-06,Pearl Jam,53
-2008-06,Ray Lamontagne,4
-2008-06,Sarah Mclachlan,2
-2008-06,Shawn Colvin,0
-2008-06,Simon & Garfunkel,9
-2008-06,Suzanne Vega,2
-2008-06,Tracy Chapman,4
-2008-07,Ani Difranco,1
-2008-07,Ben Harper,5
-2008-07,Bob Dylan,0
-2008-07,Cat Stevens,0
-2008-07,David Gray,1
-2008-07,Indigo Girls,0
-2008-07,Iron & Wine,0
-2008-07,Jack Johnson,5
-2008-07,Jewel,0
-2008-07,Joni Mitchell,0
-2008-07,Leonard Cohen,0
-2008-07,Natalie Merchant,0
-2008-07,Nick Drake,0
-2008-07,Pearl Jam,3
-2008-07,Ray Lamontagne,2
-2008-07,Sarah Mclachlan,0
-2008-07,Shawn Colvin,0
-2008-07,Simon & Garfunkel,0
-2008-07,Suzanne Vega,0
-2008-07,Tracy Chapman,3
-2008-08,Ani Difranco,1
-2008-08,Ben Harper,1
-2008-08,Bob Dylan,2
-2008-08,Cat Stevens,2
-2008-08,David Gray,0
-2008-08,Indigo Girls,0
-2008-08,Iron & Wine,3
-2008-08,Jack Johnson,0
-2008-08,Jewel,0
-2008-08,Joni Mitchell,1
-2008-08,Leonard Cohen,4
-2008-08,Natalie Merchant,0
-2008-08,Nick Drake,3
-2008-08,Pearl Jam,15
-2008-08,Ray Lamontagne,1
-2008-08,Sarah Mclachlan,0
-2008-08,Shawn Colvin,0
-2008-08,Simon & Garfunkel,2
-2008-08,Suzanne Vega,0
-2008-08,Tracy Chapman,1
-2008-09,Ani Difranco,1
-2008-09,Ben Harper,15
-2008-09,Bob Dylan,7
-2008-09,Cat Stevens,5
-2008-09,David Gray,3
-2008-09,Indigo Girls,1
-2008-09,Iron & Wine,6
-2008-09,Jack Johnson,5
-2008-09,Jewel,1
-2008-09,Joni Mitchell,1
-2008-09,Leonard Cohen,2
-2008-09,Natalie Merchant,1
-2008-09,Nick Drake,4
-2008-09,Pearl Jam,12
-2008-09,Ray Lamontagne,3
-2008-09,Sarah Mclachlan,1
-2008-09,Shawn Colvin,1
-2008-09,Simon & Garfunkel,4
-2008-09,Suzanne Vega,1
-2008-09,Tracy Chapman,6
-2008-10,Ani Difranco,1
-2008-10,Ben Harper,2
-2008-10,Bob Dylan,3
-2008-10,Cat Stevens,3
-2008-10,David Gray,0
-2008-10,Indigo Girls,0
-2008-10,Iron & Wine,4
-2008-10,Jack Johnson,0
-2008-10,Jewel,1
-2008-10,Joni Mitchell,1
-2008-10,Leonard Cohen,5
-2008-10,Natalie Merchant,1
-2008-10,Nick Drake,3
-2008-10,Pearl Jam,37
-2008-10,Ray Lamontagne,0
-2008-10,Sarah Mclachlan,0
-2008-10,Shawn Colvin,0
-2008-10,Simon & Garfunkel,4
-2008-10,Suzanne Vega,0
-2008-10,Tracy Chapman,3
-2008-11,Ani Difranco,5
-2008-11,Ben Harper,9
-2008-11,Bob Dylan,2
-2008-11,Cat Stevens,2
-2008-11,David Gray,3
-2008-11,Indigo Girls,2
-2008-11,Iron & Wine,2
-2008-11,Jack Johnson,4
-2008-11,Jewel,4
-2008-11,Joni Mitchell,2
-2008-11,Leonard Cohen,2
-2008-11,Natalie Merchant,2
-2008-11,Nick Drake,1
-2008-11,Pearl Jam,9
-2008-11,Ray Lamontagne,4
-2008-11,Sarah Mclachlan,3
-2008-11,Shawn Colvin,3
-2008-11,Simon & Garfunkel,0
-2008-11,Suzanne Vega,5
-2008-11,Tracy Chapman,8
-2008-12,Ani Difranco,1
-2008-12,Ben Harper,4
-2008-12,Bob Dylan,1
-2008-12,Cat Stevens,3
-2008-12,David Gray,3
-2008-12,Indigo Girls,1
-2008-12,Iron & Wine,1
-2008-12,Jack Johnson,2
-2008-12,Jewel,1
-2008-12,Joni Mitchell,0
-2008-12,Leonard Cohen,1
-2008-12,Natalie Merchant,2
-2008-12,Nick Drake,2
-2008-12,Pearl Jam,4
-2008-12,Ray Lamontagne,1
-2008-12,Sarah Mclachlan,2
-2008-12,Shawn Colvin,1
-2008-12,Simon & Garfunkel,3
-2008-12,Suzanne Vega,1
-2008-12,Tracy Chapman,2
-2009-01,Ani Difranco,11
-2009-01,Ben Harper,5
-2009-01,Bob Dylan,0
-2009-01,Cat Stevens,1
-2009-01,David Gray,7
-2009-01,Indigo Girls,6
-2009-01,Iron & Wine,4
-2009-01,Jack Johnson,4
-2009-01,Jewel,11
-2009-01,Joni Mitchell,3
-2009-01,Leonard Cohen,1
-2009-01,Natalie Merchant,8
-2009-01,Nick Drake,0
-2009-01,Pearl Jam,3
-2009-01,Ray Lamontagne,2
-2009-01,Sarah Mclachlan,14
-2009-01,Shawn Colvin,5
-2009-01,Simon & Garfunkel,4
-2009-01,Suzanne Vega,8
-2009-01,Tracy Chapman,12
-2009-02,Ani Difranco,1
-2009-02,Ben Harper,0
-2009-02,Bob Dylan,0
-2009-02,Cat Stevens,0
-2009-02,David Gray,0
-2009-02,Indigo Girls,0
-2009-02,Iron & Wine,0
-2009-02,Jack Johnson,0
-2009-02,Jewel,7
-2009-02,Joni Mitchell,0
-2009-02,Leonard Cohen,0
-2009-02,Natalie Merchant,1
-2009-02,Nick Drake,0
-2009-02,Pearl Jam,0
-2009-02,Ray Lamontagne,0
-2009-02,Sarah Mclachlan,8
-2009-02,Shawn Colvin,4
-2009-02,Simon & Garfunkel,0
-2009-02,Suzanne Vega,3
-2009-02,Tracy Chapman,3
-2009-03,Ani Difranco,7
-2009-03,Ben Harper,12
-2009-03,Bob Dylan,0
-2009-03,Cat Stevens,3
-2009-03,David Gray,4
-2009-03,Indigo Girls,8
-2009-03,Iron & Wine,0
-2009-03,Jack Johnson,3
-2009-03,Jewel,15
-2009-03,Joni Mitchell,2
-2009-03,Leonard Cohen,0
-2009-03,Natalie Merchant,13
-2009-03,Nick Drake,1
-2009-03,Pearl Jam,20
-2009-03,Ray Lamontagne,2
-2009-03,Sarah Mclachlan,14
-2009-03,Shawn Colvin,10
-2009-03,Simon & Garfunkel,0
-2009-03,Suzanne Vega,7
-2009-03,Tracy Chapman,11
-2009-04,Ani Difranco,0
-2009-04,Ben Harper,6
-2009-04,Bob Dylan,1
-2009-04,Cat Stevens,1
-2009-04,David Gray,1
-2009-04,Indigo Girls,4
-2009-04,Iron & Wine,0
-2009-04,Jack Johnson,3
-2009-04,Jewel,14
-2009-04,Joni Mitchell,0
-2009-04,Leonard Cohen,1
-2009-04,Natalie Merchant,1
-2009-04,Nick Drake,2
-2009-04,Pearl Jam,48
-2009-04,Ray Lamontagne,2
-2009-04,Sarah Mclachlan,7
-2009-04,Shawn Colvin,5
-2009-04,Simon & Garfunkel,1
-2009-04,Suzanne Vega,1
-2009-04,Tracy Chapman,2
-2009-05,Ani Difranco,1
-2009-05,Ben Harper,0
-2009-05,Bob Dylan,0
-2009-05,Cat Stevens,0
-2009-05,David Gray,0
-2009-05,Indigo Girls,1
-2009-05,Iron & Wine,0
-2009-05,Jack Johnson,0
-2009-05,Jewel,1
-2009-05,Joni Mitchell,1
-2009-05,Leonard Cohen,0
-2009-05,Natalie Merchant,1
-2009-05,Nick Drake,0
-2009-05,Pearl Jam,0
-2009-05,Ray Lamontagne,0
-2009-05,Sarah Mclachlan,1
-2009-05,Shawn Colvin,1
-2009-05,Simon & Garfunkel,0
-2009-05,Suzanne Vega,1
-2009-05,Tracy Chapman,1
+"month","artist","plays"
+"2007-08","Ani Difranco",3
+"2007-08","Ben Harper",3
+"2007-08","Bob Dylan",6
+"2007-08","Cat Stevens",2
+"2007-08","David Gray",1
+"2007-08","Indigo Girls",2
+"2007-08","Iron & Wine",4
+"2007-08","Jack Johnson",0
+"2007-08","Jewel",0
+"2007-08","Joni Mitchell",2
+"2007-08","Leonard Cohen",4
+"2007-08","Natalie Merchant",1
+"2007-08","Nick Drake",7
+"2007-08","Pearl Jam",5
+"2007-08","Ray Lamontagne",0
+"2007-08","Sarah Mclachlan",0
+"2007-08","Shawn Colvin",1
+"2007-08","Simon & Garfunkel",5
+"2007-08","Suzanne Vega",1
+"2007-08","Tracy Chapman",0
+"2007-09","Ani Difranco",2
+"2007-09","Ben Harper",5
+"2007-09","Bob Dylan",12
+"2007-09","Cat Stevens",5
+"2007-09","David Gray",1
+"2007-09","Indigo Girls",3
+"2007-09","Iron & Wine",9
+"2007-09","Jack Johnson",7
+"2007-09","Jewel",1
+"2007-09","Joni Mitchell",10
+"2007-09","Leonard Cohen",9
+"2007-09","Natalie Merchant",2
+"2007-09","Nick Drake",9
+"2007-09","Pearl Jam",17
+"2007-09","Ray Lamontagne",1
+"2007-09","Sarah Mclachlan",3
+"2007-09","Shawn Colvin",2
+"2007-09","Simon & Garfunkel",13
+"2007-09","Suzanne Vega",1
+"2007-09","Tracy Chapman",28
+"2007-10","Ani Difranco",1
+"2007-10","Ben Harper",6
+"2007-10","Bob Dylan",4
+"2007-10","Cat Stevens",5
+"2007-10","David Gray",1
+"2007-10","Indigo Girls",3
+"2007-10","Iron & Wine",6
+"2007-10","Jack Johnson",5
+"2007-10","Jewel",1
+"2007-10","Joni Mitchell",3
+"2007-10","Leonard Cohen",5
+"2007-10","Natalie Merchant",2
+"2007-10","Nick Drake",4
+"2007-10","Pearl Jam",11
+"2007-10","Ray Lamontagne",2
+"2007-10","Sarah Mclachlan",6
+"2007-10","Shawn Colvin",3
+"2007-10","Simon & Garfunkel",4
+"2007-10","Suzanne Vega",1
+"2007-10","Tracy Chapman",3
+"2007-11","Ani Difranco",2
+"2007-11","Ben Harper",4
+"2007-11","Bob Dylan",2
+"2007-11","Cat Stevens",0
+"2007-11","David Gray",3
+"2007-11","Indigo Girls",1
+"2007-11","Iron & Wine",2
+"2007-11","Jack Johnson",2
+"2007-11","Jewel",0
+"2007-11","Joni Mitchell",1
+"2007-11","Leonard Cohen",1
+"2007-11","Natalie Merchant",2
+"2007-11","Nick Drake",0
+"2007-11","Pearl Jam",3
+"2007-11","Ray Lamontagne",1
+"2007-11","Sarah Mclachlan",1
+"2007-11","Shawn Colvin",1
+"2007-11","Simon & Garfunkel",2
+"2007-11","Suzanne Vega",0
+"2007-11","Tracy Chapman",0
+"2007-12","Ani Difranco",3
+"2007-12","Ben Harper",4
+"2007-12","Bob Dylan",3
+"2007-12","Cat Stevens",1
+"2007-12","David Gray",3
+"2007-12","Indigo Girls",2
+"2007-12","Iron & Wine",3
+"2007-12","Jack Johnson",3
+"2007-12","Jewel",1
+"2007-12","Joni Mitchell",2
+"2007-12","Leonard Cohen",2
+"2007-12","Natalie Merchant",2
+"2007-12","Nick Drake",2
+"2007-12","Pearl Jam",2
+"2007-12","Ray Lamontagne",0
+"2007-12","Sarah Mclachlan",2
+"2007-12","Shawn Colvin",0
+"2007-12","Simon & Garfunkel",1
+"2007-12","Suzanne Vega",2
+"2007-12","Tracy Chapman",2
+"2008-01","Ani Difranco",5
+"2008-01","Ben Harper",8
+"2008-01","Bob Dylan",6
+"2008-01","Cat Stevens",4
+"2008-01","David Gray",8
+"2008-01","Indigo Girls",5
+"2008-01","Iron & Wine",5
+"2008-01","Jack Johnson",6
+"2008-01","Jewel",2
+"2008-01","Joni Mitchell",7
+"2008-01","Leonard Cohen",6
+"2008-01","Natalie Merchant",9
+"2008-01","Nick Drake",6
+"2008-01","Pearl Jam",2
+"2008-01","Ray Lamontagne",3
+"2008-01","Sarah Mclachlan",6
+"2008-01","Shawn Colvin",4
+"2008-01","Simon & Garfunkel",7
+"2008-01","Suzanne Vega",7
+"2008-01","Tracy Chapman",10
+"2008-02","Ani Difranco",6
+"2008-02","Ben Harper",6
+"2008-02","Bob Dylan",6
+"2008-02","Cat Stevens",2
+"2008-02","David Gray",9
+"2008-02","Indigo Girls",2
+"2008-02","Iron & Wine",6
+"2008-02","Jack Johnson",6
+"2008-02","Jewel",4
+"2008-02","Joni Mitchell",1
+"2008-02","Leonard Cohen",5
+"2008-02","Natalie Merchant",6
+"2008-02","Nick Drake",5
+"2008-02","Pearl Jam",1
+"2008-02","Ray Lamontagne",3
+"2008-02","Sarah Mclachlan",4
+"2008-02","Shawn Colvin",4
+"2008-02","Simon & Garfunkel",6
+"2008-02","Suzanne Vega",6
+"2008-02","Tracy Chapman",10
+"2008-03","Ani Difranco",4
+"2008-03","Ben Harper",4
+"2008-03","Bob Dylan",2
+"2008-03","Cat Stevens",1
+"2008-03","David Gray",0
+"2008-03","Indigo Girls",3
+"2008-03","Iron & Wine",2
+"2008-03","Jack Johnson",1
+"2008-03","Jewel",4
+"2008-03","Joni Mitchell",5
+"2008-03","Leonard Cohen",3
+"2008-03","Natalie Merchant",6
+"2008-03","Nick Drake",1
+"2008-03","Pearl Jam",2
+"2008-03","Ray Lamontagne",2
+"2008-03","Sarah Mclachlan",4
+"2008-03","Shawn Colvin",4
+"2008-03","Simon & Garfunkel",4
+"2008-03","Suzanne Vega",3
+"2008-03","Tracy Chapman",7
+"2008-04","Ani Difranco",7
+"2008-04","Ben Harper",7
+"2008-04","Bob Dylan",7
+"2008-04","Cat Stevens",12
+"2008-04","David Gray",2
+"2008-04","Indigo Girls",6
+"2008-04","Iron & Wine",4
+"2008-04","Jack Johnson",9
+"2008-04","Jewel",7
+"2008-04","Joni Mitchell",7
+"2008-04","Leonard Cohen",9
+"2008-04","Natalie Merchant",10
+"2008-04","Nick Drake",6
+"2008-04","Pearl Jam",11
+"2008-04","Ray Lamontagne",7
+"2008-04","Sarah Mclachlan",6
+"2008-04","Shawn Colvin",11
+"2008-04","Simon & Garfunkel",9
+"2008-04","Suzanne Vega",2
+"2008-04","Tracy Chapman",10
+"2008-05","Ani Difranco",9
+"2008-05","Ben Harper",15
+"2008-05","Bob Dylan",9
+"2008-05","Cat Stevens",6
+"2008-05","David Gray",4
+"2008-05","Indigo Girls",5
+"2008-05","Iron & Wine",11
+"2008-05","Jack Johnson",7
+"2008-05","Jewel",4
+"2008-05","Joni Mitchell",3
+"2008-05","Leonard Cohen",10
+"2008-05","Natalie Merchant",7
+"2008-05","Nick Drake",7
+"2008-05","Pearl Jam",24
+"2008-05","Ray Lamontagne",7
+"2008-05","Sarah Mclachlan",5
+"2008-05","Shawn Colvin",4
+"2008-05","Simon & Garfunkel",9
+"2008-05","Suzanne Vega",2
+"2008-05","Tracy Chapman",3
+"2008-06","Ani Difranco",6
+"2008-06","Ben Harper",7
+"2008-06","Bob Dylan",9
+"2008-06","Cat Stevens",7
+"2008-06","David Gray",1
+"2008-06","Indigo Girls",1
+"2008-06","Iron & Wine",4
+"2008-06","Jack Johnson",4
+"2008-06","Jewel",1
+"2008-06","Joni Mitchell",2
+"2008-06","Leonard Cohen",6
+"2008-06","Natalie Merchant",3
+"2008-06","Nick Drake",10
+"2008-06","Pearl Jam",53
+"2008-06","Ray Lamontagne",4
+"2008-06","Sarah Mclachlan",2
+"2008-06","Shawn Colvin",0
+"2008-06","Simon & Garfunkel",9
+"2008-06","Suzanne Vega",2
+"2008-06","Tracy Chapman",4
+"2008-07","Ani Difranco",1
+"2008-07","Ben Harper",5
+"2008-07","Bob Dylan",0
+"2008-07","Cat Stevens",0
+"2008-07","David Gray",1
+"2008-07","Indigo Girls",0
+"2008-07","Iron & Wine",0
+"2008-07","Jack Johnson",5
+"2008-07","Jewel",0
+"2008-07","Joni Mitchell",0
+"2008-07","Leonard Cohen",0
+"2008-07","Natalie Merchant",0
+"2008-07","Nick Drake",0
+"2008-07","Pearl Jam",3
+"2008-07","Ray Lamontagne",2
+"2008-07","Sarah Mclachlan",0
+"2008-07","Shawn Colvin",0
+"2008-07","Simon & Garfunkel",0
+"2008-07","Suzanne Vega",0
+"2008-07","Tracy Chapman",3
+"2008-08","Ani Difranco",1
+"2008-08","Ben Harper",1
+"2008-08","Bob Dylan",2
+"2008-08","Cat Stevens",2
+"2008-08","David Gray",0
+"2008-08","Indigo Girls",0
+"2008-08","Iron & Wine",3
+"2008-08","Jack Johnson",0
+"2008-08","Jewel",0
+"2008-08","Joni Mitchell",1
+"2008-08","Leonard Cohen",4
+"2008-08","Natalie Merchant",0
+"2008-08","Nick Drake",3
+"2008-08","Pearl Jam",15
+"2008-08","Ray Lamontagne",1
+"2008-08","Sarah Mclachlan",0
+"2008-08","Shawn Colvin",0
+"2008-08","Simon & Garfunkel",2
+"2008-08","Suzanne Vega",0
+"2008-08","Tracy Chapman",1
+"2008-09","Ani Difranco",1
+"2008-09","Ben Harper",15
+"2008-09","Bob Dylan",7
+"2008-09","Cat Stevens",5
+"2008-09","David Gray",3
+"2008-09","Indigo Girls",1
+"2008-09","Iron & Wine",6
+"2008-09","Jack Johnson",5
+"2008-09","Jewel",1
+"2008-09","Joni Mitchell",1
+"2008-09","Leonard Cohen",2
+"2008-09","Natalie Merchant",1
+"2008-09","Nick Drake",4
+"2008-09","Pearl Jam",12
+"2008-09","Ray Lamontagne",3
+"2008-09","Sarah Mclachlan",1
+"2008-09","Shawn Colvin",1
+"2008-09","Simon & Garfunkel",4
+"2008-09","Suzanne Vega",1
+"2008-09","Tracy Chapman",6
+"2008-10","Ani Difranco",1
+"2008-10","Ben Harper",2
+"2008-10","Bob Dylan",3
+"2008-10","Cat Stevens",3
+"2008-10","David Gray",0
+"2008-10","Indigo Girls",0
+"2008-10","Iron & Wine",4
+"2008-10","Jack Johnson",0
+"2008-10","Jewel",1
+"2008-10","Joni Mitchell",1
+"2008-10","Leonard Cohen",5
+"2008-10","Natalie Merchant",1
+"2008-10","Nick Drake",3
+"2008-10","Pearl Jam",37
+"2008-10","Ray Lamontagne",0
+"2008-10","Sarah Mclachlan",0
+"2008-10","Shawn Colvin",0
+"2008-10","Simon & Garfunkel",4
+"2008-10","Suzanne Vega",0
+"2008-10","Tracy Chapman",3
+"2008-11","Ani Difranco",5
+"2008-11","Ben Harper",9
+"2008-11","Bob Dylan",2
+"2008-11","Cat Stevens",2
+"2008-11","David Gray",3
+"2008-11","Indigo Girls",2
+"2008-11","Iron & Wine",2
+"2008-11","Jack Johnson",4
+"2008-11","Jewel",4
+"2008-11","Joni Mitchell",2
+"2008-11","Leonard Cohen",2
+"2008-11","Natalie Merchant",2
+"2008-11","Nick Drake",1
+"2008-11","Pearl Jam",9
+"2008-11","Ray Lamontagne",4
+"2008-11","Sarah Mclachlan",3
+"2008-11","Shawn Colvin",3
+"2008-11","Simon & Garfunkel",0
+"2008-11","Suzanne Vega",5
+"2008-11","Tracy Chapman",8
+"2008-12","Ani Difranco",1
+"2008-12","Ben Harper",4
+"2008-12","Bob Dylan",1
+"2008-12","Cat Stevens",3
+"2008-12","David Gray",3
+"2008-12","Indigo Girls",1
+"2008-12","Iron & Wine",1
+"2008-12","Jack Johnson",2
+"2008-12","Jewel",1
+"2008-12","Joni Mitchell",0
+"2008-12","Leonard Cohen",1
+"2008-12","Natalie Merchant",2
+"2008-12","Nick Drake",2
+"2008-12","Pearl Jam",4
+"2008-12","Ray Lamontagne",1
+"2008-12","Sarah Mclachlan",2
+"2008-12","Shawn Colvin",1
+"2008-12","Simon & Garfunkel",3
+"2008-12","Suzanne Vega",1
+"2008-12","Tracy Chapman",2
+"2009-01","Ani Difranco",11
+"2009-01","Ben Harper",5
+"2009-01","Bob Dylan",0
+"2009-01","Cat Stevens",1
+"2009-01","David Gray",7
+"2009-01","Indigo Girls",6
+"2009-01","Iron & Wine",4
+"2009-01","Jack Johnson",4
+"2009-01","Jewel",11
+"2009-01","Joni Mitchell",3
+"2009-01","Leonard Cohen",1
+"2009-01","Natalie Merchant",8
+"2009-01","Nick Drake",0
+"2009-01","Pearl Jam",3
+"2009-01","Ray Lamontagne",2
+"2009-01","Sarah Mclachlan",14
+"2009-01","Shawn Colvin",5
+"2009-01","Simon & Garfunkel",4
+"2009-01","Suzanne Vega",8
+"2009-01","Tracy Chapman",12
+"2009-02","Ani Difranco",1
+"2009-02","Ben Harper",0
+"2009-02","Bob Dylan",0
+"2009-02","Cat Stevens",0
+"2009-02","David Gray",0
+"2009-02","Indigo Girls",0
+"2009-02","Iron & Wine",0
+"2009-02","Jack Johnson",0
+"2009-02","Jewel",7
+"2009-02","Joni Mitchell",0
+"2009-02","Leonard Cohen",0
+"2009-02","Natalie Merchant",1
+"2009-02","Nick Drake",0
+"2009-02","Pearl Jam",0
+"2009-02","Ray Lamontagne",0
+"2009-02","Sarah Mclachlan",8
+"2009-02","Shawn Colvin",4
+"2009-02","Simon & Garfunkel",0
+"2009-02","Suzanne Vega",3
+"2009-02","Tracy Chapman",3
+"2009-03","Ani Difranco",7
+"2009-03","Ben Harper",12
+"2009-03","Bob Dylan",0
+"2009-03","Cat Stevens",3
+"2009-03","David Gray",4
+"2009-03","Indigo Girls",8
+"2009-03","Iron & Wine",0
+"2009-03","Jack Johnson",3
+"2009-03","Jewel",15
+"2009-03","Joni Mitchell",2
+"2009-03","Leonard Cohen",0
+"2009-03","Natalie Merchant",13
+"2009-03","Nick Drake",1
+"2009-03","Pearl Jam",20
+"2009-03","Ray Lamontagne",2
+"2009-03","Sarah Mclachlan",14
+"2009-03","Shawn Colvin",10
+"2009-03","Simon & Garfunkel",0
+"2009-03","Suzanne Vega",7
+"2009-03","Tracy Chapman",11
+"2009-04","Ani Difranco",0
+"2009-04","Ben Harper",6
+"2009-04","Bob Dylan",1
+"2009-04","Cat Stevens",1
+"2009-04","David Gray",1
+"2009-04","Indigo Girls",4
+"2009-04","Iron & Wine",0
+"2009-04","Jack Johnson",3
+"2009-04","Jewel",14
+"2009-04","Joni Mitchell",0
+"2009-04","Leonard Cohen",1
+"2009-04","Natalie Merchant",1
+"2009-04","Nick Drake",2
+"2009-04","Pearl Jam",48
+"2009-04","Ray Lamontagne",2
+"2009-04","Sarah Mclachlan",7
+"2009-04","Shawn Colvin",5
+"2009-04","Simon & Garfunkel",1
+"2009-04","Suzanne Vega",1
+"2009-04","Tracy Chapman",2
+"2009-05","Ani Difranco",1
+"2009-05","Ben Harper",0
+"2009-05","Bob Dylan",0
+"2009-05","Cat Stevens",0
+"2009-05","David Gray",0
+"2009-05","Indigo Girls",1
+"2009-05","Iron & Wine",0
+"2009-05","Jack Johnson",0
+"2009-05","Jewel",1
+"2009-05","Joni Mitchell",1
+"2009-05","Leonard Cohen",0
+"2009-05","Natalie Merchant",1
+"2009-05","Nick Drake",0
+"2009-05","Pearl Jam",0
+"2009-05","Ray Lamontagne",0
+"2009-05","Sarah Mclachlan",1
+"2009-05","Shawn Colvin",1
+"2009-05","Simon & Garfunkel",0
+"2009-05","Suzanne Vega",1
+"2009-05","Tracy Chapman",1

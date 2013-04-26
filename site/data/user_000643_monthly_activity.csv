@@ -1,441 +1,441 @@
-month,artist,plays
-2006-07,Aerosmith,0
-2006-07,Beck,0
-2006-07,Ben Harper,4
-2006-07,Daft Punk,0
-2006-07,Dread Zeppelin,0
-2006-07,Goldfrapp,0
-2006-07,Green Day,0
-2006-07,Led Zeppelin,0
-2006-07,Massive Attack,2
-2006-07,Modest Mouse,0
-2006-07,Muse,0
-2006-07,Nightmares On Wax,1
-2006-07,Nirvana,0
-2006-07,Oasis,0
-2006-07,Rage Against The Machine,1
-2006-07,Red Hot Chili Peppers,2
-2006-07,The Beatles,0
-2006-07,The Clash,1
-2006-07,U2,0
-2006-07,Zero 7,0
-2006-08,Aerosmith,10
-2006-08,Beck,5
-2006-08,Ben Harper,34
-2006-08,Daft Punk,0
-2006-08,Dread Zeppelin,10
-2006-08,Goldfrapp,2
-2006-08,Green Day,6
-2006-08,Led Zeppelin,6
-2006-08,Massive Attack,27
-2006-08,Modest Mouse,21
-2006-08,Muse,0
-2006-08,Nightmares On Wax,4
-2006-08,Nirvana,5
-2006-08,Oasis,5
-2006-08,Rage Against The Machine,19
-2006-08,Red Hot Chili Peppers,66
-2006-08,The Beatles,9
-2006-08,The Clash,23
-2006-08,U2,0
-2006-08,Zero 7,18
-2006-09,Aerosmith,1
-2006-09,Beck,1
-2006-09,Ben Harper,7
-2006-09,Daft Punk,1
-2006-09,Dread Zeppelin,2
-2006-09,Goldfrapp,2
-2006-09,Green Day,1
-2006-09,Led Zeppelin,0
-2006-09,Massive Attack,4
-2006-09,Modest Mouse,1
-2006-09,Muse,3
-2006-09,Nightmares On Wax,1
-2006-09,Nirvana,4
-2006-09,Oasis,0
-2006-09,Rage Against The Machine,1
-2006-09,Red Hot Chili Peppers,7
-2006-09,The Beatles,1
-2006-09,The Clash,4
-2006-09,U2,2
-2006-09,Zero 7,2
-2006-10,Aerosmith,2
-2006-10,Beck,0
-2006-10,Ben Harper,1
-2006-10,Daft Punk,0
-2006-10,Dread Zeppelin,1
-2006-10,Goldfrapp,2
-2006-10,Green Day,1
-2006-10,Led Zeppelin,4
-2006-10,Massive Attack,4
-2006-10,Modest Mouse,3
-2006-10,Muse,0
-2006-10,Nightmares On Wax,1
-2006-10,Nirvana,0
-2006-10,Oasis,1
-2006-10,Rage Against The Machine,5
-2006-10,Red Hot Chili Peppers,4
-2006-10,The Beatles,1
-2006-10,The Clash,3
-2006-10,U2,0
-2006-10,Zero 7,4
-2006-11,Aerosmith,0
-2006-11,Beck,0
-2006-11,Ben Harper,0
-2006-11,Daft Punk,0
-2006-11,Dread Zeppelin,0
-2006-11,Goldfrapp,0
-2006-11,Green Day,1
-2006-11,Led Zeppelin,0
-2006-11,Massive Attack,0
-2006-11,Modest Mouse,0
-2006-11,Muse,1
-2006-11,Nightmares On Wax,0
-2006-11,Nirvana,0
-2006-11,Oasis,0
-2006-11,Rage Against The Machine,0
-2006-11,Red Hot Chili Peppers,2
-2006-11,The Beatles,0
-2006-11,The Clash,0
-2006-11,U2,0
-2006-11,Zero 7,0
-2006-12,Aerosmith,0
-2006-12,Beck,0
-2006-12,Ben Harper,0
-2006-12,Daft Punk,0
-2006-12,Dread Zeppelin,0
-2006-12,Goldfrapp,0
-2006-12,Green Day,0
-2006-12,Led Zeppelin,0
-2006-12,Massive Attack,0
-2006-12,Modest Mouse,0
-2006-12,Muse,0
-2006-12,Nightmares On Wax,0
-2006-12,Nirvana,0
-2006-12,Oasis,0
-2006-12,Rage Against The Machine,0
-2006-12,Red Hot Chili Peppers,0
-2006-12,The Beatles,0
-2006-12,The Clash,0
-2006-12,U2,0
-2006-12,Zero 7,0
-2007-01,Aerosmith,0
-2007-01,Beck,0
-2007-01,Ben Harper,0
-2007-01,Daft Punk,1
-2007-01,Dread Zeppelin,0
-2007-01,Goldfrapp,1
-2007-01,Green Day,0
-2007-01,Led Zeppelin,0
-2007-01,Massive Attack,1
-2007-01,Modest Mouse,0
-2007-01,Muse,2
-2007-01,Nightmares On Wax,1
-2007-01,Nirvana,1
-2007-01,Oasis,3
-2007-01,Rage Against The Machine,1
-2007-01,Red Hot Chili Peppers,1
-2007-01,The Beatles,1
-2007-01,The Clash,2
-2007-01,U2,1
-2007-01,Zero 7,1
-2007-02,Aerosmith,0
-2007-02,Beck,0
-2007-02,Ben Harper,0
-2007-02,Daft Punk,0
-2007-02,Dread Zeppelin,0
-2007-02,Goldfrapp,0
-2007-02,Green Day,0
-2007-02,Led Zeppelin,0
-2007-02,Massive Attack,0
-2007-02,Modest Mouse,0
-2007-02,Muse,0
-2007-02,Nightmares On Wax,0
-2007-02,Nirvana,0
-2007-02,Oasis,0
-2007-02,Rage Against The Machine,0
-2007-02,Red Hot Chili Peppers,0
-2007-02,The Beatles,0
-2007-02,The Clash,0
-2007-02,U2,0
-2007-02,Zero 7,0
-2007-03,Aerosmith,0
-2007-03,Beck,0
-2007-03,Ben Harper,0
-2007-03,Daft Punk,0
-2007-03,Dread Zeppelin,0
-2007-03,Goldfrapp,0
-2007-03,Green Day,0
-2007-03,Led Zeppelin,0
-2007-03,Massive Attack,0
-2007-03,Modest Mouse,0
-2007-03,Muse,0
-2007-03,Nightmares On Wax,0
-2007-03,Nirvana,0
-2007-03,Oasis,0
-2007-03,Rage Against The Machine,0
-2007-03,Red Hot Chili Peppers,0
-2007-03,The Beatles,0
-2007-03,The Clash,0
-2007-03,U2,0
-2007-03,Zero 7,0
-2007-04,Aerosmith,0
-2007-04,Beck,0
-2007-04,Ben Harper,0
-2007-04,Daft Punk,0
-2007-04,Dread Zeppelin,0
-2007-04,Goldfrapp,0
-2007-04,Green Day,0
-2007-04,Led Zeppelin,0
-2007-04,Massive Attack,0
-2007-04,Modest Mouse,0
-2007-04,Muse,0
-2007-04,Nightmares On Wax,0
-2007-04,Nirvana,0
-2007-04,Oasis,0
-2007-04,Rage Against The Machine,0
-2007-04,Red Hot Chili Peppers,0
-2007-04,The Beatles,0
-2007-04,The Clash,0
-2007-04,U2,0
-2007-04,Zero 7,0
-2007-05,Aerosmith,1
-2007-05,Beck,1
-2007-05,Ben Harper,3
-2007-05,Daft Punk,3
-2007-05,Dread Zeppelin,0
-2007-05,Goldfrapp,3
-2007-05,Green Day,1
-2007-05,Led Zeppelin,1
-2007-05,Massive Attack,6
-2007-05,Modest Mouse,1
-2007-05,Muse,1
-2007-05,Nightmares On Wax,4
-2007-05,Nirvana,1
-2007-05,Oasis,0
-2007-05,Rage Against The Machine,0
-2007-05,Red Hot Chili Peppers,2
-2007-05,The Beatles,1
-2007-05,The Clash,3
-2007-05,U2,1
-2007-05,Zero 7,5
-2007-06,Aerosmith,0
-2007-06,Beck,1
-2007-06,Ben Harper,1
-2007-06,Daft Punk,0
-2007-06,Dread Zeppelin,0
-2007-06,Goldfrapp,1
-2007-06,Green Day,0
-2007-06,Led Zeppelin,0
-2007-06,Massive Attack,0
-2007-06,Modest Mouse,0
-2007-06,Muse,1
-2007-06,Nightmares On Wax,0
-2007-06,Nirvana,1
-2007-06,Oasis,0
-2007-06,Rage Against The Machine,1
-2007-06,Red Hot Chili Peppers,3
-2007-06,The Beatles,1
-2007-06,The Clash,0
-2007-06,U2,1
-2007-06,Zero 7,1
-2007-07,Aerosmith,0
-2007-07,Beck,0
-2007-07,Ben Harper,0
-2007-07,Daft Punk,0
-2007-07,Dread Zeppelin,0
-2007-07,Goldfrapp,0
-2007-07,Green Day,0
-2007-07,Led Zeppelin,0
-2007-07,Massive Attack,0
-2007-07,Modest Mouse,0
-2007-07,Muse,0
-2007-07,Nightmares On Wax,0
-2007-07,Nirvana,0
-2007-07,Oasis,0
-2007-07,Rage Against The Machine,0
-2007-07,Red Hot Chili Peppers,0
-2007-07,The Beatles,0
-2007-07,The Clash,0
-2007-07,U2,0
-2007-07,Zero 7,0
-2007-08,Aerosmith,0
-2007-08,Beck,0
-2007-08,Ben Harper,0
-2007-08,Daft Punk,0
-2007-08,Dread Zeppelin,1
-2007-08,Goldfrapp,0
-2007-08,Green Day,0
-2007-08,Led Zeppelin,0
-2007-08,Massive Attack,0
-2007-08,Modest Mouse,0
-2007-08,Muse,0
-2007-08,Nightmares On Wax,0
-2007-08,Nirvana,0
-2007-08,Oasis,1
-2007-08,Rage Against The Machine,0
-2007-08,Red Hot Chili Peppers,2
-2007-08,The Beatles,0
-2007-08,The Clash,0
-2007-08,U2,0
-2007-08,Zero 7,0
-2007-09,Aerosmith,0
-2007-09,Beck,1
-2007-09,Ben Harper,0
-2007-09,Daft Punk,3
-2007-09,Dread Zeppelin,2
-2007-09,Goldfrapp,1
-2007-09,Green Day,0
-2007-09,Led Zeppelin,1
-2007-09,Massive Attack,0
-2007-09,Modest Mouse,1
-2007-09,Muse,0
-2007-09,Nightmares On Wax,0
-2007-09,Nirvana,0
-2007-09,Oasis,0
-2007-09,Rage Against The Machine,0
-2007-09,Red Hot Chili Peppers,12
-2007-09,The Beatles,0
-2007-09,The Clash,0
-2007-09,U2,1
-2007-09,Zero 7,0
-2007-10,Aerosmith,0
-2007-10,Beck,0
-2007-10,Ben Harper,1
-2007-10,Daft Punk,8
-2007-10,Dread Zeppelin,1
-2007-10,Goldfrapp,0
-2007-10,Green Day,4
-2007-10,Led Zeppelin,7
-2007-10,Massive Attack,0
-2007-10,Modest Mouse,0
-2007-10,Muse,3
-2007-10,Nightmares On Wax,0
-2007-10,Nirvana,0
-2007-10,Oasis,1
-2007-10,Rage Against The Machine,0
-2007-10,Red Hot Chili Peppers,40
-2007-10,The Beatles,0
-2007-10,The Clash,0
-2007-10,U2,0
-2007-10,Zero 7,0
-2007-11,Aerosmith,0
-2007-11,Beck,0
-2007-11,Ben Harper,0
-2007-11,Daft Punk,5
-2007-11,Dread Zeppelin,0
-2007-11,Goldfrapp,0
-2007-11,Green Day,2
-2007-11,Led Zeppelin,4
-2007-11,Massive Attack,0
-2007-11,Modest Mouse,0
-2007-11,Muse,4
-2007-11,Nightmares On Wax,0
-2007-11,Nirvana,0
-2007-11,Oasis,1
-2007-11,Rage Against The Machine,0
-2007-11,Red Hot Chili Peppers,31
-2007-11,The Beatles,1
-2007-11,The Clash,0
-2007-11,U2,0
-2007-11,Zero 7,0
-2007-12,Aerosmith,0
-2007-12,Beck,0
-2007-12,Ben Harper,0
-2007-12,Daft Punk,0
-2007-12,Dread Zeppelin,0
-2007-12,Goldfrapp,0
-2007-12,Green Day,0
-2007-12,Led Zeppelin,0
-2007-12,Massive Attack,0
-2007-12,Modest Mouse,0
-2007-12,Muse,0
-2007-12,Nightmares On Wax,0
-2007-12,Nirvana,0
-2007-12,Oasis,0
-2007-12,Rage Against The Machine,0
-2007-12,Red Hot Chili Peppers,0
-2007-12,The Beatles,0
-2007-12,The Clash,0
-2007-12,U2,0
-2007-12,Zero 7,0
-2008-01,Aerosmith,0
-2008-01,Beck,0
-2008-01,Ben Harper,0
-2008-01,Daft Punk,0
-2008-01,Dread Zeppelin,0
-2008-01,Goldfrapp,0
-2008-01,Green Day,0
-2008-01,Led Zeppelin,0
-2008-01,Massive Attack,0
-2008-01,Modest Mouse,0
-2008-01,Muse,0
-2008-01,Nightmares On Wax,0
-2008-01,Nirvana,0
-2008-01,Oasis,0
-2008-01,Rage Against The Machine,0
-2008-01,Red Hot Chili Peppers,0
-2008-01,The Beatles,0
-2008-01,The Clash,0
-2008-01,U2,0
-2008-01,Zero 7,0
-2008-02,Aerosmith,1
-2008-02,Beck,1
-2008-02,Ben Harper,0
-2008-02,Daft Punk,0
-2008-02,Dread Zeppelin,0
-2008-02,Goldfrapp,0
-2008-02,Green Day,1
-2008-02,Led Zeppelin,0
-2008-02,Massive Attack,0
-2008-02,Modest Mouse,0
-2008-02,Muse,0
-2008-02,Nightmares On Wax,0
-2008-02,Nirvana,1
-2008-02,Oasis,0
-2008-02,Rage Against The Machine,0
-2008-02,Red Hot Chili Peppers,1
-2008-02,The Beatles,0
-2008-02,The Clash,0
-2008-02,U2,1
-2008-02,Zero 7,0
-2008-03,Aerosmith,0
-2008-03,Beck,1
-2008-03,Ben Harper,0
-2008-03,Daft Punk,0
-2008-03,Dread Zeppelin,0
-2008-03,Goldfrapp,0
-2008-03,Green Day,0
-2008-03,Led Zeppelin,0
-2008-03,Massive Attack,0
-2008-03,Modest Mouse,1
-2008-03,Muse,0
-2008-03,Nightmares On Wax,0
-2008-03,Nirvana,1
-2008-03,Oasis,0
-2008-03,Rage Against The Machine,0
-2008-03,Red Hot Chili Peppers,0
-2008-03,The Beatles,0
-2008-03,The Clash,0
-2008-03,U2,0
-2008-03,Zero 7,0
-2008-04,Aerosmith,0
-2008-04,Beck,0
-2008-04,Ben Harper,0
-2008-04,Daft Punk,0
-2008-04,Dread Zeppelin,0
-2008-04,Goldfrapp,0
-2008-04,Green Day,1
-2008-04,Led Zeppelin,0
-2008-04,Massive Attack,0
-2008-04,Modest Mouse,0
-2008-04,Muse,0
-2008-04,Nightmares On Wax,0
-2008-04,Nirvana,0
-2008-04,Oasis,0
-2008-04,Rage Against The Machine,0
-2008-04,Red Hot Chili Peppers,0
-2008-04,The Beatles,0
-2008-04,The Clash,0
-2008-04,U2,0
-2008-04,Zero 7,0
+"month","artist","plays"
+"2006-07","Aerosmith",0
+"2006-07","Beck",0
+"2006-07","Ben Harper",4
+"2006-07","Daft Punk",0
+"2006-07","Dread Zeppelin",0
+"2006-07","Goldfrapp",0
+"2006-07","Green Day",0
+"2006-07","Led Zeppelin",0
+"2006-07","Massive Attack",2
+"2006-07","Modest Mouse",0
+"2006-07","Muse",0
+"2006-07","Nightmares On Wax",1
+"2006-07","Nirvana",0
+"2006-07","Oasis",0
+"2006-07","Rage Against The Machine",1
+"2006-07","Red Hot Chili Peppers",2
+"2006-07","The Beatles",0
+"2006-07","The Clash",1
+"2006-07","U2",0
+"2006-07","Zero 7",0
+"2006-08","Aerosmith",10
+"2006-08","Beck",5
+"2006-08","Ben Harper",34
+"2006-08","Daft Punk",0
+"2006-08","Dread Zeppelin",10
+"2006-08","Goldfrapp",2
+"2006-08","Green Day",6
+"2006-08","Led Zeppelin",6
+"2006-08","Massive Attack",27
+"2006-08","Modest Mouse",21
+"2006-08","Muse",0
+"2006-08","Nightmares On Wax",4
+"2006-08","Nirvana",5
+"2006-08","Oasis",5
+"2006-08","Rage Against The Machine",19
+"2006-08","Red Hot Chili Peppers",66
+"2006-08","The Beatles",9
+"2006-08","The Clash",23
+"2006-08","U2",0
+"2006-08","Zero 7",18
+"2006-09","Aerosmith",1
+"2006-09","Beck",1
+"2006-09","Ben Harper",7
+"2006-09","Daft Punk",1
+"2006-09","Dread Zeppelin",2
+"2006-09","Goldfrapp",2
+"2006-09","Green Day",1
+"2006-09","Led Zeppelin",0
+"2006-09","Massive Attack",4
+"2006-09","Modest Mouse",1
+"2006-09","Muse",3
+"2006-09","Nightmares On Wax",1
+"2006-09","Nirvana",4
+"2006-09","Oasis",0
+"2006-09","Rage Against The Machine",1
+"2006-09","Red Hot Chili Peppers",7
+"2006-09","The Beatles",1
+"2006-09","The Clash",4
+"2006-09","U2",2
+"2006-09","Zero 7",2
+"2006-10","Aerosmith",2
+"2006-10","Beck",0
+"2006-10","Ben Harper",1
+"2006-10","Daft Punk",0
+"2006-10","Dread Zeppelin",1
+"2006-10","Goldfrapp",2
+"2006-10","Green Day",1
+"2006-10","Led Zeppelin",4
+"2006-10","Massive Attack",4
+"2006-10","Modest Mouse",3
+"2006-10","Muse",0
+"2006-10","Nightmares On Wax",1
+"2006-10","Nirvana",0
+"2006-10","Oasis",1
+"2006-10","Rage Against The Machine",5
+"2006-10","Red Hot Chili Peppers",4
+"2006-10","The Beatles",1
+"2006-10","The Clash",3
+"2006-10","U2",0
+"2006-10","Zero 7",4
+"2006-11","Aerosmith",0
+"2006-11","Beck",0
+"2006-11","Ben Harper",0
+"2006-11","Daft Punk",0
+"2006-11","Dread Zeppelin",0
+"2006-11","Goldfrapp",0
+"2006-11","Green Day",1
+"2006-11","Led Zeppelin",0
+"2006-11","Massive Attack",0
+"2006-11","Modest Mouse",0
+"2006-11","Muse",1
+"2006-11","Nightmares On Wax",0
+"2006-11","Nirvana",0
+"2006-11","Oasis",0
+"2006-11","Rage Against The Machine",0
+"2006-11","Red Hot Chili Peppers",2
+"2006-11","The Beatles",0
+"2006-11","The Clash",0
+"2006-11","U2",0
+"2006-11","Zero 7",0
+"2006-12","Aerosmith",0
+"2006-12","Beck",0
+"2006-12","Ben Harper",0
+"2006-12","Daft Punk",0
+"2006-12","Dread Zeppelin",0
+"2006-12","Goldfrapp",0
+"2006-12","Green Day",0
+"2006-12","Led Zeppelin",0
+"2006-12","Massive Attack",0
+"2006-12","Modest Mouse",0
+"2006-12","Muse",0
+"2006-12","Nightmares On Wax",0
+"2006-12","Nirvana",0
+"2006-12","Oasis",0
+"2006-12","Rage Against The Machine",0
+"2006-12","Red Hot Chili Peppers",0
+"2006-12","The Beatles",0
+"2006-12","The Clash",0
+"2006-12","U2",0
+"2006-12","Zero 7",0
+"2007-01","Aerosmith",0
+"2007-01","Beck",0
+"2007-01","Ben Harper",0
+"2007-01","Daft Punk",1
+"2007-01","Dread Zeppelin",0
+"2007-01","Goldfrapp",1
+"2007-01","Green Day",0
+"2007-01","Led Zeppelin",0
+"2007-01","Massive Attack",1
+"2007-01","Modest Mouse",0
+"2007-01","Muse",2
+"2007-01","Nightmares On Wax",1
+"2007-01","Nirvana",1
+"2007-01","Oasis",3
+"2007-01","Rage Against The Machine",1
+"2007-01","Red Hot Chili Peppers",1
+"2007-01","The Beatles",1
+"2007-01","The Clash",2
+"2007-01","U2",1
+"2007-01","Zero 7",1
+"2007-02","Aerosmith",0
+"2007-02","Beck",0
+"2007-02","Ben Harper",0
+"2007-02","Daft Punk",0
+"2007-02","Dread Zeppelin",0
+"2007-02","Goldfrapp",0
+"2007-02","Green Day",0
+"2007-02","Led Zeppelin",0
+"2007-02","Massive Attack",0
+"2007-02","Modest Mouse",0
+"2007-02","Muse",0
+"2007-02","Nightmares On Wax",0
+"2007-02","Nirvana",0
+"2007-02","Oasis",0
+"2007-02","Rage Against The Machine",0
+"2007-02","Red Hot Chili Peppers",0
+"2007-02","The Beatles",0
+"2007-02","The Clash",0
+"2007-02","U2",0
+"2007-02","Zero 7",0
+"2007-03","Aerosmith",0
+"2007-03","Beck",0
+"2007-03","Ben Harper",0
+"2007-03","Daft Punk",0
+"2007-03","Dread Zeppelin",0
+"2007-03","Goldfrapp",0
+"2007-03","Green Day",0
+"2007-03","Led Zeppelin",0
+"2007-03","Massive Attack",0
+"2007-03","Modest Mouse",0
+"2007-03","Muse",0
+"2007-03","Nightmares On Wax",0
+"2007-03","Nirvana",0
+"2007-03","Oasis",0
+"2007-03","Rage Against The Machine",0
+"2007-03","Red Hot Chili Peppers",0
+"2007-03","The Beatles",0
+"2007-03","The Clash",0
+"2007-03","U2",0
+"2007-03","Zero 7",0
+"2007-04","Aerosmith",0
+"2007-04","Beck",0
+"2007-04","Ben Harper",0
+"2007-04","Daft Punk",0
+"2007-04","Dread Zeppelin",0
+"2007-04","Goldfrapp",0
+"2007-04","Green Day",0
+"2007-04","Led Zeppelin",0
+"2007-04","Massive Attack",0
+"2007-04","Modest Mouse",0
+"2007-04","Muse",0
+"2007-04","Nightmares On Wax",0
+"2007-04","Nirvana",0
+"2007-04","Oasis",0
+"2007-04","Rage Against The Machine",0
+"2007-04","Red Hot Chili Peppers",0
+"2007-04","The Beatles",0
+"2007-04","The Clash",0
+"2007-04","U2",0
+"2007-04","Zero 7",0
+"2007-05","Aerosmith",1
+"2007-05","Beck",1
+"2007-05","Ben Harper",3
+"2007-05","Daft Punk",3
+"2007-05","Dread Zeppelin",0
+"2007-05","Goldfrapp",3
+"2007-05","Green Day",1
+"2007-05","Led Zeppelin",1
+"2007-05","Massive Attack",6
+"2007-05","Modest Mouse",1
+"2007-05","Muse",1
+"2007-05","Nightmares On Wax",4
+"2007-05","Nirvana",1
+"2007-05","Oasis",0
+"2007-05","Rage Against The Machine",0
+"2007-05","Red Hot Chili Peppers",2
+"2007-05","The Beatles",1
+"2007-05","The Clash",3
+"2007-05","U2",1
+"2007-05","Zero 7",5
+"2007-06","Aerosmith",0
+"2007-06","Beck",1
+"2007-06","Ben Harper",1
+"2007-06","Daft Punk",0
+"2007-06","Dread Zeppelin",0
+"2007-06","Goldfrapp",1
+"2007-06","Green Day",0
+"2007-06","Led Zeppelin",0
+"2007-06","Massive Attack",0
+"2007-06","Modest Mouse",0
+"2007-06","Muse",1
+"2007-06","Nightmares On Wax",0
+"2007-06","Nirvana",1
+"2007-06","Oasis",0
+"2007-06","Rage Against The Machine",1
+"2007-06","Red Hot Chili Peppers",3
+"2007-06","The Beatles",1
+"2007-06","The Clash",0
+"2007-06","U2",1
+"2007-06","Zero 7",1
+"2007-07","Aerosmith",0
+"2007-07","Beck",0
+"2007-07","Ben Harper",0
+"2007-07","Daft Punk",0
+"2007-07","Dread Zeppelin",0
+"2007-07","Goldfrapp",0
+"2007-07","Green Day",0
+"2007-07","Led Zeppelin",0
+"2007-07","Massive Attack",0
+"2007-07","Modest Mouse",0
+"2007-07","Muse",0
+"2007-07","Nightmares On Wax",0
+"2007-07","Nirvana",0
+"2007-07","Oasis",0
+"2007-07","Rage Against The Machine",0
+"2007-07","Red Hot Chili Peppers",0
+"2007-07","The Beatles",0
+"2007-07","The Clash",0
+"2007-07","U2",0
+"2007-07","Zero 7",0
+"2007-08","Aerosmith",0
+"2007-08","Beck",0
+"2007-08","Ben Harper",0
+"2007-08","Daft Punk",0
+"2007-08","Dread Zeppelin",1
+"2007-08","Goldfrapp",0
+"2007-08","Green Day",0
+"2007-08","Led Zeppelin",0
+"2007-08","Massive Attack",0
+"2007-08","Modest Mouse",0
+"2007-08","Muse",0
+"2007-08","Nightmares On Wax",0
+"2007-08","Nirvana",0
+"2007-08","Oasis",1
+"2007-08","Rage Against The Machine",0
+"2007-08","Red Hot Chili Peppers",2
+"2007-08","The Beatles",0
+"2007-08","The Clash",0
+"2007-08","U2",0
+"2007-08","Zero 7",0
+"2007-09","Aerosmith",0
+"2007-09","Beck",1
+"2007-09","Ben Harper",0
+"2007-09","Daft Punk",3
+"2007-09","Dread Zeppelin",2
+"2007-09","Goldfrapp",1
+"2007-09","Green Day",0
+"2007-09","Led Zeppelin",1
+"2007-09","Massive Attack",0
+"2007-09","Modest Mouse",1
+"2007-09","Muse",0
+"2007-09","Nightmares On Wax",0
+"2007-09","Nirvana",0
+"2007-09","Oasis",0
+"2007-09","Rage Against The Machine",0
+"2007-09","Red Hot Chili Peppers",12
+"2007-09","The Beatles",0
+"2007-09","The Clash",0
+"2007-09","U2",1
+"2007-09","Zero 7",0
+"2007-10","Aerosmith",0
+"2007-10","Beck",0
+"2007-10","Ben Harper",1
+"2007-10","Daft Punk",8
+"2007-10","Dread Zeppelin",1
+"2007-10","Goldfrapp",0
+"2007-10","Green Day",4
+"2007-10","Led Zeppelin",7
+"2007-10","Massive Attack",0
+"2007-10","Modest Mouse",0
+"2007-10","Muse",3
+"2007-10","Nightmares On Wax",0
+"2007-10","Nirvana",0
+"2007-10","Oasis",1
+"2007-10","Rage Against The Machine",0
+"2007-10","Red Hot Chili Peppers",40
+"2007-10","The Beatles",0
+"2007-10","The Clash",0
+"2007-10","U2",0
+"2007-10","Zero 7",0
+"2007-11","Aerosmith",0
+"2007-11","Beck",0
+"2007-11","Ben Harper",0
+"2007-11","Daft Punk",5
+"2007-11","Dread Zeppelin",0
+"2007-11","Goldfrapp",0
+"2007-11","Green Day",2
+"2007-11","Led Zeppelin",4
+"2007-11","Massive Attack",0
+"2007-11","Modest Mouse",0
+"2007-11","Muse",4
+"2007-11","Nightmares On Wax",0
+"2007-11","Nirvana",0
+"2007-11","Oasis",1
+"2007-11","Rage Against The Machine",0
+"2007-11","Red Hot Chili Peppers",31
+"2007-11","The Beatles",1
+"2007-11","The Clash",0
+"2007-11","U2",0
+"2007-11","Zero 7",0
+"2007-12","Aerosmith",0
+"2007-12","Beck",0
+"2007-12","Ben Harper",0
+"2007-12","Daft Punk",0
+"2007-12","Dread Zeppelin",0
+"2007-12","Goldfrapp",0
+"2007-12","Green Day",0
+"2007-12","Led Zeppelin",0
+"2007-12","Massive Attack",0
+"2007-12","Modest Mouse",0
+"2007-12","Muse",0
+"2007-12","Nightmares On Wax",0
+"2007-12","Nirvana",0
+"2007-12","Oasis",0
+"2007-12","Rage Against The Machine",0
+"2007-12","Red Hot Chili Peppers",0
+"2007-12","The Beatles",0
+"2007-12","The Clash",0
+"2007-12","U2",0
+"2007-12","Zero 7",0
+"2008-01","Aerosmith",0
+"2008-01","Beck",0
+"2008-01","Ben Harper",0
+"2008-01","Daft Punk",0
+"2008-01","Dread Zeppelin",0
+"2008-01","Goldfrapp",0
+"2008-01","Green Day",0
+"2008-01","Led Zeppelin",0
+"2008-01","Massive Attack",0
+"2008-01","Modest Mouse",0
+"2008-01","Muse",0
+"2008-01","Nightmares On Wax",0
+"2008-01","Nirvana",0
+"2008-01","Oasis",0
+"2008-01","Rage Against The Machine",0
+"2008-01","Red Hot Chili Peppers",0
+"2008-01","The Beatles",0
+"2008-01","The Clash",0
+"2008-01","U2",0
+"2008-01","Zero 7",0
+"2008-02","Aerosmith",1
+"2008-02","Beck",1
+"2008-02","Ben Harper",0
+"2008-02","Daft Punk",0
+"2008-02","Dread Zeppelin",0
+"2008-02","Goldfrapp",0
+"2008-02","Green Day",1
+"2008-02","Led Zeppelin",0
+"2008-02","Massive Attack",0
+"2008-02","Modest Mouse",0
+"2008-02","Muse",0
+"2008-02","Nightmares On Wax",0
+"2008-02","Nirvana",1
+"2008-02","Oasis",0
+"2008-02","Rage Against The Machine",0
+"2008-02","Red Hot Chili Peppers",1
+"2008-02","The Beatles",0
+"2008-02","The Clash",0
+"2008-02","U2",1
+"2008-02","Zero 7",0
+"2008-03","Aerosmith",0
+"2008-03","Beck",1
+"2008-03","Ben Harper",0
+"2008-03","Daft Punk",0
+"2008-03","Dread Zeppelin",0
+"2008-03","Goldfrapp",0
+"2008-03","Green Day",0
+"2008-03","Led Zeppelin",0
+"2008-03","Massive Attack",0
+"2008-03","Modest Mouse",1
+"2008-03","Muse",0
+"2008-03","Nightmares On Wax",0
+"2008-03","Nirvana",1
+"2008-03","Oasis",0
+"2008-03","Rage Against The Machine",0
+"2008-03","Red Hot Chili Peppers",0
+"2008-03","The Beatles",0
+"2008-03","The Clash",0
+"2008-03","U2",0
+"2008-03","Zero 7",0
+"2008-04","Aerosmith",0
+"2008-04","Beck",0
+"2008-04","Ben Harper",0
+"2008-04","Daft Punk",0
+"2008-04","Dread Zeppelin",0
+"2008-04","Goldfrapp",0
+"2008-04","Green Day",1
+"2008-04","Led Zeppelin",0
+"2008-04","Massive Attack",0
+"2008-04","Modest Mouse",0
+"2008-04","Muse",0
+"2008-04","Nightmares On Wax",0
+"2008-04","Nirvana",0
+"2008-04","Oasis",0
+"2008-04","Rage Against The Machine",0
+"2008-04","Red Hot Chili Peppers",0
+"2008-04","The Beatles",0
+"2008-04","The Clash",0
+"2008-04","U2",0
+"2008-04","Zero 7",0

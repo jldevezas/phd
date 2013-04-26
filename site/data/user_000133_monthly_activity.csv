@@ -1,761 +1,761 @@
-month,artist,plays
-2006-03,Belle And Sebastian,3
-2006-03,Chromeo,0
-2006-03,Common,1
-2006-03,Daft Punk,0
-2006-03,Diplo,15
-2006-03,Donovan,0
-2006-03,Fischerspooner,1
-2006-03,Fleetwood Mac,0
-2006-03,Hollertronix,3
-2006-03,Johnny Cash,1
-2006-03,Madonna,0
-2006-03,Metric,0
-2006-03,Mos Def,1
-2006-03,Noam Chomsky,3
-2006-03,Ratatat,1
-2006-03,Sufjan Stevens,2
-2006-03,The American Analog Set,1
-2006-03,The Mountain Goats,0
-2006-03,The Rolling Stones,1
-2006-03,The Shins,0
-2006-04,Belle And Sebastian,22
-2006-04,Chromeo,3
-2006-04,Common,28
-2006-04,Daft Punk,1
-2006-04,Diplo,5
-2006-04,Donovan,1
-2006-04,Fischerspooner,2
-2006-04,Fleetwood Mac,4
-2006-04,Hollertronix,17
-2006-04,Johnny Cash,7
-2006-04,Madonna,13
-2006-04,Metric,4
-2006-04,Mos Def,9
-2006-04,Noam Chomsky,18
-2006-04,Ratatat,10
-2006-04,Sufjan Stevens,10
-2006-04,The American Analog Set,8
-2006-04,The Mountain Goats,8
-2006-04,The Rolling Stones,36
-2006-04,The Shins,7
-2006-05,Belle And Sebastian,9
-2006-05,Chromeo,6
-2006-05,Common,11
-2006-05,Daft Punk,1
-2006-05,Diplo,9
-2006-05,Donovan,1
-2006-05,Fischerspooner,6
-2006-05,Fleetwood Mac,4
-2006-05,Hollertronix,12
-2006-05,Johnny Cash,0
-2006-05,Madonna,14
-2006-05,Metric,6
-2006-05,Mos Def,7
-2006-05,Noam Chomsky,39
-2006-05,Ratatat,4
-2006-05,Sufjan Stevens,6
-2006-05,The American Analog Set,13
-2006-05,The Mountain Goats,29
-2006-05,The Rolling Stones,7
-2006-05,The Shins,5
-2006-06,Belle And Sebastian,21
-2006-06,Chromeo,4
-2006-06,Common,16
-2006-06,Daft Punk,2
-2006-06,Diplo,8
-2006-06,Donovan,17
-2006-06,Fischerspooner,6
-2006-06,Fleetwood Mac,4
-2006-06,Hollertronix,18
-2006-06,Johnny Cash,5
-2006-06,Madonna,24
-2006-06,Metric,11
-2006-06,Mos Def,16
-2006-06,Noam Chomsky,27
-2006-06,Ratatat,4
-2006-06,Sufjan Stevens,20
-2006-06,The American Analog Set,17
-2006-06,The Mountain Goats,6
-2006-06,The Rolling Stones,11
-2006-06,The Shins,7
-2006-07,Belle And Sebastian,6
-2006-07,Chromeo,0
-2006-07,Common,5
-2006-07,Daft Punk,1
-2006-07,Diplo,5
-2006-07,Donovan,11
-2006-07,Fischerspooner,1
-2006-07,Fleetwood Mac,2
-2006-07,Hollertronix,7
-2006-07,Johnny Cash,1
-2006-07,Madonna,10
-2006-07,Metric,3
-2006-07,Mos Def,4
-2006-07,Noam Chomsky,11
-2006-07,Ratatat,3
-2006-07,Sufjan Stevens,4
-2006-07,The American Analog Set,6
-2006-07,The Mountain Goats,2
-2006-07,The Rolling Stones,4
-2006-07,The Shins,2
-2006-08,Belle And Sebastian,14
-2006-08,Chromeo,3
-2006-08,Common,20
-2006-08,Daft Punk,2
-2006-08,Diplo,5
-2006-08,Donovan,9
-2006-08,Fischerspooner,6
-2006-08,Fleetwood Mac,3
-2006-08,Hollertronix,10
-2006-08,Johnny Cash,1
-2006-08,Madonna,28
-2006-08,Metric,9
-2006-08,Mos Def,8
-2006-08,Noam Chomsky,23
-2006-08,Ratatat,4
-2006-08,Sufjan Stevens,15
-2006-08,The American Analog Set,10
-2006-08,The Mountain Goats,6
-2006-08,The Rolling Stones,9
-2006-08,The Shins,11
-2006-09,Belle And Sebastian,18
-2006-09,Chromeo,2
-2006-09,Common,20
-2006-09,Daft Punk,2
-2006-09,Diplo,11
-2006-09,Donovan,11
-2006-09,Fischerspooner,5
-2006-09,Fleetwood Mac,1
-2006-09,Hollertronix,15
-2006-09,Johnny Cash,3
-2006-09,Madonna,27
-2006-09,Metric,4
-2006-09,Mos Def,7
-2006-09,Noam Chomsky,31
-2006-09,Ratatat,6
-2006-09,Sufjan Stevens,13
-2006-09,The American Analog Set,12
-2006-09,The Mountain Goats,3
-2006-09,The Rolling Stones,10
-2006-09,The Shins,4
-2006-10,Belle And Sebastian,27
-2006-10,Chromeo,4
-2006-10,Common,15
-2006-10,Daft Punk,2
-2006-10,Diplo,11
-2006-10,Donovan,17
-2006-10,Fischerspooner,2
-2006-10,Fleetwood Mac,3
-2006-10,Hollertronix,14
-2006-10,Johnny Cash,4
-2006-10,Madonna,20
-2006-10,Metric,10
-2006-10,Mos Def,7
-2006-10,Noam Chomsky,31
-2006-10,Ratatat,5
-2006-10,Sufjan Stevens,21
-2006-10,The American Analog Set,6
-2006-10,The Mountain Goats,9
-2006-10,The Rolling Stones,14
-2006-10,The Shins,9
-2006-11,Belle And Sebastian,10
-2006-11,Chromeo,2
-2006-11,Common,30
-2006-11,Daft Punk,4
-2006-11,Diplo,4
-2006-11,Donovan,4
-2006-11,Fischerspooner,0
-2006-11,Fleetwood Mac,2
-2006-11,Hollertronix,6
-2006-11,Johnny Cash,0
-2006-11,Madonna,10
-2006-11,Metric,3
-2006-11,Mos Def,2
-2006-11,Noam Chomsky,18
-2006-11,Ratatat,14
-2006-11,Sufjan Stevens,7
-2006-11,The American Analog Set,24
-2006-11,The Mountain Goats,17
-2006-11,The Rolling Stones,5
-2006-11,The Shins,26
-2006-12,Belle And Sebastian,1
-2006-12,Chromeo,0
-2006-12,Common,1
-2006-12,Daft Punk,0
-2006-12,Diplo,0
-2006-12,Donovan,0
-2006-12,Fischerspooner,0
-2006-12,Fleetwood Mac,0
-2006-12,Hollertronix,0
-2006-12,Johnny Cash,0
-2006-12,Madonna,0
-2006-12,Metric,0
-2006-12,Mos Def,0
-2006-12,Noam Chomsky,0
-2006-12,Ratatat,2
-2006-12,Sufjan Stevens,0
-2006-12,The American Analog Set,1
-2006-12,The Mountain Goats,0
-2006-12,The Rolling Stones,0
-2006-12,The Shins,11
-2007-01,Belle And Sebastian,2
-2007-01,Chromeo,2
-2007-01,Common,0
-2007-01,Daft Punk,1
-2007-01,Diplo,1
-2007-01,Donovan,1
-2007-01,Fischerspooner,0
-2007-01,Fleetwood Mac,0
-2007-01,Hollertronix,0
-2007-01,Johnny Cash,0
-2007-01,Madonna,1
-2007-01,Metric,0
-2007-01,Mos Def,0
-2007-01,Noam Chomsky,6
-2007-01,Ratatat,2
-2007-01,Sufjan Stevens,0
-2007-01,The American Analog Set,1
-2007-01,The Mountain Goats,0
-2007-01,The Rolling Stones,1
-2007-01,The Shins,0
-2007-02,Belle And Sebastian,0
-2007-02,Chromeo,0
-2007-02,Common,0
-2007-02,Daft Punk,0
-2007-02,Diplo,0
-2007-02,Donovan,0
-2007-02,Fischerspooner,0
-2007-02,Fleetwood Mac,0
-2007-02,Hollertronix,0
-2007-02,Johnny Cash,0
-2007-02,Madonna,0
-2007-02,Metric,0
-2007-02,Mos Def,0
-2007-02,Noam Chomsky,0
-2007-02,Ratatat,0
-2007-02,Sufjan Stevens,0
-2007-02,The American Analog Set,1
-2007-02,The Mountain Goats,0
-2007-02,The Rolling Stones,0
-2007-02,The Shins,0
-2007-03,Belle And Sebastian,1
-2007-03,Chromeo,1
-2007-03,Common,0
-2007-03,Daft Punk,0
-2007-03,Diplo,0
-2007-03,Donovan,0
-2007-03,Fischerspooner,0
-2007-03,Fleetwood Mac,0
-2007-03,Hollertronix,0
-2007-03,Johnny Cash,0
-2007-03,Madonna,2
-2007-03,Metric,0
-2007-03,Mos Def,1
-2007-03,Noam Chomsky,0
-2007-03,Ratatat,0
-2007-03,Sufjan Stevens,2
-2007-03,The American Analog Set,9
-2007-03,The Mountain Goats,0
-2007-03,The Rolling Stones,0
-2007-03,The Shins,0
-2007-04,Belle And Sebastian,0
-2007-04,Chromeo,0
-2007-04,Common,0
-2007-04,Daft Punk,0
-2007-04,Diplo,0
-2007-04,Donovan,0
-2007-04,Fischerspooner,0
-2007-04,Fleetwood Mac,0
-2007-04,Hollertronix,0
-2007-04,Johnny Cash,0
-2007-04,Madonna,0
-2007-04,Metric,0
-2007-04,Mos Def,0
-2007-04,Noam Chomsky,0
-2007-04,Ratatat,0
-2007-04,Sufjan Stevens,0
-2007-04,The American Analog Set,0
-2007-04,The Mountain Goats,0
-2007-04,The Rolling Stones,0
-2007-04,The Shins,0
-2007-05,Belle And Sebastian,1
-2007-05,Chromeo,0
-2007-05,Common,5
-2007-05,Daft Punk,1
-2007-05,Diplo,1
-2007-05,Donovan,2
-2007-05,Fischerspooner,1
-2007-05,Fleetwood Mac,1
-2007-05,Hollertronix,3
-2007-05,Johnny Cash,2
-2007-05,Madonna,8
-2007-05,Metric,2
-2007-05,Mos Def,4
-2007-05,Noam Chomsky,1
-2007-05,Ratatat,1
-2007-05,Sufjan Stevens,8
-2007-05,The American Analog Set,0
-2007-05,The Mountain Goats,2
-2007-05,The Rolling Stones,2
-2007-05,The Shins,0
-2007-06,Belle And Sebastian,1
-2007-06,Chromeo,0
-2007-06,Common,1
-2007-06,Daft Punk,0
-2007-06,Diplo,0
-2007-06,Donovan,0
-2007-06,Fischerspooner,0
-2007-06,Fleetwood Mac,1
-2007-06,Hollertronix,0
-2007-06,Johnny Cash,0
-2007-06,Madonna,0
-2007-06,Metric,0
-2007-06,Mos Def,0
-2007-06,Noam Chomsky,24
-2007-06,Ratatat,0
-2007-06,Sufjan Stevens,0
-2007-06,The American Analog Set,0
-2007-06,The Mountain Goats,0
-2007-06,The Rolling Stones,1
-2007-06,The Shins,1
-2007-07,Belle And Sebastian,0
-2007-07,Chromeo,0
-2007-07,Common,0
-2007-07,Daft Punk,0
-2007-07,Diplo,0
-2007-07,Donovan,0
-2007-07,Fischerspooner,0
-2007-07,Fleetwood Mac,0
-2007-07,Hollertronix,0
-2007-07,Johnny Cash,0
-2007-07,Madonna,0
-2007-07,Metric,0
-2007-07,Mos Def,0
-2007-07,Noam Chomsky,0
-2007-07,Ratatat,0
-2007-07,Sufjan Stevens,0
-2007-07,The American Analog Set,0
-2007-07,The Mountain Goats,0
-2007-07,The Rolling Stones,0
-2007-07,The Shins,0
-2007-08,Belle And Sebastian,0
-2007-08,Chromeo,1
-2007-08,Common,3
-2007-08,Daft Punk,0
-2007-08,Diplo,1
-2007-08,Donovan,1
-2007-08,Fischerspooner,1
-2007-08,Fleetwood Mac,0
-2007-08,Hollertronix,3
-2007-08,Johnny Cash,2
-2007-08,Madonna,4
-2007-08,Metric,2
-2007-08,Mos Def,1
-2007-08,Noam Chomsky,4
-2007-08,Ratatat,2
-2007-08,Sufjan Stevens,3
-2007-08,The American Analog Set,0
-2007-08,The Mountain Goats,2
-2007-08,The Rolling Stones,1
-2007-08,The Shins,2
-2007-09,Belle And Sebastian,1
-2007-09,Chromeo,0
-2007-09,Common,1
-2007-09,Daft Punk,0
-2007-09,Diplo,1
-2007-09,Donovan,0
-2007-09,Fischerspooner,1
-2007-09,Fleetwood Mac,1
-2007-09,Hollertronix,1
-2007-09,Johnny Cash,1
-2007-09,Madonna,4
-2007-09,Metric,0
-2007-09,Mos Def,0
-2007-09,Noam Chomsky,5
-2007-09,Ratatat,0
-2007-09,Sufjan Stevens,0
-2007-09,The American Analog Set,1
-2007-09,The Mountain Goats,0
-2007-09,The Rolling Stones,1
-2007-09,The Shins,1
-2007-10,Belle And Sebastian,0
-2007-10,Chromeo,1
-2007-10,Common,0
-2007-10,Daft Punk,1
-2007-10,Diplo,0
-2007-10,Donovan,0
-2007-10,Fischerspooner,1
-2007-10,Fleetwood Mac,0
-2007-10,Hollertronix,1
-2007-10,Johnny Cash,0
-2007-10,Madonna,4
-2007-10,Metric,1
-2007-10,Mos Def,0
-2007-10,Noam Chomsky,0
-2007-10,Ratatat,0
-2007-10,Sufjan Stevens,1
-2007-10,The American Analog Set,0
-2007-10,The Mountain Goats,2
-2007-10,The Rolling Stones,0
-2007-10,The Shins,1
-2007-11,Belle And Sebastian,5
-2007-11,Chromeo,2
-2007-11,Common,4
-2007-11,Daft Punk,0
-2007-11,Diplo,0
-2007-11,Donovan,3
-2007-11,Fischerspooner,1
-2007-11,Fleetwood Mac,2
-2007-11,Hollertronix,5
-2007-11,Johnny Cash,0
-2007-11,Madonna,6
-2007-11,Metric,14
-2007-11,Mos Def,2
-2007-11,Noam Chomsky,9
-2007-11,Ratatat,0
-2007-11,Sufjan Stevens,2
-2007-11,The American Analog Set,2
-2007-11,The Mountain Goats,4
-2007-11,The Rolling Stones,5
-2007-11,The Shins,1
-2007-12,Belle And Sebastian,5
-2007-12,Chromeo,0
-2007-12,Common,3
-2007-12,Daft Punk,0
-2007-12,Diplo,4
-2007-12,Donovan,6
-2007-12,Fischerspooner,1
-2007-12,Fleetwood Mac,2
-2007-12,Hollertronix,6
-2007-12,Johnny Cash,1
-2007-12,Madonna,10
-2007-12,Metric,4
-2007-12,Mos Def,1
-2007-12,Noam Chomsky,6
-2007-12,Ratatat,6
-2007-12,Sufjan Stevens,6
-2007-12,The American Analog Set,0
-2007-12,The Mountain Goats,6
-2007-12,The Rolling Stones,4
-2007-12,The Shins,2
-2008-01,Belle And Sebastian,4
-2008-01,Chromeo,2
-2008-01,Common,7
-2008-01,Daft Punk,2
-2008-01,Diplo,7
-2008-01,Donovan,11
-2008-01,Fischerspooner,1
-2008-01,Fleetwood Mac,8
-2008-01,Hollertronix,11
-2008-01,Johnny Cash,4
-2008-01,Madonna,20
-2008-01,Metric,9
-2008-01,Mos Def,2
-2008-01,Noam Chomsky,14
-2008-01,Ratatat,5
-2008-01,Sufjan Stevens,13
-2008-01,The American Analog Set,2
-2008-01,The Mountain Goats,9
-2008-01,The Rolling Stones,9
-2008-01,The Shins,5
-2008-02,Belle And Sebastian,4
-2008-02,Chromeo,3
-2008-02,Common,1
-2008-02,Daft Punk,3
-2008-02,Diplo,5
-2008-02,Donovan,18
-2008-02,Fischerspooner,3
-2008-02,Fleetwood Mac,3
-2008-02,Hollertronix,9
-2008-02,Johnny Cash,2
-2008-02,Madonna,22
-2008-02,Metric,10
-2008-02,Mos Def,0
-2008-02,Noam Chomsky,20
-2008-02,Ratatat,5
-2008-02,Sufjan Stevens,10
-2008-02,The American Analog Set,2
-2008-02,The Mountain Goats,5
-2008-02,The Rolling Stones,6
-2008-02,The Shins,3
-2008-03,Belle And Sebastian,0
-2008-03,Chromeo,0
-2008-03,Common,0
-2008-03,Daft Punk,0
-2008-03,Diplo,0
-2008-03,Donovan,0
-2008-03,Fischerspooner,0
-2008-03,Fleetwood Mac,0
-2008-03,Hollertronix,0
-2008-03,Johnny Cash,0
-2008-03,Madonna,0
-2008-03,Metric,0
-2008-03,Mos Def,0
-2008-03,Noam Chomsky,0
-2008-03,Ratatat,0
-2008-03,Sufjan Stevens,0
-2008-03,The American Analog Set,0
-2008-03,The Mountain Goats,0
-2008-03,The Rolling Stones,0
-2008-03,The Shins,0
-2008-04,Belle And Sebastian,0
-2008-04,Chromeo,0
-2008-04,Common,0
-2008-04,Daft Punk,0
-2008-04,Diplo,0
-2008-04,Donovan,0
-2008-04,Fischerspooner,0
-2008-04,Fleetwood Mac,0
-2008-04,Hollertronix,0
-2008-04,Johnny Cash,0
-2008-04,Madonna,0
-2008-04,Metric,0
-2008-04,Mos Def,0
-2008-04,Noam Chomsky,0
-2008-04,Ratatat,0
-2008-04,Sufjan Stevens,0
-2008-04,The American Analog Set,0
-2008-04,The Mountain Goats,0
-2008-04,The Rolling Stones,0
-2008-04,The Shins,0
-2008-05,Belle And Sebastian,1
-2008-05,Chromeo,2
-2008-05,Common,0
-2008-05,Daft Punk,2
-2008-05,Diplo,0
-2008-05,Donovan,0
-2008-05,Fischerspooner,0
-2008-05,Fleetwood Mac,1
-2008-05,Hollertronix,2
-2008-05,Johnny Cash,1
-2008-05,Madonna,43
-2008-05,Metric,3
-2008-05,Mos Def,0
-2008-05,Noam Chomsky,0
-2008-05,Ratatat,0
-2008-05,Sufjan Stevens,2
-2008-05,The American Analog Set,0
-2008-05,The Mountain Goats,3
-2008-05,The Rolling Stones,1
-2008-05,The Shins,0
-2008-06,Belle And Sebastian,2
-2008-06,Chromeo,0
-2008-06,Common,0
-2008-06,Daft Punk,0
-2008-06,Diplo,0
-2008-06,Donovan,9
-2008-06,Fischerspooner,0
-2008-06,Fleetwood Mac,3
-2008-06,Hollertronix,0
-2008-06,Johnny Cash,1
-2008-06,Madonna,2
-2008-06,Metric,0
-2008-06,Mos Def,0
-2008-06,Noam Chomsky,0
-2008-06,Ratatat,6
-2008-06,Sufjan Stevens,6
-2008-06,The American Analog Set,7
-2008-06,The Mountain Goats,0
-2008-06,The Rolling Stones,0
-2008-06,The Shins,3
-2008-07,Belle And Sebastian,5
-2008-07,Chromeo,0
-2008-07,Common,1
-2008-07,Daft Punk,1
-2008-07,Diplo,2
-2008-07,Donovan,3
-2008-07,Fischerspooner,2
-2008-07,Fleetwood Mac,3
-2008-07,Hollertronix,7
-2008-07,Johnny Cash,1
-2008-07,Madonna,18
-2008-07,Metric,5
-2008-07,Mos Def,3
-2008-07,Noam Chomsky,13
-2008-07,Ratatat,2
-2008-07,Sufjan Stevens,10
-2008-07,The American Analog Set,0
-2008-07,The Mountain Goats,1
-2008-07,The Rolling Stones,7
-2008-07,The Shins,1
-2008-08,Belle And Sebastian,1
-2008-08,Chromeo,0
-2008-08,Common,0
-2008-08,Daft Punk,2
-2008-08,Diplo,0
-2008-08,Donovan,3
-2008-08,Fischerspooner,0
-2008-08,Fleetwood Mac,16
-2008-08,Hollertronix,0
-2008-08,Johnny Cash,2
-2008-08,Madonna,1
-2008-08,Metric,2
-2008-08,Mos Def,1
-2008-08,Noam Chomsky,3
-2008-08,Ratatat,1
-2008-08,Sufjan Stevens,0
-2008-08,The American Analog Set,1
-2008-08,The Mountain Goats,2
-2008-08,The Rolling Stones,0
-2008-08,The Shins,0
-2008-09,Belle And Sebastian,0
-2008-09,Chromeo,1
-2008-09,Common,0
-2008-09,Daft Punk,1
-2008-09,Diplo,0
-2008-09,Donovan,0
-2008-09,Fischerspooner,1
-2008-09,Fleetwood Mac,1
-2008-09,Hollertronix,0
-2008-09,Johnny Cash,0
-2008-09,Madonna,3
-2008-09,Metric,0
-2008-09,Mos Def,0
-2008-09,Noam Chomsky,0
-2008-09,Ratatat,3
-2008-09,Sufjan Stevens,0
-2008-09,The American Analog Set,0
-2008-09,The Mountain Goats,0
-2008-09,The Rolling Stones,0
-2008-09,The Shins,0
-2008-10,Belle And Sebastian,0
-2008-10,Chromeo,0
-2008-10,Common,0
-2008-10,Daft Punk,0
-2008-10,Diplo,0
-2008-10,Donovan,0
-2008-10,Fischerspooner,0
-2008-10,Fleetwood Mac,0
-2008-10,Hollertronix,0
-2008-10,Johnny Cash,0
-2008-10,Madonna,0
-2008-10,Metric,0
-2008-10,Mos Def,0
-2008-10,Noam Chomsky,0
-2008-10,Ratatat,0
-2008-10,Sufjan Stevens,0
-2008-10,The American Analog Set,0
-2008-10,The Mountain Goats,0
-2008-10,The Rolling Stones,0
-2008-10,The Shins,0
-2008-11,Belle And Sebastian,0
-2008-11,Chromeo,0
-2008-11,Common,0
-2008-11,Daft Punk,0
-2008-11,Diplo,0
-2008-11,Donovan,0
-2008-11,Fischerspooner,0
-2008-11,Fleetwood Mac,0
-2008-11,Hollertronix,0
-2008-11,Johnny Cash,0
-2008-11,Madonna,0
-2008-11,Metric,0
-2008-11,Mos Def,0
-2008-11,Noam Chomsky,0
-2008-11,Ratatat,0
-2008-11,Sufjan Stevens,0
-2008-11,The American Analog Set,0
-2008-11,The Mountain Goats,0
-2008-11,The Rolling Stones,0
-2008-11,The Shins,0
-2008-12,Belle And Sebastian,0
-2008-12,Chromeo,1
-2008-12,Common,1
-2008-12,Daft Punk,1
-2008-12,Diplo,1
-2008-12,Donovan,3
-2008-12,Fischerspooner,0
-2008-12,Fleetwood Mac,3
-2008-12,Hollertronix,6
-2008-12,Johnny Cash,1
-2008-12,Madonna,8
-2008-12,Metric,7
-2008-12,Mos Def,1
-2008-12,Noam Chomsky,0
-2008-12,Ratatat,2
-2008-12,Sufjan Stevens,4
-2008-12,The American Analog Set,0
-2008-12,The Mountain Goats,4
-2008-12,The Rolling Stones,1
-2008-12,The Shins,0
-2009-01,Belle And Sebastian,2
-2009-01,Chromeo,2
-2009-01,Common,0
-2009-01,Daft Punk,1
-2009-01,Diplo,0
-2009-01,Donovan,4
-2009-01,Fischerspooner,0
-2009-01,Fleetwood Mac,1
-2009-01,Hollertronix,2
-2009-01,Johnny Cash,1
-2009-01,Madonna,10
-2009-01,Metric,1
-2009-01,Mos Def,1
-2009-01,Noam Chomsky,3
-2009-01,Ratatat,1
-2009-01,Sufjan Stevens,0
-2009-01,The American Analog Set,0
-2009-01,The Mountain Goats,0
-2009-01,The Rolling Stones,1
-2009-01,The Shins,0
-2009-02,Belle And Sebastian,0
-2009-02,Chromeo,0
-2009-02,Common,0
-2009-02,Daft Punk,0
-2009-02,Diplo,0
-2009-02,Donovan,0
-2009-02,Fischerspooner,0
-2009-02,Fleetwood Mac,0
-2009-02,Hollertronix,0
-2009-02,Johnny Cash,0
-2009-02,Madonna,0
-2009-02,Metric,0
-2009-02,Mos Def,0
-2009-02,Noam Chomsky,0
-2009-02,Ratatat,0
-2009-02,Sufjan Stevens,0
-2009-02,The American Analog Set,0
-2009-02,The Mountain Goats,0
-2009-02,The Rolling Stones,0
-2009-02,The Shins,0
-2009-03,Belle And Sebastian,0
-2009-03,Chromeo,0
-2009-03,Common,0
-2009-03,Daft Punk,0
-2009-03,Diplo,1
-2009-03,Donovan,0
-2009-03,Fischerspooner,1
-2009-03,Fleetwood Mac,2
-2009-03,Hollertronix,2
-2009-03,Johnny Cash,0
-2009-03,Madonna,17
-2009-03,Metric,1
-2009-03,Mos Def,0
-2009-03,Noam Chomsky,1
-2009-03,Ratatat,0
-2009-03,Sufjan Stevens,0
-2009-03,The American Analog Set,1
-2009-03,The Mountain Goats,0
-2009-03,The Rolling Stones,0
-2009-03,The Shins,0
-2009-04,Belle And Sebastian,0
-2009-04,Chromeo,0
-2009-04,Common,0
-2009-04,Daft Punk,0
-2009-04,Diplo,0
-2009-04,Donovan,4
-2009-04,Fischerspooner,0
-2009-04,Fleetwood Mac,0
-2009-04,Hollertronix,2
-2009-04,Johnny Cash,0
-2009-04,Madonna,6
-2009-04,Metric,2
-2009-04,Mos Def,0
-2009-04,Noam Chomsky,1
-2009-04,Ratatat,0
-2009-04,Sufjan Stevens,4
-2009-04,The American Analog Set,2
-2009-04,The Mountain Goats,0
-2009-04,The Rolling Stones,3
-2009-04,The Shins,0
+"month","artist","plays"
+"2006-03","Belle And Sebastian",3
+"2006-03","Chromeo",0
+"2006-03","Common",1
+"2006-03","Daft Punk",0
+"2006-03","Diplo",15
+"2006-03","Donovan",0
+"2006-03","Fischerspooner",1
+"2006-03","Fleetwood Mac",0
+"2006-03","Hollertronix",3
+"2006-03","Johnny Cash",1
+"2006-03","Madonna",0
+"2006-03","Metric",0
+"2006-03","Mos Def",1
+"2006-03","Noam Chomsky",3
+"2006-03","Ratatat",1
+"2006-03","Sufjan Stevens",2
+"2006-03","The American Analog Set",1
+"2006-03","The Mountain Goats",0
+"2006-03","The Rolling Stones",1
+"2006-03","The Shins",0
+"2006-04","Belle And Sebastian",22
+"2006-04","Chromeo",3
+"2006-04","Common",28
+"2006-04","Daft Punk",1
+"2006-04","Diplo",5
+"2006-04","Donovan",1
+"2006-04","Fischerspooner",2
+"2006-04","Fleetwood Mac",4
+"2006-04","Hollertronix",17
+"2006-04","Johnny Cash",7
+"2006-04","Madonna",13
+"2006-04","Metric",4
+"2006-04","Mos Def",9
+"2006-04","Noam Chomsky",18
+"2006-04","Ratatat",10
+"2006-04","Sufjan Stevens",10
+"2006-04","The American Analog Set",8
+"2006-04","The Mountain Goats",8
+"2006-04","The Rolling Stones",36
+"2006-04","The Shins",7
+"2006-05","Belle And Sebastian",9
+"2006-05","Chromeo",6
+"2006-05","Common",11
+"2006-05","Daft Punk",1
+"2006-05","Diplo",9
+"2006-05","Donovan",1
+"2006-05","Fischerspooner",6
+"2006-05","Fleetwood Mac",4
+"2006-05","Hollertronix",12
+"2006-05","Johnny Cash",0
+"2006-05","Madonna",14
+"2006-05","Metric",6
+"2006-05","Mos Def",7
+"2006-05","Noam Chomsky",39
+"2006-05","Ratatat",4
+"2006-05","Sufjan Stevens",6
+"2006-05","The American Analog Set",13
+"2006-05","The Mountain Goats",29
+"2006-05","The Rolling Stones",7
+"2006-05","The Shins",5
+"2006-06","Belle And Sebastian",21
+"2006-06","Chromeo",4
+"2006-06","Common",16
+"2006-06","Daft Punk",2
+"2006-06","Diplo",8
+"2006-06","Donovan",17
+"2006-06","Fischerspooner",6
+"2006-06","Fleetwood Mac",4
+"2006-06","Hollertronix",18
+"2006-06","Johnny Cash",5
+"2006-06","Madonna",24
+"2006-06","Metric",11
+"2006-06","Mos Def",16
+"2006-06","Noam Chomsky",27
+"2006-06","Ratatat",4
+"2006-06","Sufjan Stevens",20
+"2006-06","The American Analog Set",17
+"2006-06","The Mountain Goats",6
+"2006-06","The Rolling Stones",11
+"2006-06","The Shins",7
+"2006-07","Belle And Sebastian",6
+"2006-07","Chromeo",0
+"2006-07","Common",5
+"2006-07","Daft Punk",1
+"2006-07","Diplo",5
+"2006-07","Donovan",11
+"2006-07","Fischerspooner",1
+"2006-07","Fleetwood Mac",2
+"2006-07","Hollertronix",7
+"2006-07","Johnny Cash",1
+"2006-07","Madonna",10
+"2006-07","Metric",3
+"2006-07","Mos Def",4
+"2006-07","Noam Chomsky",11
+"2006-07","Ratatat",3
+"2006-07","Sufjan Stevens",4
+"2006-07","The American Analog Set",6
+"2006-07","The Mountain Goats",2
+"2006-07","The Rolling Stones",4
+"2006-07","The Shins",2
+"2006-08","Belle And Sebastian",14
+"2006-08","Chromeo",3
+"2006-08","Common",20
+"2006-08","Daft Punk",2
+"2006-08","Diplo",5
+"2006-08","Donovan",9
+"2006-08","Fischerspooner",6
+"2006-08","Fleetwood Mac",3
+"2006-08","Hollertronix",10
+"2006-08","Johnny Cash",1
+"2006-08","Madonna",28
+"2006-08","Metric",9
+"2006-08","Mos Def",8
+"2006-08","Noam Chomsky",23
+"2006-08","Ratatat",4
+"2006-08","Sufjan Stevens",15
+"2006-08","The American Analog Set",10
+"2006-08","The Mountain Goats",6
+"2006-08","The Rolling Stones",9
+"2006-08","The Shins",11
+"2006-09","Belle And Sebastian",18
+"2006-09","Chromeo",2
+"2006-09","Common",20
+"2006-09","Daft Punk",2
+"2006-09","Diplo",11
+"2006-09","Donovan",11
+"2006-09","Fischerspooner",5
+"2006-09","Fleetwood Mac",1
+"2006-09","Hollertronix",15
+"2006-09","Johnny Cash",3
+"2006-09","Madonna",27
+"2006-09","Metric",4
+"2006-09","Mos Def",7
+"2006-09","Noam Chomsky",31
+"2006-09","Ratatat",6
+"2006-09","Sufjan Stevens",13
+"2006-09","The American Analog Set",12
+"2006-09","The Mountain Goats",3
+"2006-09","The Rolling Stones",10
+"2006-09","The Shins",4
+"2006-10","Belle And Sebastian",27
+"2006-10","Chromeo",4
+"2006-10","Common",15
+"2006-10","Daft Punk",2
+"2006-10","Diplo",11
+"2006-10","Donovan",17
+"2006-10","Fischerspooner",2
+"2006-10","Fleetwood Mac",3
+"2006-10","Hollertronix",14
+"2006-10","Johnny Cash",4
+"2006-10","Madonna",20
+"2006-10","Metric",10
+"2006-10","Mos Def",7
+"2006-10","Noam Chomsky",31
+"2006-10","Ratatat",5
+"2006-10","Sufjan Stevens",21
+"2006-10","The American Analog Set",6
+"2006-10","The Mountain Goats",9
+"2006-10","The Rolling Stones",14
+"2006-10","The Shins",9
+"2006-11","Belle And Sebastian",10
+"2006-11","Chromeo",2
+"2006-11","Common",30
+"2006-11","Daft Punk",4
+"2006-11","Diplo",4
+"2006-11","Donovan",4
+"2006-11","Fischerspooner",0
+"2006-11","Fleetwood Mac",2
+"2006-11","Hollertronix",6
+"2006-11","Johnny Cash",0
+"2006-11","Madonna",10
+"2006-11","Metric",3
+"2006-11","Mos Def",2
+"2006-11","Noam Chomsky",18
+"2006-11","Ratatat",14
+"2006-11","Sufjan Stevens",7
+"2006-11","The American Analog Set",24
+"2006-11","The Mountain Goats",17
+"2006-11","The Rolling Stones",5
+"2006-11","The Shins",26
+"2006-12","Belle And Sebastian",1
+"2006-12","Chromeo",0
+"2006-12","Common",1
+"2006-12","Daft Punk",0
+"2006-12","Diplo",0
+"2006-12","Donovan",0
+"2006-12","Fischerspooner",0
+"2006-12","Fleetwood Mac",0
+"2006-12","Hollertronix",0
+"2006-12","Johnny Cash",0
+"2006-12","Madonna",0
+"2006-12","Metric",0
+"2006-12","Mos Def",0
+"2006-12","Noam Chomsky",0
+"2006-12","Ratatat",2
+"2006-12","Sufjan Stevens",0
+"2006-12","The American Analog Set",1
+"2006-12","The Mountain Goats",0
+"2006-12","The Rolling Stones",0
+"2006-12","The Shins",11
+"2007-01","Belle And Sebastian",2
+"2007-01","Chromeo",2
+"2007-01","Common",0
+"2007-01","Daft Punk",1
+"2007-01","Diplo",1
+"2007-01","Donovan",1
+"2007-01","Fischerspooner",0
+"2007-01","Fleetwood Mac",0
+"2007-01","Hollertronix",0
+"2007-01","Johnny Cash",0
+"2007-01","Madonna",1
+"2007-01","Metric",0
+"2007-01","Mos Def",0
+"2007-01","Noam Chomsky",6
+"2007-01","Ratatat",2
+"2007-01","Sufjan Stevens",0
+"2007-01","The American Analog Set",1
+"2007-01","The Mountain Goats",0
+"2007-01","The Rolling Stones",1
+"2007-01","The Shins",0
+"2007-02","Belle And Sebastian",0
+"2007-02","Chromeo",0
+"2007-02","Common",0
+"2007-02","Daft Punk",0
+"2007-02","Diplo",0
+"2007-02","Donovan",0
+"2007-02","Fischerspooner",0
+"2007-02","Fleetwood Mac",0
+"2007-02","Hollertronix",0
+"2007-02","Johnny Cash",0
+"2007-02","Madonna",0
+"2007-02","Metric",0
+"2007-02","Mos Def",0
+"2007-02","Noam Chomsky",0
+"2007-02","Ratatat",0
+"2007-02","Sufjan Stevens",0
+"2007-02","The American Analog Set",1
+"2007-02","The Mountain Goats",0
+"2007-02","The Rolling Stones",0
+"2007-02","The Shins",0
+"2007-03","Belle And Sebastian",1
+"2007-03","Chromeo",1
+"2007-03","Common",0
+"2007-03","Daft Punk",0
+"2007-03","Diplo",0
+"2007-03","Donovan",0
+"2007-03","Fischerspooner",0
+"2007-03","Fleetwood Mac",0
+"2007-03","Hollertronix",0
+"2007-03","Johnny Cash",0
+"2007-03","Madonna",2
+"2007-03","Metric",0
+"2007-03","Mos Def",1
+"2007-03","Noam Chomsky",0
+"2007-03","Ratatat",0
+"2007-03","Sufjan Stevens",2
+"2007-03","The American Analog Set",9
+"2007-03","The Mountain Goats",0
+"2007-03","The Rolling Stones",0
+"2007-03","The Shins",0
+"2007-04","Belle And Sebastian",0
+"2007-04","Chromeo",0
+"2007-04","Common",0
+"2007-04","Daft Punk",0
+"2007-04","Diplo",0
+"2007-04","Donovan",0
+"2007-04","Fischerspooner",0
+"2007-04","Fleetwood Mac",0
+"2007-04","Hollertronix",0
+"2007-04","Johnny Cash",0
+"2007-04","Madonna",0
+"2007-04","Metric",0
+"2007-04","Mos Def",0
+"2007-04","Noam Chomsky",0
+"2007-04","Ratatat",0
+"2007-04","Sufjan Stevens",0
+"2007-04","The American Analog Set",0
+"2007-04","The Mountain Goats",0
+"2007-04","The Rolling Stones",0
+"2007-04","The Shins",0
+"2007-05","Belle And Sebastian",1
+"2007-05","Chromeo",0
+"2007-05","Common",5
+"2007-05","Daft Punk",1
+"2007-05","Diplo",1
+"2007-05","Donovan",2
+"2007-05","Fischerspooner",1
+"2007-05","Fleetwood Mac",1
+"2007-05","Hollertronix",3
+"2007-05","Johnny Cash",2
+"2007-05","Madonna",8
+"2007-05","Metric",2
+"2007-05","Mos Def",4
+"2007-05","Noam Chomsky",1
+"2007-05","Ratatat",1
+"2007-05","Sufjan Stevens",8
+"2007-05","The American Analog Set",0
+"2007-05","The Mountain Goats",2
+"2007-05","The Rolling Stones",2
+"2007-05","The Shins",0
+"2007-06","Belle And Sebastian",1
+"2007-06","Chromeo",0
+"2007-06","Common",1
+"2007-06","Daft Punk",0
+"2007-06","Diplo",0
+"2007-06","Donovan",0
+"2007-06","Fischerspooner",0
+"2007-06","Fleetwood Mac",1
+"2007-06","Hollertronix",0
+"2007-06","Johnny Cash",0
+"2007-06","Madonna",0
+"2007-06","Metric",0
+"2007-06","Mos Def",0
+"2007-06","Noam Chomsky",24
+"2007-06","Ratatat",0
+"2007-06","Sufjan Stevens",0
+"2007-06","The American Analog Set",0
+"2007-06","The Mountain Goats",0
+"2007-06","The Rolling Stones",1
+"2007-06","The Shins",1
+"2007-07","Belle And Sebastian",0
+"2007-07","Chromeo",0
+"2007-07","Common",0
+"2007-07","Daft Punk",0
+"2007-07","Diplo",0
+"2007-07","Donovan",0
+"2007-07","Fischerspooner",0
+"2007-07","Fleetwood Mac",0
+"2007-07","Hollertronix",0
+"2007-07","Johnny Cash",0
+"2007-07","Madonna",0
+"2007-07","Metric",0
+"2007-07","Mos Def",0
+"2007-07","Noam Chomsky",0
+"2007-07","Ratatat",0
+"2007-07","Sufjan Stevens",0
+"2007-07","The American Analog Set",0
+"2007-07","The Mountain Goats",0
+"2007-07","The Rolling Stones",0
+"2007-07","The Shins",0
+"2007-08","Belle And Sebastian",0
+"2007-08","Chromeo",1
+"2007-08","Common",3
+"2007-08","Daft Punk",0
+"2007-08","Diplo",1
+"2007-08","Donovan",1
+"2007-08","Fischerspooner",1
+"2007-08","Fleetwood Mac",0
+"2007-08","Hollertronix",3
+"2007-08","Johnny Cash",2
+"2007-08","Madonna",4
+"2007-08","Metric",2
+"2007-08","Mos Def",1
+"2007-08","Noam Chomsky",4
+"2007-08","Ratatat",2
+"2007-08","Sufjan Stevens",3
+"2007-08","The American Analog Set",0
+"2007-08","The Mountain Goats",2
+"2007-08","The Rolling Stones",1
+"2007-08","The Shins",2
+"2007-09","Belle And Sebastian",1
+"2007-09","Chromeo",0
+"2007-09","Common",1
+"2007-09","Daft Punk",0
+"2007-09","Diplo",1
+"2007-09","Donovan",0
+"2007-09","Fischerspooner",1
+"2007-09","Fleetwood Mac",1
+"2007-09","Hollertronix",1
+"2007-09","Johnny Cash",1
+"2007-09","Madonna",4
+"2007-09","Metric",0
+"2007-09","Mos Def",0
+"2007-09","Noam Chomsky",5
+"2007-09","Ratatat",0
+"2007-09","Sufjan Stevens",0
+"2007-09","The American Analog Set",1
+"2007-09","The Mountain Goats",0
+"2007-09","The Rolling Stones",1
+"2007-09","The Shins",1
+"2007-10","Belle And Sebastian",0
+"2007-10","Chromeo",1
+"2007-10","Common",0
+"2007-10","Daft Punk",1
+"2007-10","Diplo",0
+"2007-10","Donovan",0
+"2007-10","Fischerspooner",1
+"2007-10","Fleetwood Mac",0
+"2007-10","Hollertronix",1
+"2007-10","Johnny Cash",0
+"2007-10","Madonna",4
+"2007-10","Metric",1
+"2007-10","Mos Def",0
+"2007-10","Noam Chomsky",0
+"2007-10","Ratatat",0
+"2007-10","Sufjan Stevens",1
+"2007-10","The American Analog Set",0
+"2007-10","The Mountain Goats",2
+"2007-10","The Rolling Stones",0
+"2007-10","The Shins",1
+"2007-11","Belle And Sebastian",5
+"2007-11","Chromeo",2
+"2007-11","Common",4
+"2007-11","Daft Punk",0
+"2007-11","Diplo",0
+"2007-11","Donovan",3
+"2007-11","Fischerspooner",1
+"2007-11","Fleetwood Mac",2
+"2007-11","Hollertronix",5
+"2007-11","Johnny Cash",0
+"2007-11","Madonna",6
+"2007-11","Metric",14
+"2007-11","Mos Def",2
+"2007-11","Noam Chomsky",9
+"2007-11","Ratatat",0
+"2007-11","Sufjan Stevens",2
+"2007-11","The American Analog Set",2
+"2007-11","The Mountain Goats",4
+"2007-11","The Rolling Stones",5
+"2007-11","The Shins",1
+"2007-12","Belle And Sebastian",5
+"2007-12","Chromeo",0
+"2007-12","Common",3
+"2007-12","Daft Punk",0
+"2007-12","Diplo",4
+"2007-12","Donovan",6
+"2007-12","Fischerspooner",1
+"2007-12","Fleetwood Mac",2
+"2007-12","Hollertronix",6
+"2007-12","Johnny Cash",1
+"2007-12","Madonna",10
+"2007-12","Metric",4
+"2007-12","Mos Def",1
+"2007-12","Noam Chomsky",6
+"2007-12","Ratatat",6
+"2007-12","Sufjan Stevens",6
+"2007-12","The American Analog Set",0
+"2007-12","The Mountain Goats",6
+"2007-12","The Rolling Stones",4
+"2007-12","The Shins",2
+"2008-01","Belle And Sebastian",4
+"2008-01","Chromeo",2
+"2008-01","Common",7
+"2008-01","Daft Punk",2
+"2008-01","Diplo",7
+"2008-01","Donovan",11
+"2008-01","Fischerspooner",1
+"2008-01","Fleetwood Mac",8
+"2008-01","Hollertronix",11
+"2008-01","Johnny Cash",4
+"2008-01","Madonna",20
+"2008-01","Metric",9
+"2008-01","Mos Def",2
+"2008-01","Noam Chomsky",14
+"2008-01","Ratatat",5
+"2008-01","Sufjan Stevens",13
+"2008-01","The American Analog Set",2
+"2008-01","The Mountain Goats",9
+"2008-01","The Rolling Stones",9
+"2008-01","The Shins",5
+"2008-02","Belle And Sebastian",4
+"2008-02","Chromeo",3
+"2008-02","Common",1
+"2008-02","Daft Punk",3
+"2008-02","Diplo",5
+"2008-02","Donovan",18
+"2008-02","Fischerspooner",3
+"2008-02","Fleetwood Mac",3
+"2008-02","Hollertronix",9
+"2008-02","Johnny Cash",2
+"2008-02","Madonna",22
+"2008-02","Metric",10
+"2008-02","Mos Def",0
+"2008-02","Noam Chomsky",20
+"2008-02","Ratatat",5
+"2008-02","Sufjan Stevens",10
+"2008-02","The American Analog Set",2
+"2008-02","The Mountain Goats",5
+"2008-02","The Rolling Stones",6
+"2008-02","The Shins",3
+"2008-03","Belle And Sebastian",0
+"2008-03","Chromeo",0
+"2008-03","Common",0
+"2008-03","Daft Punk",0
+"2008-03","Diplo",0
+"2008-03","Donovan",0
+"2008-03","Fischerspooner",0
+"2008-03","Fleetwood Mac",0
+"2008-03","Hollertronix",0
+"2008-03","Johnny Cash",0
+"2008-03","Madonna",0
+"2008-03","Metric",0
+"2008-03","Mos Def",0
+"2008-03","Noam Chomsky",0
+"2008-03","Ratatat",0
+"2008-03","Sufjan Stevens",0
+"2008-03","The American Analog Set",0
+"2008-03","The Mountain Goats",0
+"2008-03","The Rolling Stones",0
+"2008-03","The Shins",0
+"2008-04","Belle And Sebastian",0
+"2008-04","Chromeo",0
+"2008-04","Common",0
+"2008-04","Daft Punk",0
+"2008-04","Diplo",0
+"2008-04","Donovan",0
+"2008-04","Fischerspooner",0
+"2008-04","Fleetwood Mac",0
+"2008-04","Hollertronix",0
+"2008-04","Johnny Cash",0
+"2008-04","Madonna",0
+"2008-04","Metric",0
+"2008-04","Mos Def",0
+"2008-04","Noam Chomsky",0
+"2008-04","Ratatat",0
+"2008-04","Sufjan Stevens",0
+"2008-04","The American Analog Set",0
+"2008-04","The Mountain Goats",0
+"2008-04","The Rolling Stones",0
+"2008-04","The Shins",0
+"2008-05","Belle And Sebastian",1
+"2008-05","Chromeo",2
+"2008-05","Common",0
+"2008-05","Daft Punk",2
+"2008-05","Diplo",0
+"2008-05","Donovan",0
+"2008-05","Fischerspooner",0
+"2008-05","Fleetwood Mac",1
+"2008-05","Hollertronix",2
+"2008-05","Johnny Cash",1
+"2008-05","Madonna",43
+"2008-05","Metric",3
+"2008-05","Mos Def",0
+"2008-05","Noam Chomsky",0
+"2008-05","Ratatat",0
+"2008-05","Sufjan Stevens",2
+"2008-05","The American Analog Set",0
+"2008-05","The Mountain Goats",3
+"2008-05","The Rolling Stones",1
+"2008-05","The Shins",0
+"2008-06","Belle And Sebastian",2
+"2008-06","Chromeo",0
+"2008-06","Common",0
+"2008-06","Daft Punk",0
+"2008-06","Diplo",0
+"2008-06","Donovan",9
+"2008-06","Fischerspooner",0
+"2008-06","Fleetwood Mac",3
+"2008-06","Hollertronix",0
+"2008-06","Johnny Cash",1
+"2008-06","Madonna",2
+"2008-06","Metric",0
+"2008-06","Mos Def",0
+"2008-06","Noam Chomsky",0
+"2008-06","Ratatat",6
+"2008-06","Sufjan Stevens",6
+"2008-06","The American Analog Set",7
+"2008-06","The Mountain Goats",0
+"2008-06","The Rolling Stones",0
+"2008-06","The Shins",3
+"2008-07","Belle And Sebastian",5
+"2008-07","Chromeo",0
+"2008-07","Common",1
+"2008-07","Daft Punk",1
+"2008-07","Diplo",2
+"2008-07","Donovan",3
+"2008-07","Fischerspooner",2
+"2008-07","Fleetwood Mac",3
+"2008-07","Hollertronix",7
+"2008-07","Johnny Cash",1
+"2008-07","Madonna",18
+"2008-07","Metric",5
+"2008-07","Mos Def",3
+"2008-07","Noam Chomsky",13
+"2008-07","Ratatat",2
+"2008-07","Sufjan Stevens",10
+"2008-07","The American Analog Set",0
+"2008-07","The Mountain Goats",1
+"2008-07","The Rolling Stones",7
+"2008-07","The Shins",1
+"2008-08","Belle And Sebastian",1
+"2008-08","Chromeo",0
+"2008-08","Common",0
+"2008-08","Daft Punk",2
+"2008-08","Diplo",0
+"2008-08","Donovan",3
+"2008-08","Fischerspooner",0
+"2008-08","Fleetwood Mac",16
+"2008-08","Hollertronix",0
+"2008-08","Johnny Cash",2
+"2008-08","Madonna",1
+"2008-08","Metric",2
+"2008-08","Mos Def",1
+"2008-08","Noam Chomsky",3
+"2008-08","Ratatat",1
+"2008-08","Sufjan Stevens",0
+"2008-08","The American Analog Set",1
+"2008-08","The Mountain Goats",2
+"2008-08","The Rolling Stones",0
+"2008-08","The Shins",0
+"2008-09","Belle And Sebastian",0
+"2008-09","Chromeo",1
+"2008-09","Common",0
+"2008-09","Daft Punk",1
+"2008-09","Diplo",0
+"2008-09","Donovan",0
+"2008-09","Fischerspooner",1
+"2008-09","Fleetwood Mac",1
+"2008-09","Hollertronix",0
+"2008-09","Johnny Cash",0
+"2008-09","Madonna",3
+"2008-09","Metric",0
+"2008-09","Mos Def",0
+"2008-09","Noam Chomsky",0
+"2008-09","Ratatat",3
+"2008-09","Sufjan Stevens",0
+"2008-09","The American Analog Set",0
+"2008-09","The Mountain Goats",0
+"2008-09","The Rolling Stones",0
+"2008-09","The Shins",0
+"2008-10","Belle And Sebastian",0
+"2008-10","Chromeo",0
+"2008-10","Common",0
+"2008-10","Daft Punk",0
+"2008-10","Diplo",0
+"2008-10","Donovan",0
+"2008-10","Fischerspooner",0
+"2008-10","Fleetwood Mac",0
+"2008-10","Hollertronix",0
+"2008-10","Johnny Cash",0
+"2008-10","Madonna",0
+"2008-10","Metric",0
+"2008-10","Mos Def",0
+"2008-10","Noam Chomsky",0
+"2008-10","Ratatat",0
+"2008-10","Sufjan Stevens",0
+"2008-10","The American Analog Set",0
+"2008-10","The Mountain Goats",0
+"2008-10","The Rolling Stones",0
+"2008-10","The Shins",0
+"2008-11","Belle And Sebastian",0
+"2008-11","Chromeo",0
+"2008-11","Common",0
+"2008-11","Daft Punk",0
+"2008-11","Diplo",0
+"2008-11","Donovan",0
+"2008-11","Fischerspooner",0
+"2008-11","Fleetwood Mac",0
+"2008-11","Hollertronix",0
+"2008-11","Johnny Cash",0
+"2008-11","Madonna",0
+"2008-11","Metric",0
+"2008-11","Mos Def",0
+"2008-11","Noam Chomsky",0
+"2008-11","Ratatat",0
+"2008-11","Sufjan Stevens",0
+"2008-11","The American Analog Set",0
+"2008-11","The Mountain Goats",0
+"2008-11","The Rolling Stones",0
+"2008-11","The Shins",0
+"2008-12","Belle And Sebastian",0
+"2008-12","Chromeo",1
+"2008-12","Common",1
+"2008-12","Daft Punk",1
+"2008-12","Diplo",1
+"2008-12","Donovan",3
+"2008-12","Fischerspooner",0
+"2008-12","Fleetwood Mac",3
+"2008-12","Hollertronix",6
+"2008-12","Johnny Cash",1
+"2008-12","Madonna",8
+"2008-12","Metric",7
+"2008-12","Mos Def",1
+"2008-12","Noam Chomsky",0
+"2008-12","Ratatat",2
+"2008-12","Sufjan Stevens",4
+"2008-12","The American Analog Set",0
+"2008-12","The Mountain Goats",4
+"2008-12","The Rolling Stones",1
+"2008-12","The Shins",0
+"2009-01","Belle And Sebastian",2
+"2009-01","Chromeo",2
+"2009-01","Common",0
+"2009-01","Daft Punk",1
+"2009-01","Diplo",0
+"2009-01","Donovan",4
+"2009-01","Fischerspooner",0
+"2009-01","Fleetwood Mac",1
+"2009-01","Hollertronix",2
+"2009-01","Johnny Cash",1
+"2009-01","Madonna",10
+"2009-01","Metric",1
+"2009-01","Mos Def",1
+"2009-01","Noam Chomsky",3
+"2009-01","Ratatat",1
+"2009-01","Sufjan Stevens",0
+"2009-01","The American Analog Set",0
+"2009-01","The Mountain Goats",0
+"2009-01","The Rolling Stones",1
+"2009-01","The Shins",0
+"2009-02","Belle And Sebastian",0
+"2009-02","Chromeo",0
+"2009-02","Common",0
+"2009-02","Daft Punk",0
+"2009-02","Diplo",0
+"2009-02","Donovan",0
+"2009-02","Fischerspooner",0
+"2009-02","Fleetwood Mac",0
+"2009-02","Hollertronix",0
+"2009-02","Johnny Cash",0
+"2009-02","Madonna",0
+"2009-02","Metric",0
+"2009-02","Mos Def",0
+"2009-02","Noam Chomsky",0
+"2009-02","Ratatat",0
+"2009-02","Sufjan Stevens",0
+"2009-02","The American Analog Set",0
+"2009-02","The Mountain Goats",0
+"2009-02","The Rolling Stones",0
+"2009-02","The Shins",0
+"2009-03","Belle And Sebastian",0
+"2009-03","Chromeo",0
+"2009-03","Common",0
+"2009-03","Daft Punk",0
+"2009-03","Diplo",1
+"2009-03","Donovan",0
+"2009-03","Fischerspooner",1
+"2009-03","Fleetwood Mac",2
+"2009-03","Hollertronix",2
+"2009-03","Johnny Cash",0
+"2009-03","Madonna",17
+"2009-03","Metric",1
+"2009-03","Mos Def",0
+"2009-03","Noam Chomsky",1
+"2009-03","Ratatat",0
+"2009-03","Sufjan Stevens",0
+"2009-03","The American Analog Set",1
+"2009-03","The Mountain Goats",0
+"2009-03","The Rolling Stones",0
+"2009-03","The Shins",0
+"2009-04","Belle And Sebastian",0
+"2009-04","Chromeo",0
+"2009-04","Common",0
+"2009-04","Daft Punk",0
+"2009-04","Diplo",0
+"2009-04","Donovan",4
+"2009-04","Fischerspooner",0
+"2009-04","Fleetwood Mac",0
+"2009-04","Hollertronix",2
+"2009-04","Johnny Cash",0
+"2009-04","Madonna",6
+"2009-04","Metric",2
+"2009-04","Mos Def",0
+"2009-04","Noam Chomsky",1
+"2009-04","Ratatat",0
+"2009-04","Sufjan Stevens",4
+"2009-04","The American Analog Set",2
+"2009-04","The Mountain Goats",0
+"2009-04","The Rolling Stones",3
+"2009-04","The Shins",0

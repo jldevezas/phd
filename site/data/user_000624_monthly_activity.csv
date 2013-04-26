@@ -1,461 +1,461 @@
-month,artist,plays
-2006-03,[Ingenting],5
-2006-03,Andrew Lloyd Webber,8
-2006-03,Arctic Monkeys,20
-2006-03,Coldplay,11
-2006-03,Dread Zeppelin,2
-2006-03,Jokke & Valentinerne,3
-2006-03,Kaizers Orchestra,43
-2006-03,Kent,14
-2006-03,Mando Diao,16
-2006-03,Mew,33
-2006-03,Muse,58
-2006-03,Nirvana,1
-2006-03,Pink Floyd,1
-2006-03,Placebo,25
-2006-03,Queen,1
-2006-03,Radiohead,8
-2006-03,The Apples In Stereo,0
-2006-03,The Beatles,16
-2006-03,The Shins,2
-2006-03,The White Stripes,27
-2006-04,[Ingenting],6
-2006-04,Andrew Lloyd Webber,4
-2006-04,Arctic Monkeys,32
-2006-04,Coldplay,15
-2006-04,Dread Zeppelin,8
-2006-04,Jokke & Valentinerne,1
-2006-04,Kaizers Orchestra,70
-2006-04,Kent,21
-2006-04,Mando Diao,7
-2006-04,Mew,41
-2006-04,Muse,99
-2006-04,Nirvana,0
-2006-04,Pink Floyd,3
-2006-04,Placebo,40
-2006-04,Queen,6
-2006-04,Radiohead,13
-2006-04,The Apples In Stereo,0
-2006-04,The Beatles,8
-2006-04,The Shins,5
-2006-04,The White Stripes,42
-2006-05,[Ingenting],2
-2006-05,Andrew Lloyd Webber,3
-2006-05,Arctic Monkeys,28
-2006-05,Coldplay,16
-2006-05,Dread Zeppelin,10
-2006-05,Jokke & Valentinerne,1
-2006-05,Kaizers Orchestra,50
-2006-05,Kent,23
-2006-05,Mando Diao,14
-2006-05,Mew,33
-2006-05,Muse,117
-2006-05,Nirvana,2
-2006-05,Pink Floyd,6
-2006-05,Placebo,38
-2006-05,Queen,13
-2006-05,Radiohead,15
-2006-05,The Apples In Stereo,0
-2006-05,The Beatles,8
-2006-05,The Shins,2
-2006-05,The White Stripes,27
-2006-06,[Ingenting],1
-2006-06,Andrew Lloyd Webber,6
-2006-06,Arctic Monkeys,7
-2006-06,Coldplay,4
-2006-06,Dread Zeppelin,4
-2006-06,Jokke & Valentinerne,3
-2006-06,Kaizers Orchestra,21
-2006-06,Kent,9
-2006-06,Mando Diao,10
-2006-06,Mew,18
-2006-06,Muse,64
-2006-06,Nirvana,0
-2006-06,Pink Floyd,9
-2006-06,Placebo,27
-2006-06,Queen,7
-2006-06,Radiohead,11
-2006-06,The Apples In Stereo,0
-2006-06,The Beatles,3
-2006-06,The Shins,2
-2006-06,The White Stripes,9
-2006-07,[Ingenting],0
-2006-07,Andrew Lloyd Webber,3
-2006-07,Arctic Monkeys,14
-2006-07,Coldplay,4
-2006-07,Dread Zeppelin,0
-2006-07,Jokke & Valentinerne,1
-2006-07,Kaizers Orchestra,4
-2006-07,Kent,2
-2006-07,Mando Diao,3
-2006-07,Mew,7
-2006-07,Muse,41
-2006-07,Nirvana,0
-2006-07,Pink Floyd,1
-2006-07,Placebo,8
-2006-07,Queen,4
-2006-07,Radiohead,1
-2006-07,The Apples In Stereo,3
-2006-07,The Beatles,3
-2006-07,The Shins,2
-2006-07,The White Stripes,2
-2006-08,[Ingenting],0
-2006-08,Andrew Lloyd Webber,2
-2006-08,Arctic Monkeys,6
-2006-08,Coldplay,2
-2006-08,Dread Zeppelin,1
-2006-08,Jokke & Valentinerne,2
-2006-08,Kaizers Orchestra,5
-2006-08,Kent,3
-2006-08,Mando Diao,4
-2006-08,Mew,4
-2006-08,Muse,23
-2006-08,Nirvana,0
-2006-08,Pink Floyd,2
-2006-08,Placebo,3
-2006-08,Queen,2
-2006-08,Radiohead,2
-2006-08,The Apples In Stereo,3
-2006-08,The Beatles,0
-2006-08,The Shins,0
-2006-08,The White Stripes,6
-2006-09,[Ingenting],0
-2006-09,Andrew Lloyd Webber,0
-2006-09,Arctic Monkeys,1
-2006-09,Coldplay,1
-2006-09,Dread Zeppelin,0
-2006-09,Jokke & Valentinerne,0
-2006-09,Kaizers Orchestra,1
-2006-09,Kent,0
-2006-09,Mando Diao,0
-2006-09,Mew,1
-2006-09,Muse,1
-2006-09,Nirvana,1
-2006-09,Pink Floyd,0
-2006-09,Placebo,2
-2006-09,Queen,0
-2006-09,Radiohead,0
-2006-09,The Apples In Stereo,0
-2006-09,The Beatles,0
-2006-09,The Shins,0
-2006-09,The White Stripes,0
-2006-10,[Ingenting],0
-2006-10,Andrew Lloyd Webber,4
-2006-10,Arctic Monkeys,5
-2006-10,Coldplay,2
-2006-10,Dread Zeppelin,1
-2006-10,Jokke & Valentinerne,0
-2006-10,Kaizers Orchestra,4
-2006-10,Kent,14
-2006-10,Mando Diao,2
-2006-10,Mew,3
-2006-10,Muse,32
-2006-10,Nirvana,1
-2006-10,Pink Floyd,5
-2006-10,Placebo,4
-2006-10,Queen,2
-2006-10,Radiohead,2
-2006-10,The Apples In Stereo,2
-2006-10,The Beatles,0
-2006-10,The Shins,1
-2006-10,The White Stripes,3
-2006-11,[Ingenting],0
-2006-11,Andrew Lloyd Webber,0
-2006-11,Arctic Monkeys,0
-2006-11,Coldplay,0
-2006-11,Dread Zeppelin,0
-2006-11,Jokke & Valentinerne,0
-2006-11,Kaizers Orchestra,0
-2006-11,Kent,0
-2006-11,Mando Diao,0
-2006-11,Mew,0
-2006-11,Muse,0
-2006-11,Nirvana,0
-2006-11,Pink Floyd,0
-2006-11,Placebo,0
-2006-11,Queen,0
-2006-11,Radiohead,0
-2006-11,The Apples In Stereo,0
-2006-11,The Beatles,0
-2006-11,The Shins,0
-2006-11,The White Stripes,0
-2006-12,[Ingenting],0
-2006-12,Andrew Lloyd Webber,0
-2006-12,Arctic Monkeys,0
-2006-12,Coldplay,0
-2006-12,Dread Zeppelin,0
-2006-12,Jokke & Valentinerne,0
-2006-12,Kaizers Orchestra,0
-2006-12,Kent,0
-2006-12,Mando Diao,0
-2006-12,Mew,0
-2006-12,Muse,0
-2006-12,Nirvana,0
-2006-12,Pink Floyd,0
-2006-12,Placebo,0
-2006-12,Queen,0
-2006-12,Radiohead,0
-2006-12,The Apples In Stereo,0
-2006-12,The Beatles,0
-2006-12,The Shins,0
-2006-12,The White Stripes,0
-2007-01,[Ingenting],0
-2007-01,Andrew Lloyd Webber,0
-2007-01,Arctic Monkeys,0
-2007-01,Coldplay,0
-2007-01,Dread Zeppelin,0
-2007-01,Jokke & Valentinerne,0
-2007-01,Kaizers Orchestra,0
-2007-01,Kent,0
-2007-01,Mando Diao,0
-2007-01,Mew,0
-2007-01,Muse,1
-2007-01,Nirvana,0
-2007-01,Pink Floyd,0
-2007-01,Placebo,0
-2007-01,Queen,0
-2007-01,Radiohead,0
-2007-01,The Apples In Stereo,0
-2007-01,The Beatles,0
-2007-01,The Shins,0
-2007-01,The White Stripes,0
-2007-02,[Ingenting],0
-2007-02,Andrew Lloyd Webber,3
-2007-02,Arctic Monkeys,5
-2007-02,Coldplay,0
-2007-02,Dread Zeppelin,2
-2007-02,Jokke & Valentinerne,1
-2007-02,Kaizers Orchestra,0
-2007-02,Kent,4
-2007-02,Mando Diao,3
-2007-02,Mew,3
-2007-02,Muse,45
-2007-02,Nirvana,0
-2007-02,Pink Floyd,1
-2007-02,Placebo,8
-2007-02,Queen,4
-2007-02,Radiohead,4
-2007-02,The Apples In Stereo,2
-2007-02,The Beatles,3
-2007-02,The Shins,1
-2007-02,The White Stripes,5
-2007-03,[Ingenting],0
-2007-03,Andrew Lloyd Webber,1
-2007-03,Arctic Monkeys,0
-2007-03,Coldplay,0
-2007-03,Dread Zeppelin,0
-2007-03,Jokke & Valentinerne,1
-2007-03,Kaizers Orchestra,1
-2007-03,Kent,0
-2007-03,Mando Diao,1
-2007-03,Mew,0
-2007-03,Muse,9
-2007-03,Nirvana,1
-2007-03,Pink Floyd,1
-2007-03,Placebo,1
-2007-03,Queen,0
-2007-03,Radiohead,0
-2007-03,The Apples In Stereo,2
-2007-03,The Beatles,2
-2007-03,The Shins,1
-2007-03,The White Stripes,4
-2007-04,[Ingenting],2
-2007-04,Andrew Lloyd Webber,0
-2007-04,Arctic Monkeys,5
-2007-04,Coldplay,1
-2007-04,Dread Zeppelin,1
-2007-04,Jokke & Valentinerne,5
-2007-04,Kaizers Orchestra,0
-2007-04,Kent,5
-2007-04,Mando Diao,1
-2007-04,Mew,3
-2007-04,Muse,23
-2007-04,Nirvana,1
-2007-04,Pink Floyd,1
-2007-04,Placebo,1
-2007-04,Queen,0
-2007-04,Radiohead,1
-2007-04,The Apples In Stereo,2
-2007-04,The Beatles,2
-2007-04,The Shins,0
-2007-04,The White Stripes,4
-2007-05,[Ingenting],1
-2007-05,Andrew Lloyd Webber,0
-2007-05,Arctic Monkeys,1
-2007-05,Coldplay,1
-2007-05,Dread Zeppelin,0
-2007-05,Jokke & Valentinerne,0
-2007-05,Kaizers Orchestra,1
-2007-05,Kent,2
-2007-05,Mando Diao,0
-2007-05,Mew,0
-2007-05,Muse,5
-2007-05,Nirvana,2
-2007-05,Pink Floyd,3
-2007-05,Placebo,1
-2007-05,Queen,1
-2007-05,Radiohead,0
-2007-05,The Apples In Stereo,2
-2007-05,The Beatles,1
-2007-05,The Shins,1
-2007-05,The White Stripes,2
-2007-06,[Ingenting],0
-2007-06,Andrew Lloyd Webber,0
-2007-06,Arctic Monkeys,0
-2007-06,Coldplay,0
-2007-06,Dread Zeppelin,0
-2007-06,Jokke & Valentinerne,0
-2007-06,Kaizers Orchestra,0
-2007-06,Kent,0
-2007-06,Mando Diao,0
-2007-06,Mew,0
-2007-06,Muse,0
-2007-06,Nirvana,0
-2007-06,Pink Floyd,0
-2007-06,Placebo,0
-2007-06,Queen,0
-2007-06,Radiohead,0
-2007-06,The Apples In Stereo,0
-2007-06,The Beatles,0
-2007-06,The Shins,0
-2007-06,The White Stripes,0
-2007-07,[Ingenting],0
-2007-07,Andrew Lloyd Webber,0
-2007-07,Arctic Monkeys,0
-2007-07,Coldplay,0
-2007-07,Dread Zeppelin,0
-2007-07,Jokke & Valentinerne,0
-2007-07,Kaizers Orchestra,0
-2007-07,Kent,0
-2007-07,Mando Diao,0
-2007-07,Mew,0
-2007-07,Muse,0
-2007-07,Nirvana,0
-2007-07,Pink Floyd,0
-2007-07,Placebo,0
-2007-07,Queen,0
-2007-07,Radiohead,0
-2007-07,The Apples In Stereo,0
-2007-07,The Beatles,0
-2007-07,The Shins,0
-2007-07,The White Stripes,0
-2007-08,[Ingenting],0
-2007-08,Andrew Lloyd Webber,0
-2007-08,Arctic Monkeys,0
-2007-08,Coldplay,0
-2007-08,Dread Zeppelin,0
-2007-08,Jokke & Valentinerne,0
-2007-08,Kaizers Orchestra,0
-2007-08,Kent,0
-2007-08,Mando Diao,0
-2007-08,Mew,0
-2007-08,Muse,0
-2007-08,Nirvana,0
-2007-08,Pink Floyd,0
-2007-08,Placebo,0
-2007-08,Queen,0
-2007-08,Radiohead,0
-2007-08,The Apples In Stereo,0
-2007-08,The Beatles,0
-2007-08,The Shins,0
-2007-08,The White Stripes,0
-2007-09,[Ingenting],2
-2007-09,Andrew Lloyd Webber,0
-2007-09,Arctic Monkeys,36
-2007-09,Coldplay,0
-2007-09,Dread Zeppelin,0
-2007-09,Jokke & Valentinerne,1
-2007-09,Kaizers Orchestra,0
-2007-09,Kent,6
-2007-09,Mando Diao,0
-2007-09,Mew,0
-2007-09,Muse,35
-2007-09,Nirvana,3
-2007-09,Pink Floyd,9
-2007-09,Placebo,0
-2007-09,Queen,0
-2007-09,Radiohead,0
-2007-09,The Apples In Stereo,11
-2007-09,The Beatles,2
-2007-09,The Shins,0
-2007-09,The White Stripes,0
-2007-10,[Ingenting],1
-2007-10,Andrew Lloyd Webber,0
-2007-10,Arctic Monkeys,4
-2007-10,Coldplay,1
-2007-10,Dread Zeppelin,0
-2007-10,Jokke & Valentinerne,1
-2007-10,Kaizers Orchestra,0
-2007-10,Kent,0
-2007-10,Mando Diao,0
-2007-10,Mew,0
-2007-10,Muse,35
-2007-10,Nirvana,15
-2007-10,Pink Floyd,1
-2007-10,Placebo,0
-2007-10,Queen,0
-2007-10,Radiohead,0
-2007-10,The Apples In Stereo,13
-2007-10,The Beatles,2
-2007-10,The Shins,12
-2007-10,The White Stripes,0
-2007-11,[Ingenting],0
-2007-11,Andrew Lloyd Webber,0
-2007-11,Arctic Monkeys,0
-2007-11,Coldplay,0
-2007-11,Dread Zeppelin,0
-2007-11,Jokke & Valentinerne,0
-2007-11,Kaizers Orchestra,0
-2007-11,Kent,0
-2007-11,Mando Diao,0
-2007-11,Mew,0
-2007-11,Muse,0
-2007-11,Nirvana,0
-2007-11,Pink Floyd,0
-2007-11,Placebo,0
-2007-11,Queen,0
-2007-11,Radiohead,0
-2007-11,The Apples In Stereo,0
-2007-11,The Beatles,0
-2007-11,The Shins,0
-2007-11,The White Stripes,0
-2007-12,[Ingenting],0
-2007-12,Andrew Lloyd Webber,0
-2007-12,Arctic Monkeys,0
-2007-12,Coldplay,0
-2007-12,Dread Zeppelin,0
-2007-12,Jokke & Valentinerne,0
-2007-12,Kaizers Orchestra,0
-2007-12,Kent,0
-2007-12,Mando Diao,0
-2007-12,Mew,0
-2007-12,Muse,0
-2007-12,Nirvana,0
-2007-12,Pink Floyd,0
-2007-12,Placebo,0
-2007-12,Queen,0
-2007-12,Radiohead,0
-2007-12,The Apples In Stereo,0
-2007-12,The Beatles,0
-2007-12,The Shins,0
-2007-12,The White Stripes,0
-2008-01,[Ingenting],0
-2008-01,Andrew Lloyd Webber,0
-2008-01,Arctic Monkeys,2
-2008-01,Coldplay,0
-2008-01,Dread Zeppelin,0
-2008-01,Jokke & Valentinerne,0
-2008-01,Kaizers Orchestra,0
-2008-01,Kent,0
-2008-01,Mando Diao,0
-2008-01,Mew,0
-2008-01,Muse,5
-2008-01,Nirvana,0
-2008-01,Pink Floyd,0
-2008-01,Placebo,0
-2008-01,Queen,0
-2008-01,Radiohead,0
-2008-01,The Apples In Stereo,0
-2008-01,The Beatles,0
-2008-01,The Shins,0
-2008-01,The White Stripes,0
+"month","artist","plays"
+"2006-03","[Ingenting]",5
+"2006-03","Andrew Lloyd Webber",8
+"2006-03","Arctic Monkeys",20
+"2006-03","Coldplay",11
+"2006-03","Dread Zeppelin",2
+"2006-03","Jokke & Valentinerne",3
+"2006-03","Kaizers Orchestra",43
+"2006-03","Kent",14
+"2006-03","Mando Diao",16
+"2006-03","Mew",33
+"2006-03","Muse",58
+"2006-03","Nirvana",1
+"2006-03","Pink Floyd",1
+"2006-03","Placebo",25
+"2006-03","Queen",1
+"2006-03","Radiohead",8
+"2006-03","The Apples In Stereo",0
+"2006-03","The Beatles",16
+"2006-03","The Shins",2
+"2006-03","The White Stripes",27
+"2006-04","[Ingenting]",6
+"2006-04","Andrew Lloyd Webber",4
+"2006-04","Arctic Monkeys",32
+"2006-04","Coldplay",15
+"2006-04","Dread Zeppelin",8
+"2006-04","Jokke & Valentinerne",1
+"2006-04","Kaizers Orchestra",70
+"2006-04","Kent",21
+"2006-04","Mando Diao",7
+"2006-04","Mew",41
+"2006-04","Muse",99
+"2006-04","Nirvana",0
+"2006-04","Pink Floyd",3
+"2006-04","Placebo",40
+"2006-04","Queen",6
+"2006-04","Radiohead",13
+"2006-04","The Apples In Stereo",0
+"2006-04","The Beatles",8
+"2006-04","The Shins",5
+"2006-04","The White Stripes",42
+"2006-05","[Ingenting]",2
+"2006-05","Andrew Lloyd Webber",3
+"2006-05","Arctic Monkeys",28
+"2006-05","Coldplay",16
+"2006-05","Dread Zeppelin",10
+"2006-05","Jokke & Valentinerne",1
+"2006-05","Kaizers Orchestra",50
+"2006-05","Kent",23
+"2006-05","Mando Diao",14
+"2006-05","Mew",33
+"2006-05","Muse",117
+"2006-05","Nirvana",2
+"2006-05","Pink Floyd",6
+"2006-05","Placebo",38
+"2006-05","Queen",13
+"2006-05","Radiohead",15
+"2006-05","The Apples In Stereo",0
+"2006-05","The Beatles",8
+"2006-05","The Shins",2
+"2006-05","The White Stripes",27
+"2006-06","[Ingenting]",1
+"2006-06","Andrew Lloyd Webber",6
+"2006-06","Arctic Monkeys",7
+"2006-06","Coldplay",4
+"2006-06","Dread Zeppelin",4
+"2006-06","Jokke & Valentinerne",3
+"2006-06","Kaizers Orchestra",21
+"2006-06","Kent",9
+"2006-06","Mando Diao",10
+"2006-06","Mew",18
+"2006-06","Muse",64
+"2006-06","Nirvana",0
+"2006-06","Pink Floyd",9
+"2006-06","Placebo",27
+"2006-06","Queen",7
+"2006-06","Radiohead",11
+"2006-06","The Apples In Stereo",0
+"2006-06","The Beatles",3
+"2006-06","The Shins",2
+"2006-06","The White Stripes",9
+"2006-07","[Ingenting]",0
+"2006-07","Andrew Lloyd Webber",3
+"2006-07","Arctic Monkeys",14
+"2006-07","Coldplay",4
+"2006-07","Dread Zeppelin",0
+"2006-07","Jokke & Valentinerne",1
+"2006-07","Kaizers Orchestra",4
+"2006-07","Kent",2
+"2006-07","Mando Diao",3
+"2006-07","Mew",7
+"2006-07","Muse",41
+"2006-07","Nirvana",0
+"2006-07","Pink Floyd",1
+"2006-07","Placebo",8
+"2006-07","Queen",4
+"2006-07","Radiohead",1
+"2006-07","The Apples In Stereo",3
+"2006-07","The Beatles",3
+"2006-07","The Shins",2
+"2006-07","The White Stripes",2
+"2006-08","[Ingenting]",0
+"2006-08","Andrew Lloyd Webber",2
+"2006-08","Arctic Monkeys",6
+"2006-08","Coldplay",2
+"2006-08","Dread Zeppelin",1
+"2006-08","Jokke & Valentinerne",2
+"2006-08","Kaizers Orchestra",5
+"2006-08","Kent",3
+"2006-08","Mando Diao",4
+"2006-08","Mew",4
+"2006-08","Muse",23
+"2006-08","Nirvana",0
+"2006-08","Pink Floyd",2
+"2006-08","Placebo",3
+"2006-08","Queen",2
+"2006-08","Radiohead",2
+"2006-08","The Apples In Stereo",3
+"2006-08","The Beatles",0
+"2006-08","The Shins",0
+"2006-08","The White Stripes",6
+"2006-09","[Ingenting]",0
+"2006-09","Andrew Lloyd Webber",0
+"2006-09","Arctic Monkeys",1
+"2006-09","Coldplay",1
+"2006-09","Dread Zeppelin",0
+"2006-09","Jokke & Valentinerne",0
+"2006-09","Kaizers Orchestra",1
+"2006-09","Kent",0
+"2006-09","Mando Diao",0
+"2006-09","Mew",1
+"2006-09","Muse",1
+"2006-09","Nirvana",1
+"2006-09","Pink Floyd",0
+"2006-09","Placebo",2
+"2006-09","Queen",0
+"2006-09","Radiohead",0
+"2006-09","The Apples In Stereo",0
+"2006-09","The Beatles",0
+"2006-09","The Shins",0
+"2006-09","The White Stripes",0
+"2006-10","[Ingenting]",0
+"2006-10","Andrew Lloyd Webber",4
+"2006-10","Arctic Monkeys",5
+"2006-10","Coldplay",2
+"2006-10","Dread Zeppelin",1
+"2006-10","Jokke & Valentinerne",0
+"2006-10","Kaizers Orchestra",4
+"2006-10","Kent",14
+"2006-10","Mando Diao",2
+"2006-10","Mew",3
+"2006-10","Muse",32
+"2006-10","Nirvana",1
+"2006-10","Pink Floyd",5
+"2006-10","Placebo",4
+"2006-10","Queen",2
+"2006-10","Radiohead",2
+"2006-10","The Apples In Stereo",2
+"2006-10","The Beatles",0
+"2006-10","The Shins",1
+"2006-10","The White Stripes",3
+"2006-11","[Ingenting]",0
+"2006-11","Andrew Lloyd Webber",0
+"2006-11","Arctic Monkeys",0
+"2006-11","Coldplay",0
+"2006-11","Dread Zeppelin",0
+"2006-11","Jokke & Valentinerne",0
+"2006-11","Kaizers Orchestra",0
+"2006-11","Kent",0
+"2006-11","Mando Diao",0
+"2006-11","Mew",0
+"2006-11","Muse",0
+"2006-11","Nirvana",0
+"2006-11","Pink Floyd",0
+"2006-11","Placebo",0
+"2006-11","Queen",0
+"2006-11","Radiohead",0
+"2006-11","The Apples In Stereo",0
+"2006-11","The Beatles",0
+"2006-11","The Shins",0
+"2006-11","The White Stripes",0
+"2006-12","[Ingenting]",0
+"2006-12","Andrew Lloyd Webber",0
+"2006-12","Arctic Monkeys",0
+"2006-12","Coldplay",0
+"2006-12","Dread Zeppelin",0
+"2006-12","Jokke & Valentinerne",0
+"2006-12","Kaizers Orchestra",0
+"2006-12","Kent",0
+"2006-12","Mando Diao",0
+"2006-12","Mew",0
+"2006-12","Muse",0
+"2006-12","Nirvana",0
+"2006-12","Pink Floyd",0
+"2006-12","Placebo",0
+"2006-12","Queen",0
+"2006-12","Radiohead",0
+"2006-12","The Apples In Stereo",0
+"2006-12","The Beatles",0
+"2006-12","The Shins",0
+"2006-12","The White Stripes",0
+"2007-01","[Ingenting]",0
+"2007-01","Andrew Lloyd Webber",0
+"2007-01","Arctic Monkeys",0
+"2007-01","Coldplay",0
+"2007-01","Dread Zeppelin",0
+"2007-01","Jokke & Valentinerne",0
+"2007-01","Kaizers Orchestra",0
+"2007-01","Kent",0
+"2007-01","Mando Diao",0
+"2007-01","Mew",0
+"2007-01","Muse",1
+"2007-01","Nirvana",0
+"2007-01","Pink Floyd",0
+"2007-01","Placebo",0
+"2007-01","Queen",0
+"2007-01","Radiohead",0
+"2007-01","The Apples In Stereo",0
+"2007-01","The Beatles",0
+"2007-01","The Shins",0
+"2007-01","The White Stripes",0
+"2007-02","[Ingenting]",0
+"2007-02","Andrew Lloyd Webber",3
+"2007-02","Arctic Monkeys",5
+"2007-02","Coldplay",0
+"2007-02","Dread Zeppelin",2
+"2007-02","Jokke & Valentinerne",1
+"2007-02","Kaizers Orchestra",0
+"2007-02","Kent",4
+"2007-02","Mando Diao",3
+"2007-02","Mew",3
+"2007-02","Muse",45
+"2007-02","Nirvana",0
+"2007-02","Pink Floyd",1
+"2007-02","Placebo",8
+"2007-02","Queen",4
+"2007-02","Radiohead",4
+"2007-02","The Apples In Stereo",2
+"2007-02","The Beatles",3
+"2007-02","The Shins",1
+"2007-02","The White Stripes",5
+"2007-03","[Ingenting]",0
+"2007-03","Andrew Lloyd Webber",1
+"2007-03","Arctic Monkeys",0
+"2007-03","Coldplay",0
+"2007-03","Dread Zeppelin",0
+"2007-03","Jokke & Valentinerne",1
+"2007-03","Kaizers Orchestra",1
+"2007-03","Kent",0
+"2007-03","Mando Diao",1
+"2007-03","Mew",0
+"2007-03","Muse",9
+"2007-03","Nirvana",1
+"2007-03","Pink Floyd",1
+"2007-03","Placebo",1
+"2007-03","Queen",0
+"2007-03","Radiohead",0
+"2007-03","The Apples In Stereo",2
+"2007-03","The Beatles",2
+"2007-03","The Shins",1
+"2007-03","The White Stripes",4
+"2007-04","[Ingenting]",2
+"2007-04","Andrew Lloyd Webber",0
+"2007-04","Arctic Monkeys",5
+"2007-04","Coldplay",1
+"2007-04","Dread Zeppelin",1
+"2007-04","Jokke & Valentinerne",5
+"2007-04","Kaizers Orchestra",0
+"2007-04","Kent",5
+"2007-04","Mando Diao",1
+"2007-04","Mew",3
+"2007-04","Muse",23
+"2007-04","Nirvana",1
+"2007-04","Pink Floyd",1
+"2007-04","Placebo",1
+"2007-04","Queen",0
+"2007-04","Radiohead",1
+"2007-04","The Apples In Stereo",2
+"2007-04","The Beatles",2
+"2007-04","The Shins",0
+"2007-04","The White Stripes",4
+"2007-05","[Ingenting]",1
+"2007-05","Andrew Lloyd Webber",0
+"2007-05","Arctic Monkeys",1
+"2007-05","Coldplay",1
+"2007-05","Dread Zeppelin",0
+"2007-05","Jokke & Valentinerne",0
+"2007-05","Kaizers Orchestra",1
+"2007-05","Kent",2
+"2007-05","Mando Diao",0
+"2007-05","Mew",0
+"2007-05","Muse",5
+"2007-05","Nirvana",2
+"2007-05","Pink Floyd",3
+"2007-05","Placebo",1
+"2007-05","Queen",1
+"2007-05","Radiohead",0
+"2007-05","The Apples In Stereo",2
+"2007-05","The Beatles",1
+"2007-05","The Shins",1
+"2007-05","The White Stripes",2
+"2007-06","[Ingenting]",0
+"2007-06","Andrew Lloyd Webber",0
+"2007-06","Arctic Monkeys",0
+"2007-06","Coldplay",0
+"2007-06","Dread Zeppelin",0
+"2007-06","Jokke & Valentinerne",0
+"2007-06","Kaizers Orchestra",0
+"2007-06","Kent",0
+"2007-06","Mando Diao",0
+"2007-06","Mew",0
+"2007-06","Muse",0
+"2007-06","Nirvana",0
+"2007-06","Pink Floyd",0
+"2007-06","Placebo",0
+"2007-06","Queen",0
+"2007-06","Radiohead",0
+"2007-06","The Apples In Stereo",0
+"2007-06","The Beatles",0
+"2007-06","The Shins",0
+"2007-06","The White Stripes",0
+"2007-07","[Ingenting]",0
+"2007-07","Andrew Lloyd Webber",0
+"2007-07","Arctic Monkeys",0
+"2007-07","Coldplay",0
+"2007-07","Dread Zeppelin",0
+"2007-07","Jokke & Valentinerne",0
+"2007-07","Kaizers Orchestra",0
+"2007-07","Kent",0
+"2007-07","Mando Diao",0
+"2007-07","Mew",0
+"2007-07","Muse",0
+"2007-07","Nirvana",0
+"2007-07","Pink Floyd",0
+"2007-07","Placebo",0
+"2007-07","Queen",0
+"2007-07","Radiohead",0
+"2007-07","The Apples In Stereo",0
+"2007-07","The Beatles",0
+"2007-07","The Shins",0
+"2007-07","The White Stripes",0
+"2007-08","[Ingenting]",0
+"2007-08","Andrew Lloyd Webber",0
+"2007-08","Arctic Monkeys",0
+"2007-08","Coldplay",0
+"2007-08","Dread Zeppelin",0
+"2007-08","Jokke & Valentinerne",0
+"2007-08","Kaizers Orchestra",0
+"2007-08","Kent",0
+"2007-08","Mando Diao",0
+"2007-08","Mew",0
+"2007-08","Muse",0
+"2007-08","Nirvana",0
+"2007-08","Pink Floyd",0
+"2007-08","Placebo",0
+"2007-08","Queen",0
+"2007-08","Radiohead",0
+"2007-08","The Apples In Stereo",0
+"2007-08","The Beatles",0
+"2007-08","The Shins",0
+"2007-08","The White Stripes",0
+"2007-09","[Ingenting]",2
+"2007-09","Andrew Lloyd Webber",0
+"2007-09","Arctic Monkeys",36
+"2007-09","Coldplay",0
+"2007-09","Dread Zeppelin",0
+"2007-09","Jokke & Valentinerne",1
+"2007-09","Kaizers Orchestra",0
+"2007-09","Kent",6
+"2007-09","Mando Diao",0
+"2007-09","Mew",0
+"2007-09","Muse",35
+"2007-09","Nirvana",3
+"2007-09","Pink Floyd",9
+"2007-09","Placebo",0
+"2007-09","Queen",0
+"2007-09","Radiohead",0
+"2007-09","The Apples In Stereo",11
+"2007-09","The Beatles",2
+"2007-09","The Shins",0
+"2007-09","The White Stripes",0
+"2007-10","[Ingenting]",1
+"2007-10","Andrew Lloyd Webber",0
+"2007-10","Arctic Monkeys",4
+"2007-10","Coldplay",1
+"2007-10","Dread Zeppelin",0
+"2007-10","Jokke & Valentinerne",1
+"2007-10","Kaizers Orchestra",0
+"2007-10","Kent",0
+"2007-10","Mando Diao",0
+"2007-10","Mew",0
+"2007-10","Muse",35
+"2007-10","Nirvana",15
+"2007-10","Pink Floyd",1
+"2007-10","Placebo",0
+"2007-10","Queen",0
+"2007-10","Radiohead",0
+"2007-10","The Apples In Stereo",13
+"2007-10","The Beatles",2
+"2007-10","The Shins",12
+"2007-10","The White Stripes",0
+"2007-11","[Ingenting]",0
+"2007-11","Andrew Lloyd Webber",0
+"2007-11","Arctic Monkeys",0
+"2007-11","Coldplay",0
+"2007-11","Dread Zeppelin",0
+"2007-11","Jokke & Valentinerne",0
+"2007-11","Kaizers Orchestra",0
+"2007-11","Kent",0
+"2007-11","Mando Diao",0
+"2007-11","Mew",0
+"2007-11","Muse",0
+"2007-11","Nirvana",0
+"2007-11","Pink Floyd",0
+"2007-11","Placebo",0
+"2007-11","Queen",0
+"2007-11","Radiohead",0
+"2007-11","The Apples In Stereo",0
+"2007-11","The Beatles",0
+"2007-11","The Shins",0
+"2007-11","The White Stripes",0
+"2007-12","[Ingenting]",0
+"2007-12","Andrew Lloyd Webber",0
+"2007-12","Arctic Monkeys",0
+"2007-12","Coldplay",0
+"2007-12","Dread Zeppelin",0
+"2007-12","Jokke & Valentinerne",0
+"2007-12","Kaizers Orchestra",0
+"2007-12","Kent",0
+"2007-12","Mando Diao",0
+"2007-12","Mew",0
+"2007-12","Muse",0
+"2007-12","Nirvana",0
+"2007-12","Pink Floyd",0
+"2007-12","Placebo",0
+"2007-12","Queen",0
+"2007-12","Radiohead",0
+"2007-12","The Apples In Stereo",0
+"2007-12","The Beatles",0
+"2007-12","The Shins",0
+"2007-12","The White Stripes",0
+"2008-01","[Ingenting]",0
+"2008-01","Andrew Lloyd Webber",0
+"2008-01","Arctic Monkeys",2
+"2008-01","Coldplay",0
+"2008-01","Dread Zeppelin",0
+"2008-01","Jokke & Valentinerne",0
+"2008-01","Kaizers Orchestra",0
+"2008-01","Kent",0
+"2008-01","Mando Diao",0
+"2008-01","Mew",0
+"2008-01","Muse",5
+"2008-01","Nirvana",0
+"2008-01","Pink Floyd",0
+"2008-01","Placebo",0
+"2008-01","Queen",0
+"2008-01","Radiohead",0
+"2008-01","The Apples In Stereo",0
+"2008-01","The Beatles",0
+"2008-01","The Shins",0
+"2008-01","The White Stripes",0

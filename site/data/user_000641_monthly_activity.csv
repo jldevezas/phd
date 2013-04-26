@@ -1,141 +1,141 @@
-month,artist,plays
-2008-10,Ane Brun,0
-2008-10,Asha Ali,0
-2008-10,Bat For Lashes,4
-2008-10,Billie Holiday,60
-2008-10,Billie The Vision & The Dancers,220
-2008-10,Björk,58
-2008-10,Boys Noize,14
-2008-10,Britta Persson,0
-2008-10,Cat Power,213
-2008-10,Cocorosie,170
-2008-10,Coldplay,0
-2008-10,Cut Copy,4
-2008-10,Dragonette,2
-2008-10,El Perro Del Mar,7
-2008-10,Ella Fitzgerald,40
-2008-10,Elliott Smith,5
-2008-10,Iron & Wine,2
-2008-10,Pj Harvey,6
-2008-10,Sufjan Stevens,4
-2008-10,Tori Amos,1
-2008-11,Ane Brun,5
-2008-11,Asha Ali,6
-2008-11,Bat For Lashes,2
-2008-11,Billie Holiday,31
-2008-11,Billie The Vision & The Dancers,2
-2008-11,Björk,2
-2008-11,Boys Noize,8
-2008-11,Britta Persson,6
-2008-11,Cat Power,16
-2008-11,Cocorosie,1
-2008-11,Coldplay,2
-2008-11,Cut Copy,2
-2008-11,Dragonette,0
-2008-11,El Perro Del Mar,61
-2008-11,Ella Fitzgerald,32
-2008-11,Elliott Smith,2
-2008-11,Iron & Wine,1
-2008-11,Pj Harvey,2
-2008-11,Sufjan Stevens,37
-2008-11,Tori Amos,1
-2008-12,Ane Brun,1
-2008-12,Asha Ali,1
-2008-12,Bat For Lashes,1
-2008-12,Billie Holiday,9
-2008-12,Billie The Vision & The Dancers,2
-2008-12,Björk,10
-2008-12,Boys Noize,13
-2008-12,Britta Persson,4
-2008-12,Cat Power,53
-2008-12,Cocorosie,13
-2008-12,Coldplay,37
-2008-12,Cut Copy,1
-2008-12,Dragonette,2
-2008-12,El Perro Del Mar,2
-2008-12,Ella Fitzgerald,42
-2008-12,Elliott Smith,2
-2008-12,Iron & Wine,3
-2008-12,Pj Harvey,35
-2008-12,Sufjan Stevens,2
-2008-12,Tori Amos,2
-2009-01,Ane Brun,75
-2009-01,Asha Ali,72
-2009-01,Bat For Lashes,12
-2009-01,Billie Holiday,2
-2009-01,Billie The Vision & The Dancers,97
-2009-01,Björk,29
-2009-01,Boys Noize,31
-2009-01,Britta Persson,59
-2009-01,Cat Power,15
-2009-01,Cocorosie,18
-2009-01,Coldplay,1
-2009-01,Cut Copy,5
-2009-01,Dragonette,11
-2009-01,El Perro Del Mar,83
-2009-01,Ella Fitzgerald,2
-2009-01,Elliott Smith,0
-2009-01,Iron & Wine,10
-2009-01,Pj Harvey,10
-2009-01,Sufjan Stevens,3
-2009-01,Tori Amos,3
-2009-02,Ane Brun,67
-2009-02,Asha Ali,7
-2009-02,Bat For Lashes,7
-2009-02,Billie Holiday,1
-2009-02,Billie The Vision & The Dancers,11
-2009-02,Björk,18
-2009-02,Boys Noize,22
-2009-02,Britta Persson,56
-2009-02,Cat Power,9
-2009-02,Cocorosie,13
-2009-02,Coldplay,88
-2009-02,Cut Copy,0
-2009-02,Dragonette,1
-2009-02,El Perro Del Mar,109
-2009-02,Ella Fitzgerald,1
-2009-02,Elliott Smith,60
-2009-02,Iron & Wine,12
-2009-02,Pj Harvey,71
-2009-02,Sufjan Stevens,31
-2009-02,Tori Amos,9
-2009-03,Ane Brun,1
-2009-03,Asha Ali,30
-2009-03,Bat For Lashes,0
-2009-03,Billie Holiday,0
-2009-03,Billie The Vision & The Dancers,0
-2009-03,Björk,0
-2009-03,Boys Noize,54
-2009-03,Britta Persson,183
-2009-03,Cat Power,0
-2009-03,Cocorosie,0
-2009-03,Coldplay,27
-2009-03,Cut Copy,2
-2009-03,Dragonette,1
-2009-03,El Perro Del Mar,1
-2009-03,Ella Fitzgerald,0
-2009-03,Elliott Smith,154
-2009-03,Iron & Wine,17
-2009-03,Pj Harvey,1
-2009-03,Sufjan Stevens,0
-2009-03,Tori Amos,37
-2009-04,Ane Brun,59
-2009-04,Asha Ali,0
-2009-04,Bat For Lashes,0
-2009-04,Billie Holiday,0
-2009-04,Billie The Vision & The Dancers,0
-2009-04,Björk,0
-2009-04,Boys Noize,65
-2009-04,Britta Persson,0
-2009-04,Cat Power,0
-2009-04,Cocorosie,0
-2009-04,Coldplay,0
-2009-04,Cut Copy,0
-2009-04,Dragonette,2
-2009-04,El Perro Del Mar,36
-2009-04,Ella Fitzgerald,0
-2009-04,Elliott Smith,49
-2009-04,Iron & Wine,0
-2009-04,Pj Harvey,0
-2009-04,Sufjan Stevens,67
-2009-04,Tori Amos,0
+"month","artist","plays"
+"2008-10","Ane Brun",0
+"2008-10","Asha Ali",0
+"2008-10","Bat For Lashes",4
+"2008-10","Billie Holiday",60
+"2008-10","Billie The Vision & The Dancers",220
+"2008-10","Björk",58
+"2008-10","Boys Noize",14
+"2008-10","Britta Persson",0
+"2008-10","Cat Power",213
+"2008-10","Cocorosie",170
+"2008-10","Coldplay",0
+"2008-10","Cut Copy",4
+"2008-10","Dragonette",2
+"2008-10","El Perro Del Mar",7
+"2008-10","Ella Fitzgerald",40
+"2008-10","Elliott Smith",5
+"2008-10","Iron & Wine",2
+"2008-10","Pj Harvey",6
+"2008-10","Sufjan Stevens",4
+"2008-10","Tori Amos",1
+"2008-11","Ane Brun",5
+"2008-11","Asha Ali",6
+"2008-11","Bat For Lashes",2
+"2008-11","Billie Holiday",31
+"2008-11","Billie The Vision & The Dancers",2
+"2008-11","Björk",2
+"2008-11","Boys Noize",8
+"2008-11","Britta Persson",6
+"2008-11","Cat Power",16
+"2008-11","Cocorosie",1
+"2008-11","Coldplay",2
+"2008-11","Cut Copy",2
+"2008-11","Dragonette",0
+"2008-11","El Perro Del Mar",61
+"2008-11","Ella Fitzgerald",32
+"2008-11","Elliott Smith",2
+"2008-11","Iron & Wine",1
+"2008-11","Pj Harvey",2
+"2008-11","Sufjan Stevens",37
+"2008-11","Tori Amos",1
+"2008-12","Ane Brun",1
+"2008-12","Asha Ali",1
+"2008-12","Bat For Lashes",1
+"2008-12","Billie Holiday",9
+"2008-12","Billie The Vision & The Dancers",2
+"2008-12","Björk",10
+"2008-12","Boys Noize",13
+"2008-12","Britta Persson",4
+"2008-12","Cat Power",53
+"2008-12","Cocorosie",13
+"2008-12","Coldplay",37
+"2008-12","Cut Copy",1
+"2008-12","Dragonette",2
+"2008-12","El Perro Del Mar",2
+"2008-12","Ella Fitzgerald",42
+"2008-12","Elliott Smith",2
+"2008-12","Iron & Wine",3
+"2008-12","Pj Harvey",35
+"2008-12","Sufjan Stevens",2
+"2008-12","Tori Amos",2
+"2009-01","Ane Brun",75
+"2009-01","Asha Ali",72
+"2009-01","Bat For Lashes",12
+"2009-01","Billie Holiday",2
+"2009-01","Billie The Vision & The Dancers",97
+"2009-01","Björk",29
+"2009-01","Boys Noize",31
+"2009-01","Britta Persson",59
+"2009-01","Cat Power",15
+"2009-01","Cocorosie",18
+"2009-01","Coldplay",1
+"2009-01","Cut Copy",5
+"2009-01","Dragonette",11
+"2009-01","El Perro Del Mar",83
+"2009-01","Ella Fitzgerald",2
+"2009-01","Elliott Smith",0
+"2009-01","Iron & Wine",10
+"2009-01","Pj Harvey",10
+"2009-01","Sufjan Stevens",3
+"2009-01","Tori Amos",3
+"2009-02","Ane Brun",67
+"2009-02","Asha Ali",7
+"2009-02","Bat For Lashes",7
+"2009-02","Billie Holiday",1
+"2009-02","Billie The Vision & The Dancers",11
+"2009-02","Björk",18
+"2009-02","Boys Noize",22
+"2009-02","Britta Persson",56
+"2009-02","Cat Power",9
+"2009-02","Cocorosie",13
+"2009-02","Coldplay",88
+"2009-02","Cut Copy",0
+"2009-02","Dragonette",1
+"2009-02","El Perro Del Mar",109
+"2009-02","Ella Fitzgerald",1
+"2009-02","Elliott Smith",60
+"2009-02","Iron & Wine",12
+"2009-02","Pj Harvey",71
+"2009-02","Sufjan Stevens",31
+"2009-02","Tori Amos",9
+"2009-03","Ane Brun",1
+"2009-03","Asha Ali",30
+"2009-03","Bat For Lashes",0
+"2009-03","Billie Holiday",0
+"2009-03","Billie The Vision & The Dancers",0
+"2009-03","Björk",0
+"2009-03","Boys Noize",54
+"2009-03","Britta Persson",183
+"2009-03","Cat Power",0
+"2009-03","Cocorosie",0
+"2009-03","Coldplay",27
+"2009-03","Cut Copy",2
+"2009-03","Dragonette",1
+"2009-03","El Perro Del Mar",1
+"2009-03","Ella Fitzgerald",0
+"2009-03","Elliott Smith",154
+"2009-03","Iron & Wine",17
+"2009-03","Pj Harvey",1
+"2009-03","Sufjan Stevens",0
+"2009-03","Tori Amos",37
+"2009-04","Ane Brun",59
+"2009-04","Asha Ali",0
+"2009-04","Bat For Lashes",0
+"2009-04","Billie Holiday",0
+"2009-04","Billie The Vision & The Dancers",0
+"2009-04","Björk",0
+"2009-04","Boys Noize",65
+"2009-04","Britta Persson",0
+"2009-04","Cat Power",0
+"2009-04","Cocorosie",0
+"2009-04","Coldplay",0
+"2009-04","Cut Copy",0
+"2009-04","Dragonette",2
+"2009-04","El Perro Del Mar",36
+"2009-04","Ella Fitzgerald",0
+"2009-04","Elliott Smith",49
+"2009-04","Iron & Wine",0
+"2009-04","Pj Harvey",0
+"2009-04","Sufjan Stevens",67
+"2009-04","Tori Amos",0

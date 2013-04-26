@@ -1,821 +1,821 @@
-month,artist,plays
-2005-12,Allison Moorer,13
-2005-12,Black Rebel Motorcycle Club,19
-2005-12,Blur,16
-2005-12,Bruce Springsteen,20
-2005-12,Coldplay,3
-2005-12,David Bowie,6
-2005-12,Death Cab For Cutie,12
-2005-12,Depeche Mode,102
-2005-12,Dwight Yoakam,39
-2005-12,Echo & The Bunnymen,25
-2005-12,Editors,1
-2005-12,Fleetwood Mac,21
-2005-12,Gordon Lightfoot,6
-2005-12,Guster,10
-2005-12,Interpol,13
-2005-12,Modest Mouse,14
-2005-12,Pearl Jam,4
-2005-12,R.E.M.,77
-2005-12,Radiohead,20
-2005-12,Red Hot Chili Peppers,14
-2006-01,Allison Moorer,61
-2006-01,Black Rebel Motorcycle Club,35
-2006-01,Blur,28
-2006-01,Bruce Springsteen,37
-2006-01,Coldplay,17
-2006-01,David Bowie,5
-2006-01,Death Cab For Cutie,33
-2006-01,Depeche Mode,103
-2006-01,Dwight Yoakam,52
-2006-01,Echo & The Bunnymen,30
-2006-01,Editors,2
-2006-01,Fleetwood Mac,31
-2006-01,Gordon Lightfoot,12
-2006-01,Guster,27
-2006-01,Interpol,33
-2006-01,Modest Mouse,17
-2006-01,Pearl Jam,21
-2006-01,R.E.M.,97
-2006-01,Radiohead,48
-2006-01,Red Hot Chili Peppers,31
-2006-02,Allison Moorer,59
-2006-02,Black Rebel Motorcycle Club,45
-2006-02,Blur,30
-2006-02,Bruce Springsteen,43
-2006-02,Coldplay,16
-2006-02,David Bowie,10
-2006-02,Death Cab For Cutie,35
-2006-02,Depeche Mode,89
-2006-02,Dwight Yoakam,38
-2006-02,Echo & The Bunnymen,47
-2006-02,Editors,2
-2006-02,Fleetwood Mac,37
-2006-02,Gordon Lightfoot,16
-2006-02,Guster,36
-2006-02,Interpol,31
-2006-02,Modest Mouse,18
-2006-02,Pearl Jam,25
-2006-02,R.E.M.,115
-2006-02,Radiohead,60
-2006-02,Red Hot Chili Peppers,47
-2006-03,Allison Moorer,41
-2006-03,Black Rebel Motorcycle Club,50
-2006-03,Blur,24
-2006-03,Bruce Springsteen,35
-2006-03,Coldplay,20
-2006-03,David Bowie,13
-2006-03,Death Cab For Cutie,32
-2006-03,Depeche Mode,63
-2006-03,Dwight Yoakam,43
-2006-03,Echo & The Bunnymen,40
-2006-03,Editors,15
-2006-03,Fleetwood Mac,30
-2006-03,Gordon Lightfoot,3
-2006-03,Guster,21
-2006-03,Interpol,28
-2006-03,Modest Mouse,22
-2006-03,Pearl Jam,30
-2006-03,R.E.M.,82
-2006-03,Radiohead,70
-2006-03,Red Hot Chili Peppers,38
-2006-04,Allison Moorer,30
-2006-04,Black Rebel Motorcycle Club,38
-2006-04,Blur,27
-2006-04,Bruce Springsteen,28
-2006-04,Coldplay,11
-2006-04,David Bowie,13
-2006-04,Death Cab For Cutie,46
-2006-04,Depeche Mode,66
-2006-04,Dwight Yoakam,30
-2006-04,Echo & The Bunnymen,30
-2006-04,Editors,34
-2006-04,Fleetwood Mac,32
-2006-04,Gordon Lightfoot,4
-2006-04,Guster,36
-2006-04,Interpol,22
-2006-04,Modest Mouse,15
-2006-04,Pearl Jam,15
-2006-04,R.E.M.,80
-2006-04,Radiohead,46
-2006-04,Red Hot Chili Peppers,50
-2006-05,Allison Moorer,29
-2006-05,Black Rebel Motorcycle Club,25
-2006-05,Blur,20
-2006-05,Bruce Springsteen,22
-2006-05,Coldplay,5
-2006-05,David Bowie,9
-2006-05,Death Cab For Cutie,23
-2006-05,Depeche Mode,27
-2006-05,Dwight Yoakam,24
-2006-05,Echo & The Bunnymen,14
-2006-05,Editors,27
-2006-05,Fleetwood Mac,25
-2006-05,Gordon Lightfoot,4
-2006-05,Guster,36
-2006-05,Interpol,7
-2006-05,Modest Mouse,7
-2006-05,Pearl Jam,60
-2006-05,R.E.M.,52
-2006-05,Radiohead,36
-2006-05,Red Hot Chili Peppers,56
-2006-06,Allison Moorer,94
-2006-06,Black Rebel Motorcycle Club,33
-2006-06,Blur,17
-2006-06,Bruce Springsteen,26
-2006-06,Coldplay,11
-2006-06,David Bowie,16
-2006-06,Death Cab For Cutie,38
-2006-06,Depeche Mode,94
-2006-06,Dwight Yoakam,30
-2006-06,Echo & The Bunnymen,16
-2006-06,Editors,22
-2006-06,Fleetwood Mac,21
-2006-06,Gordon Lightfoot,5
-2006-06,Guster,94
-2006-06,Interpol,12
-2006-06,Modest Mouse,14
-2006-06,Pearl Jam,55
-2006-06,R.E.M.,105
-2006-06,Radiohead,56
-2006-06,Red Hot Chili Peppers,52
-2006-07,Allison Moorer,49
-2006-07,Black Rebel Motorcycle Club,26
-2006-07,Blur,10
-2006-07,Bruce Springsteen,26
-2006-07,Coldplay,12
-2006-07,David Bowie,5
-2006-07,Death Cab For Cutie,34
-2006-07,Depeche Mode,50
-2006-07,Dwight Yoakam,28
-2006-07,Echo & The Bunnymen,15
-2006-07,Editors,14
-2006-07,Fleetwood Mac,29
-2006-07,Gordon Lightfoot,10
-2006-07,Guster,23
-2006-07,Interpol,22
-2006-07,Modest Mouse,4
-2006-07,Pearl Jam,34
-2006-07,R.E.M.,59
-2006-07,Radiohead,48
-2006-07,Red Hot Chili Peppers,32
-2006-08,Allison Moorer,44
-2006-08,Black Rebel Motorcycle Club,39
-2006-08,Blur,17
-2006-08,Bruce Springsteen,28
-2006-08,Coldplay,8
-2006-08,David Bowie,12
-2006-08,Death Cab For Cutie,23
-2006-08,Depeche Mode,54
-2006-08,Dwight Yoakam,25
-2006-08,Echo & The Bunnymen,15
-2006-08,Editors,12
-2006-08,Fleetwood Mac,26
-2006-08,Gordon Lightfoot,12
-2006-08,Guster,23
-2006-08,Interpol,17
-2006-08,Modest Mouse,8
-2006-08,Pearl Jam,51
-2006-08,R.E.M.,94
-2006-08,Radiohead,46
-2006-08,Red Hot Chili Peppers,45
-2006-09,Allison Moorer,35
-2006-09,Black Rebel Motorcycle Club,26
-2006-09,Blur,24
-2006-09,Bruce Springsteen,13
-2006-09,Coldplay,7
-2006-09,David Bowie,7
-2006-09,Death Cab For Cutie,33
-2006-09,Depeche Mode,82
-2006-09,Dwight Yoakam,29
-2006-09,Echo & The Bunnymen,17
-2006-09,Editors,8
-2006-09,Fleetwood Mac,21
-2006-09,Gordon Lightfoot,11
-2006-09,Guster,19
-2006-09,Interpol,21
-2006-09,Modest Mouse,6
-2006-09,Pearl Jam,33
-2006-09,R.E.M.,137
-2006-09,Radiohead,50
-2006-09,Red Hot Chili Peppers,32
-2006-10,Allison Moorer,63
-2006-10,Black Rebel Motorcycle Club,36
-2006-10,Blur,26
-2006-10,Bruce Springsteen,18
-2006-10,Coldplay,8
-2006-10,David Bowie,6
-2006-10,Death Cab For Cutie,30
-2006-10,Depeche Mode,84
-2006-10,Dwight Yoakam,52
-2006-10,Echo & The Bunnymen,33
-2006-10,Editors,12
-2006-10,Fleetwood Mac,40
-2006-10,Gordon Lightfoot,7
-2006-10,Guster,34
-2006-10,Interpol,27
-2006-10,Modest Mouse,6
-2006-10,Pearl Jam,50
-2006-10,R.E.M.,131
-2006-10,Radiohead,55
-2006-10,Red Hot Chili Peppers,26
-2006-11,Allison Moorer,30
-2006-11,Black Rebel Motorcycle Club,28
-2006-11,Blur,22
-2006-11,Bruce Springsteen,21
-2006-11,Coldplay,8
-2006-11,David Bowie,5
-2006-11,Death Cab For Cutie,27
-2006-11,Depeche Mode,104
-2006-11,Dwight Yoakam,38
-2006-11,Echo & The Bunnymen,42
-2006-11,Editors,10
-2006-11,Fleetwood Mac,37
-2006-11,Gordon Lightfoot,6
-2006-11,Guster,34
-2006-11,Interpol,28
-2006-11,Modest Mouse,5
-2006-11,Pearl Jam,36
-2006-11,R.E.M.,118
-2006-11,Radiohead,57
-2006-11,Red Hot Chili Peppers,22
-2006-12,Allison Moorer,17
-2006-12,Black Rebel Motorcycle Club,20
-2006-12,Blur,11
-2006-12,Bruce Springsteen,15
-2006-12,Coldplay,5
-2006-12,David Bowie,3
-2006-12,Death Cab For Cutie,31
-2006-12,Depeche Mode,109
-2006-12,Dwight Yoakam,11
-2006-12,Echo & The Bunnymen,22
-2006-12,Editors,13
-2006-12,Fleetwood Mac,29
-2006-12,Gordon Lightfoot,6
-2006-12,Guster,14
-2006-12,Interpol,13
-2006-12,Modest Mouse,1
-2006-12,Pearl Jam,11
-2006-12,R.E.M.,92
-2006-12,Radiohead,27
-2006-12,Red Hot Chili Peppers,12
-2007-01,Allison Moorer,10
-2007-01,Black Rebel Motorcycle Club,12
-2007-01,Blur,5
-2007-01,Bruce Springsteen,10
-2007-01,Coldplay,5
-2007-01,David Bowie,8
-2007-01,Death Cab For Cutie,19
-2007-01,Depeche Mode,114
-2007-01,Dwight Yoakam,28
-2007-01,Echo & The Bunnymen,7
-2007-01,Editors,1
-2007-01,Fleetwood Mac,15
-2007-01,Gordon Lightfoot,2
-2007-01,Guster,6
-2007-01,Interpol,12
-2007-01,Modest Mouse,3
-2007-01,Pearl Jam,19
-2007-01,R.E.M.,73
-2007-01,Radiohead,16
-2007-01,Red Hot Chili Peppers,14
-2007-02,Allison Moorer,36
-2007-02,Black Rebel Motorcycle Club,17
-2007-02,Blur,10
-2007-02,Bruce Springsteen,31
-2007-02,Coldplay,10
-2007-02,David Bowie,12
-2007-02,Death Cab For Cutie,17
-2007-02,Depeche Mode,74
-2007-02,Dwight Yoakam,29
-2007-02,Echo & The Bunnymen,17
-2007-02,Editors,4
-2007-02,Fleetwood Mac,8
-2007-02,Gordon Lightfoot,5
-2007-02,Guster,29
-2007-02,Interpol,10
-2007-02,Modest Mouse,10
-2007-02,Pearl Jam,30
-2007-02,R.E.M.,76
-2007-02,Radiohead,58
-2007-02,Red Hot Chili Peppers,12
-2007-03,Allison Moorer,23
-2007-03,Black Rebel Motorcycle Club,18
-2007-03,Blur,21
-2007-03,Bruce Springsteen,25
-2007-03,Coldplay,6
-2007-03,David Bowie,7
-2007-03,Death Cab For Cutie,22
-2007-03,Depeche Mode,66
-2007-03,Dwight Yoakam,22
-2007-03,Echo & The Bunnymen,21
-2007-03,Editors,2
-2007-03,Fleetwood Mac,30
-2007-03,Gordon Lightfoot,5
-2007-03,Guster,50
-2007-03,Interpol,23
-2007-03,Modest Mouse,15
-2007-03,Pearl Jam,25
-2007-03,R.E.M.,71
-2007-03,Radiohead,47
-2007-03,Red Hot Chili Peppers,17
-2007-04,Allison Moorer,32
-2007-04,Black Rebel Motorcycle Club,49
-2007-04,Blur,6
-2007-04,Bruce Springsteen,25
-2007-04,Coldplay,11
-2007-04,David Bowie,18
-2007-04,Death Cab For Cutie,24
-2007-04,Depeche Mode,41
-2007-04,Dwight Yoakam,21
-2007-04,Echo & The Bunnymen,19
-2007-04,Editors,14
-2007-04,Fleetwood Mac,12
-2007-04,Gordon Lightfoot,9
-2007-04,Guster,37
-2007-04,Interpol,18
-2007-04,Modest Mouse,38
-2007-04,Pearl Jam,21
-2007-04,R.E.M.,68
-2007-04,Radiohead,42
-2007-04,Red Hot Chili Peppers,15
-2007-05,Allison Moorer,40
-2007-05,Black Rebel Motorcycle Club,40
-2007-05,Blur,19
-2007-05,Bruce Springsteen,29
-2007-05,Coldplay,4
-2007-05,David Bowie,19
-2007-05,Death Cab For Cutie,21
-2007-05,Depeche Mode,52
-2007-05,Dwight Yoakam,35
-2007-05,Echo & The Bunnymen,16
-2007-05,Editors,23
-2007-05,Fleetwood Mac,29
-2007-05,Gordon Lightfoot,4
-2007-05,Guster,54
-2007-05,Interpol,23
-2007-05,Modest Mouse,22
-2007-05,Pearl Jam,25
-2007-05,R.E.M.,96
-2007-05,Radiohead,38
-2007-05,Red Hot Chili Peppers,14
-2007-06,Allison Moorer,40
-2007-06,Black Rebel Motorcycle Club,27
-2007-06,Blur,13
-2007-06,Bruce Springsteen,25
-2007-06,Coldplay,10
-2007-06,David Bowie,8
-2007-06,Death Cab For Cutie,22
-2007-06,Depeche Mode,43
-2007-06,Dwight Yoakam,48
-2007-06,Echo & The Bunnymen,14
-2007-06,Editors,10
-2007-06,Fleetwood Mac,21
-2007-06,Gordon Lightfoot,10
-2007-06,Guster,38
-2007-06,Interpol,20
-2007-06,Modest Mouse,13
-2007-06,Pearl Jam,32
-2007-06,R.E.M.,66
-2007-06,Radiohead,38
-2007-06,Red Hot Chili Peppers,11
-2007-07,Allison Moorer,26
-2007-07,Black Rebel Motorcycle Club,17
-2007-07,Blur,14
-2007-07,Bruce Springsteen,17
-2007-07,Coldplay,5
-2007-07,David Bowie,11
-2007-07,Death Cab For Cutie,16
-2007-07,Depeche Mode,34
-2007-07,Dwight Yoakam,29
-2007-07,Echo & The Bunnymen,14
-2007-07,Editors,13
-2007-07,Fleetwood Mac,18
-2007-07,Gordon Lightfoot,8
-2007-07,Guster,35
-2007-07,Interpol,56
-2007-07,Modest Mouse,12
-2007-07,Pearl Jam,10
-2007-07,R.E.M.,97
-2007-07,Radiohead,20
-2007-07,Red Hot Chili Peppers,9
-2007-08,Allison Moorer,19
-2007-08,Black Rebel Motorcycle Club,12
-2007-08,Blur,14
-2007-08,Bruce Springsteen,21
-2007-08,Coldplay,12
-2007-08,David Bowie,12
-2007-08,Death Cab For Cutie,11
-2007-08,Depeche Mode,16
-2007-08,Dwight Yoakam,13
-2007-08,Echo & The Bunnymen,5
-2007-08,Editors,9
-2007-08,Fleetwood Mac,15
-2007-08,Gordon Lightfoot,4
-2007-08,Guster,19
-2007-08,Interpol,24
-2007-08,Modest Mouse,5
-2007-08,Pearl Jam,12
-2007-08,R.E.M.,45
-2007-08,Radiohead,19
-2007-08,Red Hot Chili Peppers,7
-2007-09,Allison Moorer,14
-2007-09,Black Rebel Motorcycle Club,8
-2007-09,Blur,7
-2007-09,Bruce Springsteen,17
-2007-09,Coldplay,9
-2007-09,David Bowie,4
-2007-09,Death Cab For Cutie,15
-2007-09,Depeche Mode,23
-2007-09,Dwight Yoakam,13
-2007-09,Echo & The Bunnymen,7
-2007-09,Editors,6
-2007-09,Fleetwood Mac,8
-2007-09,Gordon Lightfoot,3
-2007-09,Guster,18
-2007-09,Interpol,18
-2007-09,Modest Mouse,1
-2007-09,Pearl Jam,9
-2007-09,R.E.M.,73
-2007-09,Radiohead,13
-2007-09,Red Hot Chili Peppers,3
-2007-10,Allison Moorer,13
-2007-10,Black Rebel Motorcycle Club,9
-2007-10,Blur,11
-2007-10,Bruce Springsteen,66
-2007-10,Coldplay,7
-2007-10,David Bowie,5
-2007-10,Death Cab For Cutie,29
-2007-10,Depeche Mode,61
-2007-10,Dwight Yoakam,45
-2007-10,Echo & The Bunnymen,2
-2007-10,Editors,8
-2007-10,Fleetwood Mac,8
-2007-10,Gordon Lightfoot,3
-2007-10,Guster,26
-2007-10,Interpol,28
-2007-10,Modest Mouse,6
-2007-10,Pearl Jam,16
-2007-10,R.E.M.,147
-2007-10,Radiohead,139
-2007-10,Red Hot Chili Peppers,2
-2007-11,Allison Moorer,19
-2007-11,Black Rebel Motorcycle Club,13
-2007-11,Blur,12
-2007-11,Bruce Springsteen,46
-2007-11,Coldplay,7
-2007-11,David Bowie,10
-2007-11,Death Cab For Cutie,18
-2007-11,Depeche Mode,27
-2007-11,Dwight Yoakam,57
-2007-11,Echo & The Bunnymen,4
-2007-11,Editors,3
-2007-11,Fleetwood Mac,15
-2007-11,Gordon Lightfoot,8
-2007-11,Guster,13
-2007-11,Interpol,20
-2007-11,Modest Mouse,6
-2007-11,Pearl Jam,13
-2007-11,R.E.M.,250
-2007-11,Radiohead,30
-2007-11,Red Hot Chili Peppers,2
-2007-12,Allison Moorer,12
-2007-12,Black Rebel Motorcycle Club,2
-2007-12,Blur,9
-2007-12,Bruce Springsteen,29
-2007-12,Coldplay,9
-2007-12,David Bowie,9
-2007-12,Death Cab For Cutie,21
-2007-12,Depeche Mode,35
-2007-12,Dwight Yoakam,38
-2007-12,Echo & The Bunnymen,9
-2007-12,Editors,8
-2007-12,Fleetwood Mac,9
-2007-12,Gordon Lightfoot,3
-2007-12,Guster,13
-2007-12,Interpol,21
-2007-12,Modest Mouse,14
-2007-12,Pearl Jam,8
-2007-12,R.E.M.,129
-2007-12,Radiohead,44
-2007-12,Red Hot Chili Peppers,4
-2008-01,Allison Moorer,6
-2008-01,Black Rebel Motorcycle Club,12
-2008-01,Blur,5
-2008-01,Bruce Springsteen,22
-2008-01,Coldplay,4
-2008-01,David Bowie,10
-2008-01,Death Cab For Cutie,30
-2008-01,Depeche Mode,37
-2008-01,Dwight Yoakam,38
-2008-01,Echo & The Bunnymen,5
-2008-01,Editors,5
-2008-01,Fleetwood Mac,11
-2008-01,Gordon Lightfoot,4
-2008-01,Guster,28
-2008-01,Interpol,34
-2008-01,Modest Mouse,11
-2008-01,Pearl Jam,23
-2008-01,R.E.M.,133
-2008-01,Radiohead,59
-2008-01,Red Hot Chili Peppers,7
-2008-02,Allison Moorer,5
-2008-02,Black Rebel Motorcycle Club,3
-2008-02,Blur,5
-2008-02,Bruce Springsteen,16
-2008-02,Coldplay,7
-2008-02,David Bowie,7
-2008-02,Death Cab For Cutie,15
-2008-02,Depeche Mode,13
-2008-02,Dwight Yoakam,18
-2008-02,Echo & The Bunnymen,6
-2008-02,Editors,12
-2008-02,Fleetwood Mac,7
-2008-02,Gordon Lightfoot,2
-2008-02,Guster,20
-2008-02,Interpol,25
-2008-02,Modest Mouse,6
-2008-02,Pearl Jam,19
-2008-02,R.E.M.,51
-2008-02,Radiohead,24
-2008-02,Red Hot Chili Peppers,4
-2008-03,Allison Moorer,34
-2008-03,Black Rebel Motorcycle Club,5
-2008-03,Blur,6
-2008-03,Bruce Springsteen,24
-2008-03,Coldplay,7
-2008-03,David Bowie,6
-2008-03,Death Cab For Cutie,19
-2008-03,Depeche Mode,20
-2008-03,Dwight Yoakam,24
-2008-03,Echo & The Bunnymen,6
-2008-03,Editors,8
-2008-03,Fleetwood Mac,5
-2008-03,Gordon Lightfoot,4
-2008-03,Guster,21
-2008-03,Interpol,19
-2008-03,Modest Mouse,6
-2008-03,Pearl Jam,11
-2008-03,R.E.M.,102
-2008-03,Radiohead,24
-2008-03,Red Hot Chili Peppers,8
-2008-04,Allison Moorer,31
-2008-04,Black Rebel Motorcycle Club,20
-2008-04,Blur,5
-2008-04,Bruce Springsteen,23
-2008-04,Coldplay,2
-2008-04,David Bowie,8
-2008-04,Death Cab For Cutie,43
-2008-04,Depeche Mode,28
-2008-04,Dwight Yoakam,35
-2008-04,Echo & The Bunnymen,6
-2008-04,Editors,3
-2008-04,Fleetwood Mac,14
-2008-04,Gordon Lightfoot,7
-2008-04,Guster,28
-2008-04,Interpol,38
-2008-04,Modest Mouse,16
-2008-04,Pearl Jam,21
-2008-04,R.E.M.,118
-2008-04,Radiohead,31
-2008-04,Red Hot Chili Peppers,18
-2008-05,Allison Moorer,23
-2008-05,Black Rebel Motorcycle Club,16
-2008-05,Blur,4
-2008-05,Bruce Springsteen,17
-2008-05,Coldplay,11
-2008-05,David Bowie,9
-2008-05,Death Cab For Cutie,75
-2008-05,Depeche Mode,33
-2008-05,Dwight Yoakam,27
-2008-05,Echo & The Bunnymen,6
-2008-05,Editors,5
-2008-05,Fleetwood Mac,7
-2008-05,Gordon Lightfoot,7
-2008-05,Guster,23
-2008-05,Interpol,38
-2008-05,Modest Mouse,6
-2008-05,Pearl Jam,22
-2008-05,R.E.M.,66
-2008-05,Radiohead,36
-2008-05,Red Hot Chili Peppers,10
-2008-06,Allison Moorer,9
-2008-06,Black Rebel Motorcycle Club,13
-2008-06,Blur,4
-2008-06,Bruce Springsteen,18
-2008-06,Coldplay,16
-2008-06,David Bowie,7
-2008-06,Death Cab For Cutie,66
-2008-06,Depeche Mode,61
-2008-06,Dwight Yoakam,22
-2008-06,Echo & The Bunnymen,4
-2008-06,Editors,3
-2008-06,Fleetwood Mac,6
-2008-06,Gordon Lightfoot,5
-2008-06,Guster,21
-2008-06,Interpol,35
-2008-06,Modest Mouse,9
-2008-06,Pearl Jam,12
-2008-06,R.E.M.,80
-2008-06,Radiohead,65
-2008-06,Red Hot Chili Peppers,18
-2008-07,Allison Moorer,11
-2008-07,Black Rebel Motorcycle Club,13
-2008-07,Blur,5
-2008-07,Bruce Springsteen,25
-2008-07,Coldplay,37
-2008-07,David Bowie,6
-2008-07,Death Cab For Cutie,70
-2008-07,Depeche Mode,65
-2008-07,Dwight Yoakam,47
-2008-07,Echo & The Bunnymen,2
-2008-07,Editors,4
-2008-07,Fleetwood Mac,8
-2008-07,Gordon Lightfoot,5
-2008-07,Guster,32
-2008-07,Interpol,44
-2008-07,Modest Mouse,14
-2008-07,Pearl Jam,16
-2008-07,R.E.M.,94
-2008-07,Radiohead,86
-2008-07,Red Hot Chili Peppers,12
-2008-08,Allison Moorer,10
-2008-08,Black Rebel Motorcycle Club,10
-2008-08,Blur,8
-2008-08,Bruce Springsteen,30
-2008-08,Coldplay,41
-2008-08,David Bowie,6
-2008-08,Death Cab For Cutie,59
-2008-08,Depeche Mode,51
-2008-08,Dwight Yoakam,46
-2008-08,Echo & The Bunnymen,7
-2008-08,Editors,2
-2008-08,Fleetwood Mac,20
-2008-08,Gordon Lightfoot,7
-2008-08,Guster,17
-2008-08,Interpol,35
-2008-08,Modest Mouse,9
-2008-08,Pearl Jam,27
-2008-08,R.E.M.,92
-2008-08,Radiohead,66
-2008-08,Red Hot Chili Peppers,18
-2008-09,Allison Moorer,9
-2008-09,Black Rebel Motorcycle Club,17
-2008-09,Blur,11
-2008-09,Bruce Springsteen,30
-2008-09,Coldplay,17
-2008-09,David Bowie,11
-2008-09,Death Cab For Cutie,23
-2008-09,Depeche Mode,43
-2008-09,Dwight Yoakam,33
-2008-09,Echo & The Bunnymen,11
-2008-09,Editors,4
-2008-09,Fleetwood Mac,18
-2008-09,Gordon Lightfoot,6
-2008-09,Guster,15
-2008-09,Interpol,28
-2008-09,Modest Mouse,8
-2008-09,Pearl Jam,23
-2008-09,R.E.M.,46
-2008-09,Radiohead,41
-2008-09,Red Hot Chili Peppers,16
-2008-10,Allison Moorer,18
-2008-10,Black Rebel Motorcycle Club,17
-2008-10,Blur,7
-2008-10,Bruce Springsteen,33
-2008-10,Coldplay,26
-2008-10,David Bowie,9
-2008-10,Death Cab For Cutie,32
-2008-10,Depeche Mode,74
-2008-10,Dwight Yoakam,54
-2008-10,Echo & The Bunnymen,12
-2008-10,Editors,3
-2008-10,Fleetwood Mac,26
-2008-10,Gordon Lightfoot,5
-2008-10,Guster,28
-2008-10,Interpol,37
-2008-10,Modest Mouse,5
-2008-10,Pearl Jam,18
-2008-10,R.E.M.,87
-2008-10,Radiohead,88
-2008-10,Red Hot Chili Peppers,15
-2008-11,Allison Moorer,7
-2008-11,Black Rebel Motorcycle Club,18
-2008-11,Blur,9
-2008-11,Bruce Springsteen,21
-2008-11,Coldplay,18
-2008-11,David Bowie,8
-2008-11,Death Cab For Cutie,32
-2008-11,Depeche Mode,68
-2008-11,Dwight Yoakam,45
-2008-11,Echo & The Bunnymen,8
-2008-11,Editors,2
-2008-11,Fleetwood Mac,14
-2008-11,Gordon Lightfoot,1
-2008-11,Guster,20
-2008-11,Interpol,20
-2008-11,Modest Mouse,5
-2008-11,Pearl Jam,19
-2008-11,R.E.M.,74
-2008-11,Radiohead,62
-2008-11,Red Hot Chili Peppers,9
-2008-12,Allison Moorer,8
-2008-12,Black Rebel Motorcycle Club,20
-2008-12,Blur,18
-2008-12,Bruce Springsteen,39
-2008-12,Coldplay,22
-2008-12,David Bowie,12
-2008-12,Death Cab For Cutie,32
-2008-12,Depeche Mode,81
-2008-12,Dwight Yoakam,49
-2008-12,Echo & The Bunnymen,8
-2008-12,Editors,7
-2008-12,Fleetwood Mac,8
-2008-12,Gordon Lightfoot,7
-2008-12,Guster,21
-2008-12,Interpol,29
-2008-12,Modest Mouse,4
-2008-12,Pearl Jam,29
-2008-12,R.E.M.,101
-2008-12,Radiohead,61
-2008-12,Red Hot Chili Peppers,21
-2009-01,Allison Moorer,6
-2009-01,Black Rebel Motorcycle Club,10
-2009-01,Blur,12
-2009-01,Bruce Springsteen,14
-2009-01,Coldplay,12
-2009-01,David Bowie,4
-2009-01,Death Cab For Cutie,20
-2009-01,Depeche Mode,36
-2009-01,Dwight Yoakam,23
-2009-01,Echo & The Bunnymen,3
-2009-01,Editors,2
-2009-01,Fleetwood Mac,7
-2009-01,Gordon Lightfoot,5
-2009-01,Guster,12
-2009-01,Interpol,10
-2009-01,Modest Mouse,5
-2009-01,Pearl Jam,14
-2009-01,R.E.M.,42
-2009-01,Radiohead,22
-2009-01,Red Hot Chili Peppers,8
-2009-02,Allison Moorer,14
-2009-02,Black Rebel Motorcycle Club,15
-2009-02,Blur,19
-2009-02,Bruce Springsteen,37
-2009-02,Coldplay,26
-2009-02,David Bowie,11
-2009-02,Death Cab For Cutie,23
-2009-02,Depeche Mode,77
-2009-02,Dwight Yoakam,38
-2009-02,Echo & The Bunnymen,6
-2009-02,Editors,5
-2009-02,Fleetwood Mac,13
-2009-02,Gordon Lightfoot,9
-2009-02,Guster,20
-2009-02,Interpol,38
-2009-02,Modest Mouse,4
-2009-02,Pearl Jam,25
-2009-02,R.E.M.,104
-2009-02,Radiohead,84
-2009-02,Red Hot Chili Peppers,19
-2009-03,Allison Moorer,2
-2009-03,Black Rebel Motorcycle Club,7
-2009-03,Blur,6
-2009-03,Bruce Springsteen,21
-2009-03,Coldplay,11
-2009-03,David Bowie,7
-2009-03,Death Cab For Cutie,19
-2009-03,Depeche Mode,40
-2009-03,Dwight Yoakam,26
-2009-03,Echo & The Bunnymen,7
-2009-03,Editors,1
-2009-03,Fleetwood Mac,10
-2009-03,Gordon Lightfoot,4
-2009-03,Guster,13
-2009-03,Interpol,13
-2009-03,Modest Mouse,3
-2009-03,Pearl Jam,20
-2009-03,R.E.M.,48
-2009-03,Radiohead,40
-2009-03,Red Hot Chili Peppers,6
-2009-04,Allison Moorer,8
-2009-04,Black Rebel Motorcycle Club,11
-2009-04,Blur,13
-2009-04,Bruce Springsteen,36
-2009-04,Coldplay,17
-2009-04,David Bowie,5
-2009-04,Death Cab For Cutie,22
-2009-04,Depeche Mode,64
-2009-04,Dwight Yoakam,28
-2009-04,Echo & The Bunnymen,8
-2009-04,Editors,3
-2009-04,Fleetwood Mac,13
-2009-04,Gordon Lightfoot,5
-2009-04,Guster,16
-2009-04,Interpol,16
-2009-04,Modest Mouse,6
-2009-04,Pearl Jam,15
-2009-04,R.E.M.,73
-2009-04,Radiohead,48
-2009-04,Red Hot Chili Peppers,14
+"month","artist","plays"
+"2005-12","Allison Moorer",13
+"2005-12","Black Rebel Motorcycle Club",19
+"2005-12","Blur",16
+"2005-12","Bruce Springsteen",20
+"2005-12","Coldplay",3
+"2005-12","David Bowie",6
+"2005-12","Death Cab For Cutie",12
+"2005-12","Depeche Mode",102
+"2005-12","Dwight Yoakam",39
+"2005-12","Echo & The Bunnymen",25
+"2005-12","Editors",1
+"2005-12","Fleetwood Mac",21
+"2005-12","Gordon Lightfoot",6
+"2005-12","Guster",10
+"2005-12","Interpol",13
+"2005-12","Modest Mouse",14
+"2005-12","Pearl Jam",4
+"2005-12","R.E.M.",77
+"2005-12","Radiohead",20
+"2005-12","Red Hot Chili Peppers",14
+"2006-01","Allison Moorer",61
+"2006-01","Black Rebel Motorcycle Club",35
+"2006-01","Blur",28
+"2006-01","Bruce Springsteen",37
+"2006-01","Coldplay",17
+"2006-01","David Bowie",5
+"2006-01","Death Cab For Cutie",33
+"2006-01","Depeche Mode",103
+"2006-01","Dwight Yoakam",52
+"2006-01","Echo & The Bunnymen",30
+"2006-01","Editors",2
+"2006-01","Fleetwood Mac",31
+"2006-01","Gordon Lightfoot",12
+"2006-01","Guster",27
+"2006-01","Interpol",33
+"2006-01","Modest Mouse",17
+"2006-01","Pearl Jam",21
+"2006-01","R.E.M.",97
+"2006-01","Radiohead",48
+"2006-01","Red Hot Chili Peppers",31
+"2006-02","Allison Moorer",59
+"2006-02","Black Rebel Motorcycle Club",45
+"2006-02","Blur",30
+"2006-02","Bruce Springsteen",43
+"2006-02","Coldplay",16
+"2006-02","David Bowie",10
+"2006-02","Death Cab For Cutie",35
+"2006-02","Depeche Mode",89
+"2006-02","Dwight Yoakam",38
+"2006-02","Echo & The Bunnymen",47
+"2006-02","Editors",2
+"2006-02","Fleetwood Mac",37
+"2006-02","Gordon Lightfoot",16
+"2006-02","Guster",36
+"2006-02","Interpol",31
+"2006-02","Modest Mouse",18
+"2006-02","Pearl Jam",25
+"2006-02","R.E.M.",115
+"2006-02","Radiohead",60
+"2006-02","Red Hot Chili Peppers",47
+"2006-03","Allison Moorer",41
+"2006-03","Black Rebel Motorcycle Club",50
+"2006-03","Blur",24
+"2006-03","Bruce Springsteen",35
+"2006-03","Coldplay",20
+"2006-03","David Bowie",13
+"2006-03","Death Cab For Cutie",32
+"2006-03","Depeche Mode",63
+"2006-03","Dwight Yoakam",43
+"2006-03","Echo & The Bunnymen",40
+"2006-03","Editors",15
+"2006-03","Fleetwood Mac",30
+"2006-03","Gordon Lightfoot",3
+"2006-03","Guster",21
+"2006-03","Interpol",28
+"2006-03","Modest Mouse",22
+"2006-03","Pearl Jam",30
+"2006-03","R.E.M.",82
+"2006-03","Radiohead",70
+"2006-03","Red Hot Chili Peppers",38
+"2006-04","Allison Moorer",30
+"2006-04","Black Rebel Motorcycle Club",38
+"2006-04","Blur",27
+"2006-04","Bruce Springsteen",28
+"2006-04","Coldplay",11
+"2006-04","David Bowie",13
+"2006-04","Death Cab For Cutie",46
+"2006-04","Depeche Mode",66
+"2006-04","Dwight Yoakam",30
+"2006-04","Echo & The Bunnymen",30
+"2006-04","Editors",34
+"2006-04","Fleetwood Mac",32
+"2006-04","Gordon Lightfoot",4
+"2006-04","Guster",36
+"2006-04","Interpol",22
+"2006-04","Modest Mouse",15
+"2006-04","Pearl Jam",15
+"2006-04","R.E.M.",80
+"2006-04","Radiohead",46
+"2006-04","Red Hot Chili Peppers",50
+"2006-05","Allison Moorer",29
+"2006-05","Black Rebel Motorcycle Club",25
+"2006-05","Blur",20
+"2006-05","Bruce Springsteen",22
+"2006-05","Coldplay",5
+"2006-05","David Bowie",9
+"2006-05","Death Cab For Cutie",23
+"2006-05","Depeche Mode",27
+"2006-05","Dwight Yoakam",24
+"2006-05","Echo & The Bunnymen",14
+"2006-05","Editors",27
+"2006-05","Fleetwood Mac",25
+"2006-05","Gordon Lightfoot",4
+"2006-05","Guster",36
+"2006-05","Interpol",7
+"2006-05","Modest Mouse",7
+"2006-05","Pearl Jam",60
+"2006-05","R.E.M.",52
+"2006-05","Radiohead",36
+"2006-05","Red Hot Chili Peppers",56
+"2006-06","Allison Moorer",94
+"2006-06","Black Rebel Motorcycle Club",33
+"2006-06","Blur",17
+"2006-06","Bruce Springsteen",26
+"2006-06","Coldplay",11
+"2006-06","David Bowie",16
+"2006-06","Death Cab For Cutie",38
+"2006-06","Depeche Mode",94
+"2006-06","Dwight Yoakam",30
+"2006-06","Echo & The Bunnymen",16
+"2006-06","Editors",22
+"2006-06","Fleetwood Mac",21
+"2006-06","Gordon Lightfoot",5
+"2006-06","Guster",94
+"2006-06","Interpol",12
+"2006-06","Modest Mouse",14
+"2006-06","Pearl Jam",55
+"2006-06","R.E.M.",105
+"2006-06","Radiohead",56
+"2006-06","Red Hot Chili Peppers",52
+"2006-07","Allison Moorer",49
+"2006-07","Black Rebel Motorcycle Club",26
+"2006-07","Blur",10
+"2006-07","Bruce Springsteen",26
+"2006-07","Coldplay",12
+"2006-07","David Bowie",5
+"2006-07","Death Cab For Cutie",34
+"2006-07","Depeche Mode",50
+"2006-07","Dwight Yoakam",28
+"2006-07","Echo & The Bunnymen",15
+"2006-07","Editors",14
+"2006-07","Fleetwood Mac",29
+"2006-07","Gordon Lightfoot",10
+"2006-07","Guster",23
+"2006-07","Interpol",22
+"2006-07","Modest Mouse",4
+"2006-07","Pearl Jam",34
+"2006-07","R.E.M.",59
+"2006-07","Radiohead",48
+"2006-07","Red Hot Chili Peppers",32
+"2006-08","Allison Moorer",44
+"2006-08","Black Rebel Motorcycle Club",39
+"2006-08","Blur",17
+"2006-08","Bruce Springsteen",28
+"2006-08","Coldplay",8
+"2006-08","David Bowie",12
+"2006-08","Death Cab For Cutie",23
+"2006-08","Depeche Mode",54
+"2006-08","Dwight Yoakam",25
+"2006-08","Echo & The Bunnymen",15
+"2006-08","Editors",12
+"2006-08","Fleetwood Mac",26
+"2006-08","Gordon Lightfoot",12
+"2006-08","Guster",23
+"2006-08","Interpol",17
+"2006-08","Modest Mouse",8
+"2006-08","Pearl Jam",51
+"2006-08","R.E.M.",94
+"2006-08","Radiohead",46
+"2006-08","Red Hot Chili Peppers",45
+"2006-09","Allison Moorer",35
+"2006-09","Black Rebel Motorcycle Club",26
+"2006-09","Blur",24
+"2006-09","Bruce Springsteen",13
+"2006-09","Coldplay",7
+"2006-09","David Bowie",7
+"2006-09","Death Cab For Cutie",33
+"2006-09","Depeche Mode",82
+"2006-09","Dwight Yoakam",29
+"2006-09","Echo & The Bunnymen",17
+"2006-09","Editors",8
+"2006-09","Fleetwood Mac",21
+"2006-09","Gordon Lightfoot",11
+"2006-09","Guster",19
+"2006-09","Interpol",21
+"2006-09","Modest Mouse",6
+"2006-09","Pearl Jam",33
+"2006-09","R.E.M.",137
+"2006-09","Radiohead",50
+"2006-09","Red Hot Chili Peppers",32
+"2006-10","Allison Moorer",63
+"2006-10","Black Rebel Motorcycle Club",36
+"2006-10","Blur",26
+"2006-10","Bruce Springsteen",18
+"2006-10","Coldplay",8
+"2006-10","David Bowie",6
+"2006-10","Death Cab For Cutie",30
+"2006-10","Depeche Mode",84
+"2006-10","Dwight Yoakam",52
+"2006-10","Echo & The Bunnymen",33
+"2006-10","Editors",12
+"2006-10","Fleetwood Mac",40
+"2006-10","Gordon Lightfoot",7
+"2006-10","Guster",34
+"2006-10","Interpol",27
+"2006-10","Modest Mouse",6
+"2006-10","Pearl Jam",50
+"2006-10","R.E.M.",131
+"2006-10","Radiohead",55
+"2006-10","Red Hot Chili Peppers",26
+"2006-11","Allison Moorer",30
+"2006-11","Black Rebel Motorcycle Club",28
+"2006-11","Blur",22
+"2006-11","Bruce Springsteen",21
+"2006-11","Coldplay",8
+"2006-11","David Bowie",5
+"2006-11","Death Cab For Cutie",27
+"2006-11","Depeche Mode",104
+"2006-11","Dwight Yoakam",38
+"2006-11","Echo & The Bunnymen",42
+"2006-11","Editors",10
+"2006-11","Fleetwood Mac",37
+"2006-11","Gordon Lightfoot",6
+"2006-11","Guster",34
+"2006-11","Interpol",28
+"2006-11","Modest Mouse",5
+"2006-11","Pearl Jam",36
+"2006-11","R.E.M.",118
+"2006-11","Radiohead",57
+"2006-11","Red Hot Chili Peppers",22
+"2006-12","Allison Moorer",17
+"2006-12","Black Rebel Motorcycle Club",20
+"2006-12","Blur",11
+"2006-12","Bruce Springsteen",15
+"2006-12","Coldplay",5
+"2006-12","David Bowie",3
+"2006-12","Death Cab For Cutie",31
+"2006-12","Depeche Mode",109
+"2006-12","Dwight Yoakam",11
+"2006-12","Echo & The Bunnymen",22
+"2006-12","Editors",13
+"2006-12","Fleetwood Mac",29
+"2006-12","Gordon Lightfoot",6
+"2006-12","Guster",14
+"2006-12","Interpol",13
+"2006-12","Modest Mouse",1
+"2006-12","Pearl Jam",11
+"2006-12","R.E.M.",92
+"2006-12","Radiohead",27
+"2006-12","Red Hot Chili Peppers",12
+"2007-01","Allison Moorer",10
+"2007-01","Black Rebel Motorcycle Club",12
+"2007-01","Blur",5
+"2007-01","Bruce Springsteen",10
+"2007-01","Coldplay",5
+"2007-01","David Bowie",8
+"2007-01","Death Cab For Cutie",19
+"2007-01","Depeche Mode",114
+"2007-01","Dwight Yoakam",28
+"2007-01","Echo & The Bunnymen",7
+"2007-01","Editors",1
+"2007-01","Fleetwood Mac",15
+"2007-01","Gordon Lightfoot",2
+"2007-01","Guster",6
+"2007-01","Interpol",12
+"2007-01","Modest Mouse",3
+"2007-01","Pearl Jam",19
+"2007-01","R.E.M.",73
+"2007-01","Radiohead",16
+"2007-01","Red Hot Chili Peppers",14
+"2007-02","Allison Moorer",36
+"2007-02","Black Rebel Motorcycle Club",17
+"2007-02","Blur",10
+"2007-02","Bruce Springsteen",31
+"2007-02","Coldplay",10
+"2007-02","David Bowie",12
+"2007-02","Death Cab For Cutie",17
+"2007-02","Depeche Mode",74
+"2007-02","Dwight Yoakam",29
+"2007-02","Echo & The Bunnymen",17
+"2007-02","Editors",4
+"2007-02","Fleetwood Mac",8
+"2007-02","Gordon Lightfoot",5
+"2007-02","Guster",29
+"2007-02","Interpol",10
+"2007-02","Modest Mouse",10
+"2007-02","Pearl Jam",30
+"2007-02","R.E.M.",76
+"2007-02","Radiohead",58
+"2007-02","Red Hot Chili Peppers",12
+"2007-03","Allison Moorer",23
+"2007-03","Black Rebel Motorcycle Club",18
+"2007-03","Blur",21
+"2007-03","Bruce Springsteen",25
+"2007-03","Coldplay",6
+"2007-03","David Bowie",7
+"2007-03","Death Cab For Cutie",22
+"2007-03","Depeche Mode",66
+"2007-03","Dwight Yoakam",22
+"2007-03","Echo & The Bunnymen",21
+"2007-03","Editors",2
+"2007-03","Fleetwood Mac",30
+"2007-03","Gordon Lightfoot",5
+"2007-03","Guster",50
+"2007-03","Interpol",23
+"2007-03","Modest Mouse",15
+"2007-03","Pearl Jam",25
+"2007-03","R.E.M.",71
+"2007-03","Radiohead",47
+"2007-03","Red Hot Chili Peppers",17
+"2007-04","Allison Moorer",32
+"2007-04","Black Rebel Motorcycle Club",49
+"2007-04","Blur",6
+"2007-04","Bruce Springsteen",25
+"2007-04","Coldplay",11
+"2007-04","David Bowie",18
+"2007-04","Death Cab For Cutie",24
+"2007-04","Depeche Mode",41
+"2007-04","Dwight Yoakam",21
+"2007-04","Echo & The Bunnymen",19
+"2007-04","Editors",14
+"2007-04","Fleetwood Mac",12
+"2007-04","Gordon Lightfoot",9
+"2007-04","Guster",37
+"2007-04","Interpol",18
+"2007-04","Modest Mouse",38
+"2007-04","Pearl Jam",21
+"2007-04","R.E.M.",68
+"2007-04","Radiohead",42
+"2007-04","Red Hot Chili Peppers",15
+"2007-05","Allison Moorer",40
+"2007-05","Black Rebel Motorcycle Club",40
+"2007-05","Blur",19
+"2007-05","Bruce Springsteen",29
+"2007-05","Coldplay",4
+"2007-05","David Bowie",19
+"2007-05","Death Cab For Cutie",21
+"2007-05","Depeche Mode",52
+"2007-05","Dwight Yoakam",35
+"2007-05","Echo & The Bunnymen",16
+"2007-05","Editors",23
+"2007-05","Fleetwood Mac",29
+"2007-05","Gordon Lightfoot",4
+"2007-05","Guster",54
+"2007-05","Interpol",23
+"2007-05","Modest Mouse",22
+"2007-05","Pearl Jam",25
+"2007-05","R.E.M.",96
+"2007-05","Radiohead",38
+"2007-05","Red Hot Chili Peppers",14
+"2007-06","Allison Moorer",40
+"2007-06","Black Rebel Motorcycle Club",27
+"2007-06","Blur",13
+"2007-06","Bruce Springsteen",25
+"2007-06","Coldplay",10
+"2007-06","David Bowie",8
+"2007-06","Death Cab For Cutie",22
+"2007-06","Depeche Mode",43
+"2007-06","Dwight Yoakam",48
+"2007-06","Echo & The Bunnymen",14
+"2007-06","Editors",10
+"2007-06","Fleetwood Mac",21
+"2007-06","Gordon Lightfoot",10
+"2007-06","Guster",38
+"2007-06","Interpol",20
+"2007-06","Modest Mouse",13
+"2007-06","Pearl Jam",32
+"2007-06","R.E.M.",66
+"2007-06","Radiohead",38
+"2007-06","Red Hot Chili Peppers",11
+"2007-07","Allison Moorer",26
+"2007-07","Black Rebel Motorcycle Club",17
+"2007-07","Blur",14
+"2007-07","Bruce Springsteen",17
+"2007-07","Coldplay",5
+"2007-07","David Bowie",11
+"2007-07","Death Cab For Cutie",16
+"2007-07","Depeche Mode",34
+"2007-07","Dwight Yoakam",29
+"2007-07","Echo & The Bunnymen",14
+"2007-07","Editors",13
+"2007-07","Fleetwood Mac",18
+"2007-07","Gordon Lightfoot",8
+"2007-07","Guster",35
+"2007-07","Interpol",56
+"2007-07","Modest Mouse",12
+"2007-07","Pearl Jam",10
+"2007-07","R.E.M.",97
+"2007-07","Radiohead",20
+"2007-07","Red Hot Chili Peppers",9
+"2007-08","Allison Moorer",19
+"2007-08","Black Rebel Motorcycle Club",12
+"2007-08","Blur",14
+"2007-08","Bruce Springsteen",21
+"2007-08","Coldplay",12
+"2007-08","David Bowie",12
+"2007-08","Death Cab For Cutie",11
+"2007-08","Depeche Mode",16
+"2007-08","Dwight Yoakam",13
+"2007-08","Echo & The Bunnymen",5
+"2007-08","Editors",9
+"2007-08","Fleetwood Mac",15
+"2007-08","Gordon Lightfoot",4
+"2007-08","Guster",19
+"2007-08","Interpol",24
+"2007-08","Modest Mouse",5
+"2007-08","Pearl Jam",12
+"2007-08","R.E.M.",45
+"2007-08","Radiohead",19
+"2007-08","Red Hot Chili Peppers",7
+"2007-09","Allison Moorer",14
+"2007-09","Black Rebel Motorcycle Club",8
+"2007-09","Blur",7
+"2007-09","Bruce Springsteen",17
+"2007-09","Coldplay",9
+"2007-09","David Bowie",4
+"2007-09","Death Cab For Cutie",15
+"2007-09","Depeche Mode",23
+"2007-09","Dwight Yoakam",13
+"2007-09","Echo & The Bunnymen",7
+"2007-09","Editors",6
+"2007-09","Fleetwood Mac",8
+"2007-09","Gordon Lightfoot",3
+"2007-09","Guster",18
+"2007-09","Interpol",18
+"2007-09","Modest Mouse",1
+"2007-09","Pearl Jam",9
+"2007-09","R.E.M.",73
+"2007-09","Radiohead",13
+"2007-09","Red Hot Chili Peppers",3
+"2007-10","Allison Moorer",13
+"2007-10","Black Rebel Motorcycle Club",9
+"2007-10","Blur",11
+"2007-10","Bruce Springsteen",66
+"2007-10","Coldplay",7
+"2007-10","David Bowie",5
+"2007-10","Death Cab For Cutie",29
+"2007-10","Depeche Mode",61
+"2007-10","Dwight Yoakam",45
+"2007-10","Echo & The Bunnymen",2
+"2007-10","Editors",8
+"2007-10","Fleetwood Mac",8
+"2007-10","Gordon Lightfoot",3
+"2007-10","Guster",26
+"2007-10","Interpol",28
+"2007-10","Modest Mouse",6
+"2007-10","Pearl Jam",16
+"2007-10","R.E.M.",147
+"2007-10","Radiohead",139
+"2007-10","Red Hot Chili Peppers",2
+"2007-11","Allison Moorer",19
+"2007-11","Black Rebel Motorcycle Club",13
+"2007-11","Blur",12
+"2007-11","Bruce Springsteen",46
+"2007-11","Coldplay",7
+"2007-11","David Bowie",10
+"2007-11","Death Cab For Cutie",18
+"2007-11","Depeche Mode",27
+"2007-11","Dwight Yoakam",57
+"2007-11","Echo & The Bunnymen",4
+"2007-11","Editors",3
+"2007-11","Fleetwood Mac",15
+"2007-11","Gordon Lightfoot",8
+"2007-11","Guster",13
+"2007-11","Interpol",20
+"2007-11","Modest Mouse",6
+"2007-11","Pearl Jam",13
+"2007-11","R.E.M.",250
+"2007-11","Radiohead",30
+"2007-11","Red Hot Chili Peppers",2
+"2007-12","Allison Moorer",12
+"2007-12","Black Rebel Motorcycle Club",2
+"2007-12","Blur",9
+"2007-12","Bruce Springsteen",29
+"2007-12","Coldplay",9
+"2007-12","David Bowie",9
+"2007-12","Death Cab For Cutie",21
+"2007-12","Depeche Mode",35
+"2007-12","Dwight Yoakam",38
+"2007-12","Echo & The Bunnymen",9
+"2007-12","Editors",8
+"2007-12","Fleetwood Mac",9
+"2007-12","Gordon Lightfoot",3
+"2007-12","Guster",13
+"2007-12","Interpol",21
+"2007-12","Modest Mouse",14
+"2007-12","Pearl Jam",8
+"2007-12","R.E.M.",129
+"2007-12","Radiohead",44
+"2007-12","Red Hot Chili Peppers",4
+"2008-01","Allison Moorer",6
+"2008-01","Black Rebel Motorcycle Club",12
+"2008-01","Blur",5
+"2008-01","Bruce Springsteen",22
+"2008-01","Coldplay",4
+"2008-01","David Bowie",10
+"2008-01","Death Cab For Cutie",30
+"2008-01","Depeche Mode",37
+"2008-01","Dwight Yoakam",38
+"2008-01","Echo & The Bunnymen",5
+"2008-01","Editors",5
+"2008-01","Fleetwood Mac",11
+"2008-01","Gordon Lightfoot",4
+"2008-01","Guster",28
+"2008-01","Interpol",34
+"2008-01","Modest Mouse",11
+"2008-01","Pearl Jam",23
+"2008-01","R.E.M.",133
+"2008-01","Radiohead",59
+"2008-01","Red Hot Chili Peppers",7
+"2008-02","Allison Moorer",5
+"2008-02","Black Rebel Motorcycle Club",3
+"2008-02","Blur",5
+"2008-02","Bruce Springsteen",16
+"2008-02","Coldplay",7
+"2008-02","David Bowie",7
+"2008-02","Death Cab For Cutie",15
+"2008-02","Depeche Mode",13
+"2008-02","Dwight Yoakam",18
+"2008-02","Echo & The Bunnymen",6
+"2008-02","Editors",12
+"2008-02","Fleetwood Mac",7
+"2008-02","Gordon Lightfoot",2
+"2008-02","Guster",20
+"2008-02","Interpol",25
+"2008-02","Modest Mouse",6
+"2008-02","Pearl Jam",19
+"2008-02","R.E.M.",51
+"2008-02","Radiohead",24
+"2008-02","Red Hot Chili Peppers",4
+"2008-03","Allison Moorer",34
+"2008-03","Black Rebel Motorcycle Club",5
+"2008-03","Blur",6
+"2008-03","Bruce Springsteen",24
+"2008-03","Coldplay",7
+"2008-03","David Bowie",6
+"2008-03","Death Cab For Cutie",19
+"2008-03","Depeche Mode",20
+"2008-03","Dwight Yoakam",24
+"2008-03","Echo & The Bunnymen",6
+"2008-03","Editors",8
+"2008-03","Fleetwood Mac",5
+"2008-03","Gordon Lightfoot",4
+"2008-03","Guster",21
+"2008-03","Interpol",19
+"2008-03","Modest Mouse",6
+"2008-03","Pearl Jam",11
+"2008-03","R.E.M.",102
+"2008-03","Radiohead",24
+"2008-03","Red Hot Chili Peppers",8
+"2008-04","Allison Moorer",31
+"2008-04","Black Rebel Motorcycle Club",20
+"2008-04","Blur",5
+"2008-04","Bruce Springsteen",23
+"2008-04","Coldplay",2
+"2008-04","David Bowie",8
+"2008-04","Death Cab For Cutie",43
+"2008-04","Depeche Mode",28
+"2008-04","Dwight Yoakam",35
+"2008-04","Echo & The Bunnymen",6
+"2008-04","Editors",3
+"2008-04","Fleetwood Mac",14
+"2008-04","Gordon Lightfoot",7
+"2008-04","Guster",28
+"2008-04","Interpol",38
+"2008-04","Modest Mouse",16
+"2008-04","Pearl Jam",21
+"2008-04","R.E.M.",118
+"2008-04","Radiohead",31
+"2008-04","Red Hot Chili Peppers",18
+"2008-05","Allison Moorer",23
+"2008-05","Black Rebel Motorcycle Club",16
+"2008-05","Blur",4
+"2008-05","Bruce Springsteen",17
+"2008-05","Coldplay",11
+"2008-05","David Bowie",9
+"2008-05","Death Cab For Cutie",75
+"2008-05","Depeche Mode",33
+"2008-05","Dwight Yoakam",27
+"2008-05","Echo & The Bunnymen",6
+"2008-05","Editors",5
+"2008-05","Fleetwood Mac",7
+"2008-05","Gordon Lightfoot",7
+"2008-05","Guster",23
+"2008-05","Interpol",38
+"2008-05","Modest Mouse",6
+"2008-05","Pearl Jam",22
+"2008-05","R.E.M.",66
+"2008-05","Radiohead",36
+"2008-05","Red Hot Chili Peppers",10
+"2008-06","Allison Moorer",9
+"2008-06","Black Rebel Motorcycle Club",13
+"2008-06","Blur",4
+"2008-06","Bruce Springsteen",18
+"2008-06","Coldplay",16
+"2008-06","David Bowie",7
+"2008-06","Death Cab For Cutie",66
+"2008-06","Depeche Mode",61
+"2008-06","Dwight Yoakam",22
+"2008-06","Echo & The Bunnymen",4
+"2008-06","Editors",3
+"2008-06","Fleetwood Mac",6
+"2008-06","Gordon Lightfoot",5
+"2008-06","Guster",21
+"2008-06","Interpol",35
+"2008-06","Modest Mouse",9
+"2008-06","Pearl Jam",12
+"2008-06","R.E.M.",80
+"2008-06","Radiohead",65
+"2008-06","Red Hot Chili Peppers",18
+"2008-07","Allison Moorer",11
+"2008-07","Black Rebel Motorcycle Club",13
+"2008-07","Blur",5
+"2008-07","Bruce Springsteen",25
+"2008-07","Coldplay",37
+"2008-07","David Bowie",6
+"2008-07","Death Cab For Cutie",70
+"2008-07","Depeche Mode",65
+"2008-07","Dwight Yoakam",47
+"2008-07","Echo & The Bunnymen",2
+"2008-07","Editors",4
+"2008-07","Fleetwood Mac",8
+"2008-07","Gordon Lightfoot",5
+"2008-07","Guster",32
+"2008-07","Interpol",44
+"2008-07","Modest Mouse",14
+"2008-07","Pearl Jam",16
+"2008-07","R.E.M.",94
+"2008-07","Radiohead",86
+"2008-07","Red Hot Chili Peppers",12
+"2008-08","Allison Moorer",10
+"2008-08","Black Rebel Motorcycle Club",10
+"2008-08","Blur",8
+"2008-08","Bruce Springsteen",30
+"2008-08","Coldplay",41
+"2008-08","David Bowie",6
+"2008-08","Death Cab For Cutie",59
+"2008-08","Depeche Mode",51
+"2008-08","Dwight Yoakam",46
+"2008-08","Echo & The Bunnymen",7
+"2008-08","Editors",2
+"2008-08","Fleetwood Mac",20
+"2008-08","Gordon Lightfoot",7
+"2008-08","Guster",17
+"2008-08","Interpol",35
+"2008-08","Modest Mouse",9
+"2008-08","Pearl Jam",27
+"2008-08","R.E.M.",92
+"2008-08","Radiohead",66
+"2008-08","Red Hot Chili Peppers",18
+"2008-09","Allison Moorer",9
+"2008-09","Black Rebel Motorcycle Club",17
+"2008-09","Blur",11
+"2008-09","Bruce Springsteen",30
+"2008-09","Coldplay",17
+"2008-09","David Bowie",11
+"2008-09","Death Cab For Cutie",23
+"2008-09","Depeche Mode",43
+"2008-09","Dwight Yoakam",33
+"2008-09","Echo & The Bunnymen",11
+"2008-09","Editors",4
+"2008-09","Fleetwood Mac",18
+"2008-09","Gordon Lightfoot",6
+"2008-09","Guster",15
+"2008-09","Interpol",28
+"2008-09","Modest Mouse",8
+"2008-09","Pearl Jam",23
+"2008-09","R.E.M.",46
+"2008-09","Radiohead",41
+"2008-09","Red Hot Chili Peppers",16
+"2008-10","Allison Moorer",18
+"2008-10","Black Rebel Motorcycle Club",17
+"2008-10","Blur",7
+"2008-10","Bruce Springsteen",33
+"2008-10","Coldplay",26
+"2008-10","David Bowie",9
+"2008-10","Death Cab For Cutie",32
+"2008-10","Depeche Mode",74
+"2008-10","Dwight Yoakam",54
+"2008-10","Echo & The Bunnymen",12
+"2008-10","Editors",3
+"2008-10","Fleetwood Mac",26
+"2008-10","Gordon Lightfoot",5
+"2008-10","Guster",28
+"2008-10","Interpol",37
+"2008-10","Modest Mouse",5
+"2008-10","Pearl Jam",18
+"2008-10","R.E.M.",87
+"2008-10","Radiohead",88
+"2008-10","Red Hot Chili Peppers",15
+"2008-11","Allison Moorer",7
+"2008-11","Black Rebel Motorcycle Club",18
+"2008-11","Blur",9
+"2008-11","Bruce Springsteen",21
+"2008-11","Coldplay",18
+"2008-11","David Bowie",8
+"2008-11","Death Cab For Cutie",32
+"2008-11","Depeche Mode",68
+"2008-11","Dwight Yoakam",45
+"2008-11","Echo & The Bunnymen",8
+"2008-11","Editors",2
+"2008-11","Fleetwood Mac",14
+"2008-11","Gordon Lightfoot",1
+"2008-11","Guster",20
+"2008-11","Interpol",20
+"2008-11","Modest Mouse",5
+"2008-11","Pearl Jam",19
+"2008-11","R.E.M.",74
+"2008-11","Radiohead",62
+"2008-11","Red Hot Chili Peppers",9
+"2008-12","Allison Moorer",8
+"2008-12","Black Rebel Motorcycle Club",20
+"2008-12","Blur",18
+"2008-12","Bruce Springsteen",39
+"2008-12","Coldplay",22
+"2008-12","David Bowie",12
+"2008-12","Death Cab For Cutie",32
+"2008-12","Depeche Mode",81
+"2008-12","Dwight Yoakam",49
+"2008-12","Echo & The Bunnymen",8
+"2008-12","Editors",7
+"2008-12","Fleetwood Mac",8
+"2008-12","Gordon Lightfoot",7
+"2008-12","Guster",21
+"2008-12","Interpol",29
+"2008-12","Modest Mouse",4
+"2008-12","Pearl Jam",29
+"2008-12","R.E.M.",101
+"2008-12","Radiohead",61
+"2008-12","Red Hot Chili Peppers",21
+"2009-01","Allison Moorer",6
+"2009-01","Black Rebel Motorcycle Club",10
+"2009-01","Blur",12
+"2009-01","Bruce Springsteen",14
+"2009-01","Coldplay",12
+"2009-01","David Bowie",4
+"2009-01","Death Cab For Cutie",20
+"2009-01","Depeche Mode",36
+"2009-01","Dwight Yoakam",23
+"2009-01","Echo & The Bunnymen",3
+"2009-01","Editors",2
+"2009-01","Fleetwood Mac",7
+"2009-01","Gordon Lightfoot",5
+"2009-01","Guster",12
+"2009-01","Interpol",10
+"2009-01","Modest Mouse",5
+"2009-01","Pearl Jam",14
+"2009-01","R.E.M.",42
+"2009-01","Radiohead",22
+"2009-01","Red Hot Chili Peppers",8
+"2009-02","Allison Moorer",14
+"2009-02","Black Rebel Motorcycle Club",15
+"2009-02","Blur",19
+"2009-02","Bruce Springsteen",37
+"2009-02","Coldplay",26
+"2009-02","David Bowie",11
+"2009-02","Death Cab For Cutie",23
+"2009-02","Depeche Mode",77
+"2009-02","Dwight Yoakam",38
+"2009-02","Echo & The Bunnymen",6
+"2009-02","Editors",5
+"2009-02","Fleetwood Mac",13
+"2009-02","Gordon Lightfoot",9
+"2009-02","Guster",20
+"2009-02","Interpol",38
+"2009-02","Modest Mouse",4
+"2009-02","Pearl Jam",25
+"2009-02","R.E.M.",104
+"2009-02","Radiohead",84
+"2009-02","Red Hot Chili Peppers",19
+"2009-03","Allison Moorer",2
+"2009-03","Black Rebel Motorcycle Club",7
+"2009-03","Blur",6
+"2009-03","Bruce Springsteen",21
+"2009-03","Coldplay",11
+"2009-03","David Bowie",7
+"2009-03","Death Cab For Cutie",19
+"2009-03","Depeche Mode",40
+"2009-03","Dwight Yoakam",26
+"2009-03","Echo & The Bunnymen",7
+"2009-03","Editors",1
+"2009-03","Fleetwood Mac",10
+"2009-03","Gordon Lightfoot",4
+"2009-03","Guster",13
+"2009-03","Interpol",13
+"2009-03","Modest Mouse",3
+"2009-03","Pearl Jam",20
+"2009-03","R.E.M.",48
+"2009-03","Radiohead",40
+"2009-03","Red Hot Chili Peppers",6
+"2009-04","Allison Moorer",8
+"2009-04","Black Rebel Motorcycle Club",11
+"2009-04","Blur",13
+"2009-04","Bruce Springsteen",36
+"2009-04","Coldplay",17
+"2009-04","David Bowie",5
+"2009-04","Death Cab For Cutie",22
+"2009-04","Depeche Mode",64
+"2009-04","Dwight Yoakam",28
+"2009-04","Echo & The Bunnymen",8
+"2009-04","Editors",3
+"2009-04","Fleetwood Mac",13
+"2009-04","Gordon Lightfoot",5
+"2009-04","Guster",16
+"2009-04","Interpol",16
+"2009-04","Modest Mouse",6
+"2009-04","Pearl Jam",15
+"2009-04","R.E.M.",73
+"2009-04","Radiohead",48
+"2009-04","Red Hot Chili Peppers",14

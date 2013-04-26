@@ -1,821 +1,821 @@
-month,artist,plays
-2006-02,Arch Enemy,0
-2006-02,At The Gates,0
-2006-02,Children Of Bodom,11
-2006-02,Dark Tranquillity,0
-2006-02,Death,0
-2006-02,Destruction,0
-2006-02,Devildriver,0
-2006-02,Exodus,0
-2006-02,Gardenian,0
-2006-02,In Flames,0
-2006-02,Kreator,0
-2006-02,Megadeth,14
-2006-02,Motörhead,0
-2006-02,Norther,80
-2006-02,Sentenced,0
-2006-02,Sepultura,0
-2006-02,Slayer,0
-2006-02,Soilwork,0
-2006-02,Testament,53
-2006-02,Trivium,20
-2006-03,Arch Enemy,2
-2006-03,At The Gates,0
-2006-03,Children Of Bodom,1
-2006-03,Dark Tranquillity,0
-2006-03,Death,0
-2006-03,Destruction,0
-2006-03,Devildriver,0
-2006-03,Exodus,0
-2006-03,Gardenian,1
-2006-03,In Flames,30
-2006-03,Kreator,0
-2006-03,Megadeth,149
-2006-03,Motörhead,0
-2006-03,Norther,2
-2006-03,Sentenced,0
-2006-03,Sepultura,0
-2006-03,Slayer,0
-2006-03,Soilwork,2
-2006-03,Testament,106
-2006-03,Trivium,40
-2006-04,Arch Enemy,0
-2006-04,At The Gates,0
-2006-04,Children Of Bodom,15
-2006-04,Dark Tranquillity,45
-2006-04,Death,0
-2006-04,Destruction,0
-2006-04,Devildriver,0
-2006-04,Exodus,0
-2006-04,Gardenian,2
-2006-04,In Flames,11
-2006-04,Kreator,0
-2006-04,Megadeth,60
-2006-04,Motörhead,0
-2006-04,Norther,0
-2006-04,Sentenced,12
-2006-04,Sepultura,0
-2006-04,Slayer,0
-2006-04,Soilwork,95
-2006-04,Testament,33
-2006-04,Trivium,5
-2006-05,Arch Enemy,49
-2006-05,At The Gates,0
-2006-05,Children Of Bodom,25
-2006-05,Dark Tranquillity,71
-2006-05,Death,16
-2006-05,Destruction,0
-2006-05,Devildriver,35
-2006-05,Exodus,0
-2006-05,Gardenian,53
-2006-05,In Flames,3
-2006-05,Kreator,0
-2006-05,Megadeth,170
-2006-05,Motörhead,102
-2006-05,Norther,30
-2006-05,Sentenced,9
-2006-05,Sepultura,7
-2006-05,Slayer,0
-2006-05,Soilwork,8
-2006-05,Testament,35
-2006-05,Trivium,1
-2006-06,Arch Enemy,28
-2006-06,At The Gates,9
-2006-06,Children Of Bodom,19
-2006-06,Dark Tranquillity,1
-2006-06,Death,6
-2006-06,Destruction,1
-2006-06,Devildriver,0
-2006-06,Exodus,10
-2006-06,Gardenian,1
-2006-06,In Flames,2
-2006-06,Kreator,21
-2006-06,Megadeth,39
-2006-06,Motörhead,45
-2006-06,Norther,18
-2006-06,Sentenced,5
-2006-06,Sepultura,0
-2006-06,Slayer,0
-2006-06,Soilwork,1
-2006-06,Testament,1
-2006-06,Trivium,2
-2006-07,Arch Enemy,48
-2006-07,At The Gates,25
-2006-07,Children Of Bodom,38
-2006-07,Dark Tranquillity,69
-2006-07,Death,29
-2006-07,Destruction,0
-2006-07,Devildriver,65
-2006-07,Exodus,21
-2006-07,Gardenian,37
-2006-07,In Flames,32
-2006-07,Kreator,77
-2006-07,Megadeth,190
-2006-07,Motörhead,121
-2006-07,Norther,15
-2006-07,Sentenced,31
-2006-07,Sepultura,4
-2006-07,Slayer,0
-2006-07,Soilwork,53
-2006-07,Testament,19
-2006-07,Trivium,34
-2006-08,Arch Enemy,8
-2006-08,At The Gates,0
-2006-08,Children Of Bodom,125
-2006-08,Dark Tranquillity,88
-2006-08,Death,14
-2006-08,Destruction,0
-2006-08,Devildriver,44
-2006-08,Exodus,0
-2006-08,Gardenian,19
-2006-08,In Flames,195
-2006-08,Kreator,29
-2006-08,Megadeth,228
-2006-08,Motörhead,30
-2006-08,Norther,197
-2006-08,Sentenced,80
-2006-08,Sepultura,1
-2006-08,Slayer,25
-2006-08,Soilwork,96
-2006-08,Testament,149
-2006-08,Trivium,26
-2006-09,Arch Enemy,41
-2006-09,At The Gates,0
-2006-09,Children Of Bodom,42
-2006-09,Dark Tranquillity,120
-2006-09,Death,50
-2006-09,Destruction,0
-2006-09,Devildriver,0
-2006-09,Exodus,0
-2006-09,Gardenian,22
-2006-09,In Flames,126
-2006-09,Kreator,102
-2006-09,Megadeth,130
-2006-09,Motörhead,4
-2006-09,Norther,107
-2006-09,Sentenced,96
-2006-09,Sepultura,0
-2006-09,Slayer,4
-2006-09,Soilwork,131
-2006-09,Testament,47
-2006-09,Trivium,61
-2006-10,Arch Enemy,5
-2006-10,At The Gates,1
-2006-10,Children Of Bodom,12
-2006-10,Dark Tranquillity,110
-2006-10,Death,108
-2006-10,Destruction,0
-2006-10,Devildriver,3
-2006-10,Exodus,5
-2006-10,Gardenian,24
-2006-10,In Flames,45
-2006-10,Kreator,2
-2006-10,Megadeth,5
-2006-10,Motörhead,1
-2006-10,Norther,27
-2006-10,Sentenced,18
-2006-10,Sepultura,26
-2006-10,Slayer,6
-2006-10,Soilwork,3
-2006-10,Testament,1
-2006-10,Trivium,26
-2006-11,Arch Enemy,0
-2006-11,At The Gates,24
-2006-11,Children Of Bodom,10
-2006-11,Dark Tranquillity,18
-2006-11,Death,0
-2006-11,Destruction,1
-2006-11,Devildriver,0
-2006-11,Exodus,122
-2006-11,Gardenian,6
-2006-11,In Flames,0
-2006-11,Kreator,40
-2006-11,Megadeth,63
-2006-11,Motörhead,6
-2006-11,Norther,0
-2006-11,Sentenced,0
-2006-11,Sepultura,47
-2006-11,Slayer,15
-2006-11,Soilwork,0
-2006-11,Testament,7
-2006-11,Trivium,0
-2006-12,Arch Enemy,0
-2006-12,At The Gates,8
-2006-12,Children Of Bodom,5
-2006-12,Dark Tranquillity,4
-2006-12,Death,20
-2006-12,Destruction,0
-2006-12,Devildriver,12
-2006-12,Exodus,286
-2006-12,Gardenian,2
-2006-12,In Flames,3
-2006-12,Kreator,129
-2006-12,Megadeth,64
-2006-12,Motörhead,26
-2006-12,Norther,0
-2006-12,Sentenced,12
-2006-12,Sepultura,36
-2006-12,Slayer,0
-2006-12,Soilwork,10
-2006-12,Testament,31
-2006-12,Trivium,3
-2007-01,Arch Enemy,8
-2007-01,At The Gates,30
-2007-01,Children Of Bodom,11
-2007-01,Dark Tranquillity,6
-2007-01,Death,10
-2007-01,Destruction,0
-2007-01,Devildriver,4
-2007-01,Exodus,40
-2007-01,Gardenian,5
-2007-01,In Flames,13
-2007-01,Kreator,10
-2007-01,Megadeth,33
-2007-01,Motörhead,0
-2007-01,Norther,0
-2007-01,Sentenced,10
-2007-01,Sepultura,1
-2007-01,Slayer,10
-2007-01,Soilwork,0
-2007-01,Testament,11
-2007-01,Trivium,1
-2007-02,Arch Enemy,52
-2007-02,At The Gates,4
-2007-02,Children Of Bodom,20
-2007-02,Dark Tranquillity,84
-2007-02,Death,47
-2007-02,Destruction,28
-2007-02,Devildriver,1
-2007-02,Exodus,17
-2007-02,Gardenian,9
-2007-02,In Flames,10
-2007-02,Kreator,16
-2007-02,Megadeth,24
-2007-02,Motörhead,14
-2007-02,Norther,13
-2007-02,Sentenced,16
-2007-02,Sepultura,36
-2007-02,Slayer,99
-2007-02,Soilwork,1
-2007-02,Testament,39
-2007-02,Trivium,1
-2007-03,Arch Enemy,3
-2007-03,At The Gates,1
-2007-03,Children Of Bodom,7
-2007-03,Dark Tranquillity,31
-2007-03,Death,4
-2007-03,Destruction,20
-2007-03,Devildriver,0
-2007-03,Exodus,22
-2007-03,Gardenian,0
-2007-03,In Flames,13
-2007-03,Kreator,18
-2007-03,Megadeth,27
-2007-03,Motörhead,8
-2007-03,Norther,36
-2007-03,Sentenced,13
-2007-03,Sepultura,9
-2007-03,Slayer,249
-2007-03,Soilwork,4
-2007-03,Testament,0
-2007-03,Trivium,0
-2007-04,Arch Enemy,8
-2007-04,At The Gates,6
-2007-04,Children Of Bodom,9
-2007-04,Dark Tranquillity,0
-2007-04,Death,1
-2007-04,Destruction,50
-2007-04,Devildriver,5
-2007-04,Exodus,10
-2007-04,Gardenian,6
-2007-04,In Flames,0
-2007-04,Kreator,14
-2007-04,Megadeth,14
-2007-04,Motörhead,28
-2007-04,Norther,6
-2007-04,Sentenced,0
-2007-04,Sepultura,2
-2007-04,Slayer,47
-2007-04,Soilwork,0
-2007-04,Testament,11
-2007-04,Trivium,0
-2007-05,Arch Enemy,4
-2007-05,At The Gates,0
-2007-05,Children Of Bodom,0
-2007-05,Dark Tranquillity,15
-2007-05,Death,1
-2007-05,Destruction,90
-2007-05,Devildriver,0
-2007-05,Exodus,34
-2007-05,Gardenian,0
-2007-05,In Flames,0
-2007-05,Kreator,5
-2007-05,Megadeth,35
-2007-05,Motörhead,4
-2007-05,Norther,0
-2007-05,Sentenced,0
-2007-05,Sepultura,2
-2007-05,Slayer,10
-2007-05,Soilwork,1
-2007-05,Testament,7
-2007-05,Trivium,0
-2007-06,Arch Enemy,25
-2007-06,At The Gates,11
-2007-06,Children Of Bodom,7
-2007-06,Dark Tranquillity,13
-2007-06,Death,16
-2007-06,Destruction,64
-2007-06,Devildriver,62
-2007-06,Exodus,31
-2007-06,Gardenian,1
-2007-06,In Flames,7
-2007-06,Kreator,2
-2007-06,Megadeth,1
-2007-06,Motörhead,21
-2007-06,Norther,4
-2007-06,Sentenced,14
-2007-06,Sepultura,0
-2007-06,Slayer,87
-2007-06,Soilwork,0
-2007-06,Testament,21
-2007-06,Trivium,1
-2007-07,Arch Enemy,8
-2007-07,At The Gates,1
-2007-07,Children Of Bodom,5
-2007-07,Dark Tranquillity,2
-2007-07,Death,2
-2007-07,Destruction,4
-2007-07,Devildriver,21
-2007-07,Exodus,18
-2007-07,Gardenian,0
-2007-07,In Flames,16
-2007-07,Kreator,43
-2007-07,Megadeth,2
-2007-07,Motörhead,10
-2007-07,Norther,5
-2007-07,Sentenced,6
-2007-07,Sepultura,0
-2007-07,Slayer,22
-2007-07,Soilwork,1
-2007-07,Testament,24
-2007-07,Trivium,6
-2007-08,Arch Enemy,61
-2007-08,At The Gates,23
-2007-08,Children Of Bodom,2
-2007-08,Dark Tranquillity,33
-2007-08,Death,9
-2007-08,Destruction,31
-2007-08,Devildriver,42
-2007-08,Exodus,16
-2007-08,Gardenian,32
-2007-08,In Flames,14
-2007-08,Kreator,51
-2007-08,Megadeth,25
-2007-08,Motörhead,13
-2007-08,Norther,11
-2007-08,Sentenced,11
-2007-08,Sepultura,1
-2007-08,Slayer,37
-2007-08,Soilwork,15
-2007-08,Testament,58
-2007-08,Trivium,2
-2007-09,Arch Enemy,13
-2007-09,At The Gates,28
-2007-09,Children Of Bodom,10
-2007-09,Dark Tranquillity,48
-2007-09,Death,10
-2007-09,Destruction,13
-2007-09,Devildriver,17
-2007-09,Exodus,9
-2007-09,Gardenian,8
-2007-09,In Flames,4
-2007-09,Kreator,10
-2007-09,Megadeth,3
-2007-09,Motörhead,15
-2007-09,Norther,0
-2007-09,Sentenced,33
-2007-09,Sepultura,6
-2007-09,Slayer,55
-2007-09,Soilwork,18
-2007-09,Testament,28
-2007-09,Trivium,1
-2007-10,Arch Enemy,1
-2007-10,At The Gates,51
-2007-10,Children Of Bodom,0
-2007-10,Dark Tranquillity,3
-2007-10,Death,0
-2007-10,Destruction,0
-2007-10,Devildriver,13
-2007-10,Exodus,13
-2007-10,Gardenian,3
-2007-10,In Flames,3
-2007-10,Kreator,16
-2007-10,Megadeth,1
-2007-10,Motörhead,1
-2007-10,Norther,0
-2007-10,Sentenced,19
-2007-10,Sepultura,4
-2007-10,Slayer,24
-2007-10,Soilwork,32
-2007-10,Testament,0
-2007-10,Trivium,0
-2007-11,Arch Enemy,0
-2007-11,At The Gates,10
-2007-11,Children Of Bodom,0
-2007-11,Dark Tranquillity,0
-2007-11,Death,0
-2007-11,Destruction,9
-2007-11,Devildriver,0
-2007-11,Exodus,0
-2007-11,Gardenian,8
-2007-11,In Flames,0
-2007-11,Kreator,20
-2007-11,Megadeth,0
-2007-11,Motörhead,4
-2007-11,Norther,4
-2007-11,Sentenced,0
-2007-11,Sepultura,1
-2007-11,Slayer,7
-2007-11,Soilwork,11
-2007-11,Testament,0
-2007-11,Trivium,0
-2007-12,Arch Enemy,0
-2007-12,At The Gates,0
-2007-12,Children Of Bodom,0
-2007-12,Dark Tranquillity,0
-2007-12,Death,15
-2007-12,Destruction,2
-2007-12,Devildriver,0
-2007-12,Exodus,0
-2007-12,Gardenian,0
-2007-12,In Flames,0
-2007-12,Kreator,18
-2007-12,Megadeth,19
-2007-12,Motörhead,3
-2007-12,Norther,12
-2007-12,Sentenced,3
-2007-12,Sepultura,0
-2007-12,Slayer,0
-2007-12,Soilwork,0
-2007-12,Testament,0
-2007-12,Trivium,6
-2008-01,Arch Enemy,0
-2008-01,At The Gates,0
-2008-01,Children Of Bodom,1
-2008-01,Dark Tranquillity,0
-2008-01,Death,0
-2008-01,Destruction,0
-2008-01,Devildriver,11
-2008-01,Exodus,8
-2008-01,Gardenian,0
-2008-01,In Flames,0
-2008-01,Kreator,0
-2008-01,Megadeth,12
-2008-01,Motörhead,0
-2008-01,Norther,0
-2008-01,Sentenced,0
-2008-01,Sepultura,0
-2008-01,Slayer,23
-2008-01,Soilwork,0
-2008-01,Testament,14
-2008-01,Trivium,0
-2008-02,Arch Enemy,3
-2008-02,At The Gates,2
-2008-02,Children Of Bodom,4
-2008-02,Dark Tranquillity,0
-2008-02,Death,0
-2008-02,Destruction,0
-2008-02,Devildriver,3
-2008-02,Exodus,5
-2008-02,Gardenian,0
-2008-02,In Flames,0
-2008-02,Kreator,0
-2008-02,Megadeth,0
-2008-02,Motörhead,0
-2008-02,Norther,0
-2008-02,Sentenced,0
-2008-02,Sepultura,0
-2008-02,Slayer,7
-2008-02,Soilwork,0
-2008-02,Testament,5
-2008-02,Trivium,0
-2008-03,Arch Enemy,0
-2008-03,At The Gates,0
-2008-03,Children Of Bodom,12
-2008-03,Dark Tranquillity,0
-2008-03,Death,0
-2008-03,Destruction,0
-2008-03,Devildriver,0
-2008-03,Exodus,0
-2008-03,Gardenian,0
-2008-03,In Flames,0
-2008-03,Kreator,0
-2008-03,Megadeth,0
-2008-03,Motörhead,0
-2008-03,Norther,0
-2008-03,Sentenced,0
-2008-03,Sepultura,0
-2008-03,Slayer,0
-2008-03,Soilwork,0
-2008-03,Testament,27
-2008-03,Trivium,0
-2008-04,Arch Enemy,0
-2008-04,At The Gates,0
-2008-04,Children Of Bodom,0
-2008-04,Dark Tranquillity,0
-2008-04,Death,0
-2008-04,Destruction,2
-2008-04,Devildriver,0
-2008-04,Exodus,0
-2008-04,Gardenian,0
-2008-04,In Flames,0
-2008-04,Kreator,0
-2008-04,Megadeth,5
-2008-04,Motörhead,3
-2008-04,Norther,0
-2008-04,Sentenced,0
-2008-04,Sepultura,0
-2008-04,Slayer,0
-2008-04,Soilwork,0
-2008-04,Testament,2
-2008-04,Trivium,0
-2008-05,Arch Enemy,0
-2008-05,At The Gates,5
-2008-05,Children Of Bodom,0
-2008-05,Dark Tranquillity,4
-2008-05,Death,0
-2008-05,Destruction,0
-2008-05,Devildriver,0
-2008-05,Exodus,0
-2008-05,Gardenian,0
-2008-05,In Flames,0
-2008-05,Kreator,3
-2008-05,Megadeth,7
-2008-05,Motörhead,0
-2008-05,Norther,0
-2008-05,Sentenced,0
-2008-05,Sepultura,1
-2008-05,Slayer,0
-2008-05,Soilwork,0
-2008-05,Testament,0
-2008-05,Trivium,0
-2008-06,Arch Enemy,0
-2008-06,At The Gates,0
-2008-06,Children Of Bodom,0
-2008-06,Dark Tranquillity,5
-2008-06,Death,0
-2008-06,Destruction,0
-2008-06,Devildriver,0
-2008-06,Exodus,0
-2008-06,Gardenian,0
-2008-06,In Flames,0
-2008-06,Kreator,0
-2008-06,Megadeth,0
-2008-06,Motörhead,3
-2008-06,Norther,0
-2008-06,Sentenced,0
-2008-06,Sepultura,0
-2008-06,Slayer,0
-2008-06,Soilwork,0
-2008-06,Testament,9
-2008-06,Trivium,0
-2008-07,Arch Enemy,0
-2008-07,At The Gates,0
-2008-07,Children Of Bodom,0
-2008-07,Dark Tranquillity,0
-2008-07,Death,0
-2008-07,Destruction,0
-2008-07,Devildriver,0
-2008-07,Exodus,0
-2008-07,Gardenian,0
-2008-07,In Flames,0
-2008-07,Kreator,0
-2008-07,Megadeth,6
-2008-07,Motörhead,32
-2008-07,Norther,12
-2008-07,Sentenced,0
-2008-07,Sepultura,0
-2008-07,Slayer,0
-2008-07,Soilwork,1
-2008-07,Testament,0
-2008-07,Trivium,0
-2008-08,Arch Enemy,0
-2008-08,At The Gates,8
-2008-08,Children Of Bodom,4
-2008-08,Dark Tranquillity,17
-2008-08,Death,0
-2008-08,Destruction,1
-2008-08,Devildriver,7
-2008-08,Exodus,9
-2008-08,Gardenian,6
-2008-08,In Flames,0
-2008-08,Kreator,25
-2008-08,Megadeth,0
-2008-08,Motörhead,8
-2008-08,Norther,0
-2008-08,Sentenced,0
-2008-08,Sepultura,2
-2008-08,Slayer,2
-2008-08,Soilwork,10
-2008-08,Testament,0
-2008-08,Trivium,8
-2008-09,Arch Enemy,0
-2008-09,At The Gates,0
-2008-09,Children Of Bodom,0
-2008-09,Dark Tranquillity,0
-2008-09,Death,0
-2008-09,Destruction,0
-2008-09,Devildriver,3
-2008-09,Exodus,0
-2008-09,Gardenian,1
-2008-09,In Flames,1
-2008-09,Kreator,0
-2008-09,Megadeth,0
-2008-09,Motörhead,0
-2008-09,Norther,0
-2008-09,Sentenced,0
-2008-09,Sepultura,1
-2008-09,Slayer,10
-2008-09,Soilwork,1
-2008-09,Testament,0
-2008-09,Trivium,3
-2008-10,Arch Enemy,7
-2008-10,At The Gates,2
-2008-10,Children Of Bodom,0
-2008-10,Dark Tranquillity,12
-2008-10,Death,0
-2008-10,Destruction,0
-2008-10,Devildriver,0
-2008-10,Exodus,5
-2008-10,Gardenian,0
-2008-10,In Flames,0
-2008-10,Kreator,9
-2008-10,Megadeth,5
-2008-10,Motörhead,0
-2008-10,Norther,0
-2008-10,Sentenced,0
-2008-10,Sepultura,11
-2008-10,Slayer,0
-2008-10,Soilwork,0
-2008-10,Testament,0
-2008-10,Trivium,0
-2008-11,Arch Enemy,0
-2008-11,At The Gates,0
-2008-11,Children Of Bodom,0
-2008-11,Dark Tranquillity,4
-2008-11,Death,0
-2008-11,Destruction,0
-2008-11,Devildriver,0
-2008-11,Exodus,0
-2008-11,Gardenian,0
-2008-11,In Flames,0
-2008-11,Kreator,5
-2008-11,Megadeth,0
-2008-11,Motörhead,0
-2008-11,Norther,0
-2008-11,Sentenced,0
-2008-11,Sepultura,0
-2008-11,Slayer,0
-2008-11,Soilwork,0
-2008-11,Testament,0
-2008-11,Trivium,0
-2008-12,Arch Enemy,0
-2008-12,At The Gates,3
-2008-12,Children Of Bodom,0
-2008-12,Dark Tranquillity,1
-2008-12,Death,0
-2008-12,Destruction,0
-2008-12,Devildriver,0
-2008-12,Exodus,0
-2008-12,Gardenian,0
-2008-12,In Flames,0
-2008-12,Kreator,12
-2008-12,Megadeth,0
-2008-12,Motörhead,0
-2008-12,Norther,0
-2008-12,Sentenced,1
-2008-12,Sepultura,0
-2008-12,Slayer,0
-2008-12,Soilwork,0
-2008-12,Testament,0
-2008-12,Trivium,4
-2009-01,Arch Enemy,0
-2009-01,At The Gates,0
-2009-01,Children Of Bodom,0
-2009-01,Dark Tranquillity,0
-2009-01,Death,0
-2009-01,Destruction,44
-2009-01,Devildriver,0
-2009-01,Exodus,2
-2009-01,Gardenian,0
-2009-01,In Flames,0
-2009-01,Kreator,0
-2009-01,Megadeth,0
-2009-01,Motörhead,3
-2009-01,Norther,0
-2009-01,Sentenced,0
-2009-01,Sepultura,0
-2009-01,Slayer,0
-2009-01,Soilwork,0
-2009-01,Testament,0
-2009-01,Trivium,0
-2009-02,Arch Enemy,0
-2009-02,At The Gates,0
-2009-02,Children Of Bodom,0
-2009-02,Dark Tranquillity,1
-2009-02,Death,0
-2009-02,Destruction,10
-2009-02,Devildriver,6
-2009-02,Exodus,0
-2009-02,Gardenian,0
-2009-02,In Flames,5
-2009-02,Kreator,0
-2009-02,Megadeth,17
-2009-02,Motörhead,9
-2009-02,Norther,8
-2009-02,Sentenced,0
-2009-02,Sepultura,0
-2009-02,Slayer,0
-2009-02,Soilwork,0
-2009-02,Testament,0
-2009-02,Trivium,0
-2009-03,Arch Enemy,0
-2009-03,At The Gates,0
-2009-03,Children Of Bodom,0
-2009-03,Dark Tranquillity,0
-2009-03,Death,1
-2009-03,Destruction,5
-2009-03,Devildriver,0
-2009-03,Exodus,0
-2009-03,Gardenian,0
-2009-03,In Flames,1
-2009-03,Kreator,0
-2009-03,Megadeth,0
-2009-03,Motörhead,0
-2009-03,Norther,0
-2009-03,Sentenced,1
-2009-03,Sepultura,0
-2009-03,Slayer,0
-2009-03,Soilwork,1
-2009-03,Testament,1
-2009-03,Trivium,0
-2009-04,Arch Enemy,0
-2009-04,At The Gates,0
-2009-04,Children Of Bodom,0
-2009-04,Dark Tranquillity,0
-2009-04,Death,0
-2009-04,Destruction,3
-2009-04,Devildriver,0
-2009-04,Exodus,0
-2009-04,Gardenian,0
-2009-04,In Flames,0
-2009-04,Kreator,0
-2009-04,Megadeth,0
-2009-04,Motörhead,0
-2009-04,Norther,0
-2009-04,Sentenced,0
-2009-04,Sepultura,0
-2009-04,Slayer,0
-2009-04,Soilwork,0
-2009-04,Testament,0
-2009-04,Trivium,0
-2009-05,Arch Enemy,0
-2009-05,At The Gates,0
-2009-05,Children Of Bodom,0
-2009-05,Dark Tranquillity,0
-2009-05,Death,0
-2009-05,Destruction,0
-2009-05,Devildriver,0
-2009-05,Exodus,0
-2009-05,Gardenian,0
-2009-05,In Flames,0
-2009-05,Kreator,0
-2009-05,Megadeth,0
-2009-05,Motörhead,0
-2009-05,Norther,0
-2009-05,Sentenced,0
-2009-05,Sepultura,0
-2009-05,Slayer,0
-2009-05,Soilwork,0
-2009-05,Testament,0
-2009-05,Trivium,0
-2009-06,Arch Enemy,1
-2009-06,At The Gates,0
-2009-06,Children Of Bodom,0
-2009-06,Dark Tranquillity,1
-2009-06,Death,0
-2009-06,Destruction,0
-2009-06,Devildriver,0
-2009-06,Exodus,0
-2009-06,Gardenian,0
-2009-06,In Flames,1
-2009-06,Kreator,0
-2009-06,Megadeth,0
-2009-06,Motörhead,0
-2009-06,Norther,1
-2009-06,Sentenced,0
-2009-06,Sepultura,0
-2009-06,Slayer,0
-2009-06,Soilwork,1
-2009-06,Testament,0
-2009-06,Trivium,0
+"month","artist","plays"
+"2006-02","Arch Enemy",0
+"2006-02","At The Gates",0
+"2006-02","Children Of Bodom",11
+"2006-02","Dark Tranquillity",0
+"2006-02","Death",0
+"2006-02","Destruction",0
+"2006-02","Devildriver",0
+"2006-02","Exodus",0
+"2006-02","Gardenian",0
+"2006-02","In Flames",0
+"2006-02","Kreator",0
+"2006-02","Megadeth",14
+"2006-02","Motörhead",0
+"2006-02","Norther",80
+"2006-02","Sentenced",0
+"2006-02","Sepultura",0
+"2006-02","Slayer",0
+"2006-02","Soilwork",0
+"2006-02","Testament",53
+"2006-02","Trivium",20
+"2006-03","Arch Enemy",2
+"2006-03","At The Gates",0
+"2006-03","Children Of Bodom",1
+"2006-03","Dark Tranquillity",0
+"2006-03","Death",0
+"2006-03","Destruction",0
+"2006-03","Devildriver",0
+"2006-03","Exodus",0
+"2006-03","Gardenian",1
+"2006-03","In Flames",30
+"2006-03","Kreator",0
+"2006-03","Megadeth",149
+"2006-03","Motörhead",0
+"2006-03","Norther",2
+"2006-03","Sentenced",0
+"2006-03","Sepultura",0
+"2006-03","Slayer",0
+"2006-03","Soilwork",2
+"2006-03","Testament",106
+"2006-03","Trivium",40
+"2006-04","Arch Enemy",0
+"2006-04","At The Gates",0
+"2006-04","Children Of Bodom",15
+"2006-04","Dark Tranquillity",45
+"2006-04","Death",0
+"2006-04","Destruction",0
+"2006-04","Devildriver",0
+"2006-04","Exodus",0
+"2006-04","Gardenian",2
+"2006-04","In Flames",11
+"2006-04","Kreator",0
+"2006-04","Megadeth",60
+"2006-04","Motörhead",0
+"2006-04","Norther",0
+"2006-04","Sentenced",12
+"2006-04","Sepultura",0
+"2006-04","Slayer",0
+"2006-04","Soilwork",95
+"2006-04","Testament",33
+"2006-04","Trivium",5
+"2006-05","Arch Enemy",49
+"2006-05","At The Gates",0
+"2006-05","Children Of Bodom",25
+"2006-05","Dark Tranquillity",71
+"2006-05","Death",16
+"2006-05","Destruction",0
+"2006-05","Devildriver",35
+"2006-05","Exodus",0
+"2006-05","Gardenian",53
+"2006-05","In Flames",3
+"2006-05","Kreator",0
+"2006-05","Megadeth",170
+"2006-05","Motörhead",102
+"2006-05","Norther",30
+"2006-05","Sentenced",9
+"2006-05","Sepultura",7
+"2006-05","Slayer",0
+"2006-05","Soilwork",8
+"2006-05","Testament",35
+"2006-05","Trivium",1
+"2006-06","Arch Enemy",28
+"2006-06","At The Gates",9
+"2006-06","Children Of Bodom",19
+"2006-06","Dark Tranquillity",1
+"2006-06","Death",6
+"2006-06","Destruction",1
+"2006-06","Devildriver",0
+"2006-06","Exodus",10
+"2006-06","Gardenian",1
+"2006-06","In Flames",2
+"2006-06","Kreator",21
+"2006-06","Megadeth",39
+"2006-06","Motörhead",45
+"2006-06","Norther",18
+"2006-06","Sentenced",5
+"2006-06","Sepultura",0
+"2006-06","Slayer",0
+"2006-06","Soilwork",1
+"2006-06","Testament",1
+"2006-06","Trivium",2
+"2006-07","Arch Enemy",48
+"2006-07","At The Gates",25
+"2006-07","Children Of Bodom",38
+"2006-07","Dark Tranquillity",69
+"2006-07","Death",29
+"2006-07","Destruction",0
+"2006-07","Devildriver",65
+"2006-07","Exodus",21
+"2006-07","Gardenian",37
+"2006-07","In Flames",32
+"2006-07","Kreator",77
+"2006-07","Megadeth",190
+"2006-07","Motörhead",121
+"2006-07","Norther",15
+"2006-07","Sentenced",31
+"2006-07","Sepultura",4
+"2006-07","Slayer",0
+"2006-07","Soilwork",53
+"2006-07","Testament",19
+"2006-07","Trivium",34
+"2006-08","Arch Enemy",8
+"2006-08","At The Gates",0
+"2006-08","Children Of Bodom",125
+"2006-08","Dark Tranquillity",88
+"2006-08","Death",14
+"2006-08","Destruction",0
+"2006-08","Devildriver",44
+"2006-08","Exodus",0
+"2006-08","Gardenian",19
+"2006-08","In Flames",195
+"2006-08","Kreator",29
+"2006-08","Megadeth",228
+"2006-08","Motörhead",30
+"2006-08","Norther",197
+"2006-08","Sentenced",80
+"2006-08","Sepultura",1
+"2006-08","Slayer",25
+"2006-08","Soilwork",96
+"2006-08","Testament",149
+"2006-08","Trivium",26
+"2006-09","Arch Enemy",41
+"2006-09","At The Gates",0
+"2006-09","Children Of Bodom",42
+"2006-09","Dark Tranquillity",120
+"2006-09","Death",50
+"2006-09","Destruction",0
+"2006-09","Devildriver",0
+"2006-09","Exodus",0
+"2006-09","Gardenian",22
+"2006-09","In Flames",126
+"2006-09","Kreator",102
+"2006-09","Megadeth",130
+"2006-09","Motörhead",4
+"2006-09","Norther",107
+"2006-09","Sentenced",96
+"2006-09","Sepultura",0
+"2006-09","Slayer",4
+"2006-09","Soilwork",131
+"2006-09","Testament",47
+"2006-09","Trivium",61
+"2006-10","Arch Enemy",5
+"2006-10","At The Gates",1
+"2006-10","Children Of Bodom",12
+"2006-10","Dark Tranquillity",110
+"2006-10","Death",108
+"2006-10","Destruction",0
+"2006-10","Devildriver",3
+"2006-10","Exodus",5
+"2006-10","Gardenian",24
+"2006-10","In Flames",45
+"2006-10","Kreator",2
+"2006-10","Megadeth",5
+"2006-10","Motörhead",1
+"2006-10","Norther",27
+"2006-10","Sentenced",18
+"2006-10","Sepultura",26
+"2006-10","Slayer",6
+"2006-10","Soilwork",3
+"2006-10","Testament",1
+"2006-10","Trivium",26
+"2006-11","Arch Enemy",0
+"2006-11","At The Gates",24
+"2006-11","Children Of Bodom",10
+"2006-11","Dark Tranquillity",18
+"2006-11","Death",0
+"2006-11","Destruction",1
+"2006-11","Devildriver",0
+"2006-11","Exodus",122
+"2006-11","Gardenian",6
+"2006-11","In Flames",0
+"2006-11","Kreator",40
+"2006-11","Megadeth",63
+"2006-11","Motörhead",6
+"2006-11","Norther",0
+"2006-11","Sentenced",0
+"2006-11","Sepultura",47
+"2006-11","Slayer",15
+"2006-11","Soilwork",0
+"2006-11","Testament",7
+"2006-11","Trivium",0
+"2006-12","Arch Enemy",0
+"2006-12","At The Gates",8
+"2006-12","Children Of Bodom",5
+"2006-12","Dark Tranquillity",4
+"2006-12","Death",20
+"2006-12","Destruction",0
+"2006-12","Devildriver",12
+"2006-12","Exodus",286
+"2006-12","Gardenian",2
+"2006-12","In Flames",3
+"2006-12","Kreator",129
+"2006-12","Megadeth",64
+"2006-12","Motörhead",26
+"2006-12","Norther",0
+"2006-12","Sentenced",12
+"2006-12","Sepultura",36
+"2006-12","Slayer",0
+"2006-12","Soilwork",10
+"2006-12","Testament",31
+"2006-12","Trivium",3
+"2007-01","Arch Enemy",8
+"2007-01","At The Gates",30
+"2007-01","Children Of Bodom",11
+"2007-01","Dark Tranquillity",6
+"2007-01","Death",10
+"2007-01","Destruction",0
+"2007-01","Devildriver",4
+"2007-01","Exodus",40
+"2007-01","Gardenian",5
+"2007-01","In Flames",13
+"2007-01","Kreator",10
+"2007-01","Megadeth",33
+"2007-01","Motörhead",0
+"2007-01","Norther",0
+"2007-01","Sentenced",10
+"2007-01","Sepultura",1
+"2007-01","Slayer",10
+"2007-01","Soilwork",0
+"2007-01","Testament",11
+"2007-01","Trivium",1
+"2007-02","Arch Enemy",52
+"2007-02","At The Gates",4
+"2007-02","Children Of Bodom",20
+"2007-02","Dark Tranquillity",84
+"2007-02","Death",47
+"2007-02","Destruction",28
+"2007-02","Devildriver",1
+"2007-02","Exodus",17
+"2007-02","Gardenian",9
+"2007-02","In Flames",10
+"2007-02","Kreator",16
+"2007-02","Megadeth",24
+"2007-02","Motörhead",14
+"2007-02","Norther",13
+"2007-02","Sentenced",16
+"2007-02","Sepultura",36
+"2007-02","Slayer",99
+"2007-02","Soilwork",1
+"2007-02","Testament",39
+"2007-02","Trivium",1
+"2007-03","Arch Enemy",3
+"2007-03","At The Gates",1
+"2007-03","Children Of Bodom",7
+"2007-03","Dark Tranquillity",31
+"2007-03","Death",4
+"2007-03","Destruction",20
+"2007-03","Devildriver",0
+"2007-03","Exodus",22
+"2007-03","Gardenian",0
+"2007-03","In Flames",13
+"2007-03","Kreator",18
+"2007-03","Megadeth",27
+"2007-03","Motörhead",8
+"2007-03","Norther",36
+"2007-03","Sentenced",13
+"2007-03","Sepultura",9
+"2007-03","Slayer",249
+"2007-03","Soilwork",4
+"2007-03","Testament",0
+"2007-03","Trivium",0
+"2007-04","Arch Enemy",8
+"2007-04","At The Gates",6
+"2007-04","Children Of Bodom",9
+"2007-04","Dark Tranquillity",0
+"2007-04","Death",1
+"2007-04","Destruction",50
+"2007-04","Devildriver",5
+"2007-04","Exodus",10
+"2007-04","Gardenian",6
+"2007-04","In Flames",0
+"2007-04","Kreator",14
+"2007-04","Megadeth",14
+"2007-04","Motörhead",28
+"2007-04","Norther",6
+"2007-04","Sentenced",0
+"2007-04","Sepultura",2
+"2007-04","Slayer",47
+"2007-04","Soilwork",0
+"2007-04","Testament",11
+"2007-04","Trivium",0
+"2007-05","Arch Enemy",4
+"2007-05","At The Gates",0
+"2007-05","Children Of Bodom",0
+"2007-05","Dark Tranquillity",15
+"2007-05","Death",1
+"2007-05","Destruction",90
+"2007-05","Devildriver",0
+"2007-05","Exodus",34
+"2007-05","Gardenian",0
+"2007-05","In Flames",0
+"2007-05","Kreator",5
+"2007-05","Megadeth",35
+"2007-05","Motörhead",4
+"2007-05","Norther",0
+"2007-05","Sentenced",0
+"2007-05","Sepultura",2
+"2007-05","Slayer",10
+"2007-05","Soilwork",1
+"2007-05","Testament",7
+"2007-05","Trivium",0
+"2007-06","Arch Enemy",25
+"2007-06","At The Gates",11
+"2007-06","Children Of Bodom",7
+"2007-06","Dark Tranquillity",13
+"2007-06","Death",16
+"2007-06","Destruction",64
+"2007-06","Devildriver",62
+"2007-06","Exodus",31
+"2007-06","Gardenian",1
+"2007-06","In Flames",7
+"2007-06","Kreator",2
+"2007-06","Megadeth",1
+"2007-06","Motörhead",21
+"2007-06","Norther",4
+"2007-06","Sentenced",14
+"2007-06","Sepultura",0
+"2007-06","Slayer",87
+"2007-06","Soilwork",0
+"2007-06","Testament",21
+"2007-06","Trivium",1
+"2007-07","Arch Enemy",8
+"2007-07","At The Gates",1
+"2007-07","Children Of Bodom",5
+"2007-07","Dark Tranquillity",2
+"2007-07","Death",2
+"2007-07","Destruction",4
+"2007-07","Devildriver",21
+"2007-07","Exodus",18
+"2007-07","Gardenian",0
+"2007-07","In Flames",16
+"2007-07","Kreator",43
+"2007-07","Megadeth",2
+"2007-07","Motörhead",10
+"2007-07","Norther",5
+"2007-07","Sentenced",6
+"2007-07","Sepultura",0
+"2007-07","Slayer",22
+"2007-07","Soilwork",1
+"2007-07","Testament",24
+"2007-07","Trivium",6
+"2007-08","Arch Enemy",61
+"2007-08","At The Gates",23
+"2007-08","Children Of Bodom",2
+"2007-08","Dark Tranquillity",33
+"2007-08","Death",9
+"2007-08","Destruction",31
+"2007-08","Devildriver",42
+"2007-08","Exodus",16
+"2007-08","Gardenian",32
+"2007-08","In Flames",14
+"2007-08","Kreator",51
+"2007-08","Megadeth",25
+"2007-08","Motörhead",13
+"2007-08","Norther",11
+"2007-08","Sentenced",11
+"2007-08","Sepultura",1
+"2007-08","Slayer",37
+"2007-08","Soilwork",15
+"2007-08","Testament",58
+"2007-08","Trivium",2
+"2007-09","Arch Enemy",13
+"2007-09","At The Gates",28
+"2007-09","Children Of Bodom",10
+"2007-09","Dark Tranquillity",48
+"2007-09","Death",10
+"2007-09","Destruction",13
+"2007-09","Devildriver",17
+"2007-09","Exodus",9
+"2007-09","Gardenian",8
+"2007-09","In Flames",4
+"2007-09","Kreator",10
+"2007-09","Megadeth",3
+"2007-09","Motörhead",15
+"2007-09","Norther",0
+"2007-09","Sentenced",33
+"2007-09","Sepultura",6
+"2007-09","Slayer",55
+"2007-09","Soilwork",18
+"2007-09","Testament",28
+"2007-09","Trivium",1
+"2007-10","Arch Enemy",1
+"2007-10","At The Gates",51
+"2007-10","Children Of Bodom",0
+"2007-10","Dark Tranquillity",3
+"2007-10","Death",0
+"2007-10","Destruction",0
+"2007-10","Devildriver",13
+"2007-10","Exodus",13
+"2007-10","Gardenian",3
+"2007-10","In Flames",3
+"2007-10","Kreator",16
+"2007-10","Megadeth",1
+"2007-10","Motörhead",1
+"2007-10","Norther",0
+"2007-10","Sentenced",19
+"2007-10","Sepultura",4
+"2007-10","Slayer",24
+"2007-10","Soilwork",32
+"2007-10","Testament",0
+"2007-10","Trivium",0
+"2007-11","Arch Enemy",0
+"2007-11","At The Gates",10
+"2007-11","Children Of Bodom",0
+"2007-11","Dark Tranquillity",0
+"2007-11","Death",0
+"2007-11","Destruction",9
+"2007-11","Devildriver",0
+"2007-11","Exodus",0
+"2007-11","Gardenian",8
+"2007-11","In Flames",0
+"2007-11","Kreator",20
+"2007-11","Megadeth",0
+"2007-11","Motörhead",4
+"2007-11","Norther",4
+"2007-11","Sentenced",0
+"2007-11","Sepultura",1
+"2007-11","Slayer",7
+"2007-11","Soilwork",11
+"2007-11","Testament",0
+"2007-11","Trivium",0
+"2007-12","Arch Enemy",0
+"2007-12","At The Gates",0
+"2007-12","Children Of Bodom",0
+"2007-12","Dark Tranquillity",0
+"2007-12","Death",15
+"2007-12","Destruction",2
+"2007-12","Devildriver",0
+"2007-12","Exodus",0
+"2007-12","Gardenian",0
+"2007-12","In Flames",0
+"2007-12","Kreator",18
+"2007-12","Megadeth",19
+"2007-12","Motörhead",3
+"2007-12","Norther",12
+"2007-12","Sentenced",3
+"2007-12","Sepultura",0
+"2007-12","Slayer",0
+"2007-12","Soilwork",0
+"2007-12","Testament",0
+"2007-12","Trivium",6
+"2008-01","Arch Enemy",0
+"2008-01","At The Gates",0
+"2008-01","Children Of Bodom",1
+"2008-01","Dark Tranquillity",0
+"2008-01","Death",0
+"2008-01","Destruction",0
+"2008-01","Devildriver",11
+"2008-01","Exodus",8
+"2008-01","Gardenian",0
+"2008-01","In Flames",0
+"2008-01","Kreator",0
+"2008-01","Megadeth",12
+"2008-01","Motörhead",0
+"2008-01","Norther",0
+"2008-01","Sentenced",0
+"2008-01","Sepultura",0
+"2008-01","Slayer",23
+"2008-01","Soilwork",0
+"2008-01","Testament",14
+"2008-01","Trivium",0
+"2008-02","Arch Enemy",3
+"2008-02","At The Gates",2
+"2008-02","Children Of Bodom",4
+"2008-02","Dark Tranquillity",0
+"2008-02","Death",0
+"2008-02","Destruction",0
+"2008-02","Devildriver",3
+"2008-02","Exodus",5
+"2008-02","Gardenian",0
+"2008-02","In Flames",0
+"2008-02","Kreator",0
+"2008-02","Megadeth",0
+"2008-02","Motörhead",0
+"2008-02","Norther",0
+"2008-02","Sentenced",0
+"2008-02","Sepultura",0
+"2008-02","Slayer",7
+"2008-02","Soilwork",0
+"2008-02","Testament",5
+"2008-02","Trivium",0
+"2008-03","Arch Enemy",0
+"2008-03","At The Gates",0
+"2008-03","Children Of Bodom",12
+"2008-03","Dark Tranquillity",0
+"2008-03","Death",0
+"2008-03","Destruction",0
+"2008-03","Devildriver",0
+"2008-03","Exodus",0
+"2008-03","Gardenian",0
+"2008-03","In Flames",0
+"2008-03","Kreator",0
+"2008-03","Megadeth",0
+"2008-03","Motörhead",0
+"2008-03","Norther",0
+"2008-03","Sentenced",0
+"2008-03","Sepultura",0
+"2008-03","Slayer",0
+"2008-03","Soilwork",0
+"2008-03","Testament",27
+"2008-03","Trivium",0
+"2008-04","Arch Enemy",0
+"2008-04","At The Gates",0
+"2008-04","Children Of Bodom",0
+"2008-04","Dark Tranquillity",0
+"2008-04","Death",0
+"2008-04","Destruction",2
+"2008-04","Devildriver",0
+"2008-04","Exodus",0
+"2008-04","Gardenian",0
+"2008-04","In Flames",0
+"2008-04","Kreator",0
+"2008-04","Megadeth",5
+"2008-04","Motörhead",3
+"2008-04","Norther",0
+"2008-04","Sentenced",0
+"2008-04","Sepultura",0
+"2008-04","Slayer",0
+"2008-04","Soilwork",0
+"2008-04","Testament",2
+"2008-04","Trivium",0
+"2008-05","Arch Enemy",0
+"2008-05","At The Gates",5
+"2008-05","Children Of Bodom",0
+"2008-05","Dark Tranquillity",4
+"2008-05","Death",0
+"2008-05","Destruction",0
+"2008-05","Devildriver",0
+"2008-05","Exodus",0
+"2008-05","Gardenian",0
+"2008-05","In Flames",0
+"2008-05","Kreator",3
+"2008-05","Megadeth",7
+"2008-05","Motörhead",0
+"2008-05","Norther",0
+"2008-05","Sentenced",0
+"2008-05","Sepultura",1
+"2008-05","Slayer",0
+"2008-05","Soilwork",0
+"2008-05","Testament",0
+"2008-05","Trivium",0
+"2008-06","Arch Enemy",0
+"2008-06","At The Gates",0
+"2008-06","Children Of Bodom",0
+"2008-06","Dark Tranquillity",5
+"2008-06","Death",0
+"2008-06","Destruction",0
+"2008-06","Devildriver",0
+"2008-06","Exodus",0
+"2008-06","Gardenian",0
+"2008-06","In Flames",0
+"2008-06","Kreator",0
+"2008-06","Megadeth",0
+"2008-06","Motörhead",3
+"2008-06","Norther",0
+"2008-06","Sentenced",0
+"2008-06","Sepultura",0
+"2008-06","Slayer",0
+"2008-06","Soilwork",0
+"2008-06","Testament",9
+"2008-06","Trivium",0
+"2008-07","Arch Enemy",0
+"2008-07","At The Gates",0
+"2008-07","Children Of Bodom",0
+"2008-07","Dark Tranquillity",0
+"2008-07","Death",0
+"2008-07","Destruction",0
+"2008-07","Devildriver",0
+"2008-07","Exodus",0
+"2008-07","Gardenian",0
+"2008-07","In Flames",0
+"2008-07","Kreator",0
+"2008-07","Megadeth",6
+"2008-07","Motörhead",32
+"2008-07","Norther",12
+"2008-07","Sentenced",0
+"2008-07","Sepultura",0
+"2008-07","Slayer",0
+"2008-07","Soilwork",1
+"2008-07","Testament",0
+"2008-07","Trivium",0
+"2008-08","Arch Enemy",0
+"2008-08","At The Gates",8
+"2008-08","Children Of Bodom",4
+"2008-08","Dark Tranquillity",17
+"2008-08","Death",0
+"2008-08","Destruction",1
+"2008-08","Devildriver",7
+"2008-08","Exodus",9
+"2008-08","Gardenian",6
+"2008-08","In Flames",0
+"2008-08","Kreator",25
+"2008-08","Megadeth",0
+"2008-08","Motörhead",8
+"2008-08","Norther",0
+"2008-08","Sentenced",0
+"2008-08","Sepultura",2
+"2008-08","Slayer",2
+"2008-08","Soilwork",10
+"2008-08","Testament",0
+"2008-08","Trivium",8
+"2008-09","Arch Enemy",0
+"2008-09","At The Gates",0
+"2008-09","Children Of Bodom",0
+"2008-09","Dark Tranquillity",0
+"2008-09","Death",0
+"2008-09","Destruction",0
+"2008-09","Devildriver",3
+"2008-09","Exodus",0
+"2008-09","Gardenian",1
+"2008-09","In Flames",1
+"2008-09","Kreator",0
+"2008-09","Megadeth",0
+"2008-09","Motörhead",0
+"2008-09","Norther",0
+"2008-09","Sentenced",0
+"2008-09","Sepultura",1
+"2008-09","Slayer",10
+"2008-09","Soilwork",1
+"2008-09","Testament",0
+"2008-09","Trivium",3
+"2008-10","Arch Enemy",7
+"2008-10","At The Gates",2
+"2008-10","Children Of Bodom",0
+"2008-10","Dark Tranquillity",12
+"2008-10","Death",0
+"2008-10","Destruction",0
+"2008-10","Devildriver",0
+"2008-10","Exodus",5
+"2008-10","Gardenian",0
+"2008-10","In Flames",0
+"2008-10","Kreator",9
+"2008-10","Megadeth",5
+"2008-10","Motörhead",0
+"2008-10","Norther",0
+"2008-10","Sentenced",0
+"2008-10","Sepultura",11
+"2008-10","Slayer",0
+"2008-10","Soilwork",0
+"2008-10","Testament",0
+"2008-10","Trivium",0
+"2008-11","Arch Enemy",0
+"2008-11","At The Gates",0
+"2008-11","Children Of Bodom",0
+"2008-11","Dark Tranquillity",4
+"2008-11","Death",0
+"2008-11","Destruction",0
+"2008-11","Devildriver",0
+"2008-11","Exodus",0
+"2008-11","Gardenian",0
+"2008-11","In Flames",0
+"2008-11","Kreator",5
+"2008-11","Megadeth",0
+"2008-11","Motörhead",0
+"2008-11","Norther",0
+"2008-11","Sentenced",0
+"2008-11","Sepultura",0
+"2008-11","Slayer",0
+"2008-11","Soilwork",0
+"2008-11","Testament",0
+"2008-11","Trivium",0
+"2008-12","Arch Enemy",0
+"2008-12","At The Gates",3
+"2008-12","Children Of Bodom",0
+"2008-12","Dark Tranquillity",1
+"2008-12","Death",0
+"2008-12","Destruction",0
+"2008-12","Devildriver",0
+"2008-12","Exodus",0
+"2008-12","Gardenian",0
+"2008-12","In Flames",0
+"2008-12","Kreator",12
+"2008-12","Megadeth",0
+"2008-12","Motörhead",0
+"2008-12","Norther",0
+"2008-12","Sentenced",1
+"2008-12","Sepultura",0
+"2008-12","Slayer",0
+"2008-12","Soilwork",0
+"2008-12","Testament",0
+"2008-12","Trivium",4
+"2009-01","Arch Enemy",0
+"2009-01","At The Gates",0
+"2009-01","Children Of Bodom",0
+"2009-01","Dark Tranquillity",0
+"2009-01","Death",0
+"2009-01","Destruction",44
+"2009-01","Devildriver",0
+"2009-01","Exodus",2
+"2009-01","Gardenian",0
+"2009-01","In Flames",0
+"2009-01","Kreator",0
+"2009-01","Megadeth",0
+"2009-01","Motörhead",3
+"2009-01","Norther",0
+"2009-01","Sentenced",0
+"2009-01","Sepultura",0
+"2009-01","Slayer",0
+"2009-01","Soilwork",0
+"2009-01","Testament",0
+"2009-01","Trivium",0
+"2009-02","Arch Enemy",0
+"2009-02","At The Gates",0
+"2009-02","Children Of Bodom",0
+"2009-02","Dark Tranquillity",1
+"2009-02","Death",0
+"2009-02","Destruction",10
+"2009-02","Devildriver",6
+"2009-02","Exodus",0
+"2009-02","Gardenian",0
+"2009-02","In Flames",5
+"2009-02","Kreator",0
+"2009-02","Megadeth",17
+"2009-02","Motörhead",9
+"2009-02","Norther",8
+"2009-02","Sentenced",0
+"2009-02","Sepultura",0
+"2009-02","Slayer",0
+"2009-02","Soilwork",0
+"2009-02","Testament",0
+"2009-02","Trivium",0
+"2009-03","Arch Enemy",0
+"2009-03","At The Gates",0
+"2009-03","Children Of Bodom",0
+"2009-03","Dark Tranquillity",0
+"2009-03","Death",1
+"2009-03","Destruction",5
+"2009-03","Devildriver",0
+"2009-03","Exodus",0
+"2009-03","Gardenian",0
+"2009-03","In Flames",1
+"2009-03","Kreator",0
+"2009-03","Megadeth",0
+"2009-03","Motörhead",0
+"2009-03","Norther",0
+"2009-03","Sentenced",1
+"2009-03","Sepultura",0
+"2009-03","Slayer",0
+"2009-03","Soilwork",1
+"2009-03","Testament",1
+"2009-03","Trivium",0
+"2009-04","Arch Enemy",0
+"2009-04","At The Gates",0
+"2009-04","Children Of Bodom",0
+"2009-04","Dark Tranquillity",0
+"2009-04","Death",0
+"2009-04","Destruction",3
+"2009-04","Devildriver",0
+"2009-04","Exodus",0
+"2009-04","Gardenian",0
+"2009-04","In Flames",0
+"2009-04","Kreator",0
+"2009-04","Megadeth",0
+"2009-04","Motörhead",0
+"2009-04","Norther",0
+"2009-04","Sentenced",0
+"2009-04","Sepultura",0
+"2009-04","Slayer",0
+"2009-04","Soilwork",0
+"2009-04","Testament",0
+"2009-04","Trivium",0
+"2009-05","Arch Enemy",0
+"2009-05","At The Gates",0
+"2009-05","Children Of Bodom",0
+"2009-05","Dark Tranquillity",0
+"2009-05","Death",0
+"2009-05","Destruction",0
+"2009-05","Devildriver",0
+"2009-05","Exodus",0
+"2009-05","Gardenian",0
+"2009-05","In Flames",0
+"2009-05","Kreator",0
+"2009-05","Megadeth",0
+"2009-05","Motörhead",0
+"2009-05","Norther",0
+"2009-05","Sentenced",0
+"2009-05","Sepultura",0
+"2009-05","Slayer",0
+"2009-05","Soilwork",0
+"2009-05","Testament",0
+"2009-05","Trivium",0
+"2009-06","Arch Enemy",1
+"2009-06","At The Gates",0
+"2009-06","Children Of Bodom",0
+"2009-06","Dark Tranquillity",1
+"2009-06","Death",0
+"2009-06","Destruction",0
+"2009-06","Devildriver",0
+"2009-06","Exodus",0
+"2009-06","Gardenian",0
+"2009-06","In Flames",1
+"2009-06","Kreator",0
+"2009-06","Megadeth",0
+"2009-06","Motörhead",0
+"2009-06","Norther",1
+"2009-06","Sentenced",0
+"2009-06","Sepultura",0
+"2009-06","Slayer",0
+"2009-06","Soilwork",1
+"2009-06","Testament",0
+"2009-06","Trivium",0

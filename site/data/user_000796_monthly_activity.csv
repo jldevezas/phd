@@ -1,101 +1,101 @@
-month,artist,plays
-2008-12,A. R. Rahman,0
-2008-12,Alex Britti,0
-2008-12,Arcade Fire,11
-2008-12,Babyshambles,0
-2008-12,Battles,0
-2008-12,Björk,0
-2008-12,Bon Iver,31
-2008-12,Bonobo,0
-2008-12,Charlotte Gainsbourg,0
-2008-12,Chromeo,0
-2008-12,Coldplay,0
-2008-12,Fabio Concato,0
-2008-12,Five O'Clock Heroes,0
-2008-12,Francesco Renga,0
-2008-12,M.I.A.,0
-2008-12,Muse,7
-2008-12,Negramaro,0
-2008-12,Placebo,0
-2008-12,Róisín Murphy,0
-2008-12,Yelle,0
-2009-01,A. R. Rahman,0
-2009-01,Alex Britti,0
-2009-01,Arcade Fire,0
-2009-01,Babyshambles,24
-2009-01,Battles,4
-2009-01,Björk,0
-2009-01,Bon Iver,0
-2009-01,Bonobo,13
-2009-01,Charlotte Gainsbourg,0
-2009-01,Chromeo,0
-2009-01,Coldplay,0
-2009-01,Fabio Concato,0
-2009-01,Five O'Clock Heroes,0
-2009-01,Francesco Renga,2
-2009-01,M.I.A.,10
-2009-01,Muse,0
-2009-01,Negramaro,1
-2009-01,Placebo,0
-2009-01,Róisín Murphy,12
-2009-01,Yelle,0
-2009-02,A. R. Rahman,1
-2009-02,Alex Britti,0
-2009-02,Arcade Fire,0
-2009-02,Babyshambles,28
-2009-02,Battles,0
-2009-02,Björk,0
-2009-02,Bon Iver,0
-2009-02,Bonobo,0
-2009-02,Charlotte Gainsbourg,12
-2009-02,Chromeo,6
-2009-02,Coldplay,9
-2009-02,Fabio Concato,0
-2009-02,Five O'Clock Heroes,23
-2009-02,Francesco Renga,0
-2009-02,M.I.A.,1
-2009-02,Muse,0
-2009-02,Negramaro,4
-2009-02,Placebo,6
-2009-02,Róisín Murphy,20
-2009-02,Yelle,8
-2009-03,A. R. Rahman,0
-2009-03,Alex Britti,0
-2009-03,Arcade Fire,0
-2009-03,Babyshambles,14
-2009-03,Battles,0
-2009-03,Björk,4
-2009-03,Bon Iver,13
-2009-03,Bonobo,0
-2009-03,Charlotte Gainsbourg,0
-2009-03,Chromeo,0
-2009-03,Coldplay,24
-2009-03,Fabio Concato,0
-2009-03,Five O'Clock Heroes,31
-2009-03,Francesco Renga,0
-2009-03,M.I.A.,0
-2009-03,Muse,18
-2009-03,Negramaro,0
-2009-03,Placebo,1
-2009-03,Róisín Murphy,0
-2009-03,Yelle,0
-2009-04,A. R. Rahman,0
-2009-04,Alex Britti,9
-2009-04,Arcade Fire,0
-2009-04,Babyshambles,7
-2009-04,Battles,0
-2009-04,Björk,0
-2009-04,Bon Iver,0
-2009-04,Bonobo,0
-2009-04,Charlotte Gainsbourg,0
-2009-04,Chromeo,0
-2009-04,Coldplay,0
-2009-04,Fabio Concato,33
-2009-04,Five O'Clock Heroes,0
-2009-04,Francesco Renga,0
-2009-04,M.I.A.,0
-2009-04,Muse,0
-2009-04,Negramaro,10
-2009-04,Placebo,0
-2009-04,Róisín Murphy,0
-2009-04,Yelle,4
+"month","artist","plays"
+"2008-12","A. R. Rahman",0
+"2008-12","Alex Britti",0
+"2008-12","Arcade Fire",11
+"2008-12","Babyshambles",0
+"2008-12","Battles",0
+"2008-12","Björk",0
+"2008-12","Bon Iver",31
+"2008-12","Bonobo",0
+"2008-12","Charlotte Gainsbourg",0
+"2008-12","Chromeo",0
+"2008-12","Coldplay",0
+"2008-12","Fabio Concato",0
+"2008-12","Five O'Clock Heroes",0
+"2008-12","Francesco Renga",0
+"2008-12","M.I.A.",0
+"2008-12","Muse",7
+"2008-12","Negramaro",0
+"2008-12","Placebo",0
+"2008-12","Róisín Murphy",0
+"2008-12","Yelle",0
+"2009-01","A. R. Rahman",0
+"2009-01","Alex Britti",0
+"2009-01","Arcade Fire",0
+"2009-01","Babyshambles",24
+"2009-01","Battles",4
+"2009-01","Björk",0
+"2009-01","Bon Iver",0
+"2009-01","Bonobo",13
+"2009-01","Charlotte Gainsbourg",0
+"2009-01","Chromeo",0
+"2009-01","Coldplay",0
+"2009-01","Fabio Concato",0
+"2009-01","Five O'Clock Heroes",0
+"2009-01","Francesco Renga",2
+"2009-01","M.I.A.",10
+"2009-01","Muse",0
+"2009-01","Negramaro",1
+"2009-01","Placebo",0
+"2009-01","Róisín Murphy",12
+"2009-01","Yelle",0
+"2009-02","A. R. Rahman",1
+"2009-02","Alex Britti",0
+"2009-02","Arcade Fire",0
+"2009-02","Babyshambles",28
+"2009-02","Battles",0
+"2009-02","Björk",0
+"2009-02","Bon Iver",0
+"2009-02","Bonobo",0
+"2009-02","Charlotte Gainsbourg",12
+"2009-02","Chromeo",6
+"2009-02","Coldplay",9
+"2009-02","Fabio Concato",0
+"2009-02","Five O'Clock Heroes",23
+"2009-02","Francesco Renga",0
+"2009-02","M.I.A.",1
+"2009-02","Muse",0
+"2009-02","Negramaro",4
+"2009-02","Placebo",6
+"2009-02","Róisín Murphy",20
+"2009-02","Yelle",8
+"2009-03","A. R. Rahman",0
+"2009-03","Alex Britti",0
+"2009-03","Arcade Fire",0
+"2009-03","Babyshambles",14
+"2009-03","Battles",0
+"2009-03","Björk",4
+"2009-03","Bon Iver",13
+"2009-03","Bonobo",0
+"2009-03","Charlotte Gainsbourg",0
+"2009-03","Chromeo",0
+"2009-03","Coldplay",24
+"2009-03","Fabio Concato",0
+"2009-03","Five O'Clock Heroes",31
+"2009-03","Francesco Renga",0
+"2009-03","M.I.A.",0
+"2009-03","Muse",18
+"2009-03","Negramaro",0
+"2009-03","Placebo",1
+"2009-03","Róisín Murphy",0
+"2009-03","Yelle",0
+"2009-04","A. R. Rahman",0
+"2009-04","Alex Britti",9
+"2009-04","Arcade Fire",0
+"2009-04","Babyshambles",7
+"2009-04","Battles",0
+"2009-04","Björk",0
+"2009-04","Bon Iver",0
+"2009-04","Bonobo",0
+"2009-04","Charlotte Gainsbourg",0
+"2009-04","Chromeo",0
+"2009-04","Coldplay",0
+"2009-04","Fabio Concato",33
+"2009-04","Five O'Clock Heroes",0
+"2009-04","Francesco Renga",0
+"2009-04","M.I.A.",0
+"2009-04","Muse",0
+"2009-04","Negramaro",10
+"2009-04","Placebo",0
+"2009-04","Róisín Murphy",0
+"2009-04","Yelle",4

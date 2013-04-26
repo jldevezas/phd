@@ -1,481 +1,481 @@
-month,artist,plays
-2007-04,Alu,0
-2007-04,Au Revoir Simone,0
-2007-04,Bat For Lashes,0
-2007-04,Björk,0
-2007-04,Denali,18
-2007-04,Feist,0
-2007-04,Garbage,0
-2007-04,Glen Hansard & Markéta Irglová,0
-2007-04,Husky Rescue,0
-2007-04,Immaculate Machine,0
-2007-04,Metric,2
-2007-04,My Brightest Diamond,14
-2007-04,Portishead,8
-2007-04,Radiohead,0
-2007-04,Soko,0
-2007-04,Tegan And Sara,0
-2007-04,The Czars,61
-2007-04,The Dears,2
-2007-04,The Knife,82
-2007-04,The Organ,0
-2007-05,Alu,0
-2007-05,Au Revoir Simone,3
-2007-05,Bat For Lashes,0
-2007-05,Björk,56
-2007-05,Denali,8
-2007-05,Feist,29
-2007-05,Garbage,1
-2007-05,Glen Hansard & Markéta Irglová,1
-2007-05,Husky Rescue,30
-2007-05,Immaculate Machine,0
-2007-05,Metric,2
-2007-05,My Brightest Diamond,36
-2007-05,Portishead,9
-2007-05,Radiohead,1
-2007-05,Soko,0
-2007-05,Tegan And Sara,12
-2007-05,The Czars,49
-2007-05,The Dears,1
-2007-05,The Knife,10
-2007-05,The Organ,4
-2007-06,Alu,68
-2007-06,Au Revoir Simone,1
-2007-06,Bat For Lashes,0
-2007-06,Björk,1
-2007-06,Denali,4
-2007-06,Feist,6
-2007-06,Garbage,0
-2007-06,Glen Hansard & Markéta Irglová,0
-2007-06,Husky Rescue,15
-2007-06,Immaculate Machine,0
-2007-06,Metric,7
-2007-06,My Brightest Diamond,0
-2007-06,Portishead,1
-2007-06,Radiohead,1
-2007-06,Soko,0
-2007-06,Tegan And Sara,25
-2007-06,The Czars,5
-2007-06,The Dears,0
-2007-06,The Knife,10
-2007-06,The Organ,0
-2007-07,Alu,9
-2007-07,Au Revoir Simone,0
-2007-07,Bat For Lashes,0
-2007-07,Björk,0
-2007-07,Denali,12
-2007-07,Feist,5
-2007-07,Garbage,0
-2007-07,Glen Hansard & Markéta Irglová,0
-2007-07,Husky Rescue,1
-2007-07,Immaculate Machine,0
-2007-07,Metric,4
-2007-07,My Brightest Diamond,0
-2007-07,Portishead,1
-2007-07,Radiohead,0
-2007-07,Soko,0
-2007-07,Tegan And Sara,11
-2007-07,The Czars,0
-2007-07,The Dears,0
-2007-07,The Knife,1
-2007-07,The Organ,0
-2007-08,Alu,29
-2007-08,Au Revoir Simone,2
-2007-08,Bat For Lashes,153
-2007-08,Björk,1
-2007-08,Denali,5
-2007-08,Feist,2
-2007-08,Garbage,9
-2007-08,Glen Hansard & Markéta Irglová,0
-2007-08,Husky Rescue,24
-2007-08,Immaculate Machine,0
-2007-08,Metric,4
-2007-08,My Brightest Diamond,22
-2007-08,Portishead,8
-2007-08,Radiohead,0
-2007-08,Soko,1
-2007-08,Tegan And Sara,4
-2007-08,The Czars,49
-2007-08,The Dears,58
-2007-08,The Knife,2
-2007-08,The Organ,2
-2007-09,Alu,18
-2007-09,Au Revoir Simone,1
-2007-09,Bat For Lashes,19
-2007-09,Björk,14
-2007-09,Denali,0
-2007-09,Feist,10
-2007-09,Garbage,1
-2007-09,Glen Hansard & Markéta Irglová,2
-2007-09,Husky Rescue,5
-2007-09,Immaculate Machine,4
-2007-09,Metric,34
-2007-09,My Brightest Diamond,1
-2007-09,Portishead,0
-2007-09,Radiohead,1
-2007-09,Soko,0
-2007-09,Tegan And Sara,9
-2007-09,The Czars,44
-2007-09,The Dears,5
-2007-09,The Knife,6
-2007-09,The Organ,1
-2007-10,Alu,4
-2007-10,Au Revoir Simone,1
-2007-10,Bat For Lashes,15
-2007-10,Björk,58
-2007-10,Denali,1
-2007-10,Feist,4
-2007-10,Garbage,1
-2007-10,Glen Hansard & Markéta Irglová,0
-2007-10,Husky Rescue,11
-2007-10,Immaculate Machine,58
-2007-10,Metric,0
-2007-10,My Brightest Diamond,0
-2007-10,Portishead,0
-2007-10,Radiohead,286
-2007-10,Soko,5
-2007-10,Tegan And Sara,3
-2007-10,The Czars,43
-2007-10,The Dears,5
-2007-10,The Knife,0
-2007-10,The Organ,2
-2007-11,Alu,1
-2007-11,Au Revoir Simone,0
-2007-11,Bat For Lashes,0
-2007-11,Björk,1
-2007-11,Denali,0
-2007-11,Feist,9
-2007-11,Garbage,0
-2007-11,Glen Hansard & Markéta Irglová,0
-2007-11,Husky Rescue,19
-2007-11,Immaculate Machine,22
-2007-11,Metric,5
-2007-11,My Brightest Diamond,0
-2007-11,Portishead,0
-2007-11,Radiohead,64
-2007-11,Soko,0
-2007-11,Tegan And Sara,12
-2007-11,The Czars,7
-2007-11,The Dears,2
-2007-11,The Knife,1
-2007-11,The Organ,2
-2007-12,Alu,0
-2007-12,Au Revoir Simone,0
-2007-12,Bat For Lashes,1
-2007-12,Björk,1
-2007-12,Denali,4
-2007-12,Feist,0
-2007-12,Garbage,0
-2007-12,Glen Hansard & Markéta Irglová,0
-2007-12,Husky Rescue,0
-2007-12,Immaculate Machine,3
-2007-12,Metric,0
-2007-12,My Brightest Diamond,0
-2007-12,Portishead,0
-2007-12,Radiohead,2
-2007-12,Soko,1
-2007-12,Tegan And Sara,1
-2007-12,The Czars,19
-2007-12,The Dears,0
-2007-12,The Knife,13
-2007-12,The Organ,12
-2008-01,Alu,0
-2008-01,Au Revoir Simone,1
-2008-01,Bat For Lashes,0
-2008-01,Björk,4
-2008-01,Denali,0
-2008-01,Feist,0
-2008-01,Garbage,0
-2008-01,Glen Hansard & Markéta Irglová,0
-2008-01,Husky Rescue,0
-2008-01,Immaculate Machine,0
-2008-01,Metric,14
-2008-01,My Brightest Diamond,0
-2008-01,Portishead,0
-2008-01,Radiohead,11
-2008-01,Soko,0
-2008-01,Tegan And Sara,2
-2008-01,The Czars,7
-2008-01,The Dears,0
-2008-01,The Knife,4
-2008-01,The Organ,9
-2008-02,Alu,0
-2008-02,Au Revoir Simone,0
-2008-02,Bat For Lashes,0
-2008-02,Björk,0
-2008-02,Denali,0
-2008-02,Feist,0
-2008-02,Garbage,0
-2008-02,Glen Hansard & Markéta Irglová,0
-2008-02,Husky Rescue,29
-2008-02,Immaculate Machine,0
-2008-02,Metric,0
-2008-02,My Brightest Diamond,0
-2008-02,Portishead,0
-2008-02,Radiohead,52
-2008-02,Soko,0
-2008-02,Tegan And Sara,0
-2008-02,The Czars,0
-2008-02,The Dears,0
-2008-02,The Knife,0
-2008-02,The Organ,0
-2008-03,Alu,0
-2008-03,Au Revoir Simone,0
-2008-03,Bat For Lashes,0
-2008-03,Björk,0
-2008-03,Denali,0
-2008-03,Feist,0
-2008-03,Garbage,0
-2008-03,Glen Hansard & Markéta Irglová,113
-2008-03,Husky Rescue,0
-2008-03,Immaculate Machine,0
-2008-03,Metric,0
-2008-03,My Brightest Diamond,14
-2008-03,Portishead,14
-2008-03,Radiohead,1
-2008-03,Soko,5
-2008-03,Tegan And Sara,0
-2008-03,The Czars,1
-2008-03,The Dears,0
-2008-03,The Knife,0
-2008-03,The Organ,11
-2008-04,Alu,1
-2008-04,Au Revoir Simone,2
-2008-04,Bat For Lashes,3
-2008-04,Björk,0
-2008-04,Denali,0
-2008-04,Feist,3
-2008-04,Garbage,0
-2008-04,Glen Hansard & Markéta Irglová,1
-2008-04,Husky Rescue,1
-2008-04,Immaculate Machine,0
-2008-04,Metric,0
-2008-04,My Brightest Diamond,3
-2008-04,Portishead,2
-2008-04,Radiohead,3
-2008-04,Soko,4
-2008-04,Tegan And Sara,1
-2008-04,The Czars,2
-2008-04,The Dears,0
-2008-04,The Knife,0
-2008-04,The Organ,6
-2008-05,Alu,0
-2008-05,Au Revoir Simone,0
-2008-05,Bat For Lashes,1
-2008-05,Björk,1
-2008-05,Denali,0
-2008-05,Feist,0
-2008-05,Garbage,0
-2008-05,Glen Hansard & Markéta Irglová,0
-2008-05,Husky Rescue,0
-2008-05,Immaculate Machine,0
-2008-05,Metric,0
-2008-05,My Brightest Diamond,13
-2008-05,Portishead,25
-2008-05,Radiohead,0
-2008-05,Soko,5
-2008-05,Tegan And Sara,0
-2008-05,The Czars,0
-2008-05,The Dears,0
-2008-05,The Knife,0
-2008-05,The Organ,0
-2008-06,Alu,2
-2008-06,Au Revoir Simone,0
-2008-06,Bat For Lashes,0
-2008-06,Björk,0
-2008-06,Denali,0
-2008-06,Feist,3
-2008-06,Garbage,1
-2008-06,Glen Hansard & Markéta Irglová,4
-2008-06,Husky Rescue,0
-2008-06,Immaculate Machine,2
-2008-06,Metric,0
-2008-06,My Brightest Diamond,1
-2008-06,Portishead,8
-2008-06,Radiohead,13
-2008-06,Soko,1
-2008-06,Tegan And Sara,0
-2008-06,The Czars,0
-2008-06,The Dears,0
-2008-06,The Knife,0
-2008-06,The Organ,0
-2008-07,Alu,0
-2008-07,Au Revoir Simone,0
-2008-07,Bat For Lashes,0
-2008-07,Björk,0
-2008-07,Denali,0
-2008-07,Feist,0
-2008-07,Garbage,7
-2008-07,Glen Hansard & Markéta Irglová,0
-2008-07,Husky Rescue,0
-2008-07,Immaculate Machine,0
-2008-07,Metric,0
-2008-07,My Brightest Diamond,0
-2008-07,Portishead,0
-2008-07,Radiohead,0
-2008-07,Soko,2
-2008-07,Tegan And Sara,0
-2008-07,The Czars,0
-2008-07,The Dears,1
-2008-07,The Knife,0
-2008-07,The Organ,0
-2008-08,Alu,0
-2008-08,Au Revoir Simone,0
-2008-08,Bat For Lashes,0
-2008-08,Björk,0
-2008-08,Denali,0
-2008-08,Feist,2
-2008-08,Garbage,3
-2008-08,Glen Hansard & Markéta Irglová,16
-2008-08,Husky Rescue,20
-2008-08,Immaculate Machine,1
-2008-08,Metric,0
-2008-08,My Brightest Diamond,0
-2008-08,Portishead,11
-2008-08,Radiohead,2
-2008-08,Soko,1
-2008-08,Tegan And Sara,0
-2008-08,The Czars,0
-2008-08,The Dears,4
-2008-08,The Knife,0
-2008-08,The Organ,0
-2008-09,Alu,0
-2008-09,Au Revoir Simone,2
-2008-09,Bat For Lashes,2
-2008-09,Björk,1
-2008-09,Denali,9
-2008-09,Feist,6
-2008-09,Garbage,2
-2008-09,Glen Hansard & Markéta Irglová,1
-2008-09,Husky Rescue,0
-2008-09,Immaculate Machine,3
-2008-09,Metric,14
-2008-09,My Brightest Diamond,3
-2008-09,Portishead,1
-2008-09,Radiohead,54
-2008-09,Soko,4
-2008-09,Tegan And Sara,1
-2008-09,The Czars,0
-2008-09,The Dears,0
-2008-09,The Knife,15
-2008-09,The Organ,22
-2008-10,Alu,2
-2008-10,Au Revoir Simone,1
-2008-10,Bat For Lashes,6
-2008-10,Björk,3
-2008-10,Denali,1
-2008-10,Feist,1
-2008-10,Garbage,0
-2008-10,Glen Hansard & Markéta Irglová,2
-2008-10,Husky Rescue,1
-2008-10,Immaculate Machine,4
-2008-10,Metric,3
-2008-10,My Brightest Diamond,4
-2008-10,Portishead,9
-2008-10,Radiohead,23
-2008-10,Soko,1
-2008-10,Tegan And Sara,0
-2008-10,The Czars,0
-2008-10,The Dears,3
-2008-10,The Knife,12
-2008-10,The Organ,2
-2008-11,Alu,0
-2008-11,Au Revoir Simone,1
-2008-11,Bat For Lashes,18
-2008-11,Björk,0
-2008-11,Denali,0
-2008-11,Feist,0
-2008-11,Garbage,0
-2008-11,Glen Hansard & Markéta Irglová,3
-2008-11,Husky Rescue,4
-2008-11,Immaculate Machine,1
-2008-11,Metric,0
-2008-11,My Brightest Diamond,0
-2008-11,Portishead,1
-2008-11,Radiohead,9
-2008-11,Soko,1
-2008-11,Tegan And Sara,0
-2008-11,The Czars,8
-2008-11,The Dears,6
-2008-11,The Knife,0
-2008-11,The Organ,11
-2008-12,Alu,2
-2008-12,Au Revoir Simone,0
-2008-12,Bat For Lashes,1
-2008-12,Björk,0
-2008-12,Denali,0
-2008-12,Feist,0
-2008-12,Garbage,1
-2008-12,Glen Hansard & Markéta Irglová,1
-2008-12,Husky Rescue,0
-2008-12,Immaculate Machine,0
-2008-12,Metric,0
-2008-12,My Brightest Diamond,1
-2008-12,Portishead,5
-2008-12,Radiohead,18
-2008-12,Soko,5
-2008-12,Tegan And Sara,0
-2008-12,The Czars,18
-2008-12,The Dears,30
-2008-12,The Knife,0
-2008-12,The Organ,1
-2009-01,Alu,1
-2009-01,Au Revoir Simone,0
-2009-01,Bat For Lashes,0
-2009-01,Björk,0
-2009-01,Denali,5
-2009-01,Feist,2
-2009-01,Garbage,0
-2009-01,Glen Hansard & Markéta Irglová,3
-2009-01,Husky Rescue,3
-2009-01,Immaculate Machine,1
-2009-01,Metric,0
-2009-01,My Brightest Diamond,0
-2009-01,Portishead,4
-2009-01,Radiohead,1
-2009-01,Soko,0
-2009-01,Tegan And Sara,0
-2009-01,The Czars,0
-2009-01,The Dears,3
-2009-01,The Knife,0
-2009-01,The Organ,3
-2009-02,Alu,0
-2009-02,Au Revoir Simone,0
-2009-02,Bat For Lashes,0
-2009-02,Björk,0
-2009-02,Denali,0
-2009-02,Feist,0
-2009-02,Garbage,0
-2009-02,Glen Hansard & Markéta Irglová,0
-2009-02,Husky Rescue,0
-2009-02,Immaculate Machine,0
-2009-02,Metric,0
-2009-02,My Brightest Diamond,0
-2009-02,Portishead,0
-2009-02,Radiohead,0
-2009-02,Soko,0
-2009-02,Tegan And Sara,0
-2009-02,The Czars,0
-2009-02,The Dears,0
-2009-02,The Knife,0
-2009-02,The Organ,0
-2009-03,Alu,0
-2009-03,Au Revoir Simone,0
-2009-03,Bat For Lashes,31
-2009-03,Björk,0
-2009-03,Denali,0
-2009-03,Feist,0
-2009-03,Garbage,5
-2009-03,Glen Hansard & Markéta Irglová,0
-2009-03,Husky Rescue,0
-2009-03,Immaculate Machine,0
-2009-03,Metric,2
-2009-03,My Brightest Diamond,0
-2009-03,Portishead,0
-2009-03,Radiohead,0
-2009-03,Soko,0
-2009-03,Tegan And Sara,0
-2009-03,The Czars,0
-2009-03,The Dears,0
-2009-03,The Knife,0
-2009-03,The Organ,0
+"month","artist","plays"
+"2007-04","Alu",0
+"2007-04","Au Revoir Simone",0
+"2007-04","Bat For Lashes",0
+"2007-04","Björk",0
+"2007-04","Denali",18
+"2007-04","Feist",0
+"2007-04","Garbage",0
+"2007-04","Glen Hansard & Markéta Irglová",0
+"2007-04","Husky Rescue",0
+"2007-04","Immaculate Machine",0
+"2007-04","Metric",2
+"2007-04","My Brightest Diamond",14
+"2007-04","Portishead",8
+"2007-04","Radiohead",0
+"2007-04","Soko",0
+"2007-04","Tegan And Sara",0
+"2007-04","The Czars",61
+"2007-04","The Dears",2
+"2007-04","The Knife",82
+"2007-04","The Organ",0
+"2007-05","Alu",0
+"2007-05","Au Revoir Simone",3
+"2007-05","Bat For Lashes",0
+"2007-05","Björk",56
+"2007-05","Denali",8
+"2007-05","Feist",29
+"2007-05","Garbage",1
+"2007-05","Glen Hansard & Markéta Irglová",1
+"2007-05","Husky Rescue",30
+"2007-05","Immaculate Machine",0
+"2007-05","Metric",2
+"2007-05","My Brightest Diamond",36
+"2007-05","Portishead",9
+"2007-05","Radiohead",1
+"2007-05","Soko",0
+"2007-05","Tegan And Sara",12
+"2007-05","The Czars",49
+"2007-05","The Dears",1
+"2007-05","The Knife",10
+"2007-05","The Organ",4
+"2007-06","Alu",68
+"2007-06","Au Revoir Simone",1
+"2007-06","Bat For Lashes",0
+"2007-06","Björk",1
+"2007-06","Denali",4
+"2007-06","Feist",6
+"2007-06","Garbage",0
+"2007-06","Glen Hansard & Markéta Irglová",0
+"2007-06","Husky Rescue",15
+"2007-06","Immaculate Machine",0
+"2007-06","Metric",7
+"2007-06","My Brightest Diamond",0
+"2007-06","Portishead",1
+"2007-06","Radiohead",1
+"2007-06","Soko",0
+"2007-06","Tegan And Sara",25
+"2007-06","The Czars",5
+"2007-06","The Dears",0
+"2007-06","The Knife",10
+"2007-06","The Organ",0
+"2007-07","Alu",9
+"2007-07","Au Revoir Simone",0
+"2007-07","Bat For Lashes",0
+"2007-07","Björk",0
+"2007-07","Denali",12
+"2007-07","Feist",5
+"2007-07","Garbage",0
+"2007-07","Glen Hansard & Markéta Irglová",0
+"2007-07","Husky Rescue",1
+"2007-07","Immaculate Machine",0
+"2007-07","Metric",4
+"2007-07","My Brightest Diamond",0
+"2007-07","Portishead",1
+"2007-07","Radiohead",0
+"2007-07","Soko",0
+"2007-07","Tegan And Sara",11
+"2007-07","The Czars",0
+"2007-07","The Dears",0
+"2007-07","The Knife",1
+"2007-07","The Organ",0
+"2007-08","Alu",29
+"2007-08","Au Revoir Simone",2
+"2007-08","Bat For Lashes",153
+"2007-08","Björk",1
+"2007-08","Denali",5
+"2007-08","Feist",2
+"2007-08","Garbage",9
+"2007-08","Glen Hansard & Markéta Irglová",0
+"2007-08","Husky Rescue",24
+"2007-08","Immaculate Machine",0
+"2007-08","Metric",4
+"2007-08","My Brightest Diamond",22
+"2007-08","Portishead",8
+"2007-08","Radiohead",0
+"2007-08","Soko",1
+"2007-08","Tegan And Sara",4
+"2007-08","The Czars",49
+"2007-08","The Dears",58
+"2007-08","The Knife",2
+"2007-08","The Organ",2
+"2007-09","Alu",18
+"2007-09","Au Revoir Simone",1
+"2007-09","Bat For Lashes",19
+"2007-09","Björk",14
+"2007-09","Denali",0
+"2007-09","Feist",10
+"2007-09","Garbage",1
+"2007-09","Glen Hansard & Markéta Irglová",2
+"2007-09","Husky Rescue",5
+"2007-09","Immaculate Machine",4
+"2007-09","Metric",34
+"2007-09","My Brightest Diamond",1
+"2007-09","Portishead",0
+"2007-09","Radiohead",1
+"2007-09","Soko",0
+"2007-09","Tegan And Sara",9
+"2007-09","The Czars",44
+"2007-09","The Dears",5
+"2007-09","The Knife",6
+"2007-09","The Organ",1
+"2007-10","Alu",4
+"2007-10","Au Revoir Simone",1
+"2007-10","Bat For Lashes",15
+"2007-10","Björk",58
+"2007-10","Denali",1
+"2007-10","Feist",4
+"2007-10","Garbage",1
+"2007-10","Glen Hansard & Markéta Irglová",0
+"2007-10","Husky Rescue",11
+"2007-10","Immaculate Machine",58
+"2007-10","Metric",0
+"2007-10","My Brightest Diamond",0
+"2007-10","Portishead",0
+"2007-10","Radiohead",286
+"2007-10","Soko",5
+"2007-10","Tegan And Sara",3
+"2007-10","The Czars",43
+"2007-10","The Dears",5
+"2007-10","The Knife",0
+"2007-10","The Organ",2
+"2007-11","Alu",1
+"2007-11","Au Revoir Simone",0
+"2007-11","Bat For Lashes",0
+"2007-11","Björk",1
+"2007-11","Denali",0
+"2007-11","Feist",9
+"2007-11","Garbage",0
+"2007-11","Glen Hansard & Markéta Irglová",0
+"2007-11","Husky Rescue",19
+"2007-11","Immaculate Machine",22
+"2007-11","Metric",5
+"2007-11","My Brightest Diamond",0
+"2007-11","Portishead",0
+"2007-11","Radiohead",64
+"2007-11","Soko",0
+"2007-11","Tegan And Sara",12
+"2007-11","The Czars",7
+"2007-11","The Dears",2
+"2007-11","The Knife",1
+"2007-11","The Organ",2
+"2007-12","Alu",0
+"2007-12","Au Revoir Simone",0
+"2007-12","Bat For Lashes",1
+"2007-12","Björk",1
+"2007-12","Denali",4
+"2007-12","Feist",0
+"2007-12","Garbage",0
+"2007-12","Glen Hansard & Markéta Irglová",0
+"2007-12","Husky Rescue",0
+"2007-12","Immaculate Machine",3
+"2007-12","Metric",0
+"2007-12","My Brightest Diamond",0
+"2007-12","Portishead",0
+"2007-12","Radiohead",2
+"2007-12","Soko",1
+"2007-12","Tegan And Sara",1
+"2007-12","The Czars",19
+"2007-12","The Dears",0
+"2007-12","The Knife",13
+"2007-12","The Organ",12
+"2008-01","Alu",0
+"2008-01","Au Revoir Simone",1
+"2008-01","Bat For Lashes",0
+"2008-01","Björk",4
+"2008-01","Denali",0
+"2008-01","Feist",0
+"2008-01","Garbage",0
+"2008-01","Glen Hansard & Markéta Irglová",0
+"2008-01","Husky Rescue",0
+"2008-01","Immaculate Machine",0
+"2008-01","Metric",14
+"2008-01","My Brightest Diamond",0
+"2008-01","Portishead",0
+"2008-01","Radiohead",11
+"2008-01","Soko",0
+"2008-01","Tegan And Sara",2
+"2008-01","The Czars",7
+"2008-01","The Dears",0
+"2008-01","The Knife",4
+"2008-01","The Organ",9
+"2008-02","Alu",0
+"2008-02","Au Revoir Simone",0
+"2008-02","Bat For Lashes",0
+"2008-02","Björk",0
+"2008-02","Denali",0
+"2008-02","Feist",0
+"2008-02","Garbage",0
+"2008-02","Glen Hansard & Markéta Irglová",0
+"2008-02","Husky Rescue",29
+"2008-02","Immaculate Machine",0
+"2008-02","Metric",0
+"2008-02","My Brightest Diamond",0
+"2008-02","Portishead",0
+"2008-02","Radiohead",52
+"2008-02","Soko",0
+"2008-02","Tegan And Sara",0
+"2008-02","The Czars",0
+"2008-02","The Dears",0
+"2008-02","The Knife",0
+"2008-02","The Organ",0
+"2008-03","Alu",0
+"2008-03","Au Revoir Simone",0
+"2008-03","Bat For Lashes",0
+"2008-03","Björk",0
+"2008-03","Denali",0
+"2008-03","Feist",0
+"2008-03","Garbage",0
+"2008-03","Glen Hansard & Markéta Irglová",113
+"2008-03","Husky Rescue",0
+"2008-03","Immaculate Machine",0
+"2008-03","Metric",0
+"2008-03","My Brightest Diamond",14
+"2008-03","Portishead",14
+"2008-03","Radiohead",1
+"2008-03","Soko",5
+"2008-03","Tegan And Sara",0
+"2008-03","The Czars",1
+"2008-03","The Dears",0
+"2008-03","The Knife",0
+"2008-03","The Organ",11
+"2008-04","Alu",1
+"2008-04","Au Revoir Simone",2
+"2008-04","Bat For Lashes",3
+"2008-04","Björk",0
+"2008-04","Denali",0
+"2008-04","Feist",3
+"2008-04","Garbage",0
+"2008-04","Glen Hansard & Markéta Irglová",1
+"2008-04","Husky Rescue",1
+"2008-04","Immaculate Machine",0
+"2008-04","Metric",0
+"2008-04","My Brightest Diamond",3
+"2008-04","Portishead",2
+"2008-04","Radiohead",3
+"2008-04","Soko",4
+"2008-04","Tegan And Sara",1
+"2008-04","The Czars",2
+"2008-04","The Dears",0
+"2008-04","The Knife",0
+"2008-04","The Organ",6
+"2008-05","Alu",0
+"2008-05","Au Revoir Simone",0
+"2008-05","Bat For Lashes",1
+"2008-05","Björk",1
+"2008-05","Denali",0
+"2008-05","Feist",0
+"2008-05","Garbage",0
+"2008-05","Glen Hansard & Markéta Irglová",0
+"2008-05","Husky Rescue",0
+"2008-05","Immaculate Machine",0
+"2008-05","Metric",0
+"2008-05","My Brightest Diamond",13
+"2008-05","Portishead",25
+"2008-05","Radiohead",0
+"2008-05","Soko",5
+"2008-05","Tegan And Sara",0
+"2008-05","The Czars",0
+"2008-05","The Dears",0
+"2008-05","The Knife",0
+"2008-05","The Organ",0
+"2008-06","Alu",2
+"2008-06","Au Revoir Simone",0
+"2008-06","Bat For Lashes",0
+"2008-06","Björk",0
+"2008-06","Denali",0
+"2008-06","Feist",3
+"2008-06","Garbage",1
+"2008-06","Glen Hansard & Markéta Irglová",4
+"2008-06","Husky Rescue",0
+"2008-06","Immaculate Machine",2
+"2008-06","Metric",0
+"2008-06","My Brightest Diamond",1
+"2008-06","Portishead",8
+"2008-06","Radiohead",13
+"2008-06","Soko",1
+"2008-06","Tegan And Sara",0
+"2008-06","The Czars",0
+"2008-06","The Dears",0
+"2008-06","The Knife",0
+"2008-06","The Organ",0
+"2008-07","Alu",0
+"2008-07","Au Revoir Simone",0
+"2008-07","Bat For Lashes",0
+"2008-07","Björk",0
+"2008-07","Denali",0
+"2008-07","Feist",0
+"2008-07","Garbage",7
+"2008-07","Glen Hansard & Markéta Irglová",0
+"2008-07","Husky Rescue",0
+"2008-07","Immaculate Machine",0
+"2008-07","Metric",0
+"2008-07","My Brightest Diamond",0
+"2008-07","Portishead",0
+"2008-07","Radiohead",0
+"2008-07","Soko",2
+"2008-07","Tegan And Sara",0
+"2008-07","The Czars",0
+"2008-07","The Dears",1
+"2008-07","The Knife",0
+"2008-07","The Organ",0
+"2008-08","Alu",0
+"2008-08","Au Revoir Simone",0
+"2008-08","Bat For Lashes",0
+"2008-08","Björk",0
+"2008-08","Denali",0
+"2008-08","Feist",2
+"2008-08","Garbage",3
+"2008-08","Glen Hansard & Markéta Irglová",16
+"2008-08","Husky Rescue",20
+"2008-08","Immaculate Machine",1
+"2008-08","Metric",0
+"2008-08","My Brightest Diamond",0
+"2008-08","Portishead",11
+"2008-08","Radiohead",2
+"2008-08","Soko",1
+"2008-08","Tegan And Sara",0
+"2008-08","The Czars",0
+"2008-08","The Dears",4
+"2008-08","The Knife",0
+"2008-08","The Organ",0
+"2008-09","Alu",0
+"2008-09","Au Revoir Simone",2
+"2008-09","Bat For Lashes",2
+"2008-09","Björk",1
+"2008-09","Denali",9
+"2008-09","Feist",6
+"2008-09","Garbage",2
+"2008-09","Glen Hansard & Markéta Irglová",1
+"2008-09","Husky Rescue",0
+"2008-09","Immaculate Machine",3
+"2008-09","Metric",14
+"2008-09","My Brightest Diamond",3
+"2008-09","Portishead",1
+"2008-09","Radiohead",54
+"2008-09","Soko",4
+"2008-09","Tegan And Sara",1
+"2008-09","The Czars",0
+"2008-09","The Dears",0
+"2008-09","The Knife",15
+"2008-09","The Organ",22
+"2008-10","Alu",2
+"2008-10","Au Revoir Simone",1
+"2008-10","Bat For Lashes",6
+"2008-10","Björk",3
+"2008-10","Denali",1
+"2008-10","Feist",1
+"2008-10","Garbage",0
+"2008-10","Glen Hansard & Markéta Irglová",2
+"2008-10","Husky Rescue",1
+"2008-10","Immaculate Machine",4
+"2008-10","Metric",3
+"2008-10","My Brightest Diamond",4
+"2008-10","Portishead",9
+"2008-10","Radiohead",23
+"2008-10","Soko",1
+"2008-10","Tegan And Sara",0
+"2008-10","The Czars",0
+"2008-10","The Dears",3
+"2008-10","The Knife",12
+"2008-10","The Organ",2
+"2008-11","Alu",0
+"2008-11","Au Revoir Simone",1
+"2008-11","Bat For Lashes",18
+"2008-11","Björk",0
+"2008-11","Denali",0
+"2008-11","Feist",0
+"2008-11","Garbage",0
+"2008-11","Glen Hansard & Markéta Irglová",3
+"2008-11","Husky Rescue",4
+"2008-11","Immaculate Machine",1
+"2008-11","Metric",0
+"2008-11","My Brightest Diamond",0
+"2008-11","Portishead",1
+"2008-11","Radiohead",9
+"2008-11","Soko",1
+"2008-11","Tegan And Sara",0
+"2008-11","The Czars",8
+"2008-11","The Dears",6
+"2008-11","The Knife",0
+"2008-11","The Organ",11
+"2008-12","Alu",2
+"2008-12","Au Revoir Simone",0
+"2008-12","Bat For Lashes",1
+"2008-12","Björk",0
+"2008-12","Denali",0
+"2008-12","Feist",0
+"2008-12","Garbage",1
+"2008-12","Glen Hansard & Markéta Irglová",1
+"2008-12","Husky Rescue",0
+"2008-12","Immaculate Machine",0
+"2008-12","Metric",0
+"2008-12","My Brightest Diamond",1
+"2008-12","Portishead",5
+"2008-12","Radiohead",18
+"2008-12","Soko",5
+"2008-12","Tegan And Sara",0
+"2008-12","The Czars",18
+"2008-12","The Dears",30
+"2008-12","The Knife",0
+"2008-12","The Organ",1
+"2009-01","Alu",1
+"2009-01","Au Revoir Simone",0
+"2009-01","Bat For Lashes",0
+"2009-01","Björk",0
+"2009-01","Denali",5
+"2009-01","Feist",2
+"2009-01","Garbage",0
+"2009-01","Glen Hansard & Markéta Irglová",3
+"2009-01","Husky Rescue",3
+"2009-01","Immaculate Machine",1
+"2009-01","Metric",0
+"2009-01","My Brightest Diamond",0
+"2009-01","Portishead",4
+"2009-01","Radiohead",1
+"2009-01","Soko",0
+"2009-01","Tegan And Sara",0
+"2009-01","The Czars",0
+"2009-01","The Dears",3
+"2009-01","The Knife",0
+"2009-01","The Organ",3
+"2009-02","Alu",0
+"2009-02","Au Revoir Simone",0
+"2009-02","Bat For Lashes",0
+"2009-02","Björk",0
+"2009-02","Denali",0
+"2009-02","Feist",0
+"2009-02","Garbage",0
+"2009-02","Glen Hansard & Markéta Irglová",0
+"2009-02","Husky Rescue",0
+"2009-02","Immaculate Machine",0
+"2009-02","Metric",0
+"2009-02","My Brightest Diamond",0
+"2009-02","Portishead",0
+"2009-02","Radiohead",0
+"2009-02","Soko",0
+"2009-02","Tegan And Sara",0
+"2009-02","The Czars",0
+"2009-02","The Dears",0
+"2009-02","The Knife",0
+"2009-02","The Organ",0
+"2009-03","Alu",0
+"2009-03","Au Revoir Simone",0
+"2009-03","Bat For Lashes",31
+"2009-03","Björk",0
+"2009-03","Denali",0
+"2009-03","Feist",0
+"2009-03","Garbage",5
+"2009-03","Glen Hansard & Markéta Irglová",0
+"2009-03","Husky Rescue",0
+"2009-03","Immaculate Machine",0
+"2009-03","Metric",2
+"2009-03","My Brightest Diamond",0
+"2009-03","Portishead",0
+"2009-03","Radiohead",0
+"2009-03","Soko",0
+"2009-03","Tegan And Sara",0
+"2009-03","The Czars",0
+"2009-03","The Dears",0
+"2009-03","The Knife",0
+"2009-03","The Organ",0

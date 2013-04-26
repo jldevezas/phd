@@ -1,681 +1,681 @@
-month,artist,plays
-2006-08,Alpha Blondy,0
-2006-08,Amon Tobin,1
-2006-08,Augustus Pablo,0
-2006-08,Barrington Levy,0
-2006-08,Bedouin Soundclash,0
-2006-08,Black Uhuru,0
-2006-08,Bob Marley,3
-2006-08,Bob Marley & The Wailers,4
-2006-08,Culture,3
-2006-08,Dennis Brown,0
-2006-08,Jimmy Cliff,0
-2006-08,Manu Chao,0
-2006-08,Massive Attack,0
-2006-08,Matisyahu,0
-2006-08,Patrice,0
-2006-08,Peter Tosh,0
-2006-08,Sean Paul,0
-2006-08,Seeed,3
-2006-08,Toots & The Maytals,1
-2006-08,Ub40,0
-2006-09,Alpha Blondy,1
-2006-09,Amon Tobin,1
-2006-09,Augustus Pablo,2
-2006-09,Barrington Levy,1
-2006-09,Bedouin Soundclash,2
-2006-09,Black Uhuru,3
-2006-09,Bob Marley,2
-2006-09,Bob Marley & The Wailers,5
-2006-09,Culture,1
-2006-09,Dennis Brown,1
-2006-09,Jimmy Cliff,5
-2006-09,Manu Chao,2
-2006-09,Massive Attack,1
-2006-09,Matisyahu,7
-2006-09,Patrice,1
-2006-09,Peter Tosh,4
-2006-09,Sean Paul,3
-2006-09,Seeed,9
-2006-09,Toots & The Maytals,0
-2006-09,Ub40,0
-2006-10,Alpha Blondy,3
-2006-10,Amon Tobin,1
-2006-10,Augustus Pablo,6
-2006-10,Barrington Levy,8
-2006-10,Bedouin Soundclash,7
-2006-10,Black Uhuru,6
-2006-10,Bob Marley,5
-2006-10,Bob Marley & The Wailers,12
-2006-10,Culture,5
-2006-10,Dennis Brown,5
-2006-10,Jimmy Cliff,9
-2006-10,Manu Chao,4
-2006-10,Massive Attack,1
-2006-10,Matisyahu,7
-2006-10,Patrice,6
-2006-10,Peter Tosh,8
-2006-10,Sean Paul,6
-2006-10,Seeed,6
-2006-10,Toots & The Maytals,9
-2006-10,Ub40,6
-2006-11,Alpha Blondy,5
-2006-11,Amon Tobin,0
-2006-11,Augustus Pablo,6
-2006-11,Barrington Levy,5
-2006-11,Bedouin Soundclash,5
-2006-11,Black Uhuru,5
-2006-11,Bob Marley,2
-2006-11,Bob Marley & The Wailers,8
-2006-11,Culture,4
-2006-11,Dennis Brown,4
-2006-11,Jimmy Cliff,4
-2006-11,Manu Chao,5
-2006-11,Massive Attack,3
-2006-11,Matisyahu,6
-2006-11,Patrice,4
-2006-11,Peter Tosh,5
-2006-11,Sean Paul,5
-2006-11,Seeed,5
-2006-11,Toots & The Maytals,4
-2006-11,Ub40,5
-2006-12,Alpha Blondy,0
-2006-12,Amon Tobin,1
-2006-12,Augustus Pablo,0
-2006-12,Barrington Levy,0
-2006-12,Bedouin Soundclash,0
-2006-12,Black Uhuru,0
-2006-12,Bob Marley,0
-2006-12,Bob Marley & The Wailers,0
-2006-12,Culture,0
-2006-12,Dennis Brown,0
-2006-12,Jimmy Cliff,0
-2006-12,Manu Chao,0
-2006-12,Massive Attack,1
-2006-12,Matisyahu,0
-2006-12,Patrice,0
-2006-12,Peter Tosh,0
-2006-12,Sean Paul,0
-2006-12,Seeed,0
-2006-12,Toots & The Maytals,0
-2006-12,Ub40,0
-2007-01,Alpha Blondy,1
-2007-01,Amon Tobin,0
-2007-01,Augustus Pablo,1
-2007-01,Barrington Levy,1
-2007-01,Bedouin Soundclash,1
-2007-01,Black Uhuru,1
-2007-01,Bob Marley,1
-2007-01,Bob Marley & The Wailers,1
-2007-01,Culture,1
-2007-01,Dennis Brown,1
-2007-01,Jimmy Cliff,2
-2007-01,Manu Chao,2
-2007-01,Massive Attack,1
-2007-01,Matisyahu,1
-2007-01,Patrice,1
-2007-01,Peter Tosh,1
-2007-01,Sean Paul,1
-2007-01,Seeed,1
-2007-01,Toots & The Maytals,1
-2007-01,Ub40,1
-2007-02,Alpha Blondy,0
-2007-02,Amon Tobin,3
-2007-02,Augustus Pablo,0
-2007-02,Barrington Levy,0
-2007-02,Bedouin Soundclash,0
-2007-02,Black Uhuru,0
-2007-02,Bob Marley,0
-2007-02,Bob Marley & The Wailers,0
-2007-02,Culture,0
-2007-02,Dennis Brown,0
-2007-02,Jimmy Cliff,0
-2007-02,Manu Chao,0
-2007-02,Massive Attack,1
-2007-02,Matisyahu,0
-2007-02,Patrice,0
-2007-02,Peter Tosh,0
-2007-02,Sean Paul,0
-2007-02,Seeed,0
-2007-02,Toots & The Maytals,0
-2007-02,Ub40,0
-2007-03,Alpha Blondy,0
-2007-03,Amon Tobin,0
-2007-03,Augustus Pablo,0
-2007-03,Barrington Levy,0
-2007-03,Bedouin Soundclash,0
-2007-03,Black Uhuru,0
-2007-03,Bob Marley,0
-2007-03,Bob Marley & The Wailers,0
-2007-03,Culture,0
-2007-03,Dennis Brown,0
-2007-03,Jimmy Cliff,0
-2007-03,Manu Chao,0
-2007-03,Massive Attack,0
-2007-03,Matisyahu,0
-2007-03,Patrice,0
-2007-03,Peter Tosh,0
-2007-03,Sean Paul,0
-2007-03,Seeed,0
-2007-03,Toots & The Maytals,0
-2007-03,Ub40,0
-2007-04,Alpha Blondy,0
-2007-04,Amon Tobin,1
-2007-04,Augustus Pablo,1
-2007-04,Barrington Levy,0
-2007-04,Bedouin Soundclash,1
-2007-04,Black Uhuru,0
-2007-04,Bob Marley,1
-2007-04,Bob Marley & The Wailers,3
-2007-04,Culture,2
-2007-04,Dennis Brown,0
-2007-04,Jimmy Cliff,0
-2007-04,Manu Chao,0
-2007-04,Massive Attack,0
-2007-04,Matisyahu,0
-2007-04,Patrice,0
-2007-04,Peter Tosh,0
-2007-04,Sean Paul,0
-2007-04,Seeed,0
-2007-04,Toots & The Maytals,0
-2007-04,Ub40,0
-2007-05,Alpha Blondy,0
-2007-05,Amon Tobin,0
-2007-05,Augustus Pablo,0
-2007-05,Barrington Levy,0
-2007-05,Bedouin Soundclash,0
-2007-05,Black Uhuru,0
-2007-05,Bob Marley,0
-2007-05,Bob Marley & The Wailers,0
-2007-05,Culture,0
-2007-05,Dennis Brown,0
-2007-05,Jimmy Cliff,0
-2007-05,Manu Chao,0
-2007-05,Massive Attack,0
-2007-05,Matisyahu,0
-2007-05,Patrice,0
-2007-05,Peter Tosh,0
-2007-05,Sean Paul,0
-2007-05,Seeed,0
-2007-05,Toots & The Maytals,0
-2007-05,Ub40,0
-2007-06,Alpha Blondy,1
-2007-06,Amon Tobin,1
-2007-06,Augustus Pablo,1
-2007-06,Barrington Levy,1
-2007-06,Bedouin Soundclash,0
-2007-06,Black Uhuru,1
-2007-06,Bob Marley,0
-2007-06,Bob Marley & The Wailers,5
-2007-06,Culture,1
-2007-06,Dennis Brown,2
-2007-06,Jimmy Cliff,1
-2007-06,Manu Chao,19
-2007-06,Massive Attack,2
-2007-06,Matisyahu,2
-2007-06,Patrice,1
-2007-06,Peter Tosh,2
-2007-06,Sean Paul,1
-2007-06,Seeed,0
-2007-06,Toots & The Maytals,1
-2007-06,Ub40,0
-2007-07,Alpha Blondy,0
-2007-07,Amon Tobin,0
-2007-07,Augustus Pablo,0
-2007-07,Barrington Levy,0
-2007-07,Bedouin Soundclash,0
-2007-07,Black Uhuru,0
-2007-07,Bob Marley,15
-2007-07,Bob Marley & The Wailers,11
-2007-07,Culture,0
-2007-07,Dennis Brown,1
-2007-07,Jimmy Cliff,1
-2007-07,Manu Chao,1
-2007-07,Massive Attack,0
-2007-07,Matisyahu,0
-2007-07,Patrice,0
-2007-07,Peter Tosh,0
-2007-07,Sean Paul,0
-2007-07,Seeed,1
-2007-07,Toots & The Maytals,0
-2007-07,Ub40,2
-2007-08,Alpha Blondy,2
-2007-08,Amon Tobin,0
-2007-08,Augustus Pablo,1
-2007-08,Barrington Levy,0
-2007-08,Bedouin Soundclash,2
-2007-08,Black Uhuru,3
-2007-08,Bob Marley,1
-2007-08,Bob Marley & The Wailers,2
-2007-08,Culture,1
-2007-08,Dennis Brown,2
-2007-08,Jimmy Cliff,0
-2007-08,Manu Chao,12
-2007-08,Massive Attack,3
-2007-08,Matisyahu,2
-2007-08,Patrice,2
-2007-08,Peter Tosh,16
-2007-08,Sean Paul,1
-2007-08,Seeed,1
-2007-08,Toots & The Maytals,2
-2007-08,Ub40,2
-2007-09,Alpha Blondy,0
-2007-09,Amon Tobin,1
-2007-09,Augustus Pablo,2
-2007-09,Barrington Levy,2
-2007-09,Bedouin Soundclash,1
-2007-09,Black Uhuru,1
-2007-09,Bob Marley,1
-2007-09,Bob Marley & The Wailers,7
-2007-09,Culture,1
-2007-09,Dennis Brown,0
-2007-09,Jimmy Cliff,3
-2007-09,Manu Chao,7
-2007-09,Massive Attack,5
-2007-09,Matisyahu,4
-2007-09,Patrice,0
-2007-09,Peter Tosh,5
-2007-09,Sean Paul,1
-2007-09,Seeed,1
-2007-09,Toots & The Maytals,0
-2007-09,Ub40,2
-2007-10,Alpha Blondy,3
-2007-10,Amon Tobin,2
-2007-10,Augustus Pablo,3
-2007-10,Barrington Levy,3
-2007-10,Bedouin Soundclash,2
-2007-10,Black Uhuru,3
-2007-10,Bob Marley,4
-2007-10,Bob Marley & The Wailers,6
-2007-10,Culture,2
-2007-10,Dennis Brown,1
-2007-10,Jimmy Cliff,3
-2007-10,Manu Chao,3
-2007-10,Massive Attack,3
-2007-10,Matisyahu,5
-2007-10,Patrice,2
-2007-10,Peter Tosh,4
-2007-10,Sean Paul,1
-2007-10,Seeed,1
-2007-10,Toots & The Maytals,5
-2007-10,Ub40,5
-2007-11,Alpha Blondy,5
-2007-11,Amon Tobin,5
-2007-11,Augustus Pablo,1
-2007-11,Barrington Levy,2
-2007-11,Bedouin Soundclash,2
-2007-11,Black Uhuru,4
-2007-11,Bob Marley,4
-2007-11,Bob Marley & The Wailers,5
-2007-11,Culture,1
-2007-11,Dennis Brown,3
-2007-11,Jimmy Cliff,3
-2007-11,Manu Chao,3
-2007-11,Massive Attack,7
-2007-11,Matisyahu,6
-2007-11,Patrice,1
-2007-11,Peter Tosh,5
-2007-11,Sean Paul,1
-2007-11,Seeed,5
-2007-11,Toots & The Maytals,3
-2007-11,Ub40,4
-2007-12,Alpha Blondy,3
-2007-12,Amon Tobin,2
-2007-12,Augustus Pablo,1
-2007-12,Barrington Levy,2
-2007-12,Bedouin Soundclash,4
-2007-12,Black Uhuru,3
-2007-12,Bob Marley,2
-2007-12,Bob Marley & The Wailers,7
-2007-12,Culture,3
-2007-12,Dennis Brown,3
-2007-12,Jimmy Cliff,1
-2007-12,Manu Chao,19
-2007-12,Massive Attack,3
-2007-12,Matisyahu,5
-2007-12,Patrice,1
-2007-12,Peter Tosh,5
-2007-12,Sean Paul,1
-2007-12,Seeed,4
-2007-12,Toots & The Maytals,1
-2007-12,Ub40,4
-2008-01,Alpha Blondy,3
-2008-01,Amon Tobin,4
-2008-01,Augustus Pablo,1
-2008-01,Barrington Levy,2
-2008-01,Bedouin Soundclash,1
-2008-01,Black Uhuru,3
-2008-01,Bob Marley,4
-2008-01,Bob Marley & The Wailers,3
-2008-01,Culture,2
-2008-01,Dennis Brown,2
-2008-01,Jimmy Cliff,1
-2008-01,Manu Chao,25
-2008-01,Massive Attack,4
-2008-01,Matisyahu,3
-2008-01,Patrice,2
-2008-01,Peter Tosh,8
-2008-01,Sean Paul,2
-2008-01,Seeed,2
-2008-01,Toots & The Maytals,3
-2008-01,Ub40,3
-2008-02,Alpha Blondy,4
-2008-02,Amon Tobin,1
-2008-02,Augustus Pablo,4
-2008-02,Barrington Levy,3
-2008-02,Bedouin Soundclash,6
-2008-02,Black Uhuru,8
-2008-02,Bob Marley,5
-2008-02,Bob Marley & The Wailers,10
-2008-02,Culture,3
-2008-02,Dennis Brown,5
-2008-02,Jimmy Cliff,5
-2008-02,Manu Chao,4
-2008-02,Massive Attack,2
-2008-02,Matisyahu,6
-2008-02,Patrice,5
-2008-02,Peter Tosh,3
-2008-02,Sean Paul,5
-2008-02,Seeed,5
-2008-02,Toots & The Maytals,5
-2008-02,Ub40,7
-2008-03,Alpha Blondy,5
-2008-03,Amon Tobin,3
-2008-03,Augustus Pablo,2
-2008-03,Barrington Levy,5
-2008-03,Bedouin Soundclash,4
-2008-03,Black Uhuru,8
-2008-03,Bob Marley,2
-2008-03,Bob Marley & The Wailers,13
-2008-03,Culture,8
-2008-03,Dennis Brown,3
-2008-03,Jimmy Cliff,3
-2008-03,Manu Chao,5
-2008-03,Massive Attack,1
-2008-03,Matisyahu,7
-2008-03,Patrice,4
-2008-03,Peter Tosh,7
-2008-03,Sean Paul,6
-2008-03,Seeed,4
-2008-03,Toots & The Maytals,8
-2008-03,Ub40,7
-2008-04,Alpha Blondy,4
-2008-04,Amon Tobin,3
-2008-04,Augustus Pablo,5
-2008-04,Barrington Levy,2
-2008-04,Bedouin Soundclash,8
-2008-04,Black Uhuru,5
-2008-04,Bob Marley,8
-2008-04,Bob Marley & The Wailers,11
-2008-04,Culture,2
-2008-04,Dennis Brown,4
-2008-04,Jimmy Cliff,8
-2008-04,Manu Chao,5
-2008-04,Massive Attack,1
-2008-04,Matisyahu,8
-2008-04,Patrice,7
-2008-04,Peter Tosh,6
-2008-04,Sean Paul,5
-2008-04,Seeed,4
-2008-04,Toots & The Maytals,4
-2008-04,Ub40,6
-2008-05,Alpha Blondy,7
-2008-05,Amon Tobin,11
-2008-05,Augustus Pablo,3
-2008-05,Barrington Levy,7
-2008-05,Bedouin Soundclash,14
-2008-05,Black Uhuru,11
-2008-05,Bob Marley,16
-2008-05,Bob Marley & The Wailers,22
-2008-05,Culture,3
-2008-05,Dennis Brown,5
-2008-05,Jimmy Cliff,7
-2008-05,Manu Chao,21
-2008-05,Massive Attack,2
-2008-05,Matisyahu,20
-2008-05,Patrice,17
-2008-05,Peter Tosh,10
-2008-05,Sean Paul,16
-2008-05,Seeed,13
-2008-05,Toots & The Maytals,15
-2008-05,Ub40,11
-2008-06,Alpha Blondy,7
-2008-06,Amon Tobin,2
-2008-06,Augustus Pablo,6
-2008-06,Barrington Levy,5
-2008-06,Bedouin Soundclash,11
-2008-06,Black Uhuru,6
-2008-06,Bob Marley,15
-2008-06,Bob Marley & The Wailers,29
-2008-06,Culture,2
-2008-06,Dennis Brown,3
-2008-06,Jimmy Cliff,7
-2008-06,Manu Chao,17
-2008-06,Massive Attack,1
-2008-06,Matisyahu,11
-2008-06,Patrice,7
-2008-06,Peter Tosh,15
-2008-06,Sean Paul,3
-2008-06,Seeed,8
-2008-06,Toots & The Maytals,12
-2008-06,Ub40,18
-2008-07,Alpha Blondy,3
-2008-07,Amon Tobin,2
-2008-07,Augustus Pablo,3
-2008-07,Barrington Levy,4
-2008-07,Bedouin Soundclash,12
-2008-07,Black Uhuru,6
-2008-07,Bob Marley,11
-2008-07,Bob Marley & The Wailers,23
-2008-07,Culture,0
-2008-07,Dennis Brown,2
-2008-07,Jimmy Cliff,11
-2008-07,Manu Chao,20
-2008-07,Massive Attack,6
-2008-07,Matisyahu,13
-2008-07,Patrice,13
-2008-07,Peter Tosh,8
-2008-07,Sean Paul,6
-2008-07,Seeed,9
-2008-07,Toots & The Maytals,12
-2008-07,Ub40,12
-2008-08,Alpha Blondy,1
-2008-08,Amon Tobin,0
-2008-08,Augustus Pablo,2
-2008-08,Barrington Levy,1
-2008-08,Bedouin Soundclash,3
-2008-08,Black Uhuru,3
-2008-08,Bob Marley,6
-2008-08,Bob Marley & The Wailers,7
-2008-08,Culture,1
-2008-08,Dennis Brown,1
-2008-08,Jimmy Cliff,3
-2008-08,Manu Chao,7
-2008-08,Massive Attack,1
-2008-08,Matisyahu,9
-2008-08,Patrice,10
-2008-08,Peter Tosh,5
-2008-08,Sean Paul,3
-2008-08,Seeed,6
-2008-08,Toots & The Maytals,6
-2008-08,Ub40,7
-2008-09,Alpha Blondy,3
-2008-09,Amon Tobin,4
-2008-09,Augustus Pablo,4
-2008-09,Barrington Levy,2
-2008-09,Bedouin Soundclash,5
-2008-09,Black Uhuru,3
-2008-09,Bob Marley,3
-2008-09,Bob Marley & The Wailers,14
-2008-09,Culture,0
-2008-09,Dennis Brown,2
-2008-09,Jimmy Cliff,5
-2008-09,Manu Chao,10
-2008-09,Massive Attack,3
-2008-09,Matisyahu,10
-2008-09,Patrice,9
-2008-09,Peter Tosh,9
-2008-09,Sean Paul,5
-2008-09,Seeed,8
-2008-09,Toots & The Maytals,10
-2008-09,Ub40,7
-2008-10,Alpha Blondy,4
-2008-10,Amon Tobin,2
-2008-10,Augustus Pablo,5
-2008-10,Barrington Levy,4
-2008-10,Bedouin Soundclash,7
-2008-10,Black Uhuru,6
-2008-10,Bob Marley,7
-2008-10,Bob Marley & The Wailers,18
-2008-10,Culture,4
-2008-10,Dennis Brown,3
-2008-10,Jimmy Cliff,4
-2008-10,Manu Chao,9
-2008-10,Massive Attack,2
-2008-10,Matisyahu,10
-2008-10,Patrice,15
-2008-10,Peter Tosh,5
-2008-10,Sean Paul,1
-2008-10,Seeed,8
-2008-10,Toots & The Maytals,9
-2008-10,Ub40,9
-2008-11,Alpha Blondy,1
-2008-11,Amon Tobin,3
-2008-11,Augustus Pablo,2
-2008-11,Barrington Levy,1
-2008-11,Bedouin Soundclash,6
-2008-11,Black Uhuru,7
-2008-11,Bob Marley,7
-2008-11,Bob Marley & The Wailers,15
-2008-11,Culture,4
-2008-11,Dennis Brown,2
-2008-11,Jimmy Cliff,7
-2008-11,Manu Chao,13
-2008-11,Massive Attack,3
-2008-11,Matisyahu,13
-2008-11,Patrice,11
-2008-11,Peter Tosh,8
-2008-11,Sean Paul,4
-2008-11,Seeed,7
-2008-11,Toots & The Maytals,7
-2008-11,Ub40,10
-2008-12,Alpha Blondy,2
-2008-12,Amon Tobin,0
-2008-12,Augustus Pablo,1
-2008-12,Barrington Levy,2
-2008-12,Bedouin Soundclash,3
-2008-12,Black Uhuru,0
-2008-12,Bob Marley,2
-2008-12,Bob Marley & The Wailers,4
-2008-12,Culture,2
-2008-12,Dennis Brown,0
-2008-12,Jimmy Cliff,3
-2008-12,Manu Chao,5
-2008-12,Massive Attack,0
-2008-12,Matisyahu,3
-2008-12,Patrice,2
-2008-12,Peter Tosh,1
-2008-12,Sean Paul,1
-2008-12,Seeed,3
-2008-12,Toots & The Maytals,5
-2008-12,Ub40,3
-2009-01,Alpha Blondy,0
-2009-01,Amon Tobin,0
-2009-01,Augustus Pablo,1
-2009-01,Barrington Levy,2
-2009-01,Bedouin Soundclash,4
-2009-01,Black Uhuru,4
-2009-01,Bob Marley,2
-2009-01,Bob Marley & The Wailers,8
-2009-01,Culture,1
-2009-01,Dennis Brown,1
-2009-01,Jimmy Cliff,4
-2009-01,Manu Chao,4
-2009-01,Massive Attack,0
-2009-01,Matisyahu,4
-2009-01,Patrice,1
-2009-01,Peter Tosh,2
-2009-01,Sean Paul,2
-2009-01,Seeed,3
-2009-01,Toots & The Maytals,5
-2009-01,Ub40,2
-2009-02,Alpha Blondy,4
-2009-02,Amon Tobin,3
-2009-02,Augustus Pablo,1
-2009-02,Barrington Levy,4
-2009-02,Bedouin Soundclash,4
-2009-02,Black Uhuru,1
-2009-02,Bob Marley,4
-2009-02,Bob Marley & The Wailers,10
-2009-02,Culture,3
-2009-02,Dennis Brown,0
-2009-02,Jimmy Cliff,4
-2009-02,Manu Chao,8
-2009-02,Massive Attack,3
-2009-02,Matisyahu,7
-2009-02,Patrice,5
-2009-02,Peter Tosh,6
-2009-02,Sean Paul,3
-2009-02,Seeed,3
-2009-02,Toots & The Maytals,5
-2009-02,Ub40,4
-2009-03,Alpha Blondy,1
-2009-03,Amon Tobin,2
-2009-03,Augustus Pablo,0
-2009-03,Barrington Levy,1
-2009-03,Bedouin Soundclash,2
-2009-03,Black Uhuru,0
-2009-03,Bob Marley,1
-2009-03,Bob Marley & The Wailers,2
-2009-03,Culture,0
-2009-03,Dennis Brown,1
-2009-03,Jimmy Cliff,0
-2009-03,Manu Chao,2
-2009-03,Massive Attack,5
-2009-03,Matisyahu,2
-2009-03,Patrice,1
-2009-03,Peter Tosh,0
-2009-03,Sean Paul,0
-2009-03,Seeed,0
-2009-03,Toots & The Maytals,0
-2009-03,Ub40,0
-2009-04,Alpha Blondy,2
-2009-04,Amon Tobin,0
-2009-04,Augustus Pablo,0
-2009-04,Barrington Levy,0
-2009-04,Bedouin Soundclash,1
-2009-04,Black Uhuru,0
-2009-04,Bob Marley,1
-2009-04,Bob Marley & The Wailers,7
-2009-04,Culture,0
-2009-04,Dennis Brown,1
-2009-04,Jimmy Cliff,0
-2009-04,Manu Chao,6
-2009-04,Massive Attack,2
-2009-04,Matisyahu,1
-2009-04,Patrice,4
-2009-04,Peter Tosh,2
-2009-04,Sean Paul,0
-2009-04,Seeed,0
-2009-04,Toots & The Maytals,1
-2009-04,Ub40,1
-2009-05,Alpha Blondy,0
-2009-05,Amon Tobin,0
-2009-05,Augustus Pablo,0
-2009-05,Barrington Levy,0
-2009-05,Bedouin Soundclash,0
-2009-05,Black Uhuru,0
-2009-05,Bob Marley,0
-2009-05,Bob Marley & The Wailers,0
-2009-05,Culture,0
-2009-05,Dennis Brown,0
-2009-05,Jimmy Cliff,0
-2009-05,Manu Chao,0
-2009-05,Massive Attack,1
-2009-05,Matisyahu,0
-2009-05,Patrice,0
-2009-05,Peter Tosh,0
-2009-05,Sean Paul,0
-2009-05,Seeed,0
-2009-05,Toots & The Maytals,0
-2009-05,Ub40,0
+"month","artist","plays"
+"2006-08","Alpha Blondy",0
+"2006-08","Amon Tobin",1
+"2006-08","Augustus Pablo",0
+"2006-08","Barrington Levy",0
+"2006-08","Bedouin Soundclash",0
+"2006-08","Black Uhuru",0
+"2006-08","Bob Marley",3
+"2006-08","Bob Marley & The Wailers",4
+"2006-08","Culture",3
+"2006-08","Dennis Brown",0
+"2006-08","Jimmy Cliff",0
+"2006-08","Manu Chao",0
+"2006-08","Massive Attack",0
+"2006-08","Matisyahu",0
+"2006-08","Patrice",0
+"2006-08","Peter Tosh",0
+"2006-08","Sean Paul",0
+"2006-08","Seeed",3
+"2006-08","Toots & The Maytals",1
+"2006-08","Ub40",0
+"2006-09","Alpha Blondy",1
+"2006-09","Amon Tobin",1
+"2006-09","Augustus Pablo",2
+"2006-09","Barrington Levy",1
+"2006-09","Bedouin Soundclash",2
+"2006-09","Black Uhuru",3
+"2006-09","Bob Marley",2
+"2006-09","Bob Marley & The Wailers",5
+"2006-09","Culture",1
+"2006-09","Dennis Brown",1
+"2006-09","Jimmy Cliff",5
+"2006-09","Manu Chao",2
+"2006-09","Massive Attack",1
+"2006-09","Matisyahu",7
+"2006-09","Patrice",1
+"2006-09","Peter Tosh",4
+"2006-09","Sean Paul",3
+"2006-09","Seeed",9
+"2006-09","Toots & The Maytals",0
+"2006-09","Ub40",0
+"2006-10","Alpha Blondy",3
+"2006-10","Amon Tobin",1
+"2006-10","Augustus Pablo",6
+"2006-10","Barrington Levy",8
+"2006-10","Bedouin Soundclash",7
+"2006-10","Black Uhuru",6
+"2006-10","Bob Marley",5
+"2006-10","Bob Marley & The Wailers",12
+"2006-10","Culture",5
+"2006-10","Dennis Brown",5
+"2006-10","Jimmy Cliff",9
+"2006-10","Manu Chao",4
+"2006-10","Massive Attack",1
+"2006-10","Matisyahu",7
+"2006-10","Patrice",6
+"2006-10","Peter Tosh",8
+"2006-10","Sean Paul",6
+"2006-10","Seeed",6
+"2006-10","Toots & The Maytals",9
+"2006-10","Ub40",6
+"2006-11","Alpha Blondy",5
+"2006-11","Amon Tobin",0
+"2006-11","Augustus Pablo",6
+"2006-11","Barrington Levy",5
+"2006-11","Bedouin Soundclash",5
+"2006-11","Black Uhuru",5
+"2006-11","Bob Marley",2
+"2006-11","Bob Marley & The Wailers",8
+"2006-11","Culture",4
+"2006-11","Dennis Brown",4
+"2006-11","Jimmy Cliff",4
+"2006-11","Manu Chao",5
+"2006-11","Massive Attack",3
+"2006-11","Matisyahu",6
+"2006-11","Patrice",4
+"2006-11","Peter Tosh",5
+"2006-11","Sean Paul",5
+"2006-11","Seeed",5
+"2006-11","Toots & The Maytals",4
+"2006-11","Ub40",5
+"2006-12","Alpha Blondy",0
+"2006-12","Amon Tobin",1
+"2006-12","Augustus Pablo",0
+"2006-12","Barrington Levy",0
+"2006-12","Bedouin Soundclash",0
+"2006-12","Black Uhuru",0
+"2006-12","Bob Marley",0
+"2006-12","Bob Marley & The Wailers",0
+"2006-12","Culture",0
+"2006-12","Dennis Brown",0
+"2006-12","Jimmy Cliff",0
+"2006-12","Manu Chao",0
+"2006-12","Massive Attack",1
+"2006-12","Matisyahu",0
+"2006-12","Patrice",0
+"2006-12","Peter Tosh",0
+"2006-12","Sean Paul",0
+"2006-12","Seeed",0
+"2006-12","Toots & The Maytals",0
+"2006-12","Ub40",0
+"2007-01","Alpha Blondy",1
+"2007-01","Amon Tobin",0
+"2007-01","Augustus Pablo",1
+"2007-01","Barrington Levy",1
+"2007-01","Bedouin Soundclash",1
+"2007-01","Black Uhuru",1
+"2007-01","Bob Marley",1
+"2007-01","Bob Marley & The Wailers",1
+"2007-01","Culture",1
+"2007-01","Dennis Brown",1
+"2007-01","Jimmy Cliff",2
+"2007-01","Manu Chao",2
+"2007-01","Massive Attack",1
+"2007-01","Matisyahu",1
+"2007-01","Patrice",1
+"2007-01","Peter Tosh",1
+"2007-01","Sean Paul",1
+"2007-01","Seeed",1
+"2007-01","Toots & The Maytals",1
+"2007-01","Ub40",1
+"2007-02","Alpha Blondy",0
+"2007-02","Amon Tobin",3
+"2007-02","Augustus Pablo",0
+"2007-02","Barrington Levy",0
+"2007-02","Bedouin Soundclash",0
+"2007-02","Black Uhuru",0
+"2007-02","Bob Marley",0
+"2007-02","Bob Marley & The Wailers",0
+"2007-02","Culture",0
+"2007-02","Dennis Brown",0
+"2007-02","Jimmy Cliff",0
+"2007-02","Manu Chao",0
+"2007-02","Massive Attack",1
+"2007-02","Matisyahu",0
+"2007-02","Patrice",0
+"2007-02","Peter Tosh",0
+"2007-02","Sean Paul",0
+"2007-02","Seeed",0
+"2007-02","Toots & The Maytals",0
+"2007-02","Ub40",0
+"2007-03","Alpha Blondy",0
+"2007-03","Amon Tobin",0
+"2007-03","Augustus Pablo",0
+"2007-03","Barrington Levy",0
+"2007-03","Bedouin Soundclash",0
+"2007-03","Black Uhuru",0
+"2007-03","Bob Marley",0
+"2007-03","Bob Marley & The Wailers",0
+"2007-03","Culture",0
+"2007-03","Dennis Brown",0
+"2007-03","Jimmy Cliff",0
+"2007-03","Manu Chao",0
+"2007-03","Massive Attack",0
+"2007-03","Matisyahu",0
+"2007-03","Patrice",0
+"2007-03","Peter Tosh",0
+"2007-03","Sean Paul",0
+"2007-03","Seeed",0
+"2007-03","Toots & The Maytals",0
+"2007-03","Ub40",0
+"2007-04","Alpha Blondy",0
+"2007-04","Amon Tobin",1
+"2007-04","Augustus Pablo",1
+"2007-04","Barrington Levy",0
+"2007-04","Bedouin Soundclash",1
+"2007-04","Black Uhuru",0
+"2007-04","Bob Marley",1
+"2007-04","Bob Marley & The Wailers",3
+"2007-04","Culture",2
+"2007-04","Dennis Brown",0
+"2007-04","Jimmy Cliff",0
+"2007-04","Manu Chao",0
+"2007-04","Massive Attack",0
+"2007-04","Matisyahu",0
+"2007-04","Patrice",0
+"2007-04","Peter Tosh",0
+"2007-04","Sean Paul",0
+"2007-04","Seeed",0
+"2007-04","Toots & The Maytals",0
+"2007-04","Ub40",0
+"2007-05","Alpha Blondy",0
+"2007-05","Amon Tobin",0
+"2007-05","Augustus Pablo",0
+"2007-05","Barrington Levy",0
+"2007-05","Bedouin Soundclash",0
+"2007-05","Black Uhuru",0
+"2007-05","Bob Marley",0
+"2007-05","Bob Marley & The Wailers",0
+"2007-05","Culture",0
+"2007-05","Dennis Brown",0
+"2007-05","Jimmy Cliff",0
+"2007-05","Manu Chao",0
+"2007-05","Massive Attack",0
+"2007-05","Matisyahu",0
+"2007-05","Patrice",0
+"2007-05","Peter Tosh",0
+"2007-05","Sean Paul",0
+"2007-05","Seeed",0
+"2007-05","Toots & The Maytals",0
+"2007-05","Ub40",0
+"2007-06","Alpha Blondy",1
+"2007-06","Amon Tobin",1
+"2007-06","Augustus Pablo",1
+"2007-06","Barrington Levy",1
+"2007-06","Bedouin Soundclash",0
+"2007-06","Black Uhuru",1
+"2007-06","Bob Marley",0
+"2007-06","Bob Marley & The Wailers",5
+"2007-06","Culture",1
+"2007-06","Dennis Brown",2
+"2007-06","Jimmy Cliff",1
+"2007-06","Manu Chao",19
+"2007-06","Massive Attack",2
+"2007-06","Matisyahu",2
+"2007-06","Patrice",1
+"2007-06","Peter Tosh",2
+"2007-06","Sean Paul",1
+"2007-06","Seeed",0
+"2007-06","Toots & The Maytals",1
+"2007-06","Ub40",0
+"2007-07","Alpha Blondy",0
+"2007-07","Amon Tobin",0
+"2007-07","Augustus Pablo",0
+"2007-07","Barrington Levy",0
+"2007-07","Bedouin Soundclash",0
+"2007-07","Black Uhuru",0
+"2007-07","Bob Marley",15
+"2007-07","Bob Marley & The Wailers",11
+"2007-07","Culture",0
+"2007-07","Dennis Brown",1
+"2007-07","Jimmy Cliff",1
+"2007-07","Manu Chao",1
+"2007-07","Massive Attack",0
+"2007-07","Matisyahu",0
+"2007-07","Patrice",0
+"2007-07","Peter Tosh",0
+"2007-07","Sean Paul",0
+"2007-07","Seeed",1
+"2007-07","Toots & The Maytals",0
+"2007-07","Ub40",2
+"2007-08","Alpha Blondy",2
+"2007-08","Amon Tobin",0
+"2007-08","Augustus Pablo",1
+"2007-08","Barrington Levy",0
+"2007-08","Bedouin Soundclash",2
+"2007-08","Black Uhuru",3
+"2007-08","Bob Marley",1
+"2007-08","Bob Marley & The Wailers",2
+"2007-08","Culture",1
+"2007-08","Dennis Brown",2
+"2007-08","Jimmy Cliff",0
+"2007-08","Manu Chao",12
+"2007-08","Massive Attack",3
+"2007-08","Matisyahu",2
+"2007-08","Patrice",2
+"2007-08","Peter Tosh",16
+"2007-08","Sean Paul",1
+"2007-08","Seeed",1
+"2007-08","Toots & The Maytals",2
+"2007-08","Ub40",2
+"2007-09","Alpha Blondy",0
+"2007-09","Amon Tobin",1
+"2007-09","Augustus Pablo",2
+"2007-09","Barrington Levy",2
+"2007-09","Bedouin Soundclash",1
+"2007-09","Black Uhuru",1
+"2007-09","Bob Marley",1
+"2007-09","Bob Marley & The Wailers",7
+"2007-09","Culture",1
+"2007-09","Dennis Brown",0
+"2007-09","Jimmy Cliff",3
+"2007-09","Manu Chao",7
+"2007-09","Massive Attack",5
+"2007-09","Matisyahu",4
+"2007-09","Patrice",0
+"2007-09","Peter Tosh",5
+"2007-09","Sean Paul",1
+"2007-09","Seeed",1
+"2007-09","Toots & The Maytals",0
+"2007-09","Ub40",2
+"2007-10","Alpha Blondy",3
+"2007-10","Amon Tobin",2
+"2007-10","Augustus Pablo",3
+"2007-10","Barrington Levy",3
+"2007-10","Bedouin Soundclash",2
+"2007-10","Black Uhuru",3
+"2007-10","Bob Marley",4
+"2007-10","Bob Marley & The Wailers",6
+"2007-10","Culture",2
+"2007-10","Dennis Brown",1
+"2007-10","Jimmy Cliff",3
+"2007-10","Manu Chao",3
+"2007-10","Massive Attack",3
+"2007-10","Matisyahu",5
+"2007-10","Patrice",2
+"2007-10","Peter Tosh",4
+"2007-10","Sean Paul",1
+"2007-10","Seeed",1
+"2007-10","Toots & The Maytals",5
+"2007-10","Ub40",5
+"2007-11","Alpha Blondy",5
+"2007-11","Amon Tobin",5
+"2007-11","Augustus Pablo",1
+"2007-11","Barrington Levy",2
+"2007-11","Bedouin Soundclash",2
+"2007-11","Black Uhuru",4
+"2007-11","Bob Marley",4
+"2007-11","Bob Marley & The Wailers",5
+"2007-11","Culture",1
+"2007-11","Dennis Brown",3
+"2007-11","Jimmy Cliff",3
+"2007-11","Manu Chao",3
+"2007-11","Massive Attack",7
+"2007-11","Matisyahu",6
+"2007-11","Patrice",1
+"2007-11","Peter Tosh",5
+"2007-11","Sean Paul",1
+"2007-11","Seeed",5
+"2007-11","Toots & The Maytals",3
+"2007-11","Ub40",4
+"2007-12","Alpha Blondy",3
+"2007-12","Amon Tobin",2
+"2007-12","Augustus Pablo",1
+"2007-12","Barrington Levy",2
+"2007-12","Bedouin Soundclash",4
+"2007-12","Black Uhuru",3
+"2007-12","Bob Marley",2
+"2007-12","Bob Marley & The Wailers",7
+"2007-12","Culture",3
+"2007-12","Dennis Brown",3
+"2007-12","Jimmy Cliff",1
+"2007-12","Manu Chao",19
+"2007-12","Massive Attack",3
+"2007-12","Matisyahu",5
+"2007-12","Patrice",1
+"2007-12","Peter Tosh",5
+"2007-12","Sean Paul",1
+"2007-12","Seeed",4
+"2007-12","Toots & The Maytals",1
+"2007-12","Ub40",4
+"2008-01","Alpha Blondy",3
+"2008-01","Amon Tobin",4
+"2008-01","Augustus Pablo",1
+"2008-01","Barrington Levy",2
+"2008-01","Bedouin Soundclash",1
+"2008-01","Black Uhuru",3
+"2008-01","Bob Marley",4
+"2008-01","Bob Marley & The Wailers",3
+"2008-01","Culture",2
+"2008-01","Dennis Brown",2
+"2008-01","Jimmy Cliff",1
+"2008-01","Manu Chao",25
+"2008-01","Massive Attack",4
+"2008-01","Matisyahu",3
+"2008-01","Patrice",2
+"2008-01","Peter Tosh",8
+"2008-01","Sean Paul",2
+"2008-01","Seeed",2
+"2008-01","Toots & The Maytals",3
+"2008-01","Ub40",3
+"2008-02","Alpha Blondy",4
+"2008-02","Amon Tobin",1
+"2008-02","Augustus Pablo",4
+"2008-02","Barrington Levy",3
+"2008-02","Bedouin Soundclash",6
+"2008-02","Black Uhuru",8
+"2008-02","Bob Marley",5
+"2008-02","Bob Marley & The Wailers",10
+"2008-02","Culture",3
+"2008-02","Dennis Brown",5
+"2008-02","Jimmy Cliff",5
+"2008-02","Manu Chao",4
+"2008-02","Massive Attack",2
+"2008-02","Matisyahu",6
+"2008-02","Patrice",5
+"2008-02","Peter Tosh",3
+"2008-02","Sean Paul",5
+"2008-02","Seeed",5
+"2008-02","Toots & The Maytals",5
+"2008-02","Ub40",7
+"2008-03","Alpha Blondy",5
+"2008-03","Amon Tobin",3
+"2008-03","Augustus Pablo",2
+"2008-03","Barrington Levy",5
+"2008-03","Bedouin Soundclash",4
+"2008-03","Black Uhuru",8
+"2008-03","Bob Marley",2
+"2008-03","Bob Marley & The Wailers",13
+"2008-03","Culture",8
+"2008-03","Dennis Brown",3
+"2008-03","Jimmy Cliff",3
+"2008-03","Manu Chao",5
+"2008-03","Massive Attack",1
+"2008-03","Matisyahu",7
+"2008-03","Patrice",4
+"2008-03","Peter Tosh",7
+"2008-03","Sean Paul",6
+"2008-03","Seeed",4
+"2008-03","Toots & The Maytals",8
+"2008-03","Ub40",7
+"2008-04","Alpha Blondy",4
+"2008-04","Amon Tobin",3
+"2008-04","Augustus Pablo",5
+"2008-04","Barrington Levy",2
+"2008-04","Bedouin Soundclash",8
+"2008-04","Black Uhuru",5
+"2008-04","Bob Marley",8
+"2008-04","Bob Marley & The Wailers",11
+"2008-04","Culture",2
+"2008-04","Dennis Brown",4
+"2008-04","Jimmy Cliff",8
+"2008-04","Manu Chao",5
+"2008-04","Massive Attack",1
+"2008-04","Matisyahu",8
+"2008-04","Patrice",7
+"2008-04","Peter Tosh",6
+"2008-04","Sean Paul",5
+"2008-04","Seeed",4
+"2008-04","Toots & The Maytals",4
+"2008-04","Ub40",6
+"2008-05","Alpha Blondy",7
+"2008-05","Amon Tobin",11
+"2008-05","Augustus Pablo",3
+"2008-05","Barrington Levy",7
+"2008-05","Bedouin Soundclash",14
+"2008-05","Black Uhuru",11
+"2008-05","Bob Marley",16
+"2008-05","Bob Marley & The Wailers",22
+"2008-05","Culture",3
+"2008-05","Dennis Brown",5
+"2008-05","Jimmy Cliff",7
+"2008-05","Manu Chao",21
+"2008-05","Massive Attack",2
+"2008-05","Matisyahu",20
+"2008-05","Patrice",17
+"2008-05","Peter Tosh",10
+"2008-05","Sean Paul",16
+"2008-05","Seeed",13
+"2008-05","Toots & The Maytals",15
+"2008-05","Ub40",11
+"2008-06","Alpha Blondy",7
+"2008-06","Amon Tobin",2
+"2008-06","Augustus Pablo",6
+"2008-06","Barrington Levy",5
+"2008-06","Bedouin Soundclash",11
+"2008-06","Black Uhuru",6
+"2008-06","Bob Marley",15
+"2008-06","Bob Marley & The Wailers",29
+"2008-06","Culture",2
+"2008-06","Dennis Brown",3
+"2008-06","Jimmy Cliff",7
+"2008-06","Manu Chao",17
+"2008-06","Massive Attack",1
+"2008-06","Matisyahu",11
+"2008-06","Patrice",7
+"2008-06","Peter Tosh",15
+"2008-06","Sean Paul",3
+"2008-06","Seeed",8
+"2008-06","Toots & The Maytals",12
+"2008-06","Ub40",18
+"2008-07","Alpha Blondy",3
+"2008-07","Amon Tobin",2
+"2008-07","Augustus Pablo",3
+"2008-07","Barrington Levy",4
+"2008-07","Bedouin Soundclash",12
+"2008-07","Black Uhuru",6
+"2008-07","Bob Marley",11
+"2008-07","Bob Marley & The Wailers",23
+"2008-07","Culture",0
+"2008-07","Dennis Brown",2
+"2008-07","Jimmy Cliff",11
+"2008-07","Manu Chao",20
+"2008-07","Massive Attack",6
+"2008-07","Matisyahu",13
+"2008-07","Patrice",13
+"2008-07","Peter Tosh",8
+"2008-07","Sean Paul",6
+"2008-07","Seeed",9
+"2008-07","Toots & The Maytals",12
+"2008-07","Ub40",12
+"2008-08","Alpha Blondy",1
+"2008-08","Amon Tobin",0
+"2008-08","Augustus Pablo",2
+"2008-08","Barrington Levy",1
+"2008-08","Bedouin Soundclash",3
+"2008-08","Black Uhuru",3
+"2008-08","Bob Marley",6
+"2008-08","Bob Marley & The Wailers",7
+"2008-08","Culture",1
+"2008-08","Dennis Brown",1
+"2008-08","Jimmy Cliff",3
+"2008-08","Manu Chao",7
+"2008-08","Massive Attack",1
+"2008-08","Matisyahu",9
+"2008-08","Patrice",10
+"2008-08","Peter Tosh",5
+"2008-08","Sean Paul",3
+"2008-08","Seeed",6
+"2008-08","Toots & The Maytals",6
+"2008-08","Ub40",7
+"2008-09","Alpha Blondy",3
+"2008-09","Amon Tobin",4
+"2008-09","Augustus Pablo",4
+"2008-09","Barrington Levy",2
+"2008-09","Bedouin Soundclash",5
+"2008-09","Black Uhuru",3
+"2008-09","Bob Marley",3
+"2008-09","Bob Marley & The Wailers",14
+"2008-09","Culture",0
+"2008-09","Dennis Brown",2
+"2008-09","Jimmy Cliff",5
+"2008-09","Manu Chao",10
+"2008-09","Massive Attack",3
+"2008-09","Matisyahu",10
+"2008-09","Patrice",9
+"2008-09","Peter Tosh",9
+"2008-09","Sean Paul",5
+"2008-09","Seeed",8
+"2008-09","Toots & The Maytals",10
+"2008-09","Ub40",7
+"2008-10","Alpha Blondy",4
+"2008-10","Amon Tobin",2
+"2008-10","Augustus Pablo",5
+"2008-10","Barrington Levy",4
+"2008-10","Bedouin Soundclash",7
+"2008-10","Black Uhuru",6
+"2008-10","Bob Marley",7
+"2008-10","Bob Marley & The Wailers",18
+"2008-10","Culture",4
+"2008-10","Dennis Brown",3
+"2008-10","Jimmy Cliff",4
+"2008-10","Manu Chao",9
+"2008-10","Massive Attack",2
+"2008-10","Matisyahu",10
+"2008-10","Patrice",15
+"2008-10","Peter Tosh",5
+"2008-10","Sean Paul",1
+"2008-10","Seeed",8
+"2008-10","Toots & The Maytals",9
+"2008-10","Ub40",9
+"2008-11","Alpha Blondy",1
+"2008-11","Amon Tobin",3
+"2008-11","Augustus Pablo",2
+"2008-11","Barrington Levy",1
+"2008-11","Bedouin Soundclash",6
+"2008-11","Black Uhuru",7
+"2008-11","Bob Marley",7
+"2008-11","Bob Marley & The Wailers",15
+"2008-11","Culture",4
+"2008-11","Dennis Brown",2
+"2008-11","Jimmy Cliff",7
+"2008-11","Manu Chao",13
+"2008-11","Massive Attack",3
+"2008-11","Matisyahu",13
+"2008-11","Patrice",11
+"2008-11","Peter Tosh",8
+"2008-11","Sean Paul",4
+"2008-11","Seeed",7
+"2008-11","Toots & The Maytals",7
+"2008-11","Ub40",10
+"2008-12","Alpha Blondy",2
+"2008-12","Amon Tobin",0
+"2008-12","Augustus Pablo",1
+"2008-12","Barrington Levy",2
+"2008-12","Bedouin Soundclash",3
+"2008-12","Black Uhuru",0
+"2008-12","Bob Marley",2
+"2008-12","Bob Marley & The Wailers",4
+"2008-12","Culture",2
+"2008-12","Dennis Brown",0
+"2008-12","Jimmy Cliff",3
+"2008-12","Manu Chao",5
+"2008-12","Massive Attack",0
+"2008-12","Matisyahu",3
+"2008-12","Patrice",2
+"2008-12","Peter Tosh",1
+"2008-12","Sean Paul",1
+"2008-12","Seeed",3
+"2008-12","Toots & The Maytals",5
+"2008-12","Ub40",3
+"2009-01","Alpha Blondy",0
+"2009-01","Amon Tobin",0
+"2009-01","Augustus Pablo",1
+"2009-01","Barrington Levy",2
+"2009-01","Bedouin Soundclash",4
+"2009-01","Black Uhuru",4
+"2009-01","Bob Marley",2
+"2009-01","Bob Marley & The Wailers",8
+"2009-01","Culture",1
+"2009-01","Dennis Brown",1
+"2009-01","Jimmy Cliff",4
+"2009-01","Manu Chao",4
+"2009-01","Massive Attack",0
+"2009-01","Matisyahu",4
+"2009-01","Patrice",1
+"2009-01","Peter Tosh",2
+"2009-01","Sean Paul",2
+"2009-01","Seeed",3
+"2009-01","Toots & The Maytals",5
+"2009-01","Ub40",2
+"2009-02","Alpha Blondy",4
+"2009-02","Amon Tobin",3
+"2009-02","Augustus Pablo",1
+"2009-02","Barrington Levy",4
+"2009-02","Bedouin Soundclash",4
+"2009-02","Black Uhuru",1
+"2009-02","Bob Marley",4
+"2009-02","Bob Marley & The Wailers",10
+"2009-02","Culture",3
+"2009-02","Dennis Brown",0
+"2009-02","Jimmy Cliff",4
+"2009-02","Manu Chao",8
+"2009-02","Massive Attack",3
+"2009-02","Matisyahu",7
+"2009-02","Patrice",5
+"2009-02","Peter Tosh",6
+"2009-02","Sean Paul",3
+"2009-02","Seeed",3
+"2009-02","Toots & The Maytals",5
+"2009-02","Ub40",4
+"2009-03","Alpha Blondy",1
+"2009-03","Amon Tobin",2
+"2009-03","Augustus Pablo",0
+"2009-03","Barrington Levy",1
+"2009-03","Bedouin Soundclash",2
+"2009-03","Black Uhuru",0
+"2009-03","Bob Marley",1
+"2009-03","Bob Marley & The Wailers",2
+"2009-03","Culture",0
+"2009-03","Dennis Brown",1
+"2009-03","Jimmy Cliff",0
+"2009-03","Manu Chao",2
+"2009-03","Massive Attack",5
+"2009-03","Matisyahu",2
+"2009-03","Patrice",1
+"2009-03","Peter Tosh",0
+"2009-03","Sean Paul",0
+"2009-03","Seeed",0
+"2009-03","Toots & The Maytals",0
+"2009-03","Ub40",0
+"2009-04","Alpha Blondy",2
+"2009-04","Amon Tobin",0
+"2009-04","Augustus Pablo",0
+"2009-04","Barrington Levy",0
+"2009-04","Bedouin Soundclash",1
+"2009-04","Black Uhuru",0
+"2009-04","Bob Marley",1
+"2009-04","Bob Marley & The Wailers",7
+"2009-04","Culture",0
+"2009-04","Dennis Brown",1
+"2009-04","Jimmy Cliff",0
+"2009-04","Manu Chao",6
+"2009-04","Massive Attack",2
+"2009-04","Matisyahu",1
+"2009-04","Patrice",4
+"2009-04","Peter Tosh",2
+"2009-04","Sean Paul",0
+"2009-04","Seeed",0
+"2009-04","Toots & The Maytals",1
+"2009-04","Ub40",1
+"2009-05","Alpha Blondy",0
+"2009-05","Amon Tobin",0
+"2009-05","Augustus Pablo",0
+"2009-05","Barrington Levy",0
+"2009-05","Bedouin Soundclash",0
+"2009-05","Black Uhuru",0
+"2009-05","Bob Marley",0
+"2009-05","Bob Marley & The Wailers",0
+"2009-05","Culture",0
+"2009-05","Dennis Brown",0
+"2009-05","Jimmy Cliff",0
+"2009-05","Manu Chao",0
+"2009-05","Massive Attack",1
+"2009-05","Matisyahu",0
+"2009-05","Patrice",0
+"2009-05","Peter Tosh",0
+"2009-05","Sean Paul",0
+"2009-05","Seeed",0
+"2009-05","Toots & The Maytals",0
+"2009-05","Ub40",0

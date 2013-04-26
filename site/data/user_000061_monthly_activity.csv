@@ -1,145 +1,145 @@
-month,artist,plays
-2007-05,*Nsync,1
-2007-05,Akon,1
-2007-05,Gwen Stefani,1
-2007-05,Jennifer Lopez,1
-2007-05,Kelly Clarkson,1
-2007-05,Mariah Carey,1
-2007-05,Ne-Yo,1
-2007-05,Npr,0
-2007-05,Usher,1
-2007-06,*Nsync,0
-2007-06,Akon,0
-2007-06,Gwen Stefani,0
-2007-06,Jennifer Lopez,0
-2007-06,Kelly Clarkson,0
-2007-06,Mariah Carey,0
-2007-06,Ne-Yo,0
-2007-06,Npr,0
-2007-06,Usher,0
-2007-07,*Nsync,0
-2007-07,Akon,0
-2007-07,Gwen Stefani,0
-2007-07,Jennifer Lopez,0
-2007-07,Kelly Clarkson,0
-2007-07,Mariah Carey,0
-2007-07,Ne-Yo,0
-2007-07,Npr,0
-2007-07,Usher,0
-2007-08,*Nsync,0
-2007-08,Akon,0
-2007-08,Gwen Stefani,0
-2007-08,Jennifer Lopez,0
-2007-08,Kelly Clarkson,0
-2007-08,Mariah Carey,0
-2007-08,Ne-Yo,0
-2007-08,Npr,0
-2007-08,Usher,0
-2007-09,*Nsync,0
-2007-09,Akon,0
-2007-09,Gwen Stefani,0
-2007-09,Jennifer Lopez,0
-2007-09,Kelly Clarkson,0
-2007-09,Mariah Carey,0
-2007-09,Ne-Yo,0
-2007-09,Npr,0
-2007-09,Usher,0
-2007-10,*Nsync,0
-2007-10,Akon,0
-2007-10,Gwen Stefani,0
-2007-10,Jennifer Lopez,0
-2007-10,Kelly Clarkson,0
-2007-10,Mariah Carey,0
-2007-10,Ne-Yo,0
-2007-10,Npr,0
-2007-10,Usher,0
-2007-11,*Nsync,0
-2007-11,Akon,0
-2007-11,Gwen Stefani,0
-2007-11,Jennifer Lopez,0
-2007-11,Kelly Clarkson,0
-2007-11,Mariah Carey,0
-2007-11,Ne-Yo,0
-2007-11,Npr,0
-2007-11,Usher,0
-2007-12,*Nsync,0
-2007-12,Akon,0
-2007-12,Gwen Stefani,0
-2007-12,Jennifer Lopez,0
-2007-12,Kelly Clarkson,0
-2007-12,Mariah Carey,0
-2007-12,Ne-Yo,0
-2007-12,Npr,0
-2007-12,Usher,0
-2008-01,*Nsync,0
-2008-01,Akon,0
-2008-01,Gwen Stefani,0
-2008-01,Jennifer Lopez,0
-2008-01,Kelly Clarkson,0
-2008-01,Mariah Carey,0
-2008-01,Ne-Yo,0
-2008-01,Npr,0
-2008-01,Usher,0
-2008-02,*Nsync,0
-2008-02,Akon,0
-2008-02,Gwen Stefani,0
-2008-02,Jennifer Lopez,0
-2008-02,Kelly Clarkson,0
-2008-02,Mariah Carey,0
-2008-02,Ne-Yo,0
-2008-02,Npr,0
-2008-02,Usher,0
-2008-03,*Nsync,0
-2008-03,Akon,0
-2008-03,Gwen Stefani,0
-2008-03,Jennifer Lopez,0
-2008-03,Kelly Clarkson,0
-2008-03,Mariah Carey,0
-2008-03,Ne-Yo,0
-2008-03,Npr,0
-2008-03,Usher,0
-2008-04,*Nsync,0
-2008-04,Akon,0
-2008-04,Gwen Stefani,0
-2008-04,Jennifer Lopez,0
-2008-04,Kelly Clarkson,0
-2008-04,Mariah Carey,0
-2008-04,Ne-Yo,0
-2008-04,Npr,0
-2008-04,Usher,0
-2008-05,*Nsync,0
-2008-05,Akon,0
-2008-05,Gwen Stefani,0
-2008-05,Jennifer Lopez,0
-2008-05,Kelly Clarkson,0
-2008-05,Mariah Carey,0
-2008-05,Ne-Yo,0
-2008-05,Npr,0
-2008-05,Usher,0
-2008-06,*Nsync,0
-2008-06,Akon,0
-2008-06,Gwen Stefani,0
-2008-06,Jennifer Lopez,0
-2008-06,Kelly Clarkson,0
-2008-06,Mariah Carey,0
-2008-06,Ne-Yo,0
-2008-06,Npr,0
-2008-06,Usher,0
-2008-07,*Nsync,0
-2008-07,Akon,0
-2008-07,Gwen Stefani,0
-2008-07,Jennifer Lopez,0
-2008-07,Kelly Clarkson,0
-2008-07,Mariah Carey,0
-2008-07,Ne-Yo,0
-2008-07,Npr,0
-2008-07,Usher,0
-2008-08,*Nsync,0
-2008-08,Akon,0
-2008-08,Gwen Stefani,0
-2008-08,Jennifer Lopez,0
-2008-08,Kelly Clarkson,0
-2008-08,Mariah Carey,0
-2008-08,Ne-Yo,0
-2008-08,Npr,1
-2008-08,Usher,0
+"month","artist","plays"
+"2007-05","*Nsync",1
+"2007-05","Akon",1
+"2007-05","Gwen Stefani",1
+"2007-05","Jennifer Lopez",1
+"2007-05","Kelly Clarkson",1
+"2007-05","Mariah Carey",1
+"2007-05","Ne-Yo",1
+"2007-05","Npr",0
+"2007-05","Usher",1
+"2007-06","*Nsync",0
+"2007-06","Akon",0
+"2007-06","Gwen Stefani",0
+"2007-06","Jennifer Lopez",0
+"2007-06","Kelly Clarkson",0
+"2007-06","Mariah Carey",0
+"2007-06","Ne-Yo",0
+"2007-06","Npr",0
+"2007-06","Usher",0
+"2007-07","*Nsync",0
+"2007-07","Akon",0
+"2007-07","Gwen Stefani",0
+"2007-07","Jennifer Lopez",0
+"2007-07","Kelly Clarkson",0
+"2007-07","Mariah Carey",0
+"2007-07","Ne-Yo",0
+"2007-07","Npr",0
+"2007-07","Usher",0
+"2007-08","*Nsync",0
+"2007-08","Akon",0
+"2007-08","Gwen Stefani",0
+"2007-08","Jennifer Lopez",0
+"2007-08","Kelly Clarkson",0
+"2007-08","Mariah Carey",0
+"2007-08","Ne-Yo",0
+"2007-08","Npr",0
+"2007-08","Usher",0
+"2007-09","*Nsync",0
+"2007-09","Akon",0
+"2007-09","Gwen Stefani",0
+"2007-09","Jennifer Lopez",0
+"2007-09","Kelly Clarkson",0
+"2007-09","Mariah Carey",0
+"2007-09","Ne-Yo",0
+"2007-09","Npr",0
+"2007-09","Usher",0
+"2007-10","*Nsync",0
+"2007-10","Akon",0
+"2007-10","Gwen Stefani",0
+"2007-10","Jennifer Lopez",0
+"2007-10","Kelly Clarkson",0
+"2007-10","Mariah Carey",0
+"2007-10","Ne-Yo",0
+"2007-10","Npr",0
+"2007-10","Usher",0
+"2007-11","*Nsync",0
+"2007-11","Akon",0
+"2007-11","Gwen Stefani",0
+"2007-11","Jennifer Lopez",0
+"2007-11","Kelly Clarkson",0
+"2007-11","Mariah Carey",0
+"2007-11","Ne-Yo",0
+"2007-11","Npr",0
+"2007-11","Usher",0
+"2007-12","*Nsync",0
+"2007-12","Akon",0
+"2007-12","Gwen Stefani",0
+"2007-12","Jennifer Lopez",0
+"2007-12","Kelly Clarkson",0
+"2007-12","Mariah Carey",0
+"2007-12","Ne-Yo",0
+"2007-12","Npr",0
+"2007-12","Usher",0
+"2008-01","*Nsync",0
+"2008-01","Akon",0
+"2008-01","Gwen Stefani",0
+"2008-01","Jennifer Lopez",0
+"2008-01","Kelly Clarkson",0
+"2008-01","Mariah Carey",0
+"2008-01","Ne-Yo",0
+"2008-01","Npr",0
+"2008-01","Usher",0
+"2008-02","*Nsync",0
+"2008-02","Akon",0
+"2008-02","Gwen Stefani",0
+"2008-02","Jennifer Lopez",0
+"2008-02","Kelly Clarkson",0
+"2008-02","Mariah Carey",0
+"2008-02","Ne-Yo",0
+"2008-02","Npr",0
+"2008-02","Usher",0
+"2008-03","*Nsync",0
+"2008-03","Akon",0
+"2008-03","Gwen Stefani",0
+"2008-03","Jennifer Lopez",0
+"2008-03","Kelly Clarkson",0
+"2008-03","Mariah Carey",0
+"2008-03","Ne-Yo",0
+"2008-03","Npr",0
+"2008-03","Usher",0
+"2008-04","*Nsync",0
+"2008-04","Akon",0
+"2008-04","Gwen Stefani",0
+"2008-04","Jennifer Lopez",0
+"2008-04","Kelly Clarkson",0
+"2008-04","Mariah Carey",0
+"2008-04","Ne-Yo",0
+"2008-04","Npr",0
+"2008-04","Usher",0
+"2008-05","*Nsync",0
+"2008-05","Akon",0
+"2008-05","Gwen Stefani",0
+"2008-05","Jennifer Lopez",0
+"2008-05","Kelly Clarkson",0
+"2008-05","Mariah Carey",0
+"2008-05","Ne-Yo",0
+"2008-05","Npr",0
+"2008-05","Usher",0
+"2008-06","*Nsync",0
+"2008-06","Akon",0
+"2008-06","Gwen Stefani",0
+"2008-06","Jennifer Lopez",0
+"2008-06","Kelly Clarkson",0
+"2008-06","Mariah Carey",0
+"2008-06","Ne-Yo",0
+"2008-06","Npr",0
+"2008-06","Usher",0
+"2008-07","*Nsync",0
+"2008-07","Akon",0
+"2008-07","Gwen Stefani",0
+"2008-07","Jennifer Lopez",0
+"2008-07","Kelly Clarkson",0
+"2008-07","Mariah Carey",0
+"2008-07","Ne-Yo",0
+"2008-07","Npr",0
+"2008-07","Usher",0
+"2008-08","*Nsync",0
+"2008-08","Akon",0
+"2008-08","Gwen Stefani",0
+"2008-08","Jennifer Lopez",0
+"2008-08","Kelly Clarkson",0
+"2008-08","Mariah Carey",0
+"2008-08","Ne-Yo",0
+"2008-08","Npr",1
+"2008-08","Usher",0

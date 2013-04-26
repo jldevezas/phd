@@ -1,81 +1,81 @@
-month,artist,plays
-2009-02,Adult.,4
-2009-02,Alice In Videoland,5
-2009-02,Beck,1
-2009-02,Blur,1
-2009-02,Boys Noize,0
-2009-02,Cake,0
-2009-02,Chicks On Speed,4
-2009-02,Client,5
-2009-02,Crystal Castles,1
-2009-02,Cut Copy,3
-2009-02,Daft Punk,0
-2009-02,Datarock,3
-2009-02,Dead Disco,0
-2009-02,Deltron 3030,0
-2009-02,Digitalism,0
-2009-02,Does It Offend You, Yeah?,0
-2009-02,Iamx,2
-2009-02,Moby,1
-2009-02,New Young Pony Club,3
-2009-02,Simian Mobile Disco,2
-2009-03,Adult.,21
-2009-03,Alice In Videoland,12
-2009-03,Beck,1
-2009-03,Blur,1
-2009-03,Boys Noize,24
-2009-03,Cake,1
-2009-03,Chicks On Speed,12
-2009-03,Client,12
-2009-03,Crystal Castles,65
-2009-03,Cut Copy,30
-2009-03,Daft Punk,3
-2009-03,Datarock,8
-2009-03,Dead Disco,15
-2009-03,Deltron 3030,1
-2009-03,Digitalism,36
-2009-03,Does It Offend You, Yeah?,27
-2009-03,Iamx,6
-2009-03,Moby,1
-2009-03,New Young Pony Club,34
-2009-03,Simian Mobile Disco,34
-2009-04,Adult.,8
-2009-04,Alice In Videoland,13
-2009-04,Beck,3
-2009-04,Blur,3
-2009-04,Boys Noize,10
-2009-04,Cake,3
-2009-04,Chicks On Speed,7
-2009-04,Client,12
-2009-04,Crystal Castles,45
-2009-04,Cut Copy,22
-2009-04,Daft Punk,3
-2009-04,Datarock,4
-2009-04,Dead Disco,10
-2009-04,Deltron 3030,2
-2009-04,Digitalism,19
-2009-04,Does It Offend You, Yeah?,20
-2009-04,Iamx,10
-2009-04,Moby,1
-2009-04,New Young Pony Club,24
-2009-04,Simian Mobile Disco,22
-2009-05,Adult.,0
-2009-05,Alice In Videoland,0
-2009-05,Beck,4
-2009-05,Blur,3
-2009-05,Boys Noize,1
-2009-05,Cake,5
-2009-05,Chicks On Speed,0
-2009-05,Client,0
-2009-05,Crystal Castles,1
-2009-05,Cut Copy,0
-2009-05,Daft Punk,3
-2009-05,Datarock,0
-2009-05,Dead Disco,1
-2009-05,Deltron 3030,2
-2009-05,Digitalism,1
-2009-05,Does It Offend You, Yeah?,1
-2009-05,Iamx,1
-2009-05,Moby,2
-2009-05,New Young Pony Club,1
-2009-05,Simian Mobile Disco,1
+"month","artist","plays"
+"2009-02","Adult.",4
+"2009-02","Alice In Videoland",5
+"2009-02","Beck",1
+"2009-02","Blur",1
+"2009-02","Boys Noize",0
+"2009-02","Cake",0
+"2009-02","Chicks On Speed",4
+"2009-02","Client",5
+"2009-02","Crystal Castles",1
+"2009-02","Cut Copy",3
+"2009-02","Daft Punk",0
+"2009-02","Datarock",3
+"2009-02","Dead Disco",0
+"2009-02","Deltron 3030",0
+"2009-02","Digitalism",0
+"2009-02","Does It Offend You, Yeah?",0
+"2009-02","Iamx",2
+"2009-02","Moby",1
+"2009-02","New Young Pony Club",3
+"2009-02","Simian Mobile Disco",2
+"2009-03","Adult.",21
+"2009-03","Alice In Videoland",12
+"2009-03","Beck",1
+"2009-03","Blur",1
+"2009-03","Boys Noize",24
+"2009-03","Cake",1
+"2009-03","Chicks On Speed",12
+"2009-03","Client",12
+"2009-03","Crystal Castles",65
+"2009-03","Cut Copy",30
+"2009-03","Daft Punk",3
+"2009-03","Datarock",8
+"2009-03","Dead Disco",15
+"2009-03","Deltron 3030",1
+"2009-03","Digitalism",36
+"2009-03","Does It Offend You, Yeah?",27
+"2009-03","Iamx",6
+"2009-03","Moby",1
+"2009-03","New Young Pony Club",34
+"2009-03","Simian Mobile Disco",34
+"2009-04","Adult.",8
+"2009-04","Alice In Videoland",13
+"2009-04","Beck",3
+"2009-04","Blur",3
+"2009-04","Boys Noize",10
+"2009-04","Cake",3
+"2009-04","Chicks On Speed",7
+"2009-04","Client",12
+"2009-04","Crystal Castles",45
+"2009-04","Cut Copy",22
+"2009-04","Daft Punk",3
+"2009-04","Datarock",4
+"2009-04","Dead Disco",10
+"2009-04","Deltron 3030",2
+"2009-04","Digitalism",19
+"2009-04","Does It Offend You, Yeah?",20
+"2009-04","Iamx",10
+"2009-04","Moby",1
+"2009-04","New Young Pony Club",24
+"2009-04","Simian Mobile Disco",22
+"2009-05","Adult.",0
+"2009-05","Alice In Videoland",0
+"2009-05","Beck",4
+"2009-05","Blur",3
+"2009-05","Boys Noize",1
+"2009-05","Cake",5
+"2009-05","Chicks On Speed",0
+"2009-05","Client",0
+"2009-05","Crystal Castles",1
+"2009-05","Cut Copy",0
+"2009-05","Daft Punk",3
+"2009-05","Datarock",0
+"2009-05","Dead Disco",1
+"2009-05","Deltron 3030",2
+"2009-05","Digitalism",1
+"2009-05","Does It Offend You, Yeah?",1
+"2009-05","Iamx",1
+"2009-05","Moby",2
+"2009-05","New Young Pony Club",1
+"2009-05","Simian Mobile Disco",1

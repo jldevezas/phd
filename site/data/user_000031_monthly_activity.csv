@@ -1,641 +1,641 @@
-month,artist,plays
-2006-08,Arcade Fire,1
-2006-08,Beck,0
-2006-08,Björk,2
-2006-08,Bloc Party,1
-2006-08,David Bowie,0
-2006-08,Deerhoof,0
-2006-08,Gang Of Four,0
-2006-08,Johnny Cash,0
-2006-08,Joy Division,1
-2006-08,Lou Reed,0
-2006-08,My Bloody Valentine,1
-2006-08,Radiohead,0
-2006-08,Siouxsie And The Banshees,2
-2006-08,Sonic Youth,1
-2006-08,Talking Heads,0
-2006-08,The Clash,1
-2006-08,The Cure,2
-2006-08,The Jesus And Mary Chain,2
-2006-08,The Smiths,1
-2006-08,The Velvet Underground,0
-2006-09,Arcade Fire,16
-2006-09,Beck,18
-2006-09,Björk,13
-2006-09,Bloc Party,22
-2006-09,David Bowie,18
-2006-09,Deerhoof,1
-2006-09,Gang Of Four,22
-2006-09,Johnny Cash,9
-2006-09,Joy Division,22
-2006-09,Lou Reed,1
-2006-09,My Bloody Valentine,16
-2006-09,Radiohead,35
-2006-09,Siouxsie And The Banshees,24
-2006-09,Sonic Youth,14
-2006-09,Talking Heads,13
-2006-09,The Clash,11
-2006-09,The Cure,27
-2006-09,The Jesus And Mary Chain,10
-2006-09,The Smiths,28
-2006-09,The Velvet Underground,8
-2006-10,Arcade Fire,16
-2006-10,Beck,26
-2006-10,Björk,23
-2006-10,Bloc Party,23
-2006-10,David Bowie,31
-2006-10,Deerhoof,2
-2006-10,Gang Of Four,21
-2006-10,Johnny Cash,8
-2006-10,Joy Division,35
-2006-10,Lou Reed,9
-2006-10,My Bloody Valentine,28
-2006-10,Radiohead,38
-2006-10,Siouxsie And The Banshees,25
-2006-10,Sonic Youth,26
-2006-10,Talking Heads,18
-2006-10,The Clash,27
-2006-10,The Cure,35
-2006-10,The Jesus And Mary Chain,13
-2006-10,The Smiths,37
-2006-10,The Velvet Underground,13
-2006-11,Arcade Fire,2
-2006-11,Beck,5
-2006-11,Björk,3
-2006-11,Bloc Party,3
-2006-11,David Bowie,3
-2006-11,Deerhoof,1
-2006-11,Gang Of Four,1
-2006-11,Johnny Cash,1
-2006-11,Joy Division,5
-2006-11,Lou Reed,1
-2006-11,My Bloody Valentine,4
-2006-11,Radiohead,6
-2006-11,Siouxsie And The Banshees,1
-2006-11,Sonic Youth,4
-2006-11,Talking Heads,3
-2006-11,The Clash,6
-2006-11,The Cure,2
-2006-11,The Jesus And Mary Chain,1
-2006-11,The Smiths,5
-2006-11,The Velvet Underground,3
-2006-12,Arcade Fire,6
-2006-12,Beck,9
-2006-12,Björk,6
-2006-12,Bloc Party,10
-2006-12,David Bowie,10
-2006-12,Deerhoof,3
-2006-12,Gang Of Four,3
-2006-12,Johnny Cash,6
-2006-12,Joy Division,6
-2006-12,Lou Reed,1
-2006-12,My Bloody Valentine,5
-2006-12,Radiohead,11
-2006-12,Siouxsie And The Banshees,3
-2006-12,Sonic Youth,9
-2006-12,Talking Heads,11
-2006-12,The Clash,8
-2006-12,The Cure,10
-2006-12,The Jesus And Mary Chain,6
-2006-12,The Smiths,13
-2006-12,The Velvet Underground,1
-2007-01,Arcade Fire,16
-2007-01,Beck,18
-2007-01,Björk,12
-2007-01,Bloc Party,2
-2007-01,David Bowie,4
-2007-01,Deerhoof,1
-2007-01,Gang Of Four,2
-2007-01,Johnny Cash,1
-2007-01,Joy Division,1
-2007-01,Lou Reed,1
-2007-01,My Bloody Valentine,0
-2007-01,Radiohead,16
-2007-01,Siouxsie And The Banshees,1
-2007-01,Sonic Youth,3
-2007-01,Talking Heads,1
-2007-01,The Clash,2
-2007-01,The Cure,4
-2007-01,The Jesus And Mary Chain,2
-2007-01,The Smiths,4
-2007-01,The Velvet Underground,3
-2007-02,Arcade Fire,8
-2007-02,Beck,0
-2007-02,Björk,2
-2007-02,Bloc Party,4
-2007-02,David Bowie,4
-2007-02,Deerhoof,1
-2007-02,Gang Of Four,4
-2007-02,Johnny Cash,0
-2007-02,Joy Division,2
-2007-02,Lou Reed,1
-2007-02,My Bloody Valentine,2
-2007-02,Radiohead,3
-2007-02,Siouxsie And The Banshees,4
-2007-02,Sonic Youth,0
-2007-02,Talking Heads,2
-2007-02,The Clash,4
-2007-02,The Cure,5
-2007-02,The Jesus And Mary Chain,0
-2007-02,The Smiths,0
-2007-02,The Velvet Underground,2
-2007-03,Arcade Fire,2
-2007-03,Beck,0
-2007-03,Björk,0
-2007-03,Bloc Party,1
-2007-03,David Bowie,0
-2007-03,Deerhoof,0
-2007-03,Gang Of Four,0
-2007-03,Johnny Cash,0
-2007-03,Joy Division,0
-2007-03,Lou Reed,0
-2007-03,My Bloody Valentine,1
-2007-03,Radiohead,30
-2007-03,Siouxsie And The Banshees,0
-2007-03,Sonic Youth,1
-2007-03,Talking Heads,1
-2007-03,The Clash,0
-2007-03,The Cure,2
-2007-03,The Jesus And Mary Chain,0
-2007-03,The Smiths,2
-2007-03,The Velvet Underground,1
-2007-04,Arcade Fire,42
-2007-04,Beck,37
-2007-04,Björk,20
-2007-04,Bloc Party,25
-2007-04,David Bowie,20
-2007-04,Deerhoof,4
-2007-04,Gang Of Four,55
-2007-04,Johnny Cash,6
-2007-04,Joy Division,24
-2007-04,Lou Reed,4
-2007-04,My Bloody Valentine,25
-2007-04,Radiohead,82
-2007-04,Siouxsie And The Banshees,17
-2007-04,Sonic Youth,8
-2007-04,Talking Heads,10
-2007-04,The Clash,18
-2007-04,The Cure,17
-2007-04,The Jesus And Mary Chain,12
-2007-04,The Smiths,27
-2007-04,The Velvet Underground,18
-2007-05,Arcade Fire,18
-2007-05,Beck,18
-2007-05,Björk,14
-2007-05,Bloc Party,19
-2007-05,David Bowie,18
-2007-05,Deerhoof,10
-2007-05,Gang Of Four,9
-2007-05,Johnny Cash,5
-2007-05,Joy Division,15
-2007-05,Lou Reed,5
-2007-05,My Bloody Valentine,18
-2007-05,Radiohead,62
-2007-05,Siouxsie And The Banshees,15
-2007-05,Sonic Youth,17
-2007-05,Talking Heads,11
-2007-05,The Clash,15
-2007-05,The Cure,21
-2007-05,The Jesus And Mary Chain,13
-2007-05,The Smiths,16
-2007-05,The Velvet Underground,19
-2007-06,Arcade Fire,5
-2007-06,Beck,4
-2007-06,Björk,1
-2007-06,Bloc Party,2
-2007-06,David Bowie,2
-2007-06,Deerhoof,1
-2007-06,Gang Of Four,2
-2007-06,Johnny Cash,2
-2007-06,Joy Division,2
-2007-06,Lou Reed,1
-2007-06,My Bloody Valentine,5
-2007-06,Radiohead,4
-2007-06,Siouxsie And The Banshees,3
-2007-06,Sonic Youth,4
-2007-06,Talking Heads,2
-2007-06,The Clash,1
-2007-06,The Cure,4
-2007-06,The Jesus And Mary Chain,1
-2007-06,The Smiths,4
-2007-06,The Velvet Underground,3
-2007-07,Arcade Fire,4
-2007-07,Beck,6
-2007-07,Björk,3
-2007-07,Bloc Party,9
-2007-07,David Bowie,8
-2007-07,Deerhoof,1
-2007-07,Gang Of Four,14
-2007-07,Johnny Cash,4
-2007-07,Joy Division,10
-2007-07,Lou Reed,3
-2007-07,My Bloody Valentine,13
-2007-07,Radiohead,7
-2007-07,Siouxsie And The Banshees,8
-2007-07,Sonic Youth,9
-2007-07,Talking Heads,11
-2007-07,The Clash,8
-2007-07,The Cure,14
-2007-07,The Jesus And Mary Chain,10
-2007-07,The Smiths,10
-2007-07,The Velvet Underground,3
-2007-08,Arcade Fire,0
-2007-08,Beck,3
-2007-08,Björk,0
-2007-08,Bloc Party,2
-2007-08,David Bowie,0
-2007-08,Deerhoof,0
-2007-08,Gang Of Four,5
-2007-08,Johnny Cash,0
-2007-08,Joy Division,8
-2007-08,Lou Reed,0
-2007-08,My Bloody Valentine,5
-2007-08,Radiohead,1
-2007-08,Siouxsie And The Banshees,13
-2007-08,Sonic Youth,7
-2007-08,Talking Heads,5
-2007-08,The Clash,1
-2007-08,The Cure,10
-2007-08,The Jesus And Mary Chain,10
-2007-08,The Smiths,5
-2007-08,The Velvet Underground,0
-2007-09,Arcade Fire,0
-2007-09,Beck,0
-2007-09,Björk,2
-2007-09,Bloc Party,0
-2007-09,David Bowie,1
-2007-09,Deerhoof,0
-2007-09,Gang Of Four,1
-2007-09,Johnny Cash,1
-2007-09,Joy Division,4
-2007-09,Lou Reed,0
-2007-09,My Bloody Valentine,4
-2007-09,Radiohead,0
-2007-09,Siouxsie And The Banshees,5
-2007-09,Sonic Youth,1
-2007-09,Talking Heads,0
-2007-09,The Clash,0
-2007-09,The Cure,2
-2007-09,The Jesus And Mary Chain,5
-2007-09,The Smiths,1
-2007-09,The Velvet Underground,0
-2007-10,Arcade Fire,7
-2007-10,Beck,5
-2007-10,Björk,0
-2007-10,Bloc Party,1
-2007-10,David Bowie,3
-2007-10,Deerhoof,4
-2007-10,Gang Of Four,38
-2007-10,Johnny Cash,2
-2007-10,Joy Division,4
-2007-10,Lou Reed,0
-2007-10,My Bloody Valentine,2
-2007-10,Radiohead,11
-2007-10,Siouxsie And The Banshees,2
-2007-10,Sonic Youth,0
-2007-10,Talking Heads,0
-2007-10,The Clash,2
-2007-10,The Cure,1
-2007-10,The Jesus And Mary Chain,7
-2007-10,The Smiths,4
-2007-10,The Velvet Underground,1
-2007-11,Arcade Fire,2
-2007-11,Beck,1
-2007-11,Björk,1
-2007-11,Bloc Party,2
-2007-11,David Bowie,2
-2007-11,Deerhoof,1
-2007-11,Gang Of Four,3
-2007-11,Johnny Cash,1
-2007-11,Joy Division,1
-2007-11,Lou Reed,1
-2007-11,My Bloody Valentine,2
-2007-11,Radiohead,11
-2007-11,Siouxsie And The Banshees,0
-2007-11,Sonic Youth,1
-2007-11,Talking Heads,2
-2007-11,The Clash,1
-2007-11,The Cure,2
-2007-11,The Jesus And Mary Chain,1
-2007-11,The Smiths,2
-2007-11,The Velvet Underground,2
-2007-12,Arcade Fire,3
-2007-12,Beck,0
-2007-12,Björk,0
-2007-12,Bloc Party,0
-2007-12,David Bowie,0
-2007-12,Deerhoof,19
-2007-12,Gang Of Four,24
-2007-12,Johnny Cash,0
-2007-12,Joy Division,0
-2007-12,Lou Reed,0
-2007-12,My Bloody Valentine,0
-2007-12,Radiohead,3
-2007-12,Siouxsie And The Banshees,0
-2007-12,Sonic Youth,1
-2007-12,Talking Heads,0
-2007-12,The Clash,0
-2007-12,The Cure,15
-2007-12,The Jesus And Mary Chain,0
-2007-12,The Smiths,0
-2007-12,The Velvet Underground,0
-2008-01,Arcade Fire,0
-2008-01,Beck,0
-2008-01,Björk,0
-2008-01,Bloc Party,0
-2008-01,David Bowie,0
-2008-01,Deerhoof,0
-2008-01,Gang Of Four,0
-2008-01,Johnny Cash,0
-2008-01,Joy Division,0
-2008-01,Lou Reed,0
-2008-01,My Bloody Valentine,0
-2008-01,Radiohead,0
-2008-01,Siouxsie And The Banshees,0
-2008-01,Sonic Youth,0
-2008-01,Talking Heads,0
-2008-01,The Clash,0
-2008-01,The Cure,0
-2008-01,The Jesus And Mary Chain,0
-2008-01,The Smiths,0
-2008-01,The Velvet Underground,0
-2008-02,Arcade Fire,4
-2008-02,Beck,11
-2008-02,Björk,14
-2008-02,Bloc Party,1
-2008-02,David Bowie,3
-2008-02,Deerhoof,4
-2008-02,Gang Of Four,43
-2008-02,Johnny Cash,2
-2008-02,Joy Division,1
-2008-02,Lou Reed,0
-2008-02,My Bloody Valentine,1
-2008-02,Radiohead,16
-2008-02,Siouxsie And The Banshees,2
-2008-02,Sonic Youth,1
-2008-02,Talking Heads,1
-2008-02,The Clash,1
-2008-02,The Cure,3
-2008-02,The Jesus And Mary Chain,3
-2008-02,The Smiths,3
-2008-02,The Velvet Underground,2
-2008-03,Arcade Fire,12
-2008-03,Beck,2
-2008-03,Björk,2
-2008-03,Bloc Party,0
-2008-03,David Bowie,0
-2008-03,Deerhoof,12
-2008-03,Gang Of Four,35
-2008-03,Johnny Cash,4
-2008-03,Joy Division,2
-2008-03,Lou Reed,5
-2008-03,My Bloody Valentine,0
-2008-03,Radiohead,25
-2008-03,Siouxsie And The Banshees,4
-2008-03,Sonic Youth,3
-2008-03,Talking Heads,1
-2008-03,The Clash,1
-2008-03,The Cure,0
-2008-03,The Jesus And Mary Chain,1
-2008-03,The Smiths,1
-2008-03,The Velvet Underground,5
-2008-04,Arcade Fire,0
-2008-04,Beck,2
-2008-04,Björk,2
-2008-04,Bloc Party,1
-2008-04,David Bowie,1
-2008-04,Deerhoof,19
-2008-04,Gang Of Four,1
-2008-04,Johnny Cash,3
-2008-04,Joy Division,1
-2008-04,Lou Reed,1
-2008-04,My Bloody Valentine,1
-2008-04,Radiohead,3
-2008-04,Siouxsie And The Banshees,2
-2008-04,Sonic Youth,2
-2008-04,Talking Heads,1
-2008-04,The Clash,2
-2008-04,The Cure,1
-2008-04,The Jesus And Mary Chain,2
-2008-04,The Smiths,3
-2008-04,The Velvet Underground,1
-2008-05,Arcade Fire,1
-2008-05,Beck,3
-2008-05,Björk,2
-2008-05,Bloc Party,0
-2008-05,David Bowie,3
-2008-05,Deerhoof,2
-2008-05,Gang Of Four,2
-2008-05,Johnny Cash,5
-2008-05,Joy Division,2
-2008-05,Lou Reed,5
-2008-05,My Bloody Valentine,7
-2008-05,Radiohead,12
-2008-05,Siouxsie And The Banshees,2
-2008-05,Sonic Youth,6
-2008-05,Talking Heads,1
-2008-05,The Clash,2
-2008-05,The Cure,0
-2008-05,The Jesus And Mary Chain,7
-2008-05,The Smiths,2
-2008-05,The Velvet Underground,8
-2008-06,Arcade Fire,1
-2008-06,Beck,1
-2008-06,Björk,0
-2008-06,Bloc Party,1
-2008-06,David Bowie,4
-2008-06,Deerhoof,0
-2008-06,Gang Of Four,1
-2008-06,Johnny Cash,3
-2008-06,Joy Division,1
-2008-06,Lou Reed,2
-2008-06,My Bloody Valentine,1
-2008-06,Radiohead,0
-2008-06,Siouxsie And The Banshees,0
-2008-06,Sonic Youth,1
-2008-06,Talking Heads,0
-2008-06,The Clash,0
-2008-06,The Cure,0
-2008-06,The Jesus And Mary Chain,1
-2008-06,The Smiths,0
-2008-06,The Velvet Underground,3
-2008-07,Arcade Fire,0
-2008-07,Beck,3
-2008-07,Björk,0
-2008-07,Bloc Party,0
-2008-07,David Bowie,1
-2008-07,Deerhoof,0
-2008-07,Gang Of Four,0
-2008-07,Johnny Cash,1
-2008-07,Joy Division,3
-2008-07,Lou Reed,1
-2008-07,My Bloody Valentine,0
-2008-07,Radiohead,2
-2008-07,Siouxsie And The Banshees,0
-2008-07,Sonic Youth,0
-2008-07,Talking Heads,0
-2008-07,The Clash,0
-2008-07,The Cure,0
-2008-07,The Jesus And Mary Chain,0
-2008-07,The Smiths,0
-2008-07,The Velvet Underground,0
-2008-08,Arcade Fire,0
-2008-08,Beck,6
-2008-08,Björk,0
-2008-08,Bloc Party,0
-2008-08,David Bowie,0
-2008-08,Deerhoof,2
-2008-08,Gang Of Four,1
-2008-08,Johnny Cash,4
-2008-08,Joy Division,1
-2008-08,Lou Reed,4
-2008-08,My Bloody Valentine,0
-2008-08,Radiohead,1
-2008-08,Siouxsie And The Banshees,1
-2008-08,Sonic Youth,0
-2008-08,Talking Heads,1
-2008-08,The Clash,0
-2008-08,The Cure,0
-2008-08,The Jesus And Mary Chain,0
-2008-08,The Smiths,0
-2008-08,The Velvet Underground,1
-2008-09,Arcade Fire,0
-2008-09,Beck,1
-2008-09,Björk,0
-2008-09,Bloc Party,0
-2008-09,David Bowie,2
-2008-09,Deerhoof,1
-2008-09,Gang Of Four,1
-2008-09,Johnny Cash,5
-2008-09,Joy Division,3
-2008-09,Lou Reed,2
-2008-09,My Bloody Valentine,1
-2008-09,Radiohead,8
-2008-09,Siouxsie And The Banshees,3
-2008-09,Sonic Youth,4
-2008-09,Talking Heads,3
-2008-09,The Clash,5
-2008-09,The Cure,4
-2008-09,The Jesus And Mary Chain,1
-2008-09,The Smiths,1
-2008-09,The Velvet Underground,3
-2008-10,Arcade Fire,0
-2008-10,Beck,1
-2008-10,Björk,0
-2008-10,Bloc Party,0
-2008-10,David Bowie,2
-2008-10,Deerhoof,1
-2008-10,Gang Of Four,4
-2008-10,Johnny Cash,4
-2008-10,Joy Division,0
-2008-10,Lou Reed,1
-2008-10,My Bloody Valentine,2
-2008-10,Radiohead,12
-2008-10,Siouxsie And The Banshees,2
-2008-10,Sonic Youth,3
-2008-10,Talking Heads,4
-2008-10,The Clash,2
-2008-10,The Cure,2
-2008-10,The Jesus And Mary Chain,1
-2008-10,The Smiths,1
-2008-10,The Velvet Underground,5
-2008-11,Arcade Fire,0
-2008-11,Beck,0
-2008-11,Björk,3
-2008-11,Bloc Party,1
-2008-11,David Bowie,3
-2008-11,Deerhoof,1
-2008-11,Gang Of Four,1
-2008-11,Johnny Cash,1
-2008-11,Joy Division,3
-2008-11,Lou Reed,4
-2008-11,My Bloody Valentine,1
-2008-11,Radiohead,22
-2008-11,Siouxsie And The Banshees,0
-2008-11,Sonic Youth,3
-2008-11,Talking Heads,3
-2008-11,The Clash,4
-2008-11,The Cure,3
-2008-11,The Jesus And Mary Chain,1
-2008-11,The Smiths,0
-2008-11,The Velvet Underground,5
-2008-12,Arcade Fire,0
-2008-12,Beck,0
-2008-12,Björk,1
-2008-12,Bloc Party,0
-2008-12,David Bowie,0
-2008-12,Deerhoof,0
-2008-12,Gang Of Four,0
-2008-12,Johnny Cash,2
-2008-12,Joy Division,1
-2008-12,Lou Reed,1
-2008-12,My Bloody Valentine,1
-2008-12,Radiohead,0
-2008-12,Siouxsie And The Banshees,0
-2008-12,Sonic Youth,0
-2008-12,Talking Heads,0
-2008-12,The Clash,0
-2008-12,The Cure,0
-2008-12,The Jesus And Mary Chain,0
-2008-12,The Smiths,0
-2008-12,The Velvet Underground,0
-2009-01,Arcade Fire,0
-2009-01,Beck,0
-2009-01,Björk,0
-2009-01,Bloc Party,0
-2009-01,David Bowie,0
-2009-01,Deerhoof,0
-2009-01,Gang Of Four,0
-2009-01,Johnny Cash,0
-2009-01,Joy Division,0
-2009-01,Lou Reed,0
-2009-01,My Bloody Valentine,0
-2009-01,Radiohead,0
-2009-01,Siouxsie And The Banshees,1
-2009-01,Sonic Youth,1
-2009-01,Talking Heads,0
-2009-01,The Clash,0
-2009-01,The Cure,0
-2009-01,The Jesus And Mary Chain,0
-2009-01,The Smiths,1
-2009-01,The Velvet Underground,1
-2009-02,Arcade Fire,1
-2009-02,Beck,2
-2009-02,Björk,0
-2009-02,Bloc Party,1
-2009-02,David Bowie,1
-2009-02,Deerhoof,0
-2009-02,Gang Of Four,0
-2009-02,Johnny Cash,0
-2009-02,Joy Division,0
-2009-02,Lou Reed,0
-2009-02,My Bloody Valentine,0
-2009-02,Radiohead,0
-2009-02,Siouxsie And The Banshees,0
-2009-02,Sonic Youth,0
-2009-02,Talking Heads,0
-2009-02,The Clash,0
-2009-02,The Cure,0
-2009-02,The Jesus And Mary Chain,0
-2009-02,The Smiths,0
-2009-02,The Velvet Underground,0
-2009-03,Arcade Fire,0
-2009-03,Beck,0
-2009-03,Björk,1
-2009-03,Bloc Party,0
-2009-03,David Bowie,2
-2009-03,Deerhoof,0
-2009-03,Gang Of Four,1
-2009-03,Johnny Cash,2
-2009-03,Joy Division,5
-2009-03,Lou Reed,4
-2009-03,My Bloody Valentine,1
-2009-03,Radiohead,0
-2009-03,Siouxsie And The Banshees,0
-2009-03,Sonic Youth,1
-2009-03,Talking Heads,1
-2009-03,The Clash,2
-2009-03,The Cure,0
-2009-03,The Jesus And Mary Chain,0
-2009-03,The Smiths,0
-2009-03,The Velvet Underground,2
+"month","artist","plays"
+"2006-08","Arcade Fire",1
+"2006-08","Beck",0
+"2006-08","Björk",2
+"2006-08","Bloc Party",1
+"2006-08","David Bowie",0
+"2006-08","Deerhoof",0
+"2006-08","Gang Of Four",0
+"2006-08","Johnny Cash",0
+"2006-08","Joy Division",1
+"2006-08","Lou Reed",0
+"2006-08","My Bloody Valentine",1
+"2006-08","Radiohead",0
+"2006-08","Siouxsie And The Banshees",2
+"2006-08","Sonic Youth",1
+"2006-08","Talking Heads",0
+"2006-08","The Clash",1
+"2006-08","The Cure",2
+"2006-08","The Jesus And Mary Chain",2
+"2006-08","The Smiths",1
+"2006-08","The Velvet Underground",0
+"2006-09","Arcade Fire",16
+"2006-09","Beck",18
+"2006-09","Björk",13
+"2006-09","Bloc Party",22
+"2006-09","David Bowie",18
+"2006-09","Deerhoof",1
+"2006-09","Gang Of Four",22
+"2006-09","Johnny Cash",9
+"2006-09","Joy Division",22
+"2006-09","Lou Reed",1
+"2006-09","My Bloody Valentine",16
+"2006-09","Radiohead",35
+"2006-09","Siouxsie And The Banshees",24
+"2006-09","Sonic Youth",14
+"2006-09","Talking Heads",13
+"2006-09","The Clash",11
+"2006-09","The Cure",27
+"2006-09","The Jesus And Mary Chain",10
+"2006-09","The Smiths",28
+"2006-09","The Velvet Underground",8
+"2006-10","Arcade Fire",16
+"2006-10","Beck",26
+"2006-10","Björk",23
+"2006-10","Bloc Party",23
+"2006-10","David Bowie",31
+"2006-10","Deerhoof",2
+"2006-10","Gang Of Four",21
+"2006-10","Johnny Cash",8
+"2006-10","Joy Division",35
+"2006-10","Lou Reed",9
+"2006-10","My Bloody Valentine",28
+"2006-10","Radiohead",38
+"2006-10","Siouxsie And The Banshees",25
+"2006-10","Sonic Youth",26
+"2006-10","Talking Heads",18
+"2006-10","The Clash",27
+"2006-10","The Cure",35
+"2006-10","The Jesus And Mary Chain",13
+"2006-10","The Smiths",37
+"2006-10","The Velvet Underground",13
+"2006-11","Arcade Fire",2
+"2006-11","Beck",5
+"2006-11","Björk",3
+"2006-11","Bloc Party",3
+"2006-11","David Bowie",3
+"2006-11","Deerhoof",1
+"2006-11","Gang Of Four",1
+"2006-11","Johnny Cash",1
+"2006-11","Joy Division",5
+"2006-11","Lou Reed",1
+"2006-11","My Bloody Valentine",4
+"2006-11","Radiohead",6
+"2006-11","Siouxsie And The Banshees",1
+"2006-11","Sonic Youth",4
+"2006-11","Talking Heads",3
+"2006-11","The Clash",6
+"2006-11","The Cure",2
+"2006-11","The Jesus And Mary Chain",1
+"2006-11","The Smiths",5
+"2006-11","The Velvet Underground",3
+"2006-12","Arcade Fire",6
+"2006-12","Beck",9
+"2006-12","Björk",6
+"2006-12","Bloc Party",10
+"2006-12","David Bowie",10
+"2006-12","Deerhoof",3
+"2006-12","Gang Of Four",3
+"2006-12","Johnny Cash",6
+"2006-12","Joy Division",6
+"2006-12","Lou Reed",1
+"2006-12","My Bloody Valentine",5
+"2006-12","Radiohead",11
+"2006-12","Siouxsie And The Banshees",3
+"2006-12","Sonic Youth",9
+"2006-12","Talking Heads",11
+"2006-12","The Clash",8
+"2006-12","The Cure",10
+"2006-12","The Jesus And Mary Chain",6
+"2006-12","The Smiths",13
+"2006-12","The Velvet Underground",1
+"2007-01","Arcade Fire",16
+"2007-01","Beck",18
+"2007-01","Björk",12
+"2007-01","Bloc Party",2
+"2007-01","David Bowie",4
+"2007-01","Deerhoof",1
+"2007-01","Gang Of Four",2
+"2007-01","Johnny Cash",1
+"2007-01","Joy Division",1
+"2007-01","Lou Reed",1
+"2007-01","My Bloody Valentine",0
+"2007-01","Radiohead",16
+"2007-01","Siouxsie And The Banshees",1
+"2007-01","Sonic Youth",3
+"2007-01","Talking Heads",1
+"2007-01","The Clash",2
+"2007-01","The Cure",4
+"2007-01","The Jesus And Mary Chain",2
+"2007-01","The Smiths",4
+"2007-01","The Velvet Underground",3
+"2007-02","Arcade Fire",8
+"2007-02","Beck",0
+"2007-02","Björk",2
+"2007-02","Bloc Party",4
+"2007-02","David Bowie",4
+"2007-02","Deerhoof",1
+"2007-02","Gang Of Four",4
+"2007-02","Johnny Cash",0
+"2007-02","Joy Division",2
+"2007-02","Lou Reed",1
+"2007-02","My Bloody Valentine",2
+"2007-02","Radiohead",3
+"2007-02","Siouxsie And The Banshees",4
+"2007-02","Sonic Youth",0
+"2007-02","Talking Heads",2
+"2007-02","The Clash",4
+"2007-02","The Cure",5
+"2007-02","The Jesus And Mary Chain",0
+"2007-02","The Smiths",0
+"2007-02","The Velvet Underground",2
+"2007-03","Arcade Fire",2
+"2007-03","Beck",0
+"2007-03","Björk",0
+"2007-03","Bloc Party",1
+"2007-03","David Bowie",0
+"2007-03","Deerhoof",0
+"2007-03","Gang Of Four",0
+"2007-03","Johnny Cash",0
+"2007-03","Joy Division",0
+"2007-03","Lou Reed",0
+"2007-03","My Bloody Valentine",1
+"2007-03","Radiohead",30
+"2007-03","Siouxsie And The Banshees",0
+"2007-03","Sonic Youth",1
+"2007-03","Talking Heads",1
+"2007-03","The Clash",0
+"2007-03","The Cure",2
+"2007-03","The Jesus And Mary Chain",0
+"2007-03","The Smiths",2
+"2007-03","The Velvet Underground",1
+"2007-04","Arcade Fire",42
+"2007-04","Beck",37
+"2007-04","Björk",20
+"2007-04","Bloc Party",25
+"2007-04","David Bowie",20
+"2007-04","Deerhoof",4
+"2007-04","Gang Of Four",55
+"2007-04","Johnny Cash",6
+"2007-04","Joy Division",24
+"2007-04","Lou Reed",4
+"2007-04","My Bloody Valentine",25
+"2007-04","Radiohead",82
+"2007-04","Siouxsie And The Banshees",17
+"2007-04","Sonic Youth",8
+"2007-04","Talking Heads",10
+"2007-04","The Clash",18
+"2007-04","The Cure",17
+"2007-04","The Jesus And Mary Chain",12
+"2007-04","The Smiths",27
+"2007-04","The Velvet Underground",18
+"2007-05","Arcade Fire",18
+"2007-05","Beck",18
+"2007-05","Björk",14
+"2007-05","Bloc Party",19
+"2007-05","David Bowie",18
+"2007-05","Deerhoof",10
+"2007-05","Gang Of Four",9
+"2007-05","Johnny Cash",5
+"2007-05","Joy Division",15
+"2007-05","Lou Reed",5
+"2007-05","My Bloody Valentine",18
+"2007-05","Radiohead",62
+"2007-05","Siouxsie And The Banshees",15
+"2007-05","Sonic Youth",17
+"2007-05","Talking Heads",11
+"2007-05","The Clash",15
+"2007-05","The Cure",21
+"2007-05","The Jesus And Mary Chain",13
+"2007-05","The Smiths",16
+"2007-05","The Velvet Underground",19
+"2007-06","Arcade Fire",5
+"2007-06","Beck",4
+"2007-06","Björk",1
+"2007-06","Bloc Party",2
+"2007-06","David Bowie",2
+"2007-06","Deerhoof",1
+"2007-06","Gang Of Four",2
+"2007-06","Johnny Cash",2
+"2007-06","Joy Division",2
+"2007-06","Lou Reed",1
+"2007-06","My Bloody Valentine",5
+"2007-06","Radiohead",4
+"2007-06","Siouxsie And The Banshees",3
+"2007-06","Sonic Youth",4
+"2007-06","Talking Heads",2
+"2007-06","The Clash",1
+"2007-06","The Cure",4
+"2007-06","The Jesus And Mary Chain",1
+"2007-06","The Smiths",4
+"2007-06","The Velvet Underground",3
+"2007-07","Arcade Fire",4
+"2007-07","Beck",6
+"2007-07","Björk",3
+"2007-07","Bloc Party",9
+"2007-07","David Bowie",8
+"2007-07","Deerhoof",1
+"2007-07","Gang Of Four",14
+"2007-07","Johnny Cash",4
+"2007-07","Joy Division",10
+"2007-07","Lou Reed",3
+"2007-07","My Bloody Valentine",13
+"2007-07","Radiohead",7
+"2007-07","Siouxsie And The Banshees",8
+"2007-07","Sonic Youth",9
+"2007-07","Talking Heads",11
+"2007-07","The Clash",8
+"2007-07","The Cure",14
+"2007-07","The Jesus And Mary Chain",10
+"2007-07","The Smiths",10
+"2007-07","The Velvet Underground",3
+"2007-08","Arcade Fire",0
+"2007-08","Beck",3
+"2007-08","Björk",0
+"2007-08","Bloc Party",2
+"2007-08","David Bowie",0
+"2007-08","Deerhoof",0
+"2007-08","Gang Of Four",5
+"2007-08","Johnny Cash",0
+"2007-08","Joy Division",8
+"2007-08","Lou Reed",0
+"2007-08","My Bloody Valentine",5
+"2007-08","Radiohead",1
+"2007-08","Siouxsie And The Banshees",13
+"2007-08","Sonic Youth",7
+"2007-08","Talking Heads",5
+"2007-08","The Clash",1
+"2007-08","The Cure",10
+"2007-08","The Jesus And Mary Chain",10
+"2007-08","The Smiths",5
+"2007-08","The Velvet Underground",0
+"2007-09","Arcade Fire",0
+"2007-09","Beck",0
+"2007-09","Björk",2
+"2007-09","Bloc Party",0
+"2007-09","David Bowie",1
+"2007-09","Deerhoof",0
+"2007-09","Gang Of Four",1
+"2007-09","Johnny Cash",1
+"2007-09","Joy Division",4
+"2007-09","Lou Reed",0
+"2007-09","My Bloody Valentine",4
+"2007-09","Radiohead",0
+"2007-09","Siouxsie And The Banshees",5
+"2007-09","Sonic Youth",1
+"2007-09","Talking Heads",0
+"2007-09","The Clash",0
+"2007-09","The Cure",2
+"2007-09","The Jesus And Mary Chain",5
+"2007-09","The Smiths",1
+"2007-09","The Velvet Underground",0
+"2007-10","Arcade Fire",7
+"2007-10","Beck",5
+"2007-10","Björk",0
+"2007-10","Bloc Party",1
+"2007-10","David Bowie",3
+"2007-10","Deerhoof",4
+"2007-10","Gang Of Four",38
+"2007-10","Johnny Cash",2
+"2007-10","Joy Division",4
+"2007-10","Lou Reed",0
+"2007-10","My Bloody Valentine",2
+"2007-10","Radiohead",11
+"2007-10","Siouxsie And The Banshees",2
+"2007-10","Sonic Youth",0
+"2007-10","Talking Heads",0
+"2007-10","The Clash",2
+"2007-10","The Cure",1
+"2007-10","The Jesus And Mary Chain",7
+"2007-10","The Smiths",4
+"2007-10","The Velvet Underground",1
+"2007-11","Arcade Fire",2
+"2007-11","Beck",1
+"2007-11","Björk",1
+"2007-11","Bloc Party",2
+"2007-11","David Bowie",2
+"2007-11","Deerhoof",1
+"2007-11","Gang Of Four",3
+"2007-11","Johnny Cash",1
+"2007-11","Joy Division",1
+"2007-11","Lou Reed",1
+"2007-11","My Bloody Valentine",2
+"2007-11","Radiohead",11
+"2007-11","Siouxsie And The Banshees",0
+"2007-11","Sonic Youth",1
+"2007-11","Talking Heads",2
+"2007-11","The Clash",1
+"2007-11","The Cure",2
+"2007-11","The Jesus And Mary Chain",1
+"2007-11","The Smiths",2
+"2007-11","The Velvet Underground",2
+"2007-12","Arcade Fire",3
+"2007-12","Beck",0
+"2007-12","Björk",0
+"2007-12","Bloc Party",0
+"2007-12","David Bowie",0
+"2007-12","Deerhoof",19
+"2007-12","Gang Of Four",24
+"2007-12","Johnny Cash",0
+"2007-12","Joy Division",0
+"2007-12","Lou Reed",0
+"2007-12","My Bloody Valentine",0
+"2007-12","Radiohead",3
+"2007-12","Siouxsie And The Banshees",0
+"2007-12","Sonic Youth",1
+"2007-12","Talking Heads",0
+"2007-12","The Clash",0
+"2007-12","The Cure",15
+"2007-12","The Jesus And Mary Chain",0
+"2007-12","The Smiths",0
+"2007-12","The Velvet Underground",0
+"2008-01","Arcade Fire",0
+"2008-01","Beck",0
+"2008-01","Björk",0
+"2008-01","Bloc Party",0
+"2008-01","David Bowie",0
+"2008-01","Deerhoof",0
+"2008-01","Gang Of Four",0
+"2008-01","Johnny Cash",0
+"2008-01","Joy Division",0
+"2008-01","Lou Reed",0
+"2008-01","My Bloody Valentine",0
+"2008-01","Radiohead",0
+"2008-01","Siouxsie And The Banshees",0
+"2008-01","Sonic Youth",0
+"2008-01","Talking Heads",0
+"2008-01","The Clash",0
+"2008-01","The Cure",0
+"2008-01","The Jesus And Mary Chain",0
+"2008-01","The Smiths",0
+"2008-01","The Velvet Underground",0
+"2008-02","Arcade Fire",4
+"2008-02","Beck",11
+"2008-02","Björk",14
+"2008-02","Bloc Party",1
+"2008-02","David Bowie",3
+"2008-02","Deerhoof",4
+"2008-02","Gang Of Four",43
+"2008-02","Johnny Cash",2
+"2008-02","Joy Division",1
+"2008-02","Lou Reed",0
+"2008-02","My Bloody Valentine",1
+"2008-02","Radiohead",16
+"2008-02","Siouxsie And The Banshees",2
+"2008-02","Sonic Youth",1
+"2008-02","Talking Heads",1
+"2008-02","The Clash",1
+"2008-02","The Cure",3
+"2008-02","The Jesus And Mary Chain",3
+"2008-02","The Smiths",3
+"2008-02","The Velvet Underground",2
+"2008-03","Arcade Fire",12
+"2008-03","Beck",2
+"2008-03","Björk",2
+"2008-03","Bloc Party",0
+"2008-03","David Bowie",0
+"2008-03","Deerhoof",12
+"2008-03","Gang Of Four",35
+"2008-03","Johnny Cash",4
+"2008-03","Joy Division",2
+"2008-03","Lou Reed",5
+"2008-03","My Bloody Valentine",0
+"2008-03","Radiohead",25
+"2008-03","Siouxsie And The Banshees",4
+"2008-03","Sonic Youth",3
+"2008-03","Talking Heads",1
+"2008-03","The Clash",1
+"2008-03","The Cure",0
+"2008-03","The Jesus And Mary Chain",1
+"2008-03","The Smiths",1
+"2008-03","The Velvet Underground",5
+"2008-04","Arcade Fire",0
+"2008-04","Beck",2
+"2008-04","Björk",2
+"2008-04","Bloc Party",1
+"2008-04","David Bowie",1
+"2008-04","Deerhoof",19
+"2008-04","Gang Of Four",1
+"2008-04","Johnny Cash",3
+"2008-04","Joy Division",1
+"2008-04","Lou Reed",1
+"2008-04","My Bloody Valentine",1
+"2008-04","Radiohead",3
+"2008-04","Siouxsie And The Banshees",2
+"2008-04","Sonic Youth",2
+"2008-04","Talking Heads",1
+"2008-04","The Clash",2
+"2008-04","The Cure",1
+"2008-04","The Jesus And Mary Chain",2
+"2008-04","The Smiths",3
+"2008-04","The Velvet Underground",1
+"2008-05","Arcade Fire",1
+"2008-05","Beck",3
+"2008-05","Björk",2
+"2008-05","Bloc Party",0
+"2008-05","David Bowie",3
+"2008-05","Deerhoof",2
+"2008-05","Gang Of Four",2
+"2008-05","Johnny Cash",5
+"2008-05","Joy Division",2
+"2008-05","Lou Reed",5
+"2008-05","My Bloody Valentine",7
+"2008-05","Radiohead",12
+"2008-05","Siouxsie And The Banshees",2
+"2008-05","Sonic Youth",6
+"2008-05","Talking Heads",1
+"2008-05","The Clash",2
+"2008-05","The Cure",0
+"2008-05","The Jesus And Mary Chain",7
+"2008-05","The Smiths",2
+"2008-05","The Velvet Underground",8
+"2008-06","Arcade Fire",1
+"2008-06","Beck",1
+"2008-06","Björk",0
+"2008-06","Bloc Party",1
+"2008-06","David Bowie",4
+"2008-06","Deerhoof",0
+"2008-06","Gang Of Four",1
+"2008-06","Johnny Cash",3
+"2008-06","Joy Division",1
+"2008-06","Lou Reed",2
+"2008-06","My Bloody Valentine",1
+"2008-06","Radiohead",0
+"2008-06","Siouxsie And The Banshees",0
+"2008-06","Sonic Youth",1
+"2008-06","Talking Heads",0
+"2008-06","The Clash",0
+"2008-06","The Cure",0
+"2008-06","The Jesus And Mary Chain",1
+"2008-06","The Smiths",0
+"2008-06","The Velvet Underground",3
+"2008-07","Arcade Fire",0
+"2008-07","Beck",3
+"2008-07","Björk",0
+"2008-07","Bloc Party",0
+"2008-07","David Bowie",1
+"2008-07","Deerhoof",0
+"2008-07","Gang Of Four",0
+"2008-07","Johnny Cash",1
+"2008-07","Joy Division",3
+"2008-07","Lou Reed",1
+"2008-07","My Bloody Valentine",0
+"2008-07","Radiohead",2
+"2008-07","Siouxsie And The Banshees",0
+"2008-07","Sonic Youth",0
+"2008-07","Talking Heads",0
+"2008-07","The Clash",0
+"2008-07","The Cure",0
+"2008-07","The Jesus And Mary Chain",0
+"2008-07","The Smiths",0
+"2008-07","The Velvet Underground",0
+"2008-08","Arcade Fire",0
+"2008-08","Beck",6
+"2008-08","Björk",0
+"2008-08","Bloc Party",0
+"2008-08","David Bowie",0
+"2008-08","Deerhoof",2
+"2008-08","Gang Of Four",1
+"2008-08","Johnny Cash",4
+"2008-08","Joy Division",1
+"2008-08","Lou Reed",4
+"2008-08","My Bloody Valentine",0
+"2008-08","Radiohead",1
+"2008-08","Siouxsie And The Banshees",1
+"2008-08","Sonic Youth",0
+"2008-08","Talking Heads",1
+"2008-08","The Clash",0
+"2008-08","The Cure",0
+"2008-08","The Jesus And Mary Chain",0
+"2008-08","The Smiths",0
+"2008-08","The Velvet Underground",1
+"2008-09","Arcade Fire",0
+"2008-09","Beck",1
+"2008-09","Björk",0
+"2008-09","Bloc Party",0
+"2008-09","David Bowie",2
+"2008-09","Deerhoof",1
+"2008-09","Gang Of Four",1
+"2008-09","Johnny Cash",5
+"2008-09","Joy Division",3
+"2008-09","Lou Reed",2
+"2008-09","My Bloody Valentine",1
+"2008-09","Radiohead",8
+"2008-09","Siouxsie And The Banshees",3
+"2008-09","Sonic Youth",4
+"2008-09","Talking Heads",3
+"2008-09","The Clash",5
+"2008-09","The Cure",4
+"2008-09","The Jesus And Mary Chain",1
+"2008-09","The Smiths",1
+"2008-09","The Velvet Underground",3
+"2008-10","Arcade Fire",0
+"2008-10","Beck",1
+"2008-10","Björk",0
+"2008-10","Bloc Party",0
+"2008-10","David Bowie",2
+"2008-10","Deerhoof",1
+"2008-10","Gang Of Four",4
+"2008-10","Johnny Cash",4
+"2008-10","Joy Division",0
+"2008-10","Lou Reed",1
+"2008-10","My Bloody Valentine",2
+"2008-10","Radiohead",12
+"2008-10","Siouxsie And The Banshees",2
+"2008-10","Sonic Youth",3
+"2008-10","Talking Heads",4
+"2008-10","The Clash",2
+"2008-10","The Cure",2
+"2008-10","The Jesus And Mary Chain",1
+"2008-10","The Smiths",1
+"2008-10","The Velvet Underground",5
+"2008-11","Arcade Fire",0
+"2008-11","Beck",0
+"2008-11","Björk",3
+"2008-11","Bloc Party",1
+"2008-11","David Bowie",3
+"2008-11","Deerhoof",1
+"2008-11","Gang Of Four",1
+"2008-11","Johnny Cash",1
+"2008-11","Joy Division",3
+"2008-11","Lou Reed",4
+"2008-11","My Bloody Valentine",1
+"2008-11","Radiohead",22
+"2008-11","Siouxsie And The Banshees",0
+"2008-11","Sonic Youth",3
+"2008-11","Talking Heads",3
+"2008-11","The Clash",4
+"2008-11","The Cure",3
+"2008-11","The Jesus And Mary Chain",1
+"2008-11","The Smiths",0
+"2008-11","The Velvet Underground",5
+"2008-12","Arcade Fire",0
+"2008-12","Beck",0
+"2008-12","Björk",1
+"2008-12","Bloc Party",0
+"2008-12","David Bowie",0
+"2008-12","Deerhoof",0
+"2008-12","Gang Of Four",0
+"2008-12","Johnny Cash",2
+"2008-12","Joy Division",1
+"2008-12","Lou Reed",1
+"2008-12","My Bloody Valentine",1
+"2008-12","Radiohead",0
+"2008-12","Siouxsie And The Banshees",0
+"2008-12","Sonic Youth",0
+"2008-12","Talking Heads",0
+"2008-12","The Clash",0
+"2008-12","The Cure",0
+"2008-12","The Jesus And Mary Chain",0
+"2008-12","The Smiths",0
+"2008-12","The Velvet Underground",0
+"2009-01","Arcade Fire",0
+"2009-01","Beck",0
+"2009-01","Björk",0
+"2009-01","Bloc Party",0
+"2009-01","David Bowie",0
+"2009-01","Deerhoof",0
+"2009-01","Gang Of Four",0
+"2009-01","Johnny Cash",0
+"2009-01","Joy Division",0
+"2009-01","Lou Reed",0
+"2009-01","My Bloody Valentine",0
+"2009-01","Radiohead",0
+"2009-01","Siouxsie And The Banshees",1
+"2009-01","Sonic Youth",1
+"2009-01","Talking Heads",0
+"2009-01","The Clash",0
+"2009-01","The Cure",0
+"2009-01","The Jesus And Mary Chain",0
+"2009-01","The Smiths",1
+"2009-01","The Velvet Underground",1
+"2009-02","Arcade Fire",1
+"2009-02","Beck",2
+"2009-02","Björk",0
+"2009-02","Bloc Party",1
+"2009-02","David Bowie",1
+"2009-02","Deerhoof",0
+"2009-02","Gang Of Four",0
+"2009-02","Johnny Cash",0
+"2009-02","Joy Division",0
+"2009-02","Lou Reed",0
+"2009-02","My Bloody Valentine",0
+"2009-02","Radiohead",0
+"2009-02","Siouxsie And The Banshees",0
+"2009-02","Sonic Youth",0
+"2009-02","Talking Heads",0
+"2009-02","The Clash",0
+"2009-02","The Cure",0
+"2009-02","The Jesus And Mary Chain",0
+"2009-02","The Smiths",0
+"2009-02","The Velvet Underground",0
+"2009-03","Arcade Fire",0
+"2009-03","Beck",0
+"2009-03","Björk",1
+"2009-03","Bloc Party",0
+"2009-03","David Bowie",2
+"2009-03","Deerhoof",0
+"2009-03","Gang Of Four",1
+"2009-03","Johnny Cash",2
+"2009-03","Joy Division",5
+"2009-03","Lou Reed",4
+"2009-03","My Bloody Valentine",1
+"2009-03","Radiohead",0
+"2009-03","Siouxsie And The Banshees",0
+"2009-03","Sonic Youth",1
+"2009-03","Talking Heads",1
+"2009-03","The Clash",2
+"2009-03","The Cure",0
+"2009-03","The Jesus And Mary Chain",0
+"2009-03","The Smiths",0
+"2009-03","The Velvet Underground",2

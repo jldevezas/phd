@@ -1,103 +1,103 @@
-month,artist,plays
-2006-07,Jun Yamabe & Enitokwa,0
-2006-07,Metro Area,0
-2006-07,Shadyzane,1
-2006-08,Jun Yamabe & Enitokwa,0
-2006-08,Metro Area,0
-2006-08,Shadyzane,0
-2006-09,Jun Yamabe & Enitokwa,0
-2006-09,Metro Area,0
-2006-09,Shadyzane,0
-2006-10,Jun Yamabe & Enitokwa,0
-2006-10,Metro Area,1
-2006-10,Shadyzane,0
-2006-11,Jun Yamabe & Enitokwa,0
-2006-11,Metro Area,0
-2006-11,Shadyzane,0
-2006-12,Jun Yamabe & Enitokwa,0
-2006-12,Metro Area,0
-2006-12,Shadyzane,0
-2007-01,Jun Yamabe & Enitokwa,0
-2007-01,Metro Area,0
-2007-01,Shadyzane,0
-2007-02,Jun Yamabe & Enitokwa,0
-2007-02,Metro Area,0
-2007-02,Shadyzane,0
-2007-03,Jun Yamabe & Enitokwa,0
-2007-03,Metro Area,0
-2007-03,Shadyzane,0
-2007-04,Jun Yamabe & Enitokwa,0
-2007-04,Metro Area,0
-2007-04,Shadyzane,0
-2007-05,Jun Yamabe & Enitokwa,0
-2007-05,Metro Area,0
-2007-05,Shadyzane,0
-2007-06,Jun Yamabe & Enitokwa,0
-2007-06,Metro Area,0
-2007-06,Shadyzane,0
-2007-07,Jun Yamabe & Enitokwa,0
-2007-07,Metro Area,0
-2007-07,Shadyzane,0
-2007-08,Jun Yamabe & Enitokwa,0
-2007-08,Metro Area,0
-2007-08,Shadyzane,0
-2007-09,Jun Yamabe & Enitokwa,0
-2007-09,Metro Area,0
-2007-09,Shadyzane,0
-2007-10,Jun Yamabe & Enitokwa,0
-2007-10,Metro Area,0
-2007-10,Shadyzane,0
-2007-11,Jun Yamabe & Enitokwa,0
-2007-11,Metro Area,0
-2007-11,Shadyzane,0
-2007-12,Jun Yamabe & Enitokwa,0
-2007-12,Metro Area,0
-2007-12,Shadyzane,0
-2008-01,Jun Yamabe & Enitokwa,0
-2008-01,Metro Area,0
-2008-01,Shadyzane,0
-2008-02,Jun Yamabe & Enitokwa,0
-2008-02,Metro Area,0
-2008-02,Shadyzane,0
-2008-03,Jun Yamabe & Enitokwa,0
-2008-03,Metro Area,0
-2008-03,Shadyzane,0
-2008-04,Jun Yamabe & Enitokwa,0
-2008-04,Metro Area,0
-2008-04,Shadyzane,0
-2008-05,Jun Yamabe & Enitokwa,0
-2008-05,Metro Area,0
-2008-05,Shadyzane,0
-2008-06,Jun Yamabe & Enitokwa,0
-2008-06,Metro Area,0
-2008-06,Shadyzane,0
-2008-07,Jun Yamabe & Enitokwa,0
-2008-07,Metro Area,0
-2008-07,Shadyzane,0
-2008-08,Jun Yamabe & Enitokwa,0
-2008-08,Metro Area,0
-2008-08,Shadyzane,0
-2008-09,Jun Yamabe & Enitokwa,0
-2008-09,Metro Area,0
-2008-09,Shadyzane,0
-2008-10,Jun Yamabe & Enitokwa,0
-2008-10,Metro Area,0
-2008-10,Shadyzane,0
-2008-11,Jun Yamabe & Enitokwa,0
-2008-11,Metro Area,0
-2008-11,Shadyzane,0
-2008-12,Jun Yamabe & Enitokwa,0
-2008-12,Metro Area,0
-2008-12,Shadyzane,0
-2009-01,Jun Yamabe & Enitokwa,0
-2009-01,Metro Area,0
-2009-01,Shadyzane,0
-2009-02,Jun Yamabe & Enitokwa,0
-2009-02,Metro Area,0
-2009-02,Shadyzane,0
-2009-03,Jun Yamabe & Enitokwa,0
-2009-03,Metro Area,0
-2009-03,Shadyzane,0
-2009-04,Jun Yamabe & Enitokwa,1
-2009-04,Metro Area,0
-2009-04,Shadyzane,0
+"month","artist","plays"
+"2006-07","Jun Yamabe & Enitokwa",0
+"2006-07","Metro Area",0
+"2006-07","Shadyzane",1
+"2006-08","Jun Yamabe & Enitokwa",0
+"2006-08","Metro Area",0
+"2006-08","Shadyzane",0
+"2006-09","Jun Yamabe & Enitokwa",0
+"2006-09","Metro Area",0
+"2006-09","Shadyzane",0
+"2006-10","Jun Yamabe & Enitokwa",0
+"2006-10","Metro Area",1
+"2006-10","Shadyzane",0
+"2006-11","Jun Yamabe & Enitokwa",0
+"2006-11","Metro Area",0
+"2006-11","Shadyzane",0
+"2006-12","Jun Yamabe & Enitokwa",0
+"2006-12","Metro Area",0
+"2006-12","Shadyzane",0
+"2007-01","Jun Yamabe & Enitokwa",0
+"2007-01","Metro Area",0
+"2007-01","Shadyzane",0
+"2007-02","Jun Yamabe & Enitokwa",0
+"2007-02","Metro Area",0
+"2007-02","Shadyzane",0
+"2007-03","Jun Yamabe & Enitokwa",0
+"2007-03","Metro Area",0
+"2007-03","Shadyzane",0
+"2007-04","Jun Yamabe & Enitokwa",0
+"2007-04","Metro Area",0
+"2007-04","Shadyzane",0
+"2007-05","Jun Yamabe & Enitokwa",0
+"2007-05","Metro Area",0
+"2007-05","Shadyzane",0
+"2007-06","Jun Yamabe & Enitokwa",0
+"2007-06","Metro Area",0
+"2007-06","Shadyzane",0
+"2007-07","Jun Yamabe & Enitokwa",0
+"2007-07","Metro Area",0
+"2007-07","Shadyzane",0
+"2007-08","Jun Yamabe & Enitokwa",0
+"2007-08","Metro Area",0
+"2007-08","Shadyzane",0
+"2007-09","Jun Yamabe & Enitokwa",0
+"2007-09","Metro Area",0
+"2007-09","Shadyzane",0
+"2007-10","Jun Yamabe & Enitokwa",0
+"2007-10","Metro Area",0
+"2007-10","Shadyzane",0
+"2007-11","Jun Yamabe & Enitokwa",0
+"2007-11","Metro Area",0
+"2007-11","Shadyzane",0
+"2007-12","Jun Yamabe & Enitokwa",0
+"2007-12","Metro Area",0
+"2007-12","Shadyzane",0
+"2008-01","Jun Yamabe & Enitokwa",0
+"2008-01","Metro Area",0
+"2008-01","Shadyzane",0
+"2008-02","Jun Yamabe & Enitokwa",0
+"2008-02","Metro Area",0
+"2008-02","Shadyzane",0
+"2008-03","Jun Yamabe & Enitokwa",0
+"2008-03","Metro Area",0
+"2008-03","Shadyzane",0
+"2008-04","Jun Yamabe & Enitokwa",0
+"2008-04","Metro Area",0
+"2008-04","Shadyzane",0
+"2008-05","Jun Yamabe & Enitokwa",0
+"2008-05","Metro Area",0
+"2008-05","Shadyzane",0
+"2008-06","Jun Yamabe & Enitokwa",0
+"2008-06","Metro Area",0
+"2008-06","Shadyzane",0
+"2008-07","Jun Yamabe & Enitokwa",0
+"2008-07","Metro Area",0
+"2008-07","Shadyzane",0
+"2008-08","Jun Yamabe & Enitokwa",0
+"2008-08","Metro Area",0
+"2008-08","Shadyzane",0
+"2008-09","Jun Yamabe & Enitokwa",0
+"2008-09","Metro Area",0
+"2008-09","Shadyzane",0
+"2008-10","Jun Yamabe & Enitokwa",0
+"2008-10","Metro Area",0
+"2008-10","Shadyzane",0
+"2008-11","Jun Yamabe & Enitokwa",0
+"2008-11","Metro Area",0
+"2008-11","Shadyzane",0
+"2008-12","Jun Yamabe & Enitokwa",0
+"2008-12","Metro Area",0
+"2008-12","Shadyzane",0
+"2009-01","Jun Yamabe & Enitokwa",0
+"2009-01","Metro Area",0
+"2009-01","Shadyzane",0
+"2009-02","Jun Yamabe & Enitokwa",0
+"2009-02","Metro Area",0
+"2009-02","Shadyzane",0
+"2009-03","Jun Yamabe & Enitokwa",0
+"2009-03","Metro Area",0
+"2009-03","Shadyzane",0
+"2009-04","Jun Yamabe & Enitokwa",1
+"2009-04","Metro Area",0
+"2009-04","Shadyzane",0

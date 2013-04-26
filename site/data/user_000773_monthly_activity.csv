@@ -1,81 +1,81 @@
-month,artist,plays
-2009-02,2Pac,1
-2009-02,A Tribe Called Quest,2
-2009-02,Au Revoir Simone,6
-2009-02,Blockhead,1
-2009-02,Clipse,1
-2009-02,Common,1
-2009-02,De La Soul,6
-2009-02,Department Of Eagles,1
-2009-02,Dizzee Rascal,1
-2009-02,Dj Shadow,1
-2009-02,Doom,25
-2009-02,Erykah Badu,6
-2009-02,Ghostface Killah,3
-2009-02,Gorillaz,1
-2009-02,Guster,1
-2009-02,Jay-Z,0
-2009-02,Jaylib,1
-2009-02,Jim Sharkey,1
-2009-02,Kanye West,1
-2009-02,Kero One,1
-2009-03,2Pac,1
-2009-03,A Tribe Called Quest,14
-2009-03,Au Revoir Simone,13
-2009-03,Blockhead,1
-2009-03,Clipse,12
-2009-03,Common,18
-2009-03,De La Soul,30
-2009-03,Department Of Eagles,12
-2009-03,Dizzee Rascal,2
-2009-03,Dj Shadow,3
-2009-03,Doom,104
-2009-03,Erykah Badu,3
-2009-03,Ghostface Killah,7
-2009-03,Gorillaz,1
-2009-03,Guster,2
-2009-03,Jay-Z,15
-2009-03,Jaylib,1
-2009-03,Jim Sharkey,7
-2009-03,Kanye West,3
-2009-03,Kero One,12
-2009-04,2Pac,15
-2009-04,A Tribe Called Quest,4
-2009-04,Au Revoir Simone,1
-2009-04,Blockhead,26
-2009-04,Clipse,5
-2009-04,Common,1
-2009-04,De La Soul,2
-2009-04,Department Of Eagles,11
-2009-04,Dizzee Rascal,4
-2009-04,Dj Shadow,1
-2009-04,Doom,21
-2009-04,Erykah Badu,1
-2009-04,Ghostface Killah,3
-2009-04,Gorillaz,1
-2009-04,Guster,2
-2009-04,Jay-Z,10
-2009-04,Jaylib,1
-2009-04,Jim Sharkey,3
-2009-04,Kanye West,48
-2009-04,Kero One,8
-2009-05,2Pac,0
-2009-05,A Tribe Called Quest,0
-2009-05,Au Revoir Simone,0
-2009-05,Blockhead,0
-2009-05,Clipse,1
-2009-05,Common,0
-2009-05,De La Soul,0
-2009-05,Department Of Eagles,0
-2009-05,Dizzee Rascal,2
-2009-05,Dj Shadow,0
-2009-05,Doom,0
-2009-05,Erykah Badu,0
-2009-05,Ghostface Killah,0
-2009-05,Gorillaz,0
-2009-05,Guster,0
-2009-05,Jay-Z,13
-2009-05,Jaylib,0
-2009-05,Jim Sharkey,0
-2009-05,Kanye West,0
-2009-05,Kero One,0
+"month","artist","plays"
+"2009-02","2Pac",1
+"2009-02","A Tribe Called Quest",2
+"2009-02","Au Revoir Simone",6
+"2009-02","Blockhead",1
+"2009-02","Clipse",1
+"2009-02","Common",1
+"2009-02","De La Soul",6
+"2009-02","Department Of Eagles",1
+"2009-02","Dizzee Rascal",1
+"2009-02","Dj Shadow",1
+"2009-02","Doom",25
+"2009-02","Erykah Badu",6
+"2009-02","Ghostface Killah",3
+"2009-02","Gorillaz",1
+"2009-02","Guster",1
+"2009-02","Jay-Z",0
+"2009-02","Jaylib",1
+"2009-02","Jim Sharkey",1
+"2009-02","Kanye West",1
+"2009-02","Kero One",1
+"2009-03","2Pac",1
+"2009-03","A Tribe Called Quest",14
+"2009-03","Au Revoir Simone",13
+"2009-03","Blockhead",1
+"2009-03","Clipse",12
+"2009-03","Common",18
+"2009-03","De La Soul",30
+"2009-03","Department Of Eagles",12
+"2009-03","Dizzee Rascal",2
+"2009-03","Dj Shadow",3
+"2009-03","Doom",104
+"2009-03","Erykah Badu",3
+"2009-03","Ghostface Killah",7
+"2009-03","Gorillaz",1
+"2009-03","Guster",2
+"2009-03","Jay-Z",15
+"2009-03","Jaylib",1
+"2009-03","Jim Sharkey",7
+"2009-03","Kanye West",3
+"2009-03","Kero One",12
+"2009-04","2Pac",15
+"2009-04","A Tribe Called Quest",4
+"2009-04","Au Revoir Simone",1
+"2009-04","Blockhead",26
+"2009-04","Clipse",5
+"2009-04","Common",1
+"2009-04","De La Soul",2
+"2009-04","Department Of Eagles",11
+"2009-04","Dizzee Rascal",4
+"2009-04","Dj Shadow",1
+"2009-04","Doom",21
+"2009-04","Erykah Badu",1
+"2009-04","Ghostface Killah",3
+"2009-04","Gorillaz",1
+"2009-04","Guster",2
+"2009-04","Jay-Z",10
+"2009-04","Jaylib",1
+"2009-04","Jim Sharkey",3
+"2009-04","Kanye West",48
+"2009-04","Kero One",8
+"2009-05","2Pac",0
+"2009-05","A Tribe Called Quest",0
+"2009-05","Au Revoir Simone",0
+"2009-05","Blockhead",0
+"2009-05","Clipse",1
+"2009-05","Common",0
+"2009-05","De La Soul",0
+"2009-05","Department Of Eagles",0
+"2009-05","Dizzee Rascal",2
+"2009-05","Dj Shadow",0
+"2009-05","Doom",0
+"2009-05","Erykah Badu",0
+"2009-05","Ghostface Killah",0
+"2009-05","Gorillaz",0
+"2009-05","Guster",0
+"2009-05","Jay-Z",13
+"2009-05","Jaylib",0
+"2009-05","Jim Sharkey",0
+"2009-05","Kanye West",0
+"2009-05","Kero One",0

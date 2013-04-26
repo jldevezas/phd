@@ -1,641 +1,641 @@
-month,artist,plays
-2006-09,Air,10
-2006-09,Arcade Fire,87
-2006-09,Beck,0
-2006-09,Belle And Sebastian,0
-2006-09,Björk,0
-2006-09,Bloc Party,16
-2006-09,Coldplay,11
-2006-09,Elliott Smith,0
-2006-09,Franz Ferdinand,37
-2006-09,Husky Rescue,17
-2006-09,Interpol,34
-2006-09,Keane,7
-2006-09,Ladytron,38
-2006-09,Mew,9
-2006-09,Patrick Wolf,0
-2006-09,Röyksopp,6
-2006-09,Scandinavian Music Group,0
-2006-09,Sigur Rós,0
-2006-09,Sufjan Stevens,0
-2006-09,Yann Tiersen,11
-2006-10,Air,13
-2006-10,Arcade Fire,111
-2006-10,Beck,5
-2006-10,Belle And Sebastian,5
-2006-10,Björk,2
-2006-10,Bloc Party,9
-2006-10,Coldplay,8
-2006-10,Elliott Smith,28
-2006-10,Franz Ferdinand,3
-2006-10,Husky Rescue,6
-2006-10,Interpol,13
-2006-10,Keane,9
-2006-10,Ladytron,12
-2006-10,Mew,61
-2006-10,Patrick Wolf,84
-2006-10,Röyksopp,6
-2006-10,Scandinavian Music Group,0
-2006-10,Sigur Rós,34
-2006-10,Sufjan Stevens,2
-2006-10,Yann Tiersen,10
-2006-11,Air,13
-2006-11,Arcade Fire,16
-2006-11,Beck,0
-2006-11,Belle And Sebastian,7
-2006-11,Björk,0
-2006-11,Bloc Party,13
-2006-11,Coldplay,7
-2006-11,Elliott Smith,50
-2006-11,Franz Ferdinand,1
-2006-11,Husky Rescue,1
-2006-11,Interpol,0
-2006-11,Keane,30
-2006-11,Ladytron,2
-2006-11,Mew,22
-2006-11,Patrick Wolf,36
-2006-11,Röyksopp,8
-2006-11,Scandinavian Music Group,34
-2006-11,Sigur Rós,12
-2006-11,Sufjan Stevens,74
-2006-11,Yann Tiersen,47
-2006-12,Air,68
-2006-12,Arcade Fire,28
-2006-12,Beck,29
-2006-12,Belle And Sebastian,31
-2006-12,Björk,0
-2006-12,Bloc Party,10
-2006-12,Coldplay,40
-2006-12,Elliott Smith,12
-2006-12,Franz Ferdinand,42
-2006-12,Husky Rescue,37
-2006-12,Interpol,1
-2006-12,Keane,7
-2006-12,Ladytron,1
-2006-12,Mew,82
-2006-12,Patrick Wolf,5
-2006-12,Röyksopp,45
-2006-12,Scandinavian Music Group,7
-2006-12,Sigur Rós,15
-2006-12,Sufjan Stevens,88
-2006-12,Yann Tiersen,4
-2007-01,Air,2
-2007-01,Arcade Fire,6
-2007-01,Beck,75
-2007-01,Belle And Sebastian,47
-2007-01,Björk,0
-2007-01,Bloc Party,72
-2007-01,Coldplay,1
-2007-01,Elliott Smith,0
-2007-01,Franz Ferdinand,22
-2007-01,Husky Rescue,24
-2007-01,Interpol,3
-2007-01,Keane,8
-2007-01,Ladytron,5
-2007-01,Mew,17
-2007-01,Patrick Wolf,4
-2007-01,Röyksopp,9
-2007-01,Scandinavian Music Group,0
-2007-01,Sigur Rós,17
-2007-01,Sufjan Stevens,3
-2007-01,Yann Tiersen,0
-2007-02,Air,32
-2007-02,Arcade Fire,91
-2007-02,Beck,6
-2007-02,Belle And Sebastian,38
-2007-02,Björk,0
-2007-02,Bloc Party,122
-2007-02,Coldplay,5
-2007-02,Elliott Smith,85
-2007-02,Franz Ferdinand,24
-2007-02,Husky Rescue,48
-2007-02,Interpol,56
-2007-02,Keane,14
-2007-02,Ladytron,8
-2007-02,Mew,178
-2007-02,Patrick Wolf,12
-2007-02,Röyksopp,9
-2007-02,Scandinavian Music Group,10
-2007-02,Sigur Rós,115
-2007-02,Sufjan Stevens,9
-2007-02,Yann Tiersen,35
-2007-03,Air,9
-2007-03,Arcade Fire,100
-2007-03,Beck,12
-2007-03,Belle And Sebastian,1
-2007-03,Björk,0
-2007-03,Bloc Party,2
-2007-03,Coldplay,1
-2007-03,Elliott Smith,2
-2007-03,Franz Ferdinand,0
-2007-03,Husky Rescue,2
-2007-03,Interpol,5
-2007-03,Keane,11
-2007-03,Ladytron,1
-2007-03,Mew,8
-2007-03,Patrick Wolf,21
-2007-03,Röyksopp,2
-2007-03,Scandinavian Music Group,2
-2007-03,Sigur Rós,3
-2007-03,Sufjan Stevens,43
-2007-03,Yann Tiersen,7
-2007-04,Air,5
-2007-04,Arcade Fire,66
-2007-04,Beck,3
-2007-04,Belle And Sebastian,19
-2007-04,Björk,2
-2007-04,Bloc Party,40
-2007-04,Coldplay,0
-2007-04,Elliott Smith,5
-2007-04,Franz Ferdinand,6
-2007-04,Husky Rescue,8
-2007-04,Interpol,3
-2007-04,Keane,7
-2007-04,Ladytron,0
-2007-04,Mew,7
-2007-04,Patrick Wolf,37
-2007-04,Röyksopp,1
-2007-04,Scandinavian Music Group,1
-2007-04,Sigur Rós,1
-2007-04,Sufjan Stevens,13
-2007-04,Yann Tiersen,1
-2007-05,Air,57
-2007-05,Arcade Fire,65
-2007-05,Beck,24
-2007-05,Belle And Sebastian,13
-2007-05,Björk,27
-2007-05,Bloc Party,3
-2007-05,Coldplay,0
-2007-05,Elliott Smith,13
-2007-05,Franz Ferdinand,4
-2007-05,Husky Rescue,2
-2007-05,Interpol,0
-2007-05,Keane,130
-2007-05,Ladytron,0
-2007-05,Mew,10
-2007-05,Patrick Wolf,4
-2007-05,Röyksopp,1
-2007-05,Scandinavian Music Group,3
-2007-05,Sigur Rós,3
-2007-05,Sufjan Stevens,4
-2007-05,Yann Tiersen,0
-2007-06,Air,9
-2007-06,Arcade Fire,10
-2007-06,Beck,12
-2007-06,Belle And Sebastian,3
-2007-06,Björk,5
-2007-06,Bloc Party,4
-2007-06,Coldplay,5
-2007-06,Elliott Smith,0
-2007-06,Franz Ferdinand,0
-2007-06,Husky Rescue,4
-2007-06,Interpol,16
-2007-06,Keane,0
-2007-06,Ladytron,0
-2007-06,Mew,10
-2007-06,Patrick Wolf,2
-2007-06,Röyksopp,2
-2007-06,Scandinavian Music Group,0
-2007-06,Sigur Rós,1
-2007-06,Sufjan Stevens,21
-2007-06,Yann Tiersen,0
-2007-07,Air,8
-2007-07,Arcade Fire,31
-2007-07,Beck,8
-2007-07,Belle And Sebastian,2
-2007-07,Björk,5
-2007-07,Bloc Party,1
-2007-07,Coldplay,47
-2007-07,Elliott Smith,5
-2007-07,Franz Ferdinand,0
-2007-07,Husky Rescue,8
-2007-07,Interpol,207
-2007-07,Keane,0
-2007-07,Ladytron,2
-2007-07,Mew,4
-2007-07,Patrick Wolf,10
-2007-07,Röyksopp,3
-2007-07,Scandinavian Music Group,1
-2007-07,Sigur Rós,0
-2007-07,Sufjan Stevens,9
-2007-07,Yann Tiersen,45
-2007-08,Air,16
-2007-08,Arcade Fire,8
-2007-08,Beck,0
-2007-08,Belle And Sebastian,5
-2007-08,Björk,106
-2007-08,Bloc Party,25
-2007-08,Coldplay,6
-2007-08,Elliott Smith,0
-2007-08,Franz Ferdinand,0
-2007-08,Husky Rescue,70
-2007-08,Interpol,95
-2007-08,Keane,2
-2007-08,Ladytron,0
-2007-08,Mew,2
-2007-08,Patrick Wolf,13
-2007-08,Röyksopp,42
-2007-08,Scandinavian Music Group,51
-2007-08,Sigur Rós,17
-2007-08,Sufjan Stevens,16
-2007-08,Yann Tiersen,41
-2007-09,Air,16
-2007-09,Arcade Fire,29
-2007-09,Beck,3
-2007-09,Belle And Sebastian,2
-2007-09,Björk,9
-2007-09,Bloc Party,9
-2007-09,Coldplay,5
-2007-09,Elliott Smith,1
-2007-09,Franz Ferdinand,1
-2007-09,Husky Rescue,2
-2007-09,Interpol,51
-2007-09,Keane,0
-2007-09,Ladytron,0
-2007-09,Mew,2
-2007-09,Patrick Wolf,20
-2007-09,Röyksopp,11
-2007-09,Scandinavian Music Group,5
-2007-09,Sigur Rós,1
-2007-09,Sufjan Stevens,0
-2007-09,Yann Tiersen,2
-2007-10,Air,34
-2007-10,Arcade Fire,27
-2007-10,Beck,3
-2007-10,Belle And Sebastian,26
-2007-10,Björk,39
-2007-10,Bloc Party,1
-2007-10,Coldplay,15
-2007-10,Elliott Smith,0
-2007-10,Franz Ferdinand,2
-2007-10,Husky Rescue,2
-2007-10,Interpol,51
-2007-10,Keane,1
-2007-10,Ladytron,1
-2007-10,Mew,9
-2007-10,Patrick Wolf,15
-2007-10,Röyksopp,17
-2007-10,Scandinavian Music Group,38
-2007-10,Sigur Rós,14
-2007-10,Sufjan Stevens,16
-2007-10,Yann Tiersen,3
-2007-11,Air,59
-2007-11,Arcade Fire,10
-2007-11,Beck,10
-2007-11,Belle And Sebastian,31
-2007-11,Björk,4
-2007-11,Bloc Party,0
-2007-11,Coldplay,5
-2007-11,Elliott Smith,2
-2007-11,Franz Ferdinand,0
-2007-11,Husky Rescue,2
-2007-11,Interpol,18
-2007-11,Keane,2
-2007-11,Ladytron,2
-2007-11,Mew,7
-2007-11,Patrick Wolf,102
-2007-11,Röyksopp,1
-2007-11,Scandinavian Music Group,45
-2007-11,Sigur Rós,181
-2007-11,Sufjan Stevens,10
-2007-11,Yann Tiersen,1
-2007-12,Air,20
-2007-12,Arcade Fire,32
-2007-12,Beck,2
-2007-12,Belle And Sebastian,1
-2007-12,Björk,3
-2007-12,Bloc Party,1
-2007-12,Coldplay,0
-2007-12,Elliott Smith,2
-2007-12,Franz Ferdinand,2
-2007-12,Husky Rescue,0
-2007-12,Interpol,11
-2007-12,Keane,0
-2007-12,Ladytron,1
-2007-12,Mew,0
-2007-12,Patrick Wolf,0
-2007-12,Röyksopp,0
-2007-12,Scandinavian Music Group,108
-2007-12,Sigur Rós,31
-2007-12,Sufjan Stevens,8
-2007-12,Yann Tiersen,16
-2008-01,Air,19
-2008-01,Arcade Fire,36
-2008-01,Beck,6
-2008-01,Belle And Sebastian,4
-2008-01,Björk,8
-2008-01,Bloc Party,0
-2008-01,Coldplay,7
-2008-01,Elliott Smith,3
-2008-01,Franz Ferdinand,1
-2008-01,Husky Rescue,0
-2008-01,Interpol,19
-2008-01,Keane,1
-2008-01,Ladytron,0
-2008-01,Mew,10
-2008-01,Patrick Wolf,8
-2008-01,Röyksopp,2
-2008-01,Scandinavian Music Group,7
-2008-01,Sigur Rós,88
-2008-01,Sufjan Stevens,1
-2008-01,Yann Tiersen,14
-2008-02,Air,9
-2008-02,Arcade Fire,42
-2008-02,Beck,1
-2008-02,Belle And Sebastian,9
-2008-02,Björk,14
-2008-02,Bloc Party,0
-2008-02,Coldplay,0
-2008-02,Elliott Smith,33
-2008-02,Franz Ferdinand,8
-2008-02,Husky Rescue,1
-2008-02,Interpol,10
-2008-02,Keane,1
-2008-02,Ladytron,13
-2008-02,Mew,4
-2008-02,Patrick Wolf,6
-2008-02,Röyksopp,0
-2008-02,Scandinavian Music Group,3
-2008-02,Sigur Rós,83
-2008-02,Sufjan Stevens,0
-2008-02,Yann Tiersen,6
-2008-03,Air,12
-2008-03,Arcade Fire,5
-2008-03,Beck,1
-2008-03,Belle And Sebastian,14
-2008-03,Björk,69
-2008-03,Bloc Party,5
-2008-03,Coldplay,0
-2008-03,Elliott Smith,7
-2008-03,Franz Ferdinand,0
-2008-03,Husky Rescue,91
-2008-03,Interpol,94
-2008-03,Keane,3
-2008-03,Ladytron,11
-2008-03,Mew,8
-2008-03,Patrick Wolf,8
-2008-03,Röyksopp,2
-2008-03,Scandinavian Music Group,10
-2008-03,Sigur Rós,4
-2008-03,Sufjan Stevens,7
-2008-03,Yann Tiersen,4
-2008-04,Air,15
-2008-04,Arcade Fire,2
-2008-04,Beck,3
-2008-04,Belle And Sebastian,21
-2008-04,Björk,193
-2008-04,Bloc Party,0
-2008-04,Coldplay,0
-2008-04,Elliott Smith,5
-2008-04,Franz Ferdinand,0
-2008-04,Husky Rescue,20
-2008-04,Interpol,0
-2008-04,Keane,0
-2008-04,Ladytron,8
-2008-04,Mew,7
-2008-04,Patrick Wolf,11
-2008-04,Röyksopp,1
-2008-04,Scandinavian Music Group,5
-2008-04,Sigur Rós,9
-2008-04,Sufjan Stevens,2
-2008-04,Yann Tiersen,10
-2008-05,Air,0
-2008-05,Arcade Fire,7
-2008-05,Beck,0
-2008-05,Belle And Sebastian,18
-2008-05,Björk,25
-2008-05,Bloc Party,0
-2008-05,Coldplay,2
-2008-05,Elliott Smith,1
-2008-05,Franz Ferdinand,5
-2008-05,Husky Rescue,8
-2008-05,Interpol,3
-2008-05,Keane,4
-2008-05,Ladytron,7
-2008-05,Mew,1
-2008-05,Patrick Wolf,4
-2008-05,Röyksopp,4
-2008-05,Scandinavian Music Group,8
-2008-05,Sigur Rós,101
-2008-05,Sufjan Stevens,2
-2008-05,Yann Tiersen,2
-2008-06,Air,6
-2008-06,Arcade Fire,6
-2008-06,Beck,1
-2008-06,Belle And Sebastian,2
-2008-06,Björk,41
-2008-06,Bloc Party,4
-2008-06,Coldplay,28
-2008-06,Elliott Smith,3
-2008-06,Franz Ferdinand,2
-2008-06,Husky Rescue,4
-2008-06,Interpol,23
-2008-06,Keane,2
-2008-06,Ladytron,7
-2008-06,Mew,0
-2008-06,Patrick Wolf,2
-2008-06,Röyksopp,3
-2008-06,Scandinavian Music Group,8
-2008-06,Sigur Rós,30
-2008-06,Sufjan Stevens,2
-2008-06,Yann Tiersen,0
-2008-07,Air,8
-2008-07,Arcade Fire,9
-2008-07,Beck,29
-2008-07,Belle And Sebastian,3
-2008-07,Björk,25
-2008-07,Bloc Party,3
-2008-07,Coldplay,49
-2008-07,Elliott Smith,4
-2008-07,Franz Ferdinand,24
-2008-07,Husky Rescue,2
-2008-07,Interpol,18
-2008-07,Keane,0
-2008-07,Ladytron,24
-2008-07,Mew,15
-2008-07,Patrick Wolf,0
-2008-07,Röyksopp,4
-2008-07,Scandinavian Music Group,0
-2008-07,Sigur Rós,34
-2008-07,Sufjan Stevens,14
-2008-07,Yann Tiersen,0
-2008-08,Air,13
-2008-08,Arcade Fire,144
-2008-08,Beck,6
-2008-08,Belle And Sebastian,37
-2008-08,Björk,23
-2008-08,Bloc Party,15
-2008-08,Coldplay,32
-2008-08,Elliott Smith,1
-2008-08,Franz Ferdinand,1
-2008-08,Husky Rescue,3
-2008-08,Interpol,7
-2008-08,Keane,7
-2008-08,Ladytron,8
-2008-08,Mew,10
-2008-08,Patrick Wolf,6
-2008-08,Röyksopp,7
-2008-08,Scandinavian Music Group,3
-2008-08,Sigur Rós,34
-2008-08,Sufjan Stevens,12
-2008-08,Yann Tiersen,1
-2008-09,Air,9
-2008-09,Arcade Fire,11
-2008-09,Beck,4
-2008-09,Belle And Sebastian,6
-2008-09,Björk,15
-2008-09,Bloc Party,18
-2008-09,Coldplay,6
-2008-09,Elliott Smith,2
-2008-09,Franz Ferdinand,5
-2008-09,Husky Rescue,7
-2008-09,Interpol,20
-2008-09,Keane,0
-2008-09,Ladytron,5
-2008-09,Mew,25
-2008-09,Patrick Wolf,9
-2008-09,Röyksopp,3
-2008-09,Scandinavian Music Group,3
-2008-09,Sigur Rós,16
-2008-09,Sufjan Stevens,1
-2008-09,Yann Tiersen,2
-2008-10,Air,9
-2008-10,Arcade Fire,38
-2008-10,Beck,1
-2008-10,Belle And Sebastian,6
-2008-10,Björk,23
-2008-10,Bloc Party,29
-2008-10,Coldplay,0
-2008-10,Elliott Smith,2
-2008-10,Franz Ferdinand,6
-2008-10,Husky Rescue,5
-2008-10,Interpol,0
-2008-10,Keane,49
-2008-10,Ladytron,1
-2008-10,Mew,17
-2008-10,Patrick Wolf,6
-2008-10,Röyksopp,0
-2008-10,Scandinavian Music Group,2
-2008-10,Sigur Rós,5
-2008-10,Sufjan Stevens,8
-2008-10,Yann Tiersen,3
-2008-11,Air,5
-2008-11,Arcade Fire,12
-2008-11,Beck,1
-2008-11,Belle And Sebastian,4
-2008-11,Björk,36
-2008-11,Bloc Party,5
-2008-11,Coldplay,5
-2008-11,Elliott Smith,2
-2008-11,Franz Ferdinand,2
-2008-11,Husky Rescue,2
-2008-11,Interpol,3
-2008-11,Keane,20
-2008-11,Ladytron,1
-2008-11,Mew,2
-2008-11,Patrick Wolf,168
-2008-11,Röyksopp,1
-2008-11,Scandinavian Music Group,3
-2008-11,Sigur Rós,2
-2008-11,Sufjan Stevens,10
-2008-11,Yann Tiersen,3
-2008-12,Air,8
-2008-12,Arcade Fire,21
-2008-12,Beck,12
-2008-12,Belle And Sebastian,1
-2008-12,Björk,41
-2008-12,Bloc Party,9
-2008-12,Coldplay,10
-2008-12,Elliott Smith,1
-2008-12,Franz Ferdinand,1
-2008-12,Husky Rescue,0
-2008-12,Interpol,2
-2008-12,Keane,9
-2008-12,Ladytron,0
-2008-12,Mew,1
-2008-12,Patrick Wolf,5
-2008-12,Röyksopp,1
-2008-12,Scandinavian Music Group,4
-2008-12,Sigur Rós,15
-2008-12,Sufjan Stevens,13
-2008-12,Yann Tiersen,5
-2009-01,Air,8
-2009-01,Arcade Fire,10
-2009-01,Beck,8
-2009-01,Belle And Sebastian,18
-2009-01,Björk,105
-2009-01,Bloc Party,15
-2009-01,Coldplay,1
-2009-01,Elliott Smith,6
-2009-01,Franz Ferdinand,86
-2009-01,Husky Rescue,1
-2009-01,Interpol,43
-2009-01,Keane,20
-2009-01,Ladytron,1
-2009-01,Mew,2
-2009-01,Patrick Wolf,24
-2009-01,Röyksopp,1
-2009-01,Scandinavian Music Group,10
-2009-01,Sigur Rós,17
-2009-01,Sufjan Stevens,5
-2009-01,Yann Tiersen,0
-2009-02,Air,14
-2009-02,Arcade Fire,36
-2009-02,Beck,4
-2009-02,Belle And Sebastian,0
-2009-02,Björk,84
-2009-02,Bloc Party,10
-2009-02,Coldplay,3
-2009-02,Elliott Smith,4
-2009-02,Franz Ferdinand,16
-2009-02,Husky Rescue,3
-2009-02,Interpol,15
-2009-02,Keane,8
-2009-02,Ladytron,46
-2009-02,Mew,3
-2009-02,Patrick Wolf,8
-2009-02,Röyksopp,1
-2009-02,Scandinavian Music Group,15
-2009-02,Sigur Rós,1
-2009-02,Sufjan Stevens,0
-2009-02,Yann Tiersen,13
-2009-03,Air,0
-2009-03,Arcade Fire,22
-2009-03,Beck,4
-2009-03,Belle And Sebastian,52
-2009-03,Björk,31
-2009-03,Bloc Party,1
-2009-03,Coldplay,3
-2009-03,Elliott Smith,0
-2009-03,Franz Ferdinand,6
-2009-03,Husky Rescue,3
-2009-03,Interpol,0
-2009-03,Keane,2
-2009-03,Ladytron,8
-2009-03,Mew,6
-2009-03,Patrick Wolf,0
-2009-03,Röyksopp,27
-2009-03,Scandinavian Music Group,0
-2009-03,Sigur Rós,19
-2009-03,Sufjan Stevens,0
-2009-03,Yann Tiersen,3
-2009-04,Air,64
-2009-04,Arcade Fire,30
-2009-04,Beck,0
-2009-04,Belle And Sebastian,2
-2009-04,Björk,22
-2009-04,Bloc Party,0
-2009-04,Coldplay,2
-2009-04,Elliott Smith,0
-2009-04,Franz Ferdinand,1
-2009-04,Husky Rescue,0
-2009-04,Interpol,6
-2009-04,Keane,2
-2009-04,Ladytron,4
-2009-04,Mew,0
-2009-04,Patrick Wolf,21
-2009-04,Röyksopp,10
-2009-04,Scandinavian Music Group,12
-2009-04,Sigur Rós,13
-2009-04,Sufjan Stevens,0
-2009-04,Yann Tiersen,1
+"month","artist","plays"
+"2006-09","Air",10
+"2006-09","Arcade Fire",87
+"2006-09","Beck",0
+"2006-09","Belle And Sebastian",0
+"2006-09","Björk",0
+"2006-09","Bloc Party",16
+"2006-09","Coldplay",11
+"2006-09","Elliott Smith",0
+"2006-09","Franz Ferdinand",37
+"2006-09","Husky Rescue",17
+"2006-09","Interpol",34
+"2006-09","Keane",7
+"2006-09","Ladytron",38
+"2006-09","Mew",9
+"2006-09","Patrick Wolf",0
+"2006-09","Röyksopp",6
+"2006-09","Scandinavian Music Group",0
+"2006-09","Sigur Rós",0
+"2006-09","Sufjan Stevens",0
+"2006-09","Yann Tiersen",11
+"2006-10","Air",13
+"2006-10","Arcade Fire",111
+"2006-10","Beck",5
+"2006-10","Belle And Sebastian",5
+"2006-10","Björk",2
+"2006-10","Bloc Party",9
+"2006-10","Coldplay",8
+"2006-10","Elliott Smith",28
+"2006-10","Franz Ferdinand",3
+"2006-10","Husky Rescue",6
+"2006-10","Interpol",13
+"2006-10","Keane",9
+"2006-10","Ladytron",12
+"2006-10","Mew",61
+"2006-10","Patrick Wolf",84
+"2006-10","Röyksopp",6
+"2006-10","Scandinavian Music Group",0
+"2006-10","Sigur Rós",34
+"2006-10","Sufjan Stevens",2
+"2006-10","Yann Tiersen",10
+"2006-11","Air",13
+"2006-11","Arcade Fire",16
+"2006-11","Beck",0
+"2006-11","Belle And Sebastian",7
+"2006-11","Björk",0
+"2006-11","Bloc Party",13
+"2006-11","Coldplay",7
+"2006-11","Elliott Smith",50
+"2006-11","Franz Ferdinand",1
+"2006-11","Husky Rescue",1
+"2006-11","Interpol",0
+"2006-11","Keane",30
+"2006-11","Ladytron",2
+"2006-11","Mew",22
+"2006-11","Patrick Wolf",36
+"2006-11","Röyksopp",8
+"2006-11","Scandinavian Music Group",34
+"2006-11","Sigur Rós",12
+"2006-11","Sufjan Stevens",74
+"2006-11","Yann Tiersen",47
+"2006-12","Air",68
+"2006-12","Arcade Fire",28
+"2006-12","Beck",29
+"2006-12","Belle And Sebastian",31
+"2006-12","Björk",0
+"2006-12","Bloc Party",10
+"2006-12","Coldplay",40
+"2006-12","Elliott Smith",12
+"2006-12","Franz Ferdinand",42
+"2006-12","Husky Rescue",37
+"2006-12","Interpol",1
+"2006-12","Keane",7
+"2006-12","Ladytron",1
+"2006-12","Mew",82
+"2006-12","Patrick Wolf",5
+"2006-12","Röyksopp",45
+"2006-12","Scandinavian Music Group",7
+"2006-12","Sigur Rós",15
+"2006-12","Sufjan Stevens",88
+"2006-12","Yann Tiersen",4
+"2007-01","Air",2
+"2007-01","Arcade Fire",6
+"2007-01","Beck",75
+"2007-01","Belle And Sebastian",47
+"2007-01","Björk",0
+"2007-01","Bloc Party",72
+"2007-01","Coldplay",1
+"2007-01","Elliott Smith",0
+"2007-01","Franz Ferdinand",22
+"2007-01","Husky Rescue",24
+"2007-01","Interpol",3
+"2007-01","Keane",8
+"2007-01","Ladytron",5
+"2007-01","Mew",17
+"2007-01","Patrick Wolf",4
+"2007-01","Röyksopp",9
+"2007-01","Scandinavian Music Group",0
+"2007-01","Sigur Rós",17
+"2007-01","Sufjan Stevens",3
+"2007-01","Yann Tiersen",0
+"2007-02","Air",32
+"2007-02","Arcade Fire",91
+"2007-02","Beck",6
+"2007-02","Belle And Sebastian",38
+"2007-02","Björk",0
+"2007-02","Bloc Party",122
+"2007-02","Coldplay",5
+"2007-02","Elliott Smith",85
+"2007-02","Franz Ferdinand",24
+"2007-02","Husky Rescue",48
+"2007-02","Interpol",56
+"2007-02","Keane",14
+"2007-02","Ladytron",8
+"2007-02","Mew",178
+"2007-02","Patrick Wolf",12
+"2007-02","Röyksopp",9
+"2007-02","Scandinavian Music Group",10
+"2007-02","Sigur Rós",115
+"2007-02","Sufjan Stevens",9
+"2007-02","Yann Tiersen",35
+"2007-03","Air",9
+"2007-03","Arcade Fire",100
+"2007-03","Beck",12
+"2007-03","Belle And Sebastian",1
+"2007-03","Björk",0
+"2007-03","Bloc Party",2
+"2007-03","Coldplay",1
+"2007-03","Elliott Smith",2
+"2007-03","Franz Ferdinand",0
+"2007-03","Husky Rescue",2
+"2007-03","Interpol",5
+"2007-03","Keane",11
+"2007-03","Ladytron",1
+"2007-03","Mew",8
+"2007-03","Patrick Wolf",21
+"2007-03","Röyksopp",2
+"2007-03","Scandinavian Music Group",2
+"2007-03","Sigur Rós",3
+"2007-03","Sufjan Stevens",43
+"2007-03","Yann Tiersen",7
+"2007-04","Air",5
+"2007-04","Arcade Fire",66
+"2007-04","Beck",3
+"2007-04","Belle And Sebastian",19
+"2007-04","Björk",2
+"2007-04","Bloc Party",40
+"2007-04","Coldplay",0
+"2007-04","Elliott Smith",5
+"2007-04","Franz Ferdinand",6
+"2007-04","Husky Rescue",8
+"2007-04","Interpol",3
+"2007-04","Keane",7
+"2007-04","Ladytron",0
+"2007-04","Mew",7
+"2007-04","Patrick Wolf",37
+"2007-04","Röyksopp",1
+"2007-04","Scandinavian Music Group",1
+"2007-04","Sigur Rós",1
+"2007-04","Sufjan Stevens",13
+"2007-04","Yann Tiersen",1
+"2007-05","Air",57
+"2007-05","Arcade Fire",65
+"2007-05","Beck",24
+"2007-05","Belle And Sebastian",13
+"2007-05","Björk",27
+"2007-05","Bloc Party",3
+"2007-05","Coldplay",0
+"2007-05","Elliott Smith",13
+"2007-05","Franz Ferdinand",4
+"2007-05","Husky Rescue",2
+"2007-05","Interpol",0
+"2007-05","Keane",130
+"2007-05","Ladytron",0
+"2007-05","Mew",10
+"2007-05","Patrick Wolf",4
+"2007-05","Röyksopp",1
+"2007-05","Scandinavian Music Group",3
+"2007-05","Sigur Rós",3
+"2007-05","Sufjan Stevens",4
+"2007-05","Yann Tiersen",0
+"2007-06","Air",9
+"2007-06","Arcade Fire",10
+"2007-06","Beck",12
+"2007-06","Belle And Sebastian",3
+"2007-06","Björk",5
+"2007-06","Bloc Party",4
+"2007-06","Coldplay",5
+"2007-06","Elliott Smith",0
+"2007-06","Franz Ferdinand",0
+"2007-06","Husky Rescue",4
+"2007-06","Interpol",16
+"2007-06","Keane",0
+"2007-06","Ladytron",0
+"2007-06","Mew",10
+"2007-06","Patrick Wolf",2
+"2007-06","Röyksopp",2
+"2007-06","Scandinavian Music Group",0
+"2007-06","Sigur Rós",1
+"2007-06","Sufjan Stevens",21
+"2007-06","Yann Tiersen",0
+"2007-07","Air",8
+"2007-07","Arcade Fire",31
+"2007-07","Beck",8
+"2007-07","Belle And Sebastian",2
+"2007-07","Björk",5
+"2007-07","Bloc Party",1
+"2007-07","Coldplay",47
+"2007-07","Elliott Smith",5
+"2007-07","Franz Ferdinand",0
+"2007-07","Husky Rescue",8
+"2007-07","Interpol",207
+"2007-07","Keane",0
+"2007-07","Ladytron",2
+"2007-07","Mew",4
+"2007-07","Patrick Wolf",10
+"2007-07","Röyksopp",3
+"2007-07","Scandinavian Music Group",1
+"2007-07","Sigur Rós",0
+"2007-07","Sufjan Stevens",9
+"2007-07","Yann Tiersen",45
+"2007-08","Air",16
+"2007-08","Arcade Fire",8
+"2007-08","Beck",0
+"2007-08","Belle And Sebastian",5
+"2007-08","Björk",106
+"2007-08","Bloc Party",25
+"2007-08","Coldplay",6
+"2007-08","Elliott Smith",0
+"2007-08","Franz Ferdinand",0
+"2007-08","Husky Rescue",70
+"2007-08","Interpol",95
+"2007-08","Keane",2
+"2007-08","Ladytron",0
+"2007-08","Mew",2
+"2007-08","Patrick Wolf",13
+"2007-08","Röyksopp",42
+"2007-08","Scandinavian Music Group",51
+"2007-08","Sigur Rós",17
+"2007-08","Sufjan Stevens",16
+"2007-08","Yann Tiersen",41
+"2007-09","Air",16
+"2007-09","Arcade Fire",29
+"2007-09","Beck",3
+"2007-09","Belle And Sebastian",2
+"2007-09","Björk",9
+"2007-09","Bloc Party",9
+"2007-09","Coldplay",5
+"2007-09","Elliott Smith",1
+"2007-09","Franz Ferdinand",1
+"2007-09","Husky Rescue",2
+"2007-09","Interpol",51
+"2007-09","Keane",0
+"2007-09","Ladytron",0
+"2007-09","Mew",2
+"2007-09","Patrick Wolf",20
+"2007-09","Röyksopp",11
+"2007-09","Scandinavian Music Group",5
+"2007-09","Sigur Rós",1
+"2007-09","Sufjan Stevens",0
+"2007-09","Yann Tiersen",2
+"2007-10","Air",34
+"2007-10","Arcade Fire",27
+"2007-10","Beck",3
+"2007-10","Belle And Sebastian",26
+"2007-10","Björk",39
+"2007-10","Bloc Party",1
+"2007-10","Coldplay",15
+"2007-10","Elliott Smith",0
+"2007-10","Franz Ferdinand",2
+"2007-10","Husky Rescue",2
+"2007-10","Interpol",51
+"2007-10","Keane",1
+"2007-10","Ladytron",1
+"2007-10","Mew",9
+"2007-10","Patrick Wolf",15
+"2007-10","Röyksopp",17
+"2007-10","Scandinavian Music Group",38
+"2007-10","Sigur Rós",14
+"2007-10","Sufjan Stevens",16
+"2007-10","Yann Tiersen",3
+"2007-11","Air",59
+"2007-11","Arcade Fire",10
+"2007-11","Beck",10
+"2007-11","Belle And Sebastian",31
+"2007-11","Björk",4
+"2007-11","Bloc Party",0
+"2007-11","Coldplay",5
+"2007-11","Elliott Smith",2
+"2007-11","Franz Ferdinand",0
+"2007-11","Husky Rescue",2
+"2007-11","Interpol",18
+"2007-11","Keane",2
+"2007-11","Ladytron",2
+"2007-11","Mew",7
+"2007-11","Patrick Wolf",102
+"2007-11","Röyksopp",1
+"2007-11","Scandinavian Music Group",45
+"2007-11","Sigur Rós",181
+"2007-11","Sufjan Stevens",10
+"2007-11","Yann Tiersen",1
+"2007-12","Air",20
+"2007-12","Arcade Fire",32
+"2007-12","Beck",2
+"2007-12","Belle And Sebastian",1
+"2007-12","Björk",3
+"2007-12","Bloc Party",1
+"2007-12","Coldplay",0
+"2007-12","Elliott Smith",2
+"2007-12","Franz Ferdinand",2
+"2007-12","Husky Rescue",0
+"2007-12","Interpol",11
+"2007-12","Keane",0
+"2007-12","Ladytron",1
+"2007-12","Mew",0
+"2007-12","Patrick Wolf",0
+"2007-12","Röyksopp",0
+"2007-12","Scandinavian Music Group",108
+"2007-12","Sigur Rós",31
+"2007-12","Sufjan Stevens",8
+"2007-12","Yann Tiersen",16
+"2008-01","Air",19
+"2008-01","Arcade Fire",36
+"2008-01","Beck",6
+"2008-01","Belle And Sebastian",4
+"2008-01","Björk",8
+"2008-01","Bloc Party",0
+"2008-01","Coldplay",7
+"2008-01","Elliott Smith",3
+"2008-01","Franz Ferdinand",1
+"2008-01","Husky Rescue",0
+"2008-01","Interpol",19
+"2008-01","Keane",1
+"2008-01","Ladytron",0
+"2008-01","Mew",10
+"2008-01","Patrick Wolf",8
+"2008-01","Röyksopp",2
+"2008-01","Scandinavian Music Group",7
+"2008-01","Sigur Rós",88
+"2008-01","Sufjan Stevens",1
+"2008-01","Yann Tiersen",14
+"2008-02","Air",9
+"2008-02","Arcade Fire",42
+"2008-02","Beck",1
+"2008-02","Belle And Sebastian",9
+"2008-02","Björk",14
+"2008-02","Bloc Party",0
+"2008-02","Coldplay",0
+"2008-02","Elliott Smith",33
+"2008-02","Franz Ferdinand",8
+"2008-02","Husky Rescue",1
+"2008-02","Interpol",10
+"2008-02","Keane",1
+"2008-02","Ladytron",13
+"2008-02","Mew",4
+"2008-02","Patrick Wolf",6
+"2008-02","Röyksopp",0
+"2008-02","Scandinavian Music Group",3
+"2008-02","Sigur Rós",83
+"2008-02","Sufjan Stevens",0
+"2008-02","Yann Tiersen",6
+"2008-03","Air",12
+"2008-03","Arcade Fire",5
+"2008-03","Beck",1
+"2008-03","Belle And Sebastian",14
+"2008-03","Björk",69
+"2008-03","Bloc Party",5
+"2008-03","Coldplay",0
+"2008-03","Elliott Smith",7
+"2008-03","Franz Ferdinand",0
+"2008-03","Husky Rescue",91
+"2008-03","Interpol",94
+"2008-03","Keane",3
+"2008-03","Ladytron",11
+"2008-03","Mew",8
+"2008-03","Patrick Wolf",8
+"2008-03","Röyksopp",2
+"2008-03","Scandinavian Music Group",10
+"2008-03","Sigur Rós",4
+"2008-03","Sufjan Stevens",7
+"2008-03","Yann Tiersen",4
+"2008-04","Air",15
+"2008-04","Arcade Fire",2
+"2008-04","Beck",3
+"2008-04","Belle And Sebastian",21
+"2008-04","Björk",193
+"2008-04","Bloc Party",0
+"2008-04","Coldplay",0
+"2008-04","Elliott Smith",5
+"2008-04","Franz Ferdinand",0
+"2008-04","Husky Rescue",20
+"2008-04","Interpol",0
+"2008-04","Keane",0
+"2008-04","Ladytron",8
+"2008-04","Mew",7
+"2008-04","Patrick Wolf",11
+"2008-04","Röyksopp",1
+"2008-04","Scandinavian Music Group",5
+"2008-04","Sigur Rós",9
+"2008-04","Sufjan Stevens",2
+"2008-04","Yann Tiersen",10
+"2008-05","Air",0
+"2008-05","Arcade Fire",7
+"2008-05","Beck",0
+"2008-05","Belle And Sebastian",18
+"2008-05","Björk",25
+"2008-05","Bloc Party",0
+"2008-05","Coldplay",2
+"2008-05","Elliott Smith",1
+"2008-05","Franz Ferdinand",5
+"2008-05","Husky Rescue",8
+"2008-05","Interpol",3
+"2008-05","Keane",4
+"2008-05","Ladytron",7
+"2008-05","Mew",1
+"2008-05","Patrick Wolf",4
+"2008-05","Röyksopp",4
+"2008-05","Scandinavian Music Group",8
+"2008-05","Sigur Rós",101
+"2008-05","Sufjan Stevens",2
+"2008-05","Yann Tiersen",2
+"2008-06","Air",6
+"2008-06","Arcade Fire",6
+"2008-06","Beck",1
+"2008-06","Belle And Sebastian",2
+"2008-06","Björk",41
+"2008-06","Bloc Party",4
+"2008-06","Coldplay",28
+"2008-06","Elliott Smith",3
+"2008-06","Franz Ferdinand",2
+"2008-06","Husky Rescue",4
+"2008-06","Interpol",23
+"2008-06","Keane",2
+"2008-06","Ladytron",7
+"2008-06","Mew",0
+"2008-06","Patrick Wolf",2
+"2008-06","Röyksopp",3
+"2008-06","Scandinavian Music Group",8
+"2008-06","Sigur Rós",30
+"2008-06","Sufjan Stevens",2
+"2008-06","Yann Tiersen",0
+"2008-07","Air",8
+"2008-07","Arcade Fire",9
+"2008-07","Beck",29
+"2008-07","Belle And Sebastian",3
+"2008-07","Björk",25
+"2008-07","Bloc Party",3
+"2008-07","Coldplay",49
+"2008-07","Elliott Smith",4
+"2008-07","Franz Ferdinand",24
+"2008-07","Husky Rescue",2
+"2008-07","Interpol",18
+"2008-07","Keane",0
+"2008-07","Ladytron",24
+"2008-07","Mew",15
+"2008-07","Patrick Wolf",0
+"2008-07","Röyksopp",4
+"2008-07","Scandinavian Music Group",0
+"2008-07","Sigur Rós",34
+"2008-07","Sufjan Stevens",14
+"2008-07","Yann Tiersen",0
+"2008-08","Air",13
+"2008-08","Arcade Fire",144
+"2008-08","Beck",6
+"2008-08","Belle And Sebastian",37
+"2008-08","Björk",23
+"2008-08","Bloc Party",15
+"2008-08","Coldplay",32
+"2008-08","Elliott Smith",1
+"2008-08","Franz Ferdinand",1
+"2008-08","Husky Rescue",3
+"2008-08","Interpol",7
+"2008-08","Keane",7
+"2008-08","Ladytron",8
+"2008-08","Mew",10
+"2008-08","Patrick Wolf",6
+"2008-08","Röyksopp",7
+"2008-08","Scandinavian Music Group",3
+"2008-08","Sigur Rós",34
+"2008-08","Sufjan Stevens",12
+"2008-08","Yann Tiersen",1
+"2008-09","Air",9
+"2008-09","Arcade Fire",11
+"2008-09","Beck",4
+"2008-09","Belle And Sebastian",6
+"2008-09","Björk",15
+"2008-09","Bloc Party",18
+"2008-09","Coldplay",6
+"2008-09","Elliott Smith",2
+"2008-09","Franz Ferdinand",5
+"2008-09","Husky Rescue",7
+"2008-09","Interpol",20
+"2008-09","Keane",0
+"2008-09","Ladytron",5
+"2008-09","Mew",25
+"2008-09","Patrick Wolf",9
+"2008-09","Röyksopp",3
+"2008-09","Scandinavian Music Group",3
+"2008-09","Sigur Rós",16
+"2008-09","Sufjan Stevens",1
+"2008-09","Yann Tiersen",2
+"2008-10","Air",9
+"2008-10","Arcade Fire",38
+"2008-10","Beck",1
+"2008-10","Belle And Sebastian",6
+"2008-10","Björk",23
+"2008-10","Bloc Party",29
+"2008-10","Coldplay",0
+"2008-10","Elliott Smith",2
+"2008-10","Franz Ferdinand",6
+"2008-10","Husky Rescue",5
+"2008-10","Interpol",0
+"2008-10","Keane",49
+"2008-10","Ladytron",1
+"2008-10","Mew",17
+"2008-10","Patrick Wolf",6
+"2008-10","Röyksopp",0
+"2008-10","Scandinavian Music Group",2
+"2008-10","Sigur Rós",5
+"2008-10","Sufjan Stevens",8
+"2008-10","Yann Tiersen",3
+"2008-11","Air",5
+"2008-11","Arcade Fire",12
+"2008-11","Beck",1
+"2008-11","Belle And Sebastian",4
+"2008-11","Björk",36
+"2008-11","Bloc Party",5
+"2008-11","Coldplay",5
+"2008-11","Elliott Smith",2
+"2008-11","Franz Ferdinand",2
+"2008-11","Husky Rescue",2
+"2008-11","Interpol",3
+"2008-11","Keane",20
+"2008-11","Ladytron",1
+"2008-11","Mew",2
+"2008-11","Patrick Wolf",168
+"2008-11","Röyksopp",1
+"2008-11","Scandinavian Music Group",3
+"2008-11","Sigur Rós",2
+"2008-11","Sufjan Stevens",10
+"2008-11","Yann Tiersen",3
+"2008-12","Air",8
+"2008-12","Arcade Fire",21
+"2008-12","Beck",12
+"2008-12","Belle And Sebastian",1
+"2008-12","Björk",41
+"2008-12","Bloc Party",9
+"2008-12","Coldplay",10
+"2008-12","Elliott Smith",1
+"2008-12","Franz Ferdinand",1
+"2008-12","Husky Rescue",0
+"2008-12","Interpol",2
+"2008-12","Keane",9
+"2008-12","Ladytron",0
+"2008-12","Mew",1
+"2008-12","Patrick Wolf",5
+"2008-12","Röyksopp",1
+"2008-12","Scandinavian Music Group",4
+"2008-12","Sigur Rós",15
+"2008-12","Sufjan Stevens",13
+"2008-12","Yann Tiersen",5
+"2009-01","Air",8
+"2009-01","Arcade Fire",10
+"2009-01","Beck",8
+"2009-01","Belle And Sebastian",18
+"2009-01","Björk",105
+"2009-01","Bloc Party",15
+"2009-01","Coldplay",1
+"2009-01","Elliott Smith",6
+"2009-01","Franz Ferdinand",86
+"2009-01","Husky Rescue",1
+"2009-01","Interpol",43
+"2009-01","Keane",20
+"2009-01","Ladytron",1
+"2009-01","Mew",2
+"2009-01","Patrick Wolf",24
+"2009-01","Röyksopp",1
+"2009-01","Scandinavian Music Group",10
+"2009-01","Sigur Rós",17
+"2009-01","Sufjan Stevens",5
+"2009-01","Yann Tiersen",0
+"2009-02","Air",14
+"2009-02","Arcade Fire",36
+"2009-02","Beck",4
+"2009-02","Belle And Sebastian",0
+"2009-02","Björk",84
+"2009-02","Bloc Party",10
+"2009-02","Coldplay",3
+"2009-02","Elliott Smith",4
+"2009-02","Franz Ferdinand",16
+"2009-02","Husky Rescue",3
+"2009-02","Interpol",15
+"2009-02","Keane",8
+"2009-02","Ladytron",46
+"2009-02","Mew",3
+"2009-02","Patrick Wolf",8
+"2009-02","Röyksopp",1
+"2009-02","Scandinavian Music Group",15
+"2009-02","Sigur Rós",1
+"2009-02","Sufjan Stevens",0
+"2009-02","Yann Tiersen",13
+"2009-03","Air",0
+"2009-03","Arcade Fire",22
+"2009-03","Beck",4
+"2009-03","Belle And Sebastian",52
+"2009-03","Björk",31
+"2009-03","Bloc Party",1
+"2009-03","Coldplay",3
+"2009-03","Elliott Smith",0
+"2009-03","Franz Ferdinand",6
+"2009-03","Husky Rescue",3
+"2009-03","Interpol",0
+"2009-03","Keane",2
+"2009-03","Ladytron",8
+"2009-03","Mew",6
+"2009-03","Patrick Wolf",0
+"2009-03","Röyksopp",27
+"2009-03","Scandinavian Music Group",0
+"2009-03","Sigur Rós",19
+"2009-03","Sufjan Stevens",0
+"2009-03","Yann Tiersen",3
+"2009-04","Air",64
+"2009-04","Arcade Fire",30
+"2009-04","Beck",0
+"2009-04","Belle And Sebastian",2
+"2009-04","Björk",22
+"2009-04","Bloc Party",0
+"2009-04","Coldplay",2
+"2009-04","Elliott Smith",0
+"2009-04","Franz Ferdinand",1
+"2009-04","Husky Rescue",0
+"2009-04","Interpol",6
+"2009-04","Keane",2
+"2009-04","Ladytron",4
+"2009-04","Mew",0
+"2009-04","Patrick Wolf",21
+"2009-04","Röyksopp",10
+"2009-04","Scandinavian Music Group",12
+"2009-04","Sigur Rós",13
+"2009-04","Sufjan Stevens",0
+"2009-04","Yann Tiersen",1

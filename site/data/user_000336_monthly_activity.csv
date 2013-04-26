@@ -1,101 +1,101 @@
-month,artist,plays
-2006-06,Arcade Fire,2
-2006-06,Architecture In Helsinki,1
-2006-06,Azure Ray,2
-2006-06,Beck,3
-2006-06,Belle And Sebastian,2
-2006-06,Bright Eyes,5
-2006-06,Broken Social Scene,2
-2006-06,Cat Power,4
-2006-06,Desaparecidos,2
-2006-06,Feist,3
-2006-06,Le Tigre,2
-2006-06,Neutral Milk Hotel,5
-2006-06,Rilo Kiley,5
-2006-06,Stars,1
-2006-06,Sufjan Stevens,3
-2006-06,Tegan And Sara,4
-2006-06,The Good Life,1
-2006-06,The New Pornographers,2
-2006-06,Tilly And The Wall,1
-2006-06,Yeah Yeah Yeahs,4
-2006-07,Arcade Fire,0
-2006-07,Architecture In Helsinki,0
-2006-07,Azure Ray,0
-2006-07,Beck,0
-2006-07,Belle And Sebastian,0
-2006-07,Bright Eyes,0
-2006-07,Broken Social Scene,0
-2006-07,Cat Power,1
-2006-07,Desaparecidos,0
-2006-07,Feist,0
-2006-07,Le Tigre,0
-2006-07,Neutral Milk Hotel,0
-2006-07,Rilo Kiley,0
-2006-07,Stars,0
-2006-07,Sufjan Stevens,0
-2006-07,Tegan And Sara,0
-2006-07,The Good Life,0
-2006-07,The New Pornographers,0
-2006-07,Tilly And The Wall,1
-2006-07,Yeah Yeah Yeahs,0
-2006-08,Arcade Fire,3
-2006-08,Architecture In Helsinki,2
-2006-08,Azure Ray,2
-2006-08,Beck,1
-2006-08,Belle And Sebastian,2
-2006-08,Bright Eyes,1
-2006-08,Broken Social Scene,2
-2006-08,Cat Power,1
-2006-08,Desaparecidos,1
-2006-08,Feist,4
-2006-08,Le Tigre,3
-2006-08,Neutral Milk Hotel,1
-2006-08,Rilo Kiley,4
-2006-08,Stars,1
-2006-08,Sufjan Stevens,1
-2006-08,Tegan And Sara,3
-2006-08,The Good Life,1
-2006-08,The New Pornographers,2
-2006-08,Tilly And The Wall,2
-2006-08,Yeah Yeah Yeahs,2
-2006-09,Arcade Fire,0
-2006-09,Architecture In Helsinki,1
-2006-09,Azure Ray,0
-2006-09,Beck,0
-2006-09,Belle And Sebastian,0
-2006-09,Bright Eyes,0
-2006-09,Broken Social Scene,0
-2006-09,Cat Power,1
-2006-09,Desaparecidos,0
-2006-09,Feist,1
-2006-09,Le Tigre,2
-2006-09,Neutral Milk Hotel,1
-2006-09,Rilo Kiley,1
-2006-09,Stars,1
-2006-09,Sufjan Stevens,1
-2006-09,Tegan And Sara,1
-2006-09,The Good Life,0
-2006-09,The New Pornographers,2
-2006-09,Tilly And The Wall,2
-2006-09,Yeah Yeah Yeahs,1
-2006-10,Arcade Fire,0
-2006-10,Architecture In Helsinki,0
-2006-10,Azure Ray,0
-2006-10,Beck,0
-2006-10,Belle And Sebastian,0
-2006-10,Bright Eyes,1
-2006-10,Broken Social Scene,1
-2006-10,Cat Power,0
-2006-10,Desaparecidos,1
-2006-10,Feist,0
-2006-10,Le Tigre,0
-2006-10,Neutral Milk Hotel,0
-2006-10,Rilo Kiley,1
-2006-10,Stars,0
-2006-10,Sufjan Stevens,0
-2006-10,Tegan And Sara,0
-2006-10,The Good Life,1
-2006-10,The New Pornographers,0
-2006-10,Tilly And The Wall,1
-2006-10,Yeah Yeah Yeahs,0
+"month","artist","plays"
+"2006-06","Arcade Fire",2
+"2006-06","Architecture In Helsinki",1
+"2006-06","Azure Ray",2
+"2006-06","Beck",3
+"2006-06","Belle And Sebastian",2
+"2006-06","Bright Eyes",5
+"2006-06","Broken Social Scene",2
+"2006-06","Cat Power",4
+"2006-06","Desaparecidos",2
+"2006-06","Feist",3
+"2006-06","Le Tigre",2
+"2006-06","Neutral Milk Hotel",5
+"2006-06","Rilo Kiley",5
+"2006-06","Stars",1
+"2006-06","Sufjan Stevens",3
+"2006-06","Tegan And Sara",4
+"2006-06","The Good Life",1
+"2006-06","The New Pornographers",2
+"2006-06","Tilly And The Wall",1
+"2006-06","Yeah Yeah Yeahs",4
+"2006-07","Arcade Fire",0
+"2006-07","Architecture In Helsinki",0
+"2006-07","Azure Ray",0
+"2006-07","Beck",0
+"2006-07","Belle And Sebastian",0
+"2006-07","Bright Eyes",0
+"2006-07","Broken Social Scene",0
+"2006-07","Cat Power",1
+"2006-07","Desaparecidos",0
+"2006-07","Feist",0
+"2006-07","Le Tigre",0
+"2006-07","Neutral Milk Hotel",0
+"2006-07","Rilo Kiley",0
+"2006-07","Stars",0
+"2006-07","Sufjan Stevens",0
+"2006-07","Tegan And Sara",0
+"2006-07","The Good Life",0
+"2006-07","The New Pornographers",0
+"2006-07","Tilly And The Wall",1
+"2006-07","Yeah Yeah Yeahs",0
+"2006-08","Arcade Fire",3
+"2006-08","Architecture In Helsinki",2
+"2006-08","Azure Ray",2
+"2006-08","Beck",1
+"2006-08","Belle And Sebastian",2
+"2006-08","Bright Eyes",1
+"2006-08","Broken Social Scene",2
+"2006-08","Cat Power",1
+"2006-08","Desaparecidos",1
+"2006-08","Feist",4
+"2006-08","Le Tigre",3
+"2006-08","Neutral Milk Hotel",1
+"2006-08","Rilo Kiley",4
+"2006-08","Stars",1
+"2006-08","Sufjan Stevens",1
+"2006-08","Tegan And Sara",3
+"2006-08","The Good Life",1
+"2006-08","The New Pornographers",2
+"2006-08","Tilly And The Wall",2
+"2006-08","Yeah Yeah Yeahs",2
+"2006-09","Arcade Fire",0
+"2006-09","Architecture In Helsinki",1
+"2006-09","Azure Ray",0
+"2006-09","Beck",0
+"2006-09","Belle And Sebastian",0
+"2006-09","Bright Eyes",0
+"2006-09","Broken Social Scene",0
+"2006-09","Cat Power",1
+"2006-09","Desaparecidos",0
+"2006-09","Feist",1
+"2006-09","Le Tigre",2
+"2006-09","Neutral Milk Hotel",1
+"2006-09","Rilo Kiley",1
+"2006-09","Stars",1
+"2006-09","Sufjan Stevens",1
+"2006-09","Tegan And Sara",1
+"2006-09","The Good Life",0
+"2006-09","The New Pornographers",2
+"2006-09","Tilly And The Wall",2
+"2006-09","Yeah Yeah Yeahs",1
+"2006-10","Arcade Fire",0
+"2006-10","Architecture In Helsinki",0
+"2006-10","Azure Ray",0
+"2006-10","Beck",0
+"2006-10","Belle And Sebastian",0
+"2006-10","Bright Eyes",1
+"2006-10","Broken Social Scene",1
+"2006-10","Cat Power",0
+"2006-10","Desaparecidos",1
+"2006-10","Feist",0
+"2006-10","Le Tigre",0
+"2006-10","Neutral Milk Hotel",0
+"2006-10","Rilo Kiley",1
+"2006-10","Stars",0
+"2006-10","Sufjan Stevens",0
+"2006-10","Tegan And Sara",0
+"2006-10","The Good Life",1
+"2006-10","The New Pornographers",0
+"2006-10","Tilly And The Wall",1
+"2006-10","Yeah Yeah Yeahs",0

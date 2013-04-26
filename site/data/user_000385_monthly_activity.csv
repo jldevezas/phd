@@ -1,121 +1,121 @@
-month,artist,plays
-2008-11,Air France,0
-2008-11,Arcade Fire,0
-2008-11,Archie Bronson Outfit,0
-2008-11,Beirut,20
-2008-11,Blank Dogs,5
-2008-11,Blood Red Shoes,4
-2008-11,Bombay Bicycle Club,0
-2008-11,Bon Iver,0
-2008-11,Chad Vangaalen,0
-2008-11,Cinemechanica,5
-2008-11,Crystal Stilts,0
-2008-11,Cut City,7
-2008-11,Fleet Foxes,0
-2008-11,Foals,6
-2008-11,Interpol,0
-2008-11,John Maus,31
-2008-11,Secret Knives,0
-2008-11,Sybris,3
-2008-11,The Radio Dept.,74
-2008-11,The Whip,0
-2008-12,Air France,28
-2008-12,Arcade Fire,5
-2008-12,Archie Bronson Outfit,10
-2008-12,Beirut,1
-2008-12,Blank Dogs,4
-2008-12,Blood Red Shoes,0
-2008-12,Bombay Bicycle Club,10
-2008-12,Bon Iver,8
-2008-12,Chad Vangaalen,14
-2008-12,Cinemechanica,1
-2008-12,Crystal Stilts,9
-2008-12,Cut City,3
-2008-12,Fleet Foxes,0
-2008-12,Foals,14
-2008-12,Interpol,8
-2008-12,John Maus,4
-2008-12,Secret Knives,5
-2008-12,Sybris,2
-2008-12,The Radio Dept.,40
-2008-12,The Whip,2
-2009-01,Air France,0
-2009-01,Arcade Fire,3
-2009-01,Archie Bronson Outfit,2
-2009-01,Beirut,8
-2009-01,Blank Dogs,6
-2009-01,Blood Red Shoes,1
-2009-01,Bombay Bicycle Club,0
-2009-01,Bon Iver,13
-2009-01,Chad Vangaalen,41
-2009-01,Cinemechanica,4
-2009-01,Crystal Stilts,10
-2009-01,Cut City,1
-2009-01,Fleet Foxes,9
-2009-01,Foals,15
-2009-01,Interpol,54
-2009-01,John Maus,5
-2009-01,Secret Knives,6
-2009-01,Sybris,13
-2009-01,The Radio Dept.,1
-2009-01,The Whip,8
-2009-02,Air France,2
-2009-02,Arcade Fire,5
-2009-02,Archie Bronson Outfit,3
-2009-02,Beirut,40
-2009-02,Blank Dogs,0
-2009-02,Blood Red Shoes,37
-2009-02,Bombay Bicycle Club,3
-2009-02,Bon Iver,4
-2009-02,Chad Vangaalen,8
-2009-02,Cinemechanica,0
-2009-02,Crystal Stilts,2
-2009-02,Cut City,19
-2009-02,Fleet Foxes,18
-2009-02,Foals,7
-2009-02,Interpol,21
-2009-02,John Maus,1
-2009-02,Secret Knives,2
-2009-02,Sybris,1
-2009-02,The Radio Dept.,11
-2009-02,The Whip,2
-2009-03,Air France,1
-2009-03,Arcade Fire,1
-2009-03,Archie Bronson Outfit,0
-2009-03,Beirut,0
-2009-03,Blank Dogs,0
-2009-03,Blood Red Shoes,9
-2009-03,Bombay Bicycle Club,61
-2009-03,Bon Iver,5
-2009-03,Chad Vangaalen,14
-2009-03,Cinemechanica,15
-2009-03,Crystal Stilts,6
-2009-03,Cut City,0
-2009-03,Fleet Foxes,7
-2009-03,Foals,29
-2009-03,Interpol,23
-2009-03,John Maus,13
-2009-03,Secret Knives,5
-2009-03,Sybris,2
-2009-03,The Radio Dept.,2
-2009-03,The Whip,1
-2009-04,Air France,3
-2009-04,Arcade Fire,7
-2009-04,Archie Bronson Outfit,10
-2009-04,Beirut,62
-2009-04,Blank Dogs,23
-2009-04,Blood Red Shoes,0
-2009-04,Bombay Bicycle Club,26
-2009-04,Bon Iver,4
-2009-04,Chad Vangaalen,7
-2009-04,Cinemechanica,0
-2009-04,Crystal Stilts,0
-2009-04,Cut City,0
-2009-04,Fleet Foxes,3
-2009-04,Foals,0
-2009-04,Interpol,2
-2009-04,John Maus,0
-2009-04,Secret Knives,7
-2009-04,Sybris,0
-2009-04,The Radio Dept.,0
-2009-04,The Whip,8
+"month","artist","plays"
+"2008-11","Air France",0
+"2008-11","Arcade Fire",0
+"2008-11","Archie Bronson Outfit",0
+"2008-11","Beirut",20
+"2008-11","Blank Dogs",5
+"2008-11","Blood Red Shoes",4
+"2008-11","Bombay Bicycle Club",0
+"2008-11","Bon Iver",0
+"2008-11","Chad Vangaalen",0
+"2008-11","Cinemechanica",5
+"2008-11","Crystal Stilts",0
+"2008-11","Cut City",7
+"2008-11","Fleet Foxes",0
+"2008-11","Foals",6
+"2008-11","Interpol",0
+"2008-11","John Maus",31
+"2008-11","Secret Knives",0
+"2008-11","Sybris",3
+"2008-11","The Radio Dept.",74
+"2008-11","The Whip",0
+"2008-12","Air France",28
+"2008-12","Arcade Fire",5
+"2008-12","Archie Bronson Outfit",10
+"2008-12","Beirut",1
+"2008-12","Blank Dogs",4
+"2008-12","Blood Red Shoes",0
+"2008-12","Bombay Bicycle Club",10
+"2008-12","Bon Iver",8
+"2008-12","Chad Vangaalen",14
+"2008-12","Cinemechanica",1
+"2008-12","Crystal Stilts",9
+"2008-12","Cut City",3
+"2008-12","Fleet Foxes",0
+"2008-12","Foals",14
+"2008-12","Interpol",8
+"2008-12","John Maus",4
+"2008-12","Secret Knives",5
+"2008-12","Sybris",2
+"2008-12","The Radio Dept.",40
+"2008-12","The Whip",2
+"2009-01","Air France",0
+"2009-01","Arcade Fire",3
+"2009-01","Archie Bronson Outfit",2
+"2009-01","Beirut",8
+"2009-01","Blank Dogs",6
+"2009-01","Blood Red Shoes",1
+"2009-01","Bombay Bicycle Club",0
+"2009-01","Bon Iver",13
+"2009-01","Chad Vangaalen",41
+"2009-01","Cinemechanica",4
+"2009-01","Crystal Stilts",10
+"2009-01","Cut City",1
+"2009-01","Fleet Foxes",9
+"2009-01","Foals",15
+"2009-01","Interpol",54
+"2009-01","John Maus",5
+"2009-01","Secret Knives",6
+"2009-01","Sybris",13
+"2009-01","The Radio Dept.",1
+"2009-01","The Whip",8
+"2009-02","Air France",2
+"2009-02","Arcade Fire",5
+"2009-02","Archie Bronson Outfit",3
+"2009-02","Beirut",40
+"2009-02","Blank Dogs",0
+"2009-02","Blood Red Shoes",37
+"2009-02","Bombay Bicycle Club",3
+"2009-02","Bon Iver",4
+"2009-02","Chad Vangaalen",8
+"2009-02","Cinemechanica",0
+"2009-02","Crystal Stilts",2
+"2009-02","Cut City",19
+"2009-02","Fleet Foxes",18
+"2009-02","Foals",7
+"2009-02","Interpol",21
+"2009-02","John Maus",1
+"2009-02","Secret Knives",2
+"2009-02","Sybris",1
+"2009-02","The Radio Dept.",11
+"2009-02","The Whip",2
+"2009-03","Air France",1
+"2009-03","Arcade Fire",1
+"2009-03","Archie Bronson Outfit",0
+"2009-03","Beirut",0
+"2009-03","Blank Dogs",0
+"2009-03","Blood Red Shoes",9
+"2009-03","Bombay Bicycle Club",61
+"2009-03","Bon Iver",5
+"2009-03","Chad Vangaalen",14
+"2009-03","Cinemechanica",15
+"2009-03","Crystal Stilts",6
+"2009-03","Cut City",0
+"2009-03","Fleet Foxes",7
+"2009-03","Foals",29
+"2009-03","Interpol",23
+"2009-03","John Maus",13
+"2009-03","Secret Knives",5
+"2009-03","Sybris",2
+"2009-03","The Radio Dept.",2
+"2009-03","The Whip",1
+"2009-04","Air France",3
+"2009-04","Arcade Fire",7
+"2009-04","Archie Bronson Outfit",10
+"2009-04","Beirut",62
+"2009-04","Blank Dogs",23
+"2009-04","Blood Red Shoes",0
+"2009-04","Bombay Bicycle Club",26
+"2009-04","Bon Iver",4
+"2009-04","Chad Vangaalen",7
+"2009-04","Cinemechanica",0
+"2009-04","Crystal Stilts",0
+"2009-04","Cut City",0
+"2009-04","Fleet Foxes",3
+"2009-04","Foals",0
+"2009-04","Interpol",2
+"2009-04","John Maus",0
+"2009-04","Secret Knives",7
+"2009-04","Sybris",0
+"2009-04","The Radio Dept.",0
+"2009-04","The Whip",8

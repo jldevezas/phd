@@ -1,61 +1,61 @@
-month,artist,plays
-2009-03,+44,1
-2009-03,Air Traffic,1
-2009-03,Alien Ant Farm,11
-2009-03,Alphabeat,1
-2009-03,Anti-Flag,1
-2009-03,Bad Religion,1
-2009-03,Big D And The Kids Table,1
-2009-03,Blink-182,1
-2009-03,Blue Öyster Cult,8
-2009-03,Death Cab For Cutie,1
-2009-03,Good Charlotte,1
-2009-03,Ignite,1
-2009-03,Jack Johnson,56
-2009-03,Paramore,1
-2009-03,R.E.M.,1
-2009-03,Red Hot Chili Peppers,1
-2009-03,Rise Against,0
-2009-03,Shiny Toy Guns,1
-2009-03,Silverene,1
-2009-03,The Acro-Brats,1
-2009-04,+44,1
-2009-04,Air Traffic,1
-2009-04,Alien Ant Farm,2
-2009-04,Alphabeat,3
-2009-04,Anti-Flag,2
-2009-04,Bad Religion,7
-2009-04,Big D And The Kids Table,1
-2009-04,Blink-182,2
-2009-04,Blue Öyster Cult,9
-2009-04,Death Cab For Cutie,4
-2009-04,Good Charlotte,2
-2009-04,Ignite,1
-2009-04,Jack Johnson,201
-2009-04,Paramore,2
-2009-04,R.E.M.,1
-2009-04,Red Hot Chili Peppers,2
-2009-04,Rise Against,9
-2009-04,Shiny Toy Guns,1
-2009-04,Silverene,3
-2009-04,The Acro-Brats,1
-2009-05,+44,0
-2009-05,Air Traffic,0
-2009-05,Alien Ant Farm,0
-2009-05,Alphabeat,0
-2009-05,Anti-Flag,0
-2009-05,Bad Religion,0
-2009-05,Big D And The Kids Table,0
-2009-05,Blink-182,0
-2009-05,Blue Öyster Cult,0
-2009-05,Death Cab For Cutie,0
-2009-05,Good Charlotte,0
-2009-05,Ignite,0
-2009-05,Jack Johnson,0
-2009-05,Paramore,0
-2009-05,R.E.M.,0
-2009-05,Red Hot Chili Peppers,0
-2009-05,Rise Against,4
-2009-05,Shiny Toy Guns,0
-2009-05,Silverene,0
-2009-05,The Acro-Brats,0
+"month","artist","plays"
+"2009-03","+44",1
+"2009-03","Air Traffic",1
+"2009-03","Alien Ant Farm",11
+"2009-03","Alphabeat",1
+"2009-03","Anti-Flag",1
+"2009-03","Bad Religion",1
+"2009-03","Big D And The Kids Table",1
+"2009-03","Blink-182",1
+"2009-03","Blue Öyster Cult",8
+"2009-03","Death Cab For Cutie",1
+"2009-03","Good Charlotte",1
+"2009-03","Ignite",1
+"2009-03","Jack Johnson",56
+"2009-03","Paramore",1
+"2009-03","R.E.M.",1
+"2009-03","Red Hot Chili Peppers",1
+"2009-03","Rise Against",0
+"2009-03","Shiny Toy Guns",1
+"2009-03","Silverene",1
+"2009-03","The Acro-Brats",1
+"2009-04","+44",1
+"2009-04","Air Traffic",1
+"2009-04","Alien Ant Farm",2
+"2009-04","Alphabeat",3
+"2009-04","Anti-Flag",2
+"2009-04","Bad Religion",7
+"2009-04","Big D And The Kids Table",1
+"2009-04","Blink-182",2
+"2009-04","Blue Öyster Cult",9
+"2009-04","Death Cab For Cutie",4
+"2009-04","Good Charlotte",2
+"2009-04","Ignite",1
+"2009-04","Jack Johnson",201
+"2009-04","Paramore",2
+"2009-04","R.E.M.",1
+"2009-04","Red Hot Chili Peppers",2
+"2009-04","Rise Against",9
+"2009-04","Shiny Toy Guns",1
+"2009-04","Silverene",3
+"2009-04","The Acro-Brats",1
+"2009-05","+44",0
+"2009-05","Air Traffic",0
+"2009-05","Alien Ant Farm",0
+"2009-05","Alphabeat",0
+"2009-05","Anti-Flag",0
+"2009-05","Bad Religion",0
+"2009-05","Big D And The Kids Table",0
+"2009-05","Blink-182",0
+"2009-05","Blue Öyster Cult",0
+"2009-05","Death Cab For Cutie",0
+"2009-05","Good Charlotte",0
+"2009-05","Ignite",0
+"2009-05","Jack Johnson",0
+"2009-05","Paramore",0
+"2009-05","R.E.M.",0
+"2009-05","Red Hot Chili Peppers",0
+"2009-05","Rise Against",4
+"2009-05","Shiny Toy Guns",0
+"2009-05","Silverene",0
+"2009-05","The Acro-Brats",0

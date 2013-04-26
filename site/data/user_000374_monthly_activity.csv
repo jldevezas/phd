@@ -1,761 +1,761 @@
-month,artist,plays
-2006-03,Antony And The Johnsons,24
-2006-03,Arcade Fire,6
-2006-03,Architecture In Helsinki,5
-2006-03,Bloc Party,8
-2006-03,Broken Social Scene,9
-2006-03,Dengue Fever,0
-2006-03,Dolly Parton,0
-2006-03,Elliott Smith,7
-2006-03,Gogol Bordello,0
-2006-03,Interpol,7
-2006-03,Jenny Wilson,0
-2006-03,Kaiser Chiefs,2
-2006-03,Modest Mouse,11
-2006-03,Of Montreal,8
-2006-03,Sufjan Stevens,8
-2006-03,The Dears,11
-2006-03,The Flaming Lips,6
-2006-03,The Knife,0
-2006-03,The Shins,13
-2006-03,Yeah Yeah Yeahs,5
-2006-04,Antony And The Johnsons,4
-2006-04,Arcade Fire,10
-2006-04,Architecture In Helsinki,1
-2006-04,Bloc Party,4
-2006-04,Broken Social Scene,7
-2006-04,Dengue Fever,0
-2006-04,Dolly Parton,0
-2006-04,Elliott Smith,2
-2006-04,Gogol Bordello,0
-2006-04,Interpol,4
-2006-04,Jenny Wilson,0
-2006-04,Kaiser Chiefs,9
-2006-04,Modest Mouse,1
-2006-04,Of Montreal,15
-2006-04,Sufjan Stevens,5
-2006-04,The Dears,2
-2006-04,The Flaming Lips,12
-2006-04,The Knife,0
-2006-04,The Shins,5
-2006-04,Yeah Yeah Yeahs,5
-2006-05,Antony And The Johnsons,2
-2006-05,Arcade Fire,11
-2006-05,Architecture In Helsinki,0
-2006-05,Bloc Party,0
-2006-05,Broken Social Scene,0
-2006-05,Dengue Fever,0
-2006-05,Dolly Parton,0
-2006-05,Elliott Smith,0
-2006-05,Gogol Bordello,0
-2006-05,Interpol,1
-2006-05,Jenny Wilson,0
-2006-05,Kaiser Chiefs,23
-2006-05,Modest Mouse,0
-2006-05,Of Montreal,5
-2006-05,Sufjan Stevens,0
-2006-05,The Dears,0
-2006-05,The Flaming Lips,20
-2006-05,The Knife,0
-2006-05,The Shins,17
-2006-05,Yeah Yeah Yeahs,1
-2006-06,Antony And The Johnsons,2
-2006-06,Arcade Fire,12
-2006-06,Architecture In Helsinki,1
-2006-06,Bloc Party,0
-2006-06,Broken Social Scene,3
-2006-06,Dengue Fever,1
-2006-06,Dolly Parton,2
-2006-06,Elliott Smith,8
-2006-06,Gogol Bordello,0
-2006-06,Interpol,0
-2006-06,Jenny Wilson,0
-2006-06,Kaiser Chiefs,15
-2006-06,Modest Mouse,3
-2006-06,Of Montreal,4
-2006-06,Sufjan Stevens,0
-2006-06,The Dears,4
-2006-06,The Flaming Lips,5
-2006-06,The Knife,0
-2006-06,The Shins,15
-2006-06,Yeah Yeah Yeahs,0
-2006-07,Antony And The Johnsons,0
-2006-07,Arcade Fire,1
-2006-07,Architecture In Helsinki,1
-2006-07,Bloc Party,0
-2006-07,Broken Social Scene,1
-2006-07,Dengue Fever,0
-2006-07,Dolly Parton,0
-2006-07,Elliott Smith,1
-2006-07,Gogol Bordello,104
-2006-07,Interpol,0
-2006-07,Jenny Wilson,0
-2006-07,Kaiser Chiefs,1
-2006-07,Modest Mouse,0
-2006-07,Of Montreal,6
-2006-07,Sufjan Stevens,1
-2006-07,The Dears,10
-2006-07,The Flaming Lips,0
-2006-07,The Knife,1
-2006-07,The Shins,0
-2006-07,Yeah Yeah Yeahs,0
-2006-08,Antony And The Johnsons,0
-2006-08,Arcade Fire,0
-2006-08,Architecture In Helsinki,0
-2006-08,Bloc Party,0
-2006-08,Broken Social Scene,0
-2006-08,Dengue Fever,0
-2006-08,Dolly Parton,0
-2006-08,Elliott Smith,0
-2006-08,Gogol Bordello,3
-2006-08,Interpol,0
-2006-08,Jenny Wilson,0
-2006-08,Kaiser Chiefs,0
-2006-08,Modest Mouse,0
-2006-08,Of Montreal,0
-2006-08,Sufjan Stevens,0
-2006-08,The Dears,0
-2006-08,The Flaming Lips,0
-2006-08,The Knife,0
-2006-08,The Shins,0
-2006-08,Yeah Yeah Yeahs,0
-2006-09,Antony And The Johnsons,1
-2006-09,Arcade Fire,3
-2006-09,Architecture In Helsinki,0
-2006-09,Bloc Party,2
-2006-09,Broken Social Scene,2
-2006-09,Dengue Fever,0
-2006-09,Dolly Parton,1
-2006-09,Elliott Smith,0
-2006-09,Gogol Bordello,13
-2006-09,Interpol,2
-2006-09,Jenny Wilson,0
-2006-09,Kaiser Chiefs,0
-2006-09,Modest Mouse,1
-2006-09,Of Montreal,0
-2006-09,Sufjan Stevens,0
-2006-09,The Dears,3
-2006-09,The Flaming Lips,0
-2006-09,The Knife,0
-2006-09,The Shins,0
-2006-09,Yeah Yeah Yeahs,2
-2006-10,Antony And The Johnsons,1
-2006-10,Arcade Fire,2
-2006-10,Architecture In Helsinki,0
-2006-10,Bloc Party,0
-2006-10,Broken Social Scene,0
-2006-10,Dengue Fever,0
-2006-10,Dolly Parton,1
-2006-10,Elliott Smith,0
-2006-10,Gogol Bordello,17
-2006-10,Interpol,0
-2006-10,Jenny Wilson,0
-2006-10,Kaiser Chiefs,8
-2006-10,Modest Mouse,0
-2006-10,Of Montreal,1
-2006-10,Sufjan Stevens,0
-2006-10,The Dears,0
-2006-10,The Flaming Lips,5
-2006-10,The Knife,0
-2006-10,The Shins,0
-2006-10,Yeah Yeah Yeahs,0
-2006-11,Antony And The Johnsons,0
-2006-11,Arcade Fire,1
-2006-11,Architecture In Helsinki,0
-2006-11,Bloc Party,0
-2006-11,Broken Social Scene,0
-2006-11,Dengue Fever,0
-2006-11,Dolly Parton,0
-2006-11,Elliott Smith,0
-2006-11,Gogol Bordello,4
-2006-11,Interpol,0
-2006-11,Jenny Wilson,0
-2006-11,Kaiser Chiefs,4
-2006-11,Modest Mouse,0
-2006-11,Of Montreal,0
-2006-11,Sufjan Stevens,0
-2006-11,The Dears,0
-2006-11,The Flaming Lips,2
-2006-11,The Knife,0
-2006-11,The Shins,0
-2006-11,Yeah Yeah Yeahs,0
-2006-12,Antony And The Johnsons,0
-2006-12,Arcade Fire,0
-2006-12,Architecture In Helsinki,0
-2006-12,Bloc Party,0
-2006-12,Broken Social Scene,0
-2006-12,Dengue Fever,0
-2006-12,Dolly Parton,0
-2006-12,Elliott Smith,0
-2006-12,Gogol Bordello,4
-2006-12,Interpol,0
-2006-12,Jenny Wilson,0
-2006-12,Kaiser Chiefs,23
-2006-12,Modest Mouse,0
-2006-12,Of Montreal,0
-2006-12,Sufjan Stevens,0
-2006-12,The Dears,0
-2006-12,The Flaming Lips,0
-2006-12,The Knife,0
-2006-12,The Shins,0
-2006-12,Yeah Yeah Yeahs,0
-2007-01,Antony And The Johnsons,0
-2007-01,Arcade Fire,18
-2007-01,Architecture In Helsinki,0
-2007-01,Bloc Party,4
-2007-01,Broken Social Scene,0
-2007-01,Dengue Fever,12
-2007-01,Dolly Parton,1
-2007-01,Elliott Smith,1
-2007-01,Gogol Bordello,0
-2007-01,Interpol,1
-2007-01,Jenny Wilson,0
-2007-01,Kaiser Chiefs,3
-2007-01,Modest Mouse,0
-2007-01,Of Montreal,15
-2007-01,Sufjan Stevens,11
-2007-01,The Dears,1
-2007-01,The Flaming Lips,1
-2007-01,The Knife,1
-2007-01,The Shins,1
-2007-01,Yeah Yeah Yeahs,1
-2007-02,Antony And The Johnsons,0
-2007-02,Arcade Fire,9
-2007-02,Architecture In Helsinki,1
-2007-02,Bloc Party,2
-2007-02,Broken Social Scene,1
-2007-02,Dengue Fever,0
-2007-02,Dolly Parton,0
-2007-02,Elliott Smith,0
-2007-02,Gogol Bordello,0
-2007-02,Interpol,1
-2007-02,Jenny Wilson,0
-2007-02,Kaiser Chiefs,1
-2007-02,Modest Mouse,12
-2007-02,Of Montreal,1
-2007-02,Sufjan Stevens,1
-2007-02,The Dears,0
-2007-02,The Flaming Lips,0
-2007-02,The Knife,0
-2007-02,The Shins,5
-2007-02,Yeah Yeah Yeahs,1
-2007-03,Antony And The Johnsons,0
-2007-03,Arcade Fire,18
-2007-03,Architecture In Helsinki,0
-2007-03,Bloc Party,1
-2007-03,Broken Social Scene,0
-2007-03,Dengue Fever,0
-2007-03,Dolly Parton,0
-2007-03,Elliott Smith,0
-2007-03,Gogol Bordello,0
-2007-03,Interpol,0
-2007-03,Jenny Wilson,0
-2007-03,Kaiser Chiefs,3
-2007-03,Modest Mouse,0
-2007-03,Of Montreal,0
-2007-03,Sufjan Stevens,0
-2007-03,The Dears,0
-2007-03,The Flaming Lips,0
-2007-03,The Knife,0
-2007-03,The Shins,0
-2007-03,Yeah Yeah Yeahs,0
-2007-04,Antony And The Johnsons,0
-2007-04,Arcade Fire,0
-2007-04,Architecture In Helsinki,0
-2007-04,Bloc Party,0
-2007-04,Broken Social Scene,0
-2007-04,Dengue Fever,0
-2007-04,Dolly Parton,1
-2007-04,Elliott Smith,0
-2007-04,Gogol Bordello,0
-2007-04,Interpol,0
-2007-04,Jenny Wilson,0
-2007-04,Kaiser Chiefs,20
-2007-04,Modest Mouse,0
-2007-04,Of Montreal,1
-2007-04,Sufjan Stevens,0
-2007-04,The Dears,0
-2007-04,The Flaming Lips,0
-2007-04,The Knife,18
-2007-04,The Shins,0
-2007-04,Yeah Yeah Yeahs,0
-2007-05,Antony And The Johnsons,0
-2007-05,Arcade Fire,0
-2007-05,Architecture In Helsinki,0
-2007-05,Bloc Party,0
-2007-05,Broken Social Scene,0
-2007-05,Dengue Fever,0
-2007-05,Dolly Parton,0
-2007-05,Elliott Smith,4
-2007-05,Gogol Bordello,0
-2007-05,Interpol,0
-2007-05,Jenny Wilson,0
-2007-05,Kaiser Chiefs,1
-2007-05,Modest Mouse,0
-2007-05,Of Montreal,0
-2007-05,Sufjan Stevens,0
-2007-05,The Dears,0
-2007-05,The Flaming Lips,1
-2007-05,The Knife,0
-2007-05,The Shins,0
-2007-05,Yeah Yeah Yeahs,0
-2007-06,Antony And The Johnsons,0
-2007-06,Arcade Fire,1
-2007-06,Architecture In Helsinki,0
-2007-06,Bloc Party,0
-2007-06,Broken Social Scene,0
-2007-06,Dengue Fever,0
-2007-06,Dolly Parton,0
-2007-06,Elliott Smith,1
-2007-06,Gogol Bordello,0
-2007-06,Interpol,0
-2007-06,Jenny Wilson,0
-2007-06,Kaiser Chiefs,0
-2007-06,Modest Mouse,0
-2007-06,Of Montreal,1
-2007-06,Sufjan Stevens,0
-2007-06,The Dears,0
-2007-06,The Flaming Lips,0
-2007-06,The Knife,0
-2007-06,The Shins,0
-2007-06,Yeah Yeah Yeahs,0
-2007-07,Antony And The Johnsons,0
-2007-07,Arcade Fire,0
-2007-07,Architecture In Helsinki,0
-2007-07,Bloc Party,0
-2007-07,Broken Social Scene,0
-2007-07,Dengue Fever,1
-2007-07,Dolly Parton,0
-2007-07,Elliott Smith,0
-2007-07,Gogol Bordello,0
-2007-07,Interpol,0
-2007-07,Jenny Wilson,0
-2007-07,Kaiser Chiefs,31
-2007-07,Modest Mouse,0
-2007-07,Of Montreal,0
-2007-07,Sufjan Stevens,0
-2007-07,The Dears,0
-2007-07,The Flaming Lips,0
-2007-07,The Knife,0
-2007-07,The Shins,0
-2007-07,Yeah Yeah Yeahs,0
-2007-08,Antony And The Johnsons,0
-2007-08,Arcade Fire,0
-2007-08,Architecture In Helsinki,0
-2007-08,Bloc Party,0
-2007-08,Broken Social Scene,0
-2007-08,Dengue Fever,0
-2007-08,Dolly Parton,0
-2007-08,Elliott Smith,0
-2007-08,Gogol Bordello,0
-2007-08,Interpol,0
-2007-08,Jenny Wilson,0
-2007-08,Kaiser Chiefs,3
-2007-08,Modest Mouse,0
-2007-08,Of Montreal,3
-2007-08,Sufjan Stevens,0
-2007-08,The Dears,0
-2007-08,The Flaming Lips,0
-2007-08,The Knife,2
-2007-08,The Shins,1
-2007-08,Yeah Yeah Yeahs,0
-2007-09,Antony And The Johnsons,0
-2007-09,Arcade Fire,0
-2007-09,Architecture In Helsinki,0
-2007-09,Bloc Party,0
-2007-09,Broken Social Scene,0
-2007-09,Dengue Fever,0
-2007-09,Dolly Parton,0
-2007-09,Elliott Smith,0
-2007-09,Gogol Bordello,0
-2007-09,Interpol,0
-2007-09,Jenny Wilson,0
-2007-09,Kaiser Chiefs,0
-2007-09,Modest Mouse,0
-2007-09,Of Montreal,0
-2007-09,Sufjan Stevens,0
-2007-09,The Dears,0
-2007-09,The Flaming Lips,0
-2007-09,The Knife,0
-2007-09,The Shins,0
-2007-09,Yeah Yeah Yeahs,0
-2007-10,Antony And The Johnsons,1
-2007-10,Arcade Fire,1
-2007-10,Architecture In Helsinki,0
-2007-10,Bloc Party,0
-2007-10,Broken Social Scene,5
-2007-10,Dengue Fever,1
-2007-10,Dolly Parton,1
-2007-10,Elliott Smith,2
-2007-10,Gogol Bordello,2
-2007-10,Interpol,3
-2007-10,Jenny Wilson,1
-2007-10,Kaiser Chiefs,13
-2007-10,Modest Mouse,2
-2007-10,Of Montreal,5
-2007-10,Sufjan Stevens,0
-2007-10,The Dears,0
-2007-10,The Flaming Lips,1
-2007-10,The Knife,1
-2007-10,The Shins,2
-2007-10,Yeah Yeah Yeahs,1
-2007-11,Antony And The Johnsons,0
-2007-11,Arcade Fire,5
-2007-11,Architecture In Helsinki,0
-2007-11,Bloc Party,2
-2007-11,Broken Social Scene,10
-2007-11,Dengue Fever,0
-2007-11,Dolly Parton,0
-2007-11,Elliott Smith,0
-2007-11,Gogol Bordello,0
-2007-11,Interpol,0
-2007-11,Jenny Wilson,0
-2007-11,Kaiser Chiefs,0
-2007-11,Modest Mouse,0
-2007-11,Of Montreal,7
-2007-11,Sufjan Stevens,0
-2007-11,The Dears,21
-2007-11,The Flaming Lips,0
-2007-11,The Knife,0
-2007-11,The Shins,7
-2007-11,Yeah Yeah Yeahs,0
-2007-12,Antony And The Johnsons,0
-2007-12,Arcade Fire,0
-2007-12,Architecture In Helsinki,0
-2007-12,Bloc Party,0
-2007-12,Broken Social Scene,0
-2007-12,Dengue Fever,0
-2007-12,Dolly Parton,0
-2007-12,Elliott Smith,0
-2007-12,Gogol Bordello,0
-2007-12,Interpol,0
-2007-12,Jenny Wilson,0
-2007-12,Kaiser Chiefs,0
-2007-12,Modest Mouse,0
-2007-12,Of Montreal,0
-2007-12,Sufjan Stevens,0
-2007-12,The Dears,0
-2007-12,The Flaming Lips,0
-2007-12,The Knife,0
-2007-12,The Shins,0
-2007-12,Yeah Yeah Yeahs,0
-2008-01,Antony And The Johnsons,0
-2008-01,Arcade Fire,0
-2008-01,Architecture In Helsinki,0
-2008-01,Bloc Party,0
-2008-01,Broken Social Scene,0
-2008-01,Dengue Fever,0
-2008-01,Dolly Parton,0
-2008-01,Elliott Smith,0
-2008-01,Gogol Bordello,0
-2008-01,Interpol,0
-2008-01,Jenny Wilson,0
-2008-01,Kaiser Chiefs,0
-2008-01,Modest Mouse,0
-2008-01,Of Montreal,0
-2008-01,Sufjan Stevens,0
-2008-01,The Dears,0
-2008-01,The Flaming Lips,0
-2008-01,The Knife,0
-2008-01,The Shins,0
-2008-01,Yeah Yeah Yeahs,0
-2008-02,Antony And The Johnsons,0
-2008-02,Arcade Fire,0
-2008-02,Architecture In Helsinki,0
-2008-02,Bloc Party,0
-2008-02,Broken Social Scene,0
-2008-02,Dengue Fever,0
-2008-02,Dolly Parton,0
-2008-02,Elliott Smith,0
-2008-02,Gogol Bordello,0
-2008-02,Interpol,0
-2008-02,Jenny Wilson,0
-2008-02,Kaiser Chiefs,0
-2008-02,Modest Mouse,0
-2008-02,Of Montreal,0
-2008-02,Sufjan Stevens,0
-2008-02,The Dears,0
-2008-02,The Flaming Lips,0
-2008-02,The Knife,0
-2008-02,The Shins,0
-2008-02,Yeah Yeah Yeahs,0
-2008-03,Antony And The Johnsons,0
-2008-03,Arcade Fire,0
-2008-03,Architecture In Helsinki,2
-2008-03,Bloc Party,3
-2008-03,Broken Social Scene,3
-2008-03,Dengue Fever,1
-2008-03,Dolly Parton,0
-2008-03,Elliott Smith,0
-2008-03,Gogol Bordello,1
-2008-03,Interpol,0
-2008-03,Jenny Wilson,1
-2008-03,Kaiser Chiefs,0
-2008-03,Modest Mouse,2
-2008-03,Of Montreal,3
-2008-03,Sufjan Stevens,1
-2008-03,The Dears,1
-2008-03,The Flaming Lips,2
-2008-03,The Knife,1
-2008-03,The Shins,4
-2008-03,Yeah Yeah Yeahs,1
-2008-04,Antony And The Johnsons,0
-2008-04,Arcade Fire,0
-2008-04,Architecture In Helsinki,0
-2008-04,Bloc Party,0
-2008-04,Broken Social Scene,0
-2008-04,Dengue Fever,0
-2008-04,Dolly Parton,0
-2008-04,Elliott Smith,0
-2008-04,Gogol Bordello,0
-2008-04,Interpol,0
-2008-04,Jenny Wilson,17
-2008-04,Kaiser Chiefs,0
-2008-04,Modest Mouse,0
-2008-04,Of Montreal,0
-2008-04,Sufjan Stevens,0
-2008-04,The Dears,0
-2008-04,The Flaming Lips,0
-2008-04,The Knife,0
-2008-04,The Shins,0
-2008-04,Yeah Yeah Yeahs,0
-2008-05,Antony And The Johnsons,0
-2008-05,Arcade Fire,0
-2008-05,Architecture In Helsinki,0
-2008-05,Bloc Party,1
-2008-05,Broken Social Scene,0
-2008-05,Dengue Fever,2
-2008-05,Dolly Parton,0
-2008-05,Elliott Smith,0
-2008-05,Gogol Bordello,0
-2008-05,Interpol,0
-2008-05,Jenny Wilson,0
-2008-05,Kaiser Chiefs,0
-2008-05,Modest Mouse,0
-2008-05,Of Montreal,0
-2008-05,Sufjan Stevens,0
-2008-05,The Dears,0
-2008-05,The Flaming Lips,0
-2008-05,The Knife,0
-2008-05,The Shins,0
-2008-05,Yeah Yeah Yeahs,0
-2008-06,Antony And The Johnsons,0
-2008-06,Arcade Fire,0
-2008-06,Architecture In Helsinki,1
-2008-06,Bloc Party,0
-2008-06,Broken Social Scene,0
-2008-06,Dengue Fever,7
-2008-06,Dolly Parton,0
-2008-06,Elliott Smith,0
-2008-06,Gogol Bordello,0
-2008-06,Interpol,0
-2008-06,Jenny Wilson,0
-2008-06,Kaiser Chiefs,0
-2008-06,Modest Mouse,0
-2008-06,Of Montreal,0
-2008-06,Sufjan Stevens,1
-2008-06,The Dears,1
-2008-06,The Flaming Lips,1
-2008-06,The Knife,0
-2008-06,The Shins,0
-2008-06,Yeah Yeah Yeahs,0
-2008-07,Antony And The Johnsons,0
-2008-07,Arcade Fire,0
-2008-07,Architecture In Helsinki,0
-2008-07,Bloc Party,4
-2008-07,Broken Social Scene,0
-2008-07,Dengue Fever,22
-2008-07,Dolly Parton,1
-2008-07,Elliott Smith,0
-2008-07,Gogol Bordello,0
-2008-07,Interpol,0
-2008-07,Jenny Wilson,3
-2008-07,Kaiser Chiefs,5
-2008-07,Modest Mouse,2
-2008-07,Of Montreal,4
-2008-07,Sufjan Stevens,2
-2008-07,The Dears,4
-2008-07,The Flaming Lips,1
-2008-07,The Knife,1
-2008-07,The Shins,0
-2008-07,Yeah Yeah Yeahs,0
-2008-08,Antony And The Johnsons,0
-2008-08,Arcade Fire,0
-2008-08,Architecture In Helsinki,0
-2008-08,Bloc Party,0
-2008-08,Broken Social Scene,0
-2008-08,Dengue Fever,0
-2008-08,Dolly Parton,0
-2008-08,Elliott Smith,0
-2008-08,Gogol Bordello,0
-2008-08,Interpol,0
-2008-08,Jenny Wilson,0
-2008-08,Kaiser Chiefs,0
-2008-08,Modest Mouse,0
-2008-08,Of Montreal,0
-2008-08,Sufjan Stevens,0
-2008-08,The Dears,0
-2008-08,The Flaming Lips,0
-2008-08,The Knife,0
-2008-08,The Shins,0
-2008-08,Yeah Yeah Yeahs,0
-2008-09,Antony And The Johnsons,0
-2008-09,Arcade Fire,0
-2008-09,Architecture In Helsinki,0
-2008-09,Bloc Party,1
-2008-09,Broken Social Scene,0
-2008-09,Dengue Fever,0
-2008-09,Dolly Parton,0
-2008-09,Elliott Smith,0
-2008-09,Gogol Bordello,0
-2008-09,Interpol,0
-2008-09,Jenny Wilson,0
-2008-09,Kaiser Chiefs,0
-2008-09,Modest Mouse,0
-2008-09,Of Montreal,0
-2008-09,Sufjan Stevens,0
-2008-09,The Dears,0
-2008-09,The Flaming Lips,0
-2008-09,The Knife,0
-2008-09,The Shins,0
-2008-09,Yeah Yeah Yeahs,0
-2008-10,Antony And The Johnsons,0
-2008-10,Arcade Fire,0
-2008-10,Architecture In Helsinki,0
-2008-10,Bloc Party,0
-2008-10,Broken Social Scene,0
-2008-10,Dengue Fever,28
-2008-10,Dolly Parton,0
-2008-10,Elliott Smith,0
-2008-10,Gogol Bordello,0
-2008-10,Interpol,0
-2008-10,Jenny Wilson,6
-2008-10,Kaiser Chiefs,1
-2008-10,Modest Mouse,0
-2008-10,Of Montreal,0
-2008-10,Sufjan Stevens,0
-2008-10,The Dears,9
-2008-10,The Flaming Lips,2
-2008-10,The Knife,0
-2008-10,The Shins,0
-2008-10,Yeah Yeah Yeahs,0
-2008-11,Antony And The Johnsons,0
-2008-11,Arcade Fire,0
-2008-11,Architecture In Helsinki,0
-2008-11,Bloc Party,0
-2008-11,Broken Social Scene,0
-2008-11,Dengue Fever,25
-2008-11,Dolly Parton,0
-2008-11,Elliott Smith,0
-2008-11,Gogol Bordello,0
-2008-11,Interpol,1
-2008-11,Jenny Wilson,0
-2008-11,Kaiser Chiefs,1
-2008-11,Modest Mouse,0
-2008-11,Of Montreal,2
-2008-11,Sufjan Stevens,0
-2008-11,The Dears,0
-2008-11,The Flaming Lips,3
-2008-11,The Knife,1
-2008-11,The Shins,1
-2008-11,Yeah Yeah Yeahs,0
-2008-12,Antony And The Johnsons,0
-2008-12,Arcade Fire,0
-2008-12,Architecture In Helsinki,0
-2008-12,Bloc Party,0
-2008-12,Broken Social Scene,0
-2008-12,Dengue Fever,2
-2008-12,Dolly Parton,0
-2008-12,Elliott Smith,0
-2008-12,Gogol Bordello,0
-2008-12,Interpol,0
-2008-12,Jenny Wilson,15
-2008-12,Kaiser Chiefs,0
-2008-12,Modest Mouse,0
-2008-12,Of Montreal,0
-2008-12,Sufjan Stevens,0
-2008-12,The Dears,0
-2008-12,The Flaming Lips,0
-2008-12,The Knife,0
-2008-12,The Shins,0
-2008-12,Yeah Yeah Yeahs,0
-2009-01,Antony And The Johnsons,6
-2009-01,Arcade Fire,0
-2009-01,Architecture In Helsinki,0
-2009-01,Bloc Party,0
-2009-01,Broken Social Scene,0
-2009-01,Dengue Fever,0
-2009-01,Dolly Parton,0
-2009-01,Elliott Smith,0
-2009-01,Gogol Bordello,0
-2009-01,Interpol,0
-2009-01,Jenny Wilson,0
-2009-01,Kaiser Chiefs,0
-2009-01,Modest Mouse,0
-2009-01,Of Montreal,0
-2009-01,Sufjan Stevens,0
-2009-01,The Dears,0
-2009-01,The Flaming Lips,0
-2009-01,The Knife,0
-2009-01,The Shins,0
-2009-01,Yeah Yeah Yeahs,0
-2009-02,Antony And The Johnsons,0
-2009-02,Arcade Fire,0
-2009-02,Architecture In Helsinki,0
-2009-02,Bloc Party,0
-2009-02,Broken Social Scene,0
-2009-02,Dengue Fever,1
-2009-02,Dolly Parton,0
-2009-02,Elliott Smith,0
-2009-02,Gogol Bordello,0
-2009-02,Interpol,0
-2009-02,Jenny Wilson,57
-2009-02,Kaiser Chiefs,0
-2009-02,Modest Mouse,0
-2009-02,Of Montreal,0
-2009-02,Sufjan Stevens,0
-2009-02,The Dears,0
-2009-02,The Flaming Lips,0
-2009-02,The Knife,0
-2009-02,The Shins,0
-2009-02,Yeah Yeah Yeahs,0
-2009-03,Antony And The Johnsons,0
-2009-03,Arcade Fire,0
-2009-03,Architecture In Helsinki,0
-2009-03,Bloc Party,0
-2009-03,Broken Social Scene,1
-2009-03,Dengue Fever,0
-2009-03,Dolly Parton,1
-2009-03,Elliott Smith,0
-2009-03,Gogol Bordello,0
-2009-03,Interpol,0
-2009-03,Jenny Wilson,21
-2009-03,Kaiser Chiefs,0
-2009-03,Modest Mouse,0
-2009-03,Of Montreal,0
-2009-03,Sufjan Stevens,0
-2009-03,The Dears,0
-2009-03,The Flaming Lips,0
-2009-03,The Knife,0
-2009-03,The Shins,0
-2009-03,Yeah Yeah Yeahs,0
-2009-04,Antony And The Johnsons,0
-2009-04,Arcade Fire,2
-2009-04,Architecture In Helsinki,0
-2009-04,Bloc Party,0
-2009-04,Broken Social Scene,0
-2009-04,Dengue Fever,0
-2009-04,Dolly Parton,2
-2009-04,Elliott Smith,0
-2009-04,Gogol Bordello,0
-2009-04,Interpol,0
-2009-04,Jenny Wilson,8
-2009-04,Kaiser Chiefs,0
-2009-04,Modest Mouse,0
-2009-04,Of Montreal,0
-2009-04,Sufjan Stevens,0
-2009-04,The Dears,0
-2009-04,The Flaming Lips,0
-2009-04,The Knife,0
-2009-04,The Shins,0
-2009-04,Yeah Yeah Yeahs,0
+"month","artist","plays"
+"2006-03","Antony And The Johnsons",24
+"2006-03","Arcade Fire",6
+"2006-03","Architecture In Helsinki",5
+"2006-03","Bloc Party",8
+"2006-03","Broken Social Scene",9
+"2006-03","Dengue Fever",0
+"2006-03","Dolly Parton",0
+"2006-03","Elliott Smith",7
+"2006-03","Gogol Bordello",0
+"2006-03","Interpol",7
+"2006-03","Jenny Wilson",0
+"2006-03","Kaiser Chiefs",2
+"2006-03","Modest Mouse",11
+"2006-03","Of Montreal",8
+"2006-03","Sufjan Stevens",8
+"2006-03","The Dears",11
+"2006-03","The Flaming Lips",6
+"2006-03","The Knife",0
+"2006-03","The Shins",13
+"2006-03","Yeah Yeah Yeahs",5
+"2006-04","Antony And The Johnsons",4
+"2006-04","Arcade Fire",10
+"2006-04","Architecture In Helsinki",1
+"2006-04","Bloc Party",4
+"2006-04","Broken Social Scene",7
+"2006-04","Dengue Fever",0
+"2006-04","Dolly Parton",0
+"2006-04","Elliott Smith",2
+"2006-04","Gogol Bordello",0
+"2006-04","Interpol",4
+"2006-04","Jenny Wilson",0
+"2006-04","Kaiser Chiefs",9
+"2006-04","Modest Mouse",1
+"2006-04","Of Montreal",15
+"2006-04","Sufjan Stevens",5
+"2006-04","The Dears",2
+"2006-04","The Flaming Lips",12
+"2006-04","The Knife",0
+"2006-04","The Shins",5
+"2006-04","Yeah Yeah Yeahs",5
+"2006-05","Antony And The Johnsons",2
+"2006-05","Arcade Fire",11
+"2006-05","Architecture In Helsinki",0
+"2006-05","Bloc Party",0
+"2006-05","Broken Social Scene",0
+"2006-05","Dengue Fever",0
+"2006-05","Dolly Parton",0
+"2006-05","Elliott Smith",0
+"2006-05","Gogol Bordello",0
+"2006-05","Interpol",1
+"2006-05","Jenny Wilson",0
+"2006-05","Kaiser Chiefs",23
+"2006-05","Modest Mouse",0
+"2006-05","Of Montreal",5
+"2006-05","Sufjan Stevens",0
+"2006-05","The Dears",0
+"2006-05","The Flaming Lips",20
+"2006-05","The Knife",0
+"2006-05","The Shins",17
+"2006-05","Yeah Yeah Yeahs",1
+"2006-06","Antony And The Johnsons",2
+"2006-06","Arcade Fire",12
+"2006-06","Architecture In Helsinki",1
+"2006-06","Bloc Party",0
+"2006-06","Broken Social Scene",3
+"2006-06","Dengue Fever",1
+"2006-06","Dolly Parton",2
+"2006-06","Elliott Smith",8
+"2006-06","Gogol Bordello",0
+"2006-06","Interpol",0
+"2006-06","Jenny Wilson",0
+"2006-06","Kaiser Chiefs",15
+"2006-06","Modest Mouse",3
+"2006-06","Of Montreal",4
+"2006-06","Sufjan Stevens",0
+"2006-06","The Dears",4
+"2006-06","The Flaming Lips",5
+"2006-06","The Knife",0
+"2006-06","The Shins",15
+"2006-06","Yeah Yeah Yeahs",0
+"2006-07","Antony And The Johnsons",0
+"2006-07","Arcade Fire",1
+"2006-07","Architecture In Helsinki",1
+"2006-07","Bloc Party",0
+"2006-07","Broken Social Scene",1
+"2006-07","Dengue Fever",0
+"2006-07","Dolly Parton",0
+"2006-07","Elliott Smith",1
+"2006-07","Gogol Bordello",104
+"2006-07","Interpol",0
+"2006-07","Jenny Wilson",0
+"2006-07","Kaiser Chiefs",1
+"2006-07","Modest Mouse",0
+"2006-07","Of Montreal",6
+"2006-07","Sufjan Stevens",1
+"2006-07","The Dears",10
+"2006-07","The Flaming Lips",0
+"2006-07","The Knife",1
+"2006-07","The Shins",0
+"2006-07","Yeah Yeah Yeahs",0
+"2006-08","Antony And The Johnsons",0
+"2006-08","Arcade Fire",0
+"2006-08","Architecture In Helsinki",0
+"2006-08","Bloc Party",0
+"2006-08","Broken Social Scene",0
+"2006-08","Dengue Fever",0
+"2006-08","Dolly Parton",0
+"2006-08","Elliott Smith",0
+"2006-08","Gogol Bordello",3
+"2006-08","Interpol",0
+"2006-08","Jenny Wilson",0
+"2006-08","Kaiser Chiefs",0
+"2006-08","Modest Mouse",0
+"2006-08","Of Montreal",0
+"2006-08","Sufjan Stevens",0
+"2006-08","The Dears",0
+"2006-08","The Flaming Lips",0
+"2006-08","The Knife",0
+"2006-08","The Shins",0
+"2006-08","Yeah Yeah Yeahs",0
+"2006-09","Antony And The Johnsons",1
+"2006-09","Arcade Fire",3
+"2006-09","Architecture In Helsinki",0
+"2006-09","Bloc Party",2
+"2006-09","Broken Social Scene",2
+"2006-09","Dengue Fever",0
+"2006-09","Dolly Parton",1
+"2006-09","Elliott Smith",0
+"2006-09","Gogol Bordello",13
+"2006-09","Interpol",2
+"2006-09","Jenny Wilson",0
+"2006-09","Kaiser Chiefs",0
+"2006-09","Modest Mouse",1
+"2006-09","Of Montreal",0
+"2006-09","Sufjan Stevens",0
+"2006-09","The Dears",3
+"2006-09","The Flaming Lips",0
+"2006-09","The Knife",0
+"2006-09","The Shins",0
+"2006-09","Yeah Yeah Yeahs",2
+"2006-10","Antony And The Johnsons",1
+"2006-10","Arcade Fire",2
+"2006-10","Architecture In Helsinki",0
+"2006-10","Bloc Party",0
+"2006-10","Broken Social Scene",0
+"2006-10","Dengue Fever",0
+"2006-10","Dolly Parton",1
+"2006-10","Elliott Smith",0
+"2006-10","Gogol Bordello",17
+"2006-10","Interpol",0
+"2006-10","Jenny Wilson",0
+"2006-10","Kaiser Chiefs",8
+"2006-10","Modest Mouse",0
+"2006-10","Of Montreal",1
+"2006-10","Sufjan Stevens",0
+"2006-10","The Dears",0
+"2006-10","The Flaming Lips",5
+"2006-10","The Knife",0
+"2006-10","The Shins",0
+"2006-10","Yeah Yeah Yeahs",0
+"2006-11","Antony And The Johnsons",0
+"2006-11","Arcade Fire",1
+"2006-11","Architecture In Helsinki",0
+"2006-11","Bloc Party",0
+"2006-11","Broken Social Scene",0
+"2006-11","Dengue Fever",0
+"2006-11","Dolly Parton",0
+"2006-11","Elliott Smith",0
+"2006-11","Gogol Bordello",4
+"2006-11","Interpol",0
+"2006-11","Jenny Wilson",0
+"2006-11","Kaiser Chiefs",4
+"2006-11","Modest Mouse",0
+"2006-11","Of Montreal",0
+"2006-11","Sufjan Stevens",0
+"2006-11","The Dears",0
+"2006-11","The Flaming Lips",2
+"2006-11","The Knife",0
+"2006-11","The Shins",0
+"2006-11","Yeah Yeah Yeahs",0
+"2006-12","Antony And The Johnsons",0
+"2006-12","Arcade Fire",0
+"2006-12","Architecture In Helsinki",0
+"2006-12","Bloc Party",0
+"2006-12","Broken Social Scene",0
+"2006-12","Dengue Fever",0
+"2006-12","Dolly Parton",0
+"2006-12","Elliott Smith",0
+"2006-12","Gogol Bordello",4
+"2006-12","Interpol",0
+"2006-12","Jenny Wilson",0
+"2006-12","Kaiser Chiefs",23
+"2006-12","Modest Mouse",0
+"2006-12","Of Montreal",0
+"2006-12","Sufjan Stevens",0
+"2006-12","The Dears",0
+"2006-12","The Flaming Lips",0
+"2006-12","The Knife",0
+"2006-12","The Shins",0
+"2006-12","Yeah Yeah Yeahs",0
+"2007-01","Antony And The Johnsons",0
+"2007-01","Arcade Fire",18
+"2007-01","Architecture In Helsinki",0
+"2007-01","Bloc Party",4
+"2007-01","Broken Social Scene",0
+"2007-01","Dengue Fever",12
+"2007-01","Dolly Parton",1
+"2007-01","Elliott Smith",1
+"2007-01","Gogol Bordello",0
+"2007-01","Interpol",1
+"2007-01","Jenny Wilson",0
+"2007-01","Kaiser Chiefs",3
+"2007-01","Modest Mouse",0
+"2007-01","Of Montreal",15
+"2007-01","Sufjan Stevens",11
+"2007-01","The Dears",1
+"2007-01","The Flaming Lips",1
+"2007-01","The Knife",1
+"2007-01","The Shins",1
+"2007-01","Yeah Yeah Yeahs",1
+"2007-02","Antony And The Johnsons",0
+"2007-02","Arcade Fire",9
+"2007-02","Architecture In Helsinki",1
+"2007-02","Bloc Party",2
+"2007-02","Broken Social Scene",1
+"2007-02","Dengue Fever",0
+"2007-02","Dolly Parton",0
+"2007-02","Elliott Smith",0
+"2007-02","Gogol Bordello",0
+"2007-02","Interpol",1
+"2007-02","Jenny Wilson",0
+"2007-02","Kaiser Chiefs",1
+"2007-02","Modest Mouse",12
+"2007-02","Of Montreal",1
+"2007-02","Sufjan Stevens",1
+"2007-02","The Dears",0
+"2007-02","The Flaming Lips",0
+"2007-02","The Knife",0
+"2007-02","The Shins",5
+"2007-02","Yeah Yeah Yeahs",1
+"2007-03","Antony And The Johnsons",0
+"2007-03","Arcade Fire",18
+"2007-03","Architecture In Helsinki",0
+"2007-03","Bloc Party",1
+"2007-03","Broken Social Scene",0
+"2007-03","Dengue Fever",0
+"2007-03","Dolly Parton",0
+"2007-03","Elliott Smith",0
+"2007-03","Gogol Bordello",0
+"2007-03","Interpol",0
+"2007-03","Jenny Wilson",0
+"2007-03","Kaiser Chiefs",3
+"2007-03","Modest Mouse",0
+"2007-03","Of Montreal",0
+"2007-03","Sufjan Stevens",0
+"2007-03","The Dears",0
+"2007-03","The Flaming Lips",0
+"2007-03","The Knife",0
+"2007-03","The Shins",0
+"2007-03","Yeah Yeah Yeahs",0
+"2007-04","Antony And The Johnsons",0
+"2007-04","Arcade Fire",0
+"2007-04","Architecture In Helsinki",0
+"2007-04","Bloc Party",0
+"2007-04","Broken Social Scene",0
+"2007-04","Dengue Fever",0
+"2007-04","Dolly Parton",1
+"2007-04","Elliott Smith",0
+"2007-04","Gogol Bordello",0
+"2007-04","Interpol",0
+"2007-04","Jenny Wilson",0
+"2007-04","Kaiser Chiefs",20
+"2007-04","Modest Mouse",0
+"2007-04","Of Montreal",1
+"2007-04","Sufjan Stevens",0
+"2007-04","The Dears",0
+"2007-04","The Flaming Lips",0
+"2007-04","The Knife",18
+"2007-04","The Shins",0
+"2007-04","Yeah Yeah Yeahs",0
+"2007-05","Antony And The Johnsons",0
+"2007-05","Arcade Fire",0
+"2007-05","Architecture In Helsinki",0
+"2007-05","Bloc Party",0
+"2007-05","Broken Social Scene",0
+"2007-05","Dengue Fever",0
+"2007-05","Dolly Parton",0
+"2007-05","Elliott Smith",4
+"2007-05","Gogol Bordello",0
+"2007-05","Interpol",0
+"2007-05","Jenny Wilson",0
+"2007-05","Kaiser Chiefs",1
+"2007-05","Modest Mouse",0
+"2007-05","Of Montreal",0
+"2007-05","Sufjan Stevens",0
+"2007-05","The Dears",0
+"2007-05","The Flaming Lips",1
+"2007-05","The Knife",0
+"2007-05","The Shins",0
+"2007-05","Yeah Yeah Yeahs",0
+"2007-06","Antony And The Johnsons",0
+"2007-06","Arcade Fire",1
+"2007-06","Architecture In Helsinki",0
+"2007-06","Bloc Party",0
+"2007-06","Broken Social Scene",0
+"2007-06","Dengue Fever",0
+"2007-06","Dolly Parton",0
+"2007-06","Elliott Smith",1
+"2007-06","Gogol Bordello",0
+"2007-06","Interpol",0
+"2007-06","Jenny Wilson",0
+"2007-06","Kaiser Chiefs",0
+"2007-06","Modest Mouse",0
+"2007-06","Of Montreal",1
+"2007-06","Sufjan Stevens",0
+"2007-06","The Dears",0
+"2007-06","The Flaming Lips",0
+"2007-06","The Knife",0
+"2007-06","The Shins",0
+"2007-06","Yeah Yeah Yeahs",0
+"2007-07","Antony And The Johnsons",0
+"2007-07","Arcade Fire",0
+"2007-07","Architecture In Helsinki",0
+"2007-07","Bloc Party",0
+"2007-07","Broken Social Scene",0
+"2007-07","Dengue Fever",1
+"2007-07","Dolly Parton",0
+"2007-07","Elliott Smith",0
+"2007-07","Gogol Bordello",0
+"2007-07","Interpol",0
+"2007-07","Jenny Wilson",0
+"2007-07","Kaiser Chiefs",31
+"2007-07","Modest Mouse",0
+"2007-07","Of Montreal",0
+"2007-07","Sufjan Stevens",0
+"2007-07","The Dears",0
+"2007-07","The Flaming Lips",0
+"2007-07","The Knife",0
+"2007-07","The Shins",0
+"2007-07","Yeah Yeah Yeahs",0
+"2007-08","Antony And The Johnsons",0
+"2007-08","Arcade Fire",0
+"2007-08","Architecture In Helsinki",0
+"2007-08","Bloc Party",0
+"2007-08","Broken Social Scene",0
+"2007-08","Dengue Fever",0
+"2007-08","Dolly Parton",0
+"2007-08","Elliott Smith",0
+"2007-08","Gogol Bordello",0
+"2007-08","Interpol",0
+"2007-08","Jenny Wilson",0
+"2007-08","Kaiser Chiefs",3
+"2007-08","Modest Mouse",0
+"2007-08","Of Montreal",3
+"2007-08","Sufjan Stevens",0
+"2007-08","The Dears",0
+"2007-08","The Flaming Lips",0
+"2007-08","The Knife",2
+"2007-08","The Shins",1
+"2007-08","Yeah Yeah Yeahs",0
+"2007-09","Antony And The Johnsons",0
+"2007-09","Arcade Fire",0
+"2007-09","Architecture In Helsinki",0
+"2007-09","Bloc Party",0
+"2007-09","Broken Social Scene",0
+"2007-09","Dengue Fever",0
+"2007-09","Dolly Parton",0
+"2007-09","Elliott Smith",0
+"2007-09","Gogol Bordello",0
+"2007-09","Interpol",0
+"2007-09","Jenny Wilson",0
+"2007-09","Kaiser Chiefs",0
+"2007-09","Modest Mouse",0
+"2007-09","Of Montreal",0
+"2007-09","Sufjan Stevens",0
+"2007-09","The Dears",0
+"2007-09","The Flaming Lips",0
+"2007-09","The Knife",0
+"2007-09","The Shins",0
+"2007-09","Yeah Yeah Yeahs",0
+"2007-10","Antony And The Johnsons",1
+"2007-10","Arcade Fire",1
+"2007-10","Architecture In Helsinki",0
+"2007-10","Bloc Party",0
+"2007-10","Broken Social Scene",5
+"2007-10","Dengue Fever",1
+"2007-10","Dolly Parton",1
+"2007-10","Elliott Smith",2
+"2007-10","Gogol Bordello",2
+"2007-10","Interpol",3
+"2007-10","Jenny Wilson",1
+"2007-10","Kaiser Chiefs",13
+"2007-10","Modest Mouse",2
+"2007-10","Of Montreal",5
+"2007-10","Sufjan Stevens",0
+"2007-10","The Dears",0
+"2007-10","The Flaming Lips",1
+"2007-10","The Knife",1
+"2007-10","The Shins",2
+"2007-10","Yeah Yeah Yeahs",1
+"2007-11","Antony And The Johnsons",0
+"2007-11","Arcade Fire",5
+"2007-11","Architecture In Helsinki",0
+"2007-11","Bloc Party",2
+"2007-11","Broken Social Scene",10
+"2007-11","Dengue Fever",0
+"2007-11","Dolly Parton",0
+"2007-11","Elliott Smith",0
+"2007-11","Gogol Bordello",0
+"2007-11","Interpol",0
+"2007-11","Jenny Wilson",0
+"2007-11","Kaiser Chiefs",0
+"2007-11","Modest Mouse",0
+"2007-11","Of Montreal",7
+"2007-11","Sufjan Stevens",0
+"2007-11","The Dears",21
+"2007-11","The Flaming Lips",0
+"2007-11","The Knife",0
+"2007-11","The Shins",7
+"2007-11","Yeah Yeah Yeahs",0
+"2007-12","Antony And The Johnsons",0
+"2007-12","Arcade Fire",0
+"2007-12","Architecture In Helsinki",0
+"2007-12","Bloc Party",0
+"2007-12","Broken Social Scene",0
+"2007-12","Dengue Fever",0
+"2007-12","Dolly Parton",0
+"2007-12","Elliott Smith",0
+"2007-12","Gogol Bordello",0
+"2007-12","Interpol",0
+"2007-12","Jenny Wilson",0
+"2007-12","Kaiser Chiefs",0
+"2007-12","Modest Mouse",0
+"2007-12","Of Montreal",0
+"2007-12","Sufjan Stevens",0
+"2007-12","The Dears",0
+"2007-12","The Flaming Lips",0
+"2007-12","The Knife",0
+"2007-12","The Shins",0
+"2007-12","Yeah Yeah Yeahs",0
+"2008-01","Antony And The Johnsons",0
+"2008-01","Arcade Fire",0
+"2008-01","Architecture In Helsinki",0
+"2008-01","Bloc Party",0
+"2008-01","Broken Social Scene",0
+"2008-01","Dengue Fever",0
+"2008-01","Dolly Parton",0
+"2008-01","Elliott Smith",0
+"2008-01","Gogol Bordello",0
+"2008-01","Interpol",0
+"2008-01","Jenny Wilson",0
+"2008-01","Kaiser Chiefs",0
+"2008-01","Modest Mouse",0
+"2008-01","Of Montreal",0
+"2008-01","Sufjan Stevens",0
+"2008-01","The Dears",0
+"2008-01","The Flaming Lips",0
+"2008-01","The Knife",0
+"2008-01","The Shins",0
+"2008-01","Yeah Yeah Yeahs",0
+"2008-02","Antony And The Johnsons",0
+"2008-02","Arcade Fire",0
+"2008-02","Architecture In Helsinki",0
+"2008-02","Bloc Party",0
+"2008-02","Broken Social Scene",0
+"2008-02","Dengue Fever",0
+"2008-02","Dolly Parton",0
+"2008-02","Elliott Smith",0
+"2008-02","Gogol Bordello",0
+"2008-02","Interpol",0
+"2008-02","Jenny Wilson",0
+"2008-02","Kaiser Chiefs",0
+"2008-02","Modest Mouse",0
+"2008-02","Of Montreal",0
+"2008-02","Sufjan Stevens",0
+"2008-02","The Dears",0
+"2008-02","The Flaming Lips",0
+"2008-02","The Knife",0
+"2008-02","The Shins",0
+"2008-02","Yeah Yeah Yeahs",0
+"2008-03","Antony And The Johnsons",0
+"2008-03","Arcade Fire",0
+"2008-03","Architecture In Helsinki",2
+"2008-03","Bloc Party",3
+"2008-03","Broken Social Scene",3
+"2008-03","Dengue Fever",1
+"2008-03","Dolly Parton",0
+"2008-03","Elliott Smith",0
+"2008-03","Gogol Bordello",1
+"2008-03","Interpol",0
+"2008-03","Jenny Wilson",1
+"2008-03","Kaiser Chiefs",0
+"2008-03","Modest Mouse",2
+"2008-03","Of Montreal",3
+"2008-03","Sufjan Stevens",1
+"2008-03","The Dears",1
+"2008-03","The Flaming Lips",2
+"2008-03","The Knife",1
+"2008-03","The Shins",4
+"2008-03","Yeah Yeah Yeahs",1
+"2008-04","Antony And The Johnsons",0
+"2008-04","Arcade Fire",0
+"2008-04","Architecture In Helsinki",0
+"2008-04","Bloc Party",0
+"2008-04","Broken Social Scene",0
+"2008-04","Dengue Fever",0
+"2008-04","Dolly Parton",0
+"2008-04","Elliott Smith",0
+"2008-04","Gogol Bordello",0
+"2008-04","Interpol",0
+"2008-04","Jenny Wilson",17
+"2008-04","Kaiser Chiefs",0
+"2008-04","Modest Mouse",0
+"2008-04","Of Montreal",0
+"2008-04","Sufjan Stevens",0
+"2008-04","The Dears",0
+"2008-04","The Flaming Lips",0
+"2008-04","The Knife",0
+"2008-04","The Shins",0
+"2008-04","Yeah Yeah Yeahs",0
+"2008-05","Antony And The Johnsons",0
+"2008-05","Arcade Fire",0
+"2008-05","Architecture In Helsinki",0
+"2008-05","Bloc Party",1
+"2008-05","Broken Social Scene",0
+"2008-05","Dengue Fever",2
+"2008-05","Dolly Parton",0
+"2008-05","Elliott Smith",0
+"2008-05","Gogol Bordello",0
+"2008-05","Interpol",0
+"2008-05","Jenny Wilson",0
+"2008-05","Kaiser Chiefs",0
+"2008-05","Modest Mouse",0
+"2008-05","Of Montreal",0
+"2008-05","Sufjan Stevens",0
+"2008-05","The Dears",0
+"2008-05","The Flaming Lips",0
+"2008-05","The Knife",0
+"2008-05","The Shins",0
+"2008-05","Yeah Yeah Yeahs",0
+"2008-06","Antony And The Johnsons",0
+"2008-06","Arcade Fire",0
+"2008-06","Architecture In Helsinki",1
+"2008-06","Bloc Party",0
+"2008-06","Broken Social Scene",0
+"2008-06","Dengue Fever",7
+"2008-06","Dolly Parton",0
+"2008-06","Elliott Smith",0
+"2008-06","Gogol Bordello",0
+"2008-06","Interpol",0
+"2008-06","Jenny Wilson",0
+"2008-06","Kaiser Chiefs",0
+"2008-06","Modest Mouse",0
+"2008-06","Of Montreal",0
+"2008-06","Sufjan Stevens",1
+"2008-06","The Dears",1
+"2008-06","The Flaming Lips",1
+"2008-06","The Knife",0
+"2008-06","The Shins",0
+"2008-06","Yeah Yeah Yeahs",0
+"2008-07","Antony And The Johnsons",0
+"2008-07","Arcade Fire",0
+"2008-07","Architecture In Helsinki",0
+"2008-07","Bloc Party",4
+"2008-07","Broken Social Scene",0
+"2008-07","Dengue Fever",22
+"2008-07","Dolly Parton",1
+"2008-07","Elliott Smith",0
+"2008-07","Gogol Bordello",0
+"2008-07","Interpol",0
+"2008-07","Jenny Wilson",3
+"2008-07","Kaiser Chiefs",5
+"2008-07","Modest Mouse",2
+"2008-07","Of Montreal",4
+"2008-07","Sufjan Stevens",2
+"2008-07","The Dears",4
+"2008-07","The Flaming Lips",1
+"2008-07","The Knife",1
+"2008-07","The Shins",0
+"2008-07","Yeah Yeah Yeahs",0
+"2008-08","Antony And The Johnsons",0
+"2008-08","Arcade Fire",0
+"2008-08","Architecture In Helsinki",0
+"2008-08","Bloc Party",0
+"2008-08","Broken Social Scene",0
+"2008-08","Dengue Fever",0
+"2008-08","Dolly Parton",0
+"2008-08","Elliott Smith",0
+"2008-08","Gogol Bordello",0
+"2008-08","Interpol",0
+"2008-08","Jenny Wilson",0
+"2008-08","Kaiser Chiefs",0
+"2008-08","Modest Mouse",0
+"2008-08","Of Montreal",0
+"2008-08","Sufjan Stevens",0
+"2008-08","The Dears",0
+"2008-08","The Flaming Lips",0
+"2008-08","The Knife",0
+"2008-08","The Shins",0
+"2008-08","Yeah Yeah Yeahs",0
+"2008-09","Antony And The Johnsons",0
+"2008-09","Arcade Fire",0
+"2008-09","Architecture In Helsinki",0
+"2008-09","Bloc Party",1
+"2008-09","Broken Social Scene",0
+"2008-09","Dengue Fever",0
+"2008-09","Dolly Parton",0
+"2008-09","Elliott Smith",0
+"2008-09","Gogol Bordello",0
+"2008-09","Interpol",0
+"2008-09","Jenny Wilson",0
+"2008-09","Kaiser Chiefs",0
+"2008-09","Modest Mouse",0
+"2008-09","Of Montreal",0
+"2008-09","Sufjan Stevens",0
+"2008-09","The Dears",0
+"2008-09","The Flaming Lips",0
+"2008-09","The Knife",0
+"2008-09","The Shins",0
+"2008-09","Yeah Yeah Yeahs",0
+"2008-10","Antony And The Johnsons",0
+"2008-10","Arcade Fire",0
+"2008-10","Architecture In Helsinki",0
+"2008-10","Bloc Party",0
+"2008-10","Broken Social Scene",0
+"2008-10","Dengue Fever",28
+"2008-10","Dolly Parton",0
+"2008-10","Elliott Smith",0
+"2008-10","Gogol Bordello",0
+"2008-10","Interpol",0
+"2008-10","Jenny Wilson",6
+"2008-10","Kaiser Chiefs",1
+"2008-10","Modest Mouse",0
+"2008-10","Of Montreal",0
+"2008-10","Sufjan Stevens",0
+"2008-10","The Dears",9
+"2008-10","The Flaming Lips",2
+"2008-10","The Knife",0
+"2008-10","The Shins",0
+"2008-10","Yeah Yeah Yeahs",0
+"2008-11","Antony And The Johnsons",0
+"2008-11","Arcade Fire",0
+"2008-11","Architecture In Helsinki",0
+"2008-11","Bloc Party",0
+"2008-11","Broken Social Scene",0
+"2008-11","Dengue Fever",25
+"2008-11","Dolly Parton",0
+"2008-11","Elliott Smith",0
+"2008-11","Gogol Bordello",0
+"2008-11","Interpol",1
+"2008-11","Jenny Wilson",0
+"2008-11","Kaiser Chiefs",1
+"2008-11","Modest Mouse",0
+"2008-11","Of Montreal",2
+"2008-11","Sufjan Stevens",0
+"2008-11","The Dears",0
+"2008-11","The Flaming Lips",3
+"2008-11","The Knife",1
+"2008-11","The Shins",1
+"2008-11","Yeah Yeah Yeahs",0
+"2008-12","Antony And The Johnsons",0
+"2008-12","Arcade Fire",0
+"2008-12","Architecture In Helsinki",0
+"2008-12","Bloc Party",0
+"2008-12","Broken Social Scene",0
+"2008-12","Dengue Fever",2
+"2008-12","Dolly Parton",0
+"2008-12","Elliott Smith",0
+"2008-12","Gogol Bordello",0
+"2008-12","Interpol",0
+"2008-12","Jenny Wilson",15
+"2008-12","Kaiser Chiefs",0
+"2008-12","Modest Mouse",0
+"2008-12","Of Montreal",0
+"2008-12","Sufjan Stevens",0
+"2008-12","The Dears",0
+"2008-12","The Flaming Lips",0
+"2008-12","The Knife",0
+"2008-12","The Shins",0
+"2008-12","Yeah Yeah Yeahs",0
+"2009-01","Antony And The Johnsons",6
+"2009-01","Arcade Fire",0
+"2009-01","Architecture In Helsinki",0
+"2009-01","Bloc Party",0
+"2009-01","Broken Social Scene",0
+"2009-01","Dengue Fever",0
+"2009-01","Dolly Parton",0
+"2009-01","Elliott Smith",0
+"2009-01","Gogol Bordello",0
+"2009-01","Interpol",0
+"2009-01","Jenny Wilson",0
+"2009-01","Kaiser Chiefs",0
+"2009-01","Modest Mouse",0
+"2009-01","Of Montreal",0
+"2009-01","Sufjan Stevens",0
+"2009-01","The Dears",0
+"2009-01","The Flaming Lips",0
+"2009-01","The Knife",0
+"2009-01","The Shins",0
+"2009-01","Yeah Yeah Yeahs",0
+"2009-02","Antony And The Johnsons",0
+"2009-02","Arcade Fire",0
+"2009-02","Architecture In Helsinki",0
+"2009-02","Bloc Party",0
+"2009-02","Broken Social Scene",0
+"2009-02","Dengue Fever",1
+"2009-02","Dolly Parton",0
+"2009-02","Elliott Smith",0
+"2009-02","Gogol Bordello",0
+"2009-02","Interpol",0
+"2009-02","Jenny Wilson",57
+"2009-02","Kaiser Chiefs",0
+"2009-02","Modest Mouse",0
+"2009-02","Of Montreal",0
+"2009-02","Sufjan Stevens",0
+"2009-02","The Dears",0
+"2009-02","The Flaming Lips",0
+"2009-02","The Knife",0
+"2009-02","The Shins",0
+"2009-02","Yeah Yeah Yeahs",0
+"2009-03","Antony And The Johnsons",0
+"2009-03","Arcade Fire",0
+"2009-03","Architecture In Helsinki",0
+"2009-03","Bloc Party",0
+"2009-03","Broken Social Scene",1
+"2009-03","Dengue Fever",0
+"2009-03","Dolly Parton",1
+"2009-03","Elliott Smith",0
+"2009-03","Gogol Bordello",0
+"2009-03","Interpol",0
+"2009-03","Jenny Wilson",21
+"2009-03","Kaiser Chiefs",0
+"2009-03","Modest Mouse",0
+"2009-03","Of Montreal",0
+"2009-03","Sufjan Stevens",0
+"2009-03","The Dears",0
+"2009-03","The Flaming Lips",0
+"2009-03","The Knife",0
+"2009-03","The Shins",0
+"2009-03","Yeah Yeah Yeahs",0
+"2009-04","Antony And The Johnsons",0
+"2009-04","Arcade Fire",2
+"2009-04","Architecture In Helsinki",0
+"2009-04","Bloc Party",0
+"2009-04","Broken Social Scene",0
+"2009-04","Dengue Fever",0
+"2009-04","Dolly Parton",2
+"2009-04","Elliott Smith",0
+"2009-04","Gogol Bordello",0
+"2009-04","Interpol",0
+"2009-04","Jenny Wilson",8
+"2009-04","Kaiser Chiefs",0
+"2009-04","Modest Mouse",0
+"2009-04","Of Montreal",0
+"2009-04","Sufjan Stevens",0
+"2009-04","The Dears",0
+"2009-04","The Flaming Lips",0
+"2009-04","The Knife",0
+"2009-04","The Shins",0
+"2009-04","Yeah Yeah Yeahs",0

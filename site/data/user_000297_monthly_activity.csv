@@ -1,141 +1,141 @@
-month,artist,plays
-2007-06,Architecture In Helsinki,2
-2007-06,Arctic Monkeys,1
-2007-06,Art Brut,0
-2007-06,Belle And Sebastian,4
-2007-06,Camera Obscura,0
-2007-06,Cansei De Ser Sexy,1
-2007-06,Coldplay,1
-2007-06,Daft Punk,0
-2007-06,Dire Straits,1
-2007-06,Feist,0
-2007-06,Garbage,1
-2007-06,Hootie & The Blowfish,0
-2007-06,Johnny Cash,1
-2007-06,Joy Division,0
-2007-06,Moby,0
-2007-06,The Beatles,1
-2007-06,The Cranberries,2
-2007-06,The Cure,2
-2007-06,The Velvet Underground,0
-2007-06,Travis,1
-2007-07,Architecture In Helsinki,3
-2007-07,Arctic Monkeys,2
-2007-07,Art Brut,2
-2007-07,Belle And Sebastian,9
-2007-07,Camera Obscura,5
-2007-07,Cansei De Ser Sexy,2
-2007-07,Coldplay,2
-2007-07,Daft Punk,1
-2007-07,Dire Straits,1
-2007-07,Feist,0
-2007-07,Garbage,1
-2007-07,Hootie & The Blowfish,6
-2007-07,Johnny Cash,0
-2007-07,Joy Division,2
-2007-07,Moby,2
-2007-07,The Beatles,2
-2007-07,The Cranberries,2
-2007-07,The Cure,5
-2007-07,The Velvet Underground,1
-2007-07,Travis,2
-2007-08,Architecture In Helsinki,1
-2007-08,Arctic Monkeys,0
-2007-08,Art Brut,0
-2007-08,Belle And Sebastian,1
-2007-08,Camera Obscura,0
-2007-08,Cansei De Ser Sexy,3
-2007-08,Coldplay,1
-2007-08,Daft Punk,4
-2007-08,Dire Straits,2
-2007-08,Feist,1
-2007-08,Garbage,0
-2007-08,Hootie & The Blowfish,2
-2007-08,Johnny Cash,0
-2007-08,Joy Division,1
-2007-08,Moby,3
-2007-08,The Beatles,1
-2007-08,The Cranberries,0
-2007-08,The Cure,1
-2007-08,The Velvet Underground,0
-2007-08,Travis,1
-2007-09,Architecture In Helsinki,6
-2007-09,Arctic Monkeys,3
-2007-09,Art Brut,1
-2007-09,Belle And Sebastian,6
-2007-09,Camera Obscura,5
-2007-09,Cansei De Ser Sexy,1
-2007-09,Coldplay,1
-2007-09,Daft Punk,1
-2007-09,Dire Straits,0
-2007-09,Feist,2
-2007-09,Garbage,1
-2007-09,Hootie & The Blowfish,2
-2007-09,Johnny Cash,1
-2007-09,Joy Division,1
-2007-09,Moby,3
-2007-09,The Beatles,2
-2007-09,The Cranberries,2
-2007-09,The Cure,4
-2007-09,The Velvet Underground,1
-2007-09,Travis,4
-2007-10,Architecture In Helsinki,0
-2007-10,Arctic Monkeys,1
-2007-10,Art Brut,1
-2007-10,Belle And Sebastian,1
-2007-10,Camera Obscura,13
-2007-10,Cansei De Ser Sexy,2
-2007-10,Coldplay,0
-2007-10,Daft Punk,1
-2007-10,Dire Straits,0
-2007-10,Feist,13
-2007-10,Garbage,1
-2007-10,Hootie & The Blowfish,0
-2007-10,Johnny Cash,1
-2007-10,Joy Division,1
-2007-10,Moby,2
-2007-10,The Beatles,1
-2007-10,The Cranberries,1
-2007-10,The Cure,1
-2007-10,The Velvet Underground,1
-2007-10,Travis,2
-2007-11,Architecture In Helsinki,1
-2007-11,Arctic Monkeys,0
-2007-11,Art Brut,0
-2007-11,Belle And Sebastian,0
-2007-11,Camera Obscura,0
-2007-11,Cansei De Ser Sexy,0
-2007-11,Coldplay,0
-2007-11,Daft Punk,0
-2007-11,Dire Straits,0
-2007-11,Feist,1
-2007-11,Garbage,0
-2007-11,Hootie & The Blowfish,0
-2007-11,Johnny Cash,0
-2007-11,Joy Division,0
-2007-11,Moby,0
-2007-11,The Beatles,0
-2007-11,The Cranberries,1
-2007-11,The Cure,0
-2007-11,The Velvet Underground,1
-2007-11,Travis,0
-2007-12,Architecture In Helsinki,1
-2007-12,Arctic Monkeys,0
-2007-12,Art Brut,1
-2007-12,Belle And Sebastian,0
-2007-12,Camera Obscura,1
-2007-12,Cansei De Ser Sexy,0
-2007-12,Coldplay,0
-2007-12,Daft Punk,0
-2007-12,Dire Straits,1
-2007-12,Feist,1
-2007-12,Garbage,0
-2007-12,Hootie & The Blowfish,1
-2007-12,Johnny Cash,1
-2007-12,Joy Division,0
-2007-12,Moby,0
-2007-12,The Beatles,1
-2007-12,The Cranberries,0
-2007-12,The Cure,0
-2007-12,The Velvet Underground,1
-2007-12,Travis,0
+"month","artist","plays"
+"2007-06","Architecture In Helsinki",2
+"2007-06","Arctic Monkeys",1
+"2007-06","Art Brut",0
+"2007-06","Belle And Sebastian",4
+"2007-06","Camera Obscura",0
+"2007-06","Cansei De Ser Sexy",1
+"2007-06","Coldplay",1
+"2007-06","Daft Punk",0
+"2007-06","Dire Straits",1
+"2007-06","Feist",0
+"2007-06","Garbage",1
+"2007-06","Hootie & The Blowfish",0
+"2007-06","Johnny Cash",1
+"2007-06","Joy Division",0
+"2007-06","Moby",0
+"2007-06","The Beatles",1
+"2007-06","The Cranberries",2
+"2007-06","The Cure",2
+"2007-06","The Velvet Underground",0
+"2007-06","Travis",1
+"2007-07","Architecture In Helsinki",3
+"2007-07","Arctic Monkeys",2
+"2007-07","Art Brut",2
+"2007-07","Belle And Sebastian",9
+"2007-07","Camera Obscura",5
+"2007-07","Cansei De Ser Sexy",2
+"2007-07","Coldplay",2
+"2007-07","Daft Punk",1
+"2007-07","Dire Straits",1
+"2007-07","Feist",0
+"2007-07","Garbage",1
+"2007-07","Hootie & The Blowfish",6
+"2007-07","Johnny Cash",0
+"2007-07","Joy Division",2
+"2007-07","Moby",2
+"2007-07","The Beatles",2
+"2007-07","The Cranberries",2
+"2007-07","The Cure",5
+"2007-07","The Velvet Underground",1
+"2007-07","Travis",2
+"2007-08","Architecture In Helsinki",1
+"2007-08","Arctic Monkeys",0
+"2007-08","Art Brut",0
+"2007-08","Belle And Sebastian",1
+"2007-08","Camera Obscura",0
+"2007-08","Cansei De Ser Sexy",3
+"2007-08","Coldplay",1
+"2007-08","Daft Punk",4
+"2007-08","Dire Straits",2
+"2007-08","Feist",1
+"2007-08","Garbage",0
+"2007-08","Hootie & The Blowfish",2
+"2007-08","Johnny Cash",0
+"2007-08","Joy Division",1
+"2007-08","Moby",3
+"2007-08","The Beatles",1
+"2007-08","The Cranberries",0
+"2007-08","The Cure",1
+"2007-08","The Velvet Underground",0
+"2007-08","Travis",1
+"2007-09","Architecture In Helsinki",6
+"2007-09","Arctic Monkeys",3
+"2007-09","Art Brut",1
+"2007-09","Belle And Sebastian",6
+"2007-09","Camera Obscura",5
+"2007-09","Cansei De Ser Sexy",1
+"2007-09","Coldplay",1
+"2007-09","Daft Punk",1
+"2007-09","Dire Straits",0
+"2007-09","Feist",2
+"2007-09","Garbage",1
+"2007-09","Hootie & The Blowfish",2
+"2007-09","Johnny Cash",1
+"2007-09","Joy Division",1
+"2007-09","Moby",3
+"2007-09","The Beatles",2
+"2007-09","The Cranberries",2
+"2007-09","The Cure",4
+"2007-09","The Velvet Underground",1
+"2007-09","Travis",4
+"2007-10","Architecture In Helsinki",0
+"2007-10","Arctic Monkeys",1
+"2007-10","Art Brut",1
+"2007-10","Belle And Sebastian",1
+"2007-10","Camera Obscura",13
+"2007-10","Cansei De Ser Sexy",2
+"2007-10","Coldplay",0
+"2007-10","Daft Punk",1
+"2007-10","Dire Straits",0
+"2007-10","Feist",13
+"2007-10","Garbage",1
+"2007-10","Hootie & The Blowfish",0
+"2007-10","Johnny Cash",1
+"2007-10","Joy Division",1
+"2007-10","Moby",2
+"2007-10","The Beatles",1
+"2007-10","The Cranberries",1
+"2007-10","The Cure",1
+"2007-10","The Velvet Underground",1
+"2007-10","Travis",2
+"2007-11","Architecture In Helsinki",1
+"2007-11","Arctic Monkeys",0
+"2007-11","Art Brut",0
+"2007-11","Belle And Sebastian",0
+"2007-11","Camera Obscura",0
+"2007-11","Cansei De Ser Sexy",0
+"2007-11","Coldplay",0
+"2007-11","Daft Punk",0
+"2007-11","Dire Straits",0
+"2007-11","Feist",1
+"2007-11","Garbage",0
+"2007-11","Hootie & The Blowfish",0
+"2007-11","Johnny Cash",0
+"2007-11","Joy Division",0
+"2007-11","Moby",0
+"2007-11","The Beatles",0
+"2007-11","The Cranberries",1
+"2007-11","The Cure",0
+"2007-11","The Velvet Underground",1
+"2007-11","Travis",0
+"2007-12","Architecture In Helsinki",1
+"2007-12","Arctic Monkeys",0
+"2007-12","Art Brut",1
+"2007-12","Belle And Sebastian",0
+"2007-12","Camera Obscura",1
+"2007-12","Cansei De Ser Sexy",0
+"2007-12","Coldplay",0
+"2007-12","Daft Punk",0
+"2007-12","Dire Straits",1
+"2007-12","Feist",1
+"2007-12","Garbage",0
+"2007-12","Hootie & The Blowfish",1
+"2007-12","Johnny Cash",1
+"2007-12","Joy Division",0
+"2007-12","Moby",0
+"2007-12","The Beatles",1
+"2007-12","The Cranberries",0
+"2007-12","The Cure",0
+"2007-12","The Velvet Underground",1
+"2007-12","Travis",0

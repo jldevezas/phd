@@ -1,561 +1,561 @@
-month,artist,plays
-2007-01,Air,4
-2007-01,Al Green,0
-2007-01,Beck,0
-2007-01,Billie Holiday,0
-2007-01,Camera Obscura,0
-2007-01,Cocorosie,0
-2007-01,Elliott Smith,7
-2007-01,Etta James,4
-2007-01,Giant Drag,8
-2007-01,Joy Division,30
-2007-01,Lily Allen,1
-2007-01,Massive Attack,3
-2007-01,Nico,1
-2007-01,Nouvelle Vague,1
-2007-01,Radiohead,1
-2007-01,Regina Spektor,0
-2007-01,Rufus Wainwright,6
-2007-01,The Beatles,1
-2007-01,The Shins,14
-2007-01,The Velvet Underground,3
-2007-02,Air,6
-2007-02,Al Green,3
-2007-02,Beck,1
-2007-02,Billie Holiday,0
-2007-02,Camera Obscura,0
-2007-02,Cocorosie,0
-2007-02,Elliott Smith,1
-2007-02,Etta James,8
-2007-02,Giant Drag,5
-2007-02,Joy Division,1
-2007-02,Lily Allen,11
-2007-02,Massive Attack,25
-2007-02,Nico,3
-2007-02,Nouvelle Vague,11
-2007-02,Radiohead,21
-2007-02,Regina Spektor,4
-2007-02,Rufus Wainwright,0
-2007-02,The Beatles,0
-2007-02,The Shins,0
-2007-02,The Velvet Underground,5
-2007-03,Air,10
-2007-03,Al Green,8
-2007-03,Beck,13
-2007-03,Billie Holiday,0
-2007-03,Camera Obscura,4
-2007-03,Cocorosie,2
-2007-03,Elliott Smith,1
-2007-03,Etta James,2
-2007-03,Giant Drag,0
-2007-03,Joy Division,3
-2007-03,Lily Allen,8
-2007-03,Massive Attack,3
-2007-03,Nico,0
-2007-03,Nouvelle Vague,7
-2007-03,Radiohead,4
-2007-03,Regina Spektor,0
-2007-03,Rufus Wainwright,1
-2007-03,The Beatles,0
-2007-03,The Shins,14
-2007-03,The Velvet Underground,0
-2007-04,Air,0
-2007-04,Al Green,0
-2007-04,Beck,0
-2007-04,Billie Holiday,11
-2007-04,Camera Obscura,0
-2007-04,Cocorosie,8
-2007-04,Elliott Smith,17
-2007-04,Etta James,1
-2007-04,Giant Drag,5
-2007-04,Joy Division,2
-2007-04,Lily Allen,1
-2007-04,Massive Attack,1
-2007-04,Nico,8
-2007-04,Nouvelle Vague,0
-2007-04,Radiohead,5
-2007-04,Regina Spektor,1
-2007-04,Rufus Wainwright,5
-2007-04,The Beatles,11
-2007-04,The Shins,5
-2007-04,The Velvet Underground,30
-2007-05,Air,8
-2007-05,Al Green,5
-2007-05,Beck,0
-2007-05,Billie Holiday,21
-2007-05,Camera Obscura,8
-2007-05,Cocorosie,6
-2007-05,Elliott Smith,8
-2007-05,Etta James,0
-2007-05,Giant Drag,13
-2007-05,Joy Division,1
-2007-05,Lily Allen,0
-2007-05,Massive Attack,13
-2007-05,Nico,12
-2007-05,Nouvelle Vague,1
-2007-05,Radiohead,24
-2007-05,Regina Spektor,1
-2007-05,Rufus Wainwright,47
-2007-05,The Beatles,15
-2007-05,The Shins,1
-2007-05,The Velvet Underground,1
-2007-06,Air,0
-2007-06,Al Green,8
-2007-06,Beck,2
-2007-06,Billie Holiday,1
-2007-06,Camera Obscura,1
-2007-06,Cocorosie,0
-2007-06,Elliott Smith,5
-2007-06,Etta James,4
-2007-06,Giant Drag,11
-2007-06,Joy Division,3
-2007-06,Lily Allen,1
-2007-06,Massive Attack,0
-2007-06,Nico,5
-2007-06,Nouvelle Vague,4
-2007-06,Radiohead,55
-2007-06,Regina Spektor,3
-2007-06,Rufus Wainwright,11
-2007-06,The Beatles,4
-2007-06,The Shins,8
-2007-06,The Velvet Underground,0
-2007-07,Air,0
-2007-07,Al Green,0
-2007-07,Beck,0
-2007-07,Billie Holiday,0
-2007-07,Camera Obscura,1
-2007-07,Cocorosie,0
-2007-07,Elliott Smith,1
-2007-07,Etta James,3
-2007-07,Giant Drag,3
-2007-07,Joy Division,0
-2007-07,Lily Allen,0
-2007-07,Massive Attack,0
-2007-07,Nico,0
-2007-07,Nouvelle Vague,4
-2007-07,Radiohead,0
-2007-07,Regina Spektor,0
-2007-07,Rufus Wainwright,1
-2007-07,The Beatles,0
-2007-07,The Shins,2
-2007-07,The Velvet Underground,0
-2007-08,Air,1
-2007-08,Al Green,3
-2007-08,Beck,0
-2007-08,Billie Holiday,6
-2007-08,Camera Obscura,3
-2007-08,Cocorosie,2
-2007-08,Elliott Smith,2
-2007-08,Etta James,23
-2007-08,Giant Drag,7
-2007-08,Joy Division,30
-2007-08,Lily Allen,0
-2007-08,Massive Attack,2
-2007-08,Nico,1
-2007-08,Nouvelle Vague,7
-2007-08,Radiohead,49
-2007-08,Regina Spektor,8
-2007-08,Rufus Wainwright,11
-2007-08,The Beatles,7
-2007-08,The Shins,4
-2007-08,The Velvet Underground,51
-2007-09,Air,12
-2007-09,Al Green,1
-2007-09,Beck,17
-2007-09,Billie Holiday,23
-2007-09,Camera Obscura,0
-2007-09,Cocorosie,1
-2007-09,Elliott Smith,1
-2007-09,Etta James,4
-2007-09,Giant Drag,1
-2007-09,Joy Division,13
-2007-09,Lily Allen,6
-2007-09,Massive Attack,2
-2007-09,Nico,1
-2007-09,Nouvelle Vague,25
-2007-09,Radiohead,20
-2007-09,Regina Spektor,6
-2007-09,Rufus Wainwright,20
-2007-09,The Beatles,13
-2007-09,The Shins,4
-2007-09,The Velvet Underground,12
-2007-10,Air,74
-2007-10,Al Green,1
-2007-10,Beck,15
-2007-10,Billie Holiday,7
-2007-10,Camera Obscura,2
-2007-10,Cocorosie,1
-2007-10,Elliott Smith,10
-2007-10,Etta James,3
-2007-10,Giant Drag,5
-2007-10,Joy Division,16
-2007-10,Lily Allen,3
-2007-10,Massive Attack,3
-2007-10,Nico,2
-2007-10,Nouvelle Vague,22
-2007-10,Radiohead,30
-2007-10,Regina Spektor,5
-2007-10,Rufus Wainwright,11
-2007-10,The Beatles,26
-2007-10,The Shins,9
-2007-10,The Velvet Underground,45
-2007-11,Air,59
-2007-11,Al Green,8
-2007-11,Beck,69
-2007-11,Billie Holiday,69
-2007-11,Camera Obscura,3
-2007-11,Cocorosie,25
-2007-11,Elliott Smith,38
-2007-11,Etta James,2
-2007-11,Giant Drag,6
-2007-11,Joy Division,28
-2007-11,Lily Allen,5
-2007-11,Massive Attack,3
-2007-11,Nico,1
-2007-11,Nouvelle Vague,21
-2007-11,Radiohead,180
-2007-11,Regina Spektor,2
-2007-11,Rufus Wainwright,13
-2007-11,The Beatles,27
-2007-11,The Shins,41
-2007-11,The Velvet Underground,127
-2007-12,Air,27
-2007-12,Al Green,10
-2007-12,Beck,4
-2007-12,Billie Holiday,26
-2007-12,Camera Obscura,5
-2007-12,Cocorosie,5
-2007-12,Elliott Smith,11
-2007-12,Etta James,2
-2007-12,Giant Drag,6
-2007-12,Joy Division,11
-2007-12,Lily Allen,3
-2007-12,Massive Attack,1
-2007-12,Nico,3
-2007-12,Nouvelle Vague,24
-2007-12,Radiohead,19
-2007-12,Regina Spektor,0
-2007-12,Rufus Wainwright,1
-2007-12,The Beatles,31
-2007-12,The Shins,4
-2007-12,The Velvet Underground,17
-2008-01,Air,6
-2008-01,Al Green,2
-2008-01,Beck,10
-2008-01,Billie Holiday,43
-2008-01,Camera Obscura,21
-2008-01,Cocorosie,117
-2008-01,Elliott Smith,31
-2008-01,Etta James,3
-2008-01,Giant Drag,3
-2008-01,Joy Division,10
-2008-01,Lily Allen,14
-2008-01,Massive Attack,1
-2008-01,Nico,1
-2008-01,Nouvelle Vague,8
-2008-01,Radiohead,14
-2008-01,Regina Spektor,38
-2008-01,Rufus Wainwright,13
-2008-01,The Beatles,29
-2008-01,The Shins,23
-2008-01,The Velvet Underground,23
-2008-02,Air,22
-2008-02,Al Green,7
-2008-02,Beck,24
-2008-02,Billie Holiday,14
-2008-02,Camera Obscura,7
-2008-02,Cocorosie,5
-2008-02,Elliott Smith,4
-2008-02,Etta James,1
-2008-02,Giant Drag,2
-2008-02,Joy Division,107
-2008-02,Lily Allen,4
-2008-02,Massive Attack,9
-2008-02,Nico,3
-2008-02,Nouvelle Vague,19
-2008-02,Radiohead,11
-2008-02,Regina Spektor,9
-2008-02,Rufus Wainwright,4
-2008-02,The Beatles,12
-2008-02,The Shins,1
-2008-02,The Velvet Underground,27
-2008-03,Air,13
-2008-03,Al Green,7
-2008-03,Beck,7
-2008-03,Billie Holiday,11
-2008-03,Camera Obscura,3
-2008-03,Cocorosie,9
-2008-03,Elliott Smith,14
-2008-03,Etta James,14
-2008-03,Giant Drag,4
-2008-03,Joy Division,10
-2008-03,Lily Allen,1
-2008-03,Massive Attack,2
-2008-03,Nico,6
-2008-03,Nouvelle Vague,2
-2008-03,Radiohead,20
-2008-03,Regina Spektor,0
-2008-03,Rufus Wainwright,1
-2008-03,The Beatles,15
-2008-03,The Shins,2
-2008-03,The Velvet Underground,7
-2008-04,Air,11
-2008-04,Al Green,7
-2008-04,Beck,0
-2008-04,Billie Holiday,9
-2008-04,Camera Obscura,6
-2008-04,Cocorosie,7
-2008-04,Elliott Smith,4
-2008-04,Etta James,6
-2008-04,Giant Drag,1
-2008-04,Joy Division,4
-2008-04,Lily Allen,6
-2008-04,Massive Attack,12
-2008-04,Nico,0
-2008-04,Nouvelle Vague,8
-2008-04,Radiohead,20
-2008-04,Regina Spektor,1
-2008-04,Rufus Wainwright,3
-2008-04,The Beatles,0
-2008-04,The Shins,1
-2008-04,The Velvet Underground,18
-2008-05,Air,11
-2008-05,Al Green,5
-2008-05,Beck,3
-2008-05,Billie Holiday,36
-2008-05,Camera Obscura,3
-2008-05,Cocorosie,9
-2008-05,Elliott Smith,3
-2008-05,Etta James,2
-2008-05,Giant Drag,0
-2008-05,Joy Division,6
-2008-05,Lily Allen,4
-2008-05,Massive Attack,1
-2008-05,Nico,0
-2008-05,Nouvelle Vague,2
-2008-05,Radiohead,9
-2008-05,Regina Spektor,1
-2008-05,Rufus Wainwright,0
-2008-05,The Beatles,9
-2008-05,The Shins,27
-2008-05,The Velvet Underground,4
-2008-06,Air,6
-2008-06,Al Green,4
-2008-06,Beck,1
-2008-06,Billie Holiday,162
-2008-06,Camera Obscura,31
-2008-06,Cocorosie,4
-2008-06,Elliott Smith,13
-2008-06,Etta James,2
-2008-06,Giant Drag,4
-2008-06,Joy Division,28
-2008-06,Lily Allen,1
-2008-06,Massive Attack,1
-2008-06,Nico,1
-2008-06,Nouvelle Vague,15
-2008-06,Radiohead,48
-2008-06,Regina Spektor,3
-2008-06,Rufus Wainwright,7
-2008-06,The Beatles,2
-2008-06,The Shins,19
-2008-06,The Velvet Underground,32
-2008-07,Air,24
-2008-07,Al Green,10
-2008-07,Beck,5
-2008-07,Billie Holiday,38
-2008-07,Camera Obscura,26
-2008-07,Cocorosie,0
-2008-07,Elliott Smith,13
-2008-07,Etta James,0
-2008-07,Giant Drag,0
-2008-07,Joy Division,28
-2008-07,Lily Allen,17
-2008-07,Massive Attack,3
-2008-07,Nico,0
-2008-07,Nouvelle Vague,5
-2008-07,Radiohead,22
-2008-07,Regina Spektor,16
-2008-07,Rufus Wainwright,1
-2008-07,The Beatles,1
-2008-07,The Shins,17
-2008-07,The Velvet Underground,53
-2008-08,Air,13
-2008-08,Al Green,3
-2008-08,Beck,83
-2008-08,Billie Holiday,126
-2008-08,Camera Obscura,18
-2008-08,Cocorosie,22
-2008-08,Elliott Smith,23
-2008-08,Etta James,1
-2008-08,Giant Drag,0
-2008-08,Joy Division,3
-2008-08,Lily Allen,35
-2008-08,Massive Attack,0
-2008-08,Nico,1
-2008-08,Nouvelle Vague,22
-2008-08,Radiohead,3
-2008-08,Regina Spektor,29
-2008-08,Rufus Wainwright,1
-2008-08,The Beatles,49
-2008-08,The Shins,6
-2008-08,The Velvet Underground,14
-2008-09,Air,42
-2008-09,Al Green,4
-2008-09,Beck,33
-2008-09,Billie Holiday,69
-2008-09,Camera Obscura,10
-2008-09,Cocorosie,4
-2008-09,Elliott Smith,32
-2008-09,Etta James,0
-2008-09,Giant Drag,8
-2008-09,Joy Division,73
-2008-09,Lily Allen,30
-2008-09,Massive Attack,6
-2008-09,Nico,0
-2008-09,Nouvelle Vague,2
-2008-09,Radiohead,11
-2008-09,Regina Spektor,11
-2008-09,Rufus Wainwright,1
-2008-09,The Beatles,37
-2008-09,The Shins,1
-2008-09,The Velvet Underground,35
-2008-10,Air,32
-2008-10,Al Green,9
-2008-10,Beck,9
-2008-10,Billie Holiday,111
-2008-10,Camera Obscura,20
-2008-10,Cocorosie,8
-2008-10,Elliott Smith,55
-2008-10,Etta James,0
-2008-10,Giant Drag,1
-2008-10,Joy Division,30
-2008-10,Lily Allen,16
-2008-10,Massive Attack,0
-2008-10,Nico,1
-2008-10,Nouvelle Vague,2
-2008-10,Radiohead,5
-2008-10,Regina Spektor,0
-2008-10,Rufus Wainwright,2
-2008-10,The Beatles,59
-2008-10,The Shins,26
-2008-10,The Velvet Underground,46
-2008-11,Air,13
-2008-11,Al Green,7
-2008-11,Beck,3
-2008-11,Billie Holiday,29
-2008-11,Camera Obscura,2
-2008-11,Cocorosie,6
-2008-11,Elliott Smith,14
-2008-11,Etta James,3
-2008-11,Giant Drag,22
-2008-11,Joy Division,5
-2008-11,Lily Allen,2
-2008-11,Massive Attack,9
-2008-11,Nico,1
-2008-11,Nouvelle Vague,16
-2008-11,Radiohead,14
-2008-11,Regina Spektor,1
-2008-11,Rufus Wainwright,11
-2008-11,The Beatles,2
-2008-11,The Shins,15
-2008-11,The Velvet Underground,68
-2008-12,Air,9
-2008-12,Al Green,8
-2008-12,Beck,9
-2008-12,Billie Holiday,133
-2008-12,Camera Obscura,0
-2008-12,Cocorosie,7
-2008-12,Elliott Smith,2
-2008-12,Etta James,5
-2008-12,Giant Drag,16
-2008-12,Joy Division,6
-2008-12,Lily Allen,11
-2008-12,Massive Attack,5
-2008-12,Nico,10
-2008-12,Nouvelle Vague,7
-2008-12,Radiohead,4
-2008-12,Regina Spektor,1
-2008-12,Rufus Wainwright,0
-2008-12,The Beatles,19
-2008-12,The Shins,8
-2008-12,The Velvet Underground,40
-2009-01,Air,17
-2009-01,Al Green,14
-2009-01,Beck,1
-2009-01,Billie Holiday,174
-2009-01,Camera Obscura,22
-2009-01,Cocorosie,10
-2009-01,Elliott Smith,28
-2009-01,Etta James,9
-2009-01,Giant Drag,2
-2009-01,Joy Division,49
-2009-01,Lily Allen,1
-2009-01,Massive Attack,1
-2009-01,Nico,2
-2009-01,Nouvelle Vague,11
-2009-01,Radiohead,3
-2009-01,Regina Spektor,1
-2009-01,Rufus Wainwright,10
-2009-01,The Beatles,1
-2009-01,The Shins,14
-2009-01,The Velvet Underground,75
-2009-02,Air,8
-2009-02,Al Green,7
-2009-02,Beck,9
-2009-02,Billie Holiday,44
-2009-02,Camera Obscura,2
-2009-02,Cocorosie,4
-2009-02,Elliott Smith,1
-2009-02,Etta James,6
-2009-02,Giant Drag,12
-2009-02,Joy Division,4
-2009-02,Lily Allen,9
-2009-02,Massive Attack,8
-2009-02,Nico,5
-2009-02,Nouvelle Vague,1
-2009-02,Radiohead,0
-2009-02,Regina Spektor,5
-2009-02,Rufus Wainwright,3
-2009-02,The Beatles,12
-2009-02,The Shins,73
-2009-02,The Velvet Underground,31
-2009-03,Air,8
-2009-03,Al Green,7
-2009-03,Beck,1
-2009-03,Billie Holiday,59
-2009-03,Camera Obscura,3
-2009-03,Cocorosie,13
-2009-03,Elliott Smith,39
-2009-03,Etta James,7
-2009-03,Giant Drag,127
-2009-03,Joy Division,7
-2009-03,Lily Allen,16
-2009-03,Massive Attack,6
-2009-03,Nico,3
-2009-03,Nouvelle Vague,8
-2009-03,Radiohead,5
-2009-03,Regina Spektor,0
-2009-03,Rufus Wainwright,9
-2009-03,The Beatles,9
-2009-03,The Shins,10
-2009-03,The Velvet Underground,9
-2009-04,Air,1
-2009-04,Al Green,1
-2009-04,Beck,0
-2009-04,Billie Holiday,25
-2009-04,Camera Obscura,0
-2009-04,Cocorosie,0
-2009-04,Elliott Smith,2
-2009-04,Etta James,1
-2009-04,Giant Drag,0
-2009-04,Joy Division,0
-2009-04,Lily Allen,0
-2009-04,Massive Attack,0
-2009-04,Nico,0
-2009-04,Nouvelle Vague,18
-2009-04,Radiohead,0
-2009-04,Regina Spektor,1
-2009-04,Rufus Wainwright,0
-2009-04,The Beatles,3
-2009-04,The Shins,2
-2009-04,The Velvet Underground,8
+"month","artist","plays"
+"2007-01","Air",4
+"2007-01","Al Green",0
+"2007-01","Beck",0
+"2007-01","Billie Holiday",0
+"2007-01","Camera Obscura",0
+"2007-01","Cocorosie",0
+"2007-01","Elliott Smith",7
+"2007-01","Etta James",4
+"2007-01","Giant Drag",8
+"2007-01","Joy Division",30
+"2007-01","Lily Allen",1
+"2007-01","Massive Attack",3
+"2007-01","Nico",1
+"2007-01","Nouvelle Vague",1
+"2007-01","Radiohead",1
+"2007-01","Regina Spektor",0
+"2007-01","Rufus Wainwright",6
+"2007-01","The Beatles",1
+"2007-01","The Shins",14
+"2007-01","The Velvet Underground",3
+"2007-02","Air",6
+"2007-02","Al Green",3
+"2007-02","Beck",1
+"2007-02","Billie Holiday",0
+"2007-02","Camera Obscura",0
+"2007-02","Cocorosie",0
+"2007-02","Elliott Smith",1
+"2007-02","Etta James",8
+"2007-02","Giant Drag",5
+"2007-02","Joy Division",1
+"2007-02","Lily Allen",11
+"2007-02","Massive Attack",25
+"2007-02","Nico",3
+"2007-02","Nouvelle Vague",11
+"2007-02","Radiohead",21
+"2007-02","Regina Spektor",4
+"2007-02","Rufus Wainwright",0
+"2007-02","The Beatles",0
+"2007-02","The Shins",0
+"2007-02","The Velvet Underground",5
+"2007-03","Air",10
+"2007-03","Al Green",8
+"2007-03","Beck",13
+"2007-03","Billie Holiday",0
+"2007-03","Camera Obscura",4
+"2007-03","Cocorosie",2
+"2007-03","Elliott Smith",1
+"2007-03","Etta James",2
+"2007-03","Giant Drag",0
+"2007-03","Joy Division",3
+"2007-03","Lily Allen",8
+"2007-03","Massive Attack",3
+"2007-03","Nico",0
+"2007-03","Nouvelle Vague",7
+"2007-03","Radiohead",4
+"2007-03","Regina Spektor",0
+"2007-03","Rufus Wainwright",1
+"2007-03","The Beatles",0
+"2007-03","The Shins",14
+"2007-03","The Velvet Underground",0
+"2007-04","Air",0
+"2007-04","Al Green",0
+"2007-04","Beck",0
+"2007-04","Billie Holiday",11
+"2007-04","Camera Obscura",0
+"2007-04","Cocorosie",8
+"2007-04","Elliott Smith",17
+"2007-04","Etta James",1
+"2007-04","Giant Drag",5
+"2007-04","Joy Division",2
+"2007-04","Lily Allen",1
+"2007-04","Massive Attack",1
+"2007-04","Nico",8
+"2007-04","Nouvelle Vague",0
+"2007-04","Radiohead",5
+"2007-04","Regina Spektor",1
+"2007-04","Rufus Wainwright",5
+"2007-04","The Beatles",11
+"2007-04","The Shins",5
+"2007-04","The Velvet Underground",30
+"2007-05","Air",8
+"2007-05","Al Green",5
+"2007-05","Beck",0
+"2007-05","Billie Holiday",21
+"2007-05","Camera Obscura",8
+"2007-05","Cocorosie",6
+"2007-05","Elliott Smith",8
+"2007-05","Etta James",0
+"2007-05","Giant Drag",13
+"2007-05","Joy Division",1
+"2007-05","Lily Allen",0
+"2007-05","Massive Attack",13
+"2007-05","Nico",12
+"2007-05","Nouvelle Vague",1
+"2007-05","Radiohead",24
+"2007-05","Regina Spektor",1
+"2007-05","Rufus Wainwright",47
+"2007-05","The Beatles",15
+"2007-05","The Shins",1
+"2007-05","The Velvet Underground",1
+"2007-06","Air",0
+"2007-06","Al Green",8
+"2007-06","Beck",2
+"2007-06","Billie Holiday",1
+"2007-06","Camera Obscura",1
+"2007-06","Cocorosie",0
+"2007-06","Elliott Smith",5
+"2007-06","Etta James",4
+"2007-06","Giant Drag",11
+"2007-06","Joy Division",3
+"2007-06","Lily Allen",1
+"2007-06","Massive Attack",0
+"2007-06","Nico",5
+"2007-06","Nouvelle Vague",4
+"2007-06","Radiohead",55
+"2007-06","Regina Spektor",3
+"2007-06","Rufus Wainwright",11
+"2007-06","The Beatles",4
+"2007-06","The Shins",8
+"2007-06","The Velvet Underground",0
+"2007-07","Air",0
+"2007-07","Al Green",0
+"2007-07","Beck",0
+"2007-07","Billie Holiday",0
+"2007-07","Camera Obscura",1
+"2007-07","Cocorosie",0
+"2007-07","Elliott Smith",1
+"2007-07","Etta James",3
+"2007-07","Giant Drag",3
+"2007-07","Joy Division",0
+"2007-07","Lily Allen",0
+"2007-07","Massive Attack",0
+"2007-07","Nico",0
+"2007-07","Nouvelle Vague",4
+"2007-07","Radiohead",0
+"2007-07","Regina Spektor",0
+"2007-07","Rufus Wainwright",1
+"2007-07","The Beatles",0
+"2007-07","The Shins",2
+"2007-07","The Velvet Underground",0
+"2007-08","Air",1
+"2007-08","Al Green",3
+"2007-08","Beck",0
+"2007-08","Billie Holiday",6
+"2007-08","Camera Obscura",3
+"2007-08","Cocorosie",2
+"2007-08","Elliott Smith",2
+"2007-08","Etta James",23
+"2007-08","Giant Drag",7
+"2007-08","Joy Division",30
+"2007-08","Lily Allen",0
+"2007-08","Massive Attack",2
+"2007-08","Nico",1
+"2007-08","Nouvelle Vague",7
+"2007-08","Radiohead",49
+"2007-08","Regina Spektor",8
+"2007-08","Rufus Wainwright",11
+"2007-08","The Beatles",7
+"2007-08","The Shins",4
+"2007-08","The Velvet Underground",51
+"2007-09","Air",12
+"2007-09","Al Green",1
+"2007-09","Beck",17
+"2007-09","Billie Holiday",23
+"2007-09","Camera Obscura",0
+"2007-09","Cocorosie",1
+"2007-09","Elliott Smith",1
+"2007-09","Etta James",4
+"2007-09","Giant Drag",1
+"2007-09","Joy Division",13
+"2007-09","Lily Allen",6
+"2007-09","Massive Attack",2
+"2007-09","Nico",1
+"2007-09","Nouvelle Vague",25
+"2007-09","Radiohead",20
+"2007-09","Regina Spektor",6
+"2007-09","Rufus Wainwright",20
+"2007-09","The Beatles",13
+"2007-09","The Shins",4
+"2007-09","The Velvet Underground",12
+"2007-10","Air",74
+"2007-10","Al Green",1
+"2007-10","Beck",15
+"2007-10","Billie Holiday",7
+"2007-10","Camera Obscura",2
+"2007-10","Cocorosie",1
+"2007-10","Elliott Smith",10
+"2007-10","Etta James",3
+"2007-10","Giant Drag",5
+"2007-10","Joy Division",16
+"2007-10","Lily Allen",3
+"2007-10","Massive Attack",3
+"2007-10","Nico",2
+"2007-10","Nouvelle Vague",22
+"2007-10","Radiohead",30
+"2007-10","Regina Spektor",5
+"2007-10","Rufus Wainwright",11
+"2007-10","The Beatles",26
+"2007-10","The Shins",9
+"2007-10","The Velvet Underground",45
+"2007-11","Air",59
+"2007-11","Al Green",8
+"2007-11","Beck",69
+"2007-11","Billie Holiday",69
+"2007-11","Camera Obscura",3
+"2007-11","Cocorosie",25
+"2007-11","Elliott Smith",38
+"2007-11","Etta James",2
+"2007-11","Giant Drag",6
+"2007-11","Joy Division",28
+"2007-11","Lily Allen",5
+"2007-11","Massive Attack",3
+"2007-11","Nico",1
+"2007-11","Nouvelle Vague",21
+"2007-11","Radiohead",180
+"2007-11","Regina Spektor",2
+"2007-11","Rufus Wainwright",13
+"2007-11","The Beatles",27
+"2007-11","The Shins",41
+"2007-11","The Velvet Underground",127
+"2007-12","Air",27
+"2007-12","Al Green",10
+"2007-12","Beck",4
+"2007-12","Billie Holiday",26
+"2007-12","Camera Obscura",5
+"2007-12","Cocorosie",5
+"2007-12","Elliott Smith",11
+"2007-12","Etta James",2
+"2007-12","Giant Drag",6
+"2007-12","Joy Division",11
+"2007-12","Lily Allen",3
+"2007-12","Massive Attack",1
+"2007-12","Nico",3
+"2007-12","Nouvelle Vague",24
+"2007-12","Radiohead",19
+"2007-12","Regina Spektor",0
+"2007-12","Rufus Wainwright",1
+"2007-12","The Beatles",31
+"2007-12","The Shins",4
+"2007-12","The Velvet Underground",17
+"2008-01","Air",6
+"2008-01","Al Green",2
+"2008-01","Beck",10
+"2008-01","Billie Holiday",43
+"2008-01","Camera Obscura",21
+"2008-01","Cocorosie",117
+"2008-01","Elliott Smith",31
+"2008-01","Etta James",3
+"2008-01","Giant Drag",3
+"2008-01","Joy Division",10
+"2008-01","Lily Allen",14
+"2008-01","Massive Attack",1
+"2008-01","Nico",1
+"2008-01","Nouvelle Vague",8
+"2008-01","Radiohead",14
+"2008-01","Regina Spektor",38
+"2008-01","Rufus Wainwright",13
+"2008-01","The Beatles",29
+"2008-01","The Shins",23
+"2008-01","The Velvet Underground",23
+"2008-02","Air",22
+"2008-02","Al Green",7
+"2008-02","Beck",24
+"2008-02","Billie Holiday",14
+"2008-02","Camera Obscura",7
+"2008-02","Cocorosie",5
+"2008-02","Elliott Smith",4
+"2008-02","Etta James",1
+"2008-02","Giant Drag",2
+"2008-02","Joy Division",107
+"2008-02","Lily Allen",4
+"2008-02","Massive Attack",9
+"2008-02","Nico",3
+"2008-02","Nouvelle Vague",19
+"2008-02","Radiohead",11
+"2008-02","Regina Spektor",9
+"2008-02","Rufus Wainwright",4
+"2008-02","The Beatles",12
+"2008-02","The Shins",1
+"2008-02","The Velvet Underground",27
+"2008-03","Air",13
+"2008-03","Al Green",7
+"2008-03","Beck",7
+"2008-03","Billie Holiday",11
+"2008-03","Camera Obscura",3
+"2008-03","Cocorosie",9
+"2008-03","Elliott Smith",14
+"2008-03","Etta James",14
+"2008-03","Giant Drag",4
+"2008-03","Joy Division",10
+"2008-03","Lily Allen",1
+"2008-03","Massive Attack",2
+"2008-03","Nico",6
+"2008-03","Nouvelle Vague",2
+"2008-03","Radiohead",20
+"2008-03","Regina Spektor",0
+"2008-03","Rufus Wainwright",1
+"2008-03","The Beatles",15
+"2008-03","The Shins",2
+"2008-03","The Velvet Underground",7
+"2008-04","Air",11
+"2008-04","Al Green",7
+"2008-04","Beck",0
+"2008-04","Billie Holiday",9
+"2008-04","Camera Obscura",6
+"2008-04","Cocorosie",7
+"2008-04","Elliott Smith",4
+"2008-04","Etta James",6
+"2008-04","Giant Drag",1
+"2008-04","Joy Division",4
+"2008-04","Lily Allen",6
+"2008-04","Massive Attack",12
+"2008-04","Nico",0
+"2008-04","Nouvelle Vague",8
+"2008-04","Radiohead",20
+"2008-04","Regina Spektor",1
+"2008-04","Rufus Wainwright",3
+"2008-04","The Beatles",0
+"2008-04","The Shins",1
+"2008-04","The Velvet Underground",18
+"2008-05","Air",11
+"2008-05","Al Green",5
+"2008-05","Beck",3
+"2008-05","Billie Holiday",36
+"2008-05","Camera Obscura",3
+"2008-05","Cocorosie",9
+"2008-05","Elliott Smith",3
+"2008-05","Etta James",2
+"2008-05","Giant Drag",0
+"2008-05","Joy Division",6
+"2008-05","Lily Allen",4
+"2008-05","Massive Attack",1
+"2008-05","Nico",0
+"2008-05","Nouvelle Vague",2
+"2008-05","Radiohead",9
+"2008-05","Regina Spektor",1
+"2008-05","Rufus Wainwright",0
+"2008-05","The Beatles",9
+"2008-05","The Shins",27
+"2008-05","The Velvet Underground",4
+"2008-06","Air",6
+"2008-06","Al Green",4
+"2008-06","Beck",1
+"2008-06","Billie Holiday",162
+"2008-06","Camera Obscura",31
+"2008-06","Cocorosie",4
+"2008-06","Elliott Smith",13
+"2008-06","Etta James",2
+"2008-06","Giant Drag",4
+"2008-06","Joy Division",28
+"2008-06","Lily Allen",1
+"2008-06","Massive Attack",1
+"2008-06","Nico",1
+"2008-06","Nouvelle Vague",15
+"2008-06","Radiohead",48
+"2008-06","Regina Spektor",3
+"2008-06","Rufus Wainwright",7
+"2008-06","The Beatles",2
+"2008-06","The Shins",19
+"2008-06","The Velvet Underground",32
+"2008-07","Air",24
+"2008-07","Al Green",10
+"2008-07","Beck",5
+"2008-07","Billie Holiday",38
+"2008-07","Camera Obscura",26
+"2008-07","Cocorosie",0
+"2008-07","Elliott Smith",13
+"2008-07","Etta James",0
+"2008-07","Giant Drag",0
+"2008-07","Joy Division",28
+"2008-07","Lily Allen",17
+"2008-07","Massive Attack",3
+"2008-07","Nico",0
+"2008-07","Nouvelle Vague",5
+"2008-07","Radiohead",22
+"2008-07","Regina Spektor",16
+"2008-07","Rufus Wainwright",1
+"2008-07","The Beatles",1
+"2008-07","The Shins",17
+"2008-07","The Velvet Underground",53
+"2008-08","Air",13
+"2008-08","Al Green",3
+"2008-08","Beck",83
+"2008-08","Billie Holiday",126
+"2008-08","Camera Obscura",18
+"2008-08","Cocorosie",22
+"2008-08","Elliott Smith",23
+"2008-08","Etta James",1
+"2008-08","Giant Drag",0
+"2008-08","Joy Division",3
+"2008-08","Lily Allen",35
+"2008-08","Massive Attack",0
+"2008-08","Nico",1
+"2008-08","Nouvelle Vague",22
+"2008-08","Radiohead",3
+"2008-08","Regina Spektor",29
+"2008-08","Rufus Wainwright",1
+"2008-08","The Beatles",49
+"2008-08","The Shins",6
+"2008-08","The Velvet Underground",14
+"2008-09","Air",42
+"2008-09","Al Green",4
+"2008-09","Beck",33
+"2008-09","Billie Holiday",69
+"2008-09","Camera Obscura",10
+"2008-09","Cocorosie",4
+"2008-09","Elliott Smith",32
+"2008-09","Etta James",0
+"2008-09","Giant Drag",8
+"2008-09","Joy Division",73
+"2008-09","Lily Allen",30
+"2008-09","Massive Attack",6
+"2008-09","Nico",0
+"2008-09","Nouvelle Vague",2
+"2008-09","Radiohead",11
+"2008-09","Regina Spektor",11
+"2008-09","Rufus Wainwright",1
+"2008-09","The Beatles",37
+"2008-09","The Shins",1
+"2008-09","The Velvet Underground",35
+"2008-10","Air",32
+"2008-10","Al Green",9
+"2008-10","Beck",9
+"2008-10","Billie Holiday",111
+"2008-10","Camera Obscura",20
+"2008-10","Cocorosie",8
+"2008-10","Elliott Smith",55
+"2008-10","Etta James",0
+"2008-10","Giant Drag",1
+"2008-10","Joy Division",30
+"2008-10","Lily Allen",16
+"2008-10","Massive Attack",0
+"2008-10","Nico",1
+"2008-10","Nouvelle Vague",2
+"2008-10","Radiohead",5
+"2008-10","Regina Spektor",0
+"2008-10","Rufus Wainwright",2
+"2008-10","The Beatles",59
+"2008-10","The Shins",26
+"2008-10","The Velvet Underground",46
+"2008-11","Air",13
+"2008-11","Al Green",7
+"2008-11","Beck",3
+"2008-11","Billie Holiday",29
+"2008-11","Camera Obscura",2
+"2008-11","Cocorosie",6
+"2008-11","Elliott Smith",14
+"2008-11","Etta James",3
+"2008-11","Giant Drag",22
+"2008-11","Joy Division",5
+"2008-11","Lily Allen",2
+"2008-11","Massive Attack",9
+"2008-11","Nico",1
+"2008-11","Nouvelle Vague",16
+"2008-11","Radiohead",14
+"2008-11","Regina Spektor",1
+"2008-11","Rufus Wainwright",11
+"2008-11","The Beatles",2
+"2008-11","The Shins",15
+"2008-11","The Velvet Underground",68
+"2008-12","Air",9
+"2008-12","Al Green",8
+"2008-12","Beck",9
+"2008-12","Billie Holiday",133
+"2008-12","Camera Obscura",0
+"2008-12","Cocorosie",7
+"2008-12","Elliott Smith",2
+"2008-12","Etta James",5
+"2008-12","Giant Drag",16
+"2008-12","Joy Division",6
+"2008-12","Lily Allen",11
+"2008-12","Massive Attack",5
+"2008-12","Nico",10
+"2008-12","Nouvelle Vague",7
+"2008-12","Radiohead",4
+"2008-12","Regina Spektor",1
+"2008-12","Rufus Wainwright",0
+"2008-12","The Beatles",19
+"2008-12","The Shins",8
+"2008-12","The Velvet Underground",40
+"2009-01","Air",17
+"2009-01","Al Green",14
+"2009-01","Beck",1
+"2009-01","Billie Holiday",174
+"2009-01","Camera Obscura",22
+"2009-01","Cocorosie",10
+"2009-01","Elliott Smith",28
+"2009-01","Etta James",9
+"2009-01","Giant Drag",2
+"2009-01","Joy Division",49
+"2009-01","Lily Allen",1
+"2009-01","Massive Attack",1
+"2009-01","Nico",2
+"2009-01","Nouvelle Vague",11
+"2009-01","Radiohead",3
+"2009-01","Regina Spektor",1
+"2009-01","Rufus Wainwright",10
+"2009-01","The Beatles",1
+"2009-01","The Shins",14
+"2009-01","The Velvet Underground",75
+"2009-02","Air",8
+"2009-02","Al Green",7
+"2009-02","Beck",9
+"2009-02","Billie Holiday",44
+"2009-02","Camera Obscura",2
+"2009-02","Cocorosie",4
+"2009-02","Elliott Smith",1
+"2009-02","Etta James",6
+"2009-02","Giant Drag",12
+"2009-02","Joy Division",4
+"2009-02","Lily Allen",9
+"2009-02","Massive Attack",8
+"2009-02","Nico",5
+"2009-02","Nouvelle Vague",1
+"2009-02","Radiohead",0
+"2009-02","Regina Spektor",5
+"2009-02","Rufus Wainwright",3
+"2009-02","The Beatles",12
+"2009-02","The Shins",73
+"2009-02","The Velvet Underground",31
+"2009-03","Air",8
+"2009-03","Al Green",7
+"2009-03","Beck",1
+"2009-03","Billie Holiday",59
+"2009-03","Camera Obscura",3
+"2009-03","Cocorosie",13
+"2009-03","Elliott Smith",39
+"2009-03","Etta James",7
+"2009-03","Giant Drag",127
+"2009-03","Joy Division",7
+"2009-03","Lily Allen",16
+"2009-03","Massive Attack",6
+"2009-03","Nico",3
+"2009-03","Nouvelle Vague",8
+"2009-03","Radiohead",5
+"2009-03","Regina Spektor",0
+"2009-03","Rufus Wainwright",9
+"2009-03","The Beatles",9
+"2009-03","The Shins",10
+"2009-03","The Velvet Underground",9
+"2009-04","Air",1
+"2009-04","Al Green",1
+"2009-04","Beck",0
+"2009-04","Billie Holiday",25
+"2009-04","Camera Obscura",0
+"2009-04","Cocorosie",0
+"2009-04","Elliott Smith",2
+"2009-04","Etta James",1
+"2009-04","Giant Drag",0
+"2009-04","Joy Division",0
+"2009-04","Lily Allen",0
+"2009-04","Massive Attack",0
+"2009-04","Nico",0
+"2009-04","Nouvelle Vague",18
+"2009-04","Radiohead",0
+"2009-04","Regina Spektor",1
+"2009-04","Rufus Wainwright",0
+"2009-04","The Beatles",3
+"2009-04","The Shins",2
+"2009-04","The Velvet Underground",8

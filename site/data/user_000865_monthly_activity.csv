@@ -1,61 +1,61 @@
-month,artist,plays
-2009-03,Antitodor,4
-2009-03,Azra,249
-2009-03,Beirut,57
-2009-03,Belfast Food,4
-2009-03,Bob Marley,4
-2009-03,Čovek Bez Sluha,66
-2009-03,Crowd 2049,22
-2009-03,D Diplinzi,4
-2009-03,Darko Rundek,6
-2009-03,Death Cab For Cutie,93
-2009-03,Detour,1
-2009-03,Đorđe Balašević,144
-2009-03,Dread Zeppelin,12
-2009-03,Dropkick Murphys,54
-2009-03,Dubioza Kolektiv,3
-2009-03,Echo & The Bunnymen,30
-2009-03,Ekatarina Velika,53
-2009-03,Flare,2
-2009-03,Flogging Molly,155
-2009-03,Fnc Diverzant,9
-2009-04,Antitodor,3
-2009-04,Azra,149
-2009-04,Beirut,30
-2009-04,Belfast Food,18
-2009-04,Bob Marley,17
-2009-04,Čovek Bez Sluha,103
-2009-04,Crowd 2049,19
-2009-04,D Diplinzi,28
-2009-04,Darko Rundek,11
-2009-04,Death Cab For Cutie,18
-2009-04,Detour,14
-2009-04,Đorđe Balašević,76
-2009-04,Dread Zeppelin,3
-2009-04,Dropkick Murphys,10
-2009-04,Dubioza Kolektiv,15
-2009-04,Echo & The Bunnymen,11
-2009-04,Ekatarina Velika,106
-2009-04,Flare,11
-2009-04,Flogging Molly,22
-2009-04,Fnc Diverzant,14
-2009-05,Antitodor,1
-2009-05,Azra,6
-2009-05,Beirut,3
-2009-05,Belfast Food,3
-2009-05,Bob Marley,2
-2009-05,Čovek Bez Sluha,19
-2009-05,Crowd 2049,2
-2009-05,D Diplinzi,2
-2009-05,Darko Rundek,3
-2009-05,Death Cab For Cutie,3
-2009-05,Detour,3
-2009-05,Đorđe Balašević,11
-2009-05,Dread Zeppelin,1
-2009-05,Dropkick Murphys,2
-2009-05,Dubioza Kolektiv,2
-2009-05,Echo & The Bunnymen,2
-2009-05,Ekatarina Velika,5
-2009-05,Flare,3
-2009-05,Flogging Molly,3
-2009-05,Fnc Diverzant,3
+"month","artist","plays"
+"2009-03","Antitodor",4
+"2009-03","Azra",249
+"2009-03","Beirut",57
+"2009-03","Belfast Food",4
+"2009-03","Bob Marley",4
+"2009-03","Čovek Bez Sluha",66
+"2009-03","Crowd 2049",22
+"2009-03","D Diplinzi",4
+"2009-03","Darko Rundek",6
+"2009-03","Death Cab For Cutie",93
+"2009-03","Detour",1
+"2009-03","Đorđe Balašević",144
+"2009-03","Dread Zeppelin",12
+"2009-03","Dropkick Murphys",54
+"2009-03","Dubioza Kolektiv",3
+"2009-03","Echo & The Bunnymen",30
+"2009-03","Ekatarina Velika",53
+"2009-03","Flare",2
+"2009-03","Flogging Molly",155
+"2009-03","Fnc Diverzant",9
+"2009-04","Antitodor",3
+"2009-04","Azra",149
+"2009-04","Beirut",30
+"2009-04","Belfast Food",18
+"2009-04","Bob Marley",17
+"2009-04","Čovek Bez Sluha",103
+"2009-04","Crowd 2049",19
+"2009-04","D Diplinzi",28
+"2009-04","Darko Rundek",11
+"2009-04","Death Cab For Cutie",18
+"2009-04","Detour",14
+"2009-04","Đorđe Balašević",76
+"2009-04","Dread Zeppelin",3
+"2009-04","Dropkick Murphys",10
+"2009-04","Dubioza Kolektiv",15
+"2009-04","Echo & The Bunnymen",11
+"2009-04","Ekatarina Velika",106
+"2009-04","Flare",11
+"2009-04","Flogging Molly",22
+"2009-04","Fnc Diverzant",14
+"2009-05","Antitodor",1
+"2009-05","Azra",6
+"2009-05","Beirut",3
+"2009-05","Belfast Food",3
+"2009-05","Bob Marley",2
+"2009-05","Čovek Bez Sluha",19
+"2009-05","Crowd 2049",2
+"2009-05","D Diplinzi",2
+"2009-05","Darko Rundek",3
+"2009-05","Death Cab For Cutie",3
+"2009-05","Detour",3
+"2009-05","Đorđe Balašević",11
+"2009-05","Dread Zeppelin",1
+"2009-05","Dropkick Murphys",2
+"2009-05","Dubioza Kolektiv",2
+"2009-05","Echo & The Bunnymen",2
+"2009-05","Ekatarina Velika",5
+"2009-05","Flare",3
+"2009-05","Flogging Molly",3
+"2009-05","Fnc Diverzant",3

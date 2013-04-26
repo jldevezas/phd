@@ -1,461 +1,461 @@
-month,artist,plays
-2007-07,Andrew Bird,3
-2007-07,Arcade Fire,2
-2007-07,Broken Social Scene,9
-2007-07,Cat Power,11
-2007-07,Elliott Smith,24
-2007-07,Feist,70
-2007-07,Fiona Apple,8
-2007-07,Franz Ferdinand,13
-2007-07,Giant Drag,4
-2007-07,Gwen Stefani,19
-2007-07,Hot Chip,3
-2007-07,Jeff Buckley,22
-2007-07,Jens Lekman,90
-2007-07,Kings Of Convenience,5
-2007-07,Lily Allen,11
-2007-07,No Doubt,5
-2007-07,Nouvelle Vague,21
-2007-07,Radiohead,8
-2007-07,Rilo Kiley,28
-2007-07,Tori Amos,3
-2007-08,Andrew Bird,4
-2007-08,Arcade Fire,9
-2007-08,Broken Social Scene,15
-2007-08,Cat Power,8
-2007-08,Elliott Smith,15
-2007-08,Feist,117
-2007-08,Fiona Apple,16
-2007-08,Franz Ferdinand,9
-2007-08,Giant Drag,8
-2007-08,Gwen Stefani,27
-2007-08,Hot Chip,5
-2007-08,Jeff Buckley,18
-2007-08,Jens Lekman,57
-2007-08,Kings Of Convenience,7
-2007-08,Lily Allen,19
-2007-08,No Doubt,44
-2007-08,Nouvelle Vague,67
-2007-08,Radiohead,6
-2007-08,Rilo Kiley,105
-2007-08,Tori Amos,17
-2007-09,Andrew Bird,17
-2007-09,Arcade Fire,3
-2007-09,Broken Social Scene,1
-2007-09,Cat Power,6
-2007-09,Elliott Smith,13
-2007-09,Feist,220
-2007-09,Fiona Apple,37
-2007-09,Franz Ferdinand,5
-2007-09,Giant Drag,10
-2007-09,Gwen Stefani,24
-2007-09,Hot Chip,11
-2007-09,Jeff Buckley,16
-2007-09,Jens Lekman,80
-2007-09,Kings Of Convenience,6
-2007-09,Lily Allen,9
-2007-09,No Doubt,13
-2007-09,Nouvelle Vague,23
-2007-09,Radiohead,2
-2007-09,Rilo Kiley,155
-2007-09,Tori Amos,4
-2007-10,Andrew Bird,2
-2007-10,Arcade Fire,2
-2007-10,Broken Social Scene,7
-2007-10,Cat Power,7
-2007-10,Elliott Smith,20
-2007-10,Feist,60
-2007-10,Fiona Apple,6
-2007-10,Franz Ferdinand,2
-2007-10,Giant Drag,4
-2007-10,Gwen Stefani,50
-2007-10,Hot Chip,4
-2007-10,Jeff Buckley,10
-2007-10,Jens Lekman,92
-2007-10,Kings Of Convenience,12
-2007-10,Lily Allen,4
-2007-10,No Doubt,6
-2007-10,Nouvelle Vague,29
-2007-10,Radiohead,4
-2007-10,Rilo Kiley,47
-2007-10,Tori Amos,27
-2007-11,Andrew Bird,4
-2007-11,Arcade Fire,5
-2007-11,Broken Social Scene,1
-2007-11,Cat Power,12
-2007-11,Elliott Smith,5
-2007-11,Feist,72
-2007-11,Fiona Apple,16
-2007-11,Franz Ferdinand,5
-2007-11,Giant Drag,4
-2007-11,Gwen Stefani,29
-2007-11,Hot Chip,9
-2007-11,Jeff Buckley,17
-2007-11,Jens Lekman,118
-2007-11,Kings Of Convenience,40
-2007-11,Lily Allen,5
-2007-11,No Doubt,24
-2007-11,Nouvelle Vague,19
-2007-11,Radiohead,28
-2007-11,Rilo Kiley,20
-2007-11,Tori Amos,1
-2007-12,Andrew Bird,4
-2007-12,Arcade Fire,6
-2007-12,Broken Social Scene,4
-2007-12,Cat Power,9
-2007-12,Elliott Smith,7
-2007-12,Feist,48
-2007-12,Fiona Apple,10
-2007-12,Franz Ferdinand,3
-2007-12,Giant Drag,7
-2007-12,Gwen Stefani,16
-2007-12,Hot Chip,6
-2007-12,Jeff Buckley,13
-2007-12,Jens Lekman,56
-2007-12,Kings Of Convenience,47
-2007-12,Lily Allen,5
-2007-12,No Doubt,14
-2007-12,Nouvelle Vague,19
-2007-12,Radiohead,5
-2007-12,Rilo Kiley,51
-2007-12,Tori Amos,4
-2008-01,Andrew Bird,2
-2008-01,Arcade Fire,1
-2008-01,Broken Social Scene,3
-2008-01,Cat Power,54
-2008-01,Elliott Smith,1
-2008-01,Feist,48
-2008-01,Fiona Apple,11
-2008-01,Franz Ferdinand,4
-2008-01,Giant Drag,1
-2008-01,Gwen Stefani,4
-2008-01,Hot Chip,1
-2008-01,Jeff Buckley,4
-2008-01,Jens Lekman,37
-2008-01,Kings Of Convenience,15
-2008-01,Lily Allen,2
-2008-01,No Doubt,15
-2008-01,Nouvelle Vague,25
-2008-01,Radiohead,5
-2008-01,Rilo Kiley,26
-2008-01,Tori Amos,6
-2008-02,Andrew Bird,3
-2008-02,Arcade Fire,8
-2008-02,Broken Social Scene,3
-2008-02,Cat Power,11
-2008-02,Elliott Smith,15
-2008-02,Feist,32
-2008-02,Fiona Apple,3
-2008-02,Franz Ferdinand,1
-2008-02,Giant Drag,1
-2008-02,Gwen Stefani,27
-2008-02,Hot Chip,21
-2008-02,Jeff Buckley,5
-2008-02,Jens Lekman,17
-2008-02,Kings Of Convenience,32
-2008-02,Lily Allen,3
-2008-02,No Doubt,6
-2008-02,Nouvelle Vague,13
-2008-02,Radiohead,1
-2008-02,Rilo Kiley,13
-2008-02,Tori Amos,1
-2008-03,Andrew Bird,3
-2008-03,Arcade Fire,7
-2008-03,Broken Social Scene,5
-2008-03,Cat Power,10
-2008-03,Elliott Smith,1
-2008-03,Feist,34
-2008-03,Fiona Apple,7
-2008-03,Franz Ferdinand,1
-2008-03,Giant Drag,7
-2008-03,Gwen Stefani,7
-2008-03,Hot Chip,32
-2008-03,Jeff Buckley,14
-2008-03,Jens Lekman,59
-2008-03,Kings Of Convenience,12
-2008-03,Lily Allen,5
-2008-03,No Doubt,5
-2008-03,Nouvelle Vague,6
-2008-03,Radiohead,5
-2008-03,Rilo Kiley,16
-2008-03,Tori Amos,5
-2008-04,Andrew Bird,5
-2008-04,Arcade Fire,5
-2008-04,Broken Social Scene,5
-2008-04,Cat Power,14
-2008-04,Elliott Smith,1
-2008-04,Feist,18
-2008-04,Fiona Apple,11
-2008-04,Franz Ferdinand,2
-2008-04,Giant Drag,6
-2008-04,Gwen Stefani,40
-2008-04,Hot Chip,10
-2008-04,Jeff Buckley,13
-2008-04,Jens Lekman,27
-2008-04,Kings Of Convenience,15
-2008-04,Lily Allen,7
-2008-04,No Doubt,8
-2008-04,Nouvelle Vague,36
-2008-04,Radiohead,2
-2008-04,Rilo Kiley,15
-2008-04,Tori Amos,14
-2008-05,Andrew Bird,2
-2008-05,Arcade Fire,4
-2008-05,Broken Social Scene,5
-2008-05,Cat Power,24
-2008-05,Elliott Smith,3
-2008-05,Feist,54
-2008-05,Fiona Apple,5
-2008-05,Franz Ferdinand,3
-2008-05,Giant Drag,6
-2008-05,Gwen Stefani,20
-2008-05,Hot Chip,15
-2008-05,Jeff Buckley,13
-2008-05,Jens Lekman,78
-2008-05,Kings Of Convenience,29
-2008-05,Lily Allen,5
-2008-05,No Doubt,94
-2008-05,Nouvelle Vague,42
-2008-05,Radiohead,9
-2008-05,Rilo Kiley,44
-2008-05,Tori Amos,12
-2008-06,Andrew Bird,4
-2008-06,Arcade Fire,9
-2008-06,Broken Social Scene,6
-2008-06,Cat Power,10
-2008-06,Elliott Smith,29
-2008-06,Feist,30
-2008-06,Fiona Apple,12
-2008-06,Franz Ferdinand,7
-2008-06,Giant Drag,1
-2008-06,Gwen Stefani,20
-2008-06,Hot Chip,16
-2008-06,Jeff Buckley,19
-2008-06,Jens Lekman,39
-2008-06,Kings Of Convenience,67
-2008-06,Lily Allen,3
-2008-06,No Doubt,34
-2008-06,Nouvelle Vague,33
-2008-06,Radiohead,10
-2008-06,Rilo Kiley,33
-2008-06,Tori Amos,45
-2008-07,Andrew Bird,15
-2008-07,Arcade Fire,10
-2008-07,Broken Social Scene,3
-2008-07,Cat Power,18
-2008-07,Elliott Smith,12
-2008-07,Feist,53
-2008-07,Fiona Apple,19
-2008-07,Franz Ferdinand,11
-2008-07,Giant Drag,2
-2008-07,Gwen Stefani,22
-2008-07,Hot Chip,21
-2008-07,Jeff Buckley,14
-2008-07,Jens Lekman,77
-2008-07,Kings Of Convenience,37
-2008-07,Lily Allen,2
-2008-07,No Doubt,48
-2008-07,Nouvelle Vague,41
-2008-07,Radiohead,12
-2008-07,Rilo Kiley,40
-2008-07,Tori Amos,33
-2008-08,Andrew Bird,3
-2008-08,Arcade Fire,6
-2008-08,Broken Social Scene,7
-2008-08,Cat Power,6
-2008-08,Elliott Smith,8
-2008-08,Feist,67
-2008-08,Fiona Apple,11
-2008-08,Franz Ferdinand,5
-2008-08,Giant Drag,1
-2008-08,Gwen Stefani,10
-2008-08,Hot Chip,9
-2008-08,Jeff Buckley,5
-2008-08,Jens Lekman,22
-2008-08,Kings Of Convenience,31
-2008-08,Lily Allen,2
-2008-08,No Doubt,10
-2008-08,Nouvelle Vague,48
-2008-08,Radiohead,7
-2008-08,Rilo Kiley,28
-2008-08,Tori Amos,12
-2008-09,Andrew Bird,8
-2008-09,Arcade Fire,4
-2008-09,Broken Social Scene,7
-2008-09,Cat Power,19
-2008-09,Elliott Smith,7
-2008-09,Feist,106
-2008-09,Fiona Apple,8
-2008-09,Franz Ferdinand,2
-2008-09,Giant Drag,3
-2008-09,Gwen Stefani,5
-2008-09,Hot Chip,15
-2008-09,Jeff Buckley,11
-2008-09,Jens Lekman,26
-2008-09,Kings Of Convenience,34
-2008-09,Lily Allen,1
-2008-09,No Doubt,18
-2008-09,Nouvelle Vague,34
-2008-09,Radiohead,14
-2008-09,Rilo Kiley,46
-2008-09,Tori Amos,24
-2008-10,Andrew Bird,10
-2008-10,Arcade Fire,12
-2008-10,Broken Social Scene,11
-2008-10,Cat Power,18
-2008-10,Elliott Smith,13
-2008-10,Feist,20
-2008-10,Fiona Apple,15
-2008-10,Franz Ferdinand,11
-2008-10,Giant Drag,2
-2008-10,Gwen Stefani,13
-2008-10,Hot Chip,10
-2008-10,Jeff Buckley,6
-2008-10,Jens Lekman,30
-2008-10,Kings Of Convenience,23
-2008-10,Lily Allen,11
-2008-10,No Doubt,8
-2008-10,Nouvelle Vague,24
-2008-10,Radiohead,13
-2008-10,Rilo Kiley,76
-2008-10,Tori Amos,14
-2008-11,Andrew Bird,16
-2008-11,Arcade Fire,8
-2008-11,Broken Social Scene,7
-2008-11,Cat Power,8
-2008-11,Elliott Smith,8
-2008-11,Feist,42
-2008-11,Fiona Apple,17
-2008-11,Franz Ferdinand,14
-2008-11,Giant Drag,2
-2008-11,Gwen Stefani,11
-2008-11,Hot Chip,24
-2008-11,Jeff Buckley,10
-2008-11,Jens Lekman,56
-2008-11,Kings Of Convenience,31
-2008-11,Lily Allen,7
-2008-11,No Doubt,54
-2008-11,Nouvelle Vague,32
-2008-11,Radiohead,10
-2008-11,Rilo Kiley,38
-2008-11,Tori Amos,11
-2008-12,Andrew Bird,7
-2008-12,Arcade Fire,20
-2008-12,Broken Social Scene,4
-2008-12,Cat Power,8
-2008-12,Elliott Smith,14
-2008-12,Feist,58
-2008-12,Fiona Apple,12
-2008-12,Franz Ferdinand,11
-2008-12,Giant Drag,4
-2008-12,Gwen Stefani,2
-2008-12,Hot Chip,15
-2008-12,Jeff Buckley,10
-2008-12,Jens Lekman,24
-2008-12,Kings Of Convenience,32
-2008-12,Lily Allen,7
-2008-12,No Doubt,14
-2008-12,Nouvelle Vague,59
-2008-12,Radiohead,12
-2008-12,Rilo Kiley,52
-2008-12,Tori Amos,5
-2009-01,Andrew Bird,28
-2009-01,Arcade Fire,4
-2009-01,Broken Social Scene,2
-2009-01,Cat Power,3
-2009-01,Elliott Smith,3
-2009-01,Feist,35
-2009-01,Fiona Apple,12
-2009-01,Franz Ferdinand,106
-2009-01,Giant Drag,0
-2009-01,Gwen Stefani,0
-2009-01,Hot Chip,8
-2009-01,Jeff Buckley,12
-2009-01,Jens Lekman,26
-2009-01,Kings Of Convenience,18
-2009-01,Lily Allen,8
-2009-01,No Doubt,13
-2009-01,Nouvelle Vague,21
-2009-01,Radiohead,20
-2009-01,Rilo Kiley,76
-2009-01,Tori Amos,9
-2009-02,Andrew Bird,4
-2009-02,Arcade Fire,1
-2009-02,Broken Social Scene,3
-2009-02,Cat Power,4
-2009-02,Elliott Smith,5
-2009-02,Feist,29
-2009-02,Fiona Apple,10
-2009-02,Franz Ferdinand,106
-2009-02,Giant Drag,2
-2009-02,Gwen Stefani,4
-2009-02,Hot Chip,8
-2009-02,Jeff Buckley,13
-2009-02,Jens Lekman,14
-2009-02,Kings Of Convenience,40
-2009-02,Lily Allen,2
-2009-02,No Doubt,21
-2009-02,Nouvelle Vague,29
-2009-02,Radiohead,26
-2009-02,Rilo Kiley,48
-2009-02,Tori Amos,2
-2009-03,Andrew Bird,5
-2009-03,Arcade Fire,4
-2009-03,Broken Social Scene,4
-2009-03,Cat Power,1
-2009-03,Elliott Smith,36
-2009-03,Feist,30
-2009-03,Fiona Apple,6
-2009-03,Franz Ferdinand,23
-2009-03,Giant Drag,1
-2009-03,Gwen Stefani,2
-2009-03,Hot Chip,5
-2009-03,Jeff Buckley,8
-2009-03,Jens Lekman,28
-2009-03,Kings Of Convenience,21
-2009-03,Lily Allen,9
-2009-03,No Doubt,37
-2009-03,Nouvelle Vague,17
-2009-03,Radiohead,9
-2009-03,Rilo Kiley,32
-2009-03,Tori Amos,5
-2009-04,Andrew Bird,16
-2009-04,Arcade Fire,5
-2009-04,Broken Social Scene,4
-2009-04,Cat Power,7
-2009-04,Elliott Smith,2
-2009-04,Feist,22
-2009-04,Fiona Apple,3
-2009-04,Franz Ferdinand,6
-2009-04,Giant Drag,2
-2009-04,Gwen Stefani,1
-2009-04,Hot Chip,13
-2009-04,Jeff Buckley,23
-2009-04,Jens Lekman,20
-2009-04,Kings Of Convenience,13
-2009-04,Lily Allen,3
-2009-04,No Doubt,19
-2009-04,Nouvelle Vague,73
-2009-04,Radiohead,17
-2009-04,Rilo Kiley,16
-2009-04,Tori Amos,10
-2009-05,Andrew Bird,1
-2009-05,Arcade Fire,0
-2009-05,Broken Social Scene,0
-2009-05,Cat Power,0
-2009-05,Elliott Smith,0
-2009-05,Feist,0
-2009-05,Fiona Apple,1
-2009-05,Franz Ferdinand,1
-2009-05,Giant Drag,1
-2009-05,Gwen Stefani,1
-2009-05,Hot Chip,0
-2009-05,Jeff Buckley,1
-2009-05,Jens Lekman,0
-2009-05,Kings Of Convenience,0
-2009-05,Lily Allen,0
-2009-05,No Doubt,1
-2009-05,Nouvelle Vague,3
-2009-05,Radiohead,1
-2009-05,Rilo Kiley,1
-2009-05,Tori Amos,1
+"month","artist","plays"
+"2007-07","Andrew Bird",3
+"2007-07","Arcade Fire",2
+"2007-07","Broken Social Scene",9
+"2007-07","Cat Power",11
+"2007-07","Elliott Smith",24
+"2007-07","Feist",70
+"2007-07","Fiona Apple",8
+"2007-07","Franz Ferdinand",13
+"2007-07","Giant Drag",4
+"2007-07","Gwen Stefani",19
+"2007-07","Hot Chip",3
+"2007-07","Jeff Buckley",22
+"2007-07","Jens Lekman",90
+"2007-07","Kings Of Convenience",5
+"2007-07","Lily Allen",11
+"2007-07","No Doubt",5
+"2007-07","Nouvelle Vague",21
+"2007-07","Radiohead",8
+"2007-07","Rilo Kiley",28
+"2007-07","Tori Amos",3
+"2007-08","Andrew Bird",4
+"2007-08","Arcade Fire",9
+"2007-08","Broken Social Scene",15
+"2007-08","Cat Power",8
+"2007-08","Elliott Smith",15
+"2007-08","Feist",117
+"2007-08","Fiona Apple",16
+"2007-08","Franz Ferdinand",9
+"2007-08","Giant Drag",8
+"2007-08","Gwen Stefani",27
+"2007-08","Hot Chip",5
+"2007-08","Jeff Buckley",18
+"2007-08","Jens Lekman",57
+"2007-08","Kings Of Convenience",7
+"2007-08","Lily Allen",19
+"2007-08","No Doubt",44
+"2007-08","Nouvelle Vague",67
+"2007-08","Radiohead",6
+"2007-08","Rilo Kiley",105
+"2007-08","Tori Amos",17
+"2007-09","Andrew Bird",17
+"2007-09","Arcade Fire",3
+"2007-09","Broken Social Scene",1
+"2007-09","Cat Power",6
+"2007-09","Elliott Smith",13
+"2007-09","Feist",220
+"2007-09","Fiona Apple",37
+"2007-09","Franz Ferdinand",5
+"2007-09","Giant Drag",10
+"2007-09","Gwen Stefani",24
+"2007-09","Hot Chip",11
+"2007-09","Jeff Buckley",16
+"2007-09","Jens Lekman",80
+"2007-09","Kings Of Convenience",6
+"2007-09","Lily Allen",9
+"2007-09","No Doubt",13
+"2007-09","Nouvelle Vague",23
+"2007-09","Radiohead",2
+"2007-09","Rilo Kiley",155
+"2007-09","Tori Amos",4
+"2007-10","Andrew Bird",2
+"2007-10","Arcade Fire",2
+"2007-10","Broken Social Scene",7
+"2007-10","Cat Power",7
+"2007-10","Elliott Smith",20
+"2007-10","Feist",60
+"2007-10","Fiona Apple",6
+"2007-10","Franz Ferdinand",2
+"2007-10","Giant Drag",4
+"2007-10","Gwen Stefani",50
+"2007-10","Hot Chip",4
+"2007-10","Jeff Buckley",10
+"2007-10","Jens Lekman",92
+"2007-10","Kings Of Convenience",12
+"2007-10","Lily Allen",4
+"2007-10","No Doubt",6
+"2007-10","Nouvelle Vague",29
+"2007-10","Radiohead",4
+"2007-10","Rilo Kiley",47
+"2007-10","Tori Amos",27
+"2007-11","Andrew Bird",4
+"2007-11","Arcade Fire",5
+"2007-11","Broken Social Scene",1
+"2007-11","Cat Power",12
+"2007-11","Elliott Smith",5
+"2007-11","Feist",72
+"2007-11","Fiona Apple",16
+"2007-11","Franz Ferdinand",5
+"2007-11","Giant Drag",4
+"2007-11","Gwen Stefani",29
+"2007-11","Hot Chip",9
+"2007-11","Jeff Buckley",17
+"2007-11","Jens Lekman",118
+"2007-11","Kings Of Convenience",40
+"2007-11","Lily Allen",5
+"2007-11","No Doubt",24
+"2007-11","Nouvelle Vague",19
+"2007-11","Radiohead",28
+"2007-11","Rilo Kiley",20
+"2007-11","Tori Amos",1
+"2007-12","Andrew Bird",4
+"2007-12","Arcade Fire",6
+"2007-12","Broken Social Scene",4
+"2007-12","Cat Power",9
+"2007-12","Elliott Smith",7
+"2007-12","Feist",48
+"2007-12","Fiona Apple",10
+"2007-12","Franz Ferdinand",3
+"2007-12","Giant Drag",7
+"2007-12","Gwen Stefani",16
+"2007-12","Hot Chip",6
+"2007-12","Jeff Buckley",13
+"2007-12","Jens Lekman",56
+"2007-12","Kings Of Convenience",47
+"2007-12","Lily Allen",5
+"2007-12","No Doubt",14
+"2007-12","Nouvelle Vague",19
+"2007-12","Radiohead",5
+"2007-12","Rilo Kiley",51
+"2007-12","Tori Amos",4
+"2008-01","Andrew Bird",2
+"2008-01","Arcade Fire",1
+"2008-01","Broken Social Scene",3
+"2008-01","Cat Power",54
+"2008-01","Elliott Smith",1
+"2008-01","Feist",48
+"2008-01","Fiona Apple",11
+"2008-01","Franz Ferdinand",4
+"2008-01","Giant Drag",1
+"2008-01","Gwen Stefani",4
+"2008-01","Hot Chip",1
+"2008-01","Jeff Buckley",4
+"2008-01","Jens Lekman",37
+"2008-01","Kings Of Convenience",15
+"2008-01","Lily Allen",2
+"2008-01","No Doubt",15
+"2008-01","Nouvelle Vague",25
+"2008-01","Radiohead",5
+"2008-01","Rilo Kiley",26
+"2008-01","Tori Amos",6
+"2008-02","Andrew Bird",3
+"2008-02","Arcade Fire",8
+"2008-02","Broken Social Scene",3
+"2008-02","Cat Power",11
+"2008-02","Elliott Smith",15
+"2008-02","Feist",32
+"2008-02","Fiona Apple",3
+"2008-02","Franz Ferdinand",1
+"2008-02","Giant Drag",1
+"2008-02","Gwen Stefani",27
+"2008-02","Hot Chip",21
+"2008-02","Jeff Buckley",5
+"2008-02","Jens Lekman",17
+"2008-02","Kings Of Convenience",32
+"2008-02","Lily Allen",3
+"2008-02","No Doubt",6
+"2008-02","Nouvelle Vague",13
+"2008-02","Radiohead",1
+"2008-02","Rilo Kiley",13
+"2008-02","Tori Amos",1
+"2008-03","Andrew Bird",3
+"2008-03","Arcade Fire",7
+"2008-03","Broken Social Scene",5
+"2008-03","Cat Power",10
+"2008-03","Elliott Smith",1
+"2008-03","Feist",34
+"2008-03","Fiona Apple",7
+"2008-03","Franz Ferdinand",1
+"2008-03","Giant Drag",7
+"2008-03","Gwen Stefani",7
+"2008-03","Hot Chip",32
+"2008-03","Jeff Buckley",14
+"2008-03","Jens Lekman",59
+"2008-03","Kings Of Convenience",12
+"2008-03","Lily Allen",5
+"2008-03","No Doubt",5
+"2008-03","Nouvelle Vague",6
+"2008-03","Radiohead",5
+"2008-03","Rilo Kiley",16
+"2008-03","Tori Amos",5
+"2008-04","Andrew Bird",5
+"2008-04","Arcade Fire",5
+"2008-04","Broken Social Scene",5
+"2008-04","Cat Power",14
+"2008-04","Elliott Smith",1
+"2008-04","Feist",18
+"2008-04","Fiona Apple",11
+"2008-04","Franz Ferdinand",2
+"2008-04","Giant Drag",6
+"2008-04","Gwen Stefani",40
+"2008-04","Hot Chip",10
+"2008-04","Jeff Buckley",13
+"2008-04","Jens Lekman",27
+"2008-04","Kings Of Convenience",15
+"2008-04","Lily Allen",7
+"2008-04","No Doubt",8
+"2008-04","Nouvelle Vague",36
+"2008-04","Radiohead",2
+"2008-04","Rilo Kiley",15
+"2008-04","Tori Amos",14
+"2008-05","Andrew Bird",2
+"2008-05","Arcade Fire",4
+"2008-05","Broken Social Scene",5
+"2008-05","Cat Power",24
+"2008-05","Elliott Smith",3
+"2008-05","Feist",54
+"2008-05","Fiona Apple",5
+"2008-05","Franz Ferdinand",3
+"2008-05","Giant Drag",6
+"2008-05","Gwen Stefani",20
+"2008-05","Hot Chip",15
+"2008-05","Jeff Buckley",13
+"2008-05","Jens Lekman",78
+"2008-05","Kings Of Convenience",29
+"2008-05","Lily Allen",5
+"2008-05","No Doubt",94
+"2008-05","Nouvelle Vague",42
+"2008-05","Radiohead",9
+"2008-05","Rilo Kiley",44
+"2008-05","Tori Amos",12
+"2008-06","Andrew Bird",4
+"2008-06","Arcade Fire",9
+"2008-06","Broken Social Scene",6
+"2008-06","Cat Power",10
+"2008-06","Elliott Smith",29
+"2008-06","Feist",30
+"2008-06","Fiona Apple",12
+"2008-06","Franz Ferdinand",7
+"2008-06","Giant Drag",1
+"2008-06","Gwen Stefani",20
+"2008-06","Hot Chip",16
+"2008-06","Jeff Buckley",19
+"2008-06","Jens Lekman",39
+"2008-06","Kings Of Convenience",67
+"2008-06","Lily Allen",3
+"2008-06","No Doubt",34
+"2008-06","Nouvelle Vague",33
+"2008-06","Radiohead",10
+"2008-06","Rilo Kiley",33
+"2008-06","Tori Amos",45
+"2008-07","Andrew Bird",15
+"2008-07","Arcade Fire",10
+"2008-07","Broken Social Scene",3
+"2008-07","Cat Power",18
+"2008-07","Elliott Smith",12
+"2008-07","Feist",53
+"2008-07","Fiona Apple",19
+"2008-07","Franz Ferdinand",11
+"2008-07","Giant Drag",2
+"2008-07","Gwen Stefani",22
+"2008-07","Hot Chip",21
+"2008-07","Jeff Buckley",14
+"2008-07","Jens Lekman",77
+"2008-07","Kings Of Convenience",37
+"2008-07","Lily Allen",2
+"2008-07","No Doubt",48
+"2008-07","Nouvelle Vague",41
+"2008-07","Radiohead",12
+"2008-07","Rilo Kiley",40
+"2008-07","Tori Amos",33
+"2008-08","Andrew Bird",3
+"2008-08","Arcade Fire",6
+"2008-08","Broken Social Scene",7
+"2008-08","Cat Power",6
+"2008-08","Elliott Smith",8
+"2008-08","Feist",67
+"2008-08","Fiona Apple",11
+"2008-08","Franz Ferdinand",5
+"2008-08","Giant Drag",1
+"2008-08","Gwen Stefani",10
+"2008-08","Hot Chip",9
+"2008-08","Jeff Buckley",5
+"2008-08","Jens Lekman",22
+"2008-08","Kings Of Convenience",31
+"2008-08","Lily Allen",2
+"2008-08","No Doubt",10
+"2008-08","Nouvelle Vague",48
+"2008-08","Radiohead",7
+"2008-08","Rilo Kiley",28
+"2008-08","Tori Amos",12
+"2008-09","Andrew Bird",8
+"2008-09","Arcade Fire",4
+"2008-09","Broken Social Scene",7
+"2008-09","Cat Power",19
+"2008-09","Elliott Smith",7
+"2008-09","Feist",106
+"2008-09","Fiona Apple",8
+"2008-09","Franz Ferdinand",2
+"2008-09","Giant Drag",3
+"2008-09","Gwen Stefani",5
+"2008-09","Hot Chip",15
+"2008-09","Jeff Buckley",11
+"2008-09","Jens Lekman",26
+"2008-09","Kings Of Convenience",34
+"2008-09","Lily Allen",1
+"2008-09","No Doubt",18
+"2008-09","Nouvelle Vague",34
+"2008-09","Radiohead",14
+"2008-09","Rilo Kiley",46
+"2008-09","Tori Amos",24
+"2008-10","Andrew Bird",10
+"2008-10","Arcade Fire",12
+"2008-10","Broken Social Scene",11
+"2008-10","Cat Power",18
+"2008-10","Elliott Smith",13
+"2008-10","Feist",20
+"2008-10","Fiona Apple",15
+"2008-10","Franz Ferdinand",11
+"2008-10","Giant Drag",2
+"2008-10","Gwen Stefani",13
+"2008-10","Hot Chip",10
+"2008-10","Jeff Buckley",6
+"2008-10","Jens Lekman",30
+"2008-10","Kings Of Convenience",23
+"2008-10","Lily Allen",11
+"2008-10","No Doubt",8
+"2008-10","Nouvelle Vague",24
+"2008-10","Radiohead",13
+"2008-10","Rilo Kiley",76
+"2008-10","Tori Amos",14
+"2008-11","Andrew Bird",16
+"2008-11","Arcade Fire",8
+"2008-11","Broken Social Scene",7
+"2008-11","Cat Power",8
+"2008-11","Elliott Smith",8
+"2008-11","Feist",42
+"2008-11","Fiona Apple",17
+"2008-11","Franz Ferdinand",14
+"2008-11","Giant Drag",2
+"2008-11","Gwen Stefani",11
+"2008-11","Hot Chip",24
+"2008-11","Jeff Buckley",10
+"2008-11","Jens Lekman",56
+"2008-11","Kings Of Convenience",31
+"2008-11","Lily Allen",7
+"2008-11","No Doubt",54
+"2008-11","Nouvelle Vague",32
+"2008-11","Radiohead",10
+"2008-11","Rilo Kiley",38
+"2008-11","Tori Amos",11
+"2008-12","Andrew Bird",7
+"2008-12","Arcade Fire",20
+"2008-12","Broken Social Scene",4
+"2008-12","Cat Power",8
+"2008-12","Elliott Smith",14
+"2008-12","Feist",58
+"2008-12","Fiona Apple",12
+"2008-12","Franz Ferdinand",11
+"2008-12","Giant Drag",4
+"2008-12","Gwen Stefani",2
+"2008-12","Hot Chip",15
+"2008-12","Jeff Buckley",10
+"2008-12","Jens Lekman",24
+"2008-12","Kings Of Convenience",32
+"2008-12","Lily Allen",7
+"2008-12","No Doubt",14
+"2008-12","Nouvelle Vague",59
+"2008-12","Radiohead",12
+"2008-12","Rilo Kiley",52
+"2008-12","Tori Amos",5
+"2009-01","Andrew Bird",28
+"2009-01","Arcade Fire",4
+"2009-01","Broken Social Scene",2
+"2009-01","Cat Power",3
+"2009-01","Elliott Smith",3
+"2009-01","Feist",35
+"2009-01","Fiona Apple",12
+"2009-01","Franz Ferdinand",106
+"2009-01","Giant Drag",0
+"2009-01","Gwen Stefani",0
+"2009-01","Hot Chip",8
+"2009-01","Jeff Buckley",12
+"2009-01","Jens Lekman",26
+"2009-01","Kings Of Convenience",18
+"2009-01","Lily Allen",8
+"2009-01","No Doubt",13
+"2009-01","Nouvelle Vague",21
+"2009-01","Radiohead",20
+"2009-01","Rilo Kiley",76
+"2009-01","Tori Amos",9
+"2009-02","Andrew Bird",4
+"2009-02","Arcade Fire",1
+"2009-02","Broken Social Scene",3
+"2009-02","Cat Power",4
+"2009-02","Elliott Smith",5
+"2009-02","Feist",29
+"2009-02","Fiona Apple",10
+"2009-02","Franz Ferdinand",106
+"2009-02","Giant Drag",2
+"2009-02","Gwen Stefani",4
+"2009-02","Hot Chip",8
+"2009-02","Jeff Buckley",13
+"2009-02","Jens Lekman",14
+"2009-02","Kings Of Convenience",40
+"2009-02","Lily Allen",2
+"2009-02","No Doubt",21
+"2009-02","Nouvelle Vague",29
+"2009-02","Radiohead",26
+"2009-02","Rilo Kiley",48
+"2009-02","Tori Amos",2
+"2009-03","Andrew Bird",5
+"2009-03","Arcade Fire",4
+"2009-03","Broken Social Scene",4
+"2009-03","Cat Power",1
+"2009-03","Elliott Smith",36
+"2009-03","Feist",30
+"2009-03","Fiona Apple",6
+"2009-03","Franz Ferdinand",23
+"2009-03","Giant Drag",1
+"2009-03","Gwen Stefani",2
+"2009-03","Hot Chip",5
+"2009-03","Jeff Buckley",8
+"2009-03","Jens Lekman",28
+"2009-03","Kings Of Convenience",21
+"2009-03","Lily Allen",9
+"2009-03","No Doubt",37
+"2009-03","Nouvelle Vague",17
+"2009-03","Radiohead",9
+"2009-03","Rilo Kiley",32
+"2009-03","Tori Amos",5
+"2009-04","Andrew Bird",16
+"2009-04","Arcade Fire",5
+"2009-04","Broken Social Scene",4
+"2009-04","Cat Power",7
+"2009-04","Elliott Smith",2
+"2009-04","Feist",22
+"2009-04","Fiona Apple",3
+"2009-04","Franz Ferdinand",6
+"2009-04","Giant Drag",2
+"2009-04","Gwen Stefani",1
+"2009-04","Hot Chip",13
+"2009-04","Jeff Buckley",23
+"2009-04","Jens Lekman",20
+"2009-04","Kings Of Convenience",13
+"2009-04","Lily Allen",3
+"2009-04","No Doubt",19
+"2009-04","Nouvelle Vague",73
+"2009-04","Radiohead",17
+"2009-04","Rilo Kiley",16
+"2009-04","Tori Amos",10
+"2009-05","Andrew Bird",1
+"2009-05","Arcade Fire",0
+"2009-05","Broken Social Scene",0
+"2009-05","Cat Power",0
+"2009-05","Elliott Smith",0
+"2009-05","Feist",0
+"2009-05","Fiona Apple",1
+"2009-05","Franz Ferdinand",1
+"2009-05","Giant Drag",1
+"2009-05","Gwen Stefani",1
+"2009-05","Hot Chip",0
+"2009-05","Jeff Buckley",1
+"2009-05","Jens Lekman",0
+"2009-05","Kings Of Convenience",0
+"2009-05","Lily Allen",0
+"2009-05","No Doubt",1
+"2009-05","Nouvelle Vague",3
+"2009-05","Radiohead",1
+"2009-05","Rilo Kiley",1
+"2009-05","Tori Amos",1

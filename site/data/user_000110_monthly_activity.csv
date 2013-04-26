@@ -1,481 +1,481 @@
-month,artist,plays
-2007-05,1800S Sea Monster,5
-2007-05,Black Sabbath,0
-2007-05,Coldplay,0
-2007-05,Cool Kids Of Death,0
-2007-05,Dezerter,0
-2007-05,Galt Macdermot,0
-2007-05,Gorillaz,2
-2007-05,John Lennon,37
-2007-05,Kazik,0
-2007-05,Kazik Staszewski,0
-2007-05,La Minor,0
-2007-05,Mike Oldfield,0
-2007-05,Muchy,0
-2007-05,Myslovitz,0
-2007-05,Nirvana,1
-2007-05,Paul Anka,3
-2007-05,Rage Against The Machine,0
-2007-05,System Of A Down,22
-2007-05,The Beatles,37
-2007-05,The Rolling Stones,2
-2007-06,1800S Sea Monster,46
-2007-06,Black Sabbath,0
-2007-06,Coldplay,0
-2007-06,Cool Kids Of Death,0
-2007-06,Dezerter,0
-2007-06,Galt Macdermot,11
-2007-06,Gorillaz,0
-2007-06,John Lennon,30
-2007-06,Kazik,4
-2007-06,Kazik Staszewski,2
-2007-06,La Minor,0
-2007-06,Mike Oldfield,6
-2007-06,Muchy,1
-2007-06,Myslovitz,3
-2007-06,Nirvana,0
-2007-06,Paul Anka,26
-2007-06,Rage Against The Machine,1
-2007-06,System Of A Down,3
-2007-06,The Beatles,1
-2007-06,The Rolling Stones,1
-2007-07,1800S Sea Monster,80
-2007-07,Black Sabbath,0
-2007-07,Coldplay,3
-2007-07,Cool Kids Of Death,0
-2007-07,Dezerter,0
-2007-07,Galt Macdermot,73
-2007-07,Gorillaz,1
-2007-07,John Lennon,136
-2007-07,Kazik,1
-2007-07,Kazik Staszewski,0
-2007-07,La Minor,0
-2007-07,Mike Oldfield,17
-2007-07,Muchy,0
-2007-07,Myslovitz,45
-2007-07,Nirvana,12
-2007-07,Paul Anka,77
-2007-07,Rage Against The Machine,5
-2007-07,System Of A Down,2
-2007-07,The Beatles,448
-2007-07,The Rolling Stones,1
-2007-08,1800S Sea Monster,32
-2007-08,Black Sabbath,0
-2007-08,Coldplay,2
-2007-08,Cool Kids Of Death,95
-2007-08,Dezerter,0
-2007-08,Galt Macdermot,4
-2007-08,Gorillaz,0
-2007-08,John Lennon,52
-2007-08,Kazik,4
-2007-08,Kazik Staszewski,14
-2007-08,La Minor,0
-2007-08,Mike Oldfield,0
-2007-08,Muchy,0
-2007-08,Myslovitz,118
-2007-08,Nirvana,6
-2007-08,Paul Anka,33
-2007-08,Rage Against The Machine,1
-2007-08,System Of A Down,27
-2007-08,The Beatles,52
-2007-08,The Rolling Stones,2
-2007-09,1800S Sea Monster,15
-2007-09,Black Sabbath,2
-2007-09,Coldplay,5
-2007-09,Cool Kids Of Death,43
-2007-09,Dezerter,0
-2007-09,Galt Macdermot,58
-2007-09,Gorillaz,4
-2007-09,John Lennon,74
-2007-09,Kazik,3
-2007-09,Kazik Staszewski,13
-2007-09,La Minor,0
-2007-09,Mike Oldfield,1
-2007-09,Muchy,4
-2007-09,Myslovitz,26
-2007-09,Nirvana,6
-2007-09,Paul Anka,15
-2007-09,Rage Against The Machine,3
-2007-09,System Of A Down,61
-2007-09,The Beatles,16
-2007-09,The Rolling Stones,2
-2007-10,1800S Sea Monster,38
-2007-10,Black Sabbath,2
-2007-10,Coldplay,4
-2007-10,Cool Kids Of Death,40
-2007-10,Dezerter,28
-2007-10,Galt Macdermot,10
-2007-10,Gorillaz,0
-2007-10,John Lennon,22
-2007-10,Kazik,1
-2007-10,Kazik Staszewski,5
-2007-10,La Minor,0
-2007-10,Mike Oldfield,3
-2007-10,Muchy,0
-2007-10,Myslovitz,3
-2007-10,Nirvana,3
-2007-10,Paul Anka,39
-2007-10,Rage Against The Machine,119
-2007-10,System Of A Down,11
-2007-10,The Beatles,3
-2007-10,The Rolling Stones,3
-2007-11,1800S Sea Monster,6
-2007-11,Black Sabbath,1
-2007-11,Coldplay,1
-2007-11,Cool Kids Of Death,16
-2007-11,Dezerter,17
-2007-11,Galt Macdermot,7
-2007-11,Gorillaz,7
-2007-11,John Lennon,24
-2007-11,Kazik,2
-2007-11,Kazik Staszewski,0
-2007-11,La Minor,0
-2007-11,Mike Oldfield,3
-2007-11,Muchy,1
-2007-11,Myslovitz,0
-2007-11,Nirvana,3
-2007-11,Paul Anka,1
-2007-11,Rage Against The Machine,54
-2007-11,System Of A Down,37
-2007-11,The Beatles,2
-2007-11,The Rolling Stones,0
-2007-12,1800S Sea Monster,51
-2007-12,Black Sabbath,1
-2007-12,Coldplay,3
-2007-12,Cool Kids Of Death,16
-2007-12,Dezerter,0
-2007-12,Galt Macdermot,0
-2007-12,Gorillaz,110
-2007-12,John Lennon,8
-2007-12,Kazik,1
-2007-12,Kazik Staszewski,2
-2007-12,La Minor,0
-2007-12,Mike Oldfield,2
-2007-12,Muchy,0
-2007-12,Myslovitz,8
-2007-12,Nirvana,3
-2007-12,Paul Anka,6
-2007-12,Rage Against The Machine,12
-2007-12,System Of A Down,68
-2007-12,The Beatles,16
-2007-12,The Rolling Stones,1
-2008-01,1800S Sea Monster,5
-2008-01,Black Sabbath,0
-2008-01,Coldplay,0
-2008-01,Cool Kids Of Death,10
-2008-01,Dezerter,15
-2008-01,Galt Macdermot,0
-2008-01,Gorillaz,14
-2008-01,John Lennon,1
-2008-01,Kazik,2
-2008-01,Kazik Staszewski,3
-2008-01,La Minor,2
-2008-01,Mike Oldfield,1
-2008-01,Muchy,23
-2008-01,Myslovitz,2
-2008-01,Nirvana,0
-2008-01,Paul Anka,2
-2008-01,Rage Against The Machine,11
-2008-01,System Of A Down,1
-2008-01,The Beatles,4
-2008-01,The Rolling Stones,1
-2008-02,1800S Sea Monster,6
-2008-02,Black Sabbath,0
-2008-02,Coldplay,0
-2008-02,Cool Kids Of Death,0
-2008-02,Dezerter,0
-2008-02,Galt Macdermot,0
-2008-02,Gorillaz,1
-2008-02,John Lennon,1
-2008-02,Kazik,1
-2008-02,Kazik Staszewski,1
-2008-02,La Minor,0
-2008-02,Mike Oldfield,3
-2008-02,Muchy,2
-2008-02,Myslovitz,0
-2008-02,Nirvana,0
-2008-02,Paul Anka,0
-2008-02,Rage Against The Machine,0
-2008-02,System Of A Down,0
-2008-02,The Beatles,0
-2008-02,The Rolling Stones,0
-2008-03,1800S Sea Monster,14
-2008-03,Black Sabbath,0
-2008-03,Coldplay,1
-2008-03,Cool Kids Of Death,0
-2008-03,Dezerter,1
-2008-03,Galt Macdermot,0
-2008-03,Gorillaz,0
-2008-03,John Lennon,1
-2008-03,Kazik,0
-2008-03,Kazik Staszewski,0
-2008-03,La Minor,0
-2008-03,Mike Oldfield,0
-2008-03,Muchy,3
-2008-03,Myslovitz,0
-2008-03,Nirvana,0
-2008-03,Paul Anka,0
-2008-03,Rage Against The Machine,2
-2008-03,System Of A Down,0
-2008-03,The Beatles,1
-2008-03,The Rolling Stones,0
-2008-04,1800S Sea Monster,1
-2008-04,Black Sabbath,0
-2008-04,Coldplay,0
-2008-04,Cool Kids Of Death,50
-2008-04,Dezerter,2
-2008-04,Galt Macdermot,1
-2008-04,Gorillaz,6
-2008-04,John Lennon,7
-2008-04,Kazik,0
-2008-04,Kazik Staszewski,0
-2008-04,La Minor,8
-2008-04,Mike Oldfield,0
-2008-04,Muchy,57
-2008-04,Myslovitz,1
-2008-04,Nirvana,1
-2008-04,Paul Anka,1
-2008-04,Rage Against The Machine,1
-2008-04,System Of A Down,3
-2008-04,The Beatles,16
-2008-04,The Rolling Stones,1
-2008-05,1800S Sea Monster,0
-2008-05,Black Sabbath,21
-2008-05,Coldplay,37
-2008-05,Cool Kids Of Death,60
-2008-05,Dezerter,10
-2008-05,Galt Macdermot,10
-2008-05,Gorillaz,16
-2008-05,John Lennon,1
-2008-05,Kazik,1
-2008-05,Kazik Staszewski,0
-2008-05,La Minor,31
-2008-05,Mike Oldfield,3
-2008-05,Muchy,62
-2008-05,Myslovitz,26
-2008-05,Nirvana,18
-2008-05,Paul Anka,1
-2008-05,Rage Against The Machine,8
-2008-05,System Of A Down,32
-2008-05,The Beatles,14
-2008-05,The Rolling Stones,7
-2008-06,1800S Sea Monster,0
-2008-06,Black Sabbath,5
-2008-06,Coldplay,5
-2008-06,Cool Kids Of Death,14
-2008-06,Dezerter,1
-2008-06,Galt Macdermot,32
-2008-06,Gorillaz,14
-2008-06,John Lennon,3
-2008-06,Kazik,0
-2008-06,Kazik Staszewski,13
-2008-06,La Minor,12
-2008-06,Mike Oldfield,46
-2008-06,Muchy,70
-2008-06,Myslovitz,5
-2008-06,Nirvana,4
-2008-06,Paul Anka,0
-2008-06,Rage Against The Machine,10
-2008-06,System Of A Down,10
-2008-06,The Beatles,1
-2008-06,The Rolling Stones,2
-2008-07,1800S Sea Monster,0
-2008-07,Black Sabbath,4
-2008-07,Coldplay,4
-2008-07,Cool Kids Of Death,6
-2008-07,Dezerter,1
-2008-07,Galt Macdermot,0
-2008-07,Gorillaz,8
-2008-07,John Lennon,3
-2008-07,Kazik,0
-2008-07,Kazik Staszewski,2
-2008-07,La Minor,1
-2008-07,Mike Oldfield,0
-2008-07,Muchy,1
-2008-07,Myslovitz,1
-2008-07,Nirvana,7
-2008-07,Paul Anka,5
-2008-07,Rage Against The Machine,1
-2008-07,System Of A Down,6
-2008-07,The Beatles,1
-2008-07,The Rolling Stones,1
-2008-08,1800S Sea Monster,0
-2008-08,Black Sabbath,0
-2008-08,Coldplay,0
-2008-08,Cool Kids Of Death,4
-2008-08,Dezerter,0
-2008-08,Galt Macdermot,0
-2008-08,Gorillaz,0
-2008-08,John Lennon,0
-2008-08,Kazik,0
-2008-08,Kazik Staszewski,0
-2008-08,La Minor,0
-2008-08,Mike Oldfield,0
-2008-08,Muchy,0
-2008-08,Myslovitz,0
-2008-08,Nirvana,1
-2008-08,Paul Anka,3
-2008-08,Rage Against The Machine,0
-2008-08,System Of A Down,2
-2008-08,The Beatles,0
-2008-08,The Rolling Stones,0
-2008-09,1800S Sea Monster,0
-2008-09,Black Sabbath,1
-2008-09,Coldplay,4
-2008-09,Cool Kids Of Death,17
-2008-09,Dezerter,2
-2008-09,Galt Macdermot,0
-2008-09,Gorillaz,2
-2008-09,John Lennon,0
-2008-09,Kazik,1
-2008-09,Kazik Staszewski,1
-2008-09,La Minor,34
-2008-09,Mike Oldfield,0
-2008-09,Muchy,8
-2008-09,Myslovitz,1
-2008-09,Nirvana,0
-2008-09,Paul Anka,4
-2008-09,Rage Against The Machine,0
-2008-09,System Of A Down,0
-2008-09,The Beatles,0
-2008-09,The Rolling Stones,0
-2008-10,1800S Sea Monster,0
-2008-10,Black Sabbath,2
-2008-10,Coldplay,2
-2008-10,Cool Kids Of Death,8
-2008-10,Dezerter,0
-2008-10,Galt Macdermot,0
-2008-10,Gorillaz,0
-2008-10,John Lennon,0
-2008-10,Kazik,0
-2008-10,Kazik Staszewski,2
-2008-10,La Minor,3
-2008-10,Mike Oldfield,0
-2008-10,Muchy,40
-2008-10,Myslovitz,17
-2008-10,Nirvana,0
-2008-10,Paul Anka,0
-2008-10,Rage Against The Machine,16
-2008-10,System Of A Down,0
-2008-10,The Beatles,1
-2008-10,The Rolling Stones,0
-2008-11,1800S Sea Monster,1
-2008-11,Black Sabbath,1
-2008-11,Coldplay,4
-2008-11,Cool Kids Of Death,8
-2008-11,Dezerter,1
-2008-11,Galt Macdermot,1
-2008-11,Gorillaz,6
-2008-11,John Lennon,15
-2008-11,Kazik,0
-2008-11,Kazik Staszewski,0
-2008-11,La Minor,2
-2008-11,Mike Oldfield,4
-2008-11,Muchy,7
-2008-11,Myslovitz,3
-2008-11,Nirvana,0
-2008-11,Paul Anka,0
-2008-11,Rage Against The Machine,0
-2008-11,System Of A Down,0
-2008-11,The Beatles,0
-2008-11,The Rolling Stones,0
-2008-12,1800S Sea Monster,0
-2008-12,Black Sabbath,5
-2008-12,Coldplay,0
-2008-12,Cool Kids Of Death,3
-2008-12,Dezerter,0
-2008-12,Galt Macdermot,0
-2008-12,Gorillaz,3
-2008-12,John Lennon,0
-2008-12,Kazik,0
-2008-12,Kazik Staszewski,0
-2008-12,La Minor,0
-2008-12,Mike Oldfield,0
-2008-12,Muchy,1
-2008-12,Myslovitz,0
-2008-12,Nirvana,0
-2008-12,Paul Anka,0
-2008-12,Rage Against The Machine,0
-2008-12,System Of A Down,0
-2008-12,The Beatles,0
-2008-12,The Rolling Stones,0
-2009-01,1800S Sea Monster,0
-2009-01,Black Sabbath,2
-2009-01,Coldplay,6
-2009-01,Cool Kids Of Death,13
-2009-01,Dezerter,2
-2009-01,Galt Macdermot,4
-2009-01,Gorillaz,14
-2009-01,John Lennon,1
-2009-01,Kazik,1
-2009-01,Kazik Staszewski,2
-2009-01,La Minor,7
-2009-01,Mike Oldfield,0
-2009-01,Muchy,2
-2009-01,Myslovitz,2
-2009-01,Nirvana,2
-2009-01,Paul Anka,0
-2009-01,Rage Against The Machine,23
-2009-01,System Of A Down,1
-2009-01,The Beatles,1
-2009-01,The Rolling Stones,1
-2009-02,1800S Sea Monster,0
-2009-02,Black Sabbath,1
-2009-02,Coldplay,4
-2009-02,Cool Kids Of Death,3
-2009-02,Dezerter,2
-2009-02,Galt Macdermot,1
-2009-02,Gorillaz,0
-2009-02,John Lennon,0
-2009-02,Kazik,0
-2009-02,Kazik Staszewski,1
-2009-02,La Minor,6
-2009-02,Mike Oldfield,0
-2009-02,Muchy,0
-2009-02,Myslovitz,2
-2009-02,Nirvana,14
-2009-02,Paul Anka,0
-2009-02,Rage Against The Machine,0
-2009-02,System Of A Down,2
-2009-02,The Beatles,2
-2009-02,The Rolling Stones,4
-2009-03,1800S Sea Monster,0
-2009-03,Black Sabbath,0
-2009-03,Coldplay,1
-2009-03,Cool Kids Of Death,10
-2009-03,Dezerter,0
-2009-03,Galt Macdermot,3
-2009-03,Gorillaz,0
-2009-03,John Lennon,0
-2009-03,Kazik,0
-2009-03,Kazik Staszewski,4
-2009-03,La Minor,1
-2009-03,Mike Oldfield,0
-2009-03,Muchy,0
-2009-03,Myslovitz,0
-2009-03,Nirvana,1
-2009-03,Paul Anka,1
-2009-03,Rage Against The Machine,0
-2009-03,System Of A Down,0
-2009-03,The Beatles,0
-2009-03,The Rolling Stones,0
-2009-04,1800S Sea Monster,0
-2009-04,Black Sabbath,0
-2009-04,Coldplay,0
-2009-04,Cool Kids Of Death,3
-2009-04,Dezerter,0
-2009-04,Galt Macdermot,0
-2009-04,Gorillaz,0
-2009-04,John Lennon,0
-2009-04,Kazik,0
-2009-04,Kazik Staszewski,0
-2009-04,La Minor,2
-2009-04,Mike Oldfield,3
-2009-04,Muchy,0
-2009-04,Myslovitz,0
-2009-04,Nirvana,2
-2009-04,Paul Anka,0
-2009-04,Rage Against The Machine,0
-2009-04,System Of A Down,4
-2009-04,The Beatles,2
-2009-04,The Rolling Stones,0
+"month","artist","plays"
+"2007-05","1800S Sea Monster",5
+"2007-05","Black Sabbath",0
+"2007-05","Coldplay",0
+"2007-05","Cool Kids Of Death",0
+"2007-05","Dezerter",0
+"2007-05","Galt Macdermot",0
+"2007-05","Gorillaz",2
+"2007-05","John Lennon",37
+"2007-05","Kazik",0
+"2007-05","Kazik Staszewski",0
+"2007-05","La Minor",0
+"2007-05","Mike Oldfield",0
+"2007-05","Muchy",0
+"2007-05","Myslovitz",0
+"2007-05","Nirvana",1
+"2007-05","Paul Anka",3
+"2007-05","Rage Against The Machine",0
+"2007-05","System Of A Down",22
+"2007-05","The Beatles",37
+"2007-05","The Rolling Stones",2
+"2007-06","1800S Sea Monster",46
+"2007-06","Black Sabbath",0
+"2007-06","Coldplay",0
+"2007-06","Cool Kids Of Death",0
+"2007-06","Dezerter",0
+"2007-06","Galt Macdermot",11
+"2007-06","Gorillaz",0
+"2007-06","John Lennon",30
+"2007-06","Kazik",4
+"2007-06","Kazik Staszewski",2
+"2007-06","La Minor",0
+"2007-06","Mike Oldfield",6
+"2007-06","Muchy",1
+"2007-06","Myslovitz",3
+"2007-06","Nirvana",0
+"2007-06","Paul Anka",26
+"2007-06","Rage Against The Machine",1
+"2007-06","System Of A Down",3
+"2007-06","The Beatles",1
+"2007-06","The Rolling Stones",1
+"2007-07","1800S Sea Monster",80
+"2007-07","Black Sabbath",0
+"2007-07","Coldplay",3
+"2007-07","Cool Kids Of Death",0
+"2007-07","Dezerter",0
+"2007-07","Galt Macdermot",73
+"2007-07","Gorillaz",1
+"2007-07","John Lennon",136
+"2007-07","Kazik",1
+"2007-07","Kazik Staszewski",0
+"2007-07","La Minor",0
+"2007-07","Mike Oldfield",17
+"2007-07","Muchy",0
+"2007-07","Myslovitz",45
+"2007-07","Nirvana",12
+"2007-07","Paul Anka",77
+"2007-07","Rage Against The Machine",5
+"2007-07","System Of A Down",2
+"2007-07","The Beatles",448
+"2007-07","The Rolling Stones",1
+"2007-08","1800S Sea Monster",32
+"2007-08","Black Sabbath",0
+"2007-08","Coldplay",2
+"2007-08","Cool Kids Of Death",95
+"2007-08","Dezerter",0
+"2007-08","Galt Macdermot",4
+"2007-08","Gorillaz",0
+"2007-08","John Lennon",52
+"2007-08","Kazik",4
+"2007-08","Kazik Staszewski",14
+"2007-08","La Minor",0
+"2007-08","Mike Oldfield",0
+"2007-08","Muchy",0
+"2007-08","Myslovitz",118
+"2007-08","Nirvana",6
+"2007-08","Paul Anka",33
+"2007-08","Rage Against The Machine",1
+"2007-08","System Of A Down",27
+"2007-08","The Beatles",52
+"2007-08","The Rolling Stones",2
+"2007-09","1800S Sea Monster",15
+"2007-09","Black Sabbath",2
+"2007-09","Coldplay",5
+"2007-09","Cool Kids Of Death",43
+"2007-09","Dezerter",0
+"2007-09","Galt Macdermot",58
+"2007-09","Gorillaz",4
+"2007-09","John Lennon",74
+"2007-09","Kazik",3
+"2007-09","Kazik Staszewski",13
+"2007-09","La Minor",0
+"2007-09","Mike Oldfield",1
+"2007-09","Muchy",4
+"2007-09","Myslovitz",26
+"2007-09","Nirvana",6
+"2007-09","Paul Anka",15
+"2007-09","Rage Against The Machine",3
+"2007-09","System Of A Down",61
+"2007-09","The Beatles",16
+"2007-09","The Rolling Stones",2
+"2007-10","1800S Sea Monster",38
+"2007-10","Black Sabbath",2
+"2007-10","Coldplay",4
+"2007-10","Cool Kids Of Death",40
+"2007-10","Dezerter",28
+"2007-10","Galt Macdermot",10
+"2007-10","Gorillaz",0
+"2007-10","John Lennon",22
+"2007-10","Kazik",1
+"2007-10","Kazik Staszewski",5
+"2007-10","La Minor",0
+"2007-10","Mike Oldfield",3
+"2007-10","Muchy",0
+"2007-10","Myslovitz",3
+"2007-10","Nirvana",3
+"2007-10","Paul Anka",39
+"2007-10","Rage Against The Machine",119
+"2007-10","System Of A Down",11
+"2007-10","The Beatles",3
+"2007-10","The Rolling Stones",3
+"2007-11","1800S Sea Monster",6
+"2007-11","Black Sabbath",1
+"2007-11","Coldplay",1
+"2007-11","Cool Kids Of Death",16
+"2007-11","Dezerter",17
+"2007-11","Galt Macdermot",7
+"2007-11","Gorillaz",7
+"2007-11","John Lennon",24
+"2007-11","Kazik",2
+"2007-11","Kazik Staszewski",0
+"2007-11","La Minor",0
+"2007-11","Mike Oldfield",3
+"2007-11","Muchy",1
+"2007-11","Myslovitz",0
+"2007-11","Nirvana",3
+"2007-11","Paul Anka",1
+"2007-11","Rage Against The Machine",54
+"2007-11","System Of A Down",37
+"2007-11","The Beatles",2
+"2007-11","The Rolling Stones",0
+"2007-12","1800S Sea Monster",51
+"2007-12","Black Sabbath",1
+"2007-12","Coldplay",3
+"2007-12","Cool Kids Of Death",16
+"2007-12","Dezerter",0
+"2007-12","Galt Macdermot",0
+"2007-12","Gorillaz",110
+"2007-12","John Lennon",8
+"2007-12","Kazik",1
+"2007-12","Kazik Staszewski",2
+"2007-12","La Minor",0
+"2007-12","Mike Oldfield",2
+"2007-12","Muchy",0
+"2007-12","Myslovitz",8
+"2007-12","Nirvana",3
+"2007-12","Paul Anka",6
+"2007-12","Rage Against The Machine",12
+"2007-12","System Of A Down",68
+"2007-12","The Beatles",16
+"2007-12","The Rolling Stones",1
+"2008-01","1800S Sea Monster",5
+"2008-01","Black Sabbath",0
+"2008-01","Coldplay",0
+"2008-01","Cool Kids Of Death",10
+"2008-01","Dezerter",15
+"2008-01","Galt Macdermot",0
+"2008-01","Gorillaz",14
+"2008-01","John Lennon",1
+"2008-01","Kazik",2
+"2008-01","Kazik Staszewski",3
+"2008-01","La Minor",2
+"2008-01","Mike Oldfield",1
+"2008-01","Muchy",23
+"2008-01","Myslovitz",2
+"2008-01","Nirvana",0
+"2008-01","Paul Anka",2
+"2008-01","Rage Against The Machine",11
+"2008-01","System Of A Down",1
+"2008-01","The Beatles",4
+"2008-01","The Rolling Stones",1
+"2008-02","1800S Sea Monster",6
+"2008-02","Black Sabbath",0
+"2008-02","Coldplay",0
+"2008-02","Cool Kids Of Death",0
+"2008-02","Dezerter",0
+"2008-02","Galt Macdermot",0
+"2008-02","Gorillaz",1
+"2008-02","John Lennon",1
+"2008-02","Kazik",1
+"2008-02","Kazik Staszewski",1
+"2008-02","La Minor",0
+"2008-02","Mike Oldfield",3
+"2008-02","Muchy",2
+"2008-02","Myslovitz",0
+"2008-02","Nirvana",0
+"2008-02","Paul Anka",0
+"2008-02","Rage Against The Machine",0
+"2008-02","System Of A Down",0
+"2008-02","The Beatles",0
+"2008-02","The Rolling Stones",0
+"2008-03","1800S Sea Monster",14
+"2008-03","Black Sabbath",0
+"2008-03","Coldplay",1
+"2008-03","Cool Kids Of Death",0
+"2008-03","Dezerter",1
+"2008-03","Galt Macdermot",0
+"2008-03","Gorillaz",0
+"2008-03","John Lennon",1
+"2008-03","Kazik",0
+"2008-03","Kazik Staszewski",0
+"2008-03","La Minor",0
+"2008-03","Mike Oldfield",0
+"2008-03","Muchy",3
+"2008-03","Myslovitz",0
+"2008-03","Nirvana",0
+"2008-03","Paul Anka",0
+"2008-03","Rage Against The Machine",2
+"2008-03","System Of A Down",0
+"2008-03","The Beatles",1
+"2008-03","The Rolling Stones",0
+"2008-04","1800S Sea Monster",1
+"2008-04","Black Sabbath",0
+"2008-04","Coldplay",0
+"2008-04","Cool Kids Of Death",50
+"2008-04","Dezerter",2
+"2008-04","Galt Macdermot",1
+"2008-04","Gorillaz",6
+"2008-04","John Lennon",7
+"2008-04","Kazik",0
+"2008-04","Kazik Staszewski",0
+"2008-04","La Minor",8
+"2008-04","Mike Oldfield",0
+"2008-04","Muchy",57
+"2008-04","Myslovitz",1
+"2008-04","Nirvana",1
+"2008-04","Paul Anka",1
+"2008-04","Rage Against The Machine",1
+"2008-04","System Of A Down",3
+"2008-04","The Beatles",16
+"2008-04","The Rolling Stones",1
+"2008-05","1800S Sea Monster",0
+"2008-05","Black Sabbath",21
+"2008-05","Coldplay",37
+"2008-05","Cool Kids Of Death",60
+"2008-05","Dezerter",10
+"2008-05","Galt Macdermot",10
+"2008-05","Gorillaz",16
+"2008-05","John Lennon",1
+"2008-05","Kazik",1
+"2008-05","Kazik Staszewski",0
+"2008-05","La Minor",31
+"2008-05","Mike Oldfield",3
+"2008-05","Muchy",62
+"2008-05","Myslovitz",26
+"2008-05","Nirvana",18
+"2008-05","Paul Anka",1
+"2008-05","Rage Against The Machine",8
+"2008-05","System Of A Down",32
+"2008-05","The Beatles",14
+"2008-05","The Rolling Stones",7
+"2008-06","1800S Sea Monster",0
+"2008-06","Black Sabbath",5
+"2008-06","Coldplay",5
+"2008-06","Cool Kids Of Death",14
+"2008-06","Dezerter",1
+"2008-06","Galt Macdermot",32
+"2008-06","Gorillaz",14
+"2008-06","John Lennon",3
+"2008-06","Kazik",0
+"2008-06","Kazik Staszewski",13
+"2008-06","La Minor",12
+"2008-06","Mike Oldfield",46
+"2008-06","Muchy",70
+"2008-06","Myslovitz",5
+"2008-06","Nirvana",4
+"2008-06","Paul Anka",0
+"2008-06","Rage Against The Machine",10
+"2008-06","System Of A Down",10
+"2008-06","The Beatles",1
+"2008-06","The Rolling Stones",2
+"2008-07","1800S Sea Monster",0
+"2008-07","Black Sabbath",4
+"2008-07","Coldplay",4
+"2008-07","Cool Kids Of Death",6
+"2008-07","Dezerter",1
+"2008-07","Galt Macdermot",0
+"2008-07","Gorillaz",8
+"2008-07","John Lennon",3
+"2008-07","Kazik",0
+"2008-07","Kazik Staszewski",2
+"2008-07","La Minor",1
+"2008-07","Mike Oldfield",0
+"2008-07","Muchy",1
+"2008-07","Myslovitz",1
+"2008-07","Nirvana",7
+"2008-07","Paul Anka",5
+"2008-07","Rage Against The Machine",1
+"2008-07","System Of A Down",6
+"2008-07","The Beatles",1
+"2008-07","The Rolling Stones",1
+"2008-08","1800S Sea Monster",0
+"2008-08","Black Sabbath",0
+"2008-08","Coldplay",0
+"2008-08","Cool Kids Of Death",4
+"2008-08","Dezerter",0
+"2008-08","Galt Macdermot",0
+"2008-08","Gorillaz",0
+"2008-08","John Lennon",0
+"2008-08","Kazik",0
+"2008-08","Kazik Staszewski",0
+"2008-08","La Minor",0
+"2008-08","Mike Oldfield",0
+"2008-08","Muchy",0
+"2008-08","Myslovitz",0
+"2008-08","Nirvana",1
+"2008-08","Paul Anka",3
+"2008-08","Rage Against The Machine",0
+"2008-08","System Of A Down",2
+"2008-08","The Beatles",0
+"2008-08","The Rolling Stones",0
+"2008-09","1800S Sea Monster",0
+"2008-09","Black Sabbath",1
+"2008-09","Coldplay",4
+"2008-09","Cool Kids Of Death",17
+"2008-09","Dezerter",2
+"2008-09","Galt Macdermot",0
+"2008-09","Gorillaz",2
+"2008-09","John Lennon",0
+"2008-09","Kazik",1
+"2008-09","Kazik Staszewski",1
+"2008-09","La Minor",34
+"2008-09","Mike Oldfield",0
+"2008-09","Muchy",8
+"2008-09","Myslovitz",1
+"2008-09","Nirvana",0
+"2008-09","Paul Anka",4
+"2008-09","Rage Against The Machine",0
+"2008-09","System Of A Down",0
+"2008-09","The Beatles",0
+"2008-09","The Rolling Stones",0
+"2008-10","1800S Sea Monster",0
+"2008-10","Black Sabbath",2
+"2008-10","Coldplay",2
+"2008-10","Cool Kids Of Death",8
+"2008-10","Dezerter",0
+"2008-10","Galt Macdermot",0
+"2008-10","Gorillaz",0
+"2008-10","John Lennon",0
+"2008-10","Kazik",0
+"2008-10","Kazik Staszewski",2
+"2008-10","La Minor",3
+"2008-10","Mike Oldfield",0
+"2008-10","Muchy",40
+"2008-10","Myslovitz",17
+"2008-10","Nirvana",0
+"2008-10","Paul Anka",0
+"2008-10","Rage Against The Machine",16
+"2008-10","System Of A Down",0
+"2008-10","The Beatles",1
+"2008-10","The Rolling Stones",0
+"2008-11","1800S Sea Monster",1
+"2008-11","Black Sabbath",1
+"2008-11","Coldplay",4
+"2008-11","Cool Kids Of Death",8
+"2008-11","Dezerter",1
+"2008-11","Galt Macdermot",1
+"2008-11","Gorillaz",6
+"2008-11","John Lennon",15
+"2008-11","Kazik",0
+"2008-11","Kazik Staszewski",0
+"2008-11","La Minor",2
+"2008-11","Mike Oldfield",4
+"2008-11","Muchy",7
+"2008-11","Myslovitz",3
+"2008-11","Nirvana",0
+"2008-11","Paul Anka",0
+"2008-11","Rage Against The Machine",0
+"2008-11","System Of A Down",0
+"2008-11","The Beatles",0
+"2008-11","The Rolling Stones",0
+"2008-12","1800S Sea Monster",0
+"2008-12","Black Sabbath",5
+"2008-12","Coldplay",0
+"2008-12","Cool Kids Of Death",3
+"2008-12","Dezerter",0
+"2008-12","Galt Macdermot",0
+"2008-12","Gorillaz",3
+"2008-12","John Lennon",0
+"2008-12","Kazik",0
+"2008-12","Kazik Staszewski",0
+"2008-12","La Minor",0
+"2008-12","Mike Oldfield",0
+"2008-12","Muchy",1
+"2008-12","Myslovitz",0
+"2008-12","Nirvana",0
+"2008-12","Paul Anka",0
+"2008-12","Rage Against The Machine",0
+"2008-12","System Of A Down",0
+"2008-12","The Beatles",0
+"2008-12","The Rolling Stones",0
+"2009-01","1800S Sea Monster",0
+"2009-01","Black Sabbath",2
+"2009-01","Coldplay",6
+"2009-01","Cool Kids Of Death",13
+"2009-01","Dezerter",2
+"2009-01","Galt Macdermot",4
+"2009-01","Gorillaz",14
+"2009-01","John Lennon",1
+"2009-01","Kazik",1
+"2009-01","Kazik Staszewski",2
+"2009-01","La Minor",7
+"2009-01","Mike Oldfield",0
+"2009-01","Muchy",2
+"2009-01","Myslovitz",2
+"2009-01","Nirvana",2
+"2009-01","Paul Anka",0
+"2009-01","Rage Against The Machine",23
+"2009-01","System Of A Down",1
+"2009-01","The Beatles",1
+"2009-01","The Rolling Stones",1
+"2009-02","1800S Sea Monster",0
+"2009-02","Black Sabbath",1
+"2009-02","Coldplay",4
+"2009-02","Cool Kids Of Death",3
+"2009-02","Dezerter",2
+"2009-02","Galt Macdermot",1
+"2009-02","Gorillaz",0
+"2009-02","John Lennon",0
+"2009-02","Kazik",0
+"2009-02","Kazik Staszewski",1
+"2009-02","La Minor",6
+"2009-02","Mike Oldfield",0
+"2009-02","Muchy",0
+"2009-02","Myslovitz",2
+"2009-02","Nirvana",14
+"2009-02","Paul Anka",0
+"2009-02","Rage Against The Machine",0
+"2009-02","System Of A Down",2
+"2009-02","The Beatles",2
+"2009-02","The Rolling Stones",4
+"2009-03","1800S Sea Monster",0
+"2009-03","Black Sabbath",0
+"2009-03","Coldplay",1
+"2009-03","Cool Kids Of Death",10
+"2009-03","Dezerter",0
+"2009-03","Galt Macdermot",3
+"2009-03","Gorillaz",0
+"2009-03","John Lennon",0
+"2009-03","Kazik",0
+"2009-03","Kazik Staszewski",4
+"2009-03","La Minor",1
+"2009-03","Mike Oldfield",0
+"2009-03","Muchy",0
+"2009-03","Myslovitz",0
+"2009-03","Nirvana",1
+"2009-03","Paul Anka",1
+"2009-03","Rage Against The Machine",0
+"2009-03","System Of A Down",0
+"2009-03","The Beatles",0
+"2009-03","The Rolling Stones",0
+"2009-04","1800S Sea Monster",0
+"2009-04","Black Sabbath",0
+"2009-04","Coldplay",0
+"2009-04","Cool Kids Of Death",3
+"2009-04","Dezerter",0
+"2009-04","Galt Macdermot",0
+"2009-04","Gorillaz",0
+"2009-04","John Lennon",0
+"2009-04","Kazik",0
+"2009-04","Kazik Staszewski",0
+"2009-04","La Minor",2
+"2009-04","Mike Oldfield",3
+"2009-04","Muchy",0
+"2009-04","Myslovitz",0
+"2009-04","Nirvana",2
+"2009-04","Paul Anka",0
+"2009-04","Rage Against The Machine",0
+"2009-04","System Of A Down",4
+"2009-04","The Beatles",2
+"2009-04","The Rolling Stones",0

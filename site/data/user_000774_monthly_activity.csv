@@ -1,761 +1,761 @@
-month,artist,plays
-2006-03,A Perfect Circle,23
-2006-03,Andrew Bird,4
-2006-03,Calexico,10
-2006-03,David Bowie,12
-2006-03,Dinosaur Jr.,9
-2006-03,Dream Theater,11
-2006-03,Faith No More,17
-2006-03,Fantômas,33
-2006-03,Fountain Of Tears,32
-2006-03,Frank Zappa,20
-2006-03,Hella,2
-2006-03,John Frusciante,23
-2006-03,John Zorn,12
-2006-03,Lightning Bolt,25
-2006-03,Melvins,253
-2006-03,Mr. Bungle,19
-2006-03,Queens Of The Stone Age,13
-2006-03,The Mars Volta,19
-2006-03,Tv On The Radio,3
-2006-03,Ween,31
-2006-04,A Perfect Circle,36
-2006-04,Andrew Bird,14
-2006-04,Calexico,2
-2006-04,David Bowie,21
-2006-04,Dinosaur Jr.,11
-2006-04,Dream Theater,3
-2006-04,Faith No More,99
-2006-04,Fantômas,29
-2006-04,Fountain Of Tears,4
-2006-04,Frank Zappa,12
-2006-04,Hella,4
-2006-04,John Frusciante,119
-2006-04,John Zorn,29
-2006-04,Lightning Bolt,3
-2006-04,Melvins,162
-2006-04,Mr. Bungle,23
-2006-04,Queens Of The Stone Age,56
-2006-04,The Mars Volta,55
-2006-04,Tv On The Radio,19
-2006-04,Ween,35
-2006-05,A Perfect Circle,25
-2006-05,Andrew Bird,18
-2006-05,Calexico,2
-2006-05,David Bowie,5
-2006-05,Dinosaur Jr.,4
-2006-05,Dream Theater,1
-2006-05,Faith No More,8
-2006-05,Fantômas,29
-2006-05,Fountain Of Tears,12
-2006-05,Frank Zappa,6
-2006-05,Hella,4
-2006-05,John Frusciante,140
-2006-05,John Zorn,129
-2006-05,Lightning Bolt,21
-2006-05,Melvins,124
-2006-05,Mr. Bungle,27
-2006-05,Queens Of The Stone Age,10
-2006-05,The Mars Volta,13
-2006-05,Tv On The Radio,3
-2006-05,Ween,69
-2006-06,A Perfect Circle,45
-2006-06,Andrew Bird,14
-2006-06,Calexico,25
-2006-06,David Bowie,10
-2006-06,Dinosaur Jr.,4
-2006-06,Dream Theater,3
-2006-06,Faith No More,3
-2006-06,Fantômas,51
-2006-06,Fountain Of Tears,2
-2006-06,Frank Zappa,7
-2006-06,Hella,1
-2006-06,John Frusciante,69
-2006-06,John Zorn,6
-2006-06,Lightning Bolt,11
-2006-06,Melvins,15
-2006-06,Mr. Bungle,21
-2006-06,Queens Of The Stone Age,12
-2006-06,The Mars Volta,27
-2006-06,Tv On The Radio,9
-2006-06,Ween,62
-2006-07,A Perfect Circle,1
-2006-07,Andrew Bird,1
-2006-07,Calexico,20
-2006-07,David Bowie,8
-2006-07,Dinosaur Jr.,32
-2006-07,Dream Theater,17
-2006-07,Faith No More,170
-2006-07,Fantômas,163
-2006-07,Fountain Of Tears,26
-2006-07,Frank Zappa,46
-2006-07,Hella,6
-2006-07,John Frusciante,83
-2006-07,John Zorn,7
-2006-07,Lightning Bolt,6
-2006-07,Melvins,2
-2006-07,Mr. Bungle,0
-2006-07,Queens Of The Stone Age,1
-2006-07,The Mars Volta,2
-2006-07,Tv On The Radio,0
-2006-07,Ween,1
-2006-08,A Perfect Circle,1
-2006-08,Andrew Bird,1
-2006-08,Calexico,1
-2006-08,David Bowie,1
-2006-08,Dinosaur Jr.,0
-2006-08,Dream Theater,0
-2006-08,Faith No More,0
-2006-08,Fantômas,1
-2006-08,Fountain Of Tears,2
-2006-08,Frank Zappa,0
-2006-08,Hella,3
-2006-08,John Frusciante,77
-2006-08,John Zorn,26
-2006-08,Lightning Bolt,69
-2006-08,Melvins,146
-2006-08,Mr. Bungle,28
-2006-08,Queens Of The Stone Age,39
-2006-08,The Mars Volta,30
-2006-08,Tv On The Radio,0
-2006-08,Ween,49
-2006-09,A Perfect Circle,1
-2006-09,Andrew Bird,0
-2006-09,Calexico,0
-2006-09,David Bowie,0
-2006-09,Dinosaur Jr.,0
-2006-09,Dream Theater,1
-2006-09,Faith No More,1
-2006-09,Fantômas,2
-2006-09,Fountain Of Tears,2
-2006-09,Frank Zappa,1
-2006-09,Hella,2
-2006-09,John Frusciante,1
-2006-09,John Zorn,0
-2006-09,Lightning Bolt,1
-2006-09,Melvins,2
-2006-09,Mr. Bungle,1
-2006-09,Queens Of The Stone Age,1
-2006-09,The Mars Volta,0
-2006-09,Tv On The Radio,25
-2006-09,Ween,309
-2006-10,A Perfect Circle,23
-2006-10,Andrew Bird,0
-2006-10,Calexico,0
-2006-10,David Bowie,1
-2006-10,Dinosaur Jr.,6
-2006-10,Dream Theater,1
-2006-10,Faith No More,86
-2006-10,Fantômas,67
-2006-10,Fountain Of Tears,524
-2006-10,Frank Zappa,4
-2006-10,Hella,1
-2006-10,John Frusciante,2
-2006-10,John Zorn,7
-2006-10,Lightning Bolt,1
-2006-10,Melvins,76
-2006-10,Mr. Bungle,0
-2006-10,Queens Of The Stone Age,3
-2006-10,The Mars Volta,0
-2006-10,Tv On The Radio,0
-2006-10,Ween,52
-2006-11,A Perfect Circle,6
-2006-11,Andrew Bird,1
-2006-11,Calexico,5
-2006-11,David Bowie,1
-2006-11,Dinosaur Jr.,0
-2006-11,Dream Theater,1
-2006-11,Faith No More,6
-2006-11,Fantômas,24
-2006-11,Fountain Of Tears,130
-2006-11,Frank Zappa,3
-2006-11,Hella,12
-2006-11,John Frusciante,9
-2006-11,John Zorn,4
-2006-11,Lightning Bolt,6
-2006-11,Melvins,27
-2006-11,Mr. Bungle,6
-2006-11,Queens Of The Stone Age,6
-2006-11,The Mars Volta,16
-2006-11,Tv On The Radio,2
-2006-11,Ween,13
-2006-12,A Perfect Circle,9
-2006-12,Andrew Bird,9
-2006-12,Calexico,7
-2006-12,David Bowie,9
-2006-12,Dinosaur Jr.,5
-2006-12,Dream Theater,2
-2006-12,Faith No More,10
-2006-12,Fantômas,6
-2006-12,Fountain Of Tears,83
-2006-12,Frank Zappa,7
-2006-12,Hella,19
-2006-12,John Frusciante,44
-2006-12,John Zorn,10
-2006-12,Lightning Bolt,44
-2006-12,Melvins,95
-2006-12,Mr. Bungle,15
-2006-12,Queens Of The Stone Age,12
-2006-12,The Mars Volta,29
-2006-12,Tv On The Radio,4
-2006-12,Ween,45
-2007-01,A Perfect Circle,22
-2007-01,Andrew Bird,68
-2007-01,Calexico,2
-2007-01,David Bowie,3
-2007-01,Dinosaur Jr.,0
-2007-01,Dream Theater,1
-2007-01,Faith No More,2
-2007-01,Fantômas,3
-2007-01,Fountain Of Tears,8
-2007-01,Frank Zappa,0
-2007-01,Hella,3
-2007-01,John Frusciante,1
-2007-01,John Zorn,4
-2007-01,Lightning Bolt,18
-2007-01,Melvins,18
-2007-01,Mr. Bungle,19
-2007-01,Queens Of The Stone Age,3
-2007-01,The Mars Volta,17
-2007-01,Tv On The Radio,1
-2007-01,Ween,6
-2007-02,A Perfect Circle,0
-2007-02,Andrew Bird,1
-2007-02,Calexico,0
-2007-02,David Bowie,0
-2007-02,Dinosaur Jr.,0
-2007-02,Dream Theater,0
-2007-02,Faith No More,1
-2007-02,Fantômas,0
-2007-02,Fountain Of Tears,66
-2007-02,Frank Zappa,0
-2007-02,Hella,0
-2007-02,John Frusciante,1
-2007-02,John Zorn,0
-2007-02,Lightning Bolt,1
-2007-02,Melvins,2
-2007-02,Mr. Bungle,0
-2007-02,Queens Of The Stone Age,0
-2007-02,The Mars Volta,1
-2007-02,Tv On The Radio,0
-2007-02,Ween,0
-2007-03,A Perfect Circle,2
-2007-03,Andrew Bird,1
-2007-03,Calexico,77
-2007-03,David Bowie,1
-2007-03,Dinosaur Jr.,2
-2007-03,Dream Theater,0
-2007-03,Faith No More,4
-2007-03,Fantômas,8
-2007-03,Fountain Of Tears,0
-2007-03,Frank Zappa,2
-2007-03,Hella,2
-2007-03,John Frusciante,14
-2007-03,John Zorn,1
-2007-03,Lightning Bolt,3
-2007-03,Melvins,13
-2007-03,Mr. Bungle,1
-2007-03,Queens Of The Stone Age,3
-2007-03,The Mars Volta,2
-2007-03,Tv On The Radio,0
-2007-03,Ween,14
-2007-04,A Perfect Circle,0
-2007-04,Andrew Bird,0
-2007-04,Calexico,0
-2007-04,David Bowie,6
-2007-04,Dinosaur Jr.,0
-2007-04,Dream Theater,0
-2007-04,Faith No More,0
-2007-04,Fantômas,0
-2007-04,Fountain Of Tears,29
-2007-04,Frank Zappa,0
-2007-04,Hella,0
-2007-04,John Frusciante,0
-2007-04,John Zorn,0
-2007-04,Lightning Bolt,0
-2007-04,Melvins,0
-2007-04,Mr. Bungle,0
-2007-04,Queens Of The Stone Age,0
-2007-04,The Mars Volta,0
-2007-04,Tv On The Radio,0
-2007-04,Ween,0
-2007-05,A Perfect Circle,0
-2007-05,Andrew Bird,2
-2007-05,Calexico,1
-2007-05,David Bowie,0
-2007-05,Dinosaur Jr.,20
-2007-05,Dream Theater,56
-2007-05,Faith No More,0
-2007-05,Fantômas,0
-2007-05,Fountain Of Tears,24
-2007-05,Frank Zappa,0
-2007-05,Hella,0
-2007-05,John Frusciante,0
-2007-05,John Zorn,0
-2007-05,Lightning Bolt,0
-2007-05,Melvins,0
-2007-05,Mr. Bungle,0
-2007-05,Queens Of The Stone Age,0
-2007-05,The Mars Volta,1
-2007-05,Tv On The Radio,0
-2007-05,Ween,1
-2007-06,A Perfect Circle,1
-2007-06,Andrew Bird,0
-2007-06,Calexico,3
-2007-06,David Bowie,0
-2007-06,Dinosaur Jr.,1
-2007-06,Dream Theater,3
-2007-06,Faith No More,1
-2007-06,Fantômas,1
-2007-06,Fountain Of Tears,3
-2007-06,Frank Zappa,0
-2007-06,Hella,22
-2007-06,John Frusciante,0
-2007-06,John Zorn,1
-2007-06,Lightning Bolt,2
-2007-06,Melvins,0
-2007-06,Mr. Bungle,2
-2007-06,Queens Of The Stone Age,58
-2007-06,The Mars Volta,2
-2007-06,Tv On The Radio,26
-2007-06,Ween,3
-2007-07,A Perfect Circle,1
-2007-07,Andrew Bird,3
-2007-07,Calexico,2
-2007-07,David Bowie,0
-2007-07,Dinosaur Jr.,15
-2007-07,Dream Theater,35
-2007-07,Faith No More,0
-2007-07,Fantômas,0
-2007-07,Fountain Of Tears,194
-2007-07,Frank Zappa,0
-2007-07,Hella,34
-2007-07,John Frusciante,0
-2007-07,John Zorn,0
-2007-07,Lightning Bolt,1
-2007-07,Melvins,2
-2007-07,Mr. Bungle,15
-2007-07,Queens Of The Stone Age,48
-2007-07,The Mars Volta,0
-2007-07,Tv On The Radio,28
-2007-07,Ween,24
-2007-08,A Perfect Circle,4
-2007-08,Andrew Bird,7
-2007-08,Calexico,8
-2007-08,David Bowie,1
-2007-08,Dinosaur Jr.,1
-2007-08,Dream Theater,1
-2007-08,Faith No More,3
-2007-08,Fantômas,3
-2007-08,Fountain Of Tears,30
-2007-08,Frank Zappa,2
-2007-08,Hella,2
-2007-08,John Frusciante,3
-2007-08,John Zorn,1
-2007-08,Lightning Bolt,1
-2007-08,Melvins,7
-2007-08,Mr. Bungle,2
-2007-08,Queens Of The Stone Age,10
-2007-08,The Mars Volta,2
-2007-08,Tv On The Radio,3
-2007-08,Ween,19
-2007-09,A Perfect Circle,0
-2007-09,Andrew Bird,0
-2007-09,Calexico,0
-2007-09,David Bowie,0
-2007-09,Dinosaur Jr.,0
-2007-09,Dream Theater,35
-2007-09,Faith No More,0
-2007-09,Fantômas,0
-2007-09,Fountain Of Tears,0
-2007-09,Frank Zappa,0
-2007-09,Hella,0
-2007-09,John Frusciante,0
-2007-09,John Zorn,0
-2007-09,Lightning Bolt,0
-2007-09,Melvins,0
-2007-09,Mr. Bungle,0
-2007-09,Queens Of The Stone Age,0
-2007-09,The Mars Volta,0
-2007-09,Tv On The Radio,0
-2007-09,Ween,0
-2007-10,A Perfect Circle,0
-2007-10,Andrew Bird,0
-2007-10,Calexico,0
-2007-10,David Bowie,0
-2007-10,Dinosaur Jr.,0
-2007-10,Dream Theater,0
-2007-10,Faith No More,236
-2007-10,Fantômas,262
-2007-10,Fountain Of Tears,1
-2007-10,Frank Zappa,0
-2007-10,Hella,0
-2007-10,John Frusciante,0
-2007-10,John Zorn,0
-2007-10,Lightning Bolt,0
-2007-10,Melvins,0
-2007-10,Mr. Bungle,0
-2007-10,Queens Of The Stone Age,0
-2007-10,The Mars Volta,0
-2007-10,Tv On The Radio,0
-2007-10,Ween,0
-2007-11,A Perfect Circle,1
-2007-11,Andrew Bird,0
-2007-11,Calexico,0
-2007-11,David Bowie,0
-2007-11,Dinosaur Jr.,0
-2007-11,Dream Theater,0
-2007-11,Faith No More,0
-2007-11,Fantômas,0
-2007-11,Fountain Of Tears,580
-2007-11,Frank Zappa,73
-2007-11,Hella,0
-2007-11,John Frusciante,1
-2007-11,John Zorn,0
-2007-11,Lightning Bolt,0
-2007-11,Melvins,0
-2007-11,Mr. Bungle,1
-2007-11,Queens Of The Stone Age,0
-2007-11,The Mars Volta,0
-2007-11,Tv On The Radio,1
-2007-11,Ween,118
-2007-12,A Perfect Circle,0
-2007-12,Andrew Bird,0
-2007-12,Calexico,0
-2007-12,David Bowie,0
-2007-12,Dinosaur Jr.,0
-2007-12,Dream Theater,0
-2007-12,Faith No More,0
-2007-12,Fantômas,0
-2007-12,Fountain Of Tears,2
-2007-12,Frank Zappa,23
-2007-12,Hella,0
-2007-12,John Frusciante,0
-2007-12,John Zorn,0
-2007-12,Lightning Bolt,0
-2007-12,Melvins,0
-2007-12,Mr. Bungle,0
-2007-12,Queens Of The Stone Age,0
-2007-12,The Mars Volta,0
-2007-12,Tv On The Radio,0
-2007-12,Ween,12
-2008-01,A Perfect Circle,0
-2008-01,Andrew Bird,0
-2008-01,Calexico,0
-2008-01,David Bowie,0
-2008-01,Dinosaur Jr.,0
-2008-01,Dream Theater,0
-2008-01,Faith No More,0
-2008-01,Fantômas,0
-2008-01,Fountain Of Tears,0
-2008-01,Frank Zappa,25
-2008-01,Hella,0
-2008-01,John Frusciante,11
-2008-01,John Zorn,0
-2008-01,Lightning Bolt,0
-2008-01,Melvins,3
-2008-01,Mr. Bungle,0
-2008-01,Queens Of The Stone Age,0
-2008-01,The Mars Volta,0
-2008-01,Tv On The Radio,0
-2008-01,Ween,0
-2008-02,A Perfect Circle,0
-2008-02,Andrew Bird,0
-2008-02,Calexico,0
-2008-02,David Bowie,0
-2008-02,Dinosaur Jr.,0
-2008-02,Dream Theater,0
-2008-02,Faith No More,0
-2008-02,Fantômas,0
-2008-02,Fountain Of Tears,0
-2008-02,Frank Zappa,0
-2008-02,Hella,0
-2008-02,John Frusciante,0
-2008-02,John Zorn,0
-2008-02,Lightning Bolt,0
-2008-02,Melvins,0
-2008-02,Mr. Bungle,0
-2008-02,Queens Of The Stone Age,0
-2008-02,The Mars Volta,0
-2008-02,Tv On The Radio,0
-2008-02,Ween,0
-2008-03,A Perfect Circle,0
-2008-03,Andrew Bird,0
-2008-03,Calexico,0
-2008-03,David Bowie,0
-2008-03,Dinosaur Jr.,0
-2008-03,Dream Theater,0
-2008-03,Faith No More,0
-2008-03,Fantômas,0
-2008-03,Fountain Of Tears,0
-2008-03,Frank Zappa,0
-2008-03,Hella,0
-2008-03,John Frusciante,0
-2008-03,John Zorn,0
-2008-03,Lightning Bolt,0
-2008-03,Melvins,0
-2008-03,Mr. Bungle,0
-2008-03,Queens Of The Stone Age,0
-2008-03,The Mars Volta,0
-2008-03,Tv On The Radio,1
-2008-03,Ween,0
-2008-04,A Perfect Circle,0
-2008-04,Andrew Bird,0
-2008-04,Calexico,0
-2008-04,David Bowie,0
-2008-04,Dinosaur Jr.,0
-2008-04,Dream Theater,0
-2008-04,Faith No More,0
-2008-04,Fantômas,0
-2008-04,Fountain Of Tears,0
-2008-04,Frank Zappa,0
-2008-04,Hella,0
-2008-04,John Frusciante,0
-2008-04,John Zorn,0
-2008-04,Lightning Bolt,0
-2008-04,Melvins,0
-2008-04,Mr. Bungle,0
-2008-04,Queens Of The Stone Age,0
-2008-04,The Mars Volta,0
-2008-04,Tv On The Radio,0
-2008-04,Ween,0
-2008-05,A Perfect Circle,0
-2008-05,Andrew Bird,0
-2008-05,Calexico,0
-2008-05,David Bowie,0
-2008-05,Dinosaur Jr.,0
-2008-05,Dream Theater,0
-2008-05,Faith No More,1
-2008-05,Fantômas,0
-2008-05,Fountain Of Tears,0
-2008-05,Frank Zappa,0
-2008-05,Hella,0
-2008-05,John Frusciante,0
-2008-05,John Zorn,0
-2008-05,Lightning Bolt,0
-2008-05,Melvins,0
-2008-05,Mr. Bungle,0
-2008-05,Queens Of The Stone Age,0
-2008-05,The Mars Volta,0
-2008-05,Tv On The Radio,0
-2008-05,Ween,0
-2008-06,A Perfect Circle,0
-2008-06,Andrew Bird,0
-2008-06,Calexico,0
-2008-06,David Bowie,3
-2008-06,Dinosaur Jr.,0
-2008-06,Dream Theater,0
-2008-06,Faith No More,0
-2008-06,Fantômas,0
-2008-06,Fountain Of Tears,0
-2008-06,Frank Zappa,0
-2008-06,Hella,0
-2008-06,John Frusciante,0
-2008-06,John Zorn,0
-2008-06,Lightning Bolt,0
-2008-06,Melvins,0
-2008-06,Mr. Bungle,0
-2008-06,Queens Of The Stone Age,0
-2008-06,The Mars Volta,0
-2008-06,Tv On The Radio,0
-2008-06,Ween,16
-2008-07,A Perfect Circle,0
-2008-07,Andrew Bird,0
-2008-07,Calexico,0
-2008-07,David Bowie,0
-2008-07,Dinosaur Jr.,0
-2008-07,Dream Theater,0
-2008-07,Faith No More,0
-2008-07,Fantômas,0
-2008-07,Fountain Of Tears,0
-2008-07,Frank Zappa,0
-2008-07,Hella,120
-2008-07,John Frusciante,0
-2008-07,John Zorn,0
-2008-07,Lightning Bolt,0
-2008-07,Melvins,0
-2008-07,Mr. Bungle,0
-2008-07,Queens Of The Stone Age,0
-2008-07,The Mars Volta,0
-2008-07,Tv On The Radio,0
-2008-07,Ween,0
-2008-08,A Perfect Circle,0
-2008-08,Andrew Bird,0
-2008-08,Calexico,0
-2008-08,David Bowie,0
-2008-08,Dinosaur Jr.,0
-2008-08,Dream Theater,0
-2008-08,Faith No More,0
-2008-08,Fantômas,0
-2008-08,Fountain Of Tears,1
-2008-08,Frank Zappa,0
-2008-08,Hella,0
-2008-08,John Frusciante,0
-2008-08,John Zorn,0
-2008-08,Lightning Bolt,0
-2008-08,Melvins,0
-2008-08,Mr. Bungle,0
-2008-08,Queens Of The Stone Age,0
-2008-08,The Mars Volta,0
-2008-08,Tv On The Radio,0
-2008-08,Ween,0
-2008-09,A Perfect Circle,0
-2008-09,Andrew Bird,0
-2008-09,Calexico,1
-2008-09,David Bowie,0
-2008-09,Dinosaur Jr.,1
-2008-09,Dream Theater,4
-2008-09,Faith No More,0
-2008-09,Fantômas,4
-2008-09,Fountain Of Tears,0
-2008-09,Frank Zappa,0
-2008-09,Hella,0
-2008-09,John Frusciante,410
-2008-09,John Zorn,0
-2008-09,Lightning Bolt,0
-2008-09,Melvins,8
-2008-09,Mr. Bungle,0
-2008-09,Queens Of The Stone Age,0
-2008-09,The Mars Volta,0
-2008-09,Tv On The Radio,0
-2008-09,Ween,2
-2008-10,A Perfect Circle,0
-2008-10,Andrew Bird,0
-2008-10,Calexico,0
-2008-10,David Bowie,1
-2008-10,Dinosaur Jr.,0
-2008-10,Dream Theater,0
-2008-10,Faith No More,0
-2008-10,Fantômas,2
-2008-10,Fountain Of Tears,1
-2008-10,Frank Zappa,0
-2008-10,Hella,37
-2008-10,John Frusciante,1
-2008-10,John Zorn,0
-2008-10,Lightning Bolt,0
-2008-10,Melvins,2
-2008-10,Mr. Bungle,1
-2008-10,Queens Of The Stone Age,7
-2008-10,The Mars Volta,1
-2008-10,Tv On The Radio,0
-2008-10,Ween,4
-2008-11,A Perfect Circle,0
-2008-11,Andrew Bird,0
-2008-11,Calexico,0
-2008-11,David Bowie,0
-2008-11,Dinosaur Jr.,0
-2008-11,Dream Theater,0
-2008-11,Faith No More,0
-2008-11,Fantômas,0
-2008-11,Fountain Of Tears,3
-2008-11,Frank Zappa,0
-2008-11,Hella,1
-2008-11,John Frusciante,2
-2008-11,John Zorn,0
-2008-11,Lightning Bolt,0
-2008-11,Melvins,1
-2008-11,Mr. Bungle,1
-2008-11,Queens Of The Stone Age,0
-2008-11,The Mars Volta,1
-2008-11,Tv On The Radio,4
-2008-11,Ween,4
-2008-12,A Perfect Circle,2
-2008-12,Andrew Bird,1
-2008-12,Calexico,1
-2008-12,David Bowie,1
-2008-12,Dinosaur Jr.,1
-2008-12,Dream Theater,1
-2008-12,Faith No More,1
-2008-12,Fantômas,3
-2008-12,Fountain Of Tears,1
-2008-12,Frank Zappa,8
-2008-12,Hella,1
-2008-12,John Frusciante,3
-2008-12,John Zorn,1
-2008-12,Lightning Bolt,1
-2008-12,Melvins,5
-2008-12,Mr. Bungle,5
-2008-12,Queens Of The Stone Age,1
-2008-12,The Mars Volta,3
-2008-12,Tv On The Radio,3
-2008-12,Ween,3
-2009-01,A Perfect Circle,1
-2009-01,Andrew Bird,1
-2009-01,Calexico,2
-2009-01,David Bowie,1
-2009-01,Dinosaur Jr.,3
-2009-01,Dream Theater,0
-2009-01,Faith No More,0
-2009-01,Fantômas,2
-2009-01,Fountain Of Tears,3
-2009-01,Frank Zappa,1
-2009-01,Hella,0
-2009-01,John Frusciante,4
-2009-01,John Zorn,1
-2009-01,Lightning Bolt,1
-2009-01,Melvins,3
-2009-01,Mr. Bungle,0
-2009-01,Queens Of The Stone Age,1
-2009-01,The Mars Volta,3
-2009-01,Tv On The Radio,2
-2009-01,Ween,5
-2009-02,A Perfect Circle,1
-2009-02,Andrew Bird,0
-2009-02,Calexico,0
-2009-02,David Bowie,0
-2009-02,Dinosaur Jr.,2
-2009-02,Dream Theater,0
-2009-02,Faith No More,0
-2009-02,Fantômas,0
-2009-02,Fountain Of Tears,0
-2009-02,Frank Zappa,0
-2009-02,Hella,0
-2009-02,John Frusciante,0
-2009-02,John Zorn,2
-2009-02,Lightning Bolt,0
-2009-02,Melvins,2
-2009-02,Mr. Bungle,0
-2009-02,Queens Of The Stone Age,0
-2009-02,The Mars Volta,0
-2009-02,Tv On The Radio,2
-2009-02,Ween,1
-2009-03,A Perfect Circle,0
-2009-03,Andrew Bird,1
-2009-03,Calexico,0
-2009-03,David Bowie,3
-2009-03,Dinosaur Jr.,1
-2009-03,Dream Theater,0
-2009-03,Faith No More,1
-2009-03,Fantômas,3
-2009-03,Fountain Of Tears,0
-2009-03,Frank Zappa,1
-2009-03,Hella,0
-2009-03,John Frusciante,3
-2009-03,John Zorn,1
-2009-03,Lightning Bolt,0
-2009-03,Melvins,1
-2009-03,Mr. Bungle,1
-2009-03,Queens Of The Stone Age,1
-2009-03,The Mars Volta,0
-2009-03,Tv On The Radio,0
-2009-03,Ween,2
-2009-04,A Perfect Circle,0
-2009-04,Andrew Bird,1
-2009-04,Calexico,0
-2009-04,David Bowie,0
-2009-04,Dinosaur Jr.,0
-2009-04,Dream Theater,0
-2009-04,Faith No More,1
-2009-04,Fantômas,1
-2009-04,Fountain Of Tears,2
-2009-04,Frank Zappa,0
-2009-04,Hella,0
-2009-04,John Frusciante,0
-2009-04,John Zorn,1
-2009-04,Lightning Bolt,0
-2009-04,Melvins,1
-2009-04,Mr. Bungle,1
-2009-04,Queens Of The Stone Age,0
-2009-04,The Mars Volta,0
-2009-04,Tv On The Radio,1
-2009-04,Ween,2
+"month","artist","plays"
+"2006-03","A Perfect Circle",23
+"2006-03","Andrew Bird",4
+"2006-03","Calexico",10
+"2006-03","David Bowie",12
+"2006-03","Dinosaur Jr.",9
+"2006-03","Dream Theater",11
+"2006-03","Faith No More",17
+"2006-03","Fantômas",33
+"2006-03","Fountain Of Tears",32
+"2006-03","Frank Zappa",20
+"2006-03","Hella",2
+"2006-03","John Frusciante",23
+"2006-03","John Zorn",12
+"2006-03","Lightning Bolt",25
+"2006-03","Melvins",253
+"2006-03","Mr. Bungle",19
+"2006-03","Queens Of The Stone Age",13
+"2006-03","The Mars Volta",19
+"2006-03","Tv On The Radio",3
+"2006-03","Ween",31
+"2006-04","A Perfect Circle",36
+"2006-04","Andrew Bird",14
+"2006-04","Calexico",2
+"2006-04","David Bowie",21
+"2006-04","Dinosaur Jr.",11
+"2006-04","Dream Theater",3
+"2006-04","Faith No More",99
+"2006-04","Fantômas",29
+"2006-04","Fountain Of Tears",4
+"2006-04","Frank Zappa",12
+"2006-04","Hella",4
+"2006-04","John Frusciante",119
+"2006-04","John Zorn",29
+"2006-04","Lightning Bolt",3
+"2006-04","Melvins",162
+"2006-04","Mr. Bungle",23
+"2006-04","Queens Of The Stone Age",56
+"2006-04","The Mars Volta",55
+"2006-04","Tv On The Radio",19
+"2006-04","Ween",35
+"2006-05","A Perfect Circle",25
+"2006-05","Andrew Bird",18
+"2006-05","Calexico",2
+"2006-05","David Bowie",5
+"2006-05","Dinosaur Jr.",4
+"2006-05","Dream Theater",1
+"2006-05","Faith No More",8
+"2006-05","Fantômas",29
+"2006-05","Fountain Of Tears",12
+"2006-05","Frank Zappa",6
+"2006-05","Hella",4
+"2006-05","John Frusciante",140
+"2006-05","John Zorn",129
+"2006-05","Lightning Bolt",21
+"2006-05","Melvins",124
+"2006-05","Mr. Bungle",27
+"2006-05","Queens Of The Stone Age",10
+"2006-05","The Mars Volta",13
+"2006-05","Tv On The Radio",3
+"2006-05","Ween",69
+"2006-06","A Perfect Circle",45
+"2006-06","Andrew Bird",14
+"2006-06","Calexico",25
+"2006-06","David Bowie",10
+"2006-06","Dinosaur Jr.",4
+"2006-06","Dream Theater",3
+"2006-06","Faith No More",3
+"2006-06","Fantômas",51
+"2006-06","Fountain Of Tears",2
+"2006-06","Frank Zappa",7
+"2006-06","Hella",1
+"2006-06","John Frusciante",69
+"2006-06","John Zorn",6
+"2006-06","Lightning Bolt",11
+"2006-06","Melvins",15
+"2006-06","Mr. Bungle",21
+"2006-06","Queens Of The Stone Age",12
+"2006-06","The Mars Volta",27
+"2006-06","Tv On The Radio",9
+"2006-06","Ween",62
+"2006-07","A Perfect Circle",1
+"2006-07","Andrew Bird",1
+"2006-07","Calexico",20
+"2006-07","David Bowie",8
+"2006-07","Dinosaur Jr.",32
+"2006-07","Dream Theater",17
+"2006-07","Faith No More",170
+"2006-07","Fantômas",163
+"2006-07","Fountain Of Tears",26
+"2006-07","Frank Zappa",46
+"2006-07","Hella",6
+"2006-07","John Frusciante",83
+"2006-07","John Zorn",7
+"2006-07","Lightning Bolt",6
+"2006-07","Melvins",2
+"2006-07","Mr. Bungle",0
+"2006-07","Queens Of The Stone Age",1
+"2006-07","The Mars Volta",2
+"2006-07","Tv On The Radio",0
+"2006-07","Ween",1
+"2006-08","A Perfect Circle",1
+"2006-08","Andrew Bird",1
+"2006-08","Calexico",1
+"2006-08","David Bowie",1
+"2006-08","Dinosaur Jr.",0
+"2006-08","Dream Theater",0
+"2006-08","Faith No More",0
+"2006-08","Fantômas",1
+"2006-08","Fountain Of Tears",2
+"2006-08","Frank Zappa",0
+"2006-08","Hella",3
+"2006-08","John Frusciante",77
+"2006-08","John Zorn",26
+"2006-08","Lightning Bolt",69
+"2006-08","Melvins",146
+"2006-08","Mr. Bungle",28
+"2006-08","Queens Of The Stone Age",39
+"2006-08","The Mars Volta",30
+"2006-08","Tv On The Radio",0
+"2006-08","Ween",49
+"2006-09","A Perfect Circle",1
+"2006-09","Andrew Bird",0
+"2006-09","Calexico",0
+"2006-09","David Bowie",0
+"2006-09","Dinosaur Jr.",0
+"2006-09","Dream Theater",1
+"2006-09","Faith No More",1
+"2006-09","Fantômas",2
+"2006-09","Fountain Of Tears",2
+"2006-09","Frank Zappa",1
+"2006-09","Hella",2
+"2006-09","John Frusciante",1
+"2006-09","John Zorn",0
+"2006-09","Lightning Bolt",1
+"2006-09","Melvins",2
+"2006-09","Mr. Bungle",1
+"2006-09","Queens Of The Stone Age",1
+"2006-09","The Mars Volta",0
+"2006-09","Tv On The Radio",25
+"2006-09","Ween",309
+"2006-10","A Perfect Circle",23
+"2006-10","Andrew Bird",0
+"2006-10","Calexico",0
+"2006-10","David Bowie",1
+"2006-10","Dinosaur Jr.",6
+"2006-10","Dream Theater",1
+"2006-10","Faith No More",86
+"2006-10","Fantômas",67
+"2006-10","Fountain Of Tears",524
+"2006-10","Frank Zappa",4
+"2006-10","Hella",1
+"2006-10","John Frusciante",2
+"2006-10","John Zorn",7
+"2006-10","Lightning Bolt",1
+"2006-10","Melvins",76
+"2006-10","Mr. Bungle",0
+"2006-10","Queens Of The Stone Age",3
+"2006-10","The Mars Volta",0
+"2006-10","Tv On The Radio",0
+"2006-10","Ween",52
+"2006-11","A Perfect Circle",6
+"2006-11","Andrew Bird",1
+"2006-11","Calexico",5
+"2006-11","David Bowie",1
+"2006-11","Dinosaur Jr.",0
+"2006-11","Dream Theater",1
+"2006-11","Faith No More",6
+"2006-11","Fantômas",24
+"2006-11","Fountain Of Tears",130
+"2006-11","Frank Zappa",3
+"2006-11","Hella",12
+"2006-11","John Frusciante",9
+"2006-11","John Zorn",4
+"2006-11","Lightning Bolt",6
+"2006-11","Melvins",27
+"2006-11","Mr. Bungle",6
+"2006-11","Queens Of The Stone Age",6
+"2006-11","The Mars Volta",16
+"2006-11","Tv On The Radio",2
+"2006-11","Ween",13
+"2006-12","A Perfect Circle",9
+"2006-12","Andrew Bird",9
+"2006-12","Calexico",7
+"2006-12","David Bowie",9
+"2006-12","Dinosaur Jr.",5
+"2006-12","Dream Theater",2
+"2006-12","Faith No More",10
+"2006-12","Fantômas",6
+"2006-12","Fountain Of Tears",83
+"2006-12","Frank Zappa",7
+"2006-12","Hella",19
+"2006-12","John Frusciante",44
+"2006-12","John Zorn",10
+"2006-12","Lightning Bolt",44
+"2006-12","Melvins",95
+"2006-12","Mr. Bungle",15
+"2006-12","Queens Of The Stone Age",12
+"2006-12","The Mars Volta",29
+"2006-12","Tv On The Radio",4
+"2006-12","Ween",45
+"2007-01","A Perfect Circle",22
+"2007-01","Andrew Bird",68
+"2007-01","Calexico",2
+"2007-01","David Bowie",3
+"2007-01","Dinosaur Jr.",0
+"2007-01","Dream Theater",1
+"2007-01","Faith No More",2
+"2007-01","Fantômas",3
+"2007-01","Fountain Of Tears",8
+"2007-01","Frank Zappa",0
+"2007-01","Hella",3
+"2007-01","John Frusciante",1
+"2007-01","John Zorn",4
+"2007-01","Lightning Bolt",18
+"2007-01","Melvins",18
+"2007-01","Mr. Bungle",19
+"2007-01","Queens Of The Stone Age",3
+"2007-01","The Mars Volta",17
+"2007-01","Tv On The Radio",1
+"2007-01","Ween",6
+"2007-02","A Perfect Circle",0
+"2007-02","Andrew Bird",1
+"2007-02","Calexico",0
+"2007-02","David Bowie",0
+"2007-02","Dinosaur Jr.",0
+"2007-02","Dream Theater",0
+"2007-02","Faith No More",1
+"2007-02","Fantômas",0
+"2007-02","Fountain Of Tears",66
+"2007-02","Frank Zappa",0
+"2007-02","Hella",0
+"2007-02","John Frusciante",1
+"2007-02","John Zorn",0
+"2007-02","Lightning Bolt",1
+"2007-02","Melvins",2
+"2007-02","Mr. Bungle",0
+"2007-02","Queens Of The Stone Age",0
+"2007-02","The Mars Volta",1
+"2007-02","Tv On The Radio",0
+"2007-02","Ween",0
+"2007-03","A Perfect Circle",2
+"2007-03","Andrew Bird",1
+"2007-03","Calexico",77
+"2007-03","David Bowie",1
+"2007-03","Dinosaur Jr.",2
+"2007-03","Dream Theater",0
+"2007-03","Faith No More",4
+"2007-03","Fantômas",8
+"2007-03","Fountain Of Tears",0
+"2007-03","Frank Zappa",2
+"2007-03","Hella",2
+"2007-03","John Frusciante",14
+"2007-03","John Zorn",1
+"2007-03","Lightning Bolt",3
+"2007-03","Melvins",13
+"2007-03","Mr. Bungle",1
+"2007-03","Queens Of The Stone Age",3
+"2007-03","The Mars Volta",2
+"2007-03","Tv On The Radio",0
+"2007-03","Ween",14
+"2007-04","A Perfect Circle",0
+"2007-04","Andrew Bird",0
+"2007-04","Calexico",0
+"2007-04","David Bowie",6
+"2007-04","Dinosaur Jr.",0
+"2007-04","Dream Theater",0
+"2007-04","Faith No More",0
+"2007-04","Fantômas",0
+"2007-04","Fountain Of Tears",29
+"2007-04","Frank Zappa",0
+"2007-04","Hella",0
+"2007-04","John Frusciante",0
+"2007-04","John Zorn",0
+"2007-04","Lightning Bolt",0
+"2007-04","Melvins",0
+"2007-04","Mr. Bungle",0
+"2007-04","Queens Of The Stone Age",0
+"2007-04","The Mars Volta",0
+"2007-04","Tv On The Radio",0
+"2007-04","Ween",0
+"2007-05","A Perfect Circle",0
+"2007-05","Andrew Bird",2
+"2007-05","Calexico",1
+"2007-05","David Bowie",0
+"2007-05","Dinosaur Jr.",20
+"2007-05","Dream Theater",56
+"2007-05","Faith No More",0
+"2007-05","Fantômas",0
+"2007-05","Fountain Of Tears",24
+"2007-05","Frank Zappa",0
+"2007-05","Hella",0
+"2007-05","John Frusciante",0
+"2007-05","John Zorn",0
+"2007-05","Lightning Bolt",0
+"2007-05","Melvins",0
+"2007-05","Mr. Bungle",0
+"2007-05","Queens Of The Stone Age",0
+"2007-05","The Mars Volta",1
+"2007-05","Tv On The Radio",0
+"2007-05","Ween",1
+"2007-06","A Perfect Circle",1
+"2007-06","Andrew Bird",0
+"2007-06","Calexico",3
+"2007-06","David Bowie",0
+"2007-06","Dinosaur Jr.",1
+"2007-06","Dream Theater",3
+"2007-06","Faith No More",1
+"2007-06","Fantômas",1
+"2007-06","Fountain Of Tears",3
+"2007-06","Frank Zappa",0
+"2007-06","Hella",22
+"2007-06","John Frusciante",0
+"2007-06","John Zorn",1
+"2007-06","Lightning Bolt",2
+"2007-06","Melvins",0
+"2007-06","Mr. Bungle",2
+"2007-06","Queens Of The Stone Age",58
+"2007-06","The Mars Volta",2
+"2007-06","Tv On The Radio",26
+"2007-06","Ween",3
+"2007-07","A Perfect Circle",1
+"2007-07","Andrew Bird",3
+"2007-07","Calexico",2
+"2007-07","David Bowie",0
+"2007-07","Dinosaur Jr.",15
+"2007-07","Dream Theater",35
+"2007-07","Faith No More",0
+"2007-07","Fantômas",0
+"2007-07","Fountain Of Tears",194
+"2007-07","Frank Zappa",0
+"2007-07","Hella",34
+"2007-07","John Frusciante",0
+"2007-07","John Zorn",0
+"2007-07","Lightning Bolt",1
+"2007-07","Melvins",2
+"2007-07","Mr. Bungle",15
+"2007-07","Queens Of The Stone Age",48
+"2007-07","The Mars Volta",0
+"2007-07","Tv On The Radio",28
+"2007-07","Ween",24
+"2007-08","A Perfect Circle",4
+"2007-08","Andrew Bird",7
+"2007-08","Calexico",8
+"2007-08","David Bowie",1
+"2007-08","Dinosaur Jr.",1
+"2007-08","Dream Theater",1
+"2007-08","Faith No More",3
+"2007-08","Fantômas",3
+"2007-08","Fountain Of Tears",30
+"2007-08","Frank Zappa",2
+"2007-08","Hella",2
+"2007-08","John Frusciante",3
+"2007-08","John Zorn",1
+"2007-08","Lightning Bolt",1
+"2007-08","Melvins",7
+"2007-08","Mr. Bungle",2
+"2007-08","Queens Of The Stone Age",10
+"2007-08","The Mars Volta",2
+"2007-08","Tv On The Radio",3
+"2007-08","Ween",19
+"2007-09","A Perfect Circle",0
+"2007-09","Andrew Bird",0
+"2007-09","Calexico",0
+"2007-09","David Bowie",0
+"2007-09","Dinosaur Jr.",0
+"2007-09","Dream Theater",35
+"2007-09","Faith No More",0
+"2007-09","Fantômas",0
+"2007-09","Fountain Of Tears",0
+"2007-09","Frank Zappa",0
+"2007-09","Hella",0
+"2007-09","John Frusciante",0
+"2007-09","John Zorn",0
+"2007-09","Lightning Bolt",0
+"2007-09","Melvins",0
+"2007-09","Mr. Bungle",0
+"2007-09","Queens Of The Stone Age",0
+"2007-09","The Mars Volta",0
+"2007-09","Tv On The Radio",0
+"2007-09","Ween",0
+"2007-10","A Perfect Circle",0
+"2007-10","Andrew Bird",0
+"2007-10","Calexico",0
+"2007-10","David Bowie",0
+"2007-10","Dinosaur Jr.",0
+"2007-10","Dream Theater",0
+"2007-10","Faith No More",236
+"2007-10","Fantômas",262
+"2007-10","Fountain Of Tears",1
+"2007-10","Frank Zappa",0
+"2007-10","Hella",0
+"2007-10","John Frusciante",0
+"2007-10","John Zorn",0
+"2007-10","Lightning Bolt",0
+"2007-10","Melvins",0
+"2007-10","Mr. Bungle",0
+"2007-10","Queens Of The Stone Age",0
+"2007-10","The Mars Volta",0
+"2007-10","Tv On The Radio",0
+"2007-10","Ween",0
+"2007-11","A Perfect Circle",1
+"2007-11","Andrew Bird",0
+"2007-11","Calexico",0
+"2007-11","David Bowie",0
+"2007-11","Dinosaur Jr.",0
+"2007-11","Dream Theater",0
+"2007-11","Faith No More",0
+"2007-11","Fantômas",0
+"2007-11","Fountain Of Tears",580
+"2007-11","Frank Zappa",73
+"2007-11","Hella",0
+"2007-11","John Frusciante",1
+"2007-11","John Zorn",0
+"2007-11","Lightning Bolt",0
+"2007-11","Melvins",0
+"2007-11","Mr. Bungle",1
+"2007-11","Queens Of The Stone Age",0
+"2007-11","The Mars Volta",0
+"2007-11","Tv On The Radio",1
+"2007-11","Ween",118
+"2007-12","A Perfect Circle",0
+"2007-12","Andrew Bird",0
+"2007-12","Calexico",0
+"2007-12","David Bowie",0
+"2007-12","Dinosaur Jr.",0
+"2007-12","Dream Theater",0
+"2007-12","Faith No More",0
+"2007-12","Fantômas",0
+"2007-12","Fountain Of Tears",2
+"2007-12","Frank Zappa",23
+"2007-12","Hella",0
+"2007-12","John Frusciante",0
+"2007-12","John Zorn",0
+"2007-12","Lightning Bolt",0
+"2007-12","Melvins",0
+"2007-12","Mr. Bungle",0
+"2007-12","Queens Of The Stone Age",0
+"2007-12","The Mars Volta",0
+"2007-12","Tv On The Radio",0
+"2007-12","Ween",12
+"2008-01","A Perfect Circle",0
+"2008-01","Andrew Bird",0
+"2008-01","Calexico",0
+"2008-01","David Bowie",0
+"2008-01","Dinosaur Jr.",0
+"2008-01","Dream Theater",0
+"2008-01","Faith No More",0
+"2008-01","Fantômas",0
+"2008-01","Fountain Of Tears",0
+"2008-01","Frank Zappa",25
+"2008-01","Hella",0
+"2008-01","John Frusciante",11
+"2008-01","John Zorn",0
+"2008-01","Lightning Bolt",0
+"2008-01","Melvins",3
+"2008-01","Mr. Bungle",0
+"2008-01","Queens Of The Stone Age",0
+"2008-01","The Mars Volta",0
+"2008-01","Tv On The Radio",0
+"2008-01","Ween",0
+"2008-02","A Perfect Circle",0
+"2008-02","Andrew Bird",0
+"2008-02","Calexico",0
+"2008-02","David Bowie",0
+"2008-02","Dinosaur Jr.",0
+"2008-02","Dream Theater",0
+"2008-02","Faith No More",0
+"2008-02","Fantômas",0
+"2008-02","Fountain Of Tears",0
+"2008-02","Frank Zappa",0
+"2008-02","Hella",0
+"2008-02","John Frusciante",0
+"2008-02","John Zorn",0
+"2008-02","Lightning Bolt",0
+"2008-02","Melvins",0
+"2008-02","Mr. Bungle",0
+"2008-02","Queens Of The Stone Age",0
+"2008-02","The Mars Volta",0
+"2008-02","Tv On The Radio",0
+"2008-02","Ween",0
+"2008-03","A Perfect Circle",0
+"2008-03","Andrew Bird",0
+"2008-03","Calexico",0
+"2008-03","David Bowie",0
+"2008-03","Dinosaur Jr.",0
+"2008-03","Dream Theater",0
+"2008-03","Faith No More",0
+"2008-03","Fantômas",0
+"2008-03","Fountain Of Tears",0
+"2008-03","Frank Zappa",0
+"2008-03","Hella",0
+"2008-03","John Frusciante",0
+"2008-03","John Zorn",0
+"2008-03","Lightning Bolt",0
+"2008-03","Melvins",0
+"2008-03","Mr. Bungle",0
+"2008-03","Queens Of The Stone Age",0
+"2008-03","The Mars Volta",0
+"2008-03","Tv On The Radio",1
+"2008-03","Ween",0
+"2008-04","A Perfect Circle",0
+"2008-04","Andrew Bird",0
+"2008-04","Calexico",0
+"2008-04","David Bowie",0
+"2008-04","Dinosaur Jr.",0
+"2008-04","Dream Theater",0
+"2008-04","Faith No More",0
+"2008-04","Fantômas",0
+"2008-04","Fountain Of Tears",0
+"2008-04","Frank Zappa",0
+"2008-04","Hella",0
+"2008-04","John Frusciante",0
+"2008-04","John Zorn",0
+"2008-04","Lightning Bolt",0
+"2008-04","Melvins",0
+"2008-04","Mr. Bungle",0
+"2008-04","Queens Of The Stone Age",0
+"2008-04","The Mars Volta",0
+"2008-04","Tv On The Radio",0
+"2008-04","Ween",0
+"2008-05","A Perfect Circle",0
+"2008-05","Andrew Bird",0
+"2008-05","Calexico",0
+"2008-05","David Bowie",0
+"2008-05","Dinosaur Jr.",0
+"2008-05","Dream Theater",0
+"2008-05","Faith No More",1
+"2008-05","Fantômas",0
+"2008-05","Fountain Of Tears",0
+"2008-05","Frank Zappa",0
+"2008-05","Hella",0
+"2008-05","John Frusciante",0
+"2008-05","John Zorn",0
+"2008-05","Lightning Bolt",0
+"2008-05","Melvins",0
+"2008-05","Mr. Bungle",0
+"2008-05","Queens Of The Stone Age",0
+"2008-05","The Mars Volta",0
+"2008-05","Tv On The Radio",0
+"2008-05","Ween",0
+"2008-06","A Perfect Circle",0
+"2008-06","Andrew Bird",0
+"2008-06","Calexico",0
+"2008-06","David Bowie",3
+"2008-06","Dinosaur Jr.",0
+"2008-06","Dream Theater",0
+"2008-06","Faith No More",0
+"2008-06","Fantômas",0
+"2008-06","Fountain Of Tears",0
+"2008-06","Frank Zappa",0
+"2008-06","Hella",0
+"2008-06","John Frusciante",0
+"2008-06","John Zorn",0
+"2008-06","Lightning Bolt",0
+"2008-06","Melvins",0
+"2008-06","Mr. Bungle",0
+"2008-06","Queens Of The Stone Age",0
+"2008-06","The Mars Volta",0
+"2008-06","Tv On The Radio",0
+"2008-06","Ween",16
+"2008-07","A Perfect Circle",0
+"2008-07","Andrew Bird",0
+"2008-07","Calexico",0
+"2008-07","David Bowie",0
+"2008-07","Dinosaur Jr.",0
+"2008-07","Dream Theater",0
+"2008-07","Faith No More",0
+"2008-07","Fantômas",0
+"2008-07","Fountain Of Tears",0
+"2008-07","Frank Zappa",0
+"2008-07","Hella",120
+"2008-07","John Frusciante",0
+"2008-07","John Zorn",0
+"2008-07","Lightning Bolt",0
+"2008-07","Melvins",0
+"2008-07","Mr. Bungle",0
+"2008-07","Queens Of The Stone Age",0
+"2008-07","The Mars Volta",0
+"2008-07","Tv On The Radio",0
+"2008-07","Ween",0
+"2008-08","A Perfect Circle",0
+"2008-08","Andrew Bird",0
+"2008-08","Calexico",0
+"2008-08","David Bowie",0
+"2008-08","Dinosaur Jr.",0
+"2008-08","Dream Theater",0
+"2008-08","Faith No More",0
+"2008-08","Fantômas",0
+"2008-08","Fountain Of Tears",1
+"2008-08","Frank Zappa",0
+"2008-08","Hella",0
+"2008-08","John Frusciante",0
+"2008-08","John Zorn",0
+"2008-08","Lightning Bolt",0
+"2008-08","Melvins",0
+"2008-08","Mr. Bungle",0
+"2008-08","Queens Of The Stone Age",0
+"2008-08","The Mars Volta",0
+"2008-08","Tv On The Radio",0
+"2008-08","Ween",0
+"2008-09","A Perfect Circle",0
+"2008-09","Andrew Bird",0
+"2008-09","Calexico",1
+"2008-09","David Bowie",0
+"2008-09","Dinosaur Jr.",1
+"2008-09","Dream Theater",4
+"2008-09","Faith No More",0
+"2008-09","Fantômas",4
+"2008-09","Fountain Of Tears",0
+"2008-09","Frank Zappa",0
+"2008-09","Hella",0
+"2008-09","John Frusciante",410
+"2008-09","John Zorn",0
+"2008-09","Lightning Bolt",0
+"2008-09","Melvins",8
+"2008-09","Mr. Bungle",0
+"2008-09","Queens Of The Stone Age",0
+"2008-09","The Mars Volta",0
+"2008-09","Tv On The Radio",0
+"2008-09","Ween",2
+"2008-10","A Perfect Circle",0
+"2008-10","Andrew Bird",0
+"2008-10","Calexico",0
+"2008-10","David Bowie",1
+"2008-10","Dinosaur Jr.",0
+"2008-10","Dream Theater",0
+"2008-10","Faith No More",0
+"2008-10","Fantômas",2
+"2008-10","Fountain Of Tears",1
+"2008-10","Frank Zappa",0
+"2008-10","Hella",37
+"2008-10","John Frusciante",1
+"2008-10","John Zorn",0
+"2008-10","Lightning Bolt",0
+"2008-10","Melvins",2
+"2008-10","Mr. Bungle",1
+"2008-10","Queens Of The Stone Age",7
+"2008-10","The Mars Volta",1
+"2008-10","Tv On The Radio",0
+"2008-10","Ween",4
+"2008-11","A Perfect Circle",0
+"2008-11","Andrew Bird",0
+"2008-11","Calexico",0
+"2008-11","David Bowie",0
+"2008-11","Dinosaur Jr.",0
+"2008-11","Dream Theater",0
+"2008-11","Faith No More",0
+"2008-11","Fantômas",0
+"2008-11","Fountain Of Tears",3
+"2008-11","Frank Zappa",0
+"2008-11","Hella",1
+"2008-11","John Frusciante",2
+"2008-11","John Zorn",0
+"2008-11","Lightning Bolt",0
+"2008-11","Melvins",1
+"2008-11","Mr. Bungle",1
+"2008-11","Queens Of The Stone Age",0
+"2008-11","The Mars Volta",1
+"2008-11","Tv On The Radio",4
+"2008-11","Ween",4
+"2008-12","A Perfect Circle",2
+"2008-12","Andrew Bird",1
+"2008-12","Calexico",1
+"2008-12","David Bowie",1
+"2008-12","Dinosaur Jr.",1
+"2008-12","Dream Theater",1
+"2008-12","Faith No More",1
+"2008-12","Fantômas",3
+"2008-12","Fountain Of Tears",1
+"2008-12","Frank Zappa",8
+"2008-12","Hella",1
+"2008-12","John Frusciante",3
+"2008-12","John Zorn",1
+"2008-12","Lightning Bolt",1
+"2008-12","Melvins",5
+"2008-12","Mr. Bungle",5
+"2008-12","Queens Of The Stone Age",1
+"2008-12","The Mars Volta",3
+"2008-12","Tv On The Radio",3
+"2008-12","Ween",3
+"2009-01","A Perfect Circle",1
+"2009-01","Andrew Bird",1
+"2009-01","Calexico",2
+"2009-01","David Bowie",1
+"2009-01","Dinosaur Jr.",3
+"2009-01","Dream Theater",0
+"2009-01","Faith No More",0
+"2009-01","Fantômas",2
+"2009-01","Fountain Of Tears",3
+"2009-01","Frank Zappa",1
+"2009-01","Hella",0
+"2009-01","John Frusciante",4
+"2009-01","John Zorn",1
+"2009-01","Lightning Bolt",1
+"2009-01","Melvins",3
+"2009-01","Mr. Bungle",0
+"2009-01","Queens Of The Stone Age",1
+"2009-01","The Mars Volta",3
+"2009-01","Tv On The Radio",2
+"2009-01","Ween",5
+"2009-02","A Perfect Circle",1
+"2009-02","Andrew Bird",0
+"2009-02","Calexico",0
+"2009-02","David Bowie",0
+"2009-02","Dinosaur Jr.",2
+"2009-02","Dream Theater",0
+"2009-02","Faith No More",0
+"2009-02","Fantômas",0
+"2009-02","Fountain Of Tears",0
+"2009-02","Frank Zappa",0
+"2009-02","Hella",0
+"2009-02","John Frusciante",0
+"2009-02","John Zorn",2
+"2009-02","Lightning Bolt",0
+"2009-02","Melvins",2
+"2009-02","Mr. Bungle",0
+"2009-02","Queens Of The Stone Age",0
+"2009-02","The Mars Volta",0
+"2009-02","Tv On The Radio",2
+"2009-02","Ween",1
+"2009-03","A Perfect Circle",0
+"2009-03","Andrew Bird",1
+"2009-03","Calexico",0
+"2009-03","David Bowie",3
+"2009-03","Dinosaur Jr.",1
+"2009-03","Dream Theater",0
+"2009-03","Faith No More",1
+"2009-03","Fantômas",3
+"2009-03","Fountain Of Tears",0
+"2009-03","Frank Zappa",1
+"2009-03","Hella",0
+"2009-03","John Frusciante",3
+"2009-03","John Zorn",1
+"2009-03","Lightning Bolt",0
+"2009-03","Melvins",1
+"2009-03","Mr. Bungle",1
+"2009-03","Queens Of The Stone Age",1
+"2009-03","The Mars Volta",0
+"2009-03","Tv On The Radio",0
+"2009-03","Ween",2
+"2009-04","A Perfect Circle",0
+"2009-04","Andrew Bird",1
+"2009-04","Calexico",0
+"2009-04","David Bowie",0
+"2009-04","Dinosaur Jr.",0
+"2009-04","Dream Theater",0
+"2009-04","Faith No More",1
+"2009-04","Fantômas",1
+"2009-04","Fountain Of Tears",2
+"2009-04","Frank Zappa",0
+"2009-04","Hella",0
+"2009-04","John Frusciante",0
+"2009-04","John Zorn",1
+"2009-04","Lightning Bolt",0
+"2009-04","Melvins",1
+"2009-04","Mr. Bungle",1
+"2009-04","Queens Of The Stone Age",0
+"2009-04","The Mars Volta",0
+"2009-04","Tv On The Radio",1
+"2009-04","Ween",2

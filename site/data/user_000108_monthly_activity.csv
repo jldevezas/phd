@@ -1,761 +1,761 @@
-month,artist,plays
-2006-02,A Perfect Circle,1
-2006-02,Bush,2
-2006-02,Cold,1
-2006-02,Depeche Mode,21
-2006-02,Evanescence,3
-2006-02,Fatboy Slim,23
-2006-02,Franz Ferdinand,11
-2006-02,Guano Apes,2
-2006-02,Incubus,7
-2006-02,Jimmy Eat World,6
-2006-02,Johnny Cash,0
-2006-02,Korn,3
-2006-02,Liquido,0
-2006-02,Metallica,0
-2006-02,Moby,10
-2006-02,Oasis,1
-2006-02,Pain,1
-2006-02,Papa Roach,0
-2006-02,Placebo,0
-2006-02,The Offspring,0
-2006-03,A Perfect Circle,30
-2006-03,Bush,8
-2006-03,Cold,13
-2006-03,Depeche Mode,8
-2006-03,Evanescence,4
-2006-03,Fatboy Slim,26
-2006-03,Franz Ferdinand,4
-2006-03,Guano Apes,22
-2006-03,Incubus,14
-2006-03,Jimmy Eat World,8
-2006-03,Johnny Cash,23
-2006-03,Korn,4
-2006-03,Liquido,3
-2006-03,Metallica,1
-2006-03,Moby,23
-2006-03,Oasis,3
-2006-03,Pain,6
-2006-03,Papa Roach,12
-2006-03,Placebo,1
-2006-03,The Offspring,5
-2006-04,A Perfect Circle,3
-2006-04,Bush,1
-2006-04,Cold,1
-2006-04,Depeche Mode,0
-2006-04,Evanescence,0
-2006-04,Fatboy Slim,6
-2006-04,Franz Ferdinand,7
-2006-04,Guano Apes,2
-2006-04,Incubus,38
-2006-04,Jimmy Eat World,1
-2006-04,Johnny Cash,0
-2006-04,Korn,2
-2006-04,Liquido,1
-2006-04,Metallica,0
-2006-04,Moby,28
-2006-04,Oasis,0
-2006-04,Pain,0
-2006-04,Papa Roach,1
-2006-04,Placebo,7
-2006-04,The Offspring,0
-2006-05,A Perfect Circle,3
-2006-05,Bush,8
-2006-05,Cold,14
-2006-05,Depeche Mode,13
-2006-05,Evanescence,9
-2006-05,Fatboy Slim,21
-2006-05,Franz Ferdinand,2
-2006-05,Guano Apes,8
-2006-05,Incubus,10
-2006-05,Jimmy Eat World,11
-2006-05,Johnny Cash,22
-2006-05,Korn,32
-2006-05,Liquido,5
-2006-05,Metallica,10
-2006-05,Moby,15
-2006-05,Oasis,3
-2006-05,Pain,2
-2006-05,Papa Roach,5
-2006-05,Placebo,9
-2006-05,The Offspring,12
-2006-06,A Perfect Circle,2
-2006-06,Bush,1
-2006-06,Cold,10
-2006-06,Depeche Mode,3
-2006-06,Evanescence,2
-2006-06,Fatboy Slim,8
-2006-06,Franz Ferdinand,0
-2006-06,Guano Apes,7
-2006-06,Incubus,5
-2006-06,Jimmy Eat World,10
-2006-06,Johnny Cash,6
-2006-06,Korn,24
-2006-06,Liquido,3
-2006-06,Metallica,7
-2006-06,Moby,4
-2006-06,Oasis,2
-2006-06,Pain,1
-2006-06,Papa Roach,3
-2006-06,Placebo,8
-2006-06,The Offspring,21
-2006-07,A Perfect Circle,5
-2006-07,Bush,14
-2006-07,Cold,9
-2006-07,Depeche Mode,9
-2006-07,Evanescence,4
-2006-07,Fatboy Slim,17
-2006-07,Franz Ferdinand,11
-2006-07,Guano Apes,14
-2006-07,Incubus,12
-2006-07,Jimmy Eat World,9
-2006-07,Johnny Cash,20
-2006-07,Korn,24
-2006-07,Liquido,3
-2006-07,Metallica,6
-2006-07,Moby,15
-2006-07,Oasis,8
-2006-07,Pain,4
-2006-07,Papa Roach,7
-2006-07,Placebo,10
-2006-07,The Offspring,37
-2006-08,A Perfect Circle,3
-2006-08,Bush,7
-2006-08,Cold,13
-2006-08,Depeche Mode,8
-2006-08,Evanescence,3
-2006-08,Fatboy Slim,5
-2006-08,Franz Ferdinand,8
-2006-08,Guano Apes,6
-2006-08,Incubus,9
-2006-08,Jimmy Eat World,5
-2006-08,Johnny Cash,12
-2006-08,Korn,18
-2006-08,Liquido,5
-2006-08,Metallica,10
-2006-08,Moby,13
-2006-08,Oasis,1
-2006-08,Pain,5
-2006-08,Papa Roach,7
-2006-08,Placebo,12
-2006-08,The Offspring,15
-2006-09,A Perfect Circle,2
-2006-09,Bush,0
-2006-09,Cold,1
-2006-09,Depeche Mode,4
-2006-09,Evanescence,3
-2006-09,Fatboy Slim,1
-2006-09,Franz Ferdinand,2
-2006-09,Guano Apes,2
-2006-09,Incubus,4
-2006-09,Jimmy Eat World,3
-2006-09,Johnny Cash,2
-2006-09,Korn,6
-2006-09,Liquido,1
-2006-09,Metallica,2
-2006-09,Moby,2
-2006-09,Oasis,4
-2006-09,Pain,1
-2006-09,Papa Roach,2
-2006-09,Placebo,5
-2006-09,The Offspring,8
-2006-10,A Perfect Circle,1
-2006-10,Bush,0
-2006-10,Cold,0
-2006-10,Depeche Mode,1
-2006-10,Evanescence,0
-2006-10,Fatboy Slim,0
-2006-10,Franz Ferdinand,0
-2006-10,Guano Apes,0
-2006-10,Incubus,0
-2006-10,Jimmy Eat World,0
-2006-10,Johnny Cash,0
-2006-10,Korn,0
-2006-10,Liquido,0
-2006-10,Metallica,0
-2006-10,Moby,0
-2006-10,Oasis,0
-2006-10,Pain,0
-2006-10,Papa Roach,0
-2006-10,Placebo,1
-2006-10,The Offspring,1
-2006-11,A Perfect Circle,0
-2006-11,Bush,0
-2006-11,Cold,0
-2006-11,Depeche Mode,0
-2006-11,Evanescence,0
-2006-11,Fatboy Slim,0
-2006-11,Franz Ferdinand,0
-2006-11,Guano Apes,0
-2006-11,Incubus,0
-2006-11,Jimmy Eat World,0
-2006-11,Johnny Cash,0
-2006-11,Korn,0
-2006-11,Liquido,0
-2006-11,Metallica,0
-2006-11,Moby,0
-2006-11,Oasis,0
-2006-11,Pain,0
-2006-11,Papa Roach,0
-2006-11,Placebo,0
-2006-11,The Offspring,0
-2006-12,A Perfect Circle,6
-2006-12,Bush,4
-2006-12,Cold,8
-2006-12,Depeche Mode,3
-2006-12,Evanescence,6
-2006-12,Fatboy Slim,14
-2006-12,Franz Ferdinand,10
-2006-12,Guano Apes,9
-2006-12,Incubus,8
-2006-12,Jimmy Eat World,4
-2006-12,Johnny Cash,0
-2006-12,Korn,13
-2006-12,Liquido,2
-2006-12,Metallica,2
-2006-12,Moby,2
-2006-12,Oasis,2
-2006-12,Pain,1
-2006-12,Papa Roach,7
-2006-12,Placebo,0
-2006-12,The Offspring,0
-2007-01,A Perfect Circle,6
-2007-01,Bush,16
-2007-01,Cold,14
-2007-01,Depeche Mode,7
-2007-01,Evanescence,4
-2007-01,Fatboy Slim,20
-2007-01,Franz Ferdinand,5
-2007-01,Guano Apes,5
-2007-01,Incubus,13
-2007-01,Jimmy Eat World,6
-2007-01,Johnny Cash,1
-2007-01,Korn,21
-2007-01,Liquido,2
-2007-01,Metallica,11
-2007-01,Moby,13
-2007-01,Oasis,7
-2007-01,Pain,6
-2007-01,Papa Roach,6
-2007-01,Placebo,4
-2007-01,The Offspring,7
-2007-02,A Perfect Circle,2
-2007-02,Bush,5
-2007-02,Cold,5
-2007-02,Depeche Mode,4
-2007-02,Evanescence,2
-2007-02,Fatboy Slim,3
-2007-02,Franz Ferdinand,3
-2007-02,Guano Apes,10
-2007-02,Incubus,8
-2007-02,Jimmy Eat World,5
-2007-02,Johnny Cash,1
-2007-02,Korn,9
-2007-02,Liquido,1
-2007-02,Metallica,7
-2007-02,Moby,7
-2007-02,Oasis,1
-2007-02,Pain,2
-2007-02,Papa Roach,4
-2007-02,Placebo,3
-2007-02,The Offspring,12
-2007-03,A Perfect Circle,6
-2007-03,Bush,2
-2007-03,Cold,9
-2007-03,Depeche Mode,3
-2007-03,Evanescence,2
-2007-03,Fatboy Slim,3
-2007-03,Franz Ferdinand,3
-2007-03,Guano Apes,5
-2007-03,Incubus,4
-2007-03,Jimmy Eat World,2
-2007-03,Johnny Cash,12
-2007-03,Korn,22
-2007-03,Liquido,2
-2007-03,Metallica,3
-2007-03,Moby,4
-2007-03,Oasis,1
-2007-03,Pain,2
-2007-03,Papa Roach,7
-2007-03,Placebo,5
-2007-03,The Offspring,8
-2007-04,A Perfect Circle,6
-2007-04,Bush,3
-2007-04,Cold,4
-2007-04,Depeche Mode,4
-2007-04,Evanescence,3
-2007-04,Fatboy Slim,7
-2007-04,Franz Ferdinand,1
-2007-04,Guano Apes,7
-2007-04,Incubus,2
-2007-04,Jimmy Eat World,1
-2007-04,Johnny Cash,5
-2007-04,Korn,7
-2007-04,Liquido,1
-2007-04,Metallica,3
-2007-04,Moby,6
-2007-04,Oasis,0
-2007-04,Pain,3
-2007-04,Papa Roach,4
-2007-04,Placebo,4
-2007-04,The Offspring,10
-2007-05,A Perfect Circle,0
-2007-05,Bush,1
-2007-05,Cold,1
-2007-05,Depeche Mode,0
-2007-05,Evanescence,0
-2007-05,Fatboy Slim,1
-2007-05,Franz Ferdinand,1
-2007-05,Guano Apes,1
-2007-05,Incubus,2
-2007-05,Jimmy Eat World,2
-2007-05,Johnny Cash,1
-2007-05,Korn,1
-2007-05,Liquido,0
-2007-05,Metallica,2
-2007-05,Moby,1
-2007-05,Oasis,1
-2007-05,Pain,0
-2007-05,Papa Roach,0
-2007-05,Placebo,0
-2007-05,The Offspring,2
-2007-06,A Perfect Circle,0
-2007-06,Bush,0
-2007-06,Cold,0
-2007-06,Depeche Mode,0
-2007-06,Evanescence,0
-2007-06,Fatboy Slim,0
-2007-06,Franz Ferdinand,0
-2007-06,Guano Apes,0
-2007-06,Incubus,0
-2007-06,Jimmy Eat World,0
-2007-06,Johnny Cash,0
-2007-06,Korn,0
-2007-06,Liquido,0
-2007-06,Metallica,0
-2007-06,Moby,0
-2007-06,Oasis,0
-2007-06,Pain,0
-2007-06,Papa Roach,0
-2007-06,Placebo,0
-2007-06,The Offspring,0
-2007-07,A Perfect Circle,0
-2007-07,Bush,0
-2007-07,Cold,0
-2007-07,Depeche Mode,0
-2007-07,Evanescence,0
-2007-07,Fatboy Slim,0
-2007-07,Franz Ferdinand,0
-2007-07,Guano Apes,0
-2007-07,Incubus,0
-2007-07,Jimmy Eat World,0
-2007-07,Johnny Cash,0
-2007-07,Korn,0
-2007-07,Liquido,0
-2007-07,Metallica,0
-2007-07,Moby,0
-2007-07,Oasis,0
-2007-07,Pain,0
-2007-07,Papa Roach,0
-2007-07,Placebo,0
-2007-07,The Offspring,0
-2007-08,A Perfect Circle,0
-2007-08,Bush,0
-2007-08,Cold,0
-2007-08,Depeche Mode,0
-2007-08,Evanescence,0
-2007-08,Fatboy Slim,0
-2007-08,Franz Ferdinand,0
-2007-08,Guano Apes,0
-2007-08,Incubus,0
-2007-08,Jimmy Eat World,0
-2007-08,Johnny Cash,0
-2007-08,Korn,0
-2007-08,Liquido,0
-2007-08,Metallica,0
-2007-08,Moby,0
-2007-08,Oasis,0
-2007-08,Pain,0
-2007-08,Papa Roach,0
-2007-08,Placebo,0
-2007-08,The Offspring,0
-2007-09,A Perfect Circle,3
-2007-09,Bush,10
-2007-09,Cold,4
-2007-09,Depeche Mode,18
-2007-09,Evanescence,8
-2007-09,Fatboy Slim,11
-2007-09,Franz Ferdinand,1
-2007-09,Guano Apes,2
-2007-09,Incubus,11
-2007-09,Jimmy Eat World,1
-2007-09,Johnny Cash,11
-2007-09,Korn,11
-2007-09,Liquido,1
-2007-09,Metallica,37
-2007-09,Moby,9
-2007-09,Oasis,2
-2007-09,Pain,4
-2007-09,Papa Roach,7
-2007-09,Placebo,8
-2007-09,The Offspring,10
-2007-10,A Perfect Circle,3
-2007-10,Bush,1
-2007-10,Cold,5
-2007-10,Depeche Mode,1
-2007-10,Evanescence,3
-2007-10,Fatboy Slim,2
-2007-10,Franz Ferdinand,1
-2007-10,Guano Apes,5
-2007-10,Incubus,2
-2007-10,Jimmy Eat World,3
-2007-10,Johnny Cash,4
-2007-10,Korn,7
-2007-10,Liquido,3
-2007-10,Metallica,5
-2007-10,Moby,4
-2007-10,Oasis,4
-2007-10,Pain,1
-2007-10,Papa Roach,4
-2007-10,Placebo,6
-2007-10,The Offspring,3
-2007-11,A Perfect Circle,29
-2007-11,Bush,0
-2007-11,Cold,1
-2007-11,Depeche Mode,9
-2007-11,Evanescence,4
-2007-11,Fatboy Slim,0
-2007-11,Franz Ferdinand,1
-2007-11,Guano Apes,4
-2007-11,Incubus,1
-2007-11,Jimmy Eat World,1
-2007-11,Johnny Cash,1
-2007-11,Korn,9
-2007-11,Liquido,0
-2007-11,Metallica,3
-2007-11,Moby,0
-2007-11,Oasis,2
-2007-11,Pain,1
-2007-11,Papa Roach,1
-2007-11,Placebo,8
-2007-11,The Offspring,0
-2007-12,A Perfect Circle,1
-2007-12,Bush,1
-2007-12,Cold,0
-2007-12,Depeche Mode,1
-2007-12,Evanescence,1
-2007-12,Fatboy Slim,4
-2007-12,Franz Ferdinand,0
-2007-12,Guano Apes,0
-2007-12,Incubus,2
-2007-12,Jimmy Eat World,0
-2007-12,Johnny Cash,1
-2007-12,Korn,1
-2007-12,Liquido,1
-2007-12,Metallica,5
-2007-12,Moby,3
-2007-12,Oasis,3
-2007-12,Pain,0
-2007-12,Papa Roach,6
-2007-12,Placebo,5
-2007-12,The Offspring,1
-2008-01,A Perfect Circle,0
-2008-01,Bush,1
-2008-01,Cold,0
-2008-01,Depeche Mode,1
-2008-01,Evanescence,0
-2008-01,Fatboy Slim,0
-2008-01,Franz Ferdinand,0
-2008-01,Guano Apes,0
-2008-01,Incubus,1
-2008-01,Jimmy Eat World,0
-2008-01,Johnny Cash,1
-2008-01,Korn,0
-2008-01,Liquido,1
-2008-01,Metallica,0
-2008-01,Moby,0
-2008-01,Oasis,2
-2008-01,Pain,4
-2008-01,Papa Roach,4
-2008-01,Placebo,2
-2008-01,The Offspring,0
-2008-02,A Perfect Circle,0
-2008-02,Bush,0
-2008-02,Cold,0
-2008-02,Depeche Mode,0
-2008-02,Evanescence,0
-2008-02,Fatboy Slim,0
-2008-02,Franz Ferdinand,0
-2008-02,Guano Apes,0
-2008-02,Incubus,0
-2008-02,Jimmy Eat World,0
-2008-02,Johnny Cash,0
-2008-02,Korn,1
-2008-02,Liquido,0
-2008-02,Metallica,0
-2008-02,Moby,0
-2008-02,Oasis,0
-2008-02,Pain,0
-2008-02,Papa Roach,0
-2008-02,Placebo,0
-2008-02,The Offspring,0
-2008-03,A Perfect Circle,0
-2008-03,Bush,0
-2008-03,Cold,0
-2008-03,Depeche Mode,0
-2008-03,Evanescence,0
-2008-03,Fatboy Slim,0
-2008-03,Franz Ferdinand,0
-2008-03,Guano Apes,0
-2008-03,Incubus,0
-2008-03,Jimmy Eat World,0
-2008-03,Johnny Cash,0
-2008-03,Korn,0
-2008-03,Liquido,0
-2008-03,Metallica,0
-2008-03,Moby,0
-2008-03,Oasis,0
-2008-03,Pain,0
-2008-03,Papa Roach,0
-2008-03,Placebo,0
-2008-03,The Offspring,0
-2008-04,A Perfect Circle,0
-2008-04,Bush,0
-2008-04,Cold,0
-2008-04,Depeche Mode,0
-2008-04,Evanescence,0
-2008-04,Fatboy Slim,0
-2008-04,Franz Ferdinand,0
-2008-04,Guano Apes,0
-2008-04,Incubus,0
-2008-04,Jimmy Eat World,0
-2008-04,Johnny Cash,0
-2008-04,Korn,0
-2008-04,Liquido,0
-2008-04,Metallica,0
-2008-04,Moby,0
-2008-04,Oasis,0
-2008-04,Pain,0
-2008-04,Papa Roach,0
-2008-04,Placebo,0
-2008-04,The Offspring,0
-2008-05,A Perfect Circle,0
-2008-05,Bush,0
-2008-05,Cold,0
-2008-05,Depeche Mode,0
-2008-05,Evanescence,0
-2008-05,Fatboy Slim,0
-2008-05,Franz Ferdinand,0
-2008-05,Guano Apes,0
-2008-05,Incubus,0
-2008-05,Jimmy Eat World,0
-2008-05,Johnny Cash,0
-2008-05,Korn,0
-2008-05,Liquido,0
-2008-05,Metallica,0
-2008-05,Moby,0
-2008-05,Oasis,0
-2008-05,Pain,0
-2008-05,Papa Roach,0
-2008-05,Placebo,0
-2008-05,The Offspring,0
-2008-06,A Perfect Circle,0
-2008-06,Bush,0
-2008-06,Cold,0
-2008-06,Depeche Mode,0
-2008-06,Evanescence,0
-2008-06,Fatboy Slim,0
-2008-06,Franz Ferdinand,0
-2008-06,Guano Apes,0
-2008-06,Incubus,0
-2008-06,Jimmy Eat World,0
-2008-06,Johnny Cash,0
-2008-06,Korn,1
-2008-06,Liquido,0
-2008-06,Metallica,0
-2008-06,Moby,0
-2008-06,Oasis,0
-2008-06,Pain,0
-2008-06,Papa Roach,0
-2008-06,Placebo,0
-2008-06,The Offspring,0
-2008-07,A Perfect Circle,0
-2008-07,Bush,0
-2008-07,Cold,0
-2008-07,Depeche Mode,0
-2008-07,Evanescence,0
-2008-07,Fatboy Slim,2
-2008-07,Franz Ferdinand,1
-2008-07,Guano Apes,0
-2008-07,Incubus,0
-2008-07,Jimmy Eat World,0
-2008-07,Johnny Cash,4
-2008-07,Korn,1
-2008-07,Liquido,1
-2008-07,Metallica,1
-2008-07,Moby,1
-2008-07,Oasis,0
-2008-07,Pain,0
-2008-07,Papa Roach,0
-2008-07,Placebo,2
-2008-07,The Offspring,2
-2008-08,A Perfect Circle,0
-2008-08,Bush,0
-2008-08,Cold,0
-2008-08,Depeche Mode,0
-2008-08,Evanescence,0
-2008-08,Fatboy Slim,3
-2008-08,Franz Ferdinand,0
-2008-08,Guano Apes,0
-2008-08,Incubus,0
-2008-08,Jimmy Eat World,0
-2008-08,Johnny Cash,0
-2008-08,Korn,0
-2008-08,Liquido,0
-2008-08,Metallica,0
-2008-08,Moby,1
-2008-08,Oasis,0
-2008-08,Pain,0
-2008-08,Papa Roach,0
-2008-08,Placebo,0
-2008-08,The Offspring,0
-2008-09,A Perfect Circle,0
-2008-09,Bush,0
-2008-09,Cold,0
-2008-09,Depeche Mode,0
-2008-09,Evanescence,0
-2008-09,Fatboy Slim,0
-2008-09,Franz Ferdinand,0
-2008-09,Guano Apes,0
-2008-09,Incubus,0
-2008-09,Jimmy Eat World,0
-2008-09,Johnny Cash,0
-2008-09,Korn,0
-2008-09,Liquido,0
-2008-09,Metallica,0
-2008-09,Moby,0
-2008-09,Oasis,0
-2008-09,Pain,0
-2008-09,Papa Roach,0
-2008-09,Placebo,0
-2008-09,The Offspring,0
-2008-10,A Perfect Circle,0
-2008-10,Bush,0
-2008-10,Cold,0
-2008-10,Depeche Mode,0
-2008-10,Evanescence,1
-2008-10,Fatboy Slim,13
-2008-10,Franz Ferdinand,0
-2008-10,Guano Apes,1
-2008-10,Incubus,1
-2008-10,Jimmy Eat World,0
-2008-10,Johnny Cash,3
-2008-10,Korn,2
-2008-10,Liquido,2
-2008-10,Metallica,41
-2008-10,Moby,14
-2008-10,Oasis,4
-2008-10,Pain,45
-2008-10,Papa Roach,0
-2008-10,Placebo,3
-2008-10,The Offspring,141
-2008-11,A Perfect Circle,0
-2008-11,Bush,0
-2008-11,Cold,0
-2008-11,Depeche Mode,0
-2008-11,Evanescence,0
-2008-11,Fatboy Slim,0
-2008-11,Franz Ferdinand,0
-2008-11,Guano Apes,0
-2008-11,Incubus,0
-2008-11,Jimmy Eat World,0
-2008-11,Johnny Cash,0
-2008-11,Korn,0
-2008-11,Liquido,0
-2008-11,Metallica,0
-2008-11,Moby,0
-2008-11,Oasis,0
-2008-11,Pain,19
-2008-11,Papa Roach,0
-2008-11,Placebo,0
-2008-11,The Offspring,1
-2008-12,A Perfect Circle,0
-2008-12,Bush,0
-2008-12,Cold,0
-2008-12,Depeche Mode,0
-2008-12,Evanescence,0
-2008-12,Fatboy Slim,0
-2008-12,Franz Ferdinand,0
-2008-12,Guano Apes,0
-2008-12,Incubus,0
-2008-12,Jimmy Eat World,0
-2008-12,Johnny Cash,0
-2008-12,Korn,0
-2008-12,Liquido,0
-2008-12,Metallica,0
-2008-12,Moby,0
-2008-12,Oasis,0
-2008-12,Pain,0
-2008-12,Papa Roach,0
-2008-12,Placebo,0
-2008-12,The Offspring,0
-2009-01,A Perfect Circle,0
-2009-01,Bush,0
-2009-01,Cold,0
-2009-01,Depeche Mode,0
-2009-01,Evanescence,0
-2009-01,Fatboy Slim,0
-2009-01,Franz Ferdinand,0
-2009-01,Guano Apes,0
-2009-01,Incubus,0
-2009-01,Jimmy Eat World,0
-2009-01,Johnny Cash,0
-2009-01,Korn,0
-2009-01,Liquido,0
-2009-01,Metallica,0
-2009-01,Moby,0
-2009-01,Oasis,0
-2009-01,Pain,0
-2009-01,Papa Roach,0
-2009-01,Placebo,0
-2009-01,The Offspring,0
-2009-02,A Perfect Circle,0
-2009-02,Bush,0
-2009-02,Cold,0
-2009-02,Depeche Mode,0
-2009-02,Evanescence,0
-2009-02,Fatboy Slim,0
-2009-02,Franz Ferdinand,0
-2009-02,Guano Apes,0
-2009-02,Incubus,0
-2009-02,Jimmy Eat World,0
-2009-02,Johnny Cash,0
-2009-02,Korn,0
-2009-02,Liquido,0
-2009-02,Metallica,0
-2009-02,Moby,0
-2009-02,Oasis,0
-2009-02,Pain,0
-2009-02,Papa Roach,0
-2009-02,Placebo,0
-2009-02,The Offspring,0
-2009-03,A Perfect Circle,0
-2009-03,Bush,0
-2009-03,Cold,0
-2009-03,Depeche Mode,0
-2009-03,Evanescence,0
-2009-03,Fatboy Slim,0
-2009-03,Franz Ferdinand,0
-2009-03,Guano Apes,0
-2009-03,Incubus,0
-2009-03,Jimmy Eat World,0
-2009-03,Johnny Cash,0
-2009-03,Korn,0
-2009-03,Liquido,0
-2009-03,Metallica,0
-2009-03,Moby,0
-2009-03,Oasis,0
-2009-03,Pain,0
-2009-03,Papa Roach,1
-2009-03,Placebo,0
-2009-03,The Offspring,0
+"month","artist","plays"
+"2006-02","A Perfect Circle",1
+"2006-02","Bush",2
+"2006-02","Cold",1
+"2006-02","Depeche Mode",21
+"2006-02","Evanescence",3
+"2006-02","Fatboy Slim",23
+"2006-02","Franz Ferdinand",11
+"2006-02","Guano Apes",2
+"2006-02","Incubus",7
+"2006-02","Jimmy Eat World",6
+"2006-02","Johnny Cash",0
+"2006-02","Korn",3
+"2006-02","Liquido",0
+"2006-02","Metallica",0
+"2006-02","Moby",10
+"2006-02","Oasis",1
+"2006-02","Pain",1
+"2006-02","Papa Roach",0
+"2006-02","Placebo",0
+"2006-02","The Offspring",0
+"2006-03","A Perfect Circle",30
+"2006-03","Bush",8
+"2006-03","Cold",13
+"2006-03","Depeche Mode",8
+"2006-03","Evanescence",4
+"2006-03","Fatboy Slim",26
+"2006-03","Franz Ferdinand",4
+"2006-03","Guano Apes",22
+"2006-03","Incubus",14
+"2006-03","Jimmy Eat World",8
+"2006-03","Johnny Cash",23
+"2006-03","Korn",4
+"2006-03","Liquido",3
+"2006-03","Metallica",1
+"2006-03","Moby",23
+"2006-03","Oasis",3
+"2006-03","Pain",6
+"2006-03","Papa Roach",12
+"2006-03","Placebo",1
+"2006-03","The Offspring",5
+"2006-04","A Perfect Circle",3
+"2006-04","Bush",1
+"2006-04","Cold",1
+"2006-04","Depeche Mode",0
+"2006-04","Evanescence",0
+"2006-04","Fatboy Slim",6
+"2006-04","Franz Ferdinand",7
+"2006-04","Guano Apes",2
+"2006-04","Incubus",38
+"2006-04","Jimmy Eat World",1
+"2006-04","Johnny Cash",0
+"2006-04","Korn",2
+"2006-04","Liquido",1
+"2006-04","Metallica",0
+"2006-04","Moby",28
+"2006-04","Oasis",0
+"2006-04","Pain",0
+"2006-04","Papa Roach",1
+"2006-04","Placebo",7
+"2006-04","The Offspring",0
+"2006-05","A Perfect Circle",3
+"2006-05","Bush",8
+"2006-05","Cold",14
+"2006-05","Depeche Mode",13
+"2006-05","Evanescence",9
+"2006-05","Fatboy Slim",21
+"2006-05","Franz Ferdinand",2
+"2006-05","Guano Apes",8
+"2006-05","Incubus",10
+"2006-05","Jimmy Eat World",11
+"2006-05","Johnny Cash",22
+"2006-05","Korn",32
+"2006-05","Liquido",5
+"2006-05","Metallica",10
+"2006-05","Moby",15
+"2006-05","Oasis",3
+"2006-05","Pain",2
+"2006-05","Papa Roach",5
+"2006-05","Placebo",9
+"2006-05","The Offspring",12
+"2006-06","A Perfect Circle",2
+"2006-06","Bush",1
+"2006-06","Cold",10
+"2006-06","Depeche Mode",3
+"2006-06","Evanescence",2
+"2006-06","Fatboy Slim",8
+"2006-06","Franz Ferdinand",0
+"2006-06","Guano Apes",7
+"2006-06","Incubus",5
+"2006-06","Jimmy Eat World",10
+"2006-06","Johnny Cash",6
+"2006-06","Korn",24
+"2006-06","Liquido",3
+"2006-06","Metallica",7
+"2006-06","Moby",4
+"2006-06","Oasis",2
+"2006-06","Pain",1
+"2006-06","Papa Roach",3
+"2006-06","Placebo",8
+"2006-06","The Offspring",21
+"2006-07","A Perfect Circle",5
+"2006-07","Bush",14
+"2006-07","Cold",9
+"2006-07","Depeche Mode",9
+"2006-07","Evanescence",4
+"2006-07","Fatboy Slim",17
+"2006-07","Franz Ferdinand",11
+"2006-07","Guano Apes",14
+"2006-07","Incubus",12
+"2006-07","Jimmy Eat World",9
+"2006-07","Johnny Cash",20
+"2006-07","Korn",24
+"2006-07","Liquido",3
+"2006-07","Metallica",6
+"2006-07","Moby",15
+"2006-07","Oasis",8
+"2006-07","Pain",4
+"2006-07","Papa Roach",7
+"2006-07","Placebo",10
+"2006-07","The Offspring",37
+"2006-08","A Perfect Circle",3
+"2006-08","Bush",7
+"2006-08","Cold",13
+"2006-08","Depeche Mode",8
+"2006-08","Evanescence",3
+"2006-08","Fatboy Slim",5
+"2006-08","Franz Ferdinand",8
+"2006-08","Guano Apes",6
+"2006-08","Incubus",9
+"2006-08","Jimmy Eat World",5
+"2006-08","Johnny Cash",12
+"2006-08","Korn",18
+"2006-08","Liquido",5
+"2006-08","Metallica",10
+"2006-08","Moby",13
+"2006-08","Oasis",1
+"2006-08","Pain",5
+"2006-08","Papa Roach",7
+"2006-08","Placebo",12
+"2006-08","The Offspring",15
+"2006-09","A Perfect Circle",2
+"2006-09","Bush",0
+"2006-09","Cold",1
+"2006-09","Depeche Mode",4
+"2006-09","Evanescence",3
+"2006-09","Fatboy Slim",1
+"2006-09","Franz Ferdinand",2
+"2006-09","Guano Apes",2
+"2006-09","Incubus",4
+"2006-09","Jimmy Eat World",3
+"2006-09","Johnny Cash",2
+"2006-09","Korn",6
+"2006-09","Liquido",1
+"2006-09","Metallica",2
+"2006-09","Moby",2
+"2006-09","Oasis",4
+"2006-09","Pain",1
+"2006-09","Papa Roach",2
+"2006-09","Placebo",5
+"2006-09","The Offspring",8
+"2006-10","A Perfect Circle",1
+"2006-10","Bush",0
+"2006-10","Cold",0
+"2006-10","Depeche Mode",1
+"2006-10","Evanescence",0
+"2006-10","Fatboy Slim",0
+"2006-10","Franz Ferdinand",0
+"2006-10","Guano Apes",0
+"2006-10","Incubus",0
+"2006-10","Jimmy Eat World",0
+"2006-10","Johnny Cash",0
+"2006-10","Korn",0
+"2006-10","Liquido",0
+"2006-10","Metallica",0
+"2006-10","Moby",0
+"2006-10","Oasis",0
+"2006-10","Pain",0
+"2006-10","Papa Roach",0
+"2006-10","Placebo",1
+"2006-10","The Offspring",1
+"2006-11","A Perfect Circle",0
+"2006-11","Bush",0
+"2006-11","Cold",0
+"2006-11","Depeche Mode",0
+"2006-11","Evanescence",0
+"2006-11","Fatboy Slim",0
+"2006-11","Franz Ferdinand",0
+"2006-11","Guano Apes",0
+"2006-11","Incubus",0
+"2006-11","Jimmy Eat World",0
+"2006-11","Johnny Cash",0
+"2006-11","Korn",0
+"2006-11","Liquido",0
+"2006-11","Metallica",0
+"2006-11","Moby",0
+"2006-11","Oasis",0
+"2006-11","Pain",0
+"2006-11","Papa Roach",0
+"2006-11","Placebo",0
+"2006-11","The Offspring",0
+"2006-12","A Perfect Circle",6
+"2006-12","Bush",4
+"2006-12","Cold",8
+"2006-12","Depeche Mode",3
+"2006-12","Evanescence",6
+"2006-12","Fatboy Slim",14
+"2006-12","Franz Ferdinand",10
+"2006-12","Guano Apes",9
+"2006-12","Incubus",8
+"2006-12","Jimmy Eat World",4
+"2006-12","Johnny Cash",0
+"2006-12","Korn",13
+"2006-12","Liquido",2
+"2006-12","Metallica",2
+"2006-12","Moby",2
+"2006-12","Oasis",2
+"2006-12","Pain",1
+"2006-12","Papa Roach",7
+"2006-12","Placebo",0
+"2006-12","The Offspring",0
+"2007-01","A Perfect Circle",6
+"2007-01","Bush",16
+"2007-01","Cold",14
+"2007-01","Depeche Mode",7
+"2007-01","Evanescence",4
+"2007-01","Fatboy Slim",20
+"2007-01","Franz Ferdinand",5
+"2007-01","Guano Apes",5
+"2007-01","Incubus",13
+"2007-01","Jimmy Eat World",6
+"2007-01","Johnny Cash",1
+"2007-01","Korn",21
+"2007-01","Liquido",2
+"2007-01","Metallica",11
+"2007-01","Moby",13
+"2007-01","Oasis",7
+"2007-01","Pain",6
+"2007-01","Papa Roach",6
+"2007-01","Placebo",4
+"2007-01","The Offspring",7
+"2007-02","A Perfect Circle",2
+"2007-02","Bush",5
+"2007-02","Cold",5
+"2007-02","Depeche Mode",4
+"2007-02","Evanescence",2
+"2007-02","Fatboy Slim",3
+"2007-02","Franz Ferdinand",3
+"2007-02","Guano Apes",10
+"2007-02","Incubus",8
+"2007-02","Jimmy Eat World",5
+"2007-02","Johnny Cash",1
+"2007-02","Korn",9
+"2007-02","Liquido",1
+"2007-02","Metallica",7
+"2007-02","Moby",7
+"2007-02","Oasis",1
+"2007-02","Pain",2
+"2007-02","Papa Roach",4
+"2007-02","Placebo",3
+"2007-02","The Offspring",12
+"2007-03","A Perfect Circle",6
+"2007-03","Bush",2
+"2007-03","Cold",9
+"2007-03","Depeche Mode",3
+"2007-03","Evanescence",2
+"2007-03","Fatboy Slim",3
+"2007-03","Franz Ferdinand",3
+"2007-03","Guano Apes",5
+"2007-03","Incubus",4
+"2007-03","Jimmy Eat World",2
+"2007-03","Johnny Cash",12
+"2007-03","Korn",22
+"2007-03","Liquido",2
+"2007-03","Metallica",3
+"2007-03","Moby",4
+"2007-03","Oasis",1
+"2007-03","Pain",2
+"2007-03","Papa Roach",7
+"2007-03","Placebo",5
+"2007-03","The Offspring",8
+"2007-04","A Perfect Circle",6
+"2007-04","Bush",3
+"2007-04","Cold",4
+"2007-04","Depeche Mode",4
+"2007-04","Evanescence",3
+"2007-04","Fatboy Slim",7
+"2007-04","Franz Ferdinand",1
+"2007-04","Guano Apes",7
+"2007-04","Incubus",2
+"2007-04","Jimmy Eat World",1
+"2007-04","Johnny Cash",5
+"2007-04","Korn",7
+"2007-04","Liquido",1
+"2007-04","Metallica",3
+"2007-04","Moby",6
+"2007-04","Oasis",0
+"2007-04","Pain",3
+"2007-04","Papa Roach",4
+"2007-04","Placebo",4
+"2007-04","The Offspring",10
+"2007-05","A Perfect Circle",0
+"2007-05","Bush",1
+"2007-05","Cold",1
+"2007-05","Depeche Mode",0
+"2007-05","Evanescence",0
+"2007-05","Fatboy Slim",1
+"2007-05","Franz Ferdinand",1
+"2007-05","Guano Apes",1
+"2007-05","Incubus",2
+"2007-05","Jimmy Eat World",2
+"2007-05","Johnny Cash",1
+"2007-05","Korn",1
+"2007-05","Liquido",0
+"2007-05","Metallica",2
+"2007-05","Moby",1
+"2007-05","Oasis",1
+"2007-05","Pain",0
+"2007-05","Papa Roach",0
+"2007-05","Placebo",0
+"2007-05","The Offspring",2
+"2007-06","A Perfect Circle",0
+"2007-06","Bush",0
+"2007-06","Cold",0
+"2007-06","Depeche Mode",0
+"2007-06","Evanescence",0
+"2007-06","Fatboy Slim",0
+"2007-06","Franz Ferdinand",0
+"2007-06","Guano Apes",0
+"2007-06","Incubus",0
+"2007-06","Jimmy Eat World",0
+"2007-06","Johnny Cash",0
+"2007-06","Korn",0
+"2007-06","Liquido",0
+"2007-06","Metallica",0
+"2007-06","Moby",0
+"2007-06","Oasis",0
+"2007-06","Pain",0
+"2007-06","Papa Roach",0
+"2007-06","Placebo",0
+"2007-06","The Offspring",0
+"2007-07","A Perfect Circle",0
+"2007-07","Bush",0
+"2007-07","Cold",0
+"2007-07","Depeche Mode",0
+"2007-07","Evanescence",0
+"2007-07","Fatboy Slim",0
+"2007-07","Franz Ferdinand",0
+"2007-07","Guano Apes",0
+"2007-07","Incubus",0
+"2007-07","Jimmy Eat World",0
+"2007-07","Johnny Cash",0
+"2007-07","Korn",0
+"2007-07","Liquido",0
+"2007-07","Metallica",0
+"2007-07","Moby",0
+"2007-07","Oasis",0
+"2007-07","Pain",0
+"2007-07","Papa Roach",0
+"2007-07","Placebo",0
+"2007-07","The Offspring",0
+"2007-08","A Perfect Circle",0
+"2007-08","Bush",0
+"2007-08","Cold",0
+"2007-08","Depeche Mode",0
+"2007-08","Evanescence",0
+"2007-08","Fatboy Slim",0
+"2007-08","Franz Ferdinand",0
+"2007-08","Guano Apes",0
+"2007-08","Incubus",0
+"2007-08","Jimmy Eat World",0
+"2007-08","Johnny Cash",0
+"2007-08","Korn",0
+"2007-08","Liquido",0
+"2007-08","Metallica",0
+"2007-08","Moby",0
+"2007-08","Oasis",0
+"2007-08","Pain",0
+"2007-08","Papa Roach",0
+"2007-08","Placebo",0
+"2007-08","The Offspring",0
+"2007-09","A Perfect Circle",3
+"2007-09","Bush",10
+"2007-09","Cold",4
+"2007-09","Depeche Mode",18
+"2007-09","Evanescence",8
+"2007-09","Fatboy Slim",11
+"2007-09","Franz Ferdinand",1
+"2007-09","Guano Apes",2
+"2007-09","Incubus",11
+"2007-09","Jimmy Eat World",1
+"2007-09","Johnny Cash",11
+"2007-09","Korn",11
+"2007-09","Liquido",1
+"2007-09","Metallica",37
+"2007-09","Moby",9
+"2007-09","Oasis",2
+"2007-09","Pain",4
+"2007-09","Papa Roach",7
+"2007-09","Placebo",8
+"2007-09","The Offspring",10
+"2007-10","A Perfect Circle",3
+"2007-10","Bush",1
+"2007-10","Cold",5
+"2007-10","Depeche Mode",1
+"2007-10","Evanescence",3
+"2007-10","Fatboy Slim",2
+"2007-10","Franz Ferdinand",1
+"2007-10","Guano Apes",5
+"2007-10","Incubus",2
+"2007-10","Jimmy Eat World",3
+"2007-10","Johnny Cash",4
+"2007-10","Korn",7
+"2007-10","Liquido",3
+"2007-10","Metallica",5
+"2007-10","Moby",4
+"2007-10","Oasis",4
+"2007-10","Pain",1
+"2007-10","Papa Roach",4
+"2007-10","Placebo",6
+"2007-10","The Offspring",3
+"2007-11","A Perfect Circle",29
+"2007-11","Bush",0
+"2007-11","Cold",1
+"2007-11","Depeche Mode",9
+"2007-11","Evanescence",4
+"2007-11","Fatboy Slim",0
+"2007-11","Franz Ferdinand",1
+"2007-11","Guano Apes",4
+"2007-11","Incubus",1
+"2007-11","Jimmy Eat World",1
+"2007-11","Johnny Cash",1
+"2007-11","Korn",9
+"2007-11","Liquido",0
+"2007-11","Metallica",3
+"2007-11","Moby",0
+"2007-11","Oasis",2
+"2007-11","Pain",1
+"2007-11","Papa Roach",1
+"2007-11","Placebo",8
+"2007-11","The Offspring",0
+"2007-12","A Perfect Circle",1
+"2007-12","Bush",1
+"2007-12","Cold",0
+"2007-12","Depeche Mode",1
+"2007-12","Evanescence",1
+"2007-12","Fatboy Slim",4
+"2007-12","Franz Ferdinand",0
+"2007-12","Guano Apes",0
+"2007-12","Incubus",2
+"2007-12","Jimmy Eat World",0
+"2007-12","Johnny Cash",1
+"2007-12","Korn",1
+"2007-12","Liquido",1
+"2007-12","Metallica",5
+"2007-12","Moby",3
+"2007-12","Oasis",3
+"2007-12","Pain",0
+"2007-12","Papa Roach",6
+"2007-12","Placebo",5
+"2007-12","The Offspring",1
+"2008-01","A Perfect Circle",0
+"2008-01","Bush",1
+"2008-01","Cold",0
+"2008-01","Depeche Mode",1
+"2008-01","Evanescence",0
+"2008-01","Fatboy Slim",0
+"2008-01","Franz Ferdinand",0
+"2008-01","Guano Apes",0
+"2008-01","Incubus",1
+"2008-01","Jimmy Eat World",0
+"2008-01","Johnny Cash",1
+"2008-01","Korn",0
+"2008-01","Liquido",1
+"2008-01","Metallica",0
+"2008-01","Moby",0
+"2008-01","Oasis",2
+"2008-01","Pain",4
+"2008-01","Papa Roach",4
+"2008-01","Placebo",2
+"2008-01","The Offspring",0
+"2008-02","A Perfect Circle",0
+"2008-02","Bush",0
+"2008-02","Cold",0
+"2008-02","Depeche Mode",0
+"2008-02","Evanescence",0
+"2008-02","Fatboy Slim",0
+"2008-02","Franz Ferdinand",0
+"2008-02","Guano Apes",0
+"2008-02","Incubus",0
+"2008-02","Jimmy Eat World",0
+"2008-02","Johnny Cash",0
+"2008-02","Korn",1
+"2008-02","Liquido",0
+"2008-02","Metallica",0
+"2008-02","Moby",0
+"2008-02","Oasis",0
+"2008-02","Pain",0
+"2008-02","Papa Roach",0
+"2008-02","Placebo",0
+"2008-02","The Offspring",0
+"2008-03","A Perfect Circle",0
+"2008-03","Bush",0
+"2008-03","Cold",0
+"2008-03","Depeche Mode",0
+"2008-03","Evanescence",0
+"2008-03","Fatboy Slim",0
+"2008-03","Franz Ferdinand",0
+"2008-03","Guano Apes",0
+"2008-03","Incubus",0
+"2008-03","Jimmy Eat World",0
+"2008-03","Johnny Cash",0
+"2008-03","Korn",0
+"2008-03","Liquido",0
+"2008-03","Metallica",0
+"2008-03","Moby",0
+"2008-03","Oasis",0
+"2008-03","Pain",0
+"2008-03","Papa Roach",0
+"2008-03","Placebo",0
+"2008-03","The Offspring",0
+"2008-04","A Perfect Circle",0
+"2008-04","Bush",0
+"2008-04","Cold",0
+"2008-04","Depeche Mode",0
+"2008-04","Evanescence",0
+"2008-04","Fatboy Slim",0
+"2008-04","Franz Ferdinand",0
+"2008-04","Guano Apes",0
+"2008-04","Incubus",0
+"2008-04","Jimmy Eat World",0
+"2008-04","Johnny Cash",0
+"2008-04","Korn",0
+"2008-04","Liquido",0
+"2008-04","Metallica",0
+"2008-04","Moby",0
+"2008-04","Oasis",0
+"2008-04","Pain",0
+"2008-04","Papa Roach",0
+"2008-04","Placebo",0
+"2008-04","The Offspring",0
+"2008-05","A Perfect Circle",0
+"2008-05","Bush",0
+"2008-05","Cold",0
+"2008-05","Depeche Mode",0
+"2008-05","Evanescence",0
+"2008-05","Fatboy Slim",0
+"2008-05","Franz Ferdinand",0
+"2008-05","Guano Apes",0
+"2008-05","Incubus",0
+"2008-05","Jimmy Eat World",0
+"2008-05","Johnny Cash",0
+"2008-05","Korn",0
+"2008-05","Liquido",0
+"2008-05","Metallica",0
+"2008-05","Moby",0
+"2008-05","Oasis",0
+"2008-05","Pain",0
+"2008-05","Papa Roach",0
+"2008-05","Placebo",0
+"2008-05","The Offspring",0
+"2008-06","A Perfect Circle",0
+"2008-06","Bush",0
+"2008-06","Cold",0
+"2008-06","Depeche Mode",0
+"2008-06","Evanescence",0
+"2008-06","Fatboy Slim",0
+"2008-06","Franz Ferdinand",0
+"2008-06","Guano Apes",0
+"2008-06","Incubus",0
+"2008-06","Jimmy Eat World",0
+"2008-06","Johnny Cash",0
+"2008-06","Korn",1
+"2008-06","Liquido",0
+"2008-06","Metallica",0
+"2008-06","Moby",0
+"2008-06","Oasis",0
+"2008-06","Pain",0
+"2008-06","Papa Roach",0
+"2008-06","Placebo",0
+"2008-06","The Offspring",0
+"2008-07","A Perfect Circle",0
+"2008-07","Bush",0
+"2008-07","Cold",0
+"2008-07","Depeche Mode",0
+"2008-07","Evanescence",0
+"2008-07","Fatboy Slim",2
+"2008-07","Franz Ferdinand",1
+"2008-07","Guano Apes",0
+"2008-07","Incubus",0
+"2008-07","Jimmy Eat World",0
+"2008-07","Johnny Cash",4
+"2008-07","Korn",1
+"2008-07","Liquido",1
+"2008-07","Metallica",1
+"2008-07","Moby",1
+"2008-07","Oasis",0
+"2008-07","Pain",0
+"2008-07","Papa Roach",0
+"2008-07","Placebo",2
+"2008-07","The Offspring",2
+"2008-08","A Perfect Circle",0
+"2008-08","Bush",0
+"2008-08","Cold",0
+"2008-08","Depeche Mode",0
+"2008-08","Evanescence",0
+"2008-08","Fatboy Slim",3
+"2008-08","Franz Ferdinand",0
+"2008-08","Guano Apes",0
+"2008-08","Incubus",0
+"2008-08","Jimmy Eat World",0
+"2008-08","Johnny Cash",0
+"2008-08","Korn",0
+"2008-08","Liquido",0
+"2008-08","Metallica",0
+"2008-08","Moby",1
+"2008-08","Oasis",0
+"2008-08","Pain",0
+"2008-08","Papa Roach",0
+"2008-08","Placebo",0
+"2008-08","The Offspring",0
+"2008-09","A Perfect Circle",0
+"2008-09","Bush",0
+"2008-09","Cold",0
+"2008-09","Depeche Mode",0
+"2008-09","Evanescence",0
+"2008-09","Fatboy Slim",0
+"2008-09","Franz Ferdinand",0
+"2008-09","Guano Apes",0
+"2008-09","Incubus",0
+"2008-09","Jimmy Eat World",0
+"2008-09","Johnny Cash",0
+"2008-09","Korn",0
+"2008-09","Liquido",0
+"2008-09","Metallica",0
+"2008-09","Moby",0
+"2008-09","Oasis",0
+"2008-09","Pain",0
+"2008-09","Papa Roach",0
+"2008-09","Placebo",0
+"2008-09","The Offspring",0
+"2008-10","A Perfect Circle",0
+"2008-10","Bush",0
+"2008-10","Cold",0
+"2008-10","Depeche Mode",0
+"2008-10","Evanescence",1
+"2008-10","Fatboy Slim",13
+"2008-10","Franz Ferdinand",0
+"2008-10","Guano Apes",1
+"2008-10","Incubus",1
+"2008-10","Jimmy Eat World",0
+"2008-10","Johnny Cash",3
+"2008-10","Korn",2
+"2008-10","Liquido",2
+"2008-10","Metallica",41
+"2008-10","Moby",14
+"2008-10","Oasis",4
+"2008-10","Pain",45
+"2008-10","Papa Roach",0
+"2008-10","Placebo",3
+"2008-10","The Offspring",141
+"2008-11","A Perfect Circle",0
+"2008-11","Bush",0
+"2008-11","Cold",0
+"2008-11","Depeche Mode",0
+"2008-11","Evanescence",0
+"2008-11","Fatboy Slim",0
+"2008-11","Franz Ferdinand",0
+"2008-11","Guano Apes",0
+"2008-11","Incubus",0
+"2008-11","Jimmy Eat World",0
+"2008-11","Johnny Cash",0
+"2008-11","Korn",0
+"2008-11","Liquido",0
+"2008-11","Metallica",0
+"2008-11","Moby",0
+"2008-11","Oasis",0
+"2008-11","Pain",19
+"2008-11","Papa Roach",0
+"2008-11","Placebo",0
+"2008-11","The Offspring",1
+"2008-12","A Perfect Circle",0
+"2008-12","Bush",0
+"2008-12","Cold",0
+"2008-12","Depeche Mode",0
+"2008-12","Evanescence",0
+"2008-12","Fatboy Slim",0
+"2008-12","Franz Ferdinand",0
+"2008-12","Guano Apes",0
+"2008-12","Incubus",0
+"2008-12","Jimmy Eat World",0
+"2008-12","Johnny Cash",0
+"2008-12","Korn",0
+"2008-12","Liquido",0
+"2008-12","Metallica",0
+"2008-12","Moby",0
+"2008-12","Oasis",0
+"2008-12","Pain",0
+"2008-12","Papa Roach",0
+"2008-12","Placebo",0
+"2008-12","The Offspring",0
+"2009-01","A Perfect Circle",0
+"2009-01","Bush",0
+"2009-01","Cold",0
+"2009-01","Depeche Mode",0
+"2009-01","Evanescence",0
+"2009-01","Fatboy Slim",0
+"2009-01","Franz Ferdinand",0
+"2009-01","Guano Apes",0
+"2009-01","Incubus",0
+"2009-01","Jimmy Eat World",0
+"2009-01","Johnny Cash",0
+"2009-01","Korn",0
+"2009-01","Liquido",0
+"2009-01","Metallica",0
+"2009-01","Moby",0
+"2009-01","Oasis",0
+"2009-01","Pain",0
+"2009-01","Papa Roach",0
+"2009-01","Placebo",0
+"2009-01","The Offspring",0
+"2009-02","A Perfect Circle",0
+"2009-02","Bush",0
+"2009-02","Cold",0
+"2009-02","Depeche Mode",0
+"2009-02","Evanescence",0
+"2009-02","Fatboy Slim",0
+"2009-02","Franz Ferdinand",0
+"2009-02","Guano Apes",0
+"2009-02","Incubus",0
+"2009-02","Jimmy Eat World",0
+"2009-02","Johnny Cash",0
+"2009-02","Korn",0
+"2009-02","Liquido",0
+"2009-02","Metallica",0
+"2009-02","Moby",0
+"2009-02","Oasis",0
+"2009-02","Pain",0
+"2009-02","Papa Roach",0
+"2009-02","Placebo",0
+"2009-02","The Offspring",0
+"2009-03","A Perfect Circle",0
+"2009-03","Bush",0
+"2009-03","Cold",0
+"2009-03","Depeche Mode",0
+"2009-03","Evanescence",0
+"2009-03","Fatboy Slim",0
+"2009-03","Franz Ferdinand",0
+"2009-03","Guano Apes",0
+"2009-03","Incubus",0
+"2009-03","Jimmy Eat World",0
+"2009-03","Johnny Cash",0
+"2009-03","Korn",0
+"2009-03","Liquido",0
+"2009-03","Metallica",0
+"2009-03","Moby",0
+"2009-03","Oasis",0
+"2009-03","Pain",0
+"2009-03","Papa Roach",1
+"2009-03","Placebo",0
+"2009-03","The Offspring",0

@@ -1,861 +1,861 @@
-month,artist,plays
-2005-12,*Nsync,0
-2005-12,30 Seconds To Mars,0
-2005-12,50 Cent,6
-2005-12,Afi,0
-2005-12,Ashlee Simpson,11
-2005-12,Bob Sinclar,0
-2005-12,Britney Spears,389
-2005-12,Fergie,0
-2005-12,Jennifer Lopez,9
-2005-12,Justin Timberlake,5
-2005-12,Madonna,14
-2005-12,Nelly Furtado,0
-2005-12,No Doubt,5
-2005-12,P!Nk,0
-2005-12,Red Hot Chili Peppers,0
-2005-12,Rihanna,1
-2005-12,Sean Paul,5
-2005-12,The Black Eyed Peas,47
-2005-12,The Pussycat Dolls,22
-2005-12,Timbaland,0
-2006-01,*Nsync,0
-2006-01,30 Seconds To Mars,0
-2006-01,50 Cent,0
-2006-01,Afi,0
-2006-01,Ashlee Simpson,1
-2006-01,Bob Sinclar,0
-2006-01,Britney Spears,461
-2006-01,Fergie,0
-2006-01,Jennifer Lopez,0
-2006-01,Justin Timberlake,3
-2006-01,Madonna,1
-2006-01,Nelly Furtado,0
-2006-01,No Doubt,0
-2006-01,P!Nk,0
-2006-01,Red Hot Chili Peppers,0
-2006-01,Rihanna,2
-2006-01,Sean Paul,0
-2006-01,The Black Eyed Peas,13
-2006-01,The Pussycat Dolls,2
-2006-01,Timbaland,0
-2006-02,*Nsync,0
-2006-02,30 Seconds To Mars,0
-2006-02,50 Cent,0
-2006-02,Afi,0
-2006-02,Ashlee Simpson,0
-2006-02,Bob Sinclar,0
-2006-02,Britney Spears,0
-2006-02,Fergie,0
-2006-02,Jennifer Lopez,0
-2006-02,Justin Timberlake,0
-2006-02,Madonna,0
-2006-02,Nelly Furtado,0
-2006-02,No Doubt,0
-2006-02,P!Nk,0
-2006-02,Red Hot Chili Peppers,0
-2006-02,Rihanna,0
-2006-02,Sean Paul,0
-2006-02,The Black Eyed Peas,0
-2006-02,The Pussycat Dolls,0
-2006-02,Timbaland,0
-2006-03,*Nsync,0
-2006-03,30 Seconds To Mars,0
-2006-03,50 Cent,0
-2006-03,Afi,0
-2006-03,Ashlee Simpson,0
-2006-03,Bob Sinclar,0
-2006-03,Britney Spears,0
-2006-03,Fergie,0
-2006-03,Jennifer Lopez,0
-2006-03,Justin Timberlake,0
-2006-03,Madonna,0
-2006-03,Nelly Furtado,0
-2006-03,No Doubt,0
-2006-03,P!Nk,0
-2006-03,Red Hot Chili Peppers,0
-2006-03,Rihanna,0
-2006-03,Sean Paul,0
-2006-03,The Black Eyed Peas,0
-2006-03,The Pussycat Dolls,0
-2006-03,Timbaland,0
-2006-04,*Nsync,0
-2006-04,30 Seconds To Mars,0
-2006-04,50 Cent,0
-2006-04,Afi,0
-2006-04,Ashlee Simpson,0
-2006-04,Bob Sinclar,0
-2006-04,Britney Spears,0
-2006-04,Fergie,0
-2006-04,Jennifer Lopez,0
-2006-04,Justin Timberlake,0
-2006-04,Madonna,0
-2006-04,Nelly Furtado,0
-2006-04,No Doubt,0
-2006-04,P!Nk,0
-2006-04,Red Hot Chili Peppers,0
-2006-04,Rihanna,0
-2006-04,Sean Paul,0
-2006-04,The Black Eyed Peas,0
-2006-04,The Pussycat Dolls,0
-2006-04,Timbaland,0
-2006-05,*Nsync,0
-2006-05,30 Seconds To Mars,0
-2006-05,50 Cent,0
-2006-05,Afi,0
-2006-05,Ashlee Simpson,0
-2006-05,Bob Sinclar,0
-2006-05,Britney Spears,0
-2006-05,Fergie,0
-2006-05,Jennifer Lopez,0
-2006-05,Justin Timberlake,0
-2006-05,Madonna,0
-2006-05,Nelly Furtado,0
-2006-05,No Doubt,0
-2006-05,P!Nk,0
-2006-05,Red Hot Chili Peppers,0
-2006-05,Rihanna,0
-2006-05,Sean Paul,0
-2006-05,The Black Eyed Peas,0
-2006-05,The Pussycat Dolls,0
-2006-05,Timbaland,0
-2006-06,*Nsync,0
-2006-06,30 Seconds To Mars,0
-2006-06,50 Cent,0
-2006-06,Afi,0
-2006-06,Ashlee Simpson,0
-2006-06,Bob Sinclar,0
-2006-06,Britney Spears,0
-2006-06,Fergie,0
-2006-06,Jennifer Lopez,0
-2006-06,Justin Timberlake,0
-2006-06,Madonna,0
-2006-06,Nelly Furtado,0
-2006-06,No Doubt,0
-2006-06,P!Nk,0
-2006-06,Red Hot Chili Peppers,0
-2006-06,Rihanna,0
-2006-06,Sean Paul,0
-2006-06,The Black Eyed Peas,0
-2006-06,The Pussycat Dolls,0
-2006-06,Timbaland,0
-2006-07,*Nsync,1
-2006-07,30 Seconds To Mars,0
-2006-07,50 Cent,0
-2006-07,Afi,0
-2006-07,Ashlee Simpson,2
-2006-07,Bob Sinclar,0
-2006-07,Britney Spears,52
-2006-07,Fergie,0
-2006-07,Jennifer Lopez,7
-2006-07,Justin Timberlake,0
-2006-07,Madonna,0
-2006-07,Nelly Furtado,4
-2006-07,No Doubt,1
-2006-07,P!Nk,1
-2006-07,Red Hot Chili Peppers,4
-2006-07,Rihanna,2
-2006-07,Sean Paul,2
-2006-07,The Black Eyed Peas,1
-2006-07,The Pussycat Dolls,0
-2006-07,Timbaland,0
-2006-08,*Nsync,29
-2006-08,30 Seconds To Mars,0
-2006-08,50 Cent,2
-2006-08,Afi,0
-2006-08,Ashlee Simpson,14
-2006-08,Bob Sinclar,0
-2006-08,Britney Spears,475
-2006-08,Fergie,14
-2006-08,Jennifer Lopez,69
-2006-08,Justin Timberlake,64
-2006-08,Madonna,15
-2006-08,Nelly Furtado,37
-2006-08,No Doubt,22
-2006-08,P!Nk,24
-2006-08,Red Hot Chili Peppers,17
-2006-08,Rihanna,6
-2006-08,Sean Paul,1
-2006-08,The Black Eyed Peas,50
-2006-08,The Pussycat Dolls,34
-2006-08,Timbaland,0
-2006-09,*Nsync,24
-2006-09,30 Seconds To Mars,0
-2006-09,50 Cent,2
-2006-09,Afi,0
-2006-09,Ashlee Simpson,18
-2006-09,Bob Sinclar,0
-2006-09,Britney Spears,232
-2006-09,Fergie,59
-2006-09,Jennifer Lopez,3
-2006-09,Justin Timberlake,23
-2006-09,Madonna,0
-2006-09,Nelly Furtado,36
-2006-09,No Doubt,19
-2006-09,P!Nk,69
-2006-09,Red Hot Chili Peppers,66
-2006-09,Rihanna,22
-2006-09,Sean Paul,3
-2006-09,The Black Eyed Peas,53
-2006-09,The Pussycat Dolls,40
-2006-09,Timbaland,0
-2006-10,*Nsync,1
-2006-10,30 Seconds To Mars,0
-2006-10,50 Cent,0
-2006-10,Afi,7
-2006-10,Ashlee Simpson,13
-2006-10,Bob Sinclar,5
-2006-10,Britney Spears,457
-2006-10,Fergie,59
-2006-10,Jennifer Lopez,1
-2006-10,Justin Timberlake,102
-2006-10,Madonna,6
-2006-10,Nelly Furtado,75
-2006-10,No Doubt,18
-2006-10,P!Nk,15
-2006-10,Red Hot Chili Peppers,13
-2006-10,Rihanna,42
-2006-10,Sean Paul,0
-2006-10,The Black Eyed Peas,2
-2006-10,The Pussycat Dolls,2
-2006-10,Timbaland,0
-2006-11,*Nsync,0
-2006-11,30 Seconds To Mars,0
-2006-11,50 Cent,0
-2006-11,Afi,0
-2006-11,Ashlee Simpson,6
-2006-11,Bob Sinclar,2
-2006-11,Britney Spears,189
-2006-11,Fergie,14
-2006-11,Jennifer Lopez,1
-2006-11,Justin Timberlake,11
-2006-11,Madonna,7
-2006-11,Nelly Furtado,35
-2006-11,No Doubt,6
-2006-11,P!Nk,1
-2006-11,Red Hot Chili Peppers,2
-2006-11,Rihanna,3
-2006-11,Sean Paul,0
-2006-11,The Black Eyed Peas,0
-2006-11,The Pussycat Dolls,78
-2006-11,Timbaland,0
-2006-12,*Nsync,1
-2006-12,30 Seconds To Mars,2
-2006-12,50 Cent,0
-2006-12,Afi,1
-2006-12,Ashlee Simpson,4
-2006-12,Bob Sinclar,3
-2006-12,Britney Spears,616
-2006-12,Fergie,17
-2006-12,Jennifer Lopez,28
-2006-12,Justin Timberlake,17
-2006-12,Madonna,71
-2006-12,Nelly Furtado,38
-2006-12,No Doubt,3
-2006-12,P!Nk,2
-2006-12,Red Hot Chili Peppers,75
-2006-12,Rihanna,1
-2006-12,Sean Paul,0
-2006-12,The Black Eyed Peas,36
-2006-12,The Pussycat Dolls,15
-2006-12,Timbaland,0
-2007-01,*Nsync,2
-2007-01,30 Seconds To Mars,85
-2007-01,50 Cent,2
-2007-01,Afi,5
-2007-01,Ashlee Simpson,4
-2007-01,Bob Sinclar,7
-2007-01,Britney Spears,289
-2007-01,Fergie,26
-2007-01,Jennifer Lopez,39
-2007-01,Justin Timberlake,157
-2007-01,Madonna,34
-2007-01,Nelly Furtado,28
-2007-01,No Doubt,6
-2007-01,P!Nk,9
-2007-01,Red Hot Chili Peppers,44
-2007-01,Rihanna,8
-2007-01,Sean Paul,2
-2007-01,The Black Eyed Peas,44
-2007-01,The Pussycat Dolls,9
-2007-01,Timbaland,0
-2007-02,*Nsync,1
-2007-02,30 Seconds To Mars,187
-2007-02,50 Cent,0
-2007-02,Afi,2
-2007-02,Ashlee Simpson,10
-2007-02,Bob Sinclar,5
-2007-02,Britney Spears,211
-2007-02,Fergie,101
-2007-02,Jennifer Lopez,76
-2007-02,Justin Timberlake,192
-2007-02,Madonna,61
-2007-02,Nelly Furtado,119
-2007-02,No Doubt,24
-2007-02,P!Nk,20
-2007-02,Red Hot Chili Peppers,18
-2007-02,Rihanna,4
-2007-02,Sean Paul,2
-2007-02,The Black Eyed Peas,59
-2007-02,The Pussycat Dolls,3
-2007-02,Timbaland,0
-2007-03,*Nsync,6
-2007-03,30 Seconds To Mars,2
-2007-03,50 Cent,2
-2007-03,Afi,0
-2007-03,Ashlee Simpson,0
-2007-03,Bob Sinclar,0
-2007-03,Britney Spears,38
-2007-03,Fergie,18
-2007-03,Jennifer Lopez,41
-2007-03,Justin Timberlake,5
-2007-03,Madonna,1
-2007-03,Nelly Furtado,5
-2007-03,No Doubt,0
-2007-03,P!Nk,0
-2007-03,Red Hot Chili Peppers,3
-2007-03,Rihanna,0
-2007-03,Sean Paul,0
-2007-03,The Black Eyed Peas,8
-2007-03,The Pussycat Dolls,9
-2007-03,Timbaland,0
-2007-04,*Nsync,4
-2007-04,30 Seconds To Mars,2
-2007-04,50 Cent,1
-2007-04,Afi,0
-2007-04,Ashlee Simpson,6
-2007-04,Bob Sinclar,6
-2007-04,Britney Spears,137
-2007-04,Fergie,49
-2007-04,Jennifer Lopez,12
-2007-04,Justin Timberlake,15
-2007-04,Madonna,4
-2007-04,Nelly Furtado,14
-2007-04,No Doubt,30
-2007-04,P!Nk,3
-2007-04,Red Hot Chili Peppers,5
-2007-04,Rihanna,2
-2007-04,Sean Paul,2
-2007-04,The Black Eyed Peas,31
-2007-04,The Pussycat Dolls,1
-2007-04,Timbaland,0
-2007-05,*Nsync,0
-2007-05,30 Seconds To Mars,4
-2007-05,50 Cent,1
-2007-05,Afi,1
-2007-05,Ashlee Simpson,13
-2007-05,Bob Sinclar,2
-2007-05,Britney Spears,810
-2007-05,Fergie,51
-2007-05,Jennifer Lopez,19
-2007-05,Justin Timberlake,129
-2007-05,Madonna,7
-2007-05,Nelly Furtado,38
-2007-05,No Doubt,22
-2007-05,P!Nk,100
-2007-05,Red Hot Chili Peppers,100
-2007-05,Rihanna,1
-2007-05,Sean Paul,3
-2007-05,The Black Eyed Peas,59
-2007-05,The Pussycat Dolls,0
-2007-05,Timbaland,1
-2007-06,*Nsync,1
-2007-06,30 Seconds To Mars,0
-2007-06,50 Cent,0
-2007-06,Afi,0
-2007-06,Ashlee Simpson,0
-2007-06,Bob Sinclar,0
-2007-06,Britney Spears,95
-2007-06,Fergie,31
-2007-06,Jennifer Lopez,7
-2007-06,Justin Timberlake,3
-2007-06,Madonna,1
-2007-06,Nelly Furtado,1
-2007-06,No Doubt,1
-2007-06,P!Nk,10
-2007-06,Red Hot Chili Peppers,36
-2007-06,Rihanna,37
-2007-06,Sean Paul,0
-2007-06,The Black Eyed Peas,35
-2007-06,The Pussycat Dolls,0
-2007-06,Timbaland,0
-2007-07,*Nsync,23
-2007-07,30 Seconds To Mars,2
-2007-07,50 Cent,13
-2007-07,Afi,1
-2007-07,Ashlee Simpson,2
-2007-07,Bob Sinclar,0
-2007-07,Britney Spears,135
-2007-07,Fergie,26
-2007-07,Jennifer Lopez,6
-2007-07,Justin Timberlake,28
-2007-07,Madonna,6
-2007-07,Nelly Furtado,9
-2007-07,No Doubt,2
-2007-07,P!Nk,9
-2007-07,Red Hot Chili Peppers,15
-2007-07,Rihanna,17
-2007-07,Sean Paul,4
-2007-07,The Black Eyed Peas,9
-2007-07,The Pussycat Dolls,2
-2007-07,Timbaland,0
-2007-08,*Nsync,2
-2007-08,30 Seconds To Mars,32
-2007-08,50 Cent,5
-2007-08,Afi,22
-2007-08,Ashlee Simpson,1
-2007-08,Bob Sinclar,103
-2007-08,Britney Spears,274
-2007-08,Fergie,99
-2007-08,Jennifer Lopez,9
-2007-08,Justin Timberlake,23
-2007-08,Madonna,13
-2007-08,Nelly Furtado,8
-2007-08,No Doubt,4
-2007-08,P!Nk,4
-2007-08,Red Hot Chili Peppers,4
-2007-08,Rihanna,24
-2007-08,Sean Paul,6
-2007-08,The Black Eyed Peas,66
-2007-08,The Pussycat Dolls,0
-2007-08,Timbaland,1
-2007-09,*Nsync,0
-2007-09,30 Seconds To Mars,7
-2007-09,50 Cent,1
-2007-09,Afi,18
-2007-09,Ashlee Simpson,0
-2007-09,Bob Sinclar,11
-2007-09,Britney Spears,925
-2007-09,Fergie,21
-2007-09,Jennifer Lopez,2
-2007-09,Justin Timberlake,8
-2007-09,Madonna,1
-2007-09,Nelly Furtado,0
-2007-09,No Doubt,0
-2007-09,P!Nk,0
-2007-09,Red Hot Chili Peppers,4
-2007-09,Rihanna,10
-2007-09,Sean Paul,4
-2007-09,The Black Eyed Peas,8
-2007-09,The Pussycat Dolls,0
-2007-09,Timbaland,82
-2007-10,*Nsync,1
-2007-10,30 Seconds To Mars,6
-2007-10,50 Cent,0
-2007-10,Afi,3
-2007-10,Ashlee Simpson,0
-2007-10,Bob Sinclar,3
-2007-10,Britney Spears,1192
-2007-10,Fergie,5
-2007-10,Jennifer Lopez,0
-2007-10,Justin Timberlake,0
-2007-10,Madonna,3
-2007-10,Nelly Furtado,2
-2007-10,No Doubt,1
-2007-10,P!Nk,2
-2007-10,Red Hot Chili Peppers,2
-2007-10,Rihanna,1
-2007-10,Sean Paul,0
-2007-10,The Black Eyed Peas,8
-2007-10,The Pussycat Dolls,0
-2007-10,Timbaland,12
-2007-11,*Nsync,2
-2007-11,30 Seconds To Mars,39
-2007-11,50 Cent,1
-2007-11,Afi,2
-2007-11,Ashlee Simpson,1
-2007-11,Bob Sinclar,1
-2007-11,Britney Spears,876
-2007-11,Fergie,4
-2007-11,Jennifer Lopez,4
-2007-11,Justin Timberlake,3
-2007-11,Madonna,2
-2007-11,Nelly Furtado,4
-2007-11,No Doubt,4
-2007-11,P!Nk,4
-2007-11,Red Hot Chili Peppers,1
-2007-11,Rihanna,3
-2007-11,Sean Paul,0
-2007-11,The Black Eyed Peas,5
-2007-11,The Pussycat Dolls,0
-2007-11,Timbaland,4
-2007-12,*Nsync,1
-2007-12,30 Seconds To Mars,106
-2007-12,50 Cent,0
-2007-12,Afi,1
-2007-12,Ashlee Simpson,9
-2007-12,Bob Sinclar,1
-2007-12,Britney Spears,654
-2007-12,Fergie,2
-2007-12,Jennifer Lopez,0
-2007-12,Justin Timberlake,5
-2007-12,Madonna,1
-2007-12,Nelly Furtado,0
-2007-12,No Doubt,0
-2007-12,P!Nk,0
-2007-12,Red Hot Chili Peppers,4
-2007-12,Rihanna,5
-2007-12,Sean Paul,0
-2007-12,The Black Eyed Peas,0
-2007-12,The Pussycat Dolls,0
-2007-12,Timbaland,2
-2008-01,*Nsync,0
-2008-01,30 Seconds To Mars,13
-2008-01,50 Cent,25
-2008-01,Afi,1
-2008-01,Ashlee Simpson,1
-2008-01,Bob Sinclar,0
-2008-01,Britney Spears,669
-2008-01,Fergie,2
-2008-01,Jennifer Lopez,0
-2008-01,Justin Timberlake,2
-2008-01,Madonna,0
-2008-01,Nelly Furtado,0
-2008-01,No Doubt,0
-2008-01,P!Nk,0
-2008-01,Red Hot Chili Peppers,0
-2008-01,Rihanna,4
-2008-01,Sean Paul,0
-2008-01,The Black Eyed Peas,4
-2008-01,The Pussycat Dolls,0
-2008-01,Timbaland,13
-2008-02,*Nsync,0
-2008-02,30 Seconds To Mars,84
-2008-02,50 Cent,12
-2008-02,Afi,1
-2008-02,Ashlee Simpson,7
-2008-02,Bob Sinclar,1
-2008-02,Britney Spears,401
-2008-02,Fergie,0
-2008-02,Jennifer Lopez,0
-2008-02,Justin Timberlake,3
-2008-02,Madonna,0
-2008-02,Nelly Furtado,0
-2008-02,No Doubt,0
-2008-02,P!Nk,1
-2008-02,Red Hot Chili Peppers,2
-2008-02,Rihanna,8
-2008-02,Sean Paul,0
-2008-02,The Black Eyed Peas,1
-2008-02,The Pussycat Dolls,4
-2008-02,Timbaland,0
-2008-03,*Nsync,0
-2008-03,30 Seconds To Mars,25
-2008-03,50 Cent,5
-2008-03,Afi,0
-2008-03,Ashlee Simpson,22
-2008-03,Bob Sinclar,0
-2008-03,Britney Spears,497
-2008-03,Fergie,1
-2008-03,Jennifer Lopez,0
-2008-03,Justin Timberlake,19
-2008-03,Madonna,34
-2008-03,Nelly Furtado,0
-2008-03,No Doubt,0
-2008-03,P!Nk,1
-2008-03,Red Hot Chili Peppers,0
-2008-03,Rihanna,4
-2008-03,Sean Paul,0
-2008-03,The Black Eyed Peas,13
-2008-03,The Pussycat Dolls,0
-2008-03,Timbaland,0
-2008-04,*Nsync,0
-2008-04,30 Seconds To Mars,13
-2008-04,50 Cent,1
-2008-04,Afi,0
-2008-04,Ashlee Simpson,7
-2008-04,Bob Sinclar,2
-2008-04,Britney Spears,221
-2008-04,Fergie,1
-2008-04,Jennifer Lopez,0
-2008-04,Justin Timberlake,3
-2008-04,Madonna,73
-2008-04,Nelly Furtado,1
-2008-04,No Doubt,1
-2008-04,P!Nk,1
-2008-04,Red Hot Chili Peppers,1
-2008-04,Rihanna,3
-2008-04,Sean Paul,1
-2008-04,The Black Eyed Peas,0
-2008-04,The Pussycat Dolls,0
-2008-04,Timbaland,2
-2008-05,*Nsync,13
-2008-05,30 Seconds To Mars,2
-2008-05,50 Cent,1
-2008-05,Afi,4
-2008-05,Ashlee Simpson,2
-2008-05,Bob Sinclar,5
-2008-05,Britney Spears,251
-2008-05,Fergie,1
-2008-05,Jennifer Lopez,0
-2008-05,Justin Timberlake,13
-2008-05,Madonna,94
-2008-05,Nelly Furtado,2
-2008-05,No Doubt,2
-2008-05,P!Nk,0
-2008-05,Red Hot Chili Peppers,8
-2008-05,Rihanna,1
-2008-05,Sean Paul,1
-2008-05,The Black Eyed Peas,10
-2008-05,The Pussycat Dolls,0
-2008-05,Timbaland,18
-2008-06,*Nsync,10
-2008-06,30 Seconds To Mars,9
-2008-06,50 Cent,10
-2008-06,Afi,6
-2008-06,Ashlee Simpson,0
-2008-06,Bob Sinclar,5
-2008-06,Britney Spears,128
-2008-06,Fergie,0
-2008-06,Jennifer Lopez,0
-2008-06,Justin Timberlake,9
-2008-06,Madonna,58
-2008-06,Nelly Furtado,0
-2008-06,No Doubt,0
-2008-06,P!Nk,0
-2008-06,Red Hot Chili Peppers,0
-2008-06,Rihanna,31
-2008-06,Sean Paul,29
-2008-06,The Black Eyed Peas,4
-2008-06,The Pussycat Dolls,21
-2008-06,Timbaland,19
-2008-07,*Nsync,9
-2008-07,30 Seconds To Mars,13
-2008-07,50 Cent,8
-2008-07,Afi,7
-2008-07,Ashlee Simpson,0
-2008-07,Bob Sinclar,4
-2008-07,Britney Spears,328
-2008-07,Fergie,0
-2008-07,Jennifer Lopez,2
-2008-07,Justin Timberlake,10
-2008-07,Madonna,201
-2008-07,Nelly Furtado,2
-2008-07,No Doubt,3
-2008-07,P!Nk,0
-2008-07,Red Hot Chili Peppers,12
-2008-07,Rihanna,49
-2008-07,Sean Paul,9
-2008-07,The Black Eyed Peas,3
-2008-07,The Pussycat Dolls,14
-2008-07,Timbaland,12
-2008-08,*Nsync,0
-2008-08,30 Seconds To Mars,7
-2008-08,50 Cent,2
-2008-08,Afi,2
-2008-08,Ashlee Simpson,0
-2008-08,Bob Sinclar,0
-2008-08,Britney Spears,118
-2008-08,Fergie,0
-2008-08,Jennifer Lopez,0
-2008-08,Justin Timberlake,1
-2008-08,Madonna,29
-2008-08,Nelly Furtado,0
-2008-08,No Doubt,0
-2008-08,P!Nk,2
-2008-08,Red Hot Chili Peppers,15
-2008-08,Rihanna,16
-2008-08,Sean Paul,3
-2008-08,The Black Eyed Peas,0
-2008-08,The Pussycat Dolls,0
-2008-08,Timbaland,28
-2008-09,*Nsync,5
-2008-09,30 Seconds To Mars,2
-2008-09,50 Cent,0
-2008-09,Afi,1
-2008-09,Ashlee Simpson,0
-2008-09,Bob Sinclar,0
-2008-09,Britney Spears,243
-2008-09,Fergie,0
-2008-09,Jennifer Lopez,0
-2008-09,Justin Timberlake,1
-2008-09,Madonna,9
-2008-09,Nelly Furtado,0
-2008-09,No Doubt,1
-2008-09,P!Nk,0
-2008-09,Red Hot Chili Peppers,1
-2008-09,Rihanna,8
-2008-09,Sean Paul,1
-2008-09,The Black Eyed Peas,2
-2008-09,The Pussycat Dolls,0
-2008-09,Timbaland,2
-2008-10,*Nsync,0
-2008-10,30 Seconds To Mars,2
-2008-10,50 Cent,0
-2008-10,Afi,0
-2008-10,Ashlee Simpson,0
-2008-10,Bob Sinclar,0
-2008-10,Britney Spears,400
-2008-10,Fergie,0
-2008-10,Jennifer Lopez,0
-2008-10,Justin Timberlake,2
-2008-10,Madonna,19
-2008-10,Nelly Furtado,1
-2008-10,No Doubt,0
-2008-10,P!Nk,25
-2008-10,Red Hot Chili Peppers,5
-2008-10,Rihanna,5
-2008-10,Sean Paul,0
-2008-10,The Black Eyed Peas,1
-2008-10,The Pussycat Dolls,0
-2008-10,Timbaland,1
-2008-11,*Nsync,0
-2008-11,30 Seconds To Mars,2
-2008-11,50 Cent,1
-2008-11,Afi,1
-2008-11,Ashlee Simpson,0
-2008-11,Bob Sinclar,2
-2008-11,Britney Spears,665
-2008-11,Fergie,0
-2008-11,Jennifer Lopez,0
-2008-11,Justin Timberlake,2
-2008-11,Madonna,15
-2008-11,Nelly Furtado,0
-2008-11,No Doubt,0
-2008-11,P!Nk,6
-2008-11,Red Hot Chili Peppers,0
-2008-11,Rihanna,0
-2008-11,Sean Paul,2
-2008-11,The Black Eyed Peas,1
-2008-11,The Pussycat Dolls,0
-2008-11,Timbaland,2
-2008-12,*Nsync,0
-2008-12,30 Seconds To Mars,4
-2008-12,50 Cent,0
-2008-12,Afi,0
-2008-12,Ashlee Simpson,0
-2008-12,Bob Sinclar,0
-2008-12,Britney Spears,437
-2008-12,Fergie,0
-2008-12,Jennifer Lopez,1
-2008-12,Justin Timberlake,1
-2008-12,Madonna,4
-2008-12,Nelly Furtado,0
-2008-12,No Doubt,0
-2008-12,P!Nk,1
-2008-12,Red Hot Chili Peppers,0
-2008-12,Rihanna,0
-2008-12,Sean Paul,0
-2008-12,The Black Eyed Peas,0
-2008-12,The Pussycat Dolls,0
-2008-12,Timbaland,1
-2009-01,*Nsync,1
-2009-01,30 Seconds To Mars,6
-2009-01,50 Cent,2
-2009-01,Afi,0
-2009-01,Ashlee Simpson,0
-2009-01,Bob Sinclar,0
-2009-01,Britney Spears,514
-2009-01,Fergie,0
-2009-01,Jennifer Lopez,0
-2009-01,Justin Timberlake,0
-2009-01,Madonna,7
-2009-01,Nelly Furtado,0
-2009-01,No Doubt,0
-2009-01,P!Nk,6
-2009-01,Red Hot Chili Peppers,0
-2009-01,Rihanna,0
-2009-01,Sean Paul,0
-2009-01,The Black Eyed Peas,4
-2009-01,The Pussycat Dolls,4
-2009-01,Timbaland,2
-2009-02,*Nsync,2
-2009-02,30 Seconds To Mars,3
-2009-02,50 Cent,0
-2009-02,Afi,0
-2009-02,Ashlee Simpson,0
-2009-02,Bob Sinclar,0
-2009-02,Britney Spears,290
-2009-02,Fergie,0
-2009-02,Jennifer Lopez,1
-2009-02,Justin Timberlake,0
-2009-02,Madonna,7
-2009-02,Nelly Furtado,0
-2009-02,No Doubt,0
-2009-02,P!Nk,35
-2009-02,Red Hot Chili Peppers,0
-2009-02,Rihanna,0
-2009-02,Sean Paul,0
-2009-02,The Black Eyed Peas,3
-2009-02,The Pussycat Dolls,37
-2009-02,Timbaland,1
-2009-03,*Nsync,0
-2009-03,30 Seconds To Mars,9
-2009-03,50 Cent,1
-2009-03,Afi,1
-2009-03,Ashlee Simpson,0
-2009-03,Bob Sinclar,1
-2009-03,Britney Spears,416
-2009-03,Fergie,0
-2009-03,Jennifer Lopez,1
-2009-03,Justin Timberlake,1
-2009-03,Madonna,1
-2009-03,Nelly Furtado,1
-2009-03,No Doubt,0
-2009-03,P!Nk,12
-2009-03,Red Hot Chili Peppers,0
-2009-03,Rihanna,4
-2009-03,Sean Paul,1
-2009-03,The Black Eyed Peas,3
-2009-03,The Pussycat Dolls,2
-2009-03,Timbaland,2
-2009-04,*Nsync,1
-2009-04,30 Seconds To Mars,6
-2009-04,50 Cent,1
-2009-04,Afi,0
-2009-04,Ashlee Simpson,0
-2009-04,Bob Sinclar,0
-2009-04,Britney Spears,160
-2009-04,Fergie,1
-2009-04,Jennifer Lopez,0
-2009-04,Justin Timberlake,8
-2009-04,Madonna,5
-2009-04,Nelly Furtado,0
-2009-04,No Doubt,0
-2009-04,P!Nk,1
-2009-04,Red Hot Chili Peppers,0
-2009-04,Rihanna,0
-2009-04,Sean Paul,2
-2009-04,The Black Eyed Peas,11
-2009-04,The Pussycat Dolls,5
-2009-04,Timbaland,4
-2009-05,*Nsync,1
-2009-05,30 Seconds To Mars,3
-2009-05,50 Cent,0
-2009-05,Afi,0
-2009-05,Ashlee Simpson,0
-2009-05,Bob Sinclar,0
-2009-05,Britney Spears,316
-2009-05,Fergie,0
-2009-05,Jennifer Lopez,0
-2009-05,Justin Timberlake,2
-2009-05,Madonna,2
-2009-05,Nelly Furtado,0
-2009-05,No Doubt,0
-2009-05,P!Nk,0
-2009-05,Red Hot Chili Peppers,0
-2009-05,Rihanna,3
-2009-05,Sean Paul,0
-2009-05,The Black Eyed Peas,46
-2009-05,The Pussycat Dolls,1
-2009-05,Timbaland,0
-2009-06,*Nsync,0
-2009-06,30 Seconds To Mars,2
-2009-06,50 Cent,0
-2009-06,Afi,0
-2009-06,Ashlee Simpson,0
-2009-06,Bob Sinclar,1
-2009-06,Britney Spears,53
-2009-06,Fergie,0
-2009-06,Jennifer Lopez,0
-2009-06,Justin Timberlake,0
-2009-06,Madonna,0
-2009-06,Nelly Furtado,0
-2009-06,No Doubt,0
-2009-06,P!Nk,0
-2009-06,Red Hot Chili Peppers,6
-2009-06,Rihanna,0
-2009-06,Sean Paul,0
-2009-06,The Black Eyed Peas,76
-2009-06,The Pussycat Dolls,0
-2009-06,Timbaland,0
+"month","artist","plays"
+"2005-12","*Nsync",0
+"2005-12","30 Seconds To Mars",0
+"2005-12","50 Cent",6
+"2005-12","Afi",0
+"2005-12","Ashlee Simpson",11
+"2005-12","Bob Sinclar",0
+"2005-12","Britney Spears",389
+"2005-12","Fergie",0
+"2005-12","Jennifer Lopez",9
+"2005-12","Justin Timberlake",5
+"2005-12","Madonna",14
+"2005-12","Nelly Furtado",0
+"2005-12","No Doubt",5
+"2005-12","P!Nk",0
+"2005-12","Red Hot Chili Peppers",0
+"2005-12","Rihanna",1
+"2005-12","Sean Paul",5
+"2005-12","The Black Eyed Peas",47
+"2005-12","The Pussycat Dolls",22
+"2005-12","Timbaland",0
+"2006-01","*Nsync",0
+"2006-01","30 Seconds To Mars",0
+"2006-01","50 Cent",0
+"2006-01","Afi",0
+"2006-01","Ashlee Simpson",1
+"2006-01","Bob Sinclar",0
+"2006-01","Britney Spears",461
+"2006-01","Fergie",0
+"2006-01","Jennifer Lopez",0
+"2006-01","Justin Timberlake",3
+"2006-01","Madonna",1
+"2006-01","Nelly Furtado",0
+"2006-01","No Doubt",0
+"2006-01","P!Nk",0
+"2006-01","Red Hot Chili Peppers",0
+"2006-01","Rihanna",2
+"2006-01","Sean Paul",0
+"2006-01","The Black Eyed Peas",13
+"2006-01","The Pussycat Dolls",2
+"2006-01","Timbaland",0
+"2006-02","*Nsync",0
+"2006-02","30 Seconds To Mars",0
+"2006-02","50 Cent",0
+"2006-02","Afi",0
+"2006-02","Ashlee Simpson",0
+"2006-02","Bob Sinclar",0
+"2006-02","Britney Spears",0
+"2006-02","Fergie",0
+"2006-02","Jennifer Lopez",0
+"2006-02","Justin Timberlake",0
+"2006-02","Madonna",0
+"2006-02","Nelly Furtado",0
+"2006-02","No Doubt",0
+"2006-02","P!Nk",0
+"2006-02","Red Hot Chili Peppers",0
+"2006-02","Rihanna",0
+"2006-02","Sean Paul",0
+"2006-02","The Black Eyed Peas",0
+"2006-02","The Pussycat Dolls",0
+"2006-02","Timbaland",0
+"2006-03","*Nsync",0
+"2006-03","30 Seconds To Mars",0
+"2006-03","50 Cent",0
+"2006-03","Afi",0
+"2006-03","Ashlee Simpson",0
+"2006-03","Bob Sinclar",0
+"2006-03","Britney Spears",0
+"2006-03","Fergie",0
+"2006-03","Jennifer Lopez",0
+"2006-03","Justin Timberlake",0
+"2006-03","Madonna",0
+"2006-03","Nelly Furtado",0
+"2006-03","No Doubt",0
+"2006-03","P!Nk",0
+"2006-03","Red Hot Chili Peppers",0
+"2006-03","Rihanna",0
+"2006-03","Sean Paul",0
+"2006-03","The Black Eyed Peas",0
+"2006-03","The Pussycat Dolls",0
+"2006-03","Timbaland",0
+"2006-04","*Nsync",0
+"2006-04","30 Seconds To Mars",0
+"2006-04","50 Cent",0
+"2006-04","Afi",0
+"2006-04","Ashlee Simpson",0
+"2006-04","Bob Sinclar",0
+"2006-04","Britney Spears",0
+"2006-04","Fergie",0
+"2006-04","Jennifer Lopez",0
+"2006-04","Justin Timberlake",0
+"2006-04","Madonna",0
+"2006-04","Nelly Furtado",0
+"2006-04","No Doubt",0
+"2006-04","P!Nk",0
+"2006-04","Red Hot Chili Peppers",0
+"2006-04","Rihanna",0
+"2006-04","Sean Paul",0
+"2006-04","The Black Eyed Peas",0
+"2006-04","The Pussycat Dolls",0
+"2006-04","Timbaland",0
+"2006-05","*Nsync",0
+"2006-05","30 Seconds To Mars",0
+"2006-05","50 Cent",0
+"2006-05","Afi",0
+"2006-05","Ashlee Simpson",0
+"2006-05","Bob Sinclar",0
+"2006-05","Britney Spears",0
+"2006-05","Fergie",0
+"2006-05","Jennifer Lopez",0
+"2006-05","Justin Timberlake",0
+"2006-05","Madonna",0
+"2006-05","Nelly Furtado",0
+"2006-05","No Doubt",0
+"2006-05","P!Nk",0
+"2006-05","Red Hot Chili Peppers",0
+"2006-05","Rihanna",0
+"2006-05","Sean Paul",0
+"2006-05","The Black Eyed Peas",0
+"2006-05","The Pussycat Dolls",0
+"2006-05","Timbaland",0
+"2006-06","*Nsync",0
+"2006-06","30 Seconds To Mars",0
+"2006-06","50 Cent",0
+"2006-06","Afi",0
+"2006-06","Ashlee Simpson",0
+"2006-06","Bob Sinclar",0
+"2006-06","Britney Spears",0
+"2006-06","Fergie",0
+"2006-06","Jennifer Lopez",0
+"2006-06","Justin Timberlake",0
+"2006-06","Madonna",0
+"2006-06","Nelly Furtado",0
+"2006-06","No Doubt",0
+"2006-06","P!Nk",0
+"2006-06","Red Hot Chili Peppers",0
+"2006-06","Rihanna",0
+"2006-06","Sean Paul",0
+"2006-06","The Black Eyed Peas",0
+"2006-06","The Pussycat Dolls",0
+"2006-06","Timbaland",0
+"2006-07","*Nsync",1
+"2006-07","30 Seconds To Mars",0
+"2006-07","50 Cent",0
+"2006-07","Afi",0
+"2006-07","Ashlee Simpson",2
+"2006-07","Bob Sinclar",0
+"2006-07","Britney Spears",52
+"2006-07","Fergie",0
+"2006-07","Jennifer Lopez",7
+"2006-07","Justin Timberlake",0
+"2006-07","Madonna",0
+"2006-07","Nelly Furtado",4
+"2006-07","No Doubt",1
+"2006-07","P!Nk",1
+"2006-07","Red Hot Chili Peppers",4
+"2006-07","Rihanna",2
+"2006-07","Sean Paul",2
+"2006-07","The Black Eyed Peas",1
+"2006-07","The Pussycat Dolls",0
+"2006-07","Timbaland",0
+"2006-08","*Nsync",29
+"2006-08","30 Seconds To Mars",0
+"2006-08","50 Cent",2
+"2006-08","Afi",0
+"2006-08","Ashlee Simpson",14
+"2006-08","Bob Sinclar",0
+"2006-08","Britney Spears",475
+"2006-08","Fergie",14
+"2006-08","Jennifer Lopez",69
+"2006-08","Justin Timberlake",64
+"2006-08","Madonna",15
+"2006-08","Nelly Furtado",37
+"2006-08","No Doubt",22
+"2006-08","P!Nk",24
+"2006-08","Red Hot Chili Peppers",17
+"2006-08","Rihanna",6
+"2006-08","Sean Paul",1
+"2006-08","The Black Eyed Peas",50
+"2006-08","The Pussycat Dolls",34
+"2006-08","Timbaland",0
+"2006-09","*Nsync",24
+"2006-09","30 Seconds To Mars",0
+"2006-09","50 Cent",2
+"2006-09","Afi",0
+"2006-09","Ashlee Simpson",18
+"2006-09","Bob Sinclar",0
+"2006-09","Britney Spears",232
+"2006-09","Fergie",59
+"2006-09","Jennifer Lopez",3
+"2006-09","Justin Timberlake",23
+"2006-09","Madonna",0
+"2006-09","Nelly Furtado",36
+"2006-09","No Doubt",19
+"2006-09","P!Nk",69
+"2006-09","Red Hot Chili Peppers",66
+"2006-09","Rihanna",22
+"2006-09","Sean Paul",3
+"2006-09","The Black Eyed Peas",53
+"2006-09","The Pussycat Dolls",40
+"2006-09","Timbaland",0
+"2006-10","*Nsync",1
+"2006-10","30 Seconds To Mars",0
+"2006-10","50 Cent",0
+"2006-10","Afi",7
+"2006-10","Ashlee Simpson",13
+"2006-10","Bob Sinclar",5
+"2006-10","Britney Spears",457
+"2006-10","Fergie",59
+"2006-10","Jennifer Lopez",1
+"2006-10","Justin Timberlake",102
+"2006-10","Madonna",6
+"2006-10","Nelly Furtado",75
+"2006-10","No Doubt",18
+"2006-10","P!Nk",15
+"2006-10","Red Hot Chili Peppers",13
+"2006-10","Rihanna",42
+"2006-10","Sean Paul",0
+"2006-10","The Black Eyed Peas",2
+"2006-10","The Pussycat Dolls",2
+"2006-10","Timbaland",0
+"2006-11","*Nsync",0
+"2006-11","30 Seconds To Mars",0
+"2006-11","50 Cent",0
+"2006-11","Afi",0
+"2006-11","Ashlee Simpson",6
+"2006-11","Bob Sinclar",2
+"2006-11","Britney Spears",189
+"2006-11","Fergie",14
+"2006-11","Jennifer Lopez",1
+"2006-11","Justin Timberlake",11
+"2006-11","Madonna",7
+"2006-11","Nelly Furtado",35
+"2006-11","No Doubt",6
+"2006-11","P!Nk",1
+"2006-11","Red Hot Chili Peppers",2
+"2006-11","Rihanna",3
+"2006-11","Sean Paul",0
+"2006-11","The Black Eyed Peas",0
+"2006-11","The Pussycat Dolls",78
+"2006-11","Timbaland",0
+"2006-12","*Nsync",1
+"2006-12","30 Seconds To Mars",2
+"2006-12","50 Cent",0
+"2006-12","Afi",1
+"2006-12","Ashlee Simpson",4
+"2006-12","Bob Sinclar",3
+"2006-12","Britney Spears",616
+"2006-12","Fergie",17
+"2006-12","Jennifer Lopez",28
+"2006-12","Justin Timberlake",17
+"2006-12","Madonna",71
+"2006-12","Nelly Furtado",38
+"2006-12","No Doubt",3
+"2006-12","P!Nk",2
+"2006-12","Red Hot Chili Peppers",75
+"2006-12","Rihanna",1
+"2006-12","Sean Paul",0
+"2006-12","The Black Eyed Peas",36
+"2006-12","The Pussycat Dolls",15
+"2006-12","Timbaland",0
+"2007-01","*Nsync",2
+"2007-01","30 Seconds To Mars",85
+"2007-01","50 Cent",2
+"2007-01","Afi",5
+"2007-01","Ashlee Simpson",4
+"2007-01","Bob Sinclar",7
+"2007-01","Britney Spears",289
+"2007-01","Fergie",26
+"2007-01","Jennifer Lopez",39
+"2007-01","Justin Timberlake",157
+"2007-01","Madonna",34
+"2007-01","Nelly Furtado",28
+"2007-01","No Doubt",6
+"2007-01","P!Nk",9
+"2007-01","Red Hot Chili Peppers",44
+"2007-01","Rihanna",8
+"2007-01","Sean Paul",2
+"2007-01","The Black Eyed Peas",44
+"2007-01","The Pussycat Dolls",9
+"2007-01","Timbaland",0
+"2007-02","*Nsync",1
+"2007-02","30 Seconds To Mars",187
+"2007-02","50 Cent",0
+"2007-02","Afi",2
+"2007-02","Ashlee Simpson",10
+"2007-02","Bob Sinclar",5
+"2007-02","Britney Spears",211
+"2007-02","Fergie",101
+"2007-02","Jennifer Lopez",76
+"2007-02","Justin Timberlake",192
+"2007-02","Madonna",61
+"2007-02","Nelly Furtado",119
+"2007-02","No Doubt",24
+"2007-02","P!Nk",20
+"2007-02","Red Hot Chili Peppers",18
+"2007-02","Rihanna",4
+"2007-02","Sean Paul",2
+"2007-02","The Black Eyed Peas",59
+"2007-02","The Pussycat Dolls",3
+"2007-02","Timbaland",0
+"2007-03","*Nsync",6
+"2007-03","30 Seconds To Mars",2
+"2007-03","50 Cent",2
+"2007-03","Afi",0
+"2007-03","Ashlee Simpson",0
+"2007-03","Bob Sinclar",0
+"2007-03","Britney Spears",38
+"2007-03","Fergie",18
+"2007-03","Jennifer Lopez",41
+"2007-03","Justin Timberlake",5
+"2007-03","Madonna",1
+"2007-03","Nelly Furtado",5
+"2007-03","No Doubt",0
+"2007-03","P!Nk",0
+"2007-03","Red Hot Chili Peppers",3
+"2007-03","Rihanna",0
+"2007-03","Sean Paul",0
+"2007-03","The Black Eyed Peas",8
+"2007-03","The Pussycat Dolls",9
+"2007-03","Timbaland",0
+"2007-04","*Nsync",4
+"2007-04","30 Seconds To Mars",2
+"2007-04","50 Cent",1
+"2007-04","Afi",0
+"2007-04","Ashlee Simpson",6
+"2007-04","Bob Sinclar",6
+"2007-04","Britney Spears",137
+"2007-04","Fergie",49
+"2007-04","Jennifer Lopez",12
+"2007-04","Justin Timberlake",15
+"2007-04","Madonna",4
+"2007-04","Nelly Furtado",14
+"2007-04","No Doubt",30
+"2007-04","P!Nk",3
+"2007-04","Red Hot Chili Peppers",5
+"2007-04","Rihanna",2
+"2007-04","Sean Paul",2
+"2007-04","The Black Eyed Peas",31
+"2007-04","The Pussycat Dolls",1
+"2007-04","Timbaland",0
+"2007-05","*Nsync",0
+"2007-05","30 Seconds To Mars",4
+"2007-05","50 Cent",1
+"2007-05","Afi",1
+"2007-05","Ashlee Simpson",13
+"2007-05","Bob Sinclar",2
+"2007-05","Britney Spears",810
+"2007-05","Fergie",51
+"2007-05","Jennifer Lopez",19
+"2007-05","Justin Timberlake",129
+"2007-05","Madonna",7
+"2007-05","Nelly Furtado",38
+"2007-05","No Doubt",22
+"2007-05","P!Nk",100
+"2007-05","Red Hot Chili Peppers",100
+"2007-05","Rihanna",1
+"2007-05","Sean Paul",3
+"2007-05","The Black Eyed Peas",59
+"2007-05","The Pussycat Dolls",0
+"2007-05","Timbaland",1
+"2007-06","*Nsync",1
+"2007-06","30 Seconds To Mars",0
+"2007-06","50 Cent",0
+"2007-06","Afi",0
+"2007-06","Ashlee Simpson",0
+"2007-06","Bob Sinclar",0
+"2007-06","Britney Spears",95
+"2007-06","Fergie",31
+"2007-06","Jennifer Lopez",7
+"2007-06","Justin Timberlake",3
+"2007-06","Madonna",1
+"2007-06","Nelly Furtado",1
+"2007-06","No Doubt",1
+"2007-06","P!Nk",10
+"2007-06","Red Hot Chili Peppers",36
+"2007-06","Rihanna",37
+"2007-06","Sean Paul",0
+"2007-06","The Black Eyed Peas",35
+"2007-06","The Pussycat Dolls",0
+"2007-06","Timbaland",0
+"2007-07","*Nsync",23
+"2007-07","30 Seconds To Mars",2
+"2007-07","50 Cent",13
+"2007-07","Afi",1
+"2007-07","Ashlee Simpson",2
+"2007-07","Bob Sinclar",0
+"2007-07","Britney Spears",135
+"2007-07","Fergie",26
+"2007-07","Jennifer Lopez",6
+"2007-07","Justin Timberlake",28
+"2007-07","Madonna",6
+"2007-07","Nelly Furtado",9
+"2007-07","No Doubt",2
+"2007-07","P!Nk",9
+"2007-07","Red Hot Chili Peppers",15
+"2007-07","Rihanna",17
+"2007-07","Sean Paul",4
+"2007-07","The Black Eyed Peas",9
+"2007-07","The Pussycat Dolls",2
+"2007-07","Timbaland",0
+"2007-08","*Nsync",2
+"2007-08","30 Seconds To Mars",32
+"2007-08","50 Cent",5
+"2007-08","Afi",22
+"2007-08","Ashlee Simpson",1
+"2007-08","Bob Sinclar",103
+"2007-08","Britney Spears",274
+"2007-08","Fergie",99
+"2007-08","Jennifer Lopez",9
+"2007-08","Justin Timberlake",23
+"2007-08","Madonna",13
+"2007-08","Nelly Furtado",8
+"2007-08","No Doubt",4
+"2007-08","P!Nk",4
+"2007-08","Red Hot Chili Peppers",4
+"2007-08","Rihanna",24
+"2007-08","Sean Paul",6
+"2007-08","The Black Eyed Peas",66
+"2007-08","The Pussycat Dolls",0
+"2007-08","Timbaland",1
+"2007-09","*Nsync",0
+"2007-09","30 Seconds To Mars",7
+"2007-09","50 Cent",1
+"2007-09","Afi",18
+"2007-09","Ashlee Simpson",0
+"2007-09","Bob Sinclar",11
+"2007-09","Britney Spears",925
+"2007-09","Fergie",21
+"2007-09","Jennifer Lopez",2
+"2007-09","Justin Timberlake",8
+"2007-09","Madonna",1
+"2007-09","Nelly Furtado",0
+"2007-09","No Doubt",0
+"2007-09","P!Nk",0
+"2007-09","Red Hot Chili Peppers",4
+"2007-09","Rihanna",10
+"2007-09","Sean Paul",4
+"2007-09","The Black Eyed Peas",8
+"2007-09","The Pussycat Dolls",0
+"2007-09","Timbaland",82
+"2007-10","*Nsync",1
+"2007-10","30 Seconds To Mars",6
+"2007-10","50 Cent",0
+"2007-10","Afi",3
+"2007-10","Ashlee Simpson",0
+"2007-10","Bob Sinclar",3
+"2007-10","Britney Spears",1192
+"2007-10","Fergie",5
+"2007-10","Jennifer Lopez",0
+"2007-10","Justin Timberlake",0
+"2007-10","Madonna",3
+"2007-10","Nelly Furtado",2
+"2007-10","No Doubt",1
+"2007-10","P!Nk",2
+"2007-10","Red Hot Chili Peppers",2
+"2007-10","Rihanna",1
+"2007-10","Sean Paul",0
+"2007-10","The Black Eyed Peas",8
+"2007-10","The Pussycat Dolls",0
+"2007-10","Timbaland",12
+"2007-11","*Nsync",2
+"2007-11","30 Seconds To Mars",39
+"2007-11","50 Cent",1
+"2007-11","Afi",2
+"2007-11","Ashlee Simpson",1
+"2007-11","Bob Sinclar",1
+"2007-11","Britney Spears",876
+"2007-11","Fergie",4
+"2007-11","Jennifer Lopez",4
+"2007-11","Justin Timberlake",3
+"2007-11","Madonna",2
+"2007-11","Nelly Furtado",4
+"2007-11","No Doubt",4
+"2007-11","P!Nk",4
+"2007-11","Red Hot Chili Peppers",1
+"2007-11","Rihanna",3
+"2007-11","Sean Paul",0
+"2007-11","The Black Eyed Peas",5
+"2007-11","The Pussycat Dolls",0
+"2007-11","Timbaland",4
+"2007-12","*Nsync",1
+"2007-12","30 Seconds To Mars",106
+"2007-12","50 Cent",0
+"2007-12","Afi",1
+"2007-12","Ashlee Simpson",9
+"2007-12","Bob Sinclar",1
+"2007-12","Britney Spears",654
+"2007-12","Fergie",2
+"2007-12","Jennifer Lopez",0
+"2007-12","Justin Timberlake",5
+"2007-12","Madonna",1
+"2007-12","Nelly Furtado",0
+"2007-12","No Doubt",0
+"2007-12","P!Nk",0
+"2007-12","Red Hot Chili Peppers",4
+"2007-12","Rihanna",5
+"2007-12","Sean Paul",0
+"2007-12","The Black Eyed Peas",0
+"2007-12","The Pussycat Dolls",0
+"2007-12","Timbaland",2
+"2008-01","*Nsync",0
+"2008-01","30 Seconds To Mars",13
+"2008-01","50 Cent",25
+"2008-01","Afi",1
+"2008-01","Ashlee Simpson",1
+"2008-01","Bob Sinclar",0
+"2008-01","Britney Spears",669
+"2008-01","Fergie",2
+"2008-01","Jennifer Lopez",0
+"2008-01","Justin Timberlake",2
+"2008-01","Madonna",0
+"2008-01","Nelly Furtado",0
+"2008-01","No Doubt",0
+"2008-01","P!Nk",0
+"2008-01","Red Hot Chili Peppers",0
+"2008-01","Rihanna",4
+"2008-01","Sean Paul",0
+"2008-01","The Black Eyed Peas",4
+"2008-01","The Pussycat Dolls",0
+"2008-01","Timbaland",13
+"2008-02","*Nsync",0
+"2008-02","30 Seconds To Mars",84
+"2008-02","50 Cent",12
+"2008-02","Afi",1
+"2008-02","Ashlee Simpson",7
+"2008-02","Bob Sinclar",1
+"2008-02","Britney Spears",401
+"2008-02","Fergie",0
+"2008-02","Jennifer Lopez",0
+"2008-02","Justin Timberlake",3
+"2008-02","Madonna",0
+"2008-02","Nelly Furtado",0
+"2008-02","No Doubt",0
+"2008-02","P!Nk",1
+"2008-02","Red Hot Chili Peppers",2
+"2008-02","Rihanna",8
+"2008-02","Sean Paul",0
+"2008-02","The Black Eyed Peas",1
+"2008-02","The Pussycat Dolls",4
+"2008-02","Timbaland",0
+"2008-03","*Nsync",0
+"2008-03","30 Seconds To Mars",25
+"2008-03","50 Cent",5
+"2008-03","Afi",0
+"2008-03","Ashlee Simpson",22
+"2008-03","Bob Sinclar",0
+"2008-03","Britney Spears",497
+"2008-03","Fergie",1
+"2008-03","Jennifer Lopez",0
+"2008-03","Justin Timberlake",19
+"2008-03","Madonna",34
+"2008-03","Nelly Furtado",0
+"2008-03","No Doubt",0
+"2008-03","P!Nk",1
+"2008-03","Red Hot Chili Peppers",0
+"2008-03","Rihanna",4
+"2008-03","Sean Paul",0
+"2008-03","The Black Eyed Peas",13
+"2008-03","The Pussycat Dolls",0
+"2008-03","Timbaland",0
+"2008-04","*Nsync",0
+"2008-04","30 Seconds To Mars",13
+"2008-04","50 Cent",1
+"2008-04","Afi",0
+"2008-04","Ashlee Simpson",7
+"2008-04","Bob Sinclar",2
+"2008-04","Britney Spears",221
+"2008-04","Fergie",1
+"2008-04","Jennifer Lopez",0
+"2008-04","Justin Timberlake",3
+"2008-04","Madonna",73
+"2008-04","Nelly Furtado",1
+"2008-04","No Doubt",1
+"2008-04","P!Nk",1
+"2008-04","Red Hot Chili Peppers",1
+"2008-04","Rihanna",3
+"2008-04","Sean Paul",1
+"2008-04","The Black Eyed Peas",0
+"2008-04","The Pussycat Dolls",0
+"2008-04","Timbaland",2
+"2008-05","*Nsync",13
+"2008-05","30 Seconds To Mars",2
+"2008-05","50 Cent",1
+"2008-05","Afi",4
+"2008-05","Ashlee Simpson",2
+"2008-05","Bob Sinclar",5
+"2008-05","Britney Spears",251
+"2008-05","Fergie",1
+"2008-05","Jennifer Lopez",0
+"2008-05","Justin Timberlake",13
+"2008-05","Madonna",94
+"2008-05","Nelly Furtado",2
+"2008-05","No Doubt",2
+"2008-05","P!Nk",0
+"2008-05","Red Hot Chili Peppers",8
+"2008-05","Rihanna",1
+"2008-05","Sean Paul",1
+"2008-05","The Black Eyed Peas",10
+"2008-05","The Pussycat Dolls",0
+"2008-05","Timbaland",18
+"2008-06","*Nsync",10
+"2008-06","30 Seconds To Mars",9
+"2008-06","50 Cent",10
+"2008-06","Afi",6
+"2008-06","Ashlee Simpson",0
+"2008-06","Bob Sinclar",5
+"2008-06","Britney Spears",128
+"2008-06","Fergie",0
+"2008-06","Jennifer Lopez",0
+"2008-06","Justin Timberlake",9
+"2008-06","Madonna",58
+"2008-06","Nelly Furtado",0
+"2008-06","No Doubt",0
+"2008-06","P!Nk",0
+"2008-06","Red Hot Chili Peppers",0
+"2008-06","Rihanna",31
+"2008-06","Sean Paul",29
+"2008-06","The Black Eyed Peas",4
+"2008-06","The Pussycat Dolls",21
+"2008-06","Timbaland",19
+"2008-07","*Nsync",9
+"2008-07","30 Seconds To Mars",13
+"2008-07","50 Cent",8
+"2008-07","Afi",7
+"2008-07","Ashlee Simpson",0
+"2008-07","Bob Sinclar",4
+"2008-07","Britney Spears",328
+"2008-07","Fergie",0
+"2008-07","Jennifer Lopez",2
+"2008-07","Justin Timberlake",10
+"2008-07","Madonna",201
+"2008-07","Nelly Furtado",2
+"2008-07","No Doubt",3
+"2008-07","P!Nk",0
+"2008-07","Red Hot Chili Peppers",12
+"2008-07","Rihanna",49
+"2008-07","Sean Paul",9
+"2008-07","The Black Eyed Peas",3
+"2008-07","The Pussycat Dolls",14
+"2008-07","Timbaland",12
+"2008-08","*Nsync",0
+"2008-08","30 Seconds To Mars",7
+"2008-08","50 Cent",2
+"2008-08","Afi",2
+"2008-08","Ashlee Simpson",0
+"2008-08","Bob Sinclar",0
+"2008-08","Britney Spears",118
+"2008-08","Fergie",0
+"2008-08","Jennifer Lopez",0
+"2008-08","Justin Timberlake",1
+"2008-08","Madonna",29
+"2008-08","Nelly Furtado",0
+"2008-08","No Doubt",0
+"2008-08","P!Nk",2
+"2008-08","Red Hot Chili Peppers",15
+"2008-08","Rihanna",16
+"2008-08","Sean Paul",3
+"2008-08","The Black Eyed Peas",0
+"2008-08","The Pussycat Dolls",0
+"2008-08","Timbaland",28
+"2008-09","*Nsync",5
+"2008-09","30 Seconds To Mars",2
+"2008-09","50 Cent",0
+"2008-09","Afi",1
+"2008-09","Ashlee Simpson",0
+"2008-09","Bob Sinclar",0
+"2008-09","Britney Spears",243
+"2008-09","Fergie",0
+"2008-09","Jennifer Lopez",0
+"2008-09","Justin Timberlake",1
+"2008-09","Madonna",9
+"2008-09","Nelly Furtado",0
+"2008-09","No Doubt",1
+"2008-09","P!Nk",0
+"2008-09","Red Hot Chili Peppers",1
+"2008-09","Rihanna",8
+"2008-09","Sean Paul",1
+"2008-09","The Black Eyed Peas",2
+"2008-09","The Pussycat Dolls",0
+"2008-09","Timbaland",2
+"2008-10","*Nsync",0
+"2008-10","30 Seconds To Mars",2
+"2008-10","50 Cent",0
+"2008-10","Afi",0
+"2008-10","Ashlee Simpson",0
+"2008-10","Bob Sinclar",0
+"2008-10","Britney Spears",400
+"2008-10","Fergie",0
+"2008-10","Jennifer Lopez",0
+"2008-10","Justin Timberlake",2
+"2008-10","Madonna",19
+"2008-10","Nelly Furtado",1
+"2008-10","No Doubt",0
+"2008-10","P!Nk",25
+"2008-10","Red Hot Chili Peppers",5
+"2008-10","Rihanna",5
+"2008-10","Sean Paul",0
+"2008-10","The Black Eyed Peas",1
+"2008-10","The Pussycat Dolls",0
+"2008-10","Timbaland",1
+"2008-11","*Nsync",0
+"2008-11","30 Seconds To Mars",2
+"2008-11","50 Cent",1
+"2008-11","Afi",1
+"2008-11","Ashlee Simpson",0
+"2008-11","Bob Sinclar",2
+"2008-11","Britney Spears",665
+"2008-11","Fergie",0
+"2008-11","Jennifer Lopez",0
+"2008-11","Justin Timberlake",2
+"2008-11","Madonna",15
+"2008-11","Nelly Furtado",0
+"2008-11","No Doubt",0
+"2008-11","P!Nk",6
+"2008-11","Red Hot Chili Peppers",0
+"2008-11","Rihanna",0
+"2008-11","Sean Paul",2
+"2008-11","The Black Eyed Peas",1
+"2008-11","The Pussycat Dolls",0
+"2008-11","Timbaland",2
+"2008-12","*Nsync",0
+"2008-12","30 Seconds To Mars",4
+"2008-12","50 Cent",0
+"2008-12","Afi",0
+"2008-12","Ashlee Simpson",0
+"2008-12","Bob Sinclar",0
+"2008-12","Britney Spears",437
+"2008-12","Fergie",0
+"2008-12","Jennifer Lopez",1
+"2008-12","Justin Timberlake",1
+"2008-12","Madonna",4
+"2008-12","Nelly Furtado",0
+"2008-12","No Doubt",0
+"2008-12","P!Nk",1
+"2008-12","Red Hot Chili Peppers",0
+"2008-12","Rihanna",0
+"2008-12","Sean Paul",0
+"2008-12","The Black Eyed Peas",0
+"2008-12","The Pussycat Dolls",0
+"2008-12","Timbaland",1
+"2009-01","*Nsync",1
+"2009-01","30 Seconds To Mars",6
+"2009-01","50 Cent",2
+"2009-01","Afi",0
+"2009-01","Ashlee Simpson",0
+"2009-01","Bob Sinclar",0
+"2009-01","Britney Spears",514
+"2009-01","Fergie",0
+"2009-01","Jennifer Lopez",0
+"2009-01","Justin Timberlake",0
+"2009-01","Madonna",7
+"2009-01","Nelly Furtado",0
+"2009-01","No Doubt",0
+"2009-01","P!Nk",6
+"2009-01","Red Hot Chili Peppers",0
+"2009-01","Rihanna",0
+"2009-01","Sean Paul",0
+"2009-01","The Black Eyed Peas",4
+"2009-01","The Pussycat Dolls",4
+"2009-01","Timbaland",2
+"2009-02","*Nsync",2
+"2009-02","30 Seconds To Mars",3
+"2009-02","50 Cent",0
+"2009-02","Afi",0
+"2009-02","Ashlee Simpson",0
+"2009-02","Bob Sinclar",0
+"2009-02","Britney Spears",290
+"2009-02","Fergie",0
+"2009-02","Jennifer Lopez",1
+"2009-02","Justin Timberlake",0
+"2009-02","Madonna",7
+"2009-02","Nelly Furtado",0
+"2009-02","No Doubt",0
+"2009-02","P!Nk",35
+"2009-02","Red Hot Chili Peppers",0
+"2009-02","Rihanna",0
+"2009-02","Sean Paul",0
+"2009-02","The Black Eyed Peas",3
+"2009-02","The Pussycat Dolls",37
+"2009-02","Timbaland",1
+"2009-03","*Nsync",0
+"2009-03","30 Seconds To Mars",9
+"2009-03","50 Cent",1
+"2009-03","Afi",1
+"2009-03","Ashlee Simpson",0
+"2009-03","Bob Sinclar",1
+"2009-03","Britney Spears",416
+"2009-03","Fergie",0
+"2009-03","Jennifer Lopez",1
+"2009-03","Justin Timberlake",1
+"2009-03","Madonna",1
+"2009-03","Nelly Furtado",1
+"2009-03","No Doubt",0
+"2009-03","P!Nk",12
+"2009-03","Red Hot Chili Peppers",0
+"2009-03","Rihanna",4
+"2009-03","Sean Paul",1
+"2009-03","The Black Eyed Peas",3
+"2009-03","The Pussycat Dolls",2
+"2009-03","Timbaland",2
+"2009-04","*Nsync",1
+"2009-04","30 Seconds To Mars",6
+"2009-04","50 Cent",1
+"2009-04","Afi",0
+"2009-04","Ashlee Simpson",0
+"2009-04","Bob Sinclar",0
+"2009-04","Britney Spears",160
+"2009-04","Fergie",1
+"2009-04","Jennifer Lopez",0
+"2009-04","Justin Timberlake",8
+"2009-04","Madonna",5
+"2009-04","Nelly Furtado",0
+"2009-04","No Doubt",0
+"2009-04","P!Nk",1
+"2009-04","Red Hot Chili Peppers",0
+"2009-04","Rihanna",0
+"2009-04","Sean Paul",2
+"2009-04","The Black Eyed Peas",11
+"2009-04","The Pussycat Dolls",5
+"2009-04","Timbaland",4
+"2009-05","*Nsync",1
+"2009-05","30 Seconds To Mars",3
+"2009-05","50 Cent",0
+"2009-05","Afi",0
+"2009-05","Ashlee Simpson",0
+"2009-05","Bob Sinclar",0
+"2009-05","Britney Spears",316
+"2009-05","Fergie",0
+"2009-05","Jennifer Lopez",0
+"2009-05","Justin Timberlake",2
+"2009-05","Madonna",2
+"2009-05","Nelly Furtado",0
+"2009-05","No Doubt",0
+"2009-05","P!Nk",0
+"2009-05","Red Hot Chili Peppers",0
+"2009-05","Rihanna",3
+"2009-05","Sean Paul",0
+"2009-05","The Black Eyed Peas",46
+"2009-05","The Pussycat Dolls",1
+"2009-05","Timbaland",0
+"2009-06","*Nsync",0
+"2009-06","30 Seconds To Mars",2
+"2009-06","50 Cent",0
+"2009-06","Afi",0
+"2009-06","Ashlee Simpson",0
+"2009-06","Bob Sinclar",1
+"2009-06","Britney Spears",53
+"2009-06","Fergie",0
+"2009-06","Jennifer Lopez",0
+"2009-06","Justin Timberlake",0
+"2009-06","Madonna",0
+"2009-06","Nelly Furtado",0
+"2009-06","No Doubt",0
+"2009-06","P!Nk",0
+"2009-06","Red Hot Chili Peppers",6
+"2009-06","Rihanna",0
+"2009-06","Sean Paul",0
+"2009-06","The Black Eyed Peas",76
+"2009-06","The Pussycat Dolls",0
+"2009-06","Timbaland",0

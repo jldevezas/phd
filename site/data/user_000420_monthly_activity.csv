@@ -1,61 +1,61 @@
-month,artist,plays
-2006-11,!!!,61
-2006-11,Asha Bhosle,19
-2006-11,Asha Bhosle & Mohammed Rafi,4
-2006-11,Babyshambles,84
-2006-11,Black Grape,27
-2006-11,Bound Stems,124
-2006-11,Bright Eyes,56
-2006-11,Bright Eyes & Her Space Holiday,4
-2006-11,Britta Persson,63
-2006-11,Bruce Springsteen,11
-2006-11,Camille,124
-2006-11,Clipse,8
-2006-11,Donovan,45
-2006-11,Editors,34
-2006-11,Experimental Audio Research,15
-2006-11,Fiona Apple,27
-2006-11,Fischerspooner,3
-2006-11,Grizzly Bear,25
-2006-11,Happy Mondays,22
-2006-11,Isobel Campbell,52
-2006-12,!!!,73
-2006-12,Asha Bhosle,138
-2006-12,Asha Bhosle & Mohammed Rafi,15
-2006-12,Babyshambles,129
-2006-12,Black Grape,71
-2006-12,Bound Stems,169
-2006-12,Bright Eyes,5
-2006-12,Bright Eyes & Her Space Holiday,27
-2006-12,Britta Persson,109
-2006-12,Bruce Springsteen,105
-2006-12,Camille,198
-2006-12,Clipse,34
-2006-12,Donovan,61
-2006-12,Editors,90
-2006-12,Experimental Audio Research,42
-2006-12,Fiona Apple,53
-2006-12,Fischerspooner,22
-2006-12,Grizzly Bear,59
-2006-12,Happy Mondays,86
-2006-12,Isobel Campbell,134
-2007-01,!!!,77
-2007-01,Asha Bhosle,30
-2007-01,Asha Bhosle & Mohammed Rafi,5
-2007-01,Babyshambles,23
-2007-01,Black Grape,40
-2007-01,Bound Stems,44
-2007-01,Bright Eyes,4
-2007-01,Bright Eyes & Her Space Holiday,9
-2007-01,Britta Persson,37
-2007-01,Bruce Springsteen,49
-2007-01,Camille,205
-2007-01,Clipse,12
-2007-01,Donovan,47
-2007-01,Editors,40
-2007-01,Experimental Audio Research,18
-2007-01,Fiona Apple,51
-2007-01,Fischerspooner,10
-2007-01,Grizzly Bear,38
-2007-01,Happy Mondays,29
-2007-01,Isobel Campbell,51
+"month","artist","plays"
+"2006-11","!!!",61
+"2006-11","Asha Bhosle",19
+"2006-11","Asha Bhosle & Mohammed Rafi",4
+"2006-11","Babyshambles",84
+"2006-11","Black Grape",27
+"2006-11","Bound Stems",124
+"2006-11","Bright Eyes",56
+"2006-11","Bright Eyes & Her Space Holiday",4
+"2006-11","Britta Persson",63
+"2006-11","Bruce Springsteen",11
+"2006-11","Camille",124
+"2006-11","Clipse",8
+"2006-11","Donovan",45
+"2006-11","Editors",34
+"2006-11","Experimental Audio Research",15
+"2006-11","Fiona Apple",27
+"2006-11","Fischerspooner",3
+"2006-11","Grizzly Bear",25
+"2006-11","Happy Mondays",22
+"2006-11","Isobel Campbell",52
+"2006-12","!!!",73
+"2006-12","Asha Bhosle",138
+"2006-12","Asha Bhosle & Mohammed Rafi",15
+"2006-12","Babyshambles",129
+"2006-12","Black Grape",71
+"2006-12","Bound Stems",169
+"2006-12","Bright Eyes",5
+"2006-12","Bright Eyes & Her Space Holiday",27
+"2006-12","Britta Persson",109
+"2006-12","Bruce Springsteen",105
+"2006-12","Camille",198
+"2006-12","Clipse",34
+"2006-12","Donovan",61
+"2006-12","Editors",90
+"2006-12","Experimental Audio Research",42
+"2006-12","Fiona Apple",53
+"2006-12","Fischerspooner",22
+"2006-12","Grizzly Bear",59
+"2006-12","Happy Mondays",86
+"2006-12","Isobel Campbell",134
+"2007-01","!!!",77
+"2007-01","Asha Bhosle",30
+"2007-01","Asha Bhosle & Mohammed Rafi",5
+"2007-01","Babyshambles",23
+"2007-01","Black Grape",40
+"2007-01","Bound Stems",44
+"2007-01","Bright Eyes",4
+"2007-01","Bright Eyes & Her Space Holiday",9
+"2007-01","Britta Persson",37
+"2007-01","Bruce Springsteen",49
+"2007-01","Camille",205
+"2007-01","Clipse",12
+"2007-01","Donovan",47
+"2007-01","Editors",40
+"2007-01","Experimental Audio Research",18
+"2007-01","Fiona Apple",51
+"2007-01","Fischerspooner",10
+"2007-01","Grizzly Bear",38
+"2007-01","Happy Mondays",29
+"2007-01","Isobel Campbell",51

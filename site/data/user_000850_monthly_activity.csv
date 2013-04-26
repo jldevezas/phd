@@ -1,521 +1,521 @@
-month,artist,plays
-2006-07,Anathallo,0
-2006-07,Bob Marley,2
-2006-07,Death Cab For Cutie,17
-2006-07,Dispatch,7
-2006-07,Jack Johnson,1
-2006-07,Mae,0
-2006-07,Of Montreal,2
-2006-07,Phish,1
-2006-07,Saosin,5
-2006-07,Say Anything,0
-2006-07,Stars,0
-2006-07,State Radio,18
-2006-07,Sublime,13
-2006-07,Sufjan Stevens,2
-2006-07,The Decemberists,0
-2006-07,The Postal Service,3
-2006-07,The Shins,0
-2006-07,The Unicorns,9
-2006-07,This Providence,0
-2006-07,Zox,0
-2006-08,Anathallo,9
-2006-08,Bob Marley,37
-2006-08,Death Cab For Cutie,33
-2006-08,Dispatch,43
-2006-08,Jack Johnson,76
-2006-08,Mae,1
-2006-08,Of Montreal,8
-2006-08,Phish,20
-2006-08,Saosin,30
-2006-08,Say Anything,0
-2006-08,Stars,0
-2006-08,State Radio,185
-2006-08,Sublime,38
-2006-08,Sufjan Stevens,7
-2006-08,The Decemberists,0
-2006-08,The Postal Service,9
-2006-08,The Shins,6
-2006-08,The Unicorns,35
-2006-08,This Providence,10
-2006-08,Zox,0
-2006-09,Anathallo,0
-2006-09,Bob Marley,7
-2006-09,Death Cab For Cutie,113
-2006-09,Dispatch,46
-2006-09,Jack Johnson,55
-2006-09,Mae,2
-2006-09,Of Montreal,0
-2006-09,Phish,5
-2006-09,Saosin,4
-2006-09,Say Anything,0
-2006-09,Stars,20
-2006-09,State Radio,63
-2006-09,Sublime,33
-2006-09,Sufjan Stevens,11
-2006-09,The Decemberists,0
-2006-09,The Postal Service,5
-2006-09,The Shins,1
-2006-09,The Unicorns,0
-2006-09,This Providence,1
-2006-09,Zox,0
-2006-10,Anathallo,1
-2006-10,Bob Marley,1
-2006-10,Death Cab For Cutie,38
-2006-10,Dispatch,126
-2006-10,Jack Johnson,122
-2006-10,Mae,0
-2006-10,Of Montreal,0
-2006-10,Phish,4
-2006-10,Saosin,2
-2006-10,Say Anything,9
-2006-10,Stars,5
-2006-10,State Radio,99
-2006-10,Sublime,60
-2006-10,Sufjan Stevens,1
-2006-10,The Decemberists,0
-2006-10,The Postal Service,17
-2006-10,The Shins,0
-2006-10,The Unicorns,0
-2006-10,This Providence,0
-2006-10,Zox,29
-2006-11,Anathallo,0
-2006-11,Bob Marley,0
-2006-11,Death Cab For Cutie,16
-2006-11,Dispatch,191
-2006-11,Jack Johnson,38
-2006-11,Mae,38
-2006-11,Of Montreal,0
-2006-11,Phish,0
-2006-11,Saosin,16
-2006-11,Say Anything,21
-2006-11,Stars,44
-2006-11,State Radio,180
-2006-11,Sublime,45
-2006-11,Sufjan Stevens,1
-2006-11,The Decemberists,0
-2006-11,The Postal Service,16
-2006-11,The Shins,1
-2006-11,The Unicorns,0
-2006-11,This Providence,0
-2006-11,Zox,5
-2006-12,Anathallo,4
-2006-12,Bob Marley,1
-2006-12,Death Cab For Cutie,18
-2006-12,Dispatch,116
-2006-12,Jack Johnson,10
-2006-12,Mae,44
-2006-12,Of Montreal,0
-2006-12,Phish,9
-2006-12,Saosin,54
-2006-12,Say Anything,2
-2006-12,Stars,30
-2006-12,State Radio,15
-2006-12,Sublime,38
-2006-12,Sufjan Stevens,49
-2006-12,The Decemberists,0
-2006-12,The Postal Service,1
-2006-12,The Shins,1
-2006-12,The Unicorns,0
-2006-12,This Providence,4
-2006-12,Zox,0
-2007-01,Anathallo,3
-2007-01,Bob Marley,15
-2007-01,Death Cab For Cutie,10
-2007-01,Dispatch,45
-2007-01,Jack Johnson,1
-2007-01,Mae,0
-2007-01,Of Montreal,0
-2007-01,Phish,6
-2007-01,Saosin,27
-2007-01,Say Anything,0
-2007-01,Stars,0
-2007-01,State Radio,0
-2007-01,Sublime,39
-2007-01,Sufjan Stevens,56
-2007-01,The Decemberists,0
-2007-01,The Postal Service,0
-2007-01,The Shins,3
-2007-01,The Unicorns,3
-2007-01,This Providence,15
-2007-01,Zox,0
-2007-02,Anathallo,0
-2007-02,Bob Marley,17
-2007-02,Death Cab For Cutie,0
-2007-02,Dispatch,0
-2007-02,Jack Johnson,0
-2007-02,Mae,0
-2007-02,Of Montreal,0
-2007-02,Phish,2
-2007-02,Saosin,0
-2007-02,Say Anything,0
-2007-02,Stars,0
-2007-02,State Radio,0
-2007-02,Sublime,31
-2007-02,Sufjan Stevens,61
-2007-02,The Decemberists,0
-2007-02,The Postal Service,0
-2007-02,The Shins,18
-2007-02,The Unicorns,0
-2007-02,This Providence,0
-2007-02,Zox,6
-2007-03,Anathallo,1
-2007-03,Bob Marley,0
-2007-03,Death Cab For Cutie,24
-2007-03,Dispatch,0
-2007-03,Jack Johnson,43
-2007-03,Mae,27
-2007-03,Of Montreal,5
-2007-03,Phish,0
-2007-03,Saosin,2
-2007-03,Say Anything,2
-2007-03,Stars,0
-2007-03,State Radio,0
-2007-03,Sublime,36
-2007-03,Sufjan Stevens,28
-2007-03,The Decemberists,11
-2007-03,The Postal Service,17
-2007-03,The Shins,30
-2007-03,The Unicorns,4
-2007-03,This Providence,2
-2007-03,Zox,23
-2007-04,Anathallo,0
-2007-04,Bob Marley,0
-2007-04,Death Cab For Cutie,36
-2007-04,Dispatch,10
-2007-04,Jack Johnson,19
-2007-04,Mae,4
-2007-04,Of Montreal,26
-2007-04,Phish,4
-2007-04,Saosin,1
-2007-04,Say Anything,6
-2007-04,Stars,2
-2007-04,State Radio,0
-2007-04,Sublime,3
-2007-04,Sufjan Stevens,0
-2007-04,The Decemberists,21
-2007-04,The Postal Service,9
-2007-04,The Shins,81
-2007-04,The Unicorns,21
-2007-04,This Providence,15
-2007-04,Zox,31
-2007-05,Anathallo,0
-2007-05,Bob Marley,4
-2007-05,Death Cab For Cutie,68
-2007-05,Dispatch,0
-2007-05,Jack Johnson,56
-2007-05,Mae,1
-2007-05,Of Montreal,118
-2007-05,Phish,0
-2007-05,Saosin,1
-2007-05,Say Anything,18
-2007-05,Stars,8
-2007-05,State Radio,0
-2007-05,Sublime,15
-2007-05,Sufjan Stevens,32
-2007-05,The Decemberists,10
-2007-05,The Postal Service,4
-2007-05,The Shins,48
-2007-05,The Unicorns,3
-2007-05,This Providence,4
-2007-05,Zox,4
-2007-06,Anathallo,0
-2007-06,Bob Marley,0
-2007-06,Death Cab For Cutie,26
-2007-06,Dispatch,1
-2007-06,Jack Johnson,9
-2007-06,Mae,1
-2007-06,Of Montreal,35
-2007-06,Phish,0
-2007-06,Saosin,0
-2007-06,Say Anything,5
-2007-06,Stars,5
-2007-06,State Radio,3
-2007-06,Sublime,15
-2007-06,Sufjan Stevens,12
-2007-06,The Decemberists,0
-2007-06,The Postal Service,11
-2007-06,The Shins,81
-2007-06,The Unicorns,2
-2007-06,This Providence,11
-2007-06,Zox,4
-2007-07,Anathallo,1
-2007-07,Bob Marley,2
-2007-07,Death Cab For Cutie,38
-2007-07,Dispatch,23
-2007-07,Jack Johnson,5
-2007-07,Mae,1
-2007-07,Of Montreal,68
-2007-07,Phish,0
-2007-07,Saosin,0
-2007-07,Say Anything,7
-2007-07,Stars,10
-2007-07,State Radio,4
-2007-07,Sublime,2
-2007-07,Sufjan Stevens,91
-2007-07,The Decemberists,66
-2007-07,The Postal Service,10
-2007-07,The Shins,47
-2007-07,The Unicorns,1
-2007-07,This Providence,3
-2007-07,Zox,0
-2007-08,Anathallo,0
-2007-08,Bob Marley,0
-2007-08,Death Cab For Cutie,0
-2007-08,Dispatch,12
-2007-08,Jack Johnson,0
-2007-08,Mae,0
-2007-08,Of Montreal,29
-2007-08,Phish,2
-2007-08,Saosin,2
-2007-08,Say Anything,0
-2007-08,Stars,18
-2007-08,State Radio,0
-2007-08,Sublime,6
-2007-08,Sufjan Stevens,6
-2007-08,The Decemberists,5
-2007-08,The Postal Service,9
-2007-08,The Shins,17
-2007-08,The Unicorns,0
-2007-08,This Providence,0
-2007-08,Zox,2
-2007-09,Anathallo,1
-2007-09,Bob Marley,0
-2007-09,Death Cab For Cutie,7
-2007-09,Dispatch,0
-2007-09,Jack Johnson,0
-2007-09,Mae,0
-2007-09,Of Montreal,22
-2007-09,Phish,0
-2007-09,Saosin,0
-2007-09,Say Anything,0
-2007-09,Stars,2
-2007-09,State Radio,0
-2007-09,Sublime,0
-2007-09,Sufjan Stevens,0
-2007-09,The Decemberists,3
-2007-09,The Postal Service,25
-2007-09,The Shins,15
-2007-09,The Unicorns,0
-2007-09,This Providence,0
-2007-09,Zox,0
-2007-10,Anathallo,0
-2007-10,Bob Marley,0
-2007-10,Death Cab For Cutie,0
-2007-10,Dispatch,0
-2007-10,Jack Johnson,0
-2007-10,Mae,0
-2007-10,Of Montreal,0
-2007-10,Phish,0
-2007-10,Saosin,0
-2007-10,Say Anything,0
-2007-10,Stars,0
-2007-10,State Radio,7
-2007-10,Sublime,0
-2007-10,Sufjan Stevens,0
-2007-10,The Decemberists,86
-2007-10,The Postal Service,1
-2007-10,The Shins,0
-2007-10,The Unicorns,0
-2007-10,This Providence,0
-2007-10,Zox,0
-2007-11,Anathallo,0
-2007-11,Bob Marley,0
-2007-11,Death Cab For Cutie,0
-2007-11,Dispatch,0
-2007-11,Jack Johnson,0
-2007-11,Mae,0
-2007-11,Of Montreal,0
-2007-11,Phish,0
-2007-11,Saosin,0
-2007-11,Say Anything,0
-2007-11,Stars,0
-2007-11,State Radio,0
-2007-11,Sublime,0
-2007-11,Sufjan Stevens,0
-2007-11,The Decemberists,0
-2007-11,The Postal Service,0
-2007-11,The Shins,0
-2007-11,The Unicorns,0
-2007-11,This Providence,0
-2007-11,Zox,0
-2007-12,Anathallo,0
-2007-12,Bob Marley,0
-2007-12,Death Cab For Cutie,0
-2007-12,Dispatch,0
-2007-12,Jack Johnson,0
-2007-12,Mae,0
-2007-12,Of Montreal,0
-2007-12,Phish,0
-2007-12,Saosin,0
-2007-12,Say Anything,0
-2007-12,Stars,0
-2007-12,State Radio,0
-2007-12,Sublime,0
-2007-12,Sufjan Stevens,0
-2007-12,The Decemberists,0
-2007-12,The Postal Service,0
-2007-12,The Shins,0
-2007-12,The Unicorns,0
-2007-12,This Providence,0
-2007-12,Zox,0
-2008-01,Anathallo,0
-2008-01,Bob Marley,0
-2008-01,Death Cab For Cutie,0
-2008-01,Dispatch,0
-2008-01,Jack Johnson,0
-2008-01,Mae,0
-2008-01,Of Montreal,0
-2008-01,Phish,0
-2008-01,Saosin,0
-2008-01,Say Anything,0
-2008-01,Stars,0
-2008-01,State Radio,0
-2008-01,Sublime,0
-2008-01,Sufjan Stevens,0
-2008-01,The Decemberists,0
-2008-01,The Postal Service,0
-2008-01,The Shins,0
-2008-01,The Unicorns,0
-2008-01,This Providence,0
-2008-01,Zox,0
-2008-02,Anathallo,0
-2008-02,Bob Marley,0
-2008-02,Death Cab For Cutie,0
-2008-02,Dispatch,0
-2008-02,Jack Johnson,0
-2008-02,Mae,0
-2008-02,Of Montreal,0
-2008-02,Phish,0
-2008-02,Saosin,0
-2008-02,Say Anything,0
-2008-02,Stars,0
-2008-02,State Radio,0
-2008-02,Sublime,0
-2008-02,Sufjan Stevens,0
-2008-02,The Decemberists,0
-2008-02,The Postal Service,0
-2008-02,The Shins,0
-2008-02,The Unicorns,0
-2008-02,This Providence,0
-2008-02,Zox,0
-2008-03,Anathallo,0
-2008-03,Bob Marley,0
-2008-03,Death Cab For Cutie,0
-2008-03,Dispatch,0
-2008-03,Jack Johnson,0
-2008-03,Mae,0
-2008-03,Of Montreal,0
-2008-03,Phish,0
-2008-03,Saosin,0
-2008-03,Say Anything,0
-2008-03,Stars,0
-2008-03,State Radio,0
-2008-03,Sublime,0
-2008-03,Sufjan Stevens,0
-2008-03,The Decemberists,0
-2008-03,The Postal Service,0
-2008-03,The Shins,0
-2008-03,The Unicorns,0
-2008-03,This Providence,0
-2008-03,Zox,0
-2008-04,Anathallo,0
-2008-04,Bob Marley,0
-2008-04,Death Cab For Cutie,0
-2008-04,Dispatch,0
-2008-04,Jack Johnson,0
-2008-04,Mae,0
-2008-04,Of Montreal,0
-2008-04,Phish,0
-2008-04,Saosin,0
-2008-04,Say Anything,0
-2008-04,Stars,0
-2008-04,State Radio,0
-2008-04,Sublime,0
-2008-04,Sufjan Stevens,0
-2008-04,The Decemberists,0
-2008-04,The Postal Service,0
-2008-04,The Shins,0
-2008-04,The Unicorns,0
-2008-04,This Providence,0
-2008-04,Zox,0
-2008-05,Anathallo,0
-2008-05,Bob Marley,0
-2008-05,Death Cab For Cutie,0
-2008-05,Dispatch,0
-2008-05,Jack Johnson,0
-2008-05,Mae,0
-2008-05,Of Montreal,0
-2008-05,Phish,0
-2008-05,Saosin,0
-2008-05,Say Anything,0
-2008-05,Stars,0
-2008-05,State Radio,0
-2008-05,Sublime,0
-2008-05,Sufjan Stevens,0
-2008-05,The Decemberists,0
-2008-05,The Postal Service,0
-2008-05,The Shins,0
-2008-05,The Unicorns,0
-2008-05,This Providence,0
-2008-05,Zox,0
-2008-06,Anathallo,0
-2008-06,Bob Marley,0
-2008-06,Death Cab For Cutie,0
-2008-06,Dispatch,0
-2008-06,Jack Johnson,0
-2008-06,Mae,0
-2008-06,Of Montreal,0
-2008-06,Phish,0
-2008-06,Saosin,0
-2008-06,Say Anything,0
-2008-06,Stars,0
-2008-06,State Radio,0
-2008-06,Sublime,0
-2008-06,Sufjan Stevens,0
-2008-06,The Decemberists,0
-2008-06,The Postal Service,0
-2008-06,The Shins,0
-2008-06,The Unicorns,0
-2008-06,This Providence,0
-2008-06,Zox,0
-2008-07,Anathallo,0
-2008-07,Bob Marley,0
-2008-07,Death Cab For Cutie,18
-2008-07,Dispatch,0
-2008-07,Jack Johnson,0
-2008-07,Mae,0
-2008-07,Of Montreal,3
-2008-07,Phish,0
-2008-07,Saosin,0
-2008-07,Say Anything,0
-2008-07,Stars,1
-2008-07,State Radio,0
-2008-07,Sublime,0
-2008-07,Sufjan Stevens,0
-2008-07,The Decemberists,8
-2008-07,The Postal Service,6
-2008-07,The Shins,2
-2008-07,The Unicorns,0
-2008-07,This Providence,0
-2008-07,Zox,0
-2008-08,Anathallo,0
-2008-08,Bob Marley,0
-2008-08,Death Cab For Cutie,1
-2008-08,Dispatch,0
-2008-08,Jack Johnson,0
-2008-08,Mae,0
-2008-08,Of Montreal,0
-2008-08,Phish,0
-2008-08,Saosin,0
-2008-08,Say Anything,0
-2008-08,Stars,0
-2008-08,State Radio,0
-2008-08,Sublime,0
-2008-08,Sufjan Stevens,0
-2008-08,The Decemberists,0
-2008-08,The Postal Service,1
-2008-08,The Shins,0
-2008-08,The Unicorns,0
-2008-08,This Providence,0
-2008-08,Zox,0
+"month","artist","plays"
+"2006-07","Anathallo",0
+"2006-07","Bob Marley",2
+"2006-07","Death Cab For Cutie",17
+"2006-07","Dispatch",7
+"2006-07","Jack Johnson",1
+"2006-07","Mae",0
+"2006-07","Of Montreal",2
+"2006-07","Phish",1
+"2006-07","Saosin",5
+"2006-07","Say Anything",0
+"2006-07","Stars",0
+"2006-07","State Radio",18
+"2006-07","Sublime",13
+"2006-07","Sufjan Stevens",2
+"2006-07","The Decemberists",0
+"2006-07","The Postal Service",3
+"2006-07","The Shins",0
+"2006-07","The Unicorns",9
+"2006-07","This Providence",0
+"2006-07","Zox",0
+"2006-08","Anathallo",9
+"2006-08","Bob Marley",37
+"2006-08","Death Cab For Cutie",33
+"2006-08","Dispatch",43
+"2006-08","Jack Johnson",76
+"2006-08","Mae",1
+"2006-08","Of Montreal",8
+"2006-08","Phish",20
+"2006-08","Saosin",30
+"2006-08","Say Anything",0
+"2006-08","Stars",0
+"2006-08","State Radio",185
+"2006-08","Sublime",38
+"2006-08","Sufjan Stevens",7
+"2006-08","The Decemberists",0
+"2006-08","The Postal Service",9
+"2006-08","The Shins",6
+"2006-08","The Unicorns",35
+"2006-08","This Providence",10
+"2006-08","Zox",0
+"2006-09","Anathallo",0
+"2006-09","Bob Marley",7
+"2006-09","Death Cab For Cutie",113
+"2006-09","Dispatch",46
+"2006-09","Jack Johnson",55
+"2006-09","Mae",2
+"2006-09","Of Montreal",0
+"2006-09","Phish",5
+"2006-09","Saosin",4
+"2006-09","Say Anything",0
+"2006-09","Stars",20
+"2006-09","State Radio",63
+"2006-09","Sublime",33
+"2006-09","Sufjan Stevens",11
+"2006-09","The Decemberists",0
+"2006-09","The Postal Service",5
+"2006-09","The Shins",1
+"2006-09","The Unicorns",0
+"2006-09","This Providence",1
+"2006-09","Zox",0
+"2006-10","Anathallo",1
+"2006-10","Bob Marley",1
+"2006-10","Death Cab For Cutie",38
+"2006-10","Dispatch",126
+"2006-10","Jack Johnson",122
+"2006-10","Mae",0
+"2006-10","Of Montreal",0
+"2006-10","Phish",4
+"2006-10","Saosin",2
+"2006-10","Say Anything",9
+"2006-10","Stars",5
+"2006-10","State Radio",99
+"2006-10","Sublime",60
+"2006-10","Sufjan Stevens",1
+"2006-10","The Decemberists",0
+"2006-10","The Postal Service",17
+"2006-10","The Shins",0
+"2006-10","The Unicorns",0
+"2006-10","This Providence",0
+"2006-10","Zox",29
+"2006-11","Anathallo",0
+"2006-11","Bob Marley",0
+"2006-11","Death Cab For Cutie",16
+"2006-11","Dispatch",191
+"2006-11","Jack Johnson",38
+"2006-11","Mae",38
+"2006-11","Of Montreal",0
+"2006-11","Phish",0
+"2006-11","Saosin",16
+"2006-11","Say Anything",21
+"2006-11","Stars",44
+"2006-11","State Radio",180
+"2006-11","Sublime",45
+"2006-11","Sufjan Stevens",1
+"2006-11","The Decemberists",0
+"2006-11","The Postal Service",16
+"2006-11","The Shins",1
+"2006-11","The Unicorns",0
+"2006-11","This Providence",0
+"2006-11","Zox",5
+"2006-12","Anathallo",4
+"2006-12","Bob Marley",1
+"2006-12","Death Cab For Cutie",18
+"2006-12","Dispatch",116
+"2006-12","Jack Johnson",10
+"2006-12","Mae",44
+"2006-12","Of Montreal",0
+"2006-12","Phish",9
+"2006-12","Saosin",54
+"2006-12","Say Anything",2
+"2006-12","Stars",30
+"2006-12","State Radio",15
+"2006-12","Sublime",38
+"2006-12","Sufjan Stevens",49
+"2006-12","The Decemberists",0
+"2006-12","The Postal Service",1
+"2006-12","The Shins",1
+"2006-12","The Unicorns",0
+"2006-12","This Providence",4
+"2006-12","Zox",0
+"2007-01","Anathallo",3
+"2007-01","Bob Marley",15
+"2007-01","Death Cab For Cutie",10
+"2007-01","Dispatch",45
+"2007-01","Jack Johnson",1
+"2007-01","Mae",0
+"2007-01","Of Montreal",0
+"2007-01","Phish",6
+"2007-01","Saosin",27
+"2007-01","Say Anything",0
+"2007-01","Stars",0
+"2007-01","State Radio",0
+"2007-01","Sublime",39
+"2007-01","Sufjan Stevens",56
+"2007-01","The Decemberists",0
+"2007-01","The Postal Service",0
+"2007-01","The Shins",3
+"2007-01","The Unicorns",3
+"2007-01","This Providence",15
+"2007-01","Zox",0
+"2007-02","Anathallo",0
+"2007-02","Bob Marley",17
+"2007-02","Death Cab For Cutie",0
+"2007-02","Dispatch",0
+"2007-02","Jack Johnson",0
+"2007-02","Mae",0
+"2007-02","Of Montreal",0
+"2007-02","Phish",2
+"2007-02","Saosin",0
+"2007-02","Say Anything",0
+"2007-02","Stars",0
+"2007-02","State Radio",0
+"2007-02","Sublime",31
+"2007-02","Sufjan Stevens",61
+"2007-02","The Decemberists",0
+"2007-02","The Postal Service",0
+"2007-02","The Shins",18
+"2007-02","The Unicorns",0
+"2007-02","This Providence",0
+"2007-02","Zox",6
+"2007-03","Anathallo",1
+"2007-03","Bob Marley",0
+"2007-03","Death Cab For Cutie",24
+"2007-03","Dispatch",0
+"2007-03","Jack Johnson",43
+"2007-03","Mae",27
+"2007-03","Of Montreal",5
+"2007-03","Phish",0
+"2007-03","Saosin",2
+"2007-03","Say Anything",2
+"2007-03","Stars",0
+"2007-03","State Radio",0
+"2007-03","Sublime",36
+"2007-03","Sufjan Stevens",28
+"2007-03","The Decemberists",11
+"2007-03","The Postal Service",17
+"2007-03","The Shins",30
+"2007-03","The Unicorns",4
+"2007-03","This Providence",2
+"2007-03","Zox",23
+"2007-04","Anathallo",0
+"2007-04","Bob Marley",0
+"2007-04","Death Cab For Cutie",36
+"2007-04","Dispatch",10
+"2007-04","Jack Johnson",19
+"2007-04","Mae",4
+"2007-04","Of Montreal",26
+"2007-04","Phish",4
+"2007-04","Saosin",1
+"2007-04","Say Anything",6
+"2007-04","Stars",2
+"2007-04","State Radio",0
+"2007-04","Sublime",3
+"2007-04","Sufjan Stevens",0
+"2007-04","The Decemberists",21
+"2007-04","The Postal Service",9
+"2007-04","The Shins",81
+"2007-04","The Unicorns",21
+"2007-04","This Providence",15
+"2007-04","Zox",31
+"2007-05","Anathallo",0
+"2007-05","Bob Marley",4
+"2007-05","Death Cab For Cutie",68
+"2007-05","Dispatch",0
+"2007-05","Jack Johnson",56
+"2007-05","Mae",1
+"2007-05","Of Montreal",118
+"2007-05","Phish",0
+"2007-05","Saosin",1
+"2007-05","Say Anything",18
+"2007-05","Stars",8
+"2007-05","State Radio",0
+"2007-05","Sublime",15
+"2007-05","Sufjan Stevens",32
+"2007-05","The Decemberists",10
+"2007-05","The Postal Service",4
+"2007-05","The Shins",48
+"2007-05","The Unicorns",3
+"2007-05","This Providence",4
+"2007-05","Zox",4
+"2007-06","Anathallo",0
+"2007-06","Bob Marley",0
+"2007-06","Death Cab For Cutie",26
+"2007-06","Dispatch",1
+"2007-06","Jack Johnson",9
+"2007-06","Mae",1
+"2007-06","Of Montreal",35
+"2007-06","Phish",0
+"2007-06","Saosin",0
+"2007-06","Say Anything",5
+"2007-06","Stars",5
+"2007-06","State Radio",3
+"2007-06","Sublime",15
+"2007-06","Sufjan Stevens",12
+"2007-06","The Decemberists",0
+"2007-06","The Postal Service",11
+"2007-06","The Shins",81
+"2007-06","The Unicorns",2
+"2007-06","This Providence",11
+"2007-06","Zox",4
+"2007-07","Anathallo",1
+"2007-07","Bob Marley",2
+"2007-07","Death Cab For Cutie",38
+"2007-07","Dispatch",23
+"2007-07","Jack Johnson",5
+"2007-07","Mae",1
+"2007-07","Of Montreal",68
+"2007-07","Phish",0
+"2007-07","Saosin",0
+"2007-07","Say Anything",7
+"2007-07","Stars",10
+"2007-07","State Radio",4
+"2007-07","Sublime",2
+"2007-07","Sufjan Stevens",91
+"2007-07","The Decemberists",66
+"2007-07","The Postal Service",10
+"2007-07","The Shins",47
+"2007-07","The Unicorns",1
+"2007-07","This Providence",3
+"2007-07","Zox",0
+"2007-08","Anathallo",0
+"2007-08","Bob Marley",0
+"2007-08","Death Cab For Cutie",0
+"2007-08","Dispatch",12
+"2007-08","Jack Johnson",0
+"2007-08","Mae",0
+"2007-08","Of Montreal",29
+"2007-08","Phish",2
+"2007-08","Saosin",2
+"2007-08","Say Anything",0
+"2007-08","Stars",18
+"2007-08","State Radio",0
+"2007-08","Sublime",6
+"2007-08","Sufjan Stevens",6
+"2007-08","The Decemberists",5
+"2007-08","The Postal Service",9
+"2007-08","The Shins",17
+"2007-08","The Unicorns",0
+"2007-08","This Providence",0
+"2007-08","Zox",2
+"2007-09","Anathallo",1
+"2007-09","Bob Marley",0
+"2007-09","Death Cab For Cutie",7
+"2007-09","Dispatch",0
+"2007-09","Jack Johnson",0
+"2007-09","Mae",0
+"2007-09","Of Montreal",22
+"2007-09","Phish",0
+"2007-09","Saosin",0
+"2007-09","Say Anything",0
+"2007-09","Stars",2
+"2007-09","State Radio",0
+"2007-09","Sublime",0
+"2007-09","Sufjan Stevens",0
+"2007-09","The Decemberists",3
+"2007-09","The Postal Service",25
+"2007-09","The Shins",15
+"2007-09","The Unicorns",0
+"2007-09","This Providence",0
+"2007-09","Zox",0
+"2007-10","Anathallo",0
+"2007-10","Bob Marley",0
+"2007-10","Death Cab For Cutie",0
+"2007-10","Dispatch",0
+"2007-10","Jack Johnson",0
+"2007-10","Mae",0
+"2007-10","Of Montreal",0
+"2007-10","Phish",0
+"2007-10","Saosin",0
+"2007-10","Say Anything",0
+"2007-10","Stars",0
+"2007-10","State Radio",7
+"2007-10","Sublime",0
+"2007-10","Sufjan Stevens",0
+"2007-10","The Decemberists",86
+"2007-10","The Postal Service",1
+"2007-10","The Shins",0
+"2007-10","The Unicorns",0
+"2007-10","This Providence",0
+"2007-10","Zox",0
+"2007-11","Anathallo",0
+"2007-11","Bob Marley",0
+"2007-11","Death Cab For Cutie",0
+"2007-11","Dispatch",0
+"2007-11","Jack Johnson",0
+"2007-11","Mae",0
+"2007-11","Of Montreal",0
+"2007-11","Phish",0
+"2007-11","Saosin",0
+"2007-11","Say Anything",0
+"2007-11","Stars",0
+"2007-11","State Radio",0
+"2007-11","Sublime",0
+"2007-11","Sufjan Stevens",0
+"2007-11","The Decemberists",0
+"2007-11","The Postal Service",0
+"2007-11","The Shins",0
+"2007-11","The Unicorns",0
+"2007-11","This Providence",0
+"2007-11","Zox",0
+"2007-12","Anathallo",0
+"2007-12","Bob Marley",0
+"2007-12","Death Cab For Cutie",0
+"2007-12","Dispatch",0
+"2007-12","Jack Johnson",0
+"2007-12","Mae",0
+"2007-12","Of Montreal",0
+"2007-12","Phish",0
+"2007-12","Saosin",0
+"2007-12","Say Anything",0
+"2007-12","Stars",0
+"2007-12","State Radio",0
+"2007-12","Sublime",0
+"2007-12","Sufjan Stevens",0
+"2007-12","The Decemberists",0
+"2007-12","The Postal Service",0
+"2007-12","The Shins",0
+"2007-12","The Unicorns",0
+"2007-12","This Providence",0
+"2007-12","Zox",0
+"2008-01","Anathallo",0
+"2008-01","Bob Marley",0
+"2008-01","Death Cab For Cutie",0
+"2008-01","Dispatch",0
+"2008-01","Jack Johnson",0
+"2008-01","Mae",0
+"2008-01","Of Montreal",0
+"2008-01","Phish",0
+"2008-01","Saosin",0
+"2008-01","Say Anything",0
+"2008-01","Stars",0
+"2008-01","State Radio",0
+"2008-01","Sublime",0
+"2008-01","Sufjan Stevens",0
+"2008-01","The Decemberists",0
+"2008-01","The Postal Service",0
+"2008-01","The Shins",0
+"2008-01","The Unicorns",0
+"2008-01","This Providence",0
+"2008-01","Zox",0
+"2008-02","Anathallo",0
+"2008-02","Bob Marley",0
+"2008-02","Death Cab For Cutie",0
+"2008-02","Dispatch",0
+"2008-02","Jack Johnson",0
+"2008-02","Mae",0
+"2008-02","Of Montreal",0
+"2008-02","Phish",0
+"2008-02","Saosin",0
+"2008-02","Say Anything",0
+"2008-02","Stars",0
+"2008-02","State Radio",0
+"2008-02","Sublime",0
+"2008-02","Sufjan Stevens",0
+"2008-02","The Decemberists",0
+"2008-02","The Postal Service",0
+"2008-02","The Shins",0
+"2008-02","The Unicorns",0
+"2008-02","This Providence",0
+"2008-02","Zox",0
+"2008-03","Anathallo",0
+"2008-03","Bob Marley",0
+"2008-03","Death Cab For Cutie",0
+"2008-03","Dispatch",0
+"2008-03","Jack Johnson",0
+"2008-03","Mae",0
+"2008-03","Of Montreal",0
+"2008-03","Phish",0
+"2008-03","Saosin",0
+"2008-03","Say Anything",0
+"2008-03","Stars",0
+"2008-03","State Radio",0
+"2008-03","Sublime",0
+"2008-03","Sufjan Stevens",0
+"2008-03","The Decemberists",0
+"2008-03","The Postal Service",0
+"2008-03","The Shins",0
+"2008-03","The Unicorns",0
+"2008-03","This Providence",0
+"2008-03","Zox",0
+"2008-04","Anathallo",0
+"2008-04","Bob Marley",0
+"2008-04","Death Cab For Cutie",0
+"2008-04","Dispatch",0
+"2008-04","Jack Johnson",0
+"2008-04","Mae",0
+"2008-04","Of Montreal",0
+"2008-04","Phish",0
+"2008-04","Saosin",0
+"2008-04","Say Anything",0
+"2008-04","Stars",0
+"2008-04","State Radio",0
+"2008-04","Sublime",0
+"2008-04","Sufjan Stevens",0
+"2008-04","The Decemberists",0
+"2008-04","The Postal Service",0
+"2008-04","The Shins",0
+"2008-04","The Unicorns",0
+"2008-04","This Providence",0
+"2008-04","Zox",0
+"2008-05","Anathallo",0
+"2008-05","Bob Marley",0
+"2008-05","Death Cab For Cutie",0
+"2008-05","Dispatch",0
+"2008-05","Jack Johnson",0
+"2008-05","Mae",0
+"2008-05","Of Montreal",0
+"2008-05","Phish",0
+"2008-05","Saosin",0
+"2008-05","Say Anything",0
+"2008-05","Stars",0
+"2008-05","State Radio",0
+"2008-05","Sublime",0
+"2008-05","Sufjan Stevens",0
+"2008-05","The Decemberists",0
+"2008-05","The Postal Service",0
+"2008-05","The Shins",0
+"2008-05","The Unicorns",0
+"2008-05","This Providence",0
+"2008-05","Zox",0
+"2008-06","Anathallo",0
+"2008-06","Bob Marley",0
+"2008-06","Death Cab For Cutie",0
+"2008-06","Dispatch",0
+"2008-06","Jack Johnson",0
+"2008-06","Mae",0
+"2008-06","Of Montreal",0
+"2008-06","Phish",0
+"2008-06","Saosin",0
+"2008-06","Say Anything",0
+"2008-06","Stars",0
+"2008-06","State Radio",0
+"2008-06","Sublime",0
+"2008-06","Sufjan Stevens",0
+"2008-06","The Decemberists",0
+"2008-06","The Postal Service",0
+"2008-06","The Shins",0
+"2008-06","The Unicorns",0
+"2008-06","This Providence",0
+"2008-06","Zox",0
+"2008-07","Anathallo",0
+"2008-07","Bob Marley",0
+"2008-07","Death Cab For Cutie",18
+"2008-07","Dispatch",0
+"2008-07","Jack Johnson",0
+"2008-07","Mae",0
+"2008-07","Of Montreal",3
+"2008-07","Phish",0
+"2008-07","Saosin",0
+"2008-07","Say Anything",0
+"2008-07","Stars",1
+"2008-07","State Radio",0
+"2008-07","Sublime",0
+"2008-07","Sufjan Stevens",0
+"2008-07","The Decemberists",8
+"2008-07","The Postal Service",6
+"2008-07","The Shins",2
+"2008-07","The Unicorns",0
+"2008-07","This Providence",0
+"2008-07","Zox",0
+"2008-08","Anathallo",0
+"2008-08","Bob Marley",0
+"2008-08","Death Cab For Cutie",1
+"2008-08","Dispatch",0
+"2008-08","Jack Johnson",0
+"2008-08","Mae",0
+"2008-08","Of Montreal",0
+"2008-08","Phish",0
+"2008-08","Saosin",0
+"2008-08","Say Anything",0
+"2008-08","Stars",0
+"2008-08","State Radio",0
+"2008-08","Sublime",0
+"2008-08","Sufjan Stevens",0
+"2008-08","The Decemberists",0
+"2008-08","The Postal Service",1
+"2008-08","The Shins",0
+"2008-08","The Unicorns",0
+"2008-08","This Providence",0
+"2008-08","Zox",0

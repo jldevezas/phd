@@ -1,161 +1,161 @@
-month,artist,plays
-2008-09,Amiina,9
-2008-09,Andrew Bird,13
-2008-09,Animal Collective,3
-2008-09,Band Of Horses,2
-2008-09,Beck,1
-2008-09,Björk,1
-2008-09,Broken Social Scene,13
-2008-09,Caribou,2
-2008-09,Cat Power,4
-2008-09,Eels,1
-2008-09,Flight Of The Conchords,3
-2008-09,Gogol Bordello,5
-2008-09,Incubus,2
-2008-09,Interpol,2
-2008-09,M.I.A.,1
-2008-09,Mirah,2
-2008-09,Moby,1
-2008-09,Modest Mouse,3
-2008-09,Oasis,1
-2008-09,Of Montreal,1
-2008-10,Amiina,22
-2008-10,Andrew Bird,98
-2008-10,Animal Collective,55
-2008-10,Band Of Horses,37
-2008-10,Beck,12
-2008-10,Björk,17
-2008-10,Broken Social Scene,341
-2008-10,Caribou,8
-2008-10,Cat Power,25
-2008-10,Eels,6
-2008-10,Flight Of The Conchords,23
-2008-10,Gogol Bordello,18
-2008-10,Incubus,5
-2008-10,Interpol,8
-2008-10,M.I.A.,5
-2008-10,Mirah,15
-2008-10,Moby,38
-2008-10,Modest Mouse,23
-2008-10,Oasis,7
-2008-10,Of Montreal,15
-2008-11,Amiina,9
-2008-11,Andrew Bird,55
-2008-11,Animal Collective,27
-2008-11,Band Of Horses,27
-2008-11,Beck,4
-2008-11,Björk,13
-2008-11,Broken Social Scene,210
-2008-11,Caribou,5
-2008-11,Cat Power,13
-2008-11,Eels,2
-2008-11,Flight Of The Conchords,10
-2008-11,Gogol Bordello,17
-2008-11,Incubus,3
-2008-11,Interpol,5
-2008-11,M.I.A.,7
-2008-11,Mirah,3
-2008-11,Moby,21
-2008-11,Modest Mouse,30
-2008-11,Oasis,5
-2008-11,Of Montreal,7
-2008-12,Amiina,4
-2008-12,Andrew Bird,42
-2008-12,Animal Collective,55
-2008-12,Band Of Horses,30
-2008-12,Beck,2
-2008-12,Björk,12
-2008-12,Broken Social Scene,206
-2008-12,Caribou,6
-2008-12,Cat Power,58
-2008-12,Eels,2
-2008-12,Flight Of The Conchords,6
-2008-12,Gogol Bordello,11
-2008-12,Incubus,3
-2008-12,Interpol,22
-2008-12,M.I.A.,3
-2008-12,Mirah,12
-2008-12,Moby,38
-2008-12,Modest Mouse,36
-2008-12,Oasis,1
-2008-12,Of Montreal,7
-2009-01,Amiina,1
-2009-01,Andrew Bird,11
-2009-01,Animal Collective,67
-2009-01,Band Of Horses,8
-2009-01,Beck,2
-2009-01,Björk,29
-2009-01,Broken Social Scene,47
-2009-01,Caribou,6
-2009-01,Cat Power,65
-2009-01,Eels,3
-2009-01,Flight Of The Conchords,9
-2009-01,Gogol Bordello,7
-2009-01,Incubus,1
-2009-01,Interpol,6
-2009-01,M.I.A.,3
-2009-01,Mirah,25
-2009-01,Moby,8
-2009-01,Modest Mouse,11
-2009-01,Oasis,1
-2009-01,Of Montreal,7
-2009-02,Amiina,1
-2009-02,Andrew Bird,42
-2009-02,Animal Collective,202
-2009-02,Band Of Horses,8
-2009-02,Beck,21
-2009-02,Björk,20
-2009-02,Broken Social Scene,49
-2009-02,Caribou,3
-2009-02,Cat Power,11
-2009-02,Eels,2
-2009-02,Flight Of The Conchords,10
-2009-02,Gogol Bordello,5
-2009-02,Incubus,4
-2009-02,Interpol,7
-2009-02,M.I.A.,1
-2009-02,Mirah,305
-2009-02,Moby,13
-2009-02,Modest Mouse,50
-2009-02,Oasis,1
-2009-02,Of Montreal,32
-2009-03,Amiina,27
-2009-03,Andrew Bird,15
-2009-03,Animal Collective,192
-2009-03,Band Of Horses,29
-2009-03,Beck,13
-2009-03,Björk,29
-2009-03,Broken Social Scene,45
-2009-03,Caribou,33
-2009-03,Cat Power,12
-2009-03,Eels,3
-2009-03,Flight Of The Conchords,4
-2009-03,Gogol Bordello,2
-2009-03,Incubus,1
-2009-03,Interpol,9
-2009-03,M.I.A.,3
-2009-03,Mirah,52
-2009-03,Moby,21
-2009-03,Modest Mouse,28
-2009-03,Oasis,1
-2009-03,Of Montreal,65
-2009-04,Amiina,6
-2009-04,Andrew Bird,18
-2009-04,Animal Collective,151
-2009-04,Band Of Horses,80
-2009-04,Beck,9
-2009-04,Björk,14
-2009-04,Broken Social Scene,19
-2009-04,Caribou,30
-2009-04,Cat Power,20
-2009-04,Eels,5
-2009-04,Flight Of The Conchords,7
-2009-04,Gogol Bordello,12
-2009-04,Incubus,1
-2009-04,Interpol,9
-2009-04,M.I.A.,2
-2009-04,Mirah,94
-2009-04,Moby,19
-2009-04,Modest Mouse,20
-2009-04,Oasis,1
-2009-04,Of Montreal,41
+"month","artist","plays"
+"2008-09","Amiina",9
+"2008-09","Andrew Bird",13
+"2008-09","Animal Collective",3
+"2008-09","Band Of Horses",2
+"2008-09","Beck",1
+"2008-09","Björk",1
+"2008-09","Broken Social Scene",13
+"2008-09","Caribou",2
+"2008-09","Cat Power",4
+"2008-09","Eels",1
+"2008-09","Flight Of The Conchords",3
+"2008-09","Gogol Bordello",5
+"2008-09","Incubus",2
+"2008-09","Interpol",2
+"2008-09","M.I.A.",1
+"2008-09","Mirah",2
+"2008-09","Moby",1
+"2008-09","Modest Mouse",3
+"2008-09","Oasis",1
+"2008-09","Of Montreal",1
+"2008-10","Amiina",22
+"2008-10","Andrew Bird",98
+"2008-10","Animal Collective",55
+"2008-10","Band Of Horses",37
+"2008-10","Beck",12
+"2008-10","Björk",17
+"2008-10","Broken Social Scene",341
+"2008-10","Caribou",8
+"2008-10","Cat Power",25
+"2008-10","Eels",6
+"2008-10","Flight Of The Conchords",23
+"2008-10","Gogol Bordello",18
+"2008-10","Incubus",5
+"2008-10","Interpol",8
+"2008-10","M.I.A.",5
+"2008-10","Mirah",15
+"2008-10","Moby",38
+"2008-10","Modest Mouse",23
+"2008-10","Oasis",7
+"2008-10","Of Montreal",15
+"2008-11","Amiina",9
+"2008-11","Andrew Bird",55
+"2008-11","Animal Collective",27
+"2008-11","Band Of Horses",27
+"2008-11","Beck",4
+"2008-11","Björk",13
+"2008-11","Broken Social Scene",210
+"2008-11","Caribou",5
+"2008-11","Cat Power",13
+"2008-11","Eels",2
+"2008-11","Flight Of The Conchords",10
+"2008-11","Gogol Bordello",17
+"2008-11","Incubus",3
+"2008-11","Interpol",5
+"2008-11","M.I.A.",7
+"2008-11","Mirah",3
+"2008-11","Moby",21
+"2008-11","Modest Mouse",30
+"2008-11","Oasis",5
+"2008-11","Of Montreal",7
+"2008-12","Amiina",4
+"2008-12","Andrew Bird",42
+"2008-12","Animal Collective",55
+"2008-12","Band Of Horses",30
+"2008-12","Beck",2
+"2008-12","Björk",12
+"2008-12","Broken Social Scene",206
+"2008-12","Caribou",6
+"2008-12","Cat Power",58
+"2008-12","Eels",2
+"2008-12","Flight Of The Conchords",6
+"2008-12","Gogol Bordello",11
+"2008-12","Incubus",3
+"2008-12","Interpol",22
+"2008-12","M.I.A.",3
+"2008-12","Mirah",12
+"2008-12","Moby",38
+"2008-12","Modest Mouse",36
+"2008-12","Oasis",1
+"2008-12","Of Montreal",7
+"2009-01","Amiina",1
+"2009-01","Andrew Bird",11
+"2009-01","Animal Collective",67
+"2009-01","Band Of Horses",8
+"2009-01","Beck",2
+"2009-01","Björk",29
+"2009-01","Broken Social Scene",47
+"2009-01","Caribou",6
+"2009-01","Cat Power",65
+"2009-01","Eels",3
+"2009-01","Flight Of The Conchords",9
+"2009-01","Gogol Bordello",7
+"2009-01","Incubus",1
+"2009-01","Interpol",6
+"2009-01","M.I.A.",3
+"2009-01","Mirah",25
+"2009-01","Moby",8
+"2009-01","Modest Mouse",11
+"2009-01","Oasis",1
+"2009-01","Of Montreal",7
+"2009-02","Amiina",1
+"2009-02","Andrew Bird",42
+"2009-02","Animal Collective",202
+"2009-02","Band Of Horses",8
+"2009-02","Beck",21
+"2009-02","Björk",20
+"2009-02","Broken Social Scene",49
+"2009-02","Caribou",3
+"2009-02","Cat Power",11
+"2009-02","Eels",2
+"2009-02","Flight Of The Conchords",10
+"2009-02","Gogol Bordello",5
+"2009-02","Incubus",4
+"2009-02","Interpol",7
+"2009-02","M.I.A.",1
+"2009-02","Mirah",305
+"2009-02","Moby",13
+"2009-02","Modest Mouse",50
+"2009-02","Oasis",1
+"2009-02","Of Montreal",32
+"2009-03","Amiina",27
+"2009-03","Andrew Bird",15
+"2009-03","Animal Collective",192
+"2009-03","Band Of Horses",29
+"2009-03","Beck",13
+"2009-03","Björk",29
+"2009-03","Broken Social Scene",45
+"2009-03","Caribou",33
+"2009-03","Cat Power",12
+"2009-03","Eels",3
+"2009-03","Flight Of The Conchords",4
+"2009-03","Gogol Bordello",2
+"2009-03","Incubus",1
+"2009-03","Interpol",9
+"2009-03","M.I.A.",3
+"2009-03","Mirah",52
+"2009-03","Moby",21
+"2009-03","Modest Mouse",28
+"2009-03","Oasis",1
+"2009-03","Of Montreal",65
+"2009-04","Amiina",6
+"2009-04","Andrew Bird",18
+"2009-04","Animal Collective",151
+"2009-04","Band Of Horses",80
+"2009-04","Beck",9
+"2009-04","Björk",14
+"2009-04","Broken Social Scene",19
+"2009-04","Caribou",30
+"2009-04","Cat Power",20
+"2009-04","Eels",5
+"2009-04","Flight Of The Conchords",7
+"2009-04","Gogol Bordello",12
+"2009-04","Incubus",1
+"2009-04","Interpol",9
+"2009-04","M.I.A.",2
+"2009-04","Mirah",94
+"2009-04","Moby",19
+"2009-04","Modest Mouse",20
+"2009-04","Oasis",1
+"2009-04","Of Montreal",41

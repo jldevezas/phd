@@ -1,61 +1,61 @@
-month,artist,plays
-2009-02,4Hero,3
-2009-02,9 Lazy 9,1
-2009-02,Adele,1
-2009-02,Alice Russell,3
-2009-02,Alif Tree,2
-2009-02,Amon Tobin,1
-2009-02,Amy Winehouse,2
-2009-02,Beady Belle,3
-2009-02,Belleruche,2
-2009-02,Benjamin Dévigne,1
-2009-02,Billie Holiday,1
-2009-02,Bonobo,8
-2009-02,Booka Shade,1
-2009-02,Boozoo Bajou,1
-2009-02,C-Mon & Kypski,1
-2009-02,Cassius,1
-2009-02,Charles Mingus,1
-2009-02,Chet Baker,1
-2009-02,Daft Punk,1
-2009-02,De-Phazz,6
-2009-03,4Hero,2
-2009-03,9 Lazy 9,4
-2009-03,Adele,3
-2009-03,Alice Russell,4
-2009-03,Alif Tree,2
-2009-03,Amon Tobin,2
-2009-03,Amy Winehouse,5
-2009-03,Beady Belle,2
-2009-03,Belleruche,6
-2009-03,Benjamin Dévigne,1
-2009-03,Billie Holiday,1
-2009-03,Bonobo,10
-2009-03,Booka Shade,1
-2009-03,Boozoo Bajou,2
-2009-03,C-Mon & Kypski,1
-2009-03,Cassius,1
-2009-03,Charles Mingus,1
-2009-03,Chet Baker,1
-2009-03,Daft Punk,1
-2009-03,De-Phazz,12
-2009-04,4Hero,2
-2009-04,9 Lazy 9,2
-2009-04,Adele,1
-2009-04,Alice Russell,4
-2009-04,Alif Tree,2
-2009-04,Amon Tobin,2
-2009-04,Amy Winehouse,4
-2009-04,Beady Belle,2
-2009-04,Belleruche,3
-2009-04,Benjamin Dévigne,2
-2009-04,Billie Holiday,5
-2009-04,Bonobo,12
-2009-04,Booka Shade,1
-2009-04,Boozoo Bajou,4
-2009-04,C-Mon & Kypski,2
-2009-04,Cassius,1
-2009-04,Charles Mingus,3
-2009-04,Chet Baker,2
-2009-04,Daft Punk,5
-2009-04,De-Phazz,9
+"month","artist","plays"
+"2009-02","4Hero",3
+"2009-02","9 Lazy 9",1
+"2009-02","Adele",1
+"2009-02","Alice Russell",3
+"2009-02","Alif Tree",2
+"2009-02","Amon Tobin",1
+"2009-02","Amy Winehouse",2
+"2009-02","Beady Belle",3
+"2009-02","Belleruche",2
+"2009-02","Benjamin Dévigne",1
+"2009-02","Billie Holiday",1
+"2009-02","Bonobo",8
+"2009-02","Booka Shade",1
+"2009-02","Boozoo Bajou",1
+"2009-02","C-Mon & Kypski",1
+"2009-02","Cassius",1
+"2009-02","Charles Mingus",1
+"2009-02","Chet Baker",1
+"2009-02","Daft Punk",1
+"2009-02","De-Phazz",6
+"2009-03","4Hero",2
+"2009-03","9 Lazy 9",4
+"2009-03","Adele",3
+"2009-03","Alice Russell",4
+"2009-03","Alif Tree",2
+"2009-03","Amon Tobin",2
+"2009-03","Amy Winehouse",5
+"2009-03","Beady Belle",2
+"2009-03","Belleruche",6
+"2009-03","Benjamin Dévigne",1
+"2009-03","Billie Holiday",1
+"2009-03","Bonobo",10
+"2009-03","Booka Shade",1
+"2009-03","Boozoo Bajou",2
+"2009-03","C-Mon & Kypski",1
+"2009-03","Cassius",1
+"2009-03","Charles Mingus",1
+"2009-03","Chet Baker",1
+"2009-03","Daft Punk",1
+"2009-03","De-Phazz",12
+"2009-04","4Hero",2
+"2009-04","9 Lazy 9",2
+"2009-04","Adele",1
+"2009-04","Alice Russell",4
+"2009-04","Alif Tree",2
+"2009-04","Amon Tobin",2
+"2009-04","Amy Winehouse",4
+"2009-04","Beady Belle",2
+"2009-04","Belleruche",3
+"2009-04","Benjamin Dévigne",2
+"2009-04","Billie Holiday",5
+"2009-04","Bonobo",12
+"2009-04","Booka Shade",1
+"2009-04","Boozoo Bajou",4
+"2009-04","C-Mon & Kypski",2
+"2009-04","Cassius",1
+"2009-04","Charles Mingus",3
+"2009-04","Chet Baker",2
+"2009-04","Daft Punk",5
+"2009-04","De-Phazz",9

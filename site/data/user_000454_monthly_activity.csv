@@ -1,101 +1,101 @@
-month,artist,plays
-2008-12,[Unknown],6
-2008-12,10,4
-2008-12,11,0
-2008-12,12,4
-2008-12,15,3
-2008-12,Adrian Sherwood,2
-2008-12,Apollo 440,14
-2008-12,Beastie Boys,5
-2008-12,Björk,10
-2008-12,Blur,1
-2008-12,Blusirkut,0
-2008-12,Boozoo Bajou,27
-2008-12,Cujo,5
-2008-12,Dead Kennedys,2
-2008-12,Dizzy Gillespie & Lalo Schifrin,9
-2008-12,Dreamlin,1
-2008-12,Fc Kahuna,12
-2008-12,Moshang,2
-2008-12,Orchestra Harlow,16
-2008-12,Tara Fuki,7
-2009-01,[Unknown],13
-2009-01,10,2
-2009-01,11,1
-2009-01,12,3
-2009-01,15,2
-2009-01,Adrian Sherwood,17
-2009-01,Apollo 440,3
-2009-01,Beastie Boys,28
-2009-01,Björk,8
-2009-01,Blur,4
-2009-01,Blusirkut,1
-2009-01,Boozoo Bajou,1
-2009-01,Cujo,14
-2009-01,Dead Kennedys,3
-2009-01,Dizzy Gillespie & Lalo Schifrin,7
-2009-01,Dreamlin,3
-2009-01,Fc Kahuna,8
-2009-01,Moshang,5
-2009-01,Orchestra Harlow,5
-2009-01,Tara Fuki,40
-2009-02,[Unknown],17
-2009-02,10,1
-2009-02,11,1
-2009-02,12,1
-2009-02,15,0
-2009-02,Adrian Sherwood,3
-2009-02,Apollo 440,1
-2009-02,Beastie Boys,78
-2009-02,Björk,13
-2009-02,Blur,3
-2009-02,Blusirkut,1
-2009-02,Boozoo Bajou,3
-2009-02,Cujo,2
-2009-02,Dead Kennedys,0
-2009-02,Dizzy Gillespie & Lalo Schifrin,2
-2009-02,Dreamlin,0
-2009-02,Fc Kahuna,10
-2009-02,Moshang,1
-2009-02,Orchestra Harlow,27
-2009-02,Tara Fuki,22
-2009-03,[Unknown],9
-2009-03,10,1
-2009-03,11,1
-2009-03,12,1
-2009-03,15,1
-2009-03,Adrian Sherwood,16
-2009-03,Apollo 440,10
-2009-03,Beastie Boys,30
-2009-03,Björk,1
-2009-03,Blur,5
-2009-03,Blusirkut,6
-2009-03,Boozoo Bajou,27
-2009-03,Cujo,9
-2009-03,Dead Kennedys,2
-2009-03,Dizzy Gillespie & Lalo Schifrin,0
-2009-03,Dreamlin,3
-2009-03,Fc Kahuna,19
-2009-03,Moshang,12
-2009-03,Orchestra Harlow,32
-2009-03,Tara Fuki,3
-2009-04,[Unknown],6
-2009-04,10,1
-2009-04,11,1
-2009-04,12,1
-2009-04,15,2
-2009-04,Adrian Sherwood,1
-2009-04,Apollo 440,0
-2009-04,Beastie Boys,0
-2009-04,Björk,0
-2009-04,Blur,0
-2009-04,Blusirkut,2
-2009-04,Boozoo Bajou,27
-2009-04,Cujo,0
-2009-04,Dead Kennedys,1
-2009-04,Dizzy Gillespie & Lalo Schifrin,6
-2009-04,Dreamlin,1
-2009-04,Fc Kahuna,0
-2009-04,Moshang,4
-2009-04,Orchestra Harlow,21
-2009-04,Tara Fuki,2
+"month","artist","plays"
+"2008-12","[Unknown]",6
+"2008-12","10",4
+"2008-12","11",0
+"2008-12","12",4
+"2008-12","15",3
+"2008-12","Adrian Sherwood",2
+"2008-12","Apollo 440",14
+"2008-12","Beastie Boys",5
+"2008-12","Björk",10
+"2008-12","Blur",1
+"2008-12","Blusirkut",0
+"2008-12","Boozoo Bajou",27
+"2008-12","Cujo",5
+"2008-12","Dead Kennedys",2
+"2008-12","Dizzy Gillespie & Lalo Schifrin",9
+"2008-12","Dreamlin",1
+"2008-12","Fc Kahuna",12
+"2008-12","Moshang",2
+"2008-12","Orchestra Harlow",16
+"2008-12","Tara Fuki",7
+"2009-01","[Unknown]",13
+"2009-01","10",2
+"2009-01","11",1
+"2009-01","12",3
+"2009-01","15",2
+"2009-01","Adrian Sherwood",17
+"2009-01","Apollo 440",3
+"2009-01","Beastie Boys",28
+"2009-01","Björk",8
+"2009-01","Blur",4
+"2009-01","Blusirkut",1
+"2009-01","Boozoo Bajou",1
+"2009-01","Cujo",14
+"2009-01","Dead Kennedys",3
+"2009-01","Dizzy Gillespie & Lalo Schifrin",7
+"2009-01","Dreamlin",3
+"2009-01","Fc Kahuna",8
+"2009-01","Moshang",5
+"2009-01","Orchestra Harlow",5
+"2009-01","Tara Fuki",40
+"2009-02","[Unknown]",17
+"2009-02","10",1
+"2009-02","11",1
+"2009-02","12",1
+"2009-02","15",0
+"2009-02","Adrian Sherwood",3
+"2009-02","Apollo 440",1
+"2009-02","Beastie Boys",78
+"2009-02","Björk",13
+"2009-02","Blur",3
+"2009-02","Blusirkut",1
+"2009-02","Boozoo Bajou",3
+"2009-02","Cujo",2
+"2009-02","Dead Kennedys",0
+"2009-02","Dizzy Gillespie & Lalo Schifrin",2
+"2009-02","Dreamlin",0
+"2009-02","Fc Kahuna",10
+"2009-02","Moshang",1
+"2009-02","Orchestra Harlow",27
+"2009-02","Tara Fuki",22
+"2009-03","[Unknown]",9
+"2009-03","10",1
+"2009-03","11",1
+"2009-03","12",1
+"2009-03","15",1
+"2009-03","Adrian Sherwood",16
+"2009-03","Apollo 440",10
+"2009-03","Beastie Boys",30
+"2009-03","Björk",1
+"2009-03","Blur",5
+"2009-03","Blusirkut",6
+"2009-03","Boozoo Bajou",27
+"2009-03","Cujo",9
+"2009-03","Dead Kennedys",2
+"2009-03","Dizzy Gillespie & Lalo Schifrin",0
+"2009-03","Dreamlin",3
+"2009-03","Fc Kahuna",19
+"2009-03","Moshang",12
+"2009-03","Orchestra Harlow",32
+"2009-03","Tara Fuki",3
+"2009-04","[Unknown]",6
+"2009-04","10",1
+"2009-04","11",1
+"2009-04","12",1
+"2009-04","15",2
+"2009-04","Adrian Sherwood",1
+"2009-04","Apollo 440",0
+"2009-04","Beastie Boys",0
+"2009-04","Björk",0
+"2009-04","Blur",0
+"2009-04","Blusirkut",2
+"2009-04","Boozoo Bajou",27
+"2009-04","Cujo",0
+"2009-04","Dead Kennedys",1
+"2009-04","Dizzy Gillespie & Lalo Schifrin",6
+"2009-04","Dreamlin",1
+"2009-04","Fc Kahuna",0
+"2009-04","Moshang",4
+"2009-04","Orchestra Harlow",21
+"2009-04","Tara Fuki",2

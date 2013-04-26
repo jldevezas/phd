@@ -1,781 +1,781 @@
-month,artist,plays
-2006-02,Angelo Badalamenti,1
-2006-02,Antonín Dvořák,0
-2006-02,Astor Piazzolla,8
-2006-02,Billy Bragg & Wilco,1
-2006-02,Bliss,185
-2006-02,Claudio Baglioni,9
-2006-02,Ennio Morricone,7
-2006-02,Hans Zimmer,3
-2006-02,John Williams,2
-2006-02,Kashmir,38
-2006-02,Ludwig Van Beethoven,0
-2006-02,Michael Nyman,2
-2006-02,Muse,19
-2006-02,Philip Glass,19
-2006-02,Rodrigo Leão,7
-2006-02,Sigur Rós,19
-2006-02,Tiromancino,4
-2006-02,Wilco,18
-2006-02,Yann Tiersen,24
-2006-02,大谷幸,0
-2006-03,Angelo Badalamenti,0
-2006-03,Antonín Dvořák,0
-2006-03,Astor Piazzolla,15
-2006-03,Billy Bragg & Wilco,2
-2006-03,Bliss,3
-2006-03,Claudio Baglioni,2
-2006-03,Ennio Morricone,2
-2006-03,Hans Zimmer,13
-2006-03,John Williams,5
-2006-03,Kashmir,14
-2006-03,Ludwig Van Beethoven,3
-2006-03,Michael Nyman,10
-2006-03,Muse,3
-2006-03,Philip Glass,15
-2006-03,Rodrigo Leão,24
-2006-03,Sigur Rós,0
-2006-03,Tiromancino,1
-2006-03,Wilco,5
-2006-03,Yann Tiersen,59
-2006-03,大谷幸,49
-2006-04,Angelo Badalamenti,2
-2006-04,Antonín Dvořák,0
-2006-04,Astor Piazzolla,20
-2006-04,Billy Bragg & Wilco,3
-2006-04,Bliss,40
-2006-04,Claudio Baglioni,7
-2006-04,Ennio Morricone,57
-2006-04,Hans Zimmer,35
-2006-04,John Williams,19
-2006-04,Kashmir,5
-2006-04,Ludwig Van Beethoven,5
-2006-04,Michael Nyman,41
-2006-04,Muse,3
-2006-04,Philip Glass,92
-2006-04,Rodrigo Leão,7
-2006-04,Sigur Rós,13
-2006-04,Tiromancino,0
-2006-04,Wilco,6
-2006-04,Yann Tiersen,39
-2006-04,大谷幸,13
-2006-05,Angelo Badalamenti,3
-2006-05,Antonín Dvořák,6
-2006-05,Astor Piazzolla,27
-2006-05,Billy Bragg & Wilco,1
-2006-05,Bliss,42
-2006-05,Claudio Baglioni,0
-2006-05,Ennio Morricone,32
-2006-05,Hans Zimmer,18
-2006-05,John Williams,23
-2006-05,Kashmir,14
-2006-05,Ludwig Van Beethoven,6
-2006-05,Michael Nyman,28
-2006-05,Muse,1
-2006-05,Philip Glass,64
-2006-05,Rodrigo Leão,36
-2006-05,Sigur Rós,30
-2006-05,Tiromancino,0
-2006-05,Wilco,3
-2006-05,Yann Tiersen,71
-2006-05,大谷幸,61
-2006-06,Angelo Badalamenti,1
-2006-06,Antonín Dvořák,0
-2006-06,Astor Piazzolla,1
-2006-06,Billy Bragg & Wilco,1
-2006-06,Bliss,8
-2006-06,Claudio Baglioni,7
-2006-06,Ennio Morricone,12
-2006-06,Hans Zimmer,12
-2006-06,John Williams,3
-2006-06,Kashmir,20
-2006-06,Ludwig Van Beethoven,2
-2006-06,Michael Nyman,6
-2006-06,Muse,3
-2006-06,Philip Glass,22
-2006-06,Rodrigo Leão,1
-2006-06,Sigur Rós,9
-2006-06,Tiromancino,0
-2006-06,Wilco,11
-2006-06,Yann Tiersen,15
-2006-06,大谷幸,19
-2006-07,Angelo Badalamenti,0
-2006-07,Antonín Dvořák,8
-2006-07,Astor Piazzolla,8
-2006-07,Billy Bragg & Wilco,1
-2006-07,Bliss,28
-2006-07,Claudio Baglioni,15
-2006-07,Ennio Morricone,5
-2006-07,Hans Zimmer,8
-2006-07,John Williams,3
-2006-07,Kashmir,27
-2006-07,Ludwig Van Beethoven,72
-2006-07,Michael Nyman,0
-2006-07,Muse,4
-2006-07,Philip Glass,28
-2006-07,Rodrigo Leão,5
-2006-07,Sigur Rós,0
-2006-07,Tiromancino,4
-2006-07,Wilco,8
-2006-07,Yann Tiersen,15
-2006-07,大谷幸,0
-2006-08,Angelo Badalamenti,4
-2006-08,Antonín Dvořák,0
-2006-08,Astor Piazzolla,3
-2006-08,Billy Bragg & Wilco,3
-2006-08,Bliss,73
-2006-08,Claudio Baglioni,0
-2006-08,Ennio Morricone,35
-2006-08,Hans Zimmer,12
-2006-08,John Williams,9
-2006-08,Kashmir,61
-2006-08,Ludwig Van Beethoven,43
-2006-08,Michael Nyman,10
-2006-08,Muse,11
-2006-08,Philip Glass,102
-2006-08,Rodrigo Leão,25
-2006-08,Sigur Rós,35
-2006-08,Tiromancino,0
-2006-08,Wilco,15
-2006-08,Yann Tiersen,76
-2006-08,大谷幸,51
-2006-09,Angelo Badalamenti,1
-2006-09,Antonín Dvořák,12
-2006-09,Astor Piazzolla,8
-2006-09,Billy Bragg & Wilco,0
-2006-09,Bliss,10
-2006-09,Claudio Baglioni,17
-2006-09,Ennio Morricone,12
-2006-09,Hans Zimmer,1
-2006-09,John Williams,3
-2006-09,Kashmir,61
-2006-09,Ludwig Van Beethoven,54
-2006-09,Michael Nyman,0
-2006-09,Muse,10
-2006-09,Philip Glass,14
-2006-09,Rodrigo Leão,17
-2006-09,Sigur Rós,5
-2006-09,Tiromancino,2
-2006-09,Wilco,10
-2006-09,Yann Tiersen,7
-2006-09,大谷幸,31
-2006-10,Angelo Badalamenti,0
-2006-10,Antonín Dvořák,0
-2006-10,Astor Piazzolla,10
-2006-10,Billy Bragg & Wilco,2
-2006-10,Bliss,20
-2006-10,Claudio Baglioni,20
-2006-10,Ennio Morricone,5
-2006-10,Hans Zimmer,13
-2006-10,John Williams,1
-2006-10,Kashmir,23
-2006-10,Ludwig Van Beethoven,24
-2006-10,Michael Nyman,1
-2006-10,Muse,16
-2006-10,Philip Glass,19
-2006-10,Rodrigo Leão,13
-2006-10,Sigur Rós,15
-2006-10,Tiromancino,2
-2006-10,Wilco,12
-2006-10,Yann Tiersen,16
-2006-10,大谷幸,0
-2006-11,Angelo Badalamenti,2
-2006-11,Antonín Dvořák,5
-2006-11,Astor Piazzolla,29
-2006-11,Billy Bragg & Wilco,2
-2006-11,Bliss,16
-2006-11,Claudio Baglioni,13
-2006-11,Ennio Morricone,2
-2006-11,Hans Zimmer,5
-2006-11,John Williams,5
-2006-11,Kashmir,34
-2006-11,Ludwig Van Beethoven,16
-2006-11,Michael Nyman,17
-2006-11,Muse,33
-2006-11,Philip Glass,7
-2006-11,Rodrigo Leão,3
-2006-11,Sigur Rós,4
-2006-11,Tiromancino,13
-2006-11,Wilco,8
-2006-11,Yann Tiersen,34
-2006-11,大谷幸,9
-2006-12,Angelo Badalamenti,3
-2006-12,Antonín Dvořák,8
-2006-12,Astor Piazzolla,2
-2006-12,Billy Bragg & Wilco,2
-2006-12,Bliss,1
-2006-12,Claudio Baglioni,11
-2006-12,Ennio Morricone,4
-2006-12,Hans Zimmer,15
-2006-12,John Williams,5
-2006-12,Kashmir,7
-2006-12,Ludwig Van Beethoven,22
-2006-12,Michael Nyman,25
-2006-12,Muse,25
-2006-12,Philip Glass,52
-2006-12,Rodrigo Leão,3
-2006-12,Sigur Rós,2
-2006-12,Tiromancino,4
-2006-12,Wilco,15
-2006-12,Yann Tiersen,10
-2006-12,大谷幸,22
-2007-01,Angelo Badalamenti,6
-2007-01,Antonín Dvořák,9
-2007-01,Astor Piazzolla,27
-2007-01,Billy Bragg & Wilco,7
-2007-01,Bliss,7
-2007-01,Claudio Baglioni,6
-2007-01,Ennio Morricone,8
-2007-01,Hans Zimmer,19
-2007-01,John Williams,15
-2007-01,Kashmir,44
-2007-01,Ludwig Van Beethoven,8
-2007-01,Michael Nyman,14
-2007-01,Muse,43
-2007-01,Philip Glass,41
-2007-01,Rodrigo Leão,1
-2007-01,Sigur Rós,1
-2007-01,Tiromancino,3
-2007-01,Wilco,20
-2007-01,Yann Tiersen,40
-2007-01,大谷幸,7
-2007-02,Angelo Badalamenti,1
-2007-02,Antonín Dvořák,1
-2007-02,Astor Piazzolla,0
-2007-02,Billy Bragg & Wilco,5
-2007-02,Bliss,9
-2007-02,Claudio Baglioni,4
-2007-02,Ennio Morricone,40
-2007-02,Hans Zimmer,24
-2007-02,John Williams,2
-2007-02,Kashmir,29
-2007-02,Ludwig Van Beethoven,29
-2007-02,Michael Nyman,6
-2007-02,Muse,25
-2007-02,Philip Glass,7
-2007-02,Rodrigo Leão,0
-2007-02,Sigur Rós,14
-2007-02,Tiromancino,3
-2007-02,Wilco,18
-2007-02,Yann Tiersen,0
-2007-02,大谷幸,2
-2007-03,Angelo Badalamenti,6
-2007-03,Antonín Dvořák,10
-2007-03,Astor Piazzolla,5
-2007-03,Billy Bragg & Wilco,4
-2007-03,Bliss,17
-2007-03,Claudio Baglioni,4
-2007-03,Ennio Morricone,19
-2007-03,Hans Zimmer,45
-2007-03,John Williams,16
-2007-03,Kashmir,9
-2007-03,Ludwig Van Beethoven,15
-2007-03,Michael Nyman,4
-2007-03,Muse,20
-2007-03,Philip Glass,20
-2007-03,Rodrigo Leão,53
-2007-03,Sigur Rós,7
-2007-03,Tiromancino,2
-2007-03,Wilco,19
-2007-03,Yann Tiersen,45
-2007-03,大谷幸,5
-2007-04,Angelo Badalamenti,3
-2007-04,Antonín Dvořák,7
-2007-04,Astor Piazzolla,0
-2007-04,Billy Bragg & Wilco,9
-2007-04,Bliss,12
-2007-04,Claudio Baglioni,4
-2007-04,Ennio Morricone,8
-2007-04,Hans Zimmer,32
-2007-04,John Williams,17
-2007-04,Kashmir,6
-2007-04,Ludwig Van Beethoven,11
-2007-04,Michael Nyman,10
-2007-04,Muse,11
-2007-04,Philip Glass,15
-2007-04,Rodrigo Leão,5
-2007-04,Sigur Rós,2
-2007-04,Tiromancino,3
-2007-04,Wilco,4
-2007-04,Yann Tiersen,6
-2007-04,大谷幸,3
-2007-05,Angelo Badalamenti,1
-2007-05,Antonín Dvořák,2
-2007-05,Astor Piazzolla,1
-2007-05,Billy Bragg & Wilco,2
-2007-05,Bliss,0
-2007-05,Claudio Baglioni,8
-2007-05,Ennio Morricone,0
-2007-05,Hans Zimmer,2
-2007-05,John Williams,7
-2007-05,Kashmir,11
-2007-05,Ludwig Van Beethoven,2
-2007-05,Michael Nyman,4
-2007-05,Muse,6
-2007-05,Philip Glass,8
-2007-05,Rodrigo Leão,1
-2007-05,Sigur Rós,0
-2007-05,Tiromancino,3
-2007-05,Wilco,107
-2007-05,Yann Tiersen,3
-2007-05,大谷幸,4
-2007-06,Angelo Badalamenti,8
-2007-06,Antonín Dvořák,6
-2007-06,Astor Piazzolla,8
-2007-06,Billy Bragg & Wilco,6
-2007-06,Bliss,10
-2007-06,Claudio Baglioni,0
-2007-06,Ennio Morricone,4
-2007-06,Hans Zimmer,22
-2007-06,John Williams,15
-2007-06,Kashmir,16
-2007-06,Ludwig Van Beethoven,2
-2007-06,Michael Nyman,13
-2007-06,Muse,14
-2007-06,Philip Glass,23
-2007-06,Rodrigo Leão,0
-2007-06,Sigur Rós,0
-2007-06,Tiromancino,8
-2007-06,Wilco,41
-2007-06,Yann Tiersen,0
-2007-06,大谷幸,12
-2007-07,Angelo Badalamenti,1
-2007-07,Antonín Dvořák,1
-2007-07,Astor Piazzolla,10
-2007-07,Billy Bragg & Wilco,2
-2007-07,Bliss,5
-2007-07,Claudio Baglioni,1
-2007-07,Ennio Morricone,0
-2007-07,Hans Zimmer,8
-2007-07,John Williams,9
-2007-07,Kashmir,13
-2007-07,Ludwig Van Beethoven,8
-2007-07,Michael Nyman,5
-2007-07,Muse,14
-2007-07,Philip Glass,15
-2007-07,Rodrigo Leão,4
-2007-07,Sigur Rós,7
-2007-07,Tiromancino,3
-2007-07,Wilco,25
-2007-07,Yann Tiersen,0
-2007-07,大谷幸,3
-2007-08,Angelo Badalamenti,3
-2007-08,Antonín Dvořák,2
-2007-08,Astor Piazzolla,3
-2007-08,Billy Bragg & Wilco,8
-2007-08,Bliss,4
-2007-08,Claudio Baglioni,1
-2007-08,Ennio Morricone,36
-2007-08,Hans Zimmer,13
-2007-08,John Williams,9
-2007-08,Kashmir,14
-2007-08,Ludwig Van Beethoven,2
-2007-08,Michael Nyman,10
-2007-08,Muse,12
-2007-08,Philip Glass,20
-2007-08,Rodrigo Leão,3
-2007-08,Sigur Rós,1
-2007-08,Tiromancino,1
-2007-08,Wilco,14
-2007-08,Yann Tiersen,3
-2007-08,大谷幸,9
-2007-09,Angelo Badalamenti,1
-2007-09,Antonín Dvořák,2
-2007-09,Astor Piazzolla,1
-2007-09,Billy Bragg & Wilco,1
-2007-09,Bliss,3
-2007-09,Claudio Baglioni,0
-2007-09,Ennio Morricone,9
-2007-09,Hans Zimmer,3
-2007-09,John Williams,6
-2007-09,Kashmir,2
-2007-09,Ludwig Van Beethoven,16
-2007-09,Michael Nyman,0
-2007-09,Muse,3
-2007-09,Philip Glass,7
-2007-09,Rodrigo Leão,2
-2007-09,Sigur Rós,0
-2007-09,Tiromancino,4
-2007-09,Wilco,1
-2007-09,Yann Tiersen,0
-2007-09,大谷幸,2
-2007-10,Angelo Badalamenti,1
-2007-10,Antonín Dvořák,1
-2007-10,Astor Piazzolla,2
-2007-10,Billy Bragg & Wilco,2
-2007-10,Bliss,4
-2007-10,Claudio Baglioni,10
-2007-10,Ennio Morricone,12
-2007-10,Hans Zimmer,8
-2007-10,John Williams,9
-2007-10,Kashmir,10
-2007-10,Ludwig Van Beethoven,3
-2007-10,Michael Nyman,5
-2007-10,Muse,6
-2007-10,Philip Glass,16
-2007-10,Rodrigo Leão,5
-2007-10,Sigur Rós,4
-2007-10,Tiromancino,3
-2007-10,Wilco,5
-2007-10,Yann Tiersen,2
-2007-10,大谷幸,2
-2007-11,Angelo Badalamenti,1
-2007-11,Antonín Dvořák,3
-2007-11,Astor Piazzolla,0
-2007-11,Billy Bragg & Wilco,3
-2007-11,Bliss,4
-2007-11,Claudio Baglioni,4
-2007-11,Ennio Morricone,14
-2007-11,Hans Zimmer,10
-2007-11,John Williams,8
-2007-11,Kashmir,6
-2007-11,Ludwig Van Beethoven,12
-2007-11,Michael Nyman,4
-2007-11,Muse,4
-2007-11,Philip Glass,11
-2007-11,Rodrigo Leão,4
-2007-11,Sigur Rós,1
-2007-11,Tiromancino,0
-2007-11,Wilco,6
-2007-11,Yann Tiersen,0
-2007-11,大谷幸,1
-2007-12,Angelo Badalamenti,1
-2007-12,Antonín Dvořák,3
-2007-12,Astor Piazzolla,0
-2007-12,Billy Bragg & Wilco,6
-2007-12,Bliss,0
-2007-12,Claudio Baglioni,3
-2007-12,Ennio Morricone,1
-2007-12,Hans Zimmer,1
-2007-12,John Williams,1
-2007-12,Kashmir,11
-2007-12,Ludwig Van Beethoven,22
-2007-12,Michael Nyman,3
-2007-12,Muse,0
-2007-12,Philip Glass,2
-2007-12,Rodrigo Leão,0
-2007-12,Sigur Rós,0
-2007-12,Tiromancino,1
-2007-12,Wilco,0
-2007-12,Yann Tiersen,2
-2007-12,大谷幸,1
-2008-01,Angelo Badalamenti,0
-2008-01,Antonín Dvořák,9
-2008-01,Astor Piazzolla,8
-2008-01,Billy Bragg & Wilco,0
-2008-01,Bliss,7
-2008-01,Claudio Baglioni,0
-2008-01,Ennio Morricone,1
-2008-01,Hans Zimmer,2
-2008-01,John Williams,3
-2008-01,Kashmir,4
-2008-01,Ludwig Van Beethoven,18
-2008-01,Michael Nyman,3
-2008-01,Muse,1
-2008-01,Philip Glass,5
-2008-01,Rodrigo Leão,1
-2008-01,Sigur Rós,2
-2008-01,Tiromancino,1
-2008-01,Wilco,2
-2008-01,Yann Tiersen,6
-2008-01,大谷幸,0
-2008-02,Angelo Badalamenti,3
-2008-02,Antonín Dvořák,2
-2008-02,Astor Piazzolla,0
-2008-02,Billy Bragg & Wilco,2
-2008-02,Bliss,2
-2008-02,Claudio Baglioni,0
-2008-02,Ennio Morricone,2
-2008-02,Hans Zimmer,4
-2008-02,John Williams,5
-2008-02,Kashmir,21
-2008-02,Ludwig Van Beethoven,1
-2008-02,Michael Nyman,0
-2008-02,Muse,2
-2008-02,Philip Glass,7
-2008-02,Rodrigo Leão,1
-2008-02,Sigur Rós,0
-2008-02,Tiromancino,3
-2008-02,Wilco,2
-2008-02,Yann Tiersen,1
-2008-02,大谷幸,6
-2008-03,Angelo Badalamenti,4
-2008-03,Antonín Dvořák,3
-2008-03,Astor Piazzolla,7
-2008-03,Billy Bragg & Wilco,5
-2008-03,Bliss,4
-2008-03,Claudio Baglioni,0
-2008-03,Ennio Morricone,70
-2008-03,Hans Zimmer,12
-2008-03,John Williams,9
-2008-03,Kashmir,5
-2008-03,Ludwig Van Beethoven,10
-2008-03,Michael Nyman,9
-2008-03,Muse,6
-2008-03,Philip Glass,11
-2008-03,Rodrigo Leão,5
-2008-03,Sigur Rós,0
-2008-03,Tiromancino,5
-2008-03,Wilco,4
-2008-03,Yann Tiersen,7
-2008-03,大谷幸,4
-2008-04,Angelo Badalamenti,1
-2008-04,Antonín Dvořák,2
-2008-04,Astor Piazzolla,16
-2008-04,Billy Bragg & Wilco,3
-2008-04,Bliss,3
-2008-04,Claudio Baglioni,6
-2008-04,Ennio Morricone,12
-2008-04,Hans Zimmer,9
-2008-04,John Williams,4
-2008-04,Kashmir,1
-2008-04,Ludwig Van Beethoven,0
-2008-04,Michael Nyman,2
-2008-04,Muse,4
-2008-04,Philip Glass,10
-2008-04,Rodrigo Leão,8
-2008-04,Sigur Rós,1
-2008-04,Tiromancino,7
-2008-04,Wilco,3
-2008-04,Yann Tiersen,1
-2008-04,大谷幸,2
-2008-05,Angelo Badalamenti,2
-2008-05,Antonín Dvořák,1
-2008-05,Astor Piazzolla,1
-2008-05,Billy Bragg & Wilco,0
-2008-05,Bliss,2
-2008-05,Claudio Baglioni,1
-2008-05,Ennio Morricone,8
-2008-05,Hans Zimmer,18
-2008-05,John Williams,1
-2008-05,Kashmir,6
-2008-05,Ludwig Van Beethoven,10
-2008-05,Michael Nyman,1
-2008-05,Muse,0
-2008-05,Philip Glass,44
-2008-05,Rodrigo Leão,2
-2008-05,Sigur Rós,2
-2008-05,Tiromancino,2
-2008-05,Wilco,7
-2008-05,Yann Tiersen,2
-2008-05,大谷幸,1
-2008-06,Angelo Badalamenti,3
-2008-06,Antonín Dvořák,1
-2008-06,Astor Piazzolla,1
-2008-06,Billy Bragg & Wilco,1
-2008-06,Bliss,1
-2008-06,Claudio Baglioni,0
-2008-06,Ennio Morricone,12
-2008-06,Hans Zimmer,22
-2008-06,John Williams,3
-2008-06,Kashmir,4
-2008-06,Ludwig Van Beethoven,19
-2008-06,Michael Nyman,2
-2008-06,Muse,0
-2008-06,Philip Glass,6
-2008-06,Rodrigo Leão,3
-2008-06,Sigur Rós,18
-2008-06,Tiromancino,4
-2008-06,Wilco,5
-2008-06,Yann Tiersen,1
-2008-06,大谷幸,4
-2008-07,Angelo Badalamenti,1
-2008-07,Antonín Dvořák,1
-2008-07,Astor Piazzolla,2
-2008-07,Billy Bragg & Wilco,1
-2008-07,Bliss,3
-2008-07,Claudio Baglioni,5
-2008-07,Ennio Morricone,19
-2008-07,Hans Zimmer,4
-2008-07,John Williams,6
-2008-07,Kashmir,4
-2008-07,Ludwig Van Beethoven,0
-2008-07,Michael Nyman,7
-2008-07,Muse,1
-2008-07,Philip Glass,12
-2008-07,Rodrigo Leão,13
-2008-07,Sigur Rós,7
-2008-07,Tiromancino,3
-2008-07,Wilco,0
-2008-07,Yann Tiersen,9
-2008-07,大谷幸,5
-2008-08,Angelo Badalamenti,0
-2008-08,Antonín Dvořák,0
-2008-08,Astor Piazzolla,5
-2008-08,Billy Bragg & Wilco,3
-2008-08,Bliss,5
-2008-08,Claudio Baglioni,3
-2008-08,Ennio Morricone,23
-2008-08,Hans Zimmer,20
-2008-08,John Williams,6
-2008-08,Kashmir,6
-2008-08,Ludwig Van Beethoven,11
-2008-08,Michael Nyman,9
-2008-08,Muse,1
-2008-08,Philip Glass,13
-2008-08,Rodrigo Leão,15
-2008-08,Sigur Rós,1
-2008-08,Tiromancino,5
-2008-08,Wilco,0
-2008-08,Yann Tiersen,16
-2008-08,大谷幸,4
-2008-09,Angelo Badalamenti,3
-2008-09,Antonín Dvořák,9
-2008-09,Astor Piazzolla,2
-2008-09,Billy Bragg & Wilco,4
-2008-09,Bliss,4
-2008-09,Claudio Baglioni,10
-2008-09,Ennio Morricone,15
-2008-09,Hans Zimmer,11
-2008-09,John Williams,6
-2008-09,Kashmir,10
-2008-09,Ludwig Van Beethoven,50
-2008-09,Michael Nyman,10
-2008-09,Muse,2
-2008-09,Philip Glass,10
-2008-09,Rodrigo Leão,4
-2008-09,Sigur Rós,3
-2008-09,Tiromancino,3
-2008-09,Wilco,1
-2008-09,Yann Tiersen,13
-2008-09,大谷幸,4
-2008-10,Angelo Badalamenti,3
-2008-10,Antonín Dvořák,8
-2008-10,Astor Piazzolla,2
-2008-10,Billy Bragg & Wilco,4
-2008-10,Bliss,5
-2008-10,Claudio Baglioni,1
-2008-10,Ennio Morricone,14
-2008-10,Hans Zimmer,5
-2008-10,John Williams,4
-2008-10,Kashmir,12
-2008-10,Ludwig Van Beethoven,7
-2008-10,Michael Nyman,5
-2008-10,Muse,0
-2008-10,Philip Glass,11
-2008-10,Rodrigo Leão,3
-2008-10,Sigur Rós,8
-2008-10,Tiromancino,3
-2008-10,Wilco,10
-2008-10,Yann Tiersen,12
-2008-10,大谷幸,5
-2008-11,Angelo Badalamenti,2
-2008-11,Antonín Dvořák,1
-2008-11,Astor Piazzolla,0
-2008-11,Billy Bragg & Wilco,2
-2008-11,Bliss,0
-2008-11,Claudio Baglioni,1
-2008-11,Ennio Morricone,11
-2008-11,Hans Zimmer,5
-2008-11,John Williams,6
-2008-11,Kashmir,10
-2008-11,Ludwig Van Beethoven,29
-2008-11,Michael Nyman,3
-2008-11,Muse,3
-2008-11,Philip Glass,9
-2008-11,Rodrigo Leão,3
-2008-11,Sigur Rós,3
-2008-11,Tiromancino,1
-2008-11,Wilco,2
-2008-11,Yann Tiersen,6
-2008-11,大谷幸,1
-2008-12,Angelo Badalamenti,1
-2008-12,Antonín Dvořák,1
-2008-12,Astor Piazzolla,2
-2008-12,Billy Bragg & Wilco,0
-2008-12,Bliss,2
-2008-12,Claudio Baglioni,4
-2008-12,Ennio Morricone,15
-2008-12,Hans Zimmer,7
-2008-12,John Williams,5
-2008-12,Kashmir,12
-2008-12,Ludwig Van Beethoven,1
-2008-12,Michael Nyman,5
-2008-12,Muse,2
-2008-12,Philip Glass,7
-2008-12,Rodrigo Leão,5
-2008-12,Sigur Rós,18
-2008-12,Tiromancino,1
-2008-12,Wilco,0
-2008-12,Yann Tiersen,21
-2008-12,大谷幸,7
-2009-01,Angelo Badalamenti,2
-2009-01,Antonín Dvořák,0
-2009-01,Astor Piazzolla,3
-2009-01,Billy Bragg & Wilco,2
-2009-01,Bliss,5
-2009-01,Claudio Baglioni,8
-2009-01,Ennio Morricone,11
-2009-01,Hans Zimmer,10
-2009-01,John Williams,2
-2009-01,Kashmir,14
-2009-01,Ludwig Van Beethoven,2
-2009-01,Michael Nyman,8
-2009-01,Muse,4
-2009-01,Philip Glass,16
-2009-01,Rodrigo Leão,13
-2009-01,Sigur Rós,5
-2009-01,Tiromancino,3
-2009-01,Wilco,7
-2009-01,Yann Tiersen,5
-2009-01,大谷幸,6
-2009-02,Angelo Badalamenti,1
-2009-02,Antonín Dvořák,1
-2009-02,Astor Piazzolla,9
-2009-02,Billy Bragg & Wilco,2
-2009-02,Bliss,7
-2009-02,Claudio Baglioni,6
-2009-02,Ennio Morricone,18
-2009-02,Hans Zimmer,12
-2009-02,John Williams,5
-2009-02,Kashmir,11
-2009-02,Ludwig Van Beethoven,0
-2009-02,Michael Nyman,8
-2009-02,Muse,4
-2009-02,Philip Glass,22
-2009-02,Rodrigo Leão,7
-2009-02,Sigur Rós,3
-2009-02,Tiromancino,2
-2009-02,Wilco,7
-2009-02,Yann Tiersen,30
-2009-02,大谷幸,6
-2009-03,Angelo Badalamenti,2
-2009-03,Antonín Dvořák,4
-2009-03,Astor Piazzolla,7
-2009-03,Billy Bragg & Wilco,1
-2009-03,Bliss,2
-2009-03,Claudio Baglioni,2
-2009-03,Ennio Morricone,15
-2009-03,Hans Zimmer,3
-2009-03,John Williams,4
-2009-03,Kashmir,10
-2009-03,Ludwig Van Beethoven,40
-2009-03,Michael Nyman,3
-2009-03,Muse,2
-2009-03,Philip Glass,49
-2009-03,Rodrigo Leão,8
-2009-03,Sigur Rós,7
-2009-03,Tiromancino,3
-2009-03,Wilco,12
-2009-03,Yann Tiersen,7
-2009-03,大谷幸,5
-2009-04,Angelo Badalamenti,1
-2009-04,Antonín Dvořák,0
-2009-04,Astor Piazzolla,1
-2009-04,Billy Bragg & Wilco,2
-2009-04,Bliss,1
-2009-04,Claudio Baglioni,2
-2009-04,Ennio Morricone,9
-2009-04,Hans Zimmer,4
-2009-04,John Williams,3
-2009-04,Kashmir,11
-2009-04,Ludwig Van Beethoven,6
-2009-04,Michael Nyman,3
-2009-04,Muse,3
-2009-04,Philip Glass,24
-2009-04,Rodrigo Leão,5
-2009-04,Sigur Rós,3
-2009-04,Tiromancino,1
-2009-04,Wilco,3
-2009-04,Yann Tiersen,6
-2009-04,大谷幸,0
+"month","artist","plays"
+"2006-02","Angelo Badalamenti",1
+"2006-02","Antonín Dvořák",0
+"2006-02","Astor Piazzolla",8
+"2006-02","Billy Bragg & Wilco",1
+"2006-02","Bliss",185
+"2006-02","Claudio Baglioni",9
+"2006-02","Ennio Morricone",7
+"2006-02","Hans Zimmer",3
+"2006-02","John Williams",2
+"2006-02","Kashmir",38
+"2006-02","Ludwig Van Beethoven",0
+"2006-02","Michael Nyman",2
+"2006-02","Muse",19
+"2006-02","Philip Glass",19
+"2006-02","Rodrigo Leão",7
+"2006-02","Sigur Rós",19
+"2006-02","Tiromancino",4
+"2006-02","Wilco",18
+"2006-02","Yann Tiersen",24
+"2006-02","大谷幸",0
+"2006-03","Angelo Badalamenti",0
+"2006-03","Antonín Dvořák",0
+"2006-03","Astor Piazzolla",15
+"2006-03","Billy Bragg & Wilco",2
+"2006-03","Bliss",3
+"2006-03","Claudio Baglioni",2
+"2006-03","Ennio Morricone",2
+"2006-03","Hans Zimmer",13
+"2006-03","John Williams",5
+"2006-03","Kashmir",14
+"2006-03","Ludwig Van Beethoven",3
+"2006-03","Michael Nyman",10
+"2006-03","Muse",3
+"2006-03","Philip Glass",15
+"2006-03","Rodrigo Leão",24
+"2006-03","Sigur Rós",0
+"2006-03","Tiromancino",1
+"2006-03","Wilco",5
+"2006-03","Yann Tiersen",59
+"2006-03","大谷幸",49
+"2006-04","Angelo Badalamenti",2
+"2006-04","Antonín Dvořák",0
+"2006-04","Astor Piazzolla",20
+"2006-04","Billy Bragg & Wilco",3
+"2006-04","Bliss",40
+"2006-04","Claudio Baglioni",7
+"2006-04","Ennio Morricone",57
+"2006-04","Hans Zimmer",35
+"2006-04","John Williams",19
+"2006-04","Kashmir",5
+"2006-04","Ludwig Van Beethoven",5
+"2006-04","Michael Nyman",41
+"2006-04","Muse",3
+"2006-04","Philip Glass",92
+"2006-04","Rodrigo Leão",7
+"2006-04","Sigur Rós",13
+"2006-04","Tiromancino",0
+"2006-04","Wilco",6
+"2006-04","Yann Tiersen",39
+"2006-04","大谷幸",13
+"2006-05","Angelo Badalamenti",3
+"2006-05","Antonín Dvořák",6
+"2006-05","Astor Piazzolla",27
+"2006-05","Billy Bragg & Wilco",1
+"2006-05","Bliss",42
+"2006-05","Claudio Baglioni",0
+"2006-05","Ennio Morricone",32
+"2006-05","Hans Zimmer",18
+"2006-05","John Williams",23
+"2006-05","Kashmir",14
+"2006-05","Ludwig Van Beethoven",6
+"2006-05","Michael Nyman",28
+"2006-05","Muse",1
+"2006-05","Philip Glass",64
+"2006-05","Rodrigo Leão",36
+"2006-05","Sigur Rós",30
+"2006-05","Tiromancino",0
+"2006-05","Wilco",3
+"2006-05","Yann Tiersen",71
+"2006-05","大谷幸",61
+"2006-06","Angelo Badalamenti",1
+"2006-06","Antonín Dvořák",0
+"2006-06","Astor Piazzolla",1
+"2006-06","Billy Bragg & Wilco",1
+"2006-06","Bliss",8
+"2006-06","Claudio Baglioni",7
+"2006-06","Ennio Morricone",12
+"2006-06","Hans Zimmer",12
+"2006-06","John Williams",3
+"2006-06","Kashmir",20
+"2006-06","Ludwig Van Beethoven",2
+"2006-06","Michael Nyman",6
+"2006-06","Muse",3
+"2006-06","Philip Glass",22
+"2006-06","Rodrigo Leão",1
+"2006-06","Sigur Rós",9
+"2006-06","Tiromancino",0
+"2006-06","Wilco",11
+"2006-06","Yann Tiersen",15
+"2006-06","大谷幸",19
+"2006-07","Angelo Badalamenti",0
+"2006-07","Antonín Dvořák",8
+"2006-07","Astor Piazzolla",8
+"2006-07","Billy Bragg & Wilco",1
+"2006-07","Bliss",28
+"2006-07","Claudio Baglioni",15
+"2006-07","Ennio Morricone",5
+"2006-07","Hans Zimmer",8
+"2006-07","John Williams",3
+"2006-07","Kashmir",27
+"2006-07","Ludwig Van Beethoven",72
+"2006-07","Michael Nyman",0
+"2006-07","Muse",4
+"2006-07","Philip Glass",28
+"2006-07","Rodrigo Leão",5
+"2006-07","Sigur Rós",0
+"2006-07","Tiromancino",4
+"2006-07","Wilco",8
+"2006-07","Yann Tiersen",15
+"2006-07","大谷幸",0
+"2006-08","Angelo Badalamenti",4
+"2006-08","Antonín Dvořák",0
+"2006-08","Astor Piazzolla",3
+"2006-08","Billy Bragg & Wilco",3
+"2006-08","Bliss",73
+"2006-08","Claudio Baglioni",0
+"2006-08","Ennio Morricone",35
+"2006-08","Hans Zimmer",12
+"2006-08","John Williams",9
+"2006-08","Kashmir",61
+"2006-08","Ludwig Van Beethoven",43
+"2006-08","Michael Nyman",10
+"2006-08","Muse",11
+"2006-08","Philip Glass",102
+"2006-08","Rodrigo Leão",25
+"2006-08","Sigur Rós",35
+"2006-08","Tiromancino",0
+"2006-08","Wilco",15
+"2006-08","Yann Tiersen",76
+"2006-08","大谷幸",51
+"2006-09","Angelo Badalamenti",1
+"2006-09","Antonín Dvořák",12
+"2006-09","Astor Piazzolla",8
+"2006-09","Billy Bragg & Wilco",0
+"2006-09","Bliss",10
+"2006-09","Claudio Baglioni",17
+"2006-09","Ennio Morricone",12
+"2006-09","Hans Zimmer",1
+"2006-09","John Williams",3
+"2006-09","Kashmir",61
+"2006-09","Ludwig Van Beethoven",54
+"2006-09","Michael Nyman",0
+"2006-09","Muse",10
+"2006-09","Philip Glass",14
+"2006-09","Rodrigo Leão",17
+"2006-09","Sigur Rós",5
+"2006-09","Tiromancino",2
+"2006-09","Wilco",10
+"2006-09","Yann Tiersen",7
+"2006-09","大谷幸",31
+"2006-10","Angelo Badalamenti",0
+"2006-10","Antonín Dvořák",0
+"2006-10","Astor Piazzolla",10
+"2006-10","Billy Bragg & Wilco",2
+"2006-10","Bliss",20
+"2006-10","Claudio Baglioni",20
+"2006-10","Ennio Morricone",5
+"2006-10","Hans Zimmer",13
+"2006-10","John Williams",1
+"2006-10","Kashmir",23
+"2006-10","Ludwig Van Beethoven",24
+"2006-10","Michael Nyman",1
+"2006-10","Muse",16
+"2006-10","Philip Glass",19
+"2006-10","Rodrigo Leão",13
+"2006-10","Sigur Rós",15
+"2006-10","Tiromancino",2
+"2006-10","Wilco",12
+"2006-10","Yann Tiersen",16
+"2006-10","大谷幸",0
+"2006-11","Angelo Badalamenti",2
+"2006-11","Antonín Dvořák",5
+"2006-11","Astor Piazzolla",29
+"2006-11","Billy Bragg & Wilco",2
+"2006-11","Bliss",16
+"2006-11","Claudio Baglioni",13
+"2006-11","Ennio Morricone",2
+"2006-11","Hans Zimmer",5
+"2006-11","John Williams",5
+"2006-11","Kashmir",34
+"2006-11","Ludwig Van Beethoven",16
+"2006-11","Michael Nyman",17
+"2006-11","Muse",33
+"2006-11","Philip Glass",7
+"2006-11","Rodrigo Leão",3
+"2006-11","Sigur Rós",4
+"2006-11","Tiromancino",13
+"2006-11","Wilco",8
+"2006-11","Yann Tiersen",34
+"2006-11","大谷幸",9
+"2006-12","Angelo Badalamenti",3
+"2006-12","Antonín Dvořák",8
+"2006-12","Astor Piazzolla",2
+"2006-12","Billy Bragg & Wilco",2
+"2006-12","Bliss",1
+"2006-12","Claudio Baglioni",11
+"2006-12","Ennio Morricone",4
+"2006-12","Hans Zimmer",15
+"2006-12","John Williams",5
+"2006-12","Kashmir",7
+"2006-12","Ludwig Van Beethoven",22
+"2006-12","Michael Nyman",25
+"2006-12","Muse",25
+"2006-12","Philip Glass",52
+"2006-12","Rodrigo Leão",3
+"2006-12","Sigur Rós",2
+"2006-12","Tiromancino",4
+"2006-12","Wilco",15
+"2006-12","Yann Tiersen",10
+"2006-12","大谷幸",22
+"2007-01","Angelo Badalamenti",6
+"2007-01","Antonín Dvořák",9
+"2007-01","Astor Piazzolla",27
+"2007-01","Billy Bragg & Wilco",7
+"2007-01","Bliss",7
+"2007-01","Claudio Baglioni",6
+"2007-01","Ennio Morricone",8
+"2007-01","Hans Zimmer",19
+"2007-01","John Williams",15
+"2007-01","Kashmir",44
+"2007-01","Ludwig Van Beethoven",8
+"2007-01","Michael Nyman",14
+"2007-01","Muse",43
+"2007-01","Philip Glass",41
+"2007-01","Rodrigo Leão",1
+"2007-01","Sigur Rós",1
+"2007-01","Tiromancino",3
+"2007-01","Wilco",20
+"2007-01","Yann Tiersen",40
+"2007-01","大谷幸",7
+"2007-02","Angelo Badalamenti",1
+"2007-02","Antonín Dvořák",1
+"2007-02","Astor Piazzolla",0
+"2007-02","Billy Bragg & Wilco",5
+"2007-02","Bliss",9
+"2007-02","Claudio Baglioni",4
+"2007-02","Ennio Morricone",40
+"2007-02","Hans Zimmer",24
+"2007-02","John Williams",2
+"2007-02","Kashmir",29
+"2007-02","Ludwig Van Beethoven",29
+"2007-02","Michael Nyman",6
+"2007-02","Muse",25
+"2007-02","Philip Glass",7
+"2007-02","Rodrigo Leão",0
+"2007-02","Sigur Rós",14
+"2007-02","Tiromancino",3
+"2007-02","Wilco",18
+"2007-02","Yann Tiersen",0
+"2007-02","大谷幸",2
+"2007-03","Angelo Badalamenti",6
+"2007-03","Antonín Dvořák",10
+"2007-03","Astor Piazzolla",5
+"2007-03","Billy Bragg & Wilco",4
+"2007-03","Bliss",17
+"2007-03","Claudio Baglioni",4
+"2007-03","Ennio Morricone",19
+"2007-03","Hans Zimmer",45
+"2007-03","John Williams",16
+"2007-03","Kashmir",9
+"2007-03","Ludwig Van Beethoven",15
+"2007-03","Michael Nyman",4
+"2007-03","Muse",20
+"2007-03","Philip Glass",20
+"2007-03","Rodrigo Leão",53
+"2007-03","Sigur Rós",7
+"2007-03","Tiromancino",2
+"2007-03","Wilco",19
+"2007-03","Yann Tiersen",45
+"2007-03","大谷幸",5
+"2007-04","Angelo Badalamenti",3
+"2007-04","Antonín Dvořák",7
+"2007-04","Astor Piazzolla",0
+"2007-04","Billy Bragg & Wilco",9
+"2007-04","Bliss",12
+"2007-04","Claudio Baglioni",4
+"2007-04","Ennio Morricone",8
+"2007-04","Hans Zimmer",32
+"2007-04","John Williams",17
+"2007-04","Kashmir",6
+"2007-04","Ludwig Van Beethoven",11
+"2007-04","Michael Nyman",10
+"2007-04","Muse",11
+"2007-04","Philip Glass",15
+"2007-04","Rodrigo Leão",5
+"2007-04","Sigur Rós",2
+"2007-04","Tiromancino",3
+"2007-04","Wilco",4
+"2007-04","Yann Tiersen",6
+"2007-04","大谷幸",3
+"2007-05","Angelo Badalamenti",1
+"2007-05","Antonín Dvořák",2
+"2007-05","Astor Piazzolla",1
+"2007-05","Billy Bragg & Wilco",2
+"2007-05","Bliss",0
+"2007-05","Claudio Baglioni",8
+"2007-05","Ennio Morricone",0
+"2007-05","Hans Zimmer",2
+"2007-05","John Williams",7
+"2007-05","Kashmir",11
+"2007-05","Ludwig Van Beethoven",2
+"2007-05","Michael Nyman",4
+"2007-05","Muse",6
+"2007-05","Philip Glass",8
+"2007-05","Rodrigo Leão",1
+"2007-05","Sigur Rós",0
+"2007-05","Tiromancino",3
+"2007-05","Wilco",107
+"2007-05","Yann Tiersen",3
+"2007-05","大谷幸",4
+"2007-06","Angelo Badalamenti",8
+"2007-06","Antonín Dvořák",6
+"2007-06","Astor Piazzolla",8
+"2007-06","Billy Bragg & Wilco",6
+"2007-06","Bliss",10
+"2007-06","Claudio Baglioni",0
+"2007-06","Ennio Morricone",4
+"2007-06","Hans Zimmer",22
+"2007-06","John Williams",15
+"2007-06","Kashmir",16
+"2007-06","Ludwig Van Beethoven",2
+"2007-06","Michael Nyman",13
+"2007-06","Muse",14
+"2007-06","Philip Glass",23
+"2007-06","Rodrigo Leão",0
+"2007-06","Sigur Rós",0
+"2007-06","Tiromancino",8
+"2007-06","Wilco",41
+"2007-06","Yann Tiersen",0
+"2007-06","大谷幸",12
+"2007-07","Angelo Badalamenti",1
+"2007-07","Antonín Dvořák",1
+"2007-07","Astor Piazzolla",10
+"2007-07","Billy Bragg & Wilco",2
+"2007-07","Bliss",5
+"2007-07","Claudio Baglioni",1
+"2007-07","Ennio Morricone",0
+"2007-07","Hans Zimmer",8
+"2007-07","John Williams",9
+"2007-07","Kashmir",13
+"2007-07","Ludwig Van Beethoven",8
+"2007-07","Michael Nyman",5
+"2007-07","Muse",14
+"2007-07","Philip Glass",15
+"2007-07","Rodrigo Leão",4
+"2007-07","Sigur Rós",7
+"2007-07","Tiromancino",3
+"2007-07","Wilco",25
+"2007-07","Yann Tiersen",0
+"2007-07","大谷幸",3
+"2007-08","Angelo Badalamenti",3
+"2007-08","Antonín Dvořák",2
+"2007-08","Astor Piazzolla",3
+"2007-08","Billy Bragg & Wilco",8
+"2007-08","Bliss",4
+"2007-08","Claudio Baglioni",1
+"2007-08","Ennio Morricone",36
+"2007-08","Hans Zimmer",13
+"2007-08","John Williams",9
+"2007-08","Kashmir",14
+"2007-08","Ludwig Van Beethoven",2
+"2007-08","Michael Nyman",10
+"2007-08","Muse",12
+"2007-08","Philip Glass",20
+"2007-08","Rodrigo Leão",3
+"2007-08","Sigur Rós",1
+"2007-08","Tiromancino",1
+"2007-08","Wilco",14
+"2007-08","Yann Tiersen",3
+"2007-08","大谷幸",9
+"2007-09","Angelo Badalamenti",1
+"2007-09","Antonín Dvořák",2
+"2007-09","Astor Piazzolla",1
+"2007-09","Billy Bragg & Wilco",1
+"2007-09","Bliss",3
+"2007-09","Claudio Baglioni",0
+"2007-09","Ennio Morricone",9
+"2007-09","Hans Zimmer",3
+"2007-09","John Williams",6
+"2007-09","Kashmir",2
+"2007-09","Ludwig Van Beethoven",16
+"2007-09","Michael Nyman",0
+"2007-09","Muse",3
+"2007-09","Philip Glass",7
+"2007-09","Rodrigo Leão",2
+"2007-09","Sigur Rós",0
+"2007-09","Tiromancino",4
+"2007-09","Wilco",1
+"2007-09","Yann Tiersen",0
+"2007-09","大谷幸",2
+"2007-10","Angelo Badalamenti",1
+"2007-10","Antonín Dvořák",1
+"2007-10","Astor Piazzolla",2
+"2007-10","Billy Bragg & Wilco",2
+"2007-10","Bliss",4
+"2007-10","Claudio Baglioni",10
+"2007-10","Ennio Morricone",12
+"2007-10","Hans Zimmer",8
+"2007-10","John Williams",9
+"2007-10","Kashmir",10
+"2007-10","Ludwig Van Beethoven",3
+"2007-10","Michael Nyman",5
+"2007-10","Muse",6
+"2007-10","Philip Glass",16
+"2007-10","Rodrigo Leão",5
+"2007-10","Sigur Rós",4
+"2007-10","Tiromancino",3
+"2007-10","Wilco",5
+"2007-10","Yann Tiersen",2
+"2007-10","大谷幸",2
+"2007-11","Angelo Badalamenti",1
+"2007-11","Antonín Dvořák",3
+"2007-11","Astor Piazzolla",0
+"2007-11","Billy Bragg & Wilco",3
+"2007-11","Bliss",4
+"2007-11","Claudio Baglioni",4
+"2007-11","Ennio Morricone",14
+"2007-11","Hans Zimmer",10
+"2007-11","John Williams",8
+"2007-11","Kashmir",6
+"2007-11","Ludwig Van Beethoven",12
+"2007-11","Michael Nyman",4
+"2007-11","Muse",4
+"2007-11","Philip Glass",11
+"2007-11","Rodrigo Leão",4
+"2007-11","Sigur Rós",1
+"2007-11","Tiromancino",0
+"2007-11","Wilco",6
+"2007-11","Yann Tiersen",0
+"2007-11","大谷幸",1
+"2007-12","Angelo Badalamenti",1
+"2007-12","Antonín Dvořák",3
+"2007-12","Astor Piazzolla",0
+"2007-12","Billy Bragg & Wilco",6
+"2007-12","Bliss",0
+"2007-12","Claudio Baglioni",3
+"2007-12","Ennio Morricone",1
+"2007-12","Hans Zimmer",1
+"2007-12","John Williams",1
+"2007-12","Kashmir",11
+"2007-12","Ludwig Van Beethoven",22
+"2007-12","Michael Nyman",3
+"2007-12","Muse",0
+"2007-12","Philip Glass",2
+"2007-12","Rodrigo Leão",0
+"2007-12","Sigur Rós",0
+"2007-12","Tiromancino",1
+"2007-12","Wilco",0
+"2007-12","Yann Tiersen",2
+"2007-12","大谷幸",1
+"2008-01","Angelo Badalamenti",0
+"2008-01","Antonín Dvořák",9
+"2008-01","Astor Piazzolla",8
+"2008-01","Billy Bragg & Wilco",0
+"2008-01","Bliss",7
+"2008-01","Claudio Baglioni",0
+"2008-01","Ennio Morricone",1
+"2008-01","Hans Zimmer",2
+"2008-01","John Williams",3
+"2008-01","Kashmir",4
+"2008-01","Ludwig Van Beethoven",18
+"2008-01","Michael Nyman",3
+"2008-01","Muse",1
+"2008-01","Philip Glass",5
+"2008-01","Rodrigo Leão",1
+"2008-01","Sigur Rós",2
+"2008-01","Tiromancino",1
+"2008-01","Wilco",2
+"2008-01","Yann Tiersen",6
+"2008-01","大谷幸",0
+"2008-02","Angelo Badalamenti",3
+"2008-02","Antonín Dvořák",2
+"2008-02","Astor Piazzolla",0
+"2008-02","Billy Bragg & Wilco",2
+"2008-02","Bliss",2
+"2008-02","Claudio Baglioni",0
+"2008-02","Ennio Morricone",2
+"2008-02","Hans Zimmer",4
+"2008-02","John Williams",5
+"2008-02","Kashmir",21
+"2008-02","Ludwig Van Beethoven",1
+"2008-02","Michael Nyman",0
+"2008-02","Muse",2
+"2008-02","Philip Glass",7
+"2008-02","Rodrigo Leão",1
+"2008-02","Sigur Rós",0
+"2008-02","Tiromancino",3
+"2008-02","Wilco",2
+"2008-02","Yann Tiersen",1
+"2008-02","大谷幸",6
+"2008-03","Angelo Badalamenti",4
+"2008-03","Antonín Dvořák",3
+"2008-03","Astor Piazzolla",7
+"2008-03","Billy Bragg & Wilco",5
+"2008-03","Bliss",4
+"2008-03","Claudio Baglioni",0
+"2008-03","Ennio Morricone",70
+"2008-03","Hans Zimmer",12
+"2008-03","John Williams",9
+"2008-03","Kashmir",5
+"2008-03","Ludwig Van Beethoven",10
+"2008-03","Michael Nyman",9
+"2008-03","Muse",6
+"2008-03","Philip Glass",11
+"2008-03","Rodrigo Leão",5
+"2008-03","Sigur Rós",0
+"2008-03","Tiromancino",5
+"2008-03","Wilco",4
+"2008-03","Yann Tiersen",7
+"2008-03","大谷幸",4
+"2008-04","Angelo Badalamenti",1
+"2008-04","Antonín Dvořák",2
+"2008-04","Astor Piazzolla",16
+"2008-04","Billy Bragg & Wilco",3
+"2008-04","Bliss",3
+"2008-04","Claudio Baglioni",6
+"2008-04","Ennio Morricone",12
+"2008-04","Hans Zimmer",9
+"2008-04","John Williams",4
+"2008-04","Kashmir",1
+"2008-04","Ludwig Van Beethoven",0
+"2008-04","Michael Nyman",2
+"2008-04","Muse",4
+"2008-04","Philip Glass",10
+"2008-04","Rodrigo Leão",8
+"2008-04","Sigur Rós",1
+"2008-04","Tiromancino",7
+"2008-04","Wilco",3
+"2008-04","Yann Tiersen",1
+"2008-04","大谷幸",2
+"2008-05","Angelo Badalamenti",2
+"2008-05","Antonín Dvořák",1
+"2008-05","Astor Piazzolla",1
+"2008-05","Billy Bragg & Wilco",0
+"2008-05","Bliss",2
+"2008-05","Claudio Baglioni",1
+"2008-05","Ennio Morricone",8
+"2008-05","Hans Zimmer",18
+"2008-05","John Williams",1
+"2008-05","Kashmir",6
+"2008-05","Ludwig Van Beethoven",10
+"2008-05","Michael Nyman",1
+"2008-05","Muse",0
+"2008-05","Philip Glass",44
+"2008-05","Rodrigo Leão",2
+"2008-05","Sigur Rós",2
+"2008-05","Tiromancino",2
+"2008-05","Wilco",7
+"2008-05","Yann Tiersen",2
+"2008-05","大谷幸",1
+"2008-06","Angelo Badalamenti",3
+"2008-06","Antonín Dvořák",1
+"2008-06","Astor Piazzolla",1
+"2008-06","Billy Bragg & Wilco",1
+"2008-06","Bliss",1
+"2008-06","Claudio Baglioni",0
+"2008-06","Ennio Morricone",12
+"2008-06","Hans Zimmer",22
+"2008-06","John Williams",3
+"2008-06","Kashmir",4
+"2008-06","Ludwig Van Beethoven",19
+"2008-06","Michael Nyman",2
+"2008-06","Muse",0
+"2008-06","Philip Glass",6
+"2008-06","Rodrigo Leão",3
+"2008-06","Sigur Rós",18
+"2008-06","Tiromancino",4
+"2008-06","Wilco",5
+"2008-06","Yann Tiersen",1
+"2008-06","大谷幸",4
+"2008-07","Angelo Badalamenti",1
+"2008-07","Antonín Dvořák",1
+"2008-07","Astor Piazzolla",2
+"2008-07","Billy Bragg & Wilco",1
+"2008-07","Bliss",3
+"2008-07","Claudio Baglioni",5
+"2008-07","Ennio Morricone",19
+"2008-07","Hans Zimmer",4
+"2008-07","John Williams",6
+"2008-07","Kashmir",4
+"2008-07","Ludwig Van Beethoven",0
+"2008-07","Michael Nyman",7
+"2008-07","Muse",1
+"2008-07","Philip Glass",12
+"2008-07","Rodrigo Leão",13
+"2008-07","Sigur Rós",7
+"2008-07","Tiromancino",3
+"2008-07","Wilco",0
+"2008-07","Yann Tiersen",9
+"2008-07","大谷幸",5
+"2008-08","Angelo Badalamenti",0
+"2008-08","Antonín Dvořák",0
+"2008-08","Astor Piazzolla",5
+"2008-08","Billy Bragg & Wilco",3
+"2008-08","Bliss",5
+"2008-08","Claudio Baglioni",3
+"2008-08","Ennio Morricone",23
+"2008-08","Hans Zimmer",20
+"2008-08","John Williams",6
+"2008-08","Kashmir",6
+"2008-08","Ludwig Van Beethoven",11
+"2008-08","Michael Nyman",9
+"2008-08","Muse",1
+"2008-08","Philip Glass",13
+"2008-08","Rodrigo Leão",15
+"2008-08","Sigur Rós",1
+"2008-08","Tiromancino",5
+"2008-08","Wilco",0
+"2008-08","Yann Tiersen",16
+"2008-08","大谷幸",4
+"2008-09","Angelo Badalamenti",3
+"2008-09","Antonín Dvořák",9
+"2008-09","Astor Piazzolla",2
+"2008-09","Billy Bragg & Wilco",4
+"2008-09","Bliss",4
+"2008-09","Claudio Baglioni",10
+"2008-09","Ennio Morricone",15
+"2008-09","Hans Zimmer",11
+"2008-09","John Williams",6
+"2008-09","Kashmir",10
+"2008-09","Ludwig Van Beethoven",50
+"2008-09","Michael Nyman",10
+"2008-09","Muse",2
+"2008-09","Philip Glass",10
+"2008-09","Rodrigo Leão",4
+"2008-09","Sigur Rós",3
+"2008-09","Tiromancino",3
+"2008-09","Wilco",1
+"2008-09","Yann Tiersen",13
+"2008-09","大谷幸",4
+"2008-10","Angelo Badalamenti",3
+"2008-10","Antonín Dvořák",8
+"2008-10","Astor Piazzolla",2
+"2008-10","Billy Bragg & Wilco",4
+"2008-10","Bliss",5
+"2008-10","Claudio Baglioni",1
+"2008-10","Ennio Morricone",14
+"2008-10","Hans Zimmer",5
+"2008-10","John Williams",4
+"2008-10","Kashmir",12
+"2008-10","Ludwig Van Beethoven",7
+"2008-10","Michael Nyman",5
+"2008-10","Muse",0
+"2008-10","Philip Glass",11
+"2008-10","Rodrigo Leão",3
+"2008-10","Sigur Rós",8
+"2008-10","Tiromancino",3
+"2008-10","Wilco",10
+"2008-10","Yann Tiersen",12
+"2008-10","大谷幸",5
+"2008-11","Angelo Badalamenti",2
+"2008-11","Antonín Dvořák",1
+"2008-11","Astor Piazzolla",0
+"2008-11","Billy Bragg & Wilco",2
+"2008-11","Bliss",0
+"2008-11","Claudio Baglioni",1
+"2008-11","Ennio Morricone",11
+"2008-11","Hans Zimmer",5
+"2008-11","John Williams",6
+"2008-11","Kashmir",10
+"2008-11","Ludwig Van Beethoven",29
+"2008-11","Michael Nyman",3
+"2008-11","Muse",3
+"2008-11","Philip Glass",9
+"2008-11","Rodrigo Leão",3
+"2008-11","Sigur Rós",3
+"2008-11","Tiromancino",1
+"2008-11","Wilco",2
+"2008-11","Yann Tiersen",6
+"2008-11","大谷幸",1
+"2008-12","Angelo Badalamenti",1
+"2008-12","Antonín Dvořák",1
+"2008-12","Astor Piazzolla",2
+"2008-12","Billy Bragg & Wilco",0
+"2008-12","Bliss",2
+"2008-12","Claudio Baglioni",4
+"2008-12","Ennio Morricone",15
+"2008-12","Hans Zimmer",7
+"2008-12","John Williams",5
+"2008-12","Kashmir",12
+"2008-12","Ludwig Van Beethoven",1
+"2008-12","Michael Nyman",5
+"2008-12","Muse",2
+"2008-12","Philip Glass",7
+"2008-12","Rodrigo Leão",5
+"2008-12","Sigur Rós",18
+"2008-12","Tiromancino",1
+"2008-12","Wilco",0
+"2008-12","Yann Tiersen",21
+"2008-12","大谷幸",7
+"2009-01","Angelo Badalamenti",2
+"2009-01","Antonín Dvořák",0
+"2009-01","Astor Piazzolla",3
+"2009-01","Billy Bragg & Wilco",2
+"2009-01","Bliss",5
+"2009-01","Claudio Baglioni",8
+"2009-01","Ennio Morricone",11
+"2009-01","Hans Zimmer",10
+"2009-01","John Williams",2
+"2009-01","Kashmir",14
+"2009-01","Ludwig Van Beethoven",2
+"2009-01","Michael Nyman",8
+"2009-01","Muse",4
+"2009-01","Philip Glass",16
+"2009-01","Rodrigo Leão",13
+"2009-01","Sigur Rós",5
+"2009-01","Tiromancino",3
+"2009-01","Wilco",7
+"2009-01","Yann Tiersen",5
+"2009-01","大谷幸",6
+"2009-02","Angelo Badalamenti",1
+"2009-02","Antonín Dvořák",1
+"2009-02","Astor Piazzolla",9
+"2009-02","Billy Bragg & Wilco",2
+"2009-02","Bliss",7
+"2009-02","Claudio Baglioni",6
+"2009-02","Ennio Morricone",18
+"2009-02","Hans Zimmer",12
+"2009-02","John Williams",5
+"2009-02","Kashmir",11
+"2009-02","Ludwig Van Beethoven",0
+"2009-02","Michael Nyman",8
+"2009-02","Muse",4
+"2009-02","Philip Glass",22
+"2009-02","Rodrigo Leão",7
+"2009-02","Sigur Rós",3
+"2009-02","Tiromancino",2
+"2009-02","Wilco",7
+"2009-02","Yann Tiersen",30
+"2009-02","大谷幸",6
+"2009-03","Angelo Badalamenti",2
+"2009-03","Antonín Dvořák",4
+"2009-03","Astor Piazzolla",7
+"2009-03","Billy Bragg & Wilco",1
+"2009-03","Bliss",2
+"2009-03","Claudio Baglioni",2
+"2009-03","Ennio Morricone",15
+"2009-03","Hans Zimmer",3
+"2009-03","John Williams",4
+"2009-03","Kashmir",10
+"2009-03","Ludwig Van Beethoven",40
+"2009-03","Michael Nyman",3
+"2009-03","Muse",2
+"2009-03","Philip Glass",49
+"2009-03","Rodrigo Leão",8
+"2009-03","Sigur Rós",7
+"2009-03","Tiromancino",3
+"2009-03","Wilco",12
+"2009-03","Yann Tiersen",7
+"2009-03","大谷幸",5
+"2009-04","Angelo Badalamenti",1
+"2009-04","Antonín Dvořák",0
+"2009-04","Astor Piazzolla",1
+"2009-04","Billy Bragg & Wilco",2
+"2009-04","Bliss",1
+"2009-04","Claudio Baglioni",2
+"2009-04","Ennio Morricone",9
+"2009-04","Hans Zimmer",4
+"2009-04","John Williams",3
+"2009-04","Kashmir",11
+"2009-04","Ludwig Van Beethoven",6
+"2009-04","Michael Nyman",3
+"2009-04","Muse",3
+"2009-04","Philip Glass",24
+"2009-04","Rodrigo Leão",5
+"2009-04","Sigur Rós",3
+"2009-04","Tiromancino",1
+"2009-04","Wilco",3
+"2009-04","Yann Tiersen",6
+"2009-04","大谷幸",0

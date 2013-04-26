@@ -1,41 +1,41 @@
-month,artist,plays
-2009-04,1990S,1
-2009-04,A.C. Newman,1
-2009-04,Aidan Moffat & The Best-Ofs,1
-2009-04,Al Wilson,1
-2009-04,Alig Fodder,1
-2009-04,Beach House,1
-2009-04,Brakes,39
-2009-04,Camera Obscura,35
-2009-04,David Bowie,1
-2009-04,Four Tops,3
-2009-04,Grizzly Bear,20
-2009-04,Jeffrey Lewis & The Junkyard,5
-2009-04,King Creosote,13
-2009-04,Morrissey,2
-2009-04,Neu!,17
-2009-04,R.E.M.,1
-2009-04,Red Light Company,2
-2009-04,Silversun Pickups,10
-2009-04,The Horrors,2
-2009-04,The Lemonheads,6
-2009-05,1990S,0
-2009-05,A.C. Newman,0
-2009-05,Aidan Moffat & The Best-Ofs,0
-2009-05,Al Wilson,0
-2009-05,Alig Fodder,0
-2009-05,Beach House,9
-2009-05,Brakes,2
-2009-05,Camera Obscura,10
-2009-05,David Bowie,10
-2009-05,Four Tops,2
-2009-05,Grizzly Bear,1
-2009-05,Jeffrey Lewis & The Junkyard,1
-2009-05,King Creosote,1
-2009-05,Morrissey,5
-2009-05,Neu!,6
-2009-05,R.E.M.,7
-2009-05,Red Light Company,10
-2009-05,Silversun Pickups,23
-2009-05,The Horrors,10
-2009-05,The Lemonheads,6
+"month","artist","plays"
+"2009-04","1990S",1
+"2009-04","A.C. Newman",1
+"2009-04","Aidan Moffat & The Best-Ofs",1
+"2009-04","Al Wilson",1
+"2009-04","Alig Fodder",1
+"2009-04","Beach House",1
+"2009-04","Brakes",39
+"2009-04","Camera Obscura",35
+"2009-04","David Bowie",1
+"2009-04","Four Tops",3
+"2009-04","Grizzly Bear",20
+"2009-04","Jeffrey Lewis & The Junkyard",5
+"2009-04","King Creosote",13
+"2009-04","Morrissey",2
+"2009-04","Neu!",17
+"2009-04","R.E.M.",1
+"2009-04","Red Light Company",2
+"2009-04","Silversun Pickups",10
+"2009-04","The Horrors",2
+"2009-04","The Lemonheads",6
+"2009-05","1990S",0
+"2009-05","A.C. Newman",0
+"2009-05","Aidan Moffat & The Best-Ofs",0
+"2009-05","Al Wilson",0
+"2009-05","Alig Fodder",0
+"2009-05","Beach House",9
+"2009-05","Brakes",2
+"2009-05","Camera Obscura",10
+"2009-05","David Bowie",10
+"2009-05","Four Tops",2
+"2009-05","Grizzly Bear",1
+"2009-05","Jeffrey Lewis & The Junkyard",1
+"2009-05","King Creosote",1
+"2009-05","Morrissey",5
+"2009-05","Neu!",6
+"2009-05","R.E.M.",7
+"2009-05","Red Light Company",10
+"2009-05","Silversun Pickups",23
+"2009-05","The Horrors",10
+"2009-05","The Lemonheads",6

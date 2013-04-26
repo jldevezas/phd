@@ -1,461 +1,461 @@
-month,artist,plays
-2007-06,Arcade Fire,4
-2007-06,Ben Harper,7
-2007-06,Cat Stevens,3
-2007-06,Coldplay,1
-2007-06,Damien Rice,6
-2007-06,Glen Hansard & Markéta Irglová,2
-2007-06,Inxs,4
-2007-06,Jeff Buckley,2
-2007-06,Moby,12
-2007-06,Powderfinger,7
-2007-06,Queen,3
-2007-06,Radiohead,0
-2007-06,Scissor Sisters,2
-2007-06,Silverchair,6
-2007-06,Snow Patrol,4
-2007-06,The Frames,4
-2007-06,The Reindeer Section,3
-2007-06,The White Stripes,1
-2007-06,The Whitlams,1
-2007-06,U2,24
-2007-07,Arcade Fire,8
-2007-07,Ben Harper,26
-2007-07,Cat Stevens,12
-2007-07,Coldplay,14
-2007-07,Damien Rice,27
-2007-07,Glen Hansard & Markéta Irglová,9
-2007-07,Inxs,9
-2007-07,Jeff Buckley,14
-2007-07,Moby,38
-2007-07,Powderfinger,43
-2007-07,Queen,8
-2007-07,Radiohead,7
-2007-07,Scissor Sisters,12
-2007-07,Silverchair,26
-2007-07,Snow Patrol,36
-2007-07,The Frames,14
-2007-07,The Reindeer Section,11
-2007-07,The White Stripes,13
-2007-07,The Whitlams,29
-2007-07,U2,128
-2007-08,Arcade Fire,18
-2007-08,Ben Harper,44
-2007-08,Cat Stevens,11
-2007-08,Coldplay,14
-2007-08,Damien Rice,43
-2007-08,Glen Hansard & Markéta Irglová,11
-2007-08,Inxs,16
-2007-08,Jeff Buckley,23
-2007-08,Moby,38
-2007-08,Powderfinger,97
-2007-08,Queen,10
-2007-08,Radiohead,4
-2007-08,Scissor Sisters,14
-2007-08,Silverchair,125
-2007-08,Snow Patrol,99
-2007-08,The Frames,45
-2007-08,The Reindeer Section,22
-2007-08,The White Stripes,75
-2007-08,The Whitlams,24
-2007-08,U2,369
-2007-09,Arcade Fire,3
-2007-09,Ben Harper,18
-2007-09,Cat Stevens,3
-2007-09,Coldplay,8
-2007-09,Damien Rice,35
-2007-09,Glen Hansard & Markéta Irglová,1
-2007-09,Inxs,8
-2007-09,Jeff Buckley,7
-2007-09,Moby,12
-2007-09,Powderfinger,181
-2007-09,Queen,2
-2007-09,Radiohead,5
-2007-09,Scissor Sisters,18
-2007-09,Silverchair,141
-2007-09,Snow Patrol,104
-2007-09,The Frames,5
-2007-09,The Reindeer Section,4
-2007-09,The White Stripes,30
-2007-09,The Whitlams,4
-2007-09,U2,184
-2007-10,Arcade Fire,10
-2007-10,Ben Harper,31
-2007-10,Cat Stevens,4
-2007-10,Coldplay,15
-2007-10,Damien Rice,16
-2007-10,Glen Hansard & Markéta Irglová,3
-2007-10,Inxs,18
-2007-10,Jeff Buckley,10
-2007-10,Moby,31
-2007-10,Powderfinger,23
-2007-10,Queen,7
-2007-10,Radiohead,8
-2007-10,Scissor Sisters,14
-2007-10,Silverchair,21
-2007-10,Snow Patrol,41
-2007-10,The Frames,4
-2007-10,The Reindeer Section,10
-2007-10,The White Stripes,8
-2007-10,The Whitlams,0
-2007-10,U2,227
-2007-11,Arcade Fire,9
-2007-11,Ben Harper,17
-2007-11,Cat Stevens,6
-2007-11,Coldplay,10
-2007-11,Damien Rice,28
-2007-11,Glen Hansard & Markéta Irglová,4
-2007-11,Inxs,20
-2007-11,Jeff Buckley,9
-2007-11,Moby,20
-2007-11,Powderfinger,9
-2007-11,Queen,7
-2007-11,Radiohead,6
-2007-11,Scissor Sisters,13
-2007-11,Silverchair,27
-2007-11,Snow Patrol,36
-2007-11,The Frames,7
-2007-11,The Reindeer Section,13
-2007-11,The White Stripes,8
-2007-11,The Whitlams,2
-2007-11,U2,148
-2007-12,Arcade Fire,5
-2007-12,Ben Harper,6
-2007-12,Cat Stevens,2
-2007-12,Coldplay,8
-2007-12,Damien Rice,8
-2007-12,Glen Hansard & Markéta Irglová,2
-2007-12,Inxs,16
-2007-12,Jeff Buckley,14
-2007-12,Moby,19
-2007-12,Powderfinger,17
-2007-12,Queen,5
-2007-12,Radiohead,8
-2007-12,Scissor Sisters,5
-2007-12,Silverchair,31
-2007-12,Snow Patrol,28
-2007-12,The Frames,3
-2007-12,The Reindeer Section,9
-2007-12,The White Stripes,2
-2007-12,The Whitlams,1
-2007-12,U2,87
-2008-01,Arcade Fire,33
-2008-01,Ben Harper,9
-2008-01,Cat Stevens,0
-2008-01,Coldplay,5
-2008-01,Damien Rice,14
-2008-01,Glen Hansard & Markéta Irglová,1
-2008-01,Inxs,25
-2008-01,Jeff Buckley,7
-2008-01,Moby,15
-2008-01,Powderfinger,39
-2008-01,Queen,1
-2008-01,Radiohead,7
-2008-01,Scissor Sisters,4
-2008-01,Silverchair,25
-2008-01,Snow Patrol,37
-2008-01,The Frames,81
-2008-01,The Reindeer Section,13
-2008-01,The White Stripes,2
-2008-01,The Whitlams,1
-2008-01,U2,131
-2008-02,Arcade Fire,17
-2008-02,Ben Harper,17
-2008-02,Cat Stevens,2
-2008-02,Coldplay,15
-2008-02,Damien Rice,20
-2008-02,Glen Hansard & Markéta Irglová,3
-2008-02,Inxs,78
-2008-02,Jeff Buckley,12
-2008-02,Moby,27
-2008-02,Powderfinger,40
-2008-02,Queen,7
-2008-02,Radiohead,15
-2008-02,Scissor Sisters,10
-2008-02,Silverchair,45
-2008-02,Snow Patrol,44
-2008-02,The Frames,13
-2008-02,The Reindeer Section,17
-2008-02,The White Stripes,10
-2008-02,The Whitlams,13
-2008-02,U2,286
-2008-03,Arcade Fire,5
-2008-03,Ben Harper,14
-2008-03,Cat Stevens,3
-2008-03,Coldplay,3
-2008-03,Damien Rice,6
-2008-03,Glen Hansard & Markéta Irglová,1
-2008-03,Inxs,9
-2008-03,Jeff Buckley,5
-2008-03,Moby,18
-2008-03,Powderfinger,8
-2008-03,Queen,2
-2008-03,Radiohead,2
-2008-03,Scissor Sisters,9
-2008-03,Silverchair,11
-2008-03,Snow Patrol,20
-2008-03,The Frames,7
-2008-03,The Reindeer Section,5
-2008-03,The White Stripes,4
-2008-03,The Whitlams,12
-2008-03,U2,227
-2008-04,Arcade Fire,16
-2008-04,Ben Harper,10
-2008-04,Cat Stevens,1
-2008-04,Coldplay,7
-2008-04,Damien Rice,17
-2008-04,Glen Hansard & Markéta Irglová,4
-2008-04,Inxs,32
-2008-04,Jeff Buckley,7
-2008-04,Moby,22
-2008-04,Powderfinger,39
-2008-04,Queen,3
-2008-04,Radiohead,2
-2008-04,Scissor Sisters,4
-2008-04,Silverchair,18
-2008-04,Snow Patrol,43
-2008-04,The Frames,22
-2008-04,The Reindeer Section,9
-2008-04,The White Stripes,2
-2008-04,The Whitlams,8
-2008-04,U2,273
-2008-05,Arcade Fire,8
-2008-05,Ben Harper,18
-2008-05,Cat Stevens,3
-2008-05,Coldplay,12
-2008-05,Damien Rice,5
-2008-05,Glen Hansard & Markéta Irglová,4
-2008-05,Inxs,4
-2008-05,Jeff Buckley,5
-2008-05,Moby,8
-2008-05,Powderfinger,26
-2008-05,Queen,3
-2008-05,Radiohead,1
-2008-05,Scissor Sisters,7
-2008-05,Silverchair,4
-2008-05,Snow Patrol,22
-2008-05,The Frames,5
-2008-05,The Reindeer Section,3
-2008-05,The White Stripes,3
-2008-05,The Whitlams,8
-2008-05,U2,78
-2008-06,Arcade Fire,31
-2008-06,Ben Harper,9
-2008-06,Cat Stevens,2
-2008-06,Coldplay,192
-2008-06,Damien Rice,10
-2008-06,Glen Hansard & Markéta Irglová,1
-2008-06,Inxs,20
-2008-06,Jeff Buckley,7
-2008-06,Moby,60
-2008-06,Powderfinger,7
-2008-06,Queen,5
-2008-06,Radiohead,4
-2008-06,Scissor Sisters,9
-2008-06,Silverchair,21
-2008-06,Snow Patrol,20
-2008-06,The Frames,9
-2008-06,The Reindeer Section,8
-2008-06,The White Stripes,1
-2008-06,The Whitlams,1
-2008-06,U2,183
-2008-07,Arcade Fire,6
-2008-07,Ben Harper,7
-2008-07,Cat Stevens,1
-2008-07,Coldplay,60
-2008-07,Damien Rice,21
-2008-07,Glen Hansard & Markéta Irglová,1
-2008-07,Inxs,30
-2008-07,Jeff Buckley,5
-2008-07,Moby,64
-2008-07,Powderfinger,89
-2008-07,Queen,9
-2008-07,Radiohead,8
-2008-07,Scissor Sisters,13
-2008-07,Silverchair,35
-2008-07,Snow Patrol,79
-2008-07,The Frames,13
-2008-07,The Reindeer Section,5
-2008-07,The White Stripes,8
-2008-07,The Whitlams,9
-2008-07,U2,236
-2008-08,Arcade Fire,4
-2008-08,Ben Harper,12
-2008-08,Cat Stevens,3
-2008-08,Coldplay,15
-2008-08,Damien Rice,26
-2008-08,Glen Hansard & Markéta Irglová,3
-2008-08,Inxs,4
-2008-08,Jeff Buckley,5
-2008-08,Moby,30
-2008-08,Powderfinger,14
-2008-08,Queen,1
-2008-08,Radiohead,3
-2008-08,Scissor Sisters,8
-2008-08,Silverchair,14
-2008-08,Snow Patrol,40
-2008-08,The Frames,12
-2008-08,The Reindeer Section,4
-2008-08,The White Stripes,10
-2008-08,The Whitlams,16
-2008-08,U2,143
-2008-09,Arcade Fire,7
-2008-09,Ben Harper,7
-2008-09,Cat Stevens,0
-2008-09,Coldplay,36
-2008-09,Damien Rice,8
-2008-09,Glen Hansard & Markéta Irglová,3
-2008-09,Inxs,28
-2008-09,Jeff Buckley,1
-2008-09,Moby,43
-2008-09,Powderfinger,13
-2008-09,Queen,2
-2008-09,Radiohead,1
-2008-09,Scissor Sisters,12
-2008-09,Silverchair,7
-2008-09,Snow Patrol,19
-2008-09,The Frames,3
-2008-09,The Reindeer Section,1
-2008-09,The White Stripes,4
-2008-09,The Whitlams,3
-2008-09,U2,139
-2008-10,Arcade Fire,20
-2008-10,Ben Harper,18
-2008-10,Cat Stevens,3
-2008-10,Coldplay,27
-2008-10,Damien Rice,9
-2008-10,Glen Hansard & Markéta Irglová,10
-2008-10,Inxs,9
-2008-10,Jeff Buckley,13
-2008-10,Moby,78
-2008-10,Powderfinger,15
-2008-10,Queen,8
-2008-10,Radiohead,8
-2008-10,Scissor Sisters,17
-2008-10,Silverchair,23
-2008-10,Snow Patrol,100
-2008-10,The Frames,11
-2008-10,The Reindeer Section,22
-2008-10,The White Stripes,18
-2008-10,The Whitlams,15
-2008-10,U2,174
-2008-11,Arcade Fire,6
-2008-11,Ben Harper,12
-2008-11,Cat Stevens,6
-2008-11,Coldplay,11
-2008-11,Damien Rice,16
-2008-11,Glen Hansard & Markéta Irglová,0
-2008-11,Inxs,10
-2008-11,Jeff Buckley,11
-2008-11,Moby,11
-2008-11,Powderfinger,2
-2008-11,Queen,2
-2008-11,Radiohead,1
-2008-11,Scissor Sisters,5
-2008-11,Silverchair,28
-2008-11,Snow Patrol,362
-2008-11,The Frames,0
-2008-11,The Reindeer Section,7
-2008-11,The White Stripes,4
-2008-11,The Whitlams,6
-2008-11,U2,173
-2008-12,Arcade Fire,7
-2008-12,Ben Harper,20
-2008-12,Cat Stevens,7
-2008-12,Coldplay,40
-2008-12,Damien Rice,15
-2008-12,Glen Hansard & Markéta Irglová,11
-2008-12,Inxs,25
-2008-12,Jeff Buckley,1
-2008-12,Moby,35
-2008-12,Powderfinger,5
-2008-12,Queen,1
-2008-12,Radiohead,1
-2008-12,Scissor Sisters,12
-2008-12,Silverchair,4
-2008-12,Snow Patrol,37
-2008-12,The Frames,6
-2008-12,The Reindeer Section,1
-2008-12,The White Stripes,26
-2008-12,The Whitlams,7
-2008-12,U2,151
-2009-01,Arcade Fire,14
-2009-01,Ben Harper,5
-2009-01,Cat Stevens,1
-2009-01,Coldplay,18
-2009-01,Damien Rice,11
-2009-01,Glen Hansard & Markéta Irglová,1
-2009-01,Inxs,9
-2009-01,Jeff Buckley,4
-2009-01,Moby,68
-2009-01,Powderfinger,0
-2009-01,Queen,1
-2009-01,Radiohead,0
-2009-01,Scissor Sisters,22
-2009-01,Silverchair,3
-2009-01,Snow Patrol,37
-2009-01,The Frames,12
-2009-01,The Reindeer Section,5
-2009-01,The White Stripes,22
-2009-01,The Whitlams,4
-2009-01,U2,136
-2009-02,Arcade Fire,2
-2009-02,Ben Harper,10
-2009-02,Cat Stevens,5
-2009-02,Coldplay,49
-2009-02,Damien Rice,10
-2009-02,Glen Hansard & Markéta Irglová,1
-2009-02,Inxs,15
-2009-02,Jeff Buckley,2
-2009-02,Moby,19
-2009-02,Powderfinger,5
-2009-02,Queen,2
-2009-02,Radiohead,4
-2009-02,Scissor Sisters,6
-2009-02,Silverchair,8
-2009-02,Snow Patrol,32
-2009-02,The Frames,6
-2009-02,The Reindeer Section,5
-2009-02,The White Stripes,8
-2009-02,The Whitlams,2
-2009-02,U2,114
-2009-03,Arcade Fire,4
-2009-03,Ben Harper,4
-2009-03,Cat Stevens,2
-2009-03,Coldplay,9
-2009-03,Damien Rice,13
-2009-03,Glen Hansard & Markéta Irglová,1
-2009-03,Inxs,4
-2009-03,Jeff Buckley,0
-2009-03,Moby,16
-2009-03,Powderfinger,3
-2009-03,Queen,3
-2009-03,Radiohead,2
-2009-03,Scissor Sisters,4
-2009-03,Silverchair,0
-2009-03,Snow Patrol,12
-2009-03,The Frames,1
-2009-03,The Reindeer Section,2
-2009-03,The White Stripes,2
-2009-03,The Whitlams,1
-2009-03,U2,129
-2009-04,Arcade Fire,3
-2009-04,Ben Harper,3
-2009-04,Cat Stevens,1
-2009-04,Coldplay,35
-2009-04,Damien Rice,4
-2009-04,Glen Hansard & Markéta Irglová,1
-2009-04,Inxs,15
-2009-04,Jeff Buckley,0
-2009-04,Moby,4
-2009-04,Powderfinger,2
-2009-04,Queen,0
-2009-04,Radiohead,5
-2009-04,Scissor Sisters,2
-2009-04,Silverchair,6
-2009-04,Snow Patrol,16
-2009-04,The Frames,1
-2009-04,The Reindeer Section,2
-2009-04,The White Stripes,1
-2009-04,The Whitlams,2
-2009-04,U2,110
+"month","artist","plays"
+"2007-06","Arcade Fire",4
+"2007-06","Ben Harper",7
+"2007-06","Cat Stevens",3
+"2007-06","Coldplay",1
+"2007-06","Damien Rice",6
+"2007-06","Glen Hansard & Markéta Irglová",2
+"2007-06","Inxs",4
+"2007-06","Jeff Buckley",2
+"2007-06","Moby",12
+"2007-06","Powderfinger",7
+"2007-06","Queen",3
+"2007-06","Radiohead",0
+"2007-06","Scissor Sisters",2
+"2007-06","Silverchair",6
+"2007-06","Snow Patrol",4
+"2007-06","The Frames",4
+"2007-06","The Reindeer Section",3
+"2007-06","The White Stripes",1
+"2007-06","The Whitlams",1
+"2007-06","U2",24
+"2007-07","Arcade Fire",8
+"2007-07","Ben Harper",26
+"2007-07","Cat Stevens",12
+"2007-07","Coldplay",14
+"2007-07","Damien Rice",27
+"2007-07","Glen Hansard & Markéta Irglová",9
+"2007-07","Inxs",9
+"2007-07","Jeff Buckley",14
+"2007-07","Moby",38
+"2007-07","Powderfinger",43
+"2007-07","Queen",8
+"2007-07","Radiohead",7
+"2007-07","Scissor Sisters",12
+"2007-07","Silverchair",26
+"2007-07","Snow Patrol",36
+"2007-07","The Frames",14
+"2007-07","The Reindeer Section",11
+"2007-07","The White Stripes",13
+"2007-07","The Whitlams",29
+"2007-07","U2",128
+"2007-08","Arcade Fire",18
+"2007-08","Ben Harper",44
+"2007-08","Cat Stevens",11
+"2007-08","Coldplay",14
+"2007-08","Damien Rice",43
+"2007-08","Glen Hansard & Markéta Irglová",11
+"2007-08","Inxs",16
+"2007-08","Jeff Buckley",23
+"2007-08","Moby",38
+"2007-08","Powderfinger",97
+"2007-08","Queen",10
+"2007-08","Radiohead",4
+"2007-08","Scissor Sisters",14
+"2007-08","Silverchair",125
+"2007-08","Snow Patrol",99
+"2007-08","The Frames",45
+"2007-08","The Reindeer Section",22
+"2007-08","The White Stripes",75
+"2007-08","The Whitlams",24
+"2007-08","U2",369
+"2007-09","Arcade Fire",3
+"2007-09","Ben Harper",18
+"2007-09","Cat Stevens",3
+"2007-09","Coldplay",8
+"2007-09","Damien Rice",35
+"2007-09","Glen Hansard & Markéta Irglová",1
+"2007-09","Inxs",8
+"2007-09","Jeff Buckley",7
+"2007-09","Moby",12
+"2007-09","Powderfinger",181
+"2007-09","Queen",2
+"2007-09","Radiohead",5
+"2007-09","Scissor Sisters",18
+"2007-09","Silverchair",141
+"2007-09","Snow Patrol",104
+"2007-09","The Frames",5
+"2007-09","The Reindeer Section",4
+"2007-09","The White Stripes",30
+"2007-09","The Whitlams",4
+"2007-09","U2",184
+"2007-10","Arcade Fire",10
+"2007-10","Ben Harper",31
+"2007-10","Cat Stevens",4
+"2007-10","Coldplay",15
+"2007-10","Damien Rice",16
+"2007-10","Glen Hansard & Markéta Irglová",3
+"2007-10","Inxs",18
+"2007-10","Jeff Buckley",10
+"2007-10","Moby",31
+"2007-10","Powderfinger",23
+"2007-10","Queen",7
+"2007-10","Radiohead",8
+"2007-10","Scissor Sisters",14
+"2007-10","Silverchair",21
+"2007-10","Snow Patrol",41
+"2007-10","The Frames",4
+"2007-10","The Reindeer Section",10
+"2007-10","The White Stripes",8
+"2007-10","The Whitlams",0
+"2007-10","U2",227
+"2007-11","Arcade Fire",9
+"2007-11","Ben Harper",17
+"2007-11","Cat Stevens",6
+"2007-11","Coldplay",10
+"2007-11","Damien Rice",28
+"2007-11","Glen Hansard & Markéta Irglová",4
+"2007-11","Inxs",20
+"2007-11","Jeff Buckley",9
+"2007-11","Moby",20
+"2007-11","Powderfinger",9
+"2007-11","Queen",7
+"2007-11","Radiohead",6
+"2007-11","Scissor Sisters",13
+"2007-11","Silverchair",27
+"2007-11","Snow Patrol",36
+"2007-11","The Frames",7
+"2007-11","The Reindeer Section",13
+"2007-11","The White Stripes",8
+"2007-11","The Whitlams",2
+"2007-11","U2",148
+"2007-12","Arcade Fire",5
+"2007-12","Ben Harper",6
+"2007-12","Cat Stevens",2
+"2007-12","Coldplay",8
+"2007-12","Damien Rice",8
+"2007-12","Glen Hansard & Markéta Irglová",2
+"2007-12","Inxs",16
+"2007-12","Jeff Buckley",14
+"2007-12","Moby",19
+"2007-12","Powderfinger",17
+"2007-12","Queen",5
+"2007-12","Radiohead",8
+"2007-12","Scissor Sisters",5
+"2007-12","Silverchair",31
+"2007-12","Snow Patrol",28
+"2007-12","The Frames",3
+"2007-12","The Reindeer Section",9
+"2007-12","The White Stripes",2
+"2007-12","The Whitlams",1
+"2007-12","U2",87
+"2008-01","Arcade Fire",33
+"2008-01","Ben Harper",9
+"2008-01","Cat Stevens",0
+"2008-01","Coldplay",5
+"2008-01","Damien Rice",14
+"2008-01","Glen Hansard & Markéta Irglová",1
+"2008-01","Inxs",25
+"2008-01","Jeff Buckley",7
+"2008-01","Moby",15
+"2008-01","Powderfinger",39
+"2008-01","Queen",1
+"2008-01","Radiohead",7
+"2008-01","Scissor Sisters",4
+"2008-01","Silverchair",25
+"2008-01","Snow Patrol",37
+"2008-01","The Frames",81
+"2008-01","The Reindeer Section",13
+"2008-01","The White Stripes",2
+"2008-01","The Whitlams",1
+"2008-01","U2",131
+"2008-02","Arcade Fire",17
+"2008-02","Ben Harper",17
+"2008-02","Cat Stevens",2
+"2008-02","Coldplay",15
+"2008-02","Damien Rice",20
+"2008-02","Glen Hansard & Markéta Irglová",3
+"2008-02","Inxs",78
+"2008-02","Jeff Buckley",12
+"2008-02","Moby",27
+"2008-02","Powderfinger",40
+"2008-02","Queen",7
+"2008-02","Radiohead",15
+"2008-02","Scissor Sisters",10
+"2008-02","Silverchair",45
+"2008-02","Snow Patrol",44
+"2008-02","The Frames",13
+"2008-02","The Reindeer Section",17
+"2008-02","The White Stripes",10
+"2008-02","The Whitlams",13
+"2008-02","U2",286
+"2008-03","Arcade Fire",5
+"2008-03","Ben Harper",14
+"2008-03","Cat Stevens",3
+"2008-03","Coldplay",3
+"2008-03","Damien Rice",6
+"2008-03","Glen Hansard & Markéta Irglová",1
+"2008-03","Inxs",9
+"2008-03","Jeff Buckley",5
+"2008-03","Moby",18
+"2008-03","Powderfinger",8
+"2008-03","Queen",2
+"2008-03","Radiohead",2
+"2008-03","Scissor Sisters",9
+"2008-03","Silverchair",11
+"2008-03","Snow Patrol",20
+"2008-03","The Frames",7
+"2008-03","The Reindeer Section",5
+"2008-03","The White Stripes",4
+"2008-03","The Whitlams",12
+"2008-03","U2",227
+"2008-04","Arcade Fire",16
+"2008-04","Ben Harper",10
+"2008-04","Cat Stevens",1
+"2008-04","Coldplay",7
+"2008-04","Damien Rice",17
+"2008-04","Glen Hansard & Markéta Irglová",4
+"2008-04","Inxs",32
+"2008-04","Jeff Buckley",7
+"2008-04","Moby",22
+"2008-04","Powderfinger",39
+"2008-04","Queen",3
+"2008-04","Radiohead",2
+"2008-04","Scissor Sisters",4
+"2008-04","Silverchair",18
+"2008-04","Snow Patrol",43
+"2008-04","The Frames",22
+"2008-04","The Reindeer Section",9
+"2008-04","The White Stripes",2
+"2008-04","The Whitlams",8
+"2008-04","U2",273
+"2008-05","Arcade Fire",8
+"2008-05","Ben Harper",18
+"2008-05","Cat Stevens",3
+"2008-05","Coldplay",12
+"2008-05","Damien Rice",5
+"2008-05","Glen Hansard & Markéta Irglová",4
+"2008-05","Inxs",4
+"2008-05","Jeff Buckley",5
+"2008-05","Moby",8
+"2008-05","Powderfinger",26
+"2008-05","Queen",3
+"2008-05","Radiohead",1
+"2008-05","Scissor Sisters",7
+"2008-05","Silverchair",4
+"2008-05","Snow Patrol",22
+"2008-05","The Frames",5
+"2008-05","The Reindeer Section",3
+"2008-05","The White Stripes",3
+"2008-05","The Whitlams",8
+"2008-05","U2",78
+"2008-06","Arcade Fire",31
+"2008-06","Ben Harper",9
+"2008-06","Cat Stevens",2
+"2008-06","Coldplay",192
+"2008-06","Damien Rice",10
+"2008-06","Glen Hansard & Markéta Irglová",1
+"2008-06","Inxs",20
+"2008-06","Jeff Buckley",7
+"2008-06","Moby",60
+"2008-06","Powderfinger",7
+"2008-06","Queen",5
+"2008-06","Radiohead",4
+"2008-06","Scissor Sisters",9
+"2008-06","Silverchair",21
+"2008-06","Snow Patrol",20
+"2008-06","The Frames",9
+"2008-06","The Reindeer Section",8
+"2008-06","The White Stripes",1
+"2008-06","The Whitlams",1
+"2008-06","U2",183
+"2008-07","Arcade Fire",6
+"2008-07","Ben Harper",7
+"2008-07","Cat Stevens",1
+"2008-07","Coldplay",60
+"2008-07","Damien Rice",21
+"2008-07","Glen Hansard & Markéta Irglová",1
+"2008-07","Inxs",30
+"2008-07","Jeff Buckley",5
+"2008-07","Moby",64
+"2008-07","Powderfinger",89
+"2008-07","Queen",9
+"2008-07","Radiohead",8
+"2008-07","Scissor Sisters",13
+"2008-07","Silverchair",35
+"2008-07","Snow Patrol",79
+"2008-07","The Frames",13
+"2008-07","The Reindeer Section",5
+"2008-07","The White Stripes",8
+"2008-07","The Whitlams",9
+"2008-07","U2",236
+"2008-08","Arcade Fire",4
+"2008-08","Ben Harper",12
+"2008-08","Cat Stevens",3
+"2008-08","Coldplay",15
+"2008-08","Damien Rice",26
+"2008-08","Glen Hansard & Markéta Irglová",3
+"2008-08","Inxs",4
+"2008-08","Jeff Buckley",5
+"2008-08","Moby",30
+"2008-08","Powderfinger",14
+"2008-08","Queen",1
+"2008-08","Radiohead",3
+"2008-08","Scissor Sisters",8
+"2008-08","Silverchair",14
+"2008-08","Snow Patrol",40
+"2008-08","The Frames",12
+"2008-08","The Reindeer Section",4
+"2008-08","The White Stripes",10
+"2008-08","The Whitlams",16
+"2008-08","U2",143
+"2008-09","Arcade Fire",7
+"2008-09","Ben Harper",7
+"2008-09","Cat Stevens",0
+"2008-09","Coldplay",36
+"2008-09","Damien Rice",8
+"2008-09","Glen Hansard & Markéta Irglová",3
+"2008-09","Inxs",28
+"2008-09","Jeff Buckley",1
+"2008-09","Moby",43
+"2008-09","Powderfinger",13
+"2008-09","Queen",2
+"2008-09","Radiohead",1
+"2008-09","Scissor Sisters",12
+"2008-09","Silverchair",7
+"2008-09","Snow Patrol",19
+"2008-09","The Frames",3
+"2008-09","The Reindeer Section",1
+"2008-09","The White Stripes",4
+"2008-09","The Whitlams",3
+"2008-09","U2",139
+"2008-10","Arcade Fire",20
+"2008-10","Ben Harper",18
+"2008-10","Cat Stevens",3
+"2008-10","Coldplay",27
+"2008-10","Damien Rice",9
+"2008-10","Glen Hansard & Markéta Irglová",10
+"2008-10","Inxs",9
+"2008-10","Jeff Buckley",13
+"2008-10","Moby",78
+"2008-10","Powderfinger",15
+"2008-10","Queen",8
+"2008-10","Radiohead",8
+"2008-10","Scissor Sisters",17
+"2008-10","Silverchair",23
+"2008-10","Snow Patrol",100
+"2008-10","The Frames",11
+"2008-10","The Reindeer Section",22
+"2008-10","The White Stripes",18
+"2008-10","The Whitlams",15
+"2008-10","U2",174
+"2008-11","Arcade Fire",6
+"2008-11","Ben Harper",12
+"2008-11","Cat Stevens",6
+"2008-11","Coldplay",11
+"2008-11","Damien Rice",16
+"2008-11","Glen Hansard & Markéta Irglová",0
+"2008-11","Inxs",10
+"2008-11","Jeff Buckley",11
+"2008-11","Moby",11
+"2008-11","Powderfinger",2
+"2008-11","Queen",2
+"2008-11","Radiohead",1
+"2008-11","Scissor Sisters",5
+"2008-11","Silverchair",28
+"2008-11","Snow Patrol",362
+"2008-11","The Frames",0
+"2008-11","The Reindeer Section",7
+"2008-11","The White Stripes",4
+"2008-11","The Whitlams",6
+"2008-11","U2",173
+"2008-12","Arcade Fire",7
+"2008-12","Ben Harper",20
+"2008-12","Cat Stevens",7
+"2008-12","Coldplay",40
+"2008-12","Damien Rice",15
+"2008-12","Glen Hansard & Markéta Irglová",11
+"2008-12","Inxs",25
+"2008-12","Jeff Buckley",1
+"2008-12","Moby",35
+"2008-12","Powderfinger",5
+"2008-12","Queen",1
+"2008-12","Radiohead",1
+"2008-12","Scissor Sisters",12
+"2008-12","Silverchair",4
+"2008-12","Snow Patrol",37
+"2008-12","The Frames",6
+"2008-12","The Reindeer Section",1
+"2008-12","The White Stripes",26
+"2008-12","The Whitlams",7
+"2008-12","U2",151
+"2009-01","Arcade Fire",14
+"2009-01","Ben Harper",5
+"2009-01","Cat Stevens",1
+"2009-01","Coldplay",18
+"2009-01","Damien Rice",11
+"2009-01","Glen Hansard & Markéta Irglová",1
+"2009-01","Inxs",9
+"2009-01","Jeff Buckley",4
+"2009-01","Moby",68
+"2009-01","Powderfinger",0
+"2009-01","Queen",1
+"2009-01","Radiohead",0
+"2009-01","Scissor Sisters",22
+"2009-01","Silverchair",3
+"2009-01","Snow Patrol",37
+"2009-01","The Frames",12
+"2009-01","The Reindeer Section",5
+"2009-01","The White Stripes",22
+"2009-01","The Whitlams",4
+"2009-01","U2",136
+"2009-02","Arcade Fire",2
+"2009-02","Ben Harper",10
+"2009-02","Cat Stevens",5
+"2009-02","Coldplay",49
+"2009-02","Damien Rice",10
+"2009-02","Glen Hansard & Markéta Irglová",1
+"2009-02","Inxs",15
+"2009-02","Jeff Buckley",2
+"2009-02","Moby",19
+"2009-02","Powderfinger",5
+"2009-02","Queen",2
+"2009-02","Radiohead",4
+"2009-02","Scissor Sisters",6
+"2009-02","Silverchair",8
+"2009-02","Snow Patrol",32
+"2009-02","The Frames",6
+"2009-02","The Reindeer Section",5
+"2009-02","The White Stripes",8
+"2009-02","The Whitlams",2
+"2009-02","U2",114
+"2009-03","Arcade Fire",4
+"2009-03","Ben Harper",4
+"2009-03","Cat Stevens",2
+"2009-03","Coldplay",9
+"2009-03","Damien Rice",13
+"2009-03","Glen Hansard & Markéta Irglová",1
+"2009-03","Inxs",4
+"2009-03","Jeff Buckley",0
+"2009-03","Moby",16
+"2009-03","Powderfinger",3
+"2009-03","Queen",3
+"2009-03","Radiohead",2
+"2009-03","Scissor Sisters",4
+"2009-03","Silverchair",0
+"2009-03","Snow Patrol",12
+"2009-03","The Frames",1
+"2009-03","The Reindeer Section",2
+"2009-03","The White Stripes",2
+"2009-03","The Whitlams",1
+"2009-03","U2",129
+"2009-04","Arcade Fire",3
+"2009-04","Ben Harper",3
+"2009-04","Cat Stevens",1
+"2009-04","Coldplay",35
+"2009-04","Damien Rice",4
+"2009-04","Glen Hansard & Markéta Irglová",1
+"2009-04","Inxs",15
+"2009-04","Jeff Buckley",0
+"2009-04","Moby",4
+"2009-04","Powderfinger",2
+"2009-04","Queen",0
+"2009-04","Radiohead",5
+"2009-04","Scissor Sisters",2
+"2009-04","Silverchair",6
+"2009-04","Snow Patrol",16
+"2009-04","The Frames",1
+"2009-04","The Reindeer Section",2
+"2009-04","The White Stripes",1
+"2009-04","The Whitlams",2
+"2009-04","U2",110

@@ -1,61 +1,61 @@
-month,artist,plays
-2009-03,A. R. Rahman & M.I.A.,0
-2009-03,A. R. Rahman Featuring Alka Yagnik And Ila Arun,0
-2009-03,A. R. Rahman Featuring Blaaze And Tanvi Shah,0
-2009-03,A. R. Rahman Featuring Madhumitha,0
-2009-03,A. R. Rahman Featuring Palakkad Sriram And Madhumitha,0
-2009-03,A. R. Rahman Featuring Sukhwinder Singh, Tanvi Shah And Mahalakshmi Iyer,0
-2009-03,A. R. Rahman Featuring Suzanne D'Mello,0
-2009-03,Annie Lennox,1
-2009-03,Carter Burwell,0
-2009-03,Danny Elfman,0
-2009-03,Don Corleon,0
-2009-03,Edward Shearmur,0
-2009-03,Ennio Morricone,33
-2009-03,Hans Zimmer,0
-2009-03,Iron & Wine,0
-2009-03,James Horner,0
-2009-03,John Cooper Clarke,0
-2009-03,Joy Division,0
-2009-03,M.I.A.,0
-2009-03,Massive Attack,0
-2009-04,A. R. Rahman & M.I.A.,3
-2009-04,A. R. Rahman Featuring Alka Yagnik And Ila Arun,2
-2009-04,A. R. Rahman Featuring Blaaze And Tanvi Shah,1
-2009-04,A. R. Rahman Featuring Madhumitha,1
-2009-04,A. R. Rahman Featuring Palakkad Sriram And Madhumitha,1
-2009-04,A. R. Rahman Featuring Sukhwinder Singh, Tanvi Shah And Mahalakshmi Iyer,4
-2009-04,A. R. Rahman Featuring Suzanne D'Mello,13
-2009-04,Annie Lennox,0
-2009-04,Carter Burwell,1
-2009-04,Danny Elfman,1
-2009-04,Don Corleon,0
-2009-04,Edward Shearmur,1
-2009-04,Ennio Morricone,14
-2009-04,Hans Zimmer,1
-2009-04,Iron & Wine,3
-2009-04,James Horner,2
-2009-04,John Cooper Clarke,1
-2009-04,Joy Division,1
-2009-04,M.I.A.,2
-2009-04,Massive Attack,20
-2009-05,A. R. Rahman & M.I.A.,0
-2009-05,A. R. Rahman Featuring Alka Yagnik And Ila Arun,0
-2009-05,A. R. Rahman Featuring Blaaze And Tanvi Shah,0
-2009-05,A. R. Rahman Featuring Madhumitha,0
-2009-05,A. R. Rahman Featuring Palakkad Sriram And Madhumitha,0
-2009-05,A. R. Rahman Featuring Sukhwinder Singh, Tanvi Shah And Mahalakshmi Iyer,0
-2009-05,A. R. Rahman Featuring Suzanne D'Mello,0
-2009-05,Annie Lennox,0
-2009-05,Carter Burwell,0
-2009-05,Danny Elfman,0
-2009-05,Don Corleon,1
-2009-05,Edward Shearmur,0
-2009-05,Ennio Morricone,0
-2009-05,Hans Zimmer,0
-2009-05,Iron & Wine,0
-2009-05,James Horner,0
-2009-05,John Cooper Clarke,0
-2009-05,Joy Division,0
-2009-05,M.I.A.,0
-2009-05,Massive Attack,0
+"month","artist","plays"
+"2009-03","A. R. Rahman & M.I.A.",0
+"2009-03","A. R. Rahman Featuring Alka Yagnik And Ila Arun",0
+"2009-03","A. R. Rahman Featuring Blaaze And Tanvi Shah",0
+"2009-03","A. R. Rahman Featuring Madhumitha",0
+"2009-03","A. R. Rahman Featuring Palakkad Sriram And Madhumitha",0
+"2009-03","A. R. Rahman Featuring Sukhwinder Singh, Tanvi Shah And Mahalakshmi Iyer",0
+"2009-03","A. R. Rahman Featuring Suzanne D'Mello",0
+"2009-03","Annie Lennox",1
+"2009-03","Carter Burwell",0
+"2009-03","Danny Elfman",0
+"2009-03","Don Corleon",0
+"2009-03","Edward Shearmur",0
+"2009-03","Ennio Morricone",33
+"2009-03","Hans Zimmer",0
+"2009-03","Iron & Wine",0
+"2009-03","James Horner",0
+"2009-03","John Cooper Clarke",0
+"2009-03","Joy Division",0
+"2009-03","M.I.A.",0
+"2009-03","Massive Attack",0
+"2009-04","A. R. Rahman & M.I.A.",3
+"2009-04","A. R. Rahman Featuring Alka Yagnik And Ila Arun",2
+"2009-04","A. R. Rahman Featuring Blaaze And Tanvi Shah",1
+"2009-04","A. R. Rahman Featuring Madhumitha",1
+"2009-04","A. R. Rahman Featuring Palakkad Sriram And Madhumitha",1
+"2009-04","A. R. Rahman Featuring Sukhwinder Singh, Tanvi Shah And Mahalakshmi Iyer",4
+"2009-04","A. R. Rahman Featuring Suzanne D'Mello",13
+"2009-04","Annie Lennox",0
+"2009-04","Carter Burwell",1
+"2009-04","Danny Elfman",1
+"2009-04","Don Corleon",0
+"2009-04","Edward Shearmur",1
+"2009-04","Ennio Morricone",14
+"2009-04","Hans Zimmer",1
+"2009-04","Iron & Wine",3
+"2009-04","James Horner",2
+"2009-04","John Cooper Clarke",1
+"2009-04","Joy Division",1
+"2009-04","M.I.A.",2
+"2009-04","Massive Attack",20
+"2009-05","A. R. Rahman & M.I.A.",0
+"2009-05","A. R. Rahman Featuring Alka Yagnik And Ila Arun",0
+"2009-05","A. R. Rahman Featuring Blaaze And Tanvi Shah",0
+"2009-05","A. R. Rahman Featuring Madhumitha",0
+"2009-05","A. R. Rahman Featuring Palakkad Sriram And Madhumitha",0
+"2009-05","A. R. Rahman Featuring Sukhwinder Singh, Tanvi Shah And Mahalakshmi Iyer",0
+"2009-05","A. R. Rahman Featuring Suzanne D'Mello",0
+"2009-05","Annie Lennox",0
+"2009-05","Carter Burwell",0
+"2009-05","Danny Elfman",0
+"2009-05","Don Corleon",1
+"2009-05","Edward Shearmur",0
+"2009-05","Ennio Morricone",0
+"2009-05","Hans Zimmer",0
+"2009-05","Iron & Wine",0
+"2009-05","James Horner",0
+"2009-05","John Cooper Clarke",0
+"2009-05","Joy Division",0
+"2009-05","M.I.A.",0
+"2009-05","Massive Attack",0

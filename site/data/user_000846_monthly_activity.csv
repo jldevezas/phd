@@ -1,401 +1,401 @@
-month,artist,plays
-2007-01,50 Cent,2
-2007-01,Avril Lavigne,0
-2007-01,Barry White,1
-2007-01,Blue October,1
-2007-01,Bob Sinclar Feat. Gary Nesta Pine,1
-2007-01,Bon Jovi,1
-2007-01,Damian Marley,1
-2007-01,Eminem,18
-2007-01,Goldfrapp,1
-2007-01,Gustavo Celis,0
-2007-01,Jack Black,1
-2007-01,Kasabian,2
-2007-01,Kelly Clarkson,1
-2007-01,Leon Jackson,0
-2007-01,Lionel Richie,1
-2007-01,Lost,0
-2007-01,Mattafix,1
-2007-01,Michael Jackson,2
-2007-01,Muse,7
-2007-01,The Killers,7
-2007-02,50 Cent,0
-2007-02,Avril Lavigne,0
-2007-02,Barry White,0
-2007-02,Blue October,0
-2007-02,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-02,Bon Jovi,0
-2007-02,Damian Marley,0
-2007-02,Eminem,0
-2007-02,Goldfrapp,0
-2007-02,Gustavo Celis,0
-2007-02,Jack Black,0
-2007-02,Kasabian,0
-2007-02,Kelly Clarkson,0
-2007-02,Leon Jackson,0
-2007-02,Lionel Richie,0
-2007-02,Lost,0
-2007-02,Mattafix,0
-2007-02,Michael Jackson,0
-2007-02,Muse,0
-2007-02,The Killers,0
-2007-03,50 Cent,0
-2007-03,Avril Lavigne,0
-2007-03,Barry White,0
-2007-03,Blue October,0
-2007-03,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-03,Bon Jovi,0
-2007-03,Damian Marley,0
-2007-03,Eminem,0
-2007-03,Goldfrapp,0
-2007-03,Gustavo Celis,0
-2007-03,Jack Black,0
-2007-03,Kasabian,0
-2007-03,Kelly Clarkson,0
-2007-03,Leon Jackson,0
-2007-03,Lionel Richie,0
-2007-03,Lost,0
-2007-03,Mattafix,0
-2007-03,Michael Jackson,0
-2007-03,Muse,0
-2007-03,The Killers,0
-2007-04,50 Cent,0
-2007-04,Avril Lavigne,0
-2007-04,Barry White,0
-2007-04,Blue October,0
-2007-04,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-04,Bon Jovi,0
-2007-04,Damian Marley,0
-2007-04,Eminem,0
-2007-04,Goldfrapp,0
-2007-04,Gustavo Celis,0
-2007-04,Jack Black,0
-2007-04,Kasabian,0
-2007-04,Kelly Clarkson,0
-2007-04,Leon Jackson,0
-2007-04,Lionel Richie,0
-2007-04,Lost,0
-2007-04,Mattafix,0
-2007-04,Michael Jackson,0
-2007-04,Muse,0
-2007-04,The Killers,0
-2007-05,50 Cent,0
-2007-05,Avril Lavigne,0
-2007-05,Barry White,0
-2007-05,Blue October,0
-2007-05,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-05,Bon Jovi,0
-2007-05,Damian Marley,0
-2007-05,Eminem,0
-2007-05,Goldfrapp,0
-2007-05,Gustavo Celis,0
-2007-05,Jack Black,0
-2007-05,Kasabian,0
-2007-05,Kelly Clarkson,0
-2007-05,Leon Jackson,0
-2007-05,Lionel Richie,0
-2007-05,Lost,0
-2007-05,Mattafix,0
-2007-05,Michael Jackson,0
-2007-05,Muse,0
-2007-05,The Killers,0
-2007-06,50 Cent,0
-2007-06,Avril Lavigne,0
-2007-06,Barry White,0
-2007-06,Blue October,0
-2007-06,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-06,Bon Jovi,0
-2007-06,Damian Marley,0
-2007-06,Eminem,0
-2007-06,Goldfrapp,0
-2007-06,Gustavo Celis,0
-2007-06,Jack Black,0
-2007-06,Kasabian,0
-2007-06,Kelly Clarkson,0
-2007-06,Leon Jackson,0
-2007-06,Lionel Richie,0
-2007-06,Lost,0
-2007-06,Mattafix,0
-2007-06,Michael Jackson,0
-2007-06,Muse,0
-2007-06,The Killers,0
-2007-07,50 Cent,0
-2007-07,Avril Lavigne,0
-2007-07,Barry White,0
-2007-07,Blue October,0
-2007-07,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-07,Bon Jovi,0
-2007-07,Damian Marley,0
-2007-07,Eminem,0
-2007-07,Goldfrapp,0
-2007-07,Gustavo Celis,0
-2007-07,Jack Black,0
-2007-07,Kasabian,0
-2007-07,Kelly Clarkson,0
-2007-07,Leon Jackson,0
-2007-07,Lionel Richie,0
-2007-07,Lost,0
-2007-07,Mattafix,0
-2007-07,Michael Jackson,0
-2007-07,Muse,0
-2007-07,The Killers,0
-2007-08,50 Cent,0
-2007-08,Avril Lavigne,0
-2007-08,Barry White,0
-2007-08,Blue October,0
-2007-08,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-08,Bon Jovi,0
-2007-08,Damian Marley,0
-2007-08,Eminem,0
-2007-08,Goldfrapp,0
-2007-08,Gustavo Celis,0
-2007-08,Jack Black,0
-2007-08,Kasabian,0
-2007-08,Kelly Clarkson,0
-2007-08,Leon Jackson,0
-2007-08,Lionel Richie,0
-2007-08,Lost,0
-2007-08,Mattafix,0
-2007-08,Michael Jackson,0
-2007-08,Muse,0
-2007-08,The Killers,0
-2007-09,50 Cent,0
-2007-09,Avril Lavigne,0
-2007-09,Barry White,0
-2007-09,Blue October,0
-2007-09,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-09,Bon Jovi,0
-2007-09,Damian Marley,0
-2007-09,Eminem,0
-2007-09,Goldfrapp,0
-2007-09,Gustavo Celis,0
-2007-09,Jack Black,0
-2007-09,Kasabian,0
-2007-09,Kelly Clarkson,0
-2007-09,Leon Jackson,0
-2007-09,Lionel Richie,0
-2007-09,Lost,0
-2007-09,Mattafix,0
-2007-09,Michael Jackson,0
-2007-09,Muse,0
-2007-09,The Killers,0
-2007-10,50 Cent,0
-2007-10,Avril Lavigne,0
-2007-10,Barry White,0
-2007-10,Blue October,0
-2007-10,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-10,Bon Jovi,0
-2007-10,Damian Marley,0
-2007-10,Eminem,0
-2007-10,Goldfrapp,0
-2007-10,Gustavo Celis,0
-2007-10,Jack Black,0
-2007-10,Kasabian,0
-2007-10,Kelly Clarkson,0
-2007-10,Leon Jackson,0
-2007-10,Lionel Richie,0
-2007-10,Lost,0
-2007-10,Mattafix,0
-2007-10,Michael Jackson,0
-2007-10,Muse,0
-2007-10,The Killers,0
-2007-11,50 Cent,0
-2007-11,Avril Lavigne,0
-2007-11,Barry White,0
-2007-11,Blue October,0
-2007-11,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-11,Bon Jovi,0
-2007-11,Damian Marley,0
-2007-11,Eminem,0
-2007-11,Goldfrapp,0
-2007-11,Gustavo Celis,0
-2007-11,Jack Black,0
-2007-11,Kasabian,0
-2007-11,Kelly Clarkson,0
-2007-11,Leon Jackson,0
-2007-11,Lionel Richie,0
-2007-11,Lost,0
-2007-11,Mattafix,0
-2007-11,Michael Jackson,0
-2007-11,Muse,0
-2007-11,The Killers,0
-2007-12,50 Cent,0
-2007-12,Avril Lavigne,0
-2007-12,Barry White,0
-2007-12,Blue October,0
-2007-12,Bob Sinclar Feat. Gary Nesta Pine,0
-2007-12,Bon Jovi,0
-2007-12,Damian Marley,0
-2007-12,Eminem,0
-2007-12,Goldfrapp,0
-2007-12,Gustavo Celis,0
-2007-12,Jack Black,0
-2007-12,Kasabian,0
-2007-12,Kelly Clarkson,0
-2007-12,Leon Jackson,0
-2007-12,Lionel Richie,0
-2007-12,Lost,0
-2007-12,Mattafix,0
-2007-12,Michael Jackson,0
-2007-12,Muse,0
-2007-12,The Killers,0
-2008-01,50 Cent,0
-2008-01,Avril Lavigne,5
-2008-01,Barry White,0
-2008-01,Blue October,0
-2008-01,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-01,Bon Jovi,0
-2008-01,Damian Marley,0
-2008-01,Eminem,0
-2008-01,Goldfrapp,0
-2008-01,Gustavo Celis,0
-2008-01,Jack Black,0
-2008-01,Kasabian,0
-2008-01,Kelly Clarkson,0
-2008-01,Leon Jackson,1
-2008-01,Lionel Richie,0
-2008-01,Lost,2
-2008-01,Mattafix,0
-2008-01,Michael Jackson,0
-2008-01,Muse,0
-2008-01,The Killers,17
-2008-02,50 Cent,0
-2008-02,Avril Lavigne,0
-2008-02,Barry White,0
-2008-02,Blue October,0
-2008-02,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-02,Bon Jovi,0
-2008-02,Damian Marley,0
-2008-02,Eminem,0
-2008-02,Goldfrapp,0
-2008-02,Gustavo Celis,0
-2008-02,Jack Black,0
-2008-02,Kasabian,0
-2008-02,Kelly Clarkson,0
-2008-02,Leon Jackson,0
-2008-02,Lionel Richie,0
-2008-02,Lost,0
-2008-02,Mattafix,0
-2008-02,Michael Jackson,0
-2008-02,Muse,0
-2008-02,The Killers,0
-2008-03,50 Cent,0
-2008-03,Avril Lavigne,0
-2008-03,Barry White,0
-2008-03,Blue October,0
-2008-03,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-03,Bon Jovi,0
-2008-03,Damian Marley,0
-2008-03,Eminem,0
-2008-03,Goldfrapp,0
-2008-03,Gustavo Celis,0
-2008-03,Jack Black,0
-2008-03,Kasabian,0
-2008-03,Kelly Clarkson,0
-2008-03,Leon Jackson,0
-2008-03,Lionel Richie,0
-2008-03,Lost,0
-2008-03,Mattafix,0
-2008-03,Michael Jackson,0
-2008-03,Muse,0
-2008-03,The Killers,0
-2008-04,50 Cent,0
-2008-04,Avril Lavigne,0
-2008-04,Barry White,0
-2008-04,Blue October,0
-2008-04,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-04,Bon Jovi,0
-2008-04,Damian Marley,0
-2008-04,Eminem,0
-2008-04,Goldfrapp,0
-2008-04,Gustavo Celis,0
-2008-04,Jack Black,0
-2008-04,Kasabian,0
-2008-04,Kelly Clarkson,0
-2008-04,Leon Jackson,0
-2008-04,Lionel Richie,0
-2008-04,Lost,0
-2008-04,Mattafix,0
-2008-04,Michael Jackson,0
-2008-04,Muse,0
-2008-04,The Killers,0
-2008-05,50 Cent,0
-2008-05,Avril Lavigne,0
-2008-05,Barry White,0
-2008-05,Blue October,0
-2008-05,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-05,Bon Jovi,0
-2008-05,Damian Marley,0
-2008-05,Eminem,0
-2008-05,Goldfrapp,0
-2008-05,Gustavo Celis,0
-2008-05,Jack Black,0
-2008-05,Kasabian,0
-2008-05,Kelly Clarkson,0
-2008-05,Leon Jackson,0
-2008-05,Lionel Richie,0
-2008-05,Lost,0
-2008-05,Mattafix,0
-2008-05,Michael Jackson,0
-2008-05,Muse,0
-2008-05,The Killers,0
-2008-06,50 Cent,0
-2008-06,Avril Lavigne,0
-2008-06,Barry White,0
-2008-06,Blue October,0
-2008-06,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-06,Bon Jovi,0
-2008-06,Damian Marley,0
-2008-06,Eminem,0
-2008-06,Goldfrapp,0
-2008-06,Gustavo Celis,0
-2008-06,Jack Black,0
-2008-06,Kasabian,0
-2008-06,Kelly Clarkson,0
-2008-06,Leon Jackson,0
-2008-06,Lionel Richie,0
-2008-06,Lost,0
-2008-06,Mattafix,0
-2008-06,Michael Jackson,0
-2008-06,Muse,0
-2008-06,The Killers,0
-2008-07,50 Cent,0
-2008-07,Avril Lavigne,0
-2008-07,Barry White,0
-2008-07,Blue October,0
-2008-07,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-07,Bon Jovi,0
-2008-07,Damian Marley,0
-2008-07,Eminem,0
-2008-07,Goldfrapp,0
-2008-07,Gustavo Celis,0
-2008-07,Jack Black,0
-2008-07,Kasabian,0
-2008-07,Kelly Clarkson,0
-2008-07,Leon Jackson,0
-2008-07,Lionel Richie,0
-2008-07,Lost,0
-2008-07,Mattafix,0
-2008-07,Michael Jackson,0
-2008-07,Muse,0
-2008-07,The Killers,0
-2008-08,50 Cent,0
-2008-08,Avril Lavigne,0
-2008-08,Barry White,0
-2008-08,Blue October,0
-2008-08,Bob Sinclar Feat. Gary Nesta Pine,0
-2008-08,Bon Jovi,0
-2008-08,Damian Marley,0
-2008-08,Eminem,0
-2008-08,Goldfrapp,0
-2008-08,Gustavo Celis,1
-2008-08,Jack Black,0
-2008-08,Kasabian,0
-2008-08,Kelly Clarkson,0
-2008-08,Leon Jackson,0
-2008-08,Lionel Richie,0
-2008-08,Lost,0
-2008-08,Mattafix,0
-2008-08,Michael Jackson,0
-2008-08,Muse,0
-2008-08,The Killers,0
+"month","artist","plays"
+"2007-01","50 Cent",2
+"2007-01","Avril Lavigne",0
+"2007-01","Barry White",1
+"2007-01","Blue October",1
+"2007-01","Bob Sinclar Feat. Gary Nesta Pine",1
+"2007-01","Bon Jovi",1
+"2007-01","Damian Marley",1
+"2007-01","Eminem",18
+"2007-01","Goldfrapp",1
+"2007-01","Gustavo Celis",0
+"2007-01","Jack Black",1
+"2007-01","Kasabian",2
+"2007-01","Kelly Clarkson",1
+"2007-01","Leon Jackson",0
+"2007-01","Lionel Richie",1
+"2007-01","Lost",0
+"2007-01","Mattafix",1
+"2007-01","Michael Jackson",2
+"2007-01","Muse",7
+"2007-01","The Killers",7
+"2007-02","50 Cent",0
+"2007-02","Avril Lavigne",0
+"2007-02","Barry White",0
+"2007-02","Blue October",0
+"2007-02","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-02","Bon Jovi",0
+"2007-02","Damian Marley",0
+"2007-02","Eminem",0
+"2007-02","Goldfrapp",0
+"2007-02","Gustavo Celis",0
+"2007-02","Jack Black",0
+"2007-02","Kasabian",0
+"2007-02","Kelly Clarkson",0
+"2007-02","Leon Jackson",0
+"2007-02","Lionel Richie",0
+"2007-02","Lost",0
+"2007-02","Mattafix",0
+"2007-02","Michael Jackson",0
+"2007-02","Muse",0
+"2007-02","The Killers",0
+"2007-03","50 Cent",0
+"2007-03","Avril Lavigne",0
+"2007-03","Barry White",0
+"2007-03","Blue October",0
+"2007-03","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-03","Bon Jovi",0
+"2007-03","Damian Marley",0
+"2007-03","Eminem",0
+"2007-03","Goldfrapp",0
+"2007-03","Gustavo Celis",0
+"2007-03","Jack Black",0
+"2007-03","Kasabian",0
+"2007-03","Kelly Clarkson",0
+"2007-03","Leon Jackson",0
+"2007-03","Lionel Richie",0
+"2007-03","Lost",0
+"2007-03","Mattafix",0
+"2007-03","Michael Jackson",0
+"2007-03","Muse",0
+"2007-03","The Killers",0
+"2007-04","50 Cent",0
+"2007-04","Avril Lavigne",0
+"2007-04","Barry White",0
+"2007-04","Blue October",0
+"2007-04","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-04","Bon Jovi",0
+"2007-04","Damian Marley",0
+"2007-04","Eminem",0
+"2007-04","Goldfrapp",0
+"2007-04","Gustavo Celis",0
+"2007-04","Jack Black",0
+"2007-04","Kasabian",0
+"2007-04","Kelly Clarkson",0
+"2007-04","Leon Jackson",0
+"2007-04","Lionel Richie",0
+"2007-04","Lost",0
+"2007-04","Mattafix",0
+"2007-04","Michael Jackson",0
+"2007-04","Muse",0
+"2007-04","The Killers",0
+"2007-05","50 Cent",0
+"2007-05","Avril Lavigne",0
+"2007-05","Barry White",0
+"2007-05","Blue October",0
+"2007-05","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-05","Bon Jovi",0
+"2007-05","Damian Marley",0
+"2007-05","Eminem",0
+"2007-05","Goldfrapp",0
+"2007-05","Gustavo Celis",0
+"2007-05","Jack Black",0
+"2007-05","Kasabian",0
+"2007-05","Kelly Clarkson",0
+"2007-05","Leon Jackson",0
+"2007-05","Lionel Richie",0
+"2007-05","Lost",0
+"2007-05","Mattafix",0
+"2007-05","Michael Jackson",0
+"2007-05","Muse",0
+"2007-05","The Killers",0
+"2007-06","50 Cent",0
+"2007-06","Avril Lavigne",0
+"2007-06","Barry White",0
+"2007-06","Blue October",0
+"2007-06","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-06","Bon Jovi",0
+"2007-06","Damian Marley",0
+"2007-06","Eminem",0
+"2007-06","Goldfrapp",0
+"2007-06","Gustavo Celis",0
+"2007-06","Jack Black",0
+"2007-06","Kasabian",0
+"2007-06","Kelly Clarkson",0
+"2007-06","Leon Jackson",0
+"2007-06","Lionel Richie",0
+"2007-06","Lost",0
+"2007-06","Mattafix",0
+"2007-06","Michael Jackson",0
+"2007-06","Muse",0
+"2007-06","The Killers",0
+"2007-07","50 Cent",0
+"2007-07","Avril Lavigne",0
+"2007-07","Barry White",0
+"2007-07","Blue October",0
+"2007-07","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-07","Bon Jovi",0
+"2007-07","Damian Marley",0
+"2007-07","Eminem",0
+"2007-07","Goldfrapp",0
+"2007-07","Gustavo Celis",0
+"2007-07","Jack Black",0
+"2007-07","Kasabian",0
+"2007-07","Kelly Clarkson",0
+"2007-07","Leon Jackson",0
+"2007-07","Lionel Richie",0
+"2007-07","Lost",0
+"2007-07","Mattafix",0
+"2007-07","Michael Jackson",0
+"2007-07","Muse",0
+"2007-07","The Killers",0
+"2007-08","50 Cent",0
+"2007-08","Avril Lavigne",0
+"2007-08","Barry White",0
+"2007-08","Blue October",0
+"2007-08","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-08","Bon Jovi",0
+"2007-08","Damian Marley",0
+"2007-08","Eminem",0
+"2007-08","Goldfrapp",0
+"2007-08","Gustavo Celis",0
+"2007-08","Jack Black",0
+"2007-08","Kasabian",0
+"2007-08","Kelly Clarkson",0
+"2007-08","Leon Jackson",0
+"2007-08","Lionel Richie",0
+"2007-08","Lost",0
+"2007-08","Mattafix",0
+"2007-08","Michael Jackson",0
+"2007-08","Muse",0
+"2007-08","The Killers",0
+"2007-09","50 Cent",0
+"2007-09","Avril Lavigne",0
+"2007-09","Barry White",0
+"2007-09","Blue October",0
+"2007-09","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-09","Bon Jovi",0
+"2007-09","Damian Marley",0
+"2007-09","Eminem",0
+"2007-09","Goldfrapp",0
+"2007-09","Gustavo Celis",0
+"2007-09","Jack Black",0
+"2007-09","Kasabian",0
+"2007-09","Kelly Clarkson",0
+"2007-09","Leon Jackson",0
+"2007-09","Lionel Richie",0
+"2007-09","Lost",0
+"2007-09","Mattafix",0
+"2007-09","Michael Jackson",0
+"2007-09","Muse",0
+"2007-09","The Killers",0
+"2007-10","50 Cent",0
+"2007-10","Avril Lavigne",0
+"2007-10","Barry White",0
+"2007-10","Blue October",0
+"2007-10","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-10","Bon Jovi",0
+"2007-10","Damian Marley",0
+"2007-10","Eminem",0
+"2007-10","Goldfrapp",0
+"2007-10","Gustavo Celis",0
+"2007-10","Jack Black",0
+"2007-10","Kasabian",0
+"2007-10","Kelly Clarkson",0
+"2007-10","Leon Jackson",0
+"2007-10","Lionel Richie",0
+"2007-10","Lost",0
+"2007-10","Mattafix",0
+"2007-10","Michael Jackson",0
+"2007-10","Muse",0
+"2007-10","The Killers",0
+"2007-11","50 Cent",0
+"2007-11","Avril Lavigne",0
+"2007-11","Barry White",0
+"2007-11","Blue October",0
+"2007-11","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-11","Bon Jovi",0
+"2007-11","Damian Marley",0
+"2007-11","Eminem",0
+"2007-11","Goldfrapp",0
+"2007-11","Gustavo Celis",0
+"2007-11","Jack Black",0
+"2007-11","Kasabian",0
+"2007-11","Kelly Clarkson",0
+"2007-11","Leon Jackson",0
+"2007-11","Lionel Richie",0
+"2007-11","Lost",0
+"2007-11","Mattafix",0
+"2007-11","Michael Jackson",0
+"2007-11","Muse",0
+"2007-11","The Killers",0
+"2007-12","50 Cent",0
+"2007-12","Avril Lavigne",0
+"2007-12","Barry White",0
+"2007-12","Blue October",0
+"2007-12","Bob Sinclar Feat. Gary Nesta Pine",0
+"2007-12","Bon Jovi",0
+"2007-12","Damian Marley",0
+"2007-12","Eminem",0
+"2007-12","Goldfrapp",0
+"2007-12","Gustavo Celis",0
+"2007-12","Jack Black",0
+"2007-12","Kasabian",0
+"2007-12","Kelly Clarkson",0
+"2007-12","Leon Jackson",0
+"2007-12","Lionel Richie",0
+"2007-12","Lost",0
+"2007-12","Mattafix",0
+"2007-12","Michael Jackson",0
+"2007-12","Muse",0
+"2007-12","The Killers",0
+"2008-01","50 Cent",0
+"2008-01","Avril Lavigne",5
+"2008-01","Barry White",0
+"2008-01","Blue October",0
+"2008-01","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-01","Bon Jovi",0
+"2008-01","Damian Marley",0
+"2008-01","Eminem",0
+"2008-01","Goldfrapp",0
+"2008-01","Gustavo Celis",0
+"2008-01","Jack Black",0
+"2008-01","Kasabian",0
+"2008-01","Kelly Clarkson",0
+"2008-01","Leon Jackson",1
+"2008-01","Lionel Richie",0
+"2008-01","Lost",2
+"2008-01","Mattafix",0
+"2008-01","Michael Jackson",0
+"2008-01","Muse",0
+"2008-01","The Killers",17
+"2008-02","50 Cent",0
+"2008-02","Avril Lavigne",0
+"2008-02","Barry White",0
+"2008-02","Blue October",0
+"2008-02","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-02","Bon Jovi",0
+"2008-02","Damian Marley",0
+"2008-02","Eminem",0
+"2008-02","Goldfrapp",0
+"2008-02","Gustavo Celis",0
+"2008-02","Jack Black",0
+"2008-02","Kasabian",0
+"2008-02","Kelly Clarkson",0
+"2008-02","Leon Jackson",0
+"2008-02","Lionel Richie",0
+"2008-02","Lost",0
+"2008-02","Mattafix",0
+"2008-02","Michael Jackson",0
+"2008-02","Muse",0
+"2008-02","The Killers",0
+"2008-03","50 Cent",0
+"2008-03","Avril Lavigne",0
+"2008-03","Barry White",0
+"2008-03","Blue October",0
+"2008-03","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-03","Bon Jovi",0
+"2008-03","Damian Marley",0
+"2008-03","Eminem",0
+"2008-03","Goldfrapp",0
+"2008-03","Gustavo Celis",0
+"2008-03","Jack Black",0
+"2008-03","Kasabian",0
+"2008-03","Kelly Clarkson",0
+"2008-03","Leon Jackson",0
+"2008-03","Lionel Richie",0
+"2008-03","Lost",0
+"2008-03","Mattafix",0
+"2008-03","Michael Jackson",0
+"2008-03","Muse",0
+"2008-03","The Killers",0
+"2008-04","50 Cent",0
+"2008-04","Avril Lavigne",0
+"2008-04","Barry White",0
+"2008-04","Blue October",0
+"2008-04","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-04","Bon Jovi",0
+"2008-04","Damian Marley",0
+"2008-04","Eminem",0
+"2008-04","Goldfrapp",0
+"2008-04","Gustavo Celis",0
+"2008-04","Jack Black",0
+"2008-04","Kasabian",0
+"2008-04","Kelly Clarkson",0
+"2008-04","Leon Jackson",0
+"2008-04","Lionel Richie",0
+"2008-04","Lost",0
+"2008-04","Mattafix",0
+"2008-04","Michael Jackson",0
+"2008-04","Muse",0
+"2008-04","The Killers",0
+"2008-05","50 Cent",0
+"2008-05","Avril Lavigne",0
+"2008-05","Barry White",0
+"2008-05","Blue October",0
+"2008-05","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-05","Bon Jovi",0
+"2008-05","Damian Marley",0
+"2008-05","Eminem",0
+"2008-05","Goldfrapp",0
+"2008-05","Gustavo Celis",0
+"2008-05","Jack Black",0
+"2008-05","Kasabian",0
+"2008-05","Kelly Clarkson",0
+"2008-05","Leon Jackson",0
+"2008-05","Lionel Richie",0
+"2008-05","Lost",0
+"2008-05","Mattafix",0
+"2008-05","Michael Jackson",0
+"2008-05","Muse",0
+"2008-05","The Killers",0
+"2008-06","50 Cent",0
+"2008-06","Avril Lavigne",0
+"2008-06","Barry White",0
+"2008-06","Blue October",0
+"2008-06","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-06","Bon Jovi",0
+"2008-06","Damian Marley",0
+"2008-06","Eminem",0
+"2008-06","Goldfrapp",0
+"2008-06","Gustavo Celis",0
+"2008-06","Jack Black",0
+"2008-06","Kasabian",0
+"2008-06","Kelly Clarkson",0
+"2008-06","Leon Jackson",0
+"2008-06","Lionel Richie",0
+"2008-06","Lost",0
+"2008-06","Mattafix",0
+"2008-06","Michael Jackson",0
+"2008-06","Muse",0
+"2008-06","The Killers",0
+"2008-07","50 Cent",0
+"2008-07","Avril Lavigne",0
+"2008-07","Barry White",0
+"2008-07","Blue October",0
+"2008-07","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-07","Bon Jovi",0
+"2008-07","Damian Marley",0
+"2008-07","Eminem",0
+"2008-07","Goldfrapp",0
+"2008-07","Gustavo Celis",0
+"2008-07","Jack Black",0
+"2008-07","Kasabian",0
+"2008-07","Kelly Clarkson",0
+"2008-07","Leon Jackson",0
+"2008-07","Lionel Richie",0
+"2008-07","Lost",0
+"2008-07","Mattafix",0
+"2008-07","Michael Jackson",0
+"2008-07","Muse",0
+"2008-07","The Killers",0
+"2008-08","50 Cent",0
+"2008-08","Avril Lavigne",0
+"2008-08","Barry White",0
+"2008-08","Blue October",0
+"2008-08","Bob Sinclar Feat. Gary Nesta Pine",0
+"2008-08","Bon Jovi",0
+"2008-08","Damian Marley",0
+"2008-08","Eminem",0
+"2008-08","Goldfrapp",0
+"2008-08","Gustavo Celis",1
+"2008-08","Jack Black",0
+"2008-08","Kasabian",0
+"2008-08","Kelly Clarkson",0
+"2008-08","Leon Jackson",0
+"2008-08","Lionel Richie",0
+"2008-08","Lost",0
+"2008-08","Mattafix",0
+"2008-08","Michael Jackson",0
+"2008-08","Muse",0
+"2008-08","The Killers",0

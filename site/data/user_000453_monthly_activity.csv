@@ -1,601 +1,601 @@
-month,artist,plays
-2007-01,[Unknown],7
-2007-01,Amon Amarth,24
-2007-01,Dark Tranquillity,25
-2007-01,Dissection,7
-2007-01,Draconian,2
-2007-01,Enochian Crescent,1
-2007-01,Evergrey,11
-2007-01,Hatesphere,10
-2007-01,Hypocrisy,13
-2007-01,In Flames,20
-2007-01,Katatonia,4
-2007-01,Lake Of Tears,9
-2007-01,Mokoma,34
-2007-01,Moonspell,9
-2007-01,My Dying Bride,40
-2007-01,Paradise Lost,38
-2007-01,Rotting Christ,2
-2007-01,Sentenced,18
-2007-01,Soilwork,8
-2007-01,The Haunted,4
-2007-02,[Unknown],5
-2007-02,Amon Amarth,45
-2007-02,Dark Tranquillity,101
-2007-02,Dissection,6
-2007-02,Draconian,3
-2007-02,Enochian Crescent,5
-2007-02,Evergrey,10
-2007-02,Hatesphere,5
-2007-02,Hypocrisy,17
-2007-02,In Flames,33
-2007-02,Katatonia,4
-2007-02,Lake Of Tears,20
-2007-02,Mokoma,26
-2007-02,Moonspell,20
-2007-02,My Dying Bride,34
-2007-02,Paradise Lost,8
-2007-02,Rotting Christ,27
-2007-02,Sentenced,27
-2007-02,Soilwork,11
-2007-02,The Haunted,7
-2007-03,[Unknown],3
-2007-03,Amon Amarth,34
-2007-03,Dark Tranquillity,88
-2007-03,Dissection,15
-2007-03,Draconian,3
-2007-03,Enochian Crescent,7
-2007-03,Evergrey,12
-2007-03,Hatesphere,28
-2007-03,Hypocrisy,22
-2007-03,In Flames,28
-2007-03,Katatonia,56
-2007-03,Lake Of Tears,14
-2007-03,Mokoma,39
-2007-03,Moonspell,49
-2007-03,My Dying Bride,121
-2007-03,Paradise Lost,126
-2007-03,Rotting Christ,30
-2007-03,Sentenced,46
-2007-03,Soilwork,12
-2007-03,The Haunted,11
-2007-04,[Unknown],11
-2007-04,Amon Amarth,54
-2007-04,Dark Tranquillity,47
-2007-04,Dissection,12
-2007-04,Draconian,6
-2007-04,Enochian Crescent,9
-2007-04,Evergrey,12
-2007-04,Hatesphere,9
-2007-04,Hypocrisy,26
-2007-04,In Flames,37
-2007-04,Katatonia,18
-2007-04,Lake Of Tears,21
-2007-04,Mokoma,26
-2007-04,Moonspell,23
-2007-04,My Dying Bride,93
-2007-04,Paradise Lost,41
-2007-04,Rotting Christ,72
-2007-04,Sentenced,50
-2007-04,Soilwork,14
-2007-04,The Haunted,17
-2007-05,[Unknown],6
-2007-05,Amon Amarth,31
-2007-05,Dark Tranquillity,79
-2007-05,Dissection,22
-2007-05,Draconian,4
-2007-05,Enochian Crescent,21
-2007-05,Evergrey,5
-2007-05,Hatesphere,8
-2007-05,Hypocrisy,16
-2007-05,In Flames,12
-2007-05,Katatonia,11
-2007-05,Lake Of Tears,76
-2007-05,Mokoma,21
-2007-05,Moonspell,19
-2007-05,My Dying Bride,40
-2007-05,Paradise Lost,113
-2007-05,Rotting Christ,34
-2007-05,Sentenced,29
-2007-05,Soilwork,38
-2007-05,The Haunted,8
-2007-06,[Unknown],2
-2007-06,Amon Amarth,18
-2007-06,Dark Tranquillity,73
-2007-06,Dissection,30
-2007-06,Draconian,11
-2007-06,Enochian Crescent,6
-2007-06,Evergrey,2
-2007-06,Hatesphere,7
-2007-06,Hypocrisy,17
-2007-06,In Flames,20
-2007-06,Katatonia,7
-2007-06,Lake Of Tears,22
-2007-06,Mokoma,17
-2007-06,Moonspell,42
-2007-06,My Dying Bride,68
-2007-06,Paradise Lost,36
-2007-06,Rotting Christ,10
-2007-06,Sentenced,49
-2007-06,Soilwork,7
-2007-06,The Haunted,11
-2007-07,[Unknown],10
-2007-07,Amon Amarth,25
-2007-07,Dark Tranquillity,82
-2007-07,Dissection,6
-2007-07,Draconian,2
-2007-07,Enochian Crescent,5
-2007-07,Evergrey,5
-2007-07,Hatesphere,20
-2007-07,Hypocrisy,27
-2007-07,In Flames,31
-2007-07,Katatonia,11
-2007-07,Lake Of Tears,33
-2007-07,Mokoma,39
-2007-07,Moonspell,73
-2007-07,My Dying Bride,48
-2007-07,Paradise Lost,52
-2007-07,Rotting Christ,16
-2007-07,Sentenced,99
-2007-07,Soilwork,11
-2007-07,The Haunted,31
-2007-08,[Unknown],10
-2007-08,Amon Amarth,22
-2007-08,Dark Tranquillity,212
-2007-08,Dissection,18
-2007-08,Draconian,5
-2007-08,Enochian Crescent,9
-2007-08,Evergrey,11
-2007-08,Hatesphere,10
-2007-08,Hypocrisy,19
-2007-08,In Flames,40
-2007-08,Katatonia,10
-2007-08,Lake Of Tears,24
-2007-08,Mokoma,21
-2007-08,Moonspell,49
-2007-08,My Dying Bride,61
-2007-08,Paradise Lost,59
-2007-08,Rotting Christ,14
-2007-08,Sentenced,85
-2007-08,Soilwork,15
-2007-08,The Haunted,13
-2007-09,[Unknown],3
-2007-09,Amon Amarth,19
-2007-09,Dark Tranquillity,44
-2007-09,Dissection,5
-2007-09,Draconian,3
-2007-09,Enochian Crescent,9
-2007-09,Evergrey,8
-2007-09,Hatesphere,7
-2007-09,Hypocrisy,10
-2007-09,In Flames,9
-2007-09,Katatonia,4
-2007-09,Lake Of Tears,16
-2007-09,Mokoma,13
-2007-09,Moonspell,64
-2007-09,My Dying Bride,25
-2007-09,Paradise Lost,24
-2007-09,Rotting Christ,7
-2007-09,Sentenced,43
-2007-09,Soilwork,5
-2007-09,The Haunted,6
-2007-10,[Unknown],0
-2007-10,Amon Amarth,8
-2007-10,Dark Tranquillity,0
-2007-10,Dissection,4
-2007-10,Draconian,1
-2007-10,Enochian Crescent,2
-2007-10,Evergrey,0
-2007-10,Hatesphere,2
-2007-10,Hypocrisy,2
-2007-10,In Flames,4
-2007-10,Katatonia,0
-2007-10,Lake Of Tears,6
-2007-10,Mokoma,2
-2007-10,Moonspell,1
-2007-10,My Dying Bride,10
-2007-10,Paradise Lost,6
-2007-10,Rotting Christ,2
-2007-10,Sentenced,2
-2007-10,Soilwork,17
-2007-10,The Haunted,1
-2007-11,[Unknown],6
-2007-11,Amon Amarth,51
-2007-11,Dark Tranquillity,108
-2007-11,Dissection,3
-2007-11,Draconian,5
-2007-11,Enochian Crescent,7
-2007-11,Evergrey,15
-2007-11,Hatesphere,21
-2007-11,Hypocrisy,25
-2007-11,In Flames,22
-2007-11,Katatonia,15
-2007-11,Lake Of Tears,19
-2007-11,Mokoma,91
-2007-11,Moonspell,42
-2007-11,My Dying Bride,37
-2007-11,Paradise Lost,54
-2007-11,Rotting Christ,9
-2007-11,Sentenced,14
-2007-11,Soilwork,55
-2007-11,The Haunted,18
-2007-12,[Unknown],3
-2007-12,Amon Amarth,2
-2007-12,Dark Tranquillity,93
-2007-12,Dissection,12
-2007-12,Draconian,12
-2007-12,Enochian Crescent,3
-2007-12,Evergrey,19
-2007-12,Hatesphere,10
-2007-12,Hypocrisy,9
-2007-12,In Flames,3
-2007-12,Katatonia,0
-2007-12,Lake Of Tears,22
-2007-12,Mokoma,8
-2007-12,Moonspell,15
-2007-12,My Dying Bride,14
-2007-12,Paradise Lost,12
-2007-12,Rotting Christ,6
-2007-12,Sentenced,18
-2007-12,Soilwork,1
-2007-12,The Haunted,6
-2008-01,[Unknown],1
-2008-01,Amon Amarth,11
-2008-01,Dark Tranquillity,18
-2008-01,Dissection,21
-2008-01,Draconian,7
-2008-01,Enochian Crescent,11
-2008-01,Evergrey,3
-2008-01,Hatesphere,20
-2008-01,Hypocrisy,8
-2008-01,In Flames,13
-2008-01,Katatonia,16
-2008-01,Lake Of Tears,12
-2008-01,Mokoma,60
-2008-01,Moonspell,11
-2008-01,My Dying Bride,75
-2008-01,Paradise Lost,27
-2008-01,Rotting Christ,6
-2008-01,Sentenced,30
-2008-01,Soilwork,7
-2008-01,The Haunted,23
-2008-02,[Unknown],6
-2008-02,Amon Amarth,12
-2008-02,Dark Tranquillity,33
-2008-02,Dissection,5
-2008-02,Draconian,3
-2008-02,Enochian Crescent,5
-2008-02,Evergrey,2
-2008-02,Hatesphere,16
-2008-02,Hypocrisy,14
-2008-02,In Flames,10
-2008-02,Katatonia,184
-2008-02,Lake Of Tears,28
-2008-02,Mokoma,19
-2008-02,Moonspell,12
-2008-02,My Dying Bride,27
-2008-02,Paradise Lost,20
-2008-02,Rotting Christ,6
-2008-02,Sentenced,16
-2008-02,Soilwork,8
-2008-02,The Haunted,8
-2008-03,[Unknown],1
-2008-03,Amon Amarth,4
-2008-03,Dark Tranquillity,12
-2008-03,Dissection,0
-2008-03,Draconian,19
-2008-03,Enochian Crescent,1
-2008-03,Evergrey,1
-2008-03,Hatesphere,1
-2008-03,Hypocrisy,4
-2008-03,In Flames,2
-2008-03,Katatonia,142
-2008-03,Lake Of Tears,1
-2008-03,Mokoma,21
-2008-03,Moonspell,6
-2008-03,My Dying Bride,12
-2008-03,Paradise Lost,6
-2008-03,Rotting Christ,2
-2008-03,Sentenced,2
-2008-03,Soilwork,1
-2008-03,The Haunted,15
-2008-04,[Unknown],3
-2008-04,Amon Amarth,3
-2008-04,Dark Tranquillity,25
-2008-04,Dissection,8
-2008-04,Draconian,32
-2008-04,Enochian Crescent,2
-2008-04,Evergrey,2
-2008-04,Hatesphere,2
-2008-04,Hypocrisy,7
-2008-04,In Flames,26
-2008-04,Katatonia,83
-2008-04,Lake Of Tears,10
-2008-04,Mokoma,9
-2008-04,Moonspell,15
-2008-04,My Dying Bride,14
-2008-04,Paradise Lost,16
-2008-04,Rotting Christ,2
-2008-04,Sentenced,43
-2008-04,Soilwork,10
-2008-04,The Haunted,2
-2008-05,[Unknown],3
-2008-05,Amon Amarth,24
-2008-05,Dark Tranquillity,16
-2008-05,Dissection,12
-2008-05,Draconian,8
-2008-05,Enochian Crescent,14
-2008-05,Evergrey,1
-2008-05,Hatesphere,11
-2008-05,Hypocrisy,9
-2008-05,In Flames,16
-2008-05,Katatonia,64
-2008-05,Lake Of Tears,6
-2008-05,Mokoma,4
-2008-05,Moonspell,69
-2008-05,My Dying Bride,9
-2008-05,Paradise Lost,16
-2008-05,Rotting Christ,2
-2008-05,Sentenced,9
-2008-05,Soilwork,5
-2008-05,The Haunted,3
-2008-06,[Unknown],2
-2008-06,Amon Amarth,9
-2008-06,Dark Tranquillity,13
-2008-06,Dissection,1
-2008-06,Draconian,9
-2008-06,Enochian Crescent,4
-2008-06,Evergrey,4
-2008-06,Hatesphere,3
-2008-06,Hypocrisy,4
-2008-06,In Flames,2
-2008-06,Katatonia,79
-2008-06,Lake Of Tears,41
-2008-06,Mokoma,6
-2008-06,Moonspell,9
-2008-06,My Dying Bride,7
-2008-06,Paradise Lost,7
-2008-06,Rotting Christ,11
-2008-06,Sentenced,11
-2008-06,Soilwork,2
-2008-06,The Haunted,5
-2008-07,[Unknown],1
-2008-07,Amon Amarth,27
-2008-07,Dark Tranquillity,17
-2008-07,Dissection,21
-2008-07,Draconian,9
-2008-07,Enochian Crescent,3
-2008-07,Evergrey,3
-2008-07,Hatesphere,3
-2008-07,Hypocrisy,8
-2008-07,In Flames,30
-2008-07,Katatonia,18
-2008-07,Lake Of Tears,14
-2008-07,Mokoma,10
-2008-07,Moonspell,54
-2008-07,My Dying Bride,24
-2008-07,Paradise Lost,13
-2008-07,Rotting Christ,4
-2008-07,Sentenced,24
-2008-07,Soilwork,7
-2008-07,The Haunted,2
-2008-08,[Unknown],3
-2008-08,Amon Amarth,8
-2008-08,Dark Tranquillity,46
-2008-08,Dissection,2
-2008-08,Draconian,4
-2008-08,Enochian Crescent,9
-2008-08,Evergrey,5
-2008-08,Hatesphere,2
-2008-08,Hypocrisy,7
-2008-08,In Flames,7
-2008-08,Katatonia,21
-2008-08,Lake Of Tears,13
-2008-08,Mokoma,18
-2008-08,Moonspell,18
-2008-08,My Dying Bride,12
-2008-08,Paradise Lost,19
-2008-08,Rotting Christ,4
-2008-08,Sentenced,11
-2008-08,Soilwork,25
-2008-08,The Haunted,16
-2008-09,[Unknown],2
-2008-09,Amon Amarth,17
-2008-09,Dark Tranquillity,8
-2008-09,Dissection,1
-2008-09,Draconian,6
-2008-09,Enochian Crescent,2
-2008-09,Evergrey,1
-2008-09,Hatesphere,2
-2008-09,Hypocrisy,3
-2008-09,In Flames,1
-2008-09,Katatonia,23
-2008-09,Lake Of Tears,36
-2008-09,Mokoma,2
-2008-09,Moonspell,3
-2008-09,My Dying Bride,1
-2008-09,Paradise Lost,7
-2008-09,Rotting Christ,1
-2008-09,Sentenced,1
-2008-09,Soilwork,1
-2008-09,The Haunted,6
-2008-10,[Unknown],0
-2008-10,Amon Amarth,0
-2008-10,Dark Tranquillity,0
-2008-10,Dissection,0
-2008-10,Draconian,0
-2008-10,Enochian Crescent,0
-2008-10,Evergrey,0
-2008-10,Hatesphere,0
-2008-10,Hypocrisy,0
-2008-10,In Flames,0
-2008-10,Katatonia,0
-2008-10,Lake Of Tears,0
-2008-10,Mokoma,0
-2008-10,Moonspell,0
-2008-10,My Dying Bride,0
-2008-10,Paradise Lost,0
-2008-10,Rotting Christ,0
-2008-10,Sentenced,0
-2008-10,Soilwork,0
-2008-10,The Haunted,0
-2008-11,[Unknown],0
-2008-11,Amon Amarth,0
-2008-11,Dark Tranquillity,0
-2008-11,Dissection,0
-2008-11,Draconian,0
-2008-11,Enochian Crescent,0
-2008-11,Evergrey,0
-2008-11,Hatesphere,0
-2008-11,Hypocrisy,0
-2008-11,In Flames,0
-2008-11,Katatonia,0
-2008-11,Lake Of Tears,0
-2008-11,Mokoma,0
-2008-11,Moonspell,0
-2008-11,My Dying Bride,0
-2008-11,Paradise Lost,0
-2008-11,Rotting Christ,0
-2008-11,Sentenced,0
-2008-11,Soilwork,0
-2008-11,The Haunted,0
-2008-12,[Unknown],6
-2008-12,Amon Amarth,29
-2008-12,Dark Tranquillity,12
-2008-12,Dissection,5
-2008-12,Draconian,5
-2008-12,Enochian Crescent,5
-2008-12,Evergrey,14
-2008-12,Hatesphere,5
-2008-12,Hypocrisy,10
-2008-12,In Flames,8
-2008-12,Katatonia,88
-2008-12,Lake Of Tears,13
-2008-12,Mokoma,19
-2008-12,Moonspell,7
-2008-12,My Dying Bride,8
-2008-12,Paradise Lost,8
-2008-12,Rotting Christ,4
-2008-12,Sentenced,12
-2008-12,Soilwork,25
-2008-12,The Haunted,9
-2009-01,[Unknown],11
-2009-01,Amon Amarth,15
-2009-01,Dark Tranquillity,11
-2009-01,Dissection,4
-2009-01,Draconian,4
-2009-01,Enochian Crescent,2
-2009-01,Evergrey,5
-2009-01,Hatesphere,24
-2009-01,Hypocrisy,11
-2009-01,In Flames,12
-2009-01,Katatonia,17
-2009-01,Lake Of Tears,9
-2009-01,Mokoma,7
-2009-01,Moonspell,16
-2009-01,My Dying Bride,11
-2009-01,Paradise Lost,13
-2009-01,Rotting Christ,1
-2009-01,Sentenced,19
-2009-01,Soilwork,5
-2009-01,The Haunted,12
-2009-02,[Unknown],1
-2009-02,Amon Amarth,8
-2009-02,Dark Tranquillity,5
-2009-02,Dissection,1
-2009-02,Draconian,4
-2009-02,Enochian Crescent,2
-2009-02,Evergrey,1
-2009-02,Hatesphere,0
-2009-02,Hypocrisy,2
-2009-02,In Flames,2
-2009-02,Katatonia,5
-2009-02,Lake Of Tears,2
-2009-02,Mokoma,2
-2009-02,Moonspell,8
-2009-02,My Dying Bride,59
-2009-02,Paradise Lost,6
-2009-02,Rotting Christ,1
-2009-02,Sentenced,14
-2009-02,Soilwork,6
-2009-02,The Haunted,2
-2009-03,[Unknown],27
-2009-03,Amon Amarth,0
-2009-03,Dark Tranquillity,3
-2009-03,Dissection,2
-2009-03,Draconian,2
-2009-03,Enochian Crescent,2
-2009-03,Evergrey,1
-2009-03,Hatesphere,1
-2009-03,Hypocrisy,2
-2009-03,In Flames,3
-2009-03,Katatonia,3
-2009-03,Lake Of Tears,1
-2009-03,Mokoma,3
-2009-03,Moonspell,0
-2009-03,My Dying Bride,17
-2009-03,Paradise Lost,3
-2009-03,Rotting Christ,2
-2009-03,Sentenced,2
-2009-03,Soilwork,21
-2009-03,The Haunted,1
-2009-04,[Unknown],0
-2009-04,Amon Amarth,0
-2009-04,Dark Tranquillity,0
-2009-04,Dissection,0
-2009-04,Draconian,0
-2009-04,Enochian Crescent,0
-2009-04,Evergrey,0
-2009-04,Hatesphere,2
-2009-04,Hypocrisy,0
-2009-04,In Flames,0
-2009-04,Katatonia,0
-2009-04,Lake Of Tears,0
-2009-04,Mokoma,0
-2009-04,Moonspell,1
-2009-04,My Dying Bride,0
-2009-04,Paradise Lost,0
-2009-04,Rotting Christ,0
-2009-04,Sentenced,0
-2009-04,Soilwork,0
-2009-04,The Haunted,0
-2009-05,[Unknown],29
-2009-05,Amon Amarth,1
-2009-05,Dark Tranquillity,8
-2009-05,Dissection,5
-2009-05,Draconian,8
-2009-05,Enochian Crescent,0
-2009-05,Evergrey,1
-2009-05,Hatesphere,0
-2009-05,Hypocrisy,27
-2009-05,In Flames,13
-2009-05,Katatonia,1
-2009-05,Lake Of Tears,0
-2009-05,Mokoma,0
-2009-05,Moonspell,0
-2009-05,My Dying Bride,5
-2009-05,Paradise Lost,1
-2009-05,Rotting Christ,3
-2009-05,Sentenced,0
-2009-05,Soilwork,9
-2009-05,The Haunted,14
-2009-06,[Unknown],1
-2009-06,Amon Amarth,1
-2009-06,Dark Tranquillity,1
-2009-06,Dissection,0
-2009-06,Draconian,0
-2009-06,Enochian Crescent,0
-2009-06,Evergrey,0
-2009-06,Hatesphere,0
-2009-06,Hypocrisy,0
-2009-06,In Flames,0
-2009-06,Katatonia,1
-2009-06,Lake Of Tears,0
-2009-06,Mokoma,1
-2009-06,Moonspell,1
-2009-06,My Dying Bride,12
-2009-06,Paradise Lost,0
-2009-06,Rotting Christ,0
-2009-06,Sentenced,7
-2009-06,Soilwork,2
-2009-06,The Haunted,0
+"month","artist","plays"
+"2007-01","[Unknown]",7
+"2007-01","Amon Amarth",24
+"2007-01","Dark Tranquillity",25
+"2007-01","Dissection",7
+"2007-01","Draconian",2
+"2007-01","Enochian Crescent",1
+"2007-01","Evergrey",11
+"2007-01","Hatesphere",10
+"2007-01","Hypocrisy",13
+"2007-01","In Flames",20
+"2007-01","Katatonia",4
+"2007-01","Lake Of Tears",9
+"2007-01","Mokoma",34
+"2007-01","Moonspell",9
+"2007-01","My Dying Bride",40
+"2007-01","Paradise Lost",38
+"2007-01","Rotting Christ",2
+"2007-01","Sentenced",18
+"2007-01","Soilwork",8
+"2007-01","The Haunted",4
+"2007-02","[Unknown]",5
+"2007-02","Amon Amarth",45
+"2007-02","Dark Tranquillity",101
+"2007-02","Dissection",6
+"2007-02","Draconian",3
+"2007-02","Enochian Crescent",5
+"2007-02","Evergrey",10
+"2007-02","Hatesphere",5
+"2007-02","Hypocrisy",17
+"2007-02","In Flames",33
+"2007-02","Katatonia",4
+"2007-02","Lake Of Tears",20
+"2007-02","Mokoma",26
+"2007-02","Moonspell",20
+"2007-02","My Dying Bride",34
+"2007-02","Paradise Lost",8
+"2007-02","Rotting Christ",27
+"2007-02","Sentenced",27
+"2007-02","Soilwork",11
+"2007-02","The Haunted",7
+"2007-03","[Unknown]",3
+"2007-03","Amon Amarth",34
+"2007-03","Dark Tranquillity",88
+"2007-03","Dissection",15
+"2007-03","Draconian",3
+"2007-03","Enochian Crescent",7
+"2007-03","Evergrey",12
+"2007-03","Hatesphere",28
+"2007-03","Hypocrisy",22
+"2007-03","In Flames",28
+"2007-03","Katatonia",56
+"2007-03","Lake Of Tears",14
+"2007-03","Mokoma",39
+"2007-03","Moonspell",49
+"2007-03","My Dying Bride",121
+"2007-03","Paradise Lost",126
+"2007-03","Rotting Christ",30
+"2007-03","Sentenced",46
+"2007-03","Soilwork",12
+"2007-03","The Haunted",11
+"2007-04","[Unknown]",11
+"2007-04","Amon Amarth",54
+"2007-04","Dark Tranquillity",47
+"2007-04","Dissection",12
+"2007-04","Draconian",6
+"2007-04","Enochian Crescent",9
+"2007-04","Evergrey",12
+"2007-04","Hatesphere",9
+"2007-04","Hypocrisy",26
+"2007-04","In Flames",37
+"2007-04","Katatonia",18
+"2007-04","Lake Of Tears",21
+"2007-04","Mokoma",26
+"2007-04","Moonspell",23
+"2007-04","My Dying Bride",93
+"2007-04","Paradise Lost",41
+"2007-04","Rotting Christ",72
+"2007-04","Sentenced",50
+"2007-04","Soilwork",14
+"2007-04","The Haunted",17
+"2007-05","[Unknown]",6
+"2007-05","Amon Amarth",31
+"2007-05","Dark Tranquillity",79
+"2007-05","Dissection",22
+"2007-05","Draconian",4
+"2007-05","Enochian Crescent",21
+"2007-05","Evergrey",5
+"2007-05","Hatesphere",8
+"2007-05","Hypocrisy",16
+"2007-05","In Flames",12
+"2007-05","Katatonia",11
+"2007-05","Lake Of Tears",76
+"2007-05","Mokoma",21
+"2007-05","Moonspell",19
+"2007-05","My Dying Bride",40
+"2007-05","Paradise Lost",113
+"2007-05","Rotting Christ",34
+"2007-05","Sentenced",29
+"2007-05","Soilwork",38
+"2007-05","The Haunted",8
+"2007-06","[Unknown]",2
+"2007-06","Amon Amarth",18
+"2007-06","Dark Tranquillity",73
+"2007-06","Dissection",30
+"2007-06","Draconian",11
+"2007-06","Enochian Crescent",6
+"2007-06","Evergrey",2
+"2007-06","Hatesphere",7
+"2007-06","Hypocrisy",17
+"2007-06","In Flames",20
+"2007-06","Katatonia",7
+"2007-06","Lake Of Tears",22
+"2007-06","Mokoma",17
+"2007-06","Moonspell",42
+"2007-06","My Dying Bride",68
+"2007-06","Paradise Lost",36
+"2007-06","Rotting Christ",10
+"2007-06","Sentenced",49
+"2007-06","Soilwork",7
+"2007-06","The Haunted",11
+"2007-07","[Unknown]",10
+"2007-07","Amon Amarth",25
+"2007-07","Dark Tranquillity",82
+"2007-07","Dissection",6
+"2007-07","Draconian",2
+"2007-07","Enochian Crescent",5
+"2007-07","Evergrey",5
+"2007-07","Hatesphere",20
+"2007-07","Hypocrisy",27
+"2007-07","In Flames",31
+"2007-07","Katatonia",11
+"2007-07","Lake Of Tears",33
+"2007-07","Mokoma",39
+"2007-07","Moonspell",73
+"2007-07","My Dying Bride",48
+"2007-07","Paradise Lost",52
+"2007-07","Rotting Christ",16
+"2007-07","Sentenced",99
+"2007-07","Soilwork",11
+"2007-07","The Haunted",31
+"2007-08","[Unknown]",10
+"2007-08","Amon Amarth",22
+"2007-08","Dark Tranquillity",212
+"2007-08","Dissection",18
+"2007-08","Draconian",5
+"2007-08","Enochian Crescent",9
+"2007-08","Evergrey",11
+"2007-08","Hatesphere",10
+"2007-08","Hypocrisy",19
+"2007-08","In Flames",40
+"2007-08","Katatonia",10
+"2007-08","Lake Of Tears",24
+"2007-08","Mokoma",21
+"2007-08","Moonspell",49
+"2007-08","My Dying Bride",61
+"2007-08","Paradise Lost",59
+"2007-08","Rotting Christ",14
+"2007-08","Sentenced",85
+"2007-08","Soilwork",15
+"2007-08","The Haunted",13
+"2007-09","[Unknown]",3
+"2007-09","Amon Amarth",19
+"2007-09","Dark Tranquillity",44
+"2007-09","Dissection",5
+"2007-09","Draconian",3
+"2007-09","Enochian Crescent",9
+"2007-09","Evergrey",8
+"2007-09","Hatesphere",7
+"2007-09","Hypocrisy",10
+"2007-09","In Flames",9
+"2007-09","Katatonia",4
+"2007-09","Lake Of Tears",16
+"2007-09","Mokoma",13
+"2007-09","Moonspell",64
+"2007-09","My Dying Bride",25
+"2007-09","Paradise Lost",24
+"2007-09","Rotting Christ",7
+"2007-09","Sentenced",43
+"2007-09","Soilwork",5
+"2007-09","The Haunted",6
+"2007-10","[Unknown]",0
+"2007-10","Amon Amarth",8
+"2007-10","Dark Tranquillity",0
+"2007-10","Dissection",4
+"2007-10","Draconian",1
+"2007-10","Enochian Crescent",2
+"2007-10","Evergrey",0
+"2007-10","Hatesphere",2
+"2007-10","Hypocrisy",2
+"2007-10","In Flames",4
+"2007-10","Katatonia",0
+"2007-10","Lake Of Tears",6
+"2007-10","Mokoma",2
+"2007-10","Moonspell",1
+"2007-10","My Dying Bride",10
+"2007-10","Paradise Lost",6
+"2007-10","Rotting Christ",2
+"2007-10","Sentenced",2
+"2007-10","Soilwork",17
+"2007-10","The Haunted",1
+"2007-11","[Unknown]",6
+"2007-11","Amon Amarth",51
+"2007-11","Dark Tranquillity",108
+"2007-11","Dissection",3
+"2007-11","Draconian",5
+"2007-11","Enochian Crescent",7
+"2007-11","Evergrey",15
+"2007-11","Hatesphere",21
+"2007-11","Hypocrisy",25
+"2007-11","In Flames",22
+"2007-11","Katatonia",15
+"2007-11","Lake Of Tears",19
+"2007-11","Mokoma",91
+"2007-11","Moonspell",42
+"2007-11","My Dying Bride",37
+"2007-11","Paradise Lost",54
+"2007-11","Rotting Christ",9
+"2007-11","Sentenced",14
+"2007-11","Soilwork",55
+"2007-11","The Haunted",18
+"2007-12","[Unknown]",3
+"2007-12","Amon Amarth",2
+"2007-12","Dark Tranquillity",93
+"2007-12","Dissection",12
+"2007-12","Draconian",12
+"2007-12","Enochian Crescent",3
+"2007-12","Evergrey",19
+"2007-12","Hatesphere",10
+"2007-12","Hypocrisy",9
+"2007-12","In Flames",3
+"2007-12","Katatonia",0
+"2007-12","Lake Of Tears",22
+"2007-12","Mokoma",8
+"2007-12","Moonspell",15
+"2007-12","My Dying Bride",14
+"2007-12","Paradise Lost",12
+"2007-12","Rotting Christ",6
+"2007-12","Sentenced",18
+"2007-12","Soilwork",1
+"2007-12","The Haunted",6
+"2008-01","[Unknown]",1
+"2008-01","Amon Amarth",11
+"2008-01","Dark Tranquillity",18
+"2008-01","Dissection",21
+"2008-01","Draconian",7
+"2008-01","Enochian Crescent",11
+"2008-01","Evergrey",3
+"2008-01","Hatesphere",20
+"2008-01","Hypocrisy",8
+"2008-01","In Flames",13
+"2008-01","Katatonia",16
+"2008-01","Lake Of Tears",12
+"2008-01","Mokoma",60
+"2008-01","Moonspell",11
+"2008-01","My Dying Bride",75
+"2008-01","Paradise Lost",27
+"2008-01","Rotting Christ",6
+"2008-01","Sentenced",30
+"2008-01","Soilwork",7
+"2008-01","The Haunted",23
+"2008-02","[Unknown]",6
+"2008-02","Amon Amarth",12
+"2008-02","Dark Tranquillity",33
+"2008-02","Dissection",5
+"2008-02","Draconian",3
+"2008-02","Enochian Crescent",5
+"2008-02","Evergrey",2
+"2008-02","Hatesphere",16
+"2008-02","Hypocrisy",14
+"2008-02","In Flames",10
+"2008-02","Katatonia",184
+"2008-02","Lake Of Tears",28
+"2008-02","Mokoma",19
+"2008-02","Moonspell",12
+"2008-02","My Dying Bride",27
+"2008-02","Paradise Lost",20
+"2008-02","Rotting Christ",6
+"2008-02","Sentenced",16
+"2008-02","Soilwork",8
+"2008-02","The Haunted",8
+"2008-03","[Unknown]",1
+"2008-03","Amon Amarth",4
+"2008-03","Dark Tranquillity",12
+"2008-03","Dissection",0
+"2008-03","Draconian",19
+"2008-03","Enochian Crescent",1
+"2008-03","Evergrey",1
+"2008-03","Hatesphere",1
+"2008-03","Hypocrisy",4
+"2008-03","In Flames",2
+"2008-03","Katatonia",142
+"2008-03","Lake Of Tears",1
+"2008-03","Mokoma",21
+"2008-03","Moonspell",6
+"2008-03","My Dying Bride",12
+"2008-03","Paradise Lost",6
+"2008-03","Rotting Christ",2
+"2008-03","Sentenced",2
+"2008-03","Soilwork",1
+"2008-03","The Haunted",15
+"2008-04","[Unknown]",3
+"2008-04","Amon Amarth",3
+"2008-04","Dark Tranquillity",25
+"2008-04","Dissection",8
+"2008-04","Draconian",32
+"2008-04","Enochian Crescent",2
+"2008-04","Evergrey",2
+"2008-04","Hatesphere",2
+"2008-04","Hypocrisy",7
+"2008-04","In Flames",26
+"2008-04","Katatonia",83
+"2008-04","Lake Of Tears",10
+"2008-04","Mokoma",9
+"2008-04","Moonspell",15
+"2008-04","My Dying Bride",14
+"2008-04","Paradise Lost",16
+"2008-04","Rotting Christ",2
+"2008-04","Sentenced",43
+"2008-04","Soilwork",10
+"2008-04","The Haunted",2
+"2008-05","[Unknown]",3
+"2008-05","Amon Amarth",24
+"2008-05","Dark Tranquillity",16
+"2008-05","Dissection",12
+"2008-05","Draconian",8
+"2008-05","Enochian Crescent",14
+"2008-05","Evergrey",1
+"2008-05","Hatesphere",11
+"2008-05","Hypocrisy",9
+"2008-05","In Flames",16
+"2008-05","Katatonia",64
+"2008-05","Lake Of Tears",6
+"2008-05","Mokoma",4
+"2008-05","Moonspell",69
+"2008-05","My Dying Bride",9
+"2008-05","Paradise Lost",16
+"2008-05","Rotting Christ",2
+"2008-05","Sentenced",9
+"2008-05","Soilwork",5
+"2008-05","The Haunted",3
+"2008-06","[Unknown]",2
+"2008-06","Amon Amarth",9
+"2008-06","Dark Tranquillity",13
+"2008-06","Dissection",1
+"2008-06","Draconian",9
+"2008-06","Enochian Crescent",4
+"2008-06","Evergrey",4
+"2008-06","Hatesphere",3
+"2008-06","Hypocrisy",4
+"2008-06","In Flames",2
+"2008-06","Katatonia",79
+"2008-06","Lake Of Tears",41
+"2008-06","Mokoma",6
+"2008-06","Moonspell",9
+"2008-06","My Dying Bride",7
+"2008-06","Paradise Lost",7
+"2008-06","Rotting Christ",11
+"2008-06","Sentenced",11
+"2008-06","Soilwork",2
+"2008-06","The Haunted",5
+"2008-07","[Unknown]",1
+"2008-07","Amon Amarth",27
+"2008-07","Dark Tranquillity",17
+"2008-07","Dissection",21
+"2008-07","Draconian",9
+"2008-07","Enochian Crescent",3
+"2008-07","Evergrey",3
+"2008-07","Hatesphere",3
+"2008-07","Hypocrisy",8
+"2008-07","In Flames",30
+"2008-07","Katatonia",18
+"2008-07","Lake Of Tears",14
+"2008-07","Mokoma",10
+"2008-07","Moonspell",54
+"2008-07","My Dying Bride",24
+"2008-07","Paradise Lost",13
+"2008-07","Rotting Christ",4
+"2008-07","Sentenced",24
+"2008-07","Soilwork",7
+"2008-07","The Haunted",2
+"2008-08","[Unknown]",3
+"2008-08","Amon Amarth",8
+"2008-08","Dark Tranquillity",46
+"2008-08","Dissection",2
+"2008-08","Draconian",4
+"2008-08","Enochian Crescent",9
+"2008-08","Evergrey",5
+"2008-08","Hatesphere",2
+"2008-08","Hypocrisy",7
+"2008-08","In Flames",7
+"2008-08","Katatonia",21
+"2008-08","Lake Of Tears",13
+"2008-08","Mokoma",18
+"2008-08","Moonspell",18
+"2008-08","My Dying Bride",12
+"2008-08","Paradise Lost",19
+"2008-08","Rotting Christ",4
+"2008-08","Sentenced",11
+"2008-08","Soilwork",25
+"2008-08","The Haunted",16
+"2008-09","[Unknown]",2
+"2008-09","Amon Amarth",17
+"2008-09","Dark Tranquillity",8
+"2008-09","Dissection",1
+"2008-09","Draconian",6
+"2008-09","Enochian Crescent",2
+"2008-09","Evergrey",1
+"2008-09","Hatesphere",2
+"2008-09","Hypocrisy",3
+"2008-09","In Flames",1
+"2008-09","Katatonia",23
+"2008-09","Lake Of Tears",36
+"2008-09","Mokoma",2
+"2008-09","Moonspell",3
+"2008-09","My Dying Bride",1
+"2008-09","Paradise Lost",7
+"2008-09","Rotting Christ",1
+"2008-09","Sentenced",1
+"2008-09","Soilwork",1
+"2008-09","The Haunted",6
+"2008-10","[Unknown]",0
+"2008-10","Amon Amarth",0
+"2008-10","Dark Tranquillity",0
+"2008-10","Dissection",0
+"2008-10","Draconian",0
+"2008-10","Enochian Crescent",0
+"2008-10","Evergrey",0
+"2008-10","Hatesphere",0
+"2008-10","Hypocrisy",0
+"2008-10","In Flames",0
+"2008-10","Katatonia",0
+"2008-10","Lake Of Tears",0
+"2008-10","Mokoma",0
+"2008-10","Moonspell",0
+"2008-10","My Dying Bride",0
+"2008-10","Paradise Lost",0
+"2008-10","Rotting Christ",0
+"2008-10","Sentenced",0
+"2008-10","Soilwork",0
+"2008-10","The Haunted",0
+"2008-11","[Unknown]",0
+"2008-11","Amon Amarth",0
+"2008-11","Dark Tranquillity",0
+"2008-11","Dissection",0
+"2008-11","Draconian",0
+"2008-11","Enochian Crescent",0
+"2008-11","Evergrey",0
+"2008-11","Hatesphere",0
+"2008-11","Hypocrisy",0
+"2008-11","In Flames",0
+"2008-11","Katatonia",0
+"2008-11","Lake Of Tears",0
+"2008-11","Mokoma",0
+"2008-11","Moonspell",0
+"2008-11","My Dying Bride",0
+"2008-11","Paradise Lost",0
+"2008-11","Rotting Christ",0
+"2008-11","Sentenced",0
+"2008-11","Soilwork",0
+"2008-11","The Haunted",0
+"2008-12","[Unknown]",6
+"2008-12","Amon Amarth",29
+"2008-12","Dark Tranquillity",12
+"2008-12","Dissection",5
+"2008-12","Draconian",5
+"2008-12","Enochian Crescent",5
+"2008-12","Evergrey",14
+"2008-12","Hatesphere",5
+"2008-12","Hypocrisy",10
+"2008-12","In Flames",8
+"2008-12","Katatonia",88
+"2008-12","Lake Of Tears",13
+"2008-12","Mokoma",19
+"2008-12","Moonspell",7
+"2008-12","My Dying Bride",8
+"2008-12","Paradise Lost",8
+"2008-12","Rotting Christ",4
+"2008-12","Sentenced",12
+"2008-12","Soilwork",25
+"2008-12","The Haunted",9
+"2009-01","[Unknown]",11
+"2009-01","Amon Amarth",15
+"2009-01","Dark Tranquillity",11
+"2009-01","Dissection",4
+"2009-01","Draconian",4
+"2009-01","Enochian Crescent",2
+"2009-01","Evergrey",5
+"2009-01","Hatesphere",24
+"2009-01","Hypocrisy",11
+"2009-01","In Flames",12
+"2009-01","Katatonia",17
+"2009-01","Lake Of Tears",9
+"2009-01","Mokoma",7
+"2009-01","Moonspell",16
+"2009-01","My Dying Bride",11
+"2009-01","Paradise Lost",13
+"2009-01","Rotting Christ",1
+"2009-01","Sentenced",19
+"2009-01","Soilwork",5
+"2009-01","The Haunted",12
+"2009-02","[Unknown]",1
+"2009-02","Amon Amarth",8
+"2009-02","Dark Tranquillity",5
+"2009-02","Dissection",1
+"2009-02","Draconian",4
+"2009-02","Enochian Crescent",2
+"2009-02","Evergrey",1
+"2009-02","Hatesphere",0
+"2009-02","Hypocrisy",2
+"2009-02","In Flames",2
+"2009-02","Katatonia",5
+"2009-02","Lake Of Tears",2
+"2009-02","Mokoma",2
+"2009-02","Moonspell",8
+"2009-02","My Dying Bride",59
+"2009-02","Paradise Lost",6
+"2009-02","Rotting Christ",1
+"2009-02","Sentenced",14
+"2009-02","Soilwork",6
+"2009-02","The Haunted",2
+"2009-03","[Unknown]",27
+"2009-03","Amon Amarth",0
+"2009-03","Dark Tranquillity",3
+"2009-03","Dissection",2
+"2009-03","Draconian",2
+"2009-03","Enochian Crescent",2
+"2009-03","Evergrey",1
+"2009-03","Hatesphere",1
+"2009-03","Hypocrisy",2
+"2009-03","In Flames",3
+"2009-03","Katatonia",3
+"2009-03","Lake Of Tears",1
+"2009-03","Mokoma",3
+"2009-03","Moonspell",0
+"2009-03","My Dying Bride",17
+"2009-03","Paradise Lost",3
+"2009-03","Rotting Christ",2
+"2009-03","Sentenced",2
+"2009-03","Soilwork",21
+"2009-03","The Haunted",1
+"2009-04","[Unknown]",0
+"2009-04","Amon Amarth",0
+"2009-04","Dark Tranquillity",0
+"2009-04","Dissection",0
+"2009-04","Draconian",0
+"2009-04","Enochian Crescent",0
+"2009-04","Evergrey",0
+"2009-04","Hatesphere",2
+"2009-04","Hypocrisy",0
+"2009-04","In Flames",0
+"2009-04","Katatonia",0
+"2009-04","Lake Of Tears",0
+"2009-04","Mokoma",0
+"2009-04","Moonspell",1
+"2009-04","My Dying Bride",0
+"2009-04","Paradise Lost",0
+"2009-04","Rotting Christ",0
+"2009-04","Sentenced",0
+"2009-04","Soilwork",0
+"2009-04","The Haunted",0
+"2009-05","[Unknown]",29
+"2009-05","Amon Amarth",1
+"2009-05","Dark Tranquillity",8
+"2009-05","Dissection",5
+"2009-05","Draconian",8
+"2009-05","Enochian Crescent",0
+"2009-05","Evergrey",1
+"2009-05","Hatesphere",0
+"2009-05","Hypocrisy",27
+"2009-05","In Flames",13
+"2009-05","Katatonia",1
+"2009-05","Lake Of Tears",0
+"2009-05","Mokoma",0
+"2009-05","Moonspell",0
+"2009-05","My Dying Bride",5
+"2009-05","Paradise Lost",1
+"2009-05","Rotting Christ",3
+"2009-05","Sentenced",0
+"2009-05","Soilwork",9
+"2009-05","The Haunted",14
+"2009-06","[Unknown]",1
+"2009-06","Amon Amarth",1
+"2009-06","Dark Tranquillity",1
+"2009-06","Dissection",0
+"2009-06","Draconian",0
+"2009-06","Enochian Crescent",0
+"2009-06","Evergrey",0
+"2009-06","Hatesphere",0
+"2009-06","Hypocrisy",0
+"2009-06","In Flames",0
+"2009-06","Katatonia",1
+"2009-06","Lake Of Tears",0
+"2009-06","Mokoma",1
+"2009-06","Moonspell",1
+"2009-06","My Dying Bride",12
+"2009-06","Paradise Lost",0
+"2009-06","Rotting Christ",0
+"2009-06","Sentenced",7
+"2009-06","Soilwork",2
+"2009-06","The Haunted",0

@@ -1,641 +1,641 @@
-month,artist,plays
-2006-11,Apocalyptica,0
-2006-11,Beastie Boys,1
-2006-11,Bob Marley,0
-2006-11,Bob Marley & The Wailers,0
-2006-11,Children Of Bodom,0
-2006-11,Deftones,0
-2006-11,Disturbed,0
-2006-11,Dj Shadow,0
-2006-11,Gentleman,1
-2006-11,Gorillaz,0
-2006-11,Heideroosjes,0
-2006-11,In Flames,0
-2006-11,John Legend,1
-2006-11,Seeed,2
-2006-11,Soilwork,0
-2006-11,System Of A Down,1
-2006-11,Tenacious D,0
-2006-11,The Prodigy,0
-2006-11,Tool,1
-2006-11,Travis,1
-2006-12,Apocalyptica,4
-2006-12,Beastie Boys,26
-2006-12,Bob Marley,110
-2006-12,Bob Marley & The Wailers,147
-2006-12,Children Of Bodom,9
-2006-12,Deftones,27
-2006-12,Disturbed,15
-2006-12,Dj Shadow,56
-2006-12,Gentleman,32
-2006-12,Gorillaz,96
-2006-12,Heideroosjes,19
-2006-12,In Flames,35
-2006-12,John Legend,42
-2006-12,Seeed,54
-2006-12,Soilwork,70
-2006-12,System Of A Down,70
-2006-12,Tenacious D,1
-2006-12,The Prodigy,62
-2006-12,Tool,55
-2006-12,Travis,38
-2007-01,Apocalyptica,24
-2007-01,Beastie Boys,17
-2007-01,Bob Marley,54
-2007-01,Bob Marley & The Wailers,64
-2007-01,Children Of Bodom,4
-2007-01,Deftones,18
-2007-01,Disturbed,11
-2007-01,Dj Shadow,28
-2007-01,Gentleman,19
-2007-01,Gorillaz,1
-2007-01,Heideroosjes,10
-2007-01,In Flames,38
-2007-01,John Legend,24
-2007-01,Seeed,40
-2007-01,Soilwork,54
-2007-01,System Of A Down,77
-2007-01,Tenacious D,3
-2007-01,The Prodigy,31
-2007-01,Tool,32
-2007-01,Travis,19
-2007-02,Apocalyptica,0
-2007-02,Beastie Boys,0
-2007-02,Bob Marley,0
-2007-02,Bob Marley & The Wailers,0
-2007-02,Children Of Bodom,0
-2007-02,Deftones,0
-2007-02,Disturbed,0
-2007-02,Dj Shadow,0
-2007-02,Gentleman,0
-2007-02,Gorillaz,0
-2007-02,Heideroosjes,0
-2007-02,In Flames,0
-2007-02,John Legend,0
-2007-02,Seeed,0
-2007-02,Soilwork,0
-2007-02,System Of A Down,0
-2007-02,Tenacious D,0
-2007-02,The Prodigy,0
-2007-02,Tool,0
-2007-02,Travis,0
-2007-03,Apocalyptica,0
-2007-03,Beastie Boys,0
-2007-03,Bob Marley,0
-2007-03,Bob Marley & The Wailers,0
-2007-03,Children Of Bodom,0
-2007-03,Deftones,0
-2007-03,Disturbed,0
-2007-03,Dj Shadow,0
-2007-03,Gentleman,0
-2007-03,Gorillaz,0
-2007-03,Heideroosjes,0
-2007-03,In Flames,0
-2007-03,John Legend,0
-2007-03,Seeed,0
-2007-03,Soilwork,0
-2007-03,System Of A Down,0
-2007-03,Tenacious D,0
-2007-03,The Prodigy,0
-2007-03,Tool,0
-2007-03,Travis,0
-2007-04,Apocalyptica,0
-2007-04,Beastie Boys,0
-2007-04,Bob Marley,0
-2007-04,Bob Marley & The Wailers,0
-2007-04,Children Of Bodom,0
-2007-04,Deftones,0
-2007-04,Disturbed,0
-2007-04,Dj Shadow,0
-2007-04,Gentleman,0
-2007-04,Gorillaz,0
-2007-04,Heideroosjes,0
-2007-04,In Flames,0
-2007-04,John Legend,0
-2007-04,Seeed,0
-2007-04,Soilwork,0
-2007-04,System Of A Down,0
-2007-04,Tenacious D,0
-2007-04,The Prodigy,0
-2007-04,Tool,0
-2007-04,Travis,0
-2007-05,Apocalyptica,0
-2007-05,Beastie Boys,0
-2007-05,Bob Marley,0
-2007-05,Bob Marley & The Wailers,0
-2007-05,Children Of Bodom,0
-2007-05,Deftones,0
-2007-05,Disturbed,0
-2007-05,Dj Shadow,0
-2007-05,Gentleman,0
-2007-05,Gorillaz,0
-2007-05,Heideroosjes,0
-2007-05,In Flames,0
-2007-05,John Legend,0
-2007-05,Seeed,0
-2007-05,Soilwork,0
-2007-05,System Of A Down,0
-2007-05,Tenacious D,0
-2007-05,The Prodigy,0
-2007-05,Tool,0
-2007-05,Travis,0
-2007-06,Apocalyptica,0
-2007-06,Beastie Boys,0
-2007-06,Bob Marley,0
-2007-06,Bob Marley & The Wailers,0
-2007-06,Children Of Bodom,0
-2007-06,Deftones,0
-2007-06,Disturbed,0
-2007-06,Dj Shadow,0
-2007-06,Gentleman,0
-2007-06,Gorillaz,0
-2007-06,Heideroosjes,0
-2007-06,In Flames,0
-2007-06,John Legend,0
-2007-06,Seeed,0
-2007-06,Soilwork,0
-2007-06,System Of A Down,0
-2007-06,Tenacious D,0
-2007-06,The Prodigy,0
-2007-06,Tool,0
-2007-06,Travis,0
-2007-07,Apocalyptica,0
-2007-07,Beastie Boys,0
-2007-07,Bob Marley,0
-2007-07,Bob Marley & The Wailers,0
-2007-07,Children Of Bodom,0
-2007-07,Deftones,0
-2007-07,Disturbed,0
-2007-07,Dj Shadow,0
-2007-07,Gentleman,0
-2007-07,Gorillaz,0
-2007-07,Heideroosjes,0
-2007-07,In Flames,0
-2007-07,John Legend,0
-2007-07,Seeed,0
-2007-07,Soilwork,0
-2007-07,System Of A Down,0
-2007-07,Tenacious D,0
-2007-07,The Prodigy,0
-2007-07,Tool,0
-2007-07,Travis,0
-2007-08,Apocalyptica,0
-2007-08,Beastie Boys,0
-2007-08,Bob Marley,0
-2007-08,Bob Marley & The Wailers,0
-2007-08,Children Of Bodom,0
-2007-08,Deftones,0
-2007-08,Disturbed,0
-2007-08,Dj Shadow,0
-2007-08,Gentleman,0
-2007-08,Gorillaz,0
-2007-08,Heideroosjes,0
-2007-08,In Flames,0
-2007-08,John Legend,0
-2007-08,Seeed,0
-2007-08,Soilwork,0
-2007-08,System Of A Down,0
-2007-08,Tenacious D,0
-2007-08,The Prodigy,0
-2007-08,Tool,0
-2007-08,Travis,0
-2007-09,Apocalyptica,0
-2007-09,Beastie Boys,0
-2007-09,Bob Marley,0
-2007-09,Bob Marley & The Wailers,0
-2007-09,Children Of Bodom,0
-2007-09,Deftones,0
-2007-09,Disturbed,0
-2007-09,Dj Shadow,0
-2007-09,Gentleman,0
-2007-09,Gorillaz,0
-2007-09,Heideroosjes,0
-2007-09,In Flames,0
-2007-09,John Legend,0
-2007-09,Seeed,0
-2007-09,Soilwork,0
-2007-09,System Of A Down,0
-2007-09,Tenacious D,0
-2007-09,The Prodigy,0
-2007-09,Tool,0
-2007-09,Travis,0
-2007-10,Apocalyptica,0
-2007-10,Beastie Boys,0
-2007-10,Bob Marley,0
-2007-10,Bob Marley & The Wailers,0
-2007-10,Children Of Bodom,0
-2007-10,Deftones,0
-2007-10,Disturbed,0
-2007-10,Dj Shadow,0
-2007-10,Gentleman,0
-2007-10,Gorillaz,0
-2007-10,Heideroosjes,0
-2007-10,In Flames,0
-2007-10,John Legend,0
-2007-10,Seeed,0
-2007-10,Soilwork,0
-2007-10,System Of A Down,0
-2007-10,Tenacious D,0
-2007-10,The Prodigy,0
-2007-10,Tool,0
-2007-10,Travis,0
-2007-11,Apocalyptica,0
-2007-11,Beastie Boys,0
-2007-11,Bob Marley,0
-2007-11,Bob Marley & The Wailers,0
-2007-11,Children Of Bodom,0
-2007-11,Deftones,0
-2007-11,Disturbed,0
-2007-11,Dj Shadow,0
-2007-11,Gentleman,0
-2007-11,Gorillaz,0
-2007-11,Heideroosjes,0
-2007-11,In Flames,0
-2007-11,John Legend,0
-2007-11,Seeed,0
-2007-11,Soilwork,0
-2007-11,System Of A Down,0
-2007-11,Tenacious D,0
-2007-11,The Prodigy,0
-2007-11,Tool,0
-2007-11,Travis,0
-2007-12,Apocalyptica,0
-2007-12,Beastie Boys,0
-2007-12,Bob Marley,0
-2007-12,Bob Marley & The Wailers,0
-2007-12,Children Of Bodom,0
-2007-12,Deftones,0
-2007-12,Disturbed,0
-2007-12,Dj Shadow,0
-2007-12,Gentleman,0
-2007-12,Gorillaz,0
-2007-12,Heideroosjes,0
-2007-12,In Flames,0
-2007-12,John Legend,0
-2007-12,Seeed,0
-2007-12,Soilwork,0
-2007-12,System Of A Down,0
-2007-12,Tenacious D,0
-2007-12,The Prodigy,0
-2007-12,Tool,0
-2007-12,Travis,0
-2008-01,Apocalyptica,15
-2008-01,Beastie Boys,11
-2008-01,Bob Marley,30
-2008-01,Bob Marley & The Wailers,28
-2008-01,Children Of Bodom,9
-2008-01,Deftones,13
-2008-01,Disturbed,14
-2008-01,Dj Shadow,5
-2008-01,Gentleman,7
-2008-01,Gorillaz,30
-2008-01,Heideroosjes,13
-2008-01,In Flames,5
-2008-01,John Legend,5
-2008-01,Seeed,15
-2008-01,Soilwork,72
-2008-01,System Of A Down,25
-2008-01,Tenacious D,2
-2008-01,The Prodigy,10
-2008-01,Tool,16
-2008-01,Travis,7
-2008-02,Apocalyptica,11
-2008-02,Beastie Boys,11
-2008-02,Bob Marley,18
-2008-02,Bob Marley & The Wailers,15
-2008-02,Children Of Bodom,5
-2008-02,Deftones,14
-2008-02,Disturbed,8
-2008-02,Dj Shadow,5
-2008-02,Gentleman,8
-2008-02,Gorillaz,12
-2008-02,Heideroosjes,7
-2008-02,In Flames,23
-2008-02,John Legend,13
-2008-02,Seeed,10
-2008-02,Soilwork,26
-2008-02,System Of A Down,17
-2008-02,Tenacious D,1
-2008-02,The Prodigy,11
-2008-02,Tool,6
-2008-02,Travis,3
-2008-03,Apocalyptica,251
-2008-03,Beastie Boys,3
-2008-03,Bob Marley,9
-2008-03,Bob Marley & The Wailers,11
-2008-03,Children Of Bodom,47
-2008-03,Deftones,41
-2008-03,Disturbed,22
-2008-03,Dj Shadow,2
-2008-03,Gentleman,2
-2008-03,Gorillaz,3
-2008-03,Heideroosjes,2
-2008-03,In Flames,41
-2008-03,John Legend,49
-2008-03,Seeed,5
-2008-03,Soilwork,30
-2008-03,System Of A Down,24
-2008-03,Tenacious D,1
-2008-03,The Prodigy,2
-2008-03,Tool,27
-2008-03,Travis,1
-2008-04,Apocalyptica,0
-2008-04,Beastie Boys,1
-2008-04,Bob Marley,1
-2008-04,Bob Marley & The Wailers,1
-2008-04,Children Of Bodom,1
-2008-04,Deftones,1
-2008-04,Disturbed,0
-2008-04,Dj Shadow,1
-2008-04,Gentleman,4
-2008-04,Gorillaz,1
-2008-04,Heideroosjes,3
-2008-04,In Flames,1
-2008-04,John Legend,2
-2008-04,Seeed,2
-2008-04,Soilwork,1
-2008-04,System Of A Down,3
-2008-04,Tenacious D,1
-2008-04,The Prodigy,1
-2008-04,Tool,1
-2008-04,Travis,1
-2008-05,Apocalyptica,34
-2008-05,Beastie Boys,3
-2008-05,Bob Marley,60
-2008-05,Bob Marley & The Wailers,57
-2008-05,Children Of Bodom,5
-2008-05,Deftones,11
-2008-05,Disturbed,4
-2008-05,Dj Shadow,1
-2008-05,Gentleman,2
-2008-05,Gorillaz,1
-2008-05,Heideroosjes,2
-2008-05,In Flames,19
-2008-05,John Legend,5
-2008-05,Seeed,4
-2008-05,Soilwork,20
-2008-05,System Of A Down,15
-2008-05,Tenacious D,1
-2008-05,The Prodigy,26
-2008-05,Tool,10
-2008-05,Travis,1
-2008-06,Apocalyptica,5
-2008-06,Beastie Boys,4
-2008-06,Bob Marley,6
-2008-06,Bob Marley & The Wailers,5
-2008-06,Children Of Bodom,3
-2008-06,Deftones,2
-2008-06,Disturbed,10
-2008-06,Dj Shadow,30
-2008-06,Gentleman,0
-2008-06,Gorillaz,7
-2008-06,Heideroosjes,2
-2008-06,In Flames,4
-2008-06,John Legend,1
-2008-06,Seeed,3
-2008-06,Soilwork,4
-2008-06,System Of A Down,1
-2008-06,Tenacious D,4
-2008-06,The Prodigy,6
-2008-06,Tool,2
-2008-06,Travis,0
-2008-07,Apocalyptica,54
-2008-07,Beastie Boys,5
-2008-07,Bob Marley,47
-2008-07,Bob Marley & The Wailers,40
-2008-07,Children Of Bodom,6
-2008-07,Deftones,4
-2008-07,Disturbed,5
-2008-07,Dj Shadow,146
-2008-07,Gentleman,4
-2008-07,Gorillaz,89
-2008-07,Heideroosjes,1
-2008-07,In Flames,20
-2008-07,John Legend,3
-2008-07,Seeed,10
-2008-07,Soilwork,14
-2008-07,System Of A Down,9
-2008-07,Tenacious D,4
-2008-07,The Prodigy,11
-2008-07,Tool,4
-2008-07,Travis,4
-2008-08,Apocalyptica,72
-2008-08,Beastie Boys,14
-2008-08,Bob Marley,20
-2008-08,Bob Marley & The Wailers,35
-2008-08,Children Of Bodom,21
-2008-08,Deftones,29
-2008-08,Disturbed,18
-2008-08,Dj Shadow,16
-2008-08,Gentleman,4
-2008-08,Gorillaz,118
-2008-08,Heideroosjes,1
-2008-08,In Flames,56
-2008-08,John Legend,5
-2008-08,Seeed,15
-2008-08,Soilwork,82
-2008-08,System Of A Down,48
-2008-08,Tenacious D,109
-2008-08,The Prodigy,24
-2008-08,Tool,18
-2008-08,Travis,3
-2008-09,Apocalyptica,12
-2008-09,Beastie Boys,3
-2008-09,Bob Marley,4
-2008-09,Bob Marley & The Wailers,4
-2008-09,Children Of Bodom,2
-2008-09,Deftones,10
-2008-09,Disturbed,4
-2008-09,Dj Shadow,4
-2008-09,Gentleman,2
-2008-09,Gorillaz,5
-2008-09,Heideroosjes,4
-2008-09,In Flames,37
-2008-09,John Legend,0
-2008-09,Seeed,8
-2008-09,Soilwork,40
-2008-09,System Of A Down,5
-2008-09,Tenacious D,131
-2008-09,The Prodigy,4
-2008-09,Tool,6
-2008-09,Travis,1
-2008-10,Apocalyptica,3
-2008-10,Beastie Boys,2
-2008-10,Bob Marley,0
-2008-10,Bob Marley & The Wailers,0
-2008-10,Children Of Bodom,2
-2008-10,Deftones,1
-2008-10,Disturbed,4
-2008-10,Dj Shadow,1
-2008-10,Gentleman,1
-2008-10,Gorillaz,0
-2008-10,Heideroosjes,1
-2008-10,In Flames,2
-2008-10,John Legend,144
-2008-10,Seeed,1
-2008-10,Soilwork,5
-2008-10,System Of A Down,1
-2008-10,Tenacious D,3
-2008-10,The Prodigy,1
-2008-10,Tool,2
-2008-10,Travis,1
-2008-11,Apocalyptica,17
-2008-11,Beastie Boys,7
-2008-11,Bob Marley,4
-2008-11,Bob Marley & The Wailers,7
-2008-11,Children Of Bodom,2
-2008-11,Deftones,4
-2008-11,Disturbed,7
-2008-11,Dj Shadow,1
-2008-11,Gentleman,6
-2008-11,Gorillaz,9
-2008-11,Heideroosjes,2
-2008-11,In Flames,8
-2008-11,John Legend,2
-2008-11,Seeed,7
-2008-11,Soilwork,13
-2008-11,System Of A Down,5
-2008-11,Tenacious D,3
-2008-11,The Prodigy,10
-2008-11,Tool,5
-2008-11,Travis,2
-2008-12,Apocalyptica,31
-2008-12,Beastie Boys,8
-2008-12,Bob Marley,16
-2008-12,Bob Marley & The Wailers,31
-2008-12,Children Of Bodom,4
-2008-12,Deftones,18
-2008-12,Disturbed,9
-2008-12,Dj Shadow,8
-2008-12,Gentleman,3
-2008-12,Gorillaz,16
-2008-12,Heideroosjes,11
-2008-12,In Flames,22
-2008-12,John Legend,12
-2008-12,Seeed,8
-2008-12,Soilwork,50
-2008-12,System Of A Down,14
-2008-12,Tenacious D,8
-2008-12,The Prodigy,29
-2008-12,Tool,10
-2008-12,Travis,6
-2009-01,Apocalyptica,85
-2009-01,Beastie Boys,27
-2009-01,Bob Marley,40
-2009-01,Bob Marley & The Wailers,56
-2009-01,Children Of Bodom,11
-2009-01,Deftones,29
-2009-01,Disturbed,75
-2009-01,Dj Shadow,35
-2009-01,Gentleman,16
-2009-01,Gorillaz,35
-2009-01,Heideroosjes,29
-2009-01,In Flames,112
-2009-01,John Legend,38
-2009-01,Seeed,24
-2009-01,Soilwork,58
-2009-01,System Of A Down,43
-2009-01,Tenacious D,16
-2009-01,The Prodigy,49
-2009-01,Tool,27
-2009-01,Travis,16
-2009-02,Apocalyptica,53
-2009-02,Beastie Boys,13
-2009-02,Bob Marley,30
-2009-02,Bob Marley & The Wailers,39
-2009-02,Children Of Bodom,6
-2009-02,Deftones,11
-2009-02,Disturbed,19
-2009-02,Dj Shadow,9
-2009-02,Gentleman,9
-2009-02,Gorillaz,22
-2009-02,Heideroosjes,9
-2009-02,In Flames,41
-2009-02,John Legend,22
-2009-02,Seeed,16
-2009-02,Soilwork,330
-2009-02,System Of A Down,24
-2009-02,Tenacious D,14
-2009-02,The Prodigy,27
-2009-02,Tool,17
-2009-02,Travis,14
-2009-03,Apocalyptica,43
-2009-03,Beastie Boys,14
-2009-03,Bob Marley,114
-2009-03,Bob Marley & The Wailers,120
-2009-03,Children Of Bodom,8
-2009-03,Deftones,20
-2009-03,Disturbed,16
-2009-03,Dj Shadow,9
-2009-03,Gentleman,12
-2009-03,Gorillaz,16
-2009-03,Heideroosjes,6
-2009-03,In Flames,45
-2009-03,John Legend,17
-2009-03,Seeed,19
-2009-03,Soilwork,42
-2009-03,System Of A Down,20
-2009-03,Tenacious D,6
-2009-03,The Prodigy,51
-2009-03,Tool,21
-2009-03,Travis,8
-2009-04,Apocalyptica,31
-2009-04,Beastie Boys,9
-2009-04,Bob Marley,35
-2009-04,Bob Marley & The Wailers,30
-2009-04,Children Of Bodom,5
-2009-04,Deftones,14
-2009-04,Disturbed,24
-2009-04,Dj Shadow,9
-2009-04,Gentleman,6
-2009-04,Gorillaz,35
-2009-04,Heideroosjes,9
-2009-04,In Flames,21
-2009-04,John Legend,12
-2009-04,Seeed,19
-2009-04,Soilwork,82
-2009-04,System Of A Down,9
-2009-04,Tenacious D,5
-2009-04,The Prodigy,30
-2009-04,Tool,9
-2009-04,Travis,7
-2009-05,Apocalyptica,48
-2009-05,Beastie Boys,10
-2009-05,Bob Marley,21
-2009-05,Bob Marley & The Wailers,18
-2009-05,Children Of Bodom,8
-2009-05,Deftones,15
-2009-05,Disturbed,20
-2009-05,Dj Shadow,8
-2009-05,Gentleman,11
-2009-05,Gorillaz,14
-2009-05,Heideroosjes,4
-2009-05,In Flames,38
-2009-05,John Legend,6
-2009-05,Seeed,11
-2009-05,Soilwork,30
-2009-05,System Of A Down,28
-2009-05,Tenacious D,6
-2009-05,The Prodigy,23
-2009-05,Tool,18
-2009-05,Travis,4
-2009-06,Apocalyptica,5
-2009-06,Beastie Boys,3
-2009-06,Bob Marley,3
-2009-06,Bob Marley & The Wailers,7
-2009-06,Children Of Bodom,1
-2009-06,Deftones,4
-2009-06,Disturbed,4
-2009-06,Dj Shadow,1
-2009-06,Gentleman,0
-2009-06,Gorillaz,4
-2009-06,Heideroosjes,3
-2009-06,In Flames,7
-2009-06,John Legend,2
-2009-06,Seeed,1
-2009-06,Soilwork,4
-2009-06,System Of A Down,4
-2009-06,Tenacious D,3
-2009-06,The Prodigy,1
-2009-06,Tool,1
-2009-06,Travis,3
+"month","artist","plays"
+"2006-11","Apocalyptica",0
+"2006-11","Beastie Boys",1
+"2006-11","Bob Marley",0
+"2006-11","Bob Marley & The Wailers",0
+"2006-11","Children Of Bodom",0
+"2006-11","Deftones",0
+"2006-11","Disturbed",0
+"2006-11","Dj Shadow",0
+"2006-11","Gentleman",1
+"2006-11","Gorillaz",0
+"2006-11","Heideroosjes",0
+"2006-11","In Flames",0
+"2006-11","John Legend",1
+"2006-11","Seeed",2
+"2006-11","Soilwork",0
+"2006-11","System Of A Down",1
+"2006-11","Tenacious D",0
+"2006-11","The Prodigy",0
+"2006-11","Tool",1
+"2006-11","Travis",1
+"2006-12","Apocalyptica",4
+"2006-12","Beastie Boys",26
+"2006-12","Bob Marley",110
+"2006-12","Bob Marley & The Wailers",147
+"2006-12","Children Of Bodom",9
+"2006-12","Deftones",27
+"2006-12","Disturbed",15
+"2006-12","Dj Shadow",56
+"2006-12","Gentleman",32
+"2006-12","Gorillaz",96
+"2006-12","Heideroosjes",19
+"2006-12","In Flames",35
+"2006-12","John Legend",42
+"2006-12","Seeed",54
+"2006-12","Soilwork",70
+"2006-12","System Of A Down",70
+"2006-12","Tenacious D",1
+"2006-12","The Prodigy",62
+"2006-12","Tool",55
+"2006-12","Travis",38
+"2007-01","Apocalyptica",24
+"2007-01","Beastie Boys",17
+"2007-01","Bob Marley",54
+"2007-01","Bob Marley & The Wailers",64
+"2007-01","Children Of Bodom",4
+"2007-01","Deftones",18
+"2007-01","Disturbed",11
+"2007-01","Dj Shadow",28
+"2007-01","Gentleman",19
+"2007-01","Gorillaz",1
+"2007-01","Heideroosjes",10
+"2007-01","In Flames",38
+"2007-01","John Legend",24
+"2007-01","Seeed",40
+"2007-01","Soilwork",54
+"2007-01","System Of A Down",77
+"2007-01","Tenacious D",3
+"2007-01","The Prodigy",31
+"2007-01","Tool",32
+"2007-01","Travis",19
+"2007-02","Apocalyptica",0
+"2007-02","Beastie Boys",0
+"2007-02","Bob Marley",0
+"2007-02","Bob Marley & The Wailers",0
+"2007-02","Children Of Bodom",0
+"2007-02","Deftones",0
+"2007-02","Disturbed",0
+"2007-02","Dj Shadow",0
+"2007-02","Gentleman",0
+"2007-02","Gorillaz",0
+"2007-02","Heideroosjes",0
+"2007-02","In Flames",0
+"2007-02","John Legend",0
+"2007-02","Seeed",0
+"2007-02","Soilwork",0
+"2007-02","System Of A Down",0
+"2007-02","Tenacious D",0
+"2007-02","The Prodigy",0
+"2007-02","Tool",0
+"2007-02","Travis",0
+"2007-03","Apocalyptica",0
+"2007-03","Beastie Boys",0
+"2007-03","Bob Marley",0
+"2007-03","Bob Marley & The Wailers",0
+"2007-03","Children Of Bodom",0
+"2007-03","Deftones",0
+"2007-03","Disturbed",0
+"2007-03","Dj Shadow",0
+"2007-03","Gentleman",0
+"2007-03","Gorillaz",0
+"2007-03","Heideroosjes",0
+"2007-03","In Flames",0
+"2007-03","John Legend",0
+"2007-03","Seeed",0
+"2007-03","Soilwork",0
+"2007-03","System Of A Down",0
+"2007-03","Tenacious D",0
+"2007-03","The Prodigy",0
+"2007-03","Tool",0
+"2007-03","Travis",0
+"2007-04","Apocalyptica",0
+"2007-04","Beastie Boys",0
+"2007-04","Bob Marley",0
+"2007-04","Bob Marley & The Wailers",0
+"2007-04","Children Of Bodom",0
+"2007-04","Deftones",0
+"2007-04","Disturbed",0
+"2007-04","Dj Shadow",0
+"2007-04","Gentleman",0
+"2007-04","Gorillaz",0
+"2007-04","Heideroosjes",0
+"2007-04","In Flames",0
+"2007-04","John Legend",0
+"2007-04","Seeed",0
+"2007-04","Soilwork",0
+"2007-04","System Of A Down",0
+"2007-04","Tenacious D",0
+"2007-04","The Prodigy",0
+"2007-04","Tool",0
+"2007-04","Travis",0
+"2007-05","Apocalyptica",0
+"2007-05","Beastie Boys",0
+"2007-05","Bob Marley",0
+"2007-05","Bob Marley & The Wailers",0
+"2007-05","Children Of Bodom",0
+"2007-05","Deftones",0
+"2007-05","Disturbed",0
+"2007-05","Dj Shadow",0
+"2007-05","Gentleman",0
+"2007-05","Gorillaz",0
+"2007-05","Heideroosjes",0
+"2007-05","In Flames",0
+"2007-05","John Legend",0
+"2007-05","Seeed",0
+"2007-05","Soilwork",0
+"2007-05","System Of A Down",0
+"2007-05","Tenacious D",0
+"2007-05","The Prodigy",0
+"2007-05","Tool",0
+"2007-05","Travis",0
+"2007-06","Apocalyptica",0
+"2007-06","Beastie Boys",0
+"2007-06","Bob Marley",0
+"2007-06","Bob Marley & The Wailers",0
+"2007-06","Children Of Bodom",0
+"2007-06","Deftones",0
+"2007-06","Disturbed",0
+"2007-06","Dj Shadow",0
+"2007-06","Gentleman",0
+"2007-06","Gorillaz",0
+"2007-06","Heideroosjes",0
+"2007-06","In Flames",0
+"2007-06","John Legend",0
+"2007-06","Seeed",0
+"2007-06","Soilwork",0
+"2007-06","System Of A Down",0
+"2007-06","Tenacious D",0
+"2007-06","The Prodigy",0
+"2007-06","Tool",0
+"2007-06","Travis",0
+"2007-07","Apocalyptica",0
+"2007-07","Beastie Boys",0
+"2007-07","Bob Marley",0
+"2007-07","Bob Marley & The Wailers",0
+"2007-07","Children Of Bodom",0
+"2007-07","Deftones",0
+"2007-07","Disturbed",0
+"2007-07","Dj Shadow",0
+"2007-07","Gentleman",0
+"2007-07","Gorillaz",0
+"2007-07","Heideroosjes",0
+"2007-07","In Flames",0
+"2007-07","John Legend",0
+"2007-07","Seeed",0
+"2007-07","Soilwork",0
+"2007-07","System Of A Down",0
+"2007-07","Tenacious D",0
+"2007-07","The Prodigy",0
+"2007-07","Tool",0
+"2007-07","Travis",0
+"2007-08","Apocalyptica",0
+"2007-08","Beastie Boys",0
+"2007-08","Bob Marley",0
+"2007-08","Bob Marley & The Wailers",0
+"2007-08","Children Of Bodom",0
+"2007-08","Deftones",0
+"2007-08","Disturbed",0
+"2007-08","Dj Shadow",0
+"2007-08","Gentleman",0
+"2007-08","Gorillaz",0
+"2007-08","Heideroosjes",0
+"2007-08","In Flames",0
+"2007-08","John Legend",0
+"2007-08","Seeed",0
+"2007-08","Soilwork",0
+"2007-08","System Of A Down",0
+"2007-08","Tenacious D",0
+"2007-08","The Prodigy",0
+"2007-08","Tool",0
+"2007-08","Travis",0
+"2007-09","Apocalyptica",0
+"2007-09","Beastie Boys",0
+"2007-09","Bob Marley",0
+"2007-09","Bob Marley & The Wailers",0
+"2007-09","Children Of Bodom",0
+"2007-09","Deftones",0
+"2007-09","Disturbed",0
+"2007-09","Dj Shadow",0
+"2007-09","Gentleman",0
+"2007-09","Gorillaz",0
+"2007-09","Heideroosjes",0
+"2007-09","In Flames",0
+"2007-09","John Legend",0
+"2007-09","Seeed",0
+"2007-09","Soilwork",0
+"2007-09","System Of A Down",0
+"2007-09","Tenacious D",0
+"2007-09","The Prodigy",0
+"2007-09","Tool",0
+"2007-09","Travis",0
+"2007-10","Apocalyptica",0
+"2007-10","Beastie Boys",0
+"2007-10","Bob Marley",0
+"2007-10","Bob Marley & The Wailers",0
+"2007-10","Children Of Bodom",0
+"2007-10","Deftones",0
+"2007-10","Disturbed",0
+"2007-10","Dj Shadow",0
+"2007-10","Gentleman",0
+"2007-10","Gorillaz",0
+"2007-10","Heideroosjes",0
+"2007-10","In Flames",0
+"2007-10","John Legend",0
+"2007-10","Seeed",0
+"2007-10","Soilwork",0
+"2007-10","System Of A Down",0
+"2007-10","Tenacious D",0
+"2007-10","The Prodigy",0
+"2007-10","Tool",0
+"2007-10","Travis",0
+"2007-11","Apocalyptica",0
+"2007-11","Beastie Boys",0
+"2007-11","Bob Marley",0
+"2007-11","Bob Marley & The Wailers",0
+"2007-11","Children Of Bodom",0
+"2007-11","Deftones",0
+"2007-11","Disturbed",0
+"2007-11","Dj Shadow",0
+"2007-11","Gentleman",0
+"2007-11","Gorillaz",0
+"2007-11","Heideroosjes",0
+"2007-11","In Flames",0
+"2007-11","John Legend",0
+"2007-11","Seeed",0
+"2007-11","Soilwork",0
+"2007-11","System Of A Down",0
+"2007-11","Tenacious D",0
+"2007-11","The Prodigy",0
+"2007-11","Tool",0
+"2007-11","Travis",0
+"2007-12","Apocalyptica",0
+"2007-12","Beastie Boys",0
+"2007-12","Bob Marley",0
+"2007-12","Bob Marley & The Wailers",0
+"2007-12","Children Of Bodom",0
+"2007-12","Deftones",0
+"2007-12","Disturbed",0
+"2007-12","Dj Shadow",0
+"2007-12","Gentleman",0
+"2007-12","Gorillaz",0
+"2007-12","Heideroosjes",0
+"2007-12","In Flames",0
+"2007-12","John Legend",0
+"2007-12","Seeed",0
+"2007-12","Soilwork",0
+"2007-12","System Of A Down",0
+"2007-12","Tenacious D",0
+"2007-12","The Prodigy",0
+"2007-12","Tool",0
+"2007-12","Travis",0
+"2008-01","Apocalyptica",15
+"2008-01","Beastie Boys",11
+"2008-01","Bob Marley",30
+"2008-01","Bob Marley & The Wailers",28
+"2008-01","Children Of Bodom",9
+"2008-01","Deftones",13
+"2008-01","Disturbed",14
+"2008-01","Dj Shadow",5
+"2008-01","Gentleman",7
+"2008-01","Gorillaz",30
+"2008-01","Heideroosjes",13
+"2008-01","In Flames",5
+"2008-01","John Legend",5
+"2008-01","Seeed",15
+"2008-01","Soilwork",72
+"2008-01","System Of A Down",25
+"2008-01","Tenacious D",2
+"2008-01","The Prodigy",10
+"2008-01","Tool",16
+"2008-01","Travis",7
+"2008-02","Apocalyptica",11
+"2008-02","Beastie Boys",11
+"2008-02","Bob Marley",18
+"2008-02","Bob Marley & The Wailers",15
+"2008-02","Children Of Bodom",5
+"2008-02","Deftones",14
+"2008-02","Disturbed",8
+"2008-02","Dj Shadow",5
+"2008-02","Gentleman",8
+"2008-02","Gorillaz",12
+"2008-02","Heideroosjes",7
+"2008-02","In Flames",23
+"2008-02","John Legend",13
+"2008-02","Seeed",10
+"2008-02","Soilwork",26
+"2008-02","System Of A Down",17
+"2008-02","Tenacious D",1
+"2008-02","The Prodigy",11
+"2008-02","Tool",6
+"2008-02","Travis",3
+"2008-03","Apocalyptica",251
+"2008-03","Beastie Boys",3
+"2008-03","Bob Marley",9
+"2008-03","Bob Marley & The Wailers",11
+"2008-03","Children Of Bodom",47
+"2008-03","Deftones",41
+"2008-03","Disturbed",22
+"2008-03","Dj Shadow",2
+"2008-03","Gentleman",2
+"2008-03","Gorillaz",3
+"2008-03","Heideroosjes",2
+"2008-03","In Flames",41
+"2008-03","John Legend",49
+"2008-03","Seeed",5
+"2008-03","Soilwork",30
+"2008-03","System Of A Down",24
+"2008-03","Tenacious D",1
+"2008-03","The Prodigy",2
+"2008-03","Tool",27
+"2008-03","Travis",1
+"2008-04","Apocalyptica",0
+"2008-04","Beastie Boys",1
+"2008-04","Bob Marley",1
+"2008-04","Bob Marley & The Wailers",1
+"2008-04","Children Of Bodom",1
+"2008-04","Deftones",1
+"2008-04","Disturbed",0
+"2008-04","Dj Shadow",1
+"2008-04","Gentleman",4
+"2008-04","Gorillaz",1
+"2008-04","Heideroosjes",3
+"2008-04","In Flames",1
+"2008-04","John Legend",2
+"2008-04","Seeed",2
+"2008-04","Soilwork",1
+"2008-04","System Of A Down",3
+"2008-04","Tenacious D",1
+"2008-04","The Prodigy",1
+"2008-04","Tool",1
+"2008-04","Travis",1
+"2008-05","Apocalyptica",34
+"2008-05","Beastie Boys",3
+"2008-05","Bob Marley",60
+"2008-05","Bob Marley & The Wailers",57
+"2008-05","Children Of Bodom",5
+"2008-05","Deftones",11
+"2008-05","Disturbed",4
+"2008-05","Dj Shadow",1
+"2008-05","Gentleman",2
+"2008-05","Gorillaz",1
+"2008-05","Heideroosjes",2
+"2008-05","In Flames",19
+"2008-05","John Legend",5
+"2008-05","Seeed",4
+"2008-05","Soilwork",20
+"2008-05","System Of A Down",15
+"2008-05","Tenacious D",1
+"2008-05","The Prodigy",26
+"2008-05","Tool",10
+"2008-05","Travis",1
+"2008-06","Apocalyptica",5
+"2008-06","Beastie Boys",4
+"2008-06","Bob Marley",6
+"2008-06","Bob Marley & The Wailers",5
+"2008-06","Children Of Bodom",3
+"2008-06","Deftones",2
+"2008-06","Disturbed",10
+"2008-06","Dj Shadow",30
+"2008-06","Gentleman",0
+"2008-06","Gorillaz",7
+"2008-06","Heideroosjes",2
+"2008-06","In Flames",4
+"2008-06","John Legend",1
+"2008-06","Seeed",3
+"2008-06","Soilwork",4
+"2008-06","System Of A Down",1
+"2008-06","Tenacious D",4
+"2008-06","The Prodigy",6
+"2008-06","Tool",2
+"2008-06","Travis",0
+"2008-07","Apocalyptica",54
+"2008-07","Beastie Boys",5
+"2008-07","Bob Marley",47
+"2008-07","Bob Marley & The Wailers",40
+"2008-07","Children Of Bodom",6
+"2008-07","Deftones",4
+"2008-07","Disturbed",5
+"2008-07","Dj Shadow",146
+"2008-07","Gentleman",4
+"2008-07","Gorillaz",89
+"2008-07","Heideroosjes",1
+"2008-07","In Flames",20
+"2008-07","John Legend",3
+"2008-07","Seeed",10
+"2008-07","Soilwork",14
+"2008-07","System Of A Down",9
+"2008-07","Tenacious D",4
+"2008-07","The Prodigy",11
+"2008-07","Tool",4
+"2008-07","Travis",4
+"2008-08","Apocalyptica",72
+"2008-08","Beastie Boys",14
+"2008-08","Bob Marley",20
+"2008-08","Bob Marley & The Wailers",35
+"2008-08","Children Of Bodom",21
+"2008-08","Deftones",29
+"2008-08","Disturbed",18
+"2008-08","Dj Shadow",16
+"2008-08","Gentleman",4
+"2008-08","Gorillaz",118
+"2008-08","Heideroosjes",1
+"2008-08","In Flames",56
+"2008-08","John Legend",5
+"2008-08","Seeed",15
+"2008-08","Soilwork",82
+"2008-08","System Of A Down",48
+"2008-08","Tenacious D",109
+"2008-08","The Prodigy",24
+"2008-08","Tool",18
+"2008-08","Travis",3
+"2008-09","Apocalyptica",12
+"2008-09","Beastie Boys",3
+"2008-09","Bob Marley",4
+"2008-09","Bob Marley & The Wailers",4
+"2008-09","Children Of Bodom",2
+"2008-09","Deftones",10
+"2008-09","Disturbed",4
+"2008-09","Dj Shadow",4
+"2008-09","Gentleman",2
+"2008-09","Gorillaz",5
+"2008-09","Heideroosjes",4
+"2008-09","In Flames",37
+"2008-09","John Legend",0
+"2008-09","Seeed",8
+"2008-09","Soilwork",40
+"2008-09","System Of A Down",5
+"2008-09","Tenacious D",131
+"2008-09","The Prodigy",4
+"2008-09","Tool",6
+"2008-09","Travis",1
+"2008-10","Apocalyptica",3
+"2008-10","Beastie Boys",2
+"2008-10","Bob Marley",0
+"2008-10","Bob Marley & The Wailers",0
+"2008-10","Children Of Bodom",2
+"2008-10","Deftones",1
+"2008-10","Disturbed",4
+"2008-10","Dj Shadow",1
+"2008-10","Gentleman",1
+"2008-10","Gorillaz",0
+"2008-10","Heideroosjes",1
+"2008-10","In Flames",2
+"2008-10","John Legend",144
+"2008-10","Seeed",1
+"2008-10","Soilwork",5
+"2008-10","System Of A Down",1
+"2008-10","Tenacious D",3
+"2008-10","The Prodigy",1
+"2008-10","Tool",2
+"2008-10","Travis",1
+"2008-11","Apocalyptica",17
+"2008-11","Beastie Boys",7
+"2008-11","Bob Marley",4
+"2008-11","Bob Marley & The Wailers",7
+"2008-11","Children Of Bodom",2
+"2008-11","Deftones",4
+"2008-11","Disturbed",7
+"2008-11","Dj Shadow",1
+"2008-11","Gentleman",6
+"2008-11","Gorillaz",9
+"2008-11","Heideroosjes",2
+"2008-11","In Flames",8
+"2008-11","John Legend",2
+"2008-11","Seeed",7
+"2008-11","Soilwork",13
+"2008-11","System Of A Down",5
+"2008-11","Tenacious D",3
+"2008-11","The Prodigy",10
+"2008-11","Tool",5
+"2008-11","Travis",2
+"2008-12","Apocalyptica",31
+"2008-12","Beastie Boys",8
+"2008-12","Bob Marley",16
+"2008-12","Bob Marley & The Wailers",31
+"2008-12","Children Of Bodom",4
+"2008-12","Deftones",18
+"2008-12","Disturbed",9
+"2008-12","Dj Shadow",8
+"2008-12","Gentleman",3
+"2008-12","Gorillaz",16
+"2008-12","Heideroosjes",11
+"2008-12","In Flames",22
+"2008-12","John Legend",12
+"2008-12","Seeed",8
+"2008-12","Soilwork",50
+"2008-12","System Of A Down",14
+"2008-12","Tenacious D",8
+"2008-12","The Prodigy",29
+"2008-12","Tool",10
+"2008-12","Travis",6
+"2009-01","Apocalyptica",85
+"2009-01","Beastie Boys",27
+"2009-01","Bob Marley",40
+"2009-01","Bob Marley & The Wailers",56
+"2009-01","Children Of Bodom",11
+"2009-01","Deftones",29
+"2009-01","Disturbed",75
+"2009-01","Dj Shadow",35
+"2009-01","Gentleman",16
+"2009-01","Gorillaz",35
+"2009-01","Heideroosjes",29
+"2009-01","In Flames",112
+"2009-01","John Legend",38
+"2009-01","Seeed",24
+"2009-01","Soilwork",58
+"2009-01","System Of A Down",43
+"2009-01","Tenacious D",16
+"2009-01","The Prodigy",49
+"2009-01","Tool",27
+"2009-01","Travis",16
+"2009-02","Apocalyptica",53
+"2009-02","Beastie Boys",13
+"2009-02","Bob Marley",30
+"2009-02","Bob Marley & The Wailers",39
+"2009-02","Children Of Bodom",6
+"2009-02","Deftones",11
+"2009-02","Disturbed",19
+"2009-02","Dj Shadow",9
+"2009-02","Gentleman",9
+"2009-02","Gorillaz",22
+"2009-02","Heideroosjes",9
+"2009-02","In Flames",41
+"2009-02","John Legend",22
+"2009-02","Seeed",16
+"2009-02","Soilwork",330
+"2009-02","System Of A Down",24
+"2009-02","Tenacious D",14
+"2009-02","The Prodigy",27
+"2009-02","Tool",17
+"2009-02","Travis",14
+"2009-03","Apocalyptica",43
+"2009-03","Beastie Boys",14
+"2009-03","Bob Marley",114
+"2009-03","Bob Marley & The Wailers",120
+"2009-03","Children Of Bodom",8
+"2009-03","Deftones",20
+"2009-03","Disturbed",16
+"2009-03","Dj Shadow",9
+"2009-03","Gentleman",12
+"2009-03","Gorillaz",16
+"2009-03","Heideroosjes",6
+"2009-03","In Flames",45
+"2009-03","John Legend",17
+"2009-03","Seeed",19
+"2009-03","Soilwork",42
+"2009-03","System Of A Down",20
+"2009-03","Tenacious D",6
+"2009-03","The Prodigy",51
+"2009-03","Tool",21
+"2009-03","Travis",8
+"2009-04","Apocalyptica",31
+"2009-04","Beastie Boys",9
+"2009-04","Bob Marley",35
+"2009-04","Bob Marley & The Wailers",30
+"2009-04","Children Of Bodom",5
+"2009-04","Deftones",14
+"2009-04","Disturbed",24
+"2009-04","Dj Shadow",9
+"2009-04","Gentleman",6
+"2009-04","Gorillaz",35
+"2009-04","Heideroosjes",9
+"2009-04","In Flames",21
+"2009-04","John Legend",12
+"2009-04","Seeed",19
+"2009-04","Soilwork",82
+"2009-04","System Of A Down",9
+"2009-04","Tenacious D",5
+"2009-04","The Prodigy",30
+"2009-04","Tool",9
+"2009-04","Travis",7
+"2009-05","Apocalyptica",48
+"2009-05","Beastie Boys",10
+"2009-05","Bob Marley",21
+"2009-05","Bob Marley & The Wailers",18
+"2009-05","Children Of Bodom",8
+"2009-05","Deftones",15
+"2009-05","Disturbed",20
+"2009-05","Dj Shadow",8
+"2009-05","Gentleman",11
+"2009-05","Gorillaz",14
+"2009-05","Heideroosjes",4
+"2009-05","In Flames",38
+"2009-05","John Legend",6
+"2009-05","Seeed",11
+"2009-05","Soilwork",30
+"2009-05","System Of A Down",28
+"2009-05","Tenacious D",6
+"2009-05","The Prodigy",23
+"2009-05","Tool",18
+"2009-05","Travis",4
+"2009-06","Apocalyptica",5
+"2009-06","Beastie Boys",3
+"2009-06","Bob Marley",3
+"2009-06","Bob Marley & The Wailers",7
+"2009-06","Children Of Bodom",1
+"2009-06","Deftones",4
+"2009-06","Disturbed",4
+"2009-06","Dj Shadow",1
+"2009-06","Gentleman",0
+"2009-06","Gorillaz",4
+"2009-06","Heideroosjes",3
+"2009-06","In Flames",7
+"2009-06","John Legend",2
+"2009-06","Seeed",1
+"2009-06","Soilwork",4
+"2009-06","System Of A Down",4
+"2009-06","Tenacious D",3
+"2009-06","The Prodigy",1
+"2009-06","Tool",1
+"2009-06","Travis",3

@@ -1,541 +1,541 @@
-month,artist,plays
-2007-02,Arch Enemy,15
-2007-02,As I Lay Dying,8
-2007-02,Children Of Bodom,16
-2007-02,Chimaira,14
-2007-02,Grinspoon,2
-2007-02,Hatebreed,9
-2007-02,In Flames,22
-2007-02,Justin Cook,9
-2007-02,Juz,44
-2007-02,Lamb Of God,12
-2007-02,Machine Head,16
-2007-02,Metallica,39
-2007-02,Pantera,20
-2007-02,Red Hot Chili Peppers,9
-2007-02,Tenacious D,2
-2007-02,The Offspring,11
-2007-02,Tool,7
-2007-02,Tria Mera,0
-2007-02,Trivium,7
-2007-02,Unearth,6
-2007-03,Arch Enemy,87
-2007-03,As I Lay Dying,63
-2007-03,Children Of Bodom,91
-2007-03,Chimaira,82
-2007-03,Grinspoon,21
-2007-03,Hatebreed,94
-2007-03,In Flames,167
-2007-03,Justin Cook,50
-2007-03,Juz,330
-2007-03,Lamb Of God,87
-2007-03,Machine Head,89
-2007-03,Metallica,346
-2007-03,Pantera,213
-2007-03,Red Hot Chili Peppers,111
-2007-03,Tenacious D,1
-2007-03,The Offspring,95
-2007-03,Tool,42
-2007-03,Tria Mera,0
-2007-03,Trivium,54
-2007-03,Unearth,68
-2007-04,Arch Enemy,71
-2007-04,As I Lay Dying,58
-2007-04,Children Of Bodom,72
-2007-04,Chimaira,56
-2007-04,Grinspoon,24
-2007-04,Hatebreed,48
-2007-04,In Flames,115
-2007-04,Justin Cook,42
-2007-04,Juz,228
-2007-04,Lamb Of God,62
-2007-04,Machine Head,78
-2007-04,Metallica,301
-2007-04,Pantera,165
-2007-04,Red Hot Chili Peppers,79
-2007-04,Tenacious D,1
-2007-04,The Offspring,71
-2007-04,Tool,39
-2007-04,Tria Mera,0
-2007-04,Trivium,37
-2007-04,Unearth,47
-2007-05,Arch Enemy,36
-2007-05,As I Lay Dying,31
-2007-05,Children Of Bodom,36
-2007-05,Chimaira,19
-2007-05,Grinspoon,10
-2007-05,Hatebreed,25
-2007-05,In Flames,58
-2007-05,Justin Cook,17
-2007-05,Juz,118
-2007-05,Lamb Of God,28
-2007-05,Machine Head,33
-2007-05,Metallica,253
-2007-05,Pantera,86
-2007-05,Red Hot Chili Peppers,41
-2007-05,Tenacious D,3
-2007-05,The Offspring,42
-2007-05,Tool,20
-2007-05,Tria Mera,0
-2007-05,Trivium,13
-2007-05,Unearth,76
-2007-06,Arch Enemy,20
-2007-06,As I Lay Dying,18
-2007-06,Children Of Bodom,31
-2007-06,Chimaira,23
-2007-06,Grinspoon,10
-2007-06,Hatebreed,28
-2007-06,In Flames,60
-2007-06,Justin Cook,19
-2007-06,Juz,94
-2007-06,Lamb Of God,26
-2007-06,Machine Head,39
-2007-06,Metallica,135
-2007-06,Pantera,73
-2007-06,Red Hot Chili Peppers,45
-2007-06,Tenacious D,3
-2007-06,The Offspring,29
-2007-06,Tool,13
-2007-06,Tria Mera,0
-2007-06,Trivium,10
-2007-06,Unearth,22
-2007-07,Arch Enemy,0
-2007-07,As I Lay Dying,1
-2007-07,Children Of Bodom,0
-2007-07,Chimaira,2
-2007-07,Grinspoon,1
-2007-07,Hatebreed,0
-2007-07,In Flames,4
-2007-07,Justin Cook,0
-2007-07,Juz,10
-2007-07,Lamb Of God,11
-2007-07,Machine Head,9
-2007-07,Metallica,1
-2007-07,Pantera,5
-2007-07,Red Hot Chili Peppers,3
-2007-07,Tenacious D,0
-2007-07,The Offspring,0
-2007-07,Tool,0
-2007-07,Tria Mera,0
-2007-07,Trivium,8
-2007-07,Unearth,2
-2007-08,Arch Enemy,0
-2007-08,As I Lay Dying,0
-2007-08,Children Of Bodom,0
-2007-08,Chimaira,0
-2007-08,Grinspoon,0
-2007-08,Hatebreed,0
-2007-08,In Flames,0
-2007-08,Justin Cook,0
-2007-08,Juz,6
-2007-08,Lamb Of God,0
-2007-08,Machine Head,0
-2007-08,Metallica,3
-2007-08,Pantera,1
-2007-08,Red Hot Chili Peppers,1
-2007-08,Tenacious D,14
-2007-08,The Offspring,0
-2007-08,Tool,0
-2007-08,Tria Mera,0
-2007-08,Trivium,0
-2007-08,Unearth,0
-2007-09,Arch Enemy,14
-2007-09,As I Lay Dying,14
-2007-09,Children Of Bodom,8
-2007-09,Chimaira,5
-2007-09,Grinspoon,7
-2007-09,Hatebreed,7
-2007-09,In Flames,28
-2007-09,Justin Cook,26
-2007-09,Juz,42
-2007-09,Lamb Of God,8
-2007-09,Machine Head,9
-2007-09,Metallica,43
-2007-09,Pantera,21
-2007-09,Red Hot Chili Peppers,9
-2007-09,Tenacious D,29
-2007-09,The Offspring,34
-2007-09,Tool,7
-2007-09,Tria Mera,0
-2007-09,Trivium,5
-2007-09,Unearth,1
-2007-10,Arch Enemy,2
-2007-10,As I Lay Dying,0
-2007-10,Children Of Bodom,0
-2007-10,Chimaira,0
-2007-10,Grinspoon,0
-2007-10,Hatebreed,0
-2007-10,In Flames,0
-2007-10,Justin Cook,5
-2007-10,Juz,7
-2007-10,Lamb Of God,0
-2007-10,Machine Head,3
-2007-10,Metallica,0
-2007-10,Pantera,0
-2007-10,Red Hot Chili Peppers,3
-2007-10,Tenacious D,0
-2007-10,The Offspring,5
-2007-10,Tool,4
-2007-10,Tria Mera,0
-2007-10,Trivium,0
-2007-10,Unearth,0
-2007-11,Arch Enemy,19
-2007-11,As I Lay Dying,6
-2007-11,Children Of Bodom,12
-2007-11,Chimaira,10
-2007-11,Grinspoon,8
-2007-11,Hatebreed,18
-2007-11,In Flames,17
-2007-11,Justin Cook,12
-2007-11,Juz,52
-2007-11,Lamb Of God,10
-2007-11,Machine Head,25
-2007-11,Metallica,53
-2007-11,Pantera,40
-2007-11,Red Hot Chili Peppers,13
-2007-11,Tenacious D,36
-2007-11,The Offspring,23
-2007-11,Tool,39
-2007-11,Tria Mera,0
-2007-11,Trivium,8
-2007-11,Unearth,9
-2007-12,Arch Enemy,89
-2007-12,As I Lay Dying,56
-2007-12,Children Of Bodom,77
-2007-12,Chimaira,63
-2007-12,Grinspoon,54
-2007-12,Hatebreed,51
-2007-12,In Flames,134
-2007-12,Justin Cook,92
-2007-12,Juz,213
-2007-12,Lamb Of God,63
-2007-12,Machine Head,82
-2007-12,Metallica,257
-2007-12,Pantera,204
-2007-12,Red Hot Chili Peppers,91
-2007-12,Tenacious D,216
-2007-12,The Offspring,99
-2007-12,Tool,44
-2007-12,Tria Mera,32
-2007-12,Trivium,39
-2007-12,Unearth,34
-2008-01,Arch Enemy,61
-2008-01,As I Lay Dying,36
-2008-01,Children Of Bodom,63
-2008-01,Chimaira,53
-2008-01,Grinspoon,26
-2008-01,Hatebreed,41
-2008-01,In Flames,94
-2008-01,Justin Cook,36
-2008-01,Juz,176
-2008-01,Lamb Of God,53
-2008-01,Machine Head,58
-2008-01,Metallica,213
-2008-01,Pantera,163
-2008-01,Red Hot Chili Peppers,56
-2008-01,Tenacious D,175
-2008-01,The Offspring,58
-2008-01,Tool,40
-2008-01,Tria Mera,35
-2008-01,Trivium,33
-2008-01,Unearth,30
-2008-02,Arch Enemy,2
-2008-02,As I Lay Dying,1
-2008-02,Children Of Bodom,9
-2008-02,Chimaira,7
-2008-02,Grinspoon,2
-2008-02,Hatebreed,7
-2008-02,In Flames,12
-2008-02,Justin Cook,2
-2008-02,Juz,16
-2008-02,Lamb Of God,3
-2008-02,Machine Head,6
-2008-02,Metallica,18
-2008-02,Pantera,14
-2008-02,Red Hot Chili Peppers,8
-2008-02,Tenacious D,8
-2008-02,The Offspring,35
-2008-02,Tool,5
-2008-02,Tria Mera,20
-2008-02,Trivium,4
-2008-02,Unearth,2
-2008-03,Arch Enemy,0
-2008-03,As I Lay Dying,0
-2008-03,Children Of Bodom,33
-2008-03,Chimaira,0
-2008-03,Grinspoon,0
-2008-03,Hatebreed,0
-2008-03,In Flames,0
-2008-03,Justin Cook,3
-2008-03,Juz,9
-2008-03,Lamb Of God,3
-2008-03,Machine Head,0
-2008-03,Metallica,0
-2008-03,Pantera,0
-2008-03,Red Hot Chili Peppers,0
-2008-03,Tenacious D,0
-2008-03,The Offspring,4
-2008-03,Tool,0
-2008-03,Tria Mera,0
-2008-03,Trivium,0
-2008-03,Unearth,0
-2008-04,Arch Enemy,5
-2008-04,As I Lay Dying,2
-2008-04,Children Of Bodom,0
-2008-04,Chimaira,19
-2008-04,Grinspoon,1
-2008-04,Hatebreed,1
-2008-04,In Flames,3
-2008-04,Justin Cook,16
-2008-04,Juz,13
-2008-04,Lamb Of God,2
-2008-04,Machine Head,7
-2008-04,Metallica,9
-2008-04,Pantera,10
-2008-04,Red Hot Chili Peppers,2
-2008-04,Tenacious D,5
-2008-04,The Offspring,4
-2008-04,Tool,1
-2008-04,Tria Mera,14
-2008-04,Trivium,1
-2008-04,Unearth,2
-2008-05,Arch Enemy,3
-2008-05,As I Lay Dying,1
-2008-05,Children Of Bodom,4
-2008-05,Chimaira,2
-2008-05,Grinspoon,1
-2008-05,Hatebreed,3
-2008-05,In Flames,2
-2008-05,Justin Cook,20
-2008-05,Juz,7
-2008-05,Lamb Of God,2
-2008-05,Machine Head,0
-2008-05,Metallica,6
-2008-05,Pantera,3
-2008-05,Red Hot Chili Peppers,1
-2008-05,Tenacious D,7
-2008-05,The Offspring,1
-2008-05,Tool,1
-2008-05,Tria Mera,87
-2008-05,Trivium,1
-2008-05,Unearth,2
-2008-06,Arch Enemy,0
-2008-06,As I Lay Dying,0
-2008-06,Children Of Bodom,59
-2008-06,Chimaira,0
-2008-06,Grinspoon,0
-2008-06,Hatebreed,0
-2008-06,In Flames,0
-2008-06,Justin Cook,24
-2008-06,Juz,2
-2008-06,Lamb Of God,0
-2008-06,Machine Head,0
-2008-06,Metallica,0
-2008-06,Pantera,0
-2008-06,Red Hot Chili Peppers,0
-2008-06,Tenacious D,0
-2008-06,The Offspring,15
-2008-06,Tool,0
-2008-06,Tria Mera,3
-2008-06,Trivium,0
-2008-06,Unearth,0
-2008-07,Arch Enemy,0
-2008-07,As I Lay Dying,2
-2008-07,Children Of Bodom,125
-2008-07,Chimaira,0
-2008-07,Grinspoon,0
-2008-07,Hatebreed,0
-2008-07,In Flames,0
-2008-07,Justin Cook,1
-2008-07,Juz,0
-2008-07,Lamb Of God,0
-2008-07,Machine Head,0
-2008-07,Metallica,0
-2008-07,Pantera,0
-2008-07,Red Hot Chili Peppers,0
-2008-07,Tenacious D,0
-2008-07,The Offspring,0
-2008-07,Tool,0
-2008-07,Tria Mera,27
-2008-07,Trivium,0
-2008-07,Unearth,0
-2008-08,Arch Enemy,0
-2008-08,As I Lay Dying,0
-2008-08,Children Of Bodom,35
-2008-08,Chimaira,12
-2008-08,Grinspoon,0
-2008-08,Hatebreed,0
-2008-08,In Flames,1
-2008-08,Justin Cook,14
-2008-08,Juz,0
-2008-08,Lamb Of God,0
-2008-08,Machine Head,2
-2008-08,Metallica,4
-2008-08,Pantera,0
-2008-08,Red Hot Chili Peppers,0
-2008-08,Tenacious D,3
-2008-08,The Offspring,0
-2008-08,Tool,0
-2008-08,Tria Mera,52
-2008-08,Trivium,0
-2008-08,Unearth,0
-2008-09,Arch Enemy,3
-2008-09,As I Lay Dying,1
-2008-09,Children Of Bodom,9
-2008-09,Chimaira,1
-2008-09,Grinspoon,0
-2008-09,Hatebreed,1
-2008-09,In Flames,7
-2008-09,Justin Cook,15
-2008-09,Juz,0
-2008-09,Lamb Of God,2
-2008-09,Machine Head,4
-2008-09,Metallica,120
-2008-09,Pantera,2
-2008-09,Red Hot Chili Peppers,0
-2008-09,Tenacious D,4
-2008-09,The Offspring,1
-2008-09,Tool,1
-2008-09,Tria Mera,30
-2008-09,Trivium,37
-2008-09,Unearth,2
-2008-10,Arch Enemy,2
-2008-10,As I Lay Dying,0
-2008-10,Children Of Bodom,11
-2008-10,Chimaira,6
-2008-10,Grinspoon,0
-2008-10,Hatebreed,0
-2008-10,In Flames,1
-2008-10,Justin Cook,1
-2008-10,Juz,0
-2008-10,Lamb Of God,0
-2008-10,Machine Head,0
-2008-10,Metallica,1
-2008-10,Pantera,0
-2008-10,Red Hot Chili Peppers,0
-2008-10,Tenacious D,0
-2008-10,The Offspring,0
-2008-10,Tool,1
-2008-10,Tria Mera,24
-2008-10,Trivium,2
-2008-10,Unearth,0
-2008-11,Arch Enemy,0
-2008-11,As I Lay Dying,0
-2008-11,Children Of Bodom,7
-2008-11,Chimaira,0
-2008-11,Grinspoon,0
-2008-11,Hatebreed,0
-2008-11,In Flames,0
-2008-11,Justin Cook,17
-2008-11,Juz,0
-2008-11,Lamb Of God,0
-2008-11,Machine Head,0
-2008-11,Metallica,2
-2008-11,Pantera,0
-2008-11,Red Hot Chili Peppers,0
-2008-11,Tenacious D,0
-2008-11,The Offspring,0
-2008-11,Tool,7
-2008-11,Tria Mera,24
-2008-11,Trivium,0
-2008-11,Unearth,0
-2008-12,Arch Enemy,17
-2008-12,As I Lay Dying,0
-2008-12,Children Of Bodom,27
-2008-12,Chimaira,11
-2008-12,Grinspoon,0
-2008-12,Hatebreed,0
-2008-12,In Flames,7
-2008-12,Justin Cook,6
-2008-12,Juz,6
-2008-12,Lamb Of God,0
-2008-12,Machine Head,2
-2008-12,Metallica,8
-2008-12,Pantera,4
-2008-12,Red Hot Chili Peppers,1
-2008-12,Tenacious D,14
-2008-12,The Offspring,7
-2008-12,Tool,8
-2008-12,Tria Mera,39
-2008-12,Trivium,3
-2008-12,Unearth,3
-2009-01,Arch Enemy,16
-2009-01,As I Lay Dying,0
-2009-01,Children Of Bodom,2
-2009-01,Chimaira,3
-2009-01,Grinspoon,0
-2009-01,Hatebreed,1
-2009-01,In Flames,0
-2009-01,Justin Cook,8
-2009-01,Juz,0
-2009-01,Lamb Of God,28
-2009-01,Machine Head,4
-2009-01,Metallica,0
-2009-01,Pantera,1
-2009-01,Red Hot Chili Peppers,0
-2009-01,Tenacious D,0
-2009-01,The Offspring,0
-2009-01,Tool,1
-2009-01,Tria Mera,25
-2009-01,Trivium,0
-2009-01,Unearth,1
-2009-02,Arch Enemy,3
-2009-02,As I Lay Dying,0
-2009-02,Children Of Bodom,0
-2009-02,Chimaira,0
-2009-02,Grinspoon,0
-2009-02,Hatebreed,0
-2009-02,In Flames,0
-2009-02,Justin Cook,2
-2009-02,Juz,0
-2009-02,Lamb Of God,66
-2009-02,Machine Head,0
-2009-02,Metallica,0
-2009-02,Pantera,0
-2009-02,Red Hot Chili Peppers,0
-2009-02,Tenacious D,0
-2009-02,The Offspring,0
-2009-02,Tool,0
-2009-02,Tria Mera,17
-2009-02,Trivium,5
-2009-02,Unearth,3
-2009-03,Arch Enemy,0
-2009-03,As I Lay Dying,0
-2009-03,Children Of Bodom,0
-2009-03,Chimaira,3
-2009-03,Grinspoon,1
-2009-03,Hatebreed,2
-2009-03,In Flames,0
-2009-03,Justin Cook,0
-2009-03,Juz,1
-2009-03,Lamb Of God,14
-2009-03,Machine Head,1
-2009-03,Metallica,0
-2009-03,Pantera,0
-2009-03,Red Hot Chili Peppers,0
-2009-03,Tenacious D,0
-2009-03,The Offspring,0
-2009-03,Tool,0
-2009-03,Tria Mera,38
-2009-03,Trivium,0
-2009-03,Unearth,1
-2009-04,Arch Enemy,0
-2009-04,As I Lay Dying,0
-2009-04,Children Of Bodom,0
-2009-04,Chimaira,13
-2009-04,Grinspoon,17
-2009-04,Hatebreed,0
-2009-04,In Flames,0
-2009-04,Justin Cook,2
-2009-04,Juz,1
-2009-04,Lamb Of God,4
-2009-04,Machine Head,0
-2009-04,Metallica,12
-2009-04,Pantera,0
-2009-04,Red Hot Chili Peppers,0
-2009-04,Tenacious D,0
-2009-04,The Offspring,1
-2009-04,Tool,0
-2009-04,Tria Mera,4
-2009-04,Trivium,0
-2009-04,Unearth,0
+"month","artist","plays"
+"2007-02","Arch Enemy",15
+"2007-02","As I Lay Dying",8
+"2007-02","Children Of Bodom",16
+"2007-02","Chimaira",14
+"2007-02","Grinspoon",2
+"2007-02","Hatebreed",9
+"2007-02","In Flames",22
+"2007-02","Justin Cook",9
+"2007-02","Juz",44
+"2007-02","Lamb Of God",12
+"2007-02","Machine Head",16
+"2007-02","Metallica",39
+"2007-02","Pantera",20
+"2007-02","Red Hot Chili Peppers",9
+"2007-02","Tenacious D",2
+"2007-02","The Offspring",11
+"2007-02","Tool",7
+"2007-02","Tria Mera",0
+"2007-02","Trivium",7
+"2007-02","Unearth",6
+"2007-03","Arch Enemy",87
+"2007-03","As I Lay Dying",63
+"2007-03","Children Of Bodom",91
+"2007-03","Chimaira",82
+"2007-03","Grinspoon",21
+"2007-03","Hatebreed",94
+"2007-03","In Flames",167
+"2007-03","Justin Cook",50
+"2007-03","Juz",330
+"2007-03","Lamb Of God",87
+"2007-03","Machine Head",89
+"2007-03","Metallica",346
+"2007-03","Pantera",213
+"2007-03","Red Hot Chili Peppers",111
+"2007-03","Tenacious D",1
+"2007-03","The Offspring",95
+"2007-03","Tool",42
+"2007-03","Tria Mera",0
+"2007-03","Trivium",54
+"2007-03","Unearth",68
+"2007-04","Arch Enemy",71
+"2007-04","As I Lay Dying",58
+"2007-04","Children Of Bodom",72
+"2007-04","Chimaira",56
+"2007-04","Grinspoon",24
+"2007-04","Hatebreed",48
+"2007-04","In Flames",115
+"2007-04","Justin Cook",42
+"2007-04","Juz",228
+"2007-04","Lamb Of God",62
+"2007-04","Machine Head",78
+"2007-04","Metallica",301
+"2007-04","Pantera",165
+"2007-04","Red Hot Chili Peppers",79
+"2007-04","Tenacious D",1
+"2007-04","The Offspring",71
+"2007-04","Tool",39
+"2007-04","Tria Mera",0
+"2007-04","Trivium",37
+"2007-04","Unearth",47
+"2007-05","Arch Enemy",36
+"2007-05","As I Lay Dying",31
+"2007-05","Children Of Bodom",36
+"2007-05","Chimaira",19
+"2007-05","Grinspoon",10
+"2007-05","Hatebreed",25
+"2007-05","In Flames",58
+"2007-05","Justin Cook",17
+"2007-05","Juz",118
+"2007-05","Lamb Of God",28
+"2007-05","Machine Head",33
+"2007-05","Metallica",253
+"2007-05","Pantera",86
+"2007-05","Red Hot Chili Peppers",41
+"2007-05","Tenacious D",3
+"2007-05","The Offspring",42
+"2007-05","Tool",20
+"2007-05","Tria Mera",0
+"2007-05","Trivium",13
+"2007-05","Unearth",76
+"2007-06","Arch Enemy",20
+"2007-06","As I Lay Dying",18
+"2007-06","Children Of Bodom",31
+"2007-06","Chimaira",23
+"2007-06","Grinspoon",10
+"2007-06","Hatebreed",28
+"2007-06","In Flames",60
+"2007-06","Justin Cook",19
+"2007-06","Juz",94
+"2007-06","Lamb Of God",26
+"2007-06","Machine Head",39
+"2007-06","Metallica",135
+"2007-06","Pantera",73
+"2007-06","Red Hot Chili Peppers",45
+"2007-06","Tenacious D",3
+"2007-06","The Offspring",29
+"2007-06","Tool",13
+"2007-06","Tria Mera",0
+"2007-06","Trivium",10
+"2007-06","Unearth",22
+"2007-07","Arch Enemy",0
+"2007-07","As I Lay Dying",1
+"2007-07","Children Of Bodom",0
+"2007-07","Chimaira",2
+"2007-07","Grinspoon",1
+"2007-07","Hatebreed",0
+"2007-07","In Flames",4
+"2007-07","Justin Cook",0
+"2007-07","Juz",10
+"2007-07","Lamb Of God",11
+"2007-07","Machine Head",9
+"2007-07","Metallica",1
+"2007-07","Pantera",5
+"2007-07","Red Hot Chili Peppers",3
+"2007-07","Tenacious D",0
+"2007-07","The Offspring",0
+"2007-07","Tool",0
+"2007-07","Tria Mera",0
+"2007-07","Trivium",8
+"2007-07","Unearth",2
+"2007-08","Arch Enemy",0
+"2007-08","As I Lay Dying",0
+"2007-08","Children Of Bodom",0
+"2007-08","Chimaira",0
+"2007-08","Grinspoon",0
+"2007-08","Hatebreed",0
+"2007-08","In Flames",0
+"2007-08","Justin Cook",0
+"2007-08","Juz",6
+"2007-08","Lamb Of God",0
+"2007-08","Machine Head",0
+"2007-08","Metallica",3
+"2007-08","Pantera",1
+"2007-08","Red Hot Chili Peppers",1
+"2007-08","Tenacious D",14
+"2007-08","The Offspring",0
+"2007-08","Tool",0
+"2007-08","Tria Mera",0
+"2007-08","Trivium",0
+"2007-08","Unearth",0
+"2007-09","Arch Enemy",14
+"2007-09","As I Lay Dying",14
+"2007-09","Children Of Bodom",8
+"2007-09","Chimaira",5
+"2007-09","Grinspoon",7
+"2007-09","Hatebreed",7
+"2007-09","In Flames",28
+"2007-09","Justin Cook",26
+"2007-09","Juz",42
+"2007-09","Lamb Of God",8
+"2007-09","Machine Head",9
+"2007-09","Metallica",43
+"2007-09","Pantera",21
+"2007-09","Red Hot Chili Peppers",9
+"2007-09","Tenacious D",29
+"2007-09","The Offspring",34
+"2007-09","Tool",7
+"2007-09","Tria Mera",0
+"2007-09","Trivium",5
+"2007-09","Unearth",1
+"2007-10","Arch Enemy",2
+"2007-10","As I Lay Dying",0
+"2007-10","Children Of Bodom",0
+"2007-10","Chimaira",0
+"2007-10","Grinspoon",0
+"2007-10","Hatebreed",0
+"2007-10","In Flames",0
+"2007-10","Justin Cook",5
+"2007-10","Juz",7
+"2007-10","Lamb Of God",0
+"2007-10","Machine Head",3
+"2007-10","Metallica",0
+"2007-10","Pantera",0
+"2007-10","Red Hot Chili Peppers",3
+"2007-10","Tenacious D",0
+"2007-10","The Offspring",5
+"2007-10","Tool",4
+"2007-10","Tria Mera",0
+"2007-10","Trivium",0
+"2007-10","Unearth",0
+"2007-11","Arch Enemy",19
+"2007-11","As I Lay Dying",6
+"2007-11","Children Of Bodom",12
+"2007-11","Chimaira",10
+"2007-11","Grinspoon",8
+"2007-11","Hatebreed",18
+"2007-11","In Flames",17
+"2007-11","Justin Cook",12
+"2007-11","Juz",52
+"2007-11","Lamb Of God",10
+"2007-11","Machine Head",25
+"2007-11","Metallica",53
+"2007-11","Pantera",40
+"2007-11","Red Hot Chili Peppers",13
+"2007-11","Tenacious D",36
+"2007-11","The Offspring",23
+"2007-11","Tool",39
+"2007-11","Tria Mera",0
+"2007-11","Trivium",8
+"2007-11","Unearth",9
+"2007-12","Arch Enemy",89
+"2007-12","As I Lay Dying",56
+"2007-12","Children Of Bodom",77
+"2007-12","Chimaira",63
+"2007-12","Grinspoon",54
+"2007-12","Hatebreed",51
+"2007-12","In Flames",134
+"2007-12","Justin Cook",92
+"2007-12","Juz",213
+"2007-12","Lamb Of God",63
+"2007-12","Machine Head",82
+"2007-12","Metallica",257
+"2007-12","Pantera",204
+"2007-12","Red Hot Chili Peppers",91
+"2007-12","Tenacious D",216
+"2007-12","The Offspring",99
+"2007-12","Tool",44
+"2007-12","Tria Mera",32
+"2007-12","Trivium",39
+"2007-12","Unearth",34
+"2008-01","Arch Enemy",61
+"2008-01","As I Lay Dying",36
+"2008-01","Children Of Bodom",63
+"2008-01","Chimaira",53
+"2008-01","Grinspoon",26
+"2008-01","Hatebreed",41
+"2008-01","In Flames",94
+"2008-01","Justin Cook",36
+"2008-01","Juz",176
+"2008-01","Lamb Of God",53
+"2008-01","Machine Head",58
+"2008-01","Metallica",213
+"2008-01","Pantera",163
+"2008-01","Red Hot Chili Peppers",56
+"2008-01","Tenacious D",175
+"2008-01","The Offspring",58
+"2008-01","Tool",40
+"2008-01","Tria Mera",35
+"2008-01","Trivium",33
+"2008-01","Unearth",30
+"2008-02","Arch Enemy",2
+"2008-02","As I Lay Dying",1
+"2008-02","Children Of Bodom",9
+"2008-02","Chimaira",7
+"2008-02","Grinspoon",2
+"2008-02","Hatebreed",7
+"2008-02","In Flames",12
+"2008-02","Justin Cook",2
+"2008-02","Juz",16
+"2008-02","Lamb Of God",3
+"2008-02","Machine Head",6
+"2008-02","Metallica",18
+"2008-02","Pantera",14
+"2008-02","Red Hot Chili Peppers",8
+"2008-02","Tenacious D",8
+"2008-02","The Offspring",35
+"2008-02","Tool",5
+"2008-02","Tria Mera",20
+"2008-02","Trivium",4
+"2008-02","Unearth",2
+"2008-03","Arch Enemy",0
+"2008-03","As I Lay Dying",0
+"2008-03","Children Of Bodom",33
+"2008-03","Chimaira",0
+"2008-03","Grinspoon",0
+"2008-03","Hatebreed",0
+"2008-03","In Flames",0
+"2008-03","Justin Cook",3
+"2008-03","Juz",9
+"2008-03","Lamb Of God",3
+"2008-03","Machine Head",0
+"2008-03","Metallica",0
+"2008-03","Pantera",0
+"2008-03","Red Hot Chili Peppers",0
+"2008-03","Tenacious D",0
+"2008-03","The Offspring",4
+"2008-03","Tool",0
+"2008-03","Tria Mera",0
+"2008-03","Trivium",0
+"2008-03","Unearth",0
+"2008-04","Arch Enemy",5
+"2008-04","As I Lay Dying",2
+"2008-04","Children Of Bodom",0
+"2008-04","Chimaira",19
+"2008-04","Grinspoon",1
+"2008-04","Hatebreed",1
+"2008-04","In Flames",3
+"2008-04","Justin Cook",16
+"2008-04","Juz",13
+"2008-04","Lamb Of God",2
+"2008-04","Machine Head",7
+"2008-04","Metallica",9
+"2008-04","Pantera",10
+"2008-04","Red Hot Chili Peppers",2
+"2008-04","Tenacious D",5
+"2008-04","The Offspring",4
+"2008-04","Tool",1
+"2008-04","Tria Mera",14
+"2008-04","Trivium",1
+"2008-04","Unearth",2
+"2008-05","Arch Enemy",3
+"2008-05","As I Lay Dying",1
+"2008-05","Children Of Bodom",4
+"2008-05","Chimaira",2
+"2008-05","Grinspoon",1
+"2008-05","Hatebreed",3
+"2008-05","In Flames",2
+"2008-05","Justin Cook",20
+"2008-05","Juz",7
+"2008-05","Lamb Of God",2
+"2008-05","Machine Head",0
+"2008-05","Metallica",6
+"2008-05","Pantera",3
+"2008-05","Red Hot Chili Peppers",1
+"2008-05","Tenacious D",7
+"2008-05","The Offspring",1
+"2008-05","Tool",1
+"2008-05","Tria Mera",87
+"2008-05","Trivium",1
+"2008-05","Unearth",2
+"2008-06","Arch Enemy",0
+"2008-06","As I Lay Dying",0
+"2008-06","Children Of Bodom",59
+"2008-06","Chimaira",0
+"2008-06","Grinspoon",0
+"2008-06","Hatebreed",0
+"2008-06","In Flames",0
+"2008-06","Justin Cook",24
+"2008-06","Juz",2
+"2008-06","Lamb Of God",0
+"2008-06","Machine Head",0
+"2008-06","Metallica",0
+"2008-06","Pantera",0
+"2008-06","Red Hot Chili Peppers",0
+"2008-06","Tenacious D",0
+"2008-06","The Offspring",15
+"2008-06","Tool",0
+"2008-06","Tria Mera",3
+"2008-06","Trivium",0
+"2008-06","Unearth",0
+"2008-07","Arch Enemy",0
+"2008-07","As I Lay Dying",2
+"2008-07","Children Of Bodom",125
+"2008-07","Chimaira",0
+"2008-07","Grinspoon",0
+"2008-07","Hatebreed",0
+"2008-07","In Flames",0
+"2008-07","Justin Cook",1
+"2008-07","Juz",0
+"2008-07","Lamb Of God",0
+"2008-07","Machine Head",0
+"2008-07","Metallica",0
+"2008-07","Pantera",0
+"2008-07","Red Hot Chili Peppers",0
+"2008-07","Tenacious D",0
+"2008-07","The Offspring",0
+"2008-07","Tool",0
+"2008-07","Tria Mera",27
+"2008-07","Trivium",0
+"2008-07","Unearth",0
+"2008-08","Arch Enemy",0
+"2008-08","As I Lay Dying",0
+"2008-08","Children Of Bodom",35
+"2008-08","Chimaira",12
+"2008-08","Grinspoon",0
+"2008-08","Hatebreed",0
+"2008-08","In Flames",1
+"2008-08","Justin Cook",14
+"2008-08","Juz",0
+"2008-08","Lamb Of God",0
+"2008-08","Machine Head",2
+"2008-08","Metallica",4
+"2008-08","Pantera",0
+"2008-08","Red Hot Chili Peppers",0
+"2008-08","Tenacious D",3
+"2008-08","The Offspring",0
+"2008-08","Tool",0
+"2008-08","Tria Mera",52
+"2008-08","Trivium",0
+"2008-08","Unearth",0
+"2008-09","Arch Enemy",3
+"2008-09","As I Lay Dying",1
+"2008-09","Children Of Bodom",9
+"2008-09","Chimaira",1
+"2008-09","Grinspoon",0
+"2008-09","Hatebreed",1
+"2008-09","In Flames",7
+"2008-09","Justin Cook",15
+"2008-09","Juz",0
+"2008-09","Lamb Of God",2
+"2008-09","Machine Head",4
+"2008-09","Metallica",120
+"2008-09","Pantera",2
+"2008-09","Red Hot Chili Peppers",0
+"2008-09","Tenacious D",4
+"2008-09","The Offspring",1
+"2008-09","Tool",1
+"2008-09","Tria Mera",30
+"2008-09","Trivium",37
+"2008-09","Unearth",2
+"2008-10","Arch Enemy",2
+"2008-10","As I Lay Dying",0
+"2008-10","Children Of Bodom",11
+"2008-10","Chimaira",6
+"2008-10","Grinspoon",0
+"2008-10","Hatebreed",0
+"2008-10","In Flames",1
+"2008-10","Justin Cook",1
+"2008-10","Juz",0
+"2008-10","Lamb Of God",0
+"2008-10","Machine Head",0
+"2008-10","Metallica",1
+"2008-10","Pantera",0
+"2008-10","Red Hot Chili Peppers",0
+"2008-10","Tenacious D",0
+"2008-10","The Offspring",0
+"2008-10","Tool",1
+"2008-10","Tria Mera",24
+"2008-10","Trivium",2
+"2008-10","Unearth",0
+"2008-11","Arch Enemy",0
+"2008-11","As I Lay Dying",0
+"2008-11","Children Of Bodom",7
+"2008-11","Chimaira",0
+"2008-11","Grinspoon",0
+"2008-11","Hatebreed",0
+"2008-11","In Flames",0
+"2008-11","Justin Cook",17
+"2008-11","Juz",0
+"2008-11","Lamb Of God",0
+"2008-11","Machine Head",0
+"2008-11","Metallica",2
+"2008-11","Pantera",0
+"2008-11","Red Hot Chili Peppers",0
+"2008-11","Tenacious D",0
+"2008-11","The Offspring",0
+"2008-11","Tool",7
+"2008-11","Tria Mera",24
+"2008-11","Trivium",0
+"2008-11","Unearth",0
+"2008-12","Arch Enemy",17
+"2008-12","As I Lay Dying",0
+"2008-12","Children Of Bodom",27
+"2008-12","Chimaira",11
+"2008-12","Grinspoon",0
+"2008-12","Hatebreed",0
+"2008-12","In Flames",7
+"2008-12","Justin Cook",6
+"2008-12","Juz",6
+"2008-12","Lamb Of God",0
+"2008-12","Machine Head",2
+"2008-12","Metallica",8
+"2008-12","Pantera",4
+"2008-12","Red Hot Chili Peppers",1
+"2008-12","Tenacious D",14
+"2008-12","The Offspring",7
+"2008-12","Tool",8
+"2008-12","Tria Mera",39
+"2008-12","Trivium",3
+"2008-12","Unearth",3
+"2009-01","Arch Enemy",16
+"2009-01","As I Lay Dying",0
+"2009-01","Children Of Bodom",2
+"2009-01","Chimaira",3
+"2009-01","Grinspoon",0
+"2009-01","Hatebreed",1
+"2009-01","In Flames",0
+"2009-01","Justin Cook",8
+"2009-01","Juz",0
+"2009-01","Lamb Of God",28
+"2009-01","Machine Head",4
+"2009-01","Metallica",0
+"2009-01","Pantera",1
+"2009-01","Red Hot Chili Peppers",0
+"2009-01","Tenacious D",0
+"2009-01","The Offspring",0
+"2009-01","Tool",1
+"2009-01","Tria Mera",25
+"2009-01","Trivium",0
+"2009-01","Unearth",1
+"2009-02","Arch Enemy",3
+"2009-02","As I Lay Dying",0
+"2009-02","Children Of Bodom",0
+"2009-02","Chimaira",0
+"2009-02","Grinspoon",0
+"2009-02","Hatebreed",0
+"2009-02","In Flames",0
+"2009-02","Justin Cook",2
+"2009-02","Juz",0
+"2009-02","Lamb Of God",66
+"2009-02","Machine Head",0
+"2009-02","Metallica",0
+"2009-02","Pantera",0
+"2009-02","Red Hot Chili Peppers",0
+"2009-02","Tenacious D",0
+"2009-02","The Offspring",0
+"2009-02","Tool",0
+"2009-02","Tria Mera",17
+"2009-02","Trivium",5
+"2009-02","Unearth",3
+"2009-03","Arch Enemy",0
+"2009-03","As I Lay Dying",0
+"2009-03","Children Of Bodom",0
+"2009-03","Chimaira",3
+"2009-03","Grinspoon",1
+"2009-03","Hatebreed",2
+"2009-03","In Flames",0
+"2009-03","Justin Cook",0
+"2009-03","Juz",1
+"2009-03","Lamb Of God",14
+"2009-03","Machine Head",1
+"2009-03","Metallica",0
+"2009-03","Pantera",0
+"2009-03","Red Hot Chili Peppers",0
+"2009-03","Tenacious D",0
+"2009-03","The Offspring",0
+"2009-03","Tool",0
+"2009-03","Tria Mera",38
+"2009-03","Trivium",0
+"2009-03","Unearth",1
+"2009-04","Arch Enemy",0
+"2009-04","As I Lay Dying",0
+"2009-04","Children Of Bodom",0
+"2009-04","Chimaira",13
+"2009-04","Grinspoon",17
+"2009-04","Hatebreed",0
+"2009-04","In Flames",0
+"2009-04","Justin Cook",2
+"2009-04","Juz",1
+"2009-04","Lamb Of God",4
+"2009-04","Machine Head",0
+"2009-04","Metallica",12
+"2009-04","Pantera",0
+"2009-04","Red Hot Chili Peppers",0
+"2009-04","Tenacious D",0
+"2009-04","The Offspring",1
+"2009-04","Tool",0
+"2009-04","Tria Mera",4
+"2009-04","Trivium",0
+"2009-04","Unearth",0

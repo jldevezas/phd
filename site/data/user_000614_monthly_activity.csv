@@ -1,601 +1,601 @@
-month,artist,plays
-2006-12,Air,0
-2006-12,Blumentopf,0
-2006-12,Bob Dylan,9
-2006-12,Coldplay,6
-2006-12,Daniel Kehlmann,0
-2006-12,Dave Matthews Band,8
-2006-12,Die Fantastischen Vier,0
-2006-12,Guns N' Roses,0
-2006-12,Jamie Cullum,9
-2006-12,Katie Melua,2
-2006-12,Mando Diao,18
-2006-12,Marvin Gaye,22
-2006-12,Miles Davis,5
-2006-12,Nirvana,10
-2006-12,Portishead,21
-2006-12,Rage Against The Machine,3
-2006-12,The Beatles,25
-2006-12,The Roots,3
-2006-12,The Smashing Pumpkins,21
-2006-12,U2,83
-2007-01,Air,0
-2007-01,Blumentopf,0
-2007-01,Bob Dylan,10
-2007-01,Coldplay,2
-2007-01,Daniel Kehlmann,0
-2007-01,Dave Matthews Band,2
-2007-01,Die Fantastischen Vier,0
-2007-01,Guns N' Roses,0
-2007-01,Jamie Cullum,2
-2007-01,Katie Melua,1
-2007-01,Mando Diao,2
-2007-01,Marvin Gaye,18
-2007-01,Miles Davis,2
-2007-01,Nirvana,7
-2007-01,Portishead,16
-2007-01,Rage Against The Machine,9
-2007-01,The Beatles,17
-2007-01,The Roots,3
-2007-01,The Smashing Pumpkins,15
-2007-01,U2,25
-2007-02,Air,2
-2007-02,Blumentopf,0
-2007-02,Bob Dylan,0
-2007-02,Coldplay,0
-2007-02,Daniel Kehlmann,0
-2007-02,Dave Matthews Band,0
-2007-02,Die Fantastischen Vier,0
-2007-02,Guns N' Roses,0
-2007-02,Jamie Cullum,0
-2007-02,Katie Melua,2
-2007-02,Mando Diao,0
-2007-02,Marvin Gaye,0
-2007-02,Miles Davis,0
-2007-02,Nirvana,0
-2007-02,Portishead,0
-2007-02,Rage Against The Machine,0
-2007-02,The Beatles,0
-2007-02,The Roots,0
-2007-02,The Smashing Pumpkins,0
-2007-02,U2,0
-2007-03,Air,1
-2007-03,Blumentopf,0
-2007-03,Bob Dylan,0
-2007-03,Coldplay,0
-2007-03,Daniel Kehlmann,0
-2007-03,Dave Matthews Band,0
-2007-03,Die Fantastischen Vier,0
-2007-03,Guns N' Roses,0
-2007-03,Jamie Cullum,0
-2007-03,Katie Melua,0
-2007-03,Mando Diao,0
-2007-03,Marvin Gaye,0
-2007-03,Miles Davis,0
-2007-03,Nirvana,0
-2007-03,Portishead,0
-2007-03,Rage Against The Machine,0
-2007-03,The Beatles,0
-2007-03,The Roots,0
-2007-03,The Smashing Pumpkins,0
-2007-03,U2,2
-2007-04,Air,2
-2007-04,Blumentopf,0
-2007-04,Bob Dylan,1
-2007-04,Coldplay,0
-2007-04,Daniel Kehlmann,13
-2007-04,Dave Matthews Band,0
-2007-04,Die Fantastischen Vier,0
-2007-04,Guns N' Roses,0
-2007-04,Jamie Cullum,1
-2007-04,Katie Melua,0
-2007-04,Mando Diao,0
-2007-04,Marvin Gaye,1
-2007-04,Miles Davis,0
-2007-04,Nirvana,0
-2007-04,Portishead,0
-2007-04,Rage Against The Machine,0
-2007-04,The Beatles,1
-2007-04,The Roots,0
-2007-04,The Smashing Pumpkins,3
-2007-04,U2,3
-2007-05,Air,2
-2007-05,Blumentopf,0
-2007-05,Bob Dylan,2
-2007-05,Coldplay,2
-2007-05,Daniel Kehlmann,0
-2007-05,Dave Matthews Band,2
-2007-05,Die Fantastischen Vier,0
-2007-05,Guns N' Roses,0
-2007-05,Jamie Cullum,6
-2007-05,Katie Melua,3
-2007-05,Mando Diao,2
-2007-05,Marvin Gaye,7
-2007-05,Miles Davis,0
-2007-05,Nirvana,1
-2007-05,Portishead,5
-2007-05,Rage Against The Machine,3
-2007-05,The Beatles,14
-2007-05,The Roots,0
-2007-05,The Smashing Pumpkins,4
-2007-05,U2,24
-2007-06,Air,0
-2007-06,Blumentopf,0
-2007-06,Bob Dylan,0
-2007-06,Coldplay,0
-2007-06,Daniel Kehlmann,0
-2007-06,Dave Matthews Band,4
-2007-06,Die Fantastischen Vier,0
-2007-06,Guns N' Roses,0
-2007-06,Jamie Cullum,12
-2007-06,Katie Melua,36
-2007-06,Mando Diao,3
-2007-06,Marvin Gaye,18
-2007-06,Miles Davis,0
-2007-06,Nirvana,3
-2007-06,Portishead,12
-2007-06,Rage Against The Machine,2
-2007-06,The Beatles,0
-2007-06,The Roots,0
-2007-06,The Smashing Pumpkins,0
-2007-06,U2,21
-2007-07,Air,0
-2007-07,Blumentopf,0
-2007-07,Bob Dylan,0
-2007-07,Coldplay,0
-2007-07,Daniel Kehlmann,0
-2007-07,Dave Matthews Band,0
-2007-07,Die Fantastischen Vier,0
-2007-07,Guns N' Roses,0
-2007-07,Jamie Cullum,49
-2007-07,Katie Melua,30
-2007-07,Mando Diao,6
-2007-07,Marvin Gaye,3
-2007-07,Miles Davis,0
-2007-07,Nirvana,3
-2007-07,Portishead,24
-2007-07,Rage Against The Machine,2
-2007-07,The Beatles,0
-2007-07,The Roots,0
-2007-07,The Smashing Pumpkins,27
-2007-07,U2,31
-2007-08,Air,1
-2007-08,Blumentopf,0
-2007-08,Bob Dylan,0
-2007-08,Coldplay,0
-2007-08,Daniel Kehlmann,0
-2007-08,Dave Matthews Band,1
-2007-08,Die Fantastischen Vier,0
-2007-08,Guns N' Roses,0
-2007-08,Jamie Cullum,1
-2007-08,Katie Melua,0
-2007-08,Mando Diao,8
-2007-08,Marvin Gaye,4
-2007-08,Miles Davis,0
-2007-08,Nirvana,9
-2007-08,Portishead,18
-2007-08,Rage Against The Machine,14
-2007-08,The Beatles,2
-2007-08,The Roots,1
-2007-08,The Smashing Pumpkins,41
-2007-08,U2,42
-2007-09,Air,0
-2007-09,Blumentopf,24
-2007-09,Bob Dylan,0
-2007-09,Coldplay,0
-2007-09,Daniel Kehlmann,0
-2007-09,Dave Matthews Band,0
-2007-09,Die Fantastischen Vier,31
-2007-09,Guns N' Roses,0
-2007-09,Jamie Cullum,0
-2007-09,Katie Melua,0
-2007-09,Mando Diao,0
-2007-09,Marvin Gaye,0
-2007-09,Miles Davis,0
-2007-09,Nirvana,0
-2007-09,Portishead,14
-2007-09,Rage Against The Machine,0
-2007-09,The Beatles,0
-2007-09,The Roots,63
-2007-09,The Smashing Pumpkins,0
-2007-09,U2,1
-2007-10,Air,0
-2007-10,Blumentopf,1
-2007-10,Bob Dylan,0
-2007-10,Coldplay,0
-2007-10,Daniel Kehlmann,0
-2007-10,Dave Matthews Band,0
-2007-10,Die Fantastischen Vier,0
-2007-10,Guns N' Roses,0
-2007-10,Jamie Cullum,0
-2007-10,Katie Melua,8
-2007-10,Mando Diao,0
-2007-10,Marvin Gaye,0
-2007-10,Miles Davis,0
-2007-10,Nirvana,1
-2007-10,Portishead,0
-2007-10,Rage Against The Machine,0
-2007-10,The Beatles,3
-2007-10,The Roots,0
-2007-10,The Smashing Pumpkins,0
-2007-10,U2,18
-2007-11,Air,2
-2007-11,Blumentopf,42
-2007-11,Bob Dylan,13
-2007-11,Coldplay,1
-2007-11,Daniel Kehlmann,0
-2007-11,Dave Matthews Band,5
-2007-11,Die Fantastischen Vier,23
-2007-11,Guns N' Roses,0
-2007-11,Jamie Cullum,0
-2007-11,Katie Melua,25
-2007-11,Mando Diao,3
-2007-11,Marvin Gaye,45
-2007-11,Miles Davis,0
-2007-11,Nirvana,0
-2007-11,Portishead,19
-2007-11,Rage Against The Machine,1
-2007-11,The Beatles,35
-2007-11,The Roots,34
-2007-11,The Smashing Pumpkins,2
-2007-11,U2,77
-2007-12,Air,2
-2007-12,Blumentopf,0
-2007-12,Bob Dylan,0
-2007-12,Coldplay,0
-2007-12,Daniel Kehlmann,32
-2007-12,Dave Matthews Band,15
-2007-12,Die Fantastischen Vier,0
-2007-12,Guns N' Roses,0
-2007-12,Jamie Cullum,0
-2007-12,Katie Melua,12
-2007-12,Mando Diao,0
-2007-12,Marvin Gaye,33
-2007-12,Miles Davis,2
-2007-12,Nirvana,0
-2007-12,Portishead,0
-2007-12,Rage Against The Machine,0
-2007-12,The Beatles,34
-2007-12,The Roots,0
-2007-12,The Smashing Pumpkins,0
-2007-12,U2,8
-2008-01,Air,3
-2008-01,Blumentopf,1
-2008-01,Bob Dylan,2
-2008-01,Coldplay,7
-2008-01,Daniel Kehlmann,21
-2008-01,Dave Matthews Band,4
-2008-01,Die Fantastischen Vier,1
-2008-01,Guns N' Roses,4
-2008-01,Jamie Cullum,2
-2008-01,Katie Melua,1
-2008-01,Mando Diao,5
-2008-01,Marvin Gaye,2
-2008-01,Miles Davis,0
-2008-01,Nirvana,1
-2008-01,Portishead,0
-2008-01,Rage Against The Machine,0
-2008-01,The Beatles,4
-2008-01,The Roots,0
-2008-01,The Smashing Pumpkins,0
-2008-01,U2,11
-2008-02,Air,1
-2008-02,Blumentopf,0
-2008-02,Bob Dylan,1
-2008-02,Coldplay,7
-2008-02,Daniel Kehlmann,98
-2008-02,Dave Matthews Band,4
-2008-02,Die Fantastischen Vier,1
-2008-02,Guns N' Roses,12
-2008-02,Jamie Cullum,1
-2008-02,Katie Melua,1
-2008-02,Mando Diao,9
-2008-02,Marvin Gaye,3
-2008-02,Miles Davis,7
-2008-02,Nirvana,1
-2008-02,Portishead,1
-2008-02,Rage Against The Machine,1
-2008-02,The Beatles,178
-2008-02,The Roots,1
-2008-02,The Smashing Pumpkins,0
-2008-02,U2,26
-2008-03,Air,3
-2008-03,Blumentopf,1
-2008-03,Bob Dylan,3
-2008-03,Coldplay,9
-2008-03,Daniel Kehlmann,77
-2008-03,Dave Matthews Band,6
-2008-03,Die Fantastischen Vier,0
-2008-03,Guns N' Roses,12
-2008-03,Jamie Cullum,0
-2008-03,Katie Melua,1
-2008-03,Mando Diao,11
-2008-03,Marvin Gaye,1
-2008-03,Miles Davis,1
-2008-03,Nirvana,1
-2008-03,Portishead,1
-2008-03,Rage Against The Machine,0
-2008-03,The Beatles,16
-2008-03,The Roots,1
-2008-03,The Smashing Pumpkins,2
-2008-03,U2,16
-2008-04,Air,1
-2008-04,Blumentopf,2
-2008-04,Bob Dylan,0
-2008-04,Coldplay,42
-2008-04,Daniel Kehlmann,51
-2008-04,Dave Matthews Band,1
-2008-04,Die Fantastischen Vier,2
-2008-04,Guns N' Roses,85
-2008-04,Jamie Cullum,1
-2008-04,Katie Melua,2
-2008-04,Mando Diao,58
-2008-04,Marvin Gaye,4
-2008-04,Miles Davis,3
-2008-04,Nirvana,18
-2008-04,Portishead,2
-2008-04,Rage Against The Machine,0
-2008-04,The Beatles,5
-2008-04,The Roots,1
-2008-04,The Smashing Pumpkins,2
-2008-04,U2,102
-2008-05,Air,0
-2008-05,Blumentopf,0
-2008-05,Bob Dylan,2
-2008-05,Coldplay,10
-2008-05,Daniel Kehlmann,0
-2008-05,Dave Matthews Band,53
-2008-05,Die Fantastischen Vier,8
-2008-05,Guns N' Roses,136
-2008-05,Jamie Cullum,1
-2008-05,Katie Melua,3
-2008-05,Mando Diao,7
-2008-05,Marvin Gaye,1
-2008-05,Miles Davis,0
-2008-05,Nirvana,3
-2008-05,Portishead,1
-2008-05,Rage Against The Machine,0
-2008-05,The Beatles,9
-2008-05,The Roots,1
-2008-05,The Smashing Pumpkins,0
-2008-05,U2,154
-2008-06,Air,7
-2008-06,Blumentopf,6
-2008-06,Bob Dylan,1
-2008-06,Coldplay,6
-2008-06,Daniel Kehlmann,60
-2008-06,Dave Matthews Band,86
-2008-06,Die Fantastischen Vier,6
-2008-06,Guns N' Roses,163
-2008-06,Jamie Cullum,2
-2008-06,Katie Melua,4
-2008-06,Mando Diao,7
-2008-06,Marvin Gaye,11
-2008-06,Miles Davis,5
-2008-06,Nirvana,2
-2008-06,Portishead,6
-2008-06,Rage Against The Machine,2
-2008-06,The Beatles,13
-2008-06,The Roots,6
-2008-06,The Smashing Pumpkins,4
-2008-06,U2,230
-2008-07,Air,1
-2008-07,Blumentopf,0
-2008-07,Bob Dylan,0
-2008-07,Coldplay,4
-2008-07,Daniel Kehlmann,2
-2008-07,Dave Matthews Band,41
-2008-07,Die Fantastischen Vier,6
-2008-07,Guns N' Roses,73
-2008-07,Jamie Cullum,1
-2008-07,Katie Melua,1
-2008-07,Mando Diao,5
-2008-07,Marvin Gaye,10
-2008-07,Miles Davis,3
-2008-07,Nirvana,3
-2008-07,Portishead,3
-2008-07,Rage Against The Machine,2
-2008-07,The Beatles,15
-2008-07,The Roots,1
-2008-07,The Smashing Pumpkins,3
-2008-07,U2,125
-2008-08,Air,5
-2008-08,Blumentopf,2
-2008-08,Bob Dylan,2
-2008-08,Coldplay,6
-2008-08,Daniel Kehlmann,0
-2008-08,Dave Matthews Band,18
-2008-08,Die Fantastischen Vier,3
-2008-08,Guns N' Roses,34
-2008-08,Jamie Cullum,1
-2008-08,Katie Melua,1
-2008-08,Mando Diao,3
-2008-08,Marvin Gaye,2
-2008-08,Miles Davis,2
-2008-08,Nirvana,4
-2008-08,Portishead,2
-2008-08,Rage Against The Machine,0
-2008-08,The Beatles,7
-2008-08,The Roots,2
-2008-08,The Smashing Pumpkins,3
-2008-08,U2,105
-2008-09,Air,0
-2008-09,Blumentopf,0
-2008-09,Bob Dylan,0
-2008-09,Coldplay,0
-2008-09,Daniel Kehlmann,0
-2008-09,Dave Matthews Band,0
-2008-09,Die Fantastischen Vier,0
-2008-09,Guns N' Roses,0
-2008-09,Jamie Cullum,0
-2008-09,Katie Melua,0
-2008-09,Mando Diao,0
-2008-09,Marvin Gaye,0
-2008-09,Miles Davis,0
-2008-09,Nirvana,0
-2008-09,Portishead,0
-2008-09,Rage Against The Machine,0
-2008-09,The Beatles,0
-2008-09,The Roots,0
-2008-09,The Smashing Pumpkins,0
-2008-09,U2,0
-2008-10,Air,0
-2008-10,Blumentopf,0
-2008-10,Bob Dylan,0
-2008-10,Coldplay,0
-2008-10,Daniel Kehlmann,0
-2008-10,Dave Matthews Band,0
-2008-10,Die Fantastischen Vier,0
-2008-10,Guns N' Roses,0
-2008-10,Jamie Cullum,0
-2008-10,Katie Melua,0
-2008-10,Mando Diao,0
-2008-10,Marvin Gaye,0
-2008-10,Miles Davis,0
-2008-10,Nirvana,0
-2008-10,Portishead,0
-2008-10,Rage Against The Machine,0
-2008-10,The Beatles,0
-2008-10,The Roots,0
-2008-10,The Smashing Pumpkins,0
-2008-10,U2,0
-2008-11,Air,0
-2008-11,Blumentopf,0
-2008-11,Bob Dylan,0
-2008-11,Coldplay,0
-2008-11,Daniel Kehlmann,0
-2008-11,Dave Matthews Band,16
-2008-11,Die Fantastischen Vier,0
-2008-11,Guns N' Roses,51
-2008-11,Jamie Cullum,0
-2008-11,Katie Melua,12
-2008-11,Mando Diao,0
-2008-11,Marvin Gaye,0
-2008-11,Miles Davis,1
-2008-11,Nirvana,20
-2008-11,Portishead,0
-2008-11,Rage Against The Machine,0
-2008-11,The Beatles,1
-2008-11,The Roots,0
-2008-11,The Smashing Pumpkins,1
-2008-11,U2,58
-2008-12,Air,0
-2008-12,Blumentopf,2
-2008-12,Bob Dylan,5
-2008-12,Coldplay,0
-2008-12,Daniel Kehlmann,0
-2008-12,Dave Matthews Band,5
-2008-12,Die Fantastischen Vier,1
-2008-12,Guns N' Roses,12
-2008-12,Jamie Cullum,0
-2008-12,Katie Melua,0
-2008-12,Mando Diao,0
-2008-12,Marvin Gaye,0
-2008-12,Miles Davis,0
-2008-12,Nirvana,1
-2008-12,Portishead,1
-2008-12,Rage Against The Machine,2
-2008-12,The Beatles,3
-2008-12,The Roots,0
-2008-12,The Smashing Pumpkins,0
-2008-12,U2,22
-2009-01,Air,9
-2009-01,Blumentopf,5
-2009-01,Bob Dylan,4
-2009-01,Coldplay,7
-2009-01,Daniel Kehlmann,49
-2009-01,Dave Matthews Band,51
-2009-01,Die Fantastischen Vier,7
-2009-01,Guns N' Roses,96
-2009-01,Jamie Cullum,2
-2009-01,Katie Melua,25
-2009-01,Mando Diao,6
-2009-01,Marvin Gaye,11
-2009-01,Miles Davis,9
-2009-01,Nirvana,7
-2009-01,Portishead,8
-2009-01,Rage Against The Machine,3
-2009-01,The Beatles,30
-2009-01,The Roots,13
-2009-01,The Smashing Pumpkins,9
-2009-01,U2,159
-2009-02,Air,0
-2009-02,Blumentopf,3
-2009-02,Bob Dylan,3
-2009-02,Coldplay,1
-2009-02,Daniel Kehlmann,100
-2009-02,Dave Matthews Band,42
-2009-02,Die Fantastischen Vier,3
-2009-02,Guns N' Roses,96
-2009-02,Jamie Cullum,0
-2009-02,Katie Melua,1
-2009-02,Mando Diao,3
-2009-02,Marvin Gaye,2
-2009-02,Miles Davis,1
-2009-02,Nirvana,3
-2009-02,Portishead,1
-2009-02,Rage Against The Machine,11
-2009-02,The Beatles,5
-2009-02,The Roots,4
-2009-02,The Smashing Pumpkins,5
-2009-02,U2,328
-2009-03,Air,0
-2009-03,Blumentopf,2
-2009-03,Bob Dylan,2
-2009-03,Coldplay,0
-2009-03,Daniel Kehlmann,106
-2009-03,Dave Matthews Band,34
-2009-03,Die Fantastischen Vier,0
-2009-03,Guns N' Roses,50
-2009-03,Jamie Cullum,0
-2009-03,Katie Melua,0
-2009-03,Mando Diao,0
-2009-03,Marvin Gaye,0
-2009-03,Miles Davis,0
-2009-03,Nirvana,3
-2009-03,Portishead,0
-2009-03,Rage Against The Machine,1
-2009-03,The Beatles,3
-2009-03,The Roots,0
-2009-03,The Smashing Pumpkins,1
-2009-03,U2,100
-2009-04,Air,128
-2009-04,Blumentopf,1
-2009-04,Bob Dylan,10
-2009-04,Coldplay,1
-2009-04,Daniel Kehlmann,128
-2009-04,Dave Matthews Band,37
-2009-04,Die Fantastischen Vier,3
-2009-04,Guns N' Roses,86
-2009-04,Jamie Cullum,0
-2009-04,Katie Melua,1
-2009-04,Mando Diao,2
-2009-04,Marvin Gaye,3
-2009-04,Miles Davis,1
-2009-04,Nirvana,3
-2009-04,Portishead,1
-2009-04,Rage Against The Machine,1
-2009-04,The Beatles,6
-2009-04,The Roots,2
-2009-04,The Smashing Pumpkins,0
-2009-04,U2,149
-2009-05,Air,0
-2009-05,Blumentopf,0
-2009-05,Bob Dylan,0
-2009-05,Coldplay,0
-2009-05,Daniel Kehlmann,4
-2009-05,Dave Matthews Band,0
-2009-05,Die Fantastischen Vier,0
-2009-05,Guns N' Roses,0
-2009-05,Jamie Cullum,0
-2009-05,Katie Melua,0
-2009-05,Mando Diao,0
-2009-05,Marvin Gaye,0
-2009-05,Miles Davis,0
-2009-05,Nirvana,0
-2009-05,Portishead,0
-2009-05,Rage Against The Machine,0
-2009-05,The Beatles,2
-2009-05,The Roots,0
-2009-05,The Smashing Pumpkins,0
-2009-05,U2,0
+"month","artist","plays"
+"2006-12","Air",0
+"2006-12","Blumentopf",0
+"2006-12","Bob Dylan",9
+"2006-12","Coldplay",6
+"2006-12","Daniel Kehlmann",0
+"2006-12","Dave Matthews Band",8
+"2006-12","Die Fantastischen Vier",0
+"2006-12","Guns N' Roses",0
+"2006-12","Jamie Cullum",9
+"2006-12","Katie Melua",2
+"2006-12","Mando Diao",18
+"2006-12","Marvin Gaye",22
+"2006-12","Miles Davis",5
+"2006-12","Nirvana",10
+"2006-12","Portishead",21
+"2006-12","Rage Against The Machine",3
+"2006-12","The Beatles",25
+"2006-12","The Roots",3
+"2006-12","The Smashing Pumpkins",21
+"2006-12","U2",83
+"2007-01","Air",0
+"2007-01","Blumentopf",0
+"2007-01","Bob Dylan",10
+"2007-01","Coldplay",2
+"2007-01","Daniel Kehlmann",0
+"2007-01","Dave Matthews Band",2
+"2007-01","Die Fantastischen Vier",0
+"2007-01","Guns N' Roses",0
+"2007-01","Jamie Cullum",2
+"2007-01","Katie Melua",1
+"2007-01","Mando Diao",2
+"2007-01","Marvin Gaye",18
+"2007-01","Miles Davis",2
+"2007-01","Nirvana",7
+"2007-01","Portishead",16
+"2007-01","Rage Against The Machine",9
+"2007-01","The Beatles",17
+"2007-01","The Roots",3
+"2007-01","The Smashing Pumpkins",15
+"2007-01","U2",25
+"2007-02","Air",2
+"2007-02","Blumentopf",0
+"2007-02","Bob Dylan",0
+"2007-02","Coldplay",0
+"2007-02","Daniel Kehlmann",0
+"2007-02","Dave Matthews Band",0
+"2007-02","Die Fantastischen Vier",0
+"2007-02","Guns N' Roses",0
+"2007-02","Jamie Cullum",0
+"2007-02","Katie Melua",2
+"2007-02","Mando Diao",0
+"2007-02","Marvin Gaye",0
+"2007-02","Miles Davis",0
+"2007-02","Nirvana",0
+"2007-02","Portishead",0
+"2007-02","Rage Against The Machine",0
+"2007-02","The Beatles",0
+"2007-02","The Roots",0
+"2007-02","The Smashing Pumpkins",0
+"2007-02","U2",0
+"2007-03","Air",1
+"2007-03","Blumentopf",0
+"2007-03","Bob Dylan",0
+"2007-03","Coldplay",0
+"2007-03","Daniel Kehlmann",0
+"2007-03","Dave Matthews Band",0
+"2007-03","Die Fantastischen Vier",0
+"2007-03","Guns N' Roses",0
+"2007-03","Jamie Cullum",0
+"2007-03","Katie Melua",0
+"2007-03","Mando Diao",0
+"2007-03","Marvin Gaye",0
+"2007-03","Miles Davis",0
+"2007-03","Nirvana",0
+"2007-03","Portishead",0
+"2007-03","Rage Against The Machine",0
+"2007-03","The Beatles",0
+"2007-03","The Roots",0
+"2007-03","The Smashing Pumpkins",0
+"2007-03","U2",2
+"2007-04","Air",2
+"2007-04","Blumentopf",0
+"2007-04","Bob Dylan",1
+"2007-04","Coldplay",0
+"2007-04","Daniel Kehlmann",13
+"2007-04","Dave Matthews Band",0
+"2007-04","Die Fantastischen Vier",0
+"2007-04","Guns N' Roses",0
+"2007-04","Jamie Cullum",1
+"2007-04","Katie Melua",0
+"2007-04","Mando Diao",0
+"2007-04","Marvin Gaye",1
+"2007-04","Miles Davis",0
+"2007-04","Nirvana",0
+"2007-04","Portishead",0
+"2007-04","Rage Against The Machine",0
+"2007-04","The Beatles",1
+"2007-04","The Roots",0
+"2007-04","The Smashing Pumpkins",3
+"2007-04","U2",3
+"2007-05","Air",2
+"2007-05","Blumentopf",0
+"2007-05","Bob Dylan",2
+"2007-05","Coldplay",2
+"2007-05","Daniel Kehlmann",0
+"2007-05","Dave Matthews Band",2
+"2007-05","Die Fantastischen Vier",0
+"2007-05","Guns N' Roses",0
+"2007-05","Jamie Cullum",6
+"2007-05","Katie Melua",3
+"2007-05","Mando Diao",2
+"2007-05","Marvin Gaye",7
+"2007-05","Miles Davis",0
+"2007-05","Nirvana",1
+"2007-05","Portishead",5
+"2007-05","Rage Against The Machine",3
+"2007-05","The Beatles",14
+"2007-05","The Roots",0
+"2007-05","The Smashing Pumpkins",4
+"2007-05","U2",24
+"2007-06","Air",0
+"2007-06","Blumentopf",0
+"2007-06","Bob Dylan",0
+"2007-06","Coldplay",0
+"2007-06","Daniel Kehlmann",0
+"2007-06","Dave Matthews Band",4
+"2007-06","Die Fantastischen Vier",0
+"2007-06","Guns N' Roses",0
+"2007-06","Jamie Cullum",12
+"2007-06","Katie Melua",36
+"2007-06","Mando Diao",3
+"2007-06","Marvin Gaye",18
+"2007-06","Miles Davis",0
+"2007-06","Nirvana",3
+"2007-06","Portishead",12
+"2007-06","Rage Against The Machine",2
+"2007-06","The Beatles",0
+"2007-06","The Roots",0
+"2007-06","The Smashing Pumpkins",0
+"2007-06","U2",21
+"2007-07","Air",0
+"2007-07","Blumentopf",0
+"2007-07","Bob Dylan",0
+"2007-07","Coldplay",0
+"2007-07","Daniel Kehlmann",0
+"2007-07","Dave Matthews Band",0
+"2007-07","Die Fantastischen Vier",0
+"2007-07","Guns N' Roses",0
+"2007-07","Jamie Cullum",49
+"2007-07","Katie Melua",30
+"2007-07","Mando Diao",6
+"2007-07","Marvin Gaye",3
+"2007-07","Miles Davis",0
+"2007-07","Nirvana",3
+"2007-07","Portishead",24
+"2007-07","Rage Against The Machine",2
+"2007-07","The Beatles",0
+"2007-07","The Roots",0
+"2007-07","The Smashing Pumpkins",27
+"2007-07","U2",31
+"2007-08","Air",1
+"2007-08","Blumentopf",0
+"2007-08","Bob Dylan",0
+"2007-08","Coldplay",0
+"2007-08","Daniel Kehlmann",0
+"2007-08","Dave Matthews Band",1
+"2007-08","Die Fantastischen Vier",0
+"2007-08","Guns N' Roses",0
+"2007-08","Jamie Cullum",1
+"2007-08","Katie Melua",0
+"2007-08","Mando Diao",8
+"2007-08","Marvin Gaye",4
+"2007-08","Miles Davis",0
+"2007-08","Nirvana",9
+"2007-08","Portishead",18
+"2007-08","Rage Against The Machine",14
+"2007-08","The Beatles",2
+"2007-08","The Roots",1
+"2007-08","The Smashing Pumpkins",41
+"2007-08","U2",42
+"2007-09","Air",0
+"2007-09","Blumentopf",24
+"2007-09","Bob Dylan",0
+"2007-09","Coldplay",0
+"2007-09","Daniel Kehlmann",0
+"2007-09","Dave Matthews Band",0
+"2007-09","Die Fantastischen Vier",31
+"2007-09","Guns N' Roses",0
+"2007-09","Jamie Cullum",0
+"2007-09","Katie Melua",0
+"2007-09","Mando Diao",0
+"2007-09","Marvin Gaye",0
+"2007-09","Miles Davis",0
+"2007-09","Nirvana",0
+"2007-09","Portishead",14
+"2007-09","Rage Against The Machine",0
+"2007-09","The Beatles",0
+"2007-09","The Roots",63
+"2007-09","The Smashing Pumpkins",0
+"2007-09","U2",1
+"2007-10","Air",0
+"2007-10","Blumentopf",1
+"2007-10","Bob Dylan",0
+"2007-10","Coldplay",0
+"2007-10","Daniel Kehlmann",0
+"2007-10","Dave Matthews Band",0
+"2007-10","Die Fantastischen Vier",0
+"2007-10","Guns N' Roses",0
+"2007-10","Jamie Cullum",0
+"2007-10","Katie Melua",8
+"2007-10","Mando Diao",0
+"2007-10","Marvin Gaye",0
+"2007-10","Miles Davis",0
+"2007-10","Nirvana",1
+"2007-10","Portishead",0
+"2007-10","Rage Against The Machine",0
+"2007-10","The Beatles",3
+"2007-10","The Roots",0
+"2007-10","The Smashing Pumpkins",0
+"2007-10","U2",18
+"2007-11","Air",2
+"2007-11","Blumentopf",42
+"2007-11","Bob Dylan",13
+"2007-11","Coldplay",1
+"2007-11","Daniel Kehlmann",0
+"2007-11","Dave Matthews Band",5
+"2007-11","Die Fantastischen Vier",23
+"2007-11","Guns N' Roses",0
+"2007-11","Jamie Cullum",0
+"2007-11","Katie Melua",25
+"2007-11","Mando Diao",3
+"2007-11","Marvin Gaye",45
+"2007-11","Miles Davis",0
+"2007-11","Nirvana",0
+"2007-11","Portishead",19
+"2007-11","Rage Against The Machine",1
+"2007-11","The Beatles",35
+"2007-11","The Roots",34
+"2007-11","The Smashing Pumpkins",2
+"2007-11","U2",77
+"2007-12","Air",2
+"2007-12","Blumentopf",0
+"2007-12","Bob Dylan",0
+"2007-12","Coldplay",0
+"2007-12","Daniel Kehlmann",32
+"2007-12","Dave Matthews Band",15
+"2007-12","Die Fantastischen Vier",0
+"2007-12","Guns N' Roses",0
+"2007-12","Jamie Cullum",0
+"2007-12","Katie Melua",12
+"2007-12","Mando Diao",0
+"2007-12","Marvin Gaye",33
+"2007-12","Miles Davis",2
+"2007-12","Nirvana",0
+"2007-12","Portishead",0
+"2007-12","Rage Against The Machine",0
+"2007-12","The Beatles",34
+"2007-12","The Roots",0
+"2007-12","The Smashing Pumpkins",0
+"2007-12","U2",8
+"2008-01","Air",3
+"2008-01","Blumentopf",1
+"2008-01","Bob Dylan",2
+"2008-01","Coldplay",7
+"2008-01","Daniel Kehlmann",21
+"2008-01","Dave Matthews Band",4
+"2008-01","Die Fantastischen Vier",1
+"2008-01","Guns N' Roses",4
+"2008-01","Jamie Cullum",2
+"2008-01","Katie Melua",1
+"2008-01","Mando Diao",5
+"2008-01","Marvin Gaye",2
+"2008-01","Miles Davis",0
+"2008-01","Nirvana",1
+"2008-01","Portishead",0
+"2008-01","Rage Against The Machine",0
+"2008-01","The Beatles",4
+"2008-01","The Roots",0
+"2008-01","The Smashing Pumpkins",0
+"2008-01","U2",11
+"2008-02","Air",1
+"2008-02","Blumentopf",0
+"2008-02","Bob Dylan",1
+"2008-02","Coldplay",7
+"2008-02","Daniel Kehlmann",98
+"2008-02","Dave Matthews Band",4
+"2008-02","Die Fantastischen Vier",1
+"2008-02","Guns N' Roses",12
+"2008-02","Jamie Cullum",1
+"2008-02","Katie Melua",1
+"2008-02","Mando Diao",9
+"2008-02","Marvin Gaye",3
+"2008-02","Miles Davis",7
+"2008-02","Nirvana",1
+"2008-02","Portishead",1
+"2008-02","Rage Against The Machine",1
+"2008-02","The Beatles",178
+"2008-02","The Roots",1
+"2008-02","The Smashing Pumpkins",0
+"2008-02","U2",26
+"2008-03","Air",3
+"2008-03","Blumentopf",1
+"2008-03","Bob Dylan",3
+"2008-03","Coldplay",9
+"2008-03","Daniel Kehlmann",77
+"2008-03","Dave Matthews Band",6
+"2008-03","Die Fantastischen Vier",0
+"2008-03","Guns N' Roses",12
+"2008-03","Jamie Cullum",0
+"2008-03","Katie Melua",1
+"2008-03","Mando Diao",11
+"2008-03","Marvin Gaye",1
+"2008-03","Miles Davis",1
+"2008-03","Nirvana",1
+"2008-03","Portishead",1
+"2008-03","Rage Against The Machine",0
+"2008-03","The Beatles",16
+"2008-03","The Roots",1
+"2008-03","The Smashing Pumpkins",2
+"2008-03","U2",16
+"2008-04","Air",1
+"2008-04","Blumentopf",2
+"2008-04","Bob Dylan",0
+"2008-04","Coldplay",42
+"2008-04","Daniel Kehlmann",51
+"2008-04","Dave Matthews Band",1
+"2008-04","Die Fantastischen Vier",2
+"2008-04","Guns N' Roses",85
+"2008-04","Jamie Cullum",1
+"2008-04","Katie Melua",2
+"2008-04","Mando Diao",58
+"2008-04","Marvin Gaye",4
+"2008-04","Miles Davis",3
+"2008-04","Nirvana",18
+"2008-04","Portishead",2
+"2008-04","Rage Against The Machine",0
+"2008-04","The Beatles",5
+"2008-04","The Roots",1
+"2008-04","The Smashing Pumpkins",2
+"2008-04","U2",102
+"2008-05","Air",0
+"2008-05","Blumentopf",0
+"2008-05","Bob Dylan",2
+"2008-05","Coldplay",10
+"2008-05","Daniel Kehlmann",0
+"2008-05","Dave Matthews Band",53
+"2008-05","Die Fantastischen Vier",8
+"2008-05","Guns N' Roses",136
+"2008-05","Jamie Cullum",1
+"2008-05","Katie Melua",3
+"2008-05","Mando Diao",7
+"2008-05","Marvin Gaye",1
+"2008-05","Miles Davis",0
+"2008-05","Nirvana",3
+"2008-05","Portishead",1
+"2008-05","Rage Against The Machine",0
+"2008-05","The Beatles",9
+"2008-05","The Roots",1
+"2008-05","The Smashing Pumpkins",0
+"2008-05","U2",154
+"2008-06","Air",7
+"2008-06","Blumentopf",6
+"2008-06","Bob Dylan",1
+"2008-06","Coldplay",6
+"2008-06","Daniel Kehlmann",60
+"2008-06","Dave Matthews Band",86
+"2008-06","Die Fantastischen Vier",6
+"2008-06","Guns N' Roses",163
+"2008-06","Jamie Cullum",2
+"2008-06","Katie Melua",4
+"2008-06","Mando Diao",7
+"2008-06","Marvin Gaye",11
+"2008-06","Miles Davis",5
+"2008-06","Nirvana",2
+"2008-06","Portishead",6
+"2008-06","Rage Against The Machine",2
+"2008-06","The Beatles",13
+"2008-06","The Roots",6
+"2008-06","The Smashing Pumpkins",4
+"2008-06","U2",230
+"2008-07","Air",1
+"2008-07","Blumentopf",0
+"2008-07","Bob Dylan",0
+"2008-07","Coldplay",4
+"2008-07","Daniel Kehlmann",2
+"2008-07","Dave Matthews Band",41
+"2008-07","Die Fantastischen Vier",6
+"2008-07","Guns N' Roses",73
+"2008-07","Jamie Cullum",1
+"2008-07","Katie Melua",1
+"2008-07","Mando Diao",5
+"2008-07","Marvin Gaye",10
+"2008-07","Miles Davis",3
+"2008-07","Nirvana",3
+"2008-07","Portishead",3
+"2008-07","Rage Against The Machine",2
+"2008-07","The Beatles",15
+"2008-07","The Roots",1
+"2008-07","The Smashing Pumpkins",3
+"2008-07","U2",125
+"2008-08","Air",5
+"2008-08","Blumentopf",2
+"2008-08","Bob Dylan",2
+"2008-08","Coldplay",6
+"2008-08","Daniel Kehlmann",0
+"2008-08","Dave Matthews Band",18
+"2008-08","Die Fantastischen Vier",3
+"2008-08","Guns N' Roses",34
+"2008-08","Jamie Cullum",1
+"2008-08","Katie Melua",1
+"2008-08","Mando Diao",3
+"2008-08","Marvin Gaye",2
+"2008-08","Miles Davis",2
+"2008-08","Nirvana",4
+"2008-08","Portishead",2
+"2008-08","Rage Against The Machine",0
+"2008-08","The Beatles",7
+"2008-08","The Roots",2
+"2008-08","The Smashing Pumpkins",3
+"2008-08","U2",105
+"2008-09","Air",0
+"2008-09","Blumentopf",0
+"2008-09","Bob Dylan",0
+"2008-09","Coldplay",0
+"2008-09","Daniel Kehlmann",0
+"2008-09","Dave Matthews Band",0
+"2008-09","Die Fantastischen Vier",0
+"2008-09","Guns N' Roses",0
+"2008-09","Jamie Cullum",0
+"2008-09","Katie Melua",0
+"2008-09","Mando Diao",0
+"2008-09","Marvin Gaye",0
+"2008-09","Miles Davis",0
+"2008-09","Nirvana",0
+"2008-09","Portishead",0
+"2008-09","Rage Against The Machine",0
+"2008-09","The Beatles",0
+"2008-09","The Roots",0
+"2008-09","The Smashing Pumpkins",0
+"2008-09","U2",0
+"2008-10","Air",0
+"2008-10","Blumentopf",0
+"2008-10","Bob Dylan",0
+"2008-10","Coldplay",0
+"2008-10","Daniel Kehlmann",0
+"2008-10","Dave Matthews Band",0
+"2008-10","Die Fantastischen Vier",0
+"2008-10","Guns N' Roses",0
+"2008-10","Jamie Cullum",0
+"2008-10","Katie Melua",0
+"2008-10","Mando Diao",0
+"2008-10","Marvin Gaye",0
+"2008-10","Miles Davis",0
+"2008-10","Nirvana",0
+"2008-10","Portishead",0
+"2008-10","Rage Against The Machine",0
+"2008-10","The Beatles",0
+"2008-10","The Roots",0
+"2008-10","The Smashing Pumpkins",0
+"2008-10","U2",0
+"2008-11","Air",0
+"2008-11","Blumentopf",0
+"2008-11","Bob Dylan",0
+"2008-11","Coldplay",0
+"2008-11","Daniel Kehlmann",0
+"2008-11","Dave Matthews Band",16
+"2008-11","Die Fantastischen Vier",0
+"2008-11","Guns N' Roses",51
+"2008-11","Jamie Cullum",0
+"2008-11","Katie Melua",12
+"2008-11","Mando Diao",0
+"2008-11","Marvin Gaye",0
+"2008-11","Miles Davis",1
+"2008-11","Nirvana",20
+"2008-11","Portishead",0
+"2008-11","Rage Against The Machine",0
+"2008-11","The Beatles",1
+"2008-11","The Roots",0
+"2008-11","The Smashing Pumpkins",1
+"2008-11","U2",58
+"2008-12","Air",0
+"2008-12","Blumentopf",2
+"2008-12","Bob Dylan",5
+"2008-12","Coldplay",0
+"2008-12","Daniel Kehlmann",0
+"2008-12","Dave Matthews Band",5
+"2008-12","Die Fantastischen Vier",1
+"2008-12","Guns N' Roses",12
+"2008-12","Jamie Cullum",0
+"2008-12","Katie Melua",0
+"2008-12","Mando Diao",0
+"2008-12","Marvin Gaye",0
+"2008-12","Miles Davis",0
+"2008-12","Nirvana",1
+"2008-12","Portishead",1
+"2008-12","Rage Against The Machine",2
+"2008-12","The Beatles",3
+"2008-12","The Roots",0
+"2008-12","The Smashing Pumpkins",0
+"2008-12","U2",22
+"2009-01","Air",9
+"2009-01","Blumentopf",5
+"2009-01","Bob Dylan",4
+"2009-01","Coldplay",7
+"2009-01","Daniel Kehlmann",49
+"2009-01","Dave Matthews Band",51
+"2009-01","Die Fantastischen Vier",7
+"2009-01","Guns N' Roses",96
+"2009-01","Jamie Cullum",2
+"2009-01","Katie Melua",25
+"2009-01","Mando Diao",6
+"2009-01","Marvin Gaye",11
+"2009-01","Miles Davis",9
+"2009-01","Nirvana",7
+"2009-01","Portishead",8
+"2009-01","Rage Against The Machine",3
+"2009-01","The Beatles",30
+"2009-01","The Roots",13
+"2009-01","The Smashing Pumpkins",9
+"2009-01","U2",159
+"2009-02","Air",0
+"2009-02","Blumentopf",3
+"2009-02","Bob Dylan",3
+"2009-02","Coldplay",1
+"2009-02","Daniel Kehlmann",100
+"2009-02","Dave Matthews Band",42
+"2009-02","Die Fantastischen Vier",3
+"2009-02","Guns N' Roses",96
+"2009-02","Jamie Cullum",0
+"2009-02","Katie Melua",1
+"2009-02","Mando Diao",3
+"2009-02","Marvin Gaye",2
+"2009-02","Miles Davis",1
+"2009-02","Nirvana",3
+"2009-02","Portishead",1
+"2009-02","Rage Against The Machine",11
+"2009-02","The Beatles",5
+"2009-02","The Roots",4
+"2009-02","The Smashing Pumpkins",5
+"2009-02","U2",328
+"2009-03","Air",0
+"2009-03","Blumentopf",2
+"2009-03","Bob Dylan",2
+"2009-03","Coldplay",0
+"2009-03","Daniel Kehlmann",106
+"2009-03","Dave Matthews Band",34
+"2009-03","Die Fantastischen Vier",0
+"2009-03","Guns N' Roses",50
+"2009-03","Jamie Cullum",0
+"2009-03","Katie Melua",0
+"2009-03","Mando Diao",0
+"2009-03","Marvin Gaye",0
+"2009-03","Miles Davis",0
+"2009-03","Nirvana",3
+"2009-03","Portishead",0
+"2009-03","Rage Against The Machine",1
+"2009-03","The Beatles",3
+"2009-03","The Roots",0
+"2009-03","The Smashing Pumpkins",1
+"2009-03","U2",100
+"2009-04","Air",128
+"2009-04","Blumentopf",1
+"2009-04","Bob Dylan",10
+"2009-04","Coldplay",1
+"2009-04","Daniel Kehlmann",128
+"2009-04","Dave Matthews Band",37
+"2009-04","Die Fantastischen Vier",3
+"2009-04","Guns N' Roses",86
+"2009-04","Jamie Cullum",0
+"2009-04","Katie Melua",1
+"2009-04","Mando Diao",2
+"2009-04","Marvin Gaye",3
+"2009-04","Miles Davis",1
+"2009-04","Nirvana",3
+"2009-04","Portishead",1
+"2009-04","Rage Against The Machine",1
+"2009-04","The Beatles",6
+"2009-04","The Roots",2
+"2009-04","The Smashing Pumpkins",0
+"2009-04","U2",149
+"2009-05","Air",0
+"2009-05","Blumentopf",0
+"2009-05","Bob Dylan",0
+"2009-05","Coldplay",0
+"2009-05","Daniel Kehlmann",4
+"2009-05","Dave Matthews Band",0
+"2009-05","Die Fantastischen Vier",0
+"2009-05","Guns N' Roses",0
+"2009-05","Jamie Cullum",0
+"2009-05","Katie Melua",0
+"2009-05","Mando Diao",0
+"2009-05","Marvin Gaye",0
+"2009-05","Miles Davis",0
+"2009-05","Nirvana",0
+"2009-05","Portishead",0
+"2009-05","Rage Against The Machine",0
+"2009-05","The Beatles",2
+"2009-05","The Roots",0
+"2009-05","The Smashing Pumpkins",0
+"2009-05","U2",0

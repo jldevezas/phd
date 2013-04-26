@@ -1,141 +1,141 @@
-month,artist,plays
-2007-02,Coltrane Motion,0
-2007-02,Gay Against You,0
-2007-02,Rise Against,1
-2007-02,System Of A Down,1
-2007-02,Trustcompany,1
-2007-03,Coltrane Motion,0
-2007-03,Gay Against You,1
-2007-03,Rise Against,0
-2007-03,System Of A Down,0
-2007-03,Trustcompany,0
-2007-04,Coltrane Motion,0
-2007-04,Gay Against You,0
-2007-04,Rise Against,0
-2007-04,System Of A Down,0
-2007-04,Trustcompany,0
-2007-05,Coltrane Motion,0
-2007-05,Gay Against You,0
-2007-05,Rise Against,0
-2007-05,System Of A Down,0
-2007-05,Trustcompany,0
-2007-06,Coltrane Motion,0
-2007-06,Gay Against You,0
-2007-06,Rise Against,0
-2007-06,System Of A Down,0
-2007-06,Trustcompany,0
-2007-07,Coltrane Motion,0
-2007-07,Gay Against You,0
-2007-07,Rise Against,0
-2007-07,System Of A Down,0
-2007-07,Trustcompany,0
-2007-08,Coltrane Motion,0
-2007-08,Gay Against You,0
-2007-08,Rise Against,0
-2007-08,System Of A Down,0
-2007-08,Trustcompany,0
-2007-09,Coltrane Motion,0
-2007-09,Gay Against You,0
-2007-09,Rise Against,0
-2007-09,System Of A Down,0
-2007-09,Trustcompany,0
-2007-10,Coltrane Motion,0
-2007-10,Gay Against You,0
-2007-10,Rise Against,0
-2007-10,System Of A Down,0
-2007-10,Trustcompany,0
-2007-11,Coltrane Motion,0
-2007-11,Gay Against You,0
-2007-11,Rise Against,0
-2007-11,System Of A Down,0
-2007-11,Trustcompany,0
-2007-12,Coltrane Motion,0
-2007-12,Gay Against You,0
-2007-12,Rise Against,0
-2007-12,System Of A Down,0
-2007-12,Trustcompany,0
-2008-01,Coltrane Motion,0
-2008-01,Gay Against You,0
-2008-01,Rise Against,0
-2008-01,System Of A Down,0
-2008-01,Trustcompany,0
-2008-02,Coltrane Motion,0
-2008-02,Gay Against You,0
-2008-02,Rise Against,0
-2008-02,System Of A Down,0
-2008-02,Trustcompany,0
-2008-03,Coltrane Motion,0
-2008-03,Gay Against You,0
-2008-03,Rise Against,0
-2008-03,System Of A Down,0
-2008-03,Trustcompany,0
-2008-04,Coltrane Motion,0
-2008-04,Gay Against You,0
-2008-04,Rise Against,0
-2008-04,System Of A Down,0
-2008-04,Trustcompany,0
-2008-05,Coltrane Motion,0
-2008-05,Gay Against You,0
-2008-05,Rise Against,0
-2008-05,System Of A Down,0
-2008-05,Trustcompany,0
-2008-06,Coltrane Motion,0
-2008-06,Gay Against You,0
-2008-06,Rise Against,0
-2008-06,System Of A Down,0
-2008-06,Trustcompany,0
-2008-07,Coltrane Motion,0
-2008-07,Gay Against You,0
-2008-07,Rise Against,0
-2008-07,System Of A Down,0
-2008-07,Trustcompany,0
-2008-08,Coltrane Motion,0
-2008-08,Gay Against You,0
-2008-08,Rise Against,0
-2008-08,System Of A Down,0
-2008-08,Trustcompany,0
-2008-09,Coltrane Motion,0
-2008-09,Gay Against You,0
-2008-09,Rise Against,0
-2008-09,System Of A Down,0
-2008-09,Trustcompany,0
-2008-10,Coltrane Motion,0
-2008-10,Gay Against You,0
-2008-10,Rise Against,0
-2008-10,System Of A Down,0
-2008-10,Trustcompany,0
-2008-11,Coltrane Motion,0
-2008-11,Gay Against You,0
-2008-11,Rise Against,0
-2008-11,System Of A Down,0
-2008-11,Trustcompany,0
-2008-12,Coltrane Motion,0
-2008-12,Gay Against You,0
-2008-12,Rise Against,0
-2008-12,System Of A Down,0
-2008-12,Trustcompany,0
-2009-01,Coltrane Motion,0
-2009-01,Gay Against You,0
-2009-01,Rise Against,0
-2009-01,System Of A Down,0
-2009-01,Trustcompany,0
-2009-02,Coltrane Motion,0
-2009-02,Gay Against You,0
-2009-02,Rise Against,0
-2009-02,System Of A Down,0
-2009-02,Trustcompany,0
-2009-03,Coltrane Motion,0
-2009-03,Gay Against You,0
-2009-03,Rise Against,0
-2009-03,System Of A Down,0
-2009-03,Trustcompany,0
-2009-04,Coltrane Motion,0
-2009-04,Gay Against You,0
-2009-04,Rise Against,0
-2009-04,System Of A Down,0
-2009-04,Trustcompany,0
-2009-05,Coltrane Motion,1
-2009-05,Gay Against You,0
-2009-05,Rise Against,0
-2009-05,System Of A Down,0
-2009-05,Trustcompany,0
+"month","artist","plays"
+"2007-02","Coltrane Motion",0
+"2007-02","Gay Against You",0
+"2007-02","Rise Against",1
+"2007-02","System Of A Down",1
+"2007-02","Trustcompany",1
+"2007-03","Coltrane Motion",0
+"2007-03","Gay Against You",1
+"2007-03","Rise Against",0
+"2007-03","System Of A Down",0
+"2007-03","Trustcompany",0
+"2007-04","Coltrane Motion",0
+"2007-04","Gay Against You",0
+"2007-04","Rise Against",0
+"2007-04","System Of A Down",0
+"2007-04","Trustcompany",0
+"2007-05","Coltrane Motion",0
+"2007-05","Gay Against You",0
+"2007-05","Rise Against",0
+"2007-05","System Of A Down",0
+"2007-05","Trustcompany",0
+"2007-06","Coltrane Motion",0
+"2007-06","Gay Against You",0
+"2007-06","Rise Against",0
+"2007-06","System Of A Down",0
+"2007-06","Trustcompany",0
+"2007-07","Coltrane Motion",0
+"2007-07","Gay Against You",0
+"2007-07","Rise Against",0
+"2007-07","System Of A Down",0
+"2007-07","Trustcompany",0
+"2007-08","Coltrane Motion",0
+"2007-08","Gay Against You",0
+"2007-08","Rise Against",0
+"2007-08","System Of A Down",0
+"2007-08","Trustcompany",0
+"2007-09","Coltrane Motion",0
+"2007-09","Gay Against You",0
+"2007-09","Rise Against",0
+"2007-09","System Of A Down",0
+"2007-09","Trustcompany",0
+"2007-10","Coltrane Motion",0
+"2007-10","Gay Against You",0
+"2007-10","Rise Against",0
+"2007-10","System Of A Down",0
+"2007-10","Trustcompany",0
+"2007-11","Coltrane Motion",0
+"2007-11","Gay Against You",0
+"2007-11","Rise Against",0
+"2007-11","System Of A Down",0
+"2007-11","Trustcompany",0
+"2007-12","Coltrane Motion",0
+"2007-12","Gay Against You",0
+"2007-12","Rise Against",0
+"2007-12","System Of A Down",0
+"2007-12","Trustcompany",0
+"2008-01","Coltrane Motion",0
+"2008-01","Gay Against You",0
+"2008-01","Rise Against",0
+"2008-01","System Of A Down",0
+"2008-01","Trustcompany",0
+"2008-02","Coltrane Motion",0
+"2008-02","Gay Against You",0
+"2008-02","Rise Against",0
+"2008-02","System Of A Down",0
+"2008-02","Trustcompany",0
+"2008-03","Coltrane Motion",0
+"2008-03","Gay Against You",0
+"2008-03","Rise Against",0
+"2008-03","System Of A Down",0
+"2008-03","Trustcompany",0
+"2008-04","Coltrane Motion",0
+"2008-04","Gay Against You",0
+"2008-04","Rise Against",0
+"2008-04","System Of A Down",0
+"2008-04","Trustcompany",0
+"2008-05","Coltrane Motion",0
+"2008-05","Gay Against You",0
+"2008-05","Rise Against",0
+"2008-05","System Of A Down",0
+"2008-05","Trustcompany",0
+"2008-06","Coltrane Motion",0
+"2008-06","Gay Against You",0
+"2008-06","Rise Against",0
+"2008-06","System Of A Down",0
+"2008-06","Trustcompany",0
+"2008-07","Coltrane Motion",0
+"2008-07","Gay Against You",0
+"2008-07","Rise Against",0
+"2008-07","System Of A Down",0
+"2008-07","Trustcompany",0
+"2008-08","Coltrane Motion",0
+"2008-08","Gay Against You",0
+"2008-08","Rise Against",0
+"2008-08","System Of A Down",0
+"2008-08","Trustcompany",0
+"2008-09","Coltrane Motion",0
+"2008-09","Gay Against You",0
+"2008-09","Rise Against",0
+"2008-09","System Of A Down",0
+"2008-09","Trustcompany",0
+"2008-10","Coltrane Motion",0
+"2008-10","Gay Against You",0
+"2008-10","Rise Against",0
+"2008-10","System Of A Down",0
+"2008-10","Trustcompany",0
+"2008-11","Coltrane Motion",0
+"2008-11","Gay Against You",0
+"2008-11","Rise Against",0
+"2008-11","System Of A Down",0
+"2008-11","Trustcompany",0
+"2008-12","Coltrane Motion",0
+"2008-12","Gay Against You",0
+"2008-12","Rise Against",0
+"2008-12","System Of A Down",0
+"2008-12","Trustcompany",0
+"2009-01","Coltrane Motion",0
+"2009-01","Gay Against You",0
+"2009-01","Rise Against",0
+"2009-01","System Of A Down",0
+"2009-01","Trustcompany",0
+"2009-02","Coltrane Motion",0
+"2009-02","Gay Against You",0
+"2009-02","Rise Against",0
+"2009-02","System Of A Down",0
+"2009-02","Trustcompany",0
+"2009-03","Coltrane Motion",0
+"2009-03","Gay Against You",0
+"2009-03","Rise Against",0
+"2009-03","System Of A Down",0
+"2009-03","Trustcompany",0
+"2009-04","Coltrane Motion",0
+"2009-04","Gay Against You",0
+"2009-04","Rise Against",0
+"2009-04","System Of A Down",0
+"2009-04","Trustcompany",0
+"2009-05","Coltrane Motion",1
+"2009-05","Gay Against You",0
+"2009-05","Rise Against",0
+"2009-05","System Of A Down",0
+"2009-05","Trustcompany",0

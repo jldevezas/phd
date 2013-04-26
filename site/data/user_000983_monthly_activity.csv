@@ -1,121 +1,121 @@
-month,artist,plays
-2008-12,Air,24
-2008-12,Andrew Bird,119
-2008-12,Animal Collective,3
-2008-12,Blockhead,12
-2008-12,Blonde Redhead,1
-2008-12,Broadcast,2
-2008-12,Daft Punk,9
-2008-12,Death Cab For Cutie,10
-2008-12,Elliott Smith,5
-2008-12,Forest City Lovers,2
-2008-12,Girl Talk,4
-2008-12,Hot Chip,12
-2008-12,Justice,11
-2008-12,Ladytron,23
-2008-12,Loney, Dear,3
-2008-12,Lykke Li,16
-2008-12,Man Man,2
-2008-12,Manu Chao,5
-2008-12,Mates Of State,7
-2008-12,Minus The Bear,8
-2009-01,Air,5
-2009-01,Andrew Bird,77
-2009-01,Animal Collective,13
-2009-01,Blockhead,17
-2009-01,Blonde Redhead,2
-2009-01,Broadcast,8
-2009-01,Daft Punk,17
-2009-01,Death Cab For Cutie,16
-2009-01,Elliott Smith,20
-2009-01,Forest City Lovers,4
-2009-01,Girl Talk,2
-2009-01,Hot Chip,17
-2009-01,Justice,12
-2009-01,Ladytron,34
-2009-01,Loney, Dear,5
-2009-01,Lykke Li,6
-2009-01,Man Man,6
-2009-01,Manu Chao,16
-2009-01,Mates Of State,28
-2009-01,Minus The Bear,10
-2009-02,Air,2
-2009-02,Andrew Bird,51
-2009-02,Animal Collective,6
-2009-02,Blockhead,13
-2009-02,Blonde Redhead,3
-2009-02,Broadcast,5
-2009-02,Daft Punk,9
-2009-02,Death Cab For Cutie,11
-2009-02,Elliott Smith,8
-2009-02,Forest City Lovers,3
-2009-02,Girl Talk,2
-2009-02,Hot Chip,14
-2009-02,Justice,16
-2009-02,Ladytron,31
-2009-02,Loney, Dear,3
-2009-02,Lykke Li,32
-2009-02,Man Man,2
-2009-02,Manu Chao,10
-2009-02,Mates Of State,16
-2009-02,Minus The Bear,9
-2009-03,Air,9
-2009-03,Andrew Bird,71
-2009-03,Animal Collective,9
-2009-03,Blockhead,5
-2009-03,Blonde Redhead,4
-2009-03,Broadcast,5
-2009-03,Daft Punk,8
-2009-03,Death Cab For Cutie,24
-2009-03,Elliott Smith,13
-2009-03,Forest City Lovers,5
-2009-03,Girl Talk,1
-2009-03,Hot Chip,21
-2009-03,Justice,18
-2009-03,Ladytron,44
-2009-03,Loney, Dear,14
-2009-03,Lykke Li,9
-2009-03,Man Man,2
-2009-03,Manu Chao,11
-2009-03,Mates Of State,20
-2009-03,Minus The Bear,7
-2009-04,Air,6
-2009-04,Andrew Bird,36
-2009-04,Animal Collective,4
-2009-04,Blockhead,6
-2009-04,Blonde Redhead,2
-2009-04,Broadcast,4
-2009-04,Daft Punk,8
-2009-04,Death Cab For Cutie,11
-2009-04,Elliott Smith,14
-2009-04,Forest City Lovers,1
-2009-04,Girl Talk,2
-2009-04,Hot Chip,11
-2009-04,Justice,6
-2009-04,Ladytron,25
-2009-04,Loney, Dear,5
-2009-04,Lykke Li,3
-2009-04,Man Man,3
-2009-04,Manu Chao,6
-2009-04,Mates Of State,8
-2009-04,Minus The Bear,6
-2009-05,Air,1
-2009-05,Andrew Bird,1
-2009-05,Animal Collective,1
-2009-05,Blockhead,1
-2009-05,Blonde Redhead,1
-2009-05,Broadcast,1
-2009-05,Daft Punk,1
-2009-05,Death Cab For Cutie,1
-2009-05,Elliott Smith,1
-2009-05,Forest City Lovers,1
-2009-05,Girl Talk,2
-2009-05,Hot Chip,1
-2009-05,Justice,1
-2009-05,Ladytron,2
-2009-05,Loney, Dear,1
-2009-05,Lykke Li,1
-2009-05,Man Man,1
-2009-05,Manu Chao,4
-2009-05,Mates Of State,2
-2009-05,Minus The Bear,1
+"month","artist","plays"
+"2008-12","Air",24
+"2008-12","Andrew Bird",119
+"2008-12","Animal Collective",3
+"2008-12","Blockhead",12
+"2008-12","Blonde Redhead",1
+"2008-12","Broadcast",2
+"2008-12","Daft Punk",9
+"2008-12","Death Cab For Cutie",10
+"2008-12","Elliott Smith",5
+"2008-12","Forest City Lovers",2
+"2008-12","Girl Talk",4
+"2008-12","Hot Chip",12
+"2008-12","Justice",11
+"2008-12","Ladytron",23
+"2008-12","Loney, Dear",3
+"2008-12","Lykke Li",16
+"2008-12","Man Man",2
+"2008-12","Manu Chao",5
+"2008-12","Mates Of State",7
+"2008-12","Minus The Bear",8
+"2009-01","Air",5
+"2009-01","Andrew Bird",77
+"2009-01","Animal Collective",13
+"2009-01","Blockhead",17
+"2009-01","Blonde Redhead",2
+"2009-01","Broadcast",8
+"2009-01","Daft Punk",17
+"2009-01","Death Cab For Cutie",16
+"2009-01","Elliott Smith",20
+"2009-01","Forest City Lovers",4
+"2009-01","Girl Talk",2
+"2009-01","Hot Chip",17
+"2009-01","Justice",12
+"2009-01","Ladytron",34
+"2009-01","Loney, Dear",5
+"2009-01","Lykke Li",6
+"2009-01","Man Man",6
+"2009-01","Manu Chao",16
+"2009-01","Mates Of State",28
+"2009-01","Minus The Bear",10
+"2009-02","Air",2
+"2009-02","Andrew Bird",51
+"2009-02","Animal Collective",6
+"2009-02","Blockhead",13
+"2009-02","Blonde Redhead",3
+"2009-02","Broadcast",5
+"2009-02","Daft Punk",9
+"2009-02","Death Cab For Cutie",11
+"2009-02","Elliott Smith",8
+"2009-02","Forest City Lovers",3
+"2009-02","Girl Talk",2
+"2009-02","Hot Chip",14
+"2009-02","Justice",16
+"2009-02","Ladytron",31
+"2009-02","Loney, Dear",3
+"2009-02","Lykke Li",32
+"2009-02","Man Man",2
+"2009-02","Manu Chao",10
+"2009-02","Mates Of State",16
+"2009-02","Minus The Bear",9
+"2009-03","Air",9
+"2009-03","Andrew Bird",71
+"2009-03","Animal Collective",9
+"2009-03","Blockhead",5
+"2009-03","Blonde Redhead",4
+"2009-03","Broadcast",5
+"2009-03","Daft Punk",8
+"2009-03","Death Cab For Cutie",24
+"2009-03","Elliott Smith",13
+"2009-03","Forest City Lovers",5
+"2009-03","Girl Talk",1
+"2009-03","Hot Chip",21
+"2009-03","Justice",18
+"2009-03","Ladytron",44
+"2009-03","Loney, Dear",14
+"2009-03","Lykke Li",9
+"2009-03","Man Man",2
+"2009-03","Manu Chao",11
+"2009-03","Mates Of State",20
+"2009-03","Minus The Bear",7
+"2009-04","Air",6
+"2009-04","Andrew Bird",36
+"2009-04","Animal Collective",4
+"2009-04","Blockhead",6
+"2009-04","Blonde Redhead",2
+"2009-04","Broadcast",4
+"2009-04","Daft Punk",8
+"2009-04","Death Cab For Cutie",11
+"2009-04","Elliott Smith",14
+"2009-04","Forest City Lovers",1
+"2009-04","Girl Talk",2
+"2009-04","Hot Chip",11
+"2009-04","Justice",6
+"2009-04","Ladytron",25
+"2009-04","Loney, Dear",5
+"2009-04","Lykke Li",3
+"2009-04","Man Man",3
+"2009-04","Manu Chao",6
+"2009-04","Mates Of State",8
+"2009-04","Minus The Bear",6
+"2009-05","Air",1
+"2009-05","Andrew Bird",1
+"2009-05","Animal Collective",1
+"2009-05","Blockhead",1
+"2009-05","Blonde Redhead",1
+"2009-05","Broadcast",1
+"2009-05","Daft Punk",1
+"2009-05","Death Cab For Cutie",1
+"2009-05","Elliott Smith",1
+"2009-05","Forest City Lovers",1
+"2009-05","Girl Talk",2
+"2009-05","Hot Chip",1
+"2009-05","Justice",1
+"2009-05","Ladytron",2
+"2009-05","Loney, Dear",1
+"2009-05","Lykke Li",1
+"2009-05","Man Man",1
+"2009-05","Manu Chao",4
+"2009-05","Mates Of State",2
+"2009-05","Minus The Bear",1

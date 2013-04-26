@@ -1,621 +1,621 @@
-month,artist,plays
-2006-12,Andrés Calamaro,7
-2006-12,Bon Jovi,9
-2006-12,Britney Spears,0
-2006-12,Café Tacvba,3
-2006-12,De Saloon,56
-2006-12,Depeche Mode,106
-2006-12,Dream Theater,233
-2006-12,Fito Páez,28
-2006-12,Francisca Valenzuela,0
-2006-12,Gustavo Cerati,243
-2006-12,La Ley,0
-2006-12,Los Bunkers,25
-2006-12,Lucybell,94
-2006-12,Metallica,95
-2006-12,Muse,0
-2006-12,Pearl Jam,22
-2006-12,Radiohead,197
-2006-12,Silvio Rodríguez,31
-2006-12,Soda Stereo,215
-2006-12,The Killers,94
-2007-01,Andrés Calamaro,20
-2007-01,Bon Jovi,18
-2007-01,Britney Spears,0
-2007-01,Café Tacvba,3
-2007-01,De Saloon,68
-2007-01,Depeche Mode,52
-2007-01,Dream Theater,157
-2007-01,Fito Páez,18
-2007-01,Francisca Valenzuela,11
-2007-01,Gustavo Cerati,162
-2007-01,La Ley,0
-2007-01,Los Bunkers,15
-2007-01,Lucybell,43
-2007-01,Metallica,75
-2007-01,Muse,0
-2007-01,Pearl Jam,11
-2007-01,Radiohead,123
-2007-01,Silvio Rodríguez,45
-2007-01,Soda Stereo,149
-2007-01,The Killers,68
-2007-02,Andrés Calamaro,11
-2007-02,Bon Jovi,6
-2007-02,Britney Spears,0
-2007-02,Café Tacvba,3
-2007-02,De Saloon,67
-2007-02,Depeche Mode,41
-2007-02,Dream Theater,157
-2007-02,Fito Páez,34
-2007-02,Francisca Valenzuela,2
-2007-02,Gustavo Cerati,179
-2007-02,La Ley,0
-2007-02,Los Bunkers,39
-2007-02,Lucybell,42
-2007-02,Metallica,81
-2007-02,Muse,163
-2007-02,Pearl Jam,53
-2007-02,Radiohead,102
-2007-02,Silvio Rodríguez,65
-2007-02,Soda Stereo,203
-2007-02,The Killers,50
-2007-03,Andrés Calamaro,4
-2007-03,Bon Jovi,8
-2007-03,Britney Spears,0
-2007-03,Café Tacvba,6
-2007-03,De Saloon,30
-2007-03,Depeche Mode,16
-2007-03,Dream Theater,83
-2007-03,Fito Páez,20
-2007-03,Francisca Valenzuela,2
-2007-03,Gustavo Cerati,190
-2007-03,La Ley,0
-2007-03,Los Bunkers,22
-2007-03,Lucybell,17
-2007-03,Metallica,16
-2007-03,Muse,119
-2007-03,Pearl Jam,51
-2007-03,Radiohead,74
-2007-03,Silvio Rodríguez,19
-2007-03,Soda Stereo,228
-2007-03,The Killers,41
-2007-04,Andrés Calamaro,0
-2007-04,Bon Jovi,1
-2007-04,Britney Spears,0
-2007-04,Café Tacvba,2
-2007-04,De Saloon,10
-2007-04,Depeche Mode,7
-2007-04,Dream Theater,69
-2007-04,Fito Páez,1
-2007-04,Francisca Valenzuela,0
-2007-04,Gustavo Cerati,155
-2007-04,La Ley,3
-2007-04,Los Bunkers,18
-2007-04,Lucybell,13
-2007-04,Metallica,6
-2007-04,Muse,40
-2007-04,Pearl Jam,32
-2007-04,Radiohead,42
-2007-04,Silvio Rodríguez,6
-2007-04,Soda Stereo,139
-2007-04,The Killers,23
-2007-05,Andrés Calamaro,0
-2007-05,Bon Jovi,0
-2007-05,Britney Spears,0
-2007-05,Café Tacvba,0
-2007-05,De Saloon,8
-2007-05,Depeche Mode,14
-2007-05,Dream Theater,37
-2007-05,Fito Páez,5
-2007-05,Francisca Valenzuela,0
-2007-05,Gustavo Cerati,112
-2007-05,La Ley,5
-2007-05,Los Bunkers,0
-2007-05,Lucybell,32
-2007-05,Metallica,17
-2007-05,Muse,33
-2007-05,Pearl Jam,9
-2007-05,Radiohead,19
-2007-05,Silvio Rodríguez,8
-2007-05,Soda Stereo,141
-2007-05,The Killers,25
-2007-06,Andrés Calamaro,0
-2007-06,Bon Jovi,0
-2007-06,Britney Spears,0
-2007-06,Café Tacvba,0
-2007-06,De Saloon,0
-2007-06,Depeche Mode,0
-2007-06,Dream Theater,0
-2007-06,Fito Páez,0
-2007-06,Francisca Valenzuela,0
-2007-06,Gustavo Cerati,0
-2007-06,La Ley,0
-2007-06,Los Bunkers,0
-2007-06,Lucybell,0
-2007-06,Metallica,0
-2007-06,Muse,0
-2007-06,Pearl Jam,0
-2007-06,Radiohead,0
-2007-06,Silvio Rodríguez,0
-2007-06,Soda Stereo,0
-2007-06,The Killers,0
-2007-07,Andrés Calamaro,1
-2007-07,Bon Jovi,0
-2007-07,Britney Spears,0
-2007-07,Café Tacvba,10
-2007-07,De Saloon,17
-2007-07,Depeche Mode,18
-2007-07,Dream Theater,64
-2007-07,Fito Páez,22
-2007-07,Francisca Valenzuela,8
-2007-07,Gustavo Cerati,199
-2007-07,La Ley,5
-2007-07,Los Bunkers,15
-2007-07,Lucybell,19
-2007-07,Metallica,14
-2007-07,Muse,91
-2007-07,Pearl Jam,17
-2007-07,Radiohead,74
-2007-07,Silvio Rodríguez,63
-2007-07,Soda Stereo,223
-2007-07,The Killers,63
-2007-08,Andrés Calamaro,1
-2007-08,Bon Jovi,0
-2007-08,Britney Spears,3
-2007-08,Café Tacvba,0
-2007-08,De Saloon,3
-2007-08,Depeche Mode,2
-2007-08,Dream Theater,34
-2007-08,Fito Páez,1
-2007-08,Francisca Valenzuela,0
-2007-08,Gustavo Cerati,36
-2007-08,La Ley,3
-2007-08,Los Bunkers,0
-2007-08,Lucybell,14
-2007-08,Metallica,1
-2007-08,Muse,15
-2007-08,Pearl Jam,0
-2007-08,Radiohead,11
-2007-08,Silvio Rodríguez,12
-2007-08,Soda Stereo,77
-2007-08,The Killers,8
-2007-09,Andrés Calamaro,7
-2007-09,Bon Jovi,9
-2007-09,Britney Spears,18
-2007-09,Café Tacvba,11
-2007-09,De Saloon,20
-2007-09,Depeche Mode,0
-2007-09,Dream Theater,38
-2007-09,Fito Páez,0
-2007-09,Francisca Valenzuela,0
-2007-09,Gustavo Cerati,113
-2007-09,La Ley,2
-2007-09,Los Bunkers,0
-2007-09,Lucybell,177
-2007-09,Metallica,4
-2007-09,Muse,51
-2007-09,Pearl Jam,2
-2007-09,Radiohead,83
-2007-09,Silvio Rodríguez,71
-2007-09,Soda Stereo,111
-2007-09,The Killers,16
-2007-10,Andrés Calamaro,33
-2007-10,Bon Jovi,9
-2007-10,Britney Spears,11
-2007-10,Café Tacvba,19
-2007-10,De Saloon,32
-2007-10,Depeche Mode,0
-2007-10,Dream Theater,109
-2007-10,Fito Páez,54
-2007-10,Francisca Valenzuela,10
-2007-10,Gustavo Cerati,99
-2007-10,La Ley,76
-2007-10,Los Bunkers,0
-2007-10,Lucybell,134
-2007-10,Metallica,13
-2007-10,Muse,37
-2007-10,Pearl Jam,7
-2007-10,Radiohead,138
-2007-10,Silvio Rodríguez,39
-2007-10,Soda Stereo,148
-2007-10,The Killers,6
-2007-11,Andrés Calamaro,15
-2007-11,Bon Jovi,5
-2007-11,Britney Spears,25
-2007-11,Café Tacvba,6
-2007-11,De Saloon,33
-2007-11,Depeche Mode,0
-2007-11,Dream Theater,33
-2007-11,Fito Páez,15
-2007-11,Francisca Valenzuela,11
-2007-11,Gustavo Cerati,60
-2007-11,La Ley,2
-2007-11,Los Bunkers,3
-2007-11,Lucybell,84
-2007-11,Metallica,5
-2007-11,Muse,15
-2007-11,Pearl Jam,4
-2007-11,Radiohead,39
-2007-11,Silvio Rodríguez,43
-2007-11,Soda Stereo,181
-2007-11,The Killers,59
-2007-12,Andrés Calamaro,25
-2007-12,Bon Jovi,10
-2007-12,Britney Spears,13
-2007-12,Café Tacvba,8
-2007-12,De Saloon,31
-2007-12,Depeche Mode,0
-2007-12,Dream Theater,15
-2007-12,Fito Páez,6
-2007-12,Francisca Valenzuela,20
-2007-12,Gustavo Cerati,62
-2007-12,La Ley,9
-2007-12,Los Bunkers,0
-2007-12,Lucybell,110
-2007-12,Metallica,17
-2007-12,Muse,14
-2007-12,Pearl Jam,0
-2007-12,Radiohead,43
-2007-12,Silvio Rodríguez,25
-2007-12,Soda Stereo,58
-2007-12,The Killers,32
-2008-01,Andrés Calamaro,16
-2008-01,Bon Jovi,9
-2008-01,Britney Spears,23
-2008-01,Café Tacvba,6
-2008-01,De Saloon,45
-2008-01,Depeche Mode,0
-2008-01,Dream Theater,34
-2008-01,Fito Páez,30
-2008-01,Francisca Valenzuela,7
-2008-01,Gustavo Cerati,352
-2008-01,La Ley,58
-2008-01,Los Bunkers,2
-2008-01,Lucybell,174
-2008-01,Metallica,12
-2008-01,Muse,68
-2008-01,Pearl Jam,3
-2008-01,Radiohead,111
-2008-01,Silvio Rodríguez,65
-2008-01,Soda Stereo,222
-2008-01,The Killers,32
-2008-02,Andrés Calamaro,7
-2008-02,Bon Jovi,9
-2008-02,Britney Spears,22
-2008-02,Café Tacvba,8
-2008-02,De Saloon,50
-2008-02,Depeche Mode,51
-2008-02,Dream Theater,84
-2008-02,Fito Páez,16
-2008-02,Francisca Valenzuela,5
-2008-02,Gustavo Cerati,214
-2008-02,La Ley,27
-2008-02,Los Bunkers,24
-2008-02,Lucybell,180
-2008-02,Metallica,59
-2008-02,Muse,59
-2008-02,Pearl Jam,24
-2008-02,Radiohead,134
-2008-02,Silvio Rodríguez,59
-2008-02,Soda Stereo,243
-2008-02,The Killers,76
-2008-03,Andrés Calamaro,4
-2008-03,Bon Jovi,9
-2008-03,Britney Spears,10
-2008-03,Café Tacvba,0
-2008-03,De Saloon,21
-2008-03,Depeche Mode,37
-2008-03,Dream Theater,38
-2008-03,Fito Páez,24
-2008-03,Francisca Valenzuela,9
-2008-03,Gustavo Cerati,161
-2008-03,La Ley,2
-2008-03,Los Bunkers,9
-2008-03,Lucybell,101
-2008-03,Metallica,57
-2008-03,Muse,67
-2008-03,Pearl Jam,80
-2008-03,Radiohead,77
-2008-03,Silvio Rodríguez,68
-2008-03,Soda Stereo,150
-2008-03,The Killers,26
-2008-04,Andrés Calamaro,28
-2008-04,Bon Jovi,7
-2008-04,Britney Spears,7
-2008-04,Café Tacvba,3
-2008-04,De Saloon,24
-2008-04,Depeche Mode,29
-2008-04,Dream Theater,33
-2008-04,Fito Páez,8
-2008-04,Francisca Valenzuela,20
-2008-04,Gustavo Cerati,79
-2008-04,La Ley,14
-2008-04,Los Bunkers,4
-2008-04,Lucybell,80
-2008-04,Metallica,36
-2008-04,Muse,34
-2008-04,Pearl Jam,14
-2008-04,Radiohead,85
-2008-04,Silvio Rodríguez,25
-2008-04,Soda Stereo,155
-2008-04,The Killers,23
-2008-05,Andrés Calamaro,11
-2008-05,Bon Jovi,16
-2008-05,Britney Spears,17
-2008-05,Café Tacvba,12
-2008-05,De Saloon,16
-2008-05,Depeche Mode,32
-2008-05,Dream Theater,12
-2008-05,Fito Páez,8
-2008-05,Francisca Valenzuela,67
-2008-05,Gustavo Cerati,96
-2008-05,La Ley,4
-2008-05,Los Bunkers,30
-2008-05,Lucybell,99
-2008-05,Metallica,18
-2008-05,Muse,100
-2008-05,Pearl Jam,6
-2008-05,Radiohead,50
-2008-05,Silvio Rodríguez,38
-2008-05,Soda Stereo,92
-2008-05,The Killers,20
-2008-06,Andrés Calamaro,11
-2008-06,Bon Jovi,10
-2008-06,Britney Spears,10
-2008-06,Café Tacvba,22
-2008-06,De Saloon,7
-2008-06,Depeche Mode,61
-2008-06,Dream Theater,13
-2008-06,Fito Páez,13
-2008-06,Francisca Valenzuela,58
-2008-06,Gustavo Cerati,255
-2008-06,La Ley,7
-2008-06,Los Bunkers,18
-2008-06,Lucybell,187
-2008-06,Metallica,17
-2008-06,Muse,90
-2008-06,Pearl Jam,21
-2008-06,Radiohead,139
-2008-06,Silvio Rodríguez,49
-2008-06,Soda Stereo,237
-2008-06,The Killers,26
-2008-07,Andrés Calamaro,8
-2008-07,Bon Jovi,12
-2008-07,Britney Spears,20
-2008-07,Café Tacvba,29
-2008-07,De Saloon,32
-2008-07,Depeche Mode,64
-2008-07,Dream Theater,7
-2008-07,Fito Páez,58
-2008-07,Francisca Valenzuela,34
-2008-07,Gustavo Cerati,245
-2008-07,La Ley,4
-2008-07,Los Bunkers,30
-2008-07,Lucybell,84
-2008-07,Metallica,43
-2008-07,Muse,82
-2008-07,Pearl Jam,0
-2008-07,Radiohead,218
-2008-07,Silvio Rodríguez,73
-2008-07,Soda Stereo,255
-2008-07,The Killers,24
-2008-08,Andrés Calamaro,0
-2008-08,Bon Jovi,5
-2008-08,Britney Spears,6
-2008-08,Café Tacvba,10
-2008-08,De Saloon,26
-2008-08,Depeche Mode,6
-2008-08,Dream Theater,1
-2008-08,Fito Páez,20
-2008-08,Francisca Valenzuela,22
-2008-08,Gustavo Cerati,193
-2008-08,La Ley,1
-2008-08,Los Bunkers,181
-2008-08,Lucybell,74
-2008-08,Metallica,8
-2008-08,Muse,15
-2008-08,Pearl Jam,1
-2008-08,Radiohead,145
-2008-08,Silvio Rodríguez,65
-2008-08,Soda Stereo,71
-2008-08,The Killers,11
-2008-09,Andrés Calamaro,7
-2008-09,Bon Jovi,3
-2008-09,Britney Spears,9
-2008-09,Café Tacvba,7
-2008-09,De Saloon,16
-2008-09,Depeche Mode,1
-2008-09,Dream Theater,7
-2008-09,Fito Páez,23
-2008-09,Francisca Valenzuela,46
-2008-09,Gustavo Cerati,97
-2008-09,La Ley,1
-2008-09,Los Bunkers,41
-2008-09,Lucybell,11
-2008-09,Metallica,70
-2008-09,Muse,8
-2008-09,Pearl Jam,2
-2008-09,Radiohead,76
-2008-09,Silvio Rodríguez,35
-2008-09,Soda Stereo,173
-2008-09,The Killers,9
-2008-10,Andrés Calamaro,23
-2008-10,Bon Jovi,0
-2008-10,Britney Spears,13
-2008-10,Café Tacvba,25
-2008-10,De Saloon,13
-2008-10,Depeche Mode,4
-2008-10,Dream Theater,2
-2008-10,Fito Páez,10
-2008-10,Francisca Valenzuela,17
-2008-10,Gustavo Cerati,34
-2008-10,La Ley,1
-2008-10,Los Bunkers,35
-2008-10,Lucybell,16
-2008-10,Metallica,26
-2008-10,Muse,22
-2008-10,Pearl Jam,7
-2008-10,Radiohead,116
-2008-10,Silvio Rodríguez,9
-2008-10,Soda Stereo,44
-2008-10,The Killers,9
-2008-11,Andrés Calamaro,12
-2008-11,Bon Jovi,0
-2008-11,Britney Spears,24
-2008-11,Café Tacvba,28
-2008-11,De Saloon,24
-2008-11,Depeche Mode,52
-2008-11,Dream Theater,4
-2008-11,Fito Páez,34
-2008-11,Francisca Valenzuela,16
-2008-11,Gustavo Cerati,118
-2008-11,La Ley,0
-2008-11,Los Bunkers,28
-2008-11,Lucybell,27
-2008-11,Metallica,32
-2008-11,Muse,13
-2008-11,Pearl Jam,1
-2008-11,Radiohead,100
-2008-11,Silvio Rodríguez,91
-2008-11,Soda Stereo,4
-2008-11,The Killers,11
-2008-12,Andrés Calamaro,10
-2008-12,Bon Jovi,0
-2008-12,Britney Spears,13
-2008-12,Café Tacvba,2
-2008-12,De Saloon,9
-2008-12,Depeche Mode,55
-2008-12,Dream Theater,19
-2008-12,Fito Páez,33
-2008-12,Francisca Valenzuela,12
-2008-12,Gustavo Cerati,136
-2008-12,La Ley,0
-2008-12,Los Bunkers,26
-2008-12,Lucybell,38
-2008-12,Metallica,6
-2008-12,Muse,38
-2008-12,Pearl Jam,3
-2008-12,Radiohead,108
-2008-12,Silvio Rodríguez,32
-2008-12,Soda Stereo,36
-2008-12,The Killers,22
-2009-01,Andrés Calamaro,33
-2009-01,Bon Jovi,1
-2009-01,Britney Spears,23
-2009-01,Café Tacvba,1
-2009-01,De Saloon,2
-2009-01,Depeche Mode,12
-2009-01,Dream Theater,13
-2009-01,Fito Páez,19
-2009-01,Francisca Valenzuela,7
-2009-01,Gustavo Cerati,75
-2009-01,La Ley,3
-2009-01,Los Bunkers,33
-2009-01,Lucybell,42
-2009-01,Metallica,44
-2009-01,Muse,40
-2009-01,Pearl Jam,6
-2009-01,Radiohead,104
-2009-01,Silvio Rodríguez,47
-2009-01,Soda Stereo,96
-2009-01,The Killers,29
-2009-02,Andrés Calamaro,20
-2009-02,Bon Jovi,4
-2009-02,Britney Spears,17
-2009-02,Café Tacvba,0
-2009-02,De Saloon,26
-2009-02,Depeche Mode,68
-2009-02,Dream Theater,38
-2009-02,Fito Páez,28
-2009-02,Francisca Valenzuela,12
-2009-02,Gustavo Cerati,82
-2009-02,La Ley,22
-2009-02,Los Bunkers,73
-2009-02,Lucybell,97
-2009-02,Metallica,60
-2009-02,Muse,90
-2009-02,Pearl Jam,21
-2009-02,Radiohead,140
-2009-02,Silvio Rodríguez,68
-2009-02,Soda Stereo,166
-2009-02,The Killers,59
-2009-03,Andrés Calamaro,10
-2009-03,Bon Jovi,1
-2009-03,Britney Spears,9
-2009-03,Café Tacvba,1
-2009-03,De Saloon,11
-2009-03,Depeche Mode,53
-2009-03,Dream Theater,11
-2009-03,Fito Páez,19
-2009-03,Francisca Valenzuela,1
-2009-03,Gustavo Cerati,21
-2009-03,La Ley,9
-2009-03,Los Bunkers,21
-2009-03,Lucybell,20
-2009-03,Metallica,35
-2009-03,Muse,34
-2009-03,Pearl Jam,8
-2009-03,Radiohead,74
-2009-03,Silvio Rodríguez,92
-2009-03,Soda Stereo,44
-2009-03,The Killers,24
-2009-04,Andrés Calamaro,8
-2009-04,Bon Jovi,2
-2009-04,Britney Spears,7
-2009-04,Café Tacvba,3
-2009-04,De Saloon,4
-2009-04,Depeche Mode,15
-2009-04,Dream Theater,7
-2009-04,Fito Páez,5
-2009-04,Francisca Valenzuela,14
-2009-04,Gustavo Cerati,46
-2009-04,La Ley,2
-2009-04,Los Bunkers,5
-2009-04,Lucybell,13
-2009-04,Metallica,24
-2009-04,Muse,5
-2009-04,Pearl Jam,4
-2009-04,Radiohead,44
-2009-04,Silvio Rodríguez,48
-2009-04,Soda Stereo,123
-2009-04,The Killers,0
-2009-05,Andrés Calamaro,1
-2009-05,Bon Jovi,0
-2009-05,Britney Spears,8
-2009-05,Café Tacvba,2
-2009-05,De Saloon,3
-2009-05,Depeche Mode,38
-2009-05,Dream Theater,2
-2009-05,Fito Páez,1
-2009-05,Francisca Valenzuela,3
-2009-05,Gustavo Cerati,13
-2009-05,La Ley,4
-2009-05,Los Bunkers,5
-2009-05,Lucybell,22
-2009-05,Metallica,6
-2009-05,Muse,2
-2009-05,Pearl Jam,4
-2009-05,Radiohead,17
-2009-05,Silvio Rodríguez,80
-2009-05,Soda Stereo,28
-2009-05,The Killers,26
-2009-06,Andrés Calamaro,8
-2009-06,Bon Jovi,0
-2009-06,Britney Spears,8
-2009-06,Café Tacvba,1
-2009-06,De Saloon,3
-2009-06,Depeche Mode,17
-2009-06,Dream Theater,0
-2009-06,Fito Páez,8
-2009-06,Francisca Valenzuela,3
-2009-06,Gustavo Cerati,17
-2009-06,La Ley,2
-2009-06,Los Bunkers,6
-2009-06,Lucybell,9
-2009-06,Metallica,5
-2009-06,Muse,4
-2009-06,Pearl Jam,0
-2009-06,Radiohead,5
-2009-06,Silvio Rodríguez,22
-2009-06,Soda Stereo,16
-2009-06,The Killers,10
+"month","artist","plays"
+"2006-12","Andrés Calamaro",7
+"2006-12","Bon Jovi",9
+"2006-12","Britney Spears",0
+"2006-12","Café Tacvba",3
+"2006-12","De Saloon",56
+"2006-12","Depeche Mode",106
+"2006-12","Dream Theater",233
+"2006-12","Fito Páez",28
+"2006-12","Francisca Valenzuela",0
+"2006-12","Gustavo Cerati",243
+"2006-12","La Ley",0
+"2006-12","Los Bunkers",25
+"2006-12","Lucybell",94
+"2006-12","Metallica",95
+"2006-12","Muse",0
+"2006-12","Pearl Jam",22
+"2006-12","Radiohead",197
+"2006-12","Silvio Rodríguez",31
+"2006-12","Soda Stereo",215
+"2006-12","The Killers",94
+"2007-01","Andrés Calamaro",20
+"2007-01","Bon Jovi",18
+"2007-01","Britney Spears",0
+"2007-01","Café Tacvba",3
+"2007-01","De Saloon",68
+"2007-01","Depeche Mode",52
+"2007-01","Dream Theater",157
+"2007-01","Fito Páez",18
+"2007-01","Francisca Valenzuela",11
+"2007-01","Gustavo Cerati",162
+"2007-01","La Ley",0
+"2007-01","Los Bunkers",15
+"2007-01","Lucybell",43
+"2007-01","Metallica",75
+"2007-01","Muse",0
+"2007-01","Pearl Jam",11
+"2007-01","Radiohead",123
+"2007-01","Silvio Rodríguez",45
+"2007-01","Soda Stereo",149
+"2007-01","The Killers",68
+"2007-02","Andrés Calamaro",11
+"2007-02","Bon Jovi",6
+"2007-02","Britney Spears",0
+"2007-02","Café Tacvba",3
+"2007-02","De Saloon",67
+"2007-02","Depeche Mode",41
+"2007-02","Dream Theater",157
+"2007-02","Fito Páez",34
+"2007-02","Francisca Valenzuela",2
+"2007-02","Gustavo Cerati",179
+"2007-02","La Ley",0
+"2007-02","Los Bunkers",39
+"2007-02","Lucybell",42
+"2007-02","Metallica",81
+"2007-02","Muse",163
+"2007-02","Pearl Jam",53
+"2007-02","Radiohead",102
+"2007-02","Silvio Rodríguez",65
+"2007-02","Soda Stereo",203
+"2007-02","The Killers",50
+"2007-03","Andrés Calamaro",4
+"2007-03","Bon Jovi",8
+"2007-03","Britney Spears",0
+"2007-03","Café Tacvba",6
+"2007-03","De Saloon",30
+"2007-03","Depeche Mode",16
+"2007-03","Dream Theater",83
+"2007-03","Fito Páez",20
+"2007-03","Francisca Valenzuela",2
+"2007-03","Gustavo Cerati",190
+"2007-03","La Ley",0
+"2007-03","Los Bunkers",22
+"2007-03","Lucybell",17
+"2007-03","Metallica",16
+"2007-03","Muse",119
+"2007-03","Pearl Jam",51
+"2007-03","Radiohead",74
+"2007-03","Silvio Rodríguez",19
+"2007-03","Soda Stereo",228
+"2007-03","The Killers",41
+"2007-04","Andrés Calamaro",0
+"2007-04","Bon Jovi",1
+"2007-04","Britney Spears",0
+"2007-04","Café Tacvba",2
+"2007-04","De Saloon",10
+"2007-04","Depeche Mode",7
+"2007-04","Dream Theater",69
+"2007-04","Fito Páez",1
+"2007-04","Francisca Valenzuela",0
+"2007-04","Gustavo Cerati",155
+"2007-04","La Ley",3
+"2007-04","Los Bunkers",18
+"2007-04","Lucybell",13
+"2007-04","Metallica",6
+"2007-04","Muse",40
+"2007-04","Pearl Jam",32
+"2007-04","Radiohead",42
+"2007-04","Silvio Rodríguez",6
+"2007-04","Soda Stereo",139
+"2007-04","The Killers",23
+"2007-05","Andrés Calamaro",0
+"2007-05","Bon Jovi",0
+"2007-05","Britney Spears",0
+"2007-05","Café Tacvba",0
+"2007-05","De Saloon",8
+"2007-05","Depeche Mode",14
+"2007-05","Dream Theater",37
+"2007-05","Fito Páez",5
+"2007-05","Francisca Valenzuela",0
+"2007-05","Gustavo Cerati",112
+"2007-05","La Ley",5
+"2007-05","Los Bunkers",0
+"2007-05","Lucybell",32
+"2007-05","Metallica",17
+"2007-05","Muse",33
+"2007-05","Pearl Jam",9
+"2007-05","Radiohead",19
+"2007-05","Silvio Rodríguez",8
+"2007-05","Soda Stereo",141
+"2007-05","The Killers",25
+"2007-06","Andrés Calamaro",0
+"2007-06","Bon Jovi",0
+"2007-06","Britney Spears",0
+"2007-06","Café Tacvba",0
+"2007-06","De Saloon",0
+"2007-06","Depeche Mode",0
+"2007-06","Dream Theater",0
+"2007-06","Fito Páez",0
+"2007-06","Francisca Valenzuela",0
+"2007-06","Gustavo Cerati",0
+"2007-06","La Ley",0
+"2007-06","Los Bunkers",0
+"2007-06","Lucybell",0
+"2007-06","Metallica",0
+"2007-06","Muse",0
+"2007-06","Pearl Jam",0
+"2007-06","Radiohead",0
+"2007-06","Silvio Rodríguez",0
+"2007-06","Soda Stereo",0
+"2007-06","The Killers",0
+"2007-07","Andrés Calamaro",1
+"2007-07","Bon Jovi",0
+"2007-07","Britney Spears",0
+"2007-07","Café Tacvba",10
+"2007-07","De Saloon",17
+"2007-07","Depeche Mode",18
+"2007-07","Dream Theater",64
+"2007-07","Fito Páez",22
+"2007-07","Francisca Valenzuela",8
+"2007-07","Gustavo Cerati",199
+"2007-07","La Ley",5
+"2007-07","Los Bunkers",15
+"2007-07","Lucybell",19
+"2007-07","Metallica",14
+"2007-07","Muse",91
+"2007-07","Pearl Jam",17
+"2007-07","Radiohead",74
+"2007-07","Silvio Rodríguez",63
+"2007-07","Soda Stereo",223
+"2007-07","The Killers",63
+"2007-08","Andrés Calamaro",1
+"2007-08","Bon Jovi",0
+"2007-08","Britney Spears",3
+"2007-08","Café Tacvba",0
+"2007-08","De Saloon",3
+"2007-08","Depeche Mode",2
+"2007-08","Dream Theater",34
+"2007-08","Fito Páez",1
+"2007-08","Francisca Valenzuela",0
+"2007-08","Gustavo Cerati",36
+"2007-08","La Ley",3
+"2007-08","Los Bunkers",0
+"2007-08","Lucybell",14
+"2007-08","Metallica",1
+"2007-08","Muse",15
+"2007-08","Pearl Jam",0
+"2007-08","Radiohead",11
+"2007-08","Silvio Rodríguez",12
+"2007-08","Soda Stereo",77
+"2007-08","The Killers",8
+"2007-09","Andrés Calamaro",7
+"2007-09","Bon Jovi",9
+"2007-09","Britney Spears",18
+"2007-09","Café Tacvba",11
+"2007-09","De Saloon",20
+"2007-09","Depeche Mode",0
+"2007-09","Dream Theater",38
+"2007-09","Fito Páez",0
+"2007-09","Francisca Valenzuela",0
+"2007-09","Gustavo Cerati",113
+"2007-09","La Ley",2
+"2007-09","Los Bunkers",0
+"2007-09","Lucybell",177
+"2007-09","Metallica",4
+"2007-09","Muse",51
+"2007-09","Pearl Jam",2
+"2007-09","Radiohead",83
+"2007-09","Silvio Rodríguez",71
+"2007-09","Soda Stereo",111
+"2007-09","The Killers",16
+"2007-10","Andrés Calamaro",33
+"2007-10","Bon Jovi",9
+"2007-10","Britney Spears",11
+"2007-10","Café Tacvba",19
+"2007-10","De Saloon",32
+"2007-10","Depeche Mode",0
+"2007-10","Dream Theater",109
+"2007-10","Fito Páez",54
+"2007-10","Francisca Valenzuela",10
+"2007-10","Gustavo Cerati",99
+"2007-10","La Ley",76
+"2007-10","Los Bunkers",0
+"2007-10","Lucybell",134
+"2007-10","Metallica",13
+"2007-10","Muse",37
+"2007-10","Pearl Jam",7
+"2007-10","Radiohead",138
+"2007-10","Silvio Rodríguez",39
+"2007-10","Soda Stereo",148
+"2007-10","The Killers",6
+"2007-11","Andrés Calamaro",15
+"2007-11","Bon Jovi",5
+"2007-11","Britney Spears",25
+"2007-11","Café Tacvba",6
+"2007-11","De Saloon",33
+"2007-11","Depeche Mode",0
+"2007-11","Dream Theater",33
+"2007-11","Fito Páez",15
+"2007-11","Francisca Valenzuela",11
+"2007-11","Gustavo Cerati",60
+"2007-11","La Ley",2
+"2007-11","Los Bunkers",3
+"2007-11","Lucybell",84
+"2007-11","Metallica",5
+"2007-11","Muse",15
+"2007-11","Pearl Jam",4
+"2007-11","Radiohead",39
+"2007-11","Silvio Rodríguez",43
+"2007-11","Soda Stereo",181
+"2007-11","The Killers",59
+"2007-12","Andrés Calamaro",25
+"2007-12","Bon Jovi",10
+"2007-12","Britney Spears",13
+"2007-12","Café Tacvba",8
+"2007-12","De Saloon",31
+"2007-12","Depeche Mode",0
+"2007-12","Dream Theater",15
+"2007-12","Fito Páez",6
+"2007-12","Francisca Valenzuela",20
+"2007-12","Gustavo Cerati",62
+"2007-12","La Ley",9
+"2007-12","Los Bunkers",0
+"2007-12","Lucybell",110
+"2007-12","Metallica",17
+"2007-12","Muse",14
+"2007-12","Pearl Jam",0
+"2007-12","Radiohead",43
+"2007-12","Silvio Rodríguez",25
+"2007-12","Soda Stereo",58
+"2007-12","The Killers",32
+"2008-01","Andrés Calamaro",16
+"2008-01","Bon Jovi",9
+"2008-01","Britney Spears",23
+"2008-01","Café Tacvba",6
+"2008-01","De Saloon",45
+"2008-01","Depeche Mode",0
+"2008-01","Dream Theater",34
+"2008-01","Fito Páez",30
+"2008-01","Francisca Valenzuela",7
+"2008-01","Gustavo Cerati",352
+"2008-01","La Ley",58
+"2008-01","Los Bunkers",2
+"2008-01","Lucybell",174
+"2008-01","Metallica",12
+"2008-01","Muse",68
+"2008-01","Pearl Jam",3
+"2008-01","Radiohead",111
+"2008-01","Silvio Rodríguez",65
+"2008-01","Soda Stereo",222
+"2008-01","The Killers",32
+"2008-02","Andrés Calamaro",7
+"2008-02","Bon Jovi",9
+"2008-02","Britney Spears",22
+"2008-02","Café Tacvba",8
+"2008-02","De Saloon",50
+"2008-02","Depeche Mode",51
+"2008-02","Dream Theater",84
+"2008-02","Fito Páez",16
+"2008-02","Francisca Valenzuela",5
+"2008-02","Gustavo Cerati",214
+"2008-02","La Ley",27
+"2008-02","Los Bunkers",24
+"2008-02","Lucybell",180
+"2008-02","Metallica",59
+"2008-02","Muse",59
+"2008-02","Pearl Jam",24
+"2008-02","Radiohead",134
+"2008-02","Silvio Rodríguez",59
+"2008-02","Soda Stereo",243
+"2008-02","The Killers",76
+"2008-03","Andrés Calamaro",4
+"2008-03","Bon Jovi",9
+"2008-03","Britney Spears",10
+"2008-03","Café Tacvba",0
+"2008-03","De Saloon",21
+"2008-03","Depeche Mode",37
+"2008-03","Dream Theater",38
+"2008-03","Fito Páez",24
+"2008-03","Francisca Valenzuela",9
+"2008-03","Gustavo Cerati",161
+"2008-03","La Ley",2
+"2008-03","Los Bunkers",9
+"2008-03","Lucybell",101
+"2008-03","Metallica",57
+"2008-03","Muse",67
+"2008-03","Pearl Jam",80
+"2008-03","Radiohead",77
+"2008-03","Silvio Rodríguez",68
+"2008-03","Soda Stereo",150
+"2008-03","The Killers",26
+"2008-04","Andrés Calamaro",28
+"2008-04","Bon Jovi",7
+"2008-04","Britney Spears",7
+"2008-04","Café Tacvba",3
+"2008-04","De Saloon",24
+"2008-04","Depeche Mode",29
+"2008-04","Dream Theater",33
+"2008-04","Fito Páez",8
+"2008-04","Francisca Valenzuela",20
+"2008-04","Gustavo Cerati",79
+"2008-04","La Ley",14
+"2008-04","Los Bunkers",4
+"2008-04","Lucybell",80
+"2008-04","Metallica",36
+"2008-04","Muse",34
+"2008-04","Pearl Jam",14
+"2008-04","Radiohead",85
+"2008-04","Silvio Rodríguez",25
+"2008-04","Soda Stereo",155
+"2008-04","The Killers",23
+"2008-05","Andrés Calamaro",11
+"2008-05","Bon Jovi",16
+"2008-05","Britney Spears",17
+"2008-05","Café Tacvba",12
+"2008-05","De Saloon",16
+"2008-05","Depeche Mode",32
+"2008-05","Dream Theater",12
+"2008-05","Fito Páez",8
+"2008-05","Francisca Valenzuela",67
+"2008-05","Gustavo Cerati",96
+"2008-05","La Ley",4
+"2008-05","Los Bunkers",30
+"2008-05","Lucybell",99
+"2008-05","Metallica",18
+"2008-05","Muse",100
+"2008-05","Pearl Jam",6
+"2008-05","Radiohead",50
+"2008-05","Silvio Rodríguez",38
+"2008-05","Soda Stereo",92
+"2008-05","The Killers",20
+"2008-06","Andrés Calamaro",11
+"2008-06","Bon Jovi",10
+"2008-06","Britney Spears",10
+"2008-06","Café Tacvba",22
+"2008-06","De Saloon",7
+"2008-06","Depeche Mode",61
+"2008-06","Dream Theater",13
+"2008-06","Fito Páez",13
+"2008-06","Francisca Valenzuela",58
+"2008-06","Gustavo Cerati",255
+"2008-06","La Ley",7
+"2008-06","Los Bunkers",18
+"2008-06","Lucybell",187
+"2008-06","Metallica",17
+"2008-06","Muse",90
+"2008-06","Pearl Jam",21
+"2008-06","Radiohead",139
+"2008-06","Silvio Rodríguez",49
+"2008-06","Soda Stereo",237
+"2008-06","The Killers",26
+"2008-07","Andrés Calamaro",8
+"2008-07","Bon Jovi",12
+"2008-07","Britney Spears",20
+"2008-07","Café Tacvba",29
+"2008-07","De Saloon",32
+"2008-07","Depeche Mode",64
+"2008-07","Dream Theater",7
+"2008-07","Fito Páez",58
+"2008-07","Francisca Valenzuela",34
+"2008-07","Gustavo Cerati",245
+"2008-07","La Ley",4
+"2008-07","Los Bunkers",30
+"2008-07","Lucybell",84
+"2008-07","Metallica",43
+"2008-07","Muse",82
+"2008-07","Pearl Jam",0
+"2008-07","Radiohead",218
+"2008-07","Silvio Rodríguez",73
+"2008-07","Soda Stereo",255
+"2008-07","The Killers",24
+"2008-08","Andrés Calamaro",0
+"2008-08","Bon Jovi",5
+"2008-08","Britney Spears",6
+"2008-08","Café Tacvba",10
+"2008-08","De Saloon",26
+"2008-08","Depeche Mode",6
+"2008-08","Dream Theater",1
+"2008-08","Fito Páez",20
+"2008-08","Francisca Valenzuela",22
+"2008-08","Gustavo Cerati",193
+"2008-08","La Ley",1
+"2008-08","Los Bunkers",181
+"2008-08","Lucybell",74
+"2008-08","Metallica",8
+"2008-08","Muse",15
+"2008-08","Pearl Jam",1
+"2008-08","Radiohead",145
+"2008-08","Silvio Rodríguez",65
+"2008-08","Soda Stereo",71
+"2008-08","The Killers",11
+"2008-09","Andrés Calamaro",7
+"2008-09","Bon Jovi",3
+"2008-09","Britney Spears",9
+"2008-09","Café Tacvba",7
+"2008-09","De Saloon",16
+"2008-09","Depeche Mode",1
+"2008-09","Dream Theater",7
+"2008-09","Fito Páez",23
+"2008-09","Francisca Valenzuela",46
+"2008-09","Gustavo Cerati",97
+"2008-09","La Ley",1
+"2008-09","Los Bunkers",41
+"2008-09","Lucybell",11
+"2008-09","Metallica",70
+"2008-09","Muse",8
+"2008-09","Pearl Jam",2
+"2008-09","Radiohead",76
+"2008-09","Silvio Rodríguez",35
+"2008-09","Soda Stereo",173
+"2008-09","The Killers",9
+"2008-10","Andrés Calamaro",23
+"2008-10","Bon Jovi",0
+"2008-10","Britney Spears",13
+"2008-10","Café Tacvba",25
+"2008-10","De Saloon",13
+"2008-10","Depeche Mode",4
+"2008-10","Dream Theater",2
+"2008-10","Fito Páez",10
+"2008-10","Francisca Valenzuela",17
+"2008-10","Gustavo Cerati",34
+"2008-10","La Ley",1
+"2008-10","Los Bunkers",35
+"2008-10","Lucybell",16
+"2008-10","Metallica",26
+"2008-10","Muse",22
+"2008-10","Pearl Jam",7
+"2008-10","Radiohead",116
+"2008-10","Silvio Rodríguez",9
+"2008-10","Soda Stereo",44
+"2008-10","The Killers",9
+"2008-11","Andrés Calamaro",12
+"2008-11","Bon Jovi",0
+"2008-11","Britney Spears",24
+"2008-11","Café Tacvba",28
+"2008-11","De Saloon",24
+"2008-11","Depeche Mode",52
+"2008-11","Dream Theater",4
+"2008-11","Fito Páez",34
+"2008-11","Francisca Valenzuela",16
+"2008-11","Gustavo Cerati",118
+"2008-11","La Ley",0
+"2008-11","Los Bunkers",28
+"2008-11","Lucybell",27
+"2008-11","Metallica",32
+"2008-11","Muse",13
+"2008-11","Pearl Jam",1
+"2008-11","Radiohead",100
+"2008-11","Silvio Rodríguez",91
+"2008-11","Soda Stereo",4
+"2008-11","The Killers",11
+"2008-12","Andrés Calamaro",10
+"2008-12","Bon Jovi",0
+"2008-12","Britney Spears",13
+"2008-12","Café Tacvba",2
+"2008-12","De Saloon",9
+"2008-12","Depeche Mode",55
+"2008-12","Dream Theater",19
+"2008-12","Fito Páez",33
+"2008-12","Francisca Valenzuela",12
+"2008-12","Gustavo Cerati",136
+"2008-12","La Ley",0
+"2008-12","Los Bunkers",26
+"2008-12","Lucybell",38
+"2008-12","Metallica",6
+"2008-12","Muse",38
+"2008-12","Pearl Jam",3
+"2008-12","Radiohead",108
+"2008-12","Silvio Rodríguez",32
+"2008-12","Soda Stereo",36
+"2008-12","The Killers",22
+"2009-01","Andrés Calamaro",33
+"2009-01","Bon Jovi",1
+"2009-01","Britney Spears",23
+"2009-01","Café Tacvba",1
+"2009-01","De Saloon",2
+"2009-01","Depeche Mode",12
+"2009-01","Dream Theater",13
+"2009-01","Fito Páez",19
+"2009-01","Francisca Valenzuela",7
+"2009-01","Gustavo Cerati",75
+"2009-01","La Ley",3
+"2009-01","Los Bunkers",33
+"2009-01","Lucybell",42
+"2009-01","Metallica",44
+"2009-01","Muse",40
+"2009-01","Pearl Jam",6
+"2009-01","Radiohead",104
+"2009-01","Silvio Rodríguez",47
+"2009-01","Soda Stereo",96
+"2009-01","The Killers",29
+"2009-02","Andrés Calamaro",20
+"2009-02","Bon Jovi",4
+"2009-02","Britney Spears",17
+"2009-02","Café Tacvba",0
+"2009-02","De Saloon",26
+"2009-02","Depeche Mode",68
+"2009-02","Dream Theater",38
+"2009-02","Fito Páez",28
+"2009-02","Francisca Valenzuela",12
+"2009-02","Gustavo Cerati",82
+"2009-02","La Ley",22
+"2009-02","Los Bunkers",73
+"2009-02","Lucybell",97
+"2009-02","Metallica",60
+"2009-02","Muse",90
+"2009-02","Pearl Jam",21
+"2009-02","Radiohead",140
+"2009-02","Silvio Rodríguez",68
+"2009-02","Soda Stereo",166
+"2009-02","The Killers",59
+"2009-03","Andrés Calamaro",10
+"2009-03","Bon Jovi",1
+"2009-03","Britney Spears",9
+"2009-03","Café Tacvba",1
+"2009-03","De Saloon",11
+"2009-03","Depeche Mode",53
+"2009-03","Dream Theater",11
+"2009-03","Fito Páez",19
+"2009-03","Francisca Valenzuela",1
+"2009-03","Gustavo Cerati",21
+"2009-03","La Ley",9
+"2009-03","Los Bunkers",21
+"2009-03","Lucybell",20
+"2009-03","Metallica",35
+"2009-03","Muse",34
+"2009-03","Pearl Jam",8
+"2009-03","Radiohead",74
+"2009-03","Silvio Rodríguez",92
+"2009-03","Soda Stereo",44
+"2009-03","The Killers",24
+"2009-04","Andrés Calamaro",8
+"2009-04","Bon Jovi",2
+"2009-04","Britney Spears",7
+"2009-04","Café Tacvba",3
+"2009-04","De Saloon",4
+"2009-04","Depeche Mode",15
+"2009-04","Dream Theater",7
+"2009-04","Fito Páez",5
+"2009-04","Francisca Valenzuela",14
+"2009-04","Gustavo Cerati",46
+"2009-04","La Ley",2
+"2009-04","Los Bunkers",5
+"2009-04","Lucybell",13
+"2009-04","Metallica",24
+"2009-04","Muse",5
+"2009-04","Pearl Jam",4
+"2009-04","Radiohead",44
+"2009-04","Silvio Rodríguez",48
+"2009-04","Soda Stereo",123
+"2009-04","The Killers",0
+"2009-05","Andrés Calamaro",1
+"2009-05","Bon Jovi",0
+"2009-05","Britney Spears",8
+"2009-05","Café Tacvba",2
+"2009-05","De Saloon",3
+"2009-05","Depeche Mode",38
+"2009-05","Dream Theater",2
+"2009-05","Fito Páez",1
+"2009-05","Francisca Valenzuela",3
+"2009-05","Gustavo Cerati",13
+"2009-05","La Ley",4
+"2009-05","Los Bunkers",5
+"2009-05","Lucybell",22
+"2009-05","Metallica",6
+"2009-05","Muse",2
+"2009-05","Pearl Jam",4
+"2009-05","Radiohead",17
+"2009-05","Silvio Rodríguez",80
+"2009-05","Soda Stereo",28
+"2009-05","The Killers",26
+"2009-06","Andrés Calamaro",8
+"2009-06","Bon Jovi",0
+"2009-06","Britney Spears",8
+"2009-06","Café Tacvba",1
+"2009-06","De Saloon",3
+"2009-06","Depeche Mode",17
+"2009-06","Dream Theater",0
+"2009-06","Fito Páez",8
+"2009-06","Francisca Valenzuela",3
+"2009-06","Gustavo Cerati",17
+"2009-06","La Ley",2
+"2009-06","Los Bunkers",6
+"2009-06","Lucybell",9
+"2009-06","Metallica",5
+"2009-06","Muse",4
+"2009-06","Pearl Jam",0
+"2009-06","Radiohead",5
+"2009-06","Silvio Rodríguez",22
+"2009-06","Soda Stereo",16
+"2009-06","The Killers",10

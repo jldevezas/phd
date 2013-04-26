@@ -1,61 +1,61 @@
-month,artist,plays
-2005-02,Acceptance,0
-2005-02,Anberlin,23
-2005-02,Bond,0
-2005-02,Comeback Kid,0
-2005-02,Converge,7
-2005-02,Fly By Night,1
-2005-02,Hot Water Music,0
-2005-02,Journey,2
-2005-02,Lagwagon,0
-2005-02,Lorene Drive,2
-2005-02,Mae,0
-2005-02,Moments In Grace,0
-2005-02,Muse,9
-2005-02,None More Black,0
-2005-02,Pulley,0
-2005-02,Queen,17
-2005-02,Reggie And The Full Effect,13
-2005-02,Saves The Day,0
-2005-02,Shadows Fall,0
-2005-02,Staring Back,0
-2005-03,Acceptance,1
-2005-03,Anberlin,82
-2005-03,Bond,10
-2005-03,Comeback Kid,6
-2005-03,Converge,0
-2005-03,Fly By Night,14
-2005-03,Hot Water Music,1
-2005-03,Journey,6
-2005-03,Lagwagon,24
-2005-03,Lorene Drive,6
-2005-03,Mae,2
-2005-03,Moments In Grace,4
-2005-03,Muse,14
-2005-03,None More Black,3
-2005-03,Pulley,8
-2005-03,Queen,0
-2005-03,Reggie And The Full Effect,1
-2005-03,Saves The Day,1
-2005-03,Shadows Fall,1
-2005-03,Staring Back,3
-2005-04,Acceptance,9
-2005-04,Anberlin,25
-2005-04,Bond,1
-2005-04,Comeback Kid,19
-2005-04,Converge,1
-2005-04,Fly By Night,8
-2005-04,Hot Water Music,1
-2005-04,Journey,0
-2005-04,Lagwagon,4
-2005-04,Lorene Drive,0
-2005-04,Mae,47
-2005-04,Moments In Grace,1
-2005-04,Muse,0
-2005-04,None More Black,1
-2005-04,Pulley,10
-2005-04,Queen,2
-2005-04,Reggie And The Full Effect,0
-2005-04,Saves The Day,1
-2005-04,Shadows Fall,6
-2005-04,Staring Back,2
+"month","artist","plays"
+"2005-02","Acceptance",0
+"2005-02","Anberlin",23
+"2005-02","Bond",0
+"2005-02","Comeback Kid",0
+"2005-02","Converge",7
+"2005-02","Fly By Night",1
+"2005-02","Hot Water Music",0
+"2005-02","Journey",2
+"2005-02","Lagwagon",0
+"2005-02","Lorene Drive",2
+"2005-02","Mae",0
+"2005-02","Moments In Grace",0
+"2005-02","Muse",9
+"2005-02","None More Black",0
+"2005-02","Pulley",0
+"2005-02","Queen",17
+"2005-02","Reggie And The Full Effect",13
+"2005-02","Saves The Day",0
+"2005-02","Shadows Fall",0
+"2005-02","Staring Back",0
+"2005-03","Acceptance",1
+"2005-03","Anberlin",82
+"2005-03","Bond",10
+"2005-03","Comeback Kid",6
+"2005-03","Converge",0
+"2005-03","Fly By Night",14
+"2005-03","Hot Water Music",1
+"2005-03","Journey",6
+"2005-03","Lagwagon",24
+"2005-03","Lorene Drive",6
+"2005-03","Mae",2
+"2005-03","Moments In Grace",4
+"2005-03","Muse",14
+"2005-03","None More Black",3
+"2005-03","Pulley",8
+"2005-03","Queen",0
+"2005-03","Reggie And The Full Effect",1
+"2005-03","Saves The Day",1
+"2005-03","Shadows Fall",1
+"2005-03","Staring Back",3
+"2005-04","Acceptance",9
+"2005-04","Anberlin",25
+"2005-04","Bond",1
+"2005-04","Comeback Kid",19
+"2005-04","Converge",1
+"2005-04","Fly By Night",8
+"2005-04","Hot Water Music",1
+"2005-04","Journey",0
+"2005-04","Lagwagon",4
+"2005-04","Lorene Drive",0
+"2005-04","Mae",47
+"2005-04","Moments In Grace",1
+"2005-04","Muse",0
+"2005-04","None More Black",1
+"2005-04","Pulley",10
+"2005-04","Queen",2
+"2005-04","Reggie And The Full Effect",0
+"2005-04","Saves The Day",1
+"2005-04","Shadows Fall",6
+"2005-04","Staring Back",2

@@ -1,781 +1,781 @@
-month,artist,plays
-2006-02,Black Rebel Motorcycle Club,13
-2006-02,Dread Zeppelin,0
-2006-02,Kings Of Leon,11
-2006-02,Led Zeppelin,0
-2006-02,Led Zeppelin Jam,0
-2006-02,Lez Zeppelin,0
-2006-02,Oasis,11
-2006-02,Pearl Jam,0
-2006-02,Pink Floyd,2
-2006-02,Stereophonics,0
-2006-02,The Beatles,0
-2006-02,The Hives,0
-2006-02,The Killers,0
-2006-02,The Rolling Stones,0
-2006-02,The Smiths,0
-2006-02,The Stone Roses,11
-2006-02,The Verve,0
-2006-02,The White Stripes,0
-2006-02,The Who,0
-2006-02,Travis,0
-2006-03,Black Rebel Motorcycle Club,150
-2006-03,Dread Zeppelin,18
-2006-03,Kings Of Leon,27
-2006-03,Led Zeppelin,9
-2006-03,Led Zeppelin Jam,20
-2006-03,Lez Zeppelin,23
-2006-03,Oasis,204
-2006-03,Pearl Jam,0
-2006-03,Pink Floyd,101
-2006-03,Stereophonics,16
-2006-03,The Beatles,81
-2006-03,The Hives,28
-2006-03,The Killers,65
-2006-03,The Rolling Stones,34
-2006-03,The Smiths,34
-2006-03,The Stone Roses,77
-2006-03,The Verve,34
-2006-03,The White Stripes,32
-2006-03,The Who,26
-2006-03,Travis,23
-2006-04,Black Rebel Motorcycle Club,383
-2006-04,Dread Zeppelin,38
-2006-04,Kings Of Leon,57
-2006-04,Led Zeppelin,30
-2006-04,Led Zeppelin Jam,23
-2006-04,Lez Zeppelin,23
-2006-04,Oasis,151
-2006-04,Pearl Jam,10
-2006-04,Pink Floyd,79
-2006-04,Stereophonics,8
-2006-04,The Beatles,196
-2006-04,The Hives,15
-2006-04,The Killers,13
-2006-04,The Rolling Stones,23
-2006-04,The Smiths,28
-2006-04,The Stone Roses,104
-2006-04,The Verve,65
-2006-04,The White Stripes,24
-2006-04,The Who,107
-2006-04,Travis,35
-2006-05,Black Rebel Motorcycle Club,583
-2006-05,Dread Zeppelin,17
-2006-05,Kings Of Leon,17
-2006-05,Led Zeppelin,10
-2006-05,Led Zeppelin Jam,9
-2006-05,Lez Zeppelin,5
-2006-05,Oasis,26
-2006-05,Pearl Jam,37
-2006-05,Pink Floyd,57
-2006-05,Stereophonics,14
-2006-05,The Beatles,85
-2006-05,The Hives,3
-2006-05,The Killers,1
-2006-05,The Rolling Stones,42
-2006-05,The Smiths,11
-2006-05,The Stone Roses,15
-2006-05,The Verve,46
-2006-05,The White Stripes,43
-2006-05,The Who,40
-2006-05,Travis,30
-2006-06,Black Rebel Motorcycle Club,402
-2006-06,Dread Zeppelin,7
-2006-06,Kings Of Leon,2
-2006-06,Led Zeppelin,14
-2006-06,Led Zeppelin Jam,7
-2006-06,Lez Zeppelin,8
-2006-06,Oasis,23
-2006-06,Pearl Jam,44
-2006-06,Pink Floyd,60
-2006-06,Stereophonics,73
-2006-06,The Beatles,70
-2006-06,The Hives,1
-2006-06,The Killers,0
-2006-06,The Rolling Stones,37
-2006-06,The Smiths,34
-2006-06,The Stone Roses,2
-2006-06,The Verve,40
-2006-06,The White Stripes,35
-2006-06,The Who,34
-2006-06,Travis,9
-2006-07,Black Rebel Motorcycle Club,26
-2006-07,Dread Zeppelin,1
-2006-07,Kings Of Leon,0
-2006-07,Led Zeppelin,13
-2006-07,Led Zeppelin Jam,0
-2006-07,Lez Zeppelin,0
-2006-07,Oasis,37
-2006-07,Pearl Jam,0
-2006-07,Pink Floyd,36
-2006-07,Stereophonics,13
-2006-07,The Beatles,26
-2006-07,The Hives,2
-2006-07,The Killers,2
-2006-07,The Rolling Stones,10
-2006-07,The Smiths,17
-2006-07,The Stone Roses,16
-2006-07,The Verve,14
-2006-07,The White Stripes,14
-2006-07,The Who,1
-2006-07,Travis,13
-2006-08,Black Rebel Motorcycle Club,31
-2006-08,Dread Zeppelin,8
-2006-08,Kings Of Leon,0
-2006-08,Led Zeppelin,18
-2006-08,Led Zeppelin Jam,4
-2006-08,Lez Zeppelin,4
-2006-08,Oasis,54
-2006-08,Pearl Jam,2
-2006-08,Pink Floyd,64
-2006-08,Stereophonics,14
-2006-08,The Beatles,55
-2006-08,The Hives,4
-2006-08,The Killers,3
-2006-08,The Rolling Stones,1
-2006-08,The Smiths,0
-2006-08,The Stone Roses,5
-2006-08,The Verve,5
-2006-08,The White Stripes,4
-2006-08,The Who,14
-2006-08,Travis,1
-2006-09,Black Rebel Motorcycle Club,19
-2006-09,Dread Zeppelin,18
-2006-09,Kings Of Leon,1
-2006-09,Led Zeppelin,10
-2006-09,Led Zeppelin Jam,11
-2006-09,Lez Zeppelin,5
-2006-09,Oasis,20
-2006-09,Pearl Jam,24
-2006-09,Pink Floyd,104
-2006-09,Stereophonics,42
-2006-09,The Beatles,88
-2006-09,The Hives,34
-2006-09,The Killers,10
-2006-09,The Rolling Stones,29
-2006-09,The Smiths,23
-2006-09,The Stone Roses,0
-2006-09,The Verve,0
-2006-09,The White Stripes,34
-2006-09,The Who,13
-2006-09,Travis,13
-2006-10,Black Rebel Motorcycle Club,33
-2006-10,Dread Zeppelin,0
-2006-10,Kings Of Leon,18
-2006-10,Led Zeppelin,0
-2006-10,Led Zeppelin Jam,0
-2006-10,Lez Zeppelin,0
-2006-10,Oasis,13
-2006-10,Pearl Jam,13
-2006-10,Pink Floyd,39
-2006-10,Stereophonics,29
-2006-10,The Beatles,21
-2006-10,The Hives,39
-2006-10,The Killers,29
-2006-10,The Rolling Stones,35
-2006-10,The Smiths,15
-2006-10,The Stone Roses,23
-2006-10,The Verve,0
-2006-10,The White Stripes,8
-2006-10,The Who,81
-2006-10,Travis,20
-2006-11,Black Rebel Motorcycle Club,16
-2006-11,Dread Zeppelin,1
-2006-11,Kings Of Leon,12
-2006-11,Led Zeppelin,4
-2006-11,Led Zeppelin Jam,3
-2006-11,Lez Zeppelin,4
-2006-11,Oasis,37
-2006-11,Pearl Jam,13
-2006-11,Pink Floyd,37
-2006-11,Stereophonics,5
-2006-11,The Beatles,6
-2006-11,The Hives,1
-2006-11,The Killers,0
-2006-11,The Rolling Stones,1
-2006-11,The Smiths,10
-2006-11,The Stone Roses,26
-2006-11,The Verve,2
-2006-11,The White Stripes,1
-2006-11,The Who,25
-2006-11,Travis,1
-2006-12,Black Rebel Motorcycle Club,21
-2006-12,Dread Zeppelin,0
-2006-12,Kings Of Leon,1
-2006-12,Led Zeppelin,0
-2006-12,Led Zeppelin Jam,0
-2006-12,Lez Zeppelin,0
-2006-12,Oasis,52
-2006-12,Pearl Jam,0
-2006-12,Pink Floyd,43
-2006-12,Stereophonics,2
-2006-12,The Beatles,86
-2006-12,The Hives,0
-2006-12,The Killers,21
-2006-12,The Rolling Stones,1
-2006-12,The Smiths,24
-2006-12,The Stone Roses,25
-2006-12,The Verve,11
-2006-12,The White Stripes,9
-2006-12,The Who,11
-2006-12,Travis,1
-2007-01,Black Rebel Motorcycle Club,39
-2007-01,Dread Zeppelin,11
-2007-01,Kings Of Leon,8
-2007-01,Led Zeppelin,7
-2007-01,Led Zeppelin Jam,3
-2007-01,Lez Zeppelin,3
-2007-01,Oasis,35
-2007-01,Pearl Jam,11
-2007-01,Pink Floyd,38
-2007-01,Stereophonics,15
-2007-01,The Beatles,33
-2007-01,The Hives,3
-2007-01,The Killers,17
-2007-01,The Rolling Stones,5
-2007-01,The Smiths,6
-2007-01,The Stone Roses,7
-2007-01,The Verve,27
-2007-01,The White Stripes,4
-2007-01,The Who,36
-2007-01,Travis,11
-2007-02,Black Rebel Motorcycle Club,84
-2007-02,Dread Zeppelin,17
-2007-02,Kings Of Leon,14
-2007-02,Led Zeppelin,17
-2007-02,Led Zeppelin Jam,10
-2007-02,Lez Zeppelin,8
-2007-02,Oasis,61
-2007-02,Pearl Jam,0
-2007-02,Pink Floyd,114
-2007-02,Stereophonics,2
-2007-02,The Beatles,277
-2007-02,The Hives,2
-2007-02,The Killers,5
-2007-02,The Rolling Stones,2
-2007-02,The Smiths,5
-2007-02,The Stone Roses,4
-2007-02,The Verve,4
-2007-02,The White Stripes,19
-2007-02,The Who,3
-2007-02,Travis,1
-2007-03,Black Rebel Motorcycle Club,274
-2007-03,Dread Zeppelin,16
-2007-03,Kings Of Leon,3
-2007-03,Led Zeppelin,20
-2007-03,Led Zeppelin Jam,8
-2007-03,Lez Zeppelin,5
-2007-03,Oasis,25
-2007-03,Pearl Jam,0
-2007-03,Pink Floyd,148
-2007-03,Stereophonics,1
-2007-03,The Beatles,75
-2007-03,The Hives,13
-2007-03,The Killers,11
-2007-03,The Rolling Stones,10
-2007-03,The Smiths,16
-2007-03,The Stone Roses,12
-2007-03,The Verve,1
-2007-03,The White Stripes,0
-2007-03,The Who,22
-2007-03,Travis,1
-2007-04,Black Rebel Motorcycle Club,86
-2007-04,Dread Zeppelin,25
-2007-04,Kings Of Leon,23
-2007-04,Led Zeppelin,25
-2007-04,Led Zeppelin Jam,17
-2007-04,Lez Zeppelin,11
-2007-04,Oasis,64
-2007-04,Pearl Jam,3
-2007-04,Pink Floyd,115
-2007-04,Stereophonics,15
-2007-04,The Beatles,54
-2007-04,The Hives,2
-2007-04,The Killers,5
-2007-04,The Rolling Stones,4
-2007-04,The Smiths,19
-2007-04,The Stone Roses,41
-2007-04,The Verve,15
-2007-04,The White Stripes,3
-2007-04,The Who,5
-2007-04,Travis,23
-2007-05,Black Rebel Motorcycle Club,44
-2007-05,Dread Zeppelin,25
-2007-05,Kings Of Leon,17
-2007-05,Led Zeppelin,15
-2007-05,Led Zeppelin Jam,8
-2007-05,Lez Zeppelin,7
-2007-05,Oasis,37
-2007-05,Pearl Jam,15
-2007-05,Pink Floyd,39
-2007-05,Stereophonics,6
-2007-05,The Beatles,70
-2007-05,The Hives,2
-2007-05,The Killers,5
-2007-05,The Rolling Stones,17
-2007-05,The Smiths,31
-2007-05,The Stone Roses,9
-2007-05,The Verve,7
-2007-05,The White Stripes,3
-2007-05,The Who,44
-2007-05,Travis,5
-2007-06,Black Rebel Motorcycle Club,25
-2007-06,Dread Zeppelin,22
-2007-06,Kings Of Leon,4
-2007-06,Led Zeppelin,9
-2007-06,Led Zeppelin Jam,13
-2007-06,Lez Zeppelin,9
-2007-06,Oasis,18
-2007-06,Pearl Jam,15
-2007-06,Pink Floyd,57
-2007-06,Stereophonics,5
-2007-06,The Beatles,35
-2007-06,The Hives,1
-2007-06,The Killers,3
-2007-06,The Rolling Stones,29
-2007-06,The Smiths,7
-2007-06,The Stone Roses,26
-2007-06,The Verve,7
-2007-06,The White Stripes,27
-2007-06,The Who,5
-2007-06,Travis,3
-2007-07,Black Rebel Motorcycle Club,34
-2007-07,Dread Zeppelin,32
-2007-07,Kings Of Leon,17
-2007-07,Led Zeppelin,24
-2007-07,Led Zeppelin Jam,21
-2007-07,Lez Zeppelin,12
-2007-07,Oasis,58
-2007-07,Pearl Jam,14
-2007-07,Pink Floyd,86
-2007-07,Stereophonics,14
-2007-07,The Beatles,53
-2007-07,The Hives,2
-2007-07,The Killers,1
-2007-07,The Rolling Stones,47
-2007-07,The Smiths,15
-2007-07,The Stone Roses,22
-2007-07,The Verve,3
-2007-07,The White Stripes,16
-2007-07,The Who,44
-2007-07,Travis,2
-2007-08,Black Rebel Motorcycle Club,37
-2007-08,Dread Zeppelin,11
-2007-08,Kings Of Leon,4
-2007-08,Led Zeppelin,16
-2007-08,Led Zeppelin Jam,14
-2007-08,Lez Zeppelin,13
-2007-08,Oasis,45
-2007-08,Pearl Jam,22
-2007-08,Pink Floyd,71
-2007-08,Stereophonics,12
-2007-08,The Beatles,54
-2007-08,The Hives,0
-2007-08,The Killers,25
-2007-08,The Rolling Stones,22
-2007-08,The Smiths,41
-2007-08,The Stone Roses,64
-2007-08,The Verve,18
-2007-08,The White Stripes,16
-2007-08,The Who,37
-2007-08,Travis,2
-2007-09,Black Rebel Motorcycle Club,87
-2007-09,Dread Zeppelin,51
-2007-09,Kings Of Leon,13
-2007-09,Led Zeppelin,44
-2007-09,Led Zeppelin Jam,31
-2007-09,Lez Zeppelin,20
-2007-09,Oasis,96
-2007-09,Pearl Jam,2
-2007-09,Pink Floyd,105
-2007-09,Stereophonics,25
-2007-09,The Beatles,80
-2007-09,The Hives,13
-2007-09,The Killers,28
-2007-09,The Rolling Stones,35
-2007-09,The Smiths,33
-2007-09,The Stone Roses,36
-2007-09,The Verve,22
-2007-09,The White Stripes,29
-2007-09,The Who,59
-2007-09,Travis,1
-2007-10,Black Rebel Motorcycle Club,18
-2007-10,Dread Zeppelin,34
-2007-10,Kings Of Leon,15
-2007-10,Led Zeppelin,32
-2007-10,Led Zeppelin Jam,17
-2007-10,Lez Zeppelin,11
-2007-10,Oasis,65
-2007-10,Pearl Jam,2
-2007-10,Pink Floyd,81
-2007-10,Stereophonics,17
-2007-10,The Beatles,88
-2007-10,The Hives,35
-2007-10,The Killers,10
-2007-10,The Rolling Stones,21
-2007-10,The Smiths,31
-2007-10,The Stone Roses,25
-2007-10,The Verve,31
-2007-10,The White Stripes,16
-2007-10,The Who,5
-2007-10,Travis,3
-2007-11,Black Rebel Motorcycle Club,31
-2007-11,Dread Zeppelin,12
-2007-11,Kings Of Leon,15
-2007-11,Led Zeppelin,20
-2007-11,Led Zeppelin Jam,13
-2007-11,Lez Zeppelin,7
-2007-11,Oasis,77
-2007-11,Pearl Jam,13
-2007-11,Pink Floyd,131
-2007-11,Stereophonics,87
-2007-11,The Beatles,107
-2007-11,The Hives,14
-2007-11,The Killers,50
-2007-11,The Rolling Stones,51
-2007-11,The Smiths,47
-2007-11,The Stone Roses,33
-2007-11,The Verve,28
-2007-11,The White Stripes,3
-2007-11,The Who,3
-2007-11,Travis,3
-2007-12,Black Rebel Motorcycle Club,24
-2007-12,Dread Zeppelin,15
-2007-12,Kings Of Leon,15
-2007-12,Led Zeppelin,17
-2007-12,Led Zeppelin Jam,9
-2007-12,Lez Zeppelin,7
-2007-12,Oasis,60
-2007-12,Pearl Jam,12
-2007-12,Pink Floyd,35
-2007-12,Stereophonics,3
-2007-12,The Beatles,23
-2007-12,The Hives,2
-2007-12,The Killers,59
-2007-12,The Rolling Stones,24
-2007-12,The Smiths,44
-2007-12,The Stone Roses,90
-2007-12,The Verve,16
-2007-12,The White Stripes,3
-2007-12,The Who,0
-2007-12,Travis,2
-2008-01,Black Rebel Motorcycle Club,21
-2008-01,Dread Zeppelin,8
-2008-01,Kings Of Leon,22
-2008-01,Led Zeppelin,13
-2008-01,Led Zeppelin Jam,7
-2008-01,Lez Zeppelin,2
-2008-01,Oasis,58
-2008-01,Pearl Jam,12
-2008-01,Pink Floyd,41
-2008-01,Stereophonics,15
-2008-01,The Beatles,77
-2008-01,The Hives,5
-2008-01,The Killers,75
-2008-01,The Rolling Stones,7
-2008-01,The Smiths,25
-2008-01,The Stone Roses,38
-2008-01,The Verve,3
-2008-01,The White Stripes,5
-2008-01,The Who,1
-2008-01,Travis,1
-2008-02,Black Rebel Motorcycle Club,56
-2008-02,Dread Zeppelin,6
-2008-02,Kings Of Leon,3
-2008-02,Led Zeppelin,10
-2008-02,Led Zeppelin Jam,5
-2008-02,Lez Zeppelin,5
-2008-02,Oasis,102
-2008-02,Pearl Jam,3
-2008-02,Pink Floyd,77
-2008-02,Stereophonics,8
-2008-02,The Beatles,82
-2008-02,The Hives,2
-2008-02,The Killers,4
-2008-02,The Rolling Stones,8
-2008-02,The Smiths,27
-2008-02,The Stone Roses,44
-2008-02,The Verve,12
-2008-02,The White Stripes,14
-2008-02,The Who,1
-2008-02,Travis,23
-2008-03,Black Rebel Motorcycle Club,59
-2008-03,Dread Zeppelin,20
-2008-03,Kings Of Leon,15
-2008-03,Led Zeppelin,23
-2008-03,Led Zeppelin Jam,10
-2008-03,Lez Zeppelin,7
-2008-03,Oasis,102
-2008-03,Pearl Jam,1
-2008-03,Pink Floyd,122
-2008-03,Stereophonics,3
-2008-03,The Beatles,174
-2008-03,The Hives,29
-2008-03,The Killers,3
-2008-03,The Rolling Stones,35
-2008-03,The Smiths,20
-2008-03,The Stone Roses,7
-2008-03,The Verve,27
-2008-03,The White Stripes,17
-2008-03,The Who,2
-2008-03,Travis,3
-2008-04,Black Rebel Motorcycle Club,62
-2008-04,Dread Zeppelin,20
-2008-04,Kings Of Leon,1
-2008-04,Led Zeppelin,12
-2008-04,Led Zeppelin Jam,13
-2008-04,Lez Zeppelin,8
-2008-04,Oasis,55
-2008-04,Pearl Jam,2
-2008-04,Pink Floyd,74
-2008-04,Stereophonics,16
-2008-04,The Beatles,70
-2008-04,The Hives,2
-2008-04,The Killers,37
-2008-04,The Rolling Stones,33
-2008-04,The Smiths,32
-2008-04,The Stone Roses,5
-2008-04,The Verve,17
-2008-04,The White Stripes,14
-2008-04,The Who,4
-2008-04,Travis,4
-2008-05,Black Rebel Motorcycle Club,113
-2008-05,Dread Zeppelin,27
-2008-05,Kings Of Leon,3
-2008-05,Led Zeppelin,29
-2008-05,Led Zeppelin Jam,19
-2008-05,Lez Zeppelin,14
-2008-05,Oasis,91
-2008-05,Pearl Jam,4
-2008-05,Pink Floyd,113
-2008-05,Stereophonics,2
-2008-05,The Beatles,193
-2008-05,The Hives,7
-2008-05,The Killers,38
-2008-05,The Rolling Stones,49
-2008-05,The Smiths,117
-2008-05,The Stone Roses,35
-2008-05,The Verve,25
-2008-05,The White Stripes,3
-2008-05,The Who,28
-2008-05,Travis,3
-2008-06,Black Rebel Motorcycle Club,19
-2008-06,Dread Zeppelin,29
-2008-06,Kings Of Leon,3
-2008-06,Led Zeppelin,24
-2008-06,Led Zeppelin Jam,15
-2008-06,Lez Zeppelin,7
-2008-06,Oasis,40
-2008-06,Pearl Jam,1
-2008-06,Pink Floyd,69
-2008-06,Stereophonics,5
-2008-06,The Beatles,117
-2008-06,The Hives,4
-2008-06,The Killers,4
-2008-06,The Rolling Stones,43
-2008-06,The Smiths,178
-2008-06,The Stone Roses,7
-2008-06,The Verve,18
-2008-06,The White Stripes,18
-2008-06,The Who,17
-2008-06,Travis,0
-2008-07,Black Rebel Motorcycle Club,28
-2008-07,Dread Zeppelin,16
-2008-07,Kings Of Leon,14
-2008-07,Led Zeppelin,9
-2008-07,Led Zeppelin Jam,11
-2008-07,Lez Zeppelin,7
-2008-07,Oasis,61
-2008-07,Pearl Jam,1
-2008-07,Pink Floyd,87
-2008-07,Stereophonics,1
-2008-07,The Beatles,105
-2008-07,The Hives,16
-2008-07,The Killers,23
-2008-07,The Rolling Stones,40
-2008-07,The Smiths,83
-2008-07,The Stone Roses,33
-2008-07,The Verve,44
-2008-07,The White Stripes,15
-2008-07,The Who,69
-2008-07,Travis,0
-2008-08,Black Rebel Motorcycle Club,24
-2008-08,Dread Zeppelin,0
-2008-08,Kings Of Leon,0
-2008-08,Led Zeppelin,1
-2008-08,Led Zeppelin Jam,0
-2008-08,Lez Zeppelin,0
-2008-08,Oasis,49
-2008-08,Pearl Jam,17
-2008-08,Pink Floyd,35
-2008-08,Stereophonics,1
-2008-08,The Beatles,74
-2008-08,The Hives,14
-2008-08,The Killers,18
-2008-08,The Rolling Stones,30
-2008-08,The Smiths,22
-2008-08,The Stone Roses,18
-2008-08,The Verve,40
-2008-08,The White Stripes,21
-2008-08,The Who,24
-2008-08,Travis,1
-2008-09,Black Rebel Motorcycle Club,53
-2008-09,Dread Zeppelin,38
-2008-09,Kings Of Leon,38
-2008-09,Led Zeppelin,97
-2008-09,Led Zeppelin Jam,8
-2008-09,Lez Zeppelin,15
-2008-09,Oasis,119
-2008-09,Pearl Jam,105
-2008-09,Pink Floyd,60
-2008-09,Stereophonics,12
-2008-09,The Beatles,122
-2008-09,The Hives,36
-2008-09,The Killers,27
-2008-09,The Rolling Stones,475
-2008-09,The Smiths,37
-2008-09,The Stone Roses,105
-2008-09,The Verve,27
-2008-09,The White Stripes,5
-2008-09,The Who,348
-2008-09,Travis,0
-2008-10,Black Rebel Motorcycle Club,153
-2008-10,Dread Zeppelin,10
-2008-10,Kings Of Leon,26
-2008-10,Led Zeppelin,21
-2008-10,Led Zeppelin Jam,3
-2008-10,Lez Zeppelin,3
-2008-10,Oasis,211
-2008-10,Pearl Jam,26
-2008-10,Pink Floyd,5
-2008-10,Stereophonics,0
-2008-10,The Beatles,9
-2008-10,The Hives,0
-2008-10,The Killers,6
-2008-10,The Rolling Stones,35
-2008-10,The Smiths,26
-2008-10,The Stone Roses,28
-2008-10,The Verve,14
-2008-10,The White Stripes,0
-2008-10,The Who,35
-2008-10,Travis,12
-2008-11,Black Rebel Motorcycle Club,73
-2008-11,Dread Zeppelin,7
-2008-11,Kings Of Leon,13
-2008-11,Led Zeppelin,30
-2008-11,Led Zeppelin Jam,1
-2008-11,Lez Zeppelin,4
-2008-11,Oasis,155
-2008-11,Pearl Jam,14
-2008-11,Pink Floyd,32
-2008-11,Stereophonics,0
-2008-11,The Beatles,46
-2008-11,The Hives,1
-2008-11,The Killers,64
-2008-11,The Rolling Stones,69
-2008-11,The Smiths,10
-2008-11,The Stone Roses,16
-2008-11,The Verve,41
-2008-11,The White Stripes,0
-2008-11,The Who,62
-2008-11,Travis,32
-2008-12,Black Rebel Motorcycle Club,40
-2008-12,Dread Zeppelin,23
-2008-12,Kings Of Leon,2
-2008-12,Led Zeppelin,66
-2008-12,Led Zeppelin Jam,2
-2008-12,Lez Zeppelin,6
-2008-12,Oasis,246
-2008-12,Pearl Jam,5
-2008-12,Pink Floyd,45
-2008-12,Stereophonics,0
-2008-12,The Beatles,148
-2008-12,The Hives,3
-2008-12,The Killers,4
-2008-12,The Rolling Stones,93
-2008-12,The Smiths,13
-2008-12,The Stone Roses,41
-2008-12,The Verve,80
-2008-12,The White Stripes,2
-2008-12,The Who,78
-2008-12,Travis,0
-2009-01,Black Rebel Motorcycle Club,24
-2009-01,Dread Zeppelin,8
-2009-01,Kings Of Leon,13
-2009-01,Led Zeppelin,47
-2009-01,Led Zeppelin Jam,5
-2009-01,Lez Zeppelin,2
-2009-01,Oasis,126
-2009-01,Pearl Jam,18
-2009-01,Pink Floyd,12
-2009-01,Stereophonics,0
-2009-01,The Beatles,39
-2009-01,The Hives,3
-2009-01,The Killers,26
-2009-01,The Rolling Stones,113
-2009-01,The Smiths,32
-2009-01,The Stone Roses,5
-2009-01,The Verve,21
-2009-01,The White Stripes,1
-2009-01,The Who,36
-2009-01,Travis,0
-2009-02,Black Rebel Motorcycle Club,43
-2009-02,Dread Zeppelin,4
-2009-02,Kings Of Leon,1
-2009-02,Led Zeppelin,19
-2009-02,Led Zeppelin Jam,4
-2009-02,Lez Zeppelin,2
-2009-02,Oasis,93
-2009-02,Pearl Jam,20
-2009-02,Pink Floyd,99
-2009-02,Stereophonics,2
-2009-02,The Beatles,140
-2009-02,The Hives,2
-2009-02,The Killers,45
-2009-02,The Rolling Stones,50
-2009-02,The Smiths,28
-2009-02,The Stone Roses,18
-2009-02,The Verve,29
-2009-02,The White Stripes,0
-2009-02,The Who,96
-2009-02,Travis,24
-2009-03,Black Rebel Motorcycle Club,39
-2009-03,Dread Zeppelin,21
-2009-03,Kings Of Leon,1
-2009-03,Led Zeppelin,87
-2009-03,Led Zeppelin Jam,12
-2009-03,Lez Zeppelin,11
-2009-03,Oasis,218
-2009-03,Pearl Jam,7
-2009-03,Pink Floyd,56
-2009-03,Stereophonics,1
-2009-03,The Beatles,90
-2009-03,The Hives,3
-2009-03,The Killers,30
-2009-03,The Rolling Stones,59
-2009-03,The Smiths,71
-2009-03,The Stone Roses,31
-2009-03,The Verve,20
-2009-03,The White Stripes,1
-2009-03,The Who,68
-2009-03,Travis,12
-2009-04,Black Rebel Motorcycle Club,81
-2009-04,Dread Zeppelin,2
-2009-04,Kings Of Leon,13
-2009-04,Led Zeppelin,18
-2009-04,Led Zeppelin Jam,0
-2009-04,Lez Zeppelin,1
-2009-04,Oasis,215
-2009-04,Pearl Jam,4
-2009-04,Pink Floyd,15
-2009-04,Stereophonics,0
-2009-04,The Beatles,66
-2009-04,The Hives,1
-2009-04,The Killers,6
-2009-04,The Rolling Stones,58
-2009-04,The Smiths,44
-2009-04,The Stone Roses,30
-2009-04,The Verve,4
-2009-04,The White Stripes,1
-2009-04,The Who,60
-2009-04,Travis,20
+"month","artist","plays"
+"2006-02","Black Rebel Motorcycle Club",13
+"2006-02","Dread Zeppelin",0
+"2006-02","Kings Of Leon",11
+"2006-02","Led Zeppelin",0
+"2006-02","Led Zeppelin Jam",0
+"2006-02","Lez Zeppelin",0
+"2006-02","Oasis",11
+"2006-02","Pearl Jam",0
+"2006-02","Pink Floyd",2
+"2006-02","Stereophonics",0
+"2006-02","The Beatles",0
+"2006-02","The Hives",0
+"2006-02","The Killers",0
+"2006-02","The Rolling Stones",0
+"2006-02","The Smiths",0
+"2006-02","The Stone Roses",11
+"2006-02","The Verve",0
+"2006-02","The White Stripes",0
+"2006-02","The Who",0
+"2006-02","Travis",0
+"2006-03","Black Rebel Motorcycle Club",150
+"2006-03","Dread Zeppelin",18
+"2006-03","Kings Of Leon",27
+"2006-03","Led Zeppelin",9
+"2006-03","Led Zeppelin Jam",20
+"2006-03","Lez Zeppelin",23
+"2006-03","Oasis",204
+"2006-03","Pearl Jam",0
+"2006-03","Pink Floyd",101
+"2006-03","Stereophonics",16
+"2006-03","The Beatles",81
+"2006-03","The Hives",28
+"2006-03","The Killers",65
+"2006-03","The Rolling Stones",34
+"2006-03","The Smiths",34
+"2006-03","The Stone Roses",77
+"2006-03","The Verve",34
+"2006-03","The White Stripes",32
+"2006-03","The Who",26
+"2006-03","Travis",23
+"2006-04","Black Rebel Motorcycle Club",383
+"2006-04","Dread Zeppelin",38
+"2006-04","Kings Of Leon",57
+"2006-04","Led Zeppelin",30
+"2006-04","Led Zeppelin Jam",23
+"2006-04","Lez Zeppelin",23
+"2006-04","Oasis",151
+"2006-04","Pearl Jam",10
+"2006-04","Pink Floyd",79
+"2006-04","Stereophonics",8
+"2006-04","The Beatles",196
+"2006-04","The Hives",15
+"2006-04","The Killers",13
+"2006-04","The Rolling Stones",23
+"2006-04","The Smiths",28
+"2006-04","The Stone Roses",104
+"2006-04","The Verve",65
+"2006-04","The White Stripes",24
+"2006-04","The Who",107
+"2006-04","Travis",35
+"2006-05","Black Rebel Motorcycle Club",583
+"2006-05","Dread Zeppelin",17
+"2006-05","Kings Of Leon",17
+"2006-05","Led Zeppelin",10
+"2006-05","Led Zeppelin Jam",9
+"2006-05","Lez Zeppelin",5
+"2006-05","Oasis",26
+"2006-05","Pearl Jam",37
+"2006-05","Pink Floyd",57
+"2006-05","Stereophonics",14
+"2006-05","The Beatles",85
+"2006-05","The Hives",3
+"2006-05","The Killers",1
+"2006-05","The Rolling Stones",42
+"2006-05","The Smiths",11
+"2006-05","The Stone Roses",15
+"2006-05","The Verve",46
+"2006-05","The White Stripes",43
+"2006-05","The Who",40
+"2006-05","Travis",30
+"2006-06","Black Rebel Motorcycle Club",402
+"2006-06","Dread Zeppelin",7
+"2006-06","Kings Of Leon",2
+"2006-06","Led Zeppelin",14
+"2006-06","Led Zeppelin Jam",7
+"2006-06","Lez Zeppelin",8
+"2006-06","Oasis",23
+"2006-06","Pearl Jam",44
+"2006-06","Pink Floyd",60
+"2006-06","Stereophonics",73
+"2006-06","The Beatles",70
+"2006-06","The Hives",1
+"2006-06","The Killers",0
+"2006-06","The Rolling Stones",37
+"2006-06","The Smiths",34
+"2006-06","The Stone Roses",2
+"2006-06","The Verve",40
+"2006-06","The White Stripes",35
+"2006-06","The Who",34
+"2006-06","Travis",9
+"2006-07","Black Rebel Motorcycle Club",26
+"2006-07","Dread Zeppelin",1
+"2006-07","Kings Of Leon",0
+"2006-07","Led Zeppelin",13
+"2006-07","Led Zeppelin Jam",0
+"2006-07","Lez Zeppelin",0
+"2006-07","Oasis",37
+"2006-07","Pearl Jam",0
+"2006-07","Pink Floyd",36
+"2006-07","Stereophonics",13
+"2006-07","The Beatles",26
+"2006-07","The Hives",2
+"2006-07","The Killers",2
+"2006-07","The Rolling Stones",10
+"2006-07","The Smiths",17
+"2006-07","The Stone Roses",16
+"2006-07","The Verve",14
+"2006-07","The White Stripes",14
+"2006-07","The Who",1
+"2006-07","Travis",13
+"2006-08","Black Rebel Motorcycle Club",31
+"2006-08","Dread Zeppelin",8
+"2006-08","Kings Of Leon",0
+"2006-08","Led Zeppelin",18
+"2006-08","Led Zeppelin Jam",4
+"2006-08","Lez Zeppelin",4
+"2006-08","Oasis",54
+"2006-08","Pearl Jam",2
+"2006-08","Pink Floyd",64
+"2006-08","Stereophonics",14
+"2006-08","The Beatles",55
+"2006-08","The Hives",4
+"2006-08","The Killers",3
+"2006-08","The Rolling Stones",1
+"2006-08","The Smiths",0
+"2006-08","The Stone Roses",5
+"2006-08","The Verve",5
+"2006-08","The White Stripes",4
+"2006-08","The Who",14
+"2006-08","Travis",1
+"2006-09","Black Rebel Motorcycle Club",19
+"2006-09","Dread Zeppelin",18
+"2006-09","Kings Of Leon",1
+"2006-09","Led Zeppelin",10
+"2006-09","Led Zeppelin Jam",11
+"2006-09","Lez Zeppelin",5
+"2006-09","Oasis",20
+"2006-09","Pearl Jam",24
+"2006-09","Pink Floyd",104
+"2006-09","Stereophonics",42
+"2006-09","The Beatles",88
+"2006-09","The Hives",34
+"2006-09","The Killers",10
+"2006-09","The Rolling Stones",29
+"2006-09","The Smiths",23
+"2006-09","The Stone Roses",0
+"2006-09","The Verve",0
+"2006-09","The White Stripes",34
+"2006-09","The Who",13
+"2006-09","Travis",13
+"2006-10","Black Rebel Motorcycle Club",33
+"2006-10","Dread Zeppelin",0
+"2006-10","Kings Of Leon",18
+"2006-10","Led Zeppelin",0
+"2006-10","Led Zeppelin Jam",0
+"2006-10","Lez Zeppelin",0
+"2006-10","Oasis",13
+"2006-10","Pearl Jam",13
+"2006-10","Pink Floyd",39
+"2006-10","Stereophonics",29
+"2006-10","The Beatles",21
+"2006-10","The Hives",39
+"2006-10","The Killers",29
+"2006-10","The Rolling Stones",35
+"2006-10","The Smiths",15
+"2006-10","The Stone Roses",23
+"2006-10","The Verve",0
+"2006-10","The White Stripes",8
+"2006-10","The Who",81
+"2006-10","Travis",20
+"2006-11","Black Rebel Motorcycle Club",16
+"2006-11","Dread Zeppelin",1
+"2006-11","Kings Of Leon",12
+"2006-11","Led Zeppelin",4
+"2006-11","Led Zeppelin Jam",3
+"2006-11","Lez Zeppelin",4
+"2006-11","Oasis",37
+"2006-11","Pearl Jam",13
+"2006-11","Pink Floyd",37
+"2006-11","Stereophonics",5
+"2006-11","The Beatles",6
+"2006-11","The Hives",1
+"2006-11","The Killers",0
+"2006-11","The Rolling Stones",1
+"2006-11","The Smiths",10
+"2006-11","The Stone Roses",26
+"2006-11","The Verve",2
+"2006-11","The White Stripes",1
+"2006-11","The Who",25
+"2006-11","Travis",1
+"2006-12","Black Rebel Motorcycle Club",21
+"2006-12","Dread Zeppelin",0
+"2006-12","Kings Of Leon",1
+"2006-12","Led Zeppelin",0
+"2006-12","Led Zeppelin Jam",0
+"2006-12","Lez Zeppelin",0
+"2006-12","Oasis",52
+"2006-12","Pearl Jam",0
+"2006-12","Pink Floyd",43
+"2006-12","Stereophonics",2
+"2006-12","The Beatles",86
+"2006-12","The Hives",0
+"2006-12","The Killers",21
+"2006-12","The Rolling Stones",1
+"2006-12","The Smiths",24
+"2006-12","The Stone Roses",25
+"2006-12","The Verve",11
+"2006-12","The White Stripes",9
+"2006-12","The Who",11
+"2006-12","Travis",1
+"2007-01","Black Rebel Motorcycle Club",39
+"2007-01","Dread Zeppelin",11
+"2007-01","Kings Of Leon",8
+"2007-01","Led Zeppelin",7
+"2007-01","Led Zeppelin Jam",3
+"2007-01","Lez Zeppelin",3
+"2007-01","Oasis",35
+"2007-01","Pearl Jam",11
+"2007-01","Pink Floyd",38
+"2007-01","Stereophonics",15
+"2007-01","The Beatles",33
+"2007-01","The Hives",3
+"2007-01","The Killers",17
+"2007-01","The Rolling Stones",5
+"2007-01","The Smiths",6
+"2007-01","The Stone Roses",7
+"2007-01","The Verve",27
+"2007-01","The White Stripes",4
+"2007-01","The Who",36
+"2007-01","Travis",11
+"2007-02","Black Rebel Motorcycle Club",84
+"2007-02","Dread Zeppelin",17
+"2007-02","Kings Of Leon",14
+"2007-02","Led Zeppelin",17
+"2007-02","Led Zeppelin Jam",10
+"2007-02","Lez Zeppelin",8
+"2007-02","Oasis",61
+"2007-02","Pearl Jam",0
+"2007-02","Pink Floyd",114
+"2007-02","Stereophonics",2
+"2007-02","The Beatles",277
+"2007-02","The Hives",2
+"2007-02","The Killers",5
+"2007-02","The Rolling Stones",2
+"2007-02","The Smiths",5
+"2007-02","The Stone Roses",4
+"2007-02","The Verve",4
+"2007-02","The White Stripes",19
+"2007-02","The Who",3
+"2007-02","Travis",1
+"2007-03","Black Rebel Motorcycle Club",274
+"2007-03","Dread Zeppelin",16
+"2007-03","Kings Of Leon",3
+"2007-03","Led Zeppelin",20
+"2007-03","Led Zeppelin Jam",8
+"2007-03","Lez Zeppelin",5
+"2007-03","Oasis",25
+"2007-03","Pearl Jam",0
+"2007-03","Pink Floyd",148
+"2007-03","Stereophonics",1
+"2007-03","The Beatles",75
+"2007-03","The Hives",13
+"2007-03","The Killers",11
+"2007-03","The Rolling Stones",10
+"2007-03","The Smiths",16
+"2007-03","The Stone Roses",12
+"2007-03","The Verve",1
+"2007-03","The White Stripes",0
+"2007-03","The Who",22
+"2007-03","Travis",1
+"2007-04","Black Rebel Motorcycle Club",86
+"2007-04","Dread Zeppelin",25
+"2007-04","Kings Of Leon",23
+"2007-04","Led Zeppelin",25
+"2007-04","Led Zeppelin Jam",17
+"2007-04","Lez Zeppelin",11
+"2007-04","Oasis",64
+"2007-04","Pearl Jam",3
+"2007-04","Pink Floyd",115
+"2007-04","Stereophonics",15
+"2007-04","The Beatles",54
+"2007-04","The Hives",2
+"2007-04","The Killers",5
+"2007-04","The Rolling Stones",4
+"2007-04","The Smiths",19
+"2007-04","The Stone Roses",41
+"2007-04","The Verve",15
+"2007-04","The White Stripes",3
+"2007-04","The Who",5
+"2007-04","Travis",23
+"2007-05","Black Rebel Motorcycle Club",44
+"2007-05","Dread Zeppelin",25
+"2007-05","Kings Of Leon",17
+"2007-05","Led Zeppelin",15
+"2007-05","Led Zeppelin Jam",8
+"2007-05","Lez Zeppelin",7
+"2007-05","Oasis",37
+"2007-05","Pearl Jam",15
+"2007-05","Pink Floyd",39
+"2007-05","Stereophonics",6
+"2007-05","The Beatles",70
+"2007-05","The Hives",2
+"2007-05","The Killers",5
+"2007-05","The Rolling Stones",17
+"2007-05","The Smiths",31
+"2007-05","The Stone Roses",9
+"2007-05","The Verve",7
+"2007-05","The White Stripes",3
+"2007-05","The Who",44
+"2007-05","Travis",5
+"2007-06","Black Rebel Motorcycle Club",25
+"2007-06","Dread Zeppelin",22
+"2007-06","Kings Of Leon",4
+"2007-06","Led Zeppelin",9
+"2007-06","Led Zeppelin Jam",13
+"2007-06","Lez Zeppelin",9
+"2007-06","Oasis",18
+"2007-06","Pearl Jam",15
+"2007-06","Pink Floyd",57
+"2007-06","Stereophonics",5
+"2007-06","The Beatles",35
+"2007-06","The Hives",1
+"2007-06","The Killers",3
+"2007-06","The Rolling Stones",29
+"2007-06","The Smiths",7
+"2007-06","The Stone Roses",26
+"2007-06","The Verve",7
+"2007-06","The White Stripes",27
+"2007-06","The Who",5
+"2007-06","Travis",3
+"2007-07","Black Rebel Motorcycle Club",34
+"2007-07","Dread Zeppelin",32
+"2007-07","Kings Of Leon",17
+"2007-07","Led Zeppelin",24
+"2007-07","Led Zeppelin Jam",21
+"2007-07","Lez Zeppelin",12
+"2007-07","Oasis",58
+"2007-07","Pearl Jam",14
+"2007-07","Pink Floyd",86
+"2007-07","Stereophonics",14
+"2007-07","The Beatles",53
+"2007-07","The Hives",2
+"2007-07","The Killers",1
+"2007-07","The Rolling Stones",47
+"2007-07","The Smiths",15
+"2007-07","The Stone Roses",22
+"2007-07","The Verve",3
+"2007-07","The White Stripes",16
+"2007-07","The Who",44
+"2007-07","Travis",2
+"2007-08","Black Rebel Motorcycle Club",37
+"2007-08","Dread Zeppelin",11
+"2007-08","Kings Of Leon",4
+"2007-08","Led Zeppelin",16
+"2007-08","Led Zeppelin Jam",14
+"2007-08","Lez Zeppelin",13
+"2007-08","Oasis",45
+"2007-08","Pearl Jam",22
+"2007-08","Pink Floyd",71
+"2007-08","Stereophonics",12
+"2007-08","The Beatles",54
+"2007-08","The Hives",0
+"2007-08","The Killers",25
+"2007-08","The Rolling Stones",22
+"2007-08","The Smiths",41
+"2007-08","The Stone Roses",64
+"2007-08","The Verve",18
+"2007-08","The White Stripes",16
+"2007-08","The Who",37
+"2007-08","Travis",2
+"2007-09","Black Rebel Motorcycle Club",87
+"2007-09","Dread Zeppelin",51
+"2007-09","Kings Of Leon",13
+"2007-09","Led Zeppelin",44
+"2007-09","Led Zeppelin Jam",31
+"2007-09","Lez Zeppelin",20
+"2007-09","Oasis",96
+"2007-09","Pearl Jam",2
+"2007-09","Pink Floyd",105
+"2007-09","Stereophonics",25
+"2007-09","The Beatles",80
+"2007-09","The Hives",13
+"2007-09","The Killers",28
+"2007-09","The Rolling Stones",35
+"2007-09","The Smiths",33
+"2007-09","The Stone Roses",36
+"2007-09","The Verve",22
+"2007-09","The White Stripes",29
+"2007-09","The Who",59
+"2007-09","Travis",1
+"2007-10","Black Rebel Motorcycle Club",18
+"2007-10","Dread Zeppelin",34
+"2007-10","Kings Of Leon",15
+"2007-10","Led Zeppelin",32
+"2007-10","Led Zeppelin Jam",17
+"2007-10","Lez Zeppelin",11
+"2007-10","Oasis",65
+"2007-10","Pearl Jam",2
+"2007-10","Pink Floyd",81
+"2007-10","Stereophonics",17
+"2007-10","The Beatles",88
+"2007-10","The Hives",35
+"2007-10","The Killers",10
+"2007-10","The Rolling Stones",21
+"2007-10","The Smiths",31
+"2007-10","The Stone Roses",25
+"2007-10","The Verve",31
+"2007-10","The White Stripes",16
+"2007-10","The Who",5
+"2007-10","Travis",3
+"2007-11","Black Rebel Motorcycle Club",31
+"2007-11","Dread Zeppelin",12
+"2007-11","Kings Of Leon",15
+"2007-11","Led Zeppelin",20
+"2007-11","Led Zeppelin Jam",13
+"2007-11","Lez Zeppelin",7
+"2007-11","Oasis",77
+"2007-11","Pearl Jam",13
+"2007-11","Pink Floyd",131
+"2007-11","Stereophonics",87
+"2007-11","The Beatles",107
+"2007-11","The Hives",14
+"2007-11","The Killers",50
+"2007-11","The Rolling Stones",51
+"2007-11","The Smiths",47
+"2007-11","The Stone Roses",33
+"2007-11","The Verve",28
+"2007-11","The White Stripes",3
+"2007-11","The Who",3
+"2007-11","Travis",3
+"2007-12","Black Rebel Motorcycle Club",24
+"2007-12","Dread Zeppelin",15
+"2007-12","Kings Of Leon",15
+"2007-12","Led Zeppelin",17
+"2007-12","Led Zeppelin Jam",9
+"2007-12","Lez Zeppelin",7
+"2007-12","Oasis",60
+"2007-12","Pearl Jam",12
+"2007-12","Pink Floyd",35
+"2007-12","Stereophonics",3
+"2007-12","The Beatles",23
+"2007-12","The Hives",2
+"2007-12","The Killers",59
+"2007-12","The Rolling Stones",24
+"2007-12","The Smiths",44
+"2007-12","The Stone Roses",90
+"2007-12","The Verve",16
+"2007-12","The White Stripes",3
+"2007-12","The Who",0
+"2007-12","Travis",2
+"2008-01","Black Rebel Motorcycle Club",21
+"2008-01","Dread Zeppelin",8
+"2008-01","Kings Of Leon",22
+"2008-01","Led Zeppelin",13
+"2008-01","Led Zeppelin Jam",7
+"2008-01","Lez Zeppelin",2
+"2008-01","Oasis",58
+"2008-01","Pearl Jam",12
+"2008-01","Pink Floyd",41
+"2008-01","Stereophonics",15
+"2008-01","The Beatles",77
+"2008-01","The Hives",5
+"2008-01","The Killers",75
+"2008-01","The Rolling Stones",7
+"2008-01","The Smiths",25
+"2008-01","The Stone Roses",38
+"2008-01","The Verve",3
+"2008-01","The White Stripes",5
+"2008-01","The Who",1
+"2008-01","Travis",1
+"2008-02","Black Rebel Motorcycle Club",56
+"2008-02","Dread Zeppelin",6
+"2008-02","Kings Of Leon",3
+"2008-02","Led Zeppelin",10
+"2008-02","Led Zeppelin Jam",5
+"2008-02","Lez Zeppelin",5
+"2008-02","Oasis",102
+"2008-02","Pearl Jam",3
+"2008-02","Pink Floyd",77
+"2008-02","Stereophonics",8
+"2008-02","The Beatles",82
+"2008-02","The Hives",2
+"2008-02","The Killers",4
+"2008-02","The Rolling Stones",8
+"2008-02","The Smiths",27
+"2008-02","The Stone Roses",44
+"2008-02","The Verve",12
+"2008-02","The White Stripes",14
+"2008-02","The Who",1
+"2008-02","Travis",23
+"2008-03","Black Rebel Motorcycle Club",59
+"2008-03","Dread Zeppelin",20
+"2008-03","Kings Of Leon",15
+"2008-03","Led Zeppelin",23
+"2008-03","Led Zeppelin Jam",10
+"2008-03","Lez Zeppelin",7
+"2008-03","Oasis",102
+"2008-03","Pearl Jam",1
+"2008-03","Pink Floyd",122
+"2008-03","Stereophonics",3
+"2008-03","The Beatles",174
+"2008-03","The Hives",29
+"2008-03","The Killers",3
+"2008-03","The Rolling Stones",35
+"2008-03","The Smiths",20
+"2008-03","The Stone Roses",7
+"2008-03","The Verve",27
+"2008-03","The White Stripes",17
+"2008-03","The Who",2
+"2008-03","Travis",3
+"2008-04","Black Rebel Motorcycle Club",62
+"2008-04","Dread Zeppelin",20
+"2008-04","Kings Of Leon",1
+"2008-04","Led Zeppelin",12
+"2008-04","Led Zeppelin Jam",13
+"2008-04","Lez Zeppelin",8
+"2008-04","Oasis",55
+"2008-04","Pearl Jam",2
+"2008-04","Pink Floyd",74
+"2008-04","Stereophonics",16
+"2008-04","The Beatles",70
+"2008-04","The Hives",2
+"2008-04","The Killers",37
+"2008-04","The Rolling Stones",33
+"2008-04","The Smiths",32
+"2008-04","The Stone Roses",5
+"2008-04","The Verve",17
+"2008-04","The White Stripes",14
+"2008-04","The Who",4
+"2008-04","Travis",4
+"2008-05","Black Rebel Motorcycle Club",113
+"2008-05","Dread Zeppelin",27
+"2008-05","Kings Of Leon",3
+"2008-05","Led Zeppelin",29
+"2008-05","Led Zeppelin Jam",19
+"2008-05","Lez Zeppelin",14
+"2008-05","Oasis",91
+"2008-05","Pearl Jam",4
+"2008-05","Pink Floyd",113
+"2008-05","Stereophonics",2
+"2008-05","The Beatles",193
+"2008-05","The Hives",7
+"2008-05","The Killers",38
+"2008-05","The Rolling Stones",49
+"2008-05","The Smiths",117
+"2008-05","The Stone Roses",35
+"2008-05","The Verve",25
+"2008-05","The White Stripes",3
+"2008-05","The Who",28
+"2008-05","Travis",3
+"2008-06","Black Rebel Motorcycle Club",19
+"2008-06","Dread Zeppelin",29
+"2008-06","Kings Of Leon",3
+"2008-06","Led Zeppelin",24
+"2008-06","Led Zeppelin Jam",15
+"2008-06","Lez Zeppelin",7
+"2008-06","Oasis",40
+"2008-06","Pearl Jam",1
+"2008-06","Pink Floyd",69
+"2008-06","Stereophonics",5
+"2008-06","The Beatles",117
+"2008-06","The Hives",4
+"2008-06","The Killers",4
+"2008-06","The Rolling Stones",43
+"2008-06","The Smiths",178
+"2008-06","The Stone Roses",7
+"2008-06","The Verve",18
+"2008-06","The White Stripes",18
+"2008-06","The Who",17
+"2008-06","Travis",0
+"2008-07","Black Rebel Motorcycle Club",28
+"2008-07","Dread Zeppelin",16
+"2008-07","Kings Of Leon",14
+"2008-07","Led Zeppelin",9
+"2008-07","Led Zeppelin Jam",11
+"2008-07","Lez Zeppelin",7
+"2008-07","Oasis",61
+"2008-07","Pearl Jam",1
+"2008-07","Pink Floyd",87
+"2008-07","Stereophonics",1
+"2008-07","The Beatles",105
+"2008-07","The Hives",16
+"2008-07","The Killers",23
+"2008-07","The Rolling Stones",40
+"2008-07","The Smiths",83
+"2008-07","The Stone Roses",33
+"2008-07","The Verve",44
+"2008-07","The White Stripes",15
+"2008-07","The Who",69
+"2008-07","Travis",0
+"2008-08","Black Rebel Motorcycle Club",24
+"2008-08","Dread Zeppelin",0
+"2008-08","Kings Of Leon",0
+"2008-08","Led Zeppelin",1
+"2008-08","Led Zeppelin Jam",0
+"2008-08","Lez Zeppelin",0
+"2008-08","Oasis",49
+"2008-08","Pearl Jam",17
+"2008-08","Pink Floyd",35
+"2008-08","Stereophonics",1
+"2008-08","The Beatles",74
+"2008-08","The Hives",14
+"2008-08","The Killers",18
+"2008-08","The Rolling Stones",30
+"2008-08","The Smiths",22
+"2008-08","The Stone Roses",18
+"2008-08","The Verve",40
+"2008-08","The White Stripes",21
+"2008-08","The Who",24
+"2008-08","Travis",1
+"2008-09","Black Rebel Motorcycle Club",53
+"2008-09","Dread Zeppelin",38
+"2008-09","Kings Of Leon",38
+"2008-09","Led Zeppelin",97
+"2008-09","Led Zeppelin Jam",8
+"2008-09","Lez Zeppelin",15
+"2008-09","Oasis",119
+"2008-09","Pearl Jam",105
+"2008-09","Pink Floyd",60
+"2008-09","Stereophonics",12
+"2008-09","The Beatles",122
+"2008-09","The Hives",36
+"2008-09","The Killers",27
+"2008-09","The Rolling Stones",475
+"2008-09","The Smiths",37
+"2008-09","The Stone Roses",105
+"2008-09","The Verve",27
+"2008-09","The White Stripes",5
+"2008-09","The Who",348
+"2008-09","Travis",0
+"2008-10","Black Rebel Motorcycle Club",153
+"2008-10","Dread Zeppelin",10
+"2008-10","Kings Of Leon",26
+"2008-10","Led Zeppelin",21
+"2008-10","Led Zeppelin Jam",3
+"2008-10","Lez Zeppelin",3
+"2008-10","Oasis",211
+"2008-10","Pearl Jam",26
+"2008-10","Pink Floyd",5
+"2008-10","Stereophonics",0
+"2008-10","The Beatles",9
+"2008-10","The Hives",0
+"2008-10","The Killers",6
+"2008-10","The Rolling Stones",35
+"2008-10","The Smiths",26
+"2008-10","The Stone Roses",28
+"2008-10","The Verve",14
+"2008-10","The White Stripes",0
+"2008-10","The Who",35
+"2008-10","Travis",12
+"2008-11","Black Rebel Motorcycle Club",73
+"2008-11","Dread Zeppelin",7
+"2008-11","Kings Of Leon",13
+"2008-11","Led Zeppelin",30
+"2008-11","Led Zeppelin Jam",1
+"2008-11","Lez Zeppelin",4
+"2008-11","Oasis",155
+"2008-11","Pearl Jam",14
+"2008-11","Pink Floyd",32
+"2008-11","Stereophonics",0
+"2008-11","The Beatles",46
+"2008-11","The Hives",1
+"2008-11","The Killers",64
+"2008-11","The Rolling Stones",69
+"2008-11","The Smiths",10
+"2008-11","The Stone Roses",16
+"2008-11","The Verve",41
+"2008-11","The White Stripes",0
+"2008-11","The Who",62
+"2008-11","Travis",32
+"2008-12","Black Rebel Motorcycle Club",40
+"2008-12","Dread Zeppelin",23
+"2008-12","Kings Of Leon",2
+"2008-12","Led Zeppelin",66
+"2008-12","Led Zeppelin Jam",2
+"2008-12","Lez Zeppelin",6
+"2008-12","Oasis",246
+"2008-12","Pearl Jam",5
+"2008-12","Pink Floyd",45
+"2008-12","Stereophonics",0
+"2008-12","The Beatles",148
+"2008-12","The Hives",3
+"2008-12","The Killers",4
+"2008-12","The Rolling Stones",93
+"2008-12","The Smiths",13
+"2008-12","The Stone Roses",41
+"2008-12","The Verve",80
+"2008-12","The White Stripes",2
+"2008-12","The Who",78
+"2008-12","Travis",0
+"2009-01","Black Rebel Motorcycle Club",24
+"2009-01","Dread Zeppelin",8
+"2009-01","Kings Of Leon",13
+"2009-01","Led Zeppelin",47
+"2009-01","Led Zeppelin Jam",5
+"2009-01","Lez Zeppelin",2
+"2009-01","Oasis",126
+"2009-01","Pearl Jam",18
+"2009-01","Pink Floyd",12
+"2009-01","Stereophonics",0
+"2009-01","The Beatles",39
+"2009-01","The Hives",3
+"2009-01","The Killers",26
+"2009-01","The Rolling Stones",113
+"2009-01","The Smiths",32
+"2009-01","The Stone Roses",5
+"2009-01","The Verve",21
+"2009-01","The White Stripes",1
+"2009-01","The Who",36
+"2009-01","Travis",0
+"2009-02","Black Rebel Motorcycle Club",43
+"2009-02","Dread Zeppelin",4
+"2009-02","Kings Of Leon",1
+"2009-02","Led Zeppelin",19
+"2009-02","Led Zeppelin Jam",4
+"2009-02","Lez Zeppelin",2
+"2009-02","Oasis",93
+"2009-02","Pearl Jam",20
+"2009-02","Pink Floyd",99
+"2009-02","Stereophonics",2
+"2009-02","The Beatles",140
+"2009-02","The Hives",2
+"2009-02","The Killers",45
+"2009-02","The Rolling Stones",50
+"2009-02","The Smiths",28
+"2009-02","The Stone Roses",18
+"2009-02","The Verve",29
+"2009-02","The White Stripes",0
+"2009-02","The Who",96
+"2009-02","Travis",24
+"2009-03","Black Rebel Motorcycle Club",39
+"2009-03","Dread Zeppelin",21
+"2009-03","Kings Of Leon",1
+"2009-03","Led Zeppelin",87
+"2009-03","Led Zeppelin Jam",12
+"2009-03","Lez Zeppelin",11
+"2009-03","Oasis",218
+"2009-03","Pearl Jam",7
+"2009-03","Pink Floyd",56
+"2009-03","Stereophonics",1
+"2009-03","The Beatles",90
+"2009-03","The Hives",3
+"2009-03","The Killers",30
+"2009-03","The Rolling Stones",59
+"2009-03","The Smiths",71
+"2009-03","The Stone Roses",31
+"2009-03","The Verve",20
+"2009-03","The White Stripes",1
+"2009-03","The Who",68
+"2009-03","Travis",12
+"2009-04","Black Rebel Motorcycle Club",81
+"2009-04","Dread Zeppelin",2
+"2009-04","Kings Of Leon",13
+"2009-04","Led Zeppelin",18
+"2009-04","Led Zeppelin Jam",0
+"2009-04","Lez Zeppelin",1
+"2009-04","Oasis",215
+"2009-04","Pearl Jam",4
+"2009-04","Pink Floyd",15
+"2009-04","Stereophonics",0
+"2009-04","The Beatles",66
+"2009-04","The Hives",1
+"2009-04","The Killers",6
+"2009-04","The Rolling Stones",58
+"2009-04","The Smiths",44
+"2009-04","The Stone Roses",30
+"2009-04","The Verve",4
+"2009-04","The White Stripes",1
+"2009-04","The Who",60
+"2009-04","Travis",20

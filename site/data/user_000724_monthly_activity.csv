@@ -1,61 +1,61 @@
-month,artist,plays
-2009-04,Antonio Vivaldi,0
-2009-04,Arvo Pärt,10
-2009-04,Bill Evans,0
-2009-04,Charlie Parker,53
-2009-04,Clifford Brown,0
-2009-04,Johann Sebastian Bach,87
-2009-04,John Adams,63
-2009-04,John Cage,65
-2009-04,John Coltrane,66
-2009-04,Jon Hassell,10
-2009-04,Ludwig Van Beethoven,93
-2009-04,Mccoy Tyner,28
-2009-04,Michael Nyman,59
-2009-04,Miles Davis,50
-2009-04,Pat Metheny,16
-2009-04,Philip Glass,120
-2009-04,Steve Reich,102
-2009-04,Terry Riley,12
-2009-04,Wolfgang Amadeus Mozart,83
-2009-04,Игорь Фёдорович Стравинский,27
-2009-05,Antonio Vivaldi,125
-2009-05,Arvo Pärt,51
-2009-05,Bill Evans,17
-2009-05,Charlie Parker,122
-2009-05,Clifford Brown,36
-2009-05,Johann Sebastian Bach,87
-2009-05,John Adams,28
-2009-05,John Cage,110
-2009-05,John Coltrane,61
-2009-05,Jon Hassell,54
-2009-05,Ludwig Van Beethoven,143
-2009-05,Mccoy Tyner,5
-2009-05,Michael Nyman,67
-2009-05,Miles Davis,128
-2009-05,Pat Metheny,74
-2009-05,Philip Glass,136
-2009-05,Steve Reich,161
-2009-05,Terry Riley,6
-2009-05,Wolfgang Amadeus Mozart,87
-2009-05,Игорь Фёдорович Стравинский,171
-2009-06,Antonio Vivaldi,21
-2009-06,Arvo Pärt,45
-2009-06,Bill Evans,16
-2009-06,Charlie Parker,0
-2009-06,Clifford Brown,9
-2009-06,Johann Sebastian Bach,27
-2009-06,John Adams,34
-2009-06,John Cage,52
-2009-06,John Coltrane,52
-2009-06,Jon Hassell,6
-2009-06,Ludwig Van Beethoven,32
-2009-06,Mccoy Tyner,24
-2009-06,Michael Nyman,20
-2009-06,Miles Davis,1
-2009-06,Pat Metheny,11
-2009-06,Philip Glass,40
-2009-06,Steve Reich,28
-2009-06,Terry Riley,125
-2009-06,Wolfgang Amadeus Mozart,45
-2009-06,Игорь Фёдорович Стравинский,6
+"month","artist","plays"
+"2009-04","Antonio Vivaldi",0
+"2009-04","Arvo Pärt",10
+"2009-04","Bill Evans",0
+"2009-04","Charlie Parker",53
+"2009-04","Clifford Brown",0
+"2009-04","Johann Sebastian Bach",87
+"2009-04","John Adams",63
+"2009-04","John Cage",65
+"2009-04","John Coltrane",66
+"2009-04","Jon Hassell",10
+"2009-04","Ludwig Van Beethoven",93
+"2009-04","Mccoy Tyner",28
+"2009-04","Michael Nyman",59
+"2009-04","Miles Davis",50
+"2009-04","Pat Metheny",16
+"2009-04","Philip Glass",120
+"2009-04","Steve Reich",102
+"2009-04","Terry Riley",12
+"2009-04","Wolfgang Amadeus Mozart",83
+"2009-04","Игорь Фёдорович Стравинский",27
+"2009-05","Antonio Vivaldi",125
+"2009-05","Arvo Pärt",51
+"2009-05","Bill Evans",17
+"2009-05","Charlie Parker",122
+"2009-05","Clifford Brown",36
+"2009-05","Johann Sebastian Bach",87
+"2009-05","John Adams",28
+"2009-05","John Cage",110
+"2009-05","John Coltrane",61
+"2009-05","Jon Hassell",54
+"2009-05","Ludwig Van Beethoven",143
+"2009-05","Mccoy Tyner",5
+"2009-05","Michael Nyman",67
+"2009-05","Miles Davis",128
+"2009-05","Pat Metheny",74
+"2009-05","Philip Glass",136
+"2009-05","Steve Reich",161
+"2009-05","Terry Riley",6
+"2009-05","Wolfgang Amadeus Mozart",87
+"2009-05","Игорь Фёдорович Стравинский",171
+"2009-06","Antonio Vivaldi",21
+"2009-06","Arvo Pärt",45
+"2009-06","Bill Evans",16
+"2009-06","Charlie Parker",0
+"2009-06","Clifford Brown",9
+"2009-06","Johann Sebastian Bach",27
+"2009-06","John Adams",34
+"2009-06","John Cage",52
+"2009-06","John Coltrane",52
+"2009-06","Jon Hassell",6
+"2009-06","Ludwig Van Beethoven",32
+"2009-06","Mccoy Tyner",24
+"2009-06","Michael Nyman",20
+"2009-06","Miles Davis",1
+"2009-06","Pat Metheny",11
+"2009-06","Philip Glass",40
+"2009-06","Steve Reich",28
+"2009-06","Terry Riley",125
+"2009-06","Wolfgang Amadeus Mozart",45
+"2009-06","Игорь Фёдорович Стравинский",6
