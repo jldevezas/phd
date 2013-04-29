@@ -27,22 +27,22 @@ f.expand.artists.months.with.zeros = function(d, month.range=NA) {
   return(result)
 }
 
-f.expand.artists.days.with.zeros = function(d, day.range=NA) {
-  if (is.any.na(day.range))
-    day.range = range(d$day)
-  
-  all.days = as.character(seq(as.Date(day.range[1]), as.Date(day.range[2]), by="1 day"))
-  all.artists = unique(d$artist)
-  
-  result = data.frame(day = c(sapply(all.days, function(m) rep(m, length(all.artists)))))
-  result = cbind(result, artist = rep(all.artists, length(all.days)))
-  result = merge(d, result, by.x=c("day", "artist"), by.y=c("day", "artist"), all.y=TRUE)
-  na.pos = which(is.na(result$plays))
-  if (length(na.pos) > 0)
-    result[na.pos,]$plays = 0
-  
-  return(result)
-}
+# f.expand.artists.days.with.zeros = function(d, day.range=NA) {
+#   if (is.any.na(day.range))
+#     day.range = range(d$day)
+#   
+#   all.days = as.character(seq(as.Date(day.range[1]), as.Date(day.range[2]), by="1 day"))
+#   all.artists = unique(d$artist)
+#   
+#   result = data.frame(day = c(sapply(all.days, function(m) rep(m, length(all.artists)))))
+#   result = cbind(result, artist = rep(all.artists, length(all.days)))
+#   result = merge(d, result, by.x=c("day", "artist"), by.y=c("day", "artist"), all.y=TRUE)
+#   na.pos = which(is.na(result$plays))
+#   if (length(na.pos) > 0)
+#     result[na.pos,]$plays = 0
+#   
+#   return(result)
+# }
 
 # Dates range from 2005-02-14 00:00:07 to 2013-09-29 18:32:04.
 max.month.range = c("2005-02", "2013-09")
@@ -50,6 +50,7 @@ max.month.range = c("2005-02", "2013-09")
 users = read.table(gzfile(paste(baseDir, "userid-profile.tsv.gz", sep="/"), quote="", sep="\t")
 names(users) = c("id", "gender", "age", "country", "registered")
 
+userId = "user_000180"
 #for (userId in users$id[which(users$id == "user_000001"):length(users$id)]) {
 for (userId in users$id) {
   print(paste("Processing ", userId, "...", sep=""))
