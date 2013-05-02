@@ -27,47 +27,41 @@ f.expand.artists.months.with.zeros = function(d, month.range=NA) {
   return(result)
 }
 
-# f.expand.artists.days.with.zeros = function(d, day.range=NA) {
-#   if (is.any.na(day.range))
-#     day.range = range(d$day)
-#   
-#   all.days = as.character(seq(as.Date(day.range[1]), as.Date(day.range[2]), by="1 day"))
-#   all.artists = unique(d$artist)
-#   
-#   result = data.frame(day = c(sapply(all.days, function(m) rep(m, length(all.artists)))))
-#   result = cbind(result, artist = rep(all.artists, length(all.days)))
-#   result = merge(d, result, by.x=c("day", "artist"), by.y=c("day", "artist"), all.y=TRUE)
-#   na.pos = which(is.na(result$plays))
-#   if (length(na.pos) > 0)
-#     result[na.pos,]$plays = 0
-#   
-#   return(result)
-# }
-
 # Dates range from 2005-02-14 00:00:07 to 2013-09-29 18:32:04.
 max.month.range = c("2005-02", "2013-09")
 
 users = read.table(gzfile(paste(baseDir, "userid-profile.tsv.gz", sep="/"), quote="", sep="\t")
 names(users) = c("id", "gender", "age", "country", "registered")
 
-userId = "user_000180"
-#for (userId in users$id[which(users$id == "user_000001"):length(users$id)]) {
+user.stats = data.frame(id=levels(users$id),
+                        unique.artists=rep(NA, nrow(users)),
+                        plays.total=rep(NA, nrow(users)),
+                        plays.min=rep(NA, nrow(users)),
+                        plays.qua1=rep(NA, nrow(users)),
+                        plays.median=rep(NA, nrow(users)),
+                        plays.mean=rep(NA, nrow(users)),
+                        plays.qua3=rep(NA, nrow(users)),
+                        plays.max=rep(NA, nrow(users)))
+                   
 for (userId in users$id) {
   print(paste("Processing ", userId, "...", sep=""))
-  # Data for user 1 only (users were cut into separate files using split-by-user.py).
+  
+  # Songs listened by the user.
   songs = read.table(paste(paste(baseDir, userId, sep="/"), "csv", sep="."), quote="", sep="\t", fill=T)
   names(songs) = c("id", "timestamp", "artid", "artname", "traid", "traname")
   songs$month = strftime(as.Date(songs$timestamp), "%Y-%m")
-  #songs$day = strftime(as.Date(songs$timestamp), "%Y-%m-%d")
   
   # Monthly number of plays for each artist.
   monthly.artist.plays = with(songs, aggregate(artname, by=list(month, artname), length))
   names(monthly.artist.plays) = c("month", "artist", "plays")
   
-  # Daly number of plays for each artist.
-  #daily.artist.plays = with(songs, aggregate(artname, by=list(day, artname), length))
-  #names(daily.artist.plays) = c("day", "artist", "plays")
-    
+  # Unique artists listened by the user.
+  user.stats[which(user.stats$id == userId),]$unique.artists = nlevels(monthly.artist.plays$artist)
+  
+  # Statistics for the play count of the user.
+  user.stats[which(user.stats$id == userId),]$plays.total = sum(monthly.artist.plays$plays)
+  user.stats[which(user.stats$id == userId), 4:9] = summary(monthly.artist.plays$plays)
+        
   # Top overall artists.
   overall.ranks = with(monthly.artist.plays, aggregate(artist, by=list(artist), length))
   names(overall.ranks) = c("artist", "plays")
@@ -79,12 +73,6 @@ for (userId in users$id) {
             file=paste(paste(baseDir, userId, sep="/"), "_monthly_activity.csv", sep=""),
             row.names=FALSE)
   
-  # Fill the daily time series with zeros for missing values and export to CSV.
-  #write.csv(f.expand.artists.days.with.zeros(daily.artist.plays[
-  #  which(daily.artist.plays$artist %in% overall.ranks[1:20, ]$artist),]),
-  #          file=paste(paste(baseDir, userId, sep="/"), "_daily_activity.csv", sep=""),
-  #          quote=FALSE, row.names=FALSE)
-    
   # Monthly favorite artists.
   monthly.favorite = with(monthly.artist.plays, aggregate(plays, by=list(month), function(monthly.plays) artist[which.max(monthly.plays)]))
   names(monthly.favorite) = c("month", "artist")
@@ -124,3 +112,5 @@ for (userId in users$id) {
   # }
   # result = sort(unlist(result), decreasing=TRUE)
 }
+                   
+write.csv(user.stats, file=paste(baseDir, "user-stats.csv", sep="/"), row.names=FALSE)
