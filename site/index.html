@@ -25,101 +25,123 @@
 		<link rel="stylesheet" type="text/css" href="css/select2.css">
 		<link rel="stylesheet" type="text/css" href="css/jld.css">
 		<!--[if lte IE 7 ]>
-		<link rel="stylesheet" href="css/ink-ie7-min.css" type="text/css" media="screen"
+		<link rel="stylesheet" href="css/ink-ie-min.css" type="text/css" media="screen"
 		title="no title" charset="utf-8">
 		<![endif]-->
-		<style type="text/css">
-			html, body {
-				height: 100%;
-				background: #f0f0f0;
-			}
-			.wrap {
-				min-height: 100%;
-				height: auto !important;
-				height: 100%;
-				margin: 0 auto -80px;
-				overflow: auto;
-			}
-			.push, footer { height: 80px; margin-top: 0; }
-			footer { background: rgba(10,10,10,0.95); border: 0; line-height: 80px; margin-top: 0 !important; }
-			footer * { line-height: inherit; }
-			footer p { margin-top: 0; }
-			footer .ink-navigation ul.menu.horizontal li { margin-right: 2em; line-height: inherit; }
-			footer .ink-navigation ul.menu.horizontal li a {
-				padding: 0;
-				color: white;
-				text-decoration: underline;
-			}
-			footer p {
-				color: white;
-			}
-			footer .ink-navigation ul.menu.horizontal li a:hover {
-				color: #c91111;
-			}
-			.top-menu {
-				background: #000;
-			}
-			.cta {
-				font-size: 1.8em;
-				margin-left: 0;
-			}
-		</style>
 	</head>
 
 	<body>
-		<div class="wrap">
-			<div class="top-menu">
-				<nav class="ink-navigation ink-grid">
-					<ul class="menu horizontal black flat">
-						<li><a href="#about-me-and-my-phd">about me and my phd</a></li>
-						<li><a href="#visualizing-listening-behavior">visualizing listening behavior</a></li>
-					</ul>
-				</nav>
+		<header class="ink-container ink-for-l">
+			<div class="ink-vspace">
+				<h1 class="">Community-Driven Music Discovery</h1>
+				<p>José Devezas, Computer Science PhD student @ DCC&ndash;FCUP.</p>
 			</div>
-			<div class="ink-grid vspace">
+		</header>
+
+		<nav class="ink-container ink-navigation">
+			<ul class="horizontal menu black">
+				<li><a href="#about-me-and-my-phd">About Me and My PhD</a></li>
+				<li><a href="#visualizing-listening-behavior">Visualizing Listening Behavior</a></li>
+			</ul>
+		</nav>
+
+		<header class="ink-container ink-for-m ink-for-s">
+			<div class="ink-vspace">
+				<h1 class="">Community-Driven Music Discovery</h1>
+				<p>José Devezas, Computer Science PhD student @ DCC&ndash;FCUP.</p>
+			</div>
+		</header>		
+		
+		<div class="ink-container">
+			<div class="ink-grid ink-vspace">
 				<div class="column-group">
-					<div class="large-100 medium-100 small-100">
-						<h1>community-driven music discovery</h1>
-						
+					<div class="ink-l100 ink-m100 ink-m100">
 						<section id="about-me-and-my-phd">
-							<h2>about me and my phd</h2>
+							<div class="ink-vspace">
+								<h1>About Me and My PhD</h2>
 
-							<p>My name is José Devezas and I'm a PhD student at the Department of Computer Science
-								of the Faculty of Sciences of the University of Porto. I am researching methodologies to
-								improve music discovery, specially as a group activity, by taking into account the information
-								given by the communities and social ties of the individuals that make the group.</p>
+								<p>My name is José Devezas and I'm a PhD student at the Department of Computer Science
+									of the Faculty of Sciences of the University of Porto. I am researching methodologies to
+									improve music discovery, specially as a group activity, by taking into account the information
+									given by the communities and social ties of the individuals that make the group.</p>
 
-							<p>In here, you will find any algorithms, tools or visualizations that I develop as part of
-								my PhD project.</p>
+								<p>In here, you will find any algorithms, tools or visualizations that I develop as part of
+									my PhD project.</p>
+							</div>
 						</section>
 
 						<section id="visualizing-listening-behavior">
-							<h2>visualizing listening behavior</h2>
+							<div class="ink-vspace">
+								<h1>Visualizing Listening Behavior</h2>
 
-							<p>We present a visualization based on the monthly analysis of the
-								<a href="http://www.last.fm">Last.fm</a> dataset provided by Oscar Celma, aggregating
-								scrobble information for 1,000 users crawled randomly from his neighborhood. This data can
-								be found <a href="http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html">here</a>.</p>
-
-							<p>Explore listening behavior by selecting a user below. You can type a country to filter
-								by country or a number to filter by age.</p>
-
-							<div id="control">
-								<select id="user-select"></select>&nbsp;
-								<button id="button-previous" class="ink-button">Previous</button>
-								<button id="button-next" class="ink-button">Next</button>
-								<span id="user-country"></span>
-								<span id="user-age"></span>
-								<span id="user-gender"></span>
+								<p>We present a visualization based on the monthly analysis of the
+									<a href="http://www.last.fm">Last.fm</a> dataset provided by Oscar Celma, aggregating
+									scrobble information for 1,000 users crawled randomly from his neighborhood. This data can
+									be found <a href="http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html">here</a>.</p>
 							</div>
 
-							<h3>streamgraph for the user's top 20 averall artists</h3>
-							<div id="stream-tooltip"></div>
-							<div id="stream-graph"></div>
+							<div class="ink-vspace">
+								<h2>Monthly User-Centric Analysis</h3>
 
-							<h3>monthly play count for <span id="artist-name">most frequently listened artist</span><h3>
-							<div id="artist-tooltip"></div>
-							<div id="artist-chart"></div>
+								<p>Explore listening behavior by selecting a user below. You can type a country to filter
+									by country or a number to filter by age.</p>
+
+								<div id="control">
+									<select id="user-select"></select>&nbsp;
+									<button id="button-previous" class="ink-button">Previous</button>
+									<button id="button-next" class="ink-button">Next</button>
+									<span id="user-country"></span>
+									<span id="user-age"></span>
+									<span id="user-gender"></span>
+								</div>
+							</div>
+
+							<div class="ink-vspace">
+								<h3>Streamgraph for the User's Top 20 Overall Artists</h4>
+								<div class="ink-vspace">
+									<div id="stream-tooltip"></div>
+									<div id="stream-graph"></div>
+								</div>
+							</div>
+
+							<div class="ink-vspace">
+								<h3>Monthly Play Count for <span id="artist-name">Most Frequently Listened Artist</span><h3>
+								<div class="ink-vspace">
+									<div id="artist-tooltip"></div>
+									<div id="artist-chart"></div>
+								</div>
+							</div>
+
+							<div class="ink-vspace">
+								<h2>Hourly Global Analysis</h3>
+								<p>We've grouped data by hour of the day and analyzed behavior.</p>
+							</div>
+
+							<div class="ink-vspace">
+								<h3>Gender</h4>
+
+								<p>Below you can find an hourly chart for the total number of plays in the dataset,
+									distinguishing between male, female and unknown genders.</p>
+
+								<div class="ink-vspace">
+									<img src="img/charts/hourly_scrobbles_by_gender.png"/>
+								</div>
+							</div>
+
+							<div class="ink-vspace">
+								<h3>Country</h4>
+
+								<p>Here you can see the hourly music plays distribution for each country in the dataset. Each
+									bar indicates the fraction of music listened in the given country at each hour of the day.
+									We've sorted facets from the country with the most global plays to the country with the least
+									global plays. We've also clustered similar hourly behavior using k-means on this normalized
+									hourly data. We used <em>k</em>=3 which resulted in the cluster that achieved the best
+									silhouette value among the clusters generated with <em>k</em> from 2 to 6.</p>
+
+								<div class="ink-vspace">
+									<img src="img/charts/hourly_scrobbles_by_country.png"/>
+								</div>
+							</div>
 						</section>
 
 						<script src="js/jquery-1.9.1.min.js"></script>
@@ -228,11 +250,12 @@
 			</div>
 			<div class="push"></div>
 		</div>
+
 		<footer>
-		<div class="ink-grid">
-			<p class="push-left small-100">Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto &amp; Laboratório SAPO/U.Porto</p>
-			<p class="push-right small-100">&copy; 2013 José Devezas</p>
-		</div>
+			<div class="ink-container ink-grid">
+				<p>Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto &amp; Laboratório SAPO/U.Porto</p>
+				<p>&copy; 2013 José Devezas</p>
+			</div>
 		</footer>
 	</body>
 

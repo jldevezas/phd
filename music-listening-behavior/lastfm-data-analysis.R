@@ -37,8 +37,17 @@ AddZeroMonths <- function(d, month.range=NA) {
   result <- merge(d, result, by.x=c("month", "artist"), by.y=c("month", "artist"), all.y=TRUE)
   na.pos <- which(is.na(result$plays))
   if (length(na.pos) > 0)
-    result[na.pos,]$plays <- 0  
+    result[na.pos,]$plays <- 0
   
+  return(result)
+}
+
+AddZeroHours <- function(d) {
+  result <- data.frame(hour=0:23)
+  result <- merge(d, result, by=c("hour"), all=TRUE)
+  na.pos <- which(is.na(result$plays))
+  if (length(na.pos) > 0)
+    result[na.pos,]$plays <- 0
   return(result)
 }
 
@@ -65,6 +74,7 @@ user.stats <- data.frame(id=levels(users$id),
 monthly.artist.plays <- list()
 monthly.ranks <- list()
 adoption.by.rank <- list()
+hourly.total.plays <- data.frame(user=character(), hour=character(), plays=character());
 
 for (user.id in users$id) {
   print(paste("Processing ", user.id, "...", sep=""))
@@ -73,6 +83,12 @@ for (user.id in users$id) {
   songs <- read.table(paste(paste(baseDir, user.id, sep="/"), "csv", sep="."), quote="", sep="\t", fill=T)
   names(songs) <- c("id", "timestamp", "artid", "artname", "traid", "traname")
   songs$month <- strftime(as.Date(songs$timestamp), "%Y-%m")
+  songs$hour <- as.numeric(format(as.POSIXct(songs$timestamp, format="%Y-%m-%dT%H:%M:%SZ"), format="%H"))
+  
+  # Hourly number of plays for each user.
+  user.hourly.total.plays <- with(songs, aggregate(id, by=list(hour), length))
+  names(user.hourly.total.plays) <- c("hour", "plays")
+  hourly.total.plays <- rbind(hourly.total.plays, cbind(user=rep(user.id, 24), AddZeroHours(user.hourly.total.plays)))
   
   # Monthly number of plays for each artist.
   monthly.artist.plays[[user.id]] <- with(songs, aggregate(artname, by=list(month, artname), length))
@@ -109,10 +125,103 @@ for (user.id in users$id) {
   }
   user.adoption.by.rank <- sort(unlist(user.adoption.by.rank)/max(unlist(user.adoption.by.rank)), decreasing=TRUE)
   adoption.by.rank[[user.id]] <- user.adoption.by.rank
-  
-  # How consistently are favorite monthly artists listened to ahead in time?
-  # (Measure variance ahead of time?)
 }
+
+hourly.total.plays <- merge(hourly.total.plays, users[, c(1,2,4)], by.x="user", by.y="id", all=TRUE)
+
+# How consistently are favorite monthly artists listened to ahead in time?
+# (Measure variance ahead of time?)
+# user.id <- "user_000271"
+# for (month in monthly.ranks[[user.id]]$month) {
+#   top.artist <- monthly.ranks[[user.id]][which(monthly.ranks[[user.id]]$month == month), 2][1]
+#   after.month.artist.plays <- AddZeroMonths(monthly.artist.plays[[user.id]][
+#     which(monthly.artist.plays[[user.id]]$month > month), ])
+#   after.month.top.artist.plays <- after.month.artist.plays[which(after.month.artist.plays$artist == top.artist), ]
+#   month.top.artist.future.variance <- var(after.month.top.artist.plays$plays)
+#   month.top.artist.future.total <- sum(after.month.top.artist.plays$plays)
+#   n.months <- length(unique(after.month.top.artist.plays$month))
+#   print(paste(user.id, month, top.artist,
+#               month.top.artist.future.variance,
+#               month.top.artist.future.total,
+#               month.top.artist.future.variance / n.months * month.top.artist.future.total / n.months,
+#               sep=' | '))
+# }
+
+
+#
+# Compute hourly scrobbles by country.
+#
+
+plays.by.country <- tapply(hourly.total.plays$plays, hourly.total.plays$country, sum)
+hourly.plays.by.country <- aggregate(hourly.total.plays$plays,
+                                     by=list(hourly.total.plays$country, hourly.total.plays$hour), sum)
+names(hourly.plays.by.country) <- c("country", "hour", "plays")
+norm.hourly.plays.by.country <- hourly.plays.by.country
+norm.hourly.plays.by.country$plays <- norm.hourly.plays.by.country$plays / plays.by.country[norm.hourly.plays.by.country$country]
+not.country <- c("", "Netherlands Antilles", "United States Minor Outlying Islands")
+norm.hourly.plays.by.country <- norm.hourly.plays.by.country[-which(norm.hourly.plays.by.country$country %in% not.country), ]
+norm.hourly.plays.by.country$country <- factor(norm.hourly.plays.by.country$country, levels=country.rank)
+country.rank <- names(sort(plays.by.country, decreasing=TRUE))
+country.rank <- country.rank[-which(country.rank %in% not.country)]
+
+# To make it readable only.
+norm.hourly.plays.by.country <- norm.hourly.plays.by.country[with(norm.hourly.plays.by.country, order(country, hour)), ]
+
+# TODO Offset to country timezone.
+country.codes <- read.delim("/usr/share/zoneinfo/iso3166.tab", comment.char="#", head=FALSE)
+names(country.codes) <- c("code", "country")
+time.zones <- read.delim("/usr/share/zoneinfo/zone.tab", comment.char="#", head=FALSE)
+names(time.zones) <- c("code", "gps", "zone")
+
+#
+# Cluster hourly music listening behavior by country.
+#
+# We're thinking of this kind of like a time series clustering problem, except that
+# they are in phase already and normalized, so the problem becomes easier. Biggest
+# challenge is to identify the number of clusters, but since our data is so small,
+# we can simply use silhouette to find the best k.
+#
+
+dp <- matrix(nrow=length(country.rank), ncol=24)
+rownames(dp) <- country.rank
+colnames(dp) <- paste(0:23, "h", sep="")
+for (country in country.rank) {
+  dp[country, ] <- norm.hourly.plays.by.country[which(norm.hourly.plays.by.country$country == country), "plays"]
+}
+
+cl <- list()
+sil <- array()
+for (k in 2:6) {
+  cl[[k]] <- kmeans(dp, k)
+  sil[k] <- summary(silhouette(cl[[k]]$cluster, dist(dp)))$avg.width
+}
+best.cluster <- cl[[which.max(sil)]]
+norm.hourly.plays.by.country$cluster <- best.cluster$cluster[norm.hourly.plays.by.country$country]
+
+#
+# Beautiful charts.
+#
+
+require(ggplot2)
+
+png(file=paste(baseDir, "hourly_scrobbles_by_gender.png", sep="/"), width=900, height=350)
+ggplot(hourly.total.plays[order(hourly.total.plays$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
+  geom_bar(stat="identity") +
+  scale_fill_manual(name="Gender", labels=c("Unknown", "Female", "Male"), values=c("gray40", "violetred2", "skyblue1")) +
+  labs(x="Hour of the Day", y="Number of Scrobbled Songs") +
+  guides(fill = guide_legend(reverse = TRUE)) +
+  theme_gray(base_size = 14, base_family="Ubuntu Medium")
+dev.off()
+
+png(file=paste(baseDir, "hourly_scrobbles_by_country.png", sep="/"), width=900*3, height=2000*3)
+ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster))) +
+  geom_bar(stat="identity") +
+  scale_fill_brewer(name="Behavior Type", palette=2, type="qual") +
+  facet_wrap( ~ country, ncol=4) +
+  labs(x="Hour of the Day", y="Number of Scrobbled Songs") +
+  theme_gray(base_size = 14*3, base_family="Ubuntu Medium") +
+  theme(legend.position="top")
+dev.off()
 
 
 #
@@ -120,6 +229,7 @@ for (user.id in users$id) {
 #
                    
 write.csv(user.stats, file=paste(baseDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
+write.csv(hourly.total.plays, file=paste(baseDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
 
 for (user.id in users$id) {
   print(paste("Writing analysis data for ", user.id, "...", sep=" "))
@@ -141,4 +251,4 @@ for (user.id in users$id) {
 # Clean up temporary variables.
 #
 
-rm(i, j, user.id, plays, month, artists, overall.ranks, songs)
+rm(i, j, user.id, plays, month, artists, overall.ranks, songs, user.adoption.by.rank)
