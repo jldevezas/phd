@@ -51,6 +51,16 @@ AddZeroHours <- function(d) {
   return(result)
 }
 
+RotateHour <- function(hour, offset) {
+  new.hour <- hour + offset
+  
+  if (new.hour < 0 || new.hour > 23) {
+    new.hour <- new.hour - 24 * (new.hour %/% 24)
+  }
+  
+  return (new.hour)
+}
+
 
 #
 # Dataset analysis.
@@ -156,22 +166,54 @@ plays.by.country <- tapply(hourly.total.plays$plays, hourly.total.plays$country,
 hourly.plays.by.country <- aggregate(hourly.total.plays$plays,
                                      by=list(hourly.total.plays$country, hourly.total.plays$hour), sum)
 names(hourly.plays.by.country) <- c("country", "hour", "plays")
+
 norm.hourly.plays.by.country <- hourly.plays.by.country
-norm.hourly.plays.by.country$plays <- norm.hourly.plays.by.country$plays / plays.by.country[norm.hourly.plays.by.country$country]
+norm.hourly.plays.by.country$plays <- norm.hourly.plays.by.country$plays /
+  plays.by.country[norm.hourly.plays.by.country$country]
+# These are, in fact, valid locations, but Netherlands Antilles has too little data. United States Minor
+# Outlying Islands should however be added back in the next run (or replaced by a country with few data).
 not.country <- c("", "Netherlands Antilles", "United States Minor Outlying Islands")
-norm.hourly.plays.by.country <- norm.hourly.plays.by.country[-which(norm.hourly.plays.by.country$country %in% not.country), ]
+norm.hourly.plays.by.country <- norm.hourly.plays.by.country[
+  -which(norm.hourly.plays.by.country$country %in% not.country), ]
 norm.hourly.plays.by.country$country <- factor(norm.hourly.plays.by.country$country, levels=country.rank)
 country.rank <- names(sort(plays.by.country, decreasing=TRUE))
 country.rank <- country.rank[-which(country.rank %in% not.country)]
-
 # To make it readable only.
 norm.hourly.plays.by.country <- norm.hourly.plays.by.country[with(norm.hourly.plays.by.country, order(country, hour)), ]
 
-# TODO Offset to country timezone.
-country.codes <- read.delim("/usr/share/zoneinfo/iso3166.tab", comment.char="#", head=FALSE)
-names(country.codes) <- c("code", "country")
-time.zones <- read.delim("/usr/share/zoneinfo/zone.tab", comment.char="#", head=FALSE)
-names(time.zones) <- c("code", "gps", "zone")
+# Offset to country timezone (TODO make into reusable function).
+
+country.codes <- read.csv(paste(baseDir, "timezonedb/country.csv", sep="/"), head=FALSE)
+names(country.codes) <- c("country.code", "country")
+
+zones <- read.csv(paste(baseDir, "timezonedb/zone.csv", sep="/"), head=FALSE)
+names(zones) <- c("zone.id", "country.code", "zone.name")
+
+time.zones <- read.csv(paste(baseDir, "timezonedb/timezone.csv", sep="/"), head=FALSE)
+names(time.zones) <- c("zone.id", "abbreviation", "time.start", "gmt.offset", "dst")
+
+tzdb <- merge(merge(country.codes, zones), time.zones)
+levels(tzdb$country)[which(levels(tzdb$country) == "Russia")] <- "Russian Federation"
+levels(tzdb$country)[which(levels(tzdb$country) == "Democratic Republic of the Congo")] <-
+  "Congo, the Democratic Republic of the"
+levels(tzdb$country)[which(levels(tzdb$country) == "North Korea")] <-
+  "Korea, Democratic People's Republic of"
+
+for (country in country.rank) {
+  country.zone.ids <- unique(tzdb[which(as.character(tzdb$country) == country), ]$zone.id)
+  
+  if (country == "Cote D'Ivoire") {
+    # Not in tzdb, but offset is zero, so we can skip it.
+    next
+  }
+  
+  hour.offset <- round(mean(unique(tzdb[which(
+    tzdb$zone.id %in% country.zone.ids & tzdb$time.start > as.numeric(Sys.time())), ]$gmt.offset)) / 3600)
+  norm.hourly.plays.by.country[which(norm.hourly.plays.by.country$country == country), ]$hour <-
+    sapply(norm.hourly.plays.by.country[which(norm.hourly.plays.by.country$country == country), ]$hour,
+           function(h) RotateHour(h, hour.offset))
+}
+
 
 #
 # Cluster hourly music listening behavior by country.
@@ -181,6 +223,8 @@ names(time.zones) <- c("code", "gps", "zone")
 # challenge is to identify the number of clusters, but since our data is so small,
 # we can simply use silhouette to find the best k.
 #
+
+require(cluster)
 
 dp <- matrix(nrow=length(country.rank), ncol=24)
 rownames(dp) <- country.rank
@@ -198,6 +242,39 @@ for (k in 2:6) {
 best.cluster <- cl[[which.max(sil)]]
 norm.hourly.plays.by.country$cluster <- best.cluster$cluster[norm.hourly.plays.by.country$country]
 
+
+#
+# Compute hourly scrobbles by genre.
+#
+
+hourly.plays.by.gender <- aggregate(hourly.total.plays$plays,
+                                    by=list(hourly.total.plays$country,
+                                            hourly.total.plays$gender,
+                                            hourly.total.plays$hour),
+                                    sum)
+names(hourly.plays.by.gender) <- c("country", "gender", "hour", "plays")
+hourly.plays.by.gender <- hourly.plays.by.gender[-which(hourly.plays.by.gender$country %in% not.country), ]
+
+for (country in country.rank) {
+  country.zone.ids <- unique(tzdb[which(as.character(tzdb$country) == country), ]$zone.id)
+  
+  if (country == "Cote D'Ivoire") {
+    # Not in tzdb, but offset is zero, so we can skip it.
+    next
+  }
+  
+  hour.offset <- round(mean(unique(tzdb[which(
+    tzdb$zone.id %in% country.zone.ids & tzdb$time.start > as.numeric(Sys.time())), ]$gmt.offset)) / 3600)
+  hourly.plays.by.gender[which(hourly.plays.by.gender$country == country), ]$hour <-
+    sapply(hourly.plays.by.gender[which(hourly.plays.by.gender$country == country), ]$hour,
+           function(h) RotateHour(h, hour.offset))
+}
+
+hourly.plays.by.gender <- aggregate(hourly.plays.by.gender$plays, by=list(
+  hourly.plays.by.gender$gender, hourly.plays.by.gender$hour), sum)
+names(hourly.plays.by.gender) <- c("gender", "hour", "plays")
+
+
 #
 # Beautiful charts.
 #
@@ -205,9 +282,9 @@ norm.hourly.plays.by.country$cluster <- best.cluster$cluster[norm.hourly.plays.b
 require(ggplot2)
 
 png(file=paste(baseDir, "hourly_scrobbles_by_gender.png", sep="/"), width=900, height=350)
-ggplot(hourly.total.plays[order(hourly.total.plays$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
+ggplot(hourly.plays.by.gender[order(hourly.plays.by.gender$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
   geom_bar(stat="identity") +
-  scale_fill_manual(name="Gender", labels=c("Unknown", "Female", "Male"), values=c("gray40", "violetred2", "skyblue1")) +
+  scale_fill_manual(name="Gender", labels=c("NA", "Female", "Male"), values=c("gray40", "violetred2", "skyblue1")) +
   labs(x="Hour of the Day", y="Number of Scrobbled Songs") +
   guides(fill = guide_legend(reverse = TRUE)) +
   theme_gray(base_size = 14, base_family="Ubuntu Medium")
