@@ -37,6 +37,13 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 	});
 	data = d3.values(dataPerArtist);
 	
+	var dataPerMonthYear = {};
+	this.data.forEach(function(row) {
+		var monthYear = d3.time.format("%b %Y")(row.month);
+		if (dataPerMonthYear[monthYear] == undefined) dataPerMonthYear[monthYear] = [];
+		if (row.plays > 0) dataPerMonthYear[monthYear].push(row.artist);
+	});
+
 	var n = data.length, 			// number of layers (artists)
 			m = data[0].length,		// number of samples per layer (months)
 			stack = d3.layout.stack().offset("silhouette"),
@@ -124,42 +131,68 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 		.style("stroke", "darkgray")
 		.style("stroke-width", "2px");
 	
+	var textMonth = vertical.append("text")
+		.attr("class", "stream-info")
+		.attr("x", "7px")
+		.attr("y", "13px")
+		.text("NA");
+
 	var textCurrent = vertical.append("text")
 		.attr("class", "stream-info")
-		.attr("x", "20px")
-		.attr("y", height - 25)
-		.attr("width", "20px")
+		.attr("x", "25px")
+		.attr("y", height - 35)
+		.attr("width", "25px")
 		.attr("text-anchor", "end")
-		.text("10");
+		.text("NA");
 	
 	var textGained = vertical.append("text")
 		.attr("class", "stream-info")
-		.attr("x", "20px")
-		.attr("y", height - 12.5)
-		.attr("width", "20px")
+		.attr("x", "25px")
+		.attr("y", height - 20)
+		.attr("width", "25px")
 		.attr("text-anchor", "end")
 		.attr("fill", "green")
-		.text("+2");
+		.text("+NA");
 
 	var textLost = vertical.append("text")
 		.attr("class", "stream-info")
-		.attr("x", "20px")
-		.attr("y", height)
-		.attr("width", "20px")
+		.attr("x", "25px")
+		.attr("y", height - 5)
+		.attr("width", "25px")
 		.attr("text-anchor", "end")
 		.attr("fill", "red")
-		.text("-3");
+		.text("-NA");
 
 	d3.select(jld.containers.streamgraph)
 		.on("mousemove", function() {
-			 mousex = d3.mouse(this)[0] - margin.left;
-			 console.log(x.invert(mousex));
-			 vertical.attr("transform", "translate(" + (mousex + 5) + ", 0)");
+			 mousex = d3.mouse(this)[0] - margin.left + 5;
+			 vertical.attr("transform", "translate(" + mousex + ", 0)");
+			 
+			 var selectedDate = x.invert(mousex);
+			 var monthYearFormat = d3.time.format("%b %Y");
+			 var selectedMonthYear = monthYearFormat(selectedDate);
+			 var previousMonthYear = monthYearFormat(new Date(selectedDate).addMonths(-1));
+
+			 var currentArtists = dataPerMonthYear[selectedMonthYear];
+			 var previousArtists = dataPerMonthYear[previousMonthYear];
+
+			 if (previousArtists == undefined) {
+				 textGained.text("+0");
+				 textLost.text("-0");
+			 } else {
+				 var gainedArtists = currentArtists.filter(function(x) { return previousArtists.indexOf(x) < 0; });
+				 var lostArtists = previousArtists.filter(function(x) { return currentArtists.indexOf(x) < 0; });
+				 textGained.text("+" + gainedArtists.length);
+				 textLost.text("-" + lostArtists.length);
+			 }
+
+			 textMonth.text(selectedMonthYear);
+			 textCurrent.text(currentArtists.length);
 		})
 		.on("mouseover", function() {
 			vertical.style("visibility", "visible");
-			mousex = d3.mouse(this)[0] - margin.left;
-			vertical.attr("transform", "translate(" + (mousex + 5) + ", 0)");
+			mousex = d3.mouse(this)[0] - margin.left + 5;
+			vertical.attr("transform", "translate(" + mousex + ", 0)");
 		})
 		.on("mouseout", function() {
 			vertical.style("visibility", "hidden");
