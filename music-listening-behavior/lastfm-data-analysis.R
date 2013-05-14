@@ -159,6 +159,29 @@ hourly.total.plays <- merge(hourly.total.plays, users[, c(1,2,4)], by.x="user", 
 
 
 #
+# Write results to files.
+#
+
+write.csv(user.stats, file=paste(baseDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
+write.csv(hourly.total.plays, file=paste(baseDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
+
+for (user.id in users$id) {
+  print(paste("Writing analysis data for ", user.id, "...", sep=" "))
+  
+  # Top overall artists.
+  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
+  names(overall.ranks) <- c("artist", "plays")
+  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
+  
+  # Fill the monthly time series with zeros for missing values and export to CSV.
+  write.csv(AddZeroMonths(monthly.artist.plays[[user.id]][
+    which(monthly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
+            file=paste(paste(baseDir, user.id, sep="/"), "_monthly_activity.csv", sep=""),
+            row.names=FALSE)
+}
+
+
+#
 # Compute hourly scrobbles by country.
 #
 
@@ -178,10 +201,11 @@ norm.hourly.plays.by.country <- norm.hourly.plays.by.country[
 norm.hourly.plays.by.country$country <- factor(norm.hourly.plays.by.country$country, levels=country.rank)
 country.rank <- names(sort(plays.by.country, decreasing=TRUE))
 country.rank <- country.rank[-which(country.rank %in% not.country)]
-# To make it readable only.
-norm.hourly.plays.by.country <- norm.hourly.plays.by.country[with(norm.hourly.plays.by.country, order(country, hour)), ]
 
+
+#
 # Offset to country timezone (TODO make into reusable function).
+#
 
 country.codes <- read.csv(paste(baseDir, "timezonedb/country.csv", sep="/"), head=FALSE)
 names(country.codes) <- c("country.code", "country")
@@ -213,6 +237,9 @@ for (country in country.rank) {
     sapply(norm.hourly.plays.by.country[which(norm.hourly.plays.by.country$country == country), ]$hour,
            function(h) RotateHour(h, hour.offset))
 }
+
+# To make it readable only.
+norm.hourly.plays.by.country <- norm.hourly.plays.by.country[with(norm.hourly.plays.by.country, order(country, hour)), ]
 
 
 #
@@ -295,34 +322,43 @@ ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster
   geom_bar(stat="identity") +
   scale_fill_brewer(name="Behavior Type", palette=2, type="qual") +
   facet_wrap( ~ country, ncol=4) +
-  labs(x="Hour of the Day", y="Number of Scrobbled Songs") +
+  labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
   theme_gray(base_size = 14*3, base_family="Ubuntu Medium") +
+  theme(legend.position="top")
+dev.off()
+
+require(RColorBrewer)
+pal <- brewer.pal(3, name="Dark2")
+
+png(file=paste(baseDir, "hourly_scrobbles_by_country_behavior_1.png", sep="/"), width=900, height=350)
+center <- data.frame(hour=0:23, plays=as.numeric(best.cluster$centers[1, ]))
+ggplot(center) +
+  geom_bar(aes(x=hour, y=plays), fill=pal[1], stat="identity") +
+  labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
+  theme_gray(base_size = 14, base_family="Ubuntu Medium") +
+  theme(legend.position="top")
+dev.off()
+
+png(file=paste(baseDir, "hourly_scrobbles_by_country_behavior_2.png", sep="/"), width=900, height=350)
+center <- data.frame(hour=0:23, plays=as.numeric(best.cluster$centers[2, ]))
+ggplot(center) +
+  geom_bar(aes(x=hour, y=plays), fill=pal[2], stat="identity") +
+  labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
+  theme_gray(base_size = 14, base_family="Ubuntu Medium") +
   theme(legend.position="top")
 dev.off()
 
 
 #
-# Write results to files.
+# Posterior analysis.
 #
-                   
-write.csv(user.stats, file=paste(baseDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
-write.csv(hourly.total.plays, file=paste(baseDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
 
-for (user.id in users$id) {
-  print(paste("Writing analysis data for ", user.id, "...", sep=" "))
-  
-  # Top overall artists.
-  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
-  names(overall.ranks) <- c("artist", "plays")
-  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
-  
-  # Fill the monthly time series with zeros for missing values and export to CSV.
-  write.csv(AddZeroMonths(monthly.artist.plays[[user.id]][
-    which(monthly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
-          file=paste(paste(baseDir, user.id, sep="/"), "_monthly_activity.csv", sep=""),
-          row.names=FALSE)
-}
-
+# Are the countries grouped in a cluster simply because of having more than one time zone?
+sapply(names(best.cluster$cluster[which(best.cluster$cluster == 1)]), function(country) {
+  country.zone.ids <- unique(tzdb[which(as.character(tzdb$country) == country), ]$zone.id)
+  length(unique(tzdb[which(tzdb$zone.id %in% country.zone.ids
+                           & tzdb$time.start > as.numeric(Sys.time())), ]$gmt.offset))
+  })
 
 #
 # Clean up temporary variables.

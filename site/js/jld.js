@@ -111,6 +111,60 @@ JldVisualization.prototype.listeningBehaviorStreamGraph = function () {
 				d3.select(jld.containers.artistchart).selectAll("*").remove();
 				jld.listeningBehaviorArtistChart(d[0].artist);
 			});
+
+	var vertical = svg.append("g")
+		.attr("height", height)
+		.style("visibility", "hidden");
+
+	vertical.append("line")
+		.attr("x0", 0)
+		.attr("x1", 0)
+		.attr("y0", 0)
+		.attr("y1", height)
+		.style("stroke", "darkgray")
+		.style("stroke-width", "2px");
+	
+	var textCurrent = vertical.append("text")
+		.attr("class", "stream-info")
+		.attr("x", "20px")
+		.attr("y", height - 25)
+		.attr("width", "20px")
+		.attr("text-anchor", "end")
+		.text("10");
+	
+	var textGained = vertical.append("text")
+		.attr("class", "stream-info")
+		.attr("x", "20px")
+		.attr("y", height - 12.5)
+		.attr("width", "20px")
+		.attr("text-anchor", "end")
+		.attr("fill", "green")
+		.text("+2");
+
+	var textLost = vertical.append("text")
+		.attr("class", "stream-info")
+		.attr("x", "20px")
+		.attr("y", height)
+		.attr("width", "20px")
+		.attr("text-anchor", "end")
+		.attr("fill", "red")
+		.text("-3");
+
+	d3.select(jld.containers.streamgraph)
+		.on("mousemove", function() {
+			 mousex = d3.mouse(this)[0] - margin.left;
+			 console.log(x.invert(mousex));
+			 vertical.attr("transform", "translate(" + (mousex + 5) + ", 0)");
+		})
+		.on("mouseover", function() {
+			vertical.style("visibility", "visible");
+			mousex = d3.mouse(this)[0] - margin.left;
+			vertical.attr("transform", "translate(" + (mousex + 5) + ", 0)");
+		})
+		.on("mouseout", function() {
+			vertical.style("visibility", "hidden");
+		});
+	
 };
 
 

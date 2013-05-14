@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>
-			community-driven music discovery
+			Community-Driven Music Discovery
 		</title>
 		<meta name="description" content="">
 		<meta name="author" content="phd, visualization, devezas, music, discovery, communities, social">
@@ -41,7 +41,14 @@
 		<nav class="ink-container ink-navigation">
 			<ul class="horizontal menu black">
 				<li><a href="#about-me-and-my-phd">About Me and My PhD</a></li>
-				<li><a href="#visualizing-listening-behavior">Visualizing Listening Behavior</a></li>
+				<li>
+					<a href="#visualizing-listening-behavior">Visualizing Listening Behavior
+						<i class="icon-caret-down"></i></a>
+					<ul class="submenu">
+						<li><a href="#vlb-monthly">Monthly User-Centric Analysis</a></li>
+						<li><a href="#vlb-hourly">Hourly Global Analysis</a></li>
+					</ul>
+				</li>
 			</ul>
 		</nav>
 
@@ -52,11 +59,11 @@
 			</div>
 		</header>		
 		
-		<div class="ink-container ink-vspace">
+		<div class="ink-container">
 			<div class="ink-l100 ink-m100 ink-m100">
 				<section id="about-me-and-my-phd">
 					<div class="ink-vspace">
-						<h1>About Me and My PhD</h2>
+						<h3>About Me and My PhD</h3>
 
 						<p>My name is José Devezas and I'm a PhD student at the Department of Computer Science
 							of the Faculty of Sciences of the University of Porto. I am researching methodologies to
@@ -70,7 +77,7 @@
 
 				<section id="visualizing-listening-behavior">
 					<div class="ink-vspace">
-						<h1>Visualizing Listening Behavior</h2>
+						<h3>Visualizing Listening Behavior</h3>
 
 						<p>We present a visualization based on the monthly analysis of the
 							<a href="http://www.last.fm">Last.fm</a> dataset provided by Oscar Celma, aggregating
@@ -78,75 +85,104 @@
 							be found <a href="http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html">here</a>.</p>
 					</div>
 
-					<div class="ink-vspace">
-						<h2>Monthly User-Centric Analysis</h3>
-
-						<p>Explore listening behavior by selecting a user below. You can type a country to filter
-							by country or a number to filter by age.</p>
-
-						<div id="control">
-							<select id="user-select"></select>&nbsp;
-							<button id="button-previous" class="ink-button">Previous</button>
-							<button id="button-next" class="ink-button">Next</button>
-							<span id="user-country"></span>
-							<span id="user-age"></span>
-							<span id="user-gender"></span>
-						</div>
-					</div>
-
-					<div class="ink-vspace">
-						<h3>Streamgraph for the User's Top 20 Overall Artists</h4>
+					<section id="vlb-monthly">
 						<div class="ink-vspace">
-							<div id="stream-tooltip"></div>
-							<div id="stream-graph"></div>
+							<h4>Monthly User-Centric Analysis</h4>
+
+							<p>Explore listening behavior by selecting a user below. You can type a country to filter
+								by country or a number to filter by age.</p>
+
+							<div id="control">
+								<select id="user-select"></select>&nbsp;
+								<button id="button-previous" class="ink-button">Previous</button>
+								<button id="button-next" class="ink-button">Next</button>
+								<span id="user-country"></span>
+								<span id="user-age"></span>
+								<span id="user-gender"></span>
+							</div>
 						</div>
-					</div>
-
-					<div class="ink-vspace">
-						<h3>Monthly Play Count for <span id="artist-name">Most Frequently Listened Artist</span><h3>
-						<div class="ink-vspace">
-							<div id="artist-tooltip"></div>
-							<div id="artist-chart"></div>
-						</div>
-					</div>
-
-					<div class="ink-vspace">
-						<h2>Hourly Global Analysis</h3>
-						<p>We've grouped data by the hour of the day and analyzed behavior by gender and country.
-							While male and female music listening behaviors are very similar, listening habits seem
-							to behave differently for different countries.</p>
-					</div>
-
-					<div class="ink-vspace">
-						<h3>Gender</h4>
-
-						<p>Below you can find an hourly chart for the total number of plays in the dataset,
-							distinguishing between male, female and unknown genders.</p>
 
 						<div class="ink-vspace">
-							<img src="img/charts/hourly_scrobbles_by_gender.png"/>
+							<h5>Streamgraph for the User's Top 20 Overall Artists</h5>
+							<div class="ink-vspace">
+								<div id="stream-tooltip"></div>
+								<div id="stream-graph"></div>
+							</div>
 						</div>
-					</div>
-
-					<div class="ink-vspace">
-						<h3>Country</h4>
-
-						<p>Here you can see the hourly music plays distribution for each country in the dataset. Each
-							bar indicates the fraction of music listened in the given country at each hour of the day.
-							We've sorted facets from the country with the most global plays to the country with the least
-							global plays. We've also clustered similar hourly behavior using k-means on this normalized
-							hourly data. We used <em>k</em>=3 which resulted in the cluster that achieved the best
-							silhouette value among the clusters generated with <em>k</em> from 2 to 6.</p>
-
-						<p>Note that in the original dataset, timestamps were in the UTC time standard. In order to
-							offer a fair comparison between countries, we shifted the hour in each country by the mean
-							time zone offset. Also notice that, as we approach the countries at the bottom, there is
-							less data supporting those countries behaviors.</p>
 
 						<div class="ink-vspace">
-							<img src="img/charts/hourly_scrobbles_by_country.png"/>
+							<h5>Monthly Play Count for <span id="artist-name">Most Frequently Listened Artist</span><h5>
+							<div class="ink-vspace">
+								<div id="artist-tooltip"></div>
+								<div id="artist-chart"></div>
+							</div>
 						</div>
-					</div>
+					</section>
+
+					<section id="vlb-hourly">
+						<div class="ink-vspace">
+							<h4>Hourly Global Analysis</h4>
+							<p>We've grouped data by the hour of the day and analyzed behavior by gender and country.
+								While male and female music listening behaviors are very similar, listening habits seem
+								to behave differently for different countries.</p>
+						</div>
+
+						<div class="ink-vspace">
+							<h5>Gender</h5>
+
+							<p>Below you can find an hourly chart for the total number of plays in the dataset,
+								distinguishing between male, female and unknown genders.</p>
+
+							<div class="ink-vspace">
+								<img src="img/charts/hourly_scrobbles_by_gender.png"/>
+							</div>
+						</div>
+
+						<div class="ink-vspace">
+							<h5>Country</h5>
+
+							<p>Here you can see the hourly music plays distribution for each country in the dataset. Each
+								bar indicates the fraction of music listened in the given country at each hour of the day.
+								We've sorted facets from the country with the most global plays to the country with the least
+								global plays. We've also clustered similar hourly behavior using k-means on this normalized
+								hourly data. We used <em>k</em>=3 which resulted in the cluster that achieved the best
+								silhouette value among the clusters generated with <em>k</em> from 2 to 6.</p>
+
+							<p>Note that in the original dataset, timestamps were in the UTC time standard. In order to
+								offer a fair comparison between countries, we shifted the hour in each country by the mean
+								time zone offset. Also notice that, as we approach the countries at the bottom, there is
+								less data supporting those countries behaviors.</p>
+
+							<div class="ink-vspace">
+								<img src="img/charts/hourly_scrobbles_by_country.png"/>
+							</div>
+
+							<p>The following two charts illustrate the two different behaviors identified by the clustering
+								process. At first, we thought averaging the time zone would have influenced the minimum shifting,
+							  however we found out that the countries in both clusters have a variable number of time zones,
+							  which indicates that it wasn't a factor that highly influenced the clustering.</p>
+							
+							<div class="ink-vspace">
+								<h6>Behavior 1</h6>
+								<p>This depicts a country that is either more active during the night, sleeping late, or
+									who has people with many different schedules. It includes countries like China who are
+									well known for their intensive working habits.</p>
+								<img src="img/charts/hourly_scrobbles_by_country_behavior_1.png"/>
+							</div>
+
+							<div class="ink-vspace">
+								<h6>Behavior 2</h6>
+								<p>This depicts a country with low activity during the night, and that listens to music
+									frequently while awake. It includes most of the countries, depicting the expected
+									behavior of inactivity during the night.</p>
+								<img src="img/charts/hourly_scrobbles_by_country_behavior_2.png"/>
+							</div>
+
+							<p>Even though there are two distinctive listening habits among different countries, we
+								believe they are not very different overall and that they do not deviate much from the
+								expected behavior.</p>
+						</div>
+					</section>
 				</section>
 
 				<script src="js/jquery-1.9.1.min.js"></script>
@@ -254,7 +290,7 @@
 		</div>
 
 		<footer>
-			<div class="ink-container ink">
+			<div class="ink-container">
 				<p>Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto
 					&amp; Laboratório SAPO/U.Porto</p>
 				<p>&copy; 2013 José Luís da Silva Devezas</p>
