@@ -42,6 +42,19 @@ AddZeroMonths <- function(d, month.range=NA) {
   return(result)
 }
 
+AddZeroWeekdays <- function(d) {
+  all.artists <- unique(d$artist)
+  
+  result <- data.frame(weekday = c(sapply(0:6, function(m) rep(m, length(all.artists)))))
+  result <- cbind(result, artist = rep(all.artists, 7))
+  result <- merge(d, result, by.x=c("weekday", "artist"), by.y=c("weekday", "artist"), all.y=TRUE)
+  na.pos <- which(is.na(result$plays))
+  if (length(na.pos) > 0)
+    result[na.pos,]$plays <- 0
+  
+  return(result)
+}
+
 AddZeroHours <- function(d) {
   result <- data.frame(hour=0:23)
   result <- merge(d, result, by=c("hour"), all=TRUE)
@@ -82,6 +95,7 @@ user.stats <- data.frame(id=levels(users$id),
                         plays.max=rep(NA, nrow(users)))
 
 monthly.artist.plays <- list()
+weekly.artist.plays <- list()
 monthly.ranks <- list()
 adoption.by.rank <- list()
 hourly.total.plays <- data.frame(user=character(), hour=character(), plays=character());
@@ -93,6 +107,7 @@ for (user.id in users$id) {
   songs <- read.table(paste(paste(baseDir, user.id, sep="/"), "csv", sep="."), quote="", sep="\t", fill=T)
   names(songs) <- c("id", "timestamp", "artid", "artname", "traid", "traname")
   songs$month <- strftime(as.Date(songs$timestamp), "%Y-%m")
+  songs$weekday <- strftime(as.Date(songs$timestamp), "%w")
   songs$hour <- as.numeric(format(as.POSIXct(songs$timestamp, format="%Y-%m-%dT%H:%M:%SZ"), format="%H"))
   
   # Hourly number of plays for each user.
@@ -100,10 +115,14 @@ for (user.id in users$id) {
   names(user.hourly.total.plays) <- c("hour", "plays")
   hourly.total.plays <- rbind(hourly.total.plays, cbind(user=rep(user.id, 24), AddZeroHours(user.hourly.total.plays)))
   
-  # Monthly number of plays for each artist.
+  # Monthly number of plays for each artist, per user.
   monthly.artist.plays[[user.id]] <- with(songs, aggregate(artname, by=list(month, artname), length))
   names(monthly.artist.plays[[user.id]]) <- c("month", "artist", "plays")
   
+  # Weekly number of plays for each artist, per user.
+  weekly.artist.plays[[user.id]] <- with(songs, aggregate(artname, by=list(weekday, artname), length))
+  names(weekly.artist.plays[[user.id]]) <- c("weekday", "artist", "plays")
+
   # Unique artists listened by the user.
   user.stats[which(user.stats$id == user.id),]$unique.artists <- nlevels(monthly.artist.plays[[user.id]]$artist)
   
@@ -166,7 +185,7 @@ write.csv(user.stats, file=paste(baseDir, "user-stats.csv", sep="/"), row.names=
 write.csv(hourly.total.plays, file=paste(baseDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
 
 for (user.id in users$id) {
-  print(paste("Writing analysis data for ", user.id, "...", sep=" "))
+  print(paste("Writing analysis data for ", user.id, "...", sep=""))
   
   # Top overall artists.
   overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
@@ -177,6 +196,12 @@ for (user.id in users$id) {
   write.csv(AddZeroMonths(monthly.artist.plays[[user.id]][
     which(monthly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
             file=paste(paste(baseDir, user.id, sep="/"), "_monthly_activity.csv", sep=""),
+            row.names=FALSE)
+  
+  # Fill the weekly time series with zeros for missing values and export to CSV.
+  write.csv(AddZeroWeekdays(weekly.artist.plays[[user.id]][
+    which(weekly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
+            file=paste(paste(baseDir, user.id, sep="/"), "_weekly_activity.csv", sep=""),
             row.names=FALSE)
 }
 
@@ -238,9 +263,8 @@ for (country in country.rank) {
            function(h) RotateHour(h, hour.offset))
 }
 
-# To make it readable only.
+# Reorder for better readability.
 norm.hourly.plays.by.country <- norm.hourly.plays.by.country[with(norm.hourly.plays.by.country, order(country, hour)), ]
-
 
 #
 # Cluster hourly music listening behavior by country.

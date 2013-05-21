@@ -40,13 +40,13 @@
 
 		<nav class="ink-container ink-navigation">
 			<ul class="horizontal menu black">
-				<li><a href="#about-me-and-my-phd">About Me and My PhD</a></li>
+				<li><a href="index.html#about-me-and-my-phd">About Me and My PhD</a></li>
 				<li>
-					<a href="#visualizing-listening-behavior">Visualizing Listening Behavior
+					<a href="index.html#listening-behavior">Listening Behavior
 						<i class="icon-caret-down"></i></a>
 					<ul class="submenu">
-						<li><a href="#vlb-monthly">Monthly User-Centric Analysis</a></li>
-						<li><a href="#vlb-hourly">Hourly Global Analysis</a></li>
+						<li><a href="vlb-user-centric.html">User-Centric Analysis</a></li>
+						<li><a href="vlb-global.html">Global Analysis</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -77,226 +77,29 @@
 
 				<section id="visualizing-listening-behavior">
 					<div class="ink-vspace">
-						<h3>Visualizing Listening Behavior</h3>
+						<h3>Listening Behavior</h3>
 
-						<p>We present a visualization based on the monthly analysis of the
-							<a href="http://www.last.fm">Last.fm</a> dataset provided by Oscar Celma, aggregating
-							scrobble information for 1,000 users crawled randomly from his neighborhood. This data can
-							be found <a href="http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html">here</a>.</p>
+						<p>We present an exploratory analysis, supported on data visualization, depicting the hourly,
+							weekly and monthly behavior, globally as well as for individual users, based on the
+							<a href="http://www.last.fm">Last.fm</a> dataset provided by Oscar Celma, which comprises
+							scrobble information for nearly 1,000 users crawled randomly from his neighborhood. This data
+							can	be found <a href="http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html">here</a>.</p>
+
+						<p>Available analyses include a set of <a href="vlb-user-centric.html">user-centric interactive
+								visualizations</a>, as well as a set of <a href="vlb-global.html">global overview plots</a>.</p>
 					</div>
-
-					<section id="vlb-monthly">
-						<div class="ink-vspace">
-							<h4>Monthly User-Centric Analysis</h4>
-
-							<p>Explore listening behavior by selecting a user below. You can type a country to filter
-								by country or a number to filter by age.</p>
-
-							<div id="control">
-								<select id="user-select"></select>&nbsp;
-								<button id="button-previous" class="ink-button">Previous</button>
-								<button id="button-next" class="ink-button">Next</button>
-								<span id="user-country"></span>
-								<span id="user-age"></span>
-								<span id="user-gender"></span>
-							</div>
-						</div>
-
-						<div class="ink-vspace">
-							<h5>Streamgraph for the User's Top 20 Overall Artists</h5>
-							<div class="ink-vspace">
-								<div id="stream-tooltip"></div>
-								<div id="stream-graph"></div>
-							</div>
-						</div>
-
-						<div class="ink-vspace">
-							<h5>Monthly Play Count for <span id="artist-name">Most Frequently Listened Artist</span><h5>
-							<div class="ink-vspace">
-								<div id="artist-tooltip"></div>
-								<div id="artist-chart"></div>
-							</div>
-						</div>
-					</section>
-
-					<section id="vlb-hourly">
-						<div class="ink-vspace">
-							<h4>Hourly Global Analysis</h4>
-							<p>We've grouped data by the hour of the day and analyzed behavior by gender and country.
-								While male and female music listening behaviors are very similar, listening habits seem
-								to behave differently for different countries.</p>
-						</div>
-
-						<div class="ink-vspace">
-							<h5>Gender</h5>
-
-							<p>Below you can find an hourly chart for the total number of plays in the dataset,
-								distinguishing between male, female and unknown genders.</p>
-
-							<div class="ink-vspace">
-								<img src="img/charts/hourly_scrobbles_by_gender.png"/>
-							</div>
-						</div>
-
-						<div class="ink-vspace">
-							<h5>Country</h5>
-
-							<p>Here you can see the hourly music plays distribution for each country in the dataset. Each
-								bar indicates the fraction of music listened in the given country at each hour of the day.
-								We've sorted facets from the country with the most global plays to the country with the least
-								global plays. We've also clustered similar hourly behavior using k-means on this normalized
-								hourly data. We used <em>k</em>=3 which resulted in the cluster that achieved the best
-								silhouette value among the clusters generated with <em>k</em> from 2 to 6.</p>
-
-							<p>Note that in the original dataset, timestamps were in the UTC time standard. In order to
-								offer a fair comparison between countries, we shifted the hour in each country by the mean
-								time zone offset. Also notice that, as we approach the countries at the bottom, there is
-								less data supporting those countries behaviors.</p>
-
-							<div class="ink-vspace">
-								<img src="img/charts/hourly_scrobbles_by_country.png"/>
-							</div>
-
-							<p>The following two charts illustrate the two different behaviors identified by the clustering
-								process. At first, we thought averaging the time zone would have influenced the minimum shifting,
-							  however we found out that the countries in both clusters have a variable number of time zones,
-							  which indicates that it wasn't a factor that highly influenced the clustering.</p>
-							
-							<div class="ink-vspace">
-								<h6>Behavior 1</h6>
-								<p>This depicts a country that is either more active during the night, sleeping late, or
-									who has people with many different schedules. It includes countries like China who are
-									well known for their intensive working habits.</p>
-								<img src="img/charts/hourly_scrobbles_by_country_behavior_1.png"/>
-							</div>
-
-							<div class="ink-vspace">
-								<h6>Behavior 2</h6>
-								<p>This depicts a country with low activity during the night, and that listens to music
-									frequently while awake. It includes most of the countries, depicting the expected
-									behavior of inactivity during the night.</p>
-								<img src="img/charts/hourly_scrobbles_by_country_behavior_2.png"/>
-							</div>
-
-							<p>Even though there are two distinctive listening habits among different countries, we
-								believe they are not very different overall and that they do not deviate much from the
-								expected behavior.</p>
-						</div>
-					</section>
 				</section>
-
-				<script src="js/jquery-1.9.1.min.js"></script>
-				<script src="js/select2.min.js"></script>
-				<script src="js/date.js"></script>
-				<script src="js/d3.v3.min.js"></script>
-				<script src="js/jld.js"></script>
-				<script>
-					var vis = null;
-					var opt = {
-						streamgraph: "#stream-graph",
-						streamtooltip: "#stream-tooltip",
-						artistchart: "#artist-chart",
-						artisttooltip: "#artist-tooltip",
-						artistname: "#artist-name"
-					};
-
-					d3.tsv("data/userid-profile.tsv", function(data) {
-						var $drop = $("#user-select");
-
-						data.forEach(function(row) {
-							var $optGroup = $drop.find("optgroup[label='" + row.country + "']");
-
-							if ($optGroup.length == 0) {
-								$optGroup = $("<optgroup>").attr("label", row.country);
-								$drop.append($optGroup);
-							}
-							
-							$optGroup.append($("<option>")
-								.val(row.id)
-								.attr("data-country", row.country)
-								.attr("data-age", row.age)
-								.attr("data-gender", row.gender)
-								.text(row.id));
-						});
-
-						$drop.select2({
-							width: 300,
-							matcher: function(term, text, opt) {
-								if (!isNaN(parseFloat(term)) && isFinite(term))
-									return opt.attr("data-age") == term;
-
-								var termUpper = term.toUpperCase();
-								return text.toUpperCase().indexOf(termUpper)>=0
-									|| opt.attr("data-country").toUpperCase().indexOf(termUpper) >= 0;
-							}
-						}).on("change", function(e) {
-							var $selected = $("#user-select").find("option[value='" + $(this).val() + "']");
-							var country = $selected.attr("data-country");
-							var age = $selected.attr("data-age");
-							var gender = $selected.attr("data-gender");
-
-							if (country != "")
-								$("#user-country").html("&nbsp;<strong>from:</strong> " + country);
-							else
-								$("#user-country").html("");
-								
-							if (age != "")
-								$("#user-age").html("&nbsp;<strong>age:</strong> " + age);
-							else
-								$("#user-age").html("");
-							
-							if (gender != "")
-								$("#user-gender").html("&nbsp;<strong>gender:</strong> "
-									+ (gender == "m" ? "male" : (gender == "f" ? "female" : gender)));
-							else
-								$("#user-gender").html("");
-
-							if (vis != null) vis.clear();
-
-							d3.csv("data/" + $(this).val() + "_monthly_activity.csv", function(data) {
-								vis = new JldVisualization(data, opt);
-								vis.listeningBehaviorStreamGraph();
-								vis.listeningBehaviorArtistChart(vis.mostFrequentArtist());
-							});
-
-							var selectedIndex = $("#user-select").prop("selectedIndex");
-							
-							if ((selectedIndex+1) >= $("#user-select").find("option").length)
-								$("#button-next").prop("disabled", true);
-							else
-								$("#button-next").prop("disabled", false);
-
-							if (selectedIndex <= 0)
-								$("#button-previous").prop("disabled", true);
-							else
-								$("#button-previous").prop("disabled", false);
-						});
-
-						$("#user-select").val("user_000001").change();
-
-						$("#button-previous")
-							.on("click", function() {
-								var selectedIndex = $("#user-select").prop("selectedIndex");
-								$("#user-select").prop("selectedIndex", selectedIndex-1).change();
-							});
-							
-						$("#button-next")
-							.on("click", function() {
-								var selectedIndex = $("#user-select").prop("selectedIndex");
-								$("#user-select").prop("selectedIndex", selectedIndex+1).change();
-							});
-					});
-				</script>
 			</div>
 		</div>
 
-		<footer>
-			<div class="ink-container">
-				<p>Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto
-					&amp; Laboratório SAPO/U.Porto</p>
-				<p>&copy; 2013 José Luís da Silva Devezas</p>
-			</div>
-		</footer>
+		<div class="ink-vspace">
+			<footer>
+				<div class="ink-container">
+					<p>Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto
+						&amp; Laboratório SAPO/U.Porto</p>
+					<p>&copy; 2013 José Luís da Silva Devezas</p>
+				</div>
+			</footer>
+		</div>
 	</body>
-
 </html>

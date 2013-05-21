@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>
+			Community-Driven Music Discovery
+		</title>
+		<meta name="description" content="">
+		<meta name="author" content="phd, visualization, devezas, music, discovery, communities, social">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<!--link rel="shortcut icon" href="http://ink.local/assets/img/ink-favicon.ico">
+		<link rel="apple-touch-icon-precomposed" href="../img/touch-icon.57.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/touch-icon.72.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/touch-icon.114.png">
+		<link rel="apple-touch-startup-image" href="../img/splash.320x460.png"
+		media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
+		<link rel="apple-touch-startup-image" href="../img/splash.768x1004.png"
+		media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+		<link rel="apple-touch-startup-image" href="../img/splash.1024x748.png"
+		media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)"-->
+		<link rel="stylesheet" type="text/css" href="css/ink-min.css">
+		<link rel="stylesheet" type="text/css" href="css/select2.css">
+		<link rel="stylesheet" type="text/css" href="css/jld.css">
+		<!--[if lte IE 7 ]>
+		<link rel="stylesheet" href="css/ink-ie-min.css" type="text/css" media="screen"
+		title="no title" charset="utf-8">
+		<![endif]-->
+	</head>
+
+	<body>
+		<header class="ink-container ink-for-l">
+			<div class="ink-vspace">
+				<h1 class="">Community-Driven Music Discovery</h1>
+				<p>José Devezas, Computer Science PhD student @ DCC&ndash;FCUP.</p>
+			</div>
+		</header>
+
+		<nav class="ink-container ink-navigation">
+			<ul class="horizontal menu black">
+				<li><a href="index.html#about-me-and-my-phd">About Me and My PhD</a></li>
+				<li>
+					<a href="index.html#listening-behavior">Listening Behavior
+						<i class="icon-caret-down"></i></a>
+					<ul class="submenu">
+						<li><a href="vlb-user-centric.html">User-Centric Analysis</a></li>
+						<li><a href="vlb-global.html">Global Analysis</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+
+		<header class="ink-container ink-for-m ink-for-s">
+			<div class="ink-vspace">
+				<h1 class="">Community-Driven Music Discovery</h1>
+				<p>José Devezas, Computer Science PhD student @ DCC&ndash;FCUP.</p>
+			</div>
+		</header>		
+		
+		<div class="ink-container">
+			<div class="ink-l100 ink-m100 ink-m100">
+				<section id="vlb-global">
+					<div class="ink-vspace">
+						<h4>Global Analysis</h4>
+						<p>We've grouped data by the hour of the day and analyzed behavior by gender and country.
+							While male and female music listening behaviors are very similar, listening habits seem
+							to behave differently for different countries.</p>
+					</div>
+
+					<div class="ink-vspace">
+						<h5>Hourly by Gender</h5>
+
+						<p>Below you can find an hourly chart for the total number of plays in the dataset,
+							distinguishing between male, female and unknown genders.</p>
+
+						<div class="ink-vspace">
+							<img src="img/charts/hourly_scrobbles_by_gender.png"/>
+						</div>
+					</div>
+
+					<div class="ink-vspace">
+						<h5>Hourly by Country</h5>
+
+						<p>Here you can see the hourly music plays distribution for each country in the dataset. Each
+							bar indicates the fraction of music listened in the given country at each hour of the day.
+							We've sorted facets from the country with the most global plays to the country with the least
+							global plays. We've also clustered similar hourly behavior using k-means on this normalized
+							hourly data. We used <em>k</em>=3 which resulted in the cluster that achieved the best
+							silhouette value among the clusters generated with <em>k</em> from 2 to 6.</p>
+
+						<p>Note that in the original dataset, timestamps were in the UTC time standard. In order to
+							offer a fair comparison between countries, we shifted the hour in each country by the mean
+							time zone offset. Also notice that, as we approach the countries at the bottom, there is
+							less data supporting those countries behaviors.</p>
+
+						<div class="ink-vspace">
+							<img src="img/charts/hourly_scrobbles_by_country.png"/>
+						</div>
+
+						<p>The following two charts illustrate the two different behaviors identified by the clustering
+							process. At first, we thought averaging the time zone would have influenced the minimum shifting,
+							however we found out that the countries in both clusters have a variable number of time zones,
+							which indicates that it wasn't a factor that highly influenced the clustering.</p>
+						
+						<div class="ink-vspace">
+							<h6>Behavior 1</h6>
+							<p>This depicts a country that is either more active during the night, sleeping late, or
+								who has people with many different schedules. It includes countries like China who are
+								well known for their intensive working habits.</p>
+							<img src="img/charts/hourly_scrobbles_by_country_behavior_1.png"/>
+						</div>
+
+						<div class="ink-vspace">
+							<h6>Behavior 2</h6>
+							<p>This depicts a country with low activity during the night, and that listens to music
+								frequently while awake. It includes most of the countries, depicting the expected
+								behavior of inactivity during the night.</p>
+							<img src="img/charts/hourly_scrobbles_by_country_behavior_2.png"/>
+						</div>
+
+						<p>Even though there are two distinctive listening habits among different countries, we
+							believe they are not very different overall and that they do not deviate much from the
+							expected behavior.</p>
+					</div>
+				</section>
+			</div>
+		</div>
+
+		<div class="ink-vspace">
+			<footer>
+				<div class="ink-container">
+					<p>Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto
+						&amp; Laboratório SAPO/U.Porto</p>
+					<p>&copy; 2013 José Luís da Silva Devezas</p>
+				</div>
+			</footer>
+		</div>
+	</body>
+</html>

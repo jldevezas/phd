@@ -1,8 +1,6 @@
 #stream-graph {
 	position: relative;
 	margin-top: 20px;
-	font-size: 14px;
-	font-weight: bold;
 	height: 400px;
 }
 
@@ -18,30 +16,29 @@
 	font-size: 11px;
 }
 
-#artist-chart {
-	font-size: 14px;
+#artist-monthly-chart, #artist-weekly-chart {
 	height: 300px;
 }
 
-#artist-tooltip {
+#artist-monthly-tooltip, #artist-weekly-tooltip, #top-artist-weekly-tooltip {
 	display: none;
 	position: absolute;
 	padding: 5px 10px;
 	border: 1px solid black;
 	border-radius: 12px;
-	font-family: "Georgia", "Times", serif;
-	font-size: 16px;
 	text-shadow: 0 0 3px WhiteSmoke, 0 0 3px WhiteSmoke;
 	background: white;
+}
+
+#control {
+	padding: 5px 10px;
+	border-radius: 10px;
+	background: #ddd;
 }
 
 #control .ink-button {
 	font-size: 12px;
 	margin-left: 0;
-}
-
-.submenu {
-	min-width: 250px;
 }
 
 .select2-container, .select2-drop {
@@ -50,6 +47,27 @@
 
 .select2-results {
 	max-height: 300px;
+}
+
+select {
+	max-width: 200px;
+}
+
+footer {
+ /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f0f0f0), to(#f7f7f7));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #f0f0f0, #f7f7f7);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top, #f0f0f0, #f7f7f7);
+
+  /* IE 10 */
+  background: -ms-linear-gradient(top, #f0f0f0, #f7f7f7);
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top, #f0f0f0, #f7f7f7);
 }
 
 .axis path,
@@ -63,6 +81,16 @@
 	fill: steelblue;
 }
 
+.bar-week {
+	fill: seagreen;
+}
+
 .x.axis path {
 	display: none;
+}
+
+.top-artist-text {
+	font-size: smaller;
+	font-weight: bold;
+	text-shadow: 0 0 3px WhiteSmoke;
 }
