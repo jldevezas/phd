@@ -3,6 +3,7 @@
 #
 
 baseDir <- "~/Desktop/lastfm-dataset-1K"
+outputDir <- "~/Desktop/lastfm-dataset-1K/output"
 
 # Dates range from 2005-02-14 00:00:07 to 2013-09-29 18:32:04.
 maxMonthRange <- c("2005-02", "2013-09")
@@ -72,6 +73,83 @@ RotateHour <- function(hour, offset) {
   }
   
   return (new.hour)
+}
+
+weekdays <- factor(c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"),
+                   levels=c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"))
+Weekdays <- function(weekdays.numeric) {
+  paste(weekdays[unique(weekdays.numeric)], sep="/", collapse="/")
+}
+
+# Try to determine if an artist has a preferred play weekday for the given user.
+WeeklyAnalysis <- function(df, user.id, artist, charts=FALSE, info=FALSE, threshold=1.5, reject.range=c(0, 0.1)) {
+  udf <- AddZeroWeekdays(df[[user.id]])
+  user.plays <- aggregate(udf$plays, by=list(udf$weekday), sum)$x
+  user.plays <- user.plays / max(user.plays)  
+  
+  plays <- AddZeroWeekdays(df[[user.id]][
+    which(df[[user.id]]$artist == artist), ])$plays
+  plays <- plays / max(plays) * (1 / user.plays)
+  
+  listens <- data.frame(weekday=0:6, score=as.numeric(apply(sapply(plays, function(e) plays - e * threshold), 1, sum)))
+  listens$accept <- listens$score > 0
+  
+  if (charts) {
+    #par(mfrow=c(1, 2))
+    #barplot(user.plays, names.arg=weekdays[1:7])
+    #title(user.id)
+    #barplot(listens$score, names.arg=weekdays[listens$weekday+1], col=palette()[as.numeric(listens$accept) + 1])
+    #title(paste(user.id, artist, sep="+"))
+    #print(listens)
+    
+    require("ggplot2")
+    filename <- paste("preferred_listening_weekday_", user.id, "_", artist, ".png", sep="")
+    png(file=paste(outputDir, filename, sep="/"), width=450, height=350)
+    print(ggplot(listens, aes(x=weekdays[weekday+1], y=score, fill=factor(accept, levels=c(T, F)))) +
+            geom_bar(stat="identity") +
+            labs(x="Weekdays", y="Overall Distance Score") +
+            scale_fill_brewer(name="Accept", palette="Dark2") +
+            theme_gray(base_size = 14, base_family="Ubuntu Medium") +
+            theme(legend.position="top"))
+    dev.off()
+    
+    filename <- paste(user.id, "_weekly_scrobbles.png", sep="")
+    png(file=paste(outputDir, filename, sep="/"), width=450, height=350)
+    print(ggplot(data.frame(weekday=0:6, plays=user.plays), aes(x=weekdays[weekday+1], y=plays)) +
+            geom_bar(stat="identity") +
+            labs(x="Weekdays", y="Plays (Normalized by Maximum)") +
+            theme_gray(base_size = 14, base_family="Ubuntu Medium") +
+            theme(legend.position="top"))
+    dev.off()
+  }
+  
+  ret <- list(user.id=user.id,
+              artist=artist,
+              preferred.listening.weekdays="",
+              avoided.listening.weekdays="",
+              mean.plays=mean(plays),
+              sd.plays=sd(plays),
+              var.plays=var(plays))
+
+  wd <- which(listens$accept)
+  if (length(wd) >= 1 && length(wd) <= 3) {
+    if (info) {
+      print(paste(artist, "is a", Weekdays(wd), "artist for", user.id))
+    }
+    ret$preferred.listening.weekdays <- Weekdays(listens$weekday[wd]+1)
+  } else if (info) {
+    print(paste(user.id, "doesn't have a specific weekday to listen to", artist))
+  }
+  
+  wd <- which(plays >= reject.range[1] & plays <= reject.range[2])
+  if (length(wd) >= 1 && length(wd) <= 3) {
+    if (info) {
+      print(paste(user.id, "nearly doesn't listen to", artist, "on", Weekdays(wd)))
+    }
+    ret$avoided.listening.weekdays <- Weekdays(listens$weekday[wd]+1)
+  }
+
+  return(ret)
 }
 
 
@@ -181,8 +259,8 @@ hourly.total.plays <- merge(hourly.total.plays, users[, c(1,2,4)], by.x="user", 
 # Write results to files.
 #
 
-write.csv(user.stats, file=paste(baseDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
-write.csv(hourly.total.plays, file=paste(baseDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
+write.csv(user.stats, file=paste(outputDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
+write.csv(hourly.total.plays, file=paste(outputDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
 
 for (user.id in users$id) {
   print(paste("Writing analysis data for ", user.id, "...", sep=""))
@@ -195,13 +273,13 @@ for (user.id in users$id) {
   # Fill the monthly time series with zeros for missing values and export to CSV.
   write.csv(AddZeroMonths(monthly.artist.plays[[user.id]][
     which(monthly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
-            file=paste(paste(baseDir, user.id, sep="/"), "_monthly_activity.csv", sep=""),
+            file=paste(paste(outputDir, user.id, sep="/"), "_monthly_activity.csv", sep=""),
             row.names=FALSE)
   
   # Fill the weekly time series with zeros for missing values and export to CSV.
   write.csv(AddZeroWeekdays(weekly.artist.plays[[user.id]][
     which(weekly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
-            file=paste(paste(baseDir, user.id, sep="/"), "_weekly_activity.csv", sep=""),
+            file=paste(paste(outputDir, user.id, sep="/"), "_weekly_activity.csv", sep=""),
             row.names=FALSE)
 }
 
@@ -332,7 +410,7 @@ names(hourly.plays.by.gender) <- c("gender", "hour", "plays")
 
 require(ggplot2)
 
-png(file=paste(baseDir, "hourly_scrobbles_by_gender.png", sep="/"), width=900, height=350)
+png(file=paste(outputDir, "hourly_scrobbles_by_gender.png", sep="/"), width=900, height=350)
 ggplot(hourly.plays.by.gender[order(hourly.plays.by.gender$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
   geom_bar(stat="identity") +
   scale_fill_manual(name="Gender", labels=c("NA", "Female", "Male"), values=c("gray40", "violetred2", "skyblue1")) +
@@ -341,7 +419,7 @@ ggplot(hourly.plays.by.gender[order(hourly.plays.by.gender$gender), ], aes(x=fac
   theme_gray(base_size = 14, base_family="Ubuntu Medium")
 dev.off()
 
-png(file=paste(baseDir, "hourly_scrobbles_by_country.png", sep="/"), width=900*3, height=2000*3)
+png(file=paste(outputDir, "hourly_scrobbles_by_country.png", sep="/"), width=900*3, height=2000*3)
 ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster))) +
   geom_bar(stat="identity") +
   scale_fill_brewer(name="Behavior Type", palette=2, type="qual") +
@@ -354,7 +432,7 @@ dev.off()
 require(RColorBrewer)
 pal <- brewer.pal(3, name="Dark2")
 
-png(file=paste(baseDir, "hourly_scrobbles_by_country_behavior_1.png", sep="/"), width=900, height=350)
+png(file=paste(outputDir, "hourly_scrobbles_by_country_behavior_1.png", sep="/"), width=900, height=350)
 center <- data.frame(hour=0:23, plays=as.numeric(best.cluster$centers[1, ]))
 ggplot(center) +
   geom_bar(aes(x=hour, y=plays), fill=pal[1], stat="identity") +
@@ -363,7 +441,7 @@ ggplot(center) +
   theme(legend.position="top")
 dev.off()
 
-png(file=paste(baseDir, "hourly_scrobbles_by_country_behavior_2.png", sep="/"), width=900, height=350)
+png(file=paste(outputDir, "hourly_scrobbles_by_country_behavior_2.png", sep="/"), width=900, height=350)
 center <- data.frame(hour=0:23, plays=as.numeric(best.cluster$centers[2, ]))
 ggplot(center) +
   geom_bar(aes(x=hour, y=plays), fill=pal[2], stat="identity") +
@@ -383,6 +461,32 @@ sapply(names(best.cluster$cluster[which(best.cluster$cluster == 1)]), function(c
   length(unique(tzdb[which(tzdb$zone.id %in% country.zone.ids
                            & tzdb$time.start > as.numeric(Sys.time())), ]$gmt.offset))
   })
+
+# Identify weekdays that show a different behavior from the remaining.
+weekly.analysis <- data.frame(user.id=character(0),
+                              artist=character(0),
+                              preferred.listening.weekdays=character(0),
+                              avoided.listening.weekdays=character(0),
+                              mean.plays=numeric(0),
+                              sd.plays=numeric(0),
+                              var.plays=numeric(0))
+for (user.id in users$id) {
+  print(paste("Processing", user.id))
+  
+  # Top overall artists.
+  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
+  names(overall.ranks) <- c("artist", "plays")
+  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
+  
+  for (artist in head(overall.ranks, 100)$artist) {
+    new.data <- WeeklyAnalysis(weekly.artist.plays, user.id, artist)
+    weekly.analysis$user.id <- as.character(weekly.analysis$user.id)
+    weekly.analysis$artist <- as.character(weekly.analysis$artist)
+    weekly.analysis$preferred.listening.weekdays <- as.character(weekly.analysis$preferred.listening.weekdays)
+    weekly.analysis$avoided.listening.weekdays <- as.character(weekly.analysis$avoided.listening.weekdays)
+    weekly.analysis <- rbind(weekly.analysis, new.data)
+  }
+}
 
 #
 # Clean up temporary variables.
