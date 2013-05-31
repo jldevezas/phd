@@ -82,7 +82,8 @@ Weekdays <- function(weekdays.numeric) {
 }
 
 # Try to determine if an artist has a preferred play weekday for the given user.
-WeeklyAnalysis <- function(df, user.id, artist, charts=FALSE, info=FALSE, threshold=1.5, reject.range=c(0, 0.1)) {
+WeeklyAnalysis <- function(df, user.id, artist, charts=FALSE, info=FALSE,
+                           approve.threshold=1.5, reject.range=c(0, 0.1)) {
   udf <- AddZeroWeekdays(df[[user.id]])
   user.plays <- aggregate(udf$plays, by=list(udf$weekday), sum)$x
   user.plays <- user.plays / max(user.plays)  
@@ -91,7 +92,8 @@ WeeklyAnalysis <- function(df, user.id, artist, charts=FALSE, info=FALSE, thresh
     which(df[[user.id]]$artist == artist), ])$plays
   plays <- plays / max(plays) * (1 / user.plays)
   
-  listens <- data.frame(weekday=0:6, score=as.numeric(apply(sapply(plays, function(e) plays - e * threshold), 1, sum)))
+  listens <- data.frame(weekday=0:6, score=as.numeric(apply(
+    sapply(plays, function(e) plays - e * approve.threshold), 1, sum)))
   listens$accept <- listens$score > 0
   
   if (charts) {
@@ -256,11 +258,43 @@ hourly.total.plays <- merge(hourly.total.plays, users[, c(1,2,4)], by.x="user", 
 
 
 #
+# Identify weekdays that show a different behavior from the remaining.
+#
+
+weekly.analysis <- data.frame(user.id=character(0),
+                              artist=character(0),
+                              preferred.listening.weekdays=character(0),
+                              avoided.listening.weekdays=character(0),
+                              mean.plays=numeric(0),
+                              sd.plays=numeric(0),
+                              var.plays=numeric(0))
+
+for (user.id in users$id) {
+  print(paste("Processing", user.id))
+  
+  # Top overall artists.
+  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
+  names(overall.ranks) <- c("artist", "plays")
+  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
+  
+  for (artist in head(overall.ranks, 100)$artist) {
+    new.data <- WeeklyAnalysis(weekly.artist.plays, user.id, artist)
+    weekly.analysis$user.id <- as.character(weekly.analysis$user.id)
+    weekly.analysis$artist <- as.character(weekly.analysis$artist)
+    weekly.analysis$preferred.listening.weekdays <- as.character(weekly.analysis$preferred.listening.weekdays)
+    weekly.analysis$avoided.listening.weekdays <- as.character(weekly.analysis$avoided.listening.weekdays)
+    weekly.analysis <- rbind(weekly.analysis, new.data)
+  }
+}
+
+
+#
 # Write results to files.
 #
 
 write.csv(user.stats, file=paste(outputDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
 write.csv(hourly.total.plays, file=paste(outputDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
+write.csv(weekly.analysis, file=paste(outputDir, "weekly-analysis.csv", sep="/"), row.names=FALSE)
 
 for (user.id in users$id) {
   print(paste("Writing analysis data for ", user.id, "...", sep=""))
@@ -462,31 +496,6 @@ sapply(names(best.cluster$cluster[which(best.cluster$cluster == 1)]), function(c
                            & tzdb$time.start > as.numeric(Sys.time())), ]$gmt.offset))
   })
 
-# Identify weekdays that show a different behavior from the remaining.
-weekly.analysis <- data.frame(user.id=character(0),
-                              artist=character(0),
-                              preferred.listening.weekdays=character(0),
-                              avoided.listening.weekdays=character(0),
-                              mean.plays=numeric(0),
-                              sd.plays=numeric(0),
-                              var.plays=numeric(0))
-for (user.id in users$id) {
-  print(paste("Processing", user.id))
-  
-  # Top overall artists.
-  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
-  names(overall.ranks) <- c("artist", "plays")
-  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
-  
-  for (artist in head(overall.ranks, 100)$artist) {
-    new.data <- WeeklyAnalysis(weekly.artist.plays, user.id, artist)
-    weekly.analysis$user.id <- as.character(weekly.analysis$user.id)
-    weekly.analysis$artist <- as.character(weekly.analysis$artist)
-    weekly.analysis$preferred.listening.weekdays <- as.character(weekly.analysis$preferred.listening.weekdays)
-    weekly.analysis$avoided.listening.weekdays <- as.character(weekly.analysis$avoided.listening.weekdays)
-    weekly.analysis <- rbind(weekly.analysis, new.data)
-  }
-}
 
 #
 # Clean up temporary variables.
