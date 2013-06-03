@@ -1,0 +1,4 @@
+- You have to create your own configuration file first.
+- You need to register an API account to get the API key and secret.
+- The password is configured using MD5 directly, which you can get by running
+  md5 -s "your_password" on Mac OS X for example.

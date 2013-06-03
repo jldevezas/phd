@@ -1,0 +1,6 @@
+API_KEY=b25b959554ed76058ac220b7b2e0a026
+API_SECRET=425b55975eed76058ac220b7b4e8a054
+USERNAME=your_user_name
+PASSWORD_MD5=1060b7b46a3bd36b3a0d66e0127d0517
+SEED_USERNAME=user_to_start_crawling_from
+SQLITE_DB=/path/to/output.db
