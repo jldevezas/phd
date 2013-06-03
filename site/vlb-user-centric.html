@@ -115,6 +115,65 @@
 							</div>
 						</div>
 					</div>
+
+					<div class="ink-vspace">
+						<div class="ink-l100">
+							<div class="ink-vspace">
+								<h5>Weekly Analysis</h5>
+								<p>After an initial exploratory analysis supported on our visualizations, we noticed that
+									certain artists were played more frequently on some days of the week, while other artists
+									were avoided on different weekdays.</p>
+
+								<p>In order to try and confirm this, we devised a simple heuristic based on the dissimilarity
+									matrix, where we measured the "closeness" of the play count for each weekday to every other
+									play count of the given artist. All values were normalized and combined with the inverse of the
+									normalized weekly total play count for the user, thus giving more weight to a peak, as it is
+									further apart from the listening behavior for the given weekday. This means that the preferred
+									listening days for some artists might not directly map to the peaks in the weekly play count
+									chart above!</p>
+								
+								<p>The avoided weekdays were simply selected based on the closeness to zero. In this case, we
+									used the interval [0, 0.1] simply to identify low values. We are more interested on the positives
+									though. We illustrate our technique below.</p>
+							</div>
+
+							<div class="ink-l100">
+								<div class="ink-vspace">
+									<div class="ink-l50">
+										<h6>Weekly Play Count for user_000196</h6>
+										<div class="ink-vspace">
+											<img src="img/charts/user_000196_weekly_scrobbles.png"/>
+										</div>
+									</div>
+									<div class="ink-l50">
+										<h6>Weekly Play Count for user_000196 for Lamb</h6>
+										<div class="ink-vspace">
+											<img src="img/charts/preferred_listening_weekday_user_000196_Lamb.png"/>
+										</div>
+									</div>
+									
+									<p>The chart on the left shows the normalized weekly play count distribution for the user. As
+										you can see, the value 1.00, on Sunday, corresponds to the day when <em>user_000196</em>
+										listens to music the most. This also means that, according to our heuristic, peaks on Sunday
+										are less meaningful than peaks on Friday, the weekday when the user listens to music the
+										least.</p>
+								</div>
+							</div>
+
+							<div class="ink-l50">
+								<h6>Preferred Weekdays for Top 10 Artists</h6>
+								<div class="ink-space">
+									<div id="preferred-weekdays"></div>
+								</div>
+							</div>
+							<div class="ink-l50">
+								<h6>Avoided Weekdays for Top 10 Artists</h6>
+								<div class="ink-space">
+									<div id="avoided-weekdays"></div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</section>
 
 				<script src="js/Ink.js"></script>
@@ -135,7 +194,9 @@
 						artistweeklytooltip: "#artist-weekly-tooltip",
 						artistweeklyname: "#artist-weekly-name",
 						topartistweeklychart: "#top-artist-weekly-chart",
-						topartistweeklytooltip: "#top-artist-weekly-tooltip"
+						topartistweeklytooltip: "#top-artist-weekly-tooltip",
+						preferredweekdays: "#preferred-weekdays",
+						avoidedweekdays: "#avoided-weekdays"
 					};
 
 					d3.tsv("data/userid-profile.tsv", function(data) {
@@ -190,7 +251,7 @@
 								$("#user-gender").html("");
 
 							if (vis != null) vis.clear();
-							vis = new JldVisualization(null, null, opt);
+							vis = new JldVisualization(null, null, null, opt);
 
 							var userId = $(this).val();
 							d3.csv("data/" + userId + "_monthly_activity.csv", function(monthlyData) {
@@ -206,6 +267,12 @@
 								vis.listeningBehaviorWeeklyArtistChart(vis.mostFrequentArtist(weeklyData));
 								vis.listeningBehaviorWeeklyTopArtistChart();
 							});
+							
+							d3.csv("data/" + userId + "_weekly_analysis.csv", function(weeklyAnalysisData) {
+								vis.setWeeklyAnalysisData(weeklyAnalysisData);
+								vis.makeWeeklyAnalysisTable(10);
+							});
+
 
 							var selectedIndex = $("#user-select").prop("selectedIndex");
 							

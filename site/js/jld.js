@@ -1,8 +1,9 @@
-var JldVisualization = function (monthlyData, weeklyData, containers) {
+var JldVisualization = function (monthlyData, weeklyData, weeklyAnalysisData, containers) {
 	this.weekdays = [ "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" ];
 
 	this.data = monthlyData;
 	this.weeklyData = weeklyData;
+	this.weeklyAnalysisData = weeklyAnalysisData;
 	this.containers = containers;
 	this.defaultArtistName = d3.select(containers.artistmonthlyname).text();
 	
@@ -32,6 +33,54 @@ JldVisualization.prototype.setWeeklyData = function(data) {
 	jld.weeklyData.forEach(function(row) {
 		row.weekday = jld.weekdays[+row.weekday];
 		row.plays = +row.plays;
+	});
+};
+
+JldVisualization.prototype.setWeeklyAnalysisData = function(data) {
+	var jld = this;
+
+	jld.weeklyAnalysisData = data;
+	
+	/*if (data == null) return;
+
+	jld.weeklyAnalysisData.forEach(function(row) {
+	});*/
+};
+
+JldVisualization.prototype.makeWeeklyAnalysisTable = function(limit) {
+	var jld = this;
+
+	$(jld.containers.preferredweekdays)
+		.append($("<table>").addClass("ink-table")
+			.append($("<thead>")
+				.append($("<tr>")
+					.append($("<th>").text("Artist"))
+					.append($("<th>").text("Preferred Weekday"))))
+			.append($("<tbody>")));
+	
+	$(jld.containers.avoidedweekdays)
+		.append($("<table>").addClass("ink-table")
+			.append($("<thead>")
+				.append($("<tr>")
+					.append($("<th>").text("Artist"))
+					.append($("<th>").text("Avoided Weekday"))))
+			.append($("<tbody>")));
+
+	var counter = 0;
+	jld.weeklyAnalysisData.forEach(function(row) {
+		if (limit != undefined && counter++ >= limit) return;
+
+		var prefInfo = row["preferred.listening.weekdays"] == "" ? "None" : row["preferred.listening.weekdays"];
+		$(jld.containers.preferredweekdays + " tbody")
+			.append($("<tr>").addClass(prefInfo == "None" ? "fade" : "")
+				.append($("<td>").text(row["artist"]))
+				.append($("<td>").text(prefInfo)));
+
+		var avoiInfo = row["avoided.listening.weekdays"] == "" ? "None" : row["avoided.listening.weekdays"];
+		$(jld.containers.avoidedweekdays + " tbody")
+			.append($("<tr>").addClass(avoiInfo == "None" ? "fade" : "")
+				.append($("<td>").text(row["artist"]))
+				.append($("<td>").text(avoiInfo)));
 	});
 };
 

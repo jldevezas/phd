@@ -16,6 +16,10 @@
 	font-size: 11px;
 }
 
+#preferred-weekdays, #avoided-weekdays {
+	min-height: 500px;
+}
+
 #artist-monthly-chart, #artist-weekly-chart {
 	height: 300px;
 }
@@ -47,6 +51,10 @@
 
 .select2-results {
 	max-height: 300px;
+}
+
+.fade {
+	color: #bbb;
 }
 
 select {

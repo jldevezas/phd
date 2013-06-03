@@ -178,10 +178,16 @@ monthly.artist.plays <- list()
 weekly.artist.plays <- list()
 monthly.ranks <- list()
 adoption.by.rank <- list()
+overall.ranks <- list()
 hourly.total.plays <- data.frame(user=character(), hour=character(), plays=character());
 
 for (user.id in users$id) {
   print(paste("Processing ", user.id, "...", sep=""))
+  
+  # Ranked artists per user.
+  overall.ranks[[user.id]] <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
+  names(overall.ranks[[user.id]]) <- c("artist", "plays")
+  overall.ranks[[user.id]] <- overall.ranks[[user.id]][order(overall.ranks[[user.id]]$plays, decreasing=T),]
   
   # Songs listened by the user.
   songs <- read.table(paste(paste(baseDir, user.id, sep="/"), "csv", sep="."), quote="", sep="\t", fill=T)
@@ -261,29 +267,31 @@ hourly.total.plays <- merge(hourly.total.plays, users[, c(1,2,4)], by.x="user", 
 # Identify weekdays that show a different behavior from the remaining.
 #
 
-weekly.analysis <- data.frame(user.id=character(0),
-                              artist=character(0),
-                              preferred.listening.weekdays=character(0),
-                              avoided.listening.weekdays=character(0),
-                              mean.plays=numeric(0),
-                              sd.plays=numeric(0),
-                              var.plays=numeric(0))
-
+weekly.analysis <- list()
 for (user.id in users$id) {
   print(paste("Processing", user.id))
   
-  # Top overall artists.
-  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
-  names(overall.ranks) <- c("artist", "plays")
-  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
+  weekly.analysis[[user.id]] <- data.frame(artist=character(0),
+                                           preferred.listening.weekdays=character(0),
+                                           avoided.listening.weekdays=character(0),
+                                           mean.plays=numeric(0),
+                                           sd.plays=numeric(0),
+                                           var.plays=numeric(0))
   
-  for (artist in head(overall.ranks, 100)$artist) {
+  # DELETEME This is now precomputed, since it's used so often.
+  # Top overall artists.
+  #overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
+  #names(overall.ranks) <- c("artist", "plays")
+  #overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
+  
+  for (artist in head(overall.ranks[[user.id]], 50)$artist) {
     new.data <- WeeklyAnalysis(weekly.artist.plays, user.id, artist)
-    weekly.analysis$user.id <- as.character(weekly.analysis$user.id)
-    weekly.analysis$artist <- as.character(weekly.analysis$artist)
-    weekly.analysis$preferred.listening.weekdays <- as.character(weekly.analysis$preferred.listening.weekdays)
-    weekly.analysis$avoided.listening.weekdays <- as.character(weekly.analysis$avoided.listening.weekdays)
-    weekly.analysis <- rbind(weekly.analysis, new.data)
+    weekly.analysis[[user.id]]$artist <- as.character(weekly.analysis[[user.id]]$artist)
+    weekly.analysis[[user.id]]$preferred.listening.weekdays <-
+      as.character(weekly.analysis[[user.id]]$preferred.listening.weekdays)
+    weekly.analysis[[user.id]]$avoided.listening.weekdays <-
+      as.character(weekly.analysis[[user.id]]$avoided.listening.weekdays)
+    weekly.analysis[[user.id]] <- rbind(weekly.analysis[[user.id]], new.data)
   }
 }
 
@@ -294,25 +302,31 @@ for (user.id in users$id) {
 
 write.csv(user.stats, file=paste(outputDir, "user-stats.csv", sep="/"), row.names=FALSE)                   
 write.csv(hourly.total.plays, file=paste(outputDir, "hourly-plays.csv", sep="/"), row.names=FALSE)
-write.csv(weekly.analysis, file=paste(outputDir, "weekly-analysis.csv", sep="/"), row.names=FALSE)
+
 
 for (user.id in users$id) {
   print(paste("Writing analysis data for ", user.id, "...", sep=""))
   
+  write.csv(weekly.analysis[[user.id]],
+            file=paste(outputDir, paste(user.id, "_weekly_analysis.csv", sep=""), sep="/"),
+            row.names=FALSE)  
+  
+  # DELETEME This is now precomputed, since it's used so often.
   # Top overall artists.
-  overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
-  names(overall.ranks) <- c("artist", "plays")
-  overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
+  #overall.ranks <- with(monthly.artist.plays[[user.id]], aggregate(artist, by=list(artist), length))
+  #names(overall.ranks) <- c("artist", "plays")
+  #overall.ranks <- overall.ranks[order(overall.ranks$plays, decreasing=T),]
   
   # Fill the monthly time series with zeros for missing values and export to CSV.
+  # UNTESTED overall.ranks
   write.csv(AddZeroMonths(monthly.artist.plays[[user.id]][
-    which(monthly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
+    which(monthly.artist.plays[[user.id]]$artist %in% overall.ranks[[user.id]][1:20, ]$artist),]),
             file=paste(paste(outputDir, user.id, sep="/"), "_monthly_activity.csv", sep=""),
             row.names=FALSE)
   
   # Fill the weekly time series with zeros for missing values and export to CSV.
   write.csv(AddZeroWeekdays(weekly.artist.plays[[user.id]][
-    which(weekly.artist.plays[[user.id]]$artist %in% overall.ranks[1:20, ]$artist),]),
+    which(weekly.artist.plays[[user.id]]$artist %in% overall.ranks[[user.id]][1:20, ]$artist),]),
             file=paste(paste(outputDir, user.id, sep="/"), "_weekly_activity.csv", sep=""),
             row.names=FALSE)
 }
@@ -501,4 +515,4 @@ sapply(names(best.cluster$cluster[which(best.cluster$cluster == 1)]), function(c
 # Clean up temporary variables.
 #
 
-rm(i, j, user.id, plays, month, artists, overall.ranks, songs, user.adoption.by.rank)
+rm(i, j, user.id, plays, month, artists, songs, user.adoption.by.rank)
