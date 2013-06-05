@@ -14,6 +14,7 @@ import logging
 
 
 LIMIT = 1000
+MAX_RETRIES = 10
 
 
 logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
@@ -134,63 +135,75 @@ def createTrack(db, trackData, userId):
 
 
 def buildUserData(user):
-	userData = {}
-	userData["name"] = user.get_name()
-	userData["age"] = int(user.get_age())
+	retries = MAX_RETRIES
+	while retries > 0:
+		try:
+			userData = {}
+			userData["name"] = user.get_name()
+			userData["age"] = int(user.get_age())
 
-	gender = user.get_gender()
-	if gender == "Male":
-		userData["gender"] = "m"
-	elif gender == "Female":
-		userData["gender"] = "f"
-	else:
-		userData["gender"] = None
+			gender = user.get_gender()
+			if gender == "Male":
+				userData["gender"] = "m"
+			elif gender == "Female":
+				userData["gender"] = "f"
+			else:
+				userData["gender"] = None
 
-	country = user.get_country()
-	if country is None or country.get_name() is None:
-		userData["country"] = None
-	else:
-		userData["country"] = country.get_name().lower()
+			country = user.get_country()
+			if country is None or country.get_name() is None:
+				userData["country"] = None
+			else:
+				userData["country"] = country.get_name().lower()
 
-	userData["plays"] = int(user.get_playcount())
-	incRequests()
-	return userData
+			userData["plays"] = int(user.get_playcount())
+			incRequests()
+			return userData
+		except Exception as ex:
+			logging.error("%s (buildUserData retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
+			retries -= 1
 
 
 def buildTrackData(playedTrack):
-	track = playedTrack.track
+	retries = MAX_RETRIES
+	while retries > 0:
+		try:
+			track = playedTrack.track
 
-	trackData = {}
+			trackData = {}
 
-	# track.getInfo
-	trackData["title"] = track.get_title()
+			# track.getInfo
+			trackData["title"] = track.get_title()
 
-	album = track.get_album()
-	if album is None:
-		trackData["album"] = None
-	else:
-		trackData["album"] = album.get_title()
+			album = track.get_album()
+			if album is None:
+				trackData["album"] = None
+			else:
+				trackData["album"] = album.get_title()
 
-	artist = track.get_artist()
-	if artist is None:
-		trackData["artist"] = None
-	else:
-		trackData["artist"] = artist.get_name()
+			artist = track.get_artist()
+			if artist is None:
+				trackData["artist"] = None
+			else:
+				trackData["artist"] = artist.get_name()
 
-	trackData["id"] = track.get_id()
-	trackData["mbid"] = track.get_mbid()
-	trackData["duration"] = track.get_duration()
-	trackData["plays"] = track.get_playcount()
-	trackData["listeners"] = track.get_listener_count()
-	trackData["timestamp"] = int(playedTrack.timestamp)
-	incRequests()
+			trackData["id"] = track.get_id()
+			trackData["mbid"] = track.get_mbid()
+			trackData["duration"] = track.get_duration()
+			trackData["plays"] = track.get_playcount()
+			trackData["listeners"] = track.get_listener_count()
+			trackData["timestamp"] = int(playedTrack.timestamp)
+			incRequests()
 
-	# track.getTopTags
-	trackData["tags"] = [(t.item.get_name().lower(), int(t.weight))
-			for t in track.get_top_tags() if t.weight != "0"]
-	incRequests()
+			# track.getTopTags
+			trackData["tags"] = [(t.item.get_name().lower(), int(t.weight))
+					for t in track.get_top_tags() if t.weight != "0"]
+			incRequests()
+			return trackData
+		except Exception as ex:
+			logging.error("%s (buildTrackData retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
+			retries -= 1
 
-	return trackData
 
 def crawlUserNeighborhood(db, seedUsername):
 	neighborsVisited = set([])
@@ -211,32 +224,43 @@ def crawlUserNeighborhood(db, seedUsername):
 	
 	neighborsVisited.add(seedUsername)
 
-	logging.info("Getting %s's friends." % config["SEED_USERNAME"])
+	logging.info("Getting %s's friends." % seedUsername)
 	friends = seed.get_friends()
 	incRequests()
 
 	for friend in friends:
-		userData = buildUserData(friend)
-		friendUserId = createUser(db, userData)
-		
-		createFriendship(db, seedUserId, friendUserId)
+		retries = MAX_RETRIES
+		while retries > 0:
+			try:
+				userData = buildUserData(friend)
+				friendUserId = createUser(db, userData)
+				
+				createFriendship(db, seedUserId, friendUserId)
 
-		try:
-			logging.info("Getting %s's recent tracks." % userData["name"])
-			recentTracks = friend.get_recent_tracks()
-			incRequests()
-			for playedTrack in recentTracks:
-				trackData = buildTrackData(playedTrack)
-				createTrack(db, trackData, friendUserId)
-				sys.stdout.write('.')
-				sys.stdout.flush()
-			sys.stdout.write('\n')
-			neighborsVisited.add(userData["name"])
-		except pylast.WSError:
-			logging.warning("Skipping recent tracks for user %s" % userData["name"])
+				try:
+					logging.info("Getting %s's recent tracks." % userData["name"])
+					recentTracks = friend.get_recent_tracks()
+					incRequests()
+					for playedTrack in recentTracks:
+						trackData = buildTrackData(playedTrack)
+						createTrack(db, trackData, friendUserId)
+						sys.stdout.write('.')
+						sys.stdout.flush()
+					sys.stdout.write('\n')
+					neighborsVisited.add(userData["name"])
+				except pylast.WSError:
+					logging.warning("Skipping recent tracks for user %s" % userData["name"])
+				retries = 0
+			except Exception as ex:
+				logging.error("%s (retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
+				retries -= 1
 	
 	return neighborsVisited
 
+
+#
+# =x= MAIN =x=
+#
 
 if len(sys.argv) < 2:
 	print("Usage: %s lastfm-crawler.config" % os.path.basename(sys.argv[0]))
@@ -264,8 +288,8 @@ seedUsers.add(config["SEED_USERNAME"])
 
 while len(usersExpanded) < LIMIT and len(seedUsers) > 0:
 	startUser = seedUsers.pop()
-	if not startUser in usersExpanded:
-		seedUsers = seedUsers.union(crawlUserNeighborhood(db, startUser))
-		usersExpanded.add(startUser)
+	if startUser in usersExpanded: continue
+	seedUsers = seedUsers.union(crawlUserNeighborhood(db, startUser))
+	usersExpanded.add(startUser)
 
 db.close()
