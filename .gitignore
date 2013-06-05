@@ -1,2 +1,4 @@
 config/
 .Rproj.user
+.RData
+.Rhistory
