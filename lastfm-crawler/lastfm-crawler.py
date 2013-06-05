@@ -162,6 +162,7 @@ def buildUserData(user):
 		except Exception as ex:
 			logging.error("%s (buildUserData retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
 			retries -= 1
+	return None
 
 
 def buildTrackData(playedTrack):
@@ -203,6 +204,7 @@ def buildTrackData(playedTrack):
 		except Exception as ex:
 			logging.error("%s (buildTrackData retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
 			retries -= 1
+	return None
 
 
 def crawlUserNeighborhood(db, seedUsername):
@@ -210,6 +212,11 @@ def crawlUserNeighborhood(db, seedUsername):
 
 	seed = network.get_user(seedUsername)
 	userData = buildUserData(seed)
+	
+	if userData is None:
+		logging.warning("Failed to retrieve user %s data, skipping." % seedUsername)
+		return neighborsVisited
+
 	seedUserId = createUser(db, userData)
 
 	logging.info("Getting %s's recent tracks." % seedUsername)
@@ -217,6 +224,9 @@ def crawlUserNeighborhood(db, seedUsername):
 	incRequests()
 	for playedTrack in recentTracks:
 		trackData = buildTrackData(playedTrack)
+		if trackData is None:
+			logging.warning("Failed to retrieve track data, skipping.")
+			continue
 		createTrack(db, trackData, seedUserId)
 		sys.stdout.write('.')
 		sys.stdout.flush()
