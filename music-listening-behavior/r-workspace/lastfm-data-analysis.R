@@ -1,4 +1,13 @@
 #
+# LastFm Data Analysis
+# José Devezas (joseluisdevezas@gmail.com)
+#
+# Based on the Last.fm Dataset -- 1K Users, by Oscar Celma.
+# Available here: http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-1K.html
+#
+
+
+#
 # Configurations and constants.
 #
 
