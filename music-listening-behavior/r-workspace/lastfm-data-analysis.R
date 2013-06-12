@@ -486,6 +486,17 @@ ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster
   theme(legend.position="top")
 dev.off()
 
+# Same as above, but with more columns.
+png(file=paste(outputDir, "hourly_scrobbles_by_country-5cols.png", sep="/"), width=5/4 * 900 * 3, height=5/6 * 2000 * 3)
+ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster))) +
+  geom_bar(stat="identity") +
+  scale_fill_brewer(name="Behavior Type", palette=2, type="qual") +
+  facet_wrap( ~ country, ncol=5) +
+  labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
+  theme_gray(base_size = 5/4 * 14 * 3, base_family="Ubuntu Medium") +
+  theme(legend.position="top")
+dev.off()
+
 require(RColorBrewer)
 pal <- brewer.pal(3, name="Dark2")
 
