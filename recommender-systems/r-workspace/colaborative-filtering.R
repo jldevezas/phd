@@ -14,6 +14,11 @@ if (!require("NMF")) {
   install.extras("NMF")
 }
 
+if (!require("irlba")) {
+  install.packages("irlba")
+  library(irlba)
+}
+
 
 baseDir <- "~/Desktop/profiledata_06-May-2005"
 outputDir <- "~/Desktop/profiledata_06-May-2005/output"
