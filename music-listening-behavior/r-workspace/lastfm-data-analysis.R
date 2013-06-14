@@ -6,13 +6,39 @@
 # Available here: http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-1K.html
 #
 
+#
+# Required packages
+#
+
+if (!require("extrafont")) {
+  install.packages("extrafont")
+  library(extrafont)
+  #font_import()
+  loadfonts()
+}
+
+if (!require("ggplot2")) {
+  install.packages("ggplot2")
+  library(ggplot2)
+}
+
+if (!require(cluster)) {
+  install.packages("cluster")
+  library(cluster)
+}
+
+if (!require(RColorBrewer)) {
+  install.packages("RColorBrewer")
+  library(RColorBrewer)
+}
+
 
 #
 # Configurations and constants.
 #
 
-baseDir <- "~/Desktop/lastfm-dataset-1K"
-outputDir <- "~/Desktop/lastfm-dataset-1K/output"
+baseDir <- "/Users/jldevezas/Desktop/lastfm-dataset-1K"
+outputDir <- "/Users/jldevezas/Desktop/lastfm-dataset-1K/output"
 
 # Dates range from 2005-02-14 00:00:07 to 2013-09-29 18:32:04.
 maxMonthRange <- c("2005-02", "2013-09")
@@ -113,25 +139,22 @@ WeeklyAnalysis <- function(df, user.id, artist, charts=FALSE, info=FALSE,
     #title(paste(user.id, artist, sep="+"))
     #print(listens)
     
-    require("ggplot2")
-    filename <- paste("preferred_listening_weekday_", user.id, "_", artist, ".png", sep="")
-    png(file=paste(outputDir, filename, sep="/"), width=450, height=350)
-    print(ggplot(listens, aes(x=weekdays[weekday+1], y=score, fill=factor(accept, levels=c(T, F)))) +
+    filename <- paste("preferred_listening_weekday_", user.id, "_", artist, ".pdf", sep="")
+    p <- ggplot(listens, aes(x=weekdays[weekday+1], y=score, fill=factor(accept, levels=c(T, F)))) +
             geom_bar(stat="identity") +
             labs(x="Weekdays", y="Overall Distance Score") +
             scale_fill_brewer(name="Accept", palette="Dark2") +
-            theme_gray(base_size = 14, base_family="Ubuntu Medium") +
-            theme(legend.position="top"))
-    dev.off()
+            theme_gray(base_size = 22, base_family="Ubuntu") +
+            theme(legend.position="top")
+    ggsave(paste(outputDir, filename, sep="/"), width=9, height=7)
     
-    filename <- paste(user.id, "_weekly_scrobbles.png", sep="")
-    png(file=paste(outputDir, filename, sep="/"), width=450, height=350)
-    print(ggplot(data.frame(weekday=0:6, plays=user.plays), aes(x=weekdays[weekday+1], y=plays)) +
+    filename <- paste(user.id, "_weekly_scrobbles.pdf", sep="")
+    ggplot(data.frame(weekday=0:6, plays=user.plays), aes(x=weekdays[weekday+1], y=plays)) +
             geom_bar(stat="identity") +
             labs(x="Weekdays", y="Plays (Normalized by Maximum)") +
-            theme_gray(base_size = 14, base_family="Ubuntu Medium") +
-            theme(legend.position="top"))
-    dev.off()
+            theme_gray(base_size = 22, base_family="Ubuntu") +
+            theme(legend.position="top")
+    ggsave(paste(outputDir, filename, sep="/"), width=9, height=7)
   }
   
   ret <- list(user.id=user.id,
@@ -161,6 +184,28 @@ WeeklyAnalysis <- function(df, user.id, artist, charts=FALSE, info=FALSE,
   }
 
   return(ret)
+}
+
+
+WithShortCountryName <- function(df) {
+  new.df <- df
+  new.levels <- levels(df$country)
+  new.df$country <- as.character(new.df$country)
+  
+  new.df[which(new.df$country == "Congo, the Democratic Republic of the"), ]$country <- "Congo"
+  new.df[which(new.df$country == "Korea, Democratic People's Republic of"), ]$country <- "Korea"
+  new.df[which(new.df$country == "British Indian Ocean Territory"), ]$country <- "Chagos Islands"
+  new.df[which(new.df$country == "Northern Mariana Islands"), ]$country <- "N. Mariana Islands"
+  new.df[which(new.df$country == "Bosnia and Herzegovina"), ]$country <- "Bosnia Herzegovina"
+  
+  new.levels[which(new.levels == "Congo, the Democratic Republic of the")] <- "Congo"
+  new.levels[which(new.levels == "Korea, Democratic People's Republic of")] <- "Korea"
+  new.levels[which(new.levels == "British Indian Ocean Territory")] <- "Chagos Islands"
+  new.levels[which(new.levels == "Northern Mariana Islands")] <- "N. Mariana Islands"
+  new.levels[which(new.levels == "Bosnia and Herzegovina")] <- "Bosnia Herzegovina"
+  
+  new.df$country <- factor(new.df$country, levels=new.levels)
+  return(new.df)
 }
 
 
@@ -306,6 +351,16 @@ for (user.id in users$id) {
 
 
 #
+# Create some WeeklyAnalysis charts as example.
+#
+
+WeeklyAnalysis(weekly.artist.plays, "user_000001", "4Hero", charts=TRUE)
+WeeklyAnalysis(weekly.artist.plays, "user_000162", "Die Ärzte", charts=TRUE)
+WeeklyAnalysis(weekly.artist.plays, "user_000162", "Madonna", charts=TRUE)
+WeeklyAnalysis(weekly.artist.plays, "user_000196", "Björk", charts=TRUE)
+WeeklyAnalysis(weekly.artist.plays, "user_000196", "Lamb", charts=TRUE)
+
+#
 # Write results to files.
 #
 
@@ -353,14 +408,12 @@ names(hourly.plays.by.country) <- c("country", "hour", "plays")
 norm.hourly.plays.by.country <- hourly.plays.by.country
 norm.hourly.plays.by.country$plays <- norm.hourly.plays.by.country$plays /
   plays.by.country[norm.hourly.plays.by.country$country]
-# These are, in fact, valid locations, but Netherlands Antilles has too little data. United States Minor
-# Outlying Islands should however be added back in the next run (or replaced by a country with few data).
-not.country <- c("", "Netherlands Antilles", "United States Minor Outlying Islands")
+skip.country <- c("", "Netherlands Antilles", "United States Minor Outlying Islands")
 norm.hourly.plays.by.country <- norm.hourly.plays.by.country[
-  -which(norm.hourly.plays.by.country$country %in% not.country), ]
+  -which(norm.hourly.plays.by.country$country %in% skip.country), ]
 norm.hourly.plays.by.country$country <- factor(norm.hourly.plays.by.country$country, levels=country.rank)
 country.rank <- names(sort(plays.by.country, decreasing=TRUE))
-country.rank <- country.rank[-which(country.rank %in% not.country)]
+country.rank <- country.rank[-which(country.rank %in% skip.country)]
 
 
 #
@@ -410,8 +463,6 @@ norm.hourly.plays.by.country <- norm.hourly.plays.by.country[with(norm.hourly.pl
 # we can simply use silhouette to find the best k.
 #
 
-require(cluster)
-
 dp <- matrix(nrow=length(country.rank), ncol=24)
 rownames(dp) <- country.rank
 colnames(dp) <- paste(0:23, "h", sep="")
@@ -426,7 +477,7 @@ for (k in 2:6) {
   sil[k] <- summary(silhouette(cl[[k]]$cluster, dist(dp)))$avg.width
 }
 best.cluster <- cl[[which.max(sil)]]
-norm.hourly.plays.by.country$cluster <- best.cluster$cluster[norm.hourly.plays.by.country$country]
+norm.hourly.plays.by.country$cluster <- best.cluster$cluster[as.character(norm.hourly.plays.by.country$country)]
 
 
 #
@@ -439,7 +490,7 @@ hourly.plays.by.gender <- aggregate(hourly.total.plays$plays,
                                             hourly.total.plays$hour),
                                     sum)
 names(hourly.plays.by.gender) <- c("country", "gender", "hour", "plays")
-hourly.plays.by.gender <- hourly.plays.by.gender[-which(hourly.plays.by.gender$country %in% not.country), ]
+hourly.plays.by.gender <- hourly.plays.by.gender[-which(hourly.plays.by.gender$country %in% skip.country), ]
 
 for (country in country.rank) {
   country.zone.ids <- unique(tzdb[which(as.character(tzdb$country) == country), ]$zone.id)
@@ -465,58 +516,40 @@ names(hourly.plays.by.gender) <- c("gender", "hour", "plays")
 # Beautiful charts.
 #
 
-require(ggplot2)
-
-png(file=paste(outputDir, "hourly_scrobbles_by_gender.png", sep="/"), width=900, height=350)
-ggplot(hourly.plays.by.gender[order(hourly.plays.by.gender$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
+p <- ggplot(hourly.plays.by.gender[order(hourly.plays.by.gender$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
   geom_bar(stat="identity") +
   scale_fill_manual(name="Gender", labels=c("NA", "Female", "Male"), values=c("gray40", "violetred2", "skyblue1")) +
   labs(x="Hour of the Day", y="Number of Scrobbled Songs") +
   guides(fill = guide_legend(reverse = TRUE)) +
-  theme_gray(base_size = 14, base_family="Ubuntu Medium")
-dev.off()
+  theme_gray(base_size = 14, base_family="Ubuntu")
+ggsave(paste(boutputDir, "hourly_scrobbles_by_gender.pdf", sep="/"), p, width=9, height=3.5)
 
-png(file=paste(outputDir, "hourly_scrobbles_by_country.png", sep="/"), width=900*3, height=2000*3)
-ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster))) +
-  geom_bar(stat="identity") +
-  scale_fill_brewer(name="Behavior Type", palette=2, type="qual") +
-  facet_wrap( ~ country, ncol=4) +
-  labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
-  theme_gray(base_size = 14*3, base_family="Ubuntu Medium") +
-  theme(legend.position="top")
-dev.off()
-
-# Same as above, but with more columns.
-png(file=paste(outputDir, "hourly_scrobbles_by_country-5cols.png", sep="/"), width=5/4 * 900 * 3, height=5/6 * 2000 * 3)
-ggplot(norm.hourly.plays.by.country, aes(x=hour, y=plays, fill=as.factor(cluster))) +
+p <- ggplot(WithShortCountryName(norm.hourly.plays.by.country), aes(x=hour, y=plays, fill=as.factor(cluster))) +
   geom_bar(stat="identity") +
   scale_fill_brewer(name="Behavior Type", palette=2, type="qual") +
   facet_wrap( ~ country, ncol=5) +
   labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
-  theme_gray(base_size = 5/4 * 14 * 3, base_family="Ubuntu Medium") +
+  theme_gray(base_size = 18, base_family="Ubuntu") +
   theme(legend.position="top")
-dev.off()
+ggsave(paste(outputDir, "hourly_scrobbles_by_country.pdf", sep="/"), p, width=11.25, height=16.5)
 
-require(RColorBrewer)
 pal <- brewer.pal(3, name="Dark2")
 
-png(file=paste(outputDir, "hourly_scrobbles_by_country_behavior_1.png", sep="/"), width=900, height=350)
 center <- data.frame(hour=0:23, plays=as.numeric(best.cluster$centers[1, ]))
-ggplot(center) +
+p <- ggplot(center) +
   geom_bar(aes(x=hour, y=plays), fill=pal[1], stat="identity") +
   labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
-  theme_gray(base_size = 14, base_family="Ubuntu Medium") +
+  theme_gray(base_size = 14, base_family="Ubuntu") +
   theme(legend.position="top")
-dev.off()
+ggsave(paste(outputDir, "hourly_scrobbles_by_country_behavior_1.pdf", sep="/"), p, width=9, height=3.5)
 
-png(file=paste(outputDir, "hourly_scrobbles_by_country_behavior_2.png", sep="/"), width=900, height=350)
 center <- data.frame(hour=0:23, plays=as.numeric(best.cluster$centers[2, ]))
-ggplot(center) +
+p <- ggplot(center) +
   geom_bar(aes(x=hour, y=plays), fill=pal[2], stat="identity") +
   labs(x="Hour of the Day", y="Fraction of Scrobbled Songs") +
-  theme_gray(base_size = 14, base_family="Ubuntu Medium") +
+  theme_gray(base_size = 14, base_family="Ubuntu") +
   theme(legend.position="top")
-dev.off()
+ggsave(paste(outputDir, "hourly_scrobbles_by_country_behavior_2.pdf", sep="/"), p, width=9, height=3.5)
 
 
 #

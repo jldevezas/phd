@@ -19,6 +19,11 @@ if (!require("irlba")) {
   library(irlba)
 }
 
+if (!require("scidb")) {
+  install.packages("scidb")
+  library(scidb)
+}
+
 
 baseDir <- "~/Desktop/profiledata_06-May-2005"
 outputDir <- "~/Desktop/profiledata_06-May-2005/output"
@@ -96,7 +101,7 @@ SvdPredictRating <- function(ratings, user.latent.features, user.idx, item.idx, 
 
 
 plays <- read.delim(paste(baseDir, "user_artist_data.txt", sep="/"), sep=" ",
-                    header=FALSE, nrow=10000, col.names=c("user", "artist", "count"))
+                    header=FALSE, nrow=1000, col.names=c("user", "artist", "count"))
 
 # Original data (used for testing).
 ratings <- FillMissing(UserItemCountToMatrix(plays), method="zeros")
@@ -117,7 +122,7 @@ test.user.item <- ratings.test.idx[sample(1:nrow(ratings.test.idx), 1), ]
 names(test.user.item) <- c("user.idx", "item.idx")
 test.user.idx <- as.numeric(test.user.item)[1]
 test.item.idx <- as.numeric(test.user.item)[2]
-res.svd <- SvdPredictRating(ratings.train, fact.svd$u, test.user.idx, test.item.idx)
+res.svd <- SvdPredictRating(ratings.train, fact.svd$u %*% diag(fact.svd$d), test.user.idx, test.item.idx)
 
 # Evaluate based on the difference of each candidate rating compared to real rating.
 # A better value should be the closest to the real value.
