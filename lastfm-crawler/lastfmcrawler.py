@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf8 -*-
 #
-# lastfm-crawler.py
+# lastfmcrawler.py
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-06-03
 
