@@ -20,11 +20,11 @@ MAX_RETRIES = 10
 logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
 		datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
 requests = 0
-usersExpanded = set([])
-seedUsers = set([])
+users_expanded = set([])
+seed_users = set([])
 
 
-def incRequests():
+def inc_requests():
 	global requests
 	requests += 1
 	if requests % 5 == 0:
@@ -32,7 +32,7 @@ def incRequests():
 		time.sleep(1)
 
 
-def createSchema(db):
+def create_schema(db):
 	c = db.cursor()
 
 	c.execute("CREATE TABLE IF NOT EXISTS tracks " +
@@ -57,29 +57,29 @@ def createSchema(db):
 	db.commit()
 
 
-def createFriendship(db, firstUid, secondUid):
+def create_friendship(db, first_uid, second_uid):
 	c = db.cursor()
 
 	c.execute("SELECT first_user_id, second_user_id FROM friends " +
 			"WHERE (first_user_id = ? OR first_user_id = ?) AND " +
-			"(second_user_id = ? OR second_user_id = ?)", (firstUid, secondUid, firstUid, secondUid))
+			"(second_user_id = ? OR second_user_id = ?)", (first_uid, second_uid, first_uid, second_uid))
 
 	res = c.fetchone()
 	if res != None: return
 
 	c.execute("INSERT OR IGNORE INTO friends (first_user_id, second_user_id) VALUES(?,?)",
-			(firstUid, secondUid))
+			(first_uid, second_uid))
 
 	c.close()
 	db.commit()
 	
-	logging.info("Created new friendship between users %d and %d" % (firstUid, secondUid))
+	logging.info("Created new friendship between users %d and %d" % (first_uid, second_uid))
 
 
-def createUser(db, userData):
+def create_user(db, user_data):
 	c = db.cursor()
 
-	c.execute("SELECT ROWID FROM users where name = ?", (userData["name"], ))
+	c.execute("SELECT ROWID FROM users where name = ?", (user_data["name"], ))
 	res = c.fetchone()
 	
 	if res != None:
@@ -87,36 +87,36 @@ def createUser(db, userData):
 		return res[0]
 
 	c.execute("INSERT OR IGNORE INTO users (name, age, gender, country, plays) VALUES(?,?,?,?,?)",
-			(userData["name"], userData["age"], userData["gender"], userData["country"], userData["plays"]))
+			(user_data["name"], user_data["age"], user_data["gender"], user_data["country"], user_data["plays"]))
 
 	db.commit()
 
 	c.execute("SELECT last_insert_rowid()")
-	userId = c.fetchone()[0]
+	user_id = c.fetchone()[0]
 	c.close()
 
-	logging.info("Created new user with ID %d" % userId)
+	logging.info("Created new user with ID %d" % user_id)
 
-	return userId
+	return user_id
 
 
-def createTrack(db, trackData, userId):
+def create_track(db, track_data, user_id):
 	c = db.cursor()
 
-	trackId = None
+	track_id = None
 	try:
 		c.execute("INSERT INTO tracks (lastfm_id, mbid, title, album, artist, timestamp, duration, plays, " +
 				"listeners, user_id)" + "VALUES(?,?,?,?,?,?,?,?,?,?)",
-				(trackData["id"], trackData["mbid"], trackData["title"], trackData["album"],
-					trackData["artist"], trackData["timestamp"], trackData["duration"], trackData["plays"],
-					trackData["listeners"], userId))
+				(track_data["id"], track_data["mbid"], track_data["title"], track_data["album"],
+					track_data["artist"], track_data["timestamp"], track_data["duration"], track_data["plays"],
+					track_data["listeners"], user_id))
 		c.execute("SELECT last_insert_rowid()")
-		trackId = c.fetchone()[0]
+		track_id = c.fetchone()[0]
 	except sqlite3.IntegrityError:
 		return
 
-	for tagData in trackData["tags"]:
-		(tag, weight) = tagData
+	for tag_data in track_data["tags"]:
+		(tag, weight) = tag_data
 		tag = tag.lower()
 
 		c.execute("SELECT ROWID FROM tags WHERE name = ?", (tag,))
@@ -126,146 +126,146 @@ def createTrack(db, trackData, userId):
 			c.execute("SELECT last_insert_rowid()")
 			res = c.fetchone()
 		
-		tagId = res[0]
+		tag_id = res[0]
 		c.execute("INSERT OR REPLACE INTO tracks_tags (track_id, tag_id, weight) VALUES (?,?,?)",
-				(trackId, tagId, weight))
+				(track_id, tag_id, weight))
 
 	db.commit()
 	c.close()
 
 
-def buildUserData(user):
+def build_user_data(user):
 	retries = MAX_RETRIES
 	while retries > 0:
 		try:
-			userData = {}
-			userData["name"] = user.get_name()
-			userData["age"] = int(user.get_age())
+			user_data = {}
+			user_data["name"] = user.get_name()
+			user_data["age"] = int(user.get_age())
 
 			gender = user.get_gender()
 			if gender == "Male":
-				userData["gender"] = "m"
+				user_data["gender"] = "m"
 			elif gender == "Female":
-				userData["gender"] = "f"
+				user_data["gender"] = "f"
 			else:
-				userData["gender"] = None
+				user_data["gender"] = None
 
 			country = user.get_country()
 			if country is None or country.get_name() is None:
-				userData["country"] = None
+				user_data["country"] = None
 			else:
-				userData["country"] = country.get_name().lower()
+				user_data["country"] = country.get_name().lower()
 
-			userData["plays"] = int(user.get_playcount())
-			incRequests()
-			return userData
+			user_data["plays"] = int(user.get_playcount())
+			inc_requests()
+			return user_data
 		except Exception as ex:
-			logging.error("%s (buildUserData retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
+			logging.error("%s (build_user_data retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
 			retries -= 1
 	return None
 
 
-def buildTrackData(playedTrack):
+def build_track_data(played_track):
 	retries = MAX_RETRIES
 	while retries > 0:
 		try:
-			track = playedTrack.track
+			track = played_track.track
 
-			trackData = {}
+			track_data = {}
 
 			# track.getInfo
-			trackData["title"] = track.get_title()
+			track_data["title"] = track.get_title()
 
 			album = track.get_album()
 			if album is None:
-				trackData["album"] = None
+				track_data["album"] = None
 			else:
-				trackData["album"] = album.get_title()
+				track_data["album"] = album.get_title()
 
 			artist = track.get_artist()
 			if artist is None:
-				trackData["artist"] = None
+				track_data["artist"] = None
 			else:
-				trackData["artist"] = artist.get_name()
+				track_data["artist"] = artist.get_name()
 
-			trackData["id"] = track.get_id()
-			trackData["mbid"] = track.get_mbid()
-			trackData["duration"] = track.get_duration()
-			trackData["plays"] = track.get_playcount()
-			trackData["listeners"] = track.get_listener_count()
-			trackData["timestamp"] = int(playedTrack.timestamp)
-			incRequests()
+			track_data["id"] = track.get_id()
+			track_data["mbid"] = track.get_mbid()
+			track_data["duration"] = track.get_duration()
+			track_data["plays"] = track.get_playcount()
+			track_data["listeners"] = track.get_listener_count()
+			track_data["timestamp"] = int(played_track.timestamp)
+			inc_requests()
 
 			# track.getTopTags
-			trackData["tags"] = [(t.item.get_name().lower(), int(t.weight))
+			track_data["tags"] = [(t.item.get_name().lower(), int(t.weight))
 					for t in track.get_top_tags() if t.weight != "0"]
-			incRequests()
-			return trackData
+			inc_requests()
+			return track_data
 		except Exception as ex:
-			logging.error("%s (buildTrackData retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
+			logging.error("%s (build_track_data retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
 			retries -= 1
 	return None
 
 
-def crawlUserNeighborhood(db, seedUsername):
-	neighborsVisited = set([])
+def crawl_user_neighborhood(db, seed_username):
+	neighbors_visited = set([])
 
-	seed = network.get_user(seedUsername)
-	userData = buildUserData(seed)
+	seed = network.get_user(seed_username)
+	user_data = build_user_data(seed)
 	
-	if userData is None:
-		logging.warning("Failed to retrieve user %s data, skipping." % seedUsername)
-		return neighborsVisited
+	if user_data is None:
+		logging.warning("Failed to retrieve user %s data, skipping." % seed_username)
+		return neighbors_visited
 
-	seedUserId = createUser(db, userData)
+	seed_user_id = create_user(db, user_data)
 
-	logging.info("Getting %s's recent tracks." % seedUsername)
-	recentTracks = seed.get_recent_tracks()
-	incRequests()
-	for playedTrack in recentTracks:
-		trackData = buildTrackData(playedTrack)
-		if trackData is None:
+	logging.info("Getting %s's recent tracks." % seed_username)
+	recent_tracks = seed.get_recent_tracks()
+	inc_requests()
+	for played_track in recent_tracks:
+		track_data = build_track_data(played_track)
+		if track_data is None:
 			logging.warning("Failed to retrieve track data, skipping.")
 			continue
-		createTrack(db, trackData, seedUserId)
+		create_track(db, track_data, seed_user_id)
 		sys.stdout.write('.')
 		sys.stdout.flush()
 	sys.stdout.write('\n')
 	
-	neighborsVisited.add(seedUsername)
+	neighbors_visited.add(seed_username)
 
-	logging.info("Getting %s's friends." % seedUsername)
+	logging.info("Getting %s's friends." % seed_username)
 	friends = seed.get_friends()
-	incRequests()
+	inc_requests()
 
 	for friend in friends:
 		retries = MAX_RETRIES
 		while retries > 0:
 			try:
-				userData = buildUserData(friend)
-				friendUserId = createUser(db, userData)
+				user_data = build_user_data(friend)
+				friend_user_id = create_user(db, user_data)
 				
-				createFriendship(db, seedUserId, friendUserId)
+				create_friendship(db, seed_user_id, friend_user_id)
 
 				try:
-					logging.info("Getting %s's recent tracks." % userData["name"])
-					recentTracks = friend.get_recent_tracks()
-					incRequests()
-					for playedTrack in recentTracks:
-						trackData = buildTrackData(playedTrack)
-						createTrack(db, trackData, friendUserId)
+					logging.info("Getting %s's recent tracks." % user_data["name"])
+					recent_tracks = friend.get_recent_tracks()
+					inc_requests()
+					for played_track in recent_tracks:
+						track_data = build_track_data(played_track)
+						create_track(db, track_data, friend_user_id)
 						sys.stdout.write('.')
 						sys.stdout.flush()
 					sys.stdout.write('\n')
-					neighborsVisited.add(userData["name"])
+					neighbors_visited.add(user_data["name"])
 				except pylast.WSError:
-					logging.warning("Skipping recent tracks for user %s" % userData["name"])
+					logging.warning("Skipping recent tracks for user %s" % user_data["name"])
 				retries = 0
 			except Exception as ex:
 				logging.error("%s (retry %d)" % (str(ex), MAX_RETRIES - retries + 1))
 				retries -= 1
 	
-	return neighborsVisited
+	return neighbors_visited
 
 
 #
@@ -292,14 +292,14 @@ network = pylast.LastFMNetwork(
 
 logging.info("Creating SQLite database schema.")
 db = sqlite3.connect(config["SQLITE_DB"])
-createSchema(db)
+create_schema(db)
 
-seedUsers.add(config["SEED_USERNAME"])
+seed_users.add(config["SEED_USERNAME"])
 
-while len(usersExpanded) < LIMIT and len(seedUsers) > 0:
-	startUser = seedUsers.pop()
-	if startUser in usersExpanded: continue
-	seedUsers = seedUsers.union(crawlUserNeighborhood(db, startUser))
-	usersExpanded.add(startUser)
+while len(users_expanded) < LIMIT and len(seed_users) > 0:
+	start_user = seed_users.pop()
+	if start_user in users_expanded: continue
+	seed_users = seed_users.union(crawl_user_neighborhood(db, start_user))
+	users_expanded.add(start_user)
 
 db.close()
