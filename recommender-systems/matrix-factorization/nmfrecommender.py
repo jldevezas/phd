@@ -15,34 +15,13 @@ from collections import OrderedDict
 
 class NmfRecommender:
 	def __init__(self, h5filename):
-		self.model = None
-		self.h5filename = h5filename
 		logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
 				datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
 
+		self.model = None
+		self.h5filename = h5filename
+
 	def train(self, path, rank=10, sample_size=None, delimiter=' '):
-		logging.info("Loading data from %s" % path)
-		if sample_size is not None:
-			logging.info("Using sample size %d" % sample_size)
-
-		data = {}
-		counter = 0
-		items = set([])
-		with open(path, 'rb') as f:
-			reader = csv.reader(f, delimiter=delimiter)
-			for user, item, rating in reader:
-				if not user in data: data[user] = {}
-				data[user][item] = int(rating)
-				items.add(item)
-				
-				if sample_size is not None:
-					counter += 1
-					if counter >= sample_size: break
-
-		users = list(set(data.keys()))
-		items = list(items)
-
-		logging.info("Preparing %dx%d ratings matrix in HDF5 file" % (len(users), len(items)))
 		if os.path.exists(self.h5filename):
 			ans = None
 			while ans != 'y' and ans != 'n':
@@ -50,33 +29,67 @@ class NmfRecommender:
 			if ans != 'y': return
 			os.remove(self.h5filename)
 
-		with h5py.File(self.h5filename) as model:
-			model['ratings'] = np.zeros((len(users), len(items)))
+		with h5py.File(self.h5filename) as model, open(path, 'rb') as f_csv:
+			logging.info("Loading data from %s" % path)
+			if sample_size is not None:
+				logging.info("Using sample size %d" % sample_size)
+
+			matrix_size = (100, 100)
+			
+			logging.info("Starting with a %dx%d ratings matrix in HDF5 file" % matrix_size)
+			model.create_dataset('ratings', matrix_size, maxshape=(None, None))
+			model['ratings'][...] = 0
 			users_index = model.create_group('users')
 			items_index = model.create_group('items')
+			
+			row_counter = 0
+			user_counter = 0
+			item_counter = 0
+			
+			for user, item, rating in csv.reader(f_csv, delimiter=delimiter):
+				#print "%s,%s,%s" % (user, item, rating)
+				if not user in users_index:
+					users_index[user] = user_counter
+					user_counter += 1
 
-			logging.info("Loading data into ratings matrix")
-			for i in xrange(len(users)):
-				if not users[i] in users_index:
-					users_index[users[i]] = i
+				if not item in items_index:
+					items_index[item] = item_counter
+					item_counter += 1
 
-				for j in xrange(len(items)):
-					if not items[j] in items_index:
-						items_index[items[j]] = j
+				if user_counter > model['ratings'].shape[0]:
+					matrix_size = (matrix_size[0] * 2, matrix_size[1])
+					logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
+					model['ratings'].resize(matrix_size)
 
-					if items[j] in data[users[i]]:
-						row = model['ratings'][i]
-						row[j] = data[users[i]][items[j]]
-						model['ratings'][i] = row
-					else:
-						model['ratings'][i][j] = 0
+				if item_counter > model['ratings'].shape[1]:
+					matrix_size = (matrix_size[0], matrix_size[1] * 2)
+					logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
+					model['ratings'].resize(matrix_size)
+
+				try:
+					row = model['ratings'][users_index[user][()]]
+					row[items_index[item][()]] = int(rating)
+					model['ratings'][users_index[user][()]] = row
+				except AttributeError:
+					logging.warning("Error storing rating for (%s, %s, %s), skipping" % (user, item, rating))
+				
+				if sample_size is not None:
+					row_counter += 1
+					if row_counter >= sample_size: break
+
+			matrix_size = (user_counter, item_counter)
+			logging.info("Reducing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
+			model['ratings'].resize(matrix_size)
 
 			logging.info("Running non-negative matrix factorization in disk")
 			mfact = pymf.NMF(model['ratings'], num_bases=rank)
 			mfact.factorize()
 			logging.info("Storing %dx%d W matrix and %dx%d H matrix in HDF5 file"
-					% (len(users), rank, rank, len(items)))
+					% (user_counter, rank, rank, item_counter))
+
+			# Users' latent factors.
 			model['W'] = mfact.W
+			# Items' latent factors.
 			model['H'] = mfact.H
 			logging.info("Training completed")
 	
@@ -93,3 +106,21 @@ class NmfRecommender:
 			user_index = model['users'][user_id][()]
 			item_index = model['items'][item_id][()]
 			return np.dot(model['W'][:][user_index], model['H'][:].T[item_index])
+
+	def get_rating(self, user_id, item_id):
+		with h5py.File(self.h5filename, 'r') as model:
+			if not user_id in model['users']:
+				logging.error("User %s not in model." % user_id)
+				return
+
+			if not item_id in model['items']:
+				logging.error("Item %s not in model." % item_id)
+				return
+
+			user_index = model['users'][user_id][()]
+			item_index = model['items'][item_id][()]
+
+			if model['ratings'][user_index][item_index] != 0:
+				return model['ratings'][user_index][item_index]
+
+			return None

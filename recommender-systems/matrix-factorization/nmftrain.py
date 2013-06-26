@@ -19,4 +19,5 @@ if __name__ == "__main__":
 		sys.exit(0)
 
 	model = NmfRecommender(sys.argv[2])
-	model.train(sys.argv[1], sample_size=10000)
+	#model.train(sys.argv[1], sample_size=1000)
+	model.train(sys.argv[1], delimiter=',')
