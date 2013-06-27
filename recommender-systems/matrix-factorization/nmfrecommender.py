@@ -47,35 +47,34 @@ class NmfRecommender:
 			item_counter = 0
 			
 			for user, item, rating in csv.reader(f_csv, delimiter=delimiter):
-				#print "%s,%s,%s" % (user, item, rating)
-				if not user in users_index:
-					users_index[user] = user_counter
-					user_counter += 1
-
-				if not item in items_index:
-					items_index[item] = item_counter
-					item_counter += 1
-
-				if user_counter > model['ratings'].shape[0]:
-					matrix_size = (matrix_size[0] * 2, matrix_size[1])
-					logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
-					model['ratings'].resize(matrix_size)
-
-				if item_counter > model['ratings'].shape[1]:
-					matrix_size = (matrix_size[0], matrix_size[1] * 2)
-					logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
-					model['ratings'].resize(matrix_size)
-
 				try:
+					if not user in users_index:
+						users_index[user] = user_counter
+						user_counter += 1
+
+					if not item in items_index:
+						items_index[item] = item_counter
+						item_counter += 1
+
+					if user_counter >= model['ratings'].shape[0]:
+						matrix_size = (matrix_size[0] * 2, matrix_size[1])
+						logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
+						model['ratings'].resize(matrix_size)
+
+					if item_counter >= model['ratings'].shape[1]:
+						matrix_size = (matrix_size[0], matrix_size[1] * 2)
+						logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
+						model['ratings'].resize(matrix_size)
+
 					row = model['ratings'][users_index[user][()]]
 					row[items_index[item][()]] = int(rating)
 					model['ratings'][users_index[user][()]] = row
-				except AttributeError:
-					logging.warning("Error storing rating for (%s, %s, %s), skipping" % (user, item, rating))
 				
-				if sample_size is not None:
-					row_counter += 1
-					if row_counter >= sample_size: break
+					if sample_size is not None:
+						row_counter += 1
+						if row_counter >= sample_size: break
+				except Exception:
+					logging.warning("Error storing rating for (%s, %s, %s), skipping" % (user, item, rating))
 
 			matrix_size = (user_counter, item_counter)
 			logging.info("Reducing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)

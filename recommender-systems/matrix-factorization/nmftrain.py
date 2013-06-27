@@ -19,5 +19,7 @@ if __name__ == "__main__":
 		sys.exit(0)
 
 	model = NmfRecommender(sys.argv[2])
+
+	# TODO Make parameters available as command line arguments.
 	#model.train(sys.argv[1], sample_size=1000)
 	model.train(sys.argv[1], delimiter=',')
