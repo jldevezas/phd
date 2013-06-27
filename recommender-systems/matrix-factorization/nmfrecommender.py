@@ -21,10 +21,18 @@ class NmfRecommender:
 		self.model = None
 		self.h5filename = h5filename
 
+		self.normalization = True
+
 		# This is why it would be useful to have a separate training class and prediction class.
 		self.training_rank = 10
 		self.training_sample_size = None
 		self.training_csv_delimiter = ','
+
+	def enable_normalization(self):
+		self.normalization = True
+
+	def disable_normalization(self):
+		self.normalization = False
 
 	def set_training_rank(self, rank):
 		self.training_rank = rank
@@ -34,6 +42,9 @@ class NmfRecommender:
 
 	def set_training_csv_delimiter(self, delimiter):
 		self.training_csv_delimiter = delimiter
+	
+	def using_normalization(self):
+		return self.normalization
 
 	def get_training_rank(self):
 		return self.training_rank
@@ -103,6 +114,27 @@ class NmfRecommender:
 			logging.info("Reducing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
 			model['ratings'].resize(matrix_size)
 
+			if self.normalization:
+				logging.info("Normalizing ratings matrix in HDF5 file")
+				user_denoms = model.create_dataset('user_denominators', (user_counter, ))
+				user_denoms[...] = 0
+				item_denoms = model.create_dataset('item_denominators', (item_counter, ))
+				item_denoms[...] = 0
+
+				for i in xrange(user_counter):
+					user_vector = model['ratings'][i][()]
+					user_mean_rating = float(np.mean(user_vector))
+					user_denoms[i] = user_mean_rating
+					if user_mean_rating != 0:
+						model['ratings'][i] = np.divide(user_vector, user_mean_rating)
+
+				for i in xrange(item_counter):
+					item_vector = model['ratings'][..., i][()]
+					item_mean_rating = float(np.mean(item_vector))
+					item_denoms[i] = item_mean_rating
+					if item_mean_rating != 0:
+						model['ratings'][..., i] = np.divide(item_vector, item_mean_rating)
+
 			logging.info("Running non-negative matrix factorization in disk")
 			mfact = pymf.NMF(model['ratings'], num_bases=self.training_rank)
 			mfact.factorize()
@@ -127,7 +159,15 @@ class NmfRecommender:
 
 			user_index = model['users'][user_id][()]
 			item_index = model['items'][item_id][()]
-			return np.dot(model['W'][:][user_index], model['H'][:].T[item_index])
+			user_denom = model['user_denominators'][user_index][()]
+			item_denom = model['item_denominators'][item_index][()]
+
+			predicted_rating = np.dot(model['W'][:][user_index], model['H'][:].T[item_index])
+
+			if self.normalization:
+				predicted_rating *= item_denom * user_denom
+
+			return  predicted_rating
 
 	def get_rating(self, user_id, item_id):
 		with h5py.File(self.h5filename, 'r') as model:
