@@ -7,19 +7,38 @@
 
 import os
 import sys
+import string
+import argparse
 from nmfrecommender import NmfRecommender
 
 if __name__ == "__main__":
-	if len(sys.argv) < 3:
-		print("%s <user-item-rating.csv> <model.h5>" % os.path.basename(sys.argv[0]))
+	parser = argparse.ArgumentParser(
+			description="Train model based on NMF for user-item rating prediction.")
+	parser.add_argument('ratings_path',
+			help="a CSV file with no header and three columns: user_id, item_id, rating number")
+	parser.add_argument('model_path',
+			help="HDF5 file to store the trained model containing the factorized matrices")
+	parser.add_argument('-d', '--delimiter', type=str,
+			help="the CSV column delimiter character (DEFAULT=',')")
+	parser.add_argument('-r', '--rank', type=int,
+			help="the number of latent factors (DEFAULT=10)")
+	parser.add_argument('-s', '--size', type=int,
+			help="the size of the sample to take from the ratings CSV (DEFAULT=None)")
+	args = parser.parse_args()
+
+	if not os.access(args.ratings_path, os.R_OK):
+		print("'%s' is not readable." % args.ratings_path)
 		sys.exit(0)
 
-	if not os.access(sys.argv[1], os.R_OK):
-		print("'%s' is not readable." % sys.argv[1])
-		sys.exit(0)
+	model = NmfRecommender(args.model_path)
 
-	model = NmfRecommender(sys.argv[2])
+	if args.delimiter is not None:
+		model.set_training_csv_delimiter(args.delimiter)
 
-	# TODO Make parameters available as command line arguments.
-	#model.train(sys.argv[1], sample_size=1000)
-	model.train(sys.argv[1], delimiter=',')
+	if args.rank is not None:
+		model.set_training_rank(args.rank)
+
+	if args.size is not None:
+		model.set_training_sample_size(args.size)
+
+	model.train(args.ratings_path)

@@ -21,7 +21,30 @@ class NmfRecommender:
 		self.model = None
 		self.h5filename = h5filename
 
-	def train(self, path, rank=10, sample_size=None, delimiter=' '):
+		# This is why it would be useful to have a separate training class and prediction class.
+		self.training_rank = 10
+		self.training_sample_size = None
+		self.training_csv_delimiter = ','
+
+	def set_training_rank(self, rank):
+		self.training_rank = rank
+
+	def set_training_sample_size(self, sample_size):
+		self.training_sample_size = sample_size
+
+	def set_training_csv_delimiter(self, delimiter):
+		self.training_csv_delimiter = delimiter
+
+	def get_training_rank(self):
+		return self.training_rank
+
+	def get_training_sample_size(self):
+		return self.training_sample_size
+
+	def get_training_csv_delimiter(self):
+		return self.training_csv_delimiter
+
+	def train(self, csv_path):
 		if os.path.exists(self.h5filename):
 			ans = None
 			while ans != 'y' and ans != 'n':
@@ -29,10 +52,10 @@ class NmfRecommender:
 			if ans != 'y': return
 			os.remove(self.h5filename)
 
-		with h5py.File(self.h5filename) as model, open(path, 'rb') as f_csv:
-			logging.info("Loading data from %s" % path)
-			if sample_size is not None:
-				logging.info("Using sample size %d" % sample_size)
+		with h5py.File(self.h5filename) as model, open(csv_path, 'rb') as f_csv:
+			logging.info("Loading data from %s" % csv_path)
+			if self.training_sample_size is not None:
+				logging.info("Using sample size %d" % self.training_sample_size)
 
 			matrix_size = (100, 100)
 			
@@ -46,7 +69,7 @@ class NmfRecommender:
 			user_counter = 0
 			item_counter = 0
 			
-			for user, item, rating in csv.reader(f_csv, delimiter=delimiter):
+			for user, item, rating in csv.reader(f_csv, delimiter=self.training_csv_delimiter):
 				try:
 					if not user in users_index:
 						users_index[user] = user_counter
@@ -70,9 +93,9 @@ class NmfRecommender:
 					row[items_index[item][()]] = int(rating)
 					model['ratings'][users_index[user][()]] = row
 				
-					if sample_size is not None:
+					if self.training_sample_size is not None:
 						row_counter += 1
-						if row_counter >= sample_size: break
+						if row_counter >= self.training_sample_size: break
 				except Exception:
 					logging.warning("Error storing rating for (%s, %s, %s), skipping" % (user, item, rating))
 
@@ -81,10 +104,10 @@ class NmfRecommender:
 			model['ratings'].resize(matrix_size)
 
 			logging.info("Running non-negative matrix factorization in disk")
-			mfact = pymf.NMF(model['ratings'], num_bases=rank)
+			mfact = pymf.NMF(model['ratings'], num_bases=self.training_rank)
 			mfact.factorize()
 			logging.info("Storing %dx%d W matrix and %dx%d H matrix in HDF5 file"
-					% (user_counter, rank, rank, item_counter))
+					% (user_counter, self.training_rank, self.training_rank, item_counter))
 
 			# Users' latent factors.
 			model['W'] = mfact.W
