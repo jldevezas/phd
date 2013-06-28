@@ -21,18 +21,17 @@ class NmfRecommender:
 		self.model = None
 		self.h5filename = h5filename
 
-		self.normalization = True
-
 		# This is why it would be useful to have a separate training class and prediction class.
+		self.training_normalization = True
 		self.training_rank = 10
 		self.training_sample_size = None
 		self.training_csv_delimiter = ','
 
-	def enable_normalization(self):
-		self.normalization = True
+	def enable_training_normalization(self):
+		self.training_normalization = True
 
-	def disable_normalization(self):
-		self.normalization = False
+	def disable_training_normalization(self):
+		self.training_normalization = False
 
 	def set_training_rank(self, rank):
 		self.training_rank = rank
@@ -43,9 +42,6 @@ class NmfRecommender:
 	def set_training_csv_delimiter(self, delimiter):
 		self.training_csv_delimiter = delimiter
 	
-	def using_normalization(self):
-		return self.normalization
-
 	def get_training_rank(self):
 		return self.training_rank
 
@@ -54,6 +50,23 @@ class NmfRecommender:
 
 	def get_training_csv_delimiter(self):
 		return self.training_csv_delimiter
+
+	def __escape(self, h5key):
+		return h5key.replace('/', '_')
+
+	def __unescape(self, h5key):
+		return h5key.replace('_', '/')
+
+	def __normalize(self, vector, scale=(1, 1000)):
+		min_vector = min(vector)
+		max_vector = max(vector)
+		result = []
+		for i in xrange(len(vector)):
+			if vector[i] == 0:
+				result.append(0) # TODO this should come from behind as None if it works
+			else:
+				result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / (max_vector - min_vector) + 1)
+		return np.array(result)
 
 	def train(self, csv_path):
 		if os.path.exists(self.h5filename):
@@ -82,12 +95,12 @@ class NmfRecommender:
 			
 			for user, item, rating in csv.reader(f_csv, delimiter=self.training_csv_delimiter):
 				try:
-					if not user in users_index:
-						users_index[user] = user_counter
+					if not self.__escape(user) in users_index:
+						users_index[self.__escape(user)] = user_counter
 						user_counter += 1
 
-					if not item in items_index:
-						items_index[item] = item_counter
+					if not self.__escape(item) in items_index:
+						items_index[self.__escape(item)] = item_counter
 						item_counter += 1
 
 					if user_counter >= model['ratings'].shape[0]:
@@ -100,9 +113,9 @@ class NmfRecommender:
 						logging.info("Increasing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
 						model['ratings'].resize(matrix_size)
 
-					row = model['ratings'][users_index[user][()]]
-					row[items_index[item][()]] = int(rating)
-					model['ratings'][users_index[user][()]] = row
+					row = model['ratings'][users_index[self.__escape(user)][()]]
+					row[items_index[self.__escape(item)][()]] = int(rating)
+					model['ratings'][users_index[self.__escape(user)][()]] = row
 				
 					if self.training_sample_size is not None:
 						row_counter += 1
@@ -114,26 +127,11 @@ class NmfRecommender:
 			logging.info("Reducing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
 			model['ratings'].resize(matrix_size)
 
-			if self.normalization:
+			if self.training_normalization:
 				logging.info("Normalizing ratings matrix in HDF5 file")
-				user_denoms = model.create_dataset('user_denominators', (user_counter, ))
-				user_denoms[...] = 0
-				item_denoms = model.create_dataset('item_denominators', (item_counter, ))
-				item_denoms[...] = 0
-
 				for i in xrange(user_counter):
 					user_vector = model['ratings'][i][()]
-					user_mean_rating = float(np.mean(user_vector))
-					user_denoms[i] = user_mean_rating
-					if user_mean_rating != 0:
-						model['ratings'][i] = np.divide(user_vector, user_mean_rating)
-
-				for i in xrange(item_counter):
-					item_vector = model['ratings'][..., i][()]
-					item_mean_rating = float(np.mean(item_vector))
-					item_denoms[i] = item_mean_rating
-					if item_mean_rating != 0:
-						model['ratings'][..., i] = np.divide(item_vector, item_mean_rating)
+					model['ratings'][i] = self.__normalize(user_vector)
 
 			logging.info("Running non-negative matrix factorization in disk")
 			mfact = pymf.NMF(model['ratings'], num_bases=self.training_rank)
@@ -149,40 +147,53 @@ class NmfRecommender:
 	
 	def predict(self, user_id, item_id):
 		with h5py.File(self.h5filename, 'r') as model:
-			if not user_id in model['users']:
-				logging.error("User %s not in model." % user_id)
-				return
+			if not self.__escape(user_id) in model['users']:
+				logging.error("predict: User %s not in model." % user_id)
+				return None
 
-			if not item_id in model['items']:
-				logging.error("Item %s not in model." % item_id)
-				return
+			if not self.__escape(item_id) in model['items']:
+				logging.error("predict: Item %s not in model." % item_id)
+				return None
 
-			user_index = model['users'][user_id][()]
-			item_index = model['items'][item_id][()]
-			user_denom = model['user_denominators'][user_index][()]
-			item_denom = model['item_denominators'][item_index][()]
-
-			predicted_rating = np.dot(model['W'][:][user_index], model['H'][:].T[item_index])
-
-			if self.normalization:
-				predicted_rating *= item_denom * user_denom
-
-			return  predicted_rating
+			user_index = model['users'][self.__escape(user_id)][()]
+			item_index = model['items'][self.__escape(item_id)][()]
+			predicted_rating = np.dot(model['W'][user_index, :], model['H'][:, item_index])
+			return predicted_rating
 
 	def get_rating(self, user_id, item_id):
 		with h5py.File(self.h5filename, 'r') as model:
-			if not user_id in model['users']:
-				logging.error("User %s not in model." % user_id)
-				return
+			if not self.__escape(user_id) in model['users']:
+				logging.error("get_rating: User %s not in model." % user_id)
+				return None
 
-			if not item_id in model['items']:
-				logging.error("Item %s not in model." % item_id)
-				return
+			if not self.__escape(item_id) in model['items']:
+				logging.error("get_rating: Item %s not in model." % item_id)
+				return None
 
-			user_index = model['users'][user_id][()]
-			item_index = model['items'][item_id][()]
+			user_index = model['users'][self.__escape(user_id)][()]
+			item_index = model['items'][self.__escape(item_id)][()]
 
-			if model['ratings'][user_index][item_index] != 0:
-				return model['ratings'][user_index][item_index]
+			rating = model['ratings'][user_index][item_index][()]
+
+			if rating != 0:
+				return rating
 
 			return None
+
+
+	def recommend(self, user_id):
+		results = []
+		with h5py.File(self.h5filename, 'r') as model:
+			if not self.__escape(user_id) in model['users']:
+				logging.error("predict: User %s not in model." % user_id)
+				return results
+
+			user_index = model['users'][self.__escape(user_id)][()]
+
+			for item_id in model['items']:
+				item_index = model['items'][item_id][()]
+				stored_rating = model['ratings'][user_index, item_index]
+				if stored_rating == 0:
+					results.append((self.predict(user_id, item_id), self.__unescape(item_id)))
+
+			return sorted(results, key=lambda tup: tup[0], reverse=True)

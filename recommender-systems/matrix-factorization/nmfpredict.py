@@ -5,7 +5,6 @@
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-06-25
 
-
 import os
 import sys
 import argparse
@@ -13,7 +12,7 @@ from nmfrecommender import NmfRecommender
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
-			description='Predict rating for an unrated item of an existing user.')
+			description='Predict rating for an unrated item of an existing user, scaled between 0 and 100.')
 	parser.add_argument('user',
 			help='user identification string, as defined in the training set')
 	parser.add_argument('item',
