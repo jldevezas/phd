@@ -24,11 +24,20 @@ if __name__ == "__main__":
 			help="the number of latent factors (DEFAULT=10)")
 	parser.add_argument('-s', '--size', type=int,
 			help="the size of the sample to take from the ratings CSV (DEFAULT=None)")
+	parser.add_argument('--precompute', action='store_true',
+			help="precompute and store prediction values in HDF5 (DEFAULT=False)")
 	args = parser.parse_args()
 
 	if not os.access(args.ratings_path, os.R_OK):
 		print("'%s' is not readable." % args.ratings_path)
 		sys.exit(0)
+
+	if os.path.exists(args.model_path):
+		ans = None
+		while ans != 'y' and ans != 'n':
+			ans = raw_input("===> HDF5 model already exists at %s. Overwrite? [yn] " % args.model_path)
+		if ans != 'y': sys.exit(0)
+		os.remove(args.model_path)
 
 	model = NmfRecommender(args.model_path)
 
@@ -42,3 +51,6 @@ if __name__ == "__main__":
 		model.set_training_sample_size(args.size)
 
 	model.train(args.ratings_path)
+
+	if args.precompute:
+		model.precompute_predictions()

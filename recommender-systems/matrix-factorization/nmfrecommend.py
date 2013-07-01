@@ -23,5 +23,5 @@ if __name__ == "__main__":
 
 	rank = 1
 	for rec in model.recommend(args.user)[0:20]:
-		print "%d\t%s\t%s" % ((rank, ) + rec)
+		print "%d\t%7.2f\t%s" % ((rank, ) + rec)
 		rank += 1

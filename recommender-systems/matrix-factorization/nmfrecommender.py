@@ -69,13 +69,6 @@ class NmfRecommender:
 		return np.array(result)
 
 	def train(self, csv_path):
-		if os.path.exists(self.h5filename):
-			ans = None
-			while ans != 'y' and ans != 'n':
-				ans = raw_input("===> HDF5 model already exists at %s. Overwrite? [yn] " % self.h5filename)
-			if ans != 'y': return
-			os.remove(self.h5filename)
-
 		with h5py.File(self.h5filename) as model, open(csv_path, 'rb') as f_csv:
 			logging.info("Loading data from %s" % csv_path)
 			if self.training_sample_size is not None:
@@ -180,6 +173,25 @@ class NmfRecommender:
 
 			return None
 
+	def precompute_predictions(self):
+		results = []
+		with h5py.File(self.h5filename) as model:
+			predicted_items = model.create_group('predicted_items')
+
+			for user_id in model['users']:
+				logging.info("Precomputing predictions for user %s and storing in HDF5" % user_id)
+				user_index = model['users'][self.__escape(user_id)][()]
+				for item_id in model['items']:
+					item_index = model['items'][item_id][()]
+					stored_rating = model['ratings'][user_index, item_index]
+					if stored_rating == 0:
+						predicted_rating = self.predict(user_id, item_id)
+						results.append((predicted_rating, item_id))
+						model['ratings'][user_index, item_index] = predicted_rating
+				t_str = h5py.special_dtype(vlen=str)
+				user_predicted_items = predicted_items.create_dataset(user_id, (len(results), ), dtype=t_str)
+				for i in xrange(len(results)):
+					user_predicted_items[i] = results[i][1]
 
 	def recommend(self, user_id):
 		results = []
@@ -189,11 +201,16 @@ class NmfRecommender:
 				return results
 
 			user_index = model['users'][self.__escape(user_id)][()]
-
-			for item_id in model['items']:
-				item_index = model['items'][item_id][()]
-				stored_rating = model['ratings'][user_index, item_index]
-				if stored_rating == 0:
-					results.append((self.predict(user_id, item_id), self.__unescape(item_id)))
+			
+			if 'predicted_items' in model:
+				for item_id in model['predicted_items'][self.__escape(user_id)]:
+					item_index = model['items'][item_id][()]
+					results.append((model['ratings'][user_index, item_index][()], self.__unescape(item_id)))
+			else:
+				for item_id in model['items']:
+					item_index = model['items'][item_id][()]
+					stored_rating = model['ratings'][user_index, item_index]
+					if stored_rating == 0:
+						results.append((self.predict(user_id, item_id), self.__unescape(item_id)))
 
 			return sorted(results, key=lambda tup: tup[0], reverse=True)

@@ -12,7 +12,7 @@ from nmfrecommender import NmfRecommender
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
-			description='Predict rating for an unrated item of an existing user, scaled between 0 and 100.')
+			description='Predict rating for unrated items of existing users, scaled to the range 0..100.')
 	parser.add_argument('user',
 			help='user identification string, as defined in the training set')
 	parser.add_argument('item',
