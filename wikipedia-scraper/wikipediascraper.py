@@ -48,7 +48,7 @@ def wikipedia_call(title):
 
 	soup = BeautifulSoup(html, 'lxml')
 
-	imgs = soup.select('img')
+	imgs = soup.select('table[class~=infobox] img')
 	largest_image_url = None
 	if len(imgs) > 0:
 		img = imgs[0]
