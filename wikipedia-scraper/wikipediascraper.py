@@ -15,8 +15,11 @@ from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from pymongo.errors import *
 from gridfs import GridFS
+from gridfs.errors import *
 
 def wikipedia_call(title):
+	logging.info("Getting summary data for %s" % title)
+
 	base_url = 'http://en.wikipedia.org/w/api.php'
 	values = {
 		'action': 'query',
@@ -34,17 +37,27 @@ def wikipedia_call(title):
 	result = json.loads(response.read())
 
 	revision_id = result['query']['pages'].keys()[0]
+	if revision_id == "-1":
+		return None
 	html = result['query']['pages'][revision_id]['revisions'][0]['*']
-	soup = BeautifulSoup(html, 'lxml')
-
-	img = soup.select('img')[0]
-	largest_image_url = 'http:' + img['srcset'].split(', ')[-1].split(' ')[0]
 
 	# Heuristic to detect ambigious pages.
 	if 'may refer to:' in html:
 		logging.warning("Skipping ambiguous title %s" % title)
 		return None
-	
+
+	soup = BeautifulSoup(html, 'lxml')
+
+	imgs = soup.select('img')
+	largest_image_url = None
+	if len(imgs) > 0:
+		img = imgs[0]
+		if img.has_attr('srcset'):
+			largest_image_url = 'http:' + img['srcset'].split(', ')[-1].split(' ')[0]
+		elif img.has_attr('src'):
+			logging.warning("Using small image for %s" % title)
+			largest_image_url = 'http:' + img['src']
+
 	for sup in soup.select('sup'):
 		sup.extract()
 	for strong in soup.select('strong[class=error]'):
@@ -59,24 +72,54 @@ def wikipedia_call(title):
 
 	return artist
 
-def store_artist(col, fs, artist):
-	try:
-		photo_bytes = urllib2.urlopen(artist['photo']).read()
+def fetch_and_store_photo(artist):
+	photo_id = None
+
+	if artist.get('photo') is not None:
 		extension = artist['photo'][artist['photo'].rfind('.'):]
 		photo_filename = artist['name'].lower().replace(' ', '_') + extension
-		photo_id = fs.put(photo_bytes, content_type="image/jpeg", filename=photo_filename)
-		
-		#fs.get(photo_id).read() to get it back.
-		
-		col.insert({
+
+		try:
+			photo_file = fs.get_last_version(photo_filename)
+			photo_id = photo_file._id
+		except NoFile:
+			photo_bytes = urllib2.urlopen(artist['photo']).read()
+			photo_id = fs.put(photo_bytes, content_type="image/jpeg", filename=photo_filename)
+
+	return photo_id
+
+def fetch_and_store_artist(col, fs, title):
+	artist_data = col.find_one({ '_id': title })
+	if artist_data is None:
+		artist = wikipedia_call(title)
+		if artist is None:
+			logging.warning("Couldn't find information for %s, skipping" % title)
+			return False
+
+		artist_data = {
 			'_id': artist['name'],
 			'bio': artist['bio'],
-			'photo': photo_id
-		})
+		}
+		
+		if artist['bio'] == "":
+			logging.warning("No summary found for %s, skipping" % artist['name'])
+			return False
+		
+		photo_id = fetch_and_store_photo(artist)
+		if photo_id is not None:
+			artist_data['photo'] = photo_id
+		col.insert(artist_data)
 		return True
-	except DuplicateKeyError:
-		logging.warning("%s already exists in the database, skipping" % artist['name'])
-		return False
+	elif not 'photo' in artist_data:
+		artist = wikipedia_call(title)
+		photo_id = fetch_and_store_photo(artist)
+		if photo_id is not None:
+			logging.info("%s updated with missing photo" % artist['name'])
+			col.update({ '_id': artist['name'] }, { '$set': { 'photo': photo_id } })
+			return True
+
+	logging.warning("%s already exists in the database, skipping" % title)
+	return False
 
 if __name__ == "__main__":
 	logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
@@ -98,10 +141,6 @@ if __name__ == "__main__":
 	col = db[args.collection_name]
 	fs = GridFS(db)
 	
-	count = 0
 	for line in open(args.titles_path, 'r'):
 		title = line.strip()
-		artist = wikipedia_call(title)
-		store_artist(col, fs, artist)
-		count += 1
-		if count % 1 == 0: break
+		fetch_and_store_artist(col, fs, title)
