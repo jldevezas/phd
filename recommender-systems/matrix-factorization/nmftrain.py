@@ -21,7 +21,7 @@ if __name__ == "__main__":
 	parser.add_argument('-d', '--delimiter', type=str,
 			help="the CSV column delimiter character (DEFAULT=',')")
 	parser.add_argument('-r', '--rank', type=int,
-			help="the number of latent factors (DEFAULT=10)")
+			help="the number of latent factors (DEFAULT=1000)")
 	parser.add_argument('-s', '--size', type=int,
 			help="the size of the sample to take from the ratings CSV (DEFAULT=None)")
 	parser.add_argument('--precompute', action='store_true',

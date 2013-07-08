@@ -23,7 +23,7 @@ class NmfRecommender:
 
 		# This is why it would be useful to have a separate training class and prediction class.
 		self.training_normalization = True
-		self.training_rank = 10
+		self.training_rank = 1000
 		self.training_sample_size = None
 		self.training_csv_delimiter = ','
 
@@ -57,7 +57,7 @@ class NmfRecommender:
 	def __unescape(self, h5key):
 		return h5key.replace('_', '/')
 
-	def __normalize(self, vector, scale=(1, 1000)):
+	def __normalize(self, vector, scale=(0, 1)):
 		min_vector = min(vector)
 		max_vector = max(vector)
 		result = []
@@ -65,7 +65,7 @@ class NmfRecommender:
 			if vector[i] == 0:
 				result.append(0) # TODO this should come from behind as None if it works
 			else:
-				result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / (max_vector - min_vector) + 1)
+				result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / (max_vector - min_vector))
 		return np.array(result)
 
 	def train(self, csv_path):
@@ -150,6 +150,9 @@ class NmfRecommender:
 
 			user_index = model['users'][self.__escape(user_id)][()]
 			item_index = model['items'][self.__escape(item_id)][()]
+			if 'predicted_ratings' in model:
+				logging.info("Found precomputed prediction value.")
+				return model['predicted_ratings'][user_index, item_index]
 			predicted_rating = np.dot(model['W'][user_index, :], model['H'][:, item_index])
 			return predicted_rating
 
@@ -176,24 +179,27 @@ class NmfRecommender:
 	def precompute_predictions(self):
 		results = []
 		with h5py.File(self.h5filename) as model:
-			predicted_items = model.create_group('predicted_items')
+			matrix_size = model['ratings'].shape
+
+			logging.info("Creating items index in HDF5")
+			t_str = h5py.special_dtype(vlen=str)
+			items_index = model.create_dataset('items_index', (matrix_size[1], ), dtype=t_str)
+			for item_id in model['items']:
+				item_index = model['items'][item_id][()]
+				items_index[item_index] = item_id
+
+			predicted_ratings = model.create_dataset('predicted_ratings', matrix_size)
 
 			for user_id in model['users']:
 				logging.info("Precomputing predictions for user %s and storing in HDF5" % user_id)
 				user_index = model['users'][self.__escape(user_id)][()]
-				for item_id in model['items']:
-					item_index = model['items'][item_id][()]
-					stored_rating = model['ratings'][user_index, item_index]
-					if stored_rating == 0:
-						predicted_rating = self.predict(user_id, item_id)
-						results.append((predicted_rating, item_id))
-						model['ratings'][user_index, item_index] = predicted_rating
-				t_str = h5py.special_dtype(vlen=str)
-				user_predicted_items = predicted_items.create_dataset(user_id, (len(results), ), dtype=t_str)
-				for i in xrange(len(results)):
-					user_predicted_items[i] = results[i][1]
+				W = model['W'][user_index]
+				H = model['H']
+				predicted_ratings[user_index] = np.dot(W, H)
 
-	def recommend(self, user_id):
+		logging.info("Rating predictions precomputed")
+
+	def recommend(self, user_id, limit=20):
 		results = []
 		with h5py.File(self.h5filename, 'r') as model:
 			if not self.__escape(user_id) in model['users']:
@@ -202,10 +208,19 @@ class NmfRecommender:
 
 			user_index = model['users'][self.__escape(user_id)][()]
 			
-			if 'predicted_items' in model:
-				for item_id in model['predicted_items'][self.__escape(user_id)]:
-					item_index = model['items'][item_id][()]
-					results.append((model['ratings'][user_index, item_index][()], self.__unescape(item_id)))
+			if 'predicted_ratings' in model:
+				user_predicted_ratings = model['predicted_ratings'][user_index, :]
+				item_indices = sorted(xrange(len(user_predicted_ratings)),
+						key=lambda i: user_predicted_ratings[i], reverse=True)
+				counter = 0
+				for item_index in item_indices:
+					stored_rating = model['ratings'][user_index, item_index]
+					if stored_rating == 0:
+						results.append((user_predicted_ratings[item_index],
+							self.__unescape(model['items_index'][item_index])))
+					counter += 1
+					if counter % limit == 0: break
+				return results
 			else:
 				for item_id in model['items']:
 					item_index = model['items'][item_id][()]
