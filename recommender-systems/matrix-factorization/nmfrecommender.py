@@ -199,7 +199,7 @@ class NmfRecommender:
 
 		logging.info("Rating predictions precomputed")
 
-	def recommend(self, user_id, limit=20):
+	def recommend(self, user_id, limit=None):
 		results = []
 		with h5py.File(self.h5filename, 'r') as model:
 			if not self.__escape(user_id) in model['users']:
@@ -219,7 +219,7 @@ class NmfRecommender:
 						results.append((user_predicted_ratings[item_index],
 							self.__unescape(model['items_index'][item_index])))
 					counter += 1
-					if counter % limit == 0: break
+					if limit is not None and counter % limit == 0: break
 				return results
 			else:
 				for item_id in model['items']:
@@ -227,5 +227,6 @@ class NmfRecommender:
 					stored_rating = model['ratings'][user_index, item_index]
 					if stored_rating == 0:
 						results.append((self.predict(user_id, item_id), self.__unescape(item_id)))
+				results = sorted(results, key=lambda tup: tup[0], reverse=True)
 
-			return sorted(results, key=lambda tup: tup[0], reverse=True)
+			return results

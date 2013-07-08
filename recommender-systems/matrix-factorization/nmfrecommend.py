@@ -22,6 +22,6 @@ if __name__ == "__main__":
 	model = NmfRecommender(args.model_path)
 
 	rank = 1
-	for rec in model.recommend(args.user)[0:20]:
-		print "%d\t%7.2f\t%s" % ((rank, ) + rec)
+	for rec in model.recommend(args.user, limit=20):
+		print "%d\t%.10f\t%s" % ((rank, ) + rec)
 		rank += 1
