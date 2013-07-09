@@ -9,7 +9,7 @@ import os
 import sys
 import string
 import argparse
-from engine import Engine
+from jld import LatentFactorsModel
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 		if ans != 'y': sys.exit(0)
 		os.remove(args.model_path)
 
-	model = Engine(args.model_path)
+	model = LatentFactorsModel(args.model_path)
 
 	if args.delimiter is not None:
 		model.set_training_csv_delimiter(args.delimiter)

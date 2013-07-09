@@ -9,7 +9,7 @@
 import os
 import sys
 import argparse
-from engine import Engine
+from jld import LatentFactorsModel
 
 def csv(value):
 	return value.split(',')
@@ -31,7 +31,7 @@ if __name__ == "__main__":
 			help="Comma-separated item IDs for hated items.")
 	args = parser.parse_args()
 	
-	model = Engine(args.model_path)
+	model = LatentFactorsModel(args.model_path)
 
 	tastes = {}
 	if args.love is not None:

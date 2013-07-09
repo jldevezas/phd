@@ -8,7 +8,7 @@
 import os
 import sys
 import argparse
-from engine import Engine
+from jld import LatentFactorsModel
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
@@ -19,7 +19,7 @@ if __name__ == "__main__":
 			help='HDF5 file with the trained model containing the factorized matrices')
 	args = parser.parse_args()
 	
-	model = Engine(args.model_path)
+	model = LatentFactorsModel(args.model_path)
 
 	rank = 1
 	for item_id, rating in model.recommend(args.user, limit=20):

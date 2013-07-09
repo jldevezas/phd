@@ -8,7 +8,7 @@
 import os
 import sys
 import argparse
-from engine import Engine
+from jld import LatentFactorsModel
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
@@ -23,7 +23,7 @@ if __name__ == "__main__":
 			help='returns the predicted value even when the original rating is available')
 	args = parser.parse_args()
 	
-	model = Engine(args.model_path)
+	model = LatentFactorsModel(args.model_path)
 
 	if not args.force_predict:
 		# If rating exists, return real rating instead of prediction.

@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
-# nmfrecommender.py
+# jld.py
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-06-14
 
@@ -15,7 +15,7 @@ import operator
 from collections import OrderedDict
 from scipy.spatial import distance
 
-class Engine:
+class LatentFactorsModel:
 	def __init__(self, h5filename):
 		logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
 				datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
