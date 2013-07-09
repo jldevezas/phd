@@ -1,14 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
-# nmfrecommend.py
+# recommend.py
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-06-28
 
 import os
 import sys
 import argparse
-from nmfrecommender import NmfRecommender
+from engine import Engine
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
@@ -19,9 +19,9 @@ if __name__ == "__main__":
 			help='HDF5 file with the trained model containing the factorized matrices')
 	args = parser.parse_args()
 	
-	model = NmfRecommender(args.model_path)
+	model = Engine(args.model_path)
 
 	rank = 1
-	for rec in model.recommend(args.user, limit=20):
-		print "%d\t%.10f\t%s" % ((rank, ) + rec)
+	for item_id, rating in model.recommend(args.user, limit=20):
+		print "%d\t%.10f\t%s" % (rank, rating, item_id)
 		rank += 1

@@ -11,27 +11,29 @@ import pymf
 import numpy as np
 import h5py
 import logging
+import operator
 from collections import OrderedDict
+from scipy.spatial import distance
 
-class NmfRecommender:
+class Engine:
 	def __init__(self, h5filename):
 		logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
 				datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
 
 		self.model = None
 		self.h5filename = h5filename
+		self.normalization = True
 
 		# This is why it would be useful to have a separate training class and prediction class.
-		self.training_normalization = True
 		self.training_rank = 1000
 		self.training_sample_size = None
 		self.training_csv_delimiter = ','
 
-	def enable_training_normalization(self):
-		self.training_normalization = True
+	def enable_normalization(self):
+		self.normalization = True
 
-	def disable_training_normalization(self):
-		self.training_normalization = False
+	def disable_normalization(self):
+		self.normalization = False
 
 	def set_training_rank(self, rank):
 		self.training_rank = rank
@@ -58,8 +60,12 @@ class NmfRecommender:
 		return h5key.replace('_', '/')
 
 	def __normalize(self, vector, scale=(0, 1)):
+		if len(vector) == 0:
+			return vector
 		min_vector = min(vector)
 		max_vector = max(vector)
+		if max_vector - min_vector == 0:
+			return list(np.zeros(len(vector)))
 		result = []
 		for i in xrange(len(vector)):
 			if vector[i] == 0:
@@ -120,22 +126,26 @@ class NmfRecommender:
 			logging.info("Reducing ratings matrix in HDF5 file to a %dx%d dimension" % matrix_size)
 			model['ratings'].resize(matrix_size)
 
-			if self.training_normalization:
+			if self.normalization:
 				logging.info("Normalizing ratings matrix in HDF5 file")
 				for i in xrange(user_counter):
 					user_vector = model['ratings'][i][()]
 					model['ratings'][i] = self.__normalize(user_vector)
 
-			logging.info("Running non-negative matrix factorization in disk")
-			mfact = pymf.NMF(model['ratings'], num_bases=self.training_rank)
+			#logging.info("Running non-negative matrix factorization in disk")
+			#mfact = pymf.NMF(model['ratings'], num_bases=self.training_rank)
+			logging.info("Running singular value decomposition in disk")
+			mfact = pymf.SVD(model['ratings'])
 			mfact.factorize()
 			logging.info("Storing %dx%d W matrix and %dx%d H matrix in HDF5 file"
 					% (user_counter, self.training_rank, self.training_rank, item_counter))
 
 			# Users' latent factors.
-			model['W'] = mfact.W
+			#model['W'] = mfact.W
+			model['W'] = np.dot(mfact.U, mfact.S)
 			# Items' latent factors.
-			model['H'] = mfact.H
+			#model['H'] = mfact.H
+			model['H'] = np.dot(mfact.S, mfact.V)
 			logging.info("Training completed")
 	
 	def predict(self, user_id, item_id):
@@ -199,7 +209,7 @@ class NmfRecommender:
 
 		logging.info("Rating predictions precomputed")
 
-	def recommend(self, user_id, limit=None):
+	def recommend(self, user_id, limit=None, all=False):
 		results = []
 		with h5py.File(self.h5filename, 'r') as model:
 			if not self.__escape(user_id) in model['users']:
@@ -215,18 +225,43 @@ class NmfRecommender:
 				counter = 0
 				for item_index in item_indices:
 					stored_rating = model['ratings'][user_index, item_index]
-					if stored_rating == 0:
-						results.append((user_predicted_ratings[item_index],
-							self.__unescape(model['items_index'][item_index])))
-					counter += 1
-					if limit is not None and counter % limit == 0: break
+					if stored_rating == 0 or all:
+						results.append((self.__unescape(model['items_index'][item_index]),
+							user_predicted_ratings[item_index]))
+
+						counter += 1
+						if limit is not None and counter % limit == 0: break
 				return results
 			else:
 				for item_id in model['items']:
 					item_index = model['items'][item_id][()]
 					stored_rating = model['ratings'][user_index, item_index]
-					if stored_rating == 0:
-						results.append((self.predict(user_id, item_id), self.__unescape(item_id)))
+					if stored_rating == 0 or all:
+						results.append((self.__unescape(item_id), self.predict(user_id, item_id)))
 				results = sorted(results, key=lambda tup: tup[0], reverse=True)
 
 			return results
+
+	def nearest_neighbors(self, item_ratings, distance=distance.euclidean, limit=5):
+		distances = {}
+		with h5py.File(self.h5filename, 'r') as model:
+			if self.normalization:
+				ord_item_ratings = OrderedDict(item_ratings)
+				items = ord_item_ratings.keys()
+				counts = self.__normalize(ord_item_ratings.values())
+				for i in xrange(len(items)):
+					item_ratings[items[i]] = counts[i]
+
+			user_vector = np.zeros(len(model['items']))
+			for item_id in model['items']:
+				if self.__unescape(item_id) in item_ratings:
+					user_vector[model['items'][item_id][()]] = item_ratings[self.__unescape(item_id)]
+			
+			ratings = model['ratings']
+			for i in xrange(len(ratings)):
+				distances[str(i)] = distance(user_vector, ratings[i])
+			
+		return sorted(distances.iteritems(), key=operator.itemgetter(1))[:limit]
+
+	def nearest_neighbor(self, item_ratings, distance=distance.euclidean):
+		return self.nearest_neighbors(item_ratings, distance, limit=1)[0]

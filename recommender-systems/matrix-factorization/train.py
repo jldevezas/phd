@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
-# nmftrain.py
+# train.py
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-06-14
 
@@ -9,7 +9,7 @@ import os
 import sys
 import string
 import argparse
-from nmfrecommender import NmfRecommender
+from engine import Engine
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 		if ans != 'y': sys.exit(0)
 		os.remove(args.model_path)
 
-	model = NmfRecommender(args.model_path)
+	model = Engine(args.model_path)
 
 	if args.delimiter is not None:
 		model.set_training_csv_delimiter(args.delimiter)

@@ -1,14 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
-# nmfpredict.py
+# predict.py
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-06-25
 
 import os
 import sys
 import argparse
-from nmfrecommender import NmfRecommender
+from engine import Engine
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
@@ -23,7 +23,7 @@ if __name__ == "__main__":
 			help='returns the predicted value even when the original rating is available')
 	args = parser.parse_args()
 	
-	model = NmfRecommender(args.model_path)
+	model = Engine(args.model_path)
 
 	if not args.force_predict:
 		# If rating exists, return real rating instead of prediction.
