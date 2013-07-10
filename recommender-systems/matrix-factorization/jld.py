@@ -142,10 +142,10 @@ class LatentFactorsModel:
 
 			# Users' latent factors.
 			#model['W'] = mfact.W
-			model['W'] = np.dot(mfact.U, mfact.S)
+			model['W'] = np.dot(mfact.U, np.sqrt(mfact.S))
 			# Items' latent factors.
 			#model['H'] = mfact.H
-			model['H'] = np.dot(mfact.S, mfact.V)
+			model['H'] = np.dot(np.sqrt(mfact.S), mfact.V)
 			logging.info("Training completed")
 	
 	def predict(self, user_id, item_id):
