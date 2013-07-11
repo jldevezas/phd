@@ -5,20 +5,39 @@
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-07-03
 
+import sys
 import argparse
 import json
 import pymongo
 import urllib
 import urllib2
 import logging
+import musicbrainz2.webservice as mb
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from pymongo.errors import *
 from gridfs import GridFS
 from gridfs.errors import *
 
-def wikipedia_call(title):
-	logging.info("Getting summary data for %s" % title)
+def resolve_title_as_artist(artist_name):
+	logging.info("Resolving %s as artist using MusicBrainz" % artist_name)
+	q = mb.Query()
+	filter = mb.ArtistFilter(query=urllib.quote(artist_name))
+	res = q.getArtists(filter)
+	if len(res) > 0:
+		html = urllib2.urlopen(res[0].artist.id).read()
+		soup = BeautifulSoup(html, 'lxml')
+		wikipedia = soup.select('li.wikipedia a[href]')
+		if len(wikipedia) > 0:
+			return (artist_name, wikipedia[0]['href'][wikipedia[0]['href'].rfind('/')+1:].replace('_', ' '))
+	return (artist_name, artist_name)
+
+def wikipedia_call(query_title, resolver=None):
+	title = query_title
+	if resolver is not None:
+		title = resolver(title)[1]
+
+	logging.info("Getting summary data for %s" % query_title)
 
 	base_url = 'http://en.wikipedia.org/w/api.php'
 	values = {
@@ -65,7 +84,7 @@ def wikipedia_call(title):
 	bio = ' '.join([p.text for p in soup.select('p')])
 
 	artist = {
-		'name': title,
+		'name': query_title,
 		'bio': bio,
 		'photo': largest_image_url
 	}
@@ -84,14 +103,15 @@ def fetch_and_store_photo(artist):
 			photo_id = photo_file._id
 		except NoFile:
 			photo_bytes = urllib2.urlopen(artist['photo']).read()
-			photo_id = fs.put(photo_bytes, content_type="image/jpeg", filename=photo_filename)
+			#photo_id = fs.put(photo_bytes, content_type="image/jpeg", filename=photo_filename)
+			photo_id = fs.put(photo_bytes, content_type="image", filename=photo_filename)
 
 	return photo_id
 
-def fetch_and_store_artist(col, fs, title):
+def fetch_and_store_artist(col, fs, title, resolver=None):
 	artist_data = col.find_one({ '_id': title })
 	if artist_data is None:
-		artist = wikipedia_call(title)
+		artist = wikipedia_call(title, resolver)
 		if artist is None:
 			logging.warning("Couldn't find information for %s, skipping" % title)
 			return False
@@ -111,7 +131,7 @@ def fetch_and_store_artist(col, fs, title):
 		col.insert(artist_data)
 		return True
 	elif not 'photo' in artist_data:
-		artist = wikipedia_call(title)
+		artist = wikipedia_call(title, resolver)
 		photo_id = fetch_and_store_photo(artist)
 		if photo_id is not None:
 			logging.info("%s updated with missing photo" % artist['name'])
@@ -134,6 +154,8 @@ if __name__ == "__main__":
 			help="MongoDB database name where scraped data will be stored")
 	parser.add_argument('collection_name',
 			help="MongoDB collection name where scraped data will be stored")
+	parser.add_argument('--resolver', type=str, choices=["artists"],
+			help="Select a resolver to disambiguate the title for a given context")
 	args = parser.parse_args()
 
 	mongo = MongoClient('localhost')
@@ -143,4 +165,8 @@ if __name__ == "__main__":
 	
 	for line in open(args.titles_path, 'r'):
 		title = line.strip()
-		fetch_and_store_artist(col, fs, title)
+		resolver = None
+		if args.resolver is not None:
+			if args.resolver == "artists":
+				resolver = resolve_title_as_artist
+		fetch_and_store_artist(col, fs, title, resolver=resolver)
