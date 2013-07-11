@@ -22,7 +22,7 @@ from gridfs.errors import *
 def resolve_title_as_artist(artist_name):
 	logging.info("Resolving %s as artist using MusicBrainz" % artist_name)
 	q = mb.Query()
-	filter = mb.ArtistFilter(query=urllib.quote(artist_name))
+	filter = mb.ArtistFilter(query=artist_name.decode('utf8', 'ignore'))
 	res = q.getArtists(filter)
 	if len(res) > 0:
 		html = urllib2.urlopen(res[0].artist.id).read()
