@@ -165,6 +165,10 @@ def fetch_and_store_artist(col, fs, title, resolver=None):
 		return True
 	elif not 'photo' in artist_data:
 		artist = wikipedia_call(title, resolver)
+		if artist is None:
+			logging.warning("Couldn't find information for %s, skipping" % title)
+			return False
+
 		photo_id = fetch_and_store_photo(artist)
 		if photo_id is not None:
 			logging.info("%s updated with missing photo" % artist['name'])
