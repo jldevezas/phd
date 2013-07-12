@@ -259,7 +259,7 @@ class LatentFactorsModel:
 			
 			ratings = model['ratings']
 			for i in xrange(len(ratings)):
-				distances[str(i)] = distance(user_vector, ratings[i])
+				distances[str(i + 1)] = distance(user_vector, ratings[i])
 			
 		return sorted(distances.iteritems(), key=operator.itemgetter(1))[:limit]
 

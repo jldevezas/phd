@@ -12,24 +12,54 @@ import pymongo
 import urllib
 import urllib2
 import logging
-import musicbrainz2.webservice as mb
+import musicbrainzngs as mb
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from pymongo.errors import *
 from gridfs import GridFS
 from gridfs.errors import *
 
-def resolve_title_as_artist(artist_name):
+def bigrams(words):
+	wprev = None
+	for w in words:
+		if wprev is not None:
+			yield (wprev, w)
+		wprev = w
+
+def sentence_similarity(str1, str2):
+	count = 0.0
+
+	tokens1 = str1.lower().split(' ')
+	tokens2 = str2.lower().split(' ')
+	for token1 in tokens1:
+		for token2 in tokens2:
+			if token1 == token2:
+				count += 1.0
+
+	bigrams1 = list(bigrams(tokens1))
+	bigrams2 = list(bigrams(tokens2))
+	for bigram1 in bigrams1:
+		for bigram2 in bigrams2:
+			if bigram1 == bigram2:
+				count += 1.0
+
+	return count / max(len(tokens1) + len(bigrams1), len(tokens2) + len(bigrams2))
+
+def resolve_title_as_artist(artist_name, sim_threshold=0.5):
 	logging.info("Resolving %s as artist using MusicBrainz" % artist_name)
-	q = mb.Query()
-	filter = mb.ArtistFilter(query=artist_name.decode('utf8', 'ignore'))
-	res = q.getArtists(filter)
-	if len(res) > 0:
-		html = urllib2.urlopen(res[0].artist.id).read()
+
+	mb.set_useragent("Juggle Mobile", "0.1", "http://juggle.fe.up.pt")
+	
+	res = mb.search_artists(artist=artist_name)['artist-list']
+	res = sorted(res, key=lambda artist: int(artist['ext:score']), reverse=True)
+	
+	if len(res) > 0 and sentence_similarity(artist_name, res[0]['name']) > sim_threshold:
+		html = urllib2.urlopen('http://musicbrainz.org/artist/%s' % res[0]['id']).read()
 		soup = BeautifulSoup(html, 'lxml')
 		wikipedia = soup.select('li.wikipedia a[href]')
 		if len(wikipedia) > 0:
 			return (artist_name, wikipedia[0]['href'][wikipedia[0]['href'].rfind('/')+1:].replace('_', ' '))
+	
 	return (artist_name, artist_name)
 
 def wikipedia_call(query_title, resolver=None):
@@ -61,7 +91,7 @@ def wikipedia_call(query_title, resolver=None):
 	html = result['query']['pages'][revision_id]['revisions'][0]['*']
 
 	# Heuristic to detect ambigious pages.
-	if 'may refer to:' in html:
+	if 'may refer to:' in html or 'can refer to' in html:
 		logging.warning("Skipping ambiguous title %s" % title)
 		return None
 
@@ -161,7 +191,7 @@ if __name__ == "__main__":
 	mongo = MongoClient('localhost')
 	db = mongo[args.db_name]
 	col = db[args.collection_name]
-	fs = GridFS(db)
+	fs = GridFS(db, args.collection_name)
 	
 	for line in open(args.titles_path, 'r'):
 		title = line.strip()
