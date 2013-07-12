@@ -46,20 +46,23 @@ def sentence_similarity(str1, str2):
 	return count / max(len(tokens1) + len(bigrams1), len(tokens2) + len(bigrams2))
 
 def resolve_title_as_artist(artist_name, sim_threshold=0.5):
-	logging.info("Resolving %s as artist using MusicBrainz" % artist_name)
+	try:
+		logging.info("Resolving %s as artist using MusicBrainz" % artist_name)
+		mb.set_useragent("Juggle Mobile", "0.1", "http://juggle.fe.up.pt")
+		
+		res = mb.search_artists(artist=artist_name)['artist-list']
+		res = sorted(res, key=lambda artist: int(artist['ext:score']), reverse=True)
+		
+		if len(res) > 0 and sentence_similarity(artist_name, res[0]['name']) > sim_threshold:
+			html = urllib2.urlopen('http://musicbrainz.org/artist/%s' % res[0]['id']).read()
+			soup = BeautifulSoup(html, 'lxml')
+			wikipedia = soup.select('li.wikipedia a[href]')
+			if len(wikipedia) > 0:
+				return (artist_name, wikipedia[0]['href'][wikipedia[0]['href'].rfind('/')+1:].replace('_', ' '))
+	except:
+		logging.warning("Request to MusicBrainz failed for %s, skipping resolution" % artist_name)
+		pass 
 
-	mb.set_useragent("Juggle Mobile", "0.1", "http://juggle.fe.up.pt")
-	
-	res = mb.search_artists(artist=artist_name)['artist-list']
-	res = sorted(res, key=lambda artist: int(artist['ext:score']), reverse=True)
-	
-	if len(res) > 0 and sentence_similarity(artist_name, res[0]['name']) > sim_threshold:
-		html = urllib2.urlopen('http://musicbrainz.org/artist/%s' % res[0]['id']).read()
-		soup = BeautifulSoup(html, 'lxml')
-		wikipedia = soup.select('li.wikipedia a[href]')
-		if len(wikipedia) > 0:
-			return (artist_name, wikipedia[0]['href'][wikipedia[0]['href'].rfind('/')+1:].replace('_', ' '))
-	
 	return (artist_name, artist_name)
 
 def wikipedia_call(query_title, resolver=None):
@@ -91,7 +94,7 @@ def wikipedia_call(query_title, resolver=None):
 	html = result['query']['pages'][revision_id]['revisions'][0]['*']
 
 	# Heuristic to detect ambigious pages.
-	if 'may refer to:' in html or 'can refer to' in html:
+	if 'may refer to:' in html or 'can refer to' in html or 'may stand for' in html:
 		logging.warning("Skipping ambiguous title %s" % title)
 		return None
 
