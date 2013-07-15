@@ -293,3 +293,17 @@ class LatentFactorsModel:
 
 	def nearest_neighbor(self, item_ratings, distance=distance.euclidean):
 		return self.nearest_neighbors(item_ratings, distance, limit=1)[0]
+
+
+	# TODO calculate best basis size (number of latent factors?) to predict
+	def best_basis_size():
+		pass
+
+	# TODO metric to evaluate the quality fo the results based on cross validation
+	# MAE the best? implement this and other?
+	def mean_absolute_error:
+		pass
+
+	# TODO return 10 training set IDs, and train and test using those
+	def k_fold_cross_validation(k=10):
+		pass
