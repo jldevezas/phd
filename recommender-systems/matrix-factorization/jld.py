@@ -142,10 +142,13 @@ class LatentFactorsModel:
 
 			# Users' latent factors.
 			#model['W'] = mfact.W
-			model['W'] = np.dot(mfact.U, np.sqrt(mfact.S))
+			#model['W'] = np.dot(mfact.U, np.sqrt(mfact.S))
+			model['U'] = mfact.U
+			model['S'] = mfact.S
 			# Items' latent factors.
 			#model['H'] = mfact.H
-			model['H'] = np.dot(np.sqrt(mfact.S), mfact.V)
+			#model['H'] = np.dot(np.sqrt(mfact.S), mfact.V)
+			model['V'] = mfact.V
 			logging.info("Training completed")
 	
 	def predict(self, user_id, item_id):
@@ -163,7 +166,8 @@ class LatentFactorsModel:
 			if 'predicted_ratings' in model:
 				logging.info("Found precomputed prediction value.")
 				return model['predicted_ratings'][user_index, item_index]
-			predicted_rating = np.dot(model['W'][user_index, :], model['H'][:, item_index])
+			predicted_rating = np.dot(model['U'][user_index, :],
+					np.dot(model['S'][:], model['V'][:, item_index]))
 			return predicted_rating
 
 	def get_rating(self, user_id, item_id):
@@ -203,9 +207,10 @@ class LatentFactorsModel:
 			for user_id in model['users']:
 				logging.info("Precomputing predictions for user %s and storing in HDF5" % user_id)
 				user_index = model['users'][self.__escape(user_id)][()]
-				W = model['W'][user_index]
-				H = model['H']
-				predicted_ratings[user_index] = np.dot(W, H)
+				U = model['U'][user_index]
+				S = model['S']
+				V = model['V']
+				predicted_ratings[user_index] = np.dot(U, np.dot(S, V))
 
 		logging.info("Rating predictions precomputed")
 
@@ -238,25 +243,48 @@ class LatentFactorsModel:
 					stored_rating = model['ratings'][user_index, item_index]
 					if stored_rating == 0 or all:
 						results.append((self.__unescape(item_id), self.predict(user_id, item_id)))
-				results = sorted(results, key=lambda tup: tup[0], reverse=True)
+				results = sorted(results, key=lambda tup: tup[1], reverse=True)
 
 			return results
 
-	def nearest_neighbors(self, item_ratings, distance=distance.euclidean, limit=5):
-		distances = {}
+	def recommend_by_query(self, item_ratings, all=False):
+		results = []
 		with h5py.File(self.h5filename, 'r') as model:
-			if self.normalization:
-				ord_item_ratings = OrderedDict(item_ratings)
-				items = ord_item_ratings.keys()
-				counts = self.__normalize(ord_item_ratings.values())
-				for i in xrange(len(items)):
-					item_ratings[items[i]] = counts[i]
+			user_vector = self.__item_rating_dictionary_to_user_vector(item_ratings)
 
+			# NOTE Projected vector can be appended to U matrix to improve model incrementally.
+			projected_user_vector = np.dot(user_vector, np.dot(model['V'][:].T, np.linalg.inv(model['S'])))
+			
+			predictions = np.dot(projected_user_vector, np.dot(model['S'], model['V']))
+
+			for item_id in model['items']:
+				item_index = model['items'][item_id][()]
+				stored_rating = user_vector[item_index]
+				if stored_rating == 0 or all:
+					results.append((self.__unescape(item_id), predictions[item_index]))
+			
+			return sorted(results, key=lambda tup: tup[1], reverse=True)
+
+	def __item_rating_dictionary_to_user_vector(self, item_ratings):
+		if self.normalization:
+			ord_item_ratings = OrderedDict(item_ratings)
+			items = ord_item_ratings.keys()
+			counts = self.__normalize(ord_item_ratings.values())
+			for i in xrange(len(items)):
+				item_ratings[items[i]] = counts[i]
+
+		with h5py.File(self.h5filename, 'r') as model:
 			user_vector = np.zeros(len(model['items']))
 			for item_id in model['items']:
 				if self.__unescape(item_id) in item_ratings:
 					user_vector[model['items'][item_id][()]] = item_ratings[self.__unescape(item_id)]
-			
+
+		return user_vector
+
+	def nearest_neighbors(self, item_ratings, distance=distance.euclidean, limit=5):
+		distances = {}
+		with h5py.File(self.h5filename, 'r') as model:
+			user_vector = self.__item_rating_dictionary_to_user_vector(item_ratings)
 			ratings = model['ratings']
 			for i in xrange(len(ratings)):
 				distances[str(i + 1)] = distance(user_vector, ratings[i])
