@@ -12,11 +12,13 @@ import numpy as np
 import h5py
 import logging
 import operator
+import random
+from tempfile import NamedTemporaryFile
 from collections import OrderedDict
 from scipy.spatial import distance
 
 class LatentFactorsModel:
-	def __init__(self, h5filename):
+	def __init__(self, h5filename=None):
 		logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
 				datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
 
@@ -294,16 +296,108 @@ class LatentFactorsModel:
 	def nearest_neighbor(self, item_ratings, distance=distance.euclidean):
 		return self.nearest_neighbors(item_ratings, distance, limit=1)[0]
 
+	def __partition(self, lst, n):
+		division = len(lst) / float(n)
+		return [ lst[int(round(division * i)): int(round(division * (i + 1)))] for i in xrange(n) ]
 
 	# TODO calculate best basis size (number of latent factors?) to predict
-	def best_basis_size():
+	def best_basis_size(self):
 		pass
 
 	# TODO metric to evaluate the quality fo the results based on cross validation
 	# MAE the best? implement this and other?
-	def mean_absolute_error:
+	# XXX Another argument will be the model path, which is a class property.
+	def mean_absolute_error(self, original_user_vector, predicted_user_vector):
+		# Predict ratings for all items of each user and evaluate by comparing with the
+		# original ratings.
 		pass
 
 	# TODO return 10 training set IDs, and train and test using those
-	def k_fold_cross_validation(k=10):
-		pass
+	def k_fold_cross_validation(self, original_csv_path, k=10):
+		with open(original_csv_path, 'rb') as f_csv:
+			user_set = set([])
+			item_set = set([])
+			
+			# Load all user IDs.
+			logging.info("Loading all user IDs from %s" % original_csv_path)
+			for user, item, rating in csv.reader(f_csv, delimiter=self.training_csv_delimiter):
+				user_set.add(user)
+				item_set.add(item)
+			user_set = list(user_set)
+			
+			# Generate k partitions.
+			logging.info("Partitioning the user data into %d sets" % k)
+			random.shuffle(user_set)
+			folds = self.__partition(user_set, k)
+
+			# Create a temporary CVS file for each partition.
+			fold_csv_files = []
+			fold_csv_writers = []
+			for fold in folds:
+				tmp_file = NamedTemporaryFile(delete=False)
+				fold_csv_files.append(tmp_file)
+				fold_csv_writers.append(csv.writer(tmp_file, delimiter=self.training_csv_delimiter))
+
+			# Create user-fold_index dictionary.
+			user_fold_index = {}
+			has_item = []
+			for i in xrange(len(folds)):
+				has_item.append(set([]))
+				for user in folds[i]:
+					user_fold_index[user] = i
+
+
+			test_h5_filenames = []
+			for i in xrange(len(folds)):
+				tmpfile = NamedTemporaryFile(delete=False)
+				tmpfile.close()
+				test_h5_filenames.append(tmpfile.name)
+
+			# Restart reading CSV file and fill CSVs.
+			f_csv.seek(0)
+			item_vector = list(item_set)
+			for user, item, rating in csv.reader(f_csv, delimiter=self.training_csv_delimiter):
+				for i in xrange(len(fold_csv_writers)):
+					if user_fold_index[user] == i:
+						# XXX Unfinished from here... Need to use predict and evaluate ratings for test set,
+						# after storing test set.
+						# Store test set.
+						with h5py.File(test_h5_filenames[i]) as model:
+							if not 'test' in model:
+								model.create_dataset('test', (len(folds[i]), len(item_vector)))
+								model['test'][...] = 0
+							model['test'][folds[i].index(user)][item_vector.index(item)] = rating
+					else:
+						# Create training data.
+						fold_csv_writers[i].writerow([user, item, int(rating)])			
+						has_item[i].add(item)
+
+			# Add zero values for missing items for a random user
+			# (fix to guarantee that all items are included)
+			for i in xrange(len(has_item)):
+				not_i = 0
+				if i == 0: not_i = 1
+				for item in item_set - has_item[i]:
+					fold_csv_writers[i].writerow([folds[not_i][0], item, 0])
+
+			# Create model for each training set.
+			model_filenames = []
+			for fold_csv_file in fold_csv_files:
+				tmp_model_file = NamedTemporaryFile(delete=False)
+				tmp_model_file.close()
+				
+				model_filenames.append(tmp_model_file.name)
+				
+				model = LatentFactorsModel(tmp_model_file.name)
+				model.set_training_csv_delimiter(self.training_csv_delimiter)
+				model.set_training_rank(self.training_rank)
+				model.set_training_sample_size(self.training_sample_size)
+				
+				fold_csv_file.close()
+				model.train(fold_csv_file.name)
+
+			# Remove temporary files.
+			for fold_csv_file, model_filename in zip(fold_csv_files, model_filenames):
+				fold_csv_file.close()
+				#os.unlink(fold_csv_file.name)
+				#os.unlink(model_filename)
