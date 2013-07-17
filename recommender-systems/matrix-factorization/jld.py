@@ -313,7 +313,7 @@ class LatentFactorsModel:
 		pass
 
 	# TODO return 10 training set IDs, and train and test using those
-	def k_fold_cross_validation(self, original_csv_path, k=10):
+	def k_fold_cross_validation(self, original_csv_path, k=10, given_fraction=0.75):
 		with open(original_csv_path, 'rb') as f_csv:
 			user_set = set([])
 			item_set = set([])
