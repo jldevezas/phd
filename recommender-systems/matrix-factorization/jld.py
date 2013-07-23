@@ -13,6 +13,7 @@ import h5py
 import logging
 import operator
 import random
+import math
 from tempfile import NamedTemporaryFile
 from collections import OrderedDict
 from scipy.spatial import distance
@@ -73,7 +74,7 @@ class LatentFactorsModel:
 			if vector[i] == 0:
 				result.append(0) # TODO this should come from behind as None if it works
 			else:
-				result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / (max_vector - min_vector))
+				result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / float(max_vector - min_vector))
 		return np.array(result)
 
 	def train(self, csv_path):
@@ -254,7 +255,7 @@ class LatentFactorsModel:
 		with h5py.File(self.h5filename, 'r') as model:
 			user_vector = self.__item_rating_dictionary_to_user_vector(item_ratings)
 
-			# NOTE Projected vector can be appended to U matrix to improve model incrementally.
+			# NOTE Projected vector can be appended to U matrix to compute model incrementally.
 			projected_user_vector = np.dot(user_vector, np.dot(model['V'][:].T, np.linalg.inv(model['S'])))
 			
 			predictions = np.dot(projected_user_vector, np.dot(model['S'], model['V']))
@@ -304,16 +305,55 @@ class LatentFactorsModel:
 	def best_basis_size(self):
 		pass
 
-	# TODO metric to evaluate the quality fo the results based on cross validation
-	# MAE the best? implement this and other?
-	# XXX Another argument will be the model path, which is a class property.
-	def mean_absolute_error(self, original_user_vector, predicted_user_vector):
-		# Predict ratings for all items of each user and evaluate by comparing with the
-		# original ratings.
-		pass
+	# This is a batch method that computes MAE for a set of test users
+	def mean_absolute_error(self, original_prediction_indices_tuples):
+		mae = 0.0
+		given = 0
+		for original_user_vector, predicted_user_vector, indices in original_prediction_indices_tuples:
+			if len(original_user_vector) != len(predicted_user_vector):
+				raise Exception("Vector length mistmatch")
 
-	# TODO return 10 training set IDs, and train and test using those
-	def k_fold_cross_validation(self, original_csv_path, k=10, given_fraction=0.75):
+			if len(indices) < 1:
+				raise Exception("Index vector is empty, nothing to calculate")
+
+			original_user_vector = np.array(original_user_vector)
+			predicted_user_vector = np.array(predicted_user_vector)
+			indices = np.array(indices)
+			given += len(indices)
+
+			original_user_vector = original_user_vector[indices]
+			predicted_user_vector = predicted_user_vector[indices]
+
+			mae += np.sum(np.abs(original_user_vector - predicted_user_vector))
+
+		return mae / given
+
+	# This is a batch method that computes RMSE for a set of test users
+	def root_mean_squared_error(self, original_prediction_indices_tuples):
+		rmse = 0.0
+		given = 0
+		for original_user_vector, predicted_user_vector, indices in original_prediction_indices_tuples:
+			if len(original_user_vector) != len(predicted_user_vector):
+				raise Exception("Vector length mistmatch")
+
+			if len(indices) < 1:
+				raise Exception("Index vector is empty, nothing to calculate")
+
+			original_user_vector = np.array(original_user_vector)
+			predicted_user_vector = np.array(predicted_user_vector)
+			indices = np.array(indices)
+			given += len(indices)
+
+			original_user_vector = original_user_vector[indices]
+			predicted_user_vector = predicted_user_vector[indices]
+
+			rmse += np.sum(np.power(np.abs(original_user_vector - predicted_user_vector), 2))
+
+		return rmse / given
+
+	def k_fold_cross_validation(self, original_csv_path, k=10, given_fraction=0.8):
+		self.enable_normalization()
+
 		with open(original_csv_path, 'rb') as f_csv:
 			user_set = set([])
 			item_set = set([])
@@ -346,34 +386,41 @@ class LatentFactorsModel:
 				for user in folds[i]:
 					user_fold_index[user] = i
 
-
-			test_h5_filenames = []
+			hdf5_filenames = []
 			for i in xrange(len(folds)):
 				tmpfile = NamedTemporaryFile(delete=False)
 				tmpfile.close()
-				test_h5_filenames.append(tmpfile.name)
+				hdf5_filenames.append(tmpfile.name)
 
 			# Restart reading CSV file and fill CSVs.
+			logging.info("Creating training and test sets")
 			f_csv.seek(0)
 			item_vector = list(item_set)
 			for user, item, rating in csv.reader(f_csv, delimiter=self.training_csv_delimiter):
+				rating = int(rating)
 				for i in xrange(len(fold_csv_writers)):
 					if user_fold_index[user] == i:
-						# XXX Unfinished from here... Need to use predict and evaluate ratings for test set,
-						# after storing test set.
 						# Store test set.
-						with h5py.File(test_h5_filenames[i]) as model:
+						with h5py.File(hdf5_filenames[i]) as model:
 							if not 'test' in model:
-								model.create_dataset('test', (len(folds[i]), len(item_vector)))
+								model.create_dataset('test', (len(folds[i]), len(item_vector)), dtype='f')
 								model['test'][...] = 0
-							model['test'][folds[i].index(user)][item_vector.index(item)] = rating
+							model['test'][folds[i].index(user), item_vector.index(item)] = rating
 					else:
 						# Create training data.
-						fold_csv_writers[i].writerow([user, item, int(rating)])			
+						fold_csv_writers[i].writerow([user, item, rating])
 						has_item[i].add(item)
+
+			# Normalize test set.
+			logging.info("Normalizing test set")
+			for i in xrange(len(hdf5_filenames)):
+				with h5py.File(hdf5_filenames[i]) as model:
+					for i in xrange(model['test'].shape[0]):
+						model['test'][i] = self.__normalize(model['test'][i])
 
 			# Add zero values for missing items for a random user
 			# (fix to guarantee that all items are included)
+			logging.info("Adding reference to missing items")
 			for i in xrange(len(has_item)):
 				not_i = 0
 				if i == 0: not_i = 1
@@ -381,23 +428,51 @@ class LatentFactorsModel:
 					fold_csv_writers[i].writerow([folds[not_i][0], item, 0])
 
 			# Create model for each training set.
-			model_filenames = []
-			for fold_csv_file in fold_csv_files:
-				tmp_model_file = NamedTemporaryFile(delete=False)
-				tmp_model_file.close()
-				
-				model_filenames.append(tmp_model_file.name)
-				
-				model = LatentFactorsModel(tmp_model_file.name)
+			logging.info("Training models for each of the %d folds" % k)
+			for i in xrange(len(fold_csv_files)):
+				model = LatentFactorsModel(hdf5_filenames[i])
+
 				model.set_training_csv_delimiter(self.training_csv_delimiter)
 				model.set_training_rank(self.training_rank)
 				model.set_training_sample_size(self.training_sample_size)
 				
-				fold_csv_file.close()
-				model.train(fold_csv_file.name)
+				fold_csv_files[i].close()
+				model.train(fold_csv_files[i].name)
 
-			# Remove temporary files.
-			for fold_csv_file, model_filename in zip(fold_csv_files, model_filenames):
-				fold_csv_file.close()
-				#os.unlink(fold_csv_file.name)
-				#os.unlink(model_filename)
+			# Predict and evaluate all folds
+			logging.info("Using test sets to evaluate models in k=%d folds" % k)
+			fold_mae = []
+			fold_rmse = []
+			for i in xrange(len(hdf5_filenames)):
+				with h5py.File(hdf5_filenames[i]) as model:
+					query_prediction_indices_tuples = []
+					
+					for user_vector in model['test']:
+						# Randomly set given_fraction of ratings to zero.
+						query_user_vector = np.array([rating for rating in user_vector])
+						idx_ratings = np.flatnonzero(query_user_vector)
+						random.shuffle(idx_ratings)
+						idx_ratings = idx_ratings[0:math.ceil(len(idx_ratings) * given_fraction)]
+						query_user_vector[idx_ratings] = 0
+						
+						query_user_vector = list(query_user_vector)
+						idx_ratings = list(idx_ratings)
+
+						projected_user_vector = np.dot(query_user_vector,
+								np.dot(model['V'][:].T, np.linalg.inv(model['S'])))
+						predictions = self.__normalize(
+								np.dot(projected_user_vector, np.dot(model['S'], model['V'])))
+						
+						query_prediction_indices_tuples.append((user_vector, predictions, idx_ratings))
+					
+					fold_mae.append(self.mean_absolute_error(query_prediction_indices_tuples))
+					fold_rmse.append(self.root_mean_squared_error(query_prediction_indices_tuples))
+
+			logging.info("MAE:  %f +/- %f" % (np.mean(fold_mae), np.std(fold_mae)))
+			logging.info("RMSE: %f +/- %f" % (np.mean(fold_rmse), np.std(fold_rmse)))
+
+			# Delete temporary files.
+			logging.info("Deleting temporary files")
+			for fold_csv_file, hdf5_filename in zip(fold_csv_files, hdf5_filenames):
+				os.unlink(fold_csv_file.name)
+				os.unlink(hdf5_filename)

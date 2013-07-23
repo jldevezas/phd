@@ -20,10 +20,8 @@ if __name__ == "__main__":
 			help="the CSV column delimiter character (DEFAULT=',')")
 	parser.add_argument('-r', '--rank', type=int,
 			help="the number of latent factors (DEFAULT=1000)")
-	parser.add_argument('-s', '--size', type=int,
-			help="the size of the sample to take from the ratings CSV (DEFAULT=None)")
-	parser.add_argument('--precompute', action='store_true',
-			help="precompute and store prediction values in HDF5 (DEFAULT=False)")
+	parser.add_argument('-k', '--folds', type=int,
+			help="the number of folds to use in cross-validation (DEFAULT=10)")
 	args = parser.parse_args()
 
 	if not os.access(args.ratings_path, os.R_OK):
@@ -38,7 +36,7 @@ if __name__ == "__main__":
 	if args.rank is not None:
 		model.set_training_rank(args.rank)
 
-	if args.size is not None:
-		model.set_training_sample_size(args.size)
-
-	model.k_fold_cross_validation(args.ratings_path)
+	if args.folds is not None:
+		model.k_fold_cross_validation(args.ratings_path, k=args.folds)
+	else:
+		model.k_fold_cross_validation(args.ratings_path)
