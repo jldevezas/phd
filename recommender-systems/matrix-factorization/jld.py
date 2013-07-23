@@ -467,6 +467,8 @@ class LatentFactorsModel:
 					
 					fold_mae.append(self.mean_absolute_error(query_prediction_indices_tuples))
 					fold_rmse.append(self.root_mean_squared_error(query_prediction_indices_tuples))
+				
+				logging.info("Fold %d done" % (i+1, ))
 
 			logging.info("MAE:  %f +/- %f" % (np.mean(fold_mae), np.std(fold_mae)))
 			logging.info("RMSE: %f +/- %f" % (np.mean(fold_rmse), np.std(fold_rmse)))
