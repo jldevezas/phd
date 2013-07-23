@@ -411,8 +411,8 @@ class LatentFactorsModel:
 						fold_csv_writers[i].writerow([user, item, rating])
 						has_item[i].add(item)
 
-			# Normalize test set.
-			logging.info("Normalizing test set")
+			# Normalize test sets.
+			logging.info("Normalizing test sets")
 			for i in xrange(len(hdf5_filenames)):
 				with h5py.File(hdf5_filenames[i]) as model:
 					for i in xrange(model['test'].shape[0]):
