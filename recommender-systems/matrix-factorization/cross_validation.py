@@ -22,6 +22,10 @@ if __name__ == "__main__":
 			help="the number of latent factors (DEFAULT=1000)")
 	parser.add_argument('-k', '--folds', type=int,
 			help="the number of folds to use in cross-validation (DEFAULT=10)")
+	parser.add_argument('-n', '--feature-sampling-interval', type=int,
+			help="the sampling interval of the number of features to use in cross-validation")
+	parser.add_argument('-o', '--output', type=str,
+			help="output CSV filename, to store validation scores (MAE)")
 	args = parser.parse_args()
 
 	if not os.access(args.ratings_path, os.R_OK):
@@ -36,7 +40,20 @@ if __name__ == "__main__":
 	if args.rank is not None:
 		model.set_training_rank(args.rank)
 
+	k = 10
 	if args.folds is not None:
-		model.k_fold_cross_validation(args.ratings_path, k=args.folds)
-	else:
-		model.k_fold_cross_validation(args.ratings_path)
+		k = args.folds
+
+	feature_sampling = None
+	if args.feature_sampling_interval is not None:
+		feature_sampling_interval = args.feature_sampling_interval
+
+	output_filename = None
+	if args.output is not None:
+		output_filename = args.output
+
+	model.k_fold_cross_validation(
+			args.ratings_path,
+			k=k,
+			feature_sampling=feature_sampling_interval,
+			output_filename=output_filename)

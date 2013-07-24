@@ -351,7 +351,8 @@ class LatentFactorsModel:
 
 		return rmse / given
 
-	def k_fold_cross_validation(self, original_csv_path, k=10, given_fraction=0.8):
+	def k_fold_cross_validation(self, original_csv_path, k=10, given_fraction=0.8,
+			feature_sampling=None, output_filename=None):
 		self.enable_normalization()
 
 		with open(original_csv_path, 'rb') as f_csv:
@@ -443,9 +444,22 @@ class LatentFactorsModel:
 			logging.info("Using test sets to evaluate models in k=%d folds" % k)
 			fold_mae = []
 			fold_rmse = []
+			n_feature_fold_mae = {}
+			n_max_features = None
+			feature_sizes = None
+
 			for i in xrange(len(hdf5_filenames)):
 				with h5py.File(hdf5_filenames[i]) as model:
+					n_max_features = model['V'].shape[1]
+					if feature_sampling is not None:
+						feature_sizes = (range(1, max(n_max_features/feature_sampling, 20))
+								+ range(n_max_features / feature_sampling,
+									n_max_features, n_max_features / feature_sampling))
+						logging.info("Calculating MAE for the following number of features: %s"
+								% ', '.join([str(s) for s in feature_sizes]))
+					
 					query_prediction_indices_tuples = []
+					n_feature_query_prediction_indices_tuples = {}
 					
 					for user_vector in model['test']:
 						# Randomly set given_fraction of ratings to zero.
@@ -464,14 +478,63 @@ class LatentFactorsModel:
 								np.dot(projected_user_vector, np.dot(model['S'], model['V'])))
 						
 						query_prediction_indices_tuples.append((user_vector, predictions, idx_ratings))
+
+						if feature_sampling is not None:
+							for size in feature_sizes:
+								projected_user_vector = np.dot(query_user_vector,
+										np.dot(model['V'][0:size].T, np.linalg.inv(model['S'][0:size, 0:size])))
+								predictions = self.__normalize(np.dot(projected_user_vector,
+									np.dot(model['S'][0:size, 0:size], model['V'][0:size])))
+								
+								if not size in n_feature_query_prediction_indices_tuples:
+									n_feature_query_prediction_indices_tuples[size] = []
+
+								n_feature_query_prediction_indices_tuples[size].append(
+										(user_vector, predictions, idx_ratings))
 					
 					fold_mae.append(self.mean_absolute_error(query_prediction_indices_tuples))
 					fold_rmse.append(self.root_mean_squared_error(query_prediction_indices_tuples))
+
+					if feature_sampling is not None:
+						for size in feature_sizes:
+							if not size in n_feature_fold_mae:
+								n_feature_fold_mae[size] = []
+							n_feature_fold_mae[size].append(
+									self.mean_absolute_error(n_feature_query_prediction_indices_tuples[size]))
+
 				
 				logging.info("Fold %d done" % (i+1, ))
 
-			logging.info("MAE:  %f +/- %f" % (np.mean(fold_mae), np.std(fold_mae)))
-			logging.info("RMSE: %f +/- %f" % (np.mean(fold_rmse), np.std(fold_rmse)))
+			out = None
+			writer = None
+			if output_filename is not None:
+				out = open(output_filename, 'wb')
+				writer = csv.writer(out, delimiter=self.training_csv_delimiter)
+
+			avg_mae = np.mean(fold_mae)
+			std_mae = np.std(fold_mae)
+			logging.info("MAE(n_features=%d):  %f +/- %f" % (n_max_features, avg_mae, std_mae))
+			logging.info("RMSE(n_features=%d): %f +/- %f" % (n_max_features, np.mean(fold_rmse), np.std(fold_rmse)))
+
+			if writer is not None:
+				logging.info("Storing evaluation results in %s" % output_filename)
+				writer.writerow(["features", "avg.mae", "std.mae"])
+
+			if feature_sampling is not None:
+				for size in n_feature_fold_mae:
+					avg_mae = np.mean(n_feature_fold_mae[size])
+					std_mae = np.std(n_feature_fold_mae[size])
+					if writer is None:
+						logging.info("MAE(n_features=%d) = %f +/- %f" % (size, avg_mae, std_mae))
+					else:
+						writer.writerow([size, avg_mae, std_mae])
+
+
+			if writer is not None:
+				writer.writerow([n_max_features, avg_mae, std_mae])
+
+			if out is not None:
+				out.close()
 
 			# Delete temporary files.
 			logging.info("Deleting temporary files")
