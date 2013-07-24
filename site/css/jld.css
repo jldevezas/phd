@@ -35,9 +35,10 @@
 }
 
 #control {
+	z-index: 1000;
 	padding: 5px 10px;
 	border-radius: 10px;
-	background: #ddd;
+	background: #eee;
 }
 
 #control .ink-button {
@@ -62,20 +63,23 @@ select {
 }
 
 footer {
- /* Safari 4-5, Chrome 1-9 */
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f0f0f0), to(#f7f7f7));
+	clear: both;
+	min-height: 200px;
 
-  /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #f0f0f0, #f7f7f7);
+	/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f0f0f0), to(#f7f7f7));
 
-  /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #f0f0f0, #f7f7f7);
+	/* Safari 5.1, Chrome 10+ */
+	background: -webkit-linear-gradient(top, #f0f0f0, #f7f7f7);
 
-  /* IE 10 */
-  background: -ms-linear-gradient(top, #f0f0f0, #f7f7f7);
+	/* Firefox 3.6+ */
+	background: -moz-linear-gradient(top, #f0f0f0, #f7f7f7);
 
-  /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #f0f0f0, #f7f7f7);
+	/* IE 10 */
+	background: -ms-linear-gradient(top, #f0f0f0, #f7f7f7);
+
+	/* Opera 11.10+ */
+	background: -o-linear-gradient(top, #f0f0f0, #f7f7f7);
 }
 
 .axis path,

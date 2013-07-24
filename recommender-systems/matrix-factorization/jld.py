@@ -452,7 +452,7 @@ class LatentFactorsModel:
 				with h5py.File(hdf5_filenames[i]) as model:
 					n_max_features = model['V'].shape[1]
 					if feature_sampling is not None:
-						feature_sizes = (range(1, max(n_max_features/feature_sampling, 20))
+						feature_sizes = (range(1, min(n_max_features/feature_sampling, 20))
 								+ range(n_max_features / feature_sampling,
 									n_max_features, n_max_features / feature_sampling))
 						logging.info("Calculating MAE for the following number of features: %s"

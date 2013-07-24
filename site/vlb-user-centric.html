@@ -3,24 +3,14 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>
-			Community-Driven Music Discovery
-		</title>
+		<title>Community-Driven Music Discovery</title>
+
 		<meta name="description" content="">
 		<meta name="author" content="phd, visualization, devezas, music, discovery, communities, social">
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-		<!--link rel="shortcut icon" href="http://ink.local/assets/img/ink-favicon.ico">
-		<link rel="apple-touch-icon-precomposed" href="../img/touch-icon.57.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/touch-icon.72.png">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/touch-icon.114.png">
-		<link rel="apple-touch-startup-image" href="../img/splash.320x460.png"
-		media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
-		<link rel="apple-touch-startup-image" href="../img/splash.768x1004.png"
-		media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
-		<link rel="apple-touch-startup-image" href="../img/splash.1024x748.png"
-		media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)"-->
+
 		<link rel="stylesheet" type="text/css" href="css/ink-min.css">
 		<link rel="stylesheet" type="text/css" href="css/select2.css">
 		<link rel="stylesheet" type="text/css" href="css/jld.css">
@@ -28,48 +18,33 @@
 		<link rel="stylesheet" href="css/ink-ie-min.css" type="text/css" media="screen"
 		title="no title" charset="utf-8">
 		<![endif]-->
+
+		<script src="js/jquery-1.9.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/ink.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/ink-ui.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(document).on("ready", function() {
+				new Ink.UI.Sticky('#control');
+				$("#top").load("top.html");
+				$("#bottom").load("bottom.html");
+			});
+		</script>
 	</head>
 
 	<body>
-		<header class="ink-container ink-for-l">
-			<div class="ink-vspace">
-				<h1 class="">Community-Driven Music Discovery</h1>
-				<p>José Devezas, Computer Science PhD student @ DCC&ndash;FCUP.</p>
-			</div>
-		</header>
-
-		<nav class="ink-container ink-navigation">
-			<ul class="horizontal menu black">
-				<li><a href="index.html#about-me-and-my-phd">About Me and My PhD</a></li>
-				<li>
-					<a href="index.html#listening-behavior">Listening Behavior
-						<i class="icon-caret-down"></i></a>
-					<ul class="submenu">
-						<li><a href="vlb-user-centric.html">User-Centric Analysis</a></li>
-						<li><a href="vlb-global.html">Global Analysis</a></li>
-					</ul>
-				</li>
-			</ul>
-		</nav>
-
-		<header class="ink-container ink-for-m ink-for-s">
-			<div class="ink-vspace">
-				<h1 class="">Community-Driven Music Discovery</h1>
-				<p>José Devezas, Computer Science PhD student @ DCC&ndash;FCUP.</p>
-			</div>
-		</header>		
+		<div id="top"></div>
 		
-		<div class="ink-container">
-			<div class="ink-l100 ink-m100 ink-m100">
+		<div class="ink-grid">
+			<div class="large-100">
 				<section id="vlb-user-centric">
-					<div class="ink-vspace">
+					<div class="vertical-space">
 						<h4>User-Centric Analysis</h4>
 
 						<p>Explore listening behavior by selecting a user below. You can type a country to filter
 							by country or a number to filter by age. You can navigate to next or previous users either
 							by clicking the respective buttons or by using the <em>n</em> and <em>p</em> keys.</p>
 
-						<div id="control" class="ink-dockable">
+						<div id="control">
 							<select id="user-select"></select>&nbsp;
 							<button id="button-previous" class="ink-button">Previous</button>
 							<button id="button-next" class="ink-button">Next</button>
@@ -79,36 +54,36 @@
 						</div>
 					</div>
 
-					<div class="ink-vspace">
+					<div class="vertical-space">
 						<h5>Streamgraph for the User's Top 20 Overall Artists</h5>
-						<div class="ink-vspace">
+						<div class="vertical-space">
 							<div id="stream-tooltip"></div>
 							<div id="stream-graph"></div>
 						</div>
 					</div>
 
-					<div class="ink-vspace">
+					<div class="vertical-space">
 						<h5>Monthly Play Count for <span id="artist-monthly-name">
 								Most Frequently Listened Artist</span></h5>
-						<div class="ink-vspace">
+						<div class="vertical-space">
 							<div id="artist-monthly-tooltip"></div>
 							<div id="artist-monthly-chart"></div>
 						</div>
 					</div>
 
-					<div class="ink-vspace">
-						<div class="ink-l100">
-							<div class="ink-l50">
+					<div class="vertical-space">
+						<div class="large-100">
+							<div class="large-50">
 								<h5>Weekly Play Count for <span id="artist-weekly-name">
 										Most Frequently Listened Artist</span></h5>
-								<div class="ink-vspace">
+								<div class="vertical-space">
 									<div id="artist-weekly-tooltip"></div>
 									<div id="artist-weekly-chart"></div>
 								</div>
 							</div>
-							<div class="ink-l50">
+							<div class="large-50">
 								<h5>Top Artist Per Week Day</h5>
-								<div class="ink-vspace">
+								<div class="vertical-space">
 									<div id="top-artist-weekly-tooltip"></div>
 									<div id="top-artist-weekly-chart"></div>
 								</div>
@@ -116,9 +91,9 @@
 						</div>
 					</div>
 
-					<div class="ink-vspace">
-						<div class="ink-l100">
-							<div class="ink-vspace">
+					<div class="vertical-space">
+						<div class="large-100">
+							<div class="vertical-space">
 								<h5>Weekly Analysis</h5>
 								<p>After an initial exploratory analysis supported on our visualizations, we noticed that
 									certain artists were played more frequently on some days of the week, while other artists
@@ -137,17 +112,17 @@
 									though. We illustrate our technique below.</p>
 							</div>
 
-							<div class="ink-l100">
-								<div class="ink-vspace">
-									<div class="ink-l50">
+							<div class="large-100">
+								<div class="vertical-space">
+									<div class="large-50">
 										<h6>Weekly Play Count for user_000196</h6>
-										<div class="ink-vspace">
+										<div class="vertical-space">
 											<img src="img/charts/user_000196_weekly_scrobbles.png"/>
 										</div>
 									</div>
-									<div class="ink-l50">
+									<div class="large-50">
 										<h6>Weekly Play Count for user_000196 for Lamb</h6>
-										<div class="ink-vspace">
+										<div class="vertical-space">
 											<img src="img/charts/preferred_listening_weekday_user_000196_Lamb.png"/>
 										</div>
 									</div>
@@ -160,15 +135,15 @@
 								</div>
 							</div>
 
-							<div class="ink-l50">
+							<div class="large-50">
 								<h6>Preferred Weekdays for Top 10 Artists</h6>
-								<div class="ink-space">
+								<div class="space">
 									<div id="preferred-weekdays"></div>
 								</div>
 							</div>
-							<div class="ink-l50">
+							<div class="large-50">
 								<h6>Avoided Weekdays for Top 10 Artists</h6>
-								<div class="ink-space">
+								<div class="space">
 									<div id="avoided-weekdays"></div>
 								</div>
 							</div>
@@ -176,12 +151,10 @@
 					</div>
 				</section>
 
-				<script src="js/Ink.js"></script>
-				<script src="js/jquery-1.9.1.min.js"></script>
-				<script src="js/select2.min.js"></script>
-				<script src="js/date.js"></script>
-				<script src="js/d3.v3.min.js"></script>
-				<script src="js/jld.js"></script>
+				<script src="js/select2.min.js" type="text/javascript" charset="utf-8"></script>
+				<script src="js/date.js" type="text/javascript" charset="utf-8"></script>
+				<script src="js/d3.v3.min.js" type="text/javascript" charset="utf-8"></script>
+				<script src="js/jld.js" type="text/javascript" charset="utf-8"></script>
 				<script>
 					var vis = null;
 					var opt = {
@@ -313,14 +286,6 @@
 			</div>
 		</div>
 
-		<div class="ink-vspace">
-			<footer>
-				<div class="ink-container">
-					<p>Departamento de Ciência de Computadores, Faculdade de Ciências, Universidade do Porto
-						&amp; Laboratório SAPO/U.Porto</p>
-					<p>&copy; 2013 José Luís da Silva Devezas</p>
-				</div>
-			</footer>
-		</div>
+		<div id="bottom"></div>
 	</body>
 </html>
