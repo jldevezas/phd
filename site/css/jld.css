@@ -37,7 +37,9 @@
 #control {
 	z-index: 1000;
 	padding: 5px 10px;
+	border: 1px solid #bbb;
 	border-radius: 10px;
+	opacity: 0.9;
 	background: #eee;
 }
 
@@ -62,24 +64,32 @@ select {
 	max-width: 200px;
 }
 
+th {
+	text-align: left;
+}
+
 footer {
 	clear: both;
 	min-height: 200px;
 
 	/* Safari 4-5, Chrome 1-9 */
-	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f0f0f0), to(#f7f7f7));
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f7f7f7), to(#ffffff));
 
 	/* Safari 5.1, Chrome 10+ */
-	background: -webkit-linear-gradient(top, #f0f0f0, #f7f7f7);
+	background: -webkit-linear-gradient(top, #f7f7f7, #ffffff);
 
 	/* Firefox 3.6+ */
-	background: -moz-linear-gradient(top, #f0f0f0, #f7f7f7);
+	background: -moz-linear-gradient(top, #f7f7f7, #ffffff);
 
 	/* IE 10 */
-	background: -ms-linear-gradient(top, #f0f0f0, #f7f7f7);
+	background: -ms-linear-gradient(top, #f7f7f7, #ffffff);
 
 	/* Opera 11.10+ */
-	background: -o-linear-gradient(top, #f0f0f0, #f7f7f7);
+	background: -o-linear-gradient(top, #f7f7f7, #ffffff);
+}
+
+table.large-math tr td:last-child {
+	font-size: 125%;
 }
 
 .axis path,

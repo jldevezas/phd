@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Community-Driven Music Discovery</title>
+
+		<meta name="description" content="">
+		<meta name="author" content="phd, visualization, devezas, music, discovery, communities, social">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		
+		<link rel="stylesheet" type="text/css" href="css/ink-min.css">
+		<link rel="stylesheet" type="text/css" href="css/select2.css">
+		<link rel="stylesheet" type="text/css" href="css/jld.css">
+		<!--[if lte IE 7 ]>
+		<link rel="stylesheet" href="css/ink-ie-min.css" type="text/css" media="screen"
+		title="no title" charset="utf-8">
+		<![endif]-->
+
+		<script type="text/x-mathjax-config" charset="utf-8">
+			MathJax.Hub.Config({
+				tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] },
+			});
+		</script>
+		<script type="text/javascript" charset="utf-8"
+			src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+		<script src="js/jquery-1.9.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(document).on("ready", function() {
+				$("#top").load("top.html");
+				$("#bottom").load("bottom.html");
+			});
+		</script>
+	</head>
+
+	<body>
+		<div id="top"></div>
+
+		<div class="ink-grid">
+			<div class="column-group gutters top-space">
+				<div class="large-50">
+					<h4>PyJLD: A workbench for latent factor models</h4>
+					<p>As part of the PhD work, we've developed an open source Python library to experiment with
+						latent factor models. We've implemented SVD-based rating prediction and recommendation, and
+						a k-fold cross-validation method for the evaluation of the model and to compare the SVD
+						baseline to any further improvements we plan to add based on the social dimension.
+						Additionally, we've also extended the cross-validation method to enable the identification
+						of the number of latent factors that minimizes the mean absolute error.</p>
+
+					<p>Download <code>jld.py</code> from GitHub: <a
+							href="https://github.com/jldevezas/phd/tree/master/recommender-systems/matrix-factorization">git@github.com:jldevezas/phd.git</a></p>
+
+					<p>You can also get an R ggplot2 script from <a href="">here</a> to make a cool-looking chart
+						like the one on the right. It shows the minimum mean absolute error averaged over k=10
+						folds and the number of latent factors that produce that value. The script can directly be
+						used with the <code>cross_validation.py</code> CSV generated with <code>--output</code>
+						when using the <code>--feature-sampling-interval</code> argument</p>
+				</div>
+				<div class="large-50">
+					<div class="vertical-space">
+						<img src="img/feature_size_mae.png"/>
+					</div>
+				</div>
+
+				<div class="large-100">
+					<h4>Manual</h4>
+
+					<p>PyJLD consists of the library <code>jld.py</code> and the following command line tools that
+						implement and exemplify the features in this library: <code>train.py</code>,
+						<code>predict.py</code>, <code>recommend.py</code>, <code>recommend_by_query.py</code>,
+						<code>nn.py</code>, <code>cross_validation.py</code> and <code>server.py</code>.</p>
+
+					<h5><code>jld.py</code></h5>
+
+					<p>This library will comprise all the Python classes that I develop during my doctoral project.
+						For now, however, it only contains a single class named <code>LatentFactorsModel</code>
+						that implements rating prediction and recommendation using Singular Value Decomposition
+						(SVD), as well as k-fold cross-validation to evaluate your model and compare to any future
+						implementations.</p>
+
+					<p>Available methods are listed below, along with an explanation of how to use them:</p>
+
+					<h5><code>train.py</code></h5>
+
+					<h5><code>predict.py</code></h5>
+
+					<h5><code>recommend.py</code></h5>
+
+					<h5><code>recommend_by_query.py</code></h5>
+
+					<h5><code>nn.py</code></h5>
+
+					<h5><code>cross_validation.py</code></h5>
+
+					<h5><code>server.py</code></h5>
+
+				</div>
+			</div>
+		</div>
+
+		<div id="bottom"></div>
+	</body>
+</html>

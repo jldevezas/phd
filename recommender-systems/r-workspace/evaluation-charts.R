@@ -31,9 +31,13 @@ PlotFeatureSizeMae <- function(evaluation.filename, output.filename, max.x=NULL,
     scale_y_continuous(limits=c(min(d$avg.mae) - y.margin, max(d$avg.mae))) +
     labs(x="Number of Latent Factors", y="Average Mean Absolute Error")
   
-  pdf(file=output.filename, width=width, height=height)
-  print(chart)
-  dev.off()
+  ggsave(filename=output.filename, width=width, height=height)
 }
 
-PlotFeatureSizeMae("~/Desktop/stats.csv", "~/Desktop/feature_size_mae.pdf", max.x=100, width=8, height=4)
+PlotFeatureSizeMae("~/Desktop/lastfm-jld-dataset/output/eval.csv",
+                   "~/Desktop/feature_size_mae.pdf",
+                   max.x=500, width=8, height=4)
+
+PlotFeatureSizeMae("~/Desktop/lastfm-jld-dataset/output/eval.csv",
+                   "~/Desktop/feature_size_mae.png",
+                   max.x=500, width=6, height=4.2)
