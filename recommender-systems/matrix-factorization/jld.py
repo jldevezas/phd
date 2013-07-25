@@ -352,7 +352,7 @@ class LatentFactorsModel:
 		return rmse / given
 
 	def k_fold_cross_validation(self, original_csv_path, k=10, given_fraction=0.8,
-			feature_sampling=None, output_filename=None):
+			feature_sampling=None, max_features=None, output_filename=None):
 		self.enable_normalization()
 
 		with open(original_csv_path, 'rb') as f_csv:
@@ -445,16 +445,23 @@ class LatentFactorsModel:
 			fold_mae = []
 			fold_rmse = []
 			n_feature_fold_mae = {}
-			n_max_features = None
+			n_features = None
 			feature_sizes = None
 
 			for i in xrange(len(hdf5_filenames)):
 				with h5py.File(hdf5_filenames[i]) as model:
-					n_max_features = model['V'].shape[1]
+					n_features = model['V'].shape[1]
+
+					n_max_features = n_features
+					if max_features is not None:
+						n_max_features = max_features
+
 					if feature_sampling is not None:
-						feature_sizes = (range(1, min(n_max_features/feature_sampling, 20))
-								+ range(n_max_features / feature_sampling,
-									n_max_features, n_max_features / feature_sampling))
+						#feature_sizes = (range(1, min(n_max_features/feature_sampling, 20))
+						#		+ range(n_max_features / feature_sampling,
+						#			n_max_features, n_max_features / feature_sampling))
+						feature_sizes = sorted(set([int(round(x)) for x in
+							np.logspace(0, np.log10(n_max_features), feature_sampling)]))
 						logging.info("Calculating MAE for the following number of features: %s"
 								% ', '.join([str(s) for s in feature_sizes]))
 					
@@ -513,8 +520,8 @@ class LatentFactorsModel:
 
 			avg_mae = np.mean(fold_mae)
 			std_mae = np.std(fold_mae)
-			logging.info("MAE(n_features=%d):  %f +/- %f" % (n_max_features, avg_mae, std_mae))
-			logging.info("RMSE(n_features=%d): %f +/- %f" % (n_max_features, np.mean(fold_rmse), np.std(fold_rmse)))
+			logging.info("MAE(n_features=%d):  %f +/- %f" % (n_features, avg_mae, std_mae))
+			logging.info("RMSE(n_features=%d): %f +/- %f" % (n_features, np.mean(fold_rmse), np.std(fold_rmse)))
 
 			if writer is not None:
 				logging.info("Storing evaluation results in %s" % output_filename)
@@ -531,7 +538,7 @@ class LatentFactorsModel:
 
 
 			if writer is not None:
-				writer.writerow([n_max_features, avg_mae, std_mae])
+				writer.writerow([n_features, avg_mae, std_mae])
 
 			if out is not None:
 				out.close()

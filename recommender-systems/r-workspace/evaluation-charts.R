@@ -5,17 +5,17 @@
 # Chart plotting that goes with the jld.py library evaluation results.
 #
 
-if (!require(ggplot2)) {
-  install.packages("ggplot2")
-  library(ggplot2)
-}
-
 # evaluation.filename   CSV with at least two columns: the number of features and the average mean absolute error.
 # output.filename       PDF file to store the plotted chart.
 # max.x                 Right limit of the X axis (in some cases the MAE stabilizes and we don't need to see more).
 # width                 Width in points of the plotted chart.
 # height                Height in points of the plotted chart.
 PlotFeatureSizeMae <- function(evaluation.filename, output.filename, max.x=NULL, width=12, height=4) {
+  if (!require(ggplot2)) {
+    install.packages("ggplot2")
+    library(ggplot2)
+  }
+  
   d <- read.csv(evaluation.filename)
   if (!is.null(max.x)) {
     d <- d[which(d$features <= max.x), ]

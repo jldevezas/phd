@@ -23,7 +23,10 @@ if __name__ == "__main__":
 	parser.add_argument('-k', '--folds', type=int,
 			help="the number of folds to use in cross-validation (DEFAULT=10)")
 	parser.add_argument('-n', '--feature-sampling-interval', type=int,
-			help="the sampling interval of the number of features to use in cross-validation")
+			help="the sampling interval in a log space of the number of features to use in cross-validation")
+	parser.add_argument('-m', '--max-features', type=int,
+			help="""the maximum number of features to use in cross-validation
+				(ignored if sampling size is not defined)""")
 	parser.add_argument('-o', '--output', type=str,
 			help="output CSV filename, to store validation scores (MAE)")
 	args = parser.parse_args()
@@ -48,6 +51,10 @@ if __name__ == "__main__":
 	if args.feature_sampling_interval is not None:
 		feature_sampling_interval = args.feature_sampling_interval
 
+	max_features = None
+	if args.max_features is not None:
+		max_features = args.max_features
+
 	output_filename = None
 	if args.output is not None:
 		output_filename = args.output
@@ -56,4 +63,5 @@ if __name__ == "__main__":
 			args.ratings_path,
 			k=k,
 			feature_sampling=feature_sampling_interval,
+			max_features=max_features,
 			output_filename=output_filename)
