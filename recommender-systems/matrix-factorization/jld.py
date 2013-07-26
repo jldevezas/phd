@@ -301,10 +301,6 @@ class LatentFactorsModel:
 		division = len(lst) / float(n)
 		return [ lst[int(round(division * i)): int(round(division * (i + 1)))] for i in xrange(n) ]
 
-	# TODO calculate best basis size (number of latent factors?) to predict
-	def best_basis_size(self):
-		pass
-
 	# This is a batch method that computes MAE for a set of test users
 	def mean_absolute_error(self, original_prediction_indices_tuples):
 		mae = 0.0

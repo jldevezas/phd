@@ -20,15 +20,15 @@ if __name__ == "__main__":
 	parser.add_argument('model_path',
 			help="HDF5 file with the trained model containing the factorized matrices")
 	parser.add_argument('--love', type=csv,
-			help="Comma-separated item IDs for loved items.")
+			help="comma-separated item IDs for loved items")
 	parser.add_argument('--like', type=csv,
-			help="Comma-separated item IDs for liked items.")
+			help="comma-separated item IDs for liked items")
 	parser.add_argument('--neutral', type=csv,
-			help="Comma-separated item IDs for neutral items.")
+			help="comma-separated item IDs for neutral items")
 	parser.add_argument('--dislike', type=csv,
-			help="Comma-separated item IDs for disliked items.")
+			help="comma-separated item IDs for disliked items")
 	parser.add_argument('--hate', type=csv,
-			help="Comma-separated item IDs for hated items.")
+			help="comma-separated item IDs for hated items")
 	args = parser.parse_args()
 	
 	model = LatentFactorsModel(args.model_path)

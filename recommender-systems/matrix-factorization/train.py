@@ -13,7 +13,7 @@ from jld import LatentFactorsModel
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(
-			description="Train model based on NMF for user-item rating prediction.")
+			description="Train model based on SVD matrix factorization for user-item rating prediction.")
 	parser.add_argument('ratings_path',
 			help="a CSV file with no header and three columns: user_id, item_id, rating number")
 	parser.add_argument('model_path',
