@@ -38,12 +38,14 @@
 			<div class="large-100">
 				<section id="vlb-user-centric">
 					<div class="vertical-space">
-						<h4>User-Centric Analysis</h4>
+						<h3>User-Centric Listening Behavior</h3>
 
-						<p>Explore listening behavior by selecting a user below. You can type a country to filter
+						<p>
+							Explore listening behavior by selecting a user below. You can type a country to filter
 							by country or a number to filter by age. You can navigate to next or previous users
 							either by clicking the respective buttons or by using the <em>n</em> and <em>p</em>
-							keys.</p>
+							keys.
+						</p>
 
 						<div id="control">
 							<select id="user-select"></select>&nbsp;
@@ -56,7 +58,7 @@
 					</div>
 
 					<div class="vertical-space">
-						<h5>Streamgraph for the User's Top 20 Overall Artists</h5>
+						<h4>Streamgraph for the User's Top 20 Overall Artists</h4>
 						<div class="vertical-space">
 							<div id="stream-tooltip"></div>
 							<div id="stream-graph"></div>
@@ -64,8 +66,8 @@
 					</div>
 
 					<div class="vertical-space">
-						<h5>Monthly Play Count for <span id="artist-monthly-name">
-								Most Frequently Listened Artist</span></h5>
+						<h4>Monthly Play Count for <span id="artist-monthly-name">
+								Most Frequently Listened Artist</span></h4>
 						<div class="vertical-space">
 							<div id="artist-monthly-tooltip"></div>
 							<div id="artist-monthly-chart"></div>
@@ -75,15 +77,15 @@
 					<div class="vertical-space" id="weekly-charts">
 						<div class="large-100">
 							<div class="large-50">
-								<h5>Weekly Play Count for <span id="artist-weekly-name">
-										Most Frequently Listened Artist</span></h5>
+								<h4>Weekly Play Count for <span id="artist-weekly-name">
+										Most Frequently Listened Artist</span></h4>
 								<div class="vertical-space">
 									<div id="artist-weekly-tooltip"></div>
 									<div id="artist-weekly-chart"></div>
 								</div>
 							</div>
 							<div class="large-50">
-								<h5>Top Artist Per Week Day</h5>
+								<h4>Top Artist Per Week Day</h4>
 								<div class="vertical-space">
 									<div id="top-artist-weekly-tooltip"></div>
 									<div id="top-artist-weekly-chart"></div>
@@ -95,23 +97,29 @@
 					<div class="vertical-space">
 						<div class="large-100">
 							<div class="vertical-space">
-								<h5>Weekly Analysis</h5>
-								<p>After an initial exploratory analysis supported on our visualizations, we
+								<h4>Weekly Analysis</h4>
+								<p>
+									After an initial exploratory analysis supported on our visualizations, we
 									noticed that certain artists were played more frequently on some days of the
-									week, while other artists were avoided on different weekdays.</p> 
+									week, while other artists were avoided on different weekdays.
+								</p> 
 
-								<p>In order to try and confirm this, we devised a simple heuristic based on the
+								<p>
+									In order to try and confirm this, we devised a simple heuristic based on the
 									dissimilarity matrix, where we measured the "closeness" of the play count for
 									each weekday to every other play count of the given artist. All values were
 									normalized and combined with the inverse of the normalized weekly total play
 									count for the user, thus giving more weight to a peak, as it is further apart
 									from the listening behavior for the given weekday. This means that the
 									preferred listening days for some artists might not directly map to the peaks
-									in the weekly play count chart above!</p>
+									in the weekly play count chart above!
+								</p>
 								
-								<p>The avoided weekdays were simply selected based on the closeness to zero. In
+								<p>
+									The avoided weekdays were simply selected based on the closeness to zero. In
 									this case, we used the interval [0, 0.1] simply to identify low values. We are
-									more interested on the positives though. We illustrate our technique below.</p>
+									more interested on the positives though. We illustrate our technique below.
+								</p>
 							</div>
 
 							<div class="large-100">
@@ -129,11 +137,13 @@
 										</div>
 									</div>
 									
-									<p>The chart on the left shows the normalized weekly play count distribution
+									<p>
+										The chart on the left shows the normalized weekly play count distribution
 										for the user. As you can see, the value 1.00, on Sunday, corresponds to the
 										day when <em>user_000196</em> listens to music the most. This also means
 										that, according to our heuristic, peaks on Sunday are less meaningful than
-										peaks on Friday, the weekday when the user listens to music the least.</p>
+										peaks on Friday, the weekday when the user listens to music the least.
+									</p>
 								</div>
 							</div>
 

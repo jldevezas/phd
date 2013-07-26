@@ -42,8 +42,9 @@
 		<div class="ink-grid">
 			<div class="column-group gutters top-space">
 				<div class="large-100">
-					<h4>SVD for dummies in the context of recommender systems</h4>
-					<p><strong>Matrix factorization</strong> pretty much means <strong>dividing a matrix in two
+					<h3>SVD for dummies in the context of recommender systems</h3>
+					<p>
+						<strong>Matrix factorization</strong> pretty much means <strong>dividing a matrix in two
 							parts</strong>, that multiplied will result in the original matrix or a closely similar
 						one.  Why do we want to use this for rating prediction or for recommendation? The trick is
 						in the word "similar". In fact, the resulting matrices, when multiplied, will result in a
@@ -52,9 +53,11 @@
 						estimate a rating for values that were previously zero. Interestingly, <a
 							href="http://www.ams.org/samplings/feature-column/fcarc-svd">Singular Value
 							Decomposition (SVD)</a> can capture the global structure of the training set's tastes.
-						It's quite magical!</p>
+						It's quite magical!
+					</p>
 
-					<p>Notice that we are assuming that unrated items are zero. This (very strong) assumption is
+					<p>
+						Notice that we are assuming that unrated items are zero. This (very strong) assumption is
 						called imputation. <strong>Imputation is the filling of missing values</strong> (ratings)
 						in the matrix so that we can then run the SVD, which doesn't exist mathematically for
 						sparse matrices. By <strong>sparse</strong> we mean many <strong>missing</strong> values
@@ -64,9 +67,12 @@
 						or the column mean, or both means sequentially; it's not always the act of replacing
 						missing values by zero. Why don't we use the means instead of zeros then? Simply because,
 						in computer science, calculating the SVD for dense matrices is not as optimized as doing it
-						for sparse matrices.</p>
+						for sparse matrices. What we can do is use mean imputation as a baseline for evaluation,
+						but more on that in <a href="k-fold-cross-validation.html">k-fold cross-validation</a>.
+					</p>
 
-					<p>We've been talking about factorizing a matrix into two new matrices that multiplied will
+					<p>
+						We've been talking about factorizing a matrix into two new matrices that multiplied will
 						give you back a very similar matrix. However, in SVD, you could argue that there are in
 						fact three matrices. The third matrix (the one in the middle of the <a
 							href="http://en.wikipedia.org/wiki/Singular_value_decomposition">formula</a>, which is
@@ -80,36 +86,46 @@
 							href="http://delab.csd.auth.gr/~dimitris/courses/ir_spring06/page_rank_computing/01cc99333c00501ddab030.pdf">Berry
 							et al. (1995)</a>. They have been doing it since forever and have it really well
 						explained (that's how I understood many details). Oh man, now I'm giving out my whole
-						secrets!</p>
+						secrets!
+					</p>
 
-					<p>We got the two matrices and that third one in the middle. So, now what? Well, you just
+					<p>
+						We got the two matrices and that third one in the middle. So, now what? Well, you just
 						<strong>multiply the three matrices and get the predicted ratings for all user-item
 							combinations</strong>.  With this, you can simply fill the missing ratings (imputed
 						zeros) in the original matrix and do whatever you want with it. Maybe you want to
 						recommend, right? Use predicted ratings as scores and rank the results by these scores.
 						Then just return the top-n recommendations of unrated items. That's it, the whole
 						<strong>basic</strong> idea behind rating prediction and recommendation using latent factor
-						models!</p>
+						models!
+					</p>
 
-					<h5>Understanding a bit more about what the latent factors are</h5>
-					<p><a href="http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf">Koren et al.
+					<h4>Understanding a bit more about what the latent factors are</h4>
+					<p>
+						<a href="http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf">Koren et al.
 							(2009)</a>, the winners of the Netflix competition, did a really good job at explaining
 						in detail how to use latent factor models for rating prediction and recommendation. In
 						fact, they have two figures that perfectly convey the differences between neighborhood
 						methods and latent factor models. If you look at their Figure 2, it will be quite clear
 						that in latent factor models we are positioning users and items in an n-dimensional space
 						(in their example, it's n=2 dimensions) and then we can easily recommend near items to each
-						user. This was not what I discussed above, but it also works. Why?</p>
+						user. This was not what I discussed above, but it also works. Why?
+					</p>
 
-					<p>Latent means hidden, and the factors are the features that characterize users and items.  So
+					<p>
+						Latent means hidden, and the factors are the features that characterize users and items.  So
 						yes, we are characterizing users and items using the same set of features! The problem is
 						they are latent, and even though we know their values, we don't know what they are. If we
 						were talking about music for example, we could think of it in the following way. A user
 						likes songs that have [speed=0.8, genre=metal, sentiment=+0.6, popularity=0.9, ...]. At the
 						same time, a song can have: [speed=0.7, genre=metal, sentiment=+0.8, popularity=0.85,
-						...].</p>
+						...]. However, to find nearest neighbors, or to calculate probable ratings, we don't need
+						to know what the features represent. What we lose in interpretation, we gain in global
+						context.
+					</p>
 
-					<p>We could select a set of features and then try to manually or automatically classify users
+					<p>
+						We could select a set of features and then try to manually or automatically classify users
 						and songs based on those, but in fact we don't know whether they'd be the best to
 						characterize our data. In our opinion and for our taste or what we perceive of global
 						taste, they are, but we're only taking into account the opinion of one. What latent factor
@@ -119,29 +135,51 @@
 						[0.8, 1, +0.8, 0.9, ...], in equivalence to the user we characterized before, but now the
 						features are unlabeled and unknown and "metal" is now defined by the integer 1. As I
 						stated, remember that these features might not even represent something that we can easily
-						map to reality.</p>
+						map to reality.
+					</p>
 
-					<h5>Scalability, querying and incremental models using a common approach</h5>
-					<p>Now, let's talk about the elephant in the room: scalability. Imagine your original matrix
+					<h4>Scalability, querying and incremental models using a common approach</h4>
+					<p>
+						Now, let's talk about the elephant in the room: scalability. Imagine your original matrix
 						was huge and that it took a really long time and resources to get it factorized. First, are
 						you gonna want to wait for the factorization for a long time? And then, are you gonna want
 						to multiply two smaller, yet still quite large, matrices again? Well, you're gonna, but you
 						might want to take a break while you're waiting. And I don't mean a coffee break, I mean a
-						vacation or something!</p>
+						vacation or something!
+					</p>
 
-					<p>Instead of factorizing the whole matrix you can build your model incrementally (if by model
-						you understood the three matrices resulting from the SVD, you got it right). But, José, you
-						ask, how can I do this? Well, dear reader who is still here after many lame jokes... You
-						have to factorize the matrix for a subset of the users (whatever fits in memory, for
-						example) and then iteratively "fold-in" new users (or blocks of new users) by calculating
-						the projection into the latent factors space and appending the result to the $U$ matrix.
-						Note that the users in the first matrix to be factorized already had ratings (or imputed
-						zeros for missing values) for all items in the collection, so iteratively added users cannot
-						include new items (we're only adding the user vectors from matrix $M$ incrementally).</p>
+					<p>
+						Instead of factorizing the whole matrix, however, you can build your model incrementally
+						(if by model you understood the three matrices resulting from the SVD, you got it right).
+						But, José, you ask, how can I do this? Well, dear reader who is still here after many
+						attempted jokes... You have to factorize the matrix for a subset of the users (whatever
+						fits in memory, for example) and then iteratively "fold-in" new users (or blocks of new
+						users) by calculating the projection into the latent factors space and appending the result
+						to the $U$ matrix.  Note that the users in the first matrix to be factorized already had
+						ratings (or imputed zeros for missing values) for all items in the collection, so
+						iteratively added users cannot include new items (we're only adding the user vectors from
+						matrix $M$ incrementally). Using a similar approach, you can also add new items, but you
+						have to do it with a complete item vector, with the ratings of all existing users for that
+						item (many ratings might be zero though, or even all of them).
+					</p>
 
-					<p>In order to calculate the projection of a user vector into the latent features space, we can
-						use the formula <b>2</b> from the table below. We've also added other relevant formulas
-						that can help you understand or perform all of the previously described tasks.</p>
+					<p>
+						Below we provide a table that aggregates the most important formulas to implement SVD. One
+						thing you have to remember is that after users and items are mapped into the latent factors
+						space, any calculations that involve the factorized matrices must be done after projecting
+						our original data into this new vector space.
+					</p>
+
+					<p>
+						In order to calculate the projection of a user vector into the latent factor space, we
+						can use formula <b>2</b> from the table below. Then, you can either append this vector to
+						matrix $U$, to build your model incrementally, or, with formula <b>4</b>, use the projected
+						user vector to query your model and obtain the predicted ratings for that user.  In Latent
+						Semantic Indexing, with documents and terms instead of users and items, and for a given
+						query, we would predict the weight of all terms in relation to this query, thus giving a
+						context to our query and enabling us to also search for the most related words in the
+						universe of the collection.
+					</p>
 
 					<table class="ink-table large-math half-top-space bottom-space">
 						<thead>
