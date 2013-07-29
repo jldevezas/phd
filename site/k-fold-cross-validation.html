@@ -27,6 +27,7 @@
 		<script type="text/javascript" charset="utf-8"
 			src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 		</script>
+
 		<script src="js/jquery-1.9.1.min.js" type="text/javascript" charset="utf-8"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(document).on("ready", function() {
@@ -42,11 +43,108 @@
 		<div class="ink-grid">
 			<div class="column-group gutters top-space">
 				<div class="large-100">
-					<h3>k-fold cross-validation for dummies</h3>
+					<h3>k-fold cross-validation</h3>
+					<p>
+						Cross-validation is a fairly easy to understand validation technique for predictive models.
+						The idea of cross-validation is simple, but let's scratch the basics first. Generically,
+						you can validate a model by putting aside (holding out) some of the data, and fitting
+						the model to the remaining data. The held out data is usually called a test set, while the
+						data used to create the model is usually called the training set. So, you use the training
+						set as your knowledge base which will then help you predict ratings for similar data that
+						might come in the future. We could use all the available data to feed our intelligent
+						system, but, if we want to test our system (and we do), we need to simulate new data by
+						putting some of our data aside to test the quality of the model.
+					</p>
+					<p>
+						While this provides a bit of information on whether or not our model is working properly,
+						there is always a bit of a bias attached to the data selection process. What if the
+						training data misses on all of the instance types in the test data? For example, in a music
+						recommendation system, the training set would contain all musical genres, except classical
+						music, while the test set would be almost completely classical music. This doesn't properly
+						enable us to evaluate our system, since, in a production scenario, training would have used
+						all of the data and the bias would have disappeared. To avoid situations like these, we use
+						cross-validation, which makes evaluation more robust, guaranteeing that all the data is
+						used to validate the system.
+					</p>
+					<p>
+						Like I said before, the idea of cross-validation is fairly simple. Instead of having a
+						single training set and test set pair, create $k$ training and test set pairs. We do this by
+						randomly partitioning our data into $k$ parts (usually 10) and then we take each of the $k$
+						parts as our test set, training the system with the remaining $k - 1$ parts. While this is
+						quite trivial, there are some details that seem to be less clear. Below, I will try to
+						clarify the process by explaining how I implemented cross-validation for my rating
+						prediction (<a href="latent-factor-models.html">latent factor</a>) model.
+					</p>
 
-					<h4>Validating your rating predictor model</h4>
+					<h4>Validating your rating prediction model</h4>
+					<p>
+						Let's assume we've got a training method that takes some data and builds our model. Let's
+						also assume that we have a prediction method that, based on the trained model, enables us
+						to estimate missing values of an instance. In the context of recommender systems, the
+						instance is usually a vector of item ratings given by a user. This is frequently quite
+						sparse, meaning the user hasn't rated most of the items in the collection. For example,
+						given a new user with the following five-star ratings: <code>[metallica=5, black_sabbath=4,
+							lady_gaga=0, led_zeppelin=3, ac/dc=3, madonna=1, slayer=0, the_doors=0, ...]</code>, we
+						want to predict the missing ratings, in this case corresponding to zero values. So we want
+						to know, based on the data we used to train our model (our knowledge base), how this user
+						would rate <code>lady_gaga</code>, <code>slayer</code> and <code>the_doors</code>. Now,
+						imagine we did know how this particular user rated these three unrated items, because we
+						had held out this data for testing. We could calculate the error (i.e. the difference
+						between the predicted rating and the real rating), which is used to validate our model.
+					</p>
+					<p>
+						In 10-fold cross-validation, we will have 10 training and test sets and thus calculate the
+						error for 10 trainings of the model. What we usually do next is calculate the average and
+						the standard deviation for the 10 error values to understand how low or high the error is
+						and whether or not it's stable. We are obviously looking for a low average (low error) and
+						a low standard deviation (stable for all training and test set combinations).
+					</p>
+					<p>
+						A detail that might be less clear is how to do the testing phase, for each of the $k$
+						folds. To test and calculate the error, we first need to set aside some of the ratings, so
+						that we can predict their values and see if the prediction differs a lot from the original
+						(i.e. calculate the error). While cross-validation is broadly explained in the
+						bibliography, the testing phase is not as clearly described, so we detail our
+						implementation.
+					</p>
+				</div>
 
-					<table class="ink-table large-math">
+				<div class="large-50">
+					<p>
+						What we opted to do, was to randomly remove an $\alpha$ fraction of the existing ratings
+						for each user. So, for example, for the testing phase, we iterate through all the user
+						vectors and remove 20% ($\alpha=0.2$) of the nonzero ratings.  We predict all ratings and,
+						for the 20% we removed, we calculate the error, comparing the held off value with the
+						predicted value. Error is usually calculated using either the Root Mean Squared Error or
+						the Mean Absolute Error, whose formulas you can see in the table below.
+					</p>
+					<p>
+						In order to better understand what the 20% hold out will represent, in Figure 1 we plotted
+						the distribution of nonzero ratings in a collection where the items are musical artists. As
+						we can see, most users only rated between 0 and 20 artists, but a few rated nearly 120
+						artists. We show this, because we believe it supports the selection of a user-dependent
+						fraction of ratings as opposed to the selection of a globally fixed number of given
+						ratings.
+					</p>
+					<p>
+						Were we to use a fixed set of randomly selected items to hold out, given the data sparsity,
+						the probability of not actually removing any of the ratings, for many of the users, would
+						be high. Directly holding out a fraction for each user seems more fair and less error
+						prone.
+					</p>
+				</div>
+
+				<div class="large-50">
+					<img src="img/artists_distribution.png"/>
+					<p class="small">
+						<b>Figure 1:</b> Distribution of rated artists for 1,000 users in a dataset
+						gathered from Last.fm, using a bin width of 10. Most users have rated only a few
+						artists, while a few users have rated many artists.
+					</p>
+				</div>
+
+				<div class="large-100">
+					<table class="ink-table large-math" style="margin-bottom: 60px">
 						<thead>
 							<tr>
 								<th></th>
@@ -63,10 +161,62 @@
 								</td>
 								<td>$MAE(r, u) = \frac{1}{n} \sum_{i=1}^{n}{|r_i - u_i|}$</td>
 							</tr>
+							<tr>
+								<th>2</th>
+								<td>
+									Root Mean Squared Error (RMSE) given the predicted ratings $r$ and the original
+									ratings $u$.
+								</td>
+								<td>$RMSE(r, u) = \sqrt{\frac{1}{n} \sum_{i=1}^{n}{(r_i - u_i)^2}}$</td>
+							</tr>
 						</tbody>
 					</table>
+				</div>
 
+				<div class="large-40">
 					<h4>Tuning the parameters of your model</h4>
+
+					<p>
+						Cross-validation might also be useful to tune the parameters of your model, by finding the
+						values that generate the lowest error. For example, in SVD, we might want to discover the
+						lowest number of latent factors that minimizes the error &mdash; additionally, a lower
+						number of factors takes less storage and enables a faster prediction.
+					</p>
+					<p>
+						Figure 2, to the right, depicts this process, helping us conclude that we minimize the
+						error by using no more than 15 latent factors. We also verify that at around 50 latent
+						factors, the error converges to about 50%.
+					</p>
+				</div>
+				<div class="large-60 top-space">
+					<div class="large-60 quarter-top-space">
+						<img src="img/feature_size_mae.png"/>
+					</div>
+					<div class="large-35 push-right">
+						<div class="half-top-space">
+							<p class="small">
+								<b>Figure 2:</b> Average, for 10 folds, of the mean absolute error, over a variable
+								number of latent factors, sampled in a logarithmic manner. Thus, the sampling
+								frequency was higher for lower numbers of latent factors, since the error tends to
+								stabilize for larger numbers of features. The ideal number of features is
+								highlighted and represents the minimum error value.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="large-100">
+					<h4>Evaluating your rating prediction model</h4>
+
+					<p>
+						Validating your model allows you to understand how far from the originals are the predicted
+						ratings, however you need to compare your system with an external baseline in order to
+						understand whether you have improved over existing models. Two simple baselines that can be
+						used are either a random model or a mean imputation model. For the random model, just fill
+						missing values with a random value within the ratings scale. For the mean imputation model,
+						you can either fill the missing values with the user mean, the item mean or both means
+						sequentially.
+					</p>
 				</div>
 			</div>
 		</div>

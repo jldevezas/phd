@@ -44,27 +44,29 @@
 				<div class="large-100">
 					<h3>SVD for dummies in the context of recommender systems</h3>
 					<p>
-						<strong>Matrix factorization</strong> pretty much means <strong>dividing a matrix in two
+						<strong>Matrix factorization</strong> pretty much means <strong>dividing a matrix into two
 							parts</strong>, that multiplied will result in the original matrix or a closely similar
-						one.  Why do we want to use this for rating prediction or for recommendation? The trick is
-						in the word "similar". In fact, the resulting matrices, when multiplied, will result in a
-						<strong>very similar matrix to the original</strong>. So there's a transformation of the
-						"training data" (our ratings matrix for a set of users and items) that enables us to
-						estimate a rating for values that were previously zero. Interestingly, <a
+						one. Given a user-item matrix, we get the user-factor and item-factor matrices. Factors are
+						a common set of features that characterize both the users and the items. Why do we want to
+						use this for rating prediction or for recommendation? The trick is in the word "similar".
+						The resulting matrices, when multiplied, will product a <strong>very similar
+							matrix to the original</strong>. So there's a transformation of the "training data"
+						(our ratings matrix for a set of users and items) that enables us to estimate a rating for
+						values that were previously zero. Interestingly, <a
 							href="http://www.ams.org/samplings/feature-column/fcarc-svd">Singular Value
-							Decomposition (SVD)</a> can capture the global structure of the training set's tastes.
-						It's quite magical!
+							Decomposition (SVD)</a> can capture the global structure of the training set. It's
+						quite magical!
 					</p>
 
 					<p>
 						Notice that we are assuming that unrated items are zero. This (very strong) assumption is
 						called imputation. <strong>Imputation is the filling of missing values</strong> (ratings)
 						in the matrix so that we can then run the SVD, which doesn't exist mathematically for
-						sparse matrices. By <strong>sparse</strong> we mean many <strong>missing</strong> values
-						and not many zeros, but yeah, most of the times our zeroes represent the missing values, so
-						we've come to think of sparse as many zeros and only a few non-zero values. Going back,
-						notice that imputation might also be the act of replacing missing values with the row mean
-						or the column mean, or both means sequentially; it's not always the act of replacing
+						sparse matrices. By <strong>sparse</strong> we mean many <strong>missing</strong> values,
+						not necessarily many zeros, but yeah, most of the times our zeros represent the missing
+						values, so we've come to think of sparse as many zeros and only a few nonzero values. Going
+						back, notice that imputation might also be the act of replacing missing values with the row
+						mean or the column mean, or both means sequentially; it's not always the act of replacing
 						missing values by zero. Why don't we use the means instead of zeros then? Simply because,
 						in computer science, calculating the SVD for dense matrices is not as optimized as doing it
 						for sparse matrices. What we can do is use mean imputation as a baseline for evaluation,
@@ -117,11 +119,11 @@
 						yes, we are characterizing users and items using the same set of features! The problem is
 						they are latent, and even though we know their values, we don't know what they are. If we
 						were talking about music for example, we could think of it in the following way. A user
-						likes songs that have [speed=0.8, genre=metal, sentiment=+0.6, popularity=0.9, ...]. At the
-						same time, a song can have: [speed=0.7, genre=metal, sentiment=+0.8, popularity=0.85,
-						...]. However, to find nearest neighbors, or to calculate probable ratings, we don't need
-						to know what the features represent. What we lose in interpretation, we gain in global
-						context.
+						likes songs that have <code>[speed=0.8, genre=metal, sentiment=+0.6, popularity=0.9,
+							...]</code>. At the same time, a song can have: <code>[speed=0.7, genre=metal,
+							sentiment=+0.8, popularity=0.85, ...]</code>. However, to find nearest neighbors, or to
+						calculate probable ratings, we don't need to know what the features represent. What we lose
+						in interpretation, we gain in global context.
 					</p>
 
 					<p>
@@ -132,10 +134,10 @@
 						models do is uncover these unknown features that might even (and probably do) represent
 						abstract concepts that we cannot grasp, but that are representative of the factorized
 						matrix and thus of the data as a whole. We can think of latent factors as something like
-						[0.8, 1, +0.8, 0.9, ...], in equivalence to the user we characterized before, but now the
-						features are unlabeled and unknown and "metal" is now defined by the integer 1. As I
-						stated, remember that these features might not even represent something that we can easily
-						map to reality.
+						<code>[0.8, 1, +0.8, 0.9, ...]</code>, in equivalence to the user we characterized before,
+						but now the features are unlabeled and unknown and "metal" is now defined by the integer 1.
+						As I stated, remember that these features might not even represent something that we can
+						easily map to reality.
 					</p>
 
 					<h4>Scalability, querying and incremental models using a common approach</h4>
