@@ -18,6 +18,31 @@ from tempfile import NamedTemporaryFile
 from collections import OrderedDict
 from scipy.spatial import distance
 
+# TODO Move to separate file. Must create jld package and reorganize code.
+def normalize(vector, scale=(0, 1)):
+	if len(vector) == 0:
+		return vector
+	min_vector = min(vector)
+	max_vector = max(vector)
+	if max_vector - min_vector == 0:
+		return list(np.zeros(len(vector)))
+	result = []
+	for i in xrange(len(vector)):
+		if vector[i] == 0:
+			result.append(0) # TODO this should come from behind as None if it works
+		else:
+			result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / float(max_vector - min_vector))
+	return np.array(result)
+
+def group_weighted_mean_by_user_activity(group_vectors):
+	weights = np.array([np.count_nonzero(group_vector) for group_vector in group_vectors])
+	weights = normalize(1 - weights / float(np.max(weights)), scale=(0.3, 0.7))
+	return np.sum([weight * np.array(group_vector)
+		for group_vector, weight in zip(group_vectors, weights)], axis=0)
+
+def group_mean(group_vectors):
+	return np.mean(group_vectors, axis=0)
+
 class LatentFactorsModel:
 	def __init__(self, h5filename=None):
 		logging.basicConfig(format='%(levelname)s %(asctime)s %(message)s',
@@ -61,21 +86,6 @@ class LatentFactorsModel:
 
 	def __unescape(self, h5key):
 		return h5key.replace('_', '/')
-
-	def __normalize(self, vector, scale=(0, 1)):
-		if len(vector) == 0:
-			return vector
-		min_vector = min(vector)
-		max_vector = max(vector)
-		if max_vector - min_vector == 0:
-			return list(np.zeros(len(vector)))
-		result = []
-		for i in xrange(len(vector)):
-			if vector[i] == 0:
-				result.append(0) # TODO this should come from behind as None if it works
-			else:
-				result.append(((scale[1] - scale[0]) * (vector[i] - min_vector)) / float(max_vector - min_vector))
-		return np.array(result)
 
 	def train(self, csv_path):
 		with h5py.File(self.h5filename) as model, open(csv_path, 'rb') as f_csv:
@@ -133,7 +143,7 @@ class LatentFactorsModel:
 				logging.info("Normalizing ratings matrix in HDF5 file")
 				for i in xrange(user_counter):
 					user_vector = model['ratings'][i][()]
-					model['ratings'][i] = self.__normalize(user_vector)
+					model['ratings'][i] = normalize(user_vector)
 
 			#logging.info("Running non-negative matrix factorization in disk")
 			#mfact = pymf.NMF(model['ratings'], num_bases=self.training_rank)
@@ -268,11 +278,32 @@ class LatentFactorsModel:
 			
 			return sorted(results, key=lambda tup: tup[1], reverse=True)
 
+	def recommend_to_group_by_query(self, group_item_ratings, group_combine=group_mean, all=False):
+		results = []
+		with h5py.File(self.h5filename, 'r') as model:
+			# We're combining the user profiles into a group profile using the average.
+			group_vector = group_combine([
+				self.__item_rating_dictionary_to_user_vector(group_item_ratings[user_id])
+				for user_id in group_item_ratings])
+
+			# NOTE Projected vector can be appended to U matrix to compute model incrementally.
+			projected_group_vector = np.dot(group_vector, np.dot(model['V'][:].T, np.linalg.inv(model['S'])))
+			
+			predictions = np.dot(projected_group_vector, np.dot(model['S'], model['V']))
+
+			for item_id in model['items']:
+				item_index = model['items'][item_id][()]
+				stored_rating = group_vector[item_index]
+				if stored_rating == 0 or all:
+					results.append((self.__unescape(item_id), predictions[item_index]))
+			
+			return sorted(results, key=lambda tup: tup[1], reverse=True)
+
 	def __item_rating_dictionary_to_user_vector(self, item_ratings):
 		if self.normalization:
 			ord_item_ratings = OrderedDict(item_ratings)
 			items = ord_item_ratings.keys()
-			counts = self.__normalize(ord_item_ratings.values())
+			counts = normalize(ord_item_ratings.values())
 			for i in xrange(len(items)):
 				item_ratings[items[i]] = counts[i]
 
@@ -413,7 +444,7 @@ class LatentFactorsModel:
 			for i in xrange(len(hdf5_filenames)):
 				with h5py.File(hdf5_filenames[i]) as model:
 					for i in xrange(model['test'].shape[0]):
-						model['test'][i] = self.__normalize(model['test'][i])
+						model['test'][i] = normalize(model['test'][i])
 
 			# Add zero values for missing items for a random user
 			# (fix to guarantee that all items are included)
@@ -477,7 +508,7 @@ class LatentFactorsModel:
 
 						projected_user_vector = np.dot(query_user_vector,
 								np.dot(model['V'][:].T, np.linalg.inv(model['S'])))
-						predictions = self.__normalize(
+						predictions = normalize(
 								np.dot(projected_user_vector, np.dot(model['S'], model['V'])))
 						
 						query_prediction_indices_tuples.append((user_vector, predictions, idx_ratings))
@@ -486,7 +517,7 @@ class LatentFactorsModel:
 							for size in feature_sizes:
 								projected_user_vector = np.dot(query_user_vector,
 										np.dot(model['V'][0:size].T, np.linalg.inv(model['S'][0:size, 0:size])))
-								predictions = self.__normalize(np.dot(projected_user_vector,
+								predictions = normalize(np.dot(projected_user_vector,
 									np.dot(model['S'][0:size, 0:size], model['V'][0:size])))
 								
 								if not size in n_feature_query_prediction_indices_tuples:
