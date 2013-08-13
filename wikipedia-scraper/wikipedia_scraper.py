@@ -12,7 +12,7 @@ import pymongo
 import urllib
 import urllib2
 import logging
-from SPARQLWrapper import SPARQLWrapper, JSON
+import sparql
 import musicbrainzngs as mb
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
@@ -69,28 +69,26 @@ def resolve_title_as_artist_musicbrainz(artist_name, sim_threshold=0.5):
 def resolve_title_as_artist_dbpedia(artist_name, sim_threshold=0.5):
 	try:
 		logging.info("Resolving %s as artist using DBpedia" % artist_name)
-		sparql = SPARQLWrapper('http://dbpedia.org/sparql')	
-		sparql.setQuery('''
+		query = sparql.query('http://dbpedia.org/sparql', '''
 			select ?artist where {
 				?artist rdf:type ?type . 
 				?type rdf:subClassOf* <http://schema.org/MusicGroup> . 
 				?artist foaf:name "''' + artist_name.decode('utf-8') + '''"@en . 
 			} LIMIT 10''')
 
-		sparql.setReturnFormat(JSON)
-		results = sparql.query().convert()
+		results = query.fetchall()
 
-		if len(results['results']['bindings']) < 1:
+		if len(results) < 1:
 			logging.warning("Request to DBpedia returned no results for %s, skipping resolution" % artist_name)
 			return (artist_name, None)
 
 		title = None
 		maxSimilarity = 0.0
-		for result in results['results']['bindings']:
-			resolved_name = (result['artist']['value']
+		for result in results:
+			resolved_name = (sparql.unpack_row(result)[0].encode('utf-8')
 					.replace('http://dbpedia.org/resource/', '')
 					.replace('_', ' '))
-			similarity = sentence_similarity(artist_name, resolved_name)
+			similarity = sentence_similarity(artist_name, urllib.unquote(resolved_name))
 			if similarity > maxSimilarity:
 				title = resolved_name
 				maxSimilarity = similarity
@@ -139,6 +137,11 @@ def wikipedia_call(query_title, resolver=None, fallback_resolver=None):
 		logging.warning("Skipping ambiguous title %s" % title)
 		return None
 
+	# Heuristic to detect irrelevant pages.
+	if 'is a word meaning' in html:
+		logging.warning("Skipping irrelevant title %s" % title)
+		return None
+
 	soup = BeautifulSoup(html, 'lxml')
 
 	imgs = soup.select('table[class~=infobox] img')
@@ -153,7 +156,7 @@ def wikipedia_call(query_title, resolver=None, fallback_resolver=None):
 
 	for sup in soup.select('sup'):
 		sup.extract()
-	for strong in soup.select('strong[class=error]'):
+	for strong in soup.select('strong[class~=error]'):
 		strong.extract()
 	bio = ' '.join([p.text for p in soup.select('p')])
 
