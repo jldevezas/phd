@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
-# wikipediascraper.py
+# wikipedia_scraper.py
 # José Devezas (joseluisdevezas@gmail.com)
 # 2013-07-03
 
@@ -12,6 +12,7 @@ import pymongo
 import urllib
 import urllib2
 import logging
+from SPARQLWrapper import SPARQLWrapper, JSON
 import musicbrainzngs as mb
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
@@ -45,7 +46,7 @@ def sentence_similarity(str1, str2):
 
 	return count / max(len(tokens1) + len(bigrams1), len(tokens2) + len(bigrams2))
 
-def resolve_title_as_artist(artist_name, sim_threshold=0.5):
+def resolve_title_as_artist_musicbrainz(artist_name, sim_threshold=0.5):
 	try:
 		logging.info("Resolving %s as artist using MusicBrainz" % artist_name)
 		mb.set_useragent("Juggle Mobile", "0.1", "http://juggle.fe.up.pt")
@@ -63,12 +64,52 @@ def resolve_title_as_artist(artist_name, sim_threshold=0.5):
 		logging.warning("Request to MusicBrainz failed for %s, skipping resolution" % artist_name)
 		pass 
 
-	return (artist_name, artist_name)
+	return (artist_name, None)
 
-def wikipedia_call(query_title, resolver=None):
+def resolve_title_as_artist_dbpedia(artist_name, sim_threshold=0.5):
+	try:
+		logging.info("Resolving %s as artist using DBpedia" % artist_name)
+		sparql = SPARQLWrapper('http://dbpedia.org/sparql')	
+		sparql.setQuery('''
+			select ?artist where {
+				?artist rdf:type ?type . 
+				?type rdf:subClassOf* <http://schema.org/MusicGroup> . 
+				?artist foaf:name "''' + artist_name.decode('utf-8') + '''"@en . 
+			} LIMIT 10''')
+
+		sparql.setReturnFormat(JSON)
+		results = sparql.query().convert()
+
+		if len(results['results']['bindings']) < 1:
+			logging.warning("Request to DBpedia returned no results for %s, skipping resolution" % artist_name)
+			return (artist_name, None)
+
+		title = None
+		maxSimilarity = 0.0
+		for result in results['results']['bindings']:
+			resolved_name = (result['artist']['value']
+					.replace('http://dbpedia.org/resource/', '')
+					.replace('_', ' '))
+			similarity = sentence_similarity(artist_name, resolved_name)
+			if similarity > maxSimilarity:
+				title = resolved_name
+				maxSimilarity = similarity
+	except urllib2.HTTPError:
+		logging.warning("Request to DBpedia failed for %s, skipping resolution" % artist_name)
+		return (artist_name, None)
+	
+	return (artist_name, title)
+
+def wikipedia_call(query_title, resolver=None, fallback_resolver=None):
 	title = query_title
 	if resolver is not None:
-		title = resolver(title)[1]
+		resolved_title = resolver(title)[1]
+		if resolved_title is not None:
+			title = resolved_title
+		elif fallback_resolver is not None:
+			resolved_title = fallback_resolver(title)[1]
+			if resolved_title is not None:
+				title = resolved_title
 
 	logging.info("Getting summary data for %s" % query_title)
 
@@ -141,10 +182,10 @@ def fetch_and_store_photo(artist):
 
 	return photo_id
 
-def fetch_and_store_artist(col, fs, title, resolver=None):
+def fetch_and_store_artist(col, fs, title, resolver=None, fallback_resolver=None):
 	artist_data = col.find_one({ '_id': title })
 	if artist_data is None:
-		artist = wikipedia_call(title, resolver)
+		artist = wikipedia_call(title, resolver, fallback_resolver)
 		if artist is None:
 			logging.warning("Couldn't find information for %s, skipping" % title)
 			return False
@@ -164,7 +205,7 @@ def fetch_and_store_artist(col, fs, title, resolver=None):
 		col.insert(artist_data)
 		return True
 	elif not 'photo' in artist_data:
-		artist = wikipedia_call(title, resolver)
+		artist = wikipedia_call(title, resolver, fallback_resolver)
 		if artist is None:
 			logging.warning("Couldn't find information for %s, skipping" % title)
 			return False
@@ -191,8 +232,11 @@ if __name__ == "__main__":
 			help="MongoDB database name where scraped data will be stored")
 	parser.add_argument('collection_name',
 			help="MongoDB collection name where scraped data will be stored")
-	parser.add_argument('--resolver', type=str, choices=["artists"],
+	resolver_choices = ["artists:musicbrainz", "artists:dbpedia"]
+	parser.add_argument('--resolver', type=str, choices=resolver_choices,
 			help="Select a resolver to disambiguate the title for a given context")
+	parser.add_argument('--fallback-resolver', type=str, choices=resolver_choices,
+			help="Select a fallback resolver to disambiguate the title for a given context")
 	args = parser.parse_args()
 
 	mongo = MongoClient('localhost')
@@ -200,10 +244,20 @@ if __name__ == "__main__":
 	col = db[args.collection_name]
 	fs = GridFS(db, args.collection_name)
 	
+	resolver = None
+	if args.resolver is not None:
+		if args.resolver == "artists:musicbrainz":
+			resolver = resolve_title_as_artist_musicbrainz
+		elif args.resolver == "artists:dbpedia":
+			resolver = resolve_title_as_artist_dbpedia
+
+	fallback_resolver = None
+	if args.fallback_resolver is not None:
+		if args.fallback_resolver == "artists:musicbrainz":
+			fallback_resolver = resolve_title_as_artist_musicbrainz
+		elif args.fallback_resolver == "artists:dbpedia":
+			fallback_resolver = resolve_title_as_artist_dbpedia
+
 	for line in open(args.titles_path, 'r'):
 		title = line.strip()
-		resolver = None
-		if args.resolver is not None:
-			if args.resolver == "artists":
-				resolver = resolve_title_as_artist
-		fetch_and_store_artist(col, fs, title, resolver=resolver)
+		fetch_and_store_artist(col, fs, title, resolver=resolver, fallback_resolver=fallback_resolver)
