@@ -138,7 +138,7 @@ def wikipedia_call(query_title, resolver=None, fallback_resolver=None):
 		return None
 
 	# Heuristic to detect irrelevant pages.
-	if 'is a word meaning' in html:
+	if 'is a word meaning' in html or 'is a redirect' in html:
 		logging.warning("Skipping irrelevant title %s" % title)
 		return None
 
