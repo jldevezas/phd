@@ -92,7 +92,7 @@ def resolve_title_as_artist_dbpedia(artist_name, sim_threshold=0.5):
 			if similarity > maxSimilarity:
 				title = resolved_name
 				maxSimilarity = similarity
-	except urllib2.HTTPError:
+	except urllib2.HTTPError, sparql.SparqlException:
 		logging.warning("Request to DBpedia failed for %s, skipping resolution" % artist_name)
 		return (artist_name, None)
 	
