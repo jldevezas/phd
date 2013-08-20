@@ -80,8 +80,8 @@
 							href="http://en.wikipedia.org/wiki/Singular_value_decomposition">formula</a>, which is
 						&#931;) represents the relevance or weight of each feature, for the description of the two
 						dimensions of the original matrix. By two dimensions we mean the users and the items, but
-						in other contexts, such as information retrieval, users could be documents and items could
-						be words, thus applying the same idea to something that is called <a
+						in other contexts, such as information retrieval, users could be terms and items could
+						be documents, thus applying the same idea to something that is called <a
 							href="http://en.wikipedia.org/wiki/Latent_semantic_indexing">Latent Semantic Indexing
 							(LSI)</a>. In fact, if you have any doubts about latent factor models using SVD as your
 						matrix factorization methodology, go check informa retrieval bibliography on LSI, namely <a
@@ -177,7 +177,7 @@
 						can use formula <b>2</b> from the table below. Then, you can either append this vector to
 						matrix $U$, to build your model incrementally, or, with formula <b>4</b>, use the projected
 						user vector to query your model and obtain the predicted ratings for that user.  In Latent
-						Semantic Indexing, with documents and terms instead of users and items, and for a given
+						Semantic Indexing, with terms and documents instead of users and items, and for a given
 						query, we would predict the weight of all terms in relation to this query, thus giving a
 						context to our query and enabling us to also search for the most related words in the
 						universe of the collection.
@@ -201,13 +201,13 @@
 								<th>2</th>
 								<td>Projecting vector $u$ of user ratings (of all items) into latent factors
 									space.</td>
-								<td>$\hat{u} = u^T U \Sigma^{-1}$</td>
+								<td>$\hat{u} = u V \Sigma^{-1}$</td>
 							</tr>
 							<tr>
 								<th>3</th>
 								<td>Projecting vector $i$ of item ratings (by all users) into latent factors
 									space.</td>
-								<td>$\hat{i} = i V \Sigma^{-1}$</td>
+								<td>$\hat{i} = i^T U \Sigma^{-1}$</td>
 							</tr>
 							<tr>
 								<th>4</th>
