@@ -8,4 +8,4 @@
 from jldlab.sna import MongoGraph
 
 g = MongoGraph()
-
+g.load_from_csv("/Users/jldevezas/Desktop/lastfm-jld-dataset/lastfm-friends.csv")
