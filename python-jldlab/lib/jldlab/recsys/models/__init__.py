@@ -1,0 +1,1 @@
+from latentfactorsmodel import LatentFactorsModel
