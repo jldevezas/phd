@@ -8,3 +8,4 @@
 from jldlab.sna import SLPA
 
 slpa = SLPA()
+slpa.run()
