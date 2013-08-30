@@ -73,8 +73,9 @@ class SLPA:
 	def _post_processing(self, r):
 		logging.info("Post-processing: getting communities by removing labels with probability < r={0}".format(r))
 		for node in self.nodes.find():
-			node[communities_property] = [label for label in set(node[labels_property])
-					if node[labels_property].count(label) / float(len(node[labels_property])) < r]
+			node[self.communities_property] = [label for label in set(node[self.labels_property])
+					if node[self.labels_property].count(label) / float(len(node[self.labels_property])) >= r]
+			self.nodes.save(node)
 		logging.info("Post-processing: communities obtained")
 
 	def run(self, T=20, r=0.05):
