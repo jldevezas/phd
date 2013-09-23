@@ -13,9 +13,17 @@ libs <- function() {
     install.packages("parallel")
     library(parallel)
   }
+  
+  if (!require(dtw)) {
+    install.packages("dtw")
+    library(dtw)
+  }
+  
+  if (!require(cluster)) {
+    install.packages("cluster")
+    library(cluster)
+  }
 }
-
-libs()
 
 read.data <- function(path) {
   dd <- sqldf("SELECT user_id, artist, timestamp FROM tracks", dbname=path)
@@ -50,15 +58,55 @@ prepare.time.series <- function(dd, user_id) {
 }
 
 plot.time.series <- function(user.data) {
-  print(ggplot(user.data, aes(x=date, y=count, fill=factor(artist))) + geom_bar(stat="identity") +
+  print(ggplot(user.data, aes(x=date, y=count, fill=factor(artist))) +
+          geom_bar(stat="identity") +
+          scale_fill_discrete("Artists") +
+          labs(x="Date", y="Play Count") +
           guides(fill=guide_legend(nrow=10, title.hjust=0.4, title.theme=element_text(size=12, face="bold", angle=0))))
 }
 
-motifs <- function(dd, from=3, to=5) {
+best.clustering <- function(hclust.result, hclust.dist) {
+  best.cl <- NULL
+  best.sil <- 0
+  for (h in 0:max(hclust.result$height)) {
+    cl <- cutree(hclust.result, h=h)
+    sil <- summary(silhouette(cl, hclust.dist))$avg.width
+    if (sil > best.sil) {
+      best.sil <- sil
+      best.cl <- cl
+    }
+  }
   
+  return(best.cl)
 }
 
+motifs <- function(dd, from=3, to=10) {
+  artists = sort(unique(dd$artist))
+  dates = sort(unique(dd$date))
+  m <- matrix(0, nrow=length(dates), ncol=length(artists))
+  colnames(m) <- artists
+  rownames(m) <- as.character(dates)
+  m[as.character(dates), artists] <- dd[unlist(lapply(artists, function(a) which(dd$artist == a))), ]$count
+  m <- t(m)
+  
+  for (size in from:to) {
+    res <- NULL
+    for (i in 1:(ncol(m)-size)) {
+      res <- rbind(res, m[, i:(i+size-1)])
+    }
+    res <- as.matrix(res)
+    colnames(res) <- 1:size
+    res <- res[which(rowSums(res) > 0), ]
+    dist.matrix <- dist(res, method="DTW")
+    names(dist.matrix) <- NULL
+    hc <- hclust(dist.matrix, method="average")
+    plot(hc)
+    return(best.clustering(hc, dist.matrix))
+  }
+  return(m)
+}
+
+libs()
 dd <- read.data("/Users/jldevezas/Desktop/lastfm-dump-SNAPSHOT-20130918T1023.db")
-plot.time.series(prepare.time.series(dd, 1))
 res <- mclapply(as.list(sort(unique(dd$user_id))), function(uid) prepare.time.series(dd, uid))
-#plot.time.series(res[[1]])
+plot.time.series(res[[1]])
