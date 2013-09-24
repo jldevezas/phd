@@ -80,7 +80,20 @@ best.clustering <- function(hclust.result, hclust.dist) {
   return(best.cl)
 }
 
-motifs <- function(dd, from=3, to=10) {
+clustering.to.list <- function(cl, m) {
+  res <- list()
+  for (idx in 1:length(cl)) {
+    group <- as.character(cl[[idx]])
+    if (is.null(res[[group]])) {
+      res[[group]] <- m[idx, ]
+    } else {
+      res[[group]] <- rbind(res[[group]], m[idx, ])
+    }
+  }
+  return(res)
+}
+
+motifs <- function(dd, sizes=c(3,5,10)) {
   artists = sort(unique(dd$artist))
   dates = sort(unique(dd$date))
   m <- matrix(0, nrow=length(dates), ncol=length(artists))
@@ -89,7 +102,8 @@ motifs <- function(dd, from=3, to=10) {
   m[as.character(dates), artists] <- dd[unlist(lapply(artists, function(a) which(dd$artist == a))), ]$count
   m <- t(m)
   
-  for (size in from:to) {
+  all.res <- list()
+  for (size in sizes) {
     res <- NULL
     for (i in 1:(ncol(m)-size)) {
       res <- rbind(res, m[, i:(i+size-1)])
@@ -100,10 +114,11 @@ motifs <- function(dd, from=3, to=10) {
     dist.matrix <- dist(res, method="DTW")
     names(dist.matrix) <- NULL
     hc <- hclust(dist.matrix, method="average")
-    plot(hc)
-    return(best.clustering(hc, dist.matrix))
+    best <- best.clustering(hc, dist.matrix)
+    
+    all.res[[size]] <- clustering.to.list(best, res)
   }
-  return(m)
+  return(all.res)
 }
 
 libs()
