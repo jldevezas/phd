@@ -45,6 +45,7 @@ prepare.time.series <- function(dd, user_id) {
   dv <- dv[which(dv$artist %in% top.artists(dv, 20)), ]
   res <- aggregate(dv$artist, by=list(artist=dv$artist, date=dv$date), length)
   names(res) <- c("artist", "date", "count")
+  res$count <- scale(res$count)
   
   all.dates <- seq.Date(min(res$date) - 2, max(res$date) + 2, by="1 day")
   all.artists <- sort(unique(dv$artist))
@@ -124,4 +125,5 @@ motifs <- function(dd, sizes=c(3,5,10)) {
 libs()
 dd <- read.data("/Users/jldevezas/Desktop/lastfm-dump-SNAPSHOT-20130918T1023.db")
 res <- mclapply(as.list(sort(unique(dd$user_id))), function(uid) prepare.time.series(dd, uid))
+m <- motifs(res[[1]])
 plot.time.series(res[[1]])

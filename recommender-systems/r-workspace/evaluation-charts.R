@@ -39,5 +39,9 @@ PlotFeatureSizeMae("~/Desktop/lastfm-jld-dataset/output/eval.csv",
                    max.x=500, width=8, height=4)
 
 PlotFeatureSizeMae("~/Desktop/lastfm-jld-dataset/output/eval.csv",
+                   "~/Desktop/feature_size_mae.pdf",
+                   max.x=500, width=5, height=3.5)
+
+PlotFeatureSizeMae("~/Desktop/lastfm-jld-dataset/output/eval.csv",
                    "~/Desktop/feature_size_mae.png",
                    max.x=500, width=6, height=4.2)
