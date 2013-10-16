@@ -7,7 +7,7 @@
 
 def group_weighted_mean_by_user_activity(group_vectors):
 	weights = np.array([np.count_nonzero(group_vector) for group_vector in group_vectors])
-	weights = normalize(1 - weights / float(np.max(weights)), scale=(0.3, 0.7))
+	weights = normalize(1 - weights / float(np.max(weights)), scale=(0.3, 0.7), keep_zeros=False)
 	return np.sum([weight * np.array(group_vector)
 		for group_vector, weight in zip(group_vectors, weights)], axis=0)
 
