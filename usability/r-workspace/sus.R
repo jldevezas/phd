@@ -15,42 +15,53 @@ analyze.usability <- function(sus.q, plots=TRUE) {
   return(list(sus=sus, sus.summary=summary(sus), sus.std=sd(sus)))
 }
 
-analyze.recs <- function(recs, plots=TRUE) {
+analyze.recs <- function(recs, plots=TRUE, profile.size.threshold=NULL) {
 #   require(ggplot2)
   
-  cor.m <- cor(recs)
+  lrecs <- recs
+  
+  if (is.numeric(profile.size.threshold)) {
+    lrecs <- lrecs[which(recs$Profile.Size >= profile.size.threshold), ]
+  }
+  
+  cor.m <- cor(lrecs)
   colnames(cor.m) <- NULL
   rownames(cor.m) <- NULL
 
   if (plots) {
     par(mfrow=c(2,2))
-    hist(recs[, 1], xlim=c(0, 10), col="WhiteSmoke",
+    
+    hist(lrecs[, 1], xlim=c(0, 10), col="WhiteSmoke",
          xlab="Quality Score",
          ylab="Number of Users",
          main="Quality of Recommendations")
-    hist(recs[, 2], xlim=c(0, 30), col="WhiteSmoke",
+    
+    hist(lrecs[, 2], xlim=c(0, 30), col="WhiteSmoke",
          xlab="Number of Awful Recommendations",
          ylab="Number of Users",
          main="Awuful Recommendations")
-    hist(recs[, 3], xlim=c(0, 30), col="WhiteSmoke",
+    
+    hist(lrecs[, 3], xlim=c(0, 30), col="WhiteSmoke",
          xlab="Number of Great Recommendations",
          ylab="Number of Users",
          main="Great Recommendations")
-    hist(recs[, 4], xlim=c(0, 30), col="WhiteSmoke",
+    
+    hist(lrecs[, 4], xlim=c(0, 30), col="WhiteSmoke",
          xlab="Number of Captivating New Recommendations",
          ylab="Number of Users",
          main="Captivating New Recommendations")
-#     print(qplot(recs[, 1], geom="histogram", binwidth=1, xlim=c(0, 10),
+
+#     print(qplot(lrecs[, 1], geom="histogram", binwidth=1, xlim=c(0, 10),
 #                 xlab="Quality of Recommendations", ylab="Number of Users"))
-#     print(qplot(recs[, 2], geom="histogram", binwidth=3, xlim=c(0, 30),
+#     print(qplot(lrecs[, 2], geom="histogram", binwidth=3, xlim=c(0, 30),
 #                 xlab="Number of Awful Recommendations", ylab="Number of Users"))
-#     print(qplot(recs[, 3], geom="histogram", binwidth=3, xlim=c(0, 30),
+#     print(qplot(lrecs[, 3], geom="histogram", binwidth=3, xlim=c(0, 30),
 #                 xlab="Number of Great Recommendations", ylab="Number of Users"))
-#     print(qplot(recs[, 4], geom="histogram", binwidth=3, xlim=c(0, 30),
+#     print(qplot(lrecs[, 4], geom="histogram", binwidth=3, xlim=c(0, 30),
 #                 xlab="Number of Captivating New Recommendations", ylab="Number of Users"))
   }
   
-  return(list(recs.summary=summary(recs), recs.std=sapply(recs, sd), cor.matrix=cor.m))
+  return(list(recs.summary=summary(lrecs), recs.std=sapply(lrecs, sd), cor.matrix=cor.m))
 }
 
 eval <- read.csv("~/Desktop/juggle-eval.csv")
@@ -66,3 +77,4 @@ analyze.usability(sus.q[second.iteration, ])
 
 recs <- eval[, 16:(ncol(eval)-1)]
 analyze.recs(recs)
+analyze.recs(recs, profile.size.threshold=10)
