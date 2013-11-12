@@ -569,3 +569,34 @@ sapply(names(best.cluster$cluster[which(best.cluster$cluster == 1)]), function(c
 #
 
 rm(i, j, user.id, plays, month, artists, songs, user.adoption.by.rank)
+
+
+#
+# Test section
+#
+
+tmp.weight <- 1.5
+tmp.artist <- "Lamb"
+
+par(mfrow=c(2,2))
+
+tmp.df <- weekly.artist.plays$user_000196
+tmp.udf <- AddZeroWeekdays(tmp.df)
+tmp.user.plays <- aggregate(tmp.udf$plays, by=list(tmp.udf$weekday), sum)$x
+tmp.user.plays <- tmp.user.plays / max(tmp.user.plays)  
+
+tmp.plays <- AddZeroWeekdays(tmp.df[
+  which(tmp.df$artist == tmp.artist), ])$plays
+tmp.plays <- tmp.plays / max(tmp.plays)
+barplot(tmp.plays, main="Artist Playcount")
+tmp.plays <- tmp.plays * (1 / tmp.user.plays)
+barplot(tmp.plays, main="Affected Artist Playcount")
+
+tmp.listens <- data.frame(weekday=0:6, score=as.numeric(apply(
+  sapply(tmp.plays, function(e) tmp.plays - e * tmp.weight), 1, sum)))
+tmp.listens$accept <- tmp.listens$score > 0
+
+barplot(tmp.user.plays, main="User Playcount")
+barplot(tmp.listens$score, main="Preference Score")
+
+rm(list=ls(pattern="^tmp"))
