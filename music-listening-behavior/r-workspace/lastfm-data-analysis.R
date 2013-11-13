@@ -598,5 +598,14 @@ tmp.listens$accept <- tmp.listens$score > 0
 
 barplot(tmp.user.plays, main="User Playcount")
 barplot(tmp.listens$score, main="Preference Score")
+dev.off()
+
+p <- ggplot(tmp.listens, aes(x=weekdays[weekday+1], y=score, fill=factor(accept, levels=c(T, F)))) +
+  geom_bar(stat="identity") +
+  labs(x="Weekdays", y=expression(s^{(list(u, a))})) +
+  scale_fill_brewer(name="Accept", palette="Dark2") +
+  theme_gray(base_size = 22, base_family="Ubuntu") +
+  theme(legend.position="top")
+ggsave("~/Desktop/preferred_listening_weekday_user_000196_Lamb.png", p, width=9, height=7)
 
 rm(list=ls(pattern="^tmp"))
