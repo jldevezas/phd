@@ -517,12 +517,13 @@ names(hourly.plays.by.gender) <- c("gender", "hour", "plays")
 #
 
 p <- ggplot(hourly.plays.by.gender[order(hourly.plays.by.gender$gender), ], aes(x=factor(hour), y=plays, fill=gender)) +
-  geom_bar(stat="identity") +
+  #geom_bar(stat="identity") +
+  geom_bar(stat="identity", position="dodge") +
   scale_fill_manual(name="Gender", labels=c("NA", "Female", "Male"), values=c("gray40", "violetred2", "skyblue1")) +
   labs(x="Hour of the Day", y="Number of Scrobbled Songs") +
   guides(fill = guide_legend(reverse = TRUE)) +
   theme_gray(base_size = 14, base_family="Ubuntu")
-ggsave(paste(boutputDir, "hourly_scrobbles_by_gender.pdf", sep="/"), p, width=9, height=3.5)
+ggsave(paste(outputDir, "hourly_scrobbles_by_gender.pdf", sep="/"), p, width=9, height=3.5)
 
 p <- ggplot(WithShortCountryName(norm.hourly.plays.by.country), aes(x=hour, y=plays, fill=as.factor(cluster))) +
   geom_bar(stat="identity") +
